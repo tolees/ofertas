@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.17 % en Salomon Alphacross Blast  Zapatillas De '
-date: 2021-03-31 01:03:08
+date: 2021-04-01 05:23:06
 image: 'https://m.media-amazon.com/images/I/414AsmAIoGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SALOMON'
 buyurl: 'https://www.amazon.es/dp/B07Z5GWFLH/?tag=tolees-21'
 descuento: '46.17'
-average: '55.758'
+average: '54.54'
 ---
 
 Tienes [Salomon Alphacross Blast  Zapatillas De Trail Running Cómodas Y Fuerte Agarre Hombre  Color: Negro  Black/White/Black   43 1/3 EU](https://www.amazon.es/dp/B07Z5GWFLH/?tag=tolees-21) con un 46.17 % de descuento con precio de oferta de 48.45 EUR (original: 90.0 EUR) en el siguiente enlace!

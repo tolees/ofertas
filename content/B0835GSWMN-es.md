@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 39.97 % en DC Shoes Baggoff 1.5L - Riñonera - Hombr'
-date: 2021-03-14 04:13:58
+date: 2021-04-01 05:23:57
 image: 'https://m.media-amazon.com/images/I/41WTPYBtHRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0835GSWMN-es DC Shoes Baggoff 1.5L - Riñonera - Hombre - ONE SIZE'
 sku: 'B0835GSWMN-es'
+tags: [ 'Equipaje','Riñoneras','Riñoneras de moda','dc shoes', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0
@@ -27,9 +28,9 @@ Tienes [DC Shoes Baggoff 1.5L - Riñonera - Hombre - ONE SIZE](https://www.amazo
 
 ℹ️:
 
-- 1 compartimento principal con llavero en el interior
 - Bolsillo abierto en la parte frontal
 - Bolsillo trasero abierto
+- 1 compartimento principal con llavero en el interior
 - Logo DC frontal
 - Soporte para teléfono móvil
 
