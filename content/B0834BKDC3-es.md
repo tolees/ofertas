@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Duramo SL  Sneaker Hombre  Core B con un 43.65 % de descuento'
-date: 2021-03-23 08:58:10
+date: 2021-04-01 11:32:57
 image: 'https://m.media-amazon.com/images/I/31nN64xe5KL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ En este momento está [adidas Duramo SL  Sneaker Hombre  Core Black/Footwear Whi
 🔎:
 
 - Corte regular
-- Cordones de zapatos
 - Malla superior
+- Cordones de zapatos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0834BKDC3/?tag=tolees-21)
