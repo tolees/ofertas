@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Constructed Top Loose Camiseta  Dk Black 336-6
 
 🔎:
 
-- Bordado de G-Star en el pecho y etiqueta tejida en la parte superior trasera
-- Pinza en la parte superior trasera
-- Cuello redondo acanalado
-- Manga corta continuada
 - Bajo recto
+- Cuello redondo acanalado
+- Pinza en la parte superior trasera
+- Bordado de G-Star en el pecho y etiqueta tejida en la parte superior trasera
+- Manga corta continuada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088C9W8HQ/?tag=tolees-21)
