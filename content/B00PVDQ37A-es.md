@@ -28,13 +28,13 @@ Ahora mismo tienes [D-Link DWM-222 - Modem 4G LTE USB 2.0  150 Mbps  SIM Datos C
 
 🔎:
 
-- Formato USB 2.0, instalación Plug&Play integra los drivers, no necesita un CD-ROM, no es necesario ser un experto
-- LED Indicador de estado de conexión
 - Requisitos mínimos del sistema: Windows XP / Vista / 7/8/10, Mac OS X 10.5 o superior; 128 MB de RAM o superior; 50 MB de espacio disponible en disco
-- Modem 4G mediante USB para tener acceso a Internet en portátiles u ordenadores
+- LED Indicador de estado de conexión
+- Formato USB 2.0, instalación Plug&Play integra los drivers, no necesita un CD-ROM, no es necesario ser un experto
+- Libre: puedes usarlo mediante una SIM de datos de cualquier operador 3G/4G
 - Compatible con Windows XP / Vista / 7/8, Mac OS X 10.5 o superior
 - Ranura micro SD para insertar tarjetas de este formato y que funcione como memoria USB
 - 4G, velocidad máxima de descarga de 150 Mbps y 50 Mbps de subida
-- Libre: puedes usarlo mediante una SIM de datos de cualquier operador 3G/4G
+- Modem 4G mediante USB para tener acceso a Internet en portátiles u ordenadores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00PVDQ37A/?tag=tolees-21)

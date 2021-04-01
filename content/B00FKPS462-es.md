@@ -28,11 +28,11 @@ Ahora mismo tienes [Makita DC18WA - Cargador Litio-ion  14.4-18 V](https://www.a
 
 🔎:
 
-- Corriente (AC/DC): 230AC V
 - Tipo de batería: Litio-ion (1.3Ah)
-- Descripción: 14.4 - 18V
+- Corriente de carga: 2.6 Ah
+- Corriente (AC/DC): 230AC V
 - Las baterías G-Series batteries no son compatibles con la gama de cargadores o herramientas inalámbricas Makita LXT
 - Modelo: DC18WA
-- Corriente de carga: 2.6 Ah
+- Descripción: 14.4 - 18V
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00FKPS462/?tag=tolees-21)
