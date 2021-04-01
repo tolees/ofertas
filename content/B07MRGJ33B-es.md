@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Provocalips Labial Líquido con un 47.22 % de descuento'
-date: 2021-03-30 20:58:31
+date: 2021-04-01 03:52:35
 image: 'https://m.media-amazon.com/images/I/31fNyYiLFbL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rimmel London'
 buyurl: 'https://www.amazon.es/dp/B07MRGJ33B/?tag=tolees-21'
 descuento: '47.22'
-average: '4.26666666666667'
+average: '4.3875'
 ---
 
 En este momento está [Rimmel London Provocalips Labial Líquido  Tono 220 Lazy Daze - 7 m](https://www.amazon.es/dp/B07MRGJ33B/?tag=tolees-21) a 4.75 EUR (original: 9.0 EUR) (47.22 %  de descuento) en el siguiente enlace!
