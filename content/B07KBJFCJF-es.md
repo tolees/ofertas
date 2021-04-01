@@ -28,9 +28,9 @@ Ahora mismo tienes [Funko 35763 5 Estrellas: Aladdin: Genie  Multi](https://www.
 
 🔎:
 
-- Figura Funko 5 Star, Genie de Aladdin
-- Presentada en una caja con ventana que simula un libro
-- Este producto encantará a todos los fan de Aladdin
 - Fabricada en vinilo
+- Presentada en una caja con ventana que simula un libro
+- Figura Funko 5 Star, Genie de Aladdin
+- Este producto encantará a todos los fan de Aladdin
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KBJFCJF/?tag=tolees-21)

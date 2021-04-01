@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'find. Calzoncillo de Algodón Hombre  Pac con un 49.48 % de descuento'
-date: 2021-03-26 20:32:41
+date: 2021-04-01 16:18:36
 image: 'https://m.media-amazon.com/images/I/3183h1SdqaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,5 +28,8 @@ En este momento está [find. Calzoncillo de Algodón Hombre  Pack de 7  Black  B
 
 🔎:
 
+- Paquete de 5 calzoncillos
+- Algodón elástico
+- Cintura elástica a rayas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089BR9VB3/?tag=tolees-21)

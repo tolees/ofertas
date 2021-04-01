@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY STST1-75518 - Caja de herramient con un 47.99 % de descuento'
-date: 2021-03-31 16:12:37
+date: 2021-04-01 16:52:19
 image: 'https://m.media-amazon.com/images/I/41beEXlI6lL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B013ERLQDK/?tag=tolees-21'
 descuento: '47.99'
-average: '9.78623762376246'
+average: '9.76689320388358'
 ---
 
 En este momento está [STANLEY STST1-75518 - Caja de herramientas de plastico con cierre metálico  20 x 19.5 x 41 cm](https://www.amazon.es/dp/B013ERLQDK/?tag=tolees-21) a 8.79 EUR (original: 16.9 EUR) (47.99 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [STANLEY STST1-75518 - Caja de herramientas de plastico co
 
 🔎:
 
-- Dimensiones: 40.6 x 20.5 x 19.5 cm
-- Organizador para piezas pequeñas y accesorios en la tapa
+- Gama disponible en 3 medidas
 - Bandeja interior extraíble
 - Cierres metálicos
-- Gama disponible en 3 medidas
+- Dimensiones: 40.6 x 20.5 x 19.5 cm
+- Organizador para piezas pequeñas y accesorios en la tapa
 - Orificio para candado
 - Asa ergonómica
 
