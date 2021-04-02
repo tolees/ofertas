@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Colgate Protección Caries  Pasta de dien con un 60.66 % de descuento'
-date: 2021-03-24 21:21:24
+title: 'Colgate Protección Caries  Pasta de dien con un 65.93 % de descuento'
+date: 2021-04-02 05:44:43
 image: 'https://m.media-amazon.com/images/I/41gc3bG6GwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B00I98BCES-es Colgate Protección Caries Pasta de dientes flúor activo y...'
 sku: 'B00I98BCES-es'
 tags: [ 'Cuidado bucal','Pastas de dientes','Salud y cuidado personal','colgate', ]
-actualPrice: 1.79 EUR
+actualPrice: 1.55 EUR
 currency: EUR
-price: 1.79
+price: 1.55
 comparePrice: 4.55 EUR
 prodname: 'Colgate Protección Caries  Pasta de dientes  flúor activo y calcio líquido  sabor tradicional - 1 ud x 75ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'COLGATE'
 buyurl: 'https://www.amazon.es/dp/B00I98BCES/?tag=tolees-21'
-descuento: '60.66'
-average: '1.57784810126583'
+descuento: '65.93'
+average: '1.57716049382717'
 ---
 
-En este momento está [Colgate Protección Caries  Pasta de dientes  flúor activo y calcio líquido  sabor tradicional - 1 ud x 75ml](https://www.amazon.es/dp/B00I98BCES/?tag=tolees-21) a 1.79 EUR (original: 4.55 EUR) (60.66 %  de descuento) en el siguiente enlace!
+En este momento está [Colgate Protección Caries  Pasta de dientes  flúor activo y calcio líquido  sabor tradicional - 1 ud x 75ml](https://www.amazon.es/dp/B00I98BCES/?tag=tolees-21) a 1.55 EUR (original: 4.55 EUR) (65.93 %  de descuento) en el siguiente enlace!
 
 [![Colgate Protección Caries  Pasta de dien](https://m.media-amazon.com/images/I/41gc3bG6GwL._SL400_.jpg)](https://www.amazon.es/dp/B00I98BCES/?tag=tolees-21)
 
