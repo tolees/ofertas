@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jacdna Beanie Noos Gorro de Punto  Marrón  Chipmunk Chipmu
 
 ℹ️:
 
-- Beanie with logo
 - Hat with turned-up brim
+- Beanie with logo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07G12CP5Q/?tag=tolees-21)
