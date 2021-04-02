@@ -28,10 +28,10 @@ En este momento está [NEWCOOK Robot de Cocina Multifunción  Capacidad 5 Litros
 
 🔎:
 
-- COCINA AUTOMÁTICAMENTE: Elige la receta, añade los ingredientes y ajusta la temperatura y el tiempo de cocción.
 - PROGRAMABLE HASTA CON 24H DE ANTELACIÓN. Encuentra lista la comida a la hora que deseas con tan solo apretar un botón. Y si quieres mantenerla caliente durante más tiempo, ¡no hay problema! El robot de comida multifunción preserva el calor durante 24 horas.
-- INCLUYE UNA CUBETA DAIKIN DE 5L CON RECUBRIMEINTO 100% ANTIHADERENTE, además de una espátula, un cucharón, un vaso medidor, el accesorio para el vapor y un amplio recetario. ¡Todo lo que necesitas para preparar una comida riquísima!
 - ROBOT DE COCINA MULTIFUNCIÓN CON 9 FUNCIONES Y 8 MENÚS PRECONFIGURADOS. Para arroz, cocinar al vapor, a fuego lento, sopas, hornear, guisar, freír, plancha y calentar.
+- COCINA AUTOMÁTICAMENTE: Elige la receta, añade los ingredientes y ajusta la temperatura y el tiempo de cocción.
 - MANTIENE LA COMIDA CALIENTE HASTA 24H sin deteriorar ni la calidad, ni la textura, ni el sabor de los alimentos. Así podrás disfrutar de la comida como recién hecha en cualquier momento. Potencia: 700W
+- INCLUYE UNA CUBETA DAIKIN DE 5L CON RECUBRIMEINTO 100% ANTIHADERENTE, además de una espátula, un cucharón, un vaso medidor, el accesorio para el vapor y un amplio recetario. ¡Todo lo que necesitas para preparar una comida riquísima!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CD0I93Y/?tag=tolees-21)

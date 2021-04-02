@@ -29,7 +29,7 @@ Tienes [TRIXIE Set Higiene Dental  Pasta y cepillos dedos  Perro](https://www.am
 🔎:
 
 - para perros
-- para el completo cuidado dental del perro
 - contiene: pasta dientes con menta (100 g), 1 cepillo dientes de dedo y 1 cepillo masajeador, así como 1 cepillo doble cara con 2 cabezales
+- para el completo cuidado dental del perro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000V9AZUU/?tag=tolees-21)

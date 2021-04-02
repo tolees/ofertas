@@ -28,12 +28,12 @@ Ahora mismo tienes [Crocs Crocband Flip  Mujer  White  39/40 EU](https://www.ama
 
 🔎:
 
-- Altura del tacón: 1 centímetro
-- Material de la suela: Goma
 - Tipo de tacón: Plano
+- Material de la suela: Goma
 - Revestimiento: Sin forro
+- Composición: Sintético
 - Material exterior: Espuma
 - Cierre: Sin cordones
-- Composición: Sintético
+- Altura del tacón: 1 centímetro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002JCSXZQ/?tag=tolees-21)

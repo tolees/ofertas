@@ -28,8 +28,8 @@ En este momento está [TULIPA?N NEGRO - Tulipán Negro Gel De Baño Fresa y Nata
 
 🔎:
 
-- Con diseño funcional
 - Producto de alta calidad
 - Resistente
+- Con diseño funcional
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B017WK9A3I/?tag=tolees-21)

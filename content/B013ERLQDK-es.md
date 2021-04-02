@@ -28,12 +28,12 @@ En este momento está [STANLEY STST1-75518 - Caja de herramientas de plastico co
 
 🔎:
 
-- Orificio para candado
-- Cierres metálicos
+- Gama disponible en 3 medidas
 - Bandeja interior extraíble
 - Organizador para piezas pequeñas y accesorios en la tapa
+- Cierres metálicos
 - Asa ergonómica
+- Orificio para candado
 - Dimensiones: 40.6 x 20.5 x 19.5 cm
-- Gama disponible en 3 medidas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B013ERLQDK/?tag=tolees-21)

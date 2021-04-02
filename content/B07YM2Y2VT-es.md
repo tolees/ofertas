@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20th Century Fox Home Entertainment Espa al 39.89 % de descuento'
-date: 2021-04-01 22:13:10
+date: 2021-04-02 22:53:24
 image: 'https://m.media-amazon.com/images/I/51iOvki+PUL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: '20th Century Fox Home Entertainment España, S.A.'
 buyurl: 'https://www.amazon.es/dp/B07YM2Y2VT/?tag=tolees-21'
 descuento: '39.89'
-average: '14.6168497109828'
+average: '14.5983045977013'
 ---
 
 Ahora mismo tienes [20th Century Fox Home Entertainment España  S.A. - Joker Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07YM2Y2VT/?tag=tolees-21) a 11.39 EUR (original: 18.95 EUR) (39.89 %  de descuento) en el siguiente enlace!

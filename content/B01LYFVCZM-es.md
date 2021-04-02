@@ -28,8 +28,8 @@ Está [Playmobil-9261 Jockey  Multicolor  9261 ](https://www.amazon.es/dp/B01LYF
 
 ℹ️:
 
-- Y accesorios
-- Incluye 1 figura
 - Con caballo
+- Incluye 1 figura
+- Y accesorios
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LYFVCZM/?tag=tolees-21)

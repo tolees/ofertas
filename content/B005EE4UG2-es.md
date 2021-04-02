@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel EnerGel-X -BL107-A Bolígrafos ret al 37.82 % de descuento'
-date: 2021-04-01 18:45:52
+date: 2021-04-02 22:54:58
 image: 'https://m.media-amazon.com/images/I/31BMtyZdD+L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.es/dp/B005EE4UG2/?tag=tolees-21'
 descuento: '37.82'
-average: '10.3290688259109'
+average: '10.3229718875502'
 ---
 
 Ahora mismo tienes [Pentel EnerGel-X -BL107-A Bolígrafos retráctiles  12 unidades  punta de 0 7 mm   color negro](https://www.amazon.es/dp/B005EE4UG2/?tag=tolees-21) a 9.57 EUR (original: 15.39 EUR) (37.82 %  de descuento) en el siguiente enlace!

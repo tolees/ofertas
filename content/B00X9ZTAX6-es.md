@@ -28,13 +28,13 @@ Está [Pantene Pro-V Aqua Light Acondicionador  Hidratación sin Apelmazamiento 
 
 ℹ️:
 
-- Testado por el Swiss Vitamin Institute
-- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
 - Limpia en profundidad y proporciona una nutrición ligera
-- Deja el pelo fresco, ligero y con movimiento
+- Sin aceites minerales y sin colorantes
 - Aumenta la fortaleza del pelo con un acondicionador con nutrientes Pro-V
 - Acondicionador para pelo con tendencia a engrasarse
-- Sin aceites minerales y sin colorantes
 - Limpia las impurezas en profundidad
+- Deja el pelo fresco, ligero y con movimiento
+- Botella 100 % reciclable, hecha con un 25 % de plástico reciclado (excepto el tapón)
+- Testado por el Swiss Vitamin Institute
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00X9ZTAX6/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Vans Herren Left Chest Logo Tee T-Shirt  Weiß  White Bla
 
 🔎:
 
-- 100 % algodón
-- Camiseta de 185 g
 - Corte entallado
+- Camiseta de 185 g
+- 100 % algodón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FHDTN13/?tag=tolees-21)
