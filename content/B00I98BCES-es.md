@@ -29,7 +29,7 @@ En este momento está [Colgate Protección Caries  Pasta de dientes  flúor acti
 🔎:
 
 - Advertencia de seguridad: Niños de seis años o menores; utilizar una cantidad del tamaño de un guisante bajo la supervisión de un adulto a fin de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o médico de cabecera.
-- Instrucciones para su uso adecuado: Niños de 6 años o menores o menores: utilizar una cantidad del tamñano de un guisante bajo la supervisión de un adulto a in de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.
 - Ingredientes: Dicalcium phospahte, aqua, glycerin, sodium lauryl sulfate, cellulose gum, aroma, sodium monofluorophospate, testrasodium pyrophosphate, sodium saccharin, sodium fluoride, calcium glycerophosphate, limonene.
+- Instrucciones para su uso adecuado: Niños de 6 años o menores o menores: utilizar una cantidad del tamñano de un guisante bajo la supervisión de un adulto a in de minimizar el riesgo de ingestión. En caso de recibir un aporte suplementario de flúor a través de otras fuentes, consulte a su odontólogo o su médico de cabecera.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00I98BCES/?tag=tolees-21)
