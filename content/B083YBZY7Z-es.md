@@ -28,8 +28,8 @@ Ahora mismo tienes [KIPLING Cartera Money Love Blue Bleu 2](https://www.amazon.e
 
 🔎:
 
-- Cartera
 - Classics
+- Cartera
 - Para mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083YBZY7Z/?tag=tolees-21)

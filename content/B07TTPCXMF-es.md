@@ -28,7 +28,7 @@ Ahora mismo tienes [Kipling Izellah  Bolso con Bandolera para Mujer  Plateado  M
 
 🔎:
 
-- sintético.
 - Con cremallera.
+- sintético.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TTPCXMF/?tag=tolees-21)

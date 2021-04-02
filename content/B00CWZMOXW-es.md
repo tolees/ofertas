@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 36.32 % en Tayg Caja herramientas n. 500-E  500 x 2'
-date: 2021-03-16 04:20:37
+date: 2021-04-02 21:46:18
 image: 'https://m.media-amazon.com/images/I/413qM2tx7cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CWZMOXW-es Tayg Caja herramientas n. 500-E 500 x 295 x 270 mm'
 sku: 'B00CWZMOXW-es'
+tags: [ 'Bricolaje y herramientas','Cajas y maletines de herramientas','Herramientas manuales y eléctricas','Organizadores de herramientas','tayg', ]
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

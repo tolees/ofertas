@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Herren Left Chest Logo Tee T-Shirt  con un 35.05 % de descuento'
-date: 2021-04-01 15:56:56
+date: 2021-04-02 21:23:04
 image: 'https://m.media-amazon.com/images/I/31NsoHwsMGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B07FHDTN13/?tag=tolees-21'
 descuento: '35.05'
-average: '14.086'
+average: '13.9570588235294'
 ---
 
 En este momento está [Vans Herren Left Chest Logo Tee T-Shirt  Weiß  White Black Yb   Medium](https://www.amazon.es/dp/B07FHDTN13/?tag=tolees-21) a 12.99 EUR (original: 20.0 EUR) (35.05 %  de descuento) en el siguiente enlace!
