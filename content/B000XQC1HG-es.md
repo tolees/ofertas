@@ -28,8 +28,8 @@ Está [Bosch 2 607 432 013 - Filtro textil - -  pack de 1 ](https://www.amazon.e
 
 ℹ️:
 
-- Filtro textil con anillo de plástico
-- Accesorio para herramientas eléctricas profesionales
 - Compatible con PAS 11-21, PAS 12-27 y PAS 12-27 F
+- Accesorio para herramientas eléctricas profesionales
+- Filtro textil con anillo de plástico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000XQC1HG/?tag=tolees-21)

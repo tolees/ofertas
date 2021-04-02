@@ -28,8 +28,8 @@ Está [Revlon  Brillo labial - 1 Unidad](https://www.amazon.es/dp/B06ZYFZWLL/?ta
 
 ℹ️:
 
+- Productos para tu cuidado personal, para tu bienestar, y para la higiene personal
 - Salud, bienestar, cuidado, perfumes, lociones, gel Revlon Ultra HD Matte Metallic Lipcolor 715 Glow
 - Revlon Ultra HD Matte Metallic Lipcolor 715 Glow
-- Productos para tu cuidado personal, para tu bienestar, y para la higiene personal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06ZYFZWLL/?tag=tolees-21)

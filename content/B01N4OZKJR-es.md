@@ -1,31 +1,37 @@
 ---
 layout: post
-title: 'Citizen Reloj Analógico para Hombre de C al 30.97 % de rebaja'
-date: 2020-10-07 05:20:29
+title: 'Citizen Reloj Analógico para Hombre de C al 36.34 % de rebaja'
+date: 2021-04-02 14:43:25
 image: 'https://m.media-amazon.com/images/I/51S2IDjSmaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01N4OZKJR-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B01N4OZKJR-es'
-actualPrice: 95.95 EUR
+tags: [ 'Relojes','Relojes de pulsera para hombres','Relojes para hombre','citizen', ]
+actualPrice: 88.49 EUR
 currency: EUR
-price: 95.95
+price: 88.49
 comparePrice: 139.0 EUR
 prodname: 'Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Nailon AW5000-16L'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Citizen'
 buyurl: 'https://www.amazon.es/dp/B01N4OZKJR/?tag=tolees-21'
-descuento: '30.97'
-average: '95.86437500000001'
+descuento: '36.34'
+average: '95.045'
 ---
 
-Tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Nailon AW5000-16L](https://www.amazon.es/dp/B01N4OZKJR/?tag=tolees-21) con precio final de  95.95 EUR (original: 139.0 EUR) (30.97 %  de rebaja) aqui!
+Tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Nailon AW5000-16L](https://www.amazon.es/dp/B01N4OZKJR/?tag=tolees-21) con precio final de  88.49 EUR (original: 139.0 EUR) (36.34 %  de rebaja) aqui!
 
 [![Citizen Reloj Analógico para Hombre de C](https://m.media-amazon.com/images/I/51S2IDjSmaL._SL400_.jpg)](https://www.amazon.es/dp/B01N4OZKJR/?tag=tolees-21)
 
 🔎:
 
+- Diámetro de la caja: 43 mm
+- Esfera: azul con manecillas luminosas, números arábigos blancos y detalles rojos
+- Sumergible: 10 bares
+- Material de la correa: nailon azul
+- Material de la carcasa: acero inoxidable plateado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N4OZKJR/?tag=tolees-21)
