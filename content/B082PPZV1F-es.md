@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joker 4k Uhd [Blu-ray] al 39.05 % de descuento'
-date: 2021-03-30 21:20:09
+date: 2021-04-01 22:21:35
 image: 'https://m.media-amazon.com/images/I/415JYJJvR5L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PPZV1F/?tag=tolees-21'
 descuento: '39.05'
-average: '18.7110000000001'
+average: '18.4272727272728'
 ---
 
 Está [Joker 4k Uhd [Blu-ray]](https://www.amazon.es/dp/B082PPZV1F/?tag=tolees-21) con 39.05 de descuento por 15.59 EUR (original: 25.58 EUR) en el siguiente enlace!

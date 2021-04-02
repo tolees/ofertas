@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Bambi  2014  [DVD] al 36.61 % de rebaja'
-date: 2021-03-30 21:19:35
+date: 2021-04-01 22:44:48
 image: 'https://m.media-amazon.com/images/I/510OEqfHreL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B00JVQV04E/?tag=tolees-21'
 descuento: '36.61'
-average: '9.8258064516129'
+average: '9.83575757575757'
 ---
 
 Tienes [Disney - Bambi  2014  [DVD]](https://www.amazon.es/dp/B00JVQV04E/?tag=tolees-21) con precio final de  9.99 EUR (original: 15.76 EUR) (36.61 %  de rebaja) aqui!

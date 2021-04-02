@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney Pictures - El Rey León BD  i al 35.90 % de descuento'
-date: 2021-03-22 04:55:00
+date: 2021-04-01 22:13:39
 image: 'https://m.media-amazon.com/images/I/5113iUC8tmL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Walt Disney Pictures'
 buyurl: 'https://www.amazon.es/dp/B07VHCLCF7/?tag=tolees-21'
 descuento: '35.90'
-average: '17.5899999999998'
+average: '17.5131999999998'
 ---
 
 Ahora mismo tienes [Walt Disney Pictures - El Rey León BD  imagen real  [Blu-ray]](https://www.amazon.es/dp/B07VHCLCF7/?tag=tolees-21) a 14.71 EUR (original: 22.95 EUR) (35.90 %  de descuento) en el siguiente enlace!
