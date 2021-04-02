@@ -28,10 +28,10 @@ Ahora mismo tienes [Pepe Jeans Thrift PL400755CF7 Chaqueta Vaquera  Azul  Denim 
 
 🔎:
 
-- Manga larga
-- 98% Algodón, 2% Elastano
-- Lavar a máquina
 - Denim
 - Estilo del cuello: Clásico
+- Manga larga
+- Lavar a máquina
+- 98% Algodón, 2% Elastano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C477LYR/?tag=tolees-21)
