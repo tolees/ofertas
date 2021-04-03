@@ -28,8 +28,8 @@ En este momento está [TRIXIE Rata-Ratón  Con huella neumático  Látex  22 cm 
 
 🔎:
 
+- con marcas de ruedas
 - con sonido
 - de látex
-- con marcas de ruedas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0029EWUA8/?tag=tolees-21)

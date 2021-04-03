@@ -28,8 +28,8 @@ Tienes [TRIXIE Palo posadero  Natural Living  20 cm  ø15 mm  Pájaros](https://
 
 ℹ️:
 
-- la forma natural es idónea para las patas de las aves y contribuye al bienestar de las aves
 - madera natural
 - con tornillería y accesorios
+- la forma natural es idónea para las patas de las aves y contribuye al bienestar de las aves
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000WFCEH0/?tag=tolees-21)
