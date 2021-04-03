@@ -28,10 +28,10 @@ Tienes [Trixie Dog Activity Juego Interactivo - Juguete Para Perros Accesorios P
 
 🔎:
 
-- INTERACTIVO : El perro consigue su premio usando diferentes técnicas lo que favorece el entretenimiento y la buena conducta.
-- SEGURO Y RESPETUOSO : El tablero tiene 2 conos y hendiduras con tapas con bisagras y deslizantes plástico antideslizante por la base de caucho.
 - TRIXIE : Líder europeo en accesorios para mascotas que pone a tu disposición una amplia gama de juguetes para mascotas
 - DIVERTIDO : Mejora la relación con tu mascota ayudándole a entender el juego y a jugar con él. El juego viene con instrucciones.
 - MEJORA SU INTELIGENCIA : Un juego para perros que mejora no sólo su condición física sino también su intelecto. Los Dog Activity están disponibles en diferentes niveles de dificultad, lo que permite ir mejorando e incrementando el estímulo mental.
+- INTERACTIVO : El perro consigue su premio usando diferentes técnicas lo que favorece el entretenimiento y la buena conducta.
+- SEGURO Y RESPETUOSO : El tablero tiene 2 conos y hendiduras con tapas con bisagras y deslizantes plástico antideslizante por la base de caucho.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0054Q9TMA/?tag=tolees-21)

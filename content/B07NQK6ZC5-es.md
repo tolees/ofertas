@@ -28,8 +28,8 @@ Tienes [The Noble Collection Harry Potter PVC Wand y Prismatic Bookmark](https:/
 
 ℹ️:
 
-- Alta calidad
 - Caja ilustrada con ventana
+- Alta calidad
 - Réplica exacta
 - Colección harry potter
 - Licencia oficial
