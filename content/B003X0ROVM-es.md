@@ -28,8 +28,8 @@ Tienes [Chloe 22810 Loción corporal - 200 ml](https://www.amazon.es/dp/B003X0RO
 
 ℹ️:
 
-- Loción corporal 200 mililitros
-- Cuidado de la piel
 - Cosmético
+- Cuidado de la piel
+- Loción corporal 200 mililitros
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003X0ROVM/?tag=tolees-21)
