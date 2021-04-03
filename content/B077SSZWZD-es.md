@@ -30,8 +30,8 @@ Ahora mismo tienes [PUMA LIGA Baselayer Long Tight Pants  Hombre  Puma Black  XL
 
 - El elastano contenido proporciona elasticidad duradera y mejora la libertad de movimiento
 - Impresión del felino PUMA, Transferencia térmica en la pierna izquierda
-- Corte ajustado
 - dryCELL
+- Corte ajustado
 - Ropa de compresión ligera: las capas pegadas a la piel están diseñadas para trabajar con al sistema natural del cuerpo y potenciar al máximo el rendimiento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077SSZWZD/?tag=tolees-21)

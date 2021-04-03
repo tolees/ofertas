@@ -28,10 +28,10 @@ Tienes [Columbia Zero Rules Polo con Protección Solar 30  Hombre  Gris  Tiburó
 
 🔎:
 
-- Tratamiento antimicrobiano para asegurar la protección contra el crecimiento bacteriano
-- Protección solar Omni-Shade UPF 30, opción de girar el cuello para una mayor cobertura
-- 1x Columbia Zero Rules, Polo técnico, Hombre, Fibra sintética, Negro (Shark Heather), S, Art. 1533303
 - El sistema de refrigeración activado por el sudor Omni-Freeze Zero, una sinergia en tándem con el sistema de transpiración Omni-Wick
+- Tratamiento antimicrobiano para asegurar la protección contra el crecimiento bacteriano
+- 1x Columbia Zero Rules, Polo técnico, Hombre, Fibra sintética, Negro (Shark Heather), S, Art. 1533303
+- Protección solar Omni-Shade UPF 30, opción de girar el cuello para una mayor cobertura
 - Un gran polo, técnica y estilísticamente, combina un look casual y elegante junto con las últimas innovaciones de Omni
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B017WHFUO4/?tag=tolees-21)

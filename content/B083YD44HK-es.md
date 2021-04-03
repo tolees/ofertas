@@ -28,8 +28,8 @@ Tienes [Kipling Creativity S  Pouches/Cases para Mujer  Grey Grau  4x14.5x9.5 cm
 
 🔎:
 
-- Classics
 - Bolsillos/carcasas
 - Para mujer
+- Classics
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083YD44HK/?tag=tolees-21)
