@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20th Century Fox Home Entertainment Espa al 58.88 % de descuento'
-date: 2021-04-01 23:26:02
+date: 2021-04-03 18:29:35
 image: 'https://m.media-amazon.com/images/I/41wj4YpVMaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: '20th Century Fox Home Entertainment España, S.A.'
 buyurl: 'https://www.amazon.es/dp/B07Y9W82KS/?tag=tolees-21'
 descuento: '58.88'
-average: '10.49'
+average: '9.49'
 ---
 
 Ahora mismo tienes [20th Century Fox Home Entertainment España  S.A. - Ad Astra Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07Y9W82KS/?tag=tolees-21) a 7.99 EUR (original: 19.43 EUR) (58.88 %  de descuento) en el siguiente enlace!

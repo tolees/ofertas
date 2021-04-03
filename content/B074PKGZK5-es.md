@@ -28,9 +28,9 @@ Tienes [PDP - Pixel Pals Halo Master Chief](https://www.amazon.es/dp/B074PKGZK5/
 
 ℹ️:
 
-- Light up pixel-art renditions of iconic characters
 - Officially licensed by 343 Industries
-- Features collectible characters from your favourite franchises
 - AAA battery powered
+- Features collectible characters from your favourite franchises
+- Light up pixel-art renditions of iconic characters
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B074PKGZK5/?tag=tolees-21)
