@@ -28,12 +28,12 @@ Tienes [D-Link GO-SW-5E - Switch de red con 5 puertos 10/100 Mps  color blanco](
 
 ℹ️:
 
-- Sin ventilador, funcionamiento silencioso
-- Formato sobremesa y tamaño muy reducido
-- Indicadores led del estado de conexión y actividad en cada puerto
 - 5 puertos con velocidad Fast Ethernet (10/100 Mbps) y full dúplex
+- Indicadores led del estado de conexión y actividad en cada puerto
 - Aumenta la capacidad de tu red cableada para conectar hasta 5 equipos por cable de red Ethernet LAN de CAT5 y CAT6
 - D-Link Green: los puertos sin conexión se desconectan automáticamente y se mide la longitud del cable para adecuar el consumo eléctrico, alcanzando un ahorro energético de hasta un 85%
+- Formato sobremesa y tamaño muy reducido
 - No necesita configuración: enchufar, conectar y listo
+- Sin ventilador, funcionamiento silencioso
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00D6M2PC0/?tag=tolees-21)

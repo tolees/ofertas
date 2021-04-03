@@ -28,12 +28,12 @@ En este momento está [Crocs Crocband Flip  Unisex Adulto  White  42/43 EU](http
 
 🔎:
 
-- Material exterior: Espuma
 - Revestimiento: Sin forro
-- Cierre: Sin cordones
-- Altura del tacón: 1 centímetro
-- Material de la suela: Goma
-- Tipo de tacón: Plano
 - Composición: Sintético
+- Tipo de tacón: Plano
+- Altura del tacón: 1 centímetro
+- Cierre: Sin cordones
+- Material de la suela: Goma
+- Material exterior: Espuma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002JCSY28/?tag=tolees-21)

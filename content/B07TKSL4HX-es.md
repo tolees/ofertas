@@ -28,8 +28,8 @@ Tienes [Clarks Sift Lace  Zapatillas Mujer  Negro  Black Snake Black Snake   37.
 
 🔎:
 
+- Interior: textil
 - Suela: goma
 - Exterior: piel
-- Interior: textil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TKSL4HX/?tag=tolees-21)

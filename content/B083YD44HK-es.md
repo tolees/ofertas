@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Creativity S  Pouches/Cases para al 54.08 % de rebaja'
-date: 2021-03-27 00:02:20
+date: 2021-04-03 16:48:06
 image: 'https://m.media-amazon.com/images/I/41NZwyq8zQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Kipling Creativity S  Pouches/Cases para Mujer  Grey Grau  4x14.5x9.5 cm
 
 🔎:
 
+- Classics
 - Bolsillos/carcasas
 - Para mujer
-- Classics
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083YD44HK/?tag=tolees-21)
