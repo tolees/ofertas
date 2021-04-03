@@ -28,8 +28,8 @@ Tienes [Jeanne Arthes. Perfume Guipure Ylang vainilla 100 ml](https://www.amazo
 
 🔎:
 
-- Diseño original.
 - Perfume Guipure & Silk Ylang vainilla describe a la mujer hipnotizante que acepta su lado pasional, y que le gusta añadir un toque de exotismo en su vida.
+- Diseño original.
 - Hecho en Grasse, Francia.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071JP4VZC/?tag=tolees-21)
