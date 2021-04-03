@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20th Century Fox Home Entertainment Espa al 59.91 % de descuento'
-date: 2021-04-02 09:10:54
+date: 2021-04-03 10:38:34
 image: 'https://m.media-amazon.com/images/I/51xmW+IYKYL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: '20th Century Fox Home Entertainment España, S.A.'
 buyurl: 'https://www.amazon.es/dp/B07QSYQLYB/?tag=tolees-21'
 descuento: '59.91'
-average: '8.55545454545455'
+average: '8.49166666666667'
 ---
 
 Ahora mismo tienes [20th Century Fox Home Entertainment España  S.A. - ¡Shazam! Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07QSYQLYB/?tag=tolees-21) a 7.79 EUR (original: 19.43 EUR) (59.91 %  de descuento) en el siguiente enlace!

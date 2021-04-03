@@ -28,7 +28,7 @@ Está [Bosch Professional - Bosch 2 608 600 178 - Vaso de amolar de metal duro -
 
 ℹ️:
 
-- Diámetro mm: 115
 - Diámetro del orificio mm: 22,23
+- Diámetro mm: 115
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0014GUDF6/?tag=tolees-21)
