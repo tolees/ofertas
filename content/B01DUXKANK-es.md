@@ -28,8 +28,8 @@ Está [L Oréal Paris - L Oreal Paris Active Antirrugas Colágeno - Crema hidrat
 
 ℹ️:
 
-- Ingredientes de alta calidad
-- Fácil aplicación
 - Contiene colágeno
+- Fácil aplicación
+- Ingredientes de alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DUXKANK/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger - Funny Games Demoniak  Jue al 39.25 % de rebaja'
-date: 2021-04-02 14:12:46
+date: 2021-04-03 14:43:26
 image: 'https://m.media-amazon.com/images/I/61br4snRTEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Ravensburger - Funny Games Demoniak  Juego de Mesa  26723 ](https://www.
 
 🔎:
 
-- Formato compacto súper práctico
-- Edad recomendada: a parir de 8 años
-- Reglas simples e intuitivas
-- Numerosas variaciones del juego
 - Partidas cortas pero intensas
+- Reglas simples e intuitivas
+- Edad recomendada: a parir de 8 años
+- Numerosas variaciones del juego
+- Formato compacto súper práctico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01HI2O7R4/?tag=tolees-21)

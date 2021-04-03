@@ -28,10 +28,10 @@ Está [TOPELEK - Mouse para jugador Patuoxun® 3200 DPI Wired LED  de 7 botone
 
 ℹ️:
 
+- La tecnología de láser óptico funciona en la mayoría de las superficies; de forma ergonómica, para uso a largo plazo sin fatiga; conectividad inteligente, no necesita programarse, conectar y jugar.
 - Peso: 140 gramos aproximadamente; compatible con Windows XP, Vista, Windows 7, ME, 2000 y Mac OS. Usuarios: jugadores de alta gama, jugadores profesionales.
 - Peso del hierro integrado, se siente cómodo, práctico y estable; vida útil del interruptor: 5 millones de pulsaciones; dimensiones: 127 (L) x 85 (A) x 37 (A) milímetros.
-- La tecnología de láser óptico funciona en la mayoría de las superficies; de forma ergonómica, para uso a largo plazo sin fatiga; conectividad inteligente, no necesita programarse, conectar y jugar.
-- Mouse de alta calidad; botones: 7 más la rueda de desplazamiento; sistema de seguimiento: óptico.
 - DPI máximo: 3200 DPI; conmutador DPI regulable: 1000 DPI (luz roja)/1600 DPI (luz verde)/2400 DPI (luz azul)/3200 DPI (luz blanca); rueda de desplazamiento ultra precisa.
+- Mouse de alta calidad; botones: 7 más la rueda de desplazamiento; sistema de seguimiento: óptico.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00RL7UUT6/?tag=tolees-21)

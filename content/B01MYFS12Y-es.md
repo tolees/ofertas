@@ -28,10 +28,10 @@ Ahora mismo tienes [Philips Avent SCF213/22 - Pack de dos chupetes ultra suaves 
 
 🔎:
 
-- Tetina ortodrómica
-- Tetinas suaves y cómodas
-- Estuche de esterilización y transporte fácil de usar
 - Para reducir las marcas y la irritación de la piel
+- Tetinas suaves y cómodas
 - Escudo ultra suave y flexible
+- Estuche de esterilización y transporte fácil de usar
+- Tetina ortodrómica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MYFS12Y/?tag=tolees-21)

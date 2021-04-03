@@ -1,38 +1,39 @@
 ---
 layout: post
-title: 'Crocs Crocband Flip  Unisex Adulto  Whit con un 51.86 % de descuento'
-date: 2021-03-13 13:37:34
+title: 'Crocs Crocband Flip  Unisex Adulto  Whit con un 61.70 % de descuento'
+date: 2021-04-03 14:52:21
 image: 'https://m.media-amazon.com/images/I/31gxt3wp+UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002JCSY28-es Crocs Crocband Flip Unisex Adulto White 42/43 EU'
 sku: 'B002JCSY28-es'
-actualPrice: 12.03 EUR
+tags: [ 'Sandalias de dedo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','crocs', ]
+actualPrice: 9.57 EUR
 currency: EUR
-price: 12.03
+price: 9.57
 comparePrice: 24.99 EUR
 prodname: 'Crocs Crocband Flip  Unisex Adulto  White  42/43 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B002JCSY28/?tag=tolees-21'
-descuento: '51.86'
-average: '13.136'
+descuento: '61.70'
+average: '12.0111111111112'
 ---
 
-En este momento está [Crocs Crocband Flip  Unisex Adulto  White  42/43 EU](https://www.amazon.es/dp/B002JCSY28/?tag=tolees-21) a 12.03 EUR (original: 24.99 EUR) (51.86 %  de descuento) en el siguiente enlace!
+En este momento está [Crocs Crocband Flip  Unisex Adulto  White  42/43 EU](https://www.amazon.es/dp/B002JCSY28/?tag=tolees-21) a 9.57 EUR (original: 24.99 EUR) (61.70 %  de descuento) en el siguiente enlace!
 
 [![Crocs Crocband Flip  Unisex Adulto  Whit](https://m.media-amazon.com/images/I/31gxt3wp+UL._SL400_.jpg)](https://www.amazon.es/dp/B002JCSY28/?tag=tolees-21)
 
 🔎:
 
 - Material exterior: Espuma
-- Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Revestimiento: Sin forro
+- Cierre: Sin cordones
 - Altura del tacón: 1 centímetro
-- Composición: Sintético
 - Material de la suela: Goma
+- Tipo de tacón: Plano
+- Composición: Sintético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002JCSY28/?tag=tolees-21)

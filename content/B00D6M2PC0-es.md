@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.96 % en D-Link GO-SW-5E - Switch de red con 5 pu'
-date: 2021-03-20 00:48:59
+date: 2021-04-03 14:59:03
 image: 'https://m.media-amazon.com/images/I/311uLF1hGNL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.es/dp/B00D6M2PC0/?tag=tolees-21'
 descuento: '35.96'
-average: '6.85550000000001'
+average: '6.86681818181819'
 ---
 
 Tienes [D-Link GO-SW-5E - Switch de red con 5 puertos 10/100 Mps  color blanco](https://www.amazon.es/dp/B00D6M2PC0/?tag=tolees-21) con un 35.96 % de descuento con precio de oferta de 6.98 EUR (original: 10.9 EUR) en el siguiente enlace!
@@ -28,12 +28,12 @@ Tienes [D-Link GO-SW-5E - Switch de red con 5 puertos 10/100 Mps  color blanco](
 
 ℹ️:
 
-- D-Link Green: los puertos sin conexión se desconectan automáticamente y se mide la longitud del cable para adecuar el consumo eléctrico, alcanzando un ahorro energético de hasta un 85%
-- No necesita configuración: enchufar, conectar y listo
-- 5 puertos con velocidad Fast Ethernet (10/100 Mbps) y full dúplex
-- Indicadores led del estado de conexión y actividad en cada puerto
-- Aumenta la capacidad de tu red cableada para conectar hasta 5 equipos por cable de red Ethernet LAN de CAT5 y CAT6
 - Sin ventilador, funcionamiento silencioso
 - Formato sobremesa y tamaño muy reducido
+- Indicadores led del estado de conexión y actividad en cada puerto
+- 5 puertos con velocidad Fast Ethernet (10/100 Mbps) y full dúplex
+- Aumenta la capacidad de tu red cableada para conectar hasta 5 equipos por cable de red Ethernet LAN de CAT5 y CAT6
+- D-Link Green: los puertos sin conexión se desconectan automáticamente y se mide la longitud del cable para adecuar el consumo eléctrico, alcanzando un ahorro energético de hasta un 85%
+- No necesita configuración: enchufar, conectar y listo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00D6M2PC0/?tag=tolees-21)
