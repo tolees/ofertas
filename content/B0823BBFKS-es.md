@@ -29,9 +29,9 @@ En este momento está [adidas Roguera  Zapatillas de Cross Training Mujer  Ftwwh
 🔎:
 
 - Parte superior de piel lisa
-- Suela de goma; forro textil
+- Horma clásica
 - Cierre de cordones
 - Mediasuela ligera de EVA; plantilla ligera de EVA con tecnología Adibouncy
-- Horma clásica
+- Suela de goma; forro textil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0823BBFKS/?tag=tolees-21)
