@@ -28,9 +28,9 @@ Está [Dewalt DT71563-QZ DT71563-QZ-Juego de 100 Piezas taladrar 12XBrocas para 
 
 ℹ️:
 
-- Incluye tamaños de destornillador más comunes
-- Con estuche de almacenamiento de plástico resistente
 - Incluye brocas adecuadas para taladrar en metal, madera, plástico y mampostería
+- Con estuche de almacenamiento de plástico resistente
 - Dewalt dt71563-qz - juego de 100 piezas para atornillar y taladrar; 12xbrocas para madera3-8mm, 3x brocas para mamposteía 6-8mm, 12x brocas para metal 1, 5-6mm, puntas para atornillar, 1 avellanador, 2x coronas 32, 44mm, broca piloto
+- Incluye tamaños de destornillador más comunes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01L31KAGI/?tag=tolees-21)
