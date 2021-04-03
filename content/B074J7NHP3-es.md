@@ -29,8 +29,8 @@ En este momento está [Bbagua GS300003 Filtro Antical Calentadores  Lavadora y L
 🔎:
 
 - ➤Beneficios: evita incrustaciones de cal en la resistencia del calentador
-- ➤Evita en un % elevado incrustaciones de cal en calderas y calentadores
 - ➤Cartucho de sustitución: bote de polifosfatos piedras 500 gr de Bbagua
+- ➤Evita en un % elevado incrustaciones de cal en calderas y calentadores
 - ➤Duración de las piedras: cambiarlas cuando se hayan agotado; la duración dependera de la cantidad de agua consumida
 - ➤Incluye: carcasa de filtro y carga de piedras de polifosfatos. Con rosca embra de 1/2"
 
