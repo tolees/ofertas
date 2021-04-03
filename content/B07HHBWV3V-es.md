@@ -28,10 +28,10 @@ En este momento está [Manfrotto Befree Live  Trípode de Viaje con Cabezal para
 
 🔎:
 
-- SEGURO: gracias a la placa y al sistema de bloqueo QPL Travel, se garantiza la máxima estabilidad en todas las circunstancias, aumentando la precisión y la nitidez de los disparos
-- COMPLETA: la cabeza fluida de Befree Live garantiza movimientos suaves, con un sistema de arrastre de fluidos en la placa deslizante de paneo e inclinación
-- COMBINABLE: Befree Live puede ser usado para grabar video con cámaras Reflex, cámaras CSC o pequeñas cámaras de video con un peso de hasta 4 kg
-- VERSÁTIL: permite cambiar la perspectiva y la altura del trípode sin perder el enfoque de la cámara. Los ángulos de las patas son independientes para tener plena libertad creativa
 - PORTÁTIL: fácil de usar y de configurar, este trípode de viaje se adapta a todas las situaciones de viaje, además su cuerpo de aluminio lo hace ligero de llevar, pero fuerte y resistente
+- COMBINABLE: Befree Live puede ser usado para grabar video con cámaras Reflex, cámaras CSC o pequeñas cámaras de video con un peso de hasta 4 kg
+- SEGURO: gracias a la placa y al sistema de bloqueo QPL Travel, se garantiza la máxima estabilidad en todas las circunstancias, aumentando la precisión y la nitidez de los disparos
+- VERSÁTIL: permite cambiar la perspectiva y la altura del trípode sin perder el enfoque de la cámara. Los ángulos de las patas son independientes para tener plena libertad creativa
+- COMPLETA: la cabeza fluida de Befree Live garantiza movimientos suaves, con un sistema de arrastre de fluidos en la placa deslizante de paneo e inclinación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HHBWV3V/?tag=tolees-21)
