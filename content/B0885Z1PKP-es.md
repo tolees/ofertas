@@ -28,10 +28,10 @@ Está [Xiaomi Redmi Note 9 - Smartphone con Pantalla FHD+ de 6.53" DotDisplay  3
 
 ℹ️:
 
-- Batería: 5020 mAh
 - Procesador: Mediatek Helio G85 2GHz
-- Cámara: Cuádruple, 48MP+8MP +2MP+2MP
-- Pantalla: 6.53", 1080 x 2340 pixels
+- Batería: 5020 mAh
 - OS: Android 10
+- Pantalla: 6.53", 1080 x 2340 pixels
+- Cámara: Cuádruple, 48MP+8MP +2MP+2MP
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0885Z1PKP/?tag=tolees-21)
