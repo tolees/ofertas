@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI Wi-Fi WS5200 AC1200 - Router inal al 45.54 % de descuento'
-date: 2021-04-03 02:30:16
+date: 2021-04-04 12:41:35
 image: 'https://m.media-amazon.com/images/I/31jGCB--XCL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B07D7MVKT2/?tag=tolees-21'
 descuento: '45.54'
-average: '34.0002857142857'
+average: '33.8863888888889'
 ---
 
 Ahora mismo tienes [HUAWEI Wi-Fi WS5200 AC1200 - Router inalámbrico Gigabit  Dual-Band  4 Puertos Ethernet  Router WiFi Inteligente de Largo Alcance  MU-MIMO  procesador de 28nm  fácil de configurar  Blanco](https://www.amazon.es/dp/B07D7MVKT2/?tag=tolees-21) a 29.9 EUR (original: 54.9 EUR) (45.54 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [HUAWEI Wi-Fi WS5200 AC1200 - Router inalámbrico Gigabit  Du
 
 🔎:
 
+- Velocidad máxima con 5 GHz. Configura un SSID y el router WS5200 de Huawei conectará tus dispositivos a 5GHz preferentemente, con cambio automático a 2.4GHz al alejarse.
+- Router WiFi de largo alcance con 4 antenas ampliadas y un algoritmo de corrección de señal débil para una señal fuerte en toda la casa.
 - Aumento del 20% en la velocidad de WiFi con la tecnología mu-mimo. El router WS5200 de Huawei puede comunicar diferentes dispositivos simultáneamente y proporciona una velocidad WiFi más rápida para cada dispositivo.
 - Identificación automática de su modo de acceso a internet (PPPOE / DHCP); no se requiere operación manual.
 - Router WiFi Gigabit de doble banda AC 1200 Mbps (N300 + AC900) perfecto para Internet en casa, especialmente para transmisión en 4k o juegos.
-- Velocidad máxima con 5 GHz. Configura un SSID y el router WS5200 de Huawei conectará tus dispositivos a 5GHz preferentemente, con cambio automático a 2.4GHz al alejarse.
-- Router WiFi de largo alcance con 4 antenas ampliadas y un algoritmo de corrección de señal débil para una señal fuerte en toda la casa.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D7MVKT2/?tag=tolees-21)
