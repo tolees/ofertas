@@ -28,10 +28,10 @@ En este momento está [Legrand 782406 Interruptor Luz  Pared  Doble  Blanco](htt
 
 🔎:
 
-- Interruptor eléctrico: datos eléctricos: 10a, 230v. Ip21.
-- Seguridad: protección contra goteo de agua.
-- Interruptor empotrable: instalación en superficie.
-- Interruptor de pared: módulo con 2 interruptores conmutador.
 - Interruptor blanco: conmutador de la gama Forix en color blanco.
+- Interruptor empotrable: instalación en superficie.
+- Seguridad: protección contra goteo de agua.
+- Interruptor eléctrico: datos eléctricos: 10a, 230v. Ip21.
+- Interruptor de pared: módulo con 2 interruptores conmutador.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FXZ3QFZ/?tag=tolees-21)

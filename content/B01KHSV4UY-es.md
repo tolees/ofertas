@@ -28,10 +28,10 @@ Tienes [Revlon Colorstay Sombra De Ojos Crema  740 Black Currant](https://www.am
 
 🔎:
 
-- Colorstay larga duración
-- Sombras de ojos; Intensidad de color en textura cremosa hasta 24 hrs
-- Permite crear tonalidades e intensidades de color antes de su fijación; Larga duración hasta 24 hrs y sin manchas o arrugas
-- Aplicar y repartir el producto con la brocha incluida en el producto; También puede aplicarse con los dedos
 - Fácil y cómoda aplicación con cepillo incluido y Waterproof
+- Aplicar y repartir el producto con la brocha incluida en el producto; También puede aplicarse con los dedos
+- Sombras de ojos; Intensidad de color en textura cremosa hasta 24 hrs
+- Colorstay larga duración
+- Permite crear tonalidades e intensidades de color antes de su fijación; Larga duración hasta 24 hrs y sin manchas o arrugas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01KHSV4UY/?tag=tolees-21)

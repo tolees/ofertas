@@ -28,10 +28,10 @@ Tienes [Medisana TM 700 termómetro clínico digital para bebés  niños y adult
 
 🔎:
 
+- Alarma de fiebre: Si el termómetro mide una temperatura superior a 37,8 °C, sonará una alarma de fiebre en forma de diez pitidos triples.
+- Medición precisa: El termómetro clínico TM 700 permite medir de forma precisa en tres partes del cuerpo. Oral (bajo la lengua), axilar (en la axila) y rectal (en el ano)
 - Fácil de limpiar: El TM 700 se limpia fácilmente después de la medición. Para limpiarlo se utiliza un paño empapado en una solución alcohólica suave.
 - Función de memoria: Gracias a su función de memoria, el termómetro clínico guarda el resultado de la medición y lo muestra brevemente en la pantalla la próxima vez que se encienda
 - Apagado automático: El resultado se muestra después de aprox. 10 segundos. El TM 700 se apaga automáticamente después de 10 minutos
-- Medición precisa: El termómetro clínico TM 700 permite medir de forma precisa en tres partes del cuerpo. Oral (bajo la lengua), axilar (en la axila) y rectal (en el ano)
-- Alarma de fiebre: Si el termómetro mide una temperatura superior a 37,8 °C, sonará una alarma de fiebre en forma de diez pitidos triples.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FKQOCJ4/?tag=tolees-21)

@@ -28,14 +28,14 @@ En este momento está [Geox D Jaysen A  Zapatillas Mujer  Negro  35 EU](https://
 
 🔎:
 
-- Composición: Cuero
-- Tipo de tacón: Plano
-- Altura del tacón: 3 centímetros
-- Material de la suela: Sintético
-- Revestimiento: Sintético
-- Material exterior: Cuero
 - Anchura del zapato: Normal
+- Composición: Cuero
+- Altura del tacón: 3 centímetros
 - Tipo de talla: Los zapatos Geox son holgados
+- Material exterior: Cuero
+- Revestimiento: Sintético
+- Material de la suela: Sintético
+- Tipo de tacón: Plano
 - Cierre: Cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M8GJPEU/?tag=tolees-21)

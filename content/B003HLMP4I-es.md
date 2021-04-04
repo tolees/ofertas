@@ -28,11 +28,11 @@ Tienes [Revlon Colorstay Delineador de Ojos Líquido  #251 Blackest Black  2 5ml
 
 🔎:
 
+- Tiene Colorstay larga duración con pigmentos de carbón negro para un delineado intenso y definido durante todo el día
+- Apto para usuarias de lentes de contacto
 - Punta de Nylon que permite un acabado fino o un grosor más intenso
+- Deslizar el pincel en el párpado superior o inferior
 - No se corre ni transfiere y Seca en 60 segundos
 - Perfilador de ojos líquido de larga duración para un acabado profundo e intenso
-- Tiene Colorstay larga duración con pigmentos de carbón negro para un delineado intenso y definido durante todo el día
-- Deslizar el pincel en el párpado superior o inferior
-- Apto para usuarias de lentes de contacto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B003HLMP4I/?tag=tolees-21)

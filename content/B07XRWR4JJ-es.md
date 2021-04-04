@@ -28,10 +28,10 @@ Tienes [Paranix | Protección Árbol de Té Niña | Con Ingredientes Naturales |
 
 🔎:
 
+- Para uso diario; no daña el cabello
+- Paranix protección spray protege, moldea e hidrata el cabello gracias a su fórmula exclusiva con árbol de té, aceite de coco y dimeticona
+- Ingredientes: árbol de té, aceite de coco y dimeticona
 - A partir de 3 meses de edad; testado en pieles atópicas; testado dermatológicamente
 - El árbol de té y el aceite de coco son ingredientes naturales tradicionalmente conocidos por sus propiedades protectoras
-- Paranix protección spray protege, moldea e hidrata el cabello gracias a su fórmula exclusiva con árbol de té, aceite de coco y dimeticona
-- Para uso diario; no daña el cabello
-- Ingredientes: árbol de té, aceite de coco y dimeticona
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XRWR4JJ/?tag=tolees-21)
