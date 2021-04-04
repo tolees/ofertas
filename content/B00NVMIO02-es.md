@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun IRT6520 ThermoScan 7 - Termómetro  al 48.69 % de descuento'
-date: 2021-04-03 19:26:06
+date: 2021-04-04 21:23:59
 image: 'https://m.media-amazon.com/images/I/51DxkvjERuL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Braun'
 buyurl: 'https://www.amazon.es/dp/B00NVMIO02/?tag=tolees-21'
 descuento: '48.69'
-average: '31.168'
+average: '30.4336363636364'
 ---
 
 Ahora mismo tienes [Braun IRT6520 ThermoScan 7 - Termómetro Digital Auricular con Precisión Profesional](https://www.amazon.es/dp/B00NVMIO02/?tag=tolees-21) a 23.09 EUR (original: 45.0 EUR) (48.69 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Braun IRT6520 ThermoScan 7 - Termómetro Digital Auricular c
 
 🔎:
 
-- Tecnología patentada Age Precision - una guía de fiebre ajustable por edad con una pantalla codificada por color y luz nocturna
 - El sistema de feedback patentado Exact Temp confirma que el termómetro está en la posición correcta y que se ha realizado una lectura de temperatura precisa
+- Tecnología patentada Age Precision - una guía de fiebre ajustable por edad con una pantalla codificada por color y luz nocturna
 - Braun ThermoScan - el termómetro utilizado y recomendado por los médicos; con precisión profesional
 - Incluye: 2 pilas Duracell AA, caja de almacenamiento, 21 Protectores de lente
 
