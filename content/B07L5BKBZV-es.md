@@ -28,10 +28,10 @@ Tienes [BRA Efficient - Batería 4 pièces  de aluminio fundido con antiadherent
 
 ℹ️:
 
-- La batería de 4 piezas bra efficient se compone de: cacerola alta 20 cm con tapa -3 litros (diámetro base 16.1 cm)/ cacerola alta 24 cm con tapa -4 litros (diámetro base 16.9 cm)/cacerola baja 28 cm con tapa -3.1 litros (diámetro base 21 cm)/ cazo 16 cm (diámetro base 11.8 cm)
 - Batería de cocina de 4 piezas fabricada en aluminio fundido muy resistente con antiadherente sin pfoa
+- Fondo difusor uniforme de eficiencia (save energy system)
 - Asas de silicona termorresistente desmontables incluidas
 - Apta para todo tipo de cocinas, incluido inducción
-- Fondo difusor uniforme de eficiencia (save energy system)
+- La batería de 4 piezas bra efficient se compone de: cacerola alta 20 cm con tapa -3 litros (diámetro base 16.1 cm)/ cacerola alta 24 cm con tapa -4 litros (diámetro base 16.9 cm)/cacerola baja 28 cm con tapa -3.1 litros (diámetro base 21 cm)/ cazo 16 cm (diámetro base 11.8 cm)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07L5BKBZV/?tag=tolees-21)

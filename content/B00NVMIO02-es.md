@@ -30,7 +30,7 @@ Ahora mismo tienes [Braun IRT6520 ThermoScan 7 - Termómetro Digital Auricular c
 
 - El sistema de feedback patentado Exact Temp confirma que el termómetro está en la posición correcta y que se ha realizado una lectura de temperatura precisa
 - Tecnología patentada Age Precision - una guía de fiebre ajustable por edad con una pantalla codificada por color y luz nocturna
-- Braun ThermoScan - el termómetro utilizado y recomendado por los médicos; con precisión profesional
 - Incluye: 2 pilas Duracell AA, caja de almacenamiento, 21 Protectores de lente
+- Braun ThermoScan - el termómetro utilizado y recomendado por los médicos; con precisión profesional
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00NVMIO02/?tag=tolees-21)
