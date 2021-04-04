@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Festina Reloj Análogo clásico para Mujer al 50.34 % de descuento'
-date: 2021-03-03 07:58:12
+date: 2021-04-04 10:15:18
 image: 'https://m.media-amazon.com/images/I/31PZYB4MI9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7VK7XR-es Festina Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B01M7VK7XR-es'
+tags: [ 'Relojes','Relojes de pulsera para mujeres','Relojes para mujer','festina', ]
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0
