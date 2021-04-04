@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Capitana Marvel [DVD] al 62.82 % de descuento'
-date: 2021-03-30 21:19:39
+date: 2021-04-04 16:36:04
 image: 'https://m.media-amazon.com/images/I/51vW9owpFlL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Marvel'
 buyurl: 'https://www.amazon.es/dp/B07NSNQFX6/?tag=tolees-21'
 descuento: '62.82'
-average: '8.84680000000001'
+average: '8.80615384615386'
 ---
 
 Está [Capitana Marvel [DVD]](https://www.amazon.es/dp/B07NSNQFX6/?tag=tolees-21) con 62.82 de descuento por 7.79 EUR (original: 20.95 EUR) en el siguiente enlace!
