@@ -28,9 +28,9 @@ En este momento está [Ubiquiti Spain - Ubiquiti UniFi Security Gateway - Networ
 
 🔎:
 
-- Tasa de línea total de 3 Gb/s para paquetes de 512 bytes o más
-- Hasta a 1 millón de paquetes por segundo para paquetes de 64 bytes
 - Tiene 3 puertos Gigabit Ethernet y gestión CLI para usuarios avanzados
+- Hasta a 1 millón de paquetes por segundo para paquetes de 64 bytes
+- Tasa de línea total de 3 Gb/s para paquetes de 512 bytes o más
 - Integrado y gestionado con UniFi Controller v4.x
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LV8YZLK/?tag=tolees-21)

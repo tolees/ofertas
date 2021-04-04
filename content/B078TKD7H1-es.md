@@ -28,12 +28,12 @@ Está [Pepe Jeans Vincent Polo  Negro  Black 999   Small para Hombre](https://ww
 
 ℹ️:
 
-- Cuello cierre botones
+- Cuello y detalle en mangas elásticos
 - Tinte en prenda
 - Fit regular
-- Logo bordado en el pecho
+- Cuello cierre botones
 - Polo manga corta de algodón
-- Cuello y detalle en mangas elásticos
+- Logo bordado en el pecho
 - Bajo irregular con aberturas laterales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078TKD7H1/?tag=tolees-21)

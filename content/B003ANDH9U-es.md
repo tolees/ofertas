@@ -28,8 +28,8 @@ Tienes [Osram 2825-02B Lámpara W2 1x9 5d 12V 5W W5W  blanco  Double Blister](ht
 
 🔎:
 
+- Calidad fiable
 - Calidad OEM
 - Amplia gama de productos
-- Calidad fiable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B003ANDH9U/?tag=tolees-21)

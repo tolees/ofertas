@@ -28,10 +28,10 @@ En este momento está [Nike MD Valiant  TDV   Sneaker  Black/White  21 EU](https
 
 🔎:
 
-- Tipo de cierre: Cordones
-- Closure: cordones
-- Outer material: sintético
 - Lining: synthetic
 - Sole material: caucho
+- Outer material: sintético
+- Closure: cordones
+- Tipo de cierre: Cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082R5RJB3/?tag=tolees-21)

@@ -30,8 +30,8 @@ Tienes [Woxter Power Bank QC 16000 Black - Batería portátil con conexión QC d
 
 - 2 Conexiones de entrada: Micro USB-QC 3.0, Tipo C / 2 Conexiones de salida: 2 puertos USB QC 3.0
 - Podrás cargar un móvil/tablet compatible con QC 3.0 en aproximadamente 25-30"
+- Medidas: 135.5x70x18 mm / Peso: 330 gr
 - Construido en aluminio
 - Power Bank de batería de litio y con capacidad de 16.000 mAh/3.7V/59.2Wh
-- Medidas: 135.5x70x18 mm / Peso: 330 gr
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079FZPXQP/?tag=tolees-21)

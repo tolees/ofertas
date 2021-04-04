@@ -28,8 +28,8 @@ Tienes [NIKE Inter M NK BRT Stad JSY SS AW T-Shirt  Hombre  White/Black Full Spo
 
 ℹ️:
 
-- Maximum comfort
 - Breathable fabric
 - Regular fit
+- Maximum comfort
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B087XMPXK5/?tag=tolees-21)

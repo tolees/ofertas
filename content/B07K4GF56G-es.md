@@ -28,10 +28,10 @@ Está [L Oreal Paris Make-up Designer - L´Oréal Paris Make Up Artist Superline
 
 ℹ️:
 
-- Liner liquido negro intenso resistente al agua, ultra preciso
-- Aplicar el liner en el párpado superior y terminar el rabillo del ojo con el aplicador preciso
-- Raya del ojo intensa y resistente al agua con un rabillo del ojo perfecto
-- Rabillo del ojo perfecto en una pasada
 - Eyeliner liquido negro con aplicador para un acabado perfecto
+- Aplicar el liner en el párpado superior y terminar el rabillo del ojo con el aplicador preciso
+- Rabillo del ojo perfecto en una pasada
+- Liner liquido negro intenso resistente al agua, ultra preciso
+- Raya del ojo intensa y resistente al agua con un rabillo del ojo perfecto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K4GF56G/?tag=tolees-21)

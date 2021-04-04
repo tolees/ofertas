@@ -29,8 +29,8 @@ Está [Kappa Maglia Gara Home 2019/2020 Camiseta De Juego  Hombre  Azul  XXL](ht
 ℹ️:
 
 - Camiseta de primera equipación oficial Kombat 2020 para hombre realizada en material elástico con tecnología Hydro-Way Protection
-- Leyenda de SSC Napoli en la parte posterior y parche de silicona con logotipo del equipo en relieve aplicado en el pecho y logotipos de los patrocinadores
 - Manga con ribetes, cuello con solapa delantera y botón, ribetes en la parte posterior y diseño impreso en la parte delantera
 - Tejido transpirable y absorbente para mantenerse fresco y evitar el sudor de la piel
+- Leyenda de SSC Napoli en la parte posterior y parche de silicona con logotipo del equipo en relieve aplicado en el pecho y logotipos de los patrocinadores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SFZJ6DH/?tag=tolees-21)

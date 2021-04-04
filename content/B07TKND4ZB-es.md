@@ -28,8 +28,8 @@ Tienes [Clarks Oakland Run  Zapatos de Cordones Derby Hombre  Negro  Black Leath
 
 🔎:
 
-- Exterior: piel
-- Suela: goma
 - Material interior: piel
+- Suela: goma
+- Exterior: piel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TKND4ZB/?tag=tolees-21)

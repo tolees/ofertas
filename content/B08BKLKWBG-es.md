@@ -28,10 +28,10 @@ En este momento está [Hurley M Portland Flannel LS](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Franela cepillada ultra suave.
 - Bolsillo de parche en lado izquierdo del pecho con detalle de puntada triangular reforzada. Solapa delantera vuelta. Detalle de pliegues y lazo cerrado en canesú trasero. Dobladillo curvo.
-- Etiqueta One & Only.
 - 100 % Algodón orgánico.
+- Etiqueta One & Only.
+- Franela cepillada ultra suave.
 - Corte Clásico.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BKLKWBG/?tag=tolees-21)

@@ -30,8 +30,8 @@ Está [Schwarzkopf Gliss Champú seco anti-grasa  Negro - 200 ml](https://www.am
 
 - 24h de efecto anti-grasa
 - El Champú Seco de Gliss es óptimo para utilizar entre lavados ya que sus fórmulas consiguen aportar 1 día extra de frescor o volumen sin necesidad de lavarlo
-- No deja residuos visibles después del cepillado
 - Aplicación: cubre tus hombros con una toalla y cepilla tu cabello, agita el envase y vaporiza sobre la raíz capa a capa a una distancia de 20cm; déjalo actuar y cepilla bien
+- No deja residuos visibles después del cepillado
 - El secreto para estar siempre perfecta; cabello limpio al instante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00X9VAA66/?tag=tolees-21)
