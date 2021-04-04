@@ -28,10 +28,10 @@ Está [Forticoll Colágeno Piel y Cabello-Complemento alimenticio en polvo- 270 
 
 ℹ️:
 
-- Sin gluten
+- Ingredientes naturales y ecológicos
 - Sin frutos secos
 - Sin proteína láctea
-- Ingredientes naturales y ecológicos
+- Sin gluten
 - Sin azúcares añadidos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01H051CYU/?tag=tolees-21)
