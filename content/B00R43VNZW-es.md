@@ -28,8 +28,8 @@ En este momento está [Ibiza BT8A - Bafle activo portátil  8"  20 cm](https://w
 
 🔎:
 
-- Función Bluetooth para conectar sin cables sus equipos
 - Carcasa en ABS
+- Función Bluetooth para conectar sin cables sus equipos
 - Lector tarjetas SD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00R43VNZW/?tag=tolees-21)

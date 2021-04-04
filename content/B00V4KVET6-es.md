@@ -29,11 +29,11 @@ Está [Rowenta PU4020 Intense Pure Air - Purificador de aire  hasta 60 m² con s
 ℹ️:
 
 - 4 niveles filtración: pre-filtro (polvo, pelo humano/ animal), filtro de carbón activo (olores, humos), filtro de alta eficiencia, filtro Nano Captur para destruir el formaldeido
-- Cuenta con la exclusiva tecnología patentada NanoCaptur, que trabaja para destruir de forma permanente el formaldehído para un ambiente más seguro y más saludable, facilitando la detección automática de la contaminación y velocidad de adaptación
-- Es muy ligero y su formato permite el fácil transporte; es conveniente en zonas de acción de 60 m² del hogar, oficina y áreas que son susceptibles en la calidad del aire
 - Nivel de ruido: 45 dB
+- Es muy ligero y su formato permite el fácil transporte; es conveniente en zonas de acción de 60 m² del hogar, oficina y áreas que son susceptibles en la calidad del aire
 - Cómodo uso las 24 horas: modo noche, temporizador, luz ambiental ajustable, indicadores de cambio de filtro. Equipado con 2 sensores de contaminación, un sensor de partículas y un sensor de gas
-- Los niveles de filtración protegen a toda la familia de una gran variedad de contaminantes; cada nivel de filtración se destina a un tipo específico de contaminante
+- Cuenta con la exclusiva tecnología patentada NanoCaptur, que trabaja para destruir de forma permanente el formaldehído para un ambiente más seguro y más saludable, facilitando la detección automática de la contaminación y velocidad de adaptación
 - Sus medidas compactas son 24.1 x 26.2 x 49 cm
+- Los niveles de filtración protegen a toda la familia de una gran variedad de contaminantes; cada nivel de filtración se destina a un tipo específico de contaminante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00V4KVET6/?tag=tolees-21)

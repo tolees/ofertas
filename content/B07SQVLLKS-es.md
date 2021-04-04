@@ -28,8 +28,8 @@ Ahora mismo tienes [Zapatillas/ADIDAS:Grand Court C 28 Blanco](https://www.amazo
 
 🔎:
 
-- Marca: Adidas.
 - Cierre: con cordones.
+- Marca: Adidas.
 - Material: 100% piel sintética.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SQVLLKS/?tag=tolees-21)

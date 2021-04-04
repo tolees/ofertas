@@ -28,9 +28,9 @@ En este momento está [Bethesda - The Evil Within 2](https://www.amazon.es/dp/B0
 
 🔎:
 
+- ENFRÉNTATE A ENEMIGOS ATERRADORES: sobrevive a encuentros con sádicos enemigos y conoce a personajes que podrían guiarte en tu camino hacia la redención, o apartarte de él
 - HORROR VISCERAL Y SUSPENSE: entra en un mundo retorcido y aterrador lleno de pánico y horrores inquietantes en cada rincón
 - UNA HISTORIA DE REDENCIÓN: Sebastián deberá descender en la pesadilla para recuperar su vida y su familia
-- ENFRÉNTATE A ENEMIGOS ATERRADORES: sobrevive a encuentros con sádicos enemigos y conoce a personajes que podrían guiarte en tu camino hacia la redención, o apartarte de él
 - DESCUBRE LUGARES ATERRADORES: explora tanto o tan rápido como quieras por un mundo en el que nada es lo que parece, pero prepárate bien
 - ELIGE CÓMO SOBREVIVIR: ataca desde las sombras con la ballesta, huye tan rápido como puedas o entra pegando tiros, pese a que la munición es muy limitada
 
