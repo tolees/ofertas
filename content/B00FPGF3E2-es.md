@@ -28,10 +28,10 @@ Ahora mismo tienes [Jack & Jones JACSENSE Trunks Noos Calzoncillos  Azul  Dress 
 
 🔎:
 
-- Jack & Jones Sense - Calzoncillos tipo bóxer
-- Producto 100 % original
-- 95 % algodón, 5 % elastano
 - En paquete de color azul marino
+- 95 % algodón, 5 % elastano
+- Jack & Jones Sense - Calzoncillos tipo bóxer
 - Jack & Jones Designer Sense - Calzoncillos tipo bóxer, color negro
+- Producto 100 % original
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00FPGF3E2/?tag=tolees-21)

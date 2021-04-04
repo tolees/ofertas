@@ -28,8 +28,8 @@ Ahora mismo tienes [Schwarzkopf Professional BC Peptide Repair Sealed Ends Trata
 
 🔎:
 
-- Tratamiento capilar schwarzkopf
 - Bc peptide repair fluid 150 ml
 - Tratamiento capilar peluquería mujer
+- Tratamiento capilar schwarzkopf
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B4PYHV2/?tag=tolees-21)

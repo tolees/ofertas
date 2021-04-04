@@ -28,9 +28,9 @@ En este momento está [Import Usa - Exist Archive: The Other Side Of The Sky - [
 
 🔎:
 
-- 50 hours of gameplay, power ups, skill customizations, side quests, secret bosses and hidden dungeons await!
-- Each character attack corresponds to a button that unleashes massive devastation. Maximize the punishment you dish out to enemies by building powerful combos!
 - Mixing and combining attacks will affect your party chemistry. Trigger special events and attack combos by balancing your Friendship, Affection and Rival levels. What insane skills will you unlock?!
 - Your choices dictate the fate of your party and offer multiple paths to unique endings.
+- Each character attack corresponds to a button that unleashes massive devastation. Maximize the punishment you dish out to enemies by building powerful combos!
+- 50 hours of gameplay, power ups, skill customizations, side quests, secret bosses and hidden dungeons await!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01ESA0W3C/?tag=tolees-21)

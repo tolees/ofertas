@@ -28,8 +28,8 @@ En este momento está [L Oréal Professionnel - Champú Blondifier Neutralizante
 
 🔎:
 
+- Champú neutralizante especialmente indicado para cabello rubio frío y/o con mechas, enriquecido con extracto de acai que contiene polifenoles y pigmentos violetas
 - Aplicar sobre el cabello húmedo, repartiendo de forma uniforme; Emulsionar y aclarar; Repetir el mismo paso
 - Fórmula profesional limpia cuidadosamente la fibra capilar al mismo tiempo que neutraliza matices indeseados para un efecto rubio frío
-- Champú neutralizante especialmente indicado para cabello rubio frío y/o con mechas, enriquecido con extracto de acai que contiene polifenoles y pigmentos violetas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GC9TT8T/?tag=tolees-21)

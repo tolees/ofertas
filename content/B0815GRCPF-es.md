@@ -30,8 +30,8 @@ Tienes [Eastpak Benchmark Single Estuche  21 cm  Azul  Cobalt Blue ](https://www
 
 - Un compartimento principal
 - En nuestra tonalidad Cobalt Blue
-- Altura: 6 cm, Ancho: 20.5 cm, Fondo: 7.5 cm
 - Este producto es 100% vegano, no utiliza fuentes de origen animal
+- Altura: 6 cm, Ancho: 20.5 cm, Fondo: 7.5 cm
 - Elaborado 100% de nailon
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0815GRCPF/?tag=tolees-21)

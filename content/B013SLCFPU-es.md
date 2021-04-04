@@ -28,10 +28,10 @@ En este momento está [Logitech M535 Ratón Inalámbrico  Bluetooth  Sensor Lás
 
 🔎:
 
-- Forma Curvada Cómoda con Recubimiento de Goma : control más inteligente con botón de navegación y rueda inclinable, todo en tu mano
 - Conexión Sencilla a Cualquier Dispositivo Inalámbrico Bluetooth : tanto si eres un adicto al Mac, como si sólo usas Windows o Chrome OS, prefieres usar una tablet Windows o Android
-- Control Inteligente y Navegación Fácil : el práctico botón de navegación y la rueda inclinable ponen el control en tu mano
-- Sensor Láser Óptico : el ratón M535 funciona de modo uniforme y preciso en casi todo tipo de superficies gracias al sensor óptico con precisión láser
+- Forma Curvada Cómoda con Recubimiento de Goma : control más inteligente con botón de navegación y rueda inclinable, todo en tu mano
 - Diseño Compacto y Móvil : lleva en la bolsa o el bolsillo este ratón móvil y compacto para poder trabajar donde quieras
+- Sensor Láser Óptico : el ratón M535 funciona de modo uniforme y preciso en casi todo tipo de superficies gracias al sensor óptico con precisión láser
+- Control Inteligente y Navegación Fácil : el práctico botón de navegación y la rueda inclinable ponen el control en tu mano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B013SLCFPU/?tag=tolees-21)
