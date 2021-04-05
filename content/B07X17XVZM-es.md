@@ -28,7 +28,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Mid Waist Skinny Jeans  Mediana Edad  26W / 
 
 🔎:
 
-- Cintura media
 - Con cremallera
+- Cintura media
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X17XVZM/?tag=tolees-21)

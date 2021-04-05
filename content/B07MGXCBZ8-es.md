@@ -28,8 +28,8 @@ En este momento está [Lee Rider Contrast Jeans  Dark Pool  28W / 32L para Hombr
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Estilo 5 bolsillos
+- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MGXCBZ8/?tag=tolees-21)
