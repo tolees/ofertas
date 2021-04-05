@@ -28,8 +28,8 @@ Ahora mismo tienes [Catit Comederos y Bebederos  Negro](https://www.amazon.es/dp
 
 🔎:
 
-- Suministros para la alimentación Hábitats y equipamientos
 - Suministros para la alimentación Catit
 - Catit Comedero Doble Acero Inoxidable 200ml Negro (43873)
+- Suministros para la alimentación Hábitats y equipamientos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077FVDCZL/?tag=tolees-21)
