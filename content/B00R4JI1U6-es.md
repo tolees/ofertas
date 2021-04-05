@@ -28,10 +28,10 @@ Está [Pro Breeze Mini Deshumidificador 500ml  Silencioso y Portátil  Apagado a
 
 ℹ️:
 
-- Pequeño y compacto: Ligero, portátil y compacto, capaz de eliminar 250 ml de humedad por día, con una capacidad de hasta 500 ml. Con un peso de 1 kg y un tamaño de 18 x 28 x 16 cm, no tendrá que preocuparse por el espacio y de no poderlo llevarlo de una habitación a un otra.
-- Alivio para la alergia: Ayuda a mejorar la calidad del aire gracias a la eliminación de las esporas del moho y los ácaros del polvo, que son desencadenantes comunes para las personas alérgicas y con problemas respiratorios.
-- Silencioso y eficiente: El deshumidificador eléctrico utiliza una tecnología avanzada, La Tecnología Termoeléctrica Peltier, que no solo es de grande eficiencia energética sino también muy silenciosa. Esta tecnología permite de utilizar el deshumidificador todo el día y la noche sin ruidos molestos.
 - Apagado automático: Diseñado con una función de apagado automático con indicador LED que se activará cuando el depósito esté lleno y que le permite saber cuándo necesita drenarse para evitar fugas de agua. Simplemente vacíe el depósito de agua mediante la salida de drenaje fácil de usar e insértelo de nuevo en el deshumidificador.
 - Absorbe Humedad: Este nuevo mini deshumidificador elimina el vapor, moho y humedad del aire de manera rápida y eficaz. Es perfecto para usar en espacios reducidos como su casa, habitación, cocina, garaje, sótano, caravana, armario, barco o cualquier lugar propenso a tener aire húmedo.
+- Alivio para la alergia: Ayuda a mejorar la calidad del aire gracias a la eliminación de las esporas del moho y los ácaros del polvo, que son desencadenantes comunes para las personas alérgicas y con problemas respiratorios.
+- Pequeño y compacto: Ligero, portátil y compacto, capaz de eliminar 250 ml de humedad por día, con una capacidad de hasta 500 ml. Con un peso de 1 kg y un tamaño de 18 x 28 x 16 cm, no tendrá que preocuparse por el espacio y de no poderlo llevarlo de una habitación a un otra.
+- Silencioso y eficiente: El deshumidificador eléctrico utiliza una tecnología avanzada, La Tecnología Termoeléctrica Peltier, que no solo es de grande eficiencia energética sino también muy silenciosa. Esta tecnología permite de utilizar el deshumidificador todo el día y la noche sin ruidos molestos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00R4JI1U6/?tag=tolees-21)
