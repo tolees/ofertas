@@ -28,8 +28,8 @@ En este momento está [Nike Air MAX Excee  Zapatillas Hombre  Blanco/Hyper Blue-
 
 🔎:
 
-- Transpirabilidad
-- Zapatillas deportivas
 - Amortiguación
+- Zapatillas deportivas
+- Transpirabilidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YDFQP3Q/?tag=tolees-21)
