@@ -28,8 +28,8 @@ Está [Levi s Levis 168ndl Low Cut Sprtwr Logo 2p Calcetines  Multicolor  White/
 
 ℹ️:
 
+- Talón y puntera reforzados para mayor durabilidad.
 - Tejido de algodón suave.
 - Detalles distintivos de Levis.
-- Talón y puntera reforzados para mayor durabilidad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VTG86ZN/?tag=tolees-21)
