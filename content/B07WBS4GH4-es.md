@@ -28,10 +28,10 @@ Tienes [Umi by Amazon - Bombilla LED A60 con casquillo Edison E27  10 5 W  equiv
 
 🔎:
 
-- Color: blanco cálido (2700 K)
-- Certificado CE
-- Flujo luminoso: 1055 lúmenes, alcanza el brillo total de forma inmediata
 - Equivalente a una bombilla incandescente de 75 W
+- Flujo luminoso: 1055 lúmenes, alcanza el brillo total de forma inmediata
+- Certificado CE
 - Vida útil: 15 000 horas o 13,7 años (si se usa 3 horas diarias)
+- Color: blanco cálido (2700 K)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WBS4GH4/?tag=tolees-21)

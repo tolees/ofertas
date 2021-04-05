@@ -28,7 +28,7 @@ Ahora mismo tienes [Skechers Solar Fuse  Zapatillas Deportivas Mujer  Negro  BKM
 
 🔎:
 
-- Ligera
 - Plantilla de espuma viscoelástica refrigerada por aire
+- Ligera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MYZJTPL/?tag=tolees-21)
