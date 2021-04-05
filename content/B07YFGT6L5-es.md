@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.46 % en WD BLACK P50 Game Drive de 500 GB - Velo'
-date: 2021-04-03 15:21:30
+date: 2021-04-05 01:03:54
 image: 'https://m.media-amazon.com/images/I/41cjghSL8tL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'WD BLACK'
 buyurl: 'https://www.amazon.es/dp/B07YFGT6L5/?tag=tolees-21'
 descuento: '36.46'
-average: '138.850136986303'
+average: '138.471081081083'
 ---
 
 Tienes [WD BLACK P50 Game Drive de 500 GB - Velocidades SSD Portátil NVMe hasta 2000MB/s - Funciona con PC/Mac o Consola  Estándar](https://www.amazon.es/dp/B07YFGT6L5/?tag=tolees-21) con un 36.46 % de descuento con precio de oferta de 110.8 EUR (original: 174.37 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [WD BLACK P50 Game Drive de 500 GB - Velocidades SSD Portátil NVMe hast
 
 ℹ️:
 
-- Ssd de alto rendimiento con interfaz usb superspeed (20.gb/s) para tu pc o consola
 - Diseñada específicamente para jugadores basándonos en la calidad y fiabilidad de wd_black
-- Formato resistente a golpes y portátil que te brinda acceso rápido a tu biblioteca de juegos, dondequiera que vayas
 - Hasta 2.tb de almacenamiento adicional para que puedas conservar tus juegos favoritos y guardar los nuevos
+- Formato resistente a golpes y portátil que te brinda acceso rápido a tu biblioteca de juegos, dondequiera que vayas
 - Basada en el rendimiento con velocidades ssd de hasta 2000 mb/s para reducir los tiempos de carga de la pantalla y ponerte a jugar más rápido
+- Ssd de alto rendimiento con interfaz usb superspeed (20.gb/s) para tu pc o consola
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YFGT6L5/?tag=tolees-21)
