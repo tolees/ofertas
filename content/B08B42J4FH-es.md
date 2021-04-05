@@ -29,7 +29,7 @@ Tienes [Nike Air MAX VG-R  Sneaker Hombre  White/Black-Metallic Silver  43 EU](h
 🔎:
 
 - Suave de Llevar
-- Importado
 - Cordones de Zapatos
+- Importado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08B42J4FH/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Kodak Printomatic - Cámara de impresión instantánea  imprime en Papel 
 
 ℹ️:
 
-- RÁPIDAMENTE FÁCIL Y DIVERTIDO: con Printomatic puede tomar una nueva foto mientras imprime la foto anterior
 - IMPRESIÓN ÚNICA: Printomatic imprime instantáneamente fotos en 2x3 pulgadas papel fotográfico Zink Kodak. No requiere tinta, tóner ni cartucho de película
 - DISEÑO CON ENCANTO: disponible en una variedad de colores divertidos y llamativos. Diseño compacto Se adapta perfectamente al bolsillo de la camisa
 - FOTOGRAFÍA TODO EN UNO: la cámara PRINTOMATIC apunta y dispara ofrece un potente sensor de 5 megapíxeles con una lente gran angular 1: 2
+- RÁPIDAMENTE FÁCIL Y DIVERTIDO: con Printomatic puede tomar una nueva foto mientras imprime la foto anterior
 - VALOR INSTANTÁNEO: La cámara Kodak Printomatic es fácil de usar que tiene ranuras para colocar una correa para el cuello y guarda fotos en una tarjeta microSD
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075WXBGP6/?tag=tolees-21)

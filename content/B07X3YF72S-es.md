@@ -28,9 +28,9 @@ Ahora mismo tienes [Fisher-Price Pájarito Apila y Suena  juguete apilable con s
 
 🔎:
 
-- Regalo original para bebes a partir de 6 meses
 - Los bebés y niños pequeños pueden apilar los animales para equilibrar el pajarito o ponerlos a todos en un lado para que el juguete se balancee
 - Cada uno de los 4 animales apilables tiene una carita simpática, colores vivos y divertidas texturas y actividades para que los niños las descubran
+- Regalo original para bebes a partir de 6 meses
 - Juguete apilable en forma de pajarito con detalles de madera y 4 animales amiguitos que el niño puede apilar y equilibrar sobre las alas del pajarito
 - Las cuentas de colores se mueven y hacen ruiditos en la base mientras el pajarito se balancea
 

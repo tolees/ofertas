@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Luke Medium Stretch Jeans  Azul  Dark Diamond Ft   31W /
 
 🔎:
 
-- Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Vaqueros para hombre
 - Estilo 5 bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JLQXCVM/?tag=tolees-21)
