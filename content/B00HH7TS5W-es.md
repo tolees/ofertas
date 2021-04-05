@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 41.27 % en Citizen Reloj Analógico para Hombre de C'
-date: 2021-03-15 07:25:05
+date: 2021-04-05 13:40:59
 image: 'https://m.media-amazon.com/images/I/51ht+gj4L7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HH7TS5W-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B00HH7TS5W-es'
+tags: [ 'Relojes','Relojes de pulsera para hombres','Relojes para hombre','citizen', ]
 actualPrice: 81.63 EUR
 currency: EUR
 price: 81.63
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Citizen'
 buyurl: 'https://www.amazon.es/dp/B00HH7TS5W/?tag=tolees-21'
 descuento: '41.27'
-average: '85.814'
+average: '85.4336363636364'
 ---
 
 Tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Cuero AW1360-12H](https://www.amazon.es/dp/B00HH7TS5W/?tag=tolees-21) con un 41.27 % de descuento con precio de oferta de 81.63 EUR (original: 139.0 EUR) en el siguiente enlace!
@@ -27,7 +28,7 @@ Tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Cuero AW136
 
 ℹ️:
 
-- Acero
 - Citizen
+- Acero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HH7TS5W/?tag=tolees-21)
