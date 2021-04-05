@@ -28,8 +28,8 @@ Tienes [TRIXIE Cuerda de Juego con Bola  ø7 cm  50 cm  Perro](https://www.amazo
 
 ℹ️:
 
-- con asa de mano
-- LO MEJOR PARA EL CUIDADO DE TU MASCOTA : Producto especialmente destinado para cuidar a las mascotas.
 - poliéster/algodón
+- LO MEJOR PARA EL CUIDADO DE TU MASCOTA : Producto especialmente destinado para cuidar a las mascotas.
+- con asa de mano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000SE5HRY/?tag=tolees-21)
