@@ -28,8 +28,8 @@ Tienes [MediaRange MR742 - Cargador portátil  6600 mAh   blanco y gris](https:/
 
 ℹ️:
 
-- 6600 mAh
 - Mr742
 - Powerbank
+- 6600 mAh
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JG5AWSU/?tag=tolees-21)

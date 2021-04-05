@@ -28,10 +28,10 @@ En este momento está [doosl Palo Selfie Bluetooth  Trípode Palo Selfie - Tríp
 
 🔎:
 
-- Conexión estable: cuenta con Bluetooth 3.0 para una conexión rápida y estable con un rango de alcance de 10 metros / 33 pies. Compatible con la mayoría de los dispositivos IOS y Android. No es necesario descargar ninguna App adicional en su smartphone.
-- Ligero y portátil: el palo extensible está fabricado en acero inoxidable, el trípode y el soporte del teléfono están fabricados en material ABS para una máxima durabilidad y transporte. Llévalo a diario en tu bolso o mochila para capturar momentos donde vayas.
-- Palo Selfie Bluetooth: puedes tomar selfies con el palo selfie en la mano o tomar fotos de cuerpo completo a distancia utilizándolo como trípode. Además de fotos, también puedes usarla para grabar videos.
-- Trípode-Palo Selfie: este soporte de smartphone es muy versátil y puede satisfacer todas tus necesidades de Facetime / Vlog / Deportes / Instagram / Facebook Live / Ver la TV. También puede ser el regalo ideal para cumpleaños, navidad y más.
 - Ajuste flexible: rotación horizontal de 360° y rotación vertical de 180°. Su nuevo diseño reduce el ruido al girar. Longitud entre 186 mm / 7,32 pulgadas y 680 mm / 26,77 pulgadas. Encuentra fácilmente el mejor ángulo para cada foto.
+- Trípode-Palo Selfie: este soporte de smartphone es muy versátil y puede satisfacer todas tus necesidades de Facetime / Vlog / Deportes / Instagram / Facebook Live / Ver la TV. También puede ser el regalo ideal para cumpleaños, navidad y más.
+- Palo Selfie Bluetooth: puedes tomar selfies con el palo selfie en la mano o tomar fotos de cuerpo completo a distancia utilizándolo como trípode. Además de fotos, también puedes usarla para grabar videos.
+- Ligero y portátil: el palo extensible está fabricado en acero inoxidable, el trípode y el soporte del teléfono están fabricados en material ABS para una máxima durabilidad y transporte. Llévalo a diario en tu bolso o mochila para capturar momentos donde vayas.
+- Conexión estable: cuenta con Bluetooth 3.0 para una conexión rápida y estable con un rango de alcance de 10 metros / 33 pies. Compatible con la mayoría de los dispositivos IOS y Android. No es necesario descargar ninguna App adicional en su smartphone.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0829YTH8N/?tag=tolees-21)

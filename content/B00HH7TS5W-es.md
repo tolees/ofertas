@@ -28,7 +28,7 @@ Tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Cuero AW136
 
 ℹ️:
 
-- Citizen
 - Acero
+- Citizen
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HH7TS5W/?tag=tolees-21)
