@@ -28,10 +28,10 @@ Ahora mismo tienes [L Oreal Paris Colorista Hair Make Up Chocolate Rose](https:/
 
 🔎:
 
-- Para cabellos castaños
-- 1 día de color
-- Maquillaje para tu pelo
 - El primer maquillaje para tu pelo de LOreal Paris #MaquillaTuPelo
 - No mancha
+- 1 día de color
+- Maquillaje para tu pelo
+- Para cabellos castaños
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BR5B62Q/?tag=tolees-21)

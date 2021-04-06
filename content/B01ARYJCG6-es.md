@@ -31,8 +31,8 @@ Está [Einhell Expert Taladro Power X-Change  TE-CD 18/2 Li   18V sin cable  inc
 - Incluye 2 x 1,5 Ah baterías recargables y un cargador rápido
 - Incluye luz LED para la iluminación de la zona de trabajo
 - Acoplamiento a fricción del par de giro para trabajos de precisión
+- Entregado en práctico maletín
 - Empuñadura antideslizante ergonómica para trabajo cómodo
 - Bloqueo automático del husillo para cambio rápido de herramientas
-- Entregado en práctico maletín
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ARYJCG6/?tag=tolees-21)

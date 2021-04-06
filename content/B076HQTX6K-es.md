@@ -28,9 +28,9 @@ Está [Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Gris  Gris/Negro   XL](
 
 ℹ️:
 
-- Etiqueta sobre el dobladillo izquierdo.
-- Bolsillo canguro
 - Logotipo de adidas a la derecha del pecho.
+- Bolsillo canguro
+- Etiqueta sobre el dobladillo izquierdo.
 - Costuras laterales abiertas para una mayor libertad de movimiento.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HQTX6K/?tag=tolees-21)

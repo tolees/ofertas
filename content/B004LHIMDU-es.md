@@ -28,9 +28,9 @@ Tienes [BAUSCH + LOMB - SofLens® 59 - Lentes de contacto](https://www.amazon.es
 
 🔎:
 
-- Para miopía o hipermetropía.
 - Cada vez que las use, deberá limpiarlas, aclararlas y desinfectarlas antes de volver a ponérselas.
-- Diseñadas para uso diario con la frecuencia de sustitución indicada por el profesional de la visión.
 - Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión.
+- Para miopía o hipermetropía.
+- Diseñadas para uso diario con la frecuencia de sustitución indicada por el profesional de la visión.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004LHIMDU/?tag=tolees-21)

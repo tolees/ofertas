@@ -28,10 +28,10 @@ Tienes [Educa Borrás - Bank Attack Juego de Mesa  Color versión española  col
 
 🔎:
 
-- Juego de mesa que fomenta el trabajo colaborativo y en equipo, sin una buena coordinación, sonarán las alarmas y no conseguiréis el objetivo
-- Recomendado a partir de 7 años
 - Bank Attack es un juego de estrategia y habilidad dónde los jugadores deberán formar equipo, elegir qué personaje quieren ser: hacker, experto en explosivos, tesorero o vigilante; y seguir muy bien las instrucciones del jefe para conseguir el objetivo de obtener el botín de 50 millones de dólares
+- Recomendado a partir de 7 años
 - Contiene: caja fuerte electrónica, 8 herramientas de plástico, 12 barras de oro de plástico, 20 billetes de papel moneda e instrucciones; Requiere 3 pilas AAA (no incluidas)
 - Bank Attack incluye varios niveles de juego que deberás superar para pasar al siguiente, cada uno más difícil que el anterior
+- Juego de mesa que fomenta el trabajo colaborativo y en equipo, sin una buena coordinación, sonarán las alarmas y no conseguiréis el objetivo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TJJVL9V/?tag=tolees-21)

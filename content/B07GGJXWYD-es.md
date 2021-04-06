@@ -28,9 +28,9 @@ Ahora mismo tienes [Pepe Jeans Art T-Shirt  Gris  Grey Marl 933   15-16 Anos par
 
 🔎:
 
-- Fit regular
-- Camiseta manga corta tejido suave
 - Cuello redondo
+- Camiseta manga corta tejido suave
 - Logo estampado con purpurina
+- Fit regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GGJXWYD/?tag=tolees-21)

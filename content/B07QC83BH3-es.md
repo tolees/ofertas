@@ -28,10 +28,10 @@ En este momento está [Torres - Pago del Cielo Celeste Reserva  Vino Tinto  75 c
 
 🔎:
 
+- Acompañamiento ideal de gran variedad de recetas de carne y caza, a la plancha o asada.
+- Color cereza. Intenso y fragante, con notas frutales y ciruelas pasas. En boca es sabroso y bien estructurado.
 - Origen: Ribera del Duero
 - Graduación: 14,5% vol.
-- Color cereza. Intenso y fragante, con notas frutales y ciruelas pasas. En boca es sabroso y bien estructurado.
-- Acompañamiento ideal de gran variedad de recetas de carne y caza, a la plancha o asada.
 - Puede disfrutarlo desde ahora, bien conservado aguantará 7-10 años.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QC83BH3/?tag=tolees-21)

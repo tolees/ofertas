@@ -28,10 +28,10 @@ Está [HP Omen 800 - Auriculares para gaming con micrófono  PC/juegos  binaural
 
 ℹ️:
 
-- Contenido del envío: Omen de HP Headset 800 (1kf76aa) en negro, doble (adaptador de 3,5 mm a vierpolig, individualmente), instrucciones, tarjeta de garantía, información del producto.
+- Dimensiones: 20,5 x 21,8 x 11,4 cm de altura. Peso: 0,43 kg.
 - - -
+- Contenido del envío: Omen de HP Headset 800 (1kf76aa) en negro, doble (adaptador de 3,5 mm a vierpolig, individualmente), instrucciones, tarjeta de garantía, información del producto.
 - Compatibilidad: Compatible con ordenadores y otros dispositivos que dispongan de una salida de audio de 3,5 mm.
 - Características especiales: experiencia de audio multidimensional con sonido envolvente, almohadillas gruesas para un máximo confort, tapones para los oídos de cuero artificial, aislan de ruidos de fondo que distraen, sonido intenso gracias a los controladores de 53 mm, micrófono totalmente ajustable, con conector de audio de 5 mm.
-- Dimensiones: 20,5 x 21,8 x 11,4 cm de altura. Peso: 0,43 kg.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072JYG8J1/?tag=tolees-21)

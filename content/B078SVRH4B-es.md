@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme SSD portátil 250GB - has al 35.30 % de rebaja'
-date: 2021-04-03 14:27:29
+date: 2021-04-06 10:57:48
 image: 'https://m.media-amazon.com/images/I/51FeN3gxFxL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B078SVRH4B/?tag=tolees-21'
 descuento: '35.30'
-average: '73.9984000000001'
+average: '73.6903846153847'
 ---
 
 Tienes [SanDisk Extreme SSD portátil 250GB - hasta 550MB/s Velocidad de Lectura](https://www.amazon.es/dp/B078SVRH4B/?tag=tolees-21) con precio final de  65.99 EUR (original: 101.99 EUR) (35.30 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [SanDisk Extreme SSD portátil 250GB - hasta 550MB/s Velocidad de Lectura
 
 🔎:
 
-- Compacta y de bolsillo
-- Para usuarios de PC y Mac
 - Las transferencias de gran velocidad de hasta 550MB/s te permiten mover rápidamente vídeos y fotografías de gran resolución
+- Para usuarios de PC y Mac
 - Robusta, resistente al agua y al polvo, certificación IP-55
+- Compacta y de bolsillo
 - Núcleo de estado sólido resistente a golpes para una optima durabilidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078SVRH4B/?tag=tolees-21)

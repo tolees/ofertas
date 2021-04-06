@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Revlon Proyou White Hair Shampoo Champú  al 38.47 % de descuento'
-date: 2020-05-25 12:11:50
+title: 'ProYou Care - Revlon Proyou White Hair S al 38.47 % de descuento'
+date: 2021-04-06 10:01:03
 image: 'https://m.media-amazon.com/images/I/31XJ2wQKW1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0036YDYPA-es Revlon Proyou White Hair Shampoo Champú - 350 ml'
+slug: 'B0036YDYPA-es ProYou Care - Revlon Proyou White Hair Shampoo Champú -...'
 sku: 'B0036YDYPA-es'
-tags: [  ]
+tags: [ 'Belleza','Champús','Cuidado del cabello','Productos para el cuidado del cabello','proyou care', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99
 comparePrice: 11.36 EUR
-prodname: 'Revlon Proyou White Hair Shampoo Champú - 350 ml'
+prodname: 'ProYou Care - Revlon Proyou White Hair Shampoo Champú - 350 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'ProYou Care'
 buyurl: 'https://www.amazon.es/dp/B0036YDYPA/?tag=tolees-21'
 descuento: '38.47'
-average: '6.224444444444445'
+average: '6.301'
 ---
 
-Está [Revlon Proyou White Hair Shampoo Champú - 350 ml](https://www.amazon.es/dp/B0036YDYPA/?tag=tolees-21) con 38.47 de descuento por 6.99 EUR (original: 11.36 EUR) en el siguiente enlace!
+Está [ProYou Care - Revlon Proyou White Hair Shampoo Champú - 350 ml](https://www.amazon.es/dp/B0036YDYPA/?tag=tolees-21) con 38.47 de descuento por 6.99 EUR (original: 11.36 EUR) en el siguiente enlace!
 
-[![Revlon Proyou White Hair Shampoo Champú ](https://m.media-amazon.com/images/I/31XJ2wQKW1L._SL400_.jpg)](https://www.amazon.es/dp/B0036YDYPA/?tag=tolees-21)
+[![ProYou Care - Revlon Proyou White Hair S](https://m.media-amazon.com/images/I/31XJ2wQKW1L._SL400_.jpg)](https://www.amazon.es/dp/B0036YDYPA/?tag=tolees-21)
 
 ℹ️:
 
+- Género: Mujer
+- Marca: Revlon
+- Tipo de producto: Champú
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0036YDYPA/?tag=tolees-21)
