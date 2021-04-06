@@ -28,8 +28,8 @@ Tienes [FR-TEC - Auriculares Gaming Headset Asgard](https://www.amazon.es/dp/B08
 
 🔎:
 
-- Diámetro del altavoz: 50mm
 - Mini-jack 3,5mm Plug and Play que lo hace compatible con: Playstation 5, PlayStation 4, Series X|S, XBOX One, Nintendo Switch, PC y MAC
 - Micrófono abatible y unidireccional, Control de volumen y mute integrado en el cable
+- Diámetro del altavoz: 50mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BXF39K9/?tag=tolees-21)
