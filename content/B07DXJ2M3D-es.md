@@ -28,9 +28,9 @@ En este momento está [Newskill Helios - Ratón para Gaming con RGB iluminación
 
 🔎:
 
-- Sensor óptico hasta 10000DPI
 - Retroiluminación RGB
 - Software dedicado
+- Sensor óptico hasta 10000DPI
 - El diseño perfecto para ti
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DXJ2M3D/?tag=tolees-21)

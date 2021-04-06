@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TRIXIE Pelota Mentolada Denta Fun  Cauch al 57.68 % de descuento'
-date: 2021-04-05 06:41:32
+date: 2021-04-06 18:56:48
 image: 'https://m.media-amazon.com/images/I/41DvICzx+eL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trixie'
 buyurl: 'https://www.amazon.es/dp/B001BYOMXA/?tag=tolees-21'
 descuento: '57.68'
-average: '3.10320000000003'
+average: '3.10842105263161'
 ---
 
 Está [TRIXIE Pelota Mentolada Denta Fun  Caucho Natural  ø5 cm  Perro](https://www.amazon.es/dp/B001BYOMXA/?tag=tolees-21) con 57.68 de descuento por 3.5 EUR (original: 8.27 EUR) en el siguiente enlace!
