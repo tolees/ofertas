@@ -28,8 +28,8 @@ Está [Mr. Wonderful MRMAC002 - Carcasa para Apple Macbook Air/ Air 2  de 13.3 p
 
 ℹ️:
 
-- Permite una buena ventilación del dispositivo
 - Fácilmente extraíble
+- Permite una buena ventilación del dispositivo
 - Todos los puertos y funciones permanecen accesibles
 - Producto que combina tradición e innovación
 
