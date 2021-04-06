@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BAUSCH + LOMB - SofLens® 59 - Lentes de  al 79.90 % de rebaja'
-date: 2021-04-04 17:01:52
+date: 2021-04-06 22:24:17
 image: 'https://m.media-amazon.com/images/I/41Xp-r0nVOL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [BAUSCH + LOMB - SofLens® 59 - Lentes de contacto](https://www.amazon.es
 
 🔎:
 
-- Para miopía o hipermetropía.
 - Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión.
 - Cada vez que las use, deberá limpiarlas, aclararlas y desinfectarlas antes de volver a ponérselas.
+- Para miopía o hipermetropía.
 - Diseñadas para uso diario con la frecuencia de sustitución indicada por el profesional de la visión.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004LHKAKS/?tag=tolees-21)
