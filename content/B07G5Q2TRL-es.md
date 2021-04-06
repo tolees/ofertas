@@ -28,9 +28,9 @@ Ahora mismo tienes [SanDisk Extreme PRO - Tarjeta de memoria microSDXC de 400 G
 
 🔎:
 
-- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
+- Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
 - Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones; resistentes a temperatura, agua, golpes y rayos X
 - Hasta 170 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
-- Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
+- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07G5Q2TRL/?tag=tolees-21)

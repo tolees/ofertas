@@ -28,8 +28,8 @@ Tienes [NIKE FCB M NK Dry tee Core Match T-Shirt  Hombre  Noble Red  XL](https:/
 
 🔎:
 
-- Short sleeves
 - Excellent fit
 - Durable fabric
+- Short sleeves
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08F4WKRHD/?tag=tolees-21)

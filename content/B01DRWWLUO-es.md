@@ -28,7 +28,7 @@ Está [Transcend SSD220S - Disco duro sólido Interno de 480 GB  SATA III  2.5" 
 
 ℹ️:
 
-- Tipo de memoria del ordenador: DDR3 SDRAM
 - Dispositivos compatibles: Ordenador de sobremesa
+- Tipo de memoria del ordenador: DDR3 SDRAM
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DRWWLUO/?tag=tolees-21)

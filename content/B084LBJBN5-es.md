@@ -28,12 +28,12 @@ Tienes [El Almendro - Barritas de Almendra  Chocolate Blanco y Frutos Rojos - 4x
 
 ℹ️:
 
-- 5 almendras por barrita
-- Otros frutos secos: avellanas y pipas de calabaza
-- Estuche de 4 barritas de 25 gr
-- Sin gluten y sin aceite de palma
-- Resto ingredientes: pasta de manzana, miel, frutos rojos y chocolate blanco
 - Barrita de frutos secos sin cereales que la convierte en una fuente de fibra
+- Resto ingredientes: pasta de manzana, miel, frutos rojos y chocolate blanco
+- Otros frutos secos: avellanas y pipas de calabaza
+- 5 almendras por barrita
+- Sin gluten y sin aceite de palma
 - Fuente de fibra
+- Estuche de 4 barritas de 25 gr
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084LBJBN5/?tag=tolees-21)
