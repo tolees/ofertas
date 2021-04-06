@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Denim Rodriguez Pantalones Cort al 51.97 % de descuento'
-date: 2021-03-27 14:08:00
+date: 2021-04-06 14:20:33
 image: 'https://m.media-amazon.com/images/I/41ZTD2qWtQL._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Tienes [Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxid
 
 🔎:
 
-- Color de la esfera: azul
-- Forma del reloj: redonda
 - Material de la caja: acero
-- Tamaño de la caja: 44 mm
+- Forma del reloj: redonda
+- Color de la esfera: azul
 - Material de la correa: acero
+- Tamaño de la caja: 44 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QR7Y9WV/?tag=tolees-21)
