@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gigaset DA210 - Teléfono Fijo con Cable  con un 46.03 % de descuento'
-date: 2021-04-05 07:11:27
+date: 2021-04-06 07:20:21
 image: 'https://m.media-amazon.com/images/I/41RpY-eNUcL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gigaset'
 buyurl: 'https://www.amazon.es/dp/B006NX3GYA/?tag=tolees-21'
 descuento: '46.03'
-average: '9.75008810572688'
+average: '9.74280701754387'
 ---
 
 En este momento está [Gigaset DA210 - Teléfono Fijo con Cable  Color Negro](https://www.amazon.es/dp/B006NX3GYA/?tag=tolees-21) a 8.09 EUR (original: 14.99 EUR) (46.03 %  de descuento) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [Gigaset DA210 - Teléfono Fijo con Cable  Color Negro](ht
 
 - Función mute y rellamada
 - Montaje en pared
-- No requiere enchufe
 - 10 marcaciones directas
+- No requiere enchufe
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B006NX3GYA/?tag=tolees-21)

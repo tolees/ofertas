@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Blacksad: Under The Ski al 49.87 % de descuento'
-date: 2021-04-03 22:38:52
+date: 2021-04-06 06:25:35
 image: 'https://m.media-amazon.com/images/I/41oKwLLSNtL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B07QZ4H1LM/?tag=tolees-21'
 descuento: '49.87'
-average: '23.7900000000001'
+average: '23.9311111111112'
 ---
 
 Está [Meridiem Games - Blacksad: Under The Skin - Limited Edition](https://www.amazon.es/dp/B07QZ4H1LM/?tag=tolees-21) con 49.87 de descuento por 25.06 EUR (original: 49.99 EUR) en el siguiente enlace!
