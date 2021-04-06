@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Skechers Men s Stamina Cutback Trainers  con un 41.85 % de descuento'
-date: 2020-02-11 13:04:58
-image: 'https://m.media-amazon.com/images/I/41YHtRwftoL._AC_._SL400_.jpg'
+title: 'Skechers Stamina-Cutback  Zapatilla Depo con un 64.98 % de descuento'
+date: 2021-04-06 13:29:15
+image: 'https://m.media-amazon.com/images/I/51w46v4O+sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07HCK6N8D-es Skechers Men s Stamina Cutback Trainers Grey Charcoal...'
+slug: 'B07HCK6N8D-es Skechers Stamina-Cutback Zapatilla Deportiva con Cordones...'
 sku: 'B07HCK6N8D-es'
-tags: [  ]
-actualPrice: 46.49 EUR
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','skechers', ]
+actualPrice: 28.0 EUR
 currency: EUR
-price: 46.49
+price: 28.0
 comparePrice: 79.95 EUR
-prodname: 'Skechers Men s Stamina Cutback Trainers  Grey  Charcoal Leather/Mesh/Red Trim Ccrd   8  42 EU '
+prodname: 'Skechers Stamina-Cutback  Zapatilla Deportiva con Cordones Hombre  Gris  CCRD Black Leather/Gray Mesh/Yellow Trim   42 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07HCK6N8D/?tag=tolees-21'
-descuento: '41.85'
-average: '36.04666666666667'
+descuento: '64.98'
+average: '34.035'
 ---
 
-En este momento está [Skechers Men s Stamina Cutback Trainers  Grey  Charcoal Leather/Mesh/Red Trim Ccrd   8  42 EU ](https://www.amazon.es/dp/B07HCK6N8D/?tag=tolees-21) a 46.49 EUR (original: 79.95 EUR) (41.85 %  de descuento) en el siguiente enlace!
+En este momento está [Skechers Stamina-Cutback  Zapatilla Deportiva con Cordones Hombre  Gris  CCRD Black Leather/Gray Mesh/Yellow Trim   42 EU](https://www.amazon.es/dp/B07HCK6N8D/?tag=tolees-21) a 28.0 EUR (original: 79.95 EUR) (64.98 %  de descuento) en el siguiente enlace!
 
-[![Skechers Men s Stamina Cutback Trainers ](https://m.media-amazon.com/images/I/41YHtRwftoL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07HCK6N8D/?tag=tolees-21)
+[![Skechers Stamina-Cutback  Zapatilla Depo](https://m.media-amazon.com/images/I/51w46v4O+sL._SL400_.jpg)](https://www.amazon.es/dp/B07HCK6N8D/?tag=tolees-21)
 
 🔎:
 
+- Temporada: otoño/invierno
+- Artículo: 51286
+- Color: gris
+- Material: piel
+- Diseñador: Skechers
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HCK6N8D/?tag=tolees-21)

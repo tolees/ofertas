@@ -1,32 +1,34 @@
 ---
 layout: post
-title: 'Skechers Men s Stamina Cutback Trainers  al 50.03 % de rebaja'
-date: 2020-09-29 07:23:29
-image: 'https://m.media-amazon.com/images/I/51+wBKnFFaL._SL400_.jpg'
+title: 'Skechers Stamina-Cutback  Zapatilla Depo al 64.98 % de rebaja'
+date: 2021-04-06 12:42:33
+image: 'https://m.media-amazon.com/images/I/51w46v4O+sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07HCN4BQP-es Skechers Men s Stamina Cutback Trainers Grey Charcoal...'
+slug: 'B07HCN4BQP-es Skechers Stamina-Cutback Zapatilla Deportiva con Cordones...'
 sku: 'B07HCN4BQP-es'
-tags: [  ]
-actualPrice: 39.95 EUR
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','skechers', ]
+actualPrice: 28.0 EUR
 currency: EUR
-price: 39.95
+price: 28.0
 comparePrice: 79.95 EUR
-prodname: 'Skechers Men s Stamina Cutback Trainers  Grey  Charcoal Leather/Mesh/Red Trim Ccrd   6  39.5 EU '
+prodname: 'Skechers Stamina-Cutback  Zapatilla Deportiva con Cordones Hombre  Gris  CCRD Black Leather/Gray Mesh/Yellow Trim   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07HCN4BQP/?tag=tolees-21'
-descuento: '50.03'
-average: '40.227500000000006'
+descuento: '64.98'
+average: '38.8688888888889'
 ---
 
-Tienes [Skechers Men s Stamina Cutback Trainers  Grey  Charcoal Leather/Mesh/Red Trim Ccrd   6  39.5 EU ](https://www.amazon.es/dp/B07HCN4BQP/?tag=tolees-21) con precio final de  39.95 EUR (original: 79.95 EUR) (50.03 %  de rebaja) aqui!
+Tienes [Skechers Stamina-Cutback  Zapatilla Deportiva con Cordones Hombre  Gris  CCRD Black Leather/Gray Mesh/Yellow Trim   39.5 EU](https://www.amazon.es/dp/B07HCN4BQP/?tag=tolees-21) con precio final de  28.0 EUR (original: 79.95 EUR) (64.98 %  de rebaja) aqui!
 
-[![Skechers Men s Stamina Cutback Trainers ](https://m.media-amazon.com/images/I/51+wBKnFFaL._SL400_.jpg)](https://www.amazon.es/dp/B07HCN4BQP/?tag=tolees-21)
+[![Skechers Stamina-Cutback  Zapatilla Depo](https://m.media-amazon.com/images/I/51w46v4O+sL._SL400_.jpg)](https://www.amazon.es/dp/B07HCN4BQP/?tag=tolees-21)
 
 🔎:
 
+- Suela flexible
+- Plantilla de espuma viscoelástica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HCN4BQP/?tag=tolees-21)
