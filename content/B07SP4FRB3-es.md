@@ -28,8 +28,8 @@ En este momento está [Havaianas Urban Basic II  Chanclas para Hombre  Negro  Bl
 
 🔎:
 
-- Material de la suela: Caucho
 - Material exterior: Caucho
+- Material de la suela: Caucho
 - Revestimiento: Sin forro
 - Cierre: Sin cierre
 

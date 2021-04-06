@@ -28,8 +28,8 @@ En este momento está [NIKE FCB M NK Dry tee Core Match T-Shirt  Hombre  Noble R
 
 🔎:
 
+- Durable fabric
 - Short sleeves
 - Excellent fit
-- Durable fabric
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08F4X5WZ3/?tag=tolees-21)

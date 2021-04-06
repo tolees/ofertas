@@ -28,8 +28,8 @@ Tienes [Santo Domingo Bolsa de café molido 8 onzas](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Uno de los mejores café y los cafés más famosos del mundo.
-- Producto y recién importado de la República Dominicana
 - Este café especial es rica en café sabor, oscura asado, de primera calidad
+- Producto y recién importado de la República Dominicana
+- Uno de los mejores café y los cafés más famosos del mundo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NSOSCBE/?tag=tolees-21)

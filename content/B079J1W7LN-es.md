@@ -28,8 +28,8 @@ Ahora mismo tienes [ABYstyle - NARUTO SHIPPUDEN - Póster "Shippuden Group # 1" 
 
 🔎:
 
-- Papel laminado, con un grosor superior al estándar de 170 g/m²
 - ABYstyle ofrece un póster de alta calidad.
+- Papel laminado, con un grosor superior al estándar de 170 g/m²
 - Producto oficial de Naruto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079J1W7LN/?tag=tolees-21)

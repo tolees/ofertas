@@ -28,10 +28,10 @@ Está [Makita HP457DWE - Taladro Percutor A Bateria 18V Litio-Ion 1.3 Ah](https:
 
 ℹ️:
 
-- Porta, brocas autoblocante para un sencillo cambio de la herramienta con sólo una mano
+- Engranajes metálicos para una perfecta transmisión de la fuerza y mayor durabilidad
 - Diseño ergonómico con mango antideslizante para un perfecto control de la herramienta y mayor comodidad.
 - Tiempo de carga 60 minutos aproximadamente con cargador DC18WA
+- Porta, brocas autoblocante para un sencillo cambio de la herramienta con sólo una mano
 - 16 posiciones de par de apriete + 1 directa
-- Engranajes metálicos para una perfecta transmisión de la fuerza y mayor durabilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00GDFU56A/?tag=tolees-21)
