@@ -28,9 +28,9 @@ Tienes [Mr. Wonderful Álbum de Fotos Amiga como tú… ¡no Necesita Otro Tesor
 
 ℹ️:
 
-- Peso: 520 gr
 - Medidas: 23 x 15 x 3,5 cm
-- Regalo ideal para amigas que comparten momentos
 - Álbum de papel con tapa dura y 64 páginas; incluye 8 hojas de adhesivos troquelados.
+- Regalo ideal para amigas que comparten momentos
+- Peso: 520 gr
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07CZ4Q45S/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Salomon XA Pro 3D V8 W  Zapatillas De Trail Running Y San
 
 🔎:
 
-- Xa PRO 3D V8 W
-- Salomon
 - Color: Black/Phantom/Ebony
+- Salomon
+- Xa PRO 3D V8 W
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081KG8ZJR/?tag=tolees-21)
