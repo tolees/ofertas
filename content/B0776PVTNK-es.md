@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ADORIC Báscula Digital para Cocina de Ac al 43.78 % de descuento'
-date: 2021-04-06 00:48:20
+date: 2021-04-07 00:57:01
 image: 'https://m.media-amazon.com/images/I/413IidsSLQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ADORIC'
 buyurl: 'https://www.amazon.es/dp/B0776PVTNK/?tag=tolees-21'
 descuento: '43.78'
-average: '10.2577261613691'
+average: '10.2546341463414'
 ---
 
 Está [ADORIC Báscula Digital para Cocina de Acero Inoxidable  5kg / 11 lbs  Balanza de Alimentos Multifuncional  Peso de Cocina  Color Plata  Baterías Incluidas ](https://www.amazon.es/dp/B0776PVTNK/?tag=tolees-21) con 43.78 de descuento por 8.99 EUR (original: 15.99 EUR) en el siguiente enlace!
