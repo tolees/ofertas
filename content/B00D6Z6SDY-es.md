@@ -29,7 +29,7 @@ Está [Nerf Hasbro A0364 - Juego de puntería  surtido: colores aleatorios](http
 ℹ️:
 
 - Vuelo acrobático
-- Silbido potente
 - Manejable
+- Silbido potente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00D6Z6SDY/?tag=tolees-21)

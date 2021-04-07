@@ -28,10 +28,10 @@ Ahora mismo tienes [Lacoste Carnaby EVO BL 1 SPM  Zapatillas Hombre  Blanco  Whi
 
 🔎:
 
+- Suela de goma
+- Forro de malla y diseño de suela de inspiración deportiva
 - Cocodrilo verde clásico
 - Empeine de piel y material sintético
 - Forro de material textil
-- Suela de goma
-- Forro de malla y diseño de suela de inspiración deportiva
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MTZCDI7/?tag=tolees-21)

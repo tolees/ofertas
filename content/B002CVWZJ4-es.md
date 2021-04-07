@@ -28,8 +28,8 @@ Tienes [LUBRICANTE DILATADOR LUBRIFIST  LUBRIX  200ML](https://www.amazon.es/dp/
 
 🔎:
 
+- Producto para adultos. Perfecto para tus momentos de placer y disfrute íntimos.
 - Lubricante Dilatador Lubrifist (Lubrix) 200Ml
 - Contiene 200 ml
-- Producto para adultos. Perfecto para tus momentos de placer y disfrute íntimos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B002CVWZJ4/?tag=tolees-21)
