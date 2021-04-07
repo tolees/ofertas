@@ -28,9 +28,9 @@ En este momento está [Kappa Aruffy Betis Chándal  Hombre  Gris/Verde  S](https
 
 🔎:
 
-- Oficial real betis balompié
-- Tipo de fábrica: 75% Poliéster 25% Algodón
 - Temporada 2020/2021
+- Tipo de fábrica: 75% Poliéster 25% Algodón
 - Prenda imprescindible para cualquier aficionado del club verdiblanco
+- Oficial real betis balompié
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DJT8V3Z/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Kipling Fundamental NC  BACKPACKS Unisex Adulto  Color ne
 
 🔎:
 
-- New Classics
-- Mochila
 - Unisex
+- Mochila
+- New Classics
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083YCPFC8/?tag=tolees-21)
