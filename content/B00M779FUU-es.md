@@ -28,10 +28,10 @@ Tienes [Bolero Bebida Instantánea sin Azúcar  Sabor Uva Blanca - Paquete de 24
 
 🔎:
 
+- Sin conservantes artificiales. Saborizantes y colorantes de origen natural
+- Bebida instantánea en polvo sin azúcar y con vitamina C. Baja en calorías y en carbohidratos
 - Alérgenos: sin gluten, sin lactosa, sin huevo, sin frutos secos
 - Disolver cada sobre en 1.5 L de agua
-- Sin conservantes artificiales. Saborizantes y colorantes de origen natural
 - Edulcorado con Stevia
-- Bebida instantánea en polvo sin azúcar y con vitamina C. Baja en calorías y en carbohidratos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00M779FUU/?tag=tolees-21)
