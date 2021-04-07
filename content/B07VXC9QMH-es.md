@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston A2000  SA2000M8/1000G  SSD NVMe al 50.74 % de rebaja'
-date: 2021-04-05 15:56:05
+date: 2021-04-07 07:12:01
 image: 'https://m.media-amazon.com/images/I/41z3t8Ex6LL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B07VXC9QMH/?tag=tolees-21'
 descuento: '50.74'
-average: '110.004285714286'
+average: '109.549090909091'
 ---
 
 Tienes [Kingston A2000  SA2000M8/1000G  SSD NVMe PCIe M.2 2280 1 TB](https://www.amazon.es/dp/B07VXC9QMH/?tag=tolees-21) con precio final de  99.99 EUR (original: 202.99 EUR) (50.74 %  de rebaja) aqui!
