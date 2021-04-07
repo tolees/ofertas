@@ -28,8 +28,8 @@ En este momento está [adidas Superstar  Sneaker Mujer  Footwear White/Gold Meta
 
 🔎:
 
-- Zapatilla clásica de cuero
 - Cordones de zapatos
 - Parte superior de cuero
+- Zapatilla clásica de cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08D3BMM13/?tag=tolees-21)

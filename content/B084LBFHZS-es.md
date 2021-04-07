@@ -29,9 +29,9 @@ Tienes [El Almendro - Cubits de Almendra y Chocolate con Leche 100 gr - Sin Glut
 🔎:
 
 - Cubitos de almendra y cereales
-- Sin gluten, sin aceite de palma y sin aromas artificiales
-- Ligeros y crujientes
 - 30% de almendras por bolsa. Receta de chocolate con leche y un toque de vainilla
+- Ligeros y crujientes
 - Bolsa de 100 gramos con zip resellable para mantener la frescura de los Cubits
+- Sin gluten, sin aceite de palma y sin aromas artificiales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084LBFHZS/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Durex Lubricante de Base Agua Efecto Cal al 35.03 % de descuento'
-date: 2021-03-20 11:58:39
+date: 2021-04-07 21:58:27
 image: 'https://m.media-amazon.com/images/I/31rRXQgA0PL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Durex'
 buyurl: 'https://www.amazon.es/dp/B00RDFSH2I/?tag=tolees-21'
 descuento: '35.03'
-average: '8.16333333333333'
+average: '8.15136363636363'
 ---
 
 Ahora mismo tienes [Durex Lubricante de Base Agua Efecto Calor - 50 ml](https://www.amazon.es/dp/B00RDFSH2I/?tag=tolees-21) a 7.9 EUR (original: 12.16 EUR) (35.03 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Durex Lubricante de Base Agua Efecto Calor - 50 ml](https://
 
 🔎:
 
+- BASE AGUA: No es graso y puede lavarse fácilmente; suaviza tus relaciones con este lubricante de base agua
 - SUAVE Y LIGERO: Respetuoso con la piel para más comodidad de uso
-- EFECTO CALOR: Calienta el ambiente en tus relaciones íntimas gracias al lubricante Durex Efecto Calor
 - ADECUADO PARA SEXO ORAL, VAGINAL O ANAL: Gracias a su textura suave y ligera, podrás usarlo en cualquier ocasión
 - COMPATIBLE CON PRESERVATIVOS: Este lubricante puede usarse con preservativos de látex, poliisoporeno y poliuretano
-- BASE AGUA: No es graso y puede lavarse fácilmente; suaviza tus relaciones con este lubricante de base agua
+- EFECTO CALOR: Calienta el ambiente en tus relaciones íntimas gracias al lubricante Durex Efecto Calor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00RDFSH2I/?tag=tolees-21)
