@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Antaño Crianza - Vino Tinto D.O Rioja -  al 44.80 % de descuento'
-date: 2021-04-04 16:06:05
+date: 2021-04-07 10:23:08
 image: 'https://m.media-amazon.com/images/I/51ztQ9GvRZL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Antaño'
 buyurl: 'https://www.amazon.es/dp/B00M6OMP1K/?tag=tolees-21'
 descuento: '44.80'
-average: '18.9116279069767'
+average: '18.8581818181818'
 ---
 
 Está [Antaño Crianza - Vino Tinto D.O Rioja - Pack de 6 Botellas x 750 ml](https://www.amazon.es/dp/B00M6OMP1K/?tag=tolees-21) con 44.80 de descuento por 16.56 EUR (original: 30.0 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [Antaño Crianza - Vino Tinto D.O Rioja - Pack de 6 Botellas x 750 ml](htt
 
 ℹ️:
 
-- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 16 ºC y conservarlo en un lugar fresco y seco.
-- Gusto: En boca es suave y sabroso con una textura tánica agradable. Se percibe un sabor a cacao picante, café tostado en grano y vainilla. Los sabores tostados perduran en el final.
-- Tipo de uva: Elaborado con una selección de uvas Tempranillo, Mazuelo, Graciano y Garnacha cuatro uvas autóctonas de la Rioja. Sigue un proceso de maduración de 12 meses en barricas de roble americano.
 - Aroma: Presenta un perfil aromático con toques frutales, de bayas rojas con perfumes de vainilla y especias.
+- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 16 ºC y conservarlo en un lugar fresco y seco.
 - Apariencia: Vino tinto de color rubí intenso con capa media alta brillante.
+- Gusto: En boca es suave y sabroso con una textura tánica agradable. Se percibe un sabor a cacao picante, café tostado en grano y vainilla. Los sabores tostados perduran en el final.
 - Maridaje: Este vino tinto se puede acompañar de carnes como el venado en salsa, riñones al vino tinto o empanada de atún, así como de quesos como el Manchego.
+- Tipo de uva: Elaborado con una selección de uvas Tempranillo, Mazuelo, Graciano y Garnacha cuatro uvas autóctonas de la Rioja. Sigue un proceso de maduración de 12 meses en barricas de roble americano.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00M6OMP1K/?tag=tolees-21)

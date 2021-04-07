@@ -28,9 +28,9 @@ Está [Element Cornell Classic Ho-Sudadera para Hombre Capucha  Gris  Charcoal H
 
 ℹ️:
 
-- Corte: corte normal
 - Tela: Tejido de mezcla de poliéster y algodón [260 g/m2]
-- Cepillado para mayor suavidad
 - Logo del árbol en contraste en el pecho
+- Cepillado para mayor suavidad
+- Corte: corte normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GZX6XPL/?tag=tolees-21)
