@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'The Place Beyond the Pines: Steelbook al 38.79 % de descuento'
-date: 2021-03-12 16:18:39
+date: 2021-04-07 19:44:08
 image: 'https://m.media-amazon.com/images/I/51hH7L-UPAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GRVVYCV-es The Place Beyond the Pines: Steelbook'
 sku: 'B07GRVVYCV-es'
+tags: [ 'Libros', ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GRVVYCV/?tag=tolees-21'
 descuento: '38.79'
-average: '14.2436842105263'
+average: '13.9166666666666'
 ---
 
 Ahora mismo tienes [The Place Beyond the Pines: Steelbook](https://www.amazon.es/dp/B07GRVVYCV/?tag=tolees-21) a 9.09 EUR (original: 14.85 EUR) (38.79 %  de descuento) en el siguiente enlace!
