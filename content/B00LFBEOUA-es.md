@@ -28,10 +28,10 @@ Tienes [Logitech G402 Hyperion Fury Ratón Gaming con Cable  Seguimento Óptico 
 
 ℹ️:
 
-- Ligerísimo: este ratón inalámbrico para gaming G402 Hyperion Fury está hecho con materiales ligeros y tiene pies de baja fricción para poder jugar a toda velocidad
 - 8 Botones Programables: Tiene 8 botones programables para configurar las acciones durante el gaming con ordenador, Mac o portátil
 - Cambio de dpi sobre la marcha: incluye cuatro valores de dpi ajustable para precisión o para maniobras vertiginosas
-- La Ciencia de Motor Fusion: Motor Fusion integrado en el ratón gaming inalámbrico que ofrece una velocidad de seguimiento
 - Velocidad de repuesta rápida: una velocidad de respuesta de 1 ms ofrece la seguridad de que cada uno de los movimientos se comunica a través de este ratón con cable USB
+- La Ciencia de Motor Fusion: Motor Fusion integrado en el ratón gaming inalámbrico que ofrece una velocidad de seguimiento
+- Ligerísimo: este ratón inalámbrico para gaming G402 Hyperion Fury está hecho con materiales ligeros y tiene pies de baja fricción para poder jugar a toda velocidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LFBEOUA/?tag=tolees-21)

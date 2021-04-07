@@ -28,7 +28,7 @@ En este momento está [Jack & Jones JJEPAULOS Polo SS Noos  Gris  Lily Pad Detal
 
 🔎:
 
-- short-sleeved polo shirt
 - cotton polo
+- short-sleeved polo shirt
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MMLP43K/?tag=tolees-21)

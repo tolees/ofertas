@@ -28,9 +28,9 @@ Está [Lacoste PH4012  Polo Para Hombre  Rojo  Bordeaux   Medium  Talla del fabr
 
 ℹ️:
 
+- Cocodrilo verde bordado en el pecho
 - Ofrece comodidad durante el uso
 - Presenta aberturas en los laterales
 - Camiseta con tejido ligero y suave para hombres
-- Cocodrilo verde bordado en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01A6YFU86/?tag=tolees-21)
