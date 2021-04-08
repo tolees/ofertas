@@ -29,9 +29,9 @@ En este momento está [Chicco Pelota transformable  Multicolor  00009374000000 ]
 🔎:
 
 - Ideal para bebés
-- Transformable en diferentes figuras
-- 10 piezas de colores a encajar
-- Rueda como una pelota
 - Desarrolla la creatividad
+- Transformable en diferentes figuras
+- Rueda como una pelota
+- 10 piezas de colores a encajar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079QPJ53T/?tag=tolees-21)

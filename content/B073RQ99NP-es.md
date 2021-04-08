@@ -28,8 +28,8 @@ Tienes [Jack & Jones Jcopinn Sweat Hood Noos Capucha  Negro  Black Fit:reg/Yello
 
 🔎:
 
+- Suave
 - El corte regular se presenta con puños acanalados anchos en las mangas y el dobladillo
 - ¿Listo para el próximo partido? Esta sudadera de Jack & Jones se puede llevar en cualquier lugar en su tiempo de ocio, ya sea para hacer deporte, en la escuela, la universidad o en el sofá para jugar,
-- Suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073RQ99NP/?tag=tolees-21)

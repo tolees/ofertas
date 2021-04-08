@@ -28,11 +28,11 @@ Está [S&M 321771 Regulador de Gas Butano+ Tubo Goma 1 5 M + 2 Abraz  Gris/Naran
 
 ℹ️:
 
-- Tubo homologado con una longitud de 1, 5 m. + regulador doméstico butano apto para acoplar a aparatos que funcionen con presión de entrada 30 mbar
-- Diámetro interior de la manguera: 9 x 15mm; fecha de caducidad en tubo
 - Caudal garantizado: 2.5 kg/h, presión de alimentación: 0, 6-16 bar y presión de cierre: 63 mbar
 - Para instalaciones de gas butano y propano
 - Conexión de entrada: g-56 (une-en 12864); conexión de salida: h-51 (une-en 12864)
 - Indicado para cocinas y estufas de gas
+- Tubo homologado con una longitud de 1, 5 m. + regulador doméstico butano apto para acoplar a aparatos que funcionen con presión de entrada 30 mbar
+- Diámetro interior de la manguera: 9 x 15mm; fecha de caducidad en tubo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00U8SA6NA/?tag=tolees-21)

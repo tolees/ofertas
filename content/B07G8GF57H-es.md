@@ -28,10 +28,10 @@ Ahora mismo tienes [Giorgi Line - Sublime Cream  Espuma en Crema Rizos Definidos
 
 🔎:
 
+- Está dermatológicamente testado. Una vez acabado, recíclalo en el contenedor amarillo
+- Gracias a su combinación de polímeros fijadores, acondicionadores y aceites nutritivos, el cabello queda suave, brillante y con aspecto natural
+- Fija como una espuma. Nutre como una crema. De fórmula concentrada, es un exclusivo producto concentrado que cunde el doble que una espuma convencional; no engrasa, sin residuos y no acartona
 - De textura única, cremosa y nutritiva, su innovadora fórmula increíblemente cremosa, aporta una nutrición extraordinaria y cuida el cabello para que luzca sano y bonito
 - Espuma en crema ideal para pelo rizado que elimina el encrespamiento y proporciona rizos hidratados, definidos y elásticos
-- Gracias a su combinación de polímeros fijadores, acondicionadores y aceites nutritivos, el cabello queda suave, brillante y con aspecto natural
-- Está dermatológicamente testado. Una vez acabado, recíclalo en el contenedor amarillo
-- Fija como una espuma. Nutre como una crema. De fórmula concentrada, es un exclusivo producto concentrado que cunde el doble que una espuma convencional; no engrasa, sin residuos y no acartona
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07G8GF57H/?tag=tolees-21)
