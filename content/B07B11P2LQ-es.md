@@ -28,10 +28,10 @@ Ahora mismo tienes [Eco Styler Gel a base de aceite de oliva - Para todo tipo de
 
 🔎:
 
-- De a abstracto de flores Styling Gel that Leaves Hair with a healthy Shine & Superior Hold
 - De para copia de seguridad (for all Hair types
-- - Made With 100% Pure Olive Oil
-- De Moist urizes Hair & Scalp, tames s8512ds
 - De no Flake, no track. anti Itch and Protects Against UV radiation
+- De Moist urizes Hair & Scalp, tames s8512ds
+- - Made With 100% Pure Olive Oil
+- De a abstracto de flores Styling Gel that Leaves Hair with a healthy Shine & Superior Hold
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B11P2LQ/?tag=tolees-21)

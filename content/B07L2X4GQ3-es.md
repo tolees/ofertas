@@ -29,8 +29,8 @@ En este momento está [Eastpak Flat Oval L Estuche  23 Cm  Negro  Black ](https:
 🔎:
 
 - Asa de transporte para un almacenamiento fácil
-- Bolsillos ocultos internos para los sacapuntas y otras cosas más pequeñas
 - Alto: 13 cm, Ancho: 23 cm, Fondo: 7.5 cm
+- Bolsillos ocultos internos para los sacapuntas y otras cosas más pequeñas
 - Estuche para lápices de compartimento doble con un montón de espacio
 - Fabricada en 100 % nailon
 

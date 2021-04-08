@@ -28,8 +28,8 @@ Ahora mismo tienes [Be Plus Smoothie Energizante  7 unidad](https://www.amazon.e
 
 🔎:
 
-- Fuente de vitamina C. La vitamina C contribuye al metabolismo energético normal y ayuda a disminuir el cansancio y la fatiga
-- Cómodo formato pouch, podrás disfrutar de lo mejor de las frutas y verduras BIO estés donde estés
 - Smoothie Bioactivo Energizante
+- Cómodo formato pouch, podrás disfrutar de lo mejor de las frutas y verduras BIO estés donde estés
+- Fuente de vitamina C. La vitamina C contribuye al metabolismo energético normal y ayuda a disminuir el cansancio y la fatiga
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QFRBYMQ/?tag=tolees-21)
