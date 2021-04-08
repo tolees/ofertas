@@ -28,10 +28,10 @@ Ahora mismo tienes [Walimex Pro - Objetivo Ojo de pez 1:3 5 DSLR para Sony Alpha
 
 🔎:
 
-- Adecuado para las cámaras Sony Alpha, incluye 1x Walimex Pro 8/3.5 Fish-Eye II con parasol, práctico bolso de transporte y tapa protectora
-- Lentes de vidrio con múltiples revestimientos - utilizables con el modo de exposición manual, enfoque manual - con teleobjetivo extraíble
 - Adecuado para tiroteos en espacios estrechos - perspectiva impresionante y única con alta profundidad de campo
+- Adecuado para las cámaras Sony Alpha, incluye 1x Walimex Pro 8/3.5 Fish-Eye II con parasol, práctico bolso de transporte y tapa protectora
 - Distancia focal de 8 mm, la velocidad rápida de la lente de 1: 3.5 permite disparos excelentes incluso en condiciones de iluminación menos favorables
 - Ángulo de imagen APS-C de aproximadamente 180°, distancia mínima de enfoque aproximadamente 0.3 m
+- Lentes de vidrio con múltiples revestimientos - utilizables con el modo de exposición manual, enfoque manual - con teleobjetivo extraíble
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008VGCX2I/?tag=tolees-21)
