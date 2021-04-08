@@ -28,11 +28,11 @@ Ahora mismo tienes [Hoover Jive SJ4000DWB6 Car Aspiradora de mano  Especial limp
 
 🔎:
 
-- Recogida de sólidos
 - Cepillo en dotación: ideal para limpiar las superficies más delicadas sin dañarlas
+- Recogida de sólidos
 - Cable de 4 m con adaptador para alcanzar todos los rincones
+- Modelo especial para la limpieza de automóviles: equipado con enchufe para el coche
 - Accesorio rincones: para limpiar los rincones más difíciles y llegar a todas partes
 - 12 V
-- Modelo especial para la limpieza de automóviles: equipado con enchufe para el coche
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00ATNOCF2/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Sony SRSXB01W  Altavoz Portátil  Compacto  Bluetooth  Extra
 
 🔎:
 
-- Hasta 6 horas de duración de la batería
+- Resistente al agua IPX5 para un uso sin preocupaciones
 - Extra Bass para un sonido rotundo y profundo
 - Diseño compacto y portátil
-- Resistente al agua IPX5 para un uso sin preocupaciones
+- Hasta 6 horas de duración de la batería
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GT4Z3C7/?tag=tolees-21)

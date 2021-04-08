@@ -29,9 +29,9 @@ Tienes [SanDisk Extreme SSD portátil 250GB - hasta 550MB/s velocidad de lectura
 🔎:
 
 - Compacta y de bolsillo
-- Las transferencias de gran velocidad de hasta 550MB/s te permiten mover rápidamente vídeos y fotografías de gran resolución
-- Para usuarios de PC y Mac
 - Robusta, resistente al agua y al polvo, certificación IP-55
+- Para usuarios de PC y Mac
 - Núcleo de estado sólido resistente a golpes para una optima durabilidad
+- Las transferencias de gran velocidad de hasta 550MB/s te permiten mover rápidamente vídeos y fotografías de gran resolución
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078SVRH4B/?tag=tolees-21)

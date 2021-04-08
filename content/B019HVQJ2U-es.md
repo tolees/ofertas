@@ -28,10 +28,10 @@ Ahora mismo tienes [Corsair Vengeance LPX - Memoria interna de 16 GB  1 x 16 GB 
 
 🔎:
 
-- La altura de los módulos Vengeance LPX está pensada incluso para espacios pequeños
 - Vengeane LPX está optimizada y es compatible con las últimas placas de la serie X99, 100 y 200, y ofrece frecuencias más altas, mayor ancho de banda y menor consumo
-- Compatibilidad con XMP 2.0 para un Overclocking automático y sin problemas
 - Disponible en varios colores para combinarlo con tu placa base, tus componentes o simplemente tu estilo
+- Compatibilidad con XMP 2.0 para un Overclocking automático y sin problemas
+- La altura de los módulos Vengeance LPX está pensada incluso para espacios pequeños
 - Cada módulo Vengeance LPX se fabrica con un disipador de aluminio puro para una disipación térmica más rápida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B019HVQJ2U/?tag=tolees-21)

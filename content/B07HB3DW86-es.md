@@ -28,9 +28,9 @@ Está [LAST LEVEL 36420 Figura Pop Zoolander: Derek](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Marca: last level
 - Material: vinilo
-- Manufacturer recommended age: 36 meses - 8 años
 - Figura pop zoolander: derek
+- Manufacturer recommended age: 36 meses - 8 años
+- Marca: last level
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HB3DW86/?tag=tolees-21)

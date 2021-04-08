@@ -28,8 +28,8 @@ En este momento está [Educa Borrás-Frozen II Los Poderes de Elsa  juego de mes
 
 🔎:
 
-- Transforma los diferentes elementos pulsando en la figura 3D de Elsa
 - Contenido: 1 base electrónica Elsa, 1 tablero de juego, 4 piezas de juego 3D de Olaf, 16 tarjetas de elementos, 4 tarjetas de poderes de Elsa, 1 dado e instrucciones
+- Transforma los diferentes elementos pulsando en la figura 3D de Elsa
 - A partir de 4 años; de 2 a 4 jugadores
 - Sé el primer jugador en conseguir los Poderes de Elsa
 

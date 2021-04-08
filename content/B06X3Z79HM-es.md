@@ -28,10 +28,10 @@ Tienes [Casio EDIFICE Reloj en caja sólida  10 BAR  Azul/Negro  para Hombre  co
 
 🔎:
 
-- Resistente al agua hasta 10 bar / 100 metros
 - Caja sólida y correa de acero inoxidable, resistentes y elegantes
-- Cristal mineral, duro y difícil de rayar, que protege el reloj de daños externos
 - Tiene pantalla de neón, cronómetro e indicador de fecha
 - La duración de la batería es de 3 años
+- Cristal mineral, duro y difícil de rayar, que protege el reloj de daños externos
+- Resistente al agua hasta 10 bar / 100 metros
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06X3Z79HM/?tag=tolees-21)

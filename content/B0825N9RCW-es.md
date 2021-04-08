@@ -28,10 +28,10 @@ Tienes [Quiksilver - Highline Hold Down 18" Boardshorts para Adulto](https://www
 
 🔎:
 
-- Longitud : longitud 45,7 cm - corto
-- Bragueta performance
 - Tratamiento hidrofóbico DryFlight que repele el agua
+- Bragueta performance
 - Prenda diseñada para la acción
+- Longitud : longitud 45,7 cm - corto
 - Tejido reciclado: Tejido Repreve trazable de poliéster reciclado, elástico en 4 direcciones, fabricado a base de botellas de plástico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0825N9RCW/?tag=tolees-21)

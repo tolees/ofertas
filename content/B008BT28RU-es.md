@@ -28,8 +28,8 @@ En este momento está [HP - Samsung CLT-K406S/ELS - Tóner para Samsung CLP-360/
 
 🔎:
 
+- Tóner color negro
 - 1500 páginas
 - Compatible con Samsung CLP-360/CLP-365 CLX-3300/CLX-3305
-- Tóner color negro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008BT28RU/?tag=tolees-21)
