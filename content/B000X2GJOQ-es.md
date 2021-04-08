@@ -28,9 +28,9 @@ Ahora mismo tienes [STANLEY 4-18-236 - Punzon de marcar 10 x 140 mm](https://www
 
 🔎:
 
-- Para marcar metal
-- Cuerpo de acero cromo vanadio forjado
 - Longitud: 140 mm
+- Para marcar metal
 - Endurecido y templado para aumentar la durabilidad
+- Cuerpo de acero cromo vanadio forjado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000X2GJOQ/?tag=tolees-21)
