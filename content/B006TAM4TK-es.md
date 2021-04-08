@@ -28,8 +28,8 @@ Tienes [Exponent 56301 - Soporte de regazo para portátiles de hasta 17    negro
 
 🔎:
 
-- Totalmente plegable para facilitar el transporte y el almacenamiento
-- Trae la pantalla para corregir la altura y la posición de uso
 - Se ajusta en seis posiciones
+- Trae la pantalla para corregir la altura y la posición de uso
+- Totalmente plegable para facilitar el transporte y el almacenamiento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B006TAM4TK/?tag=tolees-21)

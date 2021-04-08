@@ -28,10 +28,10 @@ Ahora mismo tienes [Greenworks Tools - Greenworks oplador de hojas de batería G
 
 🔎:
 
-- VENTILADOR AXIAL - rendimiento óptimo y el control electrónico de la velocidad del soplador de hojas con interruptor de alto/bajo asegura una precisión extra al quitar las alfombras de hojas en su jardín
-- UNA BATERÍA PARA TODOS - baterías de 24 V de Greenworks desde 2Ah hasta las potentes 4Ah son versátiles y compatibles con muchos productos de Greenworks en el sector del jardín y el taller
-- POTENTE - Velocidad de aire de nuestro soplador de hojas de batería de hasta 160 km/h, hojas húmedas y suciedad pueden ser removidas fácil y cómodamente en el patio y el jardín
 - COMODIDAD - gracias a su cómoda manija acolchada y el bajo peso de 1.53 kg (sin batería) el soplador de hojas de Greenworks es muy fácil de usar y se ajusta bien a la mano
 - FÁCIL USO - Inserte la batería de 24 V y listo: soplador de hojas de batería puede empezar a limpiar su jardín inmediatamente sin cables- la batería y el cargador no están incluidos
+- POTENTE - Velocidad de aire de nuestro soplador de hojas de batería de hasta 160 km/h, hojas húmedas y suciedad pueden ser removidas fácil y cómodamente en el patio y el jardín
+- UNA BATERÍA PARA TODOS - baterías de 24 V de Greenworks desde 2Ah hasta las potentes 4Ah son versátiles y compatibles con muchos productos de Greenworks en el sector del jardín y el taller
+- VENTILADOR AXIAL - rendimiento óptimo y el control electrónico de la velocidad del soplador de hojas con interruptor de alto/bajo asegura una precisión extra al quitar las alfombras de hojas en su jardín
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06WW2CJ52/?tag=tolees-21)
