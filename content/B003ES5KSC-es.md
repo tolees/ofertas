@@ -28,10 +28,10 @@ Tienes [Wera 05018270001 Destornillador  1.6 x 10 x 175 mm](https://www.amazon.e
 
 ℹ️:
 
-- La punta Wera Black Point ofrece un alojamiento preciso y una mayor protección anticorrosiva
-- El destorcincel para atornillar, cincelar y escoplear
+- Mango multicomponente Kraftform para un trabajo rápido y ergonómico
 - Con cápsula de impacto y hexágono para llave y poder transmitir mayores pares de giro
 - Con varilla hexagonal pasante
-- Mango multicomponente Kraftform para un trabajo rápido y ergonómico
+- La punta Wera Black Point ofrece un alojamiento preciso y una mayor protección anticorrosiva
+- El destorcincel para atornillar, cincelar y escoplear
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003ES5KSC/?tag=tolees-21)
