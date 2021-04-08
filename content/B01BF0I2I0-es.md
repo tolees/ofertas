@@ -28,9 +28,9 @@ Tienes [Cevik CA-PRO24SILENT compresor Silencioso  Negro](https://www.amazon.es/
 
 ℹ️:
 
-- Portátil
+- Silencioso
 - Sin aceite
 - Bajas revoluciones
-- Silencioso
+- Portátil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BF0I2I0/?tag=tolees-21)

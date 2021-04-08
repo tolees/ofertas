@@ -29,7 +29,7 @@ Ahora mismo tienes [Funko-Figura Pop Teen Titans Go Terra  6 x 6 x 10 cm  455 ](
 🔎:
 
 - El producto se vende en su caja original con ventana frontal
-- Las reproducciones miden aproximadamente 10.cm, pero también existen versiones extra-grandes
 - Figura pop de funko
+- Las reproducciones miden aproximadamente 10.cm, pero también existen versiones extra-grandes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071KN7PTL/?tag=tolees-21)

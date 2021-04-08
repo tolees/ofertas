@@ -28,9 +28,9 @@ Ahora mismo tienes [PDP - LVL40 Stereo Headset PS4 Black Camo](https://www.amazo
 
 🔎:
 
-- Diseño transpirable y ligero para largas sesiones de juego.
-- Compatible con Waves Sound Sony para que puedas disfrutar del sonido espacial jugando en Playsation
 - Compatible con Playstation 4, Playstation 5
+- Compatible con Waves Sound Sony para que puedas disfrutar del sonido espacial jugando en Playsation
+- Diseño transpirable y ligero para largas sesiones de juego.
 - El micrófono bidireccional con cancelación de ruido brinda una comunicación clara; además, puedes silenciar tu micrófono con solo subirlo en un rápido movimiento.
 - Escucha todas las instrucciones con sus potentes auriculares de audio de 40 mm.
 

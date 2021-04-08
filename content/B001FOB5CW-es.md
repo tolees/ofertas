@@ -29,8 +29,8 @@ Tienes [Bormioli 324Y92 - Tarro 4 Estaciones 0 50](https://www.amazon.es/dp/B001
 ℹ️:
 
 - Diámetro de la abertura: 70 mm
+- Capacidad de 500 ml
 - Tapa de metal con rosca
 - Dimensiones exteriores: 90 x 136 mm
-- Capacidad de 500 ml
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001FOB5CW/?tag=tolees-21)

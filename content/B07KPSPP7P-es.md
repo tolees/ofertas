@@ -29,9 +29,9 @@ Ahora mismo tienes [Funko - POP! Vinilo: Disney: Toy Story 4: Gabby Gabby](https
 🔎:
 
 - Funko pop vinyl
+- Toy Story 4
+- De la colección Toy Story 4, Gabby Gabby como figura de vinilo pop de funko
 - Disney: toy story 4
 - Juguete del año 2018
-- De la colección Toy Story 4, Gabby Gabby como figura de vinilo pop de funko
-- Toy Story 4
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KPSPP7P/?tag=tolees-21)

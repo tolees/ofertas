@@ -28,10 +28,10 @@ Tienes [Funko - Pop! Disney: Mount Rainier - Kristoff Figurina  Multicolor  4270
 
 🔎:
 
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- Kristoff
-- Descúbre otras figuras de la colección disney y colecciónalas todas
-- De la colección frozen 2, kristoff como figura de vinilo pop de funko
 - Disney frozen 2
+- Descúbre otras figuras de la colección disney y colecciónalas todas
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- De la colección frozen 2, kristoff como figura de vinilo pop de funko
+- Kristoff
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QTVBFT9/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Donic-Schildkroet - Tenis de Mesa Schildkröt Donic Nylon remotesreplaced
 
 ℹ️:
 
-- Adecuado para redes clásicas y de equipos y post sets.
-- Solo se incluye la red.
 - Pieza de repuesto.
+- Solo se incluye la red.
+- Adecuado para redes clásicas y de equipos y post sets.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00PSH1JWS/?tag=tolees-21)
