@@ -28,10 +28,10 @@ En este momento está [PUMA Teamgoal 23 Knit Shorts Pantalones Cortos  Hombre  P
 
 🔎:
 
+- 100 % poliéster
 - 0
+- Largo por encima de la rodilla
 - Logotipo del felino PUMA en el muslo izquierdo
 - 0
-- 100 % poliéster
-- Largo por encima de la rodilla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X8PHBCK/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Blade Runner 2049-Funko Pop Blade Runner 2049 Figura de vinilo Sapper  M
 
 🔎:
 
-- Recomendado para niños a partir de 3 años
+- Figura de colección de la marca Funko
 - Viene embalado en una caja ilustrada con ventana
 - El artículo es adecuado para todos los fanáticos de Blade Runner
-- Figura de colección de la marca Funko
+- Recomendado para niños a partir de 3 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074HMVTC9/?tag=tolees-21)

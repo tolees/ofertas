@@ -28,10 +28,10 @@ Tienes [Western Digital My Cloud Home Duo - Nube personal de 16 TB  con dos disc
 
 🔎:
 
+- Con el modo de duplicación todo se guarda dos veces automáticamente
+- Acceso desde cualquier lugar con la aplicación para móviles o para ordenadores de My Cloud Home, o bien desde MyCloud.com
+- Copia de seguridad automática de las fotos y los vídeos del teléfono
 - Un solo sitio centralizado para almacenar todas sus fotos, vídeos, música y archivos
 - Configuración sencilla y rápida desde el teléfono
-- Acceso desde cualquier lugar con la aplicación para móviles o para ordenadores de My Cloud Home, o bien desde MyCloud.com
-- Con el modo de duplicación todo se guarda dos veces automáticamente
-- Copia de seguridad automática de las fotos y los vídeos del teléfono
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074DXGP9C/?tag=tolees-21)
