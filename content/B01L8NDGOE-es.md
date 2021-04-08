@@ -28,7 +28,7 @@ En este momento está [TomTom GO 620  GPS para coche  6 pulgadas  llamadas manos
 
 🔎:
 
-- Aviso de radares
 - Control por voz
+- Aviso de radares
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01L8NDGOE/?tag=tolees-21)

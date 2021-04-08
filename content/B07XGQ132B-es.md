@@ -28,8 +28,8 @@ Ahora mismo tienes [Eumengman - 3 en 1 Esmaltes Semipermanentes de Uñas en Gel 
 
 🔎:
 
-- Uso amplio: Esmaltes en gel que mantienen las uñas impecables y flexibles, no se parten ni se escaman. Apto para uñas naturales, artificiales y acrílicas.
 - Elite99 esmales en gel 3 en 1 paso. No hace falta el uso del base coat ni el top coat, es más fácil de aplicar y eliminar.
+- Uso amplio: Esmaltes en gel que mantienen las uñas impecables y flexibles, no se parten ni se escaman. Apto para uñas naturales, artificiales y acrílicas.
 - Lámpara requerida: hay que secar el esmalte en gel bajo lámpara uv o led.
 - Esmales semipermanentes durables: Ofrece una larga duración de 7-10 días.
 - Resina no tóxica: Esmalte en gel de alta calidad con leve olor y buena tenacidad. Colores resistentes y flexibles, se adhiere a la uña de manera rápida y fuerte, con un brillo permanente y espectacular.
