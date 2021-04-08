@@ -28,10 +28,10 @@ Tienes [Pepe Jeans Leon Suéter  Gris  905   4 años para Niños](https://www.am
 
 🔎:
 
-- Tejido ligero y suave
-- Puños y bajo elásticos
 - Fit regular
 - Logo bordado en el pecho
+- Tejido ligero y suave
 - Sudadera con capucha y bolsillo canguro
+- Puños y bajo elásticos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0846F4BQN/?tag=tolees-21)

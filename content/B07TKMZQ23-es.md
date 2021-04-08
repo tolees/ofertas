@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa Borrás-Frozen II Los Poderes de El con un 48.98 % de descuento'
-date: 2021-04-07 11:05:49
+date: 2021-04-08 11:48:39
 image: 'https://m.media-amazon.com/images/I/61NkaLerc3L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Educa'
 buyurl: 'https://www.amazon.es/dp/B07TKMZQ23/?tag=tolees-21'
 descuento: '48.98'
-average: '15.375'
+average: '15.1363636363636'
 ---
 
 En este momento está [Educa Borrás-Frozen II Los Poderes de Elsa  juego de mesa con luz y sonidoy  a partir de 4 años  multicolor  18239    color/modelo surtido](https://www.amazon.es/dp/B07TKMZQ23/?tag=tolees-21) a 12.75 EUR (original: 24.99 EUR) (48.98 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Educa Borrás-Frozen II Los Poderes de Elsa  juego de mes
 
 🔎:
 
-- Sé el primer jugador en conseguir los Poderes de Elsa
 - Transforma los diferentes elementos pulsando en la figura 3D de Elsa
 - Contenido: 1 base electrónica Elsa, 1 tablero de juego, 4 piezas de juego 3D de Olaf, 16 tarjetas de elementos, 4 tarjetas de poderes de Elsa, 1 dado e instrucciones
 - A partir de 4 años; de 2 a 4 jugadores
+- Sé el primer jugador en conseguir los Poderes de Elsa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TKMZQ23/?tag=tolees-21)

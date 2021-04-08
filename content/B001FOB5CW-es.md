@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 63.71 % en Bormioli 324Y92 - Tarro 4 Estaciones 0 5'
-date: 2021-03-25 20:19:09
+date: 2021-04-08 11:45:52
 image: 'https://m.media-amazon.com/images/I/41GtdLOMF1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bormioli'
 buyurl: 'https://www.amazon.es/dp/B001FOB5CW/?tag=tolees-21'
 descuento: '63.71'
-average: '2.094'
+average: '2.10818181818182'
 ---
 
 Tienes [Bormioli 324Y92 - Tarro 4 Estaciones 0 50](https://www.amazon.es/dp/B001FOB5CW/?tag=tolees-21) con un 63.71 % de descuento con precio de oferta de 2.25 EUR (original: 6.2 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [Bormioli 324Y92 - Tarro 4 Estaciones 0 50](https://www.amazon.es/dp/B001
 
 ℹ️:
 
-- Capacidad de 500 ml
 - Tapa de metal con rosca
-- Dimensiones exteriores: 90 x 136 mm
 - Diámetro de la abertura: 70 mm
+- Capacidad de 500 ml
+- Dimensiones exteriores: 90 x 136 mm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001FOB5CW/?tag=tolees-21)
