@@ -28,10 +28,10 @@ En este momento está [Eastpak Flat Oval L Estuche  23 Cm  Negro  Black ](https:
 
 🔎:
 
-- Fabricada en 100 % nailon
 - Asa de transporte para un almacenamiento fácil
 - Bolsillos ocultos internos para los sacapuntas y otras cosas más pequeñas
 - Alto: 13 cm, Ancho: 23 cm, Fondo: 7.5 cm
 - Estuche para lápices de compartimento doble con un montón de espacio
+- Fabricada en 100 % nailon
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L2X4GQ3/?tag=tolees-21)

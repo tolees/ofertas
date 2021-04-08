@@ -28,9 +28,9 @@ En este momento está [StarTech.com DP2HD4K60S - Adaptador conversor DisplayPort
 
 🔎:
 
-- Asombrosa calidad de imágenes gracias a la compatibilidad con resoluciones 4K UHD a 60Hz
 - Máxima portabilidad, con un diseño compacto, de peso ligero
 - Configuración sencilla, con conversión activa DisplayPort
+- Asombrosa calidad de imágenes gracias a la compatibilidad con resoluciones 4K UHD a 60Hz
 - No requiere adaptador de corriente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M6WK3KU/?tag=tolees-21)
