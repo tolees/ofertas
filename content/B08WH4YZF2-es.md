@@ -28,12 +28,12 @@ Ahora mismo tienes [YINHONYUHE Mascarilla Quirúrgica Desechable Homologada  50 
 
 🔎:
 
-- Mascarilla de 3 capas. Material tela no tejida 67% y tejida de aerosol fundido 33%. BFE≥ 98%.
-- Solmira es el distribuidor exclusivo de YINHONYUHE Mascarilla Quirúrgica en la UE
-- Norma UNE – EN14683:2019+AC:2019 Tryp IIR
-- ¡¡¡EL ENVÍO SOLO GESTIONA POR AMAZON!!!
 - Tamaño 17,5 x 9,5 cm. Talla Adulto Estándar
-- ¡¡¡OJO!!! Cuidado con las falsificaciones(el vendedor MEILINKAI99).
 - Apto para un solo vez
+- ¡¡¡EL ENVÍO SOLO GESTIONA POR AMAZON!!!
+- Mascarilla de 3 capas. Material tela no tejida 67% y tejida de aerosol fundido 33%. BFE≥ 98%.
+- Norma UNE – EN14683:2019+AC:2019 Tryp IIR
+- ¡¡¡OJO!!! Cuidado con las falsificaciones(el vendedor MEILINKAI99).
+- Solmira es el distribuidor exclusivo de YINHONYUHE Mascarilla Quirúrgica en la UE
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08WH4YZF2/?tag=tolees-21)
