@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.29 % en Fox - X-Men: Fénix Oscura Blu-Ray [Blu-r'
-date: 2021-04-07 01:03:06
+date: 2021-04-08 01:09:25
 image: 'https://m.media-amazon.com/images/I/51LUcIv4NdL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fox'
 buyurl: 'https://www.amazon.es/dp/B07SRXNM5M/?tag=tolees-21'
 descuento: '42.29'
-average: '13.0750000000001'
+average: '13.0729268292684'
 ---
 
 Tienes [Fox - X-Men: Fénix Oscura Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07SRXNM5M/?tag=tolees-21) con un 42.29 % de descuento con precio de oferta de 12.99 EUR (original: 22.51 EUR) en el siguiente enlace!
