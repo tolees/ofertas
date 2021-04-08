@@ -30,8 +30,8 @@ Ahora mismo tienes [Woxter Mic Studio 100 Pro - Micrófono de condensación  Car
 
 - Micrófono para Streaming construido en ABS+PC y aleación de Zinc
 - Micrófono de condensación / entrada para auriculares: 3,5mm
-- Max SPL: 128 dB / S/N Ratio: 100dB / Impedancia: 32? / Frecuencia de respuesta: 20hz-20khz.
 - Compatibilidad con sistemas PlayStation 4, Windows 10,8,7,Vista, XP, Linux, Mac OSX 10.4.6 o superiores
+- Max SPL: 128 dB / S/N Ratio: 100dB / Impedancia: 32? / Frecuencia de respuesta: 20hz-20khz.
 - 2 modos de grabación: Cardioide y omni-direccional
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FKJBFQS/?tag=tolees-21)

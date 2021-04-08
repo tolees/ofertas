@@ -28,10 +28,10 @@ Tienes [Funko - Pop! Disney: Mount Rainier - Earth Giant Figurina  Multicolor  4
 
 ℹ️:
 
-- Descúbre otras figuras de la colección disney y colecciónalas todas
-- Earth giant
-- Disney frozen 2
 - De la colección frozen 2, earth giant como figura de vinilo pop de funko
+- Disney frozen 2
+- Descúbre otras figuras de la colección disney y colecciónalas todas
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- Earth giant
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QVRZ55M/?tag=tolees-21)

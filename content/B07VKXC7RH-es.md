@@ -28,8 +28,8 @@ Ahora mismo tienes [NIKE Court Borough Low 2  Zapatillas  Blanco  39 EU](https:/
 
 🔎:
 
-- Cordones de Zapatos
-- Importado
 - Suave de Llevar
+- Importado
+- Cordones de Zapatos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VKXC7RH/?tag=tolees-21)
