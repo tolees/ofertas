@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Samsung HW-T450 - Barra de Sonido  Sonid al 39.66 % de descuento'
-date: 2021-03-04 19:11:41
+date: 2021-04-08 19:16:43
 image: 'https://m.media-amazon.com/images/I/31cZg+DzQPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083VGN1CY-es Samsung HW-T450 - Barra de Sonido Sonido 200W 2.1Ch...'
 sku: 'B083VGN1CY-es'
+tags: [ 'Altavoces','Barras de sonido','Electrónica','Equipos de audio y Hi-Fi','samsung', ]
 actualPrice: 126.65 EUR
 currency: EUR
 price: 126.65
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B083VGN1CY/?tag=tolees-21'
 descuento: '39.66'
-average: '162.212727272727'
+average: '162.080638297872'
 ---
 
 Está [Samsung HW-T450 - Barra de Sonido  Sonido 200W  2.1Ch  Subwoofer Inalámbrico  Dolby Digital 2.1  Modo Juego  Bluetooth 4.2 Power On y One Remote Control  versión 2020](https://www.amazon.es/dp/B083VGN1CY/?tag=tolees-21) con 39.66 de descuento por 126.65 EUR (original: 209.9 EUR) en el siguiente enlace!
@@ -27,10 +28,10 @@ Está [Samsung HW-T450 - Barra de Sonido  Sonido 200W  2.1Ch  Subwoofer Inalámb
 
 ℹ️:
 
-- Subwoofer inalámbrico: potencia los graves y olvídate de los cables colocando el subwoofer donde quieras
 - Bluetooth 4.2 Power On: la barra se encenderá y apagará automáticamente al encender y apagar el televisor
 - Game Mode: disfruta de una experiencia única de juego con la configuración automática de audio y cancelación de ruido
-- Smart Sound: analiza automáticamente las fuentes de sonido originales para optimizar la pista de audio de cada contenido específico
 - Dolby Digital 2.1: innovador sistema de sonido que potencia el audio de cada escena gracias a sus 2.1 canales
+- Smart Sound: analiza automáticamente las fuentes de sonido originales para optimizar la pista de audio de cada contenido específico
+- Subwoofer inalámbrico: potencia los graves y olvídate de los cables colocando el subwoofer donde quieras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083VGN1CY/?tag=tolees-21)
