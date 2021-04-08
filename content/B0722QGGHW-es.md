@@ -29,10 +29,10 @@ Ahora mismo tienes [Di4 Jet Pressing Deluxe 6B Centro de Planchado  2350 W  Cer�
 🔎:
 
 - Planchado en seco y en vertical; el vapor vertical fácil ita el planchado de prendas como abrigos, obteniendo un resultado perfecto
+- Centro de planchado que elimina las arrugas más difíciles gracias a su alto rendimiento de vapor continuo de hasta 125 g/min y una presión de 6 bares; está listo en 2 minutos
+- Doble sistema antical: para que el centro de planchado funcione siempre a la perfección, el centro de planchado de di4 cuenta con un cartucho antical y un sistema antical de fácil limpieza
 - Gran depósito de agua de 1,6 litros de capacidad y extraíble con llenado ilimitado
 - Cuenta con un indicador de vapor listo y de falta de agua
 - Sliding technology: suela de cerámica de alta resistencia y deslizamiento, tecnología que fácil ita el desplazamiento sobre las prendas y permite un planchado más fácil
-- Centro de planchado que elimina las arrugas más difíciles gracias a su alto rendimiento de vapor continuo de hasta 125 g/min y una presión de 6 bares; está listo en 2 minutos
-- Doble sistema antical: para que el centro de planchado funcione siempre a la perfección, el centro de planchado de di4 cuenta con un cartucho antical y un sistema antical de fácil limpieza
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0722QGGHW/?tag=tolees-21)
