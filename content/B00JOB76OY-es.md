@@ -28,10 +28,10 @@ Está [Casio Reloj de Pulsera MTP-1314PL-7AVEF](https://www.amazon.es/dp/B00JOB7
 
 ℹ️:
 
-- Funciones de movimiento de cuarzo, analógico, calendario, agujas luminiscentes
-- Caja de acero, correa de cuero auténtico con hebilla en acero
-- La duración de la batería es de 3 años
-- Las agujas y/o el índice están cubiertos por una capa fluorescente
 - Resistente al agua hasta 5 bar / 50 metros
+- Caja de acero, correa de cuero auténtico con hebilla en acero
+- Las agujas y/o el índice están cubiertos por una capa fluorescente
+- La duración de la batería es de 3 años
+- Funciones de movimiento de cuarzo, analógico, calendario, agujas luminiscentes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00JOB76OY/?tag=tolees-21)

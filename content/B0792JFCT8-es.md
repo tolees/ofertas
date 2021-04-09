@@ -28,7 +28,7 @@ En este momento está [Diesel UMBX-DAMIENTHREEPACK  Calzoncillo para Hombre  Mul
 
 🔎:
 
-- Muy cómodo de llevar.
 - De la marca Diesel.
+- Muy cómodo de llevar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0792JFCT8/?tag=tolees-21)
