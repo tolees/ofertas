@@ -28,9 +28,9 @@ En este momento está [Smartbox - Caja Regalo Amor para Parejas - Magia en Andal
 
 🔎:
 
-- La caja regalo contiene: - un catálogo con una selección de actividades, hoteles, restaurantes y tratamientos de bienestar - un bono regalo sin indicación del precio que permite que el destinatario reserve y utilice el servicio seleccionado.
-- 1 noche con desayuno y cena, spa o bodega o 2 noches con desayuno para 2 personas
 - 32 estancias en palacios, hoteles spa, mágicos alojamientos de hasta 4* y mucho más
 - ¡Compra tu experiencia ahora y disfrútala más adelante! Tienes hasta 3 años y 3 meses desde la fecha de compra para cambiar, canjear o prolongar la validez de tu bono regalo.
+- 1 noche con desayuno y cena, spa o bodega o 2 noches con desayuno para 2 personas
+- La caja regalo contiene: - un catálogo con una selección de actividades, hoteles, restaurantes y tratamientos de bienestar - un bono regalo sin indicación del precio que permite que el destinatario reserve y utilice el servicio seleccionado.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FXLPN98/?tag=tolees-21)
