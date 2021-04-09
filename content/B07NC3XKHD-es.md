@@ -28,11 +28,11 @@ En este momento está [AXE Excite - Desodorante Bodyspray para hombre  48 horas 
 
 🔎:
 
+- Haz una auténtica declaración de estilo sutil con el espray corporal AXE Excite
+- Aplica el desodorante rocíandolo sobre tus axilas y torso para que notes la diferencia y te olvides del sudor antes de que aparezca
+- Se caracteriza por un cautivador aroma cítrico, con pera y pimienta con un toque de especias orientales y una fragancia amaderada
 - Tiene una aplicación rápida que ayudará a mantenerte fresco y seco cualquier que sea la ocasión y para que siempre sigas fragante
 - Ofrece una protección duradera y eficaz contra el sudor y los malos olores de hasta 48 horas de duración
-- Aplica el desodorante rocíandolo sobre tus axilas y torso para que notes la diferencia y te olvides del sudor antes de que aparezca
-- Haz una auténtica declaración de estilo sutil con el espray corporal AXE Excite
 - AXE es una marca de cuidado personal masculino vendida en el mundo que ofrece óptima calidad
-- Se caracteriza por un cautivador aroma cítrico, con pera y pimienta con un toque de especias orientales y una fragancia amaderada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NC3XKHD/?tag=tolees-21)

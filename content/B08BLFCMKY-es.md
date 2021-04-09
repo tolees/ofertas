@@ -28,11 +28,11 @@ En este momento está [Burton Treble Yell  Adultos Unisex  Dress Blue](https://w
 
 🔎:
 
-- Oxford de nylon 420D
-- Tirantes ergonómicos con correa ajustable para el esternón.
 - Funda para computadora portátil: 16in x 11in / 40.5cm x 28cm
-- La construcción exterior de tela duradera repele el agua en condiciones de nieve e invierno.
-- Dimensiones: 19in x 12in x 7in / 47cm x 31cm x 17cm; Peso: 1.5 libras; Volumen: 21L
 - Tipo de deporte: Skateboarding
+- La construcción exterior de tela duradera repele el agua en condiciones de nieve e invierno.
+- Oxford de nylon 420D
+- Dimensiones: 19in x 12in x 7in / 47cm x 31cm x 17cm; Peso: 1.5 libras; Volumen: 21L
+- Tirantes ergonómicos con correa ajustable para el esternón.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLFCMKY/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Lay S Gourmet Patatas Fritas con Sal  180g](https://www.amazon.es/dp/B00
 
 🔎:
 
-- Conservar en lugar fresco y seco
 - Envasado en atmósfera protectora
 - Producto sin gluten. Apto para celiacos
+- Conservar en lugar fresco y seco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XDQPBX4/?tag=tolees-21)

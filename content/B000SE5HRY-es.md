@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 69.17 % en TRIXIE Cuerda de Juego con Bola  ø7 cm  '
-date: 2021-04-07 07:22:23
+date: 2021-04-09 08:01:29
 image: 'https://m.media-amazon.com/images/I/41azp714XtL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trixie'
 buyurl: 'https://www.amazon.es/dp/B000SE5HRY/?tag=tolees-21'
 descuento: '69.17'
-average: '3.00551724137929'
+average: '3.00034090909089'
 ---
 
 Tienes [TRIXIE Cuerda de Juego con Bola  ø7 cm  50 cm  Perro](https://www.amazon.es/dp/B000SE5HRY/?tag=tolees-21) con un 69.17 % de descuento con precio de oferta de 2.55 EUR (original: 8.27 EUR) en el siguiente enlace!
