@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Marvel - Black Panther 3D [Blu-ray] al 52.98 % de rebaja'
-date: 2021-03-04 08:02:08
+title: 'Marvel - Black Panther 3D [Blu-ray] al 64.77 % de rebaja'
+date: 2021-04-08 23:57:01
 image: 'https://m.media-amazon.com/images/I/61dA3kg-EHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VYZHFQ-es Marvel - Black Panther 3D [Blu-ray]'
 sku: 'B079VYZHFQ-es'
-actualPrice: 15.95 EUR
+tags: [ 'Acción y Aventura','Blu-ray','Blu-ray 3D','Featured Categories','Películas','Películas y TV','marvel', ]
+actualPrice: 11.95 EUR
 currency: EUR
-price: 15.95
+price: 11.95
 comparePrice: 33.92 EUR
 prodname: 'Marvel - Black Panther 3D [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Marvel'
 buyurl: 'https://www.amazon.es/dp/B079VYZHFQ/?tag=tolees-21'
-descuento: '52.98'
-average: '14.246'
+descuento: '64.77'
+average: '14.0372727272727'
 ---
 
-Tienes [Marvel - Black Panther 3D [Blu-ray]](https://www.amazon.es/dp/B079VYZHFQ/?tag=tolees-21) con precio final de  15.95 EUR (original: 33.92 EUR) (52.98 %  de rebaja) aqui!
+Tienes [Marvel - Black Panther 3D [Blu-ray]](https://www.amazon.es/dp/B079VYZHFQ/?tag=tolees-21) con precio final de  11.95 EUR (original: 33.92 EUR) (64.77 %  de rebaja) aqui!
 
 [![Marvel - Black Panther 3D [Blu-ray]](https://m.media-amazon.com/images/I/61dA3kg-EHL._SL400_.jpg)](https://www.amazon.es/dp/B079VYZHFQ/?tag=tolees-21)
 

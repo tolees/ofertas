@@ -28,10 +28,10 @@ Ahora mismo tienes [Geox D Myria C  Zapatillas Mujer  Blanco  White/Off White C1
 
 🔎:
 
+- Cierre: Cremallera
 - Tipo de tacón: Plano
 - Material de la suela: Goma
-- Cierre: Cremallera
-- Revestimiento: Malla
 - Material exterior: Cuero
+- Revestimiento: Malla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SXTHLZB/?tag=tolees-21)

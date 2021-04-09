@@ -28,10 +28,10 @@ Está [Real Madrid - Altavoz Inalámbrico Balón  Blanco/Azul](https://www.amazo
 
 ℹ️:
 
+- Altavoz con potencia de 3 w y buena calidad de sonido
 - Conexión bluetooth con alcance de hasta 10 metros y conexión jack 3.5 mm
+- Speaker wireless con diseño oficial del Real Madrid y forma de pelota de fútbol.
 - Equipo de sonido con micrófono, manos libres y control de volumen, ideal para escuchar música o atender llamadas
 - Altavoz universal compatible con todo tipo de dispositivos electrónicos con conexión Bluetooth.
-- Altavoz con potencia de 3 w y buena calidad de sonido
-- Speaker wireless con diseño oficial del Real Madrid y forma de pelota de fútbol.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K86MHBW/?tag=tolees-21)
