@@ -28,9 +28,9 @@ Ahora mismo tienes [Pack: Asterix [DVD]](https://www.amazon.es/dp/B007B32WDC/?ta
 
 🔎:
 
-- Se envían 6 DVDs sin cofre o envoltorio
-- Colección de 6 DVDs de Asterix y Obelix
-- Envíos 24/48h
 - Idioma Castellano e Inglés
+- Colección de 6 DVDs de Asterix y Obelix
+- Se envían 6 DVDs sin cofre o envoltorio
+- Envíos 24/48h
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007B32WDC/?tag=tolees-21)

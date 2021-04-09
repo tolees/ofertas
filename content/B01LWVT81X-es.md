@@ -28,11 +28,11 @@ Está [Western Digital My Book Disco Duro Externo de Sobremesa de 8 TB  3.5"  US
 
 ℹ️:
 
-- Protección mediante contraseña con cifrado de hardware
-- Sistemas operativos: Windows 10 o Windows 8.1, macOS 10.13+. Requiere reformatear para otros sistemas operativos
-- Hasta 8 TB de capacidad
 - Compatibilidad: Formato exFAT para que sea compatible con Windows y Mac desde el primer momento
+- Hasta 8 TB de capacidad
 - Interfaz: USB 3.0 / compatible con USB 2.0
 - ¡Nota! La compatibilidad puede variar en función de la configuración del hardware y el sistema operativo del usuario (requiere reformatear para Time Machine)
+- Sistemas operativos: Windows 10 o Windows 8.1, macOS 10.13+. Requiere reformatear para otros sistemas operativos
+- Protección mediante contraseña con cifrado de hardware
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LWVT81X/?tag=tolees-21)
