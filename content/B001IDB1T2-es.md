@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse C Taylor A/S - Zapatillas de De al 54.29 % de descuento'
-date: 2021-04-08 02:49:24
+date: 2021-04-09 03:11:02
 image: 'https://m.media-amazon.com/images/I/41uqFoMwNAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B001IDB1T2/?tag=tolees-21'
 descuento: '54.29'
-average: '50.355'
+average: '46.684'
 ---
 
 Ahora mismo tienes [Converse C Taylor A/S - Zapatillas de Deporte Unisex Adulto  Negro  Black Monochrome   42 EU](https://www.amazon.es/dp/B001IDB1T2/?tag=tolees-21) a 32.0 EUR (original: 70.0 EUR) (54.29 %  de descuento) en el siguiente enlace!

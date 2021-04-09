@@ -28,12 +28,12 @@ Ahora mismo tienes [Timberland Classic 2-Eye  Náuticos  Marrón Rootbeer Full G
 
 🔎:
 
-- Revestimiento: Cuero
-- Material de la suela: Goma
-- Tipo de tacón: Plano
 - Tipo de talla: talla estándar
 - Composición: Cuero
-- Cierre: Cordones
 - Material exterior: Cuero
+- Cierre: Cordones
+- Tipo de tacón: Plano
+- Material de la suela: Goma
+- Revestimiento: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000V9J2FE/?tag=tolees-21)
