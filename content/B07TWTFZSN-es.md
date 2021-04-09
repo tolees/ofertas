@@ -28,8 +28,8 @@ Ahora mismo tienes [Wrangler SS 1 Pkt Shirt Camisa  Blanco  White 989   Medium p
 
 🔎:
 
-- Cuenta con bolsillo en el pecho
 - Camisa casual para hombre
 - Fabricada en material cómodo
+- Cuenta con bolsillo en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TWTFZSN/?tag=tolees-21)
