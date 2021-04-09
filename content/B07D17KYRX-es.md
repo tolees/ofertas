@@ -28,8 +28,8 @@ Ahora mismo tienes [Stor - BOLSA MERIENDA PATRULLA CANINA COLORS](https://www.am
 
 🔎:
 
-- Producto con licencia oficial, 100% original.
 - Práctica bolsa de tela con asas y cierre mediante cordones, decorada con atractivos diseños con algunos de los personajes infantiles favoritos de los más pequeños.
+- Producto con licencia oficial, 100% original.
 - Todos los productos de la marca Stor están libres de BPA y han pasado los tests requeridos en su categoría para cumplir con la normativa Europea.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D17KYRX/?tag=tolees-21)
