@@ -28,8 +28,8 @@ Ahora mismo tienes [Helly Hansen KOS Polo  Hombre  Blanco  Blanco 001   XL](http
 
 🔎:
 
+- De alta calidad.
 - De la marca Helly Hansen.
 - Tejido de secado rápido Tejido Tactel de piqué 195 g Tapete delantera con botones Cuello de canalé con raya en otro color Puños de canalé con rayas en otro color Aberturas laterales
-- De alta calidad.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KQLLSMD/?tag=tolees-21)
