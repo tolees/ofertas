@@ -28,9 +28,9 @@ Tienes [Toy Partner- Fortnite Juguete  figura  Multicolor  FNT0066    color/mode
 
 🔎:
 
-- Figuras de 15cm
-- Figuras articuladas
-- Figuras realistas del videojuego
 - Figuras con accesorios reales del videojuego
+- Figuras de 15cm
+- Figuras realistas del videojuego
+- Figuras articuladas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MJVH4ZV/?tag=tolees-21)
