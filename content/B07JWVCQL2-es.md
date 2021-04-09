@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Bohemian Rhapsody [DVD] al 42.52 % de descuento'
-date: 2021-04-06 09:39:50
+title: 'Bohemian Rhapsody [DVD] al 42.75 % de descuento'
+date: 2021-04-09 11:16:42
 image: 'https://m.media-amazon.com/images/I/41OacZGPopL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07JWVCQL2-es Bohemian Rhapsody [DVD]'
 sku: 'B07JWVCQL2-es'
 tags: [ 'DVD','Documental','Drama','Featured Categories','Musical','Películas','Películas y TV', ]
-actualPrice: 9.99 EUR
+actualPrice: 9.95 EUR
 currency: EUR
-price: 9.99
+price: 9.95
 comparePrice: 17.38 EUR
 prodname: 'Bohemian Rhapsody [DVD]'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWVCQL2/?tag=tolees-21'
-descuento: '42.52'
-average: '10.756403508772'
+descuento: '42.75'
+average: '10.7493913043479'
 ---
 
-Ahora mismo tienes [Bohemian Rhapsody [DVD]](https://www.amazon.es/dp/B07JWVCQL2/?tag=tolees-21) a 9.99 EUR (original: 17.38 EUR) (42.52 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Bohemian Rhapsody [DVD]](https://www.amazon.es/dp/B07JWVCQL2/?tag=tolees-21) a 9.95 EUR (original: 17.38 EUR) (42.75 %  de descuento) en el siguiente enlace!
 
 [![Bohemian Rhapsody [DVD]](https://m.media-amazon.com/images/I/41OacZGPopL._SL400_.jpg)](https://www.amazon.es/dp/B07JWVCQL2/?tag=tolees-21)
 

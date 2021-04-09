@@ -28,10 +28,10 @@ Tienes [PUMA Öfb Stadium Jersey Camiseta  Hombre  White-Chili Pepper  M](https:
 
 ℹ️:
 
-- Corte recto
-- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
-- Cuello redondo
-- Escudo de la ÖFB de Austria en la parte izquierda del pecho
 - Manga corta
+- Escudo de la ÖFB de Austria en la parte izquierda del pecho
+- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
+- Corte recto
+- Cuello redondo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XCX275K/?tag=tolees-21)

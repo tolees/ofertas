@@ -28,8 +28,8 @@ Tienes [DC Shoes Downing - Sudadera - Hombre - S](https://www.amazon.es/dp/B0895
 
 ℹ️:
 
-- Bordado en el pecho
 - __Corte: __Corte ceñido
+- Bordado en el pecho
 - __Tejido:__ Tejido polar cepillado de gramaje medio
 - Cinta de punto jersey de algodón en la parte trasera del cuello
 

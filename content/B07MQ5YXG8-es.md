@@ -28,8 +28,8 @@ En este momento está [Cerdá Bikini Minnie  Azul  Azul C03   10 para Niñas](ht
 
 🔎:
 
-- 85% Poliéster, 15% Elastano
 - Disponible en varias tallas
 - Solo lavado a mano
+- 85% Poliéster, 15% Elastano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MQ5YXG8/?tag=tolees-21)

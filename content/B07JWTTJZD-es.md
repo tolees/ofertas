@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Bohemian Rhapsody Blu-Ray [Blu-ray] al 35.48 % de descuento'
-date: 2021-04-04 16:27:49
+title: 'Bohemian Rhapsody Blu-Ray [Blu-ray] al 36.51 % de descuento'
+date: 2021-04-09 11:15:10
 image: 'https://m.media-amazon.com/images/I/417j5pZJXpL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07JWTTJZD-es Bohemian Rhapsody Blu-Ray [Blu-ray]'
 sku: 'B07JWTTJZD-es'
 tags: [ 'Blu-ray','Documental','Drama','Featured Categories','Musical','Películas','Películas y TV', ]
-actualPrice: 13.2 EUR
+actualPrice: 12.99 EUR
 currency: EUR
-price: 13.2
+price: 12.99
 comparePrice: 20.46 EUR
 prodname: 'Bohemian Rhapsody Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWTTJZD/?tag=tolees-21'
-descuento: '35.48'
-average: '14.8666666666665'
+descuento: '36.51'
+average: '14.8445522388058'
 ---
 
-Ahora mismo tienes [Bohemian Rhapsody Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07JWTTJZD/?tag=tolees-21) a 13.2 EUR (original: 20.46 EUR) (35.48 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Bohemian Rhapsody Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07JWTTJZD/?tag=tolees-21) a 12.99 EUR (original: 20.46 EUR) (36.51 %  de descuento) en el siguiente enlace!
 
 [![Bohemian Rhapsody Blu-Ray [Blu-ray]](https://m.media-amazon.com/images/I/417j5pZJXpL._SL400_.jpg)](https://www.amazon.es/dp/B07JWTTJZD/?tag=tolees-21)
 

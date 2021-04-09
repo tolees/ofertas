@@ -28,8 +28,8 @@ Está [Funko Pop! - Daniels Figura de Vinilo  seria Alien Covenant  13096 ](http
 
 ℹ️:
 
-- Funko POP
 - Alien Covenant
+- Funko POP
 - Daniels
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071RNKJPP/?tag=tolees-21)
