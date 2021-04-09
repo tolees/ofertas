@@ -1,35 +1,35 @@
 ---
 layout: post
-title: 'PUMA Basket Heart Patent Wn S  Zapatilla con un 36.09 % de descuento'
-date: 2021-04-06 09:35:24
+title: 'Puma - Basket Heart Patent Wn s  Zapatil con un 41.09 % de descuento'
+date: 2021-04-09 05:07:23
 image: 'https://m.media-amazon.com/images/I/31SvNumr6TL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01N0JIVT3-es PUMA Basket Heart Patent Wn S Zapatillas Mujer Blanco...'
+slug: 'B01N0JIVT3-es Puma - Basket Heart Patent Wn s Zapatillas Mujer Blanco...'
 sku: 'B01N0JIVT3-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','puma', ]
-actualPrice: 57.49 EUR
+actualPrice: 52.99 EUR
 currency: EUR
-price: 57.49
+price: 52.99
 comparePrice: 89.95 EUR
-prodname: 'PUMA Basket Heart Patent Wn S  Zapatillas Mujer  Blanco White White  38.5 EU'
+prodname: 'Puma - Basket Heart Patent Wn s  Zapatillas Mujer  Blanco  Puma White-Puma White 02   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B01N0JIVT3/?tag=tolees-21'
-descuento: '36.09'
-average: '46.8875'
+descuento: '41.09'
+average: '47.1316'
 ---
 
-En este momento está [PUMA Basket Heart Patent Wn S  Zapatillas Mujer  Blanco White White  38.5 EU](https://www.amazon.es/dp/B01N0JIVT3/?tag=tolees-21) a 57.49 EUR (original: 89.95 EUR) (36.09 %  de descuento) en el siguiente enlace!
+En este momento está [Puma - Basket Heart Patent Wn s  Zapatillas Mujer  Blanco  Puma White-Puma White 02   38.5 EU](https://www.amazon.es/dp/B01N0JIVT3/?tag=tolees-21) a 52.99 EUR (original: 89.95 EUR) (41.09 %  de descuento) en el siguiente enlace!
 
-[![PUMA Basket Heart Patent Wn S  Zapatilla](https://m.media-amazon.com/images/I/31SvNumr6TL._SL400_.jpg)](https://www.amazon.es/dp/B01N0JIVT3/?tag=tolees-21)
+[![Puma - Basket Heart Patent Wn s  Zapatil](https://m.media-amazon.com/images/I/31SvNumr6TL._SL400_.jpg)](https://www.amazon.es/dp/B01N0JIVT3/?tag=tolees-21)
 
 🔎:
 
-- Cierre: cordones
 - Material exterior: sintético
+- Cierre: cordones
 - Tipo de tacón: plano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N0JIVT3/?tag=tolees-21)

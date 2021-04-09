@@ -1,31 +1,37 @@
 ---
 layout: post
-title: 'Eastpak Padded Pak r Mochila  40 cm  24  al 26.02 % de descuento'
-date: 2020-09-20 12:05:19
-image: 'https://m.media-amazon.com/images/I/415VujhAwYL._SL400_.jpg'
+title: 'Eastpak Padded Pak R Mochila  40 Cm  24  al 53.16 % de descuento'
+date: 2021-04-09 05:13:25
+image: 'https://m.media-amazon.com/images/I/41FPyRbYGYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00MGON1SG-es Eastpak Padded Pak r Mochila 40 cm 24 L Gris Black Denim'
+slug: 'B00MGON1SG-es Eastpak Padded Pak R Mochila 40 Cm 24 L Gris Black Denim'
 sku: 'B00MGON1SG-es'
-actualPrice: 36.99 EUR
+tags: [ 'Equipaje','Mochilas','Mochilas tipo casual','eastpak', ]
+actualPrice: 23.42 EUR
 currency: EUR
-price: 36.99
+price: 23.42
 comparePrice: 50.0 EUR
-prodname: 'Eastpak Padded Pak r Mochila  40 cm  24 L  Gris  Black Denim '
+prodname: 'Eastpak Padded Pak R Mochila  40 Cm  24 L  Gris  Black Denim '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'EASTPAK'
 buyurl: 'https://www.amazon.es/dp/B00MGON1SG/?tag=tolees-21'
-descuento: '26.02'
-average: '30.674444444444447'
+descuento: '53.16'
+average: '30.4081818181818'
 ---
 
-Está [Eastpak Padded Pak r Mochila  40 cm  24 L  Gris  Black Denim ](https://www.amazon.es/dp/B00MGON1SG/?tag=tolees-21) con 26.02 de descuento por 36.99 EUR (original: 50.0 EUR) en el siguiente enlace!
+Está [Eastpak Padded Pak R Mochila  40 Cm  24 L  Gris  Black Denim ](https://www.amazon.es/dp/B00MGON1SG/?tag=tolees-21) con 53.16 de descuento por 23.42 EUR (original: 50.0 EUR) en el siguiente enlace!
 
-[![Eastpak Padded Pak r Mochila  40 cm  24 ](https://m.media-amazon.com/images/I/415VujhAwYL._SL400_.jpg)](https://www.amazon.es/dp/B00MGON1SG/?tag=tolees-21)
+[![Eastpak Padded Pak R Mochila  40 Cm  24 ](https://m.media-amazon.com/images/I/41FPyRbYGYL._SL400_.jpg)](https://www.amazon.es/dp/B00MGON1SG/?tag=tolees-21)
 
 ℹ️:
 
+- Compartimento principal espacioso con bolsillo delantero con cremallera
+- Equipada con un panel acolchado en la parte trasera y correas para los hombros que se pueden ajustar para comodidad
+- Espacioso compartimento principal con nuestro emblemático bolsillo delantero
+- Fabricada con 60 % nylon y 40 % poliéster
+- Correas acolchadas ajustables para hombros y panel trasero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00MGON1SG/?tag=tolees-21)
