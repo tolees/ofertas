@@ -29,7 +29,7 @@ Tienes [Telwin TE-823015 TE-823015-Equipo de Soldadura Modular 20 TI 230V](https
 🔎:
 
 - Net peso: 10 kg
-- 440 x 100 x 185 mm
 - Caja de 1
+- 440 x 100 x 185 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B002RBKA4G/?tag=tolees-21)

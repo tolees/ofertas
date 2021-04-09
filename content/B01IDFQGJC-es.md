@@ -28,8 +28,8 @@ Está [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Vapo
 
 ℹ️:
 
-- Corte regular
-- Suela de goma
 - Cordones de zapatos
+- Suela de goma
+- Corte regular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IDFQGJC/?tag=tolees-21)

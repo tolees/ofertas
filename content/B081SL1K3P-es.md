@@ -29,7 +29,7 @@ En este momento está [adidas CON20 Camiseta Polo  Hombre  Team Navy Blue/White 
 🔎:
 
 - Regular fit
-- Climalite anti-humidity fabric
 - Two-button flap
+- Climalite anti-humidity fabric
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081SL1K3P/?tag=tolees-21)
