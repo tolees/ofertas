@@ -28,8 +28,8 @@ Está [Casio Reloj de Pulsera MTP-1314PL-7AVEF](https://www.amazon.es/dp/B00JOB7
 
 ℹ️:
 
-- Resistente al agua hasta 5 bar / 50 metros
 - Caja de acero, correa de cuero auténtico con hebilla en acero
+- Resistente al agua hasta 5 bar / 50 metros
 - Las agujas y/o el índice están cubiertos por una capa fluorescente
 - La duración de la batería es de 3 años
 - Funciones de movimiento de cuarzo, analógico, calendario, agujas luminiscentes

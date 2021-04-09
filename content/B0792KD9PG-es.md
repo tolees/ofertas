@@ -28,7 +28,7 @@ Tienes [Diesel UMBX-DAMIENTHREEPACK  Calzoncillo para Hombre  Multicolor  Dark G
 
 🔎:
 
-- Muy cómodo de llevar.
 - De la marca Diesel.
+- Muy cómodo de llevar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0792KD9PG/?tag=tolees-21)

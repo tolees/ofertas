@@ -28,7 +28,7 @@ Ahora mismo tienes [Only ONLGEENA XO L/S Pullover KNT Noos suéter  Rojo  Tawny 
 
 🔎:
 
-- Basic Pullover with o-neck
 - Special knit e of tape-yarn
+- Basic Pullover with o-neck
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S7QV7PB/?tag=tolees-21)

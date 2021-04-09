@@ -29,8 +29,8 @@ En este momento está [Levi s Levis 168ndl Low Cut Sprtwr Logo 2p Calcetines  Ne
 🔎:
 
 - Talón y puntera reforzados para mayor durabilidad
-- Detalle con el logo de Levis
-- Algodón suave
 - El diseño tobillero equivale a la caña baja
+- Algodón suave
+- Detalle con el logo de Levis
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VP5WR3Y/?tag=tolees-21)
