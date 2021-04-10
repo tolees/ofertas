@@ -28,9 +28,9 @@ Está [Seiko Reloj Analógico Energía Solar para Hombre con Correa de Acero Ino
 
 ℹ️:
 
-- Casual
 - Analógico en Acero inoxidable para Hombre
 - Negro y Metálico
+- Casual
 - WR 100mt
 - Solar
 

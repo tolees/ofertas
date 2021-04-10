@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Assassin S Creed 4: Blac al 50.23 % de descuento'
-date: 2021-04-09 14:24:14
+date: 2021-04-10 15:09:21
 image: 'https://m.media-amazon.com/images/I/51qwrLsHieL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B07F9GQ7HQ/?tag=tolees-21'
 descuento: '50.23'
-average: '12.7032'
+average: '12.5973076923077'
 ---
 
 Ahora mismo tienes [Ubisoft Spain - Assassin S Creed 4: Black Flag](https://www.amazon.es/dp/B07F9GQ7HQ/?tag=tolees-21) a 9.95 EUR (original: 19.99 EUR) (50.23 %  de descuento) en el siguiente enlace!
