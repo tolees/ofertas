@@ -28,9 +28,9 @@ Ahora mismo tienes [L Oreal Paris Colorista - L Oréal Paris Colorista Coloraci�
 
 🔎:
 
+- Spray de color de un día de duración
 - Se va con 1/2 lavados
 - Visible en todos los cabellos
 - Color instantáneo. Secado rápido
-- Spray de color de un día de duración
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MXL39I7/?tag=tolees-21)

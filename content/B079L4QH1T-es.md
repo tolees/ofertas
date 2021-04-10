@@ -28,10 +28,10 @@ Está [Rimmel London Match Perfection Concelear Corrector](https://www.amazon.es
 
 ℹ️:
 
-- Indicado para todo tipo de pieles
 - Gracias a la tecnología Smart-Tone se adapta al tono de tu piel permitiendo ocultar signos de fatiga y ojeras
-- Cobertura media modulable; fácil de desmaquillar
+- Indicado para todo tipo de pieles
 - Con un aplicador suave en forma de pincel blando para una mayor precisión
+- Cobertura media modulable; fácil de desmaquillar
 - Corrector e iluminador 2 en 1 efecto anti-fatiga
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079L4QH1T/?tag=tolees-21)
