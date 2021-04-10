@@ -28,10 +28,10 @@ Tienes [Disney Traditions  Figura de Pinocho en la ballena  para coleccionar  En
 
 🔎:
 
-- Hecho y pintado a mano.
-- Diseñado por Jim Shore.
 - Caja de regalo de la marca.
-- Figura de Disney Traditions.
 - Patrones inspirados en arte popular con colores llamativos.
+- Diseñado por Jim Shore.
+- Figura de Disney Traditions.
+- Hecho y pintado a mano.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SZ2Q4TD/?tag=tolees-21)

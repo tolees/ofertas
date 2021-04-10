@@ -28,11 +28,11 @@ Tienes [ASUS ROG Zephyrus M15 GU502LW-HN070T - Ordenador Portátil Gaming de 15.
 
 🔎:
 
-- Pantalla de 15.6" FullHD 144 Hz (1920x1080)
-- Windows 10 Home
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe 3
 - Memoria RAM de 16GB (8GB + 8GB [EN PLACA]) DDR4 2933MHz
 - Tarjeta gráfica RTX2070 Super 8GB con Diseño Max-Q GDDR6 VRAM
 - Procesador Intel Core i7-10750H (6 Núcleos, 12 Subprocesos, Caché: 12MB SmartCache, 2.60GHz hasta 5.00GHz, 64-bit)
+- Windows 10 Home
+- Pantalla de 15.6" FullHD 144 Hz (1920x1080)
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe 3
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089BNVZCF/?tag=tolees-21)

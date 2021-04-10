@@ -28,10 +28,10 @@ Está [Disney Traditions  Figura de Stitch de "Lilo y Stitch"  para coleccionar 
 
 ℹ️:
 
+- Arte popular inspirado con colores vivos
+- Altura: 36.0 cm
 - Está destinada para adultos, no es un juguete
 - Diseñada por Jim Shore
 - Figurilla decorativa de la colección Disney Traditions
-- Altura: 36.0 cm
-- Arte popular inspirado con colores vivos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078WV1RFT/?tag=tolees-21)
