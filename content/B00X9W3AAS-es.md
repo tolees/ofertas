@@ -29,9 +29,9 @@ En este momento está [L Oreal Paris - L Oréal Paris Excellence Coloración Cr�
 🔎:
 
 - Color rico y radiante
-- Cuida, protege y nutre el cabello
-- En solo 3 pasos consigue un color rico y duradero
 - Excellence Creme Triple Cuidado asegura un 100% de cobertura de canas cuidando tu cabello en cada etapa de la coloracion
+- En solo 3 pasos consigue un color rico y duradero
 - 100% cobertura de canas
+- Cuida, protege y nutre el cabello
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00X9W3AAS/?tag=tolees-21)
