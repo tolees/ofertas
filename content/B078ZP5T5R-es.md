@@ -28,10 +28,10 @@ Tienes [TY- Wasabi  Pavian 15cm Peluche babuino  United Labels Ibérica 36895TY 
 
 ℹ️:
 
-- Producto original de la marca Ty
-- Grandes y preciosos ojos brillantes
-- Material suave y de alta calidad
-- Tamaño 15 cm
 - Cada modelo tiene su nombre propio y su fecha de cumpleaños en la etiqueta
+- Grandes y preciosos ojos brillantes
+- Tamaño 15 cm
+- Producto original de la marca Ty
+- Material suave y de alta calidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B078ZP5T5R/?tag=tolees-21)
