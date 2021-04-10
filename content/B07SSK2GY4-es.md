@@ -28,10 +28,10 @@ Tienes [Geox D Myria C  Zapatillas Mujer  Blanco  White/Off White C1352   41 EU]
 
 🔎:
 
-- Revestimiento: Malla
-- Material exterior: Cuero
-- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Tipo de tacón: Plano
 - Cierre: Cremallera
+- Material exterior: Cuero
+- Revestimiento: Malla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SSK2GY4/?tag=tolees-21)
