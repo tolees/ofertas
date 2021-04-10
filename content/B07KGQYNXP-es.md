@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Helly Hansen KOS - Polo  Hombre  Azul  N al 46.17 % de descuento'
-date: 2020-03-03 05:28:08
-image: 'https://m.media-amazon.com/images/I/31Nkp4SJOAL._AC_._SL400_.jpg'
+title: 'Helly Hansen KOS - Polo  Hombre  Azul  N al 39.69 % de descuento'
+date: 2021-04-10 20:02:23
+image: 'https://m.media-amazon.com/images/I/31XKAfp5pCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07KGQYNXP-es Helly Hansen KOS - Polo Hombre Azul Navy 597 L'
 sku: 'B07KGQYNXP-es'
-tags: [  ]
-actualPrice: 34.99 EUR
+tags: [ 'Camisetas, polos y camisas para hombre','Deportes y aire libre','Golf','Polos de golf para hombre','Polos para hombre','Ropa','Ropa de golf','Ropa de golf para hombre','Ropa para hombre','Ropa y equipo para deportes','helly hansen', ]
+actualPrice: 39.2 EUR
 currency: EUR
-price: 34.99
+price: 39.2
 comparePrice: 65.0 EUR
 prodname: 'Helly Hansen KOS - Polo  Hombre  Azul  Navy 597  L'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Helly Hansen'
 buyurl: 'https://www.amazon.es/dp/B07KGQYNXP/?tag=tolees-21'
-descuento: '46.17'
-average: '34.99'
+descuento: '39.69'
+average: '36.3933333333333'
 ---
 
-Ahora mismo tienes [Helly Hansen KOS - Polo  Hombre  Azul  Navy 597  L](https://www.amazon.es/dp/B07KGQYNXP/?tag=tolees-21) a 34.99 EUR (original: 65.0 EUR) (46.17 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Helly Hansen KOS - Polo  Hombre  Azul  Navy 597  L](https://www.amazon.es/dp/B07KGQYNXP/?tag=tolees-21) a 39.2 EUR (original: 65.0 EUR) (39.69 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen KOS - Polo  Hombre  Azul  N](https://m.media-amazon.com/images/I/31Nkp4SJOAL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KGQYNXP/?tag=tolees-21)
+[![Helly Hansen KOS - Polo  Hombre  Azul  N](https://m.media-amazon.com/images/I/31XKAfp5pCL._SL400_.jpg)](https://www.amazon.es/dp/B07KGQYNXP/?tag=tolees-21)
 
 🔎:
 
+- Tapete delantera con botones
+- Puños de canalé con rayas en otro color
+- Aberturas laterales
+- Tejido de secado rápido
+- Cuello de canalé con raya en otro color
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KGQYNXP/?tag=tolees-21)
