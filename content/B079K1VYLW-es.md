@@ -28,8 +28,8 @@ Está [NIKE M NK Dry Acdmy18 Top SS T-Shirt  Hombre  Tour Yellow/Anthracite/Blac
 
 ℹ️:
 
-- Nike Dry fabric
 - Regular fit
+- Nike Dry fabric
 - Ribbed crew neck
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079K1VYLW/?tag=tolees-21)

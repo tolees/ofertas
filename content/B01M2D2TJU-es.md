@@ -28,10 +28,10 @@ Ahora mismo tienes [ELEGOO Actualizado 37-en-1 Kit de Módulos de Sensores con T
 
 🔎:
 
-- Actualizado a partir de la versión anterior (otros): Recibimos grandes ideas de nuestros clientes y se adoptó en este kit actualizado.
-- Se ha eliminado el vaso de luz y el módulo de mercurio que están prohibidos en Europa. (37 kits de sensores de otros vendedores tienen mercurio, preste atención.)
 - 100% compatible con Arduino, Raspberry Pi y STM32.
-- Tutorial actualizado sólo para UNO R3, MEGA 2560 R3, NANO en CD, lista de papel, resistores pack sólo del Equipo Elegoo. Hay tutoriales en el CD que viene con. También puede descargar los mismos tutoriales en línea en el siguiente enlace: http://bit.ly/2jKlJMO
 - Eliminados módulos inútiles como el sensor de latido, dos de los sensores de pasillo, uno de los dos sensores de color. Agregado módulos útiles como el módulo del acelerómetro GY-521, la pantalla LCD1602, el módulo del reloj en tiempo real DS3231 etc.
+- Actualizado a partir de la versión anterior (otros): Recibimos grandes ideas de nuestros clientes y se adoptó en este kit actualizado.
+- Tutorial actualizado sólo para UNO R3, MEGA 2560 R3, NANO en CD, lista de papel, resistores pack sólo del Equipo Elegoo. Hay tutoriales en el CD que viene con. También puede descargar los mismos tutoriales en línea en el siguiente enlace: http://bit.ly/2jKlJMO
+- Se ha eliminado el vaso de luz y el módulo de mercurio que están prohibidos en Europa. (37 kits de sensores de otros vendedores tienen mercurio, preste atención.)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M2D2TJU/?tag=tolees-21)
