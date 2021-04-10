@@ -28,10 +28,10 @@ Tienes [Bourjois Healthy Mix Powder Polvos Tono 04 Hâlé clair/ Light bronze - 
 
 ℹ️:
 
-- Con una fragancia fresca y afrutada
-- Fórmula suave que no reseca la piel
-- Incluye un espejo y una esponja para hacer retoques en cualquier lugar
-- Fórmula enriquecida por las vitaminas A, C y B5 que proporcionan luminosidad y frescura a la piel
 - Polvos antifatiga que proporcionan una tez mate con tono uniforme que revelan la luminosidad de la piel
+- Con una fragancia fresca y afrutada
+- Incluye un espejo y una esponja para hacer retoques en cualquier lugar
+- Fórmula suave que no reseca la piel
+- Fórmula enriquecida por las vitaminas A, C y B5 que proporcionan luminosidad y frescura a la piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B077MGTXX5/?tag=tolees-21)

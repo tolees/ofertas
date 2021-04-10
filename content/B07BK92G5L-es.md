@@ -28,9 +28,9 @@ Tienes [CYP BRANDS - Gorjuss CK-01A-G Set Regalo Muñeca y Despertador You Broug
 
 ℹ️:
 
-- Producto Oficial Gorjuss
-- Con luz para poder ver la hora a oscuras
 - Set de regalo de muñeca de trapo y reloj despertador
 - Con luz para poder ver la hora a oscuras
+- Con luz para poder ver la hora a oscuras
+- Producto Oficial Gorjuss
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BK92G5L/?tag=tolees-21)

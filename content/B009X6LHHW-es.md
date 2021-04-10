@@ -28,8 +28,8 @@ Está [BLACK+DECKER MTJS1 - Accesorio de sierra para herramienta Multievo  4.5 c
 
 ℹ️:
 
-- Velocidad en vacío :0-2700 SPM
 - Accesorios: 5 cuchillas
+- Velocidad en vacío :0-2700 SPM
 - Profundidad de corte (madera / aluminio / acero) : 45/10/5 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B009X6LHHW/?tag=tolees-21)
