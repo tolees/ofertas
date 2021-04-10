@@ -28,8 +28,8 @@ Tienes [Salewa Denali III Tienda Domo de Doble Pared para 3 Personas  Cactus/Gri
 
 🔎:
 
+- Diferentes opciones de abertura de puertas
 - Fundas
 - Construcción autoportante
-- Diferentes opciones de abertura de puertas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N6T4MWN/?tag=tolees-21)

@@ -28,14 +28,14 @@ Ahora mismo tienes [Geox D Jaysen A  Zapatillas Mujer  Blanco  White   37 EU](ht
 
 🔎:
 
-- Tipo de tacón: Plano
 - Tipo de talla: Los zapatos Geox son holgados
-- Revestimiento: Malla
-- Altura del tacón: 3 centímetros
-- Composición: Cuero
-- Material exterior: Cuero
-- Cierre: Cordones
-- Anchura del zapato: Normal
 - Material de la suela: Sintético
+- Altura del tacón: 3 centímetros
+- Tipo de tacón: Plano
+- Cierre: Cordones
+- Material exterior: Cuero
+- Composición: Cuero
+- Revestimiento: Malla
+- Anchura del zapato: Normal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MA22IIW/?tag=tolees-21)

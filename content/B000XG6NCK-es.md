@@ -28,10 +28,10 @@ Está [WMF Diadem Plus Cacerola  Acero Inoxidable Pulido  24 cm](https://www.ama
 
 ℹ️:
 
-- Borde de vertido especial para no derramar ni salpicar
 - Diseñado y fabricado en Alemania
-- Apto para lavavajillas
-- Base patentada universal TransTherm apta para inducción
 - Cromargan acero inoxidable pulido
+- Apto para lavavajillas
+- Borde de vertido especial para no derramar ni salpicar
+- Base patentada universal TransTherm apta para inducción
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000XG6NCK/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [Hot Wheels - Track Builder  Caja Multiloopings  accesorios para pistas  
 🔎:
 
 - Regalo óptimo para niñas y niños de más de 6 años
+- La diversión acrobática se amplía conectando la pista a la tapa
 - Ofrece infinidad de posibilidades para montar circuitos estimula la capacidad de razonamiento y anima a los niños a experimentar
 - Dentro del contenedor hay 3 metros de pista, conectores, un lanzador y un coche hot wheels
-- La diversión acrobática se amplía conectando la pista a la tapa
 - Pista de coche de juguete para hacer acrobacias con más de 3 metros de pista
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074RPD49S/?tag=tolees-21)
