@@ -28,10 +28,10 @@ Ahora mismo tienes [Helly Hansen KOS - Polo  Hombre  Azul  Navy 597  L](https://
 
 🔎:
 
-- Tapete delantera con botones
 - Puños de canalé con rayas en otro color
-- Aberturas laterales
 - Tejido de secado rápido
+- Aberturas laterales
 - Cuello de canalé con raya en otro color
+- Tapete delantera con botones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KGQYNXP/?tag=tolees-21)

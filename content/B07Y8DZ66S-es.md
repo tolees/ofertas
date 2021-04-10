@@ -28,10 +28,10 @@ Está [GIOSEPPO Bikaner  Zapatillas Mujer  Multicolor  37 EU](https://www.amazon
 
 ℹ️:
 
-- Cuña interna 3cm
-- Temporada Primavera Verano 2020
 - Cordones con estampados cebra
-- Combinan piel con distintos animal print
 - Sneakers Gioseppo para mujer
+- Cuña interna 3cm
+- Combinan piel con distintos animal print
+- Temporada Primavera Verano 2020
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Y8DZ66S/?tag=tolees-21)

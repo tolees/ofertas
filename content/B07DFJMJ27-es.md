@@ -28,10 +28,10 @@ Ahora mismo tienes [Crocs Literide Clog  Obstrucción Mujer  Negro  Black/Smoke 
 
 🔎:
 
-- Revestimiento: Sin forro
-- Material de la suela: Sintético
 - Composición: croslite EVA
 - Cierre: Sin cordones
+- Revestimiento: Sin forro
+- Material de la suela: Sintético
 - Material exterior: Caucho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DFJMJ27/?tag=tolees-21)
