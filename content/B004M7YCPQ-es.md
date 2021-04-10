@@ -28,11 +28,11 @@ Ahora mismo tienes [Bosch Professional - BOSCH 0601220100 - Amoladora recta GGS 
 
 🔎:
 
+- Incluye: Amoladora recta GGS 28 CE, 650 W, 2 llaves de boca, pinza de sujección 6 mm
 - Potente motor de 650 Vatios con limitación de la corriente de arranque para un gran avance en el trabajo
 - Embrague electrónico KickBack Stop: si detecta un bloqueo, desconecta la máquina de inmediato
 - Mantenimiento escaso gracias a escobillas mejoradas
-- Incluye: Amoladora recta GGS 28 CE, 650 W, 2 llaves de boca, pinza de sujección 6 mm
-- Electrónica Constante, para un número de revoluciones constante incluso bajo carga
 - Diseño compacto y ergonómico para todo tipo de trabajos de lijado
+- Electrónica Constante, para un número de revoluciones constante incluso bajo carga
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004M7YCPQ/?tag=tolees-21)

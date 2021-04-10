@@ -28,10 +28,10 @@ En este momento está [GIOSEPPO Bastogne  Zapatillas para Mujer  Blanco  36 EU](
 
 🔎:
 
-- Temporada Primavera Verano 2020
 - Sneakers Gioseppo para mujer
 - Mix texturas en colores neutros
-- Cierre cordoneras al tono
 - Cuña interna 3cm
+- Temporada Primavera Verano 2020
+- Cierre cordoneras al tono
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y8FZ3V3/?tag=tolees-21)
