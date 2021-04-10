@@ -28,10 +28,10 @@ En este momento está [Funko - Pop! Figura de Vinilo: Animación: Rick & Morty S
 
 🔎:
 
-- Funko pop! vinyl
+- Rick & morty squanchy
 - Rick & morty
+- Funko pop! vinyl
 - De la colección rick & morty, squanchy (squanched out) como figura de vinilo pop de funko
 - Descúbre otras figuras de la colección rick & morty y colecciónalas todas!
-- Rick & morty squanchy
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NSS4Z38/?tag=tolees-21)

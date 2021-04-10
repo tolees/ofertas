@@ -28,10 +28,10 @@ Ahora mismo tienes [AmmToo - Luz Nocturna con Sensor Movimiento   [4 unidades] P
 
 🔎:
 
-- <p>❤ 【Sensor de movimiento PIR】 Sensor de movimiento sensible de alta calidad integrado y detector de luz, cuando los sensores de luz miden la oscuridad, los sensores de movimiento se encienden para proporcionarle la luz en el momento adecuado. Después de aproximadamente 15-20 segundos, la lámpara se apaga automáticamente si no se registra más movimiento.</p>
-- <p>❤ 【Ahorro de energía y protección del medio ambiente】 Cada luz nocturna funciona con 3 pilas AAA. (Baterías no incluidas). Ahorro de energía gracias a la función de encendido / apagado automático, esperanza de vida de hasta 50.000 horas</p>
-- <p>❤【Fácil instalación】 Con la cinta adhesiva de doble cara suministrada. No se requieren tornillos, tuercas ni herramientas. Puede pegarlo en cualquier superficie lisa o absorberlo fácilmente en cualquier superficie metálica</p>
 - <p>❤ 【Luz blanca cálida y multiusos】 Acepta una fotocélula / sensor de luz LED. Estas luces nocturnas se encienden automáticamente al anochecer y por la noche. Si la luz ambiental es insuficiente, se apagan automáticamente al amanecer o los alrededores se iluminan. A partir de ahora no volverá a tropezar en la oscuridad y, sobre todo, garantizará la seguridad de sus niños y ancianos.</p>
 - <p>❤ 【Diseño liviano y portátil】 La forma delgada y el tamaño compacto son perfectos para decorar su hogar, adecuados para usar en armario, escaleras, armario, cocina, habitación, baño, pasillo, cabecera, etc.</p>
+- <p>❤【Fácil instalación】 Con la cinta adhesiva de doble cara suministrada. No se requieren tornillos, tuercas ni herramientas. Puede pegarlo en cualquier superficie lisa o absorberlo fácilmente en cualquier superficie metálica</p>
+- <p>❤ 【Ahorro de energía y protección del medio ambiente】 Cada luz nocturna funciona con 3 pilas AAA. (Baterías no incluidas). Ahorro de energía gracias a la función de encendido / apagado automático, esperanza de vida de hasta 50.000 horas</p>
+- <p>❤ 【Sensor de movimiento PIR】 Sensor de movimiento sensible de alta calidad integrado y detector de luz, cuando los sensores de luz miden la oscuridad, los sensores de movimiento se encienden para proporcionarle la luz en el momento adecuado. Después de aproximadamente 15-20 segundos, la lámpara se apaga automáticamente si no se registra más movimiento.</p>
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08RXMKT2Z/?tag=tolees-21)

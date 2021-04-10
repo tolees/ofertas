@@ -29,7 +29,7 @@ Está [Funko Vinyl: Rick & Morty: Birdperson  Multicolor  12443 ](https://www.am
 ℹ️:
 
 - Funko POP
-- Rick & Morty
 - Birdperson
+- Rick & Morty
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MUADPSM/?tag=tolees-21)

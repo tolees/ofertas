@@ -28,9 +28,9 @@ En este momento está [Geox U Nebula A  Zapatillas para Hombre  Negro  Black C99
 
 🔎:
 
-- Perforierte Sohle mit einer inneren Membran – ist atmungsaktiv & wasserundurchlässig
-- 3D Performance Unit garantiert Flexibilität, Stabilität, Bequemlichkeit und Griffigkeit
 - Hochwertiges Leder ist strapazierfähig und langlebig
+- 3D Performance Unit garantiert Flexibilität, Stabilität, Bequemlichkeit und Griffigkeit
+- Perforierte Sohle mit einer inneren Membran – ist atmungsaktiv & wasserundurchlässig
 - Mesh Material sorgt für Atmungsaktivität
 - Gepolsterter Einstieg für ein komfortables An- und Ausziehen
 
