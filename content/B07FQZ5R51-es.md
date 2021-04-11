@@ -28,9 +28,9 @@ Está [Clarks Arla Jacory  Sandalias de Talón Abierto Mujer  Verde  Olive-   41
 
 ℹ️:
 
-- Cierre: cierre de velcro
-- Suela: TPR
-- Material exterior: textil
 - Material interior: forro textil
+- Cierre: cierre de velcro
+- Material exterior: textil
+- Suela: TPR
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FQZ5R51/?tag=tolees-21)

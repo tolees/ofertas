@@ -28,8 +28,8 @@ Tienes [M3 MEDIATRES ESTUDIO - Pack Kenshin  2+3  [DVD]](https://www.amazon.es/d
 
 🔎:
 
-- *EXTRAS* Libreto Exclusivo con textos escritos por Mike Hostench (Sub-director del Festival de Sitges)
-- *EXTRAS* DISCO 1 KENSHIN, EL GUERRERO SAMURÁI 2: INFIERNO EN KIOTO y KENSHIN
 - *EXTRAS* DISCO 2 EL GUERRERO SAMURÁI 3: EL FIN DE LA LEYENDA
+- *EXTRAS* DISCO 1 KENSHIN, EL GUERRERO SAMURÁI 2: INFIERNO EN KIOTO y KENSHIN
+- *EXTRAS* Libreto Exclusivo con textos escritos por Mike Hostench (Sub-director del Festival de Sitges)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014VZALPI/?tag=tolees-21)
