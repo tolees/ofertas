@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bourjois 1 Seconde - Sombra de ojos  003 al 70.00 % de descuento'
-date: 2021-04-10 09:13:25
+date: 2021-04-11 12:38:26
 image: 'https://m.media-amazon.com/images/I/516XCZZ5tDL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bourjois'
 buyurl: 'https://www.amazon.es/dp/B07P43V1CM/?tag=tolees-21'
 descuento: '70.00'
-average: '6.3'
+average: '5.925'
 ---
 
 Está [Bourjois 1 Seconde - Sombra de ojos  003 Belle Plum  Morados  3g](https://www.amazon.es/dp/B07P43V1CM/?tag=tolees-21) con 70.00 de descuento por 4.8 EUR (original: 16.0 EUR) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [Bourjois 1 Seconde - Sombra de ojos  003 Belle Plum  Morados  3g](https:/
 ℹ️:
 
 - Aplica una base de sombras antes para un acabado más definido
-- Tecnología innovadora con pack compacto ideal para un smoky on the go
 - Aplicador de esponja en forma de ojo para una fácil aplicación
 - Efecto smoky eye con cobertura modulable en un instante
+- Tecnología innovadora con pack compacto ideal para un smoky on the go
 - Fórmula satinada ultra suave e intensa de larga duración
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P43V1CM/?tag=tolees-21)
