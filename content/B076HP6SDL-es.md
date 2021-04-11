@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'adidas CORE18 SW Top Sudadera  Hombre  N al 40.06 % de descuento'
-date: 2021-02-25 12:08:51
+date: 2021-04-11 00:36:18
 image: 'https://m.media-amazon.com/images/I/51pUGISh5iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HP6SDL-es adidas CORE18 SW Top Sudadera Hombre Negro Negro/Blanco L'
 sku: 'B076HP6SDL-es'
+tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas', ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HP6SDL/?tag=tolees-21'
 descuento: '40.06'
-average: '25.338'
+average: '25.2136363636364'
 ---
 
 Está [adidas CORE18 SW Top Sudadera  Hombre  Negro  Negro/Blanco   L](https://www.amazon.es/dp/B076HP6SDL/?tag=tolees-21) con 40.06 de descuento por 23.97 EUR (original: 39.99 EUR) en el siguiente enlace!

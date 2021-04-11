@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cosmos  Versión Extendida  [DVD] al 47.17 % de rebaja'
-date: 2021-04-09 23:16:40
+date: 2021-04-10 23:18:24
 image: 'https://m.media-amazon.com/images/I/51r+eOPvkNL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B003Z7SDF4/?tag=tolees-21'
 descuento: '47.17'
-average: '13.8614285714286'
+average: '14.19125'
 ---
 
 Tienes [Cosmos  Versión Extendida  [DVD]](https://www.amazon.es/dp/B003Z7SDF4/?tag=tolees-21) con precio final de  16.5 EUR (original: 31.23 EUR) (47.17 %  de rebaja) aqui!
