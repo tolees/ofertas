@@ -29,7 +29,7 @@ En este momento está [Superga 2750-cotmetu  Zapatillas de Gimnasia Unisex Adult
 🔎:
 
 - Forro: tela
-- Material exterior: satén
 - Material de la suela: goma
+- Material exterior: satén
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TVDXG28/?tag=tolees-21)
