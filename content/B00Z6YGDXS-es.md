@@ -28,8 +28,8 @@ Está [los Barriguitas Edificio Loco Loco  Famosa 700012396 ](https://www.amazon
 
 ℹ️:
 
-- Contiene 2 figuritas: mini muñeca y bebé
 - Gran edificio de los barriguitas
+- Contiene 2 figuritas: mini muñeca y bebé
 - Cuenta con tres plantas diferentes, un ático, un ascensor automático y gran cantidad de accesorios
 - Adecuado para niños no menores de 3 años
 
