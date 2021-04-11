@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Antaño Crianza - Vino Tinto D.O Rioja -  al 44.80 % de descuento'
-date: 2021-04-10 08:48:05
+date: 2021-04-11 19:47:24
 image: 'https://m.media-amazon.com/images/I/51ztQ9GvRZL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Antaño'
 buyurl: 'https://www.amazon.es/dp/B00M6OMP1K/?tag=tolees-21'
 descuento: '44.80'
-average: '18.8071111111111'
+average: '18.7582608695652'
 ---
 
 Está [Antaño Crianza - Vino Tinto D.O Rioja - Pack de 6 Botellas x 750 ml](https://www.amazon.es/dp/B00M6OMP1K/?tag=tolees-21) con 44.80 de descuento por 16.56 EUR (original: 30.0 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [Antaño Crianza - Vino Tinto D.O Rioja - Pack de 6 Botellas x 750 ml](htt
 
 ℹ️:
 
-- Aroma: Presenta un perfil aromático con toques frutales, de bayas rojas con perfumes de vainilla y especias.
-- Gusto: En boca es suave y sabroso con una textura tánica agradable. Se percibe un sabor a cacao picante, café tostado en grano y vainilla. Los sabores tostados perduran en el final.
 - Tipo de uva: Elaborado con una selección de uvas Tempranillo, Mazuelo, Graciano y Garnacha cuatro uvas autóctonas de la Rioja. Sigue un proceso de maduración de 12 meses en barricas de roble americano.
 - Maridaje: Este vino tinto se puede acompañar de carnes como el venado en salsa, riñones al vino tinto o empanada de atún, así como de quesos como el Manchego.
-- Apariencia: Vino tinto de color rubí intenso con capa media alta brillante.
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 16 ºC y conservarlo en un lugar fresco y seco.
+- Aroma: Presenta un perfil aromático con toques frutales, de bayas rojas con perfumes de vainilla y especias.
+- Apariencia: Vino tinto de color rubí intenso con capa media alta brillante.
+- Gusto: En boca es suave y sabroso con una textura tánica agradable. Se percibe un sabor a cacao picante, café tostado en grano y vainilla. Los sabores tostados perduran en el final.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00M6OMP1K/?tag=tolees-21)

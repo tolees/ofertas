@@ -28,9 +28,9 @@ Ahora mismo tienes [XIAOMI Auriculares Tipo C Blanco Audio HI-Res Y Conector Tip
 
 🔎:
 
-- Micrófono integrado y función manos libres
 - Audio de alta resolución Hi-Res
 - Controlador dinámico de cerámica inmersivo
 - Conector USB Tipo C reversible
+- Micrófono integrado y función manos libres
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MLRXJBC/?tag=tolees-21)
