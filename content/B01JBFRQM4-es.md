@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eduardo Manostijeras Blu-Ray [Blu-ray] al 39.88 % de rebaja'
-date: 2021-04-08 23:21:21
+date: 2021-04-11 16:36:18
 image: 'https://m.media-amazon.com/images/I/519q4xgH07L._SL400_.jpg'
 comments: true
 category: ofertas

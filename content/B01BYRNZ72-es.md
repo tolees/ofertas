@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games- Star Wars Imperial al 41.68 % de descuento'
-date: 2021-04-05 19:57:16
+date: 2021-04-11 16:10:18
 image: 'https://m.media-amazon.com/images/I/61iGxkhqDcL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fantasy Flight Games'
 buyurl: 'https://www.amazon.es/dp/B01BYRNZ72/?tag=tolees-21'
 descuento: '41.68'
-average: '23.1427777777778'
+average: '23.151052631579'
 ---
 
 Ahora mismo tienes [Fantasy Flight Games- Star Wars Imperial Assault  Sombras Gemelas  Color  Edge Entertainment EDGSWI10 ](https://www.amazon.es/dp/B01BYRNZ72/?tag=tolees-21) a 23.3 EUR (original: 39.95 EUR) (41.68 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [Fantasy Flight Games- Star Wars Imperial Assault  Sombras Ge
 🔎:
 
 - Las nuevas piezas de tablero muestran las sucias cantinas de Mos Eisley
+- Producto en castellano
 - La oscuridad se cierne sobre Tatooine
 - Sombras gemelas lleva tu experiencia de Imperial Assault al desolado planeta Tatooine
-- Producto en castellano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BYRNZ72/?tag=tolees-21)

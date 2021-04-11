@@ -28,10 +28,10 @@ En este momento está [HP OMEN X 35 - Monitor Gaming para PC Desktop G-sync + Al
 
 🔎:
 
+- Señal de entrada de vídeo: HDMI 1.4, DisplayPort 1.2
+- Tamaño de la pantalla: 35 pulgadas
 - Tipo de pantalla AMVA+ con retroiluminación LED
 - Resolución WQHD: 3440 x 1440 a 60 Hz, 3440 x 1440 a 50 Hz
 - Conectividad: 3 USB 3.0 (descendente) y 1 conector de auriculares
-- Señal de entrada de vídeo: HDMI 1.4, DisplayPort 1.2
-- Tamaño de la pantalla: 35 pulgadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06WW8XJHC/?tag=tolees-21)
