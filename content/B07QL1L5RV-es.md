@@ -29,8 +29,8 @@ Tienes [Vans SS20 Mochila Antigua SKOOL III OS Classic Camo](https://www.amazon.
 ℹ️:
 
 - Old Skool III Classic Camo
-- VN0A3I6R97I1
 - Vans
+- VN0A3I6R97I1
 - Mochila
 - Unisex
 

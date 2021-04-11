@@ -28,9 +28,9 @@ Ahora mismo tienes [Hurley W Tres Palms Fleece Zip](https://www.amazon.es/dp/B08
 
 🔎:
 
-- 60 % Algodón / 40 % Poliéster.
-- Corte Clásico.
-- Etiqueta con el logotipo de Hurley.
 - 24" HPS.
+- 60 % Algodón / 40 % Poliéster.
+- Etiqueta con el logotipo de Hurley.
+- Corte Clásico.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GY2BQKL/?tag=tolees-21)

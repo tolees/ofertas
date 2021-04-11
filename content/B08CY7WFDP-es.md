@@ -28,14 +28,14 @@ Ahora mismo tienes [Hurley M DF Universal Tiger PO  Sequoia  s  CV2066 ](https:/
 
 🔎:
 
-- Closure: pull on
-- Corte regular
-- Polar de mezcla de fibra natural
-- 62 % algodón/38 % poliéster/270 gsm
-- Tipo de fábrica: 62% algodón, 38% poliéster
-- Etiqueta one & only cosida. logo Nike dri-fit impreso con calor
-- Casual
 - Lavar a máquina
 - La tecnología Nike dri-fit te ayuda a mantenerte seco, cómodo y concentrado
+- Corte regular
+- Polar de mezcla de fibra natural
+- Tipo de fábrica: 62% algodón, 38% poliéster
+- Casual
+- Closure: pull on
+- 62 % algodón/38 % poliéster/270 gsm
+- Etiqueta one & only cosida. logo Nike dri-fit impreso con calor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CY7WFDP/?tag=tolees-21)
