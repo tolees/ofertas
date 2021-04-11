@@ -29,8 +29,8 @@ En este momento está [Bresser Optics - Bresser Binoculares Digitales de Visión
 🔎:
 
 - Alcance la iluminación infrarroja: 100 m
-- Dimensiones: 185 x 145 x 55 cm / peso: 680 g
 - Pantalla grande, visión cómoda
 - Ampliación: 3X (6 aumentos con zoom digital)
+- Dimensiones: 185 x 145 x 55 cm / peso: 680 g
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01KVY3CNG/?tag=tolees-21)
