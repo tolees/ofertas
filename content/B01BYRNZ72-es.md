@@ -28,9 +28,9 @@ Ahora mismo tienes [Fantasy Flight Games- Star Wars Imperial Assault  Sombras Ge
 
 🔎:
 
+- Sombras gemelas lleva tu experiencia de Imperial Assault al desolado planeta Tatooine
+- La oscuridad se cierne sobre Tatooine
 - Las nuevas piezas de tablero muestran las sucias cantinas de Mos Eisley
 - Producto en castellano
-- La oscuridad se cierne sobre Tatooine
-- Sombras gemelas lleva tu experiencia de Imperial Assault al desolado planeta Tatooine
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BYRNZ72/?tag=tolees-21)

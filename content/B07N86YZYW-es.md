@@ -28,10 +28,10 @@ Está [Ozone Gaming - Raton Gaming Ozone NEON X20 - Mouse Gaming Avanzado - Sens
 
 ℹ️:
 
-- PRECISIÓN TOTAL: Su sensor óptico Pixart PMW 3325, switches Huano y DPI de hasta 10.000, harán que consigas derrotar a todos tus rivales con un nivel de precisión profesional.
 - " ADAPTABILIDAD A TODOS LOS NIVELES: Estés donde estés no pierdas la oportunidad de jugar una partida. Especialmente diseñado para tener una conectividad total con Windows 7 / 8 / / 10 gracias a su USB."
-- CREA TU ESTILO DE JUEGO ÚNICO: Su software personalizable te permitirá crear macros atajos, configurar multitud de perfiles gracias a sus 9 botones configurables. ¡Bienvenido a un nuevo nivel de juego!
 - ILUMINA TU JUEGO: Crea diferentes efectos de iluminación gracias a los 16.8 millones de colores que te ofrece su iluminación led RGB Spectra, desde la que podrás personalizar incluso la velocidad e intensidad de cada uno de ellos.
+- CREA TU ESTILO DE JUEGO ÚNICO: Su software personalizable te permitirá crear macros atajos, configurar multitud de perfiles gracias a sus 9 botones configurables. ¡Bienvenido a un nuevo nivel de juego!
+- PRECISIÓN TOTAL: Su sensor óptico Pixart PMW 3325, switches Huano y DPI de hasta 10.000, harán que consigas derrotar a todos tus rivales con un nivel de precisión profesional.
 - RESPUESTA INMEDIATA: El raton NEON X20 responderá milimétricamente cada uno de tus movimientos. Con una tasa triple de respuesta: 125 - 500 - 1000 Hz tu pc gaming se convertirá en el mejor escenario de juego.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N86YZYW/?tag=tolees-21)

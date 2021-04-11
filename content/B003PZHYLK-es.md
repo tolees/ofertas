@@ -28,10 +28,10 @@ En este momento está [STANLEY 1-97-483 - Organizador SortMaster Junior](https:/
 
 🔎:
 
-- El diseño interior de la tapa previene el desplazamiento involuntario de las piezas durante el transporte.
 - Esquinas ampliables según sus necesidades, diseñadas para poder almacenar herramientas que requieran un espacio modular.
+- Permite combinar el almacenamiento de herramientas y piezas pequeñas
+- El diseño interior de la tapa previene el desplazamiento involuntario de las piezas durante el transporte.
 - Compartimentos con separaciones modulables
 - Posibilidad de transportar hasta 3 unidades a la vez.
-- Permite combinar el almacenamiento de herramientas y piezas pequeñas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003PZHYLK/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [L Oreal Paris Make-up Designer - L Oréal Paris Infalible
 
 🔎:
 
+- Resistencia absoluta para unos labios hidratados y confortables, sin retoques
+- Primero aplica el color con pigmentos mate y cuando se seque, aplica el hidratante potenciador del color
 - Pintalabios de larga duración para un resultado mate intacto 24 horas
 - Su textura líquida enriquecida con ácido hialurónico se fija en tus labios sin manchar o agrietarse
 - Color permanente hasta 24 horas disponible en 22 tonos
-- Primero aplica el color con pigmentos mate y cuando se seque, aplica el hidratante potenciador del color
-- Resistencia absoluta para unos labios hidratados y confortables, sin retoques
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BR58YXN/?tag=tolees-21)
