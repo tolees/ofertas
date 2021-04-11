@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Sport-Energy  Zapatillas Mujer  con un 49.98 % de descuento'
-date: 2021-04-05 17:28:27
+date: 2021-04-11 21:36:59
 image: 'https://m.media-amazon.com/images/I/41TqKGNDMRL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B000ARB8RW/?tag=tolees-21'
 descuento: '49.98'
-average: '33.78'
+average: '34.022'
 ---
 
 En este momento está [Skechers Sport-Energy  Zapatillas Mujer  Multicolor  WML Black Smooth Leather #l   41 EU](https://www.amazon.es/dp/B000ARB8RW/?tag=tolees-21) a 34.99 EUR (original: 69.95 EUR) (49.98 %  de descuento) en el siguiente enlace!
