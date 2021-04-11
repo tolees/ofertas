@@ -28,10 +28,10 @@ Está [Bourjois 1 Seconde - Sombra de ojos  003 Belle Plum  Morados  3g](https:/
 
 ℹ️:
 
-- Aplica una base de sombras antes para un acabado más definido
 - Aplicador de esponja en forma de ojo para una fácil aplicación
 - Efecto smoky eye con cobertura modulable en un instante
 - Tecnología innovadora con pack compacto ideal para un smoky on the go
 - Fórmula satinada ultra suave e intensa de larga duración
+- Aplica una base de sombras antes para un acabado más definido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P43V1CM/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'THQ Nordic GmbH - Legend of Kay  Switch  con un 46.88 % de descuento'
-date: 2021-04-08 20:26:49
+date: 2021-04-11 14:29:09
 image: 'https://m.media-amazon.com/images/I/5141U9jAteL._SL400_.jpg'
 comments: true
 category: ofertas

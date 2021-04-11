@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER MTJS1 - Accesorio de sierra al 48.09 % de descuento'
-date: 2021-04-10 10:07:37
+date: 2021-04-11 14:10:07
 image: 'https://m.media-amazon.com/images/I/4160Q3AkC8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [BLACK+DECKER MTJS1 - Accesorio de sierra para herramienta Multievo  4.5 c
 
 ℹ️:
 
-- Accesorios: 5 cuchillas
-- Velocidad en vacío :0-2700 SPM
 - Profundidad de corte (madera / aluminio / acero) : 45/10/5 mm
+- Velocidad en vacío :0-2700 SPM
+- Accesorios: 5 cuchillas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B009X6LHHW/?tag=tolees-21)
