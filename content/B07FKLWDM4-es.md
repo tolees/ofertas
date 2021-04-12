@@ -28,8 +28,8 @@ Tienes [Apple Funda de piel  para el MacBook de 12 pulgadas  - Negro](https://w
 
 🔎:
 
-- Su diseño te permite mantener tu MacBook de 12 pulgadas protegido mientras lo cargas.
-- Compatible con los modelos de MacBook de 12 pulgadas.
 - Esta funda de Apple está fabricada en piel europea de primera calidad con un suave interior de microfibra.
+- Compatible con los modelos de MacBook de 12 pulgadas.
+- Su diseño te permite mantener tu MacBook de 12 pulgadas protegido mientras lo cargas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FKLWDM4/?tag=tolees-21)
