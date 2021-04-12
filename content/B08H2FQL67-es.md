@@ -28,10 +28,10 @@ Ahora mismo tienes [Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa 
 
 🔎:
 
+- Esfera gris
+- Movimiento cronógrafo con función de fecha
 - 10 ATM de resistencia al agua
 - Correa de piel marrón
 - Diámetro de la caja: 44 mm, Grosor de la caja de 11,5mm
-- Movimiento cronógrafo con función de fecha
-- Esfera gris
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08H2FQL67/?tag=tolees-21)

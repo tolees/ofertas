@@ -28,8 +28,8 @@ Ahora mismo tienes [Taurus AC 205 RVKT Aire Acondicionado portátil 3 en 1  780 
 
 🔎:
 
-- 4 en 1. 4 modos de funcionamiento distintos: frío, calor, deshumidificación y ventilación; aire acondicionado, calefacción, deshumidificador y ventilador; frío máximo1750 frigorías / 7000 btu/h / 2.1kw; calor máximo: 1512 kcal / 6000 btu/h / 7.8kw; cuenta con varias velocidades de ventilación, el máximo caudal de aire es de 380 m3/h; capacidad modo deshumidificador: 20l/24h
 - Fácil de transportar y de usar; cuenta con ruedas y asa de transporte para un fácil y cómodo transporte; con mando a distancia y panel de control táctil muy intuitivo y fácil de usar
+- 4 en 1. 4 modos de funcionamiento distintos: frío, calor, deshumidificación y ventilación; aire acondicionado, calefacción, deshumidificador y ventilador; frío máximo1750 frigorías / 7000 btu/h / 2.1kw; calor máximo: 1512 kcal / 6000 btu/h / 7.8kw; cuenta con varias velocidades de ventilación, el máximo caudal de aire es de 380 m3/h; capacidad modo deshumidificador: 20l/24h
 - Potente y oscilante y con temporizador; consigue un ambiente fresco o cálido rápidamente; la temperatura ideal en tu hogar con el climatizador ac 205 rvkt de taurus; con 780w de máxima potencía en modo frío y 720w en modo calor; ideal para habitaciones de hasta 20 m2; cuenta con alerones oscilantes en la salida del aire para asegurar una buena distribución del frío y el aire; cuenta con temporizador 24 horas para programar el tiempo de funcionamiento fácilmente. 52-65 db(a)
 - Eficiente y ecológico; con gas refrigerante r290 que garantiza un menor impacto al medio ambiente; eficiencia energética y respeto por el medio ambiente
 - Accesorios; incluye kit para dar salida al aire caliente para ventanas en guillotina y correderas; diámetro de la manguera: 150mm; longitud de la manguera: 1.5m
