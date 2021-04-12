@@ -28,10 +28,10 @@ Tienes [Bosch Professional Medidor láser de distancia GLM 120 C  cámara integr
 
 🔎:
 
-- INCLUYE: medidor de distancia GLM 120 C de Bosch Professional, correa de transporte, cable micro USB y cargador, funda
-- FÁCIL DOCUMENTACIÓN: recopila y documenta los valores de medición gracias a la conexión con cable micro USB y a la aplicación Measuring Master
 - DATOS TÉCNICOS: IP 54, margen de medición de hasta 120 m, clase de láser 2, exactitud de la medición ± 1,5 mm y ± 0,2°, transmisión de datos por Bluetooth y USB
-- USO PROFESIONAL: Medidor láser cámara con función de zoom para mediciones precisas en el exterior
 - APLICACIONES: Adecuado en grandes distancias, entornos complejos y exteriores luminosos
+- FÁCIL DOCUMENTACIÓN: recopila y documenta los valores de medición gracias a la conexión con cable micro USB y a la aplicación Measuring Master
+- INCLUYE: medidor de distancia GLM 120 C de Bosch Professional, correa de transporte, cable micro USB y cargador, funda
+- USO PROFESIONAL: Medidor láser cámara con función de zoom para mediciones precisas en el exterior
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BRS1N19/?tag=tolees-21)
