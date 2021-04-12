@@ -28,8 +28,8 @@ Está [BLIPPI BLP0047  Color Figura con Sonidos  Toy Partner](https://www.amazon
 
 ℹ️:
 
-- La figura de 30 centímetros de Blippi
-- Figura del youtuber que dice hasta 15 frases distintas en castellano
 - Su cuerpo es de peluche y se convertirá en la figura favorita de tod s
+- Figura del youtuber que dice hasta 15 frases distintas en castellano
+- La figura de 30 centímetros de Blippi
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083L1WWLZ/?tag=tolees-21)
