@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.96 % en L Oreal Paris Make-up Designer - L Oréal'
-date: 2021-04-11 08:02:43
+date: 2021-04-12 16:09:11
 image: 'https://m.media-amazon.com/images/I/41CyZOHh8bL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [L Oreal Paris Make-up Designer - L Oréal Paris Make-up designer Coloret
 
 ℹ️:
 
-- Dispone de un compartimento interior con espejo y brocha
-- Esculpe y realza los pómulos
-- Colorete mate color rosa para tez oscura que se adapta a tu piel
 - Contiene pigmentos micronizados
+- Esculpe y realza los pómulos
+- Dispone de un compartimento interior con espejo y brocha
+- Colorete mate color rosa para tez oscura que se adapta a tu piel
 - Sus polvos son muy suaves y se funden con la piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00SBDUHTW/?tag=tolees-21)
