@@ -28,8 +28,8 @@ En este momento está [Biocop Algarroba Polvo Biocop 250 G 100 g](https://www.am
 
 🔎:
 
-- Elaborado con productos naturales
-- Producto Para El Cuidado Y Bienestar De Tu Cuerpo
 - Producto de la marca BIOCOP
+- Producto Para El Cuidado Y Bienestar De Tu Cuerpo
+- Elaborado con productos naturales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00UMZMV3C/?tag=tolees-21)

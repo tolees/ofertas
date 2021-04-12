@@ -28,8 +28,8 @@ En este momento está [Savic Bandeja Gato+Cerco IRIZ 50 Gris](https://www.amazon
 
 🔎:
 
-- Perros
-- Higiene
 - Cerco Desmontable. Fácil Limpieza Y Acceso. 50X37X14Cm
+- Higiene
+- Perros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00DCXLG8W/?tag=tolees-21)

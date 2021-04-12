@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'VTech- TTCory Bólidos Parque de bomberos al 40.88 % de descuento'
-date: 2021-04-08 17:30:58
-image: 'https://m.media-amazon.com/images/I/51mdSTz+6aL._SL400_.jpg'
+title: 'VTech- TTCory Bólidos Parque de bomberos al 47.91 % de descuento'
+date: 2021-04-12 22:27:16
+image: 'https://m.media-amazon.com/images/I/51mdSTz+6aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B087DPHSZV-es VTech- TTCory Bólidos Parque de bomberos de Autovilla +...'
 sku: 'B087DPHSZV-es'
 tags: [ 'Circuitos y playsets para coches de juguete','Conjuntos de vehículos de motor para niños','Desarrollo de habilidades motoras','Juguetes','Juguetes para Bebés y primera infancia','Juguetes y juegos','Vehículos de juguete para niños','vtech', ]
-actualPrice: 17.14 EUR
+actualPrice: 15.1 EUR
 currency: EUR
-price: 17.14
+price: 15.1
 comparePrice: 28.99 EUR
 prodname: 'VTech- TTCory Bólidos Parque de bomberos de Autovilla + 2coches  3480-524022 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'VTech'
 buyurl: 'https://www.amazon.es/dp/B087DPHSZV/?tag=tolees-21'
-descuento: '40.88'
-average: '17.255'
+descuento: '47.91'
+average: '16.5366666666667'
 ---
 
-Ahora mismo tienes [VTech- TTCory Bólidos Parque de bomberos de Autovilla + 2coches  3480-524022 ](https://www.amazon.es/dp/B087DPHSZV/?tag=tolees-21) a 17.14 EUR (original: 28.99 EUR) (40.88 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [VTech- TTCory Bólidos Parque de bomberos de Autovilla + 2coches  3480-524022 ](https://www.amazon.es/dp/B087DPHSZV/?tag=tolees-21) a 15.1 EUR (original: 28.99 EUR) (47.91 %  de descuento) en el siguiente enlace!
 
-[![VTech- TTCory Bólidos Parque de bomberos](https://m.media-amazon.com/images/I/51mdSTz+6aL._SL400_.jpg)](https://www.amazon.es/dp/B087DPHSZV/?tag=tolees-21)
+[![VTech- TTCory Bólidos Parque de bomberos](https://m.media-amazon.com/images/I/51mdSTz+6aL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B087DPHSZV/?tag=tolees-21)
 
 🔎:
 
