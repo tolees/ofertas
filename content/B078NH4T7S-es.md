@@ -28,8 +28,8 @@ Ahora mismo tienes [Merrell Vapor Glove 3 Luna LTR  Zapatillas Hombre  Negro Bla
 
 🔎:
 
-- Cierre: Cordones
 - Tipo de tacón: Plano
+- Cierre: Cordones
 - Revestimiento: Malla
 - Material exterior: Cuero
 - Material de la suela: Goma

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko - Pop! TV: Game of Thrones - Theon al 44.71 % de rebaja'
-date: 2021-04-07 11:26:59
+title: 'Funko - Pop! TV: Game of Thrones - Theon al 42.80 % de rebaja'
+date: 2021-04-12 15:32:59
 image: 'https://m.media-amazon.com/images/I/41PFhNJBTDL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07RVLFG84-es Funko - Pop! TV: Game of Thrones - Theon w/Flaming Arrows...'
 sku: 'B07RVLFG84-es'
 tags: [ 'Accesorios para Nintendo Switch','Coleccionables','Hardware y juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Merchandising y estatuas y bustos','Muñecos cabezones','Videojuegos','funko', ]
-actualPrice: 9.67 EUR
+actualPrice: 10.09 EUR
 currency: EUR
-price: 9.67
-comparePrice: 17.49 EUR
+price: 10.09
+comparePrice: 17.64 EUR
 prodname: 'Funko - Pop! TV: Game of Thrones - Theon w/Flaming Arrows Figura Coleccionable  Multicolor  44821 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07RVLFG84/?tag=tolees-21'
-descuento: '44.71'
-average: '9.80714285714286'
+descuento: '42.80'
+average: '9.81689655172414'
 ---
 
-Tienes [Funko - Pop! TV: Game of Thrones - Theon w/Flaming Arrows Figura Coleccionable  Multicolor  44821 ](https://www.amazon.es/dp/B07RVLFG84/?tag=tolees-21) con precio final de  9.67 EUR (original: 17.49 EUR) (44.71 %  de rebaja) aqui!
+Tienes [Funko - Pop! TV: Game of Thrones - Theon w/Flaming Arrows Figura Coleccionable  Multicolor  44821 ](https://www.amazon.es/dp/B07RVLFG84/?tag=tolees-21) con precio final de  10.09 EUR (original: 17.64 EUR) (42.80 %  de rebaja) aqui!
 
 [![Funko - Pop! TV: Game of Thrones - Theon](https://m.media-amazon.com/images/I/41PFhNJBTDL._SL400_.jpg)](https://www.amazon.es/dp/B07RVLFG84/?tag=tolees-21)
 
