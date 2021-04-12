@@ -28,9 +28,9 @@ Tienes [Casio Reloj de pulsera MRW-200H-1BVEF](https://www.amazon.es/dp/B005FEYB
 
 ℹ️:
 
-- Tiene pantalla de neón e indicador de fecha y día de la semana
-- La duración de la batería es de 3 años
 - Resistente al agua hasta 10 bar / 100 metros
+- Tiene pantalla de neón e indicador de fecha y día de la semana
 - Caja y correa de resina sintética, un material flexible y resistente
+- La duración de la batería es de 3 años
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005FEYBXS/?tag=tolees-21)

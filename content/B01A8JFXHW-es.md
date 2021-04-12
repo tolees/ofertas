@@ -28,10 +28,10 @@ En este momento está [OGX Champú Antiencrespamiento sin Sulfatos ni Parabenos 
 
 🔎:
 
-- No contiene sulfatos y ayuda a hidratar tu melena para un acabado liso e hidratado; es un milagro de la naturaleza
 - Disfruta del secreto ancestral hawaiano de la fórmula del Champú con Aceite de Kukuí de OGX, el cual elimina el encrespamiento y repele la humedad de tu pelo
-- Este champú antiencrespamiento aporta un brillo único a tu pelo para que puedas presumir un pelo espectacular durante todo el día
 - Para mejores resultados, utiliza este champú junto con el resto de productos de la gama de Aceite de Kukuí de OGX
+- Este champú antiencrespamiento aporta un brillo único a tu pelo para que puedas presumir un pelo espectacular durante todo el día
 - Contiene una exótica mezcla de aceite de Kukuí, un antiguo secreto de Hawái, utilizado por sus capacidades resistentes a la humedad que crean un brillo resplandeciente en el cabello
+- No contiene sulfatos y ayuda a hidratar tu melena para un acabado liso e hidratado; es un milagro de la naturaleza
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01A8JFXHW/?tag=tolees-21)

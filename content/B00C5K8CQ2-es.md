@@ -29,8 +29,8 @@ Ahora mismo tienes [Kingston DataTraveler 100 G3 -DT100G3/64GB  USB 3.0  Flash D
 🔎:
 
 - modelo: DT100G3/64GB
-- 64GB
 - Diseño elegante en negro y tapa deslizante
 - Un dispositivo de almacenamiento USB 3.0
+- 64GB
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00C5K8CQ2/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Hurley M DF Disperse Siege FZ](https://www.amazon.es/dp/B08GYM824B/?tag=
 
 🔎:
 
-- Corte Regular.
-- La tecnología Nike Dri-FIT te ayuda a mantenerte seco, cómodo y concentrado.
-- Icono )( estampado en lado izquierdo del pecho y Dri-FIT impreso con calor.
-- Icono )( estampado en lado izquierdo del pecho y Dri-FIT impreso con calor.
 - 100 % Poliéster / 230 gsm.
+- Icono )( estampado en lado izquierdo del pecho y Dri-FIT impreso con calor.
+- La tecnología Nike Dri-FIT te ayuda a mantenerte seco, cómodo y concentrado.
+- Corte Regular.
+- Icono )( estampado en lado izquierdo del pecho y Dri-FIT impreso con calor.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GYM824B/?tag=tolees-21)

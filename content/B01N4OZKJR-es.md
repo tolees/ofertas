@@ -28,9 +28,9 @@ Tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Nailon AW50
 
 🔎:
 
-- Sumergible: 10 bares
-- Material de la correa: nailon azul
 - Diámetro de la caja: 43 mm
+- Material de la correa: nailon azul
+- Sumergible: 10 bares
 - Material de la carcasa: acero inoxidable plateado
 - Esfera: azul con manecillas luminosas, números arábigos blancos y detalles rojos
 
