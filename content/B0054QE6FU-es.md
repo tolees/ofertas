@@ -28,9 +28,9 @@ Está [Mister Vac A307 - Filtro HEPA H 12 para aspiradoras Electrolux  modelos L
 
 ℹ️:
 
-- Diseñado para los alérgicos al polvo
-- Tiene un peso de 99.8 g
 - Filtro HEPA para aspiradoras
 - Es compatible con Electrolux
+- Tiene un peso de 99.8 g
+- Diseñado para los alérgicos al polvo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0054QE6FU/?tag=tolees-21)

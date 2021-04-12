@@ -28,10 +28,10 @@ Ahora mismo tienes [Tiras LED OUSFOT Tira LED RGB 5M 5050 con Control Remoto de 
 
 🔎:
 
-- Instalación flexible: Se puede cortar cada por 3 LED, de acuerdo con sus necesidades de decoración, sin dañar el resto de la cinta. Trae cinta autoadhesiva por su cara posterior, para una aplicación segura y fácil en cualquier superficie limpia, seca y plana.
-- Segura de usar: Funciona con un voltaje activo es de 12V, que ofrece seguridad en su uso, especialmente. para los niños. No resistente al agua.
 - Larga vida útil: chip LED de alta calidad (no impermeable), con buena dispersión térmica que permite una vida útil hasta de 50.000 horas.
 - Amplia aplicación: ideal para decoración interior de casas u hoteles, es pecialmente adecuada para fiestas y eventos como Navidad, Halloween, fiestas de cumpleaños, etc.
+- Instalación flexible: Se puede cortar cada por 3 LED, de acuerdo con sus necesidades de decoración, sin dañar el resto de la cinta. Trae cinta autoadhesiva por su cara posterior, para una aplicación segura y fácil en cualquier superficie limpia, seca y plana.
 - Tira de LED RGB 5050: con 20 colores disponibles, superbrillante y con 6 modos de iluminación. Control remoto de 44 teclas.
+- Segura de usar: Funciona con un voltaje activo es de 12V, que ofrece seguridad en su uso, especialmente. para los niños. No resistente al agua.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZTBTMXP/?tag=tolees-21)
