@@ -28,10 +28,10 @@ Ahora mismo tienes [Real Techniques - Brocha de acabado](https://www.amazon.es/d
 
 🔎:
 
+- La brocha se presenta en un tamaño ligeramente más pequeño que ayuda a aplicar sobre el rostro una pequeña cantidad de polvos justo donde los necesitas
 - Lo sentimos, pero no se puede escoger el color del mango
 - Las brochas de Real Techniques están fabricadas con fibras de taklon que son extremadamente suaves y libres de crueldad animal
 - El último paso es un acabado óptimo
-- La brocha se presenta en un tamaño ligeramente más pequeño que ayuda a aplicar sobre el rostro una pequeña cantidad de polvos justo donde los necesitas
 - Desarrollada por la maquilladora profesional y bloguera de belleza Sam Chapman
 - Esta brocha de acabado en tamaño pequeños es clave para dar el toque final a cualquier look aplicando de forma controlada polvo o iluminador en las mejillas y en los pómulos
 
