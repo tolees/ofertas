@@ -28,10 +28,10 @@ Está [Bosch Professional GSH 5 CE - Martillo demoledor  8 3 J  portabrocas SDS 
 
 ℹ️:
 
-- El sistema de amortiguación de vibraciones Vibration Control ofrece un trabajo cómodo incluso durante un uso prolongado
-- Alto rendimiento en arranque de material gracias a su energía de impacto de 8.3 J, Sistema Vario-Lock: 12 posibilidades de ajuste de la posición del cincel para un trabajo cómodo
 - Incluye: Martillo de percusión GSH 5 CE con SDS-max, maletín, cincel puntiagudo de 400 mm, empuñadura adicional, paño para la máquina, tubo de grasa
-- Potencia con un 40% menos de vibraciones, selector para un ajuste variable del número de percusiones para un rendimiento óptimo
 - Larga vida útil gracias a su robusta carcasa de metal
+- El sistema de amortiguación de vibraciones Vibration Control ofrece un trabajo cómodo incluso durante un uso prolongado
+- Potencia con un 40% menos de vibraciones, selector para un ajuste variable del número de percusiones para un rendimiento óptimo
+- Alto rendimiento en arranque de material gracias a su energía de impacto de 8.3 J, Sistema Vario-Lock: 12 posibilidades de ajuste de la posición del cincel para un trabajo cómodo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001NBOOSE/?tag=tolees-21)

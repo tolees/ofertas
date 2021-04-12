@@ -29,8 +29,8 @@ Ahora mismo tienes [Famosa Softies - Peluche Dumbledore Ministerio de la Magia  
 🔎:
 
 - Tus personajes favoritos de la saga de Harry Potter en peluche de 28 cm
-- Muy suave y agradable al tacto
 - Hay 4 para coleccionar
 - para cualquier edad y también sirve de decoración
+- Muy suave y agradable al tacto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SLRFMBK/?tag=tolees-21)
