@@ -28,10 +28,10 @@ Está [Finum - Filtros de papel para infusiones  tamaño XS  100 unidades](https
 
 ℹ️:
 
-- Ancho: 63 mm
 - Ideal para preparar tazas y mugs individuales
 - Con base desplegable y con solapa para facilitar el llenado
-- Ideal para preparar té , infusiones o cafe
+- Ancho: 63 mm
 - Largo incluida la solapa: 130 mm
+- Ideal para preparar té , infusiones o cafe
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00N0W6BQW/?tag=tolees-21)

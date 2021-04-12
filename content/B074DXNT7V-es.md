@@ -28,8 +28,8 @@ Ahora mismo tienes [Western Digital My Cloud Home - Almacenamiento en Red NAS de
 
 🔎:
 
-- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 182.99€
 - Puerto USB para importar datos desde unidades flash USB y discos duros externos
+- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 182.99€
 - Acceso desde cualquier lugar con la aplicación para móviles, ordenadores o desde MyCloud.com
 - Copia de seguridad automática de las fotos y los vídeos del teléfono
 - Configuración sencilla y rápida desde el teléfono

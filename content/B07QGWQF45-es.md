@@ -28,9 +28,9 @@ Tienes [Funko Pop! Figura De Vinil Games: Spyro The Dragon - Spyro](https://www.
 
 ℹ️:
 
-- El producto se envía en una caja ilustrada con ventana
 - Figura de colección de la marca Funko
-- El artículo es adecuado para todos los fanáticos de Spyro
 - Recomendado para niños a partir de 3 años
+- El artículo es adecuado para todos los fanáticos de Spyro
+- El producto se envía en una caja ilustrada con ventana
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QGWQF45/?tag=tolees-21)
