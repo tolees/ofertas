@@ -28,10 +28,10 @@ Está [Marca Amazon - find. Toallitas desmaquilladoras con Aceite de Argán   Ad
 
 ℹ️:
 
+- Es ideal para todo tipo de pieles. Ideales para pieles secas.Dermatológicamente testado
 - 97% de ingredientes de origen natural
-- Contenido del paquete: 6x25 toallitas (150 toallitas)
 - Eliminan suavemente todos los restos de maquillaje, efecto no graso
 - Con aceite de argán:propiedades reafirmantes y suavizantes
-- Es ideal para todo tipo de pieles. Ideales para pieles secas.Dermatológicamente testado
+- Contenido del paquete: 6x25 toallitas (150 toallitas)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RG6NXMT/?tag=tolees-21)

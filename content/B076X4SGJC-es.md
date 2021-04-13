@@ -28,12 +28,12 @@ Tienes [GEOX UOMO SYMBOL A NAVY Men s Derbys  Oxfords and Monk Shoes Oxfords siz
 
 🔎:
 
-- Tipo de tacón: Plano
-- Material de la suela: Caucho
-- Revestimiento: Sintético
-- Cierre: Cremallera
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Altura del tacón: 2.5 centímetros
 - Material exterior: Ante
+- Tipo de tacón: Plano
+- Cierre: Cremallera
+- Material de la suela: Caucho
+- Revestimiento: Sintético
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076X4SGJC/?tag=tolees-21)
