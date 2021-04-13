@@ -28,10 +28,10 @@ Tienes [Ariete 886 1602720886-Batidora de varilla  picador  color plata y blanco
 
 ℹ️:
 
-- Potencia: 500 W
-- 1 velocidad + turbo
 - Pie desmontable de acero
 - Cuchilla triple de acero inoxidable
+- Potencia: 500 W
+- 1 velocidad + turbo
 - Gancho de goma para pared
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01IDX5RJO/?tag=tolees-21)

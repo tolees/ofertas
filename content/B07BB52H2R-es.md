@@ -28,13 +28,13 @@ Ahora mismo tienes [Kodak Printomatic - Cámara de impresión instantánea  impr
 
 🔎:
 
+- Fotografía todo en uno: la cámara printomatic apunta y dispara ofrece un potente sensor de 5 megapíxeles con una lente gran angular 1: 2
+- ¡Nota! Este artículo no incluye cable USB
+- Batería: ion de litio recargable incorporada
+- Rápidamente fácil y divertido: con printomatic puede tomar una nueva foto mientras imprime la foto anterior
 - Impresión única: printomatic imprime instantáneamente fotos en 2x3 pulgadas papel fotográfico zink kodak, no requiere tinta, tóner ni cartucho de película
+- Memoria externa: microSD de hasta 32 GB (no incluida)
 - Zoom óptico: 1.0 multiplier x
 - Indicadores: impresora, batería baja, poco papel, poca capacidad de almacenamiento en la tarjeta de memoria
-- Rápidamente fácil y divertido: con printomatic puede tomar una nueva foto mientras imprime la foto anterior
-- Memoria externa: microSD de hasta 32 GB (no incluida)
-- ¡Nota! Este artículo no incluye cable USB
-- Fotografía todo en uno: la cámara printomatic apunta y dispara ofrece un potente sensor de 5 megapíxeles con una lente gran angular 1: 2
-- Batería: ion de litio recargable incorporada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BB52H2R/?tag=tolees-21)

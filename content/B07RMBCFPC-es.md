@@ -28,8 +28,8 @@ Ahora mismo tienes [Funko - Pop! TV: Game of Thrones - Crystal Night King w/Dagg
 
 🔎:
 
-- Recomendado para niños a partir de 3 años
 - El producto se envía en una caja ilustrada con ventana
+- Recomendado para niños a partir de 3 años
 - Figura de colección de la marca Funko
 - El artículo es adecuado para todos los fanáticos de Game of Thrones
 
