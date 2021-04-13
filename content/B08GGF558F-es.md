@@ -28,10 +28,10 @@ En este momento está [CERDÁ LIFE S LITTLE MOMENTS 2300004561 T026-C56 Zapatill
 
 🔎:
 
-- Divertidas zapatillas infantiles de estar por casa con el diseño de baby shark
-- Zapatillas para casa infantiles - licencia oficial nickelodeon
 - Zapatillas media bota para casa - con impresión del personaje a todo color en el empeine y cierre autoadherente para una mayor adaptabilidad al pie ¡y que puedan jugar sin riesgo de caída
+- Divertidas zapatillas infantiles de estar por casa con el diseño de baby shark
 - Zapatillas de casa antideslizantes - con suela de tpr inyectada para que se escurran cuando las lleven puestas
 - Zapatillas casa forradas - forro de alodón 100% con sistema de transpiración para los quesitos de los peques
+- Zapatillas para casa infantiles - licencia oficial nickelodeon
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GGF558F/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Casio EDIFICE Reloj en caja sólida  10 BAR  Negro  para Hombre  con Cor
 
 ℹ️:
 
-- Material: cristal mineral
-- Fondo de la carcasa atornillado
-- Clasificación de resistencia al agua (10 bar)
-- Cronómetro de 10 minutos
 - Pantalla de neón
+- Clasificación de resistencia al agua (10 bar)
+- Fondo de la carcasa atornillado
+- Material: cristal mineral
+- Cronómetro de 10 minutos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079FR1NZ5/?tag=tolees-21)

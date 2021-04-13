@@ -29,9 +29,9 @@ Ahora mismo tienes [PNY FD16GATT4-EF - Memoria USB 2.0 de 16 GB  25 MB/s   color
 🔎:
 
 - Funciona con Windows 7, Windows 8, Windows Vista, Windows XP, Windows 2000, Mac OS 10.3 y posterior, Linux kernel 2.4+
+- Diseño sin capuchón
+- Unidad flash USB 2.0
 - Velocidades de escritura de hasta 8 MB/s / Velocidades de lectura de hasta 25 MB/s
 - Capacidad : 16 GB
-- Unidad flash USB 2.0
-- Diseño sin capuchón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00TPG6P22/?tag=tolees-21)

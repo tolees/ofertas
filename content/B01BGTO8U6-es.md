@@ -28,9 +28,9 @@ Está [G-STAR RAW Bronson Slim Chino Pantalones  Gris  gs grey 5126-1260   28W /
 
 ℹ️:
 
+- Tiro bajo en la parte delantera y tiro regular en la parte trasera
 - Se estrechan del muslo al dobladillo
 - Pantalones chinos G-Star para hombre
 - Presentan un corte ajustado con cinturilla ajustada
-- Tiro bajo en la parte delantera y tiro regular en la parte trasera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BGTO8U6/?tag=tolees-21)
