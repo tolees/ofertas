@@ -28,12 +28,12 @@ Está [Havaianas Top Mix  Chanclas Unisex Adulto  Azul  Navy/Black 1554   41/42 
 
 ℹ️:
 
+- Altura del tacón: 1 centímetros
 - Anchura del zapato: Normal
-- Material exterior: Caucho
 - Tipo de tacón: Plano
 - Cierre: Sin cierre
 - Material de la suela: Caucho
+- Material exterior: Caucho
 - Revestimiento: Sin forro
-- Altura del tacón: 1 centímetros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SKWM86M/?tag=tolees-21)

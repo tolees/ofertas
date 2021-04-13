@@ -29,7 +29,7 @@ Está [Geox D Pontoise D  Zapatillas Mujer  Blanco  White/Silver C0007   37 EU](
 ℹ️:
 
 - Material exterior: piel lisa
-- Material interior: malla
 - Suela: sintética
+- Material interior: malla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SWTJZS1/?tag=tolees-21)

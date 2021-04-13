@@ -30,8 +30,8 @@ Ahora mismo tienes [Casio G-SHOCK Reloj Analógico-Digital  Reloj radiocontrolad
 
 - Cristal mineral, duro y difícil de rayar, que protege el reloj de daños externos
 - Incluye luz LED, sistema de energía solar, cronómetro, temporizador y 5 alarmas diarias
-- Tiene calendario automático, señales radio, indicador de hora 12/24 horas, función de movimiento de la aguja
 - Resistente al agua hasta 20 bar / 200 metros
+- Tiene calendario automático, señales radio, indicador de hora 12/24 horas, función de movimiento de la aguja
 - Caja y correa de resina sintética, un material resistente y flexible
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0192OKCPC/?tag=tolees-21)

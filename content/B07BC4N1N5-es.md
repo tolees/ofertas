@@ -28,9 +28,9 @@ Tienes [Bourjois Satin Edition Sombra de Ojos Líquida Tono 3 Mauve your body - 
 
 ℹ️:
 
-- Con una fórmula cremosa
-- Ligera y duradera
 - Con pigmentos iridiscentes
+- Ligera y duradera
 - Sombra de ojos líquida
+- Con una fórmula cremosa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BC4N1N5/?tag=tolees-21)

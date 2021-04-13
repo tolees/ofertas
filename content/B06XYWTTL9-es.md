@@ -28,10 +28,10 @@ Tienes [MORELLATO Reloj de Pulsera R0151140512](https://www.amazon.es/dp/B06XYWT
 
 🔎:
 
-- Tamaño caja: 26x30.9 mm
-- Material correa: piel
-- Correa color: negro
 - Duración de la garantía: dos años
+- Correa color: negro
+- Material correa: piel
+- Tamaño caja: 26x30.9 mm
 - Esfera color: negro sunray
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XYWTTL9/?tag=tolees-21)

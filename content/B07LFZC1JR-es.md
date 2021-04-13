@@ -28,12 +28,12 @@ Está [Geox B RISHON Girl B  Zapatillas Niñas  Gris  Dk Grey/Pink C0952   21 EU
 
 ℹ️:
 
-- Tipo de talla: Los zapatos Geox son holgados
-- Tipo de tacón: Plano
-- Revestimiento: Malla
-- Material de la suela: Cuero sintético
-- Altura del tacón: 2 centímetros
 - Cierre: Cremallera
 - Material exterior: Cuero sintético
+- Revestimiento: Malla
+- Tipo de talla: Los zapatos Geox son holgados
+- Material de la suela: Cuero sintético
+- Tipo de tacón: Plano
+- Altura del tacón: 2 centímetros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LFZC1JR/?tag=tolees-21)

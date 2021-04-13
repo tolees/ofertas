@@ -28,10 +28,10 @@ Tienes [Super Impulse Llavero Tiny Arcade Space Invaders  multicolor  0859421005
 
 🔎:
 
-- Juego arcade
-- Máquina jugable
-- Llavero con anilla
 - Miniaturas retro
+- Llavero con anilla
+- Juego arcade
 - Licencia oficial
+- Máquina jugable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06Y4DR4HP/?tag=tolees-21)
