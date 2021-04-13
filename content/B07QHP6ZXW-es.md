@@ -28,8 +28,8 @@ Está [adidas Ligra 6  Zapatillas de vóleibol Mujer  Blanc Blanc Gomme  37 1/3 
 
 ℹ️:
 
+- Zapatillas de voleibol.
 - Parte superior de malla transpirable.
 - Amortiguación
-- Zapatillas de voleibol.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QHP6ZXW/?tag=tolees-21)

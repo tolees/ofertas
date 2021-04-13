@@ -28,12 +28,12 @@ En este momento está [Geox D ZOSMA A  Zapatillas Mujer  Gris  Lt Grey/White C13
 
 🔎:
 
-- Cierre: Cordones
-- Revestimiento: Tela
 - Material de la suela: Sintético
-- Tipo de tacón: Plataforma
-- Altura del tacón: 7 centímetros
+- Cierre: Cordones
 - Material exterior: Tela
+- Altura del tacón: 7 centímetros
+- Revestimiento: Tela
+- Tipo de tacón: Plataforma
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SSK3BKY/?tag=tolees-21)

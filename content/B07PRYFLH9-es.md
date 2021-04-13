@@ -30,8 +30,8 @@ Tienes [Crazy pawn Juego de Mesa Regreso al Futuro  multicolor  8436581780086   
 
 - Juega como marty, doc, biff o cualquiera de los otros personajes de esta icónica película
 - Producto de licencia oficial
-- Utiliza el delorean para viajar entre las distintas épocas
 - Duración 30 min
 - Totalmente en castellano
+- Utiliza el delorean para viajar entre las distintas épocas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PRYFLH9/?tag=tolees-21)
