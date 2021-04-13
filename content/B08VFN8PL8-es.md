@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Fox - Perdida [Blu-ray] con un 38.49 % de descuento'
-date: 2021-04-12 07:00:24
-image: 'https://m.media-amazon.com/images/I/413YKWOW9rL._SL400_.jpg'
+date: 2021-04-13 09:52:06
+image: 'https://m.media-amazon.com/images/I/413YKWOW9rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,7 +24,7 @@ average: '7.99'
 
 En este momento está [Fox - Perdida [Blu-ray]](https://www.amazon.es/dp/B08VFN8PL8/?tag=tolees-21) a 7.99 EUR (original: 12.99 EUR) (38.49 %  de descuento) en el siguiente enlace!
 
-[![Fox - Perdida [Blu-ray]](https://m.media-amazon.com/images/I/413YKWOW9rL._SL400_.jpg)](https://www.amazon.es/dp/B08VFN8PL8/?tag=tolees-21)
+[![Fox - Perdida [Blu-ray]](https://m.media-amazon.com/images/I/413YKWOW9rL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08VFN8PL8/?tag=tolees-21)
 
 🔎:
 
