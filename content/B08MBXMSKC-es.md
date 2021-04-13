@@ -28,10 +28,10 @@ En este momento está [Garnier Original Remedies Oliva Mítica Champú para pelo
 
 🔎:
 
-- Nutre intensamente sin apelmazar 
-- Pelo intensamente nutrido y reparado sin apelmazar. El cabello recobra vitalidad.
 - El pack incluye 3 unidades
 - Formulado a base de aceite de oliva virgen, considerado un aceite mítico con mil virtudes. Rico en ácidos grasos y Vitamina E, se usan desde la Antigüedad por sus propiedades altamente nutritivas, suavizantes y reparadoras.
+- Nutre intensamente sin apelmazar 
 - Champú altamente nutritivo para el pelo reseco y sensibilizado
+- Pelo intensamente nutrido y reparado sin apelmazar. El cabello recobra vitalidad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MBXMSKC/?tag=tolees-21)

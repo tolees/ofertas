@@ -28,10 +28,10 @@ Ahora mismo tienes [Western Digital My Book Duo Disco Duro Externo de Sobremesa 
 
 🔎:
 
-- Protección mediante contraseña y cifrado de hardware AES de 256 bits
-- Discos WD Red optimizados para RAID
-- Listo para usar directamente con RAID-0, USB 3.1 Gen 1 y compatibilidad con USB 3.0
-- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 334.05€
 - 2 puertos hub USB 3.0
+- Protección mediante contraseña y cifrado de hardware AES de 256 bits
+- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 334.05€
+- Listo para usar directamente con RAID-0, USB 3.1 Gen 1 y compatibilidad con USB 3.0
+- Discos WD Red optimizados para RAID
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073ZMC2N2/?tag=tolees-21)

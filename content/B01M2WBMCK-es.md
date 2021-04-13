@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'New Balance 373 Core  Zapatillas Hombre  al 41.45 % de descuento'
-date: 2021-04-09 05:45:01
-image: 'https://m.media-amazon.com/images/I/31cKbVuOCKL._SL400_.jpg'
+date: 2021-04-13 11:43:31
+image: 'https://m.media-amazon.com/images/I/31cKbVuOCKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21'
 descuento: '41.45'
-average: '61.5831213872833'
+average: '61.3206779661017'
 ---
 
 Ahora mismo tienes [New Balance 373 Core  Zapatillas Hombre  Negro  Black   41.5 EU](https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21) a 46.84 EUR (original: 80.0 EUR) (41.45 %  de descuento) en el siguiente enlace!
 
-[![New Balance 373 Core  Zapatillas Hombre ](https://m.media-amazon.com/images/I/31cKbVuOCKL._SL400_.jpg)](https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21)
+[![New Balance 373 Core  Zapatillas Hombre ](https://m.media-amazon.com/images/I/31cKbVuOCKL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21)
 
 🔎:
 
-- Material interior: tela
-- Cierre: cordones
 - Material de la suela: goma
-- Estilo: zapatillas de running
 - Material exterior: material sintético
+- Material interior: tela
+- Estilo: zapatillas de running
+- Cierre: cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21)
