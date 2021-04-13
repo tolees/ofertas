@@ -28,11 +28,11 @@ Está [Taurus Unlimited25.6 UNLIMITED 25.6 LITHIUM  W  82 Decibelios  Acero  Neg
 
 ℹ️:
 
+- Práctico: tiene asa plegable lo que fácil itará mucho su transporte y su almacenaje mientras no se esté usando, sólo hay que doblar su asa de sujeción y guardarlo en cualquier armario
+- Incorpora nueva generación de baterías de ion-litio (no tienen efecto memoria) que permiten cargarlas totalmente en un plazo de tiempo muy corto y conseguir una autonomía de 45 minutos; incluye base de carga
+- Incluye un cepillo rotatorio con unas cerdas suaves pero resistentes especialmente diseñadas para arrastrar la suciedad sin dañar la superficie, así como lanza y cepillo tapicería
+- Dos velocidades (modo eco y turbo) para limpiar distintas superficies
 - Cyclonic system: el diseño de su sistema de filtraje crea un remolino en el interior de su depósito haciendo que la fuerza centrífuga separe el aire limpio de las partículas de suciedad, cayendo estas al fondo del depósito
 - Potente aspirador de 25,3 voltios para suelos, escoba y aspirador 3 en 1; permite aspirar en todo tipo de suelos, tanto duros como blandos (moquetas y alfombras)
-- Incluye un cepillo rotatorio con unas cerdas suaves pero resistentes especialmente diseñadas para arrastrar la suciedad sin dañar la superficie, así como lanza y cepillo tapicería
-- Incorpora nueva generación de baterías de ion-litio (no tienen efecto memoria) que permiten cargarlas totalmente en un plazo de tiempo muy corto y conseguir una autonomía de 45 minutos; incluye base de carga
-- Práctico: tiene asa plegable lo que fácil itará mucho su transporte y su almacenaje mientras no se esté usando, sólo hay que doblar su asa de sujeción y guardarlo en cualquier armario
-- Dos velocidades (modo eco y turbo) para limpiar distintas superficies
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016ICEZOK/?tag=tolees-21)

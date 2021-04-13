@@ -28,10 +28,10 @@ Tienes [L OREAL - L Oréal Men Expert Coloración Excell 5  - Recolorante 5 Minu
 
 ℹ️:
 
-- Gracias a su fórmula óptima, simplifica tu vida acortando el tiempo de exposición a 10 minutos
-- Barber Expert Aceite Hidratante para barbas largas y rostro
-- Combínalo con los demás productos de Barber Club para un mejor resultado
 - Para un resultado óptimo y natural, elige la coloración para tu cabello un tono más claro que tu color natural
+- Combínalo con los demás productos de Barber Club para un mejor resultado
+- Gracias a su fórmula óptima, simplifica tu vida acortando el tiempo de exposición a 10 minutos
 - Atenúa los cabellos blancos con la ayuda de su cepillo-aplicador e ingredientes de alta calidad
+- Barber Expert Aceite Hidratante para barbas largas y rostro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00X9W5EOS/?tag=tolees-21)
