@@ -29,7 +29,7 @@ En este momento está [VERO MODA Vmsophia Hw Skinny Jeans Md Bl Noos Vaqueros sk
 🔎:
 
 - 38 /L32 (Talla del fabricante:M)
-- Azul (Medium Blue Denim)
 - Vmsophia Hw Skinny Jeans Md Bl Noos Vaqueros skinny Mujer
+- Azul (Medium Blue Denim)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0751KQQ3B/?tag=tolees-21)

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Levi s - LEVIS FOOTWEAR AND ACCESSORIES  al 36.04 % de descuento'
-date: 2021-03-11 14:41:40
-image: 'https://m.media-amazon.com/images/I/213MJyBJyJL._SL400_.jpg'
+date: 2021-04-13 15:21:13
+image: 'https://m.media-amazon.com/images/I/213MJyBJyJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQZBVMM-es Levi s - LEVIS FOOTWEAR AND ACCESSORIES Mid Batwing...'
 sku: 'B07SQZBVMM-es'
+tags: [ 'Accesorios para hombre','Gorras de béisbol para hombre','Ropa','Ropa para hombre','Sombreros y gorras para hombre','levis', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
@@ -23,7 +24,7 @@ average: '15.99'
 
 Ahora mismo tienes [Levi s - LEVIS FOOTWEAR AND ACCESSORIES Mid Batwing Flexfit Gorra  Blanco  R White 51   Talla única  Talla del fabricante: UN  para Hombre](https://www.amazon.es/dp/B07SQZBVMM/?tag=tolees-21) a 15.99 EUR (original: 25.0 EUR) (36.04 %  de descuento) en el siguiente enlace!
 
-[![Levi s - LEVIS FOOTWEAR AND ACCESSORIES ](https://m.media-amazon.com/images/I/213MJyBJyJL._SL400_.jpg)](https://www.amazon.es/dp/B07SQZBVMM/?tag=tolees-21)
+[![Levi s - LEVIS FOOTWEAR AND ACCESSORIES ](https://m.media-amazon.com/images/I/213MJyBJyJL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07SQZBVMM/?tag=tolees-21)
 
 🔎:
 
