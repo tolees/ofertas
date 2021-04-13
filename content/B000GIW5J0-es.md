@@ -28,10 +28,10 @@ Tienes [Casio Reloj de Pulsera W-753D-1AVES](https://www.amazon.es/dp/B000GIW5J0
 
 ℹ️:
 
-- Incluye luz LED, cronómetro, temporizadores, 5 alarmas, indicadores de fase lunar y de mareas
 - Caja de acero inoxidable y resina y correa de acero inoxidable con cierre de seguridad
 - Resistente al agua hasta 10 bar / 100 metros
 - Tiene calendario automático, función de despertador y formato de 12/24 horas
 - La duración de la batería es de 10 años
+- Incluye luz LED, cronómetro, temporizadores, 5 alarmas, indicadores de fase lunar y de mareas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000GIW5J0/?tag=tolees-21)

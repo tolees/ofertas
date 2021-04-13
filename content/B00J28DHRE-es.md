@@ -30,7 +30,7 @@ En este momento está [Joma Combi Camiseta Manga Corta  Hombre  Blanco  12](http
 
 - Realizada en poliéster, para una mayor resistencia
 - El tejido Interlock es muy elástico, dirigido a ropa deportiva
-- Camiseta de manga corta indicada para deportistas que buscan la máxima comodidad y transpirabilidad
 - Esta camiseta destaca por un tacto muy suave, por su secado rápido y sin arrugas
+- Camiseta de manga corta indicada para deportistas que buscan la máxima comodidad y transpirabilidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00J28DHRE/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Educa - Superpack Peppa Pig Pack de Domino  Identic y 2 Puzzles  Juego d
 
 ℹ️:
 
+- Recomendado a partir de 3 años
 - Múltiples posibilidades de juego, para jugar solo o acompañado
 - Extraordinaria caja llena de diversión y educación
 - Piezas más grandes que facilitan la manipulación y el montaje
-- Recomendado a partir de 3 años
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00SFGYARK/?tag=tolees-21)

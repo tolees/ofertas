@@ -28,10 +28,10 @@ Tienes [Chicco- Big & Small Juguete bebé  Color Amarillo  00001192000000 ](http
 
 🔎:
 
+- Se puede colgar a la cuna
+- Carrión clásico de Chicco
+- Forma suave y redondeada
 - El bebé se calmará y relajará
 - Tirando de la anilla se activa una dulce melodía
-- Carrión clásico de Chicco
-- Se puede colgar a la cuna
-- Forma suave y redondeada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004P4M4TW/?tag=tolees-21)
