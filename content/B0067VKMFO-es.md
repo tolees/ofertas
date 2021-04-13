@@ -29,9 +29,9 @@ Ahora mismo tienes [Maybelline New York Hyper Precise All Day Delineador de Ojos
 🔎:
 
 - Oftalmológicamente probado y adecuado para ojos sensibles y usuarios de lentes de contacto
-- Formato rotulador. No se corre, no mancha y es Waterproof
+- Eyeliner rotulador con punta precisa y duración 24h
 - Punta precisa de 0.4mm de grosor, permite una buena precisión para conseguir un trazo definido
 - Delinea un trazo a ras de las pestañas superiores terminando con el rabillo del ojo
-- Eyeliner rotulador con punta precisa y duración 24h
+- Formato rotulador. No se corre, no mancha y es Waterproof
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0067VKMFO/?tag=tolees-21)
