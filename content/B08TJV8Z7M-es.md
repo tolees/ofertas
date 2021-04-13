@@ -28,9 +28,9 @@ Ahora mismo tienes [sony computer entertainment of america - Nioh Collection](ht
 
 🔎:
 
-- Sé un mercenario que persigue enemigos con poderes sobrenaturales del mítico yokai
-- Descubre armas y habilidades letales en un sistema de combate renovado
-- Japón, 1555: un país de guerras, donde los monstruos y los espíritus acechan
 - Modos multijugador: tus amigos te ayudan en Visitantes o juegan juntos en Expediciones
+- Japón, 1555: un país de guerras, donde los monstruos y los espíritus acechan
+- Descubre armas y habilidades letales en un sistema de combate renovado
+- Sé un mercenario que persigue enemigos con poderes sobrenaturales del mítico yokai
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TJV8Z7M/?tag=tolees-21)

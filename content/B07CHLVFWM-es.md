@@ -28,7 +28,7 @@ Ahora mismo tienes [Bollé ULTIPSI Revestimiento antiarañazos y antiniebla  neg
 
 🔎:
 
-- Número de modelo: - ULTIPSI
 - Marca: Bolle
+- Número de modelo: - ULTIPSI
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CHLVFWM/?tag=tolees-21)

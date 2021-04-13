@@ -28,9 +28,9 @@ Tienes [Rubies Buzz Lightyear Toy Story - Disfraz para niños  5-6 años  116cm 
 
 ℹ️:
 
-- Adecuado para las fiestas
-- Incluye traje completo impreso con alas u capucha
 - Fabricado de 100% poliéster
 - Edad mínima recomendada de 5 años
+- Adecuado para las fiestas
+- Incluye traje completo impreso con alas u capucha
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0030DWZFM/?tag=tolees-21)

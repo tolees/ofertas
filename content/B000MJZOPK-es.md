@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 58.86 % en Issey Miyake - L Eau D Issey - Agua De T'
-date: 2021-04-07 07:04:44
-image: 'https://m.media-amazon.com/images/I/21Q9al4AC7L._SL400_.jpg'
+date: 2021-04-13 18:30:32
+image: 'https://m.media-amazon.com/images/I/21Q9al4AC7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,21 +19,21 @@ flag: '🇪🇸'
 brand: 'Issey Miyake'
 buyurl: 'https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21'
 descuento: '58.86'
-average: '44.691421800948'
+average: '44.6690566037737'
 ---
 
 Tienes [Issey Miyake - L Eau D Issey - Agua De Tocador Vaporizador  100 ml](https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21) con un 58.86 % de descuento con precio de oferta de 39.95 EUR (original: 97.1 EUR) en el siguiente enlace!
 
-[![Issey Miyake - L Eau D Issey - Agua De T](https://m.media-amazon.com/images/I/21Q9al4AC7L._SL400_.jpg)](https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21)
+[![Issey Miyake - L Eau D Issey - Agua De T](https://m.media-amazon.com/images/I/21Q9al4AC7L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21)
 
 ℹ️:
 
-- Para el cabello: Normal
-- Producto pensado para mujeres
-- Tipo de piel: Normal
-- Nombre de la fragancia: Floral
-- Tipo de producto - agua de colonia
 - Ingredientes: Aqua, Alcohol Denat, Parfum
+- Nombre de la fragancia: Floral
+- Producto pensado para mujeres
+- Tipo de producto - agua de colonia
+- Tipo de piel: Normal
+- Para el cabello: Normal
 - Marca - issey miyake
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21)
