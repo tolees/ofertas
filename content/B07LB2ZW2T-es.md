@@ -28,10 +28,10 @@ Ahora mismo tienes [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en A
 
 🔎:
 
-- Carcasa
-- - Cristal: Cristal Mineral
-- - Material de la Carcasa: Acero inoxidable
-- - Forma de la Carcasa: Redondo
 - - Color de la caja: Plata
+- Carcasa
+- - Material de la Carcasa: Acero inoxidable
+- - Cristal: Cristal Mineral
+- - Forma de la Carcasa: Redondo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LB2ZW2T/?tag=tolees-21)

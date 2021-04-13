@@ -28,10 +28,10 @@ Está [Top Wing - Pista de misiones  Hasbro E5277EU4 ](https://www.amazon.es/dp/
 
 ℹ️:
 
-- El set tiene un mecanismo de desvío que permite a los pilotos cambiar de pista durante la carrera
-- El lanzador de dos vehículos situado al principio de la pista lanza los coches a la carrera
-- Colecciona todos los pilotos Top Wing (se venden por separado) y disfruta de unas divertidas aventuras en equipo
 - Incluye la figura del piloto Rod, set de juego y hoja de pegatinas
+- El lanzador de dos vehículos situado al principio de la pista lanza los coches a la carrera
 - El salto por la rampa lanza a los pilotos volando por el aire y a través de unos spinners con insignias en la meta en un final de carrera apasionante
+- Colecciona todos los pilotos Top Wing (se venden por separado) y disfruta de unas divertidas aventuras en equipo
+- El set tiene un mecanismo de desvío que permite a los pilotos cambiar de pista durante la carrera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KML46KL/?tag=tolees-21)

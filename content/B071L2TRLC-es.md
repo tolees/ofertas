@@ -28,10 +28,10 @@ Ahora mismo tienes [Educa Borrás- Bali la gatita  1 animalisto  26 Pescado inte
 
 🔎:
 
-- Contiene: 1 animalisto bali y su mochila, 30 tarjetas interactivas a doble cara, el cuento con la historia y folleto de instrucciones
-- El animalisto habla y formula preguntas y respondes insertando la carta interactiva
 - El gatito animalisto bali vive en mei y enseña inglés
-- Cada animalisto ofrece un tema educativo central y varios temas educativos transversales, una historia o cuento en formato libro y canciones
 - Diferentes modos de juego: modo exploración y modo preguntas
+- Cada animalisto ofrece un tema educativo central y varios temas educativos transversales, una historia o cuento en formato libro y canciones
+- El animalisto habla y formula preguntas y respondes insertando la carta interactiva
+- Contiene: 1 animalisto bali y su mochila, 30 tarjetas interactivas a doble cara, el cuento con la historia y folleto de instrucciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071L2TRLC/?tag=tolees-21)
