@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Compo Sana Universal de Calidad para mac al 38.12 % de descuento'
-date: 2021-03-27 18:41:05
-image: 'https://m.media-amazon.com/images/I/51KbPihPcfL._SL400_.jpg'
+date: 2021-04-13 17:30:26
+image: 'https://m.media-amazon.com/images/I/51KbPihPcfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'Compo'
 buyurl: 'https://www.amazon.es/dp/B00UCCLC1W/?tag=tolees-21'
 descuento: '38.12'
-average: '4.96768115942029'
+average: '4.96742857142857'
 ---
 
 Está [Compo Sana Universal de Calidad para macetas con 12 semanas de abono para Plantas de Interior  terraza y jardín  Substrato de Cultivo  10 L](https://www.amazon.es/dp/B00UCCLC1W/?tag=tolees-21) con 38.12 de descuento por 4.95 EUR (original: 8.0 EUR) en el siguiente enlace!
 
-[![Compo Sana Universal de Calidad para mac](https://m.media-amazon.com/images/I/51KbPihPcfL._SL400_.jpg)](https://www.amazon.es/dp/B00UCCLC1W/?tag=tolees-21)
+[![Compo Sana Universal de Calidad para mac](https://m.media-amazon.com/images/I/51KbPihPcfL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00UCCLC1W/?tag=tolees-21)
 
 ℹ️:
 
-- Fácil de utilizar: soltar ligeramente la tierra, llenar el macetero con tierra e insertar la planta incluyendo el cepellón, rellenar con tierra hasta 1 cm por debajo del borde, presionar ligeramente hacia abajo
-- Calidad Compo: materias primas seleccionadas según la receta original de Compo, olor agradable, llevamos a cabo controles regulares para certificar la calidad de Compo sana por organismos reconocidos siguiendo las normativas europeas y locales
 - Contenido: 1 x Compo sana substrato universal con 8 semanas de abono, bolsa de 10 l, valor del ph: 5.0 - 6.5
-- Substrato universal listo para usar con suministro de nutrientes para hasta 8 semanas, adecuado para plantas de interior, balcón y jardín, no apto para plantas pantanosas, semillas y orquídeas
+- Fácil de utilizar: soltar ligeramente la tierra, llenar el macetero con tierra e insertar la planta incluyendo el cepellón, rellenar con tierra hasta 1 cm por debajo del borde, presionar ligeramente hacia abajo
 - Crecimiento sano y vigoroso: óptimo suministro de nutrientes gracias al fertilizante activador, óptima absorción de agua mediante los granos de perlita y materias de calidad, fortalecimiento del crecimiento de las raíces gracias al activador agrosil
+- Substrato universal listo para usar con suministro de nutrientes para hasta 8 semanas, adecuado para plantas de interior, balcón y jardín, no apto para plantas pantanosas, semillas y orquídeas
+- Calidad Compo: materias primas seleccionadas según la receta original de Compo, olor agradable, llevamos a cabo controles regulares para certificar la calidad de Compo sana por organismos reconocidos siguiendo las normativas europeas y locales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00UCCLC1W/?tag=tolees-21)
