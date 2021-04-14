@@ -28,8 +28,8 @@ En este momento está [Trixie - Arppe 2092010009 Correa Flexi New Classic  3 m  
 
 🔎:
 
-- Perros
-- Correa extensible 3 m cinta de máxima calidad con asa clásico
 - Accesorios
+- Correa extensible 3 m cinta de máxima calidad con asa clásico
+- Perros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00O3B2DJ8/?tag=tolees-21)

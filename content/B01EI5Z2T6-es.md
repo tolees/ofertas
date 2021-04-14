@@ -29,9 +29,9 @@ Está [Corsair Vengeance LPX - Módulo de memoria XMP 2.0 de alto rendimiento de
 ℹ️:
 
 - Cada módulo Vengeance LPX se fabrica con un disipador de aluminio puro para una disipación térmica más rápida
-- Disponible en varios colores para combinarlo con tu placa base, tus componentes o simplemente tu estilo
-- Vengeane LPX está optimizada y es compatible con las últimas placas de la serie X99, 100 y 200, y ofrece frecuencias más altas, mayor ancho de banda y menor consumo
 - Compatibilidad con XMP 2.0 para un Overclocking automático y sin problemas
+- Vengeane LPX está optimizada y es compatible con las últimas placas de la serie X99, 100 y 200, y ofrece frecuencias más altas, mayor ancho de banda y menor consumo
+- Disponible en varios colores para combinarlo con tu placa base, tus componentes o simplemente tu estilo
 - La altura de los módulos Vengeance LPX está pensada incluso para espacios pequeños
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EI5Z2T6/?tag=tolees-21)
