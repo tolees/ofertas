@@ -28,8 +28,8 @@ Está [adidas U Path Run  Sneaker Hombre  Negro  Cblack/Cblack/Ftwwht Cblack/Cbl
 
 ℹ️:
 
-- Corte normal.
 - Tejer la parte superior
 - Cordones de zapatos
+- Corte normal.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NXVHZR6/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Science4you - Fábrica de Perfumes](https://www.amazon.es/dp/B00HAOC9HQ/
 
 🔎:
 
-- Juguete educativo con 13 experimentos para producir variados perfumes, sales de baño, un ambientador.
 - Edad 8+
-- Incluye libro educativo de 36 páginas
+- Juguete educativo con 13 experimentos para producir variados perfumes, sales de baño, un ambientador.
 - Regalo de más de 65€ en entradas para Museos de Ciencia
+- Incluye libro educativo de 36 páginas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HAOC9HQ/?tag=tolees-21)

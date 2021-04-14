@@ -28,10 +28,10 @@ Ahora mismo tienes [Western Digital WDBVXC0040HWT-EESN My Cloud Home Nube Person
 
 🔎:
 
-- Configuración sencilla y rápida desde el teléfono
+- Puerto USB para importar fotos, vídeos y documentos desde unidades flash USB y discos duros externos
+- Copia de seguridad automática de las fotos y los vídeos del teléfono
 - Compatible con Windows 7 (solo 64 bits) o posterior y Mac OS X v10.10 o posterior. Para móviles, compatible con iOS 9+ y Android 4.4+. Requiere un enrutador y conexión a internet
 - Acceso desde cualquier lugar con la aplicación para móviles o para ordenadores de My Cloud Home, o bien desde MyCloud.com
-- Copia de seguridad automática de las fotos y los vídeos del teléfono
-- Puerto USB para importar fotos, vídeos y documentos desde unidades flash USB y discos duros externos
+- Configuración sencilla y rápida desde el teléfono
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074DXNT7T/?tag=tolees-21)

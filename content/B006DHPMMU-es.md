@@ -28,8 +28,8 @@ Está [febi bilstein 05084 Partes De La Transmisión](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Diámetro exterior [mm]: 110
 - corona de agujeros - Ø [mm]: 78
+- Diámetro exterior [mm]: 110
 - Diámetro interior [mm]: 38
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006DHPMMU/?tag=tolees-21)

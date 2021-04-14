@@ -29,8 +29,8 @@ Está [Martina Home Tunez Funda de Sillón  Tela  Visón  Orejero](https://www.a
 ℹ️:
 
 - Lavado: lavar a máquina máximo (30ºc)
-- Tejido elástico de alta calidad; contiene gomas de sujeción
-- Contiene: 1 funda sillón relax modelo aiza
 - Composición del tejido: 50% poliéster, 45% algodón, 5% elastómero; calidad: jacquard
+- Contiene: 1 funda sillón relax modelo aiza
+- Tejido elástico de alta calidad; contiene gomas de sujeción
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B6KXBRC/?tag=tolees-21)

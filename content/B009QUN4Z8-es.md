@@ -28,8 +28,8 @@ En este momento está [Belkin F5L135CW90W - Cargador para portátil  90 W  Negro
 
 🔎:
 
-- Función de alimentar y cargar el portátil
 - Tiene una potencia de 90 W
+- Función de alimentar y cargar el portátil
 - Compatible con los portátiles de 17"
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B009QUN4Z8/?tag=tolees-21)
