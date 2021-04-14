@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 41.27 % en Figuras Ocultas [DVD]'
-date: 2021-04-06 09:24:32
-image: 'https://m.media-amazon.com/images/I/51NX3mCUYIL._SL400_.jpg'
+date: 2021-04-14 00:13:10
+image: 'https://m.media-amazon.com/images/I/51NX3mCUYIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,7 +24,7 @@ average: '5.99'
 
 Tienes [Figuras Ocultas [DVD]](https://www.amazon.es/dp/B01MRADRT5/?tag=tolees-21) con un 41.27 % de descuento con precio de oferta de 5.99 EUR (original: 10.2 EUR) en el siguiente enlace!
 
-[![Figuras Ocultas [DVD]](https://m.media-amazon.com/images/I/51NX3mCUYIL._SL400_.jpg)](https://www.amazon.es/dp/B01MRADRT5/?tag=tolees-21)
+[![Figuras Ocultas [DVD]](https://m.media-amazon.com/images/I/51NX3mCUYIL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01MRADRT5/?tag=tolees-21)
 
 ℹ️:
 

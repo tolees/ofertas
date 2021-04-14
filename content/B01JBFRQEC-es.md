@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Eduardo Manostijeras [DVD] al 41.27 % de descuento'
-date: 2021-04-11 17:32:27
-image: 'https://m.media-amazon.com/images/I/61xJVHjpsLL._SL400_.jpg'
+date: 2021-04-14 00:25:55
+image: 'https://m.media-amazon.com/images/I/61xJVHjpsLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,7 +24,7 @@ average: '5.99'
 
 Está [Eduardo Manostijeras [DVD]](https://www.amazon.es/dp/B01JBFRQEC/?tag=tolees-21) con 41.27 de descuento por 5.99 EUR (original: 10.2 EUR) en el siguiente enlace!
 
-[![Eduardo Manostijeras [DVD]](https://m.media-amazon.com/images/I/61xJVHjpsLL._SL400_.jpg)](https://www.amazon.es/dp/B01JBFRQEC/?tag=tolees-21)
+[![Eduardo Manostijeras [DVD]](https://m.media-amazon.com/images/I/61xJVHjpsLL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01JBFRQEC/?tag=tolees-21)
 
 ℹ️:
 

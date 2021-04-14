@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Eduardo Manostijeras Blu-Ray [Blu-ray] al 39.88 % de rebaja'
-date: 2021-04-11 16:36:18
-image: 'https://m.media-amazon.com/images/I/519q4xgH07L._SL400_.jpg'
+date: 2021-04-14 00:17:59
+image: 'https://m.media-amazon.com/images/I/519q4xgH07L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,7 +24,7 @@ average: '7.99'
 
 Tienes [Eduardo Manostijeras Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B01JBFRQM4/?tag=tolees-21) con precio final de  7.99 EUR (original: 13.29 EUR) (39.88 %  de rebaja) aqui!
 
-[![Eduardo Manostijeras Blu-Ray [Blu-ray]](https://m.media-amazon.com/images/I/519q4xgH07L._SL400_.jpg)](https://www.amazon.es/dp/B01JBFRQM4/?tag=tolees-21)
+[![Eduardo Manostijeras Blu-Ray [Blu-ray]](https://m.media-amazon.com/images/I/519q4xgH07L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01JBFRQM4/?tag=tolees-21)
 
 🔎:
 

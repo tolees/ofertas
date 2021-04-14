@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 53.24 % en Dewalt DT20700-QZ Plato de lijado con ve'
-date: 2021-04-12 12:13:25
-image: 'https://m.media-amazon.com/images/I/41SeWxTiCwL._SL400_.jpg'
+date: 2021-04-14 01:00:15
+image: 'https://m.media-amazon.com/images/I/41SeWxTiCwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,7 +24,7 @@ average: '8.88'
 
 Tienes [Dewalt DT20700-QZ Plato de lijado con velcro](https://www.amazon.es/dp/B00FRJJFHI/?tag=tolees-21) con un 53.24 % de descuento con precio de oferta de 8.88 EUR (original: 18.99 EUR) en el siguiente enlace!
 
-[![Dewalt DT20700-QZ Plato de lijado con ve](https://m.media-amazon.com/images/I/41SeWxTiCwL._SL400_.jpg)](https://www.amazon.es/dp/B00FRJJFHI/?tag=tolees-21)
+[![Dewalt DT20700-QZ Plato de lijado con ve](https://m.media-amazon.com/images/I/41SeWxTiCwL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00FRJJFHI/?tag=tolees-21)
 
 ℹ️:
 

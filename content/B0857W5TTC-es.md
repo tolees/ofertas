@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 59.95 % en Disney - Onward [DVD]'
-date: 2021-04-08 23:59:16
-image: 'https://m.media-amazon.com/images/I/51zvpmlaFgL._SL400_.jpg'
+date: 2021-04-14 00:09:00
+image: 'https://m.media-amazon.com/images/I/51zvpmlaFgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B0857W5TTC/?tag=tolees-21'
 descuento: '59.95'
-average: '9.15839285714284'
+average: '9.13789473684209'
 ---
 
 Tienes [Disney - Onward [DVD]](https://www.amazon.es/dp/B0857W5TTC/?tag=tolees-21) con un 59.95 % de descuento con precio de oferta de 7.99 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![Disney - Onward [DVD]](https://m.media-amazon.com/images/I/51zvpmlaFgL._SL400_.jpg)](https://www.amazon.es/dp/B0857W5TTC/?tag=tolees-21)
+[![Disney - Onward [DVD]](https://m.media-amazon.com/images/I/51zvpmlaFgL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0857W5TTC/?tag=tolees-21)
 
 ℹ️:
 
