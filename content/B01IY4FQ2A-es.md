@@ -28,8 +28,8 @@ Ahora mismo tienes [Reebok Exofit Lo Clean Logo INT  Sneaker Hombre  White Royal
 
 🔎:
 
-- Parte superior de cuero suave de grano entero para una sujeción y comodidad óptimas
 - Diseño de media altura con correa de tobillo para mayor estabilidad
+- Parte superior de cuero suave de grano entero para una sujeción y comodidad óptimas
 - Entresuela de espuma EVA para una óptima absorción de impactos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01IY4FQ2A/?tag=tolees-21)

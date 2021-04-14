@@ -29,7 +29,7 @@ Está [adidas Tiro 19 JSY W Camiseta de Manga Corta  Mujer  Bold Blue/White  L](
 ℹ️:
 
 - Adidas logo on the front
-- Slim fit
 - Climalite anti-humidity fabric
+- Slim fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JZN1KPB/?tag=tolees-21)

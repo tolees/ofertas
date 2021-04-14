@@ -28,10 +28,10 @@ Ahora mismo tienes [Litta Peh - CREMA HIDRATANTE Facial para Mujer con Alta Conc
 
 🔎:
 
-- CREMA FACIAL MUJER QUE ATENÚA LAS ARRUGAS Y REAFIRMA LA PIEL DEL ROSTRO. Combina las propiedades nutritivas y antioxidantes del aceite de semilla de uva y del aceite esencial de palmarosa, con la acción reafirmante del hidrolato de rosas y antiarrugas del ácido hialurónico puro. El ácido hialurónico de bajo peso molecular penetra en las arrugas, rellenándolas y aportando una hidratación intensa e inmediata.
 - EL 99% DE LOS INGREDIENTES SON DE ORIGEN NATURAL Y EL 85% SON ECOLÓGICOS. Puedes aplicarlo junto al Contorno de Ojos "EYE CONTOUR" y el Serum Facial "THE SERUM". Sin Parabenes ni etanolaminas ni derivados del petróleo. No testado en animales. Cuenta con la certificación de BioVidaSana/ Bio.Inspecta, Ecoplus y PETA. HECHO EN ESPAÑA.
 - AÑADE LA CREMA FACIAL ANTI-AGE YOUTH CREAM A TU RUTINA DE BELLEZA DIURNA Y NOCTURNA. Aplicar tras la limpieza diaria sobre cara y cuello masajeando de forma ascendente evitando la zona de los ojos. Se puede aplicar de día o de noche. Recomendamos utilizarla junto a la crema de contorno de ojos EYE CONTOUR para obtener un efecto integral
 - HIDRATA Y NUTRE LA PIEL, manteniendo un contenido óptimo en factor natural de hidratación, además de regular la secreción sebácea. APTO PARA TODO PIEL GRASA, MIXTA Y SECA.
+- CREMA FACIAL MUJER QUE ATENÚA LAS ARRUGAS Y REAFIRMA LA PIEL DEL ROSTRO. Combina las propiedades nutritivas y antioxidantes del aceite de semilla de uva y del aceite esencial de palmarosa, con la acción reafirmante del hidrolato de rosas y antiarrugas del ácido hialurónico puro. El ácido hialurónico de bajo peso molecular penetra en las arrugas, rellenándolas y aportando una hidratación intensa e inmediata.
 - AROMATERAPÉUTICO, SIN QUÍMICOS, SIN ADITIVOS. Este producto está aromatizado con aceites esenciales naturales. Esto le confiere un aroma a las especias y hierbas naturales que contiene, aportándote además sus beneficios como la relajación, la concentración y sus propiedades antibacterianas. Estos aceites esenciales puros sustituyen a aquellas sustancias sintéticas y representan la personalidad del producto, evocando sensaciones y trasladándote al instante a un entorno natural y primitivo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YNMJSNC/?tag=tolees-21)

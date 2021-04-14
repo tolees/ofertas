@@ -28,14 +28,14 @@ Ahora mismo tienes [Casio Multi-cuadrante GA-110RG-1A](https://www.amazon.es/dp/
 
 🔎:
 
-- LCD y Negro
-- Cuarzo
-- Deportivo
-- Tipo de calendario: fecha-mes
-- Anchura de la correa: 22 milímetros
 - Analógico - Digital en Resina para Hombre
-- Diámetro de la caja: 51 milímetros
-- WR 200mt
 - Tipo de cierre: hebilla
+- Anchura de la correa: 22 milímetros
+- Tipo de calendario: fecha-mes
+- LCD y Negro
+- Deportivo
+- WR 200mt
+- Cuarzo
+- Diámetro de la caja: 51 milímetros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B009GFX7VO/?tag=tolees-21)

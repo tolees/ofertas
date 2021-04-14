@@ -28,10 +28,10 @@ Está [Eastpak Tranverz L Maleta  79 Cm  121 L  Gris  Sunday Grey ](https://www.
 
 ℹ️:
 
+- Fabricada con 60 % nylon y 40 % poliéster
 - Maleta de gran tamaño para viajes largos con compartimentos de doble nivel para todos tus regalos
 - El asa telescópica resulta adecuada para recorrer las calles de las ciudades concurridas
-- Altura: 79 cm, Ancho: 40 cm, Fondo: 33 cm
-- Fabricada con 60 % nylon y 40 % poliéster
 - Asas acolchadas en la parte superior y lateral para colocarla en la cinta transportadora o en el maletero con facilidad
+- Altura: 79 cm, Ancho: 40 cm, Fondo: 33 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0771JPT1D/?tag=tolees-21)

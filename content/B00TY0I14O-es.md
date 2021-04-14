@@ -28,9 +28,9 @@ Tienes [Onitsuka Tiger Mexico 66  Zapatillas Unisex  Blanco  Birch/India Ink/Lat
 
 🔎:
 
-- Adecuado para llevar en la ciudad, en el trabajar y para jugar
 - Refuerzo de tacón para óptima estabilidad
 - Hecho de cuero y material de gamuza
+- Adecuado para llevar en la ciudad, en el trabajar y para jugar
 - Cosido con las rayas del Tigre de Onitsuka
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00TY0I14O/?tag=tolees-21)
