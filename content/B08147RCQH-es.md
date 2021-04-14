@@ -28,9 +28,9 @@ Ahora mismo tienes [Speedo Hydropulse Mirror Gafas de natación  Unisex-Adult  A
 
 🔎:
 
-- Cristales de espejo para reducir los brillos y reflejos; ideales para competir y para nadar al aire libre
-- La doble tira de silicona para la cabeza permite un ajuste seguro y fácil
-- Lentes de amplio alcance para una visión periférica mejorada
 - Sus bordes supersuaves proporcionan un ajuste acolchado y cómodo
+- La doble tira de silicona para la cabeza permite un ajuste seguro y fácil
+- Cristales de espejo para reducir los brillos y reflejos; ideales para competir y para nadar al aire libre
+- Lentes de amplio alcance para una visión periférica mejorada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08147RCQH/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [M3 MEDIATRES ESTUDIO - Gantz: la Saga Completa](https://w
 
 🔎:
 
-- Disco 1 GANTZ
-- *EXTRAS* Libreto Exclusivo con textos escritos por Mike Hostench (Sub-director del Festival de Sitges)
 - Disco 2 GANTZ:PERFECT ANSWER
+- *EXTRAS* Libreto Exclusivo con textos escritos por Mike Hostench (Sub-director del Festival de Sitges)
+- Disco 1 GANTZ
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B012D63OLA/?tag=tolees-21)
