@@ -29,7 +29,7 @@ En este momento está [Ricola Caramelo duro - 12 de 70 gr.  Total 840 gr. ](http
 🔎:
 
 - Elaborado con productos naturales
-- Producto Para El Cuidado Y Bienestar De Tu Cuerpo
 - Producto de la marca RICOLA
+- Producto Para El Cuidado Y Bienestar De Tu Cuerpo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01EHSMT3G/?tag=tolees-21)

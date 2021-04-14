@@ -29,8 +29,8 @@ En este momento está [Tetra ReptoFrog Granules 100 ml - Alimento completo para 
 🔎:
 
 - Para pequeños anfibios
-- Alimento completo para ranas de agua y triones
 - Rico en proteínas, para un crecimiento óptimo granulado fácil de tragar para pequeños anfibios
+- Alimento completo para ranas de agua y triones
 - Granulado de fácil ingesta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004XZF3GE/?tag=tolees-21)
