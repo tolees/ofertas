@@ -28,9 +28,9 @@ En este momento está [HP ScanJet Pro 2000 s2 - Escáner con alimentador de hoja
 
 🔎:
 
-- Escáner con escaneo a doble cara y un alimentador de hojas de 50 páginas
-- Ciclo diario de trabajo de hasta 4000 páginas
 - Conectividad estándar USB 3.0
+- Ciclo diario de trabajo de hasta 4000 páginas
+- Escáner con escaneo a doble cara y un alimentador de hojas de 50 páginas
 - Escanéa con velocidades de hasta 35 ppm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B085VQJR93/?tag=tolees-21)
