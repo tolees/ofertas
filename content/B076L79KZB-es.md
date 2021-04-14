@@ -28,9 +28,9 @@ Tienes [Plantronics RIG 100HX Monoaural Diadema Negro  Gris auricular con micró
 
 🔎:
 
-- Auriculares Gaming, potencia 40 W.
-- Tipo de diseño abierto y máximo alcance para Xbox. Audio de rendimiento dual.
-- Respuesta de frecuencia del micrófono: 100 Hz-10 kHz.
 - Sensibilidad del micrófono: -45 dBV / Pa.
+- Auriculares Gaming, potencia 40 W.
+- Respuesta de frecuencia del micrófono: 100 Hz-10 kHz.
+- Tipo de diseño abierto y máximo alcance para Xbox. Audio de rendimiento dual.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076L79KZB/?tag=tolees-21)
