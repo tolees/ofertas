@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Nike Team Hustle D 9  PS   Basketball Sh al 51.34 % de descuento'
-date: 2021-04-12 15:38:48
-image: 'https://m.media-amazon.com/images/I/31GASSpdCJL._SL400_.jpg'
+date: 2021-04-14 06:43:00
+image: 'https://m.media-amazon.com/images/I/31GASSpdCJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07HHXMC57/?tag=tolees-21'
 descuento: '51.34'
-average: '28.45'
+average: '26.95'
 ---
 
 Ahora mismo tienes [Nike Team Hustle D 9  PS   Basketball Shoe  Blanca  28 EU](https://www.amazon.es/dp/B07HHXMC57/?tag=tolees-21) a 22.45 EUR (original: 46.14 EUR) (51.34 %  de descuento) en el siguiente enlace!
 
-[![Nike Team Hustle D 9  PS   Basketball Sh](https://m.media-amazon.com/images/I/31GASSpdCJL._SL400_.jpg)](https://www.amazon.es/dp/B07HHXMC57/?tag=tolees-21)
+[![Nike Team Hustle D 9  PS   Basketball Sh](https://m.media-amazon.com/images/I/31GASSpdCJL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07HHXMC57/?tag=tolees-21)
 
 🔎:
 
