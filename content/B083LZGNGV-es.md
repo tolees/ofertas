@@ -28,7 +28,7 @@ En este momento está [Samsung - Funda Clear View para Galaxy S20+  negro](https
 
 🔎:
 
-- Con tapa
 - Samsung funda clear view para galaxy s20+, negro
+- Con tapa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083LZGNGV/?tag=tolees-21)

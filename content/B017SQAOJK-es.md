@@ -28,9 +28,9 @@ Ahora mismo tienes [MAKITA HS7601 HS7601-Sierra Circular 1.200W 190mm  1.2 W  23
 
 🔎:
 
-- Tiene una palanca de acción simple para el ajuste rápido de la profundidad de corte
 - Viene con un agarre ergonómico suave, tiene un puerto de escape de polvo trasero y una placa de base de aluminio
-- Es una herramienta compacta y ligera que proporciona 1200 vatios de entrada continua
 - Con una guía angular trasera para un ajuste suave y preciso del ángulo del bisel
+- Tiene una palanca de acción simple para el ajuste rápido de la profundidad de corte
+- Es una herramienta compacta y ligera que proporciona 1200 vatios de entrada continua
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B017SQAOJK/?tag=tolees-21)
