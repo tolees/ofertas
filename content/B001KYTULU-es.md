@@ -29,9 +29,9 @@ Está [Rimmel London Soft Khol Kajal Eyeliner Pencil Liners Tono 061 Jet Black  
 ℹ️:
 
 - Testada dermatológica y oftalmológicamente
-- Color intenso, fórmula blanda y suave para look ahumado
 - Look de ojos ahumados fácil con Soft Kohl
 - Perfilador de Ojos Kajal para el contorno interno y externo del ojo
+- Color intenso, fórmula blanda y suave para look ahumado
 - Fórmula hasta 12 horas de duración
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001KYTULU/?tag=tolees-21)
