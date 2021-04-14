@@ -28,12 +28,12 @@ En este momento está [Havaianas Top Mix  Chanclas para Mujer  Rosa  Hollywood R
 
 🔎:
 
-- Altura del tacón: 1 centímetros
-- Anchura del zapato: Normal
-- Material exterior: Caucho
-- Cierre: Sin cordones
-- Revestimiento: Sin forro
 - Tipo de tacón: Plano
+- Material exterior: Caucho
+- Anchura del zapato: Normal
+- Revestimiento: Sin forro
+- Altura del tacón: 1 centímetros
 - Material de la suela: Goma
+- Cierre: Sin cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SP3SKBV/?tag=tolees-21)
