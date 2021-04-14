@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Trust Gaming - Trust GXT 164 Sikanda - R al 48.01 % de descuento'
-date: 2021-04-12 16:34:00
-image: 'https://m.media-amazon.com/images/I/41T56HdFykL._SL400_.jpg'
+date: 2021-04-14 12:00:57
+image: 'https://m.media-amazon.com/images/I/41T56HdFykL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Trust Gaming'
 buyurl: 'https://www.amazon.es/dp/B06Y1K7PYW/?tag=tolees-21'
 descuento: '48.01'
-average: '27.045625'
+average: '26.9835294117647'
 ---
 
 Ahora mismo tienes [Trust Gaming - Trust GXT 164 Sikanda - Ratón Gaming con 12 botones programables  color negro](https://www.amazon.es/dp/B06Y1K7PYW/?tag=tolees-21) a 25.99 EUR (original: 49.99 EUR) (48.01 %  de descuento) en el siguiente enlace!
 
-[![Trust Gaming - Trust GXT 164 Sikanda - R](https://m.media-amazon.com/images/I/41T56HdFykL._SL400_.jpg)](https://www.amazon.es/dp/B06Y1K7PYW/?tag=tolees-21)
+[![Trust Gaming - Trust GXT 164 Sikanda - R](https://m.media-amazon.com/images/I/41T56HdFykL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B06Y1K7PYW/?tag=tolees-21)
 
 🔎:
 

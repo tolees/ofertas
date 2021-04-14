@@ -28,11 +28,11 @@ Ahora mismo tienes [G-STAR RAW D-STAQ 5-Pocket Slim  Jeans  Azul  medium indigo 
 
 🔎:
 
-- Slim
-- 91% Algodón, 8% Elastomultiéster, 1% Elastano
 - Normal
-- lavar a máquina - caliente (mayor de 30 °)
-- Cierre: Botones
 - Usado
+- Cierre: Botones
+- Slim
+- lavar a máquina - caliente (mayor de 30 °)
+- 91% Algodón, 8% Elastomultiéster, 1% Elastano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072JHPRP7/?tag=tolees-21)

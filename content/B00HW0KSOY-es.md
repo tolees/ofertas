@@ -28,10 +28,10 @@ Tienes [Uni-Ball 153528624 - Bolígrafos de punta fina](https://www.amazon.es/dp
 
 ℹ️:
 
-- Moderno eye designer con diseño de caña de color
 - Utiliza la tinta uni super ink de uni-ball, que no se atenúa, es resistente al agua y evita la manipulación
 - Punta de 0,7 mm
-- El exclusivo sistema «uni-flow» garantiza un flujo constante y continuo de la tinta hasta la última gota, para una experiencia de escritura perfecta
 - Estuche de 8 unidades de tinta negra, azul, verde, azul claro, rosa, roja, violeta y granate
+- El exclusivo sistema «uni-flow» garantiza un flujo constante y continuo de la tinta hasta la última gota, para una experiencia de escritura perfecta
+- Moderno eye designer con diseño de caña de color
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HW0KSOY/?tag=tolees-21)

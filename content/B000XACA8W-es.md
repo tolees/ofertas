@@ -29,8 +29,8 @@ En este momento está [Pienso prémium Pro Energy de Tetra](https://www.amazon.e
 🔎:
 
 - facil de usar
-- comida seca
 - multicolor
 - Alimento superior para peces ornamentales.
+- comida seca
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000XACA8W/?tag=tolees-21)

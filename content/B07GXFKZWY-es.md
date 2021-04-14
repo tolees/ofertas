@@ -28,10 +28,10 @@ Ahora mismo tienes [NYX Professional Makeup Base de maquillaje Can t Stop Won t 
 
 🔎:
 
-- Práctico dosificador, fórmula cremosa que se extiende con facilidad, aplicar en todo el rostro y extender dando suaves toquecitos, añadir más producto según la cobertura deseada
-- Maquillaje vegano: base líquida con cobertura total mate y control de brillos durante todo el día, no transfiere
 - Adecuada para cualquier tono y matiz de piel, apta para pieles normales, grasas y mixtas
-- Contenido: 1x nyx professional makeup base de maquillaje cant stop wont stop 24h full coverage foundation, tono: deep walnut, 30 ml
+- Práctico dosificador, fórmula cremosa que se extiende con facilidad, aplicar en todo el rostro y extender dando suaves toquecitos, añadir más producto según la cobertura deseada
 - Fórmula no comedogénica sin ingredientes que provoquen la aparición de imperfecciones, fórmula vegana, resistente al agua para mayor duración
+- Maquillaje vegano: base líquida con cobertura total mate y control de brillos durante todo el día, no transfiere
+- Contenido: 1x nyx professional makeup base de maquillaje cant stop wont stop 24h full coverage foundation, tono: deep walnut, 30 ml
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GXFKZWY/?tag=tolees-21)

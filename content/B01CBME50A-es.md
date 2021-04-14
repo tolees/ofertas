@@ -28,8 +28,8 @@ Tienes [Funko - POP! Vinilo - Suicide Squad: Boomerang](https://www.amazon.es/dp
 
 ℹ️:
 
-- Cada personaje mide alrededor de 9 cm de altura
-- Viene embalado en una caja con ventanas ilustrada
 - Material 100% vinilo
+- Viene embalado en una caja con ventanas ilustrada
+- Cada personaje mide alrededor de 9 cm de altura
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01CBME50A/?tag=tolees-21)
