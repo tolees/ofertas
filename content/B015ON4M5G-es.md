@@ -28,10 +28,10 @@ Tienes [Matrix - Champú So Silver Total Results  Neutralizador de Tonos Amarill
 
 ℹ️:
 
-- Champú neutralizador que corrige y reduce los tonos amarillos no deseados en cabellos rubios y deposita tonos violetas para neutralizar los tonos anaranjados e iluminar las mechas
-- Disfuta de la gama Matrix, comprometidos con los salones de belleza y a sus estilistas para que consigan un cambio positivo en sus clientes
 - Aplica el champú So Silver de forma diaria una pequeña cantidad con el pelo húmedo y realizando un suave masaje hasta crear espuma para después aclarar con abundante agua
+- Disfuta de la gama Matrix, comprometidos con los salones de belleza y a sus estilistas para que consigan un cambio positivo en sus clientes
 - Formulado con pigmentos violetas para neutralizar tonalidades indeseadas, nutre el pelo seco y quebradizo dejando el cabello con un brillo resplandeciente
 - Conseguirás un pelo visiblemente más sano y bonito durante más tiempo; su color violeta neutraliza el tono amarillo consiguiendo un brillo plateado óptimo
+- Champú neutralizador que corrige y reduce los tonos amarillos no deseados en cabellos rubios y deposita tonos violetas para neutralizar los tonos anaranjados e iluminar las mechas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B015ON4M5G/?tag=tolees-21)

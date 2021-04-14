@@ -28,10 +28,10 @@ Tienes [Under Armour Playoff 2.0 Polo de Golf  Hombre  Negro  Black/Pitch Gray-0
 
 🔎:
 
-- Material y forma: Polo de hombre transpirable Under Armour Playoff 20, forma: ancha, material: 96% de poliéster y 4% de elastano
-- Corte ancho: Este polo transpirable tiene un corte ancho que aporta una gran comodidad a la vez que ofrece una gran libertad de movimiento
 - Polo elástico: El tejido elástico multidireccional de calidad de esta prenda de ropa deportiva masculina ofrece una gran movilidad
+- Material y forma: Polo de hombre transpirable Under Armour Playoff 20, forma: ancha, material: 96% de poliéster y 4% de elastano
 - Ligera y transpirable: Este polo de manga corta es óptimo para jugar al golf porque es transpirable y muy cómodo, y se seca rápido
+- Corte ancho: Este polo transpirable tiene un corte ancho que aporta una gran comodidad a la vez que ofrece una gran libertad de movimiento
 - Camisa ultraligera: El corte ancho y el material ultraligero de esta camisa transpirable para hombre aseguran una gran comodidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CZJRXP4/?tag=tolees-21)
