@@ -28,7 +28,7 @@ Tienes [Esprit 998ee1i803 Chaqueta Punto  Verde  Khaki Green 5 354   XXXL para M
 
 ℹ️:
 
-- Un básico perfecto para la oficina y los momentos de ocio
 - Cárdigan de punto con textura de canalé en estilo moderno sin cierre
+- Un básico perfecto para la oficina y los momentos de ocio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Y87Z5BH/?tag=tolees-21)

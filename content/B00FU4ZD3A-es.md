@@ -28,7 +28,7 @@ En este momento está [TOMMY HILFIGER TH MEN QUARTER 2P  Calcetines Hombre  pack
 
 🔎:
 
-- Puntera terminada a mano para evitar molestias.
 - Algodón peinado para proporcionar una sensación de suavidad.
+- Puntera terminada a mano para evitar molestias.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00FU4ZD3A/?tag=tolees-21)

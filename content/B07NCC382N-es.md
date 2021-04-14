@@ -28,9 +28,9 @@ Ahora mismo tienes [Pepe Jeans Art T-Shirt  Azul  Navy 595   17-18 Anos para Ni�
 
 🔎:
 
-- Fit regular
-- Camiseta manga corta tejido suave
 - Logo estampado con purpurina
 - Cuello redondo
+- Camiseta manga corta tejido suave
+- Fit regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NCC382N/?tag=tolees-21)

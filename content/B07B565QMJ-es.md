@@ -29,7 +29,7 @@ Tienes [ICA DH1030S Caseta de Madera con Techo Impermeable](https://www.amazon.e
 ℹ️:
 
 - Largo: 72 cm
-- Producto de alta calidad
 - Patas regulables para nivelar en el suelo
+- Producto de alta calidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07B565QMJ/?tag=tolees-21)

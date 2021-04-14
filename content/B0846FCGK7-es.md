@@ -28,8 +28,8 @@ Ahora mismo tienes [Pepe Jeans Owen Camiseta  Gris  988   4 años para Niños](h
 
 🔎:
 
-- Camiseta para niños
 - Con estampado frontal y trasero
+- Camiseta para niños
 - Fabricada en tejido suave
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0846FCGK7/?tag=tolees-21)
