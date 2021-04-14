@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Bourjois Brow Palette Kit para cejas Ton al 71.40 % de rebaja'
-date: 2021-04-08 18:22:57
-image: 'https://m.media-amazon.com/images/I/41b1j35SvTL._SL400_.jpg'
+date: 2021-04-14 15:05:00
+image: 'https://m.media-amazon.com/images/I/41b1j35SvTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'Bourjois'
 buyurl: 'https://www.amazon.es/dp/B06XDMF69D/?tag=tolees-21'
 descuento: '71.40'
-average: '4.23333333333333'
+average: '4.15625'
 ---
 
 Tienes [Bourjois Brow Palette Kit para cejas Tono 1 Blonde - 4.5 gr](https://www.amazon.es/dp/B06XDMF69D/?tag=tolees-21) con precio final de  3.0 EUR (original: 10.49 EUR) (71.40 %  de rebaja) aqui!
 
-[![Bourjois Brow Palette Kit para cejas Ton](https://m.media-amazon.com/images/I/41b1j35SvTL._SL400_.jpg)](https://www.amazon.es/dp/B06XDMF69D/?tag=tolees-21)
+[![Bourjois Brow Palette Kit para cejas Ton](https://m.media-amazon.com/images/I/41b1j35SvTL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B06XDMF69D/?tag=tolees-21)
 
 🔎:
 
 - Hasta 16 horas de duración sin retoques
 - Define y esculpe con la cera, rellena e intensifca con el polvo y amplia la mirada con el iluminador
-- Aplicador de doble punta con una brocha y un cepillo
-- El kit perfecto para unas cejas naturales
 - Paleta de cejas 3 en 1 para un diseño y definición fácil de tus cejas
+- El kit perfecto para unas cejas naturales
+- Aplicador de doble punta con una brocha y un cepillo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XDMF69D/?tag=tolees-21)

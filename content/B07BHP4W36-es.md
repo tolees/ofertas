@@ -28,9 +28,9 @@ Está [Soundcore Altavoz Bluetooth portátil  Altavoz inalámbrico Anker Flare  
 
 ℹ️:
 
+- A PRUEBA DE FIESTAS EN LA PISCINA: no importa dónde quieras escuchar música, el altavoz Flare está preparado. La clasificación IP67 supersegura lo protege frente al polvo, los derrames, la lluvia e incluso la inmersión completa en el agua. * No recomendamos las fiestas bajo el agua sin aparatos de respiración.
 - POTENCIA POR DUPLICADO: conecta 2 altavoces Flare a través de un único dispositivo. Pásate al estéreo para una experiencia de sonido expansiva que hará que todos os sintáis como si estuvierais en el centro del escenario, o activa el modo Boost y duplica la potencia de luz y sonido.
 - SONIDO ENVOLVENTE: los dos diafragmas dispuestos en forma consecutiva combinados con conductores de graves pasivos generan un intenso sonido de 360°. Asegúrate de que todos los asistentes disfruten de una experiencia similar a un concierto a medida que la música suena, las luces se iluminan y la fiesta continúa.
-- A PRUEBA DE FIESTAS EN LA PISCINA: no importa dónde quieras escuchar música, el altavoz Flare está preparado. La clasificación IP67 supersegura lo protege frente al polvo, los derrames, la lluvia e incluso la inmersión completa en el agua. * No recomendamos las fiestas bajo el agua sin aparatos de respiración.
 - ARMONÍA DE LUZ Y SONIDO: disfruta de un halo de brillo, pulsos y fases LED que destellan al ritmo de la música para ofrecer una experiencia audiovisual totalmente inmersiva. Los 5 modos personalizables crean el ambiente perfecto para cualquier evento o situación.
 - GRAVES IMPRESIONANTES: con la tecnología BassUP, un procesador digital de señales personalizado primero analiza y después optimiza las frecuencias de graves en tiempo real. A continuación, la señal de audio se transforma en un sonido intensificado a través de los revolucionarios diafragmas de neodimio. Solo pulsa el botón BassUp y prepárate para descubrir lo que “potencia” significa realmente.
 

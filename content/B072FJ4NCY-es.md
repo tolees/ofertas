@@ -28,8 +28,8 @@ Tienes [Game of Thrones Figura de Vinilo Cersei Lannister  colección Dorbz  Fun
 
 🔎:
 
+- Viene embalado en una caja con ventanas ilustrada
 - Material 100% vinilo
 - Cada personaje mide alrededor de 9 cm de altura
-- Viene embalado en una caja con ventanas ilustrada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072FJ4NCY/?tag=tolees-21)
