@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Disney - Drive [Blu-ray] al 52.67 % de descuento'
-date: 2021-04-08 01:00:33
-image: 'https://m.media-amazon.com/images/I/51yxv7flfdL._SL400_.jpg'
+date: 2021-04-14 10:45:32
+image: 'https://m.media-amazon.com/images/I/51yxv7flfdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B007VAAHPA/?tag=tolees-21'
 descuento: '52.67'
-average: '10.815'
+average: '10.25'
 ---
 
 Ahora mismo tienes [Disney - Drive [Blu-ray]](https://www.amazon.es/dp/B007VAAHPA/?tag=tolees-21) a 7.99 EUR (original: 16.88 EUR) (52.67 %  de descuento) en el siguiente enlace!
 
-[![Disney - Drive [Blu-ray]](https://m.media-amazon.com/images/I/51yxv7flfdL._SL400_.jpg)](https://www.amazon.es/dp/B007VAAHPA/?tag=tolees-21)
+[![Disney - Drive [Blu-ray]](https://m.media-amazon.com/images/I/51yxv7flfdL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B007VAAHPA/?tag=tolees-21)
 
 🔎:
 
