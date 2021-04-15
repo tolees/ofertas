@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Bellota 7230042S3 Botas  piel   42 al 35.24 % de descuento'
-date: 2020-09-01 07:45:45
-image: 'https://m.media-amazon.com/images/I/511B+xAeFYL._SL400_.jpg'
+title: 'Bellota 7230042S3 Botas  Piel  42  Negro al 41.34 % de descuento'
+date: 2021-04-15 07:51:33
+image: 'https://m.media-amazon.com/images/I/51d687Lw6LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01GLYF1MA-es Bellota 7230042S3 Botas piel 42'
+slug: 'B01GLYF1MA-es Bellota 7230042S3 Botas Piel 42 Negro'
 sku: 'B01GLYF1MA-es'
-tags: [  ]
-actualPrice: 22.95 EUR
+tags: [ 'Botas de industria y construcción para hombre','Calzado de industria y construcción para hombre','Calzado de trabajo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','bellota', ]
+actualPrice: 20.79 EUR
 currency: EUR
-price: 22.95
+price: 20.79
 comparePrice: 35.44 EUR
-prodname: 'Bellota 7230042S3 Botas  piel   42'
+prodname: 'Bellota 7230042S3 Botas  Piel  42  Negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Bellota'
 buyurl: 'https://www.amazon.es/dp/B01GLYF1MA/?tag=tolees-21'
-descuento: '35.24'
-average: '24.4925'
+descuento: '41.34'
+average: '24.0811111111111'
 ---
 
-Está [Bellota 7230042S3 Botas  piel   42](https://www.amazon.es/dp/B01GLYF1MA/?tag=tolees-21) con 35.24 de descuento por 22.95 EUR (original: 35.44 EUR) en el siguiente enlace!
+Está [Bellota 7230042S3 Botas  Piel  42  Negro](https://www.amazon.es/dp/B01GLYF1MA/?tag=tolees-21) con 41.34 de descuento por 20.79 EUR (original: 35.44 EUR) en el siguiente enlace!
 
-[![Bellota 7230042S3 Botas  piel   42](https://m.media-amazon.com/images/I/511B+xAeFYL._SL400_.jpg)](https://www.amazon.es/dp/B01GLYF1MA/?tag=tolees-21)
+[![Bellota 7230042S3 Botas  Piel  42  Negro](https://m.media-amazon.com/images/I/51d687Lw6LL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01GLYF1MA/?tag=tolees-21)
 
 ℹ️:
 
+- Suela doble densidad en poliuretano, suela exterior resistente a la abrasión, y entresuela de menor densidad para mayor confort
+- Puntera de seguridad metálica y plantilla antiperforación en acero inoxidable
+- Certificado según EN ISO 20345
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GLYF1MA/?tag=tolees-21)
