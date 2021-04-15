@@ -29,7 +29,7 @@ Ahora mismo tienes [Salomon XA Pro 3D V8 W  Zapatillas De Trail Running Y Sander
 🔎:
 
 - Xa PRO 3D V8 GTX W
-- Color: Navy Blazer/Wine Tasting/Patina Green
 - Salomon
+- Color: Navy Blazer/Wine Tasting/Patina Green
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WCQ51W2/?tag=tolees-21)

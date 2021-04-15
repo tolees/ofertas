@@ -29,9 +29,9 @@ Tienes [Beurer MP62 - Set manicura pedicura Profesional  luz LED  10 accesorios 
 🔎:
 
 - La superficie del mango con agarre suave permite que el dispositivo se apoye cómodamente en la mano, y la luz LED permite condiciones de iluminación óptimas
-- Set de manicura profesional para el cuidado de las uñas con diez accesorios de alta calidad fabricados en zafiro y fieltro, con un estuche incluido para guardar todos los accesorios
-- Para acortar, limar, dar forma y pulir las uñas, así como para eliminar callosidades, cutículas y durezas; el dispositivo y los accesorios correspondientes son adecuados para diabéticos
-- El potente set de manicura (5,400 rpm) tiene un ajuste de velocidad gradual, así como rotación derecha/izquierda y una tapa protectora de polvo; no apto para uñas de gel, artificiales o Shellac
 - Incluido en la entrega: unidad de manicura y pedicura MP 62, 10 accesorios de alta calidad de zafiro y fieltro, 10 accesorios desechables de papel de lija, adaptador, estuche de almacenamiento
+- Para acortar, limar, dar forma y pulir las uñas, así como para eliminar callosidades, cutículas y durezas; el dispositivo y los accesorios correspondientes son adecuados para diabéticos
+- Set de manicura profesional para el cuidado de las uñas con diez accesorios de alta calidad fabricados en zafiro y fieltro, con un estuche incluido para guardar todos los accesorios
+- El potente set de manicura (5,400 rpm) tiene un ajuste de velocidad gradual, así como rotación derecha/izquierda y una tapa protectora de polvo; no apto para uñas de gel, artificiales o Shellac
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00N9BOOZ4/?tag=tolees-21)
