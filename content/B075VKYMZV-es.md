@@ -28,10 +28,10 @@ Tienes [oasser compresor de Aire portatil Negro y Rojo  Negro ](https://www.amaz
 
 ℹ️:
 
+- 2.【Pistola Inflador Eléctrico】Puede preestablecer la presión a la que su neumático necesita y verificar la presión de los neumáticos en cualquier momento. La presión máxima de inflado es 130psi.
 - 1.【Bomba Inflable Rápida Portátil】: El paquete de Oasser compresor eléctrico portátil contiene una batería de alta capacidad de 2200mAh Inflado rápido de neumáticos, balones, juguetes inflables, etc. La batería se puede desmontar. Nota：No valido para neumáticos de camiones.
-- 4.【Medidor de Presión Digital LCD con Retroiluminación】Pantalla LCD digital con retroiluminación, fácil de leer incluso de noche.
 - 5.【Garantía】Tecnología exclusiva de Oasser, funcionamiento perfecto, excelente servicio post-venta. Garantía de 24 meses. Si tiene algún problema, póngase en contacto con nosotros le atenderemos en menos de 24 horas (días laborales).
 - 3.【Más Funciones】La Bomba eléctrica tiene tres unidades de medición: PSI, BAR, Kg/cm ². Con una base adicional para conectar a vehículo con cable a la entrada de 12V, bolsa de transporte, manguito de conexión de 35cm a rosca y guantes de protección. Excelente rendimiento y durabilidad.
-- 2.【Pistola Inflador Eléctrico】Puede preestablecer la presión a la que su neumático necesita y verificar la presión de los neumáticos en cualquier momento. La presión máxima de inflado es 130psi.
+- 4.【Medidor de Presión Digital LCD con Retroiluminación】Pantalla LCD digital con retroiluminación, fácil de leer incluso de noche.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075VKYMZV/?tag=tolees-21)
