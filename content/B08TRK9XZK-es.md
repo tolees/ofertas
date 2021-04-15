@@ -28,10 +28,10 @@ Tienes [Yingce Mascarillas FFP2 Homologadas 50 unidades Ultra Protección Superi
 
 🔎:
 
-- ✅Máscarilla FFP2 NR con especial diseño orientado a dar una resistencia respiratoria mínima al poder exhalar de forma totalmente natural, reduciendo al mínimo la humedad y el calor en el rostro.
-- ✅Capacidad de filtración superior al 98% 12 horas de utilización máxima. desechable y no reutilizable. la mascarilla está conformada por el cuerpo, los elásticos regulables y la pinza nasal.
 - ✅Cómodo y seguro patrón de ajuste 3D obteniendo para adulto y chico o chica comodidad y seguridad con su pinza o clip nasal ajustable forrado dentro de la mascarilla FFP2. Clip nasal de metal suave para adptarse al contorno de la nariz la cara y las orejas sin molestias.
 - ✅Certificado CE- Máscarillas FFP2 homologadas cumplen la norma europea EN149- 2001 y también la A1-2009 FFP2 NR de protección, clasificación CE, obtiene cumplimiento total de los requisitos de protección FFP2 en esta norma.
+- ✅Capacidad de filtración superior al 98% 12 horas de utilización máxima. desechable y no reutilizable. la mascarilla está conformada por el cuerpo, los elásticos regulables y la pinza nasal.
 - ✅Algodón e hipoalergénicas sin irritaciones en piel resistentes a la deformación
+- ✅Máscarilla FFP2 NR con especial diseño orientado a dar una resistencia respiratoria mínima al poder exhalar de forma totalmente natural, reduciendo al mínimo la humedad y el calor en el rostro.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08TRK9XZK/?tag=tolees-21)

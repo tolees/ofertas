@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Adidas RUNFALCON C  Zapatillas de Runnin al 65.92 % de descuento'
-date: 2021-04-07 15:09:17
-image: 'https://m.media-amazon.com/images/I/41s6hflDsEL._SL400_.jpg'
+date: 2021-04-15 10:01:54
+image: 'https://m.media-amazon.com/images/I/41s6hflDsEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,7 +24,7 @@ average: '11.91'
 
 Ahora mismo tienes [Adidas RUNFALCON C  Zapatillas de Running Unisex niño  Negro  Negbás/Ftwbla/Negbás 000   31 EU](https://www.amazon.es/dp/B07V6ZB3J2/?tag=tolees-21) a 11.91 EUR (original: 34.95 EUR) (65.92 %  de descuento) en el siguiente enlace!
 
-[![Adidas RUNFALCON C  Zapatillas de Runnin](https://m.media-amazon.com/images/I/41s6hflDsEL._SL400_.jpg)](https://www.amazon.es/dp/B07V6ZB3J2/?tag=tolees-21)
+[![Adidas RUNFALCON C  Zapatillas de Runnin](https://m.media-amazon.com/images/I/41s6hflDsEL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07V6ZB3J2/?tag=tolees-21)
 
 🔎:
 
