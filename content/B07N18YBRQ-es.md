@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Lynn Mid Waist Skinny Vaquero con un 73.86 % de descuento'
-date: 2021-04-14 07:58:03
+date: 2021-04-15 16:38:16
 image: 'https://m.media-amazon.com/images/I/41WZlHq2JBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Lynn Mid Waist Skinny Vaqueros  Azul  Antic Bl
 
 🔎:
 
-- Cierre: Boton y cierre
 - Usado
+- Skinny
+- Cierre: Boton y cierre
 - Lavar a máquina - agua fría (30 ° max)
 - 92% Algodón, 7% Poliéster, 1% Elastano
-- Skinny
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N18YBRQ/?tag=tolees-21)
