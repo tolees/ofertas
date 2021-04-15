@@ -28,10 +28,10 @@ En este momento está [Funko - Figura Pop Keychain: Star Wars - Dar TH Vader  53
 
 🔎:
 
+- POP! Llavero de Funko
 - Descubre todos los demás productos Funko dedicados a esta colección
-- Cada llavero mide aproximadamente 5 cm de alto y viene empaquetado en una caja de exhibición de ventana
 - Funko POP! es el juguete del año 2018 Peoples Choice
 - Colecciónalos todos
-- POP! Llavero de Funko
+- Cada llavero mide aproximadamente 5 cm de alto y viene empaquetado en una caja de exhibición de ventana
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RZCDQS8/?tag=tolees-21)
