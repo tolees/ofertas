@@ -28,12 +28,12 @@ En este momento está [Jata GR1100 Grill de Asar Doble Línea Profesional con Pl
 
 🔎:
 
-- potencia: la potencia es de 2.000 w, una potencia alta que permite cocinar todo tipo de alimentos.
-- cuerpo: el cuerpo es de aluminio fundido y sus asas de acero inoxidable.
+- posiciones: la placa superior tiene 6 posiciones diferentes para cerrarla dependiendo de los alimentos que se cocine. por ello es especial para hamburguesas, entrecot, sándwiches o pescados.
 - placas: este grill cuenta con placas mixtas de 27,5 x 24 cm
-- Componentes incluidos: No aplica
 - : todos los productos jata cuentan con tres años de
 - recubrimiento: las placas llevan un recubrimiento antiadherente que está libre de pfoa.
-- posiciones: la placa superior tiene 6 posiciones diferentes para cerrarla dependiendo de los alimentos que se cocine. por ello es especial para hamburguesas, entrecot, sándwiches o pescados.
+- cuerpo: el cuerpo es de aluminio fundido y sus asas de acero inoxidable.
+- Componentes incluidos: No aplica
+- potencia: la potencia es de 2.000 w, una potencia alta que permite cocinar todo tipo de alimentos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0055ZPI8O/?tag=tolees-21)

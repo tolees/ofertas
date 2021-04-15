@@ -28,10 +28,10 @@ Ahora mismo tienes [EACHINE EC02 Mini Coche de Control Remoto  Rotación de 360 
 
 🔎:
 
+- 【A prueba de golpes y súper todoterreno】 El diseño de neumático duradero antichoque se adapta a interiores y exteriores; equipado con ruedas flexibles, permiten alta velocidad y mejor flexibilidad; No importa la tierra, la playa de arena, los humedales, los pastizales pueden ser fácilmente descubiertos, ¡sin miedo!
+- 【Funciones completas】 lados dobles que corren, hacia adelante, hacia atrás, gire a la izquierda, gire a la derecha, giros extremos de 360 ​​grados, giros y volteos tanto en tierra como en agua. Sistema de suspensión independiente de cuatro ruedas y diferencial triaxial para una A superior y control.
+- 【Velocidad rápida y control antiinterferencias】 velocidad máxima 12 KM / H, puede realizar acciones rápidas de giro y rotación; Frecuencia de control sin interferencias de 2.4GHz, que permite que varios autos compitan juntos al mismo tiempo y lugar; Más de 60 metros de control remoto.
 - 【Material de la era de la ingeniería】 El plástico ABS Airlines y la pintura en aerosol ambiental internacional tóxica e insípida avanzada, que hacen un acabado superficial brillante y fresco; nunca se desvanecen y súper inastillables. ¡Diseño de precisión a prueba de agua! Con interruptor de drenaje y orificio, para proteger el accesorio interior del agua.
 - 【Servicio al cliente de calidad】 No dude en contactarnos si tiene algún problema durante el uso. Correo electrónico: Amazon@eachine.com
-- 【A prueba de golpes y súper todoterreno】 El diseño de neumático duradero antichoque se adapta a interiores y exteriores; equipado con ruedas flexibles, permiten alta velocidad y mejor flexibilidad; No importa la tierra, la playa de arena, los humedales, los pastizales pueden ser fácilmente descubiertos, ¡sin miedo!
-- 【Velocidad rápida y control antiinterferencias】 velocidad máxima 12 KM / H, puede realizar acciones rápidas de giro y rotación; Frecuencia de control sin interferencias de 2.4GHz, que permite que varios autos compitan juntos al mismo tiempo y lugar; Más de 60 metros de control remoto.
-- 【Funciones completas】 lados dobles que corren, hacia adelante, hacia atrás, gire a la izquierda, gire a la derecha, giros extremos de 360 ​​grados, giros y volteos tanto en tierra como en agua. Sistema de suspensión independiente de cuatro ruedas y diferencial triaxial para una A superior y control.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W8M7JBR/?tag=tolees-21)
