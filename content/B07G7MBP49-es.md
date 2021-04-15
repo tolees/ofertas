@@ -29,14 +29,14 @@ Tienes [Xiaomi Mi Band 3 - Pulsera de actividad  Pantalla 0.78   full OLED táct
 🔎:
 
 - Esferas intercambiables, visualización de notificaciones y cronómetro
-- Notificaciones en la pantalla con vibración: mensajes de apps, llamadas, SMS, objetivos de entrenamiento, alertas de actividad
+- Corriente: Máximo de 250 mA
 - Recuento automático de pasos, desbloqueo del Smartphone y recordatorio de eventos
 - Muestra el nivel de batería, pasos, calorías, distancia, hora y estadísticas del sueño
-- Análisis del sueño y datos históricos disponibles en la aplicación Mi Fit App
-- Pantalla de 0.78, full OLED táctil. Batería de hasta 20 días (110 mAh). Peso 20gr
 - No incluye GPS integrado
-- Sumergible 50 metros (5ATM), Bluetooth 4.2 BLE, compatible con Android 4.4/iOS 9.0 y superiores
 - Alarma con vibrador y modo “no molestar”
-- Corriente: Máximo de 250 mA
+- Pantalla de 0.78, full OLED táctil. Batería de hasta 20 días (110 mAh). Peso 20gr
+- Análisis del sueño y datos históricos disponibles en la aplicación Mi Fit App
+- Sumergible 50 metros (5ATM), Bluetooth 4.2 BLE, compatible con Android 4.4/iOS 9.0 y superiores
+- Notificaciones en la pantalla con vibración: mensajes de apps, llamadas, SMS, objetivos de entrenamiento, alertas de actividad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07G7MBP49/?tag=tolees-21)

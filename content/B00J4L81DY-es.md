@@ -28,9 +28,9 @@ Está [SILBOR 200/2 Cinta Señalización  Rojo y Blanco  70 mm x 200 m](https://
 
 ℹ️:
 
-- facil de usar
 - Ancho 70 mm.
-- rojo y blanco
 - Longitud 200mts.
+- facil de usar
+- rojo y blanco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00J4L81DY/?tag=tolees-21)
