@@ -28,9 +28,9 @@ Tienes [Pandora Abalorios Mujer plata - 791573CZ](https://www.amazon.es/dp/B00WT
 
 ℹ️:
 
+- Plata de ley 925.
 - Distribuidor de Pandora autorizado.
 - Circonita cúbica.
 - Embalaje de la firma Pandora.
-- Plata de ley 925.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00WTJWY90/?tag=tolees-21)

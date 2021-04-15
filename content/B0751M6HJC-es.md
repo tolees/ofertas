@@ -28,8 +28,8 @@ Está [Fila Sachet Negro](https://www.amazon.es/dp/B0751M6HJC/?tag=tolees-21) co
 
 ℹ️:
 
+- Una talla para todos, Unisex
 - Gran compartimento principal
 - Impresión del logotipo de la FILA
-- Una talla para todos, Unisex
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0751M6HJC/?tag=tolees-21)
