@@ -28,8 +28,8 @@ Está [Bellota 7230042S3 Botas  Piel  42  Negro](https://www.amazon.es/dp/B01GLY
 
 ℹ️:
 
+- Certificado según EN ISO 20345
 - Suela doble densidad en poliuretano, suela exterior resistente a la abrasión, y entresuela de menor densidad para mayor confort
 - Puntera de seguridad metálica y plantilla antiperforación en acero inoxidable
-- Certificado según EN ISO 20345
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GLYF1MA/?tag=tolees-21)

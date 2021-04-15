@@ -1,35 +1,36 @@
 ---
 layout: post
-title: 'Trust Gaming GXT 707R Resto - Silla para al 26.09 % de rebaja'
-date: 2021-03-13 11:57:00
-image: 'https://m.media-amazon.com/images/I/41564ln5+lL._SL400_.jpg'
+title: 'Trust Gaming GXT 707R Resto - Silla para al 35.65 % de rebaja'
+date: 2021-04-15 09:10:23
+image: 'https://m.media-amazon.com/images/I/41564ln5+lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FWGHXQ-es Trust Gaming GXT 707R Resto - Silla para Gaming Color Rojo'
 sku: 'B079FWGHXQ-es'
-actualPrice: 169.99 EUR
+tags: [ 'Hogar y cocina','Muebles de hogar','Muebles de oficina en casa','Sillas de escritorio de oficina','Sillas y sofás de oficina','trust gaming', ]
+actualPrice: 147.99 EUR
 currency: EUR
-price: 169.99
+price: 147.99
 comparePrice: 229.99 EUR
 prodname: 'Trust Gaming GXT 707R Resto - Silla para Gaming  Color Rojo'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Trust Gaming'
 buyurl: 'https://www.amazon.es/dp/B079FWGHXQ/?tag=tolees-21'
-descuento: '26.09'
-average: '164.323846153846'
+descuento: '35.65'
+average: '164.01125'
 ---
 
-Tienes [Trust Gaming GXT 707R Resto - Silla para Gaming  Color Rojo](https://www.amazon.es/dp/B079FWGHXQ/?tag=tolees-21) con precio final de  169.99 EUR (original: 229.99 EUR) (26.09 %  de rebaja) aqui!
+Tienes [Trust Gaming GXT 707R Resto - Silla para Gaming  Color Rojo](https://www.amazon.es/dp/B079FWGHXQ/?tag=tolees-21) con precio final de  147.99 EUR (original: 229.99 EUR) (35.65 %  de rebaja) aqui!
 
-[![Trust Gaming GXT 707R Resto - Silla para](https://m.media-amazon.com/images/I/41564ln5+lL._SL400_.jpg)](https://www.amazon.es/dp/B079FWGHXQ/?tag=tolees-21)
+[![Trust Gaming GXT 707R Resto - Silla para](https://m.media-amazon.com/images/I/41564ln5+lL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B079FWGHXQ/?tag=tolees-21)
 
 🔎:
 
+- Duradero, ruedas dobles que giran con suavidad
+- Asiento reclinable con posibilidades de bloqueo. Incluye cojines extraíbles y ajustables para la zona lumbar y cervical
 - Cilindro elevador de gas de Clase 4 para ajustar la altura. Respaldo ajustable en 90˚
 - Bastidor metálico sólido y robusto
-- Asiento reclinable con posibilidades de bloqueo. Incluye cojines extraíbles y ajustables para la zona lumbar y cervical
-- Duradero, ruedas dobles que giran con suavidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079FWGHXQ/?tag=tolees-21)
