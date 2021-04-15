@@ -28,8 +28,8 @@ Tienes [NGS - MONRAY PASSENGER - Maletín 40 6 cm  16"   765 g  Negro](https://w
 
 🔎:
 
-- Incluye correa de transporte desmontable
-- Compartimentos internos y externos
 - Apto para portátiles hasta 16 pulgadas
+- Compartimentos internos y externos
+- Incluye correa de transporte desmontable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01BJ0LV9S/?tag=tolees-21)
