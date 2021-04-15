@@ -28,9 +28,9 @@ Tienes [Winsor & Newton Sketcher Cotman Caja plástica de acuarela  12 medio God
 
 🔎:
 
+- Viene con un pincel
+- Marca: Winsor & Newton
 - Tiene 12 colores
 - No conviene para niños menores de 3 años
-- Marca: Winsor & Newton
-- Viene con un pincel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00004THXI/?tag=tolees-21)

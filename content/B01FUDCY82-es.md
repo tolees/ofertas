@@ -28,11 +28,11 @@ Ahora mismo tienes [Famosa Games - Boom Famosa Junior  Juego de Mesa  700013150 
 
 🔎:
 
-- Si dispones de ambas versiones (Boom! Adultos y Boom! Junior) podrás enfrentar a adultos contra niños respondiendo cada equipo a su nivel de conocimiento
-- Sólo el ganador podrá enfrentarse al reto de la fase final: La Bomba Oro
 - Boom, el juego del concurso en el que cada pregunta es una bomba y cada respuesta un cable
-- Versión española
 - En Boom, participan dos equipos enfrentándose ante las Bombas Negras y la Bomba Plata
+- Sólo el ganador podrá enfrentarse al reto de la fase final: La Bomba Oro
 - El juego oficial del concurso de televisión "Boom"
+- Si dispones de ambas versiones (Boom! Adultos y Boom! Junior) podrás enfrentar a adultos contra niños respondiendo cada equipo a su nivel de conocimiento
+- Versión española
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01FUDCY82/?tag=tolees-21)
