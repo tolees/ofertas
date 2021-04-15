@@ -28,10 +28,10 @@ Ahora mismo tienes [Tiras de LED Bluetooth  ALED LIGHT 5050 RGB 2x5 metros Luces
 
 🔎:
 
-- ღ Sincronización con el ritmo de la música: El efecto de luz de la tira de LED impermeable se puede cambiar con el ritmo de la música o el sonido cuando la tira de LED de 10M se conecta a su teléfono inteligente a través de Bluetooth.
 - ღ Millones de colores: cuando usa su teléfono inteligente para controlar esta cinta LED bluetooth, puede encontrar el color que desee con esta tira de luces LED RGB de 10M. La cinta adhesiva 3M hace que esta tira de LED autoadhesiva sea más adhesiva y más fácil de instalar.
 - ღ Tira de LED impermeable y exterior: esta tira de LED está cubierta por EPOXY. Puede instalarlo en el exterior, en el baño, en la cocina, etc. No se preocupe por las salpicaduras de agua o el mal tiempo, como la lluvia o la nieve. Una nota: la tira LED es impermeable, pero la fuente de alimentación no es impermeable.
-- ღ Sistema de control dual: Este 2x5M RGB LED se puede controlar a través de Bluetooth en el teléfono inteligente, así como un control remoto IR de 24 teclas, ya que el receptor incluido se puede usar como un receptor Bluetooth o IR.
 - ღ Tecnología Bluetooth: tira de LED brillante controlada por tecnología bluetooth. Es compatible con todos los tipos de teléfonos inteligentes (Android y IOS). Aplicación fácil de usar en el teléfono inteligente para cambiar los colores y efectos de luz. La distancia a controlar alcanza los 10 metros.
+- ღ Sistema de control dual: Este 2x5M RGB LED se puede controlar a través de Bluetooth en el teléfono inteligente, así como un control remoto IR de 24 teclas, ya que el receptor incluido se puede usar como un receptor Bluetooth o IR.
+- ღ Sincronización con el ritmo de la música: El efecto de luz de la tira de LED impermeable se puede cambiar con el ritmo de la música o el sonido cuando la tira de LED de 10M se conecta a su teléfono inteligente a través de Bluetooth.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H2RYBSW/?tag=tolees-21)
