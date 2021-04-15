@@ -28,10 +28,10 @@ Ahora mismo tienes [Orient Reloj Analógico para Mujer de Cuarzo con Correa en C
 
 🔎:
 
-- Cuarzo
-- WR 50mt
-- Analógico en Caucho para Mujer
 - Casual
 - Negro y Negro
+- WR 50mt
+- Analógico en Caucho para Mujer
+- Cuarzo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HKKGJPH/?tag=tolees-21)
