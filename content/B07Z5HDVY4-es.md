@@ -28,7 +28,7 @@ Tienes [Salomon Alphacross Blast  Zapatillas De Trail Running Cómodas Y Fuerte 
 
 🔎:
 
-- Número: 42
 - Alphacross Blast Black/White/Black
+- Número: 42
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z5HDVY4/?tag=tolees-21)

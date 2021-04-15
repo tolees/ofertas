@@ -28,10 +28,10 @@ Tienes [Falomir- Atalaya Juego de Mesa  Multicolor  1 ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Un juego ideal para trabajar la psicomotricidad fina
 - Tira el dado para saber cuantas piezas tienes que coger
-- Controla bien tu pulso si no quieres tirar la torre
-- Fijate bien en las piezas que coges o la torre caerá
 - Número de jugadores: 2+
+- Controla bien tu pulso si no quieres tirar la torre
+- Un juego ideal para trabajar la psicomotricidad fina
+- Fijate bien en las piezas que coges o la torre caerá
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07P5ZJZPP/?tag=tolees-21)
