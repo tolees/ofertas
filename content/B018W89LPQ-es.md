@@ -28,7 +28,7 @@ Tienes [Superga 2790-COTROPEW  Zapatillas Mujer  Azul  Marineblau   40 EU  6.5 U
 
 🔎:
 
-- Azul
 - adulto
+- Azul
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B018W89LPQ/?tag=tolees-21)

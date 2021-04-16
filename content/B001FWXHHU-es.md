@@ -28,9 +28,9 @@ Está [Issey Miyake L Eau D Issey pour Homme Intense - Agua De Tocador Vaporizad
 
 ℹ️:
 
-- Este producto está indicado para hSombras.
 - Las notas olfativas principales de este producto son especiado, cítrico y oriental.
 - Contiene 125 ml.
 - De la marca Issey Miyake.
+- Este producto está indicado para hSombras.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001FWXHHU/?tag=tolees-21)
