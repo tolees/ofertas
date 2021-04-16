@@ -28,8 +28,8 @@ En este momento está [Crocs Crocband II Sandal Kids  Sandalia con Pulsera Unise
 
 🔎:
 
-- Todo el confort y amortiguación
 - Una sandalia para seguir el ritmo del día a día y la marcha de los niños
+- Todo el confort y amortiguación
 - Cierre ajustable para que sea fácil de poner y quitar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K8XTZGV/?tag=tolees-21)

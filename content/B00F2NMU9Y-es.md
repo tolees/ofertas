@@ -28,10 +28,10 @@ Tienes [Bellota 8011-D Martillo  Bola mecánica Mango de  Madera Gramos  metal  
 
 🔎:
 
-- Cabeza de acero forjado de máxima calidad con temple y durezas homogéneas, controladas en las zonas de golpeo
-- Tratamiento 3+: no se rompe, no se deforma y no se desgasta
 - Fiabilidad y seguridad en el uso
 - Perfecta unión cabeza mango con cuña de fibra de vidrio patentada
 - Mango de , madera de haya , ideal para herramientas de golpeo
+- Tratamiento 3+: no se rompe, no se deforma y no se desgasta
+- Cabeza de acero forjado de máxima calidad con temple y durezas homogéneas, controladas en las zonas de golpeo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00F2NMU9Y/?tag=tolees-21)

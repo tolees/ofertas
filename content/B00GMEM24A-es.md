@@ -29,7 +29,7 @@ Tienes [Belkin F8J054btBLK - Cargador para coche 12 W  para smartphones y tablet
 🔎:
 
 - Tiene un diseño elegante y compacto
-- Cargador doméstico con puerto USB 2.0
 - Compatible con la mayoría de Smartphones, tabletas y reproductores multimedia
+- Cargador doméstico con puerto USB 2.0
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00GMEM24A/?tag=tolees-21)

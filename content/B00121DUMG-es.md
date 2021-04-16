@@ -28,8 +28,8 @@ Está [Brother TN2110 - Cartucho de tóner  color negro](https://www.amazon.es/d
 
 ℹ️:
 
-- Consumible Brother original, cartucho de tóner TN2110, color negro
-- Duración estimada: impresiones 1500 páginas de acuerdo con ISO/IEC 19752, cantidad 1
 - Alta calidad Brother original cartucho de tóner
+- Duración estimada: impresiones 1500 páginas de acuerdo con ISO/IEC 19752, cantidad 1
+- Consumible Brother original, cartucho de tóner TN2110, color negro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00121DUMG/?tag=tolees-21)
