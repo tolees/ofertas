@@ -28,8 +28,8 @@ Tienes [Joma Open II Falda Señora  Mujer  Royal  2XS](https://www.amazon.es/dp/
 
 🔎:
 
-- Falda con pantalón interior
-- Cintura elástica ajustable con cordón
 - Fabricada en poliéster 195 gr
+- Cintura elástica ajustable con cordón
+- Falda con pantalón interior
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P6GTZD9/?tag=tolees-21)
