@@ -28,9 +28,9 @@ Tienes [Funko- Pop Animation My Hero Academia-Best Jeanist Figura coleccionable 
 
 🔎:
 
-- El producto se envía en una caja ilustrada con ventana
 - Figura de vinilo de la marca Funko que forma parte de la colección My Hero Academia
 - Recomendado para niños a partir de 3 años
+- El producto se envía en una caja ilustrada con ventana
 - El artículo es adecuado para todos los fanáticos de Best Jeanist
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083MDR6J4/?tag=tolees-21)

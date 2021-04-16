@@ -28,9 +28,9 @@ En este momento está [Funko 50154 POP Games: Pop Tart- POP 5](https://www.amazo
 
 🔎:
 
+- La figura mide 9 cm y viene en una caja de exhibición de ventana
 - Mira las otras figuras de Funko dedicadas a esta colección
 - Colecciónalos todos
-- La figura mide 9 cm y viene en una caja de exhibición de ventana
 - POP vinilo de Funko
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KGRXCDT/?tag=tolees-21)

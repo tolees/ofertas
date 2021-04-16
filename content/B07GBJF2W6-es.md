@@ -29,9 +29,9 @@ Está [Bethesda - Rage 2 Collectors Edition](https://www.amazon.es/dp/B07GBJF2W6
 ℹ️:
 
 - Genere: sparatutto
-- Piattaforma: Playstation 4
-- Versione lingua: italiano
-- Classificazione PEGI: 18
 - Entrate in un mondo distopico in cui società, legge e ordine non esistono
+- Piattaforma: Playstation 4
+- Classificazione PEGI: 18
+- Versione lingua: italiano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GBJF2W6/?tag=tolees-21)
