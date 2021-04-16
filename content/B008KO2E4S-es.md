@@ -28,10 +28,10 @@ Tienes [Monix Vitro Noir – Cafetera Italiana de aluminio  capacidad 6 tazas  a
 
 🔎:
 
-- Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 - Exterior resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
-- Apta para todo tipo de encimeras, excepto inducción
+- Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 - Capacidad para 6 tazas de café - 300 ml
+- Apta para todo tipo de encimeras, excepto inducción
 - Acabado negro con efecto mate
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B008KO2E4S/?tag=tolees-21)
