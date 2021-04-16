@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Dolce & Gabbana The One Eau de Parfum  7 al 55.69 % de descuento'
-date: 2021-04-09 16:20:52
-image: 'https://m.media-amazon.com/images/I/21XU4ATS9wL._SL400_.jpg'
+date: 2021-04-16 08:02:42
+image: 'https://m.media-amazon.com/images/I/21XU4ATS9wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Dolce & Gabbana'
 buyurl: 'https://www.amazon.es/dp/B0012RURYO/?tag=tolees-21'
 descuento: '55.69'
-average: '60.2437499999999'
+average: '60.1438356164383'
 ---
 
 Ahora mismo tienes [Dolce & Gabbana The One Eau de Parfum  75 ml](https://www.amazon.es/dp/B0012RURYO/?tag=tolees-21) a 52.95 EUR (original: 119.5 EUR) (55.69 %  de descuento) en el siguiente enlace!
 
-[![Dolce & Gabbana The One Eau de Parfum  7](https://m.media-amazon.com/images/I/21XU4ATS9wL._SL400_.jpg)](https://www.amazon.es/dp/B0012RURYO/?tag=tolees-21)
+[![Dolce & Gabbana The One Eau de Parfum  7](https://m.media-amazon.com/images/I/21XU4ATS9wL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0012RURYO/?tag=tolees-21)
 
 🔎:
 
