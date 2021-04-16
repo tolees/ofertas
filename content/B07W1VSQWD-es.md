@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'Tommy Hilfiger TJM Chest Logo tee Camise al 31.07 % de descuento'
-date: 2021-03-12 13:55:32
-image: 'https://m.media-amazon.com/images/I/41QQrhN6AqL._SL400_.jpg'
+title: 'Tommy Jeans TJM Chest Logo tee Camiseta  al 36.24 % de descuento'
+date: 2021-04-16 18:30:29
+image: 'https://m.media-amazon.com/images/I/41QQrhN6AqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B07W1VSQWD-es Tommy Hilfiger TJM Chest Logo tee Camiseta Blanco White...'
+author: 'tole.es'
+slug: 'B07W1VSQWD-es Tommy Jeans TJM Chest Logo tee Camiseta Blanco White...'
 sku: 'B07W1VSQWD-es'
-actualPrice: 19.99 EUR
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','tommy jeans', ]
+actualPrice: 18.49 EUR
 currency: EUR
-price: 19.99
+price: 18.49
 comparePrice: 29.0 EUR
-prodname: 'Tommy Hilfiger TJM Chest Logo tee Camiseta  Blanco  White   Medium para Hombre'
+prodname: 'Tommy Jeans TJM Chest Logo tee Camiseta  Blanco  White   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Tommy Hilfiger'
+brand: 'Tommy Jeans'
 buyurl: 'https://www.amazon.es/dp/B07W1VSQWD/?tag=tolees-21'
-descuento: '31.07'
-average: '19.24'
+descuento: '36.24'
+average: '19.5809090909091'
 ---
 
-Está [Tommy Hilfiger TJM Chest Logo tee Camiseta  Blanco  White   Medium para Hombre](https://www.amazon.es/dp/B07W1VSQWD/?tag=tolees-21) con 31.07 de descuento por 19.99 EUR (original: 29.0 EUR) en el siguiente enlace!
+Está [Tommy Jeans TJM Chest Logo tee Camiseta  Blanco  White   Medium para Hombre](https://www.amazon.es/dp/B07W1VSQWD/?tag=tolees-21) con 36.24 de descuento por 18.49 EUR (original: 29.0 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger TJM Chest Logo tee Camise](https://m.media-amazon.com/images/I/41QQrhN6AqL._SL400_.jpg)](https://www.amazon.es/dp/B07W1VSQWD/?tag=tolees-21)
+[![Tommy Jeans TJM Chest Logo tee Camiseta ](https://m.media-amazon.com/images/I/41QQrhN6AqL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07W1VSQWD/?tag=tolees-21)
 
 ℹ️:
 
-- Corte entallado
 - Algodón Oxford elástico
-- Cinta interior del cuello
-- Bandera de Tommy Hilfiger bordada en el pecho
+- Corte entallado
 - Cuello abotonado
+- Bandera de Tommy Hilfiger bordada en el pecho
+- Cinta distintiva en el interior del cuello
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W1VSQWD/?tag=tolees-21)
