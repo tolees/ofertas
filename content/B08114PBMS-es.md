@@ -28,10 +28,10 @@ Tienes [Qii lu Amortiguador trasero  2 piezas 125mm 750LBS Amortiguador trasero 
 
 🔎:
 
-- ★ Aplicación ---- Accesorio práctico para ATV Go-Kart Scooter 49cc. Puede contactarnos si tiene alguna pregunta.
-- ★ Función principal ---- Utilice este amortiguador para brindarle una mejor calidad de conducción. Haga que su viaje sea más suave
-- ★ Alto rendimiento ---- Muelle de alta calidad, reduce efectivamente la vibración, accesorio práctico para su vehículo.
-- ★ Material excelente: carcasa y resorte de metal de calidad, lo que hace que tenga una larga vida útil y mejore en gran medida la resistencia a los golpes del amortiguador.
 - ★ Reemplazo perfecto ---- Estándar original, construido para cumplir con las especificaciones estándar, siga estrictamente el control de calidad de fábrica. Reemplazo directo por el viejo o roto.
+- ★ Alto rendimiento ---- Muelle de alta calidad, reduce efectivamente la vibración, accesorio práctico para su vehículo.
+- ★ Función principal ---- Utilice este amortiguador para brindarle una mejor calidad de conducción. Haga que su viaje sea más suave
+- ★ Material excelente: carcasa y resorte de metal de calidad, lo que hace que tenga una larga vida útil y mejore en gran medida la resistencia a los golpes del amortiguador.
+- ★ Aplicación ---- Accesorio práctico para ATV Go-Kart Scooter 49cc. Puede contactarnos si tiene alguna pregunta.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08114PBMS/?tag=tolees-21)

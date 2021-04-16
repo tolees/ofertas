@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'John - Toys - Disney Minnie Mouse - Pelo al 55.23 % de descuento'
-date: 2021-04-11 18:00:28
-image: 'https://m.media-amazon.com/images/I/41q7kVE1k3L._SL400_.jpg'
+date: 2021-04-16 11:06:40
+image: 'https://m.media-amazon.com/images/I/41q7kVE1k3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'John - Toys'
 buyurl: 'https://www.amazon.es/dp/B00BSR6WP6/?tag=tolees-21'
 descuento: '55.23'
-average: '4.12'
+average: '3.83'
 ---
 
 Está [John - Toys - Disney Minnie Mouse - Pelota hinchable  John 50689 ](https://www.amazon.es/dp/B00BSR6WP6/?tag=tolees-21) con 55.23 de descuento por 3.25 EUR (original: 7.26 EUR) en el siguiente enlace!
 
-[![John - Toys - Disney Minnie Mouse - Pelo](https://m.media-amazon.com/images/I/41q7kVE1k3L._SL400_.jpg)](https://www.amazon.es/dp/B00BSR6WP6/?tag=tolees-21)
+[![John - Toys - Disney Minnie Mouse - Pelo](https://m.media-amazon.com/images/I/41q7kVE1k3L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00BSR6WP6/?tag=tolees-21)
 
 ℹ️:
 
