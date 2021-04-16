@@ -29,7 +29,7 @@ Tienes [Sony - Gran Turismo Sport Spec II](https://www.amazon.es/dp/B07YWGWNJ4/?
 🔎:
 
 - Es para PS4
-- Juego de acción
 - Es divertido
+- Juego de acción
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YWGWNJ4/?tag=tolees-21)

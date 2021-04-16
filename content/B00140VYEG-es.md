@@ -28,8 +28,8 @@ Tienes [Salter 1066 BKDR15 Báscula de cocina  Ahorro de espacio Fácil de almac
 
 ℹ️:
 
-- Función “cero”, que permite medir el peso directamente en la plataforma ó a través de algún recipiente
 - Diseño compacto para fácil almacenaje; plataforma abs fácil de limpiar
+- Función “cero”, que permite medir el peso directamente en la plataforma ó a través de algún recipiente
 - Báscula de cocina digital línea arc; pantalla lcd de 20 mm
 - Capacidad de 1 g hasta 3 kg funciona con pilas
 

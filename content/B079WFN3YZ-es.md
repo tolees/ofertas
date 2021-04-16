@@ -1,29 +1,30 @@
 ---
 layout: post
-title: 'Superga 2790-cotropew  Zapatillas de Gim con un 76.51 % de descuento'
-date: 2021-03-14 03:38:22
-image: 'https://m.media-amazon.com/images/I/41VUuX45qHL._SL400_.jpg'
+title: 'Superga 2790-cotropew  Zapatillas de Gim con un 52.16 % de descuento'
+date: 2021-04-16 10:28:33
+image: 'https://m.media-amazon.com/images/I/41VUuX45qHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079WFN3YZ-es Superga 2790-cotropew Zapatillas de Gimnasia Mujer Negro...'
 sku: 'B079WFN3YZ-es'
-actualPrice: 18.56 EUR
+tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','superga', ]
+actualPrice: 37.79 EUR
 currency: EUR
-price: 18.56
+price: 37.79
 comparePrice: 79.0 EUR
 prodname: 'Superga 2790-cotropew  Zapatillas de Gimnasia Mujer  Negro Nero 999  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B079WFN3YZ/?tag=tolees-21'
-descuento: '76.51'
-average: '18.56'
+descuento: '52.16'
+average: '24.97'
 ---
 
-En este momento está [Superga 2790-cotropew  Zapatillas de Gimnasia Mujer  Negro Nero 999  42.5 EU](https://www.amazon.es/dp/B079WFN3YZ/?tag=tolees-21) a 18.56 EUR (original: 79.0 EUR) (76.51 %  de descuento) en el siguiente enlace!
+En este momento está [Superga 2790-cotropew  Zapatillas de Gimnasia Mujer  Negro Nero 999  42.5 EU](https://www.amazon.es/dp/B079WFN3YZ/?tag=tolees-21) a 37.79 EUR (original: 79.0 EUR) (52.16 %  de descuento) en el siguiente enlace!
 
-[![Superga 2790-cotropew  Zapatillas de Gim](https://m.media-amazon.com/images/I/41VUuX45qHL._SL400_.jpg)](https://www.amazon.es/dp/B079WFN3YZ/?tag=tolees-21)
+[![Superga 2790-cotropew  Zapatillas de Gim](https://m.media-amazon.com/images/I/41VUuX45qHL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B079WFN3YZ/?tag=tolees-21)
 
 🔎:
 
