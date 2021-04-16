@@ -28,9 +28,9 @@ Tienes [Televés F4312400 Conector hembra diámetro 9 5mm](https://www.amazon.es
 
 🔎:
 
-- Ofrece un buen blindaje gracias a su construcción en Zamak
-- Conector desmontable y reutilizable
-- Tipo de producto: conector CEI con sistema de montaje por piezas
 - Formato acodado
+- Tipo de producto: conector CEI con sistema de montaje por piezas
+- Conector desmontable y reutilizable
+- Ofrece un buen blindaje gracias a su construcción en Zamak
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B008O4VYU4/?tag=tolees-21)

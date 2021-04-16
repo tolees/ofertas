@@ -28,8 +28,8 @@ Ahora mismo tienes [Arganour Sweet Almond 100% Puro Aceite Corporal - 250 ml](ht
 
 🔎:
 
+- Formulación: Orgánico
 - Tipo de Piel: Seca /, Todo Tipo de Pieles /, Atópica
 - Texturas: Aceite
-- Formulación: Orgánico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01I2Z9B2W/?tag=tolees-21)

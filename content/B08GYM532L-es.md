@@ -28,10 +28,10 @@ Ahora mismo tienes [Hurley M O&O Stretch Chino Pant Khaki  30](https://www.amazo
 
 🔎:
 
-- Corte Regular / Pierna Straight.
-- Etiqueta One & Only cosida.
-- 32” Entrepierna / 14.5” Abertura de la pierna.
-- Cierre de varilla de goma con cremallera Vislon. Bolsillos delanteros con refuerzo elástico. Bolsillo disimulado con cremallera impermeable. Bolsillos ribeteados traseros con cierre de botón.
 - 97 % Algodón / 3 % Spandex.
+- Cierre de varilla de goma con cremallera Vislon. Bolsillos delanteros con refuerzo elástico. Bolsillo disimulado con cremallera impermeable. Bolsillos ribeteados traseros con cierre de botón.
+- Corte Regular / Pierna Straight.
+- 32” Entrepierna / 14.5” Abertura de la pierna.
+- Etiqueta One & Only cosida.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GYM532L/?tag=tolees-21)
