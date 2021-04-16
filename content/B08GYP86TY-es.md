@@ -29,8 +29,8 @@ Está [Hurley M Range Sherpa Fleece](https://www.amazon.es/dp/B08GYP86TY/?tag=to
 ℹ️:
 
 - 80 % Algodón / 20 % Poliéster / 300 gsm.
-- Aplique de fieltro en zona central delantera.
 - Bolsillos delanteros. Ribete en cuello, puños y bajo.
+- Aplique de fieltro en zona central delantera.
 - Costura horizontal en parte frontal y trasera.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GYP86TY/?tag=tolees-21)

@@ -28,14 +28,14 @@ Tienes [Vaggan Barbacoa  Negro y Rojo](https://www.amazon.es/dp/B01DLPN0TI/?tag=
 
 ℹ️:
 
-- Marca: Vaggan.
-- Barbacoa de chapa adecuada para carbón.
 - Desmontable.
+- Barbacoa de chapa adecuada para carbón.
 - Barbacoa 3 pies redonda 33 cm.
-- Fácil de llevar.
 - Peso: 1500gr.
 - Dimensiones: 33 x 33 x 46cm.
+- Marca: Vaggan.
 - Parrilla de acero con varias alturas de cocinado.
 - De tres patas.
+- Fácil de llevar.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DLPN0TI/?tag=tolees-21)

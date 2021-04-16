@@ -28,11 +28,11 @@ Está [SanDisk Extreme - Tarjeta de memoria 32GB microSDHC para móvil  tablets 
 
 ℹ️:
 
+- Incluye la categoría A1: para un rendimiento más rápido de las aplicaciones
+- Incluye el software de recuperación de archivos RescuePRO Deluxe (1 año de suscripción gratuita; se requiere inscripción)
 - Dispone del estándar UHS Speed Class 3 (U3), que le permitirá grabar vídeo Full HD y 4K UHD
+- Fabricada para ser usada en condiciones difíciles y sometida a ensayos en dichas condiciones: resistente a temperatura, al agua, a golpes y a rayos X
 - Velocidades de lectura/escritura de hasta 100 MB/s / 60 MB/s para disparar y transferir rápido
 - El estándar UHS Video Speed Class 30 (V30) signfica que su tarjeta está lista para los avances en materia de realidad virtual y grabación de vídeo en 360°
-- Fabricada para ser usada en condiciones difíciles y sometida a ensayos en dichas condiciones: resistente a temperatura, al agua, a golpes y a rayos X
-- Incluye el software de recuperación de archivos RescuePRO Deluxe (1 año de suscripción gratuita; se requiere inscripción)
-- Incluye la categoría A1: para un rendimiento más rápido de las aplicaciones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XWMQ81P/?tag=tolees-21)

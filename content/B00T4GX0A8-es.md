@@ -29,7 +29,7 @@ En este momento está [Globo Toys Globo 50082 - Pelota de Pimienta de Verano  23
 🔎:
 
 - Diseñado en Europa.
-- Tamaño: 23 cm de diámetro.
 - Pasa todas las certificaciones de seguridad de juguetes Euro.
+- Tamaño: 23 cm de diámetro.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00T4GX0A8/?tag=tolees-21)

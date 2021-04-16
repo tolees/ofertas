@@ -28,11 +28,11 @@ Está [Tulipán Negro Gel de baño Caramelo 720 ml](https://www.amazon.es/dp/B01
 
 ℹ️:
 
-- Gel muy perfumado; perfume de caramelo; exquisita y dulce fragancia
-- Libre de parabenos; dermatológicamente testado; crea mucha espuma
 - Gel de baño y ducha 720 ml; no testado en animales; vegano; fabricación íntegra en España
+- Libre de parabenos; dermatológicamente testado; crea mucha espuma
+- Gel de baño y ducha nutriente, aporta gran suavidad a la piel dejándola muy perfumada
+- Gel muy perfumado; perfume de caramelo; exquisita y dulce fragancia
 - Tipo de piel: Normal
 - Género; unisex; adulto e infantil
-- Gel de baño y ducha nutriente, aporta gran suavidad a la piel dejándola muy perfumada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B017WK9C1S/?tag=tolees-21)
