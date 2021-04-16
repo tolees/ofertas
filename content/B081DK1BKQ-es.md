@@ -28,8 +28,8 @@ Está [BILLABONG State Beach Tank T-Shirt  Hombre  Black  S](https://www.amazon.
 
 ℹ️:
 
+- Botones y logotipo de Billabong
 - Camiseta de Billabong
 - Algodón 100% premium
-- Botones y logotipo de Billabong
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081DK1BKQ/?tag=tolees-21)

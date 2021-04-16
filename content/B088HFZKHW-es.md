@@ -29,8 +29,8 @@ En este momento está [NIKE ATM M NK BRT Stad JSY SS AW T-Shirt  Hombre  Coastal
 🔎:
 
 - Con manga corta
-- Con tecnología Nike Breathe para mantener frescura
 - Ajuste regular
+- Con tecnología Nike Breathe para mantener frescura
 - Fabricada en tejido transpirable y cómodo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088HFZKHW/?tag=tolees-21)
