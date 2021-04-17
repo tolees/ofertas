@@ -30,7 +30,7 @@ En este momento está [Aldem Canastilla de Bebé/Cesta Aseo Baño Bebé regalo  
 
 - Tolerancia de todos los productos testada por dermatólogos
 - Pack para bebé natural dermatológicamente testado. No se han empleado colorantes, parabenos, fenoxietanol, ni organoclorados
-- Pack ideal para el cuidado e hidratación diaria de la piel del bebé
 - Incluye: Jabón líquido suave 400 ml, Colonia baja en alcohol 400 ml, Leche hidratante corporal 400 ml, Crema cambio de pañal 100 ml
+- Pack ideal para el cuidado e hidratación diaria de la piel del bebé
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JCY4W8J/?tag=tolees-21)

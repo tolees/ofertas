@@ -28,9 +28,9 @@ En este momento está [Lacoste L1212  Camisa de Polo para Hombre  Blanco  Blanc 
 
 🔎:
 
-- Bajo recto con aberturas laterales
-- Cocodrilo bordado en el pecho
 - Cuello y bordes de las mangas acanalados
 - Botones de nácar
+- Cocodrilo bordado en el pecho
+- Bajo recto con aberturas laterales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0038MP8YK/?tag=tolees-21)

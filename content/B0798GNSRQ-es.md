@@ -28,10 +28,10 @@ En este momento está [Garza Adaptador de enchufe doble frontal con toma de tier
 
 🔎:
 
-- Amperios/ voltios: 16a/ 250v ~
-- Formato retráctil
-- Potencia máxima: 3680w
 - Tipo schuko: 2 pines + toma de tierra
 - Protección infantil
+- Formato retráctil
+- Potencia máxima: 3680w
+- Amperios/ voltios: 16a/ 250v ~
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0798GNSRQ/?tag=tolees-21)

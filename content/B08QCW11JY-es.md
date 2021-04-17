@@ -28,10 +28,10 @@ Está [SEEENK Smartwatch Reloj Inteligente con Pulsómetro Cronómetros Caloría
 
 ℹ️:
 
+- <p>【Compatible conteléfonos iOSy Android】La aplicación es adecuada para la mayoría de los teléfonos inteligentes con sistema de soporte Bluetooth 4.0 o superior: iOS 9.0 o superior, Android 5.0 o superior.Si tiene alguna pregunta, no dude en contactarnos.</p>
 - <p>【Monitor de salud y deporte】El pulsera actividad pueden registrar con precisión sus datos deportivos y actividades de todos los días, Por ejemplo pasos, calorías,distancia, tiempo activo.Los sensores de movimiento de alto rendimiento controlan su frecuencia cardíaca y la calidad del sueño en tiempo real. </p>
 - <p>【Batería de mayor duración】El chip Bluetooth de baja potencia incorporado y la gran capacidad de la batería de 210 mAh, el smartwatch es fácil de cargar, carga rápida y batería de larga duración.</p>
-- <p>【Función de notificación inteligente】Cuando el pulsera inteligente física se conecta al teléfono inteligente, vibrará para avisarle cuando reciba notificaciones entrantes como llamadas, correos electrónicos, SMS y SNS (Facebook,QQ,WhatsApp,etc.). </p>
 - <p>【Pantalla táctil completa y funciones múltiples】El reloje inteligente con pantalla a color de 1.3 pulgadas más grande ofrece una excelente calidad de imagen, el diseño de operación de pantalla táctil completa le brinda una mejor experiencia de usuario. El rastreador de ejercicios cuenta con múltiples funciones para satisfacer sus necesidades diarias.</p>
-- <p>【Compatible conteléfonos iOSy Android】La aplicación es adecuada para la mayoría de los teléfonos inteligentes con sistema de soporte Bluetooth 4.0 o superior: iOS 9.0 o superior, Android 5.0 o superior.Si tiene alguna pregunta, no dude en contactarnos.</p>
+- <p>【Función de notificación inteligente】Cuando el pulsera inteligente física se conecta al teléfono inteligente, vibrará para avisarle cuando reciba notificaciones entrantes como llamadas, correos electrónicos, SMS y SNS (Facebook,QQ,WhatsApp,etc.). </p>
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08QCW11JY/?tag=tolees-21)
