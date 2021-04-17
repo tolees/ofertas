@@ -28,10 +28,10 @@ En este momento está [safta Portatodo Triple de Avengers Heroes Vs Thanos  220x
 
 🔎:
 
-- Medidas: Ancho 220mm. Largo 30mm. Alto 100mm. Capacidad 0,6L. Peso 0,09 Kg
+- Ideal para el uso escolar tanto para niños como para adolescentes.
+- Safta Avengers Oficial portatodo escolar con triple cremallera. 2 años de garantía.
 - Confeccionada con un material de poliéster muy resistente y cremalleras suaves. Estuche ultraligero. Fácil de lavar.
 - Con 3 compartimentos separados con cremallera. Bolsillo interior central con cremallera. Tiradores en los cursores para facilitar apertura. Doble tirador en cremallera principal.
-- Safta Avengers Oficial portatodo escolar con triple cremallera. 2 años de garantía.
-- Ideal para el uso escolar tanto para niños como para adolescentes.
+- Medidas: Ancho 220mm. Largo 30mm. Alto 100mm. Capacidad 0,6L. Peso 0,09 Kg
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PPQ9SQ8/?tag=tolees-21)

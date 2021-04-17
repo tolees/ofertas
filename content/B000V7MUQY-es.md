@@ -28,9 +28,9 @@ Ahora mismo tienes [Hama - Bookbound Album "Baby Feel"  29x32/60  320 mm  290 mm
 
 🔎:
 
-- Ofrece espacio para fotos y mucho más recuerdos
 - Adecuado para el almacenamiento creativa de fotos
-- Contiene 60 paginas + 2 con el texto de introducción
 - Con foto en blanco de montaje de papel y papel cristal intercalaciones
+- Ofrece espacio para fotos y mucho más recuerdos
+- Contiene 60 paginas + 2 con el texto de introducción
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000V7MUQY/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [NGS FOG BLACK - Ratón Óptico Inalámbrico 2.4GHz  Ratón para Ordenado
 
 ℹ️:
 
-- Conexión inalámbrica RF 2.4GHz mediante nano receptor USB.
 - Ergonomía ambidiestra: puede ser utilizado tanto por usuarios diestros como zurdos.
+- Conexión inalámbrica RF 2.4GHz mediante nano receptor USB.
 - Ratón wireless con sensor óptico de 1000dpi de resolución, 2 pulsadores y scroll.
-- Color negro.
 - Sus reducidas dimensiones lo hacen especialmente indicado tanto para ordenadores de sobremesa o portátiles.
+- Color negro.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BJQ25FG/?tag=tolees-21)
