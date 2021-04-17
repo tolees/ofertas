@@ -28,11 +28,11 @@ Tienes [Logitech G Driving Force Palanca de Cambio para Volantes de Carreras G29
 
 🔎:
 
-- Montaje Seguro: Abrazaderas integradas que permiten instalar la palanca de cambio de forma segura
-- Recorrido Corte de Seis Velocidades: Tiene 6 velocidades con diseño en H que se mueve con soltura
 - Requisitos del sistema: Logitech G29 o G920 Driving Force Racing Wheel, juegos compatibles con Logitech Driving Force Shifter, PlayStation 4, Xbox OneTM, Windows 8.1, Windows 8 o Windows 7
-- Para Volantes de Carreras Driving Force: Diseñado para los volantes de carreras G29 y G920 Driving Force
-- Compatibilidad: Se puede usar en PC con determinados juegos y Logitech Gaming Software
 - Hecha para Carreras: Palanca de cambios para volante diseñada para conducir con toda precisión y fiabilidad duradera
+- Compatibilidad: Se puede usar en PC con determinados juegos y Logitech Gaming Software
+- Para Volantes de Carreras Driving Force: Diseñado para los volantes de carreras G29 y G920 Driving Force
+- Recorrido Corte de Seis Velocidades: Tiene 6 velocidades con diseño en H que se mueve con soltura
+- Montaje Seguro: Abrazaderas integradas que permiten instalar la palanca de cambio de forma segura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ZWOUH4S/?tag=tolees-21)

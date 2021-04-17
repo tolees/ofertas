@@ -28,10 +28,10 @@ En este momento está [Bosch Professional 2 608 630 665 Hoja de sierra de calar 
 
 🔎:
 
-- Longitud dentada [mm]: 59
+- Longitud total [mm]: 83
 - Progresivo: -
 - Posición de almacenamiento: -
 - Ámbitos de aplicación: Chapas semigruesas de acero inoxidable (Inox) (2-5 mm)
-- Longitud total [mm]: 83
+- Longitud dentada [mm]: 59
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000XIZO78/?tag=tolees-21)

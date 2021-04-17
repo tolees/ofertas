@@ -29,8 +29,8 @@ Está [HPE - HP C7978A - Cartucho LTO Ultrium de Limpieza](https://www.amazon.es
 ℹ️:
 
 - Algunas causas de errores de lectura o grabación son temporales y pueden corregirse con un cartucho de limpieza
-- Dimensiones del producto: 11.1 x 11.3 x 2.79 cm
 - Cartucho de cinta de limpieza
 - La limpieza regular de la unidad es esencial para la confiabilidad a largo plazo y debe realizarse en un ciclo programado
+- Dimensiones del producto: 11.1 x 11.3 x 2.79 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00006HYZQ/?tag=tolees-21)
