@@ -29,7 +29,7 @@ Tienes [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto  Marrón  B
 🔎:
 
 - Material de la suela: goma
-- Forro: tela
 - Material exterior: tela
+- Forro: tela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TVDYQB4/?tag=tolees-21)

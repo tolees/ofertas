@@ -29,10 +29,10 @@ En este momento está [Princess Double Doble freidora  3600 W  6 litros  Acier I
 🔎:
 
 - Temperatura regulable hasta 190 ºc; permite seleccionar diferentes temperaturas según los alimentos: se recomienda pescado y verduras a 170ºc y patatas y alimentos congelados a 190ºc
-- Potencia efectiva de 2 x 1800 w para que la freidora se caliente rápidamente
-- Fácil de limpiar gracias a las piezas que se pueden lavar en el lavavajillas
 - Ofrezca a toda la familia patatas fritas y aperitivos gracias al volumen de 2 x 3 litros
 - Las zonas frías evitan que se quemen las migas y el filtro mantiene el aceite limpio
+- Potencia efectiva de 2 x 1800 w para que la freidora se caliente rápidamente
 - Componentes incluidos: FREIDORA PRINCESS DOBLE INOX CAPACIDAD: 2 X 3 L TEMPERATURA REGULABLE 190 C CUBETAS INTERNAS EXTRAÍBLES APTO PARA LAVAVAJILLAS ZONA FRÍA FILTRO DE ACEITE SISTEMA con UN ENCHUFE, EXTRA SEGURO. PROTECCIÓN SOBRECALENTAMIENTO POTENCIA: 2 X JP20
+- Fácil de limpiar gracias a las piezas que se pueden lavar en el lavavajillas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00JRC3ACC/?tag=tolees-21)

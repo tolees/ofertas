@@ -28,8 +28,8 @@ Está [Lee Luke Vaqueros Slim  Azul  Hawaii Light FM   W32/L32  Talla del Fabric
 
 ℹ️:
 
-- Vaqueros para hombre
 - Presentan 5 bolsillos
+- Vaqueros para hombre
 - Tienen un parche en la parte trasera con la marca Lee
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VMV1LZW/?tag=tolees-21)

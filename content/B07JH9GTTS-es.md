@@ -28,10 +28,10 @@ Tienes [Sony - Chimparty](https://www.amazon.es/dp/B07JH9GTTS/?tag=tolees-21) co
 
 🔎:
 
+- Mecánica de juego fácil de aprender
+- Personaliza a tu chimpancé campeón
 - Género: Social/Fiesta
 - Jugadores: 1-4 Offline
-- Personaliza a tu chimpancé campeón
-- Mecánica de juego fácil de aprender
 - Disfruta de cinco temas diferentes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JH9GTTS/?tag=tolees-21)
