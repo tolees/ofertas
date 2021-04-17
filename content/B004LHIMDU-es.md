@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BAUSCH + LOMB - SofLens® 59 - Lentes de  al 79.90 % de rebaja'
-date: 2021-04-16 17:55:30
+date: 2021-04-17 19:30:28
 image: 'https://m.media-amazon.com/images/I/41Xp-r0nVOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SofLens'
 buyurl: 'https://www.amazon.es/dp/B004LHIMDU/?tag=tolees-21'
 descuento: '79.90'
-average: '9.76628820960701'
+average: '9.76595652173915'
 ---
 
 Tienes [BAUSCH + LOMB - SofLens® 59 - Lentes de contacto](https://www.amazon.es/dp/B004LHIMDU/?tag=tolees-21) con precio final de  9.69 EUR (original: 48.2 EUR) (79.90 %  de rebaja) aqui!
@@ -29,8 +29,8 @@ Tienes [BAUSCH + LOMB - SofLens® 59 - Lentes de contacto](https://www.amazon.es
 🔎:
 
 - Cada vez que las use, deberá limpiarlas, aclararlas y desinfectarlas antes de volver a ponérselas.
-- Para miopía o hipermetropía.
-- Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión.
 - Diseñadas para uso diario con la frecuencia de sustitución indicada por el profesional de la visión.
+- Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión.
+- Para miopía o hipermetropía.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004LHIMDU/?tag=tolees-21)
