@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Star Wars The Rise of Skywalk al 44.16 % de descuento'
-date: 2021-04-14 07:19:52
+date: 2021-04-17 07:41:23
 image: 'https://m.media-amazon.com/images/I/41V3970qcyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07QVTLK1J/?tag=tolees-21'
 descuento: '44.16'
-average: '7.63921568627451'
+average: '7.68173076923077'
 ---
 
 Está [Funko- Pop Star Wars The Rise of Skywalker-Jannah Disney Figura coleccionable  Multicolor  39884 ](https://www.amazon.es/dp/B07QVTLK1J/?tag=tolees-21) con 44.16 de descuento por 9.85 EUR (original: 17.64 EUR) en el siguiente enlace!
@@ -30,8 +30,8 @@ Está [Funko- Pop Star Wars The Rise of Skywalker-Jannah Disney Figura coleccion
 
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Jannah
-- Descúbre otras figuras de la colección disney star wars y colecciónalas todas
 - De la colección star wars the rise of skywalker, jannah como figura de vinilo pop de funko
 - Disney star wars
+- Descúbre otras figuras de la colección disney star wars y colecciónalas todas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QVTLK1J/?tag=tolees-21)
