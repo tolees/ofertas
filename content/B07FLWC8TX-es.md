@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CEE Games  New Gen  - Little Big Pl con un 50.48 % de descuento'
-date: 2021-04-16 08:26:05
+date: 2021-04-17 13:30:46
 image: 'https://m.media-amazon.com/images/I/61+LhBC2AiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07FLWC8TX/?tag=tolees-21'
 descuento: '50.48'
-average: '11.6399999999999'
+average: '11.5755555555555'
 ---
 
 En este momento está [Sony CEE Games  New Gen  - Little Big Planet 3 Hits - Versión 14](https://www.amazon.es/dp/B07FLWC8TX/?tag=tolees-21) a 9.9 EUR (original: 19.99 EUR) (50.48 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Sony CEE Games  New Gen  - Little Big Planet 3 Hits - Ver
 
 🔎:
 
+- Edición del juego: básica
 - Género: acción/aventura
+- Plataforma: PlayStation 4
 - Clasificación PEGI: 7
 - Rango ESRB: T (adolescente)
-- Plataforma: PlayStation 4
-- Edición del juego: básica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FLWC8TX/?tag=tolees-21)

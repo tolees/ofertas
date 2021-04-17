@@ -28,8 +28,8 @@ Tienes [Victorio & Lucchino Agua Rocio de Tocador Vaporizador - 50 ml](https://w
 
 🔎:
 
-- Familia olfativa: Floral Cítrica.
 - Familias Olfativas: Cítrica, Floral
+- Familia olfativa: Floral Cítrica.
 - Fecha Lanzamiento: 2003
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009RQXRJY/?tag=tolees-21)

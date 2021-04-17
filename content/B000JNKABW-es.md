@@ -28,8 +28,8 @@ Tienes [Casio Reloj Analógico para Hombre de Cuarzo con Correa en Resina MQ-24-
 
 ℹ️:
 
-- Caja y correa de resina sintética, un material resistente
 - La duración de la batería es de 2 años
 - Resistente al agua y soporta pequeñas salpicaduras de agua
+- Caja y correa de resina sintética, un material resistente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000JNKABW/?tag=tolees-21)
