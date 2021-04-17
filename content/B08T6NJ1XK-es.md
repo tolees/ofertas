@@ -28,10 +28,10 @@ Está [TENDS - Protector de puertas para bebe - Pestillo sin agujeros como tope 
 
 ℹ️:
 
-- CERRADURA CON VARIAS POSICIONES- La primera posición permite bloquear la puerta con el seguro para evitar que los niños la abran sin su supervisión y otra de apertura en la que la superficie de material TPR flexible permite abrir la puerta pero manteniendo siempre las manos de los niños a salvo. Para un uso normal simplemente habría que girar el dispositivo y la puerta abriría y cerraría completamente.
 - SEGURO - El cierre de seguridad no solo es una cerradura de puerta increíblemente efectiva, también funciona como un protector contra pellizcos. La puerta siempre está asegurada en una posición parcialmente abierta, lo que ayuda a prevenir dolorosas lesiones por pellizcos y que el niño esté siempre a salvo.
-- RESISTENTE - Las cerraduras de seguridad están hechas de material ABS no tóxico y sin olor.Nuestro diseño no se deforman con el tiempo como los cierres de goma y permanece como el primer día, lo que hará que tu bebé y tu niño vivan más sanos y seguros.
-- FÁCIL DE INSTALAR - Nuestro diseño único permite que el Protector de puertas se pueda instalar con tornillos aunque también permite que este se instale en segundos sin la necesidad de herramientas .Sin residuos ni daños en el acabado de su puerta.
+- CERRADURA CON VARIAS POSICIONES- La primera posición permite bloquear la puerta con el seguro para evitar que los niños la abran sin su supervisión y otra de apertura en la que la superficie de material TPR flexible permite abrir la puerta pero manteniendo siempre las manos de los niños a salvo. Para un uso normal simplemente habría que girar el dispositivo y la puerta abriría y cerraría completamente.
 - SIN BLOQUEOS ACCIDENTALES - El bloqueador de puertas se puede usar desde ambos lados de la puerta, por lo que no hay posibilidad de que su hijo lo encierre en una habitación.
+- FÁCIL DE INSTALAR - Nuestro diseño único permite que el Protector de puertas se pueda instalar con tornillos aunque también permite que este se instale en segundos sin la necesidad de herramientas .Sin residuos ni daños en el acabado de su puerta.
+- RESISTENTE - Las cerraduras de seguridad están hechas de material ABS no tóxico y sin olor.Nuestro diseño no se deforman con el tiempo como los cierres de goma y permanece como el primer día, lo que hará que tu bebé y tu niño vivan más sanos y seguros.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08T6NJ1XK/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [SATURNIA Buho Ahuyentador de Pajaros / Aves Con Cabeza Giratoria 40 cm.](
 
 ℹ️:
 
-- Con Cabeza Giratoria 360º.
 - Medida (alto): 40 cm.
-- La base del buho dispone de un orificio (Ø 44 mm.) para ser colocado en un mastil o ser rellenado de arena o piedras.
-- Con pletina de plastico para que la cabeza gire con el aire.
 - Base: 10 x 10 cm.
+- La base del buho dispone de un orificio (Ø 44 mm.) para ser colocado en un mastil o ser rellenado de arena o piedras.
+- Con Cabeza Giratoria 360º.
+- Con pletina de plastico para que la cabeza gire con el aire.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PRRTGS1/?tag=tolees-21)
