@@ -28,8 +28,8 @@ En este momento está [Sony CEE Games  New Gen  - Frantics](https://www.amazon.e
 
 🔎:
 
+- Los minijuegos están presentados por un travieso anfitrión en la línea PlayLink
 - Compatibilidad: PlayStation 4
 - Número de jugadores: 1 - 4
-- Los minijuegos están presentados por un travieso anfitrión en la línea PlayLink
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0798FVVZX/?tag=tolees-21)

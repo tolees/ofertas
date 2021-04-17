@@ -28,7 +28,7 @@ Ahora mismo tienes [Lacoste PF5462 Polo  Blanc  44 para Mujer](https://www.amazo
 
 🔎:
 
-- Minipiqué de algodón stretch
 - Slim fit
+- Minipiqué de algodón stretch
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TFBBCPL/?tag=tolees-21)

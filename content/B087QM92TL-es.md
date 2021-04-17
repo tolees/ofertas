@@ -28,9 +28,9 @@ Ahora mismo tienes [Dani - Laurel hoja - Pack 6 x 40 gr.](https://www.amazon.es/
 
 🔎:
 
+- Es una fuente de hierro y es rico en vitamina A
 - Con tapón dosificador
 - Laurel hoja 40 gr; pack 6 botes
-- Es una fuente de hierro y es rico en vitamina A
 - Se utiliza especialmente en sopas, guisos, estofados, escabeches, carnes, pescados, mariscos y vegetales.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087QM92TL/?tag=tolees-21)
