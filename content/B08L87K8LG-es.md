@@ -28,10 +28,10 @@ En este momento está [Hoover Vanity HDSV985B - Campana extractora 90 cm  3 velo
 
 🔎:
 
-- Medidas integración | Medidas extractor cocina (alto x ancho x prof): 100 - 54,8 x 32 x 28cm | 100 - 54,8 x 90 x 50cm.
-- Elimina olores, purifica y mejora la calidad del aire con el de filtro de carbón y filtros antigrasa, para garantizar una mayor durabilidad y rendimiento del extractor de cocina.
+- Motor potente de 302W, con 3 velocidades, función booster y capacidad de extracción 622m3/h, con válvula de no retorno del aire.
 - Campana extractora 90cm de ancho, con display digital táctil y diseño de acero inoxidable con frontal negro.
 - Iluminación led: ofrece una mejor visibilidad en la zona de cocción, usando un 90% menos de energía y con una mayor durabilidad que las bombillas tradicionales.
-- Motor potente de 302W, con 3 velocidades, función booster y capacidad de extracción 622m3/h, con válvula de no retorno del aire.
+- Elimina olores, purifica y mejora la calidad del aire con el de filtro de carbón y filtros antigrasa, para garantizar una mayor durabilidad y rendimiento del extractor de cocina.
+- Medidas integración | Medidas extractor cocina (alto x ancho x prof): 100 - 54,8 x 32 x 28cm | 100 - 54,8 x 90 x 50cm.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L87K8LG/?tag=tolees-21)

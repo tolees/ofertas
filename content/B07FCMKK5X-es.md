@@ -28,10 +28,10 @@ Tienes [SanDisk Extreme - Tarjeta de memoria microSDXC de 128 GB con adaptador 
 
 ℹ️:
 
+- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones, resistentes a temperatura, agua, golpes y rayos X
 - Ideal para smartphones y tabletas Android, cámaras de acción y drones
 - Hasta 160 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
-- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
-- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones, resistentes a temperatura, agua, golpes y rayos X
 - Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
+- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FCMKK5X/?tag=tolees-21)

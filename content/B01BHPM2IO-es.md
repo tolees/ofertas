@@ -29,7 +29,7 @@ Ahora mismo tienes [Senti2  Suero fisiológico - 60 monodosis](https://www.amazo
 🔎:
 
 - Apto para la higiene de la nariz, oídos, lavado de heridas e inhalación
-- Formato monodosis, estéril y sin conservantes
 - Facilita la higiene del ojo y ayuda a retirar los posibles agentes extraños y gérmenes que pueden provocar infecciones
+- Formato monodosis, estéril y sin conservantes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BHPM2IO/?tag=tolees-21)
