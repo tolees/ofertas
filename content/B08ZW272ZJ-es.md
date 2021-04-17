@@ -28,9 +28,9 @@ Ahora mismo tienes [Club Náutico 50 UNIDADES 2 COLORES + ESTUCHE ANTIBACTERIAS 
 
 🔎:
 
-- Mascarilla ultra protección FFP2 color NEGRO Y AZUL. Marcaje CE y EN 149:2001 +A1:2009.
-- PACK 50 UNIDADES (25 NEGRO + 25 AZUL) + ESTUCHE PORTA MASCARILLAS ANTIBACTERIANO COLOR BLANCO
 - Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable. No contiene Látex.
 - Excelente Transpirabilidad. Cómodas correas para los oídos. Tamaño 105x155mm plegada. Se sirve en cajas de 25 unidades
+- Mascarilla ultra protección FFP2 color NEGRO Y AZUL. Marcaje CE y EN 149:2001 +A1:2009.
+- PACK 50 UNIDADES (25 NEGRO + 25 AZUL) + ESTUCHE PORTA MASCARILLAS ANTIBACTERIANO COLOR BLANCO
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08ZW272ZJ/?tag=tolees-21)
