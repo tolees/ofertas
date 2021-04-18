@@ -28,10 +28,10 @@ Ahora mismo tienes [Funko - - Star Wars EP8 - Pop Finn](https://www.amazon.es/dp
 
 🔎:
 
-- Licencia oficial from Funko
-- Great gift idea for anyone who loves Bobbleheads
-- Includes all original tags/packaging straight from the manufacturer/distributor
 - Perfect for fans of Star Wars
+- Great gift idea for anyone who loves Bobbleheads
+- Licencia oficial from Funko
+- Includes all original tags/packaging straight from the manufacturer/distributor
 - 100% brand new and authentic merchandise
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GQZXK2Y/?tag=tolees-21)

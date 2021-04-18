@@ -28,9 +28,9 @@ En este momento está [WOLFPACK LINEA PROFESIONAL - WOLFPACK 15050430 - Cartel A
 
 🔎:
 
-- Medida: 64x30 cm.
-- Fabricado en polipropileno.
-- Articulo también conocido como: carteles, rotulos, señales.
 - Marcado a 2 caras.
+- Medida: 64x30 cm.
+- Articulo también conocido como: carteles, rotulos, señales.
+- Fabricado en polipropileno.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CIVOY78/?tag=tolees-21)
