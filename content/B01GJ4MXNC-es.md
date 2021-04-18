@@ -28,10 +28,10 @@ Tienes [Essie Gel Couture Laca de Uñas  Tono: 40 Fairy Tailor](https://www.amaz
 
 🔎:
 
-- Essie gel couture(TM) nail polish is an extravagantly sophisticated collection
-- the line presents 25 brand new colors with up to 12 days wear
 - applied in an easy, 2-step system
-- crafted to perfection and fashioned to last
 - Designed with the haute vision of couture
+- crafted to perfection and fashioned to last
+- the line presents 25 brand new colors with up to 12 days wear
+- Essie gel couture(TM) nail polish is an extravagantly sophisticated collection
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01GJ4MXNC/?tag=tolees-21)

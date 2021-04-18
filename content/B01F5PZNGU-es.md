@@ -28,9 +28,9 @@ Tienes [ACTIVISION - Call Of Duty: Infinite Warfare - Legacy Edition](https://ww
 
 ℹ️:
 
-- Call of Duty: Infinite Warfare Legacy Edition incluye un código descarga para Call of Duty: Modern Warfare Remastered
-- ¡Terminal está de vuelta! Uno de los mapas favoritos de Call of Duty: Modern Warfare 2 ha sido reimaginado y trasladado a uno de los alucinantes nuevos entornos de Call of Duty: Infinite Warfare. Terminal nos sitúa ahora en un puerto espacial en la Luna, manteniendo toda la esencia del original y aportando nuevas mecánicas jugables e increíbles gráficos de nueva generación. Reserva cualquier edición de Call of Duty: Infinite Warfare y recibe el Mapa Extra Terminal.
 - Call of Duty: Infinite Warfare Legacy Edition ofrece tres experiencias increíbles en un pack excepcional: Campaña, Multijugador y Zombis
+- Call of Duty: Infinite Warfare Legacy Edition incluye un código descarga para Call of Duty: Modern Warfare Remastered
 - Call of Duty 4: Modern Warfare está de vuelta, remasterizado en alta definición e incluyendo texturas mejoradas, nuevos sistemas de renderizado e iluminación dinámica y mucho más
+- ¡Terminal está de vuelta! Uno de los mapas favoritos de Call of Duty: Modern Warfare 2 ha sido reimaginado y trasladado a uno de los alucinantes nuevos entornos de Call of Duty: Infinite Warfare. Terminal nos sitúa ahora en un puerto espacial en la Luna, manteniendo toda la esencia del original y aportando nuevas mecánicas jugables e increíbles gráficos de nueva generación. Reserva cualquier edición de Call of Duty: Infinite Warfare y recibe el Mapa Extra Terminal.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01F5PZNGU/?tag=tolees-21)

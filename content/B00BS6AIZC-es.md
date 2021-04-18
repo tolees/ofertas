@@ -28,9 +28,9 @@ Está [Essie Esmalte de Uñas  Tono: 101 Lady Like](https://www.amazon.es/dp/B00
 
 ℹ️:
 
-- Con la fórmula profesional y un cepillo ancho inclinado
+- Dispone de una textura de satén mate y un sutil acabado micro-iridiscente
 - Fórmula con textura gel sin acetona
 - Cubre óptimo, se seca rápidamente y dispone de una durabilidad entre entre 7 y 10 días
-- Dispone de una textura de satén mate y un sutil acabado micro-iridiscente
+- Con la fórmula profesional y un cepillo ancho inclinado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BS6AIZC/?tag=tolees-21)
