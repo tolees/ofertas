@@ -28,9 +28,9 @@ Ahora mismo tienes [Jata BT199 Batidora de Varilla Inox con Doble Cuchilla de Ti
 
 🔎:
 
-- Garantía: todos los productos jata cuentan con tres años de garantía
-- Velocidades: la batidora bt199 es electrónica lo que permite regular las diferentes velocidades con las que cuenta; además, tiene un indicador que se ilumina cuando está funcionando
 - Pie: su frontal y su pie son de acero inoxidable; además, se desmonta para conseguir una fácil limpieza
+- Velocidades: la batidora bt199 es electrónica lo que permite regular las diferentes velocidades con las que cuenta; además, tiene un indicador que se ilumina cuando está funcionando
+- Garantía: todos los productos jata cuentan con tres años de garantía
 - Accesorios: lleva incluidos varios accesorios como un batidor de acero inoxidable, una picadora con cuchilla de acero inoxidable y un vaso medidor con tapa de 600 ml
 - Cuchillas: tiene doble cuchilla titanium de gran solidez, lo que añadido a sus 1.000 w de potencia, hace que sea una batidora con la que se puede triturar todo tipo de alimentos con facilidad
 

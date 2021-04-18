@@ -28,9 +28,9 @@ Tienes [American Crew Fibra Moldeadora  Fijación Fuerte / Brillo Suave  - 85 g]
 
 🔎:
 
-- Cetyl Palmitate: un emoliente que proporciona una sensación suave después
-- Cera de abejas: protege contra la pérdida de humedad al tiempo que proporciona un control total
-- Humectante y emoliente responsable de una retención sin igual
 - Ceteareth-20: un buen acondicionador y un excelente emulsionante
+- Cera de abejas: protege contra la pérdida de humedad al tiempo que proporciona un control total
+- Cetyl Palmitate: un emoliente que proporciona una sensación suave después
+- Humectante y emoliente responsable de una retención sin igual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0007CXWC4/?tag=tolees-21)

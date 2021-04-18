@@ -28,9 +28,9 @@ Ahora mismo tienes [Clarks Un Aldric Step  Mocasines Hombre  Negro  Black Leathe
 
 🔎:
 
-- Ancho del zapato: estrecho
-- Suela: goma
-- Cierre: ninguno
 - Material exterior: piel
+- Cierre: ninguno
+- Suela: goma
+- Ancho del zapato: estrecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FRBTMWD/?tag=tolees-21)
