@@ -28,8 +28,8 @@ Ahora mismo tienes [TEX 3616181483616 Pantalón Deportivo  Celeste  5-6 años pa
 
 🔎:
 
-- En TEX estamos comprometidos con ofrecer a nuestros clientes productos de alta calidad. Nuestra amplia selección de moda está 100% diseñada en España, y cuenta con gran calidad en materiales y tejidos
-- Nuestros artículos están elaborados de forma que se adapten a las necesidades del día a día de cada persona. Te ofrecemos una amplia gama de ropa versátil, moderna y cómoda con todo tipo de tallas y colores diseñadas para todas las edades
 - Pantalón corto de niña liso, con cierre de cremallera y botón en el delantero. Con tres bolsillos delanteros y dos traseros
+- Nuestros artículos están elaborados de forma que se adapten a las necesidades del día a día de cada persona. Te ofrecemos una amplia gama de ropa versátil, moderna y cómoda con todo tipo de tallas y colores diseñadas para todas las edades
+- En TEX estamos comprometidos con ofrecer a nuestros clientes productos de alta calidad. Nuestra amplia selección de moda está 100% diseñada en España, y cuenta con gran calidad en materiales y tejidos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087XBFVJV/?tag=tolees-21)

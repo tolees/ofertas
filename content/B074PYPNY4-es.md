@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Churruca Original Picadita Cóctel de fru al 49.90 % de rebaja'
-date: 2021-04-15 19:30:25
+date: 2021-04-18 15:25:23
 image: 'https://m.media-amazon.com/images/I/51YJgoP59uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
