@@ -28,13 +28,13 @@ Tienes [Pattex No Más Clavos Invisible  pegamento resistente transparente  pega
 
 ℹ️:
 
-- Nada de clavos – Este pegamento transparente es ideal para uniones resistentes en trabajos de bricolaje y reparación, y elimina el uso de clavos. Es translúcido al secar.
-- Multiusos – Este adhesivo de pared para materiales de construcción une madera, ladrillo, hormigón, cerámica, metales, vidrio, corcho, PVC rígido y porexpan*.
 - Uso interior – Este pegamento invisible es ideal para pegar baldosas, colgadores, zócalos, frisos, encimeras, paneles decorativos, placas de yeso y para otros usos.
-- Puede ser lijado y pintado una vez seco. Color: blanco. No contiene disolventes. Los restos de producto no endurecido se limpian fácilmente con un trapo húmedo
+- Multiusos – Este adhesivo de pared para materiales de construcción une madera, ladrillo, hormigón, cerámica, metales, vidrio, corcho, PVC rígido y porexpan*.
 - Extrafuerte – Este pegamento fuerte de agarre instantáneo está diseñado especialmente para usarlo en interiores y es ideal para montar muebles y reparar muebles.
-- No utilizar sobre superficies permanentemente húmedas o mojadas. Fijación de rodapiés, zócalos, frisos, perfiles, encimeras, molduras, paneles decorativos, placas de yeso. Montaje y reparación de muebles
-- Envío – Pattex No Más Clavos Invisible, tecnología de polímeros a base de agua para uniones resistentes, sin disolventes, sin pistola de cartuchos, transparente, 1 x 120 g tubo, n.º art.: 1954194
 - Importante: al menos una de las superficies debe ser porosa. Se recomienda uso en interiores
+- No utilizar sobre superficies permanentemente húmedas o mojadas. Fijación de rodapiés, zócalos, frisos, perfiles, encimeras, molduras, paneles decorativos, placas de yeso. Montaje y reparación de muebles
+- Puede ser lijado y pintado una vez seco. Color: blanco. No contiene disolventes. Los restos de producto no endurecido se limpian fácilmente con un trapo húmedo
+- Envío – Pattex No Más Clavos Invisible, tecnología de polímeros a base de agua para uniones resistentes, sin disolventes, sin pistola de cartuchos, transparente, 1 x 120 g tubo, n.º art.: 1954194
+- Nada de clavos – Este pegamento transparente es ideal para uniones resistentes en trabajos de bricolaje y reparación, y elimina el uso de clavos. Es translúcido al secar.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GTMVVMY/?tag=tolees-21)

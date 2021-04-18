@@ -28,10 +28,10 @@ En este momento está [Adoric LED- Luz Lectura Lámpara de Escritorio con Panel 
 
 🔎:
 
+- El cuello ergonómico proporciona a la lámpara una rotación arbitraria de 360 °. Hecho de gel de sílice, una sensación súper cómoda, y el tamaño y el ángulo se pueden ajustar a la discreción.
 - La lámpara tiene un clip resistente con una almohadilla de silicona antideslizante, que no daña los muebles y tampoco se desliza.
 - Cualquier problema sobre el producto no dude en comunicarse con nosotros
 - Fuente de LED no parpadeante para proteger los ojos: más suave, sin parpadeos, sin sombras, sin luz vertiginosa, reduciendo la fatiga visual.
-- El cuello ergonómico proporciona a la lámpara una rotación arbitraria de 360 °. Hecho de gel de sílice, una sensación súper cómoda, y el tamaño y el ángulo se pueden ajustar a la discreción.
 - Proporciona un cable USB, esta lámpara LED tiene una batería de Ion de litio recargable de 600 mAh incorporada. Puedes cargarlo rápidamente mediante un cable USB.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07H3JVFGF/?tag=tolees-21)

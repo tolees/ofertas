@@ -29,8 +29,8 @@ Ahora mismo tienes [Panter M129884 - Zapato seguridad e-zion super ferro piel hi
 🔎:
 
 - Muy conveniente
-- Color: Negro
 - Talla 38
+- Color: Negro
 - Fácil de llavar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B013JBDD2S/?tag=tolees-21)
