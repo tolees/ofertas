@@ -28,15 +28,15 @@ Ahora mismo tienes [Bosch Professional Starlock - Hoja de sierra de inmersión p
 
 🔎:
 
-- AIZ 32 BSPB
-- Máquinas OIS GOP y PMF de Bosch Fein Multimaster y Multitalent AEG Einhell Hitachi Makita Metabo Milwaukee Ryobi Skil, y otras
-- Cortar componentes de madera (por ejemplo, tacos, espigas de madera dura) a ras de una superficie
-- El sistema de enganche Starlock te permite cambiar la hoja rápidamente en 3 segundos, sin tener que tocarla
-- Adecuado para todas las máquinas Starlock: Fein AFMT 12 SL AFMT 12 QSL AFMM 18 QSL FMT 250 SL FMT 250 QSL FMM 350 QSL) y StarlockMax (Bosch GOP 55-36 Professional Fein AFSC 18 QSL AFSC 18 QCSL FSC 500 QSL)
-- Cortes de inmersión en tableros recubiertos o madera dura (por ejemplo, para instalar rejillas de ventilación)
-- Cortar rebajes en elementos de muebles (por ejemplo, para acceder a una toma de corriente)
-- El corte redondeado de la hoja facilita la entrada en el material y cortes más precisos y suaves, paquete de 5 unidades
-- Longitud de la hoja 50 mm, ancho de la hoja 32 mm
 - Adecuado para todas las máquinas Starlock: Bosch GOP 12V-28 Professional PMF 220 CE PMF 250 CES), StarlockPlus (Bosch GOP 30-28 GOP 40-30 GOP 18V-28 Professional PMF 350 CES
+- Longitud de la hoja 50 mm, ancho de la hoja 32 mm
+- Cortes de inmersión en tableros recubiertos o madera dura (por ejemplo, para instalar rejillas de ventilación)
+- Adecuado para todas las máquinas Starlock: Fein AFMT 12 SL AFMT 12 QSL AFMM 18 QSL FMT 250 SL FMT 250 QSL FMM 350 QSL) y StarlockMax (Bosch GOP 55-36 Professional Fein AFSC 18 QSL AFSC 18 QCSL FSC 500 QSL)
+- Máquinas OIS GOP y PMF de Bosch Fein Multimaster y Multitalent AEG Einhell Hitachi Makita Metabo Milwaukee Ryobi Skil, y otras
+- El sistema de enganche Starlock te permite cambiar la hoja rápidamente en 3 segundos, sin tener que tocarla
+- El corte redondeado de la hoja facilita la entrada en el material y cortes más precisos y suaves, paquete de 5 unidades
+- Cortar rebajes en elementos de muebles (por ejemplo, para acceder a una toma de corriente)
+- AIZ 32 BSPB
+- Cortar componentes de madera (por ejemplo, tacos, espigas de madera dura) a ras de una superficie
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001IBMPB2/?tag=tolees-21)
