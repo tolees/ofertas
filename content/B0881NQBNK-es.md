@@ -28,9 +28,9 @@ Está [TEX 3616181457129 Leggings  Caqui Oscuro  3-4 años para Niñas](https://
 
 ℹ️:
 
-- Pantalón legging largo de niña
-- Nuestros artículos están elaborados de forma que se adapten a las necesidades del día a día de cada persona. Te ofrecemos una amplia gama de ropa versátil, moderna y cómoda con todo tipo de tallas y colores diseñadas para todas las edades
-- Al ser bio tiene una fabricación con bajo impacto medioambiental
 - En TEX estamos comprometidos con ofrecer a nuestros clientes productos de alta calidad. Nuestra amplia selección de moda está 100% diseñada en España, y cuenta con gran calidad en materiales y tejidos
+- Nuestros artículos están elaborados de forma que se adapten a las necesidades del día a día de cada persona. Te ofrecemos una amplia gama de ropa versátil, moderna y cómoda con todo tipo de tallas y colores diseñadas para todas las edades
+- Pantalón legging largo de niña
+- Al ser bio tiene una fabricación con bajo impacto medioambiental
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0881NQBNK/?tag=tolees-21)

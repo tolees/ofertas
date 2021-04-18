@@ -29,7 +29,7 @@ Tienes [WOLFPACK LINEA PROFESIONAL Manguera Transparente Nivel 4 x6 mm. Rollo 50
 ℹ️:
 
 - Rollo de 50 metros.
-- Manguera medidas: 4 x 6 mm.
 - Transparente.
+- Manguera medidas: 4 x 6 mm.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00MDICUYG/?tag=tolees-21)
