@@ -28,8 +28,8 @@ Ahora mismo tienes [L Oréal Professionnel - Champú Pro Longer Renovador de Pun
 
 🔎:
 
-- El FILLER-A100 penetra en el núcleo de la fibra para engrosar las puntas y hacer resurgir los largos; El aminoácido aporta fuerza a la fibra, para una melena más larga y densa
 - Champú renovador de puntas formulado con una combinación exclusiva de FILLER-A100 y aminoácido, especialmente indicado para cabellos largos con puntas afinadas
+- El FILLER-A100 penetra en el núcleo de la fibra para engrosar las puntas y hacer resurgir los largos; El aminoácido aporta fuerza a la fibra, para una melena más larga y densa
 - Aplicar sobre cabello húmedo 2 veces; Primero para limpiar y después para tratar; Enjuagar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085C7QBCN/?tag=tolees-21)

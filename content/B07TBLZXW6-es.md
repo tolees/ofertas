@@ -29,8 +29,8 @@ Está [Badland - Yooka-Laylee and the Impossible Lair](https://www.amazon.es/dp/
 ℹ️:
 
 - ¡D.I.S.C.O! Convierte cada nivel en una fiesta de plataformas de Playtonic.
-- ¡Yooka 64! ¡Este tónico hará viajar al pasado a los aficionados de las cosas retro! Sin polígonos añadidos.
 - ¡Glow Worm! Yooka y Laylee no son luciérnagas, ¡pero mira cómo brillan!
 - ¡Largee Head! Este tónico hace que a Laylee le crezca la cabeza de manera desproporcionada. No se necesitan trucos.
+- ¡Yooka 64! ¡Este tónico hará viajar al pasado a los aficionados de las cosas retro! Sin polígonos añadidos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TBLZXW6/?tag=tolees-21)
