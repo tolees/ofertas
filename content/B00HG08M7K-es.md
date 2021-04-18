@@ -28,10 +28,10 @@ Ahora mismo tienes [Fossil Reloj Analógico para Mujer de Cuarzo con Correa en A
 
 🔎:
 
-- Resistente al agua: 3 ATM
-- Material de la caja: acero inoxidable
-- Funciones: Día del mes.
 - Tipo de movimiento: Cuarzo
+- Funciones: Día del mes.
+- Material de la caja: acero inoxidable
+- Resistente al agua: 3 ATM
 - Material de la correa: Acero inoxidable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00HG08M7K/?tag=tolees-21)

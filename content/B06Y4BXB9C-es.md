@@ -28,10 +28,10 @@ Tienes [Super Impulse Llavero Tiny Arcade Galaxian  multicolor  0859421005206 ](
 
 🔎:
 
-- Llavero con anilla
-- Juego arcade
-- Máquina jugable
 - Licencia oficial
 - Miniaturas retro
+- Llavero con anilla
+- Máquina jugable
+- Juego arcade
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06Y4BXB9C/?tag=tolees-21)
