@@ -28,8 +28,8 @@ Ahora mismo tienes [Sony CEE Games  New Gen  - Uncharted The Lost Legacy Hits](h
 
 🔎:
 
-- Plataforma: PlayStation 4
 - Personajes con conocimientos sobre arqueología y una capacidad de improvisación
+- Plataforma: PlayStation 4
 - Uncharted El legado perdido
 - Juego de aventura repleta de acción y peligro
 - Presenta el regreso de Chloe Frazer
