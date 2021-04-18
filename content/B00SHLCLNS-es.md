@@ -28,10 +28,10 @@ Tienes [Enri 100430109 - Pack de 10 cuadernos espiral  tapa blanda  4º](https:/
 
 ℹ️:
 
-- 80 hojas con pauta 3mm con margen
-- Formato 4º
 - Paquete de 10 cuadernos con color de tapa aleatorio: rosa, rojo, naranja, verde, azul y lila
-- Espiral simple negra, gira las páginas 360º cómodamente
+- Formato 4º
 - Tapa blanda, que le da ligereza para poder llevarlo donde quieras
+- 80 hojas con pauta 3mm con margen
+- Espiral simple negra, gira las páginas 360º cómodamente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00SHLCLNS/?tag=tolees-21)

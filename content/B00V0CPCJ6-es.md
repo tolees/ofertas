@@ -28,9 +28,9 @@ Está [HELLA 2VP 357 021 011 Piloto posterior   Valuefit   LED   24y12V   izquie
 
 ℹ️:
 
-- Tipo de lámpara: LED Cantidad de LEDS: 21
 - Homologación: E9 6958,ECE
 - Color de carcasa: negro
 - Funciones iluminación: 5 con luz intermitente,con luz de freno,con piloto de marcha atrás,con luces reflectoras,con luz trasera
+- Tipo de lámpara: LED Cantidad de LEDS: 21
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00V0CPCJ6/?tag=tolees-21)
