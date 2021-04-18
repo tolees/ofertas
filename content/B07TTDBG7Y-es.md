@@ -28,8 +28,8 @@ Ahora mismo tienes [Superga 2750-COTCONTRASTU  Zapatillas de Gimnasia Unisex  Bl
 
 🔎:
 
+- Material exterior: tela
 - Material de la suela: goma
 - Forro: tela
-- Material exterior: tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TTDBG7Y/?tag=tolees-21)

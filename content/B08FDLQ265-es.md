@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.02 % en MSI Clutch GM08 - Ratón para Videojuegos'
-date: 2021-04-17 17:17:24
+date: 2021-04-18 18:47:13
 image: 'https://m.media-amazon.com/images/I/41iUstWl4eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
