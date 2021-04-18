@@ -28,10 +28,10 @@ Tienes [NATURE ESSENTIAL - Cabellos uñas & piel. 30 perlas con omega-3  L-cisti
 
 ℹ️:
 
-- El Omega-3 nos aporta nutrición al cabello y mejora el brillo del cabello y la piel, la L-cistina entre sus propiedades destaca que es precursora de compuestos que ayudan a las funciones antioxidantes, forma parte de la queratina y contribuye a la nutrición del cabello, uñas y piel.
-- Contiene Biotina
-- No contiene gluten ni lactosa.
 - Complemento alimenticios a base de Omega-3, aminoácidos, vitaminas y minerales.
 - Aceite de PESCADO 18%EPA/ 12%DHA, Vitamina C (Ácido Áscorbico), Aceite de Borraja, L-Cistina base, Sulfato de Hierro monohidratado, Vitamina B-3 (Nicotinamida), Sulfato de Zinc monohidratado, Vitamina E (DL-alfa-tocoferol), Vitamina B-5 (Pantotenato de calcio), Óxido de Magneiso pesado, Vitamina B-12 (Cianocobalamina), Vitamina B-6 (Piridoxina clorohidrato), Vitamina B-2 (Riboflavina), Vitamina B-1 (Tiamina mononitrato), Vitamina B-9 (Ácido fólico) y Vitamina B-8 (Biotina).
+- El Omega-3 nos aporta nutrición al cabello y mejora el brillo del cabello y la piel, la L-cistina entre sus propiedades destaca que es precursora de compuestos que ayudan a las funciones antioxidantes, forma parte de la queratina y contribuye a la nutrición del cabello, uñas y piel.
+- No contiene gluten ni lactosa.
+- Contiene Biotina
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B007GM5AIC/?tag=tolees-21)
