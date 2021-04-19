@@ -28,14 +28,14 @@ En este momento está [Pattex Pegamento express para madera  resistente al agua 
 
 🔎:
 
+- Más fuerte que la madera
+- Tiempo de manipulación: 15 minutos para maderas naturales y 40 minutos para aglomerados de madera
+- Tiempo de manipulación: 15 minutos para maderas naturales y 40 minutos para aglomerados de madera
+- Tiempo de aplicación: se dispone de 5 minutos para aplicar y realizar la unión
 - Resistencia al agua: cumple la norma EN-204-D2
 - Resistencia tracción cizalla (según norma EN-1465) 100 kg/cm2
-- Tiempo de manipulación: 15 minutos para maderas naturales y 40 minutos para aglomerados de madera
 - Resistencia al agua: cumple la norma EN-204-D2
 - Tiempo de aplicación: se dispone de 5 minutos para aplicar y realizar la unión
 - Resistencia tracción cizalla (según norma EN-1465) 100 kg/cm2 (haya, 23ºC, 48 horas)
-- Tiempo de aplicación: se dispone de 5 minutos para aplicar y realizar la unión
-- Tiempo de manipulación: 15 minutos para maderas naturales y 40 minutos para aglomerados de madera
-- Más fuerte que la madera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00GDFZ83U/?tag=tolees-21)

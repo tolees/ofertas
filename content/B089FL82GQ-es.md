@@ -28,11 +28,11 @@ Ahora mismo tienes [Pikolin Home - Almohada de fibra  antiácaros  funda 100% al
 
 🔎:
 
-- Fabricada sin sustancias nocivas tal y como garantiza su certificado Oekotex (20120k0516-AITEX).
-- Almohada antiácaros firme para personas que desean un soporte cervical firme
-- Su tejido exterior, en 100% algodón de gran calidad, es suave y resistente para facilitar su lavado a máquina.
-- El interior de la almohada está relleno de fibra hueca siliconada ecolofil downtouch de primera calidad, para transmitir una sensación de acogida similar a la de la pluma cuando tu cabeza reposa sobre la almohada.
-- El tratamiento antiácaros ayuda a reducir la presencia de estos molestos insectos, ayudando a reducir la tos y estornudos que provocan en personas alérgicas.
 - Recomendada para dormir de lado o boca arriba, es una almohada versátil y confortable.
+- El interior de la almohada está relleno de fibra hueca siliconada ecolofil downtouch de primera calidad, para transmitir una sensación de acogida similar a la de la pluma cuando tu cabeza reposa sobre la almohada.
+- Almohada antiácaros firme para personas que desean un soporte cervical firme
+- El tratamiento antiácaros ayuda a reducir la presencia de estos molestos insectos, ayudando a reducir la tos y estornudos que provocan en personas alérgicas.
+- Fabricada sin sustancias nocivas tal y como garantiza su certificado Oekotex (20120k0516-AITEX).
+- Su tejido exterior, en 100% algodón de gran calidad, es suave y resistente para facilitar su lavado a máquina.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089FL82GQ/?tag=tolees-21)

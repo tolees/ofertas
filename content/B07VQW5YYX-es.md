@@ -29,8 +29,8 @@ Tienes [Funko- Pop Games: Apex Legends-Bangalore Collectible Toy  Multicolor  43
 ℹ️:
 
 - Figure stands 9cm and comes in a window display box
-- Funko pop; is the 2018 toy of the year and peoples choice award winner
 - Check out the other apex legends figures from funko and collect them all
+- Funko pop; is the 2018 toy of the year and peoples choice award winner
 - From apex legends, bangalore, as a stylized pop vinyl from funko
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VQW5YYX/?tag=tolees-21)
