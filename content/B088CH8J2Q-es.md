@@ -28,10 +28,10 @@ Ahora mismo tienes [Monix Granite - Cazo 16 cm  aluminio forjado con antiadheren
 
 🔎:
 
-- Sistema de ahorro energético Full Induction; Apto para lavavajillas
-- Antiadherente quantanium tricapa reforzado con partículas de titanio; Acabado efecto piedra
-- Diámetro de la boca de la sartén 16 cm y diámetro del fondo del difusor 12.5 cm
 - Apta para el horno y lavavajillas
+- Sistema de ahorro energético Full Induction; Apto para lavavajillas
+- Diámetro de la boca de la sartén 16 cm y diámetro del fondo del difusor 12.5 cm
+- Antiadherente quantanium tricapa reforzado con partículas de titanio; Acabado efecto piedra
 - Superficie reforzada con tecnología metaltec que confiere un textura rugosa como la roca y protege la pieza de los arañazos y abrasión por el uso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088CH8J2Q/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [adidas Originals Samba Leather  Zapatillas de Fútbol Hom
 🔎:
 
 - Capucha forrada.
+- Bolsillos frontales con cremallera.
 - Manga larga con puños de canalé.
 - Bolsillos canguro.
-- Bolsillos frontales con cremallera.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003QYYJAO/?tag=tolees-21)
