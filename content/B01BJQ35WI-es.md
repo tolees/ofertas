@@ -28,10 +28,10 @@ Tienes [NGS Flame Red - Ratón Óptico 1000dpi con Cable USB  Ratón para Ordena
 
 ℹ️:
 
-- Conexión a través de su cable USB y compatible con todas las plataformas.
-- Color rojo.
 - Dispone de scroll vertical, 3 pulsadores y Thumb Control.
 - Ergonomía ambidiestra: puede ser utilizado tanto por usuarios diestros como zurdos.
+- Color rojo.
 - Ratón óptico de 1000 dpi de resolución con conexión USB para aquellos que exigen precisión en el movimiento.
+- Conexión a través de su cable USB y compatible con todas las plataformas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BJQ35WI/?tag=tolees-21)

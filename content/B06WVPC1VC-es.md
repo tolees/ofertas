@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Country Transporte de Caballo  al 55.01 % de descuento'
-date: 2021-04-17 21:56:30
+date: 2021-04-19 10:10:36
 image: 'https://m.media-amazon.com/images/I/515QU-wRQ7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B06WVPC1VC/?tag=tolees-21'
 descuento: '55.01'
-average: '25.99'
+average: '25.7475757575758'
 ---
 
 Está [PLAYMOBIL Country Transporte de Caballo con Holstein y Jinete en traje de Adiestramiento  A partir de 5 años  6928 ](https://www.amazon.es/dp/B06WVPC1VC/?tag=tolees-21) con 55.01 de descuento por 17.99 EUR (original: 39.99 EUR) en el siguiente enlace!
@@ -30,8 +30,8 @@ Está [PLAYMOBIL Country Transporte de Caballo con Holstein y Jinete en traje de
 
 - Diversión para los pequeños amantes de los caballos: PLAYMOBIL Transporte de Caballos con caballo y posibilidad de transportar 2, jinete y otros accesorios para jugar
 - Juego de figuras para niños a partir de 5 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Contenido: 1 PLAYMOBIL Country Transporte de Caballo, Juego de 56 piezas con instrucciones: 1 Camión, 1 caballo, 1 figura, 53 accesorios, Material: plástico, LxPxA: 27x11x14.5 cm, 6928
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Contenido: 1 PLAYMOBIL Country Transporte de Caballo, Juego de 56 piezas con instrucciones: 1 Camión, 1 caballo, 1 figura, 53 accesorios, Material: plástico, LxPxA: 27x11x14.5 cm, 6928
 - 1 figura, 1 caballo, espacio en la cabina para 2 figuras, techo extraíble, rampa desplegable, puertas traseras abatibles, maletero para guardar accesorios y mucho mas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06WVPC1VC/?tag=tolees-21)
