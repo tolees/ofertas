@@ -28,10 +28,10 @@ Ahora mismo tienes [Bosch Professional Medidor láser de distancia GLM 40  funci
 
 🔎:
 
-- DATOS TÉCNICOS: IP 54, resistencia a los impactos 1 m, margen de medición de hasta 40 m, clase de láser 2, exactitud de la medición ± 1,5 mm
 - MÚLTIPLES FUNCIONES: medición intuitiva de longitudes, medición indirecta de alturas, medición de superficies y cálculo de volúmenes con memoria de las últimas diez mediciones
-- USO PROFESIONAL: exactitud de medición garantizada y certificación ISO
 - INCLUYE: medidor de distancia GLM 40 de Bosch Professional (0601072900), 2 pilas de 1,5 V LR03 (AAA), estuche de protección
+- USO PROFESIONAL: exactitud de medición garantizada y certificación ISO
+- DATOS TÉCNICOS: IP 54, resistencia a los impactos 1 m, margen de medición de hasta 40 m, clase de láser 2, exactitud de la medición ± 1,5 mm
 - COMPACTO Y ROBUSTO: Diseño compacto y carcasa robusta y resistente a los impactos para el trabajo diario
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00R0Z7TFM/?tag=tolees-21)

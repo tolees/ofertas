@@ -28,8 +28,8 @@ Ahora mismo tienes [Dolce & Gabbana The One Eau de Parfum  75 ml](https://www.am
 
 🔎:
 
-- Tipo de producto: Agua de perfume
 - Productos de belleza y el cuidado personal
 - Marca: Dolce & Gabbana
+- Tipo de producto: Agua de perfume
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0012RURYO/?tag=tolees-21)
