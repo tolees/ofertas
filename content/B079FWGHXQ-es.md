@@ -28,9 +28,9 @@ Tienes [Trust Gaming GXT 707R Resto - Silla para Gaming  Color Rojo](https://www
 
 🔎:
 
-- Asiento reclinable con posibilidades de bloqueo. Incluye cojines extraíbles y ajustables para la zona lumbar y cervical
 - Cilindro elevador de gas de Clase 4 para ajustar la altura. Respaldo ajustable en 90˚
-- Bastidor metálico sólido y robusto
+- Asiento reclinable con posibilidades de bloqueo. Incluye cojines extraíbles y ajustables para la zona lumbar y cervical
 - Duradero, ruedas dobles que giran con suavidad
+- Bastidor metálico sólido y robusto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079FWGHXQ/?tag=tolees-21)

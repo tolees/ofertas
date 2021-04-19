@@ -28,10 +28,10 @@ Ahora mismo tienes [Cartrend - Unitec 10872 - Llave para Pernos de Ruedas](https
 
 🔎:
 
-- Cromado.
 - Cromo vanadio.
+- Acabado pulido.
+- Cromado.
 - Longitud total: aprox. 535 mm, insertos intercambiables para 17/19 mm.
 - Accionamiento de 1/2 pulgadas.
-- Acabado pulido.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002VJA5Q2/?tag=tolees-21)

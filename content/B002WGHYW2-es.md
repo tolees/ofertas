@@ -28,9 +28,9 @@ Ahora mismo tienes [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto
 
 🔎:
 
-- Cierre con cordones, tipo de tacón plano
 - Material exterior de tela, forro de tela
-- Empeine de algodón puro resistente y transpirable
 - Zapatillas de tenis de lona con suela de goma vulcanizada
+- Empeine de algodón puro resistente y transpirable
+- Cierre con cordones, tipo de tacón plano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002WGHYW2/?tag=tolees-21)
