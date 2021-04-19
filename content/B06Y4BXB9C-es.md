@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Super Impulse Llavero Tiny Arcade Galaxi al 59.03 % de rebaja'
-date: 2021-04-18 16:35:55
+date: 2021-04-19 21:19:14
 image: 'https://m.media-amazon.com/images/I/41MDhqyYmNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Super Impulse Llavero Tiny Arcade Galaxian  multicolor  0859421005206 ](
 
 🔎:
 
+- Licencia oficial
 - Juego arcade
+- Máquina jugable
 - Llavero con anilla
 - Miniaturas retro
-- Máquina jugable
-- Licencia oficial
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06Y4BXB9C/?tag=tolees-21)
