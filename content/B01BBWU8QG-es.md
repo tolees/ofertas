@@ -28,12 +28,12 @@ En este momento está [Sony NWWS413 Walkman - Reproductor MP3 deportivo  4 GB  r
 
 🔎:
 
-- Conectividad: Conexión USB: USB de alta velocidad (compatible con USB 2.0)
-- Requisitos de sistema: Mac OS X (10.6 o posterior), Microsoft Windows 8, Windows Vista (SP2 o posterior), Windows 7 (SP1 o posterior), Windows XP (SP3 o posterior)
-- Capacidad 4 GB
-- Carga rápida, 12 horas de batería
-- Diseño todo en uno para entrenamientos sin cables
-- Funciona a temperaturas de entre -5°C y 45°C
 - Resistente al agua (agua salada) hasta 2 m de profundidad
+- Carga rápida, 12 horas de batería
+- Requisitos de sistema: Mac OS X (10.6 o posterior), Microsoft Windows 8, Windows Vista (SP2 o posterior), Windows 7 (SP1 o posterior), Windows XP (SP3 o posterior)
+- Diseño todo en uno para entrenamientos sin cables
+- Conectividad: Conexión USB: USB de alta velocidad (compatible con USB 2.0)
+- Capacidad 4 GB
+- Funciona a temperaturas de entre -5°C y 45°C
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01BBWU8QG/?tag=tolees-21)
