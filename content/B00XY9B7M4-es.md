@@ -28,8 +28,8 @@ Tienes [CAMPINGAZ Nuevo CP 250 Cartucho de Gas  Gris  Única](https://www.amazon
 
 🔎:
 
+- Peso: 220 g
 - Para cocinas tipo Bistro
 - Contiene: Isobutano Tamaño (sin cap): ø 6.9 x 18 cm
-- Peso: 220 g
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XY9B7M4/?tag=tolees-21)

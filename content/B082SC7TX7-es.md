@@ -29,9 +29,9 @@ Ahora mismo tienes [Dicora UrbanFit - Dicora Urban Fit® Hand Sanitizer Spray Al
 🔎:
 
 - Envase de aluminio 75 ml
-- Permite la absorción al instante, dejando la piel sueve y protegida
-- El Aloe Vera ofrece hidratación notable a tus manos mientras quedan higienizadas
-- Spray higienizante de manos sin aclarado con Aloe Vera
 - Modo de empleo: vaporizar a una distancia de 20 cm aproximadamente
+- Spray higienizante de manos sin aclarado con Aloe Vera
+- El Aloe Vera ofrece hidratación notable a tus manos mientras quedan higienizadas
+- Permite la absorción al instante, dejando la piel sueve y protegida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082SC7TX7/?tag=tolees-21)

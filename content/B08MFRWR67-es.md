@@ -29,8 +29,8 @@ Ahora mismo tienes [Vans Classic Boys Camiseta  Alto Riesgo Rojo-Blanco  M para 
 🔎:
 
 - Tipo de tamaño especial: estándar
-- Corte clásico
 - Camiseta de 145 g
+- Corte clásico
 - 100 % algodón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MFRWR67/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Jazwares- Fortnite Figura coleccionables Raptor  Multicolor 
 
 🔎:
 
+- Contiene plataformas y accesorios
 - Replica de los personajes del videojuego
 - Altura aproximada 10 cm
 - Figura llena de juego y aventuras
-- Contiene plataformas y accesorios
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GHNBYFT/?tag=tolees-21)
