@@ -28,9 +28,9 @@ En este momento está [Bellota 3501-22 Tijera poda bl  Standard  220 mm](https:/
 
 🔎:
 
-- Cierre textil en la parte baja de los mangos
 - Tijeras forjadas en una sola pieza
 - Muelles con recubrimiento antiadherente
+- Cierre textil en la parte baja de los mangos
 - Diámetro de corte 25 mm
 - Diseño clásico y robusto
 

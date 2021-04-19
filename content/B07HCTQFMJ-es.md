@@ -28,10 +28,10 @@ Ahora mismo tienes [Maybelline New York - Tattoo Liner  Lápiz de Ojos Azul Semi
 
 🔎:
 
-- Aplica dibujando el trazo sobre la línea de las pestañas desde el interior del ojo al exterior y aumentando el grosor
-- Su innovadora fórmula está elaborada a base de pigmentos de color intensos y una textura cremosa que logran una mayor precisión
-- El lápiz de ojos semi-permanente y de larga duración que resiste el agua, los roces y el sudor durante todo el día
 - Disfruta de una mirada intensa, llena de pigmentos de color y muy fácil de desmaquillar con agua tibia o micelar
+- Su innovadora fórmula está elaborada a base de pigmentos de color intensos y una textura cremosa que logran una mayor precisión
+- Aplica dibujando el trazo sobre la línea de las pestañas desde el interior del ojo al exterior y aumentando el grosor
+- El lápiz de ojos semi-permanente y de larga duración que resiste el agua, los roces y el sudor durante todo el día
 - Para conseguir mejores resultados y una intensidad tattoo deja secar 30 segundos, no transfiere ni se corre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HCTQFMJ/?tag=tolees-21)

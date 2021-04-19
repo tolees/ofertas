@@ -28,10 +28,10 @@ Tienes [Disney Set de Juego de Figuras Princesa Deluxe](https://www.amazon.es/dp
 
 🔎:
 
+- Aurora en vestido rosa (La bella durmiente)
 - Belle en vestido de gala (La bella y la bestia)
 - Blancanieves (Blancanieves y los siete enanitos)
-- Tienda Disney genuina, original y auténtica
-- Aurora en vestido rosa (La bella durmiente)
 - Cenicienta en vestido de gala (Cenicienta)
+- Tienda Disney genuina, original y auténtica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DPWSGM4/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.53 % en Levi s 711 Skinny Vaqueros  Believe It O'
-date: 2021-04-17 18:19:29
+date: 2021-04-19 12:31:18
 image: 'https://m.media-amazon.com/images/I/41M-x8CNyqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07TV7N55F/?tag=tolees-21'
 descuento: '36.53'
-average: '69.4868571428573'
+average: '69.5361971830987'
 ---
 
 Tienes [Levi s 711 Skinny Vaqueros  Believe It Or Not  23W / 30L para Mujer](https://www.amazon.es/dp/B07TV7N55F/?tag=tolees-21) con un 36.53 % de descuento con precio de oferta de 72.99 EUR (original: 115.0 EUR) en el siguiente enlace!

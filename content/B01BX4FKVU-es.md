@@ -28,8 +28,8 @@ Tienes [HEXBUG- BattleBots Rivals  Innovation First 413-5127 ](https://www.amazo
 
 🔎:
 
+- Incluye 2 battlebots
 - Réplicas de los famosos battlebots
 - Lucha de robots
-- Incluye 2 battlebots
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01BX4FKVU/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Invicta 3330 Reloj de caballero](https://www.amazon.es/dp
 
 🔎:
 
-- Esta modelo funciona con un movimiento de Cuarzo preciso
+- 2 años de garantía Invicta
 - Resistencia a la presión de aqua de 10 bares
 - Este modelo es parte de la colección Invicta I-Force
+- Esta modelo funciona con un movimiento de Cuarzo preciso
 - El Invicta 3330 tiene una caja de acero inoxidable de 46 millimetros con una esfera negro
-- 2 años de garantía Invicta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000GX6U8W/?tag=tolees-21)
