@@ -29,7 +29,7 @@ Tienes [Lee Rider Jacket Chaqueta de jean  Azul  LIGHT BAYBRIDGE IL   Large para
 ℹ️:
 
 - Presenta 2 bolsillos en el pecho
-- Cierre con botones
 - Chaqueta para mujer
+- Cierre con botones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VTYB5FW/?tag=tolees-21)

@@ -28,11 +28,11 @@ Está [Bose SoundLink Color II Altavoz Bluetooth  Blanco](https://www.amazon.es/
 
 ℹ️:
 
-- Robusto y con un exterior de silicona suave al tacto para que puedas transportarlo fácilmente
-- Micrófono incorporado en el altavoz manos libres para disfrutar de conferencias y llamadas personales claras en modo manos libres, con un alcance inalámbrico de unos 10 metros
-- La batería de iones de litio permite un uso portátil de hasta 8 horas y se recarga por medio de fuentes de alimentación USB
-- La tecnología de Bose te ofrece el óptimo sonido en un altavoz pequeño y resistente al agua
 - Micrófono integrado para usarlo como manos libres o acceder a asistentes digitales como Siri o el Asistente de Google
+- La tecnología de Bose te ofrece el óptimo sonido en un altavoz pequeño y resistente al agua
+- Micrófono incorporado en el altavoz manos libres para disfrutar de conferencias y llamadas personales claras en modo manos libres, con un alcance inalámbrico de unos 10 metros
+- Robusto y con un exterior de silicona suave al tacto para que puedas transportarlo fácilmente
 - Las indicaciones de voz te guían por el emparejamiento Bluetooth para que te resulte más fácil que nunca, aunque también tienes la posibilidad de realizar un emparejamiento rápido con dispositivos NFC
+- La batería de iones de litio permite un uso portátil de hasta 8 horas y se recarga por medio de fuentes de alimentación USB
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HETFQKI/?tag=tolees-21)

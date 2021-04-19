@@ -28,10 +28,10 @@ En este momento está [Huawei P40 5G - Smartphone de 6 1" OLED  8GB RAM + 128GB 
 
 🔎:
 
-- Batería de carga rápida y de larga duración: el mecanismo de asignación IA hace un mejor uso de la batería de 3800 mAh para lograr un gran rendimiento y un tiempo de trabajo más prolongado. Gracias a HUAWEI SuperCharge de 22.5W, puedes disfrutar de una carga rápida y segura
-- Graba como quieras con su estabilización Leica Gimbal Leica Gimbal permite grabar vídeos en movimiento de forma completamente nítida y estabilizada
 - Este Smartphone incorpora Android 10 AOSP y Huawei Mobile Services (HMS) Google Mobile Services no está preinstalado
 - Triple cámara Leica de 50 MP con visión nocturna (50+16+8MP)
+- Graba como quieras con su estabilización Leica Gimbal Leica Gimbal permite grabar vídeos en movimiento de forma completamente nítida y estabilizada
+- Batería de carga rápida y de larga duración: el mecanismo de asignación IA hace un mejor uso de la batería de 3800 mAh para lograr un gran rendimiento y un tiempo de trabajo más prolongado. Gracias a HUAWEI SuperCharge de 22.5W, puedes disfrutar de una carga rápida y segura
 - Más veloz con 5G y más recuerdos con sus 128GB con P40 podrás navegar y disfrutar del 5G más rápido que nunca gracias a su procesador Kirin 990 5G con el que podrás disfrutar de videollamadas con cero latencia navegación ultra rápida streaming de vídeos en vivo sin retrasos jugar desde la nube sin descargar juegos etc
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0892T3YZB/?tag=tolees-21)

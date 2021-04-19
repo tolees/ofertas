@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.63 % en 505 Games - Journey to the Savage Planet'
-date: 2021-04-13 09:45:49
+date: 2021-04-19 18:15:44
 image: 'https://m.media-amazon.com/images/I/51HijkoURXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: '505 Games'
 buyurl: 'https://www.amazon.es/dp/B07XGL55XD/?tag=tolees-21'
 descuento: '41.63'
-average: '18.95'
+average: '18.75'
 ---
 
 Tienes [505 Games - Journey to the Savage Planet](https://www.amazon.es/dp/B07XGL55XD/?tag=tolees-21) con un 41.63 % de descuento con precio de oferta de 17.95 EUR (original: 30.75 EUR) en el siguiente enlace!
