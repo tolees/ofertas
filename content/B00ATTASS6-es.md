@@ -28,9 +28,9 @@ Está [Collistar Reafirmante Intensiva 400 ml](https://www.amazon.es/dp/B00ATTAS
 
 ℹ️:
 
+- Super absorbente y de fácil aplicación es adecuada como crema de masaje
 - Crema reafirmante intensiva
 - A poder blando con una mezcla patentada de ingredientes activos con una textura rica
-- Super absorbente y de fácil aplicación es adecuada como crema de masaje
 - Contenido de 400 ml
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00ATTASS6/?tag=tolees-21)

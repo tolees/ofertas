@@ -28,9 +28,9 @@ Ahora mismo tienes [Geox D KENLY A  Mocasines Mujer   Black C9999   36 EU](https
 
 🔎:
 
-- Comfortable
+- Ideal for office
 - Durable
 - garantía de reembolso satisfacción
-- Ideal for office
+- Comfortable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792FNMKQ/?tag=tolees-21)

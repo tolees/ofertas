@@ -28,10 +28,10 @@ Ahora mismo tienes [adidas Puremotion Men  Zapatillas Hombre  Tinley/FTWBLA/INDT
 
 🔎:
 
-- Horma clásica
-- Cierre de cordones
-- Parte superior textil
 - Zapatilla inspirada en el estilo del tenis
+- Horma clásica
+- Parte superior textil
+- Cierre de cordones
 - Diseño ligero y transpirable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089QQ7TWW/?tag=tolees-21)

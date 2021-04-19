@@ -30,8 +30,8 @@ Ahora mismo tienes [NETGEAR Switch Ethernet de 8 puertos GS308E  Switch Gigabit 
 
 - Configuración de red simple, pero útil, además de conectividad plug-and-play
 - Habilite la configuración y administración de la red al precio de un switch no administrado
+- Conmutación inteligente: entre las características de este switch se incluyen VLAN y Calidad de servicio (QoS) para la segmentación y priorización del tráfico
 - Switch de red Gigabit Ethernet de 8 puertos con gestión Smart Managed Plus
 - Gestión flexible a través de un navegador web fácil de usar. Gestión de la interfaz gráfica de usuario o el uso de la aplicación de utilidad basada en PC
-- Conmutación inteligente: entre las características de este switch se incluyen VLAN y Calidad de servicio (QoS) para la segmentación y priorización del tráfico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PDHVZNS/?tag=tolees-21)

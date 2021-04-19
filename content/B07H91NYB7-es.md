@@ -28,10 +28,10 @@ Ahora mismo tienes [BERING Reloj Analógico para Hombre de Cuarzo con Correa en 
 
 🔎:
 
-- Classic Watch Collection , clásico, purista y, sin embargo, emocionante: inspirado en el diseño danés , Quartz
-- Caja: acero inoxidable de grado médico 316l / oro rosa / 40 mm de diámetro / 8 mm de espesor
-- El cristal de zafiro es resistente a golpes y rayaduras
 - Resistente al agua hasta 3 ATM / 30 metros / 98 pies , resistencia general a la lluvia, salpicaduras, inmersión accidental y ducha, no apto para nadar o bañarse
+- Classic Watch Collection , clásico, purista y, sin embargo, emocionante: inspirado en el diseño danés , Quartz
 - Correa: acero inoxidable de grado médico 316l / negro / 180 mm de largo / 20 mm de ancho
+- El cristal de zafiro es resistente a golpes y rayaduras
+- Caja: acero inoxidable de grado médico 316l / oro rosa / 40 mm de diámetro / 8 mm de espesor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H91NYB7/?tag=tolees-21)
