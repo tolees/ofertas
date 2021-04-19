@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Dreams con un 50.13 % de descuento'
-date: 2021-04-18 07:22:44
+date: 2021-04-19 07:39:42
 image: 'https://m.media-amazon.com/images/I/51TgetSStWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B083VMNPJK/?tag=tolees-21'
 descuento: '50.13'
-average: '28.8343333333333'
+average: '28.546129032258'
 ---
 
 En este momento está [Sony - Dreams](https://www.amazon.es/dp/B083VMNPJK/?tag=tolees-21) a 19.9 EUR (original: 39.9 EUR) (50.13 %  de descuento) en el siguiente enlace!
