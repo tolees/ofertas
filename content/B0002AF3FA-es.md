@@ -28,10 +28,10 @@ En este momento está [Xerox Papier Business 80 A4 - Papel  80 g/m²  40-65%  18
 
 🔎:
 
-- Espesor: 106µm 2
-- bleichverfahren: ECF (Elementar CLORO )
-- geben ella su modelo Uno, UM sicherzustellen, DASS ESTE Artículo Encaja
 - weißegrad: 150 Cie 2
+- bleichverfahren: ECF (Elementar CLORO )
 - CELULOSA: Sin Madera
+- Espesor: 106µm 2
+- geben ella su modelo Uno, UM sicherzustellen, DASS ESTE Artículo Encaja
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0002AF3FA/?tag=tolees-21)

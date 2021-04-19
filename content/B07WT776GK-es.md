@@ -28,15 +28,15 @@ Está [SAMSUNG Galaxy Watch Active 2 - Smartwatch de Aluminio  44mm  Color Rose 
 
 ℹ️:
 
-- Almacenamiento 4gb + 768 mbram; batería 340 mah
-- Micrófono, altavoz, carga inalámbrica, samsung pay
+- Con una resistencia al agua de 5 atmósferas de presión y con certificación milstd- 810g, es idóneo para nadar y realizar ejercicio o actividades al aire libre
+- Galaxy watch active2 ahora es capaz de monitorizar automáticamente 7 tipos de ejercicio (natación como novedad) y 39 ejercicios más, de forma manual
 - Sistema operativo tizen os 4. X
 - Procesador exynos 9110; 1. 15ghz, ca53 dual, t720 gpu, 10nm
-- Con una resistencia al agua de 5 atmósferas de presión y con certificación milstd- 810g, es idóneo para nadar y realizar ejercicio o actividades al aire libre
+- Almacenamiento 4gb + 768 mbram; batería 340 mah
 - Conectividad bt 5. 0, wi-fi b/g/n, nfc, a-gps
-- Pantalla 1. 35”(33mm); 360 x 360 super amoled full color aodgorilla glass dx+
+- Micrófono, altavoz, carga inalámbrica, samsung pay
 - Galaxy watch active2 es delgado, elegante y ligero, sin perder robustez
 - Galaxy watch active2 es resistente para todo tipo de entornos, incluyendo piscinas
-- Galaxy watch active2 ahora es capaz de monitorizar automáticamente 7 tipos de ejercicio (natación como novedad) y 39 ejercicios más, de forma manual
+- Pantalla 1. 35”(33mm); 360 x 360 super amoled full color aodgorilla glass dx+
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WT776GK/?tag=tolees-21)
