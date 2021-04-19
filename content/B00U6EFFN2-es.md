@@ -28,8 +28,8 @@ Ahora mismo tienes [L Oréal Paris - L Oreal Paris Dermo Expertise Tratamiento T
 
 🔎:
 
-- Este piel normal/mixta
 - Las texturas que ofrece son del tipo crema y gel
+- Este piel normal/mixta
 - Contiene 50 ml
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00U6EFFN2/?tag=tolees-21)

@@ -28,7 +28,7 @@ En este momento está [Superga 2790 COTROPEW - Zapatillas Mujer  Azul  Navy   5 
 
 🔎:
 
-- Azul
 - adulto
+- Azul
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00Y0UCQU8/?tag=tolees-21)

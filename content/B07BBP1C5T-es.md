@@ -28,8 +28,8 @@ Tienes [Timberland Perkins Row 2-Strap  sandale junior Descubierta Unisex niños
 
 ℹ️:
 
-- Material exterior: sintético
-- Forro: tela
 - Material de la suela: goma
+- Forro: tela
+- Material exterior: sintético
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BBP1C5T/?tag=tolees-21)

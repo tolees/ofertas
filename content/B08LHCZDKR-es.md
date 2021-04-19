@@ -29,8 +29,8 @@ En este momento está [Satisfyer  Love Breeze   10 cm  color:copper](https://www
 🔎:
 
 - impermeable (IPX7)
-- recargable, cable de carga USB incluido
 - 11 programas de ondas de presión
+- recargable, cable de carga USB incluido
 - silencioso como un susurro. Fácil de limpiar
 - silicona inocua para la piel
 

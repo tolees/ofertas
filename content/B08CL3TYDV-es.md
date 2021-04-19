@@ -28,10 +28,10 @@ En este momento está [Kipling - Bolsas para Ordenador Superworker S Mysterious 
 
 🔎:
 
-- Ligero.
-- Mono robot de metal
 - Hembra.
-- 62% poliéster, 38% poliéster reciclado.
 - 0,75 kg.
+- 62% poliéster, 38% poliéster reciclado.
+- Mono robot de metal
+- Ligero.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CL3TYDV/?tag=tolees-21)
