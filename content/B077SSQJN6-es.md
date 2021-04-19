@@ -28,9 +28,9 @@ Está [PUMA 655771 03 Camiseta de equipación  Hombre  Azul  Electric Blue Lemon
 
 ℹ️:
 
-- DryCELL: material altamente funcional que evacúa el sudor
-- Capucha con cordón, bolsillo abierto delantero
 - Corte normal
+- Capucha con cordón, bolsillo abierto delantero
+- DryCELL: material altamente funcional que evacúa el sudor
 - Puños y dobladillos elásticos, dobladillo recto delantero
 - Cremallera que se abre desde dentro y desde fuera
 

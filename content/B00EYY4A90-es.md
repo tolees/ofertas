@@ -29,8 +29,8 @@ Tienes [Mantona Premium - Funda para cámara Reflex  Correa para Hombro  Cierre 
 ℹ️:
 
 - La bolsa se caracteriza por la alta calidad del material y la precisión de su fabricación. Es adecuado para la mayoría de las cámaras réflex, tales como Canon EOS 6D II, 70D, 80D, 200D, 550D, 600D, 700D, 750D, 800D, 1000d, 1100D 1200D, 1300D, 2000D, 4000D -- Nikon D3400, D5100 D5300, D5600, D7200 -- Sony Alpha A57 A58 A68
-- Adecuada para cámaras réflex con objetivo, tarjeta de memoria, baterías adicionales o pequeños accesorios. En la cubierta incorpora un sistema que protege la cámara y los objetos personales de lluvia, polvo y arena
 - Dimensiones interiores del compartimiento principal (Altura x Longitud x Anchura) 18 x 16 x 10 cm
+- Adecuada para cámaras réflex con objetivo, tarjeta de memoria, baterías adicionales o pequeños accesorios. En la cubierta incorpora un sistema que protege la cámara y los objetos personales de lluvia, polvo y arena
 - Cubierta superior con cierre de cremallera y con clip, Correa para hombro extraíble y ajustable que proporciona un ajuste cómodo a través del cuerpo o por encima del hombro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00EYY4A90/?tag=tolees-21)

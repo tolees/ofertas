@@ -28,10 +28,10 @@ Está [Wolfpack 2150060 Linea Profesional Torniquete DIN 5117 50x 100mm con Pala
 
 ℹ️:
 
-- Con palanca pasante.
-- Medida: 50 x 100mm.
-- Ideal para trabajos industriales.
-- Articulo también conocido como: sargento.
 - Muy útil para la fijación de piezas que van a ser mecanizadas, pegadas, etc.
+- Con palanca pasante.
+- Articulo también conocido como: sargento.
+- Ideal para trabajos industriales.
+- Medida: 50 x 100mm.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00MDIS8F6/?tag=tolees-21)
