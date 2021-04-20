@@ -28,9 +28,9 @@ En este momento está [Case Logic QHDC-101 - Funda para discos duros  85 g  Rojo
 
 🔎:
 
+- Dimensiones: 2.8 x 8.9 x 20.1 cm.
 - Fabricado en EVA
 - Funda para disco duro de 2.5"
 - Interior forrado y con banda de seguridad
-- Dimensiones: 2.8 x 8.9 x 20.1 cm.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004CJ8DNG/?tag=tolees-21)
