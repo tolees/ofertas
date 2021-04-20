@@ -28,10 +28,10 @@ Ahora mismo tienes [Trust Gaming GXT 165 Celox - Ratón gaming RGB de alta preci
 
 🔎:
 
-- Sensor óptico de alta precisión de hasta 10.000 ppp, iluminación RGB personalizable y varios ciclos de color
+- Software avanzado para programar botones, macros y luces. 8 botones programables, incluido un botón para triple clic
 - Cable trenzado de 1.8 m
 - Botones de selección de velocidad (200 - 10.000 ppp)
 - Peso regulable, 4 pesos de metal de 4 gramos cada uno
-- Software avanzado para programar botones, macros y luces. 8 botones programables, incluido un botón para triple clic
+- Sensor óptico de alta precisión de hasta 10.000 ppp, iluminación RGB personalizable y varios ciclos de color
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KQM5L67/?tag=tolees-21)

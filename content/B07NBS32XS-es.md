@@ -28,10 +28,10 @@ Ahora mismo tienes [Seiko Reloj Analógico para Hombre de Cuarzo con Correa en C
 
 🔎:
 
-- Carcasa con revestimiento de paladio
 - Diámetro de 36,0 x 8,0 mm
+- Cristal de zafiro
+- Carcasa con revestimiento de paladio
 - Sumergible hasta 50 metros
 - Correa de piel con hebilla
-- Cristal de zafiro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NBS32XS/?tag=tolees-21)

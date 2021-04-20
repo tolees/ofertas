@@ -29,7 +29,7 @@ Tienes [Kipling Creativity XB - Body cruzado para mujer  2 5 x 14 x 20 5 cm   co
 🔎:
 
 - Para mujer
-- Crossbody
 - Classics
+- Crossbody
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083YCYM4S/?tag=tolees-21)

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Canal Toys SSC 002 Slime Factory - Juego al 57.13 % de rebaja'
-date: 2021-04-05 11:42:45
-image: 'https://m.media-amazon.com/images/I/51vW50jzDhL._SL400_.jpg'
+date: 2021-04-20 16:33:06
+image: 'https://m.media-amazon.com/images/I/51vW50jzDhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,16 +19,16 @@ flag: '🇪🇸'
 brand: 'Canal Toys'
 buyurl: 'https://www.amazon.es/dp/B0749P4NJB/?tag=tolees-21'
 descuento: '57.13'
-average: '26.2161904761905'
+average: '25.7063636363637'
 ---
 
 Tienes [Canal Toys SSC 002 Slime Factory - Juego creativo  color morado  34 x 31 x 8 cm   color/modelo surtido](https://www.amazon.es/dp/B0749P4NJB/?tag=tolees-21) con precio final de  15.0 EUR (original: 34.99 EUR) (57.13 %  de rebaja) aqui!
 
-[![Canal Toys SSC 002 Slime Factory - Juego](https://m.media-amazon.com/images/I/51vW50jzDhL._SL400_.jpg)](https://www.amazon.es/dp/B0749P4NJB/?tag=tolees-21)
+[![Canal Toys SSC 002 Slime Factory - Juego](https://m.media-amazon.com/images/I/51vW50jzDhL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0749P4NJB/?tag=tolees-21)
 
 🔎:
 
-- So slime slime factory (ssc002)
 - Arcilla y plastilina arcilla y plastilina actividades creativas canal toys
+- So slime slime factory (ssc002)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0749P4NJB/?tag=tolees-21)
