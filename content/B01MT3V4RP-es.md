@@ -28,10 +28,10 @@ Tienes [Lacoste Sport Carnaby EVO BL 1 SPI  Zapatillas para Niños  Blanco  wht/
 
 🔎:
 
+- Logotipo de cocodrilo bordado
 - Cierre de doble banda de velcro
 - Forro de malla
-- Logotipo de cocodrilo bordado
-- Parte superior en relieve con efecto piel
 - Suela exterior clásica de goma
+- Parte superior en relieve con efecto piel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MT3V4RP/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [SanDisk Ultra Fit  Memoria flash USB 3.1 de 64 GB con hasta 
 
 🔎:
 
-- Escribe hasta 15 veces más rápido que las memorias USB 2.0 estándar
 - Velocidades de lectura de hasta 130 MB/s
+- Escribe hasta 15 veces más rápido que las memorias USB 2.0 estándar
 - Mueve una película a la memoria en menos de 30 segundos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077VYCV37/?tag=tolees-21)
