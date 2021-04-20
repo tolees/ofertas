@@ -28,10 +28,10 @@ En este momento está [WOLFPACK LINEA PROFESIONAL 16011005 Cuerda Rafia Bobina 7
 
 🔎:
 
-- Color negro.
-- Articulo también conocido como cuerda tender, cuerda tendedero, cuerda para ropa.
 - STRICTAMENTE PARA USO DOMESTICO. NO SE DEBE USAR NI PARA ELEVACION DE NINGÚN TIPO DE CARGA O PERSONAS NI PARA ARRASTRE NI SUJECCION DE CARGA ALGUNA.
-- Longitud aproximada: 105 metros. Bobina de 750 gramos.
 - Hilo rafia.
+- Articulo también conocido como cuerda tender, cuerda tendedero, cuerda para ropa.
+- Longitud aproximada: 105 metros. Bobina de 750 gramos.
+- Color negro.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00MDJZ3HQ/?tag=tolees-21)

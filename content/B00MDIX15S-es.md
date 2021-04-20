@@ -28,10 +28,10 @@ Tienes [WOLFPACK LINEA PROFESIONAL 16010360 Hilo Nylon Transparente 1.0 mm. Roll
 
 ℹ️:
 
-- Rollo 100 metros.
-- Diámetro: 1.0 mm.
 - Transparente.
 - Articulo similar a hilo de pescar/hilo pesca pero para uso domestico.
+- Diámetro: 1.0 mm.
+- Rollo 100 metros.
 - Uso en: manualidades, escaparatismo, decoracion etc. (no apto para pesca)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00MDIX15S/?tag=tolees-21)

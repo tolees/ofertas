@@ -28,8 +28,8 @@ Está [SanDisk Ultra Flair Memoria flash USB 3.0 de 64 GB  con carcasa de metal 
 
 ℹ️:
 
-- Hasta 150 MB/s de velocidades de lectura
 - Transfiere una película completa en menos de 30 segundos
+- Hasta 150 MB/s de velocidades de lectura
 - Mantén la privacidad de tus archivos privados con el software SanDisk SecureAccess (incluido)
 - Hasta 15 veces más rápido que un USB 2.0 estándar
 

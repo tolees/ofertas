@@ -29,9 +29,9 @@ Tienes [WOLFPACK LINEA PROFESIONAL 15010008 Traje de Agua Impermeable Verde PVC 
 🔎:
 
 - Pantalón con cintura elástica.
+- Conjunto chaqueta pantalón pvc, capucha ajustable con cordón.
 - Puños ajustables con botón a presión.
 - Dos bolsillos bajos con tapeta para que no entre el agua.
-- Conjunto chaqueta pantalón pvc, capucha ajustable con cordón.
 - Doble cierre frontal.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00YB64LEA/?tag=tolees-21)

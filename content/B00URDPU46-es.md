@@ -28,9 +28,9 @@ Está [Mann Filter - MANN-FILTER FP 1919 Calefacción](https://www.amazon.es/dp/
 
 ℹ️:
 
+- Ancho [mm]: 213
 - Altura [mm]: 30
 - Tipo de filtro: con efecto bactericida; con efecto fungicida; Filtro carbón activado con polifenol; Filtro partículas finas (PM 2.5)
 - Longitud [mm]: 193
-- Ancho [mm]: 213
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00URDPU46/?tag=tolees-21)
