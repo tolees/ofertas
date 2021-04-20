@@ -28,10 +28,10 @@ Tienes [Disney Doorables - Disney 69402 Doorables - Peek  multicolor   color/mod
 
 🔎:
 
-- A partir de 5 años
-- 78 personajes para coleccionar en la serie 1
-- Descubre la mejor experiencia de desboxeo
-- Fomenta el juego imaginativo
 - Tu personaje favorito de Disney Doorables con brillantes ojos de purpurina
+- A partir de 5 años
+- Descubre la mejor experiencia de desboxeo
+- 78 personajes para coleccionar en la serie 1
+- Fomenta el juego imaginativo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079PTGNLL/?tag=tolees-21)

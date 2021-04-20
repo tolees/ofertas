@@ -28,10 +28,10 @@ En este momento está [KAAY LASH ADVANCED SERUM. Tratamiento serum crece pestañ
 
 🔎:
 
-- 😊 ¡14 DÍAS!: Gracias al sérum más avanzado del mercado conseguimos en tan solo dos semanas que tus pestañas estén un 46,26% más densas, largas y fuertes.
-- 👩‍🔬TESTADO DERMATOLÓGICAMENTE: Fórmula testada dermatológicamente para garantizar la mejor calidad. Kaay Lash sin conservantes, parabenos, sustancias aromáticas y silicona. CRUELTY FREE.
 - 🥰¡42 DÍAS!: En 42 días los resultados ¡te encantarán!. Tus pestañas pueden llegar hasta un 73% más largas, densas y fuertes. Trabajamos con los mejores principios activos para conseguir trabajar sobre tus pestañas de forma natural y segura.
-- ❤️¡60 DÍAS!: Olvídate de tener pestañas frágiles y cortas. El 91% de las mujeres notan sus pestañas 100% más bonitas.
+- 👩‍🔬TESTADO DERMATOLÓGICAMENTE: Fórmula testada dermatológicamente para garantizar la mejor calidad. Kaay Lash sin conservantes, parabenos, sustancias aromáticas y silicona. CRUELTY FREE.
 - 😍 ¡28 DÍAS!: Su eficacia ha sido probado en Test clínicos por lo que podemos asegurar que en 28 días tus pestañas serán un 66,39% más largas, densas y fuertes.
+- 😊 ¡14 DÍAS!: Gracias al sérum más avanzado del mercado conseguimos en tan solo dos semanas que tus pestañas estén un 46,26% más densas, largas y fuertes.
+- ❤️¡60 DÍAS!: Olvídate de tener pestañas frágiles y cortas. El 91% de las mujeres notan sus pestañas 100% más bonitas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VVYVKGZ/?tag=tolees-21)

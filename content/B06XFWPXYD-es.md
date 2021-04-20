@@ -28,9 +28,9 @@ Está [Samsung EVO Plus - Tarjeta de Memoria de 64 GB y Adaptador SD Rojo](https
 
 ℹ️:
 
-- Escritura secuencial: 60 Mb/s
-- El adaptador SD incluido encaja en la mayoría de dispositivos de cualquier marca, sin alterar para nada la velocidad y rendimiento
 - Permite transferir un vídeo de 3 GB a EL portátil en tan solo 38 segundos
+- El adaptador SD incluido encaja en la mayoría de dispositivos de cualquier marca, sin alterar para nada la velocidad y rendimiento
+- Escritura secuencial: 60 Mb/s
 - Lectura secuencial: 100 Mb/s
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XFWPXYD/?tag=tolees-21)
