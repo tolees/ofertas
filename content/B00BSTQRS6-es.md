@@ -30,8 +30,8 @@ Está [Lotus Reloj Analógico para Niñas de Cuarzo con Correa en Acero Inoxidab
 
 - Reloj marca Lotus
 - Caja fabricada en acero inoxidable con un diámetro de 23 milímetros
-- Correa fabricada en acero inoxidable
 - Con visualización analógica
+- Correa fabricada en acero inoxidable
 - Resistente al agua hasta 50 metros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BSTQRS6/?tag=tolees-21)

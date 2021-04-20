@@ -28,10 +28,10 @@ Está [Torres - Santa Digna Rosé  Vino Rosado - 6 botellas de 75 cl  Total: 450
 
 ℹ️:
 
-- Puede disfrutarlo desde ahora, bien conservado aguantará 2 años. Graduación: 13% vol.
-- Origen: Central Valley Regions
-- Cosecha puede variar
 - Ideal con las pastas con salsa de carne, tomate y verduras,la cocina oriental. Servir a 8-10ºC.
+- Puede disfrutarlo desde ahora, bien conservado aguantará 2 años. Graduación: 13% vol.
+- Cosecha puede variar
 - Color cereza. Notas perfumadas de ciruela, fresa, pomelo. Paladar de gran cuerpo y fina acidez. Elegante y sensual.
+- Origen: Central Valley Regions
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00DWHLYW6/?tag=tolees-21)

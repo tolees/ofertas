@@ -28,10 +28,10 @@ Está [Roxy Whole Hearted - Licra De Manga Corta con Protección Solar UPF 50 pa
 
 ℹ️:
 
+- Acabado en el cuello
+- Serigrafía con logo en la manga izquierda y en la parte central delantera
 - Corte: Corte muy ceñido
 - Protección UV: protección solar UPF 50
-- Serigrafía con logo en la manga izquierda y en la parte central delantera
 - Tejido: tejido suave, elástico y resistente
-- Acabado en el cuello
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0825PGCZ1/?tag=tolees-21)

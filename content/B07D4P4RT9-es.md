@@ -28,10 +28,10 @@ Tienes [Canal Toys SSC 011 Slime Factory - Juego creativo  color azul  34 x 31 x
 
 🔎:
 
-- La marca del producto es Canal Toys
-- No necesita pegamento
-- Es adecuado para actividades creativas
 - La edad mínima recomendada es 6 años
+- La marca del producto es Canal Toys
+- Es adecuado para actividades creativas
 - Se prepara fácilmente con agua
+- No necesita pegamento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D4P4RT9/?tag=tolees-21)
