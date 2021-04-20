@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vacuvin - Vacu Vin Tapones para Bomba de al 50.00 % de descuento'
-date: 2021-04-17 07:00:27
+date: 2021-04-20 08:09:24
 image: 'https://m.media-amazon.com/images/I/41yzTEcxGCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

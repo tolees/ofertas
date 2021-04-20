@@ -29,7 +29,7 @@ Tienes [WOLFPACK LINEA PROFESIONAL 4110240 Sifon Botella Extensible T-4-TD 1 1/2
 ℹ️:
 
 - Con una toma de desagüe y 2 tomas de lavadora o lavavajillas.
-- Extensible T-4-TD.
 - Medida 11/2.
+- Extensible T-4-TD.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00MDJ3FD0/?tag=tolees-21)
