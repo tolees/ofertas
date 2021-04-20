@@ -28,8 +28,8 @@ Tienes [Skechers Equalizer 4.0  Zapatillas Hombre  Negro Negro Malla PU Negro Ri
 
 🔎:
 
-- SKECHERS
-- SYNTHETIC
 - zapatillas de deporte
+- SYNTHETIC
+- SKECHERS
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VB99T4Q/?tag=tolees-21)

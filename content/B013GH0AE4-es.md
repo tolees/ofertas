@@ -28,11 +28,11 @@ Tienes [Remington HC5035 ColourCut - Máquina de Cortar pelo con cable  16 Acces
 
 🔎:
 
+- Además incluye un cepillo para el cuello, cepillo de limpieza, tijeras, peine, y adaptador
+- (de 1,5 a 25 milímetros) y 2 peines guía para la zona de las orejas
 - Palanca de ajuste con 6 posiciones, de 0,5 a 2 milímetros
+- Incluye 9 peines de colores que facilitan la selección de la longitud
 - Cortapelos con cuchillas de acero inoxidable autoafilables
 - Funciona con cable ((no se muestra en la imagen)
-- (de 1,5 a 25 milímetros) y 2 peines guía para la zona de las orejas
-- Incluye 9 peines de colores que facilitan la selección de la longitud
-- Además incluye un cepillo para el cuello, cepillo de limpieza, tijeras, peine, y adaptador
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B013GH0AE4/?tag=tolees-21)

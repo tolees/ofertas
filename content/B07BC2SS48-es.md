@@ -28,9 +28,9 @@ En este momento está [Bourjois Satin Edition Sombra de Ojos Líquida Tono 4 Abr
 
 🔎:
 
+- Con una fórmula cremosa
+- Con pigmentos iridiscentes
 - Sombra de ojos líquida
 - Ligera y duradera
-- Con pigmentos iridiscentes
-- Con una fórmula cremosa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BC2SS48/?tag=tolees-21)
