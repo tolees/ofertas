@@ -28,7 +28,7 @@ Tienes [FILA Morro Bay 2.0 men Sandalia Hombre  azul  Dress Blue   43 EU](https:
 
 🔎:
 
-- Suela exterior de EVA moldeada
 - Correa
+- Suela exterior de EVA moldeada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V5JVQ4P/?tag=tolees-21)

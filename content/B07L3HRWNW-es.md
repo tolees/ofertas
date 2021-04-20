@@ -28,8 +28,8 @@ En este momento está [adidas Advantage  Sneaker Hombre  Blanco FTWR White FTWR 
 
 🔎:
 
-- Corte regular
-- Suela de goma
 - Cordones de zapatos
+- Suela de goma
+- Corte regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L3HRWNW/?tag=tolees-21)
