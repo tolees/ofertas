@@ -28,10 +28,10 @@ Tienes [EBL 808 Cargador de pilas con 4 Unidades de AA 2800mAh y 4 unidades AAA 
 
 🔎:
 
-- Caja de almacenamiento - Embalamos cada 4 pilas en una caja de almacenamiento, 4* 2800mAh AA y 4*1100mAh AAA Ni-MH pilas recargables, Alta y mayor capacidad en amazon, más cuidado y profesional.
-- Es un producto muy seguro , es experto en reducir el calor. Automáticamente deja de cargar cuando el voltaje llega al 3,4v.
 - Con controlada por MCU, automáticamente deja de cargar al insertar las pilas defectuosas, voltaje incorrecto. Es muy seguro , con certificado, protege sus pilas contra sobretensiones, cortocircuitos, sobrecarga y sobrecalentamiento.
-- Este cargador de pilas es muy portable y ligero, es ideal para cargar 2/4/6/8 pilas recargable de AA / AAA Ni-MH. No es posible utilizarlo con pilas alcalinas o de litio.
 - Las pilas son aplicado en los equipos domésticos como la cámara digital, juguete, control remoto, juego de máquina portátil, radios de 2 vías, PDAs, linternas, despertadores, Reloj, LCD-TV, cepillos de dientes, máquinas de afeitar etc.
+- Es un producto muy seguro , es experto en reducir el calor. Automáticamente deja de cargar cuando el voltaje llega al 3,4v.
+- Este cargador de pilas es muy portable y ligero, es ideal para cargar 2/4/6/8 pilas recargable de AA / AAA Ni-MH. No es posible utilizarlo con pilas alcalinas o de litio.
+- Caja de almacenamiento - Embalamos cada 4 pilas en una caja de almacenamiento, 4* 2800mAh AA y 4*1100mAh AAA Ni-MH pilas recargables, Alta y mayor capacidad en amazon, más cuidado y profesional.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06W9FPNLP/?tag=tolees-21)

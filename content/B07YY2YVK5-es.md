@@ -28,8 +28,8 @@ Tienes [Sony CEE Games  New Gen  - GOW Hits](https://www.amazon.es/dp/B07YY2YVK5
 
 ℹ️:
 
-- Es divertido
 - Es para PS4
+- Es divertido
 - Juego de acción
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YY2YVK5/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Cybex Gold 520000547  Silla De Coche  Azul  Navy Blue   9-36
 
 🔎:
 
-- Respaldo regulable en altura con 12 posiciones y reclinable con una mano, Se transforma fácilmente en la silla de coche Solution S-Fix para niños a partir de 3 años (Grupo 2/3) al retirar el cojín de seguridad y la base
-- Máxima seguridad - Cojín de seguridad regulable, Reposacabezas reclinable en 3 posiciones, Protección integrada contra impactos laterales (Sistema L.S.P.), Estructura con alta absorción de impactos
 - Fácil de fijar al asiento del coche con el cinturón de seguridad y con el sistema Isofix (opcional) para una mayor estabilidad, Funda lavable a máquina (30°C), Accesorios disponibles no incluidos: funda de verano, portavasos
-- Silla de coche estable y duradera de alta calidad, Para niños desde 9 meses hasta 12 años aprox. (9-36 kg), Apta para coches sin y con ISOFIX, RACE, Octubre 2018, Bueno, 2,1
+- Respaldo regulable en altura con 12 posiciones y reclinable con una mano, Se transforma fácilmente en la silla de coche Solution S-Fix para niños a partir de 3 años (Grupo 2/3) al retirar el cojín de seguridad y la base
 - Contenido: 1 Silla de coche Pallas S-Fix con sistema Isofix Connect (anclaje Isofix), Incl. Bocas ISOFIX, Material funda: 100% Poliéster, Dimensiones (LxPxA): 43 x 50 x 68,5 cm, Peso: 10,1 kg, Color: Navy Blue
+- Máxima seguridad - Cojín de seguridad regulable, Reposacabezas reclinable en 3 posiciones, Protección integrada contra impactos laterales (Sistema L.S.P.), Estructura con alta absorción de impactos
+- Silla de coche estable y duradera de alta calidad, Para niños desde 9 meses hasta 12 años aprox. (9-36 kg), Apta para coches sin y con ISOFIX, RACE, Octubre 2018, Bueno, 2,1
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XVYGFKN/?tag=tolees-21)
