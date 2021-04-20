@@ -28,10 +28,10 @@ Tienes [Lenor UNstoppables Perlas de Perfume para la Ropa  90 Lavados  6 x 210 g
 
 ℹ️:
 
+- Las perlas Lenor Unstoppables están disponibles en diferentes aromas; recomendamos que las combines con nuestro detergente Ariel PODs
+- Botella de plástico 100 % reciclado, excepto el tapón, el dosificador y la tapa
 - Potenciador de fragancia para el lavado con jugosos aromas cítricos envueltos en notas florales que garantiza mayor frescura entre lavados
 - Lenor Unstoppables debe introducirse en el tambor vacío antes de cada lavado y, a continuación, añadir la ropa y el detergente como en una colada habitual
 - Personaliza la intensidad de la fragancia echando más o menos perlas
-- Botella de plástico 100 % reciclado, excepto el tapón, el dosificador y la tapa
-- Las perlas Lenor Unstoppables están disponibles en diferentes aromas; recomendamos que las combines con nuestro detergente Ariel PODs
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B087N9VXS5/?tag=tolees-21)

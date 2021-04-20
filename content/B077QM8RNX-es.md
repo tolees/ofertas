@@ -28,10 +28,10 @@ En este momento está [Muvit I/O MIODDUW1 - Nube personal portátil de 1 TB  WiF
 
 🔎:
 
-- Almacenamiento: 1 TB (disco duro de 2.5")
-- Gestión de APP: fácil de utilizar incluso para niños y personas mayores
-- Sistema operativo: IOS, Android, Windows, MAC OS, Linux
-- Transferencia de datos de alta velocidad: (300Mbps) mediante WiFi Hotspot personal
 - Conexión: máximo 10 dispositivos conectados al mismo tiempo (para vídeo: 4 dispositivos a 720P o 2 dispositivos a 1080P)
+- Gestión de APP: fácil de utilizar incluso para niños y personas mayores
+- Transferencia de datos de alta velocidad: (300Mbps) mediante WiFi Hotspot personal
+- Almacenamiento: 1 TB (disco duro de 2.5")
+- Sistema operativo: IOS, Android, Windows, MAC OS, Linux
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077QM8RNX/?tag=tolees-21)
