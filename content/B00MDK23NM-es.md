@@ -28,9 +28,9 @@ En este momento está [Oryx 3035040 Pomo Puerta Seta Color Inox Oryx](https://ww
 
 🔎:
 
+- Realizado en metal.
+- Ideal para tirar de la puerta.
 - Acabado: satinado.
 - Color Inox.
-- Ideal para tirar de la puerta.
-- Realizado en metal.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00MDK23NM/?tag=tolees-21)

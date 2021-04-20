@@ -28,9 +28,9 @@ En este momento está [MAURER Spray Aceite Corte Fresa y Torno 400 ml.](https://
 
 🔎:
 
-- Capacidad 400 ml.
 - Aceite optimizado para taladro, corte, fresado y torno.
-- Para su aplicación se recomienda el uso de guantes, mascarilla y gafas de protección.
 - Engrasa y protege.
+- Capacidad 400 ml.
+- Para su aplicación se recomienda el uso de guantes, mascarilla y gafas de protección.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00HWRF8S8/?tag=tolees-21)

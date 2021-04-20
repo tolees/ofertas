@@ -28,7 +28,7 @@ Está [Dragon Ball Super: Gift Box 2](https://www.amazon.es/dp/B07VMC351N/?tag=t
 
 ℹ️:
 
-- Series 8 Battle Card x1
 - Series 8 Booster Packs x6
+- Series 8 Battle Card x1
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VMC351N/?tag=tolees-21)

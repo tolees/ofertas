@@ -28,8 +28,8 @@ Ahora mismo tienes [Black Diamond Distance Carbon Z Bastones  Unisex Adult  Negr
 
 🔎:
 
-- Ultraligero: dos bastones pesan sólo 285 gramos
 - Trail running: muelle fácil gracias a 100% fibra de carbono construcción
+- Ultraligero: dos bastones pesan sólo 285 gramos
 - Regulable: plegable tres segmento bastón de senderismo
 - Mejora: conexiones reforzadas y rigidez mejorada
 - Ergonómico: mango de espuma eva

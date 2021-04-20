@@ -28,10 +28,10 @@ En este momento está [Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa
 
 🔎:
 
-- Material de la correa: Acero inoxidable
-- Grosor de la caja: 13 mm; Tamaño de la caja: 57mm x 67 mm
-- Resistente al agua: 3 ATM
 - Ancho de la correa: 26 mm; Circunferencia de la correa: 200 +/-5 mm
+- Grosor de la caja: 13 mm; Tamaño de la caja: 57mm x 67 mm
+- Material de la correa: Acero inoxidable
 - Se presenta en caja de regalo Diesel
+- Resistente al agua: 3 ATM
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G45VD3Y/?tag=tolees-21)
