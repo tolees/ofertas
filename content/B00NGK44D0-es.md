@@ -28,9 +28,9 @@ Tienes [Esteve After Bite Pediátrico Alivio inmediato del picor - 20 g  negro](
 
 ℹ️:
 
-- Eficacia demostrada científicamente
-- Apto para niños a partir de 0 años
 - Apto durante el embarazo
 - Alivio inmediato del picor en pieles sensibles ocasionado por insectos, medusas y plantas.
+- Eficacia demostrada científicamente
+- Apto para niños a partir de 0 años
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NGK44D0/?tag=tolees-21)

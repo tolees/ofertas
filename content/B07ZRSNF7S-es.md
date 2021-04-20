@@ -29,9 +29,9 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Láminas de chocolate con leche b
 🔎:
 
 - Fabricado en Bélgica
-- RAINFOREST ALLIANCE CERTIFIED: El cacao que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: come mejor, hazlo mejor
-- Chocolate con leche con arroz inflado crujiente
 - Este envase contiene 5 porciones
+- Chocolate con leche con arroz inflado crujiente
+- RAINFOREST ALLIANCE CERTIFIED: El cacao que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: come mejor, hazlo mejor
 - No apto para alérgicos a los frutos de cáscara debido al método de producción
 - Apto para dietas vegetarianas
 
