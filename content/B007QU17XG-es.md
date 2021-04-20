@@ -29,9 +29,9 @@ Ahora mismo tienes [Gembird CC-HDMI4-6 - Cable HDMI  1.8m](https://www.amazon.es
 🔎:
 
 - Conectores de tipo HDMI
-- Velocidad de transferencia de datos de 10 Gbit/s
 - Con una longitud de 1.8 metros
-- Contactos del conector chapados en oro
 - Tipo de género: macho/macho
+- Velocidad de transferencia de datos de 10 Gbit/s
+- Contactos del conector chapados en oro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007QU17XG/?tag=tolees-21)
