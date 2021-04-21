@@ -28,8 +28,8 @@ En este momento está [Lee Elly Jeans  Lavados  32W x 33L para Mujer](https://ww
 
 🔎:
 
-- Transparente.
 - Slim.
 - DENIM STRETCH
+- Transparente.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXVS9X8/?tag=tolees-21)
