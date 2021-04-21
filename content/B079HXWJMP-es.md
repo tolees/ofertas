@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'THQ NORDIC - This is the Police 2 - Nint al 50.42 % de rebaja'
-date: 2021-04-20 20:27:09
+title: 'THQ NORDIC - This is the Police 2 - Nint al 50.15 % de rebaja'
+date: 2021-04-21 22:23:18
 image: 'https://m.media-amazon.com/images/I/41lxl05fszL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B079HXWJMP-es THQ NORDIC - This is the Police 2 - Nintendo Switch'
 sku: 'B079HXWJMP-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','thq nordic', ]
-actualPrice: 14.87 EUR
+actualPrice: 14.95 EUR
 currency: EUR
-price: 14.87
+price: 14.95
 comparePrice: 29.99 EUR
 prodname: 'THQ NORDIC - This is the Police 2 - Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
 brand: 'THQ NORDIC'
 buyurl: 'https://www.amazon.es/dp/B079HXWJMP/?tag=tolees-21'
-descuento: '50.42'
-average: '15.101875'
+descuento: '50.15'
+average: '15.0929411764706'
 ---
 
-Tienes [THQ NORDIC - This is the Police 2 - Nintendo Switch](https://www.amazon.es/dp/B079HXWJMP/?tag=tolees-21) con precio final de  14.87 EUR (original: 29.99 EUR) (50.42 %  de rebaja) aqui!
+Tienes [THQ NORDIC - This is the Police 2 - Nintendo Switch](https://www.amazon.es/dp/B079HXWJMP/?tag=tolees-21) con precio final de  14.95 EUR (original: 29.99 EUR) (50.15 %  de rebaja) aqui!
 
 [![THQ NORDIC - This is the Police 2 - Nint](https://m.media-amazon.com/images/I/41lxl05fszL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B079HXWJMP/?tag=tolees-21)
 

@@ -28,10 +28,10 @@ Está [Compo Gatos y Perros  Agente Proteger de la contaminación  Granulado de 
 
 ℹ️:
 
-- Contenido: 1 x COMPO Repelente gatos y perros, Granulado, 240 g
 - Fácil de utilizar: limpie las superficies contaminadas con agua, esparza el granulado de manera uniforme en las zonas secas, 8 g por m², repita 2-3 veces a intervalos de 1 día, este envase es para hasta 27 m2
-- Gel a base de cristales gelificados, eficaz protección para mantener a perros y gatos alejados de las plantas, efecto a largo plazo en 20 días por la lenta liberación de las sustancias, resiste las inclemencias del tiempo
 - Libera lentamente un olor fuerte muy perfumado que confunde el sentido del olfato en gatos y perros, óptimo efecto que evita que perros y gatos estropeen las plantas
+- Gel a base de cristales gelificados, eficaz protección para mantener a perros y gatos alejados de las plantas, efecto a largo plazo en 20 días por la lenta liberación de las sustancias, resiste las inclemencias del tiempo
 - Después de la aplicación, barre los granos y deséchalos con la basura doméstica
+- Contenido: 1 x COMPO Repelente gatos y perros, Granulado, 240 g
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IDLVAZ6/?tag=tolees-21)

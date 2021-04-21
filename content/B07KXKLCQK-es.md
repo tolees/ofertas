@@ -28,12 +28,12 @@ Ahora mismo tienes [Olay Luminous Whip Light As Air Hidratante  Crema facial nia
 
 🔎:
 
+- Trata la hiperpigmentación
+- Actúa como prebase e hidratante 2 en 1 para una piel lisa, luminosa y mate
+- Hidrata e iguala el tono al instante, iluminando la piel
 - Fórmula enriquecida con vitamina B3
 - Los productos Olay se crean en colaboración con más de 8000 mujeres al año
-- Prueba Olay a diario durante 28 días. Experimenta una transformación real de la piel
-- Trata la hiperpigmentación
-- Hidrata e iguala el tono al instante, iluminando la piel
 - Apta para piel normal, seca y grasa
-- Actúa como prebase e hidratante 2 en 1 para una piel lisa, luminosa y mate
+- Prueba Olay a diario durante 28 días. Experimenta una transformación real de la piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KXKLCQK/?tag=tolees-21)
