@@ -30,8 +30,8 @@ En este momento está [G-STAR RAW Roxic Tapered Cargo Pantalones  Azul  Mazarine
 
 - Cierre de botones y cremallera
 - Bajo ajustable con cinta
+- Cierre de botones y cremallera
 - Logotipo de G-Star RAW en el bolsillo para monedas y etiqueta tejida en el bajo
 - Talle medio
-- Cierre de botones y cremallera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QGVQX18/?tag=tolees-21)

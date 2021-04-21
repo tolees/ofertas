@@ -28,10 +28,10 @@ Ahora mismo tienes [Casio Reloj de Pulsera AE-1200WH-1AVEF](https://www.amazon.e
 
 🔎:
 
-- La duración de la batería es de 10 años
 - Incluye cronómetro, temporizadores, 5 alarmas diarias y calendario automático
-- Resistente al agua hasta 10 bar / 100 metros
 - Luz LED para iluminar la esfera del reloj
 - Función de hora universal e indicador de hora de 12/24 horas
+- La duración de la batería es de 10 años
+- Resistente al agua hasta 10 bar / 100 metros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0099M2IWI/?tag=tolees-21)

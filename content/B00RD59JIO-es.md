@@ -28,8 +28,8 @@ Tienes [Starrett K53M-200-S - Trate Plaza](https://www.amazon.es/dp/B00RD59JIO/?
 
 🔎:
 
-- Diseño atractivo, ligero y cómodo
 - La longitud del cuadrado es de 200 mm
 - Ideal para marcar y medir ángulos rectos en carpintería
+- Diseño atractivo, ligero y cómodo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00RD59JIO/?tag=tolees-21)

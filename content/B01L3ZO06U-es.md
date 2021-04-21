@@ -28,8 +28,8 @@ Está [HP Z3700 RF Raton óptico inalámbrico 1200DPI Dorado  Ambidiestro  - Rat
 
 ℹ️:
 
-- Producto de alta calidad, de la marca HP
 - Diseño funcional
+- Producto de alta calidad, de la marca HP
 - Hp z3700 Gold Wireless mouse
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01L3ZO06U/?tag=tolees-21)

@@ -28,13 +28,13 @@ Está [Bomann KM 315 Batidora amasadora  5.6 litros  5 velocidades  1200 W  incl
 
 ℹ️:
 
+- Bol de acero fino de 5,6 litros para preparar mezclas de máximo 2,5 kg
+- ¡Atención! El producto KM315 eu un pack de 2 aparatos: la batidora amasadora KM305 + Bascula modelo KW1515. Cada uno de los dos aparatos que forma el pack KM315 viene con el manual correspondiente a cada aparato
+- 5 niveles de potencia
+- ¡Nota! Los niveles de potencia son 5 y el primero nivel es 0 (0-1-2-3-4)
 - Incluye un bol de acero inoxidable y 3 accesorios de mezcla: gancho especial masas pesadas, gacho agitador especial pastas y batidor de varillas
 - Tapa para la protección contra salpicaduras
-- ¡Nota! Los niveles de potencia son 5 y el primero nivel es 0 (0-1-2-3-4)
-- ¡Atención! El producto KM315 eu un pack de 2 aparatos: la batidora amasadora KM305 + Bascula modelo KW1515. Cada uno de los dos aparatos que forma el pack KM315 viene con el manual correspondiente a cada aparato
-- Dimensiones del producto: 28 x 35 x 39 cm
 - Batidora amasadora de 1200 W + báscula de cocina
-- 5 niveles de potencia
-- Bol de acero fino de 5,6 litros para preparar mezclas de máximo 2,5 kg
+- Dimensiones del producto: 28 x 35 x 39 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B017PBIS1E/?tag=tolees-21)

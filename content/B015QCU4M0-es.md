@@ -28,8 +28,8 @@ Tienes [Capcom - Resident Evil Origins Collection](https://www.amazon.es/dp/B015
 
 ℹ️:
 
-- Juega por primera vez con Albert Wesker como protagonista en Resident Evil 0 en su nuevo modo "Wesker"
 - Con Resident Evil Origins Collection vuelve el intenso terror que experimentaron los fans por primera vez con el lanzamiento del original
+- Juega por primera vez con Albert Wesker como protagonista en Resident Evil 0 en su nuevo modo "Wesker"
 - Resident Evil Origins Collection incluye en Resident Evil 0 y Resident Evil HD por primera vez juntos
 - Resident Evil Origins Collection, utiliza las últimas mejoras de resolución y la tecnología de modelados en 3D, las resoluciones de juego y las texturas se han renovado de forma significativa
 
