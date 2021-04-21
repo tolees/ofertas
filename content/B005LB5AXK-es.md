@@ -28,12 +28,12 @@ Tienes [Lékué - Kit para Macarons  Color marrón Oscuro](https://www.amazon.es
 
 ℹ️:
 
-- Dimensiones: 40 x 30 x 6,6 cm
-- Se puede usar en lavavajillas
-- Color: Marrón oscuro
+- Incluye tapete macaron: 48 cavidades
 - Incluye decomax
+- Se puede usar en lavavajillas
+- Dimensiones: 40 x 30 x 6,6 cm
 - Contiene recetas del auténtico macaron
 - Silicona platino 100%
-- Incluye tapete macaron: 48 cavidades
+- Color: Marrón oscuro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005LB5AXK/?tag=tolees-21)

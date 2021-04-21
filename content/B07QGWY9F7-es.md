@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Funko - Pop! Rocks: Iggy Pop - Iggy Figu al 48.76 % de descuento'
-date: 2021-04-19 18:13:50
+date: 2021-04-21 10:20:11
 image: 'https://m.media-amazon.com/images/I/41BnRTpDJpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07QGWY9F7-es Funko - Pop! Rocks: Iggy Pop - Iggy Figurina de Vinil...'
 sku: 'B07QGWY9F7-es'
-tags: [ 'Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Videojuegos','funko', ]
+tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','funko', ]
 actualPrice: 7.66 EUR
 currency: EUR
 price: 7.66
@@ -29,8 +29,8 @@ Ahora mismo tienes [Funko - Pop! Rocks: Iggy Pop - Iggy Figurina de Vinil  Multi
 🔎:
 
 - El producto se envía en una caja ilustrada con ventana
-- Recomendado para niños a partir de 3 años
 - Figura de colección de la marca Funko
 - El artículo es adecuado para todos los fanáticos de Iggy Pop
+- Recomendado para niños a partir de 3 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QGWY9F7/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Rimmel London Professional Eye Brow Pencil #002 -Hazel  Marrón  1.4 g](h
 
 ℹ️:
 
-- Encuentra tu tono
 - Su fórmula antiadherente llena los espacios y alarga el arco de la ceja para una apariencia natural impresionante
-- Delineador de cejas profesional diseñado para realzar y dar forma a tus cejas
+- Encuentra tu tono
 - Incluye un aplicador de brocha para retoques fáciles
+- Delineador de cejas profesional diseñado para realzar y dar forma a tus cejas
 - Cómodo de usar y fácil de aplicar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003ZC31BK/?tag=tolees-21)
