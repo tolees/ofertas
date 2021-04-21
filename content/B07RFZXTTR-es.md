@@ -28,9 +28,9 @@ Ahora mismo tienes [ECCO SOFT7RUNNERM  Zapatillas Hombre  Azul  Night Sky/Navy/S
 
 🔎:
 
-- Material exterior: Cuero
 - Material de la suela: Caucho
 - Revestimiento: Cuero
 - Cierre: Cordones
+- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RFZXTTR/?tag=tolees-21)
