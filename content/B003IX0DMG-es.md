@@ -29,9 +29,9 @@ Tienes [WENKO 4468060100 Perchero para puertas Celano  6 ganchos  5 5 x 11 x 39 
 ℹ️:
 
 - La puerta se puede cerrar fácilmente .
+- Dimensiones ( W x alto x profundidad ) : 39 x 11 x 5,5 cm
+- Con sólo colgar en las puertas actuales rebajas 2 cm max .
 - Acero inoxidable satinado
 - Seis ganchos para chaquetas o toallas que cuelgan
-- Con sólo colgar en las puertas actuales rebajas 2 cm max .
-- Dimensiones ( W x alto x profundidad ) : 39 x 11 x 5,5 cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003IX0DMG/?tag=tolees-21)
