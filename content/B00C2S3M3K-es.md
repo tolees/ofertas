@@ -28,8 +28,8 @@ En este momento está [Top Model 7938-F - Juego de plumas de gel](https://www.am
 
 🔎:
 
-- Material resistente
-- Fácil de limpiar
 - Diseño divertido y moderno
+- Fácil de limpiar
+- Material resistente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00C2S3M3K/?tag=tolees-21)

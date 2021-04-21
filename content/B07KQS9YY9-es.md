@@ -28,8 +28,8 @@ Tienes [adidas Essential Linear Medias  Mujer  Negro/Blanco  M](https://www.amaz
 
 🔎:
 
-- Slim fit
-- Soft fabric
 - Elastic waistband
+- Soft fabric
+- Slim fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KQS9YY9/?tag=tolees-21)

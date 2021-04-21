@@ -28,10 +28,10 @@ Está [Funko- Pop Star Wars The Rise of Skywalker-Jannah Disney Figura coleccion
 
 ℹ️:
 
-- Disney star wars
-- Jannah
 - Descúbre otras figuras de la colección disney star wars y colecciónalas todas
-- De la colección star wars the rise of skywalker, jannah como figura de vinilo pop de funko
+- Disney star wars
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- Jannah
+- De la colección star wars the rise of skywalker, jannah como figura de vinilo pop de funko
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QVTLK1J/?tag=tolees-21)
