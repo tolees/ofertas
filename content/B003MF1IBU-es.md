@@ -28,7 +28,7 @@ Está [Rolson 61011 - Cepillo de Limpieza para Coche  con Entrada para Agua  2 m
 
 ℹ️:
 
-- Manufacturer Part Number: 61010
 - WATER FED WASH BRUSH 2M
+- Manufacturer Part Number: 61010
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003MF1IBU/?tag=tolees-21)

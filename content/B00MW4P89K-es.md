@@ -28,8 +28,8 @@ Tienes [Neo Tools 08-500 Mango con carraca  1/4 pulgadas  135 mm ](https://www.a
 
 🔎:
 
-- Acero cromo-vanadio
 - 25 años de garantía
+- Acero cromo-vanadio
 - 1/4 pulgadas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00MW4P89K/?tag=tolees-21)

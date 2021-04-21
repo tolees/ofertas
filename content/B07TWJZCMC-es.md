@@ -28,10 +28,10 @@ Ahora mismo tienes [Belkin cargador de pared USB-C de 18 W Boost Charge + cable 
 
 🔎:
 
-- Admite carga rápida para iPhone 8 o posteriores, iPad Pro 10,5 pulgadas, iPad Pro 12,9 pulgadas 2.ª gnrcn (hasta el 50 % en 30 minutos con el cable USB-C a Lightning incluido)
+- Admite USB Power Delivery para la carga rápida de dispositivos Android compatibles, incluyendo Samsung Galaxy S10, Google Pixel 3 y otros muchos (el cable se vende por separado)
 - La diferencia de Belkin: liderando tecnología e innovación durante más de 35 años
 - El diseño fino y plano permite un emplazamiento ceñido en la toma de pared, siendo perfecto para colocarlo detrás de un mueble
-- Admite USB Power Delivery para la carga rápida de dispositivos Android compatibles, incluyendo Samsung Galaxy S10, Google Pixel 3 y otros muchos (el cable se vende por separado)
 - El cable USB-C a Lightning incluido cuenta con la certificación MFi de Apple que garantiza la compatibilidad con dispositivos iOS
+- Admite carga rápida para iPhone 8 o posteriores, iPad Pro 10,5 pulgadas, iPad Pro 12,9 pulgadas 2.ª gnrcn (hasta el 50 % en 30 minutos con el cable USB-C a Lightning incluido)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TWJZCMC/?tag=tolees-21)
