@@ -30,8 +30,8 @@ Está [Aurora World - Aurora Bonnie Honey - Oso de Peluche  22 8 cm ](https://ww
 
 - Cara linda del smiley
 - Gran regalo
-- Suave y mimoso
-- Bonnie Brown Bear 9inch
 - 36 meses al alza
+- Bonnie Brown Bear 9inch
+- Suave y mimoso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004UPU1JQ/?tag=tolees-21)
