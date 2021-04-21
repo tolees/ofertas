@@ -28,9 +28,9 @@ Tienes [SanDisk Extreme - Tarjeta de Memoria SD UHS-I  256 GB  hasta 150MB/s](ht
 
 🔎:
 
-- Perfecta para grabar vídeos 4K UHD y para hacer fotografías secuenciales en modo ráfaga
-- Fabricada para ser usada en condiciones extremas y sometida a ensayos en dichas condiciones; resistente a temperatura, agua, golpes y rayos X
 - Velocidad de disparo de hasta 70 MB/s y velocidades de transferencia de hasta 150 MB/s
+- Perfecta para grabar vídeos 4K UHD y para hacer fotografías secuenciales en modo ráfaga
 - Graba vídeos de forma ininterrumpida con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
+- Fabricada para ser usada en condiciones extremas y sometida a ensayos en dichas condiciones; resistente a temperatura, agua, golpes y rayos X
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07H4BPZZG/?tag=tolees-21)

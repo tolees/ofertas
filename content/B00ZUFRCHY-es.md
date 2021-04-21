@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Descuento del 40.07 % en Sony Cyber-Shot DSC-RX10 II - Cámara com'
-date: 2020-09-18 18:43:25
-image: 'https://m.media-amazon.com/images/I/41PINbX-2EL._SL400_.jpg'
+title: 'Descuento del 43.84 % en Sony Cyber-shot DSC-RX10 II - Cámara com'
+date: 2021-04-21 11:27:41
+image: 'https://m.media-amazon.com/images/I/41PINbX-2EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00ZUFRCHY-es Sony Cyber-Shot DSC-RX10 II - Cámara compacta de 20.2 MP y...'
+slug: 'B00ZUFRCHY-es Sony Cyber-shot DSC-RX10 II - Cámara compacta de 20.2 MP y...'
 sku: 'B00ZUFRCHY-es'
-tags: [  ]
-actualPrice: 839.0 EUR
+tags: [ 'Cámaras compactas digitales','Cámaras digitales','Electrónica','Fotografía y videocámaras','sony', ]
+actualPrice: 786.25 EUR
 currency: EUR
-price: 839.0
+price: 786.25
 comparePrice: 1400.0 EUR
-prodname: 'Sony Cyber-Shot DSC-RX10 II - Cámara compacta de 20.2 MP y Sensor de 1" Exmor RS con 20 MP  Negro'
+prodname: 'Sony Cyber-shot DSC-RX10 II - Cámara compacta de 20.2 MP y sensor de 1" Exmor RS con 20 MP  negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00ZUFRCHY/?tag=tolees-21'
-descuento: '40.07'
-average: '839.0'
+descuento: '43.84'
+average: '834.604166666667'
 ---
 
-Tienes [Sony Cyber-Shot DSC-RX10 II - Cámara compacta de 20.2 MP y Sensor de 1" Exmor RS con 20 MP  Negro](https://www.amazon.es/dp/B00ZUFRCHY/?tag=tolees-21) con un 40.07 % de descuento con precio de oferta de 839.0 EUR (original: 1400.0 EUR) en el siguiente enlace!
+Tienes [Sony Cyber-shot DSC-RX10 II - Cámara compacta de 20.2 MP y sensor de 1" Exmor RS con 20 MP  negro](https://www.amazon.es/dp/B00ZUFRCHY/?tag=tolees-21) con un 43.84 % de descuento con precio de oferta de 786.25 EUR (original: 1400.0 EUR) en el siguiente enlace!
 
-[![Sony Cyber-Shot DSC-RX10 II - Cámara com](https://m.media-amazon.com/images/I/41PINbX-2EL._SL400_.jpg)](https://www.amazon.es/dp/B00ZUFRCHY/?tag=tolees-21)
+[![Sony Cyber-shot DSC-RX10 II - Cámara com](https://m.media-amazon.com/images/I/41PINbX-2EL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00ZUFRCHY/?tag=tolees-21)
 
 ℹ️:
 
+- Cámara súper lenta 40X con grabación de alta velocidad a 1000 fps
+- Objetivo Zeiss Vario-Sonnar T* 24-240mm/F2.8
+- Visor XGA OLED con 2.6 MP con visión clara de alta resolución
+- Grabación de alta precisión en 4K con supresor de efecto moiré y bordes dentados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ZUFRCHY/?tag=tolees-21)
