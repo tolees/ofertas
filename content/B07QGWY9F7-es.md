@@ -28,9 +28,9 @@ Ahora mismo tienes [Funko - Pop! Rocks: Iggy Pop - Iggy Figurina de Vinil  Multi
 
 🔎:
 
-- Recomendado para niños a partir de 3 años
-- Figura de colección de la marca Funko
-- El artículo es adecuado para todos los fanáticos de Iggy Pop
 - El producto se envía en una caja ilustrada con ventana
+- El artículo es adecuado para todos los fanáticos de Iggy Pop
+- Figura de colección de la marca Funko
+- Recomendado para niños a partir de 3 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QGWY9F7/?tag=tolees-21)

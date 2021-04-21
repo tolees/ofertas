@@ -29,9 +29,9 @@ Ahora mismo tienes [Revlon Super Lustrous Pintalabios](https://www.amazon.es/dp/
 🔎:
 
 - La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
-- Extra sedoso e hidratante
-- Sin fragancia
 - Acabado satinado
+- Sin fragancia
 - Enriquecido con Aloe, Vitaminas A, C y E
+- Extra sedoso e hidratante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001P2IDCO/?tag=tolees-21)

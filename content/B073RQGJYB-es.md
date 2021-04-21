@@ -29,7 +29,7 @@ En este momento está [Jack & Jones Jcopinn Sweat Hood Noos Capucha  Negro  Blac
 🔎:
 
 - ¿Listo para el próximo partido? Esta sudadera de Jack & Jones se puede llevar en cualquier lugar en su tiempo de ocio, ya sea para hacer deporte, en la escuela, la universidad o en el sofá para jugar,
-- Suave.
 - El corte regular se presenta con puños acanalados anchos en las mangas y el dobladillo.
+- Suave.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073RQGJYB/?tag=tolees-21)

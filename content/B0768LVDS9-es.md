@@ -28,10 +28,10 @@ Tienes [Polti Vaporetto SV450 DOUBLE - Escoba a vapor doble función con limpiad
 
 🔎:
 
+- Calentamiento rápido: 15 segundos, potencia 1500 W, amplio radio de acción de 7,5 m
+- Regulación vapor, autonomía ilimitada con depósito extraíble
 - 13 accesorios en dotación para limpiar hasta 15 superficies diferentes, cepillo VAPORFORCE, filtro anticalcáreo
 - Producto 2 en 1: escoba a vapor con limpiador portátil
-- Regulación vapor, autonomía ilimitada con depósito extraíble
 - Extra dotación de paños: 3 paños para tratar todo tipo de suelos
-- Calentamiento rápido: 15 segundos, potencia 1500 W, amplio radio de acción de 7,5 m
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0768LVDS9/?tag=tolees-21)

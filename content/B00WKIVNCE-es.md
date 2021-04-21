@@ -28,9 +28,9 @@ Tienes [Lékué - Kit para elaborar queso fresco y libro de recetas en español]
 
 ℹ️:
 
-- El kit contiene lo esencial para elaborar tu propio queso casero: el molde de queso con filtro y el libro de recetas
-- El Kit Cheese Maker demuestra que hacer queso fresco en casa no sólo es posible, si no que además es muy fácil, rápido y divertido
-- El libro ha sido creado con la colaboración de Fundación Alícia que te inspirarán para disfrutar del queso fresco en cualquier plato, en cualquier momento del día, sólo o en compañía
 - El libro hay 24 recetas creadas por la Fundación Alícia que te inspirarán para disfrutar del queso fresco en cualquier plato, en cualquier momento del día, sólo o en compañía
+- El kit contiene lo esencial para elaborar tu propio queso casero: el molde de queso con filtro y el libro de recetas
+- El libro ha sido creado con la colaboración de Fundación Alícia que te inspirarán para disfrutar del queso fresco en cualquier plato, en cualquier momento del día, sólo o en compañía
+- El Kit Cheese Maker demuestra que hacer queso fresco en casa no sólo es posible, si no que además es muy fácil, rápido y divertido
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00WKIVNCE/?tag=tolees-21)
