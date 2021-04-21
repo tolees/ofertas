@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CEE Games  New Gen  - Second Son Hi al 50.48 % de descuento'
-date: 2021-04-20 09:55:24
+date: 2021-04-21 15:38:18
 image: 'https://m.media-amazon.com/images/I/51TMkxNWjqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07FF7X37N/?tag=tolees-21'
 descuento: '50.48'
-average: '13.1004347826087'
+average: '12.9670833333333'
 ---
 
 Ahora mismo tienes [Sony CEE Games  New Gen  - Second Son Hits - Edición Infamous  Versión 12](https://www.amazon.es/dp/B07FF7X37N/?tag=tolees-21) a 9.9 EUR (original: 19.99 EUR) (50.48 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Sony CEE Games  New Gen  - Second Son Hits - Edición Infamo
 
 🔎:
 
-- Edición del juego: básica
 - Género: acción/aventura
+- Edición del juego: básica
 - Rango ESRB: T (adolescente)
 - Plataforma: PlayStation 4
 - Clasificación PEGI: 16

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Elly Jeans  Lavados  32W x 33L para  con un 59.99 % de descuento'
-date: 2021-04-20 08:37:31
+date: 2021-04-21 16:25:58
 image: 'https://m.media-amazon.com/images/I/31vQQA1ck9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ En este momento está [Lee Elly Jeans  Lavados  32W x 33L para Mujer](https://ww
 🔎:
 
 - Transparente.
-- DENIM STRETCH
 - Slim.
+- DENIM STRETCH
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXVS9X8/?tag=tolees-21)
