@@ -28,8 +28,8 @@ Está [Levi s Mountain Regular Cut Socks Giftbox  4 Pack  CALCET  Combo Azul  43
 
 ℹ️:
 
-- Talón y puntera reforzados para durabilidad
 - Algodón peinado de calidad para proporcionar una sensación de suavidad
+- Talón y puntera reforzados para durabilidad
 - Borde cómodo
 - Caja de regalo
 

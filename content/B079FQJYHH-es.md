@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Trust Gaming GXT 707G Resto - Silla para al 38.74 % de rebaja'
-date: 2021-04-19 20:02:19
+title: 'Trust Gaming GXT 707G Resto - Silla para al 35.65 % de rebaja'
+date: 2021-04-22 11:08:17
 image: 'https://m.media-amazon.com/images/I/41LGkwRBOuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B079FQJYHH-es Trust Gaming GXT 707G Resto - Silla para Gaming Gris/Negro'
 sku: 'B079FQJYHH-es'
 tags: [ 'Hogar y cocina','Muebles de hogar','Muebles de oficina en casa','Sillas de escritorio de oficina','Sillas y sofás de oficina','trust gaming', ]
-actualPrice: 140.89 EUR
+actualPrice: 147.99 EUR
 currency: EUR
-price: 140.89
+price: 147.99
 comparePrice: 229.99 EUR
 prodname: 'Trust Gaming GXT 707G Resto - Silla para Gaming Gris/Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Trust Gaming'
 buyurl: 'https://www.amazon.es/dp/B079FQJYHH/?tag=tolees-21'
-descuento: '38.74'
-average: '177.851666666667'
+descuento: '35.65'
+average: '176.28'
 ---
 
-Tienes [Trust Gaming GXT 707G Resto - Silla para Gaming Gris/Negro](https://www.amazon.es/dp/B079FQJYHH/?tag=tolees-21) con precio final de  140.89 EUR (original: 229.99 EUR) (38.74 %  de rebaja) aqui!
+Tienes [Trust Gaming GXT 707G Resto - Silla para Gaming Gris/Negro](https://www.amazon.es/dp/B079FQJYHH/?tag=tolees-21) con precio final de  147.99 EUR (original: 229.99 EUR) (35.65 %  de rebaja) aqui!
 
 [![Trust Gaming GXT 707G Resto - Silla para](https://m.media-amazon.com/images/I/41LGkwRBOuL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B079FQJYHH/?tag=tolees-21)
 

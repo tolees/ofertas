@@ -29,8 +29,8 @@ Tienes [B.K.Licht - Lámpara de techo LED  decoración de cielo estrellado  lám
 🔎:
 
 - La lámpara redonda de techo hace más cómodo su hogar gracias al efecto de estrellas brillantes, por lo que la fuente de luz se adapta bien al cuarto de los niños
-- 1 lámpara LED de techo con tornillos y material de fijación y 1 tarjeta LED de 12 W
-- El plafón blanco permite ahorrar energía gracias a la moderna tecnología de LED
 - Alto rendimiento lumínico y temperatura de la luz blanco frío, gracias a la potencia de las luces de 1200 lúmenes y 4000 Kelvin
+- El plafón blanco permite ahorrar energía gracias a la moderna tecnología de LED
+- 1 lámpara LED de techo con tornillos y material de fijación y 1 tarjeta LED de 12 W
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N7RSZ9A/?tag=tolees-21)

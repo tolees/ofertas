@@ -29,8 +29,8 @@ Tienes [TRIXIE flexi New COMFORT  Correa Extensible  Cinta enrollable  XS: 3 m  
 🔎:
 
 - desde talla S, ampliable con los accesorios Caja Multiusos flexi y Sistema de Iluminación LED
+- correa de cinta enrollable con asa suave
 - desde talla M, sujeción ajustable
 - con sistema anti tensión
-- correa de cinta enrollable con asa suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01H3K2G4C/?tag=tolees-21)

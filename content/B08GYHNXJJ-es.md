@@ -28,9 +28,9 @@ En este momento está [Hurley M DF Disperse Siege FZ Sudadera  Cool Grey](https:
 
 🔎:
 
-- 100 % Poliéster / 230 gsm.
 - Corte Regular.
 - La tecnología Nike Dri-FIT te ayuda a mantenerte seco, cómodo y concentrado.
+- 100 % Poliéster / 230 gsm.
 - Icono )( estampado en lado izquierdo del pecho y Dri-FIT impreso con calor.
 - Icono )( estampado en lado izquierdo del pecho y Dri-FIT impreso con calor.
 
