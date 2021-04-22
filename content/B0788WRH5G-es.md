@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.23 % en Levi s Graphic Sport Cappuccio  Housemar'
-date: 2021-04-21 08:10:48
+date: 2021-04-22 10:03:47
 image: 'https://m.media-amazon.com/images/I/31nlCws-a4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B0788WRH5G/?tag=tolees-21'
 descuento: '46.23'
-average: '45.1894444444444'
+average: '44.9127027027027'
 ---
 
 Tienes [Levi s Graphic Sport Cappuccio  Housemark Hoodie White  L Donna](https://www.amazon.es/dp/B0788WRH5G/?tag=tolees-21) con un 46.23 % de descuento con precio de oferta de 34.95 EUR (original: 65.0 EUR) en el siguiente enlace!

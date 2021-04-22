@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only onlSEDONA Coat OTW Noos Abrigo  Gri al 44.01 % de descuento'
-date: 2021-04-21 08:10:10
+date: 2021-04-22 10:03:33
 image: 'https://m.media-amazon.com/images/I/41mtKWsYCuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07237KDZN/?tag=tolees-21'
 descuento: '44.01'
-average: '25.36625'
+average: '25.6577777777778'
 ---
 
 Ahora mismo tienes [Only onlSEDONA Coat OTW Noos Abrigo  Gris  Light Grey Melange   34  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07237KDZN/?tag=tolees-21) a 27.99 EUR (original: 49.99 EUR) (44.01 %  de descuento) en el siguiente enlace!
