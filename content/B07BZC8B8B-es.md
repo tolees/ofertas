@@ -28,10 +28,10 @@ En este momento está [Data East - My Arcade Burger Time Micro Arcade Machine](h
 
 🔎:
 
-- 3.5mm headphone jack to connect your headphones
-- Removable joystick
-- Built-in speaker with volume control
-- Full color 2.75" screen
 - Features artwork inspired by the original Burger Time arcade cabinet
+- 3.5mm headphone jack to connect your headphones
+- Built-in speaker with volume control
+- Removable joystick
+- Full color 2.75" screen
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BZC8B8B/?tag=tolees-21)
