@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney Set de Juego de Figuras Princesa  al 35.95 % de rebaja'
-date: 2021-04-19 11:07:35
+date: 2021-04-22 15:59:27
 image: 'https://m.media-amazon.com/images/I/51vUh4nLMwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Disney Set de Juego de Figuras Princesa Deluxe](https://www.amazon.es/dp
 
 🔎:
 
-- Aurora en vestido rosa (La bella durmiente)
-- Belle en vestido de gala (La bella y la bestia)
 - Blancanieves (Blancanieves y los siete enanitos)
+- Aurora en vestido rosa (La bella durmiente)
 - Cenicienta en vestido de gala (Cenicienta)
+- Belle en vestido de gala (La bella y la bestia)
 - Tienda Disney genuina, original y auténtica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DPWSGM4/?tag=tolees-21)

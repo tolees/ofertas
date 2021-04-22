@@ -28,11 +28,11 @@ Tienes [Huawei P40 5G - Smartphone de 6 1" OLED  8GB RAM + 128GB ROM  3x Cámara
 
 🔎:
 
-- Fotografía IA: el algoritmo de movimiento IA detecta y reconoce las características de postura y expresión, captura una foto y luego la función de edición recomienda 1-3 imágenes del mejor momento en movimiento
-- 5G, rendimiento sobresaliente: velocidad ultrarrápida con el primer chipset 5G SoC 5G integrado del mundo, Kirin 990 5G. Gracias a la tecnología 7nm + EUV y una innovadora arquitecturas de la CPU, HUAWEI P40 logra una alta eficiencia y fluidez del sistema
-- Cámara principal SuperSensing: cámara principal SuperSensing de 50 MP, sensor Utra Vision con apertura de 1/1.28 pulgadas, matriz de filtro de color RYYB, enfoque automático Octa PD, capta luz y todo tipo de detalles de forma clara
-- Wi-Fi 6 Plus: Al utilizar la tecnología Dynamic Narrow Bandwidth, la conexión mediante Wi-Fi 6 Plus tiene un alcance mayor. Admite un ancho de banda de 160 MHz, con una velocidad óptima que alcanza hasta 2.4 Gbps. Este smartphone incorpora Android 10 AOSP y Huawei Mobile Services (HMS). Google Mobile Services no está preinstalado
 - Batería de carga rápida y de larga duración: el mecanismo de asignación IA hace un mejor uso de la batería de 3800 mAh para lograr un gran rendimiento y un tiempo de trabajo más prolongado. Gracias a HUAWEI SuperCharge de 22.5W, puedes disfrutar de una carga rápida y segura
 - Cámara teleobjetivo de 8 MP: con zoom óptico de 3x y zoom máximo de hasta 30x, zoom híbrido de 5x, HUAWEI P40 te permite capturas escenas en diferentes distancias
+- Cámara principal SuperSensing: cámara principal SuperSensing de 50 MP, sensor Utra Vision con apertura de 1/1.28 pulgadas, matriz de filtro de color RYYB, enfoque automático Octa PD, capta luz y todo tipo de detalles de forma clara
+- 5G, rendimiento sobresaliente: velocidad ultrarrápida con el primer chipset 5G SoC 5G integrado del mundo, Kirin 990 5G. Gracias a la tecnología 7nm + EUV y una innovadora arquitecturas de la CPU, HUAWEI P40 logra una alta eficiencia y fluidez del sistema
+- Fotografía IA: el algoritmo de movimiento IA detecta y reconoce las características de postura y expresión, captura una foto y luego la función de edición recomienda 1-3 imágenes del mejor momento en movimiento
+- Wi-Fi 6 Plus: Al utilizar la tecnología Dynamic Narrow Bandwidth, la conexión mediante Wi-Fi 6 Plus tiene un alcance mayor. Admite un ancho de banda de 160 MHz, con una velocidad óptima que alcanza hasta 2.4 Gbps. Este smartphone incorpora Android 10 AOSP y Huawei Mobile Services (HMS). Google Mobile Services no está preinstalado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086F9LFSW/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Revlon Super Lustrous Pintalabios Hidratante  #440 Cherri
 
 🔎:
 
-- Enriquecido con Aloe, Vitaminas A, C y E
-- Sin fragancia
-- Acabado satinado
 - La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
+- Acabado satinado
+- Sin fragancia
+- Enriquecido con Aloe, Vitaminas A, C y E
 - Extra sedoso e hidratante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B074J2DLC3/?tag=tolees-21)

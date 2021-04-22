@@ -28,10 +28,10 @@ Tienes [Tirma Crema de Guayaba  400g](https://www.amazon.es/dp/B08NQXX19J/?tag=t
 
 🔎:
 
-- Un producto sin gluten, presentado en una barra de 400g. Se recomienda conservar en un ambiente fresco y seco y sin exposición directa a la luz.
 - Saborea el paraíso con este producto elaborado en Canarias y entregado a la comodidad de tu puerta.
 - Ideal para llevar a un picnic con amigos/familia y para endulzar tus platos a cualquier hora del día, no sólo en el desayuno y la merienda.
-- La crema de guayaba es ideal para degustar con un trozo de queso tierno o queso cremoso, en bocadillos, galletas, empanadillas, nueces, relleno de tartas, dulces o simplemente a pequeños bocados.
 - Una dulce y sabrosa crema de guayaba que sirve para acompañar una multitud de platos
+- La crema de guayaba es ideal para degustar con un trozo de queso tierno o queso cremoso, en bocadillos, galletas, empanadillas, nueces, relleno de tartas, dulces o simplemente a pequeños bocados.
+- Un producto sin gluten, presentado en una barra de 400g. Se recomienda conservar en un ambiente fresco y seco y sin exposición directa a la luz.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08NQXX19J/?tag=tolees-21)
