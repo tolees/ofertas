@@ -28,10 +28,10 @@ Está [Bf bf-18 - Doble interruptor 18 superficie 10a 250v blanco bolsa](https:/
 
 ℹ️:
 
-- Doble interruptor superficie 10 a blanco; gama bf-18 de fontini
 - Mecanismo para instalación en superficie
 - Mecanismo de 10 amperios - 230 voltios
 - Para utilización como 2 interruptores para controlar dos luces desde 1 único punto
 - Producto completo
+- Doble interruptor superficie 10 a blanco; gama bf-18 de fontini
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MYEKG6P/?tag=tolees-21)

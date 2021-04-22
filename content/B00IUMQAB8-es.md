@@ -29,7 +29,7 @@ En este momento está [Vacuvin - Vacu Vin Aireador de Vino Color Negro y Transpa
 🔎:
 
 - Oxigena el vino
-- Se guarda el en cuello de la botella
 - Adaptable a cualquier tipo de terminación de botella
+- Se guarda el en cuello de la botella
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00IUMQAB8/?tag=tolees-21)
