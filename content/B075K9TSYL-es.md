@@ -28,7 +28,7 @@ Tienes [New Balance 574 Core  Zapatillas Hombre  Negro  Black ETE   47.5 EU](htt
 
 🔎:
 
-- Forro: malla.
 - Material exterior: piel.
+- Forro: malla.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075K9TSYL/?tag=tolees-21)
