@@ -28,7 +28,7 @@ Tienes [Only Onlchloe Lace Bra Noos Acc Sujetador Estilo Bralette  Azul  Peacoat
 
 ℹ️:
 
-- Lace bralette
 - Padded bustier
+- Lace bralette
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SS5YXCN/?tag=tolees-21)
