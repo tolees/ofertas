@@ -28,8 +28,8 @@ Tienes [Superga 2790-fantasy COTW  Zapatillas de Gimnasia Mujer  Beige  Beige/Ja
 
 🔎:
 
-- Material exterior: tela
-- Forro: tela
 - Material de la suela: goma
+- Forro: tela
+- Material exterior: tela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TVDZ74N/?tag=tolees-21)

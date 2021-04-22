@@ -28,10 +28,10 @@ Está [PUMA Evostripe tee Camiseta  Hombre  Puma White  L](https://www.amazon.es
 
 ℹ️:
 
-- Estándar OEKO-TEX: Elaboración en conformidad con el estándar OEKO-TEX, con el que se evita el uso de sustancias nocivas desde el hilo hasta el producto final
-- Corte entallado
-- Mangas raglan para una mayor libertad de movimiento
-- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 - Paneles laterales de malla para una mayor ventilación
+- Mangas raglan para una mayor libertad de movimiento
+- Corte entallado
+- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
+- Estándar OEKO-TEX: Elaboración en conformidad con el estándar OEKO-TEX, con el que se evita el uso de sustancias nocivas desde el hilo hasta el producto final
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086PBVCWS/?tag=tolees-21)

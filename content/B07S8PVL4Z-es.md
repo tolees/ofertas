@@ -28,7 +28,7 @@ Tienes [Only ONLGEENA XO L/S Pullover KNT Noos suéter  Rojo  Tawny Port Tawny P
 
 🔎:
 
-- Special knit e of tape-yarn
 - Basic Pullover with o-neck
+- Special knit e of tape-yarn
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S8PVL4Z/?tag=tolees-21)

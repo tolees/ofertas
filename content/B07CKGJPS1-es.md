@@ -28,10 +28,10 @@ Está [HyperX Predator HX429C15PB3AK2/16 Memoria 2933MHz DDR4 CL15 DIMM XMP 16GB
 
 ℹ️:
 
-- Disipador de calor de aluminio de color negro intenso
-- Compatible con XMP de Intel y AMD Ryzen
 - Probada al 100 % en fábrica a elevadas velocidades
-- Retroiluminación RGB impresionante con estilo agresivo¹
+- Compatible con XMP de Intel y AMD Ryzen
+- Disipador de calor de aluminio de color negro intenso
 - Tecnología de sincronización infrarroja de HyperX patentada
+- Retroiluminación RGB impresionante con estilo agresivo¹
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CKGJPS1/?tag=tolees-21)
