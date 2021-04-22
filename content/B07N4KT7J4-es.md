@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Levi s Tijuana  Zapatillas para Mujer  N al 44.00 % de rebaja'
-date: 2021-04-09 19:18:39
-image: 'https://m.media-amazon.com/images/I/41g7oikqahL._SL400_.jpg'
+date: 2021-04-22 05:24:59
+image: 'https://m.media-amazon.com/images/I/41g7oikqahL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,7 +24,7 @@ average: '28.0'
 
 Tienes [Levi s Tijuana  Zapatillas para Mujer  Negro  Sneakers 60   37 EU](https://www.amazon.es/dp/B07N4KT7J4/?tag=tolees-21) con precio final de  28.0 EUR (original: 50.0 EUR) (44.00 %  de rebaja) aqui!
 
-[![Levi s Tijuana  Zapatillas para Mujer  N](https://m.media-amazon.com/images/I/41g7oikqahL._SL400_.jpg)](https://www.amazon.es/dp/B07N4KT7J4/?tag=tolees-21)
+[![Levi s Tijuana  Zapatillas para Mujer  N](https://m.media-amazon.com/images/I/41g7oikqahL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07N4KT7J4/?tag=tolees-21)
 
 🔎:
 
