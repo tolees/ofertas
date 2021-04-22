@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DWM-222 - Modem 4G LTE USB 2.0  1 al 36.94 % de descuento'
-date: 2021-04-21 16:15:20
+date: 2021-04-22 18:45:33
 image: 'https://m.media-amazon.com/images/I/31uFnVxRx0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.es/dp/B00PVDQ37A/?tag=tolees-21'
 descuento: '36.94'
-average: '73.0252'
+average: '73.1003846153846'
 ---
 
 Ahora mismo tienes [D-Link DWM-222 - Modem 4G LTE USB 2.0  150 Mbps  SIM Datos Cualquier Operador  LED Estado  LTE/DC-HSPA+/HSPA/WCDMA  gsm/GPRS/Edge  Compatible Windows y Mac  Ranura Micro SD  Negro](https://www.amazon.es/dp/B00PVDQ37A/?tag=tolees-21) a 74.98 EUR (original: 118.9 EUR) (36.94 %  de descuento) en el siguiente enlace!
@@ -28,13 +28,13 @@ Ahora mismo tienes [D-Link DWM-222 - Modem 4G LTE USB 2.0  150 Mbps  SIM Datos C
 
 🔎:
 
-- Compatible con Windows XP / Vista / 7/8, Mac OS X 10.5 o superior
-- 4G, velocidad máxima de descarga de 150 Mbps y 50 Mbps de subida
-- Formato USB 2.0, instalación Plug&Play integra los drivers, no necesita un CD-ROM, no es necesario ser un experto
-- Ranura micro SD para insertar tarjetas de este formato y que funcione como memoria USB
-- LED Indicador de estado de conexión
-- Requisitos mínimos del sistema: Windows XP / Vista / 7/8/10, Mac OS X 10.5 o superior; 128 MB de RAM o superior; 50 MB de espacio disponible en disco
 - Libre: puedes usarlo mediante una SIM de datos de cualquier operador 3G/4G
+- Requisitos mínimos del sistema: Windows XP / Vista / 7/8/10, Mac OS X 10.5 o superior; 128 MB de RAM o superior; 50 MB de espacio disponible en disco
+- Formato USB 2.0, instalación Plug&Play integra los drivers, no necesita un CD-ROM, no es necesario ser un experto
+- Compatible con Windows XP / Vista / 7/8, Mac OS X 10.5 o superior
+- LED Indicador de estado de conexión
+- 4G, velocidad máxima de descarga de 150 Mbps y 50 Mbps de subida
+- Ranura micro SD para insertar tarjetas de este formato y que funcione como memoria USB
 - Modem 4G mediante USB para tener acceso a Internet en portátiles u ordenadores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00PVDQ37A/?tag=tolees-21)

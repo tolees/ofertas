@@ -28,10 +28,10 @@ Ahora mismo tienes [YoRiBo - 9481-FY](https://www.amazon.es/dp/B08PP37XXF/?tag=t
 
 🔎:
 
-- Ahorre tiempo: mejore la eficiencia de su trabajo con la grapadora eléctrica. Grapa rápida y fácilmente hasta 25 hojas de papel. Puede usarlo con un cable de alimentación y con 4 baterías AA (batería no incluida).
+- Recargue grapas fácilmente: hay un botón en la parte posterior de la grapadora para recargar las grapas. Solo presiónalo y deja que las grapas se recarguen. Adecuado para grapas 26/6 o 24/6.
 - Portátil para cualquier lugar: esta grapadora eléctrica portátil es compacta y se puede guardar en bolsos, maletines, mochilas, etc. Perfecto para viajes de oficina, escuela, hogar o negocios, etc.
 - Grape fácilmente los archivos: ¿sigue utilizando la grapadora manual tradicional? ¿Tiene dolor en la muñeca después de usar la grapadora manual durante mucho tiempo? Pruebe nuestra grapadora eléctrica ahora para ayudarlo a evitar el dolor en sus manos y muñecas.
 - Trabajo automático: la grapadora eléctrica puede funcionar automáticamente porque tiene un sensor incorporado. Simplemente ponga papel en la abertura y golpéelo suavemente. Luego termina el trabajo.
-- Recargue grapas fácilmente: hay un botón en la parte posterior de la grapadora para recargar las grapas. Solo presiónalo y deja que las grapas se recarguen. Adecuado para grapas 26/6 o 24/6.
+- Ahorre tiempo: mejore la eficiencia de su trabajo con la grapadora eléctrica. Grapa rápida y fácilmente hasta 25 hojas de papel. Puede usarlo con un cable de alimentación y con 4 baterías AA (batería no incluida).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PP37XXF/?tag=tolees-21)
