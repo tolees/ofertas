@@ -28,8 +28,8 @@ En este momento está [Edding 4200 rotulador con punta de pincel para porcelana 
 
 🔎:
 
-- El rotulador de porcelana edding 4200 está disponible en 15 colores
 - El juego contiene 6 rotuladores en negro, rojo, azul, verde, amarillo, marrón con punta de pincel para porcelana
+- El rotulador de porcelana edding 4200 está disponible en 15 colores
 - Rotulador para porcelana a prueba de lavavajillas hasta 50° C; punta de pincel flexible para porcelana, tazas, cerámica barnizada, vidrio resistente al horno
 - La tinta a base de agua se seca óptimamente, es fácilmente borrable antes del secado al horno, después la pintura adhiere permanentemente y es impermeable
 - La punta suave crea trazos de pincel flexibles y asegura una distribución uniforme del color; la práctica forma del marcador evita el goteo
