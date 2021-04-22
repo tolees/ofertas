@@ -28,12 +28,12 @@ Tienes [BULLDOG SECURITY - Bulldog - Crema Hidratante Original - 100 ml](https:/
 
 🔎:
 
-- Ingredientes: Aloe Vera, Camelia y Te Verde
 - Mejora la apariencia de la piel y la deja suave e hidratada
 - No contiene parabenos, SLS, colores artificiales o fragancias sintéticas
+- Ingredientes naturales: Aloe Vera, Aceite de Camelia y Té Verde
 - Fragancia Original: Nuestra combinación única de 8 aceites esenciales le da un aroma masculino, ligero y fresco. Las notas cítricas de bergamota, limón y lima se superponen sobre el geranio y pachulí con notas de base de madera de cedro, artemisia vulgaris y vetiver
 - Tipo de piel: Mixta
 - Aplicar en la mañana y en la noche de manera uniforme en la cara y cuello después de la limpieza facial
-- Ingredientes naturales: Aloe Vera, Aceite de Camelia y Té Verde
+- Ingredientes: Aloe Vera, Camelia y Te Verde
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0159CVUZM/?tag=tolees-21)
