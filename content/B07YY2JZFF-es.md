@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CEE Games  New Gen  - Uncharted The al 50.48 % de descuento'
-date: 2021-04-18 19:33:29
+date: 2021-04-22 14:24:31
 image: 'https://m.media-amazon.com/images/I/41Oi1SMZHKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07YY2JZFF/?tag=tolees-21'
 descuento: '50.48'
-average: '11.2833333333333'
+average: '11.176923076923'
 ---
 
 Ahora mismo tienes [Sony CEE Games  New Gen  - Uncharted The Lost Legacy Hits](https://www.amazon.es/dp/B07YY2JZFF/?tag=tolees-21) a 9.9 EUR (original: 19.99 EUR) (50.48 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [Sony CEE Games  New Gen  - Uncharted The Lost Legacy Hits](h
 🔎:
 
 - Personajes con conocimientos sobre arqueología y una capacidad de improvisación
-- Plataforma: PlayStation 4
 - Uncharted El legado perdido
-- Juego de aventura repleta de acción y peligro
+- Plataforma: PlayStation 4
 - Presenta el regreso de Chloe Frazer
+- Juego de aventura repleta de acción y peligro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YY2JZFF/?tag=tolees-21)

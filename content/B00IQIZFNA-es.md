@@ -31,7 +31,7 @@ Tienes [Roxy Oceanside Pantalón De Lino con Pata Ancha  Mujer  Negro  True Blac
 - __Tejido:__ Tejido de mezcla de lino y viscosa [200 g / m2]
 - __cintura:__ cintura elástica
 - __corte: __corte cómodo, ligeramente holgado
-- Bordado de corazón en el bolsillo trasero derecho
 - Logo ROXY bordado en bolsillo trasero
+- Bordado de corazón en el bolsillo trasero derecho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IQIZFNA/?tag=tolees-21)

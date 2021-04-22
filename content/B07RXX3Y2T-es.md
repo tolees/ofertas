@@ -30,8 +30,8 @@ Ahora mismo tienes [Intel Core i9-9900 - Procesador  9th Gen Intel Core i9  3 1 
 
 - Serie coffee lake
 - Core i9-9900 con caché de 16 gb
-- Cpu intel boxed desktop
 - Frecuencia de funcionamiento 3 ghz, zócalo lga1151
+- Cpu intel boxed desktop
 - 8 núcleos / 16 hilos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RXX3Y2T/?tag=tolees-21)

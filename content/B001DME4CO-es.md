@@ -28,9 +28,9 @@ Tienes [Vans Era - Zapatillas de Skate Unisex  Color Azul  Talla 36](https://www
 
 🔎:
 
-- Apariencia de Vans con sensación y aspecto relajado.
-- Cuello acolchado.
 - Suela de goma característica para mayor sensación de control.
 - Fabricación vulcanizada para mayor comodidad y durabilidad.
+- Cuello acolchado.
+- Apariencia de Vans con sensación y aspecto relajado.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001DME4CO/?tag=tolees-21)
