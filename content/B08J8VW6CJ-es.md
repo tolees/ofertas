@@ -28,10 +28,10 @@ Está [L Oreal Paris Dermo Expertise - L Oréal Paris Age Perfect Golden Age Set
 
 ℹ️:
 
-- Aplica diariamente la crema de día sobre el rostro y cuello perfectamente limpios con movimientos circulares para una óptima penetración, Aplica suavemente el contorno de ojos día y noche con la yema de tus dedos
+- Piel inmediatamente hidratada, humedecida y confortable sin sensación de tirantez, Contorno de ojos intensamente más hidratado y fresco, Contornos faciales más definidos
 - Contenido: LOréal Paris Age Perfect Golden Age Set de Crema de día fortificante y Contorno de ojos, Cantidad: 50 ml y 15 ml
 - Fórmula enriquecida con Neo-Calcio aportando consistencia y densidad a la piel, Complejo con extractos de Peonía Imperial y Flor de Iris que restauran el color natural de la piel
 - Crema de día anti-edad que reaviva el tono natural de la piel, Devuelve la consistencia y densidad a la piel para una mayor firmeza, Contorno de ojos para corregir ojeras e hidratar intensamente
-- Piel inmediatamente hidratada, humedecida y confortable sin sensación de tirantez, Contorno de ojos intensamente más hidratado y fresco, Contornos faciales más definidos
+- Aplica diariamente la crema de día sobre el rostro y cuello perfectamente limpios con movimientos circulares para una óptima penetración, Aplica suavemente el contorno de ojos día y noche con la yema de tus dedos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08J8VW6CJ/?tag=tolees-21)

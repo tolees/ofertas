@@ -28,12 +28,12 @@ En este momento está [Sotya - Alcachofera 100 comprimidos](https://www.amazon.e
 
 🔎:
 
-- Reduce los niveles de colesterol, grasas y azúcar en sangre
-- Aumenta la secreción de bilis, ayudando en la digestión de grasas, ictericia e hígado perezoso
 - Número de items: 1
-- Unidad de medida: unidad
-- Estimula la regeneración de las células del hígado
 - Unidades: 100.0
+- Aumenta la secreción de bilis, ayudando en la digestión de grasas, ictericia e hígado perezoso
+- Unidad de medida: unidad
+- Reduce los niveles de colesterol, grasas y azúcar en sangre
+- Estimula la regeneración de las células del hígado
 - De la marca sotya
 - Diurética, reduce la urea en sangre y como depurativa
 

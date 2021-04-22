@@ -29,9 +29,9 @@ Tienes [Razer Kraken Consolas Kraken Kitty  Negro  RGB Chroma ](https://www.amaz
 🔎:
 
 - THX SPATIAL AUDIO: Audio Para un sonido posicionalmente preciso Experimenta un sonido envolvente: 7.1 THX Spatial Audio para disfrutar de un audio posicional preciso y la inmersión de sonido en cualquier forma de entretenimiento: desde juegos intensos hasta películas épicas; solo disponible para Windows 10 de 64 bits
-- ILUMINACIÓN CON RSPUESTA AL STREAMING: Que reacciona a tu público Potencia al máximo tus dotes escénicas con una iluminación que responde a los emotes de tu público, las alertas y los avisos; personaliza exactamente qué colores y efectos se utilizan con la aplicación Streamer Companion (Compañero de streaming)
-- OREJAS DE GATO CON TECNOLOGÍA RAZER CHROMA: Gracias a los 16.8 millones de colores, una gama de efectos y los auriculares luminosos, además de la iluminación en las orejas de gato, puedes personalizar estos auriculares a tu gusto para lograr un estilo único para cada ocasión
-- Diseñados para lograr comodidad y durabilidad, con almohadillas de gel refrigerante que te harán sentir genial durante largas horas de uso y una estructura de aluminio de bauxita que garantiza la máxima durabilidad y un peso reducido
 - MICRÓFONO CON CANCELACIÓN ACTIVA DE RUIDO: Para lograr la óptima captación de la voz
+- ILUMINACIÓN CON RSPUESTA AL STREAMING: Que reacciona a tu público Potencia al máximo tus dotes escénicas con una iluminación que responde a los emotes de tu público, las alertas y los avisos; personaliza exactamente qué colores y efectos se utilizan con la aplicación Streamer Companion (Compañero de streaming)
+- Diseñados para lograr comodidad y durabilidad, con almohadillas de gel refrigerante que te harán sentir genial durante largas horas de uso y una estructura de aluminio de bauxita que garantiza la máxima durabilidad y un peso reducido
+- OREJAS DE GATO CON TECNOLOGÍA RAZER CHROMA: Gracias a los 16.8 millones de colores, una gama de efectos y los auriculares luminosos, además de la iluminación en las orejas de gato, puedes personalizar estos auriculares a tu gusto para lograr un estilo único para cada ocasión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WC9KLFZ/?tag=tolees-21)
