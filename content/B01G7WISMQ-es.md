@@ -28,10 +28,10 @@ Ahora mismo tienes [Funko - Pop! Gears of War S3: Boomer Figura Coleccionable  M
 
 🔎:
 
-- Juguete del año 2018
-- Funko pop vinyl
 - De la colección gears of war, boomer como figura de vinilo pop de funko
 - Boomer
 - Games: gears of war s3
+- Juguete del año 2018
+- Funko pop vinyl
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01G7WISMQ/?tag=tolees-21)

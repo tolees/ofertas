@@ -28,10 +28,10 @@ Tienes [Baby Clementoni- Cuenta Goles Portería Fútbol Interactiva  Multicolor 
 
 ℹ️:
 
-- Desarrolla la psicomotricidad y coordinación
+- Un sensor óptico reconoce cuando se marca un gol
 - Habla y enseña las primeras letras, los números del 1 al 5, las formas y los colores
+- Desarrolla la psicomotricidad y coordinación
 - Multifunción 2 en 1: una portería y un completo centro de actividades
 - También enseña inglés
-- Un sensor óptico reconoce cuando se marca un gol
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B010VFIFCS/?tag=tolees-21)

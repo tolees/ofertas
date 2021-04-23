@@ -28,10 +28,10 @@ Tienes [Max Factor Miracle Prep  Primer matificante y minimizador de poros - 30 
 
 🔎:
 
+- Su tecnología a abase de polvos matificantes ayudan a equilibrar la piel
 - Consigue el maquillaje perfecto aplicando el primer antes de la base de maquillaje
 - Minimiza la apariencia de los poros y suaviza las imperfecciones perfeccionando el aspecto de la piel y así obtener un maquillaje perfecto e impecable a lo largo de las horas
 - Tipo de piel: Normal
-- Su tecnología a abase de polvos matificantes ayudan a equilibrar la piel
 - Controla los brillos para ofrecer un acabado mate y libre de brillos
 - Primer matificante y minimizador de poros
 
