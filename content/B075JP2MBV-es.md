@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Bradstreet Leather Sensorflex al 50.04 % de descuento'
-date: 2021-04-18 14:03:30
+date: 2021-04-23 13:36:56
 image: 'https://m.media-amazon.com/images/I/31pc3M3qtHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B075JP2MBV/?tag=tolees-21'
 descuento: '50.04'
-average: '88.9295'
+average: '88.4665853658537'
 ---
 
 Ahora mismo tienes [Timberland Bradstreet Leather Sensorflex  Botas Chukka Hombre  Negro Black Nubuck  39.5 EU](https://www.amazon.es/dp/B075JP2MBV/?tag=tolees-21) a 69.95 EUR (original: 140.0 EUR) (50.04 %  de descuento) en el siguiente enlace!
@@ -28,13 +28,13 @@ Ahora mismo tienes [Timberland Bradstreet Leather Sensorflex  Botas Chukka Hombr
 
 🔎:
 
-- Tipo de tacón: Plano
 - Anchura del zapato: Normal
-- Altura del tacón: 2 centímetros
 - Material de la suela: Caucho
+- Tipo de tacón: Plano
 - Composición: Cuero
-- Material exterior: Cuero
+- Altura del tacón: 2 centímetros
 - Revestimiento: Tela
+- Material exterior: Cuero
 - Cierre: Cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075JP2MBV/?tag=tolees-21)

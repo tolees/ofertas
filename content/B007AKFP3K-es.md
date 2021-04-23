@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Valira Proterm Termo para líquidos de 0  con un 37.50 % de descuento'
-date: 2021-04-22 11:07:52
+date: 2021-04-23 13:44:17
 image: 'https://m.media-amazon.com/images/I/31E9XIxYnLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

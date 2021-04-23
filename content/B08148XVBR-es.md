@@ -28,10 +28,10 @@ En este momento está [Speedo Endurance + Estampado Medalist Bañador  Adult Fem
 
 🔎:
 
+- Endurance + Tela
+- Diseño Medalist: facilita el movimiento y la flexibilidad del hombro, por lo que es un bañador ideal para entrenar.
+- Forro por delante y por detrás que mejora la comodidad.
 - Secado rápido: se seca rápidamente después de tu entrenamiento de natación.
 - 131 % de resistencia al cloro: para un rendimiento de larga duración.
-- Diseño Medalist: facilita el movimiento y la flexibilidad del hombro, por lo que es un bañador ideal para entrenar.
-- Endurance + Tela
-- Forro por delante y por detrás que mejora la comodidad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08148XVBR/?tag=tolees-21)

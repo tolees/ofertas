@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas FS1897 CORE18 SW Top Pullover Mens Yellow M](https://
 
 🔎:
 
-- logo de adidas en la parte frontal
 - 3 rayas a lo largo de las mangas
+- logo de adidas en la parte frontal
 - regular fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X8HXT2J/?tag=tolees-21)
