@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Max Factor Mastertouch Concealer  Correc al 51.26 % de rebaja'
-date: 2020-04-03 08:46:03
-image: 'https://m.media-amazon.com/images/I/21hD9stYiiL._SL400_.jpg'
+title: 'Max Factor Mastertouch Concealer  Correc al 65.38 % de rebaja'
+date: 2021-04-23 16:25:08
+image: 'https://m.media-amazon.com/images/I/31bEBOb8WOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00LI4KZYI-es Max Factor Mastertouch Concealer Corrector Tono 303-Ivory'
+slug: 'B00LI4KZYI-es Max Factor Mastertouch Concealer Corrector Tono: 303 - 7.8 ml'
 sku: 'B00LI4KZYI-es'
-tags: [  ]
-actualPrice: 5.8 EUR
+tags: [ 'Antiojeras','Belleza','Maquillaje','Maquillaje para ojos','max factor', ]
+actualPrice: 4.12 EUR
 currency: EUR
-price: 5.8
+price: 4.12
 comparePrice: 11.9 EUR
-prodname: 'Max Factor Mastertouch Concealer  Corrector Tono 303-Ivory'
+prodname: 'Max Factor Mastertouch Concealer  Corrector  Tono: 303 - 7.8 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Max Factor'
 buyurl: 'https://www.amazon.es/dp/B00LI4KZYI/?tag=tolees-21'
-descuento: '51.26'
-average: '5.8'
+descuento: '65.38'
+average: '4.96'
 ---
 
-Tienes [Max Factor Mastertouch Concealer  Corrector Tono 303-Ivory](https://www.amazon.es/dp/B00LI4KZYI/?tag=tolees-21) con precio final de  5.8 EUR (original: 11.9 EUR) (51.26 %  de rebaja) aqui!
+Tienes [Max Factor Mastertouch Concealer  Corrector  Tono: 303 - 7.8 ml](https://www.amazon.es/dp/B00LI4KZYI/?tag=tolees-21) con precio final de  4.12 EUR (original: 11.9 EUR) (65.38 %  de rebaja) aqui!
 
-[![Max Factor Mastertouch Concealer  Correc](https://m.media-amazon.com/images/I/21hD9stYiiL._SL400_.jpg)](https://www.amazon.es/dp/B00LI4KZYI/?tag=tolees-21)
+[![Max Factor Mastertouch Concealer  Correc](https://m.media-amazon.com/images/I/31bEBOb8WOL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00LI4KZYI/?tag=tolees-21)
 
 🔎:
 
+- Dermatológicamente testado, apto para pieles sensibles
+- Corrector líquido para oculta las ojeras e imperfecciones
+- Polímeros que se mezclan perfectamente con la piel
+- Fórmula no-comedogénica, no obstruye los poros
+- Contiene una esponja de precisón para aplicar la cantidad exacta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00LI4KZYI/?tag=tolees-21)

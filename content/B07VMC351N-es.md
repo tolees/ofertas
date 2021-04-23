@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Ball Super: Gift Box 2 al 37.39 % de descuento'
-date: 2021-04-20 08:37:48
+date: 2021-04-23 16:36:32
 image: 'https://m.media-amazon.com/images/I/51qTEb7-ICL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

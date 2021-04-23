@@ -28,8 +28,8 @@ Tienes [Max Factor Pan Stick Base de maquillaje Tono 12 True Beige  9 gr](https:
 
 🔎:
 
-- Base de maquillaje Maquillaje Mujer
-- PANSTIK 012 TRUE BEIGE (0000050884537)
 - Base de maquillaje Max Factor
+- PANSTIK 012 TRUE BEIGE (0000050884537)
+- Base de maquillaje Maquillaje Mujer
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B003JM4OCG/?tag=tolees-21)
