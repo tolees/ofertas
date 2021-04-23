@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.06 % en L Oreal Paris - L Oréal Paris Excellence'
-date: 2021-04-16 14:37:24
+date: 2021-04-23 09:47:11
 image: 'https://m.media-amazon.com/images/I/41huG8izEvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [L Oreal Paris - L Oréal Paris Excellence Coloración Crème Triple Prot
 
 ℹ️:
 
-- Cuida, protege y nutre el cabello
-- 100% cobertura de canas
-- En solo 3 pasos consigue un color rico y duradero
-- Color rico y radiante
 - Excellence Creme Triple Cuidado asegura un 100% de cobertura de canas cuidando tu cabello en cada etapa de la coloracion
+- En solo 3 pasos consigue un color rico y duradero
+- 100% cobertura de canas
+- Cuida, protege y nutre el cabello
+- Color rico y radiante
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00X9X5ZWI/?tag=tolees-21)

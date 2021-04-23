@@ -28,10 +28,10 @@ Está [Legrand  Enchufe de Pared 1 Toma  Forix  Color Blanco](https://www.amazon
 
 ℹ️:
 
-- SEGURIDAD: Dispone de protección infantil en los polos de conexión.
-- ENCHUFE CON PROTECCION: 16A a 230V.
 - BASE ENCHUFE: De la Gama Forix. Color Blanco brillante.
 - ENCHUFE SUPERFICIE: Medidas: 6,5 x 4 x 6,5 cm. Peso: 45,4 gr.
+- ENCHUFE CON PROTECCION: 16A a 230V.
+- SEGURIDAD: Dispone de protección infantil en los polos de conexión.
 - ENCHUFE SCHUKO: 1 enchufe pared con toma de tierra. Instalacion en superficie.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BOYTMXG/?tag=tolees-21)
