@@ -28,10 +28,10 @@ En este momento está [Russell Hobbs Colours Plus - Hervidor de Agua Eléctrico 
 
 🔎:
 
-- Hierve 1 taza en poco más de 50 segundos
-- Potencia de 2400 W
 - Diseño mini de 1 L en acero inoxidable, color crema
 - Interruptor luminoso de encendido y apagado y filtro antical extraíble y lavable
+- Hierve 1 taza en poco más de 50 segundos
+- Potencia de 2400 W
 - Ahorra hasta un 66% de electricidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NDDJ8JK/?tag=tolees-21)

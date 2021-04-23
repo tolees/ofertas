@@ -28,8 +28,8 @@ En este momento está [Vacuvin - Vacu Vin Bomba de vacío  Negro  Centimeters](h
 
 🔎:
 
-- Sistema "click" patentado que avisa cuando el vacío se ha alcanzado
 - Los tapones sirven para todas las bombas Vacu Vin
 - Retrasa el proceso de oxidación
+- Sistema "click" patentado que avisa cuando el vacío se ha alcanzado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00CYGGQX8/?tag=tolees-21)
