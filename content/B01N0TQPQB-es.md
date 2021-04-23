@@ -28,8 +28,8 @@ Tienes [Kingston A400 SSD SA400S37/480G - Disco duro sólido interno 2.5" SATA 4
 
 ℹ️:
 
-- Fiable y resistente
 - Velocidad de grabación: 450 MB/s
+- Fiable y resistente
 - Rendimiento óptimo para la transferencia de archivos
 - Capacidad de la memoria: 480 GB
 

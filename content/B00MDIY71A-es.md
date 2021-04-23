@@ -29,7 +29,7 @@ Está [WOLFPACK LINEA PROFESIONAL 9011000 Disco Adhesivo De Velcro 150 mm. para 
 ℹ️:
 
 - Para lijadora neumatica
-- Diámetro: 150 mm.
 - Adhesivo mediante velcro.
+- Diámetro: 150 mm.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00MDIY71A/?tag=tolees-21)
