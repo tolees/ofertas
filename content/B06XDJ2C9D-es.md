@@ -28,10 +28,10 @@ Tienes [Bourjois Rouge Laque Barra de Labios Líquida Tono 04 Selfpeach! - 27 gr
 
 🔎:
 
-- Labial líquido para un intenso acabado brillante y viniloso
+- Hasta 16 horas de hidratación y brillo elegante sin sensación pegajosa
 - Fórmula acuosa emulsionada con aceite para brindar ligereza y brillo sin pegajosidad
 - Aplicación fácil y precisa gracias a su punta espumosa
 - Pigmentos saturados que proporcionan un color de larga duración
-- Hasta 16 horas de hidratación y brillo elegante sin sensación pegajosa
+- Labial líquido para un intenso acabado brillante y viniloso
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XDJ2C9D/?tag=tolees-21)

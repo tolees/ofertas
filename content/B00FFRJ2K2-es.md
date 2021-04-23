@@ -28,11 +28,11 @@ Ahora mismo tienes [CLEOPATRE - Cléopâtre  Craft Glue para mayores de 3 años 
 
 🔎:
 
-- Esta cola es ideal para las primeras actividades manuales de los pequeños niños de 3 años y más
-- Sin solvente y sin acido
-- Perfecta para hacer el Slime
 - Hecho en Francia
+- Esta cola es ideal para las primeras actividades manuales de los pequeños niños de 3 años y más
 - Contiene un frasco de 2 litros, cantidad para llenar los pequeños frascos
 - Adhesivo vinílico para usar con papel y cartón
+- Sin solvente y sin acido
+- Perfecta para hacer el Slime
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00FFRJ2K2/?tag=tolees-21)
