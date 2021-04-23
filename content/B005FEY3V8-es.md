@@ -28,10 +28,10 @@ En este momento está [Casio Reloj de pulsera A158WEA-1EF](https://www.amazon.es
 
 🔎:
 
-- Resistente al agua y soporta pequeñas salpicaduras de agua
+- Con luz incorporada que ilumina la esfera del reloj desde un lado
 - La duración de la batería es de 7 años
+- Resistente al agua y soporta pequeñas salpicaduras de agua
 - Tiene cronómetro, alarma diaria, calendario automático y formato de 12 o 24 horas
 - Caja de resina y correa de acero inoxidable con cierre ajustable
-- Con luz incorporada que ilumina la esfera del reloj desde un lado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005FEY3V8/?tag=tolees-21)
