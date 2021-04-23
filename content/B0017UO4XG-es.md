@@ -29,8 +29,8 @@ Tienes [Sangean HS V100 A100Hz-2M EU [importado de Alemania]](https://www.amazon
 🔎:
 
 - Estación de búsqueda automática
-- Desinado con una antena de 20 cm
 - Radio portátil FM/AM con pantalla retroiluminada
+- Desinado con una antena de 20 cm
 - Tiene 10 estaciones de memorización, 5 FM y 5 AM
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0017UO4XG/?tag=tolees-21)
