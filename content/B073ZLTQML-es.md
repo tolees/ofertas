@@ -28,9 +28,9 @@ En este momento está [Western Digital My Book Duo Disco Duro Externo de Sobreme
 
 🔎:
 
-- Discos WD Red optimizados para RAID
-- 2 puertos hub USB 3.0
 - Protección mediante contraseña y cifrado de hardware AES de 256 bits
+- 2 puertos hub USB 3.0
+- Discos WD Red optimizados para RAID
 - Listo para usar directamente con RAID-0, USB 3.1 y compatibilidad con USB 3.0
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073ZLTQML/?tag=tolees-21)

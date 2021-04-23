@@ -28,10 +28,10 @@ Está [Mosen Limpiador de Poros Succionador de Puntos Negros Limpiador Facial Bl
 
 ℹ️:
 
-- 【PANTALLA Y DURABILIDAD】La batería recargable incorporada de 1200 mAh puede garantizar un tiempo de trabajo de más de 150 minutos y el tiempo de carga es aproximadamente 2 horas. Y la pantalla muestra 3 niveles de succión baja media y alta y 3 modos para piel grasa, normal y seca.
-- 【5 CABEZALES DIFERENTES】Proporcione 5 cabezales extraíbles para satisfacer diferentes necesidades. Elija diferentes cabezales para diferentes áreas faciales y problemas faciales, incluida espinillas, acné, grasa, exceso de córnea, piel muerta y residuos de maquillaje. Lea las instrucciones o contactarnos si no sabe cómo usarlo.
 - 【CUIDADO DE USO】Cuando usa el succionador de puntos negros por primera vez, se recomienda que primero detecte la succión de diferentes fuerzas con su palma para adaptarse a su piel. Además, cuando aplica toallas calientes, el efecto de absorción es mejor.
+- 【5 CABEZALES DIFERENTES】Proporcione 5 cabezales extraíbles para satisfacer diferentes necesidades. Elija diferentes cabezales para diferentes áreas faciales y problemas faciales, incluida espinillas, acné, grasa, exceso de córnea, piel muerta y residuos de maquillaje. Lea las instrucciones o contactarnos si no sabe cómo usarlo.
 - 【LIMPIADOR DE POROS】El limpiador de poros Mosen está hecho de material ABS confiable y utiliza un enfoque físico efectivo para resolver los problemas de la piel, sin químicos tóxicos o dañinos. Es más seguro y más efectivo que los métodos tradicionales de limpieza facial. Y extractor de puntos negros Mosen tiene una succión más poderosa y una capacidad de limpieza más profunda.
+- 【PANTALLA Y DURABILIDAD】La batería recargable incorporada de 1200 mAh puede garantizar un tiempo de trabajo de más de 150 minutos y el tiempo de carga es aproximadamente 2 horas. Y la pantalla muestra 3 niveles de succión baja media y alta y 3 modos para piel grasa, normal y seca.
 - 【SUFICIENTE POTENCIA SUCCIÓN】Tecnología de vacío avanzada, succión máxima de 60KP, eliminación completa de puntos negros y acné, pero no dañará su piel en este rango de succión. Pero hay que practicar para aprender a utilizarlo bien, es importante hacer pases rápidos, cortos, y procurar no repetir pases en un mismo sitio para evitar marcas y moratones.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KRGGZY6/?tag=tolees-21)
