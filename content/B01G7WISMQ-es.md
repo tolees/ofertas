@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! Gears of War S3: Boomer Fig al 75.24 % de descuento'
-date: 2021-04-21 09:11:12
+date: 2021-04-23 17:16:11
 image: 'https://m.media-amazon.com/images/I/51OteR9gNBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [Funko - Pop! Gears of War S3: Boomer Figura Coleccionable  M
 
 🔎:
 
+- Juguete del año 2018
+- Funko pop vinyl
+- De la colección gears of war, boomer como figura de vinilo pop de funko
 - Boomer
 - Games: gears of war s3
-- De la colección gears of war, boomer como figura de vinilo pop de funko
-- Funko pop vinyl
-- Juguete del año 2018
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01G7WISMQ/?tag=tolees-21)

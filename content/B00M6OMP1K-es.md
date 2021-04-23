@@ -31,8 +31,8 @@ Está [Antaño Crianza - Vino Tinto D.O Rioja - Pack de 6 Botellas x 750 ml](htt
 - Gusto: En boca es suave y sabroso con una textura tánica agradable. Se percibe un sabor a cacao picante, café tostado en grano y vainilla. Los sabores tostados perduran en el final.
 - Tipo de uva: Elaborado con una selección de uvas Tempranillo, Mazuelo, Graciano y Garnacha cuatro uvas autóctonas de la Rioja. Sigue un proceso de maduración de 12 meses en barricas de roble americano.
 - Aroma: Presenta un perfil aromático con toques frutales, de bayas rojas con perfumes de vainilla y especias.
-- Apariencia: Vino tinto de color rubí intenso con capa media alta brillante.
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 16 ºC y conservarlo en un lugar fresco y seco.
 - Maridaje: Este vino tinto se puede acompañar de carnes como el venado en salsa, riñones al vino tinto o empanada de atún, así como de quesos como el Manchego.
+- Apariencia: Vino tinto de color rubí intenso con capa media alta brillante.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00M6OMP1K/?tag=tolees-21)
