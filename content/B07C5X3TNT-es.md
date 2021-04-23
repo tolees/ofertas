@@ -28,7 +28,7 @@ En este momento está [Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Negro 
 
 🔎:
 
-- Sudadera con logotipo.
 - Mezcla de algodón.
+- Sudadera con logotipo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07C5X3TNT/?tag=tolees-21)

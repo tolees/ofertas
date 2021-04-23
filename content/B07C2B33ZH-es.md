@@ -29,7 +29,7 @@ En este momento está [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Negro  Bl
 🔎:
 
 - Marca: Jack&Jones
-- Modelo: 12137194 JJEBASIC KNIT V-NECK NOOS BLACK
 - Jersey de manga larga de color negro. Cuello en pico. Detalle bordado.
+- Modelo: 12137194 JJEBASIC KNIT V-NECK NOOS BLACK
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07C2B33ZH/?tag=tolees-21)

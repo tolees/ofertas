@@ -28,12 +28,12 @@ En este momento está [Pepe Jeans Track  Vaqueros  Negro  Black Used Gymdigo Den
 
 🔎:
 
+- Lavado authentic black used
+- Pierna recta
+- Gymdigo: libertad de movimiento
 - Tejido elástico gymdigo
 - Tiro medio
-- Lavado authentic black used
-- Fit regular
-- Gymdigo: libertad de movimiento
-- Pierna recta
 - Estilo 5 bolsillos
+- Fit regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JWQWGV8/?tag=tolees-21)

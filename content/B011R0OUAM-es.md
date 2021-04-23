@@ -28,8 +28,8 @@ Tienes [Lolea Nº1 Sangria - 750 ml](https://www.amazon.es/dp/B011R0OUAM/?tag=to
 
 ℹ️:
 
+- Graduación: 7º
 - Capacidad: 75cl
 - Sangría tinta natural española
-- Graduación: 7º
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B011R0OUAM/?tag=tolees-21)
