@@ -28,10 +28,10 @@ Está [Samsung EVO Select - Tarjeta de Memoria microSD de 128 GB  Velocidad 100 
 
 ℹ️:
 
+- Alta velocidad: apto para grabación 4K UHD y Super Slow Motion con hasta 100 MB/s de velocidad de transferencia (UHS-I U3)
 - Alta seguridad para tus datos gracias a la protección cuádruple de 4 capas: resistente al agua, a la temperatura, a prueba de rayos X y a prueba de imán
 - Gran capacidad: 128 GB de capacidad de almacenamiento para hasta 6 horas de tiempo de grabación de vídeo 4K UHD o 37. 600 fotos
-- Alta velocidad: apto para grabación 4K UHD y Super Slow Motion con hasta 100 MB/s de velocidad de transferencia (UHS-I U3)
-- Gran compatibilidad: gracias al adaptador SD incluido es compatible con una amplia gama de dispositivos
 - Tarjeta de memoria microSD optimizada a la velocidad, perfecta para su uso en smartphones, tabletas, cámaras de 360°, cámaras de acción Full HD y drones
+- Gran compatibilidad: gracias al adaptador SD incluido es compatible con una amplia gama de dispositivos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085FGMQS6/?tag=tolees-21)

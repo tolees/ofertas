@@ -28,10 +28,10 @@ En este momento está [STP 79400 Tratamiento Reductor emisiones Coche Gasolina  
 
 🔎:
 
-- Apto para todos los motores tradiciones, actuales y catlizaodres
 - 1 unidad, 400 ml
-- Utilice antes de la prueba de emisiones. Limpia los componentes que influyen en las emisiones reduciendo las emisiones del tubo de escape
-- Para vehículos diesel
 - Mantiene limpios los componentes esenciales del sistema de combustible ahorrando combustible, añadir al deposito de combustible
+- Para vehículos diesel
+- Apto para todos los motores tradiciones, actuales y catlizaodres
+- Utilice antes de la prueba de emisiones. Limpia los componentes que influyen en las emisiones reduciendo las emisiones del tubo de escape
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KTKFP33/?tag=tolees-21)

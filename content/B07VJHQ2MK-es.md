@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Court Borough Low 2  Zapatillas de  al 42.24 % de descuento'
-date: 2021-04-20 12:54:02
+date: 2021-04-23 19:07:50
 image: 'https://m.media-amazon.com/images/I/31sMqK983dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Nike Court Borough Low 2  Zapatillas de Correr  Blanco  38.5
 
 🔎:
 
-- Importado
-- Suave de Llevar
 - Cordones de Zapatos
+- Suave de Llevar
+- Importado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VJHQ2MK/?tag=tolees-21)

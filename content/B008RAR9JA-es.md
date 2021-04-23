@@ -28,8 +28,8 @@ Tienes [Max Factor Khol Pencil Eyeliner Lápiz de Ojos Tono 70 Olive - 4 gr](htt
 
 🔎:
 
-- Marca: Max Factor
 - Tipo de producto: Lapiz de ojos
 - Género: Mujer
+- Marca: Max Factor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B008RAR9JA/?tag=tolees-21)
