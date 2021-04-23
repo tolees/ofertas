@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.24 % en Lolea Nº1 Sangria - 750 ml'
-date: 2021-04-20 07:51:34
+date: 2021-04-23 06:40:42
 image: 'https://m.media-amazon.com/images/I/31pN8zsM8HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Lolea Nº1 Sangria - 750 ml](https://www.amazon.es/dp/B011R0OUAM/?tag=to
 
 ℹ️:
 
-- Graduación: 7º
-- Sangría tinta natural española
 - Capacidad: 75cl
+- Sangría tinta natural española
+- Graduación: 7º
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B011R0OUAM/?tag=tolees-21)
