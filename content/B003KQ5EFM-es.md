@@ -28,8 +28,8 @@ Tienes [STANLEY 0-66-358 - Destornillador con carraca y 6 Puntas](https://www.am
 
 ℹ️:
 
-- punta magnética
 - Desatornillador con puntas Stanley - 6 puntas, corto
+- punta magnética
 - Schlitz/Phillips/Pozidriv, trinquete
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003KQ5EFM/?tag=tolees-21)

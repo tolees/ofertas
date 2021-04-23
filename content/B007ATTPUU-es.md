@@ -28,10 +28,10 @@ Ahora mismo tienes [Gre FA6100 - Filtro de Arena para Piscina  485 W  10.000 l/h
 
 🔎:
 
-- Diámetro de 600 mm y válvula selectora de 6 vías
-- Válido para medios filtrantes cómo: arena, vidrio y Aqualoon
-- Con capacidad de filtrar 10.000 litros por hora a 485 W de potencia
-- Adaptado para piscinas hasta 75 m3 de capacidad
 - Filtro de arena de piscina, compacto y de fácil instalación, que sirve para retener las impurezas
+- Adaptado para piscinas hasta 75 m3 de capacidad
+- Con capacidad de filtrar 10.000 litros por hora a 485 W de potencia
+- Válido para medios filtrantes cómo: arena, vidrio y Aqualoon
+- Diámetro de 600 mm y válvula selectora de 6 vías
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007ATTPUU/?tag=tolees-21)
