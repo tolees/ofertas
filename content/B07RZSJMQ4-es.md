@@ -28,9 +28,9 @@ Tienes [New Balance 373 Core  Zapatillas Hombre  Azul  Navy/White Cc2   43 EU](h
 
 🔎:
 
-- Suela de goma
 - Entresuela de espuma EVA y talón para amortiguación
 - Parte superior de gamuza
 - Sujeción suave bajo los pies
+- Suela de goma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RZSJMQ4/?tag=tolees-21)
