@@ -28,10 +28,10 @@ Ahora mismo tienes [Pyramid International - It - Mug Pennywise Red  320 ML](http
 
 🔎:
 
-- Idea regalos
-- 100% cerámica
-- Resistente al lavavajillas y al microondas.
-- Licencia oficial
 - Cultura TV/cine/pop
+- Licencia oficial
+- Resistente al lavavajillas y al microondas.
+- 100% cerámica
+- Idea regalos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CNXR2VC/?tag=tolees-21)

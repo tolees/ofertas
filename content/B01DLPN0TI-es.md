@@ -28,14 +28,14 @@ Tienes [Vaggan Barbacoa  Negro y Rojo](https://www.amazon.es/dp/B01DLPN0TI/?tag=
 
 ℹ️:
 
-- Peso: 1500gr.
-- Desmontable.
+- Fácil de llevar.
 - De tres patas.
 - Parrilla de acero con varias alturas de cocinado.
-- Fácil de llevar.
-- Barbacoa 3 pies redonda 33 cm.
-- Marca: Vaggan.
-- Dimensiones: 33 x 33 x 46cm.
+- Peso: 1500gr.
 - Barbacoa de chapa adecuada para carbón.
+- Dimensiones: 33 x 33 x 46cm.
+- Marca: Vaggan.
+- Barbacoa 3 pies redonda 33 cm.
+- Desmontable.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DLPN0TI/?tag=tolees-21)

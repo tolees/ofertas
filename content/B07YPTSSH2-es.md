@@ -28,7 +28,7 @@ Ahora mismo tienes [MUSTELA Crema pañal Bio 75ml. Tubo  Negro](https://www.amaz
 
 🔎:
 
-- Tipo de fábrica: No Aplica
 - Crema pañal BIO 75ml. Tubo
+- Tipo de fábrica: No Aplica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YPTSSH2/?tag=tolees-21)

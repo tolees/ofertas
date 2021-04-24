@@ -28,9 +28,9 @@ Tienes [Funko - Pop! TV: Game of Thrones - Arya w/Two Headed Spear Figura Colecc
 
 🔎:
 
-- Recomendado para niños a partir de 3 años
+- El producto se envía en una caja ilustrada con ventana
 - Figura de colección de la marca Funko
 - El artículo es adecuado para todos los fanáticos de Game of Thrones
-- El producto se envía en una caja ilustrada con ventana
+- Recomendado para niños a partir de 3 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RMB7W24/?tag=tolees-21)
