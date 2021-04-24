@@ -29,8 +29,8 @@ Tienes [Tetra CO2 Plus - Fertilizante líquido para acuarios  250 ml ](https://w
 🔎:
 
 - Fácil aplicación sin necesidad de herramientas
-- Liberación biológica de CO2 hasta una semana
-- Las plantas de acuario se desarrollan más fuertes y saludables
 - El fuerte crecimiento de las plantas es la mejor prevención de algas
+- Las plantas de acuario se desarrollan más fuertes y saludables
+- Liberación biológica de CO2 hasta una semana
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FAUNSA4/?tag=tolees-21)

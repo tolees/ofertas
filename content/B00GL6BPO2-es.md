@@ -28,14 +28,14 @@ Ahora mismo tienes [Schleich- Borriquillo  Color Gris  13746 ](https://www.amazo
 
 🔎:
 
-- Figura de borriquillo pintada a mano
 - 7 x 3 x 7 cm (ancho x largo x alto)
-- Gama farm world de schleich
+- Figura pintada a mano
 - Educativos y versátiles
-- Gama de productos World of Nature. Colección Vida en la Granja
 - Educativa y versátil
 - Modelados al detalle
-- Figura pintada a mano
+- Gama de productos World of Nature. Colección Vida en la Granja
+- Gama farm world de schleich
 - Modelada al detalle de alta calidad
+- Figura de borriquillo pintada a mano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00GL6BPO2/?tag=tolees-21)
