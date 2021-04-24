@@ -28,8 +28,8 @@ Tienes [GoPro The Handler - Empuñadura flotante  Negro](https://www.amazon.es/d
 
 ℹ️:
 
-- Resistente y de buena calidad.
 - Accesorio para cámara GoPro.
+- Resistente y de buena calidad.
 - GoPro Original.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0755PDKCN/?tag=tolees-21)

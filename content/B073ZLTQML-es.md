@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital My Book Duo Disco Duro E con un 35.28 % de descuento'
-date: 2021-04-22 22:05:44
+date: 2021-04-24 14:30:39
 image: 'https://m.media-amazon.com/images/I/31yyf+9XFuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B073ZLTQML/?tag=tolees-21'
 descuento: '35.28'
-average: '321.15'
+average: '320.597272727273'
 ---
 
 En este momento está [Western Digital My Book Duo Disco Duro Externo de Sobremesa de 12 TB con RAID  USB 3.1 gen 1](https://www.amazon.es/dp/B073ZLTQML/?tag=tolees-21) a 308.99 EUR (original: 477.42 EUR) (35.28 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Western Digital My Book Duo Disco Duro Externo de Sobreme
 
 🔎:
 
-- Protección mediante contraseña y cifrado de hardware AES de 256 bits
-- 2 puertos hub USB 3.0
 - Discos WD Red optimizados para RAID
+- 2 puertos hub USB 3.0
+- Protección mediante contraseña y cifrado de hardware AES de 256 bits
 - Listo para usar directamente con RAID-0, USB 3.1 y compatibilidad con USB 3.0
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073ZLTQML/?tag=tolees-21)
