@@ -28,12 +28,12 @@ En este momento está [Sony WI-C200 - Auriculares in ear inalámbricos más lige
 
 🔎:
 
-- Compatible con llamadas con manos libres y asistente de voz
-- Formatos de audio compatibles: SBC, AAC
-- Protección de contenido compatible: SCMS-T
-- Hasta 15 horas de duración de batería
 - Unidades de diafragma de 9.mm para un sonido claro y nítido
-- Cables flexibles y ligeros
 - Audio inalámbrico con tecnología bluetooth
+- Protección de contenido compatible: SCMS-T
+- Cables flexibles y ligeros
+- Hasta 15 horas de duración de batería
+- Formatos de audio compatibles: SBC, AAC
+- Compatible con llamadas con manos libres y asistente de voz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QYWD718/?tag=tolees-21)
