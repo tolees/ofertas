@@ -28,9 +28,9 @@ Ahora mismo tienes [Bourjois Liner Reveal Lápiz de ojos Tono 01 Shiny Black - 1
 
 🔎:
 
+- Diseño chic y ergonómico
 - La punta suave y precisa permite dibujar líneas con mucha facilidad
 - Delineador de ojos líquido ultra intenso y hipnotizante
-- Diseño chic y ergonómico
 - Deslumbrante efecto brillo
 - Fórmula resistente al agua y duradera
 

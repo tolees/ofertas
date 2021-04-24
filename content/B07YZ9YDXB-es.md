@@ -28,9 +28,9 @@ Tienes [cradle HR Funda Protectora para Huawei MediaPad T3 10 de Pulgadas y Huaw
 
 🔎:
 
-- Características de función: los soportes te proporcionan una variedad de diferentes ángulos de visualización y escritura para proteger la visión de tu hijo. El diseño de mango grande hace que sea más portátil. Es muy conveniente para llevar y viajar.
-- Material: hecho completamente de espuma EVA ambiental, ligera, fácil de transportar, buen material flexible para una cobertura completa de tu tableta, proporciona protección contra golpes y resbalones.
 - Compatible con Huawei MediaPad T3 de 10" y Huawei Honor Play Pad 2 de 9.6", comprueba el número de modelo de tu tablet antes de comprar.
+- Material: hecho completamente de espuma EVA ambiental, ligera, fácil de transportar, buen material flexible para una cobertura completa de tu tableta, proporciona protección contra golpes y resbalones.
+- Características de función: los soportes te proporcionan una variedad de diferentes ángulos de visualización y escritura para proteger la visión de tu hijo. El diseño de mango grande hace que sea más portátil. Es muy conveniente para llevar y viajar.
 - Protector: tiene un buen efecto de protección para la tableta para evitar la rotura causada caída. El material único proporciona una mejor protección para tu tableta. El producto de venta de edición original, tiene la protección de patentes.
 - Permisos de acceso: los recortes personalizados dan acceso abierto a todos los botones, puertos, altavoces, cámara frontal y trasera, hacen que tu tablet se ajuste perfectamente a la funda.
 

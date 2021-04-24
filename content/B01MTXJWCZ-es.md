@@ -28,10 +28,10 @@ Está [Sikacryl S  Masilla acrílicos para el sellado de juntas con bajo movimie
 
 ℹ️:
 
-- Para sellados de juntas interiores con bajo movimiento sobre superficies de hormigón, hormigón aligerado, enlucidos, fibrocemento, ladrillos, cartónyeso, aluminio, pvc, madera
-- Fácil aplicación
-- Alta durabilidad
 - Buena adherencia sobre soportes como madera y hormigón
+- Para sellados de juntas interiores con bajo movimiento sobre superficies de hormigón, hormigón aligerado, enlucidos, fibrocemento, ladrillos, cartónyeso, aluminio, pvc, madera
+- Alta durabilidad
 - Bajo olor
+- Fácil aplicación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MTXJWCZ/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [PUMA Quarter 3p deporte  Gris  Grey/White/Black 803   Talla única  Tall
 
 🔎:
 
-- Borde superior cómodo
 - Costuras planas en la puntera para evitar molestias
 - Algodón peinado para proporcionar una sensación de suavidad
+- Borde superior cómodo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P8M29LP/?tag=tolees-21)

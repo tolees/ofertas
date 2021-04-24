@@ -28,10 +28,10 @@ Tienes [Science4you - Fábrica de Jabones - Juguete científico y Educativo](htt
 
 🔎:
 
+- La visión de Science4you es mejorar los niveles de educación en la sociedad, a través del desarrollo de juguetes científicos y juegos que permitan a los niños aprender mientras juegan.
+- ¡Juguete educativo para producir jabones perfumados y descubrir cómo hacer fantásticos jabones en forma de pez, caracola y caballito de mar, cómo puedes hacer jabones con fantásticos olores y purpurina, cómo hacer jabones de avena y de flores secas para regalárselos a tus amigas y cómo puedes transformarte en un científico y hacer jabón líquido!
 - Edad 8+
 - 8 Experimentos Cientificos
-- ¡Juguete educativo para producir jabones perfumados y descubrir cómo hacer fantásticos jabones en forma de pez, caracola y caballito de mar, cómo puedes hacer jabones con fantásticos olores y purpurina, cómo hacer jabones de avena y de flores secas para regalárselos a tus amigas y cómo puedes transformarte en un científico y hacer jabón líquido!
 - Incluye libro educativo de 36 páginas y más de 65€ en entradas para Museos de Ciencia
-- La visión de Science4you es mejorar los niveles de educación en la sociedad, a través del desarrollo de juguetes científicos y juegos que permitan a los niños aprender mientras juegan.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HAOMM9Q/?tag=tolees-21)
