@@ -29,11 +29,11 @@ Tienes [Motorola Lifestyle - Motorola Focus 72 Outdoor Cámara de vigilancia Ina
 🔎:
 
 - un cable adaptador de 2,5 m está incluido
-- Una mirada fija: la cámara Motorola Focus 72 es adecuada para la vigilancia de vídeo permanente a través de un soporte de pared. Los datos se envían a través de un cable LAN Ethernet o WLAN.
-- Construcción sólida: Focus 72 es resistente a las salpicaduras de IP66, resistente a la intemperie y tiene una carcasa de metal resistente. Un cable adaptador de 2,5 m está incluido.
-- Seguro de intervenciones: La transmisión de datos a través de cable LAN y WLAN se cifra y los datos de vídeo se almacenan en servidores de nube cifrados triples.
 - Características robustas: la cámara de vigilancia tiene un zoom digital, visión nocturna infrarroja y una detección de movimiento de 10m, que envía notificaciones al smartphone, por ejemplo
+- Construcción sólida: Focus 72 es resistente a las salpicaduras de IP66, resistente a la intemperie y tiene una carcasa de metal resistente. Un cable adaptador de 2,5 m está incluido.
+- Una mirada fija: la cámara Motorola Focus 72 es adecuada para la vigilancia de vídeo permanente a través de un soporte de pared. Los datos se envían a través de un cable LAN Ethernet o WLAN.
 - Construcción sólida focus 72 es resistente a las salpicaduras de ip66, resistente a la intemperie y tiene una carcasa de metal resistente
+- Seguro de intervenciones: La transmisión de datos a través de cable LAN y WLAN se cifra y los datos de vídeo se almacenan en servidores de nube cifrados triples.
 - HD Everywhere: La aplicación Monitor Hubble recibe 720p de transmisión en directo en smartphone, tableta o PC. La grabación manual de vídeos e imágenes se almacena directamente en la cámara y cloud.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075MPCTY9/?tag=tolees-21)

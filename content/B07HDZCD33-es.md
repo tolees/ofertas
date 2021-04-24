@@ -28,8 +28,8 @@ En este momento está [Adidas 3Mc  Sneaker Unisex Adulto  Core Black/Core Black/
 
 🔎:
 
-- Lona superior
-- Cordones de zapatos
 - Corte regular
+- Cordones de zapatos
+- Lona superior
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HDZCD33/?tag=tolees-21)
