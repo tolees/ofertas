@@ -28,10 +28,10 @@ En este momento está [Sony WISP500B  Auriculares  Inalámbrico  Tamaño Único 
 
 🔎:
 
-- Libertad inalámbrica con la tecnología Bluetooth y NFC
 - Los diafragmas de tipo abierto de 13.5 mm dejan pasar el sonido ambiente
-- Hasta 8 horas de reproducción
 - Diseño ligero con colocación detrás del cuello y agarre seguro
 - Resistente al sudor y a las salpicaduras con un índice IPX4
+- Libertad inalámbrica con la tecnología Bluetooth y NFC
+- Hasta 8 horas de reproducción
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078VHHPFS/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Schleich- Figura de Caballo  Semental Andaluz  Color Blanco  11 5cm](htt
 
 🔎:
 
+- Gama horse club de schleich
 - Figura de caballo semental andaluz modelada con gran detalle.
 - Pintada minunciosamente a mano.
 - Dimensiones: 14,1 x 5 x 11,5 cm (ancho x largo x alto)
-- Gama horse club de schleich
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MF4PRGL/?tag=tolees-21)

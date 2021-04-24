@@ -28,9 +28,9 @@ Tienes [Schleich - Figura vaca frisona de manchas negras  8 2 cm.](https://www.a
 
 ℹ️:
 
-- Dimensiones: 12,6 x 6,4 x 8,2 cm (Ancho x Largo x Alto)
-- Pintadas minunciosamente a mano.
 - Gama Farm World de Schleich.
 - Figura vaca frisona de manchas negras modelada con gran detalle.
+- Dimensiones: 12,6 x 6,4 x 8,2 cm (Ancho x Largo x Alto)
+- Pintadas minunciosamente a mano.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01AJNL380/?tag=tolees-21)
