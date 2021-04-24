@@ -28,10 +28,10 @@ Está [TP-Link Archer C1200 - Router Gigabit inalámbrico de doble banda  2.4 GH
 
 ℹ️:
 
-- PUERTOS GIGABIT ETHERNET - Dispones de 4xPuertos LAN gigabit (10/100/1000mbps) integrados para conectar con cable consolas, televisores y más
 - PUERTO USB 2.0 MULTIFUNCIONALES - Para compartir archivos, medios e incluso una impresora en red local o a través del servidor
-- 3 ANTENAS EXTERNAS 5dBi E INTERNAS - Proporcionan una cobertura inalámbrica omnidireccional y una fiabilidad muy buenas
+- PUERTOS GIGABIT ETHERNET - Dispones de 4xPuertos LAN gigabit (10/100/1000mbps) integrados para conectar con cable consolas, televisores y más
 - CONEXIONES DOBLE BANDA - Disponible en 300 Mbps (2.4 GHz) y a 866 Mbps (5 GHz ) para un ancho de banda total disponible de 1200Mbps
+- 3 ANTENAS EXTERNAS 5dBi E INTERNAS - Proporcionan una cobertura inalámbrica omnidireccional y una fiabilidad muy buenas
 - TECNOLOGÍA BEAMFORMING - Entrega conexiones inalámbricas con alta eficiencia (soportado por versión 2.0 y superior)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LLAK1SI/?tag=tolees-21)

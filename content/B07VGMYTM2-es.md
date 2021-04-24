@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Equalizer 4.0  Zapatillas Hombr al 50.02 % de descuento'
-date: 2021-04-21 07:11:50
+date: 2021-04-24 15:12:33
 image: 'https://m.media-amazon.com/images/I/31QWY3sPrEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07VGMYTM2/?tag=tolees-21'
 descuento: '50.02'
-average: '32.49'
+average: '40.04'
 ---
 
 Ahora mismo tienes [Skechers Equalizer 4.0  Zapatillas Hombre  Negro Negro Malla PU Negro Ribete Negro BBK  45 EU](https://www.amazon.es/dp/B07VGMYTM2/?tag=tolees-21) a 32.49 EUR (original: 65.0 EUR) (50.02 %  de descuento) en el siguiente enlace!

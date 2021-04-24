@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 Original Fit- Vaqueros para h al 39.46 % de descuento'
-date: 2021-04-23 10:27:59
+date: 2021-04-24 15:13:12
 image: 'https://m.media-amazon.com/images/I/41u6V9BHazL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B001QOL2O2/?tag=tolees-21'
 descuento: '39.46'
-average: '55.0354545454545'
+average: '54.99'
 ---
 
 Ahora mismo tienes [Levi s 501 Original Fit- Vaqueros para hombre  Azul  Onewash 101   W36/L30](https://www.amazon.es/dp/B001QOL2O2/?tag=tolees-21) a 54.49 EUR (original: 90.0 EUR) (39.46 %  de descuento) en el siguiente enlace!

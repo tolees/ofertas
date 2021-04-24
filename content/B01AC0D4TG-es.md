@@ -28,9 +28,9 @@ Tienes [Nike SS YTH Park Vi JSY Short Sleeve Top  Niños  Rojo  University Red/W
 
 🔎:
 
-- Confeccionada en tejido Dri-FIT que ayuda a mantenerte cómodo y seco
-- Paneles de color de contraste en la zona de los hombros
-- Lavable a máquina y fabricado de poliéster
 - Diseño de cuello en V para un ajuste sin opresiones
+- Confeccionada en tejido Dri-FIT que ayuda a mantenerte cómodo y seco
+- Lavable a máquina y fabricado de poliéster
+- Paneles de color de contraste en la zona de los hombros
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01AC0D4TG/?tag=tolees-21)
