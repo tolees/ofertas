@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Badland - Sherlock Holmes: The Devil s D al 67.29 % de descuento'
-date: 2021-04-22 11:25:22
+date: 2021-04-24 18:43:30
 image: 'https://m.media-amazon.com/images/I/51+w7A0URKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Ahora mismo tienes [Badland - Sherlock Holmes: The Devil s Daughter](https://www
 🔎:
 
 - ACCION Y AVENTURAS
-- PS4
 - 16+
+- PS4
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01D1O3X7I/?tag=tolees-21)
