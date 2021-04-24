@@ -28,10 +28,10 @@ Tienes [StarTech.com SV211HDUA - Switch conmutador KVM de 2 Puertos HDMI USB Aud
 
 ℹ️:
 
-- Diseño compacto que ahorra espacio
 - Se evita el uso de cables gracias a los cables integrados KVM y de conmutación remota
-- Soporte para resoluciones de alta definición (1080p - 1920 x 1200)
-- Fácil conmutación entre sistemas mediante el botón de conmutación remota
 - Conmutación entre ordenadores a través de un botón, teclas de acceso rápido o software
+- Fácil conmutación entre sistemas mediante el botón de conmutación remota
+- Soporte para resoluciones de alta definición (1080p - 1920 x 1200)
+- Diseño compacto que ahorra espacio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FSARCX0/?tag=tolees-21)
