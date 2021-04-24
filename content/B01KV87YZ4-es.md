@@ -28,10 +28,10 @@ Tienes [Casio Reloj Digital para Unisex de Cuarzo con Correa en Acero Inoxidable
 
 🔎:
 
-- Cronómetro
-- Carcasa de resina
-- Correa de acero inoxidable
-- Illuminator
 - Calendario automático
+- Illuminator
+- Carcasa de resina
+- Cronómetro
+- Correa de acero inoxidable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01KV87YZ4/?tag=tolees-21)

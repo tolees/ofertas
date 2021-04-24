@@ -28,9 +28,9 @@ Ahora mismo tienes [Carmex COS 002 BL Bálsamo labial  1 tarro - 7.5 g](https://
 
 🔎:
 
-- Previene la aparición de fisuras, grietas, calenturas
 - Suaviza y calma la piel de los labios durante la práctica de cualquier actividad al aire libre
-- Protege e hidrata la delicada piel de los labios;
+- Previene la aparición de fisuras, grietas, calenturas
 - Repara las grietas que aparecen por sequedad ambiental, heridas en los labios, calenturas
+- Protege e hidrata la delicada piel de los labios;
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00V6B4QA2/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Valira Proterm Termo para líquidos de 0 75 L con Botella
 
 🔎:
 
-- Botella de vidrio de doble pared con vacío
-- Termo para líquidos de 0, 75 litros
 - Conserva el frío/calor hasta 24 horas
+- Termo para líquidos de 0, 75 litros
+- Botella de vidrio de doble pared con vacío
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B007AKFP3K/?tag=tolees-21)
