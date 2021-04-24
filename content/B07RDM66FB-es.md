@@ -28,8 +28,8 @@ Está [Salomon X Reveal W  Zapatillas de Senderismo Mujer  Gris  Phantom/Balsam 
 
 ℹ️:
 
-- Zapatillas de hiking montañismo, alpinismo y trekking mujer
 - Calzado salomon
+- Zapatillas de hiking montañismo, alpinismo y trekking mujer
 - Shoes x reveal (l40972900)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RDM66FB/?tag=tolees-21)
