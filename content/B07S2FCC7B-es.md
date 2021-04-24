@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjeorganic Basic tee SS O-N al 46.19 % de descuento'
-date: 2021-04-20 08:21:32
+date: 2021-04-24 16:33:30
 image: 'https://m.media-amazon.com/images/I/31yeLC81BpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

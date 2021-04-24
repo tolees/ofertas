@@ -28,7 +28,7 @@ Ahora mismo tienes [Skechers Equalizer 4.0  Zapatillas Hombre  Negro Negro Malla
 
 🔎:
 
-- Slip de malla
 - refrigerado por aire de espuma de memoria de la plantilla
+- Slip de malla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VGMYTM2/?tag=tolees-21)

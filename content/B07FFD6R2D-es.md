@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CEE Games  New Gen  - Shadow Fall H al 50.48 % de descuento'
-date: 2021-04-23 14:15:15
+date: 2021-04-24 16:42:30
 image: 'https://m.media-amazon.com/images/I/51-2yI3x2mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07FFD6R2D/?tag=tolees-21'
 descuento: '50.48'
-average: '12.4586666666667'
+average: '12.29875'
 ---
 
 Ahora mismo tienes [Sony CEE Games  New Gen  - Shadow Fall Hits - Edición Killzone  Versión 13](https://www.amazon.es/dp/B07FFD6R2D/?tag=tolees-21) a 9.9 EUR (original: 19.99 EUR) (50.48 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Sony CEE Games  New Gen  - Shadow Fall Hits - Edición Killz
 
 🔎:
 
-- Género: de disparos
-- Clasificación PEGI: 18
 - Plataforma: PlayStation 4
+- Clasificación PEGI: 18
+- Género: de disparos
 - Edición del juego: básica
 - Rango ESRB: M (maduro)
 

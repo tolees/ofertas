@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CEE Games  New Gen  - The Last of u con un 50.48 % de descuento'
-date: 2021-04-23 13:17:26
+date: 2021-04-24 16:42:52
 image: 'https://m.media-amazon.com/images/I/51rxSZJ68LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07FF8XJWT/?tag=tolees-21'
 descuento: '50.48'
-average: '14.3412903225806'
+average: '14.2707936507936'
 ---
 
 En este momento está [Sony CEE Games  New Gen  - The Last of us Hits - Versión 14](https://www.amazon.es/dp/B07FF8XJWT/?tag=tolees-21) a 9.9 EUR (original: 19.99 EUR) (50.48 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Sony CEE Games  New Gen  - The Last of us Hits - Versión
 
 🔎:
 
-- Género: acción/aventura
-- Clasificación PEGI: 18
-- Rango ESRB: M (maduro)
-- Plataforma: PlayStation 4
 - Edición del juego: básica
+- Plataforma: PlayStation 4
+- Clasificación PEGI: 18
+- Género: acción/aventura
+- Rango ESRB: M (maduro)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FF8XJWT/?tag=tolees-21)
