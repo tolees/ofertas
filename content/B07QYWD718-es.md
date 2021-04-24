@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony WI-C200 - Auriculares in ear inalám con un 42.02 % de descuento'
-date: 2021-04-23 01:27:13
+title: 'Sony WI-C200 - Auriculares in ear inalám con un 35.90 % de descuento'
+date: 2021-04-24 03:23:40
 image: 'https://m.media-amazon.com/images/I/31WGZ2P975L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: 'tole.es'
 slug: 'B07QYWD718-es Sony WI-C200 - Auriculares in ear inalámbricos más ligeros...'
 sku: 'B07QYWD718-es'
 tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','sony', ]
-actualPrice: 23.19 EUR
+actualPrice: 25.64 EUR
 currency: EUR
-price: 23.19
+price: 25.64
 comparePrice: 40.0 EUR
 prodname: 'Sony WI-C200 - Auriculares in ear inalámbricos más ligeros y con hasta 15 h de autonomía  negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07QYWD718/?tag=tolees-21'
-descuento: '42.02'
-average: '28.0892857142857'
+descuento: '35.90'
+average: '28.0547887323944'
 ---
 
-En este momento está [Sony WI-C200 - Auriculares in ear inalámbricos más ligeros y con hasta 15 h de autonomía  negro](https://www.amazon.es/dp/B07QYWD718/?tag=tolees-21) a 23.19 EUR (original: 40.0 EUR) (42.02 %  de descuento) en el siguiente enlace!
+En este momento está [Sony WI-C200 - Auriculares in ear inalámbricos más ligeros y con hasta 15 h de autonomía  negro](https://www.amazon.es/dp/B07QYWD718/?tag=tolees-21) a 25.64 EUR (original: 40.0 EUR) (35.90 %  de descuento) en el siguiente enlace!
 
 [![Sony WI-C200 - Auriculares in ear inalám](https://m.media-amazon.com/images/I/31WGZ2P975L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07QYWD718/?tag=tolees-21)
 
 🔎:
 
-- Unidades de diafragma de 9.mm para un sonido claro y nítido
-- Audio inalámbrico con tecnología bluetooth
-- Cables flexibles y ligeros
-- Formatos de audio compatibles: SBC, AAC
 - Compatible con llamadas con manos libres y asistente de voz
-- Hasta 15 horas de duración de batería
+- Formatos de audio compatibles: SBC, AAC
 - Protección de contenido compatible: SCMS-T
+- Hasta 15 horas de duración de batería
+- Unidades de diafragma de 9.mm para un sonido claro y nítido
+- Cables flexibles y ligeros
+- Audio inalámbrico con tecnología bluetooth
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QYWD718/?tag=tolees-21)
