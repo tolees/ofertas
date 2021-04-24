@@ -28,13 +28,13 @@ Tienes [H.Koenig VIO9 Microondas 900 W 1000W  25 litros  Temporizador hasta 95 m
 
 🔎:
 
+- Tiene una capacidad de 25 litros y un diámetro del plato de cristal rotatorio de 27 cm, lo que hacen de el microondas vio7 un electrodoméstico con una gran capacidad
 - Dispone de 5 niveles de potencía de calentado y de grill para que ninguna receta se te resista logrando el acabado del plato perfecto; además, podrás descongelar tus alimentos en tan sólo unos minutos; olvídate de sacar del congelador tus alimentos el día de antes
-- La potencía del microondas de 900 w y la potencía del grill de 1000 w son perfectas para calentar tus alimentos en pocos segundos
 - El microondas vio9 de hkoenig te fácil itará la preparación de tus platos en tu día a día gracias a tu su fácil utilización
 - Su tamaño compacto con dimensiones 48.4 x 42 x 28.5 cm es perfecto para colocarlo en cualquier esquina y sólo tendrás que enchufarlo a la corriente para poder utilizarlo
-- En su pantalla led podrás visualizar tu selección y el temporizador
-- El microondas vio9 es de color negro con acabados en acero inoxidable, perfecto para todo tipo de cocinas
 - Disfruta del temporizador de hasta 95 minutos y programa el tiempo para poder dedicarte a otras tareas sin tener que preocuparte
-- Tiene una capacidad de 25 litros y un diámetro del plato de cristal rotatorio de 27 cm, lo que hacen de el microondas vio7 un electrodoméstico con una gran capacidad
+- En su pantalla led podrás visualizar tu selección y el temporizador
+- La potencía del microondas de 900 w y la potencía del grill de 1000 w son perfectas para calentar tus alimentos en pocos segundos
+- El microondas vio9 es de color negro con acabados en acero inoxidable, perfecto para todo tipo de cocinas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01AK9QUA4/?tag=tolees-21)
