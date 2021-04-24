@@ -28,14 +28,14 @@ Tienes [Schleich - Cría de oso polar  corriendo  figura  14708    color/modelo 
 
 ℹ️:
 
+- El oso polar es, junto con el oso grizzly, el depredador terrestre más grande de la tierra
+- Para poder aguantar el extremo frío ártico, los osos polares tienen una gruesa capa de grasa
 - Educativos y versátiles
 - Con un peso de más de 500 kilos y una longitud de casi tres metros, este oso es el doble de grande que un tigre siberiano
 - Gama de productos World of Nature. Colección Vida Salvaje
-- Poseen una capa de pelaje subcutáneo y una capa de pelo transparente
 - Pueden nadar y cazar a muy bajas temperaturas
-- Modelados al detalle
-- Para poder aguantar el extremo frío ártico, los osos polares tienen una gruesa capa de grasa
+- Poseen una capa de pelaje subcutáneo y una capa de pelo transparente
 - Figura pintada a mano
-- El oso polar es, junto con el oso grizzly, el depredador terrestre más grande de la tierra
+- Modelados al detalle
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GVTCHOQ/?tag=tolees-21)

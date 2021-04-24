@@ -28,10 +28,10 @@ En este momento está [Schleich- Figura de Pato Macho  Ánade Real  Colección F
 
 🔎:
 
-- Dimensiones: 4,4 x 3 x 4,9 cm (Ancho x Largo x Alto)
-- Colección Farm World de Schleich, creada para fomentar la creatividad de los niños mientras aprenden sobre tareas y animales de granja
 - Modelado con gran detalle y pintado minuciosamente a mano con materiales de calidad, garantizando la seguridad de las figuras, así como un tacto muy cuidado
-- El diseño artesanal de nuestros juguetes es un proceso largo, que puede durar hasta semanas, dando como resultado figuras con una apariencia muy realista
 - Figura de pato macho de la especie ánade real (Anas platyrhynchos), un pato de superficie muy común que habita en áreas templadas de Norteamérica, Europa, Asia y el norte de África
+- Colección Farm World de Schleich, creada para fomentar la creatividad de los niños mientras aprenden sobre tareas y animales de granja
+- Dimensiones: 4,4 x 3 x 4,9 cm (Ancho x Largo x Alto)
+- El diseño artesanal de nuestros juguetes es un proceso largo, que puede durar hasta semanas, dando como resultado figuras con una apariencia muy realista
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M8FP8UU/?tag=tolees-21)

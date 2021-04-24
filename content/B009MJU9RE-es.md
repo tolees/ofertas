@@ -28,14 +28,14 @@ Tienes [Schleich Schleich-14685 Oso Grizzly  Color marrón  14685 ](https://www.
 
 🔎:
 
-- Figura pintada a mano
-- Algunas veces se juntan para cazar truchas en los ríos
+- Gama de productos World of Nature. Colección Vida Salvaje
+- Tienen una especie de joroba en la espalda y unas patas traseras muy fuertes
 - Pueden alcanzar velocidades de hasta 55 kilómetros por hora
 - Viven en solitario y a menudo tienen un comportamiento agresivo
-- Educativos y versátiles
-- Gama de productos World of Nature. Colección Vida Salvaje
+- Algunas veces se juntan para cazar truchas en los ríos
 - Los grizzlies son animales grandes y fuertes que pueden llegar a medir (erguidos) 2.40 metros y pesar 450 kilos
-- Tienen una especie de joroba en la espalda y unas patas traseras muy fuertes
+- Educativos y versátiles
+- Figura pintada a mano
 - Modelados al detalle
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009MJU9RE/?tag=tolees-21)
