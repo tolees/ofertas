@@ -28,10 +28,10 @@ Ahora mismo tienes [A-TION Cámara para Niños  Pantalla Táctil IPS de 3.0" Cá
 
 🔎:
 
+- 🎁【Cámara multifunción para niños】Admite grabación de video, fotografía con lente dual frontal y posterior y juegos integrados. La nueva cámara para niños tiene más funciones, incluyendo lapso de tiempo, modo flash, disparo continuo, 8 escenas de disparo, 3 filtros de fotos y 29 pegatinas de dibujos animados.
 - 🎁【El mejor regalo para niños de 3 a 12 años】Las cámaras para niños son un regalo de cumpleaños ideal para niños de 3 a 12 años. Las cámaras digitales para niños son muy lindas, pequeñas y livianas, fácil de transportar y operar, y tienen el tamaño ideal para manos pequeñas.
 - 🎁【Disparo a intervalos y continuo】] Esta cámara multifuncional para niños admite 3 disparos continuos en tiempo real o disparos continuos con retardo de 10 segundos, disparos cronometrados, para satisfacer diversas necesidades en diferentes situaciones.
-- 🎁【Pantalla táctil IPS de 3 pulgadas】Esta cámara para niños tiene una pantalla táctil IPS de 3 pulgadas fácil de usar con funciones de menú claras. Está especialmente diseñado para niños. Los niños pueden familiarizarse con el funcionamiento de la cámara más rápidamente.
 - 🎁【1000mAh & 32GB】La cámara para niños es una batería de litio recargable de 1000 mAh incorporada que se puede cargar mediante un cable USB. La micro interfaz USB admite la transmisión de datos. Viene con una tarjeta micro SD de 32GB, la foto de salida máxima es de 30M, puede admitir hasta 2300 fotos y grabaciones de video.
-- 🎁【Cámara multifunción para niños】Admite grabación de video, fotografía con lente dual frontal y posterior y juegos integrados. La nueva cámara para niños tiene más funciones, incluyendo lapso de tiempo, modo flash, disparo continuo, 8 escenas de disparo, 3 filtros de fotos y 29 pegatinas de dibujos animados.
+- 🎁【Pantalla táctil IPS de 3 pulgadas】Esta cámara para niños tiene una pantalla táctil IPS de 3 pulgadas fácil de usar con funciones de menú claras. Está especialmente diseñado para niños. Los niños pueden familiarizarse con el funcionamiento de la cámara más rápidamente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07L7L2F2J/?tag=tolees-21)
