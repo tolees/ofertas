@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - PVZ Battle for Neighbo con un 47.14 % de descuento'
-date: 2021-04-23 19:34:25
+date: 2021-04-24 20:27:43
 image: 'https://m.media-amazon.com/images/I/5194WcenSkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B07XL43NNL/?tag=tolees-21'
 descuento: '47.14'
-average: '21.6290909090909'
+average: '21.2867647058823'
 ---
 
 En este momento está [Electronic Arts - PVZ Battle for Neighborville](https://www.amazon.es/dp/B07XL43NNL/?tag=tolees-21) a 9.99 EUR (original: 18.9 EUR) (47.14 %  de descuento) en el siguiente enlace!

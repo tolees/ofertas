@@ -28,8 +28,8 @@ Está [Nancy - Kit de Tres Vestidos de Cuento con muñeca  Famosa 700013110 ](ht
 
 ℹ️:
 
-- Podrás combinar estos vestidos con los Abrigos de Cuento
 - Nancy luce espectaculares vestidos inspirados en cuentos y fantasía
+- Podrás combinar estos vestidos con los Abrigos de Cuento
 - Nancy ¡La más Bonita!
 - Incluye tres vestidos con accesorios a juego
 

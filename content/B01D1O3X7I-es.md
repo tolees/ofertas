@@ -29,7 +29,7 @@ Ahora mismo tienes [Badland - Sherlock Holmes: The Devil s Daughter](https://www
 🔎:
 
 - 16+
-- ACCION Y AVENTURAS
 - PS4
+- ACCION Y AVENTURAS
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01D1O3X7I/?tag=tolees-21)

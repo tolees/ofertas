@@ -28,10 +28,10 @@ Ahora mismo tienes [Compo FLORANID Abono césped Larga duración de hasta 3 mese
 
 🔎:
 
+- Fácil de utilizar: Esparza el abono micro granulado 30 g/m2, aproximativo 2 cucharas/m2, con la mano o con un distribuidor de manera uniforme en el césped seco, 1-2 días después de cortar el césped; regar a continuación para que los micro gránulos contacten con el suelo; inofensivo para personas y animales
+- Contenido: 1 x COMPO FLORANID Abono césped de larga duración para 3 meses, 1,5 kg para 50 m²,
 - Composición: Abono CE. Abono NPK con Crotonilidendiurea y Isobutilidendiurea, con Magnesio 20+5+8(+2), con Boro, Cobre, Hierro, Manganeso y Zinc.
 - Abono césped de acción inmediata y de larga duración para un periodo de 3 meses; abono micro granulado de alta calidad que aporta todos los nutrientes y microelementos necesarios para el crecimiento del césped, verde, denso, resistente y sano, libre de musgo y malas hierbas
-- Fácil de utilizar: Esparza el abono micro granulado 30 g/m2, aproximativo 2 cucharas/m2, con la mano o con un distribuidor de manera uniforme en el césped seco, 1-2 días después de cortar el césped; regar a continuación para que los micro gránulos contacten con el suelo; inofensivo para personas y animales
 - Menor uso de abono y número de siegas gracias a un crecimiento regular y controlado, sin riesgo de quemaduras: liberación lenta de larga duración, respeta las aguas subterráneas y el medioambiente
-- Contenido: 1 x COMPO FLORANID Abono césped de larga duración para 3 meses, 1,5 kg para 50 m²,
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B015JNJWY2/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [caseable - Funda para Kindle y Kindle Paperwhite  diseño "Ornate Elepha
 ℹ️:
 
 - Funda tipo libro con refuerzo de neopreno
-- El neopreno en capas funciona como un amortiguador
 - Las cintas elásticas y resistentes mantienen tu dispositivo bien sujeto y la tapa cerrada
 - El interior en microfibra aterciopelada negra protege la pantalla y es suave al tacto
+- El neopreno en capas funciona como un amortiguador
 - Accesorio certificado "Diseñado para Amazon" compatible con Kindle Paperwhite (todas las generaciones), Kindle (5ª, 7ª y 8ª generación - modelos de 2012, 2014 y 2016) y Kindle Touch (4ª generación - modelo de 2011)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00PHEAIJC/?tag=tolees-21)

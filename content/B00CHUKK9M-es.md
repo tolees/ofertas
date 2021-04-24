@@ -28,10 +28,10 @@ Tienes [caseable - Funda para Kindle y Kindle Paperwhite  diseño de París](htt
 
 🔎:
 
-- El interior en microfibra aterciopelada negra protege la pantalla y es suave al tacto
-- El neopreno en capas funciona como un amortiguador
-- Las cintas elásticas y resistentes mantienen tu dispositivo bien sujeto y la tapa cerrada
-- Funda tipo libro con refuerzo de neopreno
 - Accesorio certificado "Diseñado para Amazon" compatible con Kindle Paperwhite (todas las generaciones), Kindle (5ª, 7ª y 8ª generación - modelos de 2012, 2014 y 2016) y Kindle Touch (4ª generación - modelo de 2011)
+- Funda tipo libro con refuerzo de neopreno
+- El neopreno en capas funciona como un amortiguador
+- El interior en microfibra aterciopelada negra protege la pantalla y es suave al tacto
+- Las cintas elásticas y resistentes mantienen tu dispositivo bien sujeto y la tapa cerrada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00CHUKK9M/?tag=tolees-21)

@@ -28,11 +28,11 @@ Está [Suunto Core All - Reloj de exterior para todas las altitudes  sumergible 
 
 ℹ️:
 
-- Medición de la altitud barométrica, Monitorización de la altitud con gráficos, Brújula, Mide la profundidad para bucear (10 m)
-- Muy resistente gracias a estar hecho de acero inoxidable con cristal de zafiro, Sumergible hasta 30m (ISO6425), Cómodo gracias a su ligereza
-- Contenido: 1 x Reloj Outdoor para todas las altitudes, SS014279010, All Black, Carcasa resistente, No incluye batería: CR 2032
-- No incluye GPS integrado.
 - Menú multilingüe (inglés, alemán, francés, español).
 - Alerta de tormentas, Temperatura, Hora, Fecha y función de alarma, 12 meses de duración de la batería en modo hora
+- Medición de la altitud barométrica, Monitorización de la altitud con gráficos, Brújula, Mide la profundidad para bucear (10 m)
+- Contenido: 1 x Reloj Outdoor para todas las altitudes, SS014279010, All Black, Carcasa resistente, No incluye batería: CR 2032
+- No incluye GPS integrado.
+- Muy resistente gracias a estar hecho de acero inoxidable con cristal de zafiro, Sumergible hasta 30m (ISO6425), Cómodo gracias a su ligereza
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001DCEKXM/?tag=tolees-21)
