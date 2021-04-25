@@ -28,8 +28,8 @@ Tienes [US PRO B1340 - Juego de llaves de vaso para destornillador de impacto  1
 
 ℹ️:
 
-- Alta calidad
 - Longitud del casquillo
+- Alta calidad
 - Alta calidad
 - Fabricado en España
 

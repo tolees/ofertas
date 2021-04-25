@@ -28,7 +28,7 @@ Está [Meridiem Games - Blacksad: Under The Skin - Limited Edition](https://www.
 
 ℹ️:
 
-- 4 Postales con ilustraciones de los personajes principales.
 - Carátula lenticular.
+- 4 Postales con ilustraciones de los personajes principales.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QZ4H1LM/?tag=tolees-21)

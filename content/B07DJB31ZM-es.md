@@ -28,9 +28,9 @@ Está [Geox D RUBIDIA A  Zapatillas Mujer  Blanco  39 EU](https://www.amazon.es/
 
 ℹ️:
 
+- Comfortable
+- Durable
 - Casual Sneakers
 - garantía de reembolso satisfacción
-- Durable
-- Comfortable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DJB31ZM/?tag=tolees-21)

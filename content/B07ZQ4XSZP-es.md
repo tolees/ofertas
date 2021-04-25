@@ -29,7 +29,7 @@ Tienes [Reebok Work N Cushion 4.0  Gymnastics Shoe Hombre  White/Cold Grey 2/Whi
 🔎:
 
 - Non-slip sole for greater stability
-- Walking shoes
 - Breathable Mesh upper
+- Walking shoes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZQ4XSZP/?tag=tolees-21)
