@@ -29,7 +29,7 @@ En este momento está [Clarks Hamble Loafer  Mocasines Mujer  Negro  Black Pat B
 🔎:
 
 - Material interior: piel
-- Exterior: piel
 - Suela: goma
+- Exterior: piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TJPJWJ8/?tag=tolees-21)

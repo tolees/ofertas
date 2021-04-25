@@ -28,11 +28,11 @@ Ahora mismo tienes [G-STAR RAW 3301 Vaqueros Slim  Pitch Black  25W / 34L para H
 
 🔎:
 
-- Lavar a máquina - caliente (mayor de 30 °)
-- Usado
-- Cierre: Boton y cierre
-- Normal
 - 99% Algodón, 1% Elastano
+- Cierre: Boton y cierre
+- Usado
 - Vaqueros slim
+- Normal
+- Lavar a máquina - caliente (mayor de 30 °)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NDL2WXM/?tag=tolees-21)
