@@ -28,8 +28,8 @@ Está [Meridiem Games - Instant Chef Party](https://www.amazon.es/dp/B08GNVLPB1/
 
 ℹ️:
 
-- Comida mexicana, española o italiana, sea cual sea tu cocina favorita . No necesitas ser un chef.
 - Sé el primero en ganar la carrera en los deliciosos boards de Instant Chef Party.
 - Demuestra tu habilidad e ingenio en un montón de minijuegos divertidos que puedes saborear con amigos y familiares.
+- Comida mexicana, española o italiana, sea cual sea tu cocina favorita . No necesitas ser un chef.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GNVLPB1/?tag=tolees-21)
