@@ -28,10 +28,10 @@ En este momento está [Maybelline New York - Maybelline Color Sensational Sombra
 
 🔎:
 
+- La sombra de ojos Color Sensational con textura cremosa en polvo consigue el color más saturado.Disponible hasta en 9 tonos.
+- Sombra de ojos anti-cuarteo, super resistente y con color de alta saturación.
 - Para dar mayor intensidad a la mirada, oscurece más el exterior del ojo.
 - El resultado: un color de sombra de ojos intenso y que no se cuartea.
-- La sombra de ojos Color Sensational con textura cremosa en polvo consigue el color más saturado.Disponible hasta en 9 tonos.
 - Su fórmula cremosa permite una aplicación uniforme y una alta pigmentación.
-- Sombra de ojos anti-cuarteo, super resistente y con color de alta saturación.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0743TTFR3/?tag=tolees-21)
