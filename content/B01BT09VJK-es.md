@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stanley STHT1-77366 - Dispositivo de med al 47.32 % de rebaja'
-date: 2021-04-19 15:03:28
+date: 2021-04-25 17:43:15
 image: 'https://m.media-amazon.com/images/I/41qVBlUEDbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

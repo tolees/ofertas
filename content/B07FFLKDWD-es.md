@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CEE Games  New Gen  - Ratchet And C al 50.48 % de descuento'
-date: 2021-04-24 16:42:48
+date: 2021-04-25 18:43:28
 image: 'https://m.media-amazon.com/images/I/51Hn2gb4CdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07FFLKDWD/?tag=tolees-21'
 descuento: '50.48'
-average: '15.4646511627907'
+average: '15.3381818181818'
 ---
 
 Ahora mismo tienes [Sony CEE Games  New Gen  - Ratchet And Clank Hits - Versión 12](https://www.amazon.es/dp/B07FFLKDWD/?tag=tolees-21) a 9.9 EUR (original: 19.99 EUR) (50.48 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Sony CEE Games  New Gen  - Ratchet And Clank Hits - Versión
 
 🔎:
 
-- Plataforma: PlayStation 4
 - Clasificación PEGI: 7
+- Plataforma: PlayStation 4
 - Género: acción/aventura
-- Edición del juego: básica
 - Rango ESRB: T (adolescente)
+- Edición del juego: básica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FFLKDWD/?tag=tolees-21)
