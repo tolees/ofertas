@@ -28,10 +28,10 @@ Tienes [Pure - Puré Pop Mide BT - Radio portátil con Bluetooth  gris](https://
 
 🔎:
 
-- Tiene altavoces incorporados y salida de auriculares estéreo
-- Con potencia estimada RMS de 4.3 W
-- Soporta bandas de radio DAB, DAB+, DMB-R y FM
-- Reloj despertador con tono de alarma y temporizador
 - Radio portátil con pantalla incorporada y Bluetooth
+- Tiene altavoces incorporados y salida de auriculares estéreo
+- Soporta bandas de radio DAB, DAB+, DMB-R y FM
+- Con potencia estimada RMS de 4.3 W
+- Reloj despertador con tono de alarma y temporizador
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00NOY09Q4/?tag=tolees-21)
