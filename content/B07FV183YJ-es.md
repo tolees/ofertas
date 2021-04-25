@@ -28,10 +28,10 @@ En este momento está [Oxford Classic - Pack de 5 cuadernos espirales  tapa plá
 
 🔎:
 
-- Color rojo
-- Espiral simple negra
-- 80 hojas con rayado horizontal con margen
 - Tapa plástico, resistencia y ligereza en uno. Cantos romos para evitar que las tapas se deterioren
 - Formato Fº
+- Espiral simple negra
+- 80 hojas con rayado horizontal con margen
+- Color rojo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FV183YJ/?tag=tolees-21)

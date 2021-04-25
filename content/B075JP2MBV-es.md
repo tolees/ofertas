@@ -28,13 +28,13 @@ Ahora mismo tienes [Timberland Bradstreet Leather Sensorflex  Botas Chukka Hombr
 
 🔎:
 
-- Composición: Cuero
+- Material exterior: Cuero
+- Altura del tacón: 2 centímetros
+- Anchura del zapato: Normal
 - Material de la suela: Caucho
 - Revestimiento: Tela
-- Cierre: Cordones
-- Altura del tacón: 2 centímetros
-- Material exterior: Cuero
+- Composición: Cuero
 - Tipo de tacón: Plano
-- Anchura del zapato: Normal
+- Cierre: Cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075JP2MBV/?tag=tolees-21)

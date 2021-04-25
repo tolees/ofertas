@@ -28,10 +28,10 @@ Tienes [Timberland Nellie Chukka  Botas Mujer  Amarillo Wheat Nubuck  39.5 EU](h
 
 ℹ️:
 
-- Cierre: Cordones
 - Tipo de tacón: Plano
 - Revestimiento: Tela
-- Material de la suela: Goma
 - Material exterior: Cuero
+- Material de la suela: Goma
+- Cierre: Cordones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005JQS5XY/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Kipling Nitany  Bolso con Bandolera para Mujer  Plateado  Metallic Glow 
 
 ℹ️:
 
-- Bolsillo trasero con cremallera
 - Bolsillo interior con cremallera
+- Bolsillo trasero con cremallera
 - Anilla en D
 - Logotipo redondo Kipling
 - Correa ajustable

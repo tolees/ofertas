@@ -28,8 +28,8 @@ Tienes [Reebok Royal Glide Ripple Clip  Zapatillas Clasicos Hombre  Negro  Black
 
 ℹ️:
 
-- Textile
-- adulto
 - Black
+- adulto
+- Textile
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B073RMCFT5/?tag=tolees-21)
