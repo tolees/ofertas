@@ -28,10 +28,10 @@ Tienes [Bourjois Smokey Stories Sombra de ojos Tono 13 Taupissime - 40 gr.](http
 
 🔎:
 
-- Su textura crema-en-polvo permite un difuminado modular: inteso o suave
-- Fórmula con primer incorporado que prolonga la duración del maquillaje hasta 12 horas
 - Contiene un aplicar de doble punta para una fácil aplicación
 - Paleta de 4 tonos complentarios diseñadors para crear un ahumado perfecto
+- Su textura crema-en-polvo permite un difuminado modular: inteso o suave
+- Fórmula con primer incorporado que prolonga la duración del maquillaje hasta 12 horas
 - Kit ideal para sombrear, definir y resaltar la mirada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N4EZU4M/?tag=tolees-21)

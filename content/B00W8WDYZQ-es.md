@@ -28,11 +28,11 @@ En este momento está [Duracell Ultra Power - Pilas alcalinas AA  paquete de 16 
 
 🔎:
 
-- Disponibles en tamaños AAA, AA, C, D y 9V
-- Nuestra mejor pila, indicada para dispositivos de uso cotidiano, proporcionando un rendimiento aún mayor a los dispositivos de alto consumo energético
-- Dura hasta un 100% más* (*En pilas de tamaño AA frente a la duración media mínima de la prueba con cámara digital de la CEI (2015). Los resultados pueden variar en función del dispositivo o del patrón de uso.
-- La pila Duracell Ultra Power utiliza la tecnología singular Powercheck que te permite comprobar la carga restante en cada batería
 - El cierre Superior Nylon ubicado en la parte superior previene la aparición de fugas
+- Dura hasta un 100% más* (*En pilas de tamaño AA frente a la duración media mínima de la prueba con cámara digital de la CEI (2015). Los resultados pueden variar en función del dispositivo o del patrón de uso.
 - Gracias a la tecnología Duralock, las pilas Duracell sin utilizar permanecen frescas y con capacidad energética durante un máximo de 10 años de almacenamiento en condiciones ambientales
+- Disponibles en tamaños AAA, AA, C, D y 9V
+- La pila Duracell Ultra Power utiliza la tecnología singular Powercheck que te permite comprobar la carga restante en cada batería
+- Nuestra mejor pila, indicada para dispositivos de uso cotidiano, proporcionando un rendimiento aún mayor a los dispositivos de alto consumo energético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00W8WDYZQ/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [New Balance 373 Core  Zapatillas Hombre  Rojo  Burgundy   40
 
 🔎:
 
-- Material interior: tela
-- Material de la suela: goma
 - Cierre: cordones
 - Estilo: zapatillas de running
 - Material exterior: material sintético
+- Material interior: tela
+- Material de la suela: goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MYRJ567/?tag=tolees-21)

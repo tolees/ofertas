@@ -28,10 +28,10 @@ Ahora mismo tienes [Siemens HS636GDS2 iQ700 Horno de vapor/A+ / Puerta SoftMove/
 
 🔎:
 
-- Termómetro para asar y sensor trasero
-- Calentamiento rápido
 - Puerta del horno con softmove: apertura y cierre amortiguados
 - Función de cocción al vapor
 - Ecoclean: fácil limpieza
+- Termómetro para asar y sensor trasero
+- Calentamiento rápido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XYSMYGC/?tag=tolees-21)
