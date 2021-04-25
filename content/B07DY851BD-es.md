@@ -28,10 +28,10 @@ Está [Orient Reloj Analógico para Hombre de Automático con Correa en Cuero FA
 
 ℹ️:
 
-- Gris y Marrón
-- WR 50mt
-- Analógico en Piel para Hombre
 - Clâsico
+- Gris y Marrón
+- Analógico en Piel para Hombre
+- WR 50mt
 - Movimiento automático ORIENT 22 jewels F6724
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DY851BD/?tag=tolees-21)

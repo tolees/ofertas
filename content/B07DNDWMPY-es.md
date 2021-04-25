@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Grand Court  Sneaker Mujer  Footwear White/Platin Met
 
 🔎:
 
+- Cordones de zapatos
 - Corte regular
 - La parte superior de cuero sintético
-- Cordones de zapatos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DNDWMPY/?tag=tolees-21)
