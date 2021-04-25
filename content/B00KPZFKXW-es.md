@@ -28,10 +28,10 @@ Tienes [Fellowes Filtro de privacidad PrivaScreen portátil con Pantalla de 13.3
 
 ℹ️:
 
+- Este filtro de privacidad ofrece dos opciones de colocación: si quieres poder retirarlo y volverlo a poner con facilidad cuando se quiere compartir la información de la pantalla, utiliza las pestañas adhesivas. Si en cambio quieres una mayor sujeción utiliza las tiras adhesivas.
+- Para evitar la fatiga visual, el filtro de privacidad PrivaScreen cuenta con un lado mate reversible que ayuda a reducir los reflejos por lo tanto previene la tensión ocular.
 - Los filtros de privacidad Privascreen de Fellowes oscurecen la pantalla de tu portátil desde una visión lateral de 30º para proteger tu privacidad, mientras mantienen una visión nítida de frente.
 - El filtro de privacidad Privascreen no solo protege la información mostrada en la pantalla de tu portátil de las miradas curiosas sino que también actúa como un protector de pantalla, protegiéndola de arañazos y huellas dactilares.
-- Para evitar la fatiga visual, el filtro de privacidad PrivaScreen cuenta con un lado mate reversible que ayuda a reducir los reflejos por lo tanto previene la tensión ocular.
-- Este filtro de privacidad ofrece dos opciones de colocación: si quieres poder retirarlo y volverlo a poner con facilidad cuando se quiere compartir la información de la pantalla, utiliza las pestañas adhesivas. Si en cambio quieres una mayor sujeción utiliza las tiras adhesivas.
 - Este filtro de privacidad es compatible con portátiles de 13.3" pulgadas con una pantalla panorámica de 16:9
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00KPZFKXW/?tag=tolees-21)

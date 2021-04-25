@@ -29,7 +29,7 @@ Está [Salomon XA Pro 3D V8 W  Zapatillas De Trail Running Y Sanderismo Impermea
 ℹ️:
 
 - Salomon
-- Color: Aqua Gray/Urban Chic/Tropical Peach
 - Xa PRO 3D V8 W
+- Color: Aqua Gray/Urban Chic/Tropical Peach
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081KGW1ZS/?tag=tolees-21)

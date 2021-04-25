@@ -28,10 +28,10 @@ Está [Casio Collection B640WC-5AEF  Reloj Digital Unisex  Acero Inoxidable  Mar
 
 ℹ️:
 
-- Alarma multifunción
-- Correa de acero inoxidable
 - Función de claendario
+- Correa de acero inoxidable
 - Luz LED
+- Alarma multifunción
 - Sumergible hasta 5 bares
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B008PDQT6I/?tag=tolees-21)

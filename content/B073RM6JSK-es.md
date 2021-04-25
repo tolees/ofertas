@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Royal Glide Ripple Clip  Zapatill al 48.42 % de descuento'
-date: 2021-04-24 15:27:29
+date: 2021-04-25 16:51:11
 image: 'https://m.media-amazon.com/images/I/41UdVaqjA7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
