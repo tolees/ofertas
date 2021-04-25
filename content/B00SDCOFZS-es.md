@@ -28,9 +28,9 @@ Tienes [US PRO B1340 - Juego de llaves de vaso para destornillador de impacto  1
 
 ℹ️:
 
-- Longitud del casquillo
-- Alta calidad
-- Alta calidad
 - Fabricado en España
+- Alta calidad
+- Alta calidad
+- Longitud del casquillo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00SDCOFZS/?tag=tolees-21)

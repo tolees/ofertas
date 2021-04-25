@@ -29,9 +29,9 @@ En este momento está [Camper Damen Right Kurzschaft Stiefel  Schwarz  Black 1  
 🔎:
 
 - 47% Algodón 36% Tejido (60% Nailon - 40% PU) 14% Piel porcina 3% Tejido (79% PET reciclado - 21% Latex)
-- Color: Negro
-- Forro:
 - Plantilla: Plantilla extraíble para un mejor ajuste
+- Forro:
+- Color: Negro
 - Empeine: Piel (Piel vacuna)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079K8MXSL/?tag=tolees-21)
