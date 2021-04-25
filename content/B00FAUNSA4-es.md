@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tetra CO2 Plus - Fertilizante líquido pa al 35.86 % de rebaja'
-date: 2021-04-24 10:11:42
+date: 2021-04-25 10:21:05
 image: 'https://m.media-amazon.com/images/I/41sfjae9g+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Tetra CO2 Plus - Fertilizante líquido para acuarios  250 ml ](https://w
 
 🔎:
 
-- Fácil aplicación sin necesidad de herramientas
-- El fuerte crecimiento de las plantas es la mejor prevención de algas
-- Las plantas de acuario se desarrollan más fuertes y saludables
 - Liberación biológica de CO2 hasta una semana
+- Fácil aplicación sin necesidad de herramientas
+- Las plantas de acuario se desarrollan más fuertes y saludables
+- El fuerte crecimiento de las plantas es la mejor prevención de algas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FAUNSA4/?tag=tolees-21)
