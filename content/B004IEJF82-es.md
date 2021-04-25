@@ -28,10 +28,10 @@ Ahora mismo tienes [JULIUS-K9 Arnés Julius-K9 IDC  1/L  63–85 cm/50 mm  Rojo 
 
 🔎:
 
-- Forma ergonómica. Ajuste óptimo de las tiras del pecho que distribuyen la presión uniformemente sobre el pecho.
-- Más espacio para moverse gracias al diseño delgado y a que la tira para el abdomen se ha llevado más atrás.
-- Extra resistente. Forro interior con piel de alta calidad.
-- Previene la presión en la zona de la garganta, por lo que no limita la respiración.
 - Señal de color y bandas reflectantes para mayor seguridad.
+- Forma ergonómica. Ajuste óptimo de las tiras del pecho que distribuyen la presión uniformemente sobre el pecho.
+- Extra resistente. Forro interior con piel de alta calidad.
+- Más espacio para moverse gracias al diseño delgado y a que la tira para el abdomen se ha llevado más atrás.
+- Previene la presión en la zona de la garganta, por lo que no limita la respiración.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004IEJF82/?tag=tolees-21)

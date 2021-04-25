@@ -28,12 +28,12 @@ Está [VTech-80-108022 Kidikaraoke Karaoke interactivo para aprender las cancion
 
 ℹ️:
 
-- Se puede utilizar para cantar con o sin voz de fondo
-- Lista de canciones populares: cucú, cinco lobitos, don gato, elefante, pollito, la barca, el cocherito leré, al corro de la patata, antón pirulero, el patio de mi casa
-- Divertido karaoke con pantalla lcd, voz y música para aprender canciones populares
-- Refuerza lo aprendido en el cole desde casa (o donde quieras) ¡mientras lo pasas en grande!
 - Posibilidad de transformar la voz de 4 formas distintas: robot, niño, niña y eco
 - Versión española
+- Refuerza lo aprendido en el cole desde casa (o donde quieras) ¡mientras lo pasas en grande!
+- Lista de canciones populares: cucú, cinco lobitos, don gato, elefante, pollito, la barca, el cocherito leré, al corro de la patata, antón pirulero, el patio de mi casa
+- Se puede utilizar para cantar con o sin voz de fondo
 - Divertidas animaciones para acompañar las canciones
+- Divertido karaoke con pantalla lcd, voz y música para aprender canciones populares
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006CYR5F6/?tag=tolees-21)
