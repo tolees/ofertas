@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Under Armour Playoff 2.0 Polo  Hombre  N al 68.08 % de descuento'
-date: 2020-03-09 08:31:51
-image: 'https://m.media-amazon.com/images/I/41UXstD8YkL._AC_._SL400_.jpg'
+title: 'Under Armour Playoff 2.0 Polo de Golf  H al 56.34 % de descuento'
+date: 2021-04-26 16:31:16
+image: 'https://m.media-amazon.com/images/I/41UXstD8YkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07CZLNJ46-es Under Armour Playoff 2.0 Polo Hombre Negro...'
+slug: 'B07CZLNJ46-es Under Armour Playoff 2.0 Polo de Golf Hombre Gris Black-002 L'
 sku: 'B07CZLNJ46-es'
-tags: [  ]
-actualPrice: 20.75 EUR
+tags: [ 'Camisetas, polos y camisas para hombre','Deportes y aire libre','Golf','Polos de golf para hombre','Polos para hombre','Ropa','Ropa de golf','Ropa de golf para hombre','Ropa para hombre','Ropa y equipo para deportes','under armour', ]
+actualPrice: 28.38 EUR
 currency: EUR
-price: 20.75
+price: 28.38
 comparePrice: 65.0 EUR
-prodname: 'Under Armour Playoff 2.0 Polo  Hombre  Negro  Black/Black/Black 002   L'
+prodname: 'Under Armour Playoff 2.0 Polo de Golf  Hombre  Gris  Black-002   L'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Under Armour'
 buyurl: 'https://www.amazon.es/dp/B07CZLNJ46/?tag=tolees-21'
-descuento: '68.08'
-average: '20.75'
+descuento: '56.34'
+average: '24.565'
 ---
 
-Está [Under Armour Playoff 2.0 Polo  Hombre  Negro  Black/Black/Black 002   L](https://www.amazon.es/dp/B07CZLNJ46/?tag=tolees-21) con 68.08 de descuento por 20.75 EUR (original: 65.0 EUR) en el siguiente enlace!
+Está [Under Armour Playoff 2.0 Polo de Golf  Hombre  Gris  Black-002   L](https://www.amazon.es/dp/B07CZLNJ46/?tag=tolees-21) con 56.34 de descuento por 28.38 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![Under Armour Playoff 2.0 Polo  Hombre  N](https://m.media-amazon.com/images/I/41UXstD8YkL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CZLNJ46/?tag=tolees-21)
+[![Under Armour Playoff 2.0 Polo de Golf  H](https://m.media-amazon.com/images/I/41UXstD8YkL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07CZLNJ46/?tag=tolees-21)
 
 ℹ️:
 
+- Corte ancho – Este polo transpirable tiene un corte ancho que aporta una gran comodidad a la vez que ofrece una gran libertad de movimiento
+- Camisa ultraligera – El corte ancho y el material ultraligero de esta camisa transpirable para hombre garantizan una gran comodidad
+- Polo elástico – El tejido elástico multidireccional de calidad de esta prenda de ropa deportiva masculina ofrece una mayor movilidad
+- Material y forma – Polo de hombre transpirable Under Armour Playoff 20, forma – ancha, material – 96% de poliéster y 4% de elastano
+- Ligera y transpirable – Este polo de manga corta es ideal para jugar al golf porque es transpirable y muy cómodo, y se seca rápidamente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CZLNJ46/?tag=tolees-21)
