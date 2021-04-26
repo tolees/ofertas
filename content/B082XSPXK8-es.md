@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Brooklyn Straight Hombre Vaqueros  M con un 59.99 % de descuento'
-date: 2021-04-20 10:26:37
+date: 2021-04-26 07:33:52
 image: 'https://m.media-amazon.com/images/I/41Aa3VFVfEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Lee Brooklyn Straight Hombre Vaqueros  Mid Worn Park  32W
 
 🔎:
 
-- Vaqueros para hombre
 - Tienen bordado una etiqueta con la marca Lee
 - Presentan 5 bolsillos
+- Vaqueros para hombre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082XSPXK8/?tag=tolees-21)
