@@ -28,7 +28,7 @@ Tienes [Reebok Exofit Lo Clean Logo  Zapatillas Para Hombre  Negro  AR3168 39 EU
 
 🔎:
 
-- Ofrece flexibilidad y libertad de movimiento.
 - Detalles del logotipo.
+- Ofrece flexibilidad y libertad de movimiento.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01IY4FMCY/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Microsoft – All-in-One Media Keyboard Español](https://www.amazon.es/
 
 ℹ️:
 
-- Conectividad inalámbrica de hasta 4,5 metros
-- Compatible con Windows
-- Teclas de acceso rápido multimedia
 - Diseño anti-derrame
+- Conectividad inalámbrica de hasta 4,5 metros
 - Almohadilla multitáctil integrada: permite navegar fácilmente con gestos
+- Compatible con Windows
 - Controles de volumen de acceso fácil
+- Teclas de acceso rápido multimedia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00EQ5KZVE/?tag=tolees-21)

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 41.27 % en Citizen Reloj Analógico para Hombre de C'
-date: 2021-04-05 13:40:59
-image: 'https://m.media-amazon.com/images/I/51ht+gj4L7L._SL400_.jpg'
+date: 2021-04-26 12:48:51
+image: 'https://m.media-amazon.com/images/I/51ht+gj4L7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Citizen'
 buyurl: 'https://www.amazon.es/dp/B00HH7TS5W/?tag=tolees-21'
 descuento: '41.27'
-average: '85.4336363636364'
+average: '85.9360000000001'
 ---
 
 Tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Cuero AW1360-12H](https://www.amazon.es/dp/B00HH7TS5W/?tag=tolees-21) con un 41.27 % de descuento con precio de oferta de 81.63 EUR (original: 139.0 EUR) en el siguiente enlace!
 
-[![Citizen Reloj Analógico para Hombre de C](https://m.media-amazon.com/images/I/51ht+gj4L7L._SL400_.jpg)](https://www.amazon.es/dp/B00HH7TS5W/?tag=tolees-21)
+[![Citizen Reloj Analógico para Hombre de C](https://m.media-amazon.com/images/I/51ht+gj4L7L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00HH7TS5W/?tag=tolees-21)
 
 ℹ️:
 
