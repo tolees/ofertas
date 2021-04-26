@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.11 % en Kalypso - Commandos 2 & Praetorians HD R'
-date: 2021-04-19 18:03:00
+date: 2021-04-25 22:33:59
 image: 'https://m.media-amazon.com/images/I/51KqXbKhKXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kalypso'
 buyurl: 'https://www.amazon.es/dp/B08CS2H45D/?tag=tolees-21'
 descuento: '50.11'
-average: '28.2376923076924'
+average: '27.6457142857144'
 ---
 
 Tienes [Kalypso - Commandos 2 & Praetorians HD Remaster Doube Pack](https://www.amazon.es/dp/B08CS2H45D/?tag=tolees-21) con un 50.11 % de descuento con precio de oferta de 19.95 EUR (original: 39.99 EUR) en el siguiente enlace!
