@@ -28,8 +28,8 @@ Tienes [Ymea Silueta - Tratamiento de la Menopausia  Doble acción - Control de 
 
 🔎:
 
-- Contiene 64 cápsulas
 - Formulado con ácido L-Láctico biológico
+- Contiene 64 cápsulas
 - Enriquecido con Lactaserum
 - Contribuye a la perdida de peso, quemar grasas y apoya un metabolismo saludable
 

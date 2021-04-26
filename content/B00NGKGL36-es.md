@@ -31,7 +31,7 @@ Está [Lactacyd Pharma Hidratante - Protege y mejora la hidratación intima diar
 - Descripción detallada más abajo.
 - Formulado con Ácido L-Láctico biológico (pH=3.5). Enriquecido con complejo L2Gtm hidratante. Sin jabón. Dermatológicamente testado
 - *Donación válida del 14 de octubre de 2019 hasta el 20 de octubre de 2019 en los pedidos Vendidos y enviados por Amazon.
-- +24% hidratación
 - Formato 250ml
+- +24% hidratación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00NGKGL36/?tag=tolees-21)

@@ -28,13 +28,13 @@ En este momento está [Ubisoft Spain - Six Collection - Figura Bandit + Six Coll
 
 🔎:
 
-- Product 2: Figuras de gran detalle, inspiradas en los agentes de rainbow six siege
-- Product 2: Material: vinilo
 - Product 1: Material: vinilo
-- Product 1: Han vuelto; añade a vigil y a otros agentes a tu six collection; ubicollectibles presenta con orgullo la tercera serie de agentes de la six collection oficial; ya están disponibles cinco figuras nuevas, todas basadas en los agentes y los amuletos de armas que aparecen en el juego; cada figura viene con un código único para desbloquear contenido exclusivo en rainbow six siege
-- Product 1: Figuras de gran detalle, inspiradas en los agentes de rainbow six siege
-- Product 1: Altura: 10 cm
-- Product 2: Han vuelto; añade a vigil y a otros agentes a tu six collection; ubicollectibles presenta con orgullo la tercera serie de agentes de la six collection oficial; ya están disponibles cinco figuras nuevas, todas basadas en los agentes y los amuletos de armas que aparecen en el juego; cada figura viene con un código único para desbloquear contenido exclusivo en rainbow six siege
 - Product 2: Altura: 10 cm
+- Product 2: Figuras de gran detalle, inspiradas en los agentes de rainbow six siege
+- Product 1: Altura: 10 cm
+- Product 1: Han vuelto; añade a vigil y a otros agentes a tu six collection; ubicollectibles presenta con orgullo la tercera serie de agentes de la six collection oficial; ya están disponibles cinco figuras nuevas, todas basadas en los agentes y los amuletos de armas que aparecen en el juego; cada figura viene con un código único para desbloquear contenido exclusivo en rainbow six siege
+- Product 2: Han vuelto; añade a vigil y a otros agentes a tu six collection; ubicollectibles presenta con orgullo la tercera serie de agentes de la six collection oficial; ya están disponibles cinco figuras nuevas, todas basadas en los agentes y los amuletos de armas que aparecen en el juego; cada figura viene con un código único para desbloquear contenido exclusivo en rainbow six siege
+- Product 2: Material: vinilo
+- Product 1: Figuras de gran detalle, inspiradas en los agentes de rainbow six siege
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NWZRHFH/?tag=tolees-21)

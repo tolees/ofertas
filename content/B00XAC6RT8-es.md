@@ -28,8 +28,8 @@ En este momento está [Sanex Dermo Extra-Control Desodorante Roll-on  50 ml](htt
 
 🔎:
 
-- Contra el mal olor
 - Protección hasta 48 horas
+- Contra el mal olor
 - Tipo de producto: desodorante roll-on
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XAC6RT8/?tag=tolees-21)

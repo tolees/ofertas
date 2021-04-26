@@ -29,9 +29,9 @@ En este momento está [Ymea Silueta| Tratamiento de la Menopausia | Doble acció
 🔎:
 
 - Apto para un uso prolongado
-- Control de la silueta - Contribuye a la perdida de peso, quemar grasas y apoya un metabolismo saludable
-- NO CONTIENE: estrógenos, soja o conservantes
 - Contiene una exclusiva mezcla de extractos de orifen natural, vitaminas y minerales
+- NO CONTIENE: estrógenos, soja o conservantes
 - Control de los Sofocos - Ayuda a reducir los sofocos, los sudores nocturnos y los cambios de humor
+- Control de la silueta - Contribuye a la perdida de peso, quemar grasas y apoya un metabolismo saludable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084XR1QJ3/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Lactacyd Toallitas húmedas - Higiene íntima - Aporta sensación de fres
 
 ℹ️:
 
-- Descripción detallada más abajo
-- Tejido 100% biodegradable; dermatológicamente testado
-- Formulado con ácido l-láctico y alantoína con acción calmante; sin jabón
 - Formato 10 toallitas en sachets individuales
+- Tejido 100% biodegradable; dermatológicamente testado
+- Descripción detallada más abajo
+- Formulado con ácido l-láctico y alantoína con acción calmante; sin jabón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00TTWZ636/?tag=tolees-21)
