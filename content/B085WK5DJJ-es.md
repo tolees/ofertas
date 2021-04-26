@@ -28,9 +28,9 @@ Tienes [Lactacyd Precious Oil - Oleogel Íntimo Ultra Delicado  Higiene Íntima 
 
 ℹ️:
 
+- Testado dermatológicamente.
 - Ideal para todo tipo de piel
 - Oleogel íntimo ultra delicado. Suavidad e hidratación de larga duración.
-- Testado dermatológicamente.
 - Enriquecido con aceite vegetal emoliente.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085WK5DJJ/?tag=tolees-21)
