@@ -28,9 +28,9 @@ Tienes [Edge Entertainment- Munchkin Gloom - Español  Color  EEAGGL07 ](https:/
 
 🔎:
 
+- Diseño funcional
+- Diseñado para ofrecer una excelente experiencia al cliente
 - Creado siguiendo los más altos estándares de la marca Edge Entertainment
 - Munchkin Gloom - Español
-- Diseñado para ofrecer una excelente experiencia al cliente
-- Diseño funcional
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HP7N4XW/?tag=tolees-21)
