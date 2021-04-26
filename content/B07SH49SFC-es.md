@@ -28,7 +28,7 @@ Tienes [Reebok Royal Glide Rpl  Hombre  Verde  Hunter Green/White 000   40.5 EU]
 
 🔎:
 
-- Zapatillas
 - Detalle perforado en la parte delantera del pie
+- Zapatillas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SH49SFC/?tag=tolees-21)
