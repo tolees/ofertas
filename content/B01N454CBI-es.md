@@ -28,9 +28,9 @@ Tienes [Maped 812510 - Pintura de dedos](https://www.amazon.es/dp/B01N454CBI/?ta
 
 🔎:
 
-- modelo: 812510
 - Pintura fácil de limpiar lista para usar
 - 4 botes de animales con colores ultra vivos y brillantes
+- modelo: 812510
 - Gran poder de cobertura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N454CBI/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.42 % en Microsoft – All-in-One Media Keyboard Es'
-date: 2021-04-24 08:37:02
+date: 2021-04-26 11:33:54
 image: 'https://m.media-amazon.com/images/I/31ZswhZ-J9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B00EQ5KZVE/?tag=tolees-21'
 descuento: '40.42'
-average: '27.9765384615384'
+average: '27.9311111111111'
 ---
 
 Tienes [Microsoft – All-in-One Media Keyboard Español](https://www.amazon.es/dp/B00EQ5KZVE/?tag=tolees-21) con un 40.42 % de descuento con precio de oferta de 26.75 EUR (original: 44.9 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [Microsoft – All-in-One Media Keyboard Español](https://www.amazon.es/
 
 ℹ️:
 
-- Almohadilla multitáctil integrada: permite navegar fácilmente con gestos
+- Conectividad inalámbrica de hasta 4,5 metros
 - Compatible con Windows
 - Teclas de acceso rápido multimedia
-- Conectividad inalámbrica de hasta 4,5 metros
-- Controles de volumen de acceso fácil
 - Diseño anti-derrame
+- Almohadilla multitáctil integrada: permite navegar fácilmente con gestos
+- Controles de volumen de acceso fácil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00EQ5KZVE/?tag=tolees-21)

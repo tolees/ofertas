@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.48 % en Sony CEE Games  New Gen  - GOW Hits'
-date: 2021-04-25 08:18:58
+date: 2021-04-26 11:27:48
 image: 'https://m.media-amazon.com/images/I/516A60Qcr1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07YY2YVK5/?tag=tolees-21'
 descuento: '50.48'
-average: '14.6495555555555'
+average: '14.546304347826'
 ---
 
 Tienes [Sony CEE Games  New Gen  - GOW Hits](https://www.amazon.es/dp/B07YY2YVK5/?tag=tolees-21) con un 50.48 % de descuento con precio de oferta de 9.9 EUR (original: 19.99 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [Sony CEE Games  New Gen  - GOW Hits](https://www.amazon.es/dp/B07YY2YVK5
 
 ℹ️:
 
-- Juego de acción
 - Es para PS4
+- Juego de acción
 - Es divertido
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YY2YVK5/?tag=tolees-21)
