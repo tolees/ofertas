@@ -28,9 +28,9 @@ En este momento está [TRIXIE Collar Gatos con Placa Identificativa  Nylon  Gato
 
 🔎:
 
-- correa plana completamente ajustable
 - ref. 41576 reflectante
-- con cascabel
 - colores surtidos
+- con cascabel
+- correa plana completamente ajustable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000WFE33S/?tag=tolees-21)
