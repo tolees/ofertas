@@ -29,8 +29,8 @@ Tienes [Audimer Spray Higiene Habitual del Oído Elimina Exceso de Cera y Previe
 ℹ️:
 
 - Audimer es una solución de agua marina, con ingredientes 100% de origen natural
-- Lo puede utilizar de forma segura cualquier miembro de la familia, y también los bebés a partir de los 6 meses de edad
 - Permite limpiar el conducto auditivo de forma delicada, eficaz y segura
+- Lo puede utilizar de forma segura cualquier miembro de la familia, y también los bebés a partir de los 6 meses de edad
 - Se recomienda su uso en personas que quieren cuidar de su higiene de forma natural y no intrusiva
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HR3FOJ0/?tag=tolees-21)

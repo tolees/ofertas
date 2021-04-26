@@ -28,12 +28,12 @@ Ahora mismo tienes [OMRON M2 - Tensiómetro de brazo  detección del pulso arrí
 
 🔎:
 
-- Sencillo indicador del nivel de Presión Arterial
-- El modelo tiene las dimensiones: 10,3 x 8 x 12,9 cm
-- Detección del pulso arrítmico
 - Validado clínicamente
+- Detección del pulso arrítmico
+- El modelo tiene las dimensiones: 10,3 x 8 x 12,9 cm
 - Funciona con pilas (incluidas), opcional adaptador de corriente para no gastar pilas aunque son necesarias si se quieren guardar las lecturas
 - Guía de ajuste del manguito
+- Sencillo indicador del nivel de Presión Arterial
 - Manguito de fácil uso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00IIOI9Q2/?tag=tolees-21)
