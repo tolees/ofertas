@@ -28,10 +28,10 @@ Tienes [DeBuyer Comprador De Mini automático del pistón  Embudo - 0.8 litros d
 
 ℹ️:
 
-- Fabricado en acero inoxidable con mango de plástico
-- El embudo es práctico y su baja capacidad hace que sea óptimo para dosificar pequeñas porciones de salsa o crema, por ejemplo, para adornar los platos antes de servir
-- Las patas del soporte de alambre de acero inoxidable están revestido de silicona para una estabilidad antideslizante
 - Mini embudo Kwik automática de pistón con el soporte con 0,8 l de capacidad y 7 mm de boquilla con regulación por el mango
 - Compacto para un fácil almacenamiento
+- Las patas del soporte de alambre de acero inoxidable están revestido de silicona para una estabilidad antideslizante
+- Fabricado en acero inoxidable con mango de plástico
+- El embudo es práctico y su baja capacidad hace que sea óptimo para dosificar pequeñas porciones de salsa o crema, por ejemplo, para adornar los platos antes de servir
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0015XHOKA/?tag=tolees-21)

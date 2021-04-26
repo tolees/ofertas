@@ -28,10 +28,10 @@ Ahora mismo tienes [Bosch Professional GBA 18V 5.0Ah - Batería de litio  1 bate
 
 🔎:
 
-- Sistema profesional de 18V. Rendimiento máximo. Máxima libertad. Todas las baterías son compatibles con herramientas Bosch Professional nuevas y existentes de la misma clase de voltaje.
-- Compatible desde 2008: todas nuestras baterías encajan en las herramientas Bosch Professional nuevas y existentes dentro de la clase de voltaje respectiva.
 - Tecnología COOLPACK para una vida útil hasta un 100% más larga (ver batería sin COOLPACK)
-- Otro 25% más de kilometraje (en comparación con la batería de 4,0 Ah)
+- Compatible desde 2008: todas nuestras baterías encajan en las herramientas Bosch Professional nuevas y existentes dentro de la clase de voltaje respectiva.
 - Volumen de suministro: batería GBA 18V 5.0Ah, caja
+- Otro 25% más de kilometraje (en comparación con la batería de 4,0 Ah)
+- Sistema profesional de 18V. Rendimiento máximo. Máxima libertad. Todas las baterías son compatibles con herramientas Bosch Professional nuevas y existentes de la misma clase de voltaje.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00IKI352E/?tag=tolees-21)
