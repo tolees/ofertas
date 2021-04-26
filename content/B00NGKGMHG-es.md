@@ -28,9 +28,9 @@ Tienes [Lactacyd Pharma Balsámico Higiene Íntima- 250 ml](https://www.amazon.e
 
 ℹ️:
 
-- Formulado con Ácido L-Láctico biológico (pH=3.5). Enriquecido con extracto de Margarita azul/bisabolol. Sin jabón. Dermatológicamente testado
-- Descripción detallada más abajo.
-- 92% reducción molestias íntimas
 - Formato 250ml
+- Descripción detallada más abajo.
+- Formulado con Ácido L-Láctico biológico (pH=3.5). Enriquecido con extracto de Margarita azul/bisabolol. Sin jabón. Dermatológicamente testado
+- 92% reducción molestias íntimas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NGKGMHG/?tag=tolees-21)

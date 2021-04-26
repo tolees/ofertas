@@ -28,9 +28,9 @@ Está [Maybelline New York Superstay Matte Ink - Pintalabios Líquido Mate  255 
 
 ℹ️:
 
-- Marca del producto: Maybelline New York
 - Efecto de tinta líquida
 - Cantidad: 5 ml
 - Pintalabios mate de una duración óptima
+- Marca del producto: Maybelline New York
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G1NT36L/?tag=tolees-21)

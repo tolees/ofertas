@@ -28,7 +28,7 @@ Tienes [New Balance 574 Core  Zapatillas Hombre  Verde  Olive Night   37 EU](htt
 
 🔎:
 
-- Revestimiento: Tela
 - Material exterior: Cuero
+- Revestimiento: Tela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XWVHZ9W/?tag=tolees-21)

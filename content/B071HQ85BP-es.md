@@ -28,10 +28,10 @@ Tienes [ELEGOO 17 Valores 1% Conjunto de Resistores  0 Ohm-1M Ohm  Paquete de 52
 
 ℹ️:
 
-- ± 1% de tolerancia (± 5% vendido por otros vendedores), 1/4w, película de metal. El mismo precio, pero mejor calidad y mayor cantidad
 - Diseño más humanizado con 50 resistencias de uso frecuente de PC (100, 220, 1k, 10k Ohm) y 25 piezas de resistencias raramente utilizadas. Guía de códigos de colores le ayuda a leer la resistencia
 - Pin perfecto (0.022 pulgadas, 0.55mm), # 24 de plomo SWG (Stand Wire Gauge), perfecto para paneles en proyectos electrónicos de Arduino
-- Embalaje perfecto: Estuche de plástico + bolsa de PE
 - Con certificación completa incluyendo RoHS
+- ± 1% de tolerancia (± 5% vendido por otros vendedores), 1/4w, película de metal. El mismo precio, pero mejor calidad y mayor cantidad
+- Embalaje perfecto: Estuche de plástico + bolsa de PE
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B071HQ85BP/?tag=tolees-21)

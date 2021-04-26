@@ -28,12 +28,12 @@ Tienes [Langci Mascarilla FFP2 Azul Homologada CE 2163  Caja de 50 mascarillas e
 
 ℹ️:
 
-- Emitimos FACTURA con IVA.
-- Mascarilla FFP2 Homologada con Certificación Europea CE 2163: Cumple la Norma Europea UNE EN 149:2001+A1:2009 y los requisitos del Reglamento EU 2016/425 sobre Equipos de Protección Individual (EPIs). Certificado número: 2163-PPE-726/01.
-- Filtrado superior al 95%: Supera el estándar de filtrado de las mascarillas FFP2 (94%), alcanzando en los test de filtrado de cloruro de sodio unos valores de filtrado entre el 97,57% y el 98,19%. Estos tests fueron realizados para obtener la certificación europea (disponemos de los documentos emitidos por la entidad certificadora).
-- Ajuste cómodo y perfecto: La forma de la mascarilla, el clip nasal y las sujeciones elásticas permiten ajustar perfectamente la mascarilla a nuestra cara y llevarla cómodamente.
 - Máximo confort y seguridad: Esta mascarilla ha obtenido la máxima puntuación al evaluar su confort, la seguridad de las sujeciones y el campo de visión, obteniendo 6 puntos positivos y 0 negativos.
-- Bolsas individuales para una máxima higiene y comodidad: Cada mascarilla viene en una bolsa individual con cierre adhesivo, por lo que podemos utilizarla para guardar la mascarilla cuando no la estemos usando.
+- Ajuste cómodo y perfecto: La forma de la mascarilla, el clip nasal y las sujeciones elásticas permiten ajustar perfectamente la mascarilla a nuestra cara y llevarla cómodamente.
+- Emitimos FACTURA con IVA.
 - Cuida tu piel: La suave y delicada capa interior, además de tener un tacto suave y agradable, ayudará a proteger tu piel.
+- Filtrado superior al 95%: Supera el estándar de filtrado de las mascarillas FFP2 (94%), alcanzando en los test de filtrado de cloruro de sodio unos valores de filtrado entre el 97,57% y el 98,19%. Estos tests fueron realizados para obtener la certificación europea (disponemos de los documentos emitidos por la entidad certificadora).
+- Bolsas individuales para una máxima higiene y comodidad: Cada mascarilla viene en una bolsa individual con cierre adhesivo, por lo que podemos utilizarla para guardar la mascarilla cuando no la estemos usando.
+- Mascarilla FFP2 Homologada con Certificación Europea CE 2163: Cumple la Norma Europea UNE EN 149:2001+A1:2009 y los requisitos del Reglamento EU 2016/425 sobre Equipos de Protección Individual (EPIs). Certificado número: 2163-PPE-726/01.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08RD965VG/?tag=tolees-21)
