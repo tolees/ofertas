@@ -28,8 +28,8 @@ Tienes [Polar Loop2 - Pulsera de actividad  color negro](https://www.amazon.es/d
 
 🔎:
 
+- Objetivo de actividad personalizado
 - La pulsera de actividad Polar Loop 2 es elegante y resistente al agua
 - Esta exclusiva pulsera de actividad monitoriza también el sueño, y te motiva para que mejores tu estilo de vida y actividad física
-- Objetivo de actividad personalizado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0168UXO9O/?tag=tolees-21)

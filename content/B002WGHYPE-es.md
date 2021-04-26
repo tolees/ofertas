@@ -28,10 +28,10 @@ Ahora mismo tienes [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto
 
 🔎:
 
+- Superga pestaña en el lado y el talón
+- totalmente breathablecotton
 - Superga en relieve ojales
 - suela de goma vulcanizada
-- totalmente breathablecotton
-- Superga pestaña en el lado y el talón
 - Disponible en variedad de colores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002WGHYPE/?tag=tolees-21)

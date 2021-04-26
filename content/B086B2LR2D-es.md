@@ -29,9 +29,9 @@ Ahora mismo tienes [Durex Preservativos Intense con Puntos y Estrías y gel esti
 🔎:
 
 - PLACER Y ESTIMULACIÓN: Estos preservativos tienen puntos y estrías para nuevas sensaciones
+- PRESERVATIVOS DE GROSOR MEDIO
 - EASY-ON: Preservativos de látex suaves con forma anatómica Easy-On con depósito
 - PERÍMETRO ESTÁNDAR: Anchura nominal de 56 mm, talla adecuada para la mayoría de los hombres gracias a su diseño elástico
 - CONDONES LUBRICADOS con GEL DESIREX: Gel que proporciona sensación de calor, frescor u hormigueo para estimular las partes íntimas
-- PRESERVATIVOS DE GROSOR MEDIO
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086B2LR2D/?tag=tolees-21)
