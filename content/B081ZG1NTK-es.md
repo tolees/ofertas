@@ -28,10 +28,10 @@ Está [InLine - Conector Keystone  USB 2.0  Tipo A Hembra  acodado   Color Negro
 
 ℹ️:
 
-- Transferencia de datos hasta 480 MB/s.
+- USB 2.0 USB-A hembra/hembra.
 - Soporta USB Power Delivery hasta máx. 500 mA.
+- Transferencia de datos hasta 480 MB/s.
 - Versión en ángulo de 90°.
 - Para montaje en placas modulares snap-in, placas de parcheo, etc.
-- USB 2.0 USB-A hembra/hembra.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081ZG1NTK/?tag=tolees-21)
