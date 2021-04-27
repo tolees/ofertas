@@ -28,10 +28,10 @@ En este momento está [WMF Basic - Botella de agua de cristal  sistema Close Up 
 
 🔎:
 
-- Material: jarra de vidrio de alta calidad con borde de silicona y cierre CloseUp de acero inoxidable Cromargan sin óxido 18/10
+- Cierre CloseUp: el cierre inteligente que se abre y cierra automáticamente gracias a un mecanismo de inclinación para verter; el hielo y los trozos de fruta son retenidos por la pantalla integrada
 - Fácil de llenar gracias a amplia apertura
+- Material: jarra de vidrio de alta calidad con borde de silicona y cierre CloseUp de acero inoxidable Cromargan sin óxido 18/10
 - Altura 32.7 cm, anchura 11.3 cm; Volumen: 1.5L; por favor, comprueba las medidas del botellero de tu frigorífico
 - Jarra: Lavar a mano; el cierre se puede desmontar para limpiarlo y es apto para lavavajillas
-- Cierre CloseUp: el cierre inteligente que se abre y cierra automáticamente gracias a un mecanismo de inclinación para verter; el hielo y los trozos de fruta son retenidos por la pantalla integrada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B007BBOJ08/?tag=tolees-21)

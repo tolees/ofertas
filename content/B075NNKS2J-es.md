@@ -29,7 +29,7 @@ Ahora mismo tienes [Fantasy Flight Games- Star Wars Destiny. El Imperio En Guerr
 🔎:
 
 - Producto de calidad
-- Paqueteage Dimensiones: 16.0 L x 28.2 H x 16.8 W (centimeters)
 - Paqueteage Weight: 1.12 kilograms
+- Paqueteage Dimensiones: 16.0 L x 28.2 H x 16.8 W (centimeters)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075NNKS2J/?tag=tolees-21)
