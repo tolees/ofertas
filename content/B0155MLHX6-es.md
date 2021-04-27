@@ -28,9 +28,9 @@ Está [Devir-48030 Dog Fight  Juego de Mesa en Castellano.  221831 ](https://www
 
 ℹ️:
 
-- En este juego de cartas, trepidante y sencillo, los jugadores se enfrentan en los cielos de Europa durante la primera guerra mundial
-- De 2 jugadores
-- Adecuado para gente competitiva y crítica, así como para los más sueltos
 - Duración: 15 minutos
+- En este juego de cartas, trepidante y sencillo, los jugadores se enfrentan en los cielos de Europa durante la primera guerra mundial
+- Adecuado para gente competitiva y crítica, así como para los más sueltos
+- De 2 jugadores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0155MLHX6/?tag=tolees-21)

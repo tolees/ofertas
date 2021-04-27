@@ -28,10 +28,10 @@ Ahora mismo tienes [Essie Esmalte de Uñas 106 Go Overboard](https://www.amazon.
 
 🔎:
 
-- Duración resistente entre 7 y 10 días
-- Colores vibrantes
-- Fórmula con textura gel sin acetona
-- Cepillo especial para fácil aplicación
 - Cobertura impecable
+- Cepillo especial para fácil aplicación
+- Duración resistente entre 7 y 10 días
+- Fórmula con textura gel sin acetona
+- Colores vibrantes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BS6AMQ2/?tag=tolees-21)

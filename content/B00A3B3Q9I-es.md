@@ -28,10 +28,10 @@ Tienes [Essie Esmalte de Uñas  48 Luxedo](https://www.amazon.es/dp/B00A3B3Q9I/?
 
 🔎:
 
-- Colores vibrantes
-- Duración resistente entre 7 y 10 días
-- Cobertura impecable
-- Cepillo especial para fácil aplicación
 - Fórmula con textura gel sin acetona
+- Cobertura impecable
+- Duración resistente entre 7 y 10 días
+- Cepillo especial para fácil aplicación
+- Colores vibrantes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00A3B3Q9I/?tag=tolees-21)
