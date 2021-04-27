@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CEE Games  New Gen  - Death Strandi con un 70.29 % de descuento'
-date: 2021-04-22 17:38:42
+date: 2021-04-27 06:50:46
 image: 'https://m.media-amazon.com/images/I/41cK7b4muvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07TC26VY8/?tag=tolees-21'
 descuento: '70.29'
-average: '33.6061363636363'
+average: '33.3015555555555'
 ---
 
 En este momento está [Sony CEE Games  New Gen  - Death Stranding - Edición Estandar](https://www.amazon.es/dp/B07TC26VY8/?tag=tolees-21) a 19.9 EUR (original: 66.99 EUR) (70.29 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Sony CEE Games  New Gen  - Death Stranding - Edición Est
 
 🔎:
 
+- Tipo de producto: videojuego
 - Incluye funciones multijugador
-- El título del juego es una referencia al fenómeno de encallamiento de cetáceos
 - Plataforma del juego: PlayStation 4
 - Es un videojuego de acción mundial abierta
-- Tipo de producto: videojuego
+- El título del juego es una referencia al fenómeno de encallamiento de cetáceos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TC26VY8/?tag=tolees-21)
