@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Soft Khol Kajal Eyeliner P al 49.62 % de descuento'
-date: 2021-04-13 22:14:55
+date: 2021-04-27 13:20:48
 image: 'https://m.media-amazon.com/images/I/21sKFw3BPIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rimmel London'
 buyurl: 'https://www.amazon.es/dp/B001KYTULU/?tag=tolees-21'
 descuento: '49.62'
-average: '2.1125'
+average: '2.088'
 ---
 
 Está [Rimmel London Soft Khol Kajal Eyeliner Pencil Liners Tono 061 Jet Black  1.2 gr](https://www.amazon.es/dp/B001KYTULU/?tag=tolees-21) con 49.62 de descuento por 1.99 EUR (original: 3.95 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Rimmel London Soft Khol Kajal Eyeliner Pencil Liners Tono 061 Jet Black  
 
 ℹ️:
 
-- Testada dermatológica y oftalmológicamente
 - Look de ojos ahumados fácil con Soft Kohl
-- Perfilador de Ojos Kajal para el contorno interno y externo del ojo
 - Color intenso, fórmula blanda y suave para look ahumado
+- Perfilador de Ojos Kajal para el contorno interno y externo del ojo
+- Testada dermatológica y oftalmológicamente
 - Fórmula hasta 12 horas de duración
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001KYTULU/?tag=tolees-21)

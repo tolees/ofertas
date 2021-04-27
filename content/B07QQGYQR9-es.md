@@ -28,8 +28,8 @@ Tienes [Dove Nourishing Secrets Glowing  Loción para el Cuerpo  400 ml](https:/
 
 🔎:
 
-- Igiene Della Persona
 - Lunga Durata
 - Pulizia Donna
+- Igiene Della Persona
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QQGYQR9/?tag=tolees-21)

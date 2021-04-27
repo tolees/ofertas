@@ -28,12 +28,12 @@ Tienes [Virgin telco: Fibra 600 Mb y Móvil con 25 GB + llamadas ilimitadas](htt
 
 🔎:
 
-- 4.- Una vez hayas completado estos pasos recibirás un email con las instrucciones para activar la combinación seleccionada. Virgin telco será quien gestione el alta con el instalador (si tu combinación lo requiere) en un plazo máximo de 8 días desde que finalices la contratación en la web de Virgin telco o quien te envíe la SIM.
-- Hazte Virgin telco siguiendo estos pasos, es muy fácil:
 - 1.- Consulta si Virgin telco llega a tu casa en el link ubicado en la sección de "Ofertas especiales y promociones"
-- 2.- Elige la combinación que necesites
-- Los precios indicados en los términos y condiciones son mensuales
+- Hazte Virgin telco siguiendo estos pasos, es muy fácil:
+- 4.- Una vez hayas completado estos pasos recibirás un email con las instrucciones para activar la combinación seleccionada. Virgin telco será quien gestione el alta con el instalador (si tu combinación lo requiere) en un plazo máximo de 8 días desde que finalices la contratación en la web de Virgin telco o quien te envíe la SIM.
 - Esta oferta es válida para nuevos clientes de Virgin telco y tiene 3 meses de permanencia. Si deseas darte de baja antes de este tiempo Virgin telco podrá aplicar una tasa de penalización. Para más información: https:// virgintelco.es/tarifas
+- 2.- Elige la combinación que necesites
 - 3.- Recibirás un email con un link para que te des de alta en Virgin telco. ¡Serán solo 3 minutos!
+- Los precios indicados en los términos y condiciones son mensuales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08FS4LHYW/?tag=tolees-21)
