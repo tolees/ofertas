@@ -28,10 +28,10 @@ Tienes [Teaisiy - Oxímetro de Pulso  Pulsioximetro de Dedo Profesional con Pant
 
 🔎:
 
-- 【Adecuado para Todas】El oxímetro de dedo es adecuado para unos enfermo de respiración, enfermedad del corazón, hipertensión, deportista, ancianos, mujer embarazada o cualquier persona interesada en medir su SpO2 y la frecuencia del pulso y se adapta a adultos y niños.
-- 【Instant Readings】Solo es necesario que coloquen uno de sus dedos en el sensor fotoeléctrico de la yema del dedo para el diagnóstico, y TFT de alta definición pantalla de visualización mostrará directamente el valor medido de SpO2 y PR(frecuencia del pulso). Con CE, certificación FDA, seguro y confiable.
 - 【Lista de Paquete】El oxímetro de pulso es liviano, con la cordón es cómodo de transportar. No solo obtenido un oxímetro de pulso, además el paquete incluye un cuerda de cuello para llevarle fácilmente.ofrecemos 24 horas en línea para responder preguntas.(No incluye pilas, se compra por separado)
-- 【Bajo Consumo de Energía】Solo usa 2 baterías AAA(no incluidas en el paquete) pueden ser operadas continuamente por hasta de 36 horas, y el menos es 20 horas.
 - 【Medición Precisa】Nuestro oxímetro de pulso utiliza chip de tecnología avanzada para obtien los datos precisos de SpO2 (niveles de saturación de oxígeno en la sangre), la frecuencia del pulso y la fuerza del pulso. El error de SpO2 y la frecuencia del pulso son aproximadamente +/- 2%. Le da una mejor comprensión de su condición física.Eprestar
+- 【Bajo Consumo de Energía】Solo usa 2 baterías AAA(no incluidas en el paquete) pueden ser operadas continuamente por hasta de 36 horas, y el menos es 20 horas.
+- 【Instant Readings】Solo es necesario que coloquen uno de sus dedos en el sensor fotoeléctrico de la yema del dedo para el diagnóstico, y TFT de alta definición pantalla de visualización mostrará directamente el valor medido de SpO2 y PR(frecuencia del pulso). Con CE, certificación FDA, seguro y confiable.
+- 【Adecuado para Todas】El oxímetro de dedo es adecuado para unos enfermo de respiración, enfermedad del corazón, hipertensión, deportista, ancianos, mujer embarazada o cualquier persona interesada en medir su SpO2 y la frecuencia del pulso y se adapta a adultos y niños.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085VT9WFH/?tag=tolees-21)

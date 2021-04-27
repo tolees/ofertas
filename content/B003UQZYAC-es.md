@@ -28,12 +28,12 @@ En este momento está [Bolle ETUIB - Caso de poliéster semi-rígido - negro](ht
 
 🔎:
 
-- Peso del artículo: 40,8 g
+- Funda de poliéster con clip para cinturón
 - Material: poliéster
 - Puede contener gafas de prescripción, así como gafas de seguridad
-- Disponible en color negro
 - Color: negro
 - Dimensiones del producto: 18 x 9 x 24 cm
-- Funda de poliéster con clip para cinturón
+- Peso del artículo: 40,8 g
+- Disponible en color negro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003UQZYAC/?tag=tolees-21)

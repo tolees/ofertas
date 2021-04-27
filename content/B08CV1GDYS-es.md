@@ -28,11 +28,11 @@ Está [Electronic Arts - EA SPORTS UFC 4](https://www.amazon.es/dp/B08CV1GDYS/?t
 
 ℹ️:
 
+- Derribos diseñados: UFC 4 también introduce la tecnología RPM en las mecánicas de derribo. Con la cantidad de nuevas animaciones de derribo, los jugadores disfrutarán de un gran número de resultados, en función del control del usuario y de los atributos del combatiente
 - Ayuda de grappling: Los nuevos e intuitivos controles permiten una mayor comprensión y gestión de la técnica de suelo
+- Mayor control en el golpeo, la tecnología Real Player Motion que aumenta los intercambios de grappling entre dos jugadores, disfrutarás cada fase del combate en EA SPORTS UFC 4
 - Nuevo sistema de sumisiones: Este sistema rediseñado presenta una experiencia totalmente nueva para la fase de sumisión. En función de tu posición, se activará uno de los dos nuevos minijuegos, diseñados para ofrecer una experiencia de usuario simplificada
 - Controles de golpeo dinámicos: El rediseño del sistema de control proporciona un golpeo más controlado, así como un mejor acceso a la gran variedad de combos
-- Mayor control en el golpeo, la tecnología Real Player Motion que aumenta los intercambios de grappling entre dos jugadores, disfrutarás cada fase del combate en EA SPORTS UFC 4
 - Momentos de gran impacto: Todos los combatientes entran al Octágono con la intención de finalizar el combate. En UFC 4, los jugadores verán, oirán y sentirán el confuso impacto de los cambios drásticos del combate, o verán cómo se distorsionan las caras en las repeticiones de los KO devastadores que hacen que sus oponentes besen la lona
-- Derribos diseñados: UFC 4 también introduce la tecnología RPM en las mecánicas de derribo. Con la cantidad de nuevas animaciones de derribo, los jugadores disfrutarán de un gran número de resultados, en función del control del usuario y de los atributos del combatiente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CV1GDYS/?tag=tolees-21)
