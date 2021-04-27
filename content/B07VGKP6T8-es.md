@@ -28,10 +28,10 @@ En este momento está [Napapijri K Noli Pantalones Cortos  Azul  BLU Marine 1761
 
 🔎:
 
+- Color: azul
+- Artículo: NP0A4E4I
+- Estación: Primavera/Verano
 - Designer: NAPAPIJRI
 - Material: Algodón
-- Artículo: NP0A4E4I
-- Color: azul
-- Estación: Primavera/Verano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VGKP6T8/?tag=tolees-21)

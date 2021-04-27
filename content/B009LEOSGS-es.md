@@ -28,9 +28,9 @@ Tienes [Altos De Tamaron Vino Tinto D.O. Ribera del Duero Joven - 6 Botellas x 7
 
 🔎:
 
+- Contenido de 750 ml
 - Recomendado con carnes rojas, caza de monte, quesos curados y guisos de cordero
 - Temperatura de servicio entre 16º a 17ºC
-- Contenido de 750 ml
 - Porcentaje de alcohol 13,5%
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009LEOSGS/?tag=tolees-21)

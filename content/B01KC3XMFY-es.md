@@ -28,9 +28,9 @@ En este momento está [Prolinx R1/N - Cable de Antena coaxial  1.5 m  Color Negr
 
 🔎:
 
-- Conector macho de 90°
-- Cumple normativa RG59
-- Cables blindados con doble apantallado para el rechazo de RFI
 - Conectores termosellados para máxima durabilidad
+- Cumple normativa RG59
+- Conector macho de 90°
+- Cables blindados con doble apantallado para el rechazo de RFI
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01KC3XMFY/?tag=tolees-21)

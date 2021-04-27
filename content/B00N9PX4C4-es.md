@@ -28,9 +28,9 @@ Tienes [Taurus Pop N Corn Máquina para hacer palomitas  1100 W  Plástico  Rojo
 
 🔎:
 
-- Un piloto luminoso de conexión
 - Gran capacidad de palomitas
 - Saludable, prepara palomitas sin aceites, sin saborizantes artificiales, grasas saturadas, conservadores o sales - una opción de palomitas saludables gracias a su sistema de cocción por aire caliente
 - Fácil y rápido, tus palomitas listas en 3 minutos dejándolas caer
+- Un piloto luminoso de conexión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00N9PX4C4/?tag=tolees-21)

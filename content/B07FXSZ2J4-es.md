@@ -28,10 +28,10 @@ Tienes [L Oreal Paris Make-up Designer - L Oréal Paris Make-up designer Isabel 
 
 🔎:
 
-- Fórmula ligera y fácil de aplicar
 - Iluminador en crema diseñado por Isabel Marant
-- Su textura cremosa se convierte en polvo al contacto con la piel
 - Suaviza imperfecciones a la vez que ilumina tu rostro con un toque cálido
 - Aporta un toque de luz a tu rostro con un acabado rosado que favorece a todos los tipos de piel
+- Fórmula ligera y fácil de aplicar
+- Su textura cremosa se convierte en polvo al contacto con la piel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FXSZ2J4/?tag=tolees-21)
