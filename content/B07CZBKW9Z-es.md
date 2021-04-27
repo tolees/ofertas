@@ -28,7 +28,7 @@ Tienes [Puma Heritage Quarter 2p Deporte  Hombre  Negro  Black 200   43/46  Tall
 
 🔎:
 
-- Parte superior cómoda, no aprieta.
 - Costuras planas en la puntera para evitar molestias.
+- Parte superior cómoda, no aprieta.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CZBKW9Z/?tag=tolees-21)

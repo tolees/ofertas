@@ -28,10 +28,10 @@ En este momento está [Casio Reloj de pulsera A158WEA-1EF](https://www.amazon.es
 
 🔎:
 
+- La duración de la batería es de 7 años
 - Tiene cronómetro, alarma diaria, calendario automático y formato de 12 o 24 horas
 - Con luz incorporada que ilumina la esfera del reloj desde un lado
-- Caja de resina y correa de acero inoxidable con cierre ajustable
 - Resistente al agua y soporta pequeñas salpicaduras de agua
-- La duración de la batería es de 7 años
+- Caja de resina y correa de acero inoxidable con cierre ajustable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005FEY3V8/?tag=tolees-21)
