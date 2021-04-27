@@ -28,10 +28,10 @@ En este momento está [Square Enix - Shadow of The Tomb Raider Definitive Editio
 
 🔎:
 
-- Season Pass: 1 arma exclusiva, 1 atuendo exclusive, 7 DLCs (Misión + Desafíos de tumbas+ atuendos y armas)
 - Compatibilidad de guardado entre la edición normal y la Definitive Edition
 - Se mantiene la compatibilidad con los antiguos códigos del Paquete de Recursos, por lo que si un jugador tiene un Código de un año sin usar funcionará en la Definitive Edition
 - Compatibilidad en cooperativo entre la edición normal y la Definitive Edition (los jugadores de la edición anterior podrán jugar con los de la Definitive Edition)
+- Season Pass: 1 arma exclusiva, 1 atuendo exclusive, 7 DLCs (Misión + Desafíos de tumbas+ atuendos y armas)
 - El contenido extra de la Croft Edition: 3 armas exclusivas, 3 atuendos exclusivos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZHV23QN/?tag=tolees-21)
