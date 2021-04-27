@@ -28,9 +28,9 @@ Ahora mismo tienes [Dicora UrbanFit Gel de Baño Detox Gingseng & Vetiver 750 Mi
 
 🔎:
 
+- Extractos naturales: vetiver y ginseng
 - Gel de ducha energizante con esencia seductora y sofisticada de Vetiver y Ginseng.
 - El efecto del ginseng proporciona una sensación única, placentera y estimulante.
 - Hidratación y suavidad para una piel en forma.
-- Extractos naturales: vetiver y ginseng
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TQL4M47/?tag=tolees-21)
