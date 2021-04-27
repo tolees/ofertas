@@ -28,10 +28,10 @@ Tienes [BRA Premiere - Batería 4 piezas de aluminio fundido con antiadherente  
 
 🔎:
 
-- Fabricada en aluminio fundido muy resistente a la deformación (5, 5mm de espesor en la base)
-- Revestimiento antiadherente teflón classic 100% libre de pfoa
-- Fondo Full induction compatible con todas las fuentes de calor incluida la inducción
-- Asas extraíbles ergonómicas con silicona de color rojo para un agarre agradable y seguro
 - Composición: cacerola 20 cm con tapa -3 litros (diámetro base 16.1 cm)/ cacerola 24 cm con tapa -4 litros (diámetro base 16.9 cm)/cacerola baja 28 cm con tapa -3.1 litros (diámetro base 21 cm)/ cazo 16 cm (diámetro base 11.8 cm)
+- Revestimiento antiadherente teflón classic 100% libre de pfoa
+- Asas extraíbles ergonómicas con silicona de color rojo para un agarre agradable y seguro
+- Fabricada en aluminio fundido muy resistente a la deformación (5, 5mm de espesor en la base)
+- Fondo Full induction compatible con todas las fuentes de calor incluida la inducción
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L4DPCQQ/?tag=tolees-21)

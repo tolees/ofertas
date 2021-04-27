@@ -29,8 +29,8 @@ Tienes [Orofluido Original Champú Libre de Sulfatos Todo Tipo de Cabello 200 ml
 ℹ️:
 
 - Cuida, protege y nutre el cabello
+- Con 3 aceites naturales: argán, cípero y lino
 - Champú sin sulfatos para cabello natural o tenido
 - Fórmula con pH equilibrado que sella la cutícula capillar
-- Con 3 aceites naturales: argán, cípero y lino
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00X5LAUQ0/?tag=tolees-21)

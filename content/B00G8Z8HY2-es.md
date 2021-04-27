@@ -28,10 +28,10 @@ Ahora mismo tienes [Medisana 88939 MC 825 - Cojín de asiento de masaje con acup
 
 🔎:
 
-- Masaje de acupresión: Además del masaje Shiatsu intenso, la funda de asiento de masaje Shiatsu MC 825 también ofrece un suave masaje de acupresión en la zona lumbar y en el asiento
 - Funcional: El apagado automático después de 15 minutos, la cubierta protectora extraíble y lavable y la almohada cervical de un material fácil de cuidar también son prácticos
+- Masaje de acupresión: Además del masaje Shiatsu intenso, la funda de asiento de masaje Shiatsu MC 825 también ofrece un suave masaje de acupresión en la zona lumbar y en el asiento
+- Masaje Shiatsu: El MC 825 permite elegir entre 3 tipos de masaje diferentes para la zona de la espalda. Además, incluye un masaje de cuello y una función de masaje de acupresión
 - Masaje de cuello: La funda de asiento de masaje tiene un masaje de cuello separado con altura regulable individualmente, por lo que puede adaptarse al tamaño de varios usuarios
 - Nota: No use la funda del asiento mientras conduce ni acostado. La experiencia de masaje puede variar de una persona a otra. Por favor, quite los seguros de transporte antes de usarlos
-- Masaje Shiatsu: El MC 825 permite elegir entre 3 tipos de masaje diferentes para la zona de la espalda. Además, incluye un masaje de cuello y una función de masaje de acupresión
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00G8Z8HY2/?tag=tolees-21)

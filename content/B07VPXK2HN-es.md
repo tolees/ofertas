@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Luke Vaqueros Slim  Azul  Hawaii Light FM   W34/L34  Tal
 
 🔎:
 
-- Presentan 5 bolsillos
-- Tienen un parche en la parte trasera con la marca Lee
 - Vaqueros para hombre
+- Tienen un parche en la parte trasera con la marca Lee
+- Presentan 5 bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VPXK2HN/?tag=tolees-21)

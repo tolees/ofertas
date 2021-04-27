@@ -28,8 +28,8 @@ En este momento está [Kipling Art Mini  Bolso de Mano para Mujer  Dynamic Silve
 
 🔎:
 
+- Para mujer
 - Classics
 - Bolsa de hombro
-- Para mujer
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083YCSC58/?tag=tolees-21)

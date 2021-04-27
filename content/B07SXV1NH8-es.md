@@ -28,7 +28,7 @@ En este momento está [VERO MODA Vmdoffy Ls O-neck Dress Noos vestido  Negro  Bl
 
 🔎:
 
-- Simple knit dress
 - Casual knit dress
+- Simple knit dress
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SXV1NH8/?tag=tolees-21)

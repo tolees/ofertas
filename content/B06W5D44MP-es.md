@@ -28,10 +28,10 @@ Tienes [L Oreal Paris Dermo Expertise Agua Micelar para Pieles Sensibles  Normal
 
 🔎:
 
+- Limpia y desmaquilla suavemente
 - Hipo alergénico, sin aclarado; testado bajo control dermatológico y oftalmológico
-- Sin perfume, sin alcohol, sin parabenos
 - con agua purificada y glicerina
 - Para rostro, ojos y labios; para pieles sensibles, normales a secas
-- Limpia y desmaquilla suavemente
+- Sin perfume, sin alcohol, sin parabenos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06W5D44MP/?tag=tolees-21)
