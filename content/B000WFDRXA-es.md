@@ -28,8 +28,8 @@ Tienes [TRIXIE Grit Pájaros  inmuno protector  minerales y oligoelementos  100 
 
 ℹ️:
 
-- ayuda para moler la comida dentro del estómago del ave
 - mezcla de conchas marinas, algas coralinas y pequeñas piedras de cuarzo
+- ayuda para moler la comida dentro del estómago del ave
 - LO MEJOR PARA EL CUIDADO DE TU MASCOTA : Producto especialmente destinado para cuidar a las mascotas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000WFDRXA/?tag=tolees-21)

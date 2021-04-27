@@ -28,10 +28,10 @@ Ahora mismo tienes [SanDisk Ultra 128 GB Tarjeta de Memoria microSDXC con Adapta
 
 🔎:
 
+- Resistente al agua y a la temperatura, a prueba de rayos x, magnetismo y golpes
+- Las velocidades de transferencia de hasta 120 MB/s te permiten transferir hasta 1000 fotos en un minuto
 - Clase 10 para la grabación y reproducción de vídeo de alta definición
 - Ideal para smartphones y tabletas Android, así como para cámaras compactas
 - Hasta 1 TB de capacidad para guardar más horas de vídeo de alta definición
-- Las velocidades de transferencia de hasta 120 MB/s te permiten transferir hasta 1000 fotos en un minuto
-- Resistente al agua y a la temperatura, a prueba de rayos x, magnetismo y golpes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HYDR8C7/?tag=tolees-21)

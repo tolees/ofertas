@@ -28,8 +28,8 @@ Ahora mismo tienes [VERO MODA Vmbrilliant Ls Rollneck Dress Noos vestido  Negro 
 
 🔎:
 
-- 36 (Talla del fabricante: X-Small) para Mujer
-- Negro (Black Detail: Melange)
 - Vmbrilliant Ls Rollneck Dress Noos vestido
+- Negro (Black Detail: Melange)
+- 36 (Talla del fabricante: X-Small) para Mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DFZMRRL/?tag=tolees-21)

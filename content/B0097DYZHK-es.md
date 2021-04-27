@@ -30,8 +30,8 @@ Ahora mismo tienes [Bosch Professional Set de 43 unidades para atornillar y llav
 
 - Suministro (longitud 35 mm): PH1, (2x) PH2, PH3, PZ1, (2x) PZ2, PZ3, SL3, SL4, SL5, SL6, T10, T15, (2x) T20, T25, T27, T30, T40, T10H, T15H, (2x) T20H, T25H, T27H, T30H, T40H
 - El set de 43 unidades profesional para atornillar contiene puntas de acero modificado S2 para ofrecer una dureza superior a la media; es apto para atornilladores eléctricos de Bosch y de otros fabricantes; contiene una amplia variedad de puntas para todo tipo de tornillos y trabajos de atornillado
+- Suministro (longitud 75 mm): PH2, PZ2, SL6, T15, T20, T25
 - Con soporte universal de cambio rápido y soporte univesal magnético, así como puntas con vástago hexagonal
 - Llave de vaso con imán permanente para tornillos hexagonales (6, 8, 10 mm); longitud: 48-50 mm
-- Suministro (longitud 75 mm): PH2, PZ2, SL6, T15, T20, T25
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0097DYZHK/?tag=tolees-21)

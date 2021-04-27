@@ -28,8 +28,8 @@ En este momento está [Haribo Balla Stixx Fresa Sin Gluten 175 g](https://www.am
 
 🔎:
 
-- Geles dulces
-- Deliciosas piezas con forma de stick
 - Con un irresistible sabor a fresa; sin gluten
+- Deliciosas piezas con forma de stick
+- Geles dulces
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WSWWFG3/?tag=tolees-21)

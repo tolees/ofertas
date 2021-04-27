@@ -28,10 +28,10 @@ Tienes [Panama Jack Panama 03 Aviator  Botas Militar Hombre  Negro  Negro C2   4
 
 ℹ️:
 
-- Fabricado en España.
 - Material principal: napa, material del forro: algodón. Material de la suela: goma natural. Interior extraíble. Inserto extraíble: sí.
-- Altura del tacón: 3,00 cm.
-- Panama Jack Men - Botas para hombre, color negro
 - Resistente al agua.
+- Panama Jack Men - Botas para hombre, color negro
+- Fabricado en España.
+- Altura del tacón: 3,00 cm.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00K8QR50E/?tag=tolees-21)

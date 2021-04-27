@@ -28,8 +28,8 @@ En este momento está [Lee Luke Vaqueros  Lt Worn Foam Er  26W / 32L para Hombre
 
 🔎:
 
-- Presentan 5 bolsillos
 - Tienen un parche en la parte trasera con la marca Lee
+- Presentan 5 bolsillos
 - Producto de corte regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VLPC8QZ/?tag=tolees-21)

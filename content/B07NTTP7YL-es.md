@@ -28,10 +28,10 @@ Ahora mismo tienes [Krosno Vasos de Agua Té Café | Conjunto 6 Piezas | 250 ML 
 
 🔎:
 
+- CONJUNTO DE 6 VASOS – Vasos para el té de paredes rectas van a adornar cualquier interior, independientemente de su estilo. Su diseño universal va a cumplir con las expectativas de los usuarios más exigentes.
+- FORMA SENCILLA – Gracias a su forma sencilla y al estilo minimalista serán perfectos para su uso cotidiano, pero también durante encuentros sociales.
 - 250 DE VOLUMEN – El vaso tiene 105 mm de altura y 66 mm de diámetro. Perfecto para las fiestas y para los rituales cotidianos. Apto para lavavajillas.
 - PARA EL TÉ – El vaso está destinado para servir el té. Apto para microondas para calentar las bebidas.
-- FORMA SENCILLA – Gracias a su forma sencilla y al estilo minimalista serán perfectos para su uso cotidiano, pero también durante encuentros sociales.
 - FABRICANTE EUROPEO DE VIDRIO – Krosno es un renombrado fabricante europeo de vidrio; se especializa en la creación de bellos productos de vidrio para las casas en todo el mundo. Nuestro vidrio tiene una calidad excepcional, está elaborado por unos artesanos formados y entregados a su labor. Gracias a ello cada juego tiene su único sentido de pertenencia- independientemente de la ocasión.
-- CONJUNTO DE 6 VASOS – Vasos para el té de paredes rectas van a adornar cualquier interior, independientemente de su estilo. Su diseño universal va a cumplir con las expectativas de los usuarios más exigentes.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NTTP7YL/?tag=tolees-21)
