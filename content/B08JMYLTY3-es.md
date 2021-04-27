@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Selecta Visión - Carreras Con Ryan - Edi con un 37.61 % de descuento'
-date: 2021-04-17 16:22:23
+date: 2021-04-27 10:24:34
 image: 'https://m.media-amazon.com/images/I/51IEm-CQojL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Selecta Visión'
 buyurl: 'https://www.amazon.es/dp/B08JMYLTY3/?tag=tolees-21'
 descuento: '37.61'
-average: '17.4394736842105'
+average: '17.6320512820513'
 ---
 
 En este momento está [Selecta Visión - Carreras Con Ryan - Edición Especial](https://www.amazon.es/dp/B08JMYLTY3/?tag=tolees-21) a 24.95 EUR (original: 39.99 EUR) (37.61 %  de descuento) en el siguiente enlace!

@@ -28,7 +28,7 @@ Está [John - Toys - Disney Minnie Mouse - Pelota hinchable  John 50689 ](https:
 
 ℹ️:
 
-- Edad mínima: 36 meses
 - Descripción del producto: BAL 23 CM MINNIE Y DAISY
+- Edad mínima: 36 meses
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BSR6WP6/?tag=tolees-21)
