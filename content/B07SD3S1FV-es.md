@@ -28,10 +28,10 @@ Está [Fantasy Flight Games- KeyForge: La Edad de la Ascensión  Color  KF03ES ]
 
 ℹ️:
 
+- ¡Nunca verás dos mazos iguales En este emocionante juego, dos jugadores compiten por forjar llaves con las que abrir las cámaras ocultas del Crisol
 - ¡Entra en la Edad de la Ascensión con la segunda serie de mazos de KeyForge
+- Contiene 1 mazo de Arconte único de 37 cartas
 - La Edad de la Ascensión presenta 204 cartas nuevas que generan una nueva gama de mazos únicos para descubrir, explorar y dominar
 - Gracias a una increíble variedad de criaturas, artefactos y habilidades, cada mazo es completamente único, ¡y cada batalla es un evento irrepetible
-- ¡Nunca verás dos mazos iguales En este emocionante juego, dos jugadores compiten por forjar llaves con las que abrir las cámaras ocultas del Crisol
-- Contiene 1 mazo de Arconte único de 37 cartas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SD3S1FV/?tag=tolees-21)
