@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Turner  Zapatillas para Hombre  A al 38.02 % de descuento'
-date: 2021-04-21 19:44:03
+date: 2021-04-28 20:30:23
 image: 'https://m.media-amazon.com/images/I/41vPiayTYlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07F176BCH/?tag=tolees-21'
 descuento: '38.02'
-average: '31.5614285714286'
+average: '31.49'
 ---
 
 Está [Levi s Turner  Zapatillas para Hombre  Azul  Navy Blue 17   43 EU](https://www.amazon.es/dp/B07F176BCH/?tag=tolees-21) con 38.02 de descuento por 30.99 EUR (original: 50.0 EUR) en el siguiente enlace!
