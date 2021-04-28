@@ -29,8 +29,8 @@ Ahora mismo tienes [Bra Prior - Set de 3 Sartenes  Aluminio Fundido Antiadherent
 🔎:
 
 - Recubrimiento antiadherente de la calidad óptima tricapa Teflon Classic sin PFOA
-- Fondo difusor uniforme de eficiencia óptima (Save Energy System)
 - Aluminio fundido de la calidad óptima
+- Fondo difusor uniforme de eficiencia óptima (Save Energy System)
 - Mango ergonómico y apilable
 - Apta para todo tipo de cocinas, incluido inducción
 
