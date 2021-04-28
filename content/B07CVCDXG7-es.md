@@ -28,10 +28,10 @@ Ahora mismo tienes [Tryone Soporte Movil Teléfono – Soporte Flexible con Braz
 
 🔎:
 
-- 【Material】 Aleación de aluminio y magnesio; Plástico ABS.
 - 【Requisito del tamaño del teléfono:】 El ancho máximo debe ser de aproximadamente 3 pulgadas (76 mm). El espesor máximo debe ser de aproximadamente 0.5 pulgadas (13 mm)
+- 【Longitud】 27.5 pulgadas (70 cm) de longitud en total , el brazo flexible es de 21.5 pulgadas (55 cm).
+- 【Material】 Aleación de aluminio y magnesio; Plástico ABS.
 - 【Nota】 Si usas una carcasa de teléfono grande o una batería externa, su dispositivo no será compatible con la empuñadura de resorte.
 - 【Clip de resorte】 Se ajusta a dispositivos de 3 pulgadas (75 mm) de grosor.
-- 【Longitud】 27.5 pulgadas (70 cm) de longitud en total , el brazo flexible es de 21.5 pulgadas (55 cm).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CVCDXG7/?tag=tolees-21)
