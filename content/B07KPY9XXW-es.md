@@ -28,9 +28,9 @@ Tienes [Polti Vaporella Express VE30.10 Plancha generadora de vapor de altas pre
 
 🔎:
 
-- Tecnologia One Temperature: una única temperatura de la plancha para planchar todo tipo de tejidos sin que sea necesario hacer ninguna regulación
-- Plancha ligera y manejable con suela de cerámica anti arañazos para planchar los tejidos fácilmente; el sistema parking de la plancha permite apoyarla en vertical mientras se está planchando
 - Digital setting: ajustes digitales en la empuñadura que permiten planchar de manera inmediata y rápida teniendo siempre bajo control la fase de planchado en la que te encuentras
+- Plancha ligera y manejable con suela de cerámica anti arañazos para planchar los tejidos fácilmente; el sistema parking de la plancha permite apoyarla en vertical mientras se está planchando
+- Tecnologia One Temperature: una única temperatura de la plancha para planchar todo tipo de tejidos sin que sea necesario hacer ninguna regulación
 - Plancha generadora de vapor de autonomía ilimitada con presión de bomba de 8 bar, y golpe de vapor de 240g/min para un planchado más rápido
 - Depósito XL de 1,6 L, para largas sesiones de planchado, calentamiento rápido en menos de un minutos, Calc Cleaning para mantener las prestaciones en el tiempo, función ECO para limitar el consumo
 

@@ -28,10 +28,10 @@ Tienes [Rimmel London Glam eyes  Delineador de oyos líquido tono 001 Black Glam
 
 🔎:
 
+- Consigue una mirada de escándalo
 - Consigue un delineado glamuroso con el mínimo esfuerzo
+- Delineador de color intenso que dura horas y horas
 - Su aplicador preciso ayuda a definir una línea perfecta
 - Fórmula resistente, no transfiere ni mancha
-- Consigue una mirada de escándalo
-- Delineador de color intenso que dura horas y horas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0058CP4ZQ/?tag=tolees-21)
