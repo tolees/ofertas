@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'SanDisk Extreme - Tarjeta de memoria mic con un 40.38 % de descuento'
-date: 2020-01-22 15:49:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4104McrVzLL._SL400_.jpg'
+title: 'SanDisk Extreme - Tarjeta de memoria mic con un 59.98 % de descuento'
+date: 2021-04-28 11:45:43
+image: 'https://m.media-amazon.com/images/I/4104McrVzLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07HB8SLMV-es SanDisk Extreme - Tarjeta de memoria microSDXC para...'
 sku: 'B07HB8SLMV-es'
-tags: [  ]
-actualPrice: 14.9 EUR
+tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Tarjetas de memoria','Tarjetas microSD','sandisk', ]
+actualPrice: 10.0 EUR
 currency: EUR
-price: 14.9
+price: 10.0
 comparePrice: 24.99 EUR
 prodname: 'SanDisk Extreme - Tarjeta de memoria microSDXC para cámaras de acción de 64 GB con hasta 160 MB/s  Class 10  U3 y V30'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07HB8SLMV/?tag=tolees-21'
-descuento: '40.38'
-average: '14.945'
+descuento: '59.98'
+average: '13.2966666666667'
 ---
 
-En este momento está [SanDisk Extreme - Tarjeta de memoria microSDXC para cámaras de acción de 64 GB con hasta 160 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07HB8SLMV/?tag=tolees-21) a 14.9 EUR (original: 24.99 EUR) (40.38 %  de descuento) en el siguiente enlace!
+En este momento está [SanDisk Extreme - Tarjeta de memoria microSDXC para cámaras de acción de 64 GB con hasta 160 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07HB8SLMV/?tag=tolees-21) a 10.0 EUR (original: 24.99 EUR) (59.98 %  de descuento) en el siguiente enlace!
 
-[![SanDisk Extreme - Tarjeta de memoria mic](https://images-eu.ssl-images-amazon.com/images/I/4104McrVzLL._SL400_.jpg)](https://www.amazon.es/dp/B07HB8SLMV/?tag=tolees-21)
+[![SanDisk Extreme - Tarjeta de memoria mic](https://m.media-amazon.com/images/I/4104McrVzLL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07HB8SLMV/?tag=tolees-21)
 
 🔎:
 
+- Fabricadas para ser usadas en condiciones extremas: resistentes a fuertes temperaturas, agua, golpes y rayos X
+- Hasta 160 MB/s de velocidad de lectura y hasta 90 MB/s de velocidad de escritura
+- Memoria extrema para optimizar el rendimiento de tu cámara de acción o dron
+- Categorías UHS Speed Class 3 (U3) y Video Speed Class 30 (V30) para vídeos 4K UHD
+- Rendimiento de vídeo de alta calidad que ofrece grabación y reproducción de vídeos 4K UHD y Full HD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HB8SLMV/?tag=tolees-21)

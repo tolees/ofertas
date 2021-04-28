@@ -28,10 +28,10 @@ En este momento está [Nyx Professional Makeup Barra De Labios Mate De Larga Dur
 
 🔎:
 
+- Nueva fórmula inspirada en un acabado aterciopelado
+- Aplicación cómoda, sencilla y ligera
 - Disponible en 24 tonos aterciopelados
 - Pintalabios vegano de textura cremosa y extra suave de acabado mate, cobertura total y de larga duración
-- Aplicación cómoda, sencilla y ligera
-- Nueva fórmula inspirada en un acabado aterciopelado
 - Este pintalabios suave y ligero cubre tus labios con un color mate empolvado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GXF9C28/?tag=tolees-21)
