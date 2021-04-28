@@ -28,10 +28,10 @@ Está [Dr. Brown s Options - Biberón estándar  250 ml](https://www.amazon.es/d
 
 ℹ️:
 
+- Reduce el riesgo de otitis
 - Polipropileno sin bisfenol A
 - Reduce cólicos, gases y eructos
-- Biberón anti cólicos
-- Reduce el riesgo de otitis
 - Mantiene las vitaminas de la leche
+- Biberón anti cólicos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XXBDSYW/?tag=tolees-21)

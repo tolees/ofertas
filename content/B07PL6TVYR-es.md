@@ -28,10 +28,10 @@ Está [SikaWall 08 Fijador  Imprimación para fijar superficies porosas  2kg  Bl
 
 ℹ️:
 
-- No dificulta la transpirabilidad del paramento
-- Mejora el rendimiento de las pinturas posteriores
 - Se puede aplicar sobre enfoscados de cemento, yeso y laminados, temple, cal y escayola.
 - Facilita la adherencia del pintado posterior
+- Mejora el rendimiento de las pinturas posteriores
 - Evita el arrastre del polvo al pintar
+- No dificulta la transpirabilidad del paramento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PL6TVYR/?tag=tolees-21)

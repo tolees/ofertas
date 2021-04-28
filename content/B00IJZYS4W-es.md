@@ -28,8 +28,8 @@ Tienes [Campingaz MiniMaxi - Nevera portátil  30 cm  18 cm  24 cm  Rojo  Amaril
 
 🔎:
 
-- Correa ajustable a los hombros. Un bolsillo central con cremallera. Nevera plegable
 - Capacidad de conservación: 10h con acumuladores Freez’Pack (vendido separadamente) Capacidad: 9 L
 - Aislamiento de espuma de polietileno expandido EPE de células cerradas
+- Correa ajustable a los hombros. Un bolsillo central con cremallera. Nevera plegable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00IJZYS4W/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Dodot Toallitas Recambio - 64 unidades](https://www.amazo
 
 🔎:
 
-- Suave y resistente
+- facil de usar
 - Testado dermatológicamente
 - Limpieza y cuidado en una pasada
-- facil de usar
+- Suave y resistente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N2WGX8K/?tag=tolees-21)

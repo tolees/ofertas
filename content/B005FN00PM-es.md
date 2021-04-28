@@ -28,9 +28,9 @@ Tienes [Invicta I-Force 1517 Reloj para Hombre Cuarzo - 46mm](https://www.amazon
 
 ℹ️:
 
-- Este modelo es parte de la colección Invicta I-Force
 - El Invicta 1517 tiene una caja de acero inoxidable de 46 millimetros con una esfera negro
 - 2 años de garantía Invicta
+- Este modelo es parte de la colección Invicta I-Force
 - Esta modelo funciona con un movimiento de Cuarzo preciso
 - Resistencia a la presión de aqua de 10 bares
 

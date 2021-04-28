@@ -28,14 +28,14 @@ Tienes [Fitbit Versa Lite - Reloj Deportivo Smartwatch  Adultos Unisex  Azul Mar
 
 🔎:
 
-- GPS conectado a través de tu móvil para ver ritmo y distancia en tus entrenamientos
-- Pantalla táctil de alta resolución a todo color
-- Se sincroniza con Mac OS X 10.6 y versiones posteriores, iPhone 4S y versiones posteriores, iPad 3 gen. y más tarde, dispositivos Android 5.0 y posteriores y Windows 10
-- Batería que dura +4 días y +4 noches
-- Monitorización continua del ritmo cardiaco que te permite llevar un mayor control de las calorías quemadas
-- Aplicaciones, esferas de reloj y accesorios para personalizarlo a tu estilo
-- Alcanza tus objetivos de forma física: monitoriza tus pasos, distancia, minutos de actividad
-- Notificaciones de llamadas, mensajes de texto, eventos del calendario y apps cuando el móvil está cerca
 - Análisis de las fases del sueño ligero, profundo & REM y consejos útiles para descansar mejor
+- Monitorización continua del ritmo cardiaco que te permite llevar un mayor control de las calorías quemadas
+- Se sincroniza con Mac OS X 10.6 y versiones posteriores, iPhone 4S y versiones posteriores, iPad 3 gen. y más tarde, dispositivos Android 5.0 y posteriores y Windows 10
+- Aplicaciones, esferas de reloj y accesorios para personalizarlo a tu estilo
+- Pantalla táctil de alta resolución a todo color
+- Batería que dura +4 días y +4 noches
+- Notificaciones de llamadas, mensajes de texto, eventos del calendario y apps cuando el móvil está cerca
+- GPS conectado a través de tu móvil para ver ritmo y distancia en tus entrenamientos
+- Alcanza tus objetivos de forma física: monitoriza tus pasos, distancia, minutos de actividad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MFZ9MGQ/?tag=tolees-21)
