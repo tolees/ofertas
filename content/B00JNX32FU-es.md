@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'L Oreal Paris Dermo Expertise - Revitali al 50.50 % de descuento'
-date: 2021-04-10 17:40:58
-image: 'https://m.media-amazon.com/images/I/31UKxRQ8dfL._SL400_.jpg'
+date: 2021-04-28 12:45:09
+image: 'https://m.media-amazon.com/images/I/31UKxRQ8dfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'LOreal Paris Dermo Expertise'
 buyurl: 'https://www.amazon.es/dp/B00JNX32FU/?tag=tolees-21'
 descuento: '50.50'
-average: '6.60428571428571'
+average: '6.3975'
 ---
 
 Ahora mismo tienes [L Oreal Paris Dermo Expertise - Revitalift Crema de día  con Pro-Retinol  50 ml](https://www.amazon.es/dp/B00JNX32FU/?tag=tolees-21) a 4.95 EUR (original: 10.0 EUR) (50.50 %  de descuento) en el siguiente enlace!
 
-[![L Oreal Paris Dermo Expertise - Revitali](https://m.media-amazon.com/images/I/31UKxRQ8dfL._SL400_.jpg)](https://www.amazon.es/dp/B00JNX32FU/?tag=tolees-21)
+[![L Oreal Paris Dermo Expertise - Revitali](https://m.media-amazon.com/images/I/31UKxRQ8dfL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00JNX32FU/?tag=tolees-21)
 
 🔎:
 

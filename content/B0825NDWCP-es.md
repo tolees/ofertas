@@ -28,8 +28,8 @@ Tienes [Quiksilver - Mapool Bañador de Natación para Adulto](https://www.amazo
 
 ℹ️:
 
+- Tejido: tejido elástico mezcla de nailon
 - Propiedades resistentes al cloro
 - corte: corte de boxer
-- Tejido: tejido elástico mezcla de nailon
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825NDWCP/?tag=tolees-21)

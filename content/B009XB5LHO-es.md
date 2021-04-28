@@ -28,8 +28,8 @@ Tienes [Juego de Tronos SDTHBO02291 - Llavero mosquetón Escudo Stark  SD Toys S
 
 ℹ️:
 
-- Llaveros Juego de Tronos serie TV
-- Merchandising oficial de Juego de Tronos
 - Para los fans de Juego de Tronos
+- Merchandising oficial de Juego de Tronos
+- Llaveros Juego de Tronos serie TV
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B009XB5LHO/?tag=tolees-21)

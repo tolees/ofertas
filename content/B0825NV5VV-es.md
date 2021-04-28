@@ -28,10 +28,10 @@ Tienes [Quiksilver - Everyday 11" Short de Natación para Niño pequeño](https:
 
 ℹ️:
 
-- Longitud : longitud de 28 cm
 - Slip interior de malla
 - Bolsillos traseros
 - Tejido reciclado: tejido reciclado Super Suede
+- Longitud : longitud de 28 cm
 - Bolsillos: bolsillos laterales
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825NV5VV/?tag=tolees-21)

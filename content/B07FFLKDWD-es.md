@@ -28,8 +28,8 @@ Ahora mismo tienes [Sony CEE Games  New Gen  - Ratchet And Clank Hits - Versión
 
 🔎:
 
-- Rango ESRB: T (adolescente)
 - Edición del juego: básica
+- Rango ESRB: T (adolescente)
 - Clasificación PEGI: 7
 - Plataforma: PlayStation 4
 - Género: acción/aventura

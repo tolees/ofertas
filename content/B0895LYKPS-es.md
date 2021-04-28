@@ -28,10 +28,10 @@ Tienes [DC Shoes Field - Anorak Resistente al Agua - Hombre - XXL](https://www.a
 
 ℹ️:
 
-- __Tejido:__ Tejido de poliéster [87 g/m2]
-- Puños elásticos
-- __Corte:__ corte normal, cómodo
-- __Bolsillos:__ Bolsillo delantero con solapa tipo canguro con dos bolsillos laterales de ojal
 - __Cierre:__ media cremallera Vislon en la parte frontal
+- __Bolsillos:__ Bolsillo delantero con solapa tipo canguro con dos bolsillos laterales de ojal
+- __Tejido:__ Tejido de poliéster [87 g/m2]
+- __Corte:__ corte normal, cómodo
+- Puños elásticos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0895LYKPS/?tag=tolees-21)
