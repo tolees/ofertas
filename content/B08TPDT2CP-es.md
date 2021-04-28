@@ -30,8 +30,8 @@ Ahora mismo tienes [Hisense GG633B - Placa de Gas Natural  3 Zonas  60 cm  Parri
 
 - Control Mecánico
 - Encimera - Gas - 3 Zonas
-- 1 triple quemador
-- Quemadores de gas sobre placa de vidrio
 - Rejillas de hierro fundido
+- Quemadores de gas sobre placa de vidrio
+- 1 triple quemador
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TPDT2CP/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Sony CEE Games  New Gen  - Second Son Hits - Edición Infamo
 
 🔎:
 
-- Rango ESRB: T (adolescente)
 - Género: acción/aventura
 - Plataforma: PlayStation 4
-- Clasificación PEGI: 16
 - Edición del juego: básica
+- Rango ESRB: T (adolescente)
+- Clasificación PEGI: 16
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FF7X37N/?tag=tolees-21)

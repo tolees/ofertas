@@ -28,11 +28,11 @@ En este momento está [Ubisoft Spain - Six Collection Merch Montagne Chibi Figur
 
 🔎:
 
-- Product 2: Altura: 10 cm
 - Product 2: Figuras de gran detalle, inspiradas en los agentes de Rainbow Six Siege
 - Product 2: Continuación de la popular Six Collection
-- Product 1: Include un codice per sbloccare un contenuto di gioco esclusivo
 - Product 1: Gilles "Montagne" Touré è sempre in prima linea per proteggere i suoi compagni
+- Product 2: Altura: 10 cm
 - Product 2: Material: vinilo
+- Product 1: Include un codice per sbloccare un contenuto di gioco esclusivo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WMSYRFL/?tag=tolees-21)

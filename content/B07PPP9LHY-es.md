@@ -28,10 +28,10 @@ Tienes [Ubisoft Spain - Six Collection - Figura Ela](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Altura: 10 cm
-- Incluye un código único que desbloquea un amuleto de arma dentro del juego
-- Han vuelto; añade a vigil y a otros agentes a tu six collection; ubicollectibles presenta con orgullo la tercera serie de agentes de la six collection oficial; ya están disponibles cinco figuras nuevas, todas basadas en los agentes y los amuletos de armas que aparecen en el juego; cada figura viene con un código único para desbloquear contenido exclusivo en rainbow six siege
 - Figuras de gran detalle, inspiradas en los agentes de rainbow six siege
 - Material: vinilo
+- Incluye un código único que desbloquea un amuleto de arma dentro del juego
+- Han vuelto; añade a vigil y a otros agentes a tu six collection; ubicollectibles presenta con orgullo la tercera serie de agentes de la six collection oficial; ya están disponibles cinco figuras nuevas, todas basadas en los agentes y los amuletos de armas que aparecen en el juego; cada figura viene con un código único para desbloquear contenido exclusivo en rainbow six siege
+- Altura: 10 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PPP9LHY/?tag=tolees-21)

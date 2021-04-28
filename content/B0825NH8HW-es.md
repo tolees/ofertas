@@ -29,9 +29,9 @@ En este momento está [Quiksilver - Highline Kaimana 16" Boardshorts para Adulto
 🔎:
 
 - Longitud : longitud 40 cm - corto
+- Bragueta performance
 - Tratamiento hidrofóbico DryFlight que repele el agua
 - Tejido reciclado: Tejido Repreve trazable de poliéster reciclado, elástico en 4 direcciones, fabricado a base de botellas de plástico
 - Prenda diseñada para la acción
-- Bragueta performance
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0825NH8HW/?tag=tolees-21)
