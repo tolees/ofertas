@@ -28,10 +28,10 @@ Tienes [Oxford Classic 100102899 - Pack de 10 libretas grapadas de tapa blanda  
 
 ℹ️:
 
-- Paquete de 10 libretas con colores de tapa aleatorios
+- Grapada, ligera y ocupa poco espacio
 - 48 hojas con pauta 3,5mm con margen
 - Tapa blanda, que le da ligereza para poder llevarlo donde quieras; y cantos romos para evitar que las tapas se deterioren
-- Grapada, ligera y ocupa poco espacio
+- Paquete de 10 libretas con colores de tapa aleatorios
 - En formato A4
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00SHLANYM/?tag=tolees-21)

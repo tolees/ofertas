@@ -29,8 +29,8 @@ Ahora mismo tienes [Funko- Pop Rides: Game of Daenerys On Dragonstone Throne Jue
 🔎:
 
 - Figura de vinilo de la marca Funko
-- El artículo es adecuado para todos los fanáticos de Daenerys
 - Recomendado para niños a partir de 3 años
 - Forma parte de la colección Game of Thrones
+- El artículo es adecuado para todos los fanáticos de Daenerys
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0797KXRC2/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games- KeyForge: La Edad  al 59.90 % de descuento'
-date: 2021-04-27 15:46:10
+date: 2021-04-28 16:35:36
 image: 'https://m.media-amazon.com/images/I/51-r2-XZsYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [Fantasy Flight Games- KeyForge: La Edad de la Ascensión  Color  KF03ES ]
 ℹ️:
 
 - ¡Nunca verás dos mazos iguales En este emocionante juego, dos jugadores compiten por forjar llaves con las que abrir las cámaras ocultas del Crisol
-- ¡Entra en la Edad de la Ascensión con la segunda serie de mazos de KeyForge
 - Contiene 1 mazo de Arconte único de 37 cartas
-- La Edad de la Ascensión presenta 204 cartas nuevas que generan una nueva gama de mazos únicos para descubrir, explorar y dominar
 - Gracias a una increíble variedad de criaturas, artefactos y habilidades, cada mazo es completamente único, ¡y cada batalla es un evento irrepetible
+- La Edad de la Ascensión presenta 204 cartas nuevas que generan una nueva gama de mazos únicos para descubrir, explorar y dominar
+- ¡Entra en la Edad de la Ascensión con la segunda serie de mazos de KeyForge
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SD3S1FV/?tag=tolees-21)
