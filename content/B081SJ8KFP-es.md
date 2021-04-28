@@ -29,7 +29,7 @@ En este momento está [adidas CON20 PRE JKT Chaqueta de Deporte  Hombre  Team Na
 🔎:
 
 - Great freedom of movement
-- Bright fabric
 - Regular fit
+- Bright fabric
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081SJ8KFP/?tag=tolees-21)

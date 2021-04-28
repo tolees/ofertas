@@ -28,10 +28,10 @@ Tienes [Moleskine  Libreta Clásica con Páginas Cuadriculadas  Tapa Dura y Cier
 
 ℹ️:
 
-- Papel de color marfil de 70 g/m2 de tapa dura y sin ácido, con páginas cuadriculadas
 - Clásico e icónico cuaderno con toda la historia de Moleskine; nuevo tamaño y páginas con diferentes diseños para completarlas con tus ideas
-- A4 21 x 29.7 cm - Negro - 192 páginas
+- Papel de color marfil de 70 g/m2 de tapa dura y sin ácido, con páginas cuadriculadas
 - Este cuaderno tiene todas las características legendarias de los cuadernos Classic: esquinas redondeadas, cierre elástico y marcapáginas del mismo color que la portada
+- A4 21 x 29.7 cm - Negro - 192 páginas
 - El compañero óptimo para tomar notas en la universidad o en la oficina, anotar objetivos, listas de tareas o recordatorios
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Q5FXMCN/?tag=tolees-21)
