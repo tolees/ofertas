@@ -28,10 +28,10 @@ Está [Beurer HT 15 - Peine Lendrera Eléctrico Anti-Piojos  con Corriente Eléc
 
 ℹ️:
 
-- Los piojos y las liendres se eliminan al contacto mediante una corriente eléctrica
+- Utiliza suaves descargas eléctricas, que al contacto con un piojo o liendre la elimina
 - La señal acústica se detiene al contacto con los piojos o liendres
 - Se puede utilizar tanto a modo de prevención como a modo de tratamiento
-- Utiliza suaves descargas eléctricas, que al contacto con un piojo o liendre la elimina
+- Los piojos y las liendres se eliminan al contacto mediante una corriente eléctrica
 - Incluye peine de limpieza y tapón de protección
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H8GDH71/?tag=tolees-21)

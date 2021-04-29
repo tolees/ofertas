@@ -28,9 +28,9 @@ En este momento está [Makeup Revolution London Re-Loaded 21 g](https://www.amaz
 
 🔎:
 
-- Redescubre la belleza que hay en ti
-- Sombra de ojos Re-loaded de Makeup Revolution London
-- Productos de Maquillaje para Mujer
 - Los productos de la marca Makeup Revolution London están fabricados con ingredientes de primera calidad
+- Redescubre la belleza que hay en ti
+- Productos de Maquillaje para Mujer
+- Sombra de ojos Re-loaded de Makeup Revolution London
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FZK5B3P/?tag=tolees-21)
