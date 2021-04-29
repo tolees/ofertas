@@ -29,7 +29,7 @@ Tienes [Soria Natural Salvado Trigo Fino - 800 gr](https://www.amazon.es/dp/B00D
 🔎:
 
 - Los mejores productos para tu cuidado personal, para tu dieta, para tu salud y para la higiene personal
-- Salvado trigo fino 800gr
 - Perfecto para tu salud y cuidado personal
+- Salvado trigo fino 800gr
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00DN9EYLQ/?tag=tolees-21)

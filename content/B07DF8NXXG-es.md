@@ -28,9 +28,9 @@ En este momento está [ICE-WATCH - ICE steel Black silver  Reloj negro para Homb
 
 🔎:
 
+- HERMETICIDAD : 10 ATM
 - TAMAÑO: Medium (40mm)
 - COLECCION : ICE steel
 - CONTIENE: Reloj, caja de presentación, instrucciones
-- HERMETICIDAD : 10 ATM
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DF8NXXG/?tag=tolees-21)
