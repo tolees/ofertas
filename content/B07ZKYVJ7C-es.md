@@ -29,7 +29,7 @@ Ahora mismo tienes [Fantasy Flight Games- Keyforge - Mundos en Colisión Mazo de
 🔎:
 
 - Dos nuevas casas se unen al conflicto.
-- Contiene 1 mazo de arconte único de 37 cartas
 - Mundos en colisión presenta 284 cartas nuevas que generan una nueva gama de mazos únicos para descubrir, explorar y dominar
+- Contiene 1 mazo de arconte único de 37 cartas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZKYVJ7C/?tag=tolees-21)

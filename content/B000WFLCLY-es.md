@@ -28,8 +28,8 @@ Tienes [TRIXIE Comedero Cerámica  Motivos hámsters  90 ml  ø8 cm  Blanco  Peq
 
 ℹ️:
 
-- apto para lavavajillas
 - color: crema
+- apto para lavavajillas
 - LO MEJOR PARA EL CUIDADO DE TU MASCOTA : Producto especialmente destinado para cuidar a las mascotas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000WFLCLY/?tag=tolees-21)

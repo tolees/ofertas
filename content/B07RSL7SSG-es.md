@@ -28,10 +28,10 @@ Ahora mismo tienes [CamKpell - Cable OTG de Adaptador de Terminal de Puerto USB 
 
 🔎:
 
-- 0
 - LE PERMITE AÑADIR ACCESORIOS USB COMO ADAPTADORES, TECLADOS, ALMACENAMIENTO ETC ...
+- Paquete de 2 adaptador USB OTG para palos de medios y cajas. 2 PACK USB OTG MICRO ADAPTADOR PARA STICKS DE MEDIOS, DISPOSITIVOS DE CONDUCCIÓN, TELÉFONOS, CONSOLAS DE JUEGO
+- 0
 - Transfiera fotos, videos, documentos y otros datos entre el dispositivo y la memoria externa. NOTA: esto NO CARGARÁ TELÉFONO O TABLETAS
 - No hay complicada configuración.
-- Paquete de 2 adaptador USB OTG para palos de medios y cajas. 2 PACK USB OTG MICRO ADAPTADOR PARA STICKS DE MEDIOS, DISPOSITIVOS DE CONDUCCIÓN, TELÉFONOS, CONSOLAS DE JUEGO
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RSL7SSG/?tag=tolees-21)

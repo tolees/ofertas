@@ -28,11 +28,11 @@ Está [Goliath 50400 - Juego Rummikub Original - Clásico  Español](https://www
 
 ℹ️:
 
-- Para toda la vida, Rummikub es sinónimo de calidad: las fichas duran siempre, los colores se distinguen y no se apagan
-- Recomendado de 8 años en adelante. De 2 a 4 jugadores. Un juego familiar y divertido. No recomendado para menos de 3 años.
 - Rummikub es el auténtico, el primero y el mejor Rummikub para iniciarte o regalar a tus amigos y hacerlos fans del más divertido juego de números. ¡Solo Rummikub es el original! No te confundas con Rummy o Rummi
 - ¿Cuál es el objetivo del juego? Haz escaleras y tríos y combina los números hasta que te quedes sin fichas, si consigues ser el primero ¡Eres el ganador!
-- Juego de números universal, se trata de un juego de mesa y estrategia que te cautivará durante horas. ¡Sin duda es el juego de números más conocido que puedes encontrar!
 - Rummikub contiene 106 fichas (8 conjuntos de fichas numeradas del 1-13 en 4 colores y 2 comodines), 4 soportes + patas de soporte y reglas del juego
+- Para toda la vida, Rummikub es sinónimo de calidad: las fichas duran siempre, los colores se distinguen y no se apagan
+- Juego de números universal, se trata de un juego de mesa y estrategia que te cautivará durante horas. ¡Sin duda es el juego de números más conocido que puedes encontrar!
+- Recomendado de 8 años en adelante. De 2 a 4 jugadores. Un juego familiar y divertido. No recomendado para menos de 3 años.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004APWJJ6/?tag=tolees-21)
