@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Serena Sandal Women  Sandalias de  al 47.25 % de rebaja'
-date: 2021-04-25 10:51:05
+date: 2021-04-29 12:46:39
 image: 'https://m.media-amazon.com/images/I/31srFDK8cbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Crocs Serena Sandal Women  Sandalias de Punta Descubierta para Mujer  Ne
 
 🔎:
 
-- Material exterior: Caucho
 - Revestimiento: Sin forro
-- Cierre: Sin cordones
+- Material exterior: Caucho
 - Tipo de tacón: Plano
+- Cierre: Sin cordones
 - Material de la suela: EVA
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CN8YKX9/?tag=tolees-21)

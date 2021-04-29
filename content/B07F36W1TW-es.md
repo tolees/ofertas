@@ -29,9 +29,9 @@ Está [Pipilo Press - Libro de recetas en blanco «Our Family Recipes»  16 5 x 
 ℹ️:
 
 - Medidas: El cuaderno mide 16,5 x 20,8 cm y está hecho de cartulina, con laminado mate.
-- Fácil organización: Las páginas indican las categorías de alimentos, para encontrar y localizar fácilmente las recetas en diferentes secciones.
-- Decorativo e informativo: Las páginas están impresas e incluyen espacio para que anotes todos los detalles: ingredientes, raciones, tiempo de preparación, etc.
 - Con bolsillo: Guarda las recetas que ya tengas escritas en un bolsillo en la parte posterior del libro, para que las conserves como recuerdo.
+- Decorativo e informativo: Las páginas están impresas e incluyen espacio para que anotes todos los detalles: ingredientes, raciones, tiempo de preparación, etc.
 - Bonito diario de recetas familiares: Las páginas, decoradas, están en blanco para que puedas llenarlas con tus preciadas recetas familiares y conservarlas durante años.
+- Fácil organización: Las páginas indican las categorías de alimentos, para encontrar y localizar fácilmente las recetas en diferentes secciones.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F36W1TW/?tag=tolees-21)

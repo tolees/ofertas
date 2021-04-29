@@ -28,8 +28,8 @@ En este momento está [Compo 2061802011 Aceite Mineral 250ml  15x7x7 cm](https:/
 
 🔎:
 
-- Cantidad 250 ml
 - Producto autorizado para su uso en agricultura ecológica
+- Cantidad 250 ml
 - Protege su planta de cochinillas, pulgón, araña roja, mosca blanca
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XPLN6M8/?tag=tolees-21)
