@@ -29,8 +29,8 @@ Tienes [Hurley M One&Only Icon L/S  Negro  XL](https://www.amazon.es/dp/B08BKLDC
 🔎:
 
 - Tejido de jersey 150 g.
-- Etiqueta con el logotipo de Hurley.
 - 100 % Algodón.
+- Etiqueta con el logotipo de Hurley.
 - Estampado suave al tacto.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BKLDC9V/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Hama Star 05 - Trípode para cámaras foto/video  106.5 cm  aluminio  ca
 
 ℹ️:
 
-- Incluye bolsa de transporte
-- Viene con rótula 3D
-- Tipo de articulo: trípodes
-- Tiene nivel de burbuja
 - Está disponible con 4 patas/secciones
+- Tiene nivel de burbuja
+- Tipo de articulo: trípodes
+- Viene con rótula 3D
+- Incluye bolsa de transporte
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000EBFN70/?tag=tolees-21)
