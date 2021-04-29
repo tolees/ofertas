@@ -28,9 +28,9 @@ Tienes [NYX PROFESSIONAL MAKEUP - Nyx - Brillo de labios suede cream professiona
 
 ℹ️:
 
-- Esta barra de labios líquida a prueba de agua es apta para uso diario
-- Brillo de labios mate
-- Aplique el producto desde el centro de los labios hasta el contorno para un resultado óptimo
 - Infundido con aceite de aguacate y vitamina E para que se deslice suavemente y se fije en un acabado mate que no se siente seco
+- Esta barra de labios líquida a prueba de agua es apta para uso diario
+- Aplique el producto desde el centro de los labios hasta el contorno para un resultado óptimo
+- Brillo de labios mate
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B013GOZAB0/?tag=tolees-21)

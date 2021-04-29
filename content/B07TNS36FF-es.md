@@ -28,9 +28,9 @@ Está [Superdry Classic Pique S/s Polo  Azul  Indigo 17g   S para Hombre](https:
 
 ℹ️:
 
-- Tiene un tejido ligero y suave
 - Dispone de aberturas laterales
 - Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
+- Tiene un tejido ligero y suave
 - Logotipo de la marca estampado en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TNS36FF/?tag=tolees-21)
