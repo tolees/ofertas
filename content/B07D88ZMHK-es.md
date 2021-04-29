@@ -28,9 +28,9 @@ En este momento está [Ubisoft Spain - Ubisoft - Figurina Six Collection Series 
 
 🔎:
 
-- Material: vinilo
-- Incluye un código único que desbloquea un amuleto de arma dentro del juego
 - Altura: 10 cm
+- Incluye un código único que desbloquea un amuleto de arma dentro del juego
+- Material: vinilo
 - Continuación de la popular Six Collection
 - Figuras de gran detalle, inspiradas en los agentes de Rainbow Six Siege
 

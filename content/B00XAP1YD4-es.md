@@ -29,8 +29,8 @@ Tienes [Haribo - Mini Tropifrutti - Caramelos de goma - 1 kg](https://www.amazon
 🔎:
 
 - Contenido de 1 kg
-- Conservar en lugar fresco y seco
 - Deliciosas piezas en forma de mini frutas tropicales
+- Conservar en lugar fresco y seco
 - Irresistible sabor a frutas tropicales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XAP1YD4/?tag=tolees-21)
