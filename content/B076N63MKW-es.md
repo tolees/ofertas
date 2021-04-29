@@ -28,8 +28,8 @@ En este momento está [Lee Daren Vaqueros Straight  Azul  Banshee Worn Dxag   28
 
 🔎:
 
+- Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
 - Presentan 5 bolsillos
-- Vaqueros para hombre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076N63MKW/?tag=tolees-21)

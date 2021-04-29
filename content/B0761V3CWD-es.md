@@ -28,8 +28,8 @@ En este momento está [Fluocaril Pasta de Dientes - 2 unidades](https://www.amaz
 
 🔎:
 
-- Los mejores productos para tu cuidado personal a tu alcance, de la mano de los mejores proveedores por un módico precio
 - Fluocaril junior gel frutos rojos 2x75 ml
+- Los mejores productos para tu cuidado personal a tu alcance, de la mano de los mejores proveedores por un módico precio
 - Producto de alta calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0761V3CWD/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [Somfy 2401498 Termostato cableado conectado  digital Wifi  controla tu c
 🔎:
 
 - Asociacion de indice de humedad y temperatura gracias a sensor de temperatura y humedad
-- Modo de geolocalizacion para suida y bajada de temperatura según cercania de tu hogar
-- Recomendaciones personalizadas para ahorrar en la factura de energia
 - Control a distancia desde el móvi con app compatible con IO & Android
+- Recomendaciones personalizadas para ahorrar en la factura de energia
 - Compatible con TaHoma
+- Modo de geolocalizacion para suida y bajada de temperatura según cercania de tu hogar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075LY9ZMD/?tag=tolees-21)

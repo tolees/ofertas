@@ -28,10 +28,10 @@ Ahora mismo tienes [Vans SS20 Mochila Antigua SKOOL III OS Black White Check](ht
 
 🔎:
 
-- Unisex
-- Mochila
-- Old Skool III
-- VN0A3I6RHU01
 - Vans
+- Unisex
+- VN0A3I6RHU01
+- Old Skool III
+- Mochila
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QLWGKHG/?tag=tolees-21)

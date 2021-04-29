@@ -28,8 +28,8 @@ Tienes [PLAYMOBIL- Summer Fun Juego  Avión de Vacaciones  Multicolor  6081 ](ht
 
 🔎:
 
-- Juguete educativo que fomenta el juego simbólico
 - Con dos pasajeros y capitán
+- Juguete educativo que fomenta el juego simbólico
 - Desarrolla la imaginación y la creatividad
 - El tejado del avión se puede quitar
 
