@@ -28,10 +28,10 @@ Tienes [Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  Azul  Navy/White
 
 🔎:
 
-- Color: azul marino
 - MÃ¡s informaciÃ³n: Crocband II
-- Estilo: Sandalia con correa de talón
-- Material: Croslite
 - NÃºmero del fabricante: 14854-462
+- Material: Croslite
+- Estilo: Sandalia con correa de talón
+- Color: azul marino
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074KMFLRM/?tag=tolees-21)

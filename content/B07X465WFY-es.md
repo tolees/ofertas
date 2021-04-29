@@ -28,10 +28,10 @@ Tienes [Amazfit GTR 42 mm 42mm  Unisex-Adult  Normal](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Smart Notifications with customized vibrations, to get all your important information right on your wrist. Easily find your Smartphone with the Find my phone function.
-- Long-lasting Performance: 12 days battery life to avoid frequent charging and focus on your daily activities mind free.
 - Active & Fashion design, always ready for any occasion. Large variety of built-in watch faces to fit any occasion from the sporty ones to the more classy and traditional ones.
 - Premium Craftmanship: 9.2mm thin body, elegant look & comfortable to wear day & night and during sports activities. 1.2” AMOLED Display with high 326PPI resolution (retina level), Corning Gorilla glass & anti-fingerprint coating.
+- Smart Notifications with customized vibrations, to get all your important information right on your wrist. Easily find your Smartphone with the Find my phone function.
+- Long-lasting Performance: 12 days battery life to avoid frequent charging and focus on your daily activities mind free.
 - Ultimate Sportsmate: Track 12 different sports: outdoor/indoor running, walking, outdoor/indoor cycling, elliptical trainer, pool/open water swimming, mountaineering, trail running, skiing & Exercising
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07X465WFY/?tag=tolees-21)
