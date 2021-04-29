@@ -29,9 +29,9 @@ Ahora mismo tienes [Paladone Products MINI LAMPARA PACMAN TURN TO BLUE GHOST  Tu
 🔎:
 
 - Altura: 10 cm
-- Diseño único e inconfundible
 - Producto con licencia oficial
-- Una gran idea de regalo para los verdaderos amantes del mundo de marvel
+- Diseño único e inconfundible
 - Alimentación por usb o tres pilas aaa (no incluidas en el producto)
+- Una gran idea de regalo para los verdaderos amantes del mundo de marvel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07M7LMDCJ/?tag=tolees-21)

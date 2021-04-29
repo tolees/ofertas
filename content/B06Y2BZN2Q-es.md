@@ -28,10 +28,10 @@ Ahora mismo tienes [Medallas de oro Juvale para nadar  paquete de 12 medallas de
 
 🔎:
 
-- Paquete de 12 medallas de oro para nadar: este juego incluye 12 medallas de oro de natación estilo olímpico.
-- Hermosamente diseñado: estas medallas de premio están hechas de aleación de zinc, intrincadamente diseñadas con bordes florales y cuentan con un nadador en medio de la competencia. Las cintas de cuello rojo, blanco y azul están hechas de poliéster.
 - Perfecto para nadadores: estas son las medallas perfectas para nadadores de todas las edades, ya sea como premio a la competencia casual para niños de la escuela primaria que acaban de aprender a nadar o un evento competitivo de la escuela secundaria.
 - Dimensiones: medallas miden 5 cm de diámetro. La cinta para el cuello mide 76 cm de largo.
 - SÍMBOLO DE LOGROS: Recompensa a tus ganadores con el símbolo del éxito y el logro.
+- Hermosamente diseñado: estas medallas de premio están hechas de aleación de zinc, intrincadamente diseñadas con bordes florales y cuentan con un nadador en medio de la competencia. Las cintas de cuello rojo, blanco y azul están hechas de poliéster.
+- Paquete de 12 medallas de oro para nadar: este juego incluye 12 medallas de oro de natación estilo olímpico.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06Y2BZN2Q/?tag=tolees-21)
