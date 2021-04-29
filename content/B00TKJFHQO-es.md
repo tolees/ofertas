@@ -28,10 +28,10 @@ Tienes [NYX Professional Makeup Stick de contouring Wonder Stick  Dos lados  Con
 
 ℹ️:
 
-- Combinaciones de colores muy pigmentados, Cremosidad extra para extenderlo y difuminarlo con facilidad, adecuado para principiantes en el contouring
 - Fórmula cremosa que no se agrieta ni apelmaza, Envase compacto y fácil de transportar para retocar sobre la marcha, Fórmula vegana
+- Cuentagotas incluido para aplicar la cantidad justa de producto, Utiliza una esponja o brocha de maquillaje y extiende sobre la piel dando toquecitos, Añade más cantidad para aumentar la cobertura
 - Stick de maquillaje con dos lados de contouring e iluminador, Adecuada para acentuar tus mejores rasgos
 - Contenido: 1x NYX Professional Makeup Stick de contouring Wonder Stick, Peso: 8 g, Tono: Light
-- Cuentagotas incluido para aplicar la cantidad justa de producto, Utiliza una esponja o brocha de maquillaje y extiende sobre la piel dando toquecitos, Añade más cantidad para aumentar la cobertura
+- Combinaciones de colores muy pigmentados, Cremosidad extra para extenderlo y difuminarlo con facilidad, adecuado para principiantes en el contouring
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TKJFHQO/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [NYX Professional Makeup Base de Maquillaje Born to Glow Radi
 
 🔎:
 
-- Disponible en 20 tonos, que van desde tonos pálidos hasta los más oscuros con matices neutros, cálidos y fríos
-- Formato de tubo para ser aplicado con el dedo o brocha, Fijación con polvo para aumentar el poder de permanencia, Complementa otros productos Born to Glow
-- Contenido: 1x NYX Professional Makeup Base de Maquillaje Natural Born to Glow Radiant Foundation en Beige, 30 ml
 - Base de maquillaje natural líquida, Efecto radiante, Resultado suave, uniforme, sutil y brillante para una tez natural y joven
+- Disponible en 20 tonos, que van desde tonos pálidos hasta los más oscuros con matices neutros, cálidos y fríos
+- Contenido: 1x NYX Professional Makeup Base de Maquillaje Natural Born to Glow Radiant Foundation en Beige, 30 ml
+- Formato de tubo para ser aplicado con el dedo o brocha, Fijación con polvo para aumentar el poder de permanencia, Complementa otros productos Born to Glow
 - Cobertura media modulable, Cremosa fórmula vegana con acabado resplandeciente, óptimo para pieles normales a secas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SFCCTXN/?tag=tolees-21)
