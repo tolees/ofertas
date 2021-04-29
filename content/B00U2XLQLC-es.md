@@ -28,8 +28,8 @@ Ahora mismo tienes [Sangean MMR-88 - Radio con Bateria Recargable  Amarillo](htt
 
 🔎:
 
+- Linterna led - usb
 - Radio con bateria recargable
 - Dinamo - solar
-- Linterna led - usb
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00U2XLQLC/?tag=tolees-21)
