@@ -28,10 +28,10 @@ Tienes [AICase Funda Impermeable Samsung Galaxy Note10+ Plus 5G  [Anti-rasguños
 
 🔎:
 
-- Tenga en cuenta que esta funda impermeable NO PUEDE admitir el control de volumen, el interruptor de encendido / apagado está completamente cerrado, el puerto de carga está disponible
-- 【Impermeable y Sumergible】IP68 Estándar Impermeable, sumergible a más de 2M durante 1 hora. Protección perfecta para cualquier actividad subacuática, deportes al aire libre y uso diario (soporte para tomar fotos y grabar videos en el agua).
-- Diseño transparente: La caja protectora transparente transparente bady revela y realza el color original.
 - 【Antigolpes y Anti-caídas】Premium 3 capas Carcasa proporciona la máxima protección para Galaxy s10 plus, soportando golpes y caídas de 6,6 pies (2 m) de altura, resistente para adaptarse a todos los malos entornos.
+- Tenga en cuenta que esta funda impermeable NO PUEDE admitir el control de volumen, el interruptor de encendido / apagado está completamente cerrado, el puerto de carga está disponible
+- Diseño transparente: La caja protectora transparente transparente bady revela y realza el color original.
 - Soporte de Carga Inalámbrica: Esta cubierta Samsung Galaxy Note10+ Plus 5G no bloqueará la señal inalámbrica, no es necesario que retire el estuche, lo que brinda una gran comodidad para su uso diario, es compatible con la mayoría de los cargadores inalámbricos.
+- 【Impermeable y Sumergible】IP68 Estándar Impermeable, sumergible a más de 2M durante 1 hora. Protección perfecta para cualquier actividad subacuática, deportes al aire libre y uso diario (soporte para tomar fotos y grabar videos en el agua).
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VYLL9DP/?tag=tolees-21)

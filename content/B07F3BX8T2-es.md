@@ -29,8 +29,8 @@ Ahora mismo tienes [Guess Reloj Analógico para Hombre de Cuarzo con Correa en C
 🔎:
 
 - Movimiento: Cuarzo, Display: Analógico
-- Material Caja: Acero, Color: Dorado
 - Tamaño: 44MM
+- Material Caja: Acero, Color: Dorado
 - GUESS WATCHES GENTS IMPRINT
 - Material Correa: Piel, Color: Negro
 

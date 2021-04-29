@@ -29,9 +29,9 @@ Está [Bolero Bebida Instantánea sin Azúcar  Sabor Limón - Paquete de 12 x 9 
 ℹ️:
 
 - Bebida instantánea en polvo sin azúcar y con vitamina C. Baja en calorías y en carbohidratos
+- Edulcorado con Stevia
 - Disolver cada sobre en 1.5 L de agua
 - Sin conservantes artificiales. Saborizantes y colorantes de origen natural
 - Alérgenos: sin gluten, sin lactosa, sin huevo, sin frutos secos
-- Edulcorado con Stevia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B014VV26JQ/?tag=tolees-21)
