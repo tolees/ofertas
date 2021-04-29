@@ -28,10 +28,10 @@ En este momento está [Juvale - Cestas Nido - 5 Piezas de Cestas de Mimbre en gr
 
 🔎:
 
-- DIMENSIONES: La grande - 41,9 cm x 32,4 cm x 14,6 cm. Las medianas - 27,9 cm x 17,8 cm x 11,4 cm. Las pequeñas - 22,9 cm x 14 cm x8,9 cm
-- FUNCIONALIDAD DEL NIDO: Cada cesta se apila perfectamente dentro de otra para minimizar y ahorrar espacio cuando no se usan
 - FORRO DE TELA: Las cestas están forradas con una tela ligera de color gris claro que van a juego con la mayoría de estilos de decoración moderna del hogar
 - UTILIDAD Y ALMACENAMIENTO: Estas cestas son ideales por su utilidad y almacenamiento, tienen un toque ideal para cualquier habitación y la variedad de tamaños hace que este juego sea muy versátil y práctico
+- FUNCIONALIDAD DEL NIDO: Cada cesta se apila perfectamente dentro de otra para minimizar y ahorrar espacio cuando no se usan
 - LIMPIEZA: Se recomienda limpiar a mano con una toalla húmeda para asegurar su durabilidad
+- DIMENSIONES: La grande - 41,9 cm x 32,4 cm x 14,6 cm. Las medianas - 27,9 cm x 17,8 cm x 11,4 cm. Las pequeñas - 22,9 cm x 14 cm x8,9 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LYC9CK8/?tag=tolees-21)
