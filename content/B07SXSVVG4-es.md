@@ -28,8 +28,8 @@ Tienes [Geox D Pontoise D  Zapatillas Mujer  Beige  Sand/Lt Gold C5258   41 EU](
 
 🔎:
 
-- Material interior: malla
-- Suela: sintética
 - Material exterior: piel lisa
+- Suela: sintética
+- Material interior: malla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SXSVVG4/?tag=tolees-21)
