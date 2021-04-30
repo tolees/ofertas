@@ -28,10 +28,10 @@ Ahora mismo tienes [Diesel Reloj Analogico para Hombre de Cuarzo con Correa en P
 
 🔎:
 
-- Se presenta en caja de regalo Diesel
-- Resistente al agua hasta 100 m: apto para bañarse, nadar, y practicar esnórquel y buceo en aguas poco profundas
 - Caja redonda de acero inoxidable plateado con esfera en color negro
 - Caja de 45 mm, correa de 30 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica de tres agujas y fecha
 - Correa de piel negra
+- Se presenta en caja de regalo Diesel
+- Resistente al agua hasta 100 m: apto para bañarse, nadar, y practicar esnórquel y buceo en aguas poco profundas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YLSGFWH/?tag=tolees-21)

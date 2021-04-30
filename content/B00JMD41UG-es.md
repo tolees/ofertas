@@ -29,7 +29,7 @@ Está [Oxford 100101228 - Libreta  48 hojas  A4  cuadrícula 4 x 4 mm  con marge
 ℹ️:
 
 - Papel cuadrícula de 4 x 4 mm
-- Incluye 48 hojas A4
 - Densidad de e 90 g/m2
+- Incluye 48 hojas A4
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00JMD41UG/?tag=tolees-21)

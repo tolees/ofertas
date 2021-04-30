@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Gran Turismo Sport Spec II al 40.01 % de rebaja'
-date: 2021-04-28 11:13:18
+date: 2021-04-30 18:18:31
 image: 'https://m.media-amazon.com/images/I/51q5qwDkCyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07YWGWNJ4/?tag=tolees-21'
 descuento: '40.01'
-average: '21.4668965517241'
+average: '21.351'
 ---
 
 Tienes [Sony - Gran Turismo Sport Spec II](https://www.amazon.es/dp/B07YWGWNJ4/?tag=tolees-21) con precio final de  17.99 EUR (original: 29.99 EUR) (40.01 %  de rebaja) aqui!
@@ -29,7 +29,7 @@ Tienes [Sony - Gran Turismo Sport Spec II](https://www.amazon.es/dp/B07YWGWNJ4/?
 🔎:
 
 - Juego de acción
-- Es divertido
 - Es para PS4
+- Es divertido
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YWGWNJ4/?tag=tolees-21)

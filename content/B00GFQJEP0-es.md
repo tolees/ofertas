@@ -28,14 +28,14 @@ Tienes [Bosch Professional 2609256C65 Hoja de Sierra de Inmersión](https://www.
 
 ℹ️:
 
+- Adecuado para todas las máquinas Starlock: Bosch GOP 12V-28 Professional PMF 220 CE PMF 250 CES), StarlockPlus (Bosch GOP 30-28 GOP 40-30 GOP 18V-28 Professional PMF 350 CES
 - Corte de acero inoxidable (por ejemplo, cubierta frontal de la cocina)
 - AIZ 32 AT
-- Máquinas OIS GOP y PMF de Bosch Fein Multimaster y Multitalent AEG Einhell Hitachi Makita Metabo Milwaukee Ryobi Skil, y otras
-- Cortes de inmersión en materiales muy abrasivos (por ejemplo, fibra de vidrio, placas de cartón yeso, tableros de fibra ligados con cemento, y otras)
-- Longitud de la hoja 40 mm, ancho de la hoja 32 mm
-- Corte de clavos y tornillos endurecidos
-- Adecuado para todas las máquinas Starlock: Bosch GOP 12V-28 Professional PMF 220 CE PMF 250 CES), StarlockPlus (Bosch GOP 30-28 GOP 40-30 GOP 18V-28 Professional PMF 350 CES
 - Adecuado para todas las máquinas Starlock: Fein AFMT 12 SL AFMT 12 QSL AFMM 18 QSL FMT 250 SL FMT 250 QSL FMM 350 QSL) y StarlockMax (Bosch GOP 55-36 Professional Fein AFSC 18 QSL AFSC 18 QCSL FSC 500 QSL)
+- Máquinas OIS GOP y PMF de Bosch Fein Multimaster y Multitalent AEG Einhell Hitachi Makita Metabo Milwaukee Ryobi Skil, y otras
+- Longitud de la hoja 40 mm, ancho de la hoja 32 mm
+- Cortes de inmersión en materiales muy abrasivos (por ejemplo, fibra de vidrio, placas de cartón yeso, tableros de fibra ligados con cemento, y otras)
+- Corte de clavos y tornillos endurecidos
 - El sistema de enganche Starlock te permite cambiar la hoja rápidamente en 3 segundos, sin tener que tocarla
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GFQJEP0/?tag=tolees-21)

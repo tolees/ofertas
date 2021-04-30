@@ -28,7 +28,7 @@ Ahora mismo tienes [adidas TIRO19 WOV SHO Pantalón Corto  Hombre  Azul  Dark Bl
 
 🔎:
 
-- Cintura elástica
 - Regular fit
+- Cintura elástica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K7HXLDM/?tag=tolees-21)

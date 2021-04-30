@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Science4you - Fábrica de Perfumes al 50.03 % de rebaja'
-date: 2021-04-25 13:27:37
-image: 'https://m.media-amazon.com/images/I/51UFQT25HNL._SL500_._SL400_.jpg'
+date: 2021-04-30 18:14:30
+image: 'https://m.media-amazon.com/images/I/51SG5ns147S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,13 +24,13 @@ average: '9.99'
 
 Tienes [Science4you - Fábrica de Perfumes](https://www.amazon.es/dp/B00HAOC9HQ/?tag=tolees-21) con precio final de  9.99 EUR (original: 19.99 EUR) (50.03 %  de rebaja) aqui!
 
-[![Science4you - Fábrica de Perfumes](https://m.media-amazon.com/images/I/51UFQT25HNL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00HAOC9HQ/?tag=tolees-21)
+[![Science4you - Fábrica de Perfumes](https://m.media-amazon.com/images/I/51SG5ns147S._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00HAOC9HQ/?tag=tolees-21)
 
 🔎:
 
 - Juguete educativo con 13 experimentos para producir variados perfumes, sales de baño, un ambientador.
+- Edad 8+
 - Incluye libro educativo de 36 páginas
 - Regalo de más de 65€ en entradas para Museos de Ciencia
-- Edad 8+
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HAOC9HQ/?tag=tolees-21)
