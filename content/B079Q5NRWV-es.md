@@ -28,10 +28,10 @@ Tienes [Finca La Estacada Vino 12 Meses - 750 ml](https://www.amazon.es/dp/B079Q
 
 ℹ️:
 
+- DO Ucles
 - Paso en boca agradable y sabroso
 - Maridar con carnes a la brasa y guisos de caza menor
-- DO Ucles
-- Color rojo amoratado
 - Crianza tempranillo
+- Color rojo amoratado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079Q5NRWV/?tag=tolees-21)

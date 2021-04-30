@@ -30,8 +30,8 @@ Tienes [HARRY POTTER- Marcapáginas Chibi  Multicolor  One Size  Carat Shop HPBM
 
 - Color: plateado.
 - Colgante de 2,2 x 1,9 cm.
-- Colgante de Harry Potter Chibi.
 - Marcapáginas oficial de Harry Potter.
+- Colgante de Harry Potter Chibi.
 - Longitud total: 14 cm.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B119HTG/?tag=tolees-21)
