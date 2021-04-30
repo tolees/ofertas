@@ -28,10 +28,10 @@ Tienes [Bosch Professional Set mixto de 15 brocas para metal  madera y piedra  p
 
 ℹ️:
 
+- Maletín de plástico robusto bien organizado
+- Compatible con todos los taladros con vástago de inserción cilíndrica de todas las marcas
+- Brocas de metal duro estándar para el mecanizado de metal, madera y piedra
 - Set de brocas para un mecanizado profesional de metal, madera y piedra
 - 1 broca de cada Ø 3/4/5/6/8 mm
-- Compatible con todos los taladros con vástago de inserción cilíndrica de todas las marcas
-- Maletín de plástico robusto bien organizado
-- Brocas de metal duro estándar para el mecanizado de metal, madera y piedra
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003TWOOI0/?tag=tolees-21)
