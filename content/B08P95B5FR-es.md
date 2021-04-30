@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 45.24 % en Samsung EP-TA800NBEGEU - Cargador de Par'
-date: 2021-04-24 06:00:52
+title: 'Descuento del 44.41 % en Samsung EP-TA800NBEGEU - Cargador de Par'
+date: 2021-04-30 15:26:16
 image: 'https://m.media-amazon.com/images/I/310mnqdMlcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,25 +12,25 @@ tags: [ 'Accesorios para móviles','Cargadores de móvil de red','Cargadores par
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0
-comparePrice: 18.26 EUR
+comparePrice: 17.99 EUR
 prodname: 'Samsung EP-TA800NBEGEU - Cargador de Pared 25W USB-C  Color Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08P95B5FR/?tag=tolees-21'
-descuento: '45.24'
-average: '18.4683529411764'
+descuento: '44.41'
+average: '18.3698837209302'
 ---
 
-Tienes [Samsung EP-TA800NBEGEU - Cargador de Pared 25W USB-C  Color Negro](https://www.amazon.es/dp/B08P95B5FR/?tag=tolees-21) con un 45.24 % de descuento con precio de oferta de 10.0 EUR (original: 18.26 EUR) en el siguiente enlace!
+Tienes [Samsung EP-TA800NBEGEU - Cargador de Pared 25W USB-C  Color Negro](https://www.amazon.es/dp/B08P95B5FR/?tag=tolees-21) con un 44.41 % de descuento con precio de oferta de 10.0 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![Samsung EP-TA800NBEGEU - Cargador de Par](https://m.media-amazon.com/images/I/310mnqdMlcL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08P95B5FR/?tag=tolees-21)
 
 ℹ️:
 
-- Adaptador de viaje AFC sin cable
 - Compatible con cables USB-C
-- Desde tapones para los oídos hasta computadoras portátiles, casi cualquier dispositivo se puede cargar sin problemas
+- Adaptador de viaje AFC sin cable
 - Potencia: hasta 25 W
+- Desde tapones para los oídos hasta computadoras portátiles, casi cualquier dispositivo se puede cargar sin problemas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08P95B5FR/?tag=tolees-21)

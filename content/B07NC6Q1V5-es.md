@@ -29,8 +29,8 @@ Tienes [D-Link DCH-S161 - Detector de agua  Batería  AA  Alcalino  68 mm  31 mm
 ℹ️:
 
 - Cable flexible de 1.8 m, sonda compacta
-- Detecta agua y fugas y funciona con la red Wi-Fi de su hogar
 - Alerta de teléfono y sirena de 90dB cuando se detecta agua
 - Sensor alimentado por pilas AA
+- Detecta agua y fugas y funciona con la red Wi-Fi de su hogar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NC6Q1V5/?tag=tolees-21)
