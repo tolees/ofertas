@@ -28,10 +28,10 @@ En este momento está [Ubisoft Spain - Ubisoft - Figurina Six Collection Series 
 
 🔎:
 
+- Figuras de gran detalle, inspiradas en los agentes de Rainbow Six Siege
 - Incluye un código único que desbloquea un amuleto de arma dentro del juego
 - Continuación de la popular Six Collection
-- Figuras de gran detalle, inspiradas en los agentes de Rainbow Six Siege
-- Material: vinilo
 - Altura: 10 cm
+- Material: vinilo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D8D6Y3Z/?tag=tolees-21)

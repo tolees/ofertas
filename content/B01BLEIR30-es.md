@@ -28,9 +28,9 @@ Tienes [Revlon Professional UniqOne Coco Tratamiento en Spray para Cabello 150 m
 
 ℹ️:
 
+- Protección térmica
 - Efecto desenredante
 - Repara el cabello seco y dañado
-- Protección térmica
 - Facilita el peinado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BLEIR30/?tag=tolees-21)
