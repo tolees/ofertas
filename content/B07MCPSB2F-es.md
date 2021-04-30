@@ -28,8 +28,8 @@ Ahora mismo tienes [Disney Traditions  Figura de Ding Dong y la Señora Potts de
 
 🔎:
 
+- De resina
 - Figura de Don y la Señora Potts
 - Ideal como regalo
-- De resina
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MCPSB2F/?tag=tolees-21)

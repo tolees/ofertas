@@ -28,8 +28,8 @@ Tienes [adidas PERSISTAR 180 M Gafas de Natación  Unisex Adulto  Silver Met./Br
 
 🔎:
 
-- Elastic waistband
-- Climalite anti-humidity fabric
 - Slim fit
+- Climalite anti-humidity fabric
+- Elastic waistband
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071ZL4XVW/?tag=tolees-21)

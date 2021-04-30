@@ -28,10 +28,10 @@ En este momento está [Keenstone Linterna LED Linterna Recargable 2Pcs  Linterna
 
 🔎:
 
-- 🔦【El paquete incluye:】 2x LED Tactical Flashlight, batería recargable 4x18650, cargador USB, cable micro USB, manual del usuario.
+- 🔦【Fácil de transportar y usar】 Equipada con una batería recargable 4 × 18650 y un clip de bolsillo, una batería de 2600 mAh ofrece 8 horas de luz potente. Se puede cargar fácilmente mediante una fuente de alimentación con un USB Y puede encenderse 6 horas con modos altos o 16 horas con modos SOS sin sobrecalentamiento.
 - 🔦【Linterna de cinco modos y Zoom IN/OUT】Las antorchas LED recargables de 2 paquetes tienen 5 modos con diseño con zoom: alto, medio, bajo, estroboscópico y SOS (emergencia), que permite cambiar fácilmente de un haz estrecho a una cobertura generalizada para obtener reflectores o reflectores.
 - 🔦【Duradero y de alta calidad】La linterna táctica está construida con aleaciones de aluminio de grado militar con un acabado anodizado duro, resistente a arañazos, abrasiones y corrosión. Diseño de grado IPX4, se puede usar en días lluviosos, casi adecuado para cualquier escenario de uso.
-- 🔦【Fácil de transportar y usar】 Equipada con una batería recargable 4 × 18650 y un clip de bolsillo, una batería de 2600 mAh ofrece 8 horas de luz potente. Se puede cargar fácilmente mediante una fuente de alimentación con un USB Y puede encenderse 6 horas con modos altos o 16 horas con modos SOS sin sobrecalentamiento.
 - 🔦【 Linterna Recargable súper brillante de 1500 lúmenes】La linterna táctica tiene un alto brillo de 1500 lúmenes con un haz máximo de 500 (1640 pies) metros. Lo mejor para actividades al aire libre, camping, senderismo, ciclismo, paseos de perros, pesca y hogar.
+- 🔦【El paquete incluye:】 2x LED Tactical Flashlight, batería recargable 4x18650, cargador USB, cable micro USB, manual del usuario.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07R1Y7W3X/?tag=tolees-21)

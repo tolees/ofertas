@@ -28,10 +28,10 @@ Tienes [Dunlop Protective Footwear - Dunlop Bicolour Zapato Cerrado Professional
 
 ℹ️:
 
-- Zapato completamente cerrado
-- Suela de categoría SRA para un agarre excelente
-- Resistente a grasas, desinfectantes y varios productos químicos
 - Certificadas de acuerdo con la norma EN más reciente (EN ISO 20347:2012 OB FO CI SRA)
+- Zapato completamente cerrado
+- Resistente a grasas, desinfectantes y varios productos químicos
+- Suela de categoría SRA para un agarre excelente
 - Botas de agua fáciles de poner y sacar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DYPDOVU/?tag=tolees-21)

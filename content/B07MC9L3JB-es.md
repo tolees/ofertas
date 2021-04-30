@@ -28,8 +28,8 @@ En este momento está [Paladone - Lámpara Icone Gremlin](https://www.amazon.es/
 
 🔎:
 
-- Alta calidad
 - Embalaje cuidado
+- Alta calidad
 - Producto con licencia oficial
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MC9L3JB/?tag=tolees-21)
