@@ -28,10 +28,10 @@ Está [Dibaq Sense Grain Free Salvaje  Ciervo y Jabalí . Comida húmeda para pe
 
 ℹ️:
 
-- Sin cereales.
-- Sin gluten.
-- Para perros adultos de todas las razas.
-- 100% natural
 - Elaborado con materias primas 100% naturales.
+- Sin gluten.
+- 100% natural
+- Sin cereales.
+- Para perros adultos de todas las razas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RY18WY6/?tag=tolees-21)
