@@ -28,10 +28,10 @@ Tienes [Schwarzkopf Gliss - GLISS - Champú Ultimate Oil Elixir - 6uds de 250ml 
 
 🔎:
 
-- Proporciona nutrición intensa del cabello y hasta un 90% menos de rotura en combinación con el Spray Acondicionador Express Ultimate Oil Elixir
 - Las fórmulas de GLISS, con activos capilares + tesoros de la naturaleza reparan los daños existentes y mejoran visiblemente la calidad del cabello
 - El champú Ultimate Oil Elixir de Gliss es adecuado para cabello castigado o quebradizo; 89% de ingredientes de origen natural incluyendo agua
-- Gama nutrición, con aminoácido + aceite de argán; reconstruye la estructura del cabello reduciendo su rotura notoriamente
 - Aplicación: masajear sobre el cabello húmedo; aclarar con abundante agua; usar regularmente
+- Gama nutrición, con aminoácido + aceite de argán; reconstruye la estructura del cabello reduciendo su rotura notoriamente
+- Proporciona nutrición intensa del cabello y hasta un 90% menos de rotura en combinación con el Spray Acondicionador Express Ultimate Oil Elixir
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NRF19MV/?tag=tolees-21)

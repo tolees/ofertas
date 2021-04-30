@@ -28,9 +28,9 @@ Tienes [Esteve - After Bite Original](https://www.amazon.es/dp/B00TTWZCXK/?tag=t
 
 ℹ️:
 
-- Eficacia demostrada científicamente
-- Apto para niños a partir de 2 años
 - Alivio inmediato del picor ocasionado insectos, medusas y plantas
 - Fácil aplicación con su lápiz roll on
+- Eficacia demostrada científicamente
+- Apto para niños a partir de 2 años
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TTWZCXK/?tag=tolees-21)

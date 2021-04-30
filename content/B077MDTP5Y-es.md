@@ -28,8 +28,8 @@ Tienes [PUMA Basket Heart Patent Wn S  Zapatillas Mujer  Beis  Peach Beige/Peach
 
 ℹ️:
 
-- Material exterior: sintético
-- Cierre: cordones
 - Tipo de tacón: plano
+- Cierre: cordones
+- Material exterior: sintético
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B077MDTP5Y/?tag=tolees-21)
