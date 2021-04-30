@@ -28,10 +28,10 @@ Tienes [StarTech.com Adaptador Multipuertos USB-C - Docking Station Portátil US
 
 🔎:
 
+- ADAPTADOR MULTIPUERTOS USB-C: Dock USB C para viajes, con salida de vídeo HDMI 4K a 30Hz (UHD). En aluminio color gris espacial que hace juego con los ordenadores portátiles tipo Macbook Air, MacBook Pro, Dell XPS y HP EliteBook
 - ENTREGA DE ALIMENTACIÓN DE 60W PASS THROUGH: Este adaptador multipuertos USB Tipo C le permite utilizar el adaptador de alimentación USB-C de su ordenador portátil para la carga simultánea del ordenador (hasta 48W) y la alimentación del replicador (12W)
 - COMPATIBILIDAD AMPLIA Y CONFIGURACIÓN FÁCIL: Este adaptador USB 3.1 Gen 1 todo en uno ofrece instalación automática de los controladores y es compatible con Windows, macOS, Chrome OS y Android. Ideal para viajes de negocios y para el trabajo en casa
-- CONCENTRADOR USB-C 6 EN 1: Este adaptador multipuertos USB-C incluye HDMI de 4K (UHD), Ethernet Gigabit, 2 puertos USB-A (5Gbps) y un lector de tarjetas SD / SDHC / SDXC
 - AMPLIA COMPATIBILIDAD CON DISPOSITIVOS: Mini replicador de puertos USB-C para ordenadores portátiles, Ultrabooks, Chromebooks, tablets y smartphones equipados con Thunderbolt 3 (TB3) y USB-C. Compatible con MacBook, HP, Dell, Lenovo y Surface
-- ADAPTADOR MULTIPUERTOS USB-C: Dock USB C para viajes, con salida de vídeo HDMI 4K a 30Hz (UHD). En aluminio color gris espacial que hace juego con los ordenadores portátiles tipo Macbook Air, MacBook Pro, Dell XPS y HP EliteBook
+- CONCENTRADOR USB-C 6 EN 1: Este adaptador multipuertos USB-C incluye HDMI de 4K (UHD), Ethernet Gigabit, 2 puertos USB-A (5Gbps) y un lector de tarjetas SD / SDHC / SDXC
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073WH4JF9/?tag=tolees-21)

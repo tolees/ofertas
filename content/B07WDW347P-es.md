@@ -28,10 +28,10 @@ Ahora mismo tienes [OCYCLONE Funda iPhone 11 Pro MAX 6.5"  Glitter Dimante Ultra
 
 🔎:
 
-- Ultra slim soft TPU fundas para iPhone 11 Pro Max, cuadro completo la protección contra arañazos podría afectar la fuerza de absorción cuando caiga su iPhone 11 Pro Max.
-- Purpurina funda iPhone 11 Pro Max con un diseño elegante de lujo,el borde de la caja con diamantes de imitación de diamante y los destellos de la parte posterior son un inserto, hacen que su teléfono sea brillante y encantador, se adapta a niñas y mujer.
-- Compatible con iPhone 11 Pro Max 6.5 pulgadas en 2019.
-- Servicio after-sales: Cualquier defectuoso o defecto podría ser intercambiado o reembolso en el plazo de 24 horas, los pls nos envían el email.
 - iPhone 11 Pro Max funda movil con glitter dimante anillo de teléfono, permita el uso envidiable de la comodidad de manos libres o su iPhone 11 Pro Max cualquier ángulo.
+- Purpurina funda iPhone 11 Pro Max con un diseño elegante de lujo,el borde de la caja con diamantes de imitación de diamante y los destellos de la parte posterior son un inserto, hacen que su teléfono sea brillante y encantador, se adapta a niñas y mujer.
+- Servicio after-sales: Cualquier defectuoso o defecto podría ser intercambiado o reembolso en el plazo de 24 horas, los pls nos envían el email.
+- Ultra slim soft TPU fundas para iPhone 11 Pro Max, cuadro completo la protección contra arañazos podría afectar la fuerza de absorción cuando caiga su iPhone 11 Pro Max.
+- Compatible con iPhone 11 Pro Max 6.5 pulgadas en 2019.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WDW347P/?tag=tolees-21)

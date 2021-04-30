@@ -28,9 +28,9 @@ En este momento está [Superdry Classic Pique S/s Polo  Azul  Indigo 17g   XL pa
 
 🔎:
 
+- Dispone de aberturas laterales
+- Logotipo de la marca estampado en el pecho
 - Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
 - Tiene un tejido ligero y suave
-- Logotipo de la marca estampado en el pecho
-- Dispone de aberturas laterales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TNS38RH/?tag=tolees-21)
