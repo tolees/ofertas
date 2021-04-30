@@ -28,10 +28,10 @@ En este momento está [Beast Kingdom- DC Comics Figura Batman  Multicolor  DAH-0
 
 🔎:
 
-- Licencia oficial
 - Incluye accesorios
-- Figura articulada
 - Artículo de coleccionista
 - Incluye base
+- Licencia oficial
+- Figura articulada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073P3MLCP/?tag=tolees-21)

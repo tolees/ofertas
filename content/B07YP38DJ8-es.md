@@ -28,10 +28,10 @@ En este momento está [Paladone - Lámpara Stormtrooper  Star Wars Primera Orden
 
 🔎:
 
-- Mide unos 10 cm, con pilas de alta calidad (2 pilas AAA no incluidas)
 - Haz lo mejor para conseguir salvar el universo, con esta original luz
-- este producto está fabricado con BDP que significa que el plástico se descompone
 - Producto con licencia oficial Star Wars
+- Mide unos 10 cm, con pilas de alta calidad (2 pilas AAA no incluidas)
+- este producto está fabricado con BDP que significa que el plástico se descompone
 - Inspirada en Stormtrooper, una luz de noche que podrás coleccionar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YP38DJ8/?tag=tolees-21)
