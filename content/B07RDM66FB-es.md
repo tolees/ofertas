@@ -28,8 +28,8 @@ Está [Salomon X Reveal Women s Hiking Shoes](https://www.amazon.es/dp/B07RDM66F
 
 ℹ️:
 
-- Calzado salomon
-- Zapatillas de hiking montañismo, alpinismo y trekking mujer
 - Shoes x reveal (l40972900)
+- Zapatillas de hiking montañismo, alpinismo y trekking mujer
+- Calzado salomon
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RDM66FB/?tag=tolees-21)

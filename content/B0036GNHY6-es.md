@@ -28,7 +28,7 @@ Está [REPSOL Moto Racing 4T 10W-50 Aceite De Motor Para Moto  4l](https://www.a
 
 ℹ️:
 
-- Formulado para garantizar la máxima protección para todos los componentes del propulsor, poniendo especial énfasis en el embrague y la caja de cambios
 - 4l
+- Formulado para garantizar la máxima protección para todos los componentes del propulsor, poniendo especial énfasis en el embrague y la caja de cambios
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0036GNHY6/?tag=tolees-21)

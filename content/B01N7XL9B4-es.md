@@ -28,8 +28,8 @@ Tienes [Fini Surtido de Caramelos de Goma Cubiertos de Pica - 1000 gr](https://w
 
 🔎:
 
-- Gluten. Fabricado en una empresa, que tambien manipula derivados lacteos
 - Extractos vegetales
 - País de origen: España
+- Gluten. Fabricado en una empresa, que tambien manipula derivados lacteos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N7XL9B4/?tag=tolees-21)

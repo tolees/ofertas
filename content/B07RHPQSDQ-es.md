@@ -28,8 +28,8 @@ Ahora mismo tienes [Salomon X Reveal GTX Women s Waterproof Hiking Shoes](https:
 
 🔎:
 
-- Zapatillas de hiking montañismo, alpinismo y trekking mujer
-- Shoes x reveal gtx (l41042200)
 - Calzado salomon
+- Shoes x reveal gtx (l41042200)
+- Zapatillas de hiking montañismo, alpinismo y trekking mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RHPQSDQ/?tag=tolees-21)
