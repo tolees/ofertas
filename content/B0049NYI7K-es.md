@@ -28,10 +28,10 @@ Ahora mismo tienes [Baileys Original Irish Cream  1L](https://www.amazon.es/dp/B
 
 🔎:
 
-- Baileys es el licor de crema irlandesa más popular del mundo
 - Ha recibido más medallas que cualquiera de sus competidores
+- Baileys es el licor de crema irlandesa más popular del mundo
 - Textura aterciopelada: una combinación perfecta de suave nata y delicioso whisky
-- Disfrútelo solo, con hielo o en su café preferido
 - Con raíces en las tradiciones irlandesas, tardó cuatro años en alcanzar la perfección
+- Disfrútelo solo, con hielo o en su café preferido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0049NYI7K/?tag=tolees-21)

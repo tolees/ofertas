@@ -28,9 +28,9 @@ En este momento está [Adidas Real Madrid Temporada 2020/21 Camiseta Segunda Equ
 
 🔎:
 
-- El logo del equipo de fútbol estampado en el pecho
 - Camiseta con diseño deportivo y tejido ligero
-- Presenta cuello en V con borde acanalado
 - Presenta las rayas específicas de la marca
+- Presenta cuello en V con borde acanalado
+- El logo del equipo de fútbol estampado en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CBJGQXV/?tag=tolees-21)

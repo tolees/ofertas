@@ -28,8 +28,8 @@ En este momento está [Haribo Animaland  1 x 150 g](https://www.amazon.es/dp/B08
 
 🔎:
 
-- ¡30% MENOS DE AZÚCARES Y TAN BUENO COMO SIEMPRE!
 - Caramelos de goma y espuma de sabores frutales y divertidas formas de animales.
 - Sabores: Sandía, Tuttifruti, Fresa, Limón, Manzana y Naranja.
+- ¡30% MENOS DE AZÚCARES Y TAN BUENO COMO SIEMPRE!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WXMRXDY/?tag=tolees-21)
