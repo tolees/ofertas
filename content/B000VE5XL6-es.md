@@ -28,10 +28,10 @@ Está [Casio Collection W-800H-1AVES  Reloj Digital Unisex  Negro](https://www.a
 
 ℹ️:
 
-- Para iluminar la esfera del reloj se usa un diodo emisor de luz LED
-- Caja y correa de resina sintética, un material resistente y flexible
 - Resistente al agua hasta 10 bar / 100 metros
-- La duración de la batería es de 10 años
 - Incluye cronómetro, alarma, función de despertador y calendario automático
+- Caja y correa de resina sintética, un material resistente y flexible
+- La duración de la batería es de 10 años
+- Para iluminar la esfera del reloj se usa un diodo emisor de luz LED
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000VE5XL6/?tag=tolees-21)

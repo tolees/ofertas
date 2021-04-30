@@ -28,10 +28,10 @@ Ahora mismo tienes [Funko - POP Star Wars The Rise of Skywalker - Zori Bliss](ht
 
 🔎:
 
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- Zori bliss
 - Descúbre otras figuras de la colección disney star wars y colecciónalas todas
-- Disney star wars
 - De la colección star wars the rise of skywalker, zori bliss como figura de vinilo pop de funko
+- Disney star wars
+- Zori bliss
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QNYQKPC/?tag=tolees-21)

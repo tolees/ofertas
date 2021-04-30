@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Light Crew 3PP Calcetines  Unisex Adulto  White/White
 
 🔎:
 
-- Soft fabric
 - Targeted cushioning
+- Soft fabric
 - Pack of three pairs
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SCMVFGB/?tag=tolees-21)
