@@ -28,9 +28,9 @@ Está [Funko - Pop! Star vs. The Forces of Evil - Figura de Vinilo Ludo Avario](
 
 ℹ️:
 
+- Figura Ludo de Star contra las fuerzas del mal
 - Con una medida de 9.5 cm
 - Presentada en una caja con ventana
-- Figura Ludo de Star contra las fuerzas del mal
 - Fabricada en vinilo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07J6SQNVJ/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [adidas Lin Duffle XS Gym Bag  Unisex Adulto  Black/Black/White  NS](http
 
 ℹ️:
 
-- Small Bag
 - Durable fabric
+- Small Bag
 - Large main Compartiment
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZRG5WJJ/?tag=tolees-21)

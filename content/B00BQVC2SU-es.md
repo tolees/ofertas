@@ -28,8 +28,8 @@ Ahora mismo tienes [Female Cobeco - Cobeco Pharma Lubricante Anal - 1 unidad](ht
 
 🔎:
 
-- Trae una sensación calmante y entumecimiento
 - No pegajoso y sin látex
 - El lubricante tiene un efecto inhibitorio sobre la estimulación
+- Trae una sensación calmante y entumecimiento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BQVC2SU/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Vieta Pro Wave – Auriculares inalámbricos  Bluetooth  radio FM  micró
 
 ℹ️:
 
-- Con micrófono integrado, para que puedas atender a todas tus llamadas o simplemente puedas interactuar con el asistente virtual de tu móvil
+- Auriculares con bluetooth 4.2 para que te olvides de los cables y disfrutes de tu música con total libertad
 - Todo son ventajas, dispone de una ranura para que reproduzcas el contenido de tu micro sd
 - Destacan por incluir radio fm para que puedas disfrutar de todas tus emisoras preferidas y no tengas que gastar la batería ni los datos de tu smartphone
-- Auriculares con bluetooth 4.2 para que te olvides de los cables y disfrutes de tu música con total libertad
+- Con micrófono integrado, para que puedas atender a todas tus llamadas o simplemente puedas interactuar con el asistente virtual de tu móvil
 - la autonomía deja de ser un problema, puedes utilizarlo durante 12 horas seguidas, de todos modos, te fácil itamos un cable auxiliar para que aunque no tengas batería puedas utilizar tus auriculares sin inconvenientes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QQXP6CD/?tag=tolees-21)
