@@ -29,8 +29,8 @@ Tienes [Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidab
 🔎:
 
 - Reloj de mujer FOSSIL - Caja redonda de acero inoxidable (diám. 38 mm) con acabado pulido brillante y mate en color oro rosa - 10 ATM de resistencia a la presión del agua - Bisel con glitz
+- Correa de piel en color marrón claro con remaches en color oro rosa - Hebilla
 - Presentado en lata ilustrada de coleccionista (diferentes diseños)
 - Esfera beige de dos capas con números árabes en color oro rosa a las 2/4/6/8/10/12 y glitz en los índices - Movimiento de 3 agujas con fecha, día y modo de 24h - Agujas luminiscentes en color oro rosa - Cristal Mineral
-- Correa de piel en color marrón claro con remaches en color oro rosa - Hebilla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HVBJ6W4/?tag=tolees-21)
