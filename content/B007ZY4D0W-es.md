@@ -28,10 +28,10 @@ Tienes [Pedigree Dentastix Snack Dental para la Higiene Oral de Perros Medianos 
 
 ℹ️:
 
+- Se ha demostrado científicamente que, cuando se mastican a diario, las barritas para perro DentaStix contribuyen a reducir la acumulación de sarro.
+- La combinación de su textura especial con los ingredientes activos hace que las barritas masticables para perro Pedigree DentaStix sean tan eficaces para la limpieza dental de tu perro.
 - Los snacks de premio para perros de Pedigree tienen bajo contenido en grasa, no llevan azúcar añadido, ni tampoco colorantes ni saborizantes artificiales.
 - Hemos desarrollado nuestras barritas dentales siguiendo los consejos de expertos veterinarios y dentistas. Para cuidar de la limpieza dental de tu perro.
-- La combinación de su textura especial con los ingredientes activos hace que las barritas masticables para perro Pedigree DentaStix sean tan eficaces para la limpieza dental de tu perro.
-- Se ha demostrado científicamente que, cuando se mastican a diario, las barritas para perro DentaStix contribuyen a reducir la acumulación de sarro.
 - Higiene Oral Diaria para Perros
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B007ZY4D0W/?tag=tolees-21)

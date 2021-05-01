@@ -28,10 +28,10 @@ En este momento está [Funko Cazafantasmas Llavero Pocket Pop Stay Puft  Multico
 
 🔎:
 
+- Llavero coleccionable
+- Licencia oficial
 - Colección los cazafantasmas
 - Llavero coleccionable
 - Pocket pop
-- Licencia oficial
-- Llavero coleccionable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NSWD8M3/?tag=tolees-21)

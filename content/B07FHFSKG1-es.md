@@ -28,10 +28,10 @@ Está [American Tourister Modern Dream - Spinner S Equipaje de mano  55 cm  35 L
 
 ℹ️:
 
+- Material de policarbonato 100% con acabado mate; 2 acabados exteriores distintos
+- Su expansibilidad en los tamaños Spinner M y L ofrece volumen adicional
 - Ganadora del Red Dot Product Design Award 2018
 - Ruedas dobles con protector a juego que ofrecen un rodaje suave; cerradura TSA integrada fija de 3 dígitos en la parte superior
-- Su expansibilidad en los tamaños Spinner M y L ofrece volumen adicional
-- Material de policarbonato 100% con acabado mate; 2 acabados exteriores distintos
 - Spinner 55: 40 x 20 x 55 cm - 35 L - 2,40 kg
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FHFSKG1/?tag=tolees-21)

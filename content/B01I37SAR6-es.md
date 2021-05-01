@@ -28,8 +28,8 @@ Está [Adidas Pace Vs Aw4594  Zapatillas Hombre  Blanco  Footwear White/Core Bla
 
 ℹ️:
 
-- Ref – aw4594
 - Equipo de deportes Material; y la ropa de primera marca
 - Color: Blanco/Tamaño – 40
+- Ref – aw4594
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01I37SAR6/?tag=tolees-21)
