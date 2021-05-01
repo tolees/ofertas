@@ -28,11 +28,11 @@ Tienes [Tefal SEB 980158 Junta para Olla Exprés  Silicona  Gris  25 cm  1 Unida
 
 🔎:
 
-- Pan Seal
-- Diámetro: 250 mm; Ancho del marco: 20 mm; Profundidad: 40 mm
-- Referencia: 980158
-- Para mezclar y batir dos veces más rápido con la mitad del esfuerzo
 - Capacidad: 75 litros
+- Para mezclar y batir dos veces más rápido con la mitad del esfuerzo
 - Acero inoxidable
+- Pan Seal
+- Referencia: 980158
+- Diámetro: 250 mm; Ancho del marco: 20 mm; Profundidad: 40 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000VQR4ZC/?tag=tolees-21)
