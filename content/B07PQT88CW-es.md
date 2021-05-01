@@ -28,9 +28,9 @@ En este momento está [L OR Café Espresso Ristretto - Cápsulas de café de alu
 
 🔎:
 
-- Cápsulas compatibles con máquinas Nespresso.La marca registrada utilizada es de un tercero, no relacionada con Jacobs Douwe Egberts
 - 40 cápsulas de 5,2 g (Peso neto: 208 g) 10 paquetes = 2080g, 400 porciones en total
-- Café expreso de intensidad 11, gran intensidad y fresco aroma.
+- Cápsulas compatibles con máquinas Nespresso.La marca registrada utilizada es de un tercero, no relacionada con Jacobs Douwe Egberts
 - L’OR RISTRETTO tiene una personalidad fresca y un potente aroma especiado.
+- Café expreso de intensidad 11, gran intensidad y fresco aroma.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PQT88CW/?tag=tolees-21)
