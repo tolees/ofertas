@@ -28,10 +28,10 @@ Ahora mismo tienes [Razer Seiren X - micrófono de condensador USB para transmis
 
 🔎:
 
-- Resistente a los impactos: Cuando las cosas se ponen emocionantes, es normal que haya golpes e impactos, cuando eso ocurra, el soporte de suspensión de impactos integrado amortiguará las vibraciones para evitar que haya anomalías sonoras en tu emisión
-- Poco tamaño, Gran calidad: La mayoría de los micrófonos profesionales suenan bien, pero suelen ser demasiado invasivos y voluminosos para mesas con espacio limitado, gracias a su diseño fino y compacto, el micrófono Razer Seirēn X ofrece una experiencia de emisión de audio de calidad superior con la optima discreción posible
 - Micrófono condensador: Al tratarse de un micrófono condensador, Razer Seirēn X cuenta con una frecuencia y respuesta temporal ampliadas, que capturan rápido diferentes niveles de sonido
 - Reduce el ruido: El sonido se graba en un ángulo más estrecho gracias a un patrón de captación supercardioide, así se elimina el ruido ambiental no deseado y tu voz llega gran y clara a tu público, para que no se pierdan ni un mensaje
+- Poco tamaño, Gran calidad: La mayoría de los micrófonos profesionales suenan bien, pero suelen ser demasiado invasivos y voluminosos para mesas con espacio limitado, gracias a su diseño fino y compacto, el micrófono Razer Seirēn X ofrece una experiencia de emisión de audio de calidad superior con la optima discreción posible
+- Resistente a los impactos: Cuando las cosas se ponen emocionantes, es normal que haya golpes e impactos, cuando eso ocurra, el soporte de suspensión de impactos integrado amortiguará las vibraciones para evitar que haya anomalías sonoras en tu emisión
 - Control con cero latencia: Gracias al control con cero latencia, no oirás ese efecto de eco que hace que te líes en medio del streaming
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076TQ7KKJ/?tag=tolees-21)

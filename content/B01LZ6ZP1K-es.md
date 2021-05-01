@@ -29,9 +29,9 @@ Está [Cecotec Exprimidor Naranjas eléctrico Cecojuicer Zitrus Turbo. 90 W  Dob
 ℹ️:
 
 - Fácil de limpiar. Apto para lavavajillas.
-- Tiene ventosas para aportar estabilidad y un espacio para guardar el cable.
 - Incluye un cortador de cítricos en la tapa. Corte y exprimido de dos mitades con un solo aplique de presión.
-- Vaso extraíble de 500ml con filtro para la pulpa. Más rápido, sencillo y limpio que los exprimidores convencionales
 - Turbo-exprimidor de 90 W con doble cabezal. Exprime dos mitades de naranja a la vez.
+- Tiene ventosas para aportar estabilidad y un espacio para guardar el cable.
+- Vaso extraíble de 500ml con filtro para la pulpa. Más rápido, sencillo y limpio que los exprimidores convencionales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LZ6ZP1K/?tag=tolees-21)
