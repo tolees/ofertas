@@ -28,8 +28,8 @@ Tienes [Frigoverre J600104 - Recipiente Redondo 18cm.bajo T.Azul](https://www.am
 
 ℹ️:
 
+- Artículos de vidrio
 - Apto para el lavavajillas
 - Estilo Italiano
-- Artículos de vidrio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B008OW40LQ/?tag=tolees-21)

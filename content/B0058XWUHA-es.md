@@ -29,8 +29,8 @@ En este momento está [Michael Kors MK5491 - Reloj de pulsera](https://www.amazo
 🔎:
 
 - Presentado en estuche MICHAEL KORS
+- Reloj de mujer MICHAEL KORS - Caja redonda de acero inoxidable (diám. 39 mm) con acabado pulido en color oro rosa - 2 pulsadores en color oro rosa - 5 ATM de resistencia a la presión del agua - Bisel de acero inoxidable con dos filas de glitz en acabo pulido
 - Esfera madreperla con glitz en los índices, número árabe en color oro rosa a las 12 y bisel interior blanco - Cronógrafo con fecha y modo 24h - Agujas en color oro rosa luminiscentes - Cristal mineral
 - Brazalete de acero inoxidable con acabado pulido brillante en color oro rosa - Cierre desplegable
-- Reloj de mujer MICHAEL KORS - Caja redonda de acero inoxidable (diám. 39 mm) con acabado pulido en color oro rosa - 2 pulsadores en color oro rosa - 5 ATM de resistencia a la presión del agua - Bisel de acero inoxidable con dos filas de glitz en acabo pulido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0058XWUHA/?tag=tolees-21)
