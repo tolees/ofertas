@@ -28,8 +28,8 @@ Tienes [adidas Entrenamiento Core 19 Pantalónes Cortos de Fútbol con Bolsillos
 
 ℹ️:
 
-- Elastic waistband with lanyard
 - Climalite anti-humidity fabric
 - Regular fit
+- Elastic waistband with lanyard
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B076HQQT75/?tag=tolees-21)

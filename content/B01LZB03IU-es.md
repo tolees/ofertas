@@ -28,10 +28,10 @@ En este momento está [AGUSTINA GUERRERO La Volátil Carcasa para Mac - Transpar
 
 🔎:
 
-- Funda protectora para ordenador portátil con un diseño divertido de La Volátil
 - Accesorio anti arañazos y anti salpicaduras para tu laptop
+- Funda protectora para ordenador portátil con un diseño divertido de La Volátil
+- En la carcasa vemos a una chica que a la no le puedes hablar sin haberse tomando antes su café mañanero, ¡Lo que nos pasa a todos!
 - Case rígida y resistente, que encaja a la perfección con el Macbook Pro Retina
 - Gadget fácilmente extraíble que permite una buena ventilación y mantiene todos los puertos y funciones accesibles
-- En la carcasa vemos a una chica que a la no le puedes hablar sin haberse tomando antes su café mañanero, ¡Lo que nos pasa a todos!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LZB03IU/?tag=tolees-21)

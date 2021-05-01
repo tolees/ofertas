@@ -28,13 +28,13 @@ Está [Ubisoft Spain - Figurina Six Collection Series 2 Sledge + - Figurina Six 
 
 ℹ️:
 
-- Product 2: Material: vinilo
+- Product 2: Figuras de gran detalle, inspiradas en los agentes de Rainbow Six Siege
+- Product 2: Altura: 10 cm
+- Product 1: Continuación de la popular Six Collection
 - Product 1: Altura: 10 cm
+- Product 2: Material: vinilo
 - Product 1: Figuras de gran detalle, inspiradas en los agentes de Rainbow Six Siege
 - Product 1: Material: vinilo
 - Product 2: Continuación de la popular Six Collection
-- Product 2: Altura: 10 cm
-- Product 2: Figuras de gran detalle, inspiradas en los agentes de Rainbow Six Siege
-- Product 1: Continuación de la popular Six Collection
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RZNCCN6/?tag=tolees-21)

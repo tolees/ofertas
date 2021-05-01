@@ -28,9 +28,9 @@ Tienes [ACTECOM Adaptador Micro USB a USB Tipo C 3.1 Conversor  Negro ](https://
 
 🔎:
 
-- Asegúrese de que el teléfono tiene función OTG.
-- Fácil conexión
 - Compatible con la mayoría de los dispositivos y teléfonos que utilizan Micro USB, cargador Mini USB y Micro USB y auriculares.
 - Micro USB macho a USB 3,1 con soporte OTG micro USB para conectar.
+- Fácil conexión
+- Asegúrese de que el teléfono tiene función OTG.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07X2S5H4Z/?tag=tolees-21)
