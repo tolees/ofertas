@@ -28,7 +28,7 @@ Tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Naranja  Orange Mel
 
 🔎:
 
-- Zapatos con cordones.
 - Superga Fashion - Zapatos
+- Zapatos con cordones.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TTHTGN9/?tag=tolees-21)

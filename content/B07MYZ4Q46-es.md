@@ -28,9 +28,9 @@ Está [Skechers Flex Appeal 3.0-Moving Fast  Zapatillas Mujer  Multicolor  TPE B
 
 ℹ️:
 
+- El peso ligero
+- No marca suela
 - memoria Skechers plantilla de espuma
 - suela flexible
-- No marca suela
-- El peso ligero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MYZ4Q46/?tag=tolees-21)
