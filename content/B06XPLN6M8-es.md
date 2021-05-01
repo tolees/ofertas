@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Compo 2061802011 Aceite Mineral 250ml  1 con un 69.13 % de descuento'
-date: 2021-04-29 11:33:21
+date: 2021-05-01 18:33:52
 image: 'https://m.media-amazon.com/images/I/51TlanOJDkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Compo 2061802011 Aceite Mineral 250ml  15x7x7 cm](https:/
 
 🔎:
 
-- Producto autorizado para su uso en agricultura ecológica
 - Protege su planta de cochinillas, pulgón, araña roja, mosca blanca
+- Producto autorizado para su uso en agricultura ecológica
 - Cantidad 250 ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XPLN6M8/?tag=tolees-21)

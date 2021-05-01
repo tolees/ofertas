@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain  VG  - La  con un 46.24 % de descuento'
-date: 2021-04-29 18:19:19
+date: 2021-05-01 20:07:43
 image: 'https://m.media-amazon.com/images/I/51efkSzQNLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain (VG)'
 buyurl: 'https://www.amazon.es/dp/B07M5SZ3BQ/?tag=tolees-21'
 descuento: '46.24'
-average: '23.5721428571429'
+average: '23.5006896551725'
 ---
 
 En este momento está [Warner Bros Interactive Spain  VG  - La Lego Película 2: El Videojuego](https://www.amazon.es/dp/B07M5SZ3BQ/?tag=tolees-21) a 21.5 EUR (original: 39.99 EUR) (46.24 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Warner Bros Interactive Spain  VG  - La Lego Película 2:
 
 🔎:
 
+- Desbloquea y juega con más de 100 personajes
 - Multitud de personajes heroicos
 - Utiliza nuevas armaduras y coches para derrotar a los alienígenas
-- Desbloquea y juega con más de 100 personajes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07M5SZ3BQ/?tag=tolees-21)
