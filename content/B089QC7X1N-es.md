@@ -28,10 +28,10 @@ Está [Mascarilla Higienica WottoCare  50 uds/caja  3 Capas/BFE ≥ 95% Mascaril
 
 ℹ️:
 
-- Certificados Normativa UNE 0064-1:2020 // NO USO MEDICO
-- 4 horas duración de uso continuo máximo
 - Capas3 Capas / BFE ≥ 95% de filtración
-- Packaging Caja con 50 unidades
+- Certificados Normativa UNE 0064-1:2020 // NO USO MEDICO
 - Mascarilla de 3 capas. Filtración ≥ 95%. MaterialFiltro y non-woven Tamaño17 x 9,5 cm. Talla Adulto Estándar
+- 4 horas duración de uso continuo máximo
+- Packaging Caja con 50 unidades
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089QC7X1N/?tag=tolees-21)

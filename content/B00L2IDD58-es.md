@@ -28,9 +28,9 @@ En este momento está [Fominaya 0144191110 Grifo silencioso lateral  conexión l
 
 🔎:
 
+- Resistente a las aguas más duras
 - Fabricado con materiales de 1ª calidad
 - Rango de presiones de trabajo: 0.5 - 10 bar
-- Resistente a las aguas más duras
 - Fácil instalación
 - Llenado rápido
 
