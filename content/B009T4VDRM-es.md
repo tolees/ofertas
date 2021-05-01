@@ -29,9 +29,9 @@ Tienes [Mozart Liqueur White Chocolate - 700 ml](https://www.amazon.es/dp/B009T4
 🔎:
 
 - La manteca de cacao se agrega a la crema fresca descremada creando un contenido bajo en grasa
-- Se debe conservar en un lugar fresco y seco
 - Contiene 15 % alcohol
 - País de origen: Austria
+- Se debe conservar en un lugar fresco y seco
 - El licor de chocolate blanco contiene crema fresca, manteca de cacao, vainilla Bourbon y azúcar granulada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009T4VDRM/?tag=tolees-21)
