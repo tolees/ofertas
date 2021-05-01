@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir-Una Columna de Fuego  Juego de Mes al 44.84 % de descuento'
-date: 2021-04-30 08:40:57
+date: 2021-05-01 10:36:11
 image: 'https://m.media-amazon.com/images/I/519+4iba7FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B077B8SWD2/?tag=tolees-21'
 descuento: '44.84'
-average: '22.3490322580646'
+average: '22.4262500000001'
 ---
 
 Ahora mismo tienes [Devir-Una Columna de Fuego  Juego de Mesa  BGCOLUMNA ](https://www.amazon.es/dp/B077B8SWD2/?tag=tolees-21) a 24.82 EUR (original: 45.0 EUR) (44.84 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Devir-Una Columna de Fuego  Juego de Mesa  BGCOLUMNA ](https
 
 🔎:
 
+- A partir de 12 años
 - De 2 a 4 jugadores
 - Duración: 90 minutos
 - Edición en español
-- A partir de 12 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077B8SWD2/?tag=tolees-21)
