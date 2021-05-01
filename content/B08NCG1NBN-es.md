@@ -28,15 +28,15 @@ Está [1906 GALICIAN IRISH RED ALE PACK 24 BOTELLAS DE 33 CL](https://www.amazon
 
 ℹ️:
 
-- pack de cerveza de 24 Botellas individuales de 33cl
-- 5% Alcohol. Mantener en lugar fresco y seco
-- Apariencia: de color cobre con reflejos rubí. Espuma cremosa de color beige.
-- 1906 GALICIAN IRISH RED ALE PACK 24 BOTELLAS DE 33 CL
-- Aroma: limpio, maltoso, que recuerda a las avellanas y al tofe.
-- Clasificación: Fusion beer
 - Una fusión beer de inspiración irlandesa, cerveza mezcla de cuatro maltas y cuatro lúpulos que dan lugar a una red ale gallega con alma céltica.
-- Sabor: moderadamente tostado, con recuerdos a bizcocho, frutos secos (maltas) y ligeramente floral (lúpulos). Con regusto amargo y fácil de beber.
-- Temperatura recomendada 4-5 grados
+- Apariencia: de color cobre con reflejos rubí. Espuma cremosa de color beige.
+- Clasificación: Fusion beer
+- Aroma: limpio, maltoso, que recuerda a las avellanas y al tofe.
+- 1906 GALICIAN IRISH RED ALE PACK 24 BOTELLAS DE 33 CL
 - Ingredientes: Agua de la ciudad de A Coruña, cuatro tipos de malta (Pale Ale, Carared, Carahell, trigo malteado torrefactado), cuatro lúpulos (Nugget, Sladek, Admiral y Provoak) y nuestra levadura SafAle S-04 de Fermentis.
+- Temperatura recomendada 4-5 grados
+- pack de cerveza de 24 Botellas individuales de 33cl
+- Sabor: moderadamente tostado, con recuerdos a bizcocho, frutos secos (maltas) y ligeramente floral (lúpulos). Con regusto amargo y fácil de beber.
+- 5% Alcohol. Mantener en lugar fresco y seco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NCG1NBN/?tag=tolees-21)
