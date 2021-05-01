@@ -29,9 +29,9 @@ Está [Richer-R Stylus Pen 2 en 1 Lápiz Táctil Alta Sensibilidad  Lápiz de Es
 ℹ️:
 
 - Compatible para la mayoría de los dispositivos equipados con una pantalla táctil capacitiva, como tabletas, teléfonos inteligentes para iPhone / Blackberry / HTC / DOPOD / Nokia, y más.
-- Fabricado con plástico de alta calidad, resistente y duradero de usar.
-- Es así como un lápiz de carbono que le permite escribir o dibujar en papel.
 - La cabeza táctil del lápiz táctil está diseñada con goma, lo suficientemente suave para proteger su pantalla contra huellas dactilares y rasguños, y mantener la alta definición de su pantalla.
+- Es así como un lápiz de carbono que le permite escribir o dibujar en papel.
+- Fabricado con plástico de alta calidad, resistente y duradero de usar.
 - Alta sensibilidad, puede escribir, hacer clic, hacer doble clic, arrastrar, desplazarse y dibujar con facilidad y precisión en la pantalla, como si estuviera utilizando un lápiz real.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F11QDMW/?tag=tolees-21)
