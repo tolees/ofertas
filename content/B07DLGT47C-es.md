@@ -28,8 +28,8 @@ Ahora mismo tienes [Sony - Death Stranding](https://www.amazon.es/dp/B07DLGT47C/
 
 🔎:
 
-- Un Open World unico per un esperienza di gioco memorabile - Una storia coinvolgente che farà riflettere ed emozionare il giocatore
-- Kojima, il padre della saga Metal Gear torna con un nuovo grande titolo - Gameplay innovativo caratterizzato da unelevata qualità grafica
 - Motion Capture Technology e Cast deccezione per un gioco cinematografico
+- Kojima, il padre della saga Metal Gear torna con un nuovo grande titolo - Gameplay innovativo caratterizzato da unelevata qualità grafica
+- Un Open World unico per un esperienza di gioco memorabile - Una storia coinvolgente che farà riflettere ed emozionare il giocatore
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DLGT47C/?tag=tolees-21)
