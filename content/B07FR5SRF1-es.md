@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Un Aldric Step  Mocasines Hombre  al 47.97 % de descuento'
-date: 2021-04-27 06:25:22
+date: 2021-05-02 15:11:42
 image: 'https://m.media-amazon.com/images/I/31XVLsEsv+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [Clarks Un Aldric Step  Mocasines Hombre  Negro  Black Leather-   40 EU](h
 ℹ️:
 
 - Material exterior: piel
-- Suela: goma
 - Cierre: ninguno
+- Suela: goma
 - Ancho del zapato: estrecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FR5SRF1/?tag=tolees-21)

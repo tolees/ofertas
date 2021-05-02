@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! Star vs. The Forces of Evil al 56.43 % de descuento'
-date: 2021-04-30 21:47:14
+date: 2021-05-02 15:22:37
 image: 'https://m.media-amazon.com/images/I/51IyMMIHBeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07J6SQNVJ/?tag=tolees-21'
 descuento: '56.43'
-average: '8.21833333333333'
+average: '8.03714285714285'
 ---
 
 Está [Funko - Pop! Star vs. The Forces of Evil - Figura de Vinilo Ludo Avario](https://www.amazon.es/dp/B07J6SQNVJ/?tag=tolees-21) con 56.43 de descuento por 6.95 EUR (original: 15.95 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Funko - Pop! Star vs. The Forces of Evil - Figura de Vinilo Ludo Avario](
 
 ℹ️:
 
-- Con una medida de 9.5 cm
-- Presentada en una caja con ventana
-- Fabricada en vinilo
 - Figura Ludo de Star contra las fuerzas del mal
+- Fabricada en vinilo
+- Presentada en una caja con ventana
+- Con una medida de 9.5 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07J6SQNVJ/?tag=tolees-21)
