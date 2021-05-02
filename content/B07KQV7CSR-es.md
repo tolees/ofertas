@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Lin Core GB Sports Bag  Unisex Ad al 52.00 % de descuento'
-date: 2021-05-01 10:46:36
+date: 2021-05-02 12:14:01
 image: 'https://m.media-amazon.com/images/I/41WMyUDknHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07KQV7CSR/?tag=tolees-21'
 descuento: '52.00'
-average: '8.7575'
+average: '8.59470588235294'
 ---
 
 Ahora mismo tienes [adidas Lin Core GB Sports Bag  Unisex Adulto  Black/Black/White  NS](https://www.amazon.es/dp/B07KQV7CSR/?tag=tolees-21) a 5.99 EUR (original: 12.48 EUR) (52.00 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Lin Core GB Sports Bag  Unisex Adulto  Black/Black/Wh
 
 🔎:
 
+- Gym Sack
 - Closure with cord
 - Large main Compartiment
-- Gym Sack
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KQV7CSR/?tag=tolees-21)
