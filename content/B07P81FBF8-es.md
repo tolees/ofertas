@@ -29,8 +29,8 @@ En este momento está [Bizak- Playsets acrobacias 1:64 Zombie  Multicolor  61925
 🔎:
 
 - Con efecto lanzadera
+- Escala 1/64
 - Lanza el Monster Jam hacia la boca del Zombi
 - Choca contra su nariz y haz que su cráneo explote
-- Escala 1/64
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07P81FBF8/?tag=tolees-21)

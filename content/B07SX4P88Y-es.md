@@ -29,7 +29,7 @@ En este momento está [Roxy Viva  Zapatos de Playa y Piscina para Mujer  Platead
 🔎:
 
 - __plantilla:__plantilla de goma con textura
-- __Parte superior:__ Parte superior de goma con pin metálico ROXY
 - __Suela exterior:__ suela exterior de goma
+- __Parte superior:__ Parte superior de goma con pin metálico ROXY
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SX4P88Y/?tag=tolees-21)

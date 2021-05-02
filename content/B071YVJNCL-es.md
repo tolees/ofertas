@@ -28,9 +28,9 @@ Está [Grupo Erik Editores CAT0016 - Carpeta 4 Anillas Troquelada Premium Caroug
 
 ℹ️:
 
-- Tamaño folio
-- Carpeta decorada con frases de mensajes
 - 4 anillas
 - Cierre con goma elástica
+- Tamaño folio
+- Carpeta decorada con frases de mensajes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071YVJNCL/?tag=tolees-21)

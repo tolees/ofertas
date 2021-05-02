@@ -29,7 +29,7 @@ Ahora mismo tienes [Haribo Torcidas Geles Dulces  300g](https://www.amazon.es/dp
 🔎:
 
 - Irresistible sabor a fresa
-- Geles dulces
 - Deliciosas piezas en forma de stick
+- Geles dulces
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01CPAZJL2/?tag=tolees-21)
