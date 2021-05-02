@@ -28,9 +28,9 @@ En este momento está [Ledvance Modulos LED  72 W  Blanco](https://www.amazon.es
 
 🔎:
 
-- Características del producto: regleta LED flexible y recortable
-- Vida útil (L70/B50): hasta 20,000 h a Tc máx : 75 C
 - Unidad cortable más pequeña 100 mm
+- Vida útil (L70/B50): hasta 20,000 h a Tc máx : 75 C
 - Flujo luminoso: 2000 lm/m
+- Características del producto: regleta LED flexible y recortable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FJ1V3YC/?tag=tolees-21)

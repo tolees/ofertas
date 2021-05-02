@@ -28,8 +28,8 @@ Está [Tuc Tuc 05796 - Silla](https://www.amazon.es/dp/B076KKNMJC/?tag=tolees-21
 
 ℹ️:
 
+- Fácil de limpiar
 - Diseño divertido y moderno
 - Material resistente
-- Fácil de limpiar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076KKNMJC/?tag=tolees-21)

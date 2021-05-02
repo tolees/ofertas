@@ -28,10 +28,10 @@ Tienes [Crocs Serena Sandal Women  Sandalias de Punta Descubierta para Mujer  Ne
 
 🔎:
 
-- Material de la suela: EVA
-- Tipo de tacón: Plano
-- Revestimiento: Sin forro
 - Cierre: Sin cordones
+- Material de la suela: EVA
+- Revestimiento: Sin forro
+- Tipo de tacón: Plano
 - Material exterior: Caucho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CN8YKX9/?tag=tolees-21)
