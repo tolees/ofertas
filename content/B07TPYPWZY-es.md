@@ -28,8 +28,8 @@ Ahora mismo tienes [Clarks Sift Lace  Zapatillas Mujer  Negro  Black Snake Black
 
 🔎:
 
+- Exterior: piel
 - Suela: goma
 - Interior: textil
-- Exterior: piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TPYPWZY/?tag=tolees-21)
