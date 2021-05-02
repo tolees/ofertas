@@ -29,9 +29,9 @@ Está [Haba- Unicornio Destello – Memo mágico-ESP Juego de Mesa  Habermass H3
 ℹ️:
 
 - Juego de mesa familiar
-- Con Unicornio Destello y todos sus amigos
-- Memo con purpurina
 - Un mágico juego de memoria
 - Juego de mesa infantil
+- Con Unicornio Destello y todos sus amigos
+- Memo con purpurina
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086FCQT6M/?tag=tolees-21)

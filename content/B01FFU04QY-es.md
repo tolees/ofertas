@@ -28,10 +28,10 @@ Tienes [True Instinct Original - Nature s Variety - Pienso para Gatos con Pollo 
 
 🔎:
 
-- PELO Y PIEL SALUDABLES. Ácidos grasos esenciales omega-3 y omega-6 y zinc para mejorar la calidad y la salud del pelo y la piel.
-- BIENESTAR DIGESTIVO. Con cereales integrales (arroz integral, cebada y avena) y fibra con efecto prebiótico.
-- HUESOS Y DIENTES FUERTES. Calcio, fósforo y vitamina D para reforzar el desarrollo sano de los huesos y los dientes.
 - CONDICIÓN FÍSICA ÓPTIMA. Nivel equilibrado de proteínas y calorías de alta calidad de pollo fresco para ayudar a mantener el músculo esquelético y su nivel de actividad.
 - SISTEMA INMUNE SANO. Nivel alto de antioxidantes (vitamina E, vitamina C, selenio), zinc y proteínas para reforzar un sistema inmunitario sano.
+- HUESOS Y DIENTES FUERTES. Calcio, fósforo y vitamina D para reforzar el desarrollo sano de los huesos y los dientes.
+- BIENESTAR DIGESTIVO. Con cereales integrales (arroz integral, cebada y avena) y fibra con efecto prebiótico.
+- PELO Y PIEL SALUDABLES. Ácidos grasos esenciales omega-3 y omega-6 y zinc para mejorar la calidad y la salud del pelo y la piel.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01FFU04QY/?tag=tolees-21)
