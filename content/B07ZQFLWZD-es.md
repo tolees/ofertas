@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas Eezay Flip Flop  Chanclas  Azul  38 EU](https://www.a
 
 🔎:
 
-- Suela de EVA con dibujo antideslizante
 - Tiras sintéticas en la parte superior
-- Mediasuela troquelada de EVA
 - Diseño clásico
+- Mediasuela troquelada de EVA
+- Suela de EVA con dibujo antideslizante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZQFLWZD/?tag=tolees-21)

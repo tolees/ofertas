@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Ubisoft - Figurina Six C con un 75.19 % de descuento'
-date: 2021-04-30 19:50:26
+date: 2021-05-02 07:25:38
 image: 'https://m.media-amazon.com/images/I/415xguMxA4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B07D88ZMHK/?tag=tolees-21'
 descuento: '75.19'
-average: '10.6042857142857'
+average: '9.89749999999999'
 ---
 
 En este momento está [Ubisoft Spain - Ubisoft - Figurina Six Collection Series 2 Sledge](https://www.amazon.es/dp/B07D88ZMHK/?tag=tolees-21) a 4.95 EUR (original: 19.95 EUR) (75.19 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Ubisoft Spain - Ubisoft - Figurina Six Collection Series 
 
 🔎:
 
-- Continuación de la popular Six Collection
-- Altura: 10 cm
 - Figuras de gran detalle, inspiradas en los agentes de Rainbow Six Siege
 - Material: vinilo
+- Altura: 10 cm
 - Incluye un código único que desbloquea un amuleto de arma dentro del juego
+- Continuación de la popular Six Collection
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D88ZMHK/?tag=tolees-21)
