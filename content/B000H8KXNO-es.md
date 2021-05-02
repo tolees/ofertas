@@ -28,9 +28,9 @@ En este momento está [Harry Potter¿ Golden Snitch¿  accesorio de disfraz ](ht
 
 🔎:
 
-- Se debe mantener lejos de las llamas.
 - La snitch que todo buscador de Quidditch debe tratar de capturar.
-- -
 - Producto con licencia oficial de "Rubies", probado conforme a la regulación europea.
+- -
+- Se debe mantener lejos de las llamas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000H8KXNO/?tag=tolees-21)
