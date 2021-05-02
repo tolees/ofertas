@@ -28,12 +28,12 @@ En este momento está [Vans Filmore Suede Canvas  Zapatillas Hombre  Black/White
 
 🔎:
 
-- Anchura del zapato: Regular
-- Tipo de tacón: Plano
-- Revestimiento: Tela
-- Material de la suela: Goma
 - Material exterior: Cuero
 - Composición: textil
+- Revestimiento: Tela
+- Tipo de tacón: Plano
+- Material de la suela: Goma
 - Cierre: Cordones
+- Anchura del zapato: Regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078W3MRGQ/?tag=tolees-21)

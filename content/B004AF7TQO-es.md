@@ -28,9 +28,9 @@ Ahora mismo tienes [Castrol GTX Aceite de Motores 15W-40 A3/B3 4L  Sello inglés
 
 🔎:
 
+- Muy conveniente
 - Diseño moderno
 - Dimensiones del paquete: 11.3 l x 26.1 h x 26.1 w (centímetros)
-- Muy conveniente
 - Peso del paquete: 3.71 kilogramos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004AF7TQO/?tag=tolees-21)
