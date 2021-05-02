@@ -28,8 +28,8 @@ Ahora mismo tienes [Catit Recambio Magic Blue  6 Unidades](https://www.amazon.es
 
 🔎:
 
-- Producto para gatos
-- Catit Recambio Magic Blue, 6 Unidades
 - Magic Blue es una almohadilla filtrante exclusiva no tóxica para bandejas sanitarias que absorbe y retiene hasta el 80% de amoniaco, que es el componente más peligroso e irritante de la orina de gato
+- Catit Recambio Magic Blue, 6 Unidades
+- Producto para gatos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B017FQM7CK/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Lin Core GB Sports Bag  Unisex Adulto  Black/Black/Wh
 
 🔎:
 
+- Large main Compartiment
 - Gym Sack
 - Closure with cord
-- Large main Compartiment
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KQV7CSR/?tag=tolees-21)
