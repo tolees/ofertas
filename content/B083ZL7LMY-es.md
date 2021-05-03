@@ -28,10 +28,10 @@ Ahora mismo tienes [Marqués de la Concordia MDLC Rioja Blanco - 1 Paquete de 6 
 
 🔎:
 
+- Temperatura de Servicio: 8 ºC
+- Origen: D.O.Ca. Rioja
+- Notas de cata: Aromas a fruta, manzana y plátano, con un toque final de cítricos. En boca es muy estructurado con acidez equilibrada y un final de boca largo
 - Tipo de uva: 100% Tempranillo Blanco
 - Maridaje: Perfecto con aperitivos, pescados, mariscos y carnes blancas.
-- Origen: D.O.Ca. Rioja
-- Temperatura de Servicio: 8 ºC
-- Notas de cata: Aromas a fruta, manzana y plátano, con un toque final de cítricos. En boca es muy estructurado con acidez equilibrada y un final de boca largo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083ZL7LMY/?tag=tolees-21)
