@@ -29,11 +29,11 @@ Está [Stanley FatMax Nivel digital 60cm 0-42-065  Multicolor  60 cm](https://ww
 ℹ️:
 
 - Conversión automatico a porcentage, grados o pulgadas/pies, con solo un botón (MODE)
-- 9 memorias disponibles, función de recalibrado y función de falso "0", además de aviso sonoro a los 0, 45, y 90 grados e indicador de bateria baja
-- Función HOLD, que congela la mediación tomada
-- Lectura de temperatura ambiente
-- Pantalla LCD con rotación de 360grados, para facilitar la lectura de las mediciones
-- precisión de 0,10mm/m a nivel/plomo y 0,20mm/m en el resto de los angulos
 - Con bolsa de transporte incluida
+- Pantalla LCD con rotación de 360grados, para facilitar la lectura de las mediciones
+- Lectura de temperatura ambiente
+- Función HOLD, que congela la mediación tomada
+- 9 memorias disponibles, función de recalibrado y función de falso "0", además de aviso sonoro a los 0, 45, y 90 grados e indicador de bateria baja
+- precisión de 0,10mm/m a nivel/plomo y 0,20mm/m en el resto de los angulos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B007OXUV96/?tag=tolees-21)
