@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.49 % en Camper Micro  Sandalias con Punta Abiert'
-date: 2021-04-14 18:55:35
+date: 2021-05-02 23:04:36
 image: 'https://m.media-amazon.com/images/I/414yHt0TqKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Camper Micro  Sandalias con Punta Abierta para Mujer  Rosa  Light Beige 
 
 ℹ️:
 
-- Color: Blanco roto
 - Empeine: Piel (Piel vacuna)
+- Sistema de cierre de Velcro para un fácil ajuste
 - Forro:
 - Suela/Características: TPU con un agarre extraordinario
-- Sistema de cierre de Velcro para un fácil ajuste
+- Color: Blanco roto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NZ5LXQN/?tag=tolees-21)

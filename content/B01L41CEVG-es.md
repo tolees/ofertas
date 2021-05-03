@@ -28,9 +28,9 @@ Está [Havaianas Origine III  Alpargatas Unisex Adulto  Negro  Black   45 EU](ht
 
 ℹ️:
 
-- Brasilianische Größe auf dem Karton hervorgehoben
-- Außensohle ist sehr hitzebeständig
 - Anlass: Casual
+- Außensohle ist sehr hitzebeständig
+- Brasilianische Größe auf dem Karton hervorgehoben
 - Hergestellt in Brasilien
 - Der Origine III Espadrilles für Damen und Herren von Havaianas ist der ideale Stoffschuh für den Sommer.
 
