@@ -30,8 +30,8 @@ Está [Clean Air Optima CA-509D Purificador de aire inteligente con ionizador  1
 
 - Inteligente hepa ionizador purificador de aire de ca 509d–apto hasta: 90m²/225m³/965ft²–muy silencioso con filtro de modo de dormir–eficiencia 99, 97%/0, 3µm–monitoring digital de la calidad del aire–cadr certificada
 - Efr (easy replacement) de filtro: después de 2000horas de funcionamiento en filtro de forma sencilla sustitución–masa bxdxh 37, 4x 20, 1x 59, 4cm–peso 5kg
-- Los purificadores de aire tipo 509d concedido de ca sobre el monitor de un y precisión feedback sobre la calidad del aire actual por medición del nivel de pm2.5, automático digital de la temperatura y la humedad en el espacio
 - Temporizador 1/2/4/8horas–consumo max 78vatios–3/32w turbo–medio–2/12w bajo 1–ordene panel con botones de presión–filtro life monitor a través de botón con led señal de reset
+- Los purificadores de aire tipo 509d concedido de ca sobre el monitor de un y precisión feedback sobre la calidad del aire actual por medición del nivel de pm2.5, automático digital de la temperatura y la humedad en el espacio
 - La inteligente particle sensortm mide y regula la calidad del aire seleccionable cortadas.–.3.ventilador ajustes sleep/turbo/automático.–.ventilador silencioso 36db (a) bajo 1/49, 5db (a) medios 2/turbo 64db (a) 3
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077TSYX1G/?tag=tolees-21)
