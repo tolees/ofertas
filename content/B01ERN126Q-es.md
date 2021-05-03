@@ -28,9 +28,9 @@ Está [Joma Galia Chaqueta  Mujer  Rojo  2XS](https://www.amazon.es/dp/B01ERN126
 
 ℹ️:
 
-- Ideal para la practica de cualquier modalidad bajo la lluvia
 - Adecuado para la práctica de deporte a nivel profesional
 - Chubasquero con capucha integrada, protección para la cremallera en el cuello
+- Ideal para la practica de cualquier modalidad bajo la lluvia
 - Bolsillos laterales sin cremallera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ERN126Q/?tag=tolees-21)

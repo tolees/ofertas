@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Destruction Allstars con un 59.98 % de descuento'
-date: 2021-04-28 07:35:24
+date: 2021-05-03 10:55:19
 image: 'https://m.media-amazon.com/images/I/51mUWTyfmXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08B4JJF8Q/?tag=tolees-21'
 descuento: '59.98'
-average: '33.7269230769231'
+average: '32.0321428571429'
 ---
 
 En este momento está [Sony - Destruction Allstars](https://www.amazon.es/dp/B08B4JJF8Q/?tag=tolees-21) a 10.0 EUR (original: 24.99 EUR) (59.98 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Sony - Destruction Allstars](https://www.amazon.es/dp/B08
 
 🔎:
 
-- Desarrollador: Lucid Games
-- Incluye juego completo
-- Combate en vehículos y velocidad
 - Juego compatible con PlayStation 5
+- Incluye juego completo
+- Desarrollador: Lucid Games
+- Combate en vehículos y velocidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B4JJF8Q/?tag=tolees-21)

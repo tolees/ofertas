@@ -28,10 +28,10 @@ Ahora mismo tienes [L Oreal Paris Dermo Expertise - L Oréal Paris Hydra Genius 
 
 🔎:
 
+- Cuidado líquido ultra-concentrado en agua, Altamente hidratante, Idóneo para pieles mixtas a grasas
 - Aplica diariamente en la mañana y por la noche sobre el rostro y cuello perfectamente limpios con movimientos circulares para facilitar su penetración
+- Fórmula enriquecida con Savia de Aloe Vera y Ácido Hialurónico para apotar una hidratación duradera a la piel, Textura en gel fresca y ligera, Acabado mate
 - Contenido: 1 x LOréal Paris Hydra Genius Cuidado Líquido Facial Hidratante, Cantidad: 70 ml
 - Hidratación intensa al instante, Retiene la hidratación de forma continua 72H, Al transformarse en agua al momento de la aplicación se fusiona fácilmente con la piel para liberar los activos en el corazón de la epidermis
-- Fórmula enriquecida con Savia de Aloe Vera y Ácido Hialurónico para apotar una hidratación duradera a la piel, Textura en gel fresca y ligera, Acabado mate
-- Cuidado líquido ultra-concentrado en agua, Altamente hidratante, Idóneo para pieles mixtas a grasas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N802ZIW/?tag=tolees-21)

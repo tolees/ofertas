@@ -28,10 +28,10 @@ En este momento está [L Oreal Paris Men Expert - L Oréal Paris Men Expert Hydr
 
 🔎:
 
-- No grasa, no pegajosa, penetra rápidamente
 - Textura ultra-refrescante
-- Hidrata continuamente la piel
 - Protege de las agresiones y vuelve la piel más fuerte
+- No grasa, no pegajosa, penetra rápidamente
 - Tono fresco y piel lisa
+- Hidrata continuamente la piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00X9W2ZQ8/?tag=tolees-21)

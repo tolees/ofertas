@@ -28,9 +28,9 @@ En este momento está [HELLA 3AL 922 000 951 Bocina   S90   12V   113dB A   Rang
 
 🔎:
 
+- Homologación: E4 163,ECE,ECER28 Tip. protec. CódIP: X4K,X7,X9K
 - Ø: 90mm
 - Rango de temperatura desde: 40°C rango temperatura hasta: 90°C Rango de frecuencia: 350Hz Consumo de potencia: 42W
 - con marca de control E
-- Homologación: E4 163,ECE,ECER28 Tip. protec. CódIP: X4K,X7,X9K
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00H8QOLNG/?tag=tolees-21)
