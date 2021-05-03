@@ -29,9 +29,9 @@ En este momento está [Weedness Canna Terra Professionell 50 litros - Tierra par
 🔎:
 
 - ✅ Efecto antiséptico
-- ✅ Especialmente diseñado para su instalación en interiores
 - ✅ Mezcla de tierra rica en nitrógeno con perlita
 - ✅ Tierra para macetas profesionales de Canna Terra
 - ✅ Mezcla de tierra pura
+- ✅ Especialmente diseñado para su instalación en interiores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008MJXGOS/?tag=tolees-21)

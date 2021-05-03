@@ -28,10 +28,10 @@ Tienes [St Marc Lingettes Désinfectantes Antibacteriennes - 40 lingettes x Lot 
 
 ℹ️:
 
-- Elimina rápidamente el 99, 9% de las bacterias sin lejía en 5 minutos.
-- Pack antisequedad incluso después de la apertura.
 - Ideal para todas las superficies de la cocina y el baño.
-- Limpia, desinfecta y sana.
 - Fragancia que deja un agradable aroma de limpieza.
+- Limpia, desinfecta y sana.
+- Pack antisequedad incluso después de la apertura.
+- Elimina rápidamente el 99, 9% de las bacterias sin lejía en 5 minutos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RCD45FW/?tag=tolees-21)

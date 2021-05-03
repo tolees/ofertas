@@ -28,9 +28,9 @@ Está [Joseph Joseph - Joseph & Joseph Cut&Curve Plus - Tabla de cortar o trinch
 
 ℹ️:
 
+- Bordes antiderrame
+- Se puede usar en lavavajillas
 - Corta y trincha la carne, 2 en 1
 - Base antideslizante
-- Se puede usar en lavavajillas
-- Bordes antiderrame
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004Q7EE6Y/?tag=tolees-21)
