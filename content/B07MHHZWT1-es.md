@@ -30,8 +30,8 @@ Está [Nenuco Jabon Líquido Ultra Suave de bebé con extracto de aloe - paquete
 
 - Su característico olor a limpio estimulará los sentidos de vuestro bebé y hará del baño un momento realmente único y agradable
 - Su fórmula ha sido clínicamente testada bajo estricto control dermatológico; Nenuco garantiza la idoneidad de sus productos con estudios realizados en laboratorios independientes
-- Contiene extracto de aloe y la vitamina E
-- Suavidad: Respeto de la higiene diaria del beb; es de fácil aclarado
 - Cuida de tu bebé, limpiando y aportando suavidad a su delicada piel; contiene extracto de aloe y la vitamina E
+- Suavidad: Respeto de la higiene diaria del beb; es de fácil aclarado
+- Contiene extracto de aloe y la vitamina E
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MHHZWT1/?tag=tolees-21)

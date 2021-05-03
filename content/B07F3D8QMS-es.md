@@ -28,11 +28,11 @@ En este momento está [Zignum Añejo Mezcal - 700 ml  19144 ](https://www.amazon
 
 🔎:
 
-- Zignum Añejo - Mezcal - 700 ml
-- Contenido de alcohol (alc/vol.): 38.0 porcentaje por volumen
+- Volumen paquete: 700.0 mililitros
 - Volumen: 0.7 liters
 - Capacidad: 70 CL
+- Contenido de alcohol (alc/vol.): 38.0 porcentaje por volumen
+- Zignum Añejo - Mezcal - 700 ml
 - Graduación: 38 º
-- Volumen paquete: 700.0 mililitros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F3D8QMS/?tag=tolees-21)

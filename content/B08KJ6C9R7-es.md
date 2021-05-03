@@ -28,9 +28,9 @@ Ahora mismo tienes [Gearbox Publishing - Godfall](https://www.amazon.es/dp/B08KJ
 
 🔎:
 
-- Desbloquea las 12 Valorplates, las armaduras divinas inspiradas en el zodiaco que te darán el poder para despedazar a todos los enemigos que se interpongan entre Macros y tú; enfréntate a la Torre de las Pruebas y planta cara a los enemigos más duros para conseguir botín de primera
 - Aventúrate en parajes exóticos, desde los arrecifes terrestres del Reino del Agua hasta los bosques carmesí subterráneos del Reino de la Tierra
-- Domina los cinco tipos de armas, cada uno con estilos de juego únicos y un arsenal de espadas largas, armas de asta, martillos de guerra, espadones y armas dobles; sube de nivel, aprende habilidades nuevas y descubre armas legendarias con efectos devastadores en el campo de batalla
+- Desbloquea las 12 Valorplates, las armaduras divinas inspiradas en el zodiaco que te darán el poder para despedazar a todos los enemigos que se interpongan entre Macros y tú; enfréntate a la Torre de las Pruebas y planta cara a los enemigos más duros para conseguir botín de primera
 - Lucha en solitario o combate junto a tus amigos en el modo cooperativo en línea para tres jugadores
+- Domina los cinco tipos de armas, cada uno con estilos de juego únicos y un arsenal de espadas largas, armas de asta, martillos de guerra, espadones y armas dobles; sube de nivel, aprende habilidades nuevas y descubre armas legendarias con efectos devastadores en el campo de batalla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KJ6C9R7/?tag=tolees-21)

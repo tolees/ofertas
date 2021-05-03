@@ -28,10 +28,10 @@ Está [Amazon Basics - Monopié  170 cm ](https://www.amazon.es/dp/B00FAYL1YU/?
 
 ℹ️:
 
-- Pie de goma antideslizante con pincho retráctil
-- Montura con rosca universal de 0,25"
 - Incluye bolsa de transporte
 - Pata con cuatro secciones que se puede extender hasta 170 cm
+- Pie de goma antideslizante con pincho retráctil
+- Montura con rosca universal de 0,25"
 - Para videocámaras y cámaras fotográficas, soporta hasta 3 kg de peso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00FAYL1YU/?tag=tolees-21)
