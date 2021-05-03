@@ -28,8 +28,8 @@ Tienes [Sony - Predator: Hunting Grounds](https://www.amazon.es/dp/B084XQNC5R/?t
 
 ℹ️:
 
+- Llega hasta el helicóptero completa las desafiantes misiones como miembro de una escuadra militar y escapa
 - Usa los arsenales humanos y alienígenas utiliza un arsenal de vanguardia con la escuadra militar o una tecnología letal, como el cañón de plasma de hombro, el Combistick y más, con el depredador
 - Conviértete en el depredador da caza a la escuadra militar enemiga mientras los acechas con tu arsenal alienígena
-- Llega hasta el helicóptero completa las desafiantes misiones como miembro de una escuadra militar y escapa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084XQNC5R/?tag=tolees-21)

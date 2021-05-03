@@ -28,8 +28,8 @@ Está [Audio-Technica ATH-AG1X Aire Libre Juegos de Alta Fidelidad Auricular con
 
 ℹ️:
 
-- El elemento supercardioide del micrófono es excelente para rechazar el ruido ambiental no deseado, por lo que su voz saldrá clara todo el tiempo
 - El ath-ag1x también viene equ ipad o con un micrófono premium de cuello de cisne para manejar su comunicación en el juego
+- El elemento supercardioide del micrófono es excelente para rechazar el ruido ambiental no deseado, por lo que su voz saldrá clara todo el tiempo
 - Incluso hay un parabrisas incluido que se desliza sobre el micrófono para combatir aún más el viento y el ruido de la respiración, si es necesario
 - Para un control y conveniencia adicionales, el cable de 1.2 m (3.9 ) del auricular incluye un interruptor de silencio / bloqueo de volumen simple para una fácil operación con una sola mano, y viene con un cable de extensión de 2.0 m (6.6)
 

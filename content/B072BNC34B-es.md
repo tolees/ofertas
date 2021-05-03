@@ -28,9 +28,9 @@ Tienes [Suavinex - Esterilizador Eléctrico A Vapor 3En1 de Hasta 6 Biberones En
 
 🔎:
 
+- Su tapa mantiene los accesorios estériles hasta 24 horas
 - Cuerpo eléctrico, extraíble para la función microondas, que esteriliza en 6 minutos
 - Cesto con rejilla, extraíble para el formato pequeño, con capacidad para hasta 6 biberones de 360ml
 - Apagado automático y luz led
-- Su tapa mantiene los accesorios estériles hasta 24 horas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072BNC34B/?tag=tolees-21)
