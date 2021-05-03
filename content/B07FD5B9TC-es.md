@@ -28,9 +28,9 @@ Tienes [MVMT Reloj Analógico para Hombre de Cuarzo con Correa en Cuero D-MT01-G
 
 🔎:
 
+- Grosor de la caja de 7 mm / Diámetro de la caja: 40 mm
 - 3 ATM de resistencia al agua
 - Caja gris oscuro en acero inoxidable cepillado y esfera gris oscuro
-- Grosor de la caja de 7 mm / Diámetro de la caja: 40 mm
 - Movimiento de cuarzo Miyota
 - Ancho de la correa: 20 mm
 
