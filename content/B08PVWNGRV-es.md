@@ -28,10 +28,10 @@ En este momento está [adidas Lite Racer CLN 2.0  Zapatillas de Running Mujer  F
 
 🔎:
 
-- Cierre de cordones
-- Forro textil
-- Suela de goma
 - Mediasuela Cloudfoam
+- Cierre de cordones
 - Parte superior textil
+- Suela de goma
+- Forro textil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PVWNGRV/?tag=tolees-21)
