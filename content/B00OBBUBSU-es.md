@@ -28,10 +28,10 @@ Tienes [Bosch Professional Trípode para láseres y niveles BT 150  altura 55–
 
 ℹ️:
 
-- ALTURA DE TRABAJO: Ajuste flexible de altura desde 55 cm hasta 157 cm.
+- INCLUYE: Trípode BT 150
 - GRAN ESTABILIDAD: Apoyo totalmente estable sobre cualquier suelo gracias a su robusto diseño de aluminio.
 - NIVEL ESFÉRICO DE BURBUJA: Funcionalidad y precisión gracias al nivel esférico
+- ALTURA DE TRABAJO: Ajuste flexible de altura desde 55 cm hasta 157 cm.
 - COMPATIBLE CON: Niveles y láseres con rosca de 1/4", GLL 2-10, GLL 2-15 G, GCL 2-15, GCL 2-15 G, GCL 2-50, GCL 2-50 G, GCL 2-50 C, GCL 2-50 CG, GLL 3-80, GLL 3-80 G, GLL 3-80 C, GLL 3-80 CG
-- INCLUYE: Trípode BT 150
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00OBBUBSU/?tag=tolees-21)

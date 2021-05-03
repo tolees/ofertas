@@ -28,11 +28,11 @@ En este momento está [SanDisk Extreme PRO - Tarjeta de memoria microSDXC de 400
 
 🔎:
 
-- Con USB 3.0, que le permite mover contenido hasta diez veces más rápido que con los lectores USB 2.0
-- Rápidas velocidades de transferencia UHS-I de hasta 170 MB/s
-- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
-- Lector de tarjetas microSD compacto y duradero
 - Hasta 170 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
 - Ideal para smartphones y tabletas Android, cámaras de acción y drones
+- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
+- Rápidas velocidades de transferencia UHS-I de hasta 170 MB/s
+- Lector de tarjetas microSD compacto y duradero
+- Con USB 3.0, que le permite mover contenido hasta diez veces más rápido que con los lectores USB 2.0
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GK3W63D/?tag=tolees-21)

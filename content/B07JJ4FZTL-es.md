@@ -28,10 +28,10 @@ Tienes [Vigilabebés Inalambrico con Cámara  BOIFUN Monitor de Bebé Inteligent
 
 🔎:
 
-- ❤[Larga Vida] - 750mAh de la batería Li-ion recargable. En modo VOX (Sensibilidad ajustable) duerme automáticamente la vigilabebe pantalla para ahorrar energía. Cuando hay un sonido en la habitación del bebé, la pantalla se activa automáticamente.
-- ❤[Comunicación Bidireccional] - La tecnología GFSK reduce las posibles interferencias de audio. Hable libremente con el bebé gracias al sonido bidireccional, que le permite tanto escuchar a su bebé como que el bebé le escuche a usted.
 - ❤[Multi-Función] - Nuestro vigilabebés tiene varias funciones como el monitoreo de imagen, información de temperatura de la habitación, despertador o reproducción de música; además, y la batería Li-ion recargable. Sin duda, BOIFUN, el monitor inteligente, es la mejor para vigilar su bebé o como regalo de nacimiento.
 - ❤[Pantalla HD] - Dispone de pantalla LCD TFT de 3,2 pulgadas 320*240 píxel que ofrece una imagen muy clara para vigilar a su bebé. No se perderá ni un momento del crecimiento de su hijo o hija. ( La cámara solo funciona cuando está conectada a la alimentación. El monitor es inalámbrico.)
 - ❤[Visión Nocturna] - La visión nocturna infrarroja incorporada le permitirá vigilar a sus hijos en la oscuridad, ya que La Luz de infrarrojos que emite es muy tenue y no resulta molesta, ayudando incluso a relajarse y evitar miedo a la oscuridad.
+- ❤[Comunicación Bidireccional] - La tecnología GFSK reduce las posibles interferencias de audio. Hable libremente con el bebé gracias al sonido bidireccional, que le permite tanto escuchar a su bebé como que el bebé le escuche a usted.
+- ❤[Larga Vida] - 750mAh de la batería Li-ion recargable. En modo VOX (Sensibilidad ajustable) duerme automáticamente la vigilabebe pantalla para ahorrar energía. Cuando hay un sonido en la habitación del bebé, la pantalla se activa automáticamente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JJ4FZTL/?tag=tolees-21)

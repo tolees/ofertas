@@ -28,8 +28,8 @@ Está [Ewent EW1501 - Soporte de Pared para Pantalla Plana  35 kg  58 4 cm  23" 
 
 ℹ️:
 
-- Es ajustable y puede corregirse rápida
 - Con puntos de pivote
+- Es ajustable y puede corregirse rápida
 - Bueno para la inclinación y el panorama
 - Desaparece cuando se cierra detrás del televisor
 
