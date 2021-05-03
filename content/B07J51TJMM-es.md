@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein - Smooth CK Mini NS 6 CC Co al 37.31 % de descuento'
-date: 2021-05-01 16:46:55
+date: 2021-05-03 18:41:54
 image: 'https://m.media-amazon.com/images/I/41+js6tqdML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B07J51TJMM/?tag=tolees-21'
 descuento: '37.31'
-average: '43.7425'
+average: '42.9922222222222'
 ---
 
 Está [Calvin Klein - Smooth CK Mini NS 6 CC Coin Pass  Monederos Hombre  Negro  Black   0.1x0.1x0.1 cm  B x H T ](https://www.amazon.es/dp/B07J51TJMM/?tag=tolees-21) con 37.31 de descuento por 36.99 EUR (original: 59.0 EUR) en el siguiente enlace!

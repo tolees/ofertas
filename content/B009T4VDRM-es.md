@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mozart Liqueur White Chocolate - 700 ml al 36.89 % de rebaja'
-date: 2021-05-01 20:59:07
+date: 2021-05-03 18:50:02
 image: 'https://m.media-amazon.com/images/I/21z+7xYHUQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mozart'
 buyurl: 'https://www.amazon.es/dp/B009T4VDRM/?tag=tolees-21'
 descuento: '36.89'
-average: '14.185'
+average: '14.0466666666667'
 ---
 
 Tienes [Mozart Liqueur White Chocolate - 700 ml](https://www.amazon.es/dp/B009T4VDRM/?tag=tolees-21) con precio final de  13.77 EUR (original: 21.82 EUR) (36.89 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Mozart Liqueur White Chocolate - 700 ml](https://www.amazon.es/dp/B009T4
 
 🔎:
 
-- Contiene 15 % alcohol
-- País de origen: Austria
-- Se debe conservar en un lugar fresco y seco
 - El licor de chocolate blanco contiene crema fresca, manteca de cacao, vainilla Bourbon y azúcar granulada
+- Se debe conservar en un lugar fresco y seco
+- País de origen: Austria
+- Contiene 15 % alcohol
 - La manteca de cacao se agrega a la crema fresca descremada creando un contenido bajo en grasa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009T4VDRM/?tag=tolees-21)
