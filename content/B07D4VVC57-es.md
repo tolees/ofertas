@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ricola Caramelo duro - 10 de 54 gr.  Tot al 88.40 % de descuento'
-date: 2021-04-29 14:03:44
+date: 2021-05-03 06:18:42
 image: 'https://m.media-amazon.com/images/I/41I1VXhGR5S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ricola'
 buyurl: 'https://www.amazon.es/dp/B07D4VVC57/?tag=tolees-21'
 descuento: '88.40'
-average: '4.0275'
+average: '3.802'
 ---
 
 Ahora mismo tienes [Ricola Caramelo duro - 10 de 54 gr.  Total 540 gr. ](https://www.amazon.es/dp/B07D4VVC57/?tag=tolees-21) a 2.9 EUR (original: 25.0 EUR) (88.40 %  de descuento) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Glacial Ultra-Peak  Botas Corta al 72.03 % de descuento'
-date: 2021-05-01 09:25:04
+date: 2021-05-03 06:18:57
 image: 'https://m.media-amazon.com/images/I/41nesSJXELL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
