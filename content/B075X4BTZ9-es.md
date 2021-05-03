@@ -28,10 +28,10 @@ Tienes [Medela - Bolsas de almacenamiento para conservar y congelar leche matern
 
 🔎:
 
-- Combínalas con el galardonado extractor de leche eléctrico Swing o Swing Maxi doble de Medela que te hará sentirte cómoda mientras te extraes leche.
-- Cuida tus pezones con la crema de lanonina (Purelan) y los protectores y discos absorbentes de Medela.
 - Pack 50 bolsas Medela de 180ml para el almacenamiento y conservación de la leche materna
+- Combínalas con el galardonado extractor de leche eléctrico Swing o Swing Maxi doble de Medela que te hará sentirte cómoda mientras te extraes leche.
 - Utiliza para alimentar a tu bebé la tetina Calma de Medela.
+- Cuida tus pezones con la crema de lanonina (Purelan) y los protectores y discos absorbentes de Medela.
 - También disponibles los biberones Medela para guardar y congelar la leche materna.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075X4BTZ9/?tag=tolees-21)
