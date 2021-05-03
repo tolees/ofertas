@@ -28,11 +28,11 @@ Tienes [Bosch Professional GWS 7-115 E - Amoladora angular  720 W  2800 – 1100
 
 🔎:
 
+- Perímetro de empuñadura reducido (176 mm), comparado con otras amoladoras angulares de la misma categoría de potencía, que proporciona una gran comodidad en el trabajo
 - Incluye miniamoladora gws 7-115 e, cubierta protectora, brida de fijación, empuñadura adicional, llave de dos agujeros, tuerca tensora
 - Cabezal plano para que el trabajo resulte cómodo incluso en zonas estrechas
-- Protección contra rearranque evita la puesta en marcha automática de la herramienta tras una interrupción de corriente
 - Motor de 720 w de potencía con un peso de solo 1, 9 kg, para trabajar durante periodos prolongados
-- Perímetro de empuñadura reducido (176 mm), comparado con otras amoladoras angulares de la misma categoría de potencía, que proporciona una gran comodidad en el trabajo
+- Protección contra rearranque evita la puesta en marcha automática de la herramienta tras una interrupción de corriente
 - Perímetro de empuñadura reducido con 720 w de potencía
 - Preselección del número de revoluciones en 6 niveles para trabajar con diferentes materiales
 

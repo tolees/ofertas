@@ -28,12 +28,12 @@ Está [Stanley FatMax Nivel digital 60cm 0-42-065  Multicolor  60 cm](https://ww
 
 ℹ️:
 
-- Lectura de temperatura ambiente
+- Conversión automatico a porcentage, grados o pulgadas/pies, con solo un botón (MODE)
 - 9 memorias disponibles, función de recalibrado y función de falso "0", además de aviso sonoro a los 0, 45, y 90 grados e indicador de bateria baja
 - Función HOLD, que congela la mediación tomada
+- Lectura de temperatura ambiente
 - Pantalla LCD con rotación de 360grados, para facilitar la lectura de las mediciones
 - precisión de 0,10mm/m a nivel/plomo y 0,20mm/m en el resto de los angulos
-- Conversión automatico a porcentage, grados o pulgadas/pies, con solo un botón (MODE)
 - Con bolsa de transporte incluida
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B007OXUV96/?tag=tolees-21)
