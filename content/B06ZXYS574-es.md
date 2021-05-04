@@ -28,10 +28,10 @@ Tienes [Bright Starts  Disney Baby Gimnasio de Actividades Winnie the Pooh con J
 
 🔎:
 
+- La alfombra de juego del bebé se puede lavar a máquina
 - Coloca las bolas en el la malla lateral del gimnasio
+- Rebolotea con los más de 20 minutos de música de Tigger
 - Experimenta la magia de Pooh y sus amigos
 - La almohada del Oso Pooh sostiene al bebé mientras juega boca abajo
-- La alfombra de juego del bebé se puede lavar a máquina
-- Rebolotea con los más de 20 minutos de música de Tigger
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06ZXYS574/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Terrex AX3 GTX  Walking Shoe Hombre  Core Black/Core 
 
 🔎:
 
-- Parte superior textil con capas sintéticas para protección y estabilidad; impresión de goma en la zona de los dedos y el talón
-- Ligera suela intermedia de EVA para una amortiguación a largo plazo
 - Parte superior con forro de malla transpirable
+- Ligera suela intermedia de EVA para una amortiguación a largo plazo
+- Parte superior textil con capas sintéticas para protección y estabilidad; impresión de goma en la zona de los dedos y el talón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JQKZC87/?tag=tolees-21)
