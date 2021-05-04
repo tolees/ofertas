@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.15 % en Nixon Reloj Analógico para Unisex de Cua'
-date: 2021-04-23 14:38:10
+date: 2021-05-04 15:35:44
 image: 'https://m.media-amazon.com/images/I/41m-g9QhBIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIXON'
 buyurl: 'https://www.amazon.es/dp/B00CFBU5RK/?tag=tolees-21'
 descuento: '42.15'
-average: '67.428'
+average: '66.7125'
 ---
 
 Tienes [Nixon Reloj Analógico para Unisex de Cuarzo con Correa en Acero Inoxidable Recubierto A045-897-00  Dorado Rosa](https://www.amazon.es/dp/B00CFBU5RK/?tag=tolees-21) con un 42.15 % de descuento con precio de oferta de 57.27 EUR (original: 99.0 EUR) en el siguiente enlace!

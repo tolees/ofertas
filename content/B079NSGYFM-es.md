@@ -28,9 +28,9 @@ Tienes [Polti Forzaspira Lecologico Aqua Allergy Natural Care Aspirador sin Bols
 
 🔎:
 
-- Con 6 accesorios en dotación: cepillo universal 2 posiciones, cepillo para líquidos, cepillo parquet para superficies delicadas, boquilla para tejidos, lanza, cepillo redondo con cerdas suaves
 - Con 4 fases de filtrado con filtro Hepa H13 lavable
 - Regulación aspiración 4 velocidades, 750 W
 - Radio de acción 7.5 m con recogecables automático
+- Con 6 accesorios en dotación: cepillo universal 2 posiciones, cepillo para líquidos, cepillo parquet para superficies delicadas, boquilla para tejidos, lanza, cepillo redondo con cerdas suaves
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079NSGYFM/?tag=tolees-21)

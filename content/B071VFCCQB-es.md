@@ -29,9 +29,9 @@ Está [Educa - EducaTouch Junior PJ Masks  con música y Canciones Juego Educati
 ℹ️:
 
 - Educa touch junior es una colección de juegos educativos electrónicos pensada para estimular el interés de los niños por el aprendizaje
+- Con Educa Touch Junior - Pj Masks aprenderán los conceptos educativos básicos: los números, colores, formas geométricas, relaciones de imágenes, divertidos juegos ;y mucho más; Con opción táctil, música y canciones
 - Con 8 temas completos y 8 actividades didácticas; Con 3 modos de juego: exploración, preguntas, música y canciones
 - Recomendado a partir de 3 años
 - Contenido: Base Educa Touch Junior, 8 láminas de actividades e instrucciones
-- Con Educa Touch Junior - Pj Masks aprenderán los conceptos educativos básicos: los números, colores, formas geométricas, relaciones de imágenes, divertidos juegos ;y mucho más; Con opción táctil, música y canciones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071VFCCQB/?tag=tolees-21)
