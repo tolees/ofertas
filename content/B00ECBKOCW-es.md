@@ -31,7 +31,7 @@ Tienes [Remington AC9096 Silk - Secador de Pelo Profesional  Iónico  Difusor y 
 - 6 temperaturas, 2 velocidades, función turbo, y ráfaga de aire frío de hasta 140 km/h para un secado rápido
 - Acondicionamiento iónico: 90% más de iones para un pelo sin encrespamiento y brillante
 - Concentrador estilizado, difusor y gancho para colgar; cable profesional de 3 metros
-- Secador potente de 2400 vatios; motor AC de corriente alterna de larga duración y calidad profesional
 - Rejilla de cerámica sedosa y desmontable para una limpieza fácil
+- Secador potente de 2400 vatios; motor AC de corriente alterna de larga duración y calidad profesional
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ECBKOCW/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [adidas TABELA 18 JSY T-Shirt  Hombre  Semi Solar Green/Black  2XL](https
 
 🔎:
 
-- Alta comodidad.
 - Gestión efectiva de la humedad.
 - Absoluta libertad de movimiento
+- Alta comodidad.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0779DHJFY/?tag=tolees-21)
