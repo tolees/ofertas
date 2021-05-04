@@ -28,8 +28,8 @@ Tienes [Superga 2950 COTU Classic  Zapatillas Unisex Adulto  Navy 933  45 EU](ht
 
 ℹ️:
 
-- Material exterior: tela
-- Material de la suela: goma
 - Forro: tela
+- Material de la suela: goma
+- Material exterior: tela
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CG0PBG0/?tag=tolees-21)
