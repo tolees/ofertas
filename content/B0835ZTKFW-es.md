@@ -28,8 +28,8 @@ Tienes [Quiksilver BRIDGIES  Monederos. para Hombre  Negro  Medium](https://www.
 
 ℹ️:
 
-- Tipo de debossed interno
 - Chapa de metal externa
+- Tipo de debossed interno
 - Tejido de piel sintética
 - Malla ID Windows
 - Bolsillo para monedas con cremallera

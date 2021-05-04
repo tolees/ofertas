@@ -28,9 +28,9 @@ Tienes [Hero Baby - Papilla de 8 Cereales sin Azúcares Añadidos  para Bebés a
 
 🔎:
 
-- Las papillas de Hero Baby contribuyen al funcionamiento normal del sistema inmune y al correcto crecimiento de tu bebé
 - Papilla de 8 cereales, nutritiva y sabrosa para bebés a partir de los 6 meses
 - Con alto contenido en fibra, 7 vitaminas, calcio y hierro
+- Las papillas de Hero Baby contribuyen al funcionamiento normal del sistema inmune y al correcto crecimiento de tu bebé
 - Sin lactosa, sin azúcares añadidos ni producidos, sin aceite de palma, sin conservantes y sin colorantes
 - Elegido "producto del año 2020" en la categoría de alimentación infantil, gracias a su sabor, olor, textura, eficacia, envase y calidad
 

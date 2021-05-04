@@ -29,9 +29,9 @@ Tienes [HUAWEI Watch GT 2 Pro - Smartwatch con Pantalla AMOLED de 1.39"  hasta D
 ℹ️:
 
 - Puedes recibir, rechazar o silenciar llamadas y verificar el historial directamente en tu HUAWEI WATCH GT 2 Pro a través de la conexión Bluetooth con tu smartphone
-- La esfera del reloj de zafiro, resistente al desgaste, se combina a la perfección con el marco de titanio para un diseño ligero y sólido, la parte posterior de cerámica brillante y agradable para la piel ofrece un uso cómodo
-- Requisitos del sistema: Android 5.0 o posterior, iOS 9.0 o posterior
 - Con un seguimiento de datos preciso para más de 100 modos de entrenamiento, incluidos 17 modos profesionales y 85 modos personalizados, el smartwatch te ayuda a rastrear todos los movimientos, además, el nuevo modo Golf Driving Range es capaz de analizar la postura del swing de forma inteligente y proporcionar referencias de datos para mejoras
+- Requisitos del sistema: Android 5.0 o posterior, iOS 9.0 o posterior
+- La esfera del reloj de zafiro, resistente al desgaste, se combina a la perfección con el marco de titanio para un diseño ligero y sólido, la parte posterior de cerámica brillante y agradable para la piel ofrece un uso cómodo
 - HUAWEI WATCH GT 2 Pro proporciona datos completos como la frecuencia cardíaca, velocidad media, pendiente máxima, distancia para el esquí de fondo, rutas, etc
 - Hasta 2 semanas de duración de la batería proporcionan energía continua para una vida eficiente, con 5 minutos de carga rápida inalámbrica, puedes utilizarlo durante 10 horas, también admite la carga inversa desde tu smartphone
 

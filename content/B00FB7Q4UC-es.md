@@ -28,9 +28,9 @@ Tienes [Guess Reloj de Pulsera W0289L1](https://www.amazon.es/dp/B00FB7Q4UC/?tag
 
 🔎:
 
-- Movimiento: Cuarzo, Display: Analogico
-- Correa material/color: Pu & Leather Strap/Azul
 - Caja material/color: Acero/Bicolor Oro Rosa
 - Tamaño: 39MM
+- Correa material/color: Pu & Leather Strap/Azul
+- Movimiento: Cuarzo, Display: Analogico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FB7Q4UC/?tag=tolees-21)
