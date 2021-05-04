@@ -28,10 +28,10 @@ Ahora mismo tienes [Quiksilver Molokai Word Block Youth  Zapatos de Playa y Pisc
 
 🔎:
 
-- Correa de goma sintética flexible en 3 puntos
-- Líneas finas en colores pop coordinados en el lateral de la suela
-- Plantilla con textura anti-deslizante
 - Marca Quiksilver y logo fino moldeado con la montaña y la ola
+- Líneas finas en colores pop coordinados en el lateral de la suela
 - Suela exterior de goma inflada con muescas multi-ángulo con logo para mayor tracción
+- Plantilla con textura anti-deslizante
+- Correa de goma sintética flexible en 3 puntos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SYC7FGF/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Ewent EW3935 Regleta Puertos Enchufes Múltiples Base 2 USB 
 
 🔎:
 
-- 2 puertos de carga USB (2,1 a) para cargar incluso más dispositivos en el mismo tiempo, como smartphone, tableta, auriculares Bluetooth, altavoces Bluetooth
 - Completa de interruptor luminoso y dispone de orificios para la fijación a pared/pared/mesa
+- Cable de alimentación largo 1,5 metros con Schuko, cable: H05VV-F 3 G 1.0 mm2
+- 2 puertos de carga USB (2,1 a) para cargar incluso más dispositivos en el mismo tiempo, como smartphone, tableta, auriculares Bluetooth, altavoces Bluetooth
 - Garantía de 2 años EWENT en el producto
 - 5 enchufes schuko de eléctricas disponen de agujeros con protección para niños, para alimentar ordenadores, televisores, monitores, lámparas, estéreo para la casa o la oficina
-- Cable de alimentación largo 1,5 metros con Schuko, cable: H05VV-F 3 G 1.0 mm2
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01FH3ETJ2/?tag=tolees-21)
