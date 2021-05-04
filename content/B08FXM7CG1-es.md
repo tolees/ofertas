@@ -28,8 +28,8 @@ Está [Jack & Jones JCOSNOW Knit Crew Neck STS Jersey de Punto  Kangaroo  M para
 
 ℹ️:
 
-- Cuello redondo
-- Jersey de punto
 - 100% algodón
+- Jersey de punto
+- Cuello redondo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FXM7CG1/?tag=tolees-21)
