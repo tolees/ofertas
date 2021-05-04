@@ -28,7 +28,7 @@ Está [Superga Classic  Zapatillas Unisex Adulto  Rosa  Pink Skin W6y   47 EU](h
 
 ℹ️:
 
-- Con cordones.
 - Zapatillas Superga Fashion.
+- Con cordones.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CKHP76B/?tag=tolees-21)

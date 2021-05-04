@@ -28,10 +28,10 @@ En este momento está [Econanos - Mascarilla De Protección Ffp2 Autofiltrante C
 
 🔎:
 
-- Embaladas en prácticas bolsas zip reutilizables
-- Con cómodas y suaves cintas elásticas de sujección
-- Con cómodo clip nasal ajustable
-- 5 capas de material de filtrado de alto rendimiento que ofrecen máxima protección
 - Cumplen con el Reglamento Europeo 2016/425 para EPIs y el estándar europeo: EN 149:2001 + A1:2009
+- 5 capas de material de filtrado de alto rendimiento que ofrecen máxima protección
+- Con cómodas y suaves cintas elásticas de sujección
+- Embaladas en prácticas bolsas zip reutilizables
+- Con cómodo clip nasal ajustable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08R8GQCBP/?tag=tolees-21)
