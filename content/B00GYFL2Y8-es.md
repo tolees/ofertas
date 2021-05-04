@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TATAY 3360709 - Soporte de Ducha regulab con un 40.04 % de descuento'
-date: 2021-04-30 09:24:20
+date: 2021-05-04 09:30:31
 image: 'https://m.media-amazon.com/images/I/31jxwnSh9YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [TATAY 3360709 - Soporte de Ducha regulable multiposición
 
 🔎:
 
-- Fabricado en ABS con acabado cromado
-- Fácil de instalar
-- Material de fijación incluido
 - Universal
 - Soporte multiposición
+- Fácil de instalar
+- Fabricado en ABS con acabado cromado
+- Material de fijación incluido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00GYFL2Y8/?tag=tolees-21)

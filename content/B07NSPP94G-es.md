@@ -28,9 +28,9 @@ Tienes [Funko - Pop! Figura de Vinilo: TV: Dawsons Creek S1 - Joey](https://www.
 
 🔎:
 
+- Dawsons creek joey
 - De la colección dawsons creek, joey como figura de vinilo pop de funko
 - Funko pop! vinyl
-- Dawsons creek joey
 - Dawsons creek
 - Descúbre otras figuras de la colección dawsons creek y colecciónalas todas!
 

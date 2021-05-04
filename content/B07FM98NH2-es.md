@@ -28,10 +28,10 @@ Ahora mismo tienes [Real Betis - Temporada 2019/2020 - Kappa - ZOSHI 3 Polo  Hom
 
 🔎:
 
-- Producto para aficionados de fútbol
-- Material resistente y durable
 - Adecuado para coleccionar o regalar
 - Logotipo Omini bordado en el pecho
+- Material resistente y durable
+- Producto para aficionados de fútbol
 - Real Betis logotipo bordado en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FM98NH2/?tag=tolees-21)

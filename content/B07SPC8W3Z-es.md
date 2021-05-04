@@ -28,10 +28,10 @@ En este momento está [adidas Advantage C  Zapatillas de Tenis Unisex niños  Mu
 
 🔎:
 
-- Exterior: Cuero Sintético
-- , Suela: Caucho
-- , Perforado De Lado 3Stripes
-- , Forro: Tela
 - , Cierre: Velcro
+- , Forro: Tela
+- Exterior: Cuero Sintético
+- , Perforado De Lado 3Stripes
+- , Suela: Caucho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SPC8W3Z/?tag=tolees-21)

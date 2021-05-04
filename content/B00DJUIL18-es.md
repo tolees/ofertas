@@ -28,10 +28,10 @@ En este momento está [Xcore Nutrition BCAA Complex 3100 400 Tabs - Excelente F�
 
 🔎:
 
-- Suplemento que refuerza el sistema inmunitario y mantiene niveles favorables de testosterona
-- Previene el catabolismo/pérdida de masa muscular. Fuente natural de energía
-- Ingredientes de primera calidad para el culturismo: L-leucina, valina e isoleucina
 - Fabricado en Europa: Certificado por laboratorios independientes
+- Previene el catabolismo/pérdida de masa muscular. Fuente natural de energía
 - Transporta nitrógeno y aumenta la síntesis de proteínas. Contribuye al desarrollo de masa muscular
+- Suplemento que refuerza el sistema inmunitario y mantiene niveles favorables de testosterona
+- Ingredientes de primera calidad para el culturismo: L-leucina, valina e isoleucina
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00DJUIL18/?tag=tolees-21)

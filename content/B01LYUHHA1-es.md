@@ -29,7 +29,7 @@ Está [Acana Puppy Small Breed 340 gr](https://www.amazon.es/dp/B01LYUHHA1/?tag=
 ℹ️:
 
 - Deliciously Tasty For The Fussiest Of Dogs
-- Ingredientes animales frescos
 - Dieta Rica
+- Ingredientes animales frescos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LYUHHA1/?tag=tolees-21)

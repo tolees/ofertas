@@ -29,8 +29,8 @@ Está [Philips Avent - Set de recipientes para leche materna  10 recipientes + 1
 ℹ️:
 
 - 10 recipientes de 180 ml
-- Fácil de usar y limpiar
 - Aptos para el frigorífico/congelador
+- Fácil de usar y limpiar
 - Tapa antiderrames
 - Se puede escribir en vasos y tapas Vea
 
