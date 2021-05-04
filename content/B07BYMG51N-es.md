@@ -28,9 +28,9 @@ Está [MARSGAMING - Mars Gaming MMBC  Ratón Gaming Oficial FC Barcelona  Ergon�
 
 ℹ️:
 
+- COMPATIBILIDAD: Compatible con Windows, Linux, Mac, PS4, PS5, XBOX ONE, XBOX SERIES X-S
 - DISEÑO GAMING: El MMBC cuenta con un diseño ergonómico ambidiestro con laterales de goma para obtener un agarre perfecto durante las partidas; 6 Botones y cambio de alta velocidad on-the-fly 400/800/1600/3200DPI con indicadores LED
 - MÁXIMA PRECISIÓN: Sensor óptico profesional de hasta 3200DPI, pies de teflón que te permiten disfrutar de un deslizamiento suave y aumentar la precisión, cable trenzado y USB chapado en oro para obtener una conectividad total
-- COMPATIBILIDAD: Compatible con Windows, Linux, Mac, PS4, PS5, XBOX ONE, XBOX SERIES X-S
 - RATÓN OFICIAL FC BARCELONA: Ratón gaming Oficial del Barça con el escudo del equipo impreso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BYMG51N/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [TATAY 3360709 - Soporte de Ducha regulable multiposición
 
 🔎:
 
-- Universal
-- Soporte multiposición
-- Fácil de instalar
 - Fabricado en ABS con acabado cromado
+- Fácil de instalar
+- Soporte multiposición
 - Material de fijación incluido
+- Universal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00GYFL2Y8/?tag=tolees-21)

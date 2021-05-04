@@ -31,7 +31,7 @@ En este momento está [G-STAR RAW Dunda Stripe Slim Polo  Charcoal 5864-942  S p
 - Bajo recto con aberturas laterales
 - Tapeta de dos botones
 - Manga corta recta insertada
-- Cuello de polo y puños acanalados a rayas
 - logotipo de G-Star RAW bordado en el pecho
+- Cuello de polo y puños acanalados a rayas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CN2NJ3G/?tag=tolees-21)
