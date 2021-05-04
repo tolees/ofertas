@@ -28,10 +28,10 @@ En este momento está [L Oreal Paris - L Oréal Paris Paradise Extatic - Máscar
 
 🔎:
 
-- Su fórmula con aceite de ricino, y su cepillo con fibras rectas y onduladas permite conseguir una mirada de alto impacto de una sola pasada
-- Una máscara diseñada para llevar tus pestañas hasta el paraíso
-- Apto incluso para los ojos más sensibles
-- Aplica el pre base y posteriormente la máscara de pestañas Paradise
 - Ofrece un volumen instantáneo con una aplicación ligera y suave
+- Una máscara diseñada para llevar tus pestañas hasta el paraíso
+- Aplica el pre base y posteriormente la máscara de pestañas Paradise
+- Apto incluso para los ojos más sensibles
+- Su fórmula con aceite de ricino, y su cepillo con fibras rectas y onduladas permite conseguir una mirada de alto impacto de una sola pasada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07P3GL8PB/?tag=tolees-21)

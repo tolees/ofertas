@@ -28,10 +28,10 @@ Ahora mismo tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Azul  B
 
 🔎:
 
-- Revestimiento: Tela
-- Tipo de tacón: Plano
-- Material de la suela: Goma
-- Material exterior: Lona
 - Cierre: Cordones
+- Material exterior: Lona
+- Material de la suela: Goma
+- Tipo de tacón: Plano
+- Revestimiento: Tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TYQD77K/?tag=tolees-21)
