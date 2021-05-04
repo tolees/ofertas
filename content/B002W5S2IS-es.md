@@ -28,10 +28,10 @@ Ahora mismo tienes [Converse Chuck Taylor All Star Ox Negro Canvas](https://www.
 
 🔎:
 
-- Color: negro
-- MÃ¡s informaciÃ³n: Core
 - NÃºmero del fabricante: M9166C
-- Material: Canvas
 - Estilo: Sneaker Low
+- MÃ¡s informaciÃ³n: Core
+- Material: Canvas
+- Color: negro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002W5S2IS/?tag=tolees-21)
