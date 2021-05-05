@@ -28,9 +28,9 @@ Está [Capcom - Resident Evil Revelations HD](https://www.amazon.es/dp/B073SCS51
 
 ℹ️:
 
-- Todos los artículos de DLC incluidos
 - Esquema de Control e interfaz de usuario mejorados
-- Texturas HD actualizadas
 - Desafiante nueva fase de Modo Raid: "Barco Fantasma: Caos"
+- Todos los artículos de DLC incluidos
+- Texturas HD actualizadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073SCS51T/?tag=tolees-21)

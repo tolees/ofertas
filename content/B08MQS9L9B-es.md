@@ -28,10 +28,10 @@ Tienes [HTE Sábana Bajera Ajustable Térmica para Invierno con Tacto Super Suav
 
 🔎:
 
-- Material : 100% poliéster.
 - Lavar a máquina a máxima de 30°C, secar en secadora a baja temperatura.
-- Tejido térmico, perfecto para todas las noches frías.
+- Material : 100% poliéster.
 - Esta sábana bajera ajustable térmica de buena calidad, con tacto muy suave y buena transpirabilidad. Todo el borde de la sábana es de goma elástica, que es más cómodo de usar.
+- Tejido térmico, perfecto para todas las noches frías.
 - Para cama de 90, la medida de la sábana se ajusta perfectamente para cama 90x190/200cm. El paquete incluye 1 sábana bajera ajustable térmica.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MQS9L9B/?tag=tolees-21)

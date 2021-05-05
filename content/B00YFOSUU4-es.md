@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Tanjun  Zapatillas Unisex Adulto  N al 48.01 % de rebaja'
-date: 2021-05-04 10:07:39
+date: 2021-05-05 10:09:50
 image: 'https://m.media-amazon.com/images/I/41l2QCnlw4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B00YFOSUU4/?tag=tolees-21'
 descuento: '48.01'
-average: '32.72'
+average: '30.4766666666667'
 ---
 
 Tienes [NIKE Tanjun  Zapatillas Unisex Adulto  Negro  Black/White/White 011   40 EU](https://www.amazon.es/dp/B00YFOSUU4/?tag=tolees-21) con precio final de  25.99 EUR (original: 49.99 EUR) (48.01 %  de rebaja) aqui!
