@@ -28,8 +28,8 @@ Ahora mismo tienes [Bel Premium Bolas de Algodon  70 piezas](https://www.amazon.
 
 🔎:
 
-- Género: unisex
 - Marca: Bello
 - Tipo de producto: latón
+- Género: unisex
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003ZOFRO2/?tag=tolees-21)

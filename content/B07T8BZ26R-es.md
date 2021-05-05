@@ -28,8 +28,8 @@ Está [ELEVEN FORCE Date First Dates The Game  12197   Multicolor](https://www.a
 
 ℹ️:
 
-- Inspirado en el programa n°1 de tv
 - Party Game
+- Inspirado en el programa n°1 de tv
 - Preguntas incómodas para citas inesperadas; prepárate para una cita que jamás olvidarás
 - Edad recomendada 18+. 4-10 jugadores; versión en castellano
 

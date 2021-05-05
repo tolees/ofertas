@@ -30,8 +30,8 @@ Ahora mismo tienes [Hero - Galletitas Animales  a partir de 12 meses - Pacl de 5
 
 - Desde los 12 meses
 - Snacks 100% eco
-- Sin aceite de palma
-- Elaboradas con materias primas 100% ecológicas
 - Calidad Baby
+- Elaboradas con materias primas 100% ecológicas
+- Sin aceite de palma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BD7FWKK/?tag=tolees-21)
