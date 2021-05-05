@@ -28,7 +28,7 @@ Tienes [NAME IT Nmmbob Dnmtolly 2160 Pant Noos Jeans  Azul  Medium Blue Denim Me
 
 🔎:
 
-- Pull-on Jeans with
 - Stretchy fabric
+- Pull-on Jeans with
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HJ46M9W/?tag=tolees-21)

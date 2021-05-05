@@ -28,9 +28,9 @@ Ahora mismo tienes [SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-USB
 
 🔎:
 
+- Transfiere archivos entre smartphones y tabletas Android con OTG habilitado y PC y Mac
 - Rendimiento USB 3.0 de alta velocidad con hasta 150 MB/s para transferir archivos de la memoria al ordenador
 - Diseño retráctil con doble conector micro-USB y USB 3.0
-- Transfiere archivos entre smartphones y tabletas Android con OTG habilitado y PC y Mac
 - Libera espacio fácilmente en tu smartphone Android con OTG habilitado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M0QR22B/?tag=tolees-21)

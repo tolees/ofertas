@@ -28,10 +28,10 @@ Tienes [Bourjois Radiance Reveal Corrector líquido  Tono 01 Ivory - 7.8 ml](htt
 
 ℹ️:
 
+- Corrector antimperfecciones que ilumina e hidranta la piel
 - Fórmula enriquecida con agua de glaciar del Mont Blanc que ayuda a rehidratar la piel y previene el envejecimiento
 - Contiene ácido hialurónico que ayuda a revitalizar la piel
 - Reduce imperfecciones, ojeras, hinchazón debajo de los ojos y arrugas
 - Aplicador especialmente diseñado que facilita el uso y un acabado preciso
-- Corrector antimperfecciones que ilumina e hidranta la piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01CLO3YA0/?tag=tolees-21)
