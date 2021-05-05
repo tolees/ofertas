@@ -28,10 +28,10 @@ Tienes [Devolo Magic 2 LAN – 2400 triple Starter Kit: Set adapt. Powerline LAN
 
 ℹ️:
 
+- Powerline del líder: El adaptador dispone de una transmisión de señal muy rápida, señal de Internet para toda la casa fácilmente a través de la línea eléctrica existente
 - Internet de alta velocidad: La velocidad de transmisión de 2400 Mbit/s y la tecnología G.hn permiten la velocidad de Internet más rápida para todos los dispositivos
+- Última generación de G.hn, no compatible con versiones anteriores; puede combinarse con todos los adaptadores de la serie devolo Magic; los adaptadores de la serie dLAN no son compatibles
 - Starter Kit con dos adaptadores Powerline: 1 x adaptador Powerline (con 3 x conexiones Gigabit LAN) + 1 x adaptador de conexión (con 1 x conexión Gigabit LAN), adecuado para usuarios avanzados y jugadores
 - Bien equipado: Tres potentes conexiones Gigabit LAN hacen que cualquier otro Switch resulte superfluo, potencia suficiente incluso para trabajar en la Home Office
-- Powerline del líder: El adaptador dispone de una transmisión de señal muy rápida, señal de Internet para toda la casa fácilmente a través de la línea eléctrica existente
-- Última generación de G.hn, no compatible con versiones anteriores; puede combinarse con todos los adaptadores de la serie devolo Magic; los adaptadores de la serie dLAN no son compatibles
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZJZQ75K/?tag=tolees-21)

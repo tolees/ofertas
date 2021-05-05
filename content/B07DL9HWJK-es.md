@@ -28,10 +28,10 @@ Tienes [Cecotec Hervidor de Agua Eléctrico ThermoSense 220 Steel. 1 2 litros  L
 
 🔎:
 
-- Hervidor de agua de diseño exclusivo con 1,2 litros de capacidad; fabricado en acero inoxidable 18/10, de alta cálida d aisi 304; ideal para uso alimentario, ya que no trasmite olores ni sabores
-- Estación base con giro de 360º que permite el uso tanto a diestros como a zurdos; sin cables; recipiente con base independiente para trasladar la jarra donde quieras; se puede apagar manualmente; asa ergonómica de tacto frío para un uso más cómodo y seguro
-- Indicador luminoso de funcionamiento; doble sistema de protección, desconexión automática contra funcionamiento en seco y contra sobrecalentamiento; seguro infantil y base antideslizante con comportamiento para el cable
 - Incorpora una ventana con indicador de nivel de agua; amplia boca de llenado con tapa abatible para fácil itar el uso y la limpieza; boquilla antigoteo que permite verter el agua sin derramar ni una gota
+- Indicador luminoso de funcionamiento; doble sistema de protección, desconexión automática contra funcionamiento en seco y contra sobrecalentamiento; seguro infantil y base antideslizante con comportamiento para el cable
+- Hervidor de agua de diseño exclusivo con 1,2 litros de capacidad; fabricado en acero inoxidable 18/10, de alta cálida d aisi 304; ideal para uso alimentario, ya que no trasmite olores ni sabores
 - Alta resistencia a la corrosión y totalmente libre de bpa y otros tóxicos. 1630 w de potencia con zona de ebullición rápida; sistema eficiente: placa calefactora fácil de limpiar con la resistencia oculta e integrada en la base
+- Estación base con giro de 360º que permite el uso tanto a diestros como a zurdos; sin cables; recipiente con base independiente para trasladar la jarra donde quieras; se puede apagar manualmente; asa ergonómica de tacto frío para un uso más cómodo y seguro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DL9HWJK/?tag=tolees-21)
