@@ -28,11 +28,11 @@ Tienes [DJI Ronin-S - Estabilizador de 3 Ejes para Cámaras Reflex Digitales DSL
 
 🔎:
 
+- SMOOTHTRACK: la tecnología SmoothTrack le permite pasar con una mano, sin problemas, desde el movimiento hasta el "camera angle" sin esfuerzo; los parámetros personalizables le permiten almacenar sus configuraciones favoritas de SmoothTrack, cambiando de una a otra con un solo clic
 - DISEÑO: la estructura innovadora del Ronin-S eleva la carga de la cámara más allá del eje del rodillo, de modo que la pantalla integrada de la cámara se realiza sin obstrucción del campo visual; el diseño ergonómico permite que el Ronin-S no se mueva cuando se cambia de una posición hacia abajo a una posición hacia arriba con un solo clic
-- MODO DEPORTIVO INNOVADOR: el modo Ronin-S Sport aumenta de manera inteligente la capacidad de respuesta de SmoothTrack para que pueda seguir cada movimiento
 - ECO-SYSTEM: a menudo se necesita algo más que un simple gimbal para sus proyectos; se pueden instalar múltiples montajes de accesorios en el Ronin-S, que brindan soporte completo para componentes adicionales como un micrófono, luces LED e incluso un transmisor de video wireless
 - VERSATILIDAD: el Ronin-S puede montarse fácilmente en un buggy RC para tomas en ángulo bajo o incluso como una cámara remota en un foque. El DJI Focus Command Unit dedicado, se puede instalar en el soporte de accesorios, lo que le permite enfocar cuando opera con la empuñadura estándar
+- MODO DEPORTIVO INNOVADOR: el modo Ronin-S Sport aumenta de manera inteligente la capacidad de respuesta de SmoothTrack para que pueda seguir cada movimiento
 - En la caja: Ronin S Estabilizador, Empuñadura BG37 (Batería integrada), Placa de montaje de la cámara, Tornillo de cámara 1/4"-20 x 3, Soporte para objetivos, Elevador para cámaras, Cable USB-C, Correa de velcro para el estabilizador, Estuche de almacenamiento, Rueda Focus, Cable de control infrarrojo RSS, Cable de control multi-cámara (Tipo-C), Cable de control multi-cámaras (Tipo-B), Empuñadura secundaria / Trípode (Metal), Adaptador de alimentación USB de 24 W (Varía según la región), Caja de accesorios, Llave Allen x 2, Correa de velcro para el cable
-- SMOOTHTRACK: la tecnología SmoothTrack le permite pasar con una mano, sin problemas, desde el movimiento hasta el "camera angle" sin esfuerzo; los parámetros personalizables le permiten almacenar sus configuraciones favoritas de SmoothTrack, cambiando de una a otra con un solo clic
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DFKML89/?tag=tolees-21)

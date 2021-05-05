@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.02 % en Jack & Jones Jjepaulos Polo SS Noos  Gri'
-date: 2021-04-18 07:25:40
+date: 2021-05-05 17:10:19
 image: 'https://m.media-amazon.com/images/I/31xJLpMVa2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B079BVKB5F/?tag=tolees-21'
 descuento: '35.02'
-average: '14.3697014925373'
+average: '14.3594814814815'
 ---
 
 Tienes [Jack & Jones Jjepaulos Polo SS Noos  Gris  Dark Grey Melange Detail: Slim Fit - Melange   Large para Hombre](https://www.amazon.es/dp/B079BVKB5F/?tag=tolees-21) con un 35.02 % de descuento con precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
