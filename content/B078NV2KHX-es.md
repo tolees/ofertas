@@ -28,10 +28,10 @@ Ahora mismo tienes [Teazers Teazers Wheelie Vibrador 245 g](https://www.amazon.e
 
 🔎:
 
-- 2 motores
-- 9 patrones
-- Rueda giratoria
-- 3 velocidades
 - Diseño unico
+- 3 velocidades
+- 2 motores
+- Rueda giratoria
+- 9 patrones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078NV2KHX/?tag=tolees-21)

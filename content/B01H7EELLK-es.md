@@ -29,8 +29,8 @@ Ahora mismo tienes [Pyramid International - Back To The Future - Badge Pack](htt
 🔎:
 
 - Dimensiones del paquete: 10 x 12,5 cm
-- Contiene 1 insignia grande y 4 insignias más pequeñas
-- Decora mochilas escolares o ropa con estas divertidas insignias
 - Grandes regalos de fiesta
+- Decora mochilas escolares o ropa con estas divertidas insignias
+- Contiene 1 insignia grande y 4 insignias más pequeñas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01H7EELLK/?tag=tolees-21)
