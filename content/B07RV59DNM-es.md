@@ -29,7 +29,7 @@ Tienes [Hero Solo Snack Infantil  50g](https://www.amazon.es/dp/B07RV59DNM/?tag=
 🔎:
 
 - Ecológico
-- No fritos
 - Calidad Baby
+- No fritos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RV59DNM/?tag=tolees-21)

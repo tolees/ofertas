@@ -28,10 +28,10 @@ En este momento está [YARUIKE Lámpara de uñas Lampara Secadora de Uñas LED/U
 
 🔎:
 
+- 【Control inteligente de tiempo y temperatura】30s/60S/90S/120S tiempo ajustable, 60%/ 80%/100% de temperatura ajustable, conveniente para que usted elija el tiempo y la temperatura que desee.
+- 【Sensor automático y luz ambiental】Después de encender,no hay necesidad de seleccionar el modo,y el sensor de movimiento incorporado activa automáticamente la lámpara de secado cuando se activa manualmente.Quite la mano, la luz se apaga,lo cual es muy conveniente para En la periferia de la pantalla, hay luces de ambiente únicas y hermosas,que pueden cambiar automáticamente las luces de diferentes colores para agregar diferentes colores para usted.
 - 【Para una Experiencia de Salón en Casa y su Propio estilo DIY】Disfrute de una experiencia de salón con su amigo y familia en casa,YARUIKE lampara led uñas de uñas de gel es la mejor opción para usted.
 - 【Lámpara de uñas LED UV profesional para manicura / pedicura】El uso de perlas de lámpara UV / LED (fuente de luz dual) puede curar rápidamente todos los geles, de los cuales 30 perlas pueden emitir luz uniformemente sin callejones sin salida, reduciendo así en gran medida el tiempo de uso. La sequedad es 80% más alta que otros productos y la potencia es de hasta 72W.
 - 【Pantalla de visualización inteligente y rendimiento de seguridad】Patente exclusiva, certificación completa, resistencia a altas temperaturas, mantiene el voltaje estable cuando se conecta a la fuente de alimentación, evitando el riesgo potencial de seguridad causado por la fuga de chispas.
-- 【Sensor automático y luz ambiental】Después de encender,no hay necesidad de seleccionar el modo,y el sensor de movimiento incorporado activa automáticamente la lámpara de secado cuando se activa manualmente.Quite la mano, la luz se apaga,lo cual es muy conveniente para En la periferia de la pantalla, hay luces de ambiente únicas y hermosas,que pueden cambiar automáticamente las luces de diferentes colores para agregar diferentes colores para usted.
-- 【Control inteligente de tiempo y temperatura】30s/60S/90S/120S tiempo ajustable, 60%/ 80%/100% de temperatura ajustable, conveniente para que usted elija el tiempo y la temperatura que desee.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DRQJD8S/?tag=tolees-21)

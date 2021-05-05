@@ -28,10 +28,10 @@ Tienes [BERING Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxida
 
 🔎:
 
-- Caja: acero inoxidable de grado médico 316l / plata / 31 mm de diámetro / 6 mm de espesor
 - Resistente al agua hasta 5 ATM / 50 metros / 168 pies , resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
-- Correa: acero inoxidable de grado médico 316l / gris / 180 mm de largo / 14 mm de ancho
+- Caja: acero inoxidable de grado médico 316l / plata / 31 mm de diámetro / 6 mm de espesor
 - El cristal de zafiro es resistente a golpes y rayaduras
+- Correa: acero inoxidable de grado médico 316l / gris / 180 mm de largo / 14 mm de ancho
 - Classic Watch Collection , clásico, purista y, sin embargo, emocionante: inspirado en el diseño danés , Quartz
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00KX6GQ4K/?tag=tolees-21)

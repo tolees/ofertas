@@ -28,10 +28,10 @@ Ahora mismo tienes [Mann Filter - Original MANN-FILTER Filtro de aceite HU 612/2
 
 🔎:
 
-- Los productos cumplen los requisitos del reglamento Reach de la UE relativos a la protección de salud y el medio ambiente en los procesos de desarrollo, fabricación, uso y eliminación de residuos
-- Encuentra el filtro compatible: selecciona la marca, modelo, variante y submodelo en el buscador en la parte superior de la página o consulta los documentos de tu coche
 - Filtro de Aceite HU 612/2 X con junta; filtro de aceite libre de metal; dimensiones: H = 103; A = 54; D = 56; B = 21; C = 25
-- Protección y estanqueidad óptimas durante todo el intervalo de mantenimiento, también gracias al medio filtrante adaptado individualmente al uso previsto / Libre de metales y totalmente incinerable
+- Encuentra el filtro compatible: selecciona la marca, modelo, variante y submodelo en el buscador en la parte superior de la página o consulta los documentos de tu coche
 - Los elementos filtrantes de aceite no sólo ofrecen el óptimo rendimiento de filtración, sino que también protegen el motor mediante una limpieza del aceite
+- Los productos cumplen los requisitos del reglamento Reach de la UE relativos a la protección de salud y el medio ambiente en los procesos de desarrollo, fabricación, uso y eliminación de residuos
+- Protección y estanqueidad óptimas durante todo el intervalo de mantenimiento, también gracias al medio filtrante adaptado individualmente al uso previsto / Libre de metales y totalmente incinerable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00252ABNW/?tag=tolees-21)

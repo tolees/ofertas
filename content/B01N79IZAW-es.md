@@ -29,9 +29,9 @@ Tienes [BERING Reloj Analogico para Mujer de Cuarzo con Correa en Silicona 15540
 🔎:
 
 - El cristal de zafiro es resistente a golpes y rayaduras
-- Caja: acero inoxidable de grado médico 316l / plata / 40 mm de diámetro / 7 mm de espesor
-- Resistente al agua hasta 5 ATM / 50 metros / 168 pies , resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
 - Correa: silicona / rojo / 190 mm de largo / 20 mm de ancho
 - Max René Watch Collection , cambie los colores, cambie las correas, cambie el aspecto: la correa se puede cambiar en segundos , Quartz
+- Caja: acero inoxidable de grado médico 316l / plata / 40 mm de diámetro / 7 mm de espesor
+- Resistente al agua hasta 5 ATM / 50 metros / 168 pies , resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N79IZAW/?tag=tolees-21)
