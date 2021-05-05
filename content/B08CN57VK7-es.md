@@ -28,9 +28,9 @@ Ahora mismo tienes [G-STAR RAW Eyben Slim Camiseta  Cab 2757-c339-Casco de Cicli
 
 🔎:
 
-- Bajo recto
-- Manga corta recta insertada
-- Cuello de pico acanalado
 - Estampado de G-Star RAW en el pecho
+- Cuello de pico acanalado
+- Manga corta recta insertada
+- Bajo recto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CN57VK7/?tag=tolees-21)

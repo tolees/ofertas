@@ -29,9 +29,9 @@ En este momento está [Goliath - Slap  Juego de Preguntas para toda la Familia  
 🔎:
 
 - Slap un juego divertido, fácil y muy rápido que fomenta el juego en grupo y aumenta la habilidad y la velocidad de respuesta
+- El objetivo del juego es ser el primer jugador que obtenga 12 puntos respondiendo correctamente las preguntas; ¿Podrás ganar al resto?
 - Slap es un divertido juego de mesa Slap donde se trata de ser el más rápido en contestar correctamente; ¡pero ojo! hay preguntas que pueden tener alguna trampa
 - El contenido del juego es: 1 tablero de juego articulado, 50 cartas (con 500 preguntas), 4 rotuladores borrables y 2 piezas para bloquear brazos
-- El objetivo del juego es ser el primer jugador que obtenga 12 puntos respondiendo correctamente las preguntas; ¿Podrás ganar al resto?
 - ¡Ojo! Las preguntas están llenas de trampas, a veces es mejor la inteligencia que la velocidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0158OS8QU/?tag=tolees-21)

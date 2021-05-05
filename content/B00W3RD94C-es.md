@@ -28,9 +28,9 @@ Tienes [Joma Record Marino Pantalones Cortos Calentador Lycra  Hombres  Marino-3
 
 🔎:
 
+- Con DRY MX, una tecnología capaz de controlar la transpiración del deportista
 - Hecho de 8% elastano, 92% poliamida
 - Incluye un bolsillo interior delantero para mantener objetos pequeños seguros
-- Con DRY MX, una tecnología capaz de controlar la transpiración del deportista
 - Con costuras planas en áreas estratégicas para prevenir el roce
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00W3RD94C/?tag=tolees-21)

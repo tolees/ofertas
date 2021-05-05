@@ -28,8 +28,8 @@ En este momento está [Calvin Klein Short Drawstring Bañador  Negro  PVH Black 
 
 🔎:
 
-- A estrenar y genuina. Somos un vendedor autorizado de Calvin Klein.
 - Ver descripción del producto para obtener más información.
 - Calvin Klein Negro Pantalones cortos de baño con cordón corto
+- A estrenar y genuina. Somos un vendedor autorizado de Calvin Klein.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VRYYF8N/?tag=tolees-21)
