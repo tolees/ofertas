@@ -28,8 +28,8 @@ Tienes [Guess Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidab
 
 🔎:
 
-- Reloj Guess para los Mujeres con un movimiento del Quartz
 - Correa de alta calidad de Acero inoxidable Oro 19 cm de longitud y 16 mm de ancho con un cierre Dobla con pulsador hebilla
+- Reloj Guess para los Mujeres con un movimiento del Quartz
 - Diámetro de la caja: 36 mm, Grueso: 10 mm,Color de la caja: Oro y Color del Dial : Multicolor
 - Peso: 90 g
 - l reloj viene en una caja de regalo con una garantía de 2 años

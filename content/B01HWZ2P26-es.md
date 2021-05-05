@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VITAKRAFT Vita Fuerza Gato Forro húmedo  al 49.14 % de descuento'
-date: 2021-05-03 16:40:40
+date: 2021-05-05 16:35:53
 image: 'https://m.media-amazon.com/images/I/513+VpiXfTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

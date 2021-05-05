@@ -28,10 +28,10 @@ Tienes [Bering Ceramic - Reloj analógico de mujer de cuarzo con correa blanca -
 
 ℹ️:
 
-- El cristal de zafiro es resistente a golpes y rayaduras
 - Resistente al agua hasta 3 ATM / 30 metros / 98 pies , resistencia general a la lluvia, salpicaduras, inmersión accidental y ducha, no apto para nadar o bañarse
-- Caja: acero inoxidable de grado médico 316l / plata / 35 mm de diámetro / 6 mm de espesor
-- Correa: acero inoxidable de grado médico 316l y cerámica / plato / 150 mm de largo / 15 mm de ancho
 - Ceramic Watch Collection , Cerámica de gran tecnología: gran resistencia a los arañazos, muy ligera, resistente al calor y antialérgica , Quartz
+- El cristal de zafiro es resistente a golpes y rayaduras
+- Correa: acero inoxidable de grado médico 316l y cerámica / plato / 150 mm de largo / 15 mm de ancho
+- Caja: acero inoxidable de grado médico 316l / plata / 35 mm de diámetro / 6 mm de espesor
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0045XQ5IO/?tag=tolees-21)
