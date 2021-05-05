@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Michael Kors Reloj Analogico para Mujer  al 62.41 % de rebaja'
-date: 2021-04-28 20:27:39
+date: 2021-05-05 12:42:31
 image: 'https://m.media-amazon.com/images/I/41ZAa5yclnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Michael Kors'
 buyurl: 'https://www.amazon.es/dp/B00944CXEY/?tag=tolees-21'
 descuento: '62.41'
-average: '125.542424242422'
+average: '125.335899999998'
 ---
 
 Tienes [Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3190](https://www.amazon.es/dp/B00944CXEY/?tag=tolees-21) con precio final de  104.89 EUR (original: 279.0 EUR) (62.41 %  de rebaja) aqui!
