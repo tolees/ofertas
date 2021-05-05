@@ -28,9 +28,9 @@ Está [Vauchier - Juguete [versión Francesa]](https://www.amazon.es/dp/B000VBI1
 
 ℹ️:
 
-- Ideal para todos los juegos de dados como el yams
 - Los compartimentos para fichas y dados están integrados en los bordes de la pista.
-- La pista también contiene 5 dados, así como 21 fichas de plástico.
+- Ideal para todos los juegos de dados como el yams
 - Una pista de dados de plástico de 33 cm de diámetro con interior de fieltro verde.
+- La pista también contiene 5 dados, así como 21 fichas de plástico.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000VBI16I/?tag=tolees-21)

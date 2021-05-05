@@ -28,9 +28,9 @@ Tienes [Nerf Fortnite RL  Hasbro E7511EU5 ](https://www.amazon.es/dp/B07Q4C8XP5/
 
 ℹ️:
 
-- Recrea la acción Fortnite en la vida real con este lanzador con el que puedes cargar, preparar y lanzar cohetes en tres pasos
-- Incluye dos cohetes Nerf oficiales de espuma con puntas flexibles y huecas
-- Lanzador Nerf Fortnite RL inspirado en el videojuego Fortnite que lanza cohetes de espuma
 - Edad recomendada: a partir de 8 años
+- Incluye dos cohetes Nerf oficiales de espuma con puntas flexibles y huecas
+- Recrea la acción Fortnite en la vida real con este lanzador con el que puedes cargar, preparar y lanzar cohetes en tres pasos
+- Lanzador Nerf Fortnite RL inspirado en el videojuego Fortnite que lanza cohetes de espuma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Q4C8XP5/?tag=tolees-21)
