@@ -28,13 +28,13 @@ Ahora mismo tienes [Tigex Set de cepillos de dientes para bebé](https://www.ama
 
 🔎:
 
+- El segundo tipo es para la etapa de 6 a 12 meses que probablemente ya tiene algún diente, con lo que tiene algunas cerdas y un mango ergonómico para que lo coja
 - Un set con 3 tipos de cepillo
-- El tercer cepillo es para bebés a partir de 12 meses (con más cerdas) y mango ergonómico para que el propio bebé lo pueda utilizar y desarrollar su autonomía
-- Un set con 3 tipos de cepillo
-- El primero es para poder utilizar en la etapa en el que el bebé tiene de 0 a 3 meses, éste no tiene cerdas, por lo tanto no le haremos daño al bebé ya que aún no tiene dientes pero aliviaremos sus encías
-- El tercer cepillo es para bebés a partir de 12 meses (con más cerdas) y mango ergonómico para que el propio bebé lo pueda utilizar y desarrollar su autonomía
 - El segundo tipo es para la etapa de 6 a 12 meses que probablemente ya tiene algún diente, con lo que tiene algunas cerdas y un mango ergonómico para que lo coja
 - El primero es para poder utilizar en la etapa en el que el bebé tiene de 0 a 3 meses, éste no tiene cerdas, por lo tanto no le haremos daño al bebé ya que aún no tiene dientes pero aliviaremos sus encías
-- El segundo tipo es para la etapa de 6 a 12 meses que probablemente ya tiene algún diente, con lo que tiene algunas cerdas y un mango ergonómico para que lo coja
+- El primero es para poder utilizar en la etapa en el que el bebé tiene de 0 a 3 meses, éste no tiene cerdas, por lo tanto no le haremos daño al bebé ya que aún no tiene dientes pero aliviaremos sus encías
+- Un set con 3 tipos de cepillo
+- El tercer cepillo es para bebés a partir de 12 meses (con más cerdas) y mango ergonómico para que el propio bebé lo pueda utilizar y desarrollar su autonomía
+- El tercer cepillo es para bebés a partir de 12 meses (con más cerdas) y mango ergonómico para que el propio bebé lo pueda utilizar y desarrollar su autonomía
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00H8MW3V2/?tag=tolees-21)
