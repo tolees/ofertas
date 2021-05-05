@@ -28,10 +28,10 @@ Tienes [NEWYES Tableta de Escritura LCD 8 5 Pulgadas | Tablet para Dibujar para 
 
 🔎:
 
-- ❤ 【CÓMODO】: Con la pizarra electrónica podrá crear líneas de diferente grosor en la pantalla en función de la fuerza con la escriba, la sensación será la misma que al usar lápiz y papel.
-- ♻【ECOLÓGICO】: Con esta pizarra lcd, nunca más tendrás que preocuparte por malgastar papel. Cada vez que pulse el botón de borrado aparecerá una nueva hoja en la pantalla. Ya no tendra que comprar más pinturas para niños.
+- 🔒【SEGURO】: La pizarra infantil es adecuado como juguete, está fabricado con plástico de gran calidad, la Pantalla tiene una gran resistencia, , más resistente que otras pizarras digitales similares y más compacto que las pizarras magnétnicas
 - ✅【GARANTÍA DE CALIDAD】: NEWYES garantiza la calidad de sus tabletas gráficas ofreciendo 14 días la devolución si no está satisfecho con el producto y 2 años de garantía.
 - 👧👦【IDEAL PARA NIÑOS】: Con esta tablet de escritura para niños los niños podran desarrollar su creatividad dibujando y aprendiendo a escribir, también podrán usarlo para hacer manualidades niñas. Un regalo para niñas original.
-- 🔒【SEGURO】: La pizarra infantil es adecuado como juguete, está fabricado con plástico de gran calidad, la Pantalla tiene una gran resistencia, , más resistente que otras pizarras digitales similares y más compacto que las pizarras magnétnicas
+- ❤ 【CÓMODO】: Con la pizarra electrónica podrá crear líneas de diferente grosor en la pantalla en función de la fuerza con la escriba, la sensación será la misma que al usar lápiz y papel.
+- ♻【ECOLÓGICO】: Con esta pizarra lcd, nunca más tendrás que preocuparte por malgastar papel. Cada vez que pulse el botón de borrado aparecerá una nueva hoja en la pantalla. Ya no tendra que comprar más pinturas para niños.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JC72LX4/?tag=tolees-21)

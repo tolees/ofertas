@@ -28,9 +28,9 @@ Está [Samsonite Base Boost - Spinner L Expandible Maleta  78 cm  105/112.5 L  R
 
 ℹ️:
 
-- Logotipo de metal y bolsillos con cremallera en la parte delantera
-- Candado de combinación con función TSA
 - Bolsillo frontal con capacidad de almacenamiento
+- Candado de combinación con función TSA
+- Logotipo de metal y bolsillos con cremallera en la parte delantera
 - Maleta Spinner Expansible
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086HLDSPC/?tag=tolees-21)
