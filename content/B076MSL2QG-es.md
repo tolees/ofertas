@@ -28,10 +28,10 @@ Ahora mismo tienes [Bella Aurora Contorno de Ojos Crema Despigmentante  Anti-Arr
 
 🔎:
 
-- También podemos trabajarlo con lisajes en la zona donde se observen líneas de expresión marcadas, y sobre el contorno de labios o rictus
-- El contorno de los ojos se alisa y la mirada luce más joven, descansada y luminosa. Un tratamiento global para el contorno de los ojos, que corrige los problemas actuales y previene los futuros signos de la edad
 - Aplicar mañana y noche realizando un suave masaje con toquecitos con el dedo anular en la zona orbicular justo encima del hueso. El producto cuando penetra, emigra y trata una zona más amplia hasta su completa absorción
 - Posteriormente aplicar la crema o tratamiento habitual en todo el rostro
 - Especialmente formulado para la delicada zona del contorno de los ojos. Reduce las bolsas, ojeras y manchas oscuras. Atenúa las arrugas y líneas de expresión. Con activos de propiedades reafirmantes y tensoras, combate la flacidez del párpado caído
+- También podemos trabajarlo con lisajes en la zona donde se observen líneas de expresión marcadas, y sobre el contorno de labios o rictus
+- El contorno de los ojos se alisa y la mirada luce más joven, descansada y luminosa. Un tratamiento global para el contorno de los ojos, que corrige los problemas actuales y previene los futuros signos de la edad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076MSL2QG/?tag=tolees-21)
