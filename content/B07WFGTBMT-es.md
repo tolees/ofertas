@@ -28,10 +28,10 @@ Ahora mismo tienes [Hztyyier Metal Balance Ball  Newtons Cradle Balance Balls F�
 
 🔎:
 
-- ✦ CÓMO JUGAR: Tire hacia atrás una o más de las bolas de equilibrio, suéltelas y la misma cantidad de bolas se moverá hacia arriba en el lado opuesto.
-- ✦ PRESIÓN REDUCIDA: adecuada tanto para niños como para adultos, excelente para matar el tiempo aburrido y liberar el estrés.No es solo un juguete, sino también una buena decoración de escritorio para la oficina o el hogar.
 - ✦ IFTGREAT GIFT: ideal para adornos para el hogar, estudio o accesorios de decoración de mesa de escritorio de oficina para liberar la presión y estimular la aspiración.
+- ✦ PRESIÓN REDUCIDA: adecuada tanto para niños como para adultos, excelente para matar el tiempo aburrido y liberar el estrés.No es solo un juguete, sino también una buena decoración de escritorio para la oficina o el hogar.
 - ✦ EDUCATIVO: Al jugar a estas bolas de cuna de Newton, explore valores significativos de la física, inspíranos a aprender y comprender mejor las leyes del movimiento de Newton.
+- ✦ CÓMO JUGAR: Tire hacia atrás una o más de las bolas de equilibrio, suéltelas y la misma cantidad de bolas se moverá hacia arriba en el lado opuesto.
 - ✦ FUNCIÓN: Este dispositivo demuestra la conservación del impulso y la energía a través de una serie de bolas oscilantes, que es un excelente dispositivo de ciencia educativa.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WFGTBMT/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Color Block Originals Logo Hooded Sudadera con
 
 🔎:
 
-- Puños y cintura acanalados
-- Pecho: gráfico de G-Star estampado sobre un panel tejido, contorno pespunteado
 - Capucha con parte delantera cruzada y cordón ajustable
-- Bolsillo estilo canguro
 - Manga larga recta insertada
+- Puños y cintura acanalados
+- Bolsillo estilo canguro
+- Pecho: gráfico de G-Star estampado sobre un panel tejido, contorno pespunteado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088CFMF63/?tag=tolees-21)

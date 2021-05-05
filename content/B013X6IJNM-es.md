@@ -28,8 +28,8 @@ Está [G-STAR RAW Revend Skinny Vaqueros  Light Aged Destroy 6132-1243  27W / 30
 
 ℹ️:
 
-- Tipo de corte: Slim
 - Un clásico atemporal.
+- Tipo de corte: Slim
 - Arco 3d Slim
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B013X6IJNM/?tag=tolees-21)

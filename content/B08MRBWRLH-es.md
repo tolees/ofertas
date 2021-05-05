@@ -28,10 +28,10 @@ En este momento está [Electronic Arts - BATTLEFIELD V Definitive | Código Orig
 
 🔎:
 
-- Todos los soldados de élite & 84 detalladas variaciones de atuendo
-- 33 objetos de recompensa de capítulo del primer año
-- 8 atuendos de soldado & 2 aspectos para armas del segundo año
 - Descubre Battlefield V Definitive Edition. Incluye:
+- 8 atuendos de soldado & 2 aspectos para armas del segundo año
+- 33 objetos de recompensa de capítulo del primer año
 - 3 acabados para vehículos
+- Todos los soldados de élite & 84 detalladas variaciones de atuendo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MRBWRLH/?tag=tolees-21)

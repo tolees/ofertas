@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Burton Emphasis 2.0  Adultos Unisex  Tru con un 73.05 % de descuento'
-date: 2021-04-25 12:32:25
+title: 'Burton Emphasis 2.0  Adultos Unisex  Tru con un 69.02 % de descuento'
+date: 2021-05-05 18:07:24
 image: 'https://m.media-amazon.com/images/I/31sF4lRoJYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08BLFMMBM-es Burton Emphasis 2.0 Adultos Unisex True Black'
 sku: 'B08BLFMMBM-es'
 tags: [ 'Acampada y senderismo','Deportes y aire libre','Macutos de senderismo','Mochilas y bolsas','Ropa y equipamiento para ocio al aire libre','burton', ]
-actualPrice: 17.52 EUR
+actualPrice: 20.14 EUR
 currency: EUR
-price: 17.52
+price: 20.14
 comparePrice: 65.0 EUR
 prodname: 'Burton Emphasis 2.0  Adultos Unisex  True Black'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Burton'
 buyurl: 'https://www.amazon.es/dp/B08BLFMMBM/?tag=tolees-21'
-descuento: '73.05'
-average: '17.265'
+descuento: '69.02'
+average: '17.5263636363636'
 ---
 
-En este momento está [Burton Emphasis 2.0  Adultos Unisex  True Black](https://www.amazon.es/dp/B08BLFMMBM/?tag=tolees-21) a 17.52 EUR (original: 65.0 EUR) (73.05 %  de descuento) en el siguiente enlace!
+En este momento está [Burton Emphasis 2.0  Adultos Unisex  True Black](https://www.amazon.es/dp/B08BLFMMBM/?tag=tolees-21) a 20.14 EUR (original: 65.0 EUR) (69.02 %  de descuento) en el siguiente enlace!
 
 [![Burton Emphasis 2.0  Adultos Unisex  Tru](https://m.media-amazon.com/images/I/31sF4lRoJYL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08BLFMMBM/?tag=tolees-21)
 
@@ -30,8 +30,8 @@ En este momento está [Burton Emphasis 2.0  Adultos Unisex  True Black](https://
 
 - Correas para llevar tablas
 - Poliéster 600D aprobado por bluesign con respaldo de PU
+- Tirantes ergonómicos con correa ajustable para el esternón.
 - Dimensiones: 19in x 13in x 6in / 48cm x 32cm x 15cm; Peso: 1.3 libras; Volumen: 26L
 - Visite burton.elasticsuite.com para ver más detalles sobre todos nuestros productos bluesign
-- Tirantes ergonómicos con correa ajustable para el esternón.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLFMMBM/?tag=tolees-21)

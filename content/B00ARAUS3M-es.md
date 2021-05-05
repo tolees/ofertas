@@ -30,9 +30,9 @@ En este momento está [Bosch Professional GBA 18V 4.0Ah litio  1 batería x 4.0 
 
 - Professional 18V system; óptimo rendimiento; libertad; todas nuestras baterías son compatibles con las herramientas nuevas o ya existentes de Bosch professional de la misma categoría de potencía
 - Sistema de potencía flexible de Bosch: baterías válidas para todas las herramientas de una misma categoría de potencía
-- Óptima robustez: funcionamiento óptimo incluso tras una caída sobre hormigón desde 3 m de altura
 - Incluye: batería de litio de repuesto GBA 18 V, 4.0 ah
 - Duración hasta un 65 %, en comparación con baterías de 3.0 ah
+- Óptima robustez: funcionamiento óptimo incluso tras una caída sobre hormigón desde 3 m de altura
 - Tecnología COOLPACK con una vida útil hasta un 100 % más larga, en comparación con baterías sin COOLPACK
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00ARAUS3M/?tag=tolees-21)
