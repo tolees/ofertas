@@ -28,8 +28,8 @@ Tienes [Superga 2905-cotw Linea Up and Down  Zapatillas de Gimnasia Mujer  Azul 
 
 ℹ️:
 
-- Material de la suela: goma
-- Forro: tela
 - Material exterior: tela
+- Forro: tela
+- Material de la suela: goma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TXLT5BV/?tag=tolees-21)

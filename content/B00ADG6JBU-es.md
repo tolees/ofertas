@@ -30,8 +30,8 @@ Está [Gillette Satin Care With Touch of Olay Gel de afeitado sensible  200 ml](
 
 - Para una piel suave y satinada.
 - La lubricación durante el afeitado deja tu piel increíblemente suave y lisa.
+- Ligeramente perfumado.
 - Esta fórmula ayuda a proteger la piel contra la pérdida de humedad mientras se afeita.
 - Para obtener excelentes resultados, úsalo con cuchillas Gillette Venus.
-- Ligeramente perfumado.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00ADG6JBU/?tag=tolees-21)

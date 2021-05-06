@@ -28,8 +28,8 @@ Tienes [MyProtein BCAA Plus 1000 Mg Aminoácidos de Cadena Ramificada - 90 Table
 
 ℹ️:
 
-- Formato fácil de consumir en comprimido
 - Inmejorable relación calidad-precio
+- Formato fácil de consumir en comprimido
 - Proporción 2:1:1 de Leucina, Isoleucina y Valina
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00MNNTLH0/?tag=tolees-21)

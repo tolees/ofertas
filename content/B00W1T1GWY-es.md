@@ -29,8 +29,8 @@ Está [ROC Soleil Protect - Fluido Dermocalmante  Alta Tolerancia  SPF50  50 ml]
 ℹ️:
 
 - Fluido Dermocalmante alta tolerancia SPF 50.
-- Protección solar alta. Calmante.
 - Composición: Feverfew PFE. Sin perfume. Sin parabenos. Hipoalergénico.
+- Protección solar alta. Calmante.
 - Para piel sensible. Piel sensibilizada.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00W1T1GWY/?tag=tolees-21)
