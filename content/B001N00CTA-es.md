@@ -28,10 +28,10 @@ Tienes [Eukanuba Alimento seco para perros adultos activos de raza pequeña  ric
 
 ℹ️:
 
-- Prebióticos FOS y pulpa de remolacha para favorecer una digestión sana
 - Una forma de croqueta especial con DentaDefense para mantener los dientes limpios y sanos
-- L-carnitina para ayudar a metabolizar las grasas
-- Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos; Vitaminas E y C, antioxidantes para reforzar el sistema inmunitario
 - Pollo fresco y rico en proteínas para construir músculos fuertes y magros
+- Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos; Vitaminas E y C, antioxidantes para reforzar el sistema inmunitario
+- L-carnitina para ayudar a metabolizar las grasas
+- Prebióticos FOS y pulpa de remolacha para favorecer una digestión sana
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001N00CTA/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [Black+Decker KA900E Lijadora multifunciones Powerfile  35
 🔎:
 
 - Brazo de lijado mm
-- 3 cintas abrasivas
 - 3 metros de cable
 - Acción ciclónica hace girar contenedor de polvo
+- 3 cintas abrasivas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000XG3ORW/?tag=tolees-21)
