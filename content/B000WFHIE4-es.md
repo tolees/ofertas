@@ -30,7 +30,7 @@ Tienes [TRIXIE Bebedero Viaje con botella  250 ml  Dog on Tour  Perro](https://w
 
 - plástico
 - con gancho para colgar p.ej. a cinturón
-- simplemente desplegar la botella y retirar el tapón
 - ideal como bebedero durante el viaje
+- simplemente desplegar la botella y retirar el tapón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000WFHIE4/?tag=tolees-21)

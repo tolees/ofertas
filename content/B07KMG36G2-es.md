@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas Fit 2pc 3s Traje de Baño  Mujer  Negro  36](https://
 
 🔎:
 
-- Corte de pernera medio
 - Fabricado de forma sostenible
 - Espalda con tirantes en V
 - Tirantes finos
+- Corte de pernera medio
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KMG36G2/?tag=tolees-21)

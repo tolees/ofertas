@@ -28,10 +28,10 @@ Tienes [Mimosín Creaciones Flor de la Pasión y Bergamota Suavizante Concentrad
 
 🔎:
 
-- Suavizante concentrado creado a partir de combinaciones de fregancias frutales y florales
-- Permite una duración de hasta 58 lavados
-- Promueve y se adapta a un secado más rápido
-- Mantiene una suavidad estupenda en todas las prendas
 - Consigue mantener el color y el brillo
+- Promueve y se adapta a un secado más rápido
+- Permite una duración de hasta 58 lavados
+- Mantiene una suavidad estupenda en todas las prendas
+- Suavizante concentrado creado a partir de combinaciones de fregancias frutales y florales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073QRRVF4/?tag=tolees-21)
