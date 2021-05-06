@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lápiz de color multitalento STABILO wood al 36.84 % de descuento'
-date: 2021-05-05 06:35:15
+date: 2021-05-06 15:39:23
 image: 'https://m.media-amazon.com/images/I/51v-9IWqVJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [Lápiz de color multitalento STABILO woody 3 en 1 ARTY - Est
 
 🔎:
 
+- Lápiz de colores, acuarela y cera en un lápiz
 - Se puede pintar con agua
 - Alta opacidad e intensidad de color, también en papeles oscuros y cartón
-- Se puede quitar fácilmente del cristal con agua
-- Lápiz de colores, acuarela y cera en un lápiz
 - También puede pintar en muchas superficies lisas
+- Se puede quitar fácilmente del cristal con agua
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081NS97BB/?tag=tolees-21)
