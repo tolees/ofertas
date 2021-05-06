@@ -28,10 +28,10 @@ Está [Anna Codorniu  Vino blanco  750 ml](https://www.amazon.es/dp/B01DWBXMTY/?
 
 ℹ️:
 
-- Nota de cata (boca): Sensación fresca al inicio, con una media boca más voluminosa y un final largo y refrescante; notas cítricas y notas golosas; persistente y textura sugerente
-- Maridaje: Platos típicos que contienen carnes blancas, pescado, mariscos, arroces, y pastas; también ideal para cocinas asiáticas como la japonesa y la tailandesa, tempuras, y verduras a la plancha
-- Nota de cata (vista): Brillante amarillo dorado
-- Varietales: Chardonnay y Gëwurztraminer
 - D.O; catalunya
+- Nota de cata (boca): Sensación fresca al inicio, con una media boca más voluminosa y un final largo y refrescante; notas cítricas y notas golosas; persistente y textura sugerente
+- Varietales: Chardonnay y Gëwurztraminer
+- Nota de cata (vista): Brillante amarillo dorado
+- Maridaje: Platos típicos que contienen carnes blancas, pescado, mariscos, arroces, y pastas; también ideal para cocinas asiáticas como la japonesa y la tailandesa, tempuras, y verduras a la plancha
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DWBXMTY/?tag=tolees-21)

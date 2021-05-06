@@ -28,10 +28,10 @@ Está [ENERGY FUSION Mascarilla FFP2 caja de 20 unidades   con Ajustador Craneal
 
 ℹ️:
 
+- Probado y certificado por la CE según la norma EN 149: 2001 + A1: 2009; Reglamento (UE) 2016/425 para equipos de protección personal
 - Características: hipoalergénico, clip de nariz ajustable, material transpirable, comodidad óptima y filtración
 - Contiene: 20 Mascarillas FFP2 + Ajustador Craneal , desechables, CE 2834
-- Esta mascara facial FFP2 NR es un equipo de protección respiratoria desechable que cumple con los máximos estándares de protección contra partículas transportadas por el aire. La mascarilla desechable FFP2 95% de eficacia de filtración mínima, 8% de fuga hacia el exterior, ofrece protección frente a residuos no tóxicos, sí frente a elementos fibrogénicos.
 - MÁXIMA PROTECCIÓN +94%: impide que inhalemos fluidos tóxicos de polvo, aerosoles y humos. Actúa contra distintos tipos tóxicos de polvo, humo y aerosoles.
-- Probado y certificado por la CE según la norma EN 149: 2001 + A1: 2009; Reglamento (UE) 2016/425 para equipos de protección personal
+- Esta mascara facial FFP2 NR es un equipo de protección respiratoria desechable que cumple con los máximos estándares de protección contra partículas transportadas por el aire. La mascarilla desechable FFP2 95% de eficacia de filtración mínima, 8% de fuga hacia el exterior, ofrece protección frente a residuos no tóxicos, sí frente a elementos fibrogénicos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08N8HN6PJ/?tag=tolees-21)

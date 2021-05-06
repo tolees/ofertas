@@ -28,10 +28,10 @@ Está [Clarks Blake Jewel  Sandalia con Pulsera Mujer  Negro  Black Leather-   3
 
 ℹ️:
 
-- Altura Del Talón: 2cm
 - Suela: TPR
-- Ajuste: (d) Estándar
 - Uppers: Cuero
+- Ajuste: (d) Estándar
+- Altura Del Talón: 2cm
 - Forro: Textil
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FQX6BPY/?tag=tolees-21)

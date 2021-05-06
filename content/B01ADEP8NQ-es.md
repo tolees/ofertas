@@ -28,10 +28,10 @@ En este momento está [Full Marks - FullMarks Spray Antipiojos para Niños con L
 
 🔎:
 
-- Incluye lendrera metálica de calidad para retirar los piojos muertos y liendres
-- Sin pesticidas: no daña el cuero cabelludo ni crea resistencias
-- 100% eficaz contra piojos y liendres; Basado en estudio in vitro y la aplicación adecuada de la loción/spray con el uso posterior de la lendrera
 - Para niños a partir de 1 año
 - Cómodo y fácil de usar; Sin olores
+- 100% eficaz contra piojos y liendres; Basado en estudio in vitro y la aplicación adecuada de la loción/spray con el uso posterior de la lendrera
+- Sin pesticidas: no daña el cuero cabelludo ni crea resistencias
+- Incluye lendrera metálica de calidad para retirar los piojos muertos y liendres
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01ADEP8NQ/?tag=tolees-21)

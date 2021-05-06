@@ -28,7 +28,7 @@ En este momento está [Lacoste PF7839 Polo  Black  38 para Mujer](https://www.am
 
 🔎:
 
-- Petit piqué de suave algodón unicolor
 - Cuello acanalado con 2 botones de nácar
+- Petit piqué de suave algodón unicolor
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071HNLT3R/?tag=tolees-21)
