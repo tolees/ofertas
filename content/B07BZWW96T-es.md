@@ -29,8 +29,8 @@ Está [Joma Academia Full](https://www.amazon.es/dp/B07BZWW96T/?tag=tolees-21) c
 ℹ️:
 
 - Transpirable: telas que ofrecen una correcta transpiración de la cabeza con el cuerpo.
-- Regular: Adherente, pero no apretado en la cintura, este modelo "c-fort", ofrece una flexibilidad y libertad de movimiento.
-- Libertad de movimiento: cabezas hechas de malla elástica que facilitan el movimiento durante la práctica deportiva
 - Adaptabilidad: El tejido que está hecho de la cabeza permite un mejor ajuste al cuerpo del atleta
+- Libertad de movimiento: cabezas hechas de malla elástica que facilitan el movimiento durante la práctica deportiva
+- Regular: Adherente, pero no apretado en la cintura, este modelo "c-fort", ofrece una flexibilidad y libertad de movimiento.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BZWW96T/?tag=tolees-21)

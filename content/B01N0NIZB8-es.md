@@ -28,13 +28,13 @@ En este momento está [BW - B+W XS-Pro - Filtro  Densidad Neutra ND 0.9 803  Nan
 
 🔎:
 
+- ND puro
 - Multitratado
-- la absorción de la luz es muy equilibrada en toda el área visible, produciendo imágenes perfectas sin dominantes de color
-- capa exterior con tratamiento basado en nanotecnología que repele el agua y suciedad
 - manufacturados con un vidrio especial pulido, con efecto ND mejorado gracias a la combinación de 3 tratamientos usando una tecnología de laminado fino específica
+- Alta calidad
+- capa exterior con tratamiento basado en nanotecnología que repele el agua y suciedad
+- la absorción de la luz es muy equilibrada en toda el área visible, produciendo imágenes perfectas sin dominantes de color
 - para evitar reflejos, el tratamiento incluye siete capas anti-reflectantes en cada lado del filtro
 - Recubrimiento nano
-- Alta calidad
-- ND puro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N0NIZB8/?tag=tolees-21)

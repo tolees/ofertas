@@ -28,10 +28,10 @@ Tienes [ZJchao - Polígrafo  Ajustable Detector de Mentiras  Juguete de polígra
 
 ℹ️:
 
+- Correa de su mano en su lugar; PRESS el botón de reinicio, a continuación, mantener su inmóvil mano, presione el botón "Analizador". La unidad tendrá una lectura de ustedes, las estadísticas vitales para la comparación.
+- Su cuestionaron ahora pueden hacer sus propias preguntas asegurándose de empujar el botón "Analizador" después de cada pregunta. El "detector de mentiras" medirá su nivel de la mentira cada vez que los boton.
 - Los LED de nivel "Lie" se activarán secuencialmente y se oye el producto emite un "tono lectura completa". Sus datos han cargado en el equipo detector de mentiras. Ya está listo para ser interrogado.
 - Ponga su mano en el detector de mentiras en el hueco de la mano asegurarse de que está haciendo contacto con todos los sensores.
 - Por favor leer atentamente las advertencias antes de Instrucciones de uso! Este es un juego extraño de nuevos modelos, no en el sentido tradicional de los juguetes! No apto para niños menores de 14 años de edad para jugar.
-- Su cuestionaron ahora pueden hacer sus propias preguntas asegurándose de empujar el botón "Analizador" después de cada pregunta. El "detector de mentiras" medirá su nivel de la mentira cada vez que los boton.
-- Correa de su mano en su lugar; PRESS el botón de reinicio, a continuación, mantener su inmóvil mano, presione el botón "Analizador". La unidad tendrá una lectura de ustedes, las estadísticas vitales para la comparación.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M5IVVQL/?tag=tolees-21)

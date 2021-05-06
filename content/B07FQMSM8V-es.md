@@ -28,9 +28,9 @@ En este momento está [Clarks Un Aldric Step  Mocasines Hombre  Negro  Black Lea
 
 🔎:
 
-- Exterior: piel
 - Suela: goma
-- Cierre: sin cierre
 - Ancho del zapato: estrecho
+- Cierre: sin cierre
+- Exterior: piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FQMSM8V/?tag=tolees-21)
