@@ -28,8 +28,8 @@ Tienes [Satisfyer Pro 2 - Estimulador de Clítoris - 1 Unidad](https://www.amazo
 
 🔎:
 
-- Sensacion realista
 - Sin mando
+- Sensacion realista
 - Estimulador
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JF4YFJY/?tag=tolees-21)

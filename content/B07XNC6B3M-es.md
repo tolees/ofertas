@@ -30,9 +30,9 @@ En este momento está [Mc Haus NAVIAN - Sillón Nórdico Escandinavo  butaca com
 
 - Dimensiones del producto: 47x74x76 cm
 - Sillón acolchado y con reposabrazos para un perfecto confort
-- Ideal para cualquier rincón del hogar
 - Disponible en diferentes colores
 - Mantenimiento: limpiar con un paño húmedo
+- Ideal para cualquier rincón del hogar
 - Diseño nórdico y funcional, en color azul
 - Montaje fácil y sencillo
 

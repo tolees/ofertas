@@ -28,10 +28,10 @@ Está [Tesura Games - UglyDolls: Una Aventura Imperfecta](https://www.amazon.es/
 
 ℹ️:
 
-- Jugad juntos: ¡El trabajo en equipo hace que el sueño funcione! Adéntrate en el Uglyverse con amigos y familiares con el multijugador local
-- En esta nueva aventura de UglyDolls, Uglyville está siendo asediada por una compañía de robots que funcionan mal y que accidentalmente viajan a la ciudad desde Perfección donde son superados por la extraña arquitectura y sus ángulos extravagantes
-- Juega una y otra vez: Los elementos generados aleatoriamente aseguran que cada partida sea única
-- Encarna a Moxy u Ox cuando se unan con sus amigos de UglyDolls para acabar con estos robots que causan el caos
 - Resuelve puzles: Consigue, usa y crea objetos para vencer a los enemigos
+- Encarna a Moxy u Ox cuando se unan con sus amigos de UglyDolls para acabar con estos robots que causan el caos
+- Juega una y otra vez: Los elementos generados aleatoriamente aseguran que cada partida sea única
+- En esta nueva aventura de UglyDolls, Uglyville está siendo asediada por una compañía de robots que funcionan mal y que accidentalmente viajan a la ciudad desde Perfección donde son superados por la extraña arquitectura y sus ángulos extravagantes
+- Jugad juntos: ¡El trabajo en equipo hace que el sueño funcione! Adéntrate en el Uglyverse con amigos y familiares con el multijugador local
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PBVBG1K/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Yvi - Ratón óptico inalámbrico  16 al 38.49 % de rebaja'
-date: 2021-04-28 07:30:58
+date: 2021-05-06 11:01:01
 image: 'https://m.media-amazon.com/images/I/41RheBTDCEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trust'
 buyurl: 'https://www.amazon.es/dp/B00E9UVLUA/?tag=tolees-21'
 descuento: '38.49'
-average: '7.52153846153846'
+average: '7.555'
 ---
 
 Tienes [Trust Yvi - Ratón óptico inalámbrico  1600 DPI  color azul](https://www.amazon.es/dp/B00E9UVLUA/?tag=tolees-21) con precio final de  7.99 EUR (original: 12.99 EUR) (38.49 %  de rebaja) aqui!
@@ -30,8 +30,8 @@ Tienes [Trust Yvi - Ratón óptico inalámbrico  1600 DPI  color azul](https://w
 
 - Cobertura inalámbrica de 8 m (2,4 GHz)
 - Receptor USB súper pequeño que puede guardarse dentro del ratón
-- Botón DPI para cambiar al instante la velocidad del ratón (800-1600 dpi)
-- Lados de goma para un mayor comodidad y mejor agarre
 - Fácil de usar: sólo hay que conectarlo
+- Lados de goma para un mayor comodidad y mejor agarre
+- Botón DPI para cambiar al instante la velocidad del ratón (800-1600 dpi)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00E9UVLUA/?tag=tolees-21)
