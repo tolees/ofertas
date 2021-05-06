@@ -28,10 +28,10 @@ Está [Cruzcampo Cerveza  12 x 330ml](https://www.amazon.es/dp/B01C7D9KR6/?tag=t
 
 ℹ️:
 
-- Cerveza estilo Pilsen
-- 4,8% de alcohol en volumen
 - De color rubio pajizo y espuma consistente (con ligero aroma frutal y sabor balanceado de dulce de malta y amargor suave)
 - Consumirla entre 0° y 3°C para obtener sus óptimas cualidades
 - Ingredientes naturales: agua, malta de cebada, lúpulo, maíz y levadura
+- 4,8% de alcohol en volumen
+- Cerveza estilo Pilsen
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01C7D9KR6/?tag=tolees-21)
