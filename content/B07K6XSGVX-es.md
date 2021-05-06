@@ -28,8 +28,8 @@ Está [Levi s Original Hm tee Camiseta  LS Cotton + Patch Dress Blues  S para Ho
 
 ℹ️:
 
+- Elaborada en punto suave
 - Con un discreto logo en el pecho
 - Modelo casual
-- Elaborada en punto suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K6XSGVX/?tag=tolees-21)
