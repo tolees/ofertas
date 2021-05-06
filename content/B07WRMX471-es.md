@@ -28,11 +28,11 @@ Está [Energizer - Pilas Recargables 8 Unidades](https://www.amazon.es/dp/B07WRM
 
 ℹ️:
 
-- La primera batería AA recargable del mundo está hecha con un 4% de baterías recicladas
-- Cada batería se puede cargar hasta 1 000 veces; con una carga que puede durar hasta 12 meses en almacenamiento
-- Energizer Recarga de energía más baterías vienen precargadas y listas para usar
 - Paquete de 8pilas recargables Energizer + 2000 mAh NiMH AA recargables
 - ¡Nota! El embalaje puede variar
+- La primera batería AA recargable del mundo está hecha con un 4% de baterías recicladas
 - Una sola carga te permite disfrutar de hasta 5,5 horas de actividad de juguete o 7,5 horas en tu dispositivo de juego portátil (los resultados varían según el dispositivo y el uso)
+- Cada batería se puede cargar hasta 1 000 veces; con una carga que puede durar hasta 12 meses en almacenamiento
+- Energizer Recarga de energía más baterías vienen precargadas y listas para usar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WRMX471/?tag=tolees-21)

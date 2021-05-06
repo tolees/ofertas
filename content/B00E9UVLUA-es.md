@@ -28,9 +28,9 @@ Tienes [Trust Yvi - Ratón óptico inalámbrico  1600 DPI  color azul](https://w
 
 🔎:
 
-- Cobertura inalámbrica de 8 m (2,4 GHz)
-- Receptor USB súper pequeño que puede guardarse dentro del ratón
 - Fácil de usar: sólo hay que conectarlo
+- Receptor USB súper pequeño que puede guardarse dentro del ratón
+- Cobertura inalámbrica de 8 m (2,4 GHz)
 - Lados de goma para un mayor comodidad y mejor agarre
 - Botón DPI para cambiar al instante la velocidad del ratón (800-1600 dpi)
 

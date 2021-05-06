@@ -29,8 +29,8 @@ Ahora mismo tienes [New Balance 624v5  Zapatillas Mujer  Negro  Black   45.5 EU]
 🔎:
 
 - Cierre: Cordones
-- Material de la suela: Sintético
 - Revestimiento: Tela
+- Material de la suela: Sintético
 - Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KRLCR17/?tag=tolees-21)
