@@ -28,9 +28,9 @@ Tienes [Bourjois Satin Edition Sombra de Ojos Líquida Tono 1 Beige seller - 28 
 
 ℹ️:
 
+- Con pigmentos iridiscentes
+- Sombra de ojos líquida
 - Con una fórmula cremosa
 - Ligera y duradera
-- Sombra de ojos líquida
-- Con pigmentos iridiscentes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BC5PSHF/?tag=tolees-21)

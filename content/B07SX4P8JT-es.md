@@ -28,9 +28,9 @@ En este momento está [Roxy Flora  Alpargata para Mujer  Beige  Wheat We9   38 E
 
 🔎:
 
-- __Suela interior:__ suela interior acolchada con espuma de memoria y estampado gráfico
 - __Detalle parte superior:__ sin cordones con puntera envuelta en yuta y pin con logo ROXY
 - __Parte superior:__ parte superior de textil
+- __Suela interior:__ suela interior acolchada con espuma de memoria y estampado gráfico
 - __Suela exterior:__ suela exterior flexible inyectada con TPR y contorno de yuta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SX4P8JT/?tag=tolees-21)

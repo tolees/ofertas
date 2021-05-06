@@ -29,9 +29,9 @@ Tienes [POWERADD Power Bank 20000mAh QC18W Cargador Portátil Batería Externa C
 🔎:
 
 - 【Modo de Baja Corriente】Al presionar dos veces rápidamente, cambia por el modo baja corriente, puede cargar dispositivos eléctricos de baja potencia, es seguro y conveniente.
-- 【18W Carga Rápida Bidireccional 】Una salida de USB y entrada de Micro USB todas velocidades pueden hasta 18W, y otra salida es 5V/2.4A. Le ofrece una carga más rápida y ahorra tiempo.
 - 【Compatible Universal】Esta batería externa es aproximadamente compatible con todos los teléfonos móviles.
 - 【La Capacidad Amplificada】Amplíe la capacidad a 20000mAh sobre la base original, es mejor para los viajes corto o largos, va al campo. No se preocupe si su dispositivo no tiene energía.
 - 【Único "Ojo de Águila" LED Indicador】Una vez conectado al dispositivo, se iluminará gradualmente, es igual que el ojo de águila cool, brinda una experiencia visual espectacular e interesante.
+- 【18W Carga Rápida Bidireccional 】Una salida de USB y entrada de Micro USB todas velocidades pueden hasta 18W, y otra salida es 5V/2.4A. Le ofrece una carga más rápida y ahorra tiempo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08FRFWC4Z/?tag=tolees-21)
