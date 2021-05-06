@@ -28,9 +28,9 @@ Tienes [Segway-Ninebot One S2 - Monociclo eléctrico  24 km/h  Control a través
 
 🔎:
 
-- Dos compartimentos para la batería. El Ninebot S2 está equipado con dos baterías, uno en el lado izquierdo y otro en el derecho. El vehículo sigue funcionando cuando se le quita una de las batería
-- Diseño único, como un lienzo en blanco para hacer volar su imaginación. Las dos caras del vehículo en color blanco le permiten personalizar totalmente el Ninebot One S2
 - Sistema de Gestión Inteligente de la batería (BMS)
 - Soporta climas duros. El sistema interno con todos los circuitos del Ninebot One S2 está herméticamente sellado y proporciona una protección nominal IP54, como la lluvia y el barro
+- Dos compartimentos para la batería. El Ninebot S2 está equipado con dos baterías, uno en el lado izquierdo y otro en el derecho. El vehículo sigue funcionando cuando se le quita una de las batería
+- Diseño único, como un lienzo en blanco para hacer volar su imaginación. Las dos caras del vehículo en color blanco le permiten personalizar totalmente el Ninebot One S2
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M1YFP4P/?tag=tolees-21)
