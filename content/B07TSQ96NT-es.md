@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Equalizer 4.0  Zapatillas sin C al 49.98 % de descuento'
-date: 2021-04-24 07:08:45
+date: 2021-05-05 23:25:42
 image: 'https://m.media-amazon.com/images/I/41Z0ZZankmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

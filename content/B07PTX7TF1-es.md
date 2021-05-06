@@ -28,10 +28,10 @@ Está [nonda Adaptador USB C a USB 3.0  USB Tipo-C a USB  Adaptador Thunderbolt 
 
 ℹ️:
 
-- [USB 3. 0 SuperSpeed] hasta 5Gbps de velocidad de transferencia de datos. Adaptador USB C a USB de alta velocidad.
 - [1 año] Si lo deseas, puedes actualizar a 3 años registrándote en el programa adaptador USB-C de nonda.
 - [Compatibilidad de uso simultáneo] No bloquea el puerto USB-C adyacente, lo que puede ocurrir en los adaptadores sin cable.
 - [Enchufar y Usar] Adaptador OTG. No se necesitan controladores ni software adicionales. Adaptador Thunderbolt 3 a USB.
 - [Compatibilidad universal] Compatible con computadoras portátiles/tabletas/teléfonos inteligentes con un puerto USB de tipo C incluyendo MacBook Pro 2018/2017/2016, MacBook Air 2018, Nintendo Switch, Samsung Galaxy S8/S9.
+- [USB 3. 0 SuperSpeed] hasta 5Gbps de velocidad de transferencia de datos. Adaptador USB C a USB de alta velocidad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PTX7TF1/?tag=tolees-21)
