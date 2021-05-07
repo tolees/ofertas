@@ -28,9 +28,9 @@ Ahora mismo tienes [Funko - Pop Animation: Rick & Moty - Hologram Rick Clone](ht
 
 🔎:
 
-- From rick moty, hologram rick clone, as a stylized pop vinyl from funko
 - Check out the other rick moty figures from funko collect them all
-- Funko pop is the 2018 toy of the year and peoples choice award winner
 - Figure stands 9cm and comes in a window display box
+- Funko pop is the 2018 toy of the year and peoples choice award winner
+- From rick moty, hologram rick clone, as a stylized pop vinyl from funko
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SPVSJGD/?tag=tolees-21)

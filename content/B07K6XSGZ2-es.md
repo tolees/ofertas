@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Original Hm tee Camiseta  LS Cotton + Patch White  S 
 
 🔎:
 
-- Elaborada en punto suave
-- Modelo casual
 - Con un discreto logo en el pecho
+- Modelo casual
+- Elaborada en punto suave
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K6XSGZ2/?tag=tolees-21)

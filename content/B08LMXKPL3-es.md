@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cuidado personal No Reutilizable Negra p con un 40.71 % de descuento'
-date: 2021-05-02 19:54:45
+date: 2021-05-07 19:38:46
 image: 'https://m.media-amazon.com/images/I/41p7eXH83XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
