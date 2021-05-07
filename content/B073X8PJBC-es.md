@@ -28,10 +28,10 @@ En este momento está [Lotus Watches Reloj Análogo clásico para Mujer de Cuarz
 
 🔎:
 
-- Material de la carcasa: acero inoxidable plateado.
-- Material de la correa: acero inoxidable plateado.
 - Color de la esfera: juego con diamantes de imitación azules. Tipo de esfera: mineral.
 - Resistencia al agua: 5 bar.
+- Material de la carcasa: acero inoxidable plateado.
+- Material de la correa: acero inoxidable plateado.
 - Diámetro de la caja: 28 mm.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073X8PJBC/?tag=tolees-21)
