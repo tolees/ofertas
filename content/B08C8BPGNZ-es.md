@@ -28,9 +28,9 @@ En este momento está [SSC NAPOLI Camiseta réplica Portero Home 2020/21  Camise
 
 🔎:
 
-- Incluye 1 transfer símbolo celebración Coppa Italia 2020 aplicable con calor
-- REGULAR FIT
 - Manga corta raglan, cuello redondo, gráfica en imprenta sublimática
+- Incluye 1 transfer símbolo celebración Coppa Italia 2020 aplicable con calor
 - Réplica oficial de la camiseta de juego KOMBAT para hombre en tejido interlock.
+- REGULAR FIT
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08C8BPGNZ/?tag=tolees-21)
