@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maped 197512 - Pack de compás  abrazader al 39.46 % de rebaja'
-date: 2021-04-19 10:46:42
+date: 2021-05-07 14:17:55
 image: 'https://m.media-amazon.com/images/I/41bbFm3-g2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Maped'
 buyurl: 'https://www.amazon.es/dp/B004XBLAEW/?tag=tolees-21'
 descuento: '39.46'
-average: '2.48277777777778'
+average: '2.4745'
 ---
 
 Tienes [Maped 197512 - Pack de compás  abrazadera y estuche de minas  Negro  Plata](https://www.amazon.es/dp/B004XBLAEW/?tag=tolees-21) con precio final de  1.81 EUR (original: 2.99 EUR) (39.46 %  de rebaja) aqui!
@@ -28,11 +28,11 @@ Tienes [Maped 197512 - Pack de compás  abrazadera y estuche de minas  Negro  Pl
 
 🔎:
 
-- Escolar
-- Compás
 - Con adaptador
 - Escolar
 - Compas de 3 piezas (compas+abrazadera+estuche de minas)
 - Con adaptador
+- Escolar
+- Compás
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004XBLAEW/?tag=tolees-21)

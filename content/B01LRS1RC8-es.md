@@ -28,9 +28,9 @@ En este momento está [Bébé Confort  Set de 3 cepillos de dientes](https://www
 
 🔎:
 
-- 2-6-18 meses: cepillo de dientes para bebé y masajeador
 - 1-3-6 meses: estimulación de las encías
-- Pensado especialmente para asegurar una correcta higiene dental al bebé a lo largo de su desarrollo
 - 3-18 meses: cepillo de dientes infantil
+- Pensado especialmente para asegurar una correcta higiene dental al bebé a lo largo de su desarrollo
+- 2-6-18 meses: cepillo de dientes para bebé y masajeador
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LRS1RC8/?tag=tolees-21)

@@ -30,7 +30,7 @@ Ahora mismo tienes [Apli Kids 102533 - Rollo de 900 gomas redondas  20 mm  ABC  
 
 - Fabricado en: España
 - Color: surtidos.
-- Tipo de material: papel.
 - Gomets cumplen con la norma de juguetes EN71-3.
+- Tipo de material: papel.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJFPLPB/?tag=tolees-21)
