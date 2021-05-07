@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Conjunto de bragas de 6 piezas para homb al 41.20 % de descuento'
-date: 2021-04-18 13:11:49
+date: 2021-05-07 09:56:49
 image: 'https://m.media-amazon.com/images/I/519+J4xBJ1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

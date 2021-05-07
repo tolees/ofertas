@@ -28,10 +28,10 @@ Tienes [Walfront - 50pcs M4  M5  M6  M8 Tuercas de Cabeza de Martillo Tuercas de
 
 🔎:
 
-- Superficie galvanizada para una buena resistencia a la roya y un mejor rendimiento
-- Adecuado para perfiles de extrusión de aluminio estándar europeos
-- Acero al carbono de alta calidad, alta dureza y larga vida útil
 - Tuerca total 50pcs, M4, M5, M6, M8 Thead, tono de plata
+- Adecuado para perfiles de extrusión de aluminio estándar europeos
 - Fácil de usar y conveniente para conectar perfiles de aluminio a otras partes
+- Acero al carbono de alta calidad, alta dureza y larga vida útil
+- Superficie galvanizada para una buena resistencia a la roya y un mejor rendimiento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07LD8SH59/?tag=tolees-21)

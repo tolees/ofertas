@@ -28,11 +28,11 @@ Ahora mismo tienes [Casio G-SHOCK Reloj Digital  Contador de pasos  Sensor de mo
 
 🔎:
 
-- Resistente a los golpes
+- Tiene función de hora universal
 - Caja y correa de resina sintética, un material flexible y resistente
+- Reloj resistente al agua hasta 20 bares
 - La función Bluetooth se puede utilizar después de la descarga de la Casio "G-SHOCK Conectado" de la aplicación
 - Incluye cronómetro, temporizadores, 5 alarmas diarias, calendario automático, bluetooth smart y lap memory 200
-- Tiene función de hora universal
-- Reloj resistente al agua hasta 20 bares
+- Resistente a los golpes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GB8M7WJ/?tag=tolees-21)

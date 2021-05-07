@@ -29,12 +29,12 @@ Está [Merrell Jungle Moc  Mocasines Hombre  Negro  Midnight   44 EU](https://ww
 ℹ️:
 
 - Composición: 100% cuero
-- Material exterior: Cuero
-- Material de la suela: Goma
 - Altura del tacón: 2 centímetros
 - Revestimiento: Malla
 - Anchura del zapato: Normal
 - Tipo de tacón: Plano
+- Material exterior: Cuero
 - Cierre: Sin cordones
+- Material de la suela: Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000G5XK1U/?tag=tolees-21)
