@@ -28,9 +28,9 @@ Tienes [JVC HA-S180-W-E - Auriculares de Diadema Cerrados con Cable de 1 2m. Cas
 
 ℹ️:
 
-- MÁXIMO COMFORT: Almohadillas sin costuras para un uso confortable de larga duración
-- PORTÁTILES: Disfruta de tu música donde quieras gracias su diseño ligero de 108 gramos (sin cable) sus dos posiciones de plegado (plano y compacto).
 - COMPATIBILIDAD: Nuestros cascos con cable de 1,2 m y conector auxiliar minijack son compatibles con dispositivos Apple Iphone, Ipad y Ipod, así como Tablets, Ordenadores y Portátiles de las principales marcas. Además de con consolas como Playstation 4, Xbox o Nintendo switch
+- PORTÁTILES: Disfruta de tu música donde quieras gracias su diseño ligero de 108 gramos (sin cable) sus dos posiciones de plegado (plano y compacto).
+- MÁXIMO COMFORT: Almohadillas sin costuras para un uso confortable de larga duración
 - COMODIDAD Y DISEÑO: Auriculares de diadema cerrados con cable de 1,2m, conector jack delgado bañado en oro. Cascos ligeros, ergonómicos y plegables.
 - CALIDAD DE SONIDO: Reproducción de sonido de alta calidad sonora gracias al motor de Neodimio de 30 mm. Además incluye sistema Deep Bass para unos graves potentes y profundos.
 

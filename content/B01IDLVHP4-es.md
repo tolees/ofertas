@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Compo Aerosol Doble Acción Insecticida y al 69.08 % de rebaja'
-date: 2021-04-14 13:40:02
+date: 2021-05-07 17:12:17
 image: 'https://m.media-amazon.com/images/I/41FBSMRnMhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Compo'
 buyurl: 'https://www.amazon.es/dp/B01IDLVHP4/?tag=tolees-21'
 descuento: '69.08'
-average: '6.43333333333333'
+average: '5.475'
 ---
 
 Tienes [Compo Aerosol Doble Acción Insecticida y acaricida  para jardinería Exterior doméstica  500 ml](https://www.amazon.es/dp/B01IDLVHP4/?tag=tolees-21) con precio final de  2.6 EUR (original: 8.41 EUR) (69.08 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Compo Aerosol Doble Acción Insecticida y acaricida  para jardinería Ex
 
 🔎:
 
-- Contenido: 1 x COMPO Aerosol Doble Acción, Insecticida y acaricida, Para jardinería exterior doméstica, 500 ml
-- insecticida y acaricida listo para usar para proteger plantas ornamentales de ácaros, insectos chupadores y masticadores, efecto rápido por contacto e ingestión
 - Tratamientos insecticidas de plantas ornamentales contra pulgones, araña roja, cochinillas, trips y mosca blanca, para plantas, arbustos y pequeños árboles ornamentales
+- insecticida y acaricida listo para usar para proteger plantas ornamentales de ácaros, insectos chupadores y masticadores, efecto rápido por contacto e ingestión
 - Lea detenidamente las instrucciones y recomendaciones en la etiqueta del envase antes de utilizar el producto, se recomienda el uso de guantes
+- Contenido: 1 x COMPO Aerosol Doble Acción, Insecticida y acaricida, Para jardinería exterior doméstica, 500 ml
 - Modo de empleo: agitar antes de usar, pulverizar 2-3 segundos a una distancia de 40-50 cm de las hojas en movimientos circulares, tratar también la parte inferior de las hojas y la base, tratar las plantas infectadas 1 vez por semana
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01IDLVHP4/?tag=tolees-21)
