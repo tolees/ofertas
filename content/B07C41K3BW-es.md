@@ -28,8 +28,8 @@ En este momento está [Bormioli Rocco Slot - Juego de vasos  6 unidades   color 
 
 🔎:
 
-- Apto para lavavajillas.
 - Fabricado en Italia.
+- Apto para lavavajillas.
 - Diseño moderno y elegante.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07C41K3BW/?tag=tolees-21)
