@@ -28,9 +28,9 @@ En este momento está [Ubisoft Spain - Assassin s Creed: Rogue Remastered](https
 
 🔎:
 
-- Nuevos packs y contenido desbloqueable
-- Texturas de mayor resolución, sombras e iluminación mejorados, además de otras diversas mejoras a nivel gráfico
-- Ahora en 4k para PS4 Pro y Xbox One X y 1080p en PS4 y Xbox One
 - Estilo de juego naval mejorado
+- Ahora en 4k para PS4 Pro y Xbox One X y 1080p en PS4 y Xbox One
+- Texturas de mayor resolución, sombras e iluminación mejorados, además de otras diversas mejoras a nivel gráfico
+- Nuevos packs y contenido desbloqueable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0792NP8NN/?tag=tolees-21)
