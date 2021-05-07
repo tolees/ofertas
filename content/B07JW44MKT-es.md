@@ -28,8 +28,8 @@ Tienes [Lee Extreme Motion Straight Vaqueros  Cougar  29W / 30L para Hombre](htt
 
 🔎:
 
-- Clasico botón tipo “donut”
 - Cintura flexible
+- Clasico botón tipo “donut”
 - Tejido elástico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JW44MKT/?tag=tolees-21)
