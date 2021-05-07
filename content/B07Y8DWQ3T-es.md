@@ -28,10 +28,10 @@ En este momento está [GIOSEPPO THEUX  Zapatillas Mujer  Beige  Beig Beig   41 E
 
 🔎:
 
+- Sneakers para mujer Gioseppo
+- Combina piel con materiales de fantasía
+- Zapatillas con cuña interna de 3 cm
 - Temporada Primavera-Verano 2020
 - Suela gruesa de 2,8 cm
-- Zapatillas con cuña interna de 3 cm
-- Combina piel con materiales de fantasía
-- Sneakers para mujer Gioseppo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y8DWQ3T/?tag=tolees-21)
