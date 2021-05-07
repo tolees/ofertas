@@ -28,9 +28,9 @@ Tienes [L Oreal Professionnel Paris - L Oreal Professionnel Champú Vitamino Col
 
 🔎:
 
-- Ofrece una hidratación óptima al cabello
-- Champú para cabello sensible coloreado formulado con resveratrol
-- Elimina las impurezas mientras protege el cabello coloreado
 - Lava, suaviza y purifica aportando brillo al cabello
+- Champú para cabello sensible coloreado formulado con resveratrol
+- Ofrece una hidratación óptima al cabello
+- Elimina las impurezas mientras protege el cabello coloreado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XXJ5M9Z/?tag=tolees-21)

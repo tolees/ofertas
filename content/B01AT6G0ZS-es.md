@@ -28,9 +28,9 @@ Tienes [Offgridtec Conducto de Techo Pasaventanas 2 Blanco Cuádruple para Cara
 
 ℹ️:
 
-- Entradas de cable 2
-- Ideal para tendido de cables de solar al interior del coche
 - Resistente a los rayos uva y las inclemencias del tiempo
 - Marca offgridtec
+- Ideal para tendido de cables de solar al interior del coche
+- Entradas de cable 2
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01AT6G0ZS/?tag=tolees-21)
