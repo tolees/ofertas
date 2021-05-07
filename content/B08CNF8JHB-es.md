@@ -28,12 +28,12 @@ En este momento está [Starwax The Fabulous Cristales de Sosa 480 gramos - Desen
 
 🔎:
 
-- Para la ropa muy sucia: limpia en profundidad la ropa y los restos de cal de la lavadora
-- Limpiador multifunciones con propiedades más corrosivas que el bicarbonato, muy desengrasantes y suavizantes para el agua. Potencian la eficacia de los agentes limpiadores
-- Los cristales de sosa de starwax the fabulous constituyen un producto de limpieza multiusos muy eficaz para toda la casa
-- Unidades: 480.0
-- En la cocina: elimina la grasa en las placas de cocción, las campanas y las puertas de los hornos
-- Desatasca y desodoriza las tuberías y prepara las superficies antes de pintar decapando la pintura antigua
 - Componentes incluidos: 480 g de sosa cáustica para jabón
+- Desatasca y desodoriza las tuberías y prepara las superficies antes de pintar decapando la pintura antigua
+- Para la ropa muy sucia: limpia en profundidad la ropa y los restos de cal de la lavadora
+- Los cristales de sosa de starwax the fabulous constituyen un producto de limpieza multiusos muy eficaz para toda la casa
+- En la cocina: elimina la grasa en las placas de cocción, las campanas y las puertas de los hornos
+- Unidades: 480.0
+- Limpiador multifunciones con propiedades más corrosivas que el bicarbonato, muy desengrasantes y suavizantes para el agua. Potencian la eficacia de los agentes limpiadores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CNF8JHB/?tag=tolees-21)

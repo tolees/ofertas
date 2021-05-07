@@ -28,10 +28,10 @@ Tienes [Dove  Gel y jabón  Avena  - 500 ml.](https://www.amazon.es/dp/B07PRQX4B
 
 🔎:
 
-- Dove Gel de Ducha con leche de avena y miel de acacia
-- Una fragancia cálida y cremosa que satisface tus sentidos
 - Su fórmula súper rica limpia y suaviza la piel en profundidad
 - Inspirada en los rituales de belleza de las mujeres nórdicas
+- Dove Gel de Ducha con leche de avena y miel de acacia
+- Una fragancia cálida y cremosa que satisface tus sentidos
 - Gel de ducha indulgente apto para todo tipo de pieles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PRQX4BT/?tag=tolees-21)

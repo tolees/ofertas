@@ -28,10 +28,10 @@ En este momento está [Emporio Armani Smartwatch ART5007](https://www.amazon.es/
 
 🔎:
 
+- Emporio Armani Connected MATTEO - Reloj Inteligente Display para Hombres - Diámetro: 43 mm, grosor: 12 mm, ancho de correa: 20 mm - 3 ATM Sumergible
+- Funciones: Seguimiento del ritmo cardíaco, GPS, Google Pay, Apto para nadar, Notificaciones, Esferas personalizables, Control de tu música, correas intercambiables y mucho más
+- Compatible con Android OS 4.4+ y iOS 9.3+
 - Artículos entregados: 1 Smartwatch EMPORIO ARMANI CONNECTED Display, 1 cargador inalámbrico (tipo USB), 1 Guía de inicio rápido, 1 librito de garantía
 - Duración estimada de la batería: todo el día (según uso)
-- Compatible con Android OS 4.4+ y iOS 9.3+
-- Funciones: Seguimiento del ritmo cardíaco, GPS, Google Pay, Apto para nadar, Notificaciones, Esferas personalizables, Control de tu música, correas intercambiables y mucho más
-- Emporio Armani Connected MATTEO - Reloj Inteligente Display para Hombres - Diámetro: 43 mm, grosor: 12 mm, ancho de correa: 20 mm - 3 ATM Sumergible
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GD8ZXDJ/?tag=tolees-21)

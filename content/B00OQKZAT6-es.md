@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Herbal  Pasta de dientes  diente al 50.74 % de descuento'
-date: 2021-04-26 15:59:09
+date: 2021-05-07 12:49:30
 image: 'https://m.media-amazon.com/images/I/41IIgeYnSfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
