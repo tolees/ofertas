@@ -28,8 +28,8 @@ Está [Haribo Happy Time  1 x 150 g](https://www.amazon.es/dp/B08M1CPBZN/?tag=to
 
 ℹ️:
 
-- Surtido de golosinas.
-- Irresistible mix de sabores.
 - Delicioso mix de diferentes piezas: Ladrillos fresa-nata, Fresón, Tricorazón, Ositos de Oro.
+- Irresistible mix de sabores.
+- Surtido de golosinas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08M1CPBZN/?tag=tolees-21)

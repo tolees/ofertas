@@ -28,11 +28,11 @@ Tienes [RestBed Bio Memory  Colchón Viscoelástico INNOGEL  Blanco  135x190x26c
 
 🔎:
 
-- Acoplamiento perfecto a las formas de nuestro cuerpo gracias al acolchado de viscoelástica en la cara de invierno y del tejido mallado en 3d que aporta frescor y transpiración en la cara de verano
-- El aire circula por el interior del núcleo permitiendo que el descanso resulte más fresco y evitando la acumulación de sudoración y humedades
 - Acolchado con visco innogel; gracias a la estructura de las partículas de gel, es un material termo-regulador y transpirable que evita la concentración de calor en los principales puntos de presión
-- El colchón BioMemory utiliza un sistema que crea una barrera inocua que impide la formación de caros y bacterias en el entorno de descanso
 - Medidas de 135x190cm
+- El aire circula por el interior del núcleo permitiendo que el descanso resulte más fresco y evitando la acumulación de sudoración y humedades
+- Acoplamiento perfecto a las formas de nuestro cuerpo gracias al acolchado de viscoelástica en la cara de invierno y del tejido mallado en 3d que aporta frescor y transpiración en la cara de verano
+- El colchón BioMemory utiliza un sistema que crea una barrera inocua que impide la formación de caros y bacterias en el entorno de descanso
 - Fabricado 100% en España; cumplimos la normativa standard 100 by oeko-tex sistema de pruebas y verificación para productos textiles brutos, intermedios y finales en todas las fases de fabricación
 - Reversible verano/invierno; el colchón se envía enrollado y envasado al vacío
 
