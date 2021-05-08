@@ -28,11 +28,11 @@ En este momento está [New Balance 997H Core  Zapatillas Hombre  Azul  Pigment  
 
 🔎:
 
-- Material de la suela: Sintético
-- Cierre: Cordones
-- Composición: Empeine de malla/ante
-- Tipo de tacón: Plano
 - Material exterior: Cuero
 - Revestimiento: Tela
+- Composición: Empeine de malla/ante
+- Material de la suela: Sintético
+- Tipo de tacón: Plano
+- Cierre: Cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DHXY68V/?tag=tolees-21)

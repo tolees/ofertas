@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Gris  Dark Grey Melan
 
 🔎:
 
-- De algodón.
 - Jersey de Jack & Jones.
+- De algodón.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07C28J9JM/?tag=tolees-21)

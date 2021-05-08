@@ -28,10 +28,10 @@ Ahora mismo tienes [Bronchotos Pediátrico – Jarabe tos seca y productiva. Ni�
 
 🔎:
 
-- Con miel natural y extracto seco de malvavisco
-- Cada 15 ml de Bronchotos Pediátrico contienen: 143 mg de extracto seco de Malvavisco, 750mg de Miel
 - Para cualquier tos asociada al resfriado, tanto tos seca como tos productiva
 - Niños a partir de 1 año
+- Con miel natural y extracto seco de malvavisco
+- Cada 15 ml de Bronchotos Pediátrico contienen: 143 mg de extracto seco de Malvavisco, 750mg de Miel
 - Sin alcohol, Sin Lactosa, Sin Gluten, Sin colorantes artiﬁciales, Sin organismo modiﬁcados genéticamente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KXBXFKR/?tag=tolees-21)

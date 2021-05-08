@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - BATTLEFIELD 1 - Standa con un 75.04 % de descuento'
-date: 2021-05-07 09:49:59
+date: 2021-05-08 12:19:12
 image: 'https://m.media-amazon.com/images/I/51Y9mbPd0PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
