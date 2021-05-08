@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.82 % en Lotus Reloj Analógico para Niños de Cuar'
-date: 2021-04-28 16:01:33
+date: 2021-05-08 16:30:46
 image: 'https://m.media-amazon.com/images/I/41XniRLU4QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Lotus Reloj Analógico para Niños de Cuarzo con Correa en Caucho 18172/
 
 ℹ️:
 
+- Esfera blanca con números arábigos y manecillas blancas y negras
 - Sumergible: 5 bares
 - Diámetro de la caja: 35 mm
-- Esfera blanca con números arábigos y manecillas blancas y negras
 - Carcasa: plástico azul
 - Correa: goma azul y negro
 

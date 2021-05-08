@@ -28,10 +28,10 @@ En este momento está [Ubisoft Spain - Ubisoft - Figurina Six Collection Series 
 
 🔎:
 
-- Continuación de la popular Six Collection
-- Altura: 10 cm
-- Material: vinilo
 - Figuras de gran detalle, inspiradas en los agentes de Rainbow Six Siege
+- Altura: 10 cm
+- Continuación de la popular Six Collection
+- Material: vinilo
 - Incluye un código único que desbloquea un amuleto de arma dentro del juego
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D8D6Y3Z/?tag=tolees-21)
