@@ -28,9 +28,9 @@ Ahora mismo tienes [Staedtler 376473 - Estuche con 40 minas  0.7 mm  HB](https:/
 
 🔎:
 
-- Ventana transparente para un control visual del contenido, trazos de color negro intenso
 - Resistentes a la rotura
-- Tubo con pulsador y punta en forma de embudo para un fácil rellenado
+- Ventana transparente para un control visual del contenido, trazos de color negro intenso
 - Estuche de 40 minas finas de grafito
+- Tubo con pulsador y punta en forma de embudo para un fácil rellenado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0012SU7CK/?tag=tolees-21)

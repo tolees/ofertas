@@ -28,11 +28,11 @@ Está [Konig KN-VHS-C-Adapt - Adaptador para Cintas VHS-C](https://www.amazon.es
 
 ℹ️:
 
-- Dimensiones del producto: 26 x 14 x 2.5 cm
-- Este producto es solo para videocasetes VHS-C, NO COMPATIBLE CON Cintas de 8 mm / MiniDV / Hi8.
 - Requiere una pila AA para funcionar
-- Incorpora una pila AA para abrir automáticamente la parte delantera e introducir o extraer la cinta
 - Este producto es solo para cintas tipo VHS-C. NINGUNA otra cinta funcionará con este adaptador.
 - Adaptador para grabar o ver cintas VHS-C con un grabador de vídeo VHS estándar
+- Incorpora una pila AA para abrir automáticamente la parte delantera e introducir o extraer la cinta
+- Este producto es solo para videocasetes VHS-C, NO COMPATIBLE CON Cintas de 8 mm / MiniDV / Hi8.
+- Dimensiones del producto: 26 x 14 x 2.5 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00QV2T6II/?tag=tolees-21)
