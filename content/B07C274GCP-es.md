@@ -28,9 +28,9 @@ Tienes [Jack & Jones Jjipaul Jjflake AKM 542 Noos Pantalones  Negro  Black Black
 
 🔎:
 
-- Pantalones cargo clásicos en corte pitillo.
+- Tejido de sarga con elástico para mayor comodidad.
 - Composición del material: 98 % algodón, 2 % elastano.
 - Lavado enzimático respetuoso con el medio ambiente para un aspecto usado.
-- Tejido de sarga con elástico para mayor comodidad.
+- Pantalones cargo clásicos en corte pitillo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07C274GCP/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Six Collection - Figura  al 75.19 % de rebaja'
-date: 2021-04-27 21:35:55
+date: 2021-05-08 15:02:26
 image: 'https://m.media-amazon.com/images/I/41rpzaORBJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B07PPP9LHY/?tag=tolees-21'
 descuento: '75.19'
-average: '4.6'
+average: '4.65'
 ---
 
 Tienes [Ubisoft Spain - Six Collection - Figura Ela](https://www.amazon.es/dp/B07PPP9LHY/?tag=tolees-21) con precio final de  4.95 EUR (original: 19.95 EUR) (75.19 %  de rebaja) aqui!
@@ -29,9 +29,9 @@ Tienes [Ubisoft Spain - Six Collection - Figura Ela](https://www.amazon.es/dp/B0
 🔎:
 
 - Figuras de gran detalle, inspiradas en los agentes de rainbow six siege
-- Material: vinilo
-- Incluye un código único que desbloquea un amuleto de arma dentro del juego
-- Han vuelto; añade a vigil y a otros agentes a tu six collection; ubicollectibles presenta con orgullo la tercera serie de agentes de la six collection oficial; ya están disponibles cinco figuras nuevas, todas basadas en los agentes y los amuletos de armas que aparecen en el juego; cada figura viene con un código único para desbloquear contenido exclusivo en rainbow six siege
 - Altura: 10 cm
+- Han vuelto; añade a vigil y a otros agentes a tu six collection; ubicollectibles presenta con orgullo la tercera serie de agentes de la six collection oficial; ya están disponibles cinco figuras nuevas, todas basadas en los agentes y los amuletos de armas que aparecen en el juego; cada figura viene con un código único para desbloquear contenido exclusivo en rainbow six siege
+- Incluye un código único que desbloquea un amuleto de arma dentro del juego
+- Material: vinilo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PPP9LHY/?tag=tolees-21)

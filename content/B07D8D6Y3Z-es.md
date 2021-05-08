@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Ubisoft - Figurina Six C con un 80.19 % de descuento'
-date: 2021-05-02 07:26:01
+date: 2021-05-08 15:01:59
 image: 'https://m.media-amazon.com/images/I/4164ROGaICL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B07D8D6Y3Z/?tag=tolees-21'
 descuento: '80.19'
-average: '5.66583333333333'
+average: '5.61076923076923'
 ---
 
 En este momento está [Ubisoft Spain - Ubisoft - Figurina Six Collection Series 2 Hibana](https://www.amazon.es/dp/B07D8D6Y3Z/?tag=tolees-21) a 4.95 EUR (original: 24.99 EUR) (80.19 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Ubisoft Spain - Ubisoft - Figurina Six Collection Series 
 
 🔎:
 
-- Incluye un código único que desbloquea un amuleto de arma dentro del juego
 - Continuación de la popular Six Collection
 - Altura: 10 cm
 - Material: vinilo
 - Figuras de gran detalle, inspiradas en los agentes de Rainbow Six Siege
+- Incluye un código único que desbloquea un amuleto de arma dentro del juego
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D8D6Y3Z/?tag=tolees-21)
