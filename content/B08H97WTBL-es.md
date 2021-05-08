@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Estación de recarga DualSense - PlayStat al 57.03 % de descuento'
-date: 2021-05-04 19:21:00
+date: 2021-05-08 19:19:38
 image: 'https://m.media-amazon.com/images/I/31nKYamjvYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08H97WTBL/?tag=tolees-21'
 descuento: '57.03'
-average: '62.4168571428574'
+average: '62.1109433962267'
 ---
 
 Ahora mismo tienes [Estación de recarga DualSense - PlayStation 5](https://www.amazon.es/dp/B08H97WTBL/?tag=tolees-21) a 29.99 EUR (original: 69.79 EUR) (57.03 %  de descuento) en el siguiente enlace!
