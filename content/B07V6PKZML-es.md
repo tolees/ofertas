@@ -29,8 +29,8 @@ Está [Giorgi Line - Laca Pro Ultimate Toque Final  Laca Manejable de Acabado Na
 ℹ️:
 
 - Nuestro consejo profesional; si quieres conseguir un mayor control del encrespamiento, aplica la laca directamente sobre el cepillo antes de peinar
-- Está dermatológicamente testado. Una vez acabado, recíclalo en el contenedor amarillo
 - La tecnología Fiber Tech fija las fibras capilares sin limitar su movimiento para un acabado manejable, flexible y muy natural sin dejar de cuidar tu cabello
+- Está dermatológicamente testado. Una vez acabado, recíclalo en el contenedor amarillo
 - Laca para el cabello que fija y realza el pelo sin acartonar, se elimina fácilmente con el cepillo y no deja residuos
 - ¡Dí adiós al Efecto Casco! Nueva generación de Lacas. Peinados manejables y con un acabado natural. Mantiene el peinado al tiempo que permite dar forma al cabello y lo protege de la humedad. Fija y realza el peinado sin acartonar
 

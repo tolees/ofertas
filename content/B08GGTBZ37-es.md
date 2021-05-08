@@ -28,9 +28,9 @@ Ahora mismo tienes [Mission Durum  Pane de masa fermentada envasado - 378 g](htt
 
 🔎:
 
-- Mantener en un lugar fresco y seco
 - País de origen: España
-- Harina de trigo (55%), agua, grasa vegetal (girasol alto oleico)
 - Alérgenos: cereales, gluten
+- Mantener en un lugar fresco y seco
+- Harina de trigo (55%), agua, grasa vegetal (girasol alto oleico)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GGTBZ37/?tag=tolees-21)
