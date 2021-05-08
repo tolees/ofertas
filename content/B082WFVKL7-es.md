@@ -28,10 +28,10 @@ Ahora mismo tienes [Samsung Galaxy A51 - Dual SIM  Smartphone de 6.5" Super AMOL
 
 🔎:
 
-- Mucho más espacio con 128 gde memoria interna y 4 gde ram tienes suficiente almacenamiento para todo lo que quieras
 - Estilo y elegancia enamórate de su elegante diseño en increíbles tonos pastel y su acabado brillante de primera calidad
 - Bate todos los records sin preocuparte por la batería disfruta de largas sesiones de juego o de ma ratón es de tus series favoritas con una batería de 4 000 mah
 - Un innovador sistema de cámara s conviértete en un profesional de las fotos con sus 4 cámara s traseras y hazte selfies espectaculares con la cámara frontal de 32 m
 - Una pantalla casi sin bordes sumérgete profundamente en tus series y juegos favoritos gracias a su pantalla fhd+ de 6 5" con tecnología super amoled
+- Mucho más espacio con 128 gde memoria interna y 4 gde ram tienes suficiente almacenamiento para todo lo que quieras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082WFVKL7/?tag=tolees-21)
