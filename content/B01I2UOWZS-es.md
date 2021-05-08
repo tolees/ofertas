@@ -28,10 +28,10 @@ Ahora mismo tienes [LEITZ 65190095 - Altavoz portátil con conexión Bluetooth C
 
 🔎:
 
-- Compatible con casi cualquier dispositivo dotado de bluetooth (PC, Portátil Smartphone, Tablet), Cable de puerto AUX IN de 3,5 mm incluido, Batería de polímero de litio de 2600mAh recargable que ofrece 60 h de sonido en su altavoz y 10 h de tiempo de navegación adicional con su Smartphone
+- Altavoz estéreo portátil con Bluetooth, Ideal para conferencias
 - Contenido: 1 Altavoz portátil estéreo con Bluetooth Leitz, 65190095, Negro, 1 cable de recarga mini USB e 1 cable AUX-IN 3.5 mm, 5V, 24x15x7 cm, 0.28 kg
 - Transportable en muchos bolsos gracias a su diseño compacto, Ligero y portátil
 - Excelente calidad, Función de reducción del eco, Volumen regulable, Selección de pistas, Botones de Reproducir/ Pausa/Teléfono, Tecnología Full-Dúplex para una comunicación natural y en la que todos puedan hablar simultáneamente
-- Altavoz estéreo portátil con Bluetooth, Ideal para conferencias
+- Compatible con casi cualquier dispositivo dotado de bluetooth (PC, Portátil Smartphone, Tablet), Cable de puerto AUX IN de 3,5 mm incluido, Batería de polímero de litio de 2600mAh recargable que ofrece 60 h de sonido en su altavoz y 10 h de tiempo de navegación adicional con su Smartphone
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01I2UOWZS/?tag=tolees-21)
