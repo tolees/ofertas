@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ewent HUB EW1123 4 Puertos USB 2.0 Color al 35.25 % de descuento'
-date: 2021-05-05 06:16:29
+date: 2021-05-08 21:30:43
 image: 'https://m.media-amazon.com/images/I/41VHvJ0BIgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ewent'
 buyurl: 'https://www.amazon.es/dp/B00FVT7DTQ/?tag=tolees-21'
 descuento: '35.25'
-average: '4.65428571428572'
+average: '4.64400000000001'
 ---
 
 Ahora mismo tienes [Ewent HUB EW1123 4 Puertos USB 2.0 Color Negro](https://www.amazon.es/dp/B00FVT7DTQ/?tag=tolees-21) a 4.5 EUR (original: 6.95 EUR) (35.25 %  de descuento) en el siguiente enlace!

@@ -28,10 +28,10 @@ Tienes [Super Impulse Llavero Tiny Arcade Qbert  multicolor  0810010990181 ](htt
 
 🔎:
 
-- Llavero con anilla
-- Licencia oficial
 - Juego arcade
-- Miniaturas retro
+- Licencia oficial
+- Llavero con anilla
 - Máquina jugable
+- Miniaturas retro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QHMHF4N/?tag=tolees-21)
