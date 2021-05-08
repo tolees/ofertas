@@ -29,9 +29,9 @@ En este momento está [nail gel kit Anself DIY Nail Extension Set 3 colores 15ml
 🔎:
 
 - 🌸🌸【Beauty natural y duradero】El producto es tan ligero y natural como sus propias uñas. Una textura más firme y un efecto más duradero que el gel duro puede ahorrarle problemas en tres semanas o incluso más. Para una mejor adhesión,Una capa gruesa de poli gel se mantendrá más tiempo.
+- 🌈🌈【Valioso kit de nail gel Uñas】Gel polivinílico de 3 * 15 ml,1 * Caja de moldes para uñas (100 piezas),1 * bolígrafo de uñas de doble punta,1 * limpiador de uñas Extensión de uñas rápida y fácil. Práctico y rápido, para una magnífica y duradera extensión y arte de uñas.
+- 💙💙【Esmaltes de Gel Uñas Semipermanenter】Adecuado para aplicar en uñas de gel UV, uñas acrílicas y uñas naturales, etc. Ayuda para fortalecer tus uñas con una capacidad brillante duradera. El gel de extensión de uñas está hecho de polí inofensivo. Es ecológico y no tóxico. Se puede formar rápidamente.
 - 💗💗【Fácil de construir】Extensión de bricolaje rápida y práctica. Ideal para salones de belleza y manicura en casa. Maravilloso regalo para esposa, novia, madre o hermana.Con este kit de gel de extensión de uñas todo , ahorre tiempo y dinero para el salón de uñas, y puede crear varias uñas.
 - 🌟🌟【Caja de moldes para uñas】Embalaje con caja individual, 10 tamaños diferentes en cada cuadrícula, en total 100 piezas sin cola, cada forma de uñas con número firmado. Es fácil de usar y se desprende fácilmente de las uñas acrílicas secas, dejando una uña muy brillante.
-- 💙💙【Esmaltes de Gel Uñas Semipermanenter】Adecuado para aplicar en uñas de gel UV, uñas acrílicas y uñas naturales, etc. Ayuda para fortalecer tus uñas con una capacidad brillante duradera. El gel de extensión de uñas está hecho de polí inofensivo. Es ecológico y no tóxico. Se puede formar rápidamente.
-- 🌈🌈【Valioso kit de nail gel Uñas】Gel polivinílico de 3 * 15 ml,1 * Caja de moldes para uñas (100 piezas),1 * bolígrafo de uñas de doble punta,1 * limpiador de uñas Extensión de uñas rápida y fácil. Práctico y rápido, para una magnífica y duradera extensión y arte de uñas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08J3XGYZR/?tag=tolees-21)

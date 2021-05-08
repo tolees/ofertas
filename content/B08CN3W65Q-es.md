@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.02 % en G-STAR RAW Originals Stripe Logo Camiset'
-date: 2021-05-06 14:33:09
+date: 2021-05-08 09:18:58
 image: 'https://m.media-amazon.com/images/I/41yARC+DObL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
