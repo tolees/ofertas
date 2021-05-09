@@ -29,11 +29,11 @@ Tienes [HUAWEI MateBook X Pro - Ordenador Portátil con pantalla táctil de 13.9
 🔎:
 
 - Procesador Intel Core i7-10510U (4 núcleos, 8 MB cache, 1.8 GHz hasta 4.9 GHz).
-- Pantalla de 13.9" 3K QHD, 3000 x 2000 píxeles, tecnología LTPS táctil.
-- Pantalla táctil con relación pantalla-cuerpo del 91%, elegante cuerpo metálico con exquisito corte de diamante CNC y acabado de chorro de arena.
-- Almacenamiento de 1TB NVMe PCIe SSD.
-- Memoria RAM de 16GB LPDDR3 2133MHz.
-- Tarjeta gráfica NVIDIA GeForce MX250-2GB GDDR5.
 - Sistema Operativo: Windows 10 Home.
+- Memoria RAM de 16GB LPDDR3 2133MHz.
+- Pantalla táctil con relación pantalla-cuerpo del 91%, elegante cuerpo metálico con exquisito corte de diamante CNC y acabado de chorro de arena.
+- Pantalla de 13.9" 3K QHD, 3000 x 2000 píxeles, tecnología LTPS táctil.
+- Tarjeta gráfica NVIDIA GeForce MX250-2GB GDDR5.
+- Almacenamiento de 1TB NVMe PCIe SSD.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088RYGQ4Q/?tag=tolees-21)

@@ -29,10 +29,10 @@ Ahora mismo tienes [Superga 2790Cotw Linea Up And Down  Zapatillas Unisex adulto
 🔎:
 
 - Material de la suela: Sintético
-- Tipo de tacón: Plano
+- Revestimiento: Tela
 - Composición: Lona
 - Material exterior: Lona
-- Revestimiento: Tela
+- Tipo de tacón: Plano
 - Cierre: Cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00HXFRT72/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Superga 2750-cotmetu  Zapatillas de Gimnasia Unisex Adulto  Rosa  Rose G
 
 🔎:
 
+- Forro: tela
 - Material exterior: satén
 - Material de la suela: goma
-- Forro: tela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TVDZ74T/?tag=tolees-21)
