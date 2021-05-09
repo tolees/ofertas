@@ -28,10 +28,10 @@ Ahora mismo tienes [SIMPLETASTE Molinillo eléctrico de pimienta con rotor de ce
 
 🔎:
 
-- Ligero y duradero: un cuerpo de acero inoxidable resistente emparejado con un diseño compacto delgado hace que este molinillo sea ligero y fácil de sostener. La fresa de cerámica a diferencia del metal nunca se oxida, aumentando la durabilidad y manteniendo tus especias sabiendo frescas y naturales
-- Diseño de buen gusto: se ve bien en cualquier mesa de comedor o encimera de cocina. LED integrado junto a la rebaba de cerámica se ilumina automáticamente durante la molienda. Fácil de rellenar, montar y desmontar y limpiar
 - Ajustable: utiliza el tornillo debajo de la base del molinillo para controlar la finura de tu molinillo de pimienta
-- Fácil para todos: la potencia de la batería hace que moler sea conveniente y sin esfuerzo, incluyendo para niños y ancianos. A diferencia de los molinillos manuales, simplemente pulsa el botón en la parte superior y pon la pimienta molida en cualquier plato. Ten en cuenta que las pilas no están incluidas
+- Diseño de buen gusto: se ve bien en cualquier mesa de comedor o encimera de cocina. LED integrado junto a la rebaba de cerámica se ilumina automáticamente durante la molienda. Fácil de rellenar, montar y desmontar y limpiar
 - Multifuncional: mole todo tipo de granos de pimienta, así como un surtido de otras especias, perfecto para la cocina del hogar e incluso restaurantes
+- Fácil para todos: la potencia de la batería hace que moler sea conveniente y sin esfuerzo, incluyendo para niños y ancianos. A diferencia de los molinillos manuales, simplemente pulsa el botón en la parte superior y pon la pimienta molida en cualquier plato. Ten en cuenta que las pilas no están incluidas
+- Ligero y duradero: un cuerpo de acero inoxidable resistente emparejado con un diseño compacto delgado hace que este molinillo sea ligero y fácil de sostener. La fresa de cerámica a diferencia del metal nunca se oxida, aumentando la durabilidad y manteniendo tus especias sabiendo frescas y naturales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YWHMBKC/?tag=tolees-21)

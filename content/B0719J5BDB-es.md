@@ -28,8 +28,8 @@ Tienes [LG SJ2 - Barra de sonido inalá  2.1 channels  160 W  60 W  10 cm  100 W
 
 ℹ️:
 
-- Temporizador de apagado: sí
 - Frecuencia de entrada AC: 50 - 60 Hz
+- Temporizador de apagado: sí
 - Voltaje de entrada AC: 100-240 V
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0719J5BDB/?tag=tolees-21)

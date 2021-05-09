@@ -28,9 +28,9 @@ Tienes [SOTYA - SOTYA B Complex 60 cápsulas 600 mg](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Mantiene en buenas condiciones el sistema nervios
-- De la marca Sotya
 - Cuida el corazón y las arterias
 - Fortalece el sistema inmunológico
+- De la marca Sotya
+- Mantiene en buenas condiciones el sistema nervios
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HZTGGNE/?tag=tolees-21)
