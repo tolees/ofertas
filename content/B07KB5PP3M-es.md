@@ -28,9 +28,9 @@ En este momento está [Edge Entertainment-La Cosa Nostra  Edge Entertaiment EEHB
 
 🔎:
 
-- Recomendado a partir de 16 años de edad
 - Juego de 3 a 5 jugadores
-- Juego de mesa en Español
+- Recomendado a partir de 16 años de edad
 - Contiene 196 cartas, 140 billetes, 2 tableros, 25 fichas de reparto, 4 dados y 1 libro de reglas
+- Juego de mesa en Español
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KB5PP3M/?tag=tolees-21)

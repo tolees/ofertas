@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.84 % en LG SJ2 - Barra de sonido inalá  2.1 chan'
-date: 2021-05-04 17:16:36
+date: 2021-05-09 17:32:21
 image: 'https://m.media-amazon.com/images/I/31UYJW-8gWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

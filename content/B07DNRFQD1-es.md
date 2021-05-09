@@ -31,7 +31,7 @@ Está [Cocinita de juguete Bon Appetit con accesorios  Smoby 310818 ](https://ww
 - Medida: 95,7 cm de alto; altura de la encimera 48,5 cm
 - Esta cocinita es un juego simbólico que estimula la relación entre los peques y contribuye al desarrollo de la motricidad fina y la imaginación; con este juguete de smoby los niños y niñas podrán divertirse mientras juegan a imitar la vida real
 - La cocina infantil bon appetit tiene horno, nevera, fogones, fregadero y cafetera de cápsulas; incluye 17 accesorios
-- óptimo para niños y niñas a partir de 3 años
 - La cocina más chic; Lo último en tendencia; Con todo lo que necesitas para pasar un rato súper divertido con tus amig@s y jugar a cocinar commo un auténtico chef
+- óptimo para niños y niñas a partir de 3 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DNRFQD1/?tag=tolees-21)
