@@ -28,12 +28,12 @@ Está [DJI Mavic Pro - Dron cuadricóptero  4 k/30 fps  12mpx  65 km/h  27 minut
 
 ℹ️:
 
-- Distancia de transmisión máx. para Wi-Fi: 80 m (Distancia), 50 m (Altura) (sin obstáculos, libre de interferencias)
-- FlightAutonomy detecta obstáculos hasta 15 metros de distancia antes y ofrece alta precisión en frenado y giro
-- Con un nuevo sistema de transmisión, 5 sensores de visión, cámara estabilizada 4K
 - Distancia de transmisión máx. para control remoto: Según normas FCC: 7 km (4.3 mi); Según normas CE: 4 km (2.5 mi); Según normas SRRC: 4 km (2.5 mi); Según normas MIC: 4 km (2.5 mi); (sin obstáculos, libre de interferencias)
-- Graba videos de alta definición 4K 30 fps gracias al estabilizador de imagen
-- El nuevo Drone Mavic Pro es pequeño, compacto y fácil de manejar y hace que cada momento sea mágico
+- Distancia de transmisión máx. para Wi-Fi: 80 m (Distancia), 50 m (Altura) (sin obstáculos, libre de interferencias)
 - El estabilizador funciona en todas las situaciones y también a altas velocidades, haciendo videos y fotos en HD
+- FlightAutonomy detecta obstáculos hasta 15 metros de distancia antes y ofrece alta precisión en frenado y giro
+- El nuevo Drone Mavic Pro es pequeño, compacto y fácil de manejar y hace que cada momento sea mágico
+- Graba videos de alta definición 4K 30 fps gracias al estabilizador de imagen
+- Con un nuevo sistema de transmisión, 5 sensores de visión, cámara estabilizada 4K
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M0AVO1P/?tag=tolees-21)

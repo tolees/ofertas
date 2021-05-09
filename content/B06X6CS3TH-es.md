@@ -28,7 +28,7 @@ En este momento está [Lacoste TH6709  Camiseta para Hombre  Blanco  Blanc   L  
 
 🔎:
 
-- Regular fit
 - Punto liso de algodón Pima
+- Regular fit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06X6CS3TH/?tag=tolees-21)

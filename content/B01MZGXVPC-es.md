@@ -28,10 +28,10 @@ Está [Loción corporal Dove intensiva  6 unidades  400 ml .](https://www.amazon
 
 ℹ️:
 
-- Para una piel delicada, suave y bonita.
-- Suave con la piel y dermatológicamente probado.
-- Con complejo DeepCare.
 - Contiene el exclusivo complejo DeepCare con sustancias que cuidan la piel.
+- Con complejo DeepCare.
+- Para una piel delicada, suave y bonita.
 - Hidratación intensa para el cuidado de la piel muy seca.
+- Suave con la piel y dermatológicamente probado.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MZGXVPC/?tag=tolees-21)
