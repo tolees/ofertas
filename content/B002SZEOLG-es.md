@@ -29,8 +29,8 @@ Ahora mismo tienes [TP-Link Adaptador wifi USB inalámbrico Compatible con Raspb
 🔎:
 
 - Quick setup security - encriptación sencilla de la red inalámbrica con tal sólo pulsar el botón qss
-- Antena externa desmontable - lo que permite orientarlas mejor y sustituirlas por antenas de mayores prestaciones
 - Sistema operativo - compatible con raspberry pi, windows10/8.1/8/7/xp, mac os x 10.6-10.11, linux (kernel 2.6.18 ~ 4.4.3)
 - Excelente velocidad inalámbrica n – hasta 150mbps, la mejor experiencia de reproducción de vídeo hd en streaming o llamadas a través de internet
+- Antena externa desmontable - lo que permite orientarlas mejor y sustituirlas por antenas de mayores prestaciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002SZEOLG/?tag=tolees-21)
