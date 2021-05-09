@@ -28,7 +28,7 @@ En este momento está [FILA Disruptor Straps wmn zapatilla Mujer  blanco  White 
 
 🔎:
 
-- Correas de velcro.
 - Chunky outsole
+- Correas de velcro.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08543YLFS/?tag=tolees-21)

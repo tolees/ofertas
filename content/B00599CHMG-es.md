@@ -28,9 +28,9 @@ Tienes [Mandriles Conversar Gris 1J794C Charcoal Chuck Taylor All Star OX  Conve
 
 🔎:
 
+- Color: gris
 - NÃºmero del fabricante: 1J794C
 - Material: Canvas
 - Estilo: Sneaker Low
-- Color: gris
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00599CHMG/?tag=tolees-21)

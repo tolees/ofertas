@@ -28,9 +28,9 @@ Ahora mismo tienes [Schwarzkopf Palette Intense Coloración Permanente  Tono 3 C
 
 🔎:
 
-- Sella los pigmentos del color
-- Ofrece un color duradero y un brillo intenso
-- Resulta una óptima cobertura de las canas
 - Es enriquecida con aceites naturales
+- Sella los pigmentos del color
+- Resulta una óptima cobertura de las canas
+- Ofrece un color duradero y un brillo intenso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082VSYK2T/?tag=tolees-21)

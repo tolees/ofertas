@@ -28,9 +28,9 @@ Ahora mismo tienes [Palette Intense - Tono 7 Rubio Medio Toffee - Coloración Pe
 
 🔎:
 
+- Resulta una óptima cobertura de las canas
 - Es enriquecida con aceites naturales
 - Ofrece un color duradero y un brillo intenso
-- Resulta una óptima cobertura de las canas
 - Sella los pigmentos del color
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082VTDFZH/?tag=tolees-21)
