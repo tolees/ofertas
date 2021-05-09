@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Figuras Ocultas Blu-Ray [Blu-ray] al 41.57 % de descuento'
-date: 2021-05-06 01:50:02
+date: 2021-05-09 08:04:55
 image: 'https://m.media-amazon.com/images/I/510r4XVzSJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUF02TW/?tag=tolees-21'
 descuento: '41.57'
-average: '7.94'
+average: '7.90111111111111'
 ---
 
 Ahora mismo tienes [Figuras Ocultas Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B01MUF02TW/?tag=tolees-21) a 7.59 EUR (original: 12.99 EUR) (41.57 %  de descuento) en el siguiente enlace!

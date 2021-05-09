@@ -31,8 +31,8 @@ En este momento está [Help Flash 2.0 - Luz de emergencia autónoma - Señal V16
 - Pila incluida y función de comprobación de nivel de carga. 2,5 horas en modo emergencia y 5 horas en modo linterna
 - Homologado; número de homologación Idiada PC19080098
 - Potente y resistente: vehículo visible a 1 km; en condiciones de baja visibilidad; certificado IP 54; materiales de máxima calidad
-- Número de pieza:HF BOTON
 - Rapido, facil y eficaz; vehículo señalizado en segundos de forma fácil e intuitiva en situaciones de estrés
 - Con activación magnética automática patentada; el único con esta funcionalidad que hace que su uso sea más rápido e intuitivo
+- Número de pieza:HF BOTON
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08V58SFFR/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Fox - Juego De Tronos Temporada 8 Premiu al 57.26 % de descuento'
-date: 2021-05-06 08:34:28
+title: 'Fox - Juego De Tronos Temporada 8 Premiu al 55.92 % de descuento'
+date: 2021-05-09 08:15:09
 image: 'https://m.media-amazon.com/images/I/51K9ONeHvNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Acción y Aventura','Blu-ray','Ciencia ficción','Drama','Fantasía','F
 actualPrice: 19.21 EUR
 currency: EUR
 price: 19.21
-comparePrice: 44.95 EUR
+comparePrice: 43.58 EUR
 prodname: 'Fox - Juego De Tronos Temporada 8 Premium Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fox'
 buyurl: 'https://www.amazon.es/dp/B07RX7XW7G/?tag=tolees-21'
-descuento: '57.26'
-average: '39.157889447236'
+descuento: '55.92'
+average: '39.0581499999998'
 ---
 
-Ahora mismo tienes [Fox - Juego De Tronos Temporada 8 Premium Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07RX7XW7G/?tag=tolees-21) a 19.21 EUR (original: 44.95 EUR) (57.26 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Fox - Juego De Tronos Temporada 8 Premium Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07RX7XW7G/?tag=tolees-21) a 19.21 EUR (original: 43.58 EUR) (55.92 %  de descuento) en el siguiente enlace!
 
 [![Fox - Juego De Tronos Temporada 8 Premiu](https://m.media-amazon.com/images/I/51K9ONeHvNL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07RX7XW7G/?tag=tolees-21)
 
