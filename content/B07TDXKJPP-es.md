@@ -28,10 +28,10 @@ Ahora mismo tienes [Jebester - Diadema de hoja  diadema y guantes de cosplay Hat
 
 🔎:
 
-- Guantes de cosplay de anime, suaves y cálidos
-- Embalaje: un par de guantes
-- Garantía de posventa: solo vendemos productos de alta calidad. Cualquier pregunta que tengas, no dudes en ponerte en contacto con nosotros. Te responderemos en 24 horas.
-- Tamaño: 18 x 11 cm
 - El paquete incluye: un par de guantes Naruto Kakashi Ninja
+- Garantía de posventa: solo vendemos productos de alta calidad. Cualquier pregunta que tengas, no dudes en ponerte en contacto con nosotros. Te responderemos en 24 horas.
+- Guantes de cosplay de anime, suaves y cálidos
+- Tamaño: 18 x 11 cm
+- Embalaje: un par de guantes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TDXKJPP/?tag=tolees-21)

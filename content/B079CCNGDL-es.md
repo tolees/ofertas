@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jjebas tee SS U-Neck Noos Camiseta  Azul  Navy Blazer Detai
 
 🔎:
 
-- Camiseta básica
 - Algodón suave
+- Camiseta básica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079CCNGDL/?tag=tolees-21)
