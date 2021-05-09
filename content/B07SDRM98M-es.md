@@ -28,10 +28,10 @@ En este momento está [LEVOIT Purificador de Aire con Filtro HEPA H13  CADR 187m
 
 🔎:
 
+- 【Multi-Función】El temporizador le permite configurar el purificador de aire a 2/4/6/8 horas. 3 niveles de ventilador satisfacen diferentes necesidades. La luz indicadora conmutable y el bloqueo de pantalla están disponibles
+- 【100% sin Ozono】 El purificador de aire Core 300 no utiliza UV ni iones que puedan generar ozono durante el funcionamiento. Es 100% libre de ozono y seguro para su salud. Solo el uso de un filtro de reemplazo auténtico puede mantener el rendimiento del dispositivo (Busque el filtro de reemplazo Levoit Core 300-RF)
 - 【Filtración de 3 Etapas】Los sistemas de filtro altamente eficientes consisten en un filtro HEPA clase H13, un filtro de carbón activado y un prefiltro fino. Filtra el 99.97% de partículas finas de polvo, polen, polen, ácaros, cabello; También neutraliza humo, olor a cocina, formaldehído
 - 【Funcionamiento Silencioso】El modo de sueño con un nivel de ruido de 24 dB garantiza un sueño tranquilo y cómodo. En silencio, limpia el aire de la habitación mientras duermes. Ideal para dueños de mascotas, fumadores, alérgicos y niños
-- 【100% sin Ozono】 El purificador de aire Core 300 no utiliza UV ni iones que puedan generar ozono durante el funcionamiento. Es 100% libre de ozono y seguro para su salud. Solo el uso de un filtro de reemplazo auténtico puede mantener el rendimiento del dispositivo (Busque el filtro de reemplazo Levoit Core 300-RF)
-- 【Multi-Función】El temporizador le permite configurar el purificador de aire a 2/4/6/8 horas. 3 niveles de ventilador satisfacen diferentes necesidades. La luz indicadora conmutable y el bloqueo de pantalla están disponibles
 - 【Potente Limpieza del Aire】El purificador de aire Core 300 limpia eficazmente habitaciones de hasta 40 m², como apartamentos o habitaciones para fumadores. Reduce los desencadenantes de alergia y es adecuado para personas que sufren de asma o congestión nasal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SDRM98M/?tag=tolees-21)

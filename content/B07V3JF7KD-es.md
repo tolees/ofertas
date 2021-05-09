@@ -29,7 +29,7 @@ Ahora mismo tienes [Lactovit - Mousse Crème Hidratante Lactourea para Cuerpo y 
 🔎:
 
 - Su textura Mousse Crème de acabado mate incorpora la exclusiva tecnología Quick break para un acabado extra suave y una sensación en la piel tan ligera como el aire
-- Una piel fuerte es el secreto de una piel joven.
 - Su fórmula altamente nutritiva aporta hasta 24h de hidratación a la piel
+- Una piel fuerte es el secreto de una piel joven.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07V3JF7KD/?tag=tolees-21)

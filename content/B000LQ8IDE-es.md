@@ -28,9 +28,9 @@ En este momento está [Value PS/2 to USB USB A PS/2 Púrpura - Adaptador para Ca
 
 🔎:
 
-- Value - Adaptador PS/2 USB
 - Conector 2: PS/2
-- Morado. Conector 1: USB A
 - Género del conector: Male connector / Female connector. Color del producto: Púrpura
+- Value - Adaptador PS/2 USB
+- Morado. Conector 1: USB A
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000LQ8IDE/?tag=tolees-21)
