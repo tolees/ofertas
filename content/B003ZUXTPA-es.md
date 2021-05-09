@@ -28,11 +28,11 @@ En este momento está [Casio G-SHOCK Reloj Digital  20 BAR  Negro  para Hombre  
 
 🔎:
 
-- Con función de hora universal y formato de 12/24 horas
-- Resistente al agua hasta 20 bar / 200 metros
-- Incluye luz LED, cronómetro, temporizador, 5 alarmas y calendario automático
 - Caja y correa de resina sintética, un material resistente y flexible
-- La duración de la batería es de 7 años
 - Cristal mineral, difícil de rayar, que protege el reloj de daños externos
+- Con función de hora universal y formato de 12/24 horas
+- La duración de la batería es de 7 años
+- Incluye luz LED, cronómetro, temporizador, 5 alarmas y calendario automático
+- Resistente al agua hasta 20 bar / 200 metros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003ZUXTPA/?tag=tolees-21)

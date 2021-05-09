@@ -28,9 +28,9 @@ Tienes [Lacoste Chaymon BL 1 CMA  Zapatillas Hombre  Black/Black  43 EU](https:/
 
 ℹ️:
 
-- Empeine de material sintético y piel
-- Líneas limpias y detalles a tono
-- Suela de goma
 - Cocodrilo metálico
+- Líneas limpias y detalles a tono
+- Empeine de material sintético y piel
+- Suela de goma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DHQL75R/?tag=tolees-21)
