@@ -28,8 +28,8 @@ Tienes [Max Factor Masterpice Nude Palette Sombra Tono 02 Golden Nudes - 63 4 gr
 
 🔎:
 
-- Género: Mujer
-- Marca: Max Factor
 - Tipo de producto: Sombra de ojos
+- Marca: Max Factor
+- Género: Mujer
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01HT4XNJO/?tag=tolees-21)
