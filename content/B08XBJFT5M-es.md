@@ -31,7 +31,7 @@ Tienes [Modfine - Buzón de pared negro con compartimento para periódicos  plac
 - Práctico: fácil inserción desde arriba I con tapa protectora I espacio para placa de nombre I se puede cerrar con 2 llaves
 - Fácil montaje: accesorios completos ya incluidos: tornillos, tacos, espaciadores para pared.
 - Dimensiones: aprox. 30 x 8,5 x 34 cm / 11,7 x 3,3 x 13,3 pulgadas
-- Resistente: de acero inoxidable estable, recubierto de polvo
 - Características: con tres pequeñas ventanas de control. Comprueba si el correo está en el buzón.
+- Resistente: de acero inoxidable estable, recubierto de polvo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08XBJFT5M/?tag=tolees-21)
