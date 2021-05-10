@@ -28,12 +28,12 @@ Tienes [Olympus OM-D E-M5 Mark III Micro Four Thirds System Camera Kit  20 MP Se
 
 ℹ️:
 
-- Visión perfecta a través del visor; el visor OLED con alrededor de 2.36 millones de puntos facilita el diseño de la imagen y ofrece una imagen nítida
+- Calidad de imagen gracias a la estabilización de imagen en 5 ejes en la cámara, corrección de hasta 5.5 pasos EV y un sensor de alta resolución de 20 megapíxeles
+- Con la estabilización de imagen en 5 ejes que compensa cualquier movimiento no deseado de la cámara, las imágenes en movimiento son todavía más claras y nítidas durante las panorámicas de la cámara; ideal para vídeos 4K
 - Máxima movilidad y transportabilidad gracias a su bajo peso y diseño compacto; hasta un 55 % más pequeña que otras cámaras comparables
 - Resistente al polvo, a las salpicaduras y a la congelación; soporta las condiciones más duras en entornos críticos
 - Fácil conectividad con WLAN y Bluetooth: compartir momentos valiosos con amigos y familiares desde cualquier lugar
-- Con la estabilización de imagen en 5 ejes que compensa cualquier movimiento no deseado de la cámara, las imágenes en movimiento son todavía más claras y nítidas durante las panorámicas de la cámara; ideal para vídeos 4K
-- Calidad de imagen gracias a la estabilización de imagen en 5 ejes en la cámara, corrección de hasta 5.5 pasos EV y un sensor de alta resolución de 20 megapíxeles
 - El rápido autoenfoque de fase con 121 sensores en cruz trabaja con precisión incluso cuando la apertura está muy abierta y captura de forma fiable los colores y contornos para separar al sujeto perfectamente del fondo
+- Visión perfecta a través del visor; el visor OLED con alrededor de 2.36 millones de puntos facilita el diseño de la imagen y ofrece una imagen nítida
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XM95RSH/?tag=tolees-21)

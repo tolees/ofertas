@@ -28,9 +28,9 @@ Ahora mismo tienes [Samsung SSD 970 Pro NVMe M.2 1TB](https://www.amazon.es/dp/B
 
 🔎:
 
-- Disfruta de lo mejor. El SSD 970 PRO proporciona un rendimiento sobresaliente gracias a la interfaz NVMe de Samsung.
-- Velocidad secuencial de escritura: 2,700MB/s
 - Interfaz M.2 para equipos ultraligeros o pc de sobremesa
 - Velocidad secuencial de lectura: 3,500MB/s
+- Velocidad secuencial de escritura: 2,700MB/s
+- Disfruta de lo mejor. El SSD 970 PRO proporciona un rendimiento sobresaliente gracias a la interfaz NVMe de Samsung.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CGGRYVT/?tag=tolees-21)
