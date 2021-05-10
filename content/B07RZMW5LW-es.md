@@ -29,11 +29,11 @@ Tienes [AEG L8FEC962Q Lavadora de Libre Instalación  Carga Frontal  9 Kg  1600 
 ℹ️:
 
 - Panel de control LCD fácil e intuitivo con Programa Rápido en menos de 59 minutos. Coneción WiFi con la App My AEG Care. Puerta XL, carga y descarga con facilidad
-- Función ProSense: Pesa automáticamente la carga para ahorrar tiempo, agua y energía. Evita que las prendas y los colores sufran por un lavado excesivo. Hasta 9kg de lavado
-- Función SoftPlus: asegura de que el suavizante alcanza hasta la última fibra de los tejidos
-- AutoDose: Dosificación automática y precisa. Motor Inverter: Mayor Durabilidad y Eficiencia Energética. Menor Ruido
+- Dimensiones (Ancho x Alto x Profundo mm): 600 x 850 x 605.
 - Tambor ProTex que protege y lava la ropa con mayor delicadeza. Tecnología ÖKOMix, premezclan el detergente con agua antes de introducirlo en el tambor
 - Tecnología ProSteam: Emplean vapor para reducir las arrugas o refrescar tu ropa sin necesidad de lavarla
-- Dimensiones (Ancho x Alto x Profundo mm): 600 x 850 x 605.
+- Función SoftPlus: asegura de que el suavizante alcanza hasta la última fibra de los tejidos
+- AutoDose: Dosificación automática y precisa. Motor Inverter: Mayor Durabilidad y Eficiencia Energética. Menor Ruido
+- Función ProSense: Pesa automáticamente la carga para ahorrar tiempo, agua y energía. Evita que las prendas y los colores sufran por un lavado excesivo. Hasta 9kg de lavado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RZMW5LW/?tag=tolees-21)
