@@ -28,8 +28,8 @@ Tienes [Star Wars - Classic Saga Interactive Darth Vader  de 45 cm  Giochi Prezi
 
 🔎:
 
+- Espada láser con luces y con efectos de sonidos iguales que en la película. Se activa cuando se le habla. Voz original, música y efectos de sonidos. Brazos y piernas articulados
 - Su brazo y cintura mueven mientras habla. Su cabeza gira con movimiento hiperrealista
 - Escultura realista de Vader. Capa de tela. Función de entrenamiento
-- Espada láser con luces y con efectos de sonidos iguales que en la película. Se activa cuando se le habla. Voz original, música y efectos de sonidos. Brazos y piernas articulados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00Y9WTEX4/?tag=tolees-21)
