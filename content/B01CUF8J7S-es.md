@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger New Danny Belt - Cinturón para mujer  Master
 
 🔎:
 
-- Cinturón para mujer
 - Con cierre de hebilla
+- Cinturón para mujer
 - Estilo clásico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01CUF8J7S/?tag=tolees-21)

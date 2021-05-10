@@ -28,9 +28,9 @@ Tienes [Irobot Braava Jet Paños de Limpieza para Fregar Lavables  Tissu  Azul](
 
 ℹ️:
 
-- Paños Braava jet para fregar lavables. Con este paño, Braava jet realiza una triple pasada de limpieza para fregar como usted lo haría
 - El paño Braava jet para fregar lavable puede utilizarse en suelos bien sellados como madera, azulejos y piedra. Ideal para cocinas y baños. Los paños pueden lavarse en la lavadora y reutilizarse
 - Con el paño Braava jet para fregar, el robot mopa activa el pulverizador de agua a presión que ablanda la suciedad y el cabezal de limpieza vibratorio que elimina la suciedad y las manchas
 - Este paños de limpieza son sólo compatibles con el B240J o el B250J
+- Paños Braava jet para fregar lavables. Con este paño, Braava jet realiza una triple pasada de limpieza para fregar como usted lo haría
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01JP3M6O0/?tag=tolees-21)
