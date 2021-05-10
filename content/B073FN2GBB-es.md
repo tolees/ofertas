@@ -28,10 +28,10 @@ Ahora mismo tienes [Philips Lighting - Philips Capsula - Bombilla LED E14  equiv
 
 🔎:
 
-- Adecuada para uso en salones, habitaciones y pasillos creando un espacio acogedor
-- No regulable
-- Larga duración: hasta 15000 horas
 - Bombillas LED de bajo consumo
+- No regulable
 - Luz instantánea al encenderse
+- Larga duración: hasta 15000 horas
+- Adecuada para uso en salones, habitaciones y pasillos creando un espacio acogedor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073FN2GBB/?tag=tolees-21)
