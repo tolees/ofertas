@@ -28,10 +28,10 @@ En este momento está [Mimosín Creaciones Flor de Lirio y Lima Suavizante Conce
 
 🔎:
 
-- Mantiene una suavidad estupenda en todas las prendas
 - Suavizante concentrado creado a partir de combinaciones de fregancias frutales y florales
+- Permite una duración de hasta 58 lavados
+- Mantiene una suavidad estupenda en todas las prendas
 - Promueve y se adapta a un secado más rápido
 - Consigue mantener el color y el brillo
-- Permite una duración de hasta 58 lavados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073QRSGLK/?tag=tolees-21)

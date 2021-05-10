@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'adidas 3Mc  Zapatillas de Skateboard Uni al 59.21 % de descuento'
-date: 2020-03-10 13:50:20
-image: 'https://m.media-amazon.com/images/I/31A6rkgAAKL._AC_._SL400_.jpg'
+title: 'adidas 3Mc  Sneaker Unisex Adulto  Core  al 52.29 % de descuento'
+date: 2021-05-10 09:06:15
+image: 'https://m.media-amazon.com/images/I/31EuqNjW7wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07F9J3KY2-es adidas 3Mc Zapatillas de Skateboard Unisex Adulto Negro...'
+slug: 'B07F9J3KY2-es adidas 3Mc Sneaker Unisex Adulto Core Black/Core...'
 sku: 'B07F9J3KY2-es'
-tags: [  ]
-actualPrice: 26.49 EUR
+tags: [ 'Calzado de skateboarding para hombre','Calzado deportivo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','adidas', ]
+actualPrice: 30.99 EUR
 currency: EUR
-price: 26.49
+price: 30.99
 comparePrice: 64.95 EUR
-prodname: 'adidas 3Mc  Zapatillas de Skateboard Unisex Adulto  Negro  Core Black/Core Black/FTWR White Core Black/Core Black/FTWR White   44 EU'
+prodname: 'adidas 3Mc  Sneaker Unisex Adulto  Core Black/Core Black/Footwear White  44 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07F9J3KY2/?tag=tolees-21'
-descuento: '59.21'
-average: '29.49'
+descuento: '52.29'
+average: '29.865'
 ---
 
-Ahora mismo tienes [adidas 3Mc  Zapatillas de Skateboard Unisex Adulto  Negro  Core Black/Core Black/FTWR White Core Black/Core Black/FTWR White   44 EU](https://www.amazon.es/dp/B07F9J3KY2/?tag=tolees-21) a 26.49 EUR (original: 64.95 EUR) (59.21 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas 3Mc  Sneaker Unisex Adulto  Core Black/Core Black/Footwear White  44 EU](https://www.amazon.es/dp/B07F9J3KY2/?tag=tolees-21) a 30.99 EUR (original: 64.95 EUR) (52.29 %  de descuento) en el siguiente enlace!
 
-[![adidas 3Mc  Zapatillas de Skateboard Uni](https://m.media-amazon.com/images/I/31A6rkgAAKL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07F9J3KY2/?tag=tolees-21)
+[![adidas 3Mc  Sneaker Unisex Adulto  Core ](https://m.media-amazon.com/images/I/31EuqNjW7wL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07F9J3KY2/?tag=tolees-21)
 
 🔎:
 
+- Cordones de zapatos
+- Corte regular
+- Lona superior
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F9J3KY2/?tag=tolees-21)

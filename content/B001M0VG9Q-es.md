@@ -28,9 +28,9 @@ Tienes [Vichy Deo Traitement Anti-Transpirant 48H Roll-On 50 Ml 1 Unidad 50 g](h
 
 🔎:
 
-- Probado en piel sensible bajo control dermatológico
-- Formulado con sal de aluminio
 - Hipo alergénico, libre de parabenos, jabón y colorantes
+- Formulado con sal de aluminio
+- Probado en piel sensible bajo control dermatológico
 - Proporciona protección de hasta 48 horas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001M0VG9Q/?tag=tolees-21)

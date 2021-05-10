@@ -28,11 +28,11 @@ En este momento está [SteelSeries Rival 310  Ratón de Juego Óptico  Iluminaci
 
 🔎:
 
+- Iluminación Prism multicolor de dos zonas para ofrecer una luz personalizable
 - Compatibilidad: OS:Windows, Mac, y Linux. Requiere puerto USB; Software: SteelSeries Engine 3.10.12+, para Windows 7 o posterior) y Mac OSX 10.8 o posterior)
+- Los botones mecánicos de disparo izquierda/derecha garantizan una durabilidad de 50 millones de clics
+- Sensor óptico personalizado TrueMove3 de 12 000 CPI, 350 IPS diseñado para eSports
 - Guarda todos tus ajustes de rendimiento e iluminación directamente en el Rival 310
 - Diseño ergonómico para ofrecer una comodidad y un rendimiento extremos
-- Sensor óptico personalizado TrueMove3 de 12 000 CPI, 350 IPS diseñado para eSports
-- Iluminación Prism multicolor de dos zonas para ofrecer una luz personalizable
-- Los botones mecánicos de disparo izquierda/derecha garantizan una durabilidad de 50 millones de clics
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073XMJMWJ/?tag=tolees-21)
