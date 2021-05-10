@@ -28,10 +28,10 @@ Está [Lixada Juego de cascos y almohadillas para niños 7 en 1 ajustables para 
 
 ℹ️:
 
-- Juego de equipo de protección 7 en 1: casco de bicicleta para niños, dos rodilleras, coderas y muñequeras, que garantizan a tus hijos una protección completa mientras hacen deporte.
 - Excelente protección: las almohadillas están hechas de carcasa de polipropileno resistente y tela de poliéster transpirable para proporcionar la máxima protección, acolchado de espuma suave que ofrece absorción de impactos y comodidad.
 - Ajuste cómodo: correas elásticas ajustables con cierre de cinta adhesiva que proporcionan un ajuste seguro para varias circunferencias de rodilla/codo/muñeca.
-- Transpirable: el casco cuenta con 11 rejillas de ventilación para garantizar una buena ventilación. El sistema de esfera es ajustable para adaptarse a la circunferencia de la cabeza: 50 – 54 cm.
+- Juego de equipo de protección 7 en 1: casco de bicicleta para niños, dos rodilleras, coderas y muñequeras, que garantizan a tus hijos una protección completa mientras hacen deporte.
 - Multiusos: adecuado para patinaje en línea, monopatín, ciclismo, scooter, patines y otros deportes.
+- Transpirable: el casco cuenta con 11 rejillas de ventilación para garantizar una buena ventilación. El sistema de esfera es ajustable para adaptarse a la circunferencia de la cabeza: 50 – 54 cm.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Y1X6TBN/?tag=tolees-21)

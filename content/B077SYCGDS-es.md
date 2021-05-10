@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA Liga Casual Sudadera  Hombre  Medium Gray Heather/Black
 
 🔎:
 
-- Capucha con cordón para un ajuste regulable
-- Bolsillos dobles en la cadera
 - Cierre de cremallera inversa
-- Drycell: tecnología puma que absorbe la humedad y ayuda a mantenerte seco y cómodo
 - Corte recto
+- Bolsillos dobles en la cadera
+- Drycell: tecnología puma que absorbe la humedad y ayuda a mantenerte seco y cómodo
+- Capucha con cordón para un ajuste regulable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077SYCGDS/?tag=tolees-21)

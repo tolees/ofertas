@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.42 % en Lacoste Chaymon BL 1 CMA  Zapatillas Hom'
-date: 2021-05-09 11:55:00
+date: 2021-05-10 16:10:23
 image: 'https://m.media-amazon.com/images/I/41K1OARYJRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Lacoste Chaymon BL 1 CMA  Zapatillas Hombre  Black/Black  43 EU](https:/
 
 ℹ️:
 
-- Cocodrilo metálico
 - Líneas limpias y detalles a tono
-- Empeine de material sintético y piel
+- Cocodrilo metálico
 - Suela de goma
+- Empeine de material sintético y piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DHQL75R/?tag=tolees-21)
