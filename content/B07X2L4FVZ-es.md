@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scheppach 5908206901 AB1900  1900 W  240 al 54.15 % de rebaja'
-date: 2021-05-09 09:56:17
+date: 2021-05-10 11:10:46
 image: 'https://m.media-amazon.com/images/I/41VT8qjjIpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Scheppach 5908206901 AB1900  1900 W  240 V](https://www.amazon.es/dp/B07
 
 🔎:
 
-- Incluye 2 cinceles y un maletín de metal con ruedas
 - Potente motor de 1900 W
+- Incluye 2 cinceles y un maletín de metal con ruedas
 - Asa cómoda y recubierta de un revestimiento suave para mayor comodidad
-- Botón de bloqueo para un funcionamiento continuo
 - Fuerza de impacto de 60 julios
+- Botón de bloqueo para un funcionamiento continuo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07X2L4FVZ/?tag=tolees-21)

@@ -30,8 +30,8 @@ En este momento está [Adobe Lightroom 1TB | 1 Año | PC/Mac | Código de activa
 
 - Organización más inteligente
 - Almacenamiento sin preocupaciones
-- Fotos óptimas en cualquier lugar
 - Edición desde cualquier lugar
 - Photoshop y Lightroom Classic no están incluidos
+- Fotos óptimas en cualquier lugar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NLP2NQ8/?tag=tolees-21)

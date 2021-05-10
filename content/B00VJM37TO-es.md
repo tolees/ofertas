@@ -28,8 +28,8 @@ Ahora mismo tienes [HP Signature Slim - Funda maletín Gris de hasta 15.6"](http
 
 🔎:
 
-- Puerto de carga de audio, logotipo impreso, colores ejecutivos fuertes
 - Maletín para portátil de 15.6"
+- Puerto de carga de audio, logotipo impreso, colores ejecutivos fuertes
 - Dos bolsillos acolchados principales para un portátil y un tablet
 - Con bolsillos adicionales para accesorios
 
