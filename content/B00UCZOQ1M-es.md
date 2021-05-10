@@ -28,8 +28,8 @@ Está [Durex - Lubricantes y geles](https://www.amazon.es/dp/B00UCZOQ1M/?tag=tol
 
 ℹ️:
 
-- Es un producto de Durex
 - El paquete contiene 1 unidad
 - Tipo de producto: lubricante
+- Es un producto de Durex
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00UCZOQ1M/?tag=tolees-21)

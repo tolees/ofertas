@@ -28,10 +28,10 @@ Tienes [Casio Reloj Digital para Mujer de Cuarzo con Correa en Resina LWS-2000H-
 
 🔎:
 
-- Temporizadores - 1/1 segundo - 1 hora
 - Segunda zona horaria
-- 5 alarmas diarias
 - Contador de pasos
 - Cronómetro - 1/100 seg. - 24 horas; Lap Memory 200
+- 5 alarmas diarias
+- Temporizadores - 1/1 segundo - 1 hora
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NJFB39X/?tag=tolees-21)

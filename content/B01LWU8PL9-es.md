@@ -28,10 +28,10 @@ Tienes [DisneyShowcase - Disney Showcase  Figura de Woody de Toy Story  para col
 
 🔎:
 
-- Material: resina
 - Colores resistentes al agua
-- Adecuado para regalo
 - Producto adecuado para regalar, decorar o coleccionar
+- Material: resina
 - Dimensiones del producto: 9 x 7 x 21 cm
+- Adecuado para regalo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LWU8PL9/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Jeanne Arthes Eau de Parfum Guipure/Silk rosa 100 ml](https
 
 🔎:
 
-- Diseño original
 - Las notas pequeñas y fruitées de cassis, manzana y mandarina, que resaltan las mujeres mutines y coquines
+- Diseño original
 - Producto a grasa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071G37LQQ/?tag=tolees-21)
