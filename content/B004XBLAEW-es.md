@@ -28,11 +28,11 @@ Tienes [Maped 197512 - Pack de compás  abrazadera y estuche de minas  Negro  Pl
 
 🔎:
 
-- Compas de 3 piezas (compas+abrazadera+estuche de minas)
+- Escolar
+- Escolar
+- Con adaptador
 - Con adaptador
 - Compás
-- Escolar
-- Con adaptador
-- Escolar
+- Compas de 3 piezas (compas+abrazadera+estuche de minas)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004XBLAEW/?tag=tolees-21)

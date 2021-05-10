@@ -28,9 +28,9 @@ En este momento está [Piqueras y Crespo - Trust Asto - Barra de Sonido para PC 
 
 🔎:
 
-- Botón de control de volumen iluminado y de gran tamaño
-- Potente sonido estéreo con altavoces compactos, para colocar bajo cualquier monitor de PC
 - Alimentación por USB: sin necesidad de conexión a enchufe de pared
 - Práctica conexión de auriculares y micrófono en el lado frontal
+- Botón de control de volumen iluminado y de gran tamaño
+- Potente sonido estéreo con altavoces compactos, para colocar bajo cualquier monitor de PC
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01BGLJ3AE/?tag=tolees-21)

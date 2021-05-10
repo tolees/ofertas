@@ -28,11 +28,11 @@ Ahora mismo tienes [Casio G-SHOCK Reloj Digital  Contador de pasos  Sensor de mo
 
 🔎:
 
-- La función Bluetooth se puede utilizar después de la descarga de la Casio "G-SHOCK Conectado" de la aplicación
 - Contador de pasos
-- Clasificación de resistencia al agua (20 bar)
+- Bluetooth Smart
+- La función Bluetooth se puede utilizar después de la descarga de la Casio "G-SHOCK Conectado" de la aplicación
 - Lap Memory 200
 - Función de hora universal
-- Bluetooth Smart
+- Clasificación de resistencia al agua (20 bar)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079ZD17DK/?tag=tolees-21)
