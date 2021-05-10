@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Y6 II-Smartphone de 5.5"  RAM de  al 59.78 % de rebaja'
-date: 2021-05-07 05:03:36
+date: 2021-05-10 05:50:39
 image: 'https://m.media-amazon.com/images/I/418Xxq+THbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B01HW4JSMM/?tag=tolees-21'
 descuento: '59.78'
-average: '89.025'
+average: '85.87'
 ---
 
 Tienes [Huawei Y6 II-Smartphone de 5.5"  RAM de 2 GB  memoria interna de 16 GB  cámara de 13 MP  Android   color negro](https://www.amazon.es/dp/B01HW4JSMM/?tag=tolees-21) con precio final de  79.56 EUR (original: 197.82 EUR) (59.78 %  de rebaja) aqui!
