@@ -28,10 +28,10 @@ Ahora mismo tienes [Camper Courb  Zapatillas Hombre  Beige  Light Beige 270   45
 
 🔎:
 
-- Empeine: Piel (Piel vacuna)
-- Plantilla: Ortholite para mayor amortiguación
-- Color: Blanco roto
 - EXTRALIGHT XL para una mayor ligereza y amortiguación
 - Suela/Características: EVA para mayor ligereza
+- Plantilla: Ortholite para mayor amortiguación
+- Color: Blanco roto
+- Empeine: Piel (Piel vacuna)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07N72GGVG/?tag=tolees-21)
