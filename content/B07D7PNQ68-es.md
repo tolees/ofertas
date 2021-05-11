@@ -28,13 +28,13 @@ En este momento está [AEG IKE63471FB Placa inducción flexible  Biselada  Extra
 
 🔎:
 
-- Función Maxisense: adapta automáticamente la zona de cocción al tamaño del recipiente
 - Función PowerSlide permite configurar en la zona flexible tres zonas de temperatura diferente: fuego fuerte, medio y mantener caliente
-- Dimensiones (ancho x largo x altura): 590mm x 520mm x 44mm. Tamaño: 60cm
 - No dispone de enchufe macho. La instalación es mediante cableado y, por su seguridad, tiene que realizarla un profesional.
 - Zona de Cocción: Placa de inducción Flexible de 60 cm con 3 Zonas de Cocción que se adapta automáticamente al tamaño del recipiente y con calentamiento rápido automático
-- Dispone de controles táctiles delizantes independientes para cada zona de cocción
-- Función FlexiPuente permite combinar hasta 4 zonas para aprovechar el espacio disponible
+- Dimensiones (ancho x largo x altura): 590mm x 520mm x 44mm. Tamaño: 60cm
 - Conecta y activa automáticamente tu campana extractora AEG con la tecnología Hob2Hood
+- Dispone de controles táctiles delizantes independientes para cada zona de cocción
+- Función Maxisense: adapta automáticamente la zona de cocción al tamaño del recipiente
+- Función FlexiPuente permite combinar hasta 4 zonas para aprovechar el espacio disponible
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D7PNQ68/?tag=tolees-21)

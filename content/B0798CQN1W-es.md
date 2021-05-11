@@ -28,10 +28,10 @@ Está [Kelme - Zapatillas Indoor Copa 2.0](https://www.amazon.es/dp/B0798CQN1W/?
 
 ℹ️:
 
-- Cordones
-- Lavar en frío
 - Futbol Sala
 - AZUL Y VERDE
 - 7
+- Lavar en frío
+- Cordones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0798CQN1W/?tag=tolees-21)
