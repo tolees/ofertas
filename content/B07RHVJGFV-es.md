@@ -28,8 +28,8 @@ Ahora mismo tienes [Castañer Carina/3/001  Alpargatas Mujer  Negro  35 EU](http
 
 🔎:
 
-- Diseño funcional
 - Creado siguiendo los más altos estándares de la marca Castañer
+- Diseño funcional
 - Diseñado para ofrecer una excelente experiencia al cliente
 - Alpargata, cuña, lona, yute
 
