@@ -28,10 +28,10 @@ Ahora mismo tienes [YOUTHINK Abs Acrílico Pantalla para Mascotas Puerta Ventana
 
 🔎:
 
-- ❤ Tamaño grande: el tamaño interno es de aproximadamente 23x20 cm (9 * 8 pulgadas), adecuado para mascotas de tamaño mediano (peso inferior a 25 kg y peso de cintura inferior a 75 cm). Si tiene alguna pregunta al comprar, siempre puede comunicarse con nuestro personal de servicio al cliente.
-- ❤ Fácil de instalar: viene con hardware para que pueda instalarlo fácilmente en las puertas. Se puede instalar manualmente, lo cual es muy conveniente.
-- ❤ Excelente calidad: Hecho de ABS y acrílico, resistente y resistente a la intemperie, duradero por años de uso.
 - ❤Seguro: la aleta transparente permite que la mascota vea a través de la puerta. El borde del marco interno es liso para no lastimar a la mascota.
+- ❤ Tamaño grande: el tamaño interno es de aproximadamente 23x20 cm (9 * 8 pulgadas), adecuado para mascotas de tamaño mediano (peso inferior a 25 kg y peso de cintura inferior a 75 cm). Si tiene alguna pregunta al comprar, siempre puede comunicarse con nuestro personal de servicio al cliente.
+- ❤ Excelente calidad: Hecho de ABS y acrílico, resistente y resistente a la intemperie, duradero por años de uso.
+- ❤ Fácil de instalar: viene con hardware para que pueda instalarlo fácilmente en las puertas. Se puede instalar manualmente, lo cual es muy conveniente.
 - ❤ Bloqueable: con interruptor, es fácil controlar el ingreso y la salida de sus mascotas. Dale a tu gato acceso ilimitado a sus espacios personales (como su caja de arena y comida).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BFRC7NW/?tag=tolees-21)

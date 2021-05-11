@@ -28,7 +28,7 @@ Tienes [VANS UA Classic Slip-On  Zapatillas Unisex Adulto  Black/Black  36 EU](h
 
 ℹ️:
 
-- Negro
 - adulto
+- Negro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000T0IKOY/?tag=tolees-21)

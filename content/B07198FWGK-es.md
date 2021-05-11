@@ -28,10 +28,10 @@ En este momento está [GB eye LTD  Dragon Ball Z  Vegeta  Fotografía enmarcada 
 
 🔎:
 
+- Material gráfico de alta resolución
+- Ideal para decorar cualquier pared de casa
 - Un marco robusto mantiene la fotografía en perfectas condiciones.
 - Licencia 100% oficial
-- Ideal para decorar cualquier pared de casa
 - Inspired By You. Created By Us.
-- Material gráfico de alta resolución
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07198FWGK/?tag=tolees-21)

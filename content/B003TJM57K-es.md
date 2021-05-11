@@ -28,10 +28,10 @@ Ahora mismo tienes [Grey Goose Vodka  700ml](https://www.amazon.es/dp/B003TJM57K
 
 🔎:
 
-- Acabado: Larga duración, fresco y claro.
-- Color: claro.
 - Disfruta del vodka puro.
-- Nariz: Aromas claros, frescos y cítricos.
+- Acabado: Larga duración, fresco y claro.
 - Sabor: Lujoso, suave, ligeramente dulce, un toque de almendras.
+- Nariz: Aromas claros, frescos y cítricos.
+- Color: claro.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003TJM57K/?tag=tolees-21)
