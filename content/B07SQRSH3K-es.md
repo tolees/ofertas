@@ -28,8 +28,8 @@ En este momento está [Roxy Viva  Zapatos de Playa y Piscina para Mujer  Rosa  P
 
 🔎:
 
-- __plantilla:__plantilla de goma con textura
 - __Suela exterior:__ suela exterior de goma
 - __Parte superior:__ Parte superior de goma con pin metálico ROXY
+- __plantilla:__plantilla de goma con textura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SQRSH3K/?tag=tolees-21)

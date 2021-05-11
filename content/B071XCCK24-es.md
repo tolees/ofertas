@@ -28,10 +28,10 @@ Tienes [Emporio Armani Reloj analógico para Mujeres de Cuarzo con Correa en Ace
 
 🔎:
 
-- Movimiento de cuarzo
-- Grosor de la caja: 7 mm. Tamaño de la caja: 32 mm. Ancho de la correa: 14 mm
 - Material de la correa: acero inoxidable. Movimiento: cuarzo. Resistencia al agua: 3 atm
-- Diámetro de la caja: 32 mm
 - Resistente al agua hasta 30 m: en general, resiste salpicaduras o inmersión breve en agua, pero no es adecuado para ir a nadar o bañarse
+- Movimiento de cuarzo
+- Diámetro de la caja: 32 mm
+- Grosor de la caja: 7 mm. Tamaño de la caja: 32 mm. Ancho de la correa: 14 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071XCCK24/?tag=tolees-21)
