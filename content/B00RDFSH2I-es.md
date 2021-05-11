@@ -28,10 +28,10 @@ Ahora mismo tienes [Durex Lubricante de Base Agua Efecto Calor - 50 ml](https://
 
 🔎:
 
+- EFECTO CALOR: Calienta el ambiente en tus relaciones íntimas gracias al lubricante Durex Efecto Calor
 - COMPATIBLE CON PRESERVATIVOS: Este lubricante puede usarse con preservativos de látex, poliisoporeno y poliuretano
 - BASE AGUA: No es graso y puede lavarse fácilmente; suaviza tus relaciones con este lubricante de base agua
-- SUAVE Y LIGERO: Respetuoso con la piel para más comodidad de uso
 - ADECUADO PARA SEXO ORAL, VAGINAL O ANAL: Gracias a su textura suave y ligera, podrás usarlo en cualquier ocasión
-- EFECTO CALOR: Calienta el ambiente en tus relaciones íntimas gracias al lubricante Durex Efecto Calor
+- SUAVE Y LIGERO: Respetuoso con la piel para más comodidad de uso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00RDFSH2I/?tag=tolees-21)

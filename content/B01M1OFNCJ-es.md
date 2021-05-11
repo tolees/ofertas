@@ -28,10 +28,10 @@ Está [Capcom - Resident Evil 5 HD](https://www.amazon.es/dp/B01M1OFNCJ/?tag=tol
 
 ℹ️:
 
-- Consigue altas puntuaciones en el Modo Mercenarios - Enfréntate a hordas de icónicos enemigos y jefes finales en un tiempo limitado para lograr la puntuación más alta. Este modo cuenta con 8 personajes jugables como Albert Wesker y Jill Valentine, cada uno con sus diferentes trajes y equipamiento a elegir. Para un mayor desafío, opta por el modo Sin Piedad para afrontar incluso un mayor número de enemigos en Mercenarios
-- Incluye todos los contenidos descargables lanzados previamente – entre los que se incluyen trajes, modos de juego, estatuillas y los episodios Desperate Escapes y Lost in Nightmares
 - Sistema de inventario de Rápida Elección – Mejorado Sistema de inventario que permite los objetos se puedan intercambiar entre personajes. Toda la gestión del inventario se realiza en tiempo real; los objetos incluso se pueden asignar con la cruceta para un acceso inmediato + Desafiantes enemigos que representan nuevas amenazas – Incrementada velocidad e inteligencia de los enemigos en comparación con anteriores entregas, lo que les hará más peligroso tanto en solitario como en grupos
 - Modo Cooperativo para dos jugadores Local/online - Modo de juego cooperativo online/local para dos jugadores, que revoluciona el modo de juego a Resident Evil. Chris y Sheva deben forma equipo para sobrevivir juntos a los diversos desafíos y luchar contra las peligrosas hordas de enemigos
+- Incluye todos los contenidos descargables lanzados previamente – entre los que se incluyen trajes, modos de juego, estatuillas y los episodios Desperate Escapes y Lost in Nightmares
 - Poderoso Arsenal de Armas - Un arsenal de armas a disposición del jugador para mantener a raya el mal, entre ellas se incluyen, cuchillos, pistolas, ametralladoras, rifles de francotirador y muchas más
+- Consigue altas puntuaciones en el Modo Mercenarios - Enfréntate a hordas de icónicos enemigos y jefes finales en un tiempo limitado para lograr la puntuación más alta. Este modo cuenta con 8 personajes jugables como Albert Wesker y Jill Valentine, cada uno con sus diferentes trajes y equipamiento a elegir. Para un mayor desafío, opta por el modo Sin Piedad para afrontar incluso un mayor número de enemigos en Mercenarios
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M1OFNCJ/?tag=tolees-21)

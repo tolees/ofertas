@@ -28,10 +28,10 @@ Tienes [BANDAI NAMCO Entertainment Iberica - Little Nightmares II - Edición de 
 
 ℹ️:
 
-- Caja metálica
-- Libro de arte
 - Contenido digital
-- Banda Sonora en CD y digital
 - Diorama de Mono y Six
+- Banda Sonora en CD y digital
+- Libro de arte
+- Caja metálica
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08HT29FS5/?tag=tolees-21)
