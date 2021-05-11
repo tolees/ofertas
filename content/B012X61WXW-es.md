@@ -28,8 +28,8 @@ Está [Happy Way Pinic Turquesa - Trona de Viaje](https://www.amazon.es/dp/B012X
 
 ℹ️:
 
-- Como asiento manejable
-- Apoyabrazos laterales con 3 posiciones en altura
 - Gomas antideslizantes
+- Apoyabrazos laterales con 3 posiciones en altura
+- Como asiento manejable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B012X61WXW/?tag=tolees-21)

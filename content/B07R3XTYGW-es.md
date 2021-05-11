@@ -28,10 +28,10 @@ En este momento está [Hylogy MD-H10 - Oxímetro de pulso para dedo  pantalla OL
 
 🔎:
 
-- 【Sistema de evaluación inteligente】: Si en 8 segundos no se produce ninguna reacción de medición, el oxímetro se apaga automáticamente para prolongar la duración de la batería.
-- 【Amplia gama de aplicaciones】: con un solo botón el oxímetro de dedo Hylogy es fácil y cómodo de usar – ideal para hospitales, oxígeno, salud deportiva y atención sanitaria de la comunidad, entusiastas del deporte y cualquier familia, etc.
 - 【 HD OLED】: la pantalla grande y de alta resolución puede mostrar ondas de pulso, frecuencia de pulso, diagrama de barras, nivel SpO2 y estado de carga de la batería. Oxímetro de pulso OLED puede leer y mostrar hasta el 100% del valor SpO2. Y tiene un sensor de gravedad incorporado que puede girar 360 grados para satisfacer sus necesidades.
 - 【Rápido y preciso】: utiliza el sensor de aceleración, sólo 6 segundos para medir la frecuencia cardíaca y la intensidad de pulso.
+- 【Sistema de evaluación inteligente】: Si en 8 segundos no se produce ninguna reacción de medición, el oxímetro se apaga automáticamente para prolongar la duración de la batería.
 - 【Lo que usted recibes】: Oxímetro de pulso inteligente, funda protectora, cuerda colgante, manual de instrucciones (idioma español no garantizado), tarjeta de garantía y servicio al cliente Hylogy de por vida.
+- 【Amplia gama de aplicaciones】: con un solo botón el oxímetro de dedo Hylogy es fácil y cómodo de usar – ideal para hospitales, oxígeno, salud deportiva y atención sanitaria de la comunidad, entusiastas del deporte y cualquier familia, etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07R3XTYGW/?tag=tolees-21)

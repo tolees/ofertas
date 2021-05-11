@@ -28,8 +28,8 @@ Tienes [Kotobukiya Figura de capitán Phasma Artfx Plus KotSW108 de la película
 
 🔎:
 
-- Dos posiciones distintas con las piezas de brazo opcionales incluidas.
 - Mide unos 20 cm de alto.
+- Dos posiciones distintas con las piezas de brazo opcionales incluidas.
 - Incluye imanes en los pies para una mayor estabilidad en la base de la muestra incluida.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B016JGLZD4/?tag=tolees-21)
