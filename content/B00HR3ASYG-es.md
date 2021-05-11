@@ -29,7 +29,7 @@ En este momento está [TRIPTOMAX - Complemento Alimenticio para Regular el Estad
 🔎:
 
 - UN APORTE EXTRA DE ENERGÍA: indicado para todas aquellas personas que se sientan cansadas, desanimadas o estresadas.
-- CON NUTRIENTES ESENCIALES: complementa tu dieta con magnesio, hierro y vitaminas del grupo b; nutrientes que nuestro cuerpo no produce por sí mismo.
 - LOS BENEFICIOS DEL TRIPTÓFANO: favorece que se alcancen los niveles óptimos de serotonina en el cuerpo, cuya función es regular el estado emocional.
+- CON NUTRIENTES ESENCIALES: complementa tu dieta con magnesio, hierro y vitaminas del grupo b; nutrientes que nuestro cuerpo no produce por sí mismo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00HR3ASYG/?tag=tolees-21)

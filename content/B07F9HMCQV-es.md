@@ -28,8 +28,8 @@ Tienes [adidas 3Mc  Sneaker Unisex Adulto  Core Black/Core Black/Footwear White 
 
 🔎:
 
-- Lona superior
 - Corte regular
 - Cordones de zapatos
+- Lona superior
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F9HMCQV/?tag=tolees-21)

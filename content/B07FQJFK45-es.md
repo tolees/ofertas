@@ -28,11 +28,11 @@ Tienes [INTERBABY - Barrera De Cama Abatible 90 Cm Gris](https://www.amazon.es/d
 
 ℹ️:
 
-- Diseñada para uso de niños entre 18 meses y 5 años de edad
-- Grosor adecuado del colchón son 5 cm como mínimo y 30 cm como máximo
-- Barrera Abatilble Modelo Estrella, tamaño: 90 cm. Compatible con cama nido
 - Cumple con la normativa CE BS 7972:2001+A1:2009
 - Sólo use colchones con un tamaño mínimo de 90 cm x 190 cm y un máximo de 180 cm x 200 cm
+- Diseñada para uso de niños entre 18 meses y 5 años de edad
+- Barrera Abatilble Modelo Estrella, tamaño: 90 cm. Compatible con cama nido
 - Barrera abatible de fácil instalación debajo del colchón. Se desenfunda para poder lavarla
+- Grosor adecuado del colchón son 5 cm como mínimo y 30 cm como máximo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FQJFK45/?tag=tolees-21)

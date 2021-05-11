@@ -28,9 +28,9 @@ Está [Sanex Intimate Care Protección  Jabón Higiene Íntima - 250 ml](https:/
 
 ℹ️:
 
+- Comodidad, protección y sensación de frescor todo el día
 - Protege la flora bacteriana natural
 - Respeta el PH de las membranas mucosas
-- Comodidad, protección y sensación de frescor todo el día
 - DermoActive3: Confort, protección, pH fisiológico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079Z6MM6L/?tag=tolees-21)
