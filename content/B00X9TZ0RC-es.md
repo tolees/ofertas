@@ -28,9 +28,9 @@ Tienes [Garnier Delial Sensitive Advanced - Leche Solar para Pieles Claras  Sens
 
 ℹ️:
 
-- Crema solar con fórmula hipoalergénica, desarrollada especialmente para las pieles claras, sensibles e intolerantes al sol
-- Muy alta protección contra los efectos dañinos de los rayos UVA, UVB y UVA largos; protege contra los efectos de los infrarrojos
 - Aplica una capa generosa antes de la exposición solar y extiéndela de forma uniforme; reaplica con frecuencia, sobre todo después del baño, de transpirar o de secarte con una toalla
+- Muy alta protección contra los efectos dañinos de los rayos UVA, UVB y UVA largos; protege contra los efectos de los infrarrojos
+- Crema solar con fórmula hipoalergénica, desarrollada especialmente para las pieles claras, sensibles e intolerantes al sol
 - Gracias a su textura ligera, su aplicación no resulta pegajosa
 - Resistente al agua, no deja manchas blancas
 

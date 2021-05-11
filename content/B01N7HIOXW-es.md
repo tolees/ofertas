@@ -28,9 +28,9 @@ Ahora mismo tienes [Vans Old Skool Platform  Zapatillas Mujer  Negro  Black/Whit
 
 🔎:
 
-- Zapatillas || Merch para fans y divertido || Patrón: monocromo
-- Tu nuevo merchandising favorito
-- Creepers con las siguientes características:
 - Medidas: tamaño estándar
+- Zapatillas || Merch para fans y divertido || Patrón: monocromo
+- Creepers con las siguientes características:
+- Tu nuevo merchandising favorito
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N7HIOXW/?tag=tolees-21)
