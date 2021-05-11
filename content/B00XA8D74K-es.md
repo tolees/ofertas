@@ -28,8 +28,8 @@ Tienes [García Baquero Queso Maestría Curado Cuña  250g](https://www.amazon.e
 
 🔎:
 
-- De sabor regular, envolvente e uniforme con ligeros toques dulces, textura firme, aromas tostados y acaramelados. Con una enorme persistencia de todas estas sensaciones en boca.
-- Alérgenos: leche y sus derivados (incluida la lactosa)
 - Maestría Curado, aromático, equilibrado y sabroso… el mejor queso para disfrutar del buen queso todos los días.
+- Alérgenos: leche y sus derivados (incluida la lactosa)
+- De sabor regular, envolvente e uniforme con ligeros toques dulces, textura firme, aromas tostados y acaramelados. Con una enorme persistencia de todas estas sensaciones en boca.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XA8D74K/?tag=tolees-21)

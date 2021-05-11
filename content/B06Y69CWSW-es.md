@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Citizen Reloj Análogo clásico para Hombr al 37.19 % de rebaja'
-date: 2021-05-01 19:34:48
+date: 2021-05-11 22:41:01
 image: 'https://m.media-amazon.com/images/I/51zC2gdJX6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Citizen'
 buyurl: 'https://www.amazon.es/dp/B06Y69CWSW/?tag=tolees-21'
 descuento: '37.19'
-average: '168.327142857142'
+average: '167.995833333333'
 ---
 
 Tienes [Citizen Reloj Análogo clásico para Hombre de Energía Solar con Correa en Titanio BM7360-82A](https://www.amazon.es/dp/B06Y69CWSW/?tag=tolees-21) con precio final de  156.4 EUR (original: 249.0 EUR) (37.19 %  de rebaja) aqui!

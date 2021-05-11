@@ -28,10 +28,10 @@ Está [SteelSeries Sensei 310  Ratón para Juegos Óptico  Ambidiestro  Iluminac
 
 ℹ️:
 
-- Sensor óptico personalizado TrueMove3 de 12 000 CPI, 350 IPS diseñado para eSports
 - Los exclusivos botones de disparo izquierda/derecha garantizan una durabilidad de 50 millones de clics
-- Diseño ambidiestro legendario SteelSeries Sensei para estilos de juego de agarre y de palma
+- Sensor óptico personalizado TrueMove3 de 12 000 CPI, 350 IPS diseñado para eSports
 - Iluminación Prism multicolor de dos zonas para ofrecer una luz personalizable
+- Diseño ambidiestro legendario SteelSeries Sensei para estilos de juego de agarre y de palma
 - Guarda todos tus ajustes de rendimiento e iluminación directamente en el Sensei 310
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073WGB8G6/?tag=tolees-21)

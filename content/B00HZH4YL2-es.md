@@ -28,8 +28,8 @@ Ahora mismo tienes [Haribo Wine Gums 1 x 200 g](https://www.amazon.es/dp/B00HZH4
 
 🔎:
 
-- Gelatina con un suave sabor a vino
 - Caramelos de goma
+- Gelatina con un suave sabor a vino
 - Deliciosas y suaves piezas inspiradas en la classica referencia inglesa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00HZH4YL2/?tag=tolees-21)
