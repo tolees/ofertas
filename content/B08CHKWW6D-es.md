@@ -28,10 +28,10 @@ Está [G-STAR RAW Zip Pocket 3D Skinny Cargo Pantalones  Sartho Blue C105-6067  
 
 ℹ️:
 
-- Talle medio
-- Bolsillos insertados reforzados; cinta tejida en la entrada
-- Prenda ajustada de arriba abajo
 - Bolsillos de parche con cierre de cremallera oculto en los muslos; efecto 3D
 - Bolsillos insertados reforzados; cinta tejida en la entrada
+- Bolsillos insertados reforzados; cinta tejida en la entrada
+- Prenda ajustada de arriba abajo
+- Talle medio
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CHKWW6D/?tag=tolees-21)

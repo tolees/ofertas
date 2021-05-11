@@ -29,7 +29,7 @@ En este momento está [Levi s 501 Crop Jeans  Azul  Tango Beats   25W / 28L para
 🔎:
 
 - Diseño de cinco bolsillos
-- Largo recortado para lucir un aire moderno
 - Un corte de inspiración vintage con una versátil pernera recta
+- Largo recortado para lucir un aire moderno
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZVS88QJ/?tag=tolees-21)
