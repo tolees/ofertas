@@ -29,9 +29,9 @@ Tienes [Brugal Extra Viejo Ron Dominicano  700ml](https://www.amazon.es/dp/B00AA
 ℹ️:
 
 - Elaborado en Republica Dominicana; Sigue un cuidadoso proceso de destilación tras el cual se añeja en barricas de roble americano que previamente han contenido bourbon
-- Destaca su aroma amaderado, combinado con notas a frutos secos, cacao, caramelo, naranja y especias
-- Ron color ámbar oscuro de aspecto brillante y transparente
-- La entrada es suave y seca y su recorrido elegante y sedoso, cumpliendo con las expectativas de los paladares más exigentes
 - Para disfrutar de sus cualidades óptimas se recomienda degustar como ingrediente para cócteles
+- La entrada es suave y seca y su recorrido elegante y sedoso, cumpliendo con las expectativas de los paladares más exigentes
+- Ron color ámbar oscuro de aspecto brillante y transparente
+- Destaca su aroma amaderado, combinado con notas a frutos secos, cacao, caramelo, naranja y especias
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AABJ0XW/?tag=tolees-21)
