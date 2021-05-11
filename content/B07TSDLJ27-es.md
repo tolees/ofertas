@@ -29,8 +29,8 @@ Ahora mismo tienes [Badland - Lovecraft s Untold Stories - Collector s Edition](
 🔎:
 
 - Libro de arte
-- Banda sonora original
-- Chapa
 - 5 litografias
+- Chapa
+- Banda sonora original
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TSDLJ27/?tag=tolees-21)

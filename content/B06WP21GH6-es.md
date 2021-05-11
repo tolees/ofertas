@@ -28,12 +28,12 @@ Está [Rowentan Ultimate Protect VU4210F0 Ventilador de pie con líquido antimos
 
 ℹ️:
 
-- Ventilador de pie con 3 aspas y exclusiva función con líquido repelente garantiza una protección contra los mosquitos; permite acoplar en su interior los frascos de las marcas más conocidas
+- Sus medidas son 51 x 20 x 43 cm
+- Gran caudal de aire y sensación inmediata de aire fresco hasta 55.m3/min
+- Modelo con 40.cm de diámetro y altura ajustable hasta 145 cm
+- Oscilación automática para una mayor difusión del aire y orientación ajustable
 - 3 velocidades para conseguir la intensidad del caudal de aire que prefieras
 - Rejilla reforzada para la seguridad infantil que impide introducir una mano o un dedo en las aspas
-- Gran caudal de aire y sensación inmediata de aire fresco hasta 55.m3/min
-- Oscilación automática para una mayor difusión del aire y orientación ajustable
-- Sus medidas son 51 x 20 x 43 cm
-- Modelo con 40.cm de diámetro y altura ajustable hasta 145 cm
+- Ventilador de pie con 3 aspas y exclusiva función con líquido repelente garantiza una protección contra los mosquitos; permite acoplar en su interior los frascos de las marcas más conocidas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06WP21GH6/?tag=tolees-21)
