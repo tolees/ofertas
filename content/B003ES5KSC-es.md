@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.09 % en Wera 05018270001 Destornillador  1.6 x 1'
-date: 2021-05-10 12:09:07
+date: 2021-05-12 06:00:06
 image: 'https://m.media-amazon.com/images/I/21aAcZ6KEhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Wera 05018270001 Destornillador  1.6 x 10 x 175 mm](https://www.amazon.e
 
 ℹ️:
 
-- La punta Wera Black Point ofrece un alojamiento preciso y una mayor protección anticorrosiva
 - El destorcincel para atornillar, cincelar y escoplear
-- Con cápsula de impacto y hexágono para llave y poder transmitir mayores pares de giro
-- Mango multicomponente Kraftform para un trabajo rápido y ergonómico
 - Con varilla hexagonal pasante
+- Mango multicomponente Kraftform para un trabajo rápido y ergonómico
+- La punta Wera Black Point ofrece un alojamiento preciso y una mayor protección anticorrosiva
+- Con cápsula de impacto y hexágono para llave y poder transmitir mayores pares de giro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003ES5KSC/?tag=tolees-21)
