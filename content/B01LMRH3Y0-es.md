@@ -28,12 +28,12 @@ Tienes [AEG L7FEE941 Lavadora de Libre Instalación  Carga Frontal  9 Kg  1400 r
 
 ℹ️:
 
-- Función ProSense: Pesa automáticamente la carga para ahorrar tiempo, agua y energía. Evita que las prendas y los colores sufran por un lavado excesivo. Hasta 9kg de lavado
-- Panel de control LCD fácil e intuitivo con Programa Rápido de 20 minutos. Puerta XL, carga y descarga con facilidad.
-- Dimensiones (Ancho x Alto x Profundo mm): 600 x 850 x 576.
-- Tecnología ProSteam: Emplean vapor para reducir las arrugas o refrescar tu ropa sin necesidad de lavarla
 - Motor Inverter: Mayor Durabilidad y Eficiencia Energética. Menor Ruido
-- Función SoftPlus: asegura de que el suavizante alcanza hasta la última fibra de los tejidos
+- Panel de control LCD fácil e intuitivo con Programa Rápido de 20 minutos. Puerta XL, carga y descarga con facilidad.
+- Tecnología ProSteam: Emplean vapor para reducir las arrugas o refrescar tu ropa sin necesidad de lavarla
+- Dimensiones (Ancho x Alto x Profundo mm): 600 x 850 x 576.
 - Tambor ProTex que protege y lava la ropa con mayor delicadeza
+- Función ProSense: Pesa automáticamente la carga para ahorrar tiempo, agua y energía. Evita que las prendas y los colores sufran por un lavado excesivo. Hasta 9kg de lavado
+- Función SoftPlus: asegura de que el suavizante alcanza hasta la última fibra de los tejidos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LMRH3Y0/?tag=tolees-21)

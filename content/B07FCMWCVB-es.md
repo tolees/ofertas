@@ -28,10 +28,10 @@ Ahora mismo tienes [SanDisk SDSQXBZ-064G-GN6MA Extreme Plus - Tarjeta de Memoria
 
 🔎:
 
-- Ideal para smartphones y tabletas Android, cámaras de acción y drones
-- Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
 - Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones; resistentes a temperatura, agua, golpes y rayos X
-- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
+- Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
 - Hasta 170 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
+- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
+- Ideal para smartphones y tabletas Android, cámaras de acción y drones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FCMWCVB/?tag=tolees-21)
