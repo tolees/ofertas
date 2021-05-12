@@ -28,8 +28,8 @@ Ahora mismo tienes [Joma Academy Chandal Caballero  Hombres  Negro/Blanco  S](ht
 
 🔎:
 
-- Resto textil
 - Academy negro-blanco
+- Resto textil
 - Chándales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CPSXQHV/?tag=tolees-21)
