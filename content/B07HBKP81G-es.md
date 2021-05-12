@@ -28,8 +28,8 @@ Está [Funko 36480 Pop! Vinilo: Animation Cat: Felix  Multi](https://www.amazon.
 
 ℹ️:
 
-- Felix
 - Pop. Vinilo
+- Felix
 - Animación: felix el gato
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HBKP81G/?tag=tolees-21)
