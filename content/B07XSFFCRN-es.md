@@ -28,11 +28,11 @@ Ahora mismo tienes [Ufesa AE4625 Aspirador Escoba Sin Cable  Sin Bolsa  Autonom�
 
 🔎:
 
-- Tiene un cepillo motorizado especial para mascotas, cepillo turbo y como accesorios: lanza y cepillo multiusos
 - Cuerpo desmontable para fácil itar el almacenaje
-- Capcidad de 0.6l y 5h de carga
 - Mango con triple posición para un uso más cómodo del producto
 - Batería de litio de 25.9v con autonomía hasta 40 minutos
+- Tiene un cepillo motorizado especial para mascotas, cepillo turbo y como accesorios: lanza y cepillo multiusos
+- Capcidad de 0.6l y 5h de carga
 - Ruedas de goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XSFFCRN/?tag=tolees-21)

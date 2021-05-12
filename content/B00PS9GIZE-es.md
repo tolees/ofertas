@@ -29,9 +29,9 @@ Tienes [Medisana HP-40E Almohadilla eléctrica   super polar  3 ajustes de tempe
 🔎:
 
 - 3 niveles de temperatura: La almohadilla eléctrica ecomed HP-40E tiene 3 niveles de temperatura para que pueda encontrar el ajuste adecuado para cada ocasión y zona del cuerpo
-- Lavable: Gracias al elemento de mando extraíble, la almohada eléctrica se puede lavar fácilmente en la lavadora a un máximo de 40 °C
 - Nota: No doblar el producto. Lea el manual de instrucciones antes de usar el producto
-- Solo en Amazon: La segunda generación de la HP-40E solo está disponible en Amazon
 - Ajuste perfecto: Con un tamaño de 30 x 40 cm, el agradable calor se puede aplicar en zonas específicas del cuerpo. La almohadilla incluye protección contra el sobrecalentamiento
+- Solo en Amazon: La segunda generación de la HP-40E solo está disponible en Amazon
+- Lavable: Gracias al elemento de mando extraíble, la almohada eléctrica se puede lavar fácilmente en la lavadora a un máximo de 40 °C
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00PS9GIZE/?tag=tolees-21)

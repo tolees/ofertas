@@ -28,10 +28,10 @@ En este momento está [DECKEY Lámpara de Pared de Cerámica  Iluminación Decor
 
 🔎:
 
-- 【Lamp Lámpara pequeña】Dimensión: 20 × 8.5× 11.5cm - la lámpara es pequeña y sirve como decoración de la casa, con una bombilla LED reemplazable de 3.8 vatios G9, ofrece una luz blanca cálida y cálida. (Nota: no es una araña de luces grande, por lo que no ofrece suficiente luz para iluminar una habitación)
-- 【Blanco cálido】Temperatura de color: 3000-3500k, voltaje: AC220, certificación CE y ROHS. Contenido del paquete: 1 × Lámpara de yeso, 1 × Bombilla reemplazable, 1 × Manual en inglés, 1 × Kit de accesorios de montaje.
 - 【Lámpara de teñido de bricolaje】Lámpara de yeso de cerámica, cuerpo en color blanco con líneas simples de diseño moderno, también puede teñir la lámpara en un color diferente para decorar la pared.
 - 【Lighting Iluminación de efecto interior】Adecuado para el dormitorio, el pasillo, el baño, la sala de estar, la escalera, la sala de estar, la oficina, etc. el diseño moderno y sencillo facilita la adaptación a cualquier estilo de habitación.
 - 【Hecho de yeso】Material respetuoso con el medio ambiente y resistente, fácil y rápido de ensamblar con todos los accesorios necesarios suministrados, fácil de limpiar con un paño limpio.
+- 【Blanco cálido】Temperatura de color: 3000-3500k, voltaje: AC220, certificación CE y ROHS. Contenido del paquete: 1 × Lámpara de yeso, 1 × Bombilla reemplazable, 1 × Manual en inglés, 1 × Kit de accesorios de montaje.
+- 【Lamp Lámpara pequeña】Dimensión: 20 × 8.5× 11.5cm - la lámpara es pequeña y sirve como decoración de la casa, con una bombilla LED reemplazable de 3.8 vatios G9, ofrece una luz blanca cálida y cálida. (Nota: no es una araña de luces grande, por lo que no ofrece suficiente luz para iluminar una habitación)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01IDF4AV8/?tag=tolees-21)
