@@ -30,8 +30,8 @@ Ahora mismo tienes [Kensington - Kensinton K72327EU Ratón SlimBlade  Ratón Erg
 
 - Trackballs software: Le permite personalizar perfectamente su experiencia de productividad y podrá ajustar la velocidad del cursor y de desplazamiento, así como las funciones para los cuatro botones
 - Diseño elegante: Su forma aplanada junto con su acabado gris metalizado ofrece un aspecto elegante, ergonomía y comodidad
-- Movimiento preciso: La tecnología láser proporciona una navegación y un seguimiento del cursor sensible y preciso, La bola grande de 55 mm hace que desplazarse por cualquier parte de la pantalla sea más fácil y rápido
-- Instalación Plug & Play: Basta con conectar el receptor USB al dispositivo y podrá empezar a navegar rápidamente mientras el controlador del ratón se descarga e instala automáticamente
 - Diseño ambidiestro adecuado tanto para diestros como para zurdos
+- Instalación Plug & Play: Basta con conectar el receptor USB al dispositivo y podrá empezar a navegar rápidamente mientras el controlador del ratón se descarga e instala automáticamente
+- Movimiento preciso: La tecnología láser proporciona una navegación y un seguimiento del cursor sensible y preciso, La bola grande de 55 mm hace que desplazarse por cualquier parte de la pantalla sea más fácil y rápido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001MTE32Y/?tag=tolees-21)

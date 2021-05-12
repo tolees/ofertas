@@ -28,8 +28,8 @@ Ahora mismo tienes [3-IN-ONE - WD 40 Company WD025-025 universal Grasa de Litio 
 
 🔎:
 
-- Resistente al agua y el calor
-- Fuerte adherencia, lubrica y evita el desgaste
 - Resiste perfectamente la a la presión sobre rodamientos, ejes...
+- Fuerte adherencia, lubrica y evita el desgaste
+- Resistente al agua y el calor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008F7YBZU/?tag=tolees-21)
