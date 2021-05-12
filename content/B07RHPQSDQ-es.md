@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Salomon X Reveal GTX Women s Waterproof  al 56.08 % de descuento'
-date: 2021-04-30 15:38:39
+title: 'Salomon X Reveal GTX Zapatillas Impermea al 44.59 % de descuento'
+date: 2021-05-12 15:35:47
 image: 'https://m.media-amazon.com/images/I/31NTMj9l85L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07RHPQSDQ-es Salomon X Reveal GTX Women s Waterproof Hiking Shoes'
+slug: 'B07RHPQSDQ-es Salomon X Reveal GTX Zapatillas Impermeables De Senderismo...'
 sku: 'B07RHPQSDQ-es'
 tags: [ 'Calzado de correr en montaña para mujer','Calzado deportivo para mujer','Calzados de running para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','salomon', ]
-actualPrice: 48.31 EUR
+actualPrice: 60.95 EUR
 currency: EUR
-price: 48.31
+price: 60.95
 comparePrice: 109.99 EUR
-prodname: 'Salomon X Reveal GTX Women s Waterproof Hiking Shoes'
+prodname: 'Salomon X Reveal GTX Zapatillas Impermeables De Senderismo Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SALOMON'
 buyurl: 'https://www.amazon.es/dp/B07RHPQSDQ/?tag=tolees-21'
-descuento: '56.08'
-average: '48.31'
+descuento: '44.59'
+average: '54.63'
 ---
 
-Ahora mismo tienes [Salomon X Reveal GTX Women s Waterproof Hiking Shoes](https://www.amazon.es/dp/B07RHPQSDQ/?tag=tolees-21) a 48.31 EUR (original: 109.99 EUR) (56.08 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Salomon X Reveal GTX Zapatillas Impermeables De Senderismo Mujer](https://www.amazon.es/dp/B07RHPQSDQ/?tag=tolees-21) a 60.95 EUR (original: 109.99 EUR) (44.59 %  de descuento) en el siguiente enlace!
 
-[![Salomon X Reveal GTX Women s Waterproof ](https://m.media-amazon.com/images/I/31NTMj9l85L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07RHPQSDQ/?tag=tolees-21)
+[![Salomon X Reveal GTX Zapatillas Impermea](https://m.media-amazon.com/images/I/31NTMj9l85L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07RHPQSDQ/?tag=tolees-21)
 
 🔎:
 
