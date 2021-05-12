@@ -28,15 +28,15 @@ Ahora mismo tienes [NIKE M NK Dry Park 1Stlyr JSY LS Camiseta de Manga Larga  Ho
 
 🔎:
 
-- Crew-neck design
-- M nk dry park 1stlyr jsy ls
-- 100% poliéster, 100% poliéster
-- Regular fit
 - Closure: pull on
 - Tipo de fábrica: 100% Polyester
-- Lavar a máquina
-- Soft fabric
+- 100% poliéster, 100% poliéster
 - Tipo de deporte: Estilo de vida al aire libre
+- Crew-neck design
+- M nk dry park 1stlyr jsy ls
+- Lavar a máquina
 - Manga larga
+- Soft fabric
+- Regular fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KL3BV27/?tag=tolees-21)

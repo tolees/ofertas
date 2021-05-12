@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ana María Lajusticia - Ana Maria Lajusti al 46.28 % de rebaja'
-date: 2021-05-11 09:13:46
+date: 2021-05-12 19:05:31
 image: 'https://m.media-amazon.com/images/I/414LC+iP3yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ana María Lajusticia'
 buyurl: 'https://www.amazon.es/dp/B01EGH9JMM/?tag=tolees-21'
 descuento: '46.28'
-average: '8.2631914893617'
+average: '8.244375'
 ---
 
 Tienes [Ana María Lajusticia - Ana Maria Lajusticia - Triptófano con magnesio + VIT B6 – 60 comprimidos. Reduce la ansiedad  el cansancio y regula el reloj interno. Apto para veganos. Envase para 30 días de tratamiento.](https://www.amazon.es/dp/B01EGH9JMM/?tag=tolees-21) con precio final de  7.36 EUR (original: 13.7 EUR) (46.28 %  de rebaja) aqui!
