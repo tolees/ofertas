@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Lighting - Philips Capsula - Bom al 64.38 % de descuento'
-date: 2021-05-10 21:15:14
+date: 2021-05-12 08:09:25
 image: 'https://m.media-amazon.com/images/I/31MTjuYvT-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Ahora mismo tienes [Philips Lighting - Philips Capsula - Bombilla LED E14  equiv
 🔎:
 
 - Bombillas LED de bajo consumo
-- No regulable
-- Luz instantánea al encenderse
 - Larga duración: hasta 15000 horas
+- No regulable
 - Adecuada para uso en salones, habitaciones y pasillos creando un espacio acogedor
+- Luz instantánea al encenderse
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073FN2GBB/?tag=tolees-21)

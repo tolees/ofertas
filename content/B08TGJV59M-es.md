@@ -28,10 +28,10 @@ Tienes [LOLAhome - Pack de 2 sillas Gravedad Cero reclinables con Bloqueo de Seg
 
 🔎:
 
-- No requiere montaje. Peso máximo recomendado por silla hasta 110 Kg.
-- Pack de 2 sillas tumbona gravedad cero con cojín reposacabezas de 95x65x107 cm. El pack de 2 sillas non Gravity es apto para uso en interior y exterior.
-- Medidas silla plegada: 68x56x6,5 cm. Peso unitario: 7 Kg. Peso pack: 14 Kg.
 - Estructura tubular de acero tratada con pintura Epoxi anticorrosión. Tubo de Ø 25 mm. de grosor. Asiento, respaldo y cojín de tejido Oxford 600 D, de loneta reforzada, cosidos a la estructura mediante gomas técnicas elásticas. Dispone de ollaos metálicos plateados en ambos laterales. Incluye cómodo cojín reposacabezas.
+- No requiere montaje. Peso máximo recomendado por silla hasta 110 Kg.
 - Respaldo y reposapiés basculantes, reclinables simultáneamente proporcionando sensación de ingravidez y comodidad, y cierre de seguridad para bloquear la posición elegida.
+- Medidas silla plegada: 68x56x6,5 cm. Peso unitario: 7 Kg. Peso pack: 14 Kg.
+- Pack de 2 sillas tumbona gravedad cero con cojín reposacabezas de 95x65x107 cm. El pack de 2 sillas non Gravity es apto para uso en interior y exterior.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08TGJV59M/?tag=tolees-21)
