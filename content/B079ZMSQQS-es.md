@@ -28,8 +28,8 @@ Tienes [Haribo Balla Balla Fresa  1 x 1000 gr](https://www.amazon.es/dp/B079ZMSQ
 
 🔎:
 
+- Geles dulces
 - Irresistible sabor a fresa
 - Deliciosas piezas rellenas de pasta de azúcar
-- Geles dulces
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079ZMSQQS/?tag=tolees-21)

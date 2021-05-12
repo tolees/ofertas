@@ -28,12 +28,12 @@ Tienes [Taurus Hipnos Power - Barbero con cuatro cabezales intercambiables  colo
 
 🔎:
 
-- Incluye peines guía y base de carga
-- Baterías de NiMh recargables con autonomía de hasta 40 min
 - Práctico sistema para el intercambio de cabezales
-- Cuatro cabezales intercambiables para nariz, orejas, patillas, nuca y barba
-- Mango “easy grip” en tacto suave para un fácil manejo
-- Cuchillas PRO-BLADE: 100 % acero inoxidable, autoafilables y lavables
 - Funcionamiento con y sin cable
+- Baterías de NiMh recargables con autonomía de hasta 40 min
+- Cuchillas PRO-BLADE: 100 % acero inoxidable, autoafilables y lavables
+- Cuatro cabezales intercambiables para nariz, orejas, patillas, nuca y barba
+- Incluye peines guía y base de carga
+- Mango “easy grip” en tacto suave para un fácil manejo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00AQ24MDS/?tag=tolees-21)
