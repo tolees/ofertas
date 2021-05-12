@@ -28,8 +28,8 @@ En este momento está [Timberland Classic 2 Eye  Náuticos Hombre  Azul MD Blue 
 
 🔎:
 
-- Leather / Textile
 - adulto
 - Blue
+- Leather / Textile
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0013DSOVU/?tag=tolees-21)

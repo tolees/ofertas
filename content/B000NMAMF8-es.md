@@ -28,10 +28,10 @@ En este momento está [Q-Connect KF26036 - Rotulador para pizarra blanca  color 
 
 🔎:
 
-- Fácil de limpiar
-- Marca Q-Connect
 - Rotulador de pizarra
 - Punta redonda de 3 mm
+- Marca Q-Connect
+- Fácil de limpiar
 - Tinta de color azul
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000NMAMF8/?tag=tolees-21)

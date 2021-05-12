@@ -28,10 +28,10 @@ Ahora mismo tienes [Jocca 4686 - Juego de 3 organizadores de cajones  Transparen
 
 🔎:
 
-- Se puede utilizar para almacenar joyas, maquillaje, accesorios para el pelo y mucho más
-- 3 cajones con pomos cromados
 - 16,5 cm de largo x 16,5 cm de ancho x 16,5 cm de alto
 - Juego de cajones pequeños de plástico transparente
+- 3 cajones con pomos cromados
 - Ideal para cualquier habitación de la casa
+- Se puede utilizar para almacenar joyas, maquillaje, accesorios para el pelo y mucho más
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00JO7XVOC/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Beurer EM49 - Electroestimulador digital  para aliviar el dolor muscular 
 
 ℹ️:
 
-- Fisioterapia en casa: contribuye a la reducción del dolor sin fármacos, gracias a su sistéma de estimulación nerviosa eléctrica transcutánea, 12 aplicaciones preprogramadas y 3 personalizables
 - Estimulación eléctrica: práctico dispositivo de estimulación eléctrica con 2 canales ajustables por separado y 4 electrodos adhesivos para TENS, EMS y masajes mediante electroestimulación
-- Masaje relajante: con 20 programas de masajes para aliviar la tensión y dolor muscular. También cuenta con "función del Medico" la cual guarda ajustes individuales de sus programas de terapia
-- Acondicionamiento y regeneración: entrenamiento dirigido y regeneración de los músculos mediante estimulación eléctrica, 32 aplicaciones preprogramadas y 3 personalizables
+- Fisioterapia en casa: contribuye a la reducción del dolor sin fármacos, gracias a su sistéma de estimulación nerviosa eléctrica transcutánea, 12 aplicaciones preprogramadas y 3 personalizables
 - Su pedido incluye: 1 aparato de corriente de estimulación EM 49, 2 cables de conexión, 4 electrodos de 45x45 mm, 1 clip para el cinturón, 3 pilas AAA, 1 manual de instrucciones
+- Acondicionamiento y regeneración: entrenamiento dirigido y regeneración de los músculos mediante estimulación eléctrica, 32 aplicaciones preprogramadas y 3 personalizables
+- Masaje relajante: con 20 programas de masajes para aliviar la tensión y dolor muscular. También cuenta con "función del Medico" la cual guarda ajustes individuales de sus programas de terapia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KUJ1VMG/?tag=tolees-21)

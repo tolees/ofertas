@@ -28,10 +28,10 @@ Tienes [Outsunny Gazebo Cenador para Terraza Jardín Patio - Tipo Carpa Pabelló
 
 🔎:
 
-- ✅Carpa con 4 columnas de acero ofrece gran estabilidad.
-- ✅DOBLE TECHO: Techo dispone de diseño de ventilación, elegante y práctico, evita que vuelque por el viento.
 - ✅ALTA CALIDAD: Carpa gazebo con marco de acero galvanizado, duradero y estable. Tejido de poliéster 180g/m² con revestimiento PA resistente a la intemperie ,los rayos UV y al agua.
 - ✅8 agujeros de drenaje en los bordes del techo para que el agua drene y prolongue el tiempo de uso.
+- ✅DOBLE TECHO: Techo dispone de diseño de ventilación, elegante y práctico, evita que vuelque por el viento.
 - ✅MULTIUSOS: Adecuado para jardín, fiesta, boda, gazebo cenador, tienda, eventos, garaje coche, o actividades al aire libre.
+- ✅Carpa con 4 columnas de acero ofrece gran estabilidad.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00YHJS354/?tag=tolees-21)
