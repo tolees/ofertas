@@ -28,10 +28,10 @@ Está [Deportivas Niños MTNG | Deportivas MONDA 48151 | MTNG Niños | Deportiva
 
 ℹ️:
 
-- Material de la suela De goma
+- Altura Tacón Bajo (de 1 A 3 cm)
 - Tipo de cierre Cordones
 - Material principal Sintetico
-- Altura Tacón Bajo (de 1 A 3 cm)
+- Material de la suela De goma
 - Tipo de tacón Plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086CRXZDD/?tag=tolees-21)
