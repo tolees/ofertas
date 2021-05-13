@@ -28,8 +28,8 @@ Está [Thule TPCH101 - Bolsas de Viaje para cámaras](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Cuatro formas de uso (bolsa, pecho, pistolera, bandolera) para una flexibilidad y capacidad de uso muy adaptables
 - Materíal de nylon
+- Cuatro formas de uso (bolsa, pecho, pistolera, bandolera) para una flexibilidad y capacidad de uso muy adaptables
 - Se adapta a la Prosumer DSLR con objetivo de zoom 70–200mm f/2.8
 - La estructura SafeZone de la bolsa garantiza una protección avanzada para el equipo frágil
 

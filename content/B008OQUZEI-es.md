@@ -28,10 +28,10 @@ En este momento está [Lowepro POKROWIEC DASHPOINT 20 SLATE GREY](https://www.am
 
 🔎:
 
+- Gama de colores
+- Adecuado para: CSC (con objetivo pancake montado) O Pro compacta O GPS portátil O un dispositivo electrónico más una tarjeta de memoria de repuesto
 - Construcción acolchada resistente a los impactos
 - Bolsillo integrado para tarjetas de memoria
-- Adecuado para: CSC (con objetivo pancake montado) O Pro compacta O GPS portátil O un dispositivo electrónico más una tarjeta de memoria de repuesto
 - El sistema T-Lock permite una sujeción fácil a otra funda
-- Gama de colores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008OQUZEI/?tag=tolees-21)
