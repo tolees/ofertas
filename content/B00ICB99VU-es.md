@@ -28,10 +28,10 @@ Tienes [Rubies - Rubie s - Disfraz Marvel The Avengers El Flash para niños de 8
 
 🔎:
 
-- Viene en una altura de 147 cm, 82 cm de la cintura
+- Ideal para carnaval, carnaval, fiestas o Halloween
 - Hecho en poliéster
 - El set incluye un mono y un casco
-- Ideal para carnaval, carnaval, fiestas o Halloween
+- Viene en una altura de 147 cm, 82 cm de la cintura
 - Adecuado para niños de 8 a 10 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ICB99VU/?tag=tolees-21)

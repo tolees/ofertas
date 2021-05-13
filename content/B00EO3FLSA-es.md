@@ -28,10 +28,10 @@ En este momento está [Piz Buin - Protección Solar  Moisturising Loción Solar 
 
 🔎:
 
-- Proporciona horas de hidratación
-- Tipo de piel: normal
+- Ayuda a evitar la descamación de la piel
 - Ayuda a reforzar la resistencia de la piel al sol
 - Resistente al agua
-- Ayuda a evitar la descamación de la piel
+- Tipo de piel: normal
+- Proporciona horas de hidratación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00EO3FLSA/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Safta Funda F.C. Barcelona 17/18 Oficial Para Portátil 10 6 pulgadas  2
 
 🔎:
 
+- Medidas: Ancho 205mm. Largo 25mm. Alto 275mm.
 - Safta F.C. Barcelona 17/18 Oficial funda protectora especial de ordenador portátil o tablet de hasta 106 pulgadas. 2 años de garantía.
 - Ideal para adultos y adolescentes. Perfecta para el uso escolar, trabajo o viajes.
-- Confeccionada con un material de poliéster muy resistente y cremalleras suaves. Fácil de lavar.
 - Funda ultraligera. Alojamiento interior acolchado para portatil de 10,6 o tablet 9,7. Doble tirador en cremallera para facilitar su apertura. Gomas interiores de sujeción. Asa de mano en la parte superior.
-- Medidas: Ancho 205mm. Largo 25mm. Alto 275mm.
+- Confeccionada con un material de poliéster muy resistente y cremalleras suaves. Fácil de lavar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073HG6C9Y/?tag=tolees-21)
