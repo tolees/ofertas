@@ -28,9 +28,9 @@ Ahora mismo tienes [XIAJIA -7W 700LM Lámpara LED de pared  Lámpara de espejo A
 
 🔎:
 
-- 2. Datos: 7W, Voltaje: 85V ~ 265V, 50 / 60Hz, Lumen: 700LM , Dimensiones: 400mm, color de iluminación: Blanco Cálido, temperatura de color : 3500 K, CRI ≥ 70, protege los ojos.
 - 3. Eegante diseño es perfecto para el dormitorio, Ideal para iluminación de hogar, En el MIRROR, WALL, FRAME, BATHROOM CABINET u otros muebles, la lámpara se puede instalar con el accesorio. Se puede montar en muchos lugares, pasillo o galería, etc.
 - 1. Diseño minimalista:Lámpara LED para espejo con módulo de LED integrado (no necesita bombilla adicional). Tiene un alto rendimiento lumínico y el color de la luz es Blanco Cálido (3500 Kelvin).
+- 2. Datos: 7W, Voltaje: 85V ~ 265V, 50 / 60Hz, Lumen: 700LM , Dimensiones: 400mm, color de iluminación: Blanco Cálido, temperatura de color : 3500 K, CRI ≥ 70, protege los ojos.
 - 4. Protección de ojos y el medio ambiente： luz brillante hacia arriba y hacia abajo, protección para los ojos, sin flash, ahorra energía y ecológico sin mercurio, plomo, radiación UV o térmica. LÁMPARA LED CON ALTO BRILLO – Alta calidad para diferentes ambientes. Al mismo tiempo, la luz es agradable, suave y templada. Ahorro de energía, bajo consumo de energía.
 - 5.NO HAY RIESGO EN SU COMPRA - XIAJIA se dedica a proporcionar una experiencia de compra segura para nuestros clientes. Si te encuentras con cualquier problema, por favor no dude en ponerse en contacto con nosotros a través de correo electrónico, etc. Nuestros representantes del servicio de atención al cliente, están siempre dispuestos a ayudarle. Ofrecemos una garantía sin preocupaciones de 24 meses para usted and 6 meses money back guarantee.Sólo aquellas compras realizadas dentro XIAJIA gozan
 
