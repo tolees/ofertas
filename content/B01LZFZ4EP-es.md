@@ -28,10 +28,10 @@ Tienes [DisneyShowcase - Disney Showcase  Figura de Buzz "Toy Story"  Para colec
 
 🔎:
 
-- Adecuado para regalo
-- Dimensiones del producto: 5,1 x 5,1 x 5,1 cm
 - Figura de Buzz
-- Colores resistentes al agua
+- Dimensiones del producto: 5,1 x 5,1 x 5,1 cm
 - Producto adecuado para regalar, decorar o coleccionar
+- Adecuado para regalo
+- Colores resistentes al agua
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LZFZ4EP/?tag=tolees-21)

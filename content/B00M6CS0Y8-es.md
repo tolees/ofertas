@@ -28,7 +28,7 @@ En este momento está [Meroncourt Harry Potter Gryffindor House Crest Gorra de b
 
 🔎:
 
-- Calidad premium
 - Producto oficial de Harry Potter
+- Calidad premium
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00M6CS0Y8/?tag=tolees-21)
