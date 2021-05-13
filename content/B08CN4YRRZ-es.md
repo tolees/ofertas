@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Dunda Slim Polo  Combat 5864-723  M para Hombre](https://www.
 
 🔎:
 
-- Cuello de polo y puños acanalados
-- Bajo recto con aberturas laterales
 - Manga corta recta insertada
+- Cuello de polo y puños acanalados
 - logotipo de G-Star RAW bordado en el pecho
+- Bajo recto con aberturas laterales
 - Tapeta de dos botones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CN4YRRZ/?tag=tolees-21)

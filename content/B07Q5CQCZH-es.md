@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Moleskine  Cuaderno Dragon Ball  Tema Ma'
-date: 2021-04-16 08:20:27
+date: 2021-05-13 14:43:08
 image: 'https://m.media-amazon.com/images/I/41-kVx7WsxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Tienes [Moleskine  Cuaderno Dragon Ball  Tema Maestro Roshi  Edición Limitada  
 
 - Tamaño grande 13 x 21 cm, 240 páginas - Blanco - Tema Maestro Roshi
 - Cuaderno punteado - papel de color marfil sin ácido de 70 g/m2
-- Adéntrate en el mundo de Dragon Ball para buscar las 7 Bolas del Dragón y coleccionar los 4 cuadernos de edición limitada de Moleskine
 - Este cuaderno de Dragon Ball tiene una tapa dura con gráficos y detalles temáticos, esquinas redondeadas, cierre elástico y marcador de cinta
 - Complemento especial: 1 hoja de pegatinas temáticas de Dragon Ball
+- Adéntrate en el mundo de Dragon Ball para buscar las 7 Bolas del Dragón y coleccionar los 4 cuadernos de edición limitada de Moleskine
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Q5CQCZH/?tag=tolees-21)
