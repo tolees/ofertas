@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carmex COS 002 BL Bálsamo labial  1 tarr al 45.19 % de descuento'
-date: 2021-04-24 18:10:39
+date: 2021-05-13 09:10:56
 image: 'https://m.media-amazon.com/images/I/31-1x6qsD6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Carmex COS 002 BL Bálsamo labial  1 tarro - 7.5 g](https://
 
 🔎:
 
-- Suaviza y calma la piel de los labios durante la práctica de cualquier actividad al aire libre
 - Previene la aparición de fisuras, grietas, calenturas
+- Suaviza y calma la piel de los labios durante la práctica de cualquier actividad al aire libre
 - Repara las grietas que aparecen por sequedad ambiental, heridas en los labios, calenturas
 - Protege e hidrata la delicada piel de los labios;
 
