@@ -28,9 +28,9 @@ Está [Deportivas Niños MTNG | Deportivas MONDA 48151 | MTNG Niños | Deportiva
 
 ℹ️:
 
-- Material principal Sintetico
 - Material de la suela De goma
 - Tipo de cierre Cordones
+- Material principal Sintetico
 - Altura Tacón Bajo (de 1 A 3 cm)
 - Tipo de tacón Plano
 
