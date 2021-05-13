@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Schmidt Spiele - Vienna al 62.62 % de descuento'
-date: 2021-05-11 14:10:58
+date: 2021-05-13 10:22:15
 image: 'https://m.media-amazon.com/images/I/618BWgejmeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Schmidt Spiele'
 buyurl: 'https://www.amazon.es/dp/B00QVB6IL2/?tag=tolees-21'
 descuento: '62.62'
-average: '11.9933333333333'
+average: '11.896'
 ---
 
 Ahora mismo tienes [Schmidt Spiele - Vienna](https://www.amazon.es/dp/B00QVB6IL2/?tag=tolees-21) a 11.02 EUR (original: 29.48 EUR) (62.62 %  de descuento) en el siguiente enlace!
