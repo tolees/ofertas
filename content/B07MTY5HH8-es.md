@@ -28,10 +28,10 @@ En este momento está [Logitech G635 Auriculares Gaming RGB con Cable  Sonido 7.
 
 🔎:
 
-- RGB LIGHTSYNC de Espectro Completo: Disfruta de una iluminación RGB totalmente programable y reactiva utilizando el software G HUB. Programa la iluminación para que coincida con tu habitación
+- Inmersivo Sonido Envolvente DTS Headphone:X 2.0: Oye con estos cascos a los enemigos acechándote, pistas de habilidades especiales y entornos inmersivos con claridad posicional
+- Teclas G Programables: Asigna comandos personalizados usando G HUB en las tres teclas G programables para cascos y disfruta de una experiencia de gaming perfecta
 - Transductores Pro-G de 50 mm: Disfruta de sonido amplio gracias a los transductores de audio Pro-G hechos de malla híbrida tejida patentada para un sonido increíble, con profundidad y detalle
 - Mic+ de 6 mm, Alto y Claro: Obtén comunicaciones de voz asombrosamente claras y precisas con un gran micrófono de varilla. Mic+ se gira hacia arriba para silenciarlo y tiene un indicador de silencio
-- Teclas G Programables: Asigna comandos personalizados usando G HUB en las tres teclas G programables para cascos y disfruta de una experiencia de gaming perfecta
-- Inmersivo Sonido Envolvente DTS Headphone:X 2.0: Oye con estos cascos a los enemigos acechándote, pistas de habilidades especiales y entornos inmersivos con claridad posicional
+- RGB LIGHTSYNC de Espectro Completo: Disfruta de una iluminación RGB totalmente programable y reactiva utilizando el software G HUB. Programa la iluminación para que coincida con tu habitación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MTY5HH8/?tag=tolees-21)

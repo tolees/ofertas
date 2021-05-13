@@ -29,9 +29,9 @@ Está [Optrex Gel Oftálmico Reparador Noche](https://www.amazon.es/dp/B01M1GGAE
 ℹ️:
 
 - Sin conservantes
+- Recupera y repara tus ojos mientras duermes
 - Apto para uso diario
 - Especialmente desarrollado para recuperar los niveles de humedad del ojo para protegerlo de molestias
-- Recupera y repara tus ojos mientras duermes
 - Protección duradera contra las molestias
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M1GGAEE/?tag=tolees-21)

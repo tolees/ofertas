@@ -29,7 +29,7 @@ Está [Fominaya TYFON 4 - Mecanismo universal de descarga con pulsador](https://
 ℹ️:
 
 - No es necesario cortar ningún elemento
-- Fácil instalación
 - Fabricado con polímeros plásticos de 1ª calidad
+- Fácil instalación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00U1OQTMS/?tag=tolees-21)
