@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Superstar  Sneaker Mujer  Footwear White/Gold Metalli
 
 🔎:
 
-- Cordones de zapatos
-- Zapatilla clásica de cuero
 - Parte superior de cuero
+- Zapatilla clásica de cuero
+- Cordones de zapatos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08D3S5FJ2/?tag=tolees-21)
