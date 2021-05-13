@@ -29,8 +29,8 @@ Está [SteelSeries QcK+ - Alfombrilla de ratón de juego  450mm x 400mm  tela  b
 ℹ️:
 
 - QcK es la mejor opción para los profesionales de esports durante más de 15 años
-- La base de goma antideslizante elimina los movimientos no deseados
 - Tela exclusiva de microtejido QcK para un control máximo
+- La base de goma antideslizante elimina los movimientos no deseados
 - Duradera y lavable para una fácil limpieza
 - Optimizada para movimientos de seguimiento de DPI bajos y altos
 
