@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Cook@Home 19270-56 - Vapor con un 45.52 % de descuento'
-date: 2021-05-10 10:35:32
+date: 2021-05-13 13:02:43
 image: 'https://m.media-amazon.com/images/I/41JGyv20EbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Russell Hobbs'
 buyurl: 'https://www.amazon.es/dp/B008Y6IN3S/?tag=tolees-21'
 descuento: '45.52'
-average: '40.4250000000004'
+average: '40.3963380281694'
 ---
 
 En este momento está [Russell Hobbs Cook@Home 19270-56 - Vaporera  800 W  Cocina Lenta  Sin BPA  Acero Inox  Capacidad para 9 litros ](https://www.amazon.es/dp/B008Y6IN3S/?tag=tolees-21) a 34.32 EUR (original: 62.99 EUR) (45.52 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [Russell Hobbs Cook@Home 19270-56 - Vaporera  800 W  Cocin
 
 🔎:
 
-- Altura del producto: 35 cm
+- Potencia de 800 vatios
 - Cocina arroz, verduras y pescado al vapor manteniendo el máximo de nutrientes y vitaminas
+- Incluye 3 recipientes apilables con una capacidad total de 9 litros, cubeta de 1 litro para arroz y rejilla para huevos en los recipientes
+- Altura del producto: 35 cm
 - Dispone de 2 entradas de agua laterales, temporizador de 60 minutos con desconexión automática, señal de aviso de finalización del ciclo de cocción y bandeja para recoger el agua sobrante
 - Base de acero inoxidable cepillado; Bandejas de plástico transparente y plástico blanco
-- Incluye 3 recipientes apilables con una capacidad total de 9 litros, cubeta de 1 litro para arroz y rejilla para huevos en los recipientes
-- Potencia de 800 vatios
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008Y6IN3S/?tag=tolees-21)
