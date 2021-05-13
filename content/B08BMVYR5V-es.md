@@ -28,10 +28,10 @@ Tienes [ACTIVISION - Crash Bandicoot 4. It s About Time](https://www.amazon.es/d
 
 ℹ️:
 
-- La máscara de tiempo, ralentiza todo, y la máscara de gravedad, permitirá a los bandicoots jugar del revés
-- Gran evolución en el modo de juego gracias a una mecánica de juego avanzada como correr por la pared, mover los rieles y balancear la cuerda
-- Compra Crash Bandicoot 4 It’s About Time para PS4 y podrás obtener la versión digital para PS5 sin coste adicional a partir del 12 de marzo de 2021
-- Podrás jugar como Crash o Coco en esta aventura para salvar el multiverso, o con nuevos personajes jugables incluyendo el diabólico Neo Cortex
 - Descubrirás cuatro Máscaras Cuánticas, los guardianes del espacio y el tiempo, con las que podrás doblegar las reglas de la realidad y obtener ventajas para superar obstáculos peligrosos
+- Gran evolución en el modo de juego gracias a una mecánica de juego avanzada como correr por la pared, mover los rieles y balancear la cuerda
+- La máscara de tiempo, ralentiza todo, y la máscara de gravedad, permitirá a los bandicoots jugar del revés
+- Podrás jugar como Crash o Coco en esta aventura para salvar el multiverso, o con nuevos personajes jugables incluyendo el diabólico Neo Cortex
+- Compra Crash Bandicoot 4 It’s About Time para PS4 y podrás obtener la versión digital para PS5 sin coste adicional a partir del 12 de marzo de 2021
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BMVYR5V/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [WOLFPACK LINEA PROFESIONAL Hacha Con Mango Vizcaina 500 Gramos](https://w
 
 ℹ️:
 
-- Mango de madera.
 - Ideal para trabajos agricolas.
+- Mango de madera.
 - Peso cabeza: 500 gramos.
 - Mango válido en la referencia: > 02290252: mango madera hacha vizcaina 400 mm/500 gr.
 

@@ -30,7 +30,7 @@ Ahora mismo tienes [ECCO SOFT7RUNNERW  Zapatillas Hombre  Blanco  White/Shadow W
 
 - Cierre: Cordones
 - Material de la suela: Caucho
-- Revestimiento: Tela
 - Material exterior: Cuero
+- Revestimiento: Tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RF52NLF/?tag=tolees-21)
