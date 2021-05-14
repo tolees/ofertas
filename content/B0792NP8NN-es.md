@@ -28,8 +28,8 @@ En este momento está [Ubisoft Spain - Assassin s Creed: Rogue Remastered](https
 
 🔎:
 
-- Ahora en 4k para PS4 Pro y Xbox One X y 1080p en PS4 y Xbox One
 - Estilo de juego naval mejorado
+- Ahora en 4k para PS4 Pro y Xbox One X y 1080p en PS4 y Xbox One
 - Nuevos packs y contenido desbloqueable
 - Texturas de mayor resolución, sombras e iluminación mejorados, además de otras diversas mejoras a nivel gráfico
 
