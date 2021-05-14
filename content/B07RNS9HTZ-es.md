@@ -28,10 +28,10 @@ Tienes [Corsair M55 RGB PRO  Ratón Óptico  Tamaño Único  Negro](https://www.
 
 🔎:
 
-- Peso de tan solo 86g: su diseño increíblemente ligero le permite jugar sin esfuerzo durante horas a pleno rendimiento
-- Diseño ambidiestro versátil: juegue al máximo nivel con cualquier mano con el agarre más cómodo, ya sea la palma, los dedos o la punta de los dedos
+- Ocho botones completamente programables: consiga una ventaja en el juego con macros y asignaciones de botones potentes
 - Precisión para ganar: controle su forma de jugar con un sensor óptico de 12400 ppp para conseguir un seguimiento de gran precisión
 - Diseño duradero: con conmutadores omron con capacidad para 50 millones de clics y un cable trenzado dota al m55 rgb pro de la fuerza necesaria para soportar varios años de sesiones de juego intensas
-- Ocho botones completamente programables: consiga una ventaja en el juego con macros y asignaciones de botones potentes
+- Peso de tan solo 86g: su diseño increíblemente ligero le permite jugar sin esfuerzo durante horas a pleno rendimiento
+- Diseño ambidiestro versátil: juegue al máximo nivel con cualquier mano con el agarre más cómodo, ya sea la palma, los dedos o la punta de los dedos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RNS9HTZ/?tag=tolees-21)
