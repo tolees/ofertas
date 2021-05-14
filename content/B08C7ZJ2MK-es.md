@@ -29,8 +29,8 @@ Ahora mismo tienes [Bolso Bandolera Plana para Mujer Caqui Albina de Coronel Tap
 🔎:
 
 - Multi Ocasión: gracias a su diseño , combina bien en cualquier ocasión: trabajo, negocios, citas, diario o viajes. Básico para combinarlo con cualquier conjunto, un complemento indispensable en tu fondo de armario.
-- Bandolera de Coronel Tapiocca ( 25 X22X5 cm) Fabricado en nylon con interior en poliéster.
 - Albina
+- Bandolera de Coronel Tapiocca ( 25 X22X5 cm) Fabricado en nylon con interior en poliéster.
 - Compartimento principal con interior forrado con un bolsillo interior con cremallera. Resistente al desgaste. Costuras y materiales de alta calidad.
 - Bandolera
 
