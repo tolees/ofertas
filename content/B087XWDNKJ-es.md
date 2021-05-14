@@ -28,8 +28,8 @@ Ahora mismo tienes [hummel Classic Chevron Zip Hoodie Capucha con Cremallera  Ho
 
 🔎:
 
-- Sudadera con cremallera.
 - Multideporte.
 - Deportes.
+- Sudadera con cremallera.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087XWDNKJ/?tag=tolees-21)
