@@ -28,10 +28,10 @@ Tienes [Razer Cynosa Lite - Teclado Gaming Esencial con iluminación Razer Chrom
 
 ℹ️:
 
-- Teclas totalmente programables con grabación simultánea de macros
-- Compatible con Razer Synapse para una configuración óptima
-- Zona de iluminación con tecnología Razer Chroma con 16,8 millones de colores
-- Teclas optimas para juegos con tacto almohadillada
 - Diseño duradero y resistente a las salpicaduras para una seguridad adecuada
+- Teclas totalmente programables con grabación simultánea de macros
+- Zona de iluminación con tecnología Razer Chroma con 16,8 millones de colores
+- Compatible con Razer Synapse para una configuración óptima
+- Teclas optimas para juegos con tacto almohadillada
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Z5M6D5Z/?tag=tolees-21)
