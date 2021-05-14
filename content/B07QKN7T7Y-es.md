@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MTNG - Botas DE Tacã“N Mustang 58662 al 50.08 % de descuento'
-date: 2021-05-12 22:18:27
+date: 2021-05-13 22:56:21
 image: 'https://m.media-amazon.com/images/I/41uxNpmKlnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
