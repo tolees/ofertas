@@ -28,10 +28,10 @@ Tienes [Vans Filmore Suede Canvas  Zapatillas Hombre  Black/Pewter T2j  39 EU](h
 
 🔎:
 
-- Material de la suela: Goma
-- Material exterior: Cuero
-- Revestimiento: Tela
-- Cierre: Cordones
 - Tipo de tacón: Plano
+- Material de la suela: Goma
+- Cierre: Cordones
+- Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BN24BPW/?tag=tolees-21)

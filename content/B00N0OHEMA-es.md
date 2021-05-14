@@ -28,11 +28,11 @@ Tienes [TP-Link TL-SG105E Unmanaged PRO Switch  5 Puertos Gigabit Inteligente  P
 
 ℹ️:
 
+- Vlan, combinando seguridad con performance de red, el tl-sg108e soporta funciones vlan mtu, en base a puerto
+- Switch gigabit de 5 puertos, rj45 de negociación automática gigabit de 10/100/1000 mbps óptimamente expanden la capacidad de la red
+- Fácil manejo a traves de la interfaz web o utility de windows independiente
 - Resistente carcasa de metal para robustez
 - Plug and play, no requiere configuración
 - La tecnología ethernet ahorra el consumo de energía verde
-- Fácil manejo a traves de la interfaz web o utility de windows independiente
-- Vlan, combinando seguridad con performance de red, el tl-sg108e soporta funciones vlan mtu, en base a puerto
-- Switch gigabit de 5 puertos, rj45 de negociación automática gigabit de 10/100/1000 mbps óptimamente expanden la capacidad de la red
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00N0OHEMA/?tag=tolees-21)
