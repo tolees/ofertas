@@ -29,9 +29,9 @@ Tienes [XLS Medical Kilo Control - Ayuda A Controlar El Peso En Comidas Pesadas 
 🔎:
 
 - Fórmula única con carbolyte.
+- Complemento alimenticio.
 - Producto eficiente con extractos de plantas naturales.
 - Ayuda a controlar el peso durante o inmediatamente después de comidas pesadas.
-- Complemento alimenticio.
 - Envase discreto y práctico para llevar a donde quieras.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08B6PX24V/?tag=tolees-21)

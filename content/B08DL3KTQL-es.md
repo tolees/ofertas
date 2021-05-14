@@ -28,9 +28,9 @@ En este momento está [NIKE Paris Saint-Germain Temporada 2020/21-PSG Y NK BRT S
 
 🔎:
 
-- La tela Nike Breathe te ayuda a mantenerte fresco y seco
-- La tecnología Nike Dri-FIT te ayuda a mantenerte seco y cómodo
-- Ajuste estándar para una sensación relajada y cómoda
 - Camiseta de fútbol del Paris Saint-Germain
+- La tecnología Nike Dri-FIT te ayuda a mantenerte seco y cómodo
+- La tela Nike Breathe te ayuda a mantenerte fresco y seco
+- Ajuste estándar para una sensación relajada y cómoda
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DL3KTQL/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Ana María Lajusticia - Ana Maria Lajusticia - Aceite de 
 
 🔎:
 
+- Indicado para problema asociados con la menopausia
 - Indicado para personas con problemas circulatorios
 - Indicado para problema asociados a dolores menstruales
-- Indicado para problema asociados con la menopausia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071FQR68L/?tag=tolees-21)

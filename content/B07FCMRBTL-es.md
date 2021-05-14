@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme PLUS - Tarjeta de memori al 36.85 % de descuento'
-date: 2021-05-12 14:08:00
+date: 2021-05-14 10:46:17
 image: 'https://m.media-amazon.com/images/I/516m8UM930L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07FCMRBTL/?tag=tolees-21'
 descuento: '36.85'
-average: '82.4283333333333'
+average: '81.6253846153846'
 ---
 
 Ahora mismo tienes [SanDisk Extreme PLUS - Tarjeta de memoria microSDXC de 256 GB con adaptador SD  A2  hasta 170 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07FCMRBTL/?tag=tolees-21) a 71.99 EUR (original: 113.99 EUR) (36.85 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [SanDisk Extreme PLUS - Tarjeta de memoria microSDXC de 256 
 
 🔎:
 
-- Hasta 170 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
-- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
-- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones; resistentes a temperatura, agua, golpes y rayos X
-- Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
 - Ideal para smartphones y tabletas Android, cámaras de acción y drones
+- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
+- Hasta 170 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
+- Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
+- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones; resistentes a temperatura, agua, golpes y rayos X
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FCMRBTL/?tag=tolees-21)
