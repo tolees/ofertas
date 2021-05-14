@@ -28,8 +28,8 @@ Tienes [Ardistel - Melbits](https://www.amazon.es/dp/B07K1LGM4Q/?tag=tolees-21) 
 
 🔎:
 
-- Los virus representan todo lo malo de internet y hacen que todo lo digital se caiga y no funcione bien. Cuantos más Melbits existan, mejor funcionará internet. Por eso hay que conseguir todos los Melbits que se puedan.
 - Los niveles se van haciendo más complejos a nivel que los jugadores van avanzando en el juego y también el número de obstáculos y virus que se van añadiendo. Parece más fácil de lo que en realidad es. En el primer lanzamiento los jugadores se encontrarán con 36 niveles diferentes que se extienden en 4 mundos diferentes y está planificado lanzar más mundos y otras geniales expansiones más adelante.
+- Los virus representan todo lo malo de internet y hacen que todo lo digital se caiga y no funcione bien. Cuantos más Melbits existan, mejor funcionará internet. Por eso hay que conseguir todos los Melbits que se puedan.
 - Los Melbits son esos adorables personajes kawaii, que de algún modo son la personalización de las buenas vibraciones de Internet, y su misión es hacer que todo lo que sea digital funcione: en resumen diríamos que son lo contrario a los virus.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K1LGM4Q/?tag=tolees-21)

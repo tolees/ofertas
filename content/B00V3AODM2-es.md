@@ -28,10 +28,10 @@ Ahora mismo tienes [Arcos Riviera Blanc - Taco de 4 cuchillos y tijera  5piezas 
 
 🔎:
 
-- Presentación: Funda Display
+- Mango: Polipropileno Recubierto con Elastómero
 - Medidas hoja: 350 mm
 - Uso: Carnicero
-- Mango: Polipropileno Recubierto con Elastómero
 - Hoja: Acero Inoxidable NITRUM
+- Presentación: Funda Display
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00V3AODM2/?tag=tolees-21)

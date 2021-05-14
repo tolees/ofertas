@@ -29,8 +29,8 @@ Ahora mismo tienes [Oregon 91305L - Guantes](https://www.amazon.es/dp/B002XNYVYI
 🔎:
 
 - Están hechas de cuero suave
+- Guantes que proporcionan protección para las manos
 - Son resistentes e ajustables
 - No interfieren con el funcionamiento de la motosierra
-- Guantes que proporcionan protección para las manos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002XNYVYI/?tag=tolees-21)

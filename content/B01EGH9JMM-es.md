@@ -29,9 +29,9 @@ Tienes [Ana María Lajusticia - Ana Maria Lajusticia - Triptófano con magnesio 
 🔎:
 
 - El L-triptófano es un aminoácido esencial, lo que significa que nuestro organismo no puede producirlo por sí mismo y debe ser adoptado de manera exógena al organismo.
-- Participa en la formación de melatonina.
 - El triptófano actúa como precursor de la serotonina, un neurotransmisor implicado en la regulación del estado anímico, el estrés, y el descanso.
 - El magnesio contribuye a disminuir el cansancio y la fatiga.
 - Los aminoácidos son imprescindibles para muchos de los procesos de nuestro metabolismo
+- Participa en la formación de melatonina.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01EGH9JMM/?tag=tolees-21)
