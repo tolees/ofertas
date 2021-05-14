@@ -28,10 +28,10 @@ En este momento está [TRIXIE Comedero Exterior  8 posaderos  300 ml  17 cm  Pá
 
 🔎:
 
+- fácil de llenar gracias a la tapa extraíble
+- con gran superficie para posarse
+- plástico
 - con el techo sobresaliendo
 - mantiene la comida limpia y seca
-- fácil de llenar gracias a la tapa extraíble
-- plástico
-- con gran superficie para posarse
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000WFG8AY/?tag=tolees-21)

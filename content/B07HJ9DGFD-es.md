@@ -28,7 +28,7 @@ Tienes [NAME IT Nitida Pant Nmt Noos  Pantalones para Niñas  Azul oscuro  Dark 
 
 🔎:
 
-- elastic waistband
 - relaxed fit
+- elastic waistband
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HJ9DGFD/?tag=tolees-21)

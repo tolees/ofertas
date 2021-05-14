@@ -28,9 +28,9 @@ Está [OfficeCentre LFBTRF30EF3L - Pack de 3 recambios para bolígrafos de 0.5 m
 
 ℹ️:
 
-- Adecuado para Frixion Ball 4 Multi Pen
 - Borrable y reescribir
 - 3 recambios en blíster.
+- Adecuado para Frixion Ball 4 Multi Pen
 - Tinta termosensible
 - Ancho de la punta: 0.25 mm
 

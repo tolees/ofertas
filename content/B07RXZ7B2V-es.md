@@ -30,8 +30,8 @@ Ahora mismo tienes [Pepe Jeans Kingston Zip Vaqueros  Azul  Medium Used 000   28
 
 - Vaqueros con tiro medio para hombres
 - Diseño clásico con 5 bolsillos
-- Adecuados para cualquier atuendo
-- Tienen un tejido denim elástico y flexible
 - Tienen estilo con pierna recta
+- Tienen un tejido denim elástico y flexible
+- Adecuados para cualquier atuendo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RXZ7B2V/?tag=tolees-21)
