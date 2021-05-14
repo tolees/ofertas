@@ -28,8 +28,8 @@ En este momento está [Funko 12777 Guardians O/T Galaxy 2 12777 Skin Light tri C
 
 🔎:
 
-- Marvel: Guardians O/T Galaxy 2
 - Ego
+- Marvel: Guardians O/T Galaxy 2
 - Funko POP
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M7YJJI3/?tag=tolees-21)
