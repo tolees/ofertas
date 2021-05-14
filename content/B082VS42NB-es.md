@@ -28,10 +28,10 @@ Ahora mismo tienes [Vamvam 15 - Funda Laptop  Negro Mostaza](https://www.amazon.
 
 🔎:
 
+- Ideal para regalar o para darte un capricho
 - Case acolchada y reforzada, perfecta para viaje o simplemente para proteger tu mac, macbook u ordenador portátil de golpes y arañazos
 - Compatible con laptop y ultrabook de hasta 15,6" pulgadas
-- Ideal para regalar o para darte un capricho
-- Funda para portátil, modelo pocket mostaza, negra con detalle de bolsillo y franja horizontal con tela de rayas
 - Con bolsillo con cremallera para guardar el cargador o cualquier otro objeto
+- Funda para portátil, modelo pocket mostaza, negra con detalle de bolsillo y franja horizontal con tela de rayas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082VS42NB/?tag=tolees-21)

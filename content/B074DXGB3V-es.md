@@ -29,13 +29,13 @@ En este momento está [Western Digital WDBVXC0080HWT-EESN My Cloud Home Almacena
 🔎:
 
 - Acceso desde cualquier lugar con la aplicación para móviles o para ordenadores de My Cloud Home, o bien desde MyCloud.com
+- Un solo sitio centralizado para almacenar todas sus fotos, vídeos, música y archivos
+- Copia de seguridad automática de las fotos y los vídeos del teléfono
+- Interfaz Gigabit Ethernet, USB 3.0
+- Puerto USB para importar fotos, vídeos y documentos desde unidades flash USB y discos duros externos
 - ¡Atención! Requiere un enrutador y conexión a internet para funcionar correctamente
 - Temperatura operativa: de 5 °C a 35 °C
 - Configuración sencilla y rápida desde el teléfono
-- Un solo sitio centralizado para almacenar todas sus fotos, vídeos, música y archivos
-- Puerto USB para importar fotos, vídeos y documentos desde unidades flash USB y discos duros externos
-- Interfaz Gigabit Ethernet, USB 3.0
 - Compatible con Windows 7 (solo 64 bits) o posterior y Mac OS X v10.10 o posterior. Para móviles, compatible con iOS 9+ y Android 4.4+
-- Copia de seguridad automática de las fotos y los vídeos del teléfono
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B074DXGB3V/?tag=tolees-21)

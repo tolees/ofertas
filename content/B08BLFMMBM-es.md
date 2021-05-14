@@ -29,9 +29,9 @@ En este momento está [Burton Emphasis 2.0  Adultos Unisex  True Black](https://
 🔎:
 
 - Correas para llevar tablas
-- Poliéster 600D aprobado por bluesign con respaldo de PU
-- Dimensiones: 19in x 13in x 6in / 48cm x 32cm x 15cm; Peso: 1.3 libras; Volumen: 26L
 - Visite burton.elasticsuite.com para ver más detalles sobre todos nuestros productos bluesign
+- Dimensiones: 19in x 13in x 6in / 48cm x 32cm x 15cm; Peso: 1.3 libras; Volumen: 26L
+- Poliéster 600D aprobado por bluesign con respaldo de PU
 - Tirantes ergonómicos con correa ajustable para el esternón.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLFMMBM/?tag=tolees-21)

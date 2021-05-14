@@ -28,10 +28,10 @@ Tienes [JULIUS-K9 Arnés Julius-K9 IDC  1/L  63–85 cm/50 mm  Camuflaje  Perro]
 
 🔎:
 
-- Más espacio para moverse gracias al diseño delgado y a que la tira para el abdomen se ha llevado más atrás.
-- Señal de color y bandas reflectantes para mayor seguridad.
-- Forma ergonómica. Ajuste óptimo de las tiras del pecho que distribuyen la presión uniformemente sobre el pecho.
 - Previene la presión en la zona de la garganta, por lo que no limita la respiración.
+- Forma ergonómica. Ajuste óptimo de las tiras del pecho que distribuyen la presión uniformemente sobre el pecho.
+- Señal de color y bandas reflectantes para mayor seguridad.
+- Más espacio para moverse gracias al diseño delgado y a que la tira para el abdomen se ha llevado más atrás.
 - Extra resistente. Forro interior con piel de alta calidad.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00A9XBMZU/?tag=tolees-21)
