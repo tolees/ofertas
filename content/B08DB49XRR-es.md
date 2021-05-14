@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Untitled Goose Game al 37.41 % de rebaja'
-date: 2021-05-12 10:48:51
+date: 2021-05-14 20:11:27
 image: 'https://m.media-amazon.com/images/I/41KzlPiU0HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B08DB49XRR/?tag=tolees-21'
 descuento: '37.41'
-average: '28.7264999999999'
+average: '28.4014285714285'
 ---
 
 Tienes [Meridiem Games - Untitled Goose Game](https://www.amazon.es/dp/B08DB49XRR/?tag=tolees-21) con precio final de  21.9 EUR (original: 34.99 EUR) (37.41 %  de rebaja) aqui!
