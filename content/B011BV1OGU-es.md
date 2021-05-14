@@ -28,8 +28,8 @@ Está [Kesper 58330 - Tabla de cortar  Bambú  Marrón  35 x 24 x 0.8 cm](https:
 
 ℹ️:
 
-- También cortar y tallar fácilmente utilizar su fregadero de cocina
-- Tamaño: 35 x 24 x 0,8 cm
 - Material: Bambú
+- Tamaño: 35 x 24 x 0,8 cm
+- También cortar y tallar fácilmente utilizar su fregadero de cocina
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B011BV1OGU/?tag=tolees-21)
