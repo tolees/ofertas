@@ -30,7 +30,7 @@ Ahora mismo tienes [Only onlSEDONA Coat OTW Noos Abrigo  Gris  Light Grey Melang
 
 - 2 bolsillos delanteros ribeteados.
 - Cierre frontal oculto.
-- Abrigo con capucha drapeada.
 - Composición del material: Material exterior: 85 % poliéster, 15 % algodón. Forro: 100 % poliéster.
+- Abrigo con capucha drapeada.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07237KDZN/?tag=tolees-21)

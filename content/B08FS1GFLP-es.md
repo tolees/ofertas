@@ -29,9 +29,9 @@ Está [adidas Madrid Temporada 2020/21 Real 3 JSY Y Camiseta Tercera equipación
 ℹ️:
 
 - Logo en pierna
-- Suave al tacto
-- Elástica en cintura
 - Cordón de ajuste
+- Elástica en cintura
 - Ajuste regular
+- Suave al tacto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FS1GFLP/?tag=tolees-21)
