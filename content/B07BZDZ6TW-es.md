@@ -28,10 +28,10 @@ Está [Grupo Erik Editores Rick & Morty - Carpeta con 4 anillas troquelada  32 x
 
 ℹ️:
 
-- La carpeta premium Rick & Morty esta formada de 4 anillas y está diseñada con materiales de gran calidad con diseños a todo color junto con las licencias más actuales
-- Tiene un tamaño de 32 x 26 cm e incorpora varilla compresora metálica y cierre con banda elástica junto con un diseño a todo color personalizado acorde al modelo
 - La carpeta 4 anillas troquelada es una de las mejores formas para organizar cualquier documento por su comodidad y por sus bonitos diseños
-- Nuestras carpetas 4 anillas están fabricadas con tapa dura de cartón de 2 mm de espesor y forradas con papel de 150 gr en mate
 - Erik - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza
+- Nuestras carpetas 4 anillas están fabricadas con tapa dura de cartón de 2 mm de espesor y forradas con papel de 150 gr en mate
+- Tiene un tamaño de 32 x 26 cm e incorpora varilla compresora metálica y cierre con banda elástica junto con un diseño a todo color personalizado acorde al modelo
+- La carpeta premium Rick & Morty esta formada de 4 anillas y está diseñada con materiales de gran calidad con diseños a todo color junto con las licencias más actuales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BZDZ6TW/?tag=tolees-21)

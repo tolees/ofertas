@@ -30,7 +30,7 @@ Tienes [Converse Chuck Taylor All Star Lift - Hi - Blanco/Negro/Blanco Canvas](h
 
 - Material: Canvas
 - Color: blanco
-- Estilo: Sneaker High
 - NÃºmero del fabricante: 560846C
+- Estilo: Sneaker High
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079GXVWWJ/?tag=tolees-21)
