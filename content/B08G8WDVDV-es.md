@@ -28,10 +28,10 @@ En este momento está [HOMCOM Cinta de Correr y Andar Eléctrica Plegable con 9 
 
 🔎:
 
-- ✅BOTÓN DE SEGURIDAD: Presiona el botón de emergencia y tira el cable de seguridad, la electricidad se detiene inmediatamente, lo que brinda mayor seguridad. La pendiente de la cinta se puede ajustar en 3 niveles: 7 °, 8 ° y 10 °.
-- ✅PANTALLA LCD: Te mantiene informado de escaneo, velocidad, tiempo, calorías quemadas, distancia, y frecuencia cardíaca, lo que te ayuda a concentrarte más en el entrenamiento. Además, cuenta con 9 programas automáticos preestablecidos.
-- ✅PLEGABLE Y MÓVIL: La cinta de correr eléctrica es fácil de plegar y con dos ruedas móviles, es perfecta para transportar y almacenar en cualquier sitio.
 - ✅MEDIDAS: 60x133x117 cm (LxANxAL); Medidas de la cinta de correr: 36x100 cm (LxAN); Medidas plegadas: 60x52x126 cm (LxANxAL).
+- ✅PLEGABLE Y MÓVIL: La cinta de correr eléctrica es fácil de plegar y con dos ruedas móviles, es perfecta para transportar y almacenar en cualquier sitio.
+- ✅BOTÓN DE SEGURIDAD: Presiona el botón de emergencia y tira el cable de seguridad, la electricidad se detiene inmediatamente, lo que brinda mayor seguridad. La pendiente de la cinta se puede ajustar en 3 niveles: 7 °, 8 ° y 10 °.
 - ✅DISEÑO ACTUAL: Máquina de correr eléctrica con diseño moderno, pantalla LCD integrada en el manillar de la máquina, que es ergonómico para un fácil agarre durante la práctica de ejercicio. Además, tiene un soporte para iPad, tableta o móvil. Para que puedas ver videos, escuchar música, leer o incluso chatear y hacer videoconferencias durante el ejercicio.
+- ✅PANTALLA LCD: Te mantiene informado de escaneo, velocidad, tiempo, calorías quemadas, distancia, y frecuencia cardíaca, lo que te ayuda a concentrarte más en el entrenamiento. Además, cuenta con 9 programas automáticos preestablecidos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08G8WDVDV/?tag=tolees-21)

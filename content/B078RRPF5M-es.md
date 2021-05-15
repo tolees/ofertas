@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.25 % en Edge Entertainment- Chez Geek: Piso comp'
-date: 2021-05-13 09:20:48
+date: 2021-05-15 08:26:12
 image: 'https://m.media-amazon.com/images/I/51MRgevKOxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B078RRPF5M/?tag=tolees-21'
 descuento: '48.25'
-average: '14.0519047619048'
+average: '14.1177272727273'
 ---
 
 Tienes [Edge Entertainment- Chez Geek: Piso compartido - Español  Color  EESJCG01 ](https://www.amazon.es/dp/B078RRPF5M/?tag=tolees-21) con un 48.25 % de descuento con precio de oferta de 15.5 EUR (original: 29.95 EUR) en el siguiente enlace!
