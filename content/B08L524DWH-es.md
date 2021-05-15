@@ -28,10 +28,10 @@ Tienes [KEEPXYZ Funda para iPhone 11 + 2 Pcs Protector de Pantalla para iPhone 1
 
 🔎:
 
-- [ Protección sensible ] Las cubiertas de goma protegen los botones de volumen y encendido mientras los mantienen completamente accesibles. Fácil acceso a todos los puertos, sensores, altavoces, cámaras y todas las funciones.
-- [ Alta Definicion, Rapida Respuesta ] Ópticamente transparente, que proporciona una claridad del 99% para una resolución de imagen nítida. El vidrio templado mantiene la experiencia táctil original, no afecta la sensibilidad de la pantalla cuando se usa y brinda la máxima protección y un gran toque a tu dispositivo.
-- [ Military Grade Hibrida ] La funda para iPhone 11 de doble capa 3 en 1 proporciona una protección de cobertura completa de 360 grados. Policarbonato duro híbrido (PC) de primera calidad + Poliuretano termoplástico suave (TPU Silicona) + Protector de pantalla de vidrio templado.
 - [ Dureza 9H ] Hecho con cristal templado de alta calidad de 0.33mm de grosor y dureza premium 9H, con bordes 2.5D redondeados, puede evitar los arañazos por cuchillo y llaves y otras objetos cortantes.
+- [ Alta Definicion, Rapida Respuesta ] Ópticamente transparente, que proporciona una claridad del 99% para una resolución de imagen nítida. El vidrio templado mantiene la experiencia táctil original, no afecta la sensibilidad de la pantalla cuando se usa y brinda la máxima protección y un gran toque a tu dispositivo.
 - [ Protección fuerte ] delgado y liviano, transparente, Antigolpes.Las esquinas acolchadas brindan mayor protección contra caídas en caso de caídas accidentales.Protege bien tu teléfono contra caídas de hasta 3 m (10 pies) de altura.
+- [ Protección sensible ] Las cubiertas de goma protegen los botones de volumen y encendido mientras los mantienen completamente accesibles. Fácil acceso a todos los puertos, sensores, altavoces, cámaras y todas las funciones.
+- [ Military Grade Hibrida ] La funda para iPhone 11 de doble capa 3 en 1 proporciona una protección de cobertura completa de 360 grados. Policarbonato duro híbrido (PC) de primera calidad + Poliuretano termoplástico suave (TPU Silicona) + Protector de pantalla de vidrio templado.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L524DWH/?tag=tolees-21)
