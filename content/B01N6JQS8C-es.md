@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston A400 SSD SA400S37/120G - Disco  con un 45.96 % de descuento'
-date: 2021-05-10 15:20:35
+date: 2021-05-15 17:26:20
 image: 'https://m.media-amazon.com/images/I/41UKoJx2tZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B01N6JQS8C/?tag=tolees-21'
 descuento: '45.96'
-average: '23.0460063897762'
+average: '23.0662025316454'
 ---
 
 En este momento está [Kingston A400 SSD SA400S37/120G - Disco duro sólido interno 2.5" SATA 120GB](https://www.amazon.es/dp/B01N6JQS8C/?tag=tolees-21) a 19.99 EUR (original: 36.99 EUR) (45.96 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Kingston A400 SSD SA400S37/120G - Disco duro sólido inte
 
 🔎:
 
-- Capacidad del disco duro: 120 GB
-- Rendimiento óptimo para la transferencia de archivos
 - Fiable y resistente
+- Rendimiento óptimo para la transferencia de archivos
 - Velocidad de grabación: 320 MB/s
+- Capacidad del disco duro: 120 GB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N6JQS8C/?tag=tolees-21)

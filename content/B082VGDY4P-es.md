@@ -28,8 +28,8 @@ Tienes [Lee Extreme Motion Slim Jeans  Aristocrat  27W / 32L para Hombre](https:
 
 🔎:
 
-- Recycled FABRICS
 - Slim Fit MVP
+- Recycled FABRICS
 - Tejido vaquero elástico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082VGDY4P/?tag=tolees-21)
