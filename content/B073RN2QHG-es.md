@@ -28,9 +28,9 @@ Ahora mismo tienes [Columbia Santiam 3 Strap  Zapatillas Hombre  Black  Black  M
 
 🔎:
 
-- Material de la suela: Caucho
-- Material exterior: Cuero
-- Revestimiento: Sintético
 - Cierre: Velcro
+- Material exterior: Cuero
+- Material de la suela: Caucho
+- Revestimiento: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073RN2QHG/?tag=tolees-21)

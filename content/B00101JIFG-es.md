@@ -28,9 +28,9 @@ Está [Exoterra - Exo Terra Bombilla Solar GLO Vapor de Mercurio  125 W](
 
 ℹ️:
 
-- Niveles óptimos de UVB, UVA, luz visible y calor en una sola bombilla!
 - Ayuda a prevenir las enfermedades metabólicas óseas
 - Proporciona los beneficios de la luz natural del sol
+- Niveles óptimos de UVB, UVA, luz visible y calor en una sola bombilla!
 - Incrementa la distancia de penetración UVB (+30 cm / 12")
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00101JIFG/?tag=tolees-21)
