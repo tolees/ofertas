@@ -29,9 +29,9 @@ En este momento está [Garnier Delial UV Water Spray Protector Solar Transparent
 🔎:
 
 - El secreto de la Fórmula Bifásica: 50% fase de Aceite y 50% Fase de Agua enriquecida con Aloe Vera Ecológico para una máxima frescura, ligereza e hidratación durante 8 horas
-- Con aloe vera que aporta hasta 8 horas de hidratación y una fragancia fresca
-- Alta protección frente a los daños solares causados por los rayos UVB/UVA
 - Textura fresca de rápida absorción, invisible en la piel y resistente al agua
+- Con aloe vera que aporta hasta 8 horas de hidratación y una fragancia fresca
 - Garnier Delial UV Water Spray Protector Solar IP30 protege la piel de los daños solares causados por los rayos UVB y UVA
+- Alta protección frente a los daños solares causados por los rayos UVB/UVA
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BF9N8TT/?tag=tolees-21)

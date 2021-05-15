@@ -29,9 +29,9 @@ Está [San Ignacio Batería de cocina 7 piezas Cazo sin tapa Ø16  1.5L  / Cacer
 ℹ️:
 
 - El fondo de inducción que incorporan las piezas ha sido diseñado para ofrecer un calentamiento rápido y homogéneo, ahorrando tiempo y energía. Es compatible con todas las cocinas, incluidas la de inducción.
-- Batería de cocina compuesto por 1PC cazo sin tapa Ø16X7.5 cm de 1.5L / 1PC cacerola con tapa Ø16X7.5 cm de 1.5L / 1PC cacerola con tapa Ø18X9.0 cm de 2.0L / 1PC cacerola con tapa Ø20X10 cm de 3.0L
 - El interior de las piezas cuenta con una escala de medición para que sea mucho más sencillas la cocina y añadas las medidas exactas.
-- Las tapas han sido fabricadas en vidrio de gran resistencia. Gracias a su transparencia podrás ver el estado de la recetan sin necesidad de levantarla.
 - El set ha sido fabricado en acero inoxidable de alta calidad, aportando una resistencia perfecta a la pieza y mayor vida útil.
+- Las tapas han sido fabricadas en vidrio de gran resistencia. Gracias a su transparencia podrás ver el estado de la recetan sin necesidad de levantarla.
+- Batería de cocina compuesto por 1PC cazo sin tapa Ø16X7.5 cm de 1.5L / 1PC cacerola con tapa Ø16X7.5 cm de 1.5L / 1PC cacerola con tapa Ø18X9.0 cm de 2.0L / 1PC cacerola con tapa Ø20X10 cm de 3.0L
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CZMF51D/?tag=tolees-21)

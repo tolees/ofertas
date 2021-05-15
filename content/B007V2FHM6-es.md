@@ -28,9 +28,9 @@ Está [HARLEY-DAVIDSON - Genuine Harley Davidson logo - Caja de almacenamiento 1
 
 ℹ️:
 
-- La tapa se cierra herméticamente
 - Adecuado para almacenar café, harina o azúcar
 - La caja mide 20 x 14 cm
+- La tapa se cierra herméticamente
 - Caja de almacenamiento diseño Harley Davidson
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B007V2FHM6/?tag=tolees-21)

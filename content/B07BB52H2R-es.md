@@ -28,10 +28,10 @@ Ahora mismo tienes [Kodak Printomatic - Cámara de impresión instantánea  impr
 
 🔎:
 
-- Kodak La cámara Printomatic imprime instantáneamente fotos vibrantes de alta calidad de 2 x 3 pulgadas. La cámara utiliza Kodak Papel fotográfico Zink, por lo que no se necesitan cartuchos de tinta, tóner o película. Las impresiones fotográficas son duraderas, resistentes al agua, resistentes al desgarro, sin manchas y con respaldo adhesivo.
-- DISEÑO ENCANTADOR: viene en una variedad de colores divertidos y atrevidos. Diseño compacto Se desliza perfectamente en el bolsillo de su camisa. Facilite el transporte a medida que avanza el día, asegurándose de tener siempre su Printomatic con usted
-- Kodak Printomatic Camera es un producto fácil de usar. La cámara tiene ranuras para colocar una correa para el cuello y guarda fotos en una tarjeta microSD
 - RÁPIDO, FÁCIL Y DIVERTIDO: este apuntar y disparar a la velocidad de la cámara le permite tomar una nueva foto mientras imprime la toma anterior. También viene equipado con un sensor de luz que encenderá automáticamente el flash en entornos con poca luz.
 - FOTOGRAFÍA TODO EN UNO: la cámara PRINTOMATIC de apuntar y disparar ofrece un potente sensor de 5 MP con una lente gran angular f / 2 que imprime instantáneamente fotos de alta calidad. Printomatic es la solución todo en uno ideal para capturar y compartir impresiones vibrantes instantáneamente dondequiera que esté
+- Kodak Printomatic Camera es un producto fácil de usar. La cámara tiene ranuras para colocar una correa para el cuello y guarda fotos en una tarjeta microSD
+- Kodak La cámara Printomatic imprime instantáneamente fotos vibrantes de alta calidad de 2 x 3 pulgadas. La cámara utiliza Kodak Papel fotográfico Zink, por lo que no se necesitan cartuchos de tinta, tóner o película. Las impresiones fotográficas son duraderas, resistentes al agua, resistentes al desgarro, sin manchas y con respaldo adhesivo.
+- DISEÑO ENCANTADOR: viene en una variedad de colores divertidos y atrevidos. Diseño compacto Se desliza perfectamente en el bolsillo de su camisa. Facilite el transporte a medida que avanza el día, asegurándose de tener siempre su Printomatic con usted
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BB52H2R/?tag=tolees-21)

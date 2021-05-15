@@ -28,10 +28,10 @@ En este momento está [Arcos Serie Riviera Rose  Cuchillo Mondador  Hoja de Acer
 
 🔎:
 
-- Remaches: Libre de corrosión gracias a sus remaches machihembrados de acero inoxidable
-- Mango: Nuevo mango en color rosa, forjado en una sola pieza, con una elegante virola estilo francés
-- Tamaño Hoja: 100 mm
-- Hoja de acero inoxidable Nitrum, una fórmula exclusiva de ARCOS de acero al nitrógeno que proporciona más dureza, mayor poder de corte y mejora de la durabilidad del filo
 - Cachas de polioximetileno (POM), indeformable a temperaturas extremas y resistente a productos químicos
+- Hoja de acero inoxidable Nitrum, una fórmula exclusiva de ARCOS de acero al nitrógeno que proporciona más dureza, mayor poder de corte y mejora de la durabilidad del filo
+- Mango: Nuevo mango en color rosa, forjado en una sola pieza, con una elegante virola estilo francés
+- Remaches: Libre de corrosión gracias a sus remaches machihembrados de acero inoxidable
+- Tamaño Hoja: 100 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07B8MQZTW/?tag=tolees-21)

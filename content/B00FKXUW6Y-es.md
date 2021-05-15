@@ -28,9 +28,9 @@ Está [KabelDirekt – 3m Cable DVI Dual Link  DVI-D  24+1 Pin  Full HD 1080p  3
 
 ℹ️:
 
-- 36 meses de garantía del fabricante
 - Cable Dual Link DVI – DVI-D 24+1
 - Certificado oficial
 - Diseño de alta calidad
+- 36 meses de garantía del fabricante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00FKXUW6Y/?tag=tolees-21)

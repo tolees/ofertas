@@ -28,7 +28,7 @@ Tienes [Geox M VINCIT GILET JACKET  Hombre  BLUE NIGHTS](https://www.amazon.es/d
 
 🔎:
 
-- Chaleco de hombre, versátil y funcional, de estilo urbano y formal, ideal para el uso cotidiano
 - Sistema de transpiración patentado por Geox
+- Chaleco de hombre, versátil y funcional, de estilo urbano y formal, ideal para el uso cotidiano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TVH9J64/?tag=tolees-21)
