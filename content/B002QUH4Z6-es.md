@@ -28,9 +28,9 @@ Está [HOT - Exxtreme spray relajante anal](https://www.amazon.es/dp/B002QUH4Z6/
 
 ℹ️:
 
-- Adecuado para unas relaciones anales de calidad
-- Favorece la dilatación de la piel y los tejidos
 - Compatible con el uso de preservativos
+- Favorece la dilatación de la piel y los tejidos
 - Bastan unas pocas pulverizaciones por aplicación
+- Adecuado para unas relaciones anales de calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002QUH4Z6/?tag=tolees-21)
