@@ -28,10 +28,10 @@ En este momento está [Otterbox Symmetry Clear  funda anticaídas  fina y elegan
 
 🔎:
 
-- DISEÑADA PARA PROTEGER - Probada por nosotros. Fabricada para ti. la protección certificada contra caídas Drop+ de OtterBox supone más de 24 ensayos durante más de 238 horas, lo que certifica que esta carcasa fina y elegante funciona a la perfección cuando más se necesita.
-- Ultrafina - carcasa ultrafina hecha de un material transparente que no amarillea y diseñada para ofrecer protección y para que tu teléfono esté siempre como nuevo
-- De moda - enseña tu teléfono. Carcasa ultraligera, transparente y perfecta para llevar en el bolsillo, con la fiabilidad de otterbox
 - COMPATIBLE CON ALPHA GLASS - Compatible con el protector de pantalla Alpha Glass de OtterBox para una protección de 360°.
+- DISEÑADA PARA PROTEGER - Probada por nosotros. Fabricada para ti. la protección certificada contra caídas Drop+ de OtterBox supone más de 24 ensayos durante más de 238 horas, lo que certifica que esta carcasa fina y elegante funciona a la perfección cuando más se necesita.
+- De moda - enseña tu teléfono. Carcasa ultraligera, transparente y perfecta para llevar en el bolsillo, con la fiabilidad de otterbox
+- Ultrafina - carcasa ultrafina hecha de un material transparente que no amarillea y diseñada para ofrecer protección y para que tu teléfono esté siempre como nuevo
 - Mantiene la pantalla protegida - el pronunciado borde biselado ayuda a proteger la pantalla táctil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07V258CZQ/?tag=tolees-21)

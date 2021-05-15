@@ -28,8 +28,8 @@ En este momento está [Burton Durable Goods Camiseta  Hombre  True Black  XS](ht
 
 🔎:
 
+- Corte clásico
 - Prelavado
 - Logo estampado en el pecho
-- Corte clásico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SMTN3VB/?tag=tolees-21)

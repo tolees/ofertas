@@ -28,12 +28,12 @@ Ahora mismo tienes [Huawei Band 4e - Pulsera de actividad de elegante diseño co
 
 🔎:
 
-- Asistente inteligente: permite traquearpasos, distancia, calorías, sueño; llamadas entrantes, SMS, alarma, etc
-- Batería de larga duración: Con 77 mAh de capacidad, te permite utilizar la pulsera hasta 14 días de uso normal y y hasta 21 en modo standby. Despreocúpate de tener que cargarla cada día
+- Pantalla OLED 0.5” (resolución: 88 x 48px) con cuerpo de materiales plásticos altamente resistentes; diseño ligero y confortable, adaptado para la práctica deportiva
 - Modo “basket”, con el cual podrás colocar tu pulsera en la zapatilla y ella misma se encargará de monitorizar todos tus movimientos relacionados con el baloncesto. Detalles sobre salto, sprint, duración, etc
 - Monitorización de baloncesto (número de saltos, altura, duración)
+- Batería de larga duración: Con 77 mAh de capacidad, te permite utilizar la pulsera hasta 14 días de uso normal y y hasta 21 en modo standby. Despreocúpate de tener que cargarla cada día
 - Seguimiento de actividad: Andar, correr, nadar, montar en bicicleta, montañismo, triatlón
 - Resistencia al agua hasta 5ATM: 50 m
-- Pantalla OLED 0.5” (resolución: 88 x 48px) con cuerpo de materiales plásticos altamente resistentes; diseño ligero y confortable, adaptado para la práctica deportiva
+- Asistente inteligente: permite traquearpasos, distancia, calorías, sueño; llamadas entrantes, SMS, alarma, etc
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XTQS357/?tag=tolees-21)
