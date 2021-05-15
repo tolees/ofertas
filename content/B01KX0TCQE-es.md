@@ -28,9 +28,9 @@ Tienes [Gloss! - Gloss - caja de maquillaje  caja de regalo para mujeres - Malet
 
 ℹ️:
 
-- 4 x 4 paletas de sombra de ojos, 1 Polvos bronceadores, 3 Barra de labios, brillo de labios tubo 2,
-- Malette maquillaje esencial
 - Este maquillaje del caso del lustre ofrece una variedad de cosméticos y aplicadores
+- 4 x 4 paletas de sombra de ojos, 1 Polvos bronceadores, 3 Barra de labios, brillo de labios tubo 2,
 - 1 lápiz de ojos, 1 lápiz contorno de los labios, 3 pinceles de maquillaje
+- Malette maquillaje esencial
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01KX0TCQE/?tag=tolees-21)

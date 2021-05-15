@@ -28,10 +28,10 @@ En este momento está [Outsunny Barbacoa de Carbón con 2 Parrillas Independient
 
 🔎:
 
-- ✅MEDIDAS: 90x45x96 cm (LxAnxAl). Soporta hasta 300°C.
+- ✅DOBLE PARRILLA en la que cocinar diferentes alimentos de forma independiente.
 - ✅RUEDAS incorporadas para que resulte súper fácil moverla de un lugar a otro.
+- ✅MEDIDAS: 90x45x96 cm (LxAnxAl). Soporta hasta 300°C.
 - ✅ESTANTE INFERIOR ADICIONAL que proporciona un gran espacio extra de almacenaje.
 - ✅BARBACOA RECTANGULAR AMPLIA para disfrutar de la cocina al aire libre. Perfecta para tu jardín o terraza.
-- ✅DOBLE PARRILLA en la que cocinar diferentes alimentos de forma independiente.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084Q8GVBH/?tag=tolees-21)

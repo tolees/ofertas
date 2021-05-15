@@ -29,9 +29,9 @@ Ahora mismo tienes [Outsunny Carpa Pabellon 6x3 Metros Plegable 4 Paneles Ventan
 🔎:
 
 - ✅Estructura estable con tubos de acero con recubrimiento en polvo
+- ✅Fácil y rápido de montar y desmontar, es plegable
+- ✅Carpa con techo resistente de agua
 - ✅Nota: La garantía de este producto no cubre los daños derivados de un uso indebido, ni de la exposición a las condiciones meteorológicas adversas, de la exposición a un calor excesivo, de la instalación, montaje y colocación inadecuados, de un abuso físico o químico, o daños causados por un cuidado y mantenimiento inadecuados.
 - ✅Sección de tela plegable: 18 x 10 mm
-- ✅Carpa con techo resistente de agua
-- ✅Fácil y rápido de montar y desmontar, es plegable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00NP2QZAO/?tag=tolees-21)
