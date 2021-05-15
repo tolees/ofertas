@@ -28,9 +28,9 @@ Tienes [PLAYMOBIL- Duo Pack Duopack Doctora y Paciente  Multicolor  70079 ](http
 
 🔎:
 
-- Juego educativo para los niños
 - Incluye dos figuras y varios accesorios
-- Desarrolla la imaginación y la creatividad
 - Incluye alfombras, férulas flexibles y estuche de médico
+- Desarrolla la imaginación y la creatividad
+- Juego educativo para los niños
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JM59JCP/?tag=tolees-21)

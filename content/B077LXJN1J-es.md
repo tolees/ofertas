@@ -28,12 +28,12 @@ Está [PUMA Smash V2 L V Inf  Zapatillas Unisex niños  Blanco White White  23 E
 
 ℹ️:
 
-- Altura del tacón: 2 centímetros
 - Material exterior: Cuero
-- Revestimiento: Sintético
 - Cierre: Velcro
-- Anchura del zapato: Normal
+- Altura del tacón: 2 centímetros
 - Tipo de tacón: Plano
+- Anchura del zapato: Normal
+- Revestimiento: Sintético
 - Composición: Cuero
 - Material de la suela: Goma
 
