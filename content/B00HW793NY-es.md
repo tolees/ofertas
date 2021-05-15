@@ -28,10 +28,10 @@ En este momento está [Science4you - Fábrica de los Pegamonstruos - Slime - Jug
 
 🔎:
 
+- Incluye libro educativo de 36 páginas y más de 100€ en Entradas para Museos de Ciencia
+- Descubre cómo crear una divertida masa viscosa y cómo puedes hacer fantásticos monstruos viscosos. Crea medusas invisibles y haz gusanos superviscosos y coloridos con la ayuda del libro educativo incluido.
 - La visión de Science4you es mejorar los niveles de educación en la sociedad, a través del desarrollo de juguetes científicos y juegos que permitan a los niños aprender mientras juegan.
 - 17 Experimentos
 - +8 años
-- Descubre cómo crear una divertida masa viscosa y cómo puedes hacer fantásticos monstruos viscosos. Crea medusas invisibles y haz gusanos superviscosos y coloridos con la ayuda del libro educativo incluido.
-- Incluye libro educativo de 36 páginas y más de 100€ en Entradas para Museos de Ciencia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00HW793NY/?tag=tolees-21)
