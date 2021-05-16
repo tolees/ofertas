@@ -28,11 +28,11 @@ Ahora mismo tienes [BRA Efficient Orange - Set de 3 sartenes  aluminio fundido c
 
 🔎:
 
-- Fondo difusor con por impacto con sistema de ahorro energético
-- Aluminio fundido resistente a la deformación con fondo de acero full induction uniforme
-- Incluye: 3 sartenes de 6 mm de espesor (18-22-26 cm) con mango ergonómico Efficient Orange
-- Antiadherente sin PFOA de calidad
-- Descubre cómo cuidar tu menaje antiadherente en el apartado “Guia de usuario” de esta ficha
 - Apto para todo tipo de cocinas incluido inducción y vitrocerámica
+- Fondo difusor con por impacto con sistema de ahorro energético
+- Antiadherente sin PFOA de calidad
+- Incluye: 3 sartenes de 6 mm de espesor (18-22-26 cm) con mango ergonómico Efficient Orange
+- Descubre cómo cuidar tu menaje antiadherente en el apartado “Guia de usuario” de esta ficha
+- Aluminio fundido resistente a la deformación con fondo de acero full induction uniforme
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M27LTK2/?tag=tolees-21)

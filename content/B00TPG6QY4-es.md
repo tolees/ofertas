@@ -29,9 +29,9 @@ Tienes [PNY FD32GATT4-EF - Memoria USB 2.0 de 32 GB  25 MBs   color negro](https
 🔎:
 
 - Funciona con windows 7, windows 8, windows vista, windows xp, windows 2000, mac os 10.3 y posterior, linux kernel 2.4+
-- Capacidad: 32 gb
-- Unidad flash usb 2.0
-- Diseño sin capuchón
 - Velocidades de escritura de hasta 8 mb/s / velocidades de lectura de hasta 25 mb/s
+- Unidad flash usb 2.0
+- Capacidad: 32 gb
+- Diseño sin capuchón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00TPG6QY4/?tag=tolees-21)

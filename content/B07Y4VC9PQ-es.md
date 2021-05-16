@@ -29,8 +29,8 @@ Tienes [D-Link COVR-1102 Kit WiFi Mesh AC1200  Dual-Band  Dos Nodos Extensores I
 🔎:
 
 - Conecta tus dispositivos por wifi con la máxima seguridad gracias a WPA3 o, si quieres, puedes conectar la consola o Smart TV por cable de red, gracias a sus puertos gigabit
-- La tecnología wifi mesh crea un área wifi continua con itinerancia automática, que te conecta siempre al punto de acceso más cercano, incluso mientras te mueves, para un máximo rendimiento y cobertura
 - Incluye 2 nodos WiFi Mesh con WiFi AC 1200mbps, Wave 2 MU-MIMO, doble banda a 2.4/5GHz, 2 puertos de red lan gigabit cada uno, controlables por comandos de voz por medio de Alexa Echo o Google Home
+- La tecnología wifi mesh crea un área wifi continua con itinerancia automática, que te conecta siempre al punto de acceso más cercano, incluso mientras te mueves, para un máximo rendimiento y cobertura
 - Incluye un avanzado sistema de control parental para el bloqueo de acceso de menores, control de sitios web y horarios de activación del WiFi
 - Permite un uso intensivo de internet, con streaming 4k en múltiples dispositivos y es compatible con cualquier operadora y router, no necesitas cambiar nada
 

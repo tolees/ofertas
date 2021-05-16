@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desconocido - Mi True Wireless Earbuds B al 42.14 % de rebaja'
-date: 2021-05-15 11:08:16
+date: 2021-05-16 16:48:13
 image: 'https://m.media-amazon.com/images/I/31FvCF6f14L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Desconocido'
 buyurl: 'https://www.amazon.es/dp/B08GSQ7B9Z/?tag=tolees-21'
 descuento: '42.14'
-average: '16.8289743589744'
+average: '16.755'
 ---
 
 Tienes [Desconocido - Mi True Wireless Earbuds Basic 2](https://www.amazon.es/dp/B08GSQ7B9Z/?tag=tolees-21) con precio final de  13.87 EUR (original: 23.97 EUR) (42.14 %  de rebaja) aqui!

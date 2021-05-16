@@ -28,11 +28,11 @@ Tienes [Sony WHH900N - Auriculares de diadema inalámbricos  H.ear  Hi-Res Audio
 
 🔎:
 
-- 28 horas de autonomía de batería
 - Los dispositivos con Alexa integrada te permiten conectarte a Alexa para escuchar música, manejar tu hogar digital, obtener información, noticias, el tiempo y más, solo con tu voz.
+- Estilo confortable sobre el oído
+- 28 horas de autonomía de batería
 - Longitud del cable: 1.2
 - Compatible con Hi-Res Audio
-- Estilo confortable sobre el oído
 - Llamadas con manos libres
 - Colores únicos que se unen a tu estilo
 
