@@ -29,9 +29,9 @@ Ahora mismo tienes [Medisana BS 450 connect báscula analítica digital de 180 k
 🔎:
 
 - Aplicación VitaDock+: Para el control a largo plazo, los valores corporales medidos se pueden transferir por Bluetooth a la app VitaDock+ donde se guardan y analizan
+- Nota: Solo usar descalzo y pisando los 4 electrodos. Solo usar sobre suelo plano y duro. Los primeros resultados pueden variar, ya que la báscula necesita calibrarse.
+- Con muchas funciones: Puede elegir entre las unidades kg, lb o st. La báscula reconoce automáticamente hasta 8 usuarios en cuanto se suben a la báscula descalzos
 - Análisis corporal: La báscula mide el peso, la grasa corporal, el agua corporal, la masa muscular y el peso óseo, además calcula el IMC y analiza las necesidades calóricas
 - Pantalla invisible: La BS 450 Connect está equipada con una pantalla LED invisible, que solo se ve al subirse a la báscula
-- Con muchas funciones: Puede elegir entre las unidades kg, lb o st. La báscula reconoce automáticamente hasta 8 usuarios en cuanto se suben a la báscula descalzos
-- Nota: Solo usar descalzo y pisando los 4 electrodos. Solo usar sobre suelo plano y duro. Los primeros resultados pueden variar, ya que la báscula necesita calibrarse.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NQ2FNHQ/?tag=tolees-21)

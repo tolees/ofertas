@@ -28,9 +28,9 @@ Está [ootb Portafotos illuminado  Glimmer  con Color cambiante LED  Blanco  Apr
 
 ℹ️:
 
+- Funcionamiento con batería sin cable de alimentación
+- Iluminación led con cambio de color
 - Aproximativo 10 x 15 cm
 - Marco de fotos brillante
-- Iluminación led con cambio de color
-- Funcionamiento con batería sin cable de alimentación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YGFNR1K/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Navy Blazer Detail:
 
 ℹ️:
 
-- Parte de punto de ajuste regular para hombre
-- - Danza clásica – y adecuada para cada día
 - Composición: 100% algodón
 - De algodón cómodo
+- - Danza clásica – y adecuada para cada día
+- Parte de punto de ajuste regular para hombre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07C2B36XC/?tag=tolees-21)
