@@ -28,9 +28,9 @@ En este momento está [Speedo Essential Endurance Bañador Niña para Natación 
 
 🔎:
 
+- Endurance + Tela
 - Diseño Medalist: fácil ita el movimiento y la flexibilidad del hombro; por lo que es un bañador ideal para entrenar
 - 100 % de resistencia al cloro: para un rendimiento de larga duración
 - Secado rápido: se seca rápidamente después de tu entrenamiento de natación
-- Endurance + Tela
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08148XNHW/?tag=tolees-21)

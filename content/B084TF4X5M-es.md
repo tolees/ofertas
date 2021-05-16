@@ -30,7 +30,7 @@ Tienes [Meridiem Games - 1971 Project Helios - Collector Edition](https://www.am
 
 - Pegatina Fulgor
 - 4 postales de personaje
-- Caja de Cartón Premium
 - Banda sonora digital
+- Caja de Cartón Premium
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084TF4X5M/?tag=tolees-21)
