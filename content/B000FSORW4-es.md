@@ -28,8 +28,8 @@ Tienes [Command 3M 17001-VP-6PK - Ganchos autoadhesivo universal  tamaño medio 
 
 🔎:
 
-- White
 - 6 Hooks
+- White
 - Command Medium Hooks, White, 6-Hook
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000FSORW4/?tag=tolees-21)

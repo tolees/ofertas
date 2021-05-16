@@ -28,10 +28,10 @@ Tienes [Flower 10529 10529-Abono polivalente 2 5 kg  Color Azul  No Aplica  21x8
 
 🔎:
 
-- Granulado complejo
-- Abono universal azul
-- 2,5 kg
 - Fuente de alimentación: con Alimentación de Batería
+- Abono universal azul
+- Granulado complejo
 - Equilibrado npk
+- 2,5 kg
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00GXKK4MA/?tag=tolees-21)

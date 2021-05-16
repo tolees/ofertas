@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.80 % en INTERBABY - Barrera De Cama Abatible 90 '
-date: 2021-05-11 08:43:39
+date: 2021-05-16 14:03:45
 image: 'https://m.media-amazon.com/images/I/418xaD6QjfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [INTERBABY - Barrera De Cama Abatible 90 Cm Gris](https://www.amazon.es/d
 
 ℹ️:
 
-- Cumple con la normativa CE BS 7972:2001+A1:2009
-- Sólo use colchones con un tamaño mínimo de 90 cm x 190 cm y un máximo de 180 cm x 200 cm
-- Diseñada para uso de niños entre 18 meses y 5 años de edad
 - Barrera Abatilble Modelo Estrella, tamaño: 90 cm. Compatible con cama nido
-- Barrera abatible de fácil instalación debajo del colchón. Se desenfunda para poder lavarla
+- Sólo use colchones con un tamaño mínimo de 90 cm x 190 cm y un máximo de 180 cm x 200 cm
+- Cumple con la normativa CE BS 7972:2001+A1:2009
 - Grosor adecuado del colchón son 5 cm como mínimo y 30 cm como máximo
+- Diseñada para uso de niños entre 18 meses y 5 años de edad
+- Barrera abatible de fácil instalación debajo del colchón. Se desenfunda para poder lavarla
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FQJFK45/?tag=tolees-21)

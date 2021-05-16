@@ -30,8 +30,8 @@ Está [Ana María Lajusticia - Ana Maria Lajusticia - Levadura de cerveza – 28
 
 - Complemento para dietas vegetarianas y las carentes en vitamina B y E.
 - Fortalece el crecimiento de uñas y cabello
-- Indicado durante el crecimiento, en la tercera edad y en estados de agotamiento físico
 - Ayuda a prevenir el estreñimiento y la digestión y participa en la reconstrucción de la flora intestinal
 - Contiene sulfitos, cebada y trigo
+- Indicado durante el crecimiento, en la tercera edad y en estados de agotamiento físico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XO26KTQ/?tag=tolees-21)

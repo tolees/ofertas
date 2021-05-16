@@ -28,11 +28,11 @@ Está [Electronic Arts - Los Sims 4: Urbanitas  PC ](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Elige el piso adecuado según las características de tus personajes. Enfréntate a inconvenientes como fugas, problemas eléctricos o plagas
-- Lleva a tus Sims al Mercado de las Especias, donde pueden participar en el reto del curry y convertirse en estrellas de las especias
-- Ayuda a tus Sims a prosperar hasta conseguir su propio ático en un rascacielos
-- Busca nuevos pisos e instala a tus Sims: encuentra nuevos amigos y celebra fiestas en casa
-- Descubre las profesiones emocionantes que ofrece una gran ciudad
 - Se necesita Los Sims 4 (se vende por separado) con todas sus actualizaciones para jugar
+- Busca nuevos pisos e instala a tus Sims: encuentra nuevos amigos y celebra fiestas en casa
+- Elige el piso adecuado según las características de tus personajes. Enfréntate a inconvenientes como fugas, problemas eléctricos o plagas
+- Ayuda a tus Sims a prosperar hasta conseguir su propio ático en un rascacielos
+- Descubre las profesiones emocionantes que ofrece una gran ciudad
+- Lleva a tus Sims al Mercado de las Especias, donde pueden participar en el reto del curry y convertirse en estrellas de las especias
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M66JNQJ/?tag=tolees-21)

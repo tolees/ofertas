@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Devir-Una Columna de Fuego  Juego de Mes al 44.84 % de descuento'
-date: 2021-05-01 10:36:11
+title: 'Devir-Una Columna de Fuego  Juego de Mes al 46.71 % de descuento'
+date: 2021-05-16 14:32:51
 image: 'https://m.media-amazon.com/images/I/519+4iba7FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: 'tole.es'
 slug: 'B077B8SWD2-es Devir-Una Columna de Fuego Juego de Mesa BGCOLUMNA'
 sku: 'B077B8SWD2-es'
 tags: [ 'Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','devir', ]
-actualPrice: 24.82 EUR
+actualPrice: 23.98 EUR
 currency: EUR
-price: 24.82
+price: 23.98
 comparePrice: 45.0 EUR
 prodname: 'Devir-Una Columna de Fuego  Juego de Mesa  BGCOLUMNA '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B077B8SWD2/?tag=tolees-21'
-descuento: '44.84'
-average: '22.4262500000001'
+descuento: '46.71'
+average: '22.4733333333334'
 ---
 
-Ahora mismo tienes [Devir-Una Columna de Fuego  Juego de Mesa  BGCOLUMNA ](https://www.amazon.es/dp/B077B8SWD2/?tag=tolees-21) a 24.82 EUR (original: 45.0 EUR) (44.84 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Devir-Una Columna de Fuego  Juego de Mesa  BGCOLUMNA ](https://www.amazon.es/dp/B077B8SWD2/?tag=tolees-21) a 23.98 EUR (original: 45.0 EUR) (46.71 %  de descuento) en el siguiente enlace!
 
 [![Devir-Una Columna de Fuego  Juego de Mes](https://m.media-amazon.com/images/I/519+4iba7FL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B077B8SWD2/?tag=tolees-21)
 
 🔎:
 
-- Duración: 90 minutos
-- Edición en español
-- De 2 a 4 jugadores
 - A partir de 12 años
+- Edición en español
+- Duración: 90 minutos
+- De 2 a 4 jugadores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077B8SWD2/?tag=tolees-21)

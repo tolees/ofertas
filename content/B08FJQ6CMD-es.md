@@ -28,7 +28,7 @@ Está [Meridiem Games - Ancestors Legacy - Day One Edition](https://www.amazon.e
 
 ℹ️:
 
-- Libro de arte
 - Banda Sonora Digital
+- Libro de arte
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FJQ6CMD/?tag=tolees-21)

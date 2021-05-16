@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GQUEEN Gafas Vintage Clout Lentes de sol con un 40.03 % de descuento'
-date: 2021-04-27 20:55:30
+date: 2021-05-16 14:10:44
 image: 'https://m.media-amazon.com/images/I/418YWWPqTFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
