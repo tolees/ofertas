@@ -28,9 +28,9 @@ Está [Columbia Silver Ridge II  Pantalones Capri  Hombre  Beige  Tusk   Talla: 
 
 ℹ️:
 
+- Pantalones transpirables Capri con un diseño inspirado en la aventura y un duradero material de nylon Ripstop
 - Bolsillos cargo, Bolsillo de seguridad con cierre de cremallera y con bolsillos detrás, Prácticos también por sus cierres de velcro y los bolsillos con malla.
 - Ajuste óptimo gracias al elástico en la cintura, al cinturón extraíble integrado y a la construcción de corte recto
-- Pantalones transpirables Capri con un diseño inspirado en la aventura y un duradero material de nylon Ripstop
 - Buena circulación de aire gracias a la construcción ventilada con control de humedad Omni-Wick
 - Contenido: 1x Columbia Silver Ridge II, Pantalones Capri para hombre, Fibra sintética, Beige (Tusk), W30/L19, Art. 1794911
 

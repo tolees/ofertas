@@ -28,11 +28,11 @@ En este momento está [Lucky Duck Games LKY035 Crónicas del Crimen  Versión in
 
 🔎:
 
-- Tiempo de juego: 60-90 minutos
-- A partir de 14 años
 - Jugadores: 1-4
+- A partir de 14 años
+- Modelo surtido
 - Crónicas del Crimen (versión inglesa)
 - Lucky Duck Games LKY035
-- Modelo surtido
+- Tiempo de juego: 60-90 minutos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CN8TJDQ/?tag=tolees-21)

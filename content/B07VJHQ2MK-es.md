@@ -28,8 +28,8 @@ Ahora mismo tienes [Nike Court Borough Low 2  Zapatillas de Correr  Blanco  38.5
 
 🔎:
 
+- Suave de Llevar
 - Importado
 - Cordones de Zapatos
-- Suave de Llevar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VJHQ2MK/?tag=tolees-21)
