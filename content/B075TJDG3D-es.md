@@ -28,9 +28,9 @@ En este momento está [CYP BRANDS - Gorjuss M-04-G Muñeca de Trapo en Display -
 
 🔎:
 
+- Lavable
 - Personaje new heights
 - Muñeca de trapo
 - Producto oficial gorjuss
-- Lavable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075TJDG3D/?tag=tolees-21)
