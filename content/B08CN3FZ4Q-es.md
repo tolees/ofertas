@@ -29,9 +29,9 @@ Tienes [G-STAR RAW Dunda Slim Polo  Lox 5864-5236  M para Hombre](https://www.am
 🔎:
 
 - Cuello de polo y puños acanalados
-- Bajo recto con aberturas laterales
-- Manga corta recta insertada
-- Tapeta de dos botones
 - logotipo de G-Star RAW bordado en el pecho
+- Manga corta recta insertada
+- Bajo recto con aberturas laterales
+- Tapeta de dos botones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CN3FZ4Q/?tag=tolees-21)
