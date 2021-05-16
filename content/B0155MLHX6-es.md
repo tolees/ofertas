@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir-48030 Dog Fight  Juego de Mesa en  al 44.94 % de descuento'
-date: 2021-04-27 20:57:08
+date: 2021-05-16 07:43:19
 image: 'https://m.media-amazon.com/images/I/51o-r0GGDxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B0155MLHX6/?tag=tolees-21'
 descuento: '44.94'
-average: '5.2875'
+average: '5.33'
 ---
 
 Está [Devir-48030 Dog Fight  Juego de Mesa en Castellano.  221831 ](https://www.amazon.es/dp/B0155MLHX6/?tag=tolees-21) con 44.94 de descuento por 5.5 EUR (original: 9.99 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Devir-48030 Dog Fight  Juego de Mesa en Castellano.  221831 ](https://www
 
 ℹ️:
 
+- Adecuado para gente competitiva y crítica, así como para los más sueltos
 - Duración: 15 minutos
 - En este juego de cartas, trepidante y sencillo, los jugadores se enfrentan en los cielos de Europa durante la primera guerra mundial
-- Adecuado para gente competitiva y crítica, así como para los más sueltos
 - De 2 jugadores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0155MLHX6/?tag=tolees-21)
