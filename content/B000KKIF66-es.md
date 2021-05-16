@@ -28,8 +28,8 @@ Está [Fellowes ImageLast - Pack de 25 fundas de plastificar  formato A3  80 mic
 
 ℹ️:
 
+- Compatible con cualquier marca de plastificadoras
 - Adecuadas para plastificar documentos A3, notas informativas, listados y horarios
 - Acabado brillo, mejoran la apariencia del documento y realizan el contraste
-- Compatible con cualquier marca de plastificadoras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000KKIF66/?tag=tolees-21)

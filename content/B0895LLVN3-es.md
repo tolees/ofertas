@@ -28,10 +28,10 @@ En este momento está [DC Shoes Star Pilot-Camiseta para Niños 8-16  Heather Gr
 
 🔎:
 
-- Etiqueta con serigrafía en la parte trasera del cuello
-- Cuello: Cuello redondo
-- Tejido: tejido fino de jersey
 - Estampado gráfico de plastisol en el pecho
+- Tejido: tejido fino de jersey
+- Cuello: Cuello redondo
 - Corte: Corte normal, cómodo
+- Etiqueta con serigrafía en la parte trasera del cuello
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0895LLVN3/?tag=tolees-21)
