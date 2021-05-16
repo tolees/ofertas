@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Morro Bay 2.0 men Sandalia Hombre   al 50.20 % de rebaja'
-date: 2021-05-15 07:27:12
+date: 2021-05-16 19:41:37
 image: 'https://m.media-amazon.com/images/I/41spH2LnrWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [FILA Morro Bay 2.0 men Sandalia Hombre  azul  Olympian Blue   42 EU](htt
 
 🔎:
 
-- Suela EVA moldeada.
 - Correa.
+- Suela EVA moldeada.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V2B4RP4/?tag=tolees-21)

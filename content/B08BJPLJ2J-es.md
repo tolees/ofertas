@@ -28,10 +28,10 @@ Ahora mismo tienes [Durex Preservativos Perfect Connection - Extra Lubricación 
 
 🔎:
 
-- Más gruesos para aquellos que buscan mayor seguridad
-- Con forma recta, suave y lisa
 - Adecuado para el sexo anal, oral y vaginal
-- Diseñados para adaptarse a ti, para una experiencia más cómoda y placentera
+- Más gruesos para aquellos que buscan mayor seguridad
 - Los preservativos Perfect Connection son los más lubricados de la gama Durex a base de silicona
+- Diseñados para adaptarse a ti, para una experiencia más cómoda y placentera
+- Con forma recta, suave y lisa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BJPLJ2J/?tag=tolees-21)

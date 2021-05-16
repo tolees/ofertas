@@ -28,10 +28,10 @@ En este momento está [Prevex Esparadrapo de Tela Resistente  5 Metros X 2 5 Cm 
 
 🔎:
 
-- Hecho de tela de algodón transpirable que puedes usar en la ducha sin quitar
-- Deja un mínimo de residuos pegajosos en la piel cuando se quita
 - Cinta adhesiva de tela resistente fácil de cortar con las manos
-- Ligero, sin látex, extremadamente cómodo
+- Deja un mínimo de residuos pegajosos en la piel cuando se quita
 - Permite la movilidad completa de los músculos y las articulaciones sin dejar de proporcionar apoyo
+- Ligero, sin látex, extremadamente cómodo
+- Hecho de tela de algodón transpirable que puedes usar en la ducha sin quitar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XNRYBTN/?tag=tolees-21)

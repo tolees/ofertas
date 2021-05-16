@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CYP BRANDS - Gorjuss M-04-G Muñeca de Tr con un 62.56 % de descuento'
-date: 2021-05-08 12:47:01
+date: 2021-05-16 19:06:08
 image: 'https://m.media-amazon.com/images/I/31u1vgNVJtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ En este momento está [CYP BRANDS - Gorjuss M-04-G Muñeca de Trapo en Display -
 
 - Personaje new heights
 - Muñeca de trapo
-- Lavable
 - Producto oficial gorjuss
+- Lavable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075TJDG3D/?tag=tolees-21)

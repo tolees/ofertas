@@ -30,7 +30,7 @@ Tienes [Nintendo - Figura Amiibo Yoshi Lana  Color Rosa](https://www.amazon.es/d
 
 - All Power Up stats are saved on the figure, so you can take the Amiibo to your friends house
 - Compatible with popular games such as Super Smash Bros and Mario Kart 8
-- Comes packaged in the official Nintendo Amiibo box
 - With over 80 Amiibos available, Collect them all!
+- Comes packaged in the official Nintendo Amiibo box
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VK5OXLG/?tag=tolees-21)

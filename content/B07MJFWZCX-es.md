@@ -28,10 +28,10 @@ Ahora mismo tienes [VGBEY Base de Tenis  Tennis Back Base Training Ball  Tennis 
 
 🔎:
 
-- 3. USO: entrenador tenis el anillo pequeño en el costado es para colgar la banda y la parte cóncava para colocar la pelota de tenis.
-- 2. MATERIAL DURADERO: Base de tenis hecho de plástico de calidad, resistente y duradero, la cuerda de goma adicional es altamente elástica y portátil.
-- 1. SOPORTE ESTABLE: La base tiene una válvula para colocar arena o agua en ella para aumentar el peso y proporcionar un soporte estable para el entrenamiento,ayuda a perfeccionar las habilidades del tenis.
 - - GARANTÍA: Si no está satisfecho con nuestro producto recibido, puede solicitar la devolución incondicional y el reembolso dentro de los 180 días.En cuanto a cualquier problema de este producto, puede enviarnos correos electrónicos en cualquier momento.Le responderemos lo antes posible.
+- 2. MATERIAL DURADERO: Base de tenis hecho de plástico de calidad, resistente y duradero, la cuerda de goma adicional es altamente elástica y portátil.
 - 4. PORTÁTIL: fácil de usar y conveniente para entrenar sin recoger la pelota, liviano y portátil, adecuado para muchos lugares como jardín, parque, etc.
+- 3. USO: entrenador tenis el anillo pequeño en el costado es para colgar la banda y la parte cóncava para colocar la pelota de tenis.
+- 1. SOPORTE ESTABLE: La base tiene una válvula para colocar arena o agua en ella para aumentar el peso y proporcionar un soporte estable para el entrenamiento,ayuda a perfeccionar las habilidades del tenis.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MJFWZCX/?tag=tolees-21)
