@@ -29,10 +29,10 @@ Tienes [New Balance 997H Core  Zapatillas Hombre  Azul  Pigment   37.5 EU](https
 ℹ️:
 
 - Revestimiento: Tela
+- Material exterior: Cuero
 - Tipo de tacón: Plano
+- Composición: Empeine de malla/ante
 - Material de la suela: Sintético
 - Cierre: Cordones
-- Composición: Empeine de malla/ante
-- Material exterior: Cuero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DJ5ZLDL/?tag=tolees-21)

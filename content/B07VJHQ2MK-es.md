@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Court Borough Low 2  Zapatillas de  al 47.80 % de descuento'
-date: 2021-05-15 07:03:37
+date: 2021-05-16 15:22:56
 image: 'https://m.media-amazon.com/images/I/31sMqK983dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07VJHQ2MK/?tag=tolees-21'
 descuento: '47.80'
-average: '25.1566666666667'
+average: '24.74'
 ---
 
 Ahora mismo tienes [Nike Court Borough Low 2  Zapatillas de Correr  Blanco  38.5 EU](https://www.amazon.es/dp/B07VJHQ2MK/?tag=tolees-21) a 23.49 EUR (original: 45.0 EUR) (47.80 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Nike Court Borough Low 2  Zapatillas de Correr  Blanco  38.5
 
 🔎:
 
+- Cordones de Zapatos
 - Importado
 - Suave de Llevar
-- Cordones de Zapatos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VJHQ2MK/?tag=tolees-21)

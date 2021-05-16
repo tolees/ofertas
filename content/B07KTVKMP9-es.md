@@ -29,7 +29,7 @@ Tienes [adidas TIRO19 tee T-Shirt  Hombre  Black/White  M](https://www.amazon.es
 🔎:
 
 - Regular fit
-- Climalite anti-humidity fabric
 - Adidas logo on the front
+- Climalite anti-humidity fabric
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KTVKMP9/?tag=tolees-21)

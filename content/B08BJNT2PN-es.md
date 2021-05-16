@@ -28,10 +28,10 @@ Ahora mismo tienes [Durex Lubricante Perfect Connection de Base Silicona - Adecu
 
 🔎:
 
-- BASE SILICONA: El lubricante Perfect Connection es de base siliconada proporcionando una lubricaicón más duradera que los lubricantes de base acuosa
 - LUBRICACIÓN DURADERA: Este gel proporciona una lubricaicón duradera y que no se seca fácilmente, importante para el sexo anal y para la incomodidad asociada a la sequedad vaginal
 - COMPATIBLE CON PRESERVATIVOS Durex, sin alcohol y libre de fragancias y glicerina
-- ADECUADO PARA SEXO ANAL, ORAL Y VAGINAL
+- BASE SILICONA: El lubricante Perfect Connection es de base siliconada proporcionando una lubricaicón más duradera que los lubricantes de base acuosa
 - Suave como la seda y es caliente al tacto
+- ADECUADO PARA SEXO ANAL, ORAL Y VAGINAL
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BJNT2PN/?tag=tolees-21)
