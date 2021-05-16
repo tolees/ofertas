@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas Condivo18 SHO Pantalones Cortos de Deporte  Hombre  C
 
 🔎:
 
-- Tiene cintura elástica con cordón
 - Diseño de corte clásico que se adapta al cuerpo cómodamente
 - Pantalón corto deportivo para hombre
+- Tiene cintura elástica con cordón
 - Confeccionado en un tejido transpirable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K69N2ML/?tag=tolees-21)

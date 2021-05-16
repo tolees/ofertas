@@ -28,10 +28,10 @@ Ahora mismo tienes [Idena 20066 - Compás en estuche  11 piezas  con escuadra  r
 
 🔎:
 
-- Ideal para la escuela, el estudio, el trabajo y el ocio.
-- Compás en estuche, ideal para viajes.
-- Con escuadra, regla, minas de repuesto para compás, portaminas y minas de repuesto, horario, goma de borrar y sacapuntas.
-- Descubre nuestra amplia gama de productos en la tienda de Idena Marks. Haga clic en el nombre de la marca Idena debajo del título del producto.
 - Juego de 11 piezas.
+- Con escuadra, regla, minas de repuesto para compás, portaminas y minas de repuesto, horario, goma de borrar y sacapuntas.
+- Compás en estuche, ideal para viajes.
+- Ideal para la escuela, el estudio, el trabajo y el ocio.
+- Descubre nuestra amplia gama de productos en la tienda de Idena Marks. Haga clic en el nombre de la marca Idena debajo del título del producto.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CV7B27X/?tag=tolees-21)

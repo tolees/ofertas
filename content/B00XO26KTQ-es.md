@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ana María Lajusticia - Ana Maria Lajusti al 41.39 % de descuento'
-date: 2021-05-14 15:48:41
+date: 2021-05-16 13:38:52
 image: 'https://m.media-amazon.com/images/I/41Lw+4h7uqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Está [Ana María Lajusticia - Ana Maria Lajusticia - Levadura de cerveza – 28
 
 - Complemento para dietas vegetarianas y las carentes en vitamina B y E.
 - Fortalece el crecimiento de uñas y cabello
-- Contiene sulfitos, cebada y trigo
 - Indicado durante el crecimiento, en la tercera edad y en estados de agotamiento físico
 - Ayuda a prevenir el estreñimiento y la digestión y participa en la reconstrucción de la flora intestinal
+- Contiene sulfitos, cebada y trigo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XO26KTQ/?tag=tolees-21)

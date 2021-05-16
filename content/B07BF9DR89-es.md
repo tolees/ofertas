@@ -28,10 +28,10 @@ Tienes [Garnier Delial Sensitive Advanced - Protector Solar Facial UV Gel Hidrat
 
 🔎:
 
+- Indicado para rostro y escote, tiene una textura ligera y no pegajosa; es suave y sin perfume, adecuada para todo tipo de pieles, incluso las más sensibles
 - Contiene ácido hialurónico y Vitamina E que ayuda a reducir las arrugas para una piel saludable y de aspecto más joven
 - Protege contra las quemaduras y las manchas solares; previene arrugas y suaviza los signos de expresión
 - La fórmula de la Delial Sensitive Advanced Facial es adecuada para todo tipo de pieles, incluso las más sensibles
 - Crema solar con protección muy alta que previene arrugas y manchas y protege contra los efectos dañinos de los rayos UVA, UVB y UVA largos
-- Indicado para rostro y escote, tiene una textura ligera y no pegajosa; es suave y sin perfume, adecuada para todo tipo de pieles, incluso las más sensibles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BF9DR89/?tag=tolees-21)

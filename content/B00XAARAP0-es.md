@@ -28,9 +28,9 @@ Tienes [Alcohol montplet quemar 1l](https://www.amazon.es/dp/B00XAARAP0/?tag=tol
 
 ℹ️:
 
-- Limpia superficies duras como metales o vidrio
-- Aditivo anticongelante para limpiaparabrisas
-- Cantidad del producto de 1 l
 - Olor agradable, sin metanol añadido
+- Limpia superficies duras como metales o vidrio
+- Cantidad del producto de 1 l
+- Aditivo anticongelante para limpiaparabrisas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAARAP0/?tag=tolees-21)

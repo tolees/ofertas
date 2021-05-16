@@ -28,10 +28,10 @@ Ahora mismo tienes [Arcos Serie Brooklyn  Cuchillo Mondador  Hoja de Acero Inoxi
 
 🔎:
 
-- Tamaño Hoja: 100 mm
 - Remaches: Dispone de remaches machihembrados de acero inoxidable que hace que la corrosión no sea un problema para tus cuchillos
-- Mango: Su principal característica es su media virola, lo que facilita el corte y el afilado. Fabricado en Micarta, tela prensada con resina. Material duro y resistente a temperaturas elevadas y humedad ambiental. Destacado por su mango con trama en tonos azulados
 - Hoja: Destaca por su filo especial seda, en el que se aúnan los conocimientos de nuestros maestros con las nuevas tecnologías, para conseguir un corte que no deja indiferente Esta nueva serie se beneficia de un recazo o lomo de la hoja, con un pulido redondeado, que lo distingue por la suavidad de agarre del cuchillo
+- Mango: Su principal característica es su media virola, lo que facilita el corte y el afilado. Fabricado en Micarta, tela prensada con resina. Material duro y resistente a temperaturas elevadas y humedad ambiental. Destacado por su mango con trama en tonos azulados
+- Tamaño Hoja: 100 mm
 - Cachas: Sus cachas de Micarta, tienen una alta resistencia a las temperaturas extremas y la humedad ambiental
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07N8VRS7L/?tag=tolees-21)

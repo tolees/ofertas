@@ -29,7 +29,7 @@ Tienes [Reality Lighting R50491001 Jerry - Lámpara de mesa  bombilla excl. 1x E
 🔎:
 
 - La lámpara tiene un diámetro de 13 cm en una altura total de 28 cm
-- Lámpara exclusivos bombilla recomendado bombilla 1X E14, Máx. 40 W
 - Lámpara de mesa Jerry en cromo con una pantalla de tela en color blanco
+- Lámpara exclusivos bombilla recomendado bombilla 1X E14, Máx. 40 W
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CR4S4ZT/?tag=tolees-21)
