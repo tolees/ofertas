@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Revend Skinny Vaqueros  Medium Indigo Aged  32W / 30L para Ho
 
 ℹ️:
 
-- Cierre: Boton y cierre
-- Skinny
-- Usado
-- 91% Algodón, 7% Elastomultiéster, 2% Elastano
 - Lavar a máquina - agua fría (30 ° max)
+- Usado
+- Skinny
+- Cierre: Boton y cierre
+- 91% Algodón, 7% Elastomultiéster, 2% Elastano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MZJD5XQ/?tag=tolees-21)

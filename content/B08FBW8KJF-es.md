@@ -29,8 +29,8 @@ En este momento está [NIKE ATM M NK BRT Stad JSY SS Hm T-Shirt  Hombre  Sport R
 🔎:
 
 - Tiene los logotipos del Atlético de Madrid y Nike bordados en el pecho
-- Ajuste estándar para una sensación relajada y cómoda
 - La tecnología Nike Dri-FIT te ayuda a mantenerte seco, fresco y cómodo
 - Camiseta de fútbol
+- Ajuste estándar para una sensación relajada y cómoda
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FBW8KJF/?tag=tolees-21)
