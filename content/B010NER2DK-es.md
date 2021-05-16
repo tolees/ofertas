@@ -29,8 +29,8 @@ Ahora mismo tienes [Meliconi Ghost Design 3000 - Mueble de Pared con rotación p
 🔎:
 
 - Tecnología punta de líneas sencillas
-- Oculta todos los cables y enchufes
 - Integra soporte para televisor de doble brazo orientable o inclinable hasta 90º compatible con VESA 200 - 300 - 400 mm
 - Compatible con televisores de 32" a 63", hasta 30 kg
+- Oculta todos los cables y enchufes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B010NER2DK/?tag=tolees-21)

@@ -31,7 +31,7 @@ Ahora mismo tienes [Amazon Basics – Juego de 4 mesas supletorias para comer fr
 - Disfruta de cenar o de tomar unos aperitivos frente al televisor, utilízala como mesa de trabajo o juego, y más.
 - Todas las mesas supletorias se pliegan en posición horizontal en un soporte para almacenarlas de manera muy práctica y ocupando poco espacio.
 - Su aspecto clásico y elegante se adapta fácilmente a la mayoría de interiores.
-- Mesas de madera de gran resistencia con una amplia superficie.
 - Juego de cuatro mesas supletorias plegables con soporte de almacenamiento a juego.
+- Mesas de madera de gran resistencia con una amplia superficie.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MKQGJSW/?tag=tolees-21)
