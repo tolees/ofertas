@@ -28,9 +28,9 @@ Ahora mismo tienes [Prym 929401  Tela de parche CO  para planchar  30x10 cm  col
 
 🔎:
 
-- El paquete contiene 1 unidad
 - Material: 100% algodón
-- Para grietas y agujeros de sellado en sustancias de algodón y similares
 - Hoja de reparación de algodón para hierro
+- El paquete contiene 1 unidad
+- Para grietas y agujeros de sellado en sustancias de algodón y similares
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0052DHUNK/?tag=tolees-21)
