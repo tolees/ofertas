@@ -28,12 +28,12 @@ Tienes [Wattson Lámpara Mr. Watson Negra  G9-SWR-FB ](https://www.amazon.es/dp/
 
 🔎:
 
-- Potencia (W): 2.5 watts
 - Fuente de alimentación: Cable eléctrico
-- Tamaño: 15,5 x 27,6 cm, altura 18 - 40 cm
+- Potencia (W): 2.5 watts
 - Cable textil de 2,20 m con interruptor
-- Incluye bombilla de clase a
-- LED G9 de 2,5 W, 200 lm
 - Material: madera de fresno, aluminio, acero
+- Tamaño: 15,5 x 27,6 cm, altura 18 - 40 cm
+- LED G9 de 2,5 W, 200 lm
+- Incluye bombilla de clase a
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076ZKY3S9/?tag=tolees-21)

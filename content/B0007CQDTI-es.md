@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intex 68612 - Hinchador de mano doble ve al 60.30 % de descuento'
-date: 2021-05-15 19:22:00
+date: 2021-05-16 21:44:59
 image: 'https://m.media-amazon.com/images/I/414juMlP1aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Intex'
 buyurl: 'https://www.amazon.es/dp/B0007CQDTI/?tag=tolees-21'
 descuento: '60.30'
-average: '3.60755555555556'
+average: '3.615'
 ---
 
 Ahora mismo tienes [Intex 68612 - Hinchador de mano doble velocidad - 29 cm](https://www.amazon.es/dp/B0007CQDTI/?tag=tolees-21) a 3.95 EUR (original: 9.95 EUR) (60.30 %  de descuento) en el siguiente enlace!
