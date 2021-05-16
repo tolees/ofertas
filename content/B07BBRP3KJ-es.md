@@ -29,8 +29,8 @@ En este momento está [Parte Transparente para prefiltri Lombardini pequeño de 
 🔎:
 
 - Parte transparente para filtros premotor a ciclone de ama
+- H: 67 mm
 - Diámetro exterior: 120 mm
 - Diámetro interior: 60 mm
-- H: 67 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BBRP3KJ/?tag=tolees-21)
