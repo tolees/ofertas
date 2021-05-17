@@ -28,12 +28,12 @@ En este momento está [Bosch Home and Garden - Bosch Quigo 3 - Nivel láser en c
 
 🔎:
 
-- El nivel láser en cruz Quigo para una nivelación exacta en tus proyectos de casa
-- Proyecta simultaneamente 2 líneas laser, 1 horizontal y otra vertical, siempre 100% rectas
-- Nivelación exacta hasta 10 m con una precisión de +/- 0,8 mm/m
 - Posibilidad de líneas inclinadas, en las que la línea láser parpadea para informar de la falta de nivelación
+- Proyecta simultaneamente 2 líneas laser, 1 horizontal y otra vertical, siempre 100% rectas
 - Posicionamiento flexible gracias a la pinza universal MM2
+- El nivel láser en cruz Quigo para una nivelación exacta en tus proyectos de casa
 - Nivelación automática de irregularidades gracias a la función autonivelante
+- Nivelación exacta hasta 10 m con una precisión de +/- 0,8 mm/m
 - Incluye: nivel láser Quigo III, soporte articulado MM 2, adaptador de montaje rápido, 2 pilas de 1.5 V LR03 (AAA)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00DRDM1Q8/?tag=tolees-21)

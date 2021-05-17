@@ -28,10 +28,10 @@ En este momento está [Faber-Castell - Faber Castell 166004 - Estuche con 4 rotu
 
 🔎:
 
-- Zona de agarre ergonómica y clip de metal
 - Grosores de trazo: 0.1; 0.3; 0.5; 0.7
-- Para escribir, dibujar y abocetar
 - Aptos para normógrafos y reglas
+- Para escribir, dibujar y abocetar
+- Zona de agarre ergonómica y clip de metal
 - Tinta pigmentada resistente al agua y a la acción de la luz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003OEKLFS/?tag=tolees-21)

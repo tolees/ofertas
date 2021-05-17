@@ -28,9 +28,9 @@ Tienes [Kalypso - Tropico 6 Switch IT/ESP](https://www.amazon.es/dp/B08GTHN5XT/?
 
 ℹ️:
 
-- Levanta puentes, construye túneles y transporta a tus ciudadanos y turistas en taxis, autobuses y teleféricos
-- Por primera vez en esta saga, podrás jugar en enormes archipiélagos
 - Personaliza tu palacio y escoge entre todos los extras disponibles
 - Envía a tus agentes a tierras extranjeras para robar las maravillas del mundo y otros monumentos para tu colección
+- Levanta puentes, construye túneles y transporta a tus ciudadanos y turistas en taxis, autobuses y teleféricos
+- Por primera vez en esta saga, podrás jugar en enormes archipiélagos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08GTHN5XT/?tag=tolees-21)

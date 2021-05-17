@@ -28,8 +28,8 @@ Está [Braun BT3222 - Recortadora de Barba con Dial de Precisión y 1 Peine para
 
 ℹ️:
 
-- Crea líneas y contornos precisos en cuello y mejillas con el cabezal principal de la recortadora de barba
 - Dial de precisión con 20 ajustes de longitud en tramos de 0.5 mm para una experiencia de recorte sin esfuerzo
+- Crea líneas y contornos precisos en cuello y mejillas con el cabezal principal de la recortadora de barba
 - Más afilada, rápida y eficiente que todas las generaciones anteriores de corta barbas Braun para hombre; 85% menos de plástico respecto a embalaje anterior
 - Tecnología alemana; hasta 50 minutos de recorte inalámbrico; la batería dura un 25% más que el modelo anterior
 - Cuchillas afiladas de larga duración para el recorte uniforme de barba y pelo

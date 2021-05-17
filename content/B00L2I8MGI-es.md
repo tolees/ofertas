@@ -28,9 +28,9 @@ En este momento está [Xylazel M93822 - Aceite teca 750 ml teca](https://www.ama
 
 🔎:
 
-- Aplicar con pincel, brocha o paño
 - Para maderas interiores y exteriores, nutriendo y restituyendo sus aceites naturales
-- Repintado: 30 minutos
 - Secado de la superficie en condiciones normales: entre tres y cuatro horas
+- Repintado: 30 minutos
+- Aplicar con pincel, brocha o paño
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00L2I8MGI/?tag=tolees-21)

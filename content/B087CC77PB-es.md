@@ -28,9 +28,9 @@ Ahora mismo tienes [Koch Media - Dungeons 3 - Complete Collection](https://www.a
 
 🔎:
 
-- Contiene paquetes de expansión "Once Upon A Time", "Evil of the Caribbean", "Lord of the Kings", "Clash of Gods", "An Unexpected DLC", "Famous Last Words" y un nuevo paquete de mapas de escaramuza, así como varias actualizaciones de contenido gratuitas
 - Habla (no) mal: el narrador de Dungeons favorito de los fans ha vuelto con su inconfundible voz, continuando el legado de Dungeons de la mejor manera posible
 - Experimenta al aclamado director de mazmorra en todo su esplendor, incluyendo el simulador de mazmorra del inframundo y el juego de estrategia en tiempo real del inframundo
+- Contiene paquetes de expansión "Once Upon A Time", "Evil of the Caribbean", "Lord of the Kings", "Clash of Gods", "An Unexpected DLC", "Famous Last Words" y un nuevo paquete de mapas de escaramuza, así como varias actualizaciones de contenido gratuitas
 - El tamaño sí importa: un total de más de 50 misiones y más de 50 horas de juego, mapas generados al azar, un nuevo modo cooperativo para dos jugadores, un multijugador competitivo, más habitaciones y monstruos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087CC77PB/?tag=tolees-21)
