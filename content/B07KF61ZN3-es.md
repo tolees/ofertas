@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 High Rise Short Pantalones Co con un 70.91 % de descuento'
-date: 2021-04-28 11:13:39
+date: 2021-05-17 17:40:23
 image: 'https://m.media-amazon.com/images/I/31HgTEeuv0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [Levi s 501 High Rise Short Pantalones Cortos  In The Clou
 
 🔎:
 
-- Lavar del revés y secar con colores similares. Se recomienda usar detergente líquido.
 - Costura interior: 6,3 cm.
+- Lavar del revés y secar con colores similares. Se recomienda usar detergente líquido.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KF61ZN3/?tag=tolees-21)

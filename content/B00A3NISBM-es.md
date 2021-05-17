@@ -29,7 +29,7 @@ En este momento está [TomTom 9UCB.001.09  Soporte para GPS  Negro](https://www.
 🔎:
 
 - Montaje con ventosa
-- Adecuado para instalación: Coche
 - Pensado para: Receptor GPS
+- Adecuado para instalación: Coche
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00A3NISBM/?tag=tolees-21)
