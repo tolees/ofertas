@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Dungeons 3 - Complete Collection al 66.99 % de descuento'
-date: 2020-09-08 14:20:26
-image: 'https://m.media-amazon.com/images/I/513s5P0A1BL._SL400_.jpg'
+title: 'Koch Media - Dungeons 3 - Complete Colle al 62.62 % de descuento'
+date: 2021-05-17 08:49:34
+image: 'https://m.media-amazon.com/images/I/513s5P0A1BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B087CC77PB-es Dungeons 3 - Complete Collection'
+slug: 'B087CC77PB-es Koch Media - Dungeons 3 - Complete Collection'
 sku: 'B087CC77PB-es'
-tags: [  ]
-actualPrice: 13.2 EUR
+tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','koch media', ]
+actualPrice: 14.95 EUR
 currency: EUR
-price: 13.2
+price: 14.95
 comparePrice: 39.99 EUR
-prodname: 'Dungeons 3 - Complete Collection'
+prodname: 'Koch Media - Dungeons 3 - Complete Collection'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B087CC77PB/?tag=tolees-21'
-descuento: '66.99'
-average: '17.974'
+descuento: '62.62'
+average: '17.6990909090909'
 ---
 
-Ahora mismo tienes [Dungeons 3 - Complete Collection](https://www.amazon.es/dp/B087CC77PB/?tag=tolees-21) a 13.2 EUR (original: 39.99 EUR) (66.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Koch Media - Dungeons 3 - Complete Collection](https://www.amazon.es/dp/B087CC77PB/?tag=tolees-21) a 14.95 EUR (original: 39.99 EUR) (62.62 %  de descuento) en el siguiente enlace!
 
-[![Dungeons 3 - Complete Collection](https://m.media-amazon.com/images/I/513s5P0A1BL._SL400_.jpg)](https://www.amazon.es/dp/B087CC77PB/?tag=tolees-21)
+[![Koch Media - Dungeons 3 - Complete Colle](https://m.media-amazon.com/images/I/513s5P0A1BL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B087CC77PB/?tag=tolees-21)
 
 🔎:
 
+- Contiene paquetes de expansión "Once Upon A Time", "Evil of the Caribbean", "Lord of the Kings", "Clash of Gods", "An Unexpected DLC", "Famous Last Words" y un nuevo paquete de mapas de escaramuza, así como varias actualizaciones de contenido gratuitas
+- Habla (no) mal: el narrador de Dungeons favorito de los fans ha vuelto con su inconfundible voz, continuando el legado de Dungeons de la mejor manera posible
+- Experimenta al aclamado director de mazmorra en todo su esplendor, incluyendo el simulador de mazmorra del inframundo y el juego de estrategia en tiempo real del inframundo
+- El tamaño sí importa: un total de más de 50 misiones y más de 50 horas de juego, mapas generados al azar, un nuevo modo cooperativo para dos jugadores, un multijugador competitivo, más habitaciones y monstruos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087CC77PB/?tag=tolees-21)

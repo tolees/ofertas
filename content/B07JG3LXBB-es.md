@@ -28,9 +28,9 @@ En este momento está [Safety 1st Koala Gandulita reclinable para bebé con func
 
 🔎:
 
-- Hamaca para bebé dispone de una sistema de bloqueo con 3 posiciones de reclinado
 - Tiene función de hamaca mecedora y arco de juegos
 - Hamaca fácil de plegar y llevar
+- Hamaca para bebé dispone de una sistema de bloqueo con 3 posiciones de reclinado
 - Entretenido, función mecedora y arco de juegos
 - Mecedora confortable y segura con asiento envolvente y acolchado
 

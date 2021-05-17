@@ -28,11 +28,11 @@ Tienes [Bosch Home and Garden - Bosch PHO 2000 - Cuchilla cepilladora  caja de c
 
 ℹ️:
 
-- Manejo seguro y ajuste continuo gracias al botón de ajuste combinado
-- Posición de apoyo
-- Incluye: cepillo PHO 2000, cuchillas de cepillo reversibles de metal duro y llave de espiga hexagonal
 - Sistema de cuchillas patentado Woodrazor
 - Cambio fácil y rápido del cuchillo
 - Trabajo limpio gracias a la expulsión de virutas bilateral para conexión al colector de polvo o aspirador
+- Posición de apoyo
+- Incluye: cepillo PHO 2000, cuchillas de cepillo reversibles de metal duro y llave de espiga hexagonal
+- Manejo seguro y ajuste continuo gracias al botón de ajuste combinado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LSYEHFQ/?tag=tolees-21)
