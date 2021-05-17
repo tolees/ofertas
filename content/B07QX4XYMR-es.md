@@ -28,10 +28,10 @@ Tienes [Muslady Piano Eléctrico Enrollable Mano de 61 Teclas  Teclado de Piano 
 
 🔎:
 
-- El teclado de piano estándar con 61 teclas, además la tecla negra es más alta que la tecla blanca, te hace sentir como si tocaras un piano real.
 - Este piano tiene 128 tonos excelentes y está equipado con 128 ritmos, 15 demostraciones y 64 acordes, puede grabar y reproducir, tiene eco, trino y acorde de continuación, traje para aprendiz y amante.
+- Soporte de conexión a micrófono mediante función BT; Admite la función MIDI, puede conectarse a la computadora para editar música y tocar juegos de piano. (los detalles se refieren al manual del usuario)
+- El teclado de piano estándar con 61 teclas, además la tecla negra es más alta que la tecla blanca, te hace sentir como si tocaras un piano real.
 - La adopción de protección del medio ambiente de silicona, no tóxico e inofensivo, suave y resistente al agua; El diseño enrollable flexible y el tamaño portátil facilitan tocar el piano en cualquier momento y en cualquier lugar que desee.
 - Con doble altavoz estéreo mafnético, también puede conectarse externamente con sistema de audio, auriculares y cine en casa; con pantalla digital LED, puede indicar la capacidad de la batería, el volumen de sonido y la selección de funciones, fácil de operar; La batería de litio recargable incorporada con una capacidad de 1200 mAh puede usarse durante mucho tiempo después de estar completamente cargada.
-- Soporte de conexión a micrófono mediante función BT; Admite la función MIDI, puede conectarse a la computadora para editar música y tocar juegos de piano. (los detalles se refieren al manual del usuario)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QX4XYMR/?tag=tolees-21)

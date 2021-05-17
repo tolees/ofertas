@@ -28,10 +28,10 @@ Tienes [Piz Buin  Allergy Protector Solar Facial  SPF 50+ Protección Muy Alta p
 
 🔎:
 
-- PIZ BUIN ALLERGY ha sido especialmente desarrollado bajo el control de dermatólogos
-- Contiene Calmanelle, un complejo protector y anti-irritante que refuerza las defensas de la piel contra los rayos UV e incrementa la tolerancia al sol
 - La loción PIZ BUIN Allergy SPF 50+ se ha desarrollado especialmente para la piel sensible al sol, se absorbe rápidamente y proporciona horas de hidratación para calmar la piel
-- Contiene FEVERVEW PFE, un ingrediente calmante y antioxidante muy efectivo
+- Contiene Calmanelle, un complejo protector y anti-irritante que refuerza las defensas de la piel contra los rayos UV e incrementa la tolerancia al sol
 - Esta loción de protección alta ha sido desarrollada con un sistema de filtros solares UVA/UVB de Piz Buin
+- PIZ BUIN ALLERGY ha sido especialmente desarrollado bajo el control de dermatólogos
+- Contiene FEVERVEW PFE, un ingrediente calmante y antioxidante muy efectivo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00TTWZ4KQ/?tag=tolees-21)

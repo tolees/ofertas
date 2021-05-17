@@ -28,9 +28,9 @@ Está [Learning Resources- Hand Pointer  Multicolor  XLR-LER2655U ](https://www.
 
 ℹ️:
 
-- Para los niños entre 3 a 12 años
-- Conjunto de 40
 - Para pre K y por encima
 - Miden 38cm
+- Conjunto de 40
+- Para los niños entre 3 a 12 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0006PKZ1I/?tag=tolees-21)
