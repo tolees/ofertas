@@ -28,11 +28,11 @@ Está [Energizer - Pilas Recargables Accu Recharge Universal 500 mAh HR03 AAA  4
 
 ℹ️:
 
-- Aparatos de uso cotidiano, despertadores, mandos a distancia
-- Universal: 2 veces más de duración de la carga cuando la necesitas
-- Potencía de la carga: 500 mah
-- Contiene 4 pilas aaa precargadas
 - Uso intensivo hasta 1000 ciclos de recarga
+- Aparatos de uso cotidiano, despertadores, mandos a distancia
 - Energía duradera y recargable para los dispositivos que utiliza a diario
+- Universal: 2 veces más de duración de la carga cuando la necesitas
+- Contiene 4 pilas aaa precargadas
+- Potencía de la carga: 500 mah
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FK76SLQ/?tag=tolees-21)

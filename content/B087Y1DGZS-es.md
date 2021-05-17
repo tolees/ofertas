@@ -28,8 +28,8 @@ Está [Hummel Pantalones de Entrenamiento Unisex Hmlaction  Unisex Adulto  Panta
 
 ℹ️:
 
-- Equipo deportivo
 - Pantalones
 - HmlAction - Pantalones de entrenamiento (talla 2XL), color negro y gris
+- Equipo deportivo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087Y1DGZS/?tag=tolees-21)
