@@ -28,9 +28,9 @@ Tienes [Zygomatic- Dobble 360 Español-Portugues  Color  DOBB360ML ](https://www
 
 🔎:
 
-- La memoria y la concentración serán de partido.; y también el diversión
 - A partir de 6 años
 - Una nueva experiencia de doble cara para descubrir, con nuevos símbolos y reglas inéditas
 - La gama doble se enriquece con esta mano mecánica (compatible con todas las versiones de Doble)
+- La memoria y la concentración serán de partido.; y también el diversión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081ZKJS9K/?tag=tolees-21)
