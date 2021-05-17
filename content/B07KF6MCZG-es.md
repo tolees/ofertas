@@ -28,7 +28,7 @@ Está [Levi s 501 High Rise Short Pantalones Cortos  In The Clouds  29 para Muje
 
 ℹ️:
 
-- Costura interior: 6,3 cm.
 - Lavar del revés y secar con colores similares. Se recomienda usar detergente líquido.
+- Costura interior: 6,3 cm.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KF6MCZG/?tag=tolees-21)

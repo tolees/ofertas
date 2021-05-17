@@ -30,7 +30,7 @@ En este momento está [Funko - Pop! TV: Cobra Kai- Daniel LaRusso](https://www.a
 
 - Funko pop. El juguete del año 2018
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- Descúbre otras figuras de la colección cobra kai y colecciónalas todas
 - De la colección cobra kai, daniel larusso como figura de vinilo pop de funko
+- Descúbre otras figuras de la colección cobra kai y colecciónalas todas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YQH8WRT/?tag=tolees-21)
