@@ -28,10 +28,10 @@ Está [Casio Reloj con Correa de Acero Inoxidable A168WA-1A](https://www.amazon.
 
 ℹ️:
 
-- Tiene una precisión de +/- 30 segundos por mes
 - Advertencia: este artículo es enviado por el fabricante sin embalaje (sin blister o caja)
+- Tiene una precisión de +/- 30 segundos por mes
 - Funciones como alarma diaria, calendario automático y formato de 12/24 horas
-- Resistente al agua y soporta pequeñas salpicaduras de agua
 - La duración de la batería es de 7 años
+- Resistente al agua y soporta pequeñas salpicaduras de agua
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00JAK1PMI/?tag=tolees-21)
