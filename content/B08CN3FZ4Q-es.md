@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Dunda Slim Polo  Lox 5864-523 al 50.01 % de rebaja'
-date: 2021-05-16 09:03:17
+date: 2021-05-17 14:58:02
 image: 'https://m.media-amazon.com/images/I/31fgFYlhyYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Dunda Slim Polo  Lox 5864-5236  M para Hombre](https://www.am
 
 🔎:
 
+- Manga corta recta insertada
 - Cuello de polo y puños acanalados
 - logotipo de G-Star RAW bordado en el pecho
-- Manga corta recta insertada
-- Bajo recto con aberturas laterales
 - Tapeta de dos botones
+- Bajo recto con aberturas laterales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CN3FZ4Q/?tag=tolees-21)
