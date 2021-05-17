@@ -28,12 +28,12 @@ Está [Algenschnapper Adaptador para aspiradora de Suelo  conexión roscada de 8
 
 ℹ️:
 
-- Adaptador para conexión de manguera de aspiración, limpiador de suelo con sistema de filtro
 - Piscinas elevadas compatibles (sin paredes de acero) piscinas Intex de hasta 457 cm de diámetro (sin válvulas de cierre) y piscinas Bestway a partir de la serie 2016
-- Pieza de repuesto también para kit de iniciación de algas
 - Las imágenes no se muestran los accesorios incluidos en el envío
 - Pieza original, sin clonación
-- Conector de manguera: 32 mm de diámetro
+- Adaptador para conexión de manguera de aspiración, limpiador de suelo con sistema de filtro
+- Pieza de repuesto también para kit de iniciación de algas
 - Para conexión con rosca fina de 80 mm (para adaptador de rosca gruesa universal de 80 mm)
+- Conector de manguera: 32 mm de diámetro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085Z1SJQB/?tag=tolees-21)

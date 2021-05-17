@@ -28,9 +28,9 @@ Está [MERCURY TEXTIL - Juego de Toallas  de 100% Algodón Colores Resistentes G
 
 ℹ️:
 
+- Este juego de toallas de algodón de MERCURY TEXTIL es perfecto para usarlas a diario y combinarlas fácilmente. El juego de toallas es muy ligero, suave y de rápida absorción, aportando un confort máximo y unos rápidos resultados al secarte las manos, la cara o todo el cuerpo después de la ducha.
 - Nuestros juegos están garantizados con nuestra Garantía 100% satisfecho o le devolvemos su dinero : No lo dudes más y añade este conjunto a tu cesta (de la ropa)
 - Incluye 2 toallas de baño (130x70cm) ,2 toallas de manos (90x50cm) y 2 toallas pequeñas para bidé (50x30cm)
-- Este juego de toallas de algodón de MERCURY TEXTIL es perfecto para usarlas a diario y combinarlas fácilmente. El juego de toallas es muy ligero, suave y de rápida absorción, aportando un confort máximo y unos rápidos resultados al secarte las manos, la cara o todo el cuerpo después de la ducha.
 - Fabricada en algodón 100% algodón, 380 g/m2
 - 1er LAVADO y MANTENIMIENTO SENCILLO- Te recomendamos lavarlas solas la primera vez para evitar cualquier problema y que destiñan sobre tus otras ropas, puedes secarlas en secadora a baja temperatura
 
