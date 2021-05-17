@@ -29,7 +29,7 @@ En este momento está [Axe You Energised Shower Gel 400 Ml - 400 Mililitros](htt
 🔎:
 
 - Extractos de la tierra ardiente de Brasil y la fruta del dragón roja
-- Dermatológicamente probado
 - Contenido: 400 ml
+- Dermatológicamente probado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CBRT9K8/?tag=tolees-21)

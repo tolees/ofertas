@@ -28,10 +28,10 @@ En este momento está [QAZQA Lámpara colgante industrial negra con malla 4 luce
 
 🔎:
 
-- ✔ Espacios adecuados para esta lámpara: Illuminacion Interior, Comedor, Salón / comedor, Cocina, Dormitorio, Habitación.
 - ✔ Lámpara colgantes Negro Industrial.
 - ✔ Max. 4 x 60 Watt. Voltaje: 230V. Tipo de protección: [IP20] SIN PROTECCIÓN CONTRA el AGUA.
-- ✔ Funciones adicionales: Regulable, pero no incluye el regulador.
 - ✔ Tipo de portalámparas: E27. No se incluyen las bombillas.
+- ✔ Espacios adecuados para esta lámpara: Illuminacion Interior, Comedor, Salón / comedor, Cocina, Dormitorio, Habitación.
+- ✔ Funciones adicionales: Regulable, pero no incluye el regulador.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DT48WBY/?tag=tolees-21)

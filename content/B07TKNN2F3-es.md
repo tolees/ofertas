@@ -28,10 +28,10 @@ En este momento está [Havaianas Top Verano  Chanclas para Mujer  Azul  Turquois
 
 🔎:
 
-- Cierre: Sin cierre
-- Revestimiento: Sin forro
-- Material exterior: Caucho
-- Altura del tacón: 1 centímetros
 - Material de la suela: Caucho
+- Material exterior: Caucho
+- Revestimiento: Sin forro
+- Altura del tacón: 1 centímetros
+- Cierre: Sin cierre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TKNN2F3/?tag=tolees-21)

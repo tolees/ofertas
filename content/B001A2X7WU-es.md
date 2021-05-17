@@ -28,8 +28,8 @@ Ahora mismo tienes [VetPlus Coatex Champú Tratamiento - 500 ml](https://www.ama
 
 🔎:
 
-- Tiene efecto antibacteriano y anti fúngico, siendo perfecto para eliminar escamas y costras y prevenir infecciones en la piel
 - Su completa fórmula aporta los principios necesarios para conseguir unos rápidos resultados, seguros y efectivos
+- Tiene efecto antibacteriano y anti fúngico, siendo perfecto para eliminar escamas y costras y prevenir infecciones en la piel
 - Con el uso de este champú conseguiremos limpiar en profundidad, elimina el olor y eliminar escamas y costras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001A2X7WU/?tag=tolees-21)
