@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.35 % en Alcohol montplet quemar 1l'
-date: 2021-05-16 11:26:56
+date: 2021-05-17 11:43:46
 image: 'https://m.media-amazon.com/images/I/411n7iyX4eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Tienes [Alcohol montplet quemar 1l](https://www.amazon.es/dp/B00XAARAP0/?tag=tol
 
 - Olor agradable, sin metanol añadido
 - Limpia superficies duras como metales o vidrio
-- Cantidad del producto de 1 l
 - Aditivo anticongelante para limpiaparabrisas
+- Cantidad del producto de 1 l
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAARAP0/?tag=tolees-21)

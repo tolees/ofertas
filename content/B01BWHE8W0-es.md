@@ -28,10 +28,10 @@ Tienes [Canon EF-S 18-135mm f/ 3 5-5 6 IS USM - Objetivo para cámara Canon con 
 
 ℹ️:
 
-- Versátil rango de zoom 18-135 mm - perfecto para viajar
-- El disparo de fotografías nítidas se hace fácil con el estabilizador óptico de imagen de 4 posiciones.
-- La incorporación del Power Zoom Adapter PZ-E1 aumenta aún más la versatilidad de la lente EF-S 18-135mm f / 3.5-5.6 IS USM, lo que le permite controlar su zoom de forma remota.
 - La tecnología Nano USM ofrece un enfoque rápido que es suave y silencioso para la realización de películas.
+- El disparo de fotografías nítidas se hace fácil con el estabilizador óptico de imagen de 4 posiciones.
 - enfoque automático excepcionalmente suave . Sin embargo, también puede tomar el control en cualquier momento con su anillo de enfoque manual sensible.
+- Versátil rango de zoom 18-135 mm - perfecto para viajar
+- La incorporación del Power Zoom Adapter PZ-E1 aumenta aún más la versatilidad de la lente EF-S 18-135mm f / 3.5-5.6 IS USM, lo que le permite controlar su zoom de forma remota.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BWHE8W0/?tag=tolees-21)
