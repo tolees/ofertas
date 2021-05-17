@@ -28,10 +28,10 @@ Ahora mismo tienes [GREENSKY Cartucho de Tóner Compatible Repuesto para Brother
 
 🔎:
 
-- Condición Nuevo y amigable con el ambiente
-- Alta compatibilidad y salida de impresión profesional
-- Rendimiento por Página: negro-3,000 páginas, color-2,300 páginas al 5 por ciento de cobertura (Carta o A4)
 - Contenido del Empaque: 4 paquetes (1 Negro, 1 Cian, 1 Magenta, 1 Amarillo)
 - Lista de modelos de impresoras compatibles: Brother MFC-L3710CW, MFC-L3730CDN, MFC-L3750CDW, MFC-L3770CDW; Brother HL-L3210CW, HL-L3230CDW,HL-L3270CDW; Brother DCP-L3510CDW, DCP-L3517CDW, DCP-L3550CDW
+- Condición Nuevo y amigable con el ambiente
+- Rendimiento por Página: negro-3,000 páginas, color-2,300 páginas al 5 por ciento de cobertura (Carta o A4)
+- Alta compatibilidad y salida de impresión profesional
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SSXGHRX/?tag=tolees-21)

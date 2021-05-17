@@ -28,10 +28,10 @@ Tienes [ABLEWE Capturadora Vídeo hdmi 4K  Tarjeta de Captura HDMI a HDMI/USB 5V
 
 🔎:
 
-- 【Amplia compatibilidad】Admite Windows y Mac OS, antes de usarlo, debe descargar un software y configurarlo en OBS, Potplayer, etc. para la transmisión en vivo más fácilmente.
-- 【Garantía y Paquete】Acodot proporciona 1 año de garantía y soporte técnico de por vida. El paquete incluye una caja de captura de video del juego y un cable USB.
-- 【Plug and Play 】Esta tarjeta de captura de audio y video no necesita instalar un manejador de dispositivo, por lo que puede usar las funciones integradas del software actual para obtener una experiencia perfecta. Debido a que el dispositivo es compatible con la mayoría del software de terceros, puede ser plug-and-play para Windows, Mac OS X y Linux.
 - 【Salida de bucle de señal HDMI】Disfrute de la diversión al grabar el video. Con la función de salida de bucle de señal HDMI, puede disfrutar de la diversión con sus amigos desde el televisor mientras captura videos en su PC o directamente en su disco duro, ampliamente utilizado para adquisición de alta definición, grabación de enseñanza, imágenes médicas, etc.
 - La tarjeta de captura de vídeo HDMI es adecuada para dispositivos con salida HDMI, como dispositivos para PS4, Xbox, Wii U y Switch, lo que la hace ideal para grabación de video, transmisiones en vivo y otras funciones en la PC.
+- 【Garantía y Paquete】Acodot proporciona 1 año de garantía y soporte técnico de por vida. El paquete incluye una caja de captura de video del juego y un cable USB.
+- 【Amplia compatibilidad】Admite Windows y Mac OS, antes de usarlo, debe descargar un software y configurarlo en OBS, Potplayer, etc. para la transmisión en vivo más fácilmente.
+- 【Plug and Play 】Esta tarjeta de captura de audio y video no necesita instalar un manejador de dispositivo, por lo que puede usar las funciones integradas del software actual para obtener una experiencia perfecta. Debido a que el dispositivo es compatible con la mayoría del software de terceros, puede ser plug-and-play para Windows, Mac OS X y Linux.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08F4ZR7K4/?tag=tolees-21)
