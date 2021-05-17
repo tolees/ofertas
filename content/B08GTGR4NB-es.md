@@ -29,8 +29,8 @@ Tienes [Kalypso - Commandos 2 HD Remaster Switch IT/ESP](https://www.amazon.es/d
 🔎:
 
 - La primera aparición de la saga Commandos en Nintendo Switch: rota el entorno 360 grados, entra y sal de edificios, submarinos, aviones y agua de forma fluida y amplía y aleja la vista del entorno
+- Reimaginado en HD con controles rediseñados, IU modernizada y un tutorial reformado
 - Controla nueve comandos únicos con habilidades y especializaciones diferentes, entre los que se incluyen el boina verde, el francotirador, el zapador, el marine, la seductora y el ladrón
 - Entornos interactivos: roba uniformes y armas del enemigo, escala postes, desplázate con cables, nada, usa vehículos y entra en edificios, barcos y aviones
-- Reimaginado en HD con controles rediseñados, IU modernizada y un tutorial reformado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GTGR4NB/?tag=tolees-21)
