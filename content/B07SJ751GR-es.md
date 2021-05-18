@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Tensaur I  Zapatillas de Estar po al 71.90 % de descuento'
-date: 2021-05-12 14:10:47
+date: 2021-05-18 15:43:12
 image: 'https://m.media-amazon.com/images/I/31qALW2EIBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07SJ751GR/?tag=tolees-21'
 descuento: '71.90'
-average: '7.41'
+average: '7.34333333333333'
 ---
 
 Está [Adidas Tensaur I  Zapatillas de Estar por casa Bebé Unisex  Blanco  Ftwbla/Azul/Ftwbla 000   24 EU](https://www.amazon.es/dp/B07SJ751GR/?tag=tolees-21) con 71.90 de descuento por 7.01 EUR (original: 24.95 EUR) en el siguiente enlace!

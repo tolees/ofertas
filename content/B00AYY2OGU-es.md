@@ -28,9 +28,9 @@ Ahora mismo tienes [Speedo Sportsbrief Essential Endurance Traje de Baño  Hombr
 
 🔎:
 
-- Cintura con cordón ajustable: para un mayor ajuste y seguridad
-- Protección solar: UPF 50+
-- 100 % resistente al cloro: para un rendimiento de larga duración
 - Secado rápido: se seca rápidamente después de tu entrenamiento de natación
+- Protección solar: UPF 50+
+- Cintura con cordón ajustable: para un mayor ajuste y seguridad
+- 100 % resistente al cloro: para un rendimiento de larga duración
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00AYY2OGU/?tag=tolees-21)
