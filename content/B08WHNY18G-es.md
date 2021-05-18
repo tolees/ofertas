@@ -28,10 +28,10 @@ En este momento está [Outsunny Tienda de Campaña Familiar 3-4 Personas Plegabl
 
 🔎:
 
-- ✅MEDIDAS TOTALES: 426x206x154 cm (LxANxAL); Medidas plegadas: 63x16x17 cm (LxANxAL); Capacidad para 3- 4 personas
-- ✅MATERIAL RESISTENTE: Tienda de campaña con resistente estructura compuesta por postes de fibra de vidrio y tela de poliéster 190T impermeable, con gran resistencia a la intemperie, al agua (2000+) y a los rayos UV 20+. Cuenta con cuerdas de tensión y clavos para instalar firmemente en el suelo
 - ✅CON ESPACIOS DIFERENCIADOS: A parte del dormitorio y el vestíbulo interior, también cuenta con una entrada con toldo a modo de avancé, que te permitirá descalzarte, dejar algunos objetos o incluso cocinar. Equipado con 2 postes para sostener la cortina a modo de toldo
 - ✅PRÁCTICA Y FUNCIONAL: El vestíbulo tiene 2 puertas, una al costado y otra al frente, para un fácil acceso. Un gancho en el techo interior te permitirá colgar un punto de luz, necesario sobre todo por la noche y cuenta con 4 bolsas de almacenaje para tener organizados los objetos pequeños
+- ✅MEDIDAS TOTALES: 426x206x154 cm (LxANxAL); Medidas plegadas: 63x16x17 cm (LxANxAL); Capacidad para 3- 4 personas
+- ✅MATERIAL RESISTENTE: Tienda de campaña con resistente estructura compuesta por postes de fibra de vidrio y tela de poliéster 190T impermeable, con gran resistencia a la intemperie, al agua (2000+) y a los rayos UV 20+. Cuenta con cuerdas de tensión y clavos para instalar firmemente en el suelo
 - ✅TIENDA PARA 3-4 PERSONAS: Con un amplio espacio interior distribuido en un vestíbulo y un gran dormitorio, cuenta con espacio suficiente para dormir cómodamente 3- 4 personas. Incluye una bolsa que facilita su almacenaje y transporte, permitiendo que puedas llevártela fácilmente a cualquier sitio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WHNY18G/?tag=tolees-21)
