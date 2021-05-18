@@ -28,10 +28,10 @@ En este momento está [Oïléna - Aceite de vitamina E  tocoferol  100% natural 
 
 🔎:
 
-- EFECTOS SOBRE LA SALUD del aceite vegetal de vitamina E: antioxidante, hidratante, antienvejecimiento. Aplicación en piel y cabello.
-- UN ALIADO CONTRA LA PÉRDIDA DE CABELLO Gracias a sus propiedades regeneradoras y nutritivas, el aceite de vitamina E está especialmente recomendado para cabellos secos y desvitalizados. Este es el ingrediente preferido durante momentos estresantes o cuando se experimentan trastornos hormonales.
+- ANTI EDAD Una tez más fresca y joven después de un uso regular Cuidado intensivo de la piel después de las quemaduras solares gracias a sus propiedades antioxidantes
 - ACEITE CORPORAL Solución ideal para el cuidado de arrugas, estrías y cicatrices
 - Aceite de vitamina E 100% NATURAL de germen de trigo para el cuidado diario natural de la piel Hidratación de la piel, aceleración de la formación de colágeno, protección de la piel contra los radicales libres
-- ANTI EDAD Una tez más fresca y joven después de un uso regular Cuidado intensivo de la piel después de las quemaduras solares gracias a sus propiedades antioxidantes
+- EFECTOS SOBRE LA SALUD del aceite vegetal de vitamina E: antioxidante, hidratante, antienvejecimiento. Aplicación en piel y cabello.
+- UN ALIADO CONTRA LA PÉRDIDA DE CABELLO Gracias a sus propiedades regeneradoras y nutritivas, el aceite de vitamina E está especialmente recomendado para cabellos secos y desvitalizados. Este es el ingrediente preferido durante momentos estresantes o cuando se experimentan trastornos hormonales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MWHRQ3V/?tag=tolees-21)

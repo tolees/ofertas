@@ -28,10 +28,10 @@ Tienes [Levi s Declan Millstone 2 Tone  Zapatillas Hombre  Blanco R White  42 EU
 
 ℹ️:
 
-- Artículo: 228007 00794 DECLAN
-- Estación: SIEMPRE DISPONIBLE
-- Designer: LEVIS
-- Color: WHITE
 - Material: Ecopiel - Piel sintética
+- Designer: LEVIS
+- Estación: SIEMPRE DISPONIBLE
+- Color: WHITE
+- Artículo: 228007 00794 DECLAN
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BB5RBMN/?tag=tolees-21)

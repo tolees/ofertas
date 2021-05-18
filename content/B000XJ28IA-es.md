@@ -28,10 +28,10 @@ En este momento está [Bosch Professional Cargador rápido GAL 1230 CV  cargador
 
 🔎:
 
-- Intensidad de carga: 3,0 A, tensión de entrada: 220 - 240 V, clavija UE
-- Reduce el tiempo de carga y prolonga la vida útil mediante un sistema de refrigeración por aire
-- Versión estándar para UE con clavija UE conforme a UNE-EN 50075
-- Carga el 80 % de la batería en solo 25 minutos - Cargador rápido Li-ion AL 1230 CV de Bosch
 - Se puede utilizar con todas las baterías de Bosch Professional de 10,8 V
+- Versión estándar para UE con clavija UE conforme a UNE-EN 50075
+- Reduce el tiempo de carga y prolonga la vida útil mediante un sistema de refrigeración por aire
+- Intensidad de carga: 3,0 A, tensión de entrada: 220 - 240 V, clavija UE
+- Carga el 80 % de la batería en solo 25 minutos - Cargador rápido Li-ion AL 1230 CV de Bosch
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000XJ28IA/?tag=tolees-21)
