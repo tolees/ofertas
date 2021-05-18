@@ -28,10 +28,10 @@ Está [Epson EcoTank -M1120 Impresora monocromo con sistema de depósito de tint
 
 ℹ️:
 
-- Reduce los costes de impresión: Impresora económica de depósito de tinta con muchos cartuchos de tinta incluidos
 - Impresión rápida y Wi-Fi: Impresión móvil, velocidad de impresión de 15 ppm2 y sin tiempo de encendido
 - Rellena y olvídate de los problemas: Imprime miles de páginas con la tinta incluida
-- Fiable y duradero: Garantía de un año o 100 000 páginas
+- Reduce los costes de impresión: Impresora económica de depósito de tinta con muchos cartuchos de tinta incluidos
 - Reduce el consumo de energía: Ahorra hasta un 95% en consumo energético
+- Fiable y duradero: Garantía de un año o 100 000 páginas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JD256LV/?tag=tolees-21)
