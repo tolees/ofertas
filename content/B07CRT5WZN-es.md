@@ -29,8 +29,8 @@ Tienes [Philips Sonicare ProtectiveClean HX6801/08 - Cepillo de dientes eléctri
 ℹ️:
 
 - Eliminación de la placa hasta 7 veces superior a un cepillo dental manual
-- Incluye: Cepillo ProtectiveClean, 2 cabezales antiplaca, 1 cargador
 - Cepillo de dientes eléctrico seguro y suave en zonas sensibles, ortodoncias y trabajos dentales
+- Incluye: Cepillo ProtectiveClean, 2 cabezales antiplaca, 1 cargador
 - Avisa cuando te cepillas los dientes con demasiada fuerza con el sensor de presión
 - Saber cuándo hay que cambiar el cabezal con la tecnología BrushSync
 

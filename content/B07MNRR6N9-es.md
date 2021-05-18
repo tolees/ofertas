@@ -28,8 +28,8 @@ Tienes [Lee Luke Medium Stretch Jeans  Negro  Moto Black HL   28W / 34L para Hom
 
 🔎:
 
-- Vaqueros para hombre
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Estilo 5 bolsillos
+- Tienen un parche de piel en la parte trasera con la marca Lee
+- Vaqueros para hombre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MNRR6N9/?tag=tolees-21)

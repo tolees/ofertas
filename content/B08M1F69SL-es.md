@@ -28,8 +28,8 @@ Tienes [HARIBO Favoritos Classic  1 x 150 g](https://www.amazon.es/dp/B08M1F69SL
 
 🔎:
 
-- Surtido de golosinas
 - Irresistible mix de sabores
+- Surtido de golosinas
 - Producto que combina tradición e innovación
 - Delicioso mix de diferentes piezas
 

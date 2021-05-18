@@ -28,12 +28,12 @@ Ahora mismo tienes [PUMA Liga Sideline Polo T-Shirt  Hombre  XXL  Rojo  Red/Whit
 
 🔎:
 
-- La tecnología drycell te mantiene seco y cómodo mientras practicas
-- Diseño clásico de polo
-- Tipo de deporte: Fútbol
-- Logotipo puma en la parte derecha del pecho
-- Corte recto
-- Tipo de fábrica: 100% Polyester
 - Dobladillo delantero liso, medio cuello, tapeta de botones
+- Tipo de deporte: Fútbol
+- Diseño clásico de polo
+- La tecnología drycell te mantiene seco y cómodo mientras practicas
+- Logotipo puma en la parte derecha del pecho
+- Tipo de fábrica: 100% Polyester
+- Corte recto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078WGKB22/?tag=tolees-21)
