@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Badland - Code: Realize "Future Blessing al 43.91 % de descuento'
-date: 2021-05-17 07:16:25
+date: 2021-05-18 22:33:19
 image: 'https://m.media-amazon.com/images/I/51MaQlgEgML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [Badland - Code: Realize "Future Blessings"](https://www.amazon.es/dp/B085
 ℹ️:
 
 - Misterio
+- Romance
 - Aventura
 - Novela Visual
-- Romance
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0851FDSJD/?tag=tolees-21)
