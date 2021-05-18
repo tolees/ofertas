@@ -28,8 +28,8 @@ En este momento está [Nike Blazer Low Leather  Zapatillas de bsquetbol Hombre  
 
 🔎:
 
-- Diseño vintage
-- Estructura reforzada
 - Zapatillas deportivas
+- Estructura reforzada
+- Diseño vintage
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082R6KSJ8/?tag=tolees-21)
