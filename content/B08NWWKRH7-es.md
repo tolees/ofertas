@@ -30,8 +30,8 @@ Ahora mismo tienes [KKshop Lupa de Pantalla para Teléfonos  Pantalla de Amplifi
 
 - 【Amplificador de Pantalla 3D HD】: Visión HD, protección ocular contra la radiación azul. No requiere energía, es económico y práctico. Desde la pantalla pequeña hasta la pantalla grande, puede aliviar la incomodidad y la fatiga visual de la visualización a largo plazo.
 - 【Mejores Regalos】: Diseño simple y elegante hace que este producto sea la mejor opción para los regalos navideños para sus amigos o familiares. Creemos firmemente que te enamorarás de tu nueva lupa de pantalla de teléfono móvil. Un regalo inteligente para la familia, el anciano, la niña / amigo.
-- 【Experiencia de Visualización Cómoda】: Lupa de pantalla funciona como la pantalla del proyector de un teléfono, duplicando efectivamente el tamaño de su pantalla para que pueda disfrutar de películas y videos en su teléfono inteligente al máximo en HD.
 - 【Compatible con Dispositivo】: Lupa de pantalla está especialmente diseñada para la mayoría de los teléfonos inteligentes y tabletas, y es aplicable a varios sistemas, por lo que no está limitado por el modelo del dispositivo.
 - 【Diseño Plegable】: Lupa de pantalla HD Tipo de almacenamiento Diseño plegable giratorio. Si la altura no es suficiente, la altura se puede ajustar con el soporte de anillo. Diseño plegable y también se puede llevar en su bolso. Adecuado para interior, camping, viaje, ocio, en cualquier lugar, etc.
+- 【Experiencia de Visualización Cómoda】: Lupa de pantalla funciona como la pantalla del proyector de un teléfono, duplicando efectivamente el tamaño de su pantalla para que pueda disfrutar de películas y videos en su teléfono inteligente al máximo en HD.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NWWKRH7/?tag=tolees-21)
