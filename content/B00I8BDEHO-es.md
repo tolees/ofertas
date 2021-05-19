@@ -28,8 +28,8 @@ En este momento está [Douceur d Intérieur 1622966 - Cortina  2 x 60 x 90 cm  c
 
 🔎:
 
-- Color: Blanco
 - Dimensión : 2 X 60 X 90 Cm
+- Color: Blanco
 - 100% Poliester
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00I8BDEHO/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Superdry Orange Label Vintage EMB tee Camiseta Manga Corta  
 
 🔎:
 
-- Ofrece comodidad durante el uso
 - Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
 - Tiene un tejido ligero y suave
 - Con mangas cortas y cuello redondo
+- Ofrece comodidad durante el uso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FDFGMVS/?tag=tolees-21)

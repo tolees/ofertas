@@ -28,9 +28,9 @@ Tienes [Walther Design RB130K Titular de Imagen Sin Marco  Vidrio Transparente  
 
 ℹ️:
 
-- Dimension: 21x29.7 cm
-- Cierre simple y rápido mediante clip
 - Portaretratos sin marco, con cristal transparente pulido y lavado redondo
+- Dimension: 21x29.7 cm
 - Suspensión para formato retrato o paisaje
+- Cierre simple y rápido mediante clip
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000MVFCOG/?tag=tolees-21)

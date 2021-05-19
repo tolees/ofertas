@@ -28,10 +28,10 @@ En este momento está [YARUIKE - Cortapelos Electrónico Cortapelos Profesional 
 
 🔎:
 
+- 【 GARANTÍA DE UN AÑO】Las cortadoras de cabello YARUIKE tienen una garantía de un año. Si no está satisfecho, contáctenos. Se satisfaceremos al 100%. ¡Son los regalos para Navidad, Año Nuevo, Día de San Valentín, Cumpleaños y Día del Padre!
 - 【Seguro y eficiente,Silent Design】Exclusiva cuchilla de alta calidad de la cortadora de cabello YARUIKE le permite sentirse relajado durante el corte de cabello, completar su corte de cabello de manera rápida y eficiente, y al mismo tiempo tijeras de corte de cabello pueden estar cerca de la piel profundamente, el corte y la fricción son bajos calor, y no se generará en la piel El escaldado a altas temperaturas no cortará la piel.
+- 【Carga rápida y operación de CA】 La batería de litio de larga duración, carga durante 1 hora, se puede usar durante 120 minutos. Puede cargar el cortapelos en cualquier momento y en cualquier lugar, y usarlo mientras se carga.Se recomienda que cargue primero cuando lo use por primera vez.
 - 【100% impermeable,Fácil de limpiar】 Diseño impermeable de cuerpo completo,lavable de cuerpo completo, resistente al agua, se puede usar en seco / húmedo, se puede usar libremente y es fácil de limpiar.
 - 【Juego de cortapelos profesional】Cortapelos hombre de cabello profesionales YARUIKE tienen una variedad de accesorios entre los que puede elegir, incluidas las cortadoras de cabello, maquinillas de afeitar, cortapelos para la nariz, cortapelos para el cabello, cortapelos para el pecho y un peine de ajuste de barba (2/4/6/8 mm), 1 peineta ajustable (13/15/17/19/21mm), puede usar el juego de cortapelos para crear el estilo que desee.
-- 【 GARANTÍA DE UN AÑO】Las cortadoras de cabello YARUIKE tienen una garantía de un año. Si no está satisfecho, contáctenos. Se satisfaceremos al 100%. ¡Son los regalos para Navidad, Año Nuevo, Día de San Valentín, Cumpleaños y Día del Padre!
-- 【Carga rápida y operación de CA】 La batería de litio de larga duración, carga durante 1 hora, se puede usar durante 120 minutos. Puede cargar el cortapelos en cualquier momento y en cualquier lugar, y usarlo mientras se carga.Se recomienda que cargue primero cuando lo use por primera vez.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088FXCQTC/?tag=tolees-21)
