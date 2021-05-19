@@ -28,7 +28,7 @@ Tienes [Meridiem Games - Valhalla Hills - Definitive Edition](https://www.amazon
 
 🔎:
 
-- Migliora costantemente, usa la tua conoscenza e i tuoi obiettivi per la mappa successiva
 - Prenditi cura dei bisogni dei tuoi vichinghi
+- Migliora costantemente, usa la tua conoscenza e i tuoi obiettivi per la mappa successiva
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01H8S4N4K/?tag=tolees-21)
