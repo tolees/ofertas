@@ -28,10 +28,10 @@ Está [Bosch Home and Garden - Bosch AdvancedAquatak 140 - Hidrolimpiadora de Al
 
 ℹ️:
 
-- La gama Advanced de Bosch para jardín: más potente para los proyectos más exigentes
 - Rendimiento versátil de limpieza: desde la suciedad más resistente hasta la limpieza diaria, gracias a la amplia gama de boquillas incluida
-- Incluye: pistola metálica de alta presión Bosch, lanza, manguera de alta presión de 8 m, boquilla de chorro plano variable, rotativa y de detergente de alta presión (550 ml), filtro de agua, en caja
 - La hidrolimpiadora proporciona 450 litros de agua por hora gracias a su potente motor de 2100 W y su presión de 140 bares
+- Incluye: pistola metálica de alta presión Bosch, lanza, manguera de alta presión de 8 m, boquilla de chorro plano variable, rotativa y de detergente de alta presión (550 ml), filtro de agua, en caja
 - Espacio adicional de almacenamiento gracias al depósito integrado
+- La gama Advanced de Bosch para jardín: más potente para los proyectos más exigentes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JGZT1FJ/?tag=tolees-21)

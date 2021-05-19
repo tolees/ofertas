@@ -28,8 +28,8 @@ Ahora mismo tienes [Bosch Home and Garden 06008A6201 Bosch Cortacésped ARM37  1
 
 🔎:
 
-- Cortacésped ARM 37: óptimo para zonas de césped amplias gracias a un ancho de corte de 37 cm
 - Su innovador peine para césped y la cuchilla de acero endurecida cortarán su césped hasta el borde de la zona
+- Cortacésped ARM 37: óptimo para zonas de césped amplias gracias a un ancho de corte de 37 cm
 - Ajuste sencillo de la altura de corte: 20-70 mm (5 niveles)
 - La cesta colectora, con 40 litros de capacidad, no necesita ser vaciada de ramas cortadas con frecuencia
 
