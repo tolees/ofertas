@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA COURTFLEX V2 V INF  Zapatillas Unisex niños  Blanco Wh
 
 🔎:
 
-- La entresuela de EVA para mayor comodidad
+- bota baja
 - gamuza
+- La entresuela de EVA para mayor comodidad
 - cierre Hookandloop
 - suela de goma para un mejor agarre
-- bota baja
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SBVYYV7/?tag=tolees-21)
