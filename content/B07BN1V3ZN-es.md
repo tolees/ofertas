@@ -28,10 +28,10 @@ En este momento está [Vans Filmore Suede Canvas  Zapatillas Hombre  Black/Pewte
 
 🔎:
 
-- Material de la suela: Goma
-- Revestimiento: Tela
-- Cierre: Cordones
-- Tipo de tacón: Plano
 - Material exterior: Cuero
+- Revestimiento: Tela
+- Material de la suela: Goma
+- Tipo de tacón: Plano
+- Cierre: Cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BN1V3ZN/?tag=tolees-21)

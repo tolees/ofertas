@@ -28,9 +28,9 @@ Tienes [Fairy Espuma Activa - Lavavajillas  375 ml](https://www.amazon.es/dp/B0
 
 🔎:
 
+- La botella de 375 ml ofrece 240 lavados
 - Puede usarse directamente sobre la esponja
 - La intensa espuma permite lavar de forma rápida y sencilla todo tipo de platos
 - Absorbe la grasa como si fuera un imán
-- La botella de 375 ml ofrece 240 lavados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XAGGE9W/?tag=tolees-21)

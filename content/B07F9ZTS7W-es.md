@@ -28,8 +28,8 @@ Ahora mismo tienes [Yamaha DTX402 Batería Digital - Efectos de sonido acústico
 
 🔎:
 
-- Ideal tanto para los principiantes como para los veteranos de la batería; un set completo que ofrece hasta 10 diferentes funciones de aprendizaje en solo un instrumento
 - Contenido del envío: 1x Set Batería Digital Yamaha DTX-402K en negro; Rack portable, ajustable y resistente; Instrumento musical electrónico perfecto para entusiastas y profesionales
+- Ideal tanto para los principiantes como para los veteranos de la batería; un set completo que ofrece hasta 10 diferentes funciones de aprendizaje en solo un instrumento
 - Gracias a la interfaz de sonido, la batería electrónica se puede usar para grabaciones de audio o con modo MIDI, a través del puerto USB se puede conectar una tableta o un PC al conjunto E-drum
 - Aprendizaje y diversión de la mano; su aplicación permite no solo practicar de la manera más divertida sino que ofrece muchas funciones para poder explorar y personalizar música sin igual
 - Noche de música sin preocupaciones; la entrada de auriculares hace posible una reproducción silenciosa en todo momento; las variaciones de sonido se recrean fielmente gracias al módulo Yamaha
