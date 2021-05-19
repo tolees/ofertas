@@ -28,9 +28,9 @@ Está [Electronic Arts - Titanfall 2](https://www.amazon.es/dp/B01C8MQP6A/?tag=t
 
 ℹ️:
 
-- Advanced, Action-Packed Gameplay Whether fighting as a Pilot, the apex predators of The Frontier, or as a Titan, 20-foot tall war machines, Titanfall 2 provides an incredibly fun, fluid, and thrilling combat experience that is unmatched.
+- Play with Friends, or Make New Ones The social tissue of Titanfall 2, Networks makes it fast and easy to play with friends old and new. Whether Social or Competitive, players will be able to create and join a variety of Networks that best suit their play styles and preferences.
 - Captivating Single Player Campaign Step on to The Frontier as a Militia rifleman with aspirations of becoming a Pilot. Stranded behind enemy lines, and against overwhelming odds, you must team up with a veteran Vanguard-class Titan and uphold a mission you were never meant to carry out.
 - Deeper Multiplayer Action With six brand-new Titans, a host of deadly new Pilot abilities, an expanded customisation system, new modes and much more, Titanfall 2 gives players the deeper MP experience they have been asking for.
-- Play with Friends, or Make New Ones The social tissue of Titanfall 2, Networks makes it fast and easy to play with friends old and new. Whether Social or Competitive, players will be able to create and join a variety of Networks that best suit their play styles and preferences.
+- Advanced, Action-Packed Gameplay Whether fighting as a Pilot, the apex predators of The Frontier, or as a Titan, 20-foot tall war machines, Titanfall 2 provides an incredibly fun, fluid, and thrilling combat experience that is unmatched.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01C8MQP6A/?tag=tolees-21)

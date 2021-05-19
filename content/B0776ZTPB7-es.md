@@ -29,9 +29,9 @@ Ahora mismo tienes [Tommy Jeans Original Jersey Camiseta  Azul  Black Iris 002  
 🔎:
 
 - Cuello de pico
-- Diseño ajustado
 - Logotipo Tommy Jeans bordado en el pecho
-- Logotipo Tommy Jeans
 - Algodón orgánico puro
+- Logotipo Tommy Jeans
+- Diseño ajustado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0776ZTPB7/?tag=tolees-21)

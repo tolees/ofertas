@@ -29,9 +29,9 @@ En este momento está [Maui Moisture  Champú Revitaliza e Hidrata Manteca de Ka
 🔎:
 
 - Utiliza este champú con el acondicionador y la mascarilla de manteca de Karité de Maui Moisture, completando el tratamiento capilar natural sin parabenos, siliconas, colorantes sintéticos, ni sulfatos que tanto estás buscando para tratar tu pelo seco y dañado
-- Este champú contiene manteca de karité, aceites de coco y macadamia, los cuales ayudan a calmar profundamente, a nutrir y a suavizar tus mechones para que tu pelo vuelva a verse sano
-- Este champú vegano ayuda a nutrir y a suavizar el pelo para recuperar un aspecto saludable; también es recomendado para pelos rizados y ondulados
-- La línea de Manteca de Karité de Maui Moisture contiene todos los ingredientes naturales optimas para darte un pelo sano y lleno de vida
 - El Champú Revitalizadora e Hidratante con Manteca de Karité de Maui Moisture contiene una fórmula súper hidratante y suave para el pelo seco y dañado dejándolo luciendo suave, sano y brillante
+- Este champú contiene manteca de karité, aceites de coco y macadamia, los cuales ayudan a calmar profundamente, a nutrir y a suavizar tus mechones para que tu pelo vuelva a verse sano
+- La línea de Manteca de Karité de Maui Moisture contiene todos los ingredientes naturales optimas para darte un pelo sano y lleno de vida
+- Este champú vegano ayuda a nutrir y a suavizar el pelo para recuperar un aspecto saludable; también es recomendado para pelos rizados y ondulados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CTP3KFM/?tag=tolees-21)
