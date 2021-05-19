@@ -28,9 +28,9 @@ Ahora mismo tienes [Tucano-Bolsa para Ordenador  Hombre y Mujer con Bolsillo Par
 
 🔎:
 
-- Anti-scratch protection
-- External pockets for quick access to accessories
 - Completely foam-padded compartment to protect laptop equipment
+- External pockets for quick access to accessories
+- Anti-scratch protection
 - Shoulder strap with easy-grip, shock absorbing design
 - Shoulder strap with swivel clips prevent twisting
 
