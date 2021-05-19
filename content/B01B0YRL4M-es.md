@@ -28,10 +28,10 @@ Tienes [Russell Hobbs Mix & Go - Batidora de Vaso Individual  300 W  Acero Inoxi
 
 🔎:
 
-- El batido se inicia presionando el vaso
-- Mini batidora de acero inoxidable cepillado, 300 vatios de potencia
-- Incluye 2 vasos de 600 mililitros de capacidad y 2 tapas de vaso que permiten beber directamente, los vasos caben en los portavasos estándar del coche
-- Fácil limpieza y piezas aptas para el lavavajillas, los vasos son de plástico libre de BPA
 - Cuchillas para hielo que permiten preparar bebidas frías y pies antideslizantes
+- El batido se inicia presionando el vaso
+- Fácil limpieza y piezas aptas para el lavavajillas, los vasos son de plástico libre de BPA
+- Incluye 2 vasos de 600 mililitros de capacidad y 2 tapas de vaso que permiten beber directamente, los vasos caben en los portavasos estándar del coche
+- Mini batidora de acero inoxidable cepillado, 300 vatios de potencia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01B0YRL4M/?tag=tolees-21)
