@@ -30,8 +30,8 @@ En este momento está [Arcos Tacos  Bloque Universal para Cuchillos hasta 20 cm 
 
 - Tamaño: 220 x 160 x 65 mm
 - Desmontable y fácil de limpiar. Adecuados para todos los cuchillos ARCOS hasta una longitud de hoja de 20 cm
-- Presentación: 1 unidad en una caja
 - Termoplástico + Elastómero
+- Presentación: 1 unidad en una caja
 - Plástico con interior de fibras de caucho termoplástico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00I9XTKI8/?tag=tolees-21)

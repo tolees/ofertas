@@ -28,8 +28,8 @@ Tienes [Head Coverbag - Funda para Raquetas  Color Negro](https://www.amazon.es/
 
 🔎:
 
+- Head Racket Cover
 - for one Tenis Aduld Racket
 - Head Funda de raqueta
-- Head Racket Cover
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B003PVAX9O/?tag=tolees-21)
