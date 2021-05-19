@@ -28,12 +28,12 @@ Tienes [Hisense CH6IN6BXBG - Campana Decorativa 60 cm  Capacidad de Succión de 
 
 ℹ️:
 
-- Gran potencia con menos ruido (58dB Min potencia - 66 dB Max Potencia)
-- Iluminación energéticamente eficiente, Luz led incorporada
-- Campana de 60 Cm de Ancho con unas medidas de (Alto x Profundo) (Cm) 37,5 x 33,5
-- Simple de instalación, sin tener que instalar conductos para la extracción
-- Filtros lavables para una cocina más fresca
 - Elimina todas las impurezas del aire con extracción hasta 650 m³/h
 - Incluye Chimenea, la altura del tubo es de 57,5 Cm hasta 70,5 Cm
+- Iluminación energéticamente eficiente, Luz led incorporada
+- Simple de instalación, sin tener que instalar conductos para la extracción
+- Filtros lavables para una cocina más fresca
+- Campana de 60 Cm de Ancho con unas medidas de (Alto x Profundo) (Cm) 37,5 x 33,5
+- Gran potencia con menos ruido (58dB Min potencia - 66 dB Max Potencia)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08DGK825Q/?tag=tolees-21)
