@@ -28,10 +28,10 @@ Ahora mismo tienes [Taurus Babel RC II - Ventilador de torre digital  Indicador 
 
 🔎:
 
-- POTENTE Y DIGITAL: Ventilador de torre potente de 45W con 74 cm de altura y base redonda antideslizante; Flujo de aire de hasta 4,3 m3/min; Con selector táctil y pantalla digital con indicador de temperatura ambiente
+- 3 modos de funcionamiento: normal, brisa y noche; 3 niveles de potencia
 - Máxima comodidad, control remoto para controlar todas las funciones del ventilador; Cuenta con un espacio para su almacenaje
 - Movimiento giratorio con el que reparte el flujo de aire de forma uniforme por toda la estancia; Se puede activar o desactivar
-- 3 modos de funcionamiento: normal, brisa y noche; 3 niveles de potencia
 - Temporizador de hasta 12 horas con apagado automático
+- POTENTE Y DIGITAL: Ventilador de torre potente de 45W con 74 cm de altura y base redonda antideslizante; Flujo de aire de hasta 4,3 m3/min; Con selector táctil y pantalla digital con indicador de temperatura ambiente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084TJG3W2/?tag=tolees-21)

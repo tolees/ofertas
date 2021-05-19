@@ -28,9 +28,9 @@ Tienes [Oral-B Dentífrico 3D White Whitening Therapy  Dientes Sensibles - 75 ml
 
 🔎:
 
-- Dentífrico indicado para dientes sensibles
-- Sabor menta
 - Dentífrico que elimina las manchas superficiales
+- Sabor menta
 - Fórmula que no daña el esmalte
+- Dentífrico indicado para dientes sensibles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07LGM4YGG/?tag=tolees-21)
