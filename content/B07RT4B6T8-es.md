@@ -29,9 +29,9 @@ En este momento está [Neutrogena Skin Detox Mascarilla de Arcilla Purificante 2
 🔎:
 
 - La Mascarilla de Arcilla Purificante 2en1 Skin Detox de Neutrogena actúa sobre el 100% de las toxinas y los contaminantes diarios para conseguir un cutis radiante
-- Esta mascarilla está enriquecida con ácido glicólico, el cual elimina con suavidad la suciedad, los aceites y los restos de maquillaje, mientras que mantiene la hidratación esencial de la piel
-- Además ésta puede emplearse como limpiador de uso diario o como mascarilla desintoxificante para limpiar los poros en profundidad
-- Su fórmula de arcilla desintoxificante actúa específicamente sobre todos los tipos de impurezas y contaminantes
 - Contiene una fórmula no comedogénica ha sido comprobada por dermatólogos; es ideal para utilizarse diario
+- Esta mascarilla está enriquecida con ácido glicólico, el cual elimina con suavidad la suciedad, los aceites y los restos de maquillaje, mientras que mantiene la hidratación esencial de la piel
+- Su fórmula de arcilla desintoxificante actúa específicamente sobre todos los tipos de impurezas y contaminantes
+- Además ésta puede emplearse como limpiador de uso diario o como mascarilla desintoxificante para limpiar los poros en profundidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RT4B6T8/?tag=tolees-21)

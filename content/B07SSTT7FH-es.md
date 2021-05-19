@@ -28,8 +28,8 @@ Ahora mismo tienes [Bethesda - Doom](https://www.amazon.es/dp/B07SSTT7FH/?tag=to
 
 🔎:
 
-- Una campaña implacable
 - Vuelve el multijugador de id
+- Una campaña implacable
 - Domina a tus rivales en frenéticos combates al estilo arena característico de DOOM
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SSTT7FH/?tag=tolees-21)
