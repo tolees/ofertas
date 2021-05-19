@@ -28,8 +28,8 @@ Ahora mismo tienes [Sennheiser 5 Chat - Auriculares para PC  Color Negro](https:
 
 🔎:
 
-- Pc 5 Chat
 - Cascos/Auriculares con Cable
 - La tecnología que siempre buscas
+- Pc 5 Chat
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FY5LCH7/?tag=tolees-21)
