@@ -30,7 +30,7 @@ Tienes [Case Logic DCB-302-ANTHRACITE Bolsa para Cámara de Fotos y Vídeo](http
 
 - Bolsillo con cremallera para tarjetas de memoria y otros pequeños accesorios
 - Garantiza un almacenamiento seguro y cómodo acceso
-- Funda de cámara compatible con la mayoría de las cámaras compactas
 - Correa para el hombro extraíble y cinturón para facilitar el transporte
+- Funda de cámara compatible con la mayoría de las cámaras compactas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BT80PAM/?tag=tolees-21)

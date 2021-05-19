@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Webcam con Micrófono Estéreo  EKACOM 108 con un 50.07 % de descuento'
-date: 2021-05-17 21:37:15
+date: 2021-05-19 15:50:07
 image: 'https://m.media-amazon.com/images/I/41Rt08fGKUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EKACOM'
 buyurl: 'https://www.amazon.es/dp/B08DJ1XD13/?tag=tolees-21'
 descuento: '50.07'
-average: '37.078'
+average: '35.3083333333333'
 ---
 
 En este momento está [Webcam con Micrófono Estéreo  EKACOM 1080P Full HD Cámara Web USB2.0 con Cubierta de Privacidad para Video Chat/Estudios/Juegos/Grabación  Plug y Play PC Web Cam  Compatible con Windows  Mac y Android](https://www.amazon.es/dp/B08DJ1XD13/?tag=tolees-21) a 26.46 EUR (original: 52.99 EUR) (50.07 %  de descuento) en el siguiente enlace!
