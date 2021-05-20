@@ -29,7 +29,7 @@ Tienes [Old Spice Swagger After Shave Loción - 100 ml](https://www.amazon.es/dp
 ℹ️:
 
 - Texturas: Loción
-- Tipo de Piel: Todo Tipo de Pieles
 - Propiedades: Calmante /, Refrescante
+- Tipo de Piel: Todo Tipo de Pieles
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00K6JA4G0/?tag=tolees-21)
