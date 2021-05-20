@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE W NP Tank All Over Mesh Camiseta si al 40.20 % de descuento'
-date: 2021-04-20 13:17:52
+date: 2021-05-20 07:27:42
 image: 'https://m.media-amazon.com/images/I/417Ga7vfJyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07FKCJFVZ/?tag=tolees-21'
 descuento: '40.20'
-average: '19.742'
+average: '18.9433333333333'
 ---
 
 Ahora mismo tienes [NIKE W NP Tank All Over Mesh Camiseta sin Mangas  Mujer  Black/White  M](https://www.amazon.es/dp/B07FKCJFVZ/?tag=tolees-21) a 14.95 EUR (original: 25.0 EUR) (40.20 %  de descuento) en el siguiente enlace!

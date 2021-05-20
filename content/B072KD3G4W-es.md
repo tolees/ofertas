@@ -29,7 +29,7 @@ Tienes [Lee Twin Pack Crew Camiseta  Blanco  White Ai12   Large 2 para Hombre](h
 🔎:
 
 - Fabricadas en tejido ligero que ofrece comodidad
-- Camisetas para hombres
 - Modelo clásico
+- Camisetas para hombres
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072KD3G4W/?tag=tolees-21)
