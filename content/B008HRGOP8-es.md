@@ -28,12 +28,12 @@ En este momento está [Bosch Professional 2 608 642 511 Hoja de Sierra Circular 
 
 🔎:
 
-- Diámetro exterior mm: 300
 - Precio anterior: 69,7 Eur
-- Anchura de corte (b1) mm: 3,2
+- Resultado de corte: 4
 - Grosor del disco (b2) mm: 2,2
+- Diámetro exterior mm: 300
 - Anchura de corte (b1) mm / Grosor del disco (b2) mm: 3,2/2,2
 - Ángulo de expulsión ° w1: 5
-- Resultado de corte: 4
+- Anchura de corte (b1) mm: 3,2
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008HRGOP8/?tag=tolees-21)

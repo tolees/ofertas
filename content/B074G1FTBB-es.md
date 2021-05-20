@@ -29,7 +29,7 @@ Está [Philips Lighting - Philips bombilla LED vela mate casquillo fino E14  7 W
 ℹ️:
 
 - Bombillas LED de bajo consumo, ahorra hasta un 80% de energía
-- Larga duración: hasta 15 años (15.000 horas)
 - Iluminación funcional, es mate para no proyectar reflejos cuando ilumina
+- Larga duración: hasta 15 años (15.000 horas)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074G1FTBB/?tag=tolees-21)
