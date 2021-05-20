@@ -28,9 +28,9 @@ Tienes [Nike Court Royale  Zapatillas de Gimnasia para Hombre  Blanco  White/Gam
 
 ℹ️:
 
+- Warnhinweis: Keine / nicht relevant
 - Hochwertiges Leder ist strapazierfähig und langlebig
 - Der Court Royale ist ein Retro-Sneaker für Herren.
-- Warnhinweis: Keine / nicht relevant
 - Komfortable Innensohle
 - Gummisohle mit Fischgrätenmuster für eine strapazierfähige Traktion
 
