@@ -29,9 +29,9 @@ Está [HIGHLANDER - Tumbona y Cama de campin  Color Oliva  FUR008](https://www.a
 ℹ️:
 
 - FUR008
-- tumbona
-- highlander
 - campamento
 - gsg
+- tumbona
+- highlander
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0025YIAP6/?tag=tolees-21)

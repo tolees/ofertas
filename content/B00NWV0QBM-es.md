@@ -28,9 +28,9 @@ Tienes [Medisana cm 840 Espejo de Maquillaje Redondo  Espejo de Mesa con Ilumina
 
 ℹ️:
 
-- Alta calidad: El espejo cosmético 2 en 1 CM 840 de Medisana convence por su diseño moderno y elegante, así como por la alta calidad de su acabado.
-- Iluminación LED: Este anillo de iluminación uniforme de 18 LED blancos de bajo consumo ofrece una visión perfecta para el cuidado facial
 - Zoom de 5 aumentos: Con la ayuda del dispositivo rotatorio tiene la posibilidad de elegir entre la vista normal y el aumento de 5 aumentos
 - Funciona con pilas: El espejo cosmético CM 840 funciona con pilas, por lo que puede utilizarlo en casa o de viaje
+- Alta calidad: El espejo cosmético 2 en 1 CM 840 de Medisana convence por su diseño moderno y elegante, así como por la alta calidad de su acabado.
+- Iluminación LED: Este anillo de iluminación uniforme de 18 LED blancos de bajo consumo ofrece una visión perfecta para el cuidado facial
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NWV0QBM/?tag=tolees-21)
