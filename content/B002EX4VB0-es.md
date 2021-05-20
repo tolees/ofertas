@@ -28,10 +28,10 @@ Tienes [Bosch Home and Garden - Bosch PKS 66 AF - Sierra circular  1600 W  disc
 
 ℹ️:
 
-- Adecuada para discos de sierra circular con un diámetro nominal de 190 mm
 - Sierra circular PKS 66 AF con carril guía: fuerza y precisión en cortes rectos
-- Trabajo limpio, puesto que el 80 % de las virutas se recogen en el depósito CleanSystem incorporado
+- Adecuada para discos de sierra circular con un diámetro nominal de 190 mm
 - Suministro de serie: PKS 66 AF, depósito CleanSystem, CutControl, tres elementos de carril guía (cada uno de 35 cm), disco de sierra Speedline Wood (diámetro de 190 mm), tope paralelo, caja de cartón
+- Trabajo limpio, puesto que el 80 % de las virutas se recogen en el depósito CleanSystem incorporado
 - Realiza incluso cortes largos y precisos gracias al carril guía incluido
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B002EX4VB0/?tag=tolees-21)

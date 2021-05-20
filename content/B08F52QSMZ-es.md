@@ -28,10 +28,10 @@ Ahora mismo tienes [Mascarilla IDOIT mascarilla desechable de 3 capas  tipo ganc
 
 🔎:
 
-- Mascarilla de 3 capas hecho de material de polipropileno puede bloquear el polvo y proporcionar una buena permeabilidad al aire. El tamaño es de 17,5 * 9,5 cm . Solo para adultos
+- Use aretes altamente elásticos, con un diseño de puente nasal, es perfectamente adecuado para la mayoría de hombres o mujeres adultos y se adapta a casi todas las formas de la cara
 - La mascarilla es desechable y no se recomienda reutilizarla. Se recomienda cambiar cada 4 horas en un lugar con mucha gente
 - Esta es una máscara universal.solo es adecuada para el uso diario
-- Use aretes altamente elásticos, con un diseño de puente nasal, es perfectamente adecuado para la mayoría de hombres o mujeres adultos y se adapta a casi todas las formas de la cara
 - Nuestras mascarilla desechables han pasado todas las certificaciones y cumplen con los estándares internacionales de seguridad. （Estándar de producto: GB / T 32610-2016）
+- Mascarilla de 3 capas hecho de material de polipropileno puede bloquear el polvo y proporcionar una buena permeabilidad al aire. El tamaño es de 17,5 * 9,5 cm . Solo para adultos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F52QSMZ/?tag=tolees-21)

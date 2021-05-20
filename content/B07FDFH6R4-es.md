@@ -28,9 +28,9 @@ Tienes [Superdry Orange Label Vntge Emb S/S tee Camiseta  Negro  Black 02A   Lar
 
 🔎:
 
+- Tiene un tejido ligero y suave
+- Pequeño logo estampado en el pecho
 - Adecuada para el uso diario
 - Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
-- Pequeño logo estampado en el pecho
-- Tiene un tejido ligero y suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FDFH6R4/?tag=tolees-21)

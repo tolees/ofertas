@@ -30,8 +30,8 @@ En este momento está [Dremel Platinum Edition 4000 - Multiherramienta  175 W  k
 
 - Control electrónico de retroalimentación para mejorar el par de torsión y el rendimiento
 - Gran versatilidad gracias a los 6 complementos incluidos: complemento de cabezal angular, complemento de cortadora lineal y circular, complemento de eje flexible, complemento de guía de corte, complemento de plataforma moldeadora y empuñadura de detalle
-- Control total de la velocidad variable (5000 - 35000 rpm) para lograr una gran precisión
-- Empuñadura suave en todas las áreas de agarre para optimizar el manejo
 - Motor de alta potencia de 175 W para un mayor rendimiento
+- Empuñadura suave en todas las áreas de agarre para optimizar el manejo
+- Control total de la velocidad variable (5000 - 35000 rpm) para lograr una gran precisión
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005OQECL8/?tag=tolees-21)
