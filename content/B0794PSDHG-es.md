@@ -28,10 +28,10 @@ Tienes [PUMA Liga TR JSY Camiseta de Manga Corta  Hombre  Amarillo  Cyber Yellow
 
 🔎:
 
-- Costura lateral hacia atrás
-- Corte recto
-- Panel bajo la axila
-- Bajo delantero liso
 - Logotipo del felino PUMA en la parte derecha del pecho
+- Corte recto
+- Bajo delantero liso
+- Costura lateral hacia atrás
+- Panel bajo la axila
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0794PSDHG/?tag=tolees-21)

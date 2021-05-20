@@ -28,12 +28,12 @@ Tienes [Bosch Home and Garden - Bosch PSM 100 A - Multilijadora  3 hojas de lija
 
 ℹ️:
 
-- Ligera y compacta, perfecta para lijar en zonas de difícil acceso, así como en superficies pequeñas y medianas
-- PSM 100 A: la lijadora multitalento de fácil manejo
-- Placa lijadora dividida en dos: para el aprovechamiento óptimo de la hoja de lija, la punta delta de la hoja y de la placa pueden soltarse y girarse sin esfuerzos
-- Incluye: Multilijadora PSM 100 A, 3 hojas de lija K 80/ K 120/ K 160, maletín
-- Cierre de cardillo para el cambio rápido de la hoja de lija
-- Conexión para aspiración de polvo para aspiradores universales
 - Trabajo limpio gracias al sistema microfiltro: el elemento de aspiración integrado aspira el polvo directamente al interior del depósito del sistema microfiltro suministrado
+- Cierre de cardillo para el cambio rápido de la hoja de lija
+- Placa lijadora dividida en dos: para el aprovechamiento óptimo de la hoja de lija, la punta delta de la hoja y de la placa pueden soltarse y girarse sin esfuerzos
+- PSM 100 A: la lijadora multitalento de fácil manejo
+- Conexión para aspiración de polvo para aspiradores universales
+- Ligera y compacta, perfecta para lijar en zonas de difícil acceso, así como en superficies pequeñas y medianas
+- Incluye: Multilijadora PSM 100 A, 3 hojas de lija K 80/ K 120/ K 160, maletín
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IPIYLO0/?tag=tolees-21)

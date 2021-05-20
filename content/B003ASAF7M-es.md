@@ -29,10 +29,10 @@ Ahora mismo tienes [Bosch Home and Garden - Bosch PST 700 E - Sierra de calar co
 🔎:
 
 - Potente motor de 500 W y profundidad de corte de 70 mm en madera: permite realizar con facilidad incluso los trabajos más pesados
-- Con función de soplado de aire (conexión adicional) para una vista clara de la línea de corte en todo momento
-- Con tamaño compacto, peso reducido y manejabilidad para un gran comodidad al usuario y un control máximo de la herramienta
 - Precisión en todos los materiales gracias al probado control electrónico de Bosch: control del número de carreras mediante el pulsador de conmutación para un inicio sencillo del corte y para trabajar en función del tipo de material
-- Incluye: sierra de calar PST 700E y maletín de transporte
 - El SDS de Bosch facilita un cambio de la hoja de sierra seguro y sin esfuerzo en cuestión de segundos y sin herramientas
+- Con función de soplado de aire (conexión adicional) para una vista clara de la línea de corte en todo momento
+- Incluye: sierra de calar PST 700E y maletín de transporte
+- Con tamaño compacto, peso reducido y manejabilidad para un gran comodidad al usuario y un control máximo de la herramienta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003ASAF7M/?tag=tolees-21)

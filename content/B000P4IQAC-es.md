@@ -28,12 +28,12 @@ Tienes [Bosch Professional - Bosch X-Line - Maletín de 33 unidades para taladra
 
 🔎:
 
-- Madera: diámetro de 3-8 mm, piedra: diámetro de 4-8 mm y metal: diámetro de 2-5 mm
-- Diez puntas de atornillar para los tornillos más habituales con cabeza Phillips, Pozidriv, Torx y de ranura longitudinal; 3 llaves de vaso para tornillos hexagonales
-- Nota: al perforar metal se recomienda la utilización de líquido de refrigeración como, por ejemplo, aceite para corte universal Bosch 2 607 001 409
-- Apropiado para todas las marcas de herramientas eléctricas
-- Aviso de seguridad: utilizar la protección necesaria según la aplicación: perforar metal: gafas protectoras; perforar madera: gafas protectoras y máscara contra el polvo; perforar piedra: gafas protectoras, máscara contra el polvo, orejeras y guantes
-- Incluye: 7 brocas para metal; 5 brocas para piedra; 6 brocas para madera; 10 puntas de atornillar; 3 llaves de vaso para tornillos hexagonales; 1 portapuntas universal magnético y 1 avellanador
 - Práctico maletín X-Line Bosch que permite mantener en orden y en una buena disposición todos los contenidos
+- Aviso de seguridad: utilizar la protección necesaria según la aplicación: perforar metal: gafas protectoras; perforar madera: gafas protectoras y máscara contra el polvo; perforar piedra: gafas protectoras, máscara contra el polvo, orejeras y guantes
+- Madera: diámetro de 3-8 mm, piedra: diámetro de 4-8 mm y metal: diámetro de 2-5 mm
+- Incluye: 7 brocas para metal; 5 brocas para piedra; 6 brocas para madera; 10 puntas de atornillar; 3 llaves de vaso para tornillos hexagonales; 1 portapuntas universal magnético y 1 avellanador
+- Nota: al perforar metal se recomienda la utilización de líquido de refrigeración como, por ejemplo, aceite para corte universal Bosch 2 607 001 409
+- Diez puntas de atornillar para los tornillos más habituales con cabeza Phillips, Pozidriv, Torx y de ranura longitudinal; 3 llaves de vaso para tornillos hexagonales
+- Apropiado para todas las marcas de herramientas eléctricas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000P4IQAC/?tag=tolees-21)

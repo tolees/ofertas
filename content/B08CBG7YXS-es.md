@@ -29,7 +29,7 @@ Ahora mismo tienes [Reebok Royal CLJOG 3.0  Zapatillas de Running Mujer  Blanco/
 🔎:
 
 - Suela de caucho.
-- Parte superior de piel y malla.
 - Mediasuela de EVA para una amortiguación ligera.
+- Parte superior de piel y malla.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CBG7YXS/?tag=tolees-21)
