@@ -28,11 +28,11 @@ Ahora mismo tienes [Sebago Classic Dan  Náuticos Hombre  Negro 902  39 EU](http
 
 🔎:
 
+- Forro: sin forro.
+- Material de la suela: piel.
 - Parte superior: otro cuero
 - Tipo de tacón: plano.
-- Tamaño: Regular
-- Forro: sin forro.
 - Plantilla: piel.
-- Material de la suela: piel.
+- Tamaño: Regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P8PV2HC/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Bdwing Silicona Sensorial Fidget Juguete  Push and Pop Bubble Sensory To
 
 🔎:
 
-- 🟢Multi-color y Multi-formas: Colores-amarillo, púrpura, naranja, verde; Formas-redondas, cuadradas; Los colores brillantes te dan una sensación viva, feliz y excitante; Junto con un sonido dulce y nítido te hace embriagador.
 - 🟡Tamaño: 12.5x12.5x1.5cm, Peso-63g(Redondo), 78g(Cuadrado).
+- 🟢Multi-color y Multi-formas: Colores-amarillo, púrpura, naranja, verde; Formas-redondas, cuadradas; Los colores brillantes te dan una sensación viva, feliz y excitante; Junto con un sonido dulce y nítido te hace embriagador.
 - 🔵Características: Juguete para aliviar la ansiedad y el estrés, perfecto para niños, adultos, autismo, trastorno obsesivo-compulsivo, TDAH, etc. como regalos de Navidad, regalos de cumpleaños, regalos de Halloween para ejercitar las habilidades cerebrales, liberar el estrés, aliviar la fatiga, eliminar la ansiedad y ayudar a restaurar el estado de ánimo.
-- 🔴Material: Autismo necesidades especiales alivio del estrés está hecho de silicona; Duradero, ecológico y lavable; Inofensivo para los humanos y las mascotas.
 - 🟣Occasions: Cada burbuja sensorial fidget juguete puede soportar al menos 10.000 extrusiones; Este colorido Último juego perdido juguetes educativos puede ser usado en muchos lugares, oficinas, hogares, fiestas, escuelas, etc.
+- 🔴Material: Autismo necesidades especiales alivio del estrés está hecho de silicona; Duradero, ecológico y lavable; Inofensivo para los humanos y las mascotas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08NCDLN89/?tag=tolees-21)

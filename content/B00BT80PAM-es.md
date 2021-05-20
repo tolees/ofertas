@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.71 % en Case Logic DCB-302-ANTHRACITE Bolsa para'
-date: 2021-05-19 14:07:05
+date: 2021-05-20 17:59:13
 image: 'https://m.media-amazon.com/images/I/61dkhYPPjNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Case Logic DCB-302-ANTHRACITE Bolsa para Cámara de Fotos y Vídeo](http
 
 ℹ️:
 
-- Bolsillo con cremallera para tarjetas de memoria y otros pequeños accesorios
-- Garantiza un almacenamiento seguro y cómodo acceso
 - Correa para el hombro extraíble y cinturón para facilitar el transporte
 - Funda de cámara compatible con la mayoría de las cámaras compactas
+- Bolsillo con cremallera para tarjetas de memoria y otros pequeños accesorios
+- Garantiza un almacenamiento seguro y cómodo acceso
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BT80PAM/?tag=tolees-21)
