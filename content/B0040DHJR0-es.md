@@ -28,10 +28,10 @@ Tienes [Nostalgic-Art - You Are Leaving Nos.  Berlín  Mini-Sign/Metal Postal](h
 
 ℹ️:
 
-- Escribir en el reverso (recubierto de papel).
 - Fabricado en Alemania.
 - De chapa de acero extrafuerte.
 - Tamaño: 10 x 14 cm.
+- Escribir en el reverso (recubierto de papel).
 - -
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0040DHJR0/?tag=tolees-21)
