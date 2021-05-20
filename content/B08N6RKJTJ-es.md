@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iWotto E light V 16 - Luz Emergencia Coc al 36.40 % de descuento'
-date: 2021-05-19 10:50:58
+date: 2021-05-20 10:58:05
 image: 'https://m.media-amazon.com/images/I/4149rEAh5vS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'iWotto E light'
 buyurl: 'https://www.amazon.es/dp/B08N6RKJTJ/?tag=tolees-21'
 descuento: '36.40'
-average: '19.975'
+average: '19.4444444444444'
 ---
 
 Está [iWotto E light V 16 - Luz Emergencia Coche + Linterna luz Frontal - Señal V16 Baliza Emergencia intensa  Accesorio de Coche Baliza Emergencia homologada/autorizada por DGT  Naranja ](https://www.amazon.es/dp/B08N6RKJTJ/?tag=tolees-21) con 36.40 de descuento por 15.2 EUR (original: 23.9 EUR) en el siguiente enlace!

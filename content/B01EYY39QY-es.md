@@ -28,8 +28,8 @@ Tienes [Pink Royal - Rosa Royal Dry Gin  1 x 0 7 l ](https://www.amazon.es/dp/
 
 🔎:
 
-- 4 Destilaciones en alambique de cobre
-- La botella se inspira en el legendario diamante rosa Khavaraya
 - Ginebra rosa/pink gin con arandanos, moras y frambuesas.
+- La botella se inspira en el legendario diamante rosa Khavaraya
+- 4 Destilaciones en alambique de cobre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01EYY39QY/?tag=tolees-21)

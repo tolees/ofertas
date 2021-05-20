@@ -28,7 +28,7 @@ Está [Mepamsa 1120203486 - Mando a Distancia IR inalámbrico  Cooker Hoods  IR 
 
 ℹ️:
 
-- 40,00
 - Electrodomésticos
+- 40,00
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00K7WOK16/?tag=tolees-21)

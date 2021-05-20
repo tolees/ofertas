@@ -29,8 +29,8 @@ En este momento está [Geomag Mechanics Construcciones magnéticas y juegos educ
 🔎:
 
 - Deja libre tu imaginación
-- Dales movimiento
 - Construye con geomag
 - De la marca: Geomag
+- Dales movimiento
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00IZ4CUD8/?tag=tolees-21)
