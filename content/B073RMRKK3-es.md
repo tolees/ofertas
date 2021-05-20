@@ -28,13 +28,13 @@ En este momento está [Silver HT - Funda para eReader Libro electrónico eBook d
 
 🔎:
 
-- Funda kindle paperwhite
-- Funda para ebook bq cervantes 4
 - Compatible con kindle, bq, sony, spc, wolder, woxter, etc
 - Compatible con lectores de libro electrónico de hasta 6
-- Material: abs / tpu
-- Diseño propio; hergestellt in barcelona
-- Dimensiones del producto: 190 x 135 x 20 (mm)
 - Funda para ebook spc
+- Funda para ebook bq cervantes 4
+- Material: abs / tpu
+- Dimensiones del producto: 190 x 135 x 20 (mm)
+- Funda kindle paperwhite
+- Diseño propio; hergestellt in barcelona
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073RMRKK3/?tag=tolees-21)
