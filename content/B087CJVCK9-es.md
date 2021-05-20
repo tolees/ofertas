@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kasedo - Warhammer 40 000: Mechanicus al 36.08 % de rebaja'
-date: 2021-05-18 18:41:01
+date: 2021-05-20 00:18:55
 image: 'https://m.media-amazon.com/images/I/51kBCmYbqmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,21 +28,21 @@ Ahora mismo tienes [BARCELÓ Imperial Ron - 700 ml  141.21 ](https://www.amazon.
 
 🔎:
 
-- Volumen: 700.0 mililitros
-- Su aroma se caracteriza por la riqueza de notas de vainilla, fruta seca escarchada y caramelo, matices a madera y tostados sutiles, en boca es suave, redondo, ligero, sedoso y noble, ofrece recuerdos a vainilla, fruta seca, melaza y caramelo
-- Volumen paquete: 700.0 mililitros
-- Ron Dominicano cuya calidad reside en: el control de la materia prima, caña de azúcar 100% dominicana, con sistema de añejamiento tradicional en barricas de roble americano ex-bourbon, la mezcla se compone de rones de alta gama envejecidos de 8-10 años
-- Volumen paquete: 700.0 mililitros
-- Ron Dominicano cuya calidad reside en: el control de la materia prima, caña de azúcar 100% dominicana, con sistema de añejamiento tradicional en barricas de roble americano ex-bourbon, la mezcla se compone de rones de alta gama envejecidos de 8-10 años
 - Botella de ron Barceló Imperial de 700 ml, ron 100% origen dominicano, cosechado, destilado y envejecido en República Dominicana, producción limitada dado su envejecimiento prolongado de 8 a 10 años en barricas de roble blanco americano
-- Su aroma se caracteriza por la riqueza de notas de vainilla, fruta seca escarchada y caramelo, matices a madera y tostados sutiles, en boca es suave, redondo, ligero, sedoso y noble, ofrece recuerdos a vainilla, fruta seca, melaza y caramelo
-- Botella de ron Barceló Imperial de 700 ml, ron 100% origen dominicano, cosechado, destilado y envejecido en República Dominicana, producción limitada dado su envejecimiento prolongado de 8 a 10 años en barricas de roble blanco americano
-- Volumen: 700.0 mililitros
-- Para disfrutarlo del mejor modo, degustar el ron Barceló Imperial, en un vaso de cristal, sólo o con hielo, Barceló recomienda un consumo responsable
-- Medalla de Oro Gold (Exceptional) 94 points: “Third highest review in The Aged Rum category.” – del BTI de Chicago, del International Review of Spirits
+- Volumen paquete: 700.0 mililitros
 - Para disfrutarlo del mejor modo, degustar el ron Barceló Imperial, en un vaso de cristal, sólo o con hielo, Barceló recomienda un consumo responsable
 - Contenido de alcohol (alc./vol.): 38.0 porcentaje por volumen
+- Para disfrutarlo del mejor modo, degustar el ron Barceló Imperial, en un vaso de cristal, sólo o con hielo, Barceló recomienda un consumo responsable
+- Su aroma se caracteriza por la riqueza de notas de vainilla, fruta seca escarchada y caramelo, matices a madera y tostados sutiles, en boca es suave, redondo, ligero, sedoso y noble, ofrece recuerdos a vainilla, fruta seca, melaza y caramelo
+- Volumen: 700.0 mililitros
 - Contenido de alcohol (alc./vol.): 38.0 porcentaje por volumen
+- Ron Dominicano cuya calidad reside en: el control de la materia prima, caña de azúcar 100% dominicana, con sistema de añejamiento tradicional en barricas de roble americano ex-bourbon, la mezcla se compone de rones de alta gama envejecidos de 8-10 años
+- Volumen: 700.0 mililitros
+- Botella de ron Barceló Imperial de 700 ml, ron 100% origen dominicano, cosechado, destilado y envejecido en República Dominicana, producción limitada dado su envejecimiento prolongado de 8 a 10 años en barricas de roble blanco americano
+- Su aroma se caracteriza por la riqueza de notas de vainilla, fruta seca escarchada y caramelo, matices a madera y tostados sutiles, en boca es suave, redondo, ligero, sedoso y noble, ofrece recuerdos a vainilla, fruta seca, melaza y caramelo
 - Medalla de Oro Gold (Exceptional) 94 points: “Third highest review in The Aged Rum category.” – del BTI de Chicago, del International Review of Spirits
+- Medalla de Oro Gold (Exceptional) 94 points: “Third highest review in The Aged Rum category.” – del BTI de Chicago, del International Review of Spirits
+- Ron Dominicano cuya calidad reside en: el control de la materia prima, caña de azúcar 100% dominicana, con sistema de añejamiento tradicional en barricas de roble americano ex-bourbon, la mezcla se compone de rones de alta gama envejecidos de 8-10 años
+- Volumen paquete: 700.0 mililitros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004EAFB2E/?tag=tolees-21)
