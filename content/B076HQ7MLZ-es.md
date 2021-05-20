@@ -28,11 +28,11 @@ Ahora mismo tienes [adidas CORE18 SW Top Sudadera  Hombre  Azul  Azul/Blanco   M
 
 🔎:
 
+- Logotipo de adidas bordado en el pecho.
 - Corte clásico más ancho y silueta recta.
-- Manga raglán.
+- Puños y dobladillo de canalé.
 - Cuenta con un pequeño logotipo de Adidas en el pecho
 - Mangas con ribete en contraste.
-- Logotipo de adidas bordado en el pecho.
-- Puños y dobladillo de canalé.
+- Manga raglán.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076HQ7MLZ/?tag=tolees-21)

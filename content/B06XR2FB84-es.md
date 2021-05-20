@@ -28,10 +28,10 @@ Tienes [Kelme - Zapatillas Precision](https://www.amazon.es/dp/B06XR2FB84/?tag=t
 
 🔎:
 
-- ROYAL
 - Cordones
-- 10
-- Futsal
 - Lavar a maquina a max 30º
+- Futsal
+- 10
+- ROYAL
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XR2FB84/?tag=tolees-21)

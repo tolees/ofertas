@@ -28,9 +28,9 @@ Tienes [Calvin Klein Cotton Twill Cap Gorra de béisbol  Negro  Black 001   Tall
 
 🔎:
 
-- Información sobre las tallas y medidas de la gorra: Ajustable - La tira trasera permite adaptarse a la mayoría de tallas cómodamente.
 - Bordado en el frontal
 - Visera curvada
+- Información sobre las tallas y medidas de la gorra: Ajustable - La tira trasera permite adaptarse a la mayoría de tallas cómodamente.
 - Tira ajustable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N9MR9GX/?tag=tolees-21)
