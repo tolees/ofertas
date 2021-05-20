@@ -28,8 +28,8 @@ Tienes [Torres Spiced  Licor  70 cl - 700 ml](https://www.amazon.es/dp/B07H5WLDN
 
 ℹ️:
 
-- Aroma a canela, notas frescas, balsámicas y especiadas con matices de vainilla y clavo. Paladar suave y sedoso.
 - Graduación: 35% vol.
+- Aroma a canela, notas frescas, balsámicas y especiadas con matices de vainilla y clavo. Paladar suave y sedoso.
 - Origen: Catalunya
 - Ideal para cócteles calientes, solo o con hielo.
 - Ideal para combinar con comidas complejas, elaboradas y picantes como gastronomía mexicana.

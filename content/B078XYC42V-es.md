@@ -28,10 +28,10 @@ Ahora mismo tienes [Remington Pro Air D5950 - Secador de Pelo Iónico  Concentra
 
 🔎:
 
-- 3 temperaturas, 2 velocidades y ráfaga de aire frío para fijar el peinado
-- Rejilla cerámica para una distribución uniforme del calor
-- Generador iónico: 90 % más de iones para un cabello brillante y sin encrespamiento
-- Potente secador de 2200 vatios
 - Incluye un concentrador; rejilla trasera desmontable para una limpieza fácil y gancho para colgar
+- Potente secador de 2200 vatios
+- 3 temperaturas, 2 velocidades y ráfaga de aire frío para fijar el peinado
+- Generador iónico: 90 % más de iones para un cabello brillante y sin encrespamiento
+- Rejilla cerámica para una distribución uniforme del calor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078XYC42V/?tag=tolees-21)
