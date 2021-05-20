@@ -28,10 +28,10 @@ En este momento está [THQ Nordic - The Hunter: Call of the Wild - 2019 Edition]
 
 🔎:
 
-- Juega con 8 amigos en modos competitivos y cooperativos
-- Comparte tus experiencias de caza y tu Club de Caza: Gánate el derecho a fardar
-- Con 4 reservas y parques nacionales diferentes, te enfrentarás a 25 especies para cazar
 - Una gran variedad de armas estarán disponibles en el juego, podrás equiparte con rifles, pistolas y arcos y personalizarlos con miras y diferentes tipos de munición
+- Con 4 reservas y parques nacionales diferentes, te enfrentarás a 25 especies para cazar
+- Comparte tus experiencias de caza y tu Club de Caza: Gánate el derecho a fardar
+- Juega con 8 amigos en modos competitivos y cooperativos
 - Explora 256 kilómetros cuadrados de diferentes terrenos, desde campos de sembrado hasta densos bosque
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07H3G3DK8/?tag=tolees-21)
