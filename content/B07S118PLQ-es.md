@@ -29,9 +29,9 @@ En este momento está [WMF 774066380 Quality One - Batería de cocina  6 piezas 
 🔎:
 
 - Las ollas sin escala pueden utilizarse en todos los tipos de cocina: cocinas de inducción, gas, eléctricas, vitrocerámicas. Gracias a la óptima distribución del calor, nada se quema.
-- Material: acero inoxidable Cromargan 18/10 pulido, sin revestimiento, inoxidable, apto para lavavajillas, horno y resistente al calor hasta 130 °C. Silicona Cristal.
-- La tapa de cristal permite observar el proceso de cocción. Apertura de vapor en la tapa, evita la formación de vacío, la salida de vapor incontrolada y las salpicaduras de agua en el horno.
 - Las asas ofrecen un agarre seguro y gracias a la tecnología Cool+ no se calientan durante el proceso de cocción. La construcción del suelo (TransTherm) garantiza una larga y uniforme conservación del calor.
 - Contenido: 2 cazuelas con tapa de 16 cm, 20 cm, 3 ollas para carne con tapa de 16 cm, 20 cm, 24 cm, 1 cacerola sin tapa de 16 cm. Número de artículo: 0774066380.
+- Material: acero inoxidable Cromargan 18/10 pulido, sin revestimiento, inoxidable, apto para lavavajillas, horno y resistente al calor hasta 130 °C. Silicona Cristal.
+- La tapa de cristal permite observar el proceso de cocción. Apertura de vapor en la tapa, evita la formación de vacío, la salida de vapor incontrolada y las salpicaduras de agua en el horno.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07S118PLQ/?tag=tolees-21)

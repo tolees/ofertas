@@ -28,9 +28,9 @@ Tienes [Furminator FURflex Small Dog Contour Head S](https://www.amazon.es/dp/B0
 
 🔎:
 
+- Elimina el exceso de pelo y el pelo suelto
+- Es adecuado para los perros de pelo largo y corto
 - Se adapta al contorno corporal natural del perro
 - El producto ofrece una depilación cómoda
-- Es adecuado para los perros de pelo largo y corto
-- Elimina el exceso de pelo y el pelo suelto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071JTKHX4/?tag=tolees-21)
