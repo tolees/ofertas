@@ -28,8 +28,8 @@ Tienes [G-STAR RAW Base-s Round Neck Camiseta  Teal Grey Htr 336-c046  Hombre](h
 
 🔎:
 
+- Bajo recto
 - Cuello redondo
 - Bordado de G-Star RAW en el pecho
-- Bajo recto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088C9STBX/?tag=tolees-21)

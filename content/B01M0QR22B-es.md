@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Dual m3.0 - Unidad Dual co al 56.27 % de descuento'
-date: 2021-05-18 19:28:10
+date: 2021-05-21 09:34:56
 image: 'https://m.media-amazon.com/images/I/31TsCQlX8oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B01M0QR22B/?tag=tolees-21'
 descuento: '56.27'
-average: '15.1708860759492'
+average: '15.1561249999998'
 ---
 
 Ahora mismo tienes [SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-USB en un extremo y un conector USB 3.0  128 GB](https://www.amazon.es/dp/B01M0QR22B/?tag=tolees-21) a 13.99 EUR (original: 31.99 EUR) (56.27 %  de descuento) en el siguiente enlace!
