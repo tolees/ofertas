@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Roche-Posay  Crema gel mousse limpiad con un 45.66 % de descuento'
-date: 2021-05-20 08:01:54
+date: 2021-05-21 11:40:11
 image: 'https://m.media-amazon.com/images/I/41FHzsg1j5S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'La Roche-Posay'
 buyurl: 'https://www.amazon.es/dp/B003JSEGNC/?tag=tolees-21'
 descuento: '45.66'
-average: '14.5361538461538'
+average: '14.4588888888888'
 ---
 
 En este momento está [La Roche-Posay  Crema gel mousse limpiador facial  400 ml](https://www.amazon.es/dp/B003JSEGNC/?tag=tolees-21) a 12.45 EUR (original: 22.91 EUR) (45.66 %  de descuento) en el siguiente enlace!

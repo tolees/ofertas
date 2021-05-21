@@ -28,8 +28,8 @@ Ahora mismo tienes [Love To Love Bolas Chinas - 100 gr](https://www.amazon.es/dp
 
 🔎:
 
-- Esta caja contiene unas bolas chinas en forma de cereza
 - Producto para adultos
+- Esta caja contiene unas bolas chinas en forma de cereza
 - Love To Love Bolas Chinas De Forma En Cereza!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00ET4YDJ2/?tag=tolees-21)

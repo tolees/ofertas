@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Tommy Hilfiger H2285ARLOW 1D  Zapatillas al 38.66 % de descuento'
-date: 2020-02-16 11:11:21
-image: 'https://m.media-amazon.com/images/I/312DWphR+hL._AC_._SL400_.jpg'
+title: 'Tommy Hilfiger H2285arlow 1d  Zapatillas al 49.47 % de descuento'
+date: 2021-05-21 10:53:34
+image: 'https://m.media-amazon.com/images/I/31HIm3ZDL4S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01MZWIYXY-es Tommy Hilfiger H2285ARLOW 1D Zapatillas para Hombre Azul...'
+slug: 'B01MZWIYXY-es Tommy Hilfiger H2285arlow 1d Zapatillas Hombre Azul...'
 sku: 'B01MZWIYXY-es'
-tags: [  ]
-actualPrice: 36.74 EUR
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','tommy hilfiger', ]
+actualPrice: 30.27 EUR
 currency: EUR
-price: 36.74
+price: 30.27
 comparePrice: 59.9 EUR
-prodname: 'Tommy Hilfiger H2285ARLOW 1D  Zapatillas para Hombre  Azul  Midnight   40 EU'
+prodname: 'Tommy Hilfiger H2285arlow 1d  Zapatillas Hombre  Azul  Midnight 403   40 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B01MZWIYXY/?tag=tolees-21'
-descuento: '38.66'
-average: '36.74'
+descuento: '49.47'
+average: '36.796'
 ---
 
-Está [Tommy Hilfiger H2285ARLOW 1D  Zapatillas para Hombre  Azul  Midnight   40 EU](https://www.amazon.es/dp/B01MZWIYXY/?tag=tolees-21) con 38.66 de descuento por 36.74 EUR (original: 59.9 EUR) en el siguiente enlace!
+Está [Tommy Hilfiger H2285arlow 1d  Zapatillas Hombre  Azul  Midnight 403   40 EU](https://www.amazon.es/dp/B01MZWIYXY/?tag=tolees-21) con 49.47 de descuento por 30.27 EUR (original: 59.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger H2285ARLOW 1D  Zapatillas](https://m.media-amazon.com/images/I/312DWphR+hL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01MZWIYXY/?tag=tolees-21)
+[![Tommy Hilfiger H2285arlow 1d  Zapatillas](https://m.media-amazon.com/images/I/31HIm3ZDL4S._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01MZWIYXY/?tag=tolees-21)
 
 ℹ️:
 
