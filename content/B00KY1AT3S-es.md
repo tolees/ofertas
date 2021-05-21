@@ -29,8 +29,8 @@ En este momento está [Electronic Arts - FIFA 15 - Edición Estándar](https://w
 🔎:
 
 - Los nuevos efectos visuales ponen a los aficionados sobre campos auténticos con césped que se desgasta conforme avanza el partido.
-- FIFA 15 recrea con todo detalle el deporte rey, para que los aficionados vivan su emoción desde el pitido inicial.
 - El nuevo control del jugador aumenta la capacidad de movimiento de los futbolistas, les da más control y personalidad con la pelota, lo que hace que los enfrentamientos cuerpo a cuerpo sean más satisfactorios que antes.
+- FIFA 15 recrea con todo detalle el deporte rey, para que los aficionados vivan su emoción desde el pitido inicial.
 - Plataforma: PlayStation Vita
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KY1AT3S/?tag=tolees-21)

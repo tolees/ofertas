@@ -28,11 +28,11 @@ En este momento está [Tommy Hilfiger Unlined Bralette Sujetador sin Aros  Gris 
 
 🔎:
 
-- Sin almohadilla para copas
 - Sin copas, sin forro
+- Banda de apoyo bajo el pecho
 - Escote delantero
 - Tirantes no ajustables
-- Banda de apoyo bajo el pecho
 - Algodón puro
+- Sin almohadilla para copas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WTLZQH/?tag=tolees-21)

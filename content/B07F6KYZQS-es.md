@@ -28,9 +28,9 @@ Está [REPSOL Limpia Parabrisas Concentrado Antimosquitos y Anticongelante  125 
 
 ℹ️:
 
-- Estilo: Específico en función del vehículo
-- La formulación, que incorpora compuestos anticongelantes y antimosquitos, garantiza la mejor limpieza en las lunas incluso a temperaturas muy bajas
-- Líquido para limpiar el parabrisas y las lunas traseras de todo tipo de vehículos
 - Alta calidad, 125ml
+- Líquido para limpiar el parabrisas y las lunas traseras de todo tipo de vehículos
+- La formulación, que incorpora compuestos anticongelantes y antimosquitos, garantiza la mejor limpieza en las lunas incluso a temperaturas muy bajas
+- Estilo: Específico en función del vehículo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F6KYZQS/?tag=tolees-21)
