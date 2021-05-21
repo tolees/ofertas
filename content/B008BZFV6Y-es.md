@@ -28,8 +28,8 @@ Está [Le Petit Marseillais – Jabón líquido Pur jabón – Bomba 300 ml
 
 ℹ️:
 
-- La base de este jabón es preparada según el reconocido artesanía de un maestro savonnier.
 - Este puro jabón líquido lava increíblemente suave y revela un perfume fresco y original para una buena higiene de las manos.
 - Elle es el caldero de aceites végétales procedente de la saponificación de origen natural.
+- La base de este jabón es preparada según el reconocido artesanía de un maestro savonnier.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B008BZFV6Y/?tag=tolees-21)
