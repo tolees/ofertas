@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.41 % en NGK 97999 Bujía de Encendido'
-date: 2021-05-19 14:38:43
+date: 2021-05-21 05:16:28
 image: 'https://m.media-amazon.com/images/I/31+Uc28+koL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
