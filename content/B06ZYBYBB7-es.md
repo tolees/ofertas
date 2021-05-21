@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kenwood kMX750BK – Robot de cocina 1000w al 35.77 % de descuento'
-date: 2021-05-20 19:51:34
+date: 2021-05-21 21:00:30
 image: 'https://m.media-amazon.com/images/I/31RGMrlLxyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kenwood'
 buyurl: 'https://www.amazon.es/dp/B06ZYBYBB7/?tag=tolees-21'
 descuento: '35.77'
-average: '310.174'
+average: '307.295'
 ---
 
 Ahora mismo tienes [Kenwood kMX750BK – Robot de cocina 1000w  procesador alimentos 6 velocidades  1000 W  0 Decibelios  Stainless steel  negro](https://www.amazon.es/dp/B06ZYBYBB7/?tag=tolees-21) a 292.9 EUR (original: 456.0 EUR) (35.77 %  de descuento) en el siguiente enlace!

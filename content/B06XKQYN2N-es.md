@@ -28,7 +28,7 @@ Ahora mismo tienes [Only Onlpoptrash Easy Colour Pant Pnt Noos  Pantalones para 
 
 🔎:
 
-- Pantalones cómodos.
 - Cintura elástica.
+- Pantalones cómodos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XKQYN2N/?tag=tolees-21)

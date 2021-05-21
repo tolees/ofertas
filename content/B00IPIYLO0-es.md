@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.64 % en Bosch Home and Garden - Bosch PSM 100 A '
-date: 2021-05-20 08:11:38
+date: 2021-05-21 21:20:18
 image: 'https://m.media-amazon.com/images/I/41OcUK1+aqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B00IPIYLO0/?tag=tolees-21'
 descuento: '48.64'
-average: '48.9216129032258'
+average: '48.564375'
 ---
 
 Tienes [Bosch Home and Garden - Bosch PSM 100 A - Multilijadora  3 hojas de lija K 80/ K 120/ K 160  maletín  100 W  nº de carreras en vacío: 26.000 opm  Ø circuito oscilante: 1 4 mm ](https://www.amazon.es/dp/B00IPIYLO0/?tag=tolees-21) con un 48.64 % de descuento con precio de oferta de 37.49 EUR (original: 72.99 EUR) en el siguiente enlace!
@@ -28,12 +28,12 @@ Tienes [Bosch Home and Garden - Bosch PSM 100 A - Multilijadora  3 hojas de lija
 
 ℹ️:
 
-- Trabajo limpio gracias al sistema microfiltro: el elemento de aspiración integrado aspira el polvo directamente al interior del depósito del sistema microfiltro suministrado
-- Cierre de cardillo para el cambio rápido de la hoja de lija
-- Placa lijadora dividida en dos: para el aprovechamiento óptimo de la hoja de lija, la punta delta de la hoja y de la placa pueden soltarse y girarse sin esfuerzos
 - PSM 100 A: la lijadora multitalento de fácil manejo
 - Conexión para aspiración de polvo para aspiradores universales
+- Placa lijadora dividida en dos: para el aprovechamiento óptimo de la hoja de lija, la punta delta de la hoja y de la placa pueden soltarse y girarse sin esfuerzos
+- Cierre de cardillo para el cambio rápido de la hoja de lija
 - Ligera y compacta, perfecta para lijar en zonas de difícil acceso, así como en superficies pequeñas y medianas
 - Incluye: Multilijadora PSM 100 A, 3 hojas de lija K 80/ K 120/ K 160, maletín
+- Trabajo limpio gracias al sistema microfiltro: el elemento de aspiración integrado aspira el polvo directamente al interior del depósito del sistema microfiltro suministrado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IPIYLO0/?tag=tolees-21)
