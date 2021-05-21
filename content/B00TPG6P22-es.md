@@ -28,9 +28,9 @@ Ahora mismo tienes [PNY FD16GATT4-EF - Memoria USB 2.0 de 16 GB  25 MB/s   color
 
 🔎:
 
+- Capacidad : 16 GB
 - Unidad flash USB 2.0
 - Velocidades de escritura de hasta 8 MB/s / Velocidades de lectura de hasta 25 MB/s
-- Capacidad : 16 GB
 - Diseño sin capuchón
 - Funciona con Windows 7, Windows 8, Windows Vista, Windows XP, Windows 2000, Mac OS 10.3 y posterior, Linux kernel 2.4+
 

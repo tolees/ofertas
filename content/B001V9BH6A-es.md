@@ -30,8 +30,8 @@ Está [Campingaz Twister Plus PZ  hornillo de gas para camping o festivales  fá
 
 - Diseño óptimizado: Compacto y ligero, con encendido piezo para un encendido instantáneo sin encendedor o fósforos, incluye pantalla térmica para proteger el botón de control durante el uso
 - Potencia: 2,900 vatios; tiempo de ebullición: 3 min 45 s per 1 litro; peso: 274 g; el paquete incluye: Campingaz Twister Plus PZ, funda de transporte, los cartuchos de gas se venden por separado
-- Muy fácil de manejar: La estufa funciona con cartuchos Campingaz CV300 plus y CV470 plus, cambio rápido de cartuchos incluso si no están vacíos, equipada con el sistema patentado Campingaz EasyClic
 - Sólido y eficiente: potente hornillo de un solo quemador con una potencia de 2900 vatios, diseño sólido y robusto; óptimo para camping, excursión con mochila o para festivales
 - Disponibilidad en todo el mundo: Funciona con cartuchos de gas Campingaz CV 300 Plus y CV 470 Plus, alta disponibilidad en más de 50 países; descripción del distribuidor en campingaz.com/gasfinder
+- Muy fácil de manejar: La estufa funciona con cartuchos Campingaz CV300 plus y CV470 plus, cambio rápido de cartuchos incluso si no están vacíos, equipada con el sistema patentado Campingaz EasyClic
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001V9BH6A/?tag=tolees-21)

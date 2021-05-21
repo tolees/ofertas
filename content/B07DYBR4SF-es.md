@@ -28,9 +28,9 @@ Tienes [Osram Vintage 1906 LED Bombilla Led Bombilla LED E27  2000 K  5W - 28W 
 
 🔎:
 
+- Consumo de energía 5 kWh/1000 h en 300 lm
 - Fácil intercambio de estándar bombillas, auténtico repuestos para una bombilla de 28 W (aplicaciones exteriores solo en luminarias adecuadas)
 - Luz blanca cálida para bien convienen y relajarse en sala de estar, dormitorio, y habitación
-- Consumo de energía 5 kWh/1000 h en 300 lm
 - Inmediatamente plena luz, sin tiempo de calentamiento
 - Larga duración – hasta 15000 horas y hasta 100000 ciclos
 

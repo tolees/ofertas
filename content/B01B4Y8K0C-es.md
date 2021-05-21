@@ -28,10 +28,10 @@ Tienes [Turtle Wax FG7814 Cera en Pasta de Carnauba para Coche  500 ml Limpia pr
 
 ℹ️:
 
-- Combinando lo mejor de la naturaleza, con la última tecnología. Con Carnauba brasileña, la cera natural más resistente, es muy apreciada por su excepcional durabilidad y profundidad de brillo
 - Cera con carnauba para coches. Acabado perfecto, más brillante y duradero
+- Marca: Turtle Wax. Gama Green Line
+- Combinando lo mejor de la naturaleza, con la última tecnología. Con Carnauba brasileña, la cera natural más resistente, es muy apreciada por su excepcional durabilidad y profundidad de brillo
 - La cera de carnauba ofrece un acabado mejorado con resultados de larga duración
 - Mejorado con siliconas de nano-tecnología, genera un vínculo con la pintura en el nivel más profundo.
-- Marca: Turtle Wax. Gama Green Line
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01B4Y8K0C/?tag=tolees-21)
