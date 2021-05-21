@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA Smash V2 L Jr  Zapatillas Unisex Adulto  Negro Black Bl
 
 🔎:
 
-- Revestimiento: Sintético
-- Tipo de tacón: Plano
 - Material de la suela: Goma
 - Material exterior: Cuero
+- Revestimiento: Sintético
+- Tipo de tacón: Plano
 - Cierre: Cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077MJHMQF/?tag=tolees-21)
