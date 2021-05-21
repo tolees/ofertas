@@ -28,7 +28,7 @@ Tienes [Urban GoCo Funda de Edredon Individual Reversible con Estampado de Nueva
 
 ℹ️:
 
-- Funda para Edredón Tamaño: 135 x 200 cm, Almohada Tamaño: 50 x 75 cm
 - 48% Algodón, 52% Poliéster, Lavable a Máquina
+- Funda para Edredón Tamaño: 135 x 200 cm, Almohada Tamaño: 50 x 75 cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00OCSRBN0/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Lena 7168 - Mi Primera Moto  Circa 48 cm  Azul / Negro](https://www.amazo
 
 ℹ️:
 
-- Disponible en tres colores: rojo, rosa y azul.
 - Tamaño: 20,5 x 47,5 x 35 cm.
-- Desarrolla la coordinación física de tu bebé.
 - Seguro, cómodo y fácil de limpiar.
+- Desarrolla la coordinación física de tu bebé.
+- Disponible en tres colores: rojo, rosa y azul.
 - Bicicleta - paseo en bicicleta es adecuado para niños de hasta 3 años.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XXZRDI6/?tag=tolees-21)
