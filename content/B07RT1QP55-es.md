@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.50 % en Hero Solo Snack Infantil  50g'
-date: 2021-04-26 06:49:42
+date: 2021-05-21 19:35:41
 image: 'https://m.media-amazon.com/images/I/512-KzEzQgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hero'
 buyurl: 'https://www.amazon.es/dp/B07RT1QP55/?tag=tolees-21'
 descuento: '37.50'
-average: '1.308'
+average: '1.25666666666667'
 ---
 
 Tienes [Hero Solo Snack Infantil  50g](https://www.amazon.es/dp/B07RT1QP55/?tag=tolees-21) con un 37.50 % de descuento con precio de oferta de 1.0 EUR (original: 1.6 EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [Hero Solo Snack Infantil  50g](https://www.amazon.es/dp/B07RT1QP55/?tag=
 ℹ️:
 
 - Calidad Baby
-- No fritos
 - Ecológico
+- No fritos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RT1QP55/?tag=tolees-21)

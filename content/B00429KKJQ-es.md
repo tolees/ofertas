@@ -28,10 +28,10 @@ Tienes [Herradura Tequila AÑEJO 100% de Agave 40% - 700 ml in Giftbox](https://
 
 🔎:
 
-- Fundada en 1870, Casa Herradura es la única hacienda auténtica productora de tequila que queda en el mundo. En el interior de sus antiguos muros, elaboramos y embotellamos algunos de los mejores tequilas que se hayan probado jamás. Es aquí donde inventamos el primer reposado y extra añejo, que cambiaron el mundo del tequila para siempre.
 - Madurado durante 13 meses más de lo habitual en el sector para obtener una suavidad excepcional.
-- Sugerencia de preparación: Margarita Herradura
-- En la elaboración de Añejo se combinan técnicas de destilación modernas y tradicionales. Casa Herradura presentó este tequila al mundo en 1962. Este tequila reposa en barricas de roble blanco americano durante 25 meses .
 - Esta bebida excepcionalmente suave de color ámbar se funde en la lengua y libera notas de agave cocido, roble tostado y frutas secas.
+- En la elaboración de Añejo se combinan técnicas de destilación modernas y tradicionales. Casa Herradura presentó este tequila al mundo en 1962. Este tequila reposa en barricas de roble blanco americano durante 25 meses .
+- Sugerencia de preparación: Margarita Herradura
+- Fundada en 1870, Casa Herradura es la única hacienda auténtica productora de tequila que queda en el mundo. En el interior de sus antiguos muros, elaboramos y embotellamos algunos de los mejores tequilas que se hayan probado jamás. Es aquí donde inventamos el primer reposado y extra añejo, que cambiaron el mundo del tequila para siempre.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00429KKJQ/?tag=tolees-21)

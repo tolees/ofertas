@@ -28,9 +28,9 @@ Está [Badland - Code: Realize "Future Blessings"](https://www.amazon.es/dp/B085
 
 ℹ️:
 
-- Misterio
-- Romance
-- Aventura
 - Novela Visual
+- Misterio
+- Aventura
+- Romance
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0851FDSJD/?tag=tolees-21)

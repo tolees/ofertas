@@ -28,10 +28,10 @@ Está [Vanja Lector Tarjeta de Memoria SD/Micro SD  Adaptador Micro USB OTG y Le
 
 ℹ️:
 
-- 【Trabajar en la computadora】Lector de tarjetas SD/micro SD USB 2.0/USB tipo C SD / micro SD para la transmisión de datos, administre todos sus datos desde / a / en dispositivos y en múltiples plataformas (crear, copiar, editar, mover, eliminar, renombrar, Abrir, y muchas más).
-- 【Contenido del paquete】Un lector de tarjetas SD / TF USB con el logotipo "Vanja" (NO incluye tarjetas SD / Micro SD). Todos los productos vendidos por Vanja tienen una garantía de 18 meses sin problemas.
 - 【Trabajar en smartphone y tablet Android】Conéctese a un puerto micro USB y un puerto C Los teléfonos móviles y las tabletas admiten USB On-The-Go (USB OTG). Reproduce videos / músicas directamente desde la memoria externa sin ocupar espacio en el dispositivo.
-- 【Conecta y reproduce】Alimentación a través del puerto USB C / Micro USB / USB, no se necesita fuente de alimentación adicional. Fácil de usar, usar e instalar, no requiere instalación de software adicional.
+- 【Trabajar en la computadora】Lector de tarjetas SD/micro SD USB 2.0/USB tipo C SD / micro SD para la transmisión de datos, administre todos sus datos desde / a / en dispositivos y en múltiples plataformas (crear, copiar, editar, mover, eliminar, renombrar, Abrir, y muchas más).
 - 【Lector de tarjetas multifunción】La combinación estándar USB 2.0 (tipo A) y micro USB (tipo B) y USB C (tipo C) hace que este lector de tarjetas sea compatible con las tabletas de teléfonos inteligentes con Android micro USB y USB C que admiten la función OTG y computadoras con USB o USB tipo C Puerto.
+- 【Conecta y reproduce】Alimentación a través del puerto USB C / Micro USB / USB, no se necesita fuente de alimentación adicional. Fácil de usar, usar e instalar, no requiere instalación de software adicional.
+- 【Contenido del paquete】Un lector de tarjetas SD / TF USB con el logotipo "Vanja" (NO incluye tarjetas SD / Micro SD). Todos los productos vendidos por Vanja tienen una garantía de 18 meses sin problemas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01JJ1VDQK/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Georges Lalo 96442b bloque de caligrafía A3 50 hojas 80 G crema](htt
 
 ℹ️:
 
-- Rayas A3, papel crema, 50 hojas, 90 g, 3 páginas de guía para los pendientes y 1 página de modelo de escritura. Papel sin ácido.
-- Peso del bloque: 620 g
-- Tamaño: 42 x 31.80 x 0,7 cm
-- Color: Crema
 - Fabricado en Francia
+- Color: Crema
+- Tamaño: 42 x 31.80 x 0,7 cm
+- Rayas A3, papel crema, 50 hojas, 90 g, 3 páginas de guía para los pendientes y 1 página de modelo de escritura. Papel sin ácido.
 - Bloque ideal para comenzar la tinta solo o en grupo.
+- Peso del bloque: 620 g
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N925WUC/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [STANLEY STST1-70720 - Organizador SortMaster  Negro  Transpa
 
 🔎:
 
-- permite la unión y el transporte de hasta tres organizadores individuales
-- Accesorio original de Stanley
 - Módulos de quita y pon
 - Sistema de bloqueo innovador
+- Accesorio original de Stanley
+- permite la unión y el transporte de hasta tres organizadores individuales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00CF17IMA/?tag=tolees-21)
