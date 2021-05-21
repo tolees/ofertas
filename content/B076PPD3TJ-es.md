@@ -28,9 +28,9 @@ En este momento está [Hori - Mando Mini con cable  Azul   PS4/PC ](https://www.
 
 🔎:
 
+- Emulador de panel táctil
 - Sin lag: conexión con cable de 3 m
 - Diseño ergonómico ideal para manos pequeñas
-- Emulador de panel táctil
 - Licencia oficial de Sony
 - 100% funcional
 
