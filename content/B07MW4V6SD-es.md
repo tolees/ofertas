@@ -28,10 +28,10 @@ Está [Fischer Duoblade S 545676 - Tacos de yeso autoperforante  incluye tornill
 
 ℹ️:
 
+- Tamaño del tornillo: 4, 5 x 40 mm; contenido: 25 unidades
+- Mín; profundidad de perforación en montaje previo: 50 mm – mín; grosor hasta la primera capa de carga: 50 mm
 - Longitud de los tacos con punta de perforación: 44 mm; longitud de los tacos sin punta de taladro: 29 mm
 - Materiales de construcción: placas de yeso simples y doble, placas de fibra de yeso, placas de cemento ligeras
-- Tamaño del tornillo: 4, 5 x 40 mm; contenido: 25 unidades
 - Mín; profundidad de atornillado: 28 mm; profundidad de anclaje: 9, 5 - 25 mm
-- Mín; profundidad de perforación en montaje previo: 50 mm – mín; grosor hasta la primera capa de carga: 50 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MW4V6SD/?tag=tolees-21)

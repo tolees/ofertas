@@ -28,8 +28,8 @@ Está [PLAYMOBIL Country Transporte de Caballo con Holstein y Jinete en traje de
 
 ℹ️:
 
-- Contenido: 1 PLAYMOBIL Country Transporte de Caballo, Juego de 56 piezas con instrucciones: 1 Camión, 1 caballo, 1 figura, 53 accesorios, Material: plástico, LxPxA: 27x11x14.5 cm, 6928
 - 1 figura, 1 caballo, espacio en la cabina para 2 figuras, techo extraíble, rampa desplegable, puertas traseras abatibles, maletero para guardar accesorios y mucho mas
+- Contenido: 1 PLAYMOBIL Country Transporte de Caballo, Juego de 56 piezas con instrucciones: 1 Camión, 1 caballo, 1 figura, 53 accesorios, Material: plástico, LxPxA: 27x11x14.5 cm, 6928
 - Diversión para los pequeños amantes de los caballos: PLAYMOBIL Transporte de Caballos con caballo y posibilidad de transportar 2, jinete y otros accesorios para jugar
 - Juego de figuras para niños a partir de 5 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos

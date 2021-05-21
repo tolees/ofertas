@@ -28,8 +28,8 @@ Tienes [BAUSCH + LOMB - SofLens® 59 - Lentes de contacto](https://www.amazon.es
 
 🔎:
 
-- Cada vez que las use, deberá limpiarlas, aclararlas y desinfectarlas antes de volver a ponérselas.
 - Para miopía o hipermetropía.
+- Cada vez que las use, deberá limpiarlas, aclararlas y desinfectarlas antes de volver a ponérselas.
 - Uso diario. Reemplace las lentes cada 30 días o de acuerdo con la recomendación del profesional del cuidado de la visión.
 - Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión.
 
