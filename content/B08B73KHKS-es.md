@@ -28,10 +28,10 @@ En este momento está [Trust Tyro Webcam con Microfono PC Full HD 1080p  USB  En
 
 🔎:
 
-- Cámara web todo en uno, con calidad de audio y vídeo prémium. Para mejorar la experiencia con cámaras web: gran angular, alta resolución y colocación versátil
-- Vídeo a todo detalle: resolución Full HD 1080p y enfoque automático. Balance de blancos automático para un vídeo nítido en cualquier condición de luz
 - Colocación universal: se sujeta en el monitor, se coloca en el escritorio o se fija al trípode incluido. Fácil de instalar y usar: solo hay que conectarla a un puerto USB y listos
 - Funciona con todos los PC u ordenadores portátiles
+- Vídeo a todo detalle: resolución Full HD 1080p y enfoque automático. Balance de blancos automático para un vídeo nítido en cualquier condición de luz
 - Funciona con Skype y otros softwares de videollamada
+- Cámara web todo en uno, con calidad de audio y vídeo prémium. Para mejorar la experiencia con cámaras web: gran angular, alta resolución y colocación versátil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B73KHKS/?tag=tolees-21)
