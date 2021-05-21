@@ -28,7 +28,7 @@ Ahora mismo tienes [Kenwood kMX750BK – Robot de cocina 1000w  procesador alime
 
 🔎:
 
-- Estructura de metal fundido la línea suave y envolvente; Motor a enchufe directo y 1000 W de potencia máxima
 - Recipiente de acero inoxidable con capacidad de 4,6 l y sólida empuñadura ergonómica y tapa paraschizzi
+- Estructura de metal fundido la línea suave y envolvente; Motor a enchufe directo y 1000 W de potencia máxima
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06ZYBYBB7/?tag=tolees-21)

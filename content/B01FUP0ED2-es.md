@@ -28,8 +28,8 @@ Ahora mismo tienes [INSTITUTO ESPAÑOL crema corporal reparadora urea formato vi
 
 🔎:
 
-- Tipo de producto: Tratamiento corporal
 - Marca: Instituto Español
+- Tipo de producto: Tratamiento corporal
 - Género: Unisex Adulto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01FUP0ED2/?tag=tolees-21)

@@ -28,12 +28,12 @@ Ahora mismo tienes [H.Koenig RP320 Plancha de Piedra Natural  Grill  1300 W  Ace
 
 🔎:
 
+- Temperatura ajustable y con luz indicadora
 - Accesorios: manual de uso
+- Mangos de madera natural, recubrimiento antiadherente, pies antideslizantes y placa extraíble fácil de limpiar
+- Acero inoxidable
+- Potencia: 1300 w y seguridad anti-sobrecalentamiento para cocinar de manera rápida y segura
 - Plancha de piedra natural ideal para la preparación de carne, pescado y verduras sin añadir grasas
 - Dimensiones de la piedra de cocción: 37 x 23 cm perfecta para poder transportarla a donde quieras
-- Mangos de madera natural, recubrimiento antiadherente, pies antideslizantes y placa extraíble fácil de limpiar
-- Potencia: 1300 w y seguridad anti-sobrecalentamiento para cocinar de manera rápida y segura
-- Acero inoxidable
-- Temperatura ajustable y con luz indicadora
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01C302BSS/?tag=tolees-21)
