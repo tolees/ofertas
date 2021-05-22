@@ -28,10 +28,10 @@ Tienes [Razer Viper Mini - Ratón para Juegos  Ratón Gaming  Ambidiestro  61g d
 
 🔎:
 
-- Sensor óptico de 8500 PPP: Consigue la precisión de gran rendimiento y la puntería uniforme que necesitas para un juego competitivo con un sensor óptico bien equilibrado para velocidad y control
-- Switches ópticos para ratón Razer: Cada click que haces se acciona a la velocidad de la luz, sin desactivación de rebote, por lo que siempre serás el primero en apretar el gatillo, además los switches duran hasta 50 millones de clicks
-- Con tecnología Razer Chroma RGB: Gracias a los 16,8 millones de colores y un paquete de efectos de iluminación únicos podrás personalizar la iluminación inferior de Razer Viper Mini con Razer Synapse 3 y darle personalidad a tu estación de combate
 - Cable Razer Speedflex: El cable del Razer Viper Mini tiene una óptima flexibilidad y está diseñado para producir una resistencia mínima, para que puedas realizar movimientos más rápidos y suaves y lograr un óptimo grado de control
 - Un diseño ambidiestro ligero de 61 g: Sin necesidad de un diseño de panal, nuestro ratón más ligero permite un control suave y sin esfuerzos que no compromete en absoluto su gran resistencia; con seis botones programables para óptima practicidad
+- Switches ópticos para ratón Razer: Cada click que haces se acciona a la velocidad de la luz, sin desactivación de rebote, por lo que siempre serás el primero en apretar el gatillo, además los switches duran hasta 50 millones de clicks
+- Con tecnología Razer Chroma RGB: Gracias a los 16,8 millones de colores y un paquete de efectos de iluminación únicos podrás personalizar la iluminación inferior de Razer Viper Mini con Razer Synapse 3 y darle personalidad a tu estación de combate
+- Sensor óptico de 8500 PPP: Consigue la precisión de gran rendimiento y la puntería uniforme que necesitas para un juego competitivo con un sensor óptico bien equilibrado para velocidad y control
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084W6W9WB/?tag=tolees-21)
