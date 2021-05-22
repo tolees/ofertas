@@ -28,7 +28,7 @@ Ahora mismo tienes [Bosch Home and Garden - Bosch Taladro atornillador a baterí
 
 🔎:
 
-- 1 de Bosch Taladro atornillador a batería EasyDrill 12 (12 V, sin batería Power for all, 1,5 Ah, Cargador, Punta de destornillador)
 - 1 de Bosch X-Line - Maletín de 34 unidades para taladrar y atornillar
+- 1 de Bosch Taladro atornillador a batería EasyDrill 12 (12 V, sin batería Power for all, 1,5 Ah, Cargador, Punta de destornillador)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LH22ZNP/?tag=tolees-21)
