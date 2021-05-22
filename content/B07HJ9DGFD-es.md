@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NAME IT Nitida Pant Nmt Noos  Pantalones al 51.87 % de rebaja'
-date: 2021-05-14 13:46:17
+date: 2021-05-22 08:02:38
 image: 'https://m.media-amazon.com/images/I/31tmpHContL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NAME IT'
 buyurl: 'https://www.amazon.es/dp/B07HJ9DGFD/?tag=tolees-21'
 descuento: '51.87'
-average: '15.94'
+average: '15.35'
 ---
 
 Tienes [NAME IT Nitida Pant Nmt Noos  Pantalones para Niñas  Azul oscuro  Dark Sapphire   125  Talla del Fabricante: 110 ](https://www.amazon.es/dp/B07HJ9DGFD/?tag=tolees-21) con precio final de  12.99 EUR (original: 26.99 EUR) (51.87 %  de rebaja) aqui!
