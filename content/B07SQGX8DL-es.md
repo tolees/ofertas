@@ -28,8 +28,8 @@ En este momento está [Geox D Pontoise D  Zapatillas Mujer  Beige  Sand/Lt Gold 
 
 🔎:
 
-- Suela: sintética
-- Material interior: malla
 - Material exterior: piel lisa
+- Material interior: malla
+- Suela: sintética
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SQGX8DL/?tag=tolees-21)

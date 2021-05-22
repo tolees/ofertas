@@ -28,10 +28,10 @@ Ahora mismo tienes [Cerdá Zapatilla Loneta Baja Spiderman  Niño  Rojo Rojo C06
 
 🔎:
 
-- Bambas de Spiderman - etiqueta con detalle de la licencia cosida en la lengüeta de la zapatilla y purpurina en los laterales para darle un toque de alegría
-- Bambas niño con velcro - cierre mediente velcro ajustable para que se las puedan poner y quitar solos
-- Zapatillas tela niño - zapatillas de lona cómodas y frescas con detalles de Minnie sergrafiados sobre algodón, ¡perfectas para tener los pies fresquitos en verano!
-- Zapatillas infantiles reforzadas - refuerzo de goma en la puntera para garantizar la durabilidad de las zapatillas y que puedan seguir el ritmo de los peques
 - Zapatilla ligera niño - su suela de PVC inyectada hace que sean unas zapatillas ligeras y resistentes
+- Bambas niño con velcro - cierre mediente velcro ajustable para que se las puedan poner y quitar solos
+- Zapatillas infantiles reforzadas - refuerzo de goma en la puntera para garantizar la durabilidad de las zapatillas y que puedan seguir el ritmo de los peques
+- Bambas de Spiderman - etiqueta con detalle de la licencia cosida en la lengüeta de la zapatilla y purpurina en los laterales para darle un toque de alegría
+- Zapatillas tela niño - zapatillas de lona cómodas y frescas con detalles de Minnie sergrafiados sobre algodón, ¡perfectas para tener los pies fresquitos en verano!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MMDVRLD/?tag=tolees-21)

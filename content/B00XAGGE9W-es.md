@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fairy Espuma Activa - Lavavajillas  375  al 66.98 % de rebaja'
-date: 2021-05-19 07:02:47
+date: 2021-05-22 11:20:50
 image: 'https://m.media-amazon.com/images/I/41q1GrmAMsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Fairy Espuma Activa - Lavavajillas  375 ml](https://www.amazon.es/dp/B0
 
 🔎:
 
-- La botella de 375 ml ofrece 240 lavados
 - Puede usarse directamente sobre la esponja
+- La botella de 375 ml ofrece 240 lavados
 - La intensa espuma permite lavar de forma rápida y sencilla todo tipo de platos
 - Absorbe la grasa como si fuera un imán
 
