@@ -28,8 +28,8 @@ Está [Lee Rider Jacket Chaquetas Vaqueras  Camden Lavado  S/Tall para Hombre](h
 
 ℹ️:
 
+- Con 2 bolsillos en el pecho
 - Chaqueta para hombre
 - Tiene una etiqueta con el logotipo de la marca Lee
-- Con 2 bolsillos en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CVSX6YW/?tag=tolees-21)

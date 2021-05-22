@@ -28,10 +28,10 @@ Está [BELLA AURORA Tratamiento Facial Anti-Edad y Anti-Arrugas con Ácido Hialu
 
 ℹ️:
 
+- Bella Elixir de peonía aporta energía y luminosidad a la piel cansada y apagada. Repara la piel de las agresiones externas y previene la aparición de los signos de la edad. Día tras día, la piel recupera su belleza natural
+- Aplicar mañana y/o noche antes de la crema habitual sobre el rostro, cuello y escote, realizando un ligero masaje hasta su completa absorción. Recuerda complementar el tratamiento con bella día y bella noche
 - Con ácido hialurónico de doble peso molecular, previene la deshidratación de la piel y reduce la apariencia de arrugas y las líneas de expresión. Mejora la densidad y la elasticidad de la piel
 - Contiene extracto de peonía del Monte Jiri. Mejora la capacidad de autodefensa de la piel para protegerla de las agresiones medioambientales y del estrés diario. Su poder antioxidante neutraliza la acción de los radicales libres en la piel
 - Recomendado para mujeres a partir de los 35 años con primeros signos de envejecimiento que deseen recuperar el daño acumulado con el paso del tiempo
-- Bella Elixir de peonía aporta energía y luminosidad a la piel cansada y apagada. Repara la piel de las agresiones externas y previene la aparición de los signos de la edad. Día tras día, la piel recupera su belleza natural
-- Aplicar mañana y/o noche antes de la crema habitual sobre el rostro, cuello y escote, realizando un ligero masaje hasta su completa absorción. Recuerda complementar el tratamiento con bella día y bella noche
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GFMY7V6/?tag=tolees-21)

@@ -28,11 +28,11 @@ Ahora mismo tienes [El Naturalista Trivia  Zapatos de tacón con Punta Cerrada p
 
 🔎:
 
-- Tipo de tacón: Tacón ancho
 - Altura del tacón: 8.5 centímetros
-- Material de la suela: Goma
-- Material exterior: Cuero
 - Cierre: Hebilla
 - Revestimiento: Cuero
+- Tipo de tacón: Tacón ancho
+- Material exterior: Cuero
+- Material de la suela: Goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VWRM32M/?tag=tolees-21)

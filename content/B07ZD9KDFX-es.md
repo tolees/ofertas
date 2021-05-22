@@ -29,9 +29,9 @@ Tienes [Marca Amazon - Solimo Jabón de manos para pieles sensibles  4x500ml ](h
 🔎:
 
 - Dermatológicamente testado
-- Mantiene la piel saludable
-- Deja las manos frescas y limpias
-- Formulado con los mínimos ingredientes, contribuye al cuidado y equilibrio de todo tipo de pieles, especialmente para las más sensibles
 - Uso externo. Mantener fuera del alcance de los niños. No ingerir. Evitar el contacto con los ojos. En caso de contacto con los ojos, lavar inmediatamente con abundante agua
+- Mantiene la piel saludable
+- Formulado con los mínimos ingredientes, contribuye al cuidado y equilibrio de todo tipo de pieles, especialmente para las más sensibles
+- Deja las manos frescas y limpias
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZD9KDFX/?tag=tolees-21)
