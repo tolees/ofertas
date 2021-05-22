@@ -28,10 +28,10 @@ Ahora mismo tienes [Trodat 9072 M Tampón  metal  11 x 7 cm verde](https://ww
 
 🔎:
 
-- Apto para la mayoría de sellos manuales habitualmente usados en oficinas u oficinas domésticas (tinta con base de agua sin aceites ni disolventes)
 - Miles de impresiones limpias y nítidas
-- Tampón para entintar sellos manuales estuche metálico. El color del estuche indica el color de la tinta
+- Apto para la mayoría de sellos manuales habitualmente usados en oficinas u oficinas domésticas (tinta con base de agua sin aceites ni disolventes)
 - La tinta no se seca y se puede usar durante mucho tiempo
+- Tampón para entintar sellos manuales estuche metálico. El color del estuche indica el color de la tinta
 - Tinta para reentintar con base de agua . Frasco 24ml
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KTNSJNB/?tag=tolees-21)

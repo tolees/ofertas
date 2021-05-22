@@ -28,10 +28,10 @@ Ahora mismo tienes [Maped CROTULADOR FINO GRAPH PEPS STD BLISTER X4 749144 ](htt
 
 🔎:
 
-- Con punta de metal fino
-- Forma triangular para un mejor agarre
-- Contiene cada 1 x negro, azul, rojo, verde
-- ermüdungsfreie manejo
 - Capuchón con clip
+- Con punta de metal fino
+- Contiene cada 1 x negro, azul, rojo, verde
+- Forma triangular para un mejor agarre
+- ermüdungsfreie manejo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00IXQQ7NC/?tag=tolees-21)

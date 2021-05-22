@@ -28,9 +28,9 @@ Está [Exacompta 54371E - Carpeta con 2 anillas  A4  color negro](https://www.am
 
 ℹ️:
 
-- Carpeta hecha de cartón cubierto con polipropileno
-- Tiene una capacidad de almacenamiento de 275 hojas
-- Tiene cuatro anillas redondas y es resistente a múltiples manipulaciones
 - Las dimensiones son de 21 x 29.7 cm
+- Carpeta hecha de cartón cubierto con polipropileno
+- Tiene cuatro anillas redondas y es resistente a múltiples manipulaciones
+- Tiene una capacidad de almacenamiento de 275 hojas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002C6J1QE/?tag=tolees-21)

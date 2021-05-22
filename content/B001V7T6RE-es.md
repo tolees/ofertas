@@ -29,9 +29,9 @@ Está [crocs Baya  Zuecos Unisex Adulto  Azul  Navy   36/37 EU](https://www.amaz
 ℹ️:
 
 - Revestimiento: Sin forro
-- Cierre: Sin cordones
-- Material exterior: Espuma
-- Material de la suela: Goma
 - Tipo de tacón: Plano
+- Material exterior: Espuma
+- Cierre: Sin cordones
+- Material de la suela: Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001V7T6RE/?tag=tolees-21)

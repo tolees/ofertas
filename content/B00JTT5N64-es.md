@@ -28,10 +28,10 @@ Tienes [adidas Tabe 14 JSY - Camiseta para hombre  color blanco / negro  talla S
 
 🔎:
 
-- Confeccionada con tejido Climalite que repele la humedad
-- Extremos de las mangas en contraste, sutiles bandas diagonales del mismo color en el panel frontal
-- Detalles bordados, corte entallado
-- Interlock 100 % poliéster
 - Escote en pico de canalé en contraste
+- Interlock 100 % poliéster
+- Confeccionada con tejido Climalite que repele la humedad
+- Detalles bordados, corte entallado
+- Extremos de las mangas en contraste, sutiles bandas diagonales del mismo color en el panel frontal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00JTT5N64/?tag=tolees-21)
