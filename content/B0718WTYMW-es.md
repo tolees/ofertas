@@ -28,10 +28,10 @@ En este momento está [Rimmel London Stay Matte  Pintalabios Tono 800 Midnight  
 
 🔎:
 
-- Contiene polímeros seleccionado para la adherencia óptima de la piel
-- A prueba de besos y roces
 - Color intenso, mate, y semipermanente
 - Fórmula con aceite de coco y vitamina E para proteger los labios
+- Contiene polímeros seleccionado para la adherencia óptima de la piel
+- A prueba de besos y roces
 - Alto contenido en pigmentos para un mayor acabado mate aterciopelado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0718WTYMW/?tag=tolees-21)

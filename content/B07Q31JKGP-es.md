@@ -28,10 +28,10 @@ Está [Pediatopic Sun Loción Spray 200ml emulsión fluida  de alta protección.
 
 ℹ️:
 
-- Resistente al agua
-- Específica para las pieles infantiles atópicas y sensibles
 - Loción solar protectora e hidratante con protección 50+
+- Resistente al agua
 - No pica en los ojos
+- Específica para las pieles infantiles atópicas y sensibles
 - Refuerza la función protectora y mejora la tolerabilidad de la piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Q31JKGP/?tag=tolees-21)

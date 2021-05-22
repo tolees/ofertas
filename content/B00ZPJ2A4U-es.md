@@ -28,10 +28,10 @@ Tienes [Bourjois Push Up Máscara de pestañas Tono 71 Waterproof black  7 ml](h
 
 🔎:
 
-- Fórmula resistente al agua que curva las pestañas manteniendo la flexibilidad sin endurecerlas
-- Máscara de pestañas que da volumen y levanta las pestañas
 - Proporciona unas pestañas curvadas y gruesas sin grumos
 - Libre de parabenos y apta para ojos sensibles y usuarias de lentes de contacto
+- Máscara de pestañas que da volumen y levanta las pestañas
 - El cepillo elevador máximiza las pestañas desde la primera pasada
+- Fórmula resistente al agua que curva las pestañas manteniendo la flexibilidad sin endurecerlas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ZPJ2A4U/?tag=tolees-21)
