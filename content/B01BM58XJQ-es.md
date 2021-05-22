@@ -28,10 +28,10 @@ En este momento está [Remington Beard Boss MB4120 Barbero  Inalámbrico  Cuchil
 
 🔎:
 
+- Cuchillas CaptureTrim de filo serrado para un corte de máxima precisión
 - Funciona con pilas 2 pilas AAA incluidas
+- Peine ajustable con función de bloqueo y 9 longitudes de corte (de 1.5 a 18 milímetros)
 - Incluye también un cepillo para la limpieza
 - Cuchillas de acero inoxidable de puntas cómodas Lavables
-- Cuchillas CaptureTrim de filo serrado para un corte de máxima precisión
-- Peine ajustable con función de bloqueo y 9 longitudes de corte (de 1.5 a 18 milímetros)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01BM58XJQ/?tag=tolees-21)

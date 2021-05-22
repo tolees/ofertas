@@ -28,10 +28,10 @@ Tienes [STARBUCKS Pike Place Café De Grano Entero De Tostado Medio  4 Bolsa de 
 
 🔎:
 
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
-- Café de grano entero de STARBUCKS suave y con un toque de chocolate
 - Los cafés de tostado medio de STARBUCKS son suaves y equilibrados
-- Café con cuerpo y suaves toques de cacao y frutos secos tostados que equilibran la suave sensación en boca
 - Una taza de café intenso, agradable y equilibrado que podrás disfrutar a lo largo del día
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
+- Café con cuerpo y suaves toques de cacao y frutos secos tostados que equilibran la suave sensación en boca
+- Café de grano entero de STARBUCKS suave y con un toque de chocolate
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08SX7G8C4/?tag=tolees-21)
