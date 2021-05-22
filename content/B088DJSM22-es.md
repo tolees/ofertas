@@ -30,8 +30,8 @@ Ahora mismo tienes [ARCLOGY Quartz Jade Roll  Gua Sha Jade Roller Authentic Mass
 
 - ✔ Diseño de doble cabeza: el rodillo de jade tiene un rodillo de doble extremo para adaptarse a diferentes áreas faciales: el rodillo más pequeño para el área de los ojos, mientras que uno más grande para cuello, cara, brazos, etc. Rodar el producto en un movimiento hacia arriba y hacia fuera desde el cuello hacia la frente.
 - ✔ Política de promoción de calidad: proporciona un reembolso completo sin ninguna pregunta por 30 días y 18 meses de garantía.
+- ✔ Piedra de gua sha prémium: hay un juego de chatarra de Gua Sha en el paquete también, ayudará a relajar tu cara y cuerpo que reducirá las ojeras, hinchazón y promoverá la circulación sanguínea, siempre con un humor relajante y elegante.
 - ✔ Disfruta de un masaje natural y saludable: rodillo facial de jade de Arclogy hecho de piedra de jade 100% natural, antienvejecimiento, línea antiarrugas, reduce la oscuridad bajo los ojos, mejor piel y salud sin productos químicos o irritantes.
 - ✔ Perfecto juego de regalo: nuestro masajeador de rodillo de jade viene en una caja de regalo hermosamente diseñada, un regalo de belleza especial para tu madre, abuela, esposa, hija, hermana y amiga.
-- ✔ Piedra de gua sha prémium: hay un juego de chatarra de Gua Sha en el paquete también, ayudará a relajar tu cara y cuerpo que reducirá las ojeras, hinchazón y promoverá la circulación sanguínea, siempre con un humor relajante y elegante.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088DJSM22/?tag=tolees-21)

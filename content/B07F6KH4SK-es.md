@@ -28,8 +28,8 @@ Tienes [REPSOL Limpia Parabrisas  5L](https://www.amazon.es/dp/B07F6KH4SK/?tag=t
 
 🔎:
 
-- Protege el circuito por encima de -7ºc; instrucciones: llenar el depósito del limpiaparabrisas con este producto
 - Alta calidad, 5l
+- Protege el circuito por encima de -7ºc; instrucciones: llenar el depósito del limpiaparabrisas con este producto
 - Limpia y desengrasa a fondo el interior y exterior de las lunas de los vehículos; elimina residuos y grasa de los parabrisas dejándolos limpios y aportando una excelente visibilidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F6KH4SK/?tag=tolees-21)
