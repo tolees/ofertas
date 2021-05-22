@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FR-TEC - Auriculares Gaming Headset Asga al 35.31 % de rebaja'
-date: 2021-04-30 21:00:46
+date: 2021-05-22 18:53:50
 image: 'https://m.media-amazon.com/images/I/41t8Rw-CPsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [FR-TEC - Auriculares Gaming Headset Asgard](https://www.amazon.es/dp/B08
 🔎:
 
 - Mini-jack 3,5mm Plug and Play que lo hace compatible con: Playstation 5, PlayStation 4, Series X|S, XBOX One, Nintendo Switch, PC y MAC
-- Diámetro del altavoz: 50mm
 - Micrófono abatible y unidireccional, Control de volumen y mute integrado en el cable
+- Diámetro del altavoz: 50mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BXF39K9/?tag=tolees-21)

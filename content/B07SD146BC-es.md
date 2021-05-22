@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'PUMA COURTFLEX V2 V INF  Zapatillas Unis al 56.34 % de descuento'
-date: 2020-04-14 13:34:17
-image: 'https://m.media-amazon.com/images/I/41D2r89ZKlL._SL400_.jpg'
+title: 'PUMA COURTFLEX V2 V INF  Zapatillas Unis al 65.10 % de descuento'
+date: 2021-05-22 19:47:10
+image: 'https://m.media-amazon.com/images/I/41D2r89ZKlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07SD146BC-es PUMA COURTFLEX V2 V INF Zapatillas Unisex niños Azul...'
 sku: 'B07SD146BC-es'
-tags: [  ]
-actualPrice: 10.02 EUR
+tags: [ 'Zapatillas casual para niño','Zapatillas y calzado deportivo para Niño','Zapatos','Zapatos para niños pequeños','Zapatos y complementos','puma', ]
+actualPrice: 8.01 EUR
 currency: EUR
-price: 10.02
+price: 8.01
 comparePrice: 22.95 EUR
-prodname: 'PUMA COURTFLEX V2 V INF  Zapatillas Unisex niños  Azul  Peacoat/High Risk Red 01   23 EU'
+prodname: 'PUMA COURTFLEX V2 V INF  Zapatillas Unisex niños  Azul  Peacoat/High Risk Red   23 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B07SD146BC/?tag=tolees-21'
-descuento: '56.34'
-average: '10.02'
+descuento: '65.10'
+average: '9.015'
 ---
 
-Está [PUMA COURTFLEX V2 V INF  Zapatillas Unisex niños  Azul  Peacoat/High Risk Red 01   23 EU](https://www.amazon.es/dp/B07SD146BC/?tag=tolees-21) con 56.34 de descuento por 10.02 EUR (original: 22.95 EUR) en el siguiente enlace!
+Está [PUMA COURTFLEX V2 V INF  Zapatillas Unisex niños  Azul  Peacoat/High Risk Red   23 EU](https://www.amazon.es/dp/B07SD146BC/?tag=tolees-21) con 65.10 de descuento por 8.01 EUR (original: 22.95 EUR) en el siguiente enlace!
 
-[![PUMA COURTFLEX V2 V INF  Zapatillas Unis](https://m.media-amazon.com/images/I/41D2r89ZKlL._SL400_.jpg)](https://www.amazon.es/dp/B07SD146BC/?tag=tolees-21)
+[![PUMA COURTFLEX V2 V INF  Zapatillas Unis](https://m.media-amazon.com/images/I/41D2r89ZKlL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07SD146BC/?tag=tolees-21)
 
 ℹ️:
 
