@@ -28,8 +28,8 @@ Ahora mismo tienes [Stor - TAZA CERAMICA 325 ML CON CAJA | MINNIE MOUSE SUMMER C
 
 🔎:
 
-- Taza de cerámica decorada con originales diseños basados en algunos de los personajes más conocidos del mundo del cine y la televisión. Un producto muy funcional que nunca pasa de moda. Ideal tanto para regalo como para uso diario - Licencias oficiales - Capacidad: 325 ml.
-- Producto con licencia oficial, 100% original.
 - Todos los productos de la marca Stor están libres de BPA y han pasado los tests requeridos en su categoría para cumplir con la normativa Europea.
+- Producto con licencia oficial, 100% original.
+- Taza de cerámica decorada con originales diseños basados en algunos de los personajes más conocidos del mundo del cine y la televisión. Un producto muy funcional que nunca pasa de moda. Ideal tanto para regalo como para uso diario - Licencias oficiales - Capacidad: 325 ml.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CN7YCRR/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Converse Chuck Taylor All Star Hi Optical Blanco Canvas](https://www.ama
 
 ℹ️:
 
-- Color: blanco
-- NÃºmero del fabricante: M7650C
 - Material: Canvas
+- NÃºmero del fabricante: M7650C
 - MÃ¡s informaciÃ³n: Core
+- Color: blanco
 - Estilo: Sneaker High
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0000ATBYZ/?tag=tolees-21)

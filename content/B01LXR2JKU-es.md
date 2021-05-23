@@ -28,12 +28,12 @@ Ahora mismo tienes [Bosch Home and Garden - Bosch EasyDrill 12 - Taladro atornil
 
 🔎:
 
-- También ideal para taladrar hasta un máximo de 10mm de profundidad en madera blanda
-- Fácil de manejar gracias a la empuñadura ergonómica y un peso muy ligero de 0,9kg
-- Cambio de accesorios rápido y fácil con el portabrocas de cambio rápido
-- El Taladro Atornillador a batería EasyDrill 12 - Hasta 150 tornillos con una carga
-- Con luz Power Light para iluminar los espacios de trabajo oscuros
-- Incluye: Taladro atornillador a batería EasyDrill 12 sin batería, bolsa blanda, inserción del atornillador, cargador
 - Con ajuste de velocidad automático para una fuerza óptima en cada aplicación
+- El Taladro Atornillador a batería EasyDrill 12 - Hasta 150 tornillos con una carga
+- Fácil de manejar gracias a la empuñadura ergonómica y un peso muy ligero de 0,9kg
+- También ideal para taladrar hasta un máximo de 10mm de profundidad en madera blanda
+- Incluye: Taladro atornillador a batería EasyDrill 12 sin batería, bolsa blanda, inserción del atornillador, cargador
+- Con luz Power Light para iluminar los espacios de trabajo oscuros
+- Cambio de accesorios rápido y fácil con el portabrocas de cambio rápido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LXR2JKU/?tag=tolees-21)
