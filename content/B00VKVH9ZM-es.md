@@ -28,10 +28,10 @@ Tienes [Pranarom - Pranarôm - Aceite Vegetal de Almendra Dulce Bio - 50 ml](htt
 
 🔎:
 
+- Aceite Vegetal de Almendra Dulce Bio - Para los cuidados de la piel - Prunus amygdalus - Obtenido por primera presión en frío de almendras, fruto del almendro
 - Uso cosmético : Para pieles secas y sensibles (manos, senos, nalgas del bebé). Se utiliza en caso de grietas, rugosidades y picores - Afeitado : El AV de almendra dulce es adecuado para el afeitado de cualquier zona. Después de lavar y exfoliar suavemente la zona que se va a afeitar, aplicar una cantidad generosa de AV de almendra dulce, masajear para levantar el pelo y afeitar con una cuchilla limpia y nueva.
 - Máxima suavidad : El aceite de almendras dulces es el aceite calmante y protector por excelencia, especialmente indicado para los cuidados corporales y la piel seca. Ideal para madres y bebés por sus propiedades cosméticas y como desmaquillante
 - Breve descripción de la composición : Más de dos tercios de ácidos grasos monoinsaturados (omega 9) - Casi una cuarta parte de ácidos grasos poli-insaturados (principalmente omega 6) - Algo menos de un 10% de ácidos grasos saturados (ácido palmítico) - Trazas de vitamina A
-- Aceite Vegetal de Almendra Dulce Bio - Para los cuidados de la piel - Prunus amygdalus - Obtenido por primera presión en frío de almendras, fruto del almendro
 - Constituye una base perfecta para mezclas de aromaterapia orientadas al cuidado del cuerpo, debido a su interesante relación calidad-precio y a un confort de aplicación óptimo. Masajes, fricciones aromáticas, tratamientos de belleza... Todo es posible con las almendras dulces. No obstante, las personas alérgicas a la almendra deben evitar este aceite por precaución
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00VKVH9ZM/?tag=tolees-21)
