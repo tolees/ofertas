@@ -28,9 +28,9 @@ Tienes [NIKE Benassi JDI Black  Chanclas Unisex Adulto  Negro Negro 001  38.5 EU
 
 🔎:
 
-- Suela de caucho con dibujo de tracción en espiga
-- Material interno textil
 - Parte superior de imitación cuero
+- Suela de caucho con dibujo de tracción en espiga
 - Plantilla con botones finos, correas acolchadas
+- Material interno textil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005A0V9NC/?tag=tolees-21)

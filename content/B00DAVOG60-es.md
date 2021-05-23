@@ -30,8 +30,8 @@ Tienes [Walt Disney - Little Mermaid - 3 Movie Collection [Blu-ray]](https://www
 
 - Under the Scene: The Art of Live Action Reference
 - Deleted Scene--Harold the Merman
-- Part of Her World: Jodi Bensons Voyage to New Fantasy Land
-- Disney Animation
 - "Part of Your World" Music Video featuring Carly Rae Jepsen
+- Disney Animation
+- Part of Her World: Jodi Bensons Voyage to New Fantasy Land
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DAVOG60/?tag=tolees-21)

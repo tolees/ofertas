@@ -28,9 +28,9 @@ Tienes [Decor Service Mesa Fuegos Artificiales  plástico  Negro  12 x 3 cm](h
 
 ℹ️:
 
-- Color: Negro, Material: Plástico
 - 12 unidades por paquete
 - Soporte para tartas y de hielo fuego admitidas.
+- Color: Negro, Material: Plástico
 - Simplemente fijar el clip en la botella – tartas y de fuegos artificiales pinza de hielo y encender.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07CNSST5S/?tag=tolees-21)

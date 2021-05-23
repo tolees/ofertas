@@ -29,11 +29,11 @@ Ahora mismo tienes [Mann Filter - Original MANN-FILTER Filtro de habitáculo CU 
 🔎:
 
 - Longitud [mm]: 159
-- Altura [mm]: 32
-- Tipo de filtro: Filtro de partículas
 - Ancho [mm]: 153
-- Unidad de cantidad: Kit
+- Altura [mm]: 32
 - Longitud 1 [mm]: 204
 - Ancho 1 [mm]: 159
+- Unidad de cantidad: Kit
+- Tipo de filtro: Filtro de partículas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00252KSPS/?tag=tolees-21)

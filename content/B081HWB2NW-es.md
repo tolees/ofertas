@@ -29,8 +29,8 @@ Ahora mismo tienes [adidas Fef H JSY Y T-Shirt  Niños  Victory Red  1516](https
 🔎:
 
 - Camiseta de fútbol para los aficionados de España
+- Tiene el logo de la marca en el pecho
 - Con escote de pico acanalado
 - Ajuste regular
-- Tiene el logo de la marca en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081HWB2NW/?tag=tolees-21)

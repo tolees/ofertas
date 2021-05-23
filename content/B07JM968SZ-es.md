@@ -28,8 +28,8 @@ En este momento está [Lee Breese Pantalones para Mujer  Negro  Black Rinse 47  
 
 🔎:
 
-- Vaqueros evasé para mujer
 - Con un diseño de cinco bolsillos
+- Vaqueros evasé para mujer
 - Tienen un parche de piel con el logo de la marca en la parte trasera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JM968SZ/?tag=tolees-21)
