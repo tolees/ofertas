@@ -29,9 +29,9 @@ Tienes [BGS technic - BGS 50855 | Caja de ingletes de plástico | 245 x 67 x 48 
 🔎:
 
 - Máx; anchura de corte 42 mm
-- Máx; profundidad de corte 34 mm
 - Para ingletear con un ajuste perfecto
-- Guía limpia y segura de sierras de mano
 - Para ángulos de 45° y 90°
+- Guía limpia y segura de sierras de mano
+- Máx; profundidad de corte 34 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004VRBGQK/?tag=tolees-21)

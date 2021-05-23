@@ -28,9 +28,9 @@ En este momento está [Burton Oak Sudadera  Mujer  True Black Heather  XXS](http
 
 🔎:
 
+- Bolsillo de canguro con puerto de medios dentro
 - Los puños con orificio para el pulgar mantienen las mangas en su lugar
 - Tejido de felpa de poliéster francés cepillado
-- Bolsillo de canguro con puerto de medios dentro
 - Tejido de secado rápido y muy transpirable.
 - El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
 
