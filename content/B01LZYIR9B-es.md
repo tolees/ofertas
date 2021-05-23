@@ -28,10 +28,10 @@ Tienes [Philips Lighting Bombilla LED Estándar E27  7.5 W  Fría  Pack de 2  2 
 
 🔎:
 
+- Luz instantánea al encenderse
+- Bombillas LED de bajo consumo, ahorra hasta un 80%
+- Larga duración: Hasta 15 años (15.000 horas)
 - Ideal para uso en baños y cocinas creando un ambiente energizante
 - No Regulable
-- Bombillas LED de bajo consumo, ahorra hasta un 80%
-- Luz instantánea al encenderse
-- Larga duración: Hasta 15 años (15.000 horas)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LZYIR9B/?tag=tolees-21)

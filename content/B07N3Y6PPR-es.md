@@ -28,10 +28,10 @@ Está [Hackett London Slim Fit Logo Polo  Azul  NAVY 595   Medium para Hombre](h
 
 ℹ️:
 
-- Cuello y puños elásticos
-- Suave y cómodo en la piel
-- 100% Algodón
-- Lavar a máquina agua fría (30 ° max)
 - Estilo del cuello: Polo
+- Lavar a máquina agua fría (30 ° max)
+- Cuello y puños elásticos
+- 100% Algodón
+- Suave y cómodo en la piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N3Y6PPR/?tag=tolees-21)

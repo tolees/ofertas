@@ -28,8 +28,8 @@ Tienes [Burton Classic Mountain High Camiseta  Hombre  Martini Olive  XS](https:
 
 ℹ️:
 
-- Corte clásico
 - Prelavado
 - Logo estampado en el pecho
+- Corte clásico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SHJD5XL/?tag=tolees-21)
