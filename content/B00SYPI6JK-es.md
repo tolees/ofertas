@@ -28,10 +28,10 @@ Está [Bourjois Velvet Barra de Labios Líquida Tono 10 Don’t pink of it - 7 7
 
 ℹ️:
 
-- Hasta 24 horas de duración, sin sensación de sequedad
-- Fórmula enriquecida con un 25% de pigmentos lacados que proporcionan color e intensidad
-- Contiene aceites esenciales que dan a los labios una sensación natural y saludable
 - Labial líquido para un intenso acabado mate aterciopelado
 - Textura suave y fundente que proporciona unos labios aterciopelados
+- Hasta 24 horas de duración, sin sensación de sequedad
+- Contiene aceites esenciales que dan a los labios una sensación natural y saludable
+- Fórmula enriquecida con un 25% de pigmentos lacados que proporcionan color e intensidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00SYPI6JK/?tag=tolees-21)

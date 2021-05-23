@@ -28,10 +28,10 @@ En este momento está [L Oreal Paris Make-up Designer - L’Óreal Paris Barra d
 
 🔎:
 
-- Hidrata y cuida los labios
-- Barra de labios con brillo intenso para el maquillaje de día y de noche
 - Color nude lacado pigmentado
+- Hidrata y cuida los labios
 - Tiene pigmentación duradera
+- Barra de labios con brillo intenso para el maquillaje de día y de noche
 - Los labios tienen un aspecto pleno y sano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077QLJG3R/?tag=tolees-21)

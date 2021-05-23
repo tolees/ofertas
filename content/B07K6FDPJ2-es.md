@@ -28,10 +28,10 @@ Ahora mismo tienes [L Oreal Paris Make-up Designer - L Oréal Paris Rouge Signat
 
 🔎:
 
-- Textura ultra ligera para una sensación de labios desnudos, como no si llevases labial puesto
 - Disponible en 12 tonos mate permanentes
+- Tan ligero que no notarás que lo llevas puesto
 - Pigmentos vibrantes de acabado mate para unos labios de impacto durante todo el día
 - Pintalabios líquido mate permanente
-- Tan ligero que no notarás que lo llevas puesto
+- Textura ultra ligera para una sensación de labios desnudos, como no si llevases labial puesto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K6FDPJ2/?tag=tolees-21)

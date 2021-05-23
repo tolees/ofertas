@@ -29,9 +29,9 @@ Ahora mismo tienes [Rimmel London Stay Matte Liquid Lip Colour Nude Labial Líqu
 🔎:
 
 - Contiene polímeros seleccionado para la adherencia óptima de la piel
-- A prueba de besos y roces
-- Alto contenido en pigmentos para un mayor acabado mate aterciopelado
 - Fórmula con aceite de coco y vitamina E para proteger los labios
+- A prueba de besos y roces
 - Color intenso, mate, y semipermanente
+- Alto contenido en pigmentos para un mayor acabado mate aterciopelado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CCDT77M/?tag=tolees-21)

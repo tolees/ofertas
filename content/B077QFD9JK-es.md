@@ -28,10 +28,10 @@ Tienes [Rimmel London Stay Matte Liquid Lip Colour Urban Romance Barra De Labios
 
 🔎:
 
-- Fórmula con aceite de coco y vitamina E para proteger los labios
-- Contiene polímeros seleccionado para la adherencia óptima de la piel
-- A prueba de besos y roces
-- Color intenso, mate, y semipermanente
 - Alto contenido en pigmentos para un mayor acabado mate aterciopelado
+- Color intenso, mate, y semipermanente
+- Fórmula con aceite de coco y vitamina E para proteger los labios
+- A prueba de besos y roces
+- Contiene polímeros seleccionado para la adherencia óptima de la piel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077QFD9JK/?tag=tolees-21)

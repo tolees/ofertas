@@ -28,8 +28,8 @@ En este momento está [Bosch 250402005 buja de precalentamiento “descontinuado
 
 🔎:
 
+- Tipo de bujías
 - Modelo/Código del fabricante: 0 250 402 005
 - Nuevo producto
-- Tipo de bujías
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003NDXWII/?tag=tolees-21)

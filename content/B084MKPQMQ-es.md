@@ -28,8 +28,8 @@ Tienes [KODAK New Ink Ribbon Paper "30 Photo Cartridge - Papel fotográfico para
 
 🔎:
 
-- 30 fotos para Kodak New Mini Shot Combbo C210/C210R (5,3 x 8,6 cm)
 - Kodak New Ink Ribbon Paper
 - Cartridge todo en uno
+- 30 fotos para Kodak New Mini Shot Combbo C210/C210R (5,3 x 8,6 cm)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084MKPQMQ/?tag=tolees-21)

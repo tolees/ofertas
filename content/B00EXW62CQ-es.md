@@ -28,9 +28,9 @@ Ahora mismo tienes [Elizabeth Arden Eight Hour Lip Protectant Stick SPF15](https
 
 🔎:
 
-- Alivia el agrietamiento de los labios
-- Ayuda a proteger contra los efectos dañinos de la exposición a los rayos UV con SPF 15
 - Aporta protección antioxidante gracias a su contenido de vitamina E
+- Alivia el agrietamiento de los labios
 - Ayuda a hidratar y suavizar los labios
+- Ayuda a proteger contra los efectos dañinos de la exposición a los rayos UV con SPF 15
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00EXW62CQ/?tag=tolees-21)
