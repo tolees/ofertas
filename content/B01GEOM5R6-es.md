@@ -30,8 +30,8 @@ Está [ThunderX3 TM30- Ratón gaming profesional- Sensor óptico AVAGO 3310  Ret
 
 - Su interruptor Omron mecánico es excelente, asegurando una durabilidad de 10 millones de clicks. Además cuenta con 6 teclas diferentes programables
 - El sensor AVAGO 3310 es el chip perfecto para un sensor de navegación óptica. Capaz de una detección del movimiento de alta velocidad a 60 IPS y una aceleración hasta 20G
+- Pies de teflón en su base para asegurar un desplazamiento suave que garantice precisión y velocidad al mismo tiempo en cualquier superficie. Incluye un set extra de pies de teflón
 - Cuenta con un software específico diseñado para darte la mayor flexibilidad posible a la hora de cambiar tus preferencias cuando lo necesites
 - Podrás cambiar la velocidad de la rueda de scroll, el puntero, reasignar las acciones de los botones, establecer los valores de las macro y el número de DPI en los ejes X e Y con posibilidad de guardar numerosos perfiles
-- Pies de teflón en su base para asegurar un desplazamiento suave que garantice precisión y velocidad al mismo tiempo en cualquier superficie. Incluye un set extra de pies de teflón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GEOM5R6/?tag=tolees-21)

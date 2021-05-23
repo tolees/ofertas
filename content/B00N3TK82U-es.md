@@ -28,8 +28,8 @@ Ahora mismo tienes [Pilas alcalinas Duracell Ultra AA Mignon LR6  paquete de 12]
 
 🔎:
 
-- Todos conocen la resistencia del conejito Duracell, descubre lo optimo de Duracell con la gama Ultra
 - Fabricado en Bélgica, disponible en tamaños AA, AAA, C, D, 4.5V y 9V
+- Todos conocen la resistencia del conejito Duracell, descubre lo optimo de Duracell con la gama Ultra
 - Rendimiento de longevidad comparado con la duración promedio mínima en el ensayo de cámara digital AA de 2015 por la CEI, los resultados pueden variar según el dispositivo o su método de uso
 - POTENCIA Y LONGEVIDAD: las pilas Duracell Ultra AA proporcionan energía confiable y duradera para alimentar todos sus dispositivos con hasta un 100% más de energía
 - TEST DE ENERGÍA: la pila Duracell Ultra utiliza la tecnología Powercheck, que le permite comprobar la energía restante, en cada pila
