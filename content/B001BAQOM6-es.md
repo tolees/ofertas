@@ -29,8 +29,8 @@ Está [Brennenstuhl 1508070 Toma de Corriente  Blanco](https://www.amazon.es/dp/
 ℹ️:
 
 - Interruptor
+- Brand: Brennenstuhl
 - Adaptador
 - Enchufes 4
-- Brand: Brennenstuhl
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001BAQOM6/?tag=tolees-21)

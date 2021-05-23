@@ -28,10 +28,10 @@ Tienes [KONKY Luz de Anillo LED 10" Fotográfica de Escritorio  18 Colores y Bri
 
 🔎:
 
-- 【Anillo de luz LED de 10.0 pulgadas con 18 colores】 En comparación con otras luces para selfies, el anillo de luz LED de KONKY es más grande y más potente. Hay 18 colores disponibles para satisfacer sus diferentes requisitos: blanco natural, blanco frío, blanco cálido y otros 15 colores.
 - 【Alimentado por puerto USB】Puede enchufar el conector USB en la computadora portátil, computadora, fuente de alimentación, cargador USB, adaptador de CA, etc., no se requiere batería adicional, puede disfrutar de la luz del anillo LED en cualquier momento libremente.
+- 【Anillo de luz LED de 10.0 pulgadas con 18 colores】 En comparación con otras luces para selfies, el anillo de luz LED de KONKY es más grande y más potente. Hay 18 colores disponibles para satisfacer sus diferentes requisitos: blanco natural, blanco frío, blanco cálido y otros 15 colores.
+- 【Brillo ajustable y modo colorido】El brillo de cada color se puede ajustar en 7 niveles mediante el botón +/-, y presione el botón "M" para iniciar el modo de flash colorido (la velocidad también se puede ajustar)
 - 【Anillo de luz multifunción】Este anillo de luz será una buena opción para su vida y trabajo. Grabe videos de Internet, Selfies grupales, videos de YouTube, TikTok, Vlog, transmisión en vivo, Vlogging, Selfie, maquillaje, Beauty Light, videollamadas (Skype / WhatsApp / FaceTime).
 - 【Abrazadera giratoria para teléfono móvil de 360 °】Puede establecer ángulos libres de acuerdo con sus necesidades, la abrazadera es adecuada para la mayoría de los teléfonos móviles con un ancho de pantalla de 5.1 a 8.3 cm, como: iPhone 8/8 Plus, 7, 7 Plus, XS, X, Samsung Note 8, S8 / S9, LG / HTC, etc.
-- 【Brillo ajustable y modo colorido】El brillo de cada color se puede ajustar en 7 niveles mediante el botón +/-, y presione el botón "M" para iniciar el modo de flash colorido (la velocidad también se puede ajustar)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0899NFGXQ/?tag=tolees-21)
