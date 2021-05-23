@@ -28,8 +28,8 @@ Tienes [Haribo - Berries - Caramelo de goma - 1 kg](https://www.amazon.es/dp/B00
 
 ℹ️:
 
-- Caramelos grageados
 - Deliciosas piezas en forma de moras
 - Irresistible sabor a mora y frambuesa
+- Caramelos grageados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAPDEFA/?tag=tolees-21)
