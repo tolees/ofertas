@@ -28,8 +28,8 @@ Tienes [Wrangler 5 Pocket Short Pantalones Cortos  Azul  Light Fever 72r   36W p
 
 ℹ️:
 
-- Tienen un parche con el logo en el bolsillo trasero
 - Pantalones cortos para hombre
+- Tienen un parche con el logo en el bolsillo trasero
 - Presentan 5 bolsillos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YJC5LXD/?tag=tolees-21)
