@@ -28,11 +28,11 @@ Ahora mismo tienes [New Balance 997H Core  Zapatillas Hombre  Gris  Team Away Gr
 
 🔎:
 
-- Tipo de tacón: Plano
-- Material exterior: Cuero
-- Revestimiento: Tela
-- Cierre: Cordones
 - Material de la suela: Sintético
+- Tipo de tacón: Plano
+- Cierre: Cordones
 - Composición: Empeine de malla/ante
+- Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJ5Q82T/?tag=tolees-21)
