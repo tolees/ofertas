@@ -28,9 +28,9 @@ En este momento está [Canon Zoemini Pv-123 - Mini impresora  Bluetooth  USB  31
 
 🔎:
 
+- Totalmente portátil
 - Imprime desde tu dispositivo móvil
 - Imprime mediante Bluetooth
-- Totalmente portátil
 - Imprime fotos de 5 x 7.6 cm (2 x 3 pulgadas) al instante
 - Reverso adhesivo fácil de usar
 
