@@ -28,8 +28,8 @@ Tienes [Kensington 941619 - Cable de Seguridad para portátiles  Color Negro](ht
 
 ℹ️:
 
-- Muy cómodo
-- Fácil de utilizar
 - Fácil instalación
+- Fácil de utilizar
+- Muy cómodo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005NCOBLE/?tag=tolees-21)
