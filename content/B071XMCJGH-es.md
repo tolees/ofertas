@@ -28,8 +28,8 @@ Está [Calvin Klein 2 Pack Bralette Girl S Corsé  Multicolor  1 Grey Heather/1 
 
 ℹ️:
 
-- Forrado, sin relleno
-- Algodón elástico
 - Diseño​ con espalda de nadador
+- Algodón elástico
+- Forrado, sin relleno
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071XMCJGH/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [JACK & JONES Jfwvision Classic Mixed Noos  Zapatillas Hombre  Azul  Navy 
 
 ℹ️:
 
+- Marca: Jack&Jones
 - Zapatillas de color azul marino. Cierre con cordones. Detalles bordados.
 - Modelo: 12150498 JFWVISION CLASSIC MIXED NAVY BLAZER STS
-- Marca: Jack&Jones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JHC6KGW/?tag=tolees-21)

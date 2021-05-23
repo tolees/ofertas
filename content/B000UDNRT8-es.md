@@ -29,8 +29,8 @@ En este momento está [Eastpak Doggy Bag Riñonera  27 Cm  3 L  Negro  Black ](h
 🔎:
 
 - Fabricada 100 % en nylon para un acabado adecuado
-- Puedes llevarla a tu manera gracias a su cinturón ajustable
 - Altura: 18 cm, Ancho: 27 cm, Fondo: 9 cm
+- Puedes llevarla a tu manera gracias a su cinturón ajustable
 - Amplio compartimento principal con bolsillo trasero con cremallera de seguridad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000UDNRT8/?tag=tolees-21)

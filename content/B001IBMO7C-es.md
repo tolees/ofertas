@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Set mixto Mini-X-Line con 15 unida al 47.54 % de descuento'
-date: 2021-05-21 10:03:22
+date: 2021-05-23 12:15:36
 image: 'https://m.media-amazon.com/images/I/51ZBDxfK2wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch'
 buyurl: 'https://www.amazon.es/dp/B001IBMO7C/?tag=tolees-21'
 descuento: '47.54'
-average: '8.55625'
+average: '8.50609756097561'
 ---
 
 Ahora mismo tienes [Bosch Set mixto Mini-X-Line con 15 unidades para taladrar  para madera  piedra y metal  accesorios para taladro atornillador ](https://www.amazon.es/dp/B001IBMO7C/?tag=tolees-21) a 6.5 EUR (original: 12.39 EUR) (47.54 %  de descuento) en el siguiente enlace!

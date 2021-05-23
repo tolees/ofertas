@@ -28,10 +28,10 @@ En este momento está [Fitbit Inspire HR  Pulsera de salud y actividad física c
 
 🔎:
 
-- Monitorización continua del ritmo cardiaco que te permite llevar un mayor control de las calorías quemadas
 - Batería que dura hasta 5 días y 5 noches
-- Sincronizza le statistiche sul tuo pannello Fitbit grazie alla tecnologia Bluetooth wireless.
 - Visualizza i progressi sullapp Fitbit con grafici chiari e di facile lettura
+- Sincronizza le statistiche sul tuo pannello Fitbit grazie alla tecnologia Bluetooth wireless.
+- Monitorización continua del ritmo cardiaco que te permite llevar un mayor control de las calorías quemadas
 - Alcanza tus objetivos de forma física: monitoriza tus pasos, distancia, minutos de actividad
 - Misura e visualizza il peso sullo schermo
 
