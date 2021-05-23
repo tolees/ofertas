@@ -28,10 +28,10 @@ Está [CMP Hiking Shoe  Zapato de Senderismo Knit Jabbah Hombre  Dark Blue  42 E
 
 ℹ️:
 
-- Soporte trasero exterior de TPU
-- Peso de solo 220 g (#42).
 - Suela especialmente ligera de EVA y TPR.
+- Peso de solo 220 g (#42).
 - Parte superior de tela de poliéster con talón suave de licra.
 - Sellado térmico.
+- Soporte trasero exterior de TPU
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08641NJYS/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Crema Para Manos - 75 ml. al 45.00 % de rebaja'
-date: 2021-05-21 16:20:18
+date: 2021-05-23 19:05:44
 image: 'https://m.media-amazon.com/images/I/41PGBml2nTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Neutrogena'
 buyurl: 'https://www.amazon.es/dp/B00DYP8YM4/?tag=tolees-21'
 descuento: '45.00'
-average: '7.97727272727272'
+average: '7.77083333333333'
 ---
 
 Tienes [Neutrogena Crema Para Manos - 75 ml.](https://www.amazon.es/dp/B00DYP8YM4/?tag=tolees-21) con precio final de  5.5 EUR (original: 10.0 EUR) (45.00 %  de rebaja) aqui!

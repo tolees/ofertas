@@ -28,12 +28,12 @@ Está [Crocs Crocband Flip  Unisex Adulto  Navy  37/38 EU](https://www.amazon.es
 
 ℹ️:
 
-- Composición: Sintético
-- Revestimiento: Sin forro
 - Cierre: Sin cordones
-- Altura del tacón: 1 centímetro
+- Revestimiento: Sin forro
 - Tipo de tacón: Plano
-- Material exterior: Espuma
 - Material de la suela: Goma
+- Material exterior: Espuma
+- Altura del tacón: 1 centímetro
+- Composición: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002SNA86I/?tag=tolees-21)
