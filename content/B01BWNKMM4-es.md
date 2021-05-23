@@ -28,8 +28,8 @@ Tienes [Dr. Organic Desodorante Aceite de Cañamo Organico 50 ml 50 ml](https://
 
 🔎:
 
+- Cuida tu salud de la mano de nuestros productos.
 - Cuidarse nunca fue tan fácil gracias a nuestros productos.
 - Desodorante Aceite De Cañamo Organico 50Ml.
-- Cuida tu salud de la mano de nuestros productos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01BWNKMM4/?tag=tolees-21)

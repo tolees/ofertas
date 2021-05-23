@@ -28,8 +28,8 @@ Está [Bosch 0 250 203 002 Bujías de Incandescencia](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Nuevo producto
 - Modelo/Código del fabricante: 0 250 203 002
+- Nuevo producto
 - Tipo de bujías
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003NE3IX6/?tag=tolees-21)

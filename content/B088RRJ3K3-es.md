@@ -28,10 +28,10 @@ En este momento está [Mr. Wonderful - Agenda rotu 2020-2021 Día por página - 
 
 🔎:
 
-- Frases diarias motivacionales, separadores con pestaña para cada mes y bolsillo interior transparente
-- Horarios, calendarios, tablas de ahorro y cierre con goma elástica
-- Agenda escolar diaria con 368 páginas de papel de 80 gr.
 - Blocs de notas adhesivas con formas, 8 hojas de pagtinas, planificador mensual
+- Horarios, calendarios, tablas de ahorro y cierre con goma elástica
+- Frases diarias motivacionales, separadores con pestaña para cada mes y bolsillo interior transparente
+- Agenda escolar diaria con 368 páginas de papel de 80 gr.
 - Peso: 600 gr Medidas del producto: 15 x 19,5 x 3,4 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088RRJ3K3/?tag=tolees-21)

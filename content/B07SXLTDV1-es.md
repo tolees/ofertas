@@ -28,10 +28,10 @@ Está [BIGBEN - The Fisherman: Fishing Planet - Day One Edition [Versión Españ
 
 ℹ️:
 
-- Miles de combinaciones de aparejos con propiedades físicas e hidrodinámicas únicas; clima - alternancia día/noche, cambio de estación, diferentes condiciones climáticas (lluvia, niebla, soleado)
-- Magníficos gráficos dinámicos del agua con ondulaciones y superficies que cambian dependiendo del viento, la corriente y la profundidad
 - Capacidad multijugador - torneos online con puntuaciones personales y de equipo, sistema de logros, tablas de puntuación y listas de los mejores jugadores
 - Más de 110 especies de peces, cada uno con su IA y comportamiento único; tres tipos de pesca - flotación, spinning y fondo
+- Magníficos gráficos dinámicos del agua con ondulaciones y superficies que cambian dependiendo del viento, la corriente y la profundidad
+- Miles de combinaciones de aparejos con propiedades físicas e hidrodinámicas únicas; clima - alternancia día/noche, cambio de estación, diferentes condiciones climáticas (lluvia, niebla, soleado)
 - 18 vías fluviales con múltiples ubicaciones, diversas condiciones climáticas, terrenos de fondo y vegetación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SXLTDV1/?tag=tolees-21)
