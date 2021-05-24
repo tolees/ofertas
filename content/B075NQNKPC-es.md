@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.91 % en Halls Lima - Caramelo duro - Caja con 20'
-date: 2021-04-27 08:22:44
+date: 2021-05-24 14:23:28
 image: 'https://m.media-amazon.com/images/I/51-LmAJWEAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Halls Lima - Caramelo duro - Caja con 20 Sticks de 32 g](https://www.ama
 
 ℹ️:
 
+- Caramelos duros refrescantes sin azúcar, con sabor a lima y con vitamina C
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
 - Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
-- Caramelos duros refrescantes sin azúcar, con sabor a lima y con vitamina C
 - Conservar en lugar fresco y seco
 - Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
 

@@ -28,10 +28,10 @@ Tienes [Bosch Professional 1600A003BK Bosch Mobility-Bolsa de Herramientas tama�
 
 🔎:
 
-- Tamaño grande
 - Polyester 600 d pvc
-- 3 bolsillos externos y 5 internos
-- 1, 75 kg
 - 55x35x35 cm
+- Tamaño grande
+- 1, 75 kg
+- 3 bolsillos externos y 5 internos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00NC1WZ84/?tag=tolees-21)
