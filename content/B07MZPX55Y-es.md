@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Vans Ward Hi  Zapatillas Altas Hombre  N'
-date: 2021-05-23 06:45:30
+date: 2021-05-24 10:30:37
 image: 'https://m.media-amazon.com/images/I/41rfR+BuHXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Vans Ward Hi  Zapatillas Altas Hombre  Negro   MTE  Black/Plaid V1t   43
 
 ℹ️:
 
-- Tipo de tacón: Plano
-- Cierre: Cordones
-- Material de la suela: Goma
 - Revestimiento: Tela
 - Material exterior: Cuero
+- Cierre: Cordones
+- Material de la suela: Goma
+- Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MZPX55Y/?tag=tolees-21)

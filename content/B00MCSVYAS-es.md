@@ -28,10 +28,10 @@ Tienes [Remington HC5880 - Máquina de Cortar Pelo  Prácticamente Indestructibl
 
 ℹ️:
 
-- Incluye estuche y gancho para colgar; dispone de indicador LED de batería baja o carga
-- Cortapelos con peines guía de calidad profesional para conseguir un corte preciso (350 mm/s); motor de 7.4 voltios
 - Uso con cable o inalámbrico; doble batería de litio con autonomía de 120 min; tiempo de recarga de 4 horas
+- Cortapelos con peines guía de calidad profesional para conseguir un corte preciso (350 mm/s); motor de 7.4 voltios
 - Armazón de policarbonato de gran resistencia al impacto; carcasa exterior de caucho para un control absoluto; lavable
+- Incluye estuche y gancho para colgar; dispone de indicador LED de batería baja o carga
 - Cuchillas de precisión de acero inoxidable japonés. Sistema de cuchillas extraíbles
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00MCSVYAS/?tag=tolees-21)
