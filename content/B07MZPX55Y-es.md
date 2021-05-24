@@ -28,10 +28,10 @@ Tienes [Vans Ward Hi  Zapatillas Altas Hombre  Negro   MTE  Black/Plaid V1t   43
 
 ℹ️:
 
-- Material de la suela: Goma
-- Revestimiento: Tela
 - Cierre: Cordones
-- Tipo de tacón: Plano
 - Material exterior: Cuero
+- Revestimiento: Tela
+- Tipo de tacón: Plano
+- Material de la suela: Goma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MZPX55Y/?tag=tolees-21)

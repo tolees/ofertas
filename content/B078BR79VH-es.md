@@ -28,9 +28,9 @@ Tienes [L Oreal Paris Make-up Designer - L’Óreal Paris Barra de Labios Color 
 
 🔎:
 
+- Hidrata y cuida los labios
 - Los labios tienen un aspecto pleno y sano
 - Tiene pigmentación duradera
-- Hidrata y cuida los labios
 - Barra de labios con brillo intenso para el maquillaje de día y de noche
 - Color ciruela lacado pigmentado
 

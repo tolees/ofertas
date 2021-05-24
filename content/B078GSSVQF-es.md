@@ -28,10 +28,10 @@ En este momento está [Asamoom Maceta y lapicero en forma de figura de acción p
 
 🔎:
 
+- El paquete incluye: 1 macetero (sin planta).
+- Ideal como artículo coleccionable o regalo.
+- Material: resina.
 - Envuelto en bolsa de espuma.
 - Altura aproximada: 14,5 cm.
-- Material: resina.
-- Ideal como artículo coleccionable o regalo.
-- El paquete incluye: 1 macetero (sin planta).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078GSSVQF/?tag=tolees-21)

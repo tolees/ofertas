@@ -28,8 +28,8 @@ Tienes [LONGRIDGE CR06BT - Trofeo de Pelota de Golf de Cristal](https://www.amaz
 
 🔎:
 
+- pelota de golf de cristal de alta calidad
 - Base negra pesada ideal para grabado
 - Trofeo de golf ideal para competiciones o como regalo
-- pelota de golf de cristal de alta calidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004DUMWBS/?tag=tolees-21)

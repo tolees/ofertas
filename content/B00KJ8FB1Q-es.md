@@ -28,10 +28,10 @@ Está [OMRON M2 BASIC Tensiómetro de Brazo digital  Blanco y Azul](https://www.
 
 ℹ️:
 
-- Gracias a la tecnología Intellisense, la medición se toma sin necesidad de que el manguito se infle excesivamente
+- Monitor de presión arterial automático con manguito mediano (22-32 cm) y memoria que registra la última lectura
 - Contenido: 1 monitor de presión arterial de brazo OMRON M2 Basic, manguito mediano (22-32 cm), 4 pilas AA y manual de instrucciones
 - Dos indicadores: Las mediciones de OMRON M2 Basic incluyen indicadores que muestran si tu presión arterial sobrepasa el nivel recomendado o si se detecta algún latido arrítmico
 - Compatible con manguito pequeño (17-22 cm) y manguito Easy (22-42 cm)
-- Monitor de presión arterial automático con manguito mediano (22-32 cm) y memoria que registra la última lectura
+- Gracias a la tecnología Intellisense, la medición se toma sin necesidad de que el manguito se infle excesivamente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00KJ8FB1Q/?tag=tolees-21)
