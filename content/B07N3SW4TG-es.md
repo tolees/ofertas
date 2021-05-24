@@ -28,10 +28,10 @@ Tienes [Hackett London Slim Fit Logo Polo  Gris  LIGHT GREY MARL 913   Small par
 
 🔎:
 
-- Lavar a máquina agua fría (30 ° max)
 - Estilo del cuello: Polo
-- 100% Algodón
-- Suave y cómodo en la piel
 - Cuello y puños elásticos
+- Lavar a máquina agua fría (30 ° max)
+- Suave y cómodo en la piel
+- 100% Algodón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N3SW4TG/?tag=tolees-21)
