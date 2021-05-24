@@ -28,9 +28,9 @@ Está [Bosch Professional GSB 20-2 - Taladro percutor  850 W  2 velocidades  300
 
 ℹ️:
 
-- KickBack Control: para detectar e impedir bloqueos y antigolpes imprevistos
 - GSB 20-2, incluye: portabrocas de sujeción rápida de 13 mm, tope de profundidad de 210 mm, empuñadura adicional, maletín L-case
 - Larga vida util gracias a su robusta carcasa metálica
+- KickBack Control: para detectar e impedir bloqueos y antigolpes imprevistos
 - Apto para los trabajos más exigentes gracias a su robusto portabrocas de metal
 - Potente motor de 850 W para un rápido avance del trabajo
 

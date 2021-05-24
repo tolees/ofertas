@@ -28,10 +28,10 @@ Tienes [L Oreal Paris Make-up Designer - L’Óreal Paris Barra de Labios Color 
 
 🔎:
 
-- Color ciruela lacado pigmentado
-- Barra de labios con brillo intenso para el maquillaje de día y de noche
-- Tiene pigmentación duradera
 - Los labios tienen un aspecto pleno y sano
+- Tiene pigmentación duradera
 - Hidrata y cuida los labios
+- Barra de labios con brillo intenso para el maquillaje de día y de noche
+- Color ciruela lacado pigmentado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078BR79VH/?tag=tolees-21)

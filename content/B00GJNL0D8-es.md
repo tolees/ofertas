@@ -28,10 +28,10 @@ En este momento está [Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con 
 
 🔎:
 
-- Ancho de la correa: 22 mm; Circunferencia de la correa: 200 +/-5mm
-- Resistente al agua: 10 ATM
-- Se presenta en caja de regalo Michael Kors
 - Material de la correa: Acero inoxidable
 - Grosor de la caja: 13 mm; Tamaño de la caja: 45 mm
+- Resistente al agua: 10 ATM
+- Ancho de la correa: 22 mm; Circunferencia de la correa: 200 +/-5mm
+- Se presenta en caja de regalo Michael Kors
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00GJNL0D8/?tag=tolees-21)

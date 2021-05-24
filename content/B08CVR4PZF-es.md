@@ -28,8 +28,8 @@ Tienes [Lee Wobbly Logo tee Camiseta  Verde petróleo  M para Hombre](https://ww
 
 🔎:
 
-- Algodón orgánico
 - KnITS
+- Algodón orgánico
 - Corte regular
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CVR4PZF/?tag=tolees-21)

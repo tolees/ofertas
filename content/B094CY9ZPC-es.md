@@ -28,10 +28,10 @@ Tienes [LuckyGirls Festival - LuckyGirls Robot Aspirador y fregasuelos Aspira  B
 
 🔎:
 
-- Terreno / Funciones aplicables: terreno plano, como mármol, baldosas de cerámica, piso de madera, etc. (no se pueden usar mantas y otros terrenos irregulares), arranque con un botón, barrido, trapeado, aspiradora, carga USB, conducción universal, bajo nivel de ruido, considerado, sin molestias, baja repetición, alta cobertura
 - Nota: LuckyGirls no autoriza a otros vendedores, otros vendedores son vendedores falsos y los productos no están autorizados.Este limpiador mecánico inteligente está diseñado para eliminar la suciedad, el pelo de mascotas y el polvo de pisos de madera, pisos de mármol y pisos de nailon.Adecuado para limpiar el polvo y el cabello en suelos planos y lisos, no apto para suelos irregulares como mantas.
 - Modo de carga USB, con la batería incorporada de gran capacidad, se puede usar repetidamente cuando está completamente cargada, larga vida útil. Low Nosie & Purified Air, el motor avanzado reduce significativamente el ruido de aspiración, la tasa de eliminación del Dus t es superior al 99,7%.
-- Rueda mágica flexible y libre y control de microordenador, cambia automáticamente de dirección cuando encuentra obstáculos, inteligente de usar. El robot limpiador corre de forma natural por la casa para absorber el polvo y la tierra con el tejido de microfibra.
+- Terreno / Funciones aplicables: terreno plano, como mármol, baldosas de cerámica, piso de madera, etc. (no se pueden usar mantas y otros terrenos irregulares), arranque con un botón, barrido, trapeado, aspiradora, carga USB, conducción universal, bajo nivel de ruido, considerado, sin molestias, baja repetición, alta cobertura
 - Nuevo y de alta calidad, diseño pequeño y delgado: 6,8 cm, la batería de iones de litio avanzada de 3,7 v 2400 mah mantiene el máximo tiempo de ejecución y rendimiento de carga durante años, se puede usar repetidamente, larga vida útil.
+- Rueda mágica flexible y libre y control de microordenador, cambia automáticamente de dirección cuando encuentra obstáculos, inteligente de usar. El robot limpiador corre de forma natural por la casa para absorber el polvo y la tierra con el tejido de microfibra.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B094CY9ZPC/?tag=tolees-21)
