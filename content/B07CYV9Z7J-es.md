@@ -28,8 +28,8 @@ Ahora mismo tienes [Skechers Flex Appeal 3.0-Insiders  Zapatillas  Multicolor  G
 
 🔎:
 
+- adulto
 - synthetic
 - Grey
-- adulto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CYV9Z7J/?tag=tolees-21)
