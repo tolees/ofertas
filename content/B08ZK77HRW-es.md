@@ -29,9 +29,9 @@ Ahora mismo tienes [MEISHANG - 12PCS Maceta de Plástico Octogonal Maceta de Pl�
 🔎:
 
 - 2. Diseño cubierto: cada maceta viene con un platillo separado que tiene un color coordinado para que la maceta se vea más limpia. Puede mantener la humedad del suelo.
+- 3. Orificios de drenaje: Hay orificios de drenaje en la parte inferior de la maceta que pueden ayudar a que las raíces de las plantas se drenen y respiren, promuevan el crecimiento de las plantas y eviten la pudrición de las raíces.
+- 4.Grueso: Nuestras macetas pequeñas para plantas suculentas están hechas de plástico de resina PP grueso y de alta calidad, resistente y duradero, no es fácil de romper.
 - 1. La caja contiene: 12 maceteros octogonales con bandejas (4 colores: blanco, verde, negro, azul marino; 3 piezas para cada color).
 - 5. Ampliamente utilizado: está lleno de color y se puede utilizar para decorar y decorar habitaciones, jardines y escritorios, estanterías, antepechos de ventanas, jardinería, salas de estar, etc.
-- 4.Grueso: Nuestras macetas pequeñas para plantas suculentas están hechas de plástico de resina PP grueso y de alta calidad, resistente y duradero, no es fácil de romper.
-- 3. Orificios de drenaje: Hay orificios de drenaje en la parte inferior de la maceta que pueden ayudar a que las raíces de las plantas se drenen y respiren, promuevan el crecimiento de las plantas y eviten la pudrición de las raíces.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08ZK77HRW/?tag=tolees-21)

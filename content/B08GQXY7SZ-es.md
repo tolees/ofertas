@@ -28,10 +28,10 @@ Ahora mismo tienes [Markwins Lata de Maquillaje New Hello Beautiful - The Color 
 
 🔎:
 
-- UN REGALO ESPECIAL PARA TUS AMIGOS - Un atrevido embalaje con un diseño especial para un colorido kit de maquillaje: el regalo perfecto para todos los amantes de la belleza que quieren viajar con todo
-- TANTO DE VIAJE COMO EN TU BOLSO - No solo para cualquier look que busques si no para todos aquellos retoques que quieras hacerte durante el día. Con multiples tonalidades repartidas en 3 pisos
-- NO FALTA NADA - La lata con diseño exterior metalizado incluye 24 tonos de sombras de ojos, 3 tonos para cejas, polvos para el contorno, iluminadores, bronceador, colorete y 3 pinceles de maquillaje
 - UNA LARGA HISTORIA - Hace más de tres décadas que The Color Workshop ofrece una amplia gama de artículos de belleza innovadores y asequibles, inspirados en las últimas tendencias de belleza y moda
+- NO FALTA NADA - La lata con diseño exterior metalizado incluye 24 tonos de sombras de ojos, 3 tonos para cejas, polvos para el contorno, iluminadores, bronceador, colorete y 3 pinceles de maquillaje
+- TANTO DE VIAJE COMO EN TU BOLSO - No solo para cualquier look que busques si no para todos aquellos retoques que quieras hacerte durante el día. Con multiples tonalidades repartidas en 3 pisos
+- UN REGALO ESPECIAL PARA TUS AMIGOS - Un atrevido embalaje con un diseño especial para un colorido kit de maquillaje: el regalo perfecto para todos los amantes de la belleza que quieren viajar con todo
 - SEGURO - El maquillaje The Color Workshop es apto para todo tipo de pieles y cumple con las normas EU. Siempre hemos cuidado la seguridad y la calidad de nuestros productos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GQXY7SZ/?tag=tolees-21)
