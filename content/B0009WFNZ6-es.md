@@ -28,8 +28,8 @@ Está [Faber Castell 708952 - Lápiz HB](https://www.amazon.es/dp/B0009WFNZ6/?ta
 
 ℹ️:
 
-- Marca : Faber Castell
 - Tipo : grafito
+- Marca : Faber Castell
 - Dureza : hb
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0009WFNZ6/?tag=tolees-21)

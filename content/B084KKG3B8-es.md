@@ -28,10 +28,10 @@ En este momento está [Protest Souflee Bañador para Hombre  Ground Blue  M](htt
 
 🔎:
 
-- Ojales metálicos
 - Cintura interior lisa
+- Estampado completo
+- Ojales metálicos
 - Bragueta falsa
 - Cordón redondo en contraste de color en la cintura
-- Estampado completo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084KKG3B8/?tag=tolees-21)
