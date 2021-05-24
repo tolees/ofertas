@@ -29,9 +29,9 @@ Tienes [Teka | Placa de inducción Flex de 60cm con 4 zonas con funciones direct
 🔎:
 
 - Programador del tiempo de cocción hasta 99 minutos con avisador acústico (posibilidad de programar todas las placas a la vez)
+- Dimensiones Alto x Ancho x Profundo (cm): 5 x 60 x 51
 - Modo silencio. 4 zonas de cocción (3 + Flex combinada)
 - Función Power Plus. Función STOP & GO. Funciones directas: Simmering, melting y mantenimiento de calor
 - Touch Control Multislider con sensores acústicos y bloqueo de seguridad (uno para cada placa de cocción)
-- Dimensiones Alto x Ancho x Profundo (cm): 5 x 60 x 51
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08JH1VWJ9/?tag=tolees-21)

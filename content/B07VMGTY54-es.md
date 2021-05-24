@@ -29,7 +29,7 @@ Tienes [Nike Court Borough Low 2  Zapatillas de Correr  White White White  36 EU
 🔎:
 
 - Suave de Llevar
-- Importado
 - Cordones de Zapatos
+- Importado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VMGTY54/?tag=tolees-21)
