@@ -29,7 +29,7 @@ Tienes [Columbia Sun Ridge Polo  Hombre  Gris  Shark   S](https://www.amazon.es/
 ℹ️:
 
 - Fabricado en Bangladesh.
-- Omni-Shade UPF 50 Sun Protection
 - Omni-Wick
+- Omni-Shade UPF 50 Sun Protection
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00OCSJMJQ/?tag=tolees-21)

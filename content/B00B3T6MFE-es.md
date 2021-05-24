@@ -28,9 +28,9 @@ Está [Irwin XP18 IW10505944  450 mm](https://www.amazon.es/dp/B00B3T6MFE/?tag=t
 
 ℹ️:
 
-- Dimensiones del producto: 24.99 x 4.7 x 67.49 cm
 - Contenido del paquete: una unidad
-- Tamaño: 450 mm
 - Sistema de medida: metric
+- Tamaño: 450 mm
+- Dimensiones del producto: 24.99 x 4.7 x 67.49 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00B3T6MFE/?tag=tolees-21)
