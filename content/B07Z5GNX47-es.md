@@ -28,10 +28,10 @@ Ahora mismo tienes [Chicco Polly Magic Relax Trona y Hamaca Evolutiva Bebés Apt
 
 🔎:
 
-- ENTRETENIMIENTO: la trona de viaje incluye una barra de juegos, ajustable en 3 posiciones diferentes y apta para usar incluso con la bandeja colocada, que tendrá a tu bebé entretenido con sus juguetes colgantes de felpa
-- PRÁCTICA Y REGULABLE: esta trona evolutiva cuenta con 8 niveles de altura diferente y un asiento de tacto suave, fácil de limpiar con una esponja o trapo Una vez cerrada, es compacta, se mantiene de pie y se puede guardar fácilmente
 - CON 4 RUEDAS: la trona convertible en hamaca para bebés se puede mover sin problema para colocarla junto a la mesa o cambiar su posición, tanto abierta como cerrada, gracias a sus 4 ruedas, 2 de las cuales son giratorias y con freno para bloquearlas
 - COMODIDAD: equipada con un cómodo cojín reductor de doble cara: un lado de malla transpirable para el verano, y otro de suave tejido cálido para el invierno
+- PRÁCTICA Y REGULABLE: esta trona evolutiva cuenta con 8 niveles de altura diferente y un asiento de tacto suave, fácil de limpiar con una esponja o trapo Una vez cerrada, es compacta, se mantiene de pie y se puede guardar fácilmente
+- ENTRETENIMIENTO: la trona de viaje incluye una barra de juegos, ajustable en 3 posiciones diferentes y apta para usar incluso con la bandeja colocada, que tendrá a tu bebé entretenido con sus juguetes colgantes de felpa
 - RECLINABLE: Polly Magic Relax es la trona de bebé de Chicco que se transforma en hamaca, apta desde el nacimiento hasta los 3 años, con un respaldo reclinable en 4 posiciones, un cómodo reposapiernas, barra de juegos y un cojín reductor para los primeros meses
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Z5GNX47/?tag=tolees-21)

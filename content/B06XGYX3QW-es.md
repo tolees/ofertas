@@ -29,7 +29,7 @@ En este momento está [Funko Vinyl: Valerian: Doghan Daguis  10 cm  14336 ](http
 🔎:
 
 - Valerian
-- Funko POP
 - Doghan Daguis
+- Funko POP
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XGYX3QW/?tag=tolees-21)

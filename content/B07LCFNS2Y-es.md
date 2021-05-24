@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment- Cry Havoc  Edge Ente al 49.98 % de descuento'
-date: 2021-05-22 15:41:00
+date: 2021-05-24 08:08:45
 image: 'https://m.media-amazon.com/images/I/51ruUAwLNzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B07LCFNS2Y/?tag=tolees-21'
 descuento: '49.98'
-average: '37.97'
+average: '37.374'
 ---
 
 Ahora mismo tienes [Edge Entertainment- Cry Havoc  Edge Entertaiment EEPGCH01 ](https://www.amazon.es/dp/B07LCFNS2Y/?tag=tolees-21) a 34.99 EUR (original: 69.95 EUR) (49.98 %  de descuento) en el siguiente enlace!

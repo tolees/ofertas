@@ -28,12 +28,12 @@ Ahora mismo tienes [Schneider TV LED 40" Full HD  SC-LED40SC510K  HDMI  USB 2.0 
 
 🔎:
 
+- Entradas y Salidas: HDMI x3 2.0, USB x2 2.0, Entrada de Audio (L/R), Salida Auriculares, AV, Componentes, Euroconector, VGA, Entrada PC Audio, Puerto CI.
 - Entrada de Auriculares Jack 3,5mm
-- Vataje (W): 37.0 kilowatt_hours
-- Idioma del menú: Español
 - Sintonizador DVB-T/T2/C
 - Tipo de altavoz: built_in
-- Entradas y Salidas: HDMI x3 2.0, USB x2 2.0, Entrada de Audio (L/R), Salida Auriculares, AV, Componentes, Euroconector, VGA, Entrada PC Audio, Puerto CI.
+- Idioma del menú: Español
 - Televisor LED de 40 pulgadas, con resulución de 1920 x 1080 píxeles
+- Vataje (W): 37.0 kilowatt_hours
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RD8MF2L/?tag=tolees-21)

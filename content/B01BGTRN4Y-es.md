@@ -28,9 +28,9 @@ Tienes [G-Star Raw Midge Mid Bootcut Vaqueros Corte de Bota  Azul  Dark Aged   2
 
 🔎:
 
-- 98% Algodón, 2% Elastano
 - Cierre: Cremallera
 - Boot-Cut
 - Normal
+- 98% Algodón, 2% Elastano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01BGTRN4Y/?tag=tolees-21)

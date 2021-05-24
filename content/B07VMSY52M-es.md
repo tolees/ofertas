@@ -28,10 +28,10 @@ Ahora mismo tienes [SCHNEIDER CONSUMER - Barra De Sonido Sc600Snd  Soundbar 2.0 
 
 🔎:
 
-- Incluye Control Remoto y Cable Jack 3,5mm.
-- Conexión Bluetooth, HDMI, (ARC), Optical, Aux.
-- 91 dB de Nivel Máximo de Presión Sonora
-- 2 Canales (2.0) con 30W (15Wx 2) de potencia.
 - Dos opciones de diseño: dividido en dos columnas de sonido o un monobloque estándar, que se puede transformar con un simple clip.
+- Conexión Bluetooth, HDMI, (ARC), Optical, Aux.
+- Incluye Control Remoto y Cable Jack 3,5mm.
+- 2 Canales (2.0) con 30W (15Wx 2) de potencia.
+- 91 dB de Nivel Máximo de Presión Sonora
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VMSY52M/?tag=tolees-21)

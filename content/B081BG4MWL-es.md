@@ -28,10 +28,10 @@ Tienes [U&I Entertainment - Guacamelee! - One-Two Punch Collection](https://www.
 
 🔎:
 
-- Mundo diverso con pueblos animados, bosques oscuros, canales floridos y volcanes ardientes
-- Clásico mundo abierto tipo “Metroidvania”, con mecánicas de intercambio de dimensiones entre los mundos de los vivos y el mundo de los muertos
-- Entrada / salida del juego cooperativo local de hasta cuatro jugadores
 - Incluye un póster exclusivo de 2 caras, un manual a todo color de 32 páginas, todas las expansiones y códigos de las bandas sonoras originales de ambos juegos
+- Mundo diverso con pueblos animados, bosques oscuros, canales floridos y volcanes ardientes
+- Entrada / salida del juego cooperativo local de hasta cuatro jugadores
 - Desdibuja los límites entre el combate y las plataformas, con una extensa lista de movimientos especiales y un avanzado motor de combos, con movimientos especiales que valen lo mismo para aplastar esqueletos que para explorar el mundo
+- Clásico mundo abierto tipo “Metroidvania”, con mecánicas de intercambio de dimensiones entre los mundos de los vivos y el mundo de los muertos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081BG4MWL/?tag=tolees-21)
