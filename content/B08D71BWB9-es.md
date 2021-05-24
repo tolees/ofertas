@@ -28,10 +28,10 @@ Tienes [Skechers Heart Lights Rainbow Lux  Zapatillas Niñas  Pkmt  35 EU](https
 
 🔎:
 
-- Flexible traction outsole.
+- Slip-on style in a bungee-laced panel.
 - Hook and loop strap with on/off light switch.
 - Cushioned midsole with 3-D sculpted light-up hearts.
+- Flexible traction outsole.
 - Shimmery ombre fabric upper and smooth synthetic upper.
-- Slip-on style in a bungee-laced panel.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D71BWB9/?tag=tolees-21)

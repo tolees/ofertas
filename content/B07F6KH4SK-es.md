@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REPSOL Limpia Parabrisas  5L al 36.71 % de rebaja'
-date: 2021-05-22 14:17:13
+date: 2021-05-24 19:05:11
 image: 'https://m.media-amazon.com/images/I/413AUMFfWKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [REPSOL Limpia Parabrisas  5L](https://www.amazon.es/dp/B07F6KH4SK/?tag=t
 🔎:
 
 - Alta calidad, 5l
-- Protege el circuito por encima de -7ºc; instrucciones: llenar el depósito del limpiaparabrisas con este producto
 - Limpia y desengrasa a fondo el interior y exterior de las lunas de los vehículos; elimina residuos y grasa de los parabrisas dejándolos limpios y aportando una excelente visibilidad
+- Protege el circuito por encima de -7ºc; instrucciones: llenar el depósito del limpiaparabrisas con este producto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F6KH4SK/?tag=tolees-21)
