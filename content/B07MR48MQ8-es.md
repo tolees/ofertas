@@ -28,7 +28,7 @@ En este momento está [United Colors of Benetton Pantalones  Negro  Nero 700   4
 
 🔎:
 
-- Lavado 40º C ligero, no usar lejía, apto para secadora, secado natural, planchado 150º C, no lavar en seco.
 - Algodón 2% elastano.
+- Lavado 40º C ligero, no usar lejía, apto para secadora, secado natural, planchado 150º C, no lavar en seco.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MR48MQ8/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Vinyl: Valerian: Doghan Daguis  10 con un 56.11 % de descuento'
-date: 2021-05-09 22:33:12
+date: 2021-05-24 07:06:18
 image: 'https://m.media-amazon.com/images/I/41uHoXroPfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B06XGYX3QW/?tag=tolees-21'
 descuento: '56.11'
-average: '6.07375'
+average: '6.17666666666667'
 ---
 
 En este momento está [Funko Vinyl: Valerian: Doghan Daguis  10 cm  14336 ](https://www.amazon.es/dp/B06XGYX3QW/?tag=tolees-21) a 7.0 EUR (original: 15.95 EUR) (56.11 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Funko Vinyl: Valerian: Doghan Daguis  10 cm  14336 ](http
 
 🔎:
 
-- Funko POP
 - Valerian
+- Funko POP
 - Doghan Daguis
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XGYX3QW/?tag=tolees-21)
