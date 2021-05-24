@@ -28,10 +28,10 @@ Tienes [Arquivet Jaula roedores pequeños Gran Canaria - Casa para Hamsters  Rat
 
 🔎:
 
-- Disponible en color naranja, azul y rosa
-- ¡Nota! El fabricante nos proporciona este producto en colores aleatorios. Nos resulta imposible proporcionarle el producto en un color en particular. Al confirmar tu compra, recibirás uno de los colores mencionados en función de la disponibilidad. Muchas gracias por su comprensión
-- Incluye rueda giratoria, comedero y bebedero, piso, tobogan de tubos y terraza exterior.
 - Jaula de tres plantas, para roedores, hecho de plástico resistente
+- Disponible en color naranja, azul y rosa
 - Medidas: 40 x 26 x 53 cm
+- Incluye rueda giratoria, comedero y bebedero, piso, tobogan de tubos y terraza exterior.
+- ¡Nota! El fabricante nos proporciona este producto en colores aleatorios. Nos resulta imposible proporcionarle el producto en un color en particular. Al confirmar tu compra, recibirás uno de los colores mencionados en función de la disponibilidad. Muchas gracias por su comprensión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01AV9N9ZW/?tag=tolees-21)
