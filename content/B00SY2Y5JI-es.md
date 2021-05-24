@@ -28,10 +28,10 @@ Tienes [Lotus Reloj Analógico para Niños de Cuarzo con Correa en Caucho 18172/
 
 ℹ️:
 
-- Diámetro de la caja: 35 mm
 - Esfera blanca con números arábigos y manecillas blancas y negras
-- Sumergible: 5 bares
 - Carcasa: plástico azul
+- Diámetro de la caja: 35 mm
+- Sumergible: 5 bares
 - Correa: goma azul y negro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00SY2Y5JI/?tag=tolees-21)
