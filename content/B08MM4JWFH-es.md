@@ -28,11 +28,11 @@ Tienes [Amazon Basic Care Tampones Super  con aplicador plástico largo  6 paque
 
 🔎:
 
-- Hasta 8 horas de protección antifugas (usar hasta 8 horas como máximo)
 - Se expanden tanto el longitud como en anchura para ofrecer una protección máxima y confortable
-- Dermatológicamente testado
-- Para días de flujo normal a abundante , los tampones tienen una punta redondeada y lisa y un aplicador fácil de usar para una inserción delicada
-- Para protección menstrual, 6 paquetes de 20 (120 tampones en total)
 - Aplicador plástico compacto con fácil deslizamiento para una cómoda inserción
+- Para protección menstrual, 6 paquetes de 20 (120 tampones en total)
+- Hasta 8 horas de protección antifugas (usar hasta 8 horas como máximo)
+- Para días de flujo normal a abundante , los tampones tienen una punta redondeada y lisa y un aplicador fácil de usar para una inserción delicada
+- Dermatológicamente testado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MM4JWFH/?tag=tolees-21)

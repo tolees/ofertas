@@ -28,10 +28,10 @@ Tienes [AKTIVE Garden 53886 Parasol excéntrico Banana  diámetro 270 cm  verde 
 
 🔎:
 
-- Con 6 varillas y techo tipo chimenea para favorecer la circulación del aire
-- El diámetro del parasol es de 270 cm y la altura de 245 cm, el parasol se puede rotar 360º para mover la sombra sin tener que mover la estructura entera
+- Mecanismo de inclinación con pulsador para conseguir la posición más acertada, la manivela facilita el abrir y cerrar del parasol con mayor comodidad
 - Parasol de fibra de poliéster de 160 gramos y estructura de aluminio, tubo central de 42 - 48 mm de diámetro, base de cruz para ponerle peso
 - Parasol jardín con forma hexagonal en color verde de la línea Aktive Garden
-- Mecanismo de inclinación con pulsador para conseguir la posición más acertada, la manivela facilita el abrir y cerrar del parasol con mayor comodidad
+- El diámetro del parasol es de 270 cm y la altura de 245 cm, el parasol se puede rotar 360º para mover la sombra sin tener que mover la estructura entera
+- Con 6 varillas y techo tipo chimenea para favorecer la circulación del aire
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0799GB9KV/?tag=tolees-21)

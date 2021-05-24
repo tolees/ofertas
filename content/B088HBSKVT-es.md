@@ -28,9 +28,9 @@ En este momento está [NIKE ATM Y NK BRT Stad JSY SS AW T-Shirt  Unisex niños  
 
 🔎:
 
-- Camiseta de Atlético de Madrid
 - La tecnología Nike Dri-FIT te ayuda a mantenerte seco y cómodo
 - La tela Nike Breathe te ayuda a mantenerte fresco
 - Ajuste estándar para una sensación relajada y cómoda
+- Camiseta de Atlético de Madrid
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088HBSKVT/?tag=tolees-21)

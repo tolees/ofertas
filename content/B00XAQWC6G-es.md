@@ -28,8 +28,8 @@ Está [Haribo favoritos azucar 1kg  1 unidad ](https://www.amazon.es/dp/B00XAQWC
 
 ℹ️:
 
-- Surtido de caramelos de goma
 - Delicioso mix de diferentes piezas recubiertas de azúcar
+- Surtido de caramelos de goma
 - Irresistible mix de sabores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XAQWC6G/?tag=tolees-21)

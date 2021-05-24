@@ -28,10 +28,10 @@ En este momento está [Clim Profesional - Gel y champú 2 en 1. Dermatológico p
 
 🔎:
 
-- Su fórmula dermatológica asegura el cuidado e higiene de la piel con cada uso. Proporciona una sensación de frescor duradero y de máxima limpieza.
-- El cuidado de la piel es muy importante para la salud e higiene de cada persona. Este gel y champú profesional respeta la dermis en niños y adultos. Al contar con dos principios activos: gel y champú en solo un producto, hace que sea un producto más que eficaz y económico
-- Válido para uso directo manual o bien recarga para amenities y dispensadores de gel, jabón y champú. Válido para limpieza e higiene de cuerpo y cabello.
 - Garrafa de gel y champú 2 en 1. Es un jabón dermatológico para cuerpo y cabello en formato industrial garrafa de 5 litros.
+- Válido para uso directo manual o bien recarga para amenities y dispensadores de gel, jabón y champú. Válido para limpieza e higiene de cuerpo y cabello.
 - Especialmente indicado para uso directo manual, recambio en amenities o en dispensadores y dosificadores y gel, jabón o champú.
+- El cuidado de la piel es muy importante para la salud e higiene de cada persona. Este gel y champú profesional respeta la dermis en niños y adultos. Al contar con dos principios activos: gel y champú en solo un producto, hace que sea un producto más que eficaz y económico
+- Su fórmula dermatológica asegura el cuidado e higiene de la piel con cada uso. Proporciona una sensación de frescor duradero y de máxima limpieza.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QWLH38S/?tag=tolees-21)

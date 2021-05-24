@@ -28,7 +28,7 @@ Está [Lacoste PH4012 T-Shirt Polo  Ruisseau  4XL Uomo](https://www.amazon.es/dp
 
 ℹ️:
 
-- Slim fit
 - Tapeta 2 botones
+- Slim fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XH8QND6/?tag=tolees-21)
