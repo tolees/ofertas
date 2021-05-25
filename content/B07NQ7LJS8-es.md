@@ -28,10 +28,10 @@ En este momento está [Rimmel London Base de Maquillaje Lasting Radiance Tono 70
 
 🔎:
 
-- Protección solar SPF 25 para luchar contra los radicales UV
-- Para un rostro más despejado y radiante
-- Complejo antioxidante que esconde rodjeces, disminuye los signos de fatiga y resalta instantáneamente la piel para que parezca perfecta y suave
 - Perlas satinadas que permiten iluminar la piel todo el día
 - Base de maquillaje con fórmula anti-polución
+- Para un rostro más despejado y radiante
+- Complejo antioxidante que esconde rodjeces, disminuye los signos de fatiga y resalta instantáneamente la piel para que parezca perfecta y suave
+- Protección solar SPF 25 para luchar contra los radicales UV
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NQ7LJS8/?tag=tolees-21)
