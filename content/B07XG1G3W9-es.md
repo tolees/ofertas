@@ -28,10 +28,10 @@ Tienes [Yizhet 4 piezas Resistencias de Carga de Motocicleta LED 12V Flasher Uni
 
 🔎:
 
-- 【LED Flasher Size】 Dimensiones: 62 x 12 x 12 mm; Longitud del cable: 15 cm, el cable negro es negativo, el cable amarillo es positivo
 - 【Estabiliza las tasas de destello del indicador LED】Reduce la frecuencia del flash al cambiar de las bombillas a los indicadores LED. Se omite la sustitución del relé OE.
 - 【Ajuste universal】Simplemente intercambie con el relé estándar de su vehículo, este relé de intermitencia resuelve los problemas de intermitencia de los intermitentes relacionados con la luz LED.
-- 【Instalación fácil】Conectores a lunares para una fácil instalación, montados en Intermitentes moto,indicadores moto,indicadores intermitente.
 - 【4PCS Motorcycle Flasher LED】Cada juego 4 Resistencias de Intermitentes moto LED, Cable resistente a las altas temperaturas, mayor duración, Compatible Con más modelos.
+- 【LED Flasher Size】 Dimensiones: 62 x 12 x 12 mm; Longitud del cable: 15 cm, el cable negro es negativo, el cable amarillo es positivo
+- 【Instalación fácil】Conectores a lunares para una fácil instalación, montados en Intermitentes moto,indicadores moto,indicadores intermitente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XG1G3W9/?tag=tolees-21)
