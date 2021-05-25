@@ -28,10 +28,10 @@ Está [Disaronno Licor de crema velvet - 70cl - Pack con dos vasos cristal blanc
 
 ℹ️:
 
-- Color: Blanco cremoso y cremoso
-- Acabado: Larga duración
 - Sabor: Aterciopelado, suave, a nuez, ligeramente amargo
 - Nariz: Vainilla bourbon dulce, toques de mazapán y almendras
+- Color: Blanco cremoso y cremoso
 - El Terciopelo de Disaronno debe disfrutarse exclusivamente en hielo para realzar su sabor único y fresco
+- Acabado: Larga duración
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08WDM4Y1N/?tag=tolees-21)

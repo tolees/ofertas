@@ -31,7 +31,7 @@ Tienes [Staright 6Pcs Luces Solares Jardín  IP65 LED Lamparas Solares Jardín  
 - 【Tiempo de servicio prolongado】: la vida útil de los LED es de hasta 3.600 horas, lo que realmente significa que ahorra costos y rara vez se reemplaza.
 - 【Iluminación de paisaje】: Patrón de reflexión delicado y hermoso e iluminación blanca cálida suave, que le brinda un efecto visual inesperado como iluminación decorativa de jardín.
 - 【Ahorro de energía y seguro】: Cargado por la luz solar durante el día con una alta tasa de conversión electrónica, no se necesitan cables ni enchufes.
-- 【Ampliamente aplicable】: IP65 resistente al agua y al polvo, se puede usar en jardines, patios, balcones, caminos, entradas de vehículos y otras decoraciones al aire libre.
 - 【Fácil instalación】: Simplemente encienda el interruptor e insértelo en el suelo, se iluminará automáticamente por la noche / al anochecer.
+- 【Ampliamente aplicable】: IP65 resistente al agua y al polvo, se puede usar en jardines, patios, balcones, caminos, entradas de vehículos y otras decoraciones al aire libre.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0957K4TPV/?tag=tolees-21)
