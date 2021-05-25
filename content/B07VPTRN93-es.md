@@ -28,8 +28,8 @@ En este momento está [Nike Court Borough Low 2  Zapatillas de Correr  Negro  36
 
 🔎:
 
-- Diseño de baloncesto retro
-- Suela de goma de gran tracción
 - Cuero suave y duradero
+- Suela de goma de gran tracción
+- Diseño de baloncesto retro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VPTRN93/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [ThunderX3 TMP30 - Alfombrilla gaming profesional  mayor precisión  super
 
 ℹ️:
 
-- La alfombrilla de ThunderX3 TMP30 goza de un diseño específico rugoso para crear una sensación de resistencia a tus movimientos
 - Esta alfombrilla gaming ha sido diseñada para ofrecer precisión y calidad de seguimiento para ratones tanto ópticos como con sensor láser
-- Dimensiones: 40 cm de ancho y 32 cm de largo
-- La fricción entre su textura y la base del ratón aumenta la precisión de cada uno de tus movimientos al eliminar los golpes de fuerza utilizados para mover el ratón
 - La base esta fabricada con goma antideslizante de 4 mm de grosor. Los bordes de la TMP30 están reforzados para evitar deformaciones o daños
+- La fricción entre su textura y la base del ratón aumenta la precisión de cada uno de tus movimientos al eliminar los golpes de fuerza utilizados para mover el ratón
+- Dimensiones: 40 cm de ancho y 32 cm de largo
+- La alfombrilla de ThunderX3 TMP30 goza de un diseño específico rugoso para crear una sensación de resistencia a tus movimientos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01FY86YLG/?tag=tolees-21)

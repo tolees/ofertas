@@ -28,9 +28,9 @@ Tienes [Adidas CORE18 POLO Polo shirt  Hombre  Dark Blue/ White  S](https://www.
 
 ℹ️:
 
-- Climalite anti-humidity fabric
-- Suela Adiwear de gran resistencia al desgaste.
 - Parte superior textil con refuerzos de TPU.
 - Cierre de cordones.
+- Climalite anti-humidity fabric
+- Suela Adiwear de gran resistencia al desgaste.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B076HQT15J/?tag=tolees-21)
