@@ -28,9 +28,9 @@ Tienes [RADEX 85005070. Caja de 50 Mascarillas Quirúrgicas Tipo IIR con Gomas  
 
 🔎:
 
-- Mascarillas quirúrgicas de tres capas, con capacidad de filtración del 99%. Fabricadas con materiales hipo alergénicos, biocompatibles y resistentes a las salpicaduras.
 - Estas Mascarillas están fabricadas en Culleredo, A Coruña, España.
-- Producto que combina tradición e innovación
+- Mascarillas quirúrgicas de tres capas, con capacidad de filtración del 99%. Fabricadas con materiales hipo alergénicos, biocompatibles y resistentes a las salpicaduras.
 - Caja de 50 Mascarillas Quirúrgicas con gomas. Tipo IIR. Color Blanco. 5 envases plastificados de 10 unidades.
+- Producto que combina tradición e innovación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WJ4CCQP/?tag=tolees-21)

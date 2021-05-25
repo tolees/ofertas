@@ -29,8 +29,8 @@ Está [Exacompta 14741E - Cajita de 100 chinchetas  Latón](https://www.amazon.e
 ℹ️:
 
 - Diámetro de la cabeza de 9mm
-- Cabeza llana y aguja fina cabeza con bordes anchos que facilita quitar la chincheta
-- Color latón
 - Altura de la punta 9mm
+- Color latón
+- Cabeza llana y aguja fina cabeza con bordes anchos que facilita quitar la chincheta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001ANX6RA/?tag=tolees-21)

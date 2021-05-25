@@ -28,13 +28,13 @@ En este momento está [Geox D New ANNYA A  Zapatos de Tacón Mujer  Azul  Navy C
 
 🔎:
 
-- Tipo de tacón: Bloque
+- Material de la suela: Sintético
+- Material exterior: Cuero
 - Cierre: Sin cierre
+- Revestimiento: Sintético
 - Tipo de talla: Los zapatos Geox son holgados
 - Anchura del zapato: Normal
 - Altura del tacón: 7.5 centímetros
-- Material de la suela: Sintético
-- Material exterior: Cuero
-- Revestimiento: Sintético
+- Tipo de tacón: Bloque
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07LFRMZ88/?tag=tolees-21)

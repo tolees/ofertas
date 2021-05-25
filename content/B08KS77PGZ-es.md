@@ -28,9 +28,9 @@ Ahora mismo tienes [NK SOS Road- Baliza luz de Emergencia | Luz de Emergencia Au
 
 🔎:
 
-- 💡 USO DE EMERGENCIA MULTIPROPÓSITO- Este LED de luz de alta intensidad está diseñado para funcionar en todos los vehículos. Las luces de emergencia se pueden usar en diferentes ocasiones para trabajos personales o profesionales.
 - 💡 RESISTENTE AL AGUA - La carcasa está hecha de materiales duraderos. SOS ROAD está diseñado para resistir la lluvia, la humedad y la nieve durante todo el año. Es una herramienta imprescindible para el vehículo, la bicicleta o cualquier situación de emergencia.
 - 💡 ALTA VISIBILIDAD- Equipado con 9 LED alta intensidad, intenisdad luminosa de 40-80 candelas a 0º y un ángulo de radiación luminosa de 360º . Requiere 3 baterías super alcalinas AAA (batería icluida).
+- 💡 USO DE EMERGENCIA MULTIPROPÓSITO- Este LED de luz de alta intensidad está diseñado para funcionar en todos los vehículos. Las luces de emergencia se pueden usar en diferentes ocasiones para trabajos personales o profesionales.
 - 💡 FÁCIL USO- SOS ROAD incluye una base con un potente imán Neodimio que proporciona facilidad a sus usuarios para asegurarlo al techo de su automóvil, camión, camioneta o vehículo de emergencia en segundos. ¡Sin dejar ningún daño en la pintura!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KS77PGZ/?tag=tolees-21)

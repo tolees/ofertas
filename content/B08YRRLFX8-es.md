@@ -28,11 +28,11 @@ En este momento está [Schneider TV LED 24" Full HD  SC-LED24SC510K  HDMI  USB 2
 
 🔎:
 
-- Idioma del menú: Español, Inglés, Francés, Alemán, Italinao, Holandés
-- Televisor LED de 24 pulgadas, con resulución de 1920 x 1080 píxeles
-- Entrada de Auriculares Jack 3,5mm
-- Número de puertos HDMI: 1; Potencia (W): 22.0 kilowatt hours; tamaño de pantalla: 24.0 inches; tipo de altavoz: built in
 - Entradas y Salidas: HDMI x1, Entrada Audio (R/L), VGA, AV, PC Audio 3.5mm, Puerto CI, Componentes
+- Televisor LED de 24 pulgadas, con resulución de 1920 x 1080 píxeles
 - Sintonizador DVB-T/T2/C
+- Número de puertos HDMI: 1; Potencia (W): 22.0 kilowatt hours; tamaño de pantalla: 24.0 inches; tipo de altavoz: built in
+- Entrada de Auriculares Jack 3,5mm
+- Idioma del menú: Español, Inglés, Francés, Alemán, Italinao, Holandés
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08YRRLFX8/?tag=tolees-21)
