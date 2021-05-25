@@ -31,7 +31,7 @@ Tienes [Kelme - Zapatillas Precision Wild/Art](https://www.amazon.es/dp/B07C5FBH
 - 10
 - BEIG
 - Futsal
-- Lavar en frío
 - Cordones
+- Lavar en frío
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07C5FBHX4/?tag=tolees-21)

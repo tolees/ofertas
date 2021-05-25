@@ -28,10 +28,10 @@ Tienes [Columbia Sun Ridge Polo  Hombre  Mountain  XS](https://www.amazon.es/dp/
 
 🔎:
 
-- Máxima durabilidad y confort gracias a la suave mezcla de modal y poliéster
 - Polo de manga corta para hombre para actividades al aire libre o días de ocio en la ciudad, Para llevar durante todo el año, Active fit
 - Protección contra las quemaduras de sol y los daños a largo plazo en la piel
-- Combínalo con otros productos de Columbia para un estilo divertido y funcional
 - Contenido: 1x Columbia Hombre Polo de Manga Corta, SUN RIDGE POLO, Tejido: 75% modal / 25% Poliéster, Color: Azul (Mountain), Talla: XS, 1399471
+- Máxima durabilidad y confort gracias a la suave mezcla de modal y poliéster
+- Combínalo con otros productos de Columbia para un estilo divertido y funcional
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KRMDCT9/?tag=tolees-21)
