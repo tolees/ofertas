@@ -28,8 +28,8 @@ Tienes [Wolfcraft 7712010 7712010-1 Broca para Piedra diam. 12 0 mm  plata  12.0
 
 🔎:
 
-- Welcome to wolfcraft, the leading manufacturer of innovative tools and trusted supplier of power tool accessories
 - Resistente
+- Welcome to wolfcraft, the leading manufacturer of innovative tools and trusted supplier of power tool accessories
 - Marca: Wolfcraft
 - Producto en color plata
 

@@ -28,8 +28,8 @@ Tienes [Suavinex Premium Succh Fis S 4-18 M Azz Claro - 30 g](https://www.amazon
 
 ℹ️:
 
-- No apto para microondas
-- Tetina fisiológica de silicona reversible
 - Sin bisfenol A
+- Tetina fisiológica de silicona reversible
+- No apto para microondas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZPCN8F5/?tag=tolees-21)
