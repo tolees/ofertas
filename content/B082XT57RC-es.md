@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Carol Jeans  Vintage Danny  26W x 31 al 50.01 % de descuento'
-date: 2021-05-22 10:29:04
+date: 2021-05-25 16:23:40
 image: 'https://m.media-amazon.com/images/I/41nCh+8R0YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

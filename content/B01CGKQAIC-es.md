@@ -29,7 +29,7 @@ Está [ST. MORIZ - St Moriz Autobronceador Mousse Tono Medium - 200 ml](https://
 ℹ️:
 
 - Texturas: Espuma
-- Formato: Dosificador
 - Tipo de Piel: Todo Tipo de Pieles
+- Formato: Dosificador
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CGKQAIC/?tag=tolees-21)

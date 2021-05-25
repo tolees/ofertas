@@ -29,8 +29,8 @@ Ahora mismo tienes [Hibron Mascarillas faciales Deshechable  pack con 50 unidade
 🔎:
 
 - Mascarillas HIBRON: Es conforme con la norma EN 14683: 2019 + AC: 2019. Fabricado bajo las de Unión Europea CWA 17553:2020 equivalente a especificaciones españolas UNE 0064-1:2020. Tamaño: 17,50 cm x 9,50 cm para adultos
-- Packaging Caja con 50 unidades
 - BFE (Filtración) >99%, Respiralidad (Presión diferencial) < 60 Pa/cm²
+- Packaging Caja con 50 unidades
 - "ADVERTENCIA: Este dispositivo no es un producto sanitario en el sentido de la Directiva 93/42 o del Reglamento UE / 2017/745, ni un equipo de protección individual en el sentido del Reglamento UE / 2016/425";
 - La mascarilla higiénica está destinada a personas adultas sin síntomas
 
