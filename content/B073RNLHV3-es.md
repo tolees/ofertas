@@ -28,10 +28,10 @@ En este momento está [Columbia Santiam 2 Strap  Zapatillas Hombres  Grey  Dark 
 
 🔎:
 
-- Duradera y elegante: la sandalia Columbia Santiam de 2 correas para hombre viene en una plataforma de cama duradera con detalles de tono tierra para un gran conjunto de sandalias que puedes llevar en cualquier lugar.
-- Tracción en todo terreno: nuestra exclusiva suela de goma Omni-GRIP que no deja marcas proporciona un agarre importante para todas las condiciones en el camino, lado del río o limitado a los interiores urbanos.
-- Tecnología avanzada: el cuero de ante tolerante al agua con construcción superior de superposición sintética cuenta con nuestra entresuela Techlite probada para una comodidad duradera con amortiguación superior y alto retorno de energía.
-- Diseñado para durar: la atención al detalle de Columbia es lo que distingue nuestro calzado. Especifica solo materiales de la más alta calidad, costura y artesanía expertos. Estas son sandalias de larga duración que disfrutarás durante las próximas temporadas.
 - Sandalias listas para camino: diseñadas desde el principio para ser calzado duradero, estas sandalias proporcionarán un rendimiento seguro en el camino o incluso vadear a través de obstáculos de agua.
+- Duradera y elegante: la sandalia Columbia Santiam de 2 correas para hombre viene en una plataforma de cama duradera con detalles de tono tierra para un gran conjunto de sandalias que puedes llevar en cualquier lugar.
+- Tecnología avanzada: el cuero de ante tolerante al agua con construcción superior de superposición sintética cuenta con nuestra entresuela Techlite probada para una comodidad duradera con amortiguación superior y alto retorno de energía.
+- Tracción en todo terreno: nuestra exclusiva suela de goma Omni-GRIP que no deja marcas proporciona un agarre importante para todas las condiciones en el camino, lado del río o limitado a los interiores urbanos.
+- Diseñado para durar: la atención al detalle de Columbia es lo que distingue nuestro calzado. Especifica solo materiales de la más alta calidad, costura y artesanía expertos. Estas son sandalias de larga duración que disfrutarás durante las próximas temporadas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073RNLHV3/?tag=tolees-21)

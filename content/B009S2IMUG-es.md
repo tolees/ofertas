@@ -28,9 +28,9 @@ Ahora mismo tienes [Max Factor 56124 Face Finity 3 in 1 Base de Maquillaje  SPF2
 
 🔎:
 
-- La pre-base te proporciona una suave textura
 - EL corrector cubre las imperfecciones para un look perfecto
-- Con FPS30 para un resultado perfecto y protección contra los rayos UV
 - Dura todo el día, dando un acabado impecable
+- La pre-base te proporciona una suave textura
+- Con FPS30 para un resultado perfecto y protección contra los rayos UV
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B009S2IMUG/?tag=tolees-21)

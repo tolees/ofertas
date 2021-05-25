@@ -28,10 +28,10 @@ Tienes [L Oreal Paris Make-up Designer - L Oréal Paris Accord Parfait  Base de 
 
 ℹ️:
 
-- Calca tu tono y subtono de piel logrando un acabado natural y uniforme sin imperfecciones, ni efecto máscara
 - Fórmula enriquecida con aloe vera y ácido hialurónico, contiene 80% de crema hidratante y pigmentos minerales para una piel hidratada 24h
-- Mejora la calidad de la piel en 2 semanas; tez más radiante, poros visiblemente reducidos, piel más suave y visiblemente más lisa día tras día
+- Calca tu tono y subtono de piel logrando un acabado natural y uniforme sin imperfecciones, ni efecto máscara
 - Aplica una pequeña cantidad en el centro de la frente, nariz, barbilla y mejillas; repártela uniformemente por todo el rostro con ayuda de las yemas de tus dedos o nuestra brocha
 - Apto para pieles grasas y sensibles gracias a su textura fina y no grasa, no comedogénica
+- Mejora la calidad de la piel en 2 semanas; tez más radiante, poros visiblemente reducidos, piel más suave y visiblemente más lisa día tras día
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B015GYQZMQ/?tag=tolees-21)

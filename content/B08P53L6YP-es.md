@@ -28,9 +28,9 @@ Está [LG-Imports Mikado in Holzbox 19 5 cm Mikado en Mikado](https://www.amazon
 
 ℹ️:
 
-- La caja está equipada con una tapa deslizante
 - En esta caja de madera se encuentran 31 varillas de micado, incluyendo instrucciones de juego (idioma español no garantizado)
-- Las varillas miden aprox. 18,0 cm de largo. En la varilla hay una distribución de puntos para cada varilla.
+- La caja está equipada con una tapa deslizante
 - Dimensiones de la caja de madera: 19,5 x 4,5 cm
+- Las varillas miden aprox. 18,0 cm de largo. En la varilla hay una distribución de puntos para cada varilla.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08P53L6YP/?tag=tolees-21)

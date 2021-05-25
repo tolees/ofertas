@@ -29,9 +29,9 @@ Ahora mismo tienes [Einhell TC-CD 18-2 Li  2x1 3 Ah  Taladro Inalámbrico  Bater
 🔎:
 
 - Para atornillar y taladrar en el hogar, el taller y el garaje sin necesidad de tener que hacer molestos parones
-- Bloqueo automático del eje para un cambio fácil de la herramienta y un engranaje de 2 velocidades para un atornillado potente y una perforación rápida
 - Diseño fino y ergonómico con empuñadura blanda
-- Luz LED brillante para una iluminación óptima del área de trabajo
 - Segunda batería de iones de litio, cargador y maletín de transporte
+- Luz LED brillante para una iluminación óptima del área de trabajo
+- Bloqueo automático del eje para un cambio fácil de la herramienta y un engranaje de 2 velocidades para un atornillado potente y una perforación rápida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01AB2KVQO/?tag=tolees-21)
