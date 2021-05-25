@@ -29,9 +29,9 @@ En este momento está [ThunderX3 TMP40 - Alfombrilla gaming profesional  mayor v
 🔎:
 
 - La base esta fabricada con goma anti-deslizante de 4 mm de grosor
-- Esta alfombrilla gaming ha sido diseñada para ofrecer precisión y calidad de seguimiento para ratones tanto ópticos como láser
 - Los bordes de la TMP40 están reforzados para evitar deformaciones o daños
 - Dimensiones: 40 cm de ancho y 32 cm de largo
 - La alfombrilla TMP40 goza de un diseño específico plano y suave para crear una sensación similar a la de estar flotando.
+- Esta alfombrilla gaming ha sido diseñada para ofrecer precisión y calidad de seguimiento para ratones tanto ópticos como láser
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01FY873HA/?tag=tolees-21)
