@@ -28,9 +28,9 @@ Ahora mismo tienes [Xiaomi Mi Router 4A. router inalámbrico Doble banda  2 4 GH
 
 🔎:
 
-- Fuente de alimentación con enchufe ITA.
 - Configuración sencilla con acceso desde el ordenador o desde la aplicación en el smartphone
-- Punto de acceso Wi-Fi y repetidor Range Extender Wireless AC, velocidad de hasta 1200 Mbps
 - Xiaomi Mi Router 4A Wireless AC Dual Band Original versión EU
+- Fuente de alimentación con enchufe ITA.
+- Punto de acceso Wi-Fi y repetidor Range Extender Wireless AC, velocidad de hasta 1200 Mbps
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085G5CDY7/?tag=tolees-21)
