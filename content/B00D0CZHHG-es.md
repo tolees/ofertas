@@ -29,7 +29,7 @@ Tienes [Valeo 247035 Bombas de Combustible](https://www.amazon.es/dp/B00D0CZHHG/
 ℹ️:
 
 - Producto de calidad
-- Tipo de servicio: mecánico
 - Nuevo producto
+- Tipo de servicio: mecánico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00D0CZHHG/?tag=tolees-21)

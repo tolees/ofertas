@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mann Filter - Original MANN-FILTER Filtr al 79.09 % de descuento'
-date: 2021-05-23 13:08:19
+date: 2021-05-25 11:20:56
 image: 'https://m.media-amazon.com/images/I/21sEpzNrIYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mann Filter'
 buyurl: 'https://www.amazon.es/dp/B00252KSPS/?tag=tolees-21'
 descuento: '79.09'
-average: '6.655'
+average: '5.20333333333333'
 ---
 
 Ahora mismo tienes [Mann Filter - Original MANN-FILTER Filtro de habitáculo CU 21 000-2 – Paquete de filtros de habitáculo  set de 2  – para automóviles](https://www.amazon.es/dp/B00252KSPS/?tag=tolees-21) a 2.3 EUR (original: 11.0 EUR) (79.09 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [Mann Filter - Original MANN-FILTER Filtro de habitáculo CU 
 
 🔎:
 
-- Longitud [mm]: 159
-- Ancho [mm]: 153
+- Ancho 1 [mm]: 159
 - Altura [mm]: 32
 - Longitud 1 [mm]: 204
-- Ancho 1 [mm]: 159
+- Longitud [mm]: 159
+- Ancho [mm]: 153
 - Unidad de cantidad: Kit
 - Tipo de filtro: Filtro de partículas
 

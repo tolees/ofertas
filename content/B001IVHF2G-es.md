@@ -28,10 +28,10 @@ Ahora mismo tienes [Fellowes - Soporte para CPU extensible  hasta 50 kg  color g
 
 🔎:
 
-- Construido en acero resistente con acolchado interior para proteger la CPU
-- El producto tiene el color gris
 - Cuatro ruedas para poder mover la CPU y 2 ruedas con bloqueo para garantizar la estabilidad
 - Soporta hasta 50 kg de peso
 - Se puede ajustar entre 70 a 280 mm para poder sujetar cualquier CPU u otros equipos
+- Construido en acero resistente con acolchado interior para proteger la CPU
+- El producto tiene el color gris
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001IVHF2G/?tag=tolees-21)
