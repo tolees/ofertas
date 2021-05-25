@@ -28,10 +28,10 @@ Tienes [ThunderX3 TM20OR - Ratón gaming óptico profesional 4000 DPI AVAGO 3050
 
 ℹ️:
 
-- Su base ha sido construida con láminas de metal que alargan la duración de la vida útil del ratón. Asegura un perfecto y suave deslizamiento sobre cualquier superficie sin dejar de lado una extrema precisión
-- Podrás cambiar la velocidad de la rueda de scroll, el puntero, reasignar las acciones de los botones, establecer los valores de las macro y el número de DPI en los ejes X e Y con posibilidad de guardar numerosos perfiles
 - Cuenta con un software específico diseñado para darte la mayor flexibilidad posible a la hora de cambiar tus preferencias cuando lo necesites
 - Su interruptor Omron mecánico asegura una durabilidad de más de 10 millones de clicks. Su suave pulsación proporciona una rápida respuesta y resultados sobresalientes en tus partidas
 - Soporta una resolución de 1000 DPI a 4000 DPI. Los perfiles son fácilmente intercambiables a través del botón específico de DPI, de modo que cambiar mientras juegas nunca supondrá un problema
+- Su base ha sido construida con láminas de metal que alargan la duración de la vida útil del ratón. Asegura un perfecto y suave deslizamiento sobre cualquier superficie sin dejar de lado una extrema precisión
+- Podrás cambiar la velocidad de la rueda de scroll, el puntero, reasignar las acciones de los botones, establecer los valores de las macro y el número de DPI en los ejes X e Y con posibilidad de guardar numerosos perfiles
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01FY87GY0/?tag=tolees-21)

@@ -28,7 +28,7 @@ Está [Adidas Courtsmash  Zapatillas de Tenis para Hombre  Multicolor  Negbás/F
 
 ℹ️:
 
-- Negro
 - adulto
+- Negro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07J591MJG/?tag=tolees-21)
