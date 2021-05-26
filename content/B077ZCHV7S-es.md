@@ -28,9 +28,9 @@ Ahora mismo tienes [Crazy pawn- Juego de Mesa Dentro del Laberinto  Multicolor  
 
 🔎:
 
+- Juego familiar de reglas muy sencillas
 - Producto de licencia oficial
 - Recorre el laberinto del rey goblin y salva a toby antes de que se convierta en un bebé goblin
-- Juego familiar de reglas muy sencillas
 - Incluye 5 miniaturas que representan a los protagonistas de la serie, incluido david bowie
 - Totalmente en castellano
 

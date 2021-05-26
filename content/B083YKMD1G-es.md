@@ -28,8 +28,8 @@ Está [Warner Home Video - The Vampire Diaries  - Serie Completa  38 Dvd  [Itali
 
 ℹ️:
 
-- Vampire Diaries
 - La Serie ha vinto 5 Peoples Choice Awards e 28 Teen Choice Awards
 - La serie completa
+- Vampire Diaries
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083YKMD1G/?tag=tolees-21)

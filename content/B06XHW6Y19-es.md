@@ -28,9 +28,9 @@ Tienes [Joma Tokio II Pantalones Cortos  Hombre  Multicolor  Blanco/Negro   S](h
 
 🔎:
 
-- Pantalón corto con aberturas laterales en los costados
-- Incorpora tecnología DRY MX para controlar la humedad corporal del deportista
 - Cintura elástica ajustable con cordón
+- Pantalón corto con aberturas laterales en los costados
 - Una pieza diseñada a contraste de color en la parte trasera y lateral
+- Incorpora tecnología DRY MX para controlar la humedad corporal del deportista
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XHW6Y19/?tag=tolees-21)

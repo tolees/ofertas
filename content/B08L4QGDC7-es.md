@@ -28,10 +28,10 @@ Ahora mismo tienes [L Oréal Paris  Pack de Prebase Alisadora Infalible Primer  
 
 🔎:
 
+- Contenido: 1 x Pack de 2 prebases alisadoras LOréal Paris Primer Infalible 24H, Transparente, Cantidad: 2 x 35 ml
+- Fórmula gel transparente y ligero de rápida absorción con polímeros suavizantes que alisan la piel y borran imperfecciones, Apta para todo tipo de pieles
+- Pack de dos prebases alisadoras de larga duración LOréal Paris Infalible 24H para una piel matificada y un maquillaje mate que duren todo el día
 - Piel matificada durante 24H, Alisa la piel y borra imperfecciones, Prolonga la duración del maquillaje y perfecciona su resultado
 - Aplicar sobre la cara lavada en movimientos circulares para preparar y alisar la superficie antes del maquillaje, Para mejorar el resultado mate, aplicar antes de la base de maquillaje Infalible 24H
-- Fórmula gel transparente y ligero de rápida absorción con polímeros suavizantes que alisan la piel y borran imperfecciones, Apta para todo tipo de pieles
-- Contenido: 1 x Pack de 2 prebases alisadoras LOréal Paris Primer Infalible 24H, Transparente, Cantidad: 2 x 35 ml
-- Pack de dos prebases alisadoras de larga duración LOréal Paris Infalible 24H para una piel matificada y un maquillaje mate que duren todo el día
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L4QGDC7/?tag=tolees-21)

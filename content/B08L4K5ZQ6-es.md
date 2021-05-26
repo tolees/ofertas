@@ -31,7 +31,7 @@ Está [Garnier Skin Active Limpiador de Poros Sin Jabón Anti Imperfecciones  Li
 - Fórmula hipoalergénica con pH neutro, Enriquecido con Zinc purificante y extracto de Hamamelis, Testado dermatológicamente
 - Pack de 2 limpiadores sin jabón anti-imperfecciones para pieles sensibles, Elimina las impurezas sin resecar la piel
 - Contenido: 2 x Limpiador Sin Jabón Anti Imperfecciones Garnier Pure Active Sensitive, 150 ml
-- Limpia y matifica la piel instantáneamente, Purifica y reduce visiblemente las imperfecciones en 4 semanas
 - Aplicar diariamente emulsionando el gel sobre todo el rostro, Aclarar con abundante agua
+- Limpia y matifica la piel instantáneamente, Purifica y reduce visiblemente las imperfecciones en 4 semanas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08L4K5ZQ6/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [HAWKERS LS Sunglasses  Negro Polarizado  One Size Unisex Adu
 
 🔎:
 
-- Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
-- Gafas de sol unisex cuadradas con montura negra y lentes negras
 - Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
 - Modelo unisex. Medidas: Frontal 139 mm; Alto 42,3 mm; Patillas 145 mm; Puente 16 mm; Diámetro de lente 54 mm
+- Gafas de sol unisex cuadradas con montura negra y lentes negras
+- Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TM6K7MX/?tag=tolees-21)
