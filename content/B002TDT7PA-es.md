@@ -28,8 +28,8 @@ Ahora mismo tienes [TRIXIE Pelota Deporte para Perros](https://www.amazon.es/dp/
 
 🔎:
 
-- con sonido
 - caucho natural
+- con sonido
 - motivos surtidos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002TDT7PA/?tag=tolees-21)
