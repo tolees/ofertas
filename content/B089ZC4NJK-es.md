@@ -28,8 +28,8 @@ Tienes [adidas Lin Duffle S Duffel  Hombre  Tramar/Black/sigpnk  NS](https://www
 
 🔎:
 
+- Adidas
 - Sportware
 - Training
-- Adidas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089ZC4NJK/?tag=tolees-21)
