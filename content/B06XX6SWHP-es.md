@@ -28,7 +28,7 @@ Está [Superga 2790-COTROPEW  Zapatillas Mujer  Negro  Nero 999   42 EU  8 UK ](
 
 ℹ️:
 
-- adulto
 - Negro
+- adulto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XX6SWHP/?tag=tolees-21)
