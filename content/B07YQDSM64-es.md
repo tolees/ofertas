@@ -28,8 +28,8 @@ Tienes [Kipling Seoul Mochila Escolar  Azul  Robot Camo Pink ](https://www.amazo
 
 🔎:
 
-- Bolsas escolares.
 - Seúl.
+- Bolsas escolares.
 - KI485157J
 - Robot Camo Rosa
 

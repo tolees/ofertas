@@ -28,8 +28,8 @@ Ahora mismo tienes [Energizer 637988SET - Pilas de botón  Litio CR2025  3 V  5 
 
 🔎:
 
-- Tecnología de batería: Ión de litio
-- Voltaje de la pila: 3 V
 - Forma de factor de batería: Botón
+- Voltaje de la pila: 3 V
+- Tecnología de batería: Ión de litio
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00I2EZ7WM/?tag=tolees-21)

@@ -29,9 +29,9 @@ Ahora mismo tienes [Grupo Erik - Carpeta 4 anillas Troquelada Premium Studio Pet
 🔎:
 
 - Esta carpeta está fabricada con materiales de alta calidad y compuesta por una selección de imágenes bonitas, que encantará a todos los amantes de los animales; el interior contiene patrones
-- Características especiales: tamaño: 26 x 32 cm. 4 anillos de 35 mm de diámetro; grosor de la caja: 2 mm
+- Erik - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza
 - Características generales: tapa de cartón, rígida y engastada; los cuatro anillos que mueven hacia el exterior y el compresor metálico garantizan un mejor agarre;
 - Utilizamos exclusivamente materiales de alta calidad para la fabricación de nuestros productos, lo que les ofrece una mayor durabilidad y un diseño único y moderno
-- Erik - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza
+- Características especiales: tamaño: 26 x 32 cm. 4 anillos de 35 mm de diámetro; grosor de la caja: 2 mm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TBN7FVP/?tag=tolees-21)
