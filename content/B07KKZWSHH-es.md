@@ -29,7 +29,7 @@ Ahora mismo tienes [adidas Gymsack SP Bolsa de Deporte  Unisex Adulto  Black/Bla
 🔎:
 
 - Closure with cord
-- Large main Compartiment
 - Gym Sack
+- Large main Compartiment
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KKZWSHH/?tag=tolees-21)
