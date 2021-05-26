@@ -28,12 +28,12 @@ En este momento está [Einhell Cargador de baterías CE-BC 6 M  cargador de bate
 
 🔎:
 
-- El cargador es apropiado para todos los tipos de vehículos, también para vehículos de temporada con períodos prolongados fuera de circulación; en lugar de permitir que la batería se descargue y, por lo tanto, correr el riesgo de una descarga profunda, la batería se mantiene cuidadosamente en su nivel óptimo
-- El ce-bc 6 m se adapta automáticamente a la tensión de la batería de vehículos de 6 v y 12 v; el control por microprocesador supervisa y ajusta automáticamente el ciclo de carga multietapa del cargador de baterías de einhell
-- El cargador de baterías de einhell está equ ipad o con una protección automática contra sobrecargas, cortocircuitos y polaridad inversa: estos mecanismos de protección protegen tanto al cargador como a la batería. La carcasa está equ ipad a con un ojal de suspensión
-- El indicador lcd de progreso de carga y tensión de la batería muestra el estado de carga de la batería y el modo del cargador; mediante los bornes de batería completamente aislados se pueden conectar las baterías de forma fácil y segura al cargador de baterías
-- Especialmente para temperaturas exteriores por debajo de 5º celsius, el cargador dispone de un modo de carga de invierno, adicionalmente de un modo de reacondicionamiento para la “reanimación” de baterías con descarga profunda y un modo de suministro para el uso de abastecimiento de corriente
 - El cargador de baterías ce-bc 6 m de einhell es un cargador inteligente adaptado a las baterías tecnológicamente avanzadas de los automóviles modernos; el todoterreno de einhell es adecuado para baterías de gel, agm, así como baterías de plomo-ácido sin o casi sin necesidad de mantenimiento
+- El indicador lcd de progreso de carga y tensión de la batería muestra el estado de carga de la batería y el modo del cargador; mediante los bornes de batería completamente aislados se pueden conectar las baterías de forma fácil y segura al cargador de baterías
+- El cargador es apropiado para todos los tipos de vehículos, también para vehículos de temporada con períodos prolongados fuera de circulación; en lugar de permitir que la batería se descargue y, por lo tanto, correr el riesgo de una descarga profunda, la batería se mantiene cuidadosamente en su nivel óptimo
 - La electrónica de control inteligente analiza el tipo y el estado de la batería conectada e inicia el modo óptimo conforme a las necesidades; la función de carga de conservación protege y cuida la batería para un estado de carga duradero e ideal
+- Especialmente para temperaturas exteriores por debajo de 5º celsius, el cargador dispone de un modo de carga de invierno, adicionalmente de un modo de reacondicionamiento para la “reanimación” de baterías con descarga profunda y un modo de suministro para el uso de abastecimiento de corriente
+- El cargador de baterías de einhell está equ ipad o con una protección automática contra sobrecargas, cortocircuitos y polaridad inversa: estos mecanismos de protección protegen tanto al cargador como a la batería. La carcasa está equ ipad a con un ojal de suspensión
+- El ce-bc 6 m se adapta automáticamente a la tensión de la batería de vehículos de 6 v y 12 v; el control por microprocesador supervisa y ajusta automáticamente el ciclo de carga multietapa del cargador de baterías de einhell
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WSQP48J/?tag=tolees-21)

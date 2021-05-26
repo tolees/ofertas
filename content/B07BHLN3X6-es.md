@@ -28,9 +28,9 @@ Está [Babaria  Bálsamo para Después del Sol con Aloe  Efecto Hielo  200 ml  E
 
 ℹ️:
 
-- Creado siguiendo los más altos estándares de la marca BABARIA
+- BABARIA A.SUN E.HIELO ALOE 200
 - Diseño funcional
 - Diseñado para ofrecer una excelente experiencia al cliente
-- BABARIA A.SUN E.HIELO ALOE 200
+- Creado siguiendo los más altos estándares de la marca BABARIA
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BHLN3X6/?tag=tolees-21)

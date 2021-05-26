@@ -29,9 +29,9 @@ Tienes [Garnier Skin Active Gel 3 en 1 Arcilla  para Pieles Mixtas a Grasas  Lim
 🔎:
 
 - Aplicar sobre el rostro húmedo, Para limpiar: masajear ligeramente, Exfoliar: masajear con movimientos circulares, Mascarilla: dejar actuar 3 minutos, Aclarar siempre con agua
-- Contenido: 2 x Gel Limpiador 3 en 1 Garnier Skin Active Pure Active, 150 ml
 - Limpiador 3 en 1 que se puede utilizar como limpiador, exfoliante y mascarilla
-- Como limpiador: aplicar diariamente sobre el rostro húmedo y masajear ligeramente, Exfoliante: Masajear cada dia realizando movimientos circulares e insistir sobre la frente, nariz y mentón, Mascarilla: Aplicar sobre el rostro húmedo, dejar secar durante 3 minutos, Aclarar siempre con abundante agua
+- Contenido: 2 x Gel Limpiador 3 en 1 Garnier Skin Active Pure Active, 150 ml
 - Enriquecido con arcilla purificante y ácido salicílico para limpiar, purificar y evitar la reaparición de granitos e impurezas, Testado dermatológicamente
+- Como limpiador: aplicar diariamente sobre el rostro húmedo y masajear ligeramente, Exfoliante: Masajear cada dia realizando movimientos circulares e insistir sobre la frente, nariz y mentón, Mascarilla: Aplicar sobre el rostro húmedo, dejar secar durante 3 minutos, Aclarar siempre con abundante agua
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L4MNYNP/?tag=tolees-21)

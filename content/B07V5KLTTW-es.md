@@ -28,10 +28,10 @@ Tienes [Geox U Avery C  Zapatillas Hombre  Anthracite  40 EU](https://www.amazon
 
 ℹ️:
 
-- Artículos: U02H5C-C9004
-- Marca: Geox
-- Color: gris.
 - Material: Pelle
+- Marca: Geox
+- Artículos: U02H5C-C9004
 - Tamaño: 40
+- Color: gris.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07V5KLTTW/?tag=tolees-21)

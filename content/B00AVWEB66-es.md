@@ -28,8 +28,8 @@ Está [Joseph Joseph - Organizador de utensilios de limpieza de vajilla](https:/
 
 ℹ️:
 
-- Cuatro ventosas y un soporte para la fijación segura del fregadero
 - Cuenta con una empuñadura de goma para almacenar su lavado cepillo, un compartimiento esponja de drenaje y un carril trapo colgando
+- Cuatro ventosas y un soporte para la fijación segura del fregadero
 - Regulable en altura para adaptarse a cualquier tipo de fregadero
 - Drena directamente en el fregadero y evita dejar residuos de agua en las superficies
 

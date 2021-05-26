@@ -28,9 +28,9 @@ En este momento está [Corsair MM150 fina  Tamaño Medio Alfombrilla de Juego  0
 
 🔎:
 
-- Gran diseño: Los gráficos de superficie resistentes al desgaste dotan al equipo de un aspecto moderno y complementan su estilo de juego
 - Superficie de policarbonato resistente al desgarro: Ofrece la durabilidad necesaria para resistir al uso diario
-- Formato fino de 0,5 mm: Ofrece una experiencia de juego sin trabas, el ratón estará prácticamente al mismo nivel que el escritorio gracias a una superficie de 350 x 260 mm
 - Potencia duradera: La base de silicona antideslizante consigue que la alfombrilla no se mueva durante las sesiones de juego más intensas
+- Formato fino de 0,5 mm: Ofrece una experiencia de juego sin trabas, el ratón estará prácticamente al mismo nivel que el escritorio gracias a una superficie de 350 x 260 mm
+- Gran diseño: Los gráficos de superficie resistentes al desgaste dotan al equipo de un aspecto moderno y complementan su estilo de juego
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BTL3HQT/?tag=tolees-21)

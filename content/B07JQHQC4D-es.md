@@ -28,8 +28,8 @@ Tienes [adidas Tiro Du BC S Bolsa Lona de Deporte  Unisex Adulto  Black/White  N
 
 🔎:
 
+- Bottom Compartiment
 - Large main Compartiment
 - Small Bag
-- Bottom Compartiment
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JQHQC4D/?tag=tolees-21)
