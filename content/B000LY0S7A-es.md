@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tetra Vital 100 ml al 90.55 % de descuento'
-date: 2021-05-10 09:18:12
+date: 2021-05-26 11:25:44
 image: 'https://m.media-amazon.com/images/I/41LTSAotLbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tetra'
 buyurl: 'https://www.amazon.es/dp/B000LY0S7A/?tag=tolees-21'
 descuento: '90.55'
-average: '1.49333333333333'
+average: '1.245'
 ---
 
 Ahora mismo tienes [Tetra Vital 100 ml](https://www.amazon.es/dp/B000LY0S7A/?tag=tolees-21) a 0.5 EUR (original: 5.29 EUR) (90.55 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Tetra Vital 100 ml](https://www.amazon.es/dp/B000LY0S7A/?tag
 
 🔎:
 
+- Promueve la vitalidad, el bienestar y la coloración natural.
 - Crea un ambiente casi natural
 - Adecuado para todos los acuarios de agua dulce
-- Promueve la vitalidad, el bienestar y la coloración natural.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000LY0S7A/?tag=tolees-21)

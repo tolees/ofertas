@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE ATM Y NK BRT Stad JSY SS AW T-Shirt con un 72.85 % de descuento'
-date: 2021-05-24 18:52:35
+date: 2021-05-26 12:50:03
 image: 'https://m.media-amazon.com/images/I/317ai1A9VVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ En este momento está [NIKE ATM Y NK BRT Stad JSY SS AW T-Shirt  Unisex niños  
 🔎:
 
 - La tecnología Nike Dri-FIT te ayuda a mantenerte seco y cómodo
+- Camiseta de Atlético de Madrid
 - La tela Nike Breathe te ayuda a mantenerte fresco
 - Ajuste estándar para una sensación relajada y cómoda
-- Camiseta de Atlético de Madrid
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088HBSKVT/?tag=tolees-21)
