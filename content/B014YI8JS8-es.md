@@ -28,10 +28,10 @@ En este momento está [Lékué Molde para Hacer Pizzas Redondas  Silicona  Casta
 
 🔎:
 
-- Cómodo. Guárdalo enrollado y no ocupes espacio en la cocina
-- Microperforado: El aire circula a través de los agujeros para conseguir una masa mucho más crujiente
 - Gran tamaño perfecto para pizzas familiares
 - Material flexible y antiadherente
+- Microperforado: El aire circula a través de los agujeros para conseguir una masa mucho más crujiente
 - Más limpio. Evita ensuciar el horno mientras la pizza se cocina
+- Cómodo. Guárdalo enrollado y no ocupes espacio en la cocina
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B014YI8JS8/?tag=tolees-21)

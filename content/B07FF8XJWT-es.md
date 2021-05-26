@@ -28,10 +28,10 @@ En este momento está [Sony CEE Games  New Gen  - The Last of us Hits - Versión
 
 🔎:
 
+- Clasificación PEGI: 18
 - Plataforma: PlayStation 4
 - Género: acción/aventura
 - Rango ESRB: M (maduro)
-- Clasificación PEGI: 18
 - Edición del juego: básica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FF8XJWT/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Marca Amazon - Solimo - Loción corporal nutritiva con aceite de almendr
 
 🔎:
 
-- Formulación no pegajosa ni grasa. Dermatológicamente testado
-- Esta loción ha sido especialmente diseñada para calmar la piel seca
 - Aplicar diariamente después de la ducha o el baño con un suave masaje hasta su completa absorción
+- Formulación no pegajosa ni grasa. Dermatológicamente testado
 - Envase: 4 x 500 ml
 - Enriquecida con extractos de almendras y miel conocidos por sus propiedades calmantes
+- Esta loción ha sido especialmente diseñada para calmar la piel seca
 - Su textura proporciona una rápida absorción
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZD939QK/?tag=tolees-21)

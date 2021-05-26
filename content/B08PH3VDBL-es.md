@@ -28,9 +28,9 @@ En este momento está [L Oréal Professionnel  Champú Pro Longer Renovador de P
 
 🔎:
 
+- Sus componentes penetran en el núcleo de la fibra para engrosar las puntas y hacer resurgir los largos.
+- Este tratamiento concentrado es ideal para cabellos largos con puntas finas que sufren de rotura y puntas abiertas.
 - Champú renovador de puntas formulado con una combinación exclusiva de FILLER-A100 y aminoácido, especialmente indicado para cabellos largos con puntas afinadas
 - El FILLER-A100 penetra en el núcleo de la fibra para engrosar las puntas y hacer resurgir los largos; El aminoácido aporta fuerza a la fibra, para una melena más larga y densa
-- Este tratamiento concentrado es ideal para cabellos largos con puntas finas que sufren de rotura y puntas abiertas.
-- Sus componentes penetran en el núcleo de la fibra para engrosar las puntas y hacer resurgir los largos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PH3VDBL/?tag=tolees-21)

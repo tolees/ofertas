@@ -28,8 +28,8 @@ Ahora mismo tienes [Adidas Continental 80 J  Zapatillas de Deporte  Blanco  Ftwb
 
 🔎:
 
-- Estilo vintage
 - Empeine de piel lisa
 - Zapatillas deportivas
+- Estilo vintage
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HGPYXC7/?tag=tolees-21)

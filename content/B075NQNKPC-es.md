@@ -28,10 +28,10 @@ Tienes [Halls Lima - Caramelo duro - Caja con 20 Sticks de 32 g](https://www.ama
 
 ℹ️:
 
-- Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
 - Conservar en lugar fresco y seco
-- Caramelos duros refrescantes sin azúcar, con sabor a lima y con vitamina C
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
 - Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
+- Caramelos duros refrescantes sin azúcar, con sabor a lima y con vitamina C
+- Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075NQNKPC/?tag=tolees-21)
