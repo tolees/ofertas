@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.34 % en Vino Blanco Gazela  DOC Vinho Verde  - 7'
-date: 2021-05-25 17:07:12
+date: 2021-05-26 19:20:08
 image: 'https://m.media-amazon.com/images/I/31kxp7UckXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

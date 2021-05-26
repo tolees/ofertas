@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JOBY GorillaPod 1K - Stand de Trípode Fl al 47.51 % de rebaja'
-date: 2021-05-25 06:15:02
+date: 2021-05-26 18:49:04
 image: 'https://m.media-amazon.com/images/I/51f3mXcED-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [JOBY GorillaPod 1K - Stand de Trípode Flexible Compacto para Cámaras C
 
 🔎:
 
+- Flexible: las patas envolventes te permiten asegurar equipo de cámara profesional a prácticamente cualquier superficie
+- Portátil: compacto y ligero para un fácil transporte en bolsillo, bolso o mochila
+- Joby JB01511-BWW GorillaPod 1K - Soporte para trípode (1 K), color negro y gris
 - Fuerte: soporta dispositivos de hasta 1 kg
 - Versátil: soporte para cámaras sin espejo, flashes, altavoces, luces de vídeo o cualquier dispositivo de menos de 1 kg con un soporte de trípode de 1/4 a 20
-- Portátil: compacto y ligero para un fácil transporte en bolsillo, bolso o mochila
-- Flexible: las patas envolventes te permiten asegurar equipo de cámara profesional a prácticamente cualquier superficie
-- Joby JB01511-BWW GorillaPod 1K - Soporte para trípode (1 K), color negro y gris
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074WGRBGC/?tag=tolees-21)

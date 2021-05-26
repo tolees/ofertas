@@ -29,9 +29,9 @@ Tienes [Revlon ColorStay Base de Maquillaje piel mixta/grasa FPS15  #180 Sand Be
 🔎:
 
 - Fabricada específicamente para la piel mixta o grasa para controlar el brillo y la absorción de aceite
+- Viene en frasco de 30 ml en varios tonos, para combinar con cualquier tono de piel
 - Especialmente formulado para mixto o piel graso, esta fórmula hidratante mantiene su humedad de la piel nivel equilibrado con un hermoso acabado satinado
 - Proporciona una sensación cómoda y al mismo tiempo ilumina la piel
 - Agitar bien antes de aplicar. Para una aplicación perfecta, extienda la base de maquillaje con los dedos o con una esponja o brocha de maquillaje.
-- Viene en frasco de 30 ml en varios tonos, para combinar con cualquier tono de piel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00VX6U9DI/?tag=tolees-21)

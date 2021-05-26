@@ -28,11 +28,11 @@ Ahora mismo tienes [Crocs Classic  Zuecos Unisex Adulto  Amarillo  Lemon   46/47
 
 🔎:
 
-- Material exterior: Espuma
-- Cierre: Tira de tobillo
-- Composición: Sintético
 - Revestimiento: Sin forro
 - Material de la suela: Sintético
+- Material exterior: Espuma
 - Tipo de tacón: Plano
+- Composición: Sintético
+- Cierre: Tira de tobillo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B010WE7KGA/?tag=tolees-21)

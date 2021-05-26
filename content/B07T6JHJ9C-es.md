@@ -28,8 +28,8 @@ Tienes [Nike Air MAX Excee  Zapatillas Hombre  Blanco  Platino Puro Blanco/Negro
 
 🔎:
 
-- Transpirabilidad
 - Amortiguación
+- Transpirabilidad
 - Zapatillas deportivas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07T6JHJ9C/?tag=tolees-21)

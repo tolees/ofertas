@@ -28,8 +28,8 @@ En este momento está [Nike Air MAX Excee U  Zapatillas para Correr Hombre  Blan
 
 🔎:
 
-- Zapatillas deportivas
 - Amortiguación
+- Zapatillas deportivas
 - Transpirabilidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T91T3KT/?tag=tolees-21)
