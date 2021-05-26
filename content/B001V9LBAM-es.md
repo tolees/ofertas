@@ -29,9 +29,9 @@ Tienes [Rimmel London Exaggerate Automatic Liners Waterproof Delineador de Ojos 
 🔎:
 
 - Lápiz delineador de ojos de alto impacto que incluye un difusor
+- Fórmula resistente al agua y color intenso
 - Tonos intensamente pigmentados que dan un acabado mate metalizado
 - Las líneas de alta precisión y la mezcla sutil crean ojos fuertes y sexys
-- Fórmula resistente al agua y color intenso
 - Hasta 10 horas de larga duración
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001V9LBAM/?tag=tolees-21)
