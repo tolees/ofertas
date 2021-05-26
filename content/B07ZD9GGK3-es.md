@@ -28,11 +28,11 @@ En este momento está [Marca Amazon - Solimo - SUN - Loción hidratante after su
 
 🔎:
 
-- Solimo Loción hidratante after sun tiene una textura ligera que resulta agradable después de la exposición solar
-- Formulada con agentes hidratantes y protectores que ayuda a la piel a sentirse hidratada y nutrida
+- Dermatológicamente testado
 - Contiene: 4 x 200 ml
 - Aplicar una cantidad generosa y uniforme sobre la piel del cuerpo limpia y seca, después de la exposición al sol. Extender con un suave masaje hasta su completa absorción
-- Dermatológicamente testado
+- Solimo Loción hidratante after sun tiene una textura ligera que resulta agradable después de la exposición solar
+- Formulada con agentes hidratantes y protectores que ayuda a la piel a sentirse hidratada y nutrida
 - Con alantoína, glicerina, vitamin E y aloe vera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZD9GGK3/?tag=tolees-21)

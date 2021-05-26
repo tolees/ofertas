@@ -28,10 +28,10 @@ Ahora mismo tienes [Sony CEE Games  New Gen  - Shadow Fall Hits - Edición Killz
 
 🔎:
 
-- Plataforma: PlayStation 4
-- Edición del juego: básica
-- Rango ESRB: M (maduro)
-- Clasificación PEGI: 18
 - Género: de disparos
+- Plataforma: PlayStation 4
+- Clasificación PEGI: 18
+- Rango ESRB: M (maduro)
+- Edición del juego: básica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FFD6R2D/?tag=tolees-21)

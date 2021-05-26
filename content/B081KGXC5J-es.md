@@ -29,7 +29,7 @@ Tienes [Salomon XA Pro 3D V8 W  Zapatillas de Trail Running y Senderismo Mujer  
 ℹ️:
 
 - Color: Aqua Gray/Urban Chic/Tropical Peach
-- Xa PRO 3D V8 W
 - Salomon
+- Xa PRO 3D V8 W
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B081KGXC5J/?tag=tolees-21)
