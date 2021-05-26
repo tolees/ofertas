@@ -28,7 +28,7 @@ Tienes [Converse Chuck Taylor All Star Dainty Ox Zapatillas Blancas/Rojas para M
 
 🔎:
 
-- Authorised Stockist
 - Genuine Product
+- Authorised Stockist
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TZ4VKVH/?tag=tolees-21)

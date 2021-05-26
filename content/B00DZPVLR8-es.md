@@ -28,8 +28,8 @@ En este momento está [Colgate Triple Accion Original Mint 75 ml](https://www.am
 
 🔎:
 
-- De la marca Colgate.
 - Este producto está indicado tanto para mujeres como para hSombras.
 - Contiene 75 ml.
+- De la marca Colgate.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00DZPVLR8/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidab
 
 ℹ️:
 
-- Ancho de la correa: 18 mm; circunferencia de la correa: 190 +/- 5 mm
+- Grosor de la caja: 10 mm; tamaño de la caja: 38 mm
 - Se presenta en lata Fossil ilustrada de coleccionista (varios diseños)
 - Resistente al agua: 5 ATM
+- Ancho de la correa: 18 mm; circunferencia de la correa: 190 +/- 5 mm
 - Material de la correa: acero inoxidable
-- Grosor de la caja: 10 mm; tamaño de la caja: 38 mm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01IP5Z0VA/?tag=tolees-21)

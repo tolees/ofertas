@@ -28,10 +28,10 @@ En este momento está [Burton Tinder 2.0  Adultos Unisex  Dress Blue](https://ww
 
 🔎:
 
-- Correas de compresión laterales
-- Oxford de nylon 420D
-- Dimensiones: 19in x 12in x 6in / 47cm x 31cm x 16cm; Peso: 1.6 libras; Volumen: 30L
 - Visite burton.elasticsuite.com para ver más detalles sobre todos nuestros productos bluesign
+- Dimensiones: 19in x 12in x 6in / 47cm x 31cm x 16cm; Peso: 1.6 libras; Volumen: 30L
+- Oxford de nylon 420D
+- Correas de compresión laterales
 - Tirantes ergonómicos con correa ajustable para el esternón.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLFYFXW/?tag=tolees-21)
