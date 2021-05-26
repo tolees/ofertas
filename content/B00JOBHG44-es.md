@@ -29,8 +29,8 @@ Tienes [Casio Reloj Analógico de Cuarzo con Correa en Acero Inoxidable MTP-1314
 🔎:
 
 - La duración de la batería es de 3 años
+- Cristal mineral, difícil de rayar, que protege el reloj de daños externos
 - Correa y caja sólida de acero inoxidable con cierre de seguridad
 - Resistente al agua hasta 5 bar / 50 metros
-- Cristal mineral, difícil de rayar, que protege el reloj de daños externos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00JOBHG44/?tag=tolees-21)
