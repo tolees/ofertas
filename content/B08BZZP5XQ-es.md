@@ -28,8 +28,8 @@ Tienes [Bumblebee Interactive - The Survivalists](https://www.amazon.es/dp/B08BZ
 
 ℹ️:
 
-- ¡Tate, aquí hay primate! Si necesitas un constructor, un leñador o incluso un soldado para que te echen una manita, puedes recurrir a los monos de la isla. ¡Podrás domesticarlos y entrenarlos para que te ayuden con las tareas cotidianas o como apoyo a la hora de asaltar un campamento de fanáticos! El sistema mimético incluye una amplia variedad de funciones que pueden realizar estos amantes de los plátanos. ¡Gestiónalos bien y podrás salir con vida de los desafíos que presenta la isla!
 - Más vale maña… El secreto para sobrevivir radica en aprovechar al máximo los recursos que te rodean; ya sea con objeto de confeccionar un hacha primitiva para cortar leña o preparar un refrescante batido de frutas para matar el gusanillo, podrás encontrar recetas y aumentar tus posibilidades recurriendo a los árboles de alimentos, objetos o construcción
+- ¡Tate, aquí hay primate! Si necesitas un constructor, un leñador o incluso un soldado para que te echen una manita, puedes recurrir a los monos de la isla. ¡Podrás domesticarlos y entrenarlos para que te ayuden con las tareas cotidianas o como apoyo a la hora de asaltar un campamento de fanáticos! El sistema mimético incluye una amplia variedad de funciones que pueden realizar estos amantes de los plátanos. ¡Gestiónalos bien y podrás salir con vida de los desafíos que presenta la isla!
 - Supera a tus rivales ¿Quieres colgar una espada alucinante en la pared de tu choza o prefieres acabar con los enemigos invasores? Lo que buscas podría estar en uno de los numerosos templos que hay repartidos por toda la isla; sin embargo, hacerte con el botín no será fácil: todo aquel que aspire a ser un buen saqueador de tesoros tendrá que prepararse a fondo para vivir una auténtica cruzada
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BZZP5XQ/?tag=tolees-21)

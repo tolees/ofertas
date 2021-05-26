@@ -28,9 +28,9 @@ Ahora mismo tienes [Koch Media - Port Royal 4](https://www.amazon.es/dp/B089DVSF
 
 🔎:
 
+- Disfruta de las cuatro grandes campañas de un jugador en las que se narra el camino hacia la supremacía de cada nación
 - Elige entre cuatro grandes potencias coloniales: Inglaterra, Francia, España y los Países Bajos; cada una proporciona distintos beneficios y un estilo de juego único
 - Elige quién liderará tu aventura de entre las cuatro clases distintas de personajes jugables: el explorador, la mercader, el bucanero y la pirata; cada una posee sus propias ventajas y desventajas
-- Disfruta de las cuatro grandes campañas de un jugador en las que se narra el camino hacia la supremacía de cada nación
 - Mantente alejado de acantilados, aguas poco profundas y regiones repletas de tormentas para optimizar tus rutas de comercio
 - Establece y gestiona el comercio con 60 ciudades caribeñas en un enorme mundo de juego en 3D
 

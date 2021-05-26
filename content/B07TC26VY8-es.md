@@ -28,10 +28,10 @@ En este momento está [Sony CEE Games  New Gen  - Death Stranding - Edición Est
 
 🔎:
 
-- Tipo de producto: videojuego
 - Es un videojuego de acción mundial abierta
-- Incluye funciones multijugador
-- El título del juego es una referencia al fenómeno de encallamiento de cetáceos
 - Plataforma del juego: PlayStation 4
+- Incluye funciones multijugador
+- Tipo de producto: videojuego
+- El título del juego es una referencia al fenómeno de encallamiento de cetáceos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TC26VY8/?tag=tolees-21)

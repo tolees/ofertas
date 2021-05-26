@@ -28,9 +28,9 @@ Tienes [Electronic Arts - Plants vs. Zombies Battle for Neighborville Edición C
 
 🔎:
 
-- JcE sin conexión - Descubre Parque Mareante, regiones de libre exploración JcE y los modos de Partida privada sin necesidad de una conexión a internet
 - Tienda de monedas de Rux - Juega para ganar monedas y gástalas en la tienda de Rux para desbloquear artículos de personalización alucinantes, además de personajes y beneficios
 - Selección de mapa de premios - Elige e interactúa con los 12 mapas de premios en cualquier momento e intercambia bolas de premio por premios adecuados
 - Controles de movimiento y menús táctiles - Usa los controles de movimiento para apuntar y interactúa con los menús de la interfaz de usuario en el juego mediante la pantalla táctil
+- JcE sin conexión - Descubre Parque Mareante, regiones de libre exploración JcE y los modos de Partida privada sin necesidad de una conexión a internet
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08X7Y4GYD/?tag=tolees-21)
