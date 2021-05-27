@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NK SOS Road- Baliza luz de Emergencia |  al 40.02 % de descuento'
-date: 2021-05-25 06:49:10
+date: 2021-05-27 08:19:33
 image: 'https://m.media-amazon.com/images/I/51HCQUgP1gS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NK'
 buyurl: 'https://www.amazon.es/dp/B08KS77PGZ/?tag=tolees-21'
 descuento: '40.02'
-average: '14.7642857142857'
+average: '14.5793333333333'
 ---
 
 Ahora mismo tienes [NK SOS Road- Baliza luz de Emergencia | Luz de Emergencia Autónoma | Luz LED | Señal V16 de Preseñalización de Peligro Homologada -  Autorizada por la DGT ](https://www.amazon.es/dp/B08KS77PGZ/?tag=tolees-21) a 11.99 EUR (original: 19.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

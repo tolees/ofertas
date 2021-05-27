@@ -1,32 +1,39 @@
 ---
 layout: post
-title: 'Crocs Crocband Flip  Chanclas Unisex-Adu al 49.94 % de descuento'
-date: 2020-06-22 13:17:19
-image: 'https://m.media-amazon.com/images/I/31ET2yFEHKL._SL400_.jpg'
+title: 'Crocs Crocband Flip  Unisex Adulto  Navy al 64.31 % de descuento'
+date: 2021-05-27 08:01:40
+image: 'https://m.media-amazon.com/images/I/319Za9DUYJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B002JCSYCS-es Crocs Crocband Flip Chanclas Unisex-Adult Blue Navy 39/40 EU'
+slug: 'B002JCSYCS-es Crocs Crocband Flip Unisex Adulto Navy 39/40 EU'
 sku: 'B002JCSYCS-es'
-tags: [  ]
-actualPrice: 12.51 EUR
+tags: [ 'Sandalias de dedo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','crocs', ]
+actualPrice: 8.92 EUR
 currency: EUR
-price: 12.51
+price: 8.92
 comparePrice: 24.99 EUR
-prodname: 'Crocs Crocband Flip  Chanclas Unisex-Adult  Blue Navy  39/40 EU'
+prodname: 'Crocs Crocband Flip  Unisex Adulto  Navy  39/40 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B002JCSYCS/?tag=tolees-21'
-descuento: '49.94'
-average: '13.443333333333333'
+descuento: '64.31'
+average: '12.3125'
 ---
 
-Ahora mismo tienes [Crocs Crocband Flip  Chanclas Unisex-Adult  Blue Navy  39/40 EU](https://www.amazon.es/dp/B002JCSYCS/?tag=tolees-21) a 12.51 EUR (original: 24.99 EUR) (49.94 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Crocs Crocband Flip  Unisex Adulto  Navy  39/40 EU](https://www.amazon.es/dp/B002JCSYCS/?tag=tolees-21) a 8.92 EUR (original: 24.99 EUR) (64.31 %  de descuento) en el siguiente enlace!
 
-[![Crocs Crocband Flip  Chanclas Unisex-Adu](https://m.media-amazon.com/images/I/31ET2yFEHKL._SL400_.jpg)](https://www.amazon.es/dp/B002JCSYCS/?tag=tolees-21)
+[![Crocs Crocband Flip  Unisex Adulto  Navy](https://m.media-amazon.com/images/I/319Za9DUYJL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B002JCSYCS/?tag=tolees-21)
 
 🔎:
 
+- Cierre: Sin cordones
+- Altura del tacón: 1 centímetro
+- Revestimiento: Sin forro
+- Material exterior: Espuma
+- Material de la suela: Goma
+- Tipo de tacón: Plano
+- Composición: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002JCSYCS/?tag=tolees-21)

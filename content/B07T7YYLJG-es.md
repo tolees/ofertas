@@ -28,8 +28,8 @@ Ahora mismo tienes [Nike Air MAX Excee  Zapatillas Hombre  Negro/Blanco-Gris Osc
 
 🔎:
 
-- Transpirabilidad
 - Amortiguación
 - Zapatillas deportivas
+- Transpirabilidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07T7YYLJG/?tag=tolees-21)

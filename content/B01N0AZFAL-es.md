@@ -29,9 +29,9 @@ Tienes [NERTHUS FIH 167 - La croquetera  ideal para albóndigas  croquetas u otr
 ℹ️:
 
 - Facilita la laboriosa tarea de cocinar albóndigas, croquetas u otros alimentos. Consiga homogeneidad al cocinar, ahorrando tiempo y sin necesidad de ensuciar prácticamente nada.
-- También sirve para servir alimentos.
-- Dé la forma deseada a sus croquetas, albóndigas, carne picada etc. El resultado es sorprendente, cada alimento adquiere el mismo peso y forma.
-- Dispone de 4 recambios: 2 redondos y dos ovalados
 - Peso: 36gr Medidas: 9 x 25 x 5
+- Dé la forma deseada a sus croquetas, albóndigas, carne picada etc. El resultado es sorprendente, cada alimento adquiere el mismo peso y forma.
+- También sirve para servir alimentos.
+- Dispone de 4 recambios: 2 redondos y dos ovalados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N0AZFAL/?tag=tolees-21)

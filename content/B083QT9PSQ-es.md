@@ -28,8 +28,8 @@ Tienes [adidas Ask SPRT LST M Long Sleeved t-Shirt  Hombre  Bold Green  L/L](htt
 
 🔎:
 
-- Adidas logo on the front
 - Slim fit
 - Climacool technology
+- Adidas logo on the front
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083QT9PSQ/?tag=tolees-21)

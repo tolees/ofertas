@@ -28,10 +28,10 @@ Está [victoria Plano VICTORIA Tribu Lona 106550-WOMEN para Mujer Blanco 39](htt
 
 ℹ️:
 
-- 6550
-- Zapatillas Moda Blanco
-- Victoria
-- ZAPATILLA SPORT EN LONA
 - Zapatillas Moda
+- 6550
+- ZAPATILLA SPORT EN LONA
+- Victoria
+- Zapatillas Moda Blanco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CDIXIVE/?tag=tolees-21)

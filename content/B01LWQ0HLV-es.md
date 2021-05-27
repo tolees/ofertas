@@ -31,7 +31,7 @@ Tienes [New Balance 515 Core  Zapatillas Hombre  Azul  Navy   40.5 EU](https://w
 - Comodidad acolchada: estas zapatillas New Balance cuentan con amortiguación ligera de espuma EVA en la entresuela y el talón para ayudar a garantizar una sensación suave y de apoyo bajo el pie con cada paso
 - El tipo fuerte y elegante: las zapatillas de moda 515 de New Balance están diseñadas para soportar el desgaste diario con materiales de alta calidad y artesanía de confianza
 - Patadas casuales: la 515 es una zapatilla cómoda que se adapta a tu estilo diario. Una parte superior duradera está respaldada con amortiguación ligera y apoyo para mantener los pies tan bien como se ven
-- Ligero y fácil: trata los pies con una construcción duradera pero cómoda. Una suela de goma flexible y entresuela acolchada ligera que añaden comodidad y estilo a estos zapatos diarios
 - Old School meets New School: la parte superior de estos zapatos New Balance están hechos con una silueta vintage que mucho tiempo amada por las zapatillas de deporte, con una capa asimétrica en los dedos para una nueva versión del estilo patrimonial
+- Ligero y fácil: trata los pies con una construcción duradera pero cómoda. Una suela de goma flexible y entresuela acolchada ligera que añaden comodidad y estilo a estos zapatos diarios
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LWQ0HLV/?tag=tolees-21)
