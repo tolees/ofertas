@@ -28,10 +28,10 @@ Tienes [Arcos Serie Riviera Blanc  Cuchillo Panero  Hoja de Acero Inoxidable For
 
 ℹ️:
 
-- Remaches: Libre de corrosión gracias a sus remaches machihembrados de acero inoxidable
-- Cachas de polioximetileno (POM), indeformable a temperaturas extremas y resistente a productos químicos
-- Hoja de acero inoxidable Nitrum, una fórmula exclusiva de ARCOS de acero al nitrógeno que proporciona más dureza, mayor poder de corte y mejora de la durabilidad del filo
-- Mango: Nuevo mango en color blanco, forjado en una sola pieza, con una elegante virola de estilo francés
 - Tamaño Hoja: 200 mm
+- Mango: Nuevo mango en color blanco, forjado en una sola pieza, con una elegante virola de estilo francés
+- Cachas de polioximetileno (POM), indeformable a temperaturas extremas y resistente a productos químicos
+- Remaches: Libre de corrosión gracias a sus remaches machihembrados de acero inoxidable
+- Hoja de acero inoxidable Nitrum, una fórmula exclusiva de ARCOS de acero al nitrógeno que proporciona más dureza, mayor poder de corte y mejora de la durabilidad del filo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BHZPHOG/?tag=tolees-21)

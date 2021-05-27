@@ -28,10 +28,10 @@ Está [ARCHOS Safe-T Mini - Cartera de cripto-harware para Proteger Sus Monedas 
 
 ℹ️:
 
+- El hardware se ha diseñado específicamente para incluir CryptoMemory como root-of-trust, un chip dedicado a la seguridad. Se usa para proteger las claves privadas del usuario, permite la protección del PIN, el cifrado de flujo y tiene contramedidas de hardware para hacer frente a los ataques. El software es de código abierto y está disponible en GitHub.
 - Fabricado en Francia y facilidad de uso: conecte el ARCHOS Safe-T mini con Micro-USB, visite el sitio web de ARCHOS Safe-T Mini en cualquier ordenador y luego siga los pasos.
 - La pantalla integrada es lo suficientemente grande como para mostrar toda la información de las transacciones y permite que el titular verifique los detalles de la transacción antes de confirmarla físicamente con los botones, por seguridad. No hay forma de que los hackers modifiquen las transacciones de forma inadvertida.
 - Compatible con Electrum y MyCrypto. ARCHOS Safe-T mini admite más del 75% del capital de mercado total de las criptomonedas, incluidos los tokens Bitcoin, Bitcoin Cash, Bitcoin Gold, Dash, Litecoin, Ethereum y ERC20. Un equipo dedicado de I + D está trabajando para agregar nuevas compatibilidades de monedas, ¡así que habrá más por venir!
 - Utilice su ARCHOS Safe-T Mini para aislar sus claves criptográficas (fuera de línea) para proteger sus activos, enviar y recibir pagos y verificar su cuenta de forma segura
-- El hardware se ha diseñado específicamente para incluir CryptoMemory como root-of-trust, un chip dedicado a la seguridad. Se usa para proteger las claves privadas del usuario, permite la protección del PIN, el cifrado de flujo y tiene contramedidas de hardware para hacer frente a los ataques. El software es de código abierto y está disponible en GitHub.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B012TF6MRI/?tag=tolees-21)
