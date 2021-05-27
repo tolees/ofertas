@@ -28,8 +28,8 @@ Ahora mismo tienes [Joma Academy Chandal Caballero  Hombre  Royal-Marino  5XS](h
 
 🔎:
 
-- Resto textil
 - Academy royal-marino
+- Resto textil
 - Chándales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FKNLLFW/?tag=tolees-21)

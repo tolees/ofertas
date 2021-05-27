@@ -28,10 +28,10 @@ En este momento está [NIXON Reloj Cronógrafo para Hombre de Cuarzo con Correa 
 
 🔎:
 
-- Correa Material/color: Acero/plateado
-- Movimiento Cuarzo, Display Analogico
 - Otras Características: Time Teller Chrono All Gunmetal/cronografo
-- Diámetro caja: 37MM
 - Caja Material/color: Acero/plateado
+- Movimiento Cuarzo, Display Analogico
+- Correa Material/color: Acero/plateado
+- Diámetro caja: 37MM
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01AG1D3LA/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [NIKE ATM Y NK BRT Stad JSY SS AW T-Shirt  Unisex niños  
 
 🔎:
 
-- La tela Nike Breathe te ayuda a mantenerte fresco
 - Camiseta de Atlético de Madrid
+- La tela Nike Breathe te ayuda a mantenerte fresco
 - La tecnología Nike Dri-FIT te ayuda a mantenerte seco y cómodo
 - Ajuste estándar para una sensación relajada y cómoda
 

@@ -28,9 +28,9 @@ Está [Garnier Skin Active Mascarilla Peel-off con Carbón  para Puntos Negros y
 
 ℹ️:
 
-- Poros visiblemente desobstruidos y textura de la piel suavizada tras un uso, Puntos negros visiblemente reducidos y poros contraídos tras 4 semanas
 - Mascarilla peel off anti- puntos negros para las pieles jóvenes con imperfecciones, Desobstruye poros y elimina impurezas
 - Contenido: 2 x Mascarilla Peel-off con Carbón para Puntos Negros y Zona Garnier Skin ActivePure Active, 50 ml
+- Poros visiblemente desobstruidos y textura de la piel suavizada tras un uso, Puntos negros visiblemente reducidos y poros contraídos tras 4 semanas
 - Aplicar sobre la zona T, dejar secar 20-30 minutos y despegar suavemente de abajo a arriba, Aclarar con agua los residuos restantes, Usar 2 veces por semana
 - Formulada con carbón con propiedades absorbentes y ácido salicílico purificante, Destinado a pieles grasas o con tendencia a las imperfecciones, Testado dermatológicamente
 

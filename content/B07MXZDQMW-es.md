@@ -28,10 +28,10 @@ Ahora mismo tienes [Garnier Bio  Gel Limpiador Détox Lemongrass con Aceite Esen
 
 🔎:
 
+- Aplicar sobre el rostro húmedo y realizar movimientos circulares, Para una limpieza más profunda, utilízalo junto a Esponja Exfoliante Limpiadora de Konjac Natural
+- Atrapa la suciedad, la grasa y los residuos de polución sin resecar tu piel, Indicado para pieles normales a mixtas
 - Fragancia herbal 100% de origen natural, Fórmula vegana sin ingredientes de origen animal, Certificado Ecológico Cosmos de Ecocert Greenlife
 - Pack de 2 geles limpiadores faciales detox lemongrass con aceite esencial de citronela y agua de flor de aciano ecológica y glicerina botánica
-- Atrapa la suciedad, la grasa y los residuos de polución sin resecar tu piel, Indicado para pieles normales a mixtas
-- Aplicar sobre el rostro húmedo y realizar movimientos circulares, Para una limpieza más profunda, utilízalo junto a Esponja Exfoliante Limpiadora de Konjac Natural
 - Contenido: 2 x Gel Limpiador Detox Lemongrass con Aceite Esencial de Citronela Ecológico Garnier Bio, 150 ml
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MXZDQMW/?tag=tolees-21)

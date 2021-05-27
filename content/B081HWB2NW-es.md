@@ -30,7 +30,7 @@ Ahora mismo tienes [adidas Fef H JSY Y T-Shirt  Niños  Victory Red  1516](https
 
 - Tiene el logo de la marca en el pecho
 - Ajuste regular
-- Con escote de pico acanalado
 - Camiseta de fútbol para los aficionados de España
+- Con escote de pico acanalado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081HWB2NW/?tag=tolees-21)

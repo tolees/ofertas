@@ -28,9 +28,9 @@ En este momento está [adidas Entrada 18 JSY Teamtrikot Camiseta  Niño  Blanco 
 
 🔎:
 
+- Con cuello en V acanalado
 - Sutiles rayas diagonales en la parte delantera
 - El ajuste apretado garantiza un ajuste óptimo y un alto confort de uso
-- Con cuello en V acanalado
 - Tres rayas en contraste en el hombro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0779B8QFT/?tag=tolees-21)

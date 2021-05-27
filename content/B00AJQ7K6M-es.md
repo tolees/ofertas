@@ -28,9 +28,9 @@ Está [Pedigree Dentastix Fresh Snack Dental para la Higiene Oral y Contra el Ma
 
 ℹ️:
 
-- Snacks de premio de delicioso sabor para perros de tamaño mediano, cuida de la limpieza dental de tu perro
-- La combinación de su textura especial con los ingredientes activos hace que las barritas masticables para perro Pedigree DentaStix FRESH sean tan eficaces para la limpieza dental de tu perro
-- Formas divertidas para que os lo paséis bien juntos, unos premios para perro saludables para que tu mejor amigo perro crezca cada día más sano y más fuerte
 - Gracias a su mezcla de extracto de té verde y aceite de eucalipto se consigue un efecto refrescante demostrado en el aliento
+- La combinación de su textura especial con los ingredientes activos hace que las barritas masticables para perro Pedigree DentaStix FRESH sean tan eficaces para la limpieza dental de tu perro
+- Snacks de premio de delicioso sabor para perros de tamaño mediano, cuida de la limpieza dental de tu perro
+- Formas divertidas para que os lo paséis bien juntos, unos premios para perro saludables para que tu mejor amigo perro crezca cada día más sano y más fuerte
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00AJQ7K6M/?tag=tolees-21)

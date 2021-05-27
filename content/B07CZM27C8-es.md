@@ -28,10 +28,10 @@ En este momento está [Peppa Pig - Peluche Peppa Enfermera  voz en inglés ](htt
 
 🔎:
 
+- Blandito y divertido peluche de Peppa vestida de enfermera
 - Incluye otoscopio y un estetoscopio electrónico
+- Reproduce sonidos
 - Producto con voz en inglés
 - Estimula la creatividad y la imaginación
-- Blandito y divertido peluche de Peppa vestida de enfermera
-- Reproduce sonidos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CZM27C8/?tag=tolees-21)

@@ -28,7 +28,7 @@ Está [Oxypas OxyvaJ4401ebl Oxyva - Slip On SRC cómodo zuecos  43/44 EU  EBL](h
 
 ℹ️:
 
-- Enfermería colapsar
 - Zapato de funcionamiento Theatre
+- Enfermería colapsar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01D6L1KDA/?tag=tolees-21)
