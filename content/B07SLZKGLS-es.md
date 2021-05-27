@@ -28,13 +28,13 @@ Ahora mismo tienes [Havaianas Brasil Mix  Chanclas Unisex Adulto  Verde  Leaf Gr
 
 🔎:
 
-- Cierre: Sin cordones
-- Revestimiento: Sin forro
-- Anchura del zapato: Normal
-- Material de la suela: Goma
-- Altura del tacón: 1 centímetros
-- Tipo de tacón: Plano
-- Composición: Caucho
 - Material exterior: Goma
+- Altura del tacón: 1 centímetros
+- Anchura del zapato: Normal
+- Tipo de tacón: Plano
+- Revestimiento: Sin forro
+- Composición: Caucho
+- Cierre: Sin cordones
+- Material de la suela: Goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SLZKGLS/?tag=tolees-21)

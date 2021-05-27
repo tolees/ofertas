@@ -28,10 +28,10 @@ En este momento está [L Oreal Paris Men Expert - L Oréal Paris Men Expert Hydr
 
 🔎:
 
-- Textura ultra-refrescante
-- Protege de las agresiones y vuelve la piel más fuerte
 - Hidrata continuamente la piel
+- Textura ultra-refrescante
 - No grasa, no pegajosa, penetra rápidamente
 - Tono fresco y piel lisa
+- Protege de las agresiones y vuelve la piel más fuerte
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00X9W2ZQ8/?tag=tolees-21)

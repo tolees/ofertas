@@ -29,9 +29,9 @@ Tienes [Luminarc Friends Time 32 cm Plato para Servir Pizza Porcelana Blanca va
 🔎:
 
 - Dimensiones del Producto: 32 cm de diámetro
-- Apta para lavavajillas y microondas.
-- Resistente a los arañazos y, por lo tanto, mantiene su perfecto acabado.
 - Made de material de cerámica templado resistente y duradero.
+- Resistente a los arañazos y, por lo tanto, mantiene su perfecto acabado.
 - Chip Resistente placa de pizza.
+- Apta para lavavajillas y microondas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B006L39YHK/?tag=tolees-21)

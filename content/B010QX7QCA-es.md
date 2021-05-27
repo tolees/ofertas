@@ -28,10 +28,10 @@ Ahora mismo tienes [Aigostar - Bombilla LED E27 12W  Luz Blanca Fría 6400K 1020
 
 🔎:
 
-- 【ESPECIFICACIONES】Bombillas LED estándar A60 con casquillo E27. Temperatura de color blanco Frío 6400K, 1020 lúmenes. No regulable. Eficiencia energética A+.
 - 【Garantía de calidad】Si tiene alguna consulta sobre nuestros productos, siempre puede ponerse en contacto con nosotros y estaremos encantados de ayudarle.
-- 【Encendido Instantáneo/IRC Alto】 No tendrá que esperar a que se calienten.El CRI de las bombillas led de Aigostar siempre es superior a 80, cerca del valor del sol, así reflejan los colores de manera real y natural.
+- 【ESPECIFICACIONES】Bombillas LED estándar A60 con casquillo E27. Temperatura de color blanco Frío 6400K, 1020 lúmenes. No regulable. Eficiencia energética A+.
 - 【AHORRO DE ENERGÍA】Con una duración de hasta 25.000 horas, luz de la vela del LED utiliza 80% menos energía que las bombillas incandescentes de 73 vatios.
+- 【Encendido Instantáneo/IRC Alto】 No tendrá que esperar a que se calienten.El CRI de las bombillas led de Aigostar siempre es superior a 80, cerca del valor del sol, así reflejan los colores de manera real y natural.
 - 【FÁCILMENTE INSTALABLES】Perfectas para todo tipo de estilos tanto en hogares, como en oficinas y comercios.Fáciles de instalar, compatibles con todo tipo de lámparas (de mesa, de pie y de techo)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B010QX7QCA/?tag=tolees-21)

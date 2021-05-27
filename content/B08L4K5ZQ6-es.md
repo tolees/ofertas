@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Skin Active Limpiador de Poros S al 40.00 % de descuento'
-date: 2021-05-26 06:59:18
+date: 2021-05-27 12:45:36
 image: 'https://m.media-amazon.com/images/I/41txkRThLUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [Garnier Skin Active Limpiador de Poros Sin Jabón Anti Imperfecciones  Li
 ℹ️:
 
 - Fórmula hipoalergénica con pH neutro, Enriquecido con Zinc purificante y extracto de Hamamelis, Testado dermatológicamente
-- Pack de 2 limpiadores sin jabón anti-imperfecciones para pieles sensibles, Elimina las impurezas sin resecar la piel
 - Contenido: 2 x Limpiador Sin Jabón Anti Imperfecciones Garnier Pure Active Sensitive, 150 ml
-- Aplicar diariamente emulsionando el gel sobre todo el rostro, Aclarar con abundante agua
 - Limpia y matifica la piel instantáneamente, Purifica y reduce visiblemente las imperfecciones en 4 semanas
+- Pack de 2 limpiadores sin jabón anti-imperfecciones para pieles sensibles, Elimina las impurezas sin resecar la piel
+- Aplicar diariamente emulsionando el gel sobre todo el rostro, Aclarar con abundante agua
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08L4K5ZQ6/?tag=tolees-21)
