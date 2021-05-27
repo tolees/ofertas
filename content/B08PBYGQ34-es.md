@@ -28,8 +28,8 @@ Tienes [ABYstyle Taza  multicolor  única](https://www.amazon.es/dp/B08PBYGQ34/?
 
 🔎:
 
-- 100% nuevo y
 - Fácil de usar
+- 100% nuevo y
 - Producto 100% oficial
 - Producto útil
 

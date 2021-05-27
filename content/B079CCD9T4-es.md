@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjepaulos Polo SS Noos  Bla al 48.22 % de rebaja'
-date: 2021-05-23 21:14:25
+date: 2021-05-27 14:56:43
 image: 'https://m.media-amazon.com/images/I/31b-bmwfx9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B079CCD9T4/?tag=tolees-21'
 descuento: '48.22'
-average: '12.464'
+average: '12.2718181818182'
 ---
 
 Tienes [Jack & Jones Jjepaulos Polo SS Noos  Blanco  White Detail: Slim Fit   Medium para Hombre](https://www.amazon.es/dp/B079CCD9T4/?tag=tolees-21) con precio final de  10.35 EUR (original: 19.99 EUR) (48.22 %  de rebaja) aqui!

@@ -28,10 +28,10 @@ Está [Eastpak Padded Pak R Mochila  40 Cm  24 L  Gris  Black Denim ](https://ww
 
 ℹ️:
 
-- Compartimento principal espacioso con bolsillo delantero con cremallera
+- Fabricada con 60 % nylon y 40 % poliéster
 - Espacioso compartimento principal con nuestro emblemático bolsillo delantero
+- Compartimento principal espacioso con bolsillo delantero con cremallera
 - Correas acolchadas ajustables para hombros y panel trasero
 - Equipada con un panel acolchado en la parte trasera y correas para los hombros que se pueden ajustar para comodidad
-- Fabricada con 60 % nylon y 40 % poliéster
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00MGON1SG/?tag=tolees-21)

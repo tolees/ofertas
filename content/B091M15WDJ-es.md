@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.06 % en Braun Silk Expert Pro 5 PL5137MN Depilad'
-date: 2021-05-25 10:45:07
+date: 2021-05-27 14:56:38
 image: 'https://m.media-amazon.com/images/I/41ZtUR-XgXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

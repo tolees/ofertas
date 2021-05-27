@@ -28,9 +28,9 @@ En este momento está [adidas M MHS Aero FZHD Sudadera  Hombre  Negro  XS](https
 
 🔎:
 
-- Tejido AEROREADY que mantiene la piel seca
-- Chaqueta con capucha
 - Tacto suave
+- Chaqueta con capucha
+- Tejido AEROREADY que mantiene la piel seca
 - Corte holgado
 - Punto doble 100% poliéster
 
