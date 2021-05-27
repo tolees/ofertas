@@ -29,9 +29,9 @@ Ahora mismo tienes [yiqi - Lápices de HB Juego de hexágono de grafito de mader
 🔎:
 
 - Uso ideal para escribir, dibujar, hacer bocetos, para la escuela, oficina, reuniones, restaurante, hotel, uso doméstico, profesor, niños que estudian, etc.
-- Material: Madera, grafito.
-- Núcleo de lápiz más grueso, hecho de material de madera ecológica, seguro y duradero.
-- Medidas: aprox. 17,9 x 0,7 cm.
 - Diseño hexagonal, grafito gris tradicional, después de tratamiento suavizante, más fácil para cortar, no es fácil de romper.
+- Núcleo de lápiz más grueso, hecho de material de madera ecológica, seguro y duradero.
+- Material: Madera, grafito.
+- Medidas: aprox. 17,9 x 0,7 cm.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RDQSGKV/?tag=tolees-21)

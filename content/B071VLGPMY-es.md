@@ -28,9 +28,9 @@ Está [Ewent EW1501 - Soporte de Pared para Pantalla Plana  35 kg  58 4 cm  23" 
 
 ℹ️:
 
-- Con puntos de pivote
+- Bueno para la inclinación y el panorama
 - Desaparece cuando se cierra detrás del televisor
 - Es ajustable y puede corregirse rápida
-- Bueno para la inclinación y el panorama
+- Con puntos de pivote
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071VLGPMY/?tag=tolees-21)

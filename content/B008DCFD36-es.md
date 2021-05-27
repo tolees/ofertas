@@ -28,9 +28,9 @@ Está [Pacsa 18848 - Bloc de dibujo  tamaño folio  micro recuadro  20 hojas  14
 
 ℹ️:
 
-- Producto que combina tradición e innovación
 - Bloc de dibujo tamaño folio
-- Microperforado y con 20 hojas con recuadro
 - El papel es de 140 g
+- Microperforado y con 20 hojas con recuadro
+- Producto que combina tradición e innovación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B008DCFD36/?tag=tolees-21)
