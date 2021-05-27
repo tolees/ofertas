@@ -28,8 +28,8 @@ En este momento está [Under Armour Boy s Blitzing 2.0 Gorra  Niños  Negro  S/M
 
 🔎:
 
-- Structured build maintains shape with a slightly higher crown
-- Built-in HeatGear sweatband wicks away sweat to keep you cool & dry
 - Stretch construction provides a comfortable fit
+- Built-in HeatGear sweatband wicks away sweat to keep you cool & dry
+- Structured build maintains shape with a slightly higher crown
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00L3LKQOU/?tag=tolees-21)

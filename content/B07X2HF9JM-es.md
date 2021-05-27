@@ -28,7 +28,7 @@ Tienes [Pierre Cardin Lyon Chino Voyage Pantalones  Azul  Marine 68   W31/L32  T
 
 🔎:
 
-- Pierre Cardin Lyon Chino Voyage
 - Descubre Pierre Cardin.
+- Pierre Cardin Lyon Chino Voyage
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07X2HF9JM/?tag=tolees-21)

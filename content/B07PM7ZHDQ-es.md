@@ -28,8 +28,8 @@ Ahora mismo tienes [Samsung Gradation Cover A70 Funda para teléfono Galaxy](htt
 
 🔎:
 
-- Funda Gradación
 - Model number: EF-AA705CBEGWW
+- Funda Gradación
 - Galaxy A70
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PM7ZHDQ/?tag=tolees-21)

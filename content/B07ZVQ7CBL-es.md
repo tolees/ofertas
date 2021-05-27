@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s SS Original HM tee Camiseta  Sassafras  XS para Hombr
 
 🔎:
 
+- Adecuada para el día a día
 - Modelo casual
 - Logotipo pequeño de Levis en el pecho
-- Adecuada para el día a día
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVQ7CBL/?tag=tolees-21)

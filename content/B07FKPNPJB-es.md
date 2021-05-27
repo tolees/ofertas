@@ -28,8 +28,8 @@ Ahora mismo tienes [Joma Academy Chandal Caballero  Hombre  Marino-Blanco  XL](h
 
 🔎:
 
+- Chándales
 - Resto textil
 - Academy marino-blanco
-- Chándales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FKPNPJB/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Increíble Hombre Menguante  BD 1957 T con un 41.76 % de descuento'
-date: 2021-05-26 10:04:33
+date: 2021-05-27 19:19:30
 image: 'https://m.media-amazon.com/images/I/61d+lXdVBfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

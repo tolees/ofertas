@@ -28,9 +28,9 @@ Está [Bethesda - Doom VFR](https://www.amazon.es/dp/B071GCWZ91/?tag=tolees-21) 
 
 ℹ️:
 
-- Para poder jugar es imprescindible disponer del sistema PlayStation VR
-- Experimenta el combate de DOOM y sus armas y demonios más emblemáticos desde una nueva perspectiva
-- Explora nuevas zonas de las instalaciones de la UAC en Marte y descubre las habilidades especiales de un agente de seguridad cibernético de la UAC
 - Interactúa físicamente con el universo de DOOM mientras recorres las instalaciones de la UAC y el infierno en un entorno continuo, valiéndote de teletransportes y propulsores
+- Explora nuevas zonas de las instalaciones de la UAC en Marte y descubre las habilidades especiales de un agente de seguridad cibernético de la UAC
+- Experimenta el combate de DOOM y sus armas y demonios más emblemáticos desde una nueva perspectiva
+- Para poder jugar es imprescindible disponer del sistema PlayStation VR
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071GCWZ91/?tag=tolees-21)
