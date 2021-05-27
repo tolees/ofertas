@@ -28,7 +28,7 @@ Tienes [Nike Tanjun  Zapatillas de Running para Hombre  Negro  Black/White 011  
 
 ℹ️:
 
-- Las zapatillas de NIKE, TANJUN son un acierto seguro para tus pies y no podrás resistirte
 - Éstas en color negras con suela blanca, son un básico de la marca y las querrás, seguirísimo lucir en tus pies.
+- Las zapatillas de NIKE, TANJUN son un acierto seguro para tus pies y no podrás resistirte
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XWPWNYG/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Max Factor CC Colour Corrector Sticks Co al 71.58 % de rebaja'
-date: 2021-05-15 13:41:55
+date: 2021-05-27 20:46:01
 image: 'https://m.media-amazon.com/images/I/311GzK1yFSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Max Factor CC Colour Corrector Sticks Correctores Tono Green - 19 gr](ht
 
 🔎:
 
-- Corrector de imperfecciones para todo tipo de piel
 - Con textura cremosa y en formato lápiz
-- Se aplica utilizando la yema de los dedos
+- Corrector de imperfecciones para todo tipo de piel
 - Destinado a ocultar la rojez de la piel
+- Se aplica utilizando la yema de los dedos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00K69TUEW/?tag=tolees-21)
