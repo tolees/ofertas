@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Power Cube - POWERCUBE EXTENDED al 39.21 % de descuento'
-date: 2021-05-20 21:24:24
+date: 2021-05-27 10:22:22
 image: 'https://m.media-amazon.com/images/I/31bSPpSBtAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Power Cube'
 buyurl: 'https://www.amazon.es/dp/B018UH57DO/?tag=tolees-21'
 descuento: '39.21'
-average: '11.3822222222223'
+average: '11.3615789473685'
 ---
 
 Ahora mismo tienes [Power Cube - POWERCUBE EXTENDED](https://www.amazon.es/dp/B018UH57DO/?tag=tolees-21) a 10.99 EUR (original: 18.08 EUR) (39.21 %  de descuento) en el siguiente enlace!
