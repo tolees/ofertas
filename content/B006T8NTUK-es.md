@@ -28,8 +28,8 @@ En este momento está [BIC Tipp-Ex 895933  Cinta correctora  4.2 mm x 10 m](http
 
 🔎:
 
+- Longitud : + de 10 m
 - Aplicación : cinta
 - Marca : tipp-ex
-- Longitud : + de 10 m
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B006T8NTUK/?tag=tolees-21)

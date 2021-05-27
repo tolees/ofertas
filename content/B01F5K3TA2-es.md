@@ -28,10 +28,10 @@ Ahora mismo tienes [Boland 02270 - Medias con lazo  para mujer  talla única](ht
 
 🔎:
 
-- El material se compone de 100% nailon.
-- Para un disfraz sexy son el complemento óptimo y la atracción absoluta.
 - Por encima de la rodilla en color blanco
 - Vienen en una talla única y son elásticas.
+- Para un disfraz sexy son el complemento óptimo y la atracción absoluta.
 - Están adornados con un lazo blanco.
+- El material se compone de 100% nailon.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01F5K3TA2/?tag=tolees-21)
