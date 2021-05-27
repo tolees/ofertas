@@ -29,9 +29,9 @@ Tienes [Buff Amdo Gorra Trucker  Mujer  Multicolor  S/M](https://www.amazon.es/d
 🔎:
 
 - Estilo urbano, para llevar en cualquier lugar
-- Tira interior para absorber el sudor y la humedad, evitando molestias y evitando manchas en la tela
-- Panel frontal: 97% Poliéster 3% Elastano,Paneles traseros: 100% Poliéster,Visera: 97% Poliéster 3% Elastano,Banda anti-sudor: 100% Poliéster, Lavar a mano
 - La humedad del cuerpo se expulsa a través del tejido para evitar sobrecalentamiento y mejorar el confort
 - Diseño BUFF de inspiración americana Trucker
+- Tira interior para absorber el sudor y la humedad, evitando molestias y evitando manchas en la tela
+- Panel frontal: 97% Poliéster 3% Elastano,Paneles traseros: 100% Poliéster,Visera: 97% Poliéster 3% Elastano,Banda anti-sudor: 100% Poliéster, Lavar a mano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084DBKLKH/?tag=tolees-21)
