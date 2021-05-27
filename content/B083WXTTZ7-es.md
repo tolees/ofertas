@@ -28,10 +28,10 @@ Ahora mismo tienes [Safta Estuche Oficial](https://www.amazon.es/dp/B083WXTTZ7/?
 
 🔎:
 
-- Tiradores en los cursores para fácil itar su apertura
 - Contiene 28 piezas: goma, lápiz de grafito, bolígrafo azul, sacapuntas y 10 colorines de madera (1er compartimento). 14 rotuladores de colores (2º compartimento)
 - Safta el niño oficial estuche de útiles escolares.para todo tipo de manualidades.
-- Ideal para alumnos que se encuentran cursando la guardería, primaria o secundaria
 - Medidas: alto 125mm. Ancho 40mm. Largo 195mm
+- Ideal para alumnos que se encuentran cursando la guardería, primaria o secundaria
+- Tiradores en los cursores para fácil itar su apertura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083WXTTZ7/?tag=tolees-21)

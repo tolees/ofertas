@@ -28,9 +28,9 @@ Tienes [Max Factor CC Colour Corrector Sticks Correctores Tono Green - 19 gr](ht
 
 🔎:
 
-- Se aplica utilizando la yema de los dedos
-- Corrector de imperfecciones para todo tipo de piel
-- Destinado a ocultar la rojez de la piel
 - Con textura cremosa y en formato lápiz
+- Destinado a ocultar la rojez de la piel
+- Corrector de imperfecciones para todo tipo de piel
+- Se aplica utilizando la yema de los dedos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00K69TUEW/?tag=tolees-21)
