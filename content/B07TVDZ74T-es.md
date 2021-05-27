@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Superga 2750-cotmetu  Zapatillas de Gimn al 74.17 % de rebaja'
-date: 2021-05-09 15:20:14
+title: 'Superga 2750-cotmetu  Zapatillas de Gimn al 88.32 % de rebaja'
+date: 2021-05-27 03:02:43
 image: 'https://m.media-amazon.com/images/I/41i41AEccgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,27 +9,27 @@ author: 'tole.es'
 slug: 'B07TVDZ74T-es Superga 2750-cotmetu Zapatillas de Gimnasia Unisex Adulto...'
 sku: 'B07TVDZ74T-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','superga', ]
-actualPrice: 17.82 EUR
+actualPrice: 8.06 EUR
 currency: EUR
-price: 17.82
+price: 8.06
 comparePrice: 69.0 EUR
 prodname: 'Superga 2750-cotmetu  Zapatillas de Gimnasia Unisex Adulto  Rosa  Rose Gold 916   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B07TVDZ74T/?tag=tolees-21'
-descuento: '74.17'
-average: '14.195'
+descuento: '88.32'
+average: '12.15'
 ---
 
-Tienes [Superga 2750-cotmetu  Zapatillas de Gimnasia Unisex Adulto  Rosa  Rose Gold 916   44.5 EU](https://www.amazon.es/dp/B07TVDZ74T/?tag=tolees-21) con precio final de  17.82 EUR (original: 69.0 EUR) (74.17 %  de rebaja) aqui!
+Tienes [Superga 2750-cotmetu  Zapatillas de Gimnasia Unisex Adulto  Rosa  Rose Gold 916   44.5 EU](https://www.amazon.es/dp/B07TVDZ74T/?tag=tolees-21) con precio final de  8.06 EUR (original: 69.0 EUR) (88.32 %  de rebaja) aqui!
 
 [![Superga 2750-cotmetu  Zapatillas de Gimn](https://m.media-amazon.com/images/I/41i41AEccgL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07TVDZ74T/?tag=tolees-21)
 
 🔎:
 
-- Material de la suela: goma
 - Material exterior: satén
+- Material de la suela: goma
 - Forro: tela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TVDZ74T/?tag=tolees-21)
