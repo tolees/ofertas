@@ -28,9 +28,9 @@ Tienes [Applaws - Comida humeda para Gatos Gato Jelly Pouch Pollo y Ternera 70 g
 
 ℹ️:
 
-- Alimento complementario para gatos sin aditivos ni conservantes
-- Adecuada para gatos adultos
 - Sin azúcares añadidos, favoreciendo un peso saludable
+- Adecuada para gatos adultos
+- Alimento complementario para gatos sin aditivos ni conservantes
 - Contiene ingredientes digeribles
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00Q39GVU0/?tag=tolees-21)

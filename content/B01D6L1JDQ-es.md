@@ -28,9 +28,9 @@ Está [Oxypas oxyvaj3801nav Oxyva - Slip On SRC cómodo zuecos  37/38 EU  Turquo
 
 ℹ️:
 
+- Abeba – Zapatos para cuidado personal
 - Zapatos de trabajo
 - Transpirable forro interior de Coolmax
-- Abeba – Zapatos para cuidado personal
 - Se adapta a cualquier forma del pie
 - Antideslizante
 
