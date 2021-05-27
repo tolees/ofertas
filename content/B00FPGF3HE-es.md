@@ -28,8 +28,8 @@ En este momento está [Jack & Jones JACSENSE Trunks Noos Calzoncillos  Azul  Dre
 
 🔎:
 
-- Optez pour ce sous-vêtement confortable et agréable pour homme Jack and Jones.
 - Boxer bleu navy, ceinture élastique blanche contrastée avec inscription de la marque.
+- Optez pour ce sous-vêtement confortable et agréable pour homme Jack and Jones.
 - Surpiqûres ton sur ton et coupe courte. Composition : 95% coton, 5 % élasthanne
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00FPGF3HE/?tag=tolees-21)
