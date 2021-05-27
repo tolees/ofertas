@@ -28,8 +28,8 @@ Tienes [Adidas Grand Court C  Zapatillas de Tenis  Blanco  Ftwbla/Negbás/Ftwbla
 
 🔎:
 
-- Marca: Adidas.
-- Material: 100% piel sintética.
 - Cierre: con cordones.
+- Material: 100% piel sintética.
+- Marca: Adidas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QD9XYKJ/?tag=tolees-21)

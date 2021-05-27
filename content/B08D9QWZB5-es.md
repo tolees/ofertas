@@ -28,11 +28,11 @@ Tienes [HAWKERS Sunglasses  Negro/Azul polarizado  One Size Unisex Adulto](https
 
 ℹ️:
 
-- Montura fabricada en TR90, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Más ancho para mejorar la ergonomía y confort. Embellecedor piramidal en acero inoxidable que suaviza la unión entre patilla y terminal dándole un acabado más elegante. Almohadillas de silicona antideslizantes y anti-alérgicas.Montura negra con un print en textura de fibra de carbono combinada con lentes espejadas azules.
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
 - Gafas de Sol polarizadas ONE, unisex, montura negra y lentes espejadas azules.
 - Lente de policarbonato de alta resistencia a los golpes que proporciona máxima comodidad por su flexibilidad y ligereza
-- Medidas: Frente: 14cm; Altura: 5cm; Patillas: 14cm
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
+- Montura fabricada en TR90, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Más ancho para mejorar la ergonomía y confort. Embellecedor piramidal en acero inoxidable que suaviza la unión entre patilla y terminal dándole un acabado más elegante. Almohadillas de silicona antideslizantes y anti-alérgicas.Montura negra con un print en textura de fibra de carbono combinada con lentes espejadas azules.
 - Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
+- Medidas: Frente: 14cm; Altura: 5cm; Patillas: 14cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08D9QWZB5/?tag=tolees-21)
