@@ -28,8 +28,8 @@ Está [Nike LD Victory  Running Shoe Mujer  Blanco/Negro/Voltio Ligero  41 EU](h
 
 ℹ️:
 
+- Clip de goma inspirado en las Nike Huarache Run
 - Logotipo en relieve en la parte superior de la lengüeta
 - Parte superior de tela con revestimientos de piel
-- Clip de goma inspirado en las Nike Huarache Run
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TKC6XGZ/?tag=tolees-21)

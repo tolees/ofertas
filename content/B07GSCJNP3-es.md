@@ -28,10 +28,10 @@ En este momento está [Cascha HH 2069 Soporte para guitarra acústica y eléctri
 
 🔎:
 
+- De uso universal: el soporte de la guitarra se puede plegar fácilmente; esto hace que sea fácil de almacenar y transportar; ya sea en casa, en el estudio o en un concierto, este soporte de guitarra es un compañero universal para cualquier situación
+- Infinitamente ajustable: el ancho del soporte de la guitarra cascha es infinitamente ajustable; esto hace que el soporte sea adecuado para instrumentos más pequeños como las guitarras de los niños
 - Incluye cubierta protectora: los apoyos para instrumentos son extra bajos sobre el soporte para aumentar la estabilidad; se completan con un recubierto de goma: esto protege el instrumento y el barniz de arañazos
 - Antideslizante: los pies de goma antideslizantes aseguran una sujeción segura; también protegen el suelo de arañazos no deseados
 - Muy estable: el soporte de guitarra cascha está hecho de metal y pintado de negro; la construcción estable del armazón en a proporciona una sujeción segura para guitarras acústicas, guitarras eléctricas y bajos (no adecuado para instrumentos con laca de nitrocelulosa)
-- Infinitamente ajustable: el ancho del soporte de la guitarra cascha es infinitamente ajustable; esto hace que el soporte sea adecuado para instrumentos más pequeños como las guitarras de los niños
-- De uso universal: el soporte de la guitarra se puede plegar fácilmente; esto hace que sea fácil de almacenar y transportar; ya sea en casa, en el estudio o en un concierto, este soporte de guitarra es un compañero universal para cualquier situación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GSCJNP3/?tag=tolees-21)

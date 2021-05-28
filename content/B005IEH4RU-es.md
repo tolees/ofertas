@@ -29,9 +29,9 @@ Tienes [Bourjois Effect 3d Gloss Gloss Tono 20 Rose symphonic - 21 gr.](https://
 🔎:
 
 - Fórmula libre de parabenos con un 92% de agentes protectores e hidratantes
+- Enriquecido con Vitaminas E, C y antioxidante
+- Gloss que combina brillo intenso y luminoso con balsamo hidratante
 - Hasta 8 horas de hidratación y color sin sensación pegajosa
 - Contiene cera microcristalizada que proporciona un brillo super luminoso
-- Gloss que combina brillo intenso y luminoso con balsamo hidratante
-- Enriquecido con Vitaminas E, C y antioxidante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005IEH4RU/?tag=tolees-21)

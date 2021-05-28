@@ -28,11 +28,11 @@ Está [Philips Serie 9000 S9031/12 - Máquina de afeitar con cabezales de 8 dire
 
 ℹ️:
 
-- Ofrece 50 minutos de afeitado sin cable después de una hora de carga
-- Los cabezales se flexionan en 8 direcciones para que el resultado sea superior
-- Disfruta de un cómodo afeitado en seco o de un refrescante afeitado en húmedo
-- El recortador de precisión trata con suavidad tu piel y es adecuado para mantener el bigote y recortar las patillas
-- Máquina de afeitar que corta hasta un 20 % más de pelo en una sola pasada
 - Incluye; recortador de precisión y funda de viaje
+- Máquina de afeitar que corta hasta un 20 % más de pelo en una sola pasada
+- Ofrece 50 minutos de afeitado sin cable después de una hora de carga
+- Disfruta de un cómodo afeitado en seco o de un refrescante afeitado en húmedo
+- Los cabezales se flexionan en 8 direcciones para que el resultado sea superior
+- El recortador de precisión trata con suavidad tu piel y es adecuado para mantener el bigote y recortar las patillas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00L196OFY/?tag=tolees-21)
