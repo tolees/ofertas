@@ -28,9 +28,9 @@ En este momento está [Nike BA5504 2018 Bolsa de Viaje 25 cm  3 litros  Midnight
 
 🔎:
 
-- Dos bolsillos con cremallera, uno de los cuales es especialmente adecuado para zapatos o ropa mojada
-- Una correa de hombro ajustable y desmontable
 - Material 100 % poliéster
 - Dos correas de transporte
+- Una correa de hombro ajustable y desmontable
+- Dos bolsillos con cremallera, uno de los cuales es especialmente adecuado para zapatos o ropa mojada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BWVL13Y/?tag=tolees-21)

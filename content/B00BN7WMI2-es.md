@@ -28,7 +28,7 @@ Ahora mismo tienes [Instituto Español Gel de Baño Aloe Vera - 1250 ML](https:/
 
 🔎:
 
-- De la marca Instituto Español
 - Este producto está indicado tanto para mujeres como hombres
+- De la marca Instituto Español
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BN7WMI2/?tag=tolees-21)

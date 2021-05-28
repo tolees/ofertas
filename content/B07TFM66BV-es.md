@@ -28,10 +28,10 @@ Está [Unidad Flash de Lexar JumpDrive Fingerprint F35 128GB USB 3.0](https://ww
 
 ℹ️:
 
+- Configuración fácil, no necesita controlador de software
 - Protege los archivos de forma segura usando el cifrado aes de 256 bits
+- Permite hasta 10 identificaciones de huellas dactilares
 - Reconocimiento ultrarrápido - menos de 1 segundo
 - Garantía limitada de tres años
-- Configuración fácil, no necesita controlador de software
-- Permite hasta 10 identificaciones de huellas dactilares
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TFM66BV/?tag=tolees-21)

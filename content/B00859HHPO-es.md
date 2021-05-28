@@ -28,9 +28,9 @@ Tienes [Axe Dark temptation - Set de 6 geles de ducha  6 x 250 ml ](https://www.
 
 🔎:
 
-- Contenido de 250 ml
 - El frescor de Axe en un jabón de cuerpo para un olor dulce y cautivador todo el día
-- Dermatológicamente comprobado
 - El gel de ducha AXE Dark Temptation tiene la fragancia como el chocolate
+- Contenido de 250 ml
+- Dermatológicamente comprobado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00859HHPO/?tag=tolees-21)
