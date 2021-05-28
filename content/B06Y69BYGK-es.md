@@ -28,8 +28,8 @@ Tienes [Joma Bali II Polos Caballero  Hombre  Verde  L](https://www.amazon.es/dp
 
 🔎:
 
+- Training
 - Polos caballero
 - Verde
-- Training
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06Y69BYGK/?tag=tolees-21)

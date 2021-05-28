@@ -29,9 +29,9 @@ Está [G-STAR RAW Revend Skinny Vaqueros  Pitch Black B964-a810  33W / 28L para 
 ℹ️:
 
 - Cierre: Boton y cierre
-- Lavar a máquina - agua fría (30 ° max)
+- Skinny
 - 91% Algodón, 7% Elastomultiéster, 2% Elastano
 - Usado
-- Skinny
+- Lavar a máquina - agua fría (30 ° max)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NDM81XB/?tag=tolees-21)
