@@ -29,8 +29,8 @@ En este momento está [Bref Poder Activo Limón Colgador WC - Pack de 10 unidade
 🔎:
 
 - Bref Poder Activo Limón ofrece frescor, limpieza y desinfección continua en tu WC.
-- La fórmula especial de Bref te ayudará a mantener el WC siempre limpio y fresco, incluso entre descargas.
 - Bref es un limpiador WC que combina diseño con una limpieza eficaz y un aroma fresco a limón.
+- La fórmula especial de Bref te ayudará a mantener el WC siempre limpio y fresco, incluso entre descargas.
 - Con cuatro funciones: Espuma limpiadora, Fórmula antical, Protector contra la suciedad y Frescor extra garantizando la limpieza de tu hogar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L3D9M3N/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NEW C 2 Unidades  Protector de Pantalla  con un 46.18 % de descuento'
-date: 2021-05-26 08:24:53
+date: 2021-05-28 06:12:23
 image: 'https://m.media-amazon.com/images/I/51a0dpm17HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NEWC'
 buyurl: 'https://www.amazon.es/dp/B07NC8PWDM/?tag=tolees-21'
 descuento: '46.18'
-average: '4.86764705882353'
+average: '4.86333333333333'
 ---
 
 En este momento está [NEW C 2 Unidades  Protector de Pantalla para iPhone 11 y iPhone XR  6.1"   Antiarañazos  Antihuellas  Sin Burbujas  9H  0.33 mm  Vidrio Templado Ultra Resistent y Transparent](https://www.amazon.es/dp/B07NC8PWDM/?tag=tolees-21) a 4.79 EUR (original: 8.9 EUR) (46.18 %  de descuento) en el siguiente enlace!
