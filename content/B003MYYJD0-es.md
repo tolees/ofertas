@@ -29,9 +29,9 @@ Tienes [Invicta Pro Diver - SCUBA 6981 Reloj para Hombre Cuarzo - 48mm](https://
 ℹ️:
 
 - Resistencia a la presión de aqua de 10 bares
-- Este modelo es parte de la colección Invicta Pro Diver - SCUBA
-- El Invicta 6981 tiene una caja de acero inoxidable de 48 millimetros con una esfera negro
-- 2 años de garantía Invicta
 - Esta modelo funciona con un movimiento de Cuarzo preciso
+- Este modelo es parte de la colección Invicta Pro Diver - SCUBA
+- 2 años de garantía Invicta
+- El Invicta 6981 tiene una caja de acero inoxidable de 48 millimetros con una esfera negro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003MYYJD0/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Cressi Molokai Shoes Calzado Deportivo multipropósito  Unisex Adulto  N
 
 ℹ️:
 
-- Parte superior con cordones en material especial
-- Material de alta calidad
-- Excelentes zapatos para todos los deportes de verano
-- Suela antideslizante en material de alto coeficiente de fricción
 - También se pueden usar en agua
+- Material de alta calidad
+- Suela antideslizante en material de alto coeficiente de fricción
+- Excelentes zapatos para todos los deportes de verano
+- Parte superior con cordones en material especial
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Z5M55VP/?tag=tolees-21)
