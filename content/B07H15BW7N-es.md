@@ -28,10 +28,10 @@ Ahora mismo tienes [HAWKERS Gafas de Sol Air  para Hombre y Mujer  con Montura L
 
 🔎:
 
+- Lente azul con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
+- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
 - Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
 - Icónico modelo Hawkers One TR90, Unisex, con montura transparente y lente azul con efecto espejo
-- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
 - Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
-- Lente azul con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H15BW7N/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [NEWPROJET ITALIA SRL Dragon Ball Z - NANOBLOCK Roshi 130 Piezas](https://
 
 ℹ️:
 
-- contiene instrucciones detalladas
-- conjunto de bloques de construcción mini Dragon Ball Z con licencia
-- Altura 5,1 cm
 - 120 piezas, incluidas piezas de repuesto
+- Altura 5,1 cm
 - figura nanoblock Muten Roshi para bricolaje
+- conjunto de bloques de construcción mini Dragon Ball Z con licencia
+- contiene instrucciones detalladas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NVDJP6Z/?tag=tolees-21)

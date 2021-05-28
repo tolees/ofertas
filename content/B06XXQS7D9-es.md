@@ -28,10 +28,10 @@ Tienes [Auxmir Espejo Maquillaje con Luz LED  Espejo Cosmético Tríptico con Do
 
 🔎:
 
-- AUMENTO 10X & DISEÑO TRÍPTICO: el espejo lleva un espejito de aumento 10X, que garantiza la necesidad con detalle además del uso diario. Mientras este espejito de aumento tiene dos ventosas que puede pegarse firmemente en cualquier superficie lisa, como el cerámico, el cristal, etc. El diseño tríptico ofrece una vista más amplia ahorrando la molestia de mover el espejo para ver bien.
 - ESPEJO CON LUZ LED AJUSTABLE Y BOTÓN TÁCTIL: el brillo del la luz se puede ajustar según la necesidad del entorno, y es muy fácil hacerlo, solo con el botón táctil en la superficie del espejo se puede ajustar libremente.
+- ROTACIÓN 180º, BANDEJA DE ALMACENAMIENTO Y PLEGABLE PARA EL VIAJE: puede elegir la rotación y fijarse en cualquier posición firmemente según sus necesidades. Mientras lleva un base con peso, que garantiza la estabilidad, con el que puede colocar cositas, como esmalte de uñas, esponja de maquillaje. Además, es plegable, que puede llevarse en su maleta del viaje.
+- AUMENTO 10X & DISEÑO TRÍPTICO: el espejo lleva un espejito de aumento 10X, que garantiza la necesidad con detalle además del uso diario. Mientras este espejito de aumento tiene dos ventosas que puede pegarse firmemente en cualquier superficie lisa, como el cerámico, el cristal, etc. El diseño tríptico ofrece una vista más amplia ahorrando la molestia de mover el espejo para ver bien.
 - LED MEJORADOS SIN DAÑAR OJOS & GARANTÍA DE SATISFACCIÓN DE 100%: se usa LED de nueva versión que no hace daño en los ojos comparando con los de antes. Si el espejo se rompe durante el transporte, puede ponerse en contacto con Auxmir Group por correo electrónico. Con mucho gusto le reembolsaremos el precio total de la compra o le enviaremos un reemplazo sin cargo.
 - DOS MODOS DE ALIMENTACIÓN: en el paquete del espejo hay 4 pilas con que alimenta, mientras pude cargarse con un cable USB que está incluido en el paquete. Con los dos se garantiza bien el funcionamiento de luz LED.
-- ROTACIÓN 180º, BANDEJA DE ALMACENAMIENTO Y PLEGABLE PARA EL VIAJE: puede elegir la rotación y fijarse en cualquier posición firmemente según sus necesidades. Mientras lleva un base con peso, que garantiza la estabilidad, con el que puede colocar cositas, como esmalte de uñas, esponja de maquillaje. Además, es plegable, que puede llevarse en su maleta del viaje.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XXQS7D9/?tag=tolees-21)

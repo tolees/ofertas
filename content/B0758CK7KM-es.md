@@ -28,10 +28,10 @@ Ahora mismo tienes [Exerz JH023 Artist Set de Pinceles – 10 Pinceles Profesion
 
 🔎:
 
+- Estuche protector que muestra y seca sus pinceles, le permite llevar sus pinceles con usted de manera sencilla o guardarlos en casa. Dimensiones del estuche (abierto): 23 x 22 cm / 9 x 9 pulgadas.
 - Perfecto para todos los niveles de artistas - principiantes, artistas avanzados, estudiantes y niños. También es una excelente idea de regalo.
 - Grandioso set de pinceles para usar con Acuarelas/ Acrílico / Gouache.
 - Hechos con cerdas mixtas de cabello, fáciles de limpiar. Están firmemente apretadas para evitar que se suelten o se desprendan sobre sus obras de arte.
-- Estuche protector que muestra y seca sus pinceles, le permite llevar sus pinceles con usted de manera sencilla o guardarlos en casa. Dimensiones del estuche (abierto): 23 x 22 cm / 9 x 9 pulgadas.
 - Incluye 10 piezas de pinceles de primera calidad de todas las formas y tamaños (ver detalles en las imágenes) con un estuche protector gratuito, hacen que este set de pinceles sea perfecto para cualquier nivel de conocimiento.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0758CK7KM/?tag=tolees-21)

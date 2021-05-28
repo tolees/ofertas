@@ -28,8 +28,8 @@ Está [O Neill PM Sun&Sea para Hombre  Azul  Ruby Blue   M](https://www.amazon.e
 
 ℹ️:
 
-- Bolsillo
 - Regular fit
 - Boardshorts Elasticated
+- Bolsillo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Z9P6JCG/?tag=tolees-21)

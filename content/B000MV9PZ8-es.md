@@ -28,8 +28,8 @@ En este momento está [Colgate Cepillo De Dientes 360º #Medium 1 Pz](https://ww
 
 🔎:
 
-- Contiene 1 pz.
 - De la marca Colgate.
 - Este producto está indicado tanto para mujeres como para hSombras.
+- Contiene 1 pz.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000MV9PZ8/?tag=tolees-21)

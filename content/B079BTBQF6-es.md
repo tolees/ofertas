@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjepaulos Polo SS Noos  Azu al 35.02 % de descuento'
-date: 2021-05-26 14:12:08
+date: 2021-05-28 11:38:18
 image: 'https://m.media-amazon.com/images/I/41dpAy86GuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B079BTBQF6/?tag=tolees-21'
 descuento: '35.02'
-average: '14.0213636363634'
+average: '13.9984444444442'
 ---
 
 Está [Jack & Jones Jjepaulos Polo SS Noos  Azul  Bright Cobalt Detail: Slim Fit   X-Small para Hombre](https://www.amazon.es/dp/B079BTBQF6/?tag=tolees-21) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
