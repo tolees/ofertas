@@ -28,8 +28,8 @@ Está [Levi s Declan Millstone 2 Tone  Zapatillas Hombre  Blanco R White  45 EU]
 
 ℹ️:
 
-- Suela interior extraíble.
 - Material exterior: piel sintética.
+- Suela interior extraíble.
 - Cordones con 7 orificios.
 - Parche lateral con logotipo
 - Suela de goma de alta calidad.
