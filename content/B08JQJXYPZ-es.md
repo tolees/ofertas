@@ -29,7 +29,7 @@ En este momento está [Gioseppo Elsmere  Zapatillas Mujer  Beig  40 EU](https://
 🔎:
 
 - Calzado Gioseppo
-- Moda y Confort
 - Colección Primavera - Verano 2512
+- Moda y Confort
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JQJXYPZ/?tag=tolees-21)

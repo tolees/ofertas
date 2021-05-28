@@ -28,10 +28,10 @@ Tienes [1-DAY ACUVUE® MOIST - Lentillas diarias - protección UV - 90 lentes](h
 
 🔎:
 
-- Lentillas desechables diarias disponibles en cajas de 30, 90 o 180 unidades.
+- Nuestra tecnología LACREON retiene un ingrediente humectante dentro del material de la lentilla de hidrogel para mantener tus ojos cómodos y frescos, incluso al final del día, cuando más lo necesitas.
 - Todas las lentillas ACUVUE filtran más del 98% de rayos UVB y del 85% de los rayos UVA*.
 - Estamos tan seguros de que las lentillas ACUVUE te encantarán, que te ofrecemos una garantía de satisfacción.
 - Unas lentillas desechables diarias que se mantienen cómodas y húmedas durante todo el día1. Están disponibles para miopía e hipermetropía.
-- Nuestra tecnología LACREON retiene un ingrediente humectante dentro del material de la lentilla de hidrogel para mantener tus ojos cómodos y frescos, incluso al final del día, cuando más lo necesitas.
+- Lentillas desechables diarias disponibles en cajas de 30, 90 o 180 unidades.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0019R4POU/?tag=tolees-21)

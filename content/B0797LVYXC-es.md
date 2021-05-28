@@ -28,8 +28,8 @@ Ahora mismo tienes [PUMA Liga Jersey T-Shirt  Hombre  Electric Blue Lemonade-Yel
 
 🔎:
 
-- Transferencia térmica
 - Tejido exterior de los puños en color contrastante
+- Transferencia térmica
 - Cuello redondo
 - dryCELL: propiedades de absorción de la humedad que te ayudan a estar seco y cómodo
 

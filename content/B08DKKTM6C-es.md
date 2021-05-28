@@ -28,8 +28,8 @@ Está [Sanytol - Eco Recarga de Jabón de Manos Hidratante con Protección Total
 
 ℹ️:
 
-- Deja las manos limpias, suaves, hidratadas y delicadamente perfumadas
 - Eco Recarga de jabón de manos hidratante con protección total contra agentes externos, con un 83% menos de plástico
+- Deja las manos limpias, suaves, hidratadas y delicadamente perfumadas
 - Preserva la hidratación natural de la piel gracias a un rico complejo lipídico similar al que conforma la estructura de nuestra epidermis;Fórmula probada dermatológica y clínicamente
 - Formulado con ingredientes de origen natural, como extractos de aloe vera y té verde, con propiedades hidratantes
 

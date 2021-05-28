@@ -28,8 +28,8 @@ En este momento está [Levi s Plus Size Pl tee Camiseta  Plus Batwing White  1X 
 
 🔎:
 
+- Modelo casual
 - Elaborada en punto suave
 - Con un logo Levis en horizontal en el pecho
-- Modelo casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073QMZG3X/?tag=tolees-21)

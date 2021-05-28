@@ -29,9 +29,9 @@ En este momento está [Poly Pool PP2420X - Regleta multienchufe  Color Blanco  T
 🔎:
 
 - Regleta con enchufe superfino de solo 23 mm, se puede utilizar en zonas muy estrechas
-- Potencia extraíble: 3500 W
-- Ideal para entornos domésticos y oficinas, idónea para conectar ordenadores, teléfonos o ventiladores
 - Dispone de 4 tomas de 10 A 2P + T en línea para conectar 4 enchufes pequeños
+- Ideal para entornos domésticos y oficinas, idónea para conectar ordenadores, teléfonos o ventiladores
 - Producto certificado por el instituto italiano de marca de calidad (imq)
+- Potencia extraíble: 3500 W
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073WVZDSF/?tag=tolees-21)
