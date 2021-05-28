@@ -28,9 +28,9 @@ Está [NIKE Inter M NSW Modern GSP Aut Polo Shirt  Hombre  Black/Blue Spark no s
 
 ℹ️:
 
-- Cuenta con detalles de los nerazzurri en el pecho
-- Camiseta polo para hombre
 - Ajuste regular
+- Cuenta con detalles de los nerazzurri en el pecho
 - Tiene cuello en punta con diseño plano para ofrecer un look estilizado
+- Camiseta polo para hombre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B7K1SXL/?tag=tolees-21)

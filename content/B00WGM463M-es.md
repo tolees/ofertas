@@ -28,9 +28,9 @@ En este momento está [Targus AWE69EU Alfombrilla de portátil para Regazo Chill
 
 🔎:
 
-- Un solo ventilador
-- Alimentación mediante USB
 - Superficie cómoda
+- Alimentación mediante USB
+- Un solo ventilador
 - Ultradelgada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00WGM463M/?tag=tolees-21)

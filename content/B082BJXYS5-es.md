@@ -29,7 +29,7 @@ Tienes [Electronic Arts - TITANFALL 2 Standard | Xbox One - Código de descarga]
 ℹ️:
 
 - Titanfall 2, ahora por primera vez con campaña de un jugador y un modo Multijugador aún más soﬁsticado, te trae de nuevo la acción innovadora
-- Titanfall 2 Respawn Entertainment presenta Titanfall 2.
 - rápida y ﬂuida que deﬁne esta serie.
+- Titanfall 2 Respawn Entertainment presenta Titanfall 2.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B082BJXYS5/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Funko Pop! Animation: Dragonball Z S5 - Videl 528 Vinyl F
 
 🔎:
 
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Figura POP! Dragonball Z: Videl
 - Descúbre otras figuras de la colección Dragonball y colecciónalas todas!
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HB3LJPK/?tag=tolees-21)

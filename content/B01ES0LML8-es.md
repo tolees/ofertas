@@ -29,8 +29,8 @@ En este momento está [Joma Hobby  Polo para Hombre  Negro  100   6XS](https://w
 🔎:
 
 - Polo diseñado con cuello tipo camisa de manga corta
+- El logotipo de la marca es impreso en el hombro derecho
 - Viene con cuello alto y con tres botones personalizados
 - Es confeccionada en 94% poliéster y 6% algodón
-- El logotipo de la marca es impreso en el hombro derecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01ES0LML8/?tag=tolees-21)

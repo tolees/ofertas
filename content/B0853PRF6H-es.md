@@ -28,8 +28,8 @@ Está [Meridiem Games - Big Pharma. Manager Edition](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Corazón de Origami
-- Stickers
 - Caja Premium
+- Stickers
+- Corazón de Origami
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0853PRF6H/?tag=tolees-21)
