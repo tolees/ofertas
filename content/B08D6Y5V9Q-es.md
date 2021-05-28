@@ -28,9 +28,9 @@ Tienes [Lifeproof Wake funda anticaídas y ecológica para Apple iPhone 12 Pro M
 
 🔎:
 
-- Protección contra caídas
-- Ultrafina
 - Contribuimos a proteger los océanos
+- Ultrafina
+- Protección contra caídas
 - Fabricación sostenible
 - embalaje reciclable
 

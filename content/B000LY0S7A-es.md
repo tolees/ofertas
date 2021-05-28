@@ -28,8 +28,8 @@ Ahora mismo tienes [Tetra Vital 100 ml](https://www.amazon.es/dp/B000LY0S7A/?tag
 
 🔎:
 
-- Crea un ambiente casi natural
 - Promueve la vitalidad, el bienestar y la coloración natural.
+- Crea un ambiente casi natural
 - Adecuado para todos los acuarios de agua dulce
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000LY0S7A/?tag=tolees-21)

@@ -29,9 +29,9 @@ Ahora mismo tienes [Lomvum Medidor Laser de Distancia  50M Profesional Metro Las
 🔎:
 
 - 👍🏽 DURADERO Y PRÁCTICO: el nivel de impermeabilidad IP54 y la función a prueba de polvo protegen el medidor de distancia láser al máximo; El tamaño portátil y el cuerpo de goma dura proporcionan un buen agarre; La correa para la muñeca le permite sujetar el medidor con firmeza y transportarlo fácilmente.
-- 👍🏽 La luz solar intensa puede debilitar la energía del láser y afectar la precisión y el rango de la medición (esto puede suceder para el telémetro de cualquier marca), por lo que le recomendamos que no lo use bajo una luz fuerte, si tiene que utilizarlo, que lo use con el reflector incluido.
 - 👍🏽 EL PAQUETE INCLUYE: el LOMVUM telémetro láser 50M, batería de 2*AAA, manual de usuario en alemán, bolsa de almacenamiento, garantía de calidad de 24 meses. Cualquier problema que se encuentra durante el uso, póngase en contacto con nosotros directamente por favor.
 - 👍🏽 Rango de medición: 50M, precisión de medición: ±2mm, puede alterarse entre las tres unidades M/in/ft.
 - 👍🏽 MULTIFUNCIONAL: el LOMVUM telémetro se puede utilizar para medir la distancia, el área, el volumen, la distancia indirecta (Pythagoras), tiene 2 puntos de referencia, función de aumento/reducción de la lectura, función de calibración automática. Los datos de mediciones de distancia se pueden acumular de forma independiente y se pueden guardar 20 conjuntos de datos.
+- 👍🏽 La luz solar intensa puede debilitar la energía del láser y afectar la precisión y el rango de la medición (esto puede suceder para el telémetro de cualquier marca), por lo que le recomendamos que no lo use bajo una luz fuerte, si tiene que utilizarlo, que lo use con el reflector incluido.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FVMVC7D/?tag=tolees-21)

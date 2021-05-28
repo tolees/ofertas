@@ -28,7 +28,7 @@ Ahora mismo tienes [Simon - 75610-66 marco 1 elemento s-75 oro Ref. 6557566159](
 
 🔎:
 
-- Marco 1 elemento oro, Serie Simon 75
 - Paqueteage Dimensiones: 2.5 L x 13.5 H x 11.5 W (centimeters)
+- Marco 1 elemento oro, Serie Simon 75
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01AVEEJ92/?tag=tolees-21)
