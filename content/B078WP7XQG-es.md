@@ -28,10 +28,10 @@ Ahora mismo tienes [LEDGLE Bombilla de Calor Infrarroja de Cerámica con Emisor 
 
 🔎:
 
-- 💡 Este bombilla calor reptiles es de 100w, 220-240 voltios, enchufes E27 estándar adoptados, es ampliamente utilizado. (ATENCIÓN: Haga coincidir solo el casquillo de cerámica E27. Debido a que el casquillo de plástico E27 puede derretir el portalámparas e incluso causar la explosión de la lámpara)
 - 💡 La lampara terrario tortugas capaz de irradiar calor y crear la condición de calor natural como el sol. La bombilla produce calor en lugar de luz, lo que la hace ideal para el día y la noche por igual.
+- 💡 Este bombilla calor reptiles es de 100w, 220-240 voltios, enchufes E27 estándar adoptados, es ampliamente utilizado. (ATENCIÓN: Haga coincidir solo el casquillo de cerámica E27. Debido a que el casquillo de plástico E27 puede derretir el portalámparas e incluso causar la explosión de la lámpara)
+- 💡 La bombilla ceramica garantiza un rendimiento duradero y estable.
 - 💡 La luz ceramica reptil es ideal para reptiles, pollos, gatos, perros, cría, plantas, etc.
 - 💡 La lampara calor tortugas revestido con un acabado de primera calidad, la bombilla ofrece un brillo sorprendente y una calidad duradera.
-- 💡 La bombilla ceramica garantiza un rendimiento duradero y estable.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078WP7XQG/?tag=tolees-21)
