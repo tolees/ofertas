@@ -28,14 +28,14 @@ Tienes [Geox D Felicity D  Botas Altas Mujer  Marrón  Coffee C6009   37 EU](htt
 
 ℹ️:
 
-- Cierre: Cremallera
-- Composición: Cuero
-- Material exterior: Cuero
+- Revestimiento: Lona
 - Material de la suela: Sintético
 - Tipo de tacón: Plano
-- Altura del tacón: 3.5 centímetros
-- Revestimiento: Lona
+- Material exterior: Cuero
 - Tipo de talla: Los zapatos Geox son holgados
+- Cierre: Cremallera
+- Altura del tacón: 3.5 centímetros
+- Composición: Cuero
 - Anchura del zapato: Normal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0792FNHG5/?tag=tolees-21)
