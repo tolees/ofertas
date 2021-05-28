@@ -30,8 +30,8 @@ Ahora mismo tienes [Levi s Woodward  Zapatillas Hombre  Marrón  Medium Brown 27
 
 - Super cómodas
 - Zapatillas de línea clásica
-- Suela de caucho
 - Zapatillas Levis Woodward
+- Suela de caucho
 - Cuero sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SJ1B2ZD/?tag=tolees-21)
