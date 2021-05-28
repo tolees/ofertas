@@ -29,9 +29,9 @@ Ahora mismo tienes [Reloj de Pulsera Emporio Armani - Mujer](https://www.amazon.
 🔎:
 
 - - Material de la Carcasa: Acero inoxidable
+- Mecanismo
 - Carcasa
 - - Cristal: Cristal Mineral
 - - Color de la caja: Oro Rojo
-- Mecanismo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VGTSFTK/?tag=tolees-21)
