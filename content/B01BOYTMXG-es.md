@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Legrand  Enchufe de Pared 1 Toma  Forix  al 42.88 % de descuento'
-date: 2021-05-09 08:50:18
+date: 2021-05-29 10:15:31
 image: 'https://m.media-amazon.com/images/I/31Wo9YHmMyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Legrand'
 buyurl: 'https://www.amazon.es/dp/B01BOYTMXG/?tag=tolees-21'
 descuento: '42.88'
-average: '4.03'
+average: '4.145'
 ---
 
 Está [Legrand  Enchufe de Pared 1 Toma  Forix  Color Blanco](https://www.amazon.es/dp/B01BOYTMXG/?tag=tolees-21) con 42.88 de descuento por 4.49 EUR (original: 7.86 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Legrand  Enchufe de Pared 1 Toma  Forix  Color Blanco](https://www.amazon
 
 ℹ️:
 
-- BASE ENCHUFE: De la Gama Forix. Color Blanco brillante.
-- ENCHUFE SUPERFICIE: Medidas: 6,5 x 4 x 6,5 cm. Peso: 45,4 gr.
-- ENCHUFE CON PROTECCION: 16A a 230V.
-- ENCHUFE SCHUKO: 1 enchufe pared con toma de tierra. Instalacion en superficie.
 - SEGURIDAD: Dispone de protección infantil en los polos de conexión.
+- ENCHUFE CON PROTECCION: 16A a 230V.
+- ENCHUFE SUPERFICIE: Medidas: 6,5 x 4 x 6,5 cm. Peso: 45,4 gr.
+- ENCHUFE SCHUKO: 1 enchufe pared con toma de tierra. Instalacion en superficie.
+- BASE ENCHUFE: De la Gama Forix. Color Blanco brillante.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BOYTMXG/?tag=tolees-21)

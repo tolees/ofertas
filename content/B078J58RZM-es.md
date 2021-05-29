@@ -28,10 +28,10 @@ En este momento está [Maybelline New York  Base de Maquillaje que Calca a tu To
 
 🔎:
 
-- Fórmula ligera no comedogénica enriquecida con arcilla matificante y micropolvos borradores de brillos y poros para un acabado natural
-- Utiliza tu tono en toda la cara y otro ligeramente más oscuro en los relieves del rostro para un efecto bronceado, Combínalo con el corrector y los polvos Fit Me para un acabado impecable
-- Contenido: 1 x Base de maquillaje fluido Fit Me Mate y Afinaporos Maybelline New York, Tono: 312 Golden Cantidad: 30 ml
 - Idónea para pieles mixtas o gracias a su fórmula
+- Utiliza tu tono en toda la cara y otro ligeramente más oscuro en los relieves del rostro para un efecto bronceado, Combínalo con el corrector y los polvos Fit Me para un acabado impecable
+- Fórmula ligera no comedogénica enriquecida con arcilla matificante y micropolvos borradores de brillos y poros para un acabado natural
+- Contenido: 1 x Base de maquillaje fluido Fit Me Mate y Afinaporos Maybelline New York, Tono: 312 Golden Cantidad: 30 ml
 - Base de maquillaje que calca tu tono y tu textura para un resultado sublime y homogéneo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078J58RZM/?tag=tolees-21)

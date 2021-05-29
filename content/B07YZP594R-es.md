@@ -28,10 +28,10 @@ Tienes [CREATE IKOHS NETBOT S15 - Robot Aspirador y Fregasuelos 4 en 1  mapeo na
 
 🔎:
 
-- Tecnología SmartGyroscope, con navegación inteligente, gracias a sus sensores giroscópicos le permite mapear mientras limpia detectando obstaculos y evitando caer. Se adapta totalmente a su hogar.
+- Puedes programarlo fácilmente desde su mando o desde su práctica e intuitiva App gracias a su Wifi compatible con Alexa y Google Home. Incluye repuestos: 1 mopa, 1 filtro HEPA y 2 cepillos laterales.
+- Robot aspirador profesional 4 en 1: Se convierte en la solución perfecta para mantener tus espacios limpios. Prestaciones increíbles, barre, aspira, pasa la mopa y friega en todo tipo de superficies.
 - Este robot friegasuelos con sistema IntelligentClean y 2 potencias de succión, pasa la mopa y friega con solo rellenar su depósito de líquidos. Tendrás un suelo en perfectas condiciones de forma silenciosa.
 - El robot aspirador automático, limpia, retiene alérgenos y polvo, purifica el aire con su doble filtro Sponge Clean y filtro HEPA. Con 2 depósitos de gran capacidad para polvo y líquidos con 600 ml cada uno.
-- Robot aspirador profesional 4 en 1: Se convierte en la solución perfecta para mantener tus espacios limpios. Prestaciones increíbles, barre, aspira, pasa la mopa y friega en todo tipo de superficies.
-- Puedes programarlo fácilmente desde su mando o desde su práctica e intuitiva App gracias a su Wifi compatible con Alexa y Google Home. Incluye repuestos: 1 mopa, 1 filtro HEPA y 2 cepillos laterales.
+- Tecnología SmartGyroscope, con navegación inteligente, gracias a sus sensores giroscópicos le permite mapear mientras limpia detectando obstaculos y evitando caer. Se adapta totalmente a su hogar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YZP594R/?tag=tolees-21)

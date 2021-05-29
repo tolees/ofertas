@@ -28,8 +28,8 @@ Está [American Tourister Bon Air - Spinner Medium Equipaje de Mano  66 cm  57.5
 
 ℹ️:
 
-- Súper resistente, maleta 100% polipropileno con cremallera y cerradura TSA de tres dígitos para añadir seguridad
 - Amplia capacidad y gran organización interior con múltiples bolsillos y cintas de sujeción
+- Súper resistente, maleta 100% polipropileno con cremallera y cerradura TSA de tres dígitos para añadir seguridad
 - Equipaje ligero gracias a su diseño e ingeniería
 - Spinner Medium: 46 x 255 x 66 cm / 575 L / 3,40 Kg
 - Ruedas de los Spinner que giran 360° para facilitar su manejo
