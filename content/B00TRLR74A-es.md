@@ -28,9 +28,9 @@ Tienes [Exacompta 4306E - Separadores con 6 posiciones A4  Cartulina Blanca  160
 
 🔎:
 
-- Pestañas extra anchas para fundas XXL
 - Separadores 6 posiciones A4 Cartulina Blanca 160grs con pestañas de colores EXTRA ANCHOS PARA FUNDAS XXL
-- 6 posiciones de colores diferentes
 - Cartulina blanca de 160 gramos
+- 6 posiciones de colores diferentes
+- Pestañas extra anchas para fundas XXL
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00TRLR74A/?tag=tolees-21)

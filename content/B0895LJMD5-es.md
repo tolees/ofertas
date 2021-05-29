@@ -28,9 +28,9 @@ Tienes [DC Shoes Downing-Sudadera Técnica con Media Cremallera Y Cuello Alto pa
 
 ℹ️:
 
-- Tejido: tejido polar cepillado de gramaje medio
-- Cinta de punto jersey de algodón en la parte trasera del cuello
 - Corte: Corte ceñido
 - Parche de goma en el pecho
+- Cinta de punto jersey de algodón en la parte trasera del cuello
+- Tejido: tejido polar cepillado de gramaje medio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0895LJMD5/?tag=tolees-21)
