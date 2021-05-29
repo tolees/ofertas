@@ -28,8 +28,8 @@ Ahora mismo tienes [Geox U New Damon B  Mocasines Hombre  Negro  Black C9999   4
 
 🔎:
 
-- Revestimiento: Cuero
 - Material exterior: Cuero
+- Revestimiento: Cuero
 - Material de la suela: Caucho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01GWX27PY/?tag=tolees-21)

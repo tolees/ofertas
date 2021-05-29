@@ -28,10 +28,10 @@ Tienes [Superga 2750 Cotu Classic  Zapatillas Unisex Adulto  Rosa  Pink W0i   48
 
 🔎:
 
-- Material de la suela: Goma
-- Material exterior: Lona
-- Revestimiento: Tela
 - Tipo de tacón: Plano
+- Material de la suela: Goma
 - Cierre: Cordones
+- Revestimiento: Tela
+- Material exterior: Lona
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TYQDL84/?tag=tolees-21)
