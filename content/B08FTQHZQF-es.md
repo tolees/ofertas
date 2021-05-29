@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Oddworld: New  n  Tasty con un 40.15 % de descuento'
-date: 2021-05-27 16:31:21
+date: 2021-05-29 07:58:04
 image: 'https://m.media-amazon.com/images/I/41mRJYYLQGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B08FTQHZQF/?tag=tolees-21'
 descuento: '40.15'
-average: '26.43'
+average: '25.582'
 ---
 
 En este momento está [Meridiem Games - Oddworld: New  n  Tasty Standard Edition](https://www.amazon.es/dp/B08FTQHZQF/?tag=tolees-21) a 17.95 EUR (original: 29.99 EUR) (40.15 %  de descuento) en el siguiente enlace!
