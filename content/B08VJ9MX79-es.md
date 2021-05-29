@@ -28,10 +28,10 @@ Tienes [AITOO Tarjeta De Captura 4k HD  Full HD 1080p 60fps Grabación De Dispos
 
 🔎:
 
-- ▶️[Conversor de HDMI a USB de tarjeta de captura de video]: Capture video HDMI con una resolución de 1080P a 60 fps. Con USB de alta velocidad, fácil de capturar video HDMI a la computadora.Tecnología UVC, no requiere instalación de controladores.
-- ▶️ [Notice:]: Main for HDMI P format. Does not support i format (476i, 576i, 1080i) HDMI signal input. If you enter an i signal, you will get an incomplete half image on the software panel. If you have any questions, please contact us and we will provide you with the corresponding usage method
-- ▶️ [Support Live Live Broadcast]: Support live live broadcast, webcast and video conference on Facebook live, Youtube live, live streaming, Ustream, Dacast, Wowza Cloud, etc.
-- ▶️ ️ [Support Multiple Systems]: Windows / Mac OS X 10.9 or later / Linux / Android Suitable for HD output devices, such as PS4 / Xbox one / Wii / Nintendo Switch, this capture card is not suitable for HDCP devices.
 - ▶️ [Resolution]: 720 x 480 (60p), 720 x 576 (50p), 1280 x 720p (50p), 1280 x 720p (60p), 1920 x 1080 (24p), 1920 x 1080 (25p), 1920 x 1080 (30p), 1920 x 1080 (50p), 1920 x 1080 (60p).
+- ▶️ [Support Live Live Broadcast]: Support live live broadcast, webcast and video conference on Facebook live, Youtube live, live streaming, Ustream, Dacast, Wowza Cloud, etc.
+- ▶️ [Notice:]: Main for HDMI P format. Does not support i format (476i, 576i, 1080i) HDMI signal input. If you enter an i signal, you will get an incomplete half image on the software panel. If you have any questions, please contact us and we will provide you with the corresponding usage method
+- ▶️ ️ [Support Multiple Systems]: Windows / Mac OS X 10.9 or later / Linux / Android Suitable for HD output devices, such as PS4 / Xbox one / Wii / Nintendo Switch, this capture card is not suitable for HDCP devices.
+- ▶️[Conversor de HDMI a USB de tarjeta de captura de video]: Capture video HDMI con una resolución de 1080P a 60 fps. Con USB de alta velocidad, fácil de capturar video HDMI a la computadora.Tecnología UVC, no requiere instalación de controladores.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VJ9MX79/?tag=tolees-21)

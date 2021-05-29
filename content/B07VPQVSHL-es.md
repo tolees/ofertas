@@ -28,10 +28,10 @@ Ahora mismo tienes [Tommy Hilfiger Hombre Stretch Slim Fit tee Camiseta Deporte 
 
 🔎:
 
+- Logo de Tommy Hilfiger bordado en el pecho
+- Detalles distintivos de Tommy Hilfiger
+- Corte slim
 - Algodón orgánico elástico
 - Cuello redondo
-- Logo de Tommy Hilfiger bordado en el pecho
-- Corte slim
-- Detalles distintivos de Tommy Hilfiger
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VPQVSHL/?tag=tolees-21)

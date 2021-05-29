@@ -28,10 +28,10 @@ Tienes [Lacoste Carnaby EVO BL 1 SPM  Zapatillas Hombre  Black  47 EU](https://w
 
 ℹ️:
 
-- Suela de goma
-- Cocodrilo verde clásico
 - Forro de malla y diseño de suela de inspiración deportiva
-- Empeine de piel y material sintético
 - Forro de material textil
+- Empeine de piel y material sintético
+- Cocodrilo verde clásico
+- Suela de goma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N5HFHDX/?tag=tolees-21)
