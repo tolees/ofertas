@@ -30,8 +30,8 @@ Tienes [Halls Cítrico - Caramelo duro - Caja con 20 Sticks de 32 g](https://www
 
 - Conservar en lugar fresco y seco
 - Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
+- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 - Caramelos duros Halls con sabor a cítrico; Con edulcorantes, sin azúcar
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
-- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01L70TY4Y/?tag=tolees-21)

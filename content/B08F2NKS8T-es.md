@@ -28,10 +28,10 @@ En este momento está [Grupo Erik - ERIK - Calendario de pared 2021 Harry Potter
 
 🔎:
 
-- Calendario pared: Ideal para planificar el 2021 a nivel mensual y tener una visión global de cada semana y mes, dando un aire distinto a la vez que decora la pared de cualquier habitación, dormitorio, cocina, salón o oficina. Y si todo eso te parece poco, está editado en 6 idiomas: español, inglés, francés, italiano, alemán y portugués
 - Elaborado con papel certificado FSC, mide 30x30 cmcerrado y 60x30 cm abierto. Incluye una perforación en la parte superior de 5 mm para poder colgarlo fácilmente en el lugar que desee
-- Calendario familiar 2021: Diseñado con 16 meses, de Septiembre de 2020 a Diciembre 2021, donde en la primera página nos encontramos los cuatro últimos meses de 2020. Presenta 12 ilustraciones a color una por cada mes, inspiradas en la saga de Harry Potter
 - Anota las clases, actividades y notas en este calendario con el que podrás adentrarte en Hogwarts y vivir la magia
 - Erik - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza. Producto 100% oficial
+- Calendario pared: Ideal para planificar el 2021 a nivel mensual y tener una visión global de cada semana y mes, dando un aire distinto a la vez que decora la pared de cualquier habitación, dormitorio, cocina, salón o oficina. Y si todo eso te parece poco, está editado en 6 idiomas: español, inglés, francés, italiano, alemán y portugués
+- Calendario familiar 2021: Diseñado con 16 meses, de Septiembre de 2020 a Diciembre 2021, donde en la primera página nos encontramos los cuatro últimos meses de 2020. Presenta 12 ilustraciones a color una por cada mes, inspiradas en la saga de Harry Potter
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08F2NKS8T/?tag=tolees-21)
