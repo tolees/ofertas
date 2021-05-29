@@ -28,10 +28,10 @@ Está [adidas CV3579 - Chaqueta  Unisex Niños  Rojo  Power Red/White  15-16](ht
 
 ℹ️:
 
-- Tubería de contraste en las mangas
-- Tecnología de ClimaLite elimina la humedad
-- Puños y dobladillo acanalados
-- El ajuste regular es más ancho en el cuerpo, con una silueta recta
 - Cremallera completa con cuello alto
+- Tecnología de ClimaLite elimina la humedad
+- El ajuste regular es más ancho en el cuerpo, con una silueta recta
+- Puños y dobladillo acanalados
+- Tubería de contraste en las mangas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DT8JW51/?tag=tolees-21)
