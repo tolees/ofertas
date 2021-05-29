@@ -31,7 +31,7 @@ Ahora mismo tienes [Fischer 544015 tacos con tornillo para Murature llenos  per
 - Dos componentes para valores de pesaje más altos y funcionamiento inteligente (expansión, pliegue, annodamento) en función del material de soporte
 - El mejor Feedback posible el apriete. Es posible escuchar con certeza cuando el fijación es instalado perfectamente
 - Materiales de soporte: murature piene, murature, yeso, placas perforadas
-- Diámetro punta: 5 mm; Profundidad mínima del agujero: 40 mm; Longitud tassello: 25 mm; Grosor máximo fijarse: 5 mm
 - La reducida longitud del fijación asegura una instalación rápida sin roturas profundas
+- Diámetro punta: 5 mm; Profundidad mínima del agujero: 40 mm; Longitud tassello: 25 mm; Grosor máximo fijarse: 5 mm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07822SSHD/?tag=tolees-21)

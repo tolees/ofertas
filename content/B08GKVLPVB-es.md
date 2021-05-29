@@ -28,7 +28,7 @@ En este momento está [Clarks Un Rio Lace  Zapatillas Mujer  Brick Red Lthr Text
 
 🔎:
 
-- Tecnología Ortholite
 - Plantilla acolchada suave
+- Tecnología Ortholite
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GKVLPVB/?tag=tolees-21)
