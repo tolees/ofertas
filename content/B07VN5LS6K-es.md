@@ -28,8 +28,8 @@ Está [adidas Juventus FC Temporada 2020/21 JUVE H JSY Y Camiseta Primera equipa
 
 ℹ️:
 
-- Logo on the front
 - Climalite anti-humidity fabric
 - Regular fit
+- Logo on the front
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VN5LS6K/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Burton Underhill Camiseta  Hombre  Gray Heather  XXS](https:
 
 🔎:
 
-- Contiene algodón orgánico peruano (varía según el color)
-- El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
-- Bolsillo de pecho
 - Cuello acanalado
 - Pre-encogido
+- Bolsillo de pecho
+- Contiene algodón orgánico peruano (varía según el color)
+- El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WC64H2N/?tag=tolees-21)

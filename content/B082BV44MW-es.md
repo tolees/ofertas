@@ -28,10 +28,10 @@ Tienes [DC Shoes Circle Star-Camiseta para Hombre  Black Iris/Snow White  XS](ht
 
 🔎:
 
-- Características incluyen: tejido en punto jersey de algodón
-- Corte normal
-- Cómodo
 - Camiseta Para hombre
+- Cómodo
+- Características incluyen: tejido en punto jersey de algodón
 - Cuello redondo y estampado gráfico en parte frontal y trasera
+- Corte normal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082BV44MW/?tag=tolees-21)
