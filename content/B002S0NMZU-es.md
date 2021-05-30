@@ -29,9 +29,9 @@ Tienes [Eno Clip para afinador de guitarra y ukelele  Sintonizador de bajos y vi
 ℹ️:
 
 - Afinador cromático de pinza
-- Tiene diseño compacto y la pantalla fácil de leer
-- Podría utilizarlo en guitarra, bajo y violín
 - Recoge las vibraciones en el cuerpo del instrumento
 - Tiene micrófono incorporado
+- Podría utilizarlo en guitarra, bajo y violín
+- Tiene diseño compacto y la pantalla fácil de leer
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B002S0NMZU/?tag=tolees-21)

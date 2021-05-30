@@ -28,8 +28,8 @@ En este momento está [Nike Tanjun  Zapatillas de Running para Mujer  Gris  Wolf
 
 🔎:
 
-- Material oficial NIKE
 - Ideal para Atletismo y running
 - Zapatillas de última generación
+- Material oficial NIKE
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0113OCJSM/?tag=tolees-21)

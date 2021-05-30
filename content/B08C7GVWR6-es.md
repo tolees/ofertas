@@ -28,8 +28,8 @@ Está [adidas Superstar  Sneaker Hombre  Core Black/Crystal White/Blue  41 1/3 E
 
 ℹ️:
 
-- Cordones de zapatos
 - Zapatilla clásica de cuero
 - Parte superior de cuero
+- Cordones de zapatos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08C7GVWR6/?tag=tolees-21)

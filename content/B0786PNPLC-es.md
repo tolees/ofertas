@@ -28,10 +28,10 @@ Está [PUMA 655664 03 Pantalones  Hombre  Azul  Electric Blue Lemonade/White   S
 
 ℹ️:
 
-- Estampado con pigmentos
-- Corte normal
-- Apliques de malla detrás y en la entrepierna, tejido de microfibra y poliéster de punto doble
-- Cintura de goma con cordón y bolsillos laterales abiertos
 - DryCELL: material altamente funcional que evacúa el sudor
+- Corte normal
+- Cintura de goma con cordón y bolsillos laterales abiertos
+- Apliques de malla detrás y en la entrepierna, tejido de microfibra y poliéster de punto doble
+- Estampado con pigmentos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0786PNPLC/?tag=tolees-21)
