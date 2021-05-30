@@ -28,10 +28,10 @@ En este momento está [Clarks Stanford Walk  Zapatos de Cordones Derby Hombre  M
 
 🔎:
 
-- Fijación: Encaje
 - Suela: Tr
-- Ancho: G (estándar)
-- Forro: Textil
 - Parte Superior: Cuero
+- Forro: Textil
+- Fijación: Encaje
+- Ancho: G (estándar)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TKNF3SS/?tag=tolees-21)
