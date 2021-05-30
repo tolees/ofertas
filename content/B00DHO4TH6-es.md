@@ -29,9 +29,9 @@ Está [Bicentury Tortitas de Maíz con Sal  130g](https://www.amazon.es/dp/B00DH
 ℹ️:
 
 - Es importante seguir un dieta variada y equilibrada estilo de vida saludable, se recomienda beber 2 L agua al día
-- Tiene 30 kcal por tortita
-- Bajo grasas saturadas
 - Sin colorantes ni conservantes
+- Bajo grasas saturadas
 - Bajo contenido en grasas
+- Tiene 30 kcal por tortita
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00DHO4TH6/?tag=tolees-21)

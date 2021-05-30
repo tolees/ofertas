@@ -29,8 +29,8 @@ Está [Orbegozo TB 2203 - Plancha de asar  termostato regulable  asas de tacto f
 ℹ️:
 
 - Termostato regulable de temperatura
-- La marca del producto es Orbegozo
 - Potencia: 2000 W
+- La marca del producto es Orbegozo
 - Superficie asados: 220 x 430 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0055ZT1YQ/?tag=tolees-21)

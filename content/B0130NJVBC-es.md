@@ -28,10 +28,10 @@ Tienes [Aigostar - 15W Bombillas LED A60  Casquillo gordo E27  1200 lumen  Luz c
 
 ℹ️:
 
-- Flujo luminoso: 1200 lumen, luz cálida 3000K，gran ángulo de luz 280°
-- Eficiencia energética A+. Iluminación instantánea, gran duración, lo que supone un gran ahorro.
-- Bombilla led, modelo A60 15 W, no regulable, casquillo gordo E27
 - Luz de la vela del LED consume un 80% menos energía que las bombillas incandescentes de 83 vatios
+- Flujo luminoso: 1200 lumen, luz cálida 3000K，gran ángulo de luz 280°
+- Bombilla led, modelo A60 15 W, no regulable, casquillo gordo E27
+- Eficiencia energética A+. Iluminación instantánea, gran duración, lo que supone un gran ahorro.
 - Elimine los parpadeos de los fluorescentes o la espera de encendido de las bombillas de bajo consumo, las bombillas LED, se encienden de forma instántanea y de forma estable evitando la fatiga ocular.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0130NJVBC/?tag=tolees-21)
