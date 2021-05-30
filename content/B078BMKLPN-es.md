@@ -28,9 +28,9 @@ En este momento está [ABYstyle 99454 - Cartera  Multicolor](https://www.amazon.
 
 🔎:
 
-- Dimensiones del paquete: 2.5 L x 20.0 H x 12.0 W (centímeteros)
-- Color: negro y blanco
 - Material: poliuretano
+- Color: negro y blanco
+- Dimensiones del paquete: 2.5 L x 20.0 H x 12.0 W (centímeteros)
 - Cartera Imperium Unisex
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078BMKLPN/?tag=tolees-21)

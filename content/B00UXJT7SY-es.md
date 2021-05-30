@@ -28,10 +28,10 @@ Ahora mismo tienes [HOMCOM Bicicletas Soporte de Pie 109-180cm Reparacion Bicicl
 
 🔎:
 
-- ✅La prensa de marcos proporciona una fijacion segura y rapida de la bicicleta y se puede girar 360°
-- ✅Peso neto: 7kg ,Carga maxima: 30 kg
 - ✅Compatible con todos los diametros de marco (de 20-55 mm )
-- ✅Soporte de reparacion de bicicletas muy robusto para la reparacion y mantenimiento de su bicicleta
+- ✅La prensa de marcos proporciona una fijacion segura y rapida de la bicicleta y se puede girar 360°
 - ✅Tamaño total: 100x100x109-180 cm (LxAnxAl)
+- ✅Peso neto: 7kg ,Carga maxima: 30 kg
+- ✅Soporte de reparacion de bicicletas muy robusto para la reparacion y mantenimiento de su bicicleta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00UXJT7SY/?tag=tolees-21)

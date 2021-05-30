@@ -28,8 +28,8 @@ Tienes [NOVEX Blindagem Capilar Novex Gold 400 g  400 ml](https://www.amazon.es/
 
 ℹ️:
 
-- También protege contra agresiones externas (contaminación), agresiones térmicas (procesos de transformación,
 - También protege contra agresiones externas (contaminación), agresiones térmicas (procesos de transformación, secadoras y planchas) e incluso contra la humedad excesiva.
+- También protege contra agresiones externas (contaminación), agresiones térmicas (procesos de transformación,
 - Modo de empleo:Paso 1: Lavar el cabello con el Champú Novex Gold y masajear desde el cuero cabelludo hasta las puntas. Enjuaguar.Paso 2: Aplicar el Acondicionador
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0087QY5KK/?tag=tolees-21)

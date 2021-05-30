@@ -28,11 +28,11 @@ En este momento está [Tulipán Negro Gel De Baño Sweet Violeta Pack Uds X 720 
 
 🔎:
 
-- Libre de parabenos. dermatológicamente testado. vegano. crea mucha espuma
-- Pack de 6 unidades x 720 ml. no testado en animales. vegano. fabricación íntegra en España
-- Ingredientes: Ingredients: Aqua (Water); Sodium Laureth Sulfate; Cocamidopropyl Betaine; Sodium Chloride; Parfum (Fragrance); Styrene/Acrylates Copolymer; Citric Acid; Sodium Benzoate; Potassium Sorbate; PEG-200 Hydrogenated Glyceryl Palmate; Polyquaternium-7; PEG-7 Glyceryl Cocoate; Propylene Glycol; PEG-55 Propylene Glycol Oleate; Linalool; Benzyl Salicylate; Hexyl Cinnamal; CI 60730; CI 17200
-- Gel intenso y muy perfumado caramelos de violeta
-- Gel de baño y ducha extra relajación, aporta hidratación a la piel y una intensa sensación de bienestar dejándola sutilmente perfumada
 - Género; unisex. adulto e infantil
+- Gel intenso y muy perfumado caramelos de violeta
+- Ingredientes: Ingredients: Aqua (Water); Sodium Laureth Sulfate; Cocamidopropyl Betaine; Sodium Chloride; Parfum (Fragrance); Styrene/Acrylates Copolymer; Citric Acid; Sodium Benzoate; Potassium Sorbate; PEG-200 Hydrogenated Glyceryl Palmate; Polyquaternium-7; PEG-7 Glyceryl Cocoate; Propylene Glycol; PEG-55 Propylene Glycol Oleate; Linalool; Benzyl Salicylate; Hexyl Cinnamal; CI 60730; CI 17200
+- Pack de 6 unidades x 720 ml. no testado en animales. vegano. fabricación íntegra en España
+- Libre de parabenos. dermatológicamente testado. vegano. crea mucha espuma
+- Gel de baño y ducha extra relajación, aporta hidratación a la piel y una intensa sensación de bienestar dejándola sutilmente perfumada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MGNGSLY/?tag=tolees-21)
