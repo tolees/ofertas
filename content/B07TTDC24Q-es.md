@@ -29,7 +29,7 @@ Tienes [Superga 2750-COTCONTRASTU  Zapatillas de Gimnasia Unisex  Blanco  White/
 🔎:
 
 - Forro: tela
-- Material de la suela: goma
 - Material exterior: tela
+- Material de la suela: goma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TTDC24Q/?tag=tolees-21)

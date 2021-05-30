@@ -28,9 +28,9 @@ Está [Funko Pop Bobble Vinyle: Star Wars The Mandalorian - Mandalorian](https:/
 
 ℹ️:
 
-- El producto se envía en una caja ilustrada con ventana
 - Figura de colección de la marca Funko
 - Recomendado para niños a partir de 3 años
 - El artículo es adecuado para todos los fanáticos de Star Wars The Mandalorian
+- El producto se envía en una caja ilustrada con ventana
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QCQB51D/?tag=tolees-21)
