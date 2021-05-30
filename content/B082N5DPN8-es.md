@@ -28,7 +28,7 @@ En este momento está [Skechers D Lites  Zapatillas Mujer  Negro Trubuck Multi D
 
 🔎:
 
-- 0
 - Refrigerado por aire, secado biológico
+- 0
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082N5DPN8/?tag=tolees-21)
