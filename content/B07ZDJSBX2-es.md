@@ -29,7 +29,7 @@ Ahora mismo tienes [O NEILL PW Padua Koppa Bikini Bikini para Mujer  Mujer  Blac
 🔎:
 
 - Top con logo
-- Cobertura media
 - Bikini 2 piezas
+- Cobertura media
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZDJSBX2/?tag=tolees-21)

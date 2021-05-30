@@ -29,7 +29,7 @@ Está [Vans Old Skool  Zapatillas Unisex Adulto  Blanco  True White W00   36.5](
 ℹ️:
 
 - Vans Blanco Zapatillas viejas de Skool
-- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de Vans.
+- Ver descripción del producto para obtener más información.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0020MMHB6/?tag=tolees-21)

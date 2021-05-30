@@ -28,10 +28,10 @@ Tienes [Elba Rado Plast - Archivador palanca en PVC  A4  color negro](https://ww
 
 ℹ️:
 
-- Color negro
-- Formato A4
 - Lomo ancho de 75mm, con tarjetero y etiqueta
+- Formato A4
 - Mecanismo palanca, ollao, rado y cantoneras de aluminio, no se oxida
+- Color negro
 - Fabricado en cartón 2,4mm y forrado con PVC
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000KTC7R0/?tag=tolees-21)
