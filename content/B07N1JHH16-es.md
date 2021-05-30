@@ -28,12 +28,12 @@ Está [Superga 2730-cotu  Zapatillas de Gimnasia  Azul  Navy 933   35.5 EU](http
 
 ℹ️:
 
-- Cierre: cordón.
-- Material exterior: tela.
-- Forro: tela.
 - Material de la suela: goma.
 - Tipo de tacón: tacón de bloqueo.
-- Ancho del zapato: normal.
 - Diámetro de la pantorrilla: normal.
+- Forro: tela.
+- Cierre: cordón.
+- Material exterior: tela.
+- Ancho del zapato: normal.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N1JHH16/?tag=tolees-21)

@@ -28,12 +28,12 @@ Tienes [Timberland Waterville 6-Inch Basic Waterproof  Botas Chukka Mujer  Amari
 
 🔎:
 
-- Material de la suela: Goma
-- Cierre: Cordones
-- Tipo de tacón: Plano
-- Material exterior: Nobuck
 - Revestimiento: Tela
-- Precio mínimo en los 30 días previos a la oferta: 131.58€
 - Composición: Nobuck
+- Tipo de tacón: Plano
+- Precio mínimo en los 30 días previos a la oferta: 131.58€
+- Cierre: Cordones
+- Material de la suela: Goma
+- Material exterior: Nobuck
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00E9AAXEA/?tag=tolees-21)
