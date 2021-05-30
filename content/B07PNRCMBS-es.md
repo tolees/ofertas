@@ -28,8 +28,8 @@ Ahora mismo tienes [Bakugan - Juego de batalla surtido  los estilos pueden varia
 
 🔎:
 
+- iEntra en el nuevo mundo Bakugan Armored Alliance!
 - Prepárate para la más grande batalla de siempre con Dan y sus amigos. ¡Es hora de poner a prueba a tus Bakugans!
 - ¡En el Battle Pack tienes todo lo que necesitas para tus batallas: Bakugans, Bakucores, cartas de habilidad y cartas de personaje.
-- iEntra en el nuevo mundo Bakugan Armored Alliance!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PNRCMBS/?tag=tolees-21)
