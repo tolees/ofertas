@@ -29,7 +29,7 @@ En este momento está [adidas Campus 80S  Sneaker Hombre  Core Black/Footwear Wh
 🔎:
 
 - La parte superior de cuero
-- Zapatilla de 3 rayas
 - Suela de goma
+- Zapatilla de 3 rayas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PPQ5W8C/?tag=tolees-21)

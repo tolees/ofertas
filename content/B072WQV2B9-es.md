@@ -28,8 +28,8 @@ Tienes [Blue Panda - Juego de 100 cajas de regalo de palomitas de maíz  ideales
 
 🔎:
 
+- DIMENSIONES: Cuando está completamente montada mide 10,8 cm x 15,7 cm x 10,8 cm
 - DULCE O SALADO: Gracias a la apertura superior abierta te permite acceder fácilmente a tus palomitas dulces o saladas
 - FÁCIL DE MONTAR: Para abrir cada caja, simplemente empuja dentro del recipiente y saca la parte inferior de la caja hasta que ésta se abra
-- DIMENSIONES: Cuando está completamente montada mide 10,8 cm x 15,7 cm x 10,8 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072WQV2B9/?tag=tolees-21)
