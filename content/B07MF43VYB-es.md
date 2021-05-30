@@ -28,9 +28,9 @@ En este momento está [Eyestamp Delineador de Ojos y Sello dos en Uno  Tamaño M
 
 🔎:
 
-- cruelty free.
 - producto de alta calidad
 - 2 en 1.
 - sin parabenos.
+- cruelty free.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MF43VYB/?tag=tolees-21)

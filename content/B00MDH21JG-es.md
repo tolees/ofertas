@@ -30,8 +30,8 @@ Está [Revlon ColorStay Delineador de Ojos  #203 Brown ](https://www.amazon.es/d
 
 - Dura hasta 16 hrs
 - Punta retráctil
-- Con difuminador para mezclar el color y crear diferentes tipos de acabados
 - Tiene Tecnología SoftFlex para mayor confort en su uso con pigmentos de carbón negro para un color más intenso
 - Punta retráctil. Aplicar en el párpado superior o inferior y difuminar con la esponja difuminadora.
+- Con difuminador para mezclar el color y crear diferentes tipos de acabados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00MDH21JG/?tag=tolees-21)

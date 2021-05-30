@@ -28,8 +28,8 @@ Tienes [Max Factor Lasting Kajal; Delinador de Ojos. Tono 092 - 1.3 gr](https://
 
 🔎:
 
-- No mancha, no se mueve y es fácil de difuminar
 - Ofrece una aplicación ultra suave
+- No mancha, no se mueve y es fácil de difuminar
 - Delineador de larga duración y resistente al agua
 - Perfect Stay Waterproof & Long Lasting es un delineador de larga duración
 - Ofrece un acabado brillante

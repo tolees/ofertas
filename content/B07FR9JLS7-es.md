@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Maritsa Lara  Sandalia con Pulser al 45.50 % de descuento'
-date: 2021-05-24 23:32:04
+date: 2021-05-30 01:52:49
 image: 'https://m.media-amazon.com/images/I/419kkSTQVSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07FR9JLS7/?tag=tolees-21'
 descuento: '45.50'
-average: '57.45'
+average: '58.2833333333333'
 ---
 
 Ahora mismo tienes [Clarks Maritsa Lara  Sandalia con Pulsera Tira de Tobillo  Naranja  Orange-   38 EU](https://www.amazon.es/dp/B07FR9JLS7/?tag=tolees-21) a 59.95 EUR (original: 110.0 EUR) (45.50 %  de descuento) en el siguiente enlace!
