@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'safta 612052461 Funda para portátil o Ta al 42.32 % de descuento'
-date: 2021-05-15 16:01:34
+date: 2021-05-30 06:30:40
 image: 'https://m.media-amazon.com/images/I/51uon-Z5kVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [safta 612052461 Funda para portátil o Tablet 15 6" con asa 
 
 🔎:
 
+- Medidas: 40 x 4 x 27 cm
+- Funda para guardar y proteger portátiles o tablets de hasta 15,6
 - Producto con licencia oficial
 - Interior acolchado
-- Funda para guardar y proteger portátiles o tablets de hasta 15,6
-- Medidas: 40 x 4 x 27 cm
 - Cuenta con dos asas cortas en la parte superior y una larga para colgar tipo bandolera, la cual se puede quitar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083V6Q2QQ/?tag=tolees-21)
