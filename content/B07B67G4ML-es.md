@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Azul  Navy Blazer Det
 
 🔎:
 
-- Sudadera con logotipo.
 - Mezcla de algodón.
+- Sudadera con logotipo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B67G4ML/?tag=tolees-21)

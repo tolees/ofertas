@@ -28,12 +28,12 @@ Tienes [Pepe Jeans Cash Sweat-Shirt  Azul  Medium Used Denim Bb6   28W / 30L par
 
 🔎:
 
-- Cierre bragueta con cremallera
-- Tejido denim elástico y flexible
+- Pierna recta
+- Estilo 5 bolsillos
 - Tejido denim medio
 - Tiro medio
+- Cierre bragueta con cremallera
+- Tejido denim elástico y flexible
 - Fit regular
-- Estilo 5 bolsillos
-- Pierna recta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NCB4SKZ/?tag=tolees-21)

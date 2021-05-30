@@ -28,7 +28,7 @@ Ahora mismo tienes [Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Gris  Lig
 
 🔎:
 
-- Mezcla de algodón
 - Sudadera con logotipo
+- Mezcla de algodón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C27SSPC/?tag=tolees-21)

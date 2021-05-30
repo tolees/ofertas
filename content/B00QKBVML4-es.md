@@ -28,10 +28,10 @@ Tienes [Russell Hobbs Power Steam Ultra - Plancha de Ropa de Vapor  3100W  Suela
 
 🔎:
 
+- Antical, depósito de agua de 350 mililitros y punta de precisión
 - Planchado seco, con vapor, pulverización y chorro y función de vapor vertical, autolimpieza, antigoteo y apagado automático
 - Dispone de asa y selector de tacto suave, ranuras para botones y cable de 3 metros
-- Plancha de ropa de 3100 vatios de potencia y suela de cerámica
-- Antical, depósito de agua de 350 mililitros y punta de precisión
 - Vapor continuo de 45 gramos/minuto y golpe de vapor de 210 gramos
+- Plancha de ropa de 3100 vatios de potencia y suela de cerámica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00QKBVML4/?tag=tolees-21)

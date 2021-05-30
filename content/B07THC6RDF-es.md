@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CEE Games  New Gen  - Horizon - Com al 64.03 % de descuento'
-date: 2021-05-29 09:47:21
+date: 2021-05-30 10:46:56
 image: 'https://m.media-amazon.com/images/I/51tQNpiNPUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07THC6RDF/?tag=tolees-21'
 descuento: '64.03'
-average: '13.8728125000001'
+average: '13.7976923076924'
 ---
 
 Está [Sony CEE Games  New Gen  - Horizon - Complete Edition HITS](https://www.amazon.es/dp/B07THC6RDF/?tag=tolees-21) con 64.03 de descuento por 8.99 EUR (original: 24.99 EUR) en el siguiente enlace!

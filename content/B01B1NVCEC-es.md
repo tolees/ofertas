@@ -28,9 +28,9 @@ Está [Philips OneBlade QP2530/30 - Recortador de Barba con 4 Peines de 1 2 3 4 
 
 ℹ️:
 
-- Uso en seco o en húmedo, incluso en la ducha
-- Batería de larga duración: 60 minutos en cada uso con 4 horas de carga
-- Recorta, perfila y afeita cualquier longitud de pelo
 - Incluye cuatro peines-guía para recortar la barba: 1, 2, 3 y 5 mm
+- Recorta, perfila y afeita cualquier longitud de pelo
+- Batería de larga duración: 60 minutos en cada uso con 4 horas de carga
+- Uso en seco o en húmedo, incluso en la ducha
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01B1NVCEC/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Okey - Batido Chocolate  188 ml  pack de 18 unidades](https://www.amazon
 
 ℹ️:
 
-- Elaborado con leche Pascual
 - Sabor chocolate
+- Elaborado con leche Pascual
 - Aporta nutrientes de la
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MRE6B5D/?tag=tolees-21)
