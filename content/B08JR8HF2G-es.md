@@ -28,10 +28,10 @@ Ahora mismo tienes [PDP LVL40 Wired Gaming Headset XBX Blanco](https://www.amazo
 
 🔎:
 
-- Diseño transpirable y ligero para largas sesiones de juego.
-- El micrófono bidireccional con cancelación de ruido brinda una comunicación clara; además, puedes silenciar tu micrófono con solo subirlo en un rápido movimiento.
-- Escucha todas las instrucciones con sus potentes auriculares de audio de 40 mm.
 - Compatible con Xbox One, Series X/S y Windows.
+- Diseño transpirable y ligero para largas sesiones de juego.
+- Escucha todas las instrucciones con sus potentes auriculares de audio de 40 mm.
+- El micrófono bidireccional con cancelación de ruido brinda una comunicación clara; además, puedes silenciar tu micrófono con solo subirlo en un rápido movimiento.
 - Compatible con Windows Sonic para que puedas disfrutar del sonido espacial jugando en Xbox Series X, Xbox One y PC con Windows 10
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08JR8HF2G/?tag=tolees-21)

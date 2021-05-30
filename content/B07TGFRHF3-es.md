@@ -28,7 +28,7 @@ En este momento está [Only 15157920 Suter Pulver  Negro  Black Black   XXL para
 
 🔎:
 
-- Longsleeve with closed neckline
 - Knitted blouse
+- Longsleeve with closed neckline
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TGFRHF3/?tag=tolees-21)

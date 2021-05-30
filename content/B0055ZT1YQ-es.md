@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Orbegozo TB2203 TB 2203-Tabla de asado   al 35.40 % de descuento'
-date: 2020-09-23 08:50:31
-image: 'https://m.media-amazon.com/images/I/31Xc38zzxlL._SL400_.jpg'
+title: 'Orbegozo TB 2203 - Plancha de asar  term al 36.43 % de descuento'
+date: 2021-05-30 16:07:43
+image: 'https://m.media-amazon.com/images/I/31Xc38zzxlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0055ZT1YQ-es Orbegozo TB2203 TB 2203-Tabla de asado 220 x 430 mm 2000 W...'
+slug: 'B0055ZT1YQ-es Orbegozo TB 2203 - Plancha de asar termostato regulable...'
 sku: 'B0055ZT1YQ-es'
-tags: [  ]
-actualPrice: 21.9 EUR
+tags: [ 'Hogar y cocina','Parrillas, planchas, raclettes y piedras de asar eléctricas','Pequeño electrodoméstico','Planchas eléctricas','orbegozo', ]
+actualPrice: 21.55 EUR
 currency: EUR
-price: 21.9
+price: 21.55
 comparePrice: 33.9 EUR
-prodname: 'Orbegozo TB2203 TB 2203-Tabla de asado  220 x 430 mm  2000 W  Negro'
+prodname: 'Orbegozo TB 2203 - Plancha de asar  termostato regulable  asas de tacto frío  superficie antiadherente  recipiente recoge grasa  2000 W'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Orbegozo'
 buyurl: 'https://www.amazon.es/dp/B0055ZT1YQ/?tag=tolees-21'
-descuento: '35.40'
-average: '22.499999999999996'
+descuento: '36.43'
+average: '23.116'
 ---
 
-Está [Orbegozo TB2203 TB 2203-Tabla de asado  220 x 430 mm  2000 W  Negro](https://www.amazon.es/dp/B0055ZT1YQ/?tag=tolees-21) con 35.40 de descuento por 21.9 EUR (original: 33.9 EUR) en el siguiente enlace!
+Está [Orbegozo TB 2203 - Plancha de asar  termostato regulable  asas de tacto frío  superficie antiadherente  recipiente recoge grasa  2000 W](https://www.amazon.es/dp/B0055ZT1YQ/?tag=tolees-21) con 36.43 de descuento por 21.55 EUR (original: 33.9 EUR) en el siguiente enlace!
 
-[![Orbegozo TB2203 TB 2203-Tabla de asado  ](https://m.media-amazon.com/images/I/31Xc38zzxlL._SL400_.jpg)](https://www.amazon.es/dp/B0055ZT1YQ/?tag=tolees-21)
+[![Orbegozo TB 2203 - Plancha de asar  term](https://m.media-amazon.com/images/I/31Xc38zzxlL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0055ZT1YQ/?tag=tolees-21)
 
 ℹ️:
 
+- Termostato regulable de temperatura
+- La marca del producto es Orbegozo
+- Potencia: 2000 W
+- Superficie asados: 220 x 430 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0055ZT1YQ/?tag=tolees-21)

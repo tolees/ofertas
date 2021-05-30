@@ -28,10 +28,10 @@ Tienes [Columbia Minam River Suéter con Cuello Redondo  Hombre  Azul  Collegiat
 
 ℹ️:
 
+- Contenido: 1x Columbia Minam River Suéter para hombre, Material: 80% algodón y 20% poliéster, Color: Azul (Collegiate Navy, Bluestone), Talla: S, Art. 1918852
+- 80% de algodón y 20% de poliéster con recubrimiento tejido
 - Incluye confortables costuras en puños y dobladillo
 - Cómodos bolsillos para una mayor calidez y almacenamiento
 - Una suéter confortable, Perfecto para excursiones al aire libre o días en el interior.
-- Contenido: 1x Columbia Minam River Suéter para hombre, Material: 80% algodón y 20% poliéster, Color: Azul (Collegiate Navy, Bluestone), Talla: S, Art. 1918852
-- 80% de algodón y 20% de poliéster con recubrimiento tejido
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B087VJH5NT/?tag=tolees-21)
