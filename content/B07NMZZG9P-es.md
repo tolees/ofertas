@@ -28,9 +28,9 @@ Tienes [Nike Court Vision LO  Zapatillas Hombre  Blanco  39 EU](https://www.amaz
 
 🔎:
 
-- Marca: Nike
-- Cómodo de llevar
 - Suela de goma de tracción
 - Plantilla ligeramente acolchada
+- Marca: Nike
+- Cómodo de llevar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NMZZG9P/?tag=tolees-21)

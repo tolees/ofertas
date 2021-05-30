@@ -28,10 +28,10 @@ Ahora mismo tienes [ARENA Hombre Icons Relax Iv Team Chaqueta Not Applicable  Bl
 
 🔎:
 
-- Con cremallera frontal y bolsillos laterales.
-- Talla francesa (EU).
 - El icónico logotipo con bandas Arena añade un excelente toque vintage.
 - Chaqueta de deporte de inspiración Streetwear de estilo retro.
+- Talla francesa (EU).
+- Con cremallera frontal y bolsillos laterales.
 - Para el tiempo libre.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GTPXVZ7/?tag=tolees-21)

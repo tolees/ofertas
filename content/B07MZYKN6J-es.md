@@ -28,7 +28,7 @@ Está [Skechers Go Walk 5 Slip On  Zapatillas Mujer  Negro  Black Textile/Trim B
 
 ℹ️:
 
-- De peso ligero de doble densidad ultra Pilar Ir Suela con el confort Tecnología; Skechers refrigerado por aire Goga Mat plantilla; el aire respirable malla superior; lavable a máquina
 - el aire seco
+- De peso ligero de doble densidad ultra Pilar Ir Suela con el confort Tecnología; Skechers refrigerado por aire Goga Mat plantilla; el aire respirable malla superior; lavable a máquina
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MZYKN6J/?tag=tolees-21)
