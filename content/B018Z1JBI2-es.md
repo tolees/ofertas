@@ -28,8 +28,8 @@ Ahora mismo tienes [Imex El Zorro 71416 - Cesta quemador de pellets  30 x 25 x 1
 
 🔎:
 
-- Estructura estable y durable
-- Montaje fácil
 - Diseño practico
+- Montaje fácil
+- Estructura estable y durable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B018Z1JBI2/?tag=tolees-21)
