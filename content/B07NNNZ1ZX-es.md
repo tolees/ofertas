@@ -29,9 +29,9 @@ Está [Excelsa Foliage - Vajilla de 18 piezas de porcelana](https://www.amazon.e
 ℹ️:
 
 - Platos fabricados en porcelana decorada.
-- Tamaño: plato llano de 24 cm; plato hondo de 20,5 cm; plato de fruta de 19 cm.
-- Apto para lavavajillas.
 - Se puede usar en microondas.
 - Vajilla compuesta por: 6 platos llanos, 6 platos hondos y 6 platos de fruta.
+- Apto para lavavajillas.
+- Tamaño: plato llano de 24 cm; plato hondo de 20,5 cm; plato de fruta de 19 cm.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NNNZ1ZX/?tag=tolees-21)
