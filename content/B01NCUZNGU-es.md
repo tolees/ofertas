@@ -28,9 +28,9 @@ Está [Camper Hoops  Zapatillas Mujer  Blanco  38 EU](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Parte superior de piel perforada
 - Forro: 55% piel de becerro, 35% algodón, 10% tela (60% nailon, 40% poliuretano)
 - Costuras de 360 grados: mayor durabilidad.
 - Mayor agarre y flexibilidad con excelente resistencia a los golpes
+- Parte superior de piel perforada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NCUZNGU/?tag=tolees-21)
