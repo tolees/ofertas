@@ -29,9 +29,9 @@ Ahora mismo tienes [Rimmel London Lip Art graphic barra de labios  Tono 760 Brow
 🔎:
 
 - Perfilador y labial líquido a la vez; con aplicador fino y ultra preciso
-- Crea looks diferentes cada día y recrea los diseños más originales en maquillaje
 - Para conseguir un increíble Lip Art, juega a combinar diferentes tonos y labiales de Rimmel
-- Permite delinear y rellenar los labios para que se vean más definidos y gruesos
+- Crea looks diferentes cada día y recrea los diseños más originales en maquillaje
 - Fórmula suave y sedosa con silicona que suaviza las arrugas e imperfecciones proporcionando una textura suave
+- Permite delinear y rellenar los labios para que se vean más definidos y gruesos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KXKQJDX/?tag=tolees-21)

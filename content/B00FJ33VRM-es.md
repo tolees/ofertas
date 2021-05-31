@@ -28,10 +28,10 @@ En este momento está [Rimmel London Moisture Renew Barra De Labios Tono 510 - 4
 
 🔎:
 
-- Color intenso hasta 8 horas
+- Testado dermatológica con SPF 20
+- Fórmula con pigmentos que bridan un color birllante, fresco e intenso
 - Barra de labios enriquecida con vitaminas A,C y E que consiguen que tus labios esten totalmente hidratados
 - Labio hidratado y brillante
-- Fórmula con pigmentos que bridan un color birllante, fresco e intenso
-- Testado dermatológica con SPF 20
+- Color intenso hasta 8 horas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00FJ33VRM/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Rimmel London Wonder Swipe Delinador de Ojos Tono 014 Fashun  Gama Grise
 
 🔎:
 
-- Aplicador de trazo fino y suave
-- Liner metálico, colores ultrapigmentados
 - Hasta 10 horas de brillo
+- Aplicador de trazo fino y suave
 - Difumina con el dedo y alucina
+- Liner metálico, colores ultrapigmentados
 - Sombra glitter
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D8VQ9RL/?tag=tolees-21)

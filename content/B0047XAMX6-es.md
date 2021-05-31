@@ -28,9 +28,9 @@ Está [Rimmel London Lasting Finish 25h  Base de maquillaje Tono: Classic Beige 
 
 ℹ️:
 
-- Resistente a sudor, calor y humedad
-- Composición sin aceites, que proporciona una cobertura total
-- Hidrata la piel y ofrece una sensación de suavidad
 - Base de maquillaje enriquecida con serum
+- Hidrata la piel y ofrece una sensación de suavidad
+- Composición sin aceites, que proporciona una cobertura total
+- Resistente a sudor, calor y humedad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0047XAMX6/?tag=tolees-21)
