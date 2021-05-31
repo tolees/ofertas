@@ -28,9 +28,9 @@ Tienes [THQ Nordic - Legend Of Kay: Anniversary](https://www.amazon.es/dp/B079WL
 
 🔎:
 
-- 3 armas principales diferentes (espada/martillo/garras) con estilos de lucha distintos
-- Clasificaciones online: compara tus puntuaciones con las de tus amigos y compite contra los mejores del mundo
 - 25 niveles diferentes con más de 15 tipos de enemigos y épicos combates contra jefes
+- Clasificaciones online: compara tus puntuaciones con las de tus amigos y compite contra los mejores del mundo
+- 3 armas principales diferentes (espada/martillo/garras) con estilos de lucha distintos
 - Diversos minijuegos, como carreras de jabalís, vuelos de dragón y montar en lobo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079WLJCZ4/?tag=tolees-21)

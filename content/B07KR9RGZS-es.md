@@ -28,9 +28,9 @@ Tienes [New Balance 624v5  Cross Trainer Mujer  Blanco  White   44 EU](https://w
 
 🔎:
 
-- Revestimiento: Tela
-- Cierre: Cordones
-- Material de la suela: Sintético
 - Material exterior: Cuero
+- Revestimiento: Tela
+- Material de la suela: Sintético
+- Cierre: Cordones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KR9RGZS/?tag=tolees-21)
