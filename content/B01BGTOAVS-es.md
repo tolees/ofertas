@@ -28,9 +28,9 @@ Está [G-STAR RAW Bronson Slim Chino Pantalones  Beige  dune 5126-239   28W / 32
 
 ℹ️:
 
-- Tiro bajo en la parte delantera y tiro regular en la parte trasera
 - Pantalones chinos G-Star para hombre
 - Presentan un corte ajustado con cinturilla ajustada
 - Se estrechan del muslo al dobladillo
+- Tiro bajo en la parte delantera y tiro regular en la parte trasera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BGTOAVS/?tag=tolees-21)

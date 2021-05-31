@@ -28,10 +28,10 @@ Tienes [Taylor Swoden Fresh Air - Purificador de aire para hogar con filtro HEPA
 
 ℹ️:
 
-- 【Práctico】El sensor de calidad de aire, detecta la calidad de aire y le informará mediante distintos colores de su calidad; además de cuando es necesario reemplazar el filtro. Úselo como lámpara durante la noche ya que dispone de un modo de iluminación nocturna.
-- 【Filtrado en 4 fases】El Sistema de alta eficacia del aparato filtra el aire en 4 pasos: filtro Hepa de clase H13, filtro de carbón activado y un prefiltro fino, filtra el 99,97% de partículas de polvo, polen, ácaros etc. El tejido de red del filtro aumenta la estructura del algodón anti-bacteriano, por lo que la eliminación de bacterias es del 99,99%. Así mismo neutraliza los olores de la cocina y humo.
-- 【3 modos】Purificando el aire de forma efectiva en estancias de hasta ≤16m². Dispone de 3 modos de velocidad del aire: alto, noche y auto.
-- 【Silencioso】Perfecto para usar en dormitorios durante la noche, ya que dispone de un modo noche que tiene un nivel sonoro de 20dB, que además apaga todas las señales luminosas lo que garantiza un sueño sin interrupciones.
 - 【Multifunción】Dispone de un temporizador que permite confirgurar el apagado del purificador en 2, 4 u 8 horas, y además el modo automático activará la velocidad de aire según la calidad del mismo.
+- 【Filtrado en 4 fases】El Sistema de alta eficacia del aparato filtra el aire en 4 pasos: filtro Hepa de clase H13, filtro de carbón activado y un prefiltro fino, filtra el 99,97% de partículas de polvo, polen, ácaros etc. El tejido de red del filtro aumenta la estructura del algodón anti-bacteriano, por lo que la eliminación de bacterias es del 99,99%. Así mismo neutraliza los olores de la cocina y humo.
+- 【Silencioso】Perfecto para usar en dormitorios durante la noche, ya que dispone de un modo noche que tiene un nivel sonoro de 20dB, que además apaga todas las señales luminosas lo que garantiza un sueño sin interrupciones.
+- 【3 modos】Purificando el aire de forma efectiva en estancias de hasta ≤16m². Dispone de 3 modos de velocidad del aire: alto, noche y auto.
+- 【Práctico】El sensor de calidad de aire, detecta la calidad de aire y le informará mediante distintos colores de su calidad; además de cuando es necesario reemplazar el filtro. Úselo como lámpara durante la noche ya que dispone de un modo de iluminación nocturna.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08885FZKQ/?tag=tolees-21)

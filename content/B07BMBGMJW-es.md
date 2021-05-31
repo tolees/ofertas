@@ -28,12 +28,12 @@ Ahora mismo tienes [Superga 2750-lamew  Zapatillas de Gimnasia  Gris  Gunmetal 9
 
 🔎:
 
-- Forro: tela.
-- Diámetro de la pantorrilla: normal.
 - Material de la suela: goma.
 - Cierre: cordón.
 - Material exterior: sintético.
 - Tipo de tacón: sin tacón.
+- Forro: tela.
+- Diámetro de la pantorrilla: normal.
 - Ancho del zapato: normal.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BMBGMJW/?tag=tolees-21)
