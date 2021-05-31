@@ -28,8 +28,8 @@ Tienes [PUMA Teamgoal 23 Knit Shorts Pantalones Cortos  Hombre  Golden Poppy  L]
 
 ℹ️:
 
-- Largo por encima de la rodilla
 - Poliéster 100 %
+- Largo por encima de la rodilla
 - Logotipo del PUMA en el muslo izquierdo
 - Tipo de deporte: Athletic Sports Apparel
 

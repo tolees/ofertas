@@ -29,7 +29,7 @@ Ahora mismo tienes [Maybelline New York Colossal Spider Effect  Máscara De Pest
 🔎:
 
 - Alarga todas las pestañas
-- Da volumen
 - Efecto spider
+- Da volumen
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01L7LSTGC/?tag=tolees-21)

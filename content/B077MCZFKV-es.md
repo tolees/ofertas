@@ -28,10 +28,10 @@ Ahora mismo tienes [Bourjois Helathy Mix Foundation Base de maquillaje Tono 575 
 
 🔎:
 
-- Base de maquillaje de cobertura media que proporciona un acabado luminoso y antifatiga
-- Con polvos matificantes que proporcionan un aspecto suave y luminoso
-- Apto para todo tipo de pieles, especialmente para pieles secas
 - Fórmula antiedad con una combinación de vitamina c con efecto antifatiga, vitamina e con acción antioxidante y vitamina b5 que tonifica la piel
+- Base de maquillaje de cobertura media que proporciona un acabado luminoso y antifatiga
 - Contiene derivados de ácido hialurónico que proporciona hasta 16 de hidratación
+- Apto para todo tipo de pieles, especialmente para pieles secas
+- Con polvos matificantes que proporcionan un aspecto suave y luminoso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077MCZFKV/?tag=tolees-21)

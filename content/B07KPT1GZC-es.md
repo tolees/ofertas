@@ -28,10 +28,10 @@ Está [Funko - Pop! Simpsons S2: Homer - Radioactive Man Figura De Vinil  Multic
 
 ℹ️:
 
-- Juguete del año 2018
-- Funko pop vinyl
 - Homer-Radioactive Man
-- De la colección simpsons, homer-radioactive man como figura de vinilo pop de funko
+- Juguete del año 2018
 - Animation: simpsons s2
+- De la colección simpsons, homer-radioactive man como figura de vinilo pop de funko
+- Funko pop vinyl
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KPT1GZC/?tag=tolees-21)
