@@ -28,8 +28,8 @@ Tienes [Avery-Zweckform - Case Logic LAPS114K - Funda para Ordenador portátil](
 
 🔎:
 
+- Resistente y duradero
 - Evita daños en la pantalla
 - Alta calidad y diseño moderno
-- Resistente y duradero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004NY9UWI/?tag=tolees-21)

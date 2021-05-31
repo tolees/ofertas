@@ -29,9 +29,9 @@ Está [HUION Inspiroy H640P Tableta de Dibujo Gráfico  8192 Niveles de Presión
 ℹ️:
 
 - Lápiz sin pila Pen PW100: no es necesario cargar. Nunca me preocupé por el apagado durante el trabajo y el dibujo. Viene con un portalápices.
-- 6 teclas de prensa personalizadas: se pueden configurar como herramienta de pincel, acercar / alejar, deshacer, herramienta manual, borrador, etc., según prefiera. Ayuda a mejorar la eficiencia de la creación.
 - 6 por 4 pulgadas en área activa: área de trabajo suficiente y compacta. Puede satisfacer la mayoría de sus necesidades de flujo de trabajo.
-- Compatible con OS y Android: no solo es compatible con Windows o Mac OS, también es compatible con dispositivos Android ahora; Puede descargar el firmware de actualización correspondiente en el sitio web oficial y puede conectar fácilmente su teléfono a la tableta con el conector OTG; NOTA: el cursor no se mostrará en la serie SAMSUNG Galaxy S en la actualidad. Si no está seguro de si el producto es compatible con su teléfono o si tiene algún problema, comuníquese con nosotros. Solo se admiten t
 - 8192 Sensibilidad a la presión de niveles: Es 4 veces de 2048 niveles. Las líneas más gruesas y delgadas se pueden controlar mejor. Es más fácil trazar líneas más precisas.
+- Compatible con OS y Android: no solo es compatible con Windows o Mac OS, también es compatible con dispositivos Android ahora; Puede descargar el firmware de actualización correspondiente en el sitio web oficial y puede conectar fácilmente su teléfono a la tableta con el conector OTG; NOTA: el cursor no se mostrará en la serie SAMSUNG Galaxy S en la actualidad. Si no está seguro de si el producto es compatible con su teléfono o si tiene algún problema, comuníquese con nosotros. Solo se admiten t
+- 6 teclas de prensa personalizadas: se pueden configurar como herramienta de pincel, acercar / alejar, deshacer, herramienta manual, borrador, etc., según prefiera. Ayuda a mejorar la eficiencia de la creación.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075V1ZSLY/?tag=tolees-21)

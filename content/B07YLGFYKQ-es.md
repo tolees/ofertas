@@ -28,10 +28,10 @@ Ahora mismo tienes [Joseph Joseph CleanTech Estropajo para Fregar  Paquete de 2 
 
 🔎:
 
-- Doble cara: cerdas blandas y duras
-- Fácil de enjuagar para limpiar
-- 100 % reciclable
-- Apto para ollas y sartenes antiadherentes
 - Secado rápido
+- 100 % reciclable
+- Fácil de enjuagar para limpiar
+- Apto para ollas y sartenes antiadherentes
+- Doble cara: cerdas blandas y duras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YLGFYKQ/?tag=tolees-21)
