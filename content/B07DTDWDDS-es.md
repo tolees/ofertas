@@ -28,10 +28,10 @@ Ahora mismo tienes [Pro Breeze Purificador de Aire Mini con Auténtico Filtro HE
 
 🔎:
 
-- generador de iones negativos: Incorpora un generador de iones negativos que produce iones negativos poderosos que se unen a y neutralizan los contaminantes del aire para obtener un ambiente más limpio
-- purificador de aire personal: Alimentado por el adaptador de red o USB incluido, este purificador de aire de escritorio puede crear un halo de aire fresco a su alrededor en el trabajo o mientras duerme
 - purificación de aire 3 en 1: Captura hasta un 99,97 % de las partículas aéreas, polvo, polen, humo, olores, moho y caspa de mascotas con un Prefiltro, Auténtico Filtro HEPA
+- purificador de aire personal: Alimentado por el adaptador de red o USB incluido, este purificador de aire de escritorio puede crear un halo de aire fresco a su alrededor en el trabajo o mientras duerme
 - usos múltiples: Perfecto para los dueños de mascotas, fumadores, niños, bebés o personas que desean mejorar la calidad del aire, eliminar olores no deseados y prevenir los contaminantes nocivos en su hogar o lugar de trabajo. Modelo de Filtro de Sustitución (PB-P02F)
 - luz nocturna: Este Purificador de Aire Mini ofrece una luz LED de noche que crea un ambiente relajante. Ideal para usar en dormitorios de niños y bebés, asegura un sueño tranquilo y sin perturbaciones durante toda la noche
+- generador de iones negativos: Incorpora un generador de iones negativos que produce iones negativos poderosos que se unen a y neutralizan los contaminantes del aire para obtener un ambiente más limpio
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DTDWDDS/?tag=tolees-21)

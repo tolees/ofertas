@@ -28,8 +28,8 @@ Tienes [Guess Analógico W1160L1](https://www.amazon.es/dp/B07F3G1B4T/?tag=tolee
 
 🔎:
 
+- Analógico para Mujer
 - 8 milimetros calendario Día y fecha correa ajustable
 - Guess Modelo Reloj W1160L1
-- Analógico para Mujer
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F3G1B4T/?tag=tolees-21)
