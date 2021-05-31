@@ -28,8 +28,8 @@ Está [Hawaiian Tropic - Protective Dry Oil Spray - Aceite bronceador - 200 ml](
 
 ℹ️:
 
-- Fórmula con exóticos sabores de Coco, Manteca de Cacao, Eucalipto y Aguacate
 - Hipo-alergénico
 - Intenso bronceado
+- Fórmula con exóticos sabores de Coco, Manteca de Cacao, Eucalipto y Aguacate
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003L1AASW/?tag=tolees-21)

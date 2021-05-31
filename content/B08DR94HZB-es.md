@@ -29,9 +29,9 @@ Tienes [Winning Moves-It: Cluedo  20009000003 ](https://www.amazon.es/dp/B08DR94
 🔎:
 
 - Caja ilustrada
-- Cartas personalizadas
-- 2 a 4 jugadores
 - Peones personalizados
+- Cartas personalizadas
 - Licencia oficial
+- 2 a 4 jugadores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DR94HZB/?tag=tolees-21)

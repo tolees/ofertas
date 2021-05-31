@@ -28,9 +28,9 @@ En este momento está [Figuras de acción Famosa - STRETCH - Mister Musculo - Mu
 
 🔎:
 
-- El personaje icónico de la historia del juguete vuleve más fuerte que nunca después de su primer lanzamiento en 1977
 - Se lo puedes estirar, torcer y retorcer los brazos, piernas y tronco
-- Mister Músculo es un muñeco que se estira hasta 4 veces su tamaño y vuelve siempre a su forma original
+- El personaje icónico de la historia del juguete vuleve más fuerte que nunca después de su primer lanzamiento en 1977
 - Es el Héroe
+- Mister Músculo es un muñeco que se estira hasta 4 veces su tamaño y vuelve siempre a su forma original
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01BYC23ZM/?tag=tolees-21)

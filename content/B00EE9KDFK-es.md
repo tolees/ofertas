@@ -28,10 +28,10 @@ Tienes [deAO Taller Mecánico Herramientas de Juguete y Accesorios de Bricolaje 
 
 🔎:
 
-- APRENDE: Enséñale a tus peques los conceptos básicos de cómo utilizar herramientas correctamente y cubrir las reglas de seguridad.
-- TALLER MECÁNICO: Banco de trabajo infantil con herramientas y accesorios de imitación para actividades recreativas de bricolaje.
-- RECOMENDACIONES: Edad recomendada a partir de 3 años. Utilícese bajo la vigilancia directa de un adulto.
 - DISEÑO: Divertido y colorido. Cada una de estas herramientas presenta un diseño seguro, sin partes puntiagudas. Fabricados con plástico resistente.
+- RECOMENDACIONES: Edad recomendada a partir de 3 años. Utilícese bajo la vigilancia directa de un adulto.
 - CONTENIDOS: El juego incluye un total de 50 accesorios, así como herramientas de trabajo, engranajes, tuercas, tornillos, clavos y piezas de madera simuladas.
+- TALLER MECÁNICO: Banco de trabajo infantil con herramientas y accesorios de imitación para actividades recreativas de bricolaje.
+- APRENDE: Enséñale a tus peques los conceptos básicos de cómo utilizar herramientas correctamente y cubrir las reglas de seguridad.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00EE9KDFK/?tag=tolees-21)
