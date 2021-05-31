@@ -30,9 +30,9 @@ Tienes [New Balance 997H Core  Zapatillas Hombre  Gris  Marblehead   37 EU](http
 
 - Material exterior: Cuero
 - Tipo de tacón: Plano
-- Material de la suela: Sintético
-- Revestimiento: Tela
-- Cierre: Cordones
 - Composición: Empeine de malla/ante
+- Revestimiento: Tela
+- Material de la suela: Sintético
+- Cierre: Cordones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DJ5SWPF/?tag=tolees-21)

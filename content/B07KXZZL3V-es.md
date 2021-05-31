@@ -29,9 +29,9 @@ En este momento está [Disney Mickey Mouse 12075 - Taza de porcelana  300 ml  mu
 🔎:
 
 - Contenido: aprox. 300 ml
-- Taza de porcelana con asa
-- En caja de regalo
-- Apta para lavavajillas y microondas
 - Apto para alimentos
+- En caja de regalo
+- Taza de porcelana con asa
+- Apta para lavavajillas y microondas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KXZZL3V/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [ASICS Lyte Classic  Zapatillas para Correr Hombre  White 
 
 🔎:
 
+- Zapatillas deportivas
 - Tecnología de gel para absorción de impactos
 - Estilo clásico
-- Zapatillas deportivas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MKC8GWB/?tag=tolees-21)

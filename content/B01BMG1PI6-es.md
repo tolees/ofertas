@@ -28,9 +28,9 @@ Está [Casio Reloj Analógico para Hombre de Cuarzo con Correa en Plástico MW-2
 
 ℹ️:
 
-- La duración de la batería es de 3 años
 - Resistente al agua hasta 5 bar / 50 metros
-- Las agujas y el índice están cubiertos por una capa fluorescente que brillan en la oscuridad
 - Caja y correa de resina sintética, un material flexible y resistente
+- Las agujas y el índice están cubiertos por una capa fluorescente que brillan en la oscuridad
+- La duración de la batería es de 3 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BMG1PI6/?tag=tolees-21)

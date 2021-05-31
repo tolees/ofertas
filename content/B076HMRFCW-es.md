@@ -28,8 +28,8 @@ Está [Adidas Core 18 Training Jsy  Camiseta Hombre Rojo  Power Red/White   S](h
 
 ℹ️:
 
-- Camiseta de corte recto y manga corta
 - Confeccionado en punto 100 % poliéster
+- Camiseta de corte recto y manga corta
 - Lavable a maquina a hasta 40° C
 - Tejido ligero y transpirable que mantiene el cuerpo fresco y seco
 
