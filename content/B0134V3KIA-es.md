@@ -28,11 +28,11 @@ En este momento está [Amazon Basics - Cable de Mini DisplayPort a HDMI con cone
 
 🔎:
 
-- Compatible con resoluciones de vídeo de hasta 1920 x 1200 y 1080p (Full HD); agarre fácil, diseño discreto
-- Este es un cable Mini DisplayPort a HDMI, y es distinto a un cable Micro HDMI a HDMI
-- Este cable no es compatible con iPad, Kindle ni Surface Laptop/Surface Pro
-- Audio claro para señal digital sin comprimir de 2 canales o multicanal (7.1, 5.1)
 - Cable adaptador de Mini DisplayPort a HDMI cable que transmite señal de audio y vídeo de tu ordenador o tu tablet a una pantalla HD, 1,83 m
+- Este es un cable Mini DisplayPort a HDMI, y es distinto a un cable Micro HDMI a HDMI
 - Conectores chapados en oro, conductores de cobre desnudos y apantallamiento trenzado con aluminio para una mayor resistencia y una conectividad más efectiva
+- Compatible con resoluciones de vídeo de hasta 1920 x 1200 y 1080p (Full HD); agarre fácil, diseño discreto
+- Audio claro para señal digital sin comprimir de 2 canales o multicanal (7.1, 5.1)
+- Este cable no es compatible con iPad, Kindle ni Surface Laptop/Surface Pro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0134V3KIA/?tag=tolees-21)

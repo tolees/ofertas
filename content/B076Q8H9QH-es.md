@@ -29,7 +29,7 @@ Tienes [Levi s Relaxed Graphic Crew  Felpa Donna  Grigio  Fleece Batwing Smokest
 🔎:
 
 - Un jersey clásico de ajuste relajado que aporta un aire informal
-- Modelo con forro polar suave
 - Con emblemático logotipo de Levis
+- Modelo con forro polar suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076Q8H9QH/?tag=tolees-21)
