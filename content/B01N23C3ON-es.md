@@ -28,10 +28,10 @@ En este momento está [BOSCH 2608522363 - Set vacio L: 1 ud](https://www.amazon.
 
 🔎:
 
-- Sistema Pick and Click de Bosch: permite crear conjuntos de accesorios individuales y ofrece componentes flexibles. Los diferentes paquetes se pueden intercambiar de forma segura y sencilla con los insertos integrados
-- Una placa de grabación para puntas y una ventana transparente
+- Pick and Click - Caja vacía (tamaño L) para guardar accesorios individualmente
 - Amortiguador de goma para protección y durabilidad en entornos adversos
 - La caja vacía tiene ranuras para asegurar los soportes de plástico de cada punta.
-- Pick and Click - Caja vacía (tamaño L) para guardar accesorios individualmente
+- Una placa de grabación para puntas y una ventana transparente
+- Sistema Pick and Click de Bosch: permite crear conjuntos de accesorios individuales y ofrece componentes flexibles. Los diferentes paquetes se pueden intercambiar de forma segura y sencilla con los insertos integrados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N23C3ON/?tag=tolees-21)

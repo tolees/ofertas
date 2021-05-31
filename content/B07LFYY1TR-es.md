@@ -28,14 +28,14 @@ Está [Geox D Felicity G  Botines Mujer  Negro  Black C9999   41 EU](https://www
 
 ℹ️:
 
-- Tipo de tacón: Bloque
-- Altura del tacón: 3.5 centímetros
-- Revestimiento: Lona
-- Composición: Cuero
+- Anchura del zapato: Normal
 - Tipo de talla: Los zapatos Geox son holgados
-- Material exterior: Cuero
+- Altura del tacón: 3.5 centímetros
 - Cierre: Cremallera
 - Material de la suela: Sintético
-- Anchura del zapato: Normal
+- Material exterior: Cuero
+- Tipo de tacón: Bloque
+- Revestimiento: Lona
+- Composición: Cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LFYY1TR/?tag=tolees-21)

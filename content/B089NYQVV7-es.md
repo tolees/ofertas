@@ -28,9 +28,9 @@ Ahora mismo tienes [Reebok ENERGYLUX 2.0  Zapatillas de Running Hombre  NEGRO/TR
 
 🔎:
 
-- Parte superior de malla.
-- Ideal para: running.
 - Plantilla de espuma MemoryTech que proporciona una sensación cómoda y amortiguada en contacto con el suelo.
+- Ideal para: running.
+- Parte superior de malla.
 - Sensación de comodidad y transpirabilidad.
 - La suela texturizada de EVA proporciona agarre.
 
