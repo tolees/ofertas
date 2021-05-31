@@ -28,7 +28,7 @@ Tienes [Jack & Jones Noos Hombre  Azul  Navy Blazer   M](https://www.amazon.es/d
 
 ℹ️:
 
-- Sweater with logo
 - Cotton mixture
+- Sweater with logo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VDT3X5F/?tag=tolees-21)

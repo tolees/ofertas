@@ -28,8 +28,8 @@ Tienes [Funko 56022 POP Super Avatar- Aang All Elements](https://www.amazon.es/d
 
 ℹ️:
 
+- De la colección Avatar, Aang All Elements como figura de vinilo POP de Funko
 - Descubre otras figuras de la colección Avatar y colecciónalas todas
 - La figura mide 16 cm y se envía en una caja ilustrada con ventana
-- De la colección Avatar, Aang All Elements como figura de vinilo POP de Funko
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08P5XR95M/?tag=tolees-21)

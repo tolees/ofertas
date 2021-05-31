@@ -28,10 +28,10 @@ Está [Maybelline New York  Base de Maquillaje con SPF50 y Antipolución  Dream 
 
 ℹ️:
 
-- Base de maquillaje de cobertura completa para un maquillaje uniforme y una protección alta contra las agresiones externas
-- Protección antipolución: protege contra la contaminación gracias a sus potentes antioxidantes, Filtro UVA/UVB: protección SPF50 para una acción escudo contra el fotoenvejecimiento
-- Aplicar una pequeña dosis de producto en el centro y extender hacia el exterior del rostro
 - Contenido: 1 x Base de maquillaje Dream Urban Cover Maybelline New York, Tono: 116 Sesame, 30 ml
+- Aplicar una pequeña dosis de producto en el centro y extender hacia el exterior del rostro
+- Protección antipolución: protege contra la contaminación gracias a sus potentes antioxidantes, Filtro UVA/UVB: protección SPF50 para una acción escudo contra el fotoenvejecimiento
+- Base de maquillaje de cobertura completa para un maquillaje uniforme y una protección alta contra las agresiones externas
 - Textura ligera y cremosa para una fácil aplicación y una óptima adaptación a su tipo de piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PZ6QDMV/?tag=tolees-21)

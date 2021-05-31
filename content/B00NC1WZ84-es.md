@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional 1600A003BK Bosch Mobi al 43.10 % de rebaja'
-date: 2021-05-24 13:02:10
+date: 2021-05-31 15:18:05
 image: 'https://m.media-amazon.com/images/I/51LDQeWY+lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Bosch Professional 1600A003BK Bosch Mobility-Bolsa de Herramientas tama�
 
 🔎:
 
-- Polyester 600 d pvc
-- 55x35x35 cm
-- Tamaño grande
 - 1, 75 kg
+- Tamaño grande
+- 55x35x35 cm
+- Polyester 600 d pvc
 - 3 bolsillos externos y 5 internos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00NC1WZ84/?tag=tolees-21)
