@@ -28,9 +28,9 @@ Está [CONSTRUSIM C5630450 - Tornillo fosfatado para pladur 3.5x25  negro](https
 
 ℹ️:
 
-- Fácil de usar
-- Producto de calidad
 - Producto para uso en interiores y exteriores
+- Producto de calidad
 - Material duredero
+- Fácil de usar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00J5NVAQ6/?tag=tolees-21)

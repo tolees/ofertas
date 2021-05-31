@@ -28,10 +28,10 @@ Tienes [Esdor For Men Contorno de ojos antioxidante 12 ml](https://www.amazon.es
 
 ℹ️:
 
-- Roll-on de acero inoxidable de "efecto frío" y textura de rápida absorción, favorece la eliminación de bolsas y ojeras
-- Tipo de piel: Sensible
-- 95% ingredientes de origen natural
-- 85 % atenúa bolsas y ojeras
 - 85% disminución de signos de fatiga
+- 95% ingredientes de origen natural
+- Tipo de piel: Sensible
+- 85 % atenúa bolsas y ojeras
+- Roll-on de acero inoxidable de "efecto frío" y textura de rápida absorción, favorece la eliminación de bolsas y ojeras
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B012BD0O5Y/?tag=tolees-21)
