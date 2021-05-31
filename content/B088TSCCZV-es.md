@@ -29,8 +29,8 @@ En este momento está [Paco Home - Alfombra Salón Tamaños Motivo Cuadros Rayas
 🔎:
 
 - Longitud del pelo: 12 mm / Peso: 2500 g/m²
-- Resistente / Fácil de cuidar
-- STANDARD 100 by OEKO-TEX
 - Material: 100 % polipropileno
+- STANDARD 100 by OEKO-TEX
+- Resistente / Fácil de cuidar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088TSCCZV/?tag=tolees-21)
