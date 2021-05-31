@@ -28,9 +28,9 @@ Tienes [JOYDIVISION - Aquaglide Lubricante intimo  200 ml](https://www.amazon.es
 
 ℹ️:
 
-- Soluble en agua y libre de grasas
-- Ingredientes: Agua, Glicerina, Hidroxietil Celu
-- 100% compatible con preservativos
 - PH óptimo
+- 100% compatible con preservativos
+- Ingredientes: Agua, Glicerina, Hidroxietil Celu
+- Soluble en agua y libre de grasas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001FSKOC0/?tag=tolees-21)

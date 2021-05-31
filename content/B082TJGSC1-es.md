@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Ace Lift 0120 2 SMA  Zapatillas  al 58.72 % de descuento'
-date: 2021-05-11 13:57:08
+date: 2021-05-31 19:48:06
 image: 'https://m.media-amazon.com/images/I/41ImU1hHUFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B082TJGSC1/?tag=tolees-21'
 descuento: '58.72'
-average: '39.18'
+average: '42.285'
 ---
 
 Está [Lacoste Ace Lift 0120 2 SMA  Zapatillas Hombre  Wht/Dk Grn  44 EU](https://www.amazon.es/dp/B082TJGSC1/?tag=tolees-21) con 58.72 de descuento por 51.6 EUR (original: 125.0 EUR) en el siguiente enlace!
