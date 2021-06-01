@@ -29,10 +29,10 @@ En este momento está [G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros  Negro  P
 🔎:
 
 - Skinny
-- 60% Algodón, 17% Poliéster, 11% Elastomultiéster, 9% Viscosa, 3% Elastano
-- Normal
 - Cierre: Boton y cierre
 - Lavar a máquina - agua fría (30 ° max)
+- 60% Algodón, 17% Poliéster, 11% Elastomultiéster, 9% Viscosa, 3% Elastano
+- Normal
 - No Lavar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N18FHVV/?tag=tolees-21)

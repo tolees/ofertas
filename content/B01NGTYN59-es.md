@@ -28,10 +28,10 @@ Tienes [Einhell GE-CH 1846 Li Kit - Recortasetos inalámbrico 18V  longitud de c
 
 🔎:
 
-- Largo de espada de 60 mm
-- Separación entre dientes de 18 mm
-- Mango giratorio para facilitar trabajos
 - Con recolector de cortes
+- Largo de espada de 60 mm
+- Mango giratorio para facilitar trabajos
+- Separación entre dientes de 18 mm
 - Maximo corte de 11 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01NGTYN59/?tag=tolees-21)
