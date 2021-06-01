@@ -30,8 +30,8 @@ Tienes [Converse Chuck Taylor All Star Ox Maroon Canvas](https://www.amazon.es/d
 
 - Estilo: Sneaker Low
 - MÃ¡s informaciÃ³n: Core
-- NÃºmero del fabricante: M9691C
-- Material: Canvas
 - Color: rojo
+- Material: Canvas
+- NÃºmero del fabricante: M9691C
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000EDGPXE/?tag=tolees-21)
