@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell GE-CH 1846 Li Kit - Recortasetos al 36.14 % de rebaja'
-date: 2021-05-31 08:34:12
+date: 2021-06-01 10:37:03
 image: 'https://m.media-amazon.com/images/I/41EDDrMRxRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Einhell GE-CH 1846 Li Kit - Recortasetos inalámbrico 18V  longitud de c
 
 🔎:
 
+- Mango giratorio para facilitar trabajos
 - Maximo corte de 11 mm
 - Con recolector de cortes
 - Separación entre dientes de 18 mm
 - Largo de espada de 60 mm
-- Mango giratorio para facilitar trabajos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01NGTYN59/?tag=tolees-21)

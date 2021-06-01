@@ -30,8 +30,8 @@ Está [Flower 20529 20529-Gel anti-hormigas  No aplica  14.5x2.5x23 cm](https://
 
 - Práctico, eficaz, limpio y sin olor
 - Fuente de alimentación: Con Alimentación de Batería
+- Innovador sistema con jeringuilla
 - 10gr
 - Definitivo: mata a la reina extinguiendo el hormiguero
-- Innovador sistema con jeringuilla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00GXKDTI6/?tag=tolees-21)

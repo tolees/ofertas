@@ -28,10 +28,10 @@ Tienes [Avenue Mandarine Folios de Papel para Origami geométrico  Multi-Color](
 
 🔎:
 
-- Hojas de papel para origami
 - Con un grosor de 70 gsm
 - Incluye tablero con pegatinas de ojos para crear animales de origami
 - Tiene un tamaño de 20 x 20 centímetros
 - Incluye 60 hojas
+- Hojas de papel para origami
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B006HWTVB4/?tag=tolees-21)

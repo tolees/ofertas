@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Parte Transparente para prefiltri Lombar con un 53.54 % de descuento'
-date: 2021-05-24 09:55:25
+date: 2021-06-01 10:45:39
 image: 'https://m.media-amazon.com/images/I/41R9749z1rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ En este momento está [Parte Transparente para prefiltri Lombardini pequeño de 
 🔎:
 
 - H: 67 mm
-- Diámetro exterior: 120 mm
 - Parte transparente para filtros premotor a ciclone de ama
 - Diámetro interior: 60 mm
+- Diámetro exterior: 120 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BBRP3KJ/?tag=tolees-21)
