@@ -28,9 +28,9 @@ Tienes [Garcima - Paellera pulida induccion 2 r. 34cm](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Diámetro de la base: 29 cm
 - Nº de raciones: 2
-- Apta para: Cocinas a gas, inducción, vitrocerámicas y eléctricas.
 - No apta para lavavajillas
+- Apta para: Cocinas a gas, inducción, vitrocerámicas y eléctricas.
+- Diámetro de la base: 29 cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003XUM7K0/?tag=tolees-21)

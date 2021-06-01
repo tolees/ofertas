@@ -28,8 +28,8 @@ Tienes [Fiamma Level Pro 97901-011 - Sistema de nivelación para caravana  máxi
 
 🔎:
 
-- No se astilla como la madera.Acabado antideslizante.Sólida construcción de polietileno HD resistente a los rayos UV.
 - Ligeros, resistentes a la corrosión, duraderos.Mantienen la caravana perfectamente nivelada, permitiendo el mejor funcionamiento de los equipos de a bordo.Superficie dentellada que se agarra a las ruedas del medio.
+- No se astilla como la madera.Acabado antideslizante.Sólida construcción de polietileno HD resistente a los rayos UV.
 - Ideal para la caravana.Sólida construcción de polietileno HD, resistente a los rayos UV.Se pueden sobreponer para aumentar la altura.Acabado antideslizante.Paquete de 2 unidades.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FRC5SY4/?tag=tolees-21)

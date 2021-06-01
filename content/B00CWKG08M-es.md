@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pattex Barrita Arreglatodo Masilla bicom con un 38.97 % de descuento'
-date: 2021-05-16 17:02:37
+date: 2021-06-01 18:46:02
 image: 'https://m.media-amazon.com/images/I/41ImVImpKjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pattex'
 buyurl: 'https://www.amazon.es/dp/B00CWKG08M/?tag=tolees-21'
 descuento: '38.97'
-average: '6.06263157894736'
+average: '6.05699999999999'
 ---
 
 En este momento está [Pattex Barrita Arreglatodo Masilla bicomponente extrafuerte  pasta moldeable para pegar y reparar  resina epoxi barnizable y lijable para múltiples materiales  tubo 48 g](https://www.amazon.es/dp/B00CWKG08M/?tag=tolees-21) a 5.95 EUR (original: 9.75 EUR) (38.97 %  de descuento) en el siguiente enlace!
@@ -28,15 +28,10 @@ En este momento está [Pattex Barrita Arreglatodo Masilla bicomponente extrafuer
 
 🔎:
 
-- Multimaterial – Esta cola rápida, eficaz y fiable es una resina bicomponente epoxi adecuada para cerámica, cemento, metales, madera, piedra y también cristal.
-- Barnizable y lijable – Una vez seca, a esta masilla adhesiva se le puede dar el acabado que se desee. Por ejemplo, se puede barnizar, lijar, pintar o mecanizar.
-- Fórmula no irritante. Se aplica sin guantes. Rápido: aplicación en 3 minutos. Endurece en 5 minutos
-- Muy fuerte: resiste hasta 60 Kg/cm2. Resistencia tracción por cizalla, según norma UNE-EN-1465 (23º C según material)
+- Secado rápido – Ideal para múltiples usos, esta masilla reparadora se seca en solo 5 minutos; una vez endurecido, el adhesivo universal se retira mecánicamente
 - Envío y detalles – Pattex Barrita Arreglatodo, masilla universal epoxi de secado rápido, cola resistente multimaterial, barnizable y lijable, blanco al secar, tubo de 48 g
-- Puede ser lijado, perforado, mecanizado, pintado y barnizado. Resistente al agua, aceite y disolventes
-- Pega y repara – Esta masilla epoxi bicomponente en pasta no solo pega de manera fiable, sino que también es ideal para reparar, sellar, reconstruir y rellenar.
-- Secado rápido – Ideal para múltiples usos, esta masilla reparadora se seca en solo 5 minutos. Una vez endurecido, el adhesivo universal se retira mecánicamente.
-- Resistencia térmica una vez endurecido: de -30ºC a +120ºC. Blanco una vez seco. No contiene disolventes
-- Endurece incluso bajo el agua. No merma, no se agrieta ni se oxida
+- Barnizable y lijable – Una vez seca, a esta masilla adhesiva se le puede dar el acabado que se desee; por ejemplo, se puede barnizar, lijar, pintar o mecanizar
+- Multimaterial – Esta cola rápida, eficaz y fiable es una resina bicomponente epoxi adecuada para cerámica, cemento, metales, madera, piedra y también cristal
+- Pega y repara – Esta masilla epoxi bicomponente en pasta no solo pega de manera fiable, sino que también es ideal para reparar, sellar, reconstruir y rellenar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00CWKG08M/?tag=tolees-21)

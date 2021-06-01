@@ -29,9 +29,9 @@ Está [Puma Cross The Line Split Short Pantalones Cortos  Hombre  Black  XL](htt
 ℹ️:
 
 - 0
-- 0
-- Tecnología dryCELL, que absorbe la humedad y ayuda a mantenerte seco y cómodo
 - Pensado para el running
+- Tecnología dryCELL, que absorbe la humedad y ayuda a mantenerte seco y cómodo
+- 0
 - Ajuste relajado para mayor comodidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N9P4J1I/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Safety 1st - Rejilla para Escaleras  Cierre Rápido  Extraseguro  Rejill
 
 🔎:
 
-- Nota: Antes de la instalación, la rejilla protectora está ligeramente encorvada, esto es normal. Al montarla, se endereza automáticamente y, de esta manera, se queda fija en el marco.
-- Extraseguro: con sistema SecureTech y seguro doble.
-- Fijación práctica, no hace falta taladrar ni atornillar.
-- Rejilla de metal para escaleras, adecuado para niños de entre aproximadamente 6 hasta 24 meses.
 - Extensible, a través de extensiones disponibles por separado, hasta 136 cm.
+- Extraseguro: con sistema SecureTech y seguro doble.
+- Rejilla de metal para escaleras, adecuado para niños de entre aproximadamente 6 hasta 24 meses.
+- Nota: Antes de la instalación, la rejilla protectora está ligeramente encorvada, esto es normal. Al montarla, se endereza automáticamente y, de esta manera, se queda fija en el marco.
+- Fijación práctica, no hace falta taladrar ni atornillar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01G4WERBU/?tag=tolees-21)

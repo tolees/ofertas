@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Antimosquitos ISDIN - ISDIN Spray Anti M al 36.62 % de descuento'
-date: 2021-05-16 15:01:13
+date: 2021-06-01 18:25:22
 image: 'https://m.media-amazon.com/images/I/51nXgYGADBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Antimosquitos ISDIN'
 buyurl: 'https://www.amazon.es/dp/B00GY2IEKG/?tag=tolees-21'
 descuento: '36.62'
-average: '7.684'
+average: '7.56'
 ---
 
 Ahora mismo tienes [Antimosquitos ISDIN - ISDIN Spray Anti Mosquitos - Repelente de Mosquitos para la Prevención de Picaduras  Eficaz Mosquito Tigre  Amarillo  1 x 100 ml](https://www.amazon.es/dp/B00GY2IEKG/?tag=tolees-21) a 6.94 EUR (original: 10.95 EUR) (36.62 %  de descuento) en el siguiente enlace!
