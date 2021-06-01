@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Grand Court C  Zapatillas de Teni con un 65.92 % de descuento'
-date: 2021-05-24 11:01:16
+date: 2021-06-01 08:02:23
 image: 'https://m.media-amazon.com/images/I/31YBNWIrIPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Adidas Grand Court C  Zapatillas de Tenis  Blanco  Ftwbla
 
 🔎:
 
+- Cierre: con cordones.
 - Marca: Adidas.
 - Material: 100% piel sintética.
-- Cierre: con cordones.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QGK3KLD/?tag=tolees-21)

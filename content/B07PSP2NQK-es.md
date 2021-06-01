@@ -28,10 +28,10 @@ Ahora mismo tienes [Bourjois Velvet The Pencil Barra de labios Tono 004 - 3 g](h
 
 🔎:
 
-- Labial mate, intenso, preciso y de larga duración
-- En formato jumbo, ideal para perfilar tus labios
-- Preciso como un perfilador
-- Confort extremo con su textura suave y aterciopelada
 - Color intenso y alta cobertura en una sola pasada
+- Confort extremo con su textura suave y aterciopelada
+- Labial mate, intenso, preciso y de larga duración
+- Preciso como un perfilador
+- En formato jumbo, ideal para perfilar tus labios
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PSP2NQK/?tag=tolees-21)
