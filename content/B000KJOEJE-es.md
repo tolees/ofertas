@@ -29,7 +29,7 @@ Tienes [Staedtler 752374 - Marcador fluorescente  color verde](https://www.amazo
 ℹ️:
 
 - Staetdler Marcador Fluorescente
-- Color Verde
 - Tinta de secado rápido
+- Color Verde
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000KJOEJE/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Merrell Waterpro Maipo 2  Zapatillas Impermeables Mujer  Azul  Navy/Smoke
 
 ℹ️:
 
-- Material exterior: Cuero sintético
-- Material de la suela: Sintético
 - Cierre: Cordones rápidos
+- Material de la suela: Sintético
 - Revestimiento: Sintético
+- Material exterior: Cuero sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DYLK6PM/?tag=tolees-21)

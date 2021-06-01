@@ -28,10 +28,10 @@ Está [Geox UOMO Symbol B  Zapatillas Hombre  Negro  39 EU](https://www.amazon.e
 
 ℹ️:
 
-- Material exterior: Cuero
-- Tipo de tacón: Plano
-- Revestimiento: Tela
 - Cierre: Cordones
+- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FF6LNJT/?tag=tolees-21)

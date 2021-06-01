@@ -28,10 +28,10 @@ Tienes [STAEDTLER Mars 563 20  Regla de Metal de 20 Centímetros de Longitud](ht
 
 ℹ️:
 
-- Longitud manejable de 20; este modelo está disponible en otras longitudes para trabajos de distinta envergadura
-- Paquete con una unidad de regla de aluminio de 20 centímetros de longitud y perfil biselado
-- Regla de aluminio de 20 centímetros de longitud, idónea para trabajos de dibujo técnico
 - Regla con borde especialmente diseñado para dibujar con tinta de un modo limpio y eficiente
+- Regla de aluminio de 20 centímetros de longitud, idónea para trabajos de dibujo técnico
+- Paquete con una unidad de regla de aluminio de 20 centímetros de longitud y perfil biselado
+- Longitud manejable de 20; este modelo está disponible en otras longitudes para trabajos de distinta envergadura
 - Regla para dibujo con borde biselado y fabricada en material antideslizante, lo que garantiza unos trabajos mucho más seguros y limpios
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001FDD70G/?tag=tolees-21)

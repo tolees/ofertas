@@ -28,10 +28,10 @@ En este momento está [Staedtler 119 BK2 PA. Lápices Noris Club jumbo. Blíster
 
 🔎:
 
-- Lápiz de grafito jumbo de diseño triangular ergonómico adecuado para la iniciación a la escritura.
-- Lápiz hecho de madera certificada con la etiqueta PEFC, procedente de bosques de gestión sostenible ecológica, económica y socialmente.
-- Lápices adecuados para uso infantil y escolar, idóneos para la iniciación al dibujo.
-- Lápices de tamaño grande con mina de 4 mm de anchura y dureza media HB.
 - Gran resistencia a la rotura gracias a la especial formulación de la mina y a su doble encoladura.
+- Lápices de tamaño grande con mina de 4 mm de anchura y dureza media HB.
+- Lápiz de grafito jumbo de diseño triangular ergonómico adecuado para la iniciación a la escritura.
+- Lápices adecuados para uso infantil y escolar, idóneos para la iniciación al dibujo.
+- Lápiz hecho de madera certificada con la etiqueta PEFC, procedente de bosques de gestión sostenible ecológica, económica y socialmente.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084S8SQZS/?tag=tolees-21)
