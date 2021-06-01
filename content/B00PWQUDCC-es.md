@@ -28,8 +28,8 @@ Tienes [Lacoste Eau De Lacoste L.12.12 Blanc - Agua de toilette  175 ml](https:/
 
 ℹ️:
 
-- Este producto está indicado para hombres.
-- Contiene 175 ml.
 - De la marca Lacoste.
+- Contiene 175 ml.
+- Este producto está indicado para hombres.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00PWQUDCC/?tag=tolees-21)

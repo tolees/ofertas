@@ -28,10 +28,10 @@ Tienes [Juguetrónica- Smartdrone BT  mini drone con modo acrobacias para princi
 
 🔎:
 
-- Cuenta con control de altura y varias velocidades para aprender a volar y seguir avanzando
-- Su modo g-sensor permite controlarlo girando el teléfono móvil
-- Dispone de modo acrobático; alucina viendo cómo realiza giros en 360º
-- Mini drone diseñado para pilotos principiantes
 - Olvida emisoras de control, ¡se maneja con tu Smartphone!
+- Su modo g-sensor permite controlarlo girando el teléfono móvil
+- Mini drone diseñado para pilotos principiantes
+- Dispone de modo acrobático; alucina viendo cómo realiza giros en 360º
+- Cuenta con control de altura y varias velocidades para aprender a volar y seguir avanzando
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077Y4ZKLH/?tag=tolees-21)

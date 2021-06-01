@@ -29,7 +29,7 @@ Tienes [Hero Snack de Guisantes y Maíz 50gr](https://www.amazon.es/dp/B07RV59DN
 🔎:
 
 - Ecológico
-- No fritos
 - Calidad Baby
+- No fritos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RV59DNM/?tag=tolees-21)

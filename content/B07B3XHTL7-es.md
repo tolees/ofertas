@@ -29,9 +29,9 @@ Ahora mismo tienes [PUMA Liga Training Jersey Maillot  Hombre  3XL  Verde  Peppe
 🔎:
 
 - dryCELL: Tecnología PUMA que absorbe la humedad y ayuda a mantenerte seco y cómodo
-- Tejido que absorbe la humedad
 - Cuello redondo
 - Corte recto
 - Logotipo del felino PUMA en la parte derecha del pecho
+- Tejido que absorbe la humedad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B3XHTL7/?tag=tolees-21)

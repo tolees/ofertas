@@ -28,10 +28,10 @@ Ahora mismo tienes [Quiksilver Vacancy 16" - Short De Natación para Hombre Jam/
 
 🔎:
 
+- Bolsillos laterales
 - Short de natación para hombre
+- Bolsillos traseros
 - Slip interior de malla y cordón de ajuste en la cintura
 - Longitud 40 cm - corto
-- Bolsillos laterales
-- Bolsillos traseros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0825N7CQF/?tag=tolees-21)

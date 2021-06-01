@@ -28,8 +28,8 @@ Está [adidas Continental 80 C  Zapatillas de Deporte  Blanco  Ftwbla/Escarl/Mar
 
 ℹ️:
 
-- Empeine de piel lisa
-- Estilo vintage
 - Zapatillas deportivas
+- Estilo vintage
+- Empeine de piel lisa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K2TBR86/?tag=tolees-21)

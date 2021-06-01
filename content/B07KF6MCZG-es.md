@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 High Rise Short Pantalones Co al 70.91 % de descuento'
-date: 2021-05-28 10:46:11
+date: 2021-06-01 17:35:15
 image: 'https://m.media-amazon.com/images/I/31HgTEeuv0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07KF6MCZG/?tag=tolees-21'
 descuento: '70.91'
-average: '24.44'
+average: '23.596'
 ---
 
 Está [Levi s 501 High Rise Short Pantalones Cortos  In The Clouds  29 para Mujer](https://www.amazon.es/dp/B07KF6MCZG/?tag=tolees-21) con 70.91 de descuento por 16.0 EUR (original: 55.0 EUR) en el siguiente enlace!

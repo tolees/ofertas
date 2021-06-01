@@ -28,8 +28,8 @@ Ahora mismo tienes [FILA Disruptor wmn zapatilla Mujer  blanco  White   40 EU](h
 
 🔎:
 
-- Color: BLANCO
 - Designer: FILA
+- Color: BLANCO
 - Artículo: 1010302
 - Estación: Otoño/Invierno
 
