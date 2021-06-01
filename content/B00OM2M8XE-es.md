@@ -28,10 +28,10 @@ En este momento está [Outsunny - Toldo Vela triangulo  Varios tamaños y Colore
 
 🔎:
 
-- ✅MATERIAL: Confeccionado con material HDPE de alta calidad. Denso y resistente. Puedes limpiarlo con detergentes suaves y agua.
-- ✅TOLDO VELA RECTANGULAR: La opción perfecta para protegerte del sol en tu terraza o jardín.
-- ✅DIMENSIONES TOTALES: Dimensión toldo: 4x4x4m. Fijación de acero inoxidable en forma de anillas. Incluye bolsa para transportar y guardar.
-- ✅TEJIDO: Te protege del 95% de los rayos UV dañinos y reduce la temperatura en la zona de la sombra.
 - ✅AGARRES: En cada esquina incorpora una anilla de acero en forma de D.
+- ✅TOLDO VELA RECTANGULAR: La opción perfecta para protegerte del sol en tu terraza o jardín.
+- ✅MATERIAL: Confeccionado con material HDPE de alta calidad. Denso y resistente. Puedes limpiarlo con detergentes suaves y agua.
+- ✅TEJIDO: Te protege del 95% de los rayos UV dañinos y reduce la temperatura en la zona de la sombra.
+- ✅DIMENSIONES TOTALES: Dimensión toldo: 4x4x4m. Fijación de acero inoxidable en forma de anillas. Incluye bolsa para transportar y guardar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00OM2M8XE/?tag=tolees-21)

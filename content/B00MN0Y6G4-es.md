@@ -29,9 +29,9 @@ Tienes [Bosch Hogar - Bosch TDA3024020  2400 W  Plástico  Azul/Blanco](https://
 🔎:
 
 - Potencia: 2400 W máximo
+- Base CeraniumGlissée multidireccional - para un planchado suave y sin arrugas en todas las direcciones
 - Vapor constante: 40 g/min
 - Supervapor: 150 g
 - AdvancedSteam System: distribución optimizada del vapor gracias a un avanzado diseño de la base
-- Base CeraniumGlissée multidireccional - para un planchado suave y sin arrugas en todas las direcciones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00MN0Y6G4/?tag=tolees-21)

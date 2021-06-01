@@ -29,9 +29,9 @@ Tienes [PNY Pro Elite microSDXC card 64GB Class 10 UHS-I U3 100MB/s A1 V30](http
 ℹ️:
 
 - V30 video Speed Class para 4K y videos full HD
+- Adaptador SD incluido
 - A1 Application Performance Clase 1
 - Velocidad de escritura hasta90MB/s
-- Adaptador SD incluido
 - Velocidad de lectura hasta 100MB/s
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07R7C3PW5/?tag=tolees-21)
