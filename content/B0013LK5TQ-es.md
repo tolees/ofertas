@@ -28,10 +28,10 @@ Tienes [Dewalt DW733-QS Regrueso portátil  1800 W  220 V](https://www.amazon.es
 
 ℹ️:
 
-- Incluye: adaptador para extracción de serrín, llave allen, llave para la hoja y guía para el cambio de la hoja.
+- Diseño de 4 columnas para mayor estabilidad del cabezal que ofrece un perfecto acabado de la superfície
+- Diseñado para facilitar su movilidad
 - Potente motor de 1800W que facilita el trabajo a lisado de una superfície
 - La herramienta puede fijarse a un banco gracias a los orificios insertados en la base
-- Diseñado para facilitar su movilidad
-- Diseño de 4 columnas para mayor estabilidad del cabezal que ofrece un perfecto acabado de la superfície
+- Incluye: adaptador para extracción de serrín, llave allen, llave para la hoja y guía para el cambio de la hoja.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0013LK5TQ/?tag=tolees-21)

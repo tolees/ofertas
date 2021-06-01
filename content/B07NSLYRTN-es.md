@@ -28,10 +28,10 @@ Ahora mismo tienes [Taurus Bergen 16CR Ventilador de columna oscilante  sistema 
 
 🔎:
 
-- Practicidad y elegancia: elegante diseño en color negro con base redonda; rejilla extraíble que permite una limpieza fácil y cómoda
+- Silencioso: con solo 51.46 dBA el ruido que emite el ventilador es mínimo permitiendo de esta forma disfrutar de una agradable brisa en un entorno silencioso
+- Reparte el flujo de aire de forma uniforme con movimiento giratorio y la inclinación deseada, altura ajustable hasta los 130 cm para adaptarse a cualquier espacio
 - Velocidad regulable: 3 velocidades que se adaptan a las necesidades de ventilación; 3 aspas largas con un diámetro de 40 cm para garantizar el máximo flujo de aire con el menor consumo energético
 - Potente y eficiente: 45 W de potencia capaces de proporcionar un buen flujo de aire con un importante ahorro energético; incluye temporizador de apagado para ajustar el tiempo de funcionamiento
-- Reparte el flujo de aire de forma uniforme con movimiento giratorio y la inclinación deseada, altura ajustable hasta los 130 cm para adaptarse a cualquier espacio
-- Silencioso: con solo 51.46 dBA el ruido que emite el ventilador es mínimo permitiendo de esta forma disfrutar de una agradable brisa en un entorno silencioso
+- Practicidad y elegancia: elegante diseño en color negro con base redonda; rejilla extraíble que permite una limpieza fácil y cómoda
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NSLYRTN/?tag=tolees-21)
