@@ -28,8 +28,8 @@ Tienes [adidas Tastigo 19 Shorts Men Pantalones Cortos de Fútbol  Hombre  Negro
 
 🔎:
 
+- Elastic waistband with lanyard
 - Regular fit
 - Climalite anti-humidity fabric
-- Elastic waistband with lanyard
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K1F99MP/?tag=tolees-21)
