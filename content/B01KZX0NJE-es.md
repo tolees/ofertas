@@ -29,9 +29,9 @@ Tienes [Compo Novatec Abono Azul Universal  Negro  20 kg](https://www.amazon.es
 ℹ️:
 
 - Fórmula optimizada, con menos fósforo; respetuosa con el medio ambiente
-- Abono complejo NPK (Mg+S) 12 + 8 + 16 (+3+25) con magnesio y azufre, microelementeos, inhibidor de la nitrificación; adecuado para todo tipo de plantas ornamentales, arbustos, plantas verdes, rosales, cítricos
-- Tecnología profesional con el inhibidor de la nitrificación (DMPP) asegurando la estabilidad del nitrógeno en el suelo, garantiza el óptimo aprovechamiento de nurientes en las plantas y una floración más abundante; hasta 8 semanas de abono disponible
 - Calidad COMPO: materias primas seleccionadas según la receta de COMPO; estrictos controles de calidad por parte de laboratorios e institutos independientes; las óptimas condiciones para el crecimiento saludable de las plantas
+- Tecnología profesional con el inhibidor de la nitrificación (DMPP) asegurando la estabilidad del nitrógeno en el suelo, garantiza el óptimo aprovechamiento de nurientes en las plantas y una floración más abundante; hasta 8 semanas de abono disponible
 - Contenido: 1 x COMPO Novatec Abono Azul Universal, 20 kg
+- Abono complejo NPK (Mg+S) 12 + 8 + 16 (+3+25) con magnesio y azufre, microelementeos, inhibidor de la nitrificación; adecuado para todo tipo de plantas ornamentales, arbustos, plantas verdes, rosales, cítricos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01KZX0NJE/?tag=tolees-21)

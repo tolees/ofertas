@@ -29,9 +29,9 @@ Tienes [Tira LED TV 3M  JESLED Luces LED RGB Retroiluminación con Control App  
 🔎:
 
 - 【PROTEGE AL OJO】Al disminuir el contraste de la luz del televisor entre un televisor brillante y una habitación oscura, las luces reducen la fatiga ocular y previenen el dolor de cabeza no deseado. Te permite tener un mejor entorno de visualización.
-- 【MODO MÚSICA】 Micrófono de alta sensibilidad incorporado, el brillo y el color de la luz se sincronizarán con el ritmo de su música favorita.
-- 【3 MÉTODOS DE CONTROL】 Use el control remoto y la caja de control para ajustar el brillo o cambiar el color. Con la aplicación Lotus Lantern, se pueden configurar una gran variedad de modos de escena.
 - 【GARANTÍA DE CALIDAD】 JESLED ofrece soporte postventa 24 horas al día, 7 días a la semana, política de reembolso completo de 60 días y garantía sin preocupaciones de 18 meses. Si tiene alguna pregunta, contáctenos directamente.
 - 【INSTALACIÓN FÁCIL & SEGURO DE USAR】 Las luces de fondo del televisor funcionan con un voltaje de 5V （1A）. Requiere una alimentación USB de 5v (1A). Bajo calor, táctil y seguro para los niños. al usarlo Solo use adhesivos y clips entonces puedes para fijar firmemente la barra de luz en una superficie limpia y seca. (Nota: No proporcionamos conectores)
+- 【3 MÉTODOS DE CONTROL】 Use el control remoto y la caja de control para ajustar el brillo o cambiar el color. Con la aplicación Lotus Lantern, se pueden configurar una gran variedad de modos de escena.
+- 【MODO MÚSICA】 Micrófono de alta sensibilidad incorporado, el brillo y el color de la luz se sincronizarán con el ritmo de su música favorita.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08M66VZF9/?tag=tolees-21)

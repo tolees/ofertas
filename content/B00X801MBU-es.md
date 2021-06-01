@@ -28,8 +28,8 @@ Está [Pikolin Home - Almohada de fibra para bebé  antiácaros  funda 100% algo
 
 ℹ️:
 
-- Máximo confort por su tacto suave y acogedor
 - Tratamiento antiacaros e hipoalergenico
 - Lavable
+- Máximo confort por su tacto suave y acogedor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00X801MBU/?tag=tolees-21)
