@@ -28,10 +28,10 @@ En este momento está [Jack & Jones JJEBASIC Sweat Hood Noos Sudadera con Capuch
 
 🔎:
 
-- Sudadera con capucha de color liso
-- Jersey sencillo
 - Sudadera con capucha de algodón
+- Jersey sencillo
 - Sudadera con capucha
+- Sudadera con capucha de color liso
 - Sudadera con capucha de material sostenible
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KXXSTSM/?tag=tolees-21)

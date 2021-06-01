@@ -28,9 +28,9 @@ En este momento está [Nike Tanjun  Zapatillas de Running para Hombre  Negro  Bl
 
 🔎:
 
-- Plantilla ligeramente acolchada
 - Cómodo de llevar
-- Suela de goma de tracción
 - Marca: Nike
+- Suela de goma de tracción
+- Plantilla ligeramente acolchada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XWPWSH8/?tag=tolees-21)

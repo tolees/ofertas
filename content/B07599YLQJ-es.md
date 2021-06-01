@@ -28,8 +28,8 @@ Tienes [Funko Pop!- DC Bombshells Supergirl Figura de Vinilo  22894 ](https://ww
 
 🔎:
 
-- Viene embalado en una caja con ventanas ilustrada
-- Cada personaje mide alrededor de 9 cm
 - Diseño moderno
+- Cada personaje mide alrededor de 9 cm
+- Viene embalado en una caja con ventanas ilustrada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07599YLQJ/?tag=tolees-21)

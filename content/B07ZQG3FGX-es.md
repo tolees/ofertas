@@ -29,7 +29,7 @@ En este momento está [adidas Tensaur Run  Sneaker Unisex niños  Core Black/Sol
 🔎:
 
 - Correa de velcro
-- Malla superior
 - En forma normal.
+- Malla superior
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZQG3FGX/?tag=tolees-21)

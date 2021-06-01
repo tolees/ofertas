@@ -28,8 +28,8 @@ Tienes [adidas Tensaur Run  Sneaker Unisex niños  Core Black Solar Red Grey  35
 
 ℹ️:
 
+- Correa de velcro
 - Malla superior
 - En forma normal.
-- Correa de velcro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZQGLW5R/?tag=tolees-21)
