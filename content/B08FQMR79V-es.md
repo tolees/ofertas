@@ -28,10 +28,10 @@ Tienes [AUTOPkio Anillo de Luz Selfie  36 LED Ring Light USB Recargable Ajustabl
 
 🔎:
 
-- Embellecer la cara y hacer que su luz los ojos en la fotografía. Tamaño compacto, muy portable en los bolsillos, bolsos, paquetes, etc.
-- Fácil de usar; Con 3 diferentes modos de iluminación de brillo, consulte la iluminación necesaria para sus fotos tienen el suicidio encantador, encontrar las cosas perdidas, o brillo en el estado oscuro.
 - 15 mm clip de la boca, lo suficientemente grande para los teléfonos inteligentes, tabletas, espejo de maquillaje o de otro clip de uso especializado. Compatible con todos los teléfonos inteligentes.
 - 36 bombillas LED super brillante, proporcionan una iluminación adicional o de última generación para la fotografía creativa o videografía.
+- Fácil de usar; Con 3 diferentes modos de iluminación de brillo, consulte la iluminación necesaria para sus fotos tienen el suicidio encantador, encontrar las cosas perdidas, o brillo en el estado oscuro.
 - Recargable --charged a través del micro-USB al cable del USB; Voltaje clasificado: USB 5V / 300MA.
+- Embellecer la cara y hacer que su luz los ojos en la fotografía. Tamaño compacto, muy portable en los bolsillos, bolsos, paquetes, etc.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08FQMR79V/?tag=tolees-21)

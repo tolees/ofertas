@@ -28,7 +28,7 @@ Tienes [Diadora - Sneakers Camaro para Hombre y Mujer  EU 36 ](https://www.amazo
 
 🔎:
 
-- Diadora Sportswear: las sugestiones de street y sportstyle se combinan con la calidad y la autenticidad. Diadora es la marca líder mundial en los mercados de deportes, lifestyle y seguridad. Vanguardia estilistica e innovación tecnológica son las palabras llave de su éxito.
 - Sneakers para hombre y mujer
+- Diadora Sportswear: las sugestiones de street y sportstyle se combinan con la calidad y la autenticidad. Diadora es la marca líder mundial en los mercados de deportes, lifestyle y seguridad. Vanguardia estilistica e innovación tecnológica son las palabras llave de su éxito.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073D5PP9C/?tag=tolees-21)
