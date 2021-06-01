@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juguetrónica- Smartdrone BT  mini drone  al 59.90 % de rebaja'
-date: 2021-05-23 16:03:21
+date: 2021-06-01 15:46:09
 image: 'https://m.media-amazon.com/images/I/51PXF3+eFyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Juguetrónica- Smartdrone BT  mini drone con modo acrobacias para princi
 
 🔎:
 
-- Mini drone diseñado para pilotos principiantes
-- Su modo g-sensor permite controlarlo girando el teléfono móvil
+- Cuenta con control de altura y varias velocidades para aprender a volar y seguir avanzando
 - Dispone de modo acrobático; alucina viendo cómo realiza giros en 360º
 - Olvida emisoras de control, ¡se maneja con tu Smartphone!
-- Cuenta con control de altura y varias velocidades para aprender a volar y seguir avanzando
+- Mini drone diseñado para pilotos principiantes
+- Su modo g-sensor permite controlarlo girando el teléfono móvil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077Y4ZKLH/?tag=tolees-21)

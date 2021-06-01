@@ -28,10 +28,10 @@ Ahora mismo tienes [Cecotec Barbacoa Eléctrica PerfectSteak 4250 Stand . Con Pa
 
 🔎:
 
-- Barbacoa eléctrica de 2400 W de potencia, con sistema Stand que permite que esté elevada. Parrilla de acero inoxidable
 - Microinterruptor de seguridad que evita el funcionamiento de la barbacoa si no se encuentra completamente montada
-- Bandeja desmontable para facilitar su limpieza. Altura ajustable de la parrilla en tres opciones. Carcasa esmaltada en color negro
-- Panel cortavientos para facilitar su uso exterior. Indicador luminoso de encendido y apagado
 - Dos soportes laterales de alimentos y uno inferior para aumentar el área de trabajo
+- Panel cortavientos para facilitar su uso exterior. Indicador luminoso de encendido y apagado
+- Bandeja desmontable para facilitar su limpieza. Altura ajustable de la parrilla en tres opciones. Carcasa esmaltada en color negro
+- Barbacoa eléctrica de 2400 W de potencia, con sistema Stand que permite que esté elevada. Parrilla de acero inoxidable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07L147KMD/?tag=tolees-21)

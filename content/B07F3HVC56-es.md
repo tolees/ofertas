@@ -28,12 +28,12 @@ Está [Guess Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidabl
 
 ℹ️:
 
+- Tamaño: 40mm
 - Movimiento: Cuarzo, Display: Analógico
+- Anchura de la correa: 20.0 milímetros
+- Diámetro de la caja: 40.0 milímetros
 - Guess Watches Ladies Frontier
 - Material Caja: Acero, Color: Dorado
 - Material Correa: Acero, Color: Dorado
-- Diámetro de la caja: 40.0 milímetros
-- Anchura de la correa: 20.0 milímetros
-- Tamaño: 40mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F3HVC56/?tag=tolees-21)

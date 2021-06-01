@@ -28,10 +28,10 @@ Ahora mismo tienes [Outsunny Jardinera Plástica Maceta para Flores Rectangular 
 
 🔎:
 
-- ✅PROFUNDIDAD EXTRA: Ideal para adaptarse tanto a la plantación de hierbas aromáticas como de vegetales o flores.
 - ✅MONTAJE SIN NECESIDAD DE HERRAMIENTAS: Podrás empezar a disfrutar de tu jardinera sin complicaciones.
+- ✅PROFUNDIDAD EXTRA: Ideal para adaptarse tanto a la plantación de hierbas aromáticas como de vegetales o flores.
+- ✅JARDINERA RECTANGULAR: Perfecta para crear tu propio huerto urbano o jardín sin necesidad de disponer de demasiado espacio libre en el exterior.
 - ✅MEDIDAS: 60x30x29cm(LxAnxAl)
 - ✅AGUJEROS DE DRENAJE: Para el agua de riego.
-- ✅JARDINERA RECTANGULAR: Perfecta para crear tu propio huerto urbano o jardín sin necesidad de disponer de demasiado espacio libre en el exterior.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084C17YSN/?tag=tolees-21)

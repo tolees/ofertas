@@ -28,9 +28,9 @@ Está [Kappa Zoshim 4 Betis Camiseta  Hombre  Azul Marino  L](https://www.amazon
 
 ℹ️:
 
+- Óptima para mostrar apoyo a tu equipo favorito
+- Proporciona comodidad y libertad de movimiento
 - Presenta logo en los lados del pecho
 - Tipo de producto: camiseta de manga corta
-- Proporciona comodidad y libertad de movimiento
-- Óptima para mostrar apoyo a tu equipo favorito
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DJQR3K1/?tag=tolees-21)
