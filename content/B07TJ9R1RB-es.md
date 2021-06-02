@@ -28,8 +28,8 @@ Está [Levi s XX Std II Khakis  Beige  True Chino Shady GD Ccu B 0011   38W / 32
 
 ℹ️:
 
-- Entallado gradual hasta el tobillo
 - Pantalones chinos de corte estándar
+- Entallado gradual hasta el tobillo
 - Tacto suave y agradable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TJ9R1RB/?tag=tolees-21)

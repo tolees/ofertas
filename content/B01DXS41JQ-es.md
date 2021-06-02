@@ -28,10 +28,10 @@ Está [Exacompta 56422E - Bolsa de 5 fundas en forma de sobre y cierre con velcr
 
 ℹ️:
 
-- Apertura superior y cierre con velcro
-- Grosor 20/100e
 - Polipropileno liso
-- Color: Azul
 - Bolsa de 5 fundas A4 Azules en forma de sobre y cierre con velcro
+- Color: Azul
+- Grosor 20/100e
+- Apertura superior y cierre con velcro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DXS41JQ/?tag=tolees-21)

@@ -28,7 +28,7 @@ Ahora mismo tienes [Columbia Vitesse Outdry   Zapatillas de Deporte Hombre  Grey
 
 🔎:
 
-- Goma de tracción Omni-Grip que no deja marcas
 - Tipo de tela: 100% poliéster
+- Goma de tracción Omni-Grip que no deja marcas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RFNKHPH/?tag=tolees-21)
