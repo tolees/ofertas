@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Levis 144ndl Regular Cut Sprtwr Logo 2p Calcetines  M
 
 🔎:
 
-- Detalle con el logo de Levis
-- Algodón suave
 - Planta suave y cómoda
+- Algodón suave
+- Detalle con el logo de Levis
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VRDHRCD/?tag=tolees-21)

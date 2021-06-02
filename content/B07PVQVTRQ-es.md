@@ -28,10 +28,10 @@ Ahora mismo tienes [Asics Gel-Lyte Runner  Zapatillas de Entrenamiento Hombre  M
 
 🔎:
 
-- De color negro
-- Material: Tejido
 - Diseño: Asics
+- De color negro
 - Artículo: 1191A073
 - Estación: primavera / verano
+- Material: Tejido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PVQVTRQ/?tag=tolees-21)

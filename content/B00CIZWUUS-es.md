@@ -28,8 +28,8 @@ Tienes [Tatay cestillo Metal Cromado  con 2 cestas de Diferentes capacidades  Co
 
 ℹ️:
 
-- No precisa instalación. Fácil mantenimiento
 - Cestillo métalico para colgar en grifo, cromado, 100% inoxidable, con 2 prácticas cestas con diferente capacidad, perfecto para optimar espacio en la ducha
+- No precisa instalación. Fácil mantenimiento
 - Dos cestas y prácticos ganchos en la parte frontal, para colgar esponja o guantes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CIZWUUS/?tag=tolees-21)

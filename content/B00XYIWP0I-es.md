@@ -28,10 +28,10 @@ Tienes [Antimosquitos ISDIN - Isdin Anti Mosquitos Pediatrics - Repelente de Mos
 
 ℹ️:
 
+- El repelente de mosquitos que combina de manera única eficacia, seguridad y cosmeticidad; no oleoso ni pegajoso en la piel
 - Seguridad y eficacia contra la prevención de picaduras de mosquitos para los más pequeños de la casa
 - Fórmula sin alcohol. Olor agradable. Apto para piel sensible.
-- La perfecta solución ante la pregunta de como ahuyentar mosquitos de manera segura y eficaz
 - Ahuyentador de mosquitos especialmente indicado para los viajes a zonas tropicales y subtropicales, así como en zonas con plagas de mosquitos.
-- El repelente de mosquitos que combina de manera única eficacia, seguridad y cosmeticidad; no oleoso ni pegajoso en la piel
+- La perfecta solución ante la pregunta de como ahuyentar mosquitos de manera segura y eficaz
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XYIWP0I/?tag=tolees-21)
