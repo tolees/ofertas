@@ -28,8 +28,8 @@ Ahora mismo tienes [Wolfcraft 7496010 - Broca espiral HSS  laminado por rodillo 
 
 🔎:
 
-- Marca: Wolfcraft
 - Resistente
+- Marca: Wolfcraft
 - Welcome to wolfcraft, the leading manufacturer of innovative tools and trusted supplier of power tool accessories
 - Producto en color plata
 

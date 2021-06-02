@@ -28,8 +28,8 @@ Ahora mismo tienes [Adidas Grand Court Base  Zapatillas Hombre  Ftwbla Negbás A
 
 🔎:
 
+- La parte superior de cuero sintético
 - Corte regular
 - Cordones de zapatos
-- La parte superior de cuero sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S62ZVPM/?tag=tolees-21)

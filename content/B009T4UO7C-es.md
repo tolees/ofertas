@@ -28,13 +28,13 @@ Ahora mismo tienes [Mangaroca Batida de Coco Liqueur - 1000 ml](https://www.amaz
 
 🔎:
 
-- Las botellas abiertas se guardan mejor en el refrigerador
 - Como servir: Serve at room temperature
-- Procedencia: Brazil
-- Debido a su consistencia natural, esta batida de côco no puede ser mantenida indefinidamente
 - Tipo de alcohol: Liquors
+- Procedencia: Brazil
+- Las botellas abiertas se guardan mejor en el refrigerador
+- Contenido de alcohol (alc/vol): 16.0 percent by volume
 - Perfecto como un regalo
 - La alegría de vivir brasileña y el puro placer, sobre hielo, como un exótico trago largo o un refinado cóctel
-- Contenido de alcohol (alc/vol): 16.0 percent by volume
+- Debido a su consistencia natural, esta batida de côco no puede ser mantenida indefinidamente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B009T4UO7C/?tag=tolees-21)
