@@ -28,10 +28,10 @@ Tienes [Beyerdynamic Xelento Remote  Plateado  Varios tamaños de almohadillas](
 
 🔎:
 
-- Peso: 7 g (sin cable).
-- Longitud del cable: 1.3 m (extraíble, estándar: MMCX); Conector: Mini Plug estéreo de 3,5 mm (1/8 "); Mini estéreo de 3,5 mm (1/8") 4 Pole enchufe; Conector Pin arreglo adoptado CTIA (1 izquierda/2. derecho/3. suelo/4 Mic).
-- Respuesta de frecuencia: 8 Hz – 48.000 Hz/Sensibilidad; (SPL): 110 dB (1 mW/500 Hz); Impedancia: 16 Ω; Distorsión Ratio: 0,2% o menos; entrada permisible: 100 mW
-- Tipo: dinámico/oído/Tipo sellado
 - Accesorios: 1.3 m cable recto (control remoto Attached auricular con micrófono y 3 botones incluido); 1.3 m cable recto; silicona (XS, S, M, L, XL, XXL, 3 x l)/auricular; Comply TM (S, M, L); clip de cable; rejilla protectora dedicada carrying case; Replacement
+- Tipo: dinámico/oído/Tipo sellado
+- Longitud del cable: 1.3 m (extraíble, estándar: MMCX); Conector: Mini Plug estéreo de 3,5 mm (1/8 "); Mini estéreo de 3,5 mm (1/8") 4 Pole enchufe; Conector Pin arreglo adoptado CTIA (1 izquierda/2. derecho/3. suelo/4 Mic).
+- Peso: 7 g (sin cable).
+- Respuesta de frecuencia: 8 Hz – 48.000 Hz/Sensibilidad; (SPL): 110 dB (1 mW/500 Hz); Impedancia: 16 Ω; Distorsión Ratio: 0,2% o menos; entrada permisible: 100 mW
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071CTM4ZW/?tag=tolees-21)

@@ -28,7 +28,7 @@ Está [Oxypas oxyv aj4201nav Oxyva - Slip On SRC cómodo zuecos  41/42 EU  Blue]
 
 ℹ️:
 
-- Calzado de quirófano.
 - Conservación.
+- Calzado de quirófano.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01D6L1KCQ/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Xiaomi NUN4056GL - Mi Smart Scale 2 Blanco](https://www.a
 
 🔎:
 
-- Las balanzas Xiaomi son adecuadas para dispositivos iOS y Android.
 - Registra hasta 16 perfiles
-- Carcasa de ABS con superficie de vidrio
 - Prueba de equilibrio
+- Las balanzas Xiaomi son adecuadas para dispositivos iOS y Android.
 - Mide solo el peso corporal, no la grasa corporal
+- Carcasa de ABS con superficie de vidrio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VLN38BL/?tag=tolees-21)

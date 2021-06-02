@@ -28,9 +28,9 @@ Tienes [Compactor Organizador  Negro](https://www.amazon.es/dp/B00G69KBJO/?tag=t
 
 🔎:
 
-- Práctico
 - Plástico negro
-- Decorativo
 - Ordena tus joyas
+- Decorativo
+- Práctico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00G69KBJO/?tag=tolees-21)

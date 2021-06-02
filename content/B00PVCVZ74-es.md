@@ -28,10 +28,10 @@ Tienes [D-Link DWA-582 – Tarjeta de Red Interna  WiFi AC1200 PCI-Express  Ante
 
 🔎:
 
-- Compatible con todos los equipos WiFi
 - Tipo de conectividad: WLAN
+- Compatible con todos los equipos WiFi
 - Dispositivos compatibles: Samsung Galaxy S3
-- Fácil configuración con el botón WPS
 - Conectividad Dual Band, 2.4/5 GHz
+- Fácil configuración con el botón WPS
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00PVCVZ74/?tag=tolees-21)

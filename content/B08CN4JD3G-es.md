@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Lash Straight Fit Camiseta de Manga Corta  Lox
 
 🔎:
 
-- Cuello redondo de canalé
 - Etiqueta de G-Star RAW Originals tejida en la costura lateral
-- Bajo redondeado
-- Manga corta recta insertada con vuelta fija
 - Estampado de G-Star RAW de alta densidad en el pecho
+- Manga corta recta insertada con vuelta fija
+- Bajo redondeado
+- Cuello redondo de canalé
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CN4JD3G/?tag=tolees-21)

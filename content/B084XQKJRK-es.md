@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Ghost of Tsushima al 45.72 % de rebaja'
-date: 2021-06-01 09:10:51
+date: 2021-06-02 18:52:06
 image: 'https://m.media-amazon.com/images/I/51tWspsKksL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B084XQKJRK/?tag=tolees-21'
 descuento: '45.72'
-average: '50.4399999999999'
+average: '50.1859183673468'
 ---
 
 Tienes [Sony - Ghost of Tsushima](https://www.amazon.es/dp/B084XQKJRK/?tag=tolees-21) con precio final de  37.99 EUR (original: 69.99 EUR) (45.72 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Sony - Ghost of Tsushima](https://www.amazon.es/dp/B084XQKJRK/?tag=tolee
 
 🔎:
 
-- Explora regiones recreadas meticulosamente que muestran la diversidad de la vida en la enorme isla desde campiñas sinuosas y plácidos santuarios hasta bosques inmemoriales, aldeas e inhóspitas montañas
 - Encuentra la paz en los tranquilos momentos de harmonía y solaz que compartirás con la gente a la que ayudes por el camino
-- Cuando los mongoles derrotan con facilidad a las huestes samuráis, el mundo de Jin queda roto en pedazos, por lo que tendrá que afrontar la decisión más difícil de su vida honrar la tradición y las costumbres de su educación samurái presentando una batalla que no puede ganar o desviarse del camino samurái y proteger la isla y a sus gentes por cualquier medio necesario; en su empresa para recuperar Tsushima
-- Aventúrate más allá del campo de batalla para explorar un Japón feudal
 - En este mundo abierto de acción y aventura, recorrerás vastos campos y grandes extensiones de terreno en los que encontrarás personajes complejos, descubrirás antiguos monumentos y disfrutarás de la belleza oculta de Tsushima
+- Cuando los mongoles derrotan con facilidad a las huestes samuráis, el mundo de Jin queda roto en pedazos, por lo que tendrá que afrontar la decisión más difícil de su vida honrar la tradición y las costumbres de su educación samurái presentando una batalla que no puede ganar o desviarse del camino samurái y proteger la isla y a sus gentes por cualquier medio necesario; en su empresa para recuperar Tsushima
+- Explora regiones recreadas meticulosamente que muestran la diversidad de la vida en la enorme isla desde campiñas sinuosas y plácidos santuarios hasta bosques inmemoriales, aldeas e inhóspitas montañas
+- Aventúrate más allá del campo de batalla para explorar un Japón feudal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084XQKJRK/?tag=tolees-21)
