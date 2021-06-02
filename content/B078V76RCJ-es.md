@@ -28,10 +28,10 @@ Está [RockJamSoporte de guitarra vertical universal para todas las guitarras  S
 
 ℹ️:
 
-- Adecuada para asegurar la correcta colocación de su guitarra
-- Mecanismo de bloqueo frontal automático
 - Compatible con todas las guitarras y cabezales con tacones individuales o desiguales
 - Soporte de pared para guitarra
 - Material antideslizante resistente a los arañazos
+- Mecanismo de bloqueo frontal automático
+- Adecuada para asegurar la correcta colocación de su guitarra
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078V76RCJ/?tag=tolees-21)
