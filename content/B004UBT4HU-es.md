@@ -28,7 +28,7 @@ Tienes [PIKOLINOS Sandalia de Piel Tarifa 06J](https://www.amazon.es/dp/B004UBT4
 
 🔎:
 
-- Muy versátil.
 - Suela flexible.
+- Muy versátil.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004UBT4HU/?tag=tolees-21)
