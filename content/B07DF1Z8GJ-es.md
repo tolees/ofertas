@@ -28,7 +28,7 @@ En este momento está [Only Onlqueen L/s Long Cardigan Knt Noos Chaqueta Punto  
 
 🔎:
 
-- De punto
 - Cárdigan
+- De punto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DF1Z8GJ/?tag=tolees-21)
