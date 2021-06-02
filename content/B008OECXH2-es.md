@@ -28,10 +28,10 @@ Ahora mismo tienes [PETRUS 44793 - Grapadora para oficina gama Clásica modelo 2
 
 🔎:
 
-- Para usar con grapas petrus 22/6 y 24/6
-- Cargador doble guía
-- Grapado preciso gracias a la tecnología de impacto directo
 - Muy fácil cambio de grapado abierto a cerrado, gracias al sencillo movimiento de la sufridera
+- Grapado preciso gracias a la tecnología de impacto directo
+- Cargador doble guía
 - Grapa hasta 30 hojas de papel (80 g/m²)
+- Para usar con grapas petrus 22/6 y 24/6
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008OECXH2/?tag=tolees-21)

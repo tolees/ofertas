@@ -29,8 +29,8 @@ En este momento está [Columbia Santiam 3 Strap  Zapatillas Hombre  Brown  Cordo
 🔎:
 
 - Material de la suela: Caucho
-- Material exterior: Cuero
 - Revestimiento: Sintético
 - Cierre: Velcro
+- Material exterior: Cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073RNVXYG/?tag=tolees-21)

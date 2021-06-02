@@ -28,9 +28,9 @@ Está [NIKE Roma LK NK BRT Kit AW Football Set  Unisex niños  Pale Ivory/Fossil
 
 ℹ️:
 
+- Pantalón corto con cintura elástica para un ajuste ceñido
 - Ajuste estándar para un toque cómodo
 - Detalles para mostrar orgullo por el equipo
-- Pantalón corto con cintura elástica para un ajuste ceñido
 - Tecnología Nike Dri-FIT para ofrecer transpirabilidad y comodidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B7Q1BJP/?tag=tolees-21)
