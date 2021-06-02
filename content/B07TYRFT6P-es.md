@@ -28,10 +28,10 @@ Está [Funko- Figura Coleccionable  Color Blue  43352 ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Measures approx 4.25" tall
-- Oversized head rotates
-- Size: Standard
 - Officially licensed
+- Measures approx 4.25" tall
+- Size: Standard
 - Vinyl figure stands by itself
+- Oversized head rotates
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TYRFT6P/?tag=tolees-21)
