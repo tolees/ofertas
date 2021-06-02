@@ -28,8 +28,8 @@ Tienes [Levi s Graphic Sport Cappuccio  Housemark Hoodie White  XXS Donna](https
 
 🔎:
 
-- Puños acanalados
-- Estilo deportivo y comodidad informal
 - Bolsillo tipo canguro
+- Estilo deportivo y comodidad informal
+- Puños acanalados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CHV9KWZ/?tag=tolees-21)

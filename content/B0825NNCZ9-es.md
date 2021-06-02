@@ -28,11 +28,11 @@ Tienes [GEOX D NEBULA E BLACK/GUN Women s Trainers Low-Top Trainers size 36 EU ]
 
 🔎:
 
-- Tipo de talla: Los zapatos Geox son holgados
-- Material exterior: Sintético
-- Tipo de tacón: Plano
 - Altura del tacón: 3 centímetros
+- Tipo de talla: Los zapatos Geox son holgados
+- Tipo de tacón: Plano
 - Revestimiento: Sintético
+- Material exterior: Sintético
 - Material de la suela: Sintético
 - Cierre: Elástico
 - Anchura del zapato: Normal
