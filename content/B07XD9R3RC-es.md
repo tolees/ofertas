@@ -28,10 +28,10 @@ En este momento está [Master Lock M5EURDSTS Candado de resistencia Cubierta del
 
 🔎:
 
+- Especificaciones: Con cuerpo del candado de 51 mm de ancho y arco de 10 mm de diámetro y 25 mm de largo, con 4 llaves
 - Diseno resistente: el candado cuenta con una cerradura con doble cojinete de bolas para ofrecer una máxima resistencia al uso de palancas y perfil cubierto y sellados en el arco para mayor protección a la intemperie
 - Uso de alta seguridad: Cilindro de 4 pines para mayor resistencia a robos y arco octogonal cromado de carburo de boro Tough-Cut para ofrecer una excelente resistencia al óxido
-- Óptima proteccion: núcleo de acero laminado con cubierta del cuerpo y placas superior e inferior de acero inoxidable para ofrecer una excepcional resistencia a las inclemencias del tiempo
-- Especificaciones: Con cuerpo del candado de 51 mm de ancho y arco de 10 mm de diámetro y 25 mm de largo, con 4 llaves
 - Uso del candado: óptimo para proteger barcos y puertas en un entorno naval
+- Óptima proteccion: núcleo de acero laminado con cubierta del cuerpo y placas superior e inferior de acero inoxidable para ofrecer una excepcional resistencia a las inclemencias del tiempo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XD9R3RC/?tag=tolees-21)

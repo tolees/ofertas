@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional GWS 7-115 E - Amolado al 45.22 % de rebaja'
-date: 2021-05-24 07:26:13
+date: 2021-06-02 19:10:35
 image: 'https://m.media-amazon.com/images/I/41ou2SM5vIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.es/dp/B018YPAI9A/?tag=tolees-21'
 descuento: '45.22'
-average: '61.8500000000001'
+average: '61.5266666666668'
 ---
 
 Tienes [Bosch Professional GWS 7-115 E - Amoladora angular  720 W  2800 – 11000 rpm  Ø Disco 115 mm  protección rearranque  en caja ](https://www.amazon.es/dp/B018YPAI9A/?tag=tolees-21) con precio final de  57.0 EUR (original: 104.06 EUR) (45.22 %  de rebaja) aqui!
@@ -28,12 +28,12 @@ Tienes [Bosch Professional GWS 7-115 E - Amoladora angular  720 W  2800 – 1100
 
 🔎:
 
-- Preselección del número de revoluciones en 6 niveles para trabajar con diferentes materiales
 - Perímetro de empuñadura reducido (176 mm), comparado con otras amoladoras angulares de la misma categoría de potencía, que proporciona una gran comodidad en el trabajo
-- Cabezal plano para que el trabajo resulte cómodo incluso en zonas estrechas
-- Perímetro de empuñadura reducido con 720 w de potencía
 - Motor de 720 w de potencía con un peso de solo 1, 9 kg, para trabajar durante periodos prolongados
+- Perímetro de empuñadura reducido con 720 w de potencía
 - Incluye miniamoladora gws 7-115 e, cubierta protectora, brida de fijación, empuñadura adicional, llave de dos agujeros, tuerca tensora
+- Preselección del número de revoluciones en 6 niveles para trabajar con diferentes materiales
+- Cabezal plano para que el trabajo resulte cómodo incluso en zonas estrechas
 - Protección contra rearranque evita la puesta en marcha automática de la herramienta tras una interrupción de corriente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B018YPAI9A/?tag=tolees-21)

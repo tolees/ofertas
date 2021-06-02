@@ -28,10 +28,10 @@ En este momento está [Marc Ecko Reloj Análogo clásico para Unisex de Cuarzo c
 
 🔎:
 
-- Tipo de movimiento: Cuarzo
-- Diámetro de la caja para relojes de caja redonda: 39 mm
 - Diseño moderno
 - Resistencia a la presión del agua: 3 bars
+- Tipo de movimiento: Cuarzo
 - Anchura de la correa: 22 mm
+- Diámetro de la caja para relojes de caja redonda: 39 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003U3VWSI/?tag=tolees-21)
