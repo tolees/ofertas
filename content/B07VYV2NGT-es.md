@@ -28,10 +28,10 @@ Ahora mismo tienes [Monix Copper - Set de 2 Sartenes Efecto Cobre  20-24 cm  Alu
 
 🔎:
 
-- Puede usarse en todo tipo de fuegos incluido inducción y su sistema full inducción sin agujeros, permite una buena distribución y aprovechamiento máximo de la energía a la hora de cocinar
+- Diámetro base: 20 cm= 15.4 cm/ 24 cm= 18.5 cm
+- Antiadherente tricapa quantanium con partículas de titanio: gran resistencia
 - Fabricadas en aluminio forjado de la gran calidad de 4 mm de espesor este lote de sartenes 20 24 cm con efecto exterior en estilo cobre metalizado distribuye el calor de forma regular
 - Mango remachado fabricado en acero inoxidable que asegura ausencia total de movimientos indeseados para una seguridad total que favorece el agarre, asegurándote comodidad y evitando quemaduras
-- Antiadherente tricapa quantanium con partículas de titanio: gran resistencia
-- Diámetro base: 20 cm= 15.4 cm/ 24 cm= 18.5 cm
+- Puede usarse en todo tipo de fuegos incluido inducción y su sistema full inducción sin agujeros, permite una buena distribución y aprovechamiento máximo de la energía a la hora de cocinar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VYV2NGT/?tag=tolees-21)

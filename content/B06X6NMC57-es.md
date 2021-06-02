@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - City Life Playset Fiesta en  al 42.26 % de descuento'
-date: 2021-06-01 07:38:54
+date: 2021-06-02 14:13:21
 image: 'https://m.media-amazon.com/images/I/51ylnMUJ3zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B06X6NMC57/?tag=tolees-21'
 descuento: '42.26'
-average: '30.8760836501903'
+average: '30.8415151515153'
 ---
 
 Ahora mismo tienes [Playmobil - City Life Playset Fiesta en el Jardín  Multicolor  9272 ](https://www.amazon.es/dp/B06X6NMC57/?tag=tolees-21) a 21.75 EUR (original: 37.67 EUR) (42.26 %  de descuento) en el siguiente enlace!
