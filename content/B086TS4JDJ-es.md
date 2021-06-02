@@ -28,9 +28,9 @@ Tienes [GothicBride Fiambrera Infantil con 3 Compartimentos y Cubiertos  Lunch B
 
 🔎:
 
-- 【Instrucciones de uso】 Microondas, congelador, apto para lavavajillas. Temperatura de funcionamiento -20 ° C a 110 ° C. Se recomienda no superar los 3 minutos en microondas.
-- 【Dimensiones y capacidad】 Las dimensiones son 22.5 * 15.5 * 5.5cm, la capacidad es 1000ml. Es portátil y fácil de transportar. Perfecto para la oficina, la escuela o donde quiera que vaya.
 - 【Biodegradable】 La caja bento está hecha de fibra de trigo ecológica y degradable. No huele, es ecológico y degradable. Saludable para niños y adultos.
+- 【Dimensiones y capacidad】 Las dimensiones son 22.5 * 15.5 * 5.5cm, la capacidad es 1000ml. Es portátil y fácil de transportar. Perfecto para la oficina, la escuela o donde quiera que vaya.
+- 【Instrucciones de uso】 Microondas, congelador, apto para lavavajillas. Temperatura de funcionamiento -20 ° C a 110 ° C. Se recomienda no superar los 3 minutos en microondas.
 - 【Servicio postventa】 La GothicBride ofrece a los clientes productos y servicios de alta calidad. Si tiene alguna pregunta sobre nuestro producto, no dude en contactarnos.
 - 【Diseño a prueba de fugas】 Hay 4 dispositivos de bloqueo para extender el tiempo de almacenamiento. Ideal para preparar, almacenar, organizar y organizar alimentos.
 

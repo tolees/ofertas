@@ -28,10 +28,10 @@ Tienes [OtterBox Clearly Protected Skin - Funda de Protección Ultra Fina y Flex
 
 🔎:
 
-- Compatible con alpha glass: compatible con el protector de pantalla alpha glass de otterbox para una protección de 360°.
-- Ultrafina: funda ligera prácticamente invisible
-- Ajuste de precisión: diseño de una pieza que envuelve tu teléfono para proporcionarle un ajuste óptimo
-- Protege tu pantalla: el borde biselado pronunciado ayuda a proteger la pantalla táctil
 - Resistente a rayos uv: material transparente que no se amarillea ni pierde brillo con el paso del tiempo
+- Ajuste de precisión: diseño de una pieza que envuelve tu teléfono para proporcionarle un ajuste óptimo
+- Compatible con alpha glass: compatible con el protector de pantalla alpha glass de otterbox para una protección de 360°.
+- Protege tu pantalla: el borde biselado pronunciado ayuda a proteger la pantalla táctil
+- Ultrafina: funda ligera prácticamente invisible
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V1PCW19/?tag=tolees-21)

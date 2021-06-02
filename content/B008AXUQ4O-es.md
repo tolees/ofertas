@@ -30,7 +30,7 @@ Tienes [Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxi
 
 - El diseño de las cajas fósiles es siempre diferente y cambia con cada temporada
 - Tamaño de la caja: 44 mm. Grosor de la caja: 11 mm
-- Movimiento: cronógrafo de cuarzo. Material de la correa: acero inoxidable
 - Ancho de la correa: 22 mm. Circunferencia de la correa: 200 +/- 5 mm
+- Movimiento: cronógrafo de cuarzo. Material de la correa: acero inoxidable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B008AXUQ4O/?tag=tolees-21)

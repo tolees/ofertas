@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Pop Doctor Who Kerblam Man Vinyl Figure al 64.43 % de descuento'
-date: 2020-04-09 11:13:25
-image: 'https://m.media-amazon.com/images/I/31I0hxoB8VL._SL400_.jpg'
+title: 'Funko- Figura Coleccionable  Color Blue  al 38.06 % de descuento'
+date: 2021-06-02 15:52:39
+image: 'https://m.media-amazon.com/images/I/31I0hxoB8VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07TYRFT6P-es Pop Doctor Who Kerblam Man Vinyl Figure'
+slug: 'B07TYRFT6P-es Funko- Figura Coleccionable Color Blue 43352'
 sku: 'B07TYRFT6P-es'
-tags: [  ]
-actualPrice: 4.34 EUR
+tags: [ 'Coleccionables','Juguetes','Juguetes y juegos','Merchandising y estatuas y bustos','Muñecos cabezones','funko', ]
+actualPrice: 8.09 EUR
 currency: EUR
-price: 4.34
-comparePrice: 12.2 EUR
-prodname: 'Pop Doctor Who Kerblam Man Vinyl Figure'
+price: 8.09
+comparePrice: 13.06 EUR
+prodname: 'Funko- Figura Coleccionable  Color Blue  43352 '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07TYRFT6P/?tag=tolees-21'
-descuento: '64.43'
-average: '6.615'
+descuento: '38.06'
+average: '6.91'
 ---
 
-Está [Pop Doctor Who Kerblam Man Vinyl Figure](https://www.amazon.es/dp/B07TYRFT6P/?tag=tolees-21) con 64.43 de descuento por 4.34 EUR (original: 12.2 EUR) en el siguiente enlace!
+Está [Funko- Figura Coleccionable  Color Blue  43352 ](https://www.amazon.es/dp/B07TYRFT6P/?tag=tolees-21) con 38.06 de descuento por 8.09 EUR (original: 13.06 EUR) en el siguiente enlace!
 
-[![Pop Doctor Who Kerblam Man Vinyl Figure](https://m.media-amazon.com/images/I/31I0hxoB8VL._SL400_.jpg)](https://www.amazon.es/dp/B07TYRFT6P/?tag=tolees-21)
+[![Funko- Figura Coleccionable  Color Blue ](https://m.media-amazon.com/images/I/31I0hxoB8VL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07TYRFT6P/?tag=tolees-21)
 
 ℹ️:
 
+- Measures approx 4.25" tall
+- Oversized head rotates
+- Size: Standard
+- Officially licensed
+- Vinyl figure stands by itself
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TYRFT6P/?tag=tolees-21)
