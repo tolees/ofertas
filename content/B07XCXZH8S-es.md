@@ -28,10 +28,10 @@ En este momento está [Pioneer S3wireless SE-S3BT audífonos Bluetooth 5.0  Tipo
 
 🔎:
 
-- Acceso al asistente de voz con sólo pulsar un botón
 - La función multipunto permite conectar dos dispositivos simultáneamente (música/llamadas de uno de los dispositivos)
-- Control manos libres de la música y las llamadas con la tecla multifunción
+- Acceso al asistente de voz con sólo pulsar un botón
 - Batería de larga duración con hasta 25 horas de reproducción bluetooth y 4 horas de reproducción después de una carga rápida de 10 minutos
 - Diseño plegable para fácil itar el transporte
+- Control manos libres de la música y las llamadas con la tecla multifunción
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XCXZH8S/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [Hama 137239 base múltiple Interior 1 4 m 6 salidas AC Blanco - Bases m�
 ℹ️:
 
 - Contenido del paquete: 1 x Regleta "6+1".
-- Dispone de un interruptor principal bipolar iluminado. Ideal para bloques de red gracias a las diferencias entre cada enchufe. Insertos de enchufe de 90 grados.
-- Los ojales integrados permiten la fijación a la pared con tornillos. Indicador de protección contra sobretensiones y seguridad para niños.
 - Protección contra sobretensiones integrada para proteger los ordenadores y otros dispositivos eléctricos de sobretensiones y golpes indirectos.
+- Dispone de un interruptor principal bipolar iluminado. Ideal para bloques de red gracias a las diferencias entre cada enchufe. Insertos de enchufe de 90 grados.
 - Protege los dispositivos conectados contra la sobretensión causada, por ejemplo, por un disparo indirecto, conectar hasta 6 dispositivos individuales.
+- Los ojales integrados permiten la fijación a la pared con tornillos. Indicador de protección contra sobretensiones y seguridad para niños.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01KHD5GUS/?tag=tolees-21)

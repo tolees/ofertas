@@ -28,13 +28,13 @@ En este momento está [Timberland Bradstreet Leather Sensorflex  Botas Chukka Ho
 
 🔎:
 
-- Material exterior: Cuero
-- Anchura del zapato: Normal
 - Revestimiento: Tela
-- Composición: Cuero
 - Material de la suela: Caucho
+- Tipo de tacón: Plano
+- Anchura del zapato: Normal
 - Altura del tacón: 2 centímetros
 - Cierre: Cordones
-- Tipo de tacón: Plano
+- Material exterior: Cuero
+- Composición: Cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B015GZQ3QS/?tag=tolees-21)
