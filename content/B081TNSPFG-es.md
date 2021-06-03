@@ -28,10 +28,10 @@ Está [Leitz Caja para Guardar CDs  Verde  Gama Click & Store  60410054](https:/
 
 ℹ️:
 
-- Material resistente para un almacenamiento reutilizable, Portaetiquetas en la portada para indexar fácilmente el contenido
-- Mezcla y combina con otros productos de la gama WOW de Leitz, Alta calidad, Esquinas de metal reforzadas para un almacenamiento seguro, Superficie plastificada para una limpieza fácil
 - Caja de almacenamiento verde para CDs y otros objetos, Con capacidad aprox. para 30 cajas de CDs estándares, 60 cajas finas y 160 fundas de papel, Diseño moderno, Idónea para almacenar y organizar CDs o fotos en casa o en la oficina
-- Contenido: 1 x Leitz Click and Store Caja de Almacenaje para CD, Verde, WOW, dimensiones (LxAnxAl): 14,3 x 13,6 x 35,2 cm, 60410054
+- Mezcla y combina con otros productos de la gama WOW de Leitz, Alta calidad, Esquinas de metal reforzadas para un almacenamiento seguro, Superficie plastificada para una limpieza fácil
 - Montaje y desmontaje sencillo gracias al mecanismo de botón, Se pliega fácilmente para reducir el espacio de almacenamiento cuando no se usa
+- Contenido: 1 x Leitz Click and Store Caja de Almacenaje para CD, Verde, WOW, dimensiones (LxAnxAl): 14,3 x 13,6 x 35,2 cm, 60410054
+- Material resistente para un almacenamiento reutilizable, Portaetiquetas en la portada para indexar fácilmente el contenido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081TNSPFG/?tag=tolees-21)

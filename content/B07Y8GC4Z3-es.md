@@ -28,10 +28,10 @@ En este momento está [GIOSEPPO SAVOCA  Zapatillas sin Cordones Mujer  Beige  Be
 
 🔎:
 
-- Temporada Primavera-Verano 2020
 - Cuña de 5 cm
 - Zapatillas con corte abierto en serraje con textura
-- Sneakers para mujer Gioseppo
 - Mix de materiales
+- Sneakers para mujer Gioseppo
+- Temporada Primavera-Verano 2020
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y8GC4Z3/?tag=tolees-21)
