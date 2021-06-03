@@ -29,9 +29,9 @@ En este momento está [PUMA Deck Backpack II Mochilla  Unisex Adulto  Black  OSF
 🔎:
 
 - Correas acolchadas para los hombros con malla transpirable, lazo reflectante con el logotipo del PUMA y línea de costura
-- Abertura con cremallera en el compartimento exterior
 - Asa de transporte de cincha
-- Panel del respaldo acolchado con detalle de malla transpirable
 - Abertura con cremallera de doble cursor para el compartimento principal
+- Panel del respaldo acolchado con detalle de malla transpirable
+- Abertura con cremallera en el compartimento exterior
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081RTTTQ3/?tag=tolees-21)

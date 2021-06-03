@@ -28,10 +28,10 @@ Tienes [Trust Auriculares para juegos Ziva Over-Ear con micrófono retráctil  n
 
 ℹ️:
 
-- Funciona con todas las PC y portátiles, cable de 1,8 m. No apto para teléfonos
 - Diadema ajustable y orejeras suaves
+- Micrófono retráctil sensible
 - Ideal para aplicaciones de juegos, música y chat en línea
 - Tapa de control de volumen en la oreja
-- Micrófono retráctil sensible
+- Funciona con todas las PC y portátiles, cable de 1,8 m. No apto para teléfonos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B071LN8RC5/?tag=tolees-21)

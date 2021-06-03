@@ -28,8 +28,8 @@ Tienes [Maybelline New York Lápiz de ojos efecto tatuaje waterproof Tattoo Line
 
 ℹ️:
 
-- Aplica con su aplicador automático donde desees; si lo necesitas, Tattoo Liner Smokey viene con un sacapuntas incorporado dentro del extremo de la esponja difuminadora
 - Lápiz de ojos efecto tatuaje semi-permanente; acabado Smokey  
 - Eyeliner Smokey: hasta 36 horas en solo 2 pasos.  
+- Aplica con su aplicador automático donde desees; si lo necesitas, Tattoo Liner Smokey viene con un sacapuntas incorporado dentro del extremo de la esponja difuminadora
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08X5BSKXS/?tag=tolees-21)

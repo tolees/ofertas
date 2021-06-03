@@ -28,9 +28,9 @@ Ahora mismo tienes [Umbra 330750-040 - Accesorio para cama  740 ml  color multic
 
 🔎:
 
-- Cuenta con soporte para estropajo
 - Tiene una capacidad de 740 ml
-- Bomba de jabón de cerámica mate
 - Viene con un estropajo
+- Cuenta con soporte para estropajo
+- Bomba de jabón de cerámica mate
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0014IDI2Y/?tag=tolees-21)

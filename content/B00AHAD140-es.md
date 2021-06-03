@@ -28,10 +28,10 @@ Tienes [Exacompta 918412B - Archivador de palanca polipropileno  A4  Lomo 80mm  
 
 ℹ️:
 
-- Formato exterior: 320 x 290 mm, respaldo de 80 mm, 1 pieza, color azul claro.
-- Con agujero de agarre y borde inferior reforzado con metal para evitar el desgaste.
 - Acabado de primera calidad. Los colores sirven para diferentes áreas de organización.
-- Tapa de polipropileno resistente. Interior impreso con papel.
+- Con agujero de agarre y borde inferior reforzado con metal para evitar el desgaste.
 - Mecanismo de palanca de ajuste preciso, pinza para escribir, bolsillo transparente para etiquetas intercambiables (se puede escribir por ambos lados).
+- Tapa de polipropileno resistente. Interior impreso con papel.
+- Formato exterior: 320 x 290 mm, respaldo de 80 mm, 1 pieza, color azul claro.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AHAD140/?tag=tolees-21)
