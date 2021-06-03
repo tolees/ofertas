@@ -28,8 +28,8 @@ Ahora mismo tienes [Makita D-19180 - Set de demolición SDS-PLUS + brocas](https
 
 🔎:
 
+- Unidades: 1
 - Diámetro: 5-6-8-10-12-14 mm
 - Descripción: Estándar
-- Unidades: 1
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002FTHJKI/?tag=tolees-21)

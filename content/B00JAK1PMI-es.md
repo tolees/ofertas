@@ -28,8 +28,8 @@ Está [Casio Reloj con Correa de Acero Inoxidable A168WA-1A](https://www.amazon.
 
 ℹ️:
 
-- Funciones como alarma diaria, calendario automático y formato de 12/24 horas
 - La duración de la batería es de 7 años
+- Funciones como alarma diaria, calendario automático y formato de 12/24 horas
 - Resistente al agua y soporta pequeñas salpicaduras de agua
 - Tiene una precisión de +/- 30 segundos por mes
 - Advertencia: este artículo es enviado por el fabricante sin embalaje (sin blister o caja)

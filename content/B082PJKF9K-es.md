@@ -28,8 +28,8 @@ Tienes [Nike Venture Runner  Zapatillas Hombre  Negro  Black/White/Black   40.5 
 
 🔎:
 
+- Cordones de Zapatos
 - Importado
 - Suave de Llevar
-- Cordones de Zapatos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082PJKF9K/?tag=tolees-21)
