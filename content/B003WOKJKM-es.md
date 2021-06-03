@@ -29,9 +29,9 @@ En este momento está [Remington Alpha Máquina de Cortar Pelo - Cortapelos con 
 🔎:
 
 - Indicador de Carga - El cortapelos Alpha cuenta con piloto indicador de carga
-- Cortapelos Inalámbrico - Uso con o sin cable, hasta 40 minutos de autonomía y tiempo de carga completa 16 horas
-- Motor Pro Power - Corte de calidad gracias al motor Pro Power
 - Cuchillas de Acero Avanzado - Máquina de cortar pelo con cuchillas de acero avanzado y autoafilables
+- Motor Pro Power - Corte de calidad gracias al motor Pro Power
+- Cortapelos Inalámbrico - Uso con o sin cable, hasta 40 minutos de autonomía y tiempo de carga completa 16 horas
 - 2 Peines - Incluye 2 peines con 15 longitudes predeterminadas de 1 a 42 mm, cepillo para la limpieza y botella de aceite
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003WOKJKM/?tag=tolees-21)

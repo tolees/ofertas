@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cofan 09519361 Cuña leña  0.011 V  180 m con un 37.23 % de descuento'
-date: 2021-05-29 16:25:21
+date: 2021-06-03 17:00:51
 image: 'https://m.media-amazon.com/images/I/31NypaSde6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cofan'
 buyurl: 'https://www.amazon.es/dp/B0183XCSMI/?tag=tolees-21'
 descuento: '37.23'
-average: '5.91'
+average: '5.9'
 ---
 
 En este momento está [Cofan 09519361 Cuña leña  0.011 V  180 mm](https://www.amazon.es/dp/B0183XCSMI/?tag=tolees-21) a 5.85 EUR (original: 9.32 EUR) (37.23 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Cofan 09519361 Cuña leña  0.011 V  180 mm](https://www.
 
 🔎:
 
-- Cuña metal leña 180 mm 1000gr
 - Cuñas metal "leña"
+- Cuña metal leña 180 mm 1000gr
 - Medida [ mm]: 180; peso [gr]: 1000
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0183XCSMI/?tag=tolees-21)

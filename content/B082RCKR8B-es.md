@@ -28,8 +28,8 @@ En este momento está [adidas JG TR Ask Tight Tights  Niñas  Black/White  3-4A]
 
 🔎:
 
-- Slim fit
 - Elastic waistband
+- Slim fit
 - Climalite anti-humidity fabric
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082RCKR8B/?tag=tolees-21)

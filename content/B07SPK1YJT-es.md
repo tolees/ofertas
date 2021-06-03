@@ -28,10 +28,10 @@ Está [Tamron SP 35Mm F1.4 Di Usd Canon](https://www.amazon.es/dp/B07SPK1YJT/?ta
 
 ℹ️:
 
-- Espectacular bokeh
 - Ideal para prácticamente todos los géneros fotográficos incluyendo fotoperiodismo, paisajes, deportes, callejera, fotos de bodas y fotografía casual
 - Af rápido y excepcionalmente exacto
 - Diseñado para formato completo
+- Espectacular bokeh
 - Revestimiento bbar-g2 de nueva generación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SPK1YJT/?tag=tolees-21)
