@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Clarks Un Aldric Step  Mocasines Hombre  al 47.97 % de descuento'
-date: 2021-06-02 06:37:16
+title: 'Clarks Un Aldric Step  Mocasines Hombre  al 46.98 % de descuento'
+date: 2021-06-03 07:26:43
 image: 'https://m.media-amazon.com/images/I/31XVLsEsv+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B07FR5SRF1-es Clarks Un Aldric Step Mocasines Hombre Negro Black...'
 sku: 'B07FR5SRF1-es'
 tags: [ 'Mocasines para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','clarks', ]
-actualPrice: 52.0 EUR
+actualPrice: 52.99 EUR
 currency: EUR
-price: 52.0
+price: 52.99
 comparePrice: 99.95 EUR
 prodname: 'Clarks Un Aldric Step  Mocasines Hombre  Negro  Black Leather-   40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07FR5SRF1/?tag=tolees-21'
-descuento: '47.97'
-average: '52.0'
+descuento: '46.98'
+average: '52.0275'
 ---
 
-Está [Clarks Un Aldric Step  Mocasines Hombre  Negro  Black Leather-   40 EU](https://www.amazon.es/dp/B07FR5SRF1/?tag=tolees-21) con 47.97 de descuento por 52.0 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [Clarks Un Aldric Step  Mocasines Hombre  Negro  Black Leather-   40 EU](https://www.amazon.es/dp/B07FR5SRF1/?tag=tolees-21) con 46.98 de descuento por 52.99 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![Clarks Un Aldric Step  Mocasines Hombre ](https://m.media-amazon.com/images/I/31XVLsEsv+L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07FR5SRF1/?tag=tolees-21)
 
 ℹ️:
 
 - Forro: Cuero
+- Montaje: G (estándar)
+- Suela: Pu
 - Superiores: Cuero
 - Fijación: Resbalón En
-- Suela: Pu
-- Montaje: G (estándar)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FR5SRF1/?tag=tolees-21)

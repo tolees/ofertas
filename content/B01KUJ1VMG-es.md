@@ -28,9 +28,9 @@ Está [Beurer EM49 - Electroestimulador digital  para aliviar el dolor muscular 
 
 ℹ️:
 
+- Acondicionamiento y regeneración: Entrenamiento dirigido y regeneración de los músculos mediante estimulación eléctrica, 32 aplicaciones preprogramadas y 3 personalizables
 - Masaje relajante: Con 20 programas de masajes para aliviar la tensión y dolor muscular, también cuenta con "Doctors Function" la cual guarda ajustes individuales de sus programas de terapia
 - Su pedido incluye: 1 aparato de corriente de estimulación EM 49, 2 cables de conexión, 4 electrodos de 45x45 mm, 1 clip para el cinturón, 3 pilas AAA, 1 manual de instrucciones
-- Acondicionamiento y regeneración: Entrenamiento dirigido y regeneración de los músculos mediante estimulación eléctrica, 32 aplicaciones preprogramadas y 3 personalizables
 - Fisioterapia en casa: Contribuye a la reducción del dolor sin fármacos, gracias a su sistéma de estimulación nerviosa eléctrica transcutánea, 12 aplicaciones preprogramadas y 3 personalizables
 - Estimulación eléctrica: Práctico dispositivo de estimulación eléctrica con 2 canales ajustables por separado y 4 electrodos adhesivos para TENS, EMS y masajes mediante electroestimulación
 

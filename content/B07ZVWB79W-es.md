@@ -28,10 +28,10 @@ Tienes [Levi s XX Chino Taper Short II Casual Shorts  Bunker Olive Light WT Micr
 
 🔎:
 
-- Designer: LEVIS
+- Color: Verdone
 - Material: algodón
+- Designer: LEVIS
 - Artículo: 17202
 - Estación: Primavera/Verano
-- Color: Verdone
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZVWB79W/?tag=tolees-21)

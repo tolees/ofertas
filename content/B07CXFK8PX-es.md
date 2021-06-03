@@ -28,8 +28,8 @@ En este momento está [Capcom - Monster Hunter Generations Ultimate - Edición E
 
 🔎:
 
-- Jugabilidad altamente customizable
-- ¡Juega en cualquier parte!
 - Profundo sistema de crafting
+- ¡Juega en cualquier parte!
+- Jugabilidad altamente customizable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CXFK8PX/?tag=tolees-21)
