@@ -28,10 +28,10 @@ Ahora mismo tienes [BERING Reloj Analógico Solar Collection para Hombre de Ener
 
 🔎:
 
+- Resistente al agua hasta 3 ATM/30 metros/98 pies | Resistencia general a la lluvia, salpicaduras, inmersión accidental y ducha; No apto para nadar o bañarse
 - Caja: acero inoxidable de grado médico (316l)/negro/33 mm de diámetro/8 mm de espesor
 - Correa: acero inoxidable de grado médico (316l)/negro/200 mm de largo/29 mm de ancho
 - El cristal de zafiro es resistente a golpes y rayaduras
 - Solar Watch Collection; Cualquier tipo de luz lo cargará y, cuando esté completamente cargado, funcionará durante 6-12 meses; Solar
-- Resistente al agua hasta 3 ATM/30 metros/98 pies | Resistencia general a la lluvia, salpicaduras, inmersión accidental y ducha; No apto para nadar o bañarse
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJ9YG7L/?tag=tolees-21)

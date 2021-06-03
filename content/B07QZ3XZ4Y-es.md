@@ -28,10 +28,10 @@ Tienes [Staedtler 18022 SN - Puntas de repuesto para Stylus Noris Digital  juego
 
 🔎:
 
-- Puntas de repuesto para Stylus Noris Digital 180 22.
-- Fácil sustitución de la punta desgastada o dañada con la herramienta
-- Accesorio original de alta calidad
 - Contenido del envío: 5 puntas de repuesto, 1 herramienta
+- Puntas de repuesto para Stylus Noris Digital 180 22.
+- Accesorio original de alta calidad
+- Fácil sustitución de la punta desgastada o dañada con la herramienta
 - Color de las puntas: negro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QZ3XZ4Y/?tag=tolees-21)

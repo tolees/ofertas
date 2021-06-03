@@ -29,7 +29,7 @@ En este momento está [Cofan 09519361 Cuña leña  0.011 V  180 mm](https://www.
 🔎:
 
 - Cuñas metal "leña"
-- Cuña metal leña 180 mm 1000gr
 - Medida [ mm]: 180; peso [gr]: 1000
+- Cuña metal leña 180 mm 1000gr
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0183XCSMI/?tag=tolees-21)
