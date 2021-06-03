@@ -28,10 +28,10 @@ Tienes [MasQueOca Ediciones - KeyFlower   color/modelo surtido](https://www.amaz
 
 ℹ️:
 
-- Premios y Nominaciones: Ganador Mejor Juego de Mesa en Portugal 2012 (Jogo do Ano Awards) / Nominado por la crítica Flemish Game Prize Mejor Juego de Mesa 2014 (Gouden Ludo Awards) / Ganador Mejor Juego del Año en Reino Unido 2013 (UK Games Expo Awards) / Finalista Mejor Juego de Mesa de Estrategia en Francia 2013 (Tric Trac Awards) / Nominado por la crítica BoardGameGeek Juego más Innovador del Año 2013 (Golden Geek Awards) / Nominado Mejor juego de Estrategia Internacional 2013 (International Gamers Awards) / Ganador por la crítica Spielfrieks Mejor Juego de Estrategia 2012 (Meeples Choice Awards) /
+- Recomendado para 2-6 jugadores, a partir de +12 años, duración media 90 minutos.
 - Mecánicas de Juego: Apuestas, Subastas,Colocación de trabajadores,Tablero modular,Construcción de rutas conectadas,
 - Editado en Español y Portugués. Diseñado por Sebastian Bleasdale, Richard Breese e ilustrado por Juliet Breese, Jo Breese, Gemma Tegelaers
-- Recomendado para 2-6 jugadores, a partir de +12 años, duración media 90 minutos.
 - Uno de los mejores juegos de estrategia competitivos que hay en la actualidad. No es un juego fácil, ni apto para todos los jugadores, pero para aquellos que busquen un juego complejo con infinidad de posibilidades y en el que cada partida sea distinta, encontrarán en Keyflower una auténtica joya.
+- Premios y Nominaciones: Ganador Mejor Juego de Mesa en Portugal 2012 (Jogo do Ano Awards) / Nominado por la crítica Flemish Game Prize Mejor Juego de Mesa 2014 (Gouden Ludo Awards) / Ganador Mejor Juego del Año en Reino Unido 2013 (UK Games Expo Awards) / Finalista Mejor Juego de Mesa de Estrategia en Francia 2013 (Tric Trac Awards) / Nominado por la crítica BoardGameGeek Juego más Innovador del Año 2013 (Golden Geek Awards) / Nominado Mejor juego de Estrategia Internacional 2013 (International Gamers Awards) / Ganador por la crítica Spielfrieks Mejor Juego de Estrategia 2012 (Meeples Choice Awards) /
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00UASSIVU/?tag=tolees-21)

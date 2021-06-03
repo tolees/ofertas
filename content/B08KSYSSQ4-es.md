@@ -29,7 +29,7 @@ Tienes [Nike MD Valiant  GS   Sneaker  Black/White  39 EU](https://www.amazon.es
 🔎:
 
 - La suela de goma es flexible y duradera
-- Suela de goma para una mayor tracción
 - Malla transpirable y parte superior sintética.
+- Suela de goma para una mayor tracción
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KSYSSQ4/?tag=tolees-21)

@@ -29,7 +29,7 @@ Tienes [L Oreal Professionnel Paris - L Oreal Professionnel Sérum Pro Longer Re
 ℹ️:
 
 - Crema renovadora de puntas formulada con una combinación de FILLER-A100 y aminoácido, especialmente indicado para cabello largo con puntas afinadas
-- Aplicar una pequeña cantidad sobre las puntas previamente secadas con una toalla
 - FILLER-A100 penetra en el núcleo de la fibra para engrosar las puntas y hacer resurgir los largos; el aminoácido aporta fuerza a la fibra, para una melena más larga y densa
+- Aplicar una pequeña cantidad sobre las puntas previamente secadas con una toalla
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085C7FJ5Y/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Diesel Reloj Analógico para Hombre de Cuarzo con Correa en Cuero DZ4495
 
 ℹ️:
 
-- Material de la correa: Piel
 - Ancho de la correa: 26 mm; Circunferencia de la correa: 200 +/-5 mm
-- Se presenta en caja de regalo Diesel
 - Grosor de la caja: 13 mm; Tamaño de la caja: 51 mm x 59 mm
 - Resistente al agua: 10 ATM
+- Se presenta en caja de regalo Diesel
+- Material de la correa: Piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07G65CFMD/?tag=tolees-21)
