@@ -28,9 +28,9 @@ Tienes [ELEVEN FORCE Risk Vikings  12081   multicolor   color/modelo surtido](ht
 
 🔎:
 
-- Incluye 5 ejercitos diferentes, uno para cada jugador
 - Duración 90 min
-- Incluye miniaturas de soldados, jinetes y naves vikingas
 - Juegos de mesa juegos de acción y reflejos
+- Incluye miniaturas de soldados, jinetes y naves vikingas
+- Incluye 5 ejercitos diferentes, uno para cada jugador
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SG4KZWY/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Speedo Slogan Print Cap Swimming Caps  Unisex-Adult  Fluro Y
 
 🔎:
 
-- Cómoda y fácil de ajustar
 - La silicona es un material duradero apto para su uso prolongado, y no tira del pelo ni hace que se enganche al gorro
 - Diseñado para sesiones de natación habituales
 - El gorro ayuda a proteger el pelo del cloro
+- Cómoda y fácil de ajustar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086DWX2MQ/?tag=tolees-21)
