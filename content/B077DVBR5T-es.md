@@ -28,11 +28,11 @@ Tienes [Trust Ziva - Teclado Multimedia  Layout español  Negro](https://www.ama
 
 ℹ️:
 
-- Escritura cómoda y silenciosa
-- Tipo de conectividad: alámbrico
-- 12 teclas de función multimedia (combinación en teclas "f")
 - Altura ajustable
 - Cable de 1.5 m
+- Escritura cómoda y silenciosa
+- 12 teclas de función multimedia (combinación en teclas "f")
 - Resistente a los vertidos
+- Tipo de conectividad: alámbrico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B077DVBR5T/?tag=tolees-21)

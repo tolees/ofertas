@@ -28,10 +28,10 @@ Tienes [Halls Miel y Limón - Caramelo duro - Caja con 20 Sticks de 32 g](https:
 
 🔎:
 
-- Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
-- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 - Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
 - Caramelos duros Halls con sabor a miel y limón; Con edulcorantes, sin azúcar
 - Conservar en lugar fresco y seco
+- Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
+- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F3FYR4S/?tag=tolees-21)

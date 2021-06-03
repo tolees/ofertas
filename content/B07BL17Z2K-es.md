@@ -28,11 +28,11 @@ Ahora mismo tienes [New Balance 997H Core  Zapatillas Hombre  Negro  Black Silve
 
 🔎:
 
+- Revestimiento: Tela
 - Composición: Empeine de malla/ante
 - Material de la suela: Sintético
-- Material exterior: Cuero
 - Tipo de tacón: Plano
 - Cierre: Cordones
-- Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BL17Z2K/?tag=tolees-21)

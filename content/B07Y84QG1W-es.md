@@ -28,8 +28,8 @@ Está [NIKE Downshifter 10  Zapatillas Mujer  Black/White-Anthracite  35.5 EU](h
 
 ℹ️:
 
-- Material transpirable
 - La suela de goma es flexible y duradera
 - Suela de goma para una mayor tracción
+- Material transpirable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Y84QG1W/?tag=tolees-21)

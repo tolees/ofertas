@@ -28,8 +28,8 @@ En este momento está [adidas Tastigo19 Shorts Men Pantaones Cortos de Fútbol  
 
 🔎:
 
-- Elastic waistband with lanyard
-- Climalite anti-humidity fabric
 - Regular fit
+- Climalite anti-humidity fabric
+- Elastic waistband with lanyard
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JZD278Y/?tag=tolees-21)

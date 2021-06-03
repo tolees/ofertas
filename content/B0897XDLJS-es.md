@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s O.G Batwing Polo  Forest Biome  M al 42.01 % de descuento'
-date: 2021-06-02 12:10:58
+date: 2021-06-03 12:52:36
 image: 'https://m.media-amazon.com/images/I/41NcE7+Qa4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

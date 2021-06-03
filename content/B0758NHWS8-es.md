@@ -28,11 +28,11 @@ En este momento está [SanDisk Ultra Tarjeta de memoria microSDXC con adaptador 
 
 🔎:
 
-- Compatible con microSDHC y microSDXC que admiten dispositivos host
-- Recomendado para smartphones y tabletas con sistema operativo Android y cámaras MIL
-- Velocidades de transferencia de hasta 100 MB/s
-- Incluye la categoría A1: para un rendimiento rápido de las aplicaciones
 - Clase 10 para la grabación y reproducción de vídeos en calidad Full HD
+- Velocidades de transferencia de hasta 100 MB/s
 - Se ha certificado que este producto cumple con los estándares de compatibilidad de Google. Chromebook y la insignia Works With Chromebook son marcas de Google LLC
+- Recomendado para smartphones y tabletas con sistema operativo Android y cámaras MIL
+- Incluye la categoría A1: para un rendimiento rápido de las aplicaciones
+- Compatible con microSDHC y microSDXC que admiten dispositivos host
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0758NHWS8/?tag=tolees-21)

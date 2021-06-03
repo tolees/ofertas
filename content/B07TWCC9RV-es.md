@@ -30,7 +30,7 @@ Tienes [Take Two Interactive Spain - NBA 2k20](https://www.amazon.es/dp/B07TWCC9
 
 - Fácil de usar
 - Plataforma para visualización: PlayStation 4
-- 17 x 13.4 x 1.6 cm
 - Muy conveniente
+- 17 x 13.4 x 1.6 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TWCC9RV/?tag=tolees-21)

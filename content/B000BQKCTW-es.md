@@ -29,11 +29,11 @@ Tienes [Sorel Caribou  Botas de Invierno Hombre  Marrón  Buff   40 EU](https://
 ℹ️:
 
 - Parte superior: lona encerada. Altura del eje: 23,5 cm.
+- Recomendado para nieve pesada.
+- Altura de la plataforma: 1,81 cm.
+- Peso: 964 g.
 - Bota interior extraíble y lavable de fieltro reciclado de 9 mm.
 - Aislamiento nominal a -25 grados F
-- Altura de la plataforma: 1,81 cm.
-- Recomendado para nieve pesada.
-- Peso: 964 g.
 - Construcción impermeable con costuras selladas con parte superior impermeable.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000BQKCTW/?tag=tolees-21)
