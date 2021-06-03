@@ -28,10 +28,10 @@ Ahora mismo tienes [Levi s XX Chino Taper Short II Pantalones Cortos Casuales  B
 
 🔎:
 
-- Designer: LEVIS
-- Color: Verdone
-- Estación: Primavera/Verano
 - Material: algodón
+- Color: Verdone
 - Artículo: 17202
+- Estación: Primavera/Verano
+- Designer: LEVIS
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVVP67M/?tag=tolees-21)

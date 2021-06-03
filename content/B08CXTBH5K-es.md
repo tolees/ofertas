@@ -29,7 +29,7 @@ Tienes [Desigual PU Shopping Bag  Bolsa de la compra para Mujer  negro  U](https
 ℹ️:
 
 - 100% POLYURETHANE
-- No lavar
 - Bordados de frases bolimaníacas
+- No lavar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CXTBH5K/?tag=tolees-21)

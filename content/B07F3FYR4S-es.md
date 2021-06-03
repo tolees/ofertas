@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Halls Miel y Limón - Caramelo duro - Caj al 40.91 % de rebaja'
-date: 2021-05-30 08:40:34
+date: 2021-06-03 11:59:16
 image: 'https://m.media-amazon.com/images/I/51DYWJdt+pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Halls Miel y Limón - Caramelo duro - Caja con 20 Sticks de 32 g](https:
 
 🔎:
 
-- Caramelos duros Halls con sabor a miel y limón; Con edulcorantes, sin azúcar
-- Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
-- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
-- Conservar en lugar fresco y seco
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
+- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
+- Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
+- Caramelos duros Halls con sabor a miel y limón; Con edulcorantes, sin azúcar
+- Conservar en lugar fresco y seco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F3FYR4S/?tag=tolees-21)

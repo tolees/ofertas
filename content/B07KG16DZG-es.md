@@ -28,7 +28,7 @@ Está [PUMA Monarch IT  Zapatillas de Fútbol Hombre  Negro Black White  40.5 EU
 
 ℹ️:
 
-- Black
 - adulto
+- Black
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KG16DZG/?tag=tolees-21)

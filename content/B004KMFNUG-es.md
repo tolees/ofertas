@@ -28,9 +28,9 @@ Tienes [Celestron C52223 - Telescopio Refractor  60 mm ](https://www.amazon.es/d
 
 🔎:
 
-- Se suministra con estuche de aluminio y una bolsa de mano
 - Zoom de hasta 45 x
 - Con 3 patas hechos del metal
+- Se suministra con estuche de aluminio y una bolsa de mano
 - Refractor impermeable con diseño óptico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004KMFNUG/?tag=tolees-21)
