@@ -28,9 +28,9 @@ Ahora mismo tienes [Superga 2950-cotu  Zapatillas de Gimnasia Unisex Adulto  Neg
 
 🔎:
 
-- Parte superior de algodón totalmente transpirable.
-- Suela fina de caucho natural.
-- Altura del tacón: 2 cm.
 - Inscripción "Superga" en el lateral y el talón
+- Suela fina de caucho natural.
+- Parte superior de algodón totalmente transpirable.
+- Altura del tacón: 2 cm.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MSMZ7RJ/?tag=tolees-21)

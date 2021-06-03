@@ -28,8 +28,8 @@ Tienes [adidas Adilette Aqua K  Chanclas Unisex Adulto  Azul y Blanco  True Blue
 
 ℹ️:
 
-- ARCHIVO (EG8589)
 - Chanclas
 - Calzado adidas
+- ARCHIVO (EG8589)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZQF7W5K/?tag=tolees-21)
