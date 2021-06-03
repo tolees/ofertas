@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CEE Games  New Gen  - El Desenlace  con un 58.60 % de descuento'
-date: 2021-06-01 12:12:40
+date: 2021-06-03 14:25:21
 image: 'https://m.media-amazon.com/images/I/51gm0wA29xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07FFFWP8T/?tag=tolees-21'
 descuento: '58.60'
-average: '15.8791699604743'
+average: '15.8491732283464'
 ---
 
 En este momento está [Sony CEE Games  New Gen  - El Desenlace Del Ladrón Hits - Edición Uncharted 4  Versión 16](https://www.amazon.es/dp/B07FFFWP8T/?tag=tolees-21) a 8.26 EUR (original: 19.95 EUR) (58.60 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Sony CEE Games  New Gen  - El Desenlace Del Ladrón Hits 
 
 🔎:
 
-- Rango ESRB: T (adolescente)
-- Clasificación PEGI: 16
-- Género: acción/aventura
 - Edición del juego: básica
+- Género: acción/aventura
+- Rango ESRB: T (adolescente)
 - Plataforma: PlayStation 4
+- Clasificación PEGI: 16
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FFFWP8T/?tag=tolees-21)
