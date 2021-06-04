@@ -28,8 +28,8 @@ Ahora mismo tienes [Diesel Only The Brave Eau De Toilette 35Ml Vapo.](https://ww
 
 🔎:
 
-- Género: Hombre
-- Producto de la marca Diesel
 - Tipo de producto: Agua de colonia
+- Producto de la marca Diesel
+- Género: Hombre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002LSV7BK/?tag=tolees-21)

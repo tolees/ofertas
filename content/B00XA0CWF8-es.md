@@ -28,11 +28,11 @@ En este momento está [Pantene Mascarilla Repara y Protege- 300 ml](https://www
 
 🔎:
 
-- Ayuda a proteger el cabello de los daños causados por el peinado
-- Tipo de piel: Normal
-- Para el cabello: Normal
-- Deja tu cabello brillante y con un aspecto sano, y aporta suavidad y brillo al cabello seco y dañado
-- Un tratamiento intensivo que combate los signos del daño en solo 2.minutos
 - Fórmula avanzada pantene pro-v
+- Deja tu cabello brillante y con un aspecto sano, y aporta suavidad y brillo al cabello seco y dañado
+- Tipo de piel: Normal
+- Un tratamiento intensivo que combate los signos del daño en solo 2.minutos
+- Ayuda a proteger el cabello de los daños causados por el peinado
+- Para el cabello: Normal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XA0CWF8/?tag=tolees-21)
