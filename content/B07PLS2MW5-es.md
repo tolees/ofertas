@@ -28,11 +28,11 @@ Tienes [Rexona Spray antitranspirante contra el olor corporal y la humedad de la
 
 ℹ️:
 
-- Protege la ropa: el blanco permanece blanco, el negro sigue siendo negro
-- Con la tecnología probada MotionSense: cuanto más se mueve, más protege
-- Nuestra mejor protección contra residuos blancos y manchas amarillas
 - Desodorante en spray sin alcohol
-- Desodorante con 48 horas de protección contra el olor corporal y la humedad de las axilas
+- Con la tecnología probada MotionSense: cuanto más se mueve, más protege
 - Rexona no te defraudará
+- Nuestra mejor protección contra residuos blancos y manchas amarillas
+- Desodorante con 48 horas de protección contra el olor corporal y la humedad de las axilas
+- Protege la ropa: el blanco permanece blanco, el negro sigue siendo negro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PLS2MW5/?tag=tolees-21)

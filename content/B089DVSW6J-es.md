@@ -29,9 +29,9 @@ Está [Koch Media - Port Royal 4](https://www.amazon.es/dp/B089DVSW6J/?tag=tolee
 ℹ️:
 
 - Elige quién liderará tu aventura de entre las cuatro clases distintas de personajes jugables: el explorador, la mercader, el bucanero y la pirata; cada una posee sus propias ventajas y desventajas
-- Mantente alejado de acantilados, aguas poco profundas y regiones repletas de tormentas para optimizar tus rutas de comercio
-- Elige entre cuatro grandes potencias coloniales: Inglaterra, Francia, España y los Países Bajos; cada una proporciona distintos beneficios y un estilo de juego único
-- Establece y gestiona el comercio con 60 ciudades caribeñas en un enorme mundo de juego en 3D
 - Disfruta de las cuatro grandes campañas de un jugador en las que se narra el camino hacia la supremacía de cada nación
+- Mantente alejado de acantilados, aguas poco profundas y regiones repletas de tormentas para optimizar tus rutas de comercio
+- Establece y gestiona el comercio con 60 ciudades caribeñas en un enorme mundo de juego en 3D
+- Elige entre cuatro grandes potencias coloniales: Inglaterra, Francia, España y los Países Bajos; cada una proporciona distintos beneficios y un estilo de juego único
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089DVSW6J/?tag=tolees-21)
