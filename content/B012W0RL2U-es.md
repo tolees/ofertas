@@ -28,10 +28,10 @@ Ahora mismo tienes [Philips Thermoprotect HP8238/10 - Secador de Pelo  Negro y R
 
 🔎:
 
-- Ionizador cuádruple para un cabello suave, brillante y sin encrespado
 - Motor dc y potencia de 2300 W
-- Difusor asimétrico para volumen y rizos naturales
-- Boquilla concentradora ultra estrecha para un cepillado perfecto
 - Seis posiciones flexibles de velocidad y temperatura para un control completo
+- Ionizador cuádruple para un cabello suave, brillante y sin encrespado
+- Boquilla concentradora ultra estrecha para un cepillado perfecto
+- Difusor asimétrico para volumen y rizos naturales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B012W0RL2U/?tag=tolees-21)

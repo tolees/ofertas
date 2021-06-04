@@ -28,9 +28,9 @@ En este momento está [NIKE Venture Runner  Zapatillas Hombre  Gris  Light Smoke
 
 🔎:
 
-- Importado
-- Suave de Llevar
-- Cordones de zapatos
 - De la marca NIKE
+- Importado
+- Cordones de zapatos
+- Suave de Llevar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0838KNWDJ/?tag=tolees-21)

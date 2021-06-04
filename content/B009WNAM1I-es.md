@@ -28,7 +28,7 @@ Está [Eaton/MGE 9PX5KIBP - Sistema de alimentación ininterrumpida  4.5 kW  500
 
 ℹ️:
 
-- 9px 5000i hotswap
 - Epq/mge
+- 9px 5000i hotswap
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B009WNAM1I/?tag=tolees-21)
