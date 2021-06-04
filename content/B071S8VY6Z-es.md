@@ -28,11 +28,11 @@ Está [Tefal Filtra FR511170 - Pro Premium  Freidora Semiprofesional  3 Litros d
 
 ℹ️:
 
-- Freidora semiprofesional de acero inoxidable con tecnología de zona de toque frío con capacidad de 3 L de aceite y una potencia de 2400 W
 - Puedes elegir la temperatura desde 150 C a 190 C y seleccionar el tiempo de cocción gracias al temporizador digital
-- Sistema exclusivo del filtrado del aceite la malla de filtrado permite filtrar el aceite después de cada uso; así, el aceite se mantiene limpio más tiempo y se reducen los malos olores
+- Freidora semiprofesional de acero inoxidable con tecnología de zona de toque frío con capacidad de 3 L de aceite y una potencia de 2400 W
 - La freidora dispone de tapa de cocción con ventana y filtro metálico; también cuenta con una cesta con posición de drenaje para drenar el aceite directamente a la cuba después de cocinar
-- Totalmente desmontable y todas sus piezas excepto la resistencia son aptas para lavavajillas
+- Sistema exclusivo del filtrado del aceite la malla de filtrado permite filtrar el aceite después de cada uso; así, el aceite se mantiene limpio más tiempo y se reducen los malos olores
 - Fácil de transportar gracias a las asas exteriores
+- Totalmente desmontable y todas sus piezas excepto la resistencia son aptas para lavavajillas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071S8VY6Z/?tag=tolees-21)

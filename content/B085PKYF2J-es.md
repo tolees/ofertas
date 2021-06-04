@@ -28,7 +28,7 @@ Ahora mismo tienes [Dim Soutien-Gorge 3/4 Cup Sublim Velours Sujetador  Barniz R
 
 🔎:
 
-- Sin armazón y forma encajante.
 - Detalles femeninos y juego de transparencia.
+- Sin armazón y forma encajante.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085PKYF2J/?tag=tolees-21)
