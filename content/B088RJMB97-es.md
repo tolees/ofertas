@@ -28,9 +28,9 @@ Ahora mismo tienes [Puma Ultra 3.2 FG/AG Jr  Zapatillas de fútbol  Blue  28 EU]
 
 🔎:
 
-- Practica tu deporte favorito gracias a las Zapatillas de fútbol de Puma . Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
 - Calzado deportivo de la Puma
 - Zapatillas de fútbol ULTRA 3.2 FG/AG Jr (10636004)
+- Practica tu deporte favorito gracias a las Zapatillas de fútbol de Puma . Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
 - Las Zapatillas de fútbol de la marca Puma están diseñadas con la última tecnología y la mejor calidad para que se adapten perfectamente a tu pie sin dejar de lado el estilo
 - Zapatillas de fútbol ideales para Fútbol de Niño
 

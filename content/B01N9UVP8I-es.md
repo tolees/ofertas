@@ -28,8 +28,8 @@ En este momento está [Geox UOMO Symbol B  Oxford Hombre  Negro  Black C9999   3
 
 🔎:
 
-- smooth leather
 - adulto
+- smooth leather
 - Black
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N9UVP8I/?tag=tolees-21)

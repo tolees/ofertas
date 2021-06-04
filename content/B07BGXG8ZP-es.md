@@ -28,9 +28,9 @@ En este momento está [Tommy Hilfiger Heritage Crew Neck tee Camiseta  Blanco  C
 
 🔎:
 
-- Algodón orgánico puro
 - Corte regular
 - Cuello redondo
+- Algodón orgánico puro
 - Bordado Tommy Hilfiger en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BGXG8ZP/?tag=tolees-21)
