@@ -28,7 +28,7 @@ Está [Clarks Un Karely Sun  Chanclas Sandalias Flip-Flop  Dorado  Gold Metallic
 
 ℹ️:
 
-- Color exacto: dorado metálico
 - Material de la suela: EVA
+- Color exacto: dorado metálico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FSWW216/?tag=tolees-21)
