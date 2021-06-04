@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.36 % en Sony CEE Games  New Gen  - Until Dawn Hi'
-date: 2021-06-01 09:21:24
+date: 2021-06-04 16:37:49
 image: 'https://m.media-amazon.com/images/I/51F6aO6WZ6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony CEE Games (New Gen)'
 buyurl: 'https://www.amazon.es/dp/B07JGB5KDM/?tag=tolees-21'
 descuento: '40.36'
-average: '13.7560526315791'
+average: '13.6151282051284'
 ---
 
 Tienes [Sony CEE Games  New Gen  - Until Dawn Hits - Versión 16](https://www.amazon.es/dp/B07JGB5KDM/?tag=tolees-21) con un 40.36 % de descuento con precio de oferta de 8.26 EUR (original: 13.85 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Sony CEE Games  New Gen  - Until Dawn Hits - Versión 16](https://www.am
 
 ℹ️:
 
+- Género: supervivencia/horror
 - Clasificación PEGI: 18
+- Rango ESRB: M (maduro)
 - Plataforma: PlayStation 4
 - Edición del juego: básica
-- Género: supervivencia/horror
-- Rango ESRB: M (maduro)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07JGB5KDM/?tag=tolees-21)

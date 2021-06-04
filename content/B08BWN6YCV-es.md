@@ -29,8 +29,8 @@ Está [MARSGAMING - MMPRGBL  Alfombrilla Gaming RGB Chroma  Nanotextil  365x265x
 ℹ️:
 
 - [BASE ANTI-DESLIZANTE] Base de caucho para evitar deslizamientos indeseados y con superficie nano-textil para ofrecerte una mejor experiencia de juego
-- [ILUMINACIÓN RGB] Alfombrilla Gaming profesional con RGB control con fibra óptica y diseño óptimo; 12 modos de iluminación con botón de control
-- [BORDES REFORZADOS la alfombrilla Gaming MMPRGBL cuenta con bordes reforzados con doble nylon anti-desgaste para asegurarte una mayor duración de tu alfombrilla: El cable trenzado incluido tiene una longitud de 1.5m
 - [DIMENSIONES IDEALES] Las medidas de la alfombrilla, tamaño L, son 365 x 265 mm y 4 mm de grosor, ideal para disfrutar de tus partidas cómodamente
+- [BORDES REFORZADOS la alfombrilla Gaming MMPRGBL cuenta con bordes reforzados con doble nylon anti-desgaste para asegurarte una mayor duración de tu alfombrilla: El cable trenzado incluido tiene una longitud de 1.5m
+- [ILUMINACIÓN RGB] Alfombrilla Gaming profesional con RGB control con fibra óptica y diseño óptimo; 12 modos de iluminación con botón de control
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BWN6YCV/?tag=tolees-21)

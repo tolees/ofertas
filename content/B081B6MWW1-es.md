@@ -28,9 +28,9 @@ Está [Columbia CSC Basic Logo Camiseta de Manga Corta  Hombre  Gris Grey Heathe
 
 ℹ️:
 
-- Color: Columbia Grey Heather
-- Columbia CSC basic camiseta estampada de manga corta
 - Talla: M
 - Tipo de fábrica: Jersey 100% algodón
+- Columbia CSC basic camiseta estampada de manga corta
+- Color: Columbia Grey Heather
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081B6MWW1/?tag=tolees-21)

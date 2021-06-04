@@ -28,8 +28,8 @@ Ahora mismo tienes [AMD Ryzen 7 3700X  Procesador con Disipador de Calor Wraith 
 
 🔎:
 
-- Reloj Max Boost: 4.4GHz
 - Especificación de memoria del sistema: 3200MHz; tipo de memoria del sistema: DDR4; canales de memoria: 2
+- Reloj Max Boost: 4.4GHz
 - CMOS: TSMC 7nm FinFET
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SXMZLPK/?tag=tolees-21)

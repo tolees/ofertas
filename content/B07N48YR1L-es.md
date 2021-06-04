@@ -28,10 +28,10 @@ Está [Camper Courb  Zapatillas Hombre  Negro  Black 1   42 EU](https://www.amaz
 
 ℹ️:
 
-- Plantilla: Ortholite para mayor amortiguación
 - Suela/Características: EVA para mayor ligereza
 - Color: Negro
 - EXTRALIGHT XL para una mayor ligereza y amortiguación
+- Plantilla: Ortholite para mayor amortiguación
 - Empeine: Piel (Piel vacuna)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N48YR1L/?tag=tolees-21)

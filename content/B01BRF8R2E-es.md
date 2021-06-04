@@ -28,11 +28,11 @@ Ahora mismo tienes [NIKE Nike 150 Colonia 30 Vapo Blue Wave Man W-12 P-6-0.3 ml]
 
 🔎:
 
-- Nombre de la fragancia: Fresh
-- Para el cabello: Normal
-- Notas de salida: bergamota, mandarina, grosella negra y limón; notas de corazón: notas marinas, lavanda, romero y lentisco; notas de fondo: ámbar y almizcle
 - Tipo de piel: Normal
 - Con tendencia olfativa fresca acuática, una fragancia poderosa
+- Nombre de la fragancia: Fresh
 - Agua de colonia blue wave para hombre en formato de 30 ml
+- Para el cabello: Normal
+- Notas de salida: bergamota, mandarina, grosella negra y limón; notas de corazón: notas marinas, lavanda, romero y lentisco; notas de fondo: ámbar y almizcle
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BRF8R2E/?tag=tolees-21)
