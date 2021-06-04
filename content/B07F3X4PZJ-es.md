@@ -28,8 +28,8 @@ Tienes [Amazon Basics - Juego de cama de franela con funda nórdica - 200 x 200 
 
 🔎:
 
+- La franela de 155 gramos es un tejido transpirable que proporciona una lujosa suavidad; acabado perchado en el exterior y en el interior para una suavidad suprema
 - La funda nórdica de 100% algodón y la funda de almohada proporcionan una apariencia atractiva y un confort acogedor a cualquier habitación
 - Botones de presión mantienen el edredón en su sitio de manera segura; se puede lavar y secar a máquina para facilitar su limpieza
-- La franela de 155 gramos es un tejido transpirable que proporciona una lujosa suavidad; acabado perchado en el exterior y en el interior para una suavidad suprema
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F3X4PZJ/?tag=tolees-21)
