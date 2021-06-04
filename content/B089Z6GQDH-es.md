@@ -28,10 +28,10 @@ Está [PUMA Active Yogini Woven Suit Chándal  Mujer  Black  M](https://www.amaz
 
 ℹ️:
 
-- Bolsillos en las costuras laterales
-- Chaqueta de corte entallado
-- bluesign: Como socios de bluesign, somos una parte responsable de la cadena de suministro textil y nos comprometemos a tener un enfoque limpio y seguro en la gestión de insumos de ingreso
-- Manga raglan y dobladillo asimétrico
 - miDori: Producto hecho con el acabado de base biológica miDori bioWick
+- Bolsillos en las costuras laterales
+- bluesign: Como socios de bluesign, somos una parte responsable de la cadena de suministro textil y nos comprometemos a tener un enfoque limpio y seguro en la gestión de insumos de ingreso
+- Chaqueta de corte entallado
+- Manga raglan y dobladillo asimétrico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089Z6GQDH/?tag=tolees-21)

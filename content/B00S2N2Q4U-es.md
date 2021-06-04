@@ -28,9 +28,9 @@ Tienes [StarTech.com USB3EXT6INBK - Cable extensor USB 3.0 macho a hembra de 15.
 
 🔎:
 
-- Conectores moldeados con alivio de tensión
 - El cable y los conectores se ajustan a las especificaciones de USB 3.0 SuperSpeed
-- Soporte para tasas de transferencia de datos USB 3.0 de hasta 5 Gbps
 - Lámina de aluminio Mylar con blindaje de par trenzado
+- Soporte para tasas de transferencia de datos USB 3.0 de hasta 5 Gbps
+- Conectores moldeados con alivio de tensión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00S2N2Q4U/?tag=tolees-21)

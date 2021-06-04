@@ -28,8 +28,8 @@ En este momento está [Dockers Alpha Original Khaki Skinny-Lite Pantalones  Sage
 
 🔎:
 
-- Transpirable
 - BCI, impermeable
+- Transpirable
 - Alpha Original Khaki Skinny - Lite
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089T8MHQY/?tag=tolees-21)
