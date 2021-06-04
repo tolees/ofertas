@@ -28,7 +28,7 @@ Está [Televés - Televes - Repartidor pasivo 8d 5-2150 mhz 18db](https://www.am
 
 ℹ️:
 
-- Fácil de usar
 - Muy conveniente
+- Fácil de usar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B007T66QYW/?tag=tolees-21)

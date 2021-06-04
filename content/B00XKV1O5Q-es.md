@@ -28,10 +28,10 @@ Tienes [Emuca - Patas de mesa regulables Ø60x710mm  kit de 4 patas de acero  al
 
 ℹ️:
 
-- Diámetro 60 mm
-- Acabado pintado aluminio
-- Los tornillos Ø5x25 para la fijación de la base de montaje al tablero están incluídos
-- Regulable en altura 710-730 mm
 - Fabricada en acero
+- Acabado pintado aluminio
+- Diámetro 60 mm
+- Regulable en altura 710-730 mm
+- Los tornillos Ø5x25 para la fijación de la base de montaje al tablero están incluídos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XKV1O5Q/?tag=tolees-21)

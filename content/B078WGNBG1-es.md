@@ -28,11 +28,11 @@ Está [PUMA Liga Sideline Polo T-Shirt  Hombre  L  Rojo  Red/White ](https://www
 
 ℹ️:
 
-- La tecnología drycell te mantiene seco y cómodo mientras practicas
-- Logotipo puma en la parte derecha del pecho
-- Corte recto
-- Tipo de fábrica: 100% Polyester
-- Diseño clásico de polo
 - Dobladillo delantero liso, medio cuello, tapeta de botones
+- Corte recto
+- Diseño clásico de polo
+- Logotipo puma en la parte derecha del pecho
+- La tecnología drycell te mantiene seco y cómodo mientras practicas
+- Tipo de fábrica: 100% Polyester
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078WGNBG1/?tag=tolees-21)

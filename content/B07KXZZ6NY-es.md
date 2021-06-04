@@ -28,8 +28,8 @@ Está [COLGATE Triple Acción Extra Fresh  Pasta de Dientes  Blanqueador y Fresc
 
 ℹ️:
 
-- Elimina las manchas de la superficie
-- Pasta de dientes con una banda refrescante para una sensación extra de frescura
 - Protección anticaries probada
+- Pasta de dientes con una banda refrescante para una sensación extra de frescura
+- Elimina las manchas de la superficie
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KXZZ6NY/?tag=tolees-21)

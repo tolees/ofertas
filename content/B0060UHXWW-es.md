@@ -28,8 +28,8 @@ Tienes [KERASTASE Resistance Ciment Thermique 150 Ml 1 Unidad 150 ml](https://ww
 
 ℹ️:
 
-- Los mejores productos de higiene y belleza para tu día a día.
 - Cuidarse y sentirse bien nunca ha sido tan fácil.
 - Resistance Ciment Thermique 150 Ml
+- Los mejores productos de higiene y belleza para tu día a día.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0060UHXWW/?tag=tolees-21)
