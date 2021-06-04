@@ -30,8 +30,8 @@ Está [Mr. Wonderful Carcasa para Portátil Macbook Air y Air 2 de 13 3" Pulgada
 
 - Carcasa diseñada específicamente para Macbook Air y Air 2 de 13,3" (2016) con medidas 30,41 x 21,24 cms
 - Carcasa rígida y muy resistente de materiales duraderos y de calidad; El logo brilla a través de la carcasa cuando se enciende; El diseño le permite abrir / cerrar completamente su MacBook
-- Carcasa protectora transparente con diseño de Mr; Wonderful de Planetas para ordenador Macbook Air y Air 2 de 13,3" (2017) de Apple
 - Diseño Inteligente: 2 piezas Snap on design; Fácil de instalar y quitar; Cuatro patas engomadas mantienen a su MacBook estable y segura en todo momento; La cubierta inferior está totalmente ventilada para permitir una disipación de calor eficaz y segura
+- Carcasa protectora transparente con diseño de Mr; Wonderful de Planetas para ordenador Macbook Air y Air 2 de 13,3" (2017) de Apple
 - Totalmente removible, fácil de poner y quitar que puede proteger su MacBook de arañazos y rasguños; Diseñado para que el ordenador se ventile por completo y el calor no se concentre; Acceso completo a todos los botones y funciones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LX11VF1/?tag=tolees-21)
