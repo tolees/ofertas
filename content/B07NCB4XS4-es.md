@@ -28,12 +28,12 @@ Tienes [Pepe Jeans Cash Polo  Azul  Medium Used Denim Bb6   29W / 32L para Hombr
 
 🔎:
 
+- Tejido denim medio
+- Fit regular
+- Tejido denim elástico y flexible
+- Cierre bragueta con cremallera
 - Tiro medio
 - Estilo 5 bolsillos
 - Pierna recta
-- Cierre bragueta con cremallera
-- Tejido denim elástico y flexible
-- Tejido denim medio
-- Fit regular
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NCB4XS4/?tag=tolees-21)

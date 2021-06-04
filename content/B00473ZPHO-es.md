@@ -28,13 +28,13 @@ En este momento está [Edding 4-8902-1-4603 8902 DIY - Marcador  Multi  Reparaci
 
 🔎:
 
-- (cera de reparación de suelo de madera para eliminar daños
+- Wax debe ser derretida antes de relleno.
+- Mediante la mezcla de la cera de diferentes colores es posible para simular un perfecto grano
 - Color: Roble.
 - Suelo ceras para restaurar dañado como parquet, laminado y pisos de madera y floorboards así como otros horizontal superficies de madera sujetos a cargas elevadas.
-- Reparación de suelo de madera cera a partir de una mezcla de ceras minerales, colored con Oxy colores y cada uno. Los colores se pueden mezclar juntos cuando el metal fundido con hierro de calefacción.
 - De la mezcla de la cera de varios tonos, el grano puede ser perfectamente imitado.
-- Mediante la mezcla de la cera de diferentes colores es posible para simular un perfecto grano
 - Muy resistente una vez seca.
-- Wax debe ser derretida antes de relleno.
+- Reparación de suelo de madera cera a partir de una mezcla de ceras minerales, colored con Oxy colores y cada uno. Los colores se pueden mezclar juntos cuando el metal fundido con hierro de calefacción.
+- (cera de reparación de suelo de madera para eliminar daños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00473ZPHO/?tag=tolees-21)

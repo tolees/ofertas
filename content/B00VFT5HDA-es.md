@@ -28,9 +28,9 @@ Tienes [Silicon Power Rugged Armor A65M - Disco Duro Externo portátil de 2 TB  
 
 ℹ️:
 
+- Cumple con los estándares de prueba del ejercito americano MIL-STD 810G 516.6 procedimiento IV (prueba de caída libre (122cm) en 26 puntos
+- Cableado diseñado especialmente para un fácil transporte. Carcasa exterior duradera y resistente que impide arañazos
 - Indicador Led inteligente
 - Primer disco duro de la industria que cumple con la norma IP67, impermeable y resistente al polvo
-- Cableado diseñado especialmente para un fácil transporte. Carcasa exterior duradera y resistente que impide arañazos
-- Cumple con los estándares de prueba del ejercito americano MIL-STD 810G 516.6 procedimiento IV (prueba de caída libre (122cm) en 26 puntos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VFT5HDA/?tag=tolees-21)

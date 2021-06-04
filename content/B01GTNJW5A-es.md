@@ -28,9 +28,9 @@ Tienes [POC Spine VPD Air Vest Protector  Unisex Adulto  Uranium Black  L/Regula
 
 ℹ️:
 
-- La correa de cintura opcional proporciona personalización del ajuste
-- El producto es un chaleco de protección
-- Tiene un perfil bajo
 - Utiliza una malla flexible
+- La correa de cintura opcional proporciona personalización del ajuste
+- Tiene un perfil bajo
+- El producto es un chaleco de protección
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01GTNJW5A/?tag=tolees-21)

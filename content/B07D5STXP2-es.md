@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA ESS Sweat Shorts TR Pants  Mujer  Cotton Black  XS](htt
 
 🔎:
 
-- Corte recto
 - Aberturas laterales que proporcionan más comodidad y un corte favorecedor
-- Estampado en pigmento en relieve del logotipo N.º 1
 - Bolsillos en las costuras laterales para que lleves tus cosas contigo
+- Corte recto
+- Estampado en pigmento en relieve del logotipo N.º 1
 - Cintura elástica acanalada con cordón en el interior para un ajuste perfecto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D5STXP2/?tag=tolees-21)

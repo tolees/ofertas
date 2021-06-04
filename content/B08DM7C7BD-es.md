@@ -29,11 +29,11 @@ Ahora mismo tienes [Xiaomi Mi - Monitor curvo de 34" WQHD  3440x1440  21:9  HDMI
 🔎:
 
 - Pantalla sin tablero de 3 lados se extiende de borde a borde para visualización máxima
-- Monitor curvo de 34 pulgadas, con resolución wquadhd (3440x1440 pixels), aproximadamente 2.5 tiempos de densidad de píxeles comparados a fullhd, proporciona más detalles de imágenes; la gama de colores 121% srgb ayuda a proporcionar colores vivos
-- El monitor puede inclinarse 15 hacia atrás y 5 hacia adelante, giratorio 40 y ajustar la altura, le permite para optimizar la posición de visualización; también se puede montar en la pared a través de patrón vesa estándar
 - Con una frecuencia de actualización de hasta 144 hz, las imágenes se actualizan más rápido y más suave que el estándar de 60 hz monitor; amd freesync tm premium tecnología sincroniza la velocidad de fotogramas de salida entre la tarjeta gráfica y monitor
-- Tecnología de pantalla: LCD
-- Puertos: hdmi 2.0x2, displayport 1.4x2, audio, ac in
+- Monitor curvo de 34 pulgadas, con resolución wquadhd (3440x1440 pixels), aproximadamente 2.5 tiempos de densidad de píxeles comparados a fullhd, proporciona más detalles de imágenes; la gama de colores 121% srgb ayuda a proporcionar colores vivos
 - El tiempo de respuesta es de 4ms
+- Puertos: hdmi 2.0x2, displayport 1.4x2, audio, ac in
+- El monitor puede inclinarse 15 hacia atrás y 5 hacia adelante, giratorio 40 y ajustar la altura, le permite para optimizar la posición de visualización; también se puede montar en la pared a través de patrón vesa estándar
+- Tecnología de pantalla: LCD
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DM7C7BD/?tag=tolees-21)
