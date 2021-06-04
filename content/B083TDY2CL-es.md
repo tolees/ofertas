@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Mile High Super Skinny Vaqueros  Better Safe Than Sor
 
 🔎:
 
-- Ofrecen comodidad y movimiento durante todo el día
 - Ajustados en la cadera y los muslos
+- Ofrecen comodidad y movimiento durante todo el día
 - Marcados con parche de cuero de Levis en la parte trasera de la cintura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083TDY2CL/?tag=tolees-21)

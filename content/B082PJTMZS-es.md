@@ -29,7 +29,7 @@ Ahora mismo tienes [Nike Venture Runner  Zapatillas Hombre  Azul  Midnight Navy/
 🔎:
 
 - Suave de Llevar
-- Importado
 - Cordones de Zapatos
+- Importado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082PJTMZS/?tag=tolees-21)

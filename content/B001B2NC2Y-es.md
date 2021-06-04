@@ -28,10 +28,10 @@ Ahora mismo tienes [Maped 324605 grapas 26/6  1000 unidades  en caja](https://
 
 🔎:
 
+- Galvanizado
 - Calidad Premium
 - Grapadora recomendado para rendimiento óptimo
-- 1000 unidades)
-- Galvanizado
 - En caja de cartón
+- 1000 unidades)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001B2NC2Y/?tag=tolees-21)
