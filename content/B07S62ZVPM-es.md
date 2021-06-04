@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Grand Court Base  Zapatillas Homb al 42.65 % de descuento'
-date: 2021-06-02 05:54:16
+date: 2021-06-04 10:36:59
 image: 'https://m.media-amazon.com/images/I/31alIZO9VJS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07S62ZVPM/?tag=tolees-21'
 descuento: '42.65'
-average: '37.252'
+average: '36.8766666666667'
 ---
 
 Ahora mismo tienes [Adidas Grand Court Base  Zapatillas Hombre  Ftwbla Negbás Azuosc  42 2/3 EU](https://www.amazon.es/dp/B07S62ZVPM/?tag=tolees-21) a 35.0 EUR (original: 61.03 EUR) (42.65 %  de descuento) en el siguiente enlace!
