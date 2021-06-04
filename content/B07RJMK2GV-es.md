@@ -30,8 +30,8 @@ Ahora mismo tienes [DJI Osmo Action Cam - Cámara digital con 11m Pantalla dual 
 
 - 11 m resistente al agua: con una pantalla táctil trasera impermeable y un revestimiento hidrofóbico, Osmo Action es resistente al agua hasta once metros
 - Doble pantalla: filma tu mundo o conviértete en el protagonista. Con las dos pantallas de Osmo Action, ¡recupere todo con solo un botón! Una pantalla frontal clara para selfies fáciles y perfectos
-- Más detalles dinámicos con HDR: extienda el rango dinámico de sus videos grabándolos en modo HDR
-- Rocksteady: gracias a un sistema electrónico de estabilización de imagen (EIS), combinado con algoritmos efectivos, Osmo Action garantiza un disparo suave y estable
 - Vive la acción: Osmo Action te permitirá capturarlo todo con solo tocar un botón. Podrás enfocarte sin ningún esfuerzo gracias a la nítida pantalla frontal
+- Rocksteady: gracias a un sistema electrónico de estabilización de imagen (EIS), combinado con algoritmos efectivos, Osmo Action garantiza un disparo suave y estable
+- Más detalles dinámicos con HDR: extienda el rango dinámico de sus videos grabándolos en modo HDR
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RJMK2GV/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Kalypso - Commandos 2 & Praetorians HD R al 50.24 % de descuento'
-date: 2021-05-28 07:25:18
+title: 'Kalypso - Commandos 2 & Praetorians HD R al 58.86 % de descuento'
+date: 2021-06-04 07:26:50
 image: 'https://m.media-amazon.com/images/I/51ayGaB0oLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08CRZDF7S-es Kalypso - Commandos 2 & Praetorians HD Remaster Doube Pack'
 sku: 'B08CRZDF7S-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','kalypso', ]
-actualPrice: 19.9 EUR
+actualPrice: 16.45 EUR
 currency: EUR
-price: 19.9
+price: 16.45
 comparePrice: 39.99 EUR
 prodname: 'Kalypso - Commandos 2 & Praetorians HD Remaster Doube Pack'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Kalypso'
 buyurl: 'https://www.amazon.es/dp/B08CRZDF7S/?tag=tolees-21'
-descuento: '50.24'
-average: '23.958'
+descuento: '58.86'
+average: '23.2754545454545'
 ---
 
-Ahora mismo tienes [Kalypso - Commandos 2 & Praetorians HD Remaster Doube Pack](https://www.amazon.es/dp/B08CRZDF7S/?tag=tolees-21) a 19.9 EUR (original: 39.99 EUR) (50.24 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Kalypso - Commandos 2 & Praetorians HD Remaster Doube Pack](https://www.amazon.es/dp/B08CRZDF7S/?tag=tolees-21) a 16.45 EUR (original: 39.99 EUR) (58.86 %  de descuento) en el siguiente enlace!
 
 [![Kalypso - Commandos 2 & Praetorians HD R](https://m.media-amazon.com/images/I/51ayGaB0oLL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08CRZDF7S/?tag=tolees-21)
 

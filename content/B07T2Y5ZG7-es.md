@@ -28,11 +28,11 @@ Ahora mismo tienes [Samsung C27RG50 - Monitor Curvo Gaming de 27"  Full HD  4 ms
 
 🔎:
 
-- Compatible con nvidia g-sync
-- Diseño sin marco en 3 de los lados
-- Montaje Pared: 75 x 75
-- Experiencia de juego fluida con una frecuencia de actualización de 240 hz
-- El modo game adapta la configuración a cualquier tipo de videojuego
 - Experiencia de juego inmersiva con la pantalla curvada 1.500r y una relación de contraste de 3000:1
+- Compatible con nvidia g-sync
+- El modo game adapta la configuración a cualquier tipo de videojuego
+- Experiencia de juego fluida con una frecuencia de actualización de 240 hz
+- Montaje Pared: 75 x 75
+- Diseño sin marco en 3 de los lados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07T2Y5ZG7/?tag=tolees-21)

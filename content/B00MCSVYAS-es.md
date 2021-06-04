@@ -29,9 +29,9 @@ Tienes [Remington Indestructible Máquina de Cortar Pelo - Cortapelos con Cable 
 ℹ️:
 
 - Peines Guía - El cortapelos Indestructible cuenta con peines guía de calidad profesional, carcasa exterior de caucho para un control absoluto y estuche
-- Cuchillas de Acero Inoxidable - Máquina de cortar pelo con cuchillas de precisión de acero inoxidable japonés, sistema de cuchillas extraíbles
-- Doble Batería de Litio - Uso con o sin cable, hasta 120 minutos de autonomía y tiempo de carga completa 4 horas
 - Indicador LED - De batería baja o carga y gancho para colgar
+- Doble Batería de Litio - Uso con o sin cable, hasta 120 minutos de autonomía y tiempo de carga completa 4 horas
 - Calidad Profesional - Corte de calidad profesional (350 mm/s), motor de 7.4 v y armazón de policarbonato de gran resistencia al impacto
+- Cuchillas de Acero Inoxidable - Máquina de cortar pelo con cuchillas de precisión de acero inoxidable japonés, sistema de cuchillas extraíbles
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00MCSVYAS/?tag=tolees-21)

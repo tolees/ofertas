@@ -28,10 +28,10 @@ En este momento está [Buff Tuke Gorra Eliud  Adultos Unisex  Azul  L/XL](https:
 
 🔎:
 
-- Tira interior para absorber el sudor y la humedad, evitando molestias y evitando manchas en la tela
 - Diseño BUFF de inspiración americana Trucker
-- Lavar a mano
 - Estilo urbano, para llevar en cualquier lugar
+- Tira interior para absorber el sudor y la humedad, evitando molestias y evitando manchas en la tela
+- Lavar a mano
 - La humedad del cuerpo se expulsa a través del tejido para evitar sobrecalentamiento y mejorar el confort
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QW8LBTT/?tag=tolees-21)
