@@ -29,7 +29,7 @@ Tienes [Astar - A-Star - Glockenspiel  cromático   color rojo](https://www.amaz
 ℹ️:
 
 - Se suministra con una caja de color rojo brillante
-- Rango de dos octavas A61-A85
 - Se suministra con un par de batidores extra fuertes
+- Rango de dos octavas A61-A85
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00I5HXGLU/?tag=tolees-21)

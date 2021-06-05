@@ -28,8 +28,8 @@ Tienes [Salomon XA Pro 3D V8 W  Zapatillas de Trail Running y Senderismo Mujer  
 
 ℹ️:
 
-- Color: Kentucky Blue/Dark Denim/Pale Khaki
 - Salomon
+- Color: Kentucky Blue/Dark Denim/Pale Khaki
 - Xa PRO 3D V8 GTX W
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B081KGMJ5Q/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Guess Analógico GW0057G1](https://www.amazon.es/dp/B083ZLM24J/?tag=tole
 
 🔎:
 
+- Analógico para Hombre
 - 40 milimetros calendario Día y mes Hebilla
 - Guess Modelo Reloj GW0057G1
-- Analógico para Hombre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083ZLM24J/?tag=tolees-21)

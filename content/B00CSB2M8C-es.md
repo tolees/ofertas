@@ -28,8 +28,8 @@ En este momento está [Spalding TF50 Outdoor SZ.6  73-851Z  balón de Baloncesto
 
 🔎:
 
+- Características:< BR/>- Gran balón para principiantes
 - Excelentes características de durabilidad y juego
 - Material:< BR/> Superficie de caucho resistente
-- Características:< BR/>- Gran balón para principiantes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00CSB2M8C/?tag=tolees-21)
