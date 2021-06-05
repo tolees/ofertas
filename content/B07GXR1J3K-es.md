@@ -28,10 +28,10 @@ En este momento está [Londo Alfombrilla Oval para ratón de Cuero con Apoyo par
 
 🔎:
 
-- CUERO DE ALTA CALIDAD - La alfombrilla para ratón Londo está confeccionadoa con cuero de alta calidad, con costuras finas y duraderas que logran un aspecto elegante y estilizado. Una artesanía ejemplar que combina la sensación agradable y lo atractivo del cuero sin sacrificar versatilidad y practicidad.
-- DESCANSO PARA LA MUÑECA: La alfombrilla Londo tiene un apoyo acolchado para la muñeca que garantiza una posición ergonómica, de modo que el uso prolongado del ordenador resulta más cómodo, además de que se previenen lesiones.
-- BASE ANTIDESLIZANTE - La alfombrilla para ratón Londo está reforzada con una base antideslizante que la mantiene estable. La alfombrilla puede limpiarse fácilmente con un paño húmedo.
 - ELEGANTE Y PRÁCTICA - La alfombrilla para ratón Londo es elegante y práctica. Gracias a su tamaño de tan solo 25 cm x 24 cm x 1.3 centrímetros, reduce el desorden del escritorio al usarlo en un ordenador casero o de oficina, mientras quese puede llevar sin problemas en un bolso o funda de laptop al usarlo con un ordenador portátil.
+- DESCANSO PARA LA MUÑECA: La alfombrilla Londo tiene un apoyo acolchado para la muñeca que garantiza una posición ergonómica, de modo que el uso prolongado del ordenador resulta más cómodo, además de que se previenen lesiones.
+- CUERO DE ALTA CALIDAD - La alfombrilla para ratón Londo está confeccionadoa con cuero de alta calidad, con costuras finas y duraderas que logran un aspecto elegante y estilizado. Una artesanía ejemplar que combina la sensación agradable y lo atractivo del cuero sin sacrificar versatilidad y practicidad.
 - SUAVE COMO LA SEDA - La alfombrilla para ratón Londo ofrece una superficie lisa y suave para un uso eficiente e ininterrumpido del ratón.
+- BASE ANTIDESLIZANTE - La alfombrilla para ratón Londo está reforzada con una base antideslizante que la mantiene estable. La alfombrilla puede limpiarse fácilmente con un paño húmedo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GXR1J3K/?tag=tolees-21)
