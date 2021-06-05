@@ -28,10 +28,10 @@ En este momento está [Lotus 0 - Reloj de Cuarzo para Mujer  con Correa de Acero
 
 🔎:
 
-- Resistente al agua: 50m
-- Brazalete Plateado Acero inoxidable
 - Caja Acero inoxidable, esfera Blanco
+- Resistente al agua: 50m
 - Movimiento Cuarzo
 - Diámetro caja: 29.50mm
+- Brazalete Plateado Acero inoxidable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00JJQCLA8/?tag=tolees-21)

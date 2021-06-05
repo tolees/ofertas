@@ -28,10 +28,10 @@ En este momento está [Beurer LB37 - Humidificador Ultrasónico  Micro Nebulizac
 
 🔎:
 
-- Depósito agua 2 litros desmontable con filtro de agua opcional y apagado automático al acabarse el depósito
-- Se pueden usar aceites esenciales para aromatizar el ambiente
-- Para habitaciones y estancias de hasta +/-20 m²
 - Modo noche silencioso y botón sin iluminación para tranquilidad completa
+- Se pueden usar aceites esenciales para aromatizar el ambiente
 - Humidificador con tecnología de vapor ultrasónico, vaporización ultrasónica micro-fina (silenciosa)
+- Depósito agua 2 litros desmontable con filtro de agua opcional y apagado automático al acabarse el depósito
+- Para habitaciones y estancias de hasta +/-20 m²
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01KOC3LDQ/?tag=tolees-21)
