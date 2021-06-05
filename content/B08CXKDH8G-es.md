@@ -28,10 +28,10 @@ En este momento está [Nike MD Valiant  PSV   Sneaker  Black/White  30 EU](https
 
 🔎:
 
+- Outer material: sintético
+- Tipo de cierre: Cordones
 - Lining: synthetic
 - Sole material: caucho
 - Closure: cordones
-- Tipo de cierre: Cordones
-- Outer material: sintético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXKDH8G/?tag=tolees-21)

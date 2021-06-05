@@ -28,10 +28,10 @@ En este momento está [Macally ASTAND soporte de aluminio para portátiles Apple
 
 🔎:
 
-- Diseño inclinado con bordes frontales elevados y material antideslizante para que el portátil no resbale
 - Diseñado específicamente para MacBook, MacBook Air y MacBook Pro de Apple, también sirve para cualquier portátil de entre 10” y 17"
-- Levanta la pantalla del portátil (15 cm) hasta el nivel de los ojos para mejorar la postura y la ergonomía
-- Diseño en sólido aluminio de alta calidad con estructura en puente que proporciona la máxima estabilidad
+- Diseño inclinado con bordes frontales elevados y material antideslizante para que el portátil no resbale
 - Más orden y valioso espacio en el escritorio: cuando no se usan, bajo el soporte se pueden guardar el teclado y el ratón
+- Diseño en sólido aluminio de alta calidad con estructura en puente que proporciona la máxima estabilidad
+- Levanta la pantalla del portátil (15 cm) hasta el nivel de los ojos para mejorar la postura y la ergonomía
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XPGTXQ8/?tag=tolees-21)

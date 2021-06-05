@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Revend Vaqueros skinny  Multicolor  Medium Indigo Aged 8968/6
 
 ℹ️:
 
-- Skinny
 - 91% Algodón, 7% Elastomultiéster, 2% Elastano
-- Lavar a máquina - agua fría (30 ° max)
+- Skinny
 - Cierre: Boton y cierre
 - Usado
+- Lavar a máquina - agua fría (30 ° max)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MZJD5XQ/?tag=tolees-21)

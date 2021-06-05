@@ -28,11 +28,11 @@ Ahora mismo tienes [Trust Arys - Set de Altavoces de Ordenador  2.0  28 W  alime
 
 🔎:
 
-- potencia máxima de 28 w (rms de 14 w)
 - rejilla metálica para protección adicional
-- Dispositivos compatibles: ordenador de sobremesa
 - conexión para los auriculares
-- conexión de entrada de línea para tabletas, teléfonos o reproductores mp3
+- Dispositivos compatibles: ordenador de sobremesa
+- potencia máxima de 28 w (rms de 14 w)
 - control de volumen de gran tamaño, iluminado y de fácil acceso en el frontal
+- conexión de entrada de línea para tabletas, teléfonos o reproductores mp3
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00PC4UP2C/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [G-STAR RAW Eyben Slim T-Shirt  Blau  Sartho Blue 2757-6067   XS para Muje
 
 ℹ️:
 
-- Bajo recto
 - Logotipo de G-Star RAW estampado en el pecho
+- Bajo recto
 - Cuello redondo de canalé
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MXWNHXG/?tag=tolees-21)

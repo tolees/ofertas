@@ -28,8 +28,8 @@ Está [G-STAR RAW Eyben Slim T-Shirt  Schwarz  Black 2757-990   L para Mujer](ht
 
 ℹ️:
 
-- Logotipo de G-Star RAW estampado en el pecho
 - Cuello redondo de canalé
+- Logotipo de G-Star RAW estampado en el pecho
 - Bajo recto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MXWNJNE/?tag=tolees-21)
