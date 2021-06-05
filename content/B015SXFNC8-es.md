@@ -28,10 +28,10 @@ En este momento está [Grisport BMG057  Zapatos Hombre  Marrón  Brown   40 EU](
 
 🔎:
 
+- Grisport Melrose Active - Zapatillas deportivas
 - Increíble comodidad
 - Forro impermeable Gritex
-- Parte superior de cuero encerado
 - Suela activa
-- Grisport Melrose Active - Zapatillas deportivas
+- Parte superior de cuero encerado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B015SXFNC8/?tag=tolees-21)
