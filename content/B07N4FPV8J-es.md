@@ -28,10 +28,10 @@ En este momento está [LG 24MK600M-W - Monitor FHD de 60 4 cm  23 8"  con Panel 
 
 🔎:
 
-- Muestra por encima del 72% del espectro de color NTSC
 - Panel IPS que permite colores constantes a 178º de ángulo de visión
-- Mejora de la productividad con hasta en 4 pantallas gracias al modo ScreenSplit Multipantalla
-- Tecnología RADEON FreeSync para disfrutar la acción sin parpadeos
+- Muestra por encima del 72% del espectro de color NTSC
 - Diseño virtualmente sin bordes para una experiencia de uso inmersiva y fluida en configuraciones multimonitor
+- Tecnología RADEON FreeSync para disfrutar la acción sin parpadeos
+- Mejora de la productividad con hasta en 4 pantallas gracias al modo ScreenSplit Multipantalla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N4FPV8J/?tag=tolees-21)

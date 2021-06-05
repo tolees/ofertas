@@ -28,8 +28,8 @@ Está [EasyAcc Funda Compatible con Lenovo Tab M10 HD  2ª generación  10.1 Pul
 
 ℹ️:
 
-- Delgado y portátil: solo pesa 5 mm, es la funda ideal para tu tableta.
 - Función de atril con dos posiciones: fija tu dispositivo en un ángulo de visión ideal o en una posición cómoda para escribir.
+- Delgado y portátil: solo pesa 5 mm, es la funda ideal para tu tableta.
 - Compatible con Lenovo Tab M10 HD 2nd Gen10.1 pulgadas: te ofrece una protección completa de 360º compatible con tu Lenovo Tab M10 HD (2ª generación) de 10,1 pulgadas. Modelo: TB-X306X/TB-X306F.
 - Imán fuerte: imán incorporado para controlar la función de encendido y apagado y para fijar la cubierta frontal firmemente en tu iPad cuando está cerrada.
 - Imán fuerte: imán incorporado para controlar la función de encendido y apagado y para fijar la cubierta frontal firmemente en tu iPad cuando está cerrada.

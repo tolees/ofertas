@@ -28,10 +28,10 @@ Ahora mismo tienes [Sleepdown - Juego de Cama Individual de Sleep Down  algodón
 
 🔎:
 
-- Disponible en un juego completo con sábana bajera a juego.
 - Viene en tamaño individual, doble, king o super king.
-- Gama premium de Peridae.
-- Lavable a máquina, se puede secar en secadora.
 - Hecho de una mezcla de poliéster y algodón.
+- Lavable a máquina, se puede secar en secadora.
+- Gama premium de Peridae.
+- Disponible en un juego completo con sábana bajera a juego.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MVR7BPF/?tag=tolees-21)

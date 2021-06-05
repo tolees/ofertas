@@ -30,7 +30,7 @@ Tienes [Fantasy Flight Games- Keyforge - Mundos en Colisión Mazo de Arconte Del
 
 - Esta caja contiene todo lo que un jugador necesita para jugar a keyforge, incluidos nuevos contadores de estado
 - Dos nuevas Casas se unen al conflicto
-- Mundos en colisión presenta 284 cartas nuevas que generan una nueva gama de mazos únicos para descubrir, explorar y dominar
 - Contiene 1 mazo de Arconte único de 37 cartas y contadores de Estado
+- Mundos en colisión presenta 284 cartas nuevas que generan una nueva gama de mazos únicos para descubrir, explorar y dominar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZKYFTX5/?tag=tolees-21)
