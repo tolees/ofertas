@@ -28,8 +28,8 @@ Tienes [Gorjuss Libreta A4 Tapa Plástico](https://www.amazon.es/dp/B084TGDVLM/?
 
 🔎:
 
+- 1033Gj01
 - Diseño moderno y funcional
 - Libreta a4 tapa plástico autumn leaves
-- 1033Gj01
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084TGDVLM/?tag=tolees-21)
