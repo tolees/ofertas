@@ -28,7 +28,7 @@ Tienes [Vero Moda Vmdonnadina Faux Suede Short Skirt Noos Falda  Marrón  Cognac
 
 🔎:
 
-- Short plain skirt
 - Faux suede skirt
+- Short plain skirt
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QZ7Q6J4/?tag=tolees-21)
