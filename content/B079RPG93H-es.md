@@ -28,9 +28,9 @@ En este momento está [Philips ComfortTouch Plus GC558/30 Plancha Vertical con C
 
 🔎:
 
-- Tecnología FlexHead para llegar fácilmente a la parte inferior de las prendas
 - MyEssence refresca tus prendas con tus aromas favoritos
 - Su vapor continuo elimina los olores y acaba con el 99,9 % de las bacterias
+- Tecnología FlexHead para llegar fácilmente a la parte inferior de las prendas
 - Cinco posiciones de vapor para distintos tipos de tejido y seguro en todos los tejidos que se pueden planchar: sin quemaduras, garantizado
 - Accesorio StyleBoard extralargo para obtener mejores resultados de arriba a abajo
 

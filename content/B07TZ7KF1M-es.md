@@ -28,12 +28,12 @@ Está [Alcatel 3088X - Teléfono móvil de 2.4"  Wi-Fi  RAM de 4 GB  memoria int
 
 ℹ️:
 
-- Resolución: 2 MP (fotos de hasta 3,2 MP), Flash LED
-- Pantalla de 2,4 pulgadas
-- Memoria RAM de 4 GB
+- Memoria interna de 512 MB
 - Tiene Bluetooth
 - Resolución: QVGA de 240 × 320 píxeles
-- Memoria interna de 512 MB
 - Captura de vídeo: 640*480P a 30 fps
+- Memoria RAM de 4 GB
+- Resolución: 2 MP (fotos de hasta 3,2 MP), Flash LED
+- Pantalla de 2,4 pulgadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TZ7KF1M/?tag=tolees-21)
