@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pink Royal - Rosa Royal Dry Gin  1 x 0 7 al 52.18 % de rebaja'
-date: 2021-05-20 09:35:39
+date: 2021-06-05 06:34:22
 image: 'https://m.media-amazon.com/images/I/51bdBUL88CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pink Royal'
 buyurl: 'https://www.amazon.es/dp/B01EYY39QY/?tag=tolees-21'
 descuento: '52.18'
-average: '20.805'
+average: '20.0809090909091'
 ---
 
 Tienes [Pink Royal - Rosa Royal Dry Gin  1 x 0 7 l ](https://www.amazon.es/dp/B01EYY39QY/?tag=tolees-21) con precio final de  12.84 EUR (original: 26.85 EUR) (52.18 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Pink Royal - Rosa Royal Dry Gin  1 x 0 7 l ](https://www.amazon.es/dp/
 
 🔎:
 
-- 4 Destilaciones en alambique de cobre
 - Ginebra rosa/pink gin con arandanos, moras y frambuesas.
+- 4 Destilaciones en alambique de cobre
 - La botella se inspira en el legendario diamante rosa Khavaraya
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01EYY39QY/?tag=tolees-21)
