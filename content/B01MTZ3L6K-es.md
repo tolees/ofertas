@@ -28,9 +28,9 @@ Está [G-STAR RAW Eyben Slim T-Shirt  Weiß  White 2757-110   M para Mujer](http
 
 ℹ️:
 
-- Cuello redondo
-- Marca en el pecho
 - Corte ajustado
+- Cuello redondo
 - Mangas casquillo
+- Marca en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MTZ3L6K/?tag=tolees-21)

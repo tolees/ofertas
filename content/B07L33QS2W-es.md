@@ -28,9 +28,9 @@ Ahora mismo tienes [Asics Onitsuka Tiger California 78 Ex  Zapatillas de Running
 
 🔎:
 
+- silueta clásica
 - Cómodo
 - Diseño de inspiración retro
-- silueta clásica
 - Materiales de alta calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07L33QS2W/?tag=tolees-21)

@@ -29,7 +29,7 @@ Está [adidas Campus 80S  Sneaker Hombre  Grey/Footwear White/Off White  46 EU](
 ℹ️:
 
 - Suela de goma
-- La parte superior de cuero
 - Zapatilla de 3 rayas
+- La parte superior de cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PPFD6ZT/?tag=tolees-21)

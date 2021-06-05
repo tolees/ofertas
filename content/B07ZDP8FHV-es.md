@@ -28,10 +28,10 @@ En este momento está [Maped Cosmic - Regla plegable  30 cm . Azul o rosa  aleat
 
 🔎:
 
-- Parte de la nueva gama maped cosmic
-- Regla 30 cm
-- Azul o rosa. Aleatorio
 - Cabe perfectamente en el estuche
+- Regla 30 cm
 - Regla plegable 30 cm
+- Parte de la nueva gama maped cosmic
+- Azul o rosa. Aleatorio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZDP8FHV/?tag=tolees-21)
