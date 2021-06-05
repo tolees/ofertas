@@ -29,7 +29,7 @@ Tienes [Nayeco P100001 - Caseta para Perro](https://www.amazon.es/dp/B00AMDDR00/
 ℹ️:
 
 - Ideal para perros pequeños
-- Fácil de limpiar
 - Aislamiento térmico
+- Fácil de limpiar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AMDDR00/?tag=tolees-21)
