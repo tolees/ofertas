@@ -28,9 +28,9 @@ Tienes [Converse Chuck Taylor All Star Ox Azul Marino Canvas](https://www.amazon
 
 🔎:
 
-- Color: azul marino
-- Estilo: Sneaker Low
 - Material: Canvas
+- Estilo: Sneaker Low
+- Color: azul marino
 - NÃºmero del fabricante: M9697C
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000VDFB9G/?tag=tolees-21)
