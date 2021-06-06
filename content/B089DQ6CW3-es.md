@@ -28,7 +28,7 @@ En este momento está [FILA Oceano men Sandalia Hombre  blanco  White/Fila Navy 
 
 🔎:
 
-- Suela exterior de poliuretano
 - Correa
+- Suela exterior de poliuretano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089DQ6CW3/?tag=tolees-21)
