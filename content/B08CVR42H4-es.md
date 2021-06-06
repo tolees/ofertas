@@ -28,8 +28,8 @@ Tienes [Lee Pique Polo Camisetas  Navy  M/Tall para Hombre](https://www.amazon.e
 
 🔎:
 
-- Corte regular
-- Manga corta
 - KnITS
+- Manga corta
+- Corte regular
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CVR42H4/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [MARSGAMING - Mars Gaming MH318  Cascos Gaming Surround 7.1 R
 
 🔎:
 
-- Iluminación RGB Flow y rueda de control de volumen lateral
-- Auriculares gaming con micrófono de perfil bajo y cancelación de ruido para una comunicación total
 - Diadema de suspensión ligera, almohadillas de cuero sintético con memory-foam de alta calidad y sistema de reducción de ruido pasivo
 - Drivers de neodimio de 50mm, sonido posicional 7.1 y drivers dobles SENSUS con graves ultra-profundos
+- Iluminación RGB Flow y rueda de control de volumen lateral
+- Auriculares gaming con micrófono de perfil bajo y cancelación de ruido para una comunicación total
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DNSCNWK/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [ABLEWE Hub USB C a Ethernet  4 en 1 Tipo C a RJ45 Adaptador Type C Hub 3
 
 🔎:
 
+- 【4 EN 1 HUB USB C】 Este Hub USB C incluye 3 puertos USB 3.0, 1 puerto RJ45 gigabit y 1 puerto USB tipo C. Por lo tanto, puede conectar simultáneamente múltiples periféricos USB a MacBook. como disco duro, teclado, mouse, impresora, etc.
 - 【Rápida transferencia de datos y el puerto RJ45 Gigabit Ethernet】 Hay 3 puertos USB 3.0, USB 3.0 puertos soportan tasas de transferencia de datos de hasta 5 Gbps., 10 veces más rápido que USB 2.0. Simplemente descargue los documentos en segundos. Y el puerto Gigabit Ethernet admite velocidades de red de 100/1000 Mbps.
 - 【Amplia compatibilidad】 Este adaptador USB C perfecto para MacBook Pro 2019 2018 2017, MacBook Air 2019,2015 / 2016 conserva MacBook de 12 pulgadas, Dell XPS 13, HP spetre x2, Google ChromeBook Pixel 2016/2017, etc.
-- 【4 EN 1 HUB USB C】 Este Hub USB C incluye 3 puertos USB 3.0, 1 puerto RJ45 gigabit y 1 puerto USB tipo C. Por lo tanto, puede conectar simultáneamente múltiples periféricos USB a MacBook. como disco duro, teclado, mouse, impresora, etc.
 - 【Plug to Play】: no es necesario instalar ningún controlador, proporciona acceso a velocidades de red súper rápidas de 1000Mbps, solo tiene que enchufar y usar, y hace posible que las computadoras sin un puerto Ethernet se conecten a un cable Ethernet.
 - 【Fácil de usar】ABLEWE Hub USB Type C Hub No necesita instalación del controlador, Plug and Play en un segundo. El diseño de la caja de aluminio premium hace que este Hub sea duradero Y ABLEWE ofrece una garantía de 18 meses sin preocupaciones y un servicio al cliente profesional.
 
