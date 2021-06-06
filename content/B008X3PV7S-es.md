@@ -29,7 +29,7 @@ Ahora mismo tienes [GEOX Man U SIRON MOCCASINS BLACK 39 EU](https://www.amazon.e
 🔎:
 
 - Material de la suela: Goma
-- Revestimiento: Tela
 - Material exterior: Cuero
+- Revestimiento: Tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008X3PV7S/?tag=tolees-21)
