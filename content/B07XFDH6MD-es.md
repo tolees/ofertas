@@ -28,14 +28,14 @@ Está [Huawei Watch GT2 - Smartwatch con Caja de 46 Mm  Pantalla Táctil Amoled 
 
 ℹ️:
 
+- 15 modos de entrenamiento: múltiple cursos de entrenamiento profesional desde el nivel básico hasta el avanzado están preinstalados en el smartwatch, permitiendo una orientación profesional y efectiva
+- Dos sistemas de posicionamiento (GPS y GLONASS) para detectar más satélites y aumentar la precisión de posicionamiento
 - HUAWEI WATCH GT 2 (46 mm) incorpora una pantalla de cristal 3D, un nuevo paso en la industria de los smartwatch; su pantalla AMOLED de 1.39 pulgadas tiene una tasa de respuesta rápida y precisa
 - Requisitos del sistema: Android 4.4 o posterior, iOS 9.0 o posterior; Bluetooth: Bluetooth: BT5.1, BLE / BR / EDR
-- 15 modos de entrenamiento: múltiple cursos de entrenamiento profesional desde el nivel básico hasta el avanzado están preinstalados en el smartwatch, permitiendo una orientación profesional y efectiva
-- HUAWEI WATCH GT 2 (46 mm) admite funciones como notificación de mensajes, seguimiento de sueño TruSleep 2.0 y monitoreo de presión TruRelax (la función de estrés solo está disponible en android)
-- Dos sistemas de posicionamiento (GPS y GLONASS) para detectar más satélites y aumentar la precisión de posicionamiento
-- No es un dispositivo médico ni pretende diagnosticar, tratar, curar o prevenir ninguna enfermedad.
-- La saturación de oxígeno en la sangre se proporciona como una estimación calculada en función de diferentes factores en combinación con los datos de Huawei Health App
-- Kirin A1, el primer procesador desarrollado en su totalidad por HUAWEI, ofrece un alto rendimiento y un bajo consumo de energía; con hasta dos semanas de batería
 - Puedes utilizar llamadas bluetooth durante los entrenamientos y en tu vida diaria; incluye: correr, andar en bicicleta, conducir o hacer tareas domésticas
+- HUAWEI WATCH GT 2 (46 mm) admite funciones como notificación de mensajes, seguimiento de sueño TruSleep 2.0 y monitoreo de presión TruRelax (la función de estrés solo está disponible en android)
+- No es un dispositivo médico ni pretende diagnosticar, tratar, curar o prevenir ninguna enfermedad.
+- Kirin A1, el primer procesador desarrollado en su totalidad por HUAWEI, ofrece un alto rendimiento y un bajo consumo de energía; con hasta dos semanas de batería
+- La saturación de oxígeno en la sangre se proporciona como una estimación calculada en función de diferentes factores en combinación con los datos de Huawei Health App
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XFDH6MD/?tag=tolees-21)

@@ -29,8 +29,8 @@ Ahora mismo tienes [adidas Originals Samba  Zapatillas de Fútbol Hombre  Negro 
 🔎:
 
 - Bolsillos frontales con cremallera.
+- Ventilación Climacool.
 - Cintura elástica con cordón.
 - Visera curvada.
-- Ventilación Climacool.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003QZ7OGE/?tag=tolees-21)
