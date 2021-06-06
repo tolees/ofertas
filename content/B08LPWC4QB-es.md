@@ -29,8 +29,8 @@ Tienes [KARACTERMANIA Stranger Things 8 bits-Bolso Redondo  Multicolor](https://
 🔎:
 
 - Forro interior con bolsillo
-- Correa al hombro de cadena de 110cm
-- Bolso con compartimento principal y bolsillo trasero cerrados con cremallera
 - Dimensiones: 19 x 19 x 6cm
+- Bolso con compartimento principal y bolsillo trasero cerrados con cremallera
+- Correa al hombro de cadena de 110cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LPWC4QB/?tag=tolees-21)

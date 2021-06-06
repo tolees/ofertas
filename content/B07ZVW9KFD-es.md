@@ -28,10 +28,10 @@ Tienes [Levi s XX Chino Taper Short II Pantalones Cortos Casuales  Bunker Olive 
 
 🔎:
 
+- Color: Verdone
+- Estación: Primavera/Verano
 - Designer: LEVIS
 - Material: algodón
 - Artículo: 17202
-- Estación: Primavera/Verano
-- Color: Verdone
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZVW9KFD/?tag=tolees-21)

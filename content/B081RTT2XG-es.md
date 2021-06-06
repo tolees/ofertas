@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA Campus Grip Bag Bolsa Deporte  Unisex Adulto  Black  OS
 
 🔎:
 
-- Asas de transporte acolchadas en la parte superior
-- Correa ajustable de cincha para el hombro
 - Bolsillo delantero
-- Abertura con cremallera de doble cursor para el compartimento principal
+- Correa ajustable de cincha para el hombro
 - Bolsillo con cremallera en el interior del compartimento principal
+- Abertura con cremallera de doble cursor para el compartimento principal
+- Asas de transporte acolchadas en la parte superior
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081RTT2XG/?tag=tolees-21)

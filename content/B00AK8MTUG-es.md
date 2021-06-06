@@ -30,7 +30,7 @@ En este momento está [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adu
 
 - Forro interior sin forro.
 - Suela de goma vulcanizada natural.
-- Con parte superior de algodón puro extrafuerte sin forro.
 - Placa Superga en el lado y el talón.
+- Con parte superior de algodón puro extrafuerte sin forro.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00AK8MTUG/?tag=tolees-21)

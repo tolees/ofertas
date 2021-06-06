@@ -28,9 +28,9 @@ Tienes [Luckies of London - Mapa para rascar  82.5 x 59.4 cm](https://www.amazon
 
 🔎:
 
-- Con islas y ciudades adicionales
+- Con detalles geográficos e infográficos
 - Color de cobre profundo
 - Rasque los países que has visitado
-- Con detalles geográficos e infográficos
+- Con islas y ciudades adicionales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FGXAU4M/?tag=tolees-21)
