@@ -29,9 +29,9 @@ Está [Catherine Lansfield Annika - Cortinas con Ojales  156 x 222 cm   Color Oc
 ℹ️:
 
 - Este paquete contiene un par de cortinas con ojales de 168 x 228 cm
-- Inspiradas en las impresiones de los años 60, estas cortinas florales retro de color gris y ocre con panel superior en contraste tienen un cabecero con ojales para crear un nuevo aspecto rápido y fácil y también están totalmente forradas para una hermosa caída
-- Cortinas totalmente forradas con ojales cuidadosamente elaboradas con nuestra tela de mezcla de algodón
-- Si tienes alguna pregunta o comentarios sobre nuestros productos, ponte en contacto con nuestro equipo de atención al cliente
 - Catherine Lansfield es famosa por su estilo y calidad, un diseño contemporáneo británico
+- Inspiradas en las impresiones de los años 60, estas cortinas florales retro de color gris y ocre con panel superior en contraste tienen un cabecero con ojales para crear un nuevo aspecto rápido y fácil y también están totalmente forradas para una hermosa caída
+- Si tienes alguna pregunta o comentarios sobre nuestros productos, ponte en contacto con nuestro equipo de atención al cliente
+- Cortinas totalmente forradas con ojales cuidadosamente elaboradas con nuestra tela de mezcla de algodón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TN1ZTFF/?tag=tolees-21)

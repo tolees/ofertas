@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas G A.R. W Ask T Tights  Niñas  Black/Matte Silver  7-
 
 🔎:
 
+- Climalite anti-humidity fabric
 - Slim fit
 - Elastic waistband
-- Climalite anti-humidity fabric
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089Z97CXT/?tag=tolees-21)

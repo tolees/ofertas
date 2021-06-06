@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'adidas Originals Samba Leather  Zapatill con un 54.97 % de descuento'
-date: 2021-06-03 13:38:52
+title: 'adidas Originals Samba Leather  Zapatill con un 56.41 % de descuento'
+date: 2021-06-06 10:44:45
 image: 'https://m.media-amazon.com/images/I/415xhdqolcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: 'tole.es'
 slug: 'B003QYYJAO-es adidas Originals Samba Leather Zapatillas de Fútbol Hombre...'
 sku: 'B003QYYJAO-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','adidas originals', ]
-actualPrice: 31.5 EUR
+actualPrice: 30.49 EUR
 currency: EUR
-price: 31.5
+price: 30.49
 comparePrice: 69.95 EUR
 prodname: 'adidas Originals Samba Leather  Zapatillas de Fútbol Hombre  Negro Black Running White  38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas Originals'
 buyurl: 'https://www.amazon.es/dp/B003QYYJAO/?tag=tolees-21'
-descuento: '54.97'
-average: '37.396875'
+descuento: '56.41'
+average: '37.1875757575758'
 ---
 
-En este momento está [adidas Originals Samba Leather  Zapatillas de Fútbol Hombre  Negro Black Running White  38 EU](https://www.amazon.es/dp/B003QYYJAO/?tag=tolees-21) a 31.5 EUR (original: 69.95 EUR) (54.97 %  de descuento) en el siguiente enlace!
+En este momento está [adidas Originals Samba Leather  Zapatillas de Fútbol Hombre  Negro Black Running White  38 EU](https://www.amazon.es/dp/B003QYYJAO/?tag=tolees-21) a 30.49 EUR (original: 69.95 EUR) (56.41 %  de descuento) en el siguiente enlace!
 
 [![adidas Originals Samba Leather  Zapatill](https://m.media-amazon.com/images/I/415xhdqolcL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B003QYYJAO/?tag=tolees-21)
 
 🔎:
 
-- Capucha forrada.
 - Bolsillos frontales con cremallera.
-- Bolsillos canguro.
 - Manga larga con puños de canalé.
+- Capucha forrada.
+- Bolsillos canguro.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003QYYJAO/?tag=tolees-21)
