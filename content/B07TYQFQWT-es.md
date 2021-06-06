@@ -28,10 +28,10 @@ Ahora mismo tienes [Superga 2750 Cotu Classic  Zapatillas Unisex Adulto  Morado 
 
 🔎:
 
-- Tipo de tacón: Plano
-- Material exterior: Lona
-- Revestimiento: Tela
 - Cierre: Cordones
+- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Revestimiento: Tela
+- Material exterior: Lona
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TYQFQWT/?tag=tolees-21)

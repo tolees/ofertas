@@ -28,10 +28,10 @@ En este momento está [Elio Berhanyer Myrrh Vetiver Vanilla Para Mujer Eau de Pa
 
 🔎:
 
-- Una potente creación que desprende armonia y exclusividad.
 - Notas de salida: bergamota y lima.
-- Bergamota y lima, dos notas afrutadas que dejan a su salida la marca de una contundente personalidad. Arrolladora, enigmática y genuina, llega al corazón de la fragancia para sorprender con un toque especiado e intenso de mirra. Una experiencia que se desvanace lentamente hasta convertirse en un dulce recuerdo de vainilla y vetiver.
 - Notas de corazón: mirra y perejil.
+- Una potente creación que desprende armonia y exclusividad.
 - Notas de fondo: vetiver y vainilla.
+- Bergamota y lima, dos notas afrutadas que dejan a su salida la marca de una contundente personalidad. Arrolladora, enigmática y genuina, llega al corazón de la fragancia para sorprender con un toque especiado e intenso de mirra. Una experiencia que se desvanace lentamente hasta convertirse en un dulce recuerdo de vainilla y vetiver.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0854CMPY3/?tag=tolees-21)

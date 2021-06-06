@@ -28,10 +28,10 @@ Tienes [Tenda AC23 – AC2100 - Router WiFi Gigabit de Doble Banda  7 x 6dBi Ext
 
 ℹ️:
 
-- El procesador de doble núcleo (CPU de 28 nm a 1 GHz + coprocesador de 500 MHz) ofrece un funcionamiento más estable en conexiones inalámbricas y por cable
-- 4×4 MU-MIMO Tecnología de banda de 5GHz permite múltiples dispositivos conectados de su hogar inteligente
-- Router Wi-Fi de banda dual con tecnología 802.11ac wave 2, proporciona velocidad Wi-Fi de 2033Mbps. (2,4 GHz: 300 Mbps; 5,0 GHz: 1733 Mbps)
-- 2100Mbps para Gaming y video HD/4K en el ancho de banda total disponible
 - Antenas externas de 7 × 6dBi brindan una cobertura WiFi optimizada y una mejor señal WiFi
+- 4×4 MU-MIMO Tecnología de banda de 5GHz permite múltiples dispositivos conectados de su hogar inteligente
+- El procesador de doble núcleo (CPU de 28 nm a 1 GHz + coprocesador de 500 MHz) ofrece un funcionamiento más estable en conexiones inalámbricas y por cable
+- 2100Mbps para Gaming y video HD/4K en el ancho de banda total disponible
+- Router Wi-Fi de banda dual con tecnología 802.11ac wave 2, proporciona velocidad Wi-Fi de 2033Mbps. (2,4 GHz: 300 Mbps; 5,0 GHz: 1733 Mbps)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN5QDPC/?tag=tolees-21)
