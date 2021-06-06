@@ -28,8 +28,8 @@ Tienes [Levi s Batwing Hoodie  Felpa Donna  Avorio  Sportswear Hoodiee White 000
 
 🔎:
 
+- Puños acanalados
 - Estilo deportivo y comodidad informal
 - Bolsillo tipo canguro
-- Puños acanalados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073QNC9WY/?tag=tolees-21)
