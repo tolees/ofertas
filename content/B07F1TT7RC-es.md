@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Graphic tee B Camiseta  Hm LS Better White  XS para H
 
 🔎:
 
-- Elaborada en punto suave
 - Con un logo Levis en horizontal en el pecho
+- Elaborada en punto suave
 - Modelo casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F1TT7RC/?tag=tolees-21)

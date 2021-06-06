@@ -28,10 +28,10 @@ Está [San Ignacio DESCANSO Colchón "Grafenblack" GRAFENO - altura del colchón
 
 ℹ️:
 
-- Colchón enrollado y sellado para una mayor higiene; envasado al vacío con doble protección; producto fabricado en españa; colchón con la garantía de san ignacio. 75 años soñando juntos
-- Visco-grafeno: termorregulador y antiestrés; la adaptabilidad de la visco y la conductividad térmica del grafeno, con propiedades antibacterianas y efecto ionizante, proporcionan las condiciones idóneas para una relajación total y descanso absoluto
 - El colchón enrollado grafenblack visco grafeno de san ignacio es un producto pensado para el desafío de tu descanso diario proporcionándote momentos de calidad esenciales para la salud; firmeza: alta
+- Visco-grafeno: termorregulador y antiestrés; la adaptabilidad de la visco y la conductividad térmica del grafeno, con propiedades antibacterianas y efecto ionizante, proporcionan las condiciones idóneas para una relajación total y descanso absoluto
 - Acolchado superior con visco-carbono, más el confort progresivo de la capa super-soft comfortive progress; soporte de firmeza y adaptabilidad en su núcleo con espumación hr (high resilience) de máxima calidad, la mejor del mercado
+- Colchón enrollado y sellado para una mayor higiene; envasado al vacío con doble protección; producto fabricado en españa; colchón con la garantía de san ignacio. 75 años soñando juntos
 - Módulo inferior con tejido 3d transpirable de alta calidad y una capa super-soft; platabanda con tejido acolchado compuesto de fibras naturales para una mejor aireación constante, con propiedades antialérgicas y evitando la acumulación de calor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LCDB6DZ/?tag=tolees-21)

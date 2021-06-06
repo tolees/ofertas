@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WN881ND - WIFI Adaptador PCI  al 37.89 % de descuento'
-date: 2021-06-05 08:09:25
+date: 2021-06-06 08:36:18
 image: 'https://m.media-amazon.com/images/I/415vrQMpdJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B006BSPTAQ/?tag=tolees-21'
 descuento: '37.89'
-average: '12.9763498098864'
+average: '12.9763636363641'
 ---
 
 Está [TP-Link TL-WN881ND - WIFI Adaptador PCI Express  Tarjeta de Red  300 Mbps  2.4 GHz  802.11n/g/b  2 antenas desmontables   para Raspberry Pi  PC de Sobremesa](https://www.amazon.es/dp/B006BSPTAQ/?tag=tolees-21) con 37.89 de descuento por 12.98 EUR (original: 20.9 EUR) en el siguiente enlace!
