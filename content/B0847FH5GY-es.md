@@ -28,11 +28,11 @@ Tienes [Camper Pelotas  Zapatillas Hombre  Multicolor  40 EU](https://www.amazon
 
 ℹ️:
 
-- Heel height: 4 centímetros
-- Lining: sintético, lona
 - Closure: encaje
-- Sole material: sintético
-- Outer material: lienzo, cuero liso
+- Heel height: 4 centímetros
 - Heel type: plano
+- Outer material: lienzo, cuero liso
+- Lining: sintético, lona
+- Sole material: sintético
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0847FH5GY/?tag=tolees-21)
