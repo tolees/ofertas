@@ -28,11 +28,11 @@ Tienes [Fellowes Office Suites - Soporte Elevador Ajustable para portátil  Ajus
 
 ℹ️:
 
-- Certificado por FIRA International Ltd para cumplir con los requisitos ergonómicos establecidos en la legislación europea de salud y seguridad: EN ISO 9241-5
-- El elevador de ordenador portátil Fellowes Office Suites ofrece 6 ajustes de altura (entre 140 y 190 mm) que colocan la pantalla en un ángulo de visión cómodo para ti
-- Este soporte elevador para portátil de Fellowes eleva la pantalla del ordenador al nivel de los ojos y la coloca a una altura de visualización más cómoda con simples ajustes
 - Su diseño moderno y limpio evita que tu ordenador portátil se sobrecaliente y complementa tu espacio de trabajo de manera adecuada
 - Cuenta con un borde frontal estabilizador que evita que el ordenador portátil se deslice del soporte
+- Certificado por FIRA International Ltd para cumplir con los requisitos ergonómicos establecidos en la legislación europea de salud y seguridad: EN ISO 9241-5
 - Trabaja con comodidad y estilo con el soporte para portátil Office Suites de Fellowes, que puede soportar portátiles de hasta 5 kg
+- El elevador de ordenador portátil Fellowes Office Suites ofrece 6 ajustes de altura (entre 140 y 190 mm) que colocan la pantalla en un ángulo de visión cómodo para ti
+- Este soporte elevador para portátil de Fellowes eleva la pantalla del ordenador al nivel de los ojos y la coloca a una altura de visualización más cómoda con simples ajustes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0002LD0ZE/?tag=tolees-21)

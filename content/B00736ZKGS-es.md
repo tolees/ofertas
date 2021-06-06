@@ -28,10 +28,10 @@ Está [Sony Music - Up All Night - The Live Tour](https://www.amazon.es/dp/B0073
 
 ℹ️:
 
+- Na Na Na
 - I Wish
 - I Gotta Feeling / Stereo Hearts
-- Na Na Na
-- Stand Up
 - Valerie / Torn
+- Stand Up
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00736ZKGS/?tag=tolees-21)

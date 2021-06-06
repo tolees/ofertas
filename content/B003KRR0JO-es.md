@@ -29,9 +29,9 @@ Tienes [Chef n - Pinzas para Bolsas de Alimentos  4 Unidades  tamaño pequeño ]
 ℹ️:
 
 - Colores vivos.
-- Base magnética para facilitar su fijación a neveras y otras superficies metálicas.
-- 4 unidades.
 - Se puede lavar en lavavajillas.
+- 4 unidades.
 - Tamaño de cada pinza: 6,5 x 3,5 x 2,5 cm.
+- Base magnética para facilitar su fijación a neveras y otras superficies metálicas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003KRR0JO/?tag=tolees-21)

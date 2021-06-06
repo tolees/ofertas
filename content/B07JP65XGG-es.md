@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jjimarco Jjbowie Sa Pantalones  Verde  Olive Night Olive Ni
 
 ℹ️:
 
-- elastic cotton quality
 - chino pants in olive green
+- elastic cotton quality
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07JP65XGG/?tag=tolees-21)

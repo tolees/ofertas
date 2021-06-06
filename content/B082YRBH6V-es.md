@@ -28,10 +28,10 @@ Está [Energizer MLTV32 - Linterna](https://www.amazon.es/dp/B082YRBH6V/?tag=tol
 
 ℹ️:
 
-- Manual beam focus allows you to change the size of the flashlight beam by pulling the lens in or out, from a narrow spotlight to a wide flood beam
 - The EVEREADY LED Tactical Flashlight runs on 3 AAA batteries, not included
-- Compacto, duradero metal provides protección from damage while IPX4 construcción withstands splashing
-- Hasta 270 lúmenes en un flash táctico que puede iluminar objetivos de hasta 185 metros (modo alto)
 - Switch between high mode, low mode, and safety strobe for three brightness settings that fit any situation
+- Compacto, duradero metal provides protección from damage while IPX4 construcción withstands splashing
+- Manual beam focus allows you to change the size of the flashlight beam by pulling the lens in or out, from a narrow spotlight to a wide flood beam
+- Hasta 270 lúmenes en un flash táctico que puede iluminar objetivos de hasta 185 metros (modo alto)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082YRBH6V/?tag=tolees-21)
