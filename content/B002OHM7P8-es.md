@@ -28,9 +28,9 @@ En este momento está [Wolfcraft 1342000 1342000-2 Puntas Solid  Phillips  para 
 
 🔎:
 
+- Diseño funcional
 - Brand: Wolfcraft
 - Alta calidad
 - Bienvenido a Wolfcraft, el fabricante de herramientas innovadoras y proveedor confiable de accesorios para herramientas eléctricas
-- Diseño funcional
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002OHM7P8/?tag=tolees-21)

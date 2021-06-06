@@ -28,12 +28,12 @@ Ahora mismo tienes [Oxford Touch - Pack de 5 cuadernos espiral de tapa extradura
 
 🔎:
 
-- Acabado de papel: smooth; Tamaño de papel: 8º/110 x 167 mm
-- 120 hojas con cuadriculado 5mm x 5mm, sin margen, y bandas de 4 colores vivos para clasificar los apuntes
-- Con espiral simple azul, para poder girar las páginas 360º
 - Tamaño de papel: 8º/110 x 167 mm
+- Tapa extradura y de tacto suave, que le da resistencia para poder escribir sobre cualquier superfície
 - En formato 8º
 - Paquete surtido de 5 colores touch: lila, lima, frambuesa, aqua y coral
-- Tapa extradura y de tacto suave, que le da resistencia para poder escribir sobre cualquier superfície
+- 120 hojas con cuadriculado 5mm x 5mm, sin margen, y bandas de 4 colores vivos para clasificar los apuntes
+- Acabado de papel: smooth; Tamaño de papel: 8º/110 x 167 mm
+- Con espiral simple azul, para poder girar las páginas 360º
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0742NGVHY/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [ABYstyle - World of Warcraft - Cuaderno A5 - Horde](https://www.amazon.e
 🔎:
 
 - estampado interior con impresión inferior
-- 100 páginas
 - dimensiones : H. 21,7 cm x 15,5 cm
 - 100% oficial
 - funda de cartón
+- 100 páginas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081RVSF9J/?tag=tolees-21)

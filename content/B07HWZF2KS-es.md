@@ -28,7 +28,7 @@ Ahora mismo tienes [COLGATE enjuague bucal plax multiprotección formato viaje b
 
 🔎:
 
-- Enjuague bucal de eficacia clínica demostrada
 - Elimina la placa bacteriana eficazmente y proporciona una protección 24 horas al día
+- Enjuague bucal de eficacia clínica demostrada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HWZF2KS/?tag=tolees-21)

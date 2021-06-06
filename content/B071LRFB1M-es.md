@@ -28,10 +28,10 @@ Está [MARSGAMING - Mars Gaming MRMP0  Alfombrilla Gaming  Base Caucho Borde Ref
 
 ℹ️:
 
-- La superficie de la MRMP0 ha sido diseñada para ofrecer la máxima precisión con cualquier ratón. Juegues con ratón óptico o láser, la MRMP0 es el complemento perfecto
-- La MRMP0, con su diseño Mars Gaming en rojo, es apta para utilizarse con sensores ópticos o láser. Decora tu escritorio con esta alfombrilla gaming total.
 - Viaja hasta Marte con el genial diseño en rojo de Mars Gaming. Marte, el planeta que da nombre a la marca, ilustra esta alfombrilla para llevar a tu escritorio el poder y el diseño del espacio.
-- La alfombrilla MRMP0, con su base de caucho natural, permanece sujeta a la mesa y asegura la máximo agarre durante el juego.
 - El borde reforzado de la alfombrilla MRMP0 está pensado para una durabilidad máxima. Disfruta de la MRMP0 durante muchísimo tiempo
+- La alfombrilla MRMP0, con su base de caucho natural, permanece sujeta a la mesa y asegura la máximo agarre durante el juego.
+- La MRMP0, con su diseño Mars Gaming en rojo, es apta para utilizarse con sensores ópticos o láser. Decora tu escritorio con esta alfombrilla gaming total.
+- La superficie de la MRMP0 ha sido diseñada para ofrecer la máxima precisión con cualquier ratón. Juegues con ratón óptico o láser, la MRMP0 es el complemento perfecto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071LRFB1M/?tag=tolees-21)
