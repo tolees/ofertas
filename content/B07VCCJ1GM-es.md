@@ -28,8 +28,8 @@ Está [Napapijri Nakuro 3 Pantalones Cortos  Blanco  Bright White 0021   29  Tal
 
 ℹ️:
 
-- 0021 Bright white
 - nakuro 3 NAPAPIJRI nakuro 3
+- 0021 Bright white
 - Abbigliamento Bermuda Uomo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VCCJ1GM/?tag=tolees-21)
