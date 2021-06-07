@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Basic Tank Top - Camiseta d al 38.30 % de descuento'
-date: 2021-06-03 19:27:54
+date: 2021-06-07 09:45:30
 image: 'https://m.media-amazon.com/images/I/31w+UVhuHHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Jack & Jones Basic Tank Top - Camiseta de tirantes con cuello redondo sin
 
 ℹ️:
 
-- Elástica para una mayor comodidad.
-- Estilo no. 12074784.
 - Cuello redondo.
-- Corte ajustado.
+- Estilo no. 12074784.
 - Estilo básico.
+- Elástica para una mayor comodidad.
+- Corte ajustado.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00I0PY8O6/?tag=tolees-21)
