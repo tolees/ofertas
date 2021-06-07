@@ -28,10 +28,10 @@ Tienes [MegaGear Ever Ready – Funda de Piel para cámara  Bolsa para Cámara
 
 ℹ️:
 
+- Mayor protección – gracias a su construcción robusta y a su corte, proporciona máxima protección para la cámara contra golpes, caídas y daños.Protege tu lente y la pantalla LCD de arañazos.
+- Panasonic Lumix DMC-LX100
 - Práctica– Las funciones prácticas permiten un rápido uso de tu cámara cuando sea necesario, disparar es tan fácil como voltear la tapa superior abierta.Perfecto para viajes funcionales y uso en exteriores.
 - Accesibilidad funcional – La EverReady está diseñada para una fotografía eficiente.Puede acceder a todos los puertos periféricos, ranuras para tarjetas, botones, trípode y a la batería sin quitar la funda.
 - Ajuste a medida –La funda de cuero con acceso a la batería está diseñada específicamente para cubrir los modelos de Panasonic Lumix DMC-LX100.
-- Panasonic Lumix DMC-LX100
-- Mayor protección – gracias a su construcción robusta y a su corte, proporciona máxima protección para la cámara contra golpes, caídas y daños.Protege tu lente y la pantalla LCD de arañazos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00RN4SL0W/?tag=tolees-21)

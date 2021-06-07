@@ -28,8 +28,8 @@ En este momento está [Reebok CL Nylon  Zapatillas de Gimnasio Mujer  White Ligh
 
 🔎:
 
-- Empeine de ante y nailon.
-- Zapatillas deportivas
 - Amortiguación
+- Zapatillas deportivas
+- Empeine de ante y nailon.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087GZH4P3/?tag=tolees-21)

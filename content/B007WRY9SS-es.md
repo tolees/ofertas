@@ -28,15 +28,15 @@ Tienes [Bresser - National Geographic 60/700 Telescopio refractor AZ](https://ww
 
 🔎:
 
-- Distancia focal: 700mm
-- Oculares Incluidos: 4, 12.5 y 20mm
-- Diámetro objetivo: 60mm
-- Aumento: 35x – 120x
-- Trípode: incluido.
-- Buscador: Óptico 5x24mm
 - Tipo de montura: Altacimutal
-- Relación focal: f/11.6
-- Accesorios incluidos: Lente barlow 3x y lente Inversora 1,5x.
+- Diámetro objetivo: 60mm
+- Trípode: incluido.
 - Diseño Óptico: Refractor
+- Oculares Incluidos: 4, 12.5 y 20mm
+- Accesorios incluidos: Lente barlow 3x y lente Inversora 1,5x.
+- Aumento: 35x – 120x
+- Relación focal: f/11.6
+- Buscador: Óptico 5x24mm
+- Distancia focal: 700mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007WRY9SS/?tag=tolees-21)

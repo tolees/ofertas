@@ -28,10 +28,10 @@ Ahora mismo tienes [Amazon Basics - Soporte ajustable para monitor  5 unidades](
 
 🔎:
 
+- Espacio de almacenamiento de 28 cm por debajo para dejar el portátil o la videoconsola
+- Patas antideslizantes para mantener el soporte en su sitio
 - Ideal para portátiles, impresoras o monitores de hasta 10 kg
 - Ideal para portátiles, impresoras o monitores de hasta 10 kg
 - Altura ajustable hasta 15 cm
-- Patas antideslizantes para mantener el soporte en su sitio
-- Espacio de almacenamiento de 28 cm por debajo para dejar el portátil o la videoconsola
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071J4WN2Q/?tag=tolees-21)

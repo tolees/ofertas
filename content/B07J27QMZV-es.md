@@ -28,9 +28,9 @@ Ahora mismo tienes [Pepe Jeans Art T-Shirt  Azul  Navy 595   4-5 Anos para Niño
 
 🔎:
 
-- Cuello redondo
 - Camiseta manga corta tejido suave
 - Logo estampado con purpurina
+- Cuello redondo
 - Fit regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07J27QMZV/?tag=tolees-21)
