@@ -30,8 +30,8 @@ En este momento está [MENFORSAN Champú Perros Aceite de Visón](https://www.am
 
 - PH adaptado.
 - Champú de máxima calidad con aceite de visón que protege y nutre el pelaje. Aporta alta hidratación en pelajes secos.
-- Tiene un alto poder penetrante y por su riqueza en ácidos grasos esenciales fortalece las fibras quera tinitas del pelaje restaurando su vitalidad flexibilidad y brillo.
 - Evita o corrige el desequilibrio nutricional que origina el pelo seco, rígido, mate o demasiado fino, que se rompe o anuda.
+- Tiene un alto poder penetrante y por su riqueza en ácidos grasos esenciales fortalece las fibras quera tinitas del pelaje restaurando su vitalidad flexibilidad y brillo.
 - Ideal para un uso frecuente en razas de pelo largo como Yorkshires, Afgano, Maltés, Lhasa Apso y Setters.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00Q78RUXE/?tag=tolees-21)

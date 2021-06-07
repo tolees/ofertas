@@ -28,10 +28,10 @@ Tienes [Quiksilver Molokai Youth  Zapatos de Playa y Piscina Niños  Azul  Blue/
 
 🔎:
 
-- Suela exterior de goma adherente con logos en muescas multi-ángulo para mayor tracción
+- Marca Quiksilver y logo fino moldeado con la montaña y la ola
 - Plantilla con textura antideslizante
 - Correa de goma sintética flexible en 3 puntos
-- Marca Quiksilver y logo fino moldeado con la montaña y la ola
+- Suela exterior de goma adherente con logos en muescas multi-ángulo para mayor tracción
 - Líneas finas en colores pop coordinados en el lateral de la suela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078WT9NG9/?tag=tolees-21)

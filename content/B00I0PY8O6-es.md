@@ -28,10 +28,10 @@ Está [Jack & Jones Basic Tank Top - Camiseta de tirantes con cuello redondo sin
 
 ℹ️:
 
-- Corte ajustado.
-- Cuello redondo.
-- Estilo básico.
-- Estilo no. 12074784.
 - Elástica para una mayor comodidad.
+- Estilo no. 12074784.
+- Cuello redondo.
+- Corte ajustado.
+- Estilo básico.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00I0PY8O6/?tag=tolees-21)

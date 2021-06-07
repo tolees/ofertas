@@ -28,10 +28,10 @@ Tienes [Columbia Silver Ridge II  Pantalones cortos cargo  Hombre  Marrón  Crou
 
 🔎:
 
-- Construcción parcialmente elástica en la cintura para una gran movilidad
+- Durabilidad y confort gracias al material de nylon Ripstop transpirable y al tejido elástico, Capacidad de secado rápido gracias a la tecnología Omni-Wick
 - Contenido: 1x Columbia Silver Ridge II, Pantalones cortos cargo para hombre, Fibra sintética, Marrón (Crouton), W48/L10, Art. 1794922
 - Pantalones cortos para hombres con óptima transpiración, elasticidad y espacio de almacenamiento
-- Durabilidad y confort gracias al material de nylon Ripstop transpirable y al tejido elástico, Capacidad de secado rápido gracias a la tecnología Omni-Wick
+- Construcción parcialmente elástica en la cintura para una gran movilidad
 - Bolsillos cargo, Bolsillo de seguridad con cierre de cremallera y bolsillos detrás, Buen diseño para llevar objetos esenciales y de valor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0817C9JYJ/?tag=tolees-21)
