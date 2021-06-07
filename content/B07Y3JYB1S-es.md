@@ -28,12 +28,12 @@ Está [Blindecor Indus SIN HERRAMIENTAS  Estor enrollable de doble capa  Noche y
 
 ℹ️:
 
-- Se suministran instrucciones de montaje. En nuestra Brand Store: Blindecor dispone de un videotutorial explicativo para su instalación.
-- ANTI- DESHILACHADO: Contiene discos de protección del tejido a los lados para evitar el deshilachamiento. Fácil limpieza con un trapo húmedo
-- Mecanismo, soportes y cadena de PVC en color blanco. Regulación mediante mecanismo de cadena con seguridad infantil
-- Nota: El ancho del producto, incluido soportes y mecanismo, es de 107 cm. El tejido mide 104 cm de ancho.El largo del producto abierto completamente más el mecanismo mide 180 cm. Solo el tejido mide 175 cm
-- Más abajo encontrarás modelos de ventanas compatibles con este estor. Cortina adecuada para habitaciones, salas de estar, comedores, cocinas
-- Opciones de instalación: colgar, atornillar o pegar con cinta adhesiva suministrada
 - Easy Fix, instalación sin herramientas. Tejido Noche y Día 100% poliéster
+- Más abajo encontrarás modelos de ventanas compatibles con este estor. Cortina adecuada para habitaciones, salas de estar, comedores, cocinas
+- Se suministran instrucciones de montaje. En nuestra Brand Store: Blindecor dispone de un videotutorial explicativo para su instalación.
+- Nota: El ancho del producto, incluido soportes y mecanismo, es de 107 cm. El tejido mide 104 cm de ancho.El largo del producto abierto completamente más el mecanismo mide 180 cm. Solo el tejido mide 175 cm
+- ANTI- DESHILACHADO: Contiene discos de protección del tejido a los lados para evitar el deshilachamiento. Fácil limpieza con un trapo húmedo
+- Opciones de instalación: colgar, atornillar o pegar con cinta adhesiva suministrada
+- Mecanismo, soportes y cadena de PVC en color blanco. Regulación mediante mecanismo de cadena con seguridad infantil
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Y3JYB1S/?tag=tolees-21)

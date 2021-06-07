@@ -28,8 +28,8 @@ Tienes [adidas Continental 80 J  Zapatillas Deportivas  FTWR White Collegiate Na
 
 ℹ️:
 
+- Empeine de piel lisa
 - Zapatillas deportivas
 - Estilo vintage
-- Empeine de piel lisa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08PPG95TZ/?tag=tolees-21)

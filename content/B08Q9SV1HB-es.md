@@ -28,8 +28,8 @@ Está [Nike MD Valiant BG  Zapatillas Deportivas  Blanco y Negro  38 EU](https:/
 
 ℹ️:
 
-- Estilo running de los años 90
-- Zapatillas deportivas
 - Parte superior de malla transpirable
+- Zapatillas deportivas
+- Estilo running de los años 90
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08Q9SV1HB/?tag=tolees-21)

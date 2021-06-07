@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Polo SS Noos  Negr al 40.03 % de descuento'
-date: 2021-05-19 17:54:03
+date: 2021-06-07 10:21:35
 image: 'https://m.media-amazon.com/images/I/310ONWp3joL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B079BS7P2F/?tag=tolees-21'
 descuento: '40.03'
-average: '12.277076923077'
+average: '12.2519847328245'
 ---
 
 Ahora mismo tienes [Jack & Jones Jjebasic Polo SS Noos  Negro  Large para Hombre](https://www.amazon.es/dp/B079BS7P2F/?tag=tolees-21) a 8.99 EUR (original: 14.99 EUR) (40.03 %  de descuento) en el siguiente enlace!

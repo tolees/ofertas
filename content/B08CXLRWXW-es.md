@@ -28,10 +28,10 @@ En este momento está [Kipling Backpack  Mochilas de a diario Unisex Adulto  lim
 
 🔎:
 
-- Ligero
 - 0,18 kg
-- 100% poliamida
 - Puff Monkey - pequeño
+- Ligero
+- 100% poliamida
 - Unisex
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXLRWXW/?tag=tolees-21)

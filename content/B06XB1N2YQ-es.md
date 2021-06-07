@@ -30,8 +30,8 @@ Ahora mismo tienes [Geox U Drive Snake N  Mocasines Hombre  Azul  Navy C4002   4
 
 - Color azul
 - Artículo: 00022 U2202N
+- Material: Gamuza
 - Estación: primavera / verano
 - Diseñador: Geox
-- Material: Gamuza
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XB1N2YQ/?tag=tolees-21)

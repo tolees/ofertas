@@ -28,10 +28,10 @@ Ahora mismo tienes [Green Cell PRO - GC Pro Cargador para Portátil HP Compaq 67
 
 🔎:
 
-- Fuente de alimentación de la serie PRO: los circuitos electrónicos de la más alta calidad brindan mayor durabilidad, eficiencia y seguridad en la operación. Más de 3 años de vida útil - durabilidad inigualable
-- Conjunto de seguridad - protección contra cortocircuitos, protección contra sobretensiones, protección térmic
-- Potencia: 135W | Voltaje: 19.5V | Intensidad: 6.92A | Tipo de enchufe: redondo con pin (7.4-5.0mm)
-- Cable de alimentación incluido - un cable resistente de 1,2 m de longitud. Junto con el cable de alimentación, forma un total de más de 2 metros de longitud para una máxima comodidad de uso
 - Cargador Green Cell PRO para la computadora portátil HP Compaq 6710b 6715b 6715s 6910p 8510p nc6400 nx6110 nx7300 nx7400: una fuente de alimentación perfectamente adaptada que cargará de manera eficiente su dispositivo en casa, en la oficina y en los viajes
+- Conjunto de seguridad - protección contra cortocircuitos, protección contra sobretensiones, protección térmic
+- Cable de alimentación incluido - un cable resistente de 1,2 m de longitud. Junto con el cable de alimentación, forma un total de más de 2 metros de longitud para una máxima comodidad de uso
+- Fuente de alimentación de la serie PRO: los circuitos electrónicos de la más alta calidad brindan mayor durabilidad, eficiencia y seguridad en la operación. Más de 3 años de vida útil - durabilidad inigualable
+- Potencia: 135W | Voltaje: 19.5V | Intensidad: 6.92A | Tipo de enchufe: redondo con pin (7.4-5.0mm)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WJVS7RQ/?tag=tolees-21)
