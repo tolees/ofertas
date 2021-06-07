@@ -28,10 +28,10 @@ Está [Tonskooners - Luz con sensor de movimiento 2 paquetes  luz nocturna LED r
 
 ℹ️:
 
+- LARGO TIEMPO DE TRABAJO: batería de litio recargable incorporada, la luz inalámbrica del armario siempre puede brillar durante 16 horas después de cargar aproximadamente 2 horas.
+- GARANTÍA: Si no está satisfecho con el producto, no dude en contactarnos en cualquier momento, haremos todo lo posible para resolver su problema.
 - FÁCIL DE INSTALAR: La luz de paso recargable tiene 2 formas de instalación. Se puede unir directamente a cualquier superficie de herrajes con el imán incorporado. O pegue la cinta de doble cara en la hoja de hierro para pegarla en cualquier superficie.
 - MODO DE ILUMINACIÓN INTELIGENTE: La luz nocturna LED está diseñada con 3 modos de trabajo (ENCENDIDO / APAGADO / AUTO). En el modo automático, el sensor de infrarrojos incorporado para detectar su movimiento dentro de los 3M / 9.8 pies y un ángulo de 120 ° hacia adelante, iluminará su camino automáticamente en la oscuridad y se apagará automáticamente después de 30 segundos de inactividad.
-- GARANTÍA: Si no está satisfecho con el producto, no dude en contactarnos en cualquier momento, haremos todo lo posible para resolver su problema.
 - AMPLIA APLICACIÓN: esta lámpara de pared que se pega en cualquier lugar satisfaría todas sus necesidades y le facilitaría la vida. Es la opción ideal para guardarropas, cajones, cocinas, baños, pasarelas, cuartos de bebés, etc.
-- LARGO TIEMPO DE TRABAJO: batería de litio recargable incorporada, la luz inalámbrica del armario siempre puede brillar durante 16 horas después de cargar aproximadamente 2 horas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085NHGQG6/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [Metaltex CACILLO Salsa INOX  Multicolor  25 x 15 x 5 cm](
 🔎:
 
 - Cacillo salsa inox
-- Alta calidad
-- Diseno funcional
 - Brand: Metaltex
+- Diseno funcional
+- Alta calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0053XDUYC/?tag=tolees-21)

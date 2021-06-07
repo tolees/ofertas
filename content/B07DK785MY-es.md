@@ -28,10 +28,10 @@ Tienes [Geox J Borealis Boy B  Sandalias Punta Cerrada Niños  Gris  Dk Grey/ Na
 
 ℹ️:
 
+- Revestimiento: Malla
 - Cierre: Velcro
 - Material de la suela: Goma
-- Revestimiento: Malla
-- Tipo de tacón: Plano
 - Material exterior: Sintético
+- Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DK785MY/?tag=tolees-21)

@@ -29,7 +29,7 @@ En este momento está [adidas TABELA 18 JSY T-Shirt  Hombre  White/White  XL](ht
 🔎:
 
 - Thin striped pattern
-- Climalite fabric that keeps the skin dry in all conditions
 - Ribbed V-neck
+- Climalite fabric that keeps the skin dry in all conditions
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07798WKGK/?tag=tolees-21)
