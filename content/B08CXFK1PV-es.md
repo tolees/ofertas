@@ -28,8 +28,8 @@ Está [Lee Extreme Motion Straight Vaqueros  Azul Marino  32W / 34L para Hombre]
 
 ℹ️:
 
+- Otro elástico plano
 - 5 bolsillos
 - STRAIGHT FIT XM
-- Otro elástico plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CXFK1PV/?tag=tolees-21)
