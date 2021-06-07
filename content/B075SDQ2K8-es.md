@@ -28,9 +28,9 @@ En este momento está [Gift Republic 100 películas – Scratch Off Cubo List
 
 🔎:
 
+- Ideal para los amantes de la película
 - Características 100 debe ver películas
 - Rasca cubo lista Póster
-- Ideal para los amantes de la película
 - Fabricado en el Reino Unido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075SDQ2K8/?tag=tolees-21)
