@@ -28,12 +28,12 @@ Tienes [Marca Amazon - Happy Belly Bolsitas de té verde con menta  150 bolsitas
 
 ℹ️:
 
-- RAINFOREST ALLIANCE CERTIFIED: El té que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 - Té verde clásico combinado con la frescura de la menta
-- Para un té claro de un verde intenso
 - Apto para dietas vegetarianas y veganas
-- Bolsitas de té rellenas de hojas de un intenso color jade
+- RAINFOREST ALLIANCE CERTIFIED: El té que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 - Ligero y con un sabor fresco
+- Para un té claro de un verde intenso
 - Envase de 6: 6 x 25 bolsitas (total 150 bolsitas)
+- Bolsitas de té rellenas de hojas de un intenso color jade
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SFJ5CWJ/?tag=tolees-21)

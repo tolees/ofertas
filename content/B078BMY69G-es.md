@@ -28,8 +28,8 @@ Tienes [My First Vibrador - 1 Vibrador](https://www.amazon.es/dp/B078BMY69G/?tag
 
 🔎:
 
-- Producto para adultos. Para que disfrutes de tus momentos más íntimos
-- My First Vibrador Punto G Rosa 15.8 Cm 7 Velocidades
 - Incluye un vibrador
+- My First Vibrador Punto G Rosa 15.8 Cm 7 Velocidades
+- Producto para adultos. Para que disfrutes de tus momentos más íntimos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078BMY69G/?tag=tolees-21)

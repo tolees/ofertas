@@ -28,8 +28,8 @@ En este momento está [PUMA Ftblnxt Entr Pantalones Cortos de Entrenamiento  Hom
 
 🔎:
 
-- Material resistente y durable
 - Adecuado para entrenamientos diarios
+- Material resistente y durable
 - Fabricado con material funcional con tecnología dry CELL
 - Proporcionan comodidad y flexibilidad
 
