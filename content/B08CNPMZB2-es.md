@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko- Pop Heroes Imperial Palace Batman al 36.96 % de descuento'
-date: 2021-05-31 12:39:40
+title: 'Funko- Pop Heroes Imperial Palace Batman al 35.37 % de descuento'
+date: 2021-06-07 13:49:33
 image: 'https://m.media-amazon.com/images/I/414blICHUZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08CNPMZB2-es Funko- Pop Heroes Imperial Palace Batman Juguete...'
 sku: 'B08CNPMZB2-es'
 tags: [ 'Coleccionables','Juguetes','Juguetes y juegos','Merchandising y estatuas y bustos','Muñecos cabezones','funko', ]
-actualPrice: 11.12 EUR
+actualPrice: 11.4 EUR
 currency: EUR
-price: 11.12
+price: 11.4
 comparePrice: 17.64 EUR
 prodname: 'Funko- Pop Heroes Imperial Palace Batman Juguete coleccionable  Multicolor  52427 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B08CNPMZB2/?tag=tolees-21'
-descuento: '36.96'
-average: '11.78'
+descuento: '35.37'
+average: '12.305'
 ---
 
-Ahora mismo tienes [Funko- Pop Heroes Imperial Palace Batman Juguete coleccionable  Multicolor  52427 ](https://www.amazon.es/dp/B08CNPMZB2/?tag=tolees-21) a 11.12 EUR (original: 17.64 EUR) (36.96 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko- Pop Heroes Imperial Palace Batman Juguete coleccionable  Multicolor  52427 ](https://www.amazon.es/dp/B08CNPMZB2/?tag=tolees-21) a 11.4 EUR (original: 17.64 EUR) (35.37 %  de descuento) en el siguiente enlace!
 
 [![Funko- Pop Heroes Imperial Palace Batman](https://m.media-amazon.com/images/I/414blICHUZL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08CNPMZB2/?tag=tolees-21)
 
