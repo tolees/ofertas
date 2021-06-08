@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - BATTLEFIELD V - Standa al 75.02 % de rebaja'
-date: 2021-05-15 15:28:41
+date: 2021-06-08 08:29:17
 image: 'https://m.media-amazon.com/images/I/51WRVPzTTVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B07NC6JV94/?tag=tolees-21'
 descuento: '75.02'
-average: '13.2042857142858'
+average: '13.0934482758622'
 ---
 
 Tienes [Electronic Arts - BATTLEFIELD V - Standard | Código Origin para PC](https://www.amazon.es/dp/B07NC6JV94/?tag=tolees-21) con precio final de  9.99 EUR (original: 39.99 EUR) (75.02 %  de rebaja) aqui!
