@@ -28,8 +28,8 @@ Ahora mismo tienes [Nike Venture Runner  Zapatillas Hombre  Negro  Black/White/B
 
 🔎:
 
-- Suave de Llevar
 - Importado
 - Cordones de Zapatos
+- Suave de Llevar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082PJTKZK/?tag=tolees-21)
