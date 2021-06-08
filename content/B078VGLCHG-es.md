@@ -29,8 +29,8 @@ En este momento está [Sony MDR-1AM2B - Auriculares de alta resolución  Hi-Res 
 🔎:
 
 - Compatible con audio de alta resolución
-- Cascos plegables para disfrutar de portabilidad
 - Compatible con smartphone con mando y micrófono integrados
+- Cascos plegables para disfrutar de portabilidad
 - Diafragma de polímero de cristal líquido eficaz para obtener claridad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078VGLCHG/?tag=tolees-21)
