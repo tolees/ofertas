@@ -28,10 +28,10 @@ Tienes [Jocca Stepper Lateral Con Barra De Sujección/Contador con 4 funciones: 
 
 🔎:
 
-- Manillar muy estable
-- 4.funciones: scan, tiempo, número de pasos, calorías consumidas
+- Características especiales: Trabaje los glúteos, abdomen y piernas con este stepper lateral simulando el movimiento de subir y bajar escaleras, mientras realiza movimientos laterales; pies antideslizantes de 34 cm de longitud; asas acolchadas de sujeción para una buena estabilidad en el aparato; contador con 4 funciones: scan, tiempo, contador de pasos y calorías consumidas; pie tubular ajustable en altura para poder sujetarse y mantener la estabilidad en todo momento
 - Ocupa poco espacio
 - Pies y marchas pies antideslizantes
-- Características especiales: Trabaje los glúteos, abdomen y piernas con este stepper lateral simulando el movimiento de subir y bajar escaleras, mientras realiza movimientos laterales; pies antideslizantes de 34 cm de longitud; asas acolchadas de sujeción para una buena estabilidad en el aparato; contador con 4 funciones: scan, tiempo, contador de pasos y calorías consumidas; pie tubular ajustable en altura para poder sujetarse y mantener la estabilidad en todo momento
+- 4.funciones: scan, tiempo, número de pasos, calorías consumidas
+- Manillar muy estable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00BSD1MB4/?tag=tolees-21)
