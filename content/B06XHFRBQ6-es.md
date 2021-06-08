@@ -28,10 +28,10 @@ Está [GB Eye Limited - GB Eye LTD  Fallout  Ultimo superviviente Femenino  Foto
 
 ℹ️:
 
+- Licencia 100% oficial
 - Inspired By You. Created By Us.
 - Ideal para decorar cualquier pared de casa
 - Un marco robusto mantiene la fotografía en perfectas condiciones.
 - Material gráfico de alta resolución
-- Licencia 100% oficial
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XHFRBQ6/?tag=tolees-21)

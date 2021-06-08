@@ -28,10 +28,10 @@ En este momento está [DEEP COOL - DeepCool Wind PAL Mini - WINDPALMINI - Base p
 
 🔎:
 
+- Para portátiles de 9 a 15.6 pulgadas
 - Con un puerto USB
-- Tiene un ventilador de 140 mm con LED azul
 - El nivel de ruido es de 21.6 dBA
 - La velocidad del ventilador es de 1000 rpm
-- Para portátiles de 9 a 15.6 pulgadas
+- Tiene un ventilador de 140 mm con LED azul
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00F3WTXZ8/?tag=tolees-21)
