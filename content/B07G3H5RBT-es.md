@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 54.53 % en SanDisk Extreme PRO - Tarjeta de memoria'
-date: 2021-06-05 16:46:19
+title: 'Descuento del 54.38 % en SanDisk Extreme PRO - Tarjeta de memoria'
+date: 2021-06-08 11:32:06
 image: 'https://m.media-amazon.com/images/I/417ll30di-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07G3H5RBT-es SanDisk Extreme PRO - Tarjeta de memoria microSDXC de 128...'
 sku: 'B07G3H5RBT-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Tarjetas de memoria','Tarjetas microSD','sandisk', ]
-actualPrice: 29.55 EUR
+actualPrice: 29.65 EUR
 currency: EUR
-price: 29.55
+price: 29.65
 comparePrice: 64.99 EUR
 prodname: 'SanDisk Extreme PRO - Tarjeta de memoria microSDXC de 128 GB con adaptador SD  A2  hasta 170 MB/s  Class 10  U3 y V30'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07G3H5RBT/?tag=tolees-21'
-descuento: '54.53'
-average: '30.757976190476'
+descuento: '54.38'
+average: '30.7449411764704'
 ---
 
-Tienes [SanDisk Extreme PRO - Tarjeta de memoria microSDXC de 128 GB con adaptador SD  A2  hasta 170 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07G3H5RBT/?tag=tolees-21) con un 54.53 % de descuento con precio de oferta de 29.55 EUR (original: 64.99 EUR) en el siguiente enlace!
+Tienes [SanDisk Extreme PRO - Tarjeta de memoria microSDXC de 128 GB con adaptador SD  A2  hasta 170 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07G3H5RBT/?tag=tolees-21) con un 54.38 % de descuento con precio de oferta de 29.65 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![SanDisk Extreme PRO - Tarjeta de memoria](https://m.media-amazon.com/images/I/417ll30di-L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07G3H5RBT/?tag=tolees-21)
 
