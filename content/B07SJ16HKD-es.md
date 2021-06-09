@@ -28,12 +28,12 @@ Está [Marca Amazon - Happy Belly Select Bolsitas de té de hierbas selecto  con
 
 ℹ️:
 
-- Para preparar un té amarillo/verde relajante
-- RAINFOREST ALLIANCE CERTIFIED: El té que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 - Té de hierbas - Menta
 - Ingredientes 100 % naturales
-- Con una consistencia ligera y un atractivo aroma rico
-- 4x15 pirámides
 - Bolsitas de té rellenas de hojas de un intenso color verde
+- 4x15 pirámides
+- Con una consistencia ligera y un atractivo aroma rico
+- Para preparar un té amarillo/verde relajante
+- RAINFOREST ALLIANCE CERTIFIED: El té que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SJ16HKD/?tag=tolees-21)

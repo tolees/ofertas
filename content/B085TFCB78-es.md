@@ -28,9 +28,9 @@ En este momento está [Serum Pestañas - Crece Pestañas y Cejas Made in Spain -
 
 🔎:
 
-- VOLUMEN ESPECTACULAR - Fortalece el crecimiento y nutre tus pestañas y cejas para que sean más fuertes, gruesas y con volumen impactante. Monteral es ideal para tus pestañas haciéndolas más largas y perfectas. Especialmente diseñada para ti.
 - MONTERAL 3.5ML CON INGREDIENTES NATURALES - La fórmula fue desarrollada sin derivados de la hormona prostaglandina, parabenos, conservantes, silicona y sustancias aromáticas. Para crecimiento de pestañas naturales. No testado en animales.
-- RÁPIDO Y EFECTIVO - Usando Serum de Pestañas a diario los resultados veras en poco tiempo. Tus ojos brillarán con unas pestañas voluminosas y perfectas. El tiempo de los resultados puede variar según predisposición genética, salud o estilo de vida.
+- VOLUMEN ESPECTACULAR - Fortalece el crecimiento y nutre tus pestañas y cejas para que sean más fuertes, gruesas y con volumen impactante. Monteral es ideal para tus pestañas haciéndolas más largas y perfectas. Especialmente diseñada para ti.
 - INGREDIENTES NATURALES - Monteral ofrece una fórmula 100% natural que contiene nutrientes muy eficaces y ricos en vitaminas ayuda a fortalecer todo el potencial para dar a tus pestañas y cejas un aspecto exclusivo natural.
+- RÁPIDO Y EFECTIVO - Usando Serum de Pestañas a diario los resultados veras en poco tiempo. Tus ojos brillarán con unas pestañas voluminosas y perfectas. El tiempo de los resultados puede variar según predisposición genética, salud o estilo de vida.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B085TFCB78/?tag=tolees-21)

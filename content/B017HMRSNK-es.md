@@ -28,10 +28,10 @@ Ahora mismo tienes [Rolling Stones Tour 78 Mens Blk TS Camiseta  Negro  Black   
 
 🔎:
 
-- ESTILO: Camiseta unisex
-- CARACTERÍSTICAS: Manga corta, cuello redondo, doble pespunte en puños y dobladillo
-- NOTA: Lavar a máquina siguiendo las instrucciones de la etiqueta
-- DISEÑO: Estampado con logo
 - MARCA: Rolling Stones
+- DISEÑO: Estampado con logo
+- CARACTERÍSTICAS: Manga corta, cuello redondo, doble pespunte en puños y dobladillo
+- ESTILO: Camiseta unisex
+- NOTA: Lavar a máquina siguiendo las instrucciones de la etiqueta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B017HMRSNK/?tag=tolees-21)

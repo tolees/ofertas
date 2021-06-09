@@ -28,10 +28,10 @@ Tienes [Mannesmann M19652 Juego de 12 llaves combinadas 6 a 22 CV](https://www.a
 
 ℹ️:
 
-- Acero de vanadio de cromo
-- 12 piezas
 - Claves de: 6, 7, 8, 9, 10, 11, 12, 13, 15, 17, 19, 22 mm
-- 10 años de garantía
+- Acero de vanadio de cromo
 - TÜV / GS probado
+- 12 piezas
+- 10 años de garantía
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000ET7G0E/?tag=tolees-21)

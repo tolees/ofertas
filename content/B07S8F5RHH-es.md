@@ -28,15 +28,15 @@ Tienes [Corsair Hydro X Series  XG7 RGB 20-SERIES Bloque de Refrigeración Líqu
 
 ℹ️:
 
-- Tenga en cuenta: Para la iluminación RGB se requiere del Commander PRO (Se Vende por Separado)
 - Estructura de cobre niquelado cortado mediante control numérico computarizado: Más de 50 aletas de refrigeración de alta densidad colocadas sobre la GPU maximizan la transferencia térmica
-- Placa de soporte de aluminio: Cubre por completo el circuito impreso de la tarjeta gráfica y que protege los componentes más delicados
-- Diseño premium de conversión total: No solo enfría la GPU, sino la memoria y el VRM de la tarjeta gráfica también, todo cubierto por una carcasa de aluminio estilosa e impecable
-- Material térmico preaplicado y almohadillas térmicas: El material térmico preaplicado y las almohadillas térmicas facilitan y aligeran la instalación
 - Indicador de flujo integrado: Vea inmediatamente por dónde pasa el refrigerante
-- Circuito de circulación transparente: La placa superior de acrílico y el circuito de circulación transparente dejan a la vista la iluminación RGB
-- Control inteligente, posibilidades ilimitadas: Combínelo con CORSAIR Lighting Node PRO o Commander PRO y el potente software CORSAIR iCUE para personalizar
-- Desate todo el potencial de la RTX 2080 Ti: Desate todo el potencial de la GPU con una refrigeración personalizada para la tarjeta gráfica
 - Iluminación RGB integrada: Los 16 LED RGB integrados en el bloque para GPU ofrecen una iluminación RGB personalizable y brillante si se combinan con CORSAIR Lighting Node PRO o Commander PRO
+- Tenga en cuenta: Para la iluminación RGB se requiere del Commander PRO (Se Vende por Separado)
+- Control inteligente, posibilidades ilimitadas: Combínelo con CORSAIR Lighting Node PRO o Commander PRO y el potente software CORSAIR iCUE para personalizar
+- Diseño premium de conversión total: No solo enfría la GPU, sino la memoria y el VRM de la tarjeta gráfica también, todo cubierto por una carcasa de aluminio estilosa e impecable
+- Circuito de circulación transparente: La placa superior de acrílico y el circuito de circulación transparente dejan a la vista la iluminación RGB
+- Desate todo el potencial de la RTX 2080 Ti: Desate todo el potencial de la GPU con una refrigeración personalizada para la tarjeta gráfica
+- Material térmico preaplicado y almohadillas térmicas: El material térmico preaplicado y las almohadillas térmicas facilitan y aligeran la instalación
+- Placa de soporte de aluminio: Cubre por completo el circuito impreso de la tarjeta gráfica y que protege los componentes más delicados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07S8F5RHH/?tag=tolees-21)

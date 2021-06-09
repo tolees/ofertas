@@ -28,11 +28,11 @@ Tienes [Bosch Professional 2608002021 Tubo de Grasa lubricante para Taladro Plus
 
 🔎:
 
-- Apto para taladros y cinceles con sistema de inserción SDS plus o SDS Max
-- Contenido del envío: 1 tubo de grasa lubricante de 100 ml
-- Contiene derivado de Tolutriazol. Puede causar reacciones alérgicas.
-- Calidad Bosch: mayor durabilidad de la broca/cinceles al reducir la fricción
-- Número de aplicaciones: ~ 100 en SDS-max (~ 1 ml para SDS-Max, ~ 0,5 ml para SDS-plus)
 - Fácil de usar: se puede abrir y cerrar con una sola mano
+- Número de aplicaciones: ~ 100 en SDS-max (~ 1 ml para SDS-Max, ~ 0,5 ml para SDS-plus)
+- Apto para taladros y cinceles con sistema de inserción SDS plus o SDS Max
+- Calidad Bosch: mayor durabilidad de la broca/cinceles al reducir la fricción
+- Contiene derivado de Tolutriazol. Puede causar reacciones alérgicas.
+- Contenido del envío: 1 tubo de grasa lubricante de 100 ml
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08Q48Z9NK/?tag=tolees-21)

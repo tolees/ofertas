@@ -28,10 +28,10 @@ En este momento está [GB Eye Limited - GB Eye  Fallout 4  Garage  Print Enmarca
 
 🔎:
 
-- Ideal para decorar cualquier pared de casa
-- Material gráfico de alta resolución
-- Un marco robusto mantiene la fotografía en perfectas condiciones.
 - Inspired By You. Created By Us.
+- Material gráfico de alta resolución
+- Ideal para decorar cualquier pared de casa
+- Un marco robusto mantiene la fotografía en perfectas condiciones.
 - Licencia 100% oficial
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N653DBS/?tag=tolees-21)

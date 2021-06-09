@@ -29,7 +29,7 @@ Ahora mismo tienes [Testo 174 H Datalogger para Temperatura y Humedad  2 Canales
 🔎:
 
 - Interfaz USB para la programación y la lectura
-- Caja de 1
 - Mini registrador de datos
+- Caja de 1
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005FQDF42/?tag=tolees-21)

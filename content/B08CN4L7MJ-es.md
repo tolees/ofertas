@@ -28,10 +28,10 @@ Ahora mismo tienes [Grupo Erik Official Atletico Madrid 2021 Calendar - A3 Wall 
 
 🔎:
 
+- Diseñado con 12 meses, de Enero a Diciembre de 2021. Presenta 12 ilustraciones a color una por cada mes inspiradas en el equipo del FC Barcelona
+- Calendario pared: Ideal para planificar el 2021 a nivel mensual y tener una visión global de cada semana y mes, dando un aire distinto a la vez que decora la pared de cualquier habitación, dormitorio, cocina, salón o oficina. Y si todo eso te parece poco, está editado en 7 idiomas: español, inglés, francés, italiano, alemán y portugués
+- Erik - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza. Producto 100% oficial.
 - Este calendario 2021 está elaborado con papel certificado FSC, mide 29,7 x 42 cm. Incluye una perforación en la parte superior de 5 mm para poder colgarlo fácilmente en el lugar que desee
 - Planifica el próximo año rodeado de la plantilla de tu equipo de fútbol, sin olvidar de anotar los partidos más importantes que no te pudes perder
-- Calendario pared: Ideal para planificar el 2021 a nivel mensual y tener una visión global de cada semana y mes, dando un aire distinto a la vez que decora la pared de cualquier habitación, dormitorio, cocina, salón o oficina. Y si todo eso te parece poco, está editado en 7 idiomas: español, inglés, francés, italiano, alemán y portugués
-- Diseñado con 12 meses, de Enero a Diciembre de 2021. Presenta 12 ilustraciones a color una por cada mes inspiradas en el equipo del FC Barcelona
-- Erik - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza. Producto 100% oficial.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CN4L7MJ/?tag=tolees-21)

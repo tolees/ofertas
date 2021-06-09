@@ -28,10 +28,10 @@ Tienes [Ana María Lajusticia - Ana Maria Lajusticia - Triptófano con melatonin
 
 🔎:
 
-- El L-triptófano es un aminoácido esencial, lo que significa que nuestro organismo no puede producirlo por sí mismo y debe ser adoptado de manera exógena al organismo.
-- Los aminoácidos son imprescindibles para muchos de los procesos de nuestro metabolismo
 - El magnesio contribuye a disminuir el cansancio y la fatiga.
-- El triptófano actúa como precursor de la serotonina, un neurotransmisor implicado en la regulación del estado anímico, el estrés, y el descanso.
 - La melatonina es una hormona que mejora la calidad del sueño y refuerza el sistema inmunológico. El triptófano con magnesio y vitamina B6, ayuda a la producción de esta dentro del organismo.
+- Los aminoácidos son imprescindibles para muchos de los procesos de nuestro metabolismo
+- El triptófano actúa como precursor de la serotonina, un neurotransmisor implicado en la regulación del estado anímico, el estrés, y el descanso.
+- El L-triptófano es un aminoácido esencial, lo que significa que nuestro organismo no puede producirlo por sí mismo y debe ser adoptado de manera exógena al organismo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076CGCBR4/?tag=tolees-21)

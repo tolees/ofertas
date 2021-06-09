@@ -28,10 +28,10 @@ Tienes [Celestron Skymaster - Binocular Pro 20 x 80  color negro](https://www.am
 
 ℹ️:
 
-- Detachable RSR Rail para fijar un red dot óptico telescópica
-- Caucho blindado para uso ergonomía mejorada y la protección de todos los días en el campo
 - Impermeable y nitrógeno purged para uso en todo tipo de condiciones climáticas
-- Grandes lentes de objetivo de 80 mm para excelente captación de la luz en condiciones de poca luz o para observación planetaria
 - Celestron Skymaster - Pro 20 x 80 binocular gamuza de correa de cuello de adaptador de trípode para prismáticos
+- Caucho blindado para uso ergonomía mejorada y la protección de todos los días en el campo
+- Detachable RSR Rail para fijar un red dot óptico telescópica
+- Grandes lentes de objetivo de 80 mm para excelente captación de la luz en condiciones de poca luz o para observación planetaria
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00U6AJ0FK/?tag=tolees-21)

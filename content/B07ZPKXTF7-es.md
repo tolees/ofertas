@@ -28,10 +28,10 @@ Ahora mismo tienes [Homecall - Esterilla de playa con respaldo  XXL  azul ](http
 
 🔎:
 
+- Muy espaciosa para mayor comodidad
+- El poliéster es un tejido duradero y resistente a la humedad y los desgarros
+- Diseño robusto con una capacidad de carga máxima de 120 kg
 - Viene con una práctica bolsa para transportarla y guardarla fácilmente
 - Con un pequeño bolsillo en el respaldo para guardar tus cosas
-- Diseño robusto con una capacidad de carga máxima de 120 kg
-- El poliéster es un tejido duradero y resistente a la humedad y los desgarros
-- Muy espaciosa para mayor comodidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZPKXTF7/?tag=tolees-21)

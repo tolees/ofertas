@@ -28,10 +28,10 @@ Tienes [Weibler Confiserie - Mando de videojuegos de chocolate con caja de regal
 
 ℹ️:
 
-- Envío rápido desde España
-- Mantener en lugar fresco y seco.
-- PUEDES INCLUIR UNA NOTA si es un REGALO (en papel).
 - Mide 12,5 x 7,5cm. Peso 120g e.
+- PUEDES INCLUIR UNA NOTA si es un REGALO (en papel).
+- Envío rápido desde España
 - INGREDIENTES : Azúcar , manteca de cacao, leche entera en polvo, masa de cacao , emulsionante_ lecitina de soja, extracto de vainilla , colorante (E171 y E120), recubrimiento goma laca , Puede contener trazas de avellanas y nueces.Peso 120gr. e
+- Mantener en lugar fresco y seco.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JWNOR0K/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [L Oréal Paris Revitalift Laser X3 Routine Duo Set de cuidad
 
 🔎:
 
-- Las arrugas se suavizan. Mediante el cuidado diario con SPF la piel se hidrata intensamente.
-- La piel está aclarada, suave y radiante (almohadillas de pelado de glicol Pads). La piel está protegida de los signos prematuros del envejecimiento por los rayos UV (SPF).
-- El tono de la piel es visiblemente más uniforme, la estructura de la piel es refinada y lisa.
 - Las almohadillas exfoliantes Revitalift Laser X3 están enriquecidas con una alta concentración de ácido glicólico.
+- El tono de la piel es visiblemente más uniforme, la estructura de la piel es refinada y lisa.
+- La piel está aclarada, suave y radiante (almohadillas de pelado de glicol Pads). La piel está protegida de los signos prematuros del envejecimiento por los rayos UV (SPF).
+- Las arrugas se suavizan. Mediante el cuidado diario con SPF la piel se hidrata intensamente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KWLDXRM/?tag=tolees-21)

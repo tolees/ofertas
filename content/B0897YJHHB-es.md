@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s 510 Skinny Jeans  Sideburns Tough Tings  31W / 30L pa
 
 🔎:
 
-- Corte ceñido de la cadera al tobillo
 - Estilo contemporáneo
 - Diseño de cinco bolsillos
+- Corte ceñido de la cadera al tobillo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897YJHHB/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Orbegozo PB 2228 - Báscula de baño digital  pantalla LCD  táctil  pes
 
 ℹ️:
 
-- Capacidad máxima de 200 Kg y escalado de 100 g
 - Funciona a pilas: 1 x 3 V CR 2032 (incluida)
 - Gran superficie con dimensiones: 39 x 30 x 2.6 cm
-- Báscula de baño digital PB 2228 con pantalla LCD para facilitar su lectura
 - Activación mediante el tacto al subirse sobre su superficie
+- Capacidad máxima de 200 Kg y escalado de 100 g
+- Báscula de baño digital PB 2228 con pantalla LCD para facilitar su lectura
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0055ZGWZM/?tag=tolees-21)

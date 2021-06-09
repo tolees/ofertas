@@ -28,9 +28,9 @@ Tienes [Samsonite Aeris Spinner L Maleta  75 cm  87.5 L  Negro  Black ](https://
 
 ℹ️:
 
-- Viaje de dos semanas: 52 x 31 x 75 cm; 87.5 L; 4.80 Kg
-- Fabricada en Europa
 - Sistema de cierre de 3 puntos para adecuada seguridad
+- Fabricada en Europa
+- Viaje de dos semanas: 52 x 31 x 75 cm; 87.5 L; 4.80 Kg
 - Interior: cintas cruzadas inferiores, divisor con un gran bolsillo con cremallera
 - Fabricada con polipropileno ligero y resistente
 
