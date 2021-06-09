@@ -30,7 +30,7 @@ Está [Funko 50152 POP Games: Spider-Man: Miles Morales- Miles  TRACK Suit ](htt
 
 - Colecciónalos todos
 - Mira las otras figuras de Funko dedicadas a esta colección
-- POP vinilo de Funko
 - La figura mide 9 cm y viene en una caja de exhibición de ventana
+- POP vinilo de Funko
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KFY9G1N/?tag=tolees-21)

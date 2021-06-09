@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gullón ZERO sin azúcares  Barquillos Sab al 35.71 % de descuento'
-date: 2021-05-28 05:51:50
+date: 2021-06-09 09:40:23
 image: 'https://m.media-amazon.com/images/I/51oM0fu8tNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gullón'
 buyurl: 'https://www.amazon.es/dp/B005SYQ2ZU/?tag=tolees-21'
 descuento: '35.71'
-average: '1.00142857142857'
+average: '1.00103448275862'
 ---
 
 Ahora mismo tienes [Gullón ZERO sin azúcares  Barquillos Sabor Vainilla  180 Gramos  3 X 60G](https://www.amazon.es/dp/B005SYQ2ZU/?tag=tolees-21) a 0.99 EUR (original: 1.54 EUR) (35.71 %  de descuento) en el siguiente enlace!
