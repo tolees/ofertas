@@ -28,9 +28,9 @@ Ahora mismo tienes [Campingaz 205636 - Briquetas de cerámica](https://www.amazo
 
 🔎:
 
-- Reutilizables
-- Mayor número de usos que las piedras de lava
-- Distribuyen de forma homogénea el calor
 - Se colocan cubriendo los quemadores para evitar que la grasa caiga directamente ellos y se creen llamaradas
+- Distribuyen de forma homogénea el calor
+- Mayor número de usos que las piedras de lava
+- Reutilizables
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000RY37GI/?tag=tolees-21)

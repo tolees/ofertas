@@ -30,8 +30,8 @@ En este momento está [L Oreal Paris Men Expert - Cuidado hidratante anti-arruga
 
 - Textura fluida no pegajosa y no grasa, para una piel hidratada, alisada y más confortable
 - Reduce visiblemente las arrugas y revitaliza la piel aportándole un aspecto renovado y visiblemente más joven
-- Fórmula enriquecida con extracto de la planta Boswellia
 - Utilízala a diario sobre la piel limpia por la mañana y noche, insistiendo particularmente sobre las líneas de expresión; también la puedes utilizar para después del afeitado
 - Crema hidratante anti arrugas formulada para hombres
+- Fórmula enriquecida con extracto de la planta Boswellia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00STBWB8G/?tag=tolees-21)

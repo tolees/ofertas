@@ -28,10 +28,10 @@ Ahora mismo tienes [Bosch Professional - Bosch Set X-Line de 34 unidades para at
 
 🔎:
 
-- Contenidos compatibles con todos los taladros de uso manual y estacionario; la ventana del exterior permite una clara visión del contenido
-- El maletín Bosch X-Line de 34 unidades para taladrar y atornillar es adecuado para aplicaciones variadas de bricolaje en madera, piedra y metal
-- 13 puntas de atornillar, longitud 25 mm (3 de ranura en cruz, 3 Pozidriv, 3 planas, 4 Torx), 3 llaves de vaso, 1 adaptador para llaves de vaso, 1 soporte universal, 1 avellanador
 - 5 brocas para metal, plexiglás y plástico de Ø 2-5 mm, brocas para piedra, mampostería, piedra caliza, natural y artificial de Ø 5-8 mm, 5 brocas para madera dura y blanda de Ø 4-8 mm
+- 13 puntas de atornillar, longitud 25 mm (3 de ranura en cruz, 3 Pozidriv, 3 planas, 4 Torx), 3 llaves de vaso, 1 adaptador para llaves de vaso, 1 soporte universal, 1 avellanador
+- Contenidos compatibles con todos los taladros de uso manual y estacionario; la ventana del exterior permite una clara visión del contenido
 - Dimensiones del maletín: 172 x 46 x 164 mm
+- El maletín Bosch X-Line de 34 unidades para taladrar y atornillar es adecuado para aplicaciones variadas de bricolaje en madera, piedra y metal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002UHKARY/?tag=tolees-21)

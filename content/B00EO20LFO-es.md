@@ -29,8 +29,8 @@ Tienes [JVC HA-F160-B-E Gumy - Auriculares de botón  color negro](https://www.a
 ℹ️:
 
 - Salida "Bass boosting" para refuerzo de graves
-- Potente sonido por medio del motor de 13.5 mm de Neodimio
 - Estructura de forma oval para mejor sujeción
+- Potente sonido por medio del motor de 13.5 mm de Neodimio
 - Estructura y cable del mismo color llamativo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00EO20LFO/?tag=tolees-21)

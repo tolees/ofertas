@@ -28,10 +28,10 @@ Tienes [Belson BSS-525FB - Juego de Altavoces coaxiales de 5"  2 vías 100 W  Ne
 
 🔎:
 
-- Tecnología: Smart 3D
-- Full HD
 - Ethernet LAN: Sí
 - Compatibilidad 3D
+- Full HD
 - Smart TV: 3 Apps
+- Tecnología: Smart 3D
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0072V4CMC/?tag=tolees-21)

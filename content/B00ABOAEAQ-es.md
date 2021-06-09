@@ -28,10 +28,10 @@ Tienes [Bosch Professional GWS 18-125 V-LI Amoladora angular  10.000 rpm  Disco 
 
 ℹ️:
 
-- Es compatible con todas las baterías Bosch professional de 18 V; Flexible Power System
-- Construcción compacta y peso ligero, solo 2, 3 kg, para un trabajo cómodo en lugares con poco espacio y por encima de la cabeza
 - Óptimo rendimiento de desbaste y de corte de su categoría por cada carga de batería
-- Motor de alto rendimiento robusto y con gran capacidad de carga de 4 polos para una larga vida útil
 - Incluye: GWS 18-125V-LI, empuñadura adicional, cubierta protectora, en caja de cartóna; batería y cargador no incluidos
+- Construcción compacta y peso ligero, solo 2, 3 kg, para un trabajo cómodo en lugares con poco espacio y por encima de la cabeza
+- Motor de alto rendimiento robusto y con gran capacidad de carga de 4 polos para una larga vida útil
+- Es compatible con todas las baterías Bosch professional de 18 V; Flexible Power System
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ABOAEAQ/?tag=tolees-21)

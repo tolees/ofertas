@@ -29,9 +29,9 @@ Tienes [Fossil Pulsera para Mujer JF02778998](https://www.amazon.es/dp/B074VBNCQ
 🔎:
 
 - Fossil
-- Medidas: Largo: 18 cm + 19 cm
 - Color: tritono, dorado, plateado, rosa dorado
 - Material: acero inoxidable y circonita
+- Medidas: Largo: 18 cm + 19 cm
 - Cierre: cierre de mosquetón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074VBNCQJ/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Westinghouse Turbo Swirl Ventilador de Techo E14  60 W  con cable conduct
 
 ℹ️:
 
-- Nivel de ruido: 36 dB(A)
-- Óptimo para espacios medianos o pequeños de hasta 12 metros cuadrados
 - Diseño compacto de estilo informal y potente circulación de aire; Compatible con LED
 - RPM: 250/190/130
 - Disfruta de brisas confortables en una pequeña cocina o en el dormitorio de los niños. Este ventilador es pequeño pero potente, e incluye un motor de bajo consumo
+- Nivel de ruido: 36 dB(A)
+- Óptimo para espacios medianos o pequeños de hasta 12 metros cuadrados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0016KUYAO/?tag=tolees-21)

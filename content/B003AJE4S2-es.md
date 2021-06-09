@@ -28,10 +28,10 @@ Ahora mismo tienes [Makita HM0871C Herramienta  24 V  Negro  Azul](https://www.a
 
 🔎:
 
-- HM 0871 C
-- Martillo
-- Inserción SDS-MAX de una sola acción con 12 posiciones diferentes de cincelado, Nuevo martillo demoledor de la clase 5 kg, Nuevo porta-escobillas con muelle en espiral que hace la misma presión tanto al comienzo como al final de la vida de la escobilla. Evita así que introduzca polvo entre la escobilla y el inducido, Escobillas de desconexión automática, Potencia 1100 W, Velocidad en vacío 1100 - 2650 rpm, Energía de impacto 12 J, Peso 5 1 kg, Tubo de grasa, Empuñadura lateral
 - con el sistema AVT - antivibración
 - ideal para demoliciones en pared para la realización de rozas y ocasionalmente para pequeñas demoliciones en suelo
+- Martillo
+- HM 0871 C
+- Inserción SDS-MAX de una sola acción con 12 posiciones diferentes de cincelado, Nuevo martillo demoledor de la clase 5 kg, Nuevo porta-escobillas con muelle en espiral que hace la misma presión tanto al comienzo como al final de la vida de la escobilla. Evita así que introduzca polvo entre la escobilla y el inducido, Escobillas de desconexión automática, Potencia 1100 W, Velocidad en vacío 1100 - 2650 rpm, Energía de impacto 12 J, Peso 5 1 kg, Tubo de grasa, Empuñadura lateral
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003AJE4S2/?tag=tolees-21)

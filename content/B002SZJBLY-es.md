@@ -28,10 +28,10 @@ Ahora mismo tienes [Sera pH 7 0 100 ml](https://www.amazon.es/dp/B002SZJBLY/?tag
 
 🔎:
 
-- Para el cuidado de todos los electrodos de pH.
 - Para calibración y comprobación de electrodos de pH comerciales.
 - Accesorio seramic.
 - A 25 °C = valor de pH: 7,0.
+- Para el cuidado de todos los electrodos de pH.
 - Accesorio sera pH metro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002SZJBLY/?tag=tolees-21)

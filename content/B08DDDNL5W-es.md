@@ -29,12 +29,12 @@ Tienes [Pantene Champu  Suave Y Liso  Antiencrespamiento Cabello  2 x 1 litro  C
 ℹ️:
 
 - PANTENE SUAVE Y LISO: champú para pelo apagado y encrespado
-- Aumenta la fortaleza del pelo con un champú con nutrientes Pro-V, como vitaminas para el cabello
-- Ayuda a proteger el pelo de la humedad y lo deja fácil de peinar
 - Sin siliconas, sin aceites minerales y sin colorantes
-- Ofrece suavidad y control del encrespamiento
 - Testado por el instituto suizo de la vitamina
+- Ayuda a proteger el pelo de la humedad y lo deja fácil de peinar
+- Aumenta la fortaleza del pelo con un champú con nutrientes Pro-V, como vitaminas para el cabello
 - Deja el pelo suave, liso e hidratado
+- Ofrece suavidad y control del encrespamiento
 - Botella 100% reciclable, hecha con un 25% de plástico reciclado (excepto el tapón)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08DDDNL5W/?tag=tolees-21)

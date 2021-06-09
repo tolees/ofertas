@@ -28,10 +28,10 @@ Está [Crocs Crocband U  Zuecos Unisex Adulto  Rosa  Pearl Pink-Wild Orchid   46
 
 ℹ️:
 
-- Material exterior: Espuma
+- Material de la suela: Goma
 - Revestimiento: Sintético
 - Altura del tacón: 1.5 pulgadas
+- Material exterior: Espuma
 - Cierre: Sin cordones
-- Material de la suela: Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00W0E6NVY/?tag=tolees-21)
