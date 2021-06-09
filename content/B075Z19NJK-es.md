@@ -28,10 +28,10 @@ Tienes [find. Sandalias Punta Cerrada Mujer  Marrón  Tan   40 EU](https://www.a
 
 🔎:
 
-- Talón cerrado
+- Textura trenzada
 - Estilo artesanal y casual
 - Es pequeño, si estas entre dos tallas, pide una talla mas
-- Textura trenzada
 - Suela de goma
+- Talón cerrado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075Z19NJK/?tag=tolees-21)

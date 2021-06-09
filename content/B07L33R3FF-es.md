@@ -28,10 +28,10 @@ En este momento está [Asics Onitsuka Tiger California 78 Ex  Zapatillas de Runn
 
 🔎:
 
-- Durable
-- Silueta minimalista
 - Piel sintética suave
 - Inserciones de nylon
+- Silueta minimalista
+- Durable
 - Logotipo clásico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L33R3FF/?tag=tolees-21)

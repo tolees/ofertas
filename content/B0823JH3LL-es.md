@@ -28,10 +28,10 @@ En este momento está [Asics Patriot 12  Sneaker Hombre  Black/Black  44 EU](htt
 
 🔎:
 
-- Refuerzos en los dedos de los pies
-- Innovador material de malla
-- Amortiguación EVA
-- Tecnología FLYTEFOAM
 - Amortiguación de gel
+- Refuerzos en los dedos de los pies
+- Tecnología FLYTEFOAM
+- Amortiguación EVA
+- Innovador material de malla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0823JH3LL/?tag=tolees-21)

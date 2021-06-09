@@ -31,7 +31,7 @@ En este momento está [KAPTIUM Pulpo Reversible Prime  Pulpito Reversible  Pulpo
 - ENVIO 24H ESPAÑA: Envio opcional elegible, hasta en 24h. Stock en España
 - EMPAQUETADO SEGURO: Empaquetamos el producto en Bolsa Polietileno G300, de alta resistencia, para que el producto no sufra ningún daño durante el envio.
 - PRIME: Producto Prime, con stock en almacenes de España de Amazon, para una rápida y segura entrega.
-- FACIL LIMPIEZA: Use una pequeña cantidad de jabón y agua para eliminar las manchas y secar de forma natural. SIN decoloración.
 - AZUL Y ROSA: Color reversible Azul y Rosa.
+- FACIL LIMPIEZA: Use una pequeña cantidad de jabón y agua para eliminar las manchas y secar de forma natural. SIN decoloración.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QVHZB3Q/?tag=tolees-21)

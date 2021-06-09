@@ -28,10 +28,10 @@ En este momento está [Tatay Mango para Fregona  Acero Inoxidable  Plateado  4 x
 
 🔎:
 
-- Con recubrimiento anti-oxidable
 - 4 cm de diámetro
 - 140 cm de alto
-- Cabezal universal adaptable a las fregonas tatay y de otras marcas
 - Fregado cómodo
+- Cabezal universal adaptable a las fregonas tatay y de otras marcas
+- Con recubrimiento anti-oxidable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LOR53AK/?tag=tolees-21)

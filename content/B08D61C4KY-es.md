@@ -29,9 +29,9 @@ Tienes [OMOTON Combo de Teclado y Ratón inalámbrico Español Teclado Numérico
 🔎:
 
 - 【Comodidad a lo grande】: El teclado incorpora una disposición numérica completa y 12 teclas de atajos para facilitarte la navegación y el acceso a la información.
-- 【Conexión estable de 2,4 GHz】:La señal de 2,4 GHz garantiza una conexión estable y confiable y evita la pérdida de señal. El nano receptor plug & play (enchufar y usar) se puede usar sin instalar ningún software adicional. El ratón dispone de un compartimento para el receptor que permite controlar ambos dispositivos.
 - 【Compatibilidad amplia】: El conjunto de teclado y ratón es compatible con Windows XP，Windows 7/8/10，Windows Vista. Se adapta a Desktop / PC / Computadora / Laptop / Tablet.
-- 【Enchufar y usar (Plug and Play)】:Olvídese de software y complicaciones; el minúsculo nano receptor funciona al instante y es tan pequeño que permanece en el puerto USB, de esta manera no se pierde. Además, el ratón también es pequeño y fácil de transportar.
 - 【Diseño ergonómico aplicado】:De forma redonda y cómoda, se adapta perfectamente a su mano. Mecanismo de tijera,cómodo al tacto, ofrece una experiencia de escritura cómoda. Silencioso a la hora de hacer clic, lo que le permite concentrarse en su trabajo sin molestar a los demás a su lado.
+- 【Conexión estable de 2,4 GHz】:La señal de 2,4 GHz garantiza una conexión estable y confiable y evita la pérdida de señal. El nano receptor plug & play (enchufar y usar) se puede usar sin instalar ningún software adicional. El ratón dispone de un compartimento para el receptor que permite controlar ambos dispositivos.
+- 【Enchufar y usar (Plug and Play)】:Olvídese de software y complicaciones; el minúsculo nano receptor funciona al instante y es tan pequeño que permanece en el puerto USB, de esta manera no se pierde. Además, el ratón también es pequeño y fácil de transportar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D61C4KY/?tag=tolees-21)

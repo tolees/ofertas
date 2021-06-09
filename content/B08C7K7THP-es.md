@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Superstar  Sneaker  Core Black/Core Black/Core Black 
 
 🔎:
 
-- Parte superior de cuero
 - Cordones de zapatos
 - Zapatilla clásica de cuero
+- Parte superior de cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C7K7THP/?tag=tolees-21)

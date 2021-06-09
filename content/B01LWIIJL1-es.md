@@ -28,12 +28,12 @@ Está [AEG T8DEE862 Secadora con Bomba de Calor de Libre Instalación  8 Kg  Ser
 
 ℹ️:
 
+- Tambor ProTex que protege y lava la ropa con mayor delicadeza
+- Motor Inverter: Mayor Durabilidad y Eficiencia Energética. Menor Ruido
 - Dimensiones (Ancho x Alto x Profundo mm): 600 x 850 x 576.
 - Función ProSense: Pesa automáticamente la carga para ahorrar tiempo y energía. Evita que las prendas y los colores sufran por un lavado excesivo. Hasta 8kg de secado
-- Tecnología AbsoluteCare: Protege tus prendas más delicadas con el control automático del movimiento del tambor y temperatura de secado
-- Tambor ProTex que protege y lava la ropa con mayor delicadeza
 - Panel de control LCD fácil e intuitivo con Programa Rápido en menos de 59 minutos. Puerta XL, carga y descarga con facilidad
-- Motor Inverter: Mayor Durabilidad y Eficiencia Energética. Menor Ruido
 - Tecnología SensiDry: gracias a la bomba de calor, extrae la humedad de los tejidos a la mitad de temperatura, garantizando que los tejidos sean sometidos a un calor innecesario
+- Tecnología AbsoluteCare: Protege tus prendas más delicadas con el control automático del movimiento del tambor y temperatura de secado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LWIIJL1/?tag=tolees-21)

@@ -29,9 +29,9 @@ En este momento está [XLS Medical Tea Matcha Premium - Tratamiento para Perder 
 🔎:
 
 - Té verde matcha con ingredientes activos de origen natural con eficacia clínicamente probada en la pérdida de peso
-- Reduce el apetito y las ganas de comer
+- Capta hasta el 28% de las grasas ingeridas
 - Mejora la digestión
 - Producto sanitario. Cumple con la normativa de productos sanitarios. Debe utilizarse con una dieta hipocalórica adecuada, actividad física y estilo de vida saludable. CPSPXXXXCAT
-- Capta hasta el 28% de las grasas ingeridas
+- Reduce el apetito y las ganas de comer
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YF19ZJ8/?tag=tolees-21)

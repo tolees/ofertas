@@ -28,10 +28,10 @@ Tienes [KATIVA Colageno Mascarilla Cabello  Único  500 Mililitros](https://www.
 
 🔎:
 
-- Ayuda a que el cabello complete el ciclo de vida
 - Libre de sal, sulfatos, parabenos y gluten
-- Formula concentrada con extracto de colageno marino
 - Devuelve elasticidad, hidratación y brillo al cabello
+- Formula concentrada con extracto de colageno marino
 - Revitaliza y reestructura el cabello desde la raíz
+- Ayuda a que el cabello complete el ciclo de vida
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01I2Y74LI/?tag=tolees-21)

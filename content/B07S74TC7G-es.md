@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Grand Court Base  Sneaker Hombre  Ftwbla Negbás Azuo
 
 🔎:
 
-- Corte regular
-- La parte superior de cuero sintético
 - Cordones de zapatos
+- La parte superior de cuero sintético
+- Corte regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S74TC7G/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Electronic Arts - Los Sims 4 - Días de Universidad [Expension Pack 8] S
 
 ℹ️:
 
-- Expresa tu estilo estudiantil
-- Relaciónate y explora
-- Aborda las clases con clase
 - Establécete como estudiante
+- Aborda las clases con clase
+- Relaciónate y explora
+- Expresa tu estilo estudiantil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZQN6CG5/?tag=tolees-21)

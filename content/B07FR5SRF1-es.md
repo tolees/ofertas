@@ -29,8 +29,8 @@ Está [Clarks Un Aldric Step  Mocasines Hombre  Negro  Black Leather-   40 EU](h
 ℹ️:
 
 - Montaje: G (estándar)
-- Superiores: Cuero
 - Forro: Cuero
+- Superiores: Cuero
 - Fijación: Resbalón En
 - Suela: Pu
 

@@ -28,9 +28,9 @@ En este momento está [victoria Plano VICTORIA Tribu Tiras Lona 106555-KIDS para
 
 🔎:
 
-- Fáciles de poner e ideales para llevar al cole
-- Hasta la talla 28, el modelo lleva dos velcros
-- A partir de esta talla, lleva tres.
 - Referencia: 06555Zapatilla con velcros para niños
+- Hasta la talla 28, el modelo lleva dos velcros
+- Fáciles de poner e ideales para llevar al cole
+- A partir de esta talla, lleva tres.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MTYE3KE/?tag=tolees-21)
