@@ -28,8 +28,8 @@ En este momento está [Xlc Soporte de Dorsal SP-X10  Color Negro  Talla única  
 
 🔎:
 
-- Material: aluminio.
 - Peso: 10 g.
 - Soporte de dorsal para tija de sillín.
+- Material: aluminio.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073GVVDLC/?tag=tolees-21)

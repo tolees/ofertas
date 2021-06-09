@@ -28,10 +28,10 @@ Ahora mismo tienes [Bestway 58475 - Bolas de Filtración para Depuradora Flowcle
 
 🔎:
 
-- Adecuado para todos los filtros de arena Bestway
-- Fácil de cargar, manipular y transportar debido a su peso ligero
 - Eficiencia- Excelente resultado de filtración de la suciedad más pequeña, consigue un agua limpia y sana
 - Adecuado para todos los filtros de arena Bestway
 - Reutilizables- Lava las bolas y vuelve a ponerlas en la depuradora
+- Adecuado para todos los filtros de arena Bestway
+- Fácil de cargar, manipular y transportar debido a su peso ligero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0751XP7CZ/?tag=tolees-21)

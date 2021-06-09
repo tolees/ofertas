@@ -29,7 +29,7 @@ Está [Burton Elite Camiseta  Hombre  Martini Olive  S](https://www.amazon.es/dp
 ℹ️:
 
 - Logo estampado en el pecho
-- Prelavado
 - Corte clásico
+- Prelavado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SHJD11G/?tag=tolees-21)
