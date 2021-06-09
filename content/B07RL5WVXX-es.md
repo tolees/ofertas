@@ -28,8 +28,8 @@ Tienes [L Oreal Professionnel Paris - L Oreal Professionnel Sérum Absolut  50 m
 
 ℹ️:
 
+- Producto de calidad
 - Marca: LOreal Expert Professionnel
 - Para el cabello: Normal
-- Producto de calidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RL5WVXX/?tag=tolees-21)

@@ -28,12 +28,12 @@ Ahora mismo tienes [Olay Luminous Whip Light As Air Hidratante  Crema facial nia
 
 🔎:
 
+- Fórmula enriquecida con vitamina B3
+- Los productos Olay se crean en colaboración con más de 8000 mujeres al año
 - Apta para piel normal, seca y grasa
 - Hidrata e iguala el tono al instante, iluminando la piel
 - Prueba Olay a diario durante 28 días. Experimenta una transformación real de la piel
 - Actúa como prebase e hidratante 2 en 1 para una piel lisa, luminosa y mate
-- Los productos Olay se crean en colaboración con más de 8000 mujeres al año
 - Trata la hiperpigmentación
-- Fórmula enriquecida con vitamina B3
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KXKLCQK/?tag=tolees-21)

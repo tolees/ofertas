@@ -28,10 +28,10 @@ Tienes [Aequator LUMI24  Nevera termoeléctrica portátil  24L  0826042N.AE  Com
 
 ℹ️:
 
+- Compatible con alimentación de 12 V y 230 V
+- Clase energética: A++
 - Diferencia térmica con el ambiente externo: -18°
 - Nevera termoeléctrica que enfría mediante el efecto Peltier
-- Clase energética: A++
-- Compatible con alimentación de 12 V y 230 V
 - Se adapta fácilmente a la mayoría de maleteros de automóvil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Q45VXTY/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canal Toys SSC 011 Slime Factory - Juego al 57.08 % de rebaja'
-date: 2021-05-28 13:05:47
+date: 2021-06-09 12:08:49
 image: 'https://m.media-amazon.com/images/I/514PwfiNmFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Canal Toys'
 buyurl: 'https://www.amazon.es/dp/B07D4P4RT9/?tag=tolees-21'
 descuento: '57.08'
-average: '18.8355000000001'
+average: '18.6528571428572'
 ---
 
 Tienes [Canal Toys SSC 011 Slime Factory - Juego creativo  color azul  34 x 31 x 8 cm](https://www.amazon.es/dp/B07D4P4RT9/?tag=tolees-21) con precio final de  15.0 EUR (original: 34.95 EUR) (57.08 %  de rebaja) aqui!
@@ -30,8 +30,8 @@ Tienes [Canal Toys SSC 011 Slime Factory - Juego creativo  color azul  34 x 31 x
 
 - Es adecuado para actividades creativas
 - Se prepara fácilmente con agua
-- La marca del producto es Canal Toys
-- La edad mínima recomendada es 6 años
 - No necesita pegamento
+- La edad mínima recomendada es 6 años
+- La marca del producto es Canal Toys
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D4P4RT9/?tag=tolees-21)
