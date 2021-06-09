@@ -28,11 +28,11 @@ Ahora mismo tienes [Champion Hombre - Sudadera con Capucha Classic Small Logo - 
 
 🔎:
 
-- Logo pequeño bordado en el lado izquierdo del pecho
 - Número de modelo: 212076
-- Bolsillo canguro
-- 79% algodón, 21% poliéster
 - Sudadera con Capucha y cordón
+- Logo pequeño bordado en el lado izquierdo del pecho
 - Lavar a máquina en frío (30°máx)
+- 79% algodón, 21% poliéster
+- Bolsillo canguro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DDB7BNR/?tag=tolees-21)

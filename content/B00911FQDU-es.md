@@ -29,8 +29,8 @@ Está [Exacompta 2112E Separadores cartulina 220g 12 posiciones - A4 maxi](https
 ℹ️:
 
 - Con un grosor de 220 g/m²
+- Lengüeta de índice hecha de cartón reciclado
 - Es útil para la oficina
 - Tiene el tamaño A4
-- Lengüeta de índice hecha de cartón reciclado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00911FQDU/?tag=tolees-21)

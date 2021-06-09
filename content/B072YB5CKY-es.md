@@ -28,10 +28,10 @@ Tienes [Columbia Zero Rules  Camiseta de manga corta  Hombre  Azul  Carbon Heath
 
 ℹ️:
 
+- Camiseta de manga corta para hombres
 - Adecuado para actividades al aire libre, Puede ser usado todo el año
 - Contenido: 1x Columbia Zero Rules Camiseta de manga corta para hombre, Azul (Carbon Heather), XS, 1533313
 - La tecnología Omni-wick extrae la humedad del cuerpo
-- Camiseta de manga corta para hombres
 - Tejido refrigerante Omni-freeze zero activado por el sudor para mantenerte fresco cuando más sudes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B072YB5CKY/?tag=tolees-21)

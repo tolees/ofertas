@@ -28,9 +28,9 @@ Está [NIKE M NP Top LS Tight Long Sleeved t-Shirt  Hombre  Game Royal/Black  S]
 
 ℹ️:
 
-- Diseño de cuello redondo
-- La tecnología Dri-Fit ofrece comodidad durante el entrenamiento
 - Ofrece libertad de movimiento
+- La tecnología Dri-Fit ofrece comodidad durante el entrenamiento
+- Diseño de cuello redondo
 - Ajuste regular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZS8N26C/?tag=tolees-21)

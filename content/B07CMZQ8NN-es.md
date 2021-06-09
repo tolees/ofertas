@@ -28,12 +28,12 @@ En este momento está [Crocs Crocband Flip  Unisex Adulto  Gris  Light Grey/Whit
 
 🔎:
 
-- Cierre: Sin cordones
 - Material de la suela: Goma
-- Tipo de tacón: Plano
-- Composición: Sintético
-- Material exterior: Espuma
 - Altura del tacón: 1 centímetro
 - Revestimiento: Sin forro
+- Material exterior: Espuma
+- Tipo de tacón: Plano
+- Cierre: Sin cordones
+- Composición: Sintético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CMZQ8NN/?tag=tolees-21)
