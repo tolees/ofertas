@@ -28,10 +28,10 @@ En este momento está [Kipling Totes - Bolsa de deporte  color verde](https://ww
 
 🔎:
 
-- Unisex.
 - 100% poliamida.
-- 0,16 kg.
+- Unisex.
 - Mono de hojaldre - pequeño
+- 0,16 kg.
 - Peso ligero.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CX48QNG/?tag=tolees-21)
