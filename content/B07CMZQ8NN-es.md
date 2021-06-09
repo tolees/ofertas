@@ -1,32 +1,39 @@
 ---
 layout: post
-title: 'Crocs Crocband Flip  Chanclas Unisex-Adu con un 36.01 % de descuento'
-date: 2020-08-11 19:53:08
-image: 'https://m.media-amazon.com/images/I/31GtbqluMDL._SL400_.jpg'
+title: 'Crocs Crocband Flip  Unisex Adulto  Gris con un 56.42 % de descuento'
+date: 2021-06-09 20:49:15
+image: 'https://m.media-amazon.com/images/I/31GtbqluMDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07CMZQ8NN-es Crocs Crocband Flip Chanclas Unisex-Adult Grey Light...'
+slug: 'B07CMZQ8NN-es Crocs Crocband Flip Unisex Adulto Gris Light Grey/White...'
 sku: 'B07CMZQ8NN-es'
-tags: [  ]
-actualPrice: 15.99 EUR
+tags: [ 'Sandalias de dedo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','crocs', ]
+actualPrice: 10.89 EUR
 currency: EUR
-price: 15.99
+price: 10.89
 comparePrice: 24.99 EUR
-prodname: 'Crocs Crocband Flip  Chanclas Unisex-Adult  Grey  Light Grey/White 00j   48/49 EU'
+prodname: 'Crocs Crocband Flip  Unisex Adulto  Gris  Light Grey/White 00j   48/49 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B07CMZQ8NN/?tag=tolees-21'
-descuento: '36.01'
-average: '15.99'
+descuento: '56.42'
+average: '14.29'
 ---
 
-En este momento está [Crocs Crocband Flip  Chanclas Unisex-Adult  Grey  Light Grey/White 00j   48/49 EU](https://www.amazon.es/dp/B07CMZQ8NN/?tag=tolees-21) a 15.99 EUR (original: 24.99 EUR) (36.01 %  de descuento) en el siguiente enlace!
+En este momento está [Crocs Crocband Flip  Unisex Adulto  Gris  Light Grey/White 00j   48/49 EU](https://www.amazon.es/dp/B07CMZQ8NN/?tag=tolees-21) a 10.89 EUR (original: 24.99 EUR) (56.42 %  de descuento) en el siguiente enlace!
 
-[![Crocs Crocband Flip  Chanclas Unisex-Adu](https://m.media-amazon.com/images/I/31GtbqluMDL._SL400_.jpg)](https://www.amazon.es/dp/B07CMZQ8NN/?tag=tolees-21)
+[![Crocs Crocband Flip  Unisex Adulto  Gris](https://m.media-amazon.com/images/I/31GtbqluMDL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07CMZQ8NN/?tag=tolees-21)
 
 🔎:
 
+- Cierre: Sin cordones
+- Material de la suela: Goma
+- Tipo de tacón: Plano
+- Composición: Sintético
+- Material exterior: Espuma
+- Altura del tacón: 1 centímetro
+- Revestimiento: Sin forro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CMZQ8NN/?tag=tolees-21)
