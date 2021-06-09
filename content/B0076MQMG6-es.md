@@ -28,9 +28,9 @@ Está [Diset- Juguete  63886 ](https://www.amazon.es/dp/B0076MQMG6/?tag=tolees-2
 
 ℹ️:
 
-- Juego educativo de asociar preguntas y respuestas para los más pequeños
-- Temáticas de lenguaje y escritura: letras, palabras, sonidos
 - Autocorrectivo con sonido y luz
+- Temáticas de lenguaje y escritura: letras, palabras, sonidos
+- Juego educativo de asociar preguntas y respuestas para los más pequeños
 - Encuentra la respuesta correcta con el lápiz mágico
 - Temática de primeras lecturas
 
