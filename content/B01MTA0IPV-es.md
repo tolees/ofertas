@@ -28,10 +28,10 @@ Tienes [Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxid
 
 ℹ️:
 
-- Sumergible: 5 bares
 - Material de la carcasa: acero inoxidable plateado
 - Diámetro de la caja: 32 mm
 - Esfera: nácar con índices dorados
 - Material de la correa: acero inoxidable, plata milanesa
+- Sumergible: 5 bares
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MTA0IPV/?tag=tolees-21)
