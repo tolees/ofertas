@@ -28,9 +28,9 @@ Tienes [BAUSCH + LOMB - SofLens® Daily disposable - Lentes de contacto de reemp
 
 ℹ️:
 
+- Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión.
+- Material: Hilafilcon B con contenido de agua del 59%
 - Una vez extraída la lente debe desecharse.
 - Estas lentes están diseñadas para uso diario y deben desecharse después de cada utilización.
-- Material: Hilafilcon B con contenido de agua del 59%
-- Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B002U0DZDC/?tag=tolees-21)

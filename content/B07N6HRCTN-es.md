@@ -28,8 +28,8 @@ Está [Levi s Mile High Super Skinny Jeans  Negro  Celestial Rinse   23W / 28L p
 
 ℹ️:
 
-- Ofrecen comodidad y movimiento durante todo el día
-- Marcados con parche de cuero de Levis en la parte trasera de la cintura
 - Ajustados en la cadera y los muslos
+- Marcados con parche de cuero de Levis en la parte trasera de la cintura
+- Ofrecen comodidad y movimiento durante todo el día
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N6HRCTN/?tag=tolees-21)

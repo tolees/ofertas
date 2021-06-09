@@ -29,8 +29,8 @@ Ahora mismo tienes [Funko Pop! Bobble Vinyle Marvel: 80th - First Appearance - M
 🔎:
 
 - El producto se envía en una caja ilustrada con ventana
-- Recomendado para niños a partir de 3 años
 - El artículo es adecuado para todos los fanáticos de Marvel Girl
+- Recomendado para niños a partir de 3 años
 - Figura de colección de la marca Funko
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QJ2DJQD/?tag=tolees-21)

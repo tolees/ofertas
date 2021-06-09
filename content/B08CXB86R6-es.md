@@ -28,10 +28,10 @@ Está [Kipling KI7149Z02 - Bolso de Tela de sintético para Mujer Rojo Coral Fre
 
 ℹ️:
 
-- Hembra.
-- Peso ligero.
 - 0,34 kg.
+- Hembra.
 - Mono robot de silicona
 - 100% poliamida.
+- Peso ligero.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CXB86R6/?tag=tolees-21)
