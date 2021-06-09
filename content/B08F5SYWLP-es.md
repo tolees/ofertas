@@ -28,11 +28,11 @@ Tienes [Syoss Keratin Acondicionador para Cabello Encrespado y Seco - 6 Unidades
 
 ℹ️:
 
-- Repara en profundidad a la vez que recupera la keratina perdida; suaviza y ayuda a alisar el cabello
-- Keratin es la nueva gama de Syoss para el cabello encrespado y seco
-- La fórmula del acondicionador Keratin con tecnología AMINO COMPLEX y FLOR DE LOTO controla el encrespamiento
-- Modo de empleo: aplicar sobre el cabello mojado y aclarar con abundante agua
-- Cabello como recién salido de la peluquería
 - Las nuevas fórmulas de Syoss combinan ingredientes naturales inspirados en los principios de belleza japoneses con la tecnología AMINO COMPLEX, que refuerza el cabello desde el interior
+- Modo de empleo: aplicar sobre el cabello mojado y aclarar con abundante agua
+- La fórmula del acondicionador Keratin con tecnología AMINO COMPLEX y FLOR DE LOTO controla el encrespamiento
+- Keratin es la nueva gama de Syoss para el cabello encrespado y seco
+- Repara en profundidad a la vez que recupera la keratina perdida; suaviza y ayuda a alisar el cabello
+- Cabello como recién salido de la peluquería
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08F5SYWLP/?tag=tolees-21)

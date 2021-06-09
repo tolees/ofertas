@@ -28,10 +28,10 @@ Tienes [yootech Cargador Rápido Inalámbrico 2 Pack compatible con iPhone 12/12
 
 ℹ️:
 
-- 【Diseño humanizado】: YOOTECH indicador LED inteligente es diseñado para traerle una vida cómoda, rechaza la contaminación lumínica. El indicador parpadeará durante 16 segundos y luego se apagará para no molestar su sueño. Y las luces suave multicoloras del LED indican el estado de la carga.
 - 【Contenido de Paquete】: Usted va a conseguir 1 x Base de carga inalámbrica, 1 x Soporte de carga inalámbrica, 2x 3.3ft Cable USB A-C . Si tiene alguna pregunta, no dude en contactarnos en cualquier momento, la compra de riesgo cero es para la sonrisa de cada cliente.
+- 【Funda Amigable】: Puede cargar el teléfono móvil con la funda de menos de 4mm, pero no se recomienda el caso de más de 6mm por no molestar la velocidad de carga.
+- 【Diseño humanizado】: YOOTECH indicador LED inteligente es diseñado para traerle una vida cómoda, rechaza la contaminación lumínica. El indicador parpadeará durante 16 segundos y luego se apagará para no molestar su sueño. Y las luces suave multicoloras del LED indican el estado de la carga.
 - 【Modo vertical y horizontal】: Usted puede cargar su teléfono verticalmente y horizontalmente con el ángulo perfecto para sus ojos, puede ver películas, hacer videollamadas, escuchar músicas o mandar mensajes sin preocupación de interrumpir la carga.
 - 【3 Modos de Carga】: Carga rápido de 10w para Galaxy S20/S20+/S10/S10+/S10 E/S9/S9 Plus/ S8/S8 Plus/S7/S7 Edge/S6 Edge+/Note 8, carga rápido de 7.5w es compatible con iPhone 11/11 Pro/11 Pro Max/XS MAX/XR/XS/ X/ 8/8 plus. Carga estándar de 5W para todos los dispositivos que soportan la carga inalámbrica, Por favor asegurése de que su teléfono soporte la carga inalámbrica antes de comprar.
-- 【Funda Amigable】: Puede cargar el teléfono móvil con la funda de menos de 4mm, pero no se recomienda el caso de más de 6mm por no molestar la velocidad de carga.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VS5FPRB/?tag=tolees-21)
