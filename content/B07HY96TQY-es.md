@@ -29,9 +29,9 @@ Está [Polti Vaporella Next VN 18.35 Centro de Planchado con Caldera de Alta  6 
 ℹ️:
 
 - Centros de planchado con la innovadora 360 fluid curve technology: elimina sin esfuerzo las arrugas más difíciles, óptimo deslizamiento, distribución homogenia del vapor y forma redondeada para un planchado multidireccional que supera todos los obstáculos
-- Función steam pulse 350 g: vapor intermitente para un planchado sencillo y rápido, también en vertical
+- Centro de planchado a vapor con caldera y autonomía ilimitada hasta 6 bar de presión y bomba de máximo 15 bar
 - Diseños italiano, fácil limpieza de la caldera con el sistema calc cleaning, depósito de 1.3 l, rápido calentamiento en 2 minutos, inserto de corcho transpirable, función auto apagado, y bloqueo de la plancha para un fácil transporte
 - Regulación de vapor en 3 posiciones: eco para ahorro de energía y de agua sin renunciar a las mejores prestaciones, normal y turbo para los tejidos más difíciles de planchar
-- Centro de planchado a vapor con caldera y autonomía ilimitada hasta 6 bar de presión y bomba de máximo 15 bar
+- Función steam pulse 350 g: vapor intermitente para un planchado sencillo y rápido, también en vertical
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HY96TQY/?tag=tolees-21)

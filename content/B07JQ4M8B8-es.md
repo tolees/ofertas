@@ -28,8 +28,8 @@ En este momento está [adidas TASTIGO19 SHO Pantalones Cortos de Deporte  Hombre
 
 🔎:
 
-- Climalite anti-humidity fabric
 - Regular fit
+- Climalite anti-humidity fabric
 - Elastic waistband with lanyard
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JQ4M8B8/?tag=tolees-21)
