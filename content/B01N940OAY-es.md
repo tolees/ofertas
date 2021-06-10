@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Pata Negra Apasionado - Vino Tinto D.O J'
-date: 2021-05-25 22:13:58
+date: 2021-06-10 07:09:13
 image: 'https://m.media-amazon.com/images/I/51Vq7hhLqSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pata Negra'
 buyurl: 'https://www.amazon.es/dp/B01N940OAY/?tag=tolees-21'
 descuento: '50.00'
-average: '24.5666666666667'
+average: '23.9775'
 ---
 
 Tienes [Pata Negra Apasionado - Vino Tinto D.O Jumilla - Caja de 6 Botellas x 750 ml](https://www.amazon.es/dp/B01N940OAY/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 18.0 EUR (original: 36.0 EUR) en el siguiente enlace!
@@ -30,9 +30,9 @@ Tienes [Pata Negra Apasionado - Vino Tinto D.O Jumilla - Caja de 6 Botellas x 75
 
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos servir a 16ºC
 - Apariencia: Vino tinto de color picota oscuro y brillante, de capa muy cubierta
+- Aroma: Perfil aromático intenso y atractivo con notas de café tostado, ciruelas y frutos negros
 - Tipo de uva: Elaborado con una interesante combinación de uvas Monastrell, Petit Verdot y Cabernet Sauvignon; cada variedad se elabora por separado y solo después de estar los vinos terminados, se decide cuál es el porcentaje de cada uno que se añade a la mezcla final
 - Maridaje: Este vino combina óptimamente simplemente por copas o con carnes a la parrilla y comida picante. Pruébalo con una onza de chocolate negro
-- Aroma: Perfil aromático intenso y atractivo con notas de café tostado, ciruelas y frutos negros
 - Gusto: Da sensación de plenitud en boca, sabroso y largo; con taninos suaves y redondos unidos a un final muy persistente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N940OAY/?tag=tolees-21)
