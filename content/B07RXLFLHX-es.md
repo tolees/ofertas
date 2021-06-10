@@ -28,7 +28,7 @@ Ahora mismo tienes [Diesel UMLT-JAKE  Camiseta para Hombre  Negro  Black 900/0qa
 
 🔎:
 
-- Muy cómodo.
 - Diesel - Camiseta para hombre
+- Muy cómodo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RXLFLHX/?tag=tolees-21)

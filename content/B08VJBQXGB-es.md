@@ -28,10 +28,10 @@ En este momento está [Bejar - Béjar Mascarillas FFP2 CE 0598 | Pack de 200 uds
 
 🔎:
 
+- Presentación en 8 cajas de 25 unidades.
 - Material hipoalergénico, exento de ingredientes tóxicos y olores nocivos.
-- 19 cm de goma (3 cm extra) para garantizar su comodidad y evitar rozaduras
 - Mascarillas FPP2 fabricadas de acuerdo con la norma europea EN 149: 2001 + A1: 2009.
 - Cinco capas de protección que proporcionan una eficacia de filtración superior al 95%
-- Presentación en 8 cajas de 25 unidades.
+- 19 cm de goma (3 cm extra) para garantizar su comodidad y evitar rozaduras
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VJBQXGB/?tag=tolees-21)

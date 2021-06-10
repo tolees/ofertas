@@ -28,10 +28,10 @@ Está [G-STAR RAW Sleeve Pocket Sudadera  Dk Black/Combat C707-c346-Carrete de P
 
 ℹ️:
 
-- Bajo recto con borde acanalado
+- Bolsillo en la parte alta de la manga; borde con vuelta
+- Bolsillo en la parte alta de la manga; borde con vuelta
 - Manga larga con puños de canalé continuados
+- Bajo recto con borde acanalado
 - Cuello redondo acanalado
-- Bolsillo en la parte alta de la manga; borde con vuelta
-- Bolsillo en la parte alta de la manga; borde con vuelta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CK8DR1T/?tag=tolees-21)

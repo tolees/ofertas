@@ -28,10 +28,10 @@ En este momento está [Maserati - Reloj para Hombre  Colección TRIMARANO  en Ac
 
 🔎:
 
-- Water resistance: 10 ATM
-- Vidrio: Mineral
-- Diámetro caja: 49X41MM
-- Funciones: Cronógrafo
 - Materiales: acero, PVD gris, silicona
+- Vidrio: Mineral
+- Funciones: Cronógrafo
+- Water resistance: 10 ATM
+- Diámetro caja: 49X41MM
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CLGYH8S/?tag=tolees-21)
