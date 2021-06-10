@@ -28,9 +28,9 @@ Está [TRIXIE Botella-Bebedero de Viaje para Perros](https://www.amazon.es/dp/B0
 
 ℹ️:
 
+- plástico
 - ideal como bebedero durante el viaje
 - simplemente desplegar la botella y retirar el tapón
 - con gancho para colgar p.ej. a cinturón
-- plástico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001BYMLYC/?tag=tolees-21)

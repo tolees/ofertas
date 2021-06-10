@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Continental 80  Sneaker Hombre  Negro Core Black Scar
 
 🔎:
 
-- Corte regular
 - Suela de goma
 - Cordones de zapatos
+- Corte regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K2LHJHK/?tag=tolees-21)
