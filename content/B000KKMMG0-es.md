@@ -28,8 +28,8 @@ Tienes [Adidas Samba  Zapatillas de Fútbol Hombre  Negro Black Running White  4
 
 ℹ️:
 
-- Bolsillos frontales con cremallera.
 - Ventilación Climacool.
+- Bolsillos frontales con cremallera.
 - Cintura elástica con cordón.
 - Visera curvada.
 

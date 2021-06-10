@@ -29,8 +29,8 @@ Está [Philips QP2520/30 OneBlade - Recortador de barba  recorta  perfila y afei
 ℹ️:
 
 - Incluye tres peines-guía para recortar la barba: 1, 3 y 5 mm
-- Recorta, perfila y afeita cualquier longitud de pelo
 - Batería NiMH de larga duración: 45 minutos en cada uso con 8 horas de carga
+- Recorta, perfila y afeita cualquier longitud de pelo
 - Incluye 1 cuchilla de recambio adicional
 - Uso en seco o en húmedo, incluso en la ducha
 
