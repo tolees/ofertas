@@ -28,10 +28,10 @@ En este momento está [AEG CX7-2-45AN Aspiradora Escoba Sin Cable y de Mano Cepi
 
 🔎:
 
-- Aspiradora con función 2 en 1, que combina una aspiradora escoba para limpiar el suelo y una aspiradora de mano para limpiar muebles, sofás o zonas altas
-- Cepillo motorizado con giro de 180°, diseño ergonómico y 2 ruedas traseras que en conjunto aportan gran fácil idad de maniobra para limpiar todo tipo de suelos y alfombras
+- Batería de litio turbopower de alta densidad que ofrece hasta 45 minutos de autonomía, con bajo nivel de ruido (hasta 79 decibelios) y luces led dustspotter para iluminar las zonas oscuras
 - Autolimpieza patentada del rodillo de cepillo, que se retira automáticamente mediante la presión del pedal; además, la tecnología brush roll clean elimina los pelos y fibras que se enredan en el cepillo
 - Modelo mascotas, con boquilla animal care que limpia eficazmente el pelo de los animales, los ácaros y el polvo de las tapicerías; adecuado para personas alérgicas o dueños de mascotas
-- Batería de litio turbopower de alta densidad que ofrece hasta 45 minutos de autonomía, con bajo nivel de ruido (hasta 79 decibelios) y luces led dustspotter para iluminar las zonas oscuras
+- Cepillo motorizado con giro de 180°, diseño ergonómico y 2 ruedas traseras que en conjunto aportan gran fácil idad de maniobra para limpiar todo tipo de suelos y alfombras
+- Aspiradora con función 2 en 1, que combina una aspiradora escoba para limpiar el suelo y una aspiradora de mano para limpiar muebles, sofás o zonas altas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0748MM3ZM/?tag=tolees-21)
