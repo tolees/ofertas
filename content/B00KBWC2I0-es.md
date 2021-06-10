@@ -28,11 +28,11 @@ Tienes [Oral-B TriZone Cabezales de Recambio  Pack de 5 Recambios Originales par
 
 ℹ️:
 
-- Compatibles con toda la gama de cepillos de dientes eléctricos Oral-B, excepto los cepillos de dientes Oral-B Sonic
-- Cuenta con una zona de limpieza triple con tres áreas de filamentos, para limpiar en profundidad las zonas de difícil acceso
-- Fácil agarre para que te cepilles como si lo hicieras con un cepillo de dientes manual normal
-- Este cabezal de recambio favorece unos dientes más limpios y unas encías más sanas, comparado con un cepillo de dientes manual normal
-- Filamentos indicadores que se difuminan para indicar que debes reemplazar el cabezal de tu cepillo de dientes para disfrutar de una mejor limpieza (cada tres meses aproximadamente)
 - Oral-B, la marca usada por dentistas en todo el mundo
+- Fácil agarre para que te cepilles como si lo hicieras con un cepillo de dientes manual normal
+- Cuenta con una zona de limpieza triple con tres áreas de filamentos, para limpiar en profundidad las zonas de difícil acceso
+- Este cabezal de recambio favorece unos dientes más limpios y unas encías más sanas, comparado con un cepillo de dientes manual normal
+- Compatibles con toda la gama de cepillos de dientes eléctricos Oral-B, excepto los cepillos de dientes Oral-B Sonic
+- Filamentos indicadores que se difuminan para indicar que debes reemplazar el cabezal de tu cepillo de dientes para disfrutar de una mejor limpieza (cada tres meses aproximadamente)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00KBWC2I0/?tag=tolees-21)

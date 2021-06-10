@@ -29,12 +29,12 @@ En este momento está [Zanussi ZWF922E4W2 Lavadora de Libre Instalación  Carga 
 🔎:
 
 - Función FlexiTime: permite acelerar los ciclos de lavado para ajustarlos a tu horario
-- Panel de control fácil e intuitivo con Programa Rápido de 30 minutos a 30 grados y Programa Easy 60 minutos. También con programa de Refresco en 14 minutos.
-- Dimensiones (Ancho x Alto x Profundo mm): 600 x 850 x 600. Lavado: 9kg / Centrifugado: 1200 RPM
-- Programa EasyIron: aplica un especial cuidado a la ropa, reduciendo la aparición de arrugas en los tejidos
-- Función AutoAdjust: con sensores capaces de saber lo que hay en el tambor, ajustando así el consumo de agua y energía
-- Inicio Diferido: Programa fácilmente la hora de inicio del ciclo de lavado
-- Programa CleanBoost Anti-Alergias a 60ºC: acabado a vapor higiénico y eficiente que ayuda a reducir las bacterias y alérgenos en los tejidos
 - Programas: Eco, Algodón, Sintéticos, Delicados, Lana, Ropa vaquera, Ropa deportiva, Centrifugado, Aclarado, Ropa Oscura, CleanBoost, Refresco 14 minutos, Rápid 30 minutos, EasyWash 60 minutos
+- Función AutoAdjust: con sensores capaces de saber lo que hay en el tambor, ajustando así el consumo de agua y energía
+- Programa CleanBoost Anti-Alergias a 60ºC: acabado a vapor higiénico y eficiente que ayuda a reducir las bacterias y alérgenos en los tejidos
+- Dimensiones (Ancho x Alto x Profundo mm): 600 x 850 x 600. Lavado: 9kg / Centrifugado: 1200 RPM
+- Inicio Diferido: Programa fácilmente la hora de inicio del ciclo de lavado
+- Programa EasyIron: aplica un especial cuidado a la ropa, reduciendo la aparición de arrugas en los tejidos
+- Panel de control fácil e intuitivo con Programa Rápido de 30 minutos a 30 grados y Programa Easy 60 minutos. También con programa de Refresco en 14 minutos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08YQMSJXK/?tag=tolees-21)

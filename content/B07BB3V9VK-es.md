@@ -28,10 +28,10 @@ Tienes [Levi s Declan Millstone 2 Tone  Zapatillas Hombre  Negro B Black  42 EU]
 
 🔎:
 
-- Parche lateral con logotipo
-- Material exterior: piel sintética.
-- Suela de goma de alta calidad.
-- Suela interior extraíble.
 - Cordones con 7 orificios.
+- Material exterior: piel sintética.
+- Suela interior extraíble.
+- Parche lateral con logotipo
+- Suela de goma de alta calidad.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BB3V9VK/?tag=tolees-21)
