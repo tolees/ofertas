@@ -28,8 +28,8 @@ En este momento está [Nike Tanjun  Zapatillas de Running para Mujer  Negro  Bla
 
 🔎:
 
-- Cómoda entresuela de espuma amortiguadora
-- Parte superior textil transpirable
 - Diseño sencillo
+- Parte superior textil transpirable
+- Cómoda entresuela de espuma amortiguadora
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CRKZ8FC/?tag=tolees-21)

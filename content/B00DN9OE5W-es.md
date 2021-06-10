@@ -28,10 +28,10 @@ Tienes [Ana María Lajusticia - Ana Maria Lajusticia - Colágeno con magnesio �
 
 ℹ️:
 
+- Contribuye a mantener y aumentar la masa muscular
+- El colágeno con magnesio interviene en la regeneración del tejido osteomuscular
 - El colágeno con magnesio contribuye a la salud del tejido conectivo como la piel, cabello y uñas.
 - El magnesio contribuye a disminuir el cansancio y la fatiga
-- El colágeno con magnesio interviene en la regeneración del tejido osteomuscular
-- Contribuye a mantener y aumentar la masa muscular
 - El colágeno es la proteína más abundante en el cuerpo humano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DN9OE5W/?tag=tolees-21)

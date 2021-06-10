@@ -28,10 +28,10 @@ En este momento está [Westinghouse Ceiling Fans Vegas Ventilador de Techo  Meta
 
 🔎:
 
-- El vidrio mate del kit de iluminación ofrece un tono perfecto y crea un ambiente acogedor.
-- El motor de alta calidad ofrece un potente movimiento de aire y un funcionamiento silencioso, función de giro inverso para uso en invierno / verano
-- Ventilador de techo tradicional de 105 cm con acabado blanco, ideal para habitaciones de hasta 20 m2
 - Cuatro aspas reversibles le ofrecen la opción de elegir entre dos acabados: blanco limpio o pino blanqueado. El kit de iluminación con pantalla de vidrio mate es compatible con bombillas con casquillo E27, 60W máx. (no incluida), se recomienda usar con la bombilla LED Westinghouse 37128
+- Ventilador de techo tradicional de 105 cm con acabado blanco, ideal para habitaciones de hasta 20 m2
+- El vidrio mate del kit de iluminación ofrece un tono perfecto y crea un ambiente acogedor.
 - Instalar con o sin la varilla de extensión, incluye manual de instrucciones ilustrado, garantía limitada de 10 años para el motor
+- El motor de alta calidad ofrece un potente movimiento de aire y un funcionamiento silencioso, función de giro inverso para uso en invierno / verano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003LXB3GS/?tag=tolees-21)

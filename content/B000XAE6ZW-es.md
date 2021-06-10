@@ -28,10 +28,10 @@ Está [Tetra IN 800 plus Filtro interior - Filtros interiores potentes y confort
 
 ℹ️:
 
+- Con un práctico dispositivo para la extracción del medio filtrante que permite un manejo limpio; Regulación continua de la velocidad de flujo para adaptarla al acuario
+- Todos los filtros interiores tienen cámaras filtrantes divididas en dos; Para un tamaño de acuario de 80 a 150 litros
 - Diseño elegante y compacto, necesita poco espacio; Fácil de colocar mediante ventosas de gran estabilidad
 - Tobera de salida girable en 180°; Aporte adicional de oxígeno mediante sistema Venturi regulable
-- Todos los filtros interiores tienen cámaras filtrantes divididas en dos; Para un tamaño de acuario de 80 a 150 litros
 - Así, durante la limpieza, una esponja filtrante puede permanecer siempre en la cámara filtrante - minimizando la pérdida de las útiles bacterias
-- Con un práctico dispositivo para la extracción del medio filtrante que permite un manejo limpio; Regulación continua de la velocidad de flujo para adaptarla al acuario
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000XAE6ZW/?tag=tolees-21)
