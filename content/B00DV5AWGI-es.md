@@ -28,8 +28,8 @@ Tienes [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto  Grey Vapor
 
 ℹ️:
 
-- Material: lino.
 - Cierre: cordones
 - Colección: 2013
+- Material: lino.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DV5AWGI/?tag=tolees-21)
