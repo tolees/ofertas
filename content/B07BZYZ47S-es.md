@@ -28,10 +28,10 @@ Ahora mismo tienes [Amazon Basics – Portería de fútbol portátil fácil de m
 
 🔎:
 
-- Montaje rápido y sencillo (sin necesidad de herramientas), por lo que podrás practicar o jugar al fútbol en cualquier momento y lugar.
-- Mide 144 x 182,88 x 91,44 cm (largo x ancho x alto); pesa 8,80 kg.
-- Portería de fútbol portátil para uso en exteriores de 3,65 x 1,83 metros con abertura rectangular ancha.
-- Fabricada en fibra de vidrio y acero con postes tensores ultraflexibles y una resistente red de 2 capas para un uso duradero y fiable.
 - Incluye estacas metálicas para mayor estabilidad y una bolsa de transporte para trasladarla o guardarla con gran facilidad.
+- Montaje rápido y sencillo (sin necesidad de herramientas), por lo que podrás practicar o jugar al fútbol en cualquier momento y lugar.
+- Portería de fútbol portátil para uso en exteriores de 3,65 x 1,83 metros con abertura rectangular ancha.
+- Mide 144 x 182,88 x 91,44 cm (largo x ancho x alto); pesa 8,80 kg.
+- Fabricada en fibra de vidrio y acero con postes tensores ultraflexibles y una resistente red de 2 capas para un uso duradero y fiable.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BZYZ47S/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.31 % en Mannesmann M19652 Juego de 12 llaves com'
-date: 2021-06-09 08:11:54
+date: 2021-06-10 11:38:57
 image: 'https://m.media-amazon.com/images/I/41mYUyhmEyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mannesmann'
 buyurl: 'https://www.amazon.es/dp/B000ET7G0E/?tag=tolees-21'
 descuento: '46.31'
-average: '11.365'
+average: '10.9911111111111'
 ---
 
 Tienes [Mannesmann M19652 Juego de 12 llaves combinadas 6 a 22 CV](https://www.amazon.es/dp/B000ET7G0E/?tag=tolees-21) con un 46.31 % de descuento con precio de oferta de 8.0 EUR (original: 14.9 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Mannesmann M19652 Juego de 12 llaves combinadas 6 a 22 CV](https://www.a
 
 ℹ️:
 
+- 10 años de garantía
+- Acero de vanadio de cromo
 - TÜV / GS probado
 - Claves de: 6, 7, 8, 9, 10, 11, 12, 13, 15, 17, 19, 22 mm
-- 10 años de garantía
 - 12 piezas
-- Acero de vanadio de cromo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000ET7G0E/?tag=tolees-21)

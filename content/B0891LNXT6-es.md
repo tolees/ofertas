@@ -28,9 +28,9 @@ Está [Funko- Pop Heroes Front Line Worker-Female #1 Figura coleccionable  Multi
 
 ℹ️:
 
-- Funko POP! El juguete del año 2018
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - De la colección Front Line Workers, Female #1 como figura de vinilo POP de Funko
 - ¡Descúbre otras figuras de la colección Heroes y colecciónalas todas!
+- Funko POP! El juguete del año 2018
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0891LNXT6/?tag=tolees-21)

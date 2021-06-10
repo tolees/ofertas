@@ -28,10 +28,10 @@ Ahora mismo tienes [Halls Menta Suave - Caramelo duro - Caja con 20 Sticks de 32
 
 🔎:
 
-- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 - Caramelos duros refrescantes sin azúcar, con sabor a menta suave
-- Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
 - Conservar en lugar fresco y seco
+- Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
+- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077V2QWVC/?tag=tolees-21)
