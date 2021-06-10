@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi NUN4056GL - Mi Smart Scale 2 Blan con un 35.02 % de descuento'
-date: 2021-06-02 16:44:42
+date: 2021-06-10 15:13:29
 image: 'https://m.media-amazon.com/images/I/31XxTw0wl5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B07VLN38BL/?tag=tolees-21'
 descuento: '35.02'
-average: '16.6059259259259'
+average: '16.5883928571429'
 ---
 
 En este momento está [Xiaomi NUN4056GL - Mi Smart Scale 2 Blanco](https://www.amazon.es/dp/B07VLN38BL/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Xiaomi NUN4056GL - Mi Smart Scale 2 Blanco](https://www.a
 
 🔎:
 
-- Registra hasta 16 perfiles
 - Prueba de equilibrio
+- Carcasa de ABS con superficie de vidrio
 - Las balanzas Xiaomi son adecuadas para dispositivos iOS y Android.
 - Mide solo el peso corporal, no la grasa corporal
-- Carcasa de ABS con superficie de vidrio
+- Registra hasta 16 perfiles
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VLN38BL/?tag=tolees-21)
