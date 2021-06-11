@@ -28,10 +28,10 @@ Tienes [Intex 58854EU - Sillón hinchable River Run 130 x 126 cm](https://www.am
 
 🔎:
 
-- Medidas: 130 x 126 cm
 - Posavasos incorporado
+- Medidas: 130 x 126 cm
+- Dos cámaras de aire para mayor seguridad
 - Sillón Fabricado con vinilo resistente que cuenta con un cómodo respaldo
 - Fondo de rejilla para mayor comodidad
-- Dos cámaras de aire para mayor seguridad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00O9VKJTI/?tag=tolees-21)
