@@ -28,10 +28,10 @@ Está [Hoover SJ60WWR6 Jive SJ60WWR6-Aspirador de Mano  Sólidos  Cabezal para r
 
 ℹ️:
 
+- Batería de nimh de 6V: aspiradora con 12 minutos de autonomía.
 - Comodidad y facilidad de uso: aspirador con mango ergonómico de fácil agarre, anilla para colgar y posición "stand alone", se sostiene sola de pie.
 - Ligero y cómodo: aspirador de 0,9Kgs, con mango ergonómico de fácil agarre y anilla para colgar.
-- Batería de nimh de 6V: aspiradora con 12 minutos de autonomía.
-- Aspiradora sin bolsa con 2 depósitos: depósito polvo 0,3l/ depósito líquidos 0,1l.
 - Aspiradora de mano con accesorios para la recogida de sólidos y líquidos: cabezal para líquidos, cabezal para rincones, base de carga y anilla para colgar.
+- Aspiradora sin bolsa con 2 depósitos: depósito polvo 0,3l/ depósito líquidos 0,1l.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00ARV1CXG/?tag=tolees-21)
