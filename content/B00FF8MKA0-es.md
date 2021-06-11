@@ -29,8 +29,8 @@ Tienes [Allocacoc - POWERCUBE ORIGINAL USB](https://www.amazon.es/dp/B00FF8MKA0/
 ℹ️:
 
 - Carga máxima 3500 W (16A)
-- Diseño compacto, enchufes con toma tierra y protección infantil
-- Adaptador de viaje y regleta de 4 salidas y 2 puertos USBCarga máxima: 3500 W (16 A)Diseño compacto, enchufes con toma tierra y protección infantil
 - Adaptador de viaje y regleta de 4 salidas y 2 puertos USB
+- Adaptador de viaje y regleta de 4 salidas y 2 puertos USBCarga máxima: 3500 W (16 A)Diseño compacto, enchufes con toma tierra y protección infantil
+- Diseño compacto, enchufes con toma tierra y protección infantil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FF8MKA0/?tag=tolees-21)

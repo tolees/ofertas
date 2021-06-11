@@ -28,8 +28,8 @@ Tienes [Veggie&Nature - Mezcla vegana para hamburguesas de espinacas sin gluten 
 
 🔎:
 
-- Fácil de preparar y listo en solo 20 minutos, como a usted le guste.
 - Hamburguesas a base de plantas
+- Fácil de preparar y listo en solo 20 minutos, como a usted le guste.
 - Ellos son una rica fuente de proteínas, fibra y magnesio.
 - Ingredientes saludables y superalimentos. Las hamburguesas vegetarianas se han seleccionado sobre la base de superalimentos sin gluten de alto valor, como copos de quinoa, copos de avena, harina de garbanzo y trigo sarraceno blanco.
 
