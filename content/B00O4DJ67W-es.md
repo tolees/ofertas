@@ -29,9 +29,9 @@ Ahora mismo tienes [Diesel Herren-Reloj analógico de Pulsera de Cuarzo Chapado 
 🔎:
 
 - - Material de la Carcasa: Acero Inoxidable (cepillado)
-- - Color de la caja: Negro
 - Carcasa
-- - Forma de la Carcasa: Redondo
 - - Luneta de: Acero Inoxidable (cepillado)
+- - Forma de la Carcasa: Redondo
+- - Color de la caja: Negro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00O4DJ67W/?tag=tolees-21)
