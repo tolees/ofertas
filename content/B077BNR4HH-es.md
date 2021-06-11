@@ -28,9 +28,9 @@ Tienes [Adidas CORE18 POLO W Polo shirt  Mujer  Black/ White  XS](https://www.am
 
 🔎:
 
-- Climalite anti-humidity fabric
+- Costuras laterales abiertas.
 - Cintura con cordón.
 - Tejido suave.
-- Costuras laterales abiertas.
+- Climalite anti-humidity fabric
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077BNR4HH/?tag=tolees-21)
