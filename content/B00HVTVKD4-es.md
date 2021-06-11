@@ -28,10 +28,10 @@ Tienes [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto  Dark Grey 
 
 🔎:
 
+- Goma Outersole
 - Encaje 5 Ojeteador
 - Algodón Superior
-- Estilo Casual
-- Goma Outersole
 - Ajuste De Media
+- Estilo Casual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HVTVKD4/?tag=tolees-21)

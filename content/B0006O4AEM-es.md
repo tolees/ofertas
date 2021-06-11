@@ -28,11 +28,11 @@ Tienes [Bondhus 3902000 llaves macho acodadas  Amarillo  Set de 9 Piezas](https:
 
 🔎:
 
-- Las llaves vienen en una caja
 - Tienen una mejor resistencia a la torsión
-- Ofrecen seguridad al operador
-- Lado largo con esfera poliédrica que permite trabajar con un ángulo de inserción de hasta 25 °
-- Llaves hechas de acero
+- Las llaves vienen en una caja
 - Lado corto con extremo recto estándar
+- Llaves hechas de acero
+- Lado largo con esfera poliédrica que permite trabajar con un ángulo de inserción de hasta 25 °
+- Ofrecen seguridad al operador
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0006O4AEM/?tag=tolees-21)

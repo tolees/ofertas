@@ -28,8 +28,8 @@ Tienes [Levi s 510 Skinny Jeans  Whoop  28W / 30L para Hombre](https://www.amazo
 
 🔎:
 
-- Diseño de cinco bolsillos
-- Corte ceñido de la cadera al tobillo
 - Estilo contemporáneo
+- Corte ceñido de la cadera al tobillo
+- Diseño de cinco bolsillos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0897YWNR9/?tag=tolees-21)
