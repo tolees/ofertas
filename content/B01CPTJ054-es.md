@@ -29,10 +29,10 @@ Tienes [WINKEL SW45 Máquina de Coser Mecánica  12 Puntadas  con LED para Ilumi
 🔎:
 
 - Guarda tu material en el cajón que hay en la parte trasera de la máquina. ¡disfruta de una máquina de coser sencilla y ligera con la que podrás arreglar y crear todo tipo de prendas
-- Cuenta con devanador automático y iluminación LED
-- Ajusta la puntada entre 2,8 mm a 3,5 mm para que tus dobladillos queden perfectos; podrás coser en modo automático, seleccionando una de las dos velocidades, o con el pedal incluido, para poder coser a tu ritmo
-- Comienza tus puntadas con la función inversa para que quede la costura perfecta; es muy cómoda y fácil de usar; podrás transportarla a donde quieras gracias a su ligero peso
-- La máquina de coser sw45 es eléctrica y muy fácil de usar; sólo tienes que conectarla a la corriente, encender la luz, utilizar el sistema de bobinado para preparar los hilos y seleccionar una de las 12 puntadas diferentes que dispone
 - ¡Diseña y confecciona tus prendas con la máquina de coser con brazo libre sw45 de weäsy
+- Cuenta con devanador automático y iluminación LED
+- La máquina de coser sw45 es eléctrica y muy fácil de usar; sólo tienes que conectarla a la corriente, encender la luz, utilizar el sistema de bobinado para preparar los hilos y seleccionar una de las 12 puntadas diferentes que dispone
+- Comienza tus puntadas con la función inversa para que quede la costura perfecta; es muy cómoda y fácil de usar; podrás transportarla a donde quieras gracias a su ligero peso
+- Ajusta la puntada entre 2,8 mm a 3,5 mm para que tus dobladillos queden perfectos; podrás coser en modo automático, seleccionando una de las dos velocidades, o con el pedal incluido, para poder coser a tu ritmo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01CPTJ054/?tag=tolees-21)

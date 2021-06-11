@@ -29,9 +29,9 @@ Está [G-STAR RAW Graphic 8 T-Shirt  Schwarz  dk Black 336-6484   XS para Hombre
 ℹ️:
 
 - Estilo del cuello: Cuello redondo
+- 100% Algodón
 - Manga corta
 - Lavar a máquina - caliente (mayor de 30 °)
-- 100% Algodón
 - Camiseta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JD2B6MG/?tag=tolees-21)

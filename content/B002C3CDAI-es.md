@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gloss! - Gloss - caja de baño  caja de r con un 46.67 % de descuento'
-date: 2021-06-10 03:23:21
+date: 2021-06-11 21:33:30
 image: 'https://m.media-amazon.com/images/I/51PbZitgE7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gloss!'
 buyurl: 'https://www.amazon.es/dp/B002C3CDAI/?tag=tolees-21'
 descuento: '46.67'
-average: '14.6066666666665'
+average: '14.5976119402983'
 ---
 
 En este momento está [Gloss! - Gloss - caja de baño  caja de regalo para mujeres - Bañera de Baño Regalo - Chocolate](https://www.amazon.es/dp/B002C3CDAI/?tag=tolees-21) a 14.0 EUR (original: 26.25 EUR) (46.67 %  de descuento) en el siguiente enlace!
