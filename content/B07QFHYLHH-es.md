@@ -28,8 +28,8 @@ Ahora mismo tienes [Guess Analógico W1156L5](https://www.amazon.es/dp/B07QFHYLH
 
 🔎:
 
-- 8 milimetros calendario Día y fecha correa ajustable
 - Guess Modelo Reloj W1156L5
 - Analógico para Mujer
+- 8 milimetros calendario Día y fecha correa ajustable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QFHYLHH/?tag=tolees-21)

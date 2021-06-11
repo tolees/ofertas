@@ -28,8 +28,8 @@ Está [ST. MORIZ - St .Moriz Autobronceador Mousse Rápido - Blanco  200 ml](htt
 
 ℹ️:
 
-- Formato: Dosificador
-- Tipo de Piel: Todo Tipo de Pieles
 - Texturas: Espuma
+- Tipo de Piel: Todo Tipo de Pieles
+- Formato: Dosificador
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CGKQFKK/?tag=tolees-21)

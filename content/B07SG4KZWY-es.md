@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'ELEVEN FORCE Risk Vikings  12081   multi al 37.94 % de rebaja'
-date: 2021-06-02 22:37:33
+title: 'ELEVEN FORCE Risk Vikings  12081   multi al 44.81 % de rebaja'
+date: 2021-06-11 18:36:28
 image: 'https://m.media-amazon.com/images/I/51wHmkSAwhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,27 +9,27 @@ author: 'tole.es'
 slug: 'B07SG4KZWY-es ELEVEN FORCE Risk Vikings 12081 multicolor color/modelo...'
 sku: 'B07SG4KZWY-es'
 tags: [ 'Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','eleven force', ]
-actualPrice: 26.99 EUR
+actualPrice: 24.0 EUR
 currency: EUR
-price: 26.99
+price: 24.0
 comparePrice: 43.49 EUR
 prodname: 'ELEVEN FORCE Risk Vikings  12081   multicolor   color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Eleven Force'
 buyurl: 'https://www.amazon.es/dp/B07SG4KZWY/?tag=tolees-21'
-descuento: '37.94'
-average: '29.1166666666667'
+descuento: '44.81'
+average: '27.8375'
 ---
 
-Tienes [ELEVEN FORCE Risk Vikings  12081   multicolor   color/modelo surtido](https://www.amazon.es/dp/B07SG4KZWY/?tag=tolees-21) con precio final de  26.99 EUR (original: 43.49 EUR) (37.94 %  de rebaja) aqui!
+Tienes [ELEVEN FORCE Risk Vikings  12081   multicolor   color/modelo surtido](https://www.amazon.es/dp/B07SG4KZWY/?tag=tolees-21) con precio final de  24.0 EUR (original: 43.49 EUR) (44.81 %  de rebaja) aqui!
 
 [![ELEVEN FORCE Risk Vikings  12081   multi](https://m.media-amazon.com/images/I/51wHmkSAwhL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07SG4KZWY/?tag=tolees-21)
 
 🔎:
 
-- Duración 90 min
 - Juegos de mesa juegos de acción y reflejos
+- Duración 90 min
 - Incluye miniaturas de soldados, jinetes y naves vikingas
 - Incluye 5 ejercitos diferentes, uno para cada jugador
 

@@ -28,8 +28,8 @@ Está [BBB 2977459301 Soporte de Pared Plegable para Bicicletas  Negro  Talla Ú
 
 ℹ️:
 
-- Herramientas y equipo (Ciclismo)
 - Accesorios
+- Herramientas y equipo (Ciclismo)
 - BBB Cycling
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00GX6IHE6/?tag=tolees-21)
