@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Superga 2750 COTU Classic  Zapatillas de al 38.34 % de rebaja'
-date: 2020-05-25 16:32:27
-image: 'https://m.media-amazon.com/images/I/41vNvjbZWnL._SL400_.jpg'
+title: 'Superga 2750 COTU Classic Sneakers  Zapa al 49.15 % de rebaja'
+date: 2021-06-11 09:45:52
+image: 'https://m.media-amazon.com/images/I/41vNvjbZWnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00HVTVKD4-es Superga 2750 COTU Classic Zapatillas de Gimnasia Unisexo...'
+slug: 'B00HVTVKD4-es Superga 2750 COTU Classic Sneakers Zapatillas Unisex...'
 sku: 'B00HVTVKD4-es'
-tags: [  ]
-actualPrice: 36.38 EUR
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','superga', ]
+actualPrice: 30.0 EUR
 currency: EUR
-price: 36.38
+price: 30.0
 comparePrice: 59.0 EUR
-prodname: 'Superga 2750 COTU Classic  Zapatillas de Gimnasia Unisexo  Gris  Dk Grey Iron   38 EU'
+prodname: 'Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto  Dark Grey Iron  38 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B00HVTVKD4/?tag=tolees-21'
-descuento: '38.34'
-average: '36.38'
+descuento: '49.15'
+average: '34.2533333333333'
 ---
 
-Tienes [Superga 2750 COTU Classic  Zapatillas de Gimnasia Unisexo  Gris  Dk Grey Iron   38 EU](https://www.amazon.es/dp/B00HVTVKD4/?tag=tolees-21) con precio final de  36.38 EUR (original: 59.0 EUR) (38.34 %  de rebaja) aqui!
+Tienes [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto  Dark Grey Iron  38 EU](https://www.amazon.es/dp/B00HVTVKD4/?tag=tolees-21) con precio final de  30.0 EUR (original: 59.0 EUR) (49.15 %  de rebaja) aqui!
 
-[![Superga 2750 COTU Classic  Zapatillas de](https://m.media-amazon.com/images/I/41vNvjbZWnL._SL400_.jpg)](https://www.amazon.es/dp/B00HVTVKD4/?tag=tolees-21)
+[![Superga 2750 COTU Classic Sneakers  Zapa](https://m.media-amazon.com/images/I/41vNvjbZWnL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00HVTVKD4/?tag=tolees-21)
 
 🔎:
 
+- Encaje 5 Ojeteador
+- Algodón Superior
+- Estilo Casual
+- Goma Outersole
+- Ajuste De Media
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HVTVKD4/?tag=tolees-21)

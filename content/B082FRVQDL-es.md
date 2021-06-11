@@ -28,9 +28,9 @@ Ahora mismo tienes [Funko- Pop Rocks: Queen-Freddie Mercury Radio Gaga Figura Co
 
 🔎:
 
-- Funko POP es el juguete 2018 Peoples Choice del año
 - La figura mide 9 cm y viene en una caja expositora para ventana
-- Echa un vistazo a las otras figuras de la Reina de Funko Collect todos
+- Funko POP es el juguete 2018 Peoples Choice del año
 - De Queen, Freddie Mercury Radio Gaga, como un vinilo POP estilizado de Funko
+- Echa un vistazo a las otras figuras de la Reina de Funko Collect todos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082FRVQDL/?tag=tolees-21)
