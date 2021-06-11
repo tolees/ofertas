@@ -28,9 +28,9 @@ Está [Karcher - Kärcher Manguera de prolongación XH 6 Q Quick Connect  2.641-
 
 ℹ️:
 
-- Para equipos K2-K7 a partir de 2008 con acoplamiento Quick Connect
+- Prolongación de mangueras de alta presión para la pistola Best con acoplamiento Quick Connect
 - Está reforzada con un trenzado textil y cuenta con protección contra flexiones
 - Soporta presiones de hasta 160 bar
-- Prolongación de mangueras de alta presión para la pistola Best con acoplamiento Quick Connect
+- Para equipos K2-K7 a partir de 2008 con acoplamiento Quick Connect
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001THMQUK/?tag=tolees-21)

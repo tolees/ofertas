@@ -28,9 +28,9 @@ Está [Columbia OutDry Ex 80 L Bolsa  Color: Negro  Art. No. 1910161](https://ww
 
 ℹ️:
 
-- Contenido: 1 x Columbia OutDry Ex 80 L Bolsa, Color: Negro, Art. No. 1910161
-- Construcción sellada de costura externa Outdry Extreme con materiales impermeables
 - Confort óptimo gracias a las correas acolchadas extraíbles para los hombros que se convierten en un solo asa de transporte
+- Construcción sellada de costura externa Outdry Extreme con materiales impermeables
+- Contenido: 1 x Columbia OutDry Ex 80 L Bolsa, Color: Negro, Art. No. 1910161
 - Cremallera resistente al agua para mantener sus objetos de valor seguros y protegidos
 - Bolsa de lona con múltiples asas y puntos de amarre, con una capacidad de 80 litros
 

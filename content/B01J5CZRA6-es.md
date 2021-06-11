@@ -28,10 +28,10 @@ Está [CATA | Modelo CIB 6031 BK | Encimera de gas butano | 4 Fuegos | Preparada
 
 ℹ️:
 
-- Ancho de 59cm
 - 4 quemadores de gas:Izquierda arriba: 1 semi-rápido de 1,75kWIzquierda abajo: 1 triple corona de 3,5kWDerecha arriba: 1 semi-rápido de 1,75kWDerecha abajo: 1 auxiliar de 1kW
+- Ancho de 59cm
 - Encendido electrónico integrado en el mando
-- Válvulas de seguridad.
 - Uso exclusivo para Gas Butano. Preparada para Gas Natural
+- Válvulas de seguridad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01J5CZRA6/?tag=tolees-21)

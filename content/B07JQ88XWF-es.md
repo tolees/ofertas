@@ -28,12 +28,12 @@ En este momento está [ZEFAL Aceitera Extra Dry Cera 120 ml](https://www.amazon.
 
 🔎:
 
-- Revestimiento de protección: excelente protección contra el desgaste, el óxido y la oxidación.
-- 125 ml.
-- Botella compresible con tapa de seguridad.
 - Cadena limpia: limpia la lubricación con esta cera.
-- Lubricante a base de cera para un rendimiento y limpieza óptimos.
+- 125 ml.
+- Revestimiento de protección: excelente protección contra el desgaste, el óxido y la oxidación.
 - Todas las condiciones: efectivo, no importa las condiciones
 - Reducción de fricción: pedaleo más suave y un tren de conducción más silencioso.
+- Lubricante a base de cera para un rendimiento y limpieza óptimos.
+- Botella compresible con tapa de seguridad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JQ88XWF/?tag=tolees-21)
