@@ -30,7 +30,7 @@ Ahora mismo tienes [Bosch Professional 2607019438 Bosch 2607019438-Set con 5 Bro
 
 - Apropiado para todas las marcas de herramientas eléctricas
 - Larga vida útil gracias a la utilización de metal duro
-- Aviso de seguridad: utilizar gafas protectoras, máscara contra el polvo, orejeras y guantes durante el trabajo
 - Cinco brocas para piedra con punta de metal duro para elevado rendimiento de perforación y unos resultados precisos
+- Aviso de seguridad: utilizar gafas protectoras, máscara contra el polvo, orejeras y guantes durante el trabajo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0012UQKCY/?tag=tolees-21)

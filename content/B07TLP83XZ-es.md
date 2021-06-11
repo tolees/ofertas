@@ -28,8 +28,8 @@ En este momento está [Clarks Sunder Cross  Sandalias Punta Cerrada Hombre  Marr
 
 🔎:
 
-- Material interior: sintético
-- Suela: EVA
 - Exterior: piel
+- Suela: EVA
+- Material interior: sintético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TLP83XZ/?tag=tolees-21)

@@ -29,7 +29,7 @@ Está [NIKE Dri-Fit Park Short Sleeve Polo  Hombre  Royal Blue/White/White  M](h
 ℹ️:
 
 - Training
-- Nike
 - Sportware
+- Nike
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W82RNK6/?tag=tolees-21)

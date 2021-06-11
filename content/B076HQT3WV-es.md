@@ -28,11 +28,11 @@ En este momento está [Adidas CORE18 SW Top Sudadera  Hombre  Gris  Gris/Negro  
 
 🔎:
 
-- Puños y dobladillo de canalé.
-- Manga raglán.
 - Logotipo de adidas bordado en el pecho.
+- Puños y dobladillo de canalé.
 - Corte clásico más ancho y silueta recta.
 - Cuenta con un pequeño logotipo de Adidas en el pecho
 - Mangas con ribete en contraste.
+- Manga raglán.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076HQT3WV/?tag=tolees-21)
