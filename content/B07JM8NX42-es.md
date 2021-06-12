@@ -28,8 +28,8 @@ Ahora mismo tienes [American Tourister Tracklite - Spinner Medium Expandable Equ
 
 🔎:
 
-- Dimensiones: 445 x 27 x 67 cm - 82 L - 3,80 kg
 - Ruedas dobles para una rodadura suave y confortable
+- Dimensiones: 445 x 27 x 67 cm - 82 L - 3,80 kg
 - Cerradura TSA de 3 dígitos
 - Función de expansión en Spinner 67 ofrece volumen adicional
 

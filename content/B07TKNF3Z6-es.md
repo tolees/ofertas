@@ -28,10 +28,10 @@ Está [Clarks Stanford Walk  Zapatos de Cordones Derby Hombre  Marrón  Tan Leat
 
 ℹ️:
 
-- Fijación: Encaje
 - Ancho: G (estándar)
-- Forro: Textil
+- Fijación: Encaje
 - Suela: Tr
 - Parte Superior: Cuero
+- Forro: Textil
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TKNF3Z6/?tag=tolees-21)

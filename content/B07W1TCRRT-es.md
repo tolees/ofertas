@@ -28,7 +28,7 @@ Está [PIKOLINOS Blucher de Piel Jerez 09Z](https://www.amazon.es/dp/B07W1TCRRT/
 
 ℹ️:
 
-- <p>Zapato de piel troquelada con costuras visibles cosidas a mano
 - Un diseño cómodo perfecto para un look informal. </p><br><p>Detalles: </p><ul><li>Cierre con cordones. </li><li>Altura del tacón: 2,4 cm. </li></ul><p>Materiales: </p><ul><li>100% piel de becerro. </li><li>75% piel, 25% textil </li><li>Plantilla acolchada. </li><li>100% sintético. </li></ul>
+- <p>Zapato de piel troquelada con costuras visibles cosidas a mano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W1TCRRT/?tag=tolees-21)
