@@ -29,9 +29,9 @@ Está [KUHN RIKON  Olla a presión super rápida con asas DUROMATIC Inox  8 Litr
 ℹ️:
 
 - Olla express de diseño atractivo, segura, muy rápida, resistente, fácil de manejar y silenciosa; cocina en aproximadamente un 70% menos de tiempo que otras ollas convencionales
-- Concebida para cocinar super rápido con el mínimo de agua, favorece la conservación de las vitaminas y nutritentes de los alimentos, y lo hace con la máxima eficiencia energética; permite ahorrar hasta un 70% en luz
 - Diseñada y fabricada en suiza, las ollas super rápidas de kuhn rikon cumplen los máximos estándares de calidad y su cuerpo cuenta con una garantía de 10 años
-- Máxima seguridad garantizada: 3 seguros de sobrepresión y un dispositivo de cierre de la tapa automático evitan que la olla pueda ser abierta bajo presión
 - Olla con fondo de sandwich superthermic con 5 capas que permite una rápida absorción / distribución uniforme del calor; apropiada para todo tipo de fuegos, incluido cocinas de inducción
+- Concebida para cocinar super rápido con el mínimo de agua, favorece la conservación de las vitaminas y nutritentes de los alimentos, y lo hace con la máxima eficiencia energética; permite ahorrar hasta un 70% en luz
+- Máxima seguridad garantizada: 3 seguros de sobrepresión y un dispositivo de cierre de la tapa automático evitan que la olla pueda ser abierta bajo presión
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004S6LTHK/?tag=tolees-21)
