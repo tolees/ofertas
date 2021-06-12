@@ -28,7 +28,7 @@ Ahora mismo tienes [Vero Moda VMTINE LS Slim Denim Jacket Mix GA Noos Chaqueta d
 
 🔎:
 
-- Tira de botones
 - Chaqueta vaquera sostenible
+- Tira de botones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08QNCN2S7/?tag=tolees-21)

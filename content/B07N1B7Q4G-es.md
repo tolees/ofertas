@@ -28,10 +28,10 @@ Tienes [G-STAR RAW 3301 High Waist Skinny Vaqueros  Negro  Pitch Black B964-A810
 
 🔎:
 
-- Cierre: Cremallera
-- Vaqueros clásicos de 5 bolsillos.
-- Llavar a máquina - caliente (mayor de 30 °)
 - 91% Algodón, 8% Elastomultiéster, 1% Elastano
 - Skinny
+- Cierre: Cremallera
+- Llavar a máquina - caliente (mayor de 30 °)
+- Vaqueros clásicos de 5 bolsillos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N1B7Q4G/?tag=tolees-21)

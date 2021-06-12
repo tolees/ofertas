@@ -28,8 +28,8 @@ En este momento está [adidas Continental 80 J  Zapatillas Deportivas  FTWR Whit
 
 🔎:
 
+- Empeine de piel lisa
 - Estilo vintage
 - Zapatillas deportivas
-- Empeine de piel lisa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PPJQKWL/?tag=tolees-21)
