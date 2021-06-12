@@ -28,10 +28,10 @@ Está [Hama 47771 - Protector de sobretensión  230 V  50 Hz  16 A   color blanc
 
 ℹ️:
 
-- Conector intermedio entre zócalo y cables de conexión
-- Corriente nominal 16 A
+- Indicador verde para la funcionalidad del supresor de sobretensiones
 - La luz indicadora roja muestra que el voltaje se aplica a la pantalla
 - Protege contra daños causados por interferencias atmosféricas, descargas electrostáticas y sobretensiones
-- Indicador verde para la funcionalidad del supresor de sobretensiones
+- Corriente nominal 16 A
+- Conector intermedio entre zócalo y cables de conexión
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004LQ1P1C/?tag=tolees-21)

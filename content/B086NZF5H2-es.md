@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA MCFC Shorts Replica Pantalones Cortos  Hombre  Peacoat/
 
 🔎:
 
-- Nueva estructura con panel lateral
-- Logotipo del PUMA en la pierna izquierda
-- Tejido texturizado
-- Escudo oficial del Manchester City en relieve en la pierna derecha
 - Corte normal
+- Nueva estructura con panel lateral
+- Tejido texturizado
+- Logotipo del PUMA en la pierna izquierda
+- Escudo oficial del Manchester City en relieve en la pierna derecha
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086NZF5H2/?tag=tolees-21)

@@ -28,11 +28,11 @@ Está [Thrustmaster T3PA PEDALS Add-on - 3 Pedales metalicos - pedales ajustable
 
 ℹ️:
 
-- 3 pedales con configuración de espaciado y angulo ajustable
-- Compatible con todos los volantes de carreras de la T-Series de Thrustmaster
-- Pedal del acelerador: aprox. 2,5 kg
-- Pedal del freno: aprox. 10 kg (sin Brake Mod de goma cónico)
 - Estructura interna de metal que garantiza la máxima solidez
+- Compatible con todos los volantes de carreras de la T-Series de Thrustmaster
+- Pedal del freno: aprox. 10 kg (sin Brake Mod de goma cónico)
 - Pedal del freno: 15-25 kg, según tus preferencias (con Brake Mod de goma cónico)
+- Pedal del acelerador: aprox. 2,5 kg
+- 3 pedales con configuración de espaciado y angulo ajustable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00LY1XURO/?tag=tolees-21)

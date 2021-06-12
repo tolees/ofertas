@@ -28,12 +28,12 @@ Tienes [Olay Eyes Deep Hydrating Gel contorno de ojos  con ácido hialurónico p
 
 🔎:
 
-- Fórmula refrescante con ácido hialurónico, extracto de pepino y hamamelis, vitamina B3 (niacinamida) y péptidos
 - Pensada específicamente para el contorno del ojo, la zona más delicada del rostro
-- Prueba Olay a diario durante 28 días; experimenta una transformación real de la piel
-- Los productos Olay se crean en colaboración con más de 8000 mujeres al año
-- Apta para piel normal, seca y grasa
 - Dale a tu mirada una dosis inmediata de hidratación, textura y frescor
+- Fórmula refrescante con ácido hialurónico, extracto de pepino y hamamelis, vitamina B3 (niacinamida) y péptidos
+- Los productos Olay se crean en colaboración con más de 8000 mujeres al año
 - Hidrata y refresca el contorno del ojo de inmediato, tratando los signos visibles de fatiga
+- Apta para piel normal, seca y grasa
+- Prueba Olay a diario durante 28 días; experimenta una transformación real de la piel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TLX99BG/?tag=tolees-21)

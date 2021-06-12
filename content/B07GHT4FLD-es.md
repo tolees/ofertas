@@ -28,11 +28,11 @@ Tienes [SanDisk Extreme PLUS - Tarjeta de memoria microSDXC de 256 GB con adapta
 
 🔎:
 
-- Lector de tarjetas microSD compacto y duradero
-- Ideal para smartphones y tabletas Android, cámaras de acción y drones
-- Rápidas velocidades de transferencia UHS-I de hasta 170 MB/s
 - Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
 - Hasta 170 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
+- Lector de tarjetas microSD compacto y duradero
+- Rápidas velocidades de transferencia UHS-I de hasta 170 MB/s
+- Ideal para smartphones y tabletas Android, cámaras de acción y drones
 - Con USB 3.0, que le permite mover contenido hasta diez veces más rápido que con los lectores USB 2.0
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GHT4FLD/?tag=tolees-21)
