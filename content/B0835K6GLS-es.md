@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Krom Kuma - NXKROMKUMA - Teclado híbrido al 38.69 % de descuento'
-date: 2021-06-06 18:16:23
+date: 2021-06-12 08:33:57
 image: 'https://m.media-amazon.com/images/I/414VDjNOLLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Krom Kuma - NXKROMKUMA - Teclado híbrido PC gaming KROM Kuma QWERTY  con
 
 ℹ️:
 
-- Soporte retráctil para smartphone
-- Iluminación rgb con efectos y zonas de color
 - Switches híbridos
-- Teclas multimedia dedicadas
+- Soporte retráctil para smartphone
 - Anti-ghosting y gaming mode
+- Iluminación rgb con efectos y zonas de color
+- Teclas multimedia dedicadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0835K6GLS/?tag=tolees-21)
