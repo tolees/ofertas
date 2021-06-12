@@ -30,7 +30,7 @@ Ahora mismo tienes [Bizak T.S. BUZZ LIGHTYEAR CON VOZ  color surtido  61234070 ]
 
 - 29 frases en español
 - Figura articulada de 30 cm de altura
-- El embalaje puede variar
 - Figura de acción buzz lightyear con voz
+- El embalaje puede variar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N2GQVUH/?tag=tolees-21)

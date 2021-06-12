@@ -28,8 +28,8 @@ Está [Salamander Matheus  Zapatos de Cordones Oxford Hombre  Azul  Navy/Orange 
 
 ℹ️:
 
-- Suave.
-- Gran calidad.
 - Suela flexible.
+- Gran calidad.
+- Suave.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W59KK1X/?tag=tolees-21)

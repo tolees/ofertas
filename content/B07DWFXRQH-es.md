@@ -29,8 +29,8 @@ Ahora mismo tienes [Amazon Basics - Cable USB A con conector Lightning  colecci�
 🔎:
 
 - Se ha añadido una capa de protección adicional a los extremos Lightning y USB para aumentar la resistencia y reducir el deshilachado. Estos cables se han sometido a pruebas en las que se han doblado en un ángulo de 95° 25 000 veces
-- Conecta tu iPhone, iPad o iPod con el conector Lightning y conecta el conector USB al cargador de pared o al ordenador para cargarlos o sincronizarlos. El compacto cabezal del conector se adapta a la mayoría de las carcasas
 - Cable de carga y sincronización para dispositivos Apple con certificación MFi de Apple
 - Certificación MFi de Apple que garantiza la plena compatibilidad (carga y sincronización) con iPhone XS / XS Max / XR / X / 8 Plus / 8 / 7 Plus / 7 / 6s Plus / 6s / 6 Plus / 6 / 5s / 5c / 5 / iPad Pro / iPad Air / Air 2 / iPad Mini / Mini 2 / Mini 4 / iPad de 4ª generación / iPod Touch de 5ª generación / iPod Nano de 7ª generación y Beats Pill+
+- Conecta tu iPhone, iPad o iPod con el conector Lightning y conecta el conector USB al cargador de pared o al ordenador para cargarlos o sincronizarlos. El compacto cabezal del conector se adapta a la mayoría de las carcasas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DWFXRQH/?tag=tolees-21)

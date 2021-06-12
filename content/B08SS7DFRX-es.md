@@ -29,9 +29,9 @@ Ahora mismo tienes [L Oreal Paris Make-Up Designer Infalible 24H Pintalabios Col
 🔎:
 
 - 24 horas de color permanente durante todo el día sin dejar marcas  
+- Colección exclusiva Ohlala disponible en 6 tonos
 - Bálsamo hidratante potenciador del color enriquecido con colágeno para aportar confort y suavidad
 - Lo resiste todo
 - Su tecnología flexible enriquecida con ácido hialurónico se adapta a tus labios sin cuartearse
-- Colección exclusiva Ohlala disponible en 6 tonos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08SS7DFRX/?tag=tolees-21)
