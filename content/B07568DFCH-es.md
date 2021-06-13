@@ -28,10 +28,10 @@ En este momento está [morpilot Linterna Táctica y UV 2 en 1  Linterna LED 500L
 
 🔎:
 
-- 🔦LINTERNA UV DE DISEÑO DE Zoom IN / OUT: Gracias al ajuste del campo de visión, más fácil de detectar la mancha de orina de la alfombra local, los escorpiones, la moneda de autenticación, la licencia de conducir, las tarjetas de identificación oficial, los pasaportes
 - 🔦MATERIAL DE ALUMINIO Y 3 BATERÍAS AAA INCLUIDAS: La linterna está hecha de material de grado aeronáutico, y es Impermeable IPX4 y anti-caída. Tambien se incluyen 3 baterías AAA, lo que facilita su uso
 - 🔦LINTERNA UV 2 EN 1 ACTUALIZADA: No solo es una linterna de mano sino tambien una linterna ultravioleta. Los modos de 500LM con la luz máxima de 350m se usan en camping, senderismo, caza. Y la linterna UV de 395NM es una herramienta esencial para la detección de manchas, aplicación de la ley, medicina forense, inspecciones postales, aduanas, etc.
-- 🔦LINTERNA DE 4 MODOS: Brillo alto, brillo medio, estroboscópico, ultravioleta(azul). Presione a fondo el interruptor de cola para encenderlo, presione el interruptor a la mitad para seleccionar el modo de operación
 - 🔦LO QUE OBTENDRÁ: 1x Morpilot Linterna 2 en 1, 3x Baterías AAA
+- 🔦LINTERNA DE 4 MODOS: Brillo alto, brillo medio, estroboscópico, ultravioleta(azul). Presione a fondo el interruptor de cola para encenderlo, presione el interruptor a la mitad para seleccionar el modo de operación
+- 🔦LINTERNA UV DE DISEÑO DE Zoom IN / OUT: Gracias al ajuste del campo de visión, más fácil de detectar la mancha de orina de la alfombra local, los escorpiones, la moneda de autenticación, la licencia de conducir, las tarjetas de identificación oficial, los pasaportes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07568DFCH/?tag=tolees-21)
