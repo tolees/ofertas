@@ -28,8 +28,8 @@ Está [GEOX Man U NEBULA Y A SHOES BLACK 41 EU](https://www.amazon.es/dp/B07MFN2
 
 ℹ️:
 
+- Revestimiento: Sintético
 - Material de la suela: Sintético
 - Material exterior: Cuero
-- Revestimiento: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MFN21GJ/?tag=tolees-21)
