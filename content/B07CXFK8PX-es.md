@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Capcom - Monster Hunter Generations Ulti con un 36.66 % de descuento'
-date: 2021-06-08 17:26:34
+date: 2021-06-13 06:12:01
 image: 'https://m.media-amazon.com/images/I/51zzIFg4dRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Capcom'
 buyurl: 'https://www.amazon.es/dp/B07CXFK8PX/?tag=tolees-21'
 descuento: '36.66'
-average: '36.005'
+average: '36.2045'
 ---
 
 En este momento está [Capcom - Monster Hunter Generations Ultimate - Edición Estándar](https://www.amazon.es/dp/B07CXFK8PX/?tag=tolees-21) a 38.0 EUR (original: 59.99 EUR) (36.66 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Capcom - Monster Hunter Generations Ultimate - Edición E
 
 🔎:
 
-- ¡Juega en cualquier parte!
 - Jugabilidad altamente customizable
 - Profundo sistema de crafting
+- ¡Juega en cualquier parte!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CXFK8PX/?tag=tolees-21)
