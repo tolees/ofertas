@@ -28,8 +28,8 @@ Tienes [Hackett London SS Logo tee Camiseta  Azul  5scpool Blue   S para Hombre]
 
 ℹ️:
 
-- 100% algodón
 - Cuello redondo
 - Sudadera
+- 100% algodón
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08F7V5BHD/?tag=tolees-21)

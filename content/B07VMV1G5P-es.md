@@ -28,7 +28,7 @@ Tienes [Lee Button Down Camisa Casual  Azul  Navy 35   Medium para Hombre](https
 
 ℹ️:
 
-- Nuestra camiseta Lee Button Down con bolsillo en el pecho y cuello con botones en estilo preppy y un ajuste perfecto para un aspecto sencillo, claro y sencillo.
 - Corte estándar.
+- Nuestra camiseta Lee Button Down con bolsillo en el pecho y cuello con botones en estilo preppy y un ajuste perfecto para un aspecto sencillo, claro y sencillo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VMV1G5P/?tag=tolees-21)
