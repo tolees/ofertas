@@ -28,8 +28,8 @@ Ahora mismo tienes [Clarks Vargo Vibe  Zapatos de Cordones Derby Hombre  Braun D
 
 🔎:
 
-- Suela: textil
 - Exterior: piel
+- Suela: textil
 - Interior: textil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MQ2GZNR/?tag=tolees-21)
