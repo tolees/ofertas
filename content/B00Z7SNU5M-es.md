@@ -28,10 +28,10 @@ Tienes [Otterbox Strada Funda con Tapa en Cuero auténtico Anti caídas  Fina y 
 
 ℹ️:
 
-- Diseñada para proteger: la hemos probado y creado para ti; la protección contra caídas certificada drop+ de otterbox representa más de 24 ensayos durante más de 238 horas
 - Acceso total: control de volumen: volumen fácilmente ajustable con la funda abierta o cerrada
-- Compatible con alpha glass: compatible con el protector de pantalla alpha glass de otterbox para una protección de 360°
-- Acabado clásico diseñado para proteger: funda folio de cuero auténtico y tacto suave en el exterior, con una carcasa que absorbe la energía de cualquier golpe en el interior: protección integral
 - Funda folio: funda folio con cierre magnético que sujeta la tapa folio, tanto abierta como cerrada; la tapa cubre la pantalla táctil y dispone de una práctica ranura para llevar una tarjeta o dinero
+- Compatible con alpha glass: compatible con el protector de pantalla alpha glass de otterbox para una protección de 360°
+- Diseñada para proteger: la hemos probado y creado para ti; la protección contra caídas certificada drop+ de otterbox representa más de 24 ensayos durante más de 238 horas
+- Acabado clásico diseñado para proteger: funda folio de cuero auténtico y tacto suave en el exterior, con una carcasa que absorbe la energía de cualquier golpe en el interior: protección integral
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00Z7SNU5M/?tag=tolees-21)

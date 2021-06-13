@@ -28,9 +28,9 @@ Ahora mismo tienes [Levi s XX Taper Short II Pantalones Cortos Casuales  True Ch
 
 🔎:
 
-- Designer: LEVIS
 - Artículo: 17202 0008 CHINO TAPER SHORT
-- Estación: SIEMPRE DISPONIBLE
 - Color: Beige
+- Estación: SIEMPRE DISPONIBLE
+- Designer: LEVIS
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVVRXBC/?tag=tolees-21)

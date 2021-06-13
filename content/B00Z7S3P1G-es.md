@@ -29,9 +29,9 @@ Está [OtterBox para Samsung Galaxy S10  Funda Anticaídas Elegante  Symmetry Se
 ℹ️:
 
 - Protege tu pantalla: el borde biselado pronunciado protege tu pantalla táctil. Ofrece una compatibilidad total con los protectores de pantalla alpha glass de otterbox.
-- Diseñada para proteger: la hemos probado y creado para ti. La protección contra caídas certificada drop+ de otterbox representa más de 24 ensayos durante más de 238 horas.
-- Compatible con alpha glass: compatible con el protector de pantalla alpha glass de otterbox para una protección de 360°.
 - Ultrafina: ligera, estilizada y perfecta para el bolsillo. Funda elegante de doble material que sigue las líneas de precisión de tu teléfono. Diseño de una pieza que se coloca con rapidez.
+- Compatible con alpha glass: compatible con el protector de pantalla alpha glass de otterbox para una protección de 360°.
+- Diseñada para proteger: la hemos probado y creado para ti. La protección contra caídas certificada drop+ de otterbox representa más de 24 ensayos durante más de 238 horas.
 - De moda: elige tu estilo: fundas suaves y resistentes a arañazos disponibles en una gama de colores de temporada y diseños exclusivos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00Z7S3P1G/?tag=tolees-21)

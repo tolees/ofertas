@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desconocido - 25 UNIDADES Mascarilla FFP al 46.28 % de rebaja'
-date: 2021-05-20 10:15:40
+date: 2021-06-13 18:23:44
 image: 'https://m.media-amazon.com/images/I/41wae5PwQNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Desconocido'
 buyurl: 'https://www.amazon.es/dp/B08X3VMHJ9/?tag=tolees-21'
 descuento: '46.28'
-average: '13.585'
+average: '12.45'
 ---
 
 Tienes [Desconocido - 25 UNIDADES Mascarilla FFP2 PUBLIMER Ultra protección - COLOR BLANCO - Homologada CE + Ajustador + Estuche - Marca Española](https://www.amazon.es/dp/B08X3VMHJ9/?tag=tolees-21) con precio final de  10.18 EUR (original: 18.95 EUR) (46.28 %  de rebaja) aqui!
@@ -29,8 +29,8 @@ Tienes [Desconocido - 25 UNIDADES Mascarilla FFP2 PUBLIMER Ultra protección - C
 🔎:
 
 - Mascarilla ultra protección FFP2 color BLANCO. Marcaje CE y EN 149:2001 +A1:2009.
-- Excelente Transpirabilidad. Cómodas correas para los oídos. Tamaño 105x155mm plegada.
 - ESTE PEDIDO INCLUYE: 1 caja de 25 unidades Mascarilla FFP2 color BLANCO + 1 estuche porta mascarillas
 - Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable. No contiene Látex.
+- Excelente Transpirabilidad. Cómodas correas para los oídos. Tamaño 105x155mm plegada.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08X3VMHJ9/?tag=tolees-21)
