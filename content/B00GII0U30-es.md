@@ -28,10 +28,10 @@ Tienes [Symphony Diet Climatizador evaporativo  170 W  25 litros  65 Decibelios 
 
 ℹ️:
 
-- Enchufar y listo, sin instalaciones
 - Caudal de aire de industria para uso domestico, alto rendimiento
-- Enfriador, humidificador y purificador patentado a nivel mundial
+- Enchufar y listo, sin instalaciones
 - Aire sano y limpio muy adecuado para ancianos, bebes y niños
 - Gasto eléctrico menor de 1 euro al día
+- Enfriador, humidificador y purificador patentado a nivel mundial
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GII0U30/?tag=tolees-21)
