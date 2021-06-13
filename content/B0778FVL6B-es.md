@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Core Cotton-Silk Cneck suéter  Gris  Cloud Htr 501   Smal
 
 ℹ️:
 
-- Tiene el logo de Tommy Hilfiger bordado en el pecho
-- Cuenta con cuello, puños y bajo elásticos
 - Modelo casual
+- Cuenta con cuello, puños y bajo elásticos
+- Tiene el logo de Tommy Hilfiger bordado en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0778FVL6B/?tag=tolees-21)

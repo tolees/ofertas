@@ -28,10 +28,10 @@ Tienes [Fini Little Mix Goma Pica  Golosinas Pica Pica  Ositos Gominola  Huevos 
 
 🔎:
 
-- Alérgenos: Gluten y Leche (Posible Contaminación Cruzada)
 - Fini Golosinas es la marca líder española en la venta de caramelos de gelatina, marshmallow y regaliz. Ha hecho de la calidad, la innovación y la diversión su identidad, logrando productos únicos.
-- INFORMACIÓN NUTRICIONAL: Valor Energético 1.441KJ, Energia: 339Kcal. Grasas 0,3g, Saturadas: 0,2g. Hidratos de carbono: 80g, Azúcares: 64g. Proteínas 4,5g. Sal: 0,20g
+- Alérgenos: Gluten y Leche (Posible Contaminación Cruzada)
 - TIPO DE PRODUCTO: Delicioso surtido de chucherías pica pica Little Mix Goma Pica, ideal para todo el mundo. Compuesto por ruedas, regaliz, besos, huevos y ositos de cuche, entre otras.
+- INFORMACIÓN NUTRICIONAL: Valor Energético 1.441KJ, Energia: 339Kcal. Grasas 0,3g, Saturadas: 0,2g. Hidratos de carbono: 80g, Azúcares: 64g. Proteínas 4,5g. Sal: 0,20g
 - FORMATO: 1 Bolsa - 1Kg
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N7XL9B4/?tag=tolees-21)

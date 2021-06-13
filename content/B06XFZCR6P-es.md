@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pocahontas: Disney Classics al 41.14 % de descuento'
-date: 2021-06-12 15:22:01
+date: 2021-06-13 21:42:34
 image: 'https://m.media-amazon.com/images/I/51GlFdx71qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XFZCR6P/?tag=tolees-21'
 descuento: '41.14'
-average: '12.3946666666666'
+average: '12.2306249999999'
 ---
 
 Está [Pocahontas: Disney Classics](https://www.amazon.es/dp/B06XFZCR6P/?tag=tolees-21) con 41.14 de descuento por 9.77 EUR (original: 16.6 EUR) en el siguiente enlace!

@@ -28,9 +28,9 @@ Ahora mismo tienes [Cardhu Amber Rock Whisky Escocés - 700 ml](https://www.amaz
 
 🔎:
 
+- Disfrútelo en vaso de balón solo o con hielo
 - Posee un color oro oscuro
 - Es un whisky de cuerpo, complejo, lleno de notas de vainilla, cítricos y roble
 - Whisky escocés de Malta de la región de Speyside
-- Disfrútelo en vaso de balón solo o con hielo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00KX5G7IG/?tag=tolees-21)
