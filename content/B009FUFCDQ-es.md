@@ -28,10 +28,10 @@ Tienes [Amazon Basics - Bayeta de limpieza de microfibra  48 unidades ](https://
 
 🔎:
 
-- Limpia con o sin productos químicos; no deja hilos ni rastros.
 - Las bayetas vienen en tres colores: azul, amarillo y blanco.
+- Limpia con o sin productos químicos; no deja hilos ni rastros.
+- Absorbe 8 veces su peso.
 - Reutilizable hasta 100 veces.
 - Bayetas de microfibra suaves y no abrasivas para no dañar la pintura, los acabados u otras superficies.
-- Absorbe 8 veces su peso.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009FUFCDQ/?tag=tolees-21)

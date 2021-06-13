@@ -28,10 +28,10 @@ Ahora mismo tienes [Funko - Pop! Disney: Frozen 2 - Olaf Figurina  Multicolor  4
 
 🔎:
 
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - De la colección frozen 2, olaf como figura de vinilo pop de funko
+- Olaf
 - Disney frozen 2
 - Descúbre otras figuras de la colección disney y colecciónalas todas
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- Olaf
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QSBWV7M/?tag=tolees-21)

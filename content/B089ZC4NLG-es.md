@@ -28,8 +28,8 @@ Tienes [adidas AC Classic BP Sports Backpack  Unisex Adulto  Collegiate Burgundy
 
 🔎:
 
-- Adjustable Padded shoulder straps
-- Durable fabric
 - Large main Compartiment
+- Durable fabric
+- Adjustable Padded shoulder straps
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089ZC4NLG/?tag=tolees-21)

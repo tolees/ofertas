@@ -28,9 +28,9 @@ Tienes [Montblanc Legend Eau De Toilette 30Ml Vapo.](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Mont Blanc Legend es adecuado para el uso diurno y nocturno
-- Las notas de la leyenda consisten en bergamota, lavanda, piña y verbena exótica con musgo de roble, geranio, cumarina y manzana enriquecida con la rosa y la molécula pomarosa
 - Sándalo, haba tonka y evernyl completan esta encantadora composición
+- Las notas de la leyenda consisten en bergamota, lavanda, piña y verbena exótica con musgo de roble, geranio, cumarina y manzana enriquecida con la rosa y la molécula pomarosa
 - Es una fragancia aromática para hombres
+- Mont Blanc Legend es adecuado para el uso diurno y nocturno
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0050EB0BE/?tag=tolees-21)

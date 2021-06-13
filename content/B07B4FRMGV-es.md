@@ -28,10 +28,10 @@ Tienes [Corsair CMK8GX4M1D3000C16 Vengeance LPX 8 GB  1 x 8 GB  DDR4 3000 MHz C1
 
 🔎:
 
-- Compatibilidad con XMP 2.0 para un Overclocking automático y sin problemas
-- Cada módulo Vengeance LPX se fabrica con un disipador de aluminio puro para una disipación térmica más rápida
-- La altura de los módulos Vengeance LPX está pensada incluso para espacios pequeños
 - Disponible en varios colores para combinarlo con tu placa base, tus componentes o simplemente tu estilo
+- Cada módulo Vengeance LPX se fabrica con un disipador de aluminio puro para una disipación térmica más rápida
+- Compatibilidad con XMP 2.0 para un Overclocking automático y sin problemas
 - Vengeane LPX está optimizada y es compatible con las últimas placas de la serie X99, 100 y 200, y ofrece frecuencias más altas, mayor ancho de banda y menor consumo
+- La altura de los módulos Vengeance LPX está pensada incluso para espacios pequeños
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B4FRMGV/?tag=tolees-21)

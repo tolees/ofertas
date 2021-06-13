@@ -28,8 +28,8 @@ Tienes [Guess Analógico W1302G2](https://www.amazon.es/dp/B07VPZY3H9/?tag=tolee
 
 🔎:
 
-- Analógico para Hombre
 - 40 milimetros calendario Día y mes Hebilla
+- Analógico para Hombre
 - Guess Modelo Reloj W1302G2
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VPZY3H9/?tag=tolees-21)

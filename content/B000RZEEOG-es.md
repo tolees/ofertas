@@ -28,9 +28,9 @@ Tienes [Intex - 59258 - Boya gigante con asas   color/modelo surtido](https://ww
 
 ℹ️:
 
-- Tamaño: 76 cm de diámetro.
 - Surtido de 3 colores más POP unos que otros.
-- Un diseño divertido y colorido para alegrar tu verano.
+- Tamaño: 76 cm de diámetro.
 - 2 asas para mayor estabilidad del agua.
+- Un diseño divertido y colorido para alegrar tu verano.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000RZEEOG/?tag=tolees-21)
