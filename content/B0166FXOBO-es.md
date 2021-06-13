@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sol cerveza lager mejicana caja 24 botel al 42.19 % de descuento'
-date: 2021-06-12 11:01:09
+date: 2021-06-13 12:01:17
 image: 'https://m.media-amazon.com/images/I/51F2R37ksYS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sol'
 buyurl: 'https://www.amazon.es/dp/B0166FXOBO/?tag=tolees-21'
 descuento: '42.19'
-average: '20.6566666666667'
+average: '20.4614285714286'
 ---
 
 Está [Sol cerveza lager mejicana caja 24 botellas 33cl - 7920 ml](https://www.amazon.es/dp/B0166FXOBO/?tag=tolees-21) con 42.19 de descuento por 19.29 EUR (original: 33.37 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Sol cerveza lager mejicana caja 24 botellas 33cl - 7920 ml](https://www.a
 
 ℹ️:
 
-- Ingredientes:Malta de cebada, jarabe de azúcar, maltosa, lúpulo, exclusiva levadura sol
+- Con 4,5% de alcohol en volumen
 - De color amarillo pálido pajizo y espuma blanca consistente, con un toque cítrico en su aroma; muy bebestible y refrescante
+- Ingredientes:Malta de cebada, jarabe de azúcar, maltosa, lúpulo, exclusiva levadura sol
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 - Cerveza tipo Lager y estilo lager clara
-- Con 4,5% de alcohol en volumen
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0166FXOBO/?tag=tolees-21)

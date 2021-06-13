@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Clarks Jillian Rise  Sandalia con Pulser al 63.01 % de descuento'
-date: 2020-07-30 03:24:59
-image: 'https://m.media-amazon.com/images/I/31S4dqXHSRL._SL400_.jpg'
+title: 'Clarks Jillian Rise  Sandalia con Pulser al 47.58 % de descuento'
+date: 2021-06-13 13:01:32
+image: 'https://m.media-amazon.com/images/I/410hqGBo3yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07TNVPM7M-es Clarks Jillian Rise Sandalia con Pulsera para Mujer Azul...'
+slug: 'B07TNVPM7M-es Clarks Jillian Rise Sandalia con Pulsera Mujer Azul Blush...'
 sku: 'B07TNVPM7M-es'
-tags: [  ]
-actualPrice: 33.27 EUR
+tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','clarks', ]
+actualPrice: 47.15 EUR
 currency: EUR
-price: 33.27
+price: 47.15
 comparePrice: 89.95 EUR
-prodname: 'Clarks Jillian Rise  Sandalia con Pulsera para Mujer  Azul  Blush Leather Blush Leather   37 EU'
+prodname: 'Clarks Jillian Rise  Sandalia con Pulsera Mujer  Azul  Blush Leather Blush Leather   37 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07TNVPM7M/?tag=tolees-21'
-descuento: '63.01'
-average: '33.27'
+descuento: '47.58'
+average: '37.8966666666667'
 ---
 
-Ahora mismo tienes [Clarks Jillian Rise  Sandalia con Pulsera para Mujer  Azul  Blush Leather Blush Leather   37 EU](https://www.amazon.es/dp/B07TNVPM7M/?tag=tolees-21) a 33.27 EUR (original: 89.95 EUR) (63.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Clarks Jillian Rise  Sandalia con Pulsera Mujer  Azul  Blush Leather Blush Leather   37 EU](https://www.amazon.es/dp/B07TNVPM7M/?tag=tolees-21) a 47.15 EUR (original: 89.95 EUR) (47.58 %  de descuento) en el siguiente enlace!
 
-[![Clarks Jillian Rise  Sandalia con Pulser](https://m.media-amazon.com/images/I/31S4dqXHSRL._SL400_.jpg)](https://www.amazon.es/dp/B07TNVPM7M/?tag=tolees-21)
+[![Clarks Jillian Rise  Sandalia con Pulser](https://m.media-amazon.com/images/I/410hqGBo3yL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07TNVPM7M/?tag=tolees-21)
 
 🔎:
 
