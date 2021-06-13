@@ -29,8 +29,8 @@ Tienes [L Oreal Paris Elvive - L Oréal Paris Elvive Aceite Extraordinario  Trat
 🔎:
 
 - Contenido: 1 x LOreal Paris Elvive Aceite Extraordinario de uso universal, Cantidad: 100 ml
-- Fórmula ligera enriquecida con aceites de flores preciosas para una nutrición intensa, Elaborado a base de aceites naturales
 - Aceite extraordinario para pelo seco, Transformación inmediata para un pelo sublime, más brillante y suave
+- Fórmula ligera enriquecida con aceites de flores preciosas para una nutrición intensa, Elaborado a base de aceites naturales
 - Aplica de medios a puntas en el pelo seco o húmedo, Puede ser utilizado después de lavar el cabello, antes de peinarlo o como toque final para controlar cabellos rebeldes
 - Cabello nutrido, hidratado y con un brillo infinito, Disciplina cabellos rizados y encrespados, Transformación inmediata para un pelo suave y sedoso
 
