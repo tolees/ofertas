@@ -28,8 +28,8 @@ En este momento está [Superga 2905 Cotw Linea Ud - Zapatillas de deporte de lon
 
 🔎:
 
-- Material exterior: tela
 - Material de la suela: goma
 - Forro: tela
+- Material exterior: tela
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004GGU3I8/?tag=tolees-21)
