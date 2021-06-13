@@ -28,10 +28,10 @@ Ahora mismo tienes [Google Pixel 5 15 2 cm  6"  8 GB 128 GB SIM única 5G USB Ti
 
 🔎:
 
-- - 2G Network: GSM 850 / 900 / 1800 / 1900
-- 30, 32, 38, 39, 40, 41, 42, 46, 48, 66, 71
-- - 4G Network: 1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29,
 - - 3G Network: HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
 - - Type: Smartphone
+- 30, 32, 38, 39, 40, 41, 42, 46, 48, 66, 71
+- - 4G Network: 1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29,
+- - 2G Network: GSM 850 / 900 / 1800 / 1900
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08JMHG62F/?tag=tolees-21)

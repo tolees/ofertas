@@ -28,11 +28,11 @@ Ahora mismo tienes [Koch Media - World War Z](https://www.amazon.es/dp/B07NJLZWQ
 
 🔎:
 
-- DLC Lobo: Incluye el arma Lobo y 3 skins doradas para armas
-- Lucha contra cientos de zombis: Swarm Engine crea hordas en tiroteos alucinantes. Los sistemas avanzados de violencia garantizan una acción brutal
 - Campañas cooperativas narrativas: sobrevive por todo el mundo y descubre historias de perseverancia
-- Hazte más fuerte: desbloquea armas poderosas y sube de nivel a 6 clases de personajes para enfrentarte a más desafíos
+- Lucha contra cientos de zombis: Swarm Engine crea hordas en tiroteos alucinantes. Los sistemas avanzados de violencia garantizan una acción brutal
 - Enfréntate a otros jugadores para sobrevivir: diversos modos jugador complementan las campañas cooperativas
+- DLC Lobo: Incluye el arma Lobo y 3 skins doradas para armas
+- Hazte más fuerte: desbloquea armas poderosas y sube de nivel a 6 clases de personajes para enfrentarte a más desafíos
 - Cuando se te canse el brazo, saca tu fusil de asalto, tu subfusil y pistola dorados para acabar con los últimos infectados con el DLC Lobo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NJLZWQL/?tag=tolees-21)
