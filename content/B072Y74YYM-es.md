@@ -28,10 +28,10 @@ Tienes [Columbia Zero Rules Polo de Manga Corta  Hombre  Negro  Shark Heather   
 
 🔎:
 
-- Contenido: 1x Columbia Hombre Polo de manga corta, ZERO RULES POLO, Tejido: 100% Poliéster, Talla y peso de referencia: M: 120 g, Color: Gris (Shark Heather), Talla: XS, AM6082
-- Mantente fresco gracias a la tecnología Omni-Freeze Zero que se activa con el sudor
-- Transpirable y de secado rápido gracias a la combinación de la tecnología Omni-Wick y las aberturas de ventilación en puntos estratégicos
 - Mayor protección para la piel en los días más soleados
+- Transpirable y de secado rápido gracias a la combinación de la tecnología Omni-Wick y las aberturas de ventilación en puntos estratégicos
+- Mantente fresco gracias a la tecnología Omni-Freeze Zero que se activa con el sudor
 - Polo de manga corta de hombre para excursionismo y otras actividades al aire libre, comodidad durante todo el año, ajuste activo
+- Contenido: 1x Columbia Hombre Polo de manga corta, ZERO RULES POLO, Tejido: 100% Poliéster, Talla y peso de referencia: M: 120 g, Color: Gris (Shark Heather), Talla: XS, AM6082
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072Y74YYM/?tag=tolees-21)
