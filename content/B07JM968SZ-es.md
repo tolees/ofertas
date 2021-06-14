@@ -1,35 +1,35 @@
 ---
 layout: post
-title: 'Lee Breese Pantalones para Mujer  Negro  con un 66.05 % de descuento'
-date: 2021-05-23 12:45:14
+title: 'Lee Breese Jeans Vaqueros  Negro  Black  con un 64.81 % de descuento'
+date: 2021-06-14 21:03:01
 image: 'https://m.media-amazon.com/images/I/31bSapUgqBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07JM968SZ-es Lee Breese Pantalones para Mujer Negro Black Rinse 47 24W...'
+slug: 'B07JM968SZ-es Lee Breese Jeans Vaqueros Negro Black Rinse 47 24W / 31L...'
 sku: 'B07JM968SZ-es'
 tags: [ 'Ropa','Ropa para mujer','Vaqueros para mujer','lee', ]
-actualPrice: 30.54 EUR
+actualPrice: 31.65 EUR
 currency: EUR
-price: 30.54
+price: 31.65
 comparePrice: 89.95 EUR
-prodname: 'Lee Breese Pantalones para Mujer  Negro  Black Rinse 47   24W / 31L'
+prodname: 'Lee Breese Jeans Vaqueros  Negro  Black Rinse 47   24W / 31L para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Lee'
 buyurl: 'https://www.amazon.es/dp/B07JM968SZ/?tag=tolees-21'
-descuento: '66.05'
-average: '25.26'
+descuento: '64.81'
+average: '26.8575'
 ---
 
-En este momento está [Lee Breese Pantalones para Mujer  Negro  Black Rinse 47   24W / 31L](https://www.amazon.es/dp/B07JM968SZ/?tag=tolees-21) a 30.54 EUR (original: 89.95 EUR) (66.05 %  de descuento) en el siguiente enlace!
+En este momento está [Lee Breese Jeans Vaqueros  Negro  Black Rinse 47   24W / 31L para Mujer](https://www.amazon.es/dp/B07JM968SZ/?tag=tolees-21) a 31.65 EUR (original: 89.95 EUR) (64.81 %  de descuento) en el siguiente enlace!
 
-[![Lee Breese Pantalones para Mujer  Negro ](https://m.media-amazon.com/images/I/31bSapUgqBS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07JM968SZ/?tag=tolees-21)
+[![Lee Breese Jeans Vaqueros  Negro  Black ](https://m.media-amazon.com/images/I/31bSapUgqBS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07JM968SZ/?tag=tolees-21)
 
 🔎:
 
-- Con un diseño de cinco bolsillos
-- Vaqueros evasé para mujer
 - Tienen un parche de piel con el logo de la marca en la parte trasera
+- Vaqueros evasé para mujer
+- Con un diseño de cinco bolsillos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JM968SZ/?tag=tolees-21)

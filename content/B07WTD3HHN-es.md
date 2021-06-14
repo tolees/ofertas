@@ -30,8 +30,8 @@ En este momento está [NÜL - Galletas sin gluten rellenas de frambuesa y de cre
 
 - Sin OMG
 - Sin lactosa
-- Sin aceite de palma
 - Aptas para veganos
+- Sin aceite de palma
 - Receta sin gluten
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WTD3HHN/?tag=tolees-21)

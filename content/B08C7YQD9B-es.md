@@ -28,9 +28,9 @@ Tienes [Salomon Sense Feel 2 Zapatillas De Trail Running Y Running Cómodas De H
 
 🔎:
 
+- EnergyCell
 - Contagrip MD
 - Contagrip MD se centra en el uso a largo plazo. Utiliza el compuesto más duradero y dispone de un patrón de tacos que funciona igual de bien en superficies duras, lisas, blandas o resbaladizas.
-- EnergyCell
 - Quicklace
 - Contagrip MD se centra en el uso a largo plazo. Utiliza el compuesto más duradero y dispone de un patrón de tacos que funciona igual de bien en superficies duras, lisas, blandas o resbaladizas.
 
