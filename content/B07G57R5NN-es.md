@@ -28,10 +28,10 @@ Tienes [Max Factor  Delineador de ojos  Tono: 001 Black  Gama Negros  - 5 gr.](h
 
 ℹ️:
 
-- Fórmula kajal para ojos sensibles
 - Color intenso
-- Obtén el aspecto intenso de ojos 24 horas que siempre has querido
 - Delineador kohl de larga duración
+- Obtén el aspecto intenso de ojos 24 horas que siempre has querido
+- Fórmula kajal para ojos sensibles
 - Aplicación suave
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07G57R5NN/?tag=tolees-21)

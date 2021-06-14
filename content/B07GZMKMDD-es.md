@@ -28,10 +28,10 @@ Ahora mismo tienes [Max Factor Miracle Prep  Primer iluminador y hidratante - 30
 
 🔎:
 
-- Proporciona un brillo natural, radiante y saludable para que el maquillaje quede luminoso
-- Primer hidratante y luminoso
 - Incrementa un acabado de piel radiante y fresca a lo largo del día
+- Primer hidratante y luminoso
 - Consigue el maquillaje perfecto aplicando el primer antes de la base de maquillaje
+- Proporciona un brillo natural, radiante y saludable para que el maquillaje quede luminoso
 - Contiene vitaminas E, B5, B3
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GZMKMDD/?tag=tolees-21)

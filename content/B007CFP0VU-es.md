@@ -28,8 +28,8 @@ Tienes [Superga 2750 COTU Classic Sneakers   Zapatillas Unisex Adulto  Sherwood 
 
 ℹ️:
 
-- Material: lona.
 - Colección: 2013.
+- Material: lona.
 - Cierre: cordones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B007CFP0VU/?tag=tolees-21)

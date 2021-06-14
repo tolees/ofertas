@@ -28,10 +28,10 @@ Tienes [Max Factor Miracle Veil Radiant Loose Powder  Polvos sueltos  - 4 gr.](h
 
 🔎:
 
-- Textura suave que no reseca la piel
 - Polvos satinados, sueltos y ultra-finos para un acabado profesional
 - Color traslúcido que no altera el color del maquilllaje
 - Acabado sedoso, aterciopelado y sin defectos
 - Permite que la piel respire, controla brillos y aporta un toque de luz al maquillaje
+- Textura suave que no reseca la piel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N99QT9J/?tag=tolees-21)

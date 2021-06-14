@@ -30,8 +30,8 @@ Tienes [Revlon Wonder Woman Ultra HD Vinyl Mouse Labial  So Shady ](https://www.
 
 - Fórmula enriquecida con vitamina E, manteca de karité y extracto de aloe
 - Aplicador profesional para una aplicación precisa
+- Pigmentos de color de alta definición
 - Sensación suave y textura cómoda
 - Efecto vinilo, labios ultra brillantes y color intenso en una sola pasada
-- Pigmentos de color de alta definición
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P9RDSLF/?tag=tolees-21)
