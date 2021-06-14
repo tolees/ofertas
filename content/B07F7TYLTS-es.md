@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ACTIVISION - Overwatch Legendary al 56.02 % de descuento'
-date: 2021-06-13 09:17:00
+date: 2021-06-14 11:02:39
 image: 'https://m.media-amazon.com/images/I/51O5YcPhtxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

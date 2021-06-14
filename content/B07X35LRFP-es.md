@@ -28,7 +28,7 @@ Tienes [Pierre Cardin Blouson Techno Solid Airtouch Chaqueta  Marrón  Clay 7900
 
 ℹ️:
 
-- Descubre Pierre Cardin.
 - Pierre Cardin Techno Solid Airtouch - Chaqueta
+- Descubre Pierre Cardin.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07X35LRFP/?tag=tolees-21)

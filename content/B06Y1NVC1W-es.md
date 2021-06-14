@@ -28,10 +28,10 @@ Está [Oxford Touch - Pack de 10 libretas grapadas de tapa blanda  A4](https://w
 
 ℹ️:
 
-- 48 hojas con cuadrícula 4mm x 4mm con margen
-- En formato A4
-- Paquete de 10 libretas con tapas de colores Touch aleatorios: lima, lila, coral, aqua y frambuesa
 - Grapada, ligera y ocupa poco espacio
+- 48 hojas con cuadrícula 4mm x 4mm con margen
+- Paquete de 10 libretas con tapas de colores Touch aleatorios: lima, lila, coral, aqua y frambuesa
 - Tapa blanda, que le da ligereza para poder llevarlo donde quieras; y cantos romos para evitar que las tapas se deterioren
+- En formato A4
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06Y1NVC1W/?tag=tolees-21)
