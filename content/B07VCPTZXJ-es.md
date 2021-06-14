@@ -29,9 +29,9 @@ Ahora mismo tienes [Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo con C
 🔎:
 
 - Movimiento de tres manos
-- Garantía: Garantía limitada internacional de 2 años
-- Cronógrafo
 - Resistente al agua: 3 ATM
+- Cronógrafo
 - Correa de acero inoxidable negro
+- Garantía: Garantía limitada internacional de 2 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VCPTZXJ/?tag=tolees-21)

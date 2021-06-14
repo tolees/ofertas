@@ -28,10 +28,10 @@ Tienes [Pattex Nural 28 Sustituto universal de juntas  sellador para automoción
 
 ℹ️:
 
+- Sustituto de juntas – Este sellador de juntas de motor reemplaza las juntas de corcho, fieltro, goma y papel, y sirve para rellenar poros y ralladuras.
 - Envío y detalles – Pattex Nural 28 Sustituto universal de juntas, silicona para juntas de culata, tapa de balancines y cajas de cambio, gran resistencia y elasticidad, 1 x 40 ml, tubo
 - Elasticidad – Con su fórmula a base de silicona, el sellador de juntas de culata Pattex Nural 28 ha sido desarrollado para conseguir una elasticidad óptima.
-- Sustituto de juntas – Este sellador de juntas de motor reemplaza las juntas de corcho, fieltro, goma y papel, y sirve para rellenar poros y ralladuras.
-- Múltiples usos – Este sustituto de juntas es ideal para automoción e industria, y puede aplicarse en juntas de culata, tapa de balancines y cajas de cambio.
 - Resistencia – La pasta para juntas es resistente al agua, al vapor, al aceite, a los líquidos de transmisión, a los anticongelantes y a la temperatura (-40 ºC a 180 ºC).
+- Múltiples usos – Este sustituto de juntas es ideal para automoción e industria, y puede aplicarse en juntas de culata, tapa de balancines y cajas de cambio.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00J1I0R5U/?tag=tolees-21)

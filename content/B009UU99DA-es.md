@@ -28,9 +28,9 @@ Tienes [Philips My Living Balsa - Lámpara retro  2 x 35 W  220 V  color blanco]
 
 🔎:
 
-- Potencia: 35 W
-- Las bombillas halógenas del interior de los focos producen una luz blanca cálida y brillante que ilumina cualquier habitación
-- Modelo con 2 focos
 - Estas lámparas retro brillantes de Philips se inspiran en el diseño clásico de los 50
+- Potencia: 35 W
+- Modelo con 2 focos
+- Las bombillas halógenas del interior de los focos producen una luz blanca cálida y brillante que ilumina cualquier habitación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009UU99DA/?tag=tolees-21)
