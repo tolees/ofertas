@@ -29,9 +29,9 @@ Ahora mismo tienes [Geox U Moner V  Mocasines Hombre  Azul  Avio C4005   39 EU](
 🔎:
 
 - Material de la suela: Goma
-- Material exterior: Cuero
-- Cierre: Sin cordones
 - Tipo de tacón: Plano
 - Revestimiento: Cuero
+- Cierre: Sin cordones
+- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07STLPVLV/?tag=tolees-21)
