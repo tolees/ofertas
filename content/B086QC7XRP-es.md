@@ -28,10 +28,10 @@ Ahora mismo tienes [Tamron 70-180mm F/2.8 Di III VXD A056SF - Teleobjetivo Zoom 
 
 🔎:
 
-- Sellado especial y revestimiento de flúor que protege el objetivo para disfrutar de la fotografía en cualquier condición
 - Prestaciones ópticas óptimas y un enfoque mínimo de solo 0.85 m para más versatilidad
 - Motor de enfoque de última generación VXD con mecanismo lineal extremadamente rápido y silencioso
 - Compacto (149 mm), cómodo y ligero (815 g)
+- Sellado especial y revestimiento de flúor que protege el objetivo para disfrutar de la fotografía en cualquier condición
 - Compatible con funciones específicas de la cámara Sony incluyendo Fast Hybrid AF y Eye AF
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086QC7XRP/?tag=tolees-21)

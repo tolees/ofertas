@@ -28,9 +28,9 @@ En este momento está [Alvarez Gomez Crema de Manos Nutritiva y Reparadora  75 M
 
 🔎:
 
-- Nueva colección Dermo con toda la esencia y espiritu de Alvarez Gómez.
-- Ideal para llevar contigo durante todo el día.
 - Además, está elaborada con Ácido Hialurónico, Aloe Vera y polvo de Perla, entre otros principios activos, idóneos para hidratar y nutrir en profundidad rejuveneciendo la delicada piel de las manos.
+- Ideal para llevar contigo durante todo el día.
 - La crema de manos de Alvarez Gomez proporciona un agradable “efecto guante”, de acabado sedoso, no graso, con el fin de proteger la delicada piel de las manos de toda agresión externa, frío, sol, polvo, sequedad…y dejándolas visiblemente suaves y rejuvenecidas.
+- Nueva colección Dermo con toda la esencia y espiritu de Alvarez Gómez.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00CRDFBO8/?tag=tolees-21)

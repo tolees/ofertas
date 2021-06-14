@@ -28,9 +28,9 @@ Está [dreamGEAR - My Arcade Retro Machine - 200 Juegos Vintage  8 Bit ](https:/
 
 ℹ️:
 
-- Requiere 3 pilas AA (No incluidas)
+- Llévate tus juegos contigo! Perfecto para viajar
 - Juegos a color
 - Juegos de deporte, puzzles, acción, etc. Encuentra el que más te guste
-- Llévate tus juegos contigo! Perfecto para viajar
+- Requiere 3 pilas AA (No incluidas)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00S4HI1NY/?tag=tolees-21)
