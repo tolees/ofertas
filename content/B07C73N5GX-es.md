@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.68 % en HP CHP852 Papel premium A4 90gr 500 Hoja'
-date: 2021-06-10 15:41:02
+date: 2021-06-14 20:01:04
 image: 'https://m.media-amazon.com/images/I/41sEZ4LWAAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

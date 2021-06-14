@@ -28,10 +28,10 @@ En este momento está [Levi s XX Taper Short II Pantalones Cortos Casuales  True
 
 🔎:
 
-- Estación: Primavera/Verano
 - Artículo: 17202
-- Material: algodón
 - Designer: LEVIS
 - Color: Beige
+- Material: algodón
+- Estación: Primavera/Verano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZVWCZ8V/?tag=tolees-21)

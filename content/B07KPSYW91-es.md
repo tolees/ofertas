@@ -28,10 +28,10 @@ Está [Funko POP! Vinilo: Disney: Toy Story 4: Bo Peep w/Officer McDimples  Mult
 
 ℹ️:
 
+- Disney: toy story 4
+- Toy Story 4
+- Juguete del año 2018
 - De la colección Toy Story 4, Bo Peep w/Officer McDimples como figura de vinilo pop de funko
 - Funko pop vinyl
-- Juguete del año 2018
-- Toy Story 4
-- Disney: toy story 4
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KPSYW91/?tag=tolees-21)

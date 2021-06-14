@@ -28,10 +28,10 @@ En este momento está [Bosch Professional Set Tough Box con 30 hojas de sierra d
 
 🔎:
 
-- Transporte sencillo y almacenamiento seguro de las hojas de sierra gracias a la caja de tapa dura compacta y estable
-- Set con 30 hojas de sierra de calar de Bosch Professional en un robusto envase Tough Box para un práctico almacenamiento
-- Las hojas de sierra de calar T 118 A (longitud: 92 mm) son idóneas para realizar cortes en chapas metálicas muy finas y macizas
 - Suministro: 10 hojas de sierra de calar para madera T119B, 10 hojas de sierra de calar para madera T111C, 10 hojas de sierra de calar para metal T118A en práctico y atractivo envase Tough Box
 - Las hojas de sierra de calar T 199 B (longitud: 92 mm) y T 111 C (longitud: 100 mm) permiten realizar cortes rectos y óptimos en madera
+- Transporte sencillo y almacenamiento seguro de las hojas de sierra gracias a la caja de tapa dura compacta y estable
+- Las hojas de sierra de calar T 118 A (longitud: 92 mm) son idóneas para realizar cortes en chapas metálicas muy finas y macizas
+- Set con 30 hojas de sierra de calar de Bosch Professional en un robusto envase Tough Box para un práctico almacenamiento
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B014LWP8EA/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Neoprene Reversible Sleeve - Funda pa con un 40.03 % de descuento'
-date: 2021-05-18 00:45:49
+date: 2021-06-14 20:02:22
 image: 'https://m.media-amazon.com/images/I/41ckhuzIKvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B077PG28JN/?tag=tolees-21'
 descuento: '40.03'
-average: '10.0363636363637'
+average: '10.0429166666668'
 ---
 
 En este momento está [HP Neoprene Reversible Sleeve - Funda para portátil  35.56 cm / 14"  color negro y plata](https://www.amazon.es/dp/B077PG28JN/?tag=tolees-21) a 8.99 EUR (original: 14.99 EUR) (40.03 %  de descuento) en el siguiente enlace!

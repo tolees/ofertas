@@ -28,8 +28,8 @@ Está [Lee Plain Crew SWS Sudaderas  Midnight Navy  S/Tall para Hombre](https://
 
 ℹ️:
 
-- Knits.
 - Long Sleeved.
 - Ajuste regular.
+- Knits.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CW31MVF/?tag=tolees-21)
