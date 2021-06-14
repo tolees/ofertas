@@ -28,10 +28,10 @@ Tienes [Bizak- Vehículos de Juguete Exost Xtreme Twist Formula  62001001 ](http
 
 🔎:
 
-- Con su cuerpo flexible y su diseño de carrocería giratoria, podremos hacer trucos
-- Capaz de correr a alta velocidad y transformarse en cualquier momento
 - Giros bestiales o incluso transformarlo de un todoterreno a un vehículo de carreras
 - Con transmisión 2.4 Ghz y alcance hasta 25 metros
+- Con su cuerpo flexible y su diseño de carrocería giratoria, podremos hacer trucos
+- Capaz de correr a alta velocidad y transformarse en cualquier momento
 - Xtreme Twist gira, se retuerce y se transforma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08B3HMY9M/?tag=tolees-21)

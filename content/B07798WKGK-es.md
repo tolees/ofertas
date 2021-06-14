@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas TABELA 18 JSY T-Shirt  Hombre  Wh con un 60.12 % de descuento'
-date: 2021-06-07 16:56:06
+date: 2021-06-14 00:34:19
 image: 'https://m.media-amazon.com/images/I/318RsQQWDHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07798WKGK/?tag=tolees-21'
 descuento: '60.12'
-average: '14.9669230769231'
+average: '14.6085714285714'
 ---
 
 En este momento está [adidas TABELA 18 JSY T-Shirt  Hombre  White/White  XL](https://www.amazon.es/dp/B07798WKGK/?tag=tolees-21) a 9.95 EUR (original: 24.95 EUR) (60.12 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [adidas TABELA 18 JSY T-Shirt  Hombre  White/White  XL](ht
 
 🔎:
 
+- Climalite fabric that keeps the skin dry in all conditions
 - Ribbed V-neck
 - Thin striped pattern
-- Climalite fabric that keeps the skin dry in all conditions
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07798WKGK/?tag=tolees-21)
