@@ -28,8 +28,8 @@ En este momento está [Lee Scarlett High Skinny Vaqueros  Negro  Black Rinse 47 
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
-- Estilo 5 bolsillos
 - Vaqueros para mujer
+- Estilo 5 bolsillos
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077PLJPP3/?tag=tolees-21)

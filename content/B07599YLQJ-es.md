@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop!- DC Bombshells Supergirl Figu al 50.16 % de rebaja'
-date: 2021-06-01 08:13:54
+date: 2021-06-14 14:42:11
 image: 'https://m.media-amazon.com/images/I/41At4uz6kBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07599YLQJ/?tag=tolees-21'
 descuento: '50.16'
-average: '8.28333333333333'
+average: '8.2'
 ---
 
 Tienes [Funko Pop!- DC Bombshells Supergirl Figura de Vinilo  22894 ](https://www.amazon.es/dp/B07599YLQJ/?tag=tolees-21) con precio final de  7.95 EUR (original: 15.95 EUR) (50.16 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Funko Pop!- DC Bombshells Supergirl Figura de Vinilo  22894 ](https://ww
 
 🔎:
 
-- Diseño moderno
 - Cada personaje mide alrededor de 9 cm
 - Viene embalado en una caja con ventanas ilustrada
+- Diseño moderno
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07599YLQJ/?tag=tolees-21)

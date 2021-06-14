@@ -29,7 +29,7 @@ Tienes [Lúdilo Guinness World Records Challenges  80351 ](https://www.amazon.es
 🔎:
 
 - Juego oficial
-- Divertido juego; consigue batir un record Guinness
 - Juego de retos y preguntas
+- Divertido juego; consigue batir un record Guinness
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074FXRW4R/?tag=tolees-21)

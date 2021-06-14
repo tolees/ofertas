@@ -29,9 +29,9 @@ Ahora mismo tienes [Havaianas Slim Flatform  Chanclas para Mujer  Negro  Black 0
 🔎:
 
 - Material exterior: Caucho
+- Revestimiento: Sin forro
 - Cierre: Sin cierre
 - Tipo de tacón: Plano
 - Material de la suela: Caucho
-- Revestimiento: Sin forro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TMSBPWL/?tag=tolees-21)

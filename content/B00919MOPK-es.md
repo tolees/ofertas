@@ -28,8 +28,8 @@ Tienes [Sangean WR-22 - Radio  Clock  Analógico  AM  FM  7 W  76.2 mm  3 "   LC
 
 🔎:
 
+- Radio con Bluetooth
 - Radio FM - AM - RDS
 - USB - Alarma - MP3 - REC
-- Radio con Bluetooth
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00919MOPK/?tag=tolees-21)
