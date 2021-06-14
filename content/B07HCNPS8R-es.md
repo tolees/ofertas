@@ -29,8 +29,8 @@ En este momento está [HP Pavilion 800 - Pack con teclado y ratón inalámbricos
 🔎:
 
 - Con un diseño compacto y moderno
-- Los contornos y formas naturales permiten que el teclado adquiera una posición agradable en la que reposar las manos y las muñecas
 - Set de teclado y ratón inalámbricos
+- Los contornos y formas naturales permiten que el teclado adquiera una posición agradable en la que reposar las manos y las muñecas
 - Teclas optimizadas para una sensación táctil y una experiencia de escritura silenciosa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HCNPS8R/?tag=tolees-21)
