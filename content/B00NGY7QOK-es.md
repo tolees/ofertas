@@ -29,8 +29,8 @@ Ahora mismo tienes [Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo con C
 🔎:
 
 - Cronógrafo Un reloj deportivo multifunción con función de cronómetro, la mayoría de los relojes muestran dos o tres subesferas para medir segundos, minutos y horas, a menos que el reloj sea digital.
-- Material de la banda: tono plateado de acero inoxidable, circunferencia interior de la correa: 200 +/- 5 mm
 - Grosor de la caja: 13 mm, Tamaño de la caja: 41 mm, Ancho de banda: 20 mm
+- Material de la banda: tono plateado de acero inoxidable, circunferencia interior de la correa: 200 +/- 5 mm
 - Resistente al agua: 5 ATM
 - Tipo de vidrio: cristal mineral con esfera de color negro
 

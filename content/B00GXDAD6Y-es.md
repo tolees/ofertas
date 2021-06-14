@@ -29,9 +29,9 @@ Está [Arthouse 696800 Papel Pintado Ladrillo  Blanco  53 cm x 10.05 m](https://
 ℹ️:
 
 - Combinación del patrón: coincidencia recta. Repetición del patrón: 53 cm
-- Sustrato de papel
-- Perfecto para cuatro paredes o para pared
-- Efecto clásico de ladrillo
 - Tamaño del rollo: 53 cm x 10,05 m
+- Efecto clásico de ladrillo
+- Perfecto para cuatro paredes o para pared
+- Sustrato de papel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00GXDAD6Y/?tag=tolees-21)

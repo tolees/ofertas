@@ -28,9 +28,9 @@ Está [Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxida
 
 ℹ️:
 
-- Carcasa
-- - Forma de la Carcasa: Redondo
 - - Material de la Carcasa: Acero inoxidable
+- - Forma de la Carcasa: Redondo
+- Carcasa
 - - Color de la caja: Plata
 - - Cristal: Cristal Mineral
 

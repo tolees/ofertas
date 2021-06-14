@@ -28,9 +28,9 @@ Está [GAL Vaselina Neutra Perfumada - 40 ml](https://www.amazon.es/dp/B01LXPKSL
 
 ℹ️:
 
-- Vaselina neutra perfumada 40 ml
-- Producto practico
 - Fácil de usar
+- Vaselina neutra perfumada 40 ml
 - Producto de alta calidad
+- Producto practico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LXPKSLS/?tag=tolees-21)
