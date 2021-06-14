@@ -28,8 +28,8 @@ En este momento está [Kipling Womens Izellah - Body cruzado  12 x 33 x 23 cm   
 
 🔎:
 
-- Classics
 - Para mujer
 - Crossbody
+- Classics
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083YCTQLH/?tag=tolees-21)
