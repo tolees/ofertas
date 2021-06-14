@@ -28,9 +28,9 @@ Está [Funko Movies Godzilla Vs Kong-POP 2 Figura coleccionable  Mechagodzilla  
 
 ℹ️:
 
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- De la colección godzilla vs kong, pop 2 como figura de vinilo pop de funko
 - Funko pop el juguete del año 2018
 - Descúbre otras figuras de la colección godzilla vs kong y colecciónalas todas
-- De la colección godzilla vs kong, pop 2 como figura de vinilo pop de funko
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085PHQ81G/?tag=tolees-21)

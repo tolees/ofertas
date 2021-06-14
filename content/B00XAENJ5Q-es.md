@@ -28,10 +28,10 @@ Tienes [Finish Limpiamáquinas Líquido para Lavavajillas  2 x 250ml](https://ww
 
 ℹ️:
 
-- Finish limpiamáquinas limpia tu lavavajillas para que brillen tus platos y elimina los malos olores
-- Neutraliza los malos olores
 - Se recomienda utilizar una vez al mes
 - Finish es la marca recomendada por los principales fabricantes de lavavajillas
+- Finish limpiamáquinas limpia tu lavavajillas para que brillen tus platos y elimina los malos olores
+- Neutraliza los malos olores
 - Elimina la suciedad y la cal escondida del lavavajillas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAENJ5Q/?tag=tolees-21)

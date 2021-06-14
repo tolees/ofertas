@@ -28,8 +28,8 @@ Ahora mismo tienes [Reebok Club C Revenge  Sneaker Hombre  White/Gold Metallic/F
 
 🔎:
 
+- Suela de goma
 - Plantilla de espuma EVA
 - Parte superior de cuero suave
-- Suela de goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PC3BS7F/?tag=tolees-21)

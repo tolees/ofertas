@@ -28,9 +28,9 @@ Tienes [adidas FLUIDSTREET  Zapatillas de Running Hombre  FTWBLA/AZUREA/AMAACI  
 
 🔎:
 
-- Cierre de cordones
 - Tejido transpirable
 - Parte superior de malla con tirador de tela en el talón y la lengüeta
+- Cierre de cordones
 - Plantilla OrthoLite
 - Mediasuela Cloudfoam para una mayor amortiguación
 
