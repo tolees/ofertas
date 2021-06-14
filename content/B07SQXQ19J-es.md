@@ -29,8 +29,8 @@ Tienes [Funko - Pop Movies: Greatest Showman - Phillip Carlyle](https://www.amaz
 🔎:
 
 - Figure stands 9cm and comes in a window display box
-- From greatest showman, phillip carlyle, as a stylized pop vinyl from funko
 - Funko pop is the 2018 toy of the year and peoples choice award winner
+- From greatest showman, phillip carlyle, as a stylized pop vinyl from funko
 - Check out the other greatest showman figures from funko collect them all
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SQXQ19J/?tag=tolees-21)

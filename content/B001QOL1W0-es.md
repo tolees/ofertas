@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.46 % en Levi s 501 Original  Vaqueros  Onewash  '
-date: 2021-06-12 15:23:08
+date: 2021-06-14 09:04:57
 image: 'https://m.media-amazon.com/images/I/41u6V9BHazL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B001QOL1W0/?tag=tolees-21'
 descuento: '39.46'
-average: '59.4978947368422'
+average: '59.3694871794873'
 ---
 
 Tienes [Levi s 501 Original  Vaqueros  Onewash  34W / 34L para Hombre](https://www.amazon.es/dp/B001QOL1W0/?tag=tolees-21) con un 39.46 % de descuento con precio de oferta de 54.49 EUR (original: 90.0 EUR) en el siguiente enlace!
