@@ -28,8 +28,8 @@ Está [Azucarera Azúcar Blanco  50 Azucaritos  300g](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- 50 azucaritos
 - Azucarera blanco en azucaritos
+- 50 azucaritos
 - Consérvar en un lugar seco y aislado de olores y humedad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XA6ZI1W/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Energy Sistem Urban 4 Auriculares inalámbricos con Bluetoot
 
 🔎:
 
-- - 36 MESES DE GARANTÍA: Disfruta del producto con una garantía especial de 36 meses y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo de este tiempo
+- - CHARGING CASE: La mejor manera de transportar tus auriculares, una pequeña caja, que además de transportarlos, los carga para que nunca te quedes sin batería
+- - TOUCH CONTROL: Olvídate de los botones, gracias al touch control, sube el volumen, reproduce o cambia de canción con un simple toque.
 - - TRUE WIRELESS STEREO: Sácalos del charging case y se conectaran solos a tu Smartphone. Sin cables, podrás escuchar tu música, cuando acabes, vuelve a guardarlos.
 - - IPX5: Resistente al agua, para que la lluvia o el sudor, no sea un límite para escuchar toda tu música.
-- - TOUCH CONTROL: Olvídate de los botones, gracias al touch control, sube el volumen, reproduce o cambia de canción con un simple toque.
-- - CHARGING CASE: La mejor manera de transportar tus auriculares, una pequeña caja, que además de transportarlos, los carga para que nunca te quedes sin batería
+- - 36 MESES DE GARANTÍA: Disfruta del producto con una garantía especial de 36 meses y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo de este tiempo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NFXBDLC/?tag=tolees-21)

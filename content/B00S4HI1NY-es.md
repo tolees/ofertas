@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dreamGEAR - My Arcade Retro Machine - 20 al 39.22 % de descuento'
-date: 2021-06-14 18:52:53
+date: 2021-06-15 21:45:59
 image: 'https://m.media-amazon.com/images/I/51Pi7lymIxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'dreamGEAR'
 buyurl: 'https://www.amazon.es/dp/B00S4HI1NY/?tag=tolees-21'
 descuento: '39.22'
-average: '17.2612'
+average: '17.225'
 ---
 
 Está [dreamGEAR - My Arcade Retro Machine - 200 Juegos Vintage  8 Bit ](https://www.amazon.es/dp/B00S4HI1NY/?tag=tolees-21) con 39.22 de descuento por 16.32 EUR (original: 26.85 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [dreamGEAR - My Arcade Retro Machine - 200 Juegos Vintage  8 Bit ](https:/
 ℹ️:
 
 - Juegos a color
-- Llévate tus juegos contigo! Perfecto para viajar
-- Juegos de deporte, puzzles, acción, etc. Encuentra el que más te guste
 - Requiere 3 pilas AA (No incluidas)
+- Juegos de deporte, puzzles, acción, etc. Encuentra el que más te guste
+- Llévate tus juegos contigo! Perfecto para viajar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00S4HI1NY/?tag=tolees-21)
