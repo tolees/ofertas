@@ -29,9 +29,9 @@ En este momento está [Pyrex Classic Vidrio - Cazuela redonda con tapa  2.5 l](h
 🔎:
 
 - Garantía de 10 años ( 5 años en la capa antiadherente )
-- El volumen total del producto con la tapa es de 3,5 litros y la capacidad de la cazuela es de 2,5 litros.
 - Hecho de vidrio borosilicato dando de alta resistencia al choque térmico
-- Resistente a las manchas no retiene sabores
 - Apta para el horno , congelador , lavavajillas y microondas Segura
+- Resistente a las manchas no retiene sabores
+- El volumen total del producto con la tapa es de 3,5 litros y la capacidad de la cazuela es de 2,5 litros.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000KG8GLO/?tag=tolees-21)
