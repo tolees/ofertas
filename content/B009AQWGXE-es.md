@@ -28,10 +28,10 @@ Tienes [Essie Esmalte de Uñas  Tono: 006 Ballet slippers](https://www.amazon.es
 
 🔎:
 
+- Cepillo especial para fácil aplicación
 - Fórmula con textura gel sin acetona
 - Colores vibrantes
-- Cobertura impecable
 - Duración resistente entre 7 y 1 días
-- Cepillo especial para fácil aplicación
+- Cobertura impecable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009AQWGXE/?tag=tolees-21)

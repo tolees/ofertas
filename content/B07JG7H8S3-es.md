@@ -28,10 +28,10 @@ En este momento está [PUMA Carina L  Zapatillas Mujer  White-White-Silver  36 E
 
 🔎:
 
-- Marca Puma en la solapa de la lengua
-- Suela de plataforma ligeramente elevada
 - Suela de goma para mayor agarre
-- Puntera perforada
 - Espuma suave + para una comodidad absolutamente suave
+- Marca Puma en la solapa de la lengua
+- Puntera perforada
+- Suela de plataforma ligeramente elevada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JG7H8S3/?tag=tolees-21)

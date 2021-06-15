@@ -28,8 +28,8 @@ En este momento está [Pioneer TS-A1370-F - Altavoz coaxial de 3 vías  Color Ne
 
 🔎:
 
-- 13 cm
-- Altavoz coaxial de 3 vías
 - Potencia 300 w
+- Altavoz coaxial de 3 vías
+- 13 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GFR7DG3/?tag=tolees-21)

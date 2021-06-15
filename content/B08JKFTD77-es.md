@@ -28,10 +28,10 @@ Ahora mismo tienes [Ana María Lajusticia - Ana Maria Lajusticia - Jalea real co
 
 🔎:
 
-- La jalea real con vitamina C ayuda a prevenir los resfriados.
-- La jalea real contiene HDA, que refuerza las defensas, y acetilcolina, neurotransmisor que mejora la memoria.
 - La jalea real con vitamina C contribuye a disminuir el cansancio y la fatiga.
-- La jalea real con vitamina C interviene en el normal funcionamiento del sistema inmunitario.
+- La jalea real contiene HDA, que refuerza las defensas, y acetilcolina, neurotransmisor que mejora la memoria.
+- La jalea real con vitamina C ayuda a prevenir los resfriados.
 - La vitamina C interviene en la formación normal de proteínas, entre ellas el colágeno.
+- La jalea real con vitamina C interviene en el normal funcionamiento del sistema inmunitario.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08JKFTD77/?tag=tolees-21)
