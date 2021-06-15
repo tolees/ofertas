@@ -28,10 +28,10 @@ Ahora mismo tienes [Samsonite Base Boost - Spinner S  Longitud: 40 cm  Equipaje 
 
 🔎:
 
+- Peso ligero: a partir de 2 Kg para cabinas de tamaños
 - Detalles: logotipo de metal y bolsillos con cremallera en la parte delantera
 - Spinner 55 Equipaje de mano, 2 días de viaje: 40 x 20 x 55 cm, 39 L, 2 Kg
-- Todos los modelos con candado TSA para viajes seguros y sin estrés
-- Peso ligero: a partir de 2 Kg para cabinas de tamaños
 - Bolsillo frontal con capacidad de almacenamiento máxima
+- Todos los modelos con candado TSA para viajes seguros y sin estrés
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084KV3Z2D/?tag=tolees-21)
