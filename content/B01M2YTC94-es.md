@@ -28,10 +28,10 @@ Tienes [Max Factor  Delineador de ojos  Tono: 15 Charcoal Eyeliner  Gama Grises 
 
 🔎:
 
+- Paso 1: para intensificar cualquier look de ojos rápidamente, presiona la punta en forma de cuña en la raíz de las pestañas dibujando puntos para crear el efecto de pestañas más densas
 - El lápiz de ojos líquido Masterpiece High Precisión de Max Factor aporta la intensidad de un delineador líquido y la precisión de un lápiz
 - Su asombrosa punta en forma de pala dibuja líneas gruesas y finas para proporcionar dos looks totalmente diferentes y ajustados a tus necesidades: espectacular y elegante, que durarán día y noche
 - Paso 2: para trazar una línea superior a lo largo de las pestañas superiores, inclina la cabeza hacia detrás en un pequeño ángulo, y apoya la mano en una superficie plana
-- Paso 1: para intensificar cualquier look de ojos rápidamente, presiona la punta en forma de cuña en la raíz de las pestañas dibujando puntos para crear el efecto de pestañas más densas
 - Ideal para crear precisión, longitud y volumen
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M2YTC94/?tag=tolees-21)

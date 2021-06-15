@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jaume Serra Reserva - Cava Vintage Brut  al 54.47 % de rebaja'
-date: 2021-06-05 06:11:35
+date: 2021-06-15 06:25:39
 image: 'https://m.media-amazon.com/images/I/51TzAUZ1pLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Tienes [Jaume Serra Reserva - Cava Vintage Brut Nature Reserva - Caja de 6 Botel
 
 - Aroma: Perfil aromático con toques de frutos secos como la almendra; ya en copa se aprecia el aroma a pera, melocotón y cítricos
 - Apariencia: Cava de color amarillo pálido con tonos dorados
-- Maridaje: Aunque puede tomarse solo como aperitivo, tambien se puede acompañar con pasta, pescados al horno, marisco, rissoto, estofados y postres
 - Tipo de uva: Elaborado con las variedades de uvas chardonnay, parellada, macabeo y xarel-lo; se realiza una segunda fermentación en botella a una temperatura nunca superior a los 16º c para así conseguir una burbuja pequeña y persistente
+- Maridaje: Aunque puede tomarse solo como aperitivo, tambien se puede acompañar con pasta, pescados al horno, marisco, rissoto, estofados y postres
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo entre 10 y 12 ºc y conservarlo en un lugar fresco y seco
 - Gusto: En boca es redondo y rico, con un buen equilibrio y un retrogusto afrutado
 
