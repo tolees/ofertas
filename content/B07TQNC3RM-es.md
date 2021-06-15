@@ -28,8 +28,8 @@ En este momento está [Levi s 511 Slim Shorts Pantalones Cortos  Baguette Short 
 
 🔎:
 
-- Artículo auténtico. Somos un vendedor autorizado de Levis.
-- Consulta la descripción del producto más abajo para obtener más información.
 - Levis 511 - Pantalones cortos con dobladillo fino, color azul.
+- Consulta la descripción del producto más abajo para obtener más información.
+- Artículo auténtico. Somos un vendedor autorizado de Levis.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TQNC3RM/?tag=tolees-21)

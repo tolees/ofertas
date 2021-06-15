@@ -29,7 +29,7 @@ Ahora mismo tienes [Dockers Smart 360 Tech Cargo Pantalones  Cool Slate  38W x 3
 🔎:
 
 - BCI, impermeable
-- Cool (absorción de humedad), transpirable
 - Smart 360 Tech Cargo
+- Cool (absorción de humedad), transpirable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089T7HHL2/?tag=tolees-21)

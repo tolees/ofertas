@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Tijuana  Zapatillas para Mujer  N con un 44.00 % de descuento'
-date: 2021-05-30 11:35:16
+date: 2021-06-15 20:03:15
 image: 'https://m.media-amazon.com/images/I/41g7oikqahL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
