@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel-GKX72 Jurassic world Dino bocazas al 39.51 % de rebaja'
-date: 2021-06-11 09:52:28
+date: 2021-06-15 14:42:10
 image: 'https://m.media-amazon.com/images/I/51TLPg206SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

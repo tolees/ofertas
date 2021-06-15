@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Stepfleex 2 SL Ve V PS  Zapatillas  al 59.93 % de descuento'
-date: 2021-05-22 09:49:02
+date: 2021-06-15 14:03:44
 image: 'https://m.media-amazon.com/images/I/41wdP4WRvWS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ En este momento está [La Provençale Bio Agua de Pureza Micelar Anti-edad - 400
 
 🔎:
 
-- La nueva cara de lo bio
+- 400 Ml
 - Hojas de olivo bio
+- La nueva cara de lo bio
 - El Agua de Pureza Micelar Anti-edad con hojas de olivo bio ricas en polifenoles, limpia, desmaquilla y purifica todo tipo de pieles, incluso sensibles
 - Limpia, desmaquilla y purifica todo tipo de pieles, incluso sensibles
-- 400 Ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08G98DBCQ/?tag=tolees-21)
