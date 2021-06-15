@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Luna  Sandalias para Mujer  Do al 45.65 % de descuento'
-date: 2021-06-12 18:02:48
+date: 2021-06-15 15:34:03
 image: 'https://m.media-amazon.com/images/I/31xn0rbQK6S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B015SGFI6Q/?tag=tolees-21'
 descuento: '45.65'
-average: '14.7175'
+average: '14.372'
 ---
 
 Está [Havaianas Luna  Sandalias para Mujer  Dorado  Rose Gold   37/38 EU](https://www.amazon.es/dp/B015SGFI6Q/?tag=tolees-21) con 45.65 de descuento por 12.99 EUR (original: 23.9 EUR) en el siguiente enlace!
@@ -29,10 +29,10 @@ Está [Havaianas Luna  Sandalias para Mujer  Dorado  Rose Gold   37/38 EU](https
 ℹ️:
 
 - Cierre: Sin cordones
+- 39/40 EU (37/38 Brazilian)
+- Material de la suela: Goma
+- Revestimiento: Sin forro
 - Tipo de tacón: Plano
 - Material exterior: Caucho
-- Material de la suela: Goma
-- 39/40 EU (37/38 Brazilian)
-- Revestimiento: Sin forro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B015SGFI6Q/?tag=tolees-21)

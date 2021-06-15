@@ -28,11 +28,11 @@ Tienes [Xiaomi Mi Air Purifier Pro H purificador de aire con filtro HEPA  Pantal
 
 🔎:
 
+- Verdadero filtro hepa equipado para eliminar 99,99% de partículas tan pequeñas como 0,1micrones del aire, incluido el polvo del aire, humo, caspa de mascotas, esporas de moho, polen, olores, gérmenes y virus
+- Especificaciones: cadr de partículas: 6 00 m³/hcadr formaldehído: 250 m³/hrendimiento de superficie: 20 0m²/hvida útil del filtro: 10 ~ 14 meses. potencia de sonido: 34,1 ~ 65 dB (a) color blanco conectividad wi fi: 2,4 GHz voltaje de alimentación: ac100 240 v ~frecuencia de energía: 50/60 Hz potencia nominal: 70 W longitud del cable de alimentación: 1,5 mdimensiones: 310 (l) 310 (w) 738 (h) mmpeso neto: aprox. 9,6 kilogramos
+- Pantalla táctil OLED para una fácil operación e interacción hasta 14 meses de vida útil del filtro hepa. control inteligente con la aplicación mi home, asistente de google y Alexa
 - 600m³/h tasa de suministro de aire limpio de partículas(pcadr) para suministrar 10 m³ de aire fresco cada minuto, o hacer circular el aire de 200 ㎡espacio con 3 metros de altura en 1 hora250 m³/h formaldehído aire limpio tasa de entrega (fcadr) para absorber formaldehído y olores, más de 4 veces tanto como mi air purifier 3h
 - Componentes incluidos: Mi Air Purifier Pro H - Purifier
-- Verdadero filtro hepa equipado para eliminar 99,99% de partículas tan pequeñas como 0,1micrones del aire, incluido el polvo del aire, humo, caspa de mascotas, esporas de moho, polen, olores, gérmenes y virus
-- Pantalla táctil OLED para una fácil operación e interacción hasta 14 meses de vida útil del filtro hepa. control inteligente con la aplicación mi home, asistente de google y Alexa
 - Diseño de torre para hacer circular el aire interior de forma eficaz. sistema de filtración de triple capa elimina humo, polvo, caspa de mascotas, moho esporas, polen, gérmenes, virus y olores desde el aire de manera efectiva
-- Especificaciones: cadr de partículas: 6 00 m³/hcadr formaldehído: 250 m³/hrendimiento de superficie: 20 0m²/hvida útil del filtro: 10 ~ 14 meses. potencia de sonido: 34,1 ~ 65 dB (a) color blanco conectividad wi fi: 2,4 GHz voltaje de alimentación: ac100 240 v ~frecuencia de energía: 50/60 Hz potencia nominal: 70 W longitud del cable de alimentación: 1,5 mdimensiones: 310 (l) 310 (w) 738 (h) mmpeso neto: aprox. 9,6 kilogramos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LTQQR54/?tag=tolees-21)

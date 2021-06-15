@@ -29,8 +29,8 @@ En este momento está [Rotho Albula  Cubo de basura biológica de 6 litros con t
 🔎:
 
 - Universal y modular: se puede utilizar individualmente o en un conjunto, también se puede apilar con seguridad en los cubos albula 25l, hermoso diseño, ayuda adecuada de cocina.para su encimera
-- Ahorra espacio y es práctico: la tapa se puede abrir completamente y doblar hacia atrás, cómodo de llevar gracias a la correa de transporte, fácil de limpiar
-- Orientado al diseño y sostenible: contenedor de compost con tapa y asa, adecuado para residuos orgánicos, cápsulas de café, para almacenar pastillas de lavavajillas, como contenedor de residuos de mesa, hecho de plástico reciclado
 - Alcance del suministro: 1x bio cubo de plástico con tapa y correa de transporte, contenedor verde oscuro verde muérdago, tapa y asa antracita, disponible en otros atractivos colores
+- Orientado al diseño y sostenible: contenedor de compost con tapa y asa, adecuado para residuos orgánicos, cápsulas de café, para almacenar pastillas de lavavajillas, como contenedor de residuos de mesa, hecho de plástico reciclado
+- Ahorra espacio y es práctico: la tapa se puede abrir completamente y doblar hacia atrás, cómodo de llevar gracias a la correa de transporte, fácil de limpiar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z3X3XWQ/?tag=tolees-21)

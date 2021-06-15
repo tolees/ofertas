@@ -28,13 +28,13 @@ Está [Havaianas Brasil Logo Chanclas Unisex Niños  Azul  Marine Blue   35/36 E
 
 ℹ️:
 
+- Material exterior: Caucho
 - Composición: Goma
 - Cierre: Sin cordones
-- Resistente al agua
-- Material exterior: Caucho
-- Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
 - Anchura del zapato: Normal
-- Tipo de tacón: Plano
+- Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
 - Material de la suela: Goma
+- Resistente al agua
+- Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B007WPOB56/?tag=tolees-21)
