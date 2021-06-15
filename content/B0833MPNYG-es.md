@@ -30,8 +30,8 @@ En este momento está [DC Shoes Trase TX  Zapatillas Hombre  Black/Gum  40 EU](h
 
 - Forro de malla.
 - DC s Trademarked "Pill Pattern" Recessed Tread
-- Construcción vulcanizada.
 - Suela exterior de goma resistente a la abrasión.
 - Logotipo de impresión HD.
+- Construcción vulcanizada.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0833MPNYG/?tag=tolees-21)
