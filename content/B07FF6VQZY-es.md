@@ -28,9 +28,9 @@ Está [Geox UOMO Symbol B  Zapatillas Hombre  Black  42.5 EU](https://www.amazon
 
 ℹ️:
 
-- Lining: sintético
-- Sole material: caucho
 - Outer material: sintético
+- Lining: sintético
 - Closure: cordones rápidos
+- Sole material: caucho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FF6VQZY/?tag=tolees-21)
