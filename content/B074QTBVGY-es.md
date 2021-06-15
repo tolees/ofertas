@@ -28,10 +28,10 @@ Tienes [Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Cuero FTW5007]
 
 🔎:
 
-- Fossil
 - Compatibilidad: Android OS 5.0+, iPhone 5/iOS 9.0+, Smartphone App; Conectividad: Bluetooth Smart Enabled / 4.1 Low Energy; Vida estimada de la pila: Hasta 6 meses* *según el uso
+- Grosor de la caja: 12mm; Tamaño de la caja: 36mm; Ancho de la correa: 16mm; Circunferencia de la correa: 190 +/- 5mm; Material de la correa: Piel; Resistente al agua: 5 ATM
+- Fossil
 - Este producto se puede enviar únicamente a los siguientes países : Reino Unido, Irlanda, Austria, Alemania, Francia, Bélgica, Países Bajos, Suiza, Dinamarca, Portugal, Italia, España, Suecia, Noruega, Polonia y Luxemburgo
 - Se presenta en caja de regalo Fossil Q
-- Grosor de la caja: 12mm; Tamaño de la caja: 36mm; Ancho de la correa: 16mm; Circunferencia de la correa: 190 +/- 5mm; Material de la correa: Piel; Resistente al agua: 5 ATM
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074QTBVGY/?tag=tolees-21)

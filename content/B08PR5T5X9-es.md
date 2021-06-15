@@ -28,13 +28,13 @@ Tienes [Zumosol Néctar De 1L  Piña  1000 Mililitro](https://www.amazon.es/dp/B
 
 🔎:
 
-- Néctar de piña
 - Una vez abierto, consumir completamente tan pronto como sea posible o guardar refrigerado y consumir en un máximo de 4 días
-- Almacenar en lugar fresco y seco
-- Ingredientes: Ingredientes: Zumo de piña a partir de concentrado (59 %) agua, azúcar, acidulante (ácido cítrico) estabilizador (pectina) vitamina C y aroma
-- Temperaturas superiores a 35 º c pueden causar deterioro organoléptico en el producto
 - Advertencia de seguridad: Situación del lote y la fecha de consumo preferente: Parte superior del envase
 - País de origen: España
+- Almacenar en lugar fresco y seco
 - Instrucciones para su uso adecuado: Agitar antes de usa
+- Ingredientes: Ingredientes: Zumo de piña a partir de concentrado (59 %) agua, azúcar, acidulante (ácido cítrico) estabilizador (pectina) vitamina C y aroma
+- Néctar de piña
+- Temperaturas superiores a 35 º c pueden causar deterioro organoléptico en el producto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PR5T5X9/?tag=tolees-21)

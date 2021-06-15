@@ -28,8 +28,8 @@ En este momento está [Axe Pack Auriculares Gaming Bodysprays 150 ml Ice Chill y
 
 🔎:
 
-- Dark Temptation Bodyspray (150ml): fragancia con notas de chocolate, ámbar y pimienta roja.
 - Todo acompañado por auriculares Gaming con: Experiencia de audio multidimensional con sonido envolvente. Almohadillas para un máximo confort. Tapones de cuero artificial, aislan de ruidos de fondo.
 - Ice Chill Bodyspray (150ml) + Gel de ducha (250ml): fragancia a menta y limón capaz de refrescar y despertar todos tus sentidos.
+- Dark Temptation Bodyspray (150ml): fragancia con notas de chocolate, ámbar y pimienta roja.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZG3XCNX/?tag=tolees-21)
