@@ -28,10 +28,10 @@ Está [Wera - 160 i/162 i/167 i/9 Juego de destornilladores Kraftform Plus Serie
 
 ℹ️:
 
+- Varillas VDE aisladas para trabajos seguros hasta 1.000 voltios
 - Con punta tipo Lasertip para un alojamiento más seguro en la cabeza del tornillo
+- Con indicación de la medida en el mango para encontrar y ordenar la herramienta más fácilmente
 - Mango Kraftform multicomponente con zonas duras para un rápido reposicionamiento en la mano y blandas para una mayor trasmisión de par
 - Con sistema anti-rodamiento hexagonal para evitar que la herramienta ruede
-- Con indicación de la medida en el mango para encontrar y ordenar la herramienta más fácilmente
-- Varillas VDE aisladas para trabajos seguros hasta 1.000 voltios
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004WI1WCQ/?tag=tolees-21)

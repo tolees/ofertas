@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Azucarera Azúcar Blanco  50 Azucaritos   al 36.49 % de descuento'
-date: 2021-06-05 08:42:20
+date: 2021-06-15 19:52:18
 image: 'https://m.media-amazon.com/images/I/51AuZAJ2JrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Azucarera'
 buyurl: 'https://www.amazon.es/dp/B00XA6ZI1W/?tag=tolees-21'
 descuento: '36.49'
-average: '2.34'
+average: '2.14'
 ---
 
 Está [Azucarera Azúcar Blanco  50 Azucaritos  300g](https://www.amazon.es/dp/B00XA6ZI1W/?tag=tolees-21) con 36.49 de descuento por 0.94 EUR (original: 1.48 EUR) en el siguiente enlace!
