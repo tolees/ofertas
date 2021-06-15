@@ -28,10 +28,10 @@ Tienes [Rimmel London 1000 Kisses Lipliner Perfilador de Labios Tono 047 Cappucc
 
 🔎:
 
-- Perfila el labio partiendo de las comisuras hacia arriba y hacia abajo. A continuación, difumina con la ayuda de un pincel
-- Hasta 8 horas de duración. No mancha
-- Maquilla con una barra de labios la zona de los labios delimitada por el perfilador para unos labios perfectos
 - Fórmula cremosa que se desliza fácilmente por el contorno de tus labios
+- Hasta 8 horas de duración. No mancha
 - Perfilador de labios de larga duración
+- Perfila el labio partiendo de las comisuras hacia arriba y hacia abajo. A continuación, difumina con la ayuda de un pincel
+- Maquilla con una barra de labios la zona de los labios delimitada por el perfilador para unos labios perfectos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B003LPUWU4/?tag=tolees-21)
