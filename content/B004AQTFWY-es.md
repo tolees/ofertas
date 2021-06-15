@@ -28,8 +28,8 @@ Tienes [Brennenstuhl cable alargador de corriente de enchufe plano tipo euro  en
 
 🔎:
 
-- Volumen de suministro: 1x cable alargador plano de 3m con enchufe y toma europeo - en la calidad de Brennenstuhl
 - Prolongador eléctrico con toma y enchufe de tipo europeo con longitud de cable de 3 m (H03VVH2-F 2x0,75)
+- Volumen de suministro: 1x cable alargador plano de 3m con enchufe y toma europeo - en la calidad de Brennenstuhl
 - Cable alargador plano para el uso interior al doméstico, para conectar conexión dispositivos de 2.5 A máximo
 - La toma de corriente del cable extensible es con protección contra el contacto accidental, protección incorporada
 - Cable de prolongación con enchufe y acoplamiento Euro para enchufar aparatos eléctricos de conector europeo

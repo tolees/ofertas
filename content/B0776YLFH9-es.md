@@ -28,10 +28,10 @@ Tienes [Green Cell PRO - Green Cell® - Teclado para Toshiba Satellite C660 C650
 
 🔎:
 
-- 2 años de garantía, la no es producido en piezas de recambio de baja calidad.
-- Color: Negro | 24 meses de garantía.
-- 100% compatible con teclado Toshiba Satellite C660 C650 L750 C660D L650 C655 l655 L650D L675 Toshiba Satellite Pro C660 C660D C855.
 - Teclado del prestigioso fabricante Green Cell
+- 2 años de garantía, la no es producido en piezas de recambio de baja calidad.
 - Máxima calidad en términos de confort y durabilidad.
+- 100% compatible con teclado Toshiba Satellite C660 C650 L750 C660D L650 C655 l655 L650D L675 Toshiba Satellite Pro C660 C660D C855.
+- Color: Negro | 24 meses de garantía.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0776YLFH9/?tag=tolees-21)

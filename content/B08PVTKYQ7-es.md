@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Adilette Aqua  Slide Sandal Mujer  Cherry Metallic/Fo
 
 🔎:
 
-- Correa de poliuretano de secado rápido
 - Adilette para el uso diario
+- Correa de poliuretano de secado rápido
 - Diseño del deslizamiento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PVTKYQ7/?tag=tolees-21)

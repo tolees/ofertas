@@ -30,8 +30,8 @@ Ahora mismo tienes [Magiin Cortador de Pasteles de Alambre Doble Ajustable de Ac
 
 - Perfecto para hacer tus propios pasteles hermosos y únicos, hojaldre o pastelería.
 - Fácil de ajustar los cables a cualquier altura, ahorra tiempo y muy conveniente para cortar tartas. El marco puede fijarse para garantizar niveles de corte constantes.
-- Hecho de acero inoxidable apto para uso alimentario, no se oxida.
 - Una cortadora de capas de pastel de dos líneas, una herramienta de bricolaje simple y conveniente, le permite disfrutar de la cocina.
+- Hecho de acero inoxidable apto para uso alimentario, no se oxida.
 - Productos incluidos: 1 corte de pastel de doble filamento.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QQQJJGM/?tag=tolees-21)
