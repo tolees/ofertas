@@ -28,8 +28,8 @@ Está [Burton Classic Retro Camiseta  Mujer  Creme Brulee  XXS](https://www.amaz
 
 ℹ️:
 
+- Preencogido
 - Ajuste clásico
 - Logo serigrafiado suave al tacto en el pecho
-- Preencogido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081LTLG6H/?tag=tolees-21)

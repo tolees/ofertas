@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop Figura De Vinil: TV: Game of T al 40.53 % de descuento'
-date: 2021-06-14 05:40:31
+date: 2021-06-15 07:25:47
 image: 'https://m.media-amazon.com/images/I/51ynU+PMceL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07RCN366S/?tag=tolees-21'
 descuento: '40.53'
-average: '11.2642857142857'
+average: '11.1675'
 ---
 
 Está [Funko Pop Figura De Vinil: TV: Game of Thrones-Jon Snow Coleccionable  Multicolor  44446 ](https://www.amazon.es/dp/B07RCN366S/?tag=tolees-21) con 40.53 de descuento por 10.49 EUR (original: 17.64 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [Funko Pop Figura De Vinil: TV: Game of Thrones-Jon Snow Coleccionable  Mu
 ℹ️:
 
 - Figura de colección de la marca Funko
+- El producto se envía en una caja ilustrada con ventana
 - El artículo es adecuado para todos los fanáticos de Game of Thrones
 - Recomendado para niños a partir de 3 años
-- El producto se envía en una caja ilustrada con ventana
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RCN366S/?tag=tolees-21)

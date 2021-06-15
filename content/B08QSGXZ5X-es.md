@@ -29,7 +29,7 @@ Tienes [NIKE CZ2425-010 M NK DF HDIE PO SWSH Sweat Mens Black/ White  M](https:/
 ℹ️:
 
 - Nike logo on the front
-- Regular fit
 - Hood with lanyard
+- Regular fit
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08QSGXZ5X/?tag=tolees-21)

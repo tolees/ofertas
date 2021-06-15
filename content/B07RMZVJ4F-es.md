@@ -28,10 +28,10 @@ Tienes [Burton Multipath Checked Maleta  77 cm  90 litros  True Black Ballistic]
 
 🔎:
 
-- lockable, contoured zipper pulls fit TSA-approved locks
 - dual side compression straps; internal compression strap
-- external zippered closure accessory pocket; dual internal zippered closure accessory pocket
+- lockable, contoured zipper pulls fit TSA-approved locks
 - stowable ID tag
+- external zippered closure accessory pocket; dual internal zippered closure accessory pocket
 - dual handles on front panel for easy hauling; compactable for storage
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RMZVJ4F/?tag=tolees-21)
