@@ -28,9 +28,9 @@ En este momento está [Umbra 299330-491 Trigem - Colgador de joyas Nickel  48 x 
 
 🔎:
 
-- Indicado para collares largas
-- Base blanca brillante y barras de metal
 - Número de modelo del producto: 299330-491-REM
+- Base blanca brillante y barras de metal
+- Indicado para collares largas
 - Joyero con 3 barras de diferentes niveles
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005M8YXEE/?tag=tolees-21)

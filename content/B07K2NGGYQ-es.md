@@ -28,9 +28,9 @@ Ahora mismo tienes [Adidas Continental 80  Zapatillas de Deporte Hombre  Negro C
 
 🔎:
 
-- Forro: sintético
 - Material exterior: sintético
-- Cierre: cordones
+- Forro: sintético
 - Material de la suela: goma
+- Cierre: cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K2NGGYQ/?tag=tolees-21)

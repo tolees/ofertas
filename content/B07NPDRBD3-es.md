@@ -28,9 +28,9 @@ En este momento está [Clarins 57695 Delineador Waterproof Ojos  N. 01](https://
 
 🔎:
 
-- Producto de cuidado personal
-- Delineador Waterproof Ojos
 - Producto de calidad
+- Delineador Waterproof Ojos
+- Producto de cuidado personal
 - Nombre dela marca: Clarins
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NPDRBD3/?tag=tolees-21)

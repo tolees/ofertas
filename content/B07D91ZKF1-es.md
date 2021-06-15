@@ -28,10 +28,10 @@ Está [Rimmel London  Delineador de ojos  Tono: 001 Slay Hero  Gama Grises  - 8.
 
 ℹ️:
 
-- Sombra glitter
+- Aplicador de trazo fino y suave
 - Liner metálico, colores ultrapigmentados
 - Hasta 10 horas de brillo
-- Aplicador de trazo fino y suave
+- Sombra glitter
 - Difumina con el dedo y alucina
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07D91ZKF1/?tag=tolees-21)

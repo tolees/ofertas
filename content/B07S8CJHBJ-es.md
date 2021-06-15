@@ -28,11 +28,11 @@ En este momento está [Oral-B Aquacare Irrigador Bucal Portátil Con Tecnología
 
 🔎:
 
-- 2 intensidades: personaliza la limpieza con presiones de agua de modo sensible o normal
 - Inalámbrico: fácil de manejar sin accesorios
 - Tecnología Oxyjet: el agua enriquecida con microburbujas mejora la acción limpiadora
+- 2 flujos: escoge un chorro de agua focalizado o rotacional
 - Función de protección dental: elimina con delicadeza los restos de comida atrapados entre los alambres y los brackets
 - Modo manual: pulsa la función para una limpieza precisa
-- 2 flujos: escoge un chorro de agua focalizado o rotacional
+- 2 intensidades: personaliza la limpieza con presiones de agua de modo sensible o normal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07S8CJHBJ/?tag=tolees-21)

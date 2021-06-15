@@ -28,10 +28,10 @@ Está [NATURE ESSENTIAL | Vitaminas y Minerales | 60 Comprimidos con Fibra  Hier
 
 ℹ️:
 
+- Complemento alimenticio a base de vitaminas y minerales.
 - La Fibra, Vitamina C, Calcio, Fósforo, Hierro, Vitamina E, Yodo, Vitamina A, Vitamina D, Vitamina B-3, B-5, B-6, B-2, B-1, B-9 y B-12 que nos ayudan en estados carenciales y nos proporcionan vigor. Las vitaminas y minerales son necesarias para multitud de procesos en nuestro organismo. Un suplemento de vitaminas y minerales nos ayuda frente a estados carenciales. También nos ayuda frente al cansancio y la fatiga, contribuye al funcionamiento normal de nuestras defensas.
+- Producto libre de alérgenos conforme al Reglamento (UE) Nº 1169/2011.
 - Envase para 60 días de uso
 - Fibra, Vitamina C (Ácido Ascórbico), Óxido de Hierro III, Vitamina E (alfa tocoferol acetato), Vitamina B-3 (Niacina), Vitamina B-5 (Ácido Pantoténico), Vitamina A acetato (Retinol), Vitamina B-6 (Piridoxina), Vitamina B-2 (Riboflavina), Vitamina B-1 (Tiamina), Vitamina B-9 (Ácido fólico), Yoduro de Potasio, Vitamina D3 y Vitamina B-12.
-- Producto libre de alérgenos conforme al Reglamento (UE) Nº 1169/2011.
-- Complemento alimenticio a base de vitaminas y minerales.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B008AIVZ6M/?tag=tolees-21)

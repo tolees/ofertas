@@ -28,10 +28,10 @@ Está [Intex-57135NP Dinoland Play Center-Centro de juegos acuático hinchable  
 
 ℹ️:
 
-- El centro de juegos soporta un peso máximo de 81 kg y está diseñado para su uso en exterior por niños mayores de 3 años
 - Fabricado en vinilo resistente, el arco central tiene un pulverizador de agua coon conexión a manguera de jardín, incluye tapón de drenaje y kit de reparación
+- El centro de juegos soporta un peso máximo de 81 kg y está diseñado para su uso en exterior por niños mayores de 3 años
+- Modelo surtido: con y sin volcán
 - Tobogán hinchable con base acolchada y barreras laterales, figuras hinchables en forma de dinosaurio, anillas hinchables, rociador de agua y bolas de colores
 - Incorpora 6 bolas de colores variados para jugar a deslizarlas o a pasarlas por el arco del dino y 2 anillas hinchables para jugar a encestarlas
-- Modelo surtido: con y sin volcán
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00HF93T1Q/?tag=tolees-21)

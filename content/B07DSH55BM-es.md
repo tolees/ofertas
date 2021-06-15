@@ -29,9 +29,9 @@ Tienes [L Oreal Paris Make-up Designer - L Oréal Paris Make-up designer Infalib
 ℹ️:
 
 - Disponible en 24 tonos
-- Truco experto: aplicar después de la prebase alisadora de Infalible para prolongar el resultado del maquillaje
 - Permite conseguir una cobertura impecable que dura 24 H, como recién aplicado
-- Fórmula con pigmentos finos ultra-concentrados que se adaptan óptimamente al tono de tu piel
 - Base de maquillaje de larga duración y cobertura modulable
+- Truco experto: aplicar después de la prebase alisadora de Infalible para prolongar el resultado del maquillaje
+- Fórmula con pigmentos finos ultra-concentrados que se adaptan óptimamente al tono de tu piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DSH55BM/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [KWB 49248630 Broca de HSS-cobalto para metal de 3 mm HSS-E 248630  calida
 
 ℹ️:
 
+- Además, es robusta contra el calor extremo, con materiales difíciles de mecanizar y especialmente con acero aleado o no aleado, acero inoxidable, acero inoxidable v2a / v4a, fundición gris, fundición de acero, bronce y plásticos
 - Incluso a altas temperaturas, el taladro se desgasta poco
 - La broca de hss es de auto-centrado y cilíndrica según din 1412 c. antes de usarlo, es fundamental comprobar la velocidad, ver el reverso del embalaje del taladro
-- Además, es robusta contra el calor extremo, con materiales difíciles de mecanizar y especialmente con acero aleado o no aleado, acero inoxidable, acero inoxidable v2a / v4a, fundición gris, fundición de acero, bronce y plásticos
 - La broca helicoidal hss es de calidad industrial y está aleada con un 5% de cobalto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001BASX1G/?tag=tolees-21)
