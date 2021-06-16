@@ -28,10 +28,10 @@ Tienes [Ravensburger Juego Faraón  Color  26718 ](https://www.amazon.es/dp/B01G
 
 ℹ️:
 
-- Debajo de las 47 majestuosas pirámides, el Faraón ha escondido sus tesoros. ¿Cómo puedes encontrarlos?
-- Mueve las pirámides, memoriza el camino y encuentra los preciosos tesoros... !pero ten cuidado con la maldición de la momia!
-- Contenido: 47 pirámides, 30 cartas de objetivo, 1 tablero de juego con 48 orificios, 12 tarjetas del tesoro, 21 fichas, 1 momia.
-- 7-99 años
 - ¡Mueve con astucia las pirámides y encuentra el tesoro!
+- 7-99 años
+- Contenido: 47 pirámides, 30 cartas de objetivo, 1 tablero de juego con 48 orificios, 12 tarjetas del tesoro, 21 fichas, 1 momia.
+- Mueve las pirámides, memoriza el camino y encuentra los preciosos tesoros... !pero ten cuidado con la maldición de la momia!
+- Debajo de las 47 majestuosas pirámides, el Faraón ha escondido sus tesoros. ¿Cómo puedes encontrarlos?
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01GJN25O0/?tag=tolees-21)

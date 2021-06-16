@@ -28,9 +28,9 @@ Ahora mismo tienes [BAUSCH + LOMB - SofLens® 38 - Lentes de contacto](https://w
 
 🔎:
 
-- Cada vez que las use, deberá limpiarlas, aclararlas y desinfectarlas antes de volver a ponérselas.
 - Diseñadas para uso diario con la frecuencia de sustitución indicada por el profesional de la visión.
 - Para miopía o hipermetropía.
+- Cada vez que las use, deberá limpiarlas, aclararlas y desinfectarlas antes de volver a ponérselas.
 - Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007UISQBA/?tag=tolees-21)

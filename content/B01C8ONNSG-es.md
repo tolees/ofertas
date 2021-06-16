@@ -28,10 +28,10 @@ En este momento está [Pikolin Home - Edredón/Relleno nórdico de fibra antiác
 
 🔎:
 
+- Fácil mantenimiento: lavable en lavadora y secable en secadora a temperatura baja
+- Protección contra los ácaros - mejora la higiene del producto
 - Hipoalergénico; La microfibra  ayuda a disminuir los síntomas de alergia
 - Para habitaciones con temperaturas medias
 - Este relleno nórdico es totalmente transpirable
-- Fácil mantenimiento: lavable en lavadora y secable en secadora a temperatura baja
-- Protección contra los ácaros - mejora la higiene del producto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01C8ONNSG/?tag=tolees-21)

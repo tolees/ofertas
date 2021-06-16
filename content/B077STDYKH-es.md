@@ -30,8 +30,8 @@ Ahora mismo tienes [Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa
 
 - Resistente al agua hasta 50 m: Se puede usar para nadar en aguas poco profundas
 - Caja redonda de acero inoxidable en tono plateado, con una esfera blanca
-- Se presenta en una caja regalo Michael Kors
 - Caja de 36 mm, ancho de la correa de 16 mm, cristal mineral, movimiento de cuarzo con pantalla analógica con 2 agujas
 - Brazalete de acero inoxidable en tono plateado
+- Se presenta en una caja regalo Michael Kors
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077STDYKH/?tag=tolees-21)

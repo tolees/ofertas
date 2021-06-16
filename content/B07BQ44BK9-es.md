@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Lee Luke Medium Stretch Jeans  Azul  Rin al 64.44 % de rebaja'
-date: 2021-05-27 21:57:44
-image: 'https://m.media-amazon.com/images/I/41VN8rsOq9L._SL500_._SL400_.jpg'
+date: 2021-06-16 15:38:19
+image: 'https://m.media-amazon.com/images/I/31yz9CctNfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,12 +24,12 @@ average: '31.99'
 
 Tienes [Lee Luke Medium Stretch Jeans  Azul  Rinse DP   31W / 32L para Hombre](https://www.amazon.es/dp/B07BQ44BK9/?tag=tolees-21) con precio final de  31.99 EUR (original: 89.95 EUR) (64.44 %  de rebaja) aqui!
 
-[![Lee Luke Medium Stretch Jeans  Azul  Rin](https://m.media-amazon.com/images/I/41VN8rsOq9L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07BQ44BK9/?tag=tolees-21)
+[![Lee Luke Medium Stretch Jeans  Azul  Rin](https://m.media-amazon.com/images/I/31yz9CctNfS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07BQ44BK9/?tag=tolees-21)
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
 - Estilo 5 bolsillos
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BQ44BK9/?tag=tolees-21)
