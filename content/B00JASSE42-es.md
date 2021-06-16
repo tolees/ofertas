@@ -28,8 +28,8 @@ Ahora mismo tienes [Superga 2750-lamew  Zapatillas de Gimnasia Mujer  Negro Blac
 
 🔎:
 
+- Forro: tela
 - Material exterior: sintético
 - Material de la suela: goma
-- Forro: tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00JASSE42/?tag=tolees-21)

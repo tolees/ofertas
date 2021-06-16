@@ -28,8 +28,8 @@ Ahora mismo tienes [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto
 
 🔎:
 
-- Material: lona
-- Cierre: cordones
 - Colección: 2013.
+- Cierre: cordones
+- Material: lona
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BY77YOC/?tag=tolees-21)

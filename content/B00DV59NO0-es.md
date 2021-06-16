@@ -28,11 +28,11 @@ Tienes [Superga Classic  Zapatillas Unisex Adulto  Beige Beige Wbt  41.5 EU](htt
 
 ℹ️:
 
-- Forro: Sin forro
 - Tamaño Tipo: Tamaño estándar
-- Cierre: cordones.
-- Material exterior: lona
 - Material de la suela: goma
+- Forro: Sin forro
+- Material exterior: lona
 - Tipo de tacón: plana
+- Cierre: cordones.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DV59NO0/?tag=tolees-21)
