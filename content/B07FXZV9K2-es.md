@@ -28,10 +28,10 @@ Ahora mismo tienes [Havaianas Top Tiras  Chanclas para Mujer  Dorado  Rose Nude 
 
 🔎:
 
-- Cierre: Sin cordones
-- Revestimiento: Sin forro
-- Material de la suela: Goma
 - Material exterior: Goma
+- Cierre: Sin cordones
+- Material de la suela: Goma
 - Tipo de tacón: Plano
+- Revestimiento: Sin forro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FXZV9K2/?tag=tolees-21)

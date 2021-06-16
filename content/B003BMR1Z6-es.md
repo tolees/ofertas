@@ -29,7 +29,7 @@ Está [Clinique 17115 - exfoliante para pieles grasas  100 ml](https://www.amazo
 ℹ️:
 
 - Productos de belleza y el cuidado personal
-- Marca: Clinique
 - Tipo de producto: Jabon
+- Marca: Clinique
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003BMR1Z6/?tag=tolees-21)
