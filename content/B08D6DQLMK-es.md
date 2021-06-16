@@ -28,10 +28,10 @@ Está [CHOETECH Soporte Tablet  Soporte Teléfono Móvil Ajustable para iPhone 1
 
 ℹ️:
 
-- 【Estable y Seguridad】 El soporte para teléfono móvil está hecho de una base de metal con peso, y el exterior tiene una carcasa de ABS resistente e incombustible. Tiene un brazo de aleación de aluminio con un centro de gravedad más bajo, por lo que se puede colocar en el escritorio de forma estable y segura.
 - 【Amplia Compatibilidad】 El soporte para ipad puede soportar de varios dispositivos, como iPhone 12 / 12Pro / 12 Mini / 12Pro Max /11/11 Pro / SE 2020 / XS / XS MAX / XR / 8 / 8P / 7 / 7Plus, iPad Pro 2020/2018, iPad, iPad Air, iPad Mini, Galaxy Samsung S20 / S10 + / S10e / S10 / S9 + / S9 / S8 + / S8 / S7, Note 20/ Note 10/9/8, Huawei , Xiaomi, Galaxy Tab, Sony, LG, Google Pixel, Nexus, etc.
 - 【Altura & Ángulo Ajustable】CHOETECH soporte para teléfono& tablet diseñado ergonómicamente, libremente retráctil y el ajuste de múltiples ángulos alcanzan fácilmente su posición ideal, la tableta con soporte para teléfono móvil se puede ajustar hacia arriba y hacia abajo 45 °, y el soporte telescópico se puede extender entre 16cm - 23cm.
 - 【Soporte Mesa】 Es muy adecuado para que tener videollamadas en el escritorio de la oficina o vea películas y estudie en casa.
 - 【Diseño de Detalle】Hay un espacio de carga en la parte inferior del soporte, que se puede colocar directamente para cargar, o conecte auriculares para escuchar música y ver películas o videollamada. Con almohadillas suaves de silicona en el fundo de base metálica y el superficie de soporte para proteger su teléfono / tableta contra deslizamientos y arañazos.
+- 【Estable y Seguridad】 El soporte para teléfono móvil está hecho de una base de metal con peso, y el exterior tiene una carcasa de ABS resistente e incombustible. Tiene un brazo de aleación de aluminio con un centro de gravedad más bajo, por lo que se puede colocar en el escritorio de forma estable y segura.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D6DQLMK/?tag=tolees-21)
