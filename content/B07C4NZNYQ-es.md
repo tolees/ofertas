@@ -29,8 +29,8 @@ Tienes [Q Acoustics 3020i QA3528 - Altavoz  Color Blanco](https://www.amazon.es/
 🔎:
 
 - Q Acoustics - Altavoces compactos (2 unidades)
-- Paqueteage Dimensiones: 35.0 L x 45.0 H x 36.0 W (centimeters)
 - Paqueteage Weight: 11.4 kilograms
 - Fácil de Usar
+- Paqueteage Dimensiones: 35.0 L x 45.0 H x 36.0 W (centimeters)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07C4NZNYQ/?tag=tolees-21)

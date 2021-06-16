@@ -29,7 +29,7 @@ En este momento está [adidas Adilette Aqua  Slide Sandal Mujer  Cherry Metallic
 🔎:
 
 - Diseño del deslizamiento
-- Adilette para el uso diario
 - Correa de poliuretano de secado rápido
+- Adilette para el uso diario
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PVSTNBK/?tag=tolees-21)

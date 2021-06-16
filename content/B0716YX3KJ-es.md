@@ -30,7 +30,7 @@ En este momento está [Under Armour UA Showdown Taper  Pantalones de chándal  P
 
 - Material que capilariza el sudor y se seca rápidamente
 - Bolsillos en la parte posterior cosidos para mantener la forma durante los movimientos
-- Cintura elástica para proporcionar movilidad y comodidad
 - Tejido flexible de alto rendimiento
+- Cintura elástica para proporcionar movilidad y comodidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0716YX3KJ/?tag=tolees-21)

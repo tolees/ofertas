@@ -28,10 +28,10 @@ En este momento está [Medisana PS 435 báscula de baño digital hasta 180 kg - 
 
 🔎:
 
-- Pantalla invisible: Como elemento de diseño especial, la báscula de vidrio tiene una pantalla LED invisible, la pantalla solo aparece durante el pesaje
-- Medición precisa: Mantenga siempre el control hasta llegar al peso deseado. La báscula determina el peso con precisión hasta 180 kilogramos
-- Funcional: Puede cambiar las unidades de la báscula entre kg, lb o st. Además, el aparato integra un indicador de sobrecarga y un indicador de cambio de pilas
-- Step-On: La báscula se enciende automáticamente cuando se sube a la superficie de apoyo de vidrio de seguridad de 6 mm de grosor
 - Nota: Solo usar descalzo. Solo usar sobre suelo plano y duro. Los primeros resultados pueden variar, ya que la báscula necesita calibrarse
+- Funcional: Puede cambiar las unidades de la báscula entre kg, lb o st. Además, el aparato integra un indicador de sobrecarga y un indicador de cambio de pilas
+- Pantalla invisible: Como elemento de diseño especial, la báscula de vidrio tiene una pantalla LED invisible, la pantalla solo aparece durante el pesaje
+- Step-On: La báscula se enciende automáticamente cuando se sube a la superficie de apoyo de vidrio de seguridad de 6 mm de grosor
+- Medición precisa: Mantenga siempre el control hasta llegar al peso deseado. La báscula determina el peso con precisión hasta 180 kilogramos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078VFFBXW/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Garnier BIO Crema Antiedad para el Contorno de Ojos con Acei
 
 🔎:
 
-- Fórmula vegana, sin ingredientes o subproductos de origen animal; testado dermatológicamente y en pieles sensibles
 - Certificado Ecológico Cosmos de Ecocert Greenlife; más del 95% del total de ingredientes de nuestra crema hidratante son de origen natural
-- Crema para el contorno de los ojos, especialmente indicado para pieles maduras
 - Formulada con aceite esencial de lavanda ecológico y vitamina E, activos con propiedades antioxidantes, regeneradoras y reafirmantes
+- Crema para el contorno de los ojos, especialmente indicado para pieles maduras
+- Fórmula vegana, sin ingredientes o subproductos de origen animal; testado dermatológicamente y en pieles sensibles
 - Hidrata y regenera la piel, aportando suavidad y brillo en el contorno de los ojos para iluminar la mirada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MXXZFMQ/?tag=tolees-21)

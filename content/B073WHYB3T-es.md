@@ -28,10 +28,10 @@ En este momento está [Fini Plátano Grande Chuche  Golosina  1 Kg](https://www.
 
 🔎:
 
-- Fini Golosinas es la marca líder española en la venta de caramelos de gelatina, marshmallow y regaliz. Ha hecho de la calidad, la innovación y la diversión su identidad, logrando productos únicos.
 - FORMATO: 1 Bolsa - 1Kg
-- INFORMACIÓN NUTRICIONAL: Valor Energético 1.387KJ, Energia: 326Kcal. Grasas 0g, Saturadas: 0g. Hidratos de carbono: 79g, Azúcares: 58g. Proteínas 4g. Sal: 0,10g
-- TIPO DE PRODUCTO: Deliciosos plátanos de chuche grandes. Sin gluten.
 - Alérgenos: Leche - Posible Contaminación Cruzada
+- TIPO DE PRODUCTO: Deliciosos plátanos de chuche grandes. Sin gluten.
+- INFORMACIÓN NUTRICIONAL: Valor Energético 1.387KJ, Energia: 326Kcal. Grasas 0g, Saturadas: 0g. Hidratos de carbono: 79g, Azúcares: 58g. Proteínas 4g. Sal: 0,10g
+- Fini Golosinas es la marca líder española en la venta de caramelos de gelatina, marshmallow y regaliz. Ha hecho de la calidad, la innovación y la diversión su identidad, logrando productos únicos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073WHYB3T/?tag=tolees-21)
