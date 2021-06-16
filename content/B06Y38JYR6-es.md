@@ -28,12 +28,12 @@ Está [Amazon Basics Bombilla LED Esférica E27 con Filamento  4.3W  equivalente
 
 ℹ️:
 
-- Con una vida útil de 15 000 horas, esta bombilla dura más de 13 años (con un uso de 3 horas al día).
 - Se trata de bombillas LED no regulables, no compatibles con los reguladores de intensidad.
-- El alto índice de reproducción cromática (IRC > 80) ofrece un color vivo y natural.
+- Al gastar 4 vatios de energía y tan solo € 0,96 de funcionamiento al año, esta bombilla ahorra hasta un 90% al año y € 118,81 durante su vida útil en comparación con una bombilla incandescente equivalente (con un uso de 3 horas al día, 0,22 €/kWh; puede variar dependiendo de las tarifas y el uso).
+- Con una vida útil de 15 000 horas, esta bombilla dura más de 13 años (con un uso de 3 horas al día).
+- Proporciona 470 lúmenes de luz de manera inmediata, sin esperar a que se caliente para un brillo completo.
 - Esta bombilla transparente ofrece tecnología led moderna, además de un filamento tradicional para un aspecto nostálgico y encantador.
 - Con una temperatura de color de 2700 kélvines, la bombilla proporciona una luz blanca cálida que crea una atmósfera agradable en cualquier habitación.
-- Al gastar 4 vatios de energía y tan solo € 0,96 de funcionamiento al año, esta bombilla ahorra hasta un 90% al año y € 118,81 durante su vida útil en comparación con una bombilla incandescente equivalente (con un uso de 3 horas al día, 0,22 €/kWh; puede variar dependiendo de las tarifas y el uso).
-- Proporciona 470 lúmenes de luz de manera inmediata, sin esperar a que se caliente para un brillo completo.
+- El alto índice de reproducción cromática (IRC > 80) ofrece un color vivo y natural.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06Y38JYR6/?tag=tolees-21)

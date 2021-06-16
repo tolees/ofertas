@@ -30,10 +30,10 @@ En este momento está [Proxxon 23 556 2223556-Alargador 3/8" 150 mm  multicolor]
 
 - Número de items: 1
 - Unidades: 1.0
-- Caja de 1
+- Tipo de fábrica: metal
 - Con corredizo
 - Componentes incluidos: prolongador
-- Tipo de fábrica: metal
+- Caja de 1
 - Tamaño 150 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B001B3YMLI/?tag=tolees-21)

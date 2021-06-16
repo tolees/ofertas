@@ -28,12 +28,12 @@ Ahora mismo tienes [Amazon Basics Bombilla LED Globo E27 con Filamento  7W  equi
 
 🔎:
 
+- El alto índice de reproducción cromática (IRC > 80) ofrece un color vivo y natural.
+- Se trata de bombillas LED no regulables, no compatibles con los reguladores de intensidad.
 - Con una vida útil de 15 000 horas, esta bombilla dura más de 13 años (con un uso de 3 horas al día).
 - Con una temperatura de color de 2700 kélvines, la bombilla proporciona una luz blanca cálida que crea una atmósfera agradable en cualquier habitación.
-- Se trata de bombillas LED no regulables, no compatibles con los reguladores de intensidad.
-- Proporciona 806 lúmenes de luz de manera inmediata, sin esperar a que se caliente para un brillo completo.
-- El alto índice de reproducción cromática (IRC > 80) ofrece un color vivo y natural.
 - Esta bombilla transparente ofrece tecnología led moderna, además de un filamento tradicional para un aspecto nostálgico y encantador.
+- Proporciona 806 lúmenes de luz de manera inmediata, sin esperar a que se caliente para un brillo completo.
 - Al gastar 7 vatios de energía y tan solo € 1,69 de funcionamiento al año, esta bombilla ahorra hasta un 88% al año y € 174,92 durante su vida útil en comparación con una bombilla incandescente equivalente (con un uso de 3 horas al día, 0,22 €/kWh; puede variar dependiendo de las tarifas y el uso).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06Y3J6R2F/?tag=tolees-21)

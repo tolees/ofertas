@@ -28,9 +28,9 @@ Ahora mismo tienes [Orbegozo GDB 3600 - Plancha grill de aluminio fundido  reves
 
 🔎:
 
-- Tiene un diseño ergonómico
-- Superficie cocción: 1,5 x 22,5 x 29 cm
 - Es apto para todo tipo de encimeras
+- Superficie cocción: 1,5 x 22,5 x 29 cm
 - Asas extraíbles para su fácil limpieza
+- Tiene un diseño ergonómico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B018S1ODI2/?tag=tolees-21)

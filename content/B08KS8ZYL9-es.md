@@ -28,10 +28,10 @@ Tienes [Black+Decker BXIR2403E Centro de planchado  2400 W  Negro](https://www.a
 
 🔎:
 
-- LOCK SYSTEM: sistema patentado de transporte y bloqueo. Puedes fijar la plancha en el calderín y transportar cómodamente el centro de planchado.
 - GRAN POTENCIA: 2400W de máxima potencia. Planchado rápido y eficaz, sin esperas.
-- VAPOR ANTIVACTERIANO: el vapor de la plancha consigue desinfectar de forma eficaz y fiable con una sola pasada.
 - PRESIÓN: 7 bares máximos de vapor presurizado. Máxima fuerza e intensidad asegurada, consigue el máximo caudal de vapor constante y plancha rápidamente hasta las arrugas más rebeldes.
+- VAPOR ANTIVACTERIANO: el vapor de la plancha consigue desinfectar de forma eficaz y fiable con una sola pasada.
+- LOCK SYSTEM: sistema patentado de transporte y bloqueo. Puedes fijar la plancha en el calderín y transportar cómodamente el centro de planchado.
 - CARGA "SIN FIN": sistema de carga con depósito extraíble, rellénalo sin desconectar el centro de planchado. Planchado sin pausas ni interrupciones.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KS8ZYL9/?tag=tolees-21)
