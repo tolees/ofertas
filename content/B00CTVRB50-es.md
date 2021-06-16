@@ -28,10 +28,10 @@ Tienes [LIFETIME 80305 - Banco plegable ultrarresistente 454 kg LIFETIME 183x29x
 
 ℹ️:
 
-- Fácil de plegar, compacto y ligero (7 Kg) óptimo como asiento para mesa o para cualquier actividad dentro y fuera de casa, duradero y resistente a la intemperie
 - Base de polietileno de alta densidad con protección UV y estructura de acero con revestimiento en polvo antióxido, sistema de seguridad apertura/cierre
+- Fácil de plegar, compacto y ligero (7 Kg) óptimo como asiento para mesa o para cualquier actividad dentro y fuera de casa, duradero y resistente a la intemperie
+- Banco portátil ultrarresistente, medidas abierto: 183x29x42 cm, medidas cerrado: 93,5x29x9 cm, óptimo para 2 adultos o 4 niños, peso máx distribuido: 454 Kg
 - Versatilidad, durabilidad y diseño innovador con LIFETIME, marca especializada en mobiliario ultrarresistente que se adapta a tu vida en interior y exterior
 - El banco se pliega por la mitad y se puede transportar como un maletín gracias al asa incorporada, resistente a la suciedad y de fácil limpieza
-- Banco portátil ultrarresistente, medidas abierto: 183x29x42 cm, medidas cerrado: 93,5x29x9 cm, óptimo para 2 adultos o 4 niños, peso máx distribuido: 454 Kg
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CTVRB50/?tag=tolees-21)
