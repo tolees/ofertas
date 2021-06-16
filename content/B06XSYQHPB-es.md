@@ -28,9 +28,9 @@ Está [Marca Amazon - find. Pantalones Mujer  Grau  Grey   44  Label: XL](https:
 
 ℹ️:
 
-- Tejido ligero y fluido
-- Cintura con cordón ajustable
 - Corte holgado y casual
 - Estilo casual y práctico
+- Tejido ligero y fluido
+- Cintura con cordón ajustable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XSYQHPB/?tag=tolees-21)
