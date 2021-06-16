@@ -28,10 +28,10 @@ Está [IRIS IRIScan Book 5 - Escáner portátil libros y revistas  batería  120
 
 ℹ️:
 
-- Compacto, autónomo, rápido y portátil: escanee libros y revistas donde sea sin cables ni pc a una velocidad de 30 ppm en color; visualice con instantresult; alta resolución (hasta 1200 ppp)
 - Transfiera a cualquier dispositivo: por usb a windows o mac, un smartphone o tablet (ios o android) con la app gratuita iriscan anywhere; LCD; ram memory 512
 - Interfaz simplificada: incorpora una batería recargable por usb de larga duración, pantalla en color, ranura para tarjeta sd (incluida), puerto usb, y botones para configurar los parámetros
 - Posibilidades de conversión: guarde sus documentos escaneados como archivos de imagen (jpeg), pdf, libro electrónico, office o archivo de audio para compartirlos o archivarlos con facilidad
+- Compacto, autónomo, rápido y portátil: escanee libros y revistas donde sea sin cables ni pc a una velocidad de 30 ppm en color; visualice con instantresult; alta resolución (hasta 1200 ppp)
 - Fácil uso: deslice el iriscan book 5 por encima del documento; proceso rápido y estable gracias a su sensor óptico y las ruedas. útil para documentos encuadernados y conversión de libros en voz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NCJAOYQ/?tag=tolees-21)

@@ -28,12 +28,12 @@ Tienes [Lacor - 69285 - Exprimidor eléctrico Mini Con brazo 100 w - Gris](https
 
 ℹ️:
 
-- Start-stop automático presionando el cono
 - Sistema de bloqueo de salida de zumo anti-goteo para evitar salpicaduras
-- Fácil limpieza gracias a su sencillo desmontaje (piezas desmontables aptas para el lavavajillas)
-- Diseñado para uso doméstico
 - Libre de bpa
-- Sistema recoge-cable
+- Diseñado para uso doméstico
+- Start-stop automático presionando el cono
+- Fácil limpieza gracias a su sencillo desmontaje (piezas desmontables aptas para el lavavajillas)
 - Incluye libro de instrucciones en 7 idiomas
+- Sistema recoge-cable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005FOXZLC/?tag=tolees-21)

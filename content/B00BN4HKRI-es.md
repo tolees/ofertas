@@ -28,8 +28,8 @@ Tienes [Tech air TABX406R - Maletín para Ordenador portátil de 15 6"  Incluye 
 
 🔎:
 
-- Compatible con ordenadores portátiles de hasta 15.6"
 - Compartimiento principal es acolchado que ofrece protección a su dispositivo
+- Compatible con ordenadores portátiles de hasta 15.6"
 - Incluye un ratón con puerto USB
 - Bolsillo exterior para accesorios pequeños
 

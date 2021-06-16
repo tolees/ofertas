@@ -28,8 +28,8 @@ Tienes [Nike Revolution 5  Zapatillas de Correr Unisex Adulto  Negro  Black Whit
 
 🔎:
 
-- Plantilla blanda
 - Forro blando.
 - La suave suela intermedia de espuma proporciona una sensación suave y estable.
+- Plantilla blanda
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NM4KDLZ/?tag=tolees-21)

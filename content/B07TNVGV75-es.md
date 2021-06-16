@@ -29,10 +29,10 @@ Tienes [Borras 125  diversos trucos de magia  a partir de 7 años  color surtido
 ℹ️:
 
 - La colección Magia Borras posee una variedad de trucos que te convertirán en el próximo mago de tu generación
+- Versión española
 - Y los trucos más espectaculares de tecnomagia como la predicción atravesar billetes, nudos en auriculares, entre otro; Así como el espectacular cofre de magia que se convierte, a la vez, en un auténtico escenario para crear un brillante espectáculo de magia
 - Recomendado a partir de 7 años
-- El gran set incluye los mejores trucos de magia clásica como la barita encantada, los pañuelos que cambian de color, los dados bomba
-- Versión española
 - Gran Set de Magia Borras que conmemora el 125 aniversario de Borras
+- El gran set incluye los mejores trucos de magia clásica como la barita encantada, los pañuelos que cambian de color, los dados bomba
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TNVGV75/?tag=tolees-21)

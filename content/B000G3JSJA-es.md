@@ -28,13 +28,13 @@ En este momento está [Solac H101 - Quitapelusas electrico o a pilas con cabezal
 
 🔎:
 
-- Depósito de pelusas extraíble para una cómoda limpieza
-- Funciona a red y/o a pilas
-- Incluye alimentador de red eléctrica para unos resultados constantes
 - Potente: para todo tipo de tejidos
+- Incluye alimentador de red eléctrica para unos resultados constantes
 - Diseño robusto y ligero, fácil de manejar
+- Depósito de pelusas extraíble para una cómoda limpieza
 - Potente y eficaz, elimina las pelusas de todo tipo de tejidos
-- Cabezal de corte de amplio diámetro con 3 niveles de apurado
 - Permite uso con pilas o a red, para unos resultados más constantes
+- Funciona a red y/o a pilas
+- Cabezal de corte de amplio diámetro con 3 niveles de apurado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000G3JSJA/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Bizak- Air Rebound 2.0 Radio Control  Color surtido  63103435 ](https://
 
 ℹ️:
 
+- Edad recomendada + 8 años
 - Funciona con 2 pilas AA
 - Infla el neumático, tendrás acción y saltos increíbles para todos los lados
-- Edad recomendada + 8 años
 - Tecnología 2.4 GHz
 - Bota, rebota, gira e increíbles acrobacias
 

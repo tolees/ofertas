@@ -28,8 +28,8 @@ En este momento está [Lee Extreme Motion Slim Jeans  King  31W x 34L para Hombr
 
 🔎:
 
-- Tejido vaquero elástico
 - Slim Fit MVP
+- Tejido vaquero elástico
 - Recycled FABRICS
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXVNSJQ/?tag=tolees-21)
