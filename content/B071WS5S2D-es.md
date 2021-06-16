@@ -28,8 +28,8 @@ Ahora mismo tienes [Rexaline - Hydra-Dose Rich - Crema juventud súper hidratant
 
 🔎:
 
-- Crema diurna facial Rexaline
-- 3593787001201
 - Crema Hydra-Dose Rich 3D
+- 3593787001201
+- Crema diurna facial Rexaline
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071WS5S2D/?tag=tolees-21)

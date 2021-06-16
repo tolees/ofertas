@@ -28,10 +28,10 @@ Ahora mismo tienes [ASUS VT168N- Monitor táctil 15 6" 39.6 cm   1366x768   mult
 
 🔎:
 
-- Dispone de tecnología táctil: Multi-touch, con el sistema operativo Windows soportado: Windows 10 Education x 64, Windows 7 Enterprise x 64, Windows 8.1
-- El producto se puede montar en una pared, con interfaces de montaje VESA de 75 x 75 mm
 - Cuenta con 1 puerto DVI-D, 1 puerto VGA (D-Sub) y incluye cales HDMI-DVI, Micro-USB, VGA. Micro-USB solo para la función táctil
+- El producto se puede montar en una pared, con interfaces de montaje VESA de 75 x 75 mm
 - Tiene un ángulo de inclinación de 30 - -5°
+- Dispone de tecnología táctil: Multi-touch, con el sistema operativo Windows soportado: Windows 10 Education x 64, Windows 7 Enterprise x 64, Windows 8.1
 - Monitor táctil de 15.6" y una resolución de 1366 x 768 pixeles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01B6JD7DA/?tag=tolees-21)
