@@ -28,10 +28,10 @@ Tienes [Superga 2790 Acotw Linea Up and Down  Zapatillas Mujer  Beige  Ecru 912 
 
 ℹ️:
 
-- Forro de lona
-- Beige
-- Lona superior
 - Suela de goma
+- Beige
+- Forro de lona
 - Flatform
+- Lona superior
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00MYDQQ90/?tag=tolees-21)
