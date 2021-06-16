@@ -29,7 +29,7 @@ Tienes [Babaria Cotton - Gel de manos higienizante con 70% alcohol  1 unidad  10
 🔎:
 
 - Brand: BABARIA
-- Ingredientes seleccionados
 - Alta calidad
+- Ingredientes seleccionados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08G4W4GGC/?tag=tolees-21)

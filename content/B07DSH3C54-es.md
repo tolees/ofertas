@@ -28,10 +28,10 @@ Tienes [L OREAL - L Oréal Paris - Fond de Teint Fluide Infaillible 24h Fresh We
 
 🔎:
 
-- Colour: Radiant Vanilla 135
-- Longwear formula lasts up to 24hr.
 - Transfer-proof and waterproof
 - Ultra-stretchable gel formula
 - LOreal liquid foundation
+- Longwear formula lasts up to 24hr.
+- Colour: Radiant Vanilla 135
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DSH3C54/?tag=tolees-21)
