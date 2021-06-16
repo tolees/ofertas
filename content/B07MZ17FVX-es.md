@@ -28,7 +28,7 @@ Ahora mismo tienes [Vans Flying V Crew tee Camiseta  Blanco  White White   40  T
 
 🔎:
 
-- 100 % algodón
 - Camiseta de algodón pesado con gráfico en la parte delantera
+- 100 % algodón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MZ17FVX/?tag=tolees-21)

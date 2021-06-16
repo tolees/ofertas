@@ -28,10 +28,10 @@ En este momento está [adidas FLUIDSTREET  Zapatillas de Running Hombre  AZMATR/
 
 🔎:
 
-- Cierre de cordones
-- Zapatilla de running ligera
-- Diseño transpirable
-- Mediasuela Cloudfoam para una mayor amortiguación
 - Parte superior de malla
+- Cierre de cordones
+- Diseño transpirable
+- Zapatilla de running ligera
+- Mediasuela Cloudfoam para una mayor amortiguación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BX4K8NB/?tag=tolees-21)

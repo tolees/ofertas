@@ -28,9 +28,9 @@ Ahora mismo tienes [SOTYA - SOTYA Drena Form 10 ampollas](https://www.amazon.es/
 
 🔎:
 
-- De la marca Sotya
-- Ayuda a combatir la celulitis
 - Remedia la retención de líquidos
 - Dietas de adelgazamiento
+- Ayuda a combatir la celulitis
+- De la marca Sotya
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00HZTC2XM/?tag=tolees-21)
