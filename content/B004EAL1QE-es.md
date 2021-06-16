@@ -29,8 +29,8 @@ Está [Don Julio Blanco Tequila  700ml](https://www.amazon.es/dp/B004EAL1QE/?tag
 ℹ️:
 
 - Aroma nítido de agave combinado con cítricos y sabores dulces que ofrecen un final seco
+- Tequila Don Julio con sabor suave y dulce
 - El Tequila Don Julio Blanco es la base de la cual se derivan todas otras variantes
 - Se disfruta mejor en un margarita lujoso con néctar de agave, lima y hielo
-- Tequila Don Julio con sabor suave y dulce
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004EAL1QE/?tag=tolees-21)

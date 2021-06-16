@@ -28,7 +28,7 @@ Está [Lacoste PH4012  Polo Para Hombre  Azul  Ruisseau   X-Large  Talla del fab
 
 ℹ️:
 
-- Tapeta 2 botones
 - Slim fit
+- Tapeta 2 botones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01A6YFEQO/?tag=tolees-21)
