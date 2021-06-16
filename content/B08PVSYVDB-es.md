@@ -28,9 +28,9 @@ En este momento está [adidas Puremotion  Zapatillas de Running Mujer  NEGBÁS/N
 
 🔎:
 
-- Cierre de cordones
-- Tacto supersuave
 - Mediasuela Cloudfoam
+- Tacto supersuave
 - Parte superior textil
+- Cierre de cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PVSYVDB/?tag=tolees-21)

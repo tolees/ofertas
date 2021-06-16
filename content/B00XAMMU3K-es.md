@@ -28,10 +28,10 @@ En este momento está [Llongueras Optima Tinte de Cabello Permanente sin Amoniac
 
 🔎:
 
-- Formulada con una mezcla de ingredientes de origen natural certificado: aceite de macadamia y manteca de karité, para conseguir un cabello hidratado y brillante.
-- Coloración permanente sin amoniaco con cobertura 100% de canas y 5 semanas de duración. Sea cual sea el tipo de cabello incluso en canas difíciles. Coloración de larga duración, tanto como, una coloración con amoníaco.
-- Fragancia única, envolvente y duradera. Una fragancia fresca que evoca a hojas de té blanco y flores de azahar.
-- El mejor resultado respetando la fibra capilar gracias al concentrado de aceite de macadamia y manteca de karité y la ausencia de amoniacos.
 - Un ritual de belleza para tu cabello
+- Fragancia única, envolvente y duradera. Una fragancia fresca que evoca a hojas de té blanco y flores de azahar.
+- Formulada con una mezcla de ingredientes de origen natural certificado: aceite de macadamia y manteca de karité, para conseguir un cabello hidratado y brillante.
+- El mejor resultado respetando la fibra capilar gracias al concentrado de aceite de macadamia y manteca de karité y la ausencia de amoniacos.
+- Coloración permanente sin amoniaco con cobertura 100% de canas y 5 semanas de duración. Sea cual sea el tipo de cabello incluso en canas difíciles. Coloración de larga duración, tanto como, una coloración con amoníaco.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XAMMU3K/?tag=tolees-21)

@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jjecorp Logo Sweat Hood Noos Hombre  Gris  Light Grey Melan
 
 🔎:
 
-- Cotton mixture
 - Sweater with logo
+- Cotton mixture
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TP6JF4Q/?tag=tolees-21)

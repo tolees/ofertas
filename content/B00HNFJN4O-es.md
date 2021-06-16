@@ -28,8 +28,8 @@ Tienes [Energizer Alkaline Max E300112500 - Pila LR6  AA  Pack de 4](https://www
 
 🔎:
 
-- De larga duración destinada a proteger sus dispositivos de fugas dañinas
-- Energía fiable para sus dispositivos diarios
 - Lr6-aa 1.5v
+- Energía fiable para sus dispositivos diarios
+- De larga duración destinada a proteger sus dispositivos de fugas dañinas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HNFJN4O/?tag=tolees-21)

@@ -29,7 +29,7 @@ Está [Schwarzkopf Igora Royal 1-0  Color de Cabello  Negro  60 ml](https://www.
 ℹ️:
 
 - Género: Mujer
-- Marca: Schwarzkopf
 - Tipo de producto: Tinte
+- Marca: Schwarzkopf
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00ECVP6YI/?tag=tolees-21)
