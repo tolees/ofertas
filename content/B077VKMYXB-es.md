@@ -28,13 +28,13 @@ Ahora mismo tienes [Satisfyer Estimulador de Clítoris Pro G-Sport Rabbit - 1 Un
 
 🔎:
 
-- Recargable
 - Estimulación del punto G y del clítoris
-- Presión de aire y vibraciones
+- Impermeable
 - 11 velocidades de presión de aire
 - 2 motores
-- Silicona segura para el cuerpo
-- Impermeable
 - 10 ajustes de vibración
+- Presión de aire y vibraciones
+- Recargable
+- Silicona segura para el cuerpo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077VKMYXB/?tag=tolees-21)

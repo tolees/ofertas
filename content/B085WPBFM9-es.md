@@ -28,14 +28,14 @@ Tienes [Mr Muscle - Forza Desatascador Gel Power. Gel limpia tuberías. Desatasc
 
 🔎:
 
-- Efecto inmediato. Solo tarda 5 minutos en actuar
-- Elimina atascos en tuberías, fregaderos, lavabos y desagües causados por pelo, jabón y otros residuos
-- Seguro para las todo tipo de tuberías
-- Desatascador potente de tuberías. Funciona a través del agua estancada
-- Con la garantía de SCJohnson
-- Máxima eficacia incluso con los atascos más difíciles. Tres veces más eficaz que la lejía
-- Advertencia de seguridad: No utilizar junto con otros productos
-- Desincrusta las tuberías y elimina el mal olor
 - Di adiós a los atascos en las tuberías con Mr Muscle líquido desatascador
+- Desatascador potente de tuberías. Funciona a través del agua estancada
+- Máxima eficacia incluso con los atascos más difíciles. Tres veces más eficaz que la lejía
+- Con la garantía de SCJohnson
+- Elimina atascos en tuberías, fregaderos, lavabos y desagües causados por pelo, jabón y otros residuos
+- Efecto inmediato. Solo tarda 5 minutos en actuar
+- Desincrusta las tuberías y elimina el mal olor
+- Seguro para las todo tipo de tuberías
+- Advertencia de seguridad: No utilizar junto con otros productos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085WPBFM9/?tag=tolees-21)

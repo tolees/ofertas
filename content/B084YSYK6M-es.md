@@ -28,10 +28,10 @@ Está [Emporio Armani Reloj Analógico para Mujer de Cuarzo AR11290](https://www
 
 ℹ️:
 
-- Se envía en caja de regalo de Emporio Armani
-- Ancho de la correa: 12 mm; circunferencia de la correa: 175 +/-5 mm
 - Material de la correa: acero inoxidable
+- Se envía en caja de regalo de Emporio Armani
 - Sumergible: 5 atm
+- Ancho de la correa: 12 mm; circunferencia de la correa: 175 +/-5 mm
 - Grosor de la caja: 7 mm. Tamaño de la caja: 28 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084YSYK6M/?tag=tolees-21)
