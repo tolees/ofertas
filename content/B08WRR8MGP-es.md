@@ -28,10 +28,10 @@ En este momento está [OPPO - Band Sport  Pantalla AMOLED  12 modos deportivos  
 
 🔎:
 
-- Pantalla: 1.1 pulgadas Amoled. Pantalla curva y resistente a arañazos con + 40 pantallas customizables.
 - SP02: Monitorización continua de oxigenacion en sangre
-- 12 modos de ejercicios: Carrera Quema de grasas + 11 ejercicios comunes (Carrera exterior, Carrera interior, Paseo, Ciclismo exterior, Ciclismo interior, Elíptica, Remo, Cricket, Badminton, Natación, Yoga). Y graba las calorias y los pasos dados en el ejercicio.
+- Pantalla: 1.1 pulgadas Amoled. Pantalla curva y resistente a arañazos con + 40 pantallas customizables.
 - Resistencia al agua: 5 atm
+- 12 modos de ejercicios: Carrera Quema de grasas + 11 ejercicios comunes (Carrera exterior, Carrera interior, Paseo, Ciclismo exterior, Ciclismo interior, Elíptica, Remo, Cricket, Badminton, Natación, Yoga). Y graba las calorias y los pasos dados en el ejercicio.
 - Análisis del sueño: Monitoriza el sueño y te previene de apneas que se pueden producir.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WRR8MGP/?tag=tolees-21)

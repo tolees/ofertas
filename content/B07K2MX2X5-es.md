@@ -28,8 +28,8 @@ Tienes [adidas Runfalcon  Zapatillas de Running para Hombre  Gris  Grey Six/ Foo
 
 ℹ️:
 
+- Zapatillas de running
 - Empeine de malla y ante suave
 - Amortiguación
-- Zapatillas de running
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07K2MX2X5/?tag=tolees-21)
