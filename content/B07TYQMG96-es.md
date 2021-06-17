@@ -28,8 +28,8 @@ Está [Superga 2750-cotmetu  Zapatillas de Gimnasia Unisex Adulto  Marrón  Bron
 
 ℹ️:
 
-- Material exterior: tela
 - Forro: tela
 - Material de la suela: goma
+- Material exterior: tela
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TYQMG96/?tag=tolees-21)
