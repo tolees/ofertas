@@ -28,8 +28,8 @@ En este momento está [Monchhichi  Pack de 2 Figuras Blitz and Glitz  Toy Part
 
 🔎:
 
-- Set de 2 figuras con brazos y cabeza articulados.
 - Figuras de los malvados de la serie animada La Tribu de los Monchhichi.
 - Monchhichi
+- Set de 2 figuras con brazos y cabeza articulados.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0772PSHP8/?tag=tolees-21)

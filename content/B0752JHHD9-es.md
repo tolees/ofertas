@@ -28,7 +28,7 @@ Tienes [G-STAR RAW 3301 Slim Fit Vaqueros  Black Rinsed  30W / 36L para Hombre](
 
 🔎:
 
-- Elástico y estable.
 - Denim de peso medio de 10,2 oz.
+- Elástico y estable.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0752JHHD9/?tag=tolees-21)
