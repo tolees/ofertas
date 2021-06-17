@@ -28,10 +28,10 @@ En este momento está [Cecotec afeitadora Bamba PrecisionCare Multigrooming Pro.
 
 🔎:
 
-- Dispone de 1 peine ajustable para el pelo con 9 medidas entre 1 y 16 mm y 4 peines de 3-6-9-12 mm. Además de 1 peine ajustable para barba con 4 medidas entre 3-6 mm.
 - Con pantalla digital que indica el estado de la batería, tanto el porcentaje de carga cuando la estamos usando, como el porcentaje que resta para estar totalmente cargada durante la carga.
-- Función NonStop. Permite su uso en modo inalámbrico y modo con cable, permitiendo que nunca pierdas potencia y que siempre esté listo para usar.
-- Las cuchillas son de acero con revestimiento de titanio de alta calidad, Incorpora una batería de litio de 500 mAh. con carga de 90 minutos y una autonomía de 60 minutos.
+- Dispone de 1 peine ajustable para el pelo con 9 medidas entre 1 y 16 mm y 4 peines de 3-6-9-12 mm. Además de 1 peine ajustable para barba con 4 medidas entre 3-6 mm.
 - 5in1. Para cortar el cabello, barba y el pelo de nariz y orejas, además de para afeitado corporal perfecto. Diseñado con un IPX7, lo que permite usarlo bajo la ducha sin problemas, resistiendo perfectamente y facilitando la eliminación del vello.
+- Las cuchillas son de acero con revestimiento de titanio de alta calidad, Incorpora una batería de litio de 500 mAh. con carga de 90 minutos y una autonomía de 60 minutos.
+- Función NonStop. Permite su uso en modo inalámbrico y modo con cable, permitiendo que nunca pierdas potencia y que siempre esté listo para usar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082DH38QW/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Deportivas Mujer mustang | Deportivas Rossi 60022 | mustang Mujer | Depo
 
 ℹ️:
 
-- Material principal Sintetico
-- Tipo de cierre Cordones
-- Material de la suela De goma
 - Altura Tacón Alto (de 5 A 9 cm)
 - Tipo de tacón Cuña
+- Material de la suela De goma
+- Material principal Sintetico
+- Tipo de cierre Cordones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08HV5FTHD/?tag=tolees-21)

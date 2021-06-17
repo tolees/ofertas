@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Pang Adventures Buster  con un 50.03 % de descuento'
-date: 2021-06-14 11:16:30
+date: 2021-06-17 20:41:24
 image: 'https://m.media-amazon.com/images/I/51JMRjhJKUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B08GMRYXMT/?tag=tolees-21'
 descuento: '50.03'
-average: '15.468888888889'
+average: '15.1805263157896'
 ---
 
 En este momento está [Meridiem Games - Pang Adventures Buster Edition](https://www.amazon.es/dp/B08GMRYXMT/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [Meridiem Games - Pang Adventures Buster Edition](https://
 🔎:
 
 - Manual retro
-- Set de pegatinas
 - Carátula reversible
+- Set de pegatinas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GMRYXMT/?tag=tolees-21)

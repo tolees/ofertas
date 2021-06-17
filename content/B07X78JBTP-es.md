@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gearbox Publishing - Risk of Rain 2 con un 71.56 % de descuento'
-date: 2021-05-26 06:43:58
+date: 2021-06-17 20:36:29
 image: 'https://m.media-amazon.com/images/I/51laeCcXbGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gearbox Publishing'
 buyurl: 'https://www.amazon.es/dp/B07X78JBTP/?tag=tolees-21'
 descuento: '71.56'
-average: '10.2530303030303'
+average: '10.2441176470588'
 ---
 
 En este momento está [Gearbox Publishing - Risk of Rain 2](https://www.amazon.es/dp/B07X78JBTP/?tag=tolees-21) a 9.95 EUR (original: 34.99 EUR) (71.56 %  de descuento) en el siguiente enlace!
