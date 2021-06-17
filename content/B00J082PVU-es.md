@@ -28,10 +28,10 @@ Ahora mismo tienes [Invicta Aviator 17203 Reloj para Hombre Cuarzo - 47mm](https
 
 🔎:
 
-- El Invicta 17203 tiene una caja de acero inoxidable de 47 millimetros con una esfera amarilla
-- Resistencia a la presión de aqua de 30 bares
 - Este modelo es parte de la colección Invicta Aviator
-- Esta modelo funciona con un movimiento de Cuarzo preciso
 - 2 años de garantía Invicta
+- Resistencia a la presión de aqua de 30 bares
+- El Invicta 17203 tiene una caja de acero inoxidable de 47 millimetros con una esfera amarilla
+- Esta modelo funciona con un movimiento de Cuarzo preciso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00J082PVU/?tag=tolees-21)

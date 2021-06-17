@@ -28,9 +28,9 @@ Tienes [Invicta Aviator 19173 Reloj para Hombre Cuarzo - 48mm](https://www.amazo
 
 ℹ️:
 
-- 2 años de garantía Invicta
 - Este modelo es parte de la colección Invicta Aviator
 - El Invicta 19173 tiene una caja de acero inoxidable de 48 millimetros con una esfera azul
+- 2 años de garantía Invicta
 - Resistencia a la presión de aqua de 10 bares
 - Esta modelo funciona con un movimiento de Cuarzo preciso
 
