@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Descuento del 73.73 % en San Ignacio Galaxy - Sartén  diámetro de'
+date: 2021-06-17 10:07:16
+image: 'https://m.media-amazon.com/images/I/41EQphTEBjL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00WZ7F5TM-es San Ignacio Galaxy - Sartén diámetro de 24 cm'
+sku: 'B00WZ7F5TM-es'
+tags: [ 'Hogar y cocina','Menaje de cocina','Sartenes para freír','Sartenes y ollas','san ignacio', ]
+actualPrice: 14.45 EUR
+currency: EUR
+price: 14.45
+comparePrice: 55.0 EUR
+prodname: 'San Ignacio Galaxy - Sartén  diámetro de 24 cm'
+country: 'es'
+flag: '🇪🇸'
+brand: 'San Ignacio'
+buyurl: 'https://www.amazon.es/dp/B00WZ7F5TM/?tag=tolees-21'
+descuento: '73.73'
+average: '15.07'
+---
+
+Tienes [San Ignacio Galaxy - Sartén  diámetro de 24 cm](https://www.amazon.es/dp/B00WZ7F5TM/?tag=tolees-21) con un 73.73 % de descuento con precio de oferta de 14.45 EUR (original: 55.0 EUR) en el siguiente enlace!
+
+[![San Ignacio Galaxy - Sartén  diámetro de](https://m.media-amazon.com/images/I/41EQphTEBjL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00WZ7F5TM/?tag=tolees-21)
+
+ℹ️:
+
+- Antiadherente. Mango ergonómico de toque frío
+- Aluminio forjado: conduce el calor de forma rápida y uniforme. Ahorro de energía
+- Apta para todo tipo de fuegos, incluida la de inducción. Medidas: Ø24 x 5,4 cm
+- Compatible con todo tipo de cocina, incluyendo inducción. Distribución uniforme del calor.
+- Pensada para un uso intensivo
+
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00WZ7F5TM/?tag=tolees-21)

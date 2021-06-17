@@ -28,9 +28,9 @@ En este momento está [adidas Fef H Mini Football Set  Unisex niños  Victory Re
 
 🔎:
 
+- Pantalones cortos: 100% poliéster reciclado
 - Camiseta: 51% Poliéster, 49% Poliéster reciclado
 - Los pantalones cortos tienen cordón en la cintura elástica
 - Incluye un par de calcetines largos
-- Pantalones cortos: 100% poliéster reciclado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081K2GJD3/?tag=tolees-21)
