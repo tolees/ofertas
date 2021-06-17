@@ -28,11 +28,11 @@ En este momento está [Bright Starts  Alfombrilla de Juego con Cojín de apoyo -
 
 🔎:
 
-- Lindo sujetador de cuentas con forma de mariposa
-- Alfombrilla que puede lavarse en la lavadora
 - 2 FunLinks para sujetar los juguetes favoritos del bebé
 - Bebés recién nacidos o mayores
+- Lindo sujetador de cuentas con forma de mariposa
 - Sonajero con forma de flor que emite divertidos sonidos
+- Alfombrilla que puede lavarse en la lavadora
 - Almohada de apoyo extraíble para sostener al bebé a la hora de jugar sobre la pancita
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B015QVPSQ8/?tag=tolees-21)

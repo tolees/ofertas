@@ -28,8 +28,8 @@ Ahora mismo tienes [Skechers Uno- Stand On Air  Zapatillas Mujer  Negro  BLK Bla
 
 🔎:
 
-- Ligero.
 - Plantilla de espuma viscoelástica.
+- Ligero.
 - Estilo de tendencia.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JBBTFYJ/?tag=tolees-21)
