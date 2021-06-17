@@ -28,10 +28,10 @@ Tienes [Bourjois Healthy Mix Base de maquillaje Tono 51 Light  Color claro   - 2
 
 🔎:
 
+- Con polvos matificantes que proporcionan un aspecto suave y luminoso
 - Fórmula anti edad con una combinación de vitamina C con efecto antifatiga, vitamina e con acción antioxidante y vitamina B5 que tonifica la piel
 - Contiene derivados de ácido hialurónico que proporciona hasta 16 de hidratación
 - Base de maquillaje de cobertura media que proporciona un acabado luminoso y antifatiga
 - Apto para todo tipo de pieles, especialmente para pieles secas
-- Con polvos matificantes que proporcionan un aspecto suave y luminoso
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N4EGMTG/?tag=tolees-21)

@@ -29,8 +29,8 @@ Ahora mismo tienes [NIKE Revolution 5  Zapatillas Mujer  Negro  Black White Anth
 🔎:
 
 - Las plantillas Nike REVOLUTION 4 en la parte superior y en la puntera combinan materiales ligeros y acolchados con un diseño minimalista y ofrecen pies que siguen creciendo durante todo el día.
-- Los Pernos se aplanan en el impacto y luego Saltan de nuevo.
 - Este Efecto de catapulta proporciona una amortiguación sensible
+- Los Pernos se aplanan en el impacto y luego Saltan de nuevo.
 - Importado
 - Los tacos preformados proporcionan tracción en varias superficies
 
