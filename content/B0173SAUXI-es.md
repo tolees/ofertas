@@ -28,8 +28,8 @@ En este momento está [SELECTED HOMME - SELECTED Yard - Pantalones Para Hombre  
 
 🔎:
 
-- Chino
 - Pantalones chinos de Selected Home, de algodón.
 - La mejor alternativa a los vaqueros y sigue siendo el chino. Sencillo, sencillo y atemporal.
+- Chino
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0173SAUXI/?tag=tolees-21)

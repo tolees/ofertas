@@ -28,10 +28,10 @@ En este momento está [Educa - Preludio Nocturno Puzzle  6000 Piezas  Multicolor
 
 🔎:
 
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
-- Edad recomendada: a partir de 12 años
-- Número de piezas: 6.000, medida aproximada una vez montado: 156 x 107
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Número de piezas: 6.000, medida aproximada una vez montado: 156 x 107
+- Edad recomendada: a partir de 12 años
 - Serie Genuine
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L3TQ3XF/?tag=tolees-21)
