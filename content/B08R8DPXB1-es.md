@@ -28,10 +28,10 @@ Está [Econanos - Mascarilla De Protección Ffp2 Autofiltrante Color](https://ww
 
 ℹ️:
 
+- Con cómodo clip ajustable para la nariz y suaves cintas elásticas de sujección
 - 5 capas de material de filtrado de alto rendimiento que ofrecen máxima protección
+- Color negro también en el interior. (Ideales para usar con maquillaje)
 - Cumplen con el Reglamento Europeo 2016/425 para EPIs y el estándar europeo: EN 149:2001 + A1:2009
 - Embaladas en prácticas bolsas zip reutilizables
-- Color negro también en el interior. (Ideales para usar con maquillaje)
-- Con cómodo clip ajustable para la nariz y suaves cintas elásticas de sujección
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R8DPXB1/?tag=tolees-21)
