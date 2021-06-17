@@ -28,9 +28,9 @@ Está [LOTUS Analógico 18729/2](https://www.amazon.es/dp/B07W4CBTS1/?tag=tolees
 
 ℹ️:
 
-- Analógico para mujer
-- Producto de calidad
-- Lotus modelo reloj mk5970
 - Tipo de deporte: otros deportes
+- Lotus modelo reloj mk5970
+- Producto de calidad
+- Analógico para mujer
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W4CBTS1/?tag=tolees-21)

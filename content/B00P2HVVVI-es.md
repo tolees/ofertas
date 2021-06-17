@@ -28,10 +28,10 @@ Ahora mismo tienes [E LIFEXIR - Elifexir Actidren - Gel Relajante de Piernas | D
 
 🔎:
 
-- E’lifexir ACTIDREN es un gel fresco de rápida absorción que ayuda a reducir los líquidos acumulados aportando una profunda sensación de descanso y relajación al mismo tiempoque reduce rojeces e hidrata. Por su formulación e´lifexir ACTIDREN es perfecto en estados de retención de líquidos, cambios hormonales y durante el embarazo.
-- MODO DE EMPLEO: aplicar dos veces al día, mañana y noche. Extender con un suave y prolongado masaje ascendente, desde los tobillos hasta las ingles. Apto para embarazadas y periodo de lactancia
 - El calor, la ropa ajustada y sobre todo pasar muchas horas de pie, acaban originando el famoso síndrome de las piernas cansadas.
+- E’lifexir ACTIDREN es un gel fresco de rápida absorción que ayuda a reducir los líquidos acumulados aportando una profunda sensación de descanso y relajación al mismo tiempoque reduce rojeces e hidrata. Por su formulación e´lifexir ACTIDREN es perfecto en estados de retención de líquidos, cambios hormonales y durante el embarazo.
 - Ficaria ranunculoide y Uva: potente antioxidante que protege los tejidos, ayuda a reducir rojeces e hidrata la piel en profundidad.
+- MODO DE EMPLEO: aplicar dos veces al día, mañana y noche. Extender con un suave y prolongado masaje ascendente, desde los tobillos hasta las ingles. Apto para embarazadas y periodo de lactancia
 - Árnica y Ciprés: contienen flavonoides que mejoran la microcirculación reduciendo líquidos y toxinas retenidas. Aportan una sensación de descanso y relajación potenciada por la acción refrescante instantánea del gel.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00P2HVVVI/?tag=tolees-21)
