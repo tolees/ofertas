@@ -29,8 +29,8 @@ En este momento está [Jack & Jones JACFLOWER Trunks 3 Pack.Noos Boxers  Detalle
 🔎:
 
 - Forma anatómica correcta para mayor comodidad.
-- Tejido mixto resistente y flexible.
 - Materiales: 95% algodón, 5% elastano.
+- Tejido mixto resistente y flexible.
 - Pack de 3 calzoncillos tipo bóxer de tela vaquera.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0848QW3QT/?tag=tolees-21)

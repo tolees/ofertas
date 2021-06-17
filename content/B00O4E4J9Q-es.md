@@ -28,8 +28,8 @@ Tienes [PLAYMOBIL- Summer Fun Juego  Avión de Vacaciones  Multicolor  6081 ](ht
 
 🔎:
 
-- El tejado del avión se puede quitar
 - Desarrolla la imaginación y la creatividad
+- El tejado del avión se puede quitar
 - Juguete educativo que fomenta el juego simbólico
 - Con dos pasajeros y capitán
 

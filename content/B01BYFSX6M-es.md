@@ -29,9 +29,9 @@ Está [TECKNET Mini Ratón Inalámbrico Wireless Mouse Óptico  Omni 2.4G Ratón
 ℹ️:
 
 - INALÁMBRICO DE 2.4Hz: Una experiencia más segura y más precisa debido a su distancia de trabajo puede ser de hasta 10 metros. 3 niveles de DPI ajustables (800/1200/1600). Plug & Play sin instalación del controlador.
+- TECNOLOGÍA TRU-WAVE ÚNICA: Proporciona control de cursor preciso e inteligente en muchos tipos de superficies.
+- AMPLIA COMPATIBILIDAD: La forma cómoda y contorneada con agarres de goma suave proporciona comodidad para todo el día. Compatible con Windows XP, VISTA, 7, 8, 8.1, 10, Mac y Linux.
 - AHORRO DE ENERGÍA: Funciones de apagado automático para apagar el mouse si el receptor Nano USB está desconectado o la PC está apagada, lo que puede ofrecer hasta 18 meses de duración de la batería con una sola batería AA (batería no incluida). También tiene un indicador de nivel de batería.
 - DISEÑADO PARA SER DE BOLSILLO: Puede llevar el mouse a cualquier parte; tome su computadora portátil con su diseño de bolsillo compacto (102 * 62 * 36 mm). Y se ha resistido a una prueba de 5 millones de clics para probar su durabilidad.
-- AMPLIA COMPATIBILIDAD: La forma cómoda y contorneada con agarres de goma suave proporciona comodidad para todo el día. Compatible con Windows XP, VISTA, 7, 8, 8.1, 10, Mac y Linux.
-- TECNOLOGÍA TRU-WAVE ÚNICA: Proporciona control de cursor preciso e inteligente en muchos tipos de superficies.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BYFSX6M/?tag=tolees-21)

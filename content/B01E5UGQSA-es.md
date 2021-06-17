@@ -28,10 +28,10 @@ Tienes [Lacoste Sport Carnaby EVO BL 1 SPW  Zapatillas para Mujer  Blanco  Wht  
 
 ℹ️:
 
-- Cocodrilo verde clásico
 - Empeine de piel y material sintético
-- Forro de malla y patrón de suela de inspiración deportiva
 - Forro de material textil
+- Forro de malla y patrón de suela de inspiración deportiva
 - Suela de goma
+- Cocodrilo verde clásico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01E5UGQSA/?tag=tolees-21)

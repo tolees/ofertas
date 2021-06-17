@@ -28,9 +28,9 @@ Ahora mismo tienes [Mustang Selva  Zapatillas Deportivas Mujer  PU Taupe  36 EU]
 
 🔎:
 
-- Brand: mustang
 - Sintetico
 - Alta calidad
 - Tipo de cierre: Cordones
+- Brand: mustang
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HVLZJS2/?tag=tolees-21)

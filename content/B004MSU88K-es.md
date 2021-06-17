@@ -28,10 +28,10 @@ En este momento está [Invicta Pro Diver 6895 Reloj para Mujer Cuarzo - 30mm](ht
 
 🔎:
 
+- El Invicta 6895 tiene una caja de acero inoxidable de 30 millimetros con una esfera blanco
+- Este modelo es parte de la colección Invicta Pro Diver
 - 2 años de garantía Invicta
 - Esta modelo funciona con un movimiento de Cuarzo preciso
-- Este modelo es parte de la colección Invicta Pro Diver
-- El Invicta 6895 tiene una caja de acero inoxidable de 30 millimetros con una esfera blanco
 - Resistencia a la presión de aqua de 10 bares
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004MSU88K/?tag=tolees-21)

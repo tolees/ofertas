@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch 2 608 602 655 - Disco de corte de  con un 51.08 % de descuento'
-date: 2021-06-15 17:43:10
+date: 2021-06-17 08:34:15
 image: 'https://m.media-amazon.com/images/I/514c9dBN4lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [Bosch 2 608 602 655 - Disco de corte de diamante Best for
 
 🔎:
 
-- Altura del segmento mm: 15
 - Ancho de corte mm: 2,4
+- Altura del segmento mm: 15
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0053PWIYI/?tag=tolees-21)
