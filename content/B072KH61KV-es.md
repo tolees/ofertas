@@ -28,10 +28,10 @@ Está [adidas City Racer W  Zapatillas de Deporte Mujer  Negro  Negbas/Ftwbla/Su
 
 ℹ️:
 
-- Material Parte Superior: Sintético.
-- Propósito: Universal
-- Corte: halfshoes
-- Temporada: todo el año
 - Material de la suela: sintético.
+- Material Parte Superior: Sintético.
+- Temporada: todo el año
+- Corte: halfshoes
+- Propósito: Universal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072KH61KV/?tag=tolees-21)

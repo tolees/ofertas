@@ -28,9 +28,9 @@ Tienes [Adidas Samba  Zapatillas de Fútbol Hombre  Negro  Black/Running White  
 
 ℹ️:
 
-- Capucha forrada.
-- Bolsillos canguro.
-- Ventilación Climacool.
 - Manga larga con puños de canalé.
+- Capucha forrada.
+- Ventilación Climacool.
+- Bolsillos canguro.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000LKSEBQ/?tag=tolees-21)

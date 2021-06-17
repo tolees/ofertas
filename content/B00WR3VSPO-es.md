@@ -28,10 +28,10 @@ En este momento está [Skechers Equalizer-Double Play  Zapatillas sin Cordones H
 
 🔎:
 
-- Forro: Textil
-- Ajuste Ancho: Estándar
-- Cierre: Sin Cordones
-- Empeines: Malla Textil
 - Fabricante Code: 51509
+- Forro: Textil
+- Empeines: Malla Textil
+- Cierre: Sin Cordones
+- Ajuste Ancho: Estándar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00WR3VSPO/?tag=tolees-21)
