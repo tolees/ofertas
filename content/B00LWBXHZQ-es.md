@@ -28,10 +28,10 @@ Tienes [Orbegozo SFA 7000 – Ventilador nebulizador / humidificador con mando a
 
 ℹ️:
 
-- Mando a distancia incorporado
+- Depósito del humidificador de 1.5 litros
 - Panel de control con iluminación LED, base con ruedas pivotantes para un desplazamiento más sencillo y cómodo.
 - Ventilador nebulizador Orbegozo SFA 7000 con altura regulable de hasta 130 cm, función oscilante y cabezal orientable con aspas de 40 cm de diámetro
+- Mando a distancia incorporado
 - Temporizador de apagado de 1 a 9 horas
-- Depósito del humidificador de 1.5 litros
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LWBXHZQ/?tag=tolees-21)
