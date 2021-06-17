@@ -1,32 +1,34 @@
 ---
 layout: post
-title: 'Descuento del 78.66 % en Superga 2750 COTU Classic  Zapatillas Un'
-date: 2020-05-05 12:05:38
-image: 'https://m.media-amazon.com/images/I/31F2a+02d7L._SL400_.jpg'
+title: 'Descuento del 35.93 % en Superga 2750 COTU Classic Sneakers  Zapa'
+date: 2021-06-17 11:14:40
+image: 'https://m.media-amazon.com/images/I/31F2a+02d7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00HVTVNSQ-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Beige...'
+slug: 'B00HVTVNSQ-es Superga 2750 COTU Classic Sneakers Zapatillas Unisex...'
 sku: 'B00HVTVNSQ-es'
-tags: [  ]
-actualPrice: 12.59 EUR
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','superga', ]
+actualPrice: 37.8 EUR
 currency: EUR
-price: 12.59
+price: 37.8
 comparePrice: 59.0 EUR
-prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Beige  Ivory   35 EU'
+prodname: 'Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto  Ivory  35 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B00HVTVNSQ/?tag=tolees-21'
-descuento: '78.66'
-average: '18.240000000000002'
+descuento: '35.93'
+average: '24.76'
 ---
 
-Tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Beige  Ivory   35 EU](https://www.amazon.es/dp/B00HVTVNSQ/?tag=tolees-21) con un 78.66 % de descuento con precio de oferta de 12.59 EUR (original: 59.0 EUR) en el siguiente enlace!
+Tienes [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto  Ivory  35 EU](https://www.amazon.es/dp/B00HVTVNSQ/?tag=tolees-21) con un 35.93 % de descuento con precio de oferta de 37.8 EUR (original: 59.0 EUR) en el siguiente enlace!
 
-[![Superga 2750 COTU Classic  Zapatillas Un](https://m.media-amazon.com/images/I/31F2a+02d7L._SL400_.jpg)](https://www.amazon.es/dp/B00HVTVNSQ/?tag=tolees-21)
+[![Superga 2750 COTU Classic Sneakers  Zapa](https://m.media-amazon.com/images/I/31F2a+02d7L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00HVTVNSQ/?tag=tolees-21)
 
 ℹ️:
 
+- Disponible en varios colores.
+- Caucho natural.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HVTVNSQ/?tag=tolees-21)

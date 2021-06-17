@@ -28,9 +28,9 @@ Tienes [DIM Bragas de niña estampadas y cómodas Pack x3 Azul Talla 08](https:/
 
 ℹ️:
 
-- Braguitas para niña
-- Muy cómodas
 - Pack de 3 unidades
 - Algodón
+- Braguitas para niña
+- Muy cómodas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06XQ3G65G/?tag=tolees-21)

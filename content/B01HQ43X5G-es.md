@@ -28,10 +28,10 @@ Tienes [Bolero Bebida Instantánea sin Azúcar  Sabor Jengibre - Paquete de 24 x
 
 ℹ️:
 
-- Alérgenos: sin gluten, sin lactosa, sin huevo, sin frutos secos
-- Disolver cada sobre en 1.5 L de agua
-- Edulcorado con Stevia
-- Bebida instantánea en polvo sin azúcar y con vitamina C. Baja en calorías y en carbohidratos
 - Sin conservantes artificiales. Saborizantes y colorantes de origen natural
+- Alérgenos: sin gluten, sin lactosa, sin huevo, sin frutos secos
+- Bebida instantánea en polvo sin azúcar y con vitamina C. Baja en calorías y en carbohidratos
+- Edulcorado con Stevia
+- Disolver cada sobre en 1.5 L de agua
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01HQ43X5G/?tag=tolees-21)

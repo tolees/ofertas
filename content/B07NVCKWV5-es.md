@@ -28,10 +28,10 @@ Tienes [nanoblock NBDB-005 Nanoblock-NBDB-005-Dragon Dragon Ball Z Raditz Juguet
 
 ℹ️:
 
-- Para niños a partir de 12 años y adultos.
-- Juguete y diversión para grandes y pequeños.
 - Puzzle 3D en formato micro, juego de bloques de construcción.
-- Dragon Ball - Asiento para bicicleta
+- Juguete y diversión para grandes y pequeños.
+- Para niños a partir de 12 años y adultos.
 - Para principiantes, profesionales, para rompecabezas ocasionales y coleccionistas entusiastas.
+- Dragon Ball - Asiento para bicicleta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NVCKWV5/?tag=tolees-21)

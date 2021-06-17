@@ -28,8 +28,8 @@ Tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Lt Grey 506  35 EU]
 
 ℹ️:
 
-- Material: Lino
 - Colección: 2013.
+- Material: Lino
 - Cierre: cordones.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CQJWEOS/?tag=tolees-21)

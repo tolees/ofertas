@@ -28,9 +28,9 @@ Tienes [Adidas Samba Classic  Schwarz-weiÃ  Zapatillas de Fútbol Hombre  Negro
 
 🔎:
 
-- Cintura elástica con cordón.
-- Bolsillos frontales con cremallera.
 - Cremalleras en los puños.
+- Bolsillos frontales con cremallera.
 - Visera curvada.
+- Cintura elástica con cordón.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000G4NKAC/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Star Ibaby - Cuna de bebe Babify Little Bear - 8 posiciones de somier - 
 
 🔎:
 
-- ✅ El somier se puede colocar en varias posiciones para que la cuna se adapte perfectamente al crecimiento del niño. Seguro de cierre con bloqueo. Medidas de la cuna 120 x 60 cm
-- ✅ La Cuna Babify Little Bear es la cuna ideal para tu bebé.
 - ✅ Si te interesa mover la cuna de un lado al otro de la casa la cuna Babify incluye 4 ruedas con freno.
 - ✅ Desde el nacimiento hasta los 3 años. Cuna de bebé de madera de haya alta calidad con cantos redondeados.
+- ✅ La Cuna Babify Little Bear es la cuna ideal para tu bebé.
+- ✅ El somier se puede colocar en varias posiciones para que la cuna se adapte perfectamente al crecimiento del niño. Seguro de cierre con bloqueo. Medidas de la cuna 120 x 60 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HBCYHM4/?tag=tolees-21)

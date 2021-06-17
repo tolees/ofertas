@@ -28,10 +28,10 @@ En este momento está [Adaptador Bluetooth  iAmotus USB Bluetooth 4.0 + EDR Mini
 
 🔎:
 
-- Compatibilidad: iAmotus adaptador es compatible con Windows XP / Vista / 7/8 / 8.1 / 10, adecuado para PC, portátil, mouse, altavoz, auriculares, impresora, mouse, teclado, etc. No para Mac, ni para radio de automóvil o TV.
 - Transmisión Estable y Bajo Consumo de Energía: Adaptador Bluetooth admite una velocidad de transmisión máxima de 3 Mbps y una distancia de transmisión de 10 a 20 m en un espacio abierto. Aplique la última tecnología Bluetooth 4.0 (EDR) de bajo consumo para proporcionar funcionalidad Bluetooth a su computadora.
-- Plug and Play: Windows 10 puede utilizar directamente la función plug and play de este dongle sin instalar ningún controlador externo. Win 7/8 necesita instalar el controlador (incluido el CD) (enlace del controlador http://suo.im/5lU9Uc).
 - Almacenamiento Automático: Dongle tiene la función de almacenamiento automático. Después de la primera conexión, los inicios posteriores se conectarán automáticamente al dispositivo sin repetir los tediosos pasos.
+- Plug and Play: Windows 10 puede utilizar directamente la función plug and play de este dongle sin instalar ningún controlador externo. Win 7/8 necesita instalar el controlador (incluido el CD) (enlace del controlador http://suo.im/5lU9Uc).
+- Compatibilidad: iAmotus adaptador es compatible con Windows XP / Vista / 7/8 / 8.1 / 10, adecuado para PC, portátil, mouse, altavoz, auriculares, impresora, mouse, teclado, etc. No para Mac, ni para radio de automóvil o TV.
 - Extremadamente Compacto: Pequeño y compacto, lo que le permite dejarlo en su computadora portátil o PC sin desmontarlo, y se puede insertar sin problemas en la computadora / computadora portátil sin bloquear los puertos USB circundantes, lo que ahorra espacio y evita pérdidas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01J3AMITS/?tag=tolees-21)
