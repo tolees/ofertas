@@ -29,9 +29,9 @@ Ahora mismo tienes [SteelSeries Sensei Ten - Ratón de Juego - Sensor Óptico Tr
 🔎:
 
 - Cómodo diseño ambidiestro ergonómico para jugadores zurdos y diestros
-- Hecho con materiales hiperduraderos diseñados con polímeros de alta calidad para una mayor durabilidad
-- 60 millones de clics en teclas mecánicas que garantizan una sensación de nitidez desde el primer clic hasta el último
-- Sensor óptico para juegos TrueMove Pro con seguimiento avanzado real 1 a 1
 - Memoria integrada para ahorrar velocidad de sondeo, conmutación y hasta 5 CPI directamente en el ratón
+- Sensor óptico para juegos TrueMove Pro con seguimiento avanzado real 1 a 1
+- 60 millones de clics en teclas mecánicas que garantizan una sensación de nitidez desde el primer clic hasta el último
+- Hecho con materiales hiperduraderos diseñados con polímeros de alta calidad para una mayor durabilidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XV18DM7/?tag=tolees-21)

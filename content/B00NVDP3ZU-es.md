@@ -28,15 +28,15 @@ En este momento está [LEGO 10696 Classic Caja de Ladrillos Creativos Med
 
 🔎:
 
-- Contiene 18 neumáticos y 18 llantas.
-- Incluye un amplio surtido de ladrillos LEGO en 35 colores diferentes.
-- Ideas incluidas con el set y disponibles en LEGO.com/classic para ayudarte a dar tus primeros pasos.
-- LEGO Classic ha sido diseñado para dar rienda suelta a la creatividad por medio del ladrillo LEGO.
-- Las numerosas ruedas facilitan la creación de vehículos y el juego con los mismos.
-- Las piezas especiales fomentan la construcción imaginativa.
-- Piezas especiales incluidas: base verde de 8 cm x 16 cm, una ventana con marco y 3 pares de ojos.
 - Viene en una útil caja de almacenamiento de plástico.
+- Ideas incluidas con el set y disponibles en LEGO.com/classic para ayudarte a dar tus primeros pasos.
+- Piezas especiales incluidas: base verde de 8 cm x 16 cm, una ventana con marco y 3 pares de ojos.
 - La base verde mide más de 8 cm de longitud y 16 cm de ancho.
+- Las numerosas ruedas facilitan la creación de vehículos y el juego con los mismos.
+- Incluye un amplio surtido de ladrillos LEGO en 35 colores diferentes.
+- LEGO Classic ha sido diseñado para dar rienda suelta a la creatividad por medio del ladrillo LEGO.
 - Todos los modelos ilustrados se pueden construir simultáneamente a partir de este set.
+- Contiene 18 neumáticos y 18 llantas.
+- Las piezas especiales fomentan la construcción imaginativa.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00NVDP3ZU/?tag=tolees-21)
