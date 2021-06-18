@@ -29,7 +29,7 @@ Tienes [PUMA Women s Printed Mini Short  2 Pack  Ropa Interior  Negro Combo  S p
 🔎:
 
 - Pantalones cortos
-- Suave al tacto.
 - De media altura, máxima cobertura.
+- Suave al tacto.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089QN6Z9M/?tag=tolees-21)

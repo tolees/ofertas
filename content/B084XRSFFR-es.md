@@ -28,9 +28,9 @@ Tienes [Sveon SDT8400 - Sintonizador TDT2 HD con Funciones de Grabación](https:
 
 🔎:
 
+- Incluye mando a distancia y manual en español
 - Hdmi, euroconector/scart, coaxial, entrada y salida de antena
 - Con puerto usy botones frontales, además de display
-- Incluye mando a distancia y manual en español
 - Con búsqueda automática de canales y grabación en puerto ushost
 - Sintonizador tdt2 hd con funciones de grabación y reproductor multimedia
 

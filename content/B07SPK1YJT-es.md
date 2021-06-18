@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tamron SP 35Mm F1.4 Di Usd Canon al 39.73 % de descuento'
-date: 2021-06-03 15:46:32
+date: 2021-06-18 08:27:17
 image: 'https://m.media-amazon.com/images/I/3165PHC-R2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Tamron SP 35Mm F1.4 Di Usd Canon](https://www.amazon.es/dp/B07SPK1YJT/?ta
 
 ℹ️:
 
-- Ideal para prácticamente todos los géneros fotográficos incluyendo fotoperiodismo, paisajes, deportes, callejera, fotos de bodas y fotografía casual
-- Af rápido y excepcionalmente exacto
-- Diseñado para formato completo
 - Espectacular bokeh
+- Af rápido y excepcionalmente exacto
+- Ideal para prácticamente todos los géneros fotográficos incluyendo fotoperiodismo, paisajes, deportes, callejera, fotos de bodas y fotografía casual
+- Diseñado para formato completo
 - Revestimiento bbar-g2 de nueva generación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SPK1YJT/?tag=tolees-21)
