@@ -28,8 +28,8 @@ En este momento está [adidas Continental 80  Sneaker Hombre  Footwear White/Foo
 
 🔎:
 
-- Cordones de zapatos
 - Suela de goma
 - Corte regular
+- Cordones de zapatos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PP7QQ3S/?tag=tolees-21)

@@ -29,7 +29,7 @@ Ahora mismo tienes [adidas SAMBAROSE W  Zapatillas Deportivas Mujer  Core Black 
 🔎:
 
 - Zapatillas deportivas
-- Platform suela añade 3 cm de altura
 - Empeine de piel
+- Platform suela añade 3 cm de altura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PPCF1B7/?tag=tolees-21)

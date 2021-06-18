@@ -28,10 +28,10 @@ En este momento está [Syoss - Espuma Rizos Flex  2uds de 250ml  500ml   Rizos P
 
 🔎:
 
-- Marca desarrollada y probada con peluqueros; Productos para peinados duraderos como de peluquería
-- Con la espuma fijadora Rizos Flex de Syoss, consigue unos rizos perfectamente definidos y controlados
 - Ayuda a proteger el cabello del calor del secador
-- Modo de aplicación: agitar bien el envase y colocar hacia abajo; Aplicar una dosis de espuma en la palma de la mano y repartir sobre el cabello húmedo
+- Marca desarrollada y probada con peluqueros; Productos para peinados duraderos como de peluquería
 - Cuida tu cabello con efecto antiencrespamiento; Aporta 100% de flexibilidad y se elimina fácilmente con el cepillado
+- Modo de aplicación: agitar bien el envase y colocar hacia abajo; Aplicar una dosis de espuma en la palma de la mano y repartir sobre el cabello húmedo
+- Con la espuma fijadora Rizos Flex de Syoss, consigue unos rizos perfectamente definidos y controlados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NRF2FS8/?tag=tolees-21)

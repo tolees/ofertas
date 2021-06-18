@@ -28,8 +28,8 @@ Tienes [Pantene Micelar Purifica Y Revitaliza Champº 270 Ml - 270 ml.](https://
 
 ℹ️:
 
+- Champú Cuidado del cabello Hombre
 - Productos para el cuidado del cabello Pantene
 - (8001090560162)
-- Champú Cuidado del cabello Hombre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0795NKZDG/?tag=tolees-21)

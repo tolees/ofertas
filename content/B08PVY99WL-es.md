@@ -28,9 +28,9 @@ Tienes [adidas Solar Glide 3 W  Zapatillas de Running Mujer  FTWBLA/Plamet/CARFR
 
 🔎:
 
+- Parte superior de malla
 - Cierre de cordones
 - Refuerzo a lo largo de la mediasuela
 - Mediasuela Boost
-- Parte superior de malla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PVY99WL/?tag=tolees-21)
