@@ -28,9 +28,9 @@ Ahora mismo tienes [Seki Slim - Mando a Distancia Universal  Color Naranja y Ama
 
 🔎:
 
+- Construido con 10 elementos en 8 grupos
 - Revestimiento repelente de agua
 - El grupo óptico posterior cuenta con un elemento SD, que reduce el número de elementos del diseño óptico
 - Objectivo FishEye para Canon, con distancia focal de 10-17 mm y abertura máxima f/3.5-f
-- Construido con 10 elementos en 8 grupos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004W2VFME/?tag=tolees-21)
