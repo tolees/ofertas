@@ -28,10 +28,10 @@ Está [Orbegozo PW 1445 - Ventilador industrial Power Fan  6 velocidades de vent
 
 ℹ️:
 
-- Aspas metálicas de 45 centímetros de diámetro
-- Motor de 120 w de potencía con 6 velocidades de ventilación en las que destacan su posición silent y turbo
 - Posición modo silencioso para un descanso pleno sin ruidos
-- Asa de transporte, rejilla de protección y recogecables para un uso más cómodo
 - Ventilador industrial power fan con inclinación regulable
+- Asa de transporte, rejilla de protección y recogecables para un uso más cómodo
+- Motor de 120 w de potencía con 6 velocidades de ventilación en las que destacan su posición silent y turbo
+- Aspas metálicas de 45 centímetros de diámetro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DTH6YHP/?tag=tolees-21)
