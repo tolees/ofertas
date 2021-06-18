@@ -28,10 +28,10 @@ Ahora mismo tienes [Orbegozo PW 1332 1332-Ventilador industrial Power Fan  3 vel
 
 🔎:
 
-- Ventilador industrial Power Fan PW 1332 de 45 W de potencia
 - Asa de transporte y rejilla de seguridad
-- Aspas metálicas con diámetro de 30 cm
-- Base estable e inclinación regulable
 - Tres velocidades de ventilación que aportan un gran caudal de aire
+- Base estable e inclinación regulable
+- Aspas metálicas con diámetro de 30 cm
+- Ventilador industrial Power Fan PW 1332 de 45 W de potencia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071F2KKCJ/?tag=tolees-21)
