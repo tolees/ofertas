@@ -28,8 +28,8 @@ En este momento está [Tommy Hilfiger Core Straight Chino GMD Flex Pantalones  B
 
 🔎:
 
-- Dos bolsillos ribeteados en la cadera
-- Logo de Tommy Hilfiger bordado encima del bolsillo trasero
 - Dos bolsillos traseros con botón
+- Logo de Tommy Hilfiger bordado encima del bolsillo trasero
+- Dos bolsillos ribeteados en la cadera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FC56J8S/?tag=tolees-21)

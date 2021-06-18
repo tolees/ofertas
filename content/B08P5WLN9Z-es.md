@@ -28,10 +28,10 @@ Tienes [U&I Entertainment - Hotshot Racing](https://www.amazon.es/dp/B08P5WLN9Z/
 
 🔎:
 
-- Atrapa el derrape: el impulso se recarga cuando el jugador derrapa
-- Conduce o explota: en este modo cada coche lleva una bomba; si bajas de cierta velocidad, bum
-- Incluye big boss bundle (en disco): nuevos modos “llueven barriles” y “nivel jefe del gran premio”
 - Los ases del volante: 8 adictos a la velocidad
+- Conduce o explota: en este modo cada coche lleva una bomba; si bajas de cierta velocidad, bum
 - Un impulso necesario: consigue impulso derrapando y yendo a rebufo
+- Incluye big boss bundle (en disco): nuevos modos “llueven barriles” y “nivel jefe del gran premio”
+- Atrapa el derrape: el impulso se recarga cuando el jugador derrapa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08P5WLN9Z/?tag=tolees-21)

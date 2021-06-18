@@ -29,9 +29,9 @@ Tienes [Square Enix - FINAL FANTASY X | X-2 HD Remaster](https://www.amazon.es/d
 ℹ️:
 
 - Sonido: los jugadores podrán elegir entre el sonido original y el nuevo sonido arreglado
+- Actualizaciones gráficas para un entorno más envolvente
 - Modelos mejorados para cada personaje
 - Gráficos actualizados y restaurados para conseguir texturas más realistas y con más detalles en comparación con el juego original
 - Horas de juego aproximadamente: 40-50 por título, 100 si se procura completar diversos objetivos en el juego
-- Actualizaciones gráficas para un entorno más envolvente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07M85NTYX/?tag=tolees-21)
