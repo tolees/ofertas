@@ -28,10 +28,10 @@ En este momento está [Skechers Energy-Retro Vision  Sandalias con Punta Cerrada
 
 🔎:
 
-- cuero liso superior
-- suela de goma flexible de tracción
-- Clásico de encaje hasta caminar deportivo estilo y diseño de la zapatilla de deporte de formación
-- Acolchado plantilla comodidad
 - altura del talón 1 1/2 pulgadas
+- suela de goma flexible de tracción
+- cuero liso superior
+- Acolchado plantilla comodidad
+- Clásico de encaje hasta caminar deportivo estilo y diseño de la zapatilla de deporte de formación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WKP3R3J/?tag=tolees-21)
