@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Originals Superstar  Zapatillas D con un 56.05 % de descuento'
-date: 2021-05-24 08:28:31
+date: 2021-06-18 15:31:50
 image: 'https://m.media-amazon.com/images/I/41aHuiple8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [adidas Originals Superstar  Zapatillas Deportivas Hombre 
 
 🔎:
 
-- Parte superior de cuero
-- Zapatilla clásica de cuero
 - Cordones de zapatos
+- Zapatilla clásica de cuero
+- Parte superior de cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0813TYLBD/?tag=tolees-21)
