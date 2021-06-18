@@ -28,10 +28,10 @@ Ahora mismo tienes [Rpanle Ratón Gaming con Cable  3 DPI Adjustables Hasta 3200
 
 🔎:
 
-- 【Alta precisión 3200 DPI】 Con 3 niveles de DPI ajustable (3200, 2400, 1600), la velocidad del mouse se puede cambiar libremente.
 - 【Diseño ergonómico】 El diseño ergonómico y el acabado mate suave brindan una experiencia increíble y garantizan un ajuste cómodo entre el dedo y el mango.
 - 【Amplia compatibilidad 】Plug and play, no requiere controlador. Ampliamente compatible con Windows 10, Windows 8, Windows 7, Windows XP, Vista, Mac, etc.
-- 【7 botones】 (Avance / retroceso, DPI - / +, tecla derecha / izquierda y rueda de desplazamiento) Ratón USB para juegos con cable. Use el botón de avance / retroceso para moverse rápidamente entre documentos o navegar por sus sitios web favoritos, proporcionándole una experiencia de usuario agradable.
 - 【Manifestación visual de luz de cuatro colores】Este ratón para portátil viene con 4 luces de ciclo de color (rojo, púrpura, azul, rosado) . Ajuste fácilmente diferentes modos de iluminación con el botón DPI - / +, logre el mejor modo de ajuste para usted.
+- 【7 botones】 (Avance / retroceso, DPI - / +, tecla derecha / izquierda y rueda de desplazamiento) Ratón USB para juegos con cable. Use el botón de avance / retroceso para moverse rápidamente entre documentos o navegar por sus sitios web favoritos, proporcionándole una experiencia de usuario agradable.
+- 【Alta precisión 3200 DPI】 Con 3 niveles de DPI ajustable (3200, 2400, 1600), la velocidad del mouse se puede cambiar libremente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08RZ78YR2/?tag=tolees-21)

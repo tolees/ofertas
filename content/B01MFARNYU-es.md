@@ -28,7 +28,7 @@ Está [Lacoste PH4012 T-Shirt Polo  Baobab  XL Uomo](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Slim fit
 - Tapeta 2 botones
+- Slim fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MFARNYU/?tag=tolees-21)
