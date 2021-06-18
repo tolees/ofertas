@@ -29,7 +29,7 @@ En este momento está [Unbekannt - Pala para Carbón](https://www.amazon.es/dp/B
 🔎:
 
 - Longitud total: aproximadamente 45 cm
-- Color: Negro
 - Material: Metal con mango de madera
+- Color: Negro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003YYWZVQ/?tag=tolees-21)

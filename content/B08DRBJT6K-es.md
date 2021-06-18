@@ -28,11 +28,11 @@ Está [USAopoly- Star Wars Dark Side Rising  20001082180 ](https://www.amazon.es
 
 ℹ️:
 
+- 2 a 4 jugadores
+- Cartas y dados ilustrados
+- Licencia oficial
 - Caja ilustrada
 - Versión en español
 - Incluye figura
-- Licencia oficial
-- 2 a 4 jugadores
-- Cartas y dados ilustrados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DRBJT6K/?tag=tolees-21)

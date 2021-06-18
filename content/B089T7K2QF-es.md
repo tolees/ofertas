@@ -28,8 +28,8 @@ Ahora mismo tienes [Dockers Smart 360 Tech Cargo Short Pantalones cortos  Crocod
 
 🔎:
 
-- Cool (absorción de humedad), transpirable
 - BCI, impermeable
+- Cool (absorción de humedad), transpirable
 - Smart 360 Tech Cargo - Pantalones cortos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089T7K2QF/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Vans Filmore Suede Canvas  Zapatillas Hombre  Dress Blues/Vintage Indigo 
 
 ℹ️:
 
-- Material de la suela: Goma
 - Cierre: Cordones
+- Material de la suela: Goma
+- Tipo de tacón: Plano
 - Material exterior: Cuero
 - Revestimiento: Tela
-- Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BN1XGD6/?tag=tolees-21)
