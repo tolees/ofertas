@@ -28,10 +28,10 @@ Tienes [Albatros 2551MILANO Set de 4 sillas de Comedor  Negro](https://www.amazo
 
 🔎:
 
-- Materiales: estructura de acero y piel sintética. Dimensiones: ver ilustración
-- Comodidad: estas sillas son muy cómodas (¡lo más importate para una buena silla!).
-- El juego de sillas MILANO te lleva el encanto de Italia a la mesa del comedor! Elegante y práctico: no hay mejor manera de describir las características de este set de sillas MILANO
 - El moderno diseño de las sillas completa de maravilla sus prácticos detalles:
 - Las sillas son súper ligeras (muy prácticas para el día a día y perfectas para los niños). - Fundas resistentes de cuero artificial (fáciles de lavar).
+- El juego de sillas MILANO te lleva el encanto de Italia a la mesa del comedor! Elegante y práctico: no hay mejor manera de describir las características de este set de sillas MILANO
+- Comodidad: estas sillas son muy cómodas (¡lo más importate para una buena silla!).
+- Materiales: estructura de acero y piel sintética. Dimensiones: ver ilustración
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014DVNYGS/?tag=tolees-21)
