@@ -29,9 +29,9 @@ Ahora mismo tienes [Botanica by Air Wick Vela aromática – Fragancia de magnol
 🔎:
 
 - Contenido del envío: 6 velas aromáticas Botanica by Air Wick con aroma de magnolia y vainilla
-- La vela aromática Botanica está disponible en varias variantes aromáticas y proporciona una duración de combustión de hasta 40 h para una experiencia aromática especialmente duradera y natural en cualquier hogar
-- Botanica by Air Wick - Inspirado en la naturaleza: el vaso de vela reciclado relleno de cera natural crea una atmósfera de bienestar natural en cualquier habitación
-- Suministro responsable: los aceites esenciales de la magnolia se fabrican en Yunnan, una provincia china del Himalaya oriental, responsable en pequeñas cantidades
 - La vela aromática difunde el auténtico aroma de magnolia y vainilla fina. La tapa mantiene los aceites esenciales hasta que se enciende, para un mejor control de la fragancia
+- Botanica by Air Wick - Inspirado en la naturaleza: el vaso de vela reciclado relleno de cera natural crea una atmósfera de bienestar natural en cualquier habitación
+- La vela aromática Botanica está disponible en varias variantes aromáticas y proporciona una duración de combustión de hasta 40 h para una experiencia aromática especialmente duradera y natural en cualquier hogar
+- Suministro responsable: los aceites esenciales de la magnolia se fabrican en Yunnan, una provincia china del Himalaya oriental, responsable en pequeñas cantidades
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081NBN7TC/?tag=tolees-21)
