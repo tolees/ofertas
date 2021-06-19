@@ -28,8 +28,8 @@ En este momento está [Adidas Adilette Comfort  Slide Sandal Hombre  Negro  Core
 
 🔎:
 
-- Diseño del deslizamiento
 - Correa de poliuretano de secado rápido
+- Diseño del deslizamiento
 - Adilette para el uso diario
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073RKV8C8/?tag=tolees-21)

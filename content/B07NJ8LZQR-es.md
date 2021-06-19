@@ -28,12 +28,12 @@ En este momento está [Amazon Basics - Guillotina de papel giratoria  A4](https:
 
 🔎:
 
-- Corta hasta 10 hojas de papel de 80 g/m² a la vez
-- Abrazadera de sujeción transparente para cortes consistentes en cada uso
-- Tamaño: A4
-- Ideal para hogares, oficinas, escuelas y mucho más
 - Cuchilla de corte giratoria de precisión
 - Base metálica resistente, duradera y ligera
+- Corta hasta 10 hojas de papel de 80 g/m² a la vez
+- Tamaño: A4
+- Ideal para hogares, oficinas, escuelas y mucho más
 - Para cortar papel, fotos y documentos laminados
+- Abrazadera de sujeción transparente para cortes consistentes en cada uso
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NJ8LZQR/?tag=tolees-21)

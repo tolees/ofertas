@@ -28,8 +28,8 @@ Tienes [ASICS Lyte Classic  Zapatillas para Correr Hombre  White Aizuri Blue  46
 
 ℹ️:
 
-- Zapatillas deportivas
 - Estilo clásico
+- Zapatillas deportivas
 - Tecnología de gel para absorción de impactos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MJT5XKL/?tag=tolees-21)

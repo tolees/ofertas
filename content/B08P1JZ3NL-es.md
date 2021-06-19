@@ -28,10 +28,10 @@ En este momento está [adidas RUNFALCON 2.0 K  Zapatillas de Running Unisex Adul
 
 🔎:
 
-- Cierre de cordones
-- Forro textil
 - Mediasuela de EVA
 - Diseño ligero
+- Forro textil
 - Parte superior textil
+- Cierre de cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08P1JZ3NL/?tag=tolees-21)
