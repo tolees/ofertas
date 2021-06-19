@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA Classics Sleeveless Body Bodysuit  Mujer  White  M](htt
 
 🔎:
 
-- Cuello redondo
-- BCI: La asociación de PUMA con la Iniciativa del Mejor Algodón (Better Cotton Initiative) para mejorar el cultivo de algodón a nivel global
-- Sin mangas
 - Logotipo PUMA Archive en el centro del pecho
 - Corte ceñido
+- Sin mangas
+- BCI: La asociación de PUMA con la Iniciativa del Mejor Algodón (Better Cotton Initiative) para mejorar el cultivo de algodón a nivel global
+- Cuello redondo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086QG2LCQ/?tag=tolees-21)
