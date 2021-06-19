@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PACK X4 Old Spice Captain Desodorante en al 38.72 % de descuento'
-date: 2021-06-18 11:25:17
+date: 2021-06-19 16:22:50
 image: 'https://m.media-amazon.com/images/I/41aLQClKymL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Old Spice'
 buyurl: 'https://www.amazon.es/dp/B08J4W6M7H/?tag=tolees-21'
 descuento: '38.72'
-average: '9.24857142857143'
+average: '9.16266666666667'
 ---
 
 Ahora mismo tienes [PACK X4 Old Spice Captain Desodorante en Barra para Hombres  50 ml](https://www.amazon.es/dp/B08J4W6M7H/?tag=tolees-21) a 7.96 EUR (original: 12.99 EUR) (38.72 %  de descuento) en el siguiente enlace!
