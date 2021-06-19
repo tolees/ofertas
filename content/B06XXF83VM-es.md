@@ -28,7 +28,7 @@ En este momento está [New Balance 574 Core  Zapatillas Hombre  Black Iris  36 E
 
 🔎:
 
-- Material exterior: Cuero
 - Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XXF83VM/?tag=tolees-21)

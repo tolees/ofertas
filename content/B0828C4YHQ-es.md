@@ -28,11 +28,11 @@ Tienes [Geox D Chloo Mid B  Pump Mujer  Negro  39.5 EU](https://www.amazon.es/dp
 
 🔎:
 
-- Revestimiento: Cuero
 - Cierre: Sin cierre
 - Anchura del zapato: Normal
-- Material exterior: Cuero
+- Revestimiento: Cuero
 - Material de la suela: Sintético
+- Material exterior: Cuero
 - Tipo de talla: Los zapatos Geox son holgados
 - Tipo de tacón: Bloque
 - Altura del tacón: 4 centímetros
