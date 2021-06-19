@@ -29,8 +29,8 @@ Ahora mismo tienes [HP Envy Photo 7830 Y0G50B  Impresora Multifunción Tinta A4 
 🔎:
 
 - Imprime a doble cara de forma automática, escanea, fotocopia y envia por fax fotografías y documentos con colores uniformes; la velocidad de impresión es de 15 ppm en negro y de 10 ppm en color
-- La impresora cuenta con una bandeja de entrada principal con capacidad de hasta 125 hojas, una bandeja de fotografías de 15 hojas, una bandeja de salida de hasta 25 hojas y un AAD de 35 hojas
 - Esta impresora es compatible con los cartuchos de inyección de tinta originales HP 303 Negro, HP 303 Tricolor y viene con 4 meses incluidos del servicio automático de tinta HP Instant Ink
+- La impresora cuenta con una bandeja de entrada principal con capacidad de hasta 125 hojas, una bandeja de fotografías de 15 hojas, una bandeja de salida de hasta 25 hojas y un AAD de 35 hojas
 - Dispone de una conectividad fiable gracias a la conexión Wi-Fi de doble banda con restablecimiento automático, Wi-Fi Direct, Ethernet, USB 2.0 de alta velocidad, HP Smart App, Apple AirPrint y Mopria
 - Con la aplicación HP Smart podrás imprimir, escanear, copiar y compartir en todo momento tus documentos y fotografías con resultados de gran calidad cómodamente desde tu móvil
 

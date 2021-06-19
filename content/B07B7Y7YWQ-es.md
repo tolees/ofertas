@@ -28,10 +28,10 @@ Ahora mismo tienes [Trust Gaming GXT 845 Tural - Set de Teclado y ratón Gaming 
 
 🔎:
 
-- Diseño de tamaño completo. Iluminación LED de 3 colores con nivel de brillo ajustable
-- Interruptor de modo de juego; desactive la tecla de Windows directamente
 - Botón de selección de velocidad [1000-3200 ppp]. 6 botones de respuesta
-- Iluminación con 7 LED de colores
 - Función contra el efecto fantasma: con hasta 8 pulsaciones de tecla simultáneas. 12 teclas multimedia de acceso directo
+- Diseño de tamaño completo. Iluminación LED de 3 colores con nivel de brillo ajustable
+- Iluminación con 7 LED de colores
+- Interruptor de modo de juego; desactive la tecla de Windows directamente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B7Y7YWQ/?tag=tolees-21)

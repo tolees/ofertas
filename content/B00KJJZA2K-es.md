@@ -28,10 +28,10 @@ Ahora mismo tienes [Vans Y Atwood - Zapatillas para niños  Color Army/Negro  Ta
 
 🔎:
 
-- Canvas uppers
-- Lace fastenings
 - Textile linings
 - Waffle rubber soles
 - Padded tongue and ankles
+- Lace fastenings
+- Canvas uppers
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00KJJZA2K/?tag=tolees-21)

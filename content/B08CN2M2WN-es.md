@@ -28,10 +28,10 @@ Ahora mismo tienes [Desigual PU Body Bag  Bolsa para cuerpo de Across para Mujer
 
 🔎:
 
-- 2 compartimentos con cremallera
 - Flores y cenefas bordadas
 - Estilo urbano
-- Estilo moderno
 - Bolso bandolera, diseño
+- Estilo moderno
+- 2 compartimentos con cremallera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CN2M2WN/?tag=tolees-21)

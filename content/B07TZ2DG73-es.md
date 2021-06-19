@@ -28,10 +28,10 @@ En este momento está [PUPOUSE - Lupa con 13 luces LED – 128 mm gran lupa de l
 
 🔎:
 
-- ▶ Lupa LED: con 12 luces LED de alta calidad y una luz UV. El sistema de lupa también proporciona una luminosidad adicional para garantizar una mejor experiencia de lectura en general. Esto es especialmente útil para las personas con degeneración macular o hipervisión.
 - ▶ Ampliación alta: esta lupa ofrece un aumento de 30 aumentos, lo que permite a los usuarios con visión reducida independientemente del tamaño del texto.
-- ▶ Cristal acrílico pulido de 125 mm. El aumento es de aproximadamente 30 veces (dependiendo de los diferentes ángulos y espacios). Ideal para mejorar la lectura y visualización de detalles muy finos en libros, periódicos, revistas, fotografías, mapas, electrónica, miniaturas, joyas, botellas de pastillas, medicamentos, pasatiempos, modelos y manualidades de todo tipo.
 - ▶ Regalo perfecto para los ancianos: excelente lupa para personas mayores, excelente para pequeñas impresiones en vales, medicamentos sujetos a prescripción y para leer cómodamente. Una gran opción para cualquier persona que tenga problemas visuales o trastornos visuales.
+- ▶ Cristal acrílico pulido de 125 mm. El aumento es de aproximadamente 30 veces (dependiendo de los diferentes ángulos y espacios). Ideal para mejorar la lectura y visualización de detalles muy finos en libros, periódicos, revistas, fotografías, mapas, electrónica, miniaturas, joyas, botellas de pastillas, medicamentos, pasatiempos, modelos y manualidades de todo tipo.
+- ▶ Lupa LED: con 12 luces LED de alta calidad y una luz UV. El sistema de lupa también proporciona una luminosidad adicional para garantizar una mejor experiencia de lectura en general. Esto es especialmente útil para las personas con degeneración macular o hipervisión.
 - ▶ Fácil de usar: viene totalmente montado y solo requiere 2 pilas AA (no incluidas). Una vez instaladas las pilas, la lupa está lista para usar y es ideal para personas mayores o personas que necesitan un sistema de aumento intuitivo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TZ2DG73/?tag=tolees-21)
