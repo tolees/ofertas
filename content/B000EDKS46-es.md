@@ -1,37 +1,34 @@
 ---
 layout: post
-title: 'Converse Schuhe Chuck Taylor All Star OX al 46.23 % de descuento'
-date: 2021-05-31 02:44:07
-image: 'https://m.media-amazon.com/images/I/41vZWykDWBL._SL500_._SL400_.jpg'
+title: 'Converse All Star Ox Canvas Zapatillas N al 46.48 % de descuento'
+date: 2021-06-19 02:55:19
+image: 'https://m.media-amazon.com/images/I/5147ys86z3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B000EDKS46-es Converse Schuhe Chuck Taylor All Star OX Black M9166C 36...'
+slug: 'B000EDKS46-es Converse All Star Ox Canvas Zapatillas Negras-UK 3.5 / EU 36'
 sku: 'B000EDKS46-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','converse', ]
-actualPrice: 40.19 EUR
+actualPrice: 40.0 EUR
 currency: EUR
-price: 40.19
+price: 40.0
 comparePrice: 74.74 EUR
-prodname: 'Converse Schuhe Chuck Taylor All Star OX Black  M9166C  36 Schwarz'
+prodname: 'Converse All Star Ox Canvas Zapatillas Negras-UK 3.5 / EU 36'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B000EDKS46/?tag=tolees-21'
-descuento: '46.23'
-average: '44.375'
+descuento: '46.48'
+average: '42.9483333333333'
 ---
 
-Está [Converse Schuhe Chuck Taylor All Star OX Black  M9166C  36 Schwarz](https://www.amazon.es/dp/B000EDKS46/?tag=tolees-21) con 46.23 de descuento por 40.19 EUR (original: 74.74 EUR) en el siguiente enlace!
+Está [Converse All Star Ox Canvas Zapatillas Negras-UK 3.5 / EU 36](https://www.amazon.es/dp/B000EDKS46/?tag=tolees-21) con 46.48 de descuento por 40.0 EUR (original: 74.74 EUR) en el siguiente enlace!
 
-[![Converse Schuhe Chuck Taylor All Star OX](https://m.media-amazon.com/images/I/41vZWykDWBL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B000EDKS46/?tag=tolees-21)
+[![Converse All Star Ox Canvas Zapatillas N](https://m.media-amazon.com/images/I/5147ys86z3L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B000EDKS46/?tag=tolees-21)
 
 ℹ️:
 
-- All Star Patch auf der Zunge
-- Der Chuck Taylor All Star OX für Damen und Herren von Converse ist ein Sneaker für Alltag und Freizeit.
-- Canvas - atmungsaktiv und windabweisend
-- Lüftungslöcher an der Seite
-- All Star Gummi-Patch an der Ferse
+- Genuine Product
+- Authorised Stockist
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000EDKS46/?tag=tolees-21)
