@@ -28,9 +28,9 @@ Tienes [Corsair Vengeance Performance - Módulo de Memoria de 16 GB  2 x 8 GB  S
 
 🔎:
 
-- Factor de forma: 260-pin SO-DIMM
-- Memoria interna: 16 GB
 - Tipo de memoria: DDR4 SDRAM
 - Voltaje: 1.2 voltios
+- Memoria interna: 16 GB
+- Factor de forma: 260-pin SO-DIMM
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019MRBKYG/?tag=tolees-21)
