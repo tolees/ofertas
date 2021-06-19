@@ -28,8 +28,8 @@ Está [adidas Swift Run X  Sneaker Hombre  Core Black/Core Black/Core Black  44 
 
 ℹ️:
 
-- Corte regular
-- Cordones de zapatos
 - Suela de goma
+- Cordones de zapatos
+- Corte regular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LL75YS1/?tag=tolees-21)

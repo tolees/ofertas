@@ -28,9 +28,9 @@ En este momento está [Mustang Selva  Zapatillas Deportivas Mujer  PU Taupe  37 
 
 🔎:
 
-- Brand: mustang
-- Alta calidad
 - Tipo de cierre: Cordones
+- Alta calidad
+- Brand: mustang
 - Sintetico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HVGHL78/?tag=tolees-21)
