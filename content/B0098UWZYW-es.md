@@ -28,8 +28,8 @@ En este momento está [Metaltex 732845 Tapadera para microondas con Salida de Va
 
 🔎:
 
+- Medidas Ø26x6,5 cm
 - Color: Transparente
 - Material: Plástico
-- Medidas Ø26x6,5 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0098UWZYW/?tag=tolees-21)

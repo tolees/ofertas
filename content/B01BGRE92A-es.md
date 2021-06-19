@@ -30,8 +30,8 @@ Ahora mismo tienes [Nostalgic-Art Recipiente para Alimentos  Multicolore](https:
 
 - ATRACTIVA E IDEAL COMO REGALO: caja de almacenamiento de tamaño 10 x 14 x 20 cm, con tapa completamente extraíble y de cierre firme
 - REGALO BULLI: para fans des Volkswagen Transporter, excelente y colorida impresión de la más alta calidad
-- LICENCIATARIO OFICIAL: producto original con licencia «Designed in Berlin»
 - NOS GUSTA LO RETRO: bote de diseño nostálgico con acabado de barniz mate y motivo en relieve por todo el contorno
+- LICENCIATARIO OFICIAL: producto original con licencia «Designed in Berlin»
 - PRÁCTICA Y SÓLIDA: lata de metal apta para alimentos con 3 l de capacidad, ideal como lata de café y para guardar provisiones, alimentos secos y aperitivos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BGRE92A/?tag=tolees-21)

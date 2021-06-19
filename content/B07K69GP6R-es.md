@@ -28,9 +28,9 @@ Está [adidas Condivo18 SHO Pantalones Cortos de Deporte  Hombre  Clear Grey/Bla
 
 ℹ️:
 
-- Pantalón corto deportivo para hombre
 - Confeccionado en un tejido transpirable
 - Tiene cintura elástica con cordón
 - Diseño de corte clásico que se adapta al cuerpo cómodamente
+- Pantalón corto deportivo para hombre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K69GP6R/?tag=tolees-21)

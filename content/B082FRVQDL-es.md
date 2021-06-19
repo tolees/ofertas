@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Rocks: Queen-Freddie Mercury  al 38.28 % de descuento'
-date: 2021-06-15 10:37:53
+date: 2021-06-19 07:27:12
 image: 'https://m.media-amazon.com/images/I/41XqUjSS5zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B082FRVQDL/?tag=tolees-21'
 descuento: '38.28'
-average: '16.7205882352941'
+average: '16.4438888888889'
 ---
 
 Ahora mismo tienes [Funko- Pop Rocks: Queen-Freddie Mercury Radio Gaga Figura Coleccionable  Multicolor  33735 ](https://www.amazon.es/dp/B082FRVQDL/?tag=tolees-21) a 11.74 EUR (original: 19.02 EUR) (38.28 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Funko- Pop Rocks: Queen-Freddie Mercury Radio Gaga Figura Co
 
 🔎:
 
-- De Queen, Freddie Mercury Radio Gaga, como un vinilo POP estilizado de Funko
 - Echa un vistazo a las otras figuras de la Reina de Funko Collect todos
-- Funko POP es el juguete 2018 Peoples Choice del año
 - La figura mide 9 cm y viene en una caja expositora para ventana
+- Funko POP es el juguete 2018 Peoples Choice del año
+- De Queen, Freddie Mercury Radio Gaga, como un vinilo POP estilizado de Funko
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082FRVQDL/?tag=tolees-21)
