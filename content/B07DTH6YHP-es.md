@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo PW 1445 - Ventilador industrial al 36.59 % de descuento'
-date: 2021-06-18 08:25:48
+date: 2021-06-19 10:54:50
 image: 'https://m.media-amazon.com/images/I/51KzoGpDjNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Orbegozo'
 buyurl: 'https://www.amazon.es/dp/B07DTH6YHP/?tag=tolees-21'
 descuento: '36.59'
-average: '49.8633333333333'
+average: '48.795'
 ---
 
 Está [Orbegozo PW 1445 - Ventilador industrial Power Fan  6 velocidades de ventilación  asa de transporte  rejilla de seguridad  inclinación regulable  120 W](https://www.amazon.es/dp/B07DTH6YHP/?tag=tolees-21) con 36.59 de descuento por 45.59 EUR (original: 71.9 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Orbegozo PW 1445 - Ventilador industrial Power Fan  6 velocidades de vent
 
 ℹ️:
 
+- Motor de 120 w de potencía con 6 velocidades de ventilación en las que destacan su posición silent y turbo
 - Posición modo silencioso para un descanso pleno sin ruidos
 - Ventilador industrial power fan con inclinación regulable
-- Asa de transporte, rejilla de protección y recogecables para un uso más cómodo
-- Motor de 120 w de potencía con 6 velocidades de ventilación en las que destacan su posición silent y turbo
 - Aspas metálicas de 45 centímetros de diámetro
+- Asa de transporte, rejilla de protección y recogecables para un uso más cómodo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DTH6YHP/?tag=tolees-21)

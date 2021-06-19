@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BAUSCH + LOMB - SofLens® Daily disposabl con un 59.24 % de descuento'
-date: 2021-06-17 16:01:21
+date: 2021-06-19 10:43:03
 image: 'https://m.media-amazon.com/images/I/41H2ml00HKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [BAUSCH + LOMB - SofLens® Daily disposable - Lentes de co
 
 🔎:
 
+- Material: Hilafilcon B con contenido de agua del 59%
 - Estas lentes están diseñadas para uso diario y deben desecharse después de cada utilización.
 - Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión.
 - Una vez extraída la lente debe desecharse.
-- Material: Hilafilcon B con contenido de agua del 59%
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0018CXWLS/?tag=tolees-21)
