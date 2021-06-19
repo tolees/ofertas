@@ -28,10 +28,10 @@ Ahora mismo tienes [Skechers Sure Track-Erath-II  Zapatillas Mujer  Negro  Blk B
 
 🔎:
 
+- Cierre: cordones
 - Material exterior: cuero
-- Material Interior: Textil
 - Composición Del Material: Cuero Liso
 - Ancho de zapato: normal
-- Cierre: cordones
+- Material Interior: Textil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0794PRFY2/?tag=tolees-21)
