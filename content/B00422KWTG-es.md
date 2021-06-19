@@ -28,10 +28,10 @@ Ahora mismo tienes [Medisana FTC Termómetro clínico digital para bebés  niño
 
 🔎:
 
-- Función de memoria: Gracias a su función de memoria, el termómetro clínico guarda el resultado de la medición y lo muestra brevemente en la pantalla la próxima vez que se encienda
-- Fácil de limpiar: El FTC se limpia fácilmente después de la medición. Para limpiarlo se utiliza un paño empapado en una solución alcohólica suave.
-- Apagado automático: El resultado se muestra después de aprox. 60 segundos. El FTC se apaga automáticamente después de 8 minutos
 - Alarma de fiebre: Si el termómetro mide una temperatura superior a 37,7 °C, sonará una alarma de fiebre en forma de diez pitidos triples.
+- Apagado automático: El resultado se muestra después de aprox. 60 segundos. El FTC se apaga automáticamente después de 8 minutos
 - Medición precisa: El termómetro clínico FTC permite medir de forma precisa en tres partes del cuerpo. Oral (bajo la lengua), axilar (en la axila) y rectal (en el ano)
+- Fácil de limpiar: El FTC se limpia fácilmente después de la medición. Para limpiarlo se utiliza un paño empapado en una solución alcohólica suave.
+- Función de memoria: Gracias a su función de memoria, el termómetro clínico guarda el resultado de la medición y lo muestra brevemente en la pantalla la próxima vez que se encienda
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00422KWTG/?tag=tolees-21)

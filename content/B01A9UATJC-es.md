@@ -28,10 +28,10 @@ Tienes [HORI - PlayStand Zelda  Nintendo Switch / Switch Lite ](https://www.amaz
 
 🔎:
 
-- Se pliega al completo para una portabilidad total
 - Licencia oficial de Nintendo
 - Base y respaldo con botones de goma antideslizantes para una experiencia de juego sin sobresaltos
-- Carga sin dejar de jugar: el puerto USB-C queda completamente accesible
+- Se pliega al completo para una portabilidad total
 - 3 ángulos distintos para ajustarse a cada situación de juego
+- Carga sin dejar de jugar: el puerto USB-C queda completamente accesible
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01A9UATJC/?tag=tolees-21)

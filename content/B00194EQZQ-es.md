@@ -28,10 +28,10 @@ Tienes [Dr. Martens 1460 - Botas Militares de Mujer  Negro  Black Leather   49.5
 
 🔎:
 
-- Tipo de tacón: Plano
-- Material exterior: cuero
 - Adecuado para: unisex
 - Cierre: cordones
+- Tipo de tacón: Plano
 - Material de la suela: goma
+- Material exterior: cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00194EQZQ/?tag=tolees-21)
