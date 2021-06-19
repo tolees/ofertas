@@ -28,11 +28,11 @@ Tienes [Imetec Ducati GK 808 Circuit  Kit Recortador de Barba y Pelo  13 en 1 pa
 
 🔎:
 
-- Contiene kit de mantenimiento y limpieza y una funda blanda de viaje
-- Recarga rápida en 90 minutos y autonomía de uso de 60 minutos
 - Cuchillas revestidas con titanio: precisión, resistencia a la corrosión y larga duración
-- 33 regulaciones de corte, de 0, 6 a 12 mm, con precisión de hasta 0, 3 mm
+- Recarga rápida en 90 minutos y autonomía de uso de 60 minutos
 - Estilo más adecuado para: male
 - Cordero plus cordless: funciona tanto conectado a la red eléctrica como con batería
+- 33 regulaciones de corte, de 0, 6 a 12 mm, con precisión de hasta 0, 3 mm
+- Contiene kit de mantenimiento y limpieza y una funda blanda de viaje
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079ZLVGKL/?tag=tolees-21)

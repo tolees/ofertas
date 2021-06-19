@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Box Tab Cap Gorra  Negro  Regular al 40.25 % de descuento'
-date: 2021-06-18 18:06:33
+date: 2021-06-19 18:50:56
 image: 'https://m.media-amazon.com/images/I/31rfs7L4knL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07SRY49R1/?tag=tolees-21'
 descuento: '40.25'
-average: '13.95'
+average: '13.55'
 ---
 
 Está [Levi s Box Tab Cap Gorra  Negro  Regular Black 59   Talla única  Talla del Fabricante: UN  para Hombre](https://www.amazon.es/dp/B07SRY49R1/?tag=tolees-21) con 40.25 de descuento por 11.95 EUR (original: 20.0 EUR) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [Levi s Box Tab Cap Gorra  Negro  Regular Black 59   Talla única  Talla d
 ℹ️:
 
 - Ojales transpirables
-- Visera precurvada
 - Logotipo cuadricular de Levis bordado en el frontal
 - Tira ajustable en la parte trasera
+- Visera precurvada
 - Información sobre el tamaño del sombrero: Ajustable - La tira trasera permite adaptarse a la mayoría de tallas cómodamente hasta los 61 cm.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SRY49R1/?tag=tolees-21)

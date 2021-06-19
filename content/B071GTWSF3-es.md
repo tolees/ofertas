@@ -28,8 +28,8 @@ En este momento está [Guess Analógico W0799G4](https://www.amazon.es/dp/B071GT
 
 🔎:
 
-- 8 milimetros calendario - -
 - Analógico para Unisex Adulto
 - Guess Modelo Reloj W0799G4
+- 8 milimetros calendario - -
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071GTWSF3/?tag=tolees-21)

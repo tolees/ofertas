@@ -29,13 +29,13 @@ Ahora mismo tienes [Geox D Jaysen A  Zapatillas Mujer  Rosa  Rose Gold/Skin Ch8A
 🔎:
 
 - Tipo de talla: Los zapatos Geox son holgados
+- Tipo de tacón: Plano
+- Composición: Cuero
+- Material de la suela: Sintético
+- Cierre: Cordones
 - Material exterior: Cuero
 - Anchura del zapato: Normal
-- Tipo de tacón: Plano
-- Revestimiento: Malla
 - Altura del tacón: 3 centímetros
-- Cierre: Cordones
-- Material de la suela: Sintético
-- Composición: Cuero
+- Revestimiento: Malla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07STLY2S7/?tag=tolees-21)

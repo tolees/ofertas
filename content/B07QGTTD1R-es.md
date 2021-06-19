@@ -28,10 +28,10 @@ Está [Proster - Multímetro Digital 6000 Cuentas TRMS Polimetro Rango Auto/Manu
 
 ℹ️:
 
-- 【Pantalla LCD Grande de 3 líneas de Lectura】La pantalla LCD grande de triple línea puede mostrar 3 resultados de prueba en la pantalla, como voltaje, frecuencia y barra analógica, con Luz de fondo para facil lectura y linterna en el superior.
 - 【Función de Aviso de Alto Voltaje】Cuando el voltaje de medición es mayor que 80V o la corriente de medición es mayor que 1A, la luz de fondo de color naranja se encenderá, lo que transmite un aviso a tiempo a los usuarios a tener cuidado.
+- 【6000 Cuentas True RMS Multimetro】Este Multímetro de rango Automático y Manuel TRMS 6000 cuenta puede medir temperatura, capacitancia, diodo, continuidad, NCV (detección de voltaje de CA sin contacto), Ohm, Hz, ciclo de trabajo, voltaje AC / CC, corriente AC / CC, etc. Se diseña una apariencia de mejor agarre, detalles ergonomicos, soporte en el posterior.
 - 【Luz Indicadora de Entrada】Cuando se enciende o se cambia la función, la luz de entrada correspondiente parpadea para indicar al usuario que inserte el puerto de entrada de la sonda.
 - 【Cables de Pinzas Cocodrilo de 5 Colores】Los cables de prueba de 5 colores son útiles para hacer un seguimiento de los cables cuando se prueban varias cosas, lo que le ayuda a distinguir uno de otro visualmente. Los cables de cocodrilo son útiles para la mayoría de los trabajos de electrónica ligera, como experimentos, empastes, prototipos o diagnóstico de interruptores de seguridad defectuosos.
-- 【6000 Cuentas True RMS Multimetro】Este Multímetro de rango Automático y Manuel TRMS 6000 cuenta puede medir temperatura, capacitancia, diodo, continuidad, NCV (detección de voltaje de CA sin contacto), Ohm, Hz, ciclo de trabajo, voltaje AC / CC, corriente AC / CC, etc. Se diseña una apariencia de mejor agarre, detalles ergonomicos, soporte en el posterior.
+- 【Pantalla LCD Grande de 3 líneas de Lectura】La pantalla LCD grande de triple línea puede mostrar 3 resultados de prueba en la pantalla, como voltaje, frecuencia y barra analógica, con Luz de fondo para facil lectura y linterna en el superior.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QGTTD1R/?tag=tolees-21)
