@@ -29,10 +29,10 @@ Tienes [Panasonic KXTU456  Teléfono Móvil para Mayores  Pantalla Color TFT 2.4
 🔎:
 
 - Duración batería en reposo 600hs
-- Función llamada prioritaria: en caso de emergencia, pulsa un botón y el dispositivo llamará automáticamente a tus personas indicadas, se activará el altavoz, por lo que podrás hablar incluso sin sostener el teléfono
-- Teléfono móvil con tapa, tipo "concha" resistente a golpes y caídas accidentales
-- Botones iluminados de gran tamaño: su diseño intuitivo permite marcar los números de manera fácil, incluso en la oscuridad
 - Pantalla de 2.4 pulgadas para una fácil lectura, gracias a su brillante pantalla permite una buena visión incluso sin gafas
+- Función llamada prioritaria: en caso de emergencia, pulsa un botón y el dispositivo llamará automáticamente a tus personas indicadas, se activará el altavoz, por lo que podrás hablar incluso sin sostener el teléfono
+- Botones iluminados de gran tamaño: su diseño intuitivo permite marcar los números de manera fácil, incluso en la oscuridad
+- Teléfono móvil con tapa, tipo "concha" resistente a golpes y caídas accidentales
 - Compatibilidad con audífonos: te permite disfrutar de conversaciones que se escuchan con claridad en todo momento, está diseñado especialmente para su uso con audífonos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RPZ4GG9/?tag=tolees-21)

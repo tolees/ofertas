@@ -28,10 +28,10 @@ Tienes [Oxford Heft 384401628/100050314 - Cuaderno de hojas rayadas A4  colores 
 
 ℹ️:
 
-- Con esquinas redondeadas para evitar la formación de burros
-- Papel óptico de 90 g/m²
-- 16 hojas
 - Diseño 28, cuadriculado con borde doble
 - Formato DIN A4
+- 16 hojas
+- Con esquinas redondeadas para evitar la formación de burros
+- Papel óptico de 90 g/m²
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000KTCLLC/?tag=tolees-21)

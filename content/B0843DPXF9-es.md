@@ -28,8 +28,8 @@ Tienes [Levi s XX Chino Slim II Khakis  Mineral Black Shady GD Ccu B  38W / 34L 
 
 🔎:
 
-- Ver descripción del producto para obtener más información.
-- Levis Negro XX Slim Chinos
 - A estrenar y genuina. Somos un vendedor autorizado de Levis.
+- Levis Negro XX Slim Chinos
+- Ver descripción del producto para obtener más información.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0843DPXF9/?tag=tolees-21)

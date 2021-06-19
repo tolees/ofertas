@@ -28,9 +28,9 @@ Tienes [Goobuy - Gasea Detector Humedad de Madera  Instrumento de Medición Digi
 
 🔎:
 
-- Multifunción: 4 grupos de madera calibrados para seleccionar, función de retención de datos, conveniente para leer datos en la pantalla LCD ancha. Función de apagado automático, conserva la energía de la batería con la pantalla de batería baja.
-- Rango de medición: 0 ~ 99.9%; Precisión: ± 0.5%; Resolución hasta el 0,1%. Tipo de batería: batería de 9 V CC.
 - Fácil de leer: Nuestro detector de humedad digital diseñado con una pantalla LCD legible más grande con luz de fondo, presione la tecla de retención de datos para congelar las lecturas que muestran rápidamente la medición.
+- Rango de medición: 0 ~ 99.9%; Precisión: ± 0.5%; Resolución hasta el 0,1%. Tipo de batería: batería de 9 V CC.
+- Multifunción: 4 grupos de madera calibrados para seleccionar, función de retención de datos, conveniente para leer datos en la pantalla LCD ancha. Función de apagado automático, conserva la energía de la batería con la pantalla de batería baja.
 - Probador de humedad profesional: Tiene alta precisión, respuesta rápida, medición precisa y rápida y pantalla de 1 segundo para medir la humedad. El diseño de la sonda de medición penetrante se fija con tornillos de castaño de agua para que la penetración sea más estable y la sonda más duradera.
 - Rango de uso: Principalmente adecuado para la medición de la humedad de madera, materiales de construcción, materiales medicinales, papel, cartones y otros materiales.
 

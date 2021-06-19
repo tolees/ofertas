@@ -28,10 +28,10 @@ Tienes [Leitz Carpetas Estándar para 250 hojas  Plástico  Negro](https://www.a
 
 ℹ️:
 
-- Plástico duradero y resistente al desgarro
-- Carpeta estándar de plástico en blanco, Capacidad para hasta 250 hojas A4, Ideal para el transporte, presentación y organización de documentos perforados, Para la escuela, hogar u oficina
-- Combina con otros productos de la gama Leitz
-- Contenido: Carpeta estándar de Leitz, Plástico, A4, Capacidad para 250 hojas, Dimensiones: 233x31x1cm (AnxAlxPr), Negro, 41910095
 - Mecanismo de metal flexible con barra de compresión de plástico, Mantiene sus documentos perforados seguros y evita desgarros, Excelente para presentar materiales profesionales
+- Contenido: Carpeta estándar de Leitz, Plástico, A4, Capacidad para 250 hojas, Dimensiones: 233x31x1cm (AnxAlxPr), Negro, 41910095
+- Combina con otros productos de la gama Leitz
+- Carpeta estándar de plástico en blanco, Capacidad para hasta 250 hojas A4, Ideal para el transporte, presentación y organización de documentos perforados, Para la escuela, hogar u oficina
+- Plástico duradero y resistente al desgarro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000KJVEWY/?tag=tolees-21)

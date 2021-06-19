@@ -28,7 +28,7 @@ En este momento está [FILA Morro Bay 2.0 men Sandalia Hombre  blanco  White/Fil
 
 🔎:
 
-- Suela EVA moldeada.
 - Correa.
+- Suela EVA moldeada.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FN25P3S/?tag=tolees-21)
