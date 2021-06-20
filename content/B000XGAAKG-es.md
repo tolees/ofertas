@@ -28,11 +28,11 @@ Tienes [WMF Perfect - Cuperpo de 22 cm de diámetro de 3L en Acero Inoxidable pa
 
 ℹ️:
 
-- !¡Atención! Fondo de la olla a presión sin tapa
-- Con base patentada universal TransTherm, apta para todo tipo de cocinas incluida inducción
 - Hecha de material de acero inoxidable 18/10 Cromargan
+- Con base patentada universal TransTherm, apta para todo tipo de cocinas incluida inducción
 - Cuerpo de olla a presión con un diámetro de 22 cm y una capacidad aproximada de 3 litros
 - Sin inserto, con protección de la presión residual y retardante de llama
 - Con marcación interior para una dosificación exacta
+- !¡Atención! Fondo de la olla a presión sin tapa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000XGAAKG/?tag=tolees-21)

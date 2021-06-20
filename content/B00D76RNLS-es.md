@@ -28,9 +28,9 @@ Está [Manfrotto MTPIXI-B - Minitrípode Pixi  para Cámaras CSC DSLR de Nivel d
 
 ℹ️:
 
-- Acero inoxidable y adapto polímero
+- Cámara tornillo 1/4 "-20
 - Diseñado específicamente para cámaras CSC
 - Mecanismo de bloqueo de bola innovador
-- Cámara tornillo 1/4 "-20
+- Acero inoxidable y adapto polímero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00D76RNLS/?tag=tolees-21)
