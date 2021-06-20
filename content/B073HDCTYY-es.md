@@ -28,11 +28,11 @@ En este momento está [Cybex Silla de coche grupo 2/3  Solution M-Fix SL  Para c
 
 🔎:
 
-- Silla de coche de calidad duradera y diseño moderno para niños desde los 3 hasta los 12 años aprox. (15-36 kg), Apto para coches sin y con ISOFIX, RACE, Mayo 2017, Bueno, 1,7
-- Material funda: 100% poliéster
 - Reposacabezas ajustable en altura con 12 posiciones, respaldo basculante, sistema optimizado de ventilación
+- Silla de coche de calidad duradera y diseño moderno para niños desde los 3 hasta los 12 años aprox. (15-36 kg), Apto para coches sin y con ISOFIX, RACE, Mayo 2017, Bueno, 1,7
 - Fácil de fijar al asiento del coche con el cinturón de seguridad y con el sistema ISOFIX (opcional) para una mayor estabilidad, funda lavable a máquina (30°c)
-- Máxima seguridad protección integrada contra impactos laterales (sistema l.s.p.), estructura con alta absorción de impactos
+- Material funda: 100% poliéster
 - PRECAUCIÓN: Antes de comprar este producto, verifique la compatibilidad con su vehículo en el sitio web de Cibex
+- Máxima seguridad protección integrada contra impactos laterales (sistema l.s.p.), estructura con alta absorción de impactos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073HDCTYY/?tag=tolees-21)

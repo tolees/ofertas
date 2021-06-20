@@ -28,9 +28,9 @@ En este momento está [NIKE M NP Top LS Tight Long Sleeved t-Shirt  Hombre  Game
 
 🔎:
 
-- Diseño de cuello redondo
 - Ajuste regular
-- Ofrece libertad de movimiento
+- Diseño de cuello redondo
 - La tecnología Dri-Fit ofrece comodidad durante el entrenamiento
+- Ofrece libertad de movimiento
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZS8TBPG/?tag=tolees-21)

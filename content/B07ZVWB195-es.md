@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.02 % en Levi s XX Chino Taper Short II Casual Sh'
-date: 2021-06-03 08:49:48
+date: 2021-06-20 18:42:04
 image: 'https://m.media-amazon.com/images/I/41og+uqPB7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,5 +28,6 @@ Tienes [Levi s XX Chino Taper Short II Casual Shorts  Bunker Olive Light WT Micr
 
 ℹ️:
 
+- 48
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZVWB195/?tag=tolees-21)
