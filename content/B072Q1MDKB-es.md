@@ -28,10 +28,10 @@ Está [Fluchos | Mocasín de Hombre | Luca 8499 Ave Castaño | Mocasín de Piel 
 
 ℹ️:
 
+- TACÓN:
 - COLOR: Marrón
+- MATERIALES: Piel y Piso de goma
 - CIERRE: Elásticos
 - CUIDADO DEL PRODUCTO: Lavado con paño húmedo. Es aconsejable utilizar cremas incoloras que no modifiquen el color natural de la piel. No utilizar productos agresivos con la piel, ni betún de color, pueden ser muy perjudiciales.
-- MATERIALES: Piel y Piso de goma
-- TACÓN:
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072Q1MDKB/?tag=tolees-21)
