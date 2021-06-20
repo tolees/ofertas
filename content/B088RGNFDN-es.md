@@ -28,8 +28,8 @@ En este momento está [PUMA Shuffle  Zapatillas Unisex Adulto  Blanco  White Whi
 
 🔎:
 
-- Silueta de caña baja
 - Empeine de piel sintética
+- Silueta de caña baja
 - Cubierta de ante en el talón
 - Puntera perforada
 - Cierre con cordones

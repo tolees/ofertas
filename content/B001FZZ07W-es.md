@@ -28,8 +28,8 @@ Ahora mismo tienes [Sangean PR-D7 - Radio portátil  Pantalla LCD de 3.3"   7.2 
 
 🔎:
 
+- Altavoces incorporados
 - Salida de audio de 3.5 mm
 - Control de volumen
-- Altavoces incorporados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001FZZ07W/?tag=tolees-21)

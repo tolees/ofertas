@@ -28,8 +28,8 @@ Tienes [Levi s 512 Slim Taper Vaqueros  Smoke On The Pond Adv  33W / 36L para Ho
 
 🔎:
 
+- Corte ajustado en los muslos
 - Con apertura de pierna pitillo
 - Diseño de cinco bolsillos
-- Corte ajustado en los muslos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZVR9XLK/?tag=tolees-21)
