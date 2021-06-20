@@ -28,12 +28,12 @@ En este momento está [Crocs Crocband Clog K  Zuecos Unisex Niños  25/26 EU  Be
 
 🔎:
 
-- Tipo de tacón: Plano
-- Cierre: Sin cordones
-- Material exterior: Espuma
-- Composición: Espuma
 - Anchura del zapato: Normal
+- Tipo de tacón: Plano
+- Material exterior: Espuma
+- Cierre: Sin cordones
 - Material de la suela: EVA
 - Revestimiento: Sin forro
+- Composición: Espuma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01J1LYWT8/?tag=tolees-21)

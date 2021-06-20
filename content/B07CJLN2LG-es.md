@@ -29,7 +29,7 @@ Ahora mismo tienes [Only Onlpoptrash Soft Check Pant Noos Pantalones  Gris  Blac
 🔎:
 
 - Pantalones
-- Estilo de pierna: estrecho
 - Vaqueros
+- Estilo de pierna: estrecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CJLN2LG/?tag=tolees-21)
