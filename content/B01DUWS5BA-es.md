@@ -28,8 +28,8 @@ Tienes [Fairy - Líquido lavavajillas a Mano Original 1 190 ml](https://www.amaz
 
 ℹ️:
 
-- Acción contra la grasa difícil
 - Espuma ultraduradera con cada gota
+- Acción contra la grasa difícil
 - fácil de usar
 - producto de calidad
 

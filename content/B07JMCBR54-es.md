@@ -28,9 +28,9 @@ Tienes [PLAYMOBIL-70035 StarterPack Aventura en Canoa  Multicolor  70035 ](https
 
 🔎:
 
-- Contiene 36 piezas
-- El canoa y la boyas son flotante
 - Incluye dos figuras y varios accesorios
+- Contiene 36 piezas
 - Desarrolla la imaginación y la creatividad
+- El canoa y la boyas son flotante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JMCBR54/?tag=tolees-21)

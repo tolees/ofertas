@@ -28,9 +28,9 @@ Está [Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con Correa en Acero I
 
 ℹ️:
 
+- La tarjeta de garantía está al final del manual.
 - Resistente al agua hasta 10 ATM / 100 meters / 330 feet : adecuado para esnórquel.
 - Mecanismo cuarzo con visualización cronógrafo - analógica y cristal mineral.
-- La tarjeta de garantía está al final del manual.
 - Seguir el paso del tiempo es fácil con la función de cronógrafo. Cocina, juega o realiza exploración espacial - este cronómetro hace todo por ti.
 - Banda de resina color doble tono caja de acero inoxidable, con dial oro rosado.
 

@@ -29,8 +29,8 @@ Ahora mismo tienes [Termómetro de fiebre de frente CocoBear  termómetro médic
 🔎:
 
 - Detección rápida de 1 segundo: la medición se completa en un segundo con un sensor de infrarrojos de alta precisión.
-- Medición sin contacto: la tecnología infrarroja sin contacto lee desde la frente sin contacto físico para evitar infecciones cruzadas entre varias personas.
 - Modos de medición múltiples: este termómetro no solo admite la función de la frente, sino que también puede medir la temperatura de la habitación / objeto / superficie. Mientras tanto, ° C y ° F son fáciles de cambiar.
+- Medición sin contacto: la tecnología infrarroja sin contacto lee desde la frente sin contacto físico para evitar infecciones cruzadas entre varias personas.
 - CONSEJOS: Si tiene algún problema, no dude en contactarnos a través de Amazon. Estaremos encantados de ayudarte a solucionar tus problemas.
 - 32 conjuntos de memoria: los 32 conjuntos de datos registrados pueden reducir el error humano y realizar un seguimiento de los datos de salud a largo plazo.
 

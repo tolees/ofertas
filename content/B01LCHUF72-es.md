@@ -29,9 +29,9 @@ Ahora mismo tienes [Teka Campana Telescópica o extraplana Modelo TL 6310 Motor 
 🔎:
 
 - Mandos mecánicos
-- Dos velocidades. Motor de doble turbina
 - Frente inox extraíble y sustituible
 - Dimensiones Alto x Ancho x Profundo (cm): 18.4 x 60 x 28.8/41.3
+- Dos velocidades. Motor de doble turbina
 - 2 lámparas LED
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LCHUF72/?tag=tolees-21)

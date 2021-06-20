@@ -28,9 +28,9 @@ Está [adidas GL0769 W Lin T T-Shirt Womens Black/White S](https://www.amazon.es
 
 ℹ️:
 
+- Camiseta de marca Adidas con logo
 - Corte delgado
 - Estilo clásico de Adidas
-- Camiseta de marca Adidas con logo
 - Escote redondo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LD1NTTX/?tag=tolees-21)
