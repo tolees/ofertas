@@ -28,8 +28,8 @@ Está [PUMA Men s Spacedye Stripe Boxer  2 Pack  Ropa Interior  Azul/Negro  M pa
 
 ℹ️:
 
+- Bóxer clásico
 - Tiras de contraste.
 - Cinta de cintura con logotipo de Puma.
-- Bóxer clásico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089QMZR1D/?tag=tolees-21)

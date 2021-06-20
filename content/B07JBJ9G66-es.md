@@ -28,10 +28,10 @@ Está [Skechers Uno- Stand On Air  Zapatillas Mujer  Negro  BLK Black Durabuck  
 
 ℹ️:
 
-- Embossed side detailing. Padded collar and tongue.
 - Classic style midsole with embossed texture detail. Midsole with visible air cushioned shock absorbing heel pad.
+- Smooth clean leather-textured synthetic upper. Lace up fashion sneaker design.
 - Stitching accents. Perforation accents on front panel and collar for cooling effect.
 - Soft fabric shoe lining. Air Cooled Memory Foam cushioned comfort insole.
-- Smooth clean leather-textured synthetic upper. Lace up fashion sneaker design.
+- Embossed side detailing. Padded collar and tongue.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JBJ9G66/?tag=tolees-21)

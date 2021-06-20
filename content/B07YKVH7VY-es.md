@@ -28,7 +28,7 @@ Ahora mismo tienes [Esprit 990ee1b302 Pantalones  Negro  Black 001   38/L30  Tal
 
 🔎:
 
-- Pantalón chino clásico elástico
 - Con algodón de alta calidad procedente de cultivo ecológico
+- Pantalón chino clásico elástico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YKVH7VY/?tag=tolees-21)
