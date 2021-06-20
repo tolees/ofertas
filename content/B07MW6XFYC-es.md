@@ -28,7 +28,7 @@ Está [Camper Balloon  Sandalias de Talón Abierto Mujer  Verde  Lt/Pastel Green
 
 ℹ️:
 
-- Ajuste fácil
 - Ligera
+- Ajuste fácil
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MW6XFYC/?tag=tolees-21)

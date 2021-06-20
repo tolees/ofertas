@@ -28,10 +28,10 @@ Ahora mismo tienes [Dolce Gusto De Longhi - Nescafé Dolce Gusto Mini Me De Long
 
 🔎:
 
+- Sistema multibebida Nescafè Dolce Gusto
+- Nueva interfaz Flow Stop con LED para seleccionar la cantidad de café y elegir entre bebidas frías o calientes
+- 15 bares de presión de regulación automática
 - DELONGHI EDG305WR CAFETERA CAPSULAS EDG-305 WR MINI ME DOLCE GUSTO
 - Depósito de agua extraíble de gran capacidad (0.8 l)
-- Sistema multibebida Nescafè Dolce Gusto
-- 15 bares de presión de regulación automática
-- Nueva interfaz Flow Stop con LED para seleccionar la cantidad de café y elegir entre bebidas frías o calientes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00CV97TNO/?tag=tolees-21)

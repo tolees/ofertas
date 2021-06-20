@@ -28,10 +28,10 @@ Está [ELEGOO 32 Piezas Doble Cara Junta de PCB Doble Cara Tarjeta Placa Prototi
 
 ℹ️:
 
+- ★ 32 Piezas Doble Cara Junta de PCB bien embalado en una bandeja plástica,muy fácil de almacenar y sacar, y perfecto para proyectos electrónicos Arduino
+- ★ Tarjetas PCB con 5 tamaños diferentes puede satisfacer sus demandas para kits electronics, experimentos electrónicos y proyectos de bricolaje
 - ★ Hay 4 orificios de montaje en las esquinas de las tablas.muy conveniente para soldar componentes e instalarlos juntos.
 - ★ Agujeros de plata pre-estañados en el tablero - muy útil para soldar componentes y sensores para sus proyectos
-- ★ Tarjetas PCB con 5 tamaños diferentes puede satisfacer sus demandas para kits electronics, experimentos electrónicos y proyectos de bricolaje
-- ★ 32 Piezas Doble Cara Junta de PCB bien embalado en una bandeja plástica,muy fácil de almacenar y sacar, y perfecto para proyectos electrónicos Arduino
 - ★ Alta calidad fibra de vidrio -- Material FR4 con 1,6 mm de espesor hace una placa de circuito muy sólida y resistente del prototipo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074M46VVS/?tag=tolees-21)

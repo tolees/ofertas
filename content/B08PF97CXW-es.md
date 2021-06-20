@@ -28,10 +28,10 @@ Ahora mismo tienes [CAICOME Ratón inalámbrico recargable  ultra fino  1600 ppp
 
 🔎:
 
-- ✔ Amplia compatibilidad: compatible con la mayoría de los sistemas, incluyendo Windows 7/8/10/XP, Vista 7/8, Mac OS y Linux. Se puede utilizar para PC, ordenador portátil, tableta, ordenador y MacBook. Es ideal para el trabajo o el entretenimiento en casa y en la oficina.
+- ✔ Recargable y ahorro Erengy Saving - La batería integrada en el ratón con cable de carga. No es necesario cambiar la batería.
 - ✔ Fácil de usar – no necesita instalar controladores. Simplemente conecta el receptor USB a tu ordenador portátil para que el ratón funcione. La tecnología inalámbrica de 2,4 GHz proporciona una conexión potente y fiable con un alcance de hasta 10 metros. Avanzada tecnología de seguimiento óptico con clic rápido y capacidad de respuesta.
 - ✔ Clic silencioso y delicado con la piel: el diseño silencioso con sensor avanzado ofrece clics silenciosos y es perfecto para lugares públicos como oficinas, bibliotecas, dormitorios y receptores de Internet, donde no molestar a los demás o interrumpir su concentración. Diseño ergonómico y estilo aerodinámico que ofrecen el máximo apoyo a tu mano para una comodidad duradera.
 - ✔ Diseño ultrafino y portátil: en comparación con productos similares en el mercado, nuestro ratón inalámbrico es mucho más ligero y fino. Se puede guardar fácilmente en la bolsa de tu ordenador portátil, perfecta para viajar. (Nota: el receptor se encuentra en la ranura trasera del ratón)
-- ✔ Recargable y ahorro Erengy Saving - La batería integrada en el ratón con cable de carga. No es necesario cambiar la batería.
+- ✔ Amplia compatibilidad: compatible con la mayoría de los sistemas, incluyendo Windows 7/8/10/XP, Vista 7/8, Mac OS y Linux. Se puede utilizar para PC, ordenador portátil, tableta, ordenador y MacBook. Es ideal para el trabajo o el entretenimiento en casa y en la oficina.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PF97CXW/?tag=tolees-21)
