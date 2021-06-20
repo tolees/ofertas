@@ -28,10 +28,10 @@ En este momento está [adidas Supernova M  Zapatillas de Running Hombre  NARCHI/
 
 🔎:
 
-- Mediasuela con tecnologías Boost y Bounce
 - Refuerzo lateral y lineal
 - Cierre de cordones
-- Diseño elástico sin costuras
 - Parte superior de malla técnica
+- Diseño elástico sin costuras
+- Mediasuela con tecnologías Boost y Bounce
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08M9NQLM8/?tag=tolees-21)

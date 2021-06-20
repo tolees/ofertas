@@ -29,10 +29,10 @@ Está [AML SPORT -OVOMAG- Albumina de huevo  Magnesio y Vitamina B6 – 410 gr. 
 ℹ️:
 
 - Cacao 100% puro natural
-- Ideal también durante la primera hora posterior al ejercicio para favorecer la recuperación
-- El magnesio y vitamina B6 ayudan a disminuir el cansancio y la fatiga.
-- Aporta un perfil completo de aminoácidos que contribuye al aumento y/o mantenimiento de la masa muscular.
 - Complemento alimenticio proteico formulado con proteína de clara de huevo, magnesio y vitamina B6. Pensado para aportar al organismo proteína en una cantidad saludable. Ideal para personas que realizan actividad física.
+- Ideal también durante la primera hora posterior al ejercicio para favorecer la recuperación
+- Aporta un perfil completo de aminoácidos que contribuye al aumento y/o mantenimiento de la masa muscular.
+- El magnesio y vitamina B6 ayudan a disminuir el cansancio y la fatiga.
 - Ideal para tomar por las mañanas para optimizar el rendimiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085V1BKZD/?tag=tolees-21)

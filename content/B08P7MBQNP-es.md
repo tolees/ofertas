@@ -28,12 +28,12 @@ Ahora mismo tienes [Zanussi ZIFN844K - Placa con 4 inducciones  80 cm  Power  fu
 
 🔎:
 
-- Bloqueo de seguridad infantil + Apagado automático
-- Dimensiones (ancho x largo x altura): 780mm x 520mm x 44mm. Tamaño: 80 cm. No dispone de enchufe macho. La instalación es mediante cableado y, por su seguridad, tiene que realizarla un profesional.
-- Función PowerBoost: Permite hervir agua con extraordinaria rapidez (en menos de 90 segundos)
-- Función de Temporizador: cuando se acaba el tiempo del temporizador, la superficie de la placa para la que lo habías seleccionado se apaga. Se puede programar hasta un máximo de 1,5 horas
-- Zona de Cocción: Placa de inducción de 80 cm con 4 Zonas. Función pausa y calentamiento rápido automático
 - Conecta y activa automáticamente tu campana extractora Zanussi con la tecnología Hob2Hood
+- Bloqueo de seguridad infantil + Apagado automático
+- Zona de Cocción: Placa de inducción de 80 cm con 4 Zonas. Función pausa y calentamiento rápido automático
+- Función PowerBoost: Permite hervir agua con extraordinaria rapidez (en menos de 90 segundos)
+- Dimensiones (ancho x largo x altura): 780mm x 520mm x 44mm. Tamaño: 80 cm. No dispone de enchufe macho. La instalación es mediante cableado y, por su seguridad, tiene que realizarla un profesional.
 - Control táctil deslizante: especifica los niveles de cocción, ajusta el tiempo y la temperatura
+- Función de Temporizador: cuando se acaba el tiempo del temporizador, la superficie de la placa para la que lo habías seleccionado se apaga. Se puede programar hasta un máximo de 1,5 horas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08P7MBQNP/?tag=tolees-21)
