@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Walt Disney Company - Disney - Enred con un 42.90 % de descuento'
-date: 2021-06-18 15:45:01
+date: 2021-06-19 22:31:35
 image: 'https://m.media-amazon.com/images/I/61RGSJlUFrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'The Walt Disney Company'
 buyurl: 'https://www.amazon.es/dp/B0053CBM8Y/?tag=tolees-21'
 descuento: '42.90'
-average: '9.03808219178083'
+average: '8.9914864864865'
 ---
 
 En este momento está [The Walt Disney Company - Disney - Enredados - DVD](https://www.amazon.es/dp/B0053CBM8Y/?tag=tolees-21) a 5.59 EUR (original: 9.79 EUR) (42.90 %  de descuento) en el siguiente enlace!
