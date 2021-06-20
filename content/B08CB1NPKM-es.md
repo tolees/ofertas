@@ -29,7 +29,7 @@ Está [Tommy Hilfiger Felipe 7D  Chanclas Hombre  Ivory  42 EU](https://www.amaz
 ℹ️:
 
 - Tommy Hilfiger- Sandalias y chanclas para hombre
-- Para más información sobre Tommy Jeans, consulta la sección de descripción del producto a continuación
 - Este es un producto auténtico y original de Tommy Hilfiger
+- Para más información sobre Tommy Jeans, consulta la sección de descripción del producto a continuación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CB1NPKM/?tag=tolees-21)
