@@ -28,10 +28,10 @@ Tienes [Bosch Professional Disco de diamante Best for Ceramic Extra Clean Turbo 
 
 🔎:
 
-- Disco de diamante Best for Ceramic Extra Clean Turbo para realizar cortes especialmente limpios en porcelánico y baldosas duras
 - Con el borde turbo se consiguen resultados limpios en cerámica dura de todo tipo
-- Para uso con radiales con sistema convencional de todas las marcas
-- Disco apto para cortar cerámica, porcelánico y loza con radial con sistema convencional
 - Matriz de diamante optimizada para un corte sin astillas
+- Disco apto para cortar cerámica, porcelánico y loza con radial con sistema convencional
+- Disco de diamante Best for Ceramic Extra Clean Turbo para realizar cortes especialmente limpios en porcelánico y baldosas duras
+- Para uso con radiales con sistema convencional de todas las marcas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B003TWOS4A/?tag=tolees-21)

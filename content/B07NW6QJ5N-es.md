@@ -28,9 +28,9 @@ Tienes [Skechers Ultra Flex 2.0  Zapatillas Mujer  Negro  BBK Black Knit Mesh/Tr
 
 ℹ️:
 
-- Peso ligero.
-- Plantilla de espuma viscoelástica de Skechers.
 - Suela flexible.
+- Plantilla de espuma viscoelástica de Skechers.
+- Peso ligero.
 - Suela que no deja marcas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NW6QJ5N/?tag=tolees-21)
