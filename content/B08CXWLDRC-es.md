@@ -30,7 +30,7 @@ En este momento está [Lee Scarlett High Jeans Vaqueros  Gris Claro  33W / 31L p
 
 - Tejido vaquero
 - Denim Stretch
-- Skinny High Waist
 - 5 bolsillos
+- Skinny High Waist
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXWLDRC/?tag=tolees-21)
