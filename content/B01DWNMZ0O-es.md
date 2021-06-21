@@ -28,9 +28,9 @@ Tienes [64GB USB Flash 3.0 Pinstripe Negro Verbatim P-blist](https://www.amazon.
 
 ℹ️:
 
-- El mecanismo retráctil protege el conector USB cuando no se está utilizando
-- Velocidad de lectura de hasta 10 MB/s
 - Velocidad de escritura de hasta 4 MB/s
 - Memoria USB 3.0 de 64 GB
+- Velocidad de lectura de hasta 10 MB/s
+- El mecanismo retráctil protege el conector USB cuando no se está utilizando
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DWNMZ0O/?tag=tolees-21)
