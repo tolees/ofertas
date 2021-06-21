@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Womens Izellah - Body cruzado  1 con un 61.33 % de descuento'
-date: 2021-06-17 13:47:08
+date: 2021-06-21 12:52:39
 image: 'https://m.media-amazon.com/images/I/41GA2tZJJ5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Kipling Womens Izellah - Body cruzado  12 x 33 x 23 cm   
 
 🔎:
 
-- Classics
 - Crossbody
 - Para mujer
+- Classics
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083YCTQLH/?tag=tolees-21)

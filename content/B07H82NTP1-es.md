@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo RF 1500 Radiador de aceite  150 al 51.06 % de descuento'
-date: 2021-06-19 14:25:30
+date: 2021-06-21 11:20:11
 image: 'https://m.media-amazon.com/images/I/31ZTktuJhCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [Orbegozo RF 1500 Radiador de aceite  1500W de potencia  construcción mod
 ℹ️:
 
 - Potencia de 1500W
-- Termostato regulable de alta precisión
 - Termofusible de seguridad con limitador y piloto luminoso de encendido
 - Radiador de aceite Orbegozo en color blanco, 4 ruedas pivotantes, asa para transporte y recoge cables
+- Termostato regulable de alta precisión
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H82NTP1/?tag=tolees-21)

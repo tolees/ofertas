@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750 COTU Classic Sneakers  Zapa con un 38.98 % de descuento'
-date: 2021-06-20 08:21:30
+date: 2021-06-21 11:54:16
 image: 'https://m.media-amazon.com/images/I/41Uj6ecPBGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ En este momento está [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adu
 🔎:
 
 - Textile / canvas
-- Black
 - adulto
+- Black
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00UM60O3K/?tag=tolees-21)

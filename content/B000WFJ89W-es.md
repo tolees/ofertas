@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TRIXIE Comedero Plástico para Perros al 40.27 % de rebaja'
-date: 2021-06-17 20:25:46
+date: 2021-06-21 11:06:50
 image: 'https://m.media-amazon.com/images/I/31dVFYYirES._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [TRIXIE Comedero Plástico para Perros](https://www.amazon.es/dp/B000WFJ8
 
 🔎:
 
-- con pies de caucho
 - versión ligera
 - apto para lavavajillas
+- con pies de caucho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000WFJ89W/?tag=tolees-21)
