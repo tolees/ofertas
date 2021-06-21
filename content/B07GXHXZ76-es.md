@@ -28,10 +28,10 @@ Está [L arbre vert Adoucissant Linge Peaux Sensibles Famille/Bébé Aussi 53 La
 
 ℹ️:
 
-- Embalaje 100% reciclable.
-- Hipoalergénico, probado en personas voluntarias con piel sensible.
 - Fórmula no probada en animales.
+- Hipoalergénico, probado en personas voluntarias con piel sensible.
 - Sin símbolo de peligro, ni frase de riesgo.
+- Embalaje 100% reciclable.
 - Compatible con fosas sépticas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GXHXZ76/?tag=tolees-21)
