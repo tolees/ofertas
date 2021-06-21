@@ -28,10 +28,10 @@ Ahora mismo tienes [Quiksilver Mack  Monederos. para Hombre  Negro  Medium](http
 
 🔎:
 
+- Bolsillos y ventanas: bolsillo interno para monedas y tarjeta de identificación
+- Con solapa interior
 - Material: piel auténtica
 - Ranuras para tarjetas/protección RFID
 - Insignia de metal / logotipo interior grabado
-- Bolsillos y ventanas: bolsillo interno para monedas y tarjeta de identificación
-- Con solapa interior
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0835WPK7Y/?tag=tolees-21)

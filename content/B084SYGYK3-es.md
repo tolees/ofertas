@@ -28,10 +28,10 @@ En este momento está [Cecotec Batidora de Vaso Individual Power Titanium 650 Fr
 
 🔎:
 
-- Dispone de 2 vasos portátiles de 600 ml para llevarlas donde quieras. Cuenta con 2 tapas diseñadas para poder hacer el vacío y conservar los nutrientes y propiedades de tus batidos durante mucho más tiempo. Disponen de un asa para facilitar su transporte
 - Los vasos están fabricados en Tritán, el único plástico transparente libre de BPA. Sin tóxicos. Incluye 2 tubos refrigeradores para mantener la bebida fría durante más tiempo. Tan fácil como llenarlo de agua, introducirlo en el congelador y colocarlos en el interior de la tapa.
 - Batidora compacta de 650W de potencia, apta para hacer zumos y smoothies. Cuchilla de 4 hojas con recubrimiento de titanio negro que permite mantener el acero afilado durante más tiempo, concebidas para poder picar hielo y conseguir que los batidos queden sin grumos.
-- Los vasos cuentan con un diseño práctico y ergonómico que garantiza un triturado óptimo. Acabados en acero inoxidable. Base antideslizante con diseño Immobile para un mejor control. Security Check System: asegura el funcionamiento solo con el vaso bien colocado.
 - Incluye molinillo para café o especias con doble cuchilla plana. Las piezas no eléctricas son aptas para el lavavajillas para facilitar su limpieza. Fácil de usar gracias a su funcionamiento con solo un toque.
+- Los vasos cuentan con un diseño práctico y ergonómico que garantiza un triturado óptimo. Acabados en acero inoxidable. Base antideslizante con diseño Immobile para un mejor control. Security Check System: asegura el funcionamiento solo con el vaso bien colocado.
+- Dispone de 2 vasos portátiles de 600 ml para llevarlas donde quieras. Cuenta con 2 tapas diseñadas para poder hacer el vacío y conservar los nutrientes y propiedades de tus batidos durante mucho más tiempo. Disponen de un asa para facilitar su transporte
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084SYGYK3/?tag=tolees-21)

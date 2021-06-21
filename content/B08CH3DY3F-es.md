@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Revend Skinny Vaqueros  Faded Clear Sky C051-c
 
 🔎:
 
-- Tiro bajo en la parte delantera y tiro regular en la parte trasera
 - Talle medio
 - Construcción con cinco bolsillos y remaches de refuerzo
 - Prenda ajustada de arriba abajo
 - Construcción con cinco bolsillos y remaches de refuerzo
+- Tiro bajo en la parte delantera y tiro regular en la parte trasera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CH3DY3F/?tag=tolees-21)
