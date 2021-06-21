@@ -28,8 +28,8 @@ En este momento está [DC Shoes ADYS700071  Zapatilla Hombre  Negro  Black/White
 
 🔎:
 
-- Diseño informal
 - Zapatillas ultraconfortables para el día a día
+- Diseño informal
 - Estilo deportivo
 - Cómodas y elegantes
 

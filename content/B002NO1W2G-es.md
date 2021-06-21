@@ -28,9 +28,9 @@ Ahora mismo tienes [AKUMULATOR DURACELL DR9695 do APARATÓW Sony](https://www.am
 
 🔎:
 
+- Batería recargable de Li-Ion
 - Con un voltaje de 7.4 V
 - Es adecuada para cámaras digitales
-- Batería recargable de Li-Ion
 - Tiene una capacidad de 1400 mAh
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002NO1W2G/?tag=tolees-21)

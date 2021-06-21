@@ -28,8 +28,8 @@ En este momento está [PLAY FUN BY IMC TOYS - IMC Toys Juego Cabeza Mojada  Misc
 
 🔎:
 
-- Funciona sin pilas
 - Llena el depósito de agua para empezar a jugar, gira la ruleta, sigue las instrucciones sacando el número de barras indicado y pasa el gorro al siguiente jugador
+- Funciona sin pilas
 - Hay una barra que desbloquea el tanque de agua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XYLRXY8/?tag=tolees-21)
