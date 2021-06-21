@@ -28,9 +28,9 @@ Está [SAMSUNG - Micro SD128GB EVO+w SD Adapter Class 10](https://www.amazon.es/
 
 ℹ️:
 
-- Capacidad de almacenamiento de 128 GB Compatible con UHS-I y clase 10 Incluye adaptador de tarjeta SD Este texto se ha traducido en una máquina
-- Aumente la memoria de su dispositivo móvil compatible con fotos, archivos musicales, vídeos y mucho más con las tarjetas microSD rápidas y robustas de Samsung
 - Potencia incluida Con hasta 100 MB/s de lectura o 90 MB/s de escritura, las diferentes tarjetas de la serie EVO Plus ofrecen velocidades de memoria rápidas
+- Aumente la memoria de su dispositivo móvil compatible con fotos, archivos musicales, vídeos y mucho más con las tarjetas microSD rápidas y robustas de Samsung
+- Capacidad de almacenamiento de 128 GB Compatible con UHS-I y clase 10 Incluye adaptador de tarjeta SD Este texto se ha traducido en una máquina
 - Incluso los archivos de gran tamaño se pueden guardar y recuperar rápidamente
 - Las velocidades de hasta 100 MB/s de lectura o 90 MB/s de escritura, una larga vida útil y una alta seguridad hacen que las tarjetas de la serie EVO sean un compañero fiable para aplicaciones diarias y profesionales
 
