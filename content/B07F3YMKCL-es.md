@@ -29,9 +29,9 @@ En este momento está [Luz de Lectura OMERIL Luz de Libro Recargable  6 LED con 
 🔎:
 
 - 💡 Luz Suave y Protección para Los Ojos - Lámpara de Lectura con regulable y luz no parpadeante que le permite leer con comodidad durante horas. Ilumine fácilmente 2 páginas completas de cualquier libro de tamaño, sin necesidad de ajustar la luz de vez en cuando.
-- 💡 ACTUALIZADO Luz de Lectura - 6 LEDs iluminan uniformemente hasta 3x veces el área de iluminación que la luz de libro LED normal. 3 Modo de BRILLO (①luz alta con 6 LED, ②luz blanca con 3 LED, ③luz cálida con 3 LED). La MEJOR luz de Libro para ratones de biblioteca y niños.
 - 💡 Recargable y Económico - Batería de litio recargable de 500mAh incorporada, no más desperdicio de dinero en baterías. Puede disfrutar de 10 horas de iluminación con 3 LED encendidos y 5 horas de iluminación con los 6 LED con una carga completa.
-- 💡 Portátil y Múltiples Usos - Clip ajustable de hasta 0.98 pulgadas de luz de libro, puede sujetarlo a Libros, Kindle, Estudio, Revistas, Archivos, Cama, Tableta, Laptops, PC, Estantes, Armarios y más. Perfecto para uso en aviones, trenes y coches, así como en el hogar o cualquier otra ocasión.
+- 💡 ACTUALIZADO Luz de Lectura - 6 LEDs iluminan uniformemente hasta 3x veces el área de iluminación que la luz de libro LED normal. 3 Modo de BRILLO (①luz alta con 6 LED, ②luz blanca con 3 LED, ③luz cálida con 3 LED). La MEJOR luz de Libro para ratones de biblioteca y niños.
 - 💡 Cuello de Ganso 360 ° Flexible y más Largo - La luz de lectura está diseñada con un cuello de ganso suave y 360 ° flexible, más fácil de ajustar la dirección de iluminación a su área de trabajo. Solo 45g de peso lo hace muy fácil de llevar.
+- 💡 Portátil y Múltiples Usos - Clip ajustable de hasta 0.98 pulgadas de luz de libro, puede sujetarlo a Libros, Kindle, Estudio, Revistas, Archivos, Cama, Tableta, Laptops, PC, Estantes, Armarios y más. Perfecto para uso en aviones, trenes y coches, así como en el hogar o cualquier otra ocasión.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F3YMKCL/?tag=tolees-21)

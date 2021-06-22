@@ -29,8 +29,8 @@ Tienes [Huawei P40 Lite - Smartphone 128GB  6GB RAM  Dual Sim  Emerald Green](ht
 ℹ️:
 
 - Cámara Cuádruple 48MP+8MP +2MP+2MP
+- OS Android 10 (AOSP)
 - Pantalla 6 4" 1080 x 2310 pixels
 - Procesador Kirin 810 2 27Ghz
-- OS Android 10 (AOSP)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084YQPQ5M/?tag=tolees-21)
