@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Memoria Flash USB 3.0 SanDisk Ultra de 2 al 48.42 % de descuento'
-date: 2021-06-21 17:39:08
+date: 2021-06-22 18:45:23
 image: 'https://m.media-amazon.com/images/I/31DdaxPyDML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B00YFI1A66/?tag=tolees-21'
 descuento: '48.42'
-average: '36.5813043478259'
+average: '36.5007142857141'
 ---
 
 Está [Memoria Flash USB 3.0 SanDisk Ultra de 256 GB  Velocidad de Lectura de hasta 100 MB/s](https://www.amazon.es/dp/B00YFI1A66/?tag=tolees-21) con 48.42 de descuento por 30.94 EUR (original: 59.99 EUR) en el siguiente enlace!

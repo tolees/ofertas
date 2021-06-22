@@ -28,10 +28,10 @@ Está [2X5L Bioetanol Terraflam para lámparas y chimeneas color transparente Co
 
 ℹ️:
 
-- Combustión de alta calidad, no genera humos ni olores
-- Envase de 5 Litro ( 2 unidades)
-- Envio 24Horas a toda España (no hacemos envio a baleares)
 - De uso en interiores y exteriores Apto para uso cotidiano en las chimeneas del hogar
 - Formato de botella de 5 litro para hacer fácil y segura su utilización.Tapón de seguridad
+- Combustión de alta calidad, no genera humos ni olores
+- Envio 24Horas a toda España (no hacemos envio a baleares)
+- Envase de 5 Litro ( 2 unidades)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079C6LMXX/?tag=tolees-21)
