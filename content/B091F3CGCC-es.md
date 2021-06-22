@@ -28,9 +28,9 @@ En este momento está [Focus Mediam - Rust Day - One Edition](https://www.amazon
 
 🔎:
 
-- La Day One Edition incluye el Future Weapons & Tools Pack
 - Lucha Intensas batallas PVE y PVP: hazte amigo o lucha contra otros jugadores, la elección es tuya
-- Explorar Explora una vasta y misteriosa isla post-apocalíptica y descubre cómo mantenerte vivo
 - Sobrevivir Conquista la sed y el hambre, lucha contra los elementos, crea equipo y mantente a salvo en un mundo donde todo te quiere muerto
+- Explorar Explora una vasta y misteriosa isla post-apocalíptica y descubre cómo mantenerte vivo
+- La Day One Edition incluye el Future Weapons & Tools Pack
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B091F3CGCC/?tag=tolees-21)

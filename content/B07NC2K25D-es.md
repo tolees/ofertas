@@ -28,10 +28,10 @@ Tienes [Razer Seiren X Quartz - Micrófono de condensador USB compacto  rosa  co
 
 ℹ️:
 
-- Montaje de choque integrado para amortiguar las vibraciones
 - Botón de silencio
-- Patrón de recogida supercardioide para reducir el ruido de fondo
 - Micrófono de condensador para streaming
 - Zero-latency 3,5 mm auricular monitor puerto
+- Patrón de recogida supercardioide para reducir el ruido de fondo
+- Montaje de choque integrado para amortiguar las vibraciones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NC2K25D/?tag=tolees-21)

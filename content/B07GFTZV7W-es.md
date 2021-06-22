@@ -29,8 +29,8 @@ Ahora mismo tienes [Warner Bros Interactive Spain - Hitman 2 - Standard Edition]
 🔎:
 
 - Un mundo de asesinato. HITMAN no solo incluye una nueva campaña sino también nuevas misiones, objetivos escurridizos y más contenido actualizado gratuito, que te ofrece nuevas formas de poner a prueba tu creatividad asesina.
-- El mundo es tu arma. Solo en HITMAN puedes usar cualquier objeto de tu entorno para planificar y ejecutar el asesinato perfecto: usa el sigilo, sabotaje y todo lo demás para convertir tu creatividad en un arma letal.
 - Nuevas formas de matar. Presentando nuevos modos y nuevas formas de jugar a HITMAN con tus amigos: coopera con un amigo en el modo Asesino francotirador o compite por la máxima puntuación.
 - La mejor experiencia HITMAN hasta la fecha. HITMAN depura la experiencia asesina, incluyendo las mejoras del juego anterior. Hitman añade una progresión del jugador mejorada y varias optimizaciones de la interfaz para convertirte en un asesino aún más letal.
+- El mundo es tu arma. Solo en HITMAN puedes usar cualquier objeto de tu entorno para planificar y ejecutar el asesinato perfecto: usa el sigilo, sabotaje y todo lo demás para convertir tu creatividad en un arma letal.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GFTZV7W/?tag=tolees-21)
