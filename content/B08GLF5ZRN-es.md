@@ -28,10 +28,10 @@ Tienes [Xiaomi Redmi Note 9 - Smartphone 3GB+64GB  NFC  Pantalla FHD+ de 6.53" D
 
 ℹ️:
 
-- Batería de capacidad ultra alta Batería de 5020 mah, carga rápida de 18 w
 - Nuevo diseño de 6.53 "FHD + DotDisplay.
-- NFC compatible.
 - Potente procesador de juegos de alto rendimiento Helio G85.
 - Sistema de imagen mejorado. Cámara cuádruple AI de 48MP, cámara frontal en pantalla de 13MP.
+- NFC compatible.
+- Batería de capacidad ultra alta Batería de 5020 mah, carga rápida de 18 w
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08GLF5ZRN/?tag=tolees-21)

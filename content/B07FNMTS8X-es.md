@@ -29,14 +29,14 @@ En este momento está [LEGO City Police - Policía Aérea: Base de Operaciones  
 🔎:
 
 - Coge la mochila propulsora de juguete, abre las alas y persigue a los ladrones hasta alcanzarlos.
+- La base de operaciones de la Policía Aérea mide más de 25 cm de altura, 22 cm de ancho y 5 cm de profundidad.
+- Gira la antena de radar situada en la azotea de la comisaría para controlar el tráfico aéreo al servicio de las fuerzas de la Policía Aérea.
 - Sujeta el gancho del coche de fuga de juguete de la ladrona al muro de la celda y tira hasta arrancarlo del edificio para que escape su compañero.
+- Carga el paracaídas con la minifigura del agente de la Policía Aérea incluida en la parte inferior del avión de juguete y empuja la palanca para lanzarlo sobre los ladrones a la fuga.
+- Incluye 6 minifiguras LEGO City: 2 agentes de la Policía Aérea, 2 agentes de policía y 2 ladrones.
+- Incluye también un avión de juguete de la Policía Aérea con morro cónico desmontable y compuerta inferior para lanzar el paracaídas de fina tela recubierta, la mochila propulsora de juguete con alas plegables de la Policía Aérea, la moto de policía de juguete, y el coche de fuga con cadena y gancho para los ladrones.
 - Cuenta con una torre de control de la comisaría de policía de 3 plantas con almacenamiento para la mochila propulsora, oficina, antena parabólica móvil en la azotea, espacio anexo para guardar herramientas, y celda con camastro y muro de huida.
 - Este divertido juguete infantil incluye más de 500 elementos.
-- Carga el paracaídas con la minifigura del agente de la Policía Aérea incluida en la parte inferior del avión de juguete y empuja la palanca para lanzarlo sobre los ladrones a la fuga.
-- Gira la antena de radar situada en la azotea de la comisaría para controlar el tráfico aéreo al servicio de las fuerzas de la Policía Aérea.
 - Accesorios incluidos: una cafetera y una taza, una pantalla de ordenador, 2 pantallas de la torre de control, 3 pares de esposas, 2 walkie-talkies, 3 cascos con viseras abatibles, una gorra de policía y una cámara de seguridad.
-- Incluye también un avión de juguete de la Policía Aérea con morro cónico desmontable y compuerta inferior para lanzar el paracaídas de fina tela recubierta, la mochila propulsora de juguete con alas plegables de la Policía Aérea, la moto de policía de juguete, y el coche de fuga con cadena y gancho para los ladrones.
-- La base de operaciones de la Policía Aérea mide más de 25 cm de altura, 22 cm de ancho y 5 cm de profundidad.
-- Incluye 6 minifiguras LEGO City: 2 agentes de la Policía Aérea, 2 agentes de policía y 2 ladrones.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FNMTS8X/?tag=tolees-21)
