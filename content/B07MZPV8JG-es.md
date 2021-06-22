@@ -28,8 +28,8 @@ En este momento está [Pepe Jeans Flag Logo Camiseta  Azul  Dulwich 594   Medium
 
 🔎:
 
-- Camiseta para hombre
-- Fabricada en tejido ligero que ofrece comodidad
 - Tiene estampado en el pecho la marca Pepe Jeans
+- Fabricada en tejido ligero que ofrece comodidad
+- Camiseta para hombre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MZPV8JG/?tag=tolees-21)
