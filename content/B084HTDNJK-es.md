@@ -28,10 +28,10 @@ Tienes [Chicco- Cloudy Music On The Go Sonajeros  Color Gris  00010065000000 ](h
 
 🔎:
 
-- Apagado automático después de 10 minutos
-- Sonajero con luz y sonido
 - Proyecta luz blanca tenue
-- Se puede colgar en sillas de paseo
 - 3 melodías clásicas (Offenbach) y New Age
+- Sonajero con luz y sonido
+- Apagado automático después de 10 minutos
+- Se puede colgar en sillas de paseo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084HTDNJK/?tag=tolees-21)

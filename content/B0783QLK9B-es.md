@@ -28,13 +28,13 @@ Tienes [PUMA Smash v2  Zapatillas Unisex Adulto  Azul  Peacoat White   45 EU](ht
 
 🔎:
 
+- Altura del tacón: 3 centímetros
+- Material de la suela: Goma
 - Revestimiento: Malla
+- Cierre: Cordones
 - Tipo de tacón: Plano
 - Material exterior: Cuero
 - Anchura del zapato: Normal
-- Material de la suela: Goma
 - Composición: Wildleder
-- Altura del tacón: 3 centímetros
-- Cierre: Cordones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0783QLK9B/?tag=tolees-21)

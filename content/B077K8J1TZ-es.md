@@ -28,10 +28,10 @@ Está [Nerf- Modulus Recon Mk11  Hasbro B4616EU7 ](https://www.amazon.es/dp/B077
 
 ℹ️:
 
+- Dispara dardos a una distancia de hasta 27 metros
 - Personaliza el lanzador para cada misión o batalla
 - Los accesorios incluyen culata y extensión del cañón
 - Configura los cuatro lanzadores diferentes
-- Dispara dardos a una distancia de hasta 27 metros
 - El lanzador incluye seis dardos y un clip de seis dardos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077K8J1TZ/?tag=tolees-21)

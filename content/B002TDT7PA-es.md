@@ -28,8 +28,8 @@ Ahora mismo tienes [Trixie 34843 - Pelota para perros  5.5 cm  1 unidad  colores
 
 🔎:
 
-- con sonido
-- motivos surtidos
 - caucho natural
+- motivos surtidos
+- con sonido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002TDT7PA/?tag=tolees-21)
