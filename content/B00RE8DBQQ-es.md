@@ -28,10 +28,10 @@ En este momento está [Emporio Armani Reloj Analogico para Hombre de Cuarzo con 
 
 🔎:
 
-- Material de la correa: Acero inoxidable
 - Se presenta en caja de regalo Emporio Armani.
+- Ancho de la correa: 18 mm; Circunferencia de la correa: 200+/- 5mm
 - Grosor de la caja: 9.5 mm; Tamaño de la caja: 40 mm
 - Resistente al agua: 3 ATM
-- Ancho de la correa: 18 mm; Circunferencia de la correa: 200+/- 5mm
+- Material de la correa: Acero inoxidable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00RE8DBQQ/?tag=tolees-21)

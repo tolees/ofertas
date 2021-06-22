@@ -28,9 +28,9 @@ Está [Facom FCMS32 Vaso 1/2"  12 caras métricos  32 mm   Cromado brillante](ht
 
 ℹ️:
 
-- Vaso 1/2” 12 caras métrico
-- Perfil OGV: más potente y seguro, preserva las tuercas
 - Presentación: cromado, brillante
+- Perfil OGV: más potente y seguro, preserva las tuercas
 - Paqueteage Weight: 1.12 kilograms
+- Vaso 1/2” 12 caras métrico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0051AAAAO/?tag=tolees-21)

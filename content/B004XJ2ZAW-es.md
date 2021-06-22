@@ -28,9 +28,9 @@ Ahora mismo tienes [Adidas Pure Game Eau De Toilette 100Ml Vapo.](https://www.am
 
 🔎:
 
-- Se recomienda para uso casual
-- Con matices aromáticos y ahumados
 - Con aromáticos especiados
+- Con matices aromáticos y ahumados
+- Se recomienda para uso casual
 - Esta intensa fragancia es vigorizante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004XJ2ZAW/?tag=tolees-21)
