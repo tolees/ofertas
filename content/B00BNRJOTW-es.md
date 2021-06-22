@@ -29,10 +29,10 @@ Tienes [Superga 2750 COTU Classic  Zapatillas Unisex  Lt Grey 506  40 EU](https:
 ℹ️:
 
 - Material de la suela: goma
-- Cierre: cordones.
 - Tamaño Tipo: Tamaño estándar
+- Material exterior: lona
+- Cierre: cordones.
 - Forro: Sin forro
 - Tipo de tacón: plana
-- Material exterior: lona
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BNRJOTW/?tag=tolees-21)
