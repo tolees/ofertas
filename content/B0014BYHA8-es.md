@@ -28,9 +28,9 @@ En este momento está [Crocs Classic  Zuecos Unisex Adulto  Black  37/38 EU](htt
 
 🔎:
 
-- Material de la suela: Sintético
 - Cierre: Tira de tobillo
 - Material exterior: Espuma
+- Material de la suela: Sintético
 - Tipo de tacón: Plano
 - Revestimiento: Sin forro
 - Composición: Sintético

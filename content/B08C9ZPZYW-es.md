@@ -28,10 +28,10 @@ Tienes [Salomon Alphacross Blast GTX Zapatillas Impermeables De Trail Running Ho
 
 🔎:
 
-- GORE-TEX
-- Contagrip TD
 - EnergyCell
+- Contagrip TD
 - Para conseguir una tracción máxima en terreno mixto y gran durabilidad, Contagrip TD combina un agresivo patrón de tacos profundos con nuestro compuesto más resistente.
 - Para conseguir una tracción máxima en terreno mixto y gran durabilidad, Contagrip TD combina un agresivo patrón de tacos profundos con nuestro compuesto más resistente.
+- GORE-TEX
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08C9ZPZYW/?tag=tolees-21)

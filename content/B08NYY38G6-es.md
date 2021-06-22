@@ -28,10 +28,10 @@ Está [Helly Hansen Active Hoodie  Azul Marino  S](https://www.amazon.es/dp/B08N
 
 ℹ️:
 
+- Contenido de fibra: 100% Poliamida
+- La sudadera con capucha activa está hecha con suave algodón polar
 - Incluye: 1x Active Hoodie Sudadera con Capucha Color Azul Marino - Talla: S
 - Contiene mallas versátiles para cualquier actividad al aire libre esta temporada
 - Capucha con cordones de ajuste
-- La sudadera con capucha activa está hecha con suave algodón polar
-- Contenido de fibra: 100% Poliamida
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NYY38G6/?tag=tolees-21)
