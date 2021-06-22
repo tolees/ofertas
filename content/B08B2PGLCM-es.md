@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - FIFA 21 Standard | Cód al 66.74 % de descuento'
-date: 2021-06-21 00:11:40
+date: 2021-06-22 04:58:10
 image: 'https://m.media-amazon.com/images/I/51lHYvffLpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B08B2PGLCM/?tag=tolees-21'
 descuento: '66.74'
-average: '29.1041176470589'
+average: '28.8425714285715'
 ---
 
 Ahora mismo tienes [Electronic Arts - FIFA 21 Standard | Código Origin para PC](https://www.amazon.es/dp/B08B2PGLCM/?tag=tolees-21) a 19.95 EUR (original: 59.99 EUR) (66.74 %  de descuento) en el siguiente enlace!
