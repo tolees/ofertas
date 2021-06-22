@@ -28,11 +28,11 @@ Tienes [Tefal Optigrill GC712D12 - Plancha Grill 2000 W  6 modos de cocción y 4
 
 🔎:
 
-- Las planchas antiadherentes de aluminio fundido y la bandeja recogejugos son aptas para el lavavajillas
-- Indicador de nivel de cocción supervisa el proceso de cocción para obtener resultados óptimos de asado desde poco hecho hasta muy hecho indica el progreso de la cocción y emite una señal acústica en cada fase para avisarte
-- Gran bandeja recogejugos y planchas de cocción con un ángulo de 7 para garantizar la salida del exceso de líquidos del alimento
-- Grill 6 programas automáticos y un indicador de nivel de cocción para lograr la adecuación a la parrilla, desde poco hecho hasta muy hecho; modo manual con 4 temperaturas ajustables para cocinar todo tipo de alimentos
-- Cocción con sensor automático medida automática del grosor ajusta automáticamente la temperatura según el tamaño y el grosor de todo tipo de alimentos en cada programa
 - Los 6 programas de cocción para diferentes tipos de alimentos: hamburguesas, pollo, sándwiches, salchichas, carne y pescado; incluye modo comida congelada y un modo manual con cuatro niveles de temperatura para cocinar cualquier alimento a tu gusto
+- Cocción con sensor automático medida automática del grosor ajusta automáticamente la temperatura según el tamaño y el grosor de todo tipo de alimentos en cada programa
+- Las planchas antiadherentes de aluminio fundido y la bandeja recogejugos son aptas para el lavavajillas
+- Gran bandeja recogejugos y planchas de cocción con un ángulo de 7 para garantizar la salida del exceso de líquidos del alimento
+- Indicador de nivel de cocción supervisa el proceso de cocción para obtener resultados óptimos de asado desde poco hecho hasta muy hecho indica el progreso de la cocción y emite una señal acústica en cada fase para avisarte
+- Grill 6 programas automáticos y un indicador de nivel de cocción para lograr la adecuación a la parrilla, desde poco hecho hasta muy hecho; modo manual con 4 temperaturas ajustables para cocinar todo tipo de alimentos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01CI29NHI/?tag=tolees-21)
