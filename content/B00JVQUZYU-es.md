@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.85 % en Disney - Mulan [DVD]'
-date: 2021-06-20 22:39:19
+date: 2021-06-21 23:33:00
 image: 'https://m.media-amazon.com/images/I/51aiNl+s2xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B00JVQUZYU/?tag=tolees-21'
 descuento: '49.85'
-average: '8.83000000000001'
+average: '8.76600000000001'
 ---
 
 Tienes [Disney - Mulan [DVD]](https://www.amazon.es/dp/B00JVQUZYU/?tag=tolees-21) con un 49.85 % de descuento con precio de oferta de 4.99 EUR (original: 9.95 EUR) en el siguiente enlace!

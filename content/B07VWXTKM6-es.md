@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Two Point Hospital - PS4 al 50.11 % de descuento'
-date: 2021-06-17 20:27:08
+date: 2021-06-21 23:59:57
 image: 'https://m.media-amazon.com/images/I/51gYFmPtPhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B07VWXTKM6/?tag=tolees-21'
 descuento: '50.11'
-average: '28.29375'
+average: '27.8029411764706'
 ---
 
 Está [Koch Media - Two Point Hospital - PS4](https://www.amazon.es/dp/B07VWXTKM6/?tag=tolees-21) con 50.11 de descuento por 19.95 EUR (original: 39.99 EUR) en el siguiente enlace!
