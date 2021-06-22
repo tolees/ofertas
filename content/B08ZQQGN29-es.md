@@ -28,10 +28,10 @@ Tienes [Cyber Urbano - Pack 3 Colador Acero Inoxidable/Colador Cocina/Colador Ac
 
 🔎:
 
-- -Versatilidad: Adecuados para la alimentación de filtrado (como albóndigas, wonton, fideos y alimentos fritos)
+- -¡ATENCION!: A la Hora de Realizar la Compra Verifique que Compra en el Vendedor “J.M.R.G” (Producto ESPAÑOL) NO, nos Hacemos RESPONSABLES si Compran a otro Vendedor y no les Llega el Producto.
 - -Material: Realizado en acero inoxidable de alta calidad, apto para su lavado en el lavavajillas. Resistente y facil de limpiar.
 - -Tamaño: Medida: Ø12cm x 10cm x 8cm 3Pack
-- -¡ATENCION!: A la Hora de Realizar la Compra Verifique que Compra en el Vendedor “J.M.R.G” (Producto ESPAÑOL) NO, nos Hacemos RESPONSABLES si Compran a otro Vendedor y no les Llega el Producto.
 - -Fácil de Guardar: Enganche frontal para facilitar su uso y apoyo en las ollas. Libre de BPA, el acero no contiene bisfenol A (BPA), una sustancia que está en la mayoría de los plásticos.
+- -Versatilidad: Adecuados para la alimentación de filtrado (como albóndigas, wonton, fideos y alimentos fritos)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08ZQQGN29/?tag=tolees-21)

@@ -29,7 +29,7 @@ Tienes [adidas Fin 20 LGE Soccer Ball  Men s  White/Team Royal Blue/Signal Coral
 🔎:
 
 - Optimum holding of the ball
-- It must be inflated
 - Durable rubber
+- It must be inflated
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089ZD2RP9/?tag=tolees-21)
