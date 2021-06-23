@@ -28,8 +28,8 @@ Está [Hawaiian Tropic Silk Hydration Moisturisation SPF 50 Cuidado Solar - 180 
 
 ℹ️:
 
+- Marca: Hawaiian Tropic
 - Producto de alta calidad
 - Tipo de piel: Normal
-- Marca: Hawaiian Tropic
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0071IWVZQ/?tag=tolees-21)
