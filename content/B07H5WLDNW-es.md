@@ -28,10 +28,10 @@ Tienes [Juan Torres Master Distillers - Torres Spiced  Licor  70 cl - 700 ml](ht
 
 ℹ️:
 
-- Aguardientes provenientes de los mejores vinos blancos
 - Color ámbar; intenso aroma canela; paladar suave y sedoso que impresiona por su equilibrio, persistencia y delicado sabor a canela
-- El suave infusionado de la canela y la caña de azúcar de Torres Spiced conjugan a la perfección con las notas cítricas y refrescantes del limón
-- Origen: España
 - Graduación: 35% vol.
+- Origen: España
+- El suave infusionado de la canela y la caña de azúcar de Torres Spiced conjugan a la perfección con las notas cítricas y refrescantes del limón
+- Aguardientes provenientes de los mejores vinos blancos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07H5WLDNW/?tag=tolees-21)

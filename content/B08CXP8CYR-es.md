@@ -29,8 +29,8 @@ En este momento está [Nike MD Valiant  PSV   Sneaker  Black/White  33.5 EU](htt
 🔎:
 
 - Importado
-- Producto de alto calidad
-- Suave de llevar
 - Cordones de zapatos
+- Suave de llevar
+- Producto de alto calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXP8CYR/?tag=tolees-21)

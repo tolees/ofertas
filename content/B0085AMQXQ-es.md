@@ -28,10 +28,10 @@ Tienes [Guante exfoliante de lufa orgánica egipcia de la marca Hydrea London](h
 
 ℹ️:
 
-- 100% orgánico, biodegradable y ecológico.
+- Guante de lufa para limpieza y exfoliación de calidad prémium.
 - Puño elástico y forrado en suave algodón egipcio para un lavado y limpieza con suavidad.
 - Tamaño: 20 x 16 cm.
-- Guante de lufa para limpieza y exfoliación de calidad prémium.
 - Fabricado de lufa egipcia superior.
+- 100% orgánico, biodegradable y ecológico.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0085AMQXQ/?tag=tolees-21)
