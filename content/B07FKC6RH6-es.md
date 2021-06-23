@@ -28,10 +28,10 @@ Está [MVMT Reloj Analógico para Mujer de Cuarzo con Correa en Cuero D-MB01-RGB
 
 ℹ️:
 
-- Caja de oro rosa en acero inoxidable cepillado y esfera negra
+- Grosor de la caja de 6 mm; diámetro de la caja: 38 mm
 - Ancho de la correa: 18 mm
 - 3 ATM de resistencia al agua
-- Grosor de la caja de 6 mm; diámetro de la caja: 38 mm
 - Movimiento de cuarzo Miyota
+- Caja de oro rosa en acero inoxidable cepillado y esfera negra
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FKC6RH6/?tag=tolees-21)

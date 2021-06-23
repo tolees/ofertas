@@ -28,10 +28,10 @@ Tienes [Desigual PU Hand Bag  Mano Mujer  negro  U](https://www.amazon.es/dp/B08
 
 🔎:
 
-- Flores y cenefas bordadas
-- Estilo urbano
-- Compartimento interior con mucho espacio de almacenamiento
-- Bolso Flores
 - Estilo moderno
+- Bolso Flores
+- Estilo urbano
+- Flores y cenefas bordadas
+- Compartimento interior con mucho espacio de almacenamiento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CX43Q9Y/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Columbia Zero Rules  Polo técnico  Hombre  Negro  Shark Heather   S  Ar
 
 🔎:
 
-- El sistema de refrigeración activado por el sudor Omni-Freeze ZERO, Una sinergia en tándem con el sistema de transpiración Omni-Wick
 - Opción de girar el cuello para una mayor cobertura
-- Un gran polo, técnica y estilísticamente, Combina un look casual y elegante junto con las últimas innovaciones de Omni
 - Tratamiento antimicrobiano para asegurar la protección contra el crecimiento bacteriano
+- El sistema de refrigeración activado por el sudor Omni-Freeze ZERO, Una sinergia en tándem con el sistema de transpiración Omni-Wick
 - Contenido: 1x Columbia Zero Rules, Polo técnico, Hombre, Fibra sintética, Negro (Shark Heather), S, Art. 1533303
+- Un gran polo, técnica y estilísticamente, Combina un look casual y elegante junto con las últimas innovaciones de Omni
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B017WHFUO4/?tag=tolees-21)
