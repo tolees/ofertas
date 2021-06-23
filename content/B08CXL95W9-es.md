@@ -28,11 +28,11 @@ Tienes [Nike MD Valiant  PSV   Sneaker  Black/White  31 EU](https://www.amazon.e
 
 🔎:
 
-- Composición del material: algodón
-- Lining: synthetic
-- Material composition: algodón
-- Outer material: sintético
-- Closure: cordones
 - Sole material: caucho
+- Lining: synthetic
+- Composición del material: algodón
+- Closure: cordones
+- Outer material: sintético
+- Material composition: algodón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CXL95W9/?tag=tolees-21)

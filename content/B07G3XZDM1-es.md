@@ -28,10 +28,10 @@ Está [Orbegozo PW 1321 - Ventilador industrial Power Fan  3 velocidades  inclin
 
 ℹ️:
 
-- Incorpora un sistema de seguridad antivuelco que apaga el aparato automáticamente
-- El asa de transporte facilita su desplazamiento entre distintas estancias
-- Dimensiones (ancho x alto x profundidad): 30.5 x 29 x 14 cm
-- Posee unas aspas metálicas de 20 cm de diámetro
 - Ventilador industrial Power Fan de suelo con 45 W de potencia y 3 velocidades
+- El asa de transporte facilita su desplazamiento entre distintas estancias
+- Posee unas aspas metálicas de 20 cm de diámetro
+- Dimensiones (ancho x alto x profundidad): 30.5 x 29 x 14 cm
+- Incorpora un sistema de seguridad antivuelco que apaga el aparato automáticamente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07G3XZDM1/?tag=tolees-21)
