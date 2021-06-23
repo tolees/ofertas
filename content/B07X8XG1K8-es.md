@@ -28,7 +28,7 @@ En este momento está [Electronic Arts - Need for Speed Heat - Standard [Pre-Loa
 
 🔎:
 
-- Precarga ahora, juega el 08 noviembre a las 00:00.
 - Haz del mundo tu pasarela y ejerce la fotografía de moda.
+- Precarga ahora, juega el 08 noviembre a las 00:00.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X8XG1K8/?tag=tolees-21)

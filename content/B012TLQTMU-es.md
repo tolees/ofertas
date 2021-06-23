@@ -28,10 +28,10 @@ Ahora mismo tienes [Sukin Super Greens  Crema hidratante facial  125 ml](https:/
 
 🔎:
 
+- Hidratante facial ligero rico en nutrientes
 - Rico en antioxidantes y nutrientes para ayudar a minimizar la apariencia de líneas finas
 - Promueve una tez radiante y saludable, dejando la piel nutrida e hidratada
 - El artículo no viene con fecha de caducidad, sino que el artículo tiene un PAO (período después de abrir) de 6 meses
-- Hidratante facial ligero rico en nutrientes
 - Enriquecido con extractos súper verdes de col rizada, espirulina, perejil y clorella
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B012TLQTMU/?tag=tolees-21)
