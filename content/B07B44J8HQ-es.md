@@ -28,10 +28,10 @@ En este momento está [Relec Roll On Post-Picaduras de Insectos y Plantas  Alivi
 
 🔎:
 
+- Su roll-on metálico lo hace fácil de aplicar y llevar, adecuado para zonas con un clima templado; para uso diario, roll-on de 15 ml
+- El roll-on post picaduras es un innovador tratamiento contra el picor y las irritaciones causadas por el contacto de insectos y plantas; alivia, refresca y calma a la piel
 - El tratamiento de picaduras tiene una textura en gel que alivia el picor y calma la piel, efecto refrescante que minimiza las rojeces y reduce la hinchazón; apto para cara y cuerpo
 - Relec es una gama de productos de eficacia óptima y seguridad que protege a tu familia de las picaduras de insectos en cualquier situación
-- El roll-on post picaduras es un innovador tratamiento contra el picor y las irritaciones causadas por el contacto de insectos y plantas; alivia, refresca y calma a la piel
 - Formulado con glicerina, extracto de rooibos y mentol, testado dermatológicamente y apto para uso facial; hecho con ingredientes naturales libres de amoníaco
-- Su roll-on metálico lo hace fácil de aplicar y llevar, adecuado para zonas con un clima templado; para uso diario, roll-on de 15 ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07B44J8HQ/?tag=tolees-21)

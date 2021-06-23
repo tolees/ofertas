@@ -28,7 +28,7 @@ Ahora mismo tienes [Crocs Fun Lab Minions Clog  Unisex Niños Zueco  Amarillo  Y
 
 🔎:
 
-- Las tallas de la suela son estadounidenses. La etiqueta muestra el Reino Unido. M = hombre W = mujer
 - Los zapatos Crocs mostrarán tallas de EE. UU
+- Las tallas de la suela son estadounidenses. La etiqueta muestra el Reino Unido. M = hombre W = mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072LPPTRN/?tag=tolees-21)
