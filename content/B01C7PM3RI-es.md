@@ -28,9 +28,9 @@ En este momento está [Funko 7470 Warcraft 7470 "POP Vinyl King Llane Figure](ht
 
 🔎:
 
-- Recomendado para niños a partir de 3 años
 - El producto se envía en una caja ilustrada con ventana
 - Figura de colección de la marca Funko
 - El artículo es adecuado para todos los fanáticos de Warcraft
+- Recomendado para niños a partir de 3 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01C7PM3RI/?tag=tolees-21)

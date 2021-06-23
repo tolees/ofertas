@@ -29,9 +29,9 @@ Ahora mismo tienes [Razer Naga TrinityRatón para Juegos MOBA/MMO  Ratón Gaming
 🔎:
 
 - 3 placas laterales intercambiables: Transforma tu ratón para adaptarlo a tu forma de juego con las placas laterales para configuraciones de 2, 7 y 12 botones, cada botón está diseñado para sobresalir y así no te equivoques al pulsar, también ofrece información táctil y auditiva para que estés seguro de cada acción
+- Switches mecánicos de Razer ganadores de varios premios: Equipado con los galardonados switches mecánicos RazerTM, Razer Naga Trinity ofrece una durabilidad pionera de hasta 50 millones de clics para vencer siempre a tus oponentes
 - Diseño óptimizado para diestros: Razer Naga Trinity está diseñado con formato óptimizado para diestros, y así lanzar hechizos hasta altas horas de la madrugada, además de ser tan cómodo como para poder jugar durante horas, los botones están cuidadosamente colocados, por lo que es fácil acceder a ellos y accionarlos
 - Hasta 19 botones programables: Gracias a sus 19 botones programables puedes disfrutar de numerosas posibilidades, independientemente de si vas a asignar solo loscomandos básicos o todos los objetos, los hechizos y el resto de comandos que necesites para el juego
 - Powered by Razer Chroma: Accede a toda una gama de 16,8 millones de colores y personaliza tu ratón Razer Naga Trinity de formamoderna para que combine con tus transformaciones y tonos
-- Switches mecánicos de Razer ganadores de varios premios: Equipado con los galardonados switches mecánicos RazerTM, Razer Naga Trinity ofrece una durabilidad pionera de hasta 50 millones de clics para vencer siempre a tus oponentes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077KJKMYD/?tag=tolees-21)

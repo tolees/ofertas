@@ -28,8 +28,8 @@ En este momento está [SHIMANO Pedales Saint M820 Enduro MTB  Unisex Adulto  Neg
 
 🔎:
 
+- Cuatro pasadores ajustables en altura por lado que mejoran el agarre con las calas desenganchadas.
 - Cuerpo del pedal más delgado para reducir la altura y salvar mejor los obstáculos.
 - Área de contacto más amplia que mejora la estabilidad en combinación con las zapatillas AM.
-- Cuatro pasadores ajustables en altura por lado que mejoran el agarre con las calas desenganchadas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B072R6G8ZX/?tag=tolees-21)
