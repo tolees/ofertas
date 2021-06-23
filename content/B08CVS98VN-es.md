@@ -28,8 +28,8 @@ En este momento está [Lee Daren Zip Fly Vaqueros  Luz Usado  32W / 34L para Hom
 
 🔎:
 
-- Tejido vaquero elástico
 - Cuerda regular
+- Tejido vaquero elástico
 - 5 bolsillos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CVS98VN/?tag=tolees-21)

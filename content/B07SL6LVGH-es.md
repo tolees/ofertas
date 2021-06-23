@@ -28,8 +28,8 @@ Está [Levi s - LEVIS FOOTWEAR AND ACCESSORIES Mid Batwing Flexfit Gorra  Rojo  
 
 ℹ️:
 
+- A estrenar nunca ha sido gastada Mercancía
 - Con licencia para hombre suave camiseta de la música
 - Alta calidad fabricados Apparel
-- A estrenar nunca ha sido gastada Mercancía
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SL6LVGH/?tag=tolees-21)
