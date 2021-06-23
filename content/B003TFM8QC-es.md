@@ -28,8 +28,8 @@ En este momento está [Zoom - Ad16 adaptador de corriente](https://www.amazon.es
 
 🔎:
 
-- Manga / Configuración Consejo Centro: Negativo
 - Amperios de salida 500mA
+- Manga / Configuración Consejo Centro: Negativo
 - Rango de voltaje de entrada 100-240V/50-60Hz
 - Funciona con MS-50G MS-100BT G3 G2 A2 y los procesadores B2
 

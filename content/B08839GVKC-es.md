@@ -28,10 +28,10 @@ Tienes [ProCase Carcasa Transparente con Soporte para MacBook Air 13" M1 2020 20
 
 🔎:
 
-- Armadura robusta con marco absorbente de golpes, brinda protección suprema contra desgastes, salpicaduras, caídas, rasguños y otros daños accidentales
 - Panel transparente muestra el logotipo de tu laptop; El soporte plegable incorporado proporciona un ángulo de escritura ergonómico, lo que ayuda a aliviar la tensión del cuello
-- Ventilado completamente para la dispersión del calor; Fácil acceso a todos los puertos y funciones, puedes enchufar el cargador, cable o auricular sin quitar la carcasa
+- Armadura robusta con marco absorbente de golpes, brinda protección suprema contra desgastes, salpicaduras, caídas, rasguños y otros daños accidentales
 - Funda protectora SOLO para MacBook Air 13" M1 modelo A2337; MacBook Air 13 inch modelo A1932 A2179 con pantalla Retina publicado en 2020/2019/2018. Por favor examina detenidamente el número de modelo "A1xxx" en la parte inferior de la espalda de MacBook antes de comprar. NO es Compatible con otros modelos de MacBook Pro
+- Ventilado completamente para la dispersión del calor; Fácil acceso a todos los puertos y funciones, puedes enchufar el cargador, cable o auricular sin quitar la carcasa
 - Montaje y desmontaje fáciles para tener la protección completa sin esfuerzo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08839GVKC/?tag=tolees-21)
