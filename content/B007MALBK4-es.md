@@ -28,10 +28,10 @@ Tienes [Mil-Tec - Ejército de Shemagh militar táctica de la bufanda de la patr
 
 🔎:
 
-- Material: algodón 1%
-- Puede ser usado como un pañuelo de cabeza o alrededor del cuello y proporciona protección contra la exposición directa al sol
-- Medida: 11x11cm (43 \ "x43 \")
-- Conocido como keffiyeh o SHEMAGH. Suave y cómodo. borla extremos anudados
 - Se puede utilizar para proteger la boca y los ojos contra el polvo y la arena soplada
+- Material: algodón 1%
+- Conocido como keffiyeh o SHEMAGH. Suave y cómodo. borla extremos anudados
+- Medida: 11x11cm (43 \ "x43 \")
+- Puede ser usado como un pañuelo de cabeza o alrededor del cuello y proporciona protección contra la exposición directa al sol
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007MALBK4/?tag=tolees-21)

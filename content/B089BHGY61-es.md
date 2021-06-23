@@ -28,12 +28,12 @@ Está [Rowenta Access Steam+ DR8100 Cepillo de vapor para ropa 1600 W en 40 s  d
 
 ℹ️:
 
-- Cepillo de vapor de mano de 1600 W, calentamiento rápido en 40 segundos con una suela de múltiples agujeros que distribuyen el vapor de una forma continua y homogénea; con depósito extraíble de 190 ml
-- 3 Accesorios incluidos: cepillo para tejidos gruesos, accesorio para prendas delicadas y gancho de puerta
-- Alisa sin tabla de planchar en todo tipo de tejidos sin riesgo de quemar o estropear las prendas; nivel Super Turbo: salida de vapor de 26 g/min para zonas más complicadas
-- Indicado para todo tipo de prendas, óptimo para retoques de última hora gracias a su sistema sin condensación y para las tareas diarias de planchado
-- El cable de 3 m permite moverlo por todo el tejido, lo que facilita el estirado vertical mediante vapor; la suela emite calor al tiempo que evita la condensación
 - El depósito de agua extraíble de gran capacidad 190 ml, ofrece sesiones de planchado intensivas y se rellena fácilmente; fácil de usar gracias a su función bloqueo que mantiene la salida de vapor continua
+- 3 Accesorios incluidos: cepillo para tejidos gruesos, accesorio para prendas delicadas y gancho de puerta
+- El cable de 3 m permite moverlo por todo el tejido, lo que facilita el estirado vertical mediante vapor; la suela emite calor al tiempo que evita la condensación
 - Medidas compactas de 11.5 x 14.5 x 27.5 cm con un peso de 1.4 kg
+- Cepillo de vapor de mano de 1600 W, calentamiento rápido en 40 segundos con una suela de múltiples agujeros que distribuyen el vapor de una forma continua y homogénea; con depósito extraíble de 190 ml
+- Indicado para todo tipo de prendas, óptimo para retoques de última hora gracias a su sistema sin condensación y para las tareas diarias de planchado
+- Alisa sin tabla de planchar en todo tipo de tejidos sin riesgo de quemar o estropear las prendas; nivel Super Turbo: salida de vapor de 26 g/min para zonas más complicadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089BHGY61/?tag=tolees-21)
