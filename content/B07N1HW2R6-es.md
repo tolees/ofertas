@@ -31,8 +31,8 @@ Está [Kipling Gitroy Estuche Grande  Rosa  Bridal Rose ](https://www.amazon.es/
 - 32 portabolígrafos
 - Logo de Kipling redondo
 - 3 compartimentos principales (con cremallera)
-- Mono de Kipling
 - Resistente al agua
+- Mono de Kipling
 - Resistente al agua
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N1HW2R6/?tag=tolees-21)

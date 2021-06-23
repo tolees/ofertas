@@ -28,10 +28,10 @@ Está [Kipling Gitroy Estuche Grande  Rosa  True Pink ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Resistente al agua
 - Mono de Kipling
+- Logo de Kipling redondo
 - 3 compartimentos principales (con cremallera)
 - 32 portabolígrafos
-- Logo de Kipling redondo
+- Resistente al agua
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076H1PNDR/?tag=tolees-21)

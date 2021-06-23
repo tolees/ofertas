@@ -28,10 +28,10 @@ Está [PUMA Shuffle  Zapatillas Unisex Adulto  Negro Black White Team Gold  45 E
 
 ℹ️:
 
+- Puntera perforada
 - Empeine de piel sintética
 - Cubierta de ante en el talón
-- Puntera perforada
-- Silueta de caña baja
 - Cierre con cordones
+- Silueta de caña baja
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082SD8FX6/?tag=tolees-21)

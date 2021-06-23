@@ -28,8 +28,8 @@ Está [adidas Continental 80  Sneaker Hombre  Core Black/Scarlet/Collegiate Navy
 
 ℹ️:
 
-- Corte regular
 - Cordones de zapatos
 - Suela de goma
+- Corte regular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K2N6VVR/?tag=tolees-21)

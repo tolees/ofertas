@@ -28,8 +28,8 @@ En este momento está [PUMA Tazon 6 FM  Zapatillas Hombre  Blanco White Black Si
 
 🔎:
 
-- White
 - Textile, Synthetic
+- White
 - adulto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01H4CWAG8/?tag=tolees-21)
