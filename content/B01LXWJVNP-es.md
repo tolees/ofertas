@@ -28,9 +28,9 @@ Está [Rowenta  Trim & Style - Kit de Aseo personal 12 en 1: Afeitadora y perfil
 
 ℹ️:
 
-- Peines accesorios: oído, nariz
 - Sistema de afeitado: máquina de afeitar de rotación
 - Fuente de energía: AC/batería
 - Número de máquina de afeitar cabezas/cuchillas: 12
+- Peines accesorios: oído, nariz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LXWJVNP/?tag=tolees-21)
