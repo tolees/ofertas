@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo PW 1321 - Ventilador industrial al 54.88 % de descuento'
-date: 2021-06-23 06:37:44
+date: 2021-06-24 12:39:26
 image: 'https://m.media-amazon.com/images/I/51OeHNCETCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Orbegozo'
 buyurl: 'https://www.amazon.es/dp/B07G3XZDM1/?tag=tolees-21'
 descuento: '54.88'
-average: '23.0'
+average: '21.875'
 ---
 
 Está [Orbegozo PW 1321 - Ventilador industrial Power Fan  3 velocidades  inclinación regulable  sistema antivuelco  asa de transporte  aspas de 20 cm  45 W](https://www.amazon.es/dp/B07G3XZDM1/?tag=tolees-21) con 54.88 de descuento por 18.5 EUR (original: 41.0 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Orbegozo PW 1321 - Ventilador industrial Power Fan  3 velocidades  inclin
 
 ℹ️:
 
-- Ventilador industrial Power Fan de suelo con 45 W de potencia y 3 velocidades
-- El asa de transporte facilita su desplazamiento entre distintas estancias
-- Posee unas aspas metálicas de 20 cm de diámetro
-- Dimensiones (ancho x alto x profundidad): 30.5 x 29 x 14 cm
 - Incorpora un sistema de seguridad antivuelco que apaga el aparato automáticamente
+- Posee unas aspas metálicas de 20 cm de diámetro
+- El asa de transporte facilita su desplazamiento entre distintas estancias
+- Ventilador industrial Power Fan de suelo con 45 W de potencia y 3 velocidades
+- Dimensiones (ancho x alto x profundidad): 30.5 x 29 x 14 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07G3XZDM1/?tag=tolees-21)
