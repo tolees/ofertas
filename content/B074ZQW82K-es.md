@@ -28,7 +28,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Desconstructed Mid Waist Straight Jeans  Med
 
 🔎:
 
-- Con cremallera
 - Tamaño mediano
+- Con cremallera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074ZQW82K/?tag=tolees-21)
