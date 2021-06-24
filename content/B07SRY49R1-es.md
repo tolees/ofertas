@@ -28,10 +28,10 @@ Está [Levi s Box Tab Cap Gorra  Negro  Regular Black 59   Talla única  Talla d
 
 ℹ️:
 
+- Tira ajustable en la parte trasera
 - Información sobre el tamaño del sombrero: Ajustable - La tira trasera permite adaptarse a la mayoría de tallas cómodamente hasta los 61 cm.
 - Logotipo cuadricular de Levis bordado en el frontal
-- Tira ajustable en la parte trasera
-- Ojales transpirables
 - Visera precurvada
+- Ojales transpirables
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SRY49R1/?tag=tolees-21)
