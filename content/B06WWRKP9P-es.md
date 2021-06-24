@@ -28,10 +28,10 @@ Tienes [VARO POWE80060 PowerPlus POWE80060-Herramienta Multitool 135W](https://w
 
 🔎:
 
-- Regulación de velocidad electrónica: Sí.
 - Velocidad: 8000 – 3.2500 u/min.
-- Multifuncional en maletín incluye 40 piezas, juego de accesorios
-- Longitud del cable de alimentación: 2 m aprox.
 - Potencia: 135 W
+- Regulación de velocidad electrónica: Sí.
+- Longitud del cable de alimentación: 2 m aprox.
+- Multifuncional en maletín incluye 40 piezas, juego de accesorios
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06WWRKP9P/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [ThunderX3 - Thunder X3 TK40- Teclado gaming Híbrido Mecánico-   Efecto 
 
 ℹ️:
 
-- TK40 te permite guardar hasta 3 perfiles distintos, dándote un control total sobre tus configuraciones según los tipos de juegos que frecuentes
+- Este sistema híbrido combina los benecios de la pulsación mecánica con la membrana para ofrecer un excelente tacto, confort y durabilidad
 - Imagina no poder saltar, agacharte, correr, pegar o apuntar a la vez mientras juegas a tu videojuego favorito. TK40 está diseñado para poder ejecutar las acciones de hasta 26 teclas pulsadas al mismo tiempo
 - QWERTY: Layout Español
-- Este sistema híbrido combina los benecios de la pulsación mecánica con la membrana para ofrecer un excelente tacto, confort y durabilidad
+- TK40 te permite guardar hasta 3 perfiles distintos, dándote un control total sobre tus configuraciones según los tipos de juegos que frecuentes
 - Cuenta con un avanzado sistema de programación ThunderX3 que te permitirá reasignar cualquier acción a la tecla que desees de una manera rápida y sencilla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GEOM06W/?tag=tolees-21)

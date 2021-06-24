@@ -28,10 +28,10 @@ En este momento está [UNITED COLORS OF BENETTON. Set 3pcs Toallas de baño  30 
 
 🔎:
 
-- Este conjunto de toallas cuenta con los certificados OEKO-TEX y Better Cotton Initative (BCI), que garantizan altos estándares de seguridad y el cuidado del medio ambiente.
-- Diseño versátil que se adapta a la rutina diaria y aporta un toque personal y diferenciador a su cuarto de baño.
 - Color: Gris
 - Conjunto de 3 toallas: toalla tocador, lavabo y de baño. En algodón 100% de 450 gr./m2 de tacto suave, secado rápido, durabilidad y rápida absorción. Gran resistencia a la decoloración.
+- Diseño versátil que se adapta a la rutina diaria y aporta un toque personal y diferenciador a su cuarto de baño.
+- Este conjunto de toallas cuenta con los certificados OEKO-TEX y Better Cotton Initative (BCI), que garantizan altos estándares de seguridad y el cuidado del medio ambiente.
 - Set de toallas: 1PC Toalla tocador 30x50CM / 1PC Toalla lavabo 50x90CM / 1PC Toalla 70x140CM Gramaje: 450GSM Composición: 100% algodón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B3MZKRP/?tag=tolees-21)

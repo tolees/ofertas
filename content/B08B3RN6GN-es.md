@@ -28,7 +28,7 @@ Está [Lacoste Sport SH1505 Suter  Lazuli/Lazuli  XS para Hombre](https://www.am
 
 ℹ️:
 
-- Acabados acanalados en los puños y en el bajo de la prenda y media luna de tafetán diamantado (tejido suave y muy ligero con un acabado delicadamente brillante)
 - Felpa de algodón cepillado
+- Acabados acanalados en los puños y en el bajo de la prenda y media luna de tafetán diamantado (tejido suave y muy ligero con un acabado delicadamente brillante)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B3RN6GN/?tag=tolees-21)

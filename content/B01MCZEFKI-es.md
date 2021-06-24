@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Woods  Zapatillas Hombre  Blanco  al 50.00 % de descuento'
-date: 2021-06-10 09:15:29
+date: 2021-06-24 21:01:42
 image: 'https://m.media-amazon.com/images/I/31wHT8cnuoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B01MCZEFKI/?tag=tolees-21'
 descuento: '50.00'
-average: '31.475'
+average: '30.9833333333333'
 ---
 
 Está [Levi s Woods  Zapatillas Hombre  Blanco  B White 50   43 EU](https://www.amazon.es/dp/B01MCZEFKI/?tag=tolees-21) con 50.00 de descuento por 30.0 EUR (original: 60.0 EUR) en el siguiente enlace!

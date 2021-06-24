@@ -29,7 +29,7 @@ Tienes [Lee Luke Jeans Vaqueros  Mid Stone Wash  33W / 34L para Hombre](https://
 ℹ️:
 
 - Tejido vaquero elástico
-- Tapizado fino
 - Transparente
+- Tapizado fino
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CXY4C5R/?tag=tolees-21)

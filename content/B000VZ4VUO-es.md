@@ -28,10 +28,10 @@ Tienes [Polti Kalstop - Anticalcáreo para aparatos con caldera  no tóxico](htt
 
 🔎:
 
-- Fabricado en Italia
-- Compatible con Vaporella, Vaporetto, Vaporetto Lecoaspira y Unico
-- Anticalcáreo de origen natural y biodegradable
 - Estudiado para evitar la formación de cal y mejorar la emisión de vapor de los aparatos con caldera
+- Anticalcáreo de origen natural y biodegradable
+- Fabricado en Italia
 - Cada caja contiene 20 viales de 5 ml
+- Compatible con Vaporella, Vaporetto, Vaporetto Lecoaspira y Unico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000VZ4VUO/?tag=tolees-21)
