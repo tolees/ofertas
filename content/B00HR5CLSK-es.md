@@ -28,9 +28,9 @@ Tienes [Portwest A197 - Guante Shell antiestático  color Gris  talla Medium](ht
 
 ℹ️:
 
-- Certificado por la CE
 - Nuevo estilo
-- ESD
 - Retail bolsa
+- ESD
+- Certificado por la CE
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HR5CLSK/?tag=tolees-21)
