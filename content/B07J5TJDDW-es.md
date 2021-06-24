@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 42.79 % en Skechers Status 2.0 Pexton  Zapatillas H'
-date: 2021-06-22 23:20:08
+title: 'Descuento del 44.57 % en Skechers Status 2.0 Pexton  Zapatillas H'
+date: 2021-06-23 23:48:37
 image: 'https://m.media-amazon.com/images/I/41xOi9fJLjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07J5TJDDW-es Skechers Status 2.0 Pexton Zapatillas Hombre Negro Black...'
 sku: 'B07J5TJDDW-es'
 tags: [ 'Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','skechers', ]
-actualPrice: 37.16 EUR
+actualPrice: 36.0 EUR
 currency: EUR
-price: 37.16
+price: 36.0
 comparePrice: 64.95 EUR
 prodname: 'Skechers Status 2.0 Pexton  Zapatillas Hombre  Negro  Black Canvas Black   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07J5TJDDW/?tag=tolees-21'
-descuento: '42.79'
-average: '29.9784'
+descuento: '44.57'
+average: '30.21'
 ---
 
-Tienes [Skechers Status 2.0 Pexton  Zapatillas Hombre  Negro  Black Canvas Black   39.5 EU](https://www.amazon.es/dp/B07J5TJDDW/?tag=tolees-21) con un 42.79 % de descuento con precio de oferta de 37.16 EUR (original: 64.95 EUR) en el siguiente enlace!
+Tienes [Skechers Status 2.0 Pexton  Zapatillas Hombre  Negro  Black Canvas Black   39.5 EU](https://www.amazon.es/dp/B07J5TJDDW/?tag=tolees-21) con un 44.57 % de descuento con precio de oferta de 36.0 EUR (original: 64.95 EUR) en el siguiente enlace!
 
 [![Skechers Status 2.0 Pexton  Zapatillas H](https://m.media-amazon.com/images/I/41xOi9fJLjL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07J5TJDDW/?tag=tolees-21)
 

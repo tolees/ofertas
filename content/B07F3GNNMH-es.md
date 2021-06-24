@@ -28,9 +28,9 @@ En este momento está [Geox Uomo Sandal Strada D  Sandalias con Punta Abierta Ho
 
 🔎:
 
-- Leder ist langlebig und strapazierfähig
-- Perforierte Sohle mit einer inneren Membran – sorgt für Atmungsaktivität und ist wasserundurchlässig
 - Die U S.Strada D für Herren von Geox ist eine komfortable Sandale für warme Sommertage.
+- Perforierte Sohle mit einer inneren Membran – sorgt für Atmungsaktivität und ist wasserundurchlässig
+- Leder ist langlebig und strapazierfähig
 - Anlass: Casual
 - Verstellbare Riemen für individuelle Passform und festen Halt
 
