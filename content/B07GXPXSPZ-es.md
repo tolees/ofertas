@@ -28,7 +28,7 @@ Ahora mismo tienes [Camper Uno  Zapatillas Mujer  Amarillo  Lt/Pastel Yellow 740
 
 🔎:
 
-- Suela de goma
 - Cuero y medios mixtos
+- Suela de goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GXPXSPZ/?tag=tolees-21)
