@@ -28,10 +28,10 @@ Ahora mismo tienes [ACELEY Beauty and The Beast Rose Kit  Flor de Rosa eterna co
 
 🔎:
 
-- Colorful Light Forever Rose: diseñado con luz LED de colores para brindarle un excelente efecto de luz decorativa, compatible con el modo de pizca cálida, perfecto para el uso nocturno, bueno para crear un ambiente. Luzca increíble como pieza central en su sala de estar o dormitorio.
-- Regalo perfecto para cualquier ocasión: Deam of flower rose como símbolo de amor, grandes regalos para el día de San Valentín, día de la madre, día de la maestra de la mujer, aniversario, boda, navidad, día de acción de gracias y regalo del día más dulce, etc.
 - Forever Rose multifuncional: Forever rose tiene función de aromaterapia, la base de la cúpula de plástico rosa puede almacenar aceite esencial o perfume mediante la almohadilla de algodón adjunta. Y admite carga USB, rosa eterna incorporada con batería de 800 mah.
-- Exquisita artesanía: flor de rosa eterna hecha de rosa artificial y cúpula de vidrio premium. La rosa seca debajo de la cúpula de plástico transparente es hermosa y delicada, la elección perfecta como decoración de escritorio y regalo.
+- Colorful Light Forever Rose: diseñado con luz LED de colores para brindarle un excelente efecto de luz decorativa, compatible con el modo de pizca cálida, perfecto para el uso nocturno, bueno para crear un ambiente. Luzca increíble como pieza central en su sala de estar o dormitorio.
 - Románticos: Nuestra eterna rosa, nunca se marchita, se desvanece ni se deforma, lo que representa su amor por su persona significativa. Apasionados y románticos! No solo como símbolo del amor eterno, también es un símbolo de los mejores deseos.
+- Exquisita artesanía: flor de rosa eterna hecha de rosa artificial y cúpula de vidrio premium. La rosa seca debajo de la cúpula de plástico transparente es hermosa y delicada, la elección perfecta como decoración de escritorio y regalo.
+- Regalo perfecto para cualquier ocasión: Deam of flower rose como símbolo de amor, grandes regalos para el día de San Valentín, día de la madre, día de la maestra de la mujer, aniversario, boda, navidad, día de acción de gracias y regalo del día más dulce, etc.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08P2QJMWH/?tag=tolees-21)

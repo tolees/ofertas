@@ -28,7 +28,7 @@ En este momento está [Only ONLMOSTER S/S Top Noos JRS Camiseta  Multicolor  Bla
 
 🔎:
 
-- Animal top
 - Leo pattern shirt
+- Animal top
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07M8HWKYC/?tag=tolees-21)

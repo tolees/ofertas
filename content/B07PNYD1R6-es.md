@@ -28,7 +28,7 @@ Está [Only Onlrain Mid Long Shorts Cry6060 Pantalones Cortos  Negro  Black Blac
 
 ℹ️:
 
-- long shorts
 - cotton blend
+- long shorts
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PNYD1R6/?tag=tolees-21)

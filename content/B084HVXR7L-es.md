@@ -29,9 +29,9 @@ Ahora mismo tienes [HEAD Challenge MP Raquetas de Tenis  Adultos Unisex  Multico
 🔎:
 
 - Si necesitas una raqueta que refuerce los efectos y la potencía de tu juego, la challenge mp es la opción perfecta
+- Peso: 270 g
 - Patrón de cuerdas: 16/19
 - Technology: innegra
-- Peso: 270 g
 - Tamaño de la cabeza: 645 cm²
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084HVXR7L/?tag=tolees-21)

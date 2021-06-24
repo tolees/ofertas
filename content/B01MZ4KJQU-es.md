@@ -28,10 +28,10 @@ Tienes [Durex Preservativos Intense Orgasmic con Puntos y Estrías - 12 Condones
 
 🔎:
 
-- PRESERVATIVOS CON MÁS GROSOR
+- CONDONES LUBRICADOS con GEL DESIREX
 - PERÍMETRO ESTÁNDAR
 - EASY-ON
-- CONDONES LUBRICADOS con GEL DESIREX
 - PLACER PARA ELLA
+- PRESERVATIVOS CON MÁS GROSOR
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MZ4KJQU/?tag=tolees-21)
