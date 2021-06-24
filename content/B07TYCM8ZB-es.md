@@ -28,8 +28,8 @@ En este momento está [Lee Plain Crew Suéter  Azul  Midnight Navy Ma   Small pa
 
 🔎:
 
-- Tiene el logo de Lee bordado en el pecho
-- Producto de corte regular
 - Presenta puños de canalé
+- Producto de corte regular
+- Tiene el logo de Lee bordado en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TYCM8ZB/?tag=tolees-21)

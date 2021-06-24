@@ -28,10 +28,10 @@ En este momento está [Pentax SMC FA 31 mm f:1.8 Al Limited - Objetivo  Plata](h
 
 🔎:
 
-- Elementos ED (extra baja dispersión) para nitidez y colores saturados
-- Construcción resistente a la intemperie con 13 partes selladas (AW - All Weather) para prevenir eficazmente la intrusión de agua en su interior
 - Cuerpo de cámara PENTAX K con sensor Aps-C, cubre un rango de 37 mm a 107 mm
-- Círculo de imagen que cubre el sensor de cuadro completo, con una relación 3x telezoom
+- Elementos ED (extra baja dispersión) para nitidez y colores saturados
 - AF suave y silencioso impulsado por un motor DC incorporado
+- Construcción resistente a la intemperie con 13 partes selladas (AW - All Weather) para prevenir eficazmente la intrusión de agua en su interior
+- Círculo de imagen que cubre el sensor de cuadro completo, con una relación 3x telezoom
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000H8FIWU/?tag=tolees-21)

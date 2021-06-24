@@ -29,8 +29,8 @@ Está [Clarks Freckle Ice  Bailarinas Mujer  Azul  Navy Leather   35.5 EU](https
 ℹ️:
 
 - Ajuste: Estándar
+- Forro: Cuero
 - Suela: Tr
 - Superiores: Cuero
-- Forro: Cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0094Y6OXU/?tag=tolees-21)
