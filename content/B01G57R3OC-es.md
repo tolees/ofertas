@@ -28,10 +28,10 @@ En este momento está [Chicco- Big & Small Andador  centro de actividades  encaj
 
 🔎:
 
+- Carrito de la compra para guardar sus objetos preferidos en la cesta
+- Con luces y melodías
 - Bilingüe: aprende los diferentes nombres de los alimentos, colores y formas
 - Encajables para estimular al pequeño
 - Andador 3en1: andador, actividades bilingüe y carrito de la compra
-- Carrito de la compra para guardar sus objetos preferidos en la cesta
-- Con luces y melodías
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01G57R3OC/?tag=tolees-21)
