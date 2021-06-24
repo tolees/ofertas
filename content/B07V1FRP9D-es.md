@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jjehill Knit Crew Neck Noos suéter  Marfil  Oatmealmelange
 
 🔎:
 
-- High quality cotton
 - Knit Pullover with Structure
+- High quality cotton
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V1FRP9D/?tag=tolees-21)
