@@ -29,8 +29,8 @@ Ahora mismo tienes [Meridiem Games - Pack: Another World + Flashback](https://ww
 🔎:
 
 - Tutorials for those who need a boost!
-- Completely remastered sound and music
 - A brand new "Rewind" function, variable according to the level of difficulty
+- Completely remastered sound and music
 - Post-FX graphic filters
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07T4H7LKV/?tag=tolees-21)

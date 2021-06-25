@@ -28,11 +28,11 @@ En este momento está [Geox U WALEE A  Zapatillas Hombre  Gris  Grey C1006   42 
 
 🔎:
 
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Material de la suela: Sintético
-- Cierre: Cordones
 - Material exterior: Tela
-- Revestimiento: Tela
 - Tipo de tacón: Plano
+- Revestimiento: Tela
+- Cierre: Cordones
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SVPMB43/?tag=tolees-21)

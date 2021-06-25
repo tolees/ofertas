@@ -28,12 +28,12 @@ Tienes [Hugo Boss Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 15
 
 🔎:
 
+- Visualización cronógrafo
+- Movimiento multifunción
 - Mecanismo de cuarzo
+- Esfera negra
 - Cierre: hebilla
 - Resistencia máxima a la presión del agua: 1 bar
-- Movimiento multifunción
-- Esfera negra
-- Visualización cronógrafo
 - Reloj de acero inoxidable con correa de piel
 - Forma del producto: redondo
 

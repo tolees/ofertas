@@ -28,9 +28,9 @@ Tienes [lavera Lavado corporal Peach  N  Beach  Melocotón Orgánico & Aloe Vera
 
 🔎:
 
-- Our formulations contain ingredients from certified organic farming and are free from solid and liquid microplastic, artificial colourings and preservatives* (*as per the EU Cosmetics Regulation)
-- This lavera Body Wash with organic peach and organic aloe vera gently cleanses and refreshes your skin.
-- Natural personal care that has been certified by independent institutions and dermatologically tested.
 - We are a climate neutral company: ClimatePartner.com/12310-1610-1001.
+- Natural personal care that has been certified by independent institutions and dermatologically tested.
+- This lavera Body Wash with organic peach and organic aloe vera gently cleanses and refreshes your skin.
+- Our formulations contain ingredients from certified organic farming and are free from solid and liquid microplastic, artificial colourings and preservatives* (*as per the EU Cosmetics Regulation)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086Z49JSF/?tag=tolees-21)

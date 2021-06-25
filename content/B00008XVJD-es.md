@@ -28,8 +28,8 @@ En este momento está [WMF Profi Plus Tenedor para Carne  Acero Inoxidable Pulid
 
 🔎:
 
-- Fácil de limpiar. Apto para lavavajillas
 - Fabricado en Cromargan (acero inoxidable 18/10)
 - Resistente a rayaduras y a los ácidos de los alimentos
+- Fácil de limpiar. Apto para lavavajillas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00008XVJD/?tag=tolees-21)

@@ -28,13 +28,13 @@ Ahora mismo tienes [Electrolux LIT60336 Placa inducción  Biselada  Extraplana d
 
 🔎:
 
-- Zonas Infinite: se ajustan al recipiente
+- Función CleverHeat: 3 niveles de calor residual: Indicador de calor residual en 3 niveles
+- Función Puente: permite unir dos zonas de cocción en una zona grande
+- Zona de Cocción: Placa de inducción de 60 cm con 3 zonas de cocción una de ellas de 3,7 kW
 - Sensor de ebullición: detecta cuando hierve el agua para reducir automáticamente la potencia a fuego lento
 - Controles independientes: permiten ajustar al instante la potencia de la placa
 - El sistema de conexión te permite conectar con campanas extractoras compatibles, activandolas automático y regulando la intensidad de extracción y la iluminación
-- Función CleverHeat: 3 niveles de calor residual: Indicador de calor residual en 3 niveles
 - Dimensiones (ancho x largo x altura): 590 mm x 520 mm x 44 mm,Tamaño: 60 cm, no dispone de enchufe macho, la instalación es mediante cableado y, por su seguridad, tiene que realizarla un profesional
-- Función Puente: permite unir dos zonas de cocción en una zona grande
-- Zona de Cocción: Placa de inducción de 60 cm con 3 zonas de cocción una de ellas de 3,7 kW
+- Zonas Infinite: se ajustan al recipiente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F8M52WK/?tag=tolees-21)

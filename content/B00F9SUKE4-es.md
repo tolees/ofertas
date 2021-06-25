@@ -29,9 +29,9 @@ Tienes [Russell Hobbs Steam Glide Professional Plancha de Ropa - 2600 W  Suela d
 🔎:
 
 - Suela de Cerámica - Plancha con suela de cerámica, antideslizante y cable de 2 metros
-- Depósito de Agua de 300 ml - Cuenta con un depósito de agua con capacidad para 300 ml
-- Autolimpieza - Dispone de función de autolimpieza
 - Golpe de Vapor de 140 g - Vapor vertical, vaporizador y vapor continuo de 40 g
+- Autolimpieza - Dispone de función de autolimpieza
+- Depósito de Agua de 300 ml - Cuenta con un depósito de agua con capacidad para 300 ml
 - Potencia de 2600 W - Plancha de ropa con planchado seco, vapor, pulverizador, chorro de vapor y potencia de 2600 W
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00F9SUKE4/?tag=tolees-21)
