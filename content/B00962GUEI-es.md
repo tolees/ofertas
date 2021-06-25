@@ -28,10 +28,10 @@ Ahora mismo tienes [Invicta Specialty 12830 Reloj para Mujer Cuarzo - 33mm](http
 
 🔎:
 
-- Resistencia a la presión de aqua de 3 bares
-- 2 años de garantía Invicta
-- El Invicta 12830 tiene una caja de acero inoxidable de 33 millimetros con una esfera blanco
-- Esta modelo funciona con un movimiento de Cuarzo preciso
 - Este modelo es parte de la colección Invicta Specialty
+- Resistencia a la presión de aqua de 3 bares
+- Esta modelo funciona con un movimiento de Cuarzo preciso
+- El Invicta 12830 tiene una caja de acero inoxidable de 33 millimetros con una esfera blanco
+- 2 años de garantía Invicta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00962GUEI/?tag=tolees-21)

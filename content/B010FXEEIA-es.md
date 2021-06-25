@@ -28,9 +28,9 @@ Tienes [Joma Nilo Pantalon Largo Deportivo  Hombre  Negro  5XS](https://www.amaz
 
 ℹ️:
 
-- Aberturas en el bajo con cremallera
+- Cintura elástica con cordón
 - Incluye bolsillos sin cremalleras
 - Pantalón largo perchado con estilo pitillo
-- Cintura elástica con cordón
+- Aberturas en el bajo con cremallera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B010FXEEIA/?tag=tolees-21)

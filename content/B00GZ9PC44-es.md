@@ -28,10 +28,10 @@ Tienes [Westinghouse Lighting Bendan Ventilador de Techo  132 cm interior R7s  8
 
 🔎:
 
-- Instalación solo con varilla de extensión, incluido manual de instrucciones ilustrado
-- Mando a distancia con tres niveles de velocidad, interruptores de encendido/apagado para el ventilador y la luz, conmutador inversor para funcionamiento de verano/invierno
 - Este ventilador de techo interior contemporáneo de 132 cm con acabado en cromo satinado es ideal para estancias de más de 25 metros cuadrados
 - Cinco palas reversibles plateadas; la luminaria de vidrio opalino incluye 1 lámpara R7 de 80 W, compatible con LED
 - Circulación de aire de bajo consumo, potente movimiento de aire y funcionamiento silencioso
+- Instalación solo con varilla de extensión, incluido manual de instrucciones ilustrado
+- Mando a distancia con tres niveles de velocidad, interruptores de encendido/apagado para el ventilador y la luz, conmutador inversor para funcionamiento de verano/invierno
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00GZ9PC44/?tag=tolees-21)

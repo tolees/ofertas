@@ -28,9 +28,9 @@ Tienes [Vanguard Alta Pro 263AB 100 - Trípode completo  color negro](https://ww
 
 🔎:
 
-- Bonus: bolsa de transporte
 - Cerraduras Quick-flip en las patas
-- Pies de goma y picas
+- Bonus: bolsa de transporte
 - Patas ajustables a ángulos de 25,50 y 80 grados
+- Pies de goma y picas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004OYUDG4/?tag=tolees-21)
