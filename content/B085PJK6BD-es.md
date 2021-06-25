@@ -28,10 +28,10 @@ Está [Réplica oficial camiseta segunda equipación rfef 2020](https://www.amaz
 
 ℹ️:
 
+- Producto practico
+- Hecho de material de calidad que es lo suficientemente resistente para un uso prolongado
 - Este artículo es de calidad
 - Producto que combina tradición e innovación
 - Diseño óptimo
-- Producto practico
-- Hecho de material de calidad que es lo suficientemente resistente para un uso prolongado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085PJK6BD/?tag=tolees-21)

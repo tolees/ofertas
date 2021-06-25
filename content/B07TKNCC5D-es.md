@@ -28,8 +28,8 @@ Tienes [Clarks Un Pilot Tie  Zapatillas Hombre  Azul  Navy Nubuck Navy Nubuck   
 
 ℹ️:
 
-- Exterior: piel
 - Interior: textil
 - Suela: EVA
+- Exterior: piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TKNCC5D/?tag=tolees-21)

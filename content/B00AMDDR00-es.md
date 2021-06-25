@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.50 % en Nayeco P100001 - Caseta para Perro'
-date: 2021-06-05 12:52:23
+date: 2021-06-25 06:16:34
 image: 'https://m.media-amazon.com/images/I/41nSJA4jqJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nayeco'
 buyurl: 'https://www.amazon.es/dp/B00AMDDR00/?tag=tolees-21'
 descuento: '55.50'
-average: '27.898'
+average: '26.8416666666667'
 ---
 
 Tienes [Nayeco P100001 - Caseta para Perro](https://www.amazon.es/dp/B00AMDDR00/?tag=tolees-21) con un 55.50 % de descuento con precio de oferta de 21.56 EUR (original: 48.45 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [Nayeco P100001 - Caseta para Perro](https://www.amazon.es/dp/B00AMDDR00/
 
 ℹ️:
 
-- Ideal para perros pequeños
-- Aislamiento térmico
 - Fácil de limpiar
+- Aislamiento térmico
+- Ideal para perros pequeños
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AMDDR00/?tag=tolees-21)
