@@ -29,7 +29,7 @@ En este momento está [Levi s XX Chino Std II Khakis  Desert Boots Shady GD Ccu 
 🔎:
 
 - Pantalones chinos de corte estándar
-- Tacto suave y agradable
 - Entallado gradual hasta el tobillo
+- Tacto suave y agradable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0848BZ8DK/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Elac Debut b5.2 – Altavoz de estantería Negro Decoraci�
 
 🔎:
 
-- Carga musical 120 W
 - Rango de frecuencia (IEC 268 – 5) 46 – 35000 Hz
-- Cruce 2200 Hz
+- Carga musical 120 W
 - Impedancia nominal 6 Ω
 - Tipo de construcción: de 2 Vías, Bass Reflex
+- Cruce 2200 Hz
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DNCKG7F/?tag=tolees-21)
