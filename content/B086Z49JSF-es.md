@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'lavera Lavado corporal Peach  N  Beach   al 35.46 % de rebaja'
-date: 2021-06-01 15:08:38
+date: 2021-06-25 14:49:27
 image: 'https://m.media-amazon.com/images/I/41rKxwFCaaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [lavera Lavado corporal Peach  N  Beach  Melocotón Orgánico & Aloe Vera
 
 🔎:
 
+- Our formulations contain ingredients from certified organic farming and are free from solid and liquid microplastic, artificial colourings and preservatives* (*as per the EU Cosmetics Regulation)
 - This lavera Body Wash with organic peach and organic aloe vera gently cleanses and refreshes your skin.
 - Natural personal care that has been certified by independent institutions and dermatologically tested.
-- Our formulations contain ingredients from certified organic farming and are free from solid and liquid microplastic, artificial colourings and preservatives* (*as per the EU Cosmetics Regulation)
 - We are a climate neutral company: ClimatePartner.com/12310-1610-1001.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086Z49JSF/?tag=tolees-21)

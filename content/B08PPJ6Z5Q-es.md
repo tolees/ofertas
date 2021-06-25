@@ -28,8 +28,8 @@ Tienes [adidas NMD R1  Sneaker Hombre  Collegiate Green/Footwear White/Gum  45 1
 
 ℹ️:
 
-- Ajuste óptimo
 - Malla de células cerradas en la parte superior
+- Ajuste óptimo
 - Zapatilla de calle con soporte óptimo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08PPJ6Z5Q/?tag=tolees-21)

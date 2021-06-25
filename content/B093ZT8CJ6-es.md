@@ -28,10 +28,10 @@ Está [De Longhi Nespresso Vertuo Next Máquina de Café Nespresso  ENV120.BW  M
 
 ℹ️:
 
-- Avanzadas tecnologías: mediante la tecnología Bluetooth y la conectividad Wi-Fi, Vertuo Next le garantiza la mejor experiencia Nespresso, siempre al día, gracias a las actualizaciones automáticas
-- El resultado es siempre la perfección en taza, independientemente del tamaño; Además, la máquina forma crema de manera natural para preparar las variedades largas y el espresso más tradicional
-- Diseño: acabados cromados y colores Premium en versiones Premium; Colores cromados en versión Deluxe
 - Gran comodidad y flexibilidad: control sencillo con un botón y expulsión automática de la cápsula
 - Tamaños de taza versátiles: una máquina para 5 tamaños de café; Admite Carafe (535ml), Mug (230ml), Gran Lungo (150ml), doble espresso (80ml) y espresso (40ml) mediante 4 tamaños de cápsula
+- Diseño: acabados cromados y colores Premium en versiones Premium; Colores cromados en versión Deluxe
+- El resultado es siempre la perfección en taza, independientemente del tamaño; Además, la máquina forma crema de manera natural para preparar las variedades largas y el espresso más tradicional
+- Avanzadas tecnologías: mediante la tecnología Bluetooth y la conectividad Wi-Fi, Vertuo Next le garantiza la mejor experiencia Nespresso, siempre al día, gracias a las actualizaciones automáticas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B093ZT8CJ6/?tag=tolees-21)

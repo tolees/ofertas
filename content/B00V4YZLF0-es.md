@@ -28,10 +28,10 @@ Tienes [E LIFEXIR - Elifexir Vientre Plano | Crema Remodelante  Reafirmante y To
 
 ℹ️:
 
-- Elifexir Vientre Plano es una crema de rápida absorción que ayuda a combatir la flacidez del área abdominal y restaura la firmeza de la piel para mostrar un vientre plano, firme y tonificado.
-- Aplicar mañana y noche. Extender con un contínuo masaje con la palma de la mano en el sentido de las agujas del reloj, hasta su total absorción. Apto en periodo de lactancia. Ideal para uso diario.
-- Formulado con PQ8 (Cafeína Vegetal, Theophylline, Bupleurum Chinensis) que ejerce una importante acción reductora; y con Coenzima A (CoA), que lucha contra la flacidez abdominal para ayudar a conseguir un abdomen plano
 - Complejo Firmeza y Tonificante: Centella Asiática Extracto Seco Purificado con ácido asiaticoside y madecassoside, activos anti-estrías que estimulan la síntesis de colágeno para mejorar la firmeza de la piel. Además, aporta un potente antioxidante y protector.
 - Tonifica y reafirma tu barriga con caféina moldeadora, un abdomen definido y suave; reductor expreso para zona de vientre
+- Aplicar mañana y noche. Extender con un contínuo masaje con la palma de la mano en el sentido de las agujas del reloj, hasta su total absorción. Apto en periodo de lactancia. Ideal para uso diario.
+- Formulado con PQ8 (Cafeína Vegetal, Theophylline, Bupleurum Chinensis) que ejerce una importante acción reductora; y con Coenzima A (CoA), que lucha contra la flacidez abdominal para ayudar a conseguir un abdomen plano
+- Elifexir Vientre Plano es una crema de rápida absorción que ayuda a combatir la flacidez del área abdominal y restaura la firmeza de la piel para mostrar un vientre plano, firme y tonificado.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00V4YZLF0/?tag=tolees-21)
