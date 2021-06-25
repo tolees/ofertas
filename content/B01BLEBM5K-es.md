@@ -28,8 +28,8 @@ Tienes [Instituto Español Loción Piernas Cansadas con Árnica - 500 ml](https:
 
 ℹ️:
 
-- Texturas: Loción
 - Su principal componente activo es
 - Flor de Árnica, una especie silvestre con capacidades curativas, calmantes y beneficios circulatorios
+- Texturas: Loción
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BLEBM5K/?tag=tolees-21)
