@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Re:ZERO - The Prophecy  al 41.74 % de descuento'
-date: 2021-06-24 06:57:07
+date: 2021-06-25 08:30:23
 image: 'https://m.media-amazon.com/images/I/51yXtIV5AWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B089QZCRP1/?tag=tolees-21'
 descuento: '41.74'
-average: '41.15'
+average: '40.1166666666667'
 ---
 
 Está [Meridiem Games - Re:ZERO - The Prophecy of the Throne](https://www.amazon.es/dp/B089QZCRP1/?tag=tolees-21) con 41.74 de descuento por 34.95 EUR (original: 59.99 EUR) en el siguiente enlace!
