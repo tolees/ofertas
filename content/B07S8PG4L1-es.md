@@ -28,12 +28,12 @@ Está [Salt of the Earth Ámbar y sándalo desodorante natural en spray  100 ml 
 
 ℹ️:
 
-- ★ Protección de larga duración: proporciona una protección duradera y eficaz contra el olor corporal, manteniéndote fresco, seguro y sin olor durante más tiempo.
-- ★ Sin marcas blancas: los desodorantes en aerosol Salt of the Earth están cuidadosamente formulados para garantizar que no te dejarán marcas blancas embarazosas en tu ropa.
+- ★ Apto para veganos: 100% vegano y aprobado por la Vegan Society y Vegetarian Society.
 - ★ Recargable: ayuda a reducir el uso de plástico rellenando tu desodorante Salt of the Earth con uno de nuestros recambios de 500 ml.
-- ★ Aprobado por Leaping Bunny – Leaping Bunny, la mejor garantía de que una empresa se ha comprometido a terminar con las pruebas en animales.
 - ★ Desodorante 100% natural: libre de clorohidrato de aluminio y productos químicos controversiales, es 100% natural, suave para tu piel y hecho de una mezcla de sales minerales naturales, aceites esenciales y aloe vera.
 - ★ Fragancia natural fresca: elementos de especias, cítricos y florales con una dimensión añadida de bayas y uvas maduradas.
-- ★ Apto para veganos: 100% vegano y aprobado por la Vegan Society y Vegetarian Society.
+- ★ Protección de larga duración: proporciona una protección duradera y eficaz contra el olor corporal, manteniéndote fresco, seguro y sin olor durante más tiempo.
+- ★ Sin marcas blancas: los desodorantes en aerosol Salt of the Earth están cuidadosamente formulados para garantizar que no te dejarán marcas blancas embarazosas en tu ropa.
+- ★ Aprobado por Leaping Bunny – Leaping Bunny, la mejor garantía de que una empresa se ha comprometido a terminar con las pruebas en animales.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07S8PG4L1/?tag=tolees-21)

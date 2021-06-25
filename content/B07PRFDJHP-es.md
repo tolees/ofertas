@@ -28,9 +28,9 @@ Ahora mismo tienes [Voqeen Gorra de béisbol Vintage gastada Moda 1969 Gorra de 
 
 🔎:
 
-- Diseño unisex para hombres y mujeres.
-- Buen regalo para su amante, familia, amigos y compañeros de trabajo.
 - Colores Mutiple. Una talla le queda a la mayoría
+- Buen regalo para su amante, familia, amigos y compañeros de trabajo.
+- Diseño unisex para hombres y mujeres.
 - Con estilo, cómodo, duradero
 - Perfecto para el uso diario, actividades al aire libre y deportes.
 

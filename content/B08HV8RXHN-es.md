@@ -30,8 +30,8 @@ En este momento está [Deportivas Hombre mustang | Deportivas Metro 84086 | must
 
 - Material de la suela De goma
 - Material principal Sintetico
-- Tipo de tacón Plano
 - Tipo de cierre Cordones
+- Tipo de tacón Plano
 - Altura Tacón Bajo (de 1 A 3 cm)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HV8RXHN/?tag=tolees-21)

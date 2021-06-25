@@ -28,8 +28,8 @@ En este momento está [Zolux - Grava Natural para Acuario de Cuarzo Blanco de 1 
 
 🔎:
 
-- Granulometría de 1 a 3 mm
 - Neutra en el agua
+- Granulometría de 1 a 3 mm
 - Peso del paquete: 5,12 kg
 - Suelo decorativo natural para acuarios 100% natural y garantizado sin colorantes
 
