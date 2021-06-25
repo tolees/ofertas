@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s XX Slim II Khakis  True Chino Shady GD Ccu B  36W / 3
 
 🔎:
 
-- Levis marrón XX Slim Chinos
-- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de Levis.
+- Ver descripción del producto para obtener más información.
+- Levis marrón XX Slim Chinos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0842WDDMH/?tag=tolees-21)
