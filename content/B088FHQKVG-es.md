@@ -29,9 +29,9 @@ En este momento está [Linghuang - Linguhang Drone Decal Impermeable Anti-Scratc
 🔎:
 
 - Corte de precisión del proceso, no se contrae ni enrolla. Adhesivos con película súper resistente, cepillados en metal, película de PVC polimérico, coloreados y brillantes.
-- Hecho con película de 3M, un respiradero de gas de goma Rhombus de doble capa que es fácil de pegar o rasgar. Adhesivo de PVC, que se pega repetidamente sin dejar pegamento para proteger el cuerpo.
-- Pegatina especialmente diseñada para el cuerpo y el control remoto del dron DJI Mavic Air 2.
-- Tinta texturizada para uso en exteriores, impermeable y resistente a los rayos ultravioleta, duradera y hermosa (Nota: la función de protección se refiere al área cubierta por el adhesivo. Esto no significa que toda la máquina pueda ser impermeable y resistente a los arañazos. )
 - Fácil de pegar o rasgar sin dejar residuos. Pintura en relieve, mejor sensibilidad de la mano.
+- Hecho con película de 3M, un respiradero de gas de goma Rhombus de doble capa que es fácil de pegar o rasgar. Adhesivo de PVC, que se pega repetidamente sin dejar pegamento para proteger el cuerpo.
+- Tinta texturizada para uso en exteriores, impermeable y resistente a los rayos ultravioleta, duradera y hermosa (Nota: la función de protección se refiere al área cubierta por el adhesivo. Esto no significa que toda la máquina pueda ser impermeable y resistente a los arañazos. )
+- Pegatina especialmente diseñada para el cuerpo y el control remoto del dron DJI Mavic Air 2.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088FHQKVG/?tag=tolees-21)

@@ -28,7 +28,7 @@ Ahora mismo tienes [GLOBE Tilt  Zapatillas de Deporte Hombre  Blanco  Wheat/Blac
 
 🔎:
 
-- Cup suela, durable zapato de skate, surf, BMX
 - Cómodo
+- Cup suela, durable zapato de skate, surf, BMX
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071WZZMB7/?tag=tolees-21)
