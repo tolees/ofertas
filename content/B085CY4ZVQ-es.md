@@ -30,8 +30,8 @@ Tienes [Braun Series 5 50-B4650cs Afeitadora Eléctrica  máquina de afeitar hom
 
 - Afeitadora eléctrica hombre con 3 láminas flexibles que se adaptan a los contornos faciales para ofrecer un afeitado apurado fácilmente
 - Sistema EasyClean que permite una limpieza fácil y rápida sin retirar el cabezal de afeitado
+- Afeitadoras para barba 100 % resistentes al agua para usarlas en seco y mojado
 - Incluye: base de carga y accesorios de recortadora de barba y depiladora corporal
 - Batería de iones de litio con hasta 3 semanas de autonomía (50 min); Carga rápida en 5 min suficiente para un afeitado
-- Afeitadoras para barba 100 % resistentes al agua para usarlas en seco y mojado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085CY4ZVQ/?tag=tolees-21)

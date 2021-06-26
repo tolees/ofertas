@@ -28,10 +28,10 @@ Está [Funko- Rick and Death Cristal Morty Rick & Moty Crystal Llavero  Multicol
 
 ℹ️:
 
-- Licencia oficial
 - Caja ilustrada con ventana
-- Funko pop
+- Licencia oficial
 - Llavero con anilla
+- Funko pop
 - Colección rick morty
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081FJTTWN/?tag=tolees-21)

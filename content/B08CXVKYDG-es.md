@@ -30,7 +30,7 @@ En este momento está [Lee Daren Zip Fly Vaqueros  Vernon  44W / 34L para Hombre
 
 - Tejido vaquero elástico
 - 5 bolsillos
-- Regular Straight
 - Denim Stretch
+- Regular Straight
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXVKYDG/?tag=tolees-21)

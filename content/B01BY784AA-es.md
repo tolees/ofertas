@@ -28,9 +28,9 @@ Tienes [Superga 2750 COTU Classic Sneaker  Zapatillas Unisex Adulto  Beige 949  
 
 🔎:
 
-- Superga Tab en el lateral y el talón
-- Ojales en relieve Superga
-- Algodón transpirable.
 - Suela de goma vulcanizada.
+- Algodón transpirable.
+- Ojales en relieve Superga
+- Superga Tab en el lateral y el talón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01BY784AA/?tag=tolees-21)
