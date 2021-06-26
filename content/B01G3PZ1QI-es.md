@@ -30,8 +30,8 @@ Está [Smart Games IQ XOXO  multicolor  Lúdilo SG 444 ](https://www.amazon.es/d
 
 - Número de jugadores: 1
 - Desarrolla la capacidad lógica y la estimulación
-- Juego de ingenio con 120 retos progresivos
 - Tablero compacto y diseñado para guardar todo el material
+- Juego de ingenio con 120 retos progresivos
 - Incluye cuaderno con soluciones a los retos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01G3PZ1QI/?tag=tolees-21)
