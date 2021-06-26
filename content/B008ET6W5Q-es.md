@@ -28,8 +28,8 @@ Tienes [Tesa TX853030N TES.2030/30X30 LN TX80 SE5 E12  Niquelado  30 x 30 mm](ht
 
 ℹ️:
 
-- Cilindro que incluye doble embrague de seguridad; permite abrir cuando se deja la llave puesta por el otro lado
 - El carácter patentado del sistema, permite al propietario de la instalación, controlar en todo momento las copias de llaves y/o cilindros que se realizan
+- Cilindro que incluye doble embrague de seguridad; permite abrir cuando se deja la llave puesta por el otro lado
 - Sistemas de protección antibumping, antitaladro y antiganzua certificados según norma 1303; durabilidad: 100,000 ciclos
 - 5 llaves patentadas de cuello largo con diseño ergonómico; copia de llaves y cilindros protegidos a partir de tarjeta de propiedad
 
