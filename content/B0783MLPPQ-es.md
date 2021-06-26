@@ -28,7 +28,7 @@ En este momento está [New Balance ML574V2  Zapatillas Hombre  Black  Triple Bla
 
 🔎:
 
-- Forro: malla.
 - Material exterior: piel.
+- Forro: malla.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0783MLPPQ/?tag=tolees-21)
