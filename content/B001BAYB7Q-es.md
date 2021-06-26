@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'kwb - KRAFTIXX 511890 - Juego de barrena al 38.58 % de descuento'
-date: 2021-06-22 19:28:02
+date: 2021-06-26 08:39:22
 image: 'https://m.media-amazon.com/images/I/31B3hmyNk2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Ahora mismo tienes [kwb - KRAFTIXX 511890 - Juego de barrenas para madera  vigas
 🔎:
 
 - Con punta centradora, pulido cuádruple.
-- Acero cromo vanadio.
-- Protección contra la corrosión mediante película de aceite.
-- Longitud cada uno 250 mm.
 - Tamaños: 6, 8 y 10 mm.
+- Acero cromo vanadio.
+- Longitud cada uno 250 mm.
+- Protección contra la corrosión mediante película de aceite.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001BAYB7Q/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo WF 0139 - Ventilador de pared   al 49.07 % de rebaja'
-date: 2021-06-03 10:16:30
+date: 2021-06-26 09:50:42
 image: 'https://m.media-amazon.com/images/I/41bxUAmjcoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Orbegozo WF 0139 - Ventilador de pared  oscilante  3 velocidades  tempor
 
 🔎:
 
-- Tamaño de las aspas de 40 centímetros
-- Temporizador de 2 horas
 - Cuenta con 3 velocidades de ventilación
 - Cabezal oscilante multiorientable
+- Tamaño de las aspas de 40 centímetros
+- Temporizador de 2 horas
 - Ventilador de pared Orbegozo en color blanco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007PRW9Q4/?tag=tolees-21)
