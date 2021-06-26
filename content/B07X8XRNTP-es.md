@@ -28,9 +28,9 @@ En este momento está [Funko - Pop! Marvel: Marvel Venom S3 - Ultron Figura Cole
 
 🔎:
 
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- Descúbre otras figuras de la colección marvel venom y colecciónalas todas
 - Funko pop. El juguete del año 2018
+- Descúbre otras figuras de la colección marvel venom y colecciónalas todas
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - De la colección marvel venom, ultron como figura de vinilo pop de funko
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X8XRNTP/?tag=tolees-21)

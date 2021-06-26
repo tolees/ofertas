@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - 1971 Project Helios - C al 55.70 % de descuento'
-date: 2021-06-20 15:51:15
+date: 2021-06-26 16:22:24
 image: 'https://m.media-amazon.com/images/I/41gRSeSuQAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B06WW1QFJG/?tag=tolees-21'
 descuento: '55.70'
-average: '24.2402439024391'
+average: '24.1376190476191'
 ---
 
 Está [Meridiem Games - 1971 Project Helios - Collector Edition](https://www.amazon.es/dp/B06WW1QFJG/?tag=tolees-21) con 55.70 de descuento por 19.93 EUR (original: 44.99 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [Meridiem Games - 1971 Project Helios - Collector Edition](https://www.ama
 ℹ️:
 
 - Pegatina Fulgor
-- 4 postales de personaje
-- Banda sonora digital
 - Caja de Cartón Premium
+- Banda sonora digital
+- 4 postales de personaje
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06WW1QFJG/?tag=tolees-21)

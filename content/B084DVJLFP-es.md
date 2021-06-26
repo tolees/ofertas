@@ -29,9 +29,9 @@ Tienes [Meridiem Games - Pawsome Pack: Cat Quest + Cat Quest 2](https://www.amaz
 🔎:
 
 - Brand new story set in the world of Felingard - and beyond!
-- More spells bring even more furry judgement to your foes.
-- New weapons types Master swords, staves and more to become a fur-midable fighter!
-- All new co-op gameplay. Play as both cat and dog, either alone or with a friend!
 - This pawsome pack includes Cat Quest and Cat Quest II for a multitude of catventures - with a reversible cover!
+- All new co-op gameplay. Play as both cat and dog, either alone or with a friend!
+- New weapons types Master swords, staves and more to become a fur-midable fighter!
+- More spells bring even more furry judgement to your foes.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084DVJLFP/?tag=tolees-21)
