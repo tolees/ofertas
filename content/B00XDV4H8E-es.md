@@ -30,8 +30,8 @@ En este momento está [Iberia - Blanco Nuclear Gel Blanqueante - 500ml](https://
 
 - Consigue unos blancos más luminosos y brillantes desde el primer lavado.
 - Utilízalo tanto para mantener el blanco como para recuperar prendas amarilleadas o grises.
-- Blanco Nuclear Gel es un aditivo blanqueador para ropa blanca y de colores claros.
-- Acaba con las manchas potenciando la acción del detergente.
 - Blanco Nuclear es la confianza y la tranquilidad que te da una marca con tanto reconocimiento.
+- Acaba con las manchas potenciando la acción del detergente.
+- Blanco Nuclear Gel es un aditivo blanqueador para ropa blanca y de colores claros.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XDV4H8E/?tag=tolees-21)

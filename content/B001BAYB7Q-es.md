@@ -28,10 +28,10 @@ Ahora mismo tienes [kwb - KRAFTIXX 511890 - Juego de barrenas para madera  vigas
 
 🔎:
 
-- Con punta centradora, pulido cuádruple.
-- Tamaños: 6, 8 y 10 mm.
-- Acero cromo vanadio.
 - Longitud cada uno 250 mm.
 - Protección contra la corrosión mediante película de aceite.
+- Con punta centradora, pulido cuádruple.
+- Acero cromo vanadio.
+- Tamaños: 6, 8 y 10 mm.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001BAYB7Q/?tag=tolees-21)

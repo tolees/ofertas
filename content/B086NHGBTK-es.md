@@ -29,9 +29,9 @@ Está [Meridiem Games - Kingdom Majestic - Limited Edition](https://www.amazon.e
 ℹ️:
 
 - Funda especial para la caja
-- Carátula reversible
 - Arte desplegable que forma un mapa
-- Imagen lenticular 3D
 - Banda Sonora Digital
+- Imagen lenticular 3D
+- Carátula reversible
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086NHGBTK/?tag=tolees-21)

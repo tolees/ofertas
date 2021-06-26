@@ -28,10 +28,10 @@ Tienes [Orbegozo WF 0139 - Ventilador de pared  oscilante  3 velocidades  tempor
 
 🔎:
 
-- Cuenta con 3 velocidades de ventilación
-- Cabezal oscilante multiorientable
 - Tamaño de las aspas de 40 centímetros
-- Temporizador de 2 horas
+- Cabezal oscilante multiorientable
+- Cuenta con 3 velocidades de ventilación
 - Ventilador de pared Orbegozo en color blanco
+- Temporizador de 2 horas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007PRW9Q4/?tag=tolees-21)

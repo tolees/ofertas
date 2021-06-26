@@ -28,9 +28,9 @@ En este momento está [New Balance 373 Core  Zapatillas Hombre  Azul  Navy/White
 
 🔎:
 
-- Parte superior de gamuza
+- Suela de goma
 - Sujeción suave bajo los pies
 - Entresuela y talón de espuma EVA para amortiguación
-- Suela de goma
+- Parte superior de gamuza
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07S1W3LMN/?tag=tolees-21)
