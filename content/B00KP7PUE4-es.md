@@ -28,11 +28,11 @@ Tienes [Paranix Champú Antipiojos Tratamiento para Eliminar Piojos y Liendres s
 
 🔎:
 
+- Desarrollado sin insecticidas, para que los piojos no creen resistencias, bote de 200 ml, lo suficiente para hasta 8 aplicaciones, dependiendo de la longitud del cabello; lendrera incluida
 - Paranix es una gama de productos 100% eficaz y rápida para detectar, eliminar y prevenir una infestación de piojos
-- Unidad de medida: Botella
-- Su formula de doble acción no solo ahoga sino que también deshidrata a piojos y liendres, no contiene dimeticona, alcohol y parabenos; tratamiento eficaz clínicamente testado y comprobado
 - Formulado con aceite mineral, este tratamiento antipiojos no incluye ningún insecticida y tiene un agradable aroma; adecuado para adultos y niños mayores de 2 años
 - El champú Paranix es un efectivo tratamiento para eliminar y prevenir piojos y liendres que actúa en solo 5 minutos; tan fácil como lavarse el pelo
-- Desarrollado sin insecticidas, para que los piojos no creen resistencias, bote de 200 ml, lo suficiente para hasta 8 aplicaciones, dependiendo de la longitud del cabello; lendrera incluida
+- Unidad de medida: Botella
+- Su formula de doble acción no solo ahoga sino que también deshidrata a piojos y liendres, no contiene dimeticona, alcohol y parabenos; tratamiento eficaz clínicamente testado y comprobado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00KP7PUE4/?tag=tolees-21)

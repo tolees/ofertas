@@ -28,13 +28,13 @@ En este momento está [Amazon Basics Focos downlights redondos de 100 mm de diá
 
 🔎:
 
-- La excelente consistencia del color elimina la diferencia de luz de una luminaria a otra, brindando una luz cómoda y uniforme en tu hogar
 - El difusor extra grande proporciona una iluminación brillante y suave en tu hogar
-- La dimensión de la luminaria es de 112 mm de diámetro x 51 mm de altura, adecuada para un orificio de 100 mm
 - Diseñado para eliminar la dañina radiación UV
-- Flujo lumínico de 380 lúmenes en un ángulo de apertura de 110 grados
-- El gran rendimiento y la prestación del color proporcionan una iluminación vívida y natural para tu hogar
 - Controlador integrado en la luminaria para una instalación fácil, segura y sin complicaciones
+- La dimensión de la luminaria es de 112 mm de diámetro x 51 mm de altura, adecuada para un orificio de 100 mm
 - Eficaz fuente de luz led, ahorra hasta un 80% de energía en comparación con las bombillas incandescentes con una salida de luz similar
+- El gran rendimiento y la prestación del color proporcionan una iluminación vívida y natural para tu hogar
+- La excelente consistencia del color elimina la diferencia de luz de una luminaria a otra, brindando una luz cómoda y uniforme en tu hogar
+- Flujo lumínico de 380 lúmenes en un ángulo de apertura de 110 grados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TC8QHHC/?tag=tolees-21)

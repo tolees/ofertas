@@ -28,9 +28,9 @@ Está [MINIONS- Despicable Me  Walkie Talkie  29.5 x 19.3 x 7.9  IMC Toys 375048
 
 ℹ️:
 
-- Apto para usar en interior y exterior
-- No recomendable para menores de 3 años
 - La antena es flexible
 - Pareja de walkie talkies
+- No recomendable para menores de 3 años
+- Apto para usar en interior y exterior
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00TDKJ6EE/?tag=tolees-21)
