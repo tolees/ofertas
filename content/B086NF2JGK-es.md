@@ -28,10 +28,10 @@ Ahora mismo tienes [Meridiem Games - Kingdom Majestic - Limited Edition](https:/
 
 🔎:
 
-- Banda Sonora Digital
 - Imagen lenticular 3D
 - Arte desplegable que forma un mapa
-- Carátula reversible
+- Banda Sonora Digital
 - Funda especial para la caja
+- Carátula reversible
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086NF2JGK/?tag=tolees-21)
