@@ -29,9 +29,9 @@ En este momento está [BlazeVideo - 4 Piezas Cartel videovigilancia Cartel 24 Ho
 🔎:
 
 - 2. Los grandes colores llamativos de alto contraste son un gran elemento de disuasión para el ladrón potencial, el robo.
-- 4. Cada señal de seguridad de videovigilancia tiene 4 orificios pretaladrados y se puede montar fácilmente en cada superficie.
-- 1. El letrero de videovigilancia de color rojo y negro sobre blanco, grueso y resistente, seguramente atraerá la atención de los posibles intrusos.
-- 5. The aluminum material is durable, long lasting and has a great water and chemical resistance. It wont rust or fade, is resistant to wear & tear.
 - 3. Es adecuado para la cámara CCTV instalada en su hogar o lugar de trabajo.
+- 5. The aluminum material is durable, long lasting and has a great water and chemical resistance. It wont rust or fade, is resistant to wear & tear.
+- 1. El letrero de videovigilancia de color rojo y negro sobre blanco, grueso y resistente, seguramente atraerá la atención de los posibles intrusos.
+- 4. Cada señal de seguridad de videovigilancia tiene 4 orificios pretaladrados y se puede montar fácilmente en cada superficie.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HYR8SWH/?tag=tolees-21)

@@ -28,11 +28,11 @@ Está [Monix Copper - Batería 5 piezas  aluminio forjado  antiadherente sin PFO
 
 ℹ️:
 
-- Su efecto exterior en aspecto de cobre metalizado distribuye el calor de forma más regular; su mango y asas remachados en acero inox 18/10 favorecen el agarre y la manejabilidad asegurándote comodidad y evitando quemaduras
-- Cocina con poco aceite; fácil limpieza interior y exterior
 - Fabricada en aluminio forjado de 4 mm de espesor y Antiadherente tricapa quantanium sin PFOA con partículas de titanio; gran resistencia y duración
-- Apta para su limpieza en lavavajillas; apta para horno hasta 220 grados exceptuando las tapas de vidrio
-- Compuesta por:cazo 16 cm (diámetro inducción: 13 cm)= 1.25 Litros; sartén de 20 y 24 cm (diámetro inducción; 15 y 18 cm); cacerola alta 20 cm con tapa de vidrio (diámetro inducción: 16 cm)=3 Litros; cacerola baja 24 cm con tapa de vidrio (diámetro inducción: 18 cm)=2.3 Litros
+- Cocina con poco aceite; fácil limpieza interior y exterior
 - Puede usarse en todo tipo de fuegos incluido inducción y su sistema de ahorro full-induction sin agujeros; permite una óptima distribución y aprovechamiento máximo de la energía a la hora de cocinar
+- Su efecto exterior en aspecto de cobre metalizado distribuye el calor de forma más regular; su mango y asas remachados en acero inox 18/10 favorecen el agarre y la manejabilidad asegurándote comodidad y evitando quemaduras
+- Compuesta por:cazo 16 cm (diámetro inducción: 13 cm)= 1.25 Litros; sartén de 20 y 24 cm (diámetro inducción; 15 y 18 cm); cacerola alta 20 cm con tapa de vidrio (diámetro inducción: 16 cm)=3 Litros; cacerola baja 24 cm con tapa de vidrio (diámetro inducción: 18 cm)=2.3 Litros
+- Apta para su limpieza en lavavajillas; apta para horno hasta 220 grados exceptuando las tapas de vidrio
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08SCFY7G6/?tag=tolees-21)
