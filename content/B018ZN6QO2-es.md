@@ -29,8 +29,8 @@ Ahora mismo tienes [Blue Orange BLU027DO - Dr Eureka](https://www.amazon.es/dp/B
 🔎:
 
 - Hecho en España
-- Ideal para fiestas con familia o amigos
-- Una experiencia de juego sin precedentes con tubos de ensayo
 - Un bonito matrimonio entre reflexión y habilidad
+- Una experiencia de juego sin precedentes con tubos de ensayo
+- Ideal para fiestas con familia o amigos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B018ZN6QO2/?tag=tolees-21)

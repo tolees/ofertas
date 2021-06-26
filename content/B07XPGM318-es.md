@@ -28,10 +28,10 @@ En este momento está [PERLETTI Poncho Impermeable Niño Niña Ribete de Colores
 
 🔎:
 
-- Material innovador EVA muy liviano, impermeable, lavable, no tiene bordes afilados y no es tóxico
-- Con gorro y botones para proteger a los niños del viento y del agua
 - Abrigo impermeable ligero para niños y niñas con partes luminosas de alta visibilidad para caminar bajo la lluvia, incluso de noche
+- Material innovador EVA muy liviano, impermeable, lavable, no tiene bordes afilados y no es tóxico
 - Realizado con materiales y componentes seguros y probados de acuerdo a las normas vigentes
+- Con gorro y botones para proteger a los niños del viento y del agua
 - Comodo y practico para ir a la escuela, de viaje o para el ocio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XPGM318/?tag=tolees-21)

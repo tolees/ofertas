@@ -28,12 +28,12 @@ Está [Axe Black Rock Desodorante - 150 ml - Pack de 6](https://www.amazon.es/dp
 
 ℹ️:
 
-- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
-- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
-- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
-- Con Tecnología Dual Action: Elimina el mal olor, fragancias irresistibles
-- Fórmula sin aluminio
-- ¡Prueba toda la nueva gama Axe!
 - Sutil y sofisticada fragancia que combina frescas notas de bergamota, romero y cedro
+- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
+- ¡Prueba toda la nueva gama Axe!
+- Fórmula sin aluminio
+- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
+- Con Tecnología Dual Action: Elimina el mal olor, fragancias irresistibles
+- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R9R41SH/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [RFEF - Réplica oficial minikit primera equipación rfef 202
 
 🔎:
 
-- Incluye camiseta, short y medias
-- Escudo y estrella de campeones del mundo bordadas
 - Producto oficial Licenciado
+- Escudo y estrella de campeones del mundo bordadas
+- Incluye camiseta, short y medias
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085PJ8ZG7/?tag=tolees-21)

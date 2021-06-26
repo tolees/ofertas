@@ -28,10 +28,10 @@ Tienes [Vans Ward Canvas  Zapatillas para Hombre  Negro  Checker/Black/True Whit
 
 ℹ️:
 
-- Cierre: Cordones
-- Material de la suela: Goma
-- Revestimiento: Tela
 - Material exterior: Cuero
+- Revestimiento: Tela
+- Material de la suela: Goma
 - Tipo de tacón: Plano
+- Cierre: Cordones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BN2C5RD/?tag=tolees-21)

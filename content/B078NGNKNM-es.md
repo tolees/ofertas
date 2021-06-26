@@ -28,8 +28,8 @@ En este momento está [NIKE Dri-FIT Elite Tank Top de Baloncesto  Mujer  Negro  
 
 🔎:
 
+- Costuras ergonómicas, sisas amplias y aberturas laterales para un rango de movimiento natural
 - Parte posterior más larga para una mayor protección
 - Tecnología Dri-FIT para mantener la transpirabilidad y la comodidad
-- Costuras ergonómicas, sisas amplias y aberturas laterales para un rango de movimiento natural
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078NGNKNM/?tag=tolees-21)
