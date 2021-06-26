@@ -29,8 +29,8 @@ En este momento está [adidas VARILITE SOFT J Chaqueta  Hombre  Azurea  XS](http
 🔎:
 
 - Exterior: tejido técnico 100% poliéster; Relleno: 80% plumón de pato / 20% pluma
-- Manga larga con puños elásticos
 - Corte clásico más ancho y silueta recta
+- Manga larga con puños elásticos
 - Tacto suave
 - Cuello alzado
 

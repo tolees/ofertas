@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Deportivos Niño Pablosky Blanco 278102 2 al 41.86 % de descuento'
-date: 2021-06-19 11:07:58
+date: 2021-06-26 18:02:19
 image: 'https://m.media-amazon.com/images/I/41sacilDqoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

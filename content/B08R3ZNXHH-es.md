@@ -28,10 +28,10 @@ En este momento está [Trust Gaming Teclado Gamer LED RGB Semimecánico GXT 881 
 
 🔎:
 
-- Iluminación LED multicolor en 6 modos de luz diferentes y brillo ajustable
-- Modo de gaming especial para deshabilitar la tecla de Windows, a fin de no interrumpir el juego
-- Teclado de tamaño completo diseñado específicamente para el gaming
 - Función avanzada anti-ghosting: hasta 19 pulsaciones de tecla simultáneas. 10 teclas de acceso directo y 12 teclas multimedia para un control rápido
+- Teclado de tamaño completo diseñado específicamente para el gaming
+- Modo de gaming especial para deshabilitar la tecla de Windows, a fin de no interrumpir el juego
 - Teclas semimecánicas: tecnología convencional con las características de escritura de un teclado mecánico
+- Iluminación LED multicolor en 6 modos de luz diferentes y brillo ajustable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08R3ZNXHH/?tag=tolees-21)

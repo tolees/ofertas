@@ -28,10 +28,10 @@ En este momento está [Max Factor Mastertouch Concealer Correctores Tono 306 Fai
 
 🔎:
 
+- Corrector líquido para oculta las ojeras e imperfecciones
 - Contiene una esponja de precisón para aplicar la cantidad exacta
+- Fórmula no-comedogénica, no obstruye los poros
 - Dermatológicamente testado, apto para pieles sensibles
 - Polímeros que se mezclan perfectamente con la piel
-- Fórmula no-comedogénica, no obstruye los poros
-- Corrector líquido para oculta las ojeras e imperfecciones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004XO0O3W/?tag=tolees-21)

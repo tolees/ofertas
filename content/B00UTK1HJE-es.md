@@ -28,10 +28,10 @@ Está [Cambrass Minicuna Cuadrada Next Star G  55 x 88 x 72 cm](https://www.amaz
 
 ℹ️:
 
+- Somier de madera de 5 mm. (acabado uniforme)
+- Útil para los primeros meses del bebé
 - Estructura de madera blanca
 - Colcha desenfundable
-- Somier de madera de 5 mm. (acabado uniforme)
 - 4 ruedas: fácil traslado por toda la casa
-- Útil para los primeros meses del bebé
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00UTK1HJE/?tag=tolees-21)

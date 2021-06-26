@@ -28,13 +28,13 @@ En este momento está [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Vari
 
 🔎:
 
-- Material de la suela: caucho
-- Talla: 38 2/3
-- Material interior: tela
-- Adecuado para: unisex (adultos)
 - La estación ideal: otoño - invierno
+- Material exterior: sintético
+- Talla: 38 2/3
 - Estilo: zapatillas clásicas
 - Cierre: cordones
-- Material exterior: sintético
+- Adecuado para: unisex (adultos)
+- Material interior: tela
+- Material de la suela: caucho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01EI9H28G/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [Mistol Original - Lavavajillas líquido a mano 900 ml](ht
 🔎:
 
 - Elimina la grasa de toda tu vajilla
+- Doble desincrustación
 - Resultados brillantes
 - Lavavajillas líquido diluido
-- Doble desincrustación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XA5RZM8/?tag=tolees-21)
