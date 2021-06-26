@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Pack: Another World + F al 50.01 % de descuento'
-date: 2021-06-25 14:54:26
+date: 2021-06-26 17:02:48
 image: 'https://m.media-amazon.com/images/I/51qdJTwuZGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B07T4H7LKV/?tag=tolees-21'
 descuento: '50.01'
-average: '25.9990909090908'
+average: '25.8223529411764'
 ---
 
 Ahora mismo tienes [Meridiem Games - Pack: Another World + Flashback](https://www.amazon.es/dp/B07T4H7LKV/?tag=tolees-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
@@ -30,7 +30,7 @@ Ahora mismo tienes [Meridiem Games - Pack: Another World + Flashback](https://ww
 
 - Tutorials for those who need a boost!
 - A brand new "Rewind" function, variable according to the level of difficulty
-- Completely remastered sound and music
 - Post-FX graphic filters
+- Completely remastered sound and music
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07T4H7LKV/?tag=tolees-21)

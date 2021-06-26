@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Sayonara Wild Hearts con un 50.15 % de descuento'
-date: 2021-06-25 09:32:28
+date: 2021-06-26 17:06:03
 image: 'https://m.media-amazon.com/images/I/51of5tUdQ-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
