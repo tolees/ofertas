@@ -28,8 +28,8 @@ Tienes [TRIXIE Comedero Plástico para Perros](https://www.amazon.es/dp/B000WFJ8
 
 🔎:
 
-- versión ligera
 - apto para lavavajillas
 - con pies de caucho
+- versión ligera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000WFJ89W/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Varietales Varietal Maturana 75 cl - 3 Paquetes de 750 ml - 
 
 🔎:
 
+- La uva autoctona casi perdida
 - Capacidad: 75CL
 - Color púrpura profundo de capa alta
 - Graduación: 14º
-- La uva autoctona casi perdida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01J6F3HH2/?tag=tolees-21)

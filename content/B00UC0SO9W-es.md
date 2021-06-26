@@ -28,12 +28,12 @@ Tienes [adidas ZX Flux J  Zapatillas Unisex Adulto  Negro  Core Black/Core Black
 
 🔎:
 
-- Ancho del zapato: normal.
-- Tipo de tacón: plano.
-- Forro: malla.
-- Suela interior: sintético.
-- Parte superior: sintético.
-- Cierre: cordones.
 - Material de la suela: Caucho
+- Forro: malla.
+- Cierre: cordones.
+- Parte superior: sintético.
+- Ancho del zapato: normal.
+- Suela interior: sintético.
+- Tipo de tacón: plano.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00UC0SO9W/?tag=tolees-21)
