@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger 1985 Slim Polo  Camisa de polo Hombre  Delica
 
 🔎:
 
-- Logo de Tommy Hilfiger bordado en el pecho
-- Modelo de corte slim
 - Con detalles distintivos de Tommy Hilfiger
+- Modelo de corte slim
+- Logo de Tommy Hilfiger bordado en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CVP652L/?tag=tolees-21)

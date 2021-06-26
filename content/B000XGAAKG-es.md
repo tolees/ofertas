@@ -28,10 +28,10 @@ Tienes [WMF Perfect - Cuperpo de 22 cm de diámetro de 3L en Acero Inoxidable pa
 
 ℹ️:
 
-- Material: Cromargan acero inoxidable 18/10, fácil de limpiar y resistente a los ácidos de los alimentos
-- Base Transtherm full induction
-- Apta para lavavajillas
 - Apto para todo tipo de cocinas incluido inducción
 - Cuerpo de olla rápida de la gama Perfect de 3,0 L y 22 cm de diámetro - 9 cm altura
+- Base Transtherm full induction
+- Material: Cromargan acero inoxidable 18/10, fácil de limpiar y resistente a los ácidos de los alimentos
+- Apta para lavavajillas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000XGAAKG/?tag=tolees-21)

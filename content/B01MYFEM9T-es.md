@@ -28,8 +28,8 @@ Tienes [Tommy Hilfiger 3p Brief Slip  Multicolor  Multi/Peacoat 904   L  Pack de
 
 🔎:
 
-- Ajuste cómodo y adecuado
 - Estos calzoncillos están disponibles en tres colores distintos
+- Ajuste cómodo y adecuado
 - Detalles distintivos de Tommy Hilfiger
 - Cintura elástica con la inscripción de Tommy Hilfiger
 
