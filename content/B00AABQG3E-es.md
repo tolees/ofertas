@@ -28,10 +28,10 @@ En este momento está [McDavid 6446 - Media de pierna con Hex  Azul  royal   M](
 
 🔎:
 
-- Extremadamente flexible y transpirable
-- Las mangas de las piernas están hechas de nylon y spandex que se siente cómodo en la piel. Sin embargo, las mangas se dañan cuando se desliza sobre un tablero del pasillo, como cuando se juega al voleibol
-- Se ven de por pares
-- Máxima protección y comodidad. La tecnología de la compresión estabiliza y calienta los músculos
 - Tecnología Hex de 9 mm avanzada para mayor confort en el cuerpo
+- Se ven de por pares
+- Las mangas de las piernas están hechas de nylon y spandex que se siente cómodo en la piel. Sin embargo, las mangas se dañan cuando se desliza sobre un tablero del pasillo, como cuando se juega al voleibol
+- Máxima protección y comodidad. La tecnología de la compresión estabiliza y calienta los músculos
+- Extremadamente flexible y transpirable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00AABQG3E/?tag=tolees-21)

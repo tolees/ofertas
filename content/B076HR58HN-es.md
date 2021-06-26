@@ -29,8 +29,8 @@ En este momento está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  
 🔎:
 
 - Bolsillo canguro
-- Lavar a la maquina
 - Ajuste regular
 - Capucha con cordón
+- Lavar a la maquina
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076HR58HN/?tag=tolees-21)

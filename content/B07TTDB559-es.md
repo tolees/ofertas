@@ -28,10 +28,10 @@ Tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Gris  Lt Grey/Rose 
 
 🔎:
 
-- Tipo de tacón: Plano
-- Material exterior: Lona
 - Material de la suela: Goma
-- Revestimiento: Tela
+- Tipo de tacón: Plano
 - Cierre: Cordones
+- Revestimiento: Tela
+- Material exterior: Lona
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TTDB559/?tag=tolees-21)
