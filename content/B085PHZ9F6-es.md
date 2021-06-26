@@ -28,8 +28,8 @@ Está [RFEF - Réplica oficial minikit primera equipación rfef 2020](https://ww
 
 ℹ️:
 
-- Incluye camiseta, short y medias
 - Producto oficial Licenciado
+- Incluye camiseta, short y medias
 - Escudo y estrella de campeones del mundo bordadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085PHZ9F6/?tag=tolees-21)

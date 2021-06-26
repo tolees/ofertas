@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s 510 Skinny Jeans  Brick Wall ADV  34W / 34L para Homb
 
 🔎:
 
-- Composición del material: 98% algodón y 2% sandez
 - Con un ajuste moderno que te ofrece movilidad
+- Composición del material: 98% algodón y 2% sandez
 - Talla alta con bolsillos laterales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0886VCX7N/?tag=tolees-21)
