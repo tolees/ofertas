@@ -28,12 +28,12 @@ Está [Solac CVG9512 Intelligent Evolution - Centro de planchado compacto  ECO y
 
 ℹ️:
 
-- Vapor automático sensible al tacto; sin necesidad de pulsar botones; si hay la opción del vapor activada; este saldrá automáticamente con solo coger la plancha
-- Sistema inteligente para planchar todas tus prendas sin complicaciones; programas ni temperaturas; posición eco que se adapta a todo tipo de tejidos y posición turbo para los tejidos más complicados
-- Con suela anodizada Illyum más resistentes y con un óptimo deslizamiento; sistema de seguridad Auto-Off que apaga automáticamente la plancha si no está en uso; avisos acústicos y visuales; y sistema antical integrado y permanente
+- Eficacia verificada por el Centro Tecnológico Eurecat especializado en desinfección de patógenos de alta resistencia
+- Golpe de vapor concentrado de 190g/min y vapor constante incluso a baja temperatura de 60g/min; apto para el planchado en vertical
 - Destruye con vapor sin dañar tu ropa. Tecnología patentada por Solac. Tu ropa desinfectada y segura
 - Cvg; compact vapor generator; centro de planchado compacto; sin calderín; con generador de vapor integrado; combina la potencía y eficacia de un centro de planchado profesional con el tamaño; comodidad y practicidad de una plancha; tecnología patentada por solac
-- Golpe de vapor concentrado de 190g/min y vapor constante incluso a baja temperatura de 60g/min; apto para el planchado en vertical
-- Eficacia verificada por el Centro Tecnológico Eurecat especializado en desinfección de patógenos de alta resistencia
+- Con suela anodizada Illyum más resistentes y con un óptimo deslizamiento; sistema de seguridad Auto-Off que apaga automáticamente la plancha si no está en uso; avisos acústicos y visuales; y sistema antical integrado y permanente
+- Vapor automático sensible al tacto; sin necesidad de pulsar botones; si hay la opción del vapor activada; este saldrá automáticamente con solo coger la plancha
+- Sistema inteligente para planchar todas tus prendas sin complicaciones; programas ni temperaturas; posición eco que se adapta a todo tipo de tejidos y posición turbo para los tejidos más complicados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07C4B8B1T/?tag=tolees-21)

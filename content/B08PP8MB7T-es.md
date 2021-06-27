@@ -29,7 +29,7 @@ Ahora mismo tienes [adidas Gazelle Vintage  Sneaker Hombre  Cream White/Core Bla
 🔎:
 
 - Cordones de zapatos
-- Suela de goma
 - Corte regular
+- Suela de goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PP8MB7T/?tag=tolees-21)

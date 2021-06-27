@@ -28,10 +28,10 @@ Está [Crocs Fun Lab Minions Clog  Unisex Niños Zueco  Amarillo  Yellow   27-28
 
 ℹ️:
 
+- Las tallas de la suela son estadounidenses. La etiqueta muestra el Reino Unido. M = hombre W = mujer
 - Zapatos de disfraz para niños: estos zapatos son el par ideal para que tus pequeños lo lleven a la escuela y en aventuras de todo tipo. Fácil de poner y quitar hace de estos el par de Crocs que los niños necesitan
 - Versátil y cómodo: increíblemente ligero y fácil de llevar, estos Crocs para niñas y niños están creados con espuma Croslite para una comodidad icónica de Crocs. El material flexible seguro que será amado por todos
 - Ligeros y divertidos: estos Crocs para niños son increíblemente ligeros y divertidos de llevar. Este es el par ideal de Crocs para niños cuando juegan en la tierra o corren alrededor del parque infantil
 - Hazlos tuyos: estos Crocs para niñas y niños ofrecen un ajuste amplio y generoso que se adapta a cada pie. Los Crocs para niños se pueden personalizar con abalorios Jibbitz para reflejar su propio estilo personal
-- Las tallas de la suela son estadounidenses. La etiqueta muestra el Reino Unido. M = hombre W = mujer
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071VVHSQM/?tag=tolees-21)

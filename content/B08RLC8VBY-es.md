@@ -28,8 +28,8 @@ En este momento está [adidas TENSAUR K  Zapatillas de Running  FTWBLA/NEGBÁS/F
 
 🔎:
 
-- Suela de goma que no deja marcas
 - Diseño resistente al desgaste
+- Suela de goma que no deja marcas
 - Parte superior sintética
 - Cierre de cordones
 - Forro textil

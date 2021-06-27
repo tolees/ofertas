@@ -28,10 +28,10 @@ En este momento está [Tarrington House - Barbacoa portátil de carbón con form
 
 🔎:
 
+- 💪 Fabricada en acero
+- ✅ Cuenta con bandeja para ceniza extraible.
+- ✅ Con ruedas para su cómodo desplazamiento
 - ✅ Barbacoa Tarrington House
 - 📐 Medidas: 129 cm x 60 cm x 89.5 cm.
-- ✅ Con ruedas para su cómodo desplazamiento
-- ✅ Cuenta con bandeja para ceniza extraible.
-- 💪 Fabricada en acero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00UN7I3RC/?tag=tolees-21)
