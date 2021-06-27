@@ -28,9 +28,9 @@ Está [Disney - Toy Story 4 Pack de 2 Muñecos  Buzz y Trixie  Juguetes Niños +
 
 ℹ️:
 
+- Cada personaje viene a una escala adaptada inspirada en las películas
 - El paquete especial de dos piezas es un regalo óptimo
 - Numerosos puntos de articulación con diseños y expresiones icónicos para crear historias auténticas
-- Cada personaje viene a una escala adaptada inspirada en las películas
 - A partir de 3 años
 - Multipack de figuras de Buzz Lightyear y Trixie de Toy Story de Disney y Pixar
 

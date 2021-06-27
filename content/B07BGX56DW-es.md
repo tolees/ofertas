@@ -28,7 +28,7 @@ Está [Red Tape Cobham  Mocasines Hombre  Blue  Navy 0   44 EU](https://www.amaz
 
 ℹ️:
 
-- Género: masculino
 - Zapato de cinta roja
+- Género: masculino
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BGX56DW/?tag=tolees-21)

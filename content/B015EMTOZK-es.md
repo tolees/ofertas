@@ -28,9 +28,9 @@ Tienes [Walking Dead The Constable Michonne Figura acción Standard](https://www
 
 ℹ️:
 
-- Con una altura de 15 cm
 - Hecha de material de PVC
-- Incluye aproximadamente 22 puntos de articulación, katana icónica con la envoltura, y la pistola
 - Figura de acción The Walking Dead de Constable Michonne
+- Incluye aproximadamente 22 puntos de articulación, katana icónica con la envoltura, y la pistola
+- Con una altura de 15 cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B015EMTOZK/?tag=tolees-21)

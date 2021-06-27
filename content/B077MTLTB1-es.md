@@ -28,13 +28,13 @@ Está [PUMA ICRA Trainer SD  Zapatillas Unisex Adulto  Gris  Steel Gray White   
 
 ℹ️:
 
+- Material de la suela: Goma
+- Composición: Veloursleder, Textil
+- Altura del tacón: 2 centímetros
 - Anchura del zapato: Normal
 - Tipo de tacón: Plano
-- Revestimiento: Sintético
-- Composición: Veloursleder, Textil
-- Material exterior: Cuero
 - Cierre: Cordones
-- Material de la suela: Goma
-- Altura del tacón: 2 centímetros
+- Revestimiento: Sintético
+- Material exterior: Cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077MTLTB1/?tag=tolees-21)
