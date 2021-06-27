@@ -28,10 +28,10 @@ Está [Xiaomi Redmi 9C Smartphone 3GB 64GB 6.53" HD+ Dot Drop display 5000mAh  t
 
 ℹ️:
 
-- Massive 5000mAh Battery. Battery longevity increased by 25% compared to the market standard.
+- AI Rear Triple Camera, Make memories last with the AI triple camera, capturing your favorite moments in vivid color.13MP main camera, 2MP depth sensor, LED flasher, 2MP macro camera.
 - Convenient Unlocking. Use the fingerprint sensor in the back, or have the phone unlock upon recognizing your face with AI Face Unlock.
+- Massive 5000mAh Battery. Battery longevity increased by 25% compared to the market standard.
 - Immersive 6.53" HD+ display. The large display allows you to fully immerse yourself in the virtual world. Low blue light for a comfortable viewing experience.
 - New polished look. The back features a textured design that prevents fingerprints so that the device can retain its pristine look at all times.
-- AI Rear Triple Camera, Make memories last with the AI triple camera, capturing your favorite moments in vivid color.13MP main camera, 2MP depth sensor, LED flasher, 2MP macro camera.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DW2MZ6R/?tag=tolees-21)

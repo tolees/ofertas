@@ -28,7 +28,7 @@ Tienes [Lacoste SH1505 Sudadera  Blanc/Blanc  M para Hombre](https://www.amazon.
 
 🔎:
 
-- Felpa de algodón cepillado
 - Acabados acanalados en los puños y en el bajo de la prenda y media luna de tafetán diamantado (tejido suave y muy ligero con un acabado delicadamente brillante)
+- Felpa de algodón cepillado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083JV8W4M/?tag=tolees-21)

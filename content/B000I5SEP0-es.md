@@ -29,7 +29,7 @@ Tienes [Pilot BL-G2-7 - Bolígrafo  color azul  0.7mm  12 unidades ](https://www
 ℹ️:
 
 - Tinta de gel
-- Color azul
 - 0.7 mm de diámetro de bola, retráctil
+- Color azul
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000I5SEP0/?tag=tolees-21)

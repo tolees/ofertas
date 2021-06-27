@@ -29,8 +29,8 @@ Tienes [Pilot G-Tec C4 - Bolígrafo roller  0 4 mm   color negro](https://www.am
 🔎:
 
 - Ideal para rellenar formularios para escribir sobre papel calco o simplemente para aquellos que gustan de la escritura fina
-- Grosor de línea de 0.4 mm
 - Punta de tinta liquida
+- Grosor de línea de 0.4 mm
 - Punto tipográfico extrafino
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0091R9QSK/?tag=tolees-21)
