@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Extreme Motion Slim Jeans  Rinse  29W / 32L para Hombre]
 
 🔎:
 
-- Recycled FABRICS
 - Slim Fit MVP
+- Recycled FABRICS
 - Tejido vaquero elástico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082XSQXGL/?tag=tolees-21)

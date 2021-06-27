@@ -28,9 +28,9 @@ En este momento está [Kopp 190301082 - Toma de Corriente Schuko](https://www.am
 
 🔎:
 
+- Blanco cremoso
 - Prácticamente con el interruptor de encendido y apagado
 - Ahorro de energía
-- Blanco cremoso
 - Diseño simple
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0029ZXV8W/?tag=tolees-21)
