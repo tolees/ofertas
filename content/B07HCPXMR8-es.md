@@ -28,7 +28,7 @@ En este momento está [Skechers Stamina-Cutback  Zapatillas Hombre  Gris  CCRD B
 
 🔎:
 
-- Plantilla de espuma viscoelástica
 - Suela flexible
+- Plantilla de espuma viscoelástica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HCPXMR8/?tag=tolees-21)
