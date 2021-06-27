@@ -28,8 +28,8 @@ En este momento está [Pond s Age Miracle Crema Correctora Antiarrugas Contorno 
 
 🔎:
 
-- Tus mejores aliados de belleza e higiene a la hora de arreglarte para diferentes ocasiones
 - Calidad óptima del producto
 - Eau dynamisante mousse douche 150 ml
+- Tus mejores aliados de belleza e higiene a la hora de arreglarte para diferentes ocasiones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N6KS8YQ/?tag=tolees-21)
