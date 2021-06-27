@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse CT AS HI Maroon M9613 Borgoña   al 35.74 % de descuento'
-date: 2021-06-17 02:46:24
+date: 2021-06-27 02:52:10
 image: 'https://m.media-amazon.com/images/I/51yGm+HqsRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
