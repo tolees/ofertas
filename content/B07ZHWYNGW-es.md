@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Zapatillas de correr UA Cha al 50.04 % de descuento'
-date: 2021-06-26 08:27:21
+date: 2021-06-27 10:34:49
 image: 'https://m.media-amazon.com/images/I/41GXAyZ+CQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Under Armour'
 buyurl: 'https://www.amazon.es/dp/B07ZHWYNGW/?tag=tolees-21'
 descuento: '50.04'
-average: '35.95'
+average: '33.95'
 ---
 
 Ahora mismo tienes [Under Armour Zapatillas de correr UA Charged Pursuit 2 para mujer  Negro  Negro / Negro / Negro   40.5 EU](https://www.amazon.es/dp/B07ZHWYNGW/?tag=tolees-21) a 29.95 EUR (original: 59.95 EUR) (50.04 %  de descuento) en el siguiente enlace!
