@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Tommy Hilfiger Logo T-Shirt  Camiseta Informal Hombre  Azu
 
 ℹ️:
 
-- Logo de Tommy Hilfiger en el pecho
 - Cinta distintiva en el cuello
 - Logo de Tommy Hilfiger bordado en la manga
+- Logo de Tommy Hilfiger en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JYSTS61/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [L Oreal Paris Men Expert Gel Ducha Total Clean Carbon 300
 
 🔎:
 
-- Producto de calidad
-- Brand: LOreal Paris
 - Resistente y con diseño funcional
+- Brand: LOreal Paris
+- Producto de calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D3PQG3L/?tag=tolees-21)

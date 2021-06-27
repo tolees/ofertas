@@ -29,7 +29,7 @@ Tienes [TRIXIE Entrenamiento en Casa para Perros](https://www.amazon.es/dp/B000W
 🔎:
 
 - con aceites aromáticos para que el cachorro encuentre fácilmente el pañal
-- aceites esenciales para aplicar a los pañales de entrenamiento
 - para entrenamiento rápido y efectivo
+- aceites esenciales para aplicar a los pañales de entrenamiento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000WFCF9W/?tag=tolees-21)
