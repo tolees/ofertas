@@ -28,7 +28,7 @@ Tienes [Camper Uno  Zapatillas Mujer  Amarillo  Lt/Pastel Yellow 740   36 EU](ht
 
 🔎:
 
-- Suela de goma
 - Cuero y medios mixtos
+- Suela de goma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GXSJ9FR/?tag=tolees-21)

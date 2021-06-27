@@ -28,7 +28,7 @@ Ahora mismo tienes [Skechers Ultra Groove  Zapatillas Mujer  Negro  Black Knit M
 
 🔎:
 
-- Plantilla de espuma viscoelástica refrigerada con aire.
 - Ligeras.
+- Plantilla de espuma viscoelástica refrigerada con aire.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TTDL32Q/?tag=tolees-21)
