@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance GM500V1  Zapatillas Hombre   al 36.00 % de descuento'
-date: 2021-06-26 05:13:57
+date: 2021-06-27 22:59:38
 image: 'https://m.media-amazon.com/images/I/41gSN-HyCML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B078BP56VL/?tag=tolees-21'
 descuento: '36.00'
-average: '49.3298333333333'
+average: '49.3080327868852'
 ---
 
 Está [New Balance GM500V1  Zapatillas Hombre  Black/Silver  45 EU](https://www.amazon.es/dp/B078BP56VL/?tag=tolees-21) con 36.00 de descuento por 48.0 EUR (original: 75.0 EUR) en el siguiente enlace!
@@ -28,12 +28,12 @@ Está [New Balance GM500V1  Zapatillas Hombre  Black/Silver  45 EU](https://www.
 
 ℹ️:
 
-- Cierre: Cordones
-- Tipo de tacón: Plano
-- Material exterior: Cuero sintético
-- Composición: Microfibra y malla
-- Material de la suela: Sintético
-- Revestimiento: Tela
 - Anchura del zapato: Normal
+- Cierre: Cordones
+- Material exterior: Cuero sintético
+- Material de la suela: Sintético
+- Composición: Microfibra y malla
+- Tipo de tacón: Plano
+- Revestimiento: Tela
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078BP56VL/?tag=tolees-21)
