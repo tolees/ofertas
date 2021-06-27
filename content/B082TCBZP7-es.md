@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - XIII - Limited Edition al 60.09 % de descuento'
-date: 2021-06-23 07:52:04
+date: 2021-06-27 19:48:35
 image: 'https://m.media-amazon.com/images/I/51ez1Zusi1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B082TCBZP7/?tag=tolees-21'
 descuento: '60.09'
-average: '26.2077777777778'
+average: '25.582'
 ---
 
 Ahora mismo tienes [Meridiem Games - XIII - Limited Edition](https://www.amazon.es/dp/B082TCBZP7/?tag=tolees-21) a 19.95 EUR (original: 49.99 EUR) (60.09 %  de descuento) en el siguiente enlace!

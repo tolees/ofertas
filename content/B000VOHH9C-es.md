@@ -28,9 +28,9 @@ Tienes [Cartier  Eau de Toilette  200 ml. 6.75 oz](https://www.amazon.es/dp/B000
 
 🔎:
 
-- De la marca Cartier.
-- Contiene 200 ml.
 - Las notas olfativas principales de este producto son especiado y floral.
 - Este producto está indicado para mujeres.
+- Contiene 200 ml.
+- De la marca Cartier.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000VOHH9C/?tag=tolees-21)

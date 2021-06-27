@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Indy Sujetador Deportivo  Mujer  Ne al 50.17 % de descuento'
-date: 2021-06-26 17:44:12
+date: 2021-06-27 19:50:25
 image: 'https://m.media-amazon.com/images/I/41DwqdyhWeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B073XRY56C/?tag=tolees-21'
 descuento: '50.17'
-average: '22.1944444444444'
+average: '21.47'
 ---
 
 Está [NIKE Indy Sujetador Deportivo  Mujer  Negro  L](https://www.amazon.es/dp/B073XRY56C/?tag=tolees-21) con 50.17 de descuento por 14.95 EUR (original: 30.0 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [NIKE Indy Sujetador Deportivo  Mujer  Negro  L](https://www.amazon.es/dp/
 
 ℹ️:
 
-- American cut
 - Dri-Fit Technology
+- American cut
 - Thin and adjustable straps
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073XRY56C/?tag=tolees-21)

@@ -28,7 +28,7 @@ Está [Only ONLDANIELLA L/S Pullover KNT Noos Suter Pulver  Gris  Ether Detail: 
 
 ℹ️:
 
-- Tejido acanalado
 - Jersey de punto con cuello en U
+- Tejido acanalado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W93BSF1/?tag=tolees-21)

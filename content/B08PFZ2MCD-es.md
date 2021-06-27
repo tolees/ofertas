@@ -28,10 +28,10 @@ Ahora mismo tienes [Asics Gel-Pulse 12  Road Running Shoe Mujer  French Blue/Cha
 
 🔎:
 
-- Tecnología de amortiguación AMPLIFOAM
-- Construcción de talón suave
 - Tecnología GEL
+- Tecnología de amortiguación AMPLIFOAM
 - Material de malla
+- Construcción de talón suave
 - Mejora del ajuste
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PFZ2MCD/?tag=tolees-21)

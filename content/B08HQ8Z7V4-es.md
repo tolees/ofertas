@@ -28,9 +28,9 @@ Tienes [Swonuk - Luces flotantes piscina  4 Piezas Luz de Bola Impermeable IP68 
 
 🔎:
 
-- 【Amplia gama de usos】Nuestra luz solar se enciende fácilmente en el suelo, flota en la piscina, colgando de árboles en el patio trasero o descansa sobre una mesa. Perfecto para todas las fiestas temáticas, jardines, patios, iluminar tu camino y mejorar el ambiente festivo especialmente durante la Navidad.
 - 【IP68 100% Impermeable】Hecho de material impermeable, pasa el IP68 en serio. El efecto a prueba de polvo y impermeable es muy bueno. Son perfectos para juguetes de luz Led para baño o cualquier recipiente lleno de agua. Está muy seguro de que ponla en la piscina y al aire libre.
 - 【Facil de usar】Con dos controladores remotos controlables, el alcance del control remoto es de 10 a 15 metros. Te permite controlar el color a tu gusto.
+- 【Amplia gama de usos】Nuestra luz solar se enciende fácilmente en el suelo, flota en la piscina, colgando de árboles en el patio trasero o descansa sobre una mesa. Perfecto para todas las fiestas temáticas, jardines, patios, iluminar tu camino y mejorar el ambiente festivo especialmente durante la Navidad.
 - 【100% Garantia】Si tiene alguna pregunta, le enviaremos un reemplazo o un reembolso completo para asegurarnos de que esté 100% satisfecho de acuerdo con la política de Amazon y el servicio al cliente rápido y de por vida.
 - 【16 colores】Luces flotantes tiene RGB de alta calidad para cambiar 16 colores a voluntad, rojo, verde, azul, blanco, amarillo, púrpura y otros colores de iluminación decorativa.
 

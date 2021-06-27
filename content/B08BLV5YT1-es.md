@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Malibu Beach S  Zapatillas Mujer  al 37.17 % de descuento'
-date: 2021-06-24 07:56:10
+date: 2021-06-27 19:31:54
 image: 'https://m.media-amazon.com/images/I/313y8PW55EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLV5YT1/?tag=tolees-21'
 descuento: '37.17'
-average: '20.67'
+average: '21.11'
 ---
 
 Está [Levi s Malibu Beach S  Zapatillas Mujer  Verde Claro  37 EU](https://www.amazon.es/dp/B08BLV5YT1/?tag=tolees-21) con 37.17 de descuento por 21.99 EUR (original: 35.0 EUR) en el siguiente enlace!
