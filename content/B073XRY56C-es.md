@@ -28,8 +28,8 @@ Está [NIKE Indy Sujetador Deportivo  Mujer  Negro  L](https://www.amazon.es/dp/
 
 ℹ️:
 
+- Thin and adjustable straps
 - Dri-Fit Technology
 - American cut
-- Thin and adjustable straps
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073XRY56C/?tag=tolees-21)

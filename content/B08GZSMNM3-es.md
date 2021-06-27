@@ -30,8 +30,8 @@ En este momento está [Xiaomi Redmi Note 9 - Smartphone 3GB+64GB  NFC  Pantalla 
 
 - NFC compatible.
 - Nuevo diseño de 6.53 "FHD + DotDisplay.
-- Sistema de imagen mejorado. Cámara cuádruple AI de 48MP, cámara frontal en pantalla de 13MP.
 - Potente procesador Nuevo procesador de juegos de alto rendimiento Helio G85.
 - Batería de capacidad ultra alta Batería de 5020 mah, carga rápida de 18 w
+- Sistema de imagen mejorado. Cámara cuádruple AI de 48MP, cámara frontal en pantalla de 13MP.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GZSMNM3/?tag=tolees-21)
