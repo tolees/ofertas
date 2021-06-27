@@ -28,9 +28,9 @@ Ahora mismo tienes [Tamron T81077 - Objetivo para Nikon  70-210 mm F/4  lente LD
 
 🔎:
 
-- Compatible con Full Frame y formato APSC
 - Compatible con duplicador Tamron y Tap In Console
 - La aplicación de tres elementos de lente LD (baja dispersión) permite que el modelo A034 corrija las aberraciones cromáticas de manera efectiva
 - Equipado con recubrimiento de flúor y construcción resistente a la humedad Ligero y compacto, este zoom de telefoto es ideal para viajar
+- Compatible con Full Frame y formato APSC
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BNCMFGC/?tag=tolees-21)

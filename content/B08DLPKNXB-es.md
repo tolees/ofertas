@@ -28,10 +28,10 @@ En este momento está [Satisfyer  Love Triangle   9 cm  con aplicación](https:/
 
 🔎:
 
-- Control por Bluetooth y aplicación
-- ¡Ganador de premio CES! Mejor aplicación para dispositivos móviles
-- recargable e impermeable
 - 2:1 Ondas de presión y vibración
 - Aplicación para todos los dispositivos
+- ¡Ganador de premio CES! Mejor aplicación para dispositivos móviles
+- Control por Bluetooth y aplicación
+- recargable e impermeable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DLPKNXB/?tag=tolees-21)
