@@ -28,10 +28,10 @@ En este momento está [Legami A6NOT0022 - Cuaderno de rayas  papel A6  diseño d
 
 🔎:
 
-- El cuaderno A6 de cuadrícula es ideal para anotar pensamientos, guardar recuerdos y tomar notas; perfecto para la oficina, la escuela, el tiempo libre.
-- Tamaño: 9 x 13,5 x 0,5 cm.
-- Papel: blanco. Número de páginas: 80. Gramaje: 100 g/m².
-- Papel procedente de fuentes forestales certificadas.
 - Los cuadernos A6 de rayas unidas colorean tus días con estilo.
+- Papel procedente de fuentes forestales certificadas.
+- Papel: blanco. Número de páginas: 80. Gramaje: 100 g/m².
+- Tamaño: 9 x 13,5 x 0,5 cm.
+- El cuaderno A6 de cuadrícula es ideal para anotar pensamientos, guardar recuerdos y tomar notas; perfecto para la oficina, la escuela, el tiempo libre.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08C2FRT53/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Beiersdorf s.a - EUCERIN PH5 Skin Protection Bálsamo Nut
 
 🔎:
 
-- Refuerza los niveles de pH naturales de la piel
 - Mejora la función de barrera de la piel
+- Refuerza los niveles de pH naturales de la piel
 - Mantiene la piel sana y protegida
 - Estimula la regeneración cutánea y refuerza la protección natural de la piel
 

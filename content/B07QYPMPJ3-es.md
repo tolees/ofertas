@@ -28,9 +28,9 @@ En este momento está [Under Armour Double Knit Track Chaqueta  Mujer  Púrpura 
 
 🔎:
 
-- Material que capilariza el sudor y se seca rápidamente
-- Tejido Fleece de punto ligero, transpirable y elástico para ofrecer movilidad
-- Corte completo para ofrecer comodidad
 - Suave interior cepillado
+- Corte completo para ofrecer comodidad
+- Tejido Fleece de punto ligero, transpirable y elástico para ofrecer movilidad
+- Material que capilariza el sudor y se seca rápidamente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QYPMPJ3/?tag=tolees-21)
