@@ -28,10 +28,10 @@ Está [Schwarzkopf Professional Igora Royal Tinte - 60 ml  8-0 Rubio Claro Natur
 
 ℹ️:
 
-- Marca: Schwarzkopf
-- Para el cabello: Normal
-- Género: Mujer
-- Ingredientes: Agua
 - Tipo de producto: Tinte
+- Ingredientes: Agua
+- Marca: Schwarzkopf
+- Género: Mujer
+- Para el cabello: Normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BW1JAJS/?tag=tolees-21)
