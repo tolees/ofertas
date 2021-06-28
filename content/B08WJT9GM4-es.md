@@ -31,7 +31,7 @@ Tienes [McAfee Total Protection 2021  1 Año  Seguridad de Internet  Manager de 
 - ADMINISTRE SUS CONTRASEÑAS DE FORMA FÁCIL Y SEGURA: con el Administrador de contraseñas, disfrute de acceso seguro y cómodo a todas sus credenciales de inicio de sesión, con un administrador basado en navegador que genera y memoriza contraseñas seguras por usted
 - SOFTWARE ANTIVIRUS GALARDONADO: defiéndase de los virus y las amenazas online con una combinación de protección basada en la nube y offline para su privacidad, identidad y dispositivos
 - SERVICIO DE ATENCIÓN AL CLIENTE: reciba soporte por teléfono, chat y online con una suscripción annual. FÁCIL DE INSTALAR: una vez que haya recibido su código de producto, escriba en su navegador de Internet el sitio web del proveedor y, a continuación, introduzca su código e instale el producto
-- BANCA, COMPRAS y NAVEGACIÓN CON SEGURIDAD: anticípese a los ciberataques y ataques de malware, y evítelos antes de que se produzcan con advertencias claras de sitios web, enlaces y archivos peligrosos
 - PROTEJA SU PRIVACIDAD CON CIFRADO DE ARCHIVOS PARA PC: guarde bajo llave los archivos confidenciales con rapidez y facilidad gracias al cifrado de 256 bits para una mayor seguridad con File Lock
+- BANCA, COMPRAS y NAVEGACIÓN CON SEGURIDAD: anticípese a los ciberataques y ataques de malware, y evítelos antes de que se produzcan con advertencias claras de sitios web, enlaces y archivos peligrosos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WJT9GM4/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Guess Analógico GW0055G2](https://www.amazon.es/dp/B0843RB7
 
 🔎:
 
+- 8 milimetros calendario Día y fecha correa ajustable
 - Analógico para Hombre
 - Guess Modelo Reloj GW0055G2
-- 8 milimetros calendario Día y fecha correa ajustable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0843RB7XP/?tag=tolees-21)

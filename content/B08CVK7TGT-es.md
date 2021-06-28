@@ -28,7 +28,7 @@ Ahora mismo tienes [Wrangler Logo tee Camiseta  Rococco Red  S para Hombre](http
 
 🔎:
 
-- Ajuste regular.
 - Knits.
+- Ajuste regular.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CVK7TGT/?tag=tolees-21)
