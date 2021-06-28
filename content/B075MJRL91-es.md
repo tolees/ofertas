@@ -28,9 +28,9 @@ Está [Solac BA 5603 Batidora de mano con accesorios  selector velocidad con LED
 
 ℹ️:
 
-- Velocidad turbo para lograr optimos resultados
 - Selector de velocidad con LED
 - Incluye vaso mediador con capacidad de 600 ml y picador
+- Velocidad turbo para lograr optimos resultados
 - Cuchillas en acero inox de alta resistencia y durabilidad para el obtener un triturado optimo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075MJRL91/?tag=tolees-21)

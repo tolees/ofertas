@@ -28,10 +28,10 @@ Tienes [Sigma F1.4 DG HSM Art - Objetivo Angular con Distancia Focal de 24 mm  C
 
 🔎:
 
-- Ofreciendo lo mejor en rendimiento óptico de su clase, este objetivo se ha diseñado para minimizar las aberraciones produciendo imágenes libres de destellos y deformaciones.
-- Aprovechando nuestra experiencia óptica, hemos reducido al mínimo el coma sagital para la captura óptima de paisajes nocturnos estrellados
 - Este objetivo ofrece unas aberraciones minimizadas gracias a la última tecnología de diseño y conocimiento acumulado por SIGMA
-- La gran apertura de este objetivo gran angular muestra un nuevo horizonte en la calidad de imagen.
 - Alto contraste con bordes brillantes – incluso a máxima apertura
+- Aprovechando nuestra experiencia óptica, hemos reducido al mínimo el coma sagital para la captura óptima de paisajes nocturnos estrellados
+- Ofreciendo lo mejor en rendimiento óptico de su clase, este objetivo se ha diseñado para minimizar las aberraciones produciendo imágenes libres de destellos y deformaciones.
+- La gran apertura de este objetivo gran angular muestra un nuevo horizonte en la calidad de imagen.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B9PTVWV/?tag=tolees-21)
