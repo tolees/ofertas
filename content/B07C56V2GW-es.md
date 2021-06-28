@@ -28,9 +28,9 @@ Ahora mismo tienes [Babaria-Protección UVA UVB  Infrarrojos](https://www.amazon
 
 🔎:
 
-- Ingredientes respetuosos y de calidad
 - Formato: 100ml
 - Absorción inmediata
+- Ingredientes respetuosos y de calidad
 - Testado dermatológicamente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C56V2GW/?tag=tolees-21)

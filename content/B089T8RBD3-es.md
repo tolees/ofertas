@@ -28,8 +28,8 @@ En este momento está [Dockers Casual Chino Tapered - Lite  Pantalones Hombre  P
 
 🔎:
 
-- Queda justo por debajo de la cintura
 - Confeccionado con técnicas Water<Less, que reducen el consumo de agua durante el proceso de acabado
+- Queda justo por debajo de la cintura
 - Tiene bragueta con cremallera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089T8RBD3/?tag=tolees-21)

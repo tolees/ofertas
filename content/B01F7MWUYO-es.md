@@ -29,7 +29,7 @@ Ahora mismo tienes [Luxana Phyto Nature Pastilla Jabón Azufre - 120 gr](https:/
 🔎:
 
 - Tipo de producto: Jabón
-- Género: Unisex Adulto
 - Marca: Luxana
+- Género: Unisex Adulto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01F7MWUYO/?tag=tolees-21)
