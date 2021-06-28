@@ -28,8 +28,8 @@ Está [Begobaño Esponja Jabonosa De Un Solo Uso Con Gel Dermatológico E Hipoal
 
 ℹ️:
 
-- Gel dermatológico
 - Paquete de 10 unidades
+- Gel dermatológico
 - Esponja con jabón de un solo uso bogotano
 - Gel pH 5.5
 
