@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Case Logic LAPS116BRK - Funda de Neopren al 35.73 % de descuento'
-date: 2021-06-16 04:30:56
+date: 2021-06-28 15:02:11
 image: 'https://m.media-amazon.com/images/I/514Z0Sta0hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Case Logic LAPS116BRK - Funda de Neopreno para Ordenador portátil de 16"
 
 ℹ️:
 
-- Funda de neopreno
 - Se adecua perfectamente a tu dispositivo
 - Para ordenador portatil de 15.6"
+- Funda de neopreno
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XSZMTBG/?tag=tolees-21)

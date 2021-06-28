@@ -28,10 +28,10 @@ Está [Bourjois Rouge Edition Barra de Labios Tono nr.17- 25 gr](https://www.ama
 
 ℹ️:
 
-- Barra de Labios Líquida para un acabado satinado proporcionado hasta 10 horas de hidratación
-- Contiene extractos de flor de orquídea para unos labios hidratados hasta 10 horas
 - Textura suave, ligera y cómoda de usar
+- Barra de Labios Líquida para un acabado satinado proporcionado hasta 10 horas de hidratación
 - Aplicación fácil y precisa gracias a su punta espumosa
 - Fórmula enriquecida con un 25% de pigmentos lacados que proporcionan color y cobertura
+- Contiene extractos de flor de orquídea para unos labios hidratados hasta 10 horas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00B1CGILG/?tag=tolees-21)

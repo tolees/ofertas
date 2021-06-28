@@ -29,10 +29,10 @@ Ahora mismo tienes [Apisérum Pack Defensas Cápsulas - 3 meses de tratamiento -
 🔎:
 
 - El zinc y la vitamina C contribuyen al funcionamiento normal de sistema inmunitario
+- Con ingredientes de origen natural; sin gluten; sin lactosa. 0% azúcares añadidos
 - Ingredientes: Jalea Real 200 mg, vitamina C, zinc, equinácea, reishi y shitake para una máxima eficacia
 - Tomar 1 cápsula al día. Indicada en adultos y niños mayores de 12 años
-- La equinácea ayuda a las defensas
-- Con ingredientes de origen natural; sin gluten; sin lactosa. 0% azúcares añadidos
 - Mantiene y refuerza las defensas
+- La equinácea ayuda a las defensas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YDXRR7P/?tag=tolees-21)

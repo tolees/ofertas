@@ -28,10 +28,10 @@ Está [POWERADD Pilot 2GS Pro Batería Externa 10000mAh PD18W Cargador Portátil
 
 ℹ️:
 
-- La baterías externas móvil es compatible con la mayoría de los teléfonos y tablets, 10000mAh permite cargar iPhone 6s: 3.5 veces, iPhone 11: 2veces, REDMI Note 7:1.5veces, disfrute del entretenimiento de sus dispositivos en cualquier momento y en cualquier lugar.
-- Estilo de diseño único, carcasa de metal de aleación de aluminio, siéntase mejor que otros cargador portátil PD18W de plástico. tan delgado como 15mm, peso:264g, poner una mochila no ocupa espacio.
 - Power Delivery 18W, puede cargar su iPhone XS al 50% en 30 minutos, recarga su teléfono rápidamente y resuelve el problema de la batería baja.
-- Type-C puerto bidireccional: Solo tarda 3 horas en cargarse por completo, reduce el tiempo del carga.
+- Estilo de diseño único, carcasa de metal de aleación de aluminio, siéntase mejor que otros cargador portátil PD18W de plástico. tan delgado como 15mm, peso:264g, poner una mochila no ocupa espacio.
+- La baterías externas móvil es compatible con la mayoría de los teléfonos y tablets, 10000mAh permite cargar iPhone 6s: 3.5 veces, iPhone 11: 2veces, REDMI Note 7:1.5veces, disfrute del entretenimiento de sus dispositivos en cualquier momento y en cualquier lugar.
 - Celda de batería LG, el misma batería como Tesla auto electrico, mayor densidad de energía para proporcionar alta confiabilidad y estabilidad, Más seguro de usar este power bank.
+- Type-C puerto bidireccional: Solo tarda 3 horas en cargarse por completo, reduce el tiempo del carga.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZJGVJ96/?tag=tolees-21)

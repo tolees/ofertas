@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Econanos - Mascarilla De Protección Ffp2 al 48.00 % de rebaja'
-date: 2021-06-24 12:45:04
+date: 2021-06-28 15:36:00
 image: 'https://m.media-amazon.com/images/I/314nAcRbpnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Econanos'
 buyurl: 'https://www.amazon.es/dp/B08R8DSX9K/?tag=tolees-21'
 descuento: '48.00'
-average: '10.6'
+average: '9.9'
 ---
 
 Tienes [Econanos - Mascarilla De Protección Ffp2 Autofiltrante Color](https://www.amazon.es/dp/B08R8DSX9K/?tag=tolees-21) con precio final de  7.8 EUR (original: 15.0 EUR) (48.00 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Econanos - Mascarilla De Protección Ffp2 Autofiltrante Color](https://w
 
 🔎:
 
-- 5 capas de material de filtrado de alto rendimiento que ofrecen máxima protección
-- Embaladas en prácticas bolsas zip reutilizables
 - Cumplen con el Reglamento Europeo 2016/425 para EPIs y el estándar europeo: EN 149:2001 + A1:2009
+- 5 capas de material de filtrado de alto rendimiento que ofrecen máxima protección
 - Con cómodo clip nasal ajustable
+- Embaladas en prácticas bolsas zip reutilizables
 - Con cómodas y suaves cintas elásticas de sujección
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08R8DSX9K/?tag=tolees-21)

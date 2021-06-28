@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Kingdom Majestic - Limi al 62.52 % de descuento'
-date: 2021-06-26 09:56:11
+date: 2021-06-28 15:36:34
 image: 'https://m.media-amazon.com/images/I/51bfTQsB87L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B086NHGBTK/?tag=tolees-21'
 descuento: '62.52'
-average: '17.6033333333333'
+average: '16.95'
 ---
 
 Está [Meridiem Games - Kingdom Majestic - Limited Edition](https://www.amazon.es/dp/B086NHGBTK/?tag=tolees-21) con 62.52 de descuento por 14.99 EUR (original: 39.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Meridiem Games - Kingdom Majestic - Limited Edition](https://www.amazon.e
 
 ℹ️:
 
-- Funda especial para la caja
-- Banda Sonora Digital
-- Carátula reversible
 - Imagen lenticular 3D
+- Carátula reversible
 - Arte desplegable que forma un mapa
+- Banda Sonora Digital
+- Funda especial para la caja
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086NHGBTK/?tag=tolees-21)
