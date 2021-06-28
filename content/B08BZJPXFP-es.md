@@ -28,10 +28,10 @@ En este momento está [ACADGQ - Lámpara de escritorio LED con cargador inalámb
 
 🔎:
 
-- 💡 【25 opciones de brillo】: 5 modos de iluminación × 5 niveles de brillo, control táctil sensible. Puede ajustar libremente el brillo de la lámpara del dormitorio sin irritar los ojos, encuentre la luz que más le convenga.
-- 💡 【OJOS - PROTEGIDOS】: La lámpara de mesa de carga inalámbrica no tiene luces intermitentes. Las lámparas de escritorio suaves y brillantes para la oficina en el hogar pueden proteger sus ojos, lo cual es una buena opción de regalo para niños, niños, amigos y padres.
-- 💡 【Carga inalámbrica y carga USB】: luces de escritorio LED para oficina combinadas con carga inalámbrica y puerto de carga USB, se pueden cargar varios dispositivos electrónicos al mismo tiempo.La función de carga inalámbrica necesita un adaptador de 5V / 2A para funcionar. incluido en el paquete.
 - 💡 【Diseño plegable】: Esta lámpara de escritorio LED plegable tiene un brazo flexible de 225 ° y un eje inferior de 90 °. El diseño plegable lo hace portátil.
 - 💡 【Configuración del temporizador de apagado automático】: 30/60 minutos Temporizador de apagado automático, libre para dormir, no hay necesidad de preocuparse por apagar.
+- 💡 【Carga inalámbrica y carga USB】: luces de escritorio LED para oficina combinadas con carga inalámbrica y puerto de carga USB, se pueden cargar varios dispositivos electrónicos al mismo tiempo.La función de carga inalámbrica necesita un adaptador de 5V / 2A para funcionar. incluido en el paquete.
+- 💡 【25 opciones de brillo】: 5 modos de iluminación × 5 niveles de brillo, control táctil sensible. Puede ajustar libremente el brillo de la lámpara del dormitorio sin irritar los ojos, encuentre la luz que más le convenga.
+- 💡 【OJOS - PROTEGIDOS】: La lámpara de mesa de carga inalámbrica no tiene luces intermitentes. Las lámparas de escritorio suaves y brillantes para la oficina en el hogar pueden proteger sus ojos, lo cual es una buena opción de regalo para niños, niños, amigos y padres.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BZJPXFP/?tag=tolees-21)

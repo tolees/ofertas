@@ -28,8 +28,8 @@ Tienes [Dockers Alpha Original Khaki Skinny - Lite  Pantalones Hombre  Sage Gard
 
 🔎:
 
-- Tiene bragueta con cremallera
-- Queda justo por debajo de la cintura
 - Confeccionado con técnicas Water<Less, que reducen el consumo de agua durante el proceso de acabado
+- Queda justo por debajo de la cintura
+- Tiene bragueta con cremallera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089T8MYL9/?tag=tolees-21)

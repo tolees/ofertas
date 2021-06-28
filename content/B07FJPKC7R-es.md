@@ -28,10 +28,10 @@ Ahora mismo tienes [Intex 57533NP - Hinchable langosta fotorrealista](https://ww
 
 🔎:
 
-- Las medidas de la colchoneta son 213 x 137 cm y tiene capacidad para 2 niños a partir de los 3 años ,peso máximo 80 kg
-- Cuenta con parche de reparación para arreglar posibles poros o pinchazos, el vinilo del hinchable tiene un grosor de 0.30 mm
 - ¿quién ha pedido langosta? disfruta en la playa o en la piscina con este hinchable Intex con forma de langosta
 - El diseño de la langosta hinchable con impresión fotorrealista simula un crustáceo de verdad
+- Cuenta con parche de reparación para arreglar posibles poros o pinchazos, el vinilo del hinchable tiene un grosor de 0.30 mm
 - Dispone de 4 asas soldadas a la lona para sujetarse al hinchable o transportarlo fácilmente
+- Las medidas de la colchoneta son 213 x 137 cm y tiene capacidad para 2 niños a partir de los 3 años ,peso máximo 80 kg
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FJPKC7R/?tag=tolees-21)
