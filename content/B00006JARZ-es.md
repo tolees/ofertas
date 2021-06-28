@@ -28,9 +28,9 @@ Está [Hama 043368 - Adaptador Audio con Conector Jack de 6 3 mm](https://www.am
 
 ℹ️:
 
-- Agarre óptimo y ajuste exacto
-- Se puede utilizar con toda una gama de dispositivos de música diferentes
-- Audio adaptador 3.5 mm hembra Jack estéreo
 - Dimensiones del producto 10.5 x 9 x 1.5 cm, color negro
+- Agarre óptimo y ajuste exacto
+- Audio adaptador 3.5 mm hembra Jack estéreo
+- Se puede utilizar con toda una gama de dispositivos de música diferentes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00006JARZ/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Osram - Deben GA2692 - Bombilla](https://www.amazon.es/dp/B000FVVW60/?ta
 
 ℹ️:
 
-- Alto brillo
-- Autonomía media 1,5 horas
-- Para modelo Tracer Max^50W^Xenon^Autonomía media 1,5 horas^Alto brillo
-- 50 W
-- Para modelo Tracer Max
 - Xenon
+- Para modelo Tracer Max
+- Alto brillo
+- 50 W
+- Para modelo Tracer Max^50W^Xenon^Autonomía media 1,5 horas^Alto brillo
+- Autonomía media 1,5 horas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000FVVW60/?tag=tolees-21)

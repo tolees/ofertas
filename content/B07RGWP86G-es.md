@@ -28,9 +28,9 @@ Está [Bizak- Buzz Lightyear con voz  61234070-1 ](https://www.amazon.es/dp/B07R
 
 ℹ️:
 
+- Altura de 30 cm
 - Habla en español
 - No recomendado para menores de 4 años
-- Altura de 30 cm
 - Con sonido y ¡20 frases de la película!
 - Casco retráctil y botones pulsables
 
