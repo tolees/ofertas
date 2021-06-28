@@ -29,7 +29,7 @@ Ahora mismo tienes [adidas GN4504 3 STR Tight Leggings Womens Black 44](https://
 🔎:
 
 - 3 tiras laterales
-- ajuste apretado
 - cintura elástica
+- ajuste apretado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08QS85L2H/?tag=tolees-21)

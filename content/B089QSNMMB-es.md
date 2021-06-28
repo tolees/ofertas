@@ -28,8 +28,8 @@ Tienes [PUMA Swim Men s PsyGeo All-Over-Print Mid Swimming Shorts Bañador  Mora
 
 🔎:
 
-- Tejido elástico.
 - Secado rápido.
 - Fabricado con poliéster reciclado.
+- Tejido elástico.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089QSNMMB/?tag=tolees-21)

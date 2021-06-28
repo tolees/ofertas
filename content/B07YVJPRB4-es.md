@@ -28,10 +28,10 @@ Tienes [Trangoworld Gstaad Termic Chaqueta  Mujer  Blanco Menta  S](https://www.
 
 🔎:
 
-- Impermeable
 - Diseño técnico y funcional
 - Alta capacidad térmica
 - Transpirable
 - Cortavientos
+- Impermeable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YVJPRB4/?tag=tolees-21)

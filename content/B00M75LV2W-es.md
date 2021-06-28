@@ -28,10 +28,10 @@ Ahora mismo tienes [Relec Infantil Loción Repelente Eficaz Antimosquitos. Niño
 
 🔎:
 
-- Ir3535 20%; el aminopropionato de etilo (ir3535) es una sustancia activa que protege frente a un gran número de insectos; la demostrada inocuidad del ingrediente activo y su buena tolerancia dérmica garantizan que el uso de este producto en niños sea seguro
 - Protección eficaz 7 horas
 - Apto para toda la familia, niños a partir de 2 años
 - Zonas de clima templado, costa, húmedas (montañas, ríos, lagos, piscinas) para dentro o fuera de casa
+- Ir3535 20%; el aminopropionato de etilo (ir3535) es una sustancia activa que protege frente a un gran número de insectos; la demostrada inocuidad del ingrediente activo y su buena tolerancia dérmica garantizan que el uso de este producto en niños sea seguro
 - Donación válida del 14 de octubre de 2019 hasta el 20 de octubre de 2019 en los pedidos vendidos y enviados por
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00M75LV2W/?tag=tolees-21)
