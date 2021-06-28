@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AGUAPLAST - Masilla Reparar Madera Roble al 36.30 % de rebaja'
-date: 2021-06-21 16:53:32
+date: 2021-06-28 07:20:34
 image: 'https://m.media-amazon.com/images/I/31NrdvF5RaS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
