@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bob Esponja - Figura Stretch al 46.84 % de descuento'
-date: 2021-06-26 19:10:45
+date: 2021-06-28 09:10:33
 image: 'https://m.media-amazon.com/images/I/41386WdD9XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bob Esponja'
 buyurl: 'https://www.amazon.es/dp/B084LHHCZ1/?tag=tolees-21'
 descuento: '46.84'
-average: '18.583'
+average: '18.5845454545455'
 ---
 
 Está [Bob Esponja - Figura Stretch](https://www.amazon.es/dp/B084LHHCZ1/?tag=tolees-21) con 46.84 de descuento por 18.6 EUR (original: 34.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Bob Esponja - Figura Stretch](https://www.amazon.es/dp/B084LHHCZ1/?tag=to
 
 ℹ️:
 
-- La figura de Bob Esponja más alucinante, capaz de estirarse más que ninguna otra
-- Se puede estirar más de 60 cm
-- Con un montón de frases y sonidos diferentes
 - Cuánto más le estires más sonidos diferentes hará
+- Se puede estirar más de 60 cm
+- La figura de Bob Esponja más alucinante, capaz de estirarse más que ninguna otra
 - Más de 30 sonidos y frases diferentes
+- Con un montón de frases y sonidos diferentes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084LHHCZ1/?tag=tolees-21)
