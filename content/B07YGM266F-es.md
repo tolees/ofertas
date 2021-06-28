@@ -28,8 +28,8 @@ Está [Meridiem Games - New Super Lucky s Tale](https://www.amazon.es/dp/B07YGM2
 
 ℹ️:
 
-- Featuring a huge variety of gameplay, from expansive 3D hubs, to story-based adventure levels, 2D side-scrolling challenges, rewarding mini-games, mind-bending puzzles, and thrilling boss battles.
 - Thousands of collectibles to gather, tons of rewarding secrets to discover, a cast of memorable characters, and an entire wardrobe of costumes for the stylish adventurer.
+- Featuring a huge variety of gameplay, from expansive 3D hubs, to story-based adventure levels, 2D side-scrolling challenges, rewarding mini-games, mind-bending puzzles, and thrilling boss battles.
 - This is the 3D platforming adventure youve been looking for, designed to delight and challenge players of all ages and skill levels.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YGM266F/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [ACTIVISION - Call of Duty. Black Ops Cold War](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Ofrece un arsenal de armamento y equipamiento al más puro estilo de la Guerra Fría para los tres modos de juego
-- Secuela directa de Call of Duty Black Ops, introduciendo a los jugadores en un thriller lleno de conspiraciones y ambientado en los años 80 durante la Guerra Fría
 - Ofrece contenido para todos: un Modo Campaña cautivador, un Multijugador de próxima generación y una nueva experiencia Zombies
 - Soporte crossplay para que los jugadores de Call of Duty puedan disfrutar juntos
+- Ofrece un arsenal de armamento y equipamiento al más puro estilo de la Guerra Fría para los tres modos de juego
+- Secuela directa de Call of Duty Black Ops, introduciendo a los jugadores en un thriller lleno de conspiraciones y ambientado en los años 80 durante la Guerra Fría
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08MBQ2J85/?tag=tolees-21)
