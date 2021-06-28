@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Luxana Phyto Nature Pastilla Jabón Azufr al 67.42 % de descuento'
-date: 2021-06-21 11:32:53
+date: 2021-06-28 17:50:52
 image: 'https://m.media-amazon.com/images/I/31qO+cYwMdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Luxana Phyto Nature Pastilla Jabón Azufre - 120 gr](https:/
 
 🔎:
 
+- Tipo de producto: Jabón
 - Género: Unisex Adulto
 - Marca: Luxana
-- Tipo de producto: Jabón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01F7MWUYO/?tag=tolees-21)

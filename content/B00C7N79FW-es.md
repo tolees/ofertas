@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Lee Brooklyn Straight Jeans  Negro  Clea al 79.03 % de rebaja'
-date: 2020-08-08 20:25:16
-image: 'https://m.media-amazon.com/images/I/41IlILVIfxL._SL400_.jpg'
+title: 'Lee Brooklyn Straight Vaqueros  Negro  C al 44.75 % de rebaja'
+date: 2021-06-28 18:35:37
+image: 'https://m.media-amazon.com/images/I/31Y5K0B9S-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00C7N79FW-es Lee Brooklyn Straight Jeans Negro Clean Black 30W / 34L...'
+slug: 'B00C7N79FW-es Lee Brooklyn Straight Vaqueros Negro Clean Black 30W / 34L...'
 sku: 'B00C7N79FW-es'
-tags: [  ]
-actualPrice: 18.86 EUR
+tags: [ 'Ropa','Ropa para hombre','Vaqueros para hombre','lee', ]
+actualPrice: 46.96 EUR
 currency: EUR
-price: 18.86
-comparePrice: 89.95 EUR
-prodname: 'Lee Brooklyn Straight Jeans  Negro  Clean Black   30W / 34L para Hombre'
+price: 46.96
+comparePrice: 85.0 EUR
+prodname: 'Lee Brooklyn Straight Vaqueros  Negro  Clean Black   30W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Lee'
 buyurl: 'https://www.amazon.es/dp/B00C7N79FW/?tag=tolees-21'
-descuento: '79.03'
-average: '19.959999999999997'
+descuento: '44.75'
+average: '25.36'
 ---
 
-Tienes [Lee Brooklyn Straight Jeans  Negro  Clean Black   30W / 34L para Hombre](https://www.amazon.es/dp/B00C7N79FW/?tag=tolees-21) con precio final de  18.86 EUR (original: 89.95 EUR) (79.03 %  de rebaja) aqui!
+Tienes [Lee Brooklyn Straight Vaqueros  Negro  Clean Black   30W / 34L para Hombre](https://www.amazon.es/dp/B00C7N79FW/?tag=tolees-21) con precio final de  46.96 EUR (original: 85.0 EUR) (44.75 %  de rebaja) aqui!
 
-[![Lee Brooklyn Straight Jeans  Negro  Clea](https://m.media-amazon.com/images/I/41IlILVIfxL._SL400_.jpg)](https://www.amazon.es/dp/B00C7N79FW/?tag=tolees-21)
+[![Lee Brooklyn Straight Vaqueros  Negro  C](https://m.media-amazon.com/images/I/31Y5K0B9S-S._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00C7N79FW/?tag=tolees-21)
 
 🔎:
 
+- confort-estrech-vaquero
+- Regular Fit
+- pierna recta
+- Entallado
+- Altura Altura Cuerpo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00C7N79FW/?tag=tolees-21)
