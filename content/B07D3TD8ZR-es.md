@@ -28,10 +28,10 @@ En este momento está [RADIANT Reloj Analógico para Mujer de Cuarzo con Correa 
 
 🔎:
 
-- Movimiento: Cuarzo, Display: Analógico
-- Correa Material/Color: Acero/Azul
-- Caja Material/Color: Metal/Dorado
-- Sumergible: No
 - Diámetro Caja: 36MM
+- Caja Material/Color: Metal/Dorado
+- Correa Material/Color: Acero/Azul
+- Movimiento: Cuarzo, Display: Analógico
+- Sumergible: No
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D3TD8ZR/?tag=tolees-21)

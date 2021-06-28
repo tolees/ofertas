@@ -28,9 +28,9 @@ Tienes [adidas Pantalón Corto Modelo M FI Short Q2 Marca](https://www.amazon.es
 
 ℹ️:
 
+- Tejido técnico 57% poliéster / 43% poliéster reciclado
+- Bolsillos laterales con cremallera
 - Tejido transpirable
 - Cintura elástica con cordón
-- Bolsillos laterales con cremallera
-- Tejido técnico 57% poliéster / 43% poliéster reciclado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08XQRY5QV/?tag=tolees-21)
