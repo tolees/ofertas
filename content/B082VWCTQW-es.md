@@ -28,10 +28,10 @@ Ahora mismo tienes [Meridiem Games - Is It Wrong to Try to Pick Up Girls in a Du
 
 🔎:
 
-- Become Friends with Gods - Be part of a Familia and serve a resident deity who protects you and helps you grow as an adventurer.
 - Story Mode - Enjoy an extensive story with unique content and side quests!
+- Welcome to Orario - Enter a city where the gods have decided to come live on Earth and give challenges to its inhabitants.
 - Two Perspectives - You can discover Bell Cranels story, but also play as Ais Wallenstein depending on the chapter, each with their own skillsets!
 - Experience the Anime - Follow the story from the beginning and discover exclusive new content in the game!
-- Welcome to Orario - Enter a city where the gods have decided to come live on Earth and give challenges to its inhabitants.
+- Become Friends with Gods - Be part of a Familia and serve a resident deity who protects you and helps you grow as an adventurer.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082VWCTQW/?tag=tolees-21)

@@ -29,7 +29,7 @@ En este momento está [Konami - Pro Evolution Soccer 2019](https://www.amazon.es
 🔎:
 
 - PS4
-- 3+
 - Deportes
+- 3+
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CXFK8QR/?tag=tolees-21)
