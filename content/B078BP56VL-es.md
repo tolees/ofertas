@@ -28,12 +28,12 @@ Está [New Balance GM500V1  Zapatillas Hombre  Black/Silver  45 EU](https://www.
 
 ℹ️:
 
-- Anchura del zapato: Normal
-- Cierre: Cordones
 - Material exterior: Cuero sintético
-- Material de la suela: Sintético
-- Composición: Microfibra y malla
 - Tipo de tacón: Plano
+- Composición: Microfibra y malla
+- Cierre: Cordones
+- Material de la suela: Sintético
+- Anchura del zapato: Normal
 - Revestimiento: Tela
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078BP56VL/?tag=tolees-21)

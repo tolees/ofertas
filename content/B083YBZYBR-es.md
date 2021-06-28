@@ -28,10 +28,10 @@ En este momento está [Kipling Womens Izellah - Body cruzado  12 x 33 x 23 cm   
 
 🔎:
 
-- 100% Poliéster
 - 23 Alto x 33 Ancho x 12 Fondo cm
-- 0.32 kg
 - Hidrófugo
+- 0.32 kg
+- 100% Poliéster
 - Bolso Bandolera Mediano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083YBZYBR/?tag=tolees-21)

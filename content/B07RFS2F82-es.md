@@ -29,9 +29,9 @@ Ahora mismo tienes [Chicco Physio Light - Pack de 2 chupetes de silicona 6-16 m 
 🔎:
 
 - Tetina ortodóntica suave de silicona "efecto mamá"
-- Muy ligero con bodes redondeados
-- Pack 2 chupetes con diseños aleatorios (azul)
 - Libre de BPA
+- Muy ligero con bodes redondeados
 - Mini escudo con gran ventilación
+- Pack 2 chupetes con diseños aleatorios (azul)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RFS2F82/?tag=tolees-21)
