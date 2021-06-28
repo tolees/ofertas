@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Essential Tank Camiseta Deportiva de Tirantes  White 
 
 🔎:
 
+- Modelo casual
 - Elaborada en punto suave
 - Con un discreto logo en el pecho
-- Modelo casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K73Q2NC/?tag=tolees-21)
