@@ -28,10 +28,10 @@ En este momento está [Michael Kors Reloj Analogico para Mujer de Cuarzo con Cor
 
 🔎:
 
-- Material de la correa: Acero inoxidable
 - Resistente al agua: 5 ATM
-- Grosor de la caja: 8 mm; Tamaño de la caja: 38 mm
 - Se presenta en caja de regalo Michael Kors
+- Grosor de la caja: 8 mm; Tamaño de la caja: 38 mm
 - Ancho de la correa: 18 mm; Circunferencia de la correa: 190 +/-5 mm
+- Material de la correa: Acero inoxidable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CTRHDT3/?tag=tolees-21)

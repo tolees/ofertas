@@ -28,8 +28,8 @@ Tienes [Nike Revolution 5  Zapatillas de Correr  Negro  Black White Anthracite  
 
 🔎:
 
-- Forro blando.
 - La suave suela intermedia de espuma proporciona una sensación suave y estable.
 - Plantilla blanda
+- Forro blando.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NLZTK4J/?tag=tolees-21)

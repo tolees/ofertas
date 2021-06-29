@@ -28,7 +28,7 @@ Está [Inside 05SMON10 Mono  42  L para Mujer](https://www.amazon.es/dp/B08521CM
 
 ℹ️:
 
-- 100 % algodón
 - Cierre: cremallera, botón
+- 100 % algodón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08521CMFF/?tag=tolees-21)

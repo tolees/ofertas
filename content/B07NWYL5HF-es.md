@@ -28,8 +28,8 @@ Tienes [NIKE M NP Short Long Pantalones Cortos de Deporte  Hombre  Black/ White 
 
 ℹ️:
 
+- Elastic Waistband with lanyard
 - Regular fit
 - Breathable fabric
-- Elastic Waistband with lanyard
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NWYL5HF/?tag=tolees-21)

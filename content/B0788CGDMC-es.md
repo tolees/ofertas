@@ -28,8 +28,8 @@ En este momento está [Casio Reloj Digital para Unisex de Cuarzo con Correa en R
 
 🔎:
 
-- Incluye función de despertador
 - Cronómetro 1/100 segundos
 - Para iluminar la esfera del reloj se usa un diodo emisor de luz LED
+- Incluye función de despertador
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0788CGDMC/?tag=tolees-21)
