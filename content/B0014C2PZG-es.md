@@ -1,32 +1,38 @@
 ---
 layout: post
-title: 'Crocs Classic Z  Zuecos con Correa Trase al 36.26 % de descuento'
-date: 2020-05-08 15:56:13
-image: 'https://m.media-amazon.com/images/I/31k8B48RfyL._SL400_.jpg'
+title: 'Crocs Classic  Zuecos Unisex Adulto  Nav al 45.76 % de descuento'
+date: 2021-06-29 16:50:58
+image: 'https://m.media-amazon.com/images/I/31TNrOAKyNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0014C2PZG-es Crocs Classic Z Zuecos con Correa Trasera Unisex Adulto...'
+slug: 'B0014C2PZG-es Crocs Classic Zuecos Unisex Adulto Navy 46/47 EU'
 sku: 'B0014C2PZG-es'
-tags: [  ]
-actualPrice: 25.49 EUR
+tags: [ 'Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','Zuecos de mujer','Zuecos y mules de mujer','Zuecos y mules para hombre','crocs', ]
+actualPrice: 21.69 EUR
 currency: EUR
-price: 25.49
+price: 21.69
 comparePrice: 39.99 EUR
-prodname: 'Crocs Classic Z  Zuecos con Correa Trasera Unisex Adulto  Azul  Navy   46/47 EU'
+prodname: 'Crocs Classic  Zuecos Unisex Adulto  Navy  46/47 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B0014C2PZG/?tag=tolees-21'
-descuento: '36.26'
-average: '25.8675'
+descuento: '45.76'
+average: '25.032'
 ---
 
-Ahora mismo tienes [Crocs Classic Z  Zuecos con Correa Trasera Unisex Adulto  Azul  Navy   46/47 EU](https://www.amazon.es/dp/B0014C2PZG/?tag=tolees-21) a 25.49 EUR (original: 39.99 EUR) (36.26 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Crocs Classic  Zuecos Unisex Adulto  Navy  46/47 EU](https://www.amazon.es/dp/B0014C2PZG/?tag=tolees-21) a 21.69 EUR (original: 39.99 EUR) (45.76 %  de descuento) en el siguiente enlace!
 
-[![Crocs Classic Z  Zuecos con Correa Trase](https://m.media-amazon.com/images/I/31k8B48RfyL._SL400_.jpg)](https://www.amazon.es/dp/B0014C2PZG/?tag=tolees-21)
+[![Crocs Classic  Zuecos Unisex Adulto  Nav](https://m.media-amazon.com/images/I/31TNrOAKyNL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0014C2PZG/?tag=tolees-21)
 
 🔎:
 
+- Material exterior: Espuma
+- Tipo de tacón: Plano
+- Material de la suela: Sintético
+- Cierre: Tira de tobillo
+- Composición: Sintético
+- Revestimiento: Sin forro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0014C2PZG/?tag=tolees-21)

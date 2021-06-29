@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oïléna - Aceite de Ricino Puro  Castor O al 36.64 % de descuento'
-date: 2021-06-27 15:16:05
+date: 2021-06-29 16:52:32
 image: 'https://m.media-amazon.com/images/I/31YZFldCKHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Oïléna - Aceite de Ricino Puro  Castor Oil  Acelera el Crecimiento del 
 
 ℹ️:
 
-- 💅🏼 ACEITE PARA UÑAS Y CUTÍCULAS: aceite reparador, endurecedor y fortalecedor de uñas. Hidrata las uñas y sus cutículas. Se recomienda masajear cada noche unas gotas de aceite de ricino en las uñas de las manos y los pies ahora que se acerca el tiempo de lucir sandalia. Ayuda a conseguir unas uñas hidratadas, fuertes y de aspecto saludable.
 - 🏺 ACEITE DE RICINO PARA PESTAÑAS Y CEJAS: actúa como hidratante natural, lubricando las pestañas desde su raíz, favoreciendo su crecimiento. Tratamiento natural para evitar la caída de las pestañas causada por un mal uso de maquillaje, alergias, estrés, deficiencias nutricionales o alteraciones hormonales.
-- 👩🏻‍ ACEITE PARA CABELLO: sirve como mascarilla para el pelo, previene su caída. Alisado brasileño, evita las puntas abiertas y secas. Aceite especialmente indicado para cabellos rizados, define los rizos y previene el encrespamiento. Hidrata el pelo y realza su color natural combatiendo las canas. Idóneo como tratamiento hidratante del cabello.
-- 💆🏻 ACEITE DE MASAJE: el aceite de ricino ayuda a relajar la tensión muscular y contribuye a favorecer la circulación sanguínea. Es ideal para masajes terapéuticos. Se utiliza habitualmente como aceite base para diluir aceites esenciales y potenciar el efecto del masaje.
 - 🧔🏻 ACEITE PARA BARBA: el aceite de ricino Oïléna es idóneo para arreglar la barba y mantenerla limpia, perfumada e hidratada. Fortalece el vello facial. Acelera el crecimiento de la barba y disminuye su sequedad.
+- 💅🏼 ACEITE PARA UÑAS Y CUTÍCULAS: aceite reparador, endurecedor y fortalecedor de uñas. Hidrata las uñas y sus cutículas. Se recomienda masajear cada noche unas gotas de aceite de ricino en las uñas de las manos y los pies ahora que se acerca el tiempo de lucir sandalia. Ayuda a conseguir unas uñas hidratadas, fuertes y de aspecto saludable.
+- 💆🏻 ACEITE DE MASAJE: el aceite de ricino ayuda a relajar la tensión muscular y contribuye a favorecer la circulación sanguínea. Es ideal para masajes terapéuticos. Se utiliza habitualmente como aceite base para diluir aceites esenciales y potenciar el efecto del masaje.
+- 👩🏻‍ ACEITE PARA CABELLO: sirve como mascarilla para el pelo, previene su caída. Alisado brasileño, evita las puntas abiertas y secas. Aceite especialmente indicado para cabellos rizados, define los rizos y previene el encrespamiento. Hidrata el pelo y realza su color natural combatiendo las canas. Idóneo como tratamiento hidratante del cabello.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Z2TDY1T/?tag=tolees-21)
