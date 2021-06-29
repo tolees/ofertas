@@ -28,10 +28,10 @@ Tienes [Amazfit - Smartwatch Amazfit Gtr 47Mm Aleación De Aluminio Y Correa De 
 
 🔎:
 
-- Sumergible a 50 metros
-- Elegante diseño de cerámica y metal
-- Pantalla AMOLED 326 ppi
 - Batería de larga duración
+- Sumergible a 50 metros
+- Pantalla AMOLED 326 ppi
+- Elegante diseño de cerámica y metal
 - 12 modos de deportes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WGW4RLK/?tag=tolees-21)

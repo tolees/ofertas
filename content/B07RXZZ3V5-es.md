@@ -28,7 +28,7 @@ Tienes [Esprit 998EE2B806 Pantalones  Negro  Black 001   W32/L34 para Hombre](ht
 
 ℹ️:
 
-- Con cinturón integrado
 - Pantalón chino moderno de la marca Esprit
+- Con cinturón integrado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RXZZ3V5/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [iWotto E light - Luz Emergencia Coche + Linterna luz Frontal - Señal V16
 
 ℹ️:
 
-- iWotto Light está homologado y autorizado por la DGT
+- Tiene unos potentes imanes de fijación antideslizamiento – Protección ante golpes – Autónomo y sin cables, 2,5 horas autonomía, con 3 pilas AAA incluidas en la baliza v16 iWotto Light
 - Rápido y fácil de usar, su vehículo quedará señalizado en menos de 8 segundos de forma fácil e intuitiva en situaciones de estrés.
 - Se puede usar en condiciones climáticas adversas como lluvia, viento y polvo gracias a su homologación IP54.
-- Tiene unos potentes imanes de fijación antideslizamiento – Protección ante golpes – Autónomo y sin cables, 2,5 horas autonomía, con 3 pilas AAA incluidas en la baliza v16 iWotto Light
 - La visibilidad es de hasta 1 km y 360º, por lo que se maximiza su posición de emergencia evitando accidentes.
+- iWotto Light está homologado y autorizado por la DGT
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08N6RKJTJ/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Quiksilver Espadrilled  Alpargata Hombre  Azul  Blue/White/B
 
 🔎:
 
-- Diseño abierto que se puede llevar pisando el contrafuerte del talón
-- Sidewall envuelto en yuta
 - Suela interior con espuma de memoria para un confort instantáneo
-- Suela exterior con textura de inspiración alpargata
 - Acceso elástico para un ajuste seguro
+- Diseño abierto que se puede llevar pisando el contrafuerte del talón
+- Suela exterior con textura de inspiración alpargata
+- Sidewall envuelto en yuta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DYBWSHC/?tag=tolees-21)
