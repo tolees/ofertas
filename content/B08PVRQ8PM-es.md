@@ -29,8 +29,8 @@ En este momento está [adidas RUNFALCON 2.0  Zapatillas de Running Mujer  FTWBLA
 🔎:
 
 - Diseño transpirable y ligero
-- Parte superior de malla acolchada
 - Refuerzo sin costuras en el talón
+- Parte superior de malla acolchada
 - Cierre de cordones
 - Mediasuela de EVA
 

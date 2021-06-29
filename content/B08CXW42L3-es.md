@@ -28,9 +28,9 @@ En este momento está [Nike MD Valiant  PSV   Sneaker  Black/White  35 EU](https
 
 🔎:
 
+- Outer material: sintético
+- Sole material: caucho
 - Closure: cordones
 - Lining: synthetic
-- Sole material: caucho
-- Outer material: sintético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXW42L3/?tag=tolees-21)
