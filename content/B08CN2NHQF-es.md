@@ -28,8 +28,8 @@ Ahora mismo tienes [Desigual PU Body Bag  Bolsa para cuerpo de Across para Mujer
 
 🔎:
 
-- Estampado bolimaníaco Black & White de mensajes y símbolos
 - 100% POLYURETHANE
 - Lentejuelas
+- Estampado bolimaníaco Black & White de mensajes y símbolos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CN2NHQF/?tag=tolees-21)

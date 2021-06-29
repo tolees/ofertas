@@ -28,10 +28,10 @@ En este momento está [NANOCABLE 10.15.1303 - Cable SVGA para Monitor y proyecto
 
 🔎:
 
-- Cable para monitor, proyector y PC
-- Resolución máxima 2048 x 1536 píxeles
-- Incorpora 3 hilos coaxiales (doble apantallado) para señales de color de alta frecuencia más 4 hilos adicionales para la sincronización. Doble apantallado para todos los hilos para evitar pérdida de datos e interferencias electromagnéticas (EMI)
 - Conector tipo D-sub HDB15 macho en ambos extremos
+- Cable para monitor, proyector y PC
+- Incorpora 3 hilos coaxiales (doble apantallado) para señales de color de alta frecuencia más 4 hilos adicionales para la sincronización. Doble apantallado para todos los hilos para evitar pérdida de datos e interferencias electromagnéticas (EMI)
+- Resolución máxima 2048 x 1536 píxeles
 - El producto está 100% testado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008HHAWFG/?tag=tolees-21)

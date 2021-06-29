@@ -28,8 +28,8 @@ Ahora mismo tienes [Dockers Garment Dyed Polo  Polo Hombre  Skyway  XL](https://
 
 🔎:
 
-- Confeccionado con técnicas Water<Less, que reducen el consumo de agua durante el proceso de acabado
-- Modelo hecho con estándares de sostenibilidad para reducir el impacto ejercido en el planeta
 - Polo teñido
+- Modelo hecho con estándares de sostenibilidad para reducir el impacto ejercido en el planeta
+- Confeccionado con técnicas Water<Less, que reducen el consumo de agua durante el proceso de acabado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089T7HQZF/?tag=tolees-21)

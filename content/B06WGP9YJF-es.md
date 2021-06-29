@@ -29,7 +29,7 @@ Tienes [Soggy Doggy- Juego  Perro Que Moja  Giochi Preziosi GGY00001 ](https://w
 🔎:
 
 - CUIDADO, ¡le encanta SACUDIRSE el AGUA DE ENCIMA!
-- ¿Quién baña a quién? Nuevo divertidísimo juego para 2-4 jugadores
 - ¡Llega el primero a la CESTA de SOGGY DOGGY y serás el GANADOR!
+- ¿Quién baña a quién? Nuevo divertidísimo juego para 2-4 jugadores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06WGP9YJF/?tag=tolees-21)

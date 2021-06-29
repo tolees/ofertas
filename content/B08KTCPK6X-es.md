@@ -29,9 +29,9 @@ Está [Oximetro Dedo  JOYSKY Pulsioximetro de Dedo Profesional 3 en 1  Oxímetro
 ℹ️:
 
 - 【Aplicaciones Amplias y Simples】Este pulsometro de dedo es adecuado para todos, deportistas, ancianos y mujeres embarazadas. Simplemente insertar su dedo y presionar el botón para obtener los valor.
-- 【Ligero y Portátil】JOYSKY pulsioximetro solo pesa 28g con dimensión de 55x30x30mm, viene con una cuerda para colgarlo por el cuello, es ligero y fácil de llevar a dondequiera.
-- 【Apagado Automático】El oxímetro de pulso se apaga automáticamente después de 8 segundos de estado de inactividad, lo cual garantiza una mayor duración de la batería.
 - 【Pantalla OLED Giratoria】Con lapantalla OLED del pulsioximetro, los valores medidos (saturación de oxígeno en la sangre, frecuencia del pulso, índice de perfusión zeichen) se ve claramente. La pantalla giratoria le permite leer los valores en dos ángulos horizontales.
+- 【Ligero y Portátil】JOYSKY pulsioximetro solo pesa 28g con dimensión de 55x30x30mm, viene con una cuerda para colgarlo por el cuello, es ligero y fácil de llevar a dondequiera.
 - 【Medición Rápida y Precisa】JOYSKY oxímetro de pulso permite obtener valores de medición precisos de SpO2 (precisión: +/- 2%) con un rango de medición del 70% al 100%, mientras que el rango de medición de la frecuencia del pulso es de 25 a 250 lpm (precisión: +/- 3bpm).
+- 【Apagado Automático】El oxímetro de pulso se apaga automáticamente después de 8 segundos de estado de inactividad, lo cual garantiza una mayor duración de la batería.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KTCPK6X/?tag=tolees-21)

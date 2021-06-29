@@ -29,8 +29,8 @@ Está [Relec Infantil Spray Antimosquitos  Especial Para Niños  A Partir de 1 A
 ℹ️:
 
 - Para bebés y niños a partir de 12 meses.
-- Ofrece hasta 6 horas de protección frente a los mosquitos.
-- Con IR3535 10%. El Aminopropionato de Etilo (IR3535) es una sustancia activa que protege frente a un gran número de insectos. La demostrada inocuidad del ingrediente activo y su buena tolerancia dérmica garantizan que el uso de este producto en niños sea seguro.
 - Para zonas de clima templado, costa, húmedas (montañas, ríos, lagos, piscinas,…), para dentro o fuera de casa. No se recomienda su uso en zonas que presentan un riesgo elevado de malaria u otras enfermedades de transmisión mediante mosquitos vectores.
+- Con IR3535 10%. El Aminopropionato de Etilo (IR3535) es una sustancia activa que protege frente a un gran número de insectos. La demostrada inocuidad del ingrediente activo y su buena tolerancia dérmica garantizan que el uso de este producto en niños sea seguro.
+- Ofrece hasta 6 horas de protección frente a los mosquitos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CGES96Y/?tag=tolees-21)

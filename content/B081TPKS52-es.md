@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas DRST Ask Bra Sujetador de Deporte  Mujer  Black  XS](
 
 🔎:
 
-- Stretch fabric
 - Sports bra
+- Stretch fabric
 - Great freedom of movement
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081TPKS52/?tag=tolees-21)
