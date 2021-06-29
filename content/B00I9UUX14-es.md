@@ -28,10 +28,10 @@ Tienes [Samyang F1121904101 - Objetivo fotográfico DSLR para Pentax  Distancia 
 
 🔎:
 
-- Gran angular para cámaras réflex digitales con sensor APS-C, ojo de pez
-- Montura para Pentax
 - Campo de visión diagonal de 180°, con revestimiento UMC anti-reflectante
 - Enfoque manual
+- Gran angular para cámaras réflex digitales con sensor APS-C, ojo de pez
 - Incluye parasol extraíble
+- Montura para Pentax
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00I9UUX14/?tag=tolees-21)

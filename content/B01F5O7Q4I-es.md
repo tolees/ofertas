@@ -28,10 +28,10 @@ Tienes [Yacel Fitness Total | Gel Lipoescultor | Remodela y Tonifica Tu Figura |
 
 🔎:
 
-- Yacel Fitness es un gel en crema fresco que tiene un poderoso efecto remodelante de la figura. Tus muslos se estilizan, la cintura se reduce y la silueta corporal queda perfectamente definida.
-- MODO DE EMPLEO: aplicar antes de realizar deporte para potenciar los resultados y tras la ducha.
 - Café verde & Hierba Mate: quema y previene la acumulación de las grasas.
 - Centella asiática: reafirma y tonifica al incrementar la producción de colágeno.
+- MODO DE EMPLEO: aplicar antes de realizar deporte para potenciar los resultados y tras la ducha.
+- Yacel Fitness es un gel en crema fresco que tiene un poderoso efecto remodelante de la figura. Tus muslos se estilizan, la cintura se reduce y la silueta corporal queda perfectamente definida.
 - Palmitoyl carnitine: define la musculatura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01F5O7Q4I/?tag=tolees-21)

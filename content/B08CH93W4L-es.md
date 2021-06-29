@@ -28,10 +28,10 @@ Tienes [G-STAR RAW 3301 Mid Waist Skinny Ripped Ankle Jeans  White C267-110  25W
 
 🔎:
 
-- Talle medio
 - Prenda ajustada de muslo a bajo
-- Gráfico de la marca justo encima del bolsillo trasero
-- Bajos sin rematar
 - Construcción con cinco bolsillos
+- Bajos sin rematar
+- Talle medio
+- Gráfico de la marca justo encima del bolsillo trasero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CH93W4L/?tag=tolees-21)
