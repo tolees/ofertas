@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 574 Core Plus Pack  Zapatill al 54.89 % de descuento'
-date: 2021-06-27 23:17:18
+date: 2021-06-29 05:15:29
 image: 'https://m.media-amazon.com/images/I/41X+4y6l5+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

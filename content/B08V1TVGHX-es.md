@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Burton Oak al 52.87 % de descuento'
-date: 2021-06-23 09:08:50
+date: 2021-06-29 05:34:51
 image: 'https://m.media-amazon.com/images/I/41ncxl9nGoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Burton Oak](https://www.amazon.es/dp/B08V1TVGHX/?tag=tolees-21) con 52.87
 
 ℹ️:
 
-- Talla unisex; bolsillo canguro calienta manos
-- Los puños con orificio para el pulgar mantienen las mangas en su lugar
-- El ajuste regular: no demasiado apretado ni demasiado holgado
-- Fleece de felpa francesa de poliéster cepillado
 - Tejido de secado rápido y muy transpirable; capucha adjunta
+- El ajuste regular: no demasiado apretado ni demasiado holgado
+- Talla unisex; bolsillo canguro calienta manos
+- Fleece de felpa francesa de poliéster cepillado
+- Los puños con orificio para el pulgar mantienen las mangas en su lugar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08V1TVGHX/?tag=tolees-21)
