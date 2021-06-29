@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samyang F1121904101 - Objetivo fotográfi al 42.57 % de rebaja'
-date: 2021-06-21 03:46:11
+date: 2021-06-29 14:27:59
 image: 'https://m.media-amazon.com/images/I/41YZ4Ce8BvS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Samyang F1121904101 - Objetivo fotográfico DSLR para Pentax  Distancia 
 
 🔎:
 
-- Montura para Pentax
 - Gran angular para cámaras réflex digitales con sensor APS-C, ojo de pez
+- Montura para Pentax
 - Campo de visión diagonal de 180°, con revestimiento UMC anti-reflectante
-- Incluye parasol extraíble
 - Enfoque manual
+- Incluye parasol extraíble
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00I9UUX14/?tag=tolees-21)

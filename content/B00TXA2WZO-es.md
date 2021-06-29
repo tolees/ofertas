@@ -28,9 +28,9 @@ Ahora mismo tienes [Irisana 72.IR20 - Ecobola para lavadora  color verde agua](h
 
 🔎:
 
-- Con cierre de seguridad
 - Prolonga la vida útil de la lavadora
-- Tiene hasta 3 años de vida útil, o 1000 lavados
 - Evita irritaciones y alergias en la piel, a la vez que protege los tejidos e impide su decoloración
+- Con cierre de seguridad
+- Tiene hasta 3 años de vida útil, o 1000 lavados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00TXA2WZO/?tag=tolees-21)
