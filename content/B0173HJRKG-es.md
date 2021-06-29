@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Fresh N Rebel Rockbox Cube - Altavoz por con un 51.58 % de descuento'
-date: 2020-02-27 11:05:26
-image: 'https://m.media-amazon.com/images/I/51JCDkVA8EL._AC_._SL400_.jpg'
+title: 'Fresh ‘n Rebel - Fresh N Rebel Rockbox C con un 51.65 % de descuento'
+date: 2021-06-29 01:48:29
+image: 'https://m.media-amazon.com/images/I/51JCDkVA8EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0173HJRKG-es Fresh N Rebel Rockbox Cube - Altavoz portátil con...'
+slug: 'B0173HJRKG-es Fresh ‘n Rebel - Fresh N Rebel Rockbox Cube - Altavoz...'
 sku: 'B0173HJRKG-es'
-tags: [  ]
-actualPrice: 14.52 EUR
+tags: [ 'Accesorios de audio y vídeo portátil','Altavoces portátiles Bluetooth','Altavoces portátiles y altavoces con puerto dock','Audio y vídeo portátil','Electrónica','fresh ‘n rebel', ]
+actualPrice: 14.5 EUR
 currency: EUR
-price: 14.52
+price: 14.5
 comparePrice: 29.99 EUR
-prodname: 'Fresh N Rebel Rockbox Cube - Altavoz portátil con Bluetooth  color turquesa'
+prodname: 'Fresh ‘n Rebel - Fresh N Rebel Rockbox Cube - Altavoz portátil con Bluetooth  color turquesa'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Fresh ‘n Rebel'
 buyurl: 'https://www.amazon.es/dp/B0173HJRKG/?tag=tolees-21'
-descuento: '51.58'
-average: '14.296666666666665'
+descuento: '51.65'
+average: '14.3475'
 ---
 
-En este momento está [Fresh N Rebel Rockbox Cube - Altavoz portátil con Bluetooth  color turquesa](https://www.amazon.es/dp/B0173HJRKG/?tag=tolees-21) a 14.52 EUR (original: 29.99 EUR) (51.58 %  de descuento) en el siguiente enlace!
+En este momento está [Fresh ‘n Rebel - Fresh N Rebel Rockbox Cube - Altavoz portátil con Bluetooth  color turquesa](https://www.amazon.es/dp/B0173HJRKG/?tag=tolees-21) a 14.5 EUR (original: 29.99 EUR) (51.65 %  de descuento) en el siguiente enlace!
 
-[![Fresh N Rebel Rockbox Cube - Altavoz por](https://m.media-amazon.com/images/I/51JCDkVA8EL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0173HJRKG/?tag=tolees-21)
+[![Fresh ‘n Rebel - Fresh N Rebel Rockbox C](https://m.media-amazon.com/images/I/51JCDkVA8EL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0173HJRKG/?tag=tolees-21)
 
 🔎:
 
+- EDICIÓN FABRIQ - Cubierto por una tela de tejido especial con hilos multicolor y embellecido con una etiqueta de cuero curtida y el logotipo incrustado.
+- ULTRA PORTÁTIL - Rockbox Cube Fabriq Editiones un altavoz inalámbrico pequeño pero potente, pensado tanto para los amantes del diseño como para los amantes de la música.
+- BATERÍA RECARGABLE - Con una batería de gran autonomía que garantiza 8 horas de música non-stop con una sola carga, puede colocarse en cualquier lugar de la casa o fuera.
+- BLUETOOTH INALÁMBRICO - Rockbox Cube Fabriq Edition utiliza Bluetooth para conectarse de manera inalámbrica a tu teléfono, tableta u ordenador portátil.
+- OCHO COLORES - Cubierto por un tejido especial con hilos multicolor y disponible en ocho colores diferentes, que responden a la última moda y tendencias en interiorismo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0173HJRKG/?tag=tolees-21)
