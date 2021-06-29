@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Staedtler tradition 110 HB 1pieza s  - L al 83.95 % de rebaja'
-date: 2021-06-23 09:56:02
+date: 2021-06-29 09:05:08
 image: 'https://m.media-amazon.com/images/I/41Uynruv4iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [Staedtler tradition 110 HB 1pieza s  - Lápiz  HB  Negro  Rojo  Hexagona
 
 🔎:
 
-- STAEDTLER - 110HB
 - STAEDTLER Lápiz Tradition 110, graduación: HB, hexagonal, </li><li>Lacado en rojo y negro, especialmente resistente gracias a la mina. </li><li>Cuello resistente a la rotura. </li><li>(1102HB)
+- STAEDTLER - 110HB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001P5V4CM/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [NIKE M NP Short Sport Shorts  Hombre  Black/White  XL](https://www.amazo
 
 🔎:
 
-- Ayudan a mantenerte cómodo
-- La tela elástica con un tacto ceñido le permite moverse con naturalidad
 - Con ajuste ceñido para una sensación de abrazo del cuerpo
 - La tela Nike Pro proporciona una capa base de apoyo que absorbe el sudor para ayudarlo a sentirse encerrado y fresco
+- La tela elástica con un tacto ceñido le permite moverse con naturalidad
+- Ayudan a mantenerte cómodo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Q4LKRKH/?tag=tolees-21)

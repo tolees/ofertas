@@ -28,10 +28,10 @@ Está [OnePlus Nord N10 5G - Smartphone 128GB  6GB RAM  Dual SIM  Midnight Ice](
 
 ℹ️:
 
-- Mejora tu juego en fotografía y vídeo con grabación a 4 K y cámara superlenta
-- 6 GB de RAM + 128 GB de almacenamiento interno con tecnología de la plataforma móvil Qualcomm Snapdragon 690 5G
-- Experimenta un mejor sonido El N10 está equipado con un conector para auriculares de 3.5 mm y altavoces estéreo duales integrados
 - Rendimiento superior que lo lleva más lejos Batería de 4300 mAh con Warp Charge 30T y OxygenOS
+- 6 GB de RAM + 128 GB de almacenamiento interno con tecnología de la plataforma móvil Qualcomm Snapdragon 690 5G
+- Mejora tu juego en fotografía y vídeo con grabación a 4 K y cámara superlenta
 - Pantalla de 6.49 " a 90 Hz Desplazamiento más suave y una pantalla más receptiva que eleva tu experiencia de visualización
+- Experimenta un mejor sonido El N10 está equipado con un conector para auriculares de 3.5 mm y altavoces estéreo duales integrados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XYJ1CFR/?tag=tolees-21)

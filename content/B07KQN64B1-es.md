@@ -28,8 +28,8 @@ Está [adidas W D2M 3S 34 TIG Mallas  Mujer  Black/White  XS](https://www.amazon
 
 ℹ️:
 
+- Elastic waistband
 - Stretch fabric
 - Slim fit
-- Elastic waistband
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KQN64B1/?tag=tolees-21)
