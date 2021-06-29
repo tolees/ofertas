@@ -28,8 +28,8 @@ En este momento está [adidas NMD R1  Sneaker Mujer  Hazy Rose/Footwear White/Gl
 
 🔎:
 
-- Malla de células cerradas en la parte superior
-- Ajuste óptimo
 - Zapatilla de calle con soporte óptimo
+- Ajuste óptimo
+- Malla de células cerradas en la parte superior
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PPJ528M/?tag=tolees-21)

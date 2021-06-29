@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Irisana 72.IR20 - Ecobola para lavadora  al 50.45 % de descuento'
-date: 2021-06-23 16:50:30
+date: 2021-06-29 13:15:41
 image: 'https://m.media-amazon.com/images/I/414OMW7hYLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Irisana'
 buyurl: 'https://www.amazon.es/dp/B00TXA2WZO/?tag=tolees-21'
 descuento: '50.45'
-average: '11.05'
+average: '11.02'
 ---
 
 Ahora mismo tienes [Irisana 72.IR20 - Ecobola para lavadora  color verde agua](https://www.amazon.es/dp/B00TXA2WZO/?tag=tolees-21) a 10.9 EUR (original: 22.0 EUR) (50.45 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Irisana 72.IR20 - Ecobola para lavadora  color verde agua](h
 
 🔎:
 
-- Prolonga la vida útil de la lavadora
 - Con cierre de seguridad
+- Prolonga la vida útil de la lavadora
 - Tiene hasta 3 años de vida útil, o 1000 lavados
 - Evita irritaciones y alergias en la piel, a la vez que protege los tejidos e impide su decoloración
 
