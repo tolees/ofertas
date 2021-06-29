@@ -30,8 +30,8 @@ Está [Burton Oak](https://www.amazon.es/dp/B08V1TVGHX/?tag=tolees-21) con 52.87
 
 - Tejido de secado rápido y muy transpirable; capucha adjunta
 - El ajuste regular: no demasiado apretado ni demasiado holgado
+- Los puños con orificio para el pulgar mantienen las mangas en su lugar
 - Talla unisex; bolsillo canguro calienta manos
 - Fleece de felpa francesa de poliéster cepillado
-- Los puños con orificio para el pulgar mantienen las mangas en su lugar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08V1TVGHX/?tag=tolees-21)

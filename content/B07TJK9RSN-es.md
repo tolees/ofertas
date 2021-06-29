@@ -28,8 +28,8 @@ Tienes [Clarks Pickwell Sail  Zapatos y Bolsos Hombre  Azul  Navy Combi Navy Com
 
 🔎:
 
-- Material interior: sin forro
 - Suela: goma
 - Exterior: piel
+- Material interior: sin forro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TJK9RSN/?tag=tolees-21)
