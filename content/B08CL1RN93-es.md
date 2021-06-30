@@ -28,8 +28,8 @@ En este momento está [Desigual Crewneck Tie Dye Sudadera  Azul  L para Mujer](h
 
 🔎:
 
-- Estampado de paisaje tropical por la noche
 - Camiseta tropical de algodón
+- Estampado de paisaje tropical por la noche
 - Corte estándar
 - Cuello redondo
 

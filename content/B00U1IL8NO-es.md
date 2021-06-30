@@ -28,10 +28,10 @@ En este momento está [Reebok Classic Leather - Zapatillas de cuero para hombre 
 
 🔎:
 
-- Cierre de cordones
-- Tipo de tacón: plano, con la altura de 1 centímetro
 - Mediasuela moldeada de EVA y amortiguación ligera
-- Parte superior de piel suave para un extra confort
 - Con un revestimiento de tela
+- Cierre de cordones
+- Parte superior de piel suave para un extra confort
+- Tipo de tacón: plano, con la altura de 1 centímetro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00U1IL8NO/?tag=tolees-21)

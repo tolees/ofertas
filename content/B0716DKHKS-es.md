@@ -28,8 +28,8 @@ Está [PRINCE Raqueta Txt Phantom 100 Fr](https://www.amazon.es/dp/B0716DKHKS/?t
 
 ℹ️:
 
+- Buen rendimiento
 - Buenos materiales y diferentes tecnologías
 - Raqueta tenis
-- Buen rendimiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0716DKHKS/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Iggual SPTV11 - Soporte TV Pared de Color Negro para Televis
 
 🔎:
 
-- Incluye manual, tornillería e instrucciones de instalación; cumple especificaciones RoHS
-- Soporte para tv pared fijo de color negro; soporte VESA - 400 x 400 mm max
-- Este soporte que permite colgar tv en pared sin rotación
 - Distancia a la pared de 22 mm
 - Tamaño de televisión recomendado: 32 a 55"
+- Incluye manual, tornillería e instrucciones de instalación; cumple especificaciones RoHS
+- Este soporte que permite colgar tv en pared sin rotación
+- Soporte para tv pared fijo de color negro; soporte VESA - 400 x 400 mm max
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0744M2XZC/?tag=tolees-21)
