@@ -28,10 +28,10 @@ Tienes [Funko - Pop! Men in Black International: Agent M Figura De Vinil   Multi
 
 🔎:
 
+- Funko pop vinyl
+- Men in Black
 - Men in black international
 - De la colección men in black, Agent M como figura de vinilo pop de funko
 - Juguete del año 2018
-- Men in Black
-- Funko pop vinyl
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KPW4WF9/?tag=tolees-21)

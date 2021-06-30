@@ -28,9 +28,9 @@ Tienes [Funko - Pop! TV: Game of Thrones - Theon w/Flaming Arrows Figura Colecci
 
 🔎:
 
-- Recomendado para niños a partir de 3 años
-- Figura de colección de la marca Funko
 - El producto se envía en una caja ilustrada con ventana
 - El artículo es adecuado para todos los fanáticos de Game of Thrones
+- Figura de colección de la marca Funko
+- Recomendado para niños a partir de 3 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RVLFG84/?tag=tolees-21)

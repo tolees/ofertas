@@ -28,10 +28,10 @@ Está [HYLOGY Termometro digital frente  termómetro sin contacto  termómetro m
 
 ℹ️:
 
-- 【Dos colores】 La medición del termómetro sin contacto se puede completar en 1 segundo; el púrpura y el gris tienen la misma calidad
-- 【Higiene profesional】 Probado y mejorado por médicos. Se puede utilizar en todas las ocasiones que necesiten detectar temperatura.
-- 【Simple y conveniente】 Fácil de cambiar ℃ / ℉ y ajustar el modo silencioso, puede registrar 20 valores de temperatura, fácil de rastrear los cambios de temperatura.
 - 【Multifunción】 No solo puede medir la temperatura corporal, sino también la temperatura ambiente y la temperatura del objeto.
 - 【Fever warning】 When the body temperature is too high (>37.5℃), the buzzer will beep 10 times to warn the temperature is too high.
+- 【Dos colores】 La medición del termómetro sin contacto se puede completar en 1 segundo; el púrpura y el gris tienen la misma calidad
+- 【Simple y conveniente】 Fácil de cambiar ℃ / ℉ y ajustar el modo silencioso, puede registrar 20 valores de temperatura, fácil de rastrear los cambios de temperatura.
+- 【Higiene profesional】 Probado y mejorado por médicos. Se puede utilizar en todas las ocasiones que necesiten detectar temperatura.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086BFVPTM/?tag=tolees-21)

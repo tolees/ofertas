@@ -28,10 +28,10 @@ En este momento está [Deportivas Mujer mustang | Deportivas JOGGO 69989 | musta
 
 🔎:
 
-- Material principal Textil
-- Tipo de cierre Cordones
+- Altura Tacón Bajo (de 1 A 3 cm)
 - Material de la suela De goma
 - Tipo de tacón Plano
-- Altura Tacón Bajo (de 1 A 3 cm)
+- Tipo de cierre Cordones
+- Material principal Textil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HV8TH8F/?tag=tolees-21)

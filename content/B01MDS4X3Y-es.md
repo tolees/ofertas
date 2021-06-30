@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Woods  Zapatillas Hombre  Blanco  con un 50.00 % de descuento'
-date: 2021-06-14 06:40:54
+date: 2021-06-30 16:44:34
 image: 'https://m.media-amazon.com/images/I/31wHT8cnuoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

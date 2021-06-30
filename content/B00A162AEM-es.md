@@ -28,9 +28,9 @@ Ahora mismo tienes [Trespass Sleepyhead Almohada de Viaje  Unisex Adulto  Azul  
 
 🔎:
 
-- Se comprime hasta un tamaño pequeño
-- Tamaño: 40 cm x 30 cm
 - Hecho un 100 % de poliéster
 - Suave, compacto y ligero
+- Se comprime hasta un tamaño pequeño
+- Tamaño: 40 cm x 30 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00A162AEM/?tag=tolees-21)

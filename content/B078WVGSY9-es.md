@@ -28,11 +28,11 @@ Tienes [Tommy Hilfiger Unlined Bralette Sujetador sin Aros  Gris  Grey Heather 0
 
 🔎:
 
+- Escote delantero
+- Sin almohadilla para copas
+- Sin copas, sin forro
 - Algodón puro
 - Tirantes no ajustables
-- Escote delantero
-- Sin copas, sin forro
-- Sin almohadilla para copas
 - Banda de apoyo bajo el pecho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078WVGSY9/?tag=tolees-21)

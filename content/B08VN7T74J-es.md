@@ -28,10 +28,10 @@ Tienes [HOMCOM Puff Infantil Diseño de Burrito Sillón para Niños +18 Meses de
 
 🔎:
 
-- ✅ASIENTO ANCHO CON RESPALDO: Este sillón infantil en forma de burrito cuenta con un amplio asiento y respaldo, para que los niños estén más cómodos y se sientas más seguros. El respaldo tiene la cabeza del burro en la parte superior y las patas delanteras a modo de apoyabrazos
-- ✅CÓMODO: Completamente relleno de algodón PP y cubierto con suave tela de franela, este puff burrito ofrece un aspecto completamente esponjoso, y realmente cómodo, que encantará a los más pequeños
 - ✅LIGERO Y ANTIDESLIZANTE: Esta silla de animal para niños, completamente esponjoso, es extremadamente ligero para que los propios niños puedan moverlo sin dificultad de un lado al otro de la habitación y jugar. Cuenta con la base inferior antideslizante para mayor estabilidad y seguridad
-- ✅SILLÓN INFANTIL: Bonito sofá infantil con forma de burrito. Ideal para cualquier dormitorio infantil, sala de juegos o para que tengan su propio sillón en la sala de estar
+- ✅CÓMODO: Completamente relleno de algodón PP y cubierto con suave tela de franela, este puff burrito ofrece un aspecto completamente esponjoso, y realmente cómodo, que encantará a los más pequeños
 - ✅MEDIDAS TOTALES: 60x55x60 cm (LxANxAL); Medidas del asiento: 36x24 cm (LxAN); Recomendado para niños a partir de 18 meses
+- ✅ASIENTO ANCHO CON RESPALDO: Este sillón infantil en forma de burrito cuenta con un amplio asiento y respaldo, para que los niños estén más cómodos y se sientas más seguros. El respaldo tiene la cabeza del burro en la parte superior y las patas delanteras a modo de apoyabrazos
+- ✅SILLÓN INFANTIL: Bonito sofá infantil con forma de burrito. Ideal para cualquier dormitorio infantil, sala de juegos o para que tengan su propio sillón en la sala de estar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VN7T74J/?tag=tolees-21)
