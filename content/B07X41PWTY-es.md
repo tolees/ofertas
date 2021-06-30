@@ -28,9 +28,9 @@ Está [Western Digital - WD Elements - Disco duro externo portátil de 5 TB con 
 
 ℹ️:
 
-- Capacidad masiva
 - Compatibilidad con usb 3.0 y usb 2.0
 - Transferencias rápidas de datos
+- Capacidad masiva
 - Calidad y confiabilidad wd
 - Mejora el rendimiento de su ordenador
 

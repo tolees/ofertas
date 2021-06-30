@@ -28,10 +28,10 @@ Tienes [Philips Lighting GU10 Cristal Bombillas  4.6 W equivalentes a 50 W en in
 
 ℹ️:
 
-- Las bombillas con un valor Kelvin bajo producen una luz cálida, acogedora, son adecuadas para actividades de relajación o para terminar el día con luz tenue
-- Diseñadas para tu confort visual, con la tecnología Eye Comfort, los efectos de una iluminación agresiva en la vista son evidentes
 - Ahora puedes iluminar suavemente tu mundo con soluciones LED diseñadas para cuidar la vista y crear el óptimo en tu hogar
 - Con una vida útil de la bombilla de hasta 15.000 horas, evitarás las complicaciones de sustitución de las bombillas y disfrutarás de una solución de iluminación adecuada hasta 15 años
+- Las bombillas con un valor Kelvin bajo producen una luz cálida, acogedora, son adecuadas para actividades de relajación o para terminar el día con luz tenue
 - Adecuado para una iluminación de acento, este foco LED proporciona iluminación moderna con un amplio flujo luminoso. Se puede utilizar en una lámpara o foco empotrado y focos de carril
+- Diseñadas para tu confort visual, con la tecnología Eye Comfort, los efectos de una iluminación agresiva en la vista son evidentes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01KHILJ5O/?tag=tolees-21)
