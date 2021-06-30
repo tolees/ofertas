@@ -30,8 +30,8 @@ Ahora mismo tienes [Quiksilver Molokai  Zapato de Agua Hombre  Black Green Green
 
 - Logotipo Quiksilver y logotipo de Mountain and Wave
 - Líneas poppige en el lateral
-- Plantilla estructurada antideslizante
 - Suela de goma espumada con logotipos en varios ángulos para mayor agarre
+- Plantilla estructurada antideslizante
 - Flexible, sintética, con 3 puntos de goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083F7PHVQ/?tag=tolees-21)

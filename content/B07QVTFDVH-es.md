@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Star Wars The Rise of Skywalk al 49.04 % de descuento'
-date: 2021-06-25 17:27:38
+date: 2021-06-30 13:40:29
 image: 'https://m.media-amazon.com/images/I/515aqMUf7aS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07QVTFDVH/?tag=tolees-21'
 descuento: '49.04'
-average: '10.714'
+average: '10.4266666666667'
 ---
 
 Ahora mismo tienes [Funko- Pop Star Wars The Rise of Skywalker-First Order Jet Trooper Disney Figura coleccionable  Multicolor  39899 ](https://www.amazon.es/dp/B07QVTFDVH/?tag=tolees-21) a 8.99 EUR (original: 17.64 EUR) (49.04 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Funko- Pop Star Wars The Rise of Skywalker-First Order Jet T
 
 🔎:
 
-- First order jet trooper
-- Descúbre otras figuras de la colección disney star wars y colecciónalas todas
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Disney star wars
 - De la colección star wars the rise of skywalker, first order jet trooper como figura de vinilo pop de funko
+- Descúbre otras figuras de la colección disney star wars y colecciónalas todas
+- First order jet trooper
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QVTFDVH/?tag=tolees-21)
