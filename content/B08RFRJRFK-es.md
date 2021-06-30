@@ -28,14 +28,14 @@ En este momento está [by Amazon Cápsulas Ristretto  compatibles con Nespresso 
 
 🔎:
 
+- Rico y fuerte
+- Cápsulas compatibles con Nespresso* (* No registrada por Amazon EU S.a.r.l.) No es compatible con las máquinas Nespresso Vertuo
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
+- Envasado en atmósfera protectora para mantener su frescura
 - Fuerza del café: 8/10
 - Café molido de tueste natural en cápsulas
+- Tostado y envasado en Bélgica
 - Conservar en un lugar fresco y seco
 - Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
-- Tostado y envasado en Bélgica
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
-- Cápsulas compatibles con Nespresso* (* No registrada por Amazon EU S.a.r.l.) No es compatible con las máquinas Nespresso Vertuo
-- Rico y fuerte
-- Envasado en atmósfera protectora para mantener su frescura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RFRJRFK/?tag=tolees-21)

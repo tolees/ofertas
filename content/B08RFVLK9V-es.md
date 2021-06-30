@@ -28,12 +28,12 @@ Tienes [by Amazon Cápsulas Espresso Intenso  compatibles con Nespresso - 100 c�
 
 🔎:
 
-- Café de más de un país. Tostado en Bélgica y envasado en Italia
-- Mezcla equilibrada de granos de arábica y robusta naturales seleccionados para crear un sabor único, intenso y fuerte. Intensidad 8/10
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
-- Envasado en atmósfera protectora para mantener su frescura
-- *Nespresso no está vinculado a Amazon
-- Café molido de tueste natural en cápsulas compatibles con Nespresso*No es compatible con las máquinas Nespresso Vertuo
 - Apto para dietas vegetarianas y veganas
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
+- Café de más de un país. Tostado en Bélgica y envasado en Italia
+- Café molido de tueste natural en cápsulas compatibles con Nespresso*No es compatible con las máquinas Nespresso Vertuo
+- *Nespresso no está vinculado a Amazon
+- Envasado en atmósfera protectora para mantener su frescura
+- Mezcla equilibrada de granos de arábica y robusta naturales seleccionados para crear un sabor único, intenso y fuerte. Intensidad 8/10
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08RFVLK9V/?tag=tolees-21)
