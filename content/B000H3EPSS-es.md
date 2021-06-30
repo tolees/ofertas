@@ -28,10 +28,10 @@ En este momento está [Revlon Super Lustrous Pintalabios Hidratante  Black Cherr
 
 🔎:
 
-- La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
 - Acabado satinado
+- La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
 - Enriquecido con Aloe, Vitaminas A, C y E
-- Extra sedoso e hidratante
 - Sin fragancia
+- Extra sedoso e hidratante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000H3EPSS/?tag=tolees-21)
