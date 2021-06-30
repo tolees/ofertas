@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lexon Mino - Altavoz Bluetooth  Color Ro al 37.60 % de descuento'
-date: 2021-06-26 18:26:51
+date: 2021-06-30 19:54:04
 image: 'https://m.media-amazon.com/images/I/31CR-vR906L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
