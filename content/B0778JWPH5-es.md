@@ -28,11 +28,11 @@ Tienes [Embutidos Ezequiel Cecina de De León Igp Loncheada  Cecina de Vaca 100%
 
 ℹ️:
 
-- Desgustarla sola, en bocadillo, como tapa o aperitivo, entre horas, en comidas o cenas. Perfecto acompañante para cualquier ocasión o evento con familiares o amigos. Con un buen vino, un poco de pan o queso.
-- Este embutido tan peculiar, tiene MÚLTIPLES PROPIEDADES BENEFICIOSAS, convirtiéndolo en un alimento saludable, entre ellas: Alto contenido en proteínas y zinc, sin azucar, fuente de minerales, importante aporte de vitamina B12.
 - Producto sujeto a la certificación I.G.P Cecina de León
-- EMBUTIDO CASERO DE LEÓN con el sabor de toda la vida
 - SIN GLUTEN, SIN LACTOSA, SIN CONSERVANTES, SIN ADITIVOS ARTIFICIALES
+- EMBUTIDO CASERO DE LEÓN con el sabor de toda la vida
+- Desgustarla sola, en bocadillo, como tapa o aperitivo, entre horas, en comidas o cenas. Perfecto acompañante para cualquier ocasión o evento con familiares o amigos. Con un buen vino, un poco de pan o queso.
 - Para disfrutar al máximo de su SABOR, recomendamos abrir 10 minutos antes de consumir.
+- Este embutido tan peculiar, tiene MÚLTIPLES PROPIEDADES BENEFICIOSAS, convirtiéndolo en un alimento saludable, entre ellas: Alto contenido en proteínas y zinc, sin azucar, fuente de minerales, importante aporte de vitamina B12.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0778JWPH5/?tag=tolees-21)

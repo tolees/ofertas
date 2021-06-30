@@ -28,7 +28,7 @@ Ahora mismo tienes [Chiquilín - Artiach Galletas  875 g - [pack de 2]](https://
 
 🔎:
 
-- Advertencia alergénica: contiene trigo, leche, huevo, soja
 - Se debe conservar en un lugar fresco y seco
+- Advertencia alergénica: contiene trigo, leche, huevo, soja
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M12LHJA/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Hoya HMC 62.0MM NDX400 - Filtro para cámara  Negro](https://www.amazon.
 
 🔎:
 
-- Permite aperturas mayores de diafragma o velocidades más lentas
 - Densidad óptica ND de 2.8
 - Reduce la luz el equivalente a 9 pasos
+- Permite aperturas mayores de diafragma o velocidades más lentas
 - Efectos creativos en situaciones de gran cantidad de luz
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0009BVFA4/?tag=tolees-21)

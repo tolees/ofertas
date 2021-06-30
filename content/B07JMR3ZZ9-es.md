@@ -29,9 +29,9 @@ Tienes [Bombilla wifi  Maxcio Bombilla Inteligente WiFi de Multicolor con Intens
 🔎:
 
 - PERSONALIZACION DE HORARIO --- configura el horario de la bombilla con la función de temporizador, ¡deja la luz despertarte!
-- CONTROL REMOTO --- controla a larga distancia su bombilla mediante aplicación “Smart Life” en cualquier momento y lugar para evitar malgasto de energía.Más brillante que 7w
-- MODOS DE ESCENA --- ofrece 8 escenas con diferentes colores y intensidad, correspondiente a como por ejemplo dormir, leer o hacer fiesta.
 - MULTICOLOR CON LUZ REGULABLE --- ofrecer 16 millones de color, con intensidad y tono de color regulable, satisface cualquier de su gusto.
+- MODOS DE ESCENA --- ofrece 8 escenas con diferentes colores y intensidad, correspondiente a como por ejemplo dormir, leer o hacer fiesta.
+- CONTROL REMOTO --- controla a larga distancia su bombilla mediante aplicación “Smart Life” en cualquier momento y lugar para evitar malgasto de energía.Más brillante que 7w
 - COMPARTIR ENTRE FAMILIARES --- compartir entre la familia el acceso al control mediante la aplicación, ¡vivir una vida inteligente con toda la familia! Si tiene alguna pregunta, comuníquese con nosotros a través de la dirección de correo electrónico que figura en el manual.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JMR3ZZ9/?tag=tolees-21)

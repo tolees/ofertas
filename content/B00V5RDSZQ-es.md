@@ -28,10 +28,10 @@ Tienes [Superga Classic  Zapatillas Unisex Adulto  Azul  Blue Shadow C57   49 EU
 
 ℹ️:
 
-- lona
 - Goma
 - Sin talón
-- Cordones
+- lona
 - textil
+- Cordones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00V5RDSZQ/?tag=tolees-21)
