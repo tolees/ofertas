@@ -28,10 +28,10 @@ Tienes [Belkin BSV103 SurgeCube - Protección contra sobretensiones con un zóca
 
 🔎:
 
-- Un indicador LED informa al usuario cuando la regleta no tiene toma de tierra
-- Consumo de energía: 306 J
-- Dos puertos USB integrados de 2.4 A
-- Las tapas deslizantes de seguridad ayudan a prevenir accidentes con niños
 - La carcasa protege contra el daño producido por el fuego las tapas deslizantes de seguridad ayudan a prevenir accidentes con niños
+- Las tapas deslizantes de seguridad ayudan a prevenir accidentes con niños
+- Consumo de energía: 306 J
+- Un indicador LED informa al usuario cuando la regleta no tiene toma de tierra
+- Dos puertos USB integrados de 2.4 A
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00LHUPG4W/?tag=tolees-21)
