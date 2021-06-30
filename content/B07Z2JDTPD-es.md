@@ -28,10 +28,10 @@ Ahora mismo tienes [EKYLIN - Coche Moto Interruptor de Batería  Poste Lateral A
 
 🔎:
 
-- [Instalación Fácil] Simplemente gire la manija para controlar el encendido / apagado. Apto para vehículos ligeros, motocicletas, etc.
-- [Servicio al Cliente Confiable] Listo para responder en un plazo de 24 horas. Garantía de devolución de dinero de 30 días, garantía de reemplazo de 12 meses y garantía de soporte de por vida.
-- [Especificaciones] Voltaje nominal: 6/12 v; Corriente nominal: 80A; Dimensiones de montaje: montaje en el electrodo negativo de la batería; Color: como muestran las imágenes; Material: aleación de zinc; Diámetro del orificio del tornillo: 6 mm (aprox.); Dimensión: 20 * 63 * 23 mm (aprox.); Peso: 38 g (aprox.)
 - [Master Kill Power] Cortó completamente la batería. Evite que la batería tenga fugas.
 - [Alta Calidad] Hecho de alta calidad y material duradero. Largo uso de la vida.
+- [Instalación Fácil] Simplemente gire la manija para controlar el encendido / apagado. Apto para vehículos ligeros, motocicletas, etc.
+- [Especificaciones] Voltaje nominal: 6/12 v; Corriente nominal: 80A; Dimensiones de montaje: montaje en el electrodo negativo de la batería; Color: como muestran las imágenes; Material: aleación de zinc; Diámetro del orificio del tornillo: 6 mm (aprox.); Dimensión: 20 * 63 * 23 mm (aprox.); Peso: 38 g (aprox.)
+- [Servicio al Cliente Confiable] Listo para responder en un plazo de 24 horas. Garantía de devolución de dinero de 30 días, garantía de reemplazo de 12 meses y garantía de soporte de por vida.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Z2JDTPD/?tag=tolees-21)

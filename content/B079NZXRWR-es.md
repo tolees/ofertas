@@ -28,10 +28,10 @@ Tienes [Anker Nebula Capsule Smart Mini Proyector Portable 100 ANSI LM High-Cont
 
 🔎:
 
-- Claridad y contraste notables: los avanzados algoritmos IntelliBright de DLP brindan imágenes brillantes (100 ANSI lúmenes), vívidas y de hasta 100 pulgadas de ancho.
-- NOTA: El contenido protegido por derechos de autor de Hulu, Netflix y servicios similares NO PUEDEN reflejarse o proyectarse en pantalla. Descargue y use las aplicaciones directamente a través de Capsule para ver contenido protegido por derechos de autor de estos proveedores.
-- Altavoz de 360 °: Equipado con un potente altavoz omnidireccional para bombear sonido en todas las direcciones.
-- Súper portátil: un cuerpo de aluminio sin costuras garantiza una mayor durabilidad y un exiguo peso de 15 oz para ir sin esfuerzo a donde quiera.
 - Android 7.1: ejecute streaming y aplicaciones de medios de forma impecable: visualiza sin problemas el contenido de Netflix, Youtube y más para un entretenimiento sin fin.
+- NOTA: El contenido protegido por derechos de autor de Hulu, Netflix y servicios similares NO PUEDEN reflejarse o proyectarse en pantalla. Descargue y use las aplicaciones directamente a través de Capsule para ver contenido protegido por derechos de autor de estos proveedores.
+- Súper portátil: un cuerpo de aluminio sin costuras garantiza una mayor durabilidad y un exiguo peso de 15 oz para ir sin esfuerzo a donde quiera.
+- Claridad y contraste notables: los avanzados algoritmos IntelliBright de DLP brindan imágenes brillantes (100 ANSI lúmenes), vívidas y de hasta 100 pulgadas de ancho.
+- Altavoz de 360 °: Equipado con un potente altavoz omnidireccional para bombear sonido en todas las direcciones.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079NZXRWR/?tag=tolees-21)

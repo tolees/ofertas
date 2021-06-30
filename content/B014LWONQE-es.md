@@ -28,10 +28,10 @@ Tienes [Bosch Professional Set Toughbox con 15 hojas de sierra sable para mdera 
 
 🔎:
 
-- La hojas de sierra sable Basic for Wood S 617 K permiten realizar cortes curvos y de inmersión en madera, p; ej; en leña
-- Suministro: 5 hojas de sierra sable Basic for Metal S 918 AF, 5 hojas de sierra sable Basic for Metal S 918 BF, 5 hojas de sierra sable Basic for Wood S 617 K
-- Las hojas de sierra sable Basic for Metal S 918 AF y S 918 BF, con una longitud de 150 mm, consiguen un corte óptimo del metal, p; ej; de tubos o perfiles
 - Transporte sencillo y almacenamiento seguro de las hojas de sierra gracias a la caja de tapa dura compacta y estable
 - Set con 15 hojas de sierra sable de Bosch Professional en una robusta caja Tough Box para un práctico almacenamiento
+- Suministro: 5 hojas de sierra sable Basic for Metal S 918 AF, 5 hojas de sierra sable Basic for Metal S 918 BF, 5 hojas de sierra sable Basic for Wood S 617 K
+- Las hojas de sierra sable Basic for Metal S 918 AF y S 918 BF, con una longitud de 150 mm, consiguen un corte óptimo del metal, p; ej; de tubos o perfiles
+- La hojas de sierra sable Basic for Wood S 617 K permiten realizar cortes curvos y de inmersión en madera, p; ej; en leña
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014LWONQE/?tag=tolees-21)
