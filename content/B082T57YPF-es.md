@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Duramo SL  Sneaker Hombre  Team R al 37.84 % de descuento'
-date: 2021-06-25 20:35:12
+date: 2021-06-30 09:20:49
 image: 'https://m.media-amazon.com/images/I/414m8-DoSKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Duramo SL  Sneaker Hombre  Team Royal Blue/Footwear W
 
 🔎:
 
+- Corte regular
 - Cordones de zapatos
 - Malla superior
-- Corte regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082T57YPF/?tag=tolees-21)

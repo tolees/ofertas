@@ -28,9 +28,9 @@ Está [Funko Pop Figura De Vinil: TV: Game of Thrones-Jon Snow Coleccionable  Mu
 
 ℹ️:
 
-- Recomendado para niños a partir de 3 años
-- Figura de colección de la marca Funko
-- El artículo es adecuado para todos los fanáticos de Game of Thrones
 - El producto se envía en una caja ilustrada con ventana
+- El artículo es adecuado para todos los fanáticos de Game of Thrones
+- Figura de colección de la marca Funko
+- Recomendado para niños a partir de 3 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RCN366S/?tag=tolees-21)
