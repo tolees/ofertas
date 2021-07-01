@@ -28,8 +28,8 @@ En este momento está [Reebok CL Nylon  Zapatillas Deportivas Mujer  White Light
 
 🔎:
 
-- Empeine de ante y nailon
 - Zapatillas deportivas
+- Empeine de ante y nailon
 - Amortiguación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083SXQNTM/?tag=tolees-21)

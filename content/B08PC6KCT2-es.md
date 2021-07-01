@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas Solar Glide 3 W  Zapatillas de Running Mujer  NEGBÁS
 
 🔎:
 
+- Cierre de cordones
 - Mediasuela Boost
 - Parte superior de malla
-- Cierre de cordones
 - Refuerzo a lo largo de la mediasuela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PC6KCT2/?tag=tolees-21)

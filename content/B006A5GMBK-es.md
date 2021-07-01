@@ -28,10 +28,10 @@ Tienes [Lactovit - Gel de Ducha Reparador Lactourea  para Pieles Secas y Extra S
 
 ℹ️:
 
-- Formulado con PROTEIN CALCIUM, que refuerza y nutre la piel para mantenerla fuerte y joven. Piel más hidratada, elástica y firme. Una piel reparada es el secreto de una piel joven.
 - Compromiso Lactovit; activos 100% naturales de la leche y altamente biodegradables, mejorando la reciclabilidad de nuestros envases y cuidando del medio ambiente.
-- Desde el primer día, notarás una piel más reparada, elástica y fuerte, además de disfrutar durante todo el día de su delicado perfume
-- Su fórmula con Ácido Láctico y Urea Pura repara la piel en profundidad gracias a sus propiedades reparadoras
+- Formulado con PROTEIN CALCIUM, que refuerza y nutre la piel para mantenerla fuerte y joven. Piel más hidratada, elástica y firme. Una piel reparada es el secreto de una piel joven.
 - Gel de ducha lácteo Lactourea, nº1 en urea, para pieles secas y extra-secas que necesitan un extra de reparación
+- Su fórmula con Ácido Láctico y Urea Pura repara la piel en profundidad gracias a sus propiedades reparadoras
+- Desde el primer día, notarás una piel más reparada, elástica y fuerte, además de disfrutar durante todo el día de su delicado perfume
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B006A5GMBK/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Skechers Flex Appeal 3.0-Insiders  Zapatillas Mujer  Gris
 
 🔎:
 
-- Suela de tracción de goma flexible
 - Entresuela ligera que absorbe los golpes
-- Zapatillas deportivas deportivas para caminar
-- Suela que no deja marcas
 - Plantilla acolchada de espuma viscoelástica refrigerada por aire
+- Suela de tracción de goma flexible
+- Suela que no deja marcas
+- Zapatillas deportivas deportivas para caminar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CZ8QBHS/?tag=tolees-21)
