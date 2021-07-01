@@ -30,7 +30,7 @@ Está [Geox U Drive Snake N  Mocasines Hombre  Beige  Taupe C6029   46 EU](https
 
 - Artículo: U2202N 00022
 - Temporada: primavera/verano
-- Diseñador: Geox
 - Material: ante
+- Diseñador: Geox
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B008YUROL6/?tag=tolees-21)
