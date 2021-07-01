@@ -28,9 +28,9 @@ Está [Joseph Joseph Extend - Escurreplatos  Plastico - Gris](https://www.amazon
 
 ℹ️:
 
-- Las púas están equipadas con extremos recubiertos de plástico, que protegen los vasos y platos de arañazos
+- Enchufe integrado que se puede configurar para atrapar el agua para el drenaje más tarde
 - Nervaduras elevadas para evitar que el agua queda atrapada debajo de vasos y tazones
 - Se puede extender para llevar más objetos cuando sea necesario
-- Enchufe integrado que se puede configurar para atrapar el agua para el drenaje más tarde
+- Las púas están equipadas con extremos recubiertos de plástico, que protegen los vasos y platos de arañazos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00R86DNGW/?tag=tolees-21)

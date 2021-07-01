@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Western Digital - WD Elements - Disco du al 36.43 % de descuento'
-date: 2021-06-30 20:26:26
+title: 'Western Digital - WD Elements SE al 36.43 % de descuento'
+date: 2021-07-01 20:33:39
 image: 'https://m.media-amazon.com/images/I/31yxSi4fYgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07X41PWTY-es Western Digital - WD Elements - Disco duro externo...'
+slug: 'B07X41PWTY-es Western Digital - WD Elements SE'
 sku: 'B07X41PWTY-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Informática','western digital', ]
 actualPrice: 84.05 EUR
 currency: EUR
 price: 84.05
 comparePrice: 132.22 EUR
-prodname: 'Western Digital - WD Elements - Disco duro externo portátil de 5 TB con USB 3.0  color negro'
+prodname: 'Western Digital - WD Elements SE'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B07X41PWTY/?tag=tolees-21'
 descuento: '36.43'
-average: '111.839047619048'
+average: '111.40484375'
 ---
 
-Está [Western Digital - WD Elements - Disco duro externo portátil de 5 TB con USB 3.0  color negro](https://www.amazon.es/dp/B07X41PWTY/?tag=tolees-21) con 36.43 de descuento por 84.05 EUR (original: 132.22 EUR) en el siguiente enlace!
+Está [Western Digital - WD Elements SE](https://www.amazon.es/dp/B07X41PWTY/?tag=tolees-21) con 36.43 de descuento por 84.05 EUR (original: 132.22 EUR) en el siguiente enlace!
 
-[![Western Digital - WD Elements - Disco du](https://m.media-amazon.com/images/I/31yxSi4fYgL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07X41PWTY/?tag=tolees-21)
+[![Western Digital - WD Elements SE](https://m.media-amazon.com/images/I/31yxSi4fYgL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07X41PWTY/?tag=tolees-21)
 
 ℹ️:
 
-- Compatibilidad con usb 3.0 y usb 2.0
-- Transferencias rápidas de datos
-- Capacidad masiva
-- Calidad y confiabilidad wd
 - Mejora el rendimiento de su ordenador
+- Calidad y confiabilidad wd
+- Transferencias rápidas de datos
+- Compatibilidad con usb 3.0 y usb 2.0
+- Capacidad masiva
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X41PWTY/?tag=tolees-21)
