@@ -28,10 +28,10 @@ En este momento está [Parker Jotter Originals Pluma Estilográfica  Acabado Neg
 
 🔎:
 
-- Cuerpo de plástico que no se araña, ultrarresistente
-- Su plumín mediano con forma de pluma le permite experimentar el placer de escribir con pluma estilográfica
-- Incluye dos cartuchos largos quink, en negro y en azul, para afrontar cualquier tarea de escritura que se le presente
-- El icónico diseño jotter, ahora en pluma estilográfica
 - El acabado negro brillante con un toque retro inspira ideas originales
+- Su plumín mediano con forma de pluma le permite experimentar el placer de escribir con pluma estilográfica
+- Cuerpo de plástico que no se araña, ultrarresistente
+- El icónico diseño jotter, ahora en pluma estilográfica
+- Incluye dos cartuchos largos quink, en negro y en azul, para afrontar cualquier tarea de escritura que se le presente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TVTF8PG/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [ShangSky Lámpara de Proyector Infantil 360 Grados de Rotación Luz de N
 
 ℹ️:
 
-- Este proyector tiene 6 piezas de luz, océano, cumpleaños, caballo de Troya, ciervo, cielo estrellado y jardín de rosas. Puede elegir un tema diferente para crear una atmósfera diferente.
 - Con la forma creativa de la hierba, este producto es un regalo para niños, amigos, familiares, amantes, etc.
 - Se puede utilizar como luz decorativa, luz de iluminación, luz de noche, luz de ambiente, etc. Es la mejor opción para la interacción entre padres e hijos, la creación romántica y la decoración.
-- Modo de luz amarilla iluminada, es la luz suave y cómoda sin perturbar el sueño. Modo de luz blanca de la tapa, puede convertirse en luz de iluminación para leer.
 - Este producto está hecho de material ABS + PC no tóxico, es duradero y tiene un tiempo de servicio prolongado.
+- Este proyector tiene 6 piezas de luz, océano, cumpleaños, caballo de Troya, ciervo, cielo estrellado y jardín de rosas. Puede elegir un tema diferente para crear una atmósfera diferente.
+- Modo de luz amarilla iluminada, es la luz suave y cómoda sin perturbar el sueño. Modo de luz blanca de la tapa, puede convertirse en luz de iluminación para leer.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08L7LX15K/?tag=tolees-21)

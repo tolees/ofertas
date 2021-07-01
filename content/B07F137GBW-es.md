@@ -28,10 +28,10 @@ Ahora mismo tienes [Havaianas Slim Crystal Glamour SW  Chanclas para Mujer  Dora
 
 🔎:
 
+- Material de la suela: Goma
 - Cierre: Sin cordones
 - Tipo de tacón: Plano
 - Material exterior: Goma
 - Revestimiento: Sin forro
-- Material de la suela: Goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F137GBW/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [adidas ROGUERA  Zapatillas Deportivas Hombre  FTWBLA/FTWBLA/Rojint  43 1/
 
 ℹ️:
 
-- Cierre de cordones
 - Mediasuela ligera de EVA; plantilla ligera de EVA con tecnología Adibouncy
+- Cierre de cordones
 - Suela de goma; forro textil
 - Parte superior de piel lisa
 
