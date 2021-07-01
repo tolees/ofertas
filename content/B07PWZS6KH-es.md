@@ -28,10 +28,10 @@ Está [Camper Micro  Sandalias con Punta Abierta Mujer  Rosa  Medium Brown 210  
 
 ℹ️:
 
-- Sistema de cierre de Velcro para un fácil ajuste
-- Suela/Características: TPU con un agarre extraordinario
 - Color: Marrón claro
 - Forro:
+- Suela/Características: TPU con un agarre extraordinario
+- Sistema de cierre de Velcro para un fácil ajuste
 - Empeine: Piel (Piel vacuna)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PWZS6KH/?tag=tolees-21)
