@@ -28,10 +28,10 @@ Está [Tatay Urban Food Prime - Bolsa Térmica Porta Alimentos  4 7L de Capacida
 
 ℹ️:
 
-- Tupper incluido: Incluye 2 fiambrera rectangulares de 0,75L de plastico libre de BPA. De -40º en congelador a 100º en microondas y apto para lavavajillas
-- Impermeable Hecho con triple capa de material: una primera capa de textil resistente 100% polyester, una segunda capa esponjosa térmica y una tercera capa de Aluminium foil
 - Medidas: 25,5 x 11 x 24,5 cm
+- Impermeable Hecho con triple capa de material: una primera capa de textil resistente 100% polyester, una segunda capa esponjosa térmica y una tercera capa de Aluminium foil
 - FABRICADO EN ESPAÑA: Por la prestigiosa marca TATAY
 - Práctico: Cuenta con una práctica rejilla interior para guardar los cubiertos
+- Tupper incluido: Incluye 2 fiambrera rectangulares de 0,75L de plastico libre de BPA. De -40º en congelador a 100º en microondas y apto para lavavajillas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071GZMKKW/?tag=tolees-21)

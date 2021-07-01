@@ -28,10 +28,10 @@ Ahora mismo tienes [Head 814399-Wh L Skorts  Mujer  Blanco  L](https://www.amazo
 
 🔎:
 
-- Hecho de una mezcla de material de poliéster y elastano
 - Aperturas laterales y pantalón interior de forma permanente
-- Manténgase seco y protegido del sol
 - Cintura alta con elástico en el interior
+- Hecho de una mezcla de material de poliéster y elastano
+- Manténgase seco y protegido del sol
 - Ajuste regular y más cómodo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HVKYZ2T/?tag=tolees-21)

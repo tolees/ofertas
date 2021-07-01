@@ -28,10 +28,10 @@ En este momento está [REVLON PROFESSIONAL Style Masters Modular Laca de Fijaci�
 
 🔎:
 
+- Sin residuos y Fácil de eliminar del cabello
 - Proporciona volumen, control y 24 horas de retención
 - Ayuda a conservar el color y No agrega peso
-- El nivel de retención depende de la cantidad aplicada
 - Protege el cabello del calor y Secado rápido
-- Sin residuos y Fácil de eliminar del cabello
+- El nivel de retención depende de la cantidad aplicada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D5JP53C/?tag=tolees-21)
