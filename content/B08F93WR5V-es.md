@@ -28,8 +28,8 @@ Tienes [Camper UNO  Zapatillas Mujer  Pink  40 EU](https://www.amazon.es/dp/B08F
 
 ℹ️:
 
+- Plantilla Ortholite para mayor amortiguación
 - Leather Working Group certificado
 - Cordones elásticos para un ajuste fácil (71% PET reciclado - 29% Látex)
-- Plantilla Ortholite para mayor amortiguación
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08F93WR5V/?tag=tolees-21)
