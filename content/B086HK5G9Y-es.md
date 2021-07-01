@@ -28,10 +28,10 @@ Tienes [Balay 3TS982BD - Lavadora con AutoDosificación 8 kilos de capacidad](ht
 
 🔎:
 
-- Garantía del motor: sustitución, mano de obra y desplazamiento incluido
-- Poner la lavadora nunca fue tan cómodo: rellena el cajetín de detergente y suavizante, y olvídate de rellenarlos durante más de un mes
 - Display con indicación de tiempo restante de lavado, planifícate sin estar pendiente de la colada
 - Con sus paneles laterales antivibración, el silencio por fin reinará en tu cocina
+- Garantía del motor: sustitución, mano de obra y desplazamiento incluido
 - Si se te ha olvidado un calcetín o una toalla, no pasa nada, pulsa el botón Pausa+carga y añádelo a la lavadora
+- Poner la lavadora nunca fue tan cómodo: rellena el cajetín de detergente y suavizante, y olvídate de rellenarlos durante más de un mes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086HK5G9Y/?tag=tolees-21)

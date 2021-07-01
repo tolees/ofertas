@@ -28,8 +28,8 @@ Ahora mismo tienes [Puma Essentials Logo W Legging Deportivo de Talle Alto  Muje
 
 🔎:
 
-- Cintura alta elástica, resalta la figura femenina y resulta muy cómoda durante la práctica deportiva
 - Corte ceñido
+- Cintura alta elástica, resalta la figura femenina y resulta muy cómoda durante la práctica deportiva
 - Impresión por pigmento del logotipo N.º 1
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D5SCG37/?tag=tolees-21)

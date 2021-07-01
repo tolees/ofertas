@@ -28,10 +28,10 @@ Ahora mismo tienes [BOSS Lighter lowp mxme  Zapatillas Hombre  Azul  Dark Blue 4
 
 🔎:
 
-- Revestimiento: Sintético
-- Cierre: Cordones
-- Material exterior: Sintético
 - Material de la suela: Goma
+- Revestimiento: Sintético
+- Material exterior: Sintético
 - Tipo de tacón: Plano
+- Cierre: Cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06WGQM2DZ/?tag=tolees-21)
