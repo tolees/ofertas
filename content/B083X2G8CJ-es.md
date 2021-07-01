@@ -29,9 +29,9 @@ En este momento está [JBL Tuner 2 Sintonizador de radio JBL  altavoz portátil 
 🔎:
 
 - Contenido de envío: 1x Tuner 2 JBL con cargador USB, adaptador 5V/1.2A-A, hoja de seguridad, manual breve y garantía. Esta radio es tu compañera de viajes, color negro
+- Con un diseño compacto y elegante, y resistente al agua gracias al IPX7. De fácil de uso con sus 5 botones preestablecidos y una pantalla LCD iluminada donde se muestra información nítida y clara
 - Tuner 2, la radio altavoz para pasar un buen rato : disfruta de este sintonizador digital FM con Bluetooth para escuchar una amplia selección de emisoras de radio o la música que más te gusta
 - Batería recargable: te hará posible hacer viaje más largos y disfrutar durante horas seguidas del potente y nítido sonido del Tuner XL. Hasta 12 horas de tiempo de reproducción
 - El modo de transmisión DAB+ permite la recepción de una gran variedad de emisoras de radio y para las emisoras de radio FM convencionales, el sintonizador digital FM
-- Con un diseño compacto y elegante, y resistente al agua gracias al IPX7. De fácil de uso con sus 5 botones preestablecidos y una pantalla LCD iluminada donde se muestra información nítida y clara
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083X2G8CJ/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Electronic Arts - Unravel 2](https://www.amazon.es/dp/B07
 
 🔎:
 
-- Afronta cada desafío con positividad y valentía para despertar el mundo a tu alrededor y descubre el vínculo irrompible entre amigos
 - Persigue la chispa de la aventura por impresionantes paisajes y observa cómo todo florece a tu alrededor
+- Afronta cada desafío con positividad y valentía para despertar el mundo a tu alrededor y descubre el vínculo irrompible entre amigos
 - Crea tu propio Yarny y entablar relaciones con otros Yarnys, fomentando la amistad y el apoyo mientras superáis desafíos juntos
 - Cuando cortas lazos con el pasado se forman nuevas uniones
 - Comienza tu aventura en una tierra fría e imponente viendo como todo florece a tu alrededor cuando persigues la chispa de la aventura

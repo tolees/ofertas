@@ -28,10 +28,10 @@ Está [Outsunny Funda para Muebles de Jardín 600D Oxford Protecció contra el P
 
 ℹ️:
 
-- ✅IMPERMEABLE Y A PRUEBA DE VIENTO: Esta funda impermeable mantendrá tus muebles secos y limpios. Tiene un cordón en la parte inferior para ajustar fácilmente y adaptarse al tamaño de los muebles y evitar que salga despedida en los días de viento
-- ✅PRÁCTICA Y PLEGABLE: Esta cubierta es fácil de poner y quitar, una gran opción para proteger tus muebles de forma rápida y eficaz. Y cuando no la vayas a usar, se puede plegar fácilmente
+- ✅CUBIERTA FUNCIONAL: Esta funda se adapta a la mayoría de los muebles de tu jardín. Úsala para proteger tu sofá, conjunto de sillas, mesa de centro, etc. Antes de comprarla, asegúrate de que el tamaño se corresponda con el de tus muebles
 - ✅MEDIDAS TOTALES: 127x72x76 cm (LxANxAL)
 - ✅FUNDA PARA MUEBLES DE JARDÍN: Hecha de tela Oxford 600D y con revestimiento resistente a los rayos UV, es perfecta para proteger tus muebles del sol, la lluvia, el viento, excrementos de pájaros, etc.
-- ✅CUBIERTA FUNCIONAL: Esta funda se adapta a la mayoría de los muebles de tu jardín. Úsala para proteger tu sofá, conjunto de sillas, mesa de centro, etc. Antes de comprarla, asegúrate de que el tamaño se corresponda con el de tus muebles
+- ✅PRÁCTICA Y PLEGABLE: Esta cubierta es fácil de poner y quitar, una gran opción para proteger tus muebles de forma rápida y eficaz. Y cuando no la vayas a usar, se puede plegar fácilmente
+- ✅IMPERMEABLE Y A PRUEBA DE VIENTO: Esta funda impermeable mantendrá tus muebles secos y limpios. Tiene un cordón en la parte inferior para ajustar fácilmente y adaptarse al tamaño de los muebles y evitar que salga despedida en los días de viento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08YK1FSFF/?tag=tolees-21)

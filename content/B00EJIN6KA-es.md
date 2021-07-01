@@ -28,8 +28,8 @@ Está [3M 935498 - Tapones con banda + recambio](https://www.amazon.es/dp/B00EJI
 
 ℹ️:
 
+- Marca - 3M
 - Tapones con banda + Recambio - 3M
 - Ref - 935498
-- Marca - 3M
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00EJIN6KA/?tag=tolees-21)
