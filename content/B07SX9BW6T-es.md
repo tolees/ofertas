@@ -28,10 +28,10 @@ Está [SanDisk Ultra Luxe  Memoria flash USB 3.1 de 16 GB y hasta 150 MB/s de V
 
 ℹ️:
 
-- Elegante diseño de metal fundido
 - Transfiere una película a la memoria en menos de 30 segundos
-- USB 3.1 (gen. 1) con velocidades de hasta 150.mb/s
 - Incluye la protección con contraseña sandisk secureaccess
 - Hasta 16.gb de almacenamiento
+- USB 3.1 (gen. 1) con velocidades de hasta 150.mb/s
+- Elegante diseño de metal fundido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SX9BW6T/?tag=tolees-21)

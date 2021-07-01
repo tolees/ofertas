@@ -29,9 +29,9 @@ En este momento está [KRAFTWERK 3232 - Llave dinamometrica 1/4 pulgada](https:/
 🔎:
 
 - Preciso clic llave dinamométrica con ventana pantalla
-- Mango ergonómico de 2 componentes con perilla de bloqueo agarre ajustierungs
+- Fine 45 dientes derecho de trinquete reversible con 1/4 "
 - Certificado precisión: +/-4%
 - Cuerpo de acero endurecido
-- Fine 45 dientes derecho de trinquete reversible con 1/4 "
+- Mango ergonómico de 2 componentes con perilla de bloqueo agarre ajustierungs
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00GFIPLW8/?tag=tolees-21)
