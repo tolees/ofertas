@@ -28,9 +28,9 @@ Ahora mismo tienes [Desigual Vest Claudia Vestimenta Casual  Blue  5/6/2020 para
 
 🔎:
 
+- Cuello redondo
 - Estampado de gran mandala galáctico en el lateral sobre fondo oscuro
 - 100% COTTON
-- Cuello redondo
 - Tacto y caída muy agradables
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CN46N7G/?tag=tolees-21)

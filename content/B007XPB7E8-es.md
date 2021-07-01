@@ -28,10 +28,10 @@ En este momento está [ADVANCE Light Adult Mini - Pienso Light Para Perros Adult
 
 🔎:
 
+- BAJO EN GRASAS para mantener un buen peso
 - COMPLETO Y EQUILIBRADO. Receta basada en pollo y arroz con vitaminas y minerales para ofrecer un alimento completo y equilibrado
 - FÓRMULA sin conservantes artificiales ni colorantes.
-- BAJO EN GRASAS para mantener un buen peso
-- ALTO CONTENIDO DE FIBRA para ayudar a ofrecer un efecto saciante.
 - ADVANCE Light Mini es un alimento de alta gama especialmente indicado para perros de razas pequeñas (hasta 10kgs) con sobrepeso y tendencia a la obesidad.
+- ALTO CONTENIDO DE FIBRA para ayudar a ofrecer un efecto saciante.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B007XPB7E8/?tag=tolees-21)
