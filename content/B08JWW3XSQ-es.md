@@ -28,9 +28,9 @@ En este momento está [Meridiem Games - Fahrenheit 15Th Anniversary Edition](htt
 
 🔎:
 
-- Carta de agradecimiento
 - Set de pegatinas
-- Libro de arte
+- Carta de agradecimiento
 - Caja edición 15th aniversario
+- Libro de arte
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JWW3XSQ/?tag=tolees-21)

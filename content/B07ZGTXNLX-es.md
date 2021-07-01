@@ -29,8 +29,8 @@ Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - My Hero One´s Justice 
 🔎:
 
 - 17 x 11 x 1.2 cm
-- 20 gramos
 - Muy conveniente
 - Fácil de usar
+- 20 gramos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZGTXNLX/?tag=tolees-21)

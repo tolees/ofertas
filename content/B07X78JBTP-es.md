@@ -28,7 +28,7 @@ En este momento está [Gearbox Publishing - Risk of Rain 2](https://www.amazon.e
 
 🔎:
 
-- Sumérgete en la sensación indie y sensación roguelike en 2D o 3D con este bundle que incluye Risk of Rain y Risk of Rain 2
 - Incluye el Risk of Rain original
+- Sumérgete en la sensación indie y sensación roguelike en 2D o 3D con este bundle que incluye Risk of Rain y Risk of Rain 2
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X78JBTP/?tag=tolees-21)

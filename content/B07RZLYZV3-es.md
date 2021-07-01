@@ -29,8 +29,8 @@ En este momento está [New Balance WRYVLV1  Zapatillas para Correr Mujer  Peach 
 🔎:
 
 - El inserto NB Comfort ofrece amortiguación adicional
-- Entresuela de goma
 - La amortiguación IMEVA de contacto con el suelo aumenta la comodidad sin añadir peso adicional
 - Empeine de malla/sintético
+- Entresuela de goma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RZLYZV3/?tag=tolees-21)

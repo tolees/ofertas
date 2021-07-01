@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.77 % en PUMA Kids Quarter Calcetines  Niños  Bla'
-date: 2021-06-27 16:41:58
+date: 2021-07-01 08:51:28
 image: 'https://m.media-amazon.com/images/I/31rKpUSkPIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B07NJJ5HFR/?tag=tolees-21'
 descuento: '37.77'
-average: '4.7775'
+average: '4.692'
 ---
 
 Tienes [PUMA Kids Quarter Calcetines  Niños  Blanco  White 300   31/34](https://www.amazon.es/dp/B07NJJ5HFR/?tag=tolees-21) con un 37.77 % de descuento con precio de oferta de 4.35 EUR (original: 6.99 EUR) en el siguiente enlace!

@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Housemark Polo  Camiseta para Hombre  Blanco  C00987 
 
 🔎:
 
-- Modelo casual
 - Con un discreto logo en el pecho
 - Elaborado en punto suave
+- Modelo casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B013V6O2DU/?tag=tolees-21)

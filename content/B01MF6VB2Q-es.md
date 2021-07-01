@@ -28,9 +28,9 @@ Ahora mismo tienes [New Balance ML373V1  Zapatillas Hombre  Negro  Black   37.5 
 
 🔎:
 
-- Cierre: cordones
 - Material interior: tela
 - Material exterior: material sintético
+- Cierre: cordones
 - Estilo: zapatillas de running
 - Material de la suela: goma
 
