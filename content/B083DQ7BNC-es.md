@@ -28,10 +28,10 @@ Ahora mismo tienes [AmyNovelty WH-CLA Doormat Bienvenido Pero No Mucho Rato Mono
 
 🔎:
 
-- Instrucciones de lavado: nuestros felpudos de alta calidad se recomiendan lavar a mano con agua tibia. ¡Sin blanqueador! ¡Caída seca!
 - Felpudos impresos con estilo: con un divertido tema de imagen única, este felpudo familiar decorativo está impreso en dos lados para decorar la sala de estar de su hogar.
 - Alfombrillas de novedad: esta práctica alfombrilla de bienvenida se puede utilizar ampliamente para la decoración del hogar, interiores, cocinas, dormitorios, lavandería, sala de estar, oficina, etc.
 - Felpudo de bienvenida de primera calidad: esta alfombra duradera de piso de entrada está hecha de poliéster de alta calidad que es suave y cómodo para su vida diaria.
 - Alfombrillas antideslizantes - Tamaño: 40x60cm. Nuestra alfombra de piso estándar tiene una base de goma antideslizante, que puede romper el piso de la puerta firmemente.
+- Instrucciones de lavado: nuestros felpudos de alta calidad se recomiendan lavar a mano con agua tibia. ¡Sin blanqueador! ¡Caída seca!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083DQ7BNC/?tag=tolees-21)
