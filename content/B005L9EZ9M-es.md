@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips 12258VPB1 VisionPlus - Bombilla  al 67.89 % de rebaja'
-date: 2021-06-10 19:44:19
+date: 2021-07-01 18:38:16
 image: 'https://m.media-amazon.com/images/I/41eq8Jyh+eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [Philips 12258VPB1 VisionPlus - Bombilla H1 para faros delanteros](https:
 🔎:
 
 - Philips H1 VisionPlus 12258VPB1
-- Nuevo
 - 12V 55W P14,5s 1 blíster
+- Nuevo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005L9EZ9M/?tag=tolees-21)
