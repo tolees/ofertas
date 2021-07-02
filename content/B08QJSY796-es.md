@@ -28,8 +28,8 @@ Está [Springfield Bermuda Reconsider microestampada  Navy  44 para Hombre](http
 
 ℹ️:
 
-- Proyecto RECONSIDER.
-- Cierre de botón en cinturilla y cremallera en bragueta.
 - Bermuda chino en tejido ligero de algodón orgánico con micro estampado.
+- Cierre de botón en cinturilla y cremallera en bragueta.
+- Proyecto RECONSIDER.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08QJSY796/?tag=tolees-21)
