@@ -28,10 +28,10 @@ En este momento está [adidas Ultraboost 21 W  Zapatillas de Running Mujer  Core
 
 🔎:
 
+- Parte superior de tejido adidas Primeknit+
 - Refuerzo del talón para una mayor sujeción
 - Ajuste perfecto
 - Forro textil
 - Cierre de cordones
-- Parte superior de tejido adidas Primeknit+
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PQHDFSQ/?tag=tolees-21)

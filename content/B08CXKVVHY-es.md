@@ -29,7 +29,7 @@ En este momento está [adidas COURTPHASE  Zapatillas de Tenis Hombre  FTWBLA/FTW
 🔎:
 
 - Cierre de cordones
-- Parte superior de ante y piel
 - Suela de goma
+- Parte superior de ante y piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXKVVHY/?tag=tolees-21)

@@ -28,12 +28,12 @@ En este momento está [AEG EWA3300 Hervidor Serie 3  Temperatura hasta 100ºC  C
 
 🔎:
 
-- APAGADO AUTOMÁTICO: El hervidor se apaga de forma automática una vez que alcanza la temperatura de ebullición del agua, así evita sobrecalentamientos
-- CONTENIDO INCLUIDO: El paquete del producto incluye el hervidor de agua más la base para conectarla a la corriente
+- FÁCIL APERTURA: El botón de apertura está situado en la parte superior del asa, lo que permite abrir la tapa mientras sostienes el hervidor con una única mano
+- FILTRO ANTICAL: Incluye un filtro antical, extraíble y lavable en el lavavajillas, que evita el paso de impurezas hacia el interior del hervidor
 - BASE GIRATORIA 360º: Gracias a su base giratoria con giro de 360° el hervidor se puede colocar desde cualquier ángulo de forma segura
 - GRAN POTENCIA: Gracias a sus 2200W de potencia hierve el agua en tan solo unos instantes
-- FÁCIL APERTURA: El botón de apertura está situado en la parte superior del asa, lo que permite abrir la tapa mientras sostienes el hervidor con una única mano
 - GRAN CAPACIDAD: Su jarra tiene una gran capacidad de 1,7 litros y cuenta con medidor de cantidad
-- FILTRO ANTICAL: Incluye un filtro antical, extraíble y lavable en el lavavajillas, que evita el paso de impurezas hacia el interior del hervidor
+- CONTENIDO INCLUIDO: El paquete del producto incluye el hervidor de agua más la base para conectarla a la corriente
+- APAGADO AUTOMÁTICO: El hervidor se apaga de forma automática una vez que alcanza la temperatura de ebullición del agua, así evita sobrecalentamientos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0148ADV8A/?tag=tolees-21)
