@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas GN2043 3S DUFFLE S Gym Bag unisex-adult dgh solid gre
 
 🔎:
 
-- Bolsa de lona
 - tela resistente
+- Bolsa de lona
 - correa de hombro ajustable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08R7PRPCW/?tag=tolees-21)

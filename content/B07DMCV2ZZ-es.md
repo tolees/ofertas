@@ -28,9 +28,9 @@ Ahora mismo tienes [Philips Avent SCF042/27-2 - Tetinas natural flujo lento  1m+
 
 🔎:
 
-- Tetina ultrasuave diseñada para imitar el tacto del pecho
-- Tetinas natural flujo lento, 1m+, con 1 agujero
 - Enganche natural gracias a la tetina más ancha con forma de pecho
 - 2 tetinas natural flujo lento
+- Tetinas natural flujo lento, 1m+, con 1 agujero
+- Tetina ultrasuave diseñada para imitar el tacto del pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DMCV2ZZ/?tag=tolees-21)

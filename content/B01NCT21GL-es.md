@@ -29,8 +29,8 @@ Está [ASUS XG-U2008 - Switch 10G no gestionable  Dos Puertos 10 Gigabit + 8 Pue
 ℹ️:
 
 - No es necesario configurarlo: conecta tus dispositivos y comienza a usarlo, así de simple
-- Incluye unos LED que confirman la calidad de la señal 10 Gb
 - Redes de alta velocidad: los 2 puertos 10 Gb ofrecen hasta 10 Gbps de velocidad, perfectos para redes con mucho tráfico y tareas profesionales que requieren de un gran ancho de banda
 - Fino y con estilo: chasis metálico, acabado concéntrico y perfil fino para poder instalarlo en cualquier lugar
+- Incluye unos LED que confirman la calidad de la señal 10 Gb
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NCT21GL/?tag=tolees-21)

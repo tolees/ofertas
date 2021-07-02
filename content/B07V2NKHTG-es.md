@@ -31,7 +31,7 @@ Ahora mismo tienes [Element  Zapatillas Hombre  Azul  Navy Gum 3556   40.5 EU](h
 - Diseño vintage con inspiración militar
 - Confección vulcanizada
 - Suela de goma reciclada
-- Adhesivos al agua
 - Empeines y cordones de algodón orgánico
+- Adhesivos al agua
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07V2NKHTG/?tag=tolees-21)
