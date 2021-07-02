@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Superstar  Sneaker Mujer  Footwear White/Core Black/F
 
 🔎:
 
+- Parte superior de cuero
 - Cordones de zapatos
 - Zapatilla clásica de cuero
-- Parte superior de cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0813Y7RBV/?tag=tolees-21)

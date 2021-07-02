@@ -30,8 +30,8 @@ Tienes [Philips 12961NBVB2 WhiteVision Lámpara Halógena  60% más de Luz  4300
 
 - Mayor contraste para aumentar la visibilidad y conducir de forma más segura
 - WhiteVision dispone de certificación ECE y es 100% legal en carretera
-- Temperatura de color hasta 3.700 K
 - La mayor duración de su clase para disfrutar conduciendo más tiempo
+- Temperatura de color hasta 3.700 K
 - Efecto xenón blanco para que los faros del coche tengan un aspecto de gama alta
 - Apto para intermitentes laterales, luz de posición, iluminación interior, luz de matrícula
 

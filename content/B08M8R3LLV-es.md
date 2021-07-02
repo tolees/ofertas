@@ -29,9 +29,9 @@ En este momento está [adidas QT Racer Sport  Zapatillas de Running Mujer  FTWBL
 🔎:
 
 - Mediasuela Lightmotion
-- Forro textil
-- Amortiguación superligera
-- Cierre de cordones
 - Parte superior textil
+- Amortiguación superligera
+- Forro textil
+- Cierre de cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08M8R3LLV/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAMELO - Café Cubano Torrefacto Molido   al 41.60 % de rebaja'
-date: 2021-07-01 09:13:52
+date: 2021-07-02 12:14:46
 image: 'https://m.media-amazon.com/images/I/51F0JqP9AKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

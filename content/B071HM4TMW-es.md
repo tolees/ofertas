@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger H2285arlow 1d  Zapatillas al 36.58 % de rebaja'
-date: 2021-07-01 12:03:16
+date: 2021-07-02 12:10:47
 image: 'https://m.media-amazon.com/images/I/31QpT8VnJNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B071HM4TMW/?tag=tolees-21'
 descuento: '36.58'
-average: '48.3790721649488'
+average: '48.2730612244901'
 ---
 
 Tienes [Tommy Hilfiger H2285arlow 1d  Zapatillas Hombre  Blanco  White 596   39 EU](https://www.amazon.es/dp/B071HM4TMW/?tag=tolees-21) con precio final de  37.99 EUR (original: 59.9 EUR) (36.58 %  de rebaja) aqui!

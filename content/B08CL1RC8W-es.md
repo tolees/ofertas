@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Box Logo Pocket Tweater Sudadera  Combat C584-
 
 🔎:
 
-- Raya gráfica estampada en la parte alta de la espalda y en las mangas
 - Bajo recto con borde acanalado
-- Bolsillo estilo canguro con cierres de cremallera oculta
-- Manga larga recta insertada y puños de canalé
+- Raya gráfica estampada en la parte alta de la espalda y en las mangas
 - Cuello redondo acanalado
+- Manga larga recta insertada y puños de canalé
+- Bolsillo estilo canguro con cierres de cremallera oculta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CL1RC8W/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas Originals Adidas Samba Classic  Schwarz-weiÃ  Zapati
 
 🔎:
 
+- Cremalleras en los puños.
 - Bolsillos frontales con cremallera.
 - Visera curvada.
-- Cremalleras en los puños.
 - Cintura elástica con cordón.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003QZ7PPY/?tag=tolees-21)

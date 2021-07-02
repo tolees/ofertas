@@ -28,10 +28,10 @@ Tienes [KETER Moby Armario bajo  Gris/Antracita  100 x 80 x 44 cm](https://www.a
 
 🔎:
 
-- Certificado TUV que confirma que este artículo ha superado con éxito las pruebas específicas en materia de Seguridad y Calidad.
-- Patas regulables en altura, incluyendo una quinta pata adicional en la base para mayor resistencia
 - Fabricado en resina de alta durabilidad y resistencia, totalmente estanco al agua
-- Puertas con bisagras metálicas y posibilidad de cierre con candado
 - Dos baldas regulables en altura con capacidad para soportar 30 kilogramos cada una
+- Puertas con bisagras metálicas y posibilidad de cierre con candado
+- Patas regulables en altura, incluyendo una quinta pata adicional en la base para mayor resistencia
+- Certificado TUV que confirma que este artículo ha superado con éxito las pruebas específicas en materia de Seguridad y Calidad.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01CUFX1O4/?tag=tolees-21)
