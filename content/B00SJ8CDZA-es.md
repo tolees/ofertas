@@ -29,8 +29,8 @@ En este momento está [Bosch Professional GWS 13-125 CIE - Amoladora angular  13
 🔎:
 
 - Incluye: GWS 13-125 CIE, brida de fijación, caperuza protectora, tuerca de apriete, empuñadura adicional Vibration Control, llave de dos agujeros, en caja (3165140820264)
-- Amoladora angular GWS 13-125 CIE de Bosch Professional: alto rendimiento
 - El alto rendimiento de la amoladora angular se debe a la combinación mejorada de motor, refrigeración directa y protección contra rearranque
+- Amoladora angular GWS 13-125 CIE de Bosch Professional: alto rendimiento
 - El sistema KickBack Stop ofrece un manejo más sencillo y seguro
 - Gracias a la mayor duración de las escobillas de carbón, a la refrigeración directa y la protección contra sobrecarga del motor, la vida útil de la GWS 13-125 CIE es sensiblemente más larga
 
