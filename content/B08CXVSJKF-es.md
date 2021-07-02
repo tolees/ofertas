@@ -29,7 +29,7 @@ En este momento está [Lee Extreme Motion Slim Jeans  Lenny  46W x 32L para Homb
 🔎:
 
 - Recycled FABRICS
-- Tejido vaquero elástico
 - Slim Fit MVP
+- Tejido vaquero elástico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXVSJKF/?tag=tolees-21)

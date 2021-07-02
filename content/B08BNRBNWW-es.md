@@ -28,10 +28,10 @@ En este momento está [Dprofy - Alfombrilla de Ratón Gaming RGB Grande – 335 
 
 🔎:
 
-- ⭐Retroiluminación LED RGB: la alfombrilla de ratón RGB tiene un verdadero efecto de retroiluminación RGB, hay 10 modos de iluminación, crea un ambiente de juego fresco, perfecto para juegos de PC.
-- ⭐Almohadillas de ratón de tamaño perfecto: la alfombrilla de ratón RGB (335 x 245 x 3 mm) se ajusta perfectamente a tu ratón y proporciona un espacio de movimiento perfecto. Proporciona un montón de espacio para juegos profesionales o trabajo de oficina.
 - ⭐ 10 modos de iluminación RGB: fibra súper brillante – la iluminación personalizable Chroma proporciona un aspecto distintivo, elige entre 10 modos de iluminación: respiración arcoíris, rojo, morado, azul, cian, verde, amarillo, movimiento circular fluyente, movimiento colorido circular, apagado.
 - Superficie lisa y base de goma antideslizante: diseñado con material trenzado de fibra superfina, con una superficie suave y microtexturizada, navegación precisa. Garantiza que cada movimiento del ratón se traduce en movimiento del cursor, para que puedas disfrutar de tu juego.
+- ⭐Almohadillas de ratón de tamaño perfecto: la alfombrilla de ratón RGB (335 x 245 x 3 mm) se ajusta perfectamente a tu ratón y proporciona un espacio de movimiento perfecto. Proporciona un montón de espacio para juegos profesionales o trabajo de oficina.
+- ⭐Retroiluminación LED RGB: la alfombrilla de ratón RGB tiene un verdadero efecto de retroiluminación RGB, hay 10 modos de iluminación, crea un ambiente de juego fresco, perfecto para juegos de PC.
 - ⭐Fácil de usar: esta suave alfombrilla de ratón retroiluminada para juegos es alimentada por USB, plug and play, no necesita controlador. Control de un solo toque diseñado para cambiar los colores de la luz y apagar, muy cómodo de usar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BNRBNWW/?tag=tolees-21)

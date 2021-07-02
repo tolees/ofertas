@@ -28,10 +28,10 @@ Tienes [adidas QT Racer Sport  Zapatillas de Running Mujer  FTWBLA/FTWBLA/SEMDES
 
 🔎:
 
-- Amortiguación superligera
 - Forro textil
-- Parte superior textil
-- Mediasuela Lightmotion
 - Cierre de cordones
+- Parte superior textil
+- Amortiguación superligera
+- Mediasuela Lightmotion
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08M9F5HY9/?tag=tolees-21)

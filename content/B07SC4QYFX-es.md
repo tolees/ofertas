@@ -28,9 +28,9 @@ Tienes [Helly Hansen Nord Graphic Pull Over Hoodie Suéter con Capucha  Hombre  
 
 🔎:
 
-- Sudadera de mezcla de poliéster y algodón
 - Contenido de envío: 1x Helly Hansen nord GRAPHIC pull over HOODIE
 - Sudadera clásica de mezcla de algodón con diseños inspirados en nuestra casa en Noruega
 - Logotipo gráfico nord de Helly Hansen en el pecho
+- Sudadera de mezcla de poliéster y algodón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SC4QYFX/?tag=tolees-21)
