@@ -28,9 +28,9 @@ En este momento está [Réplica oficial babykit primera equipación rfef 2020](h
 
 🔎:
 
+- Paqueteage Dimensiones: 4.2 L x 23.3 H x 16.5 W (centimeters)
 - Incluye camiseta, short Y medias
 - Producto oficial Licenciado
-- Paqueteage Dimensiones: 4.2 L x 23.3 H x 16.5 W (centimeters)
 - Escudo y estrella de campeones del mundo bordadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B085PJJX83/?tag=tolees-21)

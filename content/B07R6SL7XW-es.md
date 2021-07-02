@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GRIFEMA - Manguera ducha  1.5 metros  Fl al 57.64 % de descuento'
-date: 2021-07-01 06:27:20
+date: 2021-07-02 18:58:03
 image: 'https://m.media-amazon.com/images/I/515OFdie1IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

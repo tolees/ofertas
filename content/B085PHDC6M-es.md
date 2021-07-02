@@ -28,8 +28,8 @@ Está [rfef Réplica oficial babykit primera equipación 2020](https://www.amazo
 
 ℹ️:
 
-- Escudo y estrella de campeones del mundo bordadas
 - Incluye camiseta, short Y medias
+- Escudo y estrella de campeones del mundo bordadas
 - Producto oficial Licenciado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085PHDC6M/?tag=tolees-21)

@@ -28,7 +28,7 @@ En este momento está [Petit Bateau 5944000-BODIES Bodies con Tirantes  Multicol
 
 🔎:
 
-- Lote de 3 bodies con tirantes para bebé o niña, algodón orgánico
 - 3 bodies con tirantes en el lado del material icónico de Petit Barteau
+- Lote de 3 bodies con tirantes para bebé o niña, algodón orgánico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FBCRTBG/?tag=tolees-21)
