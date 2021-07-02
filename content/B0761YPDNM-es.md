@@ -30,9 +30,9 @@ Está [Logitech MX Anywhere 2 Ratón Inalámbrico  Bluetooth o 2 4 GHz con Recep
 
 - Productividad Compacta : este cómodo ratón inalámbrico te proporciona el control que necesitas de viaje, en la oficina o en casa
 - Ratón Inalámbrico con Botón Rueda de Velocidad Adaptable : navega por documentos y páginas web largas fácilmente con desplazamiento clic a clic o desplazamiento superrápido
-- Administración de Energía Mejorada : hasta 40 días de energía con una sola carga, puedes obtener energía suficiente para todo un día de uso del ratón inalámbrico en solo 4 minutos
-- Prueba MX Anywhere 2 para Máxima Productividad : desplazamiento de 1.000 líneas en un segundo, perfiles específicos por aplicación, recargable por USB-C, controles accionados con el pulgar mejorados
 - Seguimiento DARKFIELD : el mundo se convierte en tu alfombrilla de ratón, el ratón Bluetooth MX Anywhere 2 funciona en casi cualquier tipo de superficie, sobre cristal y superficies pulidas
 - Emparejamiento con Varios Dispositivos : hasta tres dispositivos diferentes para cambiar de un ordenador a otro con un botón; el ratón MX Anywhere 2 para PC es compatible con Bluetooth y Unifying
+- Prueba MX Anywhere 2 para Máxima Productividad : desplazamiento de 1.000 líneas en un segundo, perfiles específicos por aplicación, recargable por USB-C, controles accionados con el pulgar mejorados
+- Administración de Energía Mejorada : hasta 40 días de energía con una sola carga, puedes obtener energía suficiente para todo un día de uso del ratón inalámbrico en solo 4 minutos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0761YPDNM/?tag=tolees-21)

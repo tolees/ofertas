@@ -28,10 +28,10 @@ Está [EBL 20PCS AA Pilas Recargables Solar 1100mAh de 1.2V Precargadas sin Efec
 
 ℹ️:
 
-- Compatibilidad con - Perfecto para las luces de jardín, lámparas de césped, luces de navidad exterior etc. Puedes reemplazar todas las pilas alcalinas desechables que alimentan tus mandos de televisión, ratón y teclados inalámbricos, mandos de juegos y otros.
 - Buen Rendimiento - Mucho mejor rendimiento de alta temperatura que otros tipos de baterías, se puede utilizar en -20℃ a 60℃, y puede utilizarse desde el invierno hasta el verano.
 - Embalaje Humanizado - 20 unidades de AA 1100mAh Ni-MH pilas recargables solar de 1.2V. Vienen en un caja reutilizable de 5 unidades para guardarlas de forma ordenada. Puede proteger tus pilas durante el transporte.
-- Baja Autodescarga - La estructura de sellado incrustada amplía el espacio de la celosía, y con un núcleo de iones de larga vida, mejorar la baja autodescarga hace que todavía mantienen el 80% de su capacidad después de 3 años de no utilización.
 - Alta Capacidad y Durabilidad - EBL pila recargable AA 1100mAh de alta capacidad puede darle más largo tiempo de funcionamiento con la luz solar del jardín, lámpara solar o luz solar. Dale una nueva vida a tus luces solares.
+- Baja Autodescarga - La estructura de sellado incrustada amplía el espacio de la celosía, y con un núcleo de iones de larga vida, mejorar la baja autodescarga hace que todavía mantienen el 80% de su capacidad después de 3 años de no utilización.
+- Compatibilidad con - Perfecto para las luces de jardín, lámparas de césped, luces de navidad exterior etc. Puedes reemplazar todas las pilas alcalinas desechables que alimentan tus mandos de televisión, ratón y teclados inalámbricos, mandos de juegos y otros.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08JCJKPG6/?tag=tolees-21)

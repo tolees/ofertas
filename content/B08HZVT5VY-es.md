@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 57.59 % en Square Enix - Kingdom Hearts Melody of M'
-date: 2021-06-21 22:46:03
+title: 'Descuento del 36.61 % en Square Enix - Kingdom Hearts Melody of M'
+date: 2021-07-02 13:51:10
 image: 'https://m.media-amazon.com/images/I/51ibIbmcH3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08HZVT5VY-es Square Enix - Kingdom Hearts Melody of Memory'
 sku: 'B08HZVT5VY-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','square enix', ]
-actualPrice: 25.44 EUR
+actualPrice: 16.52 EUR
 currency: EUR
-price: 25.44
-comparePrice: 59.99 EUR
+price: 16.52
+comparePrice: 26.06 EUR
 prodname: 'Square Enix - Kingdom Hearts Melody of Memory'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Square Enix'
 buyurl: 'https://www.amazon.es/dp/B08HZVT5VY/?tag=tolees-21'
-descuento: '57.59'
-average: '35.8311111111111'
+descuento: '36.61'
+average: '32.975'
 ---
 
-Tienes [Square Enix - Kingdom Hearts Melody of Memory](https://www.amazon.es/dp/B08HZVT5VY/?tag=tolees-21) con un 57.59 % de descuento con precio de oferta de 25.44 EUR (original: 59.99 EUR) en el siguiente enlace!
+Tienes [Square Enix - Kingdom Hearts Melody of Memory](https://www.amazon.es/dp/B08HZVT5VY/?tag=tolees-21) con un 36.61 % de descuento con precio de oferta de 16.52 EUR (original: 26.06 EUR) en el siguiente enlace!
 
 [![Square Enix - Kingdom Hearts Melody of M](https://m.media-amazon.com/images/I/51ibIbmcH3L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08HZVT5VY/?tag=tolees-21)
 
