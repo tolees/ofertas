@@ -28,12 +28,12 @@ En este momento está [SanDisk Extreme PRO - Tarjeta de memoria de 32 GB microSD
 
 🔎:
 
-- Incluye el software de recuperación de archivos RescuePRO Deluxe (1 año de suscripción gratuita; se requiere inscripción)
-- Fabricada para ser usada en condiciones difíciles y sometida a ensayos en dichas condiciones: resistente a temperatura, al agua, a golpes y a rayos X
-- Velocidades de lectura/escritura de hasta 100 MB/s / 90 MB/s para disparar y transferir a velocidades extremas
-- El estándar UHS Video Speed Class 30 (V30) signfica que su tarjeta está lista para los avances en materia de realidad virtual y grabación de vídeo en 360°
-- Incluye la categoría A1: para un rendimiento más rápido de las aplicaciones
-- Velocidades y el rendimiento profesional definitivo para Smartphones y tabletas Android y cámaras MIL habilitados para vídeo 4K Ultra HD
 - Rendimiento de vídeo profesional con estándar UHS Speed Class 3 (U3), para grabar vídeo Full HD y 4K UHD
+- Velocidades de lectura/escritura de hasta 100 MB/s / 90 MB/s para disparar y transferir a velocidades extremas
+- Incluye la categoría A1: para un rendimiento más rápido de las aplicaciones
+- El estándar UHS Video Speed Class 30 (V30) signfica que su tarjeta está lista para los avances en materia de realidad virtual y grabación de vídeo en 360°
+- Fabricada para ser usada en condiciones difíciles y sometida a ensayos en dichas condiciones: resistente a temperatura, al agua, a golpes y a rayos X
+- Velocidades y el rendimiento profesional definitivo para Smartphones y tabletas Android y cámaras MIL habilitados para vídeo 4K Ultra HD
+- Incluye el software de recuperación de archivos RescuePRO Deluxe (1 año de suscripción gratuita; se requiere inscripción)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XYHN68L/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [MOTUL 102981 C2 Chain Lube Road Lubricante  400 ml](https
 
 🔎:
 
-- Adaptado a los requisitos más exigentes en el mercado.
-- Especialista en Lubricantes desde hace más de 150 años.
 - Motul representa a lubricantes de primera clase en Calidad Premium.
+- Especialista en Lubricantes desde hace más de 150 años.
+- Adaptado a los requisitos más exigentes en el mercado.
 - Productos con Aprobaciones y certificaciones internacionales.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0077AUCYK/?tag=tolees-21)
