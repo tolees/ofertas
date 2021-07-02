@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s LEVIS FOOTWEAR AND ACCESSORIESBat al 37.55 % de rebaja'
-date: 2021-06-04 08:56:20
+date: 2021-07-02 20:14:20
 image: 'https://m.media-amazon.com/images/I/31I+cnH7whL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B077GVXZV4/?tag=tolees-21'
 descuento: '37.55'
-average: '16.6797536945811'
+average: '16.6592156862743'
 ---
 
 Tienes [Levi s LEVIS FOOTWEAR AND ACCESSORIESBatwing Tote WMujerBolsos totesNegro  R Black  39x14x30 centimeters  W x H x L ](https://www.amazon.es/dp/B077GVXZV4/?tag=tolees-21) con precio final de  12.49 EUR (original: 20.0 EUR) (37.55 %  de rebaja) aqui!
