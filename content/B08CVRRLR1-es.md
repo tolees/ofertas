@@ -28,8 +28,8 @@ Está [Lee Pique Polo Camiseta  Sharp Grey Mele  XXXXXL para Hombre](https://www
 
 ℹ️:
 
-- Corte regular
-- Manga corta
 - KnITS
+- Manga corta
+- Corte regular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CVRRLR1/?tag=tolees-21)
