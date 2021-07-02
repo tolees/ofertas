@@ -28,10 +28,10 @@ En este momento está [TRIXIE Juego Educativo Snack Board para Pequeños Mamífe
 
 🔎:
 
-- tablero con 7 tapas: el conejo debe levantar las tapas para obtener los premios
-- plástico
 - ejercicio físico adecuado para la especie y la estimulación mental
-- entrena las habilidades
+- plástico
+- tablero con 7 tapas: el conejo debe levantar las tapas para obtener los premios
 - incluye folleto con consejos y trucos para una educación adecuada
+- entrena las habilidades
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0054VEWB8/?tag=tolees-21)

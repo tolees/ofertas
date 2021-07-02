@@ -28,10 +28,10 @@ Tienes [SmartPoorer - MexGrocer El Yucateco Achiote Paste 100 g  Pack of 3 ](htt
 
 ℹ️:
 
-- Es realmente fácil de preparar
-- It se utiliza tradicionalmente como condimento en el famoso yucatecan y platos de América Central
 - No añadido para colorear
 - Es ideal para marinate o para preparar a la parrilla o carne asada, pollo y el más famoso cochinita pibil
+- Es realmente fácil de preparar
 - achiote pasta es una especia desde el suelo annatto semillas
+- It se utiliza tradicionalmente como condimento en el famoso yucatecan y platos de América Central
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GJFRESG/?tag=tolees-21)

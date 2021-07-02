@@ -28,10 +28,10 @@ Está [Meridiem Games - WWI Verdun: Western Front](https://www.amazon.es/dp/B08Y
 
 ℹ️:
 
-- Tactical squad-based FPS: 15 distinctive squad types representing soldiers from 5+ countries, each with distinct weapons and equipment
-- True trench warfare: Real-time dynamic frontline with momentum based attack and counter-attack gameplay
 - Authentic World War 1 setting: Typical WW1 music and style, historical battlefields representing the key theatres on the Western Front
 - Challenging game modes: team-based Frontlines, tactical Attrition, skill-based Rifle Deathmatch, and relentless Squad Defense
+- True trench warfare: Real-time dynamic frontline with momentum based attack and counter-attack gameplay
+- Tactical squad-based FPS: 15 distinctive squad types representing soldiers from 5+ countries, each with distinct weapons and equipment
 - Experience World War One gameplay: Accurate weaponry with realistic bullet physics, skill based weapon handling, poisonous gas with a claustrophobic gas mask experience, horrendous gore effects, and ferocious artillery barrages
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08YN6TNRT/?tag=tolees-21)
