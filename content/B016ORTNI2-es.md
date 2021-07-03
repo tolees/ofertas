@@ -29,9 +29,9 @@ Ahora mismo tienes [Corsair CMK32GX4M2B3200C16 Vengeance LPX 32 GB  2 x 16 GB  D
 🔎:
 
 - Compatible con: Intel 300 Series, Intel 400 Series, Intel 400 Series, Intel X299
-- La altura de los módulos Vengeance LPX está pensada incluso para espacios pequeños
-- Cada módulo Vengeance LPX se fabrica con un disipador de aluminio puro para una disipación térmica más rápida
-- Disponible en varios colores para combinarlo con tu placa base, tus componentes o simplemente tu estilo
 - Vengeane LPX está optimizada y es compatible con las últimas placas de la serie X99, 100 y 200, y ofrece frecuencias más altas, mayor ancho de banda y menor consumo
+- Disponible en varios colores para combinarlo con tu placa base, tus componentes o simplemente tu estilo
+- Cada módulo Vengeance LPX se fabrica con un disipador de aluminio puro para una disipación térmica más rápida
+- La altura de los módulos Vengeance LPX está pensada incluso para espacios pequeños
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B016ORTNI2/?tag=tolees-21)

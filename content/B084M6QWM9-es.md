@@ -28,7 +28,7 @@ Tienes [Kimoa - Curva Gorra de béisbol  Azul  Estándar Unisex Adulto](https://
 
 🔎:
 
-- Cierre a presión y etiqueta de goma 3D Kimoa.
 - 100% Algodón
+- Cierre a presión y etiqueta de goma 3D Kimoa.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084M6QWM9/?tag=tolees-21)

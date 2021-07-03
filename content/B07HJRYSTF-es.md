@@ -28,10 +28,10 @@ Ahora mismo tienes [KIQO Coffee & Tea - LUCIFER S ROAST Espresso de KIQO de Ital
 
 🔎:
 
-- ☕️ Sostenibilidad - No se utilizan aditivos ni potenciadores del sabor en el cultivo de los granos ni en su posterior refinamiento. Por lo tanto, todo el proceso de producción es biológicamente sostenible y, en última instancia, vegano. Obtenemos nuestros granos directamente de los caficultores, sin desvíos y sin intermediarios caros.
 - ☕️ Genuinamente Italiano - Los granos 100% Robusta proporcionan una fuerza extrema, pero el café es casi libre de ácido debido a la falta de Arábica. Perfectamente adecuado para los bebedores de café.
-- ☕️ Preparación - Los baristas aprecian este café por su sabor fuerte y con cuerpo y su fina crema. Por lo tanto, ideal para espresso o Americano.
+- ☕️ Sostenibilidad - No se utilizan aditivos ni potenciadores del sabor en el cultivo de los granos ni en su posterior refinamiento. Por lo tanto, todo el proceso de producción es biológicamente sostenible y, en última instancia, vegano. Obtenemos nuestros granos directamente de los caficultores, sin desvíos y sin intermediarios caros.
 - ☕️ Tostado - Tostando a mano en pequeñas cantidades, podemos asegurar que cada grano se tueste uniformemente. Aunque este proceso toma más tiempo, ayuda a liberar los sabores individuales de cada grano.
+- ☕️ Preparación - Los baristas aprecian este café por su sabor fuerte y con cuerpo y su fina crema. Por lo tanto, ideal para espresso o Americano.
 - ☕️ Granos cosechados a mano - Garantizamos el sabor pleno del café con granos cuidadosamente seleccionados de las mejores zonas cafeteras del mundo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HJRYSTF/?tag=tolees-21)
