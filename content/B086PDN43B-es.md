@@ -28,10 +28,10 @@ En este momento está [Puma Olympique Marsella Temporada 2020/21-HOME Shirt Repl
 
 🔎:
 
-- La ligera camiseta deportiva de fútbol está para lucirla; esta ropa de fútbol puede crear la sensación de ser parte de un gran equipo y jugar al lado de jugadores como Kamara y Sanson
 - El diseño de esta camiseta blanca de fútbol está inspirado en el arte y la cultura urbana de la ciudad de Marseille; esta camiseta moderna está fabricada con un tejido estructurado y dinámico
-- La réplica de la 1.ª equipación de fútbol del OM es para hombre y mujer; la camiseta de training lleva el escudo oficial del LOM, el logo del patrocinador y el logo de la marca Puma
-- La forma adecuada para impresionar tanto en el estadio como en el tiempo libre es llevando las camisetas de este equipo de fútbol; las réplicas oficiales de las camisetas de fútbol ayudan a entrar en juego
+- La ligera camiseta deportiva de fútbol está para lucirla; esta ropa de fútbol puede crear la sensación de ser parte de un gran equipo y jugar al lado de jugadores como Kamara y Sanson
 - Gracias a este diseño de la temporada 20/21, ahora se pueden llevar los colores del club con orgullo y estilo; la camiseta de la primera equipación apoya al equipo porque el fútbol es más que un juego
+- La forma adecuada para impresionar tanto en el estadio como en el tiempo libre es llevando las camisetas de este equipo de fútbol; las réplicas oficiales de las camisetas de fútbol ayudan a entrar en juego
+- La réplica de la 1.ª equipación de fútbol del OM es para hombre y mujer; la camiseta de training lleva el escudo oficial del LOM, el logo del patrocinador y el logo de la marca Puma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086PDN43B/?tag=tolees-21)

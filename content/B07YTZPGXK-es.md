@@ -28,10 +28,10 @@ Ahora mismo tienes [Energy Sistem Headphones ESG 5 Shock  Auriculares  Vibration
 
 🔎:
 
-- Disfruta del producto
-- Vibration: siente la acción con la tecnología sound vibration; vibración en tus auriculares en función de cada acción que ocurra en la partida
-- Compatibilidad: podrás utilizarlos mientras juegas en tu smartphone, nintendo switch, ps4, xbox o pc; totalmente compatible para que siempre puedas usarlos para jugar
-- Gaming: auriculares gaming con boom mic, vibración y luz led; todas las funcionalidades necesarias para ser parte de cada partida
 - Led light: con luz led azul para crear el mejor ambiente mientras juegas, y hacerte ver en todos tus streamings
+- Vibration: siente la acción con la tecnología sound vibration; vibración en tus auriculares en función de cada acción que ocurra en la partida
+- Gaming: auriculares gaming con boom mic, vibración y luz led; todas las funcionalidades necesarias para ser parte de cada partida
+- Compatibilidad: podrás utilizarlos mientras juegas en tu smartphone, nintendo switch, ps4, xbox o pc; totalmente compatible para que siempre puedas usarlos para jugar
+- Disfruta del producto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YTZPGXK/?tag=tolees-21)

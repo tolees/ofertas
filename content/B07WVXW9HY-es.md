@@ -29,7 +29,7 @@ Tienes [Pandora Mujer plata Abalorios 798323](https://www.amazon.es/dp/B07WVXW9H
 🔎:
 
 - Plata
-- Authentic pandora silver charm polished (798323)
 - Pendientes joyería mujer
+- Authentic pandora silver charm polished (798323)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WVXW9HY/?tag=tolees-21)
