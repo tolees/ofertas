@@ -30,7 +30,7 @@ En este momento está [Philips Avent SCH400/30  Set Para Cuidado Del Bebé  Amar
 
 - Incluye un termómetro digital, un aspirador nasal, un cepillo de dientes dedal y un kit para el cuidado del cabello y las uñas
 - Ofrece el espacio suficiente para guardar los productos adicionales para el cuidado del bebé
-- A partir de 6 meses
 - Adecuado para viajes y guardería
+- A partir de 6 meses
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00J28GPSC/?tag=tolees-21)
