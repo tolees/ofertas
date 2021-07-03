@@ -28,9 +28,9 @@ Tienes [Wera - Joker Llaves combinadas con carraca  10](https://www.amazon.es/dp
 
 ℹ️:
 
+- La geometría de doble hexagonal minimiza el riesgo de deslizamiento
 - Ángulo de retorno de tan sólo 30°
 - El tope final evita un deslizamiento
-- La geometría de doble hexagonal minimiza el riesgo de deslizamiento
 - Con sistema de búsqueda de herramienta "Take it easy": marca los tamaños con ayuda de colores
 - Con función de sujeción muy práctica gracias a la placa metálica en la boca
 
