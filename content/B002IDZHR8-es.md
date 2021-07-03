@@ -28,10 +28,10 @@ En este momento está [Pintura Cristal Al Agua Ca-01 Blanco 25ML La Pajarita Par
 
 🔎:
 
+- Colores muy vivos e intensos que pueden mezclarse entre sí, con un acabado brillante y transparente.
 - Aplicación: Pincel suave (Paletina)
-- Rendimiento aprox: 10-12 m2/l.²
 - Superficie: Cristal, vidrio, cerámica, plástico, marmolina.
 - Incluye un bote de Pintura Cristal Al Agua Ca-01 Blanco 25 ML
-- Colores muy vivos e intensos que pueden mezclarse entre sí, con un acabado brillante y transparente.
+- Rendimiento aprox: 10-12 m2/l.²
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002IDZHR8/?tag=tolees-21)

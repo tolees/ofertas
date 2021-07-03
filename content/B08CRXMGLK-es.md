@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Lash Straight Fit Camiseta de Manga Corta  Dk 
 
 🔎:
 
-- Bajo redondeado
+- Etiqueta de G-Star RAW Originals tejida en la costura lateral
 - Estampado de G-Star RAW de alta densidad en el pecho
 - Manga corta recta insertada con vuelta fija
 - Cuello redondo de canalé
-- Etiqueta de G-Star RAW Originals tejida en la costura lateral
+- Bajo redondeado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CRXMGLK/?tag=tolees-21)

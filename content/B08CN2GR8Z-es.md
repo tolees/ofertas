@@ -28,9 +28,9 @@ En este momento está [G-STAR RAW Originals Stripe Logo Camiseta  Amarillo Cab 3
 
 🔎:
 
-- Cuello redondo de canalé
+- Bajo recto
 - Manga corta
 - Estampado gráfico de caucho en el pecho
-- Bajo recto
+- Cuello redondo de canalé
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CN2GR8Z/?tag=tolees-21)

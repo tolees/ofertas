@@ -29,7 +29,7 @@ Ahora mismo tienes [adidas Regista 18 SHO Sport Shorts  Hombre  Black/White  S](
 🔎:
 
 - Pocket for keys in the waistband
-- Elastic waistband with lanyard
 - Climalite fabric that keeps the skin dry in all conditions
+- Elastic waistband with lanyard
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0779D2BXQ/?tag=tolees-21)
