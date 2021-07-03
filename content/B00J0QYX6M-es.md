@@ -30,8 +30,8 @@ Está [Emporio Armani - Unbekannt AR2472 - Reloj  Correa de Acero Inoxidable Col
 
 - Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
 - Presentación en una caja de regalo Emporio Armani
-- Caja de 43 mm, ancho de la correa de 22 mm, cristal mineral, movimiento de cuarzo con pantalla analógica con 3 agujas y fecha
 - Caja redonda de acero inoxidable en tono plateado, con una esfera azul
+- Caja de 43 mm, ancho de la correa de 22 mm, cristal mineral, movimiento de cuarzo con pantalla analógica con 3 agujas y fecha
 - Brazalete de acero inoxidable en tono plateado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00J0QYX6M/?tag=tolees-21)
