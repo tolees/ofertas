@@ -29,7 +29,7 @@ Tienes [TOUS L Eau Agua de Perfume Vaporizador - 90 ml](https://www.amazon.es/dp
 🔎:
 
 - Familias Olfativas: Amaderada, Floral
-- Diseñadora: Nathalie Lorson
 - Fecha Lanzamiento: 2011
+- Diseñadora: Nathalie Lorson
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00BJRF9BS/?tag=tolees-21)

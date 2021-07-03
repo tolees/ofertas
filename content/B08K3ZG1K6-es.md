@@ -28,10 +28,10 @@ Está [Tccic Lámpara de escritorio LED ajustable con Bluetooth  color de brillo
 
 ℹ️:
 
+- Conexión Bluetooth: compatible con la conexión con el teléfono inteligente a través de Bluetooth, puedes reproducir tu música favorita y entrar en el dulce sueño con tu música favorita.
 - [Ajustable] Luz LED, el color y el brillo de la luz se pueden ajustar para satisfacer sus diferentes necesidades, crear una atmósfera romántica para usted y tener una visión clara en un ambiente oscuro.
+- [Dos modos de fuente de alimentación] Con la ayuda de la batería incorporada de 1800mAh y la interfaz USB, la lámpara admite la fuente de alimentación del cable y el modo de fuente de alimentación de carga, con un uso ilimitado, y puede soportar 6 horas de tiempo de trabajo bajo condiciones de carga.
 - [Botón táctil] Diseño de botón táctil ligero, operación más simple, cuerpo de lámpara simple y generoso, práctico y conveniente.
 - [Forma única] La lámpara de mesa está diseñada con la apariencia de una pantalla de pájaro blanco. Es super lindo. No es solo una lámpara, sino también una decoración de la habitación.
-- [Dos modos de fuente de alimentación] Con la ayuda de la batería incorporada de 1800mAh y la interfaz USB, la lámpara admite la fuente de alimentación del cable y el modo de fuente de alimentación de carga, con un uso ilimitado, y puede soportar 6 horas de tiempo de trabajo bajo condiciones de carga.
-- Conexión Bluetooth: compatible con la conexión con el teléfono inteligente a través de Bluetooth, puedes reproducir tu música favorita y entrar en el dulce sueño con tu música favorita.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08K3ZG1K6/?tag=tolees-21)

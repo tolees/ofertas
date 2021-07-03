@@ -28,7 +28,7 @@ En este momento está [Vero Moda Vmhot Sophia HR Pencil Slit Skirt Color Falda  
 
 🔎:
 
-- Skirt skinny fit
 - Skirt with FLY
+- Skirt skinny fit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZRSQL3F/?tag=tolees-21)
