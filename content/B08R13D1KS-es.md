@@ -29,8 +29,8 @@ Está [Roxy - Camiseta para Mujer](https://www.amazon.es/dp/B08R13D1KS/?tag=tole
 ℹ️:
 
 - Mangas enrollables
-- Cuello: cuello redondo
 - Corte: corte normal, clásico, cómodo
+- Cuello: cuello redondo
 - Tejido: Tejido de punto jersey mezcla de poliéster y algodón irregular [180 g / m2]
 - Bajo en curva
 

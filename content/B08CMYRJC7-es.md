@@ -30,8 +30,8 @@ Ahora mismo tienes [G-STAR RAW 3301 Bermudas  3D Raw Denim C529-1241  30W para H
 
 - La pernera se estrecha en la rodilla
 - Construcción con cinco bolsillos
-- Largo hasta la rodilla
-- Talle medio
 - Etiqueta de G-Star RAW de piel de vacuno en la parte trasera de la cintura
+- Talle medio
+- Largo hasta la rodilla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CMYRJC7/?tag=tolees-21)

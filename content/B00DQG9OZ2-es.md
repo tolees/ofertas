@@ -29,8 +29,8 @@ Ahora mismo tienes [Memoria flash USB 3.0 SanDisk Ultra de 32 GB  velocidad de l
 🔎:
 
 - Hasta 10 veces más rápido que un USB 2.0 estándar
-- Hasta 130 MB/s de velocidades de lectura
-- Transfiere una película completa en menos de 40 segundos
 - Mantén la privacidad de tus archivos privados con el software SanDisk SecureAccess (incluido)
+- Transfiere una película completa en menos de 40 segundos
+- Hasta 130 MB/s de velocidades de lectura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00DQG9OZ2/?tag=tolees-21)

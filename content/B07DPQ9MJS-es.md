@@ -28,9 +28,9 @@ Tienes [Cooler Master - CoolerMaster MasterAir MA621P RGB](https://www.amazon.es
 
 🔎:
 
-- Diámetro de ventilador: 12 cm
+- Conector de ventilador: 4 pines
 - Material de las aletas: aluminio
 - Sockets de procesador soportados: Socket TR4
-- Conector de ventilador: 4 pines
+- Diámetro de ventilador: 12 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DPQ9MJS/?tag=tolees-21)

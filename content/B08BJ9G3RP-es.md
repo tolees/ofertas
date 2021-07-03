@@ -28,12 +28,12 @@ En este momento está [MILAN Blíster 1 bolígrafo + 1 portaminas COMPACT Sunset
 
 🔎:
 
-- Blíster 1 bolígrafo + 1 portaminas COMPACT Sunset
-- Medidas bolígrafo: 14.1 x 1.7cm.1.4 cm Ø. Medidas portaminas: 13 x 1,8 x 1,6 cm.
-- - Bolígrafo COMPACT edición Sunset, tinta azul. Longitud de escritura aproximada de 1000 metros. Punta 1 mm. Tinta fabricada en Alemania. Pulsador con retorno.
-- 4 colores surtidos: amarillo, lila, rosa y turquesa.
 - Recambios de tinta, minas y goma disponibles.
+- 4 colores surtidos: amarillo, lila, rosa y turquesa.
+- Medidas bolígrafo: 14.1 x 1.7cm.1.4 cm Ø. Medidas portaminas: 13 x 1,8 x 1,6 cm.
 - Diseño original creado por el departamento de I+D de MILAN.
 - - Portaminas eraser&pencil COMPACT edición Sunset. Mina de grafito 0.7 mm dureza 2B, gruesa ysuave, que facilita la escritura y estambién apropiada para el dibujo artístico. Goma MILAN extra-grande.
+- - Bolígrafo COMPACT edición Sunset, tinta azul. Longitud de escritura aproximada de 1000 metros. Punta 1 mm. Tinta fabricada en Alemania. Pulsador con retorno.
+- Blíster 1 bolígrafo + 1 portaminas COMPACT Sunset
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BJ9G3RP/?tag=tolees-21)
