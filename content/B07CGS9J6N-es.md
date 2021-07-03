@@ -28,8 +28,8 @@ Está [Mr. Wonderful WOA09002UN - Muselina para bebés](https://www.amazon.es/dp
 
 ℹ️:
 
-- Diseño divertido y moderno
 - Diseñado en Barcelona con mucho amor
+- Diseño divertido y moderno
 - Material resistente
 - Fácil de limpiar
 
