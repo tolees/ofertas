@@ -29,9 +29,9 @@ Está [adidas RUNFALCON 2.0  Zapatillas de Running Mujer  FTWBLA/FTWBLA/ROSCHI  
 ℹ️:
 
 - Refuerzo sin costuras en el talón
-- Mediasuela de EVA
 - Diseño transpirable y ligero
 - Parte superior de malla acolchada
+- Mediasuela de EVA
 - Cierre de cordones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08M91TPX6/?tag=tolees-21)

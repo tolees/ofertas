@@ -28,9 +28,9 @@ Ahora mismo tienes [Nalgene Trinkflasche Everyday Weithals  Bidón con Boca Anch
 
 🔎:
 
-- Se puede lavar en el lavavajillas
 - No retiene olores, sabores o manchas
 - Se puede utilizar en el microondas
+- Se puede lavar en el lavavajillas
 - Extremadamente resistente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001NCDE7U/?tag=tolees-21)

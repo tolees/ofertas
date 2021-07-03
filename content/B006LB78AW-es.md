@@ -29,8 +29,8 @@ En este momento está [MILAN BMM9222 - Pack de 5 gomas de borrar de caucho sint�
 🔎:
 
 - Producto que combina tradición e innovación
-- Blíster 5 gomas de borrar miga de pan flexible 445 MILAN
 - Goma suave de miga de pan flexible
+- Blíster 5 gomas de borrar miga de pan flexible 445 MILAN
 - Con dibujos de animales en las gomas. Medidas goma 14.0x8.2x1.5 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B006LB78AW/?tag=tolees-21)
