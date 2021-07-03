@@ -28,9 +28,9 @@ Tienes [Baena Salud - BAENA 50 Mascarillas Quirúrgicas  higiénicas  desechable
 
 🔎:
 
-- No reutilizable. set de 50 mascarillas.
-- Tres capas de filtración - tecnología de 3 capas de filtración que ofrece una eficaz protección contra agentes nocivos: capa intermedia "melt-blown" que une otras dos capas «spunbond» diseñadas para atrapar y retener micropartículas. hecho en españa.
 - Este producto es un producto sanitario e higiénico. tipo iir: según su eficacia de filtración bacteriana y en función de su resistencia a las salpicaduras (resistencia a la penetración de salpicaduras de líquido): las iir son resistentes a las salpicaduras.
+- Tres capas de filtración - tecnología de 3 capas de filtración que ofrece una eficaz protección contra agentes nocivos: capa intermedia "melt-blown" que une otras dos capas «spunbond» diseñadas para atrapar y retener micropartículas. hecho en españa.
+- No reutilizable. set de 50 mascarillas.
 - Máxima seguridad y protección - el filtro evita eficazmente el contacto con sustancias nocivas del aire cuando se usa la mascarilla: filtración bacteriana más de 98%;
 - Cumplen con la normativa dirigida al fabricante a respetar los requisitos técnicos descritos en la norma une-en 14683:2019 + ac:2019 y con el resto de legislación de aplicación en todos sus aspectos.
 

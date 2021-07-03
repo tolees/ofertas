@@ -28,10 +28,10 @@ Tienes [Philips Serie 3000 BG3015/15 - Afeitadora corporal apta para la duch
 
 🔎:
 
-- 50 minutos de uso sin cable después de 1 horas de carga
 - Puntas redondeadas y láminas hipoalergénicas para una piel protegida
 - Recorte o afeitado de cualquier zona del cuerpo con seguridad
-- Incluye 3 peines-guía para conseguir un corte natural (3 mm, 5 mm, 7 mm)
 - Fácil de limpiar y usar dentro o fuera de la ducha y empuñadura ergonómica para un máximo control
+- Incluye 3 peines-guía para conseguir un corte natural (3 mm, 5 mm, 7 mm)
+- 50 minutos de uso sin cable después de 1 horas de carga
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079HBT9LV/?tag=tolees-21)

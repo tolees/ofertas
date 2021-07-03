@@ -29,8 +29,8 @@ Ahora mismo tienes [Desigual TS OPORTO Camiseta  Blanco  XS para Mujer](https://
 🔎:
 
 - Cuello redondo
-- 97% VISCOSE 3% ELASTANE
 - Estampado boho étnico de mandalas y flores
 - Tachuelas doradas redondeadas sobre el mandala del hombro
+- 97% VISCOSE 3% ELASTANE
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CN5F2YQ/?tag=tolees-21)
