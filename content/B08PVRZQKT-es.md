@@ -28,8 +28,8 @@ En este momento está [adidas Campus 80S  Sneaker Hombre  Collegiate Burgundy/Fo
 
 🔎:
 
-- La parte superior de cuero
 - Suela de goma
+- La parte superior de cuero
 - Zapatilla de 3 rayas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PVRZQKT/?tag=tolees-21)

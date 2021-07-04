@@ -28,8 +28,8 @@ Está [G-STAR RAW 3301 Slim 1 Jeans  Blau  dk aged 5245-89   27W / 32L para Homb
 
 ℹ️:
 
-- Cierre: Botones
 - 98% Cotton, 2% Elastane
+- Cierre: Botones
 - Normal
 - Slim
 

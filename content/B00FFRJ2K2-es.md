@@ -30,9 +30,9 @@ Ahora mismo tienes [CLEOPATRE Cola  Cartera Unisex Infantil  Blanco  Blanco   20
 
 - Hecho en Francia
 - Sin solvente y sin acido
+- Perfecta para hacer el Slime
+- Adhesivo vinílico para usar con papel y cartón
 - Contiene un frasco de 2 litros, cantidad para llenar los pequeños frascos
 - Esta cola es ideal para las primeras actividades manuales de los pequeños niños de 3 años y más
-- Adhesivo vinílico para usar con papel y cartón
-- Perfecta para hacer el Slime
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00FFRJ2K2/?tag=tolees-21)

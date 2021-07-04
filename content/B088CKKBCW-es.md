@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Zip Through Track Tweeter Camiseta de Manga La
 
 🔎:
 
-- Etiqueta de G-Star RAW en el pecho, raya estampada en la parte alta de la espalda y en las mangas
 - Bolsillo estilo canguro dividido con cremalleras ocultas
+- Etiqueta de G-Star RAW en el pecho, raya estampada en la parte alta de la espalda y en las mangas
 - Puños y cintura acanalados
-- Manga larga recta insertada
 - Cuello alzado
+- Manga larga recta insertada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088CKKBCW/?tag=tolees-21)
