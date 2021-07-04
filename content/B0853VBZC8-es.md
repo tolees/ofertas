@@ -28,9 +28,9 @@ En este momento está [Funko Pop Animation: One Punch Man - Saitama Vinyl Figure
 
 🔎:
 
-- Estilizado coleccionable mide 3 3/4 pulgadas de alto, perfecto para cualquier fan de One Punch Man
-- Dimensiones del paquete: 8,9 x 16,5 x 11,8 cm
-- Colecciona y muestra todos los Pop de One Punch Man. Vinilos
 - De One Punch Man, Casual Saitama, como un pop estilizado
+- Estilizado coleccionable mide 3 3/4 pulgadas de alto, perfecto para cualquier fan de One Punch Man
+- Colecciona y muestra todos los Pop de One Punch Man. Vinilos
+- Dimensiones del paquete: 8,9 x 16,5 x 11,8 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0853VBZC8/?tag=tolees-21)
