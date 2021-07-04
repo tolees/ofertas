@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Legrand 782420 pared  enchufe 1 toma  Sc al 42.88 % de descuento'
-date: 2021-06-14 07:25:16
+date: 2021-07-04 19:46:48
 image: 'https://m.media-amazon.com/images/I/31Wo9YHmMyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Legrand'
 buyurl: 'https://www.amazon.es/dp/B01BOYTMXG/?tag=tolees-21'
 descuento: '42.88'
-average: '4.26'
+average: '4.29285714285714'
 ---
 
 Está [Legrand 782420 pared  enchufe 1 toma  Schuko  Blanco](https://www.amazon.es/dp/B01BOYTMXG/?tag=tolees-21) con 42.88 de descuento por 4.49 EUR (original: 7.86 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Legrand 782420 pared  enchufe 1 toma  Schuko  Blanco](https://www.amazon.
 
 ℹ️:
 
+- ENCHUFE SCHUKO: 1 enchufe pared con toma de tierra. Instalacion en superficie.
+- SEGURIDAD: Dispone de protección infantil en los polos de conexión.
 - ENCHUFE SUPERFICIE: Medidas: 6,5 x 4 x 6,5 cm. Peso: 45,4 gr.
 - BASE ENCHUFE: De la Gama Forix. Color Blanco brillante.
-- SEGURIDAD: Dispone de protección infantil en los polos de conexión.
-- ENCHUFE SCHUKO: 1 enchufe pared con toma de tierra. Instalacion en superficie.
 - ENCHUFE CON PROTECCION: 16A a 230V.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BOYTMXG/?tag=tolees-21)
