@@ -29,8 +29,8 @@ Tienes [Citizen Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero CA06
 ℹ️:
 
 - No requiere cambio de batería. Eco-Drive elimina la molestia y el coste de cambiar la batería regularmente
+- Número de calibre: B612
 - Dura más de 6 meses en la oscuridad. Una carga completa es suficiente para que la mayoría de los modelos Eco-Drive funcione durante más de seis meses en la oscuridad
 - Accionamiento Eco-Drive: Eco-Drive es una tecnología central de Citizen que genera energía incluso en condiciones de poca luz y permite que los relojes funcionen durante seis meses incluso en la oscuridad
-- Número de calibre: B612
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MZAQ5OQ/?tag=tolees-21)

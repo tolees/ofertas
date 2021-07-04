@@ -28,8 +28,8 @@ Está [G-STAR RAW Eyben V-Neck Slim Camiseta  Mujer  Negro  Black   XL](https://
 
 ℹ️:
 
-- Corte ajustado
 - Marca en el pecho
+- Corte ajustado
 - Cuello de pico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MSXJKCN/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Ufi Filters 55.170.00 Filtro Diesel](https://www.amazon.e
 
 🔎:
 
-- Producto exclusivo y garantizado por dos patentes UFI aplicadas al sistema de separación de agua
 - Estructura simple y compacta
 - Longitud A 95.0 - Entrada / Dimensiones de la rosca F 10.0 - Salida/Dimensiones de la rosca G 10.0 - Alturab H 107.5
+- Producto exclusivo y garantizado por dos patentes UFI aplicadas al sistema de separación de agua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00AYHJB68/?tag=tolees-21)

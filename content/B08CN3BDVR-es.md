@@ -29,8 +29,8 @@ En este momento está [G-STAR RAW Eyben Slim Camiseta  Delta Blue 2757-1852  L p
 🔎:
 
 - Estampado de G-Star RAW en el pecho
-- Bajo recto
-- Cuello de pico acanalado
 - Manga corta recta insertada
+- Cuello de pico acanalado
+- Bajo recto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CN3BDVR/?tag=tolees-21)
