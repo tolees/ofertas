@@ -28,8 +28,8 @@ Está [adidas Adilette Aqua  Slide Sandal Unisex Adulto  Footwear White/Platin M
 
 ℹ️:
 
-- Corte regular
-- Diseño del Slip-On
 - Cinturón de EVA preformado de una pieza
+- Diseño del Slip-On
+- Corte regular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PNHFT51/?tag=tolees-21)

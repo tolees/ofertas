@@ -28,9 +28,9 @@ Ahora mismo tienes [Flota - Detergente Multiusos - Para lavado a mano - 250 g](h
 
 🔎:
 
+- Pastilla Jabón Flota para Lavado a Mano
 - Pastilla de 250 gr
 - Ingredientes: Pastilla Detergente Manual
 - Detergente Multiuso
-- Pastilla Jabón Flota para Lavado a Mano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XA5VFT2/?tag=tolees-21)
