@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Originals Stripe Logo Camiset con un 50.02 % de descuento'
-date: 2021-07-02 09:33:33
+date: 2021-07-04 22:14:44
 image: 'https://m.media-amazon.com/images/I/41HAEEc-5zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ En este momento está [G-STAR RAW Originals Stripe Logo Camiseta  Sartho Blue 33
 
 - Estampado gráfico de caucho en el pecho
 - Cuello redondo de canalé
-- Manga corta
 - Bajo recto
+- Manga corta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CN2DLQ3/?tag=tolees-21)
