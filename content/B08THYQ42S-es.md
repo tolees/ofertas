@@ -28,10 +28,10 @@ Ahora mismo tienes [Camara Canon Ivy Rec Rosa](https://www.amazon.es/dp/B08THYQ4
 
 🔎:
 
-- Cámara para actividades al aire libre
-- Diseñada con un clip para fijarla a un cinturón o una mochila, que también hace las veces de visor
-- 13 MP, Full HD 60P, Bluetooth, Wi-Fi
-- Compatible como visor inalámbrico en directo, además de transferir de forma inalámbrica tus fotos y vídeos para compartirlos con quién quieras
 - El sensor CMOS de 13 MP se asegura de que tus fotos estén llenas de detalles y claridad
+- Compatible como visor inalámbrico en directo, además de transferir de forma inalámbrica tus fotos y vídeos para compartirlos con quién quieras
+- 13 MP, Full HD 60P, Bluetooth, Wi-Fi
+- Diseñada con un clip para fijarla a un cinturón o una mochila, que también hace las veces de visor
+- Cámara para actividades al aire libre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08THYQ42S/?tag=tolees-21)

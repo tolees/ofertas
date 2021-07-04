@@ -28,8 +28,8 @@ Está [Desigual Fabric Hand Bag  Mano Mujer  blanco  U](https://www.amazon.es/dp
 
 ℹ️:
 
+- 85% POLYURETHANE 10% POLYESTER 4% JUTE 1% AF
 - Mosaico de diferentes tejidos y texturas
 - No lavar
-- 85% POLYURETHANE 10% POLYESTER 4% JUTE 1% AF
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CN1XQVS/?tag=tolees-21)

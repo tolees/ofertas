@@ -28,7 +28,7 @@ En este momento está [Lacoste YH9643 Camisa de Polo  Blanc/Nattier 07E-Lazuli  
 
 🔎:
 
-- Punto de algodón ultraligero
 - Paneles color block
+- Punto de algodón ultraligero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B3TXNWF/?tag=tolees-21)

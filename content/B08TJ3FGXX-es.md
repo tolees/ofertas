@@ -28,7 +28,7 @@ En este momento está [Camara Canon Ivy Rec Verde](https://www.amazon.es/dp/B08T
 
 🔎:
 
-- 13 MP, Full HD 60P, Bluetooth, Wi-Fi
 - Cámara para actividades al aire libre
+- 13 MP, Full HD 60P, Bluetooth, Wi-Fi
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TJ3FGXX/?tag=tolees-21)

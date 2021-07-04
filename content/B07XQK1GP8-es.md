@@ -29,8 +29,8 @@ En este momento está [Desigual Blus tebas  Blanco  Blanco 1000   L para Mujer](
 🔎:
 
 - Primavera y verano.
-- Cuello redondo.
 - Desigual
+- Cuello redondo.
 - Color liso.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XQK1GP8/?tag=tolees-21)

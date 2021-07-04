@@ -28,9 +28,9 @@ Ahora mismo tienes [Lee Scarlett High Jeans Vaqueros  Worn Ebony  25W / 31L para
 
 🔎:
 
-- Tejido vaquero
 - DENIM STRETCH
-- SKINNY High WAIST
 - 50% algodón orgánico
+- SKINNY High WAIST
+- Tejido vaquero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081G2RGNK/?tag=tolees-21)
