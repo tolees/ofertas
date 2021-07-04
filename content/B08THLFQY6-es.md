@@ -28,10 +28,10 @@ Está [ARENA Bañador Modelo Friends Kids Girl Marca](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Ideal para actividades de natación en la piscina y la playa
-- 82% Poliéster Reciclado, 18% Elastano
-- Cómodo y fácil de poner, tirantes anchos
-- Tejido resistente al cloro y de secado rápido, ajuste perfecto
 - Bañador para niñas
+- Ideal para actividades de natación en la piscina y la playa
+- Cómodo y fácil de poner, tirantes anchos
+- 82% Poliéster Reciclado, 18% Elastano
+- Tejido resistente al cloro y de secado rápido, ajuste perfecto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08THLFQY6/?tag=tolees-21)
