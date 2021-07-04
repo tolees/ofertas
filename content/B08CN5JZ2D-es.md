@@ -28,8 +28,8 @@ Ahora mismo tienes [Desigual BLUS Hanna  Blanco  XL para Mujer](https://www.amaz
 
 🔎:
 
-- Refuerzo en el talón y la puntera
 - Floral Camouflage
 - Zapatillas de correr bordadas
+- Refuerzo en el talón y la puntera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CN5JZ2D/?tag=tolees-21)

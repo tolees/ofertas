@@ -28,10 +28,10 @@ Ahora mismo tienes [Learning Resources- Juego de magnetismo Magnet Movers Stem E
 
 🔎:
 
-- Con los experimentos prácticos exploraréis el magnetismo tal y como existe en el mundo real
 - La guía de actividades incluye 10 entretenidas tareas para niños de 5+ años de edad
-- Despierta la curiosidad natural de los niños por el magnetismo
 - Incluye divertidos experimentos que van desde ejercicios para aprender conceptos básicos hasta pruebas prácticas enfocadas en temas específicos
 - Contribuye a desarrollar el razonamiento analítico, el aprendizaje de los conceptos de causa y efecto y otras aptitudes tempranas de stem
+- Despierta la curiosidad natural de los niños por el magnetismo
+- Con los experimentos prácticos exploraréis el magnetismo tal y como existe en el mundo real
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MJCW4H7/?tag=tolees-21)

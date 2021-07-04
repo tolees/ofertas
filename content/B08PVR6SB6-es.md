@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Lite Racer RBN 2.0  Sneaker Hombr al 40.00 % de descuento'
-date: 2021-06-30 09:20:06
+date: 2021-07-04 10:12:32
 image: 'https://m.media-amazon.com/images/I/41dii1iQDSS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [adidas Lite Racer RBN 2.0  Sneaker Hombre  Crew Navy/Footwear White/Grey 
 
 ℹ️:
 
-- Corte regular
 - Malla impresa en la parte superior
+- Corte regular
 - Cordones de zapatos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PVR6SB6/?tag=tolees-21)

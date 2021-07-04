@@ -29,7 +29,7 @@ En este momento está [Only onlSILVERY S/S V Neck Lurex Top JRS Noos Camiseta  G
 🔎:
 
 - Mullida
-- Camiseta
 - Grande
+- Camiseta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06WV7YZ93/?tag=tolees-21)
