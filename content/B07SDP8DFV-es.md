@@ -28,8 +28,8 @@ En este momento está [Lee Scarlett High Jeans Vaqueros  Azul  Tonal Stonewash N
 
 🔎:
 
-- Vaqueros para mujer con diseño de 5 bolsillos
 - Hechos en tejido elástico y flexible
 - Lucen un parche con el logo de la marca en la parte trasera de la cintura
+- Vaqueros para mujer con diseño de 5 bolsillos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SDP8DFV/?tag=tolees-21)
