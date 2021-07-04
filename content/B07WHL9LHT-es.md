@@ -28,7 +28,7 @@ Tienes [Skechers Arch Fit  Zapatillas Hombre  Gynv  39 EU](https://www.amazon.es
 
 🔎:
 
-- Plantilla con soporte de arco.
 - Suela acolchada.
+- Plantilla con soporte de arco.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WHL9LHT/?tag=tolees-21)
