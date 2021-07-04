@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Skechers Men s STATUS 2.0- LORANO Moccas al 35.65 % de descuento'
-date: 2020-08-21 23:54:14
-image: 'https://m.media-amazon.com/images/I/31rIRaaZwuL._SL400_.jpg'
+title: 'Skechers Status 2.0-Lorano  Mocasines Ho al 38.25 % de descuento'
+date: 2021-07-04 00:50:44
+image: 'https://m.media-amazon.com/images/I/41rh+AdZ58L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07GPRVDNK-es Skechers Men s STATUS 2.0- LORANO Moccasins Beige Taupe...'
+slug: 'B07GPRVDNK-es Skechers Status 2.0-Lorano Mocasines Hombre Multicolor TPE...'
 sku: 'B07GPRVDNK-es'
-tags: [  ]
-actualPrice: 38.58 EUR
+tags: [ 'Calzado de nordic walking para hombre','Calzado deportivo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','skechers', ]
+actualPrice: 37.02 EUR
 currency: EUR
-price: 38.58
+price: 37.02
 comparePrice: 59.95 EUR
-prodname: 'Skechers Men s STATUS 2.0- LORANO Moccasins  Beige  Taupe TPE   6  39.5 EU '
+prodname: 'Skechers Status 2.0-Lorano  Mocasines Hombre  Multicolor  TPE Black Canvas   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07GPRVDNK/?tag=tolees-21'
-descuento: '35.65'
-average: '40.10454545454546'
+descuento: '38.25'
+average: '39.8475'
 ---
 
-Ahora mismo tienes [Skechers Men s STATUS 2.0- LORANO Moccasins  Beige  Taupe TPE   6  39.5 EU ](https://www.amazon.es/dp/B07GPRVDNK/?tag=tolees-21) a 38.58 EUR (original: 59.95 EUR) (35.65 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Skechers Status 2.0-Lorano  Mocasines Hombre  Multicolor  TPE Black Canvas   39.5 EU](https://www.amazon.es/dp/B07GPRVDNK/?tag=tolees-21) a 37.02 EUR (original: 59.95 EUR) (38.25 %  de descuento) en el siguiente enlace!
 
-[![Skechers Men s STATUS 2.0- LORANO Moccas](https://m.media-amazon.com/images/I/31rIRaaZwuL._SL400_.jpg)](https://www.amazon.es/dp/B07GPRVDNK/?tag=tolees-21)
+[![Skechers Status 2.0-Lorano  Mocasines Ho](https://m.media-amazon.com/images/I/41rh+AdZ58L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07GPRVDNK/?tag=tolees-21)
 
 🔎:
 
