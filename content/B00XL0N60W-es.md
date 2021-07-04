@@ -28,10 +28,10 @@ Tienes [Orbegozo TF 0123 - Ventilador de sobremesa  oscilante  2 velocidades  di
 
 ℹ️:
 
+- Función oscilación y regulable en inclinación
 - 2 velocidades de ventilación
 - Ventilador de sobremesa de diseño moderno
 - Clase de eficiencia energética A
 - Tamaño de las aspas de 23 centímetros
-- Función oscilación y regulable en inclinación
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XL0N60W/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Amazon Basics - Empapadores de adiestramiento para mascotas y cachorros 
 
 ℹ️:
 
+- Nota: el empapador de adiestramiento de tamaño normal está dirigido únicamente a cachorros y perros pequeños; los perros grandes deben usar los empapadores de adiestramiento para mascotas y cachorros muy resistentes de Amazon Basics de tamaño XL
+- Cada empapador mide 55,8 x 55,8 cm (largo x ancho), el centro mide 48,2 x 48,2 cm (largo x ancho); el borde de plástico de 3,8 cm del empapador en todos los laterales ayuda a evitar que se rebose
+- El núcleo superabsorbente convierte el líquido en gel al entrar en contacto; diseño sin fugas con forro de plástico para una protección de suelo superior
 - La superficie de secado rápido con atrayente incorporado ofrece a las mascotas un lugar apetecible al que ir para la llamada de la naturaleza
 - Paquete de 50 unidades de empapadores de adiestramiento muy resistentes para mascotas y cachorros de tamaño Normal; más gruesos y más absorbentes que los originales
-- El núcleo superabsorbente convierte el líquido en gel al entrar en contacto; diseño sin fugas con forro de plástico para una protección de suelo superior
-- Cada empapador mide 55,8 x 55,8 cm (largo x ancho), el centro mide 48,2 x 48,2 cm (largo x ancho); el borde de plástico de 3,8 cm del empapador en todos los laterales ayuda a evitar que se rebose
-- Nota: el empapador de adiestramiento de tamaño normal está dirigido únicamente a cachorros y perros pequeños; los perros grandes deben usar los empapadores de adiestramiento para mascotas y cachorros muy resistentes de Amazon Basics de tamaño XL
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07CWD5PX5/?tag=tolees-21)

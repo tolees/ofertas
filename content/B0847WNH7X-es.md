@@ -29,9 +29,9 @@ Ahora mismo tienes [Meridiem Games - Super Kickers League Ultimate](https://www.
 🔎:
 
 - Different trophies and competitions.
-- Local multiplayer up to 6 players.
-- 10 Different teams with unique special skills.
 - 4 Cameras: Chose the camera you want to see the action in the game.
+- Local multiplayer up to 6 players.
 - Unlockable content.
+- 10 Different teams with unique special skills.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0847WNH7X/?tag=tolees-21)

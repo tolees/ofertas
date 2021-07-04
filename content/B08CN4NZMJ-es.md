@@ -29,7 +29,7 @@ Tienes [Desigual BLUS Rosen  Blanco  S para Mujer](https://www.amazon.es/dp/B08C
 🔎:
 
 - Refuerzo en el talón y la puntera
-- Floral Camouflage
 - Zapatillas de correr bordadas
+- Floral Camouflage
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CN4NZMJ/?tag=tolees-21)
