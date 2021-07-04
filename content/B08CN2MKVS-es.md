@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Base-S Camiseta  Dark Candy 3 al 54.60 % de descuento'
-date: 2021-07-02 22:14:33
+date: 2021-07-04 17:20:19
 image: 'https://m.media-amazon.com/images/I/41grpEYrEhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [G-STAR RAW Base-S Camiseta  Dark Candy 336-c235  L para Homb
 
 🔎:
 
+- Cuello redondo
 - Bordado de G-Star RAW en el pecho
 - Bajo recto
-- Cuello redondo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CN2MKVS/?tag=tolees-21)

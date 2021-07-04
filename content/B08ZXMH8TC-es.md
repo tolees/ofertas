@@ -29,9 +29,9 @@ En este momento está [AKASO Casco Bici Niños Helmet Infantil para 2-12 Años c
 🔎:
 
 - ❤️Talla S: 47cm -52 cm para 2-5 años; Talla M: 52 cm -56 cm para 6-12 años. ❤️⛑️【Super Seguro＆ Resiste al Impact 】 Este casco para niños está construido de PC de buena durabilidad y una capa interior de EPS para proteger a los niños en caso de impacto, por lo que los niños pueden protegerse de manera segura cuando juegan felices
-- ⛑️【Ligero& Ventilación】 Bastante cómodo y ligero, los niños ya no se niegan a ponerselo. Posee 14 orificios de ventilación y una red a prueba de insectos para mantener la temperatura y evitar el sudor y prevenir los mosquitos
-- ⛑️【Ser Ajustable】 El casco de protección tiene una correa ajustable y una hebilla interior para un ajuste seguro. Además viene equipado con almohadillas y un protector para el mentón, hace el casco mucho más cómodo para los niños
-- ⛑️【Fácil de limpiar】Las almohadillas removibles para los cascos de los niños se pueden lavar y secar, para evitar el crecimiento de bacterias y reducir el olor desagradable causado por el sudor.
 - ⛑️【Profesional Casco infantil】El casco disenado paralos niños de 6-15 año, Un accesorio ideal que se puede utilizar en muchas actividades al aire libre. Cumple con todos los estándares de seguridad. （CPSC, CPSIA , ASTM, CE）
+- ⛑️【Ligero& Ventilación】 Bastante cómodo y ligero, los niños ya no se niegan a ponerselo. Posee 14 orificios de ventilación y una red a prueba de insectos para mantener la temperatura y evitar el sudor y prevenir los mosquitos
+- ⛑️【Fácil de limpiar】Las almohadillas removibles para los cascos de los niños se pueden lavar y secar, para evitar el crecimiento de bacterias y reducir el olor desagradable causado por el sudor.
+- ⛑️【Ser Ajustable】 El casco de protección tiene una correa ajustable y una hebilla interior para un ajuste seguro. Además viene equipado con almohadillas y un protector para el mentón, hace el casco mucho más cómodo para los niños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08ZXMH8TC/?tag=tolees-21)

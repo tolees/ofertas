@@ -28,10 +28,10 @@ Tienes [Element Cornell Classic Sudadera con Capucha para Hombre](https://www.am
 
 ℹ️:
 
-- __Tejido:__ Tejido de felpa mezcla de algodón y poliéster
-- __Tejido interior:__ interior cepillado suave
-- __Corte:__ corte normal, clásico, cómodo
-- __Bolsillos:__ Bolsillo canguro amplio
 - Bordado del logo Element
+- __Tejido:__ Tejido de felpa mezcla de algodón y poliéster
+- __Bolsillos:__ Bolsillo canguro amplio
+- __Corte:__ corte normal, clásico, cómodo
+- __Tejido interior:__ interior cepillado suave
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08TC775HN/?tag=tolees-21)
