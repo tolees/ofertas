@@ -28,8 +28,8 @@ Está [Legrand 782420 pared  enchufe 1 toma  Schuko  Blanco](https://www.amazon.
 
 ℹ️:
 
-- ENCHUFE SCHUKO: 1 enchufe pared con toma de tierra. Instalacion en superficie.
 - BASE ENCHUFE: De la Gama Forix. Color Blanco brillante.
+- ENCHUFE SCHUKO: 1 enchufe pared con toma de tierra. Instalacion en superficie.
 - SEGURIDAD: Dispone de protección infantil en los polos de conexión.
 - ENCHUFE CON PROTECCION: 16A a 230V.
 - ENCHUFE SUPERFICIE: Medidas: 6,5 x 4 x 6,5 cm. Peso: 45,4 gr.

@@ -28,10 +28,10 @@ Está [Meridiem Games - Supermarket Shriek](https://www.amazon.es/dp/B08CHZDT1Y/
 
 ℹ️:
 
-- Action-Packed Gameplay Modes - The 38 stages include outlandish Obstacle Courses, time-limited Collectathons and not forgetting the mode-where-you-knock-over-the-tins-of-beans.
 - A World of Insane Obstacles - Race around shops, boutiques and supermarkets - overcoming a relentless stream of obstacles along the way! From the mundane (tins of beans) to the absurd (fire pits, swinging axes, sumo wrestlers & more!).
+- An "Epic" Journey - Set in a near-future-dystopian-alternate-reality-universe-world (probably), our heroes must go on a journey to discover something deep within themselves and ultimately save save SAVE! On 3 for 2 items in the canned food isle...
 - Play Solo, with Goat (Friend) or with a herd! - Embark on this adventure solo or enlist the help of a friend for a co-op experience like no other! There are also 3 chaotic PvP party modes for between 2 and 4 players!
 - A Kart Racer Like No Other - Propel our two heroes using their wild incomprehensible screams! Use the screams of both man and goat in perfect harmony to master the mad-cap physics and complete each stage!
-- An "Epic" Journey - Set in a near-future-dystopian-alternate-reality-universe-world (probably), our heroes must go on a journey to discover something deep within themselves and ultimately save save SAVE! On 3 for 2 items in the canned food isle...
+- Action-Packed Gameplay Modes - The 38 stages include outlandish Obstacle Courses, time-limited Collectathons and not forgetting the mode-where-you-knock-over-the-tins-of-beans.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CHZDT1Y/?tag=tolees-21)

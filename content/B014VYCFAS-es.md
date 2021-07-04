@@ -29,8 +29,8 @@ Tienes [HP ScanJet Pro 2500 f1 - Escáner plano  USB 2.0  20 ppm  L2747A ](https
 🔎:
 
 - Escáner de superficie plana con escaneo a doble cara y un alimentador automático de documentos de 50 páginas.
+- Conectividad estándar USB 2.0
 - Ciclo diario de trabajo de hasta 1500 páginas
 - Escanéa con velocidades de hasta 20 ppm
-- Conectividad estándar USB 2.0
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014VYCFAS/?tag=tolees-21)
