@@ -28,8 +28,8 @@ Tienes [Clarks Marie Mist  Zapatos de Cordones Derby Mujer  Negro  Black-   36 E
 
 🔎:
 
+- Interior: textil
 - Suela: goma
 - Exterior: piel
-- Interior: textil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FR5FN9S/?tag=tolees-21)

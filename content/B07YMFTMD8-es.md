@@ -28,10 +28,10 @@ En este momento está [Hurley - M Phtm Spray Blend 20 ](https://www.amazon.es/dp
 
 🔎:
 
-- 30 % elástico.
-- Tejido Hurley )( Phantom.
-- Corte performance.
 - 20".
+- 30 % elástico.
+- Corte performance.
+- Tejido Hurley )( Phantom.
 - 86 % Poliéster reciclado / 14 % Spandex.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YMFTMD8/?tag=tolees-21)

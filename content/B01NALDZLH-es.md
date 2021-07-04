@@ -29,8 +29,8 @@ Está [Vans Classic Slip-on Platform  Zapatillas sin Cordones Mujer  Negro  Blac
 ℹ️:
 
 - Ajuste : Normal
+- Deportivas con las siguientes características:
 - Zapatillas || Ajuste normal || Color intenso || Materiales de larga duración
 - Tu nuevo merchandising favorito
-- Deportivas con las siguientes características:
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NALDZLH/?tag=tolees-21)
