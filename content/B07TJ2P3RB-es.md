@@ -28,9 +28,9 @@ En este momento está [Skechers MELSON VOLGO  Zapatillas Niños  Black  41.5 EU]
 
 🔎:
 
-- Goga Mat Arch
-- Ajuste clásico
 - Espuma viscoelástica refrigerada por aire
+- Ajuste clásico
 - Ropa de calle
+- Goga Mat Arch
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TJ2P3RB/?tag=tolees-21)
