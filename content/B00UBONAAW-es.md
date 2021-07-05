@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.49 % en Tommy Hilfiger Cotton cn tee SS Icon Cam'
-date: 2021-06-26 14:35:46
+date: 2021-07-05 12:11:40
 image: 'https://m.media-amazon.com/images/I/31tF4fdrMyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [Tommy Hilfiger Cotton cn tee SS Icon Camiseta  Classic White 100  L para
 ℹ️:
 
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
-- Tommy Hilfiger Blanco Camiseta Icon
 - Ver descripción del producto para obtener más información.
+- Tommy Hilfiger Blanco Camiseta Icon
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00UBONAAW/?tag=tolees-21)
