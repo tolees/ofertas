@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas RUNFALCON 2.0  Zapatillas de Runn al 35.00 % de descuento'
-date: 2021-07-04 13:25:23
+date: 2021-07-05 20:51:31
 image: 'https://m.media-amazon.com/images/I/41FZUs-r1XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Está [adidas RUNFALCON 2.0  Zapatillas de Running Hombre  NEGBÁS/FTWBLA/Rojsol
 
 - Forro textil
 - Cierre de cordones
-- Suela de goma
 - Parte superior textil
+- Suela de goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BX1ZCVT/?tag=tolees-21)
