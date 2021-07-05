@@ -28,9 +28,9 @@ Tienes [Nivea Men Originals Espuma de Afeitar Extra Hidratante - 250 ml](https:/
 
 🔎:
 
-- Previene la sequedad de la piel gracias a su fórmula con Aloe Vera, Vitaminas y Activos Hidratantes
 - Dermatológicamente comprobado
 - Protección contra pequeños cortes e irritaciones
+- Previene la sequedad de la piel gracias a su fórmula con Aloe Vera, Vitaminas y Activos Hidratantes
 - Proporciona un afeitado extra-confortable y apurado
 - Ablanda la barba para un deslizamiento más eficaz de la cuchilla
 

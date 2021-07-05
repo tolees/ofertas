@@ -28,10 +28,10 @@ Tienes [Wicked Chili Tour Case Compatible con iPhone 12 Pro MAX  Samsung Galaxy 
 
 🔎:
 
-- IMPORTANTE: Los botones del teléfono no son operables, la funda es compatible con el tacto y el audio a través de Bluetooth. Pruebe si su sensor de proximidad se activa cuando se aplica una película. Para encender el teléfono, éste debe poder desactivarse
 - RIDE & CHARGE: El powerbank o conector de alimentación asegura suficiente espacio para los cables de carga comunes USB-C, MicroUSB o Lightning. Adecuado para la reposición opcional de energía durante la conducción 100% powerbank.
 - UN SOPORTE, MUCHOS TELÉFONOS: Soporte universal para teléfonos móviles de bicicleta con una altura máxima de 160 mm y una anchura de 77 mm. Los 4 adaptadores garantizan una sujeción segura y la máxima compatibilidad
 - PROTECCIÓN IPX5 360°: La robusta carcasa tiene 6 puntos de bloqueo y absorbe los golpes. En los viajes en bicicleta, protege de forma fiable contra la lluvia, la suciedad y el polvo, y asegura el teléfono de daños costosos incluso en caso de caída
 - ENTREGA: 1x Funda universal de viaje con protección de pantalla + Soporte para bicicleta + Correa de seguridad + 4 adaptadores (A,B,C,D) para ajustar el teléfono al tamaño de la funda. 6 puntos de cierre conectan la parte superior e inferior
+- IMPORTANTE: Los botones del teléfono no son operables, la funda es compatible con el tacto y el audio a través de Bluetooth. Pruebe si su sensor de proximidad se activa cuando se aplica una película. Para encender el teléfono, éste debe poder desactivarse
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08FJDR19T/?tag=tolees-21)
