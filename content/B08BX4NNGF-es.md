@@ -28,9 +28,9 @@ Tienes [adidas RUNFALCON 2.0  Zapatillas de Running Hombre  NEGBÁS/FTWBLA/Rojso
 
 🔎:
 
-- Cierre de cordones
 - Parte superior textil
-- Suela de goma
 - Forro textil
+- Suela de goma
+- Cierre de cordones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BX4NNGF/?tag=tolees-21)
