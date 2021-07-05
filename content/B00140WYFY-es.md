@@ -28,10 +28,10 @@ Tienes [Sebago Docksides Portland  Náuticos Hombre  Azul  Blue Navy 908   46 EU
 
 ℹ️:
 
+- Parte superior: piel
 - Forro: piel
+- Cierre: cordones
 - Tipo de tacón: plano
 - Material de la suela: goma
-- Cierre: cordones
-- Parte superior: piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00140WYFY/?tag=tolees-21)

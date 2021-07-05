@@ -28,8 +28,8 @@ En este momento está [Brabantia - Molinillo de pimienta y sal manual](https://w
 
 🔎:
 
-- Set de 2 - ideal para regalar y también para recibir
-- Pequeñas y prácticas trituradoras, una para sal y otra para pimienta - un set ideal para darles un toque de sabor a los platos de la mesa
 - Con las siglas P y S grabadas en la parte superior para evitar confusiones a la hora de rellenarlas o usarlas
+- Pequeñas y prácticas trituradoras, una para sal y otra para pimienta - un set ideal para darles un toque de sabor a los platos de la mesa
+- Set de 2 - ideal para regalar y también para recibir
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B006NQDE8A/?tag=tolees-21)
