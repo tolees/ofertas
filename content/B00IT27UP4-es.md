@@ -28,8 +28,8 @@ Tienes [Carmex  Bálsamo labial  4.9 ml  4.25 gr ](https://www.amazon.es/dp/B00I
 
 🔎:
 
+- Protege e hidrata la delicada piel de los labios; Repara las grietas que aparecen por sequedad ambiental, heridas en los labios, calenturas
 - Suaviza y calma la piel de los labios durante la práctica de cualquier actividad al aire libre
 - Previene la aparición de fisuras, grietas, calenturas; Factor de Protección Solar: 15
-- Protege e hidrata la delicada piel de los labios; Repara las grietas que aparecen por sequedad ambiental, heridas en los labios, calenturas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00IT27UP4/?tag=tolees-21)

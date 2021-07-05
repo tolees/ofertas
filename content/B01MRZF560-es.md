@@ -28,9 +28,9 @@ Tienes [Lacoste Carnaby EVO BL 1 SPM  Zapatillas Hombre  Navy  40 EU](https://ww
 
 ℹ️:
 
-- En color azul grisaceo, las podras combinar con cualquier estilo de ropa, tanto para trabajar como para salir a dar una vuelta
-- Consulta nuestras ofertas y promociones en CALZADO Y MODA
 - Te las puedes poner para cualquier plan
 - ¡Ya estan aquí! Las zapatillas favoritas para cualquier chico que busque un look urbanita y cómodo, las nuevas Lacoste Carnaby Navy
+- Consulta nuestras ofertas y promociones en CALZADO Y MODA
+- En color azul grisaceo, las podras combinar con cualquier estilo de ropa, tanto para trabajar como para salir a dar una vuelta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MRZF560/?tag=tolees-21)

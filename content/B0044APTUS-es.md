@@ -28,9 +28,9 @@ Tienes [Vogel s THIN 345 - Soporte de pared para televisores de 102-165 cm  40-6
 
 🔎:
 
-- Disfrute de la mejor visión desde cualquier lugar de la habitación
 - Orificios de montaje (VESA) hasta 600 x 400 mm
 - Incluyen todos los materiales de montaje
+- Disfrute de la mejor visión desde cualquier lugar de la habitación
 - Especialmente para televisiones ultrafinas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0044APTUS/?tag=tolees-21)

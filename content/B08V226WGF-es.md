@@ -29,9 +29,9 @@ Está [Armani Exchange Reloj Analógico para De Las Mujeres de Cuarzo con Correa
 ℹ️:
 
 - - Color de la caja: Oro Rojo
-- - Cristal: Cristal Mineral
-- - Material de la Carcasa: Acero inoxidable
 - Carcasa
 - - Forma de la Carcasa: Redondo
+- - Material de la Carcasa: Acero inoxidable
+- - Cristal: Cristal Mineral
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08V226WGF/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Relaxdays Soporte para Bicicletas Set de Dos Piezas Plegables para Monta
 
 ℹ️:
 
-- Para bicicletas con marco de hasta 4 cm aprox
 - Soporte para bicicletas
-- Carga máxima: 25 kg aprox./ se podrá plegar después de su uso
 - Con material de montaje incluida
+- Carga máxima: 25 kg aprox./ se podrá plegar después de su uso
+- Para bicicletas con marco de hasta 4 cm aprox
 - Longitud incluido el soporte a la pared: 36 cm aprox
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00KACSPXM/?tag=tolees-21)

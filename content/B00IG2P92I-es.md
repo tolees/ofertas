@@ -28,11 +28,11 @@ Ahora mismo tienes [APC by Schneider Electric APC BX500CI Back-UPS BX - Sistema 
 
 🔎:
 
-- 500VA / 300W
-- Back-UPS BX Proporciona alimentación garantizada y protección contra sobretensiones, a ordenadores, HDD multimedia, WIFI, consolas de juegos, y otros dispositivos electrónicos
 - Incluye: Manual de instrucciones
-- 3 Salidas tipo IEC
 - Regulación automática de voltaje (AVR)
+- 3 Salidas tipo IEC
+- Back-UPS BX Proporciona alimentación garantizada y protección contra sobretensiones, a ordenadores, HDD multimedia, WIFI, consolas de juegos, y otros dispositivos electrónicos
+- 500VA / 300W
 - Longitud del cable: 1.82
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00IG2P92I/?tag=tolees-21)

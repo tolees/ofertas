@@ -28,10 +28,10 @@ Tienes [Umbra 330637-560 - Estante pequeño  color plateado](https://www.amazon.
 
 ℹ️:
 
-- Paquete de montaje incluído
-- Medidas 13x13x14 cm
+- Color plateada
 - Estantería invisible
 - Soporta alrededor de 7 kg
-- Color plateada
+- Paquete de montaje incluído
+- Medidas 13x13x14 cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000IVRTBO/?tag=tolees-21)

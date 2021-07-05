@@ -28,10 +28,10 @@ En este momento está [Paladone Products - Mini lámpara Pac-Man 3D 10 cm  multi
 
 🔎:
 
-- Diseño único e inconfundible
 - Una gran idea de regalo para los verdaderos amantes de pacman
 - Alimentación por usb o tres pilas aaa (no incluidas en el producto)
-- Altura: 10 cm
 - Producto con licencia oficial
+- Diseño único e inconfundible
+- Altura: 10 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MFWNNY3/?tag=tolees-21)
