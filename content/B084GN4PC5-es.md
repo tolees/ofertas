@@ -28,10 +28,10 @@ Tienes [HOMCOM Cama Elástica Multifuncional Estable para Exterior e Interior Pa
 
 ℹ️:
 
-- ✅RED DE SEGURIDAD con práctica cremallera para entrar y salir con comodidad.
-- ✅MEDIDA: Φ244x205Al cm. Soporta un máximo de 100kg.
-- ✅CÓMODA ESCALERA. Facilita el acceso al trampolín.
 - ✅CAMA ELÁSTICA CON RED Y ESCALERA. Perfecta para hacer ejercicio y divertirse. Apta tanto para adultos como para niños.
 - ✅BORDES ACOLCHADOS que amortiguan los golpes en caso de caída.
+- ✅CÓMODA ESCALERA. Facilita el acceso al trampolín.
+- ✅MEDIDA: Φ244x205Al cm. Soporta un máximo de 100kg.
+- ✅RED DE SEGURIDAD con práctica cremallera para entrar y salir con comodidad.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084GN4PC5/?tag=tolees-21)

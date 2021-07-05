@@ -28,10 +28,10 @@ Tienes [Orbegozo SF 0147 - Ventilador de pie oscilante  3 niveles de ventilació
 
 ℹ️:
 
-- Dispone de un asa que facilita su transporte
 - Ventilador de Pie Orbegozo oscilante blanco de 50 W de potencia
 - Gracias a su altura regulable podrás adaptar su uso a cualquier lugar
-- El diámetro de la hélice es de 40 cm
 - Tres velocidades de ventilación entre las que escoger la potencia de ventilación deseada
+- El diámetro de la hélice es de 40 cm
+- Dispone de un asa que facilita su transporte
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01D4YVY80/?tag=tolees-21)

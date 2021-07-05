@@ -28,10 +28,10 @@ En este momento está [Anime Heroes- Figura de acción My Hero Academia  ALL MIG
 
 🔎:
 
-- Gran nivel de detalle y decoración
-- Accesorios incluidos
 - Packaging premium
+- Accesorios incluidos
 - Figura articulada de Anime Heroes de All might de My Hero Academia
 - Más de 17 puntos de articulación y 17 cm de altura
+- Gran nivel de detalle y decoración
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083JTY98F/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Luke Medium Stretch Jeans  Azul  Rinse DP   33W / 32L pa
 
 🔎:
 
+- Estilo 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
-- Estilo 5 bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C99C7RD/?tag=tolees-21)
