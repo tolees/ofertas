@@ -28,10 +28,10 @@ Está [Intex - Piscina hinchable he x agonal y rociador  140 x 11 cm  115 l  571
 
 ℹ️:
 
-- Piscina hinchable Intex para bebé con forma hexagonal y pulverizador de agua
-- Incorpora adaptador de conexión a manguera
 - Medidas: 140x11 cm con capacidad para 115 litros/agua
-- Fabricada de vinilo resistente, es de color azul transparente con ilustraciones de animales marinos en la base de la piscina
+- Incorpora adaptador de conexión a manguera
 - Incluye 2 peces hinchables de 24 cm (color naranja y azul)
+- Fabricada de vinilo resistente, es de color azul transparente con ilustraciones de animales marinos en la base de la piscina
+- Piscina hinchable Intex para bebé con forma hexagonal y pulverizador de agua
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N1WHIDP/?tag=tolees-21)
