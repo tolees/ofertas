@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Pawsome Pack: Cat Quest al 42.98 % de rebaja'
-date: 2021-07-01 07:39:07
+date: 2021-07-05 15:12:09
 image: 'https://m.media-amazon.com/images/I/51CXSWAmFwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B084DVJLFP/?tag=tolees-21'
 descuento: '42.98'
-average: '27.3723076923077'
+average: '27.0974074074074'
 ---
 
 Tienes [Meridiem Games - Pawsome Pack: Cat Quest + Cat Quest 2](https://www.amazon.es/dp/B084DVJLFP/?tag=tolees-21) con precio final de  19.95 EUR (original: 34.99 EUR) (42.98 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Meridiem Games - Pawsome Pack: Cat Quest + Cat Quest 2](https://www.amaz
 
 🔎:
 
+- New weapons types Master swords, staves and more to become a fur-midable fighter!
 - Brand new story set in the world of Felingard - and beyond!
 - More spells bring even more furry judgement to your foes.
-- This pawsome pack includes Cat Quest and Cat Quest II for a multitude of catventures - with a reversible cover!
-- New weapons types Master swords, staves and more to become a fur-midable fighter!
 - All new co-op gameplay. Play as both cat and dog, either alone or with a friend!
+- This pawsome pack includes Cat Quest and Cat Quest II for a multitude of catventures - with a reversible cover!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084DVJLFP/?tag=tolees-21)

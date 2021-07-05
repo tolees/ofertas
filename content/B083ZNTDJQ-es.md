@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Guess Analógico GW0020L2 con un 49.51 % de descuento'
-date: 2021-06-18 14:17:33
+date: 2021-07-05 14:11:27
 image: 'https://m.media-amazon.com/images/I/41Zu3NLCbLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
