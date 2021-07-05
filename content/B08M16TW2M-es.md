@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tesura Games - Spirit of the North. Enha al 40.32 % de descuento'
-date: 2021-07-01 07:40:34
+date: 2021-07-05 13:41:03
 image: 'https://m.media-amazon.com/images/I/51c5Y0vJP-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tesura Games'
 buyurl: 'https://www.amazon.es/dp/B08M16TW2M/?tag=tolees-21'
 descuento: '40.32'
-average: '30.02375'
+average: '29.0744444444444'
 ---
 
 Ahora mismo tienes [Tesura Games - Spirit of the North. Enhanced Edition](https://www.amazon.es/dp/B08M16TW2M/?tag=tolees-21) a 21.48 EUR (original: 35.99 EUR) (40.32 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [Tesura Games - Spirit of the North. Enhanced Edition](https:
 🔎:
 
 - Sigue al misterioso Zorro Espiritual a través de una tierra en ruinas mientras descubres más sobre una civilización perdida.
+- Resuelve los puzles medioambientales para cambiar el mundo que te rodea, usando los antiguos poderes que te otorgó el Guardián de las Luces del Norte.
+- Disfruta de una Banda Sonora Orquestal en movimiento con 14 composiciones originales.
 - Sumérgete con sus impresionantes paisajes en 4K, con texturas, iluminación y objetos remasterizados y corriendo a 60FPS.
 - Explora el mundo con 2 nuevos aspectos exclusivos incluidos en esta edición para Playstation 5.
-- Disfruta de una Banda Sonora Orquestal en movimiento con 14 composiciones originales.
-- Resuelve los puzles medioambientales para cambiar el mundo que te rodea, usando los antiguos poderes que te otorgó el Guardián de las Luces del Norte.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08M16TW2M/?tag=tolees-21)
