@@ -28,8 +28,8 @@ Está [adidas Lite Racer RBN 2.0  Sneaker Hombre  Grey/Footwear White/Grey  42 2
 
 ℹ️:
 
-- Malla impresa en la parte superior
 - Cordones de zapatos
 - Corte regular
+- Malla impresa en la parte superior
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08L83DVZ6/?tag=tolees-21)
