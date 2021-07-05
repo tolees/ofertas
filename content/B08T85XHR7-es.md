@@ -28,10 +28,10 @@ Ahora mismo tienes [Alfombrilla de Escritorio- UCMDA Estera del Escritorio de Of
 
 🔎:
 
-- 【Uso amplio】: Alfombrilla escritorio es adecuado para muchas escenas. Puede adaptarse a sus computadoras portátiles / teclado. Y su superficie cómoda y suave puede ser una alfombrilla de ratón / almohadilla de escritura / almohadillas de dibujo. La mejor opción para accesorios de escritorio.
-- 【Material de cuero de PU】: Alfombrilla xxl hecho de cuero de PU duradero, puede mover el mouse rápidamente con excelente flexibilidad. Su material antideslizante también agrega estabilidad durante el uso diario.
-- 【Uso bilateral】: Alfombrilla escritorio con diferentes colores en ambos lados, y el material es el mismo. El tapete de escritorio 2 en 1 le permite usarlo dándole la vuelta. Equivale a tener dos alfombrillas de ratón.
-- 【Fácil de limpiar】: Gracias a la superficie de cuero, la alfombrilla del mouse es impermeable y resistente al aceite, y solo necesita limpiarse para facilitar la limpieza. Proteja su escritorio de arañazos, manchas y derrames.
 - 【Tamaño Perfecto】: Alfombrilla Ratón tamaño 800mm * 400mm * 20mm, solo 400g. Se adapta perfectamente a su escritorio / oficina en casa / computadoras portátiles. Protable de llevar. También puede cortar la alfombrilla del mouse para que se ajuste a la superficie del escritorio.
+- 【Material de cuero de PU】: Alfombrilla xxl hecho de cuero de PU duradero, puede mover el mouse rápidamente con excelente flexibilidad. Su material antideslizante también agrega estabilidad durante el uso diario.
+- 【Uso amplio】: Alfombrilla escritorio es adecuado para muchas escenas. Puede adaptarse a sus computadoras portátiles / teclado. Y su superficie cómoda y suave puede ser una alfombrilla de ratón / almohadilla de escritura / almohadillas de dibujo. La mejor opción para accesorios de escritorio.
+- 【Fácil de limpiar】: Gracias a la superficie de cuero, la alfombrilla del mouse es impermeable y resistente al aceite, y solo necesita limpiarse para facilitar la limpieza. Proteja su escritorio de arañazos, manchas y derrames.
+- 【Uso bilateral】: Alfombrilla escritorio con diferentes colores en ambos lados, y el material es el mismo. El tapete de escritorio 2 en 1 le permite usarlo dándole la vuelta. Equivale a tener dos alfombrillas de ratón.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08T85XHR7/?tag=tolees-21)

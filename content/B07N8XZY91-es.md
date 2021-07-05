@@ -28,9 +28,9 @@ Está [Head Promotion Cap](https://www.amazon.es/dp/B07N8XZY91/?tag=tolees-21) c
 
 ℹ️:
 
+- Agujeros en el tejido para una máxima transpirabilidad
 - Logotipo de cabeza bordado en la parte delantera
 - Hecho de material de algodón
-- Agujeros en el tejido para una máxima transpirabilidad
 - Gran gorra para cualquier ocasión
 - Cierre ajustable en la parte trasera
 

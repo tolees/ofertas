@@ -28,9 +28,9 @@ Está [PUMA Teamgoal 23 Camiseta de Entrenamiento  Hombre  Verde  Pepper Green/P
 
 ℹ️:
 
-- Logotipo del felino PUMA en la parte derecha del pecho
 - 100 % poliéster
 - Manga corta
+- Logotipo del felino PUMA en la parte derecha del pecho
 - dryCELL: Tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
 - Cuello redondo
 

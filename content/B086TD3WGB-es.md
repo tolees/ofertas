@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 574 Pastel Pack  Zapatillas  con un 35.01 % de descuento'
-date: 2021-07-04 05:58:47
+date: 2021-07-05 07:27:36
 image: 'https://m.media-amazon.com/images/I/41ij-qHhQDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B086TD3WGB/?tag=tolees-21'
 descuento: '35.01'
-average: '58.745'
+average: '58.66'
 ---
 
 En este momento está [New Balance 574 Pastel Pack  Zapatillas Mujer  Silver Birch  44 EU](https://www.amazon.es/dp/B086TD3WGB/?tag=tolees-21) a 58.49 EUR (original: 90.0 EUR) (35.01 %  de descuento) en el siguiente enlace!

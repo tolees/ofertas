@@ -28,9 +28,9 @@ Tienes [Compo 2141102011 Fertilizante Bonsais 500 ml  23x7x6.3 cm](https://www.a
 
 🔎:
 
-- Con potasio para un crecimiento sano y proporcionado
-- Contiene abono orgánico que favorece el buen desarrollo de la planta y proporciona un color verde y natural
-- Producto que combina tradición e innovación
 - Formulación órgano-mineral con microelementos idónea para todo tipo de bonsáis
+- Con potasio para un crecimiento sano y proporcionado
+- Producto que combina tradición e innovación
+- Contiene abono orgánico que favorece el buen desarrollo de la planta y proporciona un color verde y natural
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XQ4QHPD/?tag=tolees-21)
