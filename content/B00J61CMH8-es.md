@@ -28,10 +28,10 @@ En este momento está [Columbia Woodburn II  Zapatillas Hombre  Black  Black Gol
 
 🔎:
 
-- Tipo de tacón: Plano
-- Material exterior: Cuero
 - Revestimiento: Sintético
-- Cierre: Cordones
+- Material exterior: Cuero
+- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Cierre: Cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00J61CMH8/?tag=tolees-21)

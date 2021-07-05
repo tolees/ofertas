@@ -28,9 +28,9 @@ Está [Funko- Huckleberry-Pop 11 Collectible Toy  Multicolor  45543 ](https://ww
 
 ℹ️:
 
+- From star wars: mandalorian, offworld jawa, as a stylized pop vinyl from funko
+- Check out the other disney figures from funko and collect them all
 - Funko pop; is the 2018 toy of the year and peoples choice award winner
 - Figure stands 9.5cm and comes in a window display box
-- Check out the other disney figures from funko and collect them all
-- From star wars: mandalorian, offworld jawa, as a stylized pop vinyl from funko
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W59JZM1/?tag=tolees-21)

@@ -29,7 +29,7 @@ Está [Guess Analógico W1280L2](https://www.amazon.es/dp/B07VQ1LTRN/?tag=tolees
 ℹ️:
 
 - 8 milimetros calendario - -
-- Analógico para Unisex Adulto
 - Guess Modelo Reloj W1280L2
+- Analógico para Unisex Adulto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VQ1LTRN/?tag=tolees-21)

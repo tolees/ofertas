@@ -28,8 +28,8 @@ Tienes [HUAWEI WiFi AX3 - Router Dual-core WiFi 6 Plus Revolution 3000 Mbps  Tec
 
 ℹ️:
 
-- Mayor ancho de banda con 160 MHz para una experiencia sin precedentes y sin latencia en tus dispositivos móviles.
 - Con este router mejorarás tu cobertura, la señal llega incluso a la habitación más lejana.
+- Mayor ancho de banda con 160 MHz para una experiencia sin precedentes y sin latencia en tus dispositivos móviles.
 - Mejora la calidad de tu internet con WiFi 6 Plus: 3000 Mbps y tecnología OFDMA multiusuario para conectar hasta 128 Dispositivos en Doble Banda.
 - Más velocidad de conexión en tu hogar, superará tu imaginación.
 
