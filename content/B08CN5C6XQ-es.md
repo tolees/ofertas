@@ -28,10 +28,10 @@ Está [Desigual JERS Pacifico Sudadera  Negro  L para Hombre](https://www.amazon
 
 ℹ️:
 
-- Corte estándar
-- Jersey de punto Kulimania
-- Elástico en cintura y dobladillos
 - Cuello redondo
 - Mensajes de Kulimania
+- Jersey de punto Kulimania
+- Corte estándar
+- Elástico en cintura y dobladillos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CN5C6XQ/?tag=tolees-21)

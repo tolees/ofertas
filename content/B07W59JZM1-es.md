@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Huckleberry-Pop 11 Collectible To al 46.15 % de descuento'
-date: 2021-07-01 19:27:40
+date: 2021-07-05 18:40:40
 image: 'https://m.media-amazon.com/images/I/41MgWAoTTvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Funko- Huckleberry-Pop 11 Collectible Toy  Multicolor  45543 ](https://ww
 
 ℹ️:
 
-- Check out the other disney figures from funko and collect them all
-- Figure stands 9.5cm and comes in a window display box
 - Funko pop; is the 2018 toy of the year and peoples choice award winner
+- Figure stands 9.5cm and comes in a window display box
+- Check out the other disney figures from funko and collect them all
 - From star wars: mandalorian, offworld jawa, as a stylized pop vinyl from funko
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W59JZM1/?tag=tolees-21)
