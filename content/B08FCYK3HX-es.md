@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Meridiem Games - Asterix & Obelix Xxl -  con un 46.19 % de descuento'
-date: 2021-06-29 08:12:06
+title: 'Meridiem Games - Asterix & Obelix Xxl -  con un 50.01 % de descuento'
+date: 2021-07-05 06:31:39
 image: 'https://m.media-amazon.com/images/I/51BH2rHljpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08FCYK3HX-es Meridiem Games - Asterix & Obelix Xxl - Romastered'
 sku: 'B08FCYK3HX-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','meridiem games', ]
-actualPrice: 26.9 EUR
+actualPrice: 24.99 EUR
 currency: EUR
-price: 26.9
+price: 24.99
 comparePrice: 49.99 EUR
 prodname: 'Meridiem Games - Asterix & Obelix Xxl - Romastered'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B08FCYK3HX/?tag=tolees-21'
-descuento: '46.19'
-average: '29.5929411764704'
+descuento: '50.01'
+average: '29.5262318840578'
 ---
 
-En este momento está [Meridiem Games - Asterix & Obelix Xxl - Romastered](https://www.amazon.es/dp/B08FCYK3HX/?tag=tolees-21) a 26.9 EUR (original: 49.99 EUR) (46.19 %  de descuento) en el siguiente enlace!
+En este momento está [Meridiem Games - Asterix & Obelix Xxl - Romastered](https://www.amazon.es/dp/B08FCYK3HX/?tag=tolees-21) a 24.99 EUR (original: 49.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
 [![Meridiem Games - Asterix & Obelix Xxl - ](https://m.media-amazon.com/images/I/51BH2rHljpL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08FCYK3HX/?tag=tolees-21)
 
