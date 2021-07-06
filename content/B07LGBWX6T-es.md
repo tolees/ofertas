@@ -28,9 +28,9 @@ Está [Skechers Summits  Zapatillas Mujer  Rosado  Ros Black Mesh/Trim   38 EU](
 
 ℹ️:
 
-- Diseño de zapatilla deportiva con frontal elástico de estilo casual
-- Parte superior de flat knit mesh de una sola pieza
 - Costuras de adorno
+- Parte superior de flat knit mesh de una sola pieza
+- Diseño de zapatilla deportiva con frontal elástico de estilo casual
 - Paneles estabilizadores de malla knit para mayor comodidad
 - Diseño superior sin costuras
 

@@ -28,7 +28,7 @@ Ahora mismo tienes [Jack & Jones Jjimarco Jjbowie Sa Noos Pantalones  Azul  Navy
 
 🔎:
 
-- elastic cotton quality
 - chino pants and slim fit
+- elastic cotton quality
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JQ8P8B2/?tag=tolees-21)
