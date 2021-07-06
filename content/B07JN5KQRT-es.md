@@ -28,8 +28,8 @@ Tienes [adidas Tiro GS Bolsa de Deporte  Unisex Adulto  Black/White  NS](https:/
 
 ℹ️:
 
-- Gym Sack
 - Closure with cord
+- Gym Sack
 - Large main Compartiment
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07JN5KQRT/?tag=tolees-21)
