@@ -28,10 +28,10 @@ En este momento está [MSI B450 Tomahawk MAX II Placa Base Gaming  AMD Ryzen 300
 
 🔎:
 
-- Mystic light- personaliza tu pc con hasta 16.8 millones de colores
-- Steel armor - fortalece tu sistema con pci-e steel armor, con más puntos de soldadura y un refuerzo de acero para proteger tus dispositivos pci-e
-- Extended heatsink - con más núcleos, el diseño térmico y de potencia es más importante para garantizar que la temperatura se mantenga baja
-- Core boost- optimizado diseño de alimentación y trazos para soportar mas núcleos y obtener mejor rendimiento
 - DDR4 BOOST - tecnología avanzada para proporcionar señales puras para la mayor estabilidad
+- Extended heatsink - con más núcleos, el diseño térmico y de potencia es más importante para garantizar que la temperatura se mantenga baja
+- Mystic light- personaliza tu pc con hasta 16.8 millones de colores
+- Core boost- optimizado diseño de alimentación y trazos para soportar mas núcleos y obtener mejor rendimiento
+- Steel armor - fortalece tu sistema con pci-e steel armor, con más puntos de soldadura y un refuerzo de acero para proteger tus dispositivos pci-e
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L598DYN/?tag=tolees-21)

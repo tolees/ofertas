@@ -28,10 +28,10 @@ En este momento está [PUMPKIN 10.1" DVD Portátil Coche 2 Pantallas para Niño 
 
 🔎:
 
+- 2 Auriculares Cerrados : 2 pares de auriculares con sonido claro y detallado, lo que le brinda una experiencia auditiva inmersiva.
+- Doble Pantalla: 10.1" reproductor DVD viene con 2 pantalla (Una de ellas es la pantalla principal.) puede transmitir el mismo video en cada una de sus pantallas TFT HD de 10.1 pulgadas y mantener entretenidos a los niños durante largos períodos de tiempo.
 - 18 Meses de Garantía: Ofrecemos 18 meses de garantía para todos los productos de Pumpkin. No dude en contactar con nosotros cuando tenga alguna pregunta. Estamos siempre a su disposición.
 - Diseño Humanizado: Viene con La función de memoría, Equipado con 2 correas de montaje, conveniente para instalar y ajustar el reposacabezas de diferentes tamaños. Diseño humanizado, conveniente para cambiar los discos con el reproductor montado.
-- Doble Pantalla: 10.1" reproductor DVD viene con 2 pantalla (Una de ellas es la pantalla principal.) puede transmitir el mismo video en cada una de sus pantallas TFT HD de 10.1 pulgadas y mantener entretenidos a los niños durante largos períodos de tiempo.
 - Reproductor DVD Multiregion: Soporte de la reproducción de USB/SD/MMC, la capacidad máxima de SD es 128GB. (Nota: Se debe ser convertida en formato FAT32.). Formatos Compatibles(La resolución del video es de 720 * 576 o menos): DVD / SVCD / VCD / CD / MP3 / JPG / AVI / AVI / MPEG / DIVX de 6 regiones.
-- 2 Auriculares Cerrados : 2 pares de auriculares con sonido claro y detallado, lo que le brinda una experiencia auditiva inmersiva.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Q8STRWR/?tag=tolees-21)

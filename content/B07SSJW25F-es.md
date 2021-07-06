@@ -28,12 +28,12 @@ Tienes [Geox U Renan A  Zapatillas Hombre  Gris  Taupe C6029   40 EU](https://ww
 
 ℹ️:
 
-- Revestimiento: Malla
-- Material de la suela: Goma
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Altura del tacón: 2.5 centímetros
-- Cierre: Cordones
 - Material exterior: Sintético
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Material de la suela: Goma
 - Tipo de tacón: Plano
+- Revestimiento: Malla
+- Cierre: Cordones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SSJW25F/?tag=tolees-21)
