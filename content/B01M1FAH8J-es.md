@@ -28,8 +28,8 @@ En este momento está [Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con C
 
 🔎:
 
-- Diámetro de la caja: 39 mm; grosor de la caja: 11 mm
 - Material de la correa: acero inoxidable; movimiento: analógico-cuarzo
 - Ancho de la correa: 18 mm; circunferencia de la correa: 190 +/- 5 mm
+- Diámetro de la caja: 39 mm; grosor de la caja: 11 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M1FAH8J/?tag=tolees-21)

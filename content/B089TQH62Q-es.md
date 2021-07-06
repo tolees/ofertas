@@ -28,10 +28,10 @@ Ahora mismo tienes [Asics Jolt 3  Road Running Shoe Mujer  French Blue/Hot Pink 
 
 🔎:
 
+- Suela SPEVA
+- Amortiguación de gel
 - Innovador material de malla
 - SISTEMA TÚSICO
 - Tecnología FLYTEFOAM
-- Suela SPEVA
-- Amortiguación de gel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089TQH62Q/?tag=tolees-21)
