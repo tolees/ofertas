@@ -28,9 +28,9 @@ Tienes [Helly Hansen W Aden Insulated Coat Rain Jacket  Mujer  Negro  L](https:/
 
 ℹ️:
 
-- Helly Tech construction
 - Primaloft Black Eco 60g quilted insulation coat
-- Packable hood
+- Helly Tech construction
 - Waterproof, windproof and breathable
+- Packable hood
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01ET4MXR0/?tag=tolees-21)
