@@ -28,11 +28,11 @@ Está [WMF Kult Cafetera Italiana  Inducción  Acero Inoxidable Mate  6 Tazas](h
 
 ℹ️:
 
-- Cafetera fabricada en Cromargan acero inoxidable 18/10
-- Capacidad para 6 tazas de espresso
-- Diseñado por Metz & Kindler
-- Resistente a la corrosión de los ácidos de los alimentos y a las rayaduras
 - Válido para todo tipo de cocinas, incluida inducción
+- Diseñado por Metz & Kindler
 - Base Transtherm full induction que permite una óptima distribución y retención del calor
+- Capacidad para 6 tazas de espresso
+- Cafetera fabricada en Cromargan acero inoxidable 18/10
+- Resistente a la corrosión de los ácidos de los alimentos y a las rayaduras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0006IRPFY/?tag=tolees-21)
