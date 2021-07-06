@@ -28,9 +28,9 @@ En este momento está [PNY Memoria USB Attaché 4 3.1 128GB](https://www.amazon.
 
 🔎:
 
-- Memoria usb 3.1, retrocompatible con usb 3.0 y usb 2.0
-- Hasta 10 veces más rápida que los pendrives usb 2.0 estándares
 - Diseño duradero, ligero y deslizante
+- Hasta 10 veces más rápida que los pendrives usb 2.0 estándares
+- Memoria usb 3.1, retrocompatible con usb 3.0 y usb 2.0
 - Compatible con ordenadores portátiles y de sobremesa pc y mac
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XTW7SY8/?tag=tolees-21)

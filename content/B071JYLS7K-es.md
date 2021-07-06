@@ -28,8 +28,8 @@ Ahora mismo tienes [Benro Slim CF Tripod Kit w N00 Ball Head](https://www.amazon
 
 🔎:
 
-- Aluminio
 - Alta calidad
+- Aluminio
 - Benro slim cf tripod kit w n00 ball head
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071JYLS7K/?tag=tolees-21)

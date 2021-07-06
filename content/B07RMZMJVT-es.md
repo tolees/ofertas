@@ -28,10 +28,10 @@ Ahora mismo tienes [Science4you-5600983608658 Ciencia Explosiva Kaboom para Niñ
 
 🔎:
 
-- un manual ilustrado les girará a lo largo del descubrimiento de la ciencia de las explosiones
-- incluye 14 experimentos científicos y un libro educativo con 36 páginas para te acompañar en todos los experimentos
-- transfórmate en un increíble científico mientras te diviertes haciendo explosiones sorprendentes
-- usa ingredientes que tengas en casa para crear explosiones científicas
 - construye un divertido cohete y fabrica tus bombas efervescentes
+- un manual ilustrado les girará a lo largo del descubrimiento de la ciencia de las explosiones
+- transfórmate en un increíble científico mientras te diviertes haciendo explosiones sorprendentes
+- incluye 14 experimentos científicos y un libro educativo con 36 páginas para te acompañar en todos los experimentos
+- usa ingredientes que tengas en casa para crear explosiones científicas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RMZMJVT/?tag=tolees-21)

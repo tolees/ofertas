@@ -28,8 +28,8 @@ En este momento está [Pepe Jeans Regent Vaqueros  Azul  Whisper Wash Medium Use
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Pepe Jeans
 - Vaqueros para mujer
+- Tienen un parche de piel en la parte trasera con la marca Pepe Jeans
 - Estilo 5 bolsillos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HYST8TH/?tag=tolees-21)
