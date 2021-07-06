@@ -30,7 +30,7 @@ Está [Brabantia 112126 Cubo de Basura con Pedal  Acero Inoxidable  Blanco  3 l]
 
 - Cierre a prueba de olores
 - Base antideslizante – protege el suelo y hace que el cubo permanezca estable en su sitio
-- Fácil de limpiar – con cubo interior extraíble
 - Incluye un paquete muestra de bolsas PerfectFit de Brabantia – fáciles de colocar evitando el antiestético efecto de sobresalir del borde
+- Fácil de limpiar – con cubo interior extraíble
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LXCYQLR/?tag=tolees-21)

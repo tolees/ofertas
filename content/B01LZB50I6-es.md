@@ -28,9 +28,9 @@ Está [Brabantia GG172  Cubo de basura de pedal de 3 litros  color acero brillan
 
 ℹ️:
 
-- Base antideslizante – protege el suelo y hace que el cubo permanezca estable en su sitio
 - Incluye un paquete muestra de bolsas PerfectFit de Brabantia – fáciles de colocar evitando el antiestético efecto de sobresalir del borde
-- Fácil de limpiar – con cubo interior extraíble
 - Cierre a prueba de olores
+- Fácil de limpiar – con cubo interior extraíble
+- Base antideslizante – protege el suelo y hace que el cubo permanezca estable en su sitio
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LZB50I6/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Mobiclinic  PY04  Pulsioxímetro de dedo  Oxímetro de pu
 
 🔎:
 
-- DISEÑO COMPACTO Y LIGERO: por sus dimensiones y peso es ideal para transportarlo siempre contigo allá donde lo necesites
-- POCO CONSUMO: solo requiere dos pilas AAA (incluídas) que consumen menos de 40 mA. Además, cuenta con un indicador de batería baja para que no te coja desprevenido, y dispone de un sistema de apagado automático que se activa cuando el dispositivo pasa más de 8 segundos sin actividad
 - MOBICLINIC S.L. es una empresa fabricante líder de mobiliario clínico y hospitalario, ayudas técnicas y ortopedia, que ofrece la mejor calidad y confianza a sus clientes desde 1985.
-- MEDICIÓN NO INVASIVA: de la concentración de oxígeno en sangre (sin muestras de sangre) y la frecuencia cardíaca
 - PRECISIÓN: con el pulsioxímetro podrás determinar el porcentaje de saturación de oxígeno de hemoglobina en sangre de una manera exacta y segura
+- POCO CONSUMO: solo requiere dos pilas AAA (incluídas) que consumen menos de 40 mA. Además, cuenta con un indicador de batería baja para que no te coja desprevenido, y dispone de un sistema de apagado automático que se activa cuando el dispositivo pasa más de 8 segundos sin actividad
+- DISEÑO COMPACTO Y LIGERO: por sus dimensiones y peso es ideal para transportarlo siempre contigo allá donde lo necesites
+- MEDICIÓN NO INVASIVA: de la concentración de oxígeno en sangre (sin muestras de sangre) y la frecuencia cardíaca
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086GXRH83/?tag=tolees-21)

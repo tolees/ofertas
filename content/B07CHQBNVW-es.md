@@ -28,10 +28,10 @@ Ahora mismo tienes [GUESS Reloj Analógico para Mujer de Cuarzo con Correa en Ac
 
 🔎:
 
+- Material Correa: Acero, Color: Plateado
 - Material Caja: Acero, Color: Plateado
+- Tamaño: 36MM
 - GUESS WATCHES LADIES MOD HEAVY METAL
 - Movimiento: Cuarzo, Display: Analógico
-- Material Correa: Acero, Color: Plateado
-- Tamaño: 36MM
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CHQBNVW/?tag=tolees-21)

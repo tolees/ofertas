@@ -29,9 +29,9 @@ Ahora mismo tienes [Lansay 33131 – Set de creación Cutie Stix Set](https:/
 🔎:
 
 - Con el set de creación Cutie Stix podrás crear joyas a partir de perlas divertidas y multicolores
-- Corta los Stix y crea hermosas perlas hasta el infinito Formas múltiples: mariposas, corazones, helados, etc. Gran cantidad de creaciones: pulseras, collares, no existen los límites
 - Contiene: 15 Stix de 2 tamaños: 2 grandes y 13 medianos, 1 taller de corte, 1 varilla, 2 moldes de corte, 8 cierres
 - Fácil de usar Un primer taller te ayuda a cortar los Stix del tamaño que desees Utiliza luego el segundo taller para perforarlas y transformarlas en perlas
+- Corta los Stix y crea hermosas perlas hasta el infinito Formas múltiples: mariposas, corazones, helados, etc. Gran cantidad de creaciones: pulseras, collares, no existen los límites
 - 12 conectores, 1 taller de perforación, 1 varilla, 2 cajas plásticas, 2 bobinas de hilo elástico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XJ57XGH/?tag=tolees-21)

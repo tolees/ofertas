@@ -28,10 +28,10 @@ Ahora mismo tienes [Tommee Tippee Grofriend - Ollie el Búho  Recargable USB  co
 
 🔎:
 
-- 6 sonidos relajantes naturales: puedes configurar al duermebebé para que reproduzca cualquiera de los 6 sonidos relajantes naturales disponibles
-- Luz nocturna regulable: puedes configurar la luz con forma de corazón situada en la barriga de los  duermebebés.
 - El 85 % de los bebés duermen mejor con el duermebebés con luz y sonido Tommee Tippee
 - Tecnología inteligente crysensor: si el bebé llora, el duermebebés con luz y sonido reproducirá 20 minutos de sonidos relajantes o nanas para que el bebé se vuelva a dormir.
+- 6 sonidos relajantes naturales: puedes configurar al duermebebé para que reproduzca cualquiera de los 6 sonidos relajantes naturales disponibles
 - Recargable mediante USB: el duermebebés con luz y sonido se puede cargar con un cable USB, de manera que te permite ahorrar dinero al no tener que cambiar las pilas de manera periódica.
+- Luz nocturna regulable: puedes configurar la luz con forma de corazón situada en la barriga de los  duermebebés.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0825KK7JN/?tag=tolees-21)
