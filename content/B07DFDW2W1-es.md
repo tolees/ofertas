@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! The Simpsons - Figura de Vi al 43.89 % de descuento'
-date: 2021-07-02 11:16:12
+date: 2021-07-06 13:40:37
 image: 'https://m.media-amazon.com/images/I/31EINuK4BpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07DFDW2W1/?tag=tolees-21'
 descuento: '43.89'
-average: '10.5006060606063'
+average: '10.4550000000002'
 ---
 
 Está [Funko - Pop! The Simpsons - Figura de Vinilo Maggie Simpson](https://www.amazon.es/dp/B07DFDW2W1/?tag=tolees-21) con 43.89 de descuento por 8.95 EUR (original: 15.95 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Funko - Pop! The Simpsons - Figura de Vinilo Maggie Simpson](https://www.
 
 ℹ️:
 
-- Funko pop
+- Licencia oficial
 - Nº 498
 - Colección los simpsons
 - Figura coleccionable
-- Licencia oficial
+- Funko pop
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DFDW2W1/?tag=tolees-21)
