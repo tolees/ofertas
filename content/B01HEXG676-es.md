@@ -28,9 +28,9 @@ Está [Crocs Crocband Clog K  Zuecos Unisex Niños  34/35 EU  Azul  Cerulean Blu
 
 ℹ️:
 
-- Código Fabricante: 204537
 - Parte Superior: Croslite
-- Ajuste De La Anchura: Relajado
 - Guarnición: Croslite
+- Código Fabricante: 204537
+- Ajuste De La Anchura: Relajado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HEXG676/?tag=tolees-21)

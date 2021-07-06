@@ -28,9 +28,9 @@ Está [Brabantia Newicon Cubo de Basura con Pedal  Acero Inoxidable  Menta Metal
 
 ℹ️:
 
-- Cierre a prueba de olores
 - Incluye un paquete muestra de bolsas PerfectFit de Brabantia – fáciles de colocar evitando el antiestético efecto de sobresalir del borde
 - Fácil de limpiar – con cubo interior extraíble
+- Cierre a prueba de olores
 - Base antideslizante – protege el suelo y hace que el cubo permanezca estable en su sitio
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LZMYAH1/?tag=tolees-21)

@@ -29,8 +29,8 @@ Tienes [Paladone Sven Icon Light Official Star Wars Collectable | Ideal para dor
 🔎:
 
 - Deja que nieve: brilla un poco de luz en tu propio reino con esta divertida y adorable lámpara de iconos sven; es leal, cálido y amigable, así que asegúrate de tener este maravilloso reno junto a tu cama en todo momento
-- Producto oficial de frozen. 10 cm (4) luz 3d coleccionable con pilas de alta calidad (2 pilas aaa no incluidas)
 - Regalo perfecto: la lámpara está sobre una base negra que cuenta con el logotipo congelado; tiene 10 cm de alto, requiere dos pilas aaa para funcionar, y es un bonito regalo en cumpleaños y navidad
+- Producto oficial de frozen. 10 cm (4) luz 3d coleccionable con pilas de alta calidad (2 pilas aaa no incluidas)
 - Novedoso y original: para aquellos en el fandom que buscan artículos novedosos y todas las cosas geek, loca y único, paladone es tu mejor fuente para juguetes, tazas, coleccionables y novedades
 - : este producto está fabricado con bdp que significa que el plástico se descompone
 

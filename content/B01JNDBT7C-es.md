@@ -28,10 +28,10 @@ Ahora mismo tienes [Seiko Reloj Analógico Automático Unisex – SRPA27K1](http
 
 🔎:
 
-- Automático
-- Casual
-- WR 100mt
 - Negro y Negro
+- Casual
 - Analógico en Piel para Hombre
+- Automático
+- WR 100mt
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01JNDBT7C/?tag=tolees-21)

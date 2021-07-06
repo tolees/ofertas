@@ -28,8 +28,8 @@ Tienes [Levi s LEVIS FOOTWEAR AND ACCESSORIESBatwing Tote WMujerBolsos totesNegr
 
 🔎:
 
+- Con nuestro emblemático logo batwing
 - Esta bolsa tote es perfecta para llevar cualquier cosa y resulta muy práctica
 - Está confeccionada con algodón resistente muy fácil de llevar y de cuidar
-- Con nuestro emblemático logo batwing
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077GVXZV4/?tag=tolees-21)
