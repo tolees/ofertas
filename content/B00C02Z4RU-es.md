@@ -28,8 +28,8 @@ Tienes [Theo Klein-1653 Princess coralie bolsa de pañales  juguete  Multicolor 
 
 🔎:
 
+- Para cuidar a tu muñeco favorito.
 - Para muchas horas de diversión.
 - Bolsa de pañales.
-- Para cuidar a tu muñeco favorito.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00C02Z4RU/?tag=tolees-21)

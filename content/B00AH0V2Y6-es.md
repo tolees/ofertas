@@ -28,11 +28,11 @@ Está [Cata 900200 E-100 GTH Extractor de Aire para Baño Silencioso Serie E  8 
 
 ℹ️:
 
-- Potencia Absorbida: 4 y 8 W
-- Sistema de extracción perimetral
-- Frontal de cristal. Carcasa y turbina de alto rendimiento
-- HYGRO Detector de humedad regulable entre el 40% y el 90%, y temporizador electrónico regulable entre 0 y 15 minutos.
-- Caudal máximo: 36 y 115 m3 /h
 - Presión sonora: 17 y 31 dB (A)
+- Caudal máximo: 36 y 115 m3 /h
+- HYGRO Detector de humedad regulable entre el 40% y el 90%, y temporizador electrónico regulable entre 0 y 15 minutos.
+- Potencia Absorbida: 4 y 8 W
+- Frontal de cristal. Carcasa y turbina de alto rendimiento
+- Sistema de extracción perimetral
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00AH0V2Y6/?tag=tolees-21)

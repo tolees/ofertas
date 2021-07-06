@@ -29,9 +29,9 @@ Está [Grohe SilverFlex - Flexo con pieza de unión giratoria para la función T
 ℹ️:
 
 - Resistencia a la presión hasta 5 bar
+- Superficie lisa que facilita la limpieza
 - Antibloqueo flexible
 - Resistencia al calor 70°C
 - Resistencia a la tracción 500 N
-- Superficie lisa que facilita la limpieza
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003BQ1CTI/?tag=tolees-21)
