@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.10 % en WMF Perfect Plus - Cuerpo olla rápida de'
-date: 2021-06-19 12:43:23
+date: 2021-07-07 14:44:04
 image: 'https://m.media-amazon.com/images/I/31X2YbfFUeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,10 @@ Tienes [WMF Perfect Plus - Cuerpo olla rápida de 22 cm de diámetro de 6 5 litr
 
 ℹ️:
 
-- Con marcación interior para una dosificación exacta
-- Volumen aproximativo de 6.5 litros
-- Se pueden elegir dos niveles de cocción diferentes: 110º C en el primer anillo de color naranja para verduras, pescado o pollo y 119º C en el segundo anillo de color naranja para comidas menos delicadas y carne
-- Con base patentada universal TransTherm apta para inducción
-- Olla a presión con una altura de 22 cm
-- Hecha de material de acero inoxidable
-- Sin inserto, con protección de la presión residual y retardante de llama
-- Fácil limpieza gracias a su mango desmontable
+- Material: Cromargan acero inoxidable 18/10, fácil de limpiar y resistente a los ácidos de los alimentos
+- Apto para todo tipo de cocinas incluido inducción
+- Apta para lavavajillas
+- Base Transtherm full induction
+- Cuerpo de olla rápida de la gama Perfect Plus de 6,5 L y 22 cm de diámetro - 18 cm altura
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000XG6P5K/?tag=tolees-21)

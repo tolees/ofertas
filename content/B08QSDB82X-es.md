@@ -29,9 +29,9 @@ Ahora mismo tienes [Silla de Oficina ergonómica Hbada  Silla de Escritorio con 
 🔎:
 
 - MALLA TRANSPIRABLE: el respaldo curvo ventilado proporciona soporte lumbar y flujo de aire, borde del asiento que alivia la presión
+- PALANCA DE TENSIÓN DE INCLINACIÓN - Empuje hacia adentro para bloquear en una posición vertical, tire hacia afuera para activar el movimiento de balanceo
 - BRAZOS QUE AHORRAN ESPACIO: los brazos abatibles funcionales permiten un fácil acceso mientras que el borde del asiento en cascada alivia la presión de la parte posterior de las piernas.
 - IDEA DE REGALO PERFECTA Y SIN PREOCUPACIONES: giro de 360 grados, hecho de ruedas silenciosas de alta resistencia. Capacidad máxima de hasta 250 libras. ¡Garantizamos a nuestros clientes un 100% de satisfacción con nuestra silla de escritorio premium! Si no está satisfecho con esta silla ejecutiva, envíenos un correo electrónico y obtenga un reemplazo o un reembolso completo SIN EXCUSA.
-- PALANCA DE TENSIÓN DE INCLINACIÓN - Empuje hacia adentro para bloquear en una posición vertical, tire hacia afuera para activar el movimiento de balanceo
 - REPOSACABEZAS Y SOPORTE LUMBAR: la silla de oficina ajustable incluye reposacabezas ajustable y soporte lumbar que le permite descansar la cabeza y el cuello mientras trabaja y. ¡Ahora puede encontrar rápidamente una posición que lo haga sentir más cómodo!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08QSDB82X/?tag=tolees-21)

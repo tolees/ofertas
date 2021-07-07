@@ -28,8 +28,8 @@ Está [adidas Gazelle Vintage  Sneaker Hombre  Cream White/Core Black/Blue  39 1
 
 ℹ️:
 
-- Corte regular
 - Cordones de zapatos
 - Suela de goma
+- Corte regular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PPJ1R1Z/?tag=tolees-21)

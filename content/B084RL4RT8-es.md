@@ -28,8 +28,8 @@ En este momento está [Levi s 501 Hemmed Denim Shorts  Bratwurst Ltwt Short  33 
 
 🔎:
 
-- Quedan por encima de la rodilla
 - Se asientan en la cintura
 - Vaqueros con corte estándar en el muslo
+- Quedan por encima de la rodilla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084RL4RT8/?tag=tolees-21)

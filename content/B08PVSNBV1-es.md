@@ -28,8 +28,8 @@ Está [adidas Campus 80s  Zapatillas Deportivas Hombre  Collegiate Burgundy FTWR
 
 ℹ️:
 
+- Diseño minimalista y líneas limpias
 - Zapatillas icónicas con 3 rayas
 - Look Old School
-- Diseño minimalista y líneas limpias
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PVSNBV1/?tag=tolees-21)

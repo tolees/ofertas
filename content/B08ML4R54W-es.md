@@ -28,9 +28,9 @@ Tienes [NK - Mascarilla EPI GF3- Mascarillas de Protección Personal FFP2 NR 95%
 
 🔎:
 
-- 😷 Ajuste adaptable: posee un alambre superior frontal ajustable a la parte de la nariz para una mejor sujeción y mayor protección.
 - 😷 Composición multitejido: esta mascarilla de protección personal está compuesta por un 68,4% de textil tejido, un 14% de algodón, un 17% de microfibras no tejidas y un 0,6% de aluminio presente en la sujeción en la parte frontal superior.
 - 😷 95% de efectividad: protección de clase FFP2 que asegura un 95% de eficiencia frente a la filtración de partículas como bacterias desde el exterior.
 - 😷 Mascarillas FFP2 NT protección personal (Formato individual): mascarillas de protección personal de clase FFP2 con envase individual y divisible. Posee una capacidad de filtrado del 95% frente a la filtración de partículas desde el exterior. Hasta un uso máximo de 8 a 10 horas.
+- 😷 Ajuste adaptable: posee un alambre superior frontal ajustable a la parte de la nariz para una mejor sujeción y mayor protección.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08ML4R54W/?tag=tolees-21)

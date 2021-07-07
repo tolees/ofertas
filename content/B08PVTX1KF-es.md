@@ -28,8 +28,8 @@ Está [adidas Runfalcon 2.0  Sneaker Hombre  Semi Night Flash/Core Black/Scarlet
 
 ℹ️:
 
-- malla y parte superior de cuero sintético
-- Cordones de zapatos
 - Suela de goma
+- Cordones de zapatos
+- malla y parte superior de cuero sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PVTX1KF/?tag=tolees-21)
