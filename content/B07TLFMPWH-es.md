@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s XX Chino Std II Khakis  Blue  Baltic Navy Shady GD Cc
 
 🔎:
 
+- Pantalones chinos de corte estándar
 - Entallado gradual hasta el tobillo
 - Tacto suave y agradable
-- Pantalones chinos de corte estándar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TLFMPWH/?tag=tolees-21)

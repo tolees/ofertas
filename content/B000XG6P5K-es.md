@@ -28,9 +28,9 @@ Tienes [WMF Perfect Plus - Cuerpo olla rápida de 22 cm de diámetro de 6 5 litr
 
 ℹ️:
 
-- Material: Cromargan acero inoxidable 18/10, fácil de limpiar y resistente a los ácidos de los alimentos
 - Apto para todo tipo de cocinas incluido inducción
 - Apta para lavavajillas
+- Material: Cromargan acero inoxidable 18/10, fácil de limpiar y resistente a los ácidos de los alimentos
 - Base Transtherm full induction
 - Cuerpo de olla rápida de la gama Perfect Plus de 6,5 L y 22 cm de diámetro - 18 cm altura
 

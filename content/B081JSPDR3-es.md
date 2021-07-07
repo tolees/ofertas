@@ -28,9 +28,9 @@ En este momento está [adidas Selección Española Temporada 2020/21 Conjunto Pr
 
 🔎:
 
+- Cuello de pico de canalé
 - Pantalón corto: interlock 100% poliéster reciclado
 - Diseño inspirado en la primera equipación de la selección española
-- Cuello de pico de canalé
 - Camiseta: punto doble 51% poliéster, 49% poliéster reciclado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081JSPDR3/?tag=tolees-21)

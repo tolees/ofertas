@@ -28,8 +28,8 @@ Tienes [Levi s Vneck Camiseta  White  White + 0002   Medium para Mujer](https://
 
 🔎:
 
-- Tiene bordado en el pecho la marca Levis
 - Modelo casual
 - Con suave tejido y el corte clásico
+- Tiene bordado en el pecho la marca Levis
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RY9L9YW/?tag=tolees-21)
