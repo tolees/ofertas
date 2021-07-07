@@ -28,10 +28,10 @@ En este momento está [Smoby- Cocina juguete evolutiva  Color gris  312300    co
 
 🔎:
 
-- ¡La cocina Evolutiva de Smoby que crece con los niños Gracias a la encimera de altura ajustable, la cocina de diseño se puede adaptar fácilmente al tamaño del niño; los dos zócalos frontales hacen crecer 8 cm la altura de esta cocina de juguete
-- Realizada con plástico soplado que garantiza la estabilidad para un juego seguro; con horno con rejilla extraíble, nevera con estante, vitrocerámica con función bubble, donde el agua burbujea con solo tocar un botón, fregadero, campana de humos, máquina de café espresso y zona de comedor
-- Dimensiones del producto 118 x 44 x 101 cm; adecuada a partir de 3 años
-- Con pasta mágica, que cambia de color al sumergirla en el agua, los niños pueden "cortar" la zanahoria en rodajas individuales
 - Además incluye una gran cantidad de accesorios como salero y pimentero, vajilla, utensilios de cocina, vasos, tazas y diversos envases de alimentos completan los 40 accesorios
+- Con pasta mágica, que cambia de color al sumergirla en el agua, los niños pueden "cortar" la zanahoria en rodajas individuales
+- ¡La cocina Evolutiva de Smoby que crece con los niños Gracias a la encimera de altura ajustable, la cocina de diseño se puede adaptar fácilmente al tamaño del niño; los dos zócalos frontales hacen crecer 8 cm la altura de esta cocina de juguete
+- Dimensiones del producto 118 x 44 x 101 cm; adecuada a partir de 3 años
+- Realizada con plástico soplado que garantiza la estabilidad para un juego seguro; con horno con rejilla extraíble, nevera con estante, vitrocerámica con función bubble, donde el agua burbujea con solo tocar un botón, fregadero, campana de humos, máquina de café espresso y zona de comedor
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PT13ZBM/?tag=tolees-21)

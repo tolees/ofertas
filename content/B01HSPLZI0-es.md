@@ -28,9 +28,9 @@ Tienes [SOTYA - SOTYA Polen 100 comprimidos 600 mg](https://www.amazon.es/dp/B01
 
 ℹ️:
 
-- Propiedades depurativas, energizantes y revitalizantes
-- Aumenta la resistencia a la fatiga y la capacidad intelectual
-- Compensa las demandas nutritivas que implica el estrés, convalecientes
 - De la marca Sotya
+- Aumenta la resistencia a la fatiga y la capacidad intelectual
+- Propiedades depurativas, energizantes y revitalizantes
+- Compensa las demandas nutritivas que implica el estrés, convalecientes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01HSPLZI0/?tag=tolees-21)

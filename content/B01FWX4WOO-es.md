@@ -28,10 +28,10 @@ Tienes [Outsunny Tumbona con Almohada Reclinable y Plegable de Jardín Exterior 
 
 🔎:
 
+- ✅Peso Neto: 4.8Kg, Capacidad de peso: 136Kg
 - ✅Almohada con cojin relleno de esponja comoda y lavable
 - ✅Dimension abierta totalmente: 153x60x29cm (L x An x Al)
-- ✅Estructura de metal estable y robusta de alta calidad
 - ✅Material Oxford con restimiento PVC resistente a rayos UVA e intemperie
-- ✅Peso Neto: 4.8Kg, Capacidad de peso: 136Kg
+- ✅Estructura de metal estable y robusta de alta calidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01FWX4WOO/?tag=tolees-21)
