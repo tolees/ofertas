@@ -28,8 +28,8 @@ Tienes [Levi s Housemark Polo  Mineral Black  M para Hombre](https://www.amazon.
 
 🔎:
 
-- Con un discreto logo en el pecho
 - Elaborado en punto suave
+- Con un discreto logo en el pecho
 - Modelo casual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KF4TNYM/?tag=tolees-21)

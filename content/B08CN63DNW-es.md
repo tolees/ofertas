@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Vest Claudia Vestimenta Casual  con un 50.06 % de descuento'
-date: 2021-06-30 15:47:07
+date: 2021-07-07 19:02:56
 image: 'https://m.media-amazon.com/images/I/51G8jDXH3mS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
