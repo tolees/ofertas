@@ -28,9 +28,9 @@ En este momento está [Campingaz C206 GLS - Cartucho De Gas Perforable  190 gr](
 
 🔎:
 
+- Cumple con la norma EN417
 - 20% de mezcla de propano para un mejor rendimiento
 - Funciona con la mayoría de los tipos comunes de estufas de gas
-- Cumple con la norma EN417
 - Se puede utilizar en tiempo frío, abajo tan bajo como -10° C
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KYVC3MI/?tag=tolees-21)

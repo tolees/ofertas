@@ -28,10 +28,10 @@ Tienes [Pepe Jeans Spike Jeans  Azul  Streaky Stretch Dk 000   33W / 32L para Ho
 
 ℹ️:
 
-- Vaqueros con tiro medio
 - Fit regular
-- Pierna recta
 - Doble bolsillo trasero
+- Vaqueros con tiro medio
+- Pierna recta
 - Tejido denim medio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VURW460/?tag=tolees-21)
