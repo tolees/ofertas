@@ -28,10 +28,10 @@ Tienes [Invicta Grand Diver 16034 Reloj para Hombre Automático - 47mm](https://
 
 ℹ️:
 
-- 2 años de garantía Invicta
 - El Invicta 16034 tiene una caja de acero inoxidable de 47 millimetros con una esfera negro
 - Resistencia a la presión de aqua de 30 bares
 - Este modelo es parte de la colección Invicta Grand Diver
 - Esta modelo funciona con un movimiento de Automático preciso
+- 2 años de garantía Invicta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00SLWUCSY/?tag=tolees-21)
