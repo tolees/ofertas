@@ -28,10 +28,10 @@ En este momento está [Converse Gris Carbón 1J793 CT AS HI Seasnl  Größe Schu
 
 🔎:
 
-- MÃ¡s informaciÃ³n: Core
-- Estilo: Sneaker High
-- Material: Canvas
 - Color: gris
 - NÃºmero del fabricante: 1J793C
+- Material: Canvas
+- Estilo: Sneaker High
+- MÃ¡s informaciÃ³n: Core
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000OLXD18/?tag=tolees-21)

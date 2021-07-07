@@ -29,7 +29,7 @@ En este momento está [Nike MD Valiant  TDV   Zapatillas Deportivas Unisex niño
 🔎:
 
 - Zapatillas deportivas
-- Estilo running de los años 90
 - Parte superior de malla transpirable
+- Estilo running de los años 90
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08Q8RHZPM/?tag=tolees-21)
