@@ -28,10 +28,10 @@ Tienes [Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa en Cuero y T
 
 🔎:
 
+- Grosor de la caja de 11,1 mm
 - Dos manecillas
 - Esfera gris
 - Correa de tela gris
 - 5 ATM de resistencia al agua
-- Grosor de la caja de 11,1 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KTPDHY4/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'APC by Schneider Electric APC BX500CI Ba al 37.77 % de descuento'
-date: 2021-07-05 19:52:45
+date: 2021-07-07 10:40:58
 image: 'https://m.media-amazon.com/images/I/41qc9JOiUuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'APC by Schneider Electric'
 buyurl: 'https://www.amazon.es/dp/B00IG2P92I/?tag=tolees-21'
 descuento: '37.77'
-average: '64.2266666666667'
+average: '61.345'
 ---
 
 Ahora mismo tienes [APC by Schneider Electric APC BX500CI Back-UPS BX - Sistema de alimentación ininterrumpida SAI 500VA  3 salidas tipo IEC  AVR   negro](https://www.amazon.es/dp/B00IG2P92I/?tag=tolees-21) a 52.7 EUR (original: 84.69 EUR) (37.77 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [APC by Schneider Electric APC BX500CI Back-UPS BX - Sistema 
 
 🔎:
 
-- Incluye: Manual de instrucciones
-- Regulación automática de voltaje (AVR)
 - 3 Salidas tipo IEC
 - Back-UPS BX Proporciona alimentación garantizada y protección contra sobretensiones, a ordenadores, HDD multimedia, WIFI, consolas de juegos, y otros dispositivos electrónicos
+- Regulación automática de voltaje (AVR)
 - 500VA / 300W
 - Longitud del cable: 1.82
+- Incluye: Manual de instrucciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00IG2P92I/?tag=tolees-21)
