@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Campingaz C206 GLS - Cartucho De Gas Per con un 66.56 % de descuento'
-date: 2021-07-05 13:16:54
+date: 2021-07-07 11:51:14
 image: 'https://m.media-amazon.com/images/I/51QfjJA-8-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CAMPINGAZ'
 buyurl: 'https://www.amazon.es/dp/B00KYVC3MI/?tag=tolees-21'
 descuento: '66.56'
-average: '1.3'
+average: '1.225'
 ---
 
 En este momento está [Campingaz C206 GLS - Cartucho De Gas Perforable  190 gr](https://www.amazon.es/dp/B00KYVC3MI/?tag=tolees-21) a 1.0 EUR (original: 2.99 EUR) (66.56 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Campingaz C206 GLS - Cartucho De Gas Perforable  190 gr](
 
 🔎:
 
-- Se puede utilizar en tiempo frío, abajo tan bajo como -10° C
+- 20% de mezcla de propano para un mejor rendimiento
 - Funciona con la mayoría de los tipos comunes de estufas de gas
 - Cumple con la norma EN417
-- 20% de mezcla de propano para un mejor rendimiento
+- Se puede utilizar en tiempo frío, abajo tan bajo como -10° C
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KYVC3MI/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Salomon XA Pro 3D V8 GTX  Zapatillas Impermeables de Trail Running y Sen
 
 🔎:
 
-- Color: Black/Black/Phantom
 - Salomon
 - Xa PRO 3D V8 GTX W
+- Color: Black/Black/Phantom
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081KGWR4H/?tag=tolees-21)

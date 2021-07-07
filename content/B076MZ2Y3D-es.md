@@ -29,14 +29,14 @@ En este momento está [Science4you - Juego fábrica de maquillaje - El mejor reg
 🔎:
 
 - Producir una base de maquillaje maravillosa y un buen desmaquillante
-- Experimentos para niños onde puedes crear exfoliantes para cuidar de tu piel
-- El regalo perfecto para las niñas de la casa
-- Un verdadero laboratorio de beleza y de maquillage infantil
 - Edad recomendada 8 años y más
-- Resolver misterios utilizando pintalabios y una impresionante sombra de ojos
-- Manual ilustrado con 36 páginas
-- Fabricar sombras de ojos y colorete para maquillarte con este kit de cosmética increíble
 - Hacer fantásticos pintalabios caseros y maquillajes para niñas
+- Un verdadero laboratorio de beleza y de maquillage infantil
+- Experimentos para niños onde puedes crear exfoliantes para cuidar de tu piel
+- Manual ilustrado con 36 páginas
+- Resolver misterios utilizando pintalabios y una impresionante sombra de ojos
+- Fabricar sombras de ojos y colorete para maquillarte con este kit de cosmética increíble
 - Este juego no es tóxico; es lavable y fácil de ensamblar
+- El regalo perfecto para las niñas de la casa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076MZ2Y3D/?tag=tolees-21)

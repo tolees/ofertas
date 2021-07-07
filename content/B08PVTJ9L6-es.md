@@ -29,7 +29,7 @@ Está [adidas Lite Racer RBN 2.0  Sneaker Hombre  Crew Navy/Footwear White/Grey 
 ℹ️:
 
 - Cordones de zapatos
-- Malla impresa en la parte superior
 - Corte regular
+- Malla impresa en la parte superior
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PVTJ9L6/?tag=tolees-21)

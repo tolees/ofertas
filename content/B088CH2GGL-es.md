@@ -28,10 +28,10 @@ Ahora mismo tienes [G-STAR RAW Kafey Ultra High Waist Skinny Jeans  Azul  Antic 
 
 🔎:
 
-- Talle alto
 - Bolsillos traseros altos
 - Etiqueta de G-Star RAW en la parte trasera de la cinturilla
-- Logotipo de G-Star RAW en el bolsillo para monedas
 - Construcción con cinco bolsillos
+- Logotipo de G-Star RAW en el bolsillo para monedas
+- Talle alto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088CH2GGL/?tag=tolees-21)

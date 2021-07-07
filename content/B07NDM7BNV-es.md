@@ -28,8 +28,8 @@ Ahora mismo tienes [Tous Kaos Shock - Bolso de Mano para Mujer  Beige  Topo 7959
 
 🔎:
 
+- Aplique metálico de la marca
 - Material exterior: Poliuretano Thermoplástico
 - Cierre: Sin cierre
-- Aplique metálico de la marca
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NDM7BNV/?tag=tolees-21)
