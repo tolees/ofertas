@@ -28,12 +28,12 @@ Tienes [Timberland Classic 2-Eye  Náuticos Mujer  Marrón Rootbeer Full Grain  
 
 🔎:
 
-- Revestimiento: Cuero
-- Material exterior: Cuero
-- Composición: Cuero
-- Tipo de tacón: Plano
-- Material de la suela: Goma
-- Tipo de talla: talla estándar
 - Cierre: Cordones
+- Tipo de tacón: Plano
+- Tipo de talla: talla estándar
+- Material de la suela: Goma
+- Revestimiento: Cuero
+- Composición: Cuero
+- Material exterior: Cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000V9KPUA/?tag=tolees-21)

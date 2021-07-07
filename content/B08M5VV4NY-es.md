@@ -28,8 +28,8 @@ Tienes [Reebok CL Legacy  Zapatillas Deportivas Unisex Adulto  Vecnav Chalk Cdgr
 
 🔎:
 
-- Zapatillas deportivas
 - Empeine de ante y tela
+- Zapatillas deportivas
 - Amortiguación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08M5VV4NY/?tag=tolees-21)

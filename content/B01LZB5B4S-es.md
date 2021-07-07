@@ -28,9 +28,9 @@ Tienes [Brabantia Cubo de Basura con Pedal  Acero Inoxidable  Negro Mate  20 l](
 
 🔎:
 
-- Cierre a prueba de olores
 - Fácil de limpiar – con cubo interior extraíble
 - Base antideslizante – protege el suelo y hace que el cubo permanezca estable en su sitio
 - Incluye un paquete muestra de bolsas PerfectFit de Brabantia – fáciles de colocar evitando el antiestético efecto de sobresalir del borde
+- Cierre a prueba de olores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LZB5B4S/?tag=tolees-21)
