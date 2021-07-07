@@ -28,8 +28,8 @@ Ahora mismo tienes [Skechers Go Run Pulse  Zapatillas Hombre  Negro Negro Negro 
 
 🔎:
 
+- Ultra Flight
 - Lavable a máquina
 - Plantilla Goga Mat refrigerada por aire
-- Ultra Flight
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XKBRCZS/?tag=tolees-21)
