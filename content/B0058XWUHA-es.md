@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Michael Kors MK5491 - Reloj de pulsera con un 46.48 % de descuento'
-date: 2021-06-24 06:56:29
+date: 2021-07-07 03:54:33
 image: 'https://m.media-amazon.com/images/I/41NDRZtiImL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Michael Kors'
 buyurl: 'https://www.amazon.es/dp/B0058XWUHA/?tag=tolees-21'
 descuento: '46.48'
-average: '169.037916666667'
+average: '168.6768'
 ---
 
 En este momento está [Michael Kors MK5491 - Reloj de pulsera](https://www.amazon.es/dp/B0058XWUHA/?tag=tolees-21) a 160.01 EUR (original: 299.0 EUR) (46.48 %  de descuento) en el siguiente enlace!
