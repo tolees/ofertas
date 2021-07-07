@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brabantia Newicon Cubo de Basura con Ped al 49.98 % de descuento'
-date: 2021-07-06 17:04:54
+date: 2021-07-07 17:30:44
 image: 'https://m.media-amazon.com/images/I/31E2GJWYdiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Brabantia'
 buyurl: 'https://www.amazon.es/dp/B01LZYPZGP/?tag=tolees-21'
 descuento: '49.98'
-average: '19.9866666666667'
+average: '18.3975'
 ---
 
 Está [Brabantia Newicon Cubo de Basura con Pedal  Acero Inoxidable  Negro Mate  3 l](https://www.amazon.es/dp/B01LZYPZGP/?tag=tolees-21) con 49.98 de descuento por 13.63 EUR (original: 27.25 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [Brabantia Newicon Cubo de Basura con Pedal  Acero Inoxidable  Negro Mate 
 ℹ️:
 
 - Fácil de limpiar – con cubo interior extraíble
-- Incluye un paquete muestra de bolsas PerfectFit de Brabantia – fáciles de colocar evitando el antiestético efecto de sobresalir del borde
-- Cierre a prueba de olores
 - Base antideslizante – protege el suelo y hace que el cubo permanezca estable en su sitio
+- Cierre a prueba de olores
+- Incluye un paquete muestra de bolsas PerfectFit de Brabantia – fáciles de colocar evitando el antiestético efecto de sobresalir del borde
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LZYPZGP/?tag=tolees-21)

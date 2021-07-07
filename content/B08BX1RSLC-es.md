@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Duramo SL  Sneaker Hombre  Halo S al 40.00 % de descuento'
-date: 2021-06-30 20:30:20
+date: 2021-07-07 16:06:20
 image: 'https://m.media-amazon.com/images/I/415LMlb+hFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [adidas Duramo SL  Sneaker Hombre  Halo Silver/Footwear White/Grey  41 1/3
 
 ℹ️:
 
-- Corte regular
-- Cordones de zapatos
 - Malla superior
+- Cordones de zapatos
+- Corte regular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BX1RSLC/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Helly Hansen Jacke W Loke  Chaqueta Deportiva para Mujer  Negro  Black 99
 
 ℹ️:
 
-- Impermeable, cortavientos y transpirable Helly Tech Performance, con tejido de Bluesign de 2, 5 capas 100% poliéster con laminado de poliuretano 100%.
+- Protección total de los elementos a la vez que cómoda en el interior.
 - Tejido excepcional con un diseño exterior clásico y activo.
 - Impermeabilidad de 10.000 mm y permeabilidad al vapor de humedad de 10.000 g
-- Protección total de los elementos a la vez que cómoda en el interior.
+- Impermeable, cortavientos y transpirable Helly Tech Performance, con tejido de Bluesign de 2, 5 capas 100% poliéster con laminado de poliuretano 100%.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01E5NHIG6/?tag=tolees-21)
