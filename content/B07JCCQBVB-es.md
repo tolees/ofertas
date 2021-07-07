@@ -28,7 +28,7 @@ Ahora mismo tienes [Nasa Circle Logo Camiseta  Gris  Sports Grey SPO   X-Large p
 
 🔎:
 
-- Estilo: camiseta de ajuste regular para hombre
 - Producto oficial de la Nasa
+- Estilo: camiseta de ajuste regular para hombre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JCCQBVB/?tag=tolees-21)

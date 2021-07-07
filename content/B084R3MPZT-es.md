@@ -28,10 +28,10 @@ En este momento está [Scuderia Ferrari Reloj para de Cuarzo con Correa en Cuero
 
 🔎:
 
-- Grosor de la caja de 11,4 mm; Diámetro de la caja: 44 mm
-- Correa de piel y silicona negra con costuras del mismo tono
 - Movimiento cronógrafo
+- Correa de piel y silicona negra con costuras del mismo tono
 - Esfera negra con efecto de rayo de sol con manecillas e índices luminiscentes
 - 5 ATM de resistencia al agua
+- Grosor de la caja de 11,4 mm; Diámetro de la caja: 44 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084R3MPZT/?tag=tolees-21)
