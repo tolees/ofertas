@@ -29,7 +29,7 @@ Ahora mismo tienes [Roxy - Camiseta orgánica sin Mangas para Niña](https://www
 🔎:
 
 - Tejido: Tejido punto jersey de algodón orgánico de gramaje ligero
-- Adornos en el pecho
 - Corte: corte normal, clásico, cómodo
+- Adornos en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08R12DD2V/?tag=tolees-21)

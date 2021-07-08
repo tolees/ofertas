@@ -30,7 +30,7 @@ Tienes [ARENA G Game Over Jr V Back One Piece  Niñas  Freak Rose/Turquoise  6-7
 
 - Comodísimo bañador con protección UV para Niña
 - Tejido Arena Max fit: resistente al cloro y al agua salada, protección UV UPF 50+, secado rápido, ajuste perfecto
-- Artículo ideal para nadadoras Fitness ocasionales
 - Fácil de poner, espalda ergonómica para una buena sujeción y un ajuste seguro
+- Artículo ideal para nadadoras Fitness ocasionales
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0895HFNDV/?tag=tolees-21)
