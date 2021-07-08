@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Ancestors Legacy - Day  al 55.04 % de descuento'
-date: 2021-06-20 07:20:36
+date: 2021-07-08 08:41:02
 image: 'https://m.media-amazon.com/images/I/51puHSeDpBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B08FJQ6CMD/?tag=tolees-21'
 descuento: '55.04'
-average: '25.54825'
+average: '25.3636585365854'
 ---
 
 Está [Meridiem Games - Ancestors Legacy - Day One Edition](https://www.amazon.es/dp/B08FJQ6CMD/?tag=tolees-21) con 55.04 de descuento por 17.98 EUR (original: 39.99 EUR) en el siguiente enlace!

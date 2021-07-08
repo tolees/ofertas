@@ -30,7 +30,7 @@ Ahora mismo tienes [adidas RUNFALCON 2.0  Zapatillas de Running Hombre  AZUREA/F
 
 - Suela de goma
 - Parte superior textil
-- Cierre de cordones
 - Forro textil
+- Cierre de cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08M96KRV7/?tag=tolees-21)

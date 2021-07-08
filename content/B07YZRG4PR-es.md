@@ -28,10 +28,10 @@ Tienes [HORI - Mando inalámbrico Onyx Plus  PS4/PC ](https://www.amazon.es/dp/B
 
 🔎:
 
-- Dos opciones de uso: con o sin cable
-- Compatible también con PC
-- Toma de auriculares
 - Inmersión total con la función de vibración
+- Compatible también con PC
 - Licencia oficial de Sony
+- Toma de auriculares
+- Dos opciones de uso: con o sin cable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YZRG4PR/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Teka HCB 6535 Horno Multifunción de 60 cm con Hydroclean
 
 🔎:
 
-- Sistema de limpieza Teka Hydroclean automático
 - Dimensiones Alto x Ancho x Profundo (cm): 59.5 x 59.5 x 53.7+22
-- Panel de acero inoxidable antihuella
+- Sistema de limpieza Teka Hydroclean automático
 - Soportes cromados con sistema de 1 guía extraíble, cinco alturas de cocinado. 8 funciones de cocinado. Mandos escamoteables
+- Panel de acero inoxidable antihuella
 - Teka Hydroclean PRO – Multifunción
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0843QC3BP/?tag=tolees-21)
