@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.83 % en Samsung EP-TA800NBEGEU - Cargador de Par'
-date: 2021-07-04 07:55:21
+date: 2021-07-08 15:35:48
 image: 'https://m.media-amazon.com/images/I/310mnqdMlcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08P95B5FR/?tag=tolees-21'
 descuento: '47.83'
-average: '18.2953409090909'
+average: '18.2357303370786'
 ---
 
 Tienes [Samsung EP-TA800NBEGEU - Cargador de Pared 25W USB-C  Color Negro](https://www.amazon.es/dp/B08P95B5FR/?tag=tolees-21) con un 47.83 % de descuento con precio de oferta de 12.99 EUR (original: 24.9 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [Samsung EP-TA800NBEGEU - Cargador de Pared 25W USB-C  Color Negro](https
 ℹ️:
 
 - Compatible con cables USB-C
+- Adaptador de viaje AFC sin cable
 - Potencia: hasta 25 W
 - Desde tapones para los oídos hasta computadoras portátiles, casi cualquier dispositivo se puede cargar sin problemas
-- Adaptador de viaje AFC sin cable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08P95B5FR/?tag=tolees-21)

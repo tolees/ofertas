@@ -28,10 +28,10 @@ Tienes [Guess Reloj analogico para Hombre de Cuarzo con Correa en Acero Inoxidab
 
 ℹ️:
 
-- MOVIMENTO: CRONOGRAFO AL QUARZO
-- FORMA: TONDA
 - DIMENSIONE CASSA: 45 mm
+- FORMA: TONDA
 - MARCA: GUESS
+- MOVIMENTO: CRONOGRAFO AL QUARZO
 - VETRO: MINERALE
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LGHZUJM/?tag=tolees-21)

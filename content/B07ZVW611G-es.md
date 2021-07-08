@@ -28,10 +28,10 @@ Está [Levi s 501 Short Long Pantalones Cortos de Mezclilla  Sansome Ransom  26W
 
 ℹ️:
 
+- Material: mezclilla
 - Designer: LEVIS
 - Estación: Primavera/Verano
 - Artículo: 29961
 - Color: Azul medio
-- Material: mezclilla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZVW611G/?tag=tolees-21)
