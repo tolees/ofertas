@@ -28,10 +28,10 @@ Tienes [Tommy Hilfiger Johnson Mini CC Flap and Coin Pocket  Cartera Hombre^Muje
 
 🔎:
 
-- Color marrón
-- Tamaño 2XL
-- Material interior poliéster
 - Material exterior cuero
+- Material interior poliéster
 - Adecuado para hombre y mujer
+- Tamaño 2XL
+- Color marrón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X0W9NVM/?tag=tolees-21)

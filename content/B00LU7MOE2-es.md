@@ -28,9 +28,9 @@ Ahora mismo tienes [Helly Hansen Crew Chaqueta  Hombre  Negro  Black   2XL](http
 
 🔎:
 
-- Dobladillo ajustable con cordón
 - Chaqueta versátil, impermeable y cortavientos
 - Costuras totalmente selladas
 - Bolsillos con cremallera
+- Dobladillo ajustable con cordón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00LU7MOE2/?tag=tolees-21)

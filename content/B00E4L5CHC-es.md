@@ -28,9 +28,9 @@ Tienes [Oral-B Seda dental Essentialfloss sin cera  50 m](https://www.amazon.es/
 
 ℹ️:
 
-- Suave con las encías y los dedos.
-- Hilo dental en material sedoso
 - Se desliza fácilmente, lo que le permite llegar a espacios reducidos.
 - Sabor a menta
+- Hilo dental en material sedoso
+- Suave con las encías y los dedos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00E4L5CHC/?tag=tolees-21)

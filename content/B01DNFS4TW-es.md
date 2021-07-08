@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Freaks and Geeks - Final Fantasy 15  Pla al 50.02 % de rebaja'
-date: 2021-07-07 07:01:59
+date: 2021-07-08 20:57:07
 image: 'https://m.media-amazon.com/images/I/41nXvUgd0HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [Freaks and Geeks - Final Fantasy 15  Play Arts Kai  Gladiolus](https://w
 
 🔎:
 
-- 98 mm × 52 mm × H 277 mm
 - Final Fantasy
+- 98 mm × 52 mm × H 277 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01DNFS4TW/?tag=tolees-21)

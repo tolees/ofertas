@@ -28,10 +28,10 @@ Tienes [Hurley M Phtm Walkshort 20 ](https://www.amazon.es/dp/B07VH5MTMB/?tag=to
 
 ℹ️:
 
-- 46 % Poliéster reciclado / 46 % Poliéster / 8 % Spandex.
 - Cierre con varilla de goma y cremallera. Bolsillos franceses delanteros con interior de red. Bolsillos ribeteados traseros con cierre de botón.
-- Tejido Phantom actualizada se adhiere menos a la piel después de mojarse.
+- 46 % Poliéster reciclado / 46 % Poliéster / 8 % Spandex.
 - Longitud de 20" que te ofrece una cobertura confortable.
+- Tejido Phantom actualizada se adhiere menos a la piel después de mojarse.
 - Hurley )( Phantom.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VH5MTMB/?tag=tolees-21)
