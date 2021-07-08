@@ -28,9 +28,9 @@ Ahora mismo tienes [Purina Gourmet  GOUUI  - Purina Gourmet Revelations Comida H
 
 🔎:
 
-- Elaborado con ingredientes de calidad
-- Gourmet es una alimentación equilibrada; además es una importante fuente de hidratación para tu gato; además, le estarás dando una alimentación variada en sabores y texturas para su disfrute
-- Diseñado para ofrecer una experiencia culinaria óptima
 - Delicadas y refinadas mousse con una deliciosa cascada de salsa
+- Elaborado con ingredientes de calidad
+- Diseñado para ofrecer una experiencia culinaria óptima
+- Gourmet es una alimentación equilibrada; además es una importante fuente de hidratación para tu gato; además, le estarás dando una alimentación variada en sabores y texturas para su disfrute
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0968YYGH7/?tag=tolees-21)
