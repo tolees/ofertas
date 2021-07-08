@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Micro G Pursuit  Zapatillas al 40.00 % de descuento'
-date: 2021-06-12 10:21:12
+date: 2021-07-08 11:50:27
 image: 'https://m.media-amazon.com/images/I/4198WVvl55L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,16 +13,16 @@ actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97
 comparePrice: 54.95 EUR
-prodname: 'Under Armour Micro G Pursuit  Zapatillas para Correr de Carretera Hombre  Pitch Gris Blanco Blanco 103  40 EU'
+prodname: 'Under Armour Micro G Pursuit  Zapatillas para Correr de Carretera Hombre  Pitch Gray Blanco Blanco  40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Under Armour'
 buyurl: 'https://www.amazon.es/dp/B08FX8Q36W/?tag=tolees-21'
 descuento: '40.00'
-average: '34.44'
+average: '34.23'
 ---
 
-Está [Under Armour Micro G Pursuit  Zapatillas para Correr de Carretera Hombre  Pitch Gris Blanco Blanco 103  40 EU](https://www.amazon.es/dp/B08FX8Q36W/?tag=tolees-21) con 40.00 de descuento por 32.97 EUR (original: 54.95 EUR) en el siguiente enlace!
+Está [Under Armour Micro G Pursuit  Zapatillas para Correr de Carretera Hombre  Pitch Gray Blanco Blanco  40 EU](https://www.amazon.es/dp/B08FX8Q36W/?tag=tolees-21) con 40.00 de descuento por 32.97 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![Under Armour Micro G Pursuit  Zapatillas](https://m.media-amazon.com/images/I/4198WVvl55L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08FX8Q36W/?tag=tolees-21)
 
