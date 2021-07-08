@@ -28,10 +28,10 @@ Ahora mismo tienes [Brabantia 401084 - Cubo de Basura  Touch Bin  2 x 20 litros 
 
 🔎:
 
-- Ideal para la separación de desperdicios en la oficina: dos cubos interiores extraíbles
 - Vaciado y limpieza prácticos: los cubos interiores son independientes y exrtaíbles y disponen de asas
-- Fácil manejo de las bolsas sin el antiestético solapamiento: disponibles bolsas de basura Brabantia a medida con cinta de precinto
-- Las bolsas se cambian sin necesidad de agacharse: una función especial permite colocar el cubo interior en una posición elevada
 - Manejo suave y silencioso: abertura toque suave de Brabantia
+- Las bolsas se cambian sin necesidad de agacharse: una función especial permite colocar el cubo interior en una posición elevada
+- Fácil manejo de las bolsas sin el antiestético solapamiento: disponibles bolsas de basura Brabantia a medida con cinta de precinto
+- Ideal para la separación de desperdicios en la oficina: dos cubos interiores extraíbles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001TMZDD2/?tag=tolees-21)

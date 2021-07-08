@@ -28,8 +28,8 @@ En este momento está [adidas Runfalcon 2.0 TR  Sneaker Hombre  Core Black/Silve
 
 🔎:
 
-- Suela de goma
-- Cordones de zapatos
 - malla y parte superior de cuero sintético
+- Cordones de zapatos
+- Suela de goma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PVSHPTZ/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Outsunny Palma Artificial 150cm con Cañas Naturales Árbol Planta Decor
 
 🔎:
 
-- ✅MEDIDAS: Altura total: 150cm. Medias de la maceta: Ф18x15cm (DxAL)
+- ✅PALMERA ARTIFICIAL: Adecuada para decorar cualquier habitación de la casa.
+- ✅REALISTA: Tiene 19 ramas de hojas de palma de aspecto realista.
 - ✅SIN MANTENIMIENTO: Aporta la frescura de las plantas a la decoración pero sin la necesidad de preocuparse por regarla o por si recibe la luz necesaria.
 - ✅MACETA INCLUIDA: La maceta le ofrece una base estable.
-- ✅REALISTA: Tiene 19 ramas de hojas de palma de aspecto realista.
-- ✅PALMERA ARTIFICIAL: Adecuada para decorar cualquier habitación de la casa.
+- ✅MEDIDAS: Altura total: 150cm. Medias de la maceta: Ф18x15cm (DxAL)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TP2TDV9/?tag=tolees-21)
