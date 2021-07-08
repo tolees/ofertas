@@ -28,8 +28,8 @@ Tienes [Camper Pelotas  Zapatillas Hombre  Multicolor  40 EU](https://www.amazon
 
 ℹ️:
 
-- Outer material: lienzo, cuero liso
 - Lining: sintético, lona
+- Outer material: lienzo, cuero liso
 - Closure: encaje
 - Heel type: plano
 - Sole material: sintético

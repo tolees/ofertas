@@ -28,10 +28,10 @@ En este momento está [Intex 56288EU - Flamenco XL hinchable 218x211x136 cm](htt
 
 🔎:
 
-- El flamenco hinchable está diseñado para que sea utilizado por 2 adultos tanto para estar sentados o tumbados
-- El hinchable incluye 2 cámaras de aire para mayor seguridad
-- Incorpora 2 asas de sujeción para mayor comodidad a la hora de subir a la isla
 - El hinchable soporta un peso de 200 kg
+- Incorpora 2 asas de sujeción para mayor comodidad a la hora de subir a la isla
+- El flamenco hinchable está diseñado para que sea utilizado por 2 adultos tanto para estar sentados o tumbados
 - Flamenco hinchable de Intex de grandes dimensiones: 218x211x136 cm
+- El hinchable incluye 2 cámaras de aire para mayor seguridad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N3S4ON3/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Emporio Armani Reloj Analógico para Mujer de Cuarzo AR11294
 
 🔎:
 
-- Ancho de la correa: 14 mm. Circunferencia de la correa: 175 +/- 5 mm.
-- Altura de la caja: 7 mm. Tamaño de la caja: 32 mm.
 - Material de la correa: acero inoxidable.
+- Altura de la caja: 7 mm. Tamaño de la caja: 32 mm.
+- Ancho de la correa: 14 mm. Circunferencia de la correa: 175 +/- 5 mm.
 - Se envía en caja de regalo de Emporio Armani.
 - Resistencia al agua: 5 ATM.
 
