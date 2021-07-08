@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk SDSQXBZ-064G-GN6MA Extreme Plus  al 51.63 % de descuento'
-date: 2021-07-05 08:33:02
+date: 2021-07-08 09:41:30
 image: 'https://m.media-amazon.com/images/I/51gh2nYcPJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07FCMWCVB/?tag=tolees-21'
 descuento: '51.63'
-average: '19.9369444444444'
+average: '19.8032432432432'
 ---
 
 Ahora mismo tienes [SanDisk SDSQXBZ-064G-GN6MA Extreme Plus - Tarjeta de Memoria microSDXC de 64 GB con Adaptador SD  A2  hasta 170 MB/s  Class 10  U3 y V30  Oro/Rojo](https://www.amazon.es/dp/B07FCMWCVB/?tag=tolees-21) a 14.99 EUR (original: 30.99 EUR) (51.63 %  de descuento) en el siguiente enlace!

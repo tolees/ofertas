@@ -28,10 +28,10 @@ Ahora mismo tienes [Skechers Status 2.0 Lorano  Náuticos Hombre  Negro  Black C
 
 🔎:
 
-- Revestimiento: Tela
-- Material de la suela: Sintético
-- Tipo de tacón: Plataforma
 - Material exterior: Cuero sintético
+- Tipo de tacón: Plataforma
 - Cierre: con cordones
+- Material de la suela: Sintético
+- Revestimiento: Tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GPQQBT7/?tag=tolees-21)

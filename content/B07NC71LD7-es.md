@@ -28,10 +28,10 @@ Ahora mismo tienes [Fisher-Price Bolitas blandas activity  5 bolas de juguete pa
 
 🔎:
 
-- Mordedor em forma de bola sem BPA, bola branca com guizo e bola transparente com espelho de descoberta
-- Bola cor de laranja macia com aroma a baunilha e bola azul com tecido de "espinhos" macio
 - 11 descobertas sensoriais para estimular todos os sentidos do seu bebé
+- Bola cor de laranja macia com aroma a baunilha e bola azul com tecido de "espinhos" macio
 - Conjunto de 5 bolas de atividades, cada uma com um elemento sensorial diferente
 - Para bebés a partir dos 3 meses
+- Mordedor em forma de bola sem BPA, bola branca com guizo e bola transparente com espelho de descoberta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NC71LD7/?tag=tolees-21)

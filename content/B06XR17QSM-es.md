@@ -28,11 +28,11 @@ Ahora mismo tienes [Bosch Home and Garden - Bosch EasyImpact 550 - Taladro percu
 
 🔎:
 
-- Potente y compacta herramienta que facilita los trabajos de perforación
+- Potencia de perforación elevada a pesar de la construcción compacta, con independencia del material, incluso en hormigón
+- Compatible con el Drill Assistant de Bosch para un trabajo aún más preciso: determinación sencilla de la profundidad de perforación y trabajo sin polvo (opcionalmente, disponible como accesorio)
 - Portabrocas de sujeción rápida de dos casquillos para cambio de herramienta sencillo
+- Potente y compacta herramienta que facilita los trabajos de perforación
 - Control electrónico del número de revoluciones Bosch: la «aceleración» de 50 al máximo con el pulsador de conmutación le permite trabajar de forma precisa, por ejemplo, al inicio de la perforación de superficies lisas o en trabajos de atornillado
 - Perforar nunca fue tan sencillo: gracias a su bajo peso y su compacto y ergonómico diseño, el manejo de la herramienta resulta especialmente cómodo y sencillo
-- Compatible con el Drill Assistant de Bosch para un trabajo aún más preciso: determinación sencilla de la profundidad de perforación y trabajo sin polvo (opcionalmente, disponible como accesorio)
-- Potencia de perforación elevada a pesar de la construcción compacta, con independencia del material, incluso en hormigón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XR17QSM/?tag=tolees-21)

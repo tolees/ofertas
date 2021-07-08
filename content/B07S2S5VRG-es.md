@@ -28,8 +28,8 @@ Tienes [Levi s The Perfect tee Camiseta  White  90 s Serif T2 White+ 0781   L pa
 
 ℹ️:
 
-- Con tacto suave de forro polar
 - Modelo casual
+- Con tacto suave de forro polar
 - Tiene estampado la marca Levis
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07S2S5VRG/?tag=tolees-21)

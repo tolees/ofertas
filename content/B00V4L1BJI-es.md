@@ -28,8 +28,8 @@ Está [Adidas - Get Ready - Aftershave para hombres - 100 ml](https://www.amazon
 
 ℹ️:
 
+- Agua de colonia Adidas
 - Adidas - get ready! - a (3607342733817)
 - Agua de colonia Perfumería Hombre
-- Agua de colonia Adidas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00V4L1BJI/?tag=tolees-21)
