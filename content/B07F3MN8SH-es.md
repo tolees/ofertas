@@ -28,8 +28,8 @@ En este momento está [Tommy Hilfiger T Camiseta Básica de Manga Corta  Blanco 
 
 🔎:
 
-- Camiseta básica de Tommy Hilfiger
 - Adecuada para completar cualquier atuendo
+- Camiseta básica de Tommy Hilfiger
 - Logo de la marca bordado en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F3MN8SH/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [IDItalian - ID Italian Design | Cepillo Eléctrico Alisador para el Pelo
 
 ℹ️:
 
+- Indicador LED de temperatura | Temperatura Máxima: 230ºC | Temperatura regulable con botones (230º-80º)
 - Cepillo profesional con placas de cerámica para conseguir un gran alisado sin esfuerzo
 - Tecnología exclusiva de expansión del calor por infrarrojos | Protectores Antiquemadura
-- Indicador LED de temperatura | Temperatura Máxima: 230ºC | Temperatura regulable con botones (230º-80º)
 - Cable giro 360º | Diseño ergonómico, elegante y ligero.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B017T1JUN0/?tag=tolees-21)

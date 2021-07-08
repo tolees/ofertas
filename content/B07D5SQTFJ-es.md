@@ -29,11 +29,11 @@ Tienes [AEG CX7-2-35WR Aspiradora Escoba Sin Cable y de Mano - Sin Bolsa  Bater�
 ℹ️:
 
 - PARKING VERTICAL, para tener la aspiradora siempre a mano en cualquier lugar y en cualquier momento
-- AUTOLIMPIEZA patentada del rodillo de cepillo, que se retira automáticamente mediante la presión del pedal; la tecnología Brush Roll Clean elimina los pelos y fibras que se enredan en el cepillo
-- Sistema de filtración doble. Los filtros se pueden lavar fácilmente con agua, prolongando su vida útil. Sin necesidad de usar bolsa
-- ASPIRADORA 2 EN 1, Con batería de Ion-Litio de hasta 35 minutos de autonomía. Incluye cepillo motorizado, cepillo para muebles, boquilla espacios estrechos y soporte de carga para suelo o pared
 - DISEÑO ERGONÓMICO, para una limpieza multi superficies: alfombras y/o suelos duros​, para estantes, techos y encimeras​
 - CEPILLO MOTORIZADO Y LUZ LED, con giro de 180°, diseño ergonómico y 2 ruedas traseras que en conjunto aportan gran facilidad de maniobra para limpiar todo tipo de suelos y alfombras
 - SILENCIOSO. Bajo nivel de ruido de hasta 79 decibelios y depósito de 0.5L
+- AUTOLIMPIEZA patentada del rodillo de cepillo, que se retira automáticamente mediante la presión del pedal; la tecnología Brush Roll Clean elimina los pelos y fibras que se enredan en el cepillo
+- ASPIRADORA 2 EN 1, Con batería de Ion-Litio de hasta 35 minutos de autonomía. Incluye cepillo motorizado, cepillo para muebles, boquilla espacios estrechos y soporte de carga para suelo o pared
+- Sistema de filtración doble. Los filtros se pueden lavar fácilmente con agua, prolongando su vida útil. Sin necesidad de usar bolsa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07D5SQTFJ/?tag=tolees-21)

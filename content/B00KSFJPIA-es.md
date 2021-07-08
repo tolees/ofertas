@@ -28,10 +28,10 @@ Tienes [Motorkit Luz magnética LED de Emergencia homologada  V16  de Alta lumin
 
 ℹ️:
 
-- Luz LED magnética homologada (v16) colocar sin salir del vehículo mucho más rápido y seguro apto para uso con lluvia o nieve (ip54)
 - baterías incluidas
 - Indicada para la señalización de vehículos y motocicletas en situación de emergencia
 - Se coloca en tan solo 30 segundos. 1; enciéndala desde el interior del vehículo. 2; sin bajar del vehículo, colóquela sobre el techo o una superficie de metal y se fijará firmemente mediante los dos fuertes imanes que tiene en su interior
 - La luz se utiliza como equipo de señalización fabricado bajo estrictos controles de calidad, certificado y compatible con las normas de seguridad vial vigentes
+- Luz LED magnética homologada (v16) colocar sin salir del vehículo mucho más rápido y seguro apto para uso con lluvia o nieve (ip54)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00KSFJPIA/?tag=tolees-21)

@@ -28,11 +28,11 @@ Ahora mismo tienes [BRA Efficient - Batería 5 piezas  de aluminio fundido con a
 
 🔎:
 
-- Fondo difusor uniforme de eficiencia (save energy system)
-- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 - Batería de cocina de 5 piezas fabricada en aluminio fundido muy resistente con antiadherente sin PFOA
+- Producto exclusivo de Amazon
 - Composición: cacerola 20 cm con tapa 3 litros (16.1 cm),cacerola 24 cm con tapa 4 litros (16.9 cm),cacerola baja 24 cm con tapa 2.3 litros (18.2 cm), cacerola baja 28 cm con tapa 3.1 litros (21 cm),cazo 16 cm (11.8 cm)
 - Tapas de cristal y asas de silicona termorresistente desmontables incluidas
-- Producto exclusivo de Amazon
+- Fondo difusor uniforme de eficiencia (save energy system)
+- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07L4DPD12/?tag=tolees-21)
