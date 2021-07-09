@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'JBL Micromec Mini CP I 300 g al 66.04 % de descuento'
-date: 2021-07-06 08:57:53
+title: 'JBL Micromec Mini CP I 300 g al 57.23 % de descuento'
+date: 2021-07-09 15:36:07
 image: 'https://m.media-amazon.com/images/I/51ta4D+1IyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,24 +12,24 @@ tags: [ 'Acuarios','Acuarios y peceras','Peces y mascotas acuáticas','Productos
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09
-comparePrice: 14.99 EUR
+comparePrice: 11.9 EUR
 prodname: 'JBL Micromec Mini CP I 300 g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'JBL'
 buyurl: 'https://www.amazon.es/dp/B000ZLW6YW/?tag=tolees-21'
-descuento: '66.04'
+descuento: '57.23'
 average: '5.09'
 ---
 
-Está [JBL Micromec Mini CP I 300 g](https://www.amazon.es/dp/B000ZLW6YW/?tag=tolees-21) con 66.04 de descuento por 5.09 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [JBL Micromec Mini CP I 300 g](https://www.amazon.es/dp/B000ZLW6YW/?tag=tolees-21) con 57.23 de descuento por 5.09 EUR (original: 11.9 EUR) en el siguiente enlace!
 
 [![JBL Micromec Mini CP I 300 g](https://m.media-amazon.com/images/I/51ta4D+1IyL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B000ZLW6YW/?tag=tolees-21)
 
 ℹ️:
 
+- Los mejores productos para la decoración y el cuidado de tus peces.
 - Micromec Mini Cp I
 - La comodidad de tus peces está al alcance de ti gracias a nuestros productos.
-- Los mejores productos para la decoración y el cuidado de tus peces.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000ZLW6YW/?tag=tolees-21)
