@@ -28,9 +28,9 @@ Está [Dockers Smart Supreme Flex Alpha Skinny-WONDERKNIT Pantalones  Azul  C307
 
 ℹ️:
 
-- Material: 84% algodón, 16% elastano.
 - Temporada: primavera/verano.
 - Diseñador: DOCKERS.
+- Material: 84% algodón, 16% elastano.
 - Artículo: 59373.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HM6GLFP/?tag=tolees-21)
