@@ -28,7 +28,7 @@ Está [Converse All Star Ox Canvas Zapatillas Negras-UK 3.5 / EU 36](https://www
 
 ℹ️:
 
-- Authorised Stockist
 - Genuine Product
+- Authorised Stockist
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000EDKS46/?tag=tolees-21)
