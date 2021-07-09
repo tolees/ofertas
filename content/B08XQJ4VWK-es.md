@@ -29,8 +29,8 @@ Tienes [WELLXUNK - Kit de Rosas  Rosa Eterna Rosas Bella y Bestia  Rosa Roja con
 🔎:
 
 - Material seleccionado: La rosa roja está hecha de pan de oro de alta calidad y los pétalos de rosa parecen rosas reales. La cúpula de cristal de rosa roja, que nunca se desvanece, representa la fe en el amor para siempre.
-- Regalo perfecto: Opción perfecta para crear un ambiente romántico, que se puede utilizar para la cena, boda, decoración de fiestas, etc. Este es un hermoso regalo para el día de san valentín, el día de la madre, el día de la mujer, cumpleaños, aniversario y compromiso.
 - Símbolo de amor: La rosa roja significa apasionada y romántica. La rosa en una cúpula de cristal que nunca se desvanece no solo es un símbolo de amor y aprecio, sino también un símbolo de los mejores deseos
+- Regalo perfecto: Opción perfecta para crear un ambiente romántico, que se puede utilizar para la cena, boda, decoración de fiestas, etc. Este es un hermoso regalo para el día de san valentín, el día de la madre, el día de la mujer, cumpleaños, aniversario y compromiso.
 - Diseño de alta gama: La cúpula de luz de cristal se puede abrir, lo que significa que puede poner anillos, notas u otros pequeños objetos significativos dentro, absolutamente una gran idea para sorprender o expresar su amor.
 - Fácil de usar: La luz LED rosa del producto necesita 3 pilas AAA (no incluidas) para alimentarla. Solo necesitas poner tres pilas AAA en la parte inferior de la base para usarla normalmente.
 
