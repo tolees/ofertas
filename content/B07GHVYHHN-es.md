@@ -28,11 +28,11 @@ Ahora mismo tienes [SanDisk Extreme PLUS - Tarjeta de memoria microSDXC de 128 G
 
 🔎:
 
-- Hasta 170 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
-- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
 - Lector de tarjetas microSD compacto y duradero
+- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
+- Rápidas velocidades de transferencia UHS-I de hasta 170 MB/s
 - Con USB 3.0, que le permite mover contenido hasta diez veces más rápido que con los lectores USB 2.0
 - Ideal para smartphones y tabletas Android, cámaras de acción y drones
-- Rápidas velocidades de transferencia UHS-I de hasta 170 MB/s
+- Hasta 170 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GHVYHHN/?tag=tolees-21)
