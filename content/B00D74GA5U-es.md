@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.59 % en Western Digital - WD Red 2TB NAS 3.5 pul'
-date: 2021-06-20 19:11:52
+date: 2021-07-09 09:30:31
 image: 'https://m.media-amazon.com/images/I/5161zNrfDqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [Western Digital - WD Red 2TB NAS 3.5 pulgadas Disco duro interno Clase 5
 ℹ️:
 
 - Fácil uso
-- Compatible Windows
 - Un plus de capacidad para tus archivos
+- Compatible Windows
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00D74GA5U/?tag=tolees-21)

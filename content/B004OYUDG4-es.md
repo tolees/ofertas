@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vanguard Alta Pro 263AB 100 - Trípode co al 44.53 % de rebaja'
-date: 2021-06-25 08:39:15
+date: 2021-07-09 09:29:39
 image: 'https://m.media-amazon.com/images/I/31eq3snfVZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Vanguard Alta Pro 263AB 100 - Trípode completo  color negro](https://ww
 
 🔎:
 
-- Cerraduras Quick-flip en las patas
 - Bonus: bolsa de transporte
 - Patas ajustables a ángulos de 25,50 y 80 grados
 - Pies de goma y picas
+- Cerraduras Quick-flip en las patas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004OYUDG4/?tag=tolees-21)
