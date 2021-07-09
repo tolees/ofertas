@@ -28,10 +28,10 @@ Tienes [HELLA 8JS 711 686-821 Sicherung - ATO - 10A - rot - Menge: 5](https://ww
 
 🔎:
 
-- Fusible de enchufe plano según DIN 725813c
-- Color: Rojo
 - fácil de usar
 - arquitectura compacta
+- Fusible de enchufe plano según DIN 725813c
 - diseño estándar ampliamente utilizado en el sector de los vehículos
+- Color: Rojo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B003ZUP4NA/?tag=tolees-21)

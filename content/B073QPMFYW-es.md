@@ -28,9 +28,9 @@ En este momento está [PUMA Phase Gym Sack Gym Bag  Unisex adulto  Black  OSFA](
 
 🔎:
 
+- Refuerzo de poliéster con poliuretano
+- 37.5 x 43 cm (14l)
 - Apertura con cordón que se dobla y se usa como tirantes
 - Estampado del logotipo PUMA Archive N.º 1 en la parte delantera
-- 37.5 x 43 cm (14l)
-- Refuerzo de poliéster con poliuretano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073QPMFYW/?tag=tolees-21)

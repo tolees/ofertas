@@ -28,8 +28,8 @@ Está [JBL Micromec Mini CP I 300 g](https://www.amazon.es/dp/B000ZLW6YW/?tag=to
 
 ℹ️:
 
+- La comodidad de tus peces está al alcance de ti gracias a nuestros productos.
 - Los mejores productos para la decoración y el cuidado de tus peces.
 - Micromec Mini Cp I
-- La comodidad de tus peces está al alcance de ti gracias a nuestros productos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000ZLW6YW/?tag=tolees-21)

@@ -28,7 +28,7 @@ En este momento está [Wrangler Biker tee Camiseta  Blanco Crudo  M para Hombre]
 
 🔎:
 
-- Ajuste regular.
 - Knits.
+- Ajuste regular.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CVL13FB/?tag=tolees-21)

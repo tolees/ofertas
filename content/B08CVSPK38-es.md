@@ -28,8 +28,8 @@ En este momento está [Lee Slim Rider Chaqueta Vaquera  Mid Worn Martha  S para 
 
 🔎:
 
-- Transparente
 - Slim
 - Tejido vaquero elástico
+- Transparente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CVSPK38/?tag=tolees-21)

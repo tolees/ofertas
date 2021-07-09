@@ -29,8 +29,8 @@ En este momento está [Adidas Con18 Co Camiseta Polo  Hombre  Power Red/Black/Wh
 🔎:
 
 - Con tecnología Climalite que elimina el sudor
+- Cintura elástica con cordón.
 - Logotipo de adidas termotransferido sobre el dobladillo.
 - Tejido muy ligero.
-- Cintura elástica con cordón.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076HQ5Z8S/?tag=tolees-21)
