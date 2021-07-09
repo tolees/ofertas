@@ -28,9 +28,9 @@ En este momento está [adidas FIT 2PC 3S Y Swimsuit  Niñas  Black/White  910Y](
 
 🔎:
 
+- Con un corte deportivo
+- Fabricado en tela resistente al cloro
 - Traje de dos piezas para niñas
 - Cuenta con el logo de la marca
-- Fabricado en tela resistente al cloro
-- Con un corte deportivo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KMP3RSJ/?tag=tolees-21)

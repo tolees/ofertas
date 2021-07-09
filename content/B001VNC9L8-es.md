@@ -28,8 +28,8 @@ En este momento está [Max Factor Lipfinity Colour & Gloss Pintalabios Tono 560 
 
 🔎:
 
-- Tipo de producto: pintalabios
 - Marca : Max Factor
 - Género : mujer
+- Tipo de producto: pintalabios
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B001VNC9L8/?tag=tolees-21)

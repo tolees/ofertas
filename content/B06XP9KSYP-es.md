@@ -30,8 +30,8 @@ Tienes [Gel Higiene Intima Femenina - Odor Block - Instituto Español 300 ML](ht
 
 - Previene infecciones
 - Lucha contra la sequedad
-- Para adultos y adolescentes
 - Neutraliza el olor
+- Para adultos y adolescentes
 - Ginecológicamente testado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XP9KSYP/?tag=tolees-21)

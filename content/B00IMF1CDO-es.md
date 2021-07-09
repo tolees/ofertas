@@ -28,8 +28,8 @@ Está [Wera 05004016001 Set de Carracas Cuadradillos con 28 Piezas  1/4"](https:
 
 ℹ️:
 
-- Cabeza de carraca libremente giratoria con 5 posiciones definidas
 - Casquillo de giro libre para altas velocidades de trabajo
+- Cabeza de carraca libremente giratoria con 5 posiciones definidas
 - Con sistema de búsqueda de herramienta "Take it easy": marca los tamaños con ayuda de colores
 - Ángulo de retorno de tan sólo 5º
 - Dentado fino de 72 dientes

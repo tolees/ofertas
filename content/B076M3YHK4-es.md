@@ -28,13 +28,13 @@ Tienes [Tayg 777608 - Enrrollacable 4 bases  250 V  13 A  3.000 W  Cable H05VV-F
 
 🔎:
 
+- Con seguridad toma tierra
+- Con termostato; sistema de seguridad que corta la corriente cuando se supera la potencía límite
+- 50 metros de longitud 3x1. 5; potencía máxima 3000w
 - Cable h05vv-f 3g1.5, 3000 w, 230 v~ 13 a
+- Índice de protección al polvo y a la humedad ip20
 - Con 4 tomas de corriente tipo schuko
 - Con protección infantil
-- Con termostato; sistema de seguridad que corta la corriente cuando se supera la potencía límite
 - Certificado ce y marcas s y gs
-- Con seguridad toma tierra
-- 50 metros de longitud 3x1. 5; potencía máxima 3000w
-- Índice de protección al polvo y a la humedad ip20
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076M3YHK4/?tag=tolees-21)

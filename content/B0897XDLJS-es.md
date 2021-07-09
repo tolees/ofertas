@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s O.G Batwing Polo  Forest Biome  M para Hombre](https:
 
 🔎:
 
-- Manga corta
 - Housemark - Polo
+- Manga corta
 - Encuadernación de
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897XDLJS/?tag=tolees-21)
