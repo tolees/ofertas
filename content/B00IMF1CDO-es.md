@@ -28,10 +28,10 @@ Está [Wera 05004016001 Set de Carracas Cuadradillos con 28 Piezas  1/4"](https:
 
 ℹ️:
 
-- Con sistema de búsqueda de herramienta "Take it easy": marca los tamaños con ayuda de colores
 - Cabeza de carraca libremente giratoria con 5 posiciones definidas
 - Casquillo de giro libre para altas velocidades de trabajo
-- Dentado fino de 72 dientes
+- Con sistema de búsqueda de herramienta "Take it easy": marca los tamaños con ayuda de colores
 - Ángulo de retorno de tan sólo 5º
+- Dentado fino de 72 dientes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00IMF1CDO/?tag=tolees-21)

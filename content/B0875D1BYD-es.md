@@ -28,10 +28,10 @@ Está [Under Armour UA Ozsee Sackpack  Mochila. Unisex Adulto  Royal/Steel/Royal
 
 ℹ️:
 
-- Cordón de tracción suave
-- Gracias al clip en el pecho, los tirantes permanecen seguros en su lugar
-- Ref. : 1240539
-- Dimensiones: 45,5 x 35,5 x 5 cm (alto x largo x ancho)
 - El material duradero soporta todas las cargas de la vida cotidiana
+- Dimensiones: 45,5 x 35,5 x 5 cm (alto x largo x ancho)
+- Ref. : 1240539
+- Gracias al clip en el pecho, los tirantes permanecen seguros en su lugar
+- Cordón de tracción suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0875D1BYD/?tag=tolees-21)
