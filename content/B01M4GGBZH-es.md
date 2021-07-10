@@ -28,10 +28,10 @@ Tienes [Jata VIN145 Cocina Eléctrica de Inducción Portátil con Placas de 12 a
 
 🔎:
 
-- 8 funciones programadas; display led; regulador deslizante de potencia y temperatura
-- Superficie de cristal de 4 mm
-- Pulsadores táctiles: encendido / apagado; selector de funciones; ajuste del tiempo programado; pausa
 - Indicadores luminosos; protección contra sobrecalentamiento
 - 1 placa calorífica de inducción con diámetros de funcionamiento desde 120 mm; hasta 260 mm
+- Pulsadores táctiles: encendido / apagado; selector de funciones; ajuste del tiempo programado; pausa
+- Superficie de cristal de 4 mm
+- 8 funciones programadas; display led; regulador deslizante de potencia y temperatura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M4GGBZH/?tag=tolees-21)

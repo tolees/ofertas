@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Logo Box Stripe tee Camiseta  Yale Navy  XS p
 
 🔎:
 
-- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
-- Para más información sobre Tommy Hilfiger, consulta la sección de descripción del producto a continuación.
 - Este es un producto auténtico y original de Tommy Hilfiger.
+- Para más información sobre Tommy Hilfiger, consulta la sección de descripción del producto a continuación.
+- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CCY6FG2/?tag=tolees-21)

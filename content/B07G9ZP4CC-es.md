@@ -28,10 +28,10 @@ Tienes [Geox D Soleil A  Sandalia de Cuña Mujer  Negro 021  37 EU](https://www.
 
 🔎:
 
-- Brand: GEOX
 - Modello: GEO92N7A
+- Colore: BLACK
+- Brand: GEOX
 - Tipologia: DONNA
 - Articolo: SANDALO SPORT ALTO
-- Colore: BLACK
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07G9ZP4CC/?tag=tolees-21)

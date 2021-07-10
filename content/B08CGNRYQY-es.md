@@ -28,8 +28,8 @@ En este momento está [Calvin Klein Braguita de Bikini  Wink Rosa  XL para Mujer
 
 🔎:
 
-- Ribete de encaje en la pierna
 - Tiro medio
+- Ribete de encaje en la pierna
 - Punto de microfibra
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CGNRYQY/?tag=tolees-21)

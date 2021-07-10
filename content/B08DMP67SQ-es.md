@@ -29,8 +29,8 @@ Ahora mismo tienes [Hurley M Vancamper S/S](https://www.amazon.es/dp/B08DMP67SQ/
 🔎:
 
 - Estampado suave al tacto.
-- Etiqueta con el logotipo de Hurley.
 - Tejido de jersey 150 g.
+- Etiqueta con el logotipo de Hurley.
 - 100 % Algodón.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DMP67SQ/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Bourjois Velvet The Pencil - Pintalabios Tono 15 Rouge ES-Ca
 
 🔎:
 
-- En formato jumbo, ideal para perfilar los labios
 - Textura suave y aterciopelada
-- Color intenso y alta cobertura en una sola pasada
-- Fórmula ligera
 - Labial mate, intenso y de larga duración
+- Fórmula ligera
+- Color intenso y alta cobertura en una sola pasada
+- En formato jumbo, ideal para perfilar los labios
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PN6D7LX/?tag=tolees-21)
