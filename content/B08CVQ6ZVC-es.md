@@ -28,8 +28,8 @@ Está [Tommy Hilfiger 1985 Slim Polo  Camisa de polo Hombre  Puesta de Sol de Ve
 
 ℹ️:
 
-- Con detalles distintivos de Tommy Hilfiger
 - Modelo de corte slim
 - Logo de Tommy Hilfiger bordado en el pecho
+- Con detalles distintivos de Tommy Hilfiger
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CVQ6ZVC/?tag=tolees-21)

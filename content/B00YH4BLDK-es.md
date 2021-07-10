@@ -28,10 +28,10 @@ Tienes [Trust Gaming - Trust Tytan 2.1 GXT 628 - Altavoces Gaming 2.1 Iluminados
 
 🔎:
 
+- Subwoofer con LED parpadeantes
 - Mando de control del volumen con auriculares y conectores de entrada para tableta/smartphone
 - Conjunto de altavoces que incluye un subwoofer de madera con un total de 120 vatios de potencia de salida
 - Sonido de gran calidad con bajos penetrantes
-- Subwoofer con LED parpadeantes
 - Compatible con PC, Wii, Sony PlayStation 3 y Xbox 360
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00YH4BLDK/?tag=tolees-21)
