@@ -28,10 +28,10 @@ Ahora mismo tienes [Solac Fast Ionic Dry 2000  Secador de pelo con Tecnología E
 
 🔎:
 
-- LIGERO Y COMPACTO: Diseño ultra compacto para ocupar el mínimo espacio y poder llevarte el secador donde quieras
-- TECNOLOGÍA IÓNICA: Cabello brillante y libre de encrespamiento, consigue un secado mucho más sano con resultados excelentes
 - COMPLETO: El secador Fast Ionic Dry 2000 cuenta con dos velocidades y temperaturas para poder elegir la potencia y la velocidad deseada en cada momento y también incluye golpe de aire frío para fijar el peinado y difusor para un alisado perfecto
 - 90 KM/H: Máxima potencia y secado ultra rápido, caudal de aire de 90 km/h, melena lista rápidamente
+- LIGERO Y COMPACTO: Diseño ultra compacto para ocupar el mínimo espacio y poder llevarte el secador donde quieras
 - ECO-W: Ofrece una potencia de secado de 2000W pero con un consumo energético de 1400W
+- TECNOLOGÍA IÓNICA: Cabello brillante y libre de encrespamiento, consigue un secado mucho más sano con resultados excelentes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PW97HWX/?tag=tolees-21)

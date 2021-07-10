@@ -1,32 +1,38 @@
 ---
 layout: post
-title: 'New Balance 997H Core  Zapatillas para H al 40.06 % de rebaja'
-date: 2020-07-06 22:05:07
-image: 'https://m.media-amazon.com/images/I/41Zxph8+IbL._SL400_.jpg'
+title: 'New Balance 997H Core  Zapatillas Hombre al 50.00 % de rebaja'
+date: 2021-07-10 11:44:55
+image: 'https://m.media-amazon.com/images/I/41vxcVYoUTS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07BL2PZH4-es New Balance 997H Core Zapatillas para Hombre Negro...'
+slug: 'B07BL2PZH4-es New Balance 997H Core Zapatillas Hombre Black 40 EU'
 sku: 'B07BL2PZH4-es'
-tags: [  ]
-actualPrice: 53.95 EUR
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','new balance', ]
+actualPrice: 45.0 EUR
 currency: EUR
-price: 53.95
+price: 45.0
 comparePrice: 90.0 EUR
-prodname: 'New Balance 997H Core  Zapatillas para Hombre  Negro  Black/Silver Charcoal   40 EU'
+prodname: 'New Balance 997H Core  Zapatillas Hombre  Black  40 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B07BL2PZH4/?tag=tolees-21'
-descuento: '40.06'
-average: '53.720000000000006'
+descuento: '50.00'
+average: '51.976'
 ---
 
-Tienes [New Balance 997H Core  Zapatillas para Hombre  Negro  Black/Silver Charcoal   40 EU](https://www.amazon.es/dp/B07BL2PZH4/?tag=tolees-21) con precio final de  53.95 EUR (original: 90.0 EUR) (40.06 %  de rebaja) aqui!
+Tienes [New Balance 997H Core  Zapatillas Hombre  Black  40 EU](https://www.amazon.es/dp/B07BL2PZH4/?tag=tolees-21) con precio final de  45.0 EUR (original: 90.0 EUR) (50.00 %  de rebaja) aqui!
 
-[![New Balance 997H Core  Zapatillas para H](https://m.media-amazon.com/images/I/41Zxph8+IbL._SL400_.jpg)](https://www.amazon.es/dp/B07BL2PZH4/?tag=tolees-21)
+[![New Balance 997H Core  Zapatillas Hombre](https://m.media-amazon.com/images/I/41vxcVYoUTS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07BL2PZH4/?tag=tolees-21)
 
 🔎:
 
+- Composición: Empeine de malla/ante
+- Material de la suela: Sintético
+- Tipo de tacón: Plano
+- Cierre: Cordones
+- Material exterior: Cuero
+- Revestimiento: Tela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BL2PZH4/?tag=tolees-21)

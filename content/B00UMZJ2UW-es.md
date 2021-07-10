@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SOLNATURAL - Sol Natural Pan Aleman 3 Ce al 77.77 % de descuento'
-date: 2021-07-05 17:23:17
+date: 2021-07-10 11:50:20
 image: 'https://m.media-amazon.com/images/I/51qCh4bbe1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SOLNATURAL'
 buyurl: 'https://www.amazon.es/dp/B00UMZJ2UW/?tag=tolees-21'
 descuento: '77.77'
-average: '6.33571428571429'
+average: '6.3275'
 ---
 
 Ahora mismo tienes [SOLNATURAL - Sol Natural Pan Aleman 3 Cereales 500 Gramos](https://www.amazon.es/dp/B00UMZJ2UW/?tag=tolees-21) a 6.27 EUR (original: 28.2 EUR) (77.77 %  de descuento) en el siguiente enlace!
