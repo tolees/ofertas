@@ -29,9 +29,9 @@ Está [Arlo Q Plus VMC3040S-100EUS - Cámara de seguridad y vigilancia 1080p HD 
 ℹ️:
 
 - Audio bidireccional; permite hablar y escuchar usando el micrófono incorporado y el altavoz
-- Almacena y revisa los últimos 7 días de grabaciones en la nube de forma gratuita + opciones de actualización
-- La resolución puede llegar hasta 1280x720
 - Estas cámaras solo funcionan con su base; se puede acceder al contenido vía WEB, o aplicación móvil IOS o Android
+- La resolución puede llegar hasta 1280x720
 - Se puede conectar con WiFi, Ethernet o elegir PoE para Internet para conectarla con un solo cable
+- Almacena y revisa los últimos 7 días de grabaciones en la nube de forma gratuita + opciones de actualización
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GVEUJZE/?tag=tolees-21)
