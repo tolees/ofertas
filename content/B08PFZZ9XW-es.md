@@ -28,10 +28,10 @@ Tienes [Asics Gel-Game 8 Clay/OC  Tennis Shoe Mujer  Pink Cameo/White  40 EU](ht
 
 🔎:
 
+- Amortiguación EVA
 - Parte superior de malla abierta
+- Tecnología GEL
 - Tecnología TRUSSTIC
 - Suela OMNI-Court
-- Amortiguación EVA
-- Tecnología GEL
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PFZZ9XW/?tag=tolees-21)

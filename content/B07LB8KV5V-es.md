@@ -28,10 +28,10 @@ Tienes [Royal Oporto Tawny Porto 19% - 750ml](https://www.amazon.es/dp/B07LB8KV5
 
 ℹ️:
 
-- Variedades de uva: Touriga Nacional, Touriga Francesa, Tinto Cao, Tinto Roriz, Tinta Barroca
 - Acidez: 3,7 g/l
-- Envejecimiento: barrica de roble
+- Variedades de uva: Touriga Nacional, Touriga Francesa, Tinto Cao, Tinto Roriz, Tinta Barroca
 - Colores bronceados en el cristal; en el sabor fuerte y redondo; larga duración en el final
+- Envejecimiento: barrica de roble
 - Azúcar residual: 102 g/l
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07LB8KV5V/?tag=tolees-21)

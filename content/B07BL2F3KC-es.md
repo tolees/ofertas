@@ -28,11 +28,11 @@ En este momento está [New Balance 997H Core  Zapatillas Hombre  Black  45 EU](h
 
 🔎:
 
-- Material exterior: Cuero
-- Revestimiento: Tela
-- Material de la suela: Sintético
-- Tipo de tacón: Plano
 - Composición: Empeine de malla/ante
 - Cierre: Cordones
+- Revestimiento: Tela
+- Tipo de tacón: Plano
+- Material de la suela: Sintético
+- Material exterior: Cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BL2F3KC/?tag=tolees-21)

@@ -28,12 +28,12 @@ Está [Geox B Sandal TAPUZ Boy A  Sandalia Niño Transpirantes Bebé-Niños  Mar
 
 ℹ️:
 
-- Revestimiento: Sintético
-- Tipo de talla: Los zapatos Geox tienen un ajuste cómodo
-- Material de la suela: Caucho
-- Material exterior: Sintético
 - Composición: Empeine 90% Cuero, 10% sintético; forro: 100% Cuero
 - Cierre: Velcro
+- Tipo de talla: Los zapatos Geox tienen un ajuste cómodo
+- Material exterior: Sintético
+- Revestimiento: Sintético
 - Tipo de tacón: Plano
+- Material de la suela: Caucho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07STKZDY6/?tag=tolees-21)
