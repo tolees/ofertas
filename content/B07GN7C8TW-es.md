@@ -28,10 +28,10 @@ En este momento está [HENMI Pinturas Cara para Niños Seguridad no tóxica Pint
 
 🔎:
 
+- 【CRAYONES DE PINTURA NO TÓXICA Y DE SEGURIDAD FACIAL】Este juego de crayones de pintura facial está hecho de pigmento de grado alimentario, material cosmético de grado cosmético superior Certificación EN 71 / CE verificada. Absolutamente seguridad para niños, niños y niños pequeños.
 - 【BUENO PARA PINTAR EL CUERPO】 Nuestros crayones para la cara y el cuerpo no irritan la piel de los niños, por lo que los niños pueden usarlos para pintar libremente hermosos dibujos en caras, manos o brazos para fiestas o juegos.
 - 【COLORES DE CUERPO VARIOS Y】 BRILLANTES set Este juego de crayones para pintar el cuerpo le permite crear su propio trabajo ideal en su cara con 28 colores.
 - 【CARACTERÍSTICAS Y CARTONES DE PINTURA PARA CARA Y CUIDADO BODAY】 Este conjunto de caryons de pintura para la cara es muy popular para cualquier evento especial, como Halloween, cumpleaños, juegos de disfraces, Navidad, maquillaje de novia, enseñanza de maquillaje, festivales de pintura, juegosde deportes, etc.
 - 【FÁCIL DE COLOR Y LIMPIE EL KIT DE PINTURA FACIAL】 No se preocupe por los crayones de pintura de cara y cuerpo que ensucian sus manos o paños después de usar este maquillaje para niños. Para quitar el maquillaje, limpie con papel de seda y lávelo con jabón y agua tibia.
-- 【CRAYONES DE PINTURA NO TÓXICA Y DE SEGURIDAD FACIAL】Este juego de crayones de pintura facial está hecho de pigmento de grado alimentario, material cosmético de grado cosmético superior Certificación EN 71 / CE verificada. Absolutamente seguridad para niños, niños y niños pequeños.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GN7C8TW/?tag=tolees-21)

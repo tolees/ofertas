@@ -28,9 +28,9 @@ En este momento está [Funko - Pop! Disney: Kingdom Hearts 3 - Aqua Figura Colec
 
 🔎:
 
-- El producto se envía en una caja ilustrada con ventana
-- Figura de colección de la marca Funko
 - El artículo es adecuado para todos los fanáticos de Kingdom Hearts
 - Recomendado para niños a partir de 3 años
+- Figura de colección de la marca Funko
+- El producto se envía en una caja ilustrada con ventana
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RTL93DD/?tag=tolees-21)

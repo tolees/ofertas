@@ -28,8 +28,8 @@ En este momento está [adidas Duramo SL  Sneaker Mujer  Halo Blue/Footwear White
 
 🔎:
 
-- Corte regular
-- Cordones de zapatos
 - Malla superior
+- Cordones de zapatos
+- Corte regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PVS9V8G/?tag=tolees-21)

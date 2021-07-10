@@ -28,10 +28,10 @@ Ahora mismo tienes [Skechers Solar Fuse-Kryzik  Zapatillas Hombre  Azul  NVBK Bl
 
 🔎:
 
-- 6 eyelet lace
-- Textile linings
-- Memory foam insole
-- Cemented one piece PU sole and heel unit
 - Textile uppers
+- Cemented one piece PU sole and heel unit
+- 6 eyelet lace
+- Memory foam insole
+- Textile linings
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NTWXXBF/?tag=tolees-21)
