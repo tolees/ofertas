@@ -28,8 +28,8 @@ Ahora mismo tienes [PUMA Smash v2 L  Zapatillas Unisex Adulto  White-Palace Blue
 
 🔎:
 
-- Piel sintética
 - Goma
 - Camiseta
+- Piel sintética
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SD1R7MD/?tag=tolees-21)

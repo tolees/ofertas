@@ -28,7 +28,7 @@ En este momento está [Jack & Jones Jjimarco Jjbowie Sa Pantalones  Beige  Beige
 
 🔎:
 
-- chino pants with slim leg
 - cotton quality with proportion of elastane
+- chino pants with slim leg
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JP628VF/?tag=tolees-21)

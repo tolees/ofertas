@@ -28,10 +28,10 @@ Ahora mismo tienes [RIWNNI USB C Bateria Externa 20000mAh  Gran Capacidad Power 
 
 🔎:
 
-- 💎【2 Entradas】Tiene doble puerto de entrada (Micro y Type C), El puerto de entrada de 5V / 2A se carga dos veces más rápido que el puerto de entrada de 1A, lo que le permite ahorrar más tiempo.
 - 💎【Carga rápida 18W】la forma más eficiente de carga que puede cargar los dispositivos hasta 18W a través del puerto USB C, tres veces más rápido que los otros y sólo necesitas 30 minutos para cargar el iPhone 11 Pro hasta el 50%.
 - 💎【3 Salidas】3 puertos de salida USB de identificación inteligente (1 USB C + 2 USB A) pueden detectar y ajustar automáticamente la corriente de carga para obtener la carga más rápida.
-- 💎【4 Indicadores LED】 La batería extera con 4 indicadores LED (25% -50% -75% -100%) hace que ver el estado de carga y el nivel de batería sea más fácil y claro.
+- 💎【2 Entradas】Tiene doble puerto de entrada (Micro y Type C), El puerto de entrada de 5V / 2A se carga dos veces más rápido que el puerto de entrada de 1A, lo que le permite ahorrar más tiempo.
 - 💎【Protección Segura】Bateria externa movil con pila premium de polímero de litio Equipada con protección de sobrecarga, de sobrecorriente, de sobretensión, de cortocircuitos, para protegerlo a usted y sus dispositivos.
+- 💎【4 Indicadores LED】 La batería extera con 4 indicadores LED (25% -50% -75% -100%) hace que ver el estado de carga y el nivel de batería sea más fácil y claro.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08252LSNB/?tag=tolees-21)

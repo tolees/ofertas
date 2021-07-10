@@ -28,12 +28,12 @@ Ahora mismo tienes [SanDisk Extreme Go - Memoria flash USB 3.1 de 64 GB](https:/
 
 🔎:
 
-- Mantén la privacidad de tus archivos privados con el software SanDisk SecureAccess (incluido)
+- Compatibilidad: USB 3.1 (Gen 1) compatible con versiones anteriores de USB 3.0 y USB 2.0
 - Rendimiento USB 3.1 (Gen. 1) de alta velocidad de hasta 200 MB/s de lectura y hasta 150 MB/s de escritura
 - Transfiere 1.000 fotografías en menos de 60 segundos
-- Habilitada para USB 3.0 / USB 3.1 (compatible con las versiones anteriores de puertos USB 2.0)
-- Compatibilidad: USB 3.1 (Gen 1) compatible con versiones anteriores de USB 3.0 y USB 2.0
-- Transfiere archivos a la memoria hasta 35 veces más rápido que las memorias USB 2.0 estándar; podrás trasferir y estar listo rápidamente
 - Transfiere una película 4K en menos de 40 segundos
+- Transfiere archivos a la memoria hasta 35 veces más rápido que las memorias USB 2.0 estándar; podrás trasferir y estar listo rápidamente
+- Mantén la privacidad de tus archivos privados con el software SanDisk SecureAccess (incluido)
+- Habilitada para USB 3.0 / USB 3.1 (compatible con las versiones anteriores de puertos USB 2.0)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01NARBPI7/?tag=tolees-21)

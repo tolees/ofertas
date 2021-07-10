@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Adilette  Slide Sandal Mujer  Hazy Blue/Hazy Rose/Haz
 
 🔎:
 
+- Correa de poliuretano de secado rápido
 - Diseño del deslizamiento
 - Adilette para el uso diario
-- Correa de poliuretano de secado rápido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08Q3BHGJ7/?tag=tolees-21)

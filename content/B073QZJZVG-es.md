@@ -28,11 +28,11 @@ En este momento está [Havaianas Slim  Chanclas Mujer  Rosa  37/38](https://www.
 
 🔎:
 
-- Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Revestimiento: Sin forro
 - Material de la suela: Goma
-- Composición: Goma
 - Material exterior: Goma
+- Composición: Goma
+- Cierre: Sin cordones
+- Tipo de tacón: Plano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073QZJZVG/?tag=tolees-21)

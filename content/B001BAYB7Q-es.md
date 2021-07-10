@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'kwb - KRAFTIXX 511890 - Juego de barrena al 38.58 % de descuento'
-date: 2021-06-26 08:39:22
-image: 'https://m.media-amazon.com/images/I/31B3hmyNk2L._SL500_._SL400_.jpg'
+date: 2021-07-10 10:11:25
+image: 'https://m.media-amazon.com/images/I/31tBh8nZhuS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,14 +24,14 @@ average: '4.6'
 
 Ahora mismo tienes [kwb - KRAFTIXX 511890 - Juego de barrenas para madera  vigas  6  8 y 10 mm  longitud total: 250 mm  longitud de trabajo 155 mm  3 piezas](https://www.amazon.es/dp/B001BAYB7Q/?tag=tolees-21) a 4.6 EUR (original: 7.49 EUR) (38.58 %  de descuento) en el siguiente enlace!
 
-[![kwb - KRAFTIXX 511890 - Juego de barrena](https://m.media-amazon.com/images/I/31B3hmyNk2L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B001BAYB7Q/?tag=tolees-21)
+[![kwb - KRAFTIXX 511890 - Juego de barrena](https://m.media-amazon.com/images/I/31tBh8nZhuS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B001BAYB7Q/?tag=tolees-21)
 
 🔎:
 
-- Longitud cada uno 250 mm.
-- Protección contra la corrosión mediante película de aceite.
-- Con punta centradora, pulido cuádruple.
-- Acero cromo vanadio.
 - Tamaños: 6, 8 y 10 mm.
+- Protección contra la corrosión mediante película de aceite.
+- Acero cromo vanadio.
+- Con punta centradora, pulido cuádruple.
+- Longitud cada uno 250 mm.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001BAYB7Q/?tag=tolees-21)

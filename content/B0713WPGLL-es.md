@@ -28,9 +28,9 @@ En este momento está [Western Digital - WD Elements - Disco duro externo portá
 
 🔎:
 
-- Compatibilidad con formato NTFS para Windows 10, Windows 8.1 o Windows 7. Puede requerir reformatear para otros sistemas operativos. El nivel de compatibilidad puede variar dependiendo de la configuración del hardware del usuario y su sistema operativo
-- Para añadir almacenamiento adicional para sus vídeos, música, fotos y archivos
 - Diseñado para ordenadores con Windows y formateable para Mac o otros sistemas
+- Para añadir almacenamiento adicional para sus vídeos, música, fotos y archivos
 - Compatibilidad con USB 3.0 y USB 2.0: Con un mismo disco tendrá compatibilidad con los nuevos dispositivos USB 3.0 y con los dispositivos USB 2.0 ya existentes
+- Compatibilidad con formato NTFS para Windows 10, Windows 8.1 o Windows 7. Puede requerir reformatear para otros sistemas operativos. El nivel de compatibilidad puede variar dependiendo de la configuración del hardware del usuario y su sistema operativo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0713WPGLL/?tag=tolees-21)

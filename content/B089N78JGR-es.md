@@ -28,8 +28,8 @@ En este momento está [Kingston DataTraveler 70 - DT70/64GB Unidad Flash USB-C  
 
 🔎:
 
+- Velocidades USB 3.2 Gen 2
 - Diseño sencillo y portátil
 - Diseñada para el uso con dispositivos USB-C
-- Velocidades USB 3.2 Gen 2
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089N78JGR/?tag=tolees-21)
