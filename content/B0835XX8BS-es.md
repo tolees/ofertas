@@ -28,9 +28,9 @@ En este momento está [Quiksilver PENCILO Print  School Supplies para Niños  Fl
 
 🔎:
 
-- Tejido estampado
 - Material: poliéster 600D
-- Tamaño: 22 x 10 cm, volumen: 1 l
+- Tejido estampado
 - Poliéster reciclado Repreve
+- Tamaño: 22 x 10 cm, volumen: 1 l
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0835XX8BS/?tag=tolees-21)

@@ -31,7 +31,7 @@ En este momento está [LELO Sona 2 Cruise Masajeador Con Ondas Sónicas Cereza  
 - UNA SENSACIÓN IDEAL: Desde un ligero pulso a unas ondas arrolladoras, en SONA 2 encontrarás el ritmo ideal para estimular todo tu clítoris
 - SUMERGIBLE CON SILICONA EXTRA SUAVE: Con silicona prémium ultra suave, su diseño sumergible te invita a explorar el efecto de las ondas sónicas en el baño o en la ducha
 - UNA ABERTURA MÁS GRANDE PARA UN PLACER MÁS EXCITANTE: Con una abertura más suave, profunda y grande, que te traerá toda la satisfacción sensual
-- TECNOLOGÍA INNOVADORA CRUISE CONTROL: Cuando se presiona sobre el cuerpo, SONA 2 Cruise automáticamente incrementa la potencia para que las ondas sónicas no pierdan en intensidad y puedas disfrutar de un placer constante
 - ONDAS SÓNICAS MÁS SUAVES: Las ondas sónicas de SONA 2 ahora son más suaves pero te siguen ofreciendo una estimulación de clítoris rápida y agradable
+- TECNOLOGÍA INNOVADORA CRUISE CONTROL: Cuando se presiona sobre el cuerpo, SONA 2 Cruise automáticamente incrementa la potencia para que las ondas sónicas no pierdan en intensidad y puedas disfrutar de un placer constante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XV8QCVM/?tag=tolees-21)
