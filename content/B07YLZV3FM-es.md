@@ -28,10 +28,10 @@ En este momento está [Bella Aurora Desmaquillador Ojos Waterproof Bifásico | R
 
 🔎:
 
-- Acabado seco y mate. No comedogénico e hipoalergénico. Resistente al agua. Cumple la normativa de producto sanitario. CÓDIGO: CPSP18112CAT
-- Recomendado para pieles con alteraciones de pigmentación, alergia solar y otros tipos de fotodermatosis o tras tratamientos dermatológicos e intervenciones
 - El Protector Solar SPF100+ Sensible garantiza una alta protección frente a las radiaciones UVA, UVB, Infrarrojos y HEV luz visible (pantallas ordenador, móvil, tabletas, fluorescentes…), para garantizar una óptima protección diaria frente a la exposición solar
-- Ventajas: Exfolian suavemente la piel, eliminan las impurezas y las células muertas de la superficie de la piel y estimulan la renovación celular. Con activos anti-manchas, realizan una exfoliación enzimática de la piel y estimulan la renovación celular para iluminar, unificar y aclarar el tono. Al mismo tiempo, minimizan la apariencia de los poros y suavizan la piel y aportan luminosidad.
+- Acabado seco y mate. No comedogénico e hipoalergénico. Resistente al agua. Cumple la normativa de producto sanitario. CÓDIGO: CPSP18112CAT
 - Su barrera protectora previene la aparición de nuevas manchas. Minimiza el tono de las manchas solares y de las cicatrices
+- Ventajas: Exfolian suavemente la piel, eliminan las impurezas y las células muertas de la superficie de la piel y estimulan la renovación celular. Con activos anti-manchas, realizan una exfoliación enzimática de la piel y estimulan la renovación celular para iluminar, unificar y aclarar el tono. Al mismo tiempo, minimizan la apariencia de los poros y suavizan la piel y aportan luminosidad.
+- Recomendado para pieles con alteraciones de pigmentación, alergia solar y otros tipos de fotodermatosis o tras tratamientos dermatológicos e intervenciones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YLZV3FM/?tag=tolees-21)
