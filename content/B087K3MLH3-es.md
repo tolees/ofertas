@@ -28,10 +28,10 @@ En este momento está [ZINUS Jennifer 119 cm Escritorio para ordenador portátil
 
 🔎:
 
-- ESTILO MODERNO Y FUNCIONAL PARA CUALQUIER HABITACIÓN: perfecto para tu oficina en casa, un espacio de trabajo en el dormitorio o la sala de estar, este escritorio contemporáneo de líneas limpias ayuda a completar cualquier habitación que necesite un poco más de espacio de mesa.
-- FÁCIL MONTAJE: todas las piezas, herramientas e instrucciones se suministran embaladas de forma experta en una caja compacta para una instalación sencilla en menos de 30 minutos.
-- VARIOS COLORES Y TAMAÑOS: disponibles en varios tamaños y acabados para que puedas encontrar el que mejor se adapta a tu espacio
 - FABRICACIÓN SÓLIDA: el marco de acero sólido y el tablero grueso están construidos para soportar hasta 45 kg de peso distribuido uniformemente.
+- FÁCIL MONTAJE: todas las piezas, herramientas e instrucciones se suministran embaladas de forma experta en una caja compacta para una instalación sencilla en menos de 30 minutos.
+- ESTILO MODERNO Y FUNCIONAL PARA CUALQUIER HABITACIÓN: perfecto para tu oficina en casa, un espacio de trabajo en el dormitorio o la sala de estar, este escritorio contemporáneo de líneas limpias ayuda a completar cualquier habitación que necesite un poco más de espacio de mesa.
+- VARIOS COLORES Y TAMAÑOS: disponibles en varios tamaños y acabados para que puedas encontrar el que mejor se adapta a tu espacio
 - SIN PREOCUPACIONES: 1 año de garantía; solo la mesa, sillas no incluidas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087K3MLH3/?tag=tolees-21)

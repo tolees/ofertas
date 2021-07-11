@@ -29,8 +29,8 @@ Tienes [Joma Iris Chaqueta  Niños  Negro  6XS](https://www.amazon.es/dp/B00N81U
 🔎:
 
 - Viene con puños equipados con elástico para un ajuste óptimo y capucha
-- Adecuado para todas las actividades bajo la lluvia
 - Impermeable abierto con cremallera y bolsillos
 - El interior incluye la tecnología Micro-Mesh para una mayor transpiración y una mejor ventilación, ayudando a mantener la temperatura corporal
+- Adecuado para todas las actividades bajo la lluvia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00N81U4HW/?tag=tolees-21)

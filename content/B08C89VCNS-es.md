@@ -29,7 +29,7 @@ Tienes [SSC NAPOLI Polo de Representanza 2020/21 Staff Polo de Representanza 202
 🔎:
 
 - SLIM FIT
-- Polo institucional para hombre en tejido piquet
 - Manga corta, cuello con estructura polo coreano en costina, parche de dos botones, detalles hombros y en contraste color.
+- Polo institucional para hombre en tejido piquet
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08C89VCNS/?tag=tolees-21)

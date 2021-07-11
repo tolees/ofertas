@@ -28,8 +28,8 @@ Ahora mismo tienes [Dockers Logo Sweatshirt  Sudadera Hombre  Skyway  M](https:/
 
 🔎:
 
-- Sudadera con logotipo
 - Modelo hecho con estándares de sostenibilidad para reducir el impacto ejercido en el planeta
+- Sudadera con logotipo
 - Confeccionado con técnicas Water<Less, que reducen el consumo de agua durante el proceso de acabado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089T7Y2SV/?tag=tolees-21)
