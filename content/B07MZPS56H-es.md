@@ -28,10 +28,10 @@ Está [Funko - Pop! Figura de Vinilo: Animación: Scooby Doo - Clown](https://ww
 
 ℹ️:
 
-- Descúbre otras figuras de la colección scooby doo y colecciónalas todas!
-- Scooby doo clown
-- Funko pop! vinyl
 - De la colección scooby doo, clown como figura de vinilo pop de funko
 - Scooby doo
+- Funko pop! vinyl
+- Descúbre otras figuras de la colección scooby doo y colecciónalas todas!
+- Scooby doo clown
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MZPS56H/?tag=tolees-21)

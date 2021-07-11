@@ -29,7 +29,7 @@ En este momento está [Lee Ribbed Tank Camiseta  Crudo  L para Mujer](https://ww
 🔎:
 
 - KnITS
-- Corte regular
 - Manga corta
+- Corte regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CVRD8BD/?tag=tolees-21)

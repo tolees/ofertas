@@ -28,10 +28,10 @@ En este momento está [Oxford Classic - Pack de 5 cuadernos A5  Tapa Blanda  Cua
 
 🔎:
 
-- 80 hojas, espiral con cierre de seguridad coil-lock y cantos romos para evitar que las tapas se deterioren
 - Cuadrícula 4mm x 4mm y margen de color azul
-- Tapas blandas plastificadas para los que quieren unas tapas flexibles y muy ligeras; gran resistencia al uso intensivo
-- Papel 90 gr Optik Paper: resistente a la presión del lápiz y al borrado, así como al traspaso de la tinta líquida
+- 80 hojas, espiral con cierre de seguridad coil-lock y cantos romos para evitar que las tapas se deterioren
 - Colores surtidos: Rosa, Rojo, Naranja, Verde y Azul
+- Papel 90 gr Optik Paper: resistente a la presión del lápiz y al borrado, así como al traspaso de la tinta líquida
+- Tapas blandas plastificadas para los que quieren unas tapas flexibles y muy ligeras; gran resistencia al uso intensivo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00NAY84S8/?tag=tolees-21)
