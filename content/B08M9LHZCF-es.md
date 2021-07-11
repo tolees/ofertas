@@ -28,10 +28,10 @@ Tienes [adidas QT Racer Sport  Zapatillas de Running Mujer  AZUHAL/FTWBLA/PLAHAL
 
 🔎:
 
+- Amortiguación superligera
 - Cierre de cordones
 - Forro textil
-- Mediasuela Lightmotion
 - Parte superior textil
-- Amortiguación superligera
+- Mediasuela Lightmotion
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08M9LHZCF/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Reebok FLEXAGON Force 3.0  Zapatillas Deportivas Hombre  
 
 🔎:
 
-- Plantilla MemoryTech.
 - Parte superior de tela.
 - Cierre de cordones.
+- Plantilla MemoryTech.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NSC66L3/?tag=tolees-21)

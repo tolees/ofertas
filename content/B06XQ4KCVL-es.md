@@ -28,10 +28,10 @@ Tienes [Garmin - Sensor Running Dynamics Pod](https://www.amazon.es/dp/B06XQ4KCV
 
 🔎:
 
-- Batería sustituible que dura hasta 1 año (considerando 1 hora de uso diario)
-- El tiempo de contacto con el suelo indica la cantidad de tiempo de cada paso en el suelo mientras corre
-- Tamaño pequeño: menos de 142 g
 - Procesa y envía 6 métricas de dinámica para carreras a un dispositivo compatible
 - Se enciende y apaga de manera automática
+- Tamaño pequeño: menos de 142 g
+- Batería sustituible que dura hasta 1 año (considerando 1 hora de uso diario)
+- El tiempo de contacto con el suelo indica la cantidad de tiempo de cada paso en el suelo mientras corre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XQ4KCVL/?tag=tolees-21)

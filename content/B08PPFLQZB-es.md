@@ -28,8 +28,8 @@ En este momento está [adidas Campus 80S  Sneaker Hombre  Grey/Footwear White/Of
 
 🔎:
 
-- Suela de goma
 - Zapatilla de 3 rayas
 - La parte superior de cuero
+- Suela de goma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PPFLQZB/?tag=tolees-21)

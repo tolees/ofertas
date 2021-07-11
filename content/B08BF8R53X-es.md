@@ -28,8 +28,8 @@ En este momento está [adidas Speedcourt  Handball Shoe Hombre  Legacy Blue/Foot
 
 🔎:
 
-- La parte superior sintética y textil
 - Corte regular
+- La parte superior sintética y textil
 - Cordones de zapatos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BF8R53X/?tag=tolees-21)
