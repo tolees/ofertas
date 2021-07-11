@@ -28,8 +28,8 @@ En este momento está [Vaseline - Cuidados intensivos de vaselina: crema corpora
 
 🔎:
 
-- Proporciona hidratación a la piel durante todo el día
 - Tipo de producto: loción corporal para pieles secas
+- Proporciona hidratación a la piel durante todo el día
 - Ofrece una piel suave y radiante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008MTVWRQ/?tag=tolees-21)

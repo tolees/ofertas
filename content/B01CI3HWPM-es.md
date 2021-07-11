@@ -28,10 +28,10 @@ En este momento está [Westinghouse Lighting Bendan Ventilador de Techo  Metal  
 
 🔎:
 
+- Ideal para habitaciones de hasta 25 m2
 - Conmutador inversor de modo verano e invierno para un ambiente agradable durante todo el año
+- Con mando a distancia
 - Incluye (1) bombilla halógena R7s, 80 W
 - 3 niveles de velocidad
-- Con mando a distancia
-- Ideal para habitaciones de hasta 25 m2
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CI3HWPM/?tag=tolees-21)

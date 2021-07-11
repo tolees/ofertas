@@ -28,9 +28,9 @@ En este momento está [Ubisoft Spain - Starlink - Battle For Atlas  Pack Piloto 
 
 🔎:
 
-- Conecta los juguetes modulares al soporte y verás al instante cómo cobran vida en el juego. Diseña tu propia nave a partir de tu arsenal de alas, cascos, armas y pilotos, y adáptate a cualquier desafío al que te enfrentes en tiempo real
-- Mejora tu aventura y alcanza la victoria con el pack del piloto Kharl Zeon y su habilidad de piloto Vortex Shield
 - Siempre ha estado obsesionado con los Wardens, y sueña con descifrar algún día sus antiguos misterios
+- Mejora tu aventura y alcanza la victoria con el pack del piloto Kharl Zeon y su habilidad de piloto Vortex Shield
+- Conecta los juguetes modulares al soporte y verás al instante cómo cobran vida en el juego. Diseña tu propia nave a partir de tu arsenal de alas, cascos, armas y pilotos, y adáptate a cualquier desafío al que te enfrentes en tiempo real
 - Devuelve a tus enemigos sus propios disparos con este maestro de la gravedad
 - Kharl Zeon es un científico de la facción Expedition que se encuentra en su laboratorio como en casa. Su inteligencia privilegiada hace que no preste demasiada atención a detalles cotidianos, como el trato con los demás
 

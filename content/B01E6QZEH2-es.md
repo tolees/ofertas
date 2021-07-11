@@ -29,10 +29,10 @@ Ahora mismo tienes [Brabantia Sort & Go Cubo de Basura  12 L  Plástico  Gris  2
 🔎:
 
 - Material: plástico
-- Disponibles bolsas de basura PerfecFit de Brabantia con autocierre – fáciles de ajustar
-- Capacidad de 12 litros
-- Se puede utilizar de pie o colgarlo de la pared – soporte de fijación incluido
 - Unidad compacta que ahorra espacio – óptimo para separar los residuos del hogar
+- Capacidad de 12 litros
 - Para reciclar los desperdicios a tu manera
+- Disponibles bolsas de basura PerfecFit de Brabantia con autocierre – fáciles de ajustar
+- Se puede utilizar de pie o colgarlo de la pared – soporte de fijación incluido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01E6QZEH2/?tag=tolees-21)

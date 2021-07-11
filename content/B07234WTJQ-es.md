@@ -28,8 +28,8 @@ Tienes [Pioneer SE-E3-GR - Auriculares deportivo  resistente al agua IPX-2  clip
 
 🔎:
 
-- Color del producto: azul agua marina
-- Auricular deportivo con enganche flexible
 - Resistente al agua según protocolo IPX-2
+- Auricular deportivo con enganche flexible
+- Color del producto: azul agua marina
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07234WTJQ/?tag=tolees-21)

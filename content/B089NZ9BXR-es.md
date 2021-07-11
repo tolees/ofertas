@@ -29,9 +29,9 @@ Tienes [EXOST - Coche teledirigido - Hyperdrift - Derrapes asegurados - Neumáti
 🔎:
 
 - Hyperdrift de Exost : un Coche de última tecnología con Neumáticos especialmente diseñados para el drift. Realiza acrobacias y giros vertiginosos y supera todos los obstáculos a 360º. Escala 1:14. Pilas no incluidas : 4 x AA (Coche) y 2 x AA (mando). A partir de 5 años.
-- Escala 1:14.
-- Neumáticos diseñados para el drift.
-- Neumáticos diseñados para el drift.
 - Derrapes asegurados.
+- Neumáticos diseñados para el drift.
+- Neumáticos diseñados para el drift.
+- Escala 1:14.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089NZ9BXR/?tag=tolees-21)

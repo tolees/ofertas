@@ -28,10 +28,10 @@ Está [Bio Atlantic - Echinacea Orgánica - Echinacea purpurea - 400 mg - 200 co
 
 ℹ️:
 
-- De 2 a 3 comprimidos por día con un gran vaso de agua durante las comidas, como parte de una dieta equilibrada.
 - Productos de la agricultura ecológica.
 - Echinacea Raíz Orgánica - 400mg -200 comprimidos
-- Echinacea purpurea
 - 🍃 FORMULA ORGÁNICA
+- De 2 a 3 comprimidos por día con un gran vaso de agua durante las comidas, como parte de una dieta equilibrada.
+- Echinacea purpurea
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06Y36QNHK/?tag=tolees-21)
