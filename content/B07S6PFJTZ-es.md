@@ -28,8 +28,8 @@ Está [PUMA Smash v2 L  Zapatillas Unisex Adulto  White-Palace Blue Team Gold  3
 
 ℹ️:
 
-- Piel sintética
-- Goma
 - Camiseta
+- Goma
+- Piel sintética
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07S6PFJTZ/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Western Digital WD Green - Internal SSD M.2 SATA  240 GB - WDS240G2G0B](h
 
 ℹ️:
 
-- Capacidad del disco duro 240 GB
-- Velocidad de lectura/escritura: 2.800 mW
 - Interfaz SATA 6 Gb / s
+- Velocidad de lectura/escritura: 2.800 mW
 - Sistemas operativos compatibles: Windows 7, de 32 o 64 bits, Windows 8.1, de 32 o 64 bits, Windows 10, de 32 o 64 bits
+- Capacidad del disco duro 240 GB
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078WYS5K6/?tag=tolees-21)

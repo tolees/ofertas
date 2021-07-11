@@ -28,9 +28,9 @@ Está [adidas Solar Glide W  Zapatillas para Correr Mujer  Negbás Oxiazu Toqgri
 
 ℹ️:
 
-- Mediasuela Boost
+- Parte superior de malla
 - Refuerzo a lo largo de la mediasuela
 - Cierre de cordones
-- Parte superior de malla
+- Mediasuela Boost
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PC7MHN1/?tag=tolees-21)

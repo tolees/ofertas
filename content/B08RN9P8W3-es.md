@@ -28,8 +28,8 @@ En este momento está [Reebok Club C Revenge  Sneaker Hombre  Ftwwht Brablu Ftww
 
 🔎:
 
-- Plantilla de espuma EVA
 - Suela de goma
 - Parte superior de cuero suave
+- Plantilla de espuma EVA
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RN9P8W3/?tag=tolees-21)

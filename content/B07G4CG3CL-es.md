@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pyramid International - Super Mario - Mu con un 44.69 % de descuento'
-date: 2021-07-09 19:27:02
+date: 2021-07-11 14:03:03
 image: 'https://m.media-amazon.com/images/I/41BAQvLpT3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pyramid International'
 buyurl: 'https://www.amazon.es/dp/B07G4CG3CL/?tag=tolees-21'
 descuento: '44.69'
-average: '7.04375'
+average: '6.81111111111111'
 ---
 
 En este momento está [Pyramid International - Super Mario - Mug Super Mario Bros. 3  320 ML](https://www.amazon.es/dp/B07G4CG3CL/?tag=tolees-21) a 4.95 EUR (original: 8.95 EUR) (44.69 %  de descuento) en el siguiente enlace!
