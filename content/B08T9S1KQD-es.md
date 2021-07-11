@@ -28,10 +28,10 @@ Está [adidas 4ATHLTS GB Bolsa de Gimnasio  Adultos Unisex  AZMATR/AZMATR/Negro 
 
 ℹ️:
 
-- Mochila saco con cordón ajustable
-- Tejido técnico 100% poliéster
 - Capacidad: 20,75 litros.
-- Bolsillo exterior de malla con cremallera
 - Asa de mano en la parte superior
+- Tejido técnico 100% poliéster
+- Bolsillo exterior de malla con cremallera
+- Mochila saco con cordón ajustable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08T9S1KQD/?tag=tolees-21)

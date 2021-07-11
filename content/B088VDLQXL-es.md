@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Panasonic SC-HTB400EGK - Barra de Sonido con un 36.14 % de descuento'
-date: 2021-06-23 12:06:43
+title: 'Panasonic SC-HTB400EGK - Barra de Sonido con un 39.37 % de descuento'
+date: 2021-07-11 10:33:24
 image: 'https://m.media-amazon.com/images/I/21mWExB-q+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: 'tole.es'
 slug: 'B088VDLQXL-es Panasonic SC-HTB400EGK - Barra de Sonido 2.1 All-In-One...'
 sku: 'B088VDLQXL-es'
 tags: [ 'Altavoces','Barras de sonido','Electrónica','Equipos de audio y Hi-Fi','panasonic', ]
-actualPrice: 197.95 EUR
+actualPrice: 187.94 EUR
 currency: EUR
-price: 197.95
+price: 187.94
 comparePrice: 309.99 EUR
 prodname: 'Panasonic SC-HTB400EGK - Barra de Sonido 2.1 All-In-One con Subwoofer Integrado  160W  SW 80W  Bluetooth  HDMI  ARC  Entrada Digital Óptica  Montaje en Pared '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Panasonic'
 buyurl: 'https://www.amazon.es/dp/B088VDLQXL/?tag=tolees-21'
-descuento: '36.14'
-average: '215.700800000001'
+descuento: '39.37'
+average: '214.633076923078'
 ---
 
-En este momento está [Panasonic SC-HTB400EGK - Barra de Sonido 2.1 All-In-One con Subwoofer Integrado  160W  SW 80W  Bluetooth  HDMI  ARC  Entrada Digital Óptica  Montaje en Pared ](https://www.amazon.es/dp/B088VDLQXL/?tag=tolees-21) a 197.95 EUR (original: 309.99 EUR) (36.14 %  de descuento) en el siguiente enlace!
+En este momento está [Panasonic SC-HTB400EGK - Barra de Sonido 2.1 All-In-One con Subwoofer Integrado  160W  SW 80W  Bluetooth  HDMI  ARC  Entrada Digital Óptica  Montaje en Pared ](https://www.amazon.es/dp/B088VDLQXL/?tag=tolees-21) a 187.94 EUR (original: 309.99 EUR) (39.37 %  de descuento) en el siguiente enlace!
 
 [![Panasonic SC-HTB400EGK - Barra de Sonido](https://m.media-amazon.com/images/I/21mWExB-q+L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B088VDLQXL/?tag=tolees-21)
 
 🔎:
 
 - Canal 2.1: disfruta del mejor sonido en tus series favoritas
-- Montaje en pared: totalmente posible para que encaje en cualquier rincón de tu hogar
 - Entrada y conexiones: ofrece múltiples opciones para que el dispositivo este conectado: Bluetooth, HDMI, ARC, Entrada digital óptica
+- Montaje en pared: totalmente posible para que encaje en cualquier rincón de tu hogar
 - Subwoofer integrado: olvídate de buscar un rincón para el subwoofer, en esta barra ya lo tiene integrado por lo que nativamente ofrece unos graves muy potentes y precisos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088VDLQXL/?tag=tolees-21)

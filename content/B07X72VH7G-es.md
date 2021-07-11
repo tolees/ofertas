@@ -28,7 +28,7 @@ Ahora mismo tienes [Shock Absorber Ultimate Run Bra Padded Sujetador Deportivo  
 
 🔎:
 
-- Estructura exterior forrada con un panel fino sin costuras para evitar el roce
 - Elasticidad debajo de los brazos para reducir la fricción.Tirantes anchos y almohadillados que no deslizan
+- Estructura exterior forrada con un panel fino sin costuras para evitar el roce
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X72VH7G/?tag=tolees-21)

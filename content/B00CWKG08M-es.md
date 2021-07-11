@@ -28,10 +28,10 @@ En este momento está [Pattex Barrita Arreglatodo Masilla bicomponente extrafuer
 
 🔎:
 
-- Secado rápido – Ideal para múltiples usos, esta masilla reparadora se seca en solo 5 minutos; una vez endurecido, el adhesivo universal se retira mecánicamente
 - Multimaterial – Esta cola rápida, eficaz y fiable es una resina bicomponente epoxi adecuada para cerámica, cemento, metales, madera, piedra y también cristal
+- Secado rápido – Ideal para múltiples usos, esta masilla reparadora se seca en solo 5 minutos; una vez endurecido, el adhesivo universal se retira mecánicamente
 - Envío y detalles – Pattex Barrita Arreglatodo, masilla universal epoxi de secado rápido, cola resistente multimaterial, barnizable y lijable, blanco al secar, tubo de 48 g
-- Barnizable y lijable – Una vez seca, a esta masilla adhesiva se le puede dar el acabado que se desee; por ejemplo, se puede barnizar, lijar, pintar o mecanizar
 - Pega y repara – Esta masilla epoxi bicomponente en pasta no solo pega de manera fiable, sino que también es ideal para reparar, sellar, reconstruir y rellenar
+- Barnizable y lijable – Una vez seca, a esta masilla adhesiva se le puede dar el acabado que se desee; por ejemplo, se puede barnizar, lijar, pintar o mecanizar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00CWKG08M/?tag=tolees-21)
