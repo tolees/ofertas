@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash v2 L  Zapatillas Unisex Adult al 45.05 % de descuento'
-date: 2021-07-11 13:00:07
+date: 2021-07-11 13:00:28
 image: 'https://m.media-amazon.com/images/I/31eso8xQg8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [PUMA Smash v2 L  Zapatillas Unisex Adulto  White-Palace Blue Team Gold  3
 
 ℹ️:
 
-- Camiseta
-- Goma
 - Piel sintética
+- Goma
+- Camiseta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07S6PFJTZ/?tag=tolees-21)

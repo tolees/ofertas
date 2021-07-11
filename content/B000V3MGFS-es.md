@@ -28,9 +28,9 @@ En este momento está [La Roche-Posay - la Roche Posay Respectissime Desmaquilla
 
 🔎:
 
-- Tipo de Piel: Sensible
 - Diseño funcional
-- Formato: Bifásico
 - Texturas: Loción
+- Tipo de Piel: Sensible
+- Formato: Bifásico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000V3MGFS/?tag=tolees-21)

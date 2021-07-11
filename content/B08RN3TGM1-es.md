@@ -28,8 +28,8 @@ Está [Reebok Classic Leather  Zapatillas Mujer  Footwear White Carbon Vector Re
 
 ℹ️:
 
+- Suela exterior de goma
 - Entresuela ligera de EVA para mayor amortiguación
 - Material exterior de piel suave
-- Suela exterior de goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RN3TGM1/?tag=tolees-21)

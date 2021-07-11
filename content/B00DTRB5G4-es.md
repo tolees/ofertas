@@ -28,10 +28,10 @@ Tienes [UHU 39125 - Pack de 80 masillas adhesivas  color blanco](https://www.ama
 
 🔎:
 
-- Rápido, limpio y seguro
 - No deja huella cuando se retira
 - Sustituye a las cintas adhesivas, grapas y chinchetas. Sin agujerear
 - Pack de 80 masillas adhesivas, con múltiples aplicaciones
+- Rápido, limpio y seguro
 - De uso exclusivo en el hogar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00DTRB5G4/?tag=tolees-21)
