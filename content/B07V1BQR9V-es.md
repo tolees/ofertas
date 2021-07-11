@@ -28,10 +28,10 @@ Tienes [Ledvance - Lámpara LED acrilonitrilo butadieno estireno  ABS   0.25 W  
 
 🔎:
 
-- Sensor de día/noche integrado y sensor de movimiento.
 - Interruptor integrado para modo de encendido/apagado y modo automático a través de los sensores.
-- Ideal para diferentes áreas de aplicación: luz nocturna, de seguridad, de saludo, etc.
-- Instalación fácil y rápida en casi cualquier superficie (tiras adhesivas o tornillos).
 - Las pilas están incluidas en la lámpara e intercambiables.
+- Instalación fácil y rápida en casi cualquier superficie (tiras adhesivas o tornillos).
+- Ideal para diferentes áreas de aplicación: luz nocturna, de seguridad, de saludo, etc.
+- Sensor de día/noche integrado y sensor de movimiento.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V1BQR9V/?tag=tolees-21)

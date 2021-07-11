@@ -28,8 +28,8 @@ Ahora mismo tienes [Michael Kors Reloj de Pulsera mk6693](https://www.amazon.es/
 
 🔎:
 
-- Reloj
-- Marca Michael Kors
 - Producto de alta calidad
+- Marca Michael Kors
+- Reloj
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VGRQHD7/?tag=tolees-21)
