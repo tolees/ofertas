@@ -28,9 +28,9 @@ Está [Michael Kors Smartwatch MKT5049](https://www.amazon.es/dp/B07GB24Q1F/?tag
 
 ℹ️:
 
-- Compatible con Android OS 4.4+ y iOS 9.3+
-- Artículos entregados: 1 Smartwatch MICHAEL KORS ACCESS Display, 1 cargador inalámbrico (tipo USB), 1 Guía de inicio rápido, 1 librito de garantía
 - Michael Kors Access RUNWAY - Reloj Inteligente Display para Mujeres - Diámetro: 40 mm, grosor: 13 mm, ancho de correa: 18 mm - 3 ATM Sumergible
+- Artículos entregados: 1 Smartwatch MICHAEL KORS ACCESS Display, 1 cargador inalámbrico (tipo USB), 1 Guía de inicio rápido, 1 librito de garantía
+- Compatible con Android OS 4.4+ y iOS 9.3+
 - Funciones: Seguimiento del ritmo cardíaco, GPS, Google Pay, Apto para nadar, Notificaciones, Esferas personalizables, Control de tu música, correas intercambiables y mucho más
 - Duración estimada de la batería: todo el día (según uso)
 

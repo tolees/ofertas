@@ -28,8 +28,8 @@ Tienes [Western Digital - WD Elements - Disco duro externo portátil de 1 TB con
 
 🔎:
 
+- Capacidad de almacenamiento de 1 TB
 - Diseñado para ordenadores con sistema operativo Windows, formatable para Mac
 - Conexión USB 3.0 y compatibilidad con versiones anteriores de dispositivos USB 2.2
-- Capacidad de almacenamiento de 1 TB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06VVS7S94/?tag=tolees-21)
