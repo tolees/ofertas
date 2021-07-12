@@ -28,10 +28,10 @@ Tienes [Sabrent Concentrador USB 3.0 con 4 Puertos con interruptores de alimenta
 
 ℹ️:
 
-- La LED azul indica el estado de alimentación para cada puerto
-- Compatible hacia abajo con USB 2.0 y USB 1.1
 - Fácil de instalar: Plug & Play e intercambiable en caliente
-- Soporta la velocidad de transferencia hasta 5Gbps (USB 3.0), 480Mbps (USB 2.0), 12Mbps (USB 1.1)
+- La LED azul indica el estado de alimentación para cada puerto
 - 4 puertos (salida); 1 puerto (entrada)
+- Soporta la velocidad de transferencia hasta 5Gbps (USB 3.0), 480Mbps (USB 2.0), 12Mbps (USB 1.1)
+- Compatible hacia abajo con USB 2.0 y USB 1.1
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JX1ZS5O/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Grohe Minta - Grifo de cocina  ángulo de giro de 0°  150° o 360°  ac
 
 ℹ️:
 
-- Caño tubular giratorio
 - Caño en l
+- Caño tubular giratorio
 - Grohe silkmove cartucho de discos cerámicos 46 mm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CHKTCXC/?tag=tolees-21)

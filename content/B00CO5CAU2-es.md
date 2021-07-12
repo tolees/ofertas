@@ -28,9 +28,9 @@ Ahora mismo tienes [Walimex Pro easyCover - Funda para Canon 6D](https://www.ama
 
 🔎:
 
-- Permite acceso a todas las funciones
-- Funda protectora fabricada en silicona para cámara réflex Canon 6D
 - Superficie antideslizante
 - Permite acceso a cambio tarjetas y batería
+- Funda protectora fabricada en silicona para cámara réflex Canon 6D
+- Permite acceso a todas las funciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00CO5CAU2/?tag=tolees-21)

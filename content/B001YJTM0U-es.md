@@ -28,11 +28,11 @@ Tienes [Siemens HF15G541 - Microondas de acero inoxidable  17 litros  800 vatios
 
 ℹ️:
 
-- Voltaje de entrada AC: 230 V
-- Altura: 290 mm
+- Profundidad: 320 mm
+- Potencia instalada: 1.270 W
 - Ancho: 462 mm
 - Frecuencia de entrada AC: 50 Hz
-- Potencia instalada: 1.270 W
-- Profundidad: 320 mm
+- Voltaje de entrada AC: 230 V
+- Altura: 290 mm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001YJTM0U/?tag=tolees-21)

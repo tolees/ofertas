@@ -28,10 +28,10 @@ Está [Bright Starts  Mantita con Actividades y Animalitos](https://www.amazon.e
 
 ℹ️:
 
-- Anillo sonajero con forma de cebra, colgante musical con forma de tigre y mordedora con forma de libélula
-- 3 hojas de mordedora y Fun Links
 - Gran espejo apto para bebés para que el bebé se descubra a sí mismo
-- Tigre para llevar a todas partes con luces y más de 20 minutos de melodías y sonidos que ayudan a estimular los sentidos de la vista y el oído del bebé
+- Anillo sonajero con forma de cebra, colgante musical con forma de tigre y mordedora con forma de libélula
 - El cojín blando con forma de jirafa es ideal para jugar boca abajo
+- 3 hojas de mordedora y Fun Links
+- Tigre para llevar a todas partes con luces y más de 20 minutos de melodías y sonidos que ayudan a estimular los sentidos de la vista y el oído del bebé
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0051POJQA/?tag=tolees-21)
