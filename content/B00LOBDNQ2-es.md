@@ -29,7 +29,7 @@ Ahora mismo tienes [Verbatim Store N Go USB Drive 64Gb Deslizante](https://www.a
 🔎:
 
 - Compatibilidad:No específica
-- Tipo de producto:Unidad flash USB
 - Capacidad almacenamiento:64 GB
+- Tipo de producto:Unidad flash USB
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00LOBDNQ2/?tag=tolees-21)
