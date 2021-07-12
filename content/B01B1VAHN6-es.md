@@ -28,9 +28,9 @@ Está [Bose® Solo 5 - Barra de sonido para televisores  negro + Bose WB-120 - S
 
 ℹ️:
 
-- Fácil de instalar
 - Compatible con: Sistema de sonido TV Bose Solo 5, Sistema de cine en casa SoundTouch 120 y CineMate 120
 - Modo de diálogo para resaltar cada palabra y detalle
+- Fácil de instalar
 - Una sola barra de sonido proporciona una sorprendente calidad de sonido mejorada en comparación con la del televisor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01B1VAHN6/?tag=tolees-21)

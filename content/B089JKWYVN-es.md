@@ -28,9 +28,9 @@ Tienes [Havaianas Flores  Chanclas Niñas  Pink Porcelain  25/26](https://www.am
 
 🔎:
 
-- Cómodo
-- Antideslizante
 - Fabricado en Brasil
 - Resistente al agua
+- Antideslizante
+- Cómodo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089JKWYVN/?tag=tolees-21)
