@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Hoops 2.0  Zapatillas de bsquetbol Mujer  FTWR White 
 
 🔎:
 
-- Amortiguación
 - Zapatillas de baloncesto
+- Amortiguación
 - Empeine de piel sintética
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PVW2R57/?tag=tolees-21)
