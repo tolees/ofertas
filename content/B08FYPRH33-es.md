@@ -28,9 +28,9 @@ En este momento está [Havaianas Luna  Sandalias Planas Mujer  Verde Tropical  3
 
 🔎:
 
-- Cómodo.
 - Antideslizante.
 - Fabricado en Brasil.
 - Resistente al agua.
+- Cómodo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FYPRH33/?tag=tolees-21)

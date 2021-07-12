@@ -29,11 +29,11 @@ Tienes [Polar M430 blanco Reloj running con GPS  Unisex adulto  Blanco  S](https
 🔎:
 
 - Tallas: S: circunferencia de la muñeca 130-187 mm
-- Compatible con sensores de frecuencia cardíaca Polar BLE
-- Dimensiones: altura 12 mm
-- Registro de la frecuencia cardíaca en la muñeca
-- Impermeable, adecuado para nadar
-- Analiza tu sueño al detalle con la función Sleep Plus, velocidad, distancia también en indoor
 - Cable USB personalizado para sincronizar datos con PC o Mac, bluetooth de baja energía con dispositivo móvil y sensores
+- Analiza tu sueño al detalle con la función Sleep Plus, velocidad, distancia también en indoor
+- Impermeable, adecuado para nadar
+- Compatible con sensores de frecuencia cardíaca Polar BLE
+- Registro de la frecuencia cardíaca en la muñeca
+- Dimensiones: altura 12 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073WG19VS/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Cecotec Ventilador de Torre con Temporizador EnergySilence 8
 
 🔎:
 
-- Fácil de transportar y almacenar gracias a su asa de transporte.
-- 3 velocidades para adecuar la intensidad del caudal de aire (baja-Noche/Eco media-Normal y alta-Turbo). Cuenta con la Tecnologia EnergySilence, ofreciendo una profunda sensación de aire fresco al instante con el máximo silencio y confort.
 - Diseño cuidado de líneas elegantes con altura de 30’’ (76 cm). para adaptarse a la decoración de tu hogar. Modo de oscilación de las aspas para proporcionar un mayor ángulo de aireación y una amplia zona de frescor.
 - Dispone de temporizador programable hasta 120 min, tras los que el ventilador se apaga de forma automática, para proporcionarte la máxima comodidad durante su uso y ahorrar energía.
+- Fácil de transportar y almacenar gracias a su asa de transporte.
+- 3 velocidades para adecuar la intensidad del caudal de aire (baja-Noche/Eco media-Normal y alta-Turbo). Cuenta con la Tecnologia EnergySilence, ofreciendo una profunda sensación de aire fresco al instante con el máximo silencio y confort.
 - Exclusivo motor 100 % de cobre de alta eficiencia, fiable y de máxima durabilidad. Además, cumple con la normativa vigente en cuanto a seguridad y protección del medio ambiente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B092JC9R2N/?tag=tolees-21)
