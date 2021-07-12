@@ -28,10 +28,10 @@ En este momento está [Haribo Osos Dorados  Tarro de Ositos  Gomitas de Fruta  O
 
 🔎:
 
-- Información de almacenamiento: Proteger del calor y la humedad. Empresa responsable de alimentos: HARIBO D-53129 Bonn
-- La exclusiva lata con forma de oso dorado es solo una pequeña atención y un regalo para jóvenes y mayores.
-- Los osos de oro HARIBO han sido nuestro producto exitoso por más de 90 años en los sabores deliciosamente frutales de piña, manzana, fresa, frambuesa, jugo de naranja y limón.
-- Nuestro número 1 en la tienda de dulces! Las generaciones los aman y crecen con ellos.
 - Haribo Osos Dorados, Tarro de Ositos, Gomitas de Fruta, Ositos de Goma, 450g Tarro
+- Información de almacenamiento: Proteger del calor y la humedad. Empresa responsable de alimentos: HARIBO D-53129 Bonn
+- Los osos de oro HARIBO han sido nuestro producto exitoso por más de 90 años en los sabores deliciosamente frutales de piña, manzana, fresa, frambuesa, jugo de naranja y limón.
+- La exclusiva lata con forma de oso dorado es solo una pequeña atención y un regalo para jóvenes y mayores.
+- Nuestro número 1 en la tienda de dulces! Las generaciones los aman y crecen con ellos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003URPSRU/?tag=tolees-21)

@@ -28,13 +28,13 @@ En este momento está [Hot Wheels City T-Rex Devorador Destructor  Mattel GWT32 
 
 🔎:
 
-- Varias temáticas distintas para coleccionar o intercambiar con amigos
-- Regalo óptimo para niñas y niños de más de 3 años
-- Carga tu coche en el lanzador y lánzalo contra el T-Rex para intentar abatirlo. Apunta con cuidado porque si no lo haces bien, el T-Rex destruirá los edificios de la ciudad con su monstruosa cola
-- Un gigantesco T-Rex se ha adueñado de Hot Wheels City y está derribando los edificios de la ciudad. Los niños se pondrán a prueba al intentar vencer al enorme dinosaurio T-Rex con sus coches Hot Wheels
 - Hora de ponerse como una fiera con T-Rex Rampage de Hot Wheels City
 - Vehículos hot wheelsa escala 1:64 con un estilo auténtico y detalles llamativos
-- Cada pack incluye 5 coches
 - Que no te trague el T-Rex; Hot Wheels City te necesita para salvar la situación
+- Varias temáticas distintas para coleccionar o intercambiar con amigos
+- Carga tu coche en el lanzador y lánzalo contra el T-Rex para intentar abatirlo. Apunta con cuidado porque si no lo haces bien, el T-Rex destruirá los edificios de la ciudad con su monstruosa cola
+- Cada pack incluye 5 coches
+- Regalo óptimo para niñas y niños de más de 3 años
+- Un gigantesco T-Rex se ha adueñado de Hot Wheels City y está derribando los edificios de la ciudad. Los niños se pondrán a prueba al intentar vencer al enorme dinosaurio T-Rex con sus coches Hot Wheels
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B096FXVW3H/?tag=tolees-21)
