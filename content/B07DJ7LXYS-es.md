@@ -28,13 +28,13 @@ Ahora mismo tienes [Geox D RUBIDIA A  Zapatillas  Beige  Light Taupe C6738   35 
 
 🔎:
 
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Altura del tacón: 4.5 centímetros
-- Tipo de tacón: Plano
 - Revestimiento: Malla
-- Composición: Cuero
-- Material de la suela: Sintético
 - Cierre: Cordones
+- Material de la suela: Sintético
+- Altura del tacón: 4.5 centímetros
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Tipo de tacón: Plano
+- Composición: Cuero
 - Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJ7LXYS/?tag=tolees-21)

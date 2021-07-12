@@ -28,10 +28,10 @@ Tienes [Casio Reloj Analógico-Digital para Hombre Correa en Resina GA-140-1A4ER
 
 🔎:
 
-- Clasificación de resistencia al agua (20 bares)
+- Función de cronómetro - 1/1000 seg. - 100 horas. - Split; temporizador - 1/1 min. - 24 horas. (con función repetitiva)
 - 5 alarmas diarias, función de repetición
 - Indicador de velocidad
-- Función de cronómetro - 1/1000 seg. - 100 horas. - Split; temporizador - 1/1 min. - 24 horas. (con función repetitiva)
 - Función de hora mundial
+- Clasificación de resistencia al agua (20 bares)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TWMR4QW/?tag=tolees-21)

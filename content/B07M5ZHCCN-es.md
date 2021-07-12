@@ -28,8 +28,8 @@ Tienes [Lee Luke Medium Stretch Jeans  Gris  Moto Grey Hga   26W / 32L para Homb
 
 ℹ️:
 
+- Vaqueros para hombre
 - Estilo 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
-- Vaqueros para hombre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07M5ZHCCN/?tag=tolees-21)

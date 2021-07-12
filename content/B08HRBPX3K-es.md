@@ -29,8 +29,8 @@ En este momento está [CERDÁ LIFE S LITTLE MOMENTS- Paraguas Transparente de Ha
 🔎:
 
 - Paraguas infantil - ¡días de lluvia, días de diversión con sus personajes favoritos!
+- Paraguas manual - apertura manual y diseño con sistema de seguridad que incluye protección de goma pegada y cosidas a la varillas para garantizar la seguridad de lo más pequeños de la casa
 - Medidas - 45 cm de radio , 71 cm de diámetro y 8 varillas, tubo metálico de fibra de vidrio - resistente y duradero, no se doforma
 - Paraguas transparente niño - con diseño transparente para que vean la lluvia caer junto a sus personajes favoritos
-- Paraguas manual - apertura manual y diseño con sistema de seguridad que incluye protección de goma pegada y cosidas a la varillas para garantizar la seguridad de lo más pequeños de la casa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HRBPX3K/?tag=tolees-21)
