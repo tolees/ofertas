@@ -28,7 +28,7 @@ Está [Camper Peu  Zapatillas Hombre  Negro  40 EU](https://www.amazon.es/dp/B07
 
 ℹ️:
 
-- Flexibilidad
 - Ligera
+- Flexibilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VFK1GVN/?tag=tolees-21)
