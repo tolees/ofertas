@@ -28,10 +28,10 @@ Está [Casio WVA-M650TD-1AER – Reloj Hombre Analógico/Digital con Correa de T
 
 ℹ️:
 
-- Controlado por radio
 - Luz LED completa automática
 - Sumergible hasta 10 bares
-- Funcionamiento mediante energía solar
 - Correa de titanio macizo
+- Controlado por radio
+- Funcionamiento mediante energía solar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B010PIUF1A/?tag=tolees-21)
