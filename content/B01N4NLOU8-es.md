@@ -28,8 +28,8 @@ En este momento está [Funko- Morty Figura de Vinilo  12925 ](https://www.amazon
 
 🔎:
 
-- Morty
-- Action Figure
 - Rick & Morty
+- Action Figure
+- Morty
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N4NLOU8/?tag=tolees-21)

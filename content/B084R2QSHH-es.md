@@ -28,8 +28,8 @@ Ahora mismo tienes [PUMA Women Padded Top 1P Hang Sujetador Deportivo  White  S 
 
 🔎:
 
-- Sujeción sin aros
 - Relleno de espuma suave
 - Tirantes ajustables
+- Sujeción sin aros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084R2QSHH/?tag=tolees-21)

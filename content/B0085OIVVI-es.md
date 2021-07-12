@@ -28,8 +28,8 @@ Tienes [TENGA Huevo Keith Haring Party  Funda Masturbadora  4.9 x 6.1 x 4.9 cm  
 
 ℹ️:
 
-- Elastómero super elástico que se adapta a cualquier talla de pene
-- Funda masturbadora con relieve y texturas internas
 - Ideal para jugar solo o en pareja
+- Funda masturbadora con relieve y texturas internas
+- Elastómero super elástico que se adapta a cualquier talla de pene
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0085OIVVI/?tag=tolees-21)
