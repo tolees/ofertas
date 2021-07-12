@@ -28,8 +28,8 @@ En este momento está [Lee Scarlett Jeans  Azul  Dark Ulrich Iy   24W / 33L para
 
 🔎:
 
-- Vaqueros para mujer
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Presentan 5 bolsillos
+- Tienen un parche de piel en la parte trasera con la marca Lee
+- Vaqueros para mujer
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07M9QR6Z3/?tag=tolees-21)

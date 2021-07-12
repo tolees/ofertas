@@ -28,10 +28,10 @@ Tienes [Reloj Guess - Hombre W0971G1](https://www.amazon.es/dp/B06WLM2T4C/?tag=t
 
 🔎:
 
+- Diámetro de la caja: 44 mm, Grueso: 11 mm,Color de la caja: Plata y Color del Dial : Multicolor
 - Correa de alta calidad de Silicona Blanco 19 cm de longitud y 20 mm de ancho con un cierre Fibbia
 - El reloj viene en una caja de regalo con una garantía de 2 años
-- Resistente al agua: 3 bar-Peso: 69 g
-- Diámetro de la caja: 44 mm, Grueso: 11 mm,Color de la caja: Plata y Color del Dial : Multicolor
 - Reloj Primrose Guess para las Mujeres con un movimiento del Quartz
+- Resistente al agua: 3 bar-Peso: 69 g
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06WLM2T4C/?tag=tolees-21)

@@ -28,12 +28,12 @@ En este momento está [Blindecor Indus SIN HERRAMIENTAS  Estor enrollable de dob
 
 🔎:
 
-- Easy Fix, instalación sin herramientas. Tejido Noche y Día 100% poliéster
+- Mecanismo, soportes y cadena de PVC en color blanco. Regulación mediante mecanismo de cadena con seguridad infantil
 - Más abajo encontrarás modelos de ventanas compatibles con este estor. Cortina adecuada para habitaciones, salas de estar, comedores, cocinas
+- Easy Fix, instalación sin herramientas. Tejido Noche y Día 100% poliéster
 - Nota: El ancho del producto, incluido soportes y mecanismo, es de 107 cm. El tejido mide 104 cm de ancho.El largo del producto abierto completamente más el mecanismo mide 180 cm. Solo el tejido mide 175 cm
+- Opciones de instalación: colgar, atornillar o pegar con cinta adhesiva suministrada
 - ANTI- DESHILACHADO: Contiene discos de protección del tejido a los lados para evitar el deshilachamiento. Fácil limpieza con un trapo húmedo
 - Se suministran instrucciones de montaje. En nuestra Brand Store: Blindecor dispone de un videotutorial explicativo para su instalación.
-- Mecanismo, soportes y cadena de PVC en color blanco. Regulación mediante mecanismo de cadena con seguridad infantil
-- Opciones de instalación: colgar, atornillar o pegar con cinta adhesiva suministrada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081TQB3SS/?tag=tolees-21)

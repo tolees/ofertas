@@ -29,10 +29,10 @@ En este momento está [G-STAR RAW D-STAQ 5-Pocket Slim Vaqueros  Lt Indigo Aged 
 🔎:
 
 - 91% Algodón, 7% Elastomultiéster, 2% Elastano
-- Usado
-- Normal
-- Lavar a máquina - agua fría (30 ° max)
 - Cierre: Boton y cierre
+- Lavar a máquina - agua fría (30 ° max)
 - Slim
+- Normal
+- Usado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N173JKS/?tag=tolees-21)
