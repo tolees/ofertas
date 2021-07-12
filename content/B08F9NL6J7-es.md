@@ -28,7 +28,7 @@ Ahora mismo tienes [Skechers MICROSPEC MAX TORVIX  Zapatillas Niños  Gris Oscur
 
 🔎:
 
-- Lavable a máquina
 - Ligero
+- Lavable a máquina
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F9NL6J7/?tag=tolees-21)

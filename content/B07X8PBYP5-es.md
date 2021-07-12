@@ -28,9 +28,9 @@ Tienes [PUMA Nu-Tility tee Camiseta  Hombre  Aquamarine  M](https://www.amazon.e
 
 ℹ️:
 
+- Cuello redondo de canalé
 - Confeccionada con estampado Quality en la parte izquierda del pecho
 - Confeccionada en algodón de Better Cotton Initiative
-- Cuello redondo de canalé
 - Logotipo de PUMA n.º 2 en la parte derecha del pecho
 - BCI: PUMA colabora con Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
 
