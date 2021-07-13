@@ -28,10 +28,10 @@ Está [Funko - Pop! Vinilo: Ghostbusters: Winston Zeddemore](https://www.amazon.
 
 ℹ️:
 
-- Movies: ghostbusters
-- Juguete del año 2018
 - Funko pop vinyl
+- Juguete del año 2018
 - De la colección ghostbusters, winston zeddemore como figura de vinilo pop de funko
 - Winston Zeddemore
+- Movies: ghostbusters
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NSQCXH6/?tag=tolees-21)

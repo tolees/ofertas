@@ -28,8 +28,8 @@ En este momento está [adidas Gorra Unisex para Adulto  Modelo BASEB Class tre  
 
 🔎:
 
-- Visera preformada
-- Correa ajustable
 - Logotipo en la parte delantera
+- Correa ajustable
+- Visera preformada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08R7MLPJ8/?tag=tolees-21)

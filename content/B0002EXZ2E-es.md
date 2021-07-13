@@ -28,10 +28,10 @@ Ahora mismo tienes [Brabantia 335341 Set de Botes de Mirilla  Gris Mate y Negro 
 
 🔎:
 
-- Con ventanilla frontal para ver el contenido y la cantidad de producto restante
-- Anti-huellas
-- Tapa hermética tipo “click” conserva los alimentos frescos durante más tiempo
-- Acero inoxidable, resistente a la corrosión y de larga duración
 - Fácil limpieza basta pasar un trapo húmedo
+- Tapa hermética tipo “click” conserva los alimentos frescos durante más tiempo
+- Con ventanilla frontal para ver el contenido y la cantidad de producto restante
+- Acero inoxidable, resistente a la corrosión y de larga duración
+- Anti-huellas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0002EXZ2E/?tag=tolees-21)

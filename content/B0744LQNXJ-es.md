@@ -28,10 +28,10 @@ Tienes [Iggual SPTV07 - Soporte pared fijo TV y monitor  13-27"  30 kg   color n
 
 🔎:
 
-- Tamaño de televisión recomendado: 13 a 27"
-- Incluye manual, tornillería e instrucciones de instalación; cumple especificaciones RoHS
-- Este soporte que permite colgar tv en pared sin rotación
 - Soporte para tv pared fijo de color negro; soporte VESA - 75x75 mm o 100 x 100 mm
+- Este soporte que permite colgar tv en pared sin rotación
 - Distancia a la pared de 10.5 mm; mínima distancia a la pared
+- Incluye manual, tornillería e instrucciones de instalación; cumple especificaciones RoHS
+- Tamaño de televisión recomendado: 13 a 27"
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0744LQNXJ/?tag=tolees-21)

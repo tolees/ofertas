@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 36.51 % en Kingston A400 SSD SA400S37/480G - Disco '
-date: 2021-07-13 18:00:15
+date: 2021-07-13 18:00:19
 image: 'https://m.media-amazon.com/images/I/415CwmD3g-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01N0TQPQB-es Kingston A400 SSD SA400S37/480G - Disco duro sólido...'
 sku: 'B01N0TQPQB-es'
-tags: [  ]
+tags: [ 'Almacenamiento de datos','Almacenamiento de datos internos','Discos duros sólidos internos','Informática','kingston', ]
 actualPrice: 52.69 EUR
 currency: EUR
 price: 52.69
@@ -16,7 +16,7 @@ comparePrice: 82.99 EUR
 prodname: 'Kingston A400 SSD SA400S37/480G - Disco duro sólido interno 2.5" SATA 480GB'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B01N0TQPQB/?tag=tolees-21'
 descuento: '36.51'
 average: '52.0349612403101'
@@ -29,8 +29,8 @@ Tienes [Kingston A400 SSD SA400S37/480G - Disco duro sólido interno 2.5" SATA 4
 ℹ️:
 
 - Capacidad de la memoria: 480 GB
-- Fiable y resistente
 - Velocidad de grabación: 450 MB/s
 - Rendimiento óptimo para la transferencia de archivos
+- Fiable y resistente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N0TQPQB/?tag=tolees-21)

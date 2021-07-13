@@ -29,7 +29,7 @@ Está [Intenso Micro Line - Memoria USB 2.0 de 32 GB  Negro](https://www.amazon.
 ℹ️:
 
 - Diseño mini
-- Capuchón
 - Transferencia de datos USB 2.0
+- Capuchón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B007UK0RA6/?tag=tolees-21)
