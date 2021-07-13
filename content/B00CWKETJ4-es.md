@@ -28,9 +28,9 @@ Tienes [CEYS CE507216 Ms-Tech 290 ml  Blanco 507216  0](https://www.amazon.es/dp
 
 🔎:
 
-- No ataca las superficies
-- Adherencia sin imprimación previa
-- Resistencia a tracción >300 Kg/10 cm2
 - 100% hermético e impermeable
+- No ataca las superficies
+- Resistencia a tracción >300 Kg/10 cm2
+- Adherencia sin imprimación previa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00CWKETJ4/?tag=tolees-21)

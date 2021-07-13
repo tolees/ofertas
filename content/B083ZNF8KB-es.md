@@ -29,7 +29,7 @@ En este momento está [Guess Analógico 091661512469](https://www.amazon.es/dp/B
 🔎:
 
 - Analógico para Unisex adulto
-- 8 milimetros calendario - -
 - Guess Modelo Reloj GW0030L2
+- 8 milimetros calendario - -
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083ZNF8KB/?tag=tolees-21)
