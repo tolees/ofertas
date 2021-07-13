@@ -29,7 +29,7 @@ En este momento está [Desigual PU Body Bag  Bolsa para cuerpo de Across para Mu
 🔎:
 
 - Estampado arty en vivos colores
-- 100% POLYURETHANE
 - Incluye charm de monedero redondo en color plano negro
+- 100% POLYURETHANE
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CN3G5Y8/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Baoxiankang Mascarilla de Protección Ffp2 Autofiltrante 
 
 🔎:
 
-- Con cómodas y suaves cintas elásticas de sujección
-- Con cómodo clip nasal ajustable
-- Embaladas en prácticas bolsas zip reutilizables
-- 5 capas de material de filtrado de alto rendimiento que ofrecen máxima protección
 - Cumplen con el Reglamento Europeo 2016/425 para EPIs y el estándar europeo: EN 149:2001 + A1:2009
+- Con cómodas y suaves cintas elásticas de sujección
+- 5 capas de material de filtrado de alto rendimiento que ofrecen máxima protección
+- Embaladas en prácticas bolsas zip reutilizables
+- Con cómodo clip nasal ajustable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08P38QZRC/?tag=tolees-21)

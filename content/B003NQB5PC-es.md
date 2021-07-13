@@ -28,9 +28,9 @@ Tienes [Exacompta 918407B - Archivador de palanca polipropileno  Azul  A4  320x2
 
 ℹ️:
 
-- Exterior de PP y interior de papel
 - Agujero para los dedos
 - Espacio de etiqueta grande y frontal
+- Exterior de PP y interior de papel
 - Con borde inferior reforzado con metal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003NQB5PC/?tag=tolees-21)
