@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CEYS CE507216 Ms-Tech 290 ml  Blanco 507 al 48.30 % de rebaja'
-date: 2021-07-04 09:50:43
+date: 2021-07-13 15:45:30
 image: 'https://m.media-amazon.com/images/I/41D0vWyalZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ceys'
 buyurl: 'https://www.amazon.es/dp/B00CWKETJ4/?tag=tolees-21'
 descuento: '48.30'
-average: '7.39'
+average: '6.85666666666667'
 ---
 
 Tienes [CEYS CE507216 Ms-Tech 290 ml  Blanco 507216  0](https://www.amazon.es/dp/B00CWKETJ4/?tag=tolees-21) con precio final de  5.79 EUR (original: 11.2 EUR) (48.30 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [CEYS CE507216 Ms-Tech 290 ml  Blanco 507216  0](https://www.amazon.es/dp
 
 🔎:
 
-- 100% hermético e impermeable
 - No ataca las superficies
 - Adherencia sin imprimación previa
-- Resistencia a tracción >200 Kg/10 cm2
+- Resistencia a tracción >300 Kg/10 cm2
+- 100% hermético e impermeable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00CWKETJ4/?tag=tolees-21)

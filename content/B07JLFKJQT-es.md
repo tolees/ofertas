@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL City Life 70049 Ambulancia con al 37.51 % de descuento'
-date: 2021-07-12 07:32:21
+date: 2021-07-13 14:14:32
 image: 'https://m.media-amazon.com/images/I/51oMax6xmrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07JLFKJQT/?tag=tolees-21'
 descuento: '37.51'
-average: '40.1156785714286'
+average: '40.0796441281139'
 ---
 
 Ahora mismo tienes [PLAYMOBIL City Life 70049 Ambulancia con Luces  a partir de 4 Años](https://www.amazon.es/dp/B07JLFKJQT/?tag=tolees-21) a 29.99 EUR (original: 47.99 EUR) (37.51 %  de descuento) en el siguiente enlace!

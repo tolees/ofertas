@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 High Rise Short Pantalones Co al 38.20 % de descuento'
-date: 2021-07-06 11:20:37
+date: 2021-07-13 14:10:59
 image: 'https://m.media-amazon.com/images/I/41H3YT38SpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07S1P5H6D/?tag=tolees-21'
 descuento: '38.20'
-average: '29.06'
+average: '30.7033333333333'
 ---
 
 Está [Levi s 501 High Rise Short Pantalones Cortos  Eat Your Words  29W para Mujer](https://www.amazon.es/dp/B07S1P5H6D/?tag=tolees-21) con 38.20 de descuento por 33.99 EUR (original: 55.0 EUR) en el siguiente enlace!
