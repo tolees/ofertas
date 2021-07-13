@@ -29,7 +29,7 @@ Tienes [Desigual TS Praga Camiseta  Blanco  S para Mujer](https://www.amazon.es/
 ℹ️:
 
 - Floral Camouflage
-- Refuerzo en el talón y la puntera
 - Zapatillas de correr bordadas
+- Refuerzo en el talón y la puntera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN5BPGQ/?tag=tolees-21)

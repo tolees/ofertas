@@ -30,9 +30,9 @@ Tienes [Skechers Flex Appeal 3.0-First Insight  Zapatillas Mujer  Azul  Nvaq Bla
 
 - Anchura del zapato: Mediano
 - Tipo de tacón: Plano
-- Revestimiento: Tela
-- Material de la suela: Goma
 - Material exterior: Malla
+- Material de la suela: Goma
+- Revestimiento: Tela
 - Cierre: Cordones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07H5Z1F4C/?tag=tolees-21)

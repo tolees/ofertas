@@ -29,9 +29,9 @@ En este momento está [Fresh ‘n Rebel - Fresh N Rebel Rockbox Cube - Altavoz p
 🔎:
 
 - ULTRA PORTÁTIL - Rockbox Cube Fabriq Editiones un altavoz inalámbrico pequeño pero potente, pensado tanto para los amantes del diseño como para los amantes de la música.
-- OCHO COLORES - Cubierto por un tejido especial con hilos multicolor y disponible en ocho colores diferentes, que responden a la última moda y tendencias en interiorismo.
 - EDICIÓN FABRIQ - Cubierto por una tela de tejido especial con hilos multicolor y embellecido con una etiqueta de cuero curtida y el logotipo incrustado.
-- BATERÍA RECARGABLE - Con una batería de gran autonomía que garantiza 8 horas de música non-stop con una sola carga, puede colocarse en cualquier lugar de la casa o fuera.
 - BLUETOOTH INALÁMBRICO - Rockbox Cube Fabriq Edition utiliza Bluetooth para conectarse de manera inalámbrica a tu teléfono, tableta u ordenador portátil.
+- OCHO COLORES - Cubierto por un tejido especial con hilos multicolor y disponible en ocho colores diferentes, que responden a la última moda y tendencias en interiorismo.
+- BATERÍA RECARGABLE - Con una batería de gran autonomía que garantiza 8 horas de música non-stop con una sola carga, puede colocarse en cualquier lugar de la casa o fuera.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0173HJRKG/?tag=tolees-21)

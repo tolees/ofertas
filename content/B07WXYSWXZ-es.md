@@ -31,7 +31,7 @@ Ahora mismo tienes [Newskill NS-CH-NAYUKI-RED Nayuki - Silla gaming profesional 
 - Ruedas de 50mm con cubierta de poliuretano
 - Mecanismo de balanceo
 - Pistón de gas de clase 4 capaz de soportar hasta 150kg
-- Diseño sencillo y elegante disponible en 5 colores
 - Reposabrazos acolchados y ajustables
+- Diseño sencillo y elegante disponible en 5 colores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WXYSWXZ/?tag=tolees-21)
