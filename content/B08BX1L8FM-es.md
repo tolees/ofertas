@@ -28,9 +28,9 @@ En este momento está [adidas RUNFALCON 2.0  Zapatillas de Running Hombre  AZMAT
 
 🔎:
 
+- Cierre de cordones
 - Forro textil
 - Parte superior textil
-- Cierre de cordones
 - Suela de goma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BX1L8FM/?tag=tolees-21)
