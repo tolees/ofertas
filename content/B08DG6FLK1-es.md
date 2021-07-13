@@ -29,9 +29,9 @@ Está [Vitamaze - amazing life - Vitamina D3 + K2 Gotas de alta Dosis  Vegetaria
 ℹ️:
 
 - GARANTÍA DE SATISFACCIÓN: Los clientes satisfechos son importantes para nosotros. Por favor, contáctenos si tiene alguna pregunta sobre nuestros productos. Estamos aquí para ti. Compre hoy SIN RIESGO en la mejor relación precio/rendimiento del mercado, le ofrecemos 30 días de devolución gratuita.
-- PRODUCTO DE CALIDAD ALEMÁN: Sólo producimos en Alemania. Nuestra producción se basa en el concepto HACCP. Trabajamos en estrecha colaboración con científicos y expertos en el desarrollo y la fabricación de nuestros productos.
 - DOSIFICACIÓN: Con una práctica pipeta de goma natural (sin BPA) en un frasco de vidrio protegido contra la luz para una fácil dosificación. Puedes dejar el producto directamente en tu lengua o añadir el insípido preparado de vitaminas D3 y K2 a tu comida.
-- MEJOR BIO DISPONIBILIDAD: Sin el controvertido aditivo estearato de magnesio (sales de magnesio de ácidos grasos) para una ACEPTACIÓN ÓPTIMA. Muchos otros fabricantes utilizan el estearato de magnesio como agente desmoldante durante la producción.
 - ALTAMENTE DOSIFICADO: 50 ml = 1700 gotas de aceite de vitamina D3 K2 altamente dosificadas con 1000 UI de vitamina D3 y 11,1 mcg de vitamina K2 en la forma 99% de MK7 trans. Una fuerte combinación para el nivel de calcio y los huesos. Se disuelve en aceite de alta calidad a base de coco MCT para una biodisponibilidad aún mejor.
+- MEJOR BIO DISPONIBILIDAD: Sin el controvertido aditivo estearato de magnesio (sales de magnesio de ácidos grasos) para una ACEPTACIÓN ÓPTIMA. Muchos otros fabricantes utilizan el estearato de magnesio como agente desmoldante durante la producción.
+- PRODUCTO DE CALIDAD ALEMÁN: Sólo producimos en Alemania. Nuestra producción se basa en el concepto HACCP. Trabajamos en estrecha colaboración con científicos y expertos en el desarrollo y la fabricación de nuestros productos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DG6FLK1/?tag=tolees-21)

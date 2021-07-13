@@ -28,10 +28,10 @@ En este momento está [Hori - Funda Lux Pikachu  Nintendo Switch / Switch Lite ]
 
 🔎:
 
-- Forro interior acolchado
 - Bolsillo externo para accesorios
+- Forro interior acolchado
+- Superficie en relieve fabricada en símil cuero
 - Licencias oficiales de Nintendo y Pokémon
 - Amplia cremallera para un acceso fácil
-- Superficie en relieve fabricada en símil cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01ARQZ8TO/?tag=tolees-21)

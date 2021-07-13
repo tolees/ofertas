@@ -28,7 +28,7 @@ Tienes [New Balance ML574V2  Zapatillas Hombre  Black  Triple Black   40.5 EU](h
 
 🔎:
 
-- Revestimiento: Sintético
 - Material exterior: Cuero
+- Revestimiento: Sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075K9TSWR/?tag=tolees-21)

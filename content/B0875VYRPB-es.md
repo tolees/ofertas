@@ -29,9 +29,9 @@ Tienes [Apple Kit de Ruedas Mac Pro](https://www.amazon.es/dp/B0875VYRPB/?tag=t
 ℹ️:
 
 - Mayor movilidad para tu Mac Pro
-- Requiere instalación. Incluye una llave Allen de 1/4″ a 4 mm, pero se necesitan herramientas adicionales. Cambiar las patas del Mac Pro por ruedas añade aproximadamente 2,5 cm a la altura de la estructura.
-- Compatible con el Mac Pro (generación actual)
 - Pon tu Mac Pro sobre ruedas con el kit de ruedas para el Mac Pro.
+- Requiere instalación. Incluye una llave Allen de 1/4″ a 4 mm, pero se necesitan herramientas adicionales. Cambiar las patas del Mac Pro por ruedas añade aproximadamente 2,5 cm a la altura de la estructura.
 - Estas ruedas de acero inoxidable y goma diseñadas a medida hacen que sea muy fácil mover tu Mac Pro bajo el escritorio o donde prefieras tenerlo.
+- Compatible con el Mac Pro (generación actual)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0875VYRPB/?tag=tolees-21)

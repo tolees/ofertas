@@ -28,8 +28,8 @@ Tienes [Levi s Housemark Polo  Camiseta para Hombre  Azul  104 DRESS BLUES X 3  
 
 🔎:
 
+- Elaborado en punto suave
 - Modelo casual
 - Con un discreto logo en el pecho
-- Elaborado en punto suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B013V6O4WO/?tag=tolees-21)

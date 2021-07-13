@@ -28,10 +28,10 @@ Tienes [Espartan Technologies Corporation - Espartan Bombilla LED E27 Luz cálid
 
 ℹ️:
 
-- FÁCIL INSTALACIÓN - Compatibles con todo tipo de lámparas a 220/230 voltios, 50 hercios y casquillos E14 y E27 (fino y gordo). No regulables.
+- LARGA DURACIÓN - Nuestros productos de iluminación están disponibles en luz color blanca fría y cálida, tienen una vida útil de 25.000 horas.
 - ENCIENDE AL INSTANTE - Ofrece un brillo completo desde que se enciende. Además, a diferencia de las antiguas halógenas e incandescentes, no produce calor.
 - ALTO IRC - Con un índice de reproducción cromática superior a 80 ofrece un color vivo y natural.
-- LARGA DURACIÓN - Nuestros productos de iluminación están disponibles en luz color blanca fría y cálida, tienen una vida útil de 25.000 horas.
 - AHORRO DE ENERGÍA - Gracias a su tecnología LED, disfrutarás de su bajo consumo, un 90% menos que una bombilla incandescente de 120W.
+- FÁCIL INSTALACIÓN - Compatibles con todo tipo de lámparas a 220/230 voltios, 50 hercios y casquillos E14 y E27 (fino y gordo). No regulables.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08JCSD25S/?tag=tolees-21)
