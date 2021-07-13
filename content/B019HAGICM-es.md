@@ -28,14 +28,14 @@ Tienes [Newskill Takamikura - Silla gaming profesional  inclinación y altura re
 
 🔎:
 
-- Pistón de gas clase 4 (hasta 150KG)
 - Ruedas de 60mm acabadas en nylon
-- Ángulo de respaldo ajustable
-- Estructura metálica
-- Anchura del asiento: 48cm a 56cm. Altura: 125cm a 133cm. Profundidad del asiento: 55cm. Anchura máxima: 70cm
-- Respaldo y asiento reclinable
+- Base de metal
 - Relleno de 50Kg/m3 de alta calidad
 - Cojines ergonómic
-- Base de metal
+- Ángulo de respaldo ajustable
+- Estructura metálica
+- Respaldo y asiento reclinable
+- Pistón de gas clase 4 (hasta 150KG)
+- Anchura del asiento: 48cm a 56cm. Altura: 125cm a 133cm. Profundidad del asiento: 55cm. Anchura máxima: 70cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019HAGICM/?tag=tolees-21)
