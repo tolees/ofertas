@@ -28,7 +28,7 @@ En este momento está [REPLAY RBJ.901 Short Pantalones Cortos de Jean  079 Grey 
 
 🔎:
 
-- Gran calidad
 - BULL DENIM STRETCH BULL DENIM
+- Gran calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FJ6F6G8/?tag=tolees-21)

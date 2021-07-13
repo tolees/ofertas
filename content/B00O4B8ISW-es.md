@@ -28,10 +28,10 @@ En este momento está [SANICAT clumping unscented 10L](https://www.amazon.es/dp/
 
 🔎:
 
-- Su composición a base de Bentonita natural, hace sentir a tu gato en su entorno natural.
-- Formato: Disponible en 10L
-- Composición: Bentonita gruesa.
-- Además, al ser una arena aglomerante con gránulos más gruesos, evita que el gato arrastre la arena fuera de la bandeja.
 - Arena aglomerante con máxima absorción sin renunciar al control de los malos olores.
+- Composición: Bentonita gruesa.
+- Formato: Disponible en 10L
+- Su composición a base de Bentonita natural, hace sentir a tu gato en su entorno natural.
+- Además, al ser una arena aglomerante con gránulos más gruesos, evita que el gato arrastre la arena fuera de la bandeja.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00O4B8ISW/?tag=tolees-21)
