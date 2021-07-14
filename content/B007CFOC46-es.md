@@ -28,13 +28,13 @@ Está [Superga 2750 COTU Classic Sneaker  Zapatillas Unisex Adulto  Grey Sage  3
 
 ℹ️:
 
-- Material exterior: lona
+- Cierre: cordones rápidos
+- Adecuado para: unisex (adultos)
 - Talla: 35.5
 - Estilo: pantufla
 - Material de la suela: goma
-- La estación ideal: para todas las estaciones
-- Adecuado para: unisex (adultos)
+- Material exterior: lona
 - Material interior: sin forro
-- Cierre: cordones rápidos
+- La estación ideal: para todas las estaciones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B007CFOC46/?tag=tolees-21)

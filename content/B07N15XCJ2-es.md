@@ -28,8 +28,8 @@ Ahora mismo tienes [Guess Analógico W1049G5](https://www.amazon.es/dp/B07N15XCJ
 
 🔎:
 
-- Guess Modelo Reloj W1049G5
 - Analógico para Unisex Adulto
+- Guess Modelo Reloj W1049G5
 - 8 milimetros calendario - -
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07N15XCJ2/?tag=tolees-21)

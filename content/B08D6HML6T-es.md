@@ -29,9 +29,9 @@ Está [Pepe Jeans West Sir Camiseta  965modern Grey  4 para Hombre](https://www.
 ℹ️:
 
 - Camiseta de algodón
+- Logo impreso delante
 - Fit slim
 - Manga corta
-- Logo impreso delante
 - Cuello redondo
 - Efecto desgastado
 

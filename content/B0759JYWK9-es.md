@@ -28,10 +28,10 @@ Tienes [Ingenuity  Columpio Everston  2 posiciones de reclinación  6 velocidade
 
 🔎:
 
-- Respaldo con 2 posiciones: tumbado o sentado
-- Estructura ligera, con mango y ruedas, fácil de llevar por toda la casa
 - El asiento gira 180 grados y permite balancearse en 3 direcciones distintas
-- Vibración relajante
+- Estructura ligera, con mango y ruedas, fácil de llevar por toda la casa
+- Respaldo con 2 posiciones: tumbado o sentado
 - 6 velocidades, 8 melodías, 3 sonidos de la naturaleza y ruido blanco
+- Vibración relajante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0759JYWK9/?tag=tolees-21)

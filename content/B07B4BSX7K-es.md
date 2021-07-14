@@ -29,13 +29,13 @@ Ahora mismo tienes [Science4you-La Ciencia de Los Inventos Juguete Científico y
 🔎:
 
 - 👁 Mira cómo se divierte a aprender con science4you
+- El regalo perfecto
+- Crees que tienes un pequeño científico en casa
 - 11 experimentos
+- Hacer divertidas carreras de latas y poner a levitar una serpiente
 - Poner en marcha circuitos e interruptores
-- Libro educativo con 36 páginas
 - Aprender cómo recrear fantásticos experimentos de científicos famosos
 - Brain activator es el sello de carácter educativo de science4you
-- Crees que tienes un pequeño científico en casa
-- El regalo perfecto
-- Hacer divertidas carreras de latas y poner a levitar una serpiente
+- Libro educativo con 36 páginas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B4BSX7K/?tag=tolees-21)

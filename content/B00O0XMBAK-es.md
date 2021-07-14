@@ -28,10 +28,10 @@ Tienes [Superga 2750 COTU Classic Sneaker  Zapatillas Unisex Adulto  Grey Seashe
 
 ℹ️:
 
-- Parte Superior: Lona
 - Código De Producto: S000010
-- Guarniciones: Lona
 - Fijaciones: Encaje
+- Guarniciones: Lona
+- Parte Superior: Lona
 - Ajuste De Ancho: Estándar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00O0XMBAK/?tag=tolees-21)

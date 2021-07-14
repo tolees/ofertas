@@ -28,10 +28,10 @@ Está [Sony RF MDR-RF855RK - Auriculares De Diadema Cerrados Para Television Sin
 
 ℹ️:
 
-- No necesitas levantarte o moverte del sofá, sólo tienes que ajustar el volumen a través del control de volumen de los auriculares
 - Auriculares inalámbricos de tipo cerrado con baterías recargables, diafragma de neodimio de 40 mm y base de conexión
-- Rango de frecuencia de 10 Hz a 22 kHz
+- No necesitas levantarte o moverte del sofá, sólo tienes que ajustar el volumen a través del control de volumen de los auriculares
 - Entradas de audio: 1 conector de patilla para entrada analógica (I/D), 1 mini conector estéreo para entrada analógica
+- Rango de frecuencia de 10 Hz a 22 kHz
 - Diafragmas de neodimio de 40 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00AKUHC6A/?tag=tolees-21)
