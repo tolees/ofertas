@@ -28,9 +28,9 @@ Tienes [Helly Hansen Tokyo Hoodie  Hombre  Grey Mélange  S](https://www.amazon.
 
 🔎:
 
-- Capucha ajustable con cordón
 - Bolsillo canguro
 - Canalé en el bajo y los puños
+- Capucha ajustable con cordón
 - Logotipo de Helly Hansen en el pecho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KWPZ1S4/?tag=tolees-21)

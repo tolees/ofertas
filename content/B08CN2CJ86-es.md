@@ -28,8 +28,8 @@ Está [Desigual PU Shopping Bag  Bolsa de la compra para Mujer  Blanco  U](https
 
 ℹ️:
 
+- Color metálico liso, por el otro lado
 - 100% POLYURETHANE
 - Corazón estampado a pinceladas de estilo arty
-- Color metálico liso, por el otro lado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CN2CJ86/?tag=tolees-21)

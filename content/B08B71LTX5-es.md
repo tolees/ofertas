@@ -29,8 +29,8 @@ Tienes [NIKE Inter M NK BRT Stad Short Ha Sport Shorts  Hombre  White/Blue Spark
 ℹ️:
 
 - La tela Nike Breathe te ayuda a mantenerte fresco
-- Corte entallado para una sensación a medida
-- Cintura elástica y cordón interior
 - La tecnología Nike Dri-FIT te ayuda a mantenerte seco y cómodo
+- Cintura elástica y cordón interior
+- Corte entallado para una sensación a medida
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08B71LTX5/?tag=tolees-21)

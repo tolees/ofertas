@@ -28,8 +28,8 @@ En este momento está [Reebok Instapump Fury OG  Zapatillas Deportivas Unisex Ad
 
 🔎:
 
-- Amortiguación Hexalite.
 - Zapatillas Lifestyle
 - Tecnología The Pump
+- Amortiguación Hexalite.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PC3WSMZ/?tag=tolees-21)

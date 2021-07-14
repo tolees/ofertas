@@ -29,8 +29,8 @@ Ahora mismo tienes [Nuby Dr. Talbot s My Real Potty - Orinal para Niños a parti
 🔎:
 
 - Como un verdadero inodoro: auténticos sonidos de enjuague al pulsar el botón de lavado
-- Pilas incluidas: 2 pilas AAA incluidas
 - Orinal de entrenamiento: la solución perfecta para los más pequeños para hacer que ir al baño sea lo más realista posible
+- Pilas incluidas: 2 pilas AAA incluidas
 - Espacio de almacenamiento para toallitas: compartimento para toallas y papel higiénico en la cisterna
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B091PN8ZT7/?tag=tolees-21)
