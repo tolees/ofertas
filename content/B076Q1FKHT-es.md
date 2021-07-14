@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Ultra Flex-First Take  Zapatill al 40.00 % de descuento'
-date: 2021-07-13 10:24:24
+date: 2021-07-14 12:50:03
 image: 'https://m.media-amazon.com/images/I/41WNi9GKblL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
