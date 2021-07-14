@@ -28,10 +28,10 @@ En este momento está [Bosch Professional Empuñadura para hojas de sierra sable
 
 🔎:
 
-- Uso universal: El vástago universal de ½" permite el uso de las hojas de sierra sable en sierras manuales y sierras eléctricas de todas las marcas
-- Suministro: 1 empuñadura de sierra manual, 1 S 922 EF Flexible for Metal, 1 S 922 VF Flexible for Wood and Metal
 - Cómoda solución: empuñadura con espacio de almacenamiento para dos hojas de sierra sable
+- Suministro: 1 empuñadura de sierra manual, 1 S 922 EF Flexible for Metal, 1 S 922 VF Flexible for Wood and Metal
 - Aplicaciones: adecuada para pequeños trabajos de serrar madera y metal
+- Uso universal: El vástago universal de ½" permite el uso de las hojas de sierra sable en sierras manuales y sierras eléctricas de todas las marcas
 - Práctico: Rápido cambio de hoja de sierra pulsando un botón en la parte superior
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008AJKPYE/?tag=tolees-21)
