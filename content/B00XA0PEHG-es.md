@@ -28,8 +28,8 @@ Tienes [Purina Friskies Pienso para Gato Adulto Atún y Verduras 6x1 5 Kg  Total
 
 ℹ️:
 
+- Ayuda a mantener ojos brillantes, signo de un buen estado de alerta
 - Ayuda a mantener un pelaje brillante y piel saludable
 - Heces compactas gracias a una digestión saludable
-- Ayuda a mantener ojos brillantes, signo de un buen estado de alerta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XA0PEHG/?tag=tolees-21)

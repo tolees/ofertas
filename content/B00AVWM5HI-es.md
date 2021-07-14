@@ -28,10 +28,10 @@ Tienes [Luminarc Set de Vasos  Único  Estándar  3](https://www.amazon.es/dp/B0
 
 ℹ️:
 
+- Diseño tradicional
 - Vasos de licor de vidrio
 - Se pueden guardar en el congelador
-- Para licores, orujo, carajillo, etc.
-- Diseño tradicional
 - Fáciles de limpiar gracias a su forma abierta
+- Para licores, orujo, carajillo, etc.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AVWM5HI/?tag=tolees-21)

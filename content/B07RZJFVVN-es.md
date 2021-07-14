@@ -28,9 +28,9 @@ Ahora mismo tienes [OTL Technologies Super Mario Icon Core - Auriculares de Diad
 
 🔎:
 
-- Plegable para llevar a cualquier lugar.
 - Aspecto colorido con el diseño bajo licencia Super Mario.
 - Cable de 1,2 m que no interfiere en tus movimientos.
+- Plegable para llevar a cualquier lugar.
 - Altavoces de 40 mm para una reproducción de sonido convincente
 - Auriculares de diadema Tween para niños de 8 y más
 

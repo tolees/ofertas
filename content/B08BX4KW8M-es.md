@@ -28,9 +28,9 @@ En este momento está [adidas RUNFALCON 2.0  Zapatillas de Running Hombre  PLAHA
 
 🔎:
 
-- Parte superior textil
-- Forro textil
 - Suela de goma
+- Forro textil
+- Parte superior textil
 - Cierre de cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BX4KW8M/?tag=tolees-21)
