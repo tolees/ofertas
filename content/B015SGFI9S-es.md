@@ -28,11 +28,11 @@ Tienes [Havaianas Luna  Sandalias para Mujer  Dorado  Rose Gold   35/36 EU](http
 
 🔎:
 
-- Material de la suela: Goma
-- 37/38 EU (35/36 Brazilian)
 - Material exterior: Caucho
-- Revestimiento: Sin forro
+- 37/38 EU (35/36 Brazilian)
+- Material de la suela: Goma
 - Tipo de tacón: Plano
 - Cierre: Sin cordones
+- Revestimiento: Sin forro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B015SGFI9S/?tag=tolees-21)

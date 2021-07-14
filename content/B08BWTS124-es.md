@@ -28,8 +28,8 @@ Tienes [adidas Runfalcon 2.0  Sneaker Mujer  Core Black/Footwear White/Grey  40 
 
 🔎:
 
-- Suela de goma
-- Cordones de zapatos
 - malla y parte superior de cuero sintético
+- Cordones de zapatos
+- Suela de goma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BWTS124/?tag=tolees-21)
