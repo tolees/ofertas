@@ -28,10 +28,10 @@ Ahora mismo tienes [adidas Solar Glide ST M  Zapatillas para Correr Hombre  Grey
 
 🔎:
 
-- Cierre de cordones
-- Parte superior de malla técnica
-- Mediasuela Boost
 - Refuerzo a lo largo de la mediasuela
 - Diseño de gran sujeción
+- Mediasuela Boost
+- Cierre de cordones
+- Parte superior de malla técnica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PQJ72Z2/?tag=tolees-21)
