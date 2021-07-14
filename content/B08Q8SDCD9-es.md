@@ -28,8 +28,8 @@ Tienes [Nike MD Valiant  TDV   Zapatillas Deportivas Unisex niños  Smoke Grey P
 
 🔎:
 
-- Parte superior de malla transpirable
-- Estilo running de los años 90
 - Zapatillas deportivas
+- Estilo running de los años 90
+- Parte superior de malla transpirable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08Q8SDCD9/?tag=tolees-21)
