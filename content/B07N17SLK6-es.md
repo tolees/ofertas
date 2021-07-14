@@ -28,10 +28,10 @@ Está [G-STAR RAW Lynn Mid Waist Skinny Vaqueros  Azul  Faded Blue 6553-A889   3
 
 ℹ️:
 
+- Lavar a máquina - agua fría (30 ° max)
 - Cierre: Boton y cierre
+- 92% Algodón, 7% Poliéster, 1% Elastano
 - Usado
 - Skinny
-- 92% Algodón, 7% Poliéster, 1% Elastano
-- Lavar a máquina - agua fría (30 ° max)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N17SLK6/?tag=tolees-21)

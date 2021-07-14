@@ -28,9 +28,9 @@ Ahora mismo tienes [Urtekram Champú de Manzanilla BIO  cabello rubio  1 x 500 m
 
 🔎:
 
+- Para el cabello: Normal
 - Calidad garantizada por la marca Urtekram
 - Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
 - Es posible que reciba este producto con un embalaje antiguo, ya que estamos en transición hacia un nuevo diseño. Excepto por el diseño, el producto es completamente el mismo
-- Para el cabello: Normal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00IZN2HSW/?tag=tolees-21)

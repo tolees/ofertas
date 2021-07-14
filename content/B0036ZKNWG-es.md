@@ -28,10 +28,10 @@ Está [Beaphar - Care+ Hamster  250 g](https://www.amazon.es/dp/B0036ZKNWG/?tag=
 
 ℹ️:
 
-- Extra pequeño, suave pellets para proteger las bolsas de mejillas
 - Vitamina E, Omega 3 y 6, espirulina y prebióticos mos y fos
 - Alta energía
 - La formulación extruida todo en uno garantiza que cada pellet de alimentos contenga la misma composición
 - Evita la alimentación selectiva y ayuda al uso natural de los dientes
+- Extra pequeño, suave pellets para proteger las bolsas de mejillas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0036ZKNWG/?tag=tolees-21)

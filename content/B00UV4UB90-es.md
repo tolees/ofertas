@@ -28,9 +28,9 @@ Tienes [Dim Generous Mod Sujetador  Blanc  Broderie Blanche   95.B para Mujer](h
 
 ℹ️:
 
-- Cortes de tul en las copas
 - Espalda y tirantes anchos para una sujeción óptima
-- Sujetador con aros y sin relleno
+- Cortes de tul en las copas
 - Bordado floral opaco
+- Sujetador con aros y sin relleno
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00UV4UB90/?tag=tolees-21)

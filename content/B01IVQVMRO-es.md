@@ -28,10 +28,10 @@ Está [One For All WM2251 - Soporte de pared para TV de 13 a 40”  giratorio 18
 
 ℹ️:
 
-- Tamaño de pantalla - Es adecuado para todas las pantallas con tamaños de entre 13 y 40 pulgadas
-- Líder mundial: One For All es el líder mundial en mandos a distancia y especialista en accesorios para audio y vídeo
 - Fácil instalación - Los materiales para el montaje como los tornillos y separadores vienen incluidos para una configuración sencilla
-- Giratorio e inclinable - Giro variable (180°) e inclinación ajustable (15°) para crear una posición de visionado ideal
+- Líder mundial: One For All es el líder mundial en mandos a distancia y especialista en accesorios para audio y vídeo
+- Tamaño de pantalla - Es adecuado para todas las pantallas con tamaños de entre 13 y 40 pulgadas
 - Estándar VESA - Desde 75x75 hasta 200x100. Indica la distancia entre los agujeros en la parte posterior del televisor
+- Giratorio e inclinable - Giro variable (180°) e inclinación ajustable (15°) para crear una posición de visionado ideal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IVQVMRO/?tag=tolees-21)
