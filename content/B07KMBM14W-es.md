@@ -28,8 +28,8 @@ Tienes [NIKE NK Hayward Bkpk-2.0 Mochilla de Deporte  Unisex Adulto  Black/Black
 
 🔎:
 
+- Padded and adjustable shoulder straps
 - Dimensions: 45,5 cm x 38 cm x 18 cm
 - Large main compartment
-- Padded and adjustable shoulder straps
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KMBM14W/?tag=tolees-21)

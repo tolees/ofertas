@@ -28,10 +28,10 @@ Ahora mismo tienes [Disney Traditions  Figura de los 7 enanitos de "Blancanieves
 
 🔎:
 
-- Adecuado para regalo
-- Figura de Blancanieves
-- Producto adecuado para regalar, decorar o coleccionar
-- Material: resina
 - Colores resistentes al agua
+- Figura de Blancanieves
+- Adecuado para regalo
+- Material: resina
+- Producto adecuado para regalar, decorar o coleccionar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0797QXGBY/?tag=tolees-21)

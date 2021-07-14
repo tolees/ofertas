@@ -28,10 +28,10 @@ Ahora mismo tienes [Verus - Quemador de incienso de reflujo de calabaza con 10 c
 
 🔎:
 
-- Material de cerámica: hecho de material de cerámica, hecho a mano y noble.
-- ❤Garantía: si no estás 100% satisfecho con nuestros productos, no dudes en ponerte en contacto con nosotros, prometemos que te daremos una buena solución
-- ❤ En casa: enciende un incienso, cálido y cómodo, y siéntete cómodo, en casa como en casa. Los invitados visitan primero 15 minutos antes del punto de un buen olor a incienso, no solo es una cortesía, respeto por los invitados, sino que también refleja el gusto elegante del anfitrión.
 - Tiempo de lectura: enciende un incienso, mientras lees un libro, mientras el té, puede relajarse completamente, mejorar la calidad de vida
+- ❤ En casa: enciende un incienso, cálido y cómodo, y siéntete cómodo, en casa como en casa. Los invitados visitan primero 15 minutos antes del punto de un buen olor a incienso, no solo es una cortesía, respeto por los invitados, sino que también refleja el gusto elegante del anfitrión.
+- ❤Garantía: si no estás 100% satisfecho con nuestros productos, no dudes en ponerte en contacto con nosotros, prometemos que te daremos una buena solución
 - En la oficina: enciende un incienso, limpia el aire, refrescante, mantiene un cuerpo y mente agradables, mejora la eficiencia en el trabajo.
+- Material de cerámica: hecho de material de cerámica, hecho a mano y noble.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H9RX7VQ/?tag=tolees-21)

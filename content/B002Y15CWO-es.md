@@ -28,10 +28,10 @@ Tienes [Westinghouse Bendan Ventilador de Techo R7s  80 W  Aspas Wengué](https:
 
 ℹ️:
 
-- Circulación de aire de bajo consumo, potente movimiento de aire y funcionamiento silencioso
 - Cinco palas en wengué; la luminaria de vidrio opalino incluye 1 lámpara R7 de 80 W, compatible con LED
 - Instalación solo con varilla de extensión, incluido manual de instrucciones ilustrado
-- Este ventilador de techo interior contemporáneo de 132 cm con acabado en cromo satinado es ideal para estancias de más de 25 metros cuadrados
 - Mando a distancia con tres niveles de velocidad, interruptores de encendido/apagado para el ventilador y la luz, conmutador inversor para funcionamiento de verano/invierno
+- Este ventilador de techo interior contemporáneo de 132 cm con acabado en cromo satinado es ideal para estancias de más de 25 metros cuadrados
+- Circulación de aire de bajo consumo, potente movimiento de aire y funcionamiento silencioso
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B002Y15CWO/?tag=tolees-21)

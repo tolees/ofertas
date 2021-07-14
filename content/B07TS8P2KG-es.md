@@ -29,8 +29,8 @@ Ahora mismo tienes [Funko- Pop Games: Rage 2-Mohawk Girl Collectible Toy  Multic
 🔎:
 
 - Funko pop. Is the 2018 toy of the year and peoples choice award winner
-- Check out the other rage 2 figures from funko collect them all
-- Figure stands 9cm and comes in a window display box
 - From rage 2, mohawk girl, as a stylized pop vinyl from funko
+- Figure stands 9cm and comes in a window display box
+- Check out the other rage 2 figures from funko collect them all
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TS8P2KG/?tag=tolees-21)
