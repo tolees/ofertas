@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Polar M430 Reloj de Running con GPS y Fr con un 56.57 % de descuento'
-date: 2021-07-12 19:19:02
+date: 2021-07-14 16:22:52
 image: 'https://m.media-amazon.com/images/I/41KZjuG5PnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Polar'
 buyurl: 'https://www.amazon.es/dp/B073WDMZVT/?tag=tolees-21'
 descuento: '56.57'
-average: '117.236764705882'
+average: '116.741428571428'
 ---
 
 En este momento está [Polar M430 Reloj de Running con GPS y Frecuencia cardíaca en la muñeca - Multideporte - actividad 24/7 - Negro  M/L](https://www.amazon.es/dp/B073WDMZVT/?tag=tolees-21) a 99.9 EUR (original: 230.0 EUR) (56.57 %  de descuento) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [Polar M430 Reloj de Running con GPS y Frecuencia cardíac
 
 🔎:
 
+- Medidas: grosor 12 mm
+- Velocidad, distancia también en indoor
 - Registro de la frecuencia cardíaca en la muñeca
+- GPS integrado, proporciona datos de velocidad, distancia, altimetría e inclinación y registro de actividad 24/7
+- Compatible con Polar Balance
 - Tallas: M/L: circunferencia de la muñeca 130-210 mm
 - Analiza tu sueño al detalle con la función Sleep Plus
-- Medidas: grosor 12 mm
-- Compatible con Polar Balance
-- Velocidad, distancia también en indoor
-- GPS integrado, proporciona datos de velocidad, distancia, altimetría e inclinación y registro de actividad 24/7
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073WDMZVT/?tag=tolees-21)

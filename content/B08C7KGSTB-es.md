@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas VS Pace  Sneaker Hombre  Trace Blue/Footwear White/Co
 
 🔎:
 
-- Perforado 3 tiras
 - Cordones de zapatos
 - Corte regular
+- Perforado 3 tiras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C7KGSTB/?tag=tolees-21)

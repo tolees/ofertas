@@ -28,11 +28,11 @@ Está [Zotal Parasital Blíster con 4 Pipetas de 5 ml para Perros Grandes - Tota
 
 ℹ️:
 
-- Aplicar el contenido de la pipeta en la zona de unión entre cuello y espalda, así como en la base de la cola, levantando el pelo del perro para que el líquido contacte con la piel
-- Las pipetas antiparásitos para perros grandes PARASITAL están indicadas para evitar las molestias causadas por insectos y ácaros, parásitos comunes de nuestras mascotas. Puede ser utilizado para repeler los ataques de pulgas, garrapatas, moscas y mosquitos
-- Aplicar al menos una vez al mes para garantizar una protección continua. En lugares donde los insectos sean un problema estacional aplicar con más frecuencia si es necesaria, recomendamos aplicar 3 o 4 semanas antes del comienza de actividad de los insectos
-- PARASITAL Pipeta Repelenta Perros Grandes gracias a su composición con ingredientes activos de origen natural, actúa con eficacia contra los parásitos externos
-- Es eficaz para la prevención de infestaciones de pulgas, garrapatas y actúa como repelente del mosquito transmisor de la Leishmaniosis
 - Posee una alta repelencia y persistencia, cuidando a nuestros perros sin ingredientes químicos. Laboratorios independientes homologados garantizan la eficacia y persistencia de los ingredientes empleados
+- Es eficaz para la prevención de infestaciones de pulgas, garrapatas y actúa como repelente del mosquito transmisor de la Leishmaniosis
+- Aplicar el contenido de la pipeta en la zona de unión entre cuello y espalda, así como en la base de la cola, levantando el pelo del perro para que el líquido contacte con la piel
+- PARASITAL Pipeta Repelenta Perros Grandes gracias a su composición con ingredientes activos de origen natural, actúa con eficacia contra los parásitos externos
+- Aplicar al menos una vez al mes para garantizar una protección continua. En lugares donde los insectos sean un problema estacional aplicar con más frecuencia si es necesaria, recomendamos aplicar 3 o 4 semanas antes del comienza de actividad de los insectos
+- Las pipetas antiparásitos para perros grandes PARASITAL están indicadas para evitar las molestias causadas por insectos y ácaros, parásitos comunes de nuestras mascotas. Puede ser utilizado para repeler los ataques de pulgas, garrapatas, moscas y mosquitos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00O4B1QKE/?tag=tolees-21)

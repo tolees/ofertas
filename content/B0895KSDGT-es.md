@@ -28,9 +28,9 @@ Tienes [Meridiem Games - Detroit Become Human - Collector S Edition](https://www
 
 ℹ️:
 
-- Set de pines
 - Tarjeta de PVC Holografica
-- Caja de exhibición CyberLife
+- Set de pines
 - Figura Android Kara
+- Caja de exhibición CyberLife
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0895KSDGT/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [AMIX Vitargo Load 1 Kg Limón 1000 g](https://www.amazon.es/dp/B00JLVLHE
 
 ℹ️:
 
-- Este producto puede contener trazas de leche, huevo, soja, crustáceos, frutos de cáscara y cacahuetes debido a los métodos de fabricación.
 - Dosis Diaria Recomendada: 2 cacitos (75g)
-- Como bebida deportiva durante la actividad física
-- Mezclar 75 gr (2 cacitos) con 200 ml de agua y agitar fuertemente durante 1 o 2 minutos. A continuación agregar 400ml de agua más hasta los 600 ml o hasta conseguir lo disolución deseada.
 - No superar la dosis diaria recomendada.
+- Mezclar 75 gr (2 cacitos) con 200 ml de agua y agitar fuertemente durante 1 o 2 minutos. A continuación agregar 400ml de agua más hasta los 600 ml o hasta conseguir lo disolución deseada.
+- Como bebida deportiva durante la actividad física
+- Este producto puede contener trazas de leche, huevo, soja, crustáceos, frutos de cáscara y cacahuetes debido a los métodos de fabricación.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JLVLHEC/?tag=tolees-21)
