@@ -29,7 +29,7 @@ Ahora mismo tienes [Joma Cairo Sudadera  Hombre  Negro  6XS](https://www.amazon.
 🔎:
 
 - Fabricado en poliéster Fleece 235 gr
-- Sudadera de entrenamiento/ paseo
 - Sudadera cuello redondo
+- Sudadera de entrenamiento/ paseo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NWXZWLH/?tag=tolees-21)

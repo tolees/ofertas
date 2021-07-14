@@ -28,10 +28,10 @@ Ahora mismo tienes [Hurley - M Phtm Hyperweave MAX Spraygun 18 ](https://www.ama
 
 🔎:
 
-- Hurley )( Phantom.
-- Corte performance.
+- 60 % elástico.
 - 80 % Poliéster reciclado / 20 % Spandex.
 - 18" de longitud por encima de la rodilla para una total libertad de movimientos.
-- 60 % elástico.
+- Hurley )( Phantom.
+- Corte performance.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GY6DCL2/?tag=tolees-21)
