@@ -30,7 +30,7 @@ Tienes [Vivere UHSDO8-20 - Hamaca con soporte incluido  multicolor  250 cm  dobl
 
 - Con la bolsa de transporte y gracias al fácil montaje, el mundo es una zona para relajarse.
 - Tapas de goma le permiten montar con seguridad este soporte en el interior. Dijeron que no se podía hacer una hamaca INTERIOR
-- En esta hamaca de algodón pueden estar cómodamente hasta dos personas.
 - Gracias a la facilidad de colocación de gancho en la hamaca decides cómo alta o baja quieres estar.
+- En esta hamaca de algodón pueden estar cómodamente hasta dos personas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00PITYCX4/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [adidas GL1397 W S Leg Leggings Womens Crew Navy XS](https://www.amazon.e
 
 🔎:
 
-- Leggings para mujer
 - Con cintura elástica de talla alta
 - Ajuste entallado
+- Leggings para mujer
 - Fabricados en tela suave y elástica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PL7ZHG9/?tag=tolees-21)

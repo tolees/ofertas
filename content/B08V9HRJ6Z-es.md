@@ -28,10 +28,10 @@ Está [Endocare Radiance Contorno Ojos y Antiojeras - Crema Contorno de Ojos Ant
 
 ℹ️:
 
-- SISTEMA ANTIEDEMA para reducir las bolsas y ojeras.
-- ANTIPOLUCIÓN: Formulado con EDAFENCE, innovadora tecnología antipolución patentada que previene y repara los daños causados por agentes agresores externos.
 - FORMATO 15ML. Con una textura cremosa e hidratante y pigmentos beige para disimular y corregir de forma instantánea la apariencia de la ojera.
-- MEJORA LA APARIENCIA DE LAS OJERAS con causa vascular, la falta de luminosidad y combate la mirada cansada y los signos de fatiga.
+- ANTIPOLUCIÓN: Formulado con EDAFENCE, innovadora tecnología antipolución patentada que previene y repara los daños causados por agentes agresores externos.
 - PARA TODO TIPO DE PIELES, y apto incluso para ojos sensibles.
+- SISTEMA ANTIEDEMA para reducir las bolsas y ojeras.
+- MEJORA LA APARIENCIA DE LAS OJERAS con causa vascular, la falta de luminosidad y combate la mirada cansada y los signos de fatiga.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08V9HRJ6Z/?tag=tolees-21)
