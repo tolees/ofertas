@@ -30,8 +30,8 @@ En este momento está [BERING Reloj Analógico Classic Collection para Mujer de 
 
 - Correa: acero inoxidable de grado médico (316l)/azul/185 mm de largo/22 mm de ancho
 - Resistente al agua hasta 5 ATM/50 metros/168 pies | Resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
-- Classic Watch Collection; Clásico, purista y, sin embargo, emocionante: inspirado en el diseño danés; Quartz
-- Caja: acero inoxidable de grado médico (316l)/oro rosa/26 mm de diámetro/7 mm de espesor
 - El cristal de zafiro es resistente a golpes y rayaduras
+- Caja: acero inoxidable de grado médico (316l)/oro rosa/26 mm de diámetro/7 mm de espesor
+- Classic Watch Collection; Clásico, purista y, sin embargo, emocionante: inspirado en el diseño danés; Quartz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01KVFK9G8/?tag=tolees-21)

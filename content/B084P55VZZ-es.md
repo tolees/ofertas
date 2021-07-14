@@ -28,10 +28,10 @@ Tienes [Outsunny Mecedora para Exterior Tumbona con Reposabrazos y Función Bala
 
 ℹ️:
 
-- ✅MEDIDAS: 160x61x79 cm (LxAnxAL). Soporta un máximo de 160kg.
-- ✅REPOSABRAZOS integrados súper cómodos. Ideales para apoyar los antebrazos mientras lees un buen libro.
-- ✅REPOSACABEZAS CON COJÍN extraíble.
 - ✅MECEDORA PARA EXTERIORES. Su diseño moderno en color negro le dará un toque de sofisticación al espacio en el que se coloque, ya sean jardines, terrazas o zonas con piscinas.
 - ✅FORMA ERGONÓMICA para adaptarse a la forma del cuerpo y ofrecer un descanso perfecto.
+- ✅REPOSACABEZAS CON COJÍN extraíble.
+- ✅MEDIDAS: 160x61x79 cm (LxAnxAL). Soporta un máximo de 160kg.
+- ✅REPOSABRAZOS integrados súper cómodos. Ideales para apoyar los antebrazos mientras lees un buen libro.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084P55VZZ/?tag=tolees-21)

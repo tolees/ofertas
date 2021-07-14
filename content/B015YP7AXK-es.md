@@ -28,10 +28,10 @@ Ahora mismo tienes [Beurer MP100  Set Manicura Y Pedicura  Multicolor](https://w
 
 🔎:
 
-- Velocidad maxima: 20.000 rpm
 - Velocidad: 5.000 - 20.000 +/-15% rpm
-- 30 accesorios incluidos para aplicacion profesional
-- Velocidad regulable
 - Apto para diabeticos y unas postizas
+- Velocidad maxima: 20.000 rpm
+- Velocidad regulable
+- 30 accesorios incluidos para aplicacion profesional
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B015YP7AXK/?tag=tolees-21)

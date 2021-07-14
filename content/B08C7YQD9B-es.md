@@ -28,10 +28,10 @@ Tienes [Salomon Sense Feel 2 Zapatillas De Trail Running Y Running Cómodas De H
 
 🔎:
 
-- Quicklace
-- EnergyCell
 - Contagrip MD
 - Contagrip MD se centra en el uso a largo plazo. Utiliza el compuesto más duradero y dispone de un patrón de tacos que funciona igual de bien en superficies duras, lisas, blandas o resbaladizas.
 - Contagrip MD se centra en el uso a largo plazo. Utiliza el compuesto más duradero y dispone de un patrón de tacos que funciona igual de bien en superficies duras, lisas, blandas o resbaladizas.
+- EnergyCell
+- Quicklace
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08C7YQD9B/?tag=tolees-21)

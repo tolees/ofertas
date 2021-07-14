@@ -28,8 +28,8 @@ Tienes [Superga 2802-cotw  Zapatillas de Gimnasia Mujer  Blanco  White 901   42.
 
 🔎:
 
-- Forro: tela
-- Material exterior: tela
 - Material de la suela: goma
+- Material exterior: tela
+- Forro: tela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TVDZC9C/?tag=tolees-21)

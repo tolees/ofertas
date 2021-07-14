@@ -28,8 +28,8 @@ En este momento está [Stabilo 831028 - Lápiz acuarelable  color negro](https:/
 
 🔎:
 
-- Colores universales para casi todas las superficies: madera, metal, cristal, plástico, papel
-- Acuarelable
 - Mina fabricada con pigmentos y grafito de alta calidad
+- Acuarelable
+- Colores universales para casi todas las superficies: madera, metal, cristal, plástico, papel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000WGV8P8/?tag=tolees-21)
