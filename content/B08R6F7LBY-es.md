@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas GN2855 Hoodie Sweat Womens Medium Grey Heather 46](ht
 
 🔎:
 
+- Sudadera con capucha de atajo
 - regular fit
 - Camisa de entrenamiento
-- Sudadera con capucha de atajo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08R6F7LBY/?tag=tolees-21)

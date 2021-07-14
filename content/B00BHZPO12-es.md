@@ -28,10 +28,10 @@ Ahora mismo tienes [Arcos Serie Riviera Blanc  Cuchillo Santoku Cuchillo Asiáti
 
 🔎:
 
-- Tamaño Hoja: 180 mm
-- Remaches: Libre de corrosión gracias a sus remaches machihembrados de acero inoxidable
-- Mango: Nuevo mango en color blanco, forjado en una sola pieza, con una elegante virola de estilo francés
-- Hoja de acero inoxidable Nitrum, una fórmula exclusiva de ARCOS de acero al nitrógeno que proporciona más dureza, mayor poder de corte y mejora de la durabilidad del filo
 - Cachas de polioximetileno (POM), indeformable a temperaturas extremas y resistente a productos químicos
+- Tamaño Hoja: 180 mm
+- Mango: Nuevo mango en color blanco, forjado en una sola pieza, con una elegante virola de estilo francés
+- Remaches: Libre de corrosión gracias a sus remaches machihembrados de acero inoxidable
+- Hoja de acero inoxidable Nitrum, una fórmula exclusiva de ARCOS de acero al nitrógeno que proporciona más dureza, mayor poder de corte y mejora de la durabilidad del filo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BHZPO12/?tag=tolees-21)

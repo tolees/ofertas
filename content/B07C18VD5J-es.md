@@ -28,10 +28,10 @@ Tienes [Oxford Classic - Cuaderno espiral  tapa plástico  cuadrícula 4x4  colo
 
 ℹ️:
 
-- Formato Fº
-- 80 hojas con cuadrícula 4mm x 4mm con margen
 - Nuevo color
-- Tapa plástico, resistencia y ligereza en uno. Cantos romos para evitar que las tapas se deterioren
 - Espiral simple negra
+- 80 hojas con cuadrícula 4mm x 4mm con margen
+- Tapa plástico, resistencia y ligereza en uno. Cantos romos para evitar que las tapas se deterioren
+- Formato Fº
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07C18VD5J/?tag=tolees-21)

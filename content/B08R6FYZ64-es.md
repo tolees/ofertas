@@ -28,8 +28,8 @@ Tienes [adidas GN3545 3D TF 3 STRP CR Pullover Mens Black S](https://www.amazon.
 
 🔎:
 
+- Tela Suave
 - cuello de canalé
 - regular fit
-- Tela Suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08R6FYZ64/?tag=tolees-21)
