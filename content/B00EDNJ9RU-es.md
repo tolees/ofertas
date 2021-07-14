@@ -28,9 +28,9 @@ Tienes [Sony MDRXD150 - Auriculares de Diadema Cerrados  Blanco  18 x 18 x 19](h
 
 🔎:
 
-- Unidad de diafragma de neodimio de 40 mm
-- Cable de 2 m
 - Función de reducción de ruido
+- Cable de 2 m
+- Unidad de diafragma de neodimio de 40 mm
 - Adaptador de clavija Unimatch estéreo incluido
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00EDNJ9RU/?tag=tolees-21)

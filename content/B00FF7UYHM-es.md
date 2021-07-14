@@ -28,10 +28,10 @@ Ahora mismo tienes [Mezcladora Tefal Actifry freidoras](https://www.amazon.es/dp
 
 🔎:
 
-- Ten en cuenta que esta pieza es un producto de repuesto compatible, mas no original.
-- Compatible con los siguientes modelos de Tefal Actifry y Actifry Plus: fz700015, fz700215, fz700016, fz700216, gh8000xx y gh8002xx.
-- Pala giratoria de First4Spares para freidoras Tefal Actifry, completa y con junta.
 - Pala giratoria de repuesto prémium de First4Spares para freidoras Tefal Actifry.
 - Los nombres de los fabricantes y los números de pieza solo se usaron con fines referenciales.
+- Compatible con los siguientes modelos de Tefal Actifry y Actifry Plus: fz700015, fz700215, fz700016, fz700216, gh8000xx y gh8002xx.
+- Ten en cuenta que esta pieza es un producto de repuesto compatible, mas no original.
+- Pala giratoria de First4Spares para freidoras Tefal Actifry, completa y con junta.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00FF7UYHM/?tag=tolees-21)
