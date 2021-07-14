@@ -30,10 +30,10 @@ En este momento está [New Balance GM500V1  Zapatillas Hombre  Black/Silver  40 
 
 - Tipo de tacón: Plano
 - Revestimiento: Tela
-- Material de la suela: Sintético
+- Cierre: Cordones
 - Material exterior: Cuero sintético
+- Material de la suela: Sintético
 - Composición: Microfibra y malla
 - Anchura del zapato: Normal
-- Cierre: Cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077QNL3HG/?tag=tolees-21)

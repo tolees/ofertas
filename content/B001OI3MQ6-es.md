@@ -28,11 +28,11 @@ Está [Havaianas Brasil Logo  Chanclas Unisex Adulto  Azul  Navy Blue   41/42 EU
 
 ℹ️:
 
-- Tipo de tacón: Plano
-- Material exterior: Caucho
-- Revestimiento: Caucho
 - Composición: Goma
+- Material exterior: Caucho
+- Tipo de tacón: Plano
 - Cierre: Sin cordones
+- Revestimiento: Caucho
 - Material de la suela: Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001OI3MQ6/?tag=tolees-21)

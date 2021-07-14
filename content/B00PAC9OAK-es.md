@@ -29,9 +29,9 @@ Tienes [TESA 51608-00001-00 51608 - Cinta aislante para cables  19 mm x 25 m   2
 🔎:
 
 - Producto original de Tesa
-- Buena resistencia a la rotura
 - Temperatura límite a corto plazo 130 grados Celcius
-- 19 mm x 25 m
+- Buena resistencia a la rotura
 - Libre de sustancias nocivas
+- 19 mm x 25 m
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00PAC9OAK/?tag=tolees-21)

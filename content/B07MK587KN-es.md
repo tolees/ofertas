@@ -28,9 +28,9 @@ Ahora mismo tienes [Remle – Parrilla Rejilla Horno Teka 370x460mm](https://www
 
 🔎:
 
+- ❇️ Medidas: 37x46cm
+- ❇️ Modelo HI 535 VR03
 - ❇️ Parrilla para horno Teka
 - ❇️ Código Original Teka 83115003
-- ❇️ Modelo HI 535 VR03
-- ❇️ Medidas: 37x46cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MK587KN/?tag=tolees-21)
