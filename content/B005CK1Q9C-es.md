@@ -28,9 +28,9 @@ Tienes [Vans Herren T Shirt Classic  black white  XS  VGGGY28](https://www.amazo
 
 🔎:
 
-- Con print personalizado en el frontal
 - Camiseta de manga corta
 - Hecha de material de 100% algodón
 - Con cuello redondo
+- Con print personalizado en el frontal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005CK1Q9C/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Gembird PC-186-VDE-3M - Cable de alimentación VDE  3m  Colo
 
 🔎:
 
-- Enchufe de entrada: tipo Schuko con el agujero de contacto con el suelo y 4.9 mm pasadores
 - Cables: área del perfil 1 sq.mm, calificación 10 A
 - Enchufe de salida: C13
+- Enchufe de entrada: tipo Schuko con el agujero de contacto con el suelo y 4.9 mm pasadores
 - 3 metros de longitud
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00AO2W1J2/?tag=tolees-21)
