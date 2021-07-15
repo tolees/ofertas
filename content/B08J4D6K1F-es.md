@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Flex Advantage 4.0  Zapatillas  al 44.03 % de descuento'
-date: 2021-07-10 08:03:05
+date: 2021-07-15 08:59:44
 image: 'https://m.media-amazon.com/images/I/31PaOZnvdUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

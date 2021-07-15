@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REPLAY RBJ.901 Short Pantalones Cortos d con un 69.68 % de descuento'
-date: 2021-07-13 18:33:15
+date: 2021-07-15 08:08:05
 image: 'https://m.media-amazon.com/images/I/31J7uMrQgVS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

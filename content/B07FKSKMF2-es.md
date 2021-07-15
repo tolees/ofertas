@@ -29,7 +29,7 @@ Ahora mismo tienes [Joma Academy Chandal Caballero  Niños  Marino-Blanco  XS](h
 🔎:
 
 - Chándales
-- Resto textil
 - Academy marino-blanco
+- Resto textil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FKSKMF2/?tag=tolees-21)

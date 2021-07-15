@@ -28,10 +28,10 @@ Ahora mismo tienes [Kit de batería júnior de 5 piezas Rocket - Negro](https://
 
 🔎:
 
+- Configuración clásica de rock con 5 piezas.
+- No es un kit inferior para niños, sino una versión a menor escala de un kit resistente para adultos.
+- Todo lo que necesitas para tocar, incluido el taburete y las baquetas.
 - ¡Kit resistente de buena fabricación diseñado para aguantar horas de práctica!
 - Perfecto kit de batería inicial para niños hasta a 10 años de edad.
-- Todo lo que necesitas para tocar, incluido el taburete y las baquetas.
-- No es un kit inferior para niños, sino una versión a menor escala de un kit resistente para adultos.
-- Configuración clásica de rock con 5 piezas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00I9X82LE/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ricola Caramelo duro - 20 x 50 gr  Total al 75.00 % de descuento'
-date: 2021-07-08 15:44:49
+date: 2021-07-15 08:20:40
 image: 'https://m.media-amazon.com/images/I/41I1VXhGR5S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
