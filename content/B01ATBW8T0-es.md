@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 51.81 % en PLAYMOBIL City Action Maletín Bomberos c'
-date: 2021-07-11 06:22:56
+title: 'Descuento del 53.04 % en PLAYMOBIL City Action Maletín Bomberos c'
+date: 2021-07-15 11:46:50
 image: 'https://m.media-amazon.com/images/I/51RUFTEnRmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B01ATBW8T0-es PLAYMOBIL City Action Maletín Bomberos con Bomba de Agua...'
 sku: 'B01ATBW8T0-es'
 tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','playmobil', ]
-actualPrice: 7.85 EUR
+actualPrice: 7.65 EUR
 currency: EUR
-price: 7.85
+price: 7.65
 comparePrice: 16.29 EUR
 prodname: 'PLAYMOBIL City Action Maletín Bomberos con Bomba de Agua Real  a Partir de 4 Años  5651 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B01ATBW8T0/?tag=tolees-21'
-descuento: '51.81'
-average: '9.90059829059826'
+descuento: '53.04'
+average: '9.88152542372878'
 ---
 
-Tienes [PLAYMOBIL City Action Maletín Bomberos con Bomba de Agua Real  a Partir de 4 Años  5651 ](https://www.amazon.es/dp/B01ATBW8T0/?tag=tolees-21) con un 51.81 % de descuento con precio de oferta de 7.85 EUR (original: 16.29 EUR) en el siguiente enlace!
+Tienes [PLAYMOBIL City Action Maletín Bomberos con Bomba de Agua Real  a Partir de 4 Años  5651 ](https://www.amazon.es/dp/B01ATBW8T0/?tag=tolees-21) con un 53.04 % de descuento con precio de oferta de 7.65 EUR (original: 16.29 EUR) en el siguiente enlace!
 
 [![PLAYMOBIL City Action Maletín Bomberos c](https://m.media-amazon.com/images/I/51RUFTEnRmL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01ATBW8T0/?tag=tolees-21)
 

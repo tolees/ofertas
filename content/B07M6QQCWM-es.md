@@ -29,9 +29,9 @@ Está [Bosch Professional GAL 18V-40 Cargador batería de litio  18 V](https://w
 ℹ️:
 
 - Indicador del estado de carga para comodidad del usuario
-- Incluye: GDX 18V-40, en caja
-- Profesional 12 V system; rendimiento compacto, óptima libertad
 - Práctico gracias a su diseño compacto
+- Profesional 12 V system; rendimiento compacto, óptima libertad
+- Incluye: GDX 18V-40, en caja
 - El cargador GAL 18V-40 de Bosch professional permite una carga rápida gracias al tiempo de carga optimizado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07M6QQCWM/?tag=tolees-21)

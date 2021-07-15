@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! TV: Game of Thrones - Theon al 43.37 % de rebaja'
-date: 2021-06-30 14:51:36
+date: 2021-07-15 10:39:46
 image: 'https://m.media-amazon.com/images/I/41PFhNJBTDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07RVLFG84/?tag=tolees-21'
 descuento: '43.37'
-average: '9.9125'
+average: '9.91439024390244'
 ---
 
 Tienes [Funko - Pop! TV: Game of Thrones - Theon w/Flaming Arrows Figura Coleccionable  Multicolor  44821 ](https://www.amazon.es/dp/B07RVLFG84/?tag=tolees-21) con precio final de  9.99 EUR (original: 17.64 EUR) (43.37 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Funko - Pop! TV: Game of Thrones - Theon w/Flaming Arrows Figura Colecci
 
 🔎:
 
-- El producto se envía en una caja ilustrada con ventana
 - El artículo es adecuado para todos los fanáticos de Game of Thrones
 - Figura de colección de la marca Funko
+- El producto se envía en una caja ilustrada con ventana
 - Recomendado para niños a partir de 3 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RVLFG84/?tag=tolees-21)

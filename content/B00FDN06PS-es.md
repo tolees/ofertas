@@ -28,10 +28,10 @@ Está [Nuncas Italia S.P.A. Morbivel Campo Dei Fiori - 750 ml](https://www.amazo
 
 ℹ️:
 
+- Características: apto para todos los tejidos, muy concentrado, un pequeño tapón para prendas suaves y perfumadas, como el hechizo de las flores
 - Formula: rica en principios activos regeneradores, renueva esponjas y prendas deshidratadas impidiendo el depósito de cal que endurece las fibras
+- Consejos: nunca exceder en las dosis de suavizante para evitar que los tejidos pierdan su forma o su capacidad natural de absorber el agua. Es suave y adecuado para dar un aroma duradero
 - Cómo se utiliza: (las dosis están indicadas en la etiqueta) puedes usar suavizante tanto a mano como a máquina. Para más detalles ver detalles del producto
 - Producto: es un suavizante concentrado que aporta a la ropa suavidad, volumen y un aroma inconfundible
-- Características: apto para todos los tejidos, muy concentrado, un pequeño tapón para prendas suaves y perfumadas, como el hechizo de las flores
-- Consejos: nunca exceder en las dosis de suavizante para evitar que los tejidos pierdan su forma o su capacidad natural de absorber el agua. Es suave y adecuado para dar un aroma duradero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00FDN06PS/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duració
 
 🔎:
 
-- El cepillo gran angular crea capas suaves y sin burbujas
 - El esmalte de uñas ColorStay Gel Envy tiene una capa base incorporada
+- El cepillo gran angular crea capas suaves y sin burbujas
 - Tanto el esmalte de uñas como la capa superior tienen resistencia al desgaste. Tus uñas están preparadas para resistir las virutas y la decoloración del color
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XZPUQ42/?tag=tolees-21)

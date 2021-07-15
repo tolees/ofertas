@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Amazon Basics - Recipientes de cristal p al 40.89 % de descuento'
-date: 2021-07-11 07:38:46
+title: 'Amazon Basics - Recipientes de cristal p al 41.68 % de descuento'
+date: 2021-07-15 10:03:46
 image: 'https://m.media-amazon.com/images/I/417dYS9ullL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B073ZP5Z2X-es Amazon Basics - Recipientes de cristal para alimentos con...'
 sku: 'B073ZP5Z2X-es'
 tags: [ 'Almacenamiento de alimentos','Almacenamiento de cocina y despensa','Envases para alimentos','Hogar y cocina','Juegos de recipientes','Recipientes','amazon basics', ]
-actualPrice: 16.45 EUR
+actualPrice: 16.23 EUR
 currency: EUR
-price: 16.45
+price: 16.23
 comparePrice: 27.83 EUR
 prodname: 'Amazon Basics - Recipientes de cristal para alimentos  con cierre 14 piezas  7 envases + 7 tapas   sin BPA'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Amazon Basics'
 buyurl: 'https://www.amazon.es/dp/B073ZP5Z2X/?tag=tolees-21'
-descuento: '40.89'
-average: '19.81375'
+descuento: '41.68'
+average: '19.4155555555556'
 ---
 
-Ahora mismo tienes [Amazon Basics - Recipientes de cristal para alimentos  con cierre 14 piezas  7 envases + 7 tapas   sin BPA](https://www.amazon.es/dp/B073ZP5Z2X/?tag=tolees-21) a 16.45 EUR (original: 27.83 EUR) (40.89 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Amazon Basics - Recipientes de cristal para alimentos  con cierre 14 piezas  7 envases + 7 tapas   sin BPA](https://www.amazon.es/dp/B073ZP5Z2X/?tag=tolees-21) a 16.23 EUR (original: 27.83 EUR) (41.68 %  de descuento) en el siguiente enlace!
 
 [![Amazon Basics - Recipientes de cristal p](https://m.media-amazon.com/images/I/417dYS9ullL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B073ZP5Z2X/?tag=tolees-21)
 
