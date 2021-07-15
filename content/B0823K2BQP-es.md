@@ -29,8 +29,8 @@ Ahora mismo tienes [Asics Patriot 12  Sneaker Hombre  Safety Yellow/Black  42 EU
 🔎:
 
 - Innovador material de malla
-- Amortiguación de gel
 - Tecnología FLYTEFOAM
+- Amortiguación de gel
 - Amortiguación EVA
 - Refuerzos en los dedos de los pies
 

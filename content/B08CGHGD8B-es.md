@@ -28,7 +28,7 @@ En este momento está [Tommy Hilfiger One-Piece Halter Parte Superior de Bikini 
 
 🔎:
 
-- Este es un producto original de Tommy Hilfiger
 - Este producto ha sido fabricado de forma sostenible con materiales sostenibles
+- Este es un producto original de Tommy Hilfiger
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CGHGD8B/?tag=tolees-21)
