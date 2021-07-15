@@ -28,8 +28,8 @@ En este momento está [Adidas VS Pace  Sneaker Hombre  Core Black/Footwear White
 
 🔎:
 
+- Corte regular
 - Perforado 3 tiras
 - Cordones de zapatos
-- Corte regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0813YMF8S/?tag=tolees-21)

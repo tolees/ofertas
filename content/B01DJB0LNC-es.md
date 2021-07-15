@@ -29,9 +29,9 @@ Tienes [Rimmel London Volume Colourist Máscara de Pestañas  11 ml  Tono Negro]
 ℹ️:
 
 - Tiñe poco a poco las pestañas tras cada aplicación gracias a sus colorantes naturales
-- Tinte natural no irritable que intensifica el color de tus pestañas en cada aplicación
-- Volumen natural gracias al cepillo cónico que llega a todas las pestañas
-- Volumen y tinte progresivo
 - Resultados visibles a partir de la segunda semana de aplicación
+- Volumen natural gracias al cepillo cónico que llega a todas las pestañas
+- Tinte natural no irritable que intensifica el color de tus pestañas en cada aplicación
+- Volumen y tinte progresivo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DJB0LNC/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [New Balance ML373V1  Zapatillas Hombre  Negro  Black   37 EU](https://www
 
 ℹ️:
 
-- Material de la suela: goma
-- Material interior: tela
 - Estilo: zapatillas de running
 - Material exterior: material sintético
+- Material interior: tela
 - Cierre: cordones
+- Material de la suela: goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M6VZFNW/?tag=tolees-21)

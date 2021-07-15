@@ -28,11 +28,11 @@ Está [AXE Eau De Toilette Leather Cookies 100 ml  67967774 ](https://www.amazon
 
 ℹ️:
 
-- Aplícatela cuando quieras y destaca entre la multitud
-- Un fresco y estimulante aroma que refresca tu día
-- Disfruta de nuestra eau de toilette para hombres con esta colisión épica y fresca que mezcla aromas de Leather & Cookies
 - Una única aplicación en el cuello y las muñecas es suficiente; deja que esta fragancia de larga duración haga su trabajo, manteniéndote fresco todo el día
+- Disfruta de nuestra eau de toilette para hombres con esta colisión épica y fresca que mezcla aromas de Leather & Cookies
 - Una eau de toilette estimulante para hombres con aroma a cuero y galletas, con notas de mandarina, cardamomo y cuero
 - Es una fragancia ganadora que añade un toque a tu estilo desenfadado
+- Aplícatela cuando quieras y destaca entre la multitud
+- Un fresco y estimulante aroma que refresca tu día
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072MMB6FB/?tag=tolees-21)

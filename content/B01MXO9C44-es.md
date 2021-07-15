@@ -28,8 +28,8 @@ Tienes [PUMA Basket Heart Patent Wn s  Zapatillas Mujer  Black Black  37 EU](htt
 
 🔎:
 
-- Material exterior: sintético
 - Cierre: cordones
 - Tipo de tacón: plano
+- Material exterior: sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MXO9C44/?tag=tolees-21)
