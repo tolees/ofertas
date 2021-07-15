@@ -28,10 +28,10 @@ Está [APLI 11899 - Notas adhesivas FUNNY 75 x 75 mm bloc de 100 hojas color ver
 
 ℹ️:
 
-- Son ideales si quieres destacar tus mensajes con colores llamativos y flúorescentes
-- El adhesivo reposicionable permite pegarlas y despegarlas más de una vez
-- El tamaño de notas clásico por excelencia
-- Bloc de 100 hojas de notas adhesivas de 75 x 75 mm en color verde flúor
 - Las notas "funny" están fabricadas con papel certificado fsc y adhesivo en base agua
+- Bloc de 100 hojas de notas adhesivas de 75 x 75 mm en color verde flúor
+- El adhesivo reposicionable permite pegarlas y despegarlas más de una vez
+- Son ideales si quieres destacar tus mensajes con colores llamativos y flúorescentes
+- El tamaño de notas clásico por excelencia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B008OF8G1S/?tag=tolees-21)

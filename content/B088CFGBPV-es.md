@@ -30,8 +30,8 @@ En este momento está [Tesura Games - Streets of Rage 4](https://www.amazon.es/d
 
 - La edición incluye: Libro de arte y llavero
 - Limpia la ciudad en solitario o únete a un amigo con su multijugador de sofá
-- SoR4 desarrolla el estilo de juego de la trilogía clásica con nuevas mecánicas, magníficos gráficos dibujados a mano y una banda sonora del máximo nivel
-- Axel, Blaze, Adam y otros veteranos, reunidos de nuevo para limpiar las calles; con algunos movimientos nuevos y temas flipantes para escuchar
 - ¡El clásico de todos los tiempos Streets of Rage ha vuelto!
+- Axel, Blaze, Adam y otros veteranos, reunidos de nuevo para limpiar las calles; con algunos movimientos nuevos y temas flipantes para escuchar
+- SoR4 desarrolla el estilo de juego de la trilogía clásica con nuevas mecánicas, magníficos gráficos dibujados a mano y una banda sonora del máximo nivel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088CFGBPV/?tag=tolees-21)

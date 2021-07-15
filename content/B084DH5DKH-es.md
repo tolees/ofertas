@@ -28,10 +28,10 @@ Tienes [Ravensburger Puzzle  Puzzle 1000 Piezas  Harry Potter y la Cámara Secre
 
 ℹ️:
 
-- Foto, paisajes, personajes fantasy ravensburger te ofrece una rica selección de imágenes para tus puzzles; elige tu favorita
-- Un puzzle Ravensburger que representa una ilustración de Harry Potter; puzzle de 1000 piezas para adultos, que una vez terminado mide 70 x 50 cm
 - Diviértete con los puzzles Ravensburger descubriendo ilustraciones; una vez terminado el puzzle, utilízalo como una original pieza de decoración
 - Los puzzle de Ravensburger desarrollan habilidades de concentración y creatividad, son un pasatiempo oportuno para relajarse solo o en compañía y una idea adecuada para un regalo especial
 - Cada pieza del rompecabezas es, caracterizada por un cartón grueso y resistente con encaje optimo
+- Un puzzle Ravensburger que representa una ilustración de Harry Potter; puzzle de 1000 piezas para adultos, que una vez terminado mide 70 x 50 cm
+- Foto, paisajes, personajes fantasy ravensburger te ofrece una rica selección de imágenes para tus puzzles; elige tu favorita
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084DH5DKH/?tag=tolees-21)
