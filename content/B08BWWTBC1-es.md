@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Vintage Modern Flexfit Cap Gorra  al 52.00 % de descuento'
-date: 2021-07-13 11:55:07
+date: 2021-07-15 07:54:59
 image: 'https://m.media-amazon.com/images/I/31b0nx55HDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
