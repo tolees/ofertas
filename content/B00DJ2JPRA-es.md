@@ -28,8 +28,8 @@ Ahora mismo tienes [DIM Sujetador deportivo de niña de microfibra Negro Talla 1
 
 🔎:
 
-- Sujetador de niña
 - Poliamida
 - Espalda de nadadora
+- Sujetador de niña
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00DJ2JPRA/?tag=tolees-21)

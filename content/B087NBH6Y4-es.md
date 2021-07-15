@@ -28,9 +28,9 @@ Tienes [Funko- Pop Animation Naruto-Minato Namikaze Figura coleccionable  Multic
 
 🔎:
 
-- ¡Descúbre otras figuras de la colección Naruto y colecciónalas todas!
 - De la colección Naruto, Minato Namikaze como figura de vinilo POP de Funko
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Funko POP! El juguete del año 2018
+- ¡Descúbre otras figuras de la colección Naruto y colecciónalas todas!
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B087NBH6Y4/?tag=tolees-21)

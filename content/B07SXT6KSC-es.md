@@ -28,10 +28,10 @@ Está [Geox J POSEIDO Boy D  Zapatillas Niños  Azul  Navy/Red C0735   33 EU](ht
 
 ℹ️:
 
-- Revestimiento: Malla
+- Material exterior: Sintético
 - Cierre: Cordones elásticos
 - Material de la suela: Goma
+- Revestimiento: Malla
 - Tipo de talla: Los zapatos Geox son holgados
-- Material exterior: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SXT6KSC/?tag=tolees-21)

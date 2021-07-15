@@ -28,11 +28,11 @@ En este momento está [Bacterisan Germosan No Bp3 750Ml | Desinfectante Multiuso
 
 🔎:
 
-- Desinfección de textiles: muy eficaz para pulverizar ropa, calzado, sofás, bolsos, maletas, etc. y así garantizar una desinfección completa en tu entorno
+- Limpieza y desinfección de todo tipo de superficies (mesas de trabajo, superficies metálicas y suelos, baños etc.) pero también de objetos como pueden ser: botones, manillas, móviles, etc.
 - No ataca el brillo y se seca rápido. Apto para utilizar en superficies donde se manipulan alimentos
-- Cumple la norma europea une-en 14476, frente a virus encapsulados
 - Ingredientes: Cloruro de didecildimetilamonio 0.3%
 - Potente desinfectante concentrado de triple acción: actúa frente a bacterias, virus y hongos, en base de amonio cuaternario de uso puro, con alta persistencia aromática a eucalipto
-- Limpieza y desinfección de todo tipo de superficies (mesas de trabajo, superficies metálicas y suelos, baños etc.) pero también de objetos como pueden ser: botones, manillas, móviles, etc.
+- Desinfección de textiles: muy eficaz para pulverizar ropa, calzado, sofás, bolsos, maletas, etc. y así garantizar una desinfección completa en tu entorno
+- Cumple la norma europea une-en 14476, frente a virus encapsulados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MGLRDYL/?tag=tolees-21)
