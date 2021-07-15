@@ -28,9 +28,9 @@ Tienes [Funko POP 51631 : The Falcon & The Winter Soldier - US Agent](https://ww
 
 ℹ️:
 
+- POP vinilo de Funko
+- Colecciónalos todos
 - Mira las otras figuras de Funko dedicadas a esta colección
 - La figura mide 9 cm y viene en una caja de exhibición de ventana
-- Colecciónalos todos
-- POP vinilo de Funko
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08KGT5DW5/?tag=tolees-21)

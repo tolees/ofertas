@@ -29,7 +29,7 @@ Tienes [adidas Speedcourt  Handball Shoe Hombre  Legacy Blue/Footwear White/Lege
 🔎:
 
 - La parte superior sintética y textil
-- Corte regular
 - Cordones de zapatos
+- Corte regular
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BFBK9S4/?tag=tolees-21)
