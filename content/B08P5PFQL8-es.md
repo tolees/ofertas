@@ -28,9 +28,9 @@ En este momento está [ARENA Bañador Mujer Allover  004166 ](https://www.amazon
 
 🔎:
 
-- Diseno funcional
-- De la marca ARENA
-- Tipo de fábrica: 80% Polyamide, 20% Elastane
 - Alta calidad
+- Diseno funcional
+- Tipo de fábrica: 80% Polyamide, 20% Elastane
+- De la marca ARENA
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08P5PFQL8/?tag=tolees-21)

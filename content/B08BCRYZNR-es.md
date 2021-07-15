@@ -28,12 +28,12 @@ En este momento está [Eastpak Tranverz S Maleta  51 Cm  42 L  Kontrast Lime  Ne
 
 🔎:
 
-- Apta como equipaje de mano en la mayoría de las aerolíneas
-- Mango telescópico y sistema de rodaje que se desliza con suavidad
-- Equipada con candado TSA con combinación de tres dígitos
-- Alto: 51 cm Ancho: 32,5 cm Ancho: 23 cm
 - Confeccionada en 100 % poliéster
+- Mango telescópico y sistema de rodaje que se desliza con suavidad
 - En nuestra gama de colores Kontrast Lime
+- Alto: 51 cm Ancho: 32,5 cm Ancho: 23 cm
+- Equipada con candado TSA con combinación de tres dígitos
 - Dos compartimentos con bolsillo delantero con cremallera y correas de compresión
+- Apta como equipaje de mano en la mayoría de las aerolíneas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BCRYZNR/?tag=tolees-21)

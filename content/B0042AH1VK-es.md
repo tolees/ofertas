@@ -28,8 +28,8 @@ Está [Pond s - Ponds Esencial Crema Facial Hidronutritiva - 50 ml](https://www.
 
 ℹ️:
 
+- Edad: Entre 36 y 50 años /, Más de 50 años
 - Tratamiento: Noche y Día
 - Tipo de Piel: Seca /, Normal
-- Edad: Entre 36 y 50 años /, Más de 50 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0042AH1VK/?tag=tolees-21)

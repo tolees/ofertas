@@ -28,10 +28,10 @@ Tienes [Asics Gel-Task MT 2  Indoor Court Shoe Mujer  French Blue/Digital Grape 
 
 🔎:
 
-- Aplicaciones en piel
+- Refuerzo de la puntera
 - Material flexible
+- Aplicaciones en piel
 - Construcción envolvente
 - Amortiguación de gel
-- Refuerzo de la puntera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PG23ML4/?tag=tolees-21)

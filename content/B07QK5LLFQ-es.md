@@ -28,9 +28,9 @@ Tienes [Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Cuero M
 
 ℹ️:
 
-- Grosor de la caja: 7 mm, Tamaño de la caja: 38 mm, Ancho de correa: 18 mm
 - Material de la correa: cuero azul cobalto, circunferencia interior de la correa: 175 +/- 5MM
-- Tipo de vidrio: cristal mineral con esfera de color blanco
 - Resistente al agua: 5 ATM
+- Grosor de la caja: 7 mm, Tamaño de la caja: 38 mm, Ancho de correa: 18 mm
+- Tipo de vidrio: cristal mineral con esfera de color blanco
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QK5LLFQ/?tag=tolees-21)

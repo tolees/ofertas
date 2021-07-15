@@ -28,11 +28,11 @@ Está [Plantronics Voyager Legend - Manos libres Bluetooth  tecnología Smart Se
 
 ℹ️:
 
-- Contenido de la caja: 1 Auricular VOYAGER LEGEND Monoaural
 - Aplicación MyHeadset para Android le ayuda a localizar su auricular
-- Procesamiento de señal digital (DSP) activo de triple micrófono
-- Batería de carga superior ofrece hasta 7 horas de conversación
+- Contenido de la caja: 1 Auricular VOYAGER LEGEND Monoaural
 - Tecnología Multi-Point que empareje dos teléfonos y responda a las llamadas desde cualquiera de ellos
 - Anuncio del interlocutor y comandos de voz
+- Batería de carga superior ofrece hasta 7 horas de conversación
+- Procesamiento de señal digital (DSP) activo de triple micrófono
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B009ES6FTO/?tag=tolees-21)
