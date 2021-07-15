@@ -28,9 +28,9 @@ En este momento está [adidas Solar Glide 3 W  Zapatillas de Running Mujer  Fres
 
 🔎:
 
-- Refuerzo a lo largo de la mediasuela
 - Parte superior de malla
 - Mediasuela Boost
+- Refuerzo a lo largo de la mediasuela
 - Cierre de cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BWYQMWG/?tag=tolees-21)
