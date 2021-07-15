@@ -28,8 +28,8 @@ Tienes [Clarks Stafford Park5 - Zapatos Hombre  Marrón  41](https://www.amazon.
 
 ℹ️:
 
-- Material interior: piel
-- Exterior: piel
 - Plano
+- Exterior: piel
+- Material interior: piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00EPFWWCU/?tag=tolees-21)
