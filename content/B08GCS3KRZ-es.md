@@ -31,7 +31,7 @@ En este momento está [Skechers GHENTER SRELT  Zapatillas Mujer  Black  40 EU](h
 - Slip On Bungee Athletic W/Gore (repelente al agua y a las manchas)
 - Patrón de banda de rodadura antideslizante
 - Ajuste holgado
-- EN ISO 20347:2012 - OB SRC
 - Plantilla de espuma viscoelástica
+- EN ISO 20347:2012 - OB SRC
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GCS3KRZ/?tag=tolees-21)

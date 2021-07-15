@@ -28,9 +28,9 @@ En este momento está [Telwin 829565 Arrancador Multifunción de Litio y Powerba
 
 🔎:
 
-- Arrancador de emergencia de 12V multifunción portátil ultracompacto para motocicletas, automóviles, autocaravanas, lanchas a motor; el pequeño tamaño lo hace adecuado para guardarlo en la guantera del automóvil.
-- ARRANCADOR: equipado con baterías de alto rendimiento de 1200 A pico; completo con cables de arranque, varios conectores para dispositivos móviles, enchufe para encendedor de cigarrillos, fuente de alimentación, todo en una cómoda bolsa de cuero.
 - Si es necesario, se convierte en una lámpara de emergencia con dos luces LED de alta luminosidad; genial tener siempre en el coche.
+- ARRANCADOR: equipado con baterías de alto rendimiento de 1200 A pico; completo con cables de arranque, varios conectores para dispositivos móviles, enchufe para encendedor de cigarrillos, fuente de alimentación, todo en una cómoda bolsa de cuero.
 - Power Bank: tiene dos salidas USB (1A-2.1A) para cargar dispositivos electrónicos (tabletas, teléfonos inteligentes, MP3, cámaras, etc.) y dos salidas de 12V / 19V para alimentar computadoras portátiles y otros dispositivos.
+- Arrancador de emergencia de 12V multifunción portátil ultracompacto para motocicletas, automóviles, autocaravanas, lanchas a motor; el pequeño tamaño lo hace adecuado para guardarlo en la guantera del automóvil.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B012T78QNE/?tag=tolees-21)
