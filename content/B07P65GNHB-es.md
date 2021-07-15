@@ -28,10 +28,10 @@ Tienes [Outsunny Barbacoa de Carbón Picnic con Ruedas y Estante Parilla de Carb
 
 ℹ️:
 
-- ✅ESTANTE DE ALMACENAJE: El estante de rejilla inferior te ofrece un espacio adicional para almacenar temporalmente herramientas de barbacoa, alimentos, ytensilios, etc.
-- ✅RESISTENCIA AL CALOR: El esmalte en porcelana negra puede soportar altas temperaturas de hasta 600℃ y la tapa con recubrimiento de polvo rojo tiene una resistencia al calor de 250 ℃. NOTA: NO USA LLAMAS ABIERTAS. Utilizar solo carbón vegetal como combustible hará que la pintura se pele
 - ✅MEDIDAS TOTALES: 45x47,5x70 cm (LxANxAL); Medidas del horno: 45x45x11,5 cm (LxANxAL); Medidas de la tapa: 46x46x11,5 cm (LxANxAL)
-- ✅PARRILLA CON RUEDA: La parrilla para barbacoa con un diseño práctico con ruedas permite un fácil movimiento. Adecuado para diversas ocasiones, como fiestas, campamentos, picnics y más
 - ✅VENTILACIONES: Las salidas de aire ajustables permiten un control y ajuste de temperatura rápido y fácil sin la necesidad de levantar la tapa cuando se cocina. Y las rejillas de ventilación laterales aseguran suficiente oxígeno para la combustión
+- ✅RESISTENCIA AL CALOR: El esmalte en porcelana negra puede soportar altas temperaturas de hasta 600℃ y la tapa con recubrimiento de polvo rojo tiene una resistencia al calor de 250 ℃. NOTA: NO USA LLAMAS ABIERTAS. Utilizar solo carbón vegetal como combustible hará que la pintura se pele
+- ✅ESTANTE DE ALMACENAJE: El estante de rejilla inferior te ofrece un espacio adicional para almacenar temporalmente herramientas de barbacoa, alimentos, ytensilios, etc.
+- ✅PARRILLA CON RUEDA: La parrilla para barbacoa con un diseño práctico con ruedas permite un fácil movimiento. Adecuado para diversas ocasiones, como fiestas, campamentos, picnics y más
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07P65GNHB/?tag=tolees-21)

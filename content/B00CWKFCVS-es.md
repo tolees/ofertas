@@ -28,10 +28,10 @@ Tienes [ROTHENBERGER 19238 - Cortatubos 742+cuchilla inox/mlp](https://www.amazo
 
 ℹ️:
 
-- Retráctil interna de tubo tubo
-- Robusto y muy estable
 - Cuchilla de repuesto (rueda en el asa
-- Ajuste rápido de la zona de trabajo
+- Robusto y muy estable
 - Cortes cerca a Flares son posibles
+- Ajuste rápido de la zona de trabajo
+- Retráctil interna de tubo tubo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CWKFCVS/?tag=tolees-21)

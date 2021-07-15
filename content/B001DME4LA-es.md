@@ -29,8 +29,8 @@ Tienes [Vans Era Classic Canvas  Zapatillas de caña Baja Unisex Adulto  Azul  B
 🔎:
 
 - Cuello acolchado.
-- Suela de goma característica para mayor sensación de control.
 - Apariencia de Vans con sensación y aspecto relajado.
 - Fabricación vulcanizada para mayor comodidad y durabilidad.
+- Suela de goma característica para mayor sensación de control.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001DME4LA/?tag=tolees-21)

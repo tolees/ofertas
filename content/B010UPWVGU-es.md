@@ -29,9 +29,9 @@ Tienes [Garmin eTrex Touch 35 - Dispositivo GPS de mano con GPS/GLONASS y pantal
 ℹ️:
 
 - Mapas Garmin TopoActive de Europa preinstalados, permite descargar rutas y seguirlas.
+- Gran memoria interna de 8 GB y ranura microSD, dispone de mucho espacio para mapas adicionales.
 - Altímetro barométrico y brújula de tres ejes.
 - Dispositivo de mano con GPS para ciclismo, senderismo y geocaching con pantalla táctil a color de 2,6 pulgadas.
-- Gran memoria interna de 8 GB y ranura microSD, dispone de mucho espacio para mapas adicionales.
 - Notificaciones inteligentes, mensajes de texto, correos electrónicos, llamadas y alertas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B010UPWVGU/?tag=tolees-21)

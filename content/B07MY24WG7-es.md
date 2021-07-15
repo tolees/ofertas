@@ -28,10 +28,10 @@ Ahora mismo tienes [Vans Doheny  Sneaker Mujer  Black Canvas Black White 187  42
 
 🔎:
 
-- Cierre: Cordones
-- Material de la suela: Goma
 - Revestimiento: Tela
-- Material exterior: Lona
+- Cierre: Cordones
 - Tipo de tacón: Plano
+- Material exterior: Lona
+- Material de la suela: Goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MY24WG7/?tag=tolees-21)
