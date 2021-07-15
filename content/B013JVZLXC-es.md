@@ -29,7 +29,7 @@ En este momento está [Dockers Alpha Original Khaki Skinny - Lite  Pantalones Ho
 🔎:
 
 - Confeccionado con técnicas Water<Less, que reducen el consumo de agua durante el proceso de acabado
-- Tiene bragueta con cremallera
 - Queda justo por debajo de la cintura
+- Tiene bragueta con cremallera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B013JVZLXC/?tag=tolees-21)
