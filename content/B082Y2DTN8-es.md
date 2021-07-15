@@ -28,8 +28,8 @@ En este momento está [Reebok Nano X1  Zapatillas Deportivas Mujer  AURORG/TWICO
 
 🔎:
 
-- Cierre de cordones
 - Mediasuela de EVA
+- Cierre de cordones
 - Parte superior de tela
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082Y2DTN8/?tag=tolees-21)

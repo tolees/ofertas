@@ -28,8 +28,8 @@ Está [Superga 2750 COTU Classic  Zapatillas Mujer  Sherwood Green  43 EU](https
 
 ℹ️:
 
+- Material: lona.
 - Cierre: cordones
 - Colección: 2013.
-- Material: lona.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004D9G6WU/?tag=tolees-21)
