@@ -28,10 +28,10 @@ Tienes [Xiaomi Mi True Wireless Earbuds Basic 2 Airdots 2 Auriculares Bluetooth 
 
 🔎:
 
-- 【Auriculares deportivos con micrófono】 Con auriculares Bluetooth de alta calidad con micrófono incorporado, puede hacer llamadas telefónicas fácilmente, la señal de calidad de la llamada es estable
 - 【Batería de larga duración】 4 horas de duración de la batería con una sola carga, 12 horas de duración de la batería con el estuche de carga, Auriculares con batería de 40 mAh, estuche de carga con batería de 300 mAh. El estuche de carga puede cargar los auriculares dos veces
-- 【Auriculares inalámbricos y reducción de ruido estéreo】 Redmi Airdots proporciona modos estéreo y monoaural, están equipados con una unidad dinámica de 7.2 mm y un sistema inteligente de reducción de ruido para disfrutar de la calidad del sonido Alta fidelidad, diseño ligero de 4.1 g, ideal para correr mientras escucha música
 - 【Auriculares deportivos impermeables con 3 tamaños diferentes】 La tecnología Bluetooth más avanzada reemplaza los auriculares con cable tradicionales. Ofrecemos auriculares de silicona de 3 tamaños diferentes (S, M, L), auriculares intraauriculares que hacen que los auriculares sean estables y cómodos durante en las montañas y otros ejercicios
+- 【Auriculares deportivos con micrófono】 Con auriculares Bluetooth de alta calidad con micrófono incorporado, puede hacer llamadas telefónicas fácilmente, la señal de calidad de la llamada es estable
+- 【Auriculares inalámbricos y reducción de ruido estéreo】 Redmi Airdots proporciona modos estéreo y monoaural, están equipados con una unidad dinámica de 7.2 mm y un sistema inteligente de reducción de ruido para disfrutar de la calidad del sonido Alta fidelidad, diseño ligero de 4.1 g, ideal para correr mientras escucha música
 - 【Auriculares Bluetooth 5.0】 Los Airdots están equipados con chips Bluetooth 5.0, para una velocidad de transferencia de datos hasta 2 veces mayor que la generación anterior, y una conexión más rápida y estable, más fluida para escuchar música y juego
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08C7M9V4Z/?tag=tolees-21)

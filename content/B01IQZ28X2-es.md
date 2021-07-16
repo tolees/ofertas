@@ -28,8 +28,8 @@ Ahora mismo tienes [Star Wars - Disfraz K-2SO Deluxe  Talla L  Rubies Spain 6305
 
 🔎:
 
+- Presentación en bolsa con percha
 - Podrás disfrazarte de tu personaje favorito de Star Wars con este magnifico disfraz
 - Disfraz Infantil de Star Wars Rogue One
-- Presentación en bolsa con percha
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01IQZ28X2/?tag=tolees-21)

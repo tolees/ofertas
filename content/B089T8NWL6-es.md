@@ -28,8 +28,8 @@ Está [Dockers Garment Dyed Polo  Polo Hombre  Aqua Pool  XL](https://www.amazon
 
 ℹ️:
 
-- Modelo hecho con estándares de sostenibilidad para reducir el impacto ejercido en el planeta
 - Polo teñido
 - Confeccionado con técnicas Water<Less, que reducen el consumo de agua durante el proceso de acabado
+- Modelo hecho con estándares de sostenibilidad para reducir el impacto ejercido en el planeta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089T8NWL6/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Clementoni Puzzle 1000 Piezas Museos Delacroix: La Libertad 
 
 🔎:
 
-- Un Puzzle de vívidos colores, y alta calidad, para poderlo montar y desmontar cuantas veces se desee
 - Hecho en Italia
+- Un Puzzle de vívidos colores, y alta calidad, para poderlo montar y desmontar cuantas veces se desee
 - Puzzle adulto 1000 piezas, con láminas de alta calidad de impresión, y troquelado preciso; colección Museos
 - Favorece la concentración y las habilidades manuales
 
