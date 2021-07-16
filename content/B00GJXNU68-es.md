@@ -28,9 +28,9 @@ En este momento está [Pioneer TS-R1350S - Altavoces para Coche  Negro](https://
 
 🔎:
 
-- Potencia de entrada nominal: 35 W
 - Impedancia: 4 ohmios
-- Respuesta de frecuencia: 44 – 31,000 Hz
+- Potencia de entrada nominal: 35 W
 - Frecuencia de resonancia mínima: 120 Hz
+- Respuesta de frecuencia: 44 – 31,000 Hz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00GJXNU68/?tag=tolees-21)
