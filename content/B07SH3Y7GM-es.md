@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas VS Pace  Sneaker Hombre  Trace Bl al 36.38 % de descuento'
-date: 2021-07-15 09:08:52
+date: 2021-07-16 12:46:36
 image: 'https://m.media-amazon.com/images/I/31Mkfw12vLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas VS Pace  Sneaker Hombre  Trace Blue/Footwear White/Co
 
 🔎:
 
-- Corte regular
 - Cordones de zapatos
+- Corte regular
 - Perforado 3 tiras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SH3Y7GM/?tag=tolees-21)

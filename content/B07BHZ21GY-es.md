@@ -28,9 +28,9 @@ Está [BULLDOG SECURITY - Bulldog - Champú y Acondicionador para Barba 2 en 1 O
 
 ℹ️:
 
-- Champú y Acondicionador para Barba 2 en 1
 - Especialmente formulado para limpiar tu barba dejándola suave, fresca, nutrida y acondicionada
 - Todos nuestros productos están certificados por Cruelty Free International y son ideales para vegetarianos y veganos
+- Champú y Acondicionador para Barba 2 en 1
 - Fórmula Original con Aloe Vera, aceite de Camelia y Té Verde
 - Limpia, suaviza y desenreda el vello facial e hidrata la piel debajo de este
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas 3Mc  Sneaker Unisex Adulto  Core  con un 68.08 % de descuento'
-date: 2021-07-12 16:29:19
+date: 2021-07-16 12:30:51
 image: 'https://m.media-amazon.com/images/I/31EuqNjW7wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07FKQTL3X/?tag=tolees-21'
 descuento: '68.08'
-average: '32.6033333333333'
+average: '31.416'
 ---
 
 En este momento está [adidas 3Mc  Sneaker Unisex Adulto  Core Black/Core Black/Footwear White  36 2/3 EU](https://www.amazon.es/dp/B07FKQTL3X/?tag=tolees-21) a 20.73 EUR (original: 64.95 EUR) (68.08 %  de descuento) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [adidas 3Mc  Sneaker Unisex Adulto  Core Black/Core Black/
 🔎:
 
 - Cordones de zapatos
-- Corte regular
 - Lona superior
+- Corte regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FKQTL3X/?tag=tolees-21)

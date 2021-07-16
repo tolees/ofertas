@@ -29,7 +29,7 @@ Tienes [adidas Stan Smith CF  Sneaker Hombre  Footwear White/Footwear White/Gree
 🔎:
 
 - Corte regular
-- Cordones de zapatos
 - Perforado 3 tiras
+- Cordones de zapatos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PPHS9BP/?tag=tolees-21)

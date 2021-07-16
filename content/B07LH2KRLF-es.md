@@ -30,8 +30,8 @@ Ahora mismo tienes [NGS BAN - Cargador Universal Manual 90 W para Ordenador Port
 
 - Entrada: AC 110V-240V, 50-60Hz, Corriente de salida: 12V/6A - 15V/5A - 16V/5A - 18.5V/4.9A - 19V/4.74A - 19.5V/4.62A - 20V/4.5A.
 - Selector manual de potencia (12V-15V-16V-18,5V-19V-19,5V-20V) con sistema de protección para evitar cambios accidentales.
+- Sistema de protección inteligente para una carga segura y rápida: protección contra sobretensión y sobrecorriente (entrada y salida), contra cortocircuitos (salida), contra sobrecalentamiento y circuito de reducción del ruido de ondulación.
 - Compatible con las principales marcas del mercado (HP, Asus, Dell, Acer, Lenovo, etc.) gracias a los 11 adaptadores incluidos, para los portátiles que requieran 12-20 voltios y hasta 90 vatios de potencia.
 - Ideal para viajar, para su uso en casa o en la oficina: tamaño compacto y funcionamiento a 100-240 V, 50/60 Hz, 2 A (Max).
-- Sistema de protección inteligente para una carga segura y rápida: protección contra sobretensión y sobrecorriente (entrada y salida), contra cortocircuitos (salida), contra sobrecalentamiento y circuito de reducción del ruido de ondulación.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LH2KRLF/?tag=tolees-21)
