@@ -1,32 +1,34 @@
 ---
 layout: post
-title: 'New Balance 574 Zapatillas Hombre  Verde al 40.00 % de descuento'
-date: 2020-05-28 11:35:12
-image: 'https://m.media-amazon.com/images/I/41ib23gT7mL._SL400_.jpg'
+title: 'New Balance ML574V2  Zapatilla Baja Homb al 50.00 % de descuento'
+date: 2021-07-16 14:56:16
+image: 'https://m.media-amazon.com/images/I/41hH41avSxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B06XXDG7PJ-es New Balance 574 Zapatillas Hombre Verde Olive EGO 42.5 EU...'
+slug: 'B06XXDG7PJ-es New Balance ML574V2 Zapatilla Baja Hombre Olive Night 42.5 EU'
 sku: 'B06XXDG7PJ-es'
-tags: [  ]
-actualPrice: 54.0 EUR
+tags: [ 'Zapatos','Zapatos y complementos','new balance', ]
+actualPrice: 45.0 EUR
 currency: EUR
-price: 54.0
+price: 45.0
 comparePrice: 90.0 EUR
-prodname: 'New Balance 574 Zapatillas Hombre  Verde  Olive EGO   42.5 EU  8.5 UK '
+prodname: 'New Balance ML574V2  Zapatilla Baja Hombre  Olive Night  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B06XXDG7PJ/?tag=tolees-21'
-descuento: '40.00'
-average: '54.0'
+descuento: '50.00'
+average: '51.75'
 ---
 
-Ahora mismo tienes [New Balance 574 Zapatillas Hombre  Verde  Olive EGO   42.5 EU  8.5 UK ](https://www.amazon.es/dp/B06XXDG7PJ/?tag=tolees-21) a 54.0 EUR (original: 90.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [New Balance ML574V2  Zapatilla Baja Hombre  Olive Night  42.5 EU](https://www.amazon.es/dp/B06XXDG7PJ/?tag=tolees-21) a 45.0 EUR (original: 90.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![New Balance 574 Zapatillas Hombre  Verde](https://m.media-amazon.com/images/I/41ib23gT7mL._SL400_.jpg)](https://www.amazon.es/dp/B06XXDG7PJ/?tag=tolees-21)
+[![New Balance ML574V2  Zapatilla Baja Homb](https://m.media-amazon.com/images/I/41hH41avSxL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B06XXDG7PJ/?tag=tolees-21)
 
 🔎:
 
+- Material exterior: Cuero
+- Revestimiento: Tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XXDG7PJ/?tag=tolees-21)

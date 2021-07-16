@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Bucket Hat-Vintage Modern Logo So con un 52.00 % de descuento'
-date: 2021-07-15 14:50:10
+date: 2021-07-16 15:47:39
 image: 'https://m.media-amazon.com/images/I/41e1OmCRblL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BWTJFXD/?tag=tolees-21'
 descuento: '52.00'
-average: '16.2'
+average: '15.6'
 ---
 
 En este momento está [Levi s Bucket Hat-Vintage Modern Logo Sombrero de Copa Baja  Black Normal  M para Hombre](https://www.amazon.es/dp/B08BWTJFXD/?tag=tolees-21) a 14.4 EUR (original: 30.0 EUR) (52.00 %  de descuento) en el siguiente enlace!

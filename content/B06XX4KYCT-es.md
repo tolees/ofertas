@@ -1,32 +1,34 @@
 ---
 layout: post
-title: 'New Balance 574 Zapatillas Hombre  Verde al 40.00 % de rebaja'
-date: 2020-07-21 10:33:20
-image: 'https://m.media-amazon.com/images/I/41Pw8A6rhPL._SL400_.jpg'
+title: 'New Balance ML574V2  Zapatilla Baja Homb al 50.00 % de rebaja'
+date: 2021-07-16 16:10:37
+image: 'https://m.media-amazon.com/images/I/41hH41avSxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B06XX4KYCT-es New Balance 574 Zapatillas Hombre Verde Olive EGO 42 EU 8 UK'
+slug: 'B06XX4KYCT-es New Balance ML574V2 Zapatilla Baja Hombre Olive Night 42 EU'
 sku: 'B06XX4KYCT-es'
-tags: [  ]
-actualPrice: 54.0 EUR
+tags: [ 'Zapatos','Zapatos y complementos','new balance', ]
+actualPrice: 45.0 EUR
 currency: EUR
-price: 54.0
+price: 45.0
 comparePrice: 90.0 EUR
-prodname: 'New Balance 574 Zapatillas Hombre  Verde  Olive EGO   42 EU  8 UK '
+prodname: 'New Balance ML574V2  Zapatilla Baja Hombre  Olive Night  42 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B06XX4KYCT/?tag=tolees-21'
-descuento: '40.00'
-average: '59.564285714285724'
+descuento: '50.00'
+average: '57.74375'
 ---
 
-Tienes [New Balance 574 Zapatillas Hombre  Verde  Olive EGO   42 EU  8 UK ](https://www.amazon.es/dp/B06XX4KYCT/?tag=tolees-21) con precio final de  54.0 EUR (original: 90.0 EUR) (40.00 %  de rebaja) aqui!
+Tienes [New Balance ML574V2  Zapatilla Baja Hombre  Olive Night  42 EU](https://www.amazon.es/dp/B06XX4KYCT/?tag=tolees-21) con precio final de  45.0 EUR (original: 90.0 EUR) (50.00 %  de rebaja) aqui!
 
-[![New Balance 574 Zapatillas Hombre  Verde](https://m.media-amazon.com/images/I/41Pw8A6rhPL._SL400_.jpg)](https://www.amazon.es/dp/B06XX4KYCT/?tag=tolees-21)
+[![New Balance ML574V2  Zapatilla Baja Homb](https://m.media-amazon.com/images/I/41hH41avSxL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B06XX4KYCT/?tag=tolees-21)
 
 🔎:
 
+- Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XX4KYCT/?tag=tolees-21)
