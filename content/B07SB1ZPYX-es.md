@@ -28,10 +28,10 @@ Está [Helly Hansen Active Wind Jacket Cortavientos  Hombre  Azul  Navy   XL](ht
 
 ℹ️:
 
+- Tejido antidesgarros y cortaviento con respiraderos en forma de ojal con capucha
 - Bolsillo impermeable, rayas dinámicas y logotipos de HH estampados
 - El cortavientos Active es una chaqueta ligera con protección contra el viento para los días más frescos de la primavera y el verano
 - La colección Active es una serie de prendas exteriores confeccionadas para protegerle contra los elementos mientras velocidad vertical una vida urbana activa
 - Contenido de envío: 1x Helly Hansen Active Wind Jacket
-- Tejido antidesgarros y cortaviento con respiraderos en forma de ojal con capucha
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SB1ZPYX/?tag=tolees-21)

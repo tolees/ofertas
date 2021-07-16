@@ -28,9 +28,9 @@ Ahora mismo tienes [L Oreal Professionnel Paris - L Oreal Professionnel TNA Micr
 
 🔎:
 
-- Polvo para peinar el cabello
-- Estimula las raíces del cabello
 - Efecto mate
 - Agrega volumen y textura
+- Estimula las raíces del cabello
+- Polvo para peinar el cabello
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QFK2JZL/?tag=tolees-21)

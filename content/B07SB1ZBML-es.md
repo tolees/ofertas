@@ -28,10 +28,10 @@ Está [Helly Hansen Active Wind Jacket Chaqueta  Hombre  Ébano  S](https://www.
 
 ℹ️:
 
-- The Active Wind Jacket is a lightweight jacket with wind protection for those cool spring summer days
-- Uestra colección Active es una serie de productos de ropa exterior hechos para protegerte contra los elementos mientras vives una vida urbana activa
-- Tiras de actuación impresas y logotipos de HH.
-- El Active Wind Jacket es una chaqueta ligera con protección contra el viento para esos días frescos de primavera y verano
 - Incluye: 1x Active Wind Jacket Chaqueta Color Ébano - Talla: S
+- El Active Wind Jacket es una chaqueta ligera con protección contra el viento para esos días frescos de primavera y verano
+- Tiras de actuación impresas y logotipos de HH.
+- Uestra colección Active es una serie de productos de ropa exterior hechos para protegerte contra los elementos mientras vives una vida urbana activa
+- The Active Wind Jacket is a lightweight jacket with wind protection for those cool spring summer days
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SB1ZBML/?tag=tolees-21)
