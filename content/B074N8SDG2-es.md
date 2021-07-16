@@ -28,7 +28,7 @@ Ahora mismo tienes [Merrell Terran Lattice Ii Tira de tobillo para Mujer  Verde 
 
 🔎:
 
-- Material exterior: Cuero
 - Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074N8SDG2/?tag=tolees-21)

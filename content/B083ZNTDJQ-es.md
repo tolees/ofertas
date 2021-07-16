@@ -28,8 +28,8 @@ En este momento está [Guess Analógico GW0020L2](https://www.amazon.es/dp/B083Z
 
 🔎:
 
-- Analógico para Mujer
 - Guess Modelo Reloj GW0020L2
+- Analógico para Mujer
 - 8 milimetros calendario Día y fecha correa ajustable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083ZNTDJQ/?tag=tolees-21)

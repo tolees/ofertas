@@ -29,8 +29,8 @@ Está [Havaianas Origine III  Alpargatas Unisex Adulto  Blanco  White   39 EU](h
 ℹ️:
 
 - Brasilianische Größe auf dem Karton hervorgehoben
-- Hergestellt in Brasilien
 - Außensohle ist sehr hitzebeständig
+- Hergestellt in Brasilien
 - Anlass: Casual
 - Der Origine III Espadrilles für Damen und Herren von Havaianas ist der ideale Stoffschuh für den Sommer.
 
