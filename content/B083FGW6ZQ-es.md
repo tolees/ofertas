@@ -28,7 +28,7 @@ Está [Lacoste Sport SH1527 Sudadera  Bitume Chine/Graphite Som  L para Hombre](
 
 ℹ️:
 
-- Bolsillos laterales
 - Felpa de algodón cepillado
+- Bolsillos laterales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083FGW6ZQ/?tag=tolees-21)

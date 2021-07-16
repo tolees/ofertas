@@ -28,8 +28,8 @@ Tienes [adidas Organizer M  Unisex-Adult  black  NS](https://www.amazon.es/dp/B0
 
 🔎:
 
+- correa de hombro ajustable
 - Bolsillo frontal con cierre de cremallera
 - material resistente
-- correa de hombro ajustable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BV93L9C/?tag=tolees-21)

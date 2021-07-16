@@ -29,7 +29,7 @@ Está [Head 881500001 Boxer Shorts  Black  S Men s](https://www.amazon.es/dp/B07
 ℹ️:
 
 - Tamaño del producto: S
-- Marca: Head
 - Color: Negro
+- Marca: Head
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MTJBX56/?tag=tolees-21)
