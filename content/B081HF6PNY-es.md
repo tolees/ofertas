@@ -28,10 +28,10 @@ Está [Ibergrif M22115-2 - Grifo de cocina Latón con Silicona  Negro/Plata](htt
 
 ℹ️:
 
-- Estilo elegante que se adapta al uso diario
-- Construcción completa de latón
-- Altura: 23 "(58,4 cm); ancho: 10,4 "(26,3 cm)
 - Fácil de instalar y fácil de limpiar con la punta de un dedo
+- Altura: 23 "(58,4 cm); ancho: 10,4 "(26,3 cm)
+- Construcción completa de latón
 - Diseño que facilita el uso
+- Estilo elegante que se adapta al uso diario
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081HF6PNY/?tag=tolees-21)
