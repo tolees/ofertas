@@ -29,10 +29,10 @@ Tienes [Solac PP7256 Oil Sense Remedy - Plancha pelo  170-220°C  tecnología i�
 ℹ️:
 
 - Tecnología iónica
+- Potencia (W) : 40
 - 6 posiciones de temperatura: 170-220º c
+- Temperatura máxima: 220º c
 - Tecnología anti-encrespamiento
 - Calentamiento ultra-rápido
-- Potencia (W) : 40
-- Temperatura máxima: 220º c
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0158HY5GO/?tag=tolees-21)
