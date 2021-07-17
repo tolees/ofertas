@@ -28,10 +28,10 @@ Ahora mismo tienes [HUGO Elisha02 Camisa  Azul  Light/Pastel Blue 459   Large  T
 
 🔎:
 
-- No usar lejía
 - Lavado normal en frío a 30 ºC
 - Planchado a baja temperatura nivel 1
 - No secar en la secadora
+- No usar lejía
 - No limpiar en seco
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VDGZHKV/?tag=tolees-21)

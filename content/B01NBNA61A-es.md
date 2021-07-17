@@ -28,8 +28,8 @@ Está [adidas Squad 17 Sho Pantalón Corto  Hombre  Azul  Azufue / Blanco   XS](
 
 ℹ️:
 
-- Climalite anti-humidity fabric
 - Regular fit
+- Climalite anti-humidity fabric
 - Elastic waistband with lanyard
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NBNA61A/?tag=tolees-21)

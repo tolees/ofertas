@@ -29,9 +29,9 @@ Tienes [Buff Solid Gorra Pro Run  Adultos Unisex  Negro  L/XL](https://www.amazo
 🔎:
 
 - Corona: 100% Poliéster,Visera (reverso): 100% Poliéster,Cordón ajustable: 100% Poliéster,Bada interior anti-sudor: 100% Poliéster,Paneles laterales de malla: 100% Poliéster, Lavar a máquina
-- Telas de gran elasticidad diseñadas para un ajuste y un confort óptimos
-- Protección solar certificada UPF50+; máxima protección para actividad al aire libre en tiempo soleado
-- Orificios para colocar las gafas de sol, dos posiciones
 - Gorra de running avanzada, estilo maratón
+- Orificios para colocar las gafas de sol, dos posiciones
+- Protección solar certificada UPF50+; máxima protección para actividad al aire libre en tiempo soleado
+- Telas de gran elasticidad diseñadas para un ajuste y un confort óptimos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08QW794WD/?tag=tolees-21)
