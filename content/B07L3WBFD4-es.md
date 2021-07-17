@@ -28,10 +28,10 @@ Tienes [GUESS Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxida
 
 🔎:
 
-- Movimiento: Cuarzo, Display: Analógico
-- Tamaño: 44MM
-- Material Correa: Acero, Color: Plateado
-- Material Caja: Acero, Color: Plateado
 - GUESS WATCHES GENTS VERTEX
+- Material Caja: Acero, Color: Plateado
+- Tamaño: 44MM
+- Movimiento: Cuarzo, Display: Analógico
+- Material Correa: Acero, Color: Plateado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L3WBFD4/?tag=tolees-21)

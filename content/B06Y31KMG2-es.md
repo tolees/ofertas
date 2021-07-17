@@ -1,32 +1,34 @@
 ---
 layout: post
-title: 'New Balance 574 Core Zapatillas Hombre   al 39.64 % de descuento'
-date: 2020-03-21 10:32:49
-image: 'https://m.media-amazon.com/images/I/41uDi50WA5L._SL400_.jpg'
+title: 'New Balance ML574V2  Zapatillas Hombre   al 47.70 % de descuento'
+date: 2021-07-17 08:18:07
+image: 'https://m.media-amazon.com/images/I/41jJG7JqNKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B06Y31KMG2-es New Balance 574 Core Zapatillas Hombre Negro Black EGK...'
+slug: 'B06Y31KMG2-es New Balance ML574V2 Zapatillas Hombre Black 38.5 EU'
 sku: 'B06Y31KMG2-es'
-tags: [  ]
-actualPrice: 54.32 EUR
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','new balance', ]
+actualPrice: 47.07 EUR
 currency: EUR
-price: 54.32
+price: 47.07
 comparePrice: 90.0 EUR
-prodname: 'New Balance 574 Core Zapatillas Hombre  Negro  Black EGK   38.5 EU  5.5 UK '
+prodname: 'New Balance ML574V2  Zapatillas Hombre  Black  38.5 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B06Y31KMG2/?tag=tolees-21'
-descuento: '39.64'
-average: '54.32'
+descuento: '47.70'
+average: '50.695'
 ---
 
-Ahora mismo tienes [New Balance 574 Core Zapatillas Hombre  Negro  Black EGK   38.5 EU  5.5 UK ](https://www.amazon.es/dp/B06Y31KMG2/?tag=tolees-21) a 54.32 EUR (original: 90.0 EUR) (39.64 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [New Balance ML574V2  Zapatillas Hombre  Black  38.5 EU](https://www.amazon.es/dp/B06Y31KMG2/?tag=tolees-21) a 47.07 EUR (original: 90.0 EUR) (47.70 %  de descuento) en el siguiente enlace!
 
-[![New Balance 574 Core Zapatillas Hombre  ](https://m.media-amazon.com/images/I/41uDi50WA5L._SL400_.jpg)](https://www.amazon.es/dp/B06Y31KMG2/?tag=tolees-21)
+[![New Balance ML574V2  Zapatillas Hombre  ](https://m.media-amazon.com/images/I/41jJG7JqNKL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B06Y31KMG2/?tag=tolees-21)
 
 🔎:
 
+- Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06Y31KMG2/?tag=tolees-21)

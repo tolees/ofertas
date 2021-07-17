@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Arla Jacory  Sandalias de Talón A al 45.40 % de rebaja'
-date: 2021-07-15 19:26:42
+date: 2021-07-17 08:36:33
 image: 'https://m.media-amazon.com/images/I/31BV3PalY6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [Clarks Arla Jacory  Sandalias de Talón Abierto Mujer  Negro  Black-   4
 🔎:
 
 - Superior: Textil
-- Suela: Tpr
 - Forro: Textil
-- Altura Del Talón: 40mm
 - Fijación: Riptape
+- Altura Del Talón: 40mm
+- Suela: Tpr
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0791KX4BB/?tag=tolees-21)
