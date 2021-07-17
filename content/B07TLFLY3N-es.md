@@ -28,8 +28,8 @@ En este momento está [Levi s The Original Camiseta  Red  Hm Patch OG Hm tee Ear
 
 🔎:
 
+- Fabricada en tejido de punto con tacto suave
 - Modelo casual
 - Logotipo pequeño de Levis en el pecho
-- Fabricada en tejido de punto con tacto suave
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TLFLY3N/?tag=tolees-21)

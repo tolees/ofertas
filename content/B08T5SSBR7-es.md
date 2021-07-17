@@ -30,7 +30,7 @@ Ahora mismo tienes [adidas Camiseta Modelo M BL SJ T Marca](https://www.amazon.e
 
 - El material ofrece una comodidad óptima
 - Marca del producto: Adidas
-- Cuello redondo
 - El material absorbe el calor y se seca rápidamente
+- Cuello redondo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08T5SSBR7/?tag=tolees-21)

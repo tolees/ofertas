@@ -28,10 +28,10 @@ Ahora mismo tienes [Oral-B 3D Pasta Dentífrica White Luxecon Efecto Perla - 75 
 
 🔎:
 
-- Las innovadoras micropartículas disuelven las manchas superficiales atrapadas en los dientes y los protegen de nuevas manchas
-- Fórmula que no daña el esmalte
 - Contiene extracto de perlas naturales
 - Elimina hasta el 100 % de las manchas superficiales en 3 días
+- Las innovadoras micropartículas disuelven las manchas superficiales atrapadas en los dientes y los protegen de nuevas manchas
+- Fórmula que no daña el esmalte
 - Sabor menta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XJN5L7K/?tag=tolees-21)

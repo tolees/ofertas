@@ -28,8 +28,8 @@ Está [adidas B A.R. 3S Pant Sport Trousers  Niños  Black/Signal Pink  6-7Y](ht
 
 ℹ️:
 
+- Regular fit
 - Elastic waistband with lanyard
 - Soft fabric
-- Regular fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BN1SKD6/?tag=tolees-21)
