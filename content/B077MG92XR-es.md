@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon - Mando para videojuegos GC-100  C al 36.68 % de descuento'
-date: 2021-07-14 17:36:25
+date: 2021-07-17 05:33:34
 image: 'https://m.media-amazon.com/images/I/31QGIGGrJYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nacon'
 buyurl: 'https://www.amazon.es/dp/B077MG92XR/?tag=tolees-21'
 descuento: '36.68'
-average: '19.945'
+average: '19.9068'
 ---
 
 Ahora mismo tienes [Nacon - Mando para videojuegos GC-100  Color Blanco  PC ](https://www.amazon.es/dp/B077MG92XR/?tag=tolees-21) a 18.99 EUR (original: 29.99 EUR) (36.68 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Nacon - Mando para videojuegos GC-100  Color Blanco  PC ](ht
 
 🔎:
 
-- Compatible con Windows XP, Vista, 7, 8, 10
-- 2 motores de vibración
-- Tratamiento de tacto suave e incrustaciones de goma para un agarre perfecto
 - Compatible con todos los juegos de PC
+- Compatible con Windows XP, Vista, 7, 8, 10
+- Tratamiento de tacto suave e incrustaciones de goma para un agarre perfecto
+- 2 motores de vibración
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077MG92XR/?tag=tolees-21)
