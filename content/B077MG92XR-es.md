@@ -28,9 +28,9 @@ Ahora mismo tienes [Nacon - Mando para videojuegos GC-100  Color Blanco  PC ](ht
 
 🔎:
 
-- Compatible con todos los juegos de PC
+- 2 motores de vibración
 - Compatible con Windows XP, Vista, 7, 8, 10
 - Tratamiento de tacto suave e incrustaciones de goma para un agarre perfecto
-- 2 motores de vibración
+- Compatible con todos los juegos de PC
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077MG92XR/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [LEGO 10767 4+ Espectáculo Acrobático de Duke Caboom  Desco
 
 🔎:
 
+- Este fantástico set contiene una rampa decorada con franjas con un espacio para poner los coches y un anillo de fuego ajustable; Además, cuenta con 2 bases de construcción rápida para que tu peque empiece a construir con ladrillos LEGO y a jugar enseguida en un emocionante mundo inspirado en Disney
+- Espectáculo Acrobático de Duke Caboom
 - Edad recomendada por el fabricante: 4+
 - Número de piezas: 120
 - Incluye 2 minifiguras: Woody y Duke Caboom
-- Este fantástico set contiene una rampa decorada con franjas con un espacio para poner los coches y un anillo de fuego ajustable; Además, cuenta con 2 bases de construcción rápida para que tu peque empiece a construir con ladrillos LEGO y a jugar enseguida en un emocionante mundo inspirado en Disney
-- Espectáculo Acrobático de Duke Caboom
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JBQLMBJ/?tag=tolees-21)
