@@ -28,10 +28,10 @@ Ahora mismo tienes [Vans Doheny Platform  Sneaker  Lienzo Negro Blanco 187  35 E
 
 🔎:
 
-- Entrenadores Zapatos
-- Bajo-top
 - Cierre Cordones
+- Bajo-top
 - Forma plana talón
 - Tela superior
+- Entrenadores Zapatos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VCLGVNL/?tag=tolees-21)

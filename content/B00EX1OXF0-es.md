@@ -28,11 +28,11 @@ Tienes [Hudora Kinderinliner Leon - Patines en línea  Color Negro/Azul  Talla M
 
 ℹ️:
 
+- Rodamientos de carbon ABEC 5
+- Cierre de carraca Press-Lock, sistema Power Strap
+- Sistema de ventilación "Air-Vent" en el lateral del la bota y gracias al material transpirable
 - Chasis de material de polipropileno
 - Peso máximo del usuario: 100 Kg
 - Tamaño ajustable hasta 4 números: con Micro System
-- Sistema de ventilación "Air-Vent" en el lateral del la bota y gracias al material transpirable
-- Cierre de carraca Press-Lock, sistema Power Strap
-- Rodamientos de carbon ABEC 5
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00EX1OXF0/?tag=tolees-21)

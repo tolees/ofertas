@@ -28,10 +28,10 @@ Ahora mismo tienes [SKAGEN Reloj Analógico para Hombre de Cuarzo SKW6612](https
 
 🔎:
 
-- Incluye caja de regalo de Skagen
-- Ancho de la correa: 20 mm; circunferencia de la correa: 200 +/-5 mm
-- Material de la correa: silicona
-- Grosor de la caja: 8 mm. Tamaño de la caja: 40 mm
 - Sumergible: 5 atm
+- Ancho de la correa: 20 mm; circunferencia de la correa: 200 +/-5 mm
+- Grosor de la caja: 8 mm. Tamaño de la caja: 40 mm
+- Material de la correa: silicona
+- Incluye caja de regalo de Skagen
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0842DTLZP/?tag=tolees-21)

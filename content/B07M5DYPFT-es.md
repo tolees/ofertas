@@ -28,8 +28,8 @@ Tienes [Wrangler Logo tee Camiseta  Azul  Navy 114   Medium para Hombre](https:/
 
 ℹ️:
 
-- Tejido ligero primaveral
 - Estampado frontal con el logo de Wrangler
+- Tejido ligero primaveral
 - Corte cómodo e informal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07M5DYPFT/?tag=tolees-21)

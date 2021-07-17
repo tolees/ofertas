@@ -28,10 +28,10 @@ En este momento está [Solac Studio 2200 Diffuser  Secador  2.200 W  3 niveles d
 
 🔎:
 
-- El secador tiene 3 niveles de temperatura y 2 niveles de potencia
 - Potencia 2.200 W
-- Termostato de seguridad
+- El secador tiene 3 niveles de temperatura y 2 niveles de potencia
 - Boton de aire frio instantaneo
+- Termostato de seguridad
 - Contiene un filtro desmontable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N40V8GM/?tag=tolees-21)
