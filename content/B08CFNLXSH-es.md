@@ -28,7 +28,7 @@ En este momento está [Tommy Hilfiger Legging Leggings  Oscuro/Gris/Htr  M para 
 
 🔎:
 
-- Este es un producto auténtico y original de Tommy Hilfiger.
 - Para más información sobre Tommy Hilfiger, consulta la sección de descripción del producto a continuación
+- Este es un producto auténtico y original de Tommy Hilfiger.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CFNLXSH/?tag=tolees-21)

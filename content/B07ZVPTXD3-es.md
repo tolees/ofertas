@@ -28,8 +28,8 @@ En este momento está [Levi s The Perfect tee Camiseta  Batwing Blue Indigo  XXS
 
 🔎:
 
-- Modelo casual
 - Con tacto suave de forro polar
+- Modelo casual
 - Tiene estampado la marca Levis
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZVPTXD3/?tag=tolees-21)

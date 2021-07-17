@@ -28,9 +28,9 @@ Está [Clarks Ronnie Limit  Zapatos de Cordones Derby Hombre  Marrón  Tan Leath
 
 ℹ️:
 
-- Forro: Textil
 - Superiores: Cuero
-- Suela: Tr
+- Forro: Textil
 - Ajuste: (g) Estándar
+- Suela: Tr
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TMRQR86/?tag=tolees-21)

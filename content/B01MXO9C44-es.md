@@ -28,8 +28,8 @@ Tienes [PUMA Basket Heart Patent Wn s Zapatillas Bajas  Mujer  Negro  Puma Black
 
 🔎:
 
-- Material exterior: sintético
 - Tipo de tacón: plano
 - Cierre: cordones
+- Material exterior: sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MXO9C44/?tag=tolees-21)

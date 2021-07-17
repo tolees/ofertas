@@ -28,8 +28,8 @@ En este momento está [Levi s Essential Tank Camiseta Deportiva de Tirantes  Whi
 
 🔎:
 
-- Modelo casual
-- Con un discreto logo en el pecho
 - Elaborada en punto suave
+- Con un discreto logo en el pecho
+- Modelo casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K73PZWR/?tag=tolees-21)

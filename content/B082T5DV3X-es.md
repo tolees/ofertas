@@ -28,8 +28,8 @@ En este momento está [adidas Duramo SL  Sneaker Hombre  Team Royal Blue/Footwea
 
 🔎:
 
-- Corte regular
 - Cordones de zapatos
+- Corte regular
 - Malla superior
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082T5DV3X/?tag=tolees-21)

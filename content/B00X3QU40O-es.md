@@ -28,9 +28,9 @@ Tienes [Thomson ROC1205 Mando a Distancia Universal para Aires Acondicionados  C
 
 ℹ️:
 
-- También dispone de un soporte para que lo puedas colgar cómodamente en la pared y así no pierdas el mando por la casa.
 - Este mando para aire acondicionados dispone de un temporizador para que puedas programar por las noches.
-- Mando a distancia universal de Thomson para aires acondicionados. El repuesto que estas buscando para sustituir el antiguo
+- También dispone de un soporte para que lo puedas colgar cómodamente en la pared y así no pierdas el mando por la casa.
 - Dispone de una pantalla LCD para que puedas ver los datos de temperatura, que tipo de caudal de aire tienes seleccionada.
+- Mando a distancia universal de Thomson para aires acondicionados. El repuesto que estas buscando para sustituir el antiguo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00X3QU40O/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Remington Groomkit Recortadora de Barba y Cortapelos - Inalámbrico  Rev
 
 ℹ️:
 
-- Inalámbrico - Hasta 40 min de autonomía y tiempo de carga completa de 16 horas
-- Cabezales lavables - Para una limpieza fácil
-- Cuchillas con Revestimiento de Titanio - Cuchillas autoafilables
 - Piloto Indicador - Piloto indicador de carga y base de almacenamiento
 - Accesorios Intercambiables - Accesorios para pelo y barba, 4 cabezales y 6 peines: cabezal de corte principal, cortador lineal facial, mini cuchillas para el afeitado, cortador de precisión TST, 1 peine ajustable (2-20 mm) y 5 peines fijos (1.5, 3, 6, 9, 12 mm)
+- Inalámbrico - Hasta 40 min de autonomía y tiempo de carga completa de 16 horas
+- Cuchillas con Revestimiento de Titanio - Cuchillas autoafilables
+- Cabezales lavables - Para una limpieza fácil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B013U9RSH0/?tag=tolees-21)

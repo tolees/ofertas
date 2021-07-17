@@ -28,9 +28,9 @@ Ahora mismo tienes [Revlon Super Lustrous Pintalabios Hidratante  Primrose ](htt
 
 🔎:
 
-- Enriquecido con aloe, vitaminas A, C y E
-- La barra de labios icono de Revlon
-- Extra sedoso e hidratante, acabado satinado y sin fragancia
 - Su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
+- La barra de labios icono de Revlon
+- Enriquecido con aloe, vitaminas A, C y E
+- Extra sedoso e hidratante, acabado satinado y sin fragancia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0047PNCHW/?tag=tolees-21)

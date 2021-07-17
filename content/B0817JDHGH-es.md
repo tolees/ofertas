@@ -28,10 +28,10 @@ Ahora mismo tienes [Columbia Sun Ridge  Polo  Hombre  Fibra sintética  Rosa  Da
 
 🔎:
 
-- Una solapa con dos botones junto al cuello bien diseñado para poder darse la vuelta
-- Polo repelente al sol y de rápida absorción, Lo suficientemente elegante para diversas aventuras, Desde el tenis hasta el senderismo o una cena con amigos
 - Mezcla de tejido modal/poliéster ligero, Corte adecuado para las capas, Buen rendimiento en salidas largas con posibilidades ilimitadas
 - Ajuste activo, Pensado para la movilidad, Diseñado para un look elegante
+- Una solapa con dos botones junto al cuello bien diseñado para poder darse la vuelta
+- Polo repelente al sol y de rápida absorción, Lo suficientemente elegante para diversas aventuras, Desde el tenis hasta el senderismo o una cena con amigos
 - Contenido: 1x Columbia Sun Ridge, Polo, Hombre, Fibra sintética, Rosa (Dark Coral), XS, Art. 1399471
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0817JDHGH/?tag=tolees-21)
