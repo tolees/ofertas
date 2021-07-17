@@ -28,9 +28,9 @@ Tienes [Garnier Delial Niños Sensitive Advanced - Spray Protector Solar para Pi
 
 🔎:
 
-- Resistente al agua y la transpiración, previene las quemaduras causadas por el sol mientras actúa contra los rayos infrarrojos
-- Dermatológicamente testado y gracias a su fórmula hipoalergénica, es ideal para los niños de pieles sensibles o intolerantes al sol
 - Resiste a la arena y al sudor y ayuda a prevenir la sequedad producida por la sal y el cloro; Delial Partner de la Asociación de Ligas Europeas contra el Cáncer
+- Dermatológicamente testado y gracias a su fórmula hipoalergénica, es ideal para los niños de pieles sensibles o intolerantes al sol
+- Resistente al agua y la transpiración, previene las quemaduras causadas por el sol mientras actúa contra los rayos infrarrojos
 - Nuestro Spray de niños con SPF50 protege contra los rayos UVB y UVA, incluso largos (aquellos que penetran en la piel); protege al instante la piel sensible de los niños contra las quemaduras solares y los daños cutáneos a largo plazo
 - Nuestra tecnología RESISTO está especialmente diseñada para proteger la piel de los más pequeños durante sus actividades de verano; ofrece una alta protección muy resistente al agua
 
