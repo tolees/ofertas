@@ -30,8 +30,8 @@ Tienes [Hoover Sprint Evo SE51 - Aspirador cable sin bolsa  Ciclónico  Cepillos
 
 - Aspirador ciclónico con depósito de fácil vaciado (1,5l): no pierdas la potencia de succión gracias a su sistema ciclónico y evita el contacto con la suciedad con su diseño de fácil apertura.
 - Aspirador con cable sin bolsa: olvídate de comprar recambios y aspira cómodamente todo tu hogar gracias a su cable de gran longitud de 7,5m.
-- Limpieza para todo tipo de superficies, con cepillo especial parquet: alcanza la suciedad en cualquier rincón del hogar, con cepillos y accesorios diseñados para todas las necesidades de limpieza.
 - Diseño compacto fácil de almacenar: maniobrable, ligero con tan solo 4kg de peso y muy fácil de guardar en cualquier espacio.
+- Limpieza para todo tipo de superficies, con cepillo especial parquet: alcanza la suciedad en cualquier rincón del hogar, con cepillos y accesorios diseñados para todas las necesidades de limpieza.
 - Filtros EPA recomendados para los más alérgicos: los filtros EPA garantizan una mayor retención de las partículas de polvo y alérgenos del ambiente, para asegurar un aire más puro y saludable.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0145S0TIK/?tag=tolees-21)

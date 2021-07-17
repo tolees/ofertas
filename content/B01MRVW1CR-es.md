@@ -28,9 +28,9 @@ Está [G-STAR RAW Eyben Slim T-Shirt  Blau  Sartho Blue 2757-6067   M para Mujer
 
 ℹ️:
 
-- Mangas casquillo
+- Corte ajustado
 - Cuello redondo
 - Marca en el pecho
-- Corte ajustado
+- Mangas casquillo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MRVW1CR/?tag=tolees-21)

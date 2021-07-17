@@ -29,9 +29,9 @@ En este momento está [Saint-Acior 12PCS Esmaltes Semipermanentes Nail Art Esmal
 🔎:
 
 - Con el kit para uñas principiante encontrarás todo lo que necesitas para una perfecta escultura de uñas:36W UV/LED Lámpara+12 pcs Esmaltes de Gel +Capa Superior+Primer+ Herramientas de Manicura
-- Tenemos certificaciones. Nuestros productos son ecológicos, no tóxicos inofensivos;
 - Tenga ATENTACION: El esmalte en gel semipermanente debe secarse bajo una lámpara UV o LED. Buena duración de 2 a 3 semanas si la aplicación es correcta
-- El kit de inicio completo para la instalación de uñas postizas le ofrece todas las necesidades básicas para el modelado de uñas. Además de una lámpara UV profesional, barniz semipermanente e instrumentos adicionales, también está el manual del usuario;(de idioma español )
+- Tenemos certificaciones. Nuestros productos son ecológicos, no tóxicos inofensivos;
 - Fácil de poner y quitar. Este juego de esmaltes de gel es apto para el uso tanto en casa como en el salón belleza.
+- El kit de inicio completo para la instalación de uñas postizas le ofrece todas las necesidades básicas para el modelado de uñas. Además de una lámpara UV profesional, barniz semipermanente e instrumentos adicionales, también está el manual del usuario;(de idioma español )
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CM5N8GD/?tag=tolees-21)

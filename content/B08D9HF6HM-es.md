@@ -29,7 +29,7 @@ Está [adidas Originals Superstar  Sneaker Hombre  Core Black Footwear White Cor
 ℹ️:
 
 - Zapatilla clásica de cuero
-- Parte superior de cuero
 - Cordones de zapatos
+- Parte superior de cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D9HF6HM/?tag=tolees-21)

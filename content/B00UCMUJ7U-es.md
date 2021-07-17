@@ -28,10 +28,10 @@ Ahora mismo tienes [Bruguer Acrylic Multisuperficie Esmalte al agua Brillante Am
 
 🔎:
 
+- Secado rápido y sin olor
 - Óptima resistencia a los golpes y rayado
 - Ultra lavable
-- Esmalte al agua multisuperficie para decorar y proteger superficies de madera, hierro, yeso, cemento textil y melamina en interiores y exteriores
 - No amarillea
-- Secado rápido y sin olor
+- Esmalte al agua multisuperficie para decorar y proteger superficies de madera, hierro, yeso, cemento textil y melamina en interiores y exteriores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00UCMUJ7U/?tag=tolees-21)

@@ -31,7 +31,7 @@ En este momento está [BiC Kids Ecolutions Visa Color XL Felt Pens - Assorted  P
 - Medidas del paquete (LxAxAlt): 14 x 7 x 4 cm
 - Calidad reconocida de Creativ Company
 - Rotulador de gran calidad y durabilidad con base de agua y tapa de seguridad
-- Contenido: 12 ud
 - Set de 12 colores
+- Contenido: 12 ud
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005G3PKYM/?tag=tolees-21)
