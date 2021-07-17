@@ -29,7 +29,7 @@ En este momento está [Adidas Sambarose  Zapatillas Clasicas Mujer  Blanco  Clou
 🔎:
 
 - Suela de goma
-- malla y parte superior de cuero sintético
 - Cordones de zapatos
+- malla y parte superior de cuero sintético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D9TQZZ3/?tag=tolees-21)
