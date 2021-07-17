@@ -28,7 +28,7 @@ Está [Merrell Terran Lattice Ii Tira de tobillo para Mujer  Azul  NAVY   36 EU]
 
 ℹ️:
 
-- Material exterior: Cuero
 - Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00YDITL6O/?tag=tolees-21)

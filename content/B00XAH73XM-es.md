@@ -28,8 +28,8 @@ En este momento está [Geniol Champú Huevo - 750 ml](https://www.amazon.es/dp/B
 
 🔎:
 
-- Tipo de Cabello: Todo Tipo de Cabello
 - Marca: Geniol
+- Tipo de Cabello: Todo Tipo de Cabello
 - Género: Unisex Adulto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00XAH73XM/?tag=tolees-21)

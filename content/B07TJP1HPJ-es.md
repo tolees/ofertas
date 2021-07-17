@@ -28,8 +28,8 @@ Está [Clarks Orinoco Strap  Sandalias de Talón Abierto Mujer  Rosa  Pink Pink 
 
 ℹ️:
 
-- Suela: goma
 - Exterior: piel
+- Suela: goma
 - Material interior: sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TJP1HPJ/?tag=tolees-21)

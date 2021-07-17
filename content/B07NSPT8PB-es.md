@@ -28,10 +28,10 @@ En este momento está [Funko - Pop! Figura de Vinilo: Animación: Rick & Morty S
 
 🔎:
 
-- Funko pop! vinyl
-- Rick & morty morty in mech suit
-- Rick & morty
 - Descúbre otras figuras de la colección rick & morty y colecciónalas todas!
+- Funko pop! vinyl
+- Rick & morty
 - De la colección rick & morty, morty in mech suit como figura de vinilo pop de funko
+- Rick & morty morty in mech suit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NSPT8PB/?tag=tolees-21)
