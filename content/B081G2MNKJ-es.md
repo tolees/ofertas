@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Ivy Jeans Vaqueros  Mid De Niro  30W / 33L para Mujer](h
 
 🔎:
 
+- Skinny High Waist
 - Tejido vaquero
 - 5 bolsillos
-- Skinny High Waist
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081G2MNKJ/?tag=tolees-21)

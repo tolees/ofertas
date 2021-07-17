@@ -28,8 +28,8 @@ Está [WELEDA Crema Facial de Caléndula  1x 50 ml ](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Adecuada para la piel estresada: Cuida suavemente la delicada piel de la cara y del cuerpo, promoviendo sus funciones protectoras naturales para un desarrollo saludable.
 - Nutre sin obstruir los poros: Los extractos de Caléndula BIO ayudan a calmar la piel, mientras la lanolina, la Cera de Abeja y el aceite de Almendra BIO la envuelven con un manto protector natural.
+- Adecuada para la piel estresada: Cuida suavemente la delicada piel de la cara y del cuerpo, promoviendo sus funciones protectoras naturales para un desarrollo saludable.
 - De fácil absorción: La suave crema reparadora es el cuidado diario perfecto para rostro, manos y otras zonas expuestas del cuerpo, así como para adultos con piel sensible y seca.
 - Excelente calidad WELEDA: Con Extracto de Flores de Caléndula BIO y Aceite de Almendra Dulce BIO.
 - Contenido: 1 x WELEDA Crema Facial de Caléndula
