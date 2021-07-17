@@ -28,12 +28,12 @@ Está [Crocs Crocband Flip  Unisex Adulto  Graphite/Volt Green  43/44 EU](https:
 
 ℹ️:
 
-- Revestimiento: Sin forro
-- Composición: Sintético
-- Tipo de tacón: Plano
-- Altura del tacón: 1 centímetro
-- Material exterior: Espuma
-- Cierre: Sin cordones
 - Material de la suela: Goma
+- Material exterior: Espuma
+- Composición: Sintético
+- Altura del tacón: 1 centímetro
+- Tipo de tacón: Plano
+- Cierre: Sin cordones
+- Revestimiento: Sin forro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MRZQEHX/?tag=tolees-21)
