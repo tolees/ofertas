@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment-¡Mi Postre Favorito   al 60.20 % de descuento'
-date: 2021-07-16 16:23:17
+date: 2021-07-17 20:37:22
 image: 'https://m.media-amazon.com/images/I/51aSPqYO6kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B07727SJTS/?tag=tolees-21'
 descuento: '60.20'
-average: '6.331'
+average: '6.31285714285714'
 ---
 
 Ahora mismo tienes [Edge Entertainment-¡Mi Postre Favorito  Color  EELLJD01 ](https://www.amazon.es/dp/B07727SJTS/?tag=tolees-21) a 5.95 EUR (original: 14.95 EUR) (60.20 %  de descuento) en el siguiente enlace!

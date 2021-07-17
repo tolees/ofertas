@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GANT MD. Extrafine Lambswool V-Neck suét al 67.05 % de descuento'
-date: 2021-07-13 14:03:55
+date: 2021-07-17 20:38:48
 image: 'https://m.media-amazon.com/images/I/41z6heOmUXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GANT'
 buyurl: 'https://www.amazon.es/dp/B07MQX7PQQ/?tag=tolees-21'
 descuento: '67.05'
-average: '70.5'
+average: '62.99'
 ---
 
 Ahora mismo tienes [GANT MD. Extrafine Lambswool V-Neck suéter  Gris  Dk Charcoal Melange 97   Medium para Hombre](https://www.amazon.es/dp/B07MQX7PQQ/?tag=tolees-21) a 32.95 EUR (original: 99.99 EUR) (67.05 %  de descuento) en el siguiente enlace!
