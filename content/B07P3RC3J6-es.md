@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Emtec Internal SSD X150 960 GB al 42.85 % de descuento'
-date: 2021-07-16 10:36:26
+date: 2021-07-17 16:41:30
 image: 'https://m.media-amazon.com/images/I/41PgHPbby0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EMTEC'
 buyurl: 'https://www.amazon.es/dp/B07P3RC3J6/?tag=tolees-21'
 descuento: '42.85'
-average: '84.17'
+average: '82.5933333333333'
 ---
 
 Está [Emtec Internal SSD X150 960 GB](https://www.amazon.es/dp/B07P3RC3J6/?tag=tolees-21) con 42.85 de descuento por 79.44 EUR (original: 139.0 EUR) en el siguiente enlace!
