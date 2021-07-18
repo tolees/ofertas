@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Gris  Light Grey Mela
 
 🔎:
 
-- Sudadera con logotipo.
 - Mezcla de algodón.
+- Sudadera con logotipo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B69D4PL/?tag=tolees-21)

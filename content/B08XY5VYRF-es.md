@@ -28,9 +28,9 @@ Tienes [adidas Nemeziz Messi .3 IN J  Zapatillas de fútbol  Rojsol/Amasol/NEGB�
 
 ℹ️:
 
-- Cierre de cordones
 - Logotipo de Messi
-- Suela de goma con diseño específico para pista cubierta
 - Parte superior sintética
+- Cierre de cordones
+- Suela de goma con diseño específico para pista cubierta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08XY5VYRF/?tag=tolees-21)

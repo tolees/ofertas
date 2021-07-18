@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.74 % en Meridiem Games - Robotics: Notes Double '
-date: 2021-07-07 21:16:27
+date: 2021-07-18 09:11:13
 image: 'https://m.media-amazon.com/images/I/51qcTZ46nPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B087K65NGF/?tag=tolees-21'
 descuento: '41.74'
-average: '43.832'
+average: '43.0245454545455'
 ---
 
 Tienes [Meridiem Games - Robotics: Notes Double Pack](https://www.amazon.es/dp/B087K65NGF/?tag=tolees-21) con un 41.74 % de descuento con precio de oferta de 34.95 EUR (original: 59.99 EUR) en el siguiente enlace!

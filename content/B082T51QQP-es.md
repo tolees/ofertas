@@ -28,8 +28,8 @@ Está [adidas Duramo SL  Sneaker Hombre  Team Royal Blue/Footwear White/Core Bla
 
 ℹ️:
 
-- Malla superior
 - Corte regular
 - Cordones de zapatos
+- Malla superior
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082T51QQP/?tag=tolees-21)
