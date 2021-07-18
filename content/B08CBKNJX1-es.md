@@ -28,7 +28,7 @@ Está [Calvin Klein Jeans Neck Micro Mirrored Logo Mock Cuello  CK Negro  M para
 
 ℹ️:
 
-- Este es un producto auténtico y original de Calvin Klein Jeans
 - Este producto ha sido fabricado de forma sostenible con materiales sostenibles
+- Este es un producto auténtico y original de Calvin Klein Jeans
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CBKNJX1/?tag=tolees-21)

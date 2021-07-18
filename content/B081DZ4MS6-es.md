@@ -28,9 +28,9 @@ Está [adidas Alemania Temporada 2020/21 Camiseta Primera equipación  Unisex  B
 
 ℹ️:
 
-- Adecuada para actividades deportivas
-- Ofrece una comodidad óptima
 - Ofrece libertad de movimiento
+- Ofrece una comodidad óptima
 - El material absorbe el calor y se seca rápidamente
+- Adecuada para actividades deportivas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081DZ4MS6/?tag=tolees-21)

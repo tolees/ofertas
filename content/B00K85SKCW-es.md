@@ -28,15 +28,15 @@ Tienes [BRA Terra - Set de 3 sartenes  aluminio fundido  aptas para todo tipo de
 
 ℹ️:
 
+- Producto exclusivo de Amazon
 - Diámetro para placa de inducción: 18 cm - 124 mm / 22 cm - 158 mm / 26 cm - 195 mm
+- Fondo difusor full induction uniforme de máxima eficiencia (Save Energy System), compatible con todas las fuentes de calor incluida la inducción
+- Recubrimiento antiadherente de la máxima calidad tricapa Teflon Select acabado dorado
+- Limpieza fácil e higiénica
+- Fabricada en aluminio fundido de gran calidad, muy resistente a la deformación (5.5 mm de espesor en la base)
 - Mango ergonómico y apilable en color dorado con un agarre agradable y seguro
 - Apta para todo tipo de cocinas, incluido inducción
-- Fondo difusor full induction uniforme de máxima eficiencia (Save Energy System), compatible con todas las fuentes de calor incluida la inducción
-- Limpieza fácil e higiénica
 - Descubre cómo cuidar tu menaje antiadherente en el apartado “Guia de usuario” de esta ficha
-- Recubrimiento antiadherente de la máxima calidad tricapa Teflon Select acabado dorado
 - Sistema ECO+: más respetuoso y eficiente con el medio ambiente, 100% libre de PFOA
-- Fabricada en aluminio fundido de gran calidad, muy resistente a la deformación (5.5 mm de espesor en la base)
-- Producto exclusivo de Amazon
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00K85SKCW/?tag=tolees-21)

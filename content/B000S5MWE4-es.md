@@ -28,10 +28,10 @@ Tienes [Intex 58849NP - Tobogán hinchable con 2 pulverizadores 333 x 206 x 117 
 
 🔎:
 
-- El tobogán Intex tiene 4 orificios que actúan de escalera hinchable; material: vInilo resistente de 0.55 mm
-- Incorpora 6 asas de agarre para mayor seguridad y 5 cámaras de aire; dispone de 3 bases hinchables en los laterales para mayor estabilidad
 - Tobogán hinchable Intex para piscinas de suelo; medidas: 333x206x117 cm
-- El tobogán hinchable tiene 2 pulverizadores para mantener la superficie húmeda y que el lanzamiento sea más cómodo, incluye  conexión para manguera de jardín
 - El tobogán está diseñado para que se lance un niño, a partir de 6 años; soporta un peso máximo de 80 kg
+- Incorpora 6 asas de agarre para mayor seguridad y 5 cámaras de aire; dispone de 3 bases hinchables en los laterales para mayor estabilidad
+- El tobogán Intex tiene 4 orificios que actúan de escalera hinchable; material: vInilo resistente de 0.55 mm
+- El tobogán hinchable tiene 2 pulverizadores para mantener la superficie húmeda y que el lanzamiento sea más cómodo, incluye  conexión para manguera de jardín
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000S5MWE4/?tag=tolees-21)

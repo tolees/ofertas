@@ -28,10 +28,10 @@ Está [adidas Tiro DU BC M Bolsa  Adultos Unisex  TMPWRD/Negro/Blanco  Multicolo
 
 ℹ️:
 
-- Capacidad: 40,75 litros.
+- Compartimento inferior con cremallera
 - Tejido técnico 100% poliéster reciclado
 - Asas de mano acolchadas
-- Compartimento inferior con cremallera
+- Capacidad: 40,75 litros.
 - Bolsillo interior con cremallera para objetos de valor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08VRWM61Q/?tag=tolees-21)

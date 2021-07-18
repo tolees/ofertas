@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Raw Drawcord Raglan Crewneck Sudadera  Grege G
 
 🔎:
 
-- Manga larga y puños acanalados
 - Bajo recto con borde acanalado
-- Cuello redondo acanalado
 - Estampado gráfico de RAW en relieve en el pecho
+- Cuello redondo acanalado
+- Manga larga y puños acanalados
 - Cordón en la cintura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KTN8XJR/?tag=tolees-21)
