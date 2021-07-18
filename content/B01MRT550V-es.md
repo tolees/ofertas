@@ -28,10 +28,10 @@ Tienes [Amazon Basics - Perchero de montaje en pared  Negro](https://www.amazon.
 
 ℹ️:
 
-- Ganchos de metal estampados sobre soporte de madera.
-- Material de montaje e instrucciones de instalación incluidos.
-- Perfecto para recibidores, pasillos y dormitorios.
 - Tamaño: 57 cm de largo x 11,7 cm de ancho x 7 cm de alto.
 - Cada gancho puede sostener hasta 2,27 kg.
+- Material de montaje e instrucciones de instalación incluidos.
+- Ganchos de metal estampados sobre soporte de madera.
+- Perfecto para recibidores, pasillos y dormitorios.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MRT550V/?tag=tolees-21)
