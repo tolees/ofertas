@@ -29,7 +29,7 @@ Tienes [Adidas RUNFALCON 2.0 K  Zapatillas Mujer  Rosa  38 2/3 EU](https://www.a
 🔎:
 
 - Zapatillas deportivas
-- Marca Adidas
 - Talla Calzado 38 2/3
+- Marca Adidas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08P1HMDD4/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Esprit Bodywear LISMORE Sujetador  Black 001  90C para Mu
 
 🔎:
 
-- Bandas de encaje aplicadas al escote
-- Sujetador con diseño básico y sencillo
 - Cierre de doble corchete en la espalda
+- Sujetador con diseño básico y sencillo
+- Bandas de encaje aplicadas al escote
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00OUJ3CT8/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Hudora Dardos de Diana Electrónica LED 04  77034](https://www.amazon.es
 
 ℹ️:
 
-- 6 dardos suaves con 24 puntas de repuesto; 6 soportes para dardos integrados en la diana
 - Función de apagado automático con función de memoria, control de volumen y control de sonido
-- Funciona con fuente de alimentación incluida o pilas AA (pilas no incluidas)
 - 4 pantallas LED, 27 juegos, 243 variaciones de juego; para máx. 16 jugadores
+- 6 dardos suaves con 24 puntas de repuesto; 6 soportes para dardos integrados en la diana
 - Indicador de nivel de juego para 4 jugadores al mismo tiempo
+- Funciona con fuente de alimentación incluida o pilas AA (pilas no incluidas)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DVUAX0M/?tag=tolees-21)
