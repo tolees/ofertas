@@ -28,11 +28,11 @@ Tienes [adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Collegiate Navy/Whi
 
 🔎:
 
-- Talla: 36
 - Material exterior: cuero
 - Material interior: tela
-- Adecuado para: unisex-adulto
 - Material de la suela: goma
+- Talla: 36
 - Cierre: cordones
+- Adecuado para: unisex-adulto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01EI9GTWQ/?tag=tolees-21)
