@@ -28,9 +28,9 @@ Tienes [Sony DSC-RX100 - Cámara compacta  Sensor CMOS Exmor R 1.0 de 20.1 MP  F
 
 ℹ️:
 
-- Sensor de gran tamaño para conseguir imágenes con todo lujo de detalles y poco ruido
-- Controla preciosos efectos de desenfoque
 - Estilo compacto y elegante en aluminio
+- Sensor de gran tamaño para conseguir imágenes con todo lujo de detalles y poco ruido
 - Sensor CMOS Exmor 1.0 de 20.2 MP tipo 1.0, lente F1.8, zoom óptico de 3.6x, Full HD/50p, pantalla LCD de 3"
+- Controla preciosos efectos de desenfoque
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0089BUVG0/?tag=tolees-21)

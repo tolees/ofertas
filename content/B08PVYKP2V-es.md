@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Ozweego W  Zapatillas Deportivas Mujer  Morado Soft V
 
 🔎:
 
-- Empeine de tela con estructura de TPU
 - Zapatillas con amortiguación
+- Empeine de tela con estructura de TPU
 - Zapatos de estilo de vida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PVYKP2V/?tag=tolees-21)
