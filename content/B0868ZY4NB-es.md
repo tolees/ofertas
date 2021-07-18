@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OPPO Find X2 LITE 5G – Pantalla de 6.4"  al 44.09 % de rebaja'
-date: 2021-07-14 10:43:38
+date: 2021-07-18 17:28:10
 image: 'https://m.media-amazon.com/images/I/51TwGpF5nqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Oppo'
 buyurl: 'https://www.amazon.es/dp/B0868ZY4NB/?tag=tolees-21'
 descuento: '44.09'
-average: '308.266605504587'
+average: '308.000545454545'
 ---
 
 Tienes [OPPO Find X2 LITE 5G – Pantalla de 6.4"  AMOLED  8GB/128GB  Snapdragon 765G  4.000 mAh  cámara trasera 48MP+8MP+2MP+2MP  cámara frontal 32MP  Android 10  Negro [Versión ES/PT]](https://www.amazon.es/dp/B0868ZY4NB/?tag=tolees-21) con precio final de  279.0 EUR (original: 499.0 EUR) (44.09 %  de rebaja) aqui!

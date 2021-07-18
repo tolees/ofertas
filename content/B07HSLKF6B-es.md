@@ -28,10 +28,10 @@ Está [HEO GMBH - Juego De Tronos - Figura Arya Stark 18cm](https://www.amazon.e
 
 ℹ️:
 
-- Licencia oficial
-- Gran detalle
 - Incluye una base
+- Licencia oficial
 - Caja ilustrada con ventana
 - Figura de coleccionista
+- Gran detalle
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HSLKF6B/?tag=tolees-21)
