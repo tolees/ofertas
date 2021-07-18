@@ -28,10 +28,10 @@ Ahora mismo tienes [Hudora Inliner Inlineskate RX-23 - Patines en línea  Color 
 
 🔎:
 
+- 5 rodamientos de bolas ABEC de alta calidad, cromados.
 - Chasis de aluminio extruido.
 - Carcasa reforzada con un 20% de fibra de vidrio.
-- 5 rodamientos de bolas ABEC de alta calidad, cromados.
-- Ruedas de poliuretano fundido, de gran amortiguación, 78 A.
 - Manguitos de polipropileno resistente a impactos.
+- Ruedas de poliuretano fundido, de gran amortiguación, 78 A.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00GNYDI2E/?tag=tolees-21)

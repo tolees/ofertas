@@ -29,9 +29,9 @@ Tienes [Destornillador Eléctrico Inalámbrico  GALAX PRO Atornillador Pequeño 
 ℹ️:
 
 - 6+1 engranajes de par: 1 posición de conducción de tornillo, 6 diferentes engranajes de diferente oferta de par diferente; rotación de liberación rápida para un fácil cambio de bits en medio de un trabajo más un automático bloqueo del eje.
-- Diseño de luz de trabajo LED práctico para un ambiente oscuro. El bloquedo de seguridad se diseña razonable, cuando empuja el botón hacia adelante, el taladro va a rotar en el sentido de las agujas del reloj; el botón hacia atrás, el taladro va a rotar en dirección opuesta; el botón está en medio, no funcionará
 - Mango girable: la posición de la manija le da diferentes opciones cuando trabaja en diferentes circulos. haga que sea recto mientras necesita una extensión más larga en un lugar estrecho.
-- Paquete que incluye: 1 x GALAX PRO Atornillador, 39 x Taladros, 1 x Extensión de taladro, 1 x línea de USB, 1 x Usuario Manual
 - Batería de 2000 mAh: El tiempo de carga de la batería es de 3 a 5 horas y la carga se indica con el indicador LED. La batería de 2000 mAh garantiza un largo tiempo de funcionamiento.
+- Paquete que incluye: 1 x GALAX PRO Atornillador, 39 x Taladros, 1 x Extensión de taladro, 1 x línea de USB, 1 x Usuario Manual
+- Diseño de luz de trabajo LED práctico para un ambiente oscuro. El bloquedo de seguridad se diseña razonable, cuando empuja el botón hacia adelante, el taladro va a rotar en el sentido de las agujas del reloj; el botón hacia atrás, el taladro va a rotar en dirección opuesta; el botón está en medio, no funcionará
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07S2P5FPL/?tag=tolees-21)

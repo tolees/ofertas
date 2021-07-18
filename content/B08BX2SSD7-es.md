@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Duramo SL  Sneaker Hombre  Halo Silver/Footwear White
 
 🔎:
 
-- Corte regular
 - Malla superior
 - Cordones de zapatos
+- Corte regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BX2SSD7/?tag=tolees-21)

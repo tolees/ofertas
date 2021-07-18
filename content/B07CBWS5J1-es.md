@@ -28,8 +28,8 @@ Está [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Dark Grey Melange D
 
 ℹ️:
 
-- Marca: Jack&Jones
 - Modelo: 12137194 JJEBASIC KNIT V-NECK NOOS DARK GREY MELANGE
 - Jersey de manga larga de color gris oscuro. Cuello en pico. Detalle bordado.
+- Marca: Jack&Jones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CBWS5J1/?tag=tolees-21)

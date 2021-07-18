@@ -29,10 +29,10 @@ Está [Trust Gaming GXT 830-RW Avonn - Teclado gaming iluminado  con efecto anti
 ℹ️:
 
 - Sin efecto fantasma: Hasta 6 pulsaciones de teclas simultáneas
+- Interruptor de modo de juego; desactive la tecla de Windows directamente
 - Iluminación Rainbow Wave con nivel de brillo ajustable
 - Diseño de tamaño completo
-- Tecnología de pantalla: LED
-- Interruptor de modo de juego; desactive la tecla de Windows directamente
 - 12 teclas multimedia de acceso directo
+- Tecnología de pantalla: LED
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077BJMX1F/?tag=tolees-21)
