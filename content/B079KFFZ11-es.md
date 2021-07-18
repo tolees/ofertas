@@ -28,8 +28,8 @@ Está [Lee Elly Jeans  Negro  Black Rinse 47   25W / 33L para Mujer](https://www
 
 ℹ️:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para mujer
 - Presentan 5 bolsillos
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079KFFZ11/?tag=tolees-21)

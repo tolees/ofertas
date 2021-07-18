@@ -28,7 +28,7 @@ Tienes [ADIDAS Gazelle J  Zapatillas Unisex Adulto  Negro  Core Black/Footwear W
 
 ℹ️:
 
-- Black
 - 100%sUEDE
+- Black
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LXTP5IW/?tag=tolees-21)

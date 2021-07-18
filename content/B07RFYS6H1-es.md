@@ -28,7 +28,7 @@ Está [G-STAR RAW Premium Basic suéter  Gris  Lt Grey Htr C235-A302   XXS para 
 
 ℹ️:
 
-- La sudadera está confeccionada en una exquisita tela de felpa con un cálido revés.
 - Las prendas de RAW Sustainable se confeccionan a partir de materiales sostenibles y permiten minimizar el impacto en el medioambiente de la colección G-Star.
+- La sudadera está confeccionada en una exquisita tela de felpa con un cálido revés.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RFYS6H1/?tag=tolees-21)
