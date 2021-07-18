@@ -28,10 +28,10 @@ Tienes [BIGBEN - Tennis World Tour - Roland-Garros Edition [Versión Española]]
 
 🔎:
 
-- Una reproducción perfecta de los jugadores y sus movimientos
 - Un completo modo carrera: entrenamiento, torneos, compras de equipamiento. Una dimensión psicológica y táctica; elige tus habilidades y desarróllalas
-- 30 de los mejores jugadores, incluidos Roger Federer, Angelique Kerber y otros
 - Todos los modos de Juego del tenis: exhibición, World Tour, local y online
+- 30 de los mejores jugadores, incluidos Roger Federer, Angelique Kerber y otros
+- Una reproducción perfecta de los jugadores y sus movimientos
 - Un juego pensado para la competición: clasificación mundial, torneos eSports
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RXJBC4X/?tag=tolees-21)

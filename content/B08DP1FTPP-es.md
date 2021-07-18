@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich Versus  Zapatillas Unisex Adulto  al 50.00 % de descuento'
-date: 2021-07-08 13:17:22
+date: 2021-07-18 13:31:48
 image: 'https://m.media-amazon.com/images/I/41YWb4hLmCS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B08DP1FTPP/?tag=tolees-21'
 descuento: '50.00'
-average: '37.745'
+average: '37.1466666666667'
 ---
 
 Está [Munich Versus  Zapatillas Unisex Adulto  Naranja  39 EU](https://www.amazon.es/dp/B08DP1FTPP/?tag=tolees-21) con 50.00 de descuento por 35.95 EUR (original: 71.9 EUR) en el siguiente enlace!
