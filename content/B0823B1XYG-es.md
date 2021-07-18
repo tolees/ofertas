@@ -28,8 +28,8 @@ Está [Levi s Housemark Graphic tee Camiseta  Ssnl Hm Outline Jet Black  XX-Smal
 
 ℹ️:
 
-- Ofrece comodidad todo el día
 - Modelo casual
 - Tiene estampado el logotipo de Levis
+- Ofrece comodidad todo el día
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0823B1XYG/?tag=tolees-21)
