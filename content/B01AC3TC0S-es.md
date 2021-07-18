@@ -28,9 +28,9 @@ Tienes [Bed Head by Tigi – Dumb Blonde  champú y acondicionador para pelo rub
 
 ℹ️:
 
-- Para el cabello: con color
-- Cuida tu cabello
-- Ayudan a reconstruir y reparar el cabello dañado después del tratamiento químico
 - Tipo de producto: champú y acondicionador
+- Cuida tu cabello
+- Para el cabello: con color
+- Ayudan a reconstruir y reparar el cabello dañado después del tratamiento químico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01AC3TC0S/?tag=tolees-21)

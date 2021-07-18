@@ -29,10 +29,10 @@ Tienes [CANDY CMG 2071 DS Microondas con grill  Capacidad 20L  Display digital  
 ℹ️:
 
 - Inicio Rápido: Cada vez que se presiona el botón, se añaden 30 segundos más al tiempo de cocción; una característica muy simple, intuitiva y útil
-- Función microondas + grill combinado: El grill de cuarzo incluido consigue altas temperaturas y ofrece una cocción rápida para dorar a la perfección y uniformemente tus platos favoritos
-- Como medida de seguridad, en caso de que el aparato se programe más de 4 minutos, el ventilador de refrigeración del magnetrón continua funcionando unos 2/3 minutos con el fin de seguir enfriando el magnetrón y evitar que la inercia térmica lo dañe
 - Interfaz digital: Combina la facilidad de uso con un reloj digital, un temporizador, la función express cooking y hasta 9 automenús
+- Como medida de seguridad, en caso de que el aparato se programe más de 4 minutos, el ventilador de refrigeración del magnetrón continua funcionando unos 2/3 minutos con el fin de seguir enfriando el magnetrón y evitar que la inercia térmica lo dañe
 - Plato giratorio de grandes dimensiones (24,5cm)
 - Muy intuitivo: combina la facilidad de uso con el diseño esencial; adecuado para todos los usuarios y edades
+- Función microondas + grill combinado: El grill de cuarzo incluido consigue altas temperaturas y ofrece una cocción rápida para dorar a la perfección y uniformemente tus platos favoritos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CIUC5IU/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Asics Gel-Dedicate 6  Tennis Shoe Hombre  White/Mako Blue  41.5 EU](https
 
 ℹ️:
 
-- Tecnología GEL
 - Tecnología TRUSSTIC
 - Amortiguación EVA
-- Parte superior de malla con revestimiento sintético
 - Plantilla de EVA
+- Tecnología GEL
+- Parte superior de malla con revestimiento sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PG1GQ1P/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Russell Hobbs PowerSteam Ultra - Plancha de Vapor  3100 W
 
 🔎:
 
+- Golpe de vapor: 210 g/min.
 - Potencia de vapor: 45 g/min.
 - Capacidad de reservorio de agua: 350 ml.
 - 3100 W.
-- Golpe de vapor: 210 g/min.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00K8S8OXO/?tag=tolees-21)

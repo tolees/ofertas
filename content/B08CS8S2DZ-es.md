@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Tin & Kuna al 48.59 % de descuento'
-date: 2021-07-09 09:21:12
+date: 2021-07-18 12:12:12
 image: 'https://m.media-amazon.com/images/I/51U8GxhYdSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B08CS8S2DZ/?tag=tolees-21'
 descuento: '48.59'
-average: '18.99'
+average: '18.6566666666667'
 ---
 
 Ahora mismo tienes [Meridiem Games - Tin & Kuna](https://www.amazon.es/dp/B08CS8S2DZ/?tag=tolees-21) a 17.99 EUR (original: 34.99 EUR) (48.59 %  de descuento) en el siguiente enlace!
