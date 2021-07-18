@@ -28,9 +28,9 @@ Ahora mismo tienes [Lactacyd Pharma Protección - Con extractos naturales de acc
 
 🔎:
 
-- Lea las instrucciones de uso antes de utilizar el producto
-- Formulado con Ácido L-Láctico biológico (pH=3.5). Enriquecido con Tomillo. Sin jabón. Dermatológicamente testado
 - Protección durante 24h
+- Formulado con Ácido L-Láctico biológico (pH=3.5). Enriquecido con Tomillo. Sin jabón. Dermatológicamente testado
 - Formato 250ml
+- Lea las instrucciones de uso antes de utilizar el producto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00NGKGK32/?tag=tolees-21)
