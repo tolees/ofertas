@@ -28,11 +28,11 @@ En este momento está [Rilastil Sun System - Base Compacta con Spf 50+  Corrige 
 
 🔎:
 
-- Modo de empleo: con la esponja especial contenida en el pack, aplicar el producto al menos 30 minutos antes de la exposición al sol
-- Formulado sin perfume, derivados del trigo y colorantes. Hipoalergénico y compuesto únicamente con filtros físicos
-- Protege la piel de los rayos UVB y UVA, promoviendo la elasticidad natural y dejándola suave y tersa
-- Ingredientes: RILASTIL SUN SYSTEM COLOR CORRECTOR SPF 50+ Dor? Fondotinta compatto, dallelevato potere coprente, cremoso e facilmente spalmabile; caratteristiche Maschera le imperfezioni cutanee come nei, cicatrici, vitiligine, acne Garantisce una protezione ad ampio spettro dalle radiazioni UVB-UVA (protezione molto alta) Previene linsorgenza di scottature ed eritemi solari Previene la formazione di macchie
-- Clínicamente testado. Testado en Níquel, Cobalto, Cromo, Paladio y Mercurio
 - Foto-maquillaje compacto que corrige las imperfecciones y unifica el tono dando un color de efecto bronceado natural
+- Modo de empleo: con la esponja especial contenida en el pack, aplicar el producto al menos 30 minutos antes de la exposición al sol
+- Clínicamente testado. Testado en Níquel, Cobalto, Cromo, Paladio y Mercurio
+- Protege la piel de los rayos UVB y UVA, promoviendo la elasticidad natural y dejándola suave y tersa
+- Formulado sin perfume, derivados del trigo y colorantes. Hipoalergénico y compuesto únicamente con filtros físicos
+- Ingredientes: RILASTIL SUN SYSTEM COLOR CORRECTOR SPF 50+ Dor? Fondotinta compatto, dallelevato potere coprente, cremoso e facilmente spalmabile; caratteristiche Maschera le imperfezioni cutanee come nei, cicatrici, vitiligine, acne Garantisce una protezione ad ampio spettro dalle radiazioni UVB-UVA (protezione molto alta) Previene linsorgenza di scottature ed eritemi solari Previene la formazione di macchie
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VL3TRRN/?tag=tolees-21)

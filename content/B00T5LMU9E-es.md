@@ -28,8 +28,8 @@ Tienes [Aiptek MobileCinema i60 - Proyector  70 lúmenes ANSI  DLP  VGA  640x480
 
 🔎:
 
+- resolución original del proyector: VGA (640x480)
 - 70 lúmenes de brillo y el tamaño de proyección máximo es de hasta 60" a 2m de distancia
 - Fuente de luz LED con una vida de trabajo de hasta 20.000 horas
-- resolución original del proyector: VGA (640x480)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00T5LMU9E/?tag=tolees-21)
