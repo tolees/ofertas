@@ -29,7 +29,7 @@ En este momento está [Joma Tokio II Pantalones Cortos  Hombre  Multicolor  Blan
 🔎:
 
 - Incorpora tecnología DRY MX para controlar la humedad corporal del deportista
-- Cintura elástica ajustable con cordón
 - Pantalón corto que incluye aberturas laterales en los costados y una pieza diseñada a contraste de color en la parte trasera y lateral
+- Cintura elástica ajustable con cordón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XHVVWK8/?tag=tolees-21)
