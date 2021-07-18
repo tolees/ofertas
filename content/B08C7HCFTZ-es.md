@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS 2P AS Logo CC Calcetines con forro  al 43.94 % de descuento'
-date: 2021-07-16 13:55:15
+date: 2021-07-18 08:47:23
 image: 'https://m.media-amazon.com/images/I/41YQEKEKtxS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
