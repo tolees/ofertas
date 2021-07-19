@@ -28,8 +28,8 @@ En este momento está [adidas Ozweego W  Zapatillas Deportivas Mujer  Morado Sof
 
 🔎:
 
+- Zapatos de estilo de vida
 - Empeine de tela con estructura de TPU
 - Zapatillas con amortiguación
-- Zapatos de estilo de vida
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PVXYVWX/?tag=tolees-21)
