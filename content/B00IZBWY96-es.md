@@ -28,15 +28,15 @@ Está [Alfa Next 30+ Spring Máquina de Coser  Verde  30 X 19 X 37 Cm](https://w
 
 ℹ️:
 
-- Todas las comodidades: Cortador de hilo incorporado, Devanador de canilla automático, Indicador de puntada analógico, luz blanca LED
-- Fácil de utilizar: Curso de Costura Online gratuito y más de 100 tutoriales de costura en la web de ALFA.
-- Opcional: Funda para proteger la máquina y transportarla. Funda Next to U o Style to U.
-- ALFA te regala un año extra de garantía si registras la máquina en su web.
-- Cose vaqueros y tejidos gruesos: podrás coser el bajo de un vaquero, camisetas, neceser, bolsos con cremallera, fieltro, botones, etc.
-- ¿Buscas enhebrador automático? Consulta nuestra gama ALFA Practik.
-- Incluye accesorios:, prensatelas universal, prensatelas para cremalleras, prensatelas para ojales, prensatelas para botones, abre-ojales/pincel, guía para bordados/acolchados, agujas, 3 canillas, destornillador en forma de L, aceitera, placa para zurcir y bordar, fieltro para portacarretes
 - Máquina robusta y duradera: estructura metálica de gran rigidez, luz blanca led, portacarretes metálico, enmangue de prénsatelas metálico
 - Largo de puntada variable (0 - 4 mm), ancho variable en puntada zig-zag (0 - 5 mm) y posibilidad de coser con aguja doble (no incluida)
+- Incluye accesorios:, prensatelas universal, prensatelas para cremalleras, prensatelas para ojales, prensatelas para botones, abre-ojales/pincel, guía para bordados/acolchados, agujas, 3 canillas, destornillador en forma de L, aceitera, placa para zurcir y bordar, fieltro para portacarretes
+- Todas las comodidades: Cortador de hilo incorporado, Devanador de canilla automático, Indicador de puntada analógico, luz blanca LED
+- Opcional: Funda para proteger la máquina y transportarla. Funda Next to U o Style to U.
 - 21 tipos de puntadas con las que coser de todo: Ojal automático en 4 pasos, Básicas, Decorativas, Festones, Zig-zag, lycra, lencería, etc.
+- Fácil de utilizar: Curso de Costura Online gratuito y más de 100 tutoriales de costura en la web de ALFA.
+- Cose vaqueros y tejidos gruesos: podrás coser el bajo de un vaquero, camisetas, neceser, bolsos con cremallera, fieltro, botones, etc.
+- ALFA te regala un año extra de garantía si registras la máquina en su web.
+- ¿Buscas enhebrador automático? Consulta nuestra gama ALFA Practik.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00IZBWY96/?tag=tolees-21)
