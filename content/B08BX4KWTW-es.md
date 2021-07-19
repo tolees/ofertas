@@ -28,8 +28,8 @@ Tienes [Adidas Fy6746  Sneaker Mujer  Suppop Ftwbla Rojsol  38 EU](https://www.a
 
 🔎:
 
+- Zapatillas deportivas
 - Marca Adidas
 - Talla Calzado 38
-- Zapatillas deportivas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BX4KWTW/?tag=tolees-21)

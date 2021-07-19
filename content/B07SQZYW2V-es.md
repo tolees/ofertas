@@ -28,11 +28,11 @@ Ahora mismo tienes [Corsair CSSD - Unidad De Estado Sólido  1 TB  Multicolor  V
 
 🔎:
 
-- Interfaz gen4 pcie x4 nvme m.2 de alta velocidad: al utilizar la tecnología pcie gen4 para obtener el mayor ancho de banda, el mp600 ofrece un rendimiento de almacenamiento óptimo
-- Formato m.2 2280: encaja a la perfección en su placa base
 - Software corsair ssd toolbox: permite un mayor control de la unidad desde su escritorio; por ejemplo, podrá realizar borrados seguros y actualizar el firmware
-- Rendimiento de almacenamiento extremo gen4: el controlador pcie gen4 x4 brinda una velocidad de lectura secuencial de hasta 4950 mb/s y de escritura secuencial de hasta 4250 mb/s
 - 3d tlc nand de alta densidad: ofrece una combinación óptima de rendimiento, durabilidad y valor para que su unidad funcione al máximo durante mucho tiempo
+- Formato m.2 2280: encaja a la perfección en su placa base
+- Interfaz gen4 pcie x4 nvme m.2 de alta velocidad: al utilizar la tecnología pcie gen4 para obtener el mayor ancho de banda, el mp600 ofrece un rendimiento de almacenamiento óptimo
+- Rendimiento de almacenamiento extremo gen4: el controlador pcie gen4 x4 brinda una velocidad de lectura secuencial de hasta 4950 mb/s y de escritura secuencial de hasta 4250 mb/s
 - Resistencia extraordinaria: la longevidad del mp600 (hasta 1800 tb escritos garantizados) garantiza que almacenará los datos de manera fiable durante muchos años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SQZYW2V/?tag=tolees-21)
