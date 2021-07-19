@@ -28,10 +28,10 @@ Ahora mismo tienes [Red String- Juguetes  Multicolor  Li-B66MD ](https://www.ama
 
 🔎:
 
-- muÃ±eco yoda
-- Ekids, Altavoz Bluetooth The Mandalorian
 - Baby Yoda
 - figura yoda
 - mandalorian
+- Ekids, Altavoz Bluetooth The Mandalorian
+- muÃ±eco yoda
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CHP5T7Z/?tag=tolees-21)

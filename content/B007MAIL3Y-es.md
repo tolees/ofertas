@@ -28,9 +28,9 @@ En este momento está [Versele-laga A-18725 Crock Complete Bayas - 50 gr](https:
 
 🔎:
 
-- Crujiente relleno bayas
 - Snack
-- Roedores
 - Paqueteage Dimensiones: 2.3 L x 19.5 H x 8.8 W (centimeters)
+- Roedores
+- Crujiente relleno bayas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B007MAIL3Y/?tag=tolees-21)
