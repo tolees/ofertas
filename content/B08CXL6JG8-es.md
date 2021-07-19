@@ -29,7 +29,7 @@ En este momento está [Lee Extreme Motion Chino Pantalones  Gris Oscuro  33W x 3
 🔎:
 
 - chino
-- Slim Chino XC
 - Otro elástico plano
+- Slim Chino XC
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXL6JG8/?tag=tolees-21)

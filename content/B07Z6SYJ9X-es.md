@@ -28,10 +28,10 @@ Tienes [Vilber  Alfombra Vinilo  KOLLAR 03  155 x 230 cm](https://www.amazon.es/
 
 🔎:
 
-- Fácil y rápida instalación; desenrollar y colocar en suelo firme.
-- Composición: 15% poliéster 85% pvc, peso: 1.000 gramos/m2
 - Indicado para revestimientos domésticos y decorativos de uso interior o espacio exterior cubierto.no recomendado para zonas de alto tránsito; resistente al fuego m2
-- Colección kollar: este dibujo tiene 5 colores y 10 medidas; total, 50 opciones para elegir
 - Colores solidos y resistentes; muy buena estabilidad dimensional; muy higiénicas
+- Fácil y rápida instalación; desenrollar y colocar en suelo firme.
+- Colección kollar: este dibujo tiene 5 colores y 10 medidas; total, 50 opciones para elegir
+- Composición: 15% poliéster 85% pvc, peso: 1.000 gramos/m2
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z6SYJ9X/?tag=tolees-21)

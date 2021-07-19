@@ -28,10 +28,10 @@ Tienes [Desigual Fal Leaves Falda  Negro  M para Mujer](https://www.amazon.es/dp
 
 ℹ️:
 
+- Patrón tropical
 - Cintura elástica
 - Corte estándar
 - Diseño moderno
-- Patrón tropical
 - Falda tropical acampanada
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN5CCTB/?tag=tolees-21)

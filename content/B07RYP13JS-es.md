@@ -28,10 +28,10 @@ En este momento está [Zanussi ZGO68330BA Placa de gas  Gas on Glass  3 fuegos  
 
 🔎:
 
+- SpeedBurner, cocina más rápido: calientan directamente la base de los utensilios, para calentar hasta un 20% más rápido y ahorrar energía
+- Mandos frontales con un ajuste perfecto de la llama
 - Placa de gas de parrillas de hierro fundido con Autoencendido electrónico y Termopar de seguridad
 - Encimera Gas on Glass con 3 quemadores (2 + 1 Quemador Wok). Para una ráfaga de calor adicional, tienes el potente Quemador Wok
 - Dimensiones: 590 x 520. Tamaño: 60cm
-- SpeedBurner, cocina más rápido: calientan directamente la base de los utensilios, para calentar hasta un 20% más rápido y ahorrar energía
-- Mandos frontales con un ajuste perfecto de la llama
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RYP13JS/?tag=tolees-21)
