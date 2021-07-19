@@ -28,10 +28,10 @@ En este momento está [Manfrotto Befree Advanced - Tripode con Cierre de Palanca
 
 🔎:
 
-- VERSÁTIL: permite cambiar la perspectiva y la altura del trípode sin perder el enfoque de la cámara. Los ángulos de las patas son independientes para tener plena libertad creativa
 - SEGURO: gracias a la placa y al sistema de bloqueo QPL Travel, se garantiza la máxima estabilidad en todas las circunstancias, aumentando la precisión y la nitidez de los disparos
-- COMPLETO: la cabeza de bola de aluminio 494 permite posicionar la cámara de forma rápida y precisa, a través de los 3 controles independientes de sujeción, fricción y desplazamiento
+- VERSÁTIL: permite cambiar la perspectiva y la altura del trípode sin perder el enfoque de la cámara. Los ángulos de las patas son independientes para tener plena libertad creativa
 - COMBINABLE: la placa suministrada es compatible con los accesorios de cabezal estándar más comunes - Manfrotto y Arca-Swiss - con una fácil y rápida configuración
+- COMPLETO: la cabeza de bola de aluminio 494 permite posicionar la cámara de forma rápida y precisa, a través de los 3 controles independientes de sujeción, fricción y desplazamiento
 - PORTÁTIL: fácil de usar y de configurar, este trípode de viaje se adapta a todas las situaciones de viaje, además su cuerpo de aluminio lo hace ligero de llevar, pero fuerte y resistente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079CRJC8C/?tag=tolees-21)

@@ -29,8 +29,8 @@ Está [Skechers GHENTER DAGSBY  Zapatillas Mujer  Negro  37 EU](https://www.amaz
 ℹ️:
 
 - Ajuste relajado.
-- EN ISO 20347:2012 - OB SRC
 - Patrón antideslizante
+- EN ISO 20347:2012 - OB SRC
 - Plantilla de espuma viscoelástica.
 - Slip On Bungee W/s antideslizante
 
