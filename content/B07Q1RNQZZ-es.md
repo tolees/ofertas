@@ -28,10 +28,10 @@ Está [Marqués de Carrión - Estuche de 3 Botellas de Vino con D.O. Rioja - Res
 
 ℹ️:
 
-- Selección de vinos tintos con Denominación de Origen Rioja
-- Elaborados a partir de las mejores variedades de uvas, siguiendo procesos de vinificación controlados
 - Surtido completo de vinos tintos con variedades de tonos, aromas y sabores
-- Adecuado para regalar o disfrutar en casa; experimenta sabores y aromas combinando la cata con diferentes platos
 - Incluye los vinos Marqués de Carrión Reserva, Marqués de Carrión Crianza y Marqués de Carrión Vendimia Seleccionada
+- Adecuado para regalar o disfrutar en casa; experimenta sabores y aromas combinando la cata con diferentes platos
+- Elaborados a partir de las mejores variedades de uvas, siguiendo procesos de vinificación controlados
+- Selección de vinos tintos con Denominación de Origen Rioja
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Q1RNQZZ/?tag=tolees-21)

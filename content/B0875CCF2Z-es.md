@@ -29,9 +29,9 @@ Ahora mismo tienes [Under Armour UA Ozsee Sackpack  Mochila. Unisex Adulto  Midn
 🔎:
 
 - Dimensiones: 45,5 x 35,5 x 5 cm (alto x largo x ancho)
-- Ref. : 1240539
-- El material duradero soporta todas las cargas de la vida cotidiana
 - Gracias al clip en el pecho, los tirantes permanecen seguros en su lugar
+- Ref. : 1240539
 - Cordón de tracción suave
+- El material duradero soporta todas las cargas de la vida cotidiana
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0875CCF2Z/?tag=tolees-21)
