@@ -28,10 +28,10 @@ Ahora mismo tienes [Skechers Reloj Digital para Hombre de Cuarzo con Correa en N
 
 🔎:
 
+- Ancho de banda: 28 mm; circunferencia interior: 200 +/-5 mm
 - Se envía en una caja de regalo Skechers
 - Sumergible a 5 atm
-- Material de la correa: nailon
 - Grosor de la caja: 17 mm. Tamaño de la caja: 55 mm
-- Ancho de banda: 28 mm; circunferencia interior: 200 +/-5 mm
+- Material de la correa: nailon
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WJY9J87/?tag=tolees-21)

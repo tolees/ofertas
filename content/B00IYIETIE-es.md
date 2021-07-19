@@ -28,10 +28,10 @@ Tienes [Braun Hogar - Braun CJ3000 WH - Exprimidor Eléctrico de Naranjas  20 W 
 
 ℹ️:
 
+- BOL CALIBRADO DE 350 ml: muy práctico para la dosificación precisa para cualquier receta como cócteles de frutas, postres, etcétera
+- ROTACIÓN EN 2 SENTIDOS: rotación alternada del cono exprimidor disminuyendo la tensión y aumentando la cantidad de zumo extraído
+- START/STOP AUTOMÁTICO: sin botones, fácil manejo simplemente presionando hacia abajo la fruta para accionar el exprimidor y dejar de presionar para parar
 - APTO PARA LAVAVAJILLAS: todas las partes del exprimidor son aptas para lavar en lavavajillas o a mano con agua y jabón
 - CANTIDAD DE PULPA AJUSTABLE: selecciona cuanta pulpa quieres en tu zumo, ajusta fácilmente la cantidad de pulpa que quieres girando la jarra a uno de los 5 niveles de pulpa
-- ROTACIÓN EN 2 SENTIDOS: rotación alternada del cono exprimidor disminuyendo la tensión y aumentando la cantidad de zumo extraído
-- BOL CALIBRADO DE 350 ml: muy práctico para la dosificación precisa para cualquier receta como cócteles de frutas, postres, etcétera
-- START/STOP AUTOMÁTICO: sin botones, fácil manejo simplemente presionando hacia abajo la fruta para accionar el exprimidor y dejar de presionar para parar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IYIETIE/?tag=tolees-21)

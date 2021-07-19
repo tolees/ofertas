@@ -28,8 +28,8 @@ En este momento está [Magnat Monitor Supreme 802 - Altavoces de suelo  Potencia
 
 🔎:
 
-- Potencia (RMS/Max.): 170-340 W
 - Color negro
+- Potencia (RMS/Max.): 170-340 W
 - Tweeter: 25 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00QMF7Z78/?tag=tolees-21)
