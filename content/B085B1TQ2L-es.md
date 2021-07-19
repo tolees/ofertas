@@ -28,13 +28,13 @@ Ahora mismo tienes [So Slime- SLIMEGLAM Studio  Canal Toys SSC127 ](https://www.
 
 🔎:
 
-- DIVERSIÓN Y DIVERSIÓN: Una actividad creativa apta para niños a partir de 6 años. Simplemente mezcle agua con el polvo de slime y sus colorantes para hacer slimes excelentes en el mundo de la comida rápida. Esta actividad hará las delicias de niños y niñas y les ayudará a desarrollar su creatividad.
-- DIMENSIONES: Tamaño de la caja L34 x D8 x H31 cm Tamaño del estudio: L25.5 x H 18cm
-- TALLER REAL DE SLIME: Diseñado para hacer slimes de forma divertida. ¡Crea tu propia fragancia y tu slime de un color único!
 - CREA NUEVOS COLORES: Mezcla los tintes y diviértete creando nuevos colores.
+- DIVERSIÓN Y DIVERSIÓN: Una actividad creativa apta para niños a partir de 6 años. Simplemente mezcle agua con el polvo de slime y sus colorantes para hacer slimes excelentes en el mundo de la comida rápida. Esta actividad hará las delicias de niños y niñas y les ayudará a desarrollar su creatividad.
+- CONTIENE: 1 Studio, 4 mini shakers, 2 sobres de slime en polvo, 3 tubos de tintes aromáticos, 6 sobres de decoraciones, 3 pajitas, 2 herramientas, 1 hoja de pegatinas, 1 manual
+- TALLER REAL DE SLIME: Diseñado para hacer slimes de forma divertida. ¡Crea tu propia fragancia y tu slime de un color único!
+- KIT COMPLETO DE SLIME: un estudio innovador para hacer tus propios slimes coloridos y perfumados con temas de comida rápida.
 - DIFERENTES COLORANTES AROMAS: Aroma de batido amarillo, aroma de cola azul, aroma de helado rosa.
 - SIN PEGAMENTO NI DESORDEN: Slime de origen natural elaborado a partir de algas, fórmula no tóxica que cumple con las normas de juguetes. El estudio tiene una cavidad para almacenar todos los accesorios y componentes.
-- CONTIENE: 1 Studio, 4 mini shakers, 2 sobres de slime en polvo, 3 tubos de tintes aromáticos, 6 sobres de decoraciones, 3 pajitas, 2 herramientas, 1 hoja de pegatinas, 1 manual
-- KIT COMPLETO DE SLIME: un estudio innovador para hacer tus propios slimes coloridos y perfumados con temas de comida rápida.
+- DIMENSIONES: Tamaño de la caja L34 x D8 x H31 cm Tamaño del estudio: L25.5 x H 18cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085B1TQ2L/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Superga 2750-cotu Classic  Zapatillas de Estar por casa Hombre  Verde  M
 
 ℹ️:
 
+- Tipo de tacón: plana
+- Forro: Sin forro
 - Cierre: cordones.
 - Material exterior: lona
 - Material de la suela: goma
 - Tamaño Tipo: Tamaño estándar
-- Tipo de tacón: plana
-- Forro: Sin forro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DV5AEIE/?tag=tolees-21)

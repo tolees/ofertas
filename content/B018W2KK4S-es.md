@@ -28,9 +28,9 @@ Tienes [Pikolin Home - Protector de colchón de rizo impermeable  transpirable y
 
 🔎:
 
-- Impermeable - Adecuado para personas que deseen un nivel superior de calidad y transpirabilidad
 - No cubre la parte inferior del colchón
 - Protege el colchón conservándolo en mejores condiciones durante más tiempo
 - Laterales con elástico para un ajuste adecuado a colchones hasta 32 cm de altura
+- Impermeable - Adecuado para personas que deseen un nivel superior de calidad y transpirabilidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B018W2KK4S/?tag=tolees-21)

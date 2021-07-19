@@ -28,7 +28,7 @@ Ahora mismo tienes [New Balance ML574V2  Zapatillas Hombre  Grey  37.5 EU](https
 
 🔎:
 
-- Material exterior: Cuero
 - Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06Y2XW87H/?tag=tolees-21)
