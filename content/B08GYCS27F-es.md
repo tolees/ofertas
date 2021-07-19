@@ -30,8 +30,8 @@ Ahora mismo tienes [Hurley M Ace Trucker](https://www.amazon.es/dp/B08GYCS27F/?t
 
 - Bolsillos laterales con cierre a presión ocultos.
 - Caída por detrás. Puños de tipo canalé.
-- Solapa delantera central de Snap.
 - 100 % Poliéster.
 - Cuerpo de tejido acolchado con relleno de 80 gsm. Brazos y capucha de vellón 300 gsm.
+- Solapa delantera central de Snap.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GYCS27F/?tag=tolees-21)

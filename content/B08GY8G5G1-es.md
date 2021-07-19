@@ -28,10 +28,10 @@ Está [Hurley M Range Sherpa Fleece  dk Grey Heather  XL  CU0834 ](https://www.a
 
 ℹ️:
 
-- 80 % algodón/20 % poliéster/300 gsm
 - Costura horizontal en parte frontal y trasera
-- Aplique de fieltro en zona central delantera
+- 80 % algodón/20 % poliéster/300 gsm
 - Instrucciones de cuidado: Lavar a máquina
+- Aplique de fieltro en zona central delantera
 - Tipo de fábrica: 80% Algodón, 20% Poliéster
 - Bolsillos delanteros. ribete en cuello, puños y bajo
 
