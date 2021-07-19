@@ -28,7 +28,7 @@ Está [Skechers Bobs Squad-Glam League  Zapatillas Mujer  Multicolor  TPE Black 
 
 ℹ️:
 
-- Bobs Sport
 - Plantilla de espuma viscoelástica.
+- Bobs Sport
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077S2XQ1C/?tag=tolees-21)
