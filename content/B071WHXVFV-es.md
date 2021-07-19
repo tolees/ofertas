@@ -28,10 +28,10 @@ Está [Gerialife Colchón Geriátrico Hospitalario Articulado | 5 cm de Viscoel�
 
 ℹ️:
 
-- Ayuda a prevenir la formación de escaras en la piel
-- Diseñado para camas articuladas
-- Dispone de 5 cm. de Viscoelástica con efecto memoria para aliviar la presión
 - Colchón geriátrico con funda sanitaria especial para personas mayores y enfermos
+- Dispone de 5 cm. de Viscoelástica con efecto memoria para aliviar la presión
 - Enviamos a Portugal y Baleares
+- Diseñado para camas articuladas
+- Ayuda a prevenir la formación de escaras en la piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071WHXVFV/?tag=tolees-21)

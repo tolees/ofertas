@@ -28,10 +28,10 @@ En este momento está [Vans Classic Slip-on Platform  Zapatillas sin Cordones  N
 
 🔎:
 
-- Classic Slip-On Platform
-- Unisex
-- V0018EBWW
-- Zapatillas
 - vans
+- Classic Slip-On Platform
+- V0018EBWW
+- Unisex
+- Zapatillas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MT1FI3U/?tag=tolees-21)
