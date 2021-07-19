@@ -28,9 +28,9 @@ En este momento está [Essie Laca de Uñas Clásica  Acabado Brillante e Intenso
 
 🔎:
 
-- Ofrece un color denso y brillante
-- Mejora la resistencia de las uñas contra la rotura mecánica
-- Proporciona un efecto duradero
 - Fortalece y endurece las uñas
+- Proporciona un efecto duradero
+- Mejora la resistencia de las uñas contra la rotura mecánica
+- Ofrece un color denso y brillante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00A3B3JNQ/?tag=tolees-21)
