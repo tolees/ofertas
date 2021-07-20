@@ -30,8 +30,8 @@ Tienes [Iris Ohyama  Paquete de 50 Mascarillas Quirúrgicas 3 Capas BFE 98 %  Ea
 
 - EASY FIT V-DESIGN: 3 pliegues para adaptarse a la forma de la cara: desde la nariz hasta el mentón, las mejillas están perfectamente cubiertas.
 - ELÁSTICO SUAVE Y CÓMODO: su cara y sus oídos no sufren irritación incluso después de un uso prolongado de la máscara.
-- Máscara médica tipo II de un solo uso, EN 14683:2019 aprobado, estándar CE.
 - PINZA DE NARIZ AJUSTABLE: adapte la forma de la máscara a su nariz y, por lo tanto, limite la apariencia de empañamiento al usar anteojos. Respiras perfectamente incluso en climas cálidos.
+- Máscara médica tipo II de un solo uso, EN 14683:2019 aprobado, estándar CE.
 - Juntos, limitemos el número de residuos en las vías públicas. Próxima producción en territorio francés.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DXWTX9Q/?tag=tolees-21)

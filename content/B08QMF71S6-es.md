@@ -28,8 +28,8 @@ Está [Springfield Sudadera Caja Bici Reconsider  Verde  S para Hombre](https://
 
 ℹ️:
 
-- Bici bordada en el pecho.
 - Sudadera regular fit con cuello caja.
+- Bici bordada en el pecho.
 - Colección RECONSIDER.
 - Tejido en algodón orgánico.
 

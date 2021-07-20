@@ -28,8 +28,8 @@ En este momento está [Disney Frozen Set Accesorios con Reloj en Bola 2 Cestas d
 
 🔎:
 
+- Set accesorios con reloj en bola de Frozen 2 (KD-WD20941)
 - Home Frozen
 - Cestas de regalo Muebles pegatinas - Pegatinas Decoración del hogar Unisex Adulto
-- Set accesorios con reloj en bola de Frozen 2 (KD-WD20941)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081D7KDJ3/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [lionto by dibea Árbol rascador árbol para escalar árbol rascador para
 
 ℹ️:
 
-- Barras de sisal de unos 8 cm de diámetro, Sisal resistente para el cuidado de las uñas. Buen acabado en tablero de partícula duradero y tapizado de peluche suave
+- Color: marrón y beige
 - Montaje sencillo, con instrucciónes
+- Barras de sisal de unos 8 cm de diámetro, Sisal resistente para el cuidado de las uñas. Buen acabado en tablero de partícula duradero y tapizado de peluche suave
 - XXL Rascador multifunctional con 2 casetas (46 x 36 x 25 cm), 1 tubo (23 cm de diámetro), 2 capazos para tumbarse (30 x 35 cm), 2 escalerillas y 2 pelotas de juego
 - El Gigante - Altura: 240-260 cm, Base: 60 x 45 cm, Dimensiones con complementos: 120 x 50 x 240-260 cm (altura ajustable mediante tensor de techo)
-- Color: marrón y beige
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GXLTLJQ/?tag=tolees-21)
