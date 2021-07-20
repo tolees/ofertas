@@ -28,10 +28,10 @@ Ahora mismo tienes [Chicco My Sweet Dou Dou Sonajero Conejito - Sonajero Bebés 
 
 🔎:
 
+- Tejido suave
+- Colores neutrales
+- Fácil de agarrar
 - Lavable a máquina
 - Sonajero con forma de conejito
-- Colores neutrales
-- Tejido suave
-- Fácil de agarrar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079ZM7QFD/?tag=tolees-21)

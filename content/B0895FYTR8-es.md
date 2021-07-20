@@ -28,9 +28,9 @@ En este momento está [ARENA B Playful Jr Brief  Niños  Black/Black Multi  12-1
 
 🔎:
 
-- Comodísimo bañador slip con protección UV para niño
-- Tejido Arena Max fit: resistente al cloro y al agua salada, protección UV UPF 50+, secado rápido, ajuste perfecto
 - Artículo ideal para nadadores Fitness ocasionales
+- Tejido Arena Max fit: resistente al cloro y al agua salada, protección UV UPF 50+, secado rápido, ajuste perfecto
 - Cordón interior, longitud lateral: 5, 5 cm
+- Comodísimo bañador slip con protección UV para niño
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0895FYTR8/?tag=tolees-21)

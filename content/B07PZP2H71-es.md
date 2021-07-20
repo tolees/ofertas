@@ -28,10 +28,10 @@ Está [Taurus fresko 5b ventilador de techo con luz y mando a distancia  70 w  f
 
 ℹ️:
 
+- 70 W potencia del ventilador; 150W potencia del ventilador + bombilla
 - Temporizador programable hasta 8 horas para un funcionamiento solo durante el tiempo deseado
 - El diámetro que forman sus 5 aspas llega a 120 cm permitiendo de esta forma una buena circulación de aire en interiores de hasta 20 m2
-- Ventilador de techo 2 en 1 que circula el aire a la vez que ilumina la habitación sin interruptores; todo con solo un práctico mando a distancia (compatible con la instalación de un interruptor de pared para la luz
 - 3 velocidades regulables con el mando a distancia para adaptarse a las necesidades de ventilación
-- 70 W potencia del ventilador; 150W potencia del ventilador + bombilla
+- Ventilador de techo 2 en 1 que circula el aire a la vez que ilumina la habitación sin interruptores; todo con solo un práctico mando a distancia (compatible con la instalación de un interruptor de pared para la luz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PZP2H71/?tag=tolees-21)

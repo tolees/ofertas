@@ -28,10 +28,10 @@ Tienes [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 18685/1
 
 🔎:
 
-- - Material de la Carcasa: Acero inoxidable
-- - Cristal: Cristal Mineral
-- - Color de la caja: Gris
-- - Forma de la Carcasa: Redondo
 - Carcasa
+- - Material de la Carcasa: Acero inoxidable
+- - Color de la caja: Gris
+- - Cristal: Cristal Mineral
+- - Forma de la Carcasa: Redondo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RYNWQ9X/?tag=tolees-21)

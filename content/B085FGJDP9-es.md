@@ -28,10 +28,10 @@ Tienes [Samsung EVO Select 512 GB microSD 100 MB/s  velocidad Full HD & 4K UHD t
 
 🔎:
 
-- Alta compatibilidad: gracias al adaptador SD incluido es compatible con una amplia gama de dispositivos.
-- Alta seguridad para sus datos gracias a su protección 4: resistente al agua, a la temperatura, a prueba de rayos X y a los imanes.
 - Gran capacidad: 512 GB de memoria para hasta 24 horas de grabación de vídeo 4K UHD o 150. 300 fotos.
-- Tarjeta de memoria microSD optimizada a velocidad perfecta para su uso en smartphones, tabletas, cámaras de 360°, cámaras de acción Full HD y drones
 - Alta velocidad: adecuado para grabación 4K UHD y Super Slow Motion con velocidad de transferencia de hasta 100 MB/s (UHS-I U3).
+- Tarjeta de memoria microSD optimizada a velocidad perfecta para su uso en smartphones, tabletas, cámaras de 360°, cámaras de acción Full HD y drones
+- Alta seguridad para sus datos gracias a su protección 4: resistente al agua, a la temperatura, a prueba de rayos X y a los imanes.
+- Alta compatibilidad: gracias al adaptador SD incluido es compatible con una amplia gama de dispositivos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085FGJDP9/?tag=tolees-21)

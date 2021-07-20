@@ -28,10 +28,10 @@ Ahora mismo tienes [Delsey - CAUMARTIN Plus: Maleta DE Cabina 4 Ruedas Dobles 55
 
 🔎:
 
-- La colección CAUMARTIN PLUS combina ligereza y seguridad. Está fabricada íntegramente en policarbonato, lo que la convierte en una colección ultraligera y resistente. Esta maleta está equipada con una cerradura de combinación TSA y el sistema de cierre patentado por DELSEY: la cremallera SECURITECH 2. Este cierre 3 veces más resistente a la intrusión que un cierre estándar le ofrece una seguridad óptima para sus pertenencias. Dispone de 4 ruedas dobles silenciosas, robustas y multidireccionales que le facilitarán todos sus desplazamientos.
 - PESO: 2,5KG
-- MEDIDAS: 55 X 35 X 25 CM
 - GARANTÍA DE 5 AÑOS
 - CAPACIDAD: 41L
+- La colección CAUMARTIN PLUS combina ligereza y seguridad. Está fabricada íntegramente en policarbonato, lo que la convierte en una colección ultraligera y resistente. Esta maleta está equipada con una cerradura de combinación TSA y el sistema de cierre patentado por DELSEY: la cremallera SECURITECH 2. Este cierre 3 veces más resistente a la intrusión que un cierre estándar le ofrece una seguridad óptima para sus pertenencias. Dispone de 4 ruedas dobles silenciosas, robustas y multidireccionales que le facilitarán todos sus desplazamientos.
+- MEDIDAS: 55 X 35 X 25 CM
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BHCVKWX/?tag=tolees-21)

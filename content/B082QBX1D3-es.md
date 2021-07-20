@@ -28,9 +28,9 @@ En este momento está [adidas ULT Sports Bra  Mujer  White  30B](https://www.ama
 
 🔎:
 
-- Con tirantes traseras en X acolchadas y ajustables
 - Tiene cremallera delantera central con cuello redondo
 - Sujetador deportivo para mujer
+- Con tirantes traseras en X acolchadas y ajustables
 - Cuenta con el logo de la marca
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082QBX1D3/?tag=tolees-21)
