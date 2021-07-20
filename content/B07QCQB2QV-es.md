@@ -28,9 +28,9 @@ Ahora mismo tienes [Funko - Pop! Games: Crash Bandicoot - Tiny Tiger Figura De V
 
 🔎:
 
-- Figura de colección de la marca Funko
+- El producto se envía en una caja ilustrada con ventana
 - El artículo es adecuado para todos los fanáticos de Crash Bandicoot
 - Recomendado para niños a partir de 3 años
-- El producto se envía en una caja ilustrada con ventana
+- Figura de colección de la marca Funko
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QCQB2QV/?tag=tolees-21)

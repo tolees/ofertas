@@ -28,10 +28,10 @@ En este momento está [Pikolin Home - Funda de almohada de Tencel® hípertransp
 
 🔎:
 
-- Gracias a su tejido de Tencel es una funda hípertranspirable que además absorbe el exceso de humedad y tiene una gran suavidad
+- Es una funda de almohada con certificado Oekotex (20120k0516-AITEX), que garantiza su fabricación sin sustancias nocivas
 - Además, su cremallera garantiza un perfecto cierre
 - Funda de almohada de Tencel confeccionada con La membrana impermeable SmartSeal para resguardar a la almohada de cualquier líquido
-- Es una funda de almohada con certificado Oekotex (20120k0516-AITEX), que garantiza su fabricación sin sustancias nocivas
+- Gracias a su tejido de Tencel es una funda hípertranspirable que además absorbe el exceso de humedad y tiene una gran suavidad
 - Tiene un fácil mantenimiento, ya que puede lavarse en lavadora a una temperatura máxima de 40° para una limpieza total
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00A3RYYSY/?tag=tolees-21)
