@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Sambarose  Zapatillas Clasicas Mu al 50.05 % de descuento'
-date: 2021-07-06 07:39:39
+date: 2021-07-20 01:15:42
 image: 'https://m.media-amazon.com/images/I/41+QvOfH9uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07D9SL72T/?tag=tolees-21'
 descuento: '50.05'
-average: '67.834'
+average: '64.8533333333333'
 ---
 
 Ahora mismo tienes [Adidas Sambarose  Zapatillas Clasicas Mujer  Blanco  Cloud White/Core Black/Gum5   38 EU](https://www.amazon.es/dp/B07D9SL72T/?tag=tolees-21) a 49.95 EUR (original: 100.0 EUR) (50.05 %  de descuento) en el siguiente enlace!
