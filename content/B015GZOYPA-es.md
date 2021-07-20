@@ -28,13 +28,13 @@ Tienes [Timberland Bradstreet Leather Sensorflex Chukka Stiefel  Botas Hombre  M
 
 ℹ️:
 
-- Material exterior: Cuero
-- Anchura del zapato: Normal
 - Revestimiento: Tela
+- Material exterior: Cuero
 - Cierre: Cordones
-- Tipo de tacón: Plano
-- Altura del tacón: 2 centímetros
 - Composición: Cuero
+- Altura del tacón: 2 centímetros
+- Anchura del zapato: Normal
+- Tipo de tacón: Plano
 - Material de la suela: Caucho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B015GZOYPA/?tag=tolees-21)

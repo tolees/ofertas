@@ -28,10 +28,10 @@ Tienes [Dockers Smart Supreme Flex Alpha Skinny-WONDERKNIT Pantalones  Azul  C30
 
 🔎:
 
+- Color: beige
+- Stagione: Autunno/Inverno
+- Modelo: 59373
 - Marca: DOCKERS
 - Articolo: Pantalone
-- Color: beige
-- Modelo: 59373
-- Stagione: Autunno/Inverno
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HM89LFL/?tag=tolees-21)
