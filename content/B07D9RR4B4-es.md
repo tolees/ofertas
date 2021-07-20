@@ -28,8 +28,8 @@ Tienes [Adidas Sambarose  Zapatillas Clasicas Mujer  Blanco  Cloud White/Core Bl
 
 🔎:
 
+- malla y parte superior de cuero sintético
 - Suela de goma
 - Cordones de zapatos
-- malla y parte superior de cuero sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D9RR4B4/?tag=tolees-21)
