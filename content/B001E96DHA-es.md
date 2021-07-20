@@ -28,10 +28,10 @@ Está [Invicta Pro Diver 8926 Reloj para Hombre Automático  40mm  Negro/Platead
 
 ℹ️:
 
+- Esta modelo funciona con un movimiento de Automático preciso
 - 2 años de garantía Invicta
-- Resistencia a la presión de aqua de 20 bares
 - El Invicta 8926 tiene una caja de acero inoxidable de 40 millimetros con una esfera negro
 - Este modelo es parte de la colección Invicta Pro Diver
-- Esta modelo funciona con un movimiento de Automático preciso
+- Resistencia a la presión de aqua de 20 bares
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001E96DHA/?tag=tolees-21)

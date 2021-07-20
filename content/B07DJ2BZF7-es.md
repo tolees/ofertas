@@ -28,11 +28,11 @@ Ahora mismo tienes [New Balance 997H Core  Zapatillas Hombre  Team Away Grey  36
 
 🔎:
 
-- Material de la suela: Sintético
 - Material exterior: Cuero
-- Composición: Empeine de malla/ante
-- Revestimiento: Tela
-- Cierre: Cordones
 - Tipo de tacón: Plano
+- Composición: Empeine de malla/ante
+- Cierre: Cordones
+- Material de la suela: Sintético
+- Revestimiento: Tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJ2BZF7/?tag=tolees-21)

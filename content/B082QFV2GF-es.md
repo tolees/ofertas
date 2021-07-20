@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Duramo SL  Sneaker Hombre  Core B al 43.65 % de descuento'
-date: 2021-07-03 15:45:15
+date: 2021-07-20 08:20:55
 image: 'https://m.media-amazon.com/images/I/31nN64xe5KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B082QFV2GF/?tag=tolees-21'
 descuento: '43.65'
-average: '32.3509999999999'
+average: '32.2861904761904'
 ---
 
 Ahora mismo tienes [adidas Duramo SL  Sneaker Hombre  Core Black/Footwear White/Grey  42 EU](https://www.amazon.es/dp/B082QFV2GF/?tag=tolees-21) a 30.99 EUR (original: 55.0 EUR) (43.65 %  de descuento) en el siguiente enlace!

@@ -28,10 +28,10 @@ En este momento está [Iris Ohyama - Woozoo by Ohyama  Ventilador de mesa / escr
 
 🔎:
 
+- Temporizador con parada automática después de 1 h, 2 h o 4 h de aire soplado continuamente; control remoto incluido para realizar ajustes
+- Ventilador Woozoo de diseño y ultra silencioso, con 5 potencía s ajustables y una característica "refrescante brisa"
 - Así, el woozoo puede cubrir hasta 30 m² de área, ideal para refrescar todas las habitaciones de su casa
 - Diseño tridimensional patentado con un flujo de aire en espiral de hasta 25 m
 - Oscilación multidireccional: de izquierda a derecha y / o hacia arriba y hacia abajo fomentar una mejor distribución del aire en el ambiente
-- Temporizador con parada automática después de 1 h, 2 h o 4 h de aire soplado continuamente; control remoto incluido para realizar ajustes
-- Ventilador Woozoo de diseño y ultra silencioso, con 5 potencía s ajustables y una característica "refrescante brisa"
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NC3GCLJ/?tag=tolees-21)
