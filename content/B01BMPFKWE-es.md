@@ -28,10 +28,10 @@ Está [Gre 76008 - Antialgas líquido  acción algicida  5 l](https://www.amazon
 
 ℹ️:
 
-- Dosis de mantenimiento: añadir 0,5 l por cada 100 m3 de agua una vez por semana
-- El recipiente contiene 5 l
-- Indicado para la prevención de la aparición de algas
-- Tratamiento antialgas para el mantenimiento del agua de la piscina
 - Dosis inicial: añadir 2 l por cada 100 m3 de agua
+- Indicado para la prevención de la aparición de algas
+- Dosis de mantenimiento: añadir 0,5 l por cada 100 m3 de agua una vez por semana
+- Tratamiento antialgas para el mantenimiento del agua de la piscina
+- El recipiente contiene 5 l
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BMPFKWE/?tag=tolees-21)

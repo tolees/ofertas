@@ -28,9 +28,9 @@ Ahora mismo tienes [Fisher-Price-GKC50 Bebe Set Regalo  Mattel 713096 ](https://
 
 🔎:
 
-- Babero turístico lavable a máquina para comer o para disfrutar de una sesión fotográfica en la playa
 - Botella arrugada de protección solar con eslabones para llevar y mordedor en forma de pasaporte sin BPA
 - La cámara de imitación presenta unos abalorios tipo sonajero, una lente que hace clic y un espejo
+- Babero turístico lavable a máquina para comer o para disfrutar de una sesión fotográfica en la playa
 - Para bebés a partir de 3 meses y amantes de los viajes
 - Conjunto de cuatro juguetes para bebés con temática de viajes
 

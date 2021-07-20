@@ -29,7 +29,7 @@ Está [Nike Jr. Mercurial Superfly 7 Academy IC  Zapatos  Blue Hero/White-Obsidi
 ℹ️:
 
 - Para tracción en calles, canchas y superficies de pasillos
-- El cómodo forro y el cuello del zapato Dynamic Fit rodean el pie como una segunda piel.
 - Mediasuela de espuma de 3/4 de largo y plantilla liviana para una mayor amortiguación
+- El cómodo forro y el cuello del zapato Dynamic Fit rodean el pie como una segunda piel.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Q5TTH1T/?tag=tolees-21)

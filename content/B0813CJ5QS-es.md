@@ -29,7 +29,7 @@ Tienes [Marca Amazon - TRUTH & FABLE Vestido Mujer Estampado  Multicolor  Planti
 ℹ️:
 
 - De corte largo a ras del suelo para un efecto espectacular
-- Prenda confeccionada en fluido crepé que le confiere un acabado ligeramente texturizado
 - Una marca de Amazon
+- Prenda confeccionada en fluido crepé que le confiere un acabado ligeramente texturizado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0813CJ5QS/?tag=tolees-21)
