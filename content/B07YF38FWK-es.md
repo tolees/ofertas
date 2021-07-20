@@ -28,9 +28,9 @@ En este momento está [Microsoft Surface Pro - Ratón Rojo](https://www.amazon.e
 
 🔎:
 
-- Se aplana para cerrar y cabe fácilmente en un bolsillo o bolso
 - Ultrafino y ligero
 - Panel de desplazamiento completo para movimientos verticales y horizontales
 - Se conecta de forma inalámbrica a través de Bluetooth 4.0 o superior
+- Se aplana para cerrar y cabe fácilmente en un bolsillo o bolso
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YF38FWK/?tag=tolees-21)
