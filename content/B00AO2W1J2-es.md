@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gembird PC-186-VDE-3M - Cable de aliment al 66.81 % de descuento'
-date: 2021-07-15 19:56:10
+date: 2021-07-20 10:25:52
 image: 'https://m.media-amazon.com/images/I/311TlpaZ5lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [Gembird PC-186-VDE-3M - Cable de alimentación VDE  3m  Colo
 
 🔎:
 
-- Enchufe de salida: C13
 - 3 metros de longitud
 - Enchufe de entrada: tipo Schuko con el agujero de contacto con el suelo y 4.9 mm pasadores
+- Enchufe de salida: C13
 - Cables: área del perfil 1 sq.mm, calificación 10 A
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00AO2W1J2/?tag=tolees-21)

@@ -29,8 +29,8 @@ Tienes [Arcos Serie Riviera Blanc  Cuchillo Cocinero  Hoja de Acero Inoxidable F
 ℹ️:
 
 - Medida de la hoja: 200 mm
-- Hoja: Acero Inoxidable Forjado NITRUM
 - Uso: Cuchillos Cocina
+- Hoja: Acero Inoxidable Forjado NITRUM
 - Presentación: Caja Regalo
 - Mango: Polioximetileno (POM)
 

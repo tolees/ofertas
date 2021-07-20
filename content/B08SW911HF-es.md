@@ -28,10 +28,10 @@ Está [adidas Power V Mochila  Adultos Unisex  AZMATR/ALUMIN  Multicolor   Talla
 
 ℹ️:
 
-- Mochila resistente para usar a diario
-- Capacidad: 25,75 litros.
 - Bolsillo frontal con cremallera
+- Capacidad: 25,75 litros.
 - Tejido técnico 100% poliéster reciclado
+- Mochila resistente para usar a diario
 - Bolsillos sin cierre y correas de compresión en los laterales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08SW911HF/?tag=tolees-21)

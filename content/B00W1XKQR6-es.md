@@ -28,9 +28,9 @@ Está [Arcos Universal Cuchillo  Acero Inoxidable  Negro  175 mm](https://www.am
 
 ℹ️:
 
-- Cachas: Sus cachas de Polioximetileno (POM), lo hacen resistente a productos químicos y temperaturas extremas
-- Hoja de acero inoxidable NITRUM, una fórmula de ARCOS de acero al nitrógeno que proporciona dureza, poder de corte y durabilidad del filo
 - Tamaño Hoja: 175 mm // Fabricado en España
+- Hoja de acero inoxidable NITRUM, una fórmula de ARCOS de acero al nitrógeno que proporciona dureza, poder de corte y durabilidad del filo
+- Cachas: Sus cachas de Polioximetileno (POM), lo hacen resistente a productos químicos y temperaturas extremas
 - Mango: Predominio de las líneas rectas, está pensado para el uso diario sin renunciar al diseño
 - Presentación: 1 Cuchillo Usuba en un estuche, el Usuba es una variedad de cuchillo japonés especial para cortar vegetales
 

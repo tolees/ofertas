@@ -28,10 +28,10 @@ Tienes [GARDIUN KZT1006 - Caseta de Perro Dakota Resina 87 x 72 x 75 cm Beige/Ro
 
 🔎:
 
+- Rejilla lateral permite que el aire circule correctamente de manera que su mascota pueda estar cómoda; ventana lateral para una mayor ventilación y observar a su mascota sin molestar
 - El espacio para que su mascota se sienta segura; protege a tu mascota de las inclemencias del tiempo
-- Su suelo elevado permite un mayor aislamiento del suelo
 - Para para perros de raza pequeña
 - Estructura resistente a los golpes y robusta
-- Rejilla lateral permite que el aire circule correctamente de manera que su mascota pueda estar cómoda; ventana lateral para una mayor ventilación y observar a su mascota sin molestar
+- Su suelo elevado permite un mayor aislamiento del suelo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KB7T9KT/?tag=tolees-21)

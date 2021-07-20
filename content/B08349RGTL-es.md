@@ -28,8 +28,8 @@ Tienes [adidas Duramo SL  Sneaker Hombre  Core Black/Footwear White/Grey  41 1/3
 
 🔎:
 
-- Corte regular
 - Malla superior
+- Corte regular
 - Cordones de zapatos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08349RGTL/?tag=tolees-21)

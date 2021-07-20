@@ -28,10 +28,10 @@ Tienes [Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxi
 
 🔎:
 
-- - Cristal: Cristal Mineral
-- - Color de la caja: Negro
 - - Forma de la Carcasa: Redondo
 - Carcasa
+- - Cristal: Cristal Mineral
+- - Color de la caja: Negro
 - - Material de la Carcasa: Acero inoxidable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VFQT854/?tag=tolees-21)
