@@ -29,7 +29,7 @@ En este momento está [Semillas Batlle - Semillas de Césped - Césped Zonas Som
 🔎:
 
 - Composición: 30% Festuca Ovina; 30% Festuca Rubra Fallax; 20% Festuca Arundinácea; 10% Poa Trivialis; 10% Raigrás Inglés
-- Césped de densidad media, buen color y tolerante al pisoteo
 - Mezcla de especies cespitosas ideal para aquellas zonas que reciben una baja o nula incidencia de los rayos solares
+- Césped de densidad media, buen color y tolerante al pisoteo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0173F8WNQ/?tag=tolees-21)

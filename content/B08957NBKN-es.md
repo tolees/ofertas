@@ -28,9 +28,9 @@ Ahora mismo tienes [ARENA M Drawing Brief  Hombre  Black/Multi  100](https://www
 
 🔎:
 
-- Tejido arena MaxFit: resistente al cloro y al agua salada, protección UV UPF 50+, secado rápido, ajuste perfecto
-- Comodísimo bañador slip deportivo
 - Cordón interior, longitud lateral: 7 cm
+- Tejido arena MaxFit: resistente al cloro y al agua salada, protección UV UPF 50+, secado rápido, ajuste perfecto
 - Artículo ideal para nadadores fitness ocasionales
+- Comodísimo bañador slip deportivo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08957NBKN/?tag=tolees-21)

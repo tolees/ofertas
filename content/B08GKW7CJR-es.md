@@ -28,7 +28,7 @@ Ahora mismo tienes [Clarks Un Rio Lace  Zapatillas Mujer  Color marrón Pardo  4
 
 🔎:
 
-- Plantilla suave Cushion
 - Tecnología Ortholite.
+- Plantilla suave Cushion
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GKW7CJR/?tag=tolees-21)
