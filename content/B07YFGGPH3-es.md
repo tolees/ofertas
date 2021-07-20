@@ -28,10 +28,10 @@ En este momento está [SanDisk Ultra SDHC Tarjeta de Memoria de hasta 100 MB/s  
 
 🔎:
 
-- Magnífica elección para cámara s de enfoque automático que vayan de compactas a gama media
+- Rápidas velocidades de transferencia de hasta 100.mb/s
 - De 32.gb a 256.gb para almacenar infinidad de fotografías e incluso más vídeos full hd
 - Excepcional rendimiento de grabación de vídeo con una clasificación UHS Speed Class 1 (U1) y Class 10 para vídeos Full HD (1080p)
-- Rápidas velocidades de transferencia de hasta 100.mb/s
+- Magnífica elección para cámara s de enfoque automático que vayan de compactas a gama media
 - Proporcionan rapidez para hacer mejores fotografías y grabar vídeos full hd
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YFGGPH3/?tag=tolees-21)

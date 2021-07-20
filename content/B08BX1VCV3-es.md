@@ -28,10 +28,10 @@ En este momento está [adidas RUNFALCON 2.0  Zapatillas de Running Mujer  Gricin
 
 🔎:
 
-- Cierre de cordones
 - Parte superior de malla acolchada
-- Mediasuela de EVA
 - Refuerzo sin costuras en el talón
+- Cierre de cordones
+- Mediasuela de EVA
 - Diseño transpirable y ligero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BX1VCV3/?tag=tolees-21)

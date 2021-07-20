@@ -28,10 +28,10 @@ En este momento está [adidas Ultraboost 21 W  Zapatillas para Correr Mujer  FTW
 
 🔎:
 
-- Forro textil
-- Ajuste perfecto
 - Parte superior de tejido adidas Primeknit+
+- Forro textil
 - Cierre de cordones
 - Refuerzo del talón para una mayor sujeción
+- Ajuste perfecto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PQJJXLS/?tag=tolees-21)

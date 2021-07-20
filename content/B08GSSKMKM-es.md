@@ -28,10 +28,10 @@ En este momento está [Roxy Cordoba Shoes for Women  Mocasín Mujer  Multi  37 E
 
 🔎:
 
-- __Suela exterior:__ Suela exterior flexible de TPR inyectado, contorno recubierto de yuta y detalles ROXY
 - __Parte superior:__ parte superior de textil
+- __Suela exterior:__ Suela exterior flexible de TPR inyectado, contorno recubierto de yuta y detalles ROXY
 - __Plantilla:__ Plantilla acolchada de espuma de memoria con estampado gráfico y forro terry para mayor comodidad
-- Se ponen fácilmente
 - Punta recubierta de yuta
+- Se ponen fácilmente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GSSKMKM/?tag=tolees-21)
