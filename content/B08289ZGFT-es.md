@@ -28,10 +28,10 @@ Tienes [ARENA W Hina Cradle Back One Piece Bañador Bodylift Mujer Hina Copa B  
 
 🔎:
 
-- Ideal para la natación y las actividades de fitness en el agua
-- Talla francesa (EU)
 - Sostén silicona FLOCK, moldeador con silicona FLOCK, Copa B
 - Tejido sensitive Arena: Protección UV UPF 50+, resistente al cloro, Secado rápido refuerzo
+- Ideal para la natación y las actividades de fitness en el agua
 - Moldeador: la tecnología body li FT proporciona el máximo confort esculpiendo y aportando una sujeción natural al cuerpo
+- Talla francesa (EU)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08289ZGFT/?tag=tolees-21)

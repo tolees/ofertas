@@ -28,8 +28,8 @@ Tienes [Guess Analógico GW0200G1](https://www.amazon.es/dp/B08HKXCS15/?tag=tole
 
 ℹ️:
 
-- Guess Modelo Reloj GW0200G1
 - 8 milimetros calendario Día y fecha correa ajustable
+- Guess Modelo Reloj GW0200G1
 - Analógico para Mujer
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08HKXCS15/?tag=tolees-21)
