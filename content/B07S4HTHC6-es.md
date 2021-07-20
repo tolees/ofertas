@@ -28,10 +28,10 @@ Está [Laneetal Cortina Translúcida Moderno（2 Piezas） Evitar Rayos UV la Lu
 
 ℹ️:
 
-- TAMAñO+++140 x 245 cm 2 piezas Hay 8 ojales redondos de 4 centímetro en cada,Instalación directa,no se requieren accesorios,Además nuestras cortinas están equipadas con una cuerda de atado,que puede usarse como decoración al apretarla
 - FáCIL DE CUIDAR y LIMPIAR+++Se puede lavar a mano o a máquina en agua fría(menos de 30°C)no blanquear. pueden venir en el paquete con algunas arrugas. USAR agua,al lavar o con vapor que son las maneras más rápidas de eliminarlas
 - CARACRÍSTICA GENIAL+++ El clima frío puede mantenerse caliente ,también el caliente puede bloquear el aire caliente del exterior y hacer que la temperatura ambiente sea más fresca
-- POSVENTA de ALTA CALIDAD +++Muy práctico a la vez que funcional. Buena relación calidad-precio ,Si tiene alguna pregunta sobre el producto contáctenos
+- TAMAñO+++140 x 245 cm 2 piezas Hay 8 ojales redondos de 4 centímetro en cada,Instalación directa,no se requieren accesorios,Además nuestras cortinas están equipadas con una cuerda de atado,que puede usarse como decoración al apretarla
 - ALTA MATERIAL+++Estos visillos de cortinas Hecho de 100% poliéster lino voile,pueden filtrar un parte de luz solar y rayos UV y al mismo tiempo proteger la privacidad,También sirve como decoración para su habitación
+- POSVENTA de ALTA CALIDAD +++Muy práctico a la vez que funcional. Buena relación calidad-precio ,Si tiene alguna pregunta sobre el producto contáctenos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07S4HTHC6/?tag=tolees-21)

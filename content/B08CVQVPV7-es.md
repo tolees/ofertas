@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee V Neck tee Camiseta  Azul Marino  S para Mujer](https://
 
 🔎:
 
-- KnITS
 - Corte regular
+- KnITS
 - Visera ajustable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CVQVPV7/?tag=tolees-21)

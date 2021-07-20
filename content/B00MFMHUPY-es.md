@@ -28,10 +28,10 @@ Tienes [Braun Hogar - Braun JB3060BK - Batidora de vaso  800 w  5 velocidades  c
 
 ℹ️:
 
+- 5 velocidades y botón turbo
+- Potente motor de 800 W
+- Sistema de seguridad
 - Accesorios aptos para lavavajillas
 - Vaso de 1.75 l thermoresist altamente resistente a cambios de temperatura
-- Potente motor de 800 W
-- 5 velocidades y botón turbo
-- Sistema de seguridad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00MFMHUPY/?tag=tolees-21)
