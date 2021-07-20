@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlbase Faux Leather Skirt Otw Fald con un 68.73 % de descuento'
-date: 2021-06-24 21:26:03
+date: 2021-07-20 15:05:03
 image: 'https://m.media-amazon.com/images/I/31eFHwbnFUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [Only Onlbase Faux Leather Skirt Otw Falda  Negro  Black B
 
 🔎:
 
-- Falda de piel
 - Minifalda con cremallera
+- Falda de piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07C43DXKQ/?tag=tolees-21)

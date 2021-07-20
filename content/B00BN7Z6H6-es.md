@@ -29,8 +29,8 @@ Está [Bella Aurora Anti-Manchas Crema Clásica Piel Seca Noche  Quitamanchas Fa
 ℹ️:
 
 - Tratamiento Doble Fuerza Crema Aclarante e Iluminador de la piel.
-- Testado bajo control dermatológico.
 - La clásica crema de Bella Aurora con el lema "Para juventud, belleza y lozanía Bella Aurora cada día"
 - Gracias a sus activos ilumina progresivamente y al instante, regenera y se puede aplicar como crema de noche, mascarilla o en partes del cuerpo más secas como codos, rodillas… para nutrir y blanquear la zona.
+- Testado bajo control dermatológico.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BN7Z6H6/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Samsung SAEPTA20EWE - Transformador carga rápida  15 W  2 A
 
 🔎:
 
+- Carga rápida
 - USB Tipo C
 - Longitud del cable: 1.5 m
 - 15w
-- Carga rápida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M4I7FMC/?tag=tolees-21)

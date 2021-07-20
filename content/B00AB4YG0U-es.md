@@ -28,8 +28,8 @@ Tienes [Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero In
 
 ℹ️:
 
-- Reloj de mujer MICHAEL KORS - Caja redonda de acero inoxidable (diám. 39 mm) con acabado pulido brillante - 5 ATM de resistencia a la presión del agua - Bisel de acero inoxidable con acabado pulido brillante en color oro rosa con glitz
 - Brazalete de acero inoxidable con acabado pulido brillante con eslabones dorados y color oro rosa en el centro - Cierre desplegable
+- Reloj de mujer MICHAEL KORS - Caja redonda de acero inoxidable (diám. 39 mm) con acabado pulido brillante - 5 ATM de resistencia a la presión del agua - Bisel de acero inoxidable con acabado pulido brillante en color oro rosa con glitz
 - Esfera plateada con índices en color oro rosa - Movimiento de 3 agujas - Agujas en color oro rosa - Cristal mineral
 - Presentado en estuche MICHAEL KORS
 
