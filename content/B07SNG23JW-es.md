@@ -29,9 +29,9 @@ En este momento está [Xiaomi Mi Smart Band 4 - Tracker de actividad física con
 🔎:
 
 - Monitorización de la salud. Seguimiento de la frecuencia cardíaca y el sueño 24/7
-- Mejora en la medición de las métricas. Incluye acelerómetro de 3 ejes y giróscopo de 3 ejes
-- Pantalla táctil AMOLED a color con mejor brillo y 40% más de pantalla visible. Visualiza tus llamadas, mensajes y notificaciones
 - Seguimiento de actividad física (incluido natación). Resistente al agua hasta los 50 m.
 - Hasta 20 días de batería con una sola carga
+- Pantalla táctil AMOLED a color con mejor brillo y 40% más de pantalla visible. Visualiza tus llamadas, mensajes y notificaciones
+- Mejora en la medición de las métricas. Incluye acelerómetro de 3 ejes y giróscopo de 3 ejes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SNG23JW/?tag=tolees-21)

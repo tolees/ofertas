@@ -28,10 +28,10 @@ En este momento está [adidas Entrada 18 JSY T-Shirt  Hombre  Bold Blue/White  X
 
 🔎:
 
-- Tiene un pequeño logotipo de Adidas impreso en el pecho
 - Esta hecha de 100% poliéster
-- Con el cuello redondeado
 - Camiseta de futbol para hombres
 - Cuenta con mangas cortas
+- Tiene un pequeño logotipo de Adidas impreso en el pecho
+- Con el cuello redondeado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07798XSDN/?tag=tolees-21)

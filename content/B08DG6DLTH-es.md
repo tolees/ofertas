@@ -28,10 +28,10 @@ Está [Medisana PM 100 Connect Oxímetro de pulso medición de la saturación de
 
 ℹ️:
 
-- Bluetooth + App: Gracias a la conexión Bluetooth integrada, puedes leer y evaluar fácilmente tus datos en nuestra VitaDock+ App
-- 2 vistas: La saturación de oxígeno (SpO2) y la frecuencia del pulso se pueden mostrar en forma de barra o de onda
-- Apagado automático: El pulsioxímetro incluye una función de apagado automático que preserva las pilas; si no se realiza la medición en los primeros 8 segundos, el oxímetro se apaga
 - Pantalla OLED: Las lecturas (saturación de oxígeno en sangre y frecuencia del pulso) pueden mostrarse en la gran pantalla OLED en seis vistas diferentes y con 10 niveles de brillo
+- 2 vistas: La saturación de oxígeno (SpO2) y la frecuencia del pulso se pueden mostrar en forma de barra o de onda
+- Bluetooth + App: Gracias a la conexión Bluetooth integrada, puedes leer y evaluar fácilmente tus datos en nuestra VitaDock+ App
 - One-Touch: El pulsioxímetro es fácil y cómodo de usar gracias a la operación One-Touch, óptimo para llevar, usar en casa y para actividades deportivas
+- Apagado automático: El pulsioxímetro incluye una función de apagado automático que preserva las pilas; si no se realiza la medición en los primeros 8 segundos, el oxímetro se apaga
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DG6DLTH/?tag=tolees-21)

@@ -29,9 +29,9 @@ Ahora mismo tienes [PUMA Modern Sports 7/8 Tights Mallas Deporte  Mujer  Black  
 🔎:
 
 - dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
+- Corte ceñido
 - miDori: Producto hecho con el acabado de base biológica miDori bioWick
 - Refuerzo brillante para más confort
 - Cinturilla elástica de tejido jacquard con marca a tono
-- Corte ceñido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089Z6BJY2/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [adidas Duramo SL  Sneaker Mujer  Footwear White/Footwear White/Signal Pi
 
 ℹ️:
 
-- Cordones de zapatos
 - Corte regular
+- Cordones de zapatos
 - Malla superior
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B082T5DTGG/?tag=tolees-21)

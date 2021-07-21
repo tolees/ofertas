@@ -28,11 +28,11 @@ Ahora mismo tienes [Imperial Confort Oslo - Colchón Viscoelástico acolchado al
 
 🔎:
 
-- El colchón se entrega enrollado y embalado al vacío y alcanza su altura máxima tras 24-48hrs desde su desembalado
 - Oslo es un colchón viscoelástico en 21, 24 u 29 cm de grosor, perfecto para usuarios que buscan un descanso con más firmeza, pero respetando la ergonomía del cuerpo
-- Favorece un descanso saludable y reparador gracias a su composición y acolchado viscoelástico, tejido TST y núcleo con tecnología Sensopur HR
+- 2 años de garantía
 - Con tratamientos higiénicos que actúan como barrera para los ácaros, bacterias y manchas difíciles, además son muy fáciles de limpiar, ya que son de secado rápido
 - Materiales de alta transpiración generando un continuo paso de aire imperceptible, garantizando que nuestro colchón se encuentre siempre bien aireado y libre de humedades y malos olores
-- 2 años de garantía
+- Favorece un descanso saludable y reparador gracias a su composición y acolchado viscoelástico, tejido TST y núcleo con tecnología Sensopur HR
+- El colchón se entrega enrollado y embalado al vacío y alcanza su altura máxima tras 24-48hrs desde su desembalado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LVXPL7Q/?tag=tolees-21)

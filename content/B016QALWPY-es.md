@@ -29,7 +29,7 @@ Está [adidas Parma 16 SHO Shorts  Hombre  Bold Blue/White  2XL](https://www.ama
 ℹ️:
 
 - Climalite anti-humidity fabric
-- Regular fit
 - Elastic waistband with lanyard
+- Regular fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016QALWPY/?tag=tolees-21)

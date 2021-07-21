@@ -28,8 +28,8 @@ Ahora mismo tienes [TEX - Pantalón Corto Estampado de Niña  Coral Oscuro  11-1
 
 🔎:
 
-- Nuestros artículos están elaborados de forma que se adapten a las necesidades del día a día de cada persona. Te ofrecemos una amplia gama de ropa versátil, moderna y cómoda con todo tipo de tallas y colores diseñadas para todas las edades
 - En TEX estamos comprometidos con ofrecer a nuestros clientes productos de alta calidad. Nuestra amplia selección de moda está 100% diseñada en España, y cuenta con gran calidad en materiales y tejidos
+- Nuestros artículos están elaborados de forma que se adapten a las necesidades del día a día de cada persona. Te ofrecemos una amplia gama de ropa versátil, moderna y cómoda con todo tipo de tallas y colores diseñadas para todas las edades
 - Pantalón corto de niña con estampado. Tiene cinco bolsillos, cierre de botón automático y cremallera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087WZMRF2/?tag=tolees-21)
