@@ -28,11 +28,11 @@ Está [Havaianas Slide Brasil  Sandalias con Punta Abierta Unisex Adulto  Negro 
 
 ℹ️:
 
+- Composición: Caucho
+- Material de la suela: Goma
 - Cierre: Sin cordones
 - Tipo de tacón: Plano
-- Composición: Caucho
-- Revestimiento: Sin forro
 - Material exterior: Goma
-- Material de la suela: Goma
+- Revestimiento: Sin forro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F1FNTMF/?tag=tolees-21)

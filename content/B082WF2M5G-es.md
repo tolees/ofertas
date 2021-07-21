@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.05 % en Crazy Safety Casco de Bici para Hombres '
-date: 2021-07-19 16:46:54
+date: 2021-07-21 17:14:36
 image: 'https://m.media-amazon.com/images/I/41GVgXYGsVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crazy Safety'
 buyurl: 'https://www.amazon.es/dp/B082WF2M5G/?tag=tolees-21'
 descuento: '50.05'
-average: '33.7681818181818'
+average: '33.0333333333333'
 ---
 
 Tienes [Crazy Safety Casco de Bici para Hombres  Mujeres  niños y niñas | Casco de Bicicleta con luz LED Recargable por USB integrada | Correas Reflectantes para Mayor Seguridad | Casco de Bici Urbana Ligero](https://www.amazon.es/dp/B082WF2M5G/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 24.95 EUR (original: 49.95 EUR) en el siguiente enlace!

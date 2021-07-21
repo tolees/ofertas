@@ -29,8 +29,8 @@ Ahora mismo tienes [Reebok Royal Glide  Zapatillas de Running Mujer  NEGBÁS/FLI
 🔎:
 
 - Plantilla extraíble de espuma Ortholite
-- Parte superior de piel recubierta
 - Forro de tela
+- Parte superior de piel recubierta
 - Suela de caucho
 - Cierre de cordones
 

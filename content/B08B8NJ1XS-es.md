@@ -29,9 +29,9 @@ Está [La Reina de las Tortillas-Tortillas Mexicanas de Maíz Amarillo 100% Nixt
 ℹ️:
 
 - Elaboradas artesanalmente para conseguir un mejor sabor, textura, resistencia y respetar las cualidades nutritivas del maíz. Ya solo te queda echarle lo que más te guste
-- APTAS PARA CELÍACOS, ricas en fibra y calcio, además de bajo contenido calórico. No contiene transgénicos
+- Elaboradas según el método tradicional del "nixtamal".Tortillas de maíz ideales para tacos, quesadillas, enchiladas y cualquier platillo. Gran sabor, suavidad y textura. Excelentes también para freir y elaborar flautas, nachos, tostadas y otros.
 - Caducidad de 4 meses en un lugar seco y fresco (no mayor a 22º grados). En caso de que no se cumplan estas condiciones, refrigerar. Una vez abierto el envase, para su conservación se recomienda guardar en un recipiente o bolsa de plástico con zip lock un máximo de 2 días.
 - La mejor manera de saborear México en tu mesa. Caliéntalas en sartén o en microondas, agrega tu relleno favorito y a disfrutar de la explosión de sabores porque no hay nada como una buena tortilla de maíz .
-- Elaboradas según el método tradicional del "nixtamal".Tortillas de maíz ideales para tacos, quesadillas, enchiladas y cualquier platillo. Gran sabor, suavidad y textura. Excelentes también para freir y elaborar flautas, nachos, tostadas y otros.
+- APTAS PARA CELÍACOS, ricas en fibra y calcio, además de bajo contenido calórico. No contiene transgénicos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B8NJ1XS/?tag=tolees-21)

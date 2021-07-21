@@ -29,9 +29,9 @@ Tienes [McFarlane - DC Multiverse 7 Figuras - Death Metal Batman](https://www.am
 ℹ️:
 
 - Figura increíblemente detallada de 7 pulgadas basada en el cómic Dark Nights: Death Metal #1 (Comics 2020).
-- Se muestra en caja de embalaje con temática de CC
 - Diseñado con ultra articulación con hasta 22 partes móviles para una gama completa de poses y juegos
-- Incluye tarjeta de arte coleccionable con Batman Dark Nights: Death Metal en la parte delantera y biografía del personaje en la parte trasera
+- Se muestra en caja de embalaje con temática de CC
 - Batman viene con una hoz de murciélago y base
+- Incluye tarjeta de arte coleccionable con Batman Dark Nights: Death Metal en la parte delantera y biografía del personaje en la parte trasera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08FP5PTGL/?tag=tolees-21)

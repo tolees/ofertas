@@ -28,10 +28,10 @@ Ahora mismo tienes [American Tourister Sunside - Spinner S Equipaje de Mano  55 
 
 🔎:
 
-- Candado de combinación TSA de 3 dígitos para un contenido bien protegido
-- Bien organizado: correas cruzadas en la tapa y la base
 - Volumen máximo del paquete: Spinner 68 y 77 son ampliables
 - Maleta de viaje ligera de polipropileno. Ruedas dobles para un manejo cómodo.
 - Spinner 55 (equipaje de mano: 2 días de viaje): 40 x 20 x 55 cm, 35 l, 2,50 kg
+- Candado de combinación TSA de 3 dígitos para un contenido bien protegido
+- Bien organizado: correas cruzadas en la tapa y la base
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084RGJH67/?tag=tolees-21)
