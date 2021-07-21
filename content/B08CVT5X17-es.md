@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Scarlett High Jeans Vaqueros  Enjuag al 62.21 % de descuento'
-date: 2021-07-20 11:05:16
+date: 2021-07-21 15:29:06
 image: 'https://m.media-amazon.com/images/I/310AmcyuX7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Ahora mismo tienes [Lee Scarlett High Jeans Vaqueros  Enjuague  26W / 31L para M
 
 - 5 bolsillos
 - Skinny High Waist
-- Tejido vaquero
 - Denim Stretch
+- Tejido vaquero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CVT5X17/?tag=tolees-21)
