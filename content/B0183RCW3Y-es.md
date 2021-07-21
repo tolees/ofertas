@@ -28,10 +28,10 @@ En este momento está [Portwest Casco Height Endurance  Color: Blanco  PS53WHR](
 
 🔎:
 
-- Arnés textil de suspensión de 6 puntos - Ajuste por ruleta para mayor facilidad
-- Aislamiento eléctrico hasta 1000 V a.c. o 1.500V cc (EN50365)
 - Color para visibilidad con luz diurna - Barboquejo incluido
 - Compatible con las orejeras con clip PW47 y PS47 - Accesorios compatibles disponibles
+- Aislamiento eléctrico hasta 1000 V a.c. o 1.500V cc (EN50365)
+- Arnés textil de suspensión de 6 puntos - Ajuste por ruleta para mayor facilidad
 - CE-CAT III - Ligera y robusta - Diseño especial para trabajar en altura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0183RCW3Y/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Diesel Reloj Analógico para Hombre de Cuarzo con Correa 
 
 🔎:
 
-- Correa de piel marrón con hebilla
-- Presentado en estuche DIESEL
 - Esfera negra con estampado, índices plateados y número árabe a las 9 , movimiento de 3 agujas, agujas plateadas luminiscentes, cristal mineral
+- Presentado en estuche DIESEL
+- Correa de piel marrón con hebilla
 - Reloj DIESEL de hombre con caja redonda de acero inoxidable (diám. 46 mm) y acabado pulido brillante y mate, 5 ATM de resistencia a la presión del agua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N9FQ63C/?tag=tolees-21)
