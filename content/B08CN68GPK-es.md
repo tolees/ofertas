@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Boxy Fit Loose Camiseta  Combat C673-723  M pa
 
 🔎:
 
+- Largo acortado
 - Etiqueta de G-Star RAW Originals tejida en el lateral
+- Manga corta de largo medio
 - Cuello redondo acanalado
 - Costuras adelantadas en los hombros; efecto pliegue
-- Manga corta de largo medio
-- Largo acortado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CN68GPK/?tag=tolees-21)
