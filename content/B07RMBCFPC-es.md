@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! TV: Game of Thrones - Cryst al 51.81 % de descuento'
-date: 2021-07-16 13:39:59
+date: 2021-07-22 13:39:41
 image: 'https://m.media-amazon.com/images/I/315WLTVhq2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07RMBCFPC/?tag=tolees-21'
 descuento: '51.81'
-average: '9.37185185185185'
+average: '9.34071428571428'
 ---
 
 Ahora mismo tienes [Funko - Pop! TV: Game of Thrones - Crystal Night King w/Dagger in Chest Figura Coleccionable  Multicolor  44823 ](https://www.amazon.es/dp/B07RMBCFPC/?tag=tolees-21) a 8.5 EUR (original: 17.64 EUR) (51.81 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [Funko - Pop! TV: Game of Thrones - Crystal Night King w/Dagg
 🔎:
 
 - Recomendado para niños a partir de 3 años
-- El artículo es adecuado para todos los fanáticos de Game of Thrones
-- Figura de colección de la marca Funko
 - El producto se envía en una caja ilustrada con ventana
+- Figura de colección de la marca Funko
+- El artículo es adecuado para todos los fanáticos de Game of Thrones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RMBCFPC/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KAIWEETS 206D Digital Pinza Amperimétric con un 42.28 % de descuento'
-date: 2021-07-19 17:40:23
+date: 2021-07-22 14:48:39
 image: 'https://m.media-amazon.com/images/I/51EQSON8EWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'KAIWEETS'
 buyurl: 'https://www.amazon.es/dp/B07Z398YWF/?tag=tolees-21'
 descuento: '42.28'
-average: '34.19'
+average: '33.29'
 ---
 
 En este momento está [KAIWEETS 206D Digital Pinza Amperimétrica Profesional para medir 600A CA/CC Corriente y Tensión con 6000 Cuentas  Valor Real  Autorango  NCV  Pinza Amperímetro de Capacitancia  Resistencia  Bateria](https://www.amazon.es/dp/B07Z398YWF/?tag=tolees-21) a 30.59 EUR (original: 53.0 EUR) (42.28 %  de descuento) en el siguiente enlace!
