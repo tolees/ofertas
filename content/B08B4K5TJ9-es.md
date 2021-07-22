@@ -29,9 +29,9 @@ Tienes [Deconovo Cortinas Dormitorio Moderno Suave Cortina Opaca para Ventanas d
 🔎:
 
 - CONCEJO DE LAVADO: Se puede lavar a mano o a máquina en agua fría (menos de 30°C)
-- RENDIMIENTO: Bloquea la mayor parte de la luz en todo el día y reduce el ruido exterior, creando un ambiente cómodo y privado. También puede aislar el frío y calor para ahorrar energía.
-- TAMAÑO:2 paneles por un paquete. La altura de la cortina se mide desde la parte superior de la trabilla.
 - DISEÑO: Diseño de estilo simple y elegante para decorar su hogar y crear una sensación agradable. Perfecta decoración de su habitación.
+- TAMAÑO:2 paneles por un paquete. La altura de la cortina se mide desde la parte superior de la trabilla.
+- RENDIMIENTO: Bloquea la mayor parte de la luz en todo el día y reduce el ruido exterior, creando un ambiente cómodo y privado. También puede aislar el frío y calor para ahorrar energía.
 - MATERIAL: Hecho de 100% poliéster de alta calidad, suave al tacto, con una tecnología innovadora de tejido triple que ayuda a asilar la luz efectivamente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08B4K5TJ9/?tag=tolees-21)

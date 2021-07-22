@@ -29,8 +29,8 @@ Ahora mismo tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en
 🔎:
 
 - Dura más de 6 meses en la oscuridad. Una carga completa es suficiente para que la mayoría de los modelos Eco-Drive funcione durante más de seis meses en la oscuridad
+- Número de calibre: B612
 - Accionamiento Eco-Drive: Eco-Drive es una tecnología central de Citizen que genera energía incluso en condiciones de poca luz y permite que los relojes funcionen durante seis meses incluso en la oscuridad
 - No requiere cambio de batería. Eco-Drive elimina la molestia y el coste de cambiar la batería regularmente
-- Número de calibre: B612
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D9ZWX2R/?tag=tolees-21)

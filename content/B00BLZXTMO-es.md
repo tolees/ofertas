@@ -28,9 +28,9 @@ Tienes [vidaXL - Amoladora angular Einhell TE-AG 115](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Tamaño disco de corte: 115 mm
-- Tensión de red: 230 V, 50 Hz
 - Potencia:  720 W
+- Tensión de red: 230 V, 50 Hz
+- Tamaño disco de corte: 115 mm
 - Velocidad en vacio: 11000 rpm
 - Peso: 1,88 kg
 

@@ -28,10 +28,10 @@ Tienes [Pack Ahorro Relec Fuerte + Relec Post-Picaduras](https://www.amazon.es/d
 
 🔎:
 
+- ZONAS DE CLIMA TEMPLADO, COSTA, HÚMEDAS (MONTAÑAS, RÍOS, LAGOS, PISCINAS) PARA DENTRO O FUERA DE CASA.
 - PROTECCIÓN EFICAZ 7 HORAS
 - ROLL-ON METÁLICO, TEXTURA GEL.
-- ALIVIA EL PICOR, REFRESCA Y CALMA LA PIEL por irritaciones producidas por el contacto de insectos y de plantas.
-- ZONAS DE CLIMA TEMPLADO, COSTA, HÚMEDAS (MONTAÑAS, RÍOS, LAGOS, PISCINAS) PARA DENTRO O FUERA DE CASA.
 - APTO PARA PIELES SENSIBLES.
+- ALIVIA EL PICOR, REFRESCA Y CALMA LA PIEL por irritaciones producidas por el contacto de insectos y de plantas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PM84ZFK/?tag=tolees-21)
