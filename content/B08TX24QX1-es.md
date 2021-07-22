@@ -28,8 +28,8 @@ Está [2 CLINES CCCAM ESPAÑA - Envio en 2 Horas Aprox - 12 Meses SIN Cortes ✅
 
 ℹ️:
 
-- --Entrega 4-6h por correo electrónico--
-- puede encontrar el correo electrónico con las claves: inicie sesión en su cuenta de Amazon y haga clic en: Su cuenta (arriba a la derecha con su nombre) - Centro de mensajes - ** Mensajes relacionados con el comprador / vendedor ** 📥📥📥📥 www.amazon.es/gp/message📥📥📥📥
 - No se le enviará ningún medio físico (DVD / USB / CD) - Verifique la llegada de las claves en su buzón de correo de Amazon
+- puede encontrar el correo electrónico con las claves: inicie sesión en su cuenta de Amazon y haga clic en: Su cuenta (arriba a la derecha con su nombre) - Centro de mensajes - ** Mensajes relacionados con el comprador / vendedor ** 📥📥📥📥 www.amazon.es/gp/message📥📥📥📥
+- --Entrega 4-6h por correo electrónico--
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TX24QX1/?tag=tolees-21)

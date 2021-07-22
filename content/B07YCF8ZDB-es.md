@@ -28,10 +28,10 @@ En este momento está [Philips OneBlade QP2520/65 - Recortador de Barba con 3 pe
 
 🔎:
 
+- Batería de larga duración: 45 minutos
 - La cuchilla de doble cara perfila los bordes y crea líneas definidas moviendo la cuchilla en cualquier dirección
 - Uso en seco o en húmedo, incluso en la ducha
-- Incluye: 3 peines-guía para barba (1, 3, 5mm) y funda de viaje
 - Recortador de barba que recorta, perfila y afeita cualquier longitud de pelo
-- Batería de larga duración: 45 minutos
+- Incluye: 3 peines-guía para barba (1, 3, 5mm) y funda de viaje
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YCF8ZDB/?tag=tolees-21)

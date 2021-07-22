@@ -28,10 +28,10 @@ En este momento está [Medisana MM 825 Esterilla de masaje eléctrica  cuerpo en
 
 🔎:
 
-- Nota: No utilice la funda del asiento mientras conduce o está acostado; el efecto del masaje puede variar y ser sentido más o menos por cada persona; por favor, retire los cierres de transporte antes de utilizarlo
-- Masaje por vibración: Agradable masaje por vibración para todo el cuerpo, de la cabeza a los pies. 2 intensidades y 5 programas de masaje completan su experiencia de masaje
 - Mando a distancia: El mando a distancia, que permite realizar todos los ajustes mientras está tumbado, se puede guardar en un práctico bolsillo lateral de la colchoneta de masaje
+- Nota: No utilice la funda del asiento mientras conduce o está acostado; el efecto del masaje puede variar y ser sentido más o menos por cada persona; por favor, retire los cierres de transporte antes de utilizarlo
 - Efectiva: La colchoneta de masaje MM 825 le ofrece una combinación de masaje y calor que permite una aplicación particularmente efectiva
+- Masaje por vibración: Agradable masaje por vibración para todo el cuerpo, de la cabeza a los pies. 2 intensidades y 5 programas de masaje completan su experiencia de masaje
 - Cómodo: La colchoneta de masaje MM 825 está cubierta con una capa de vellón extrasuave y esponjosa en la que se puede dormir cómodamente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008KWO3TY/?tag=tolees-21)

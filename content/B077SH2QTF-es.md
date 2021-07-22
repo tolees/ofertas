@@ -28,10 +28,10 @@ Ahora mismo tienes [Tenda PH6  Adaptadores de Comunicación por Línea Eléctric
 
 🔎:
 
-- Con ph6 no vas a perder ninguna toma de corriente, enchufe integrado
-- Plug and play, no es necesaria configuración o cableado
 - Modo ahorro de energía reduce el consumo de energía hasta un 85%
 - Con 2 puertos gigabit 1000mbps que permiten crear redes cableadas seguras para equipos de sobremesa o iptv
+- Con ph6 no vas a perder ninguna toma de corriente, enchufe integrado
+- Plug and play, no es necesaria configuración o cableado
 - Compatible con el estándar homeplug av2 te permite ver videos 4k hd y transferir datos sobre su línea eléctrica existente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077SH2QTF/?tag=tolees-21)
