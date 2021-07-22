@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk SDSQXBZ-128G-GN6MA Extreme Plus  al 52.80 % de descuento'
-date: 2021-07-09 20:35:43
+date: 2021-07-21 22:20:06
 image: 'https://m.media-amazon.com/images/I/41hZfkjHr3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07FCMRBTM/?tag=tolees-21'
 descuento: '52.80'
-average: '31.8823529411765'
+average: '31.6055555555556'
 ---
 
 Ahora mismo tienes [SanDisk SDSQXBZ-128G-GN6MA Extreme Plus - Tarjeta de Memoria microSDXC de 128 GB con Adaptador SD  A2  hasta 170 MB/s  Class 10  U3 y V30  Oro/Rojo](https://www.amazon.es/dp/B07FCMRBTM/?tag=tolees-21) a 26.9 EUR (original: 56.99 EUR) (52.80 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [SanDisk SDSQXBZ-128G-GN6MA Extreme Plus - Tarjeta de Memoria
 
 🔎:
 
-- Hasta 170 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
-- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones; resistentes a temperatura, agua, golpes y rayos X
-- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
-- Ideal para smartphones y tabletas Android, cámaras de acción y drones
 - Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
+- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
+- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones; resistentes a temperatura, agua, golpes y rayos X
+- Hasta 170 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
+- Ideal para smartphones y tabletas Android, cámaras de acción y drones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FCMRBTM/?tag=tolees-21)

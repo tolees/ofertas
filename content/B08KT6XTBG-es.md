@@ -28,10 +28,10 @@ Está [Tesura Games - Ghost of a Tale - Collector S Edition](https://www.amazon.
 
 ℹ️:
 
-- El disfraz adecuado convertirá a los enemigos en aliados
-- Ghost of a Tale Collectors Edition incluye: Copia del juego para PS4, Libro de Arte de 100 páginas, Disco con la banda sonora original, Set de Cartas de personajes, Pin Exclusivo y Figura Papercraft de Tilo
 - Explora imponentes escenarios
-- Utiliza tus habilidades para solucionar los problemas
 - Usa el sigilo para sobrevivir
+- Ghost of a Tale Collectors Edition incluye: Copia del juego para PS4, Libro de Arte de 100 páginas, Disco con la banda sonora original, Set de Cartas de personajes, Pin Exclusivo y Figura Papercraft de Tilo
+- Utiliza tus habilidades para solucionar los problemas
+- El disfraz adecuado convertirá a los enemigos en aliados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KT6XTBG/?tag=tolees-21)

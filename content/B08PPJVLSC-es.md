@@ -28,8 +28,8 @@ En este momento está [adidas Swift Run X  Sneaker  Footwear White/Footwear Whit
 
 🔎:
 
-- Cordones de zapatos
 - Suela de goma
+- Cordones de zapatos
 - Corte regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PPJVLSC/?tag=tolees-21)

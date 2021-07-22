@@ -28,10 +28,10 @@ En este momento está [CI Games - Sniper Ghost Warrior Contract Complete Edition
 
 🔎:
 
-- Interfaces rediseñadas siguiendo un sistema táctico para marcar los enemigos que debes eliminar
-- Emplea todo tu sigilo, asesina a tus objetivos en silencio y recibe recompensas por jugar de forma estratégica
 - Un arsenal de herramientas que incluye drones, torretas remotas y granadas de gas
 - Juega como un asesino a sueldo, un sicario que se enfrentará a bandas de francotiradores rivales que no dudarán en frustrar tus planes
+- Interfaces rediseñadas siguiendo un sistema táctico para marcar los enemigos que debes eliminar
 - Combate en una Siberia salvaje y lucha por sobrevivir en montañas nevadas, bosques frondosos y cuarteles generales ocultos en la naturaleza
+- Emplea todo tu sigilo, asesina a tus objetivos en silencio y recibe recompensas por jugar de forma estratégica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MVPCSSJ/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.09 % en Meridiem Games - Battle Axe  with Pin Ba'
-date: 2021-07-17 16:47:31
+date: 2021-07-21 22:11:18
 image: 'https://m.media-amazon.com/images/I/51UXAHAIE+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B08BDXM5SY/?tag=tolees-21'
 descuento: '50.09'
-average: '37.11'
+average: '35.894'
 ---
 
 Tienes [Meridiem Games - Battle Axe  with Pin Badges Set ](https://www.amazon.es/dp/B08BDXM5SY/?tag=tolees-21) con un 50.09 % de descuento con precio de oferta de 24.95 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -28,10 +28,10 @@ En este momento está [Meridiem Games - Kowloon High-School Chronicle](https://w
 
 🔎:
 
+- Kowloon High-School Chronicle combines deep and interesting character interactions with exploratory dungeon crawling.
 - By day, win over your fellow students with a unique emotion-based response system.
 - Live the life of a high school treasure hunter in this much-anticipated RPG classic!
 - At night, select your team to explore the mysterious ruins beneath the school with exciting life-or-death battles and puzzle gameplay
-- Kowloon High-School Chronicle combines deep and interesting character interactions with exploratory dungeon crawling.
 - Choose from Joy, love, anger, sadness and more to determine the tone of your responses and see how characters react.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WDGG53Z/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Tesura Games - Train Sim World 2: Collector s Edition](ht
 
 🔎:
 
+- Fiel recreación: Pilota elinter raíl alemán de alta velocidad por primera vez, pisa el regulador y alcanza gran velocidad en el famoso DB ICE 3M, de Köln: acepta el desafío de transportar cargas por largas distancias a través de Sand Patch Grade, pasando por Cumberland Terminal, gracias a la potencia del CSX AC4400CW.Domina el mapa del famoso metro de Londres en la estación de Bakerloo Line: todas las licencias oficiales están fielmente recreadas: en la cabina, tú tienes el control
 - Sé creativo: Personaliza las locomotoras de Train Sim World 2, complejas o simples, no importa como siempre qu esté a tu gusto: personaliza tu experiencia de juego todavía más con el planificador de escenarios y crea tu propio escenario ideal: a tu propio estilo
 - Sumérgete en la simulación: Ahora tendrás un acceso más preciso a la información, como inclinación o velocidad, mientras conduces: nuevos formatos de interfaz, más claridad para visualizar los sistemas de seguridad, control de frenada, medidor de potencia y acelerómetro: un nuevo esquema de control con novedosas opciones de cámara y modos de conducción, que además permite acceder a un modo de cámara externa para entrar en otro vehículo de tu conjunto, todo con el motor físico de simulación en movimiento
-- Fiel recreación: Pilota elinter raíl alemán de alta velocidad por primera vez, pisa el regulador y alcanza gran velocidad en el famoso DB ICE 3M, de Köln: acepta el desafío de transportar cargas por largas distancias a través de Sand Patch Grade, pasando por Cumberland Terminal, gracias a la potencia del CSX AC4400CW.Domina el mapa del famoso metro de Londres en la estación de Bakerloo Line: todas las licencias oficiales están fielmente recreadas: en la cabina, tú tienes el control
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HF8BNMP/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Tesura Games - Spirit of the North. Enhanced Edition](https:
 
 🔎:
 
+- Sigue al misterioso Zorro Espiritual a través de una tierra en ruinas mientras descubres más sobre una civilización perdida.
+- Resuelve los puzles medioambientales para cambiar el mundo que te rodea, usando los antiguos poderes que te otorgó el Guardián de las Luces del Norte.
 - Disfruta de una Banda Sonora Orquestal en movimiento con 14 composiciones originales.
 - Explora el mundo con 2 nuevos aspectos exclusivos incluidos en esta edición para Playstation 5.
-- Resuelve los puzles medioambientales para cambiar el mundo que te rodea, usando los antiguos poderes que te otorgó el Guardián de las Luces del Norte.
-- Sigue al misterioso Zorro Espiritual a través de una tierra en ruinas mientras descubres más sobre una civilización perdida.
 - Sumérgete con sus impresionantes paisajes en 4K, con texturas, iluminación y objetos remasterizados y corriendo a 60FPS.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08M16TW2M/?tag=tolees-21)

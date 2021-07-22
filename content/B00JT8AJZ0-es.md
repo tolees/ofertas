@@ -28,11 +28,11 @@ Tienes [Western Digital - WD Elements - Disco duro externo de sobremesa de 4 TB 
 
 ℹ️:
 
-- Incluye una prueba gratuita del software de copia de seguridad automática WD SmartWare Pro
 - Conexión USB 3.0 para velocidades ultrarrápidas de transferencia de datos
+- Incluye una prueba gratuita del software de copia de seguridad automática WD SmartWare Pro
 - Solo tiene que enchufarlo a la corriente y conectarlo al puerto USB para añadir al instante más almacenamiento a su ordenador
 - ¡Nota! producto tiene enchufe de Reino Unido y de la UE
-- Sistemas compatibles: Formato NTFS para Windows 10, 8.1 y 7 y puede requerir reformatear para otros sistemas operativos
 - Contenido de la caja: disco duro de sobremesa, cable USB, adaptador de corriente alterna, guía de instalación rápida
+- Sistemas compatibles: Formato NTFS para Windows 10, 8.1 y 7 y puede requerir reformatear para otros sistemas operativos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JT8AJZ0/?tag=tolees-21)
