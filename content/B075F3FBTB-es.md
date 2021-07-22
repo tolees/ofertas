@@ -28,7 +28,7 @@ En este momento está [ledlenser p7 Linterna 450 lm  negro  13 x 3.7 x 13 cm](ht
 
 🔎:
 
-- Las pilas recomendadas son Duracell, pilas Energizer o Led Lenser Alkaline Ionic.
 - 450 Lumenes
+- Las pilas recomendadas son Duracell, pilas Energizer o Led Lenser Alkaline Ionic.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075F3FBTB/?tag=tolees-21)

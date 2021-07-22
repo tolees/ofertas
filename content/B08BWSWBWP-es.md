@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Vintage Modern Flexfit Cap Gorra  con un 48.04 % de descuento'
-date: 2021-07-20 11:36:43
+date: 2021-07-22 09:17:10
 image: 'https://m.media-amazon.com/images/I/41hSGtmGn4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BWSWBWP/?tag=tolees-21'
 descuento: '48.04'
-average: '12.66'
+average: '12.7425'
 ---
 
 En este momento está [Levi s Vintage Modern Flexfit Cap Gorra de bisbol  Navy Blue  One Size Men s](https://www.amazon.es/dp/B08BWSWBWP/?tag=tolees-21) a 12.99 EUR (original: 25.0 EUR) (48.04 %  de descuento) en el siguiente enlace!
