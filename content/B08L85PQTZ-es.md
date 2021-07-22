@@ -29,9 +29,9 @@ Tienes [Teka | Mini Horno Independiente | Capacidad 42L 220-240 50/60 | 4 Funcio
 ℹ️:
 
 - Aislamiento norma A13. Parada del temporizador. Luz de la cavidad. Accesorios: 1 Bandeja + 1 Rejilla Gruesa +Asa de bandeja. Capacidad bandeja: 2,74 Ltrs. 110 cm cable de conexión + enchufe
-- Frente pintado de gris, cuerpo negro. 2 cristales de puerta
-- 4 funciones de cocción: Superior, Inferior, Superior + Inferior. Grill 1300W.
 - Dimensiones Alto x Ancho x Profundo (cm): 33 x 52 x 44. Dimensiones Interior (cm): 23.3 x 39.8 x 40
+- Frente pintado de gris, cuerpo negro. 2 cristales de puerta
 - Mini horno independiente de 42 L. Hydroclean. Temperatura: 40-220
+- 4 funciones de cocción: Superior, Inferior, Superior + Inferior. Grill 1300W.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08L85PQTZ/?tag=tolees-21)

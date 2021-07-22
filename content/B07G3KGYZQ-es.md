@@ -29,9 +29,9 @@ En este momento está [Crucial BX500 480 GB CT480BX500SSD1 Unidad interna de est
 🔎:
 
 - Arranque más rápido; cargue archi vos más rápido; mejore la capacidad de respuesta general del sistema
-- Lecturas/escrituras secuenciales hasta 540/500 MB/s en todos los tipos de archivo
 - Micron 3D NAND - innovador mundial de tecnología de almacenamiento y memoria durante 40 años
 - Un 300% veces más rápido que un disco duro normal
 - Mejora la vida útil de la batería porque es 45 veces más eficiente en términos energéticos que un disco duro convencional
+- Lecturas/escrituras secuenciales hasta 540/500 MB/s en todos los tipos de archivo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G3KGYZQ/?tag=tolees-21)
