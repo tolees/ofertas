@@ -28,7 +28,7 @@ Ahora mismo tienes [BOSS Paule 4 10234774 01 Camisa de Polo  Navy411  S para Hom
 
 🔎:
 
-- Acabado de alta calidad
 - Oxford Pique
+- Acabado de alta calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF2VS7N/?tag=tolees-21)
