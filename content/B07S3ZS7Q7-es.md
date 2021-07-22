@@ -29,7 +29,7 @@ Ahora mismo tienes [Diesel UMBX-SHAWNTHREEPACK  Calzoncillo para Hombre  Multico
 🔎:
 
 - Ver descripción del producto para obtener más información.
-- A estrenar y genuina. Somos un vendedor autorizado de Diesel.
 - Diesel Multicolor Pack de 3 baúles básicos Shawn
+- A estrenar y genuina. Somos un vendedor autorizado de Diesel.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S3ZS7Q7/?tag=tolees-21)

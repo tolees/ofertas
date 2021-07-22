@@ -28,9 +28,9 @@ Está [JOE WEIDER VICTORY Melatonine Up  60 gummies  Sabor Blueberry  1 mg de me
 
 ℹ️:
 
-- Número de modelo del producto: WGU.101143
-- 60 Gummies
 - Complemento nutricional clínicamente testado
+- 60 Gummies
+- Número de modelo del producto: WGU.101143
 - convierte el entrenamiento en tu forma de vida
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IVQ1Z1C/?tag=tolees-21)
