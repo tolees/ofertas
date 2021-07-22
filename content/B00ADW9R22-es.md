@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-PA4010P Kit Powerline con enc al 46.59 % de descuento'
-date: 2021-06-22 04:31:54
+date: 2021-07-22 03:20:14
 image: 'https://m.media-amazon.com/images/I/41Ko23ZIlmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00ADW9R22/?tag=tolees-21'
 descuento: '46.59'
-average: '39.9060283687941'
+average: '39.8979401993352'
 ---
 
 Ahora mismo tienes [TP-Link TL-PA4010P Kit Powerline con enchufe adicional  AV 600 Mbps en Powerline  1 puerto ethernet  homeplug AV  sin wifi  solución para dispositivos con cable como PC  decodificador Sky  PS4](https://www.amazon.es/dp/B00ADW9R22/?tag=tolees-21) a 31.99 EUR (original: 59.9 EUR) (46.59 %  de descuento) en el siguiente enlace!
@@ -28,13 +28,13 @@ Ahora mismo tienes [TP-Link TL-PA4010P Kit Powerline con enchufe adicional  AV 6
 
 🔎:
 
-- Requisitos del sistema windows 2000, xp, 2003, vista; windows 7, 8, 8.1, 10, mac, linux
-- Modo de ahorro de energía hasta 85% (variable según factores ambientales)
-- Enchufe adicional mantenga sus dispositivos encendidos, sin perder el enchufe anterior
-- No requiere configuración, simplemente plug and play, temperatura de funcionamiento: 0°c ~ 40°c (32°f ~ 104°f); temperatura de almacenamiento: -40°c ~ 70°c (-40°f ~ 158°f)
-- El producto powerline transmite la señal de internet mediante cables de electricidad y permite cubrir áreas de la casa a las que normalmente no llega la señal del enrutador
-- Compatible con el estándar homeplug av de hasta 600 mbps, compatible con todos los dispositivos tp-link powerline
-- Con la tecnología avanzada HomePlug AV, el TL-PA4010P KIT puede proporcionar a los usuarios velocidades estables de transmisión de datos de alta velocidad de hasta 600 Mbps a través de un circuito eléctrico doméstico de hasta 300 metros
-- Para aplicaciones que requieren ancho de banda, como transmisión de video ultra HD desde múltiples dispositivos simultáneamente, juegos en línea y transferencias de archivos grandes
+- COMPATIBLE CON OTROS POWERLINE HOMEPLUG AV Y AV2 - . Es posible que este producto no sea compatible con enrutadores o puertas de enlace con firmware que se haya modificado, esté basado en programas de código abierto o no sea estándar o esté desactualizado
+- PLUG & PLAY - Fácil configuración con encriptación sencilla y solo pulsar el botón de emparejamiento, y listo para funcionar
+- MODO AHORRO DE ENERGÍA - Reduce el consumo de un 85% en comparación con otros dispositivos
+- ATENCIÓN! La tasa de transferencia de datos de canal teórica 600mbps se deriva de las especificaciones del HomePlug AV2. En términos generales, siempre recibiremos la mitad o un tercio de la velocidad teórica indicada en los PLC
+- PUERTO ETHERNET - 1x Puerto Fast Ethernet 10/100mbps para conexiones por cable RJ45 que viene incluido en el paquete
+- REQUISITOS DEL SISTEMA - Windows 8/7/Vista/XP/2000, Mac OS, Linux
+- ENCHUFE INCORPORADO - Enchufe incorporado para asegurar que no se desperdicia ninguna toma eléctrica
+- TRANSMISIÓN DE DATOS HASTA 600Mbps *- Sobre cableado eléctrico de hasta 300 metros (no es por WI-Fi) óptimo para streaming de vídeo en HD
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00ADW9R22/?tag=tolees-21)
