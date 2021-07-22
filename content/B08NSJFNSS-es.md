@@ -28,10 +28,10 @@ En este momento está [HyperX Pulsefire Haste – Ratón para Juegos – Ultrali
 
 🔎:
 
-- Diseño con carcasa hexagonal ultraligera, Sensor Pixart 3335
-- Diseño de botón dividido con gran respuesta
 - Cinta de agarre incluida, Personalizable con el software HyperX NGENUITY
+- Diseño con carcasa hexagonal ultraligera, Sensor Pixart 3335
 - Partes traseras de PTFE de grado virgen puro
+- Diseño de botón dividido con gran respuesta
 - Cable HyperFlex, Microteclas a prueba de polvo TTC Golden
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NSJFNSS/?tag=tolees-21)

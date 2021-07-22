@@ -29,9 +29,9 @@ En este momento está [JOCCA - Tabla de cortar con bandeja de Bambú - 36x27 5x4
 🔎:
 
 - Recubierta con propiedades antibacterianas y antimicrobianas para una mayor higiene y seguridad en el tratado de los alimentos.
-- Evita rayar o ensuciar la encimera de cocina con la tabla de cortar de bambú. Material caracterizado por su densidad y durabilidad.
-- Tabla de cortar fuerte y resistente elaborada con bambú. Perfecta para cortar todo tipo de alimentos.
-- Incluye bandeja inferior para guardar tus cuchillos favoritos para cada tipo de corte o alimento. ¡Todo al alcance de tu mano!
 - Medidas tabla: 36x27,5x4 cm y medidas bandeja: 35x24x2 cm.
+- Tabla de cortar fuerte y resistente elaborada con bambú. Perfecta para cortar todo tipo de alimentos.
+- Evita rayar o ensuciar la encimera de cocina con la tabla de cortar de bambú. Material caracterizado por su densidad y durabilidad.
+- Incluye bandeja inferior para guardar tus cuchillos favoritos para cada tipo de corte o alimento. ¡Todo al alcance de tu mano!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B019ZJN9Q8/?tag=tolees-21)

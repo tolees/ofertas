@@ -28,12 +28,12 @@ En este momento está [Hugo BOSS Reloj Análogo clásico para Mujer de Cuarzo co
 
 🔎:
 
-- Color de la correa: marrón
-- Mecanismo de cuarzo
-- Color del dial: oro amarillo
 - Forma del producto: redondo
-- Pulsera de cuero
 - Resistencia al agua 3 ATM
 - Cierre con botón pulsador
+- Color de la correa: marrón
+- Color del dial: oro amarillo
+- Pulsera de cuero
+- Mecanismo de cuarzo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073T8QLQG/?tag=tolees-21)

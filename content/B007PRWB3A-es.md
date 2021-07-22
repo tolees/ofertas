@@ -28,9 +28,9 @@ En este momento está [Orbegozo CP 50120 - Ventilador de techo con luz y mando a
 
 🔎:
 
-- Ventilador de techo Orbegozo de 44,5 cm de altura con mando a distancia
-- Diseño en color cromado y plafón con luz tipo G9, 1 x 60W (no incluida)
 - Dispone de 6 aspas de 120 cm de diámetro y un motor con potencia de 65 W
+- Diseño en color cromado y plafón con luz tipo G9, 1 x 60W (no incluida)
+- Ventilador de techo Orbegozo de 44,5 cm de altura con mando a distancia
 - Sistema de ventilación reversible con modos para invierno y verano
 - Ventilador muy silencioso con 3 velocidades de ventilación
 

@@ -29,8 +29,8 @@ Tienes [FR-TEC - Auricular Gaming Headset INARI](https://www.amazon.es/dp/B07K6P
 🔎:
 
 - Compatible con: Playstation 5, PlayStation 4, XBOX One, Nintendo Switch, PC y MAC
-- Cable trenzado anti enredos (1,2m), control en línea: Volumen + Mic-mute
 - Micrófono retráctil
+- Cable trenzado anti enredos (1,2m), control en línea: Volumen + Mic-mute
 - Diámetro del altavoz: 50cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K6P4LRN/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Columbia Washed Out Pantalones cortos para hombre](https:
 
 🔎:
 
+- Pantalones cortos de popelín de algodón para hombre, Un básico imprescindible del verano
 - Contenido: 1 x Columbia Washed Out Pantalones cortos para hombre, Tejido: Popelín de algodón 100%, Talla: W38/L10, Color: Marrón (Crouton), Art.No. 1491953
 - Disponible en una gran variedad de colores a la moda
-- Pantalones cortos de popelín de algodón para hombre, Un básico imprescindible del verano
 - Elegante y versátil, oportuno para el día a día
 - Los bolsillos para las manos mantendrán sus pertenencias a salvo y sin riesgo de caídas
 

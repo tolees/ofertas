@@ -29,9 +29,9 @@ Tienes [Tristar PZ-9135 – Paellera  Cazuela Eléctrica Multifunción con Tapa 
 🔎:
 
 - Con 30.cm de diámetro, la sartén es muy amplia
+- Puede ajustar la temperatura deseada con fácil idad con el termostato ajustable
+- La sartén eléctrica se calienta rápidamente gracias a sus 1500.w de potencía
 - Incluye un accesorio divisor, por lo que podrá preparar diversos platos a la vez
 - Puede dar diversos usos a la sartén eléctrica de un modo sencillo
-- La sartén eléctrica se calienta rápidamente gracias a sus 1500.w de potencía
-- Puede ajustar la temperatura deseada con fácil idad con el termostato ajustable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VC4PLLN/?tag=tolees-21)

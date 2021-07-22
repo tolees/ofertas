@@ -28,10 +28,10 @@ Ahora mismo tienes [ARPAN - Hojas de Recambio para álbum de Fotos Grande con An
 
 🔎:
 
-- 3 compartimentos horizontales, 2 verticales.
 - Con capacidad para 200 fotografías de 10 x 15 cm. 5 fotografías por página. Total: 10 fotografías por hoja.
-- 20 recambios para álbum de fotos con anillas.
-- Solo 20 hojas de recambio.
 - Este recambio es solo para álbumes de fotos de la marca Arpan.
+- 3 compartimentos horizontales, 2 verticales.
+- Solo 20 hojas de recambio.
+- 20 recambios para álbum de fotos con anillas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00OD2WUMW/?tag=tolees-21)
