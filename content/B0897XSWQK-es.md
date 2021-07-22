@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s O.G Batwing Polo  Kumquat  XS para Hombre](https://ww
 
 🔎:
 
-- Encuadernación de
-- Housemark - Polo
 - Manga corta
+- Housemark - Polo
+- Encuadernación de
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897XSWQK/?tag=tolees-21)

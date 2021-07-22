@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geniol Champú Huevo - 750 ml con un 45.58 % de descuento'
-date: 2021-07-17 17:15:17
+date: 2021-07-22 16:40:43
 image: 'https://m.media-amazon.com/images/I/31eTW9sUHXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geniol'
 buyurl: 'https://www.amazon.es/dp/B00XAH73XM/?tag=tolees-21'
 descuento: '45.58'
-average: '1.948'
+average: '1.89'
 ---
 
 En este momento está [Geniol Champú Huevo - 750 ml](https://www.amazon.es/dp/B00XAH73XM/?tag=tolees-21) a 1.6 EUR (original: 2.94 EUR) (45.58 %  de descuento) en el siguiente enlace!

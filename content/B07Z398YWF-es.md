@@ -28,10 +28,10 @@ En este momento está [KAIWEETS 206D Digital Pinza Amperimétrica Profesional pa
 
 🔎:
 
-- Multifunción: pantalla LCD retroiluminada de dos colores – cuando el voltaje > 80 V, la corriente > 3 A, la pantalla LCD retroiluminada se vuelve roja para advertir de alto voltaje/linterna LED/medición de temperatura para líquidos y puertos de aire acondicionado incluidos termopar tipo K / Indicador de batería baja/apagado automático después de 15 minutos de inactividad.
-- Pinza amperimétrica True-RMS: este multímetro puede medir con precisión la corriente CA/CC, voltaje CA/CC, frecuencia o ciclo de trabajo, resistencia, capacitancia y también proporciona pruebas de diodo, continuidad y temperatura. True RMS para mediciones precisas en cargas no lineales. Fácil de usar para fábricas de laboratorio y hogar.
 - Función de detección NCV: detección de voltaje sin contacto, comprueba eficazmente el estado eléctrico a través de la medición de la intensidad del campo EM sin tocar ningún cable. El botón NCV está en el lado derecho. Simplemente coloca el pulgar sobre él y empuja.
 - LowZ y LPF: baja impedancia de entrada ayuda a prevenir lecturas falsas debido a la tensión fantasma. Filtro de paso bajo (LPF) para una medición precisa de señales de frecuencia variable cuando se miden motores y transformador. Para medir la corriente necesitas sujetar el medidor alrededor de uno de los cables y no todo el cable de alimentación.
 - Servicio de seguridad: estándar de seguridad IEC 61010-1, CAT III 600 V. Doble aislamiento. Servicio del producto de 36 meses. 7/24 Servicio al Cliente
+- Multifunción: pantalla LCD retroiluminada de dos colores – cuando el voltaje > 80 V, la corriente > 3 A, la pantalla LCD retroiluminada se vuelve roja para advertir de alto voltaje/linterna LED/medición de temperatura para líquidos y puertos de aire acondicionado incluidos termopar tipo K / Indicador de batería baja/apagado automático después de 15 minutos de inactividad.
+- Pinza amperimétrica True-RMS: este multímetro puede medir con precisión la corriente CA/CC, voltaje CA/CC, frecuencia o ciclo de trabajo, resistencia, capacitancia y también proporciona pruebas de diodo, continuidad y temperatura. True RMS para mediciones precisas en cargas no lineales. Fácil de usar para fábricas de laboratorio y hogar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z398YWF/?tag=tolees-21)
