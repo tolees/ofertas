@@ -28,9 +28,9 @@ Está [HyperX HX-MPFS-XL Fury S Pro - Alfombrilla de ratón para Gaming  tamaño
 
 ℹ️:
 
+- Bordes bien cosidos que no se deshilachan
 - Superficie de tela densa para un seguimiento óptico preciso
 - Llevables y resistentes
-- Bordes bien cosidos que no se deshilachan
 - Cuatro tamaños adecuados para la mayoría de espacios y estilos de juego
 - El caucho natural con textura en la parte inferior proporciona estabilidad
 

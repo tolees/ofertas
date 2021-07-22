@@ -28,10 +28,10 @@ Ahora mismo tienes [Ravensburger - memory Star Wars Mandalorian](https://www.ama
 
 🔎:
 
-- Contenido: cartas de juego
+- Desarrolla habilidades de observación y memoria
 - Para niños a partir de 4 años
 - Formato caja: 19x19x5 cm
-- Desarrolla habilidades de observación y memoria
+- Contenido: cartas de juego
 - El original memory Ravensburger con las imagenes de Star Wars Mandalorian
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087RGBTQQ/?tag=tolees-21)

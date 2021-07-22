@@ -29,7 +29,7 @@ Está [DeWalt DCD785N - Taladro Percutor 18 V  Negro  Amarillo](https://www.amaz
 ℹ️:
 
 - 2 velocidades
-- Velocidad 0-600/0-2000 rpm
 - Par de apriete 35 Nm
+- Velocidad 0-600/0-2000 rpm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006XBSXHW/?tag=tolees-21)
