@@ -29,8 +29,8 @@ Está [adidas Selección Española Temporada 2020/21 Camiseta Primera equipació
 ℹ️:
 
 - Luce un estampado abstracto diseñado a mano que rinde homenaje a la bandera Española
-- Camiseta de fútbol para hombre
-- Fabricada en tejido transpirable que mantiene la piel fresca y seca
 - Diseño de ajuste estándar y cuello de pico de canalé
+- Fabricada en tejido transpirable que mantiene la piel fresca y seca
+- Camiseta de fútbol para hombre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081QLJKPV/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Luke Medium Stretch Jeans  Azul  Fresh Roig   26W / 32L 
 
 🔎:
 
-- Estilo 5 bolsillos
 - Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Estilo 5 bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077NN8W2T/?tag=tolees-21)

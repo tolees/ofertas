@@ -28,9 +28,9 @@ Ahora mismo tienes [Corsair iCUE SP120 RGB PRO - Ventilador de chasis de 120mm  
 
 🔎:
 
-- Mantenga su sistema refrigerado: Potentes velocidades de ventilador de hasta 1400 RPM, lo que ofrece un flujo de aire de hasta 52 CFM
-- Control inteligente, posibilidades ilimitadas: Cree impresionantes patrones y efectos de iluminación con el potente software CORSAIR iCUE para dar vida a su sistema con la iluminación RGB dinámica
 - Eficiencia y estética: El aspa translúcida de 120 mm del ventilador proporciona un elevado flujo de aire y una gran presión estática, al tiempo que permite que su iluminación RGB destaque
 - 8 LED RGB direccionables individualmente: Complete su sistema de refrigeración CORSAIR SP RGB PRO con un ventilador adicional, equipado con ocho LED alrededor del eje
+- Control inteligente, posibilidades ilimitadas: Cree impresionantes patrones y efectos de iluminación con el potente software CORSAIR iCUE para dar vida a su sistema con la iluminación RGB dinámica
+- Mantenga su sistema refrigerado: Potentes velocidades de ventilador de hasta 1400 RPM, lo que ofrece un flujo de aire de hasta 52 CFM
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VGJMQLB/?tag=tolees-21)

@@ -29,7 +29,7 @@ En este momento está [Dockers Smart Supreme Flex Modern Chino Short  Pantalones
 🔎:
 
 - Tiene bragueta con cremallera
-- Queda justo por debajo de la cintura
 - Confeccionado con técnicas Water<Less, que reducen el consumo de agua durante el proceso de acabado
+- Queda justo por debajo de la cintura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089T8VYTK/?tag=tolees-21)
