@@ -29,8 +29,8 @@ Está [Guess Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidab
 ℹ️:
 
 - Movimiento Cuarzo, Display Analógico
-- Caja Material: Acero/Plateado
 - Especiales: Guess Watches Gents Cambridge
+- Caja Material: Acero/Plateado
 - Diámetro caja: 44MM/Sumergible: NO
 - Correa Material/Color: Acero/Plateado
 

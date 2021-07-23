@@ -29,8 +29,8 @@ En este momento está [Targus AWE77EU - Soporte para Tableta de 7-10" para repos
 🔎:
 
 - Correa ajustable para sujetar el dispositivo al reposacabezas
-- Cómoda forma de usar el dispositivo sin manos. Podrá ver películas, jugar a juegos o leer
-- Soporte ajustable con selector de sujeción para asegurar el iPad y tableta
 - Compatible con Apple iPad y la mayoría de tabletas con pantallas de 7-10"
+- Soporte ajustable con selector de sujeción para asegurar el iPad y tableta
+- Cómoda forma de usar el dispositivo sin manos. Podrá ver películas, jugar a juegos o leer
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008SOPYIS/?tag=tolees-21)

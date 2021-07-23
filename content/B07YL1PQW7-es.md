@@ -28,9 +28,9 @@ Ahora mismo tienes [Emporio Armani Reloj Analogico para Mujer de Cuarzo con Corr
 
 🔎:
 
-- Resistente al agua: 3 ATM
-- Ancho de la correa: 14mm; Circunferencia de la correa: 175+/- 5mm
 - Se presenta en caja de regalo Emporio Armani
+- Ancho de la correa: 14mm; Circunferencia de la correa: 175+/- 5mm
+- Resistente al agua: 3 ATM
 - Grosor de la caja: 6mm; Tamaño de la caja: 32mm
 - Material de la correa: Acero inoxidable
 

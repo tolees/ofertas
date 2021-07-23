@@ -29,9 +29,9 @@ Tienes [Aitsite Ventiladores USB Mini Ventilador de Mano 2000mAh Ventilador Port
 🔎:
 
 - Diseño de Ligero Portátil:USB mini fan pesa sólo 170g, puede poner en una bolsa dentro fácilmente. Y diseño portátil, se puede utilizar como ventilador de mano y como ventilador de mesa, se puede llevar fácilmente a otros lugares también. Sería un buen compañero para usted, cuando salga al aire libre, como viajar, escalar, acampar, hacer ejercicio, etc.
-- Diseño Unico:ventiladores USB un soporte para teléfono móvil desmontable,puede usarlo para apoyar su teléfono durante la pausa del almuerzo para liberar sus manos para ver videos.
-- Batería de 2000mAh Recargable：Ventiladores USB mini de mano con la batería de ion de litio recargable de 2600mAh. Funciona con un adaptador de salida de 5 V, cargador USB, y con una batería completamente cargada durante 10 horas en 1ª marcha, 6 horas en 2ª marcha, 3 horas en 3ª marcha.
 - 3 Velocidades Ajustables: El ventilador de mano tiene 3 velocidades de viento diferentes. Elija la velocidad adecuada del ventilador presionando el botón de encendido varias veces. El motor de alta calidad dentro del mini ventilador produce una gran potencia pero un sonido bajo. Este le ofrece más opciones en diferentes ambientes de temperatura.
 - Fácil de Usar:ventilador de mano tiene una interfaz USB y le proporcionaremos un cable de datos de 1 m.Puede usar el cable de carga USB (incluye) conectando a computadoras, bancos de energía, computadoras portátiles y otros dispositivos para disfrutar del viento fresco.
+- Diseño Unico:ventiladores USB un soporte para teléfono móvil desmontable,puede usarlo para apoyar su teléfono durante la pausa del almuerzo para liberar sus manos para ver videos.
+- Batería de 2000mAh Recargable：Ventiladores USB mini de mano con la batería de ion de litio recargable de 2600mAh. Funciona con un adaptador de salida de 5 V, cargador USB, y con una batería completamente cargada durante 10 horas en 1ª marcha, 6 horas en 2ª marcha, 3 horas en 3ª marcha.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08ZK9XGQB/?tag=tolees-21)
