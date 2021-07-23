@@ -28,8 +28,8 @@ Está [Funko - Pop! Moment: Game of Thrones - Daenerys & Jorah B2B w/Swords Figu
 
 ℹ️:
 
-- El artículo es adecuado para todos los fanáticos de Game of Thrones
 - El producto se envía en una caja ilustrada con ventana
+- El artículo es adecuado para todos los fanáticos de Game of Thrones
 - Figura de colección de la marca Funko
 - Recomendado para niños a partir de 3 años
 

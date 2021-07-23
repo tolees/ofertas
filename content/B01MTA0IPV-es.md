@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.61 % en Citizen Reloj Analógico para Mujer de Cu'
-date: 2021-07-01 07:49:52
+date: 2021-07-23 19:46:01
 image: 'https://m.media-amazon.com/images/I/41pAMjHu0rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Citizen'
 buyurl: 'https://www.amazon.es/dp/B01MTA0IPV/?tag=tolees-21'
 descuento: '40.61'
-average: '96.0970588235295'
+average: '96.1923943661973'
 ---
 
 Tienes [Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable EM0504-81A](https://www.amazon.es/dp/B01MTA0IPV/?tag=tolees-21) con un 40.61 % de descuento con precio de oferta de 88.49 EUR (original: 149.0 EUR) en el siguiente enlace!
@@ -28,10 +28,9 @@ Tienes [Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxid
 
 ℹ️:
 
-- Material de la carcasa: acero inoxidable plateado
-- Material de la correa: acero inoxidable, plata milanesa
-- Sumergible: 5 bares
-- Diámetro de la caja: 32 mm
-- Esfera: nácar con índices dorados
+- Accionamiento Eco-Drive: Eco-Drive es una tecnología central de Citizen que genera energía incluso en condiciones de poca luz y permite que los relojes funcionen durante seis meses incluso en la oscuridad
+- No requiere cambio de batería. Eco-Drive elimina la molestia y el coste de cambiar la batería regularmente
+- Número de calibre: E031
+- Dura más de 6 meses en la oscuridad. Una carga completa es suficiente para que la mayoría de los modelos Eco-Drive funcione durante más de seis meses en la oscuridad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MTA0IPV/?tag=tolees-21)
