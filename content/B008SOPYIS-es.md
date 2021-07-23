@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Targus AWE77EU - Soporte para Tableta de con un 44.29 % de descuento'
-date: 2020-08-06 10:17:40
-image: 'https://m.media-amazon.com/images/I/515sQ80u29L._SL400_.jpg'
+title: 'Targus AWE77EU - Soporte para Tableta de con un 53.26 % de descuento'
+date: 2021-07-23 15:42:30
+image: 'https://m.media-amazon.com/images/I/515sQ80u29L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B008SOPYIS-es Targus AWE77EU - Soporte para Tableta de 7-10" para...'
 sku: 'B008SOPYIS-es'
-tags: [  ]
-actualPrice: 14.29 EUR
+tags: [ 'Accesorios','Accesorios para tablets','Informática','Soportes para tablets','targus', ]
+actualPrice: 11.99 EUR
 currency: EUR
-price: 14.29
+price: 11.99
 comparePrice: 25.65 EUR
 prodname: 'Targus AWE77EU - Soporte para Tableta de 7-10" para reposacabezas  Color Negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Targus'
 buyurl: 'https://www.amazon.es/dp/B008SOPYIS/?tag=tolees-21'
-descuento: '44.29'
-average: '18.34285714285714'
+descuento: '53.26'
+average: '17.54875'
 ---
 
-En este momento está [Targus AWE77EU - Soporte para Tableta de 7-10" para reposacabezas  Color Negro](https://www.amazon.es/dp/B008SOPYIS/?tag=tolees-21) a 14.29 EUR (original: 25.65 EUR) (44.29 %  de descuento) en el siguiente enlace!
+En este momento está [Targus AWE77EU - Soporte para Tableta de 7-10" para reposacabezas  Color Negro](https://www.amazon.es/dp/B008SOPYIS/?tag=tolees-21) a 11.99 EUR (original: 25.65 EUR) (53.26 %  de descuento) en el siguiente enlace!
 
-[![Targus AWE77EU - Soporte para Tableta de](https://m.media-amazon.com/images/I/515sQ80u29L._SL400_.jpg)](https://www.amazon.es/dp/B008SOPYIS/?tag=tolees-21)
+[![Targus AWE77EU - Soporte para Tableta de](https://m.media-amazon.com/images/I/515sQ80u29L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B008SOPYIS/?tag=tolees-21)
 
 🔎:
 
+- Correa ajustable para sujetar el dispositivo al reposacabezas
+- Cómoda forma de usar el dispositivo sin manos. Podrá ver películas, jugar a juegos o leer
+- Soporte ajustable con selector de sujeción para asegurar el iPad y tableta
+- Compatible con Apple iPad y la mayoría de tabletas con pantallas de 7-10"
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008SOPYIS/?tag=tolees-21)
