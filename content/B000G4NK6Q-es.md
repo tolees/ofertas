@@ -28,9 +28,9 @@ Está [adidas Samba Classic  Zapatillas de Fútbol para Hombre  Negro  Black/Run
 
 ℹ️:
 
-- Tejido elástico.
-- Ventilación Climacool.
-- Largo por debajo del tobillo.
 - Cintura elástica.
+- Ventilación Climacool.
+- Tejido elástico.
+- Largo por debajo del tobillo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000G4NK6Q/?tag=tolees-21)

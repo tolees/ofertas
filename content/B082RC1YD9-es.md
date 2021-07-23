@@ -30,7 +30,7 @@ Tienes [Adidas Super Sala  Zapatillas Deportivas Fútbol Hombre  Verde  Core Bla
 
 - Cierre de cordones
 - Puntera reforzada
-- Zapatillas de malla de fútbol sala
 - Parte superior en malla y piel sintética
+- Zapatillas de malla de fútbol sala
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082RC1YD9/?tag=tolees-21)

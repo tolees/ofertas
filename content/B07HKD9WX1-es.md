@@ -28,11 +28,11 @@ Está [Estación meteorológica inalámbrica NATIONAL GEOGRAPHIC Multi Colour  0
 
 ℹ️:
 
-- Cambio de color seleccionable o según temperatura
-- Reloj DCF
-- Despertador, con gran tecla snooze
-- Datos de temperatura local actual
-- La Estación meteorológica inalámbrica NATIONAL GEOGRAPHIC cuenta con una pantalla que muestra los avisos en 256 colores.
 - Gran contraste de display gracias al LCD True Black
+- Reloj DCF
+- Datos de temperatura local actual
+- Despertador, con gran tecla snooze
+- Cambio de color seleccionable o según temperatura
+- La Estación meteorológica inalámbrica NATIONAL GEOGRAPHIC cuenta con una pantalla que muestra los avisos en 256 colores.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HKD9WX1/?tag=tolees-21)

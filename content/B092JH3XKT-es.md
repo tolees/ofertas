@@ -30,8 +30,8 @@ En este momento está [Cecotec Climatizador Evaporativo EnergySilence PureTech 6
 
 - ClimaCare 4en1: climatizador evaporativo 4 en 1 con función de frío, calor, ionizador y ventilador. IonFunction: incluye función ionizador que reestablece el equilibrio natural y purifica el aire mediante la emisión de iones positivos. SmartMode: modo de uso normal que optimiza el funcionamiento en cada función.
 - WaterControl: incluye IcePack y un tanque integrado de 12 litros con ventana frontal para controlar el nivel de agua. EnergySave: mayor eficiencia energética con un bajo consumo de solo 80 W en modo frío. UltraSilence System: mínimo nivel sonoro con un sistema más silencioso que otros aparatos del mercado.
-- EcoMode: modo Eco para un consumo más eficiente. SleepMode: modo sleep para momentos de descanso y horas nocturnas. Smart Control: mayor adaptabilidad con 3 niveles de intensidad en función calor y 2 niveles de velocidad en función ventilador.
 - AirFlow 500: gran caudal de aire de hasta 500 m³/h para refrigerar las estancias de 15 a 20 m² de forma rápida y uniforme. Auto-swing function: oscilación automática de las lamas de hasta 120º para proporcionar un mayor ángulo de aireación y maximizar la zona de frescor.
+- EcoMode: modo Eco para un consumo más eficiente. SleepMode: modo sleep para momentos de descanso y horas nocturnas. Smart Control: mayor adaptabilidad con 3 niveles de intensidad en función calor y 2 niveles de velocidad en función ventilador.
 - SmartCare System: humidifica el ambiente para mejorar la calidad del aire y permite el uso de repelentes y aromas en el agua para conseguir determinados efectos sobre el ambiente. Easy Control: sistema con pantalla LED muy fácil de manejar con un temporizador de hasta 12 horas. Incluye un mando para controlarlo de una forma fácil y cómoda.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B092JH3XKT/?tag=tolees-21)

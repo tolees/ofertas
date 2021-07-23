@@ -28,9 +28,9 @@ Ahora mismo tienes [NIKE Padded Goalie Pantalones Cortos De Portero  Hombre  Neg
 
 🔎:
 
-- Tejido: 80% poliéster / 20% spandex
-- Que absorbe el sudor Confort con relleno
-- acolchado articulados en las caderas proporciona absorción de impacto flexibles
 - la tecnología Dri-FIT ayuda a mantenerte seco y cómodo y se centró
+- Tejido: 80% poliéster / 20% spandex
+- acolchado articulados en las caderas proporciona absorción de impacto flexibles
+- Que absorbe el sudor Confort con relleno
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0886CYJN7/?tag=tolees-21)

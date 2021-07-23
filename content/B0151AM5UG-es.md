@@ -28,10 +28,10 @@ Tienes [Tenda F3 N300 - Router Inalámbrico WiFi  3 Antenas de 5 dBI  300 Mbps a
 
 ℹ️:
 
-- AP, WISP, WDS Bridge
 - VpN PPTP, L2PT
-- WISP , WPS, Band with control, Mac Add . Clone, gestión remota
-- 64/128bit WEP, WPA-PSK, WPA2-PSK, WPS support
 - 1 Puerto Wan
+- AP, WISP, WDS Bridge
+- 64/128bit WEP, WPA-PSK, WPA2-PSK, WPS support
+- WISP , WPS, Band with control, Mac Add . Clone, gestión remota
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0151AM5UG/?tag=tolees-21)

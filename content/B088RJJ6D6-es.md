@@ -28,10 +28,10 @@ Está [PUMA Ultra 4.2 IT Jr  Zapatillas Deportivas  Black/White/Yellow  37 EU](h
 
 ℹ️:
 
-- IT: Entrenamiento de interior
-- Caña baja
-- Empeine ligero y duradero de PU con detalles estampados y en relieve
 - Suela exterior de goma ultrarrápida que no deja huella, para una aceleración rápida
+- Empeine ligero y duradero de PU con detalles estampados y en relieve
 - Cierre con cordones para un ajuste ceñido
+- Caña baja
+- IT: Entrenamiento de interior
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088RJJ6D6/?tag=tolees-21)
