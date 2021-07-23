@@ -28,10 +28,10 @@ Está [Lacoste Reloj Analógico para Hombre de Cuarzo con Correa en Caucho 20110
 
 ℹ️:
 
-- Grosor de la caja de 11,1 mm; Diámetro de la caja: 42 mm
-- Esfera blanca
-- Tres manecillas
-- 5 ATM de resistencia al agua
 - Correa de silicona blanca con diseño petit piqué
+- 5 ATM de resistencia al agua
+- Grosor de la caja de 11,1 mm; Diámetro de la caja: 42 mm
+- Tres manecillas
+- Esfera blanca
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084QHC1GW/?tag=tolees-21)

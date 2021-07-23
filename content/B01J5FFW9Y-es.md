@@ -29,8 +29,8 @@ Tienes [Philips Daily HD2637/90 - Tostador 950w  Doble Ranura  Color Negro  Inox
 🔎:
 
 - Calentador de bollos integrado
-- Potencia 950 W
 - Funcion descongelar
 - Ranura extra grande, 10% más ancha
+- Potencia 950 W
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01J5FFW9Y/?tag=tolees-21)

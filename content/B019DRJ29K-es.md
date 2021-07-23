@@ -28,10 +28,10 @@ Tienes [HOMCOM Estanteria Metal Estantes 20x20x78cm 4 Cajones Cesta Mimbre Almac
 
 🔎:
 
-- Estanteria de mimbre diseño natural
-- Ideal para el almacenamiento diario y decoracion casa y oficina
-- Peso neto: 3.2kg , Peso bruto: 4.1kg
 - Armario con 4 cajones extraíbles de mimbre
+- Ideal para el almacenamiento diario y decoracion casa y oficina
+- Estanteria de mimbre diseño natural
 - Dimension total: 20 x 20 x 78 cm
+- Peso neto: 3.2kg , Peso bruto: 4.1kg
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019DRJ29K/?tag=tolees-21)

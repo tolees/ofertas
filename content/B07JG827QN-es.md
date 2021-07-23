@@ -28,9 +28,9 @@ Ahora mismo tienes [Depesche- Juego de Manualidades con Cartas secretas Ylvi y m
 
 🔎:
 
-- Diseño: Ylvi y los Minimoomis
 - En práctico estuche de plástico
 - Kit de manualidades para niñas
+- Diseño: Ylvi y los Minimoomis
 - Contenido: 35 cartas, 5 rollos de cinta decorativa y un dispensador
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JG827QN/?tag=tolees-21)

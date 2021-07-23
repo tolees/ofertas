@@ -29,8 +29,8 @@ Tienes [Quiksilver Ferris - Chaqueta Impermeable Con Capucha Para Hombre Chaquet
 🔎:
 
 - Aislante: aislante PrimaLoft Black Eco [Relleno: 200G cuerpo, 100G mangas y capucha]; tejido interior: Forro de sherpa y tafetán
+- Costuras recubiertas en zonas críticas; capucha fija; capucha ajustable; piel sintética desmontable en la capucha
 - 2 bolsillos en el pecho para calentar las manos; 2 bolsillos de parche con solapas en la parte inferior; bolsillo en la manga
 - Impermeabilidad: tecnología Quiksilver DryFlight 10K; tejido reciclado: Tejido otomano de poliéster reciclado.; corte: corte normal
-- Costuras recubiertas en zonas críticas; capucha fija; capucha ajustable; piel sintética desmontable en la capucha
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0893QJ9VC/?tag=tolees-21)

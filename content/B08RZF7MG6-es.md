@@ -28,10 +28,10 @@ Está [Funko - Figura Pop Keychain: The Mandalorian - The Mandalorian  53045 ](h
 
 ℹ️:
 
-- Colecciónalos todos
-- Descubre todos los demás productos Funko dedicados a esta colección
-- POP! Llavero de Funko
 - Cada llavero mide aproximadamente 5 cm de alto y viene empaquetado en una caja de exhibición de ventana
+- Colecciónalos todos
 - Funko POP! es el juguete del año 2018 Peoples Choice
+- POP! Llavero de Funko
+- Descubre todos los demás productos Funko dedicados a esta colección
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RZF7MG6/?tag=tolees-21)
