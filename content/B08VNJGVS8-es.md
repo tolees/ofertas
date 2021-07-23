@@ -28,8 +28,8 @@ En este momento está [Champion Legacy Classic Small Logo Sudadera con Capucha  
 
 🔎:
 
-- Bolsillo canguro
 - Logotipo pequeño clásico impreso en el pecho y "C" en la manga izquierda
+- Bolsillo canguro
 - Cintura y puños elásticos
 - Detalle metálico del cordón de ajuste con logotipo
 

@@ -28,11 +28,11 @@ Tienes [Panasonic Lumix DMC-G7KEC - Cámara Evil de 16 MP + Panasonic LUMIX H-H0
 
 ℹ️:
 
-- Apertura de f/1.7
-- Cámara sin espejo de objetivo único digital, EVIL, calidad de imagen, Fino, Estándar/MPO+Fine / MPO+Standard (con lente 3D en el sistema Micro Cuatro Tercios), función WiFi, modo de infraestructura
 - Montura para micro cuatro tercios
-- Resolución 4K: un mundo de posibilidades gracias a la grabación 4K; grabar con una calidad de detalle asombrosa, también podrás volver sobre el metraje y seleccionar fotografías de 8 megapíxeles
 - Tamaño del filtro de 4.6 cm
 - Modo autointeligente: La G7 se basa en la experiencia de generaciones de fotógrafos con detención de caras, configuración ISO, solo tienes que seleccionar el modo iA para capturar fotografías
+- Cámara sin espejo de objetivo único digital, EVIL, calidad de imagen, Fino, Estándar/MPO+Fine / MPO+Standard (con lente 3D en el sistema Micro Cuatro Tercios), función WiFi, modo de infraestructura
+- Apertura de f/1.7
+- Resolución 4K: un mundo de posibilidades gracias a la grabación 4K; grabar con una calidad de detalle asombrosa, también podrás volver sobre el metraje y seleccionar fotografías de 8 megapíxeles
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0949HDB5N/?tag=tolees-21)

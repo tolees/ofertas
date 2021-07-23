@@ -28,9 +28,9 @@ Tienes [Plameca - Policol One 30 Cápsulas Vegetales](https://www.amazon.es/dp/B
 
 🔎:
 
-- Contiene levadura de arroz rojo
 - Ayuda a mantener los niveles normales de colesterol
-- Con su extracto activo de monocolina K, gugul y alpiste
 - Protege el corazón y el hígado y elimina toxinas indeseables para el cuerpo
+- Con su extracto activo de monocolina K, gugul y alpiste
+- Contiene levadura de arroz rojo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01C44PSDI/?tag=tolees-21)

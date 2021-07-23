@@ -28,10 +28,10 @@ En este momento está [adidas Sudadera Modelo SQ21 Hood Marca](https://www.amazo
 
 🔎:
 
-- Capucha con cordón ajustable
-- Punto doble 100% poliéster reciclado
-- Puños y dobladillo de canalé
-- Bolsillo canguro
 - Tejido transpirable
+- Capucha con cordón ajustable
+- Puños y dobladillo de canalé
+- Punto doble 100% poliéster reciclado
+- Bolsillo canguro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VRTVBPQ/?tag=tolees-21)

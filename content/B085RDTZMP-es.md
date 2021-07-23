@@ -28,9 +28,9 @@ Tienes [HUAWEI E3372h-320 - LTE stick  color blanco](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Compatibilidad con categoría 4 de LTE para disfrutar de mayores velocidades de transferencia de datos de descarga (hasta 150 Mbps).
-- Alta conexión y mayor comodidad con el soporte para la interfaz web de HUAWEI HiLink.
 - Versión 6 del Protocolo de Internet (IPv6) superior al IPv4. Características más avanzadas y capacidad de proporcionar un número casi infinito de direcciones IP.
+- Alta conexión y mayor comodidad con el soporte para la interfaz web de HUAWEI HiLink.
+- Compatibilidad con categoría 4 de LTE para disfrutar de mayores velocidades de transferencia de datos de descarga (hasta 150 Mbps).
 - Diseño delgado, compacto y fácil de usar. Hecho con materiales en acabado mate para una sensación natural y cómoda.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085RDTZMP/?tag=tolees-21)
