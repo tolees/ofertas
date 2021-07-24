@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Square Enix - Kingdom Hearts Melody of M al 53.49 % de rebaja'
-date: 2021-07-21 18:43:13
+title: 'Square Enix - Kingdom Hearts Melody of M al 50.03 % de rebaja'
+date: 2021-07-24 18:03:33
 image: 'https://m.media-amazon.com/images/I/51nXJEzzibL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,27 +9,27 @@ author: 'tole.es'
 slug: 'B08HZSRHY9-es Square Enix - Kingdom Hearts Melody of Memory'
 sku: 'B08HZSRHY9-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','square enix', ]
-actualPrice: 27.9 EUR
+actualPrice: 29.98 EUR
 currency: EUR
-price: 27.9
+price: 29.98
 comparePrice: 59.99 EUR
 prodname: 'Square Enix - Kingdom Hearts Melody of Memory'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Square Enix'
 buyurl: 'https://www.amazon.es/dp/B08HZSRHY9/?tag=tolees-21'
-descuento: '53.49'
-average: '37.8107999999998'
+descuento: '50.03'
+average: '37.6572549019606'
 ---
 
-Tienes [Square Enix - Kingdom Hearts Melody of Memory](https://www.amazon.es/dp/B08HZSRHY9/?tag=tolees-21) con precio final de  27.9 EUR (original: 59.99 EUR) (53.49 %  de rebaja) aqui!
+Tienes [Square Enix - Kingdom Hearts Melody of Memory](https://www.amazon.es/dp/B08HZSRHY9/?tag=tolees-21) con precio final de  29.98 EUR (original: 59.99 EUR) (50.03 %  de rebaja) aqui!
 
 [![Square Enix - Kingdom Hearts Melody of M](https://m.media-amazon.com/images/I/51nXJEzzibL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08HZSRHY9/?tag=tolees-21)
 
 🔎:
 
+- Juega en solitario, con amigos en modo cooperativo o contra ellos en combates en línea multijugador
 - Más de 140 canciones y 20 personajes
 - Sumérgete en la historia de KINGDOM HEARTS
-- Juega en solitario, con amigos en modo cooperativo o contra ellos en combates en línea multijugador
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HZSRHY9/?tag=tolees-21)
