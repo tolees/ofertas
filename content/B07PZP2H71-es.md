@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taurus fresko 5b ventilador de techo con al 44.11 % de descuento'
-date: 2021-07-20 13:02:19
+date: 2021-07-25 07:56:45
 image: 'https://m.media-amazon.com/images/I/31KEWMTvUCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Taurus'
 buyurl: 'https://www.amazon.es/dp/B07PZP2H71/?tag=tolees-21'
 descuento: '44.11'
-average: '112.168333333333'
+average: '109.715714285714'
 ---
 
 Está [Taurus fresko 5b ventilador de techo con luz y mando a distancia  70 w  función verano/invierno  3 velocidades  120 cm de diámetro y 5 aspas](https://www.amazon.es/dp/B07PZP2H71/?tag=tolees-21) con 44.11 de descuento por 95.0 EUR (original: 169.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Taurus fresko 5b ventilador de techo con luz y mando a distancia  70 w  f
 
 ℹ️:
 
-- 70 W potencia del ventilador; 150W potencia del ventilador + bombilla
-- Temporizador programable hasta 8 horas para un funcionamiento solo durante el tiempo deseado
 - El diámetro que forman sus 5 aspas llega a 120 cm permitiendo de esta forma una buena circulación de aire en interiores de hasta 20 m2
+- 70 W potencia del ventilador; 150W potencia del ventilador + bombilla
 - 3 velocidades regulables con el mando a distancia para adaptarse a las necesidades de ventilación
 - Ventilador de techo 2 en 1 que circula el aire a la vez que ilumina la habitación sin interruptores; todo con solo un práctico mando a distancia (compatible con la instalación de un interruptor de pared para la luz
+- Temporizador programable hasta 8 horas para un funcionamiento solo durante el tiempo deseado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PZP2H71/?tag=tolees-21)

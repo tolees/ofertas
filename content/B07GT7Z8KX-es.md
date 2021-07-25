@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LAGARTO jabón pastilla natural pack 3 x  con un 53.82 % de descuento'
-date: 2021-07-19 15:41:15
+title: 'LAGARTO jabón pastilla natural pack 3 x  con un 53.49 % de descuento'
+date: 2021-07-25 07:40:46
 image: 'https://m.media-amazon.com/images/I/41LfPZhVviL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,24 +12,24 @@ tags: [ 'Cuidado y limpieza del hogar','Detergente en polvo para textiles','Prod
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6
-comparePrice: 5.63 EUR
+comparePrice: 5.59 EUR
 prodname: 'LAGARTO jabón pastilla natural pack 3 x 200 gr'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Lagarto'
 buyurl: 'https://www.amazon.es/dp/B07GT7Z8KX/?tag=tolees-21'
-descuento: '53.82'
-average: '3.3'
+descuento: '53.49'
+average: '3.125'
 ---
 
-En este momento está [LAGARTO jabón pastilla natural pack 3 x 200 gr](https://www.amazon.es/dp/B07GT7Z8KX/?tag=tolees-21) a 2.6 EUR (original: 5.63 EUR) (53.82 %  de descuento) en el siguiente enlace!
+En este momento está [LAGARTO jabón pastilla natural pack 3 x 200 gr](https://www.amazon.es/dp/B07GT7Z8KX/?tag=tolees-21) a 2.6 EUR (original: 5.59 EUR) (53.49 %  de descuento) en el siguiente enlace!
 
 [![LAGARTO jabón pastilla natural pack 3 x ](https://m.media-amazon.com/images/I/41LfPZhVviL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07GT7Z8KX/?tag=tolees-21)
 
 🔎:
 
 - La mejor calidad en productos de cuidado personal
-- Jabón plla natural lagarto 3x200 grs
 - Productos para el higiene y aseo, tanto para hombres como para mujeres
+- Jabón plla natural lagarto 3x200 grs
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GT7Z8KX/?tag=tolees-21)
