@@ -28,8 +28,8 @@ En este momento está [Levi s Relaxed Graphic Hoodie Sudadera  White  Boxtab Pop
 
 🔎:
 
+- A estrenar y genuina. Somos un vendedor autorizado de Levis.
 - Ver descripción del producto para obtener más información.
 - Levis Blanco Sudadera con capucha de gráfico relajado
-- A estrenar y genuina. Somos un vendedor autorizado de Levis.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TJ9S3JC/?tag=tolees-21)

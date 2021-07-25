@@ -28,11 +28,11 @@ Está [AmmToo - Tiras LED  12M 39.37ft Bluetooth Luces LED Música RGB 5050  Mus
 
 ℹ️:
 
-- ❤ 【Cortable y conectable】Las tiras de luces LED se pueden cortar fácilmente cada 3 LED a lo largo de las marcas de corte. Por lo tanto, puede comprar algunos conectores para combinar longitudes y tamaños con su escritorio, cama, TV, computadora interna (el paquete NO INCLUYE el conector sin separación)
 - ❤ 【12V Stromversorgung】12V 3A EU-Stecker mit Schalter, bequem und praktisch, schalten Sie den Lichtstreifen jederzeit
-- ❤ 【Sincronizar con música】la iluminación se sincroniza con el ritmo de la música, los colores y la velocidad ajustándose automáticamente en base al ritmo y la melodía. Tiras de luces LED que cambian de color y se sincronizan con el ritmo del sonido y la música. [Fácil de usar e instalar]: Cinta flexible para curvarse alrededor de curvas, Plug and play sin cableado. Cinta trasera autoadhesiva para una aplicación segura y fácil. Luz de tira de 256 niveles RGB
 - ❤ 【Múltiples escenas disponibles】 las luces de tira LED pueden utilizar para decorar su comedor, dormitorio, piso de arriba, cocina, porche, escritorio de ordenador y salas de estar, especialmente para fiestas y eventos como Navidad, Halloween, fiestas y más . Es un gran regalo para su familia y amigos
 - ❤ 【DIY Multi Farben & 6 Modi】Mit 40-Tasten Fernbedienung können Sie die Helligkeit, Farbe, Modi und Geschwindigkeit wechseln. Es gibt 16 voreingestellte Farbe und 6 Modi. Sie können auch 3 DIY Farben auf ihre Bedürfnisse und gewünschte Atmosphäre selbst basteln. Jede Farbe ist dimmbar. Perfekt für Weihnachtsfeier, Halloween, Hochzeit, Party, Bühnenlicht usw
+- ❤ 【Cortable y conectable】Las tiras de luces LED se pueden cortar fácilmente cada 3 LED a lo largo de las marcas de corte. Por lo tanto, puede comprar algunos conectores para combinar longitudes y tamaños con su escritorio, cama, TV, computadora interna (el paquete NO INCLUYE el conector sin separación)
 - ❤ 【Servicio de calidad】También obtiene nuestro servicio al cliente súper amigable y soporte técnico de por vida. Así que no dude en contactarnos si tiene alguna pregunta o solicitud
+- ❤ 【Sincronizar con música】la iluminación se sincroniza con el ritmo de la música, los colores y la velocidad ajustándose automáticamente en base al ritmo y la melodía. Tiras de luces LED que cambian de color y se sincronizan con el ritmo del sonido y la música. [Fácil de usar e instalar]: Cinta flexible para curvarse alrededor de curvas, Plug and play sin cableado. Cinta trasera autoadhesiva para una aplicación segura y fácil. Luz de tira de 256 niveles RGB
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08JQGJN46/?tag=tolees-21)

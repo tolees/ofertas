@@ -28,9 +28,9 @@ Tienes [Producto Oficial FC Barcelona Bandera FCBARCELONA Chess 150X100CM](https
 
 🔎:
 
-- Material:100% Poliéster
-- 100% Producto Oficial Licenciado FC Barcelona-5004BACH
-- Producto ID Oficial: 8435047880469
 - Tamaño: 150*100 CM.
+- Material:100% Poliéster
+- Producto ID Oficial: 8435047880469
+- 100% Producto Oficial Licenciado FC Barcelona-5004BACH
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D6CMK44/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Levi s O.G Batwing Polo  Clarkia Navy Peony  XS para Hombre](https://www
 
 🔎:
 
-- Manga corta
-- Housemark - Polo
 - Encuadernación de
+- Housemark - Polo
+- Manga corta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0897XXGG4/?tag=tolees-21)

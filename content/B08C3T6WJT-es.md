@@ -29,8 +29,8 @@ Está [SD toys Mazinger Z Figura con LUZ 30 cm  SDTSDT22753 ](https://www.amazon
 ℹ️:
 
 - Figura fabricada en PVC mide 30 cm
-- Para los fans de esta serie de animación
-- De la marca SD TOYS
 - Nueva figura Mazinger con luz; se iluminan los ojos y el pecho
+- De la marca SD TOYS
+- Para los fans de esta serie de animación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08C3T6WJT/?tag=tolees-21)

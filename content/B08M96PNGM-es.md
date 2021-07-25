@@ -28,8 +28,8 @@ Está [adidas Hoops 2.0  Basketball Shoe Hombre  Core Black/Footwear White/Grey 
 
 ℹ️:
 
-- Cordones de zapatos
 - La parte superior de cuero sintético
+- Cordones de zapatos
 - Malla superior
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08M96PNGM/?tag=tolees-21)
