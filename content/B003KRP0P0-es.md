@@ -28,10 +28,10 @@ Tienes [Invicta Pro Diver - SCUBA 6983 Reloj para Hombre Cuarzo - 48mm](https://
 
 ℹ️:
 
-- 2 años de garantía Invicta
-- Resistencia a la presión de aqua de 10 bares
 - Esta modelo funciona con un movimiento de Cuarzo preciso
-- El Invicta 6983 tiene una caja de acero inoxidable de 48 millimetros con una esfera azul
+- Resistencia a la presión de aqua de 10 bares
 - Este modelo es parte de la colección Invicta Pro Diver - SCUBA
+- 2 años de garantía Invicta
+- El Invicta 6983 tiene una caja de acero inoxidable de 48 millimetros con una esfera azul
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003KRP0P0/?tag=tolees-21)
