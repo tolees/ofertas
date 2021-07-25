@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.75 % en Hama Star 05 - Trípode para cámaras foto'
-date: 2021-07-24 18:41:11
+date: 2021-07-25 19:55:31
 image: 'https://m.media-amazon.com/images/I/41zRHLTIiwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hama'
 buyurl: 'https://www.amazon.es/dp/B000EBFN70/?tag=tolees-21'
 descuento: '59.75'
-average: '11.3673333333333'
+average: '11.3122950819672'
 ---
 
 Tienes [Hama Star 05 - Trípode para cámaras foto/video  106.5 cm  aluminio  cabeza 3D  color dorado/negro  020509 ](https://www.amazon.es/dp/B000EBFN70/?tag=tolees-21) con un 59.75 % de descuento con precio de oferta de 8.01 EUR (original: 19.9 EUR) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [Hama Star 05 - Trípode para cámaras foto/video  106.5 cm  aluminio  ca
 ℹ️:
 
 - Viene con rótula 3D
+- Tiene nivel de burbuja
 - Está disponible con 4 patas/secciones
 - Incluye bolsa de transporte
-- Tiene nivel de burbuja
 - Tipo de articulo: trípodes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000EBFN70/?tag=tolees-21)
