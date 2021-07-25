@@ -28,8 +28,8 @@ Está [Jack & Jones Jjicody Jjspencer WW Noos Pantalones  Azul  Navy Blazer   W3
 
 ℹ️:
 
-- Designer: JACK&JONES
-- Artículo: 12125506
 - Color: azul
+- Artículo: 12125506
+- Designer: JACK&JONES
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0722W1FSC/?tag=tolees-21)

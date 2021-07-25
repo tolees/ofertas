@@ -28,10 +28,10 @@ En este momento está [Proyector portátil Nebula Mars II Pro de 500 lúmenes AN
 
 🔎:
 
-- Cuanto más brillante, mejor: la tecnología DLP IntelliBright proyecta una radiante imagen de 500 lúmenes ANSI con una nítida resolución de 720p para una claridad de vídeo impresionante.
-- NOTA: El contenido protegido por derechos de autor de Hulu, Netflix y otras plataformas similares NO SE PUEDE reflejar ni transmitir. Chromecast no es compatible.
 - Ideal para casa: con la imagen de 150 pulgadas de Mars II Pro nunca volverás a aburrirte en casa. Ve películas, asiste a clases en línea o mantén a los niños entretenidos durante horas con vídeos educativos y dibujos animados.
+- NOTA: El contenido protegido por derechos de autor de Hulu, Netflix y otras plataformas similares NO SE PUEDE reflejar ni transmitir. Chromecast no es compatible.
 - Compatible con tus plataformas favoritas: reproduce contenido de YouTube, Netflix y muchas plataformas más con Android 7.1 y disfruta de horas y horas de entretenimiento con tu proyector portátil.
 - Sonido cinematográfico: los diafragmas de sonido dobles de 10 W trabajan al unísono para generar un sonido espectacular con bajos potentes y resonantes, de modo que ofrecen una experiencia de proyección en exteriores realmente inmersiva.
+- Cuanto más brillante, mejor: la tecnología DLP IntelliBright proyecta una radiante imagen de 500 lúmenes ANSI con una nítida resolución de 720p para una claridad de vídeo impresionante.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W6TL3ZR/?tag=tolees-21)

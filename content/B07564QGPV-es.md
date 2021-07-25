@@ -29,9 +29,9 @@ Tienes [Superga Classic  Zapatillas  Verde  Green Capulet Olive  35 EU](https://
 🔎:
 
 - lona.
-- Cordones.
-- textil.
 - Goma.
 - Sin talón.
+- Cordones.
+- textil.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07564QGPV/?tag=tolees-21)
