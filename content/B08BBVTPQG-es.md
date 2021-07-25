@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Redmond III Waterproof  Zapatil con un 37.78 % de descuento'
-date: 2021-07-08 10:28:13
+date: 2021-07-25 13:16:21
 image: 'https://m.media-amazon.com/images/I/41I9fuJTiZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
