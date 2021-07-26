@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Cartera de Viaje para Hombre  diseñ con un 50.00 % de descuento'
-date: 2021-07-24 01:37:39
+date: 2021-07-26 07:43:54
 image: 'https://m.media-amazon.com/images/I/41+bqi+NlCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

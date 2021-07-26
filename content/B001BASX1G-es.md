@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KWB 49248630 Broca de HSS-cobalto para m al 77.47 % de descuento'
-date: 2021-06-26 06:58:21
+date: 2021-07-26 07:06:14
 image: 'https://m.media-amazon.com/images/I/21lS5xhZQBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

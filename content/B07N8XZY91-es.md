@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Head Promotion Cap al 65.33 % de descuento'
-date: 2021-07-05 05:51:34
+date: 2021-07-26 07:12:43
 image: 'https://m.media-amazon.com/images/I/41uCixTp9LS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Head Promotion Cap](https://www.amazon.es/dp/B07N8XZY91/?tag=tolees-21) c
 
 ℹ️:
 
-- Agujeros en el tejido para una máxima transpirabilidad
 - Logotipo de cabeza bordado en la parte delantera
 - Hecho de material de algodón
+- Agujeros en el tejido para una máxima transpirabilidad
 - Gran gorra para cualquier ocasión
 - Cierre ajustable en la parte trasera
 
