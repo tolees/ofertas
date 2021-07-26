@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Solac SW8221 Cotton 12.2 - Máquina de co con un 45.59 % de descuento'
-date: 2021-07-25 07:43:36
+date: 2021-07-26 17:35:30
 image: 'https://m.media-amazon.com/images/I/41tdkuaY+4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Solac SW8221 Cotton 12.2 - Máquina de coser. 12 puntadas
 
 🔎:
 
-- 12 TIPOS DE PUNTADA: la máquina de coser de Solac incorpora 12 puntadas básicas y decorativas que podrás realizar con solo girar el selector de puntada
-- BRAZO LIBRE: ideal para coser de forma tubular pantalones, puños, guantes… Una característica que permite extraer parte de la zona de trabajo y coser de forma circular cómodamente
-- CORTAHÍLOS: máxima comodidad para ti. Cotton 12.0 tiene cortahílos integrado. Todo lo que necesitas sin moverte de tu Cotton
 - REGULADOR DE TENSIÓN DEL HILO: escoge entre sus nueve posiciones distintas y regula la tensión del hilo según cada tejido y puntada. ¡Disfruta creando una gran variedad de patrones!
+- CORTAHÍLOS: máxima comodidad para ti. Cotton 12.0 tiene cortahílos integrado. Todo lo que necesitas sin moverte de tu Cotton
 - ACCESORIOS: prensatela para botones, aguja de repuesto, 3 bobinas de metal, 2 hilos y enhebrador. En definitiva, todo lo que necesitas para empezar a crear des del minuto 0
+- BRAZO LIBRE: ideal para coser de forma tubular pantalones, puños, guantes… Una característica que permite extraer parte de la zona de trabajo y coser de forma circular cómodamente
+- 12 TIPOS DE PUNTADA: la máquina de coser de Solac incorpora 12 puntadas básicas y decorativas que podrás realizar con solo girar el selector de puntada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PMYYB3Z/?tag=tolees-21)
