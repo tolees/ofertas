@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Max White Expert Enjuague - 250  al 61.54 % de rebaja'
-date: 2021-07-19 10:04:17
+date: 2021-07-26 06:28:48
 image: 'https://m.media-amazon.com/images/I/41ITUjZbSyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

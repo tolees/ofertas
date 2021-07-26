@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sanex Dermo Extra-Control Desodorante Ro con un 53.14 % de descuento'
-date: 2021-06-30 05:29:57
+title: 'Sanex Dermo Extra-Control Desodorante Ro con un 56.29 % de descuento'
+date: 2021-07-26 06:43:30
 image: 'https://m.media-amazon.com/images/I/41h91RutcuS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B00XAC6RT8-es Sanex Dermo Extra-Control Desodorante Roll-on 50 ml'
 sku: 'B00XAC6RT8-es'
 tags: [ 'Baño e higiene personal','Belleza','Desodorantes','sanex', ]
-actualPrice: 1.49 EUR
+actualPrice: 1.39 EUR
 currency: EUR
-price: 1.49
+price: 1.39
 comparePrice: 3.18 EUR
 prodname: 'Sanex Dermo Extra-Control Desodorante Roll-on  50 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sanex'
 buyurl: 'https://www.amazon.es/dp/B00XAC6RT8/?tag=tolees-21'
-descuento: '53.14'
-average: '1.55'
+descuento: '56.29'
+average: '1.52333333333333'
 ---
 
-En este momento está [Sanex Dermo Extra-Control Desodorante Roll-on  50 ml](https://www.amazon.es/dp/B00XAC6RT8/?tag=tolees-21) a 1.49 EUR (original: 3.18 EUR) (53.14 %  de descuento) en el siguiente enlace!
+En este momento está [Sanex Dermo Extra-Control Desodorante Roll-on  50 ml](https://www.amazon.es/dp/B00XAC6RT8/?tag=tolees-21) a 1.39 EUR (original: 3.18 EUR) (56.29 %  de descuento) en el siguiente enlace!
 
 [![Sanex Dermo Extra-Control Desodorante Ro](https://m.media-amazon.com/images/I/41h91RutcuS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00XAC6RT8/?tag=tolees-21)
 
