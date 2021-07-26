@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dove Original  Desodorante 0% aluminio - con un 38.15 % de descuento'
-date: 2021-07-24 06:32:34
+date: 2021-07-26 09:58:27
 image: 'https://m.media-amazon.com/images/I/41IdlQYuTqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dove'
 buyurl: 'https://www.amazon.es/dp/B07J5QF6T3/?tag=tolees-21'
 descuento: '38.15'
-average: '10.568'
+average: '10.4472727272727'
 ---
 
 En este momento está [Dove Original  Desodorante 0% aluminio - 6 de 50 ml.  Total: 300 ml. ](https://www.amazon.es/dp/B07J5QF6T3/?tag=tolees-21) a 9.24 EUR (original: 14.94 EUR) (38.15 %  de descuento) en el siguiente enlace!
