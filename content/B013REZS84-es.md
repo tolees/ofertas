@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Babaria Cebolla Antioxidante - Champú  6 al 46.02 % de rebaja'
-date: 2021-07-14 14:30:25
+date: 2021-07-26 14:15:57
 image: 'https://m.media-amazon.com/images/I/31zeB-XWxES._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Babaria'
 buyurl: 'https://www.amazon.es/dp/B013REZS84/?tag=tolees-21'
 descuento: '46.02'
-average: '2.28379310344827'
+average: '2.28899999999999'
 ---
 
 Tienes [Babaria Cebolla Antioxidante - Champú  600 ml + 100 ml](https://www.amazon.es/dp/B013REZS84/?tag=tolees-21) con precio final de  2.44 EUR (original: 4.52 EUR) (46.02 %  de rebaja) aqui!

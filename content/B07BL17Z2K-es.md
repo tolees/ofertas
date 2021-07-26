@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 997H Core  Zapatillas Hombre al 50.00 % de descuento'
-date: 2021-07-11 01:50:56
+date: 2021-07-26 14:50:49
 image: 'https://m.media-amazon.com/images/I/41vxcVYoUTS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B07BL17Z2K/?tag=tolees-21'
 descuento: '50.00'
-average: '51.2244444444444'
+average: '50.602'
 ---
 
 Ahora mismo tienes [New Balance 997H Core  Zapatillas Hombre  Black  42 EU](https://www.amazon.es/dp/B07BL17Z2K/?tag=tolees-21) a 45.0 EUR (original: 90.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [New Balance 997H Core  Zapatillas Hombre  Black  42 EU](http
 
 🔎:
 
-- Composición: Empeine de malla/ante
-- Cierre: Cordones
-- Tipo de tacón: Plano
-- Revestimiento: Tela
 - Material de la suela: Sintético
+- Tipo de tacón: Plano
 - Material exterior: Cuero
+- Revestimiento: Tela
+- Cierre: Cordones
+- Composición: Empeine de malla/ante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BL17Z2K/?tag=tolees-21)
