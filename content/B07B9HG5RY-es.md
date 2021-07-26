@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.48 % en Edge Entertainment-Dream on-español  Mul'
-date: 2021-07-03 12:15:51
+date: 2021-07-26 11:15:03
 image: 'https://m.media-amazon.com/images/I/51lmM-chiRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B07B9HG5RY/?tag=tolees-21'
 descuento: '57.48'
-average: '8.95421052631579'
+average: '8.9315'
 ---
 
 Tienes [Edge Entertainment-Dream on-español  Multicolor  EECMDO01 ](https://www.amazon.es/dp/B07B9HG5RY/?tag=tolees-21) con un 57.48 % de descuento con precio de oferta de 8.5 EUR (original: 19.99 EUR) en el siguiente enlace!

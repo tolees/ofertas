@@ -29,9 +29,9 @@ Tienes [PUMA Liga Baselayer Long Tight Pants  Hombre  Electric Blue Lemonade  XX
 🔎:
 
 - Material de compresión para mejorar el rendimiento
+- Slim Fit
+- tela elastano para una elasticidad duradera
 - dryCELL & # x202 F;: funcional que transporte la transpiración hacia el exterior
 - Lightweight
-- tela elastano para una elasticidad duradera
-- Slim Fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07864WMHL/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger One-Piece Halter Traje de Bao de una Sola Pie
 
 🔎:
 
-- Este producto se produce de forma sostenible
 - Este es un producto original y auténtico de Tommy Hilfiger
+- Este producto se produce de forma sostenible
 - Tommy Hilfiger Halter para mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CGQ7GT2/?tag=tolees-21)
