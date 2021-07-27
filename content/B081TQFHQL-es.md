@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'adidas Fef Camiseta Polo  Hombre  Colleg al 59.49 % de descuento'
-date: 2020-08-30 12:56:23
-image: 'https://m.media-amazon.com/images/I/31VsiCNfelL._SL400_.jpg'
+title: 'adidas Selección Española Temporada 2020 al 49.99 % de descuento'
+date: 2021-07-27 08:34:44
+image: 'https://m.media-amazon.com/images/I/31VsiCNfelL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B081TQFHQL-es adidas Fef Camiseta Polo Hombre Collegiate Navy L'
+slug: 'B081TQFHQL-es adidas Selección Española Temporada 2020/21 Polo Unisex...'
 sku: 'B081TQFHQL-es'
-tags: [  ]
-actualPrice: 18.21 EUR
+tags: [ 'Deportes y aire libre','Golf','Polos de golf para hombre','Ropa de golf','Ropa de golf para hombre','Ropa y equipo para deportes','adidas', ]
+actualPrice: 22.5 EUR
 currency: EUR
-price: 18.21
-comparePrice: 44.95 EUR
-prodname: 'adidas Fef Camiseta Polo  Hombre  Collegiate Navy  L'
+price: 22.5
+comparePrice: 44.99 EUR
+prodname: 'adidas Selección Española Temporada 2020/21 Polo  Unisex  Collegiate Navy  L'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B081TQFHQL/?tag=tolees-21'
-descuento: '59.49'
-average: '18.21'
+descuento: '49.99'
+average: '19.64'
 ---
 
-Está [adidas Fef Camiseta Polo  Hombre  Collegiate Navy  L](https://www.amazon.es/dp/B081TQFHQL/?tag=tolees-21) con 59.49 de descuento por 18.21 EUR (original: 44.95 EUR) en el siguiente enlace!
+Está [adidas Selección Española Temporada 2020/21 Polo  Unisex  Collegiate Navy  L](https://www.amazon.es/dp/B081TQFHQL/?tag=tolees-21) con 49.99 de descuento por 22.5 EUR (original: 44.99 EUR) en el siguiente enlace!
 
-[![adidas Fef Camiseta Polo  Hombre  Colleg](https://m.media-amazon.com/images/I/31VsiCNfelL._SL400_.jpg)](https://www.amazon.es/dp/B081TQFHQL/?tag=tolees-21)
+[![adidas Selección Española Temporada 2020](https://m.media-amazon.com/images/I/31VsiCNfelL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B081TQFHQL/?tag=tolees-21)
 
 ℹ️:
 
+- Two-button flap
+- Regular fit
+- Climalite anti-humidity fabric
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081TQFHQL/?tag=tolees-21)
