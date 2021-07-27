@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.86 % en Kingston A400 SSD SA400S37/960G - Disco '
-date: 2021-07-23 18:27:40
+date: 2021-07-27 21:35:08
 image: 'https://m.media-amazon.com/images/I/41zwH0Rh3EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B079XC5PVV/?tag=tolees-21'
 descuento: '49.86'
-average: '88.0433333333333'
+average: '87.6290322580645'
 ---
 
 Tienes [Kingston A400 SSD SA400S37/960G - Disco duro sólido interno 2.5" SATA 960GB](https://www.amazon.es/dp/B079XC5PVV/?tag=tolees-21) con un 49.86 % de descuento con precio de oferta de 75.2 EUR (original: 149.99 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [Kingston A400 SSD SA400S37/960G - Disco duro sólido interno 2.5" SATA 9
 
 ℹ️:
 
-- Capacidad del disco duro: 960 GB
-- Rendimiento óptimo para la transferencia de archivos
 - Velocidad de grabación: 450 MB/s
+- Rendimiento óptimo para la transferencia de archivos
+- Capacidad del disco duro: 960 GB
 - Fiable y resistente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079XC5PVV/?tag=tolees-21)

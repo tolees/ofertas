@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials Tech Stretch Tank Athl al 42.38 % de descuento'
-date: 2021-07-24 13:40:16
+date: 2021-07-27 20:23:36
 image: 'https://m.media-amazon.com/images/I/31i9LkyFHhS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Amazon Essentials Tech Stretch Tank Athletic-Shirts  Rojo  US S  EU S ](h
 
 ℹ️:
 
+- Una marca de Amazon
 - Holgado en el pecho y la cintura
 - Tessuto lavorato a maglia anti-umidità, ad asciugatura rapida, ultra morbido con una delicata elasticità
-- Una marca de Amazon
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FKWV5J1/?tag=tolees-21)

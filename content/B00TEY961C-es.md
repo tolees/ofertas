@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sisley Paris - Sisley - Perfilador de la al 38.54 % de descuento'
-date: 2021-07-11 17:45:03
+date: 2021-07-27 20:33:18
 image: 'https://m.media-amazon.com/images/I/31MAHSM61wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Sisley Paris - Sisley - Perfilador de labios Phyto-Levres Perfect  Beige 
 
 ℹ️:
 
-- Gama: 7938235058
-- Color: Rojos
 - Aplicación: Aplicar sobre el contorno de labios y sobre toda la superficie.
 - Cobertura: Larga duración
+- Gama: 7938235058
+- Color: Rojos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00TEY961C/?tag=tolees-21)
