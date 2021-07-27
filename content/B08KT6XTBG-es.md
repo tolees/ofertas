@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tesura Games - Ghost of a Tale - Collect al 35.30 % de descuento'
-date: 2021-07-21 21:49:16
+date: 2021-07-27 09:18:11
 image: 'https://m.media-amazon.com/images/I/51NA9s78IyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tesura Games'
 buyurl: 'https://www.amazon.es/dp/B08KT6XTBG/?tag=tolees-21'
 descuento: '35.30'
-average: '37.129'
+average: '36.7527272727273'
 ---
 
 Está [Tesura Games - Ghost of a Tale - Collector S Edition](https://www.amazon.es/dp/B08KT6XTBG/?tag=tolees-21) con 35.30 de descuento por 32.99 EUR (original: 50.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Tesura Games - Ghost of a Tale - Collector S Edition](https://www.amazon.
 
 ℹ️:
 
-- Explora imponentes escenarios
-- Usa el sigilo para sobrevivir
-- Ghost of a Tale Collectors Edition incluye: Copia del juego para PS4, Libro de Arte de 100 páginas, Disco con la banda sonora original, Set de Cartas de personajes, Pin Exclusivo y Figura Papercraft de Tilo
 - Utiliza tus habilidades para solucionar los problemas
 - El disfraz adecuado convertirá a los enemigos en aliados
+- Ghost of a Tale Collectors Edition incluye: Copia del juego para PS4, Libro de Arte de 100 páginas, Disco con la banda sonora original, Set de Cartas de personajes, Pin Exclusivo y Figura Papercraft de Tilo
+- Usa el sigilo para sobrevivir
+- Explora imponentes escenarios
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KT6XTBG/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PNY FD16GATT4-EF - Memoria USB 2.0 de 16 al 53.52 % de descuento'
-date: 2021-07-26 08:40:47
+date: 2021-07-27 09:04:24
 image: 'https://m.media-amazon.com/images/I/41B8QztagcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PNY'
 buyurl: 'https://www.amazon.es/dp/B00TPG6P22/?tag=tolees-21'
 descuento: '53.52'
-average: '3.89014925373135'
+average: '3.89029411764707'
 ---
 
 Ahora mismo tienes [PNY FD16GATT4-EF - Memoria USB 2.0 de 16 GB  Negro](https://www.amazon.es/dp/B00TPG6P22/?tag=tolees-21) a 3.9 EUR (original: 8.39 EUR) (53.52 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [PNY FD16GATT4-EF - Memoria USB 2.0 de 16 GB  Negro](https://
 
 🔎:
 
+- Funciona con Windows 7, Windows 8, Windows Vista, Windows XP, Windows 2000, Mac OS 10.3 y posterior, Linux kernel 2.4+
 - Capacidad : 16 GB
 - Unidad flash USB 2.0
-- Funciona con Windows 7, Windows 8, Windows Vista, Windows XP, Windows 2000, Mac OS 10.3 y posterior, Linux kernel 2.4+
 - Diseño sin capuchón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00TPG6P22/?tag=tolees-21)

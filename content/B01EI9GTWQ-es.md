@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Gazelle  Zapatillas de Deporte Un al 50.03 % de rebaja'
-date: 2021-07-18 14:40:00
+date: 2021-07-27 10:38:38
 image: 'https://m.media-amazon.com/images/I/41WUyQ9DkFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B01EI9GTWQ/?tag=tolees-21'
 descuento: '50.03'
-average: '68.9364999999999'
+average: '67.9133333333332'
 ---
 
 Tienes [adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Collegiate Navy/White/Gold Metalic  36 EU](https://www.amazon.es/dp/B01EI9GTWQ/?tag=tolees-21) con precio final de  47.45 EUR (original: 94.95 EUR) (50.03 %  de rebaja) aqui!
@@ -28,11 +28,11 @@ Tienes [adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Collegiate Navy/Whi
 
 🔎:
 
-- Adecuado para: unisex-adulto
-- Cierre: cordones
-- Material interior: tela
-- Talla: 36
 - Material exterior: cuero
 - Material de la suela: goma
+- Cierre: cordones
+- Adecuado para: unisex-adulto
+- Talla: 36
+- Material interior: tela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01EI9GTWQ/?tag=tolees-21)
