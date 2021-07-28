@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Classic Leather - Zapatillas de c al 53.87 % de descuento'
-date: 2021-07-26 22:07:18
+date: 2021-07-28 16:13:58
 image: 'https://m.media-amazon.com/images/I/41C2oSsCT4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B00XJYW0A2/?tag=tolees-21'
 descuento: '53.87'
-average: '44.1104761904762'
+average: '43.9913636363636'
 ---
 
 Ahora mismo tienes [Reebok Classic Leather - Zapatillas de cuero para hombre  color negro  black / gum 2   talla 40](https://www.amazon.es/dp/B00XJYW0A2/?tag=tolees-21) a 41.49 EUR (original: 89.95 EUR) (53.87 %  de descuento) en el siguiente enlace!
