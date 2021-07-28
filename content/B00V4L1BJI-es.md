@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas - Get Ready - Aftershave para hom al 48.48 % de descuento'
-date: 2021-07-08 08:05:05
+date: 2021-07-28 19:50:44
 image: 'https://m.media-amazon.com/images/I/51ru1vOK56L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B00V4L1BJI/?tag=tolees-21'
 descuento: '48.48'
-average: '5.57333333333333'
+average: '5.43285714285714'
 ---
 
 Está [Adidas - Get Ready - Aftershave para hombres - 100 ml](https://www.amazon.es/dp/B00V4L1BJI/?tag=tolees-21) con 48.48 de descuento por 4.59 EUR (original: 8.91 EUR) en el siguiente enlace!
