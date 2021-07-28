@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Vans SS20 Mochila Antigua SKOOL III OS C'
-date: 2021-07-23 11:30:33
+date: 2021-07-28 12:54:54
 image: 'https://m.media-amazon.com/images/I/41JRzEG2++L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B07QL1L5RV/?tag=tolees-21'
 descuento: '50.00'
-average: '21.6181395348838'
+average: '21.5586363636364'
 ---
 
 Tienes [Vans SS20 Mochila Antigua SKOOL III OS Classic Camo](https://www.amazon.es/dp/B07QL1L5RV/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 19.0 EUR (original: 38.0 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Vans SS20 Mochila Antigua SKOOL III OS Classic Camo](https://www.amazon.
 
 ℹ️:
 
+- VN0A3I6R97I1
 - Unisex
 - Mochila
-- Old Skool III Classic Camo
-- VN0A3I6R97I1
 - Vans
+- Old Skool III Classic Camo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QL1L5RV/?tag=tolees-21)
