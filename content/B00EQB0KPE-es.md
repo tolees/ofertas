@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.33 % en Braun MQ 30 Vaso de recambio para licuad'
-date: 2021-07-19 12:01:43
+date: 2021-07-28 10:28:43
 image: 'https://m.media-amazon.com/images/I/413SZBnoKrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
