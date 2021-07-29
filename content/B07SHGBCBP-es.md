@@ -28,10 +28,10 @@ Ahora mismo tienes [6amLifestyle Alfombrilla de Ratón Ordenador Gaming RGB Gran
 
 🔎:
 
-- ✎【 10 Modos de Iluminación 】: Incluye 3 sistemas dinamicos de iluminacion, modo arcoiris, modo parpadeante, y 7 colores estáticos: rojo, azul oscuro, amarillo, verde, rosa, blanco y azul hielo. Combina el color de la alfombrilla con el del raton y crea un ambiente de juego único
-- ✎【 Tejido de Precision 】 :Con su amplia superficie, recubierta de un novedoso nanotextil, nuestra alfombrilla se convierte en el complemento perfecto para cualquier ratón, tanto óptico como láser, permitiendo un mejor deslizamiento y mayor precisión de movimientos. Para recogerla se enrolla fácilmente sin deformarse
 - ✎【Base de Caucho Antideslizante】: Su base de caucho natural evita el deslizamiento de la alfombrilla, asegurando la máxima precisión en el juego, así como un mayor confort para la muñeca y la mano en todo momento
 - ✎【 100% Garantizada 】: Garantizamos la calidad de nuestra 6amlifestyle alfombrilla de ratón RGB LED. Nuestra tienda busca la satisfacción del cliente. Dispone de un plazo de devolución de 30 dias sin necesidad de justificación. Contacte con nosotros si tiene alguna duda o no esta satisfecho con el producto
+- ✎【 10 Modos de Iluminación 】: Incluye 3 sistemas dinamicos de iluminacion, modo arcoiris, modo parpadeante, y 7 colores estáticos: rojo, azul oscuro, amarillo, verde, rosa, blanco y azul hielo. Combina el color de la alfombrilla con el del raton y crea un ambiente de juego único
 - ✎【 Gran Tamaño, Diseño Perfecto 】: Sus medidas son 800*300 mm y 4mm de grosor, se adecuan perfectamente a la mesa de trabajo, proporcionando un área de movimiento excelente. Adecuada para todos los tipos de teclados y ratones, con espacio suficiente ya sea para uso profesional o para juegos
+- ✎【 Tejido de Precision 】 :Con su amplia superficie, recubierta de un novedoso nanotextil, nuestra alfombrilla se convierte en el complemento perfecto para cualquier ratón, tanto óptico como láser, permitiendo un mejor deslizamiento y mayor precisión de movimientos. Para recogerla se enrolla fácilmente sin deformarse
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SHGBCBP/?tag=tolees-21)
