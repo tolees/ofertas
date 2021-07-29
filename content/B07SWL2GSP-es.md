@@ -28,8 +28,8 @@ Ahora mismo tienes [Pedigree Dentastix Snack Dental para la Higiene Oral de Perr
 
 🔎:
 
-- Snack dental para perros grandes que favorece la higiene oral y contribuye a mejorar el aliento del perro
 - Los sticks dentales Dentastix son forma de darle un premio a tu perro, bajo en grasa, sin azúcar añadido, ni colorantes o saborizantes artificiales
+- Snack dental para perros grandes que favorece la higiene oral y contribuye a mejorar el aliento del perro
 - Está demostrado científicamente que darle un stick dental Dentastix a tu perro contribuye a la limpieza diaria de sus dientes y ayuda a mantener su aliento fresco
 - Su textura hace que los sticks dentales se adapten perfectamente a la forma de los dientes al masticarlos, para una limpieza profunda, hasta la raíz
 - La combinación de su textura junto con sus ingredientes activos convierten a los palitos para perro Dentastix en el aliado perfecto para la limpieza completa de su boca

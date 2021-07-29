@@ -28,10 +28,10 @@ Está [Johnson s Baby - JOHNSON´S gel de baño dulces sueños dosificador - 3 x
 
 ℹ️:
 
-- Jabón líquido enriquecido con esencias relajantes NaturalCalm para ayudar a calmar al bebé antes de dormir
-- Rutina probada con expertos en el sueño de los bebés
-- Gel de baño probado por pediatras y dermatólogos
-- Para la rutina diaria del baño ayudando a que los bebés duerman mejor
 - Incluye la fórmula No Llores Más, que evita las lágrimas y es tan delicado para los ojos como el agua más pura
+- Gel de baño probado por pediatras y dermatólogos
+- Rutina probada con expertos en el sueño de los bebés
+- Jabón líquido enriquecido con esencias relajantes NaturalCalm para ayudar a calmar al bebé antes de dormir
+- Para la rutina diaria del baño ayudando a que los bebés duerman mejor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RZKQ1GC/?tag=tolees-21)
