@@ -28,10 +28,10 @@ En este momento está [Osram Base PAR16 Lámpara reflectora LED con base GU10  4
 
 🔎:
 
-- Luz blanca cálida para el bienestar y la relajación en salas de estar, dormitorios y habitaciones infantiles.
-- Consumo de energía 5 kWh / 1000h a 350 lm
-- Inmediatamente a plena luz, sin tiempo de calentamiento Reemplazo simple de lámparas halógenas, reemplazo real para una lámpara puntual convencional de 50 W (uso en exteriores solo en luminarias adecuadas)
 - Menor desarrollo de calor (en comparación con el producto de referencia estándar)
+- Inmediatamente a plena luz, sin tiempo de calentamiento Reemplazo simple de lámparas halógenas, reemplazo real para una lámpara puntual convencional de 50 W (uso en exteriores solo en luminarias adecuadas)
+- Luz blanca cálida para el bienestar y la relajación en salas de estar, dormitorios y habitaciones infantiles.
 - Larga vida útil: hasta 15000 horas y hasta 100000 ciclos de conmutación
+- Consumo de energía 5 kWh / 1000h a 350 lm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073QSLY33/?tag=tolees-21)
