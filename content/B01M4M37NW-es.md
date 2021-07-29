@@ -30,8 +30,8 @@ Ahora mismo tienes [Under Armour UA Mini Headbands  6pk  Cintas Para El Pelo  Pa
 
 - Funcionales cintas para mujer: Estas diademas de deporte son elásticas y suaves y tienen logotipos frontales y centrales que las hacen más elegantes
 - Práctico juego: Estas gomillas elásticas vienen en un práctico juego de 6, por lo que estos accesorios estarán siempre a mano cuando se necesiten
-- Sin distracciones: Con 1 cm de ancho, la banda para el pelo es estrecha y asegura un alto rendimiento para que la atleta se centre en el deporte
-- Material y forma: Pack de 6 cintas de pelo Under Armour UA Mini Headbands, diademas de mujer para hacer deporte, material: 100% de poliéster
 - Buena sujeción: Esta banda para el cabello tiene tiras de silicona adherentes en la parte inferior que ofrecen un rendimiento seguro y más firme
+- Material y forma: Pack de 6 cintas de pelo Under Armour UA Mini Headbands, diademas de mujer para hacer deporte, material: 100% de poliéster
+- Sin distracciones: Con 1 cm de ancho, la banda para el pelo es estrecha y asegura un alto rendimiento para que la atleta se centre en el deporte
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M4M37NW/?tag=tolees-21)

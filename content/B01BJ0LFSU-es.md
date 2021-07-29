@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.44 % en NGS HAZE RED - Ratón Óptico Inalámbrico '
-date: 2021-07-26 10:54:28
+date: 2021-07-29 10:31:02
 image: 'https://m.media-amazon.com/images/I/41ii4PVKUpS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [NGS HAZE RED - Ratón Óptico Inalámbrico 2.4GHz  Ratón USB para Orden
 
 ℹ️:
 
+- Ergonomía ambidiestra: puede ser utilizado tanto por usuarios diestros como zurdos.
 - Ratón óptico wireless RF 2.4 Ghz con receptor nano USB y alcance de hasta 10 metros.
+- Atractivo diseño compacto ideal tanto para ordenadores de sobremesa como para portátiles.
 - Ratón wireless con resolución regulable (800/1600dpi), 3 botones y rueda de desplazamiento vertical metálica.
 - Función "Plug&Play": la conexión a cualquier equipo se realizará de forma inmediata sin necesidad de software.
-- Ergonomía ambidiestra: puede ser utilizado tanto por usuarios diestros como zurdos.
-- Atractivo diseño compacto ideal tanto para ordenadores de sobremesa como para portátiles.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BJ0LFSU/?tag=tolees-21)
