@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Verbatim Store N Go USB Drive 64Gb Desli al 79.65 % de descuento'
-date: 2021-07-12 18:09:05
+date: 2021-07-29 14:05:14
 image: 'https://m.media-amazon.com/images/I/41IyDICY8QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Verbatim Store N Go USB Drive 64Gb Deslizante](https://www.a
 
 🔎:
 
-- Compatibilidad:No específica
 - Capacidad almacenamiento:64 GB
+- Compatibilidad:No específica
 - Tipo de producto:Unidad flash USB
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00LOBDNQ2/?tag=tolees-21)
