@@ -28,10 +28,10 @@ Tienes [Zenacolor - Set de 10 Canvas - Lienzos para Pintar 20x20cm - Todos los T
 
 🔎:
 
-- GARANTÍA ZENACOLOR - Puesto que tu satisfacción es nuestra prioridad, Zenacolor te ofrece una garantía “100% satisfecho o le devolvemos su dinero” de 30 días y una garantía del fabricante de 2 años.
-- DE USO INMEDIATO - Las láminas para enmarcar Zenacolor están recubiertas con gesso de titanio sin ácidos para garantizar la longevidad de tus pinturas. No tienes que preparar nada de antemano, tu lienzo está inmediatamente listo para ser pintado encima.
+- DA RIENDA SUELTA A TU CREATIVIDAD - Los lienzos son perfectos para dar rienda suelta a tus inspiraciones y antojos de artistas noveles y consagrados. Se adaptan a múltiples materiales: pinturas acrílicas, óleos, gouaches etc.. y su granulado permite plasmar tus pinceladas y tus texturas favoritas
 - LIENZO DE ALTA CALIDAD - Nuestros lienzos, tratados sin ácidos, están hechos 100% de algodón, su gramaje individual es de 280 GSM y su grosor es de 2,5mm. La lámina está hecha con papel reciclado sin ácidos.
 - Zenacolor - Set de 10 Canvas - Lienzos para Pintar 20x20cm - Todos los Tipos de Pintura sobre Tela - 100% Algodón sin Ácidos
-- DA RIENDA SUELTA A TU CREATIVIDAD - Los lienzos son perfectos para dar rienda suelta a tus inspiraciones y antojos de artistas noveles y consagrados. Se adaptan a múltiples materiales: pinturas acrílicas, óleos, gouaches etc.. y su granulado permite plasmar tus pinceladas y tus texturas favoritas
+- DE USO INMEDIATO - Las láminas para enmarcar Zenacolor están recubiertas con gesso de titanio sin ácidos para garantizar la longevidad de tus pinturas. No tienes que preparar nada de antemano, tu lienzo está inmediatamente listo para ser pintado encima.
+- GARANTÍA ZENACOLOR - Puesto que tu satisfacción es nuestra prioridad, Zenacolor te ofrece una garantía “100% satisfecho o le devolvemos su dinero” de 30 días y una garantía del fabricante de 2 años.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PNNX5F4/?tag=tolees-21)
