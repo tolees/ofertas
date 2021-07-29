@@ -28,10 +28,10 @@ Tienes [adidas Originals Stan Smith Crib  Zapatillas Niñas  Blanco  Footwear Wh
 
 🔎:
 
-- Cuero superior
-- Forro Tela
 - Cierre Cordones
 - Bajo-top
+- Cuero superior
+- Forro Tela
 - Plantilla extraíble
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B010Y1ZOB4/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [adidas RUNFALCON 2.0  Zapatillas de Running Hombre  Rojint/FTWBLA/Rojsol
 
 🔎:
 
+- Parte superior textil
+- Suela de goma
 - Forro textil
 - Cierre de cordones
-- Suela de goma
-- Parte superior textil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BX32M9N/?tag=tolees-21)
