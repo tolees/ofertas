@@ -1,32 +1,40 @@
 ---
 layout: post
-title: 'Hugo BOSS Reloj para hombre  1513477 con con un 57.99 % de descuento'
-date: 2020-06-08 13:56:23
-image: 'https://m.media-amazon.com/images/I/51erg99bNAL._SL400_.jpg'
+title: 'Hugo BOSS Reloj para hombre 1513477 con  con un 46.63 % de descuento'
+date: 2021-07-29 08:55:59
+image: 'https://m.media-amazon.com/images/I/41JixqtdHFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01N3CHZFJ-es Hugo BOSS Reloj para hombre 1513477 con pulsera de metal'
 sku: 'B01N3CHZFJ-es'
-tags: [  ]
-actualPrice: 167.6 EUR
+tags: [ 'Relojes','Relojes de pulsera para hombres','Relojes para hombre','hugo boss', ]
+actualPrice: 212.96 EUR
 currency: EUR
-price: 167.6
+price: 212.96
 comparePrice: 399.0 EUR
-prodname: 'Hugo BOSS Reloj para hombre  1513477 con pulsera de metal'
+prodname: 'Hugo BOSS Reloj para hombre 1513477 con pulsera de metal'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Hugo Boss'
 buyurl: 'https://www.amazon.es/dp/B01N3CHZFJ/?tag=tolees-21'
-descuento: '57.99'
-average: '191.224'
+descuento: '46.63'
+average: '192.259047619048'
 ---
 
-En este momento está [Hugo BOSS Reloj para hombre  1513477 con pulsera de metal](https://www.amazon.es/dp/B01N3CHZFJ/?tag=tolees-21) a 167.6 EUR (original: 399.0 EUR) (57.99 %  de descuento) en el siguiente enlace!
+En este momento está [Hugo BOSS Reloj para hombre 1513477 con pulsera de metal](https://www.amazon.es/dp/B01N3CHZFJ/?tag=tolees-21) a 212.96 EUR (original: 399.0 EUR) (46.63 %  de descuento) en el siguiente enlace!
 
-[![Hugo BOSS Reloj para hombre  1513477 con](https://m.media-amazon.com/images/I/51erg99bNAL._SL400_.jpg)](https://www.amazon.es/dp/B01N3CHZFJ/?tag=tolees-21)
+[![Hugo BOSS Reloj para hombre 1513477 con ](https://m.media-amazon.com/images/I/41JixqtdHFL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01N3CHZFJ/?tag=tolees-21)
 
 🔎:
 
+- Visualización análogico clásico
+- Color de la correa: metal
+- Esfera gris
+- Mecanismo de cuarzo
+- Reloj de acero inoxidable con correa de metal
+- Cierre de hebilla
+- Forma del producto: redondo
+- Resistencia máxima a la presión del agua: 1 bares
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N3CHZFJ/?tag=tolees-21)

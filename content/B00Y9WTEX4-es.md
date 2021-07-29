@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars - Classic Saga Interactive Dar al 52.94 % de rebaja'
-date: 2021-07-21 12:39:42
+date: 2021-07-29 08:42:59
 image: 'https://m.media-amazon.com/images/I/51TAB0KOuPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Star Wars'
 buyurl: 'https://www.amazon.es/dp/B00Y9WTEX4/?tag=tolees-21'
 descuento: '52.94'
-average: '71.4515384615383'
+average: '72.5913333333332'
 ---
 
 Tienes [Star Wars - Classic Saga Interactive Darth Vader  de 45 cm  Giochi Preziosi 13431   Italiano](https://www.amazon.es/dp/B00Y9WTEX4/?tag=tolees-21) con precio final de  80.0 EUR (original: 169.99 EUR) (52.94 %  de rebaja) aqui!
