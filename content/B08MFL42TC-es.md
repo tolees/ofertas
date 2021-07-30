@@ -28,10 +28,10 @@ Ahora mismo tienes [Thlevel Cargador Mando para PS5  Estación de Carga Rápida 
 
 🔎:
 
-- 【Compatibilidad】 El producto puede cargar dos controladores inalámbricos DualSense al mismo tiempo mediante un adaptador Type-C. Incluidos los controladores PS5, Xbox Series X/S/Elite 2, Switch Pro, and Google Cloud.
 - 【Diseño de soporte】 Este cargador de controlador dual ofrece una forma rápida y fácil de cargar y almacenar su controlador. Ideal para guardar su lugar para almacenar controladores inalámbricos PS5 en el cargador cuando no está jugando.
-- 【Seguro y confiable】 Admite protección contra sobrecorriente, sobretensión, sobrecalentamiento, sobrecarga y cortocircuito. Cargue su controlador de forma segura y confiable.
 - 【Carga rápida】 Este soporte de carga puede cargar rápidamente dos controladores al mismo tiempo. No es necesario esperar más para cargar 2 controladores. Ahorre tiempo y diviértase más.
 - 【Indicador LED】 Hay dos luces indicadoras LED inteligentes en la parte frontal de la estación de carga, que pueden indicar claramente el estado de carga. La luz roja significa que se está cargando y la luz verde significa que está completamente cargado o en espera.
+- 【Seguro y confiable】 Admite protección contra sobrecorriente, sobretensión, sobrecalentamiento, sobrecarga y cortocircuito. Cargue su controlador de forma segura y confiable.
+- 【Compatibilidad】 El producto puede cargar dos controladores inalámbricos DualSense al mismo tiempo mediante un adaptador Type-C. Incluidos los controladores PS5, Xbox Series X/S/Elite 2, Switch Pro, and Google Cloud.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MFL42TC/?tag=tolees-21)
