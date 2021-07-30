@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español - TARRO CREMA PIEL SAN al 76.74 % de descuento'
-date: 2021-07-26 18:34:31
+date: 2021-07-30 21:47:17
 image: 'https://m.media-amazon.com/images/I/31s5rhNbLSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B06XYWQRXN/?tag=tolees-21'
 descuento: '76.74'
-average: '0.928333333333333'
+average: '0.91'
 ---
 
 Está [Instituto Español - TARRO CREMA PIEL SANA 50 ML](https://www.amazon.es/dp/B06XYWQRXN/?tag=tolees-21) con 76.74 de descuento por 0.8 EUR (original: 3.44 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Instituto Español - TARRO CREMA PIEL SANA 50 ML](https://www.amazon.es/d
 
 ℹ️:
 
+- Tipo de piel; seca
 - Resistente y con diseño funcional
 - Manos y pies Instituto Español
 - Manos y pies Instituto Español
-- Tipo de piel; seca
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XYWQRXN/?tag=tolees-21)
