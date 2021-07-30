@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 11689 MARVEL 11689 Rock Candy She  al 43.78 % de descuento'
-date: 2021-07-10 11:39:46
+date: 2021-07-30 12:27:43
 image: 'https://m.media-amazon.com/images/I/31LABdvkQHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Funko 11689 MARVEL 11689 Rock Candy She Hulk Figure](https://www.amazon.e
 
 ℹ️:
 
-- Cada personaje mide alrededor de 15 cm de altura
-- Viene embalado en una caja con ventanas ilustrada
 - Material 100% vinilo
+- Viene embalado en una caja con ventanas ilustrada
+- Cada personaje mide alrededor de 15 cm de altura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LEJEJES/?tag=tolees-21)
