@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kimoa - Curva Gorra de béisbol  Azul  Es al 50.00 % de rebaja'
-date: 2021-07-03 08:45:32
+date: 2021-07-30 05:47:28
 image: 'https://m.media-amazon.com/images/I/31SCVxIPH6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
