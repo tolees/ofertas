@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Durex Lubricante Perfect Connection de B al 40.28 % de descuento'
-date: 2021-07-27 15:44:59
+date: 2021-07-31 19:25:49
 image: 'https://m.media-amazon.com/images/I/41RxYl1yw-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Durex'
 buyurl: 'https://www.amazon.es/dp/B08BJNT2PN/?tag=tolees-21'
 descuento: '40.28'
-average: '10.838'
+average: '10.6233333333333'
 ---
 
 Ahora mismo tienes [Durex Lubricante Perfect Connection de Base Silicona - Adecuado también para Sexo Anal - 100 ml](https://www.amazon.es/dp/B08BJNT2PN/?tag=tolees-21) a 9.55 EUR (original: 15.99 EUR) (40.28 %  de descuento) en el siguiente enlace!
