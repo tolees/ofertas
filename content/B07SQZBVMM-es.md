@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s - LEVIS FOOTWEAR AND ACCESSORIES  al 36.04 % de descuento'
-date: 2021-07-29 20:13:44
+date: 2021-07-31 08:28:04
 image: 'https://m.media-amazon.com/images/I/213MJyBJyJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

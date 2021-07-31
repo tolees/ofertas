@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INSTITUTO ESPAÑOL crema corporal reparad al 71.85 % de descuento'
-date: 2021-07-26 10:53:18
+date: 2021-07-31 08:47:31
 image: 'https://m.media-amazon.com/images/I/3197+pgSl8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B01FUP0ED2/?tag=tolees-21'
 descuento: '71.85'
-average: '0.815000000000002'
+average: '0.814246575342468'
 ---
 
 Ahora mismo tienes [INSTITUTO ESPAÑOL crema corporal reparadora urea formato viaje 50 ml](https://www.amazon.es/dp/B01FUP0ED2/?tag=tolees-21) a 0.76 EUR (original: 2.7 EUR) (71.85 %  de descuento) en el siguiente enlace!
