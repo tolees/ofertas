@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - NEED FOR SPEED HOT PUR al 51.23 % de descuento'
-date: 2021-07-27 19:49:57
+date: 2021-07-31 09:12:51
 image: 'https://m.media-amazon.com/images/I/51GnkcszKfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B08KVH51VX/?tag=tolees-21'
 descuento: '51.23'
-average: '26.3352631578948'
+average: '26.0180000000001'
 ---
 
 Está [Electronic Arts - NEED FOR SPEED HOT PURSUIT REMASTERED](https://www.amazon.es/dp/B08KVH51VX/?tag=tolees-21) con 51.23 de descuento por 19.99 EUR (original: 40.99 EUR) en el siguiente enlace!
