@@ -28,10 +28,10 @@ Está [Samsung Galaxy S7 Edge - Smartphone de 5.5    SIM única  Android  Memori
 
 ℹ️:
 
-- Incluye el sistema operativo Android 6.0 Marshmallow
 - Procesador Exynos 8890, Octa-Core a 3.9 GHz
-- Memoria RAM de 4 GB y memoria ROM de 32 GB
+- Incluye el sistema operativo Android 6.0 Marshmallow
 - Camara principal de 12 MP y camara frontal de 5 MP, con grabación de video de 2160p a 30fps
 - Pantalla de 5.5", con una resolución de 2560 x 1440 pixeles y tecnología Super AMOLED
+- Memoria RAM de 4 GB y memoria ROM de 32 GB
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01E1QPH1U/?tag=tolees-21)
