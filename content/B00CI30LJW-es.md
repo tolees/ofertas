@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.83 % en NanoCable 10.31.1001 - Insertadora tipo '
-date: 2021-07-30 04:32:05
+date: 2021-07-31 16:57:05
 image: 'https://m.media-amazon.com/images/I/31WsCkeBgxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [NanoCable 10.31.1001 - Insertadora tipo kRONE para montaje IDC o DUAL ID
 ℹ️:
 
 - Compatible con Krone IDC o DUAL IDC
-- Ideal para crimpado de Conectores Hembra RJ
 - Fabricado de materiales durables
-- Funda protectora incluida
 - Dispositivo de corte de cables sobrantes y herramienta de extracció n incluidos
+- Funda protectora incluida
+- Ideal para crimpado de Conectores Hembra RJ
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CI30LJW/?tag=tolees-21)
