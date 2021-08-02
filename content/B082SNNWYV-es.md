@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas BBALL 3S Cap CT Hat  Unisex Adult al 39.83 % de descuento'
-date: 2021-07-07 17:07:00
+date: 2021-08-02 08:41:42
 image: 'https://m.media-amazon.com/images/I/41dsIonuCmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas BBALL 3S Cap CT Hat  Unisex Adulto  Legend Ink/White/
 
 🔎:
 
-- Adjustable closure
 - Logo on the front
 - Preformed visor
+- Adjustable closure
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082SNNWYV/?tag=tolees-21)
