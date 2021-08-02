@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Cl Lthr  Zapatillas de Gimnasia H al 44.42 % de rebaja'
-date: 2021-07-30 16:45:17
+date: 2021-08-01 22:45:14
 image: 'https://m.media-amazon.com/images/I/41tIzpkQeyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B014R9NCRC/?tag=tolees-21'
 descuento: '44.42'
-average: '49.99'
+average: '52.19'
 ---
 
 Tienes [Reebok Cl Lthr  Zapatillas de Gimnasia Hombre  Blanco  INT/White/Gum INT/White/Gum   36 EU](https://www.amazon.es/dp/B014R9NCRC/?tag=tolees-21) con precio final de  49.99 EUR (original: 89.95 EUR) (44.42 %  de rebaja) aqui!

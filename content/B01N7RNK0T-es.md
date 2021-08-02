@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.02 % en Casio EDIFICE Reloj en caja sólida  10 B'
-date: 2021-07-28 16:29:17
+date: 2021-08-01 22:47:40
 image: 'https://m.media-amazon.com/images/I/51FAdCCc+YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Casio'
 buyurl: 'https://www.amazon.es/dp/B01N7RNK0T/?tag=tolees-21'
 descuento: '40.02'
-average: '98.2165853658534'
+average: '98.2041860465114'
 ---
 
 Tienes [Casio EDIFICE Reloj en caja sólida  10 BAR  Rojo/Negro  para Hombre  con Correa de Acero inoxidable  EFR-556DB-1AVUEF](https://www.amazon.es/dp/B01N7RNK0T/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 91.9 EUR (original: 153.23 EUR) en el siguiente enlace!
