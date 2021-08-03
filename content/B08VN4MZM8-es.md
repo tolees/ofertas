@@ -29,9 +29,9 @@ En este momento está [Haku Möbel - Haku-Möbel Carro de Ordenador  Acero alead
 🔎:
 
 - Escenario en casa: también adecuado para habitaciones de niños y adolescentes como espacio de trabajo adicional. Suficiente espacio para documentos y material de trabajo son condiciones previas para el aprendizaje exitoso.
-- Home Office: gracias a su tamaño compacto también es ideal para espacios pequeños. Espacio suficiente para ordenador portátil, monitor y teclado. Se pueden colocar otros dispositivos en la bandeja inferior.
-- Diseño clásico atemporal: se adapta a casi cualquier decoración. También se puede utilizar como mesa auxiliar o superficie de trabajo adicional en el local de la tienda o en el salón.
 - Estructura estable: la estructura es de tubo de acero lacado en antracita. Los estantes son de MDF recubierto de melina en color antracita. La bandeja para teclado tiene una bola extraíble.
+- Diseño clásico atemporal: se adapta a casi cualquier decoración. También se puede utilizar como mesa auxiliar o superficie de trabajo adicional en el local de la tienda o en el salón.
+- Home Office: gracias a su tamaño compacto también es ideal para espacios pequeños. Espacio suficiente para ordenador portátil, monitor y teclado. Se pueden colocar otros dispositivos en la bandeja inferior.
 - Trabajo móvil: mesa de ordenador con ruedas – 2 de ellas con bloqueo. La mesa de oficina tiene un ancho de 60 cm y una altura de 76 cm. La profundidad es de 49 cm. Bandeja para teclado: 46,5 x 24 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VN4MZM8/?tag=tolees-21)

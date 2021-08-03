@@ -28,10 +28,10 @@ Tienes [Outsunny Columpio de Jardín de 2 Plazas Silla Balancín con Parasol Tec
 
 ℹ️:
 
+- MEDIDAS TOTALES: 172x110x155 cm (LxANxAL); Medida del asiento: 132x44x46 cm (LxANxAL); Peso máximo soportado: 200 kg
 - BALANCÍN DE DOS PLAZAS: Columpio de jardín elegante con toldo. Ideal para colocar en tu jardín, patio, terraza o cualquier otro espacio exterior y, disfrutar del tiempo libre con familiares y amigos
+- TOLDO RECLINABLE: El ángulo del toldo es ajustable, por lo que puedes ajustarlo de acuerdo con la incidencia de los rayos solares, o dirección del viento o lluvia ligera, por ejemplo
 - ESTRUCTURA RESISTENTE: Marco metálico en forma de "A" para una estabilidad uniforme, lacado en color negro con pintura con recubrimiento en polvo para mayor resistencia a la intemperie y a la corrosión. Las patas cuentan con pies antideslizantes para proteger el suelo de daños y rayones y añadir estabilidad al conjunto
 - TEXTILENE TRANSPIRABLE: El cuerpo del asiento, hecho de textilene, es un tejido transpirable y con gran resistencia a las roturas, desgaste y decoloración. Además, es flexible y puede lavarse fácilmente con agua y jabón o con un paño húmedo
-- MEDIDAS TOTALES: 172x110x155 cm (LxANxAL); Medida del asiento: 132x44x46 cm (LxANxAL); Peso máximo soportado: 200 kg
-- TOLDO RECLINABLE: El ángulo del toldo es ajustable, por lo que puedes ajustarlo de acuerdo con la incidencia de los rayos solares, o dirección del viento o lluvia ligera, por ejemplo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08Z3KSDF5/?tag=tolees-21)
