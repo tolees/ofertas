@@ -28,8 +28,8 @@ Tienes [Pyrex Prepware Set de 3 Boles de Mezcla de Extrema Resistencia a Choques
 
 🔎:
 
+- Apto para microondas y lavavajillas
 - Vidrio borosilicato: resistencia a altas temperaturas
 - Tamaño pequeño: 14 cm (0.5 l), tamaño medio: 17 cm (1 l), tamaño grande: 21 cm (2 l)
-- Apto para microondas y lavavajillas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076H44FZG/?tag=tolees-21)
