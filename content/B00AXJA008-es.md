@@ -1,32 +1,38 @@
 ---
 layout: post
-title: 'Revlon ColorStay Corrector 24h  #030 Lig con un 64.32 % de descuento'
-date: 2020-04-08 17:13:28
-image: 'https://m.media-amazon.com/images/I/31M4mmC37lL._SL400_.jpg'
+title: 'Revlon ColorStay Corrector 24h  #030 Lig con un 48.84 % de descuento'
+date: 2021-08-03 21:01:59
+image: 'https://m.media-amazon.com/images/I/21ClYwUf9RS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00AXJA008-es Revlon ColorStay Corrector 24h #030 Light Medium - 6.2ml'
+slug: 'B00AXJA008-es Revlon ColorStay Corrector 24h #030 Light Medium 6 2ml'
 sku: 'B00AXJA008-es'
-tags: [  ]
-actualPrice: 3.55 EUR
+tags: [ 'Antiojeras','Belleza','Maquillaje','Maquillaje para ojos','revlon', ]
+actualPrice: 5.09 EUR
 currency: EUR
-price: 3.55
+price: 5.09
 comparePrice: 9.95 EUR
-prodname: 'Revlon ColorStay Corrector 24h  #030 Light Medium  - 6.2ml'
+prodname: 'Revlon ColorStay Corrector 24h  #030 Light Medium  6 2ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'REVLON'
 buyurl: 'https://www.amazon.es/dp/B00AXJA008/?tag=tolees-21'
-descuento: '64.32'
-average: '4.126666666666667'
+descuento: '48.84'
+average: '4.3675'
 ---
 
-En este momento está [Revlon ColorStay Corrector 24h  #030 Light Medium  - 6.2ml](https://www.amazon.es/dp/B00AXJA008/?tag=tolees-21) a 3.55 EUR (original: 9.95 EUR) (64.32 %  de descuento) en el siguiente enlace!
+En este momento está [Revlon ColorStay Corrector 24h  #030 Light Medium  6 2ml](https://www.amazon.es/dp/B00AXJA008/?tag=tolees-21) a 5.09 EUR (original: 9.95 EUR) (48.84 %  de descuento) en el siguiente enlace!
 
-[![Revlon ColorStay Corrector 24h  #030 Lig](https://m.media-amazon.com/images/I/31M4mmC37lL._SL400_.jpg)](https://www.amazon.es/dp/B00AXJA008/?tag=tolees-21)
+[![Revlon ColorStay Corrector 24h  #030 Lig](https://m.media-amazon.com/images/I/21ClYwUf9RS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00AXJA008/?tag=tolees-21)
 
 🔎:
 
+- ime release para liberación contínua de color hasta las 24 horas y Fórmula ligera para un acabado libre de brillos
+- Textura ligera. No marca las líneas
+- Aplicar directamente en la piel y extender con los dedos, esponja o brocha para corrector de ojeras
+- Libre de Aceites
+- Ultraflexible para aplicar en cualquier parte del rostro: ojeras, manchas, espinillas y otras imperfecciones
+- Contiene ácido hialurónico y ácido salicílico para una tez lisa e impecable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00AXJA008/?tag=tolees-21)

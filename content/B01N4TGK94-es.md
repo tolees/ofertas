@@ -28,10 +28,10 @@ Tienes [Russell Hobbs Maxicook - Olla de Cocción Lenta  200 W  6l  Plata  Olla 
 
 🔎:
 
-- 3 configuraciones de temperatura: baja, alta y de mantenimiento del calor, 200 vatios de potencia
 - Cazuela para sellar de aluminio que puede utilizarse en el fogón para dorar la carne, tapa de cristal para ver los alimentos mientras se cocinan y pies antideslizantes
+- 3 configuraciones de temperatura: baja, alta y de mantenimiento del calor, 200 vatios de potencia
+- Capacidad de 6 litros para cocinar tus platos para toda la semana de una sola vez (hasta 8 porciones de alimentos)
 - Temporizador digital programable que te ofrece un control máximo del proceso de cocción, tapa y cazuela con revestimiento antiadherente y extraíbles para facilitar la limpieza
 - Beneficios para la salud: la cocción lenta retiene todos los nutrientes y es una forma magnífica de incluir más verdura en la dieta
-- Capacidad de 6 litros para cocinar tus platos para toda la semana de una sola vez (hasta 8 porciones de alimentos)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N4TGK94/?tag=tolees-21)
