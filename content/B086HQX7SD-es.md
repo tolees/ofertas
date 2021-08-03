@@ -28,10 +28,10 @@ Ahora mismo tienes [Lexar Professional NM700 M.2 2280 PCIe NVMe 256GB SSD  Juego
 
 🔎:
 
-- Resistente a golpes y vibraciones sin partes móviles
-- Obtenga 6,5x más velocidad que un SSD basado en SATA3
-- Garantía limitada de cinco años
-- Ideal para usuarios intensivos
 - Interfaz PCIe Gen3x4 de alta velocidad: 3500MB/s de lectura y 1200MB/s de escritura – compatible con NVMe
+- Obtenga 6,5x más velocidad que un SSD basado en SATA3
+- Resistente a golpes y vibraciones sin partes móviles
+- Ideal para usuarios intensivos
+- Garantía limitada de cinco años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086HQX7SD/?tag=tolees-21)

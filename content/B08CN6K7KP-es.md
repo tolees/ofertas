@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Pant Passiflora Pantalones Casu al 50.05 % de descuento'
-date: 2021-07-23 14:54:24
+date: 2021-08-03 11:46:04
 image: 'https://m.media-amazon.com/images/I/41oi84RkrIS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

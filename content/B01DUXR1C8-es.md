@@ -28,9 +28,9 @@ En este momento está [Liposan Protct Lab Classic.Care Blanco S/Fp 5  Estándar 
 
 🔎:
 
-- Producto nuevo
 - LIPOSAN es un nombre de marca reconocido
 - Los mejores productos para el cuidado y la higiene personal
+- Producto nuevo
 - Producto de alta calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01DUXR1C8/?tag=tolees-21)

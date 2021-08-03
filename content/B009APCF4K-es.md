@@ -28,10 +28,10 @@ Tienes [Tristar KW-2436 Báscula de cocina balanza  Acero Inoxidable  plateado](
 
 🔎:
 
+- Fácil de limpiar gracias al higiénico acero inoxidable
+- Función de tara para que pueda pesar todos los ingredientes en el mismo recipiente
 - Diseño elegante en acero inoxidable tanto en la base como en el recipiente de medición
 - La báscula de cocina pesa hasta un máximo de 5 kg con graduaciones precisas de 1 gramo
 - Pantalla digital retroiluminada con temporizador de cocina e indicador de temperatura
-- Fácil de limpiar gracias al higiénico acero inoxidable
-- Función de tara para que pueda pesar todos los ingredientes en el mismo recipiente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009APCF4K/?tag=tolees-21)
