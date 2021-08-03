@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Philips OneBlade Pro QP6520/30 - Recorta al 37.50 % de descuento'
-date: 2021-07-24 16:21:51
+title: 'Philips OneBlade Pro QP6520/30 - Recorta al 37.55 % de descuento'
+date: 2021-08-03 06:50:23
 image: 'https://m.media-amazon.com/images/I/41Zp1x03xUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B01AXMKH2A-es Philips OneBlade Pro QP6520/30 - Recortador de Barba con...'
 sku: 'B01AXMKH2A-es'
 tags: [ 'Afeitado y depilación','Belleza','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','philips', ]
-actualPrice: 49.99 EUR
+actualPrice: 49.95 EUR
 currency: EUR
-price: 49.99
+price: 49.95
 comparePrice: 79.99 EUR
 prodname: 'Philips OneBlade Pro QP6520/30 - Recortador de Barba con Peine de Precisión de 14 Longitudes y Base de Carga  Recorta  Perfila y Afeita  Recargable'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B01AXMKH2A/?tag=tolees-21'
-descuento: '37.50'
-average: '55.8768181818182'
+descuento: '37.55'
+average: '55.6191304347826'
 ---
 
-Ahora mismo tienes [Philips OneBlade Pro QP6520/30 - Recortador de Barba con Peine de Precisión de 14 Longitudes y Base de Carga  Recorta  Perfila y Afeita  Recargable](https://www.amazon.es/dp/B01AXMKH2A/?tag=tolees-21) a 49.99 EUR (original: 79.99 EUR) (37.50 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Philips OneBlade Pro QP6520/30 - Recortador de Barba con Peine de Precisión de 14 Longitudes y Base de Carga  Recorta  Perfila y Afeita  Recargable](https://www.amazon.es/dp/B01AXMKH2A/?tag=tolees-21) a 49.95 EUR (original: 79.99 EUR) (37.55 %  de descuento) en el siguiente enlace!
 
 [![Philips OneBlade Pro QP6520/30 - Recorta](https://m.media-amazon.com/images/I/41Zp1x03xUL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01AXMKH2A/?tag=tolees-21)
 
