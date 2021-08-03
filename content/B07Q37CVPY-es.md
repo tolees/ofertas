@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TREKOO Ventilador de escritorio de 3 vel al 61.56 % de descuento'
-date: 2021-08-02 16:22:31
+date: 2021-08-03 17:31:09
 image: 'https://m.media-amazon.com/images/I/518o-SrhbcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TREKOO'
 buyurl: 'https://www.amazon.es/dp/B07Q37CVPY/?tag=tolees-21'
 descuento: '61.56'
-average: '12.99'
+average: '11.99'
 ---
 
 Ahora mismo tienes [TREKOO Ventilador de escritorio de 3 velocidades  ventilador recargable a batería para el hogar  la oficina  el dormitorio  el camping  el dormitorio  negro ](https://www.amazon.es/dp/B07Q37CVPY/?tag=tolees-21) a 9.99 EUR (original: 25.99 EUR) (61.56 %  de descuento) en el siguiente enlace!
