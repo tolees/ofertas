@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Triple Accion Original Mint  75m con un 51.28 % de descuento'
-date: 2021-07-22 09:48:09
+date: 2021-08-04 14:25:13
 image: 'https://m.media-amazon.com/images/I/41AU5k9AyYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -16,10 +16,10 @@ comparePrice: 2.34 EUR
 prodname: 'Colgate Triple Accion Original Mint  75ml'
 country: 'es'
 flag: '🇪🇸'
-brand: 'COLGATE'
+brand: 'Colgate'
 buyurl: 'https://www.amazon.es/dp/B00DZPVLR8/?tag=tolees-21'
 descuento: '51.28'
-average: '1.18333333333333'
+average: '1.1725'
 ---
 
 En este momento está [Colgate Triple Accion Original Mint  75ml](https://www.amazon.es/dp/B00DZPVLR8/?tag=tolees-21) a 1.14 EUR (original: 2.34 EUR) (51.28 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Colgate Triple Accion Original Mint  75ml](https://www.am
 
 🔎:
 
-- Este producto está indicado tanto para mujeres como para hSombras.
 - Contiene 75 ml.
+- Este producto está indicado tanto para mujeres como para hSombras.
 - De la marca Colgate.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00DZPVLR8/?tag=tolees-21)
