@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Brooklyn Short Light Twil con un 60.64 % de descuento'
-date: 2021-08-03 08:36:03
+date: 2021-08-04 17:15:28
 image: 'https://m.media-amazon.com/images/I/31Enb2SPbML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
