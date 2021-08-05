@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.30 % en Funko Pop TV Who 13th Doctor Figura de V'
-date: 2021-08-02 11:00:11
+date: 2021-08-05 11:05:15
 image: 'https://m.media-amazon.com/images/I/31e3UuEO-9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07TYRH95Q/?tag=tolees-21'
 descuento: '43.30'
-average: '10.9863333333333'
+average: '10.906129032258'
 ---
 
 Tienes [Funko Pop TV Who 13th Doctor Figura de Vinilo-Coleccionable  Multicolor  43349 ](https://www.amazon.es/dp/B07TYRH95Q/?tag=tolees-21) con un 43.30 % de descuento con precio de oferta de 8.5 EUR (original: 14.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Funko Pop TV Who 13th Doctor Figura de Vinilo-Coleccionable  Multicolor 
 
 ℹ️:
 
-- Colección Doctor Who
-- Licencia Oficial
-- Funko POP Vinilo
 - Nº 899
+- Funko POP Vinilo
 - Caja ilustrada con ventana
+- Licencia Oficial
+- Colección Doctor Who
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TYRH95Q/?tag=tolees-21)

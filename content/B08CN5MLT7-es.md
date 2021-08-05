@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual FOU BLUADALAI Bufanda  azul  U  al 50.08 % de descuento'
-date: 2021-08-03 23:48:54
+date: 2021-08-05 11:17:04
 image: 'https://m.media-amazon.com/images/I/41UaSzD7kDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
