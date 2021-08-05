@@ -1,32 +1,33 @@
 ---
 layout: post
-title: 'Descuento del 49.28 % en New Balance Gw500v1  Zapatillas de Depor'
-date: 2020-06-25 02:00:15
-image: 'https://m.media-amazon.com/images/I/41gcpw33pbL._SL400_.jpg'
+title: 'Descuento del 40.32 % en New Balance GW500V1  Zapatillas Mujer  N'
+date: 2021-08-05 07:34:19
+image: 'https://m.media-amazon.com/images/I/41gcpw33pbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01I9VUN0S-es New Balance Gw500v1 Zapatillas de Deporte para Mujer Azul...'
+slug: 'B01I9VUN0S-es New Balance GW500V1 Zapatillas Mujer Navy 39 EU'
 sku: 'B01I9VUN0S-es'
-tags: [  ]
-actualPrice: 38.04 EUR
+tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','new balance', ]
+actualPrice: 44.76 EUR
 currency: EUR
-price: 38.04
+price: 44.76
 comparePrice: 75.0 EUR
-prodname: 'New Balance Gw500v1  Zapatillas de Deporte para Mujer  Azul  Navy/Light Blue Pt   39 EU'
+prodname: 'New Balance GW500V1  Zapatillas Mujer  Navy  39 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B01I9VUN0S/?tag=tolees-21'
-descuento: '49.28'
-average: '38.04'
+descuento: '40.32'
+average: '40.28'
 ---
 
-Tienes [New Balance Gw500v1  Zapatillas de Deporte para Mujer  Azul  Navy/Light Blue Pt   39 EU](https://www.amazon.es/dp/B01I9VUN0S/?tag=tolees-21) con un 49.28 % de descuento con precio de oferta de 38.04 EUR (original: 75.0 EUR) en el siguiente enlace!
+Tienes [New Balance GW500V1  Zapatillas Mujer  Navy  39 EU](https://www.amazon.es/dp/B01I9VUN0S/?tag=tolees-21) con un 40.32 % de descuento con precio de oferta de 44.76 EUR (original: 75.0 EUR) en el siguiente enlace!
 
-[![New Balance Gw500v1  Zapatillas de Depor](https://m.media-amazon.com/images/I/41gcpw33pbL._SL400_.jpg)](https://www.amazon.es/dp/B01I9VUN0S/?tag=tolees-21)
+[![New Balance GW500V1  Zapatillas Mujer  N](https://m.media-amazon.com/images/I/41gcpw33pbL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01I9VUN0S/?tag=tolees-21)
 
 ℹ️:
 
+- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 75€
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01I9VUN0S/?tag=tolees-21)
