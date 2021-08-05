@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Eldrador Creatures con un 42.98 % de descuento'
-date: 2021-07-06 14:06:35
+date: 2021-08-05 13:23:49
 image: 'https://m.media-amazon.com/images/I/51p2HsxPT+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B08HSRJDDF/?tag=tolees-21'
 descuento: '42.98'
-average: '20.35875'
+average: '20.3347058823529'
 ---
 
 En este momento está [Meridiem Games - Eldrador Creatures](https://www.amazon.es/dp/B08HSRJDDF/?tag=tolees-21) a 19.95 EUR (original: 34.99 EUR) (42.98 %  de descuento) en el siguiente enlace!

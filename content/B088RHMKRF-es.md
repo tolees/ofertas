@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Future Rider Play ON  Zapatillas Un con un 50.06 % de descuento'
-date: 2021-07-22 14:53:07
+date: 2021-08-05 12:32:23
 image: 'https://m.media-amazon.com/images/I/41pprX62XnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
