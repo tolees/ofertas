@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POP Funko Avengers 634 Iron Man Gamerver al 43.78 % de descuento'
-date: 2021-07-31 18:16:09
+date: 2021-08-05 16:27:42
 image: 'https://m.media-amazon.com/images/I/41c688TiCpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'POP'
 buyurl: 'https://www.amazon.es/dp/B087F61TLC/?tag=tolees-21'
 descuento: '43.78'
-average: '18.078'
+average: '17.875'
 ---
 
 Está [POP Funko Avengers 634 Iron Man Gamerverse Sticker Special Edition](https://www.amazon.es/dp/B087F61TLC/?tag=tolees-21) con 43.78 de descuento por 16.86 EUR (original: 29.99 EUR) en el siguiente enlace!
