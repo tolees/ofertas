@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.77 % en Spontex Bayeta Multifácil 2+1  Amarillo '
-date: 2021-07-30 09:14:15
+date: 2021-08-05 08:39:44
 image: 'https://m.media-amazon.com/images/I/51VkKuBMEvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Spontex'
 buyurl: 'https://www.amazon.es/dp/B00UCA315E/?tag=tolees-21'
 descuento: '46.77'
-average: '1.01652173913043'
+average: '1.01541666666666'
 ---
 
 Tienes [Spontex Bayeta Multifácil 2+1  Amarillo  3 Unidad](https://www.amazon.es/dp/B00UCA315E/?tag=tolees-21) con un 46.77 % de descuento con precio de oferta de 0.99 EUR (original: 1.86 EUR) en el siguiente enlace!
