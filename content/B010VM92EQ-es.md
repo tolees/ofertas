@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanex Dermo Sensitive Desodorante Roll-O al 58.18 % de descuento'
-date: 2021-07-26 06:42:27
+date: 2021-08-06 16:16:30
 image: 'https://m.media-amazon.com/images/I/41wNS4cpcqS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sanex'
 buyurl: 'https://www.amazon.es/dp/B010VM92EQ/?tag=tolees-21'
 descuento: '58.18'
-average: '1.42'
+average: '1.405'
 ---
 
 Ahora mismo tienes [Sanex Dermo Sensitive Desodorante Roll-On  50ml](https://www.amazon.es/dp/B010VM92EQ/?tag=tolees-21) a 1.33 EUR (original: 3.18 EUR) (58.18 %  de descuento) en el siguiente enlace!
