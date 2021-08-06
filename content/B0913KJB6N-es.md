@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Ventilador de Techo con Mando a  al 36.18 % de descuento'
-date: 2021-08-04 21:10:34
+date: 2021-08-06 13:11:33
 image: 'https://m.media-amazon.com/images/I/41n61DLT6rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [Cecotec Ventilador de Techo con Mando a Distancia y Luz EnergySilence Aer
 ℹ️:
 
 - Facilidad de montaje para una instalación rápida y sencilla. El ventilador dispone de todos los elementos necesarios para su instalación.
+- Gran potencia de 65 W, con motor de cobre de alto rendimiento que aumenta el caudal de aire y la sensación de frescor, con la máxima fiabilidad y durabilidad. Amplío diámetro de 42 pulgadas (106 cm) que aumentan la cobertura de aire fresco en la estancia.
 - Cómodo y sencillo control gracias a su mando a distancia, desde el cual seleccionar el funcionamiento del ventilador. Su temporizador permite seleccionar 1, 3 o 6 horas de funcionamiento, tras el cual el ventilador se apagará.
 - El ventilador integra una lámpara que lo convierte en un práctico equipo híbrido. Consigue luz y un ambiente perfecto en tu hogar de la forma más eficaz y asequible.
 - Podrás elegir entre 3 velocidades de funcionamiento (Low, Medium y High), adecuando la intensidad del caudal de aire a tus necesidades. Sistema formado por 3 aspas reversibles totalmente innovadoras y aerodinámicas, diseñadas para maximizar el flujo de aire y garantizar un caudal constante de aire fresco.
-- Gran potencia de 65 W, con motor de cobre de alto rendimiento que aumenta el caudal de aire y la sensación de frescor, con la máxima fiabilidad y durabilidad. Amplío diámetro de 42 pulgadas (106 cm) que aumentan la cobertura de aire fresco en la estancia.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0913KJB6N/?tag=tolees-21)
