@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 69.57 % en G-STAR RAW Xinva Slim Turtle Neck Camise'
-date: 2021-08-05 11:39:42
+date: 2021-08-07 13:20:42
 image: 'https://m.media-amazon.com/images/I/41HHJUDNDGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [G-STAR RAW Xinva Slim Turtle Neck Camiseta  Sartho Blue C515-6067  L par
 
 ℹ️:
 
-- Cuello alto
 - Dobladillo recto
+- Cuello alto
 - Logotipo de G-Star RAW bordado en el pecho
 - Manga larga, inserto recto
 

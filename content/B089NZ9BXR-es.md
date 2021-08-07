@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EXOST - Coche teledirigido - Hyperdrift  al 68.97 % de rebaja'
-date: 2021-08-06 08:51:13
+date: 2021-08-07 14:46:12
 image: 'https://m.media-amazon.com/images/I/41-iRC-JLGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Exost'
 buyurl: 'https://www.amazon.es/dp/B089NZ9BXR/?tag=tolees-21'
 descuento: '68.97'
-average: '18.712'
+average: '18.1390909090909'
 ---
 
 Tienes [EXOST - Coche teledirigido - Hyperdrift - Derrapes asegurados - Neumáticos diseñados para el Drift - Escala 1:14](https://www.amazon.es/dp/B089NZ9BXR/?tag=tolees-21) con precio final de  12.41 EUR (original: 39.99 EUR) (68.97 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [EXOST - Coche teledirigido - Hyperdrift - Derrapes asegurados - Neumáti
 
 🔎:
 
-- Escala 1:14.
+- Derrapes asegurados.
 - Neumáticos diseñados para el drift.
 - Neumáticos diseñados para el drift.
 - Hyperdrift de Exost : un Coche de última tecnología con Neumáticos especialmente diseñados para el drift. Realiza acrobacias y giros vertiginosos y supera todos los obstáculos a 360º. Escala 1:14. Pilas no incluidas : 4 x AA (Coche) y 2 x AA (mando). A partir de 5 años.
-- Derrapes asegurados.
+- Escala 1:14.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089NZ9BXR/?tag=tolees-21)
