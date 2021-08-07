@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Em-eukal Jengibre-Naranja sin azúcar 75g al 46.48 % de descuento'
-date: 2021-07-29 13:47:42
+date: 2021-08-07 17:50:18
 image: 'https://m.media-amazon.com/images/I/51tCYJNAmbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
