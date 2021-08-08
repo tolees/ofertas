@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Xiaomi Mi True Wireless Earphones 2 Basi con un 37.73 % de descuento'
-date: 2021-07-22 22:26:03
+title: 'Xiaomi Mi True Wireless Earphones 2 Basi con un 38.98 % de descuento'
+date: 2021-08-08 17:21:55
 image: 'https://m.media-amazon.com/images/I/319NlxW1jTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08BRGH7S3-es Xiaomi Mi True Wireless Earphones 2 Basic Los nuevos...'
 sku: 'B08BRGH7S3-es'
 tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','xiaomi', ]
-actualPrice: 24.9 EUR
+actualPrice: 24.4 EUR
 currency: EUR
-price: 24.9
+price: 24.4
 comparePrice: 39.99 EUR
 prodname: 'Xiaomi Mi True Wireless Earphones 2 Basic Los nuevos Auriculares Tienen una autonomía de batería más Larga  Sonido  fácil de Combinar  Color Blanco  versión Global '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08BRGH7S3/?tag=tolees-21'
-descuento: '37.73'
-average: '25.1241237113401'
+descuento: '38.98'
+average: '25.2311764705882'
 ---
 
-En este momento está [Xiaomi Mi True Wireless Earphones 2 Basic Los nuevos Auriculares Tienen una autonomía de batería más Larga  Sonido  fácil de Combinar  Color Blanco  versión Global ](https://www.amazon.es/dp/B08BRGH7S3/?tag=tolees-21) a 24.9 EUR (original: 39.99 EUR) (37.73 %  de descuento) en el siguiente enlace!
+En este momento está [Xiaomi Mi True Wireless Earphones 2 Basic Los nuevos Auriculares Tienen una autonomía de batería más Larga  Sonido  fácil de Combinar  Color Blanco  versión Global ](https://www.amazon.es/dp/B08BRGH7S3/?tag=tolees-21) a 24.4 EUR (original: 39.99 EUR) (38.98 %  de descuento) en el siguiente enlace!
 
 [![Xiaomi Mi True Wireless Earphones 2 Basi](https://m.media-amazon.com/images/I/319NlxW1jTL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08BRGH7S3/?tag=tolees-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bohemian Rhapsody [DVD] al 49.95 % de descuento'
-date: 2021-08-07 14:48:19
+date: 2021-08-08 17:19:09
 image: 'https://m.media-amazon.com/images/I/41OacZGPopL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWVCQL2/?tag=tolees-21'
 descuento: '49.95'
-average: '10.3998620689654'
+average: '10.3628767123286'
 ---
 
 Ahora mismo tienes [Bohemian Rhapsody [DVD]](https://www.amazon.es/dp/B07JWVCQL2/?tag=tolees-21) a 5.0 EUR (original: 9.99 EUR) (49.95 %  de descuento) en el siguiente enlace!
