@@ -29,9 +29,9 @@ Tienes [1LIFE Auriculares Sound One -1IFEHSSNDONE- Auricular Estéreo 27mm con M
 ℹ️:
 
 - Conexión 3.5 mm jack x2
-- Auriculares
-- Longitud del cable: 1.8 m
 - Conexión: 2 x jack 3.5 mm
+- Auriculares
 - Micrófono flexible
+- Longitud del cable: 1.8 m
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MTGCYV5/?tag=tolees-21)
