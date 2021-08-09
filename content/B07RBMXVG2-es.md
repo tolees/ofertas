@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PNY Elite Memoria Flash 128 GB MicroSDXC al 39.16 % de descuento'
-date: 2021-08-03 14:47:09
+date: 2021-08-09 16:07:46
 image: 'https://m.media-amazon.com/images/I/41elLbycbZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [PNY Elite Memoria Flash 128 GB MicroSDXC Clase 10 UHS-I - Ta
 
 🔎:
 
-- V10 video speed class ideal para video hd/full hd
 - A1 application performance class 1
 - Class 10 uhs-i u1
 - Adaptador sd incluido
+- V10 video speed class ideal para video hd/full hd
 - Velocidad de lectura hasta 100mb/s
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RBMXVG2/?tag=tolees-21)

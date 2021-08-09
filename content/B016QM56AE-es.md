@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Core Stretch Slim Cneck t al 50.00 % de descuento'
-date: 2021-08-04 18:27:20
+date: 2021-08-09 16:11:45
 image: 'https://m.media-amazon.com/images/I/41XGmc2xOSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
