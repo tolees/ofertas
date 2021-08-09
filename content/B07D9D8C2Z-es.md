@@ -28,10 +28,10 @@ Ahora mismo tienes [Trust Gaming GXT 865 Asta Teclado Mecánico Gaming Switch Re
 
 🔎:
 
-- SWITCH Red silencioso y lineal: teclas mecánicas de respuesta rápida y lineal que aguantan hasta 50 millones de golpes, con una superficie de actuación de 2 mm y 45 gramos de fuerza
 - Iluminación arcoiris: iluminación en siete colores con brillo ajustable
+- SWITCH Red silencioso y lineal: teclas mecánicas de respuesta rápida y lineal que aguantan hasta 50 millones de golpes, con una superficie de actuación de 2 mm y 45 gramos de fuerza
 - Construcción robusta y sólida: placa superior metálica, placa inferior antideslizante con pies de goma, y canal para el cable para optimizar la gestión de cables
-- Acceso rápido: 11 teclas multimedia de acceso directo, gaming mode para desactivar la tecla Windows
 - Anti-ghosting avanzado: Anti-ghosting con N-key rollover
+- Acceso rápido: 11 teclas multimedia de acceso directo, gaming mode para desactivar la tecla Windows
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D9D8C2Z/?tag=tolees-21)

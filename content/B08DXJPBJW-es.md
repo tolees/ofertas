@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taurus Homeland Laser  La Elegancia Hech con un 43.14 % de descuento'
-date: 2021-07-11 18:36:29
+date: 2021-08-09 13:35:59
 image: 'https://m.media-amazon.com/images/I/314lDK1K1yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Tienes [Saint-Acior Uñas de Gel Accesorio para Manicura UV GEL Uñas Postizas L
 
 🔎:
 
-- El combo Great Value Pack para cualquier artista de uñas para comenzar a hacer arte de uñas en casa o dentro de un estudio.
-- Disfruta DIY uña arte.
 - Adecuado para uso profesional o para uso doméstico.
 - Ideal para fortalecer tus uñas y mejorar el brillo.
+- El combo Great Value Pack para cualquier artista de uñas para comenzar a hacer arte de uñas en casa o dentro de un estudio.
+- Disfruta DIY uña arte.
 - Creando bonitas uñas para un efecto duradero, brillan uñas artificiales.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D57S4BZ/?tag=tolees-21)
