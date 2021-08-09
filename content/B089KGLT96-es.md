@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SD Games - Dragon Ball Memoarrr! al 40.00 % de descuento'
-date: 2021-08-05 16:41:05
+date: 2021-08-09 09:02:13
 image: 'https://m.media-amazon.com/images/I/51P0Rb40d+S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [SD Games - Dragon Ball Memoarrr!](https://www.amazon.es/dp/B089KGLT96/?ta
 
 ℹ️:
 
-- Juego de Mesa Dragon Ball Memoarrr!
-- Producto creado con atención al detalle
 - Memoarrr! uno de los juegos más exitosos de SD Games, premio al mejor juego infantil Essen 2018, se une a Gokü, Krilin, Bulma y compañía, para llenar nuestras mesas de pura diversión.
+- Producto creado con atención al detalle
 - Producto que combina tradición e innovación
 - Juega junto a los héroes de la serie Dragon Ball y pon a prueba tu memoria.
+- Juego de Mesa Dragon Ball Memoarrr!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089KGLT96/?tag=tolees-21)
