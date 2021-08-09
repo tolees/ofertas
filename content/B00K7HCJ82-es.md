@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rubies - Disfraz de Deadpool Deluxe para al 57.43 % de descuento'
-date: 2021-08-04 18:16:13
+date: 2021-08-09 10:04:38
 image: 'https://m.media-amazon.com/images/I/41awQw+cW7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rubies'
 buyurl: 'https://www.amazon.es/dp/B00K7HCJ82/?tag=tolees-21'
 descuento: '57.43'
-average: '28.53'
+average: '27.7244444444444'
 ---
 
 Ahora mismo tienes [Rubies - Disfraz de Deadpool Deluxe para adulto  M  Rubies 810109 ](https://www.amazon.es/dp/B00K7HCJ82/?tag=tolees-21) a 21.28 EUR (original: 49.99 EUR) (57.43 %  de descuento) en el siguiente enlace!

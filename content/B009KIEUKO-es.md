@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Walt Disney Company Iberia - Peter P al 40.86 % de rebaja'
-date: 2021-07-12 07:09:37
+date: 2021-08-09 11:34:51
 image: 'https://m.media-amazon.com/images/I/51MCIR9pU-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'The Walt Disney Company Iberia'
 buyurl: 'https://www.amazon.es/dp/B009KIEUKO/?tag=tolees-21'
 descuento: '40.86'
-average: '10.8963076923076'
+average: '10.8296969696969'
 ---
 
 Tienes [The Walt Disney Company Iberia - Peter Pan - Edición Especial [Blu-ray]](https://www.amazon.es/dp/B009KIEUKO/?tag=tolees-21) con precio final de  6.5 EUR (original: 10.99 EUR) (40.86 %  de rebaja) aqui!
