@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 69.53 % en Haribo Happy Cola  Gominolas de Fruta  1'
-date: 2021-08-06 22:16:51
+date: 2021-08-09 22:40:45
 image: 'https://m.media-amazon.com/images/I/51vzCeT9adL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Haribo Happy Cola  Gominolas de Fruta  150 Unidades  Tarro de 1200 g](ht
 
 ℹ️:
 
-- 1 x 1,2 kg
 - Distribuido desde Alemania
+- 1 x 1,2 kg
 - Haribo feliz Cola, Paquete
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005PM6H5K/?tag=tolees-21)
