@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Go Walk Max Deluxe  Zapatillas  al 48.70 % de descuento'
-date: 2021-07-31 13:02:09
+date: 2021-08-10 08:16:50
 image: 'https://m.media-amazon.com/images/I/41+8w5w5VVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
