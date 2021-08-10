@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Mini Crossbody Solid  Red Batwing con un 37.52 % de descuento'
-date: 2021-08-09 07:51:12
+date: 2021-08-10 11:51:48
 image: 'https://m.media-amazon.com/images/I/41W2NfSZ9KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLSXB8P/?tag=tolees-21'
 descuento: '37.52'
-average: '12.7592307692308'
+average: '12.74'
 ---
 
 En este momento está [Levi s Mini Crossbody Solid  Red Batwing   Hombre  Talla Única  Negro  Regular Black   Talla única](https://www.amazon.es/dp/B08BLSXB8P/?tag=tolees-21) a 12.49 EUR (original: 19.99 EUR) (37.52 %  de descuento) en el siguiente enlace!
