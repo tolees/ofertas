@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional 7pzs. CYL-3 brocas pa al 59.66 % de descuento'
-date: 2021-08-04 12:57:45
+date: 2021-08-10 21:31:08
 image: 'https://m.media-amazon.com/images/I/51Jnuq5aoEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.es/dp/B001IBOQIM/?tag=tolees-21'
 descuento: '59.66'
-average: '21.05'
+average: '19.4425'
 ---
 
 Está [Bosch Professional 7pzs. CYL-3 brocas para hormigón Set  para hormigón  Robust Line  Diámetro 4–12 mm  accesorios taladro percutor](https://www.amazon.es/dp/B001IBOQIM/?tag=tolees-21) con 59.66 de descuento por 14.62 EUR (original: 36.24 EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [Bosch Professional 7pzs. CYL-3 brocas para hormigón Set  para hormigón 
 ℹ️:
 
 - Diámetro: 4/5/6/8/10/12 mm
-- Color: plateado
 - Contenido: 7 piezas
+- Color: plateado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001IBOQIM/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming GXT 865 Asta Teclado Mecáni al 37.07 % de descuento'
-date: 2021-08-09 11:59:11
+date: 2021-08-10 20:03:49
 image: 'https://m.media-amazon.com/images/I/41WscxkUj3S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trust Gaming'
 buyurl: 'https://www.amazon.es/dp/B07D9D8C2Z/?tag=tolees-21'
 descuento: '37.07'
-average: '38.9785714285714'
+average: '38.825'
 ---
 
 Ahora mismo tienes [Trust Gaming GXT 865 Asta Teclado Mecánico Gaming Switch Red Interruptor Rojo Lineal y Silencioso  Retroiluminación  Anti Ghosting N-key Rollover  Placa Superior Metálica Layout QWERTY Español  Negro](https://www.amazon.es/dp/B07D9D8C2Z/?tag=tolees-21) a 37.75 EUR (original: 59.99 EUR) (37.07 %  de descuento) en el siguiente enlace!
@@ -30,8 +30,8 @@ Ahora mismo tienes [Trust Gaming GXT 865 Asta Teclado Mecánico Gaming Switch Re
 
 - Iluminación arcoiris: iluminación en siete colores con brillo ajustable
 - SWITCH Red silencioso y lineal: teclas mecánicas de respuesta rápida y lineal que aguantan hasta 50 millones de golpes, con una superficie de actuación de 2 mm y 45 gramos de fuerza
-- Construcción robusta y sólida: placa superior metálica, placa inferior antideslizante con pies de goma, y canal para el cable para optimizar la gestión de cables
-- Anti-ghosting avanzado: Anti-ghosting con N-key rollover
 - Acceso rápido: 11 teclas multimedia de acceso directo, gaming mode para desactivar la tecla Windows
+- Anti-ghosting avanzado: Anti-ghosting con N-key rollover
+- Construcción robusta y sólida: placa superior metálica, placa inferior antideslizante con pies de goma, y canal para el cable para optimizar la gestión de cables
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D9D8C2Z/?tag=tolees-21)
