@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PARAMOUNT PICTURES - Paw patrol 22: Cach con un 49.95 % de descuento'
-date: 2021-08-08 17:13:41
+date: 2021-08-10 05:27:01
 image: 'https://m.media-amazon.com/images/I/51BNB4CBhML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PARAMOUNT PICTURES'
 buyurl: 'https://www.amazon.es/dp/B082BFW3CH/?tag=tolees-21'
 descuento: '49.95'
-average: '6.36'
+average: '6.02'
 ---
 
 En este momento está [PARAMOUNT PICTURES - Paw patrol 22: Cachorros en busca de un misterio [DVD]](https://www.amazon.es/dp/B082BFW3CH/?tag=tolees-21) a 5.0 EUR (original: 9.99 EUR) (49.95 %  de descuento) en el siguiente enlace!
