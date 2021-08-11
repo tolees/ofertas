@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Polk Audio S15E Signature Polk Audio Sig con un 40.03 % de descuento'
-date: 2021-08-09 11:15:30
+date: 2021-08-11 03:51:19
 image: 'https://m.media-amazon.com/images/I/41U9USFvL4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Polk Audio S15E Signature Polk Audio Signature S15 S �
 
 🔎:
 
+- 10, 16 cm de polipropileno controladores
+- Amplificador de potencia recomendada: 20 – 100 w
+- 2, 54 cm de terylene) high ek-res tweeter
 - Pasivo full range altavoz de estantería
 - 8 ohmios
-- Amplificador de potencia recomendada: 20 – 100 w
-- 10, 16 cm de polipropileno controladores
-- 2, 54 cm de terylene) high ek-res tweeter
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07J6B98PQ/?tag=tolees-21)
