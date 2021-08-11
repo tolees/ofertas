@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.95 % en Ben Hur [DVD]'
-date: 2021-08-08 23:24:55
+date: 2021-08-10 23:51:50
 image: 'https://m.media-amazon.com/images/I/51un3pLU1DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0055KM5GM/?tag=tolees-21'
 descuento: '49.95'
-average: '9.892'
+average: '9.16'
 ---
 
 Tienes [Ben Hur [DVD]](https://www.amazon.es/dp/B0055KM5GM/?tag=tolees-21) con un 49.95 % de descuento con precio de oferta de 5.5 EUR (original: 10.99 EUR) en el siguiente enlace!

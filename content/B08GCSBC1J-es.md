@@ -28,8 +28,8 @@ Está [Skechers GHENTER DAGSBY  Zapatillas Mujer  Black  38 EU](https://www.amaz
 
 ℹ️:
 
-- EN ISO 20347:2012 - OB SRC
 - Plantilla de espuma viscoelástica
+- EN ISO 20347:2012 - OB SRC
 - Ajuste holgado
 - Patrón de banda de rodadura antideslizante
 - Cuerda elástica antideslizante con O/s
