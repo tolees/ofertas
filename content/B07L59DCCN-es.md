@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Max White Expert Enjuague - 250  al 61.92 % de rebaja'
-date: 2021-08-04 16:41:00
+date: 2021-08-11 08:57:14
 image: 'https://m.media-amazon.com/images/I/41ITUjZbSyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colgate'
 buyurl: 'https://www.amazon.es/dp/B07L59DCCN/?tag=tolees-21'
 descuento: '61.92'
-average: '0.996666666666667'
+average: '0.996'
 ---
 
 Tienes [Colgate Max White Expert Enjuague - 250 ml](https://www.amazon.es/dp/B07L59DCCN/?tag=tolees-21) con precio final de  0.99 EUR (original: 2.6 EUR) (61.92 %  de rebaja) aqui!
