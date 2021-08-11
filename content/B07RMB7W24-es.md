@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! TV: Game of Thrones - Arya  al 47.83 % de rebaja'
-date: 2021-08-07 07:39:43
+date: 2021-08-11 18:26:49
 image: 'https://m.media-amazon.com/images/I/41XW2IPprJS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07RMB7W24/?tag=tolees-21'
 descuento: '47.83'
-average: '10.8885714285714'
+average: '10.8725352112676'
 ---
 
 Tienes [Funko - Pop! TV: Game of Thrones - Arya w/Two Headed Spear Figura Coleccionable  Multicolor  44819 ](https://www.amazon.es/dp/B07RMB7W24/?tag=tolees-21) con precio final de  9.75 EUR (original: 18.69 EUR) (47.83 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Funko - Pop! TV: Game of Thrones - Arya w/Two Headed Spear Figura Colecc
 
 🔎:
 
-- El artículo es adecuado para todos los fanáticos de Game of Thrones
-- Figura de colección de la marca Funko
 - Recomendado para niños a partir de 3 años
+- Figura de colección de la marca Funko
 - El producto se envía en una caja ilustrada con ventana
+- El artículo es adecuado para todos los fanáticos de Game of Thrones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RMB7W24/?tag=tolees-21)
