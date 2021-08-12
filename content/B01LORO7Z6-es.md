@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'SanDisk Extreme 32GB SDHC Memory Card up al 46.63 % de descuento'
-date: 2020-05-11 07:56:55
-image: 'https://m.media-amazon.com/images/I/518ExAu9z+L._SL400_.jpg'
+title: 'SanDisk Extreme 32GB SDHC Memory Card up al 43.36 % de descuento'
+date: 2021-08-12 00:02:19
+image: 'https://m.media-amazon.com/images/I/512Bzx8YRDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01LORO7Z6-es SanDisk Extreme 32GB SDHC Memory Card up to 90MB/s Class...'
 sku: 'B01LORO7Z6-es'
-tags: [  ]
-actualPrice: 8.0 EUR
+tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Tarjetas SD','Tarjetas de memoria','sandisk', ]
+actualPrice: 8.49 EUR
 currency: EUR
-price: 8.0
+price: 8.49
 comparePrice: 14.99 EUR
 prodname: 'SanDisk Extreme 32GB SDHC Memory Card up to 90MB/s  Class 10  U3  V30'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B01LORO7Z6/?tag=tolees-21'
-descuento: '46.63'
-average: '9.020000000000001'
+descuento: '43.36'
+average: '8.8875'
 ---
 
-Está [SanDisk Extreme 32GB SDHC Memory Card up to 90MB/s  Class 10  U3  V30](https://www.amazon.es/dp/B01LORO7Z6/?tag=tolees-21) con 46.63 de descuento por 8.0 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [SanDisk Extreme 32GB SDHC Memory Card up to 90MB/s  Class 10  U3  V30](https://www.amazon.es/dp/B01LORO7Z6/?tag=tolees-21) con 43.36 de descuento por 8.49 EUR (original: 14.99 EUR) en el siguiente enlace!
 
-[![SanDisk Extreme 32GB SDHC Memory Card up](https://m.media-amazon.com/images/I/518ExAu9z+L._SL400_.jpg)](https://www.amazon.es/dp/B01LORO7Z6/?tag=tolees-21)
+[![SanDisk Extreme 32GB SDHC Memory Card up](https://m.media-amazon.com/images/I/512Bzx8YRDL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01LORO7Z6/?tag=tolees-21)
 
 ℹ️:
 
+- Dispone del estándar UHS Speed Class 3 (U3), que le permitirá grabar vídeo Full HD y 4K UHD
+- Velocidades de escritura de hasta 40 MB/s para un rendimiento rápido de disparo a disparo y hasta 90 MB/s para una transferencia más rápida
+- El estándar UHS Video Speed Class 30 (V30) significa que su tarjeta está lista para los nuevos avances en materia de realidad virtual y grabación de vídeo en 360°
+- Velocidades extremas para fotografía en modo ráfaga, transferencias rápidas y 4K UHD
+- Disponible en capacidades que van de 16 GB a 256 GB para grabar vídeos más largos y hacer sesiones fotográficas ininterrumpidas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LORO7Z6/?tag=tolees-21)
