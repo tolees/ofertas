@@ -28,8 +28,8 @@ En este momento está [Plastimyr Bañera plegable Lea - Bañera plegable  color 
 
 🔎:
 
-- Cierre fácil y compacto.
 - Práctica bañera rígida con cambiador abatible para poder cambiar o vestir al bebé.
 - Su chasis es plegable, incorpora cubeta rígida con tapón y tubo de desagüe, bandeja portaobjetos para tener a mano todos los enseres necesarios para tu peque y pies antideslizantes.
+- Cierre fácil y compacto.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F5D3FCF/?tag=tolees-21)

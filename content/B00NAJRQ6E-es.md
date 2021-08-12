@@ -28,10 +28,10 @@ Está [Compex Fit 3.0 Electroestimulador  Unisex  Azul](https://www.amazon.es/dp
 
 ℹ️:
 
-- Aumenta o recupera la fuerza, el tono muscular y alivia el dolor
-- Tecnología con cables
-- Tecnología Mi: Mi-Scan
 - Programas: Anti-dolor (8), recuperación (2), rehabilitación (1)y fitness (9)
 - Fit 3.0 ofrece programas de masaje para aficionados al fitness que practican su actividad 3 veces por semana
+- Tecnología Mi: Mi-Scan
+- Tecnología con cables
+- Aumenta o recupera la fuerza, el tono muscular y alivia el dolor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00NAJRQ6E/?tag=tolees-21)

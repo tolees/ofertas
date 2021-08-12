@@ -28,10 +28,10 @@ Está [Adidas Real Madrid Temporada 2020/21 Equipación Completa Oficial  Niño 
 
 ℹ️:
 
-- Camiseta de manga corta y cuello en V
 - Compuesto por camiseta y pantalones
 - Los pantalones tienen rayas específicas de la marca
-- Pantalones cortos con tejido ligero y cintura elástica
 - Conjunto deportivo para practicar fútbol adecuado para niños
+- Camiseta de manga corta y cuello en V
+- Pantalones cortos con tejido ligero y cintura elástica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CJWG96S/?tag=tolees-21)

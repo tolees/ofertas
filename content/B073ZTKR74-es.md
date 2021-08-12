@@ -28,10 +28,10 @@ Tienes [Edding Colour Happy Big Box - juego grande de 20 +1 mezclador colores gr
 
 🔎:
 
+- Rotulador con punta de pincel fino de calidad para escritura; pintura vibrante y mezclable para papel claro; el mezclador de color puede crear 190 degradados
 - Los rotuladores con punta de pincel edding están disponibles en 20 colores; pueden combinarse muy bien con la rotulador pastel blanco edding 1500
 - 10 colores creativos: verde claro, ocre, turquesa, naranja claro, albaricoque pálido, melón, mandarina, azul celeste, papaya, gris plata
 - 10 colores estándar: negro, rojo, azul, verde, amarillo, naranja, marrón, violeta, rosa, azul claro
-- Rotulador con punta de pincel fino de calidad para escritura; pintura vibrante y mezclable para papel claro; el mezclador de color puede crear 190 degradados
 - Punta de pincel suave y flexible para detalles finos y áreas más importantedes; mezclable con agua si está húmedo; resistente a la luz, la tinta no traspasa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073ZTKR74/?tag=tolees-21)

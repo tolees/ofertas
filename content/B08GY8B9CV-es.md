@@ -28,10 +28,10 @@ Tienes [Ana María Lajusticia - Ana Maria Lajusticia – Aceite de Magnesio – 
 
 🔎:
 
+- El magnesio disminuye el cansancio y la fatiga.
 - El magnesio contribuye al mantenimiento y regeneración de los tejidos en condiciones normales.
-- Aplicación directamente sobre la piel. Aplicar sobre la zona sensibilizada después de la actividad física realizando un ligero masaje
 - El magnesio ayuda a reducir los calambres, las contracturas y las arritmias, ya que participa en la relajación muscular.
 - El aceite de magnesio contribuye a la recuperación y relajación muscular.
-- El magnesio disminuye el cansancio y la fatiga.
+- Aplicación directamente sobre la piel. Aplicar sobre la zona sensibilizada después de la actividad física realizando un ligero masaje
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GY8B9CV/?tag=tolees-21)
