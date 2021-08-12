@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Jeans TJM Short Sleeve Dobby Shirt al 50.00 % de rebaja'
-date: 2021-08-10 14:41:05
+date: 2021-08-12 10:45:38
 image: 'https://m.media-amazon.com/images/I/41rCimI5DpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [Tommy Jeans TJM Short Sleeve Dobby Shirt Camisa  Azul Marino Crepúsculo
 
 🔎:
 
-- Este es un producto auténtico y original de Tommy Jeans
 - Este producto ha sido fabricado de forma sostenible con materiales sostenibles
+- Este es un producto auténtico y original de Tommy Jeans
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08C9GN8G4/?tag=tolees-21)
