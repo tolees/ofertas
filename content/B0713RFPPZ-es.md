@@ -28,11 +28,11 @@ En este momento está [Cars 3- Cruz rapida Coche Interactivo luz y Sonidos  25 c
 
 🔎:
 
-- Este coche de carreras nuevo responde a los movimientos; al moverlo hacia delante, hacia atrás y hacia los lados, o al ponerlo del revés
-- Se venden por separado y están sujetos a disponibilidad
-- Dice más de veinte frases de la película como: "¡Eres mi héroe, McQueen!"
-- Disfruta inventando aventuras y recreando toda la diversión de la película con este vehículo interactivo de Cruz Ramírez de Cars 3 de Disney Pixar
 - También puedes hacerte con el vehículo Rayo McQueen Rápido y Parlanchín para recrear incluso más divertidas escenas de la película y carreras interactivas
+- Este coche de carreras nuevo responde a los movimientos; al moverlo hacia delante, hacia atrás y hacia los lados, o al ponerlo del revés
+- Disfruta inventando aventuras y recreando toda la diversión de la película con este vehículo interactivo de Cruz Ramírez de Cars 3 de Disney Pixar
+- Dice más de veinte frases de la película como: "¡Eres mi héroe, McQueen!"
+- Se venden por separado y están sujetos a disponibilidad
 - Además, sus faros delanteros y traseros se iluminan y sus ojos se mueven como en la película
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0713RFPPZ/?tag=tolees-21)

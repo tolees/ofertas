@@ -29,8 +29,8 @@ En este momento está [Semillas Batlle - Sustratos - Sustrato Universal 80l. - B
 🔎:
 
 - Ideal para cultivar todo tipo de plantas tanto en condiciones de interior coo de exterior
-- Estudiada fórmula con turba, fibra de coco, perlita, material vegetal compostado, activador de raíces y fertilizante, otorga una gran esponjosidad
 - Composición : mezcla de fibra de coco, turba rubia, turba negra, material vegetal compostado, materia orgánica y perlita
 - Paqueteage Weight: 26.0 kilograms
+- Estudiada fórmula con turba, fibra de coco, perlita, material vegetal compostado, activador de raíces y fertilizante, otorga una gran esponjosidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00WI5NS3Q/?tag=tolees-21)

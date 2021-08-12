@@ -28,8 +28,8 @@ Ahora mismo tienes [Guess Reloj Analógico para Hombre de Cuarzo con Correa en S
 
 🔎:
 
-- Correa de silicona
 - Esfera negra
 - Reloj Guess negro W1161G2
+- Correa de silicona
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H5CRGX7/?tag=tolees-21)

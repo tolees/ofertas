@@ -28,10 +28,10 @@ Ahora mismo tienes [Warner Bros Interactive Spain Lego Dimensions - Fantastic Be
 
 🔎:
 
+- numberOfItems : 1
+- Classification PEGI : ages_7_and_over
 - packageQuantity : 1
 - numberOfDiscs : 1
-- numberOfItems : 1
 - isAdultProduct : false
-- Classification PEGI : ages_7_and_over
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01GG2ZAGY/?tag=tolees-21)

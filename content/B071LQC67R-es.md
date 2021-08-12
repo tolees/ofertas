@@ -28,10 +28,10 @@ Ahora mismo tienes [BONAI 1100mAh Pilas Recargables Ni-MH AAA  1200 Ciclos  1 2V
 
 🔎:
 
+- 【Ampliamente aplicable】Las pilas recargable AAA son muy adecuado para los equipos domésticos como la cámara digital, el juguete, el control remoto, el juego de la máquina portátil, radios de 2 vías, PDAs, linternas, despertadores, Reloj, LCD-TV, cepillos de dientes, máquinas de afeitar y reproductores de audio portátiles
 - 【Larga vida útil】Pilas aaa recargables ciclos de carga y descarga de hasta 1200 veces, es muy conveniente y le permite ahorrar mucho dinero en su larga vida útil
 - 【Precargado】todas las pilas recargable de Bonai vienen parcialmente cargadas, pero es mejor cargarlas completamente antes del primer uso, la pilas Ni-MH AAA obtendrá el mejor rendimiento después de 3-5 ciclos de carga
 - 【8 Unidades Pilas Recargables】BONAI 8 piezas 1100mAh 1.2V Ni-MH pilas recargables AAA.
 - 【Baja autodescarga】BONAI Batería Recargables fabricadas en tecnología superlattice, Todavía mantienen el 80% de su capacidad después de 3 años sin uso. Los materiales de alta calidad y la tecnología de fabricación avanzada de estas baterías reducen al mínimo la autodescarga.
-- 【Ampliamente aplicable】Las pilas recargable AAA son muy adecuado para los equipos domésticos como la cámara digital, el juguete, el control remoto, el juego de la máquina portátil, radios de 2 vías, PDAs, linternas, despertadores, Reloj, LCD-TV, cepillos de dientes, máquinas de afeitar y reproductores de audio portátiles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071LQC67R/?tag=tolees-21)
