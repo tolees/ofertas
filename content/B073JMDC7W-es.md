@@ -28,9 +28,9 @@ Ahora mismo tienes [Philips Lighting myLiving Foco eniluminación interior GU10 
 
 🔎:
 
-- Tres focos con cabezal ajustable
+- Los focos myLiving son discretos y se integran en cualquier interior
 - Índice de protección: IP20
 - Potencia eléctrica: 10 vatios
-- Los focos myLiving son discretos y se integran en cualquier interior
+- Tres focos con cabezal ajustable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073JMDC7W/?tag=tolees-21)

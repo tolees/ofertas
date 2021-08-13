@@ -28,10 +28,10 @@ Tienes [Zacro Controlador de Mando para Switch  Reemplazo de Stick  con Vibraci�
 
 🔎:
 
-- Agarre ergonómico y cómodo, diseño táctil suave, alivia eficazmente la fatiga de los dedos, juegos fáciles de jugar durante mucho tiempo, agarre curvo, agarre cómodo, gran botón R / ZR y L / ZL, adecuado para la mayoría de las manos grandes masculinas.
-- Antes de usar este producto, abra la consola de juegos Switch para ingresar al menú de configuración, busque el elemento de configuración "manija y sensor" y configure "Conexión por cable de la manija profesional" en "ON".
 - Diseñado con interfaz Tipo C, que permite a los jugadores cargar la consola Switch mientras juegan. Admite el adaptador de alimentación de conmutación original o el adaptador de alimentación de protocolo PD estándar de 15V para cargar.
-- Equipado con un botón de captura de pantalla, sensor de gravedad de giroscopio de seis ejes, vibración de motor dual, interfaz de entrada de carga, actualización del sistema del controlador, diseño del mango y otras funciones, para brindarle una mejor experiencia de juego.
+- Agarre ergonómico y cómodo, diseño táctil suave, alivia eficazmente la fatiga de los dedos, juegos fáciles de jugar durante mucho tiempo, agarre curvo, agarre cómodo, gran botón R / ZR y L / ZL, adecuado para la mayoría de las manos grandes masculinas.
 - Controlador de Mando está diseñado para Switch específicamente. Después de conectarse directamente a la consola Switch, el controlador Switch establecerá automáticamente una conexión, plug and play.Nota: No aplicable a Fortnite
+- Equipado con un botón de captura de pantalla, sensor de gravedad de giroscopio de seis ejes, vibración de motor dual, interfaz de entrada de carga, actualización del sistema del controlador, diseño del mango y otras funciones, para brindarle una mejor experiencia de juego.
+- Antes de usar este producto, abra la consola de juegos Switch para ingresar al menú de configuración, busque el elemento de configuración "manija y sensor" y configure "Conexión por cable de la manija profesional" en "ON".
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0819GQQFW/?tag=tolees-21)
