@@ -28,10 +28,10 @@ Tienes [COMIFORT Silla de Escritorio Juvenil / Talla Media  Sillas de Oficina Er
 
 🔎:
 
-- 【Certificada】Las sillas COMIFORT tienen certificación BIFMA y SGS. Perfectas para escritorio y oficina.
-- 【Cómodo y elegante】Silla Escritorio juvenil con malla transpirable de respaldo bajo. Dimensiones de la silla, 88-98cm de alto x 45cm de ancho y 42cm de profundidad. Dimensiones del respaldo, 57cm de alto x 43cm de ancho. Dimensiones del asiento, 46cm de ancho, 7cm de grosor y 42cm de profundidad. Peso máximo de tolerancia 125KG.
 - 【Regulable】Preparada silla de escritorio idónea para estatura media (1,70-1,75cm). Altura regulable y cómoda. Gracias a su acabado en malla, obtendrás la máxima comodidad junto con un diseño atractivo y colorido.
 - 【Montaje, garantía y Atención al Cliente】Miles de clientes COMIFORT satisfechos por 📱teléfono y mail para solucionar dudas. Tu silla montada y lista en pocos minutos gracias a nuestro manual de montaje y uso.
+- 【Certificada】Las sillas COMIFORT tienen certificación BIFMA y SGS. Perfectas para escritorio y oficina.
+- 【Cómodo y elegante】Silla Escritorio juvenil con malla transpirable de respaldo bajo. Dimensiones de la silla, 88-98cm de alto x 45cm de ancho y 42cm de profundidad. Dimensiones del respaldo, 57cm de alto x 43cm de ancho. Dimensiones del asiento, 46cm de ancho, 7cm de grosor y 42cm de profundidad. Peso máximo de tolerancia 125KG.
 - 【🎁 Alfombrilla para ratón Gratis】Por la compra de tu Silla de Escritorio COMIFORT te regalamos una alfombrilla de ratón para escritorio o gaming de 26cm de ancho x 21cm de alto. *Ratón no incluido.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08QDMC84X/?tag=tolees-21)

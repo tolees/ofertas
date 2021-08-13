@@ -28,10 +28,10 @@ Ahora mismo tienes [YIMORE - Camión de Bomberos Eléctrico Juguete Coche Vehicu
 
 🔎:
 
-- Está hecho de plástico de alta calidad.
-- Expulsa agua por la manguera que lleva en el extremo de la escalera, cuenta con escalera extensible, luces y sonidos de sirena.
 - Perfecto funcionamiento y resistente a los golpes de los niños.
 - Fuego Camión para niños, fomentan el juego imaginativo.
 - Un regalo que les gustan a niños y niñas, realice el sueño heroico del niño.
+- Está hecho de plástico de alta calidad.
+- Expulsa agua por la manguera que lleva en el extremo de la escalera, cuenta con escalera extensible, luces y sonidos de sirena.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H2W4N7N/?tag=tolees-21)

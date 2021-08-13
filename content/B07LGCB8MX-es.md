@@ -30,8 +30,8 @@ En este momento está [Skechers Summits  Zapatillas Mujer  Multicolor  Nvlb Blac
 
 - suela flexible.
 - Elástico.
-- suela ligera.
 - función de espuma de memoria.
+- suela ligera.
 - material superior Soft.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07LGCB8MX/?tag=tolees-21)
