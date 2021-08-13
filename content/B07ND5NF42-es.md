@@ -28,8 +28,8 @@ Ahora mismo tienes [Dockers Smart 360 Flex Chino Tapered  Pantalones  Black 0013
 
 🔎:
 
-- Tiene bragueta con cremallera
-- Queda justo por debajo de la cintura
 - Confeccionado con técnicas Water<Less, que reducen el consumo de agua durante el proceso de acabado
+- Queda justo por debajo de la cintura
+- Tiene bragueta con cremallera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ND5NF42/?tag=tolees-21)
