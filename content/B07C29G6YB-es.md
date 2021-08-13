@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Knit Crew Neck Noo al 52.02 % de descuento'
-date: 2021-08-10 08:58:32
+date: 2021-08-13 12:10:44
 image: 'https://m.media-amazon.com/images/I/31aZj62Qi3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07C29G6YB/?tag=tolees-21'
 descuento: '52.02'
-average: '12.99'
+average: '12.6566666666667'
 ---
 
 Está [Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Rojo  Port Royale Detail:Twisted with Black   X-Small para Hombre](https://www.amazon.es/dp/B07C29G6YB/?tag=tolees-21) con 52.02 de descuento por 11.99 EUR (original: 24.99 EUR) en el siguiente enlace!

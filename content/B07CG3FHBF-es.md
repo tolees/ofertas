@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Knit Crew Neck Noo con un 52.02 % de descuento'
-date: 2021-08-10 21:02:14
+date: 2021-08-13 12:52:43
 image: 'https://m.media-amazon.com/images/I/31aZj62Qi3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Rojo  
 
 🔎:
 
-- Jersey de Jack & Jones.
 - De algodón.
+- Jersey de Jack & Jones.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CG3FHBF/?tag=tolees-21)
