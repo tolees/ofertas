@@ -28,10 +28,10 @@ En este momento está [Emporio Armani Reloj Analógico para Hombre de Cuarzo Cor
 
 🔎:
 
-- Movimiento de cuarzo analógico. Funcionalidad de cronógrafo
+- Resistente al agua hasta 330 pies
 - Ancho de banda: 22 mm
 - Diámetro de la caja: 50 mm
 - Tamaño de caja: 50 mm
-- Resistente al agua hasta 330 pies
+- Movimiento de cuarzo analógico. Funcionalidad de cronógrafo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0101ANHK8/?tag=tolees-21)
