@@ -28,8 +28,8 @@ Ahora mismo tienes [Guess Analógico GW0109L1](https://www.amazon.es/dp/B08GYHH2
 
 🔎:
 
-- Analógico para Mujer
 - 8 milimetros calendario Día y fecha correa ajustable
 - Guess Modelo Reloj GW0109L1
+- Analógico para Mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GYHH2ZV/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.84 % en Shunga Vela de Masaje Romance  Aroma de '
-date: 2021-07-16 15:41:34
+date: 2021-08-14 15:01:05
 image: 'https://m.media-amazon.com/images/I/518qvGFG3SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Shunga'
 buyurl: 'https://www.amazon.es/dp/B00SUNGTMW/?tag=tolees-21'
 descuento: '35.84'
-average: '13.315'
+average: '13.2414285714286'
 ---
 
 Tienes [Shunga Vela de Masaje Romance  Aroma de Vino Espumoso con Fresas  Color Blanco - 170 ml  15.2 x 12.7 x 10.2 cm](https://www.amazon.es/dp/B00SUNGTMW/?tag=tolees-21) con un 35.84 % de descuento con precio de oferta de 12.8 EUR (original: 19.95 EUR) en el siguiente enlace!
