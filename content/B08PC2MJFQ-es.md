@@ -28,8 +28,8 @@ Ahora mismo tienes [Reebok FLOATRIDE Energy 3.0  Zapatillas de Running Hombre  C
 
 🔎:
 
-- Cuello del talón cómodo y ancho
-- Parte superior de punto de cuadros transpirable
 - Mediasuela de Floatride Energy, que te ofrece una sensación ligera y una pisada suave y reactiva
+- Parte superior de punto de cuadros transpirable
+- Cuello del talón cómodo y ancho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PC2MJFQ/?tag=tolees-21)
