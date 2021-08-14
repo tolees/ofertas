@@ -28,8 +28,8 @@ Ahora mismo tienes [Organic Shop  Mascarilla de pelo - 250 ml.](https://www.amaz
 
 🔎:
 
-- Deep Conditioners & Treatments
 - Un producto cosmético de alta calidad.
 - Organic Shop Avocado & Honey hair mask, 250 ml
+- Deep Conditioners & Treatments
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BQ98G2Q/?tag=tolees-21)
