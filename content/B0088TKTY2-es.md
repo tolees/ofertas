@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WN823N - Adaptador WiFi USB i al 38.96 % de descuento'
-date: 2021-08-11 17:49:00
+date: 2021-08-14 00:06:17
 image: 'https://m.media-amazon.com/images/I/41jxZkzNcnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B0088TKTY2/?tag=tolees-21'
 descuento: '38.96'
-average: '9.08014319809076'
+average: '9.08403800475067'
 ---
 
 Ahora mismo tienes [TP-Link TL-WN823N - Adaptador WiFi USB inalámbrico Compatible con Raspberry Pi  N 300 Mbps  MI-MO  WPS  Modo softAP](https://www.amazon.es/dp/B0088TKTY2/?tag=tolees-21) a 9.9 EUR (original: 16.22 EUR) (38.96 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [TP-Link TL-WN823N - Adaptador WiFi USB inalámbrico Compatib
 
 🔎:
 
-- TAMAÑO NANO – Diseño de tamaño miniatura para una portabilidad conveniente con un alto desempeño confiable
-- WiFi N 300 Mbps – WiFi de 300 Mbps, velocidad adecuada para video en alta definición sin problemas, streaming de voz y juegos en línea
-- MODO softAP – Convierta una conexión de internet cableada en una PC o Laptop en un hotspot Wi-Fi
-- SIN CONFIGURACIÓN – Configure fácilmente una conexión inalámbrica segura con sólo presionar un botón WPS
 - MULTI COMPATIBILIDAD – Compatible con Raspberry Pi, Windows10/8.1/8/7/XP, Mac OS X 10.7-10.11, Linux
+- MODO softAP – Convierta una conexión de internet cableada en una PC o Laptop en un hotspot Wi-Fi
+- TAMAÑO NANO – Diseño de tamaño miniatura para una portabilidad conveniente con un alto desempeño confiable
+- SIN CONFIGURACIÓN – Configure fácilmente una conexión inalámbrica segura con sólo presionar un botón WPS
+- WiFi N 300 Mbps – WiFi de 300 Mbps, velocidad adecuada para video en alta definición sin problemas, streaming de voz y juegos en línea
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0088TKTY2/?tag=tolees-21)
