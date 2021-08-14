@@ -28,9 +28,9 @@ Ahora mismo tienes [GORE WEAR 100387 Calentador de Cuello  Unisex adulto  Negro 
 
 🔎:
 
-- Emblema reflectante
-- Mezcla de material de alta funcionalidad
 - Costuras planas para un óptimo confort
 - Producto GORE WINDSTOPPER suave y versátil: Cortaviento, repelente al agua y altamente transpirable
+- Mezcla de material de alta funcionalidad
+- Emblema reflectante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077Y1G7QL/?tag=tolees-21)

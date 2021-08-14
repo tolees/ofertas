@@ -28,10 +28,10 @@ En este momento está [Mefine - Grifos de Fregadero Cocina  Grifo de Cocina Gira
 
 🔎:
 
-- ☆【Rango de giro de 360°】El grifo de fregadero puede girar el colector de salida de agua 360 grados con una mano, de modo que se puede colocar el chorro de agua durante el lavado exactamente donde se desee. Esto es útil para cambiar entre dos lavabos.
-- ☆【Alta calidad】El acabado duradero de acero cepillado resiste manchas de agua y huellas dactilares. No se oxida todo el año.
-- ☆【Ahorro de agua】La boquilla dispone de un ABS Bubbler hace que el agua sea muy suave y cómodo y puede ahorrar hasta un 40% de agua.
-- ☆【Válvula cerámica】El grifo mezclador está equipado con una parte interior de cerámica de alta calidad, que es responsable de la regulación de agua caliente y fría. Antienvejecimiento, alta resistencia a la presión y sin goteos.
 - ☆【Fácil montaje】32-45 mm, tornillos de cobre alargados de 50 mm, incluye 2 mangueras flexibles de conexión de 600 mm. Todas las piezas procesadas están certificadas por LGA y completamente libres de contaminantes.
+- ☆【Rango de giro de 360°】El grifo de fregadero puede girar el colector de salida de agua 360 grados con una mano, de modo que se puede colocar el chorro de agua durante el lavado exactamente donde se desee. Esto es útil para cambiar entre dos lavabos.
+- ☆【Válvula cerámica】El grifo mezclador está equipado con una parte interior de cerámica de alta calidad, que es responsable de la regulación de agua caliente y fría. Antienvejecimiento, alta resistencia a la presión y sin goteos.
+- ☆【Ahorro de agua】La boquilla dispone de un ABS Bubbler hace que el agua sea muy suave y cómodo y puede ahorrar hasta un 40% de agua.
+- ☆【Alta calidad】El acabado duradero de acero cepillado resiste manchas de agua y huellas dactilares. No se oxida todo el año.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TTXKNLK/?tag=tolees-21)

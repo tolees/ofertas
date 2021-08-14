@@ -28,8 +28,8 @@ Ahora mismo tienes [Geox D Sozy G  Sandalias con Punta Abierta para Mujer  Negro
 
 🔎:
 
-- Cierre: Hebilla
 - Tipo de tacón: Plano
+- Cierre: Hebilla
 - Revestimiento: Cuero
 - Material exterior: Cuero
 - Material de la suela: Sintético

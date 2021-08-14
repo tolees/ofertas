@@ -28,8 +28,8 @@ Tienes [Philips Shades - Lámpara de pared  15 W  220 V  color antracita](https:
 
 ℹ️:
 
-- Un diseño exclusivo para momentos exclusivos al aire libre
-- Este elegante aplique Ecomoods de Philips antracita emite una luz blanca cálida de bajo consumo
 - Los atractivos efectos de iluminación bidireccional te invitan a sentarte y relajarte en el jardín
+- Este elegante aplique Ecomoods de Philips antracita emite una luz blanca cálida de bajo consumo
+- Un diseño exclusivo para momentos exclusivos al aire libre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BG5CHFE/?tag=tolees-21)

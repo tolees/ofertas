@@ -30,8 +30,8 @@ Ahora mismo tienes [SKYSPER Mujer Pantalones Largos Ciclismo Deportivos Deportes
 
 - ✅ Multifuncional:Diseño ergonómico y corte 3D, las mallas para correr se ajustan bien. Son aptas para montar largas distancias. El pantalón de jegging es adecuado para ciclismo, fitness, yoga, gimnasio, trotar, correr, caminar, casi para todos los deportes y el uso diario.
 - ✅ REFLECTANTE LOGOTIPO de SKYSPER: Impresión reflectante del logotipo de SKYSPER agregado a la izquierda de los pantalones para mejorar la visibilidad mientras se conduce de noche. El bolsillo izquierdo está diseñado para llevar objetos pequeños contigo.
-- ✅ CINTURA ALTA: Mallas de ciclismo con Diseño de cintura alta, reduzca la presión de la cintura, elástica y ancha, ajuste cómodo. La pretina de 5 cm de ancho evita que los pantalones se caigan al hacer deportes.
-- ✅ SÚPER ELÁSTICO: Un pantalón de Ciclismo de lo más cómodo y elástico: un tejido elástico que se ajusta perfectamente a tu cuerpo, son muy suaves, sin costuras que apriete, con zona alta en la cintura y tejido transpirable, el cual se seca enseguida.
 - ✅ MATERIAL PREMIUM: Los pantalones de yoga hechos de 85% poliéster y 15% Spandex, tienen una gran elasticidad y transpirabilidad. Tejido seco para mantenerte fresco, hacen que esta prensa se convierta en tu segunda piel, se amoldara a la perfección sin restarnos flexibilidad, además es muy duradera y resistente.
+- ✅ SÚPER ELÁSTICO: Un pantalón de Ciclismo de lo más cómodo y elástico: un tejido elástico que se ajusta perfectamente a tu cuerpo, son muy suaves, sin costuras que apriete, con zona alta en la cintura y tejido transpirable, el cual se seca enseguida.
+- ✅ CINTURA ALTA: Mallas de ciclismo con Diseño de cintura alta, reduzca la presión de la cintura, elástica y ancha, ajuste cómodo. La pretina de 5 cm de ancho evita que los pantalones se caigan al hacer deportes.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GZDCC7K/?tag=tolees-21)
