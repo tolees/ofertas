@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D Sandal Vega A  Sandalias con Punt al 60.01 % de rebaja'
-date: 2021-08-12 13:16:06
+date: 2021-08-14 22:10:43
 image: 'https://m.media-amazon.com/images/I/41zFbaUsAUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
