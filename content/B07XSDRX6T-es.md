@@ -29,13 +29,13 @@ Está [Di4 Plancha de Vapor Stiro Healthy 3200W  Elimina el 99 9999% de los Viru
 ℹ️:
 
 - El depósito de la plancha de Di4 cuenta con una capacidad de 400 ml y un triple sistema antical (1-autolimpieza, 2-cartucho antical, 3-golpe antical); además tiene mango con Sense Technology ya que el vapor se activa gracias a su sensor táctil
-- La plancha de Di4 cuenta con un programa Healthy especial para planchar cualquier tejido con efecto anti-microbiano reforzado; es una tecnología patentada que aporta una mayor eficacia debido a una mayor rapidez en captación de la temperatura por el tejido, aplicando el vapor a pulsos utilizando un programa de planchado universal
+- Potente vapor de 3200w y golpe de vapor max 250gr y vapor variable 0-65 gr/min; cuenta con un sistema de inyección de agua que facilita una mayor penetración de vapor en los tejidos, eliminando bacterias sin problemas
+- Eficacia comprobada por la Universidad de Navarra y el Centro Tecnológico de Cataluña
 - Elimina el 99,9999% de los virus y bacterias de forma rápida y sencilla sin dañar tu ropa
 - Vapor a 100 grados que penetra fácilmente los tejidos
-- Eficacia comprobada por la Universidad de Navarra y el Centro Tecnológico de Cataluña
 - La suela diamond 4D Double Soleplate tiene un diseño multidireccional con 128 salidas reales de vapor para un resultado perfecto; además tiene un acabado "proslide" es decir, acabado anonizado de última generación para un deslizamiento superior
-- Potente vapor de 3200w y golpe de vapor max 250gr y vapor variable 0-65 gr/min; cuenta con un sistema de inyección de agua que facilita una mayor penetración de vapor en los tejidos, eliminando bacterias sin problemas
 - Temperatura Smartcare tecnología patentada inteligente de selección de la temperatura más adecuada para el planchado de cualquier tipo de prenda; también cuenta con una función anti-brillo para evitar el brillo en prendas oscuras y delicadas
+- La plancha de Di4 cuenta con un programa Healthy especial para planchar cualquier tejido con efecto anti-microbiano reforzado; es una tecnología patentada que aporta una mayor eficacia debido a una mayor rapidez en captación de la temperatura por el tejido, aplicando el vapor a pulsos utilizando un programa de planchado universal
 - Fabricada en España
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XSDRX6T/?tag=tolees-21)

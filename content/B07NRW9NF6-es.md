@@ -28,10 +28,10 @@ Está [Intenso Energy Ultra AAA Micro LR03 - Pilas alcalinas  24 Unidades ](http
 
 ℹ️:
 
+- Batería alcalina multiusos: adecuada para todos los usos
 - Máxima seguridad gracias a la certificación IEC
 - Ideal para su uso en todos los dispositivos de uso diario, como mandos a distancia, linternas, relojes, juguetes, etc
-- Batería alcalina multiusos: adecuada para todos los usos
-- Excelente rendimiento tanto para dispositivos que requieren poca energía continuamente durante un largo período de tiempo, como para dispositivos que requieren altas exigencias de potencia a corto plazo
 - Calidad Intenso de alta calidad y fiable
+- Excelente rendimiento tanto para dispositivos que requieren poca energía continuamente durante un largo período de tiempo, como para dispositivos que requieren altas exigencias de potencia a corto plazo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NRW9NF6/?tag=tolees-21)

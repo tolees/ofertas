@@ -28,10 +28,10 @@ Ahora mismo tienes [Orbegozo MS 4570 - Cortafiambres eléctrico con cuchilla de 
 
 🔎:
 
-- Cortadora de fiambre MS 4570 de 150 W de potencia
 - Ajuste del grosor del corte
 - Cuchilla de acero inoxidable con deslizador seguro y extraíble
 - 1 velocidad con función "Pulse"
+- Cortadora de fiambre MS 4570 de 150 W de potencia
 - Bandeja para el fiambre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00KL7KFWU/?tag=tolees-21)

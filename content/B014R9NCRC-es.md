@@ -28,7 +28,7 @@ Tienes [Reebok Cl Lthr  Zapatillas de Gimnasia Hombre  Blanco  INT/White/Gum INT
 
 🔎:
 
-- El zapato tiene una entresuela de EVA troquelada y un logotipo de Reebok en color gris
 - Suela de goma y plantilla de poliuretano moldeado
+- El zapato tiene una entresuela de EVA troquelada y un logotipo de Reebok en color gris
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014R9NCRC/?tag=tolees-21)

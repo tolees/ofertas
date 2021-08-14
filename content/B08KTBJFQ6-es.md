@@ -28,8 +28,8 @@ Está [Guess Analógico GW0208G1](https://www.amazon.es/dp/B08KTBJFQ6/?tag=tolee
 
 ℹ️:
 
-- 12 milimetros calendario Sin Hebilla
-- Guess Modelo Reloj GW0208G1
 - Analógico para Hombre
+- Guess Modelo Reloj GW0208G1
+- 12 milimetros calendario Sin Hebilla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KTBJFQ6/?tag=tolees-21)
