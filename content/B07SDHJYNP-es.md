@@ -28,9 +28,9 @@ Ahora mismo tienes [Control Finissimo - Caja de condones muy finos  gama sensibi
 
 🔎:
 
-- Material: látex de caucho natural
-- Caja ahorro 24 condones finos
 - Máxima sensibilidad y adaptabilidad en un mismo preservativo
+- Caja ahorro 24 condones finos
+- Material: látex de caucho natural
 - Anchura nominal 54 mm
 - Preservativo de máxima calidad, anatómico, con depósito y lubricado
 

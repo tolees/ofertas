@@ -28,9 +28,9 @@ Tienes [Mizuno Team Rodillera  Unisex Adulto  Negro  M](https://www.amazon.es/dp
 
 🔎:
 
-- Se articula para proteger la rodilla en la parte medial, lateral y frontal
 - Esta hecha de una mezcla de poliéster, algodón y spandex
 - Rodillera unisex para adultos
+- Se articula para proteger la rodilla en la parte medial, lateral y frontal
 - Es adecuada para porteros de fútbol
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B017XYN4CG/?tag=tolees-21)

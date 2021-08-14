@@ -28,10 +28,10 @@ Está [SMILEAT EAT & SMILE - Smileat - Pouch Ecológico de Yogur y Frambuesa  In
 
 ℹ️:
 
-- Os presentamos una nueva y maravillosa combinación cremosa y suave de yogur griego con frambuesa, manzana y plátano. Sus ingredientes ayudarán a tu peque a crecer fuerte.
+- Podéis empezar a ofrecer este puré a vuestro bebé a partir de los 12 meses.
 - Además, puedes cortar la parte superior, ponerle un palito o una cuchara, y congelarlo para que quede helado.
+- Os presentamos una nueva y maravillosa combinación cremosa y suave de yogur griego con frambuesa, manzana y plátano. Sus ingredientes ayudarán a tu peque a crecer fuerte.
 - Nuestra bolsita de yogur con frutas y cereales, contiene todos los beneficios de la frambuesa, la manzana y el plátano, combinado con los nutrientes del yogur y la fibra y efecto saciante del arroz.
 - Agitar el pouch antes de abrir. Una vez abierto puede consumirse el producto directamente del envase o vertiendo el contenido en una cuchara.
-- Podéis empezar a ofrecer este puré a vuestro bebé a partir de los 12 meses.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08C61LBH1/?tag=tolees-21)

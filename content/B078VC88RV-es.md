@@ -28,9 +28,9 @@ En este momento está [Philips Lighting myGarden Aplique iluminación Exterior  
 
 🔎:
 
-- Diseñado para tu jardín terraza o patio
-- Gran calidad y resistencia a la intemperie
 - Bajo consumo
+- Diseñado para tu jardín terraza o patio
 - IP44: resistente al agua
+- Gran calidad y resistencia a la intemperie
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078VC88RV/?tag=tolees-21)

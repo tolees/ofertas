@@ -28,10 +28,10 @@ Ahora mismo tienes [PARFUMS SAPHIR Fruit Attraction Azahar - Eau de Toilette par
 
 🔎:
 
+- Agua de colonia joven y vital con notas afrutadas para todas las edades
+- Fruit Attraction Azahar, contine propiedades tonificantes y un intenso aroma floral a azahar natural, que persiste en la piel por su elevada concentración de aceites esenciales
 - Con solo aplicar unos toques en las muñecas y el cuello, conseguirás que la fragancia te acompañe todo el día
 - Óptimo para uso diario gracias a su practico envase de 100 ml con vaporizador
-- Agua de colonia joven y vital con notas afrutadas para todas las edades
 - Fragancia que nos transporta a un jardín de notas refrescantes, cítricas y florales que nos regala la naturaleza creando un aroma adecuada en cada piel
-- Fruit Attraction Azahar, contine propiedades tonificantes y un intenso aroma floral a azahar natural, que persiste en la piel por su elevada concentración de aceites esenciales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H8GD7DN/?tag=tolees-21)

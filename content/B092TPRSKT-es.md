@@ -28,10 +28,10 @@ Ahora mismo tienes [Enfriador de aire portátil OEARE 4 en 1 enfriador de aire  
 
 🔎:
 
-- 【Consejos importantes】 Si encuentra que la potencia del enfriador de aire es insuficiente o no hay aire acondicionado durante el uso, use el adaptador 5V2A
-- 【Función múltiple 4 en 1】 No solo es un acondicionador de aire personal, sino que también se puede usar como ventilador, humidificador y purificador de aire. Mejora la purificación del aire y proporciona un viento más fuerte del enfriador de aire con una experiencia mucho más refrescante. La función de luz nocturna no solo puede crear una atmósfera romántica, sino que también puede ayudarlo a dormir mejor.
 - 【Humidificador y purificador de aire】 Este acondicionador de aire personal diseñado con humidificador, purificador de aire y función de viento frío de aniones, puede agregar agua limpia para la función de humidificador.Enfriamiento rápido, libera iones negativos, purifica el aire para que puedas disfrutar del aire fresco y mejorar el entorno de vida. ¡El enfriador de aire Oeare es perfecto para la oficina en el hogar al aire libre!
+- 【Consejos importantes】 Si encuentra que la potencia del enfriador de aire es insuficiente o no hay aire acondicionado durante el uso, use el adaptador 5V2A
 - 【Filtro fácil de limpiar y extraíble】 Es muy fácil de limpiar. Y el elemento filtrante tiene una gran capacidad de almacenamiento de agua, fácil de desmontar y limpiar, evita eficazmente el moho y el deterioro del elemento filtrante, bloquea eficazmente el polvo en el aire, El polvo, las bacterias, los microorganismos, etc., hacen que el aire sea más fresco, el viento es más limpio y saludable.
 - 【Configuración de 3 velocidades】 Puede seleccionar la energía eólica perfecta que necesite. Puede enfriar el aire caliente a tu alrededor en segundos. Consejos: agregar hielo puede acelerar la velocidad de enfriamiento.
+- 【Función múltiple 4 en 1】 No solo es un acondicionador de aire personal, sino que también se puede usar como ventilador, humidificador y purificador de aire. Mejora la purificación del aire y proporciona un viento más fuerte del enfriador de aire con una experiencia mucho más refrescante. La función de luz nocturna no solo puede crear una atmósfera romántica, sino que también puede ayudarlo a dormir mejor.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B092TPRSKT/?tag=tolees-21)
