@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips myLiving Star - Barra de focos   al 36.90 % de rebaja'
-date: 2021-08-13 13:06:13
+date: 2021-08-15 14:02:25
 image: 'https://m.media-amazon.com/images/I/31feToCP2PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B00A9VWCUG/?tag=tolees-21'
 descuento: '36.90'
-average: '77.0933333333333'
+average: '74.0675'
 ---
 
 Tienes [Philips myLiving Star - Barra de focos  LED  4 luces  aluminio  luz blanca cálida  3 W  color blanco](https://www.amazon.es/dp/B00A9VWCUG/?tag=tolees-21) con precio final de  64.99 EUR (original: 103.0 EUR) (36.90 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Philips myLiving Star - Barra de focos  LED  4 luces  aluminio  luz blan
 
 🔎:
 
-- Toque de iluminación
-- Cabezal de foco ajustable
-- Soluciones de iluminación sostenible
-- Luz blanca cálida
 - Vida útil prolongada
+- Toque de iluminación
+- Luz blanca cálida
+- Soluciones de iluminación sostenible
+- Cabezal de foco ajustable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00A9VWCUG/?tag=tolees-21)

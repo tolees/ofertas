@@ -28,10 +28,10 @@ Ahora mismo tienes [Michael Kors Reloj Analógico para de los Hombres de Cuarzo 
 
 🔎:
 
-- Tipo de vidrio: Cristal mineral | Color de la esfera: negro | Material de la caja: acero inoxidable
 - Resistente al agua: 5 ATM
 - Espesor de la caja: 10 mm | Tamaño de la caja: 44 mm.
-- Movimiento: cuarzo.
 - Ancho de la correa: 22 mm | Material de la banda: acero inoxidable
+- Movimiento: cuarzo.
+- Tipo de vidrio: Cristal mineral | Color de la esfera: negro | Material de la caja: acero inoxidable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086MJWX2T/?tag=tolees-21)
