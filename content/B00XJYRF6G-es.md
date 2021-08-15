@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Classic Leather Zapatillas  Mujer al 54.99 % de descuento'
-date: 2021-08-03 11:26:44
+date: 2021-08-15 11:29:46
 image: 'https://m.media-amazon.com/images/I/313ClchY2nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B00XJYRF6G/?tag=tolees-21'
 descuento: '54.99'
-average: '38.8362857142857'
+average: '38.8822222222222'
 ---
 
 Está [Reebok Classic Leather Zapatillas  Mujer  Blanco  Int-White / Gum   36 EU](https://www.amazon.es/dp/B00XJYRF6G/?tag=tolees-21) con 54.99 de descuento por 40.49 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VANS Atwood Canvas  Zapatillas Hombre  N al 39.03 % de descuento'
-date: 2021-08-10 18:45:43
+date: 2021-08-15 11:29:43
 image: 'https://m.media-amazon.com/images/I/31R3QYGDM-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B003RX1FBA/?tag=tolees-21'
 descuento: '39.03'
-average: '31.312'
+average: '31.7080952380952'
 ---
 
 Está [VANS Atwood Canvas  Zapatillas Hombre  Negro  Black 186   42 EU](https://www.amazon.es/dp/B003RX1FBA/?tag=tolees-21) con 39.03 de descuento por 39.63 EUR (original: 65.0 EUR) en el siguiente enlace!
@@ -31,7 +31,7 @@ Está [VANS Atwood Canvas  Zapatillas Hombre  Negro  Black 186   42 EU](https://
 - Cierre: Cordones
 - Composición: Textil
 - Tipo de tacón: Plano
-- Anchura del zapato: Normal
 - Tipo de talla: Talla estándar
+- Anchura del zapato: Normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003RX1FBA/?tag=tolees-21)

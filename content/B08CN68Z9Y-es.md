@@ -28,9 +28,9 @@ Tienes [Desigual Legging Tull Tiedye Pantalones Informales  Azul  S para Mujer](
 
 🔎:
 
+- Corte estándar
 - Camiseta tropical de algodón
 - Estampado de paisaje tropical por la noche
-- Corte estándar
 - Cuello redondo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CN68Z9Y/?tag=tolees-21)
