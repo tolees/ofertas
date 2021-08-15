@@ -28,8 +28,8 @@ Está [adidas Duramo SL  Sneaker  Core Black/Footwear White/Grey  28 EU](https:/
 
 ℹ️:
 
+- Malla superior
 - Cordones de zapatos
 - Corte regular
-- Malla superior
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BG6GHRG/?tag=tolees-21)

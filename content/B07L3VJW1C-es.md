@@ -28,10 +28,10 @@ Está [Educa - Atardecer en el Puerto Puzzle  5000 Piezas  Multicolor  18015 ](h
 
 ℹ️:
 
-- Edad recomendada: a partir de 12 años
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Serie Genuine
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Número de piezas: 5.000, medida aproximada una vez montado: 157 x 107
-- Serie Genuine
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Edad recomendada: a partir de 12 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07L3VJW1C/?tag=tolees-21)
