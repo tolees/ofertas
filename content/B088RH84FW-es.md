@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA X-rayâ Square Rainbow  Zapatillas U al 55.93 % de rebaja'
-date: 2021-08-13 11:52:03
+date: 2021-08-15 09:54:46
 image: 'https://m.media-amazon.com/images/I/41EyGmpVX4S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B088RH84FW/?tag=tolees-21'
 descuento: '55.93'
-average: '35.465'
+average: '35.3866666666667'
 ---
 
 Tienes [PUMA X-rayâ Square Rainbow  Zapatillas Unisex Adulto  Negro Scuba Azul Poppy Rojo  44 EU](https://www.amazon.es/dp/B088RH84FW/?tag=tolees-21) con precio final de  35.23 EUR (original: 79.95 EUR) (55.93 %  de rebaja) aqui!
