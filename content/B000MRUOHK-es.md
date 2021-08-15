@@ -29,8 +29,8 @@ Tienes [Nuby ID91161A - Pack 6 vasos para congelador en bolsa  120 ml  3+ m](htt
 ℹ️:
 
 - Plástico
-- Perfectas para snacks
-- facil de usar
 - multicolor
+- facil de usar
+- Perfectas para snacks
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000MRUOHK/?tag=tolees-21)

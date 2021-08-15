@@ -28,10 +28,10 @@ Ahora mismo tienes [MegaGear MG1312 Estuche de cámara ultra ligero  de neopreno
 
 🔎:
 
-- Al aire libre o de viaje: protege tu cámara y lente de la suciedad, las rayas, el polvo, los golpes y la humedad al viajar o pasar tiempo al aire libre
 - Colores vibrantes: viene en una variedad de únicos y divertidos colores para elegir; elige el color que mejor exprese tu estilo y tu pasión
 - Protección: fabricado en neopreno suave, alcolchado, duradero y antirrayas, ofrece la máxima protección
-- Rápido y práctico: el material de neopreno es flexible, liviano y ocupa un espacio mínimo, lo que convierte a esta funda en una compañera ideal para los exteriores
+- Al aire libre o de viaje: protege tu cámara y lente de la suciedad, las rayas, el polvo, los golpes y la humedad al viajar o pasar tiempo al aire libre
 - Hecho a medida: este estuche megagear de neopreno para cámara está especialmente diseñada para adaptarse a la dji osmo action, sony rx0 ii, gopro hero 7, sony rx0 1.0, gopro hero 5 black, hero 6 black con lo que se obtiene un calce perfecto
+- Rápido y práctico: el material de neopreno es flexible, liviano y ocupa un espacio mínimo, lo que convierte a esta funda en una compañera ideal para los exteriores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075VD7PY2/?tag=tolees-21)
