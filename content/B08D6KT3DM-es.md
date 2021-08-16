@@ -28,7 +28,7 @@ En este momento está [REPLAY Anbass Jeans  009 Azul Medio  36W x 30L para Hombr
 
 🔎:
 
-- Hyperflex Re-Used
 - Tejido vaquero elástico Hyperflex de 25 g
+- Hyperflex Re-Used
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08D6KT3DM/?tag=tolees-21)

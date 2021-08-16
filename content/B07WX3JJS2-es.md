@@ -28,10 +28,10 @@ Ahora mismo tienes [Newskill NS-CH-AKERON-GREEN Akeron - Silla gaming profesiona
 
 🔎:
 
-- Ruedas con cubiertas de nylon de 63mm
-- Pistón de gas de clase 4 capaz de soportar hasta 150kg
-- Sistema de balanceo y reclinable hasta 180º
-- Reposabrazos 3d
 - Respaldo y asiento microperforados para mejor sensación térmica
+- Ruedas con cubiertas de nylon de 63mm
+- Reposabrazos 3d
+- Sistema de balanceo y reclinable hasta 180º
+- Pistón de gas de clase 4 capaz de soportar hasta 150kg
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WX3JJS2/?tag=tolees-21)

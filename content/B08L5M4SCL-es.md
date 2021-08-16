@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Cartera de Piel con MagSafe  para  al 50.00 % de rebaja'
-date: 2021-08-14 19:55:17
+date: 2021-08-16 09:52:35
 image: 'https://m.media-amazon.com/images/I/31WKsVXte+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08L5M4SCL/?tag=tolees-21'
 descuento: '50.00'
-average: '55.7173333333333'
+average: '54.26625'
 ---
 
 Tienes [Apple Cartera de Piel con MagSafe  para el iPhone  - Azul báltico](https://www.amazon.es/dp/B08L5M4SCL/?tag=tolees-21) con precio final de  32.5 EUR (original: 65.0 EUR) (50.00 %  de rebaja) aqui!

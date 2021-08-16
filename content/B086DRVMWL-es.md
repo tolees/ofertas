@@ -28,10 +28,10 @@ Está [Outsunny Tumbona Plegable y Reclinable con Toldo Incorporado Aluminio y T
 
 ℹ️:
 
-- TUMBONA RECLINABLE CON TOLDO: Perfecta para colocar junto a una piscina, en el jardín de casa o en la terraza.
-- PLEGABLE: Guardarla es sencillo, porque al plegarla ocupa poco espacio.
 - RECLINABLE: Para encontrar la postura más cómoda en cada momento, se puede reclinar su respaldo.
 - MEDIDAS: Totales 169x72x55/72cm(LxAnxAl). Plegada 77x17x72cm(LxAnxAl). Soporta 120Kg.
+- PLEGABLE: Guardarla es sencillo, porque al plegarla ocupa poco espacio.
+- TUMBONA RECLINABLE CON TOLDO: Perfecta para colocar junto a una piscina, en el jardín de casa o en la terraza.
 - MINI TOLDO INCORPORADO: Así se puede disfrutar de la tumbona y disfrutar de una sombra agradable.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086DRVMWL/?tag=tolees-21)

@@ -28,11 +28,11 @@ Está [Eastpak Padded Pak r Mochila  40 cm  24 L  Azul  Mysty Blue ](https://www
 
 ℹ️:
 
-- El compartimento principal dispone de un bolsillo delantero con cremallera
-- No se han utilizado materiales de origen animal para fabricar este producto 100 % vegano
+- Alto: 40 cm Ancho: 30 cm Fondo: 18 cm
 - Confección en 100 % nailon
 - Correas ajustables para los hombros y panel de la espalda acolchados
-- Alto: 40 cm Ancho: 30 cm Fondo: 18 cm
+- No se han utilizado materiales de origen animal para fabricar este producto 100 % vegano
+- El compartimento principal dispone de un bolsillo delantero con cremallera
 - En nuestra gama de colores Mysty Blue
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08L8BB71V/?tag=tolees-21)

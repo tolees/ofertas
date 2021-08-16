@@ -28,10 +28,10 @@ Está [Eastpak Out Of Office Mochila  44 Cm  27 L  Gris  Black Denim ](https://w
 
 ℹ️:
 
-- Su parte trasera acolchada y las correas para los hombros son adecuadas para los días en los que llevas más peso
-- Altura: 44 cm, Ancho: 29.5 cm, Fondo: 22 cm
 - Fabricada con 60 % nylon y 40 % poliéster
+- Altura: 44 cm, Ancho: 29.5 cm, Fondo: 22 cm
 - Panel delantero con cremallera de fácil acceso, con espacio para portátiles de 13.3 pulgadas
 - Compartimento principal con espacioso bolsillo delantero para todos los objetos pequeños
+- Su parte trasera acolchada y las correas para los hombros son adecuadas para los días en los que llevas más peso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00O1XHJYW/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Eastpak Padded Pak r Mochila  40 cm  24 L  Negro  Kontrast Escape ](http
 
 🔎:
 
+- Alto: 40 cm Ancho: 30 cm Fondo: 18 cm
 - Correas ajustables para los hombros y panel de la espalda acolchados
+- Detalles en contraste
 - El compartimento principal dispone de un bolsillo delantero con cremallera
 - En nuestra gama de colores Kontrast Escape
 - Confección en 100 % poliéster
-- Alto: 40 cm Ancho: 30 cm Fondo: 18 cm
-- Detalles en contraste
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L89Z9HV/?tag=tolees-21)

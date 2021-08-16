@@ -29,11 +29,11 @@ En este momento está [AEG L7WEE861 Lavasecadora de Libre Instalación  Carga Fr
 🔎:
 
 - Dimensiones (Ancho x Alto x Profundo mm): 600 x 850 x 576.
+- Programa Rápido en 1H: Lava y Seca en pequeñas cantidades en sólo 60 minutos
+- Panel de control LCD fácil e intuitivo con Programa Rápido en menos de 59 minutos. Puerta XL, carga y descarga con facilidad
+- Función ProSense: Pesa automáticamente la carga para ahorrar tiempo, agua y energía. Evita que las prendas y los colores sufran por un lavado excesivo. Hasta 8kg de lavado
 - Motor Inverter: Mayor Durabilidad y Eficiencia Energética. Menor Ruido
 - Tecnología ProSteam: Emplean vapor para reducir las arrugas o refrescar tu ropa sin necesidad de lavarla
 - Función DualSense: adapta la temperatura y los movimientos del tambor dependiendo del tipo de tejido
-- Programa Rápido en 1H: Lava y Seca en pequeñas cantidades en sólo 60 minutos
-- Función ProSense: Pesa automáticamente la carga para ahorrar tiempo, agua y energía. Evita que las prendas y los colores sufran por un lavado excesivo. Hasta 8kg de lavado
-- Panel de control LCD fácil e intuitivo con Programa Rápido en menos de 59 minutos. Puerta XL, carga y descarga con facilidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HQWK7L3/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Garza 420026 Base Múltiple con Interruptor  Sin Cable  Blanco  6 Tomas]
 
 🔎:
 
+- Color blanco
 - Máximo: 3680w 16a / 250v
+- Regleta de enchufes múltiple de 6 tomas con interruptor
+- Sin cable; posibilidad de conectar el mas conveniente segun las necesidades
 - Materiales resistentes de alta calidad
 - Ladrón enchufes con protección infantil
-- Color blanco
-- Sin cable; posibilidad de conectar el mas conveniente segun las necesidades
-- Regleta de enchufes múltiple de 6 tomas con interruptor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078KWF19B/?tag=tolees-21)
