@@ -28,10 +28,10 @@ En este momento está [Quiksilver Molokai-Flip-Flops For Men  Zapatos de Playa y
 
 🔎:
 
-- Líneas poppy estrechas en el lateral
 - Suela de goma con tacos de logotipo multiángulo para tracción
-- Logotipo Quiksilver y logotipo de Mountain and Wave
+- Líneas poppy estrechas en el lateral
 - Flexible, sintética, con 3 puntos de goma
+- Logotipo Quiksilver y logotipo de Mountain and Wave
 - Suela interior estructurada antideslizante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WVSRMB/?tag=tolees-21)

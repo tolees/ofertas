@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Graphic 8 T-Shirt  Blau  Sartho Blue 336-6067   S para Hombre
 
 🔎:
 
-- Manga corta
-- 100% Algodón
+- Camiseta
 - Estilo del cuello: Cuello redondo
 - Lavar a máquina - caliente (mayor de 30 °)
-- Camiseta
+- 100% Algodón
+- Manga corta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MZJNM4M/?tag=tolees-21)
