@@ -28,8 +28,8 @@ Ahora mismo tienes [WOLFPACK LINEA PROFESIONAL 14070020 Masilla Repara Madera 12
 
 🔎:
 
-- Ideal para reparar grietas en los muebles de madera.
 - Color: haya.
 - Medida: 120 gr.
+- Ideal para reparar grietas en los muebles de madera.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00K7YBIAK/?tag=tolees-21)

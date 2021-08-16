@@ -28,9 +28,9 @@ En este momento está [ANGOPE Gas de 227Gr Pack  Multicolor  4 x Cartucho](https
 
 🔎:
 
-- Contiene tanto-butano e iso-butano
-- Cartucho de gas para cocina portátil Butsir MS-1000 y ms-3500
 - Modelo B-250 (equivalente del antiguo b-230 de Butsir)
 - También compatible con quemadores, sopletes y otras cocinas del mercado
+- Contiene tanto-butano e iso-butano
+- Cartucho de gas para cocina portátil Butsir MS-1000 y ms-3500
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00VVI2X3M/?tag=tolees-21)

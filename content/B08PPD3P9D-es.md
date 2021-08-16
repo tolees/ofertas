@@ -28,8 +28,8 @@ Tienes [adidas Campus 80S  Sneaker Hombre  Collegiate Navy/Footwear White/Off Wh
 
 🔎:
 
-- Zapatilla de 3 rayas
-- La parte superior de cuero
 - Suela de goma
+- La parte superior de cuero
+- Zapatilla de 3 rayas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PPD3P9D/?tag=tolees-21)

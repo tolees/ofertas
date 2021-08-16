@@ -28,9 +28,9 @@ Tienes [adidas Solar Glide W  Zapatillas para Correr Mujer  Core Black/FTWR Whit
 
 🔎:
 
+- Drop: 10 mm (talón: 32 mm / antepié: 22 mm)
 - Refuerzo a lo largo de la mediasuela
 - Cierre de cordones
-- Drop: 10 mm (talón: 32 mm / antepié: 22 mm)
 - Mediasuela Boost
 - Parte superior de malla
 

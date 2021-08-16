@@ -28,10 +28,10 @@ Tienes [Ufesa RD1500D - Radiador de Aceite Portátil 1500W  con Pantalla Digital
 
 🔎:
 
-- Temporizador de 24 horas
-- Pantalla táctil con pantalla
 - Temperatura regulable de 5 a 35 grados
-- 1500w de potencía
+- Temporizador de 24 horas
 - Adecuado para espacios bien aislados o para uso ocasional
+- 1500w de potencía
+- Pantalla táctil con pantalla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XSBS9FB/?tag=tolees-21)

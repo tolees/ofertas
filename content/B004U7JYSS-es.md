@@ -28,11 +28,11 @@ Ahora mismo tienes [Fujifilm instax WIDE - Película fotográfica instantánea d
 
 🔎:
 
-- Formato panorámico para photocall
-- Tamaño de la imagen de 62 x 99 mm
-- Tamaño de la foto de 86 x 108 mm
 - ISO 800 y grano ultra fino
+- Formato panorámico para photocall
+- Tamaño de la foto de 86 x 108 mm
 - Tiempo de revelado de máximo 5 m (entre 5° y 40° C)
 - 10 fotos por carga
+- Tamaño de la imagen de 62 x 99 mm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004U7JYSS/?tag=tolees-21)

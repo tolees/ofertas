@@ -28,8 +28,8 @@ En este momento está [Eastpak Benchmark Single Estuche  21 Cm  Verde  Crafty Mo
 
 🔎:
 
-- Fabricado 100 % en poliéster
 - Compartimento principal amplio para lápices y otros esenciales
 - Altura: 6 cm, Ancho: 20.5 cm, Fondo: 7.5 cm
+- Fabricado 100 % en poliéster
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D2XW8FN/?tag=tolees-21)

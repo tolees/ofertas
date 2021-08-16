@@ -29,7 +29,7 @@ Ahora mismo tienes [Philips Lighting - Philips My Garden Creek - Lámpara de par
 🔎:
 
 - Está fabricado con aluminio de alta calidad y proyecta una luz blanca cálida de bajo consumo
-- Todo lo que tienes que hacer es disfrutar de tu jardín
 - Crea un encantador punto destacado en tu entrada con este aplique My Garden de Philips negro
+- Todo lo que tienes que hacer es disfrutar de tu jardín
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00B45MGU2/?tag=tolees-21)

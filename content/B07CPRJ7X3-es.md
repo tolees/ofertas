@@ -28,10 +28,10 @@ En este momento está [Outsunny Columpio Balancín Jardín 3 Plazas Convertible 
 
 🔎:
 
-- Alta calidad: El marco está hecho de acero, es grueso, robusto y tiene gran estabilidad. La cubierta está hecha de tela poliéster, es resistente a la suciedad y es fácil de limpiar.
-- Es fácil de montar siguiendo las instrucciones que van incluidas. Dimensiones totales: 200x120x164cm (LxANxAL), dimensiones del asiento: 160x50cm (LxAN), altura del asiento (con cojín): 46cm, dimensiones de la cama: 160x98cm (LxAN), dimensiones de la bandeja: 15x25cm (LxAN). Capacidad máx. de carga: 340kg.
 - Diseño único: Columpio tipo balancín con respaldo que se convierte en cama o hamaca, ofreciendo así diferentes usos en el mismo producto. El techo es ajustable y desmontable para protegerse de los rayos del sol.
-- Gran comodidad: El columpio balancín tiene 3 asientos con un amplio espacio para hasta 4 personas. El cojín del asiento y el respaldo están llenos de algodón suave.
 - Detalles prácticos: Los pies tienen la base de plástico antideslizante. Incluye dos bandejas para bebidas en ambos lados.
+- Gran comodidad: El columpio balancín tiene 3 asientos con un amplio espacio para hasta 4 personas. El cojín del asiento y el respaldo están llenos de algodón suave.
+- Es fácil de montar siguiendo las instrucciones que van incluidas. Dimensiones totales: 200x120x164cm (LxANxAL), dimensiones del asiento: 160x50cm (LxAN), altura del asiento (con cojín): 46cm, dimensiones de la cama: 160x98cm (LxAN), dimensiones de la bandeja: 15x25cm (LxAN). Capacidad máx. de carga: 340kg.
+- Alta calidad: El marco está hecho de acero, es grueso, robusto y tiene gran estabilidad. La cubierta está hecha de tela poliéster, es resistente a la suciedad y es fácil de limpiar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CPRJ7X3/?tag=tolees-21)
