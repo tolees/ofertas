@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Cali Wedge WN S  Zapatillas Mujer   al 50.05 % de descuento'
-date: 2021-08-06 16:49:48
+date: 2021-08-16 17:17:56
 image: 'https://m.media-amazon.com/images/I/41sVimC-ZgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B081QKFMDL/?tag=tolees-21'
 descuento: '50.05'
-average: '48.6233333333333'
+average: '48.955'
 ---
 
 Está [Puma Cali Wedge WN S  Zapatillas Mujer  Negro Black White  36 EU](https://www.amazon.es/dp/B081QKFMDL/?tag=tolees-21) con 50.05 de descuento por 49.95 EUR (original: 100.0 EUR) en el siguiente enlace!
@@ -28,7 +28,7 @@ Está [Puma Cali Wedge WN S  Zapatillas Mujer  Negro Black White  36 EU](https:/
 
 ℹ️:
 
-- Puma Black-Puma White
 - Género: mujer
+- Puma Black-Puma White
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081QKFMDL/?tag=tolees-21)

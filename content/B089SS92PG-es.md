@@ -28,10 +28,10 @@ Ahora mismo tienes [MiiKARE Regleta de 8 enchufes con 4 Puertos USB 3000 W/13 A 
 
 🔎:
 
-- 4 puertos USB inteligentes: 4 puertos USB pueden detectar automáticamente la corriente y asignar a los dispositivos. Los puertos admiten una carga de hasta 5 V/3,1 A (total 3,4 A), lo que permite una velocidad más rápida al cargar tu teléfono o tableta.
-- 【Protección contra sobretensiones】: el enchufe del cable de extensión con una protección de sobretensión, que soporta hasta 1500 julios de potencia de energía, puede proteger eficazmente tus dispositivos contra los rayones y los golpes.
 - Protección contra sobrecarga: la protección de sobrecarga integrada garantiza que la regleta se desconecta automáticamente cuando se sobrecarga.
 - Diseño 12 en 1: regleta con protección contra sobretensiones con 8 tomas de CA (3000 W/13 A) y 4 puertos USB, ideal para la oficina, el hogar y otros lugares. Puede satisfacer sus necesidades de carga y alimentación simultánea de varios dispositivos.
 - Materiales de alta calidad: con material PC y 100% cobre puro, el enchufe múltiple es ignífugo, resistente al calor y altamente conductiva. 4 almohadillas de goma antideslizantes en la parte inferior para evitar daños accidentales por deslizamientos o arañazos.
+- 【Protección contra sobretensiones】: el enchufe del cable de extensión con una protección de sobretensión, que soporta hasta 1500 julios de potencia de energía, puede proteger eficazmente tus dispositivos contra los rayones y los golpes.
+- 4 puertos USB inteligentes: 4 puertos USB pueden detectar automáticamente la corriente y asignar a los dispositivos. Los puertos admiten una carga de hasta 5 V/3,1 A (total 3,4 A), lo que permite una velocidad más rápida al cargar tu teléfono o tableta.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089SS92PG/?tag=tolees-21)
