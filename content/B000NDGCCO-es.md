@@ -28,9 +28,9 @@ Tienes [Eastpak Springer Riñonera  23 Cm  2 L  Negro  Black ](https://www.amazo
 
 ℹ️:
 
-- Altura: 16.5 cm, Ancho: 23 cm, Fondo: 8.5 cm
 - Cinturón ajustable a la cintura para una adecuada comodidad
-- Compartimento principal con un bolsillo con cremallera en la parte de atrás para tarjetas y efectivo
 - Fabricada 100 % en nylon para un acabado adecuado
+- Altura: 16.5 cm, Ancho: 23 cm, Fondo: 8.5 cm
+- Compartimento principal con un bolsillo con cremallera en la parte de atrás para tarjetas y efectivo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000NDGCCO/?tag=tolees-21)
