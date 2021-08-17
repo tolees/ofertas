@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mustang 50687  Sandalia Mujer  Microfibe al 50.00 % de descuento'
-date: 2021-08-09 15:42:53
+date: 2021-08-17 15:59:09
 image: 'https://m.media-amazon.com/images/I/31VKsAr7okL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

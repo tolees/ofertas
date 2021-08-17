@@ -29,9 +29,9 @@ Tienes [Aigostar Eiffel 33JTT - Ventilador de torre oscilante con mando a distan
 ℹ️:
 
 - 【Cómodo y práctico】Gracias a su mando a distancia podrá controlar cualquier función de su ventilador cómodamente siempre que se encuentre en un radio de 5 metros, además el sistema oscilante de hasta 70 grados proporcionará un flujo de aire constante a cualquier zona de la estancia en la que ubique el ventilador.
-- 【Garantías de calidad】 Si tiene alguna consulta sobre nuestros productos, siempre puede ponerse en contacto con nosotros y estaremos encantados de ayudarle.
-- 【Funcionalidad y diseño】Diseñado con líneas elegantes para armonizar en cualquier estancia, este ventilador además está equipado con un cable extra largo de 1,8 metros de longitud, un motor gran calidad y resistencia de 45 watios y de una rejilla para la cubierta de las aspas más gruesa para evitar accidentes.
 - 【Modos & velocidad ajustables】El ventilador dispone de 3 modos de funcionamiento para adaptarse a lo que necesite: modo brisa natural, brisa normal o suspensión y de 3 velocidades de aire. El flujo máximo de aire es de 23,4 m³/min por lo que siempre dispondrá de un modo de refrescarse que se adapte a sus necesidades.
 - 【Temporizador programable】Programe de forma sencilla el apagado de su ventilador con el mando a distancia seleccionando desde 1 hora hasta un máximo de 8, podrá dormir con el ventilador encendido sin preocuparse de tener que recordar apagarlo.
+- 【Funcionalidad y diseño】Diseñado con líneas elegantes para armonizar en cualquier estancia, este ventilador además está equipado con un cable extra largo de 1,8 metros de longitud, un motor gran calidad y resistencia de 45 watios y de una rejilla para la cubierta de las aspas más gruesa para evitar accidentes.
+- 【Garantías de calidad】 Si tiene alguna consulta sobre nuestros productos, siempre puede ponerse en contacto con nosotros y estaremos encantados de ayudarle.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B077DWMZ35/?tag=tolees-21)
