@@ -29,7 +29,7 @@ Está [Bosch Professional 7pzs. CYL-3 brocas para hormigón Set  para hormigón 
 ℹ️:
 
 - Contenido: 7 piezas
-- Color: plateado
 - Diámetro: 4/5/6/8/10/12 mm
+- Color: plateado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001IBOQIM/?tag=tolees-21)
