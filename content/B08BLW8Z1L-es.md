@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Hernandez  Zapatillas Hombre  Bla al 35.03 % de descuento'
-date: 2021-08-11 11:50:33
+date: 2021-08-17 12:31:43
 image: 'https://m.media-amazon.com/images/I/319bjuFFvDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLW8Z1L/?tag=tolees-21'
 descuento: '35.03'
-average: '25.99'
+average: '28.99'
 ---
 
 Está [Levi s Hernandez  Zapatillas Hombre  Black Normal  41 EU](https://www.amazon.es/dp/B08BLW8Z1L/?tag=tolees-21) con 35.03 de descuento por 25.99 EUR (original: 40.0 EUR) en el siguiente enlace!
