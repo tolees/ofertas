@@ -28,8 +28,8 @@ Ahora mismo tienes [Kappa Logo MACEO 2  Chanclas Hombre  Azul  44 EU](https://ww
 
 🔎:
 
-- Estilo y comodidad
 - Chanclas Kappa
 - Nueva colección
+- Estilo y comodidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QX9ZS17/?tag=tolees-21)
