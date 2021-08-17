@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Classic Slip-on Platform  Zapatilla al 40.00 % de descuento'
-date: 2021-08-04 17:49:35
+date: 2021-08-17 11:36:11
 image: 'https://m.media-amazon.com/images/I/31kZM4ogWqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B01MRZL8S2/?tag=tolees-21'
 descuento: '40.00'
-average: '44.975'
+average: '44.9833333333333'
 ---
 
 Ahora mismo tienes [Vans Classic Slip-on Platform  Zapatillas sin Cordones Mujer  Negro  Black Blk   38.5 EU](https://www.amazon.es/dp/B01MRZL8S2/?tag=tolees-21) a 45.0 EUR (original: 75.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Vans Classic Slip-on Platform  Zapatillas sin Cordones Mujer
 
 🔎:
 
-- vans
-- V0018EBLK
 - Unisex
+- vans
 - Zapatillas
 - Classic Slip-On Platform
+- V0018EBLK
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MRZL8S2/?tag=tolees-21)

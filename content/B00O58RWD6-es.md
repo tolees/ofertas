@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eastpak Benchmark Single Estuche  21 Cm  al 46.36 % de descuento'
-date: 2021-08-16 07:46:36
+date: 2021-08-17 10:20:39
 image: 'https://m.media-amazon.com/images/I/41xKOZQjyhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EASTPAK'
 buyurl: 'https://www.amazon.es/dp/B00O58RWD6/?tag=tolees-21'
 descuento: '46.36'
-average: '7.43845679012349'
+average: '7.42901840490801'
 ---
 
 Está [Eastpak Benchmark Single Estuche  21 Cm  Gris  Black Denim ](https://www.amazon.es/dp/B00O58RWD6/?tag=tolees-21) con 46.36 de descuento por 5.9 EUR (original: 11.0 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Eastpak Benchmark Single Estuche  21 Cm  Gris  Black Denim ](https://www.
 
 ℹ️:
 
-- Altura: 6 cm, Ancho: 20.5 cm, Fondo: 7.5 cm
 - Compartimento principal amplio para lápices y otros esenciales
 - Fabricado con 60 % nylon y 40 % poliéster
+- Altura: 6 cm, Ancho: 20.5 cm, Fondo: 7.5 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00O58RWD6/?tag=tolees-21)
