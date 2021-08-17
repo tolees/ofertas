@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony 1307-4709  Auriculares Inalámbricos con un 59.69 % de descuento'
-date: 2021-08-08 21:30:59
+date: 2021-08-17 17:35:55
 image: 'https://m.media-amazon.com/images/I/313t10u4DuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B06XYDV3QN/?tag=tolees-21'
 descuento: '59.69'
-average: '45.35875'
+average: '44.3976470588235'
 ---
 
 En este momento está [Sony 1307-4709  Auriculares Inalámbricos Estéreo  Bluetooth  Color Gris](https://www.amazon.es/dp/B06XYDV3QN/?tag=tolees-21) a 29.02 EUR (original: 72.0 EUR) (59.69 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [Sony 1307-4709  Auriculares Inalámbricos Estéreo  Bluet
 🔎:
 
 - Una fácil conexión a su teléfono NFC
-- Botón de liberación remoto de la cámara
 - Hacer y recibir llamadas a través del altavoz
 - Android 4.4 y superior o iOS 9 y posterior
+- Botón de liberación remoto de la cámara
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XYDV3QN/?tag=tolees-21)
