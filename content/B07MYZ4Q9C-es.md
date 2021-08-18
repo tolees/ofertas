@@ -28,9 +28,9 @@ Tienes [Skechers Solar Fuse  Zapatillas Deportivas Mujer  Multicolor  WMLT Black
 
 🔎:
 
-- Ligeras.
-- Suela que no deja marcas.
 - Suela flexible.
 - Plantilla de espuma viscoelástica de Skechers.
+- Ligeras.
+- Suela que no deja marcas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MYZ4Q9C/?tag=tolees-21)

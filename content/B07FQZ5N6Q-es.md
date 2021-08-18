@@ -28,10 +28,10 @@ Está [Clarks Maritsa Lara  Sandalia con Pulsera Mujer  Negro  Black-   37 EU](h
 
 ℹ️:
 
-- Suela: goma
 - Forro: piel
-- Fijación: Riptape
 - Parte superior: ante
+- Fijación: Riptape
+- Suela: goma
 - Altura del talón: 7,5 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FQZ5N6Q/?tag=tolees-21)
