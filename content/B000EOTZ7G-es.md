@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canon EF-S 17-55MM F/2.8 IS USM  1242B00 al 35.98 % de descuento'
-date: 2021-08-09 17:42:37
+date: 2021-08-18 19:27:20
 image: 'https://m.media-amazon.com/images/I/41b5NpKoIyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Canon'
 buyurl: 'https://www.amazon.es/dp/B000EOTZ7G/?tag=tolees-21'
 descuento: '35.98'
-average: '670.501666666667'
+average: '663.428571428572'
 ---
 
 Ahora mismo tienes [Canon EF-S 17-55MM F/2.8 IS USM  1242B005AA  - Objetivo para Canon  distancia focal 17-5mm  estabilizador ](https://www.amazon.es/dp/B000EOTZ7G/?tag=tolees-21) a 620.99 EUR (original: 969.99 EUR) (35.98 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Canon EF-S 17-55MM F/2.8 IS USM  1242B005AA  - Objetivo para
 
 🔎:
 
-- Diafragma de abertura circular, para conseguir estéticos fondos desenfocados
-- Estabilización de imagen equivalente a tres puntos de velocidad
 - Apertura f/2.8
-- Autofoco rápido y silencioso
 - Zoom angular compatible para todos los cuerpos con montura EF-S
+- Diafragma de abertura circular, para conseguir estéticos fondos desenfocados
+- Autofoco rápido y silencioso
+- Estabilización de imagen equivalente a tres puntos de velocidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000EOTZ7G/?tag=tolees-21)
