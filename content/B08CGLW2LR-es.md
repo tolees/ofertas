@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Medium Drawstring Baador para Hombre  Desert 
 
 🔎:
 
-- Tommy Hilfiger - Cordón mediano para hombre
 - Este es un producto original y auténtico de Tommy Hilfiger.
+- Tommy Hilfiger - Cordón mediano para hombre
 - Este producto se produce de forma sostenible
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CGLW2LR/?tag=tolees-21)

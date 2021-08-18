@@ -28,10 +28,10 @@ En este momento está [Elmer s Kit Iniciación Slime con pegamento transparente 
 
 🔎:
 
-- El pegamento transparente PVA consigue crear una base transparente para slime que podrás personalizar fácilmente con colores
-- El pegamento Elmer es lavable y está indicado para uso infantil (no para niños menores de 3 años)
 - El líquido mágico Elmer es una solución completa que transforma el pegamento Elmer en un slime extremadamente divertido
 - Kit completo para hacer slime: 2 botes de pegamento transparente, 4 barras de pegamento con purpurina y 2 botes de solución activadora para slime
 - Las barras de pegamento con purpurina se encuentran disponibles en una amplia gama de colores brillantes que dan un toque deslumbrante al slime de purpurina casero, a la escritura y al pegado
+- El pegamento transparente PVA consigue crear una base transparente para slime que podrás personalizar fácilmente con colores
+- El pegamento Elmer es lavable y está indicado para uso infantil (no para niños menores de 3 años)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D6WMNH3/?tag=tolees-21)

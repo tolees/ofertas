@@ -28,10 +28,10 @@ Tienes [UDG U-8417 BL Creator - Maletín semirrígido para NI Maschine Mikro MK2
 
 ℹ️:
 
-- Protección: Suave terciopelo interior
-- Material: Espuma Durashock molded EVA
-- Color: Negro
 - Peso: 0.55 kg
+- Color: Negro
+- Protección: Suave terciopelo interior
 - Dimensiones exteriores: 37 x 25 x 7 cm
+- Material: Espuma Durashock molded EVA
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B008Y0JD0G/?tag=tolees-21)

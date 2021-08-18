@@ -28,10 +28,10 @@ Está [Spirale Bernd  Botines Unisex Adulto  Braun 47  36 EU](https://www.amazon
 
 ℹ️:
 
+- CORTE: nailon repelente al agua y cuero ecológico
+- SUELA: NixpreneTM, caucho sintético ligero y flexible
+- GALOCHA: NixpreneTM, caucho sintético ligero e impermeable
 - PLANTILLA: fieltro de doble capa
 - FORRO: polar con espuma aislante
-- SUELA: NixpreneTM, caucho sintético ligero y flexible
-- CORTE: nailon repelente al agua y cuero ecológico
-- GALOCHA: NixpreneTM, caucho sintético ligero e impermeable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00K0L16ZM/?tag=tolees-21)

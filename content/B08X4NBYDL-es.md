@@ -29,9 +29,9 @@ Tienes [Bcamelys - Aire Acondicionado Portátil Mini aire acondicionado portatil
 🔎:
 
 - ★ Gran tanque de agua: el tanque de agua de 500 ml adopta la refrigeración con un solo botón, que se puede utilizar durante mucho tiempo después de una inyección, eliminando el problema de la adición frecuente de agua.
+- ★ Multifunción: con funciones de refrigeración, humidificación y purificación. A diferencia del aire acondicionado, evita la piel seca. Pero es más fresco que un ventilador. El aire pasa a través del filtro integrado y luego sopla aire limpio y fresco para garantizar un uso seguro. Además de purificar el aire, hay un poco de efecto de humidificación.
+- ★ Fácil de usar y conveniente: todo lo que tienes que hacer es añadir agua en el tanque de este enfriador de aire de escritorio, conectarlo al puerto USB o banco de energía y encenderlo. Si quieres un mejor efecto de refrigeración, añade hielo al tanque de agua. Tenemos cubitos de hielo para ti en el paquete.
 - ★ La dirección del viento se puede cambiar fácilmente a mano, por lo que el estor se puede ajustar hacia arriba y hacia abajo con el viento. Puedes comprobar el nivel de agua y el uso desde la ventana de confirmación del nivel de agua junto al ventilador de refrigeración.
 - ★ Tamaño pequeño y fácil de llevar. Adecuado para el hogar, oficina, coche, al aire libre, camping, exhibición de fuegos artificiales y festivales.
-- ★ Fácil de usar y conveniente: todo lo que tienes que hacer es añadir agua en el tanque de este enfriador de aire de escritorio, conectarlo al puerto USB o banco de energía y encenderlo. Si quieres un mejor efecto de refrigeración, añade hielo al tanque de agua. Tenemos cubitos de hielo para ti en el paquete.
-- ★ Multifunción: con funciones de refrigeración, humidificación y purificación. A diferencia del aire acondicionado, evita la piel seca. Pero es más fresco que un ventilador. El aire pasa a través del filtro integrado y luego sopla aire limpio y fresco para garantizar un uso seguro. Además de purificar el aire, hay un poco de efecto de humidificación.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08X4NBYDL/?tag=tolees-21)

@@ -28,7 +28,7 @@ Ahora mismo tienes [Square Enix - Marvel s Avengers PS4](https://www.amazon.es/d
 
 🔎:
 
-- Unlock exclusive items and rare resources with the Kate Bishop Hero Challenge Card.
 - A new Super Hero joins Marvels Avengers! Play as world-class archer Kate Bishop at no additional cost.
+- Unlock exclusive items and rare resources with the Kate Bishop Hero Challenge Card.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SVNGBBF/?tag=tolees-21)

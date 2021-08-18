@@ -28,9 +28,9 @@ Está [Taurus Miami Premium Sandwichera Intercambiable  900 W  0 Decibeles  Plas
 
 ℹ️:
 
-- Placas extraíbles para una fácil limpieza
 - 2 pilotos luminosos: de conexión y de temperatura correcta
 - Se puede guardar en posición vertical
 - Incluye 3 placas antiadherentes: sándwich, grill y gofre
+- Placas extraíbles para una fácil limpieza
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CGJ1FGK/?tag=tolees-21)

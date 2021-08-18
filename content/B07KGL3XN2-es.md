@@ -28,10 +28,10 @@ Ahora mismo tienes [AZ FLAG Alicia en el País De Las Maravillas Disney Taza  Do
 
 🔎:
 
-- Producto útil y práctico
-- Diseño elegante
-- Producto de calidad óptima
 - Producto que combina tradición e innovación
 - Hecho de material de calidad
+- Producto útil y práctico
+- Producto de calidad óptima
+- Diseño elegante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KGL3XN2/?tag=tolees-21)

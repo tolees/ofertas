@@ -28,9 +28,9 @@ En este momento está [Kappa Logo ZENIO Pantalones Cortos  Azul Claro  L para Ho
 
 🔎:
 
-- Omini Kappa
-- Estilo chic y casual
 - Confort óptimo
+- Estilo chic y casual
+- Omini Kappa
 - Pantalón que permite la libertad de movimiento
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JYSHFHN/?tag=tolees-21)
