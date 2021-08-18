@@ -28,9 +28,9 @@ Está [Skechers Ultra Flex 2.0-Lite-Groove  Zapatillas Mujer  Multicolor  MVE Bl
 
 ℹ️:
 
-- Suela flexible
 - Suela que no deja marcas
 - Plantilla de espuma viscoelástica Skechers
+- Suela flexible
 - Peso ligero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MYZ91VB/?tag=tolees-21)

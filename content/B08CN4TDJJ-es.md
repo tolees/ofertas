@@ -28,8 +28,8 @@ Tienes [Desigual Denim Opa Pantalones Casuales  Blue  13/14 para Niñas](https:/
 
 🔎:
 
+- Estampado floral en el lateral con el mismo estampado en degradé.
 - Bordado lateral en rojo
 - 68% COTTON 27% POLYESTER 3% VISCOSE 2% ELASTANE
-- Estampado floral en el lateral con el mismo estampado en degradé.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CN4TDJJ/?tag=tolees-21)

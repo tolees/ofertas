@@ -28,10 +28,10 @@ Ahora mismo tienes [Bosch Hogar - Bosch TCZ6004  Pastillas de Limpieza y Descalc
 
 🔎:
 
-- Mantén tu máquina TASSIMO en perfectas condiciones con las pastillas para limpiar y descalcificar de Bosch
-- Utilízalas una vez se enciendan los pilotos rojos de descalcificado de tu cafetera
 - Este paquete incluye 4 pastillas para descalcificar que pueden ser utilizadas durante 2 tratamientos de descalcificación
-- Producto original de Bosch especialmente diseñado para tratar las máquina TASSIMO y su uso mejora considerablemente su rendimiento
+- Mantén tu máquina TASSIMO en perfectas condiciones con las pastillas para limpiar y descalcificar de Bosch
 - Son pastillas efervescentes de fácil uso; Eliminan la cal, los residuos y los depósitos de calcio de tu máquina, para que siga funcionando de forma óptima y puedas preparar bebidas deliciosas durante muchos años
+- Utilízalas una vez se enciendan los pilotos rojos de descalcificado de tu cafetera
+- Producto original de Bosch especialmente diseñado para tratar las máquina TASSIMO y su uso mejora considerablemente su rendimiento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00DJVJ37S/?tag=tolees-21)
