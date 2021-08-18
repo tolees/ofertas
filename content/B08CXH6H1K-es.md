@@ -29,8 +29,8 @@ Está [KIDS EUROSWAN - Cantimplora aluminio Vengadores Avengers Marvel surtido](
 ℹ️:
 
 - Botella de aluminio con capacidad de 500 ml de Avengers.
-- Características: la botella tiene un tapón de plástico con un cuerpo totalmente de aluminio decorado con los fantásticos personajes Avengers; excelente para introducir el concepto de "Plastic Free" para los niños de las escuelas.
 - Tamaño: 21 x 6 x 6 cm.
+- Características: la botella tiene un tapón de plástico con un cuerpo totalmente de aluminio decorado con los fantásticos personajes Avengers; excelente para introducir el concepto de "Plastic Free" para los niños de las escuelas.
 - El artículo incluye tres variantes diferentes. Atención: la venta se refiere a un solo producto. El producto está disponible en varios colores y/o modelos. No podemos ofrecer un modelo/color en particular. Al confirmar la compra, se ric
 - A partir de 2 años.
 

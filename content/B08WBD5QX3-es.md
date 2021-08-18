@@ -29,7 +29,7 @@ En este momento está [Electronic Arts - Mass Effect Legendary Edition | Código
 🔎:
 
 - Tus elecciones se trasladan de forma consistente de un juego al siguiente. Las decisiones que tomes afectarán al resultado de cada misión, cada relación, cada batalla... e incluso, al mismo destino de la galaxia.
-- Crea y personaliza tu propio personaje, desde el aspecto y las habilidades hasta un arsenal personalizado y, a continuación, lidera a tu pelotón de reconocimiento de élite a través de una galaxia sumida en el caos.
 - Mass Effect Legendary Edition incluye el contenido básico para un solo jugador de los tres juegos y más de 40 contenidos descargables, con más de 100 horas de juego en una sola saga. Experimenta un universo increíblemente rico y detallado con un detalle visual impresionante.
+- Crea y personaliza tu propio personaje, desde el aspecto y las habilidades hasta un arsenal personalizado y, a continuación, lidera a tu pelotón de reconocimiento de élite a través de una galaxia sumida en el caos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WBD5QX3/?tag=tolees-21)
