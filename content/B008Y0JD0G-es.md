@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 86.27 % en UDG U-8417 BL Creator - Maletín semirríg'
-date: 2021-07-24 22:04:24
+date: 2021-08-18 07:43:41
 image: 'https://m.media-amazon.com/images/I/4100V5sLQjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [UDG U-8417 BL Creator - Maletín semirrígido para NI Maschine Mikro MK2
 
 ℹ️:
 
-- Peso: 0.55 kg
-- Dimensiones exteriores: 37 x 25 x 7 cm
 - Protección: Suave terciopelo interior
 - Material: Espuma Durashock molded EVA
 - Color: Negro
+- Peso: 0.55 kg
+- Dimensiones exteriores: 37 x 25 x 7 cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B008Y0JD0G/?tag=tolees-21)
