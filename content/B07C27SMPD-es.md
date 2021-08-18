@@ -28,9 +28,9 @@ Ahora mismo tienes [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Azul  Navy B
 
 🔎:
 
-- Parte de punto de ajuste regular para hombre
-- Muy clásico y adecuado para cada día
 - De algodón cómodo
+- Parte de punto de ajuste regular para hombre
 - Composición del material: 100 % algodón.
+- Muy clásico y adecuado para cada día
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C27SMPD/?tag=tolees-21)

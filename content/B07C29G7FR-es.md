@@ -28,9 +28,9 @@ Ahora mismo tienes [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Negro  Black
 
 🔎:
 
-- Muy clásico y adecuado para cada día
-- De algodón cómodo
-- Composición del material: 100 % algodón.
 - Parte de punto de ajuste regular para hombre
+- Muy clásico y adecuado para cada día
+- Composición del material: 100 % algodón.
+- De algodón cómodo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C29G7FR/?tag=tolees-21)

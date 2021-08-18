@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Seoul Seoul  44 x 35 x 20 5 cm al 59.75 % de descuento'
-date: 2021-08-17 10:32:43
+date: 2021-08-18 13:21:08
 image: 'https://m.media-amazon.com/images/I/41q1gJQDwhS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Kipling Seoul Seoul  44 x 35 x 20 5 cm](https://www.amazon.e
 
 🔎:
 
+- Unisex adulto
 - Classics
 - Mochila
-- Unisex adulto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083YF4G7V/?tag=tolees-21)

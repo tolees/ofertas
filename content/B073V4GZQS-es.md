@@ -28,10 +28,10 @@ Tienes [Legrand  Regleta Wifi Receptora y repetidora  Base Multiple Vertical  4 
 
 🔎:
 
-- WIFI REPETIDOR: Borna WIFI: recibe y amplifica la señal WI-FI del router que está en otro lugar de la casa; dispone además de una entrada y salida RJ45
-- BASE VERTICAL ENCHUFES: Con base giratoria de suelo o sobremesa; cable de alimentación de 2 metros
-- Regleta enchufes: base con 4 enchufes schuko, 2 entradas usb, repetidor wifi y entrada rj45 para conexión a internet; color aluminio
 - Regleta sobretension: 16 a, potencia máxima 3500w en 230v
 - Base multiple enchufes: con testigo luminoso que indica el estado de la subida de tensión (encendido: dispositivos protegidos; apagado: protector contra sobretensión no funciona, se debe cambiar la extensión)
+- Regleta enchufes: base con 4 enchufes schuko, 2 entradas usb, repetidor wifi y entrada rj45 para conexión a internet; color aluminio
+- WIFI REPETIDOR: Borna WIFI: recibe y amplifica la señal WI-FI del router que está en otro lugar de la casa; dispone además de una entrada y salida RJ45
+- BASE VERTICAL ENCHUFES: Con base giratoria de suelo o sobremesa; cable de alimentación de 2 metros
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073V4GZQS/?tag=tolees-21)
