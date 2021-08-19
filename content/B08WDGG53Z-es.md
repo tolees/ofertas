@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Kowloon High-School Chr con un 42.01 % de descuento'
-date: 2021-07-21 21:50:40
+date: 2021-08-18 22:05:13
 image: 'https://m.media-amazon.com/images/I/51KD92WjeDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B08WDGG53Z/?tag=tolees-21'
 descuento: '42.01'
-average: '30.5263636363636'
+average: '29.73'
 ---
 
 En este momento está [Meridiem Games - Kowloon High-School Chronicle](https://www.amazon.es/dp/B08WDGG53Z/?tag=tolees-21) a 23.19 EUR (original: 39.99 EUR) (42.01 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Meridiem Games - Kowloon High-School Chronicle](https://w
 
 🔎:
 
-- Kowloon High-School Chronicle combines deep and interesting character interactions with exploratory dungeon crawling.
 - By day, win over your fellow students with a unique emotion-based response system.
-- Live the life of a high school treasure hunter in this much-anticipated RPG classic!
 - At night, select your team to explore the mysterious ruins beneath the school with exciting life-or-death battles and puzzle gameplay
+- Kowloon High-School Chronicle combines deep and interesting character interactions with exploratory dungeon crawling.
 - Choose from Joy, love, anger, sadness and more to determine the tone of your responses and see how characters react.
+- Live the life of a high school treasure hunter in this much-anticipated RPG classic!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WDGG53Z/?tag=tolees-21)

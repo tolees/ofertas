@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Focus Mediam - Snowrunner con un 38.01 % de descuento'
-date: 2021-07-21 22:01:51
+date: 2021-08-18 22:06:30
 image: 'https://m.media-amazon.com/images/I/51qbHE6Rf-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Focus Mediam'
 buyurl: 'https://www.amazon.es/dp/B08ZZNCFWK/?tag=tolees-21'
 descuento: '38.01'
-average: '28.96'
+average: '27.9175'
 ---
 
 En este momento está [Focus Mediam - Snowrunner](https://www.amazon.es/dp/B08ZZNCFWK/?tag=tolees-21) a 24.79 EUR (original: 39.99 EUR) (38.01 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Focus Mediam - Snowrunner](https://www.amazon.es/dp/B08ZZ
 
 🔎:
 
-- 40 vehículos que desbloquear, mejorar y personalizar
 - Enfréntate a entornos extremos en un avanzado motor de física
-- Completa decenas de misiones desafiantes en un mundo interconectado
 - Juega solo o en el modo cooperativo de 4 jugadores
+- 40 vehículos que desbloquear, mejorar y personalizar
+- Completa decenas de misiones desafiantes en un mundo interconectado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08ZZNCFWK/?tag=tolees-21)
