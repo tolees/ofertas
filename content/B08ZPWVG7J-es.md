@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bumblebee Interactive - Worms Rumble Ful al 35.50 % de descuento'
-date: 2021-07-21 21:57:22
+date: 2021-08-19 08:34:08
 image: 'https://m.media-amazon.com/images/I/51kcYZDARHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bumblebee Interactive'
 buyurl: 'https://www.amazon.es/dp/B08ZPWVG7J/?tag=tolees-21'
 descuento: '35.50'
-average: '23.3233333333333'
+average: '22.49'
 ---
 
 Ahora mismo tienes [Bumblebee Interactive - Worms Rumble Fully Loaded Edition](https://www.amazon.es/dp/B08ZPWVG7J/?tag=tolees-21) a 19.99 EUR (original: 30.99 EUR) (35.50 %  de descuento) en el siguiente enlace!
