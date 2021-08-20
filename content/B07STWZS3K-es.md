@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UBI Soft - Figura Resistant of London -  con un 66.68 % de descuento'
-date: 2021-08-19 08:49:41
+date: 2021-08-20 11:14:55
 image: 'https://m.media-amazon.com/images/I/51ivjncpakL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'UBI Soft'
 buyurl: 'https://www.amazon.es/dp/B07STWZS3K/?tag=tolees-21'
 descuento: '66.68'
-average: '34.5663636363636'
+average: '33.3516666666666'
 ---
 
 En este momento está [UBI Soft - Figura Resistant of London - Watch Dogs Legion](https://www.amazon.es/dp/B07STWZS3K/?tag=tolees-21) a 19.99 EUR (original: 59.99 EUR) (66.68 %  de descuento) en el siguiente enlace!
