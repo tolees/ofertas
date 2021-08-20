@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.03 % en GANT Avona  Zapatillas Mujer  BR Wht Ros'
-date: 2021-08-10 11:14:49
+date: 2021-08-19 22:05:06
 image: 'https://m.media-amazon.com/images/I/31fzU6nvU3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [GANT Avona  Zapatillas Mujer  BR Wht Rose Gold  38 EU](https://www.amazo
 
 ℹ️:
 
-- br.wht./Rose Gold
 - 22531536
 - Gant Footwear Avona - Zapatillas deportivas para mujer
+- br.wht./Rose Gold
 - Dummy
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08C7T5NRK/?tag=tolees-21)
