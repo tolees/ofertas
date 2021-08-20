@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lagunamoon Juego de regalo de autocuidad al 35.02 % de rebaja'
-date: 2021-08-18 18:19:45
+date: 2021-08-20 18:24:42
 image: 'https://m.media-amazon.com/images/I/51S5IwZq-ZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
