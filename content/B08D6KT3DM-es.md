@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REPLAY Anbass Jeans  009 Azul Medio  36W con un 65.10 % de descuento'
-date: 2021-08-16 08:47:41
+date: 2021-08-20 12:54:47
 image: 'https://m.media-amazon.com/images/I/41CyY-DiKJS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
