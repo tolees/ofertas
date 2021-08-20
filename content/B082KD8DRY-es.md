@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ticwatch TicPods 2 - Wireless Earbuds Bl con un 40.00 % de descuento'
-date: 2021-08-11 12:51:55
+date: 2021-08-20 06:21:29
 image: 'https://m.media-amazon.com/images/I/31sWoLPTXJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ticwatch'
 buyurl: 'https://www.amazon.es/dp/B082KD8DRY/?tag=tolees-21'
 descuento: '40.00'
-average: '73.3233333333333'
+average: '69.99'
 ---
 
 En este momento está [Ticwatch TicPods 2 - Wireless Earbuds Blossom](https://www.amazon.es/dp/B082KD8DRY/?tag=tolees-21) a 59.99 EUR (original: 99.99 EUR) (40.00 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [Ticwatch TicPods 2 - Wireless Earbuds Blossom](https://ww
 🔎:
 
 - Hardware Premium, estable y suavizante: conexión Bluetooth 5.0 dentro de 10 metros, polvo IPX4 e impermeable. Equipado con los chips de nivel insignia de Qualcomm para mejorar la transmisión y reducir la latencia (QCC3026 para la versión estándar, QCC5121 para la versión Pro).
-- Premios de Diseño de clase mundial recibidos: ganador de BUEN Diseño, Reddot y FINALIST. Súper ligero, cada auricular pesa sólo 4.2g, y la caja de carga es un 42% más pequeña que la generación anterior. Diseño semi-en-oreja, fácil de usar y súper cómodo. Tres a elegir
-- Tiempo de reproducción prolongado, detección en oídos: 4 horas de juego con una sola carga, 20 horas junto con una caja de carga. Se ha actualizado a puerto de carga rápida tipo C. Un cargo de 5 minutos permite 1 hora de juego. Los sensores de alta precisión pueden reproducir/pausar automáticamente la música justo en el momento en que se pone o se apaga el auricular.
-- Calidad de sonido superior: La bobina móvil de 13 mm crea una experiencia de escucha inmersiva. Se admiten protocolos de alta fidelidad tales como aptX y AAC. La sensibilidad de audio es tan alta como 132dB@1kHZ. Para una mejor calidad de conversación, la cancelación de ruido de micrófono dual está disponible para TicPods 2 Pro.
 - Controlar el audio como desee: Haga doble clic para reproducir la siguiente canción o colgar una llamada. Mantenga presionada la tecla durante dos segundos para despertar al asistente de voz o rechazar una llamada. Deslice hacia arriba y hacia abajo para aumentar/disminuir el volumen.
+- Tiempo de reproducción prolongado, detección en oídos: 4 horas de juego con una sola carga, 20 horas junto con una caja de carga. Se ha actualizado a puerto de carga rápida tipo C. Un cargo de 5 minutos permite 1 hora de juego. Los sensores de alta precisión pueden reproducir/pausar automáticamente la música justo en el momento en que se pone o se apaga el auricular.
+- Premios de Diseño de clase mundial recibidos: ganador de BUEN Diseño, Reddot y FINALIST. Súper ligero, cada auricular pesa sólo 4.2g, y la caja de carga es un 42% más pequeña que la generación anterior. Diseño semi-en-oreja, fácil de usar y súper cómodo. Tres a elegir
+- Calidad de sonido superior: La bobina móvil de 13 mm crea una experiencia de escucha inmersiva. Se admiten protocolos de alta fidelidad tales como aptX y AAC. La sensibilidad de audio es tan alta como 132dB@1kHZ. Para una mejor calidad de conversación, la cancelación de ruido de micrófono dual está disponible para TicPods 2 Pro.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082KD8DRY/?tag=tolees-21)
