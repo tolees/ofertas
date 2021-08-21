@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Aspirador Escoba Sin Cable Conga con un 35.40 % de descuento'
-date: 2021-08-14 07:43:38
+date: 2021-08-21 16:27:31
 image: 'https://m.media-amazon.com/images/I/417Wab94WmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cecotec'
 buyurl: 'https://www.amazon.es/dp/B08FDVF763/?tag=tolees-21'
 descuento: '35.40'
-average: '228.491666666666'
+average: '227.761538461538'
 ---
 
 En este momento está [Cecotec Aspirador Escoba Sin Cable Conga Rockstar 900 Ultimate  Sin bolsa  600 W  Potencia Succión 200aW y presión 26 KPA  3 en 1  Pantalla  Motor digital  Modo automático  Hasta 90min de Autonomía](https://www.amazon.es/dp/B08FDVF763/?tag=tolees-21) a 219.0 EUR (original: 339.0 EUR) (35.40 %  de descuento) en el siguiente enlace!
