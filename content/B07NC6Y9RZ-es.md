@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - Unravel - Standard | C al 50.03 % de rebaja'
-date: 2021-07-25 11:14:05
+date: 2021-08-21 13:08:55
 image: 'https://m.media-amazon.com/images/I/51GhgXM1AsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B07NC6Y9RZ/?tag=tolees-21'
 descuento: '50.03'
-average: '9.98909090909091'
+average: '9.98916666666667'
 ---
 
 Tienes [Electronic Arts - Unravel - Standard | Código Origin para PC](https://www.amazon.es/dp/B07NC6Y9RZ/?tag=tolees-21) con precio final de  9.99 EUR (original: 19.99 EUR) (50.03 %  de rebaja) aqui!
