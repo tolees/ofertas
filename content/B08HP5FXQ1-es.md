@@ -28,10 +28,10 @@ Está [Goodyear Luz de Emergencia v16 para Coches y Motos Safety Light. LED  hom
 
 ℹ️:
 
-- Aprobado DGT
-- Uso recomendado DGT
-- Batería 9v larga duración
-- Homologado UNE
 - Indicador de batería
+- Uso recomendado DGT
+- Homologado UNE
+- Batería 9v larga duración
+- Aprobado DGT
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HP5FXQ1/?tag=tolees-21)
