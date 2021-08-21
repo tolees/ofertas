@@ -30,8 +30,8 @@ En este momento está [G-STAR RAW Lancet Skinny  Vaqueros  para Hombre  Azul  An
 
 - Correa para colgar en la parte trasera de la cintura
 - Uno de los bolsillos traseros con bolsillo adicional
-- Bolsillo frontal con bolsillo para herramientas
 - Corte ajustado desde el muslo hasta el dobladillo
+- Bolsillo frontal con bolsillo para herramientas
 - Cintura media
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KS6SZ23/?tag=tolees-21)

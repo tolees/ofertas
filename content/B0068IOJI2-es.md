@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Laboratorios Babé - Champú Costra Láctea al 40.71 % de descuento'
-date: 2021-08-20 17:37:34
+date: 2021-08-21 20:09:42
 image: 'https://m.media-amazon.com/images/I/31kJuwI0E4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

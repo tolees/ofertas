@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Bosch EasyImpact al 35.81 % de descuento'
-date: 2021-08-17 20:54:57
+date: 2021-08-21 20:55:29
 image: 'https://m.media-amazon.com/images/I/41pPFVnwZzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B06XR17QSM/?tag=tolees-21'
 descuento: '35.81'
-average: '43.304918032787'
+average: '43.3000000000001'
 ---
 
 Ahora mismo tienes [Bosch Home and Garden - Bosch EasyImpact 550 - Taladro percutor  550 W  empuñadura adicional  tope de profundidad  maletín ](https://www.amazon.es/dp/B06XR17QSM/?tag=tolees-21) a 43.0 EUR (original: 66.99 EUR) (35.81 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [Bosch Home and Garden - Bosch EasyImpact 550 - Taladro percu
 
 🔎:
 
-- Potente y compacta herramienta que facilita los trabajos de perforación
-- Potencia de perforación elevada a pesar de la construcción compacta, con independencia del material, incluso en hormigón
 - Portabrocas de sujeción rápida de dos casquillos para cambio de herramienta sencillo
-- Compatible con el Drill Assistant de Bosch para un trabajo aún más preciso: determinación sencilla de la profundidad de perforación y trabajo sin polvo (opcionalmente, disponible como accesorio)
 - Control electrónico del número de revoluciones Bosch: la «aceleración» de 50 al máximo con el pulsador de conmutación le permite trabajar de forma precisa, por ejemplo, al inicio de la perforación de superficies lisas o en trabajos de atornillado
+- Potente y compacta herramienta que facilita los trabajos de perforación
 - Perforar nunca fue tan sencillo: gracias a su bajo peso y su compacto y ergonómico diseño, el manejo de la herramienta resulta especialmente cómodo y sencillo
+- Potencia de perforación elevada a pesar de la construcción compacta, con independencia del material, incluso en hormigón
+- Compatible con el Drill Assistant de Bosch para un trabajo aún más preciso: determinación sencilla de la profundidad de perforación y trabajo sin polvo (opcionalmente, disponible como accesorio)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XR17QSM/?tag=tolees-21)

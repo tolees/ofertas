@@ -28,10 +28,10 @@ Tienes [Trust Madell - Micrófono para Escritorio  Color Negro](https://www.amaz
 
 🔎:
 
-- Soporte de trípode con ángulo ajustable
-- Botón silenciador (Mute). Cable de 2.50 m con enchufe de 3.5 mm
 - Filtro de rejilla desmontable para mejorar la calidad de la voz
+- Botón silenciador (Mute). Cable de 2.50 m con enchufe de 3.5 mm
 - Micrófono para escritorio
 - Para chatear, jugar a juegos, cantar, vlogging, etc
+- Soporte de trípode con ángulo ajustable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MY9MRFR/?tag=tolees-21)
