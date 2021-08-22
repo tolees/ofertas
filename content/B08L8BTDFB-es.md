@@ -28,11 +28,11 @@ En este momento está [Eastpak Springer Rinonera  23 cm  2 L  Negro  Kontrast My
 
 🔎:
 
-- Alto: 16.5 cm Ancho: 23 cm Fondo: 8.5 cm
-- El compartimento principal dispone de un bolsillo trasero con cremallera
-- En nuestra gama de colores Kontrast Mystery
 - Detalles en contraste
 - Confección en 100 % poliéster
 - Cinturón ajustable
+- En nuestra gama de colores Kontrast Mystery
+- El compartimento principal dispone de un bolsillo trasero con cremallera
+- Alto: 16.5 cm Ancho: 23 cm Fondo: 8.5 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L8BTDFB/?tag=tolees-21)
