@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger Color  234158  al 47.31 % de rebaja'
-date: 2021-08-20 18:52:49
+date: 2021-08-21 23:23:50
 image: 'https://m.media-amazon.com/images/I/51lueNuuwzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [Ravensburger Color  234158 ](https://www.amazon.es/dp/B01CML5NM4/?tag=to
 🔎:
 
 - Travel: la versión portátil de los mayores éxitos Ravensburger
-- Tira una carta tras otra y recoge tesoros
 - Para niños mayores de 7 años
+- Tira una carta tras otra y recoge tesoros
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01CML5NM4/?tag=tolees-21)
