@@ -29,9 +29,9 @@ Ahora mismo tienes [Kipling Seoul Seoul  44 x 35 x 20 5 cm](https://www.amazon.e
 🔎:
 
 - Mochila grande con compartimento acolchado para portátil
+- 0,65 kg de peso x 27 l de volumen
 - 100% poliamida
 - 44 x 35 x 20,5 cm
-- 0,65 kg de peso x 27 l de volumen
 - Resistente al agua
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083YF4G7V/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s 510 Skinny Vaqueros  Brick Wall ADV  26W / 30L para H
 
 🔎:
 
-- Corte ceñido de la cadera al tobillo
 - Estilo contemporáneo
 - Diseño de cinco bolsillos
+- Corte ceñido de la cadera al tobillo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0886VLGF2/?tag=tolees-21)
