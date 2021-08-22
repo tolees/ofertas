@@ -28,10 +28,10 @@ En este momento está [PUMA Gorra ESS  White  OSFA  052919 10](https://www.amazo
 
 🔎:
 
-- Visera preformada.
 - Ojales bordados para una mejor ventilación.
-- Diseño de 6 paneles.
 - 100% algodón.
 - Cierre de velcro.
+- Diseño de 6 paneles.
+- Visera preformada.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B016D48JYA/?tag=tolees-21)

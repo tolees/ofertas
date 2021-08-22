@@ -28,9 +28,9 @@ Tienes [adidas GN2867 Tights Leggings Womens Black 44](https://www.amazon.es/dp/
 
 🔎:
 
-- Logotipo en el frente
-- Marca del producto: Adidas
 - Cintura elástica
+- Marca del producto: Adidas
 - Ajuste apretado
+- Logotipo en el frente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08R6C9GXN/?tag=tolees-21)

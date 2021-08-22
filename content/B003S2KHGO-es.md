@@ -29,8 +29,8 @@ Ahora mismo tienes [Vans Herren OTW T-Shirt  Weiß  WHITE-BLACK YB2   Medium](ht
 🔎:
 
 - Está confeccionada con tejido cepillado 100 % algodón ringspun
-- Con el lema Off The Wall en la parte delantera
 - Adecuada para hombres y disponible en varios colores
 - Tiene un corte ajustado
+- Con el lema Off The Wall en la parte delantera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003S2KHGO/?tag=tolees-21)
