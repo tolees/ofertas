@@ -28,10 +28,10 @@ Ahora mismo tienes [Pedro Duran Marco de Fotos Adorno Aniversario Plata de Prime
 
 🔎:
 
-- Limpiar con un trato suave, limpio y seco
-- Trasera de madera de bubinga
-- Tamaño de la foto: 20 x 25 cm
-- Marco de fotos
 - Plata de ley 925
+- Marco de fotos
+- Limpiar con un trato suave, limpio y seco
+- Tamaño de la foto: 20 x 25 cm
+- Trasera de madera de bubinga
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M3QUUE2/?tag=tolees-21)

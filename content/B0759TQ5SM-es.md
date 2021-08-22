@@ -28,12 +28,12 @@ Tienes [Moulinex Subito Select BY550D Hervidor Eléctrico 2400 W con 1.7 L de Ac
 
 ℹ️:
 
-- Tapa con apertura asistida y botón automático de on/off con piloto luminoso
-- Dimensiones 22,5 x 17,1 x 23,50 (cm)
-- Filtro anti-impurezas extraíble para una fácil limpieza: un filtro limpio asegura tanto que el hervidor como el agua estén siempre limpios
 - Base giratoria de 360 grados permite que el hervidor no se mueva del sitio
 - Una ventana para controlar el nivel del agua situada en el asa
 - Hervidor con exterior de acero inoxidable con capacidad de 1,7 L y 2400 W de potencia
 - Sistema sin cable y con parada automática; su resistencia oculta permite hervir con rapidez y realizar una limpieza práctica
+- Filtro anti-impurezas extraíble para una fácil limpieza: un filtro limpio asegura tanto que el hervidor como el agua estén siempre limpios
+- Tapa con apertura asistida y botón automático de on/off con piloto luminoso
+- Dimensiones 22,5 x 17,1 x 23,50 (cm)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0759TQ5SM/?tag=tolees-21)

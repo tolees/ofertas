@@ -28,10 +28,10 @@ En este momento está [Funko - Figura Pop Keychain: Star Wars - Boba Fett](https
 
 🔎:
 
+- Colecciónalos todos
+- Funko POP! es el juguete del año 2018 Peoples Choice
 - Descubre todos los demás productos Funko dedicados a esta colección
 - Cada llavero mide aproximadamente 5 cm de alto y viene empaquetado en una caja de exhibición de ventana
-- Funko POP! es el juguete del año 2018 Peoples Choice
-- Colecciónalos todos
 - POP! Llavero de Funko
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RZGRLJF/?tag=tolees-21)
