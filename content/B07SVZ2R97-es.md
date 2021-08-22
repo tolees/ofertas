@@ -28,10 +28,10 @@ Ahora mismo tienes [Quiksilver Bright Coast Adjust Youth  Zapatos de Playa y Pis
 
 🔎:
 
-- __ Acolchado:__ Acolchado grueso
-- __Parte superior:__ Parte superior de cuero vegano, apto para el agua [2 piezas]
-- __Cierre:__ Cierre de cinta autoadherente
 - Logo con la marca en relieve
+- __Parte superior:__ Parte superior de cuero vegano, apto para el agua [2 piezas]
+- __ Acolchado:__ Acolchado grueso
+- __Cierre:__ Cierre de cinta autoadherente
 - __Tejido interior:__Punto jersey de poliéster reciclado Soft Repreve
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SVZ2R97/?tag=tolees-21)

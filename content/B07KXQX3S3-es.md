@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk microSDXC UHS-I Tarjeta para Nin con un 57.26 % de descuento'
-date: 2021-08-21 12:03:06
+date: 2021-08-22 12:12:38
 image: 'https://m.media-amazon.com/images/I/41wuFwHgE9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07KXQX3S3/?tag=tolees-21'
 descuento: '57.26'
-average: '25.9851963048493'
+average: '25.9647004608289'
 ---
 
 En este momento está [SanDisk microSDXC UHS-I Tarjeta para Nintendo Switch 128GB  Producto con Licencia de Nintendo](https://www.amazon.es/dp/B07KXQX3S3/?tag=tolees-21) a 17.09 EUR (original: 39.99 EUR) (57.26 %  de descuento) en el siguiente enlace!
