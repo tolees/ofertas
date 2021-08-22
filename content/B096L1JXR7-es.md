@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Wifi - Router Wifi de Malla  3 Pa al 52.75 % de descuento'
-date: 2021-08-21 12:27:30
+date: 2021-08-22 18:22:34
 image: 'https://m.media-amazon.com/images/I/21IgSa85GmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Google'
 buyurl: 'https://www.amazon.es/dp/B096L1JXR7/?tag=tolees-21'
 descuento: '52.75'
-average: '181.399444444444'
+average: '181.798947368421'
 ---
 
 Ahora mismo tienes [Google Wifi - Router Wifi de Malla  3 Pack  Wi-Fi que Funciona  Cobertura hasta 85m² por Punto](https://www.amazon.es/dp/B096L1JXR7/?tag=tolees-21) a 188.99 EUR (original: 399.99 EUR) (52.75 %  de descuento) en el siguiente enlace!

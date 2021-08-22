@@ -28,12 +28,12 @@ En este momento está [Geox B150AA085NF Bebé-Niñas  White/Silver  20 EU](https
 
 🔎:
 
+- Altura del tacón: 2.0 centímetros
+- Cierre: Velcro
 - Tipo de talla: Los zapatos Geox son holgados
 - Revestimiento: Sintético
-- Cierre: Velcro
-- Material exterior: Sintético
 - Material de la suela: Caucho
 - Tipo de tacón: Plano
-- Altura del tacón: 2.0 centímetros
+- Material exterior: Sintético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLLHFNF/?tag=tolees-21)

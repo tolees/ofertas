@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft RJN-00003 – Bluetooth Mouse Ne al 47.85 % de rebaja'
-date: 2021-08-21 12:25:19
+date: 2021-08-22 18:30:04
 image: 'https://m.media-amazon.com/images/I/31dKXON00RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B07ZK4ZMC9/?tag=tolees-21'
 descuento: '47.85'
-average: '16.9014851485148'
+average: '16.8533333333333'
 ---
 
 Tienes [Microsoft RJN-00003 – Bluetooth Mouse Negro](https://www.amazon.es/dp/B07ZK4ZMC9/?tag=tolees-21) con precio final de  11.99 EUR (original: 22.99 EUR) (47.85 %  de rebaja) aqui!
