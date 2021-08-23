@@ -28,9 +28,9 @@ Tienes [adidas Originals World Cup  Botas de fútbol Hombre  Negro  38 2/3 EU  5
 
 🔎:
 
-- Tirador en la lengüeta y el talón.
 - Puños de canalé.
 - Cuello alzado y cremallera hasta el pecho.
+- Tirador en la lengüeta y el talón.
 - Dobladillo con cordón ajustable.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000G4NIGI/?tag=tolees-21)
