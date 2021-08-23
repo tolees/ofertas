@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dove Invisible Dry Deo Roll-On Desodoran al 70.71 % de descuento'
-date: 2021-08-10 21:30:52
+date: 2021-08-23 08:21:19
 image: 'https://m.media-amazon.com/images/I/31IOY+YpblL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Ahora mismo tienes [Dove Invisible Dry Deo Roll-On Desodorante - 50 ml](https://
 🔎:
 
 - Tipo de producto: Desodorante
-- Género: Unisex Adulto
 - Marca: Dove
+- Género: Unisex Adulto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0017TMYIE/?tag=tolees-21)

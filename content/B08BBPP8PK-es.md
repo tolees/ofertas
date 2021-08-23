@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Redmond III Mid Waterproof  Zap con un 35.50 % de descuento'
-date: 2021-08-22 09:50:54
+date: 2021-08-23 09:54:47
 image: 'https://m.media-amazon.com/images/I/41T4fte5LDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B08BBPP8PK/?tag=tolees-21'
 descuento: '35.50'
-average: '66.105'
+average: '65.782'
 ---
 
 En este momento está [Columbia Redmond III Mid Waterproof  Zapatillas para Caminar Hombre  Alce cordobés  42 EU](https://www.amazon.es/dp/B08BBPP8PK/?tag=tolees-21) a 64.49 EUR (original: 99.99 EUR) (35.50 %  de descuento) en el siguiente enlace!
