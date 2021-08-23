@@ -28,10 +28,10 @@ En este momento está [PUMA Teamrise All Weather Jacket Chaqueta De Entrenamient
 
 🔎:
 
-- Dobladillo y puños elásticos
-- Con capucha
 - Cierre de cremallera completo
-- Ribetes en un color de contraste en forma de V en el pecho
 - Bolsillos laterales con cremallera
+- Con capucha
+- Dobladillo y puños elásticos
+- Ribetes en un color de contraste en forma de V en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089Z8FB3D/?tag=tolees-21)
