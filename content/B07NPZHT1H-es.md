@@ -28,10 +28,10 @@ Está [Razer Lancehead  Ratón   Gris](https://www.amazon.es/dp/B07NPZHT1H/?tag=
 
 ℹ️:
 
-- Rendimiento inalámbrico de juego: mediante tecnología de frecuencia adaptable
-- Memoria híbrida local y en la nube
 - Switches mecánicos Razer optimizados para el juego: con una duración de hasta 50 millones de clics
-- El sensor láser para juegos más preciso del mundo: para una precisión absoluta
+- Memoria híbrida local y en la nube
+- Rendimiento inalámbrico de juego: mediante tecnología de frecuencia adaptable
 - Con tecnología Razer Synapse Pro
+- El sensor láser para juegos más preciso del mundo: para una precisión absoluta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NPZHT1H/?tag=tolees-21)
