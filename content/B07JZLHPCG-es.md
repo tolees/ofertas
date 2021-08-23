@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NVIDIA GEFORCE RTX NVLINK CABL al 62.29 % de descuento'
-date: 2021-08-20 05:04:03
+date: 2021-08-23 06:03:55
 image: 'https://m.media-amazon.com/images/I/31MOimg4nJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
