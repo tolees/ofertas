@@ -28,8 +28,8 @@ Está [Lee Scarlett High Zip Vaqueros Skinny  Azul  Blue Aged Yz   24W / 31L par
 
 ℹ️:
 
-- Vaqueros para mujer
 - Tienen un parche en la parte trasera con la marca Lee
+- Vaqueros para mujer
 - Presentan 5 bolsillos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H716YXT/?tag=tolees-21)
