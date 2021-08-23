@@ -28,10 +28,10 @@ Tienes [Kipling CURIOSITY PKT Equipaje de mano  50 cm  50 litros  Negro  Black N
 
 🔎:
 
-- Bolsillo interno con cremallera
+- Candado TSA doble
 - 2 compartimentos para el portátil y tableta
 - 2 compartimentos para el portátil y tableta
 - 4 ruedas dobles ocultas y giratorias 360°
-- Candado TSA doble
+- Bolsillo interno con cremallera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V4MBLVP/?tag=tolees-21)
