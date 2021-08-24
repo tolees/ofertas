@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming - Trust GXT 900 Kudos - Rat con un 66.68 % de descuento'
-date: 2021-08-23 07:01:29
+date: 2021-08-24 11:44:46
 image: 'https://m.media-amazon.com/images/I/31SGw+4DUmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [Trust Gaming - Trust GXT 900 Kudos - Ratón para Gaming R
 🔎:
 
 - Raton pc con software avanzado para programar botones y efectos lumínicos; laterales de goma para un agarre mejorado
-- Raton gamer con avanzado sensor óptico de alta precisión con una resolución de hasta 15.000 ppp; iluminación led rgb completa y ajustable, con efecto de onda de arco iris
 - Distancia de detección de movimiento perfectamente equilibrada (2 mm). Velocidad de respuesta USB ajustable 125/250/500/1000 Hz.
 - Memoria integrada. 7 botones programables
+- Raton gamer con avanzado sensor óptico de alta precisión con una resolución de hasta 15.000 ppp; iluminación led rgb completa y ajustable, con efecto de onda de arco iris
 - Almohadillas de deslizamiento suaves con baja fricción
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W8PNXDW/?tag=tolees-21)
