@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.89 % en NanoCable 10.01.0203-BK - Cable prolonga'
-date: 2021-07-31 16:57:18
+date: 2021-08-24 09:56:07
 image: 'https://m.media-amazon.com/images/I/41LaKTTl4KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NANOCABLE'
 buyurl: 'https://www.amazon.es/dp/B00AKBPE5K/?tag=tolees-21'
 descuento: '62.89'
-average: '1.25666666666667'
+average: '1.09'
 ---
 
 Tienes [NanoCable 10.01.0203-BK - Cable prolongador USB 2.0  tipo A/M-A/H  macho-hembra  negro  1.8mts](https://www.amazon.es/dp/B00AKBPE5K/?tag=tolees-21) con un 62.89 % de descuento con precio de oferta de 0.59 EUR (original: 1.59 EUR) en el siguiente enlace!
@@ -28,14 +28,14 @@ Tienes [NanoCable 10.01.0203-BK - Cable prolongador USB 2.0  tipo A/M-A/H  macho
 
 ℹ️:
 
-- Protección (Film Aluminio)
-- Incluye conector tipo A macho en un extremo y tipo A hembra en el otro
-- El producto está 100% testado
-- Cable prolongador USB 2.0
-- Soporta hasta 480 Mbps
 - Conforme con la directiva RoHS
+- Cable: 100% Cu (Cobre)
+- El producto está 100% testado
 - Calibre: 28 AWG
 - Conectores bañados en níquel
-- Cable: 100% Cu (Cobre)
+- Protección (Film Aluminio)
+- Soporta hasta 480 Mbps
+- Cable prolongador USB 2.0
+- Incluye conector tipo A macho en un extremo y tipo A hembra en el otro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AKBPE5K/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Square Enix - Kingdom Hearts Melody of M al 50.03 % de rebaja'
-date: 2021-08-16 16:11:40
+date: 2021-08-24 09:22:15
 image: 'https://m.media-amazon.com/images/I/51nXJEzzibL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Square Enix'
 buyurl: 'https://www.amazon.es/dp/B08HZSRHY9/?tag=tolees-21'
 descuento: '50.03'
-average: '37.3675471698111'
+average: '37.2307407407405'
 ---
 
 Tienes [Square Enix - Kingdom Hearts Melody of Memory](https://www.amazon.es/dp/B08HZSRHY9/?tag=tolees-21) con precio final de  29.98 EUR (original: 59.99 EUR) (50.03 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Square Enix - Kingdom Hearts Melody of Memory](https://www.amazon.es/dp/
 
 🔎:
 
-- Sumérgete en la historia de KINGDOM HEARTS
-- Más de 140 canciones y 20 personajes
 - Juega en solitario, con amigos en modo cooperativo o contra ellos en combates en línea multijugador
+- Más de 140 canciones y 20 personajes
+- Sumérgete en la historia de KINGDOM HEARTS
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HZSRHY9/?tag=tolees-21)
