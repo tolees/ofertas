@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 72.13 % en Clarks Sprintlitelace  Zapatillas Hombre'
-date: 2021-08-20 22:43:55
+title: 'Descuento del 72.62 % en Clarks Sprintlitelace  Zapatillas Hombre'
+date: 2021-08-23 22:51:54
 image: 'https://m.media-amazon.com/images/I/31s6go3xnPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08GKVJD35-es Clarks Sprintlitelace Zapatillas Hombre De Piel 41.5 EU'
 sku: 'B08GKVJD35-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','clarks', ]
-actualPrice: 33.44 EUR
+actualPrice: 32.86 EUR
 currency: EUR
-price: 33.44
+price: 32.86
 comparePrice: 120.0 EUR
 prodname: 'Clarks Sprintlitelace  Zapatillas Hombre  De Piel  41.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B08GKVJD35/?tag=tolees-21'
-descuento: '72.13'
-average: '33.44'
+descuento: '72.62'
+average: '33.15'
 ---
 
-Tienes [Clarks Sprintlitelace  Zapatillas Hombre  De Piel  41.5 EU](https://www.amazon.es/dp/B08GKVJD35/?tag=tolees-21) con un 72.13 % de descuento con precio de oferta de 33.44 EUR (original: 120.0 EUR) en el siguiente enlace!
+Tienes [Clarks Sprintlitelace  Zapatillas Hombre  De Piel  41.5 EU](https://www.amazon.es/dp/B08GKVJD35/?tag=tolees-21) con un 72.62 % de descuento con precio de oferta de 32.86 EUR (original: 120.0 EUR) en el siguiente enlace!
 
 [![Clarks Sprintlitelace  Zapatillas Hombre](https://m.media-amazon.com/images/I/31s6go3xnPL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08GKVJD35/?tag=tolees-21)
 
