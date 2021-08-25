@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CYP BRANDS - Gorjuss CK-11F-G Set Regalo al 39.57 % de descuento'
-date: 2021-08-24 00:35:17
+date: 2021-08-25 01:10:54
 image: 'https://m.media-amazon.com/images/I/51LIkUo28EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
