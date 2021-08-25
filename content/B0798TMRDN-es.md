@@ -28,10 +28,10 @@ En este momento está [Candy FCP502X/E Horno eléctrico - Capacidad 65L  Puerta 
 
 🔎:
 
-- Medidas horno eléctrico empotrable; medidas encastre (alto x ancho x prof): 59,5 x 59,5 x 56,8cm; 59 x 56 x 56cm
-- Fácil limpieza: el horno con puerta de doble cristal desmontable y el exterior sin tornillos; además, la cuba inferior está preparada para la limpieza con agua
 - Multifunción: iluminación, convección natural, grill, estático y ventilador y, grill y ventilador; todas configurables desde los 3 mandos mecánicos superiores
+- Fácil limpieza: el horno con puerta de doble cristal desmontable y el exterior sin tornillos; además, la cuba inferior está preparada para la limpieza con agua
 - Accesorios incorporados con el horno: 2 rejillas antivuelco y 1 bandeja para hornear
 - Uso sencillo: horno eléctrico que encaja óptimamente con cualquier tipo de cocina, con puerta de cristal, mandos y tirador de acero inoxidable y 65L de capacidad
+- Medidas horno eléctrico empotrable; medidas encastre (alto x ancho x prof): 59,5 x 59,5 x 56,8cm; 59 x 56 x 56cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0798TMRDN/?tag=tolees-21)
