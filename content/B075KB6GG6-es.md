@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 574v2 Core  Basket Hombre  N al 48.57 % de descuento'
-date: 2021-08-18 10:49:36
+date: 2021-08-25 10:18:19
 image: 'https://m.media-amazon.com/images/I/41YWLO-DqfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B075KB6GG6/?tag=tolees-21'
 descuento: '48.57'
-average: '49.5146031746029'
+average: '49.4440624999997'
 ---
 
 Está [New Balance 574v2 Core  Basket Hombre  Noir  Triple Black   42 EU](https://www.amazon.es/dp/B075KB6GG6/?tag=tolees-21) con 48.57 de descuento por 45.0 EUR (original: 87.49 EUR) en el siguiente enlace!
@@ -28,7 +28,10 @@ Está [New Balance 574v2 Core  Basket Hombre  Noir  Triple Black   42 EU](https:
 
 ℹ️:
 
-- Forro: de punto.
-- Material exterior: piel.
+- Aspecto y materiales de primera calidad
+- Logotipo N grande
+- Nuevo y genuino
+- Zapatilla flexible, cómoda y ligera
+- Tecnología de entresuela ENCAP para una amortiguación suave y de apoyo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075KB6GG6/?tag=tolees-21)
