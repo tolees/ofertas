@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Cali Wedge Wn S  Zapatillas Mujer   al 38.56 % de descuento'
-date: 2021-08-15 22:00:56
+date: 2021-08-26 04:16:36
 image: 'https://m.media-amazon.com/images/I/31MvQO7B2aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B088RH8W6C/?tag=tolees-21'
 descuento: '38.56'
-average: '62.39'
+average: '62.0733333333333'
 ---
 
 Está [PUMA Cali Wedge Wn S  Zapatillas Mujer  Blanco Apricot Blush  40.5 EU](https://www.amazon.es/dp/B088RH8W6C/?tag=tolees-21) con 38.56 de descuento por 61.44 EUR (original: 100.0 EUR) en el siguiente enlace!
