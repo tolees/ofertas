@@ -28,10 +28,10 @@ Está [Tarjeta Lexar Play 512GB microSDXC UHS-I  hasta 150MB/s de Lectura  LMSPL
 
 ℹ️:
 
-- Compatible con Nintendo Switch, dispositivos de juegos portátiles, smartphones y tabletas
 - Garantía limitada de cinco años
 - Altas velocidades de transferencia para un tiempo de carga rápido con hasta 150 MB/s de lectura
-- Carga aplicaciones más rápido con un rendimiento de nivel A2
 - Almacene más vídeos, películas, juegos, música y su contenido favorito con su gran capacidad
+- Carga aplicaciones más rápido con un rendimiento de nivel A2
+- Compatible con Nintendo Switch, dispositivos de juegos portátiles, smartphones y tabletas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PCGC71B/?tag=tolees-21)
