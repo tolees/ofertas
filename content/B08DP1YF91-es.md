@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich Sapporo Sky 23  Zapatillas Mujer  al 52.74 % de descuento'
-date: 2021-08-16 11:44:03
+date: 2021-08-26 16:56:15
 image: 'https://m.media-amazon.com/images/I/41DstNx8JmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B08DP1YF91/?tag=tolees-21'
 descuento: '52.74'
-average: '53.1075'
+average: '50.426'
 ---
 
 Está [Munich Sapporo Sky 23  Zapatillas Mujer  Dorado  35 EU](https://www.amazon.es/dp/B08DP1YF91/?tag=tolees-21) con 52.74 de descuento por 39.7 EUR (original: 84.0 EUR) en el siguiente enlace!

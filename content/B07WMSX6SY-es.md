@@ -28,10 +28,10 @@ Está [Skechers Reloj Digital para Hombre de Cuarzo con Correa en Nailon SR1035]
 
 ℹ️:
 
+- Material de la correa: nailon
+- Ancho de banda: 28 mm; circunferencia interior: 200 +/-5 mm
 - Grosor de la caja: 17 mm. Tamaño de la caja: 55 mm
 - Sumergible a 5 atm
-- Ancho de banda: 28 mm; circunferencia interior: 200 +/-5 mm
 - Se envía en una caja de regalo Skechers
-- Material de la correa: nailon
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WMSX6SY/?tag=tolees-21)
