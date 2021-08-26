@@ -28,10 +28,10 @@ Ahora mismo tienes [Fossil Smartwatch Híbrido para Mujer de Connected con Corre
 
 🔎:
 
-- Vida útil de la pila: Hasta 6 meses* *según el uso; Compatibilidad: Android OS 5.0+, iPhone 5/iOS 9.0+, Smartphone App; Conectividad: Bluetooth Smart activado/4.1 Low Energy
-- Material de la correa: Acero inoxidable; Resistente al agua: 5 ATM
-- Se presenta en caja de regalo Fossil Q Connected
 - Seguimiento de actividad: Sí; Material de la caja: Acero inoxidable; Ritmo cardíaco: No; Control de sueño: Sí; Intercambiable: Sí; Notificaciones: Sí; Pantalla táctil: No
+- Material de la correa: Acero inoxidable; Resistente al agua: 5 ATM
 - Grosor de la caja: 12mm; Tamaño de la caja: 36mm; Ancho de la correa: 14mm; Circunferencia de la correa: 190+/-5mm
+- Vida útil de la pila: Hasta 6 meses* *según el uso; Compatibilidad: Android OS 5.0+, iPhone 5/iOS 9.0+, Smartphone App; Conectividad: Bluetooth Smart activado/4.1 Low Energy
+- Se presenta en caja de regalo Fossil Q Connected
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792ZNMPG/?tag=tolees-21)
