@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Kids Kid Couleur Rotuladores para ni con un 41.79 % de descuento'
-date: 2021-08-01 18:09:50
+date: 2021-08-27 13:30:33
 image: 'https://m.media-amazon.com/images/I/51AovIdRW0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BIC'
 buyurl: 'https://www.amazon.es/dp/B06XDC48CM/?tag=tolees-21'
 descuento: '41.79'
-average: '6.51578947368421'
+average: '6.5145'
 ---
 
 En este momento está [BIC Kids Kid Couleur Rotuladores para niños  Punta Media - Colores Surtidos  Estuche de 36 Unidades - rotuladores lavables ideal para actividades creativas en casa y colegio](https://www.amazon.es/dp/B06XDC48CM/?tag=tolees-21) a 6.49 EUR (original: 11.15 EUR) (41.79 %  de descuento) en el siguiente enlace!

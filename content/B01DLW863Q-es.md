@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diesel Pulsera para Hombre DX0961001 con un 39.87 % de descuento'
-date: 2021-08-26 09:42:27
+date: 2021-08-27 13:19:06
 image: 'https://m.media-amazon.com/images/I/31cYj8Pf9AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
