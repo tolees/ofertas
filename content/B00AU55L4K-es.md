@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA 65626 - Crema corporal  250 ml al 50.00 % de rebaja'
-date: 2021-08-27 08:16:15
+date: 2021-08-28 17:50:26
 image: 'https://m.media-amazon.com/images/I/41LULhk0M6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [NIVEA 65626 - Crema corporal  250 ml](https://www.amazon.es/dp/B00AU55L4
 
 🔎:
 
-- Productos de belleza y cuidado personal
-- Peso / Volumen: 250 ml
 - Tipo de producto: Crema corporal -Genero: Unisex
+- Peso / Volumen: 250 ml
+- Productos de belleza y cuidado personal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00AU55L4K/?tag=tolees-21)
