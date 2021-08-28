@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance GC574V1  Zapatillas  Navy  3 al 40.05 % de rebaja'
-date: 2021-08-22 20:01:05
+date: 2021-08-28 08:46:36
 image: 'https://m.media-amazon.com/images/I/41i9GPczTzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B0714QJBSV/?tag=tolees-21'
 descuento: '40.05'
-average: '40.32'
+average: '39.9825'
 ---
 
 Tienes [New Balance GC574V1  Zapatillas  Navy  35.5 EU](https://www.amazon.es/dp/B0714QJBSV/?tag=tolees-21) con precio final de  38.97 EUR (original: 65.0 EUR) (40.05 %  de rebaja) aqui!
