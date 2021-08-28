@@ -28,8 +28,8 @@ En este momento está [adidas NY 92  Zapatillas Deportivas Hombre  FTWR White Te
 
 🔎:
 
+- Diseño limpio y sencillo
 - Zapatillas deportivas
 - Fabricado con materiales reciclados
-- Diseño limpio y sencillo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PVSFNYT/?tag=tolees-21)

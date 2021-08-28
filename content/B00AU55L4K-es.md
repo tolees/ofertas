@@ -28,8 +28,8 @@ Tienes [NIVEA 65626 - Crema corporal  250 ml](https://www.amazon.es/dp/B00AU55L4
 
 🔎:
 
-- Tipo de producto: Crema corporal -Genero: Unisex
 - Peso / Volumen: 250 ml
 - Productos de belleza y cuidado personal
+- Tipo de producto: Crema corporal -Genero: Unisex
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00AU55L4K/?tag=tolees-21)

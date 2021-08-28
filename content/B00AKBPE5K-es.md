@@ -29,13 +29,13 @@ Tienes [NanoCable 10.01.0203-BK - Cable prolongador USB 2.0  tipo A/M-A/H  macho
 ℹ️:
 
 - Incluye conector tipo A macho en un extremo y tipo A hembra en el otro
-- Soporta hasta 480 Mbps
 - Cable: 100% Cu (Cobre)
-- Cable prolongador USB 2.0
-- Protección (Film Aluminio)
-- Conforme con la directiva RoHS
 - Conectores bañados en níquel
-- El producto está 100% testado
+- Soporta hasta 480 Mbps
+- Protección (Film Aluminio)
 - Calibre: 28 AWG
+- El producto está 100% testado
+- Cable prolongador USB 2.0
+- Conforme con la directiva RoHS
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AKBPE5K/?tag=tolees-21)
