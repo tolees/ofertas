@@ -29,8 +29,8 @@ Está [NATEC MALETIN IMPALA PARA PORTATIL HASTA 17.3   NEGRO](https://www.amazon
 ℹ️:
 
 - Ancho interior: 450 mm. Altura interior: 345 mm. 450 x 360 x 60 mm
+- Producto de alta calidad
 - Carga máxima: 7 kg. Sistema antigolpes. No material de nailon 600D
 - Tamaño dedicado de 17,3 pulgadas, cinturón de hombro Sí. Número de bolsillo 1. Sistema de carrito no
-- Producto de alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BJJ6APK/?tag=tolees-21)

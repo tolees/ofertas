@@ -28,10 +28,10 @@ En este momento está [Lexar nCARD NM 64GB Tarjeta de Memoria Nano para Teléfon
 
 🔎:
 
-- Las patentes/solicitudes de patentes están licenciadas por Huawei
-- Aprovecha el protocolo eMMC 5.1 con una velocidad de lectura de hasta 90 MB/s y una velocidad de escritura de hasta 70 MB/s
 - Captura, reproduce y transfiere rápidamente archivos multimedia, incluyendo vídeo 1080p Full-HD y 4K
+- Aprovecha el protocolo eMMC 5.1 con una velocidad de lectura de hasta 90 MB/s y una velocidad de escritura de hasta 70 MB/s
 - Garantía limitada de 3 años
 - Tamaño ultra compacto para compartir con la ranura de la tarjeta Nano SIM
+- Las patentes/solicitudes de patentes están licenciadas por Huawei
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087WR3DCJ/?tag=tolees-21)

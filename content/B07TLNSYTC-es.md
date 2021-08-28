@@ -28,7 +28,7 @@ Ahora mismo tienes [G-STAR RAW Swando Loose Camiseta  Negro  Dk Black 6484   X-S
 
 🔎:
 
-- Combina tu camiseta con una americana o un chaleco, o bien lúcela sola con tus jeans favoritos.
 - Ofrece comodidad y originalidad con un llamativo logotipo gráfico en el pecho y un ajuste sencillo.
+- Combina tu camiseta con una americana o un chaleco, o bien lúcela sola con tus jeans favoritos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TLNSYTC/?tag=tolees-21)
