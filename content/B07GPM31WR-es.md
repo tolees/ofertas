@@ -28,10 +28,10 @@ Está [Skechers Delson-Axton  Zapatillas sin Cordones Hombre  Marrón  CDB Black
 
 ℹ️:
 
-- Shaft measures approximately not_applicable from arch
-- Rubber sole
-- Imported, slip-on
-- Streetwear
 - Goga Mat Arch.Air Cooled Memory Foam, Relaxed Fit
+- Shaft measures approximately not_applicable from arch
+- Streetwear
+- Imported, slip-on
+- Rubber sole
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GPM31WR/?tag=tolees-21)

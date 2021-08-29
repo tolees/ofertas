@@ -28,10 +28,10 @@ Ahora mismo tienes [Johnnie Walker Red Whisky Escocés - 1000 ml](https://www.am
 
 🔎:
 
-- Contiene hasta 35 whiskies diferentes seleccionados de las mejores destilerías de Escocia
-- Disfrútelo en vaso alto con hielo y ginger ale
 - Versátil y con un atractivo universal, tiene un sabor acentuado y lleno de carácter
 - El whisky escocés de mezcla más vendido del mundo
+- Disfrútelo en vaso alto con hielo y ginger ale
+- Contiene hasta 35 whiskies diferentes seleccionados de las mejores destilerías de Escocia
 - Chispeante y especiado, con una explosión de sabores vibrantes y ahumados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004SOLK2G/?tag=tolees-21)
