@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Guess Reloj de Pulsera W0289L1 al 50.50 % de rebaja'
-date: 2021-08-08 15:39:20
+date: 2021-08-29 18:08:17
 image: 'https://m.media-amazon.com/images/I/51LJOTmaUnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Guess'
 buyurl: 'https://www.amazon.es/dp/B00FB7Q4UC/?tag=tolees-21'
 descuento: '50.50'
-average: '97.9987500000002'
+average: '99.3322222222224'
 ---
 
 Tienes [Guess Reloj de Pulsera W0289L1](https://www.amazon.es/dp/B00FB7Q4UC/?tag=tolees-21) con precio final de  110.0 EUR (original: 222.21 EUR) (50.50 %  de rebaja) aqui!

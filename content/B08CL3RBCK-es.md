@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Darcey DARCEY  20 5x35x55 cm con un 55.00 % de descuento'
-date: 2021-08-28 12:36:53
+date: 2021-08-29 18:52:46
 image: 'https://m.media-amazon.com/images/I/41zilBsDc3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Kipling Darcey DARCEY  20 5x35x55 cm](https://www.amazon.
 
 🔎:
 
-- 100% poliamida
-- Etiqueta de silicona para nombre
-- Unisex
 - Peso ligero
+- Unisex
 - 2,3 kg
+- Etiqueta de silicona para nombre
+- 100% poliamida
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CL3RBCK/?tag=tolees-21)
