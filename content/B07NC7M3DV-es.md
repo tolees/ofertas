@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - BATTLEFIELD 1 - Standa con un 75.04 % de descuento'
-date: 2021-08-27 08:33:41
+date: 2021-08-30 15:23:31
 image: 'https://m.media-amazon.com/images/I/51Y9mbPd0PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B07NC7M3DV/?tag=tolees-21'
 descuento: '75.04'
-average: '5.09'
+average: '5.08090909090909'
 ---
 
 En este momento está [Electronic Arts - BATTLEFIELD 1 - Standard | Código Origin para PC](https://www.amazon.es/dp/B07NC7M3DV/?tag=tolees-21) a 4.99 EUR (original: 19.99 EUR) (75.04 %  de descuento) en el siguiente enlace!
