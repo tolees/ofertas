@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ibili 749100 Portatortillas  Plástico  N al 57.33 % de descuento'
-date: 2021-08-28 09:23:16
+date: 2021-08-30 08:24:57
 image: 'https://m.media-amazon.com/images/I/31qCiDf3lOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Ibili 749100 Portatortillas  Plástico  Naranja  26 cm](https://www.ama
 
 ℹ️:
 
+- Porta tortilla
 - Color del producto: naranja
 - Dimensiones del producto: 26 x 26 x 6 cm
-- Porta tortilla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BY4S9W6/?tag=tolees-21)
