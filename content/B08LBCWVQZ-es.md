@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Square Enix - Final Fantasy VII & Final  con un 35.23 % de descuento'
-date: 2021-08-29 07:52:20
+date: 2021-08-30 19:15:53
 image: 'https://m.media-amazon.com/images/I/51PU070+3qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Square Enix'
 buyurl: 'https://www.amazon.es/dp/B08LBCWVQZ/?tag=tolees-21'
 descuento: '35.23'
-average: '32.6370370370371'
+average: '32.3964285714286'
 ---
 
 En este momento está [Square Enix - Final Fantasy VII & Final Fantasy VIII Remastered Twing Pack](https://www.amazon.es/dp/B08LBCWVQZ/?tag=tolees-21) a 25.9 EUR (original: 39.99 EUR) (35.23 %  de descuento) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [Square Enix - Final Fantasy VII & Final Fantasy VIII Rema
 
 🔎:
 
-- Final Fantasy VII: velocidad x 3, posibilidad de evitar los combates y modo de combates mejorados
 - Final Fantasy VIII: batallas más fáciles (barras de VIT y BTC al máximo y límites siempre disponibles), velocidad x 3 y sin encuentros
+- Final Fantasy VII: velocidad x 3, posibilidad de evitar los combates y modo de combates mejorados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LBCWVQZ/?tag=tolees-21)
