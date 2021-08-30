@@ -28,10 +28,10 @@ Está [OtterBox Defender - Funda Anti Caídas Robusta para Apple iPhone 11 Negro
 
 ℹ️:
 
+- Tapas protectoras para los puertos: las tapas de fácil acceso para los puertos evitan la entrada de polvo, pelusas y suciedad en tu teléfono
 - Protección de triple capa: funda de triple capa a prueba de caídas; carcasa interior rígida, resistente cubierta deslizante exterior y funda-soporte para cinturón incluida
 - Diseño sin pantalla: ofrece acceso total a tu pantalla táctil
-- Compatible con alpha glass: el diseño sin pantalla significa que esta funda de la serie Defender es compatible con el protector de pantalla alpha glass de otterbox para una protección de 360°.
-- Tapas protectoras para los puertos: las tapas de fácil acceso para los puertos evitan la entrada de polvo, pelusas y suciedad en tu teléfono
 - Funda / soporte para cinturón: la funda - soporte para cinturón incluida proporciona una tercera capa de protección y funciona como soporte manos libres
+- Compatible con alpha glass: el diseño sin pantalla significa que esta funda de la serie Defender es compatible con el protector de pantalla alpha glass de otterbox para una protección de 360°.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V1PC86V/?tag=tolees-21)

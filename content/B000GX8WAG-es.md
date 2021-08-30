@@ -28,10 +28,10 @@ En este momento está [Invicta Pro Diver 9204 Reloj Cuarzo - 37.5mm](https://www
 
 🔎:
 
-- Esta modelo funciona con un movimiento de Cuarzo preciso
-- Resistencia a la presión de aqua de 20 bares
-- 2 años de garantía Invicta
 - Este modelo es parte de la colección Invicta Pro Diver
+- Resistencia a la presión de aqua de 20 bares
 - El Invicta 9204 tiene una caja de acero inoxidable de 375 millimetros con una esfera azul
+- Esta modelo funciona con un movimiento de Cuarzo preciso
+- 2 años de garantía Invicta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000GX8WAG/?tag=tolees-21)
