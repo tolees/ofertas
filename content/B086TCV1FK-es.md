@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 500 Mixed Material Pack  Zap al 60.48 % de descuento'
-date: 2021-08-30 19:09:52
+date: 2021-08-31 19:30:26
 image: 'https://m.media-amazon.com/images/I/41y8gOj31PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
