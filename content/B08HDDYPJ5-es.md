@@ -28,10 +28,10 @@ Tienes [CLAIRECEUTICALS Aceite Rosa Mosqueta Puro 100% - Aceite de Rosa Mosqueta
 
 ℹ️:
 
-- 🌺 ACEITE ROSA MOSQUETA PURO CICATRICES Y ESTRÍAS: El aceite de rosa mosqueta puro 100% de CLAIRECEUTICALS actúa como aceite cicatrizante sobre la piel gracias a su efecto hidratante y regenerador, mejorando el aspecto de la piel dañada por cicatrices y ayudando a prevenir y atenuar las estrías
-- 🌺 EFECTO ANTIMANCHAS Y ANTIARRUGAS: Su capacidad nutritiva y emoliente lo convierte en el hidratante facial perfecto para las pieles más sensibles. El aceite puro de rosa de mosqueta ha sido reconocido como uno de los mejores atenuantes de las arrugas y las manchas en la piel
 - 🌺 ACEITE ROSA MOSQUETA PURO FACIAL: Nuestro aceite de rosa de mosqueta funciona en todo tipo de pieles, incluso en las más secas. Gracias a su fórmula rica en ácidos grasos y vitaminas, podrás disfrutar de los múltiples beneficios para la piel del rostro.
-- 🌺 HECHO EN ALEMANIA: Todos nuestros productos han sido creados y testados en Alemania. Utilizamos solo ingredientes de la más alta calidad y totalmente libre de crueldad animal. Mejoramos constantemente las fórmulas utilizadas, para crear los mejores productos posibles
+- 🌺 EFECTO ANTIMANCHAS Y ANTIARRUGAS: Su capacidad nutritiva y emoliente lo convierte en el hidratante facial perfecto para las pieles más sensibles. El aceite puro de rosa de mosqueta ha sido reconocido como uno de los mejores atenuantes de las arrugas y las manchas en la piel
 - 🌺 100% NATURAL, VEGANO Y PRENSADO EN FRÍO: A diferencia de una crema rosa mosqueta, CLAIRECEUTICALS Rosehip Oil está formulado con ingredientes de alta calidad, completamente naturales y veganos, sin aditivos tóxicos para la piel. Además de estar prensado en frío, es rico en vitamina A y C
+- 🌺 HECHO EN ALEMANIA: Todos nuestros productos han sido creados y testados en Alemania. Utilizamos solo ingredientes de la más alta calidad y totalmente libre de crueldad animal. Mejoramos constantemente las fórmulas utilizadas, para crear los mejores productos posibles
+- 🌺 ACEITE ROSA MOSQUETA PURO CICATRICES Y ESTRÍAS: El aceite de rosa mosqueta puro 100% de CLAIRECEUTICALS actúa como aceite cicatrizante sobre la piel gracias a su efecto hidratante y regenerador, mejorando el aspecto de la piel dañada por cicatrices y ayudando a prevenir y atenuar las estrías
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08HDDYPJ5/?tag=tolees-21)

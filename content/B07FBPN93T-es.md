@@ -28,11 +28,11 @@ En este momento está [Skechers Flex Appeal 3.0-First Insight  Zapatillas Mujer 
 
 🔎:
 
-- Revestimiento: Tela
-- Anchura del zapato: Mediano
 - Cierre: Cordones
-- Material de la suela: Goma
+- Anchura del zapato: Mediano
+- Revestimiento: Tela
 - Tipo de tacón: Plano
+- Material de la suela: Goma
 - Material exterior: Malla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FBPN93T/?tag=tolees-21)

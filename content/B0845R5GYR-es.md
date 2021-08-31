@@ -29,7 +29,7 @@ Tienes [PUMA Teamgoal 23 Knit Shorts Pantalones Cortos  Hombre  Fluo Pink/Puma B
 ℹ️:
 
 - Largo por encima de la rodilla
-- Logotipo del PUMA en el muslo izquierdo
 - Poliéster 100 %
+- Logotipo del PUMA en el muslo izquierdo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0845R5GYR/?tag=tolees-21)

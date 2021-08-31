@@ -28,9 +28,9 @@ Ahora mismo tienes [Funko Pop!- Rick & Morty Warrior Summer Figura de Vinilo  Mu
 
 🔎:
 
-- Recomendado para niños a partir de 3 años
 - El artículo es adecuado para todos los fanáticos de Rick and Morty
-- Figura de colección de la marca Funko
+- Recomendado para niños a partir de 3 años
 - El producto se envía en una caja ilustrada con ventana
+- Figura de colección de la marca Funko
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07777GTNK/?tag=tolees-21)

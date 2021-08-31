@@ -28,8 +28,8 @@ Ahora mismo tienes [Polti Vaporetto SV440 DOUBLE Escoba a Vapor Doble función c
 
 🔎:
 
-- Mata y elimina el 99,99% de los gérmenes, bacterias y virus. Limpia e higieniza cualquier superficie sin necesidad de productos químicos
 - Lista para trabajar en solo 15 segundos
+- Mata y elimina el 99,99% de los gérmenes, bacterias y virus. Limpia e higieniza cualquier superficie sin necesidad de productos químicos
 - Tiempo calentamiento: 15 sec
 - Nuevo cepillo Vaporforce, más grande y práctico permite abarcar mayor superficie de trabajo y sortear los ángulos más difíciles gracias a su forma triangular
 - Filtro anticalcareo integrado que permite la utilizacion de agua del grifo

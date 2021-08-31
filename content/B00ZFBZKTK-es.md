@@ -28,9 +28,9 @@ Tienes [Cluse Reloj Analógico Automático para Mujer con Correa de Acero Inoxid
 
 ℹ️:
 
-- Género - Mujer
-- Esfera de Mineral
 - Marca - CLUSE
 - Correa de Acero inoxidable
+- Género - Mujer
+- Esfera de Mineral
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ZFBZKTK/?tag=tolees-21)
