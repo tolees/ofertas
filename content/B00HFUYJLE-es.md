@@ -28,8 +28,8 @@ Tienes [Animals Natural Menu Canine Adult 1 5Kg 1500 g](https://www.amazon.es/dp
 
 ℹ️:
 
-- Natural Menu Canine Adult 1,5Kg
 - Comida para animales al mejor precio.
 - Gran variedad adaptada a tu mascota.
+- Natural Menu Canine Adult 1,5Kg
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HFUYJLE/?tag=tolees-21)

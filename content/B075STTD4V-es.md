@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Candy CS C8LF-S - Secadora de condensaci al 35.82 % de rebaja'
+date: 2021-08-31 11:54:48
+image: 'https://m.media-amazon.com/images/I/31ECyAysFwL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B075STTD4V-es Candy CS C8LF-S - Secadora de condensación 8Kgs 15...'
+sku: 'B075STTD4V-es'
+tags: [ 'Grandes electrodomésticos','Lavadoras y secadoras','Secadoras con bomba de calor','Secadoras de ropa','candy', ]
+actualPrice: 224.0 EUR
+currency: EUR
+price: 224.0
+comparePrice: 349.0 EUR
+prodname: 'Candy CS C8LF-S - Secadora de condensación 8Kgs  15 programas  NFC  puerta XXL  display LED  certificado Woolmark  clase BC  color blanco'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Candy'
+buyurl: 'https://www.amazon.es/dp/B075STTD4V/?tag=tolees-21'
+descuento: '35.82'
+average: '268.033684210526'
+---
+
+Tienes [Candy CS C8LF-S - Secadora de condensación 8Kgs  15 programas  NFC  puerta XXL  display LED  certificado Woolmark  clase BC  color blanco](https://www.amazon.es/dp/B075STTD4V/?tag=tolees-21) con precio final de  224.0 EUR (original: 349.0 EUR) (35.82 %  de rebaja) aqui!
+
+[![Candy CS C8LF-S - Secadora de condensaci](https://m.media-amazon.com/images/I/31ECyAysFwL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B075STTD4V/?tag=tolees-21)
+
+🔎:
+
+- Tu lana en buenas manos: ciclo específicamente diseñado para lavar tus prendas de lana con la suavidad de un lavado a mano; Certificado por Woolmark ApparelCare
+- Dimensiones (alto x ancho x profundo): 85 x 59,6 x 58,5cm
+- Secadora conectada a NFC: conecta tu secadora con la App Simply-Fi y consigue ciclos de secado adicionales, inicio diferido y asistente de voz
+- Reduce los pliegues y enredos al finalizar el ciclo para un planchado más fácil: la función Super Fácil Planchado deja las prendas con la humedad adecuada para facilitar y reducir tiempos de las sesiones de planchado
+- Di adiós a los dolores de espalda mientras introduces la colada en la secadora: la puerta de tamaño XXL, asegura una posición cómoda durante tus sesiones de lavado
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B075STTD4V/?tag=tolees-21)
