@@ -30,8 +30,8 @@ Está [Grohe Grohtherm 1000 - Termostato de ducha 1/2"  color cromo  Ref.3414300
 
 - GROHE EcoButton: te ayudará a reducir tu consumo de agua hasta en un 50 % con solo pulsar un botón
 - GROHE EcoJoy con función de ahorro de agua para una reducción de tu consumo
-- GROHE CoolTouch: siempre templado al tacto, se acabaron las quemaduras
-- Fácil de limpiar, gracias al recubrimiento cromado GROHE StarLight
 - GROHE EasyLogic: marcas claras para facilitar su uso
+- Fácil de limpiar, gracias al recubrimiento cromado GROHE StarLight
+- GROHE CoolTouch: siempre templado al tacto, se acabaron las quemaduras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00RTG1EAS/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Clarks Tri Sporty  Sandalias de Talón Abierto Mujer  Beige  White Leathe
 
 ℹ️:
 
-- Suela: goma
 - Material interior: piel
 - Exterior: piel
+- Suela: goma
 - Altura del tacón: 3,5 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TJPN86Q/?tag=tolees-21)

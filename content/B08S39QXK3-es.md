@@ -28,10 +28,10 @@ En este momento está [Funko - Snapsies con 18 para Coleccionar  Ola 1](https://
 
 🔎:
 
-- 18 personajes para coleccionar - (compra ciega)
-- Snapsies es una línea de juguetes de vinilo coleccionables que te permite personalizar adorables personajes de animales con miles de combinaciones posibles, ¡en un instante
-- Mezcla y combina, crea en un instante! escuche el sonido instantáneo, cambie los accesorios de un personaje a otro y cree su propia experiencia divertida
-- Colecciónalos todos
 - Funko pop es el juguete del año 2018 y ganador del premio peoples choice
+- Colecciónalos todos
+- Snapsies es una línea de juguetes de vinilo coleccionables que te permite personalizar adorables personajes de animales con miles de combinaciones posibles, ¡en un instante
+- 18 personajes para coleccionar - (compra ciega)
+- Mezcla y combina, crea en un instante! escuche el sonido instantáneo, cambie los accesorios de un personaje a otro y cree su propia experiencia divertida
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08S39QXK3/?tag=tolees-21)
