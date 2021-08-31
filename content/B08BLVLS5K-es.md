@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.24 % en Levi s Tijuana  Zapatillas Mujer  Verde '
-date: 2021-08-27 17:37:56
+date: 2021-08-31 06:59:03
 image: 'https://m.media-amazon.com/images/I/31grJo2drAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLVLS5K/?tag=tolees-21'
 descuento: '62.24'
-average: '21.3233333333333'
+average: '20.24'
 ---
 
 Tienes [Levi s Tijuana  Zapatillas Mujer  Verde Claro  36 EU](https://www.amazon.es/dp/B08BLVLS5K/?tag=tolees-21) con un 62.24 % de descuento con precio de oferta de 16.99 EUR (original: 45.0 EUR) en el siguiente enlace!
