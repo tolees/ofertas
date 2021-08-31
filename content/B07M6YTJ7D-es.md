@@ -28,10 +28,10 @@ Ahora mismo tienes [Sony GTK-XB72  Altavoz  Sistema de Audio de Alta Potencia Ex
 
 🔎:
 
-- Configuración vertical y horizontal
 - Anima tu fiesta con luces lineales, de altavoz y estroboscópicas
+- Transmite y controla desde tu smartphone con la aplicación Sony | Music Center
+- Configuración vertical y horizontal
 - Extra Bass para un sonido grave y Profundo
 - Conecta varios altavoces con Wireless Party Chain mediante Bluetooth
-- Transmite y controla desde tu smartphone con la aplicación Sony | Music Center
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07M6YTJ7D/?tag=tolees-21)

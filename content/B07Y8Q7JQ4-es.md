@@ -28,9 +28,9 @@ Tienes [Zygomatic-Combo Color Español Asmodée Juego de Conquista Estratégica 
 
 🔎:
 
-- Los tableros son reversibles y borrables, con varios niveles de dificultad y 6 universos muy divertidos y diferentes entre si; horas y horas de diversión garantizada conquistando en nombre de tu color favorito quieres que el mundo sea azul?, a por ello, quieres pintarlo todo de rosa?, rosa, súperrosa
-- Combo color es el juego de la conquista de territorios a través de los colores; recorre un universo mágico con 36 aventuras alucinantes para conseguir la mayor puntuación posible y alzarte como vencedor
-- La aventura te llama pinta el mundo a tu gusto
 - Contenido 36 tableros, 4 rotuladores, 1 borrador y 1 reglamento
+- Combo color es el juego de la conquista de territorios a través de los colores; recorre un universo mágico con 36 aventuras alucinantes para conseguir la mayor puntuación posible y alzarte como vencedor
+- Los tableros son reversibles y borrables, con varios niveles de dificultad y 6 universos muy divertidos y diferentes entre si; horas y horas de diversión garantizada conquistando en nombre de tu color favorito quieres que el mundo sea azul?, a por ello, quieres pintarlo todo de rosa?, rosa, súperrosa
+- La aventura te llama pinta el mundo a tu gusto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Y8Q7JQ4/?tag=tolees-21)

@@ -28,12 +28,12 @@ Tienes [Havaianas Brasil Logo  Chanclas  Verde 93  23/24 EU](https://www.amazon.
 
 ℹ️:
 
-- Material exterior: Caucho
-- Tipo de talla: Tamaño real
-- Tipo de tacón: Plano
+- Material de la suela: Caucho
 - Composición: Caucho
+- Tipo de talla: Tamaño real
 - Cierre: Sin cordones
 - Revestimiento: Caucho
-- Material de la suela: Caucho
+- Material exterior: Caucho
+- Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085YRSDSZ/?tag=tolees-21)

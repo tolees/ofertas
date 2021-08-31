@@ -28,12 +28,12 @@ En este momento está [Pepe Jeans Cash Sweat-Shirt à Capuche  Azul  11Oz Strea
 
 🔎:
 
-- Estilo 5 bolsillos
-- Tiro medio
-- Cierre bragueta con cremallera
-- Tejido denim elástico y flexible
 - Fit regular
-- Tejido denim medio
+- Tejido denim elástico y flexible
 - Pierna recta
+- Tiro medio
+- Estilo 5 bolsillos
+- Cierre bragueta con cremallera
+- Tejido denim medio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0113WWHSG/?tag=tolees-21)
