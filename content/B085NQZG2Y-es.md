@@ -28,9 +28,9 @@ Ahora mismo tienes [ETEPON Kit Soldador Estaño 30 piezas para Trabajos de Solda
 
 🔎:
 
-- 【KIT DE SOLDADURA AVANZADO CON MULTÍMETRO】--- El multímetro digital con LCD grande facilita las pruebas y la lectura de datos. Fácil de usar con la función de retención para medir tensión DC&AC, corriente DC y AC, resistencia, diodo y continuidad.
 - 【UN KIT COMPLETO PARA TODOS TRABAJOS DE SOLDADURAS 】--- Este kit de soldador 30 piezas se actualizó desde un kit de 22 piezas. Agregamos 3 puntas de soldadura más, flujo de resina, lápiz eléctrico, Cuchillo utilitariol etc. Es un kit completo para todo su proyecto de arte y soldadura. No es necesario comprarlo por separado. Ahorre su tiempo y dinero!
 - 【DESTORNILLADOR DE PRECISIÓN 8 EN 1】--- Incluye 8 puntas múltiples y la base es magnética para que no pierda los tornillos fácilmente. El diseño compacto y práctico hará que su soldadura sea más eficiente.
+- 【KIT DE SOLDADURA AVANZADO CON MULTÍMETRO】--- El multímetro digital con LCD grande facilita las pruebas y la lectura de datos. Fácil de usar con la función de retención para medir tensión DC&AC, corriente DC y AC, resistencia, diodo y continuidad.
 - 【AMPLIA GAMA DE USOS】--- Ampliamente utilizado para la placa de circuito de soldadura, placa madre del teléfono, relojes, guitarra, reparación de electrodomésticos, aficionados al bricolaje en el hogar, soldadura de joyería. Puede llevarlo a cualquier parte con una bolsa de PU portátil.
 - 【INTERRUPTOR DE ON/OFF ACTUALIZADO MÁS SEGURO】--- El soldador actualizado con interruptor de ON/OF para ahorran energía y aseguran su seguridad. El gel de sílice aislante en el hierro puede proteger efectivamente el soldador de ser planchado a alta temperatura o las puntas de hierro que caen al suelo.
 
