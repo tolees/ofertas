@@ -28,10 +28,10 @@ Tienes [Quick Media QMEUV1 - Esterilizador LED UV  Caja Desinfectante para Smart
 
 ℹ️:
 
-- Destruye la cadena de ADN de los gérmenes y otros microorganismos
-- Esterilizador ultravioleta
+- Tiempo de desinfección: min. 5 minutos, se recomienda 10 minutos
 - Estereliza tu smartphone, gafas, airponds, mascarilla con un clic
 - Función carga inalámbrica; un puerto USB
-- Tiempo de desinfección: min. 5 minutos, se recomienda 10 minutos
+- Destruye la cadena de ADN de los gérmenes y otros microorganismos
+- Esterilizador ultravioleta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BFMM9D5/?tag=tolees-21)
