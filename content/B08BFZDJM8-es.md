@@ -28,11 +28,11 @@ En este momento está [Zanussi ZCAN20FW1 Arcón congelador  Capacidad 198 Litros
 
 🔎:
 
-- Pantalla LCD ofrece un acceso sin esfuerzo a la temperatura y a otros ajustes generales
-- Un cesto apilable, para facilitarte la organización y el espacio del congelador
-- Cajones de verduras, pueden desmontarse y retirarse fácilmente para hacer más espacio y adaptarse a tus necesidades
-- Zanussi ZCAN20FW1. Capacidad de congelación: 15.5 kg/24 horas
 - Iluminación interior suave y uniforme mediante bombillas LED, te dan la visibilidad que necesitas y consumen poco
+- Cajones de verduras, pueden desmontarse y retirarse fácilmente para hacer más espacio y adaptarse a tus necesidades
 - Dimensiones (Ancho x Alto x Profundo): 90,5 cm x 84,5 cm x 54,5 cm
+- Un cesto apilable, para facilitarte la organización y el espacio del congelador
+- Zanussi ZCAN20FW1. Capacidad de congelación: 15.5 kg/24 horas
+- Pantalla LCD ofrece un acceso sin esfuerzo a la temperatura y a otros ajustes generales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BFZDJM8/?tag=tolees-21)

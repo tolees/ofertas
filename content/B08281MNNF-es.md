@@ -28,7 +28,7 @@ Está [CAMPER Peu Zapatillas  Hombre  Gris  40 EU](https://www.amazon.es/dp/B082
 
 ℹ️:
 
-- Flexibilidad
 - Ligera
+- Flexibilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08281MNNF/?tag=tolees-21)

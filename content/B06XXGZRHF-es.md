@@ -28,10 +28,10 @@ Está [Rowenta CF9540 Activ Premium Care  Cepillo de Aire  Rosa](https://www.ama
 
 ℹ️:
 
-- Dos cepillos cerámicos adaptados a tu tipo de cabello: cepillo giratorio de 50 mm para el pelo largo y/o grueso y cepillo giratorio de 40 mm para el pelo corto
 - El doble emisor de iones aporta brillo y suavidad evitando la electricidad estática y aportando a tu cabello soltura y libertad
-- Ajustes: 0 - 1 - 2 de velocidad o temperatura y función de Aire Frío para fijar tu estilo al final de la sesión de secado
 - Revestimiento de keratina Cashmere con aceite de argán y cerdas naturales que dan más brillo y suavidad al cabello además de aportar una protección extra a tu cabello
+- Ajustes: 0 - 1 - 2 de velocidad o temperatura y función de Aire Frío para fijar tu estilo al final de la sesión de secado
+- Dos cepillos cerámicos adaptados a tu tipo de cabello: cepillo giratorio de 50 mm para el pelo largo y/o grueso y cepillo giratorio de 40 mm para el pelo corto
 - El cepillo de aire giratorio automático reproduce la técnica profesional del peluquero y al mismo tiempo seca el cabello
 - Capaz de secar y estilizar el cabello creando volumen desde la raíz y disfrutando de un volumen perfecto por su doble rotación (izquierda/derecha) que ofrece un resultado profesional
 

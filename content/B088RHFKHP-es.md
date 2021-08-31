@@ -29,9 +29,9 @@ En este momento está [PUMA Smash v2 L Jr  Zapatillas  Blanco White-Flint Stone 
 🔎:
 
 - Las Zapatillas de la marca Puma están diseñadas con la última tecnología y la mejor calidad para que se adapten perfectamente a tu pie sin dejar de lado el estilo
+- Zapatillas Puma Smash v2 L Jr (36517025)
+- Calzado deportivo de la Puma
 - Practica tu deporte favorito gracias a las Zapatillas de Puma . Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
 - Zapatillas ideales para Tiempo libre y sportwear de Niño
-- Calzado deportivo de la Puma
-- Zapatillas Puma Smash v2 L Jr (36517025)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088RHFKHP/?tag=tolees-21)

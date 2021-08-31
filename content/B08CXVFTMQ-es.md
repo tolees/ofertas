@@ -28,8 +28,8 @@ En este momento está [Lee Carol Jeans Vaqueros  Crudo  24W / 31L para Mujer](ht
 
 🔎:
 
-- Recycled Fabrics
 - Tejido vaquero elástico
+- Recycled Fabrics
 - Cuerda cruzada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXVFTMQ/?tag=tolees-21)
