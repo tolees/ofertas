@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diesel Reloj Analógico para Hombre de Cu con un 47.30 % de descuento'
-date: 2021-08-26 09:42:19
+date: 2021-08-31 14:05:50
 image: 'https://m.media-amazon.com/images/I/41vcFoiZ6qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Diesel'
 buyurl: 'https://www.amazon.es/dp/B01N9FQ63C/?tag=tolees-21'
 descuento: '47.30'
-average: '95.7466666666667'
+average: '91.4425'
 ---
 
 En este momento está [Diesel Reloj Analógico para Hombre de Cuarzo con Correa en Cuero DZ1802](https://www.amazon.es/dp/B01N9FQ63C/?tag=tolees-21) a 78.53 EUR (original: 149.0 EUR) (47.30 %  de descuento) en el siguiente enlace!
