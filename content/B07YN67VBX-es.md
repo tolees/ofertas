@@ -28,8 +28,8 @@ Ahora mismo tienes [MERRELL Fiery GTX  Zapatillas Tiempo Libre y Senderismo Homb
 
 🔎:
 
-- Material duro Merrell
-- Fiery GTX (J16601)
 - Zapatillas tiempo libre y senderismo Hombre
+- Fiery GTX (J16601)
+- Material duro Merrell
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YN67VBX/?tag=tolees-21)

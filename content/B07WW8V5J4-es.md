@@ -30,8 +30,8 @@ Tienes [POC Tectal Race SPIN Casco Ciclismo Unisex Adulto  Lead Blue/Hydrogen Wh
 
 - DISEÑO DE MONTAÑA_ El casco de bici de montaña ideal para cualquier actividad. Cubre la zona de las sienes y la parte de atrás, y tiene una visera ajustable y un enganche para gafas.
 - PROTECCIÓN SPIN_ Este casco para montaña incorpora la tecnología SPIN de POC, parte de su Whole Helmet Concept, que garantiza que el casco proteja antes, durante y después del impacto.
-- CONSTRUCCIÓN UNIBODY_ La carcasa de una pieza aporta estabilidad estructural y permite una mayor integridad de todo el casco, además de garantizar que su peso sea ligero.
-- LIGERO Y VENTILADO_ El sistema de ajuste 360° aporta un ajuste preciso, seguro y cómodo. Los conductos de ventilación permiten el flujo del aire en este casco ideal para el verano.
 - GRAN DURABILIDAD_ La carcasa de policarbonato de este casco para montaña, el interior de PEE y el puente de aramida mejoran la estabilidad de este modelo ligero que ofrece una gran protección.
+- LIGERO Y VENTILADO_ El sistema de ajuste 360° aporta un ajuste preciso, seguro y cómodo. Los conductos de ventilación permiten el flujo del aire en este casco ideal para el verano.
+- CONSTRUCCIÓN UNIBODY_ La carcasa de una pieza aporta estabilidad estructural y permite una mayor integridad de todo el casco, además de garantizar que su peso sea ligero.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WW8V5J4/?tag=tolees-21)

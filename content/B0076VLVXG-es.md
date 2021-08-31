@@ -28,9 +28,9 @@ Está [BLACK+DECKER Set de 50 Piezas con Brocas y Puntas para Atornillar y Talad
 
 ℹ️:
 
+- Incluye llaves de vaso hexagonales y adaptador
 - Dispone de soporte magnético, avellanado
 - Las brocas para metal tienen revestimiento de titanio
-- Incluye llaves de vaso hexagonales y adaptador
 - Los accesorios vienen almacenados en un maletín de color negro y naranja
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0076VLVXG/?tag=tolees-21)
