@@ -28,10 +28,10 @@ Ahora mismo tienes [REAL TECHNIQUES Kit Completo De Brochas](https://www.amazon.
 
 🔎:
 
-- Incluye una brocha para colorete, una esponja milagrosa para el rostro, una brocha para sombras, una brocha para fijación y una brocha de rostro profesional
 - La marca líder en ventas de brochas de maquillaje en Reino Unido
-- Virolas de aluminio extendido ligeras, fáciles de usar y en diferentes colores
 - El juego completo para conseguir un maquillaje profesional en cara, pómulos y ojos; Cubre, aplica color y extiende
 - Cerdas sintéticas UltraPlush con un corte específico, duraderas, fáciles de limpiar y 100 % libres de crueldad animal
+- Virolas de aluminio extendido ligeras, fáciles de usar y en diferentes colores
+- Incluye una brocha para colorete, una esponja milagrosa para el rostro, una brocha para sombras, una brocha para fijación y una brocha de rostro profesional
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FTXBNVL/?tag=tolees-21)

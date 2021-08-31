@@ -28,9 +28,9 @@ Ahora mismo tienes [Clarks Ronnie Limit  Zapatos de Cordones Brogue Hombre  Marr
 
 🔎:
 
+- Suela: TR
 - Ajuste: (g) estándar
 - Parte superior: piel
 - Forro: textil
-- Suela: TR
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MLST6P7/?tag=tolees-21)
