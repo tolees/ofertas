@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY STHT0-70885 - Destornillador mul con un 46.43 % de descuento'
-date: 2021-08-30 08:20:33
+date: 2021-09-01 16:11:59
 image: 'https://m.media-amazon.com/images/I/410nyoDmFcS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [STANLEY STHT0-70885 - Destornillador multipuntas  incluye
 
 🔎:
 
-- Utensilios
-- Stanley
-- Hexágono interior, portapuntas magnético
 - Philips, Schlitz, Torx
+- Utensilios
+- Hexágono interior, portapuntas magnético
+- Stanley
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01G7JOQ8Y/?tag=tolees-21)
