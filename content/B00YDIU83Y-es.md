@@ -1,32 +1,34 @@
 ---
 layout: post
-title: 'Merrell - sandalias de Cuero mujer  Negr con un 35.31 % de descuento'
-date: 2020-04-13 00:35:35
-image: 'https://m.media-amazon.com/images/I/31k1FfTqWaL._SL400_.jpg'
+title: 'Merrell Terran Lattice Ii Tira de tobill con un 55.29 % de descuento'
+date: 2021-09-01 19:59:40
+image: 'https://m.media-amazon.com/images/I/31k1FfTqWaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00YDIU83Y-es Merrell - sandalias de Cuero mujer Negro BLACK 40 EU 7 UK'
+slug: 'B00YDIU83Y-es Merrell Terran Lattice Ii Tira de tobillo para Mujer Negro...'
 sku: 'B00YDIU83Y-es'
-tags: [  ]
-actualPrice: 54.99 EUR
+tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','merrell', ]
+actualPrice: 38.0 EUR
 currency: EUR
-price: 54.99
+price: 38.0
 comparePrice: 85.0 EUR
-prodname: 'Merrell - sandalias de Cuero mujer  Negro  BLACK   40 EU  7 UK '
+prodname: 'Merrell Terran Lattice Ii Tira de tobillo para Mujer  Negro  40 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Merrell'
 buyurl: 'https://www.amazon.es/dp/B00YDIU83Y/?tag=tolees-21'
-descuento: '35.31'
-average: '54.99'
+descuento: '55.29'
+average: '46.495'
 ---
 
-En este momento está [Merrell - sandalias de Cuero mujer  Negro  BLACK   40 EU  7 UK ](https://www.amazon.es/dp/B00YDIU83Y/?tag=tolees-21) a 54.99 EUR (original: 85.0 EUR) (35.31 %  de descuento) en el siguiente enlace!
+En este momento está [Merrell Terran Lattice Ii Tira de tobillo para Mujer  Negro  40 EU](https://www.amazon.es/dp/B00YDIU83Y/?tag=tolees-21) a 38.0 EUR (original: 85.0 EUR) (55.29 %  de descuento) en el siguiente enlace!
 
-[![Merrell - sandalias de Cuero mujer  Negr](https://m.media-amazon.com/images/I/31k1FfTqWaL._SL400_.jpg)](https://www.amazon.es/dp/B00YDIU83Y/?tag=tolees-21)
+[![Merrell Terran Lattice Ii Tira de tobill](https://m.media-amazon.com/images/I/31k1FfTqWaL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00YDIU83Y/?tag=tolees-21)
 
 🔎:
 
+- Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00YDIU83Y/?tag=tolees-21)
