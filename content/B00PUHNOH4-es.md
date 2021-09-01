@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tatay Urban Food Casual - Bolsa Térmica  al 36.52 % de rebaja'
-date: 2021-08-31 11:17:00
+date: 2021-09-01 12:29:14
 image: 'https://m.media-amazon.com/images/I/41wJ0CbaH3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tatay'
 buyurl: 'https://www.amazon.es/dp/B00PUHNOH4/?tag=tolees-21'
 descuento: '36.52'
-average: '16.453076923077'
+average: '16.3137037037038'
 ---
 
 Tienes [Tatay Urban Food Casual - Bolsa Térmica Porta Alimentos  3L de Capacidad  con 4 Tuppers Herméticas  2 x 0.5L  2 x 0.2L  Color Rosa con Estrellas  Medidas 22.5 x 10 x 22 cm](https://www.amazon.es/dp/B00PUHNOH4/?tag=tolees-21) con precio final de  12.69 EUR (original: 19.99 EUR) (36.52 %  de rebaja) aqui!
