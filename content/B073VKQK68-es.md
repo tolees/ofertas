@@ -28,10 +28,10 @@ En este momento está [LVYI Minivestido de lencería para mujer  Sexi  ajustado 
 
 🔎:
 
-- Paquete discreto con caja de papel.
 - Este minivestido se ve muy pequeño pero se estira perfectamente.
-- Talla única para cuerpos de 34-46, comprueba la medición antes de comprar este vestido.
 - Solo incluye el minivestido de noche sexy. Sin tanga.
+- Paquete discreto con caja de papel.
+- Talla única para cuerpos de 34-46, comprueba la medición antes de comprar este vestido.
 - Material: - 90 % nailon, 10 % elastano.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073VKQK68/?tag=tolees-21)
