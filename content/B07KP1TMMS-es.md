@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dirty Dancing DVD Nueva Edición 1987 al 46.43 % de descuento'
-date: 2021-08-31 00:41:46
+date: 2021-09-01 00:58:45
 image: 'https://m.media-amazon.com/images/I/518ml1JBTLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KP1TMMS/?tag=tolees-21'
 descuento: '46.43'
-average: '7.8475'
+average: '7.56777777777778'
 ---
 
 Está [Dirty Dancing DVD Nueva Edición 1987](https://www.amazon.es/dp/B07KP1TMMS/?tag=tolees-21) con 46.43 de descuento por 5.33 EUR (original: 9.95 EUR) en el siguiente enlace!
