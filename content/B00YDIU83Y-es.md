@@ -28,7 +28,7 @@ En este momento está [Merrell Terran Lattice Ii Tira de tobillo para Mujer  Neg
 
 🔎:
 
-- Revestimiento: Tela
 - Material exterior: Cuero
+- Revestimiento: Tela
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00YDIU83Y/?tag=tolees-21)

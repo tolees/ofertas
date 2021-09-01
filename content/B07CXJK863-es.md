@@ -28,9 +28,9 @@ En este momento está [Bandai Hobby- Gundam Model Kit Mazinger Z  Multicolor  Sc
 
 🔎:
 
-- Basada en la película "mazinger z: infinity"
-- Kit de montaje de colección, de plástico, con gran atención a los detalles, para el montaje no es necesario pegamento
 - Para ensabamblar sin necesidad de pegamento
 - Para los fans incondicionales de mazinger z
+- Kit de montaje de colección, de plástico, con gran atención a los detalles, para el montaje no es necesario pegamento
+- Basada en la película "mazinger z: infinity"
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CXJK863/?tag=tolees-21)
