@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Funko- Pop Star Wars The Rise of Skywalk al 40.27 % de rebaja'
-date: 2020-08-12 09:39:51
-image: 'https://m.media-amazon.com/images/I/416Wj8zl3QL._SL400_.jpg'
+title: 'Funko - POP Star Wars The Rise of Skywal al 56.52 % de rebaja'
+date: 2021-09-02 07:28:15
+image: 'https://m.media-amazon.com/images/I/41L4NwShihL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07QTD6S4V-es Funko- Pop Star Wars The Rise of Skywalker-PoE Dameron...'
+slug: 'B07QTD6S4V-es Funko - POP Star Wars The Rise of Skywalker - Poe Dameron'
 sku: 'B07QTD6S4V-es'
-tags: [  ]
-actualPrice: 8.93 EUR
+tags: [ 'Accesorios para Nintendo Switch','Coleccionables','Hardware y juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Merchandising y estatuas y bustos','Muñecos cabezones','Videojuegos','funko', ]
+actualPrice: 6.5 EUR
 currency: EUR
-price: 8.93
+price: 6.5
 comparePrice: 14.95 EUR
-prodname: 'Funko- Pop Star Wars The Rise of Skywalker-PoE Dameron Disney Figura Coleccionable  Multicolor  39891 '
+prodname: 'Funko - POP Star Wars The Rise of Skywalker - Poe Dameron'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07QTD6S4V/?tag=tolees-21'
-descuento: '40.27'
-average: '8.93'
+descuento: '56.52'
+average: '8.12'
 ---
 
-Tienes [Funko- Pop Star Wars The Rise of Skywalker-PoE Dameron Disney Figura Coleccionable  Multicolor  39891 ](https://www.amazon.es/dp/B07QTD6S4V/?tag=tolees-21) con precio final de  8.93 EUR (original: 14.95 EUR) (40.27 %  de rebaja) aqui!
+Tienes [Funko - POP Star Wars The Rise of Skywalker - Poe Dameron](https://www.amazon.es/dp/B07QTD6S4V/?tag=tolees-21) con precio final de  6.5 EUR (original: 14.95 EUR) (56.52 %  de rebaja) aqui!
 
-[![Funko- Pop Star Wars The Rise of Skywalk](https://m.media-amazon.com/images/I/416Wj8zl3QL._SL400_.jpg)](https://www.amazon.es/dp/B07QTD6S4V/?tag=tolees-21)
+[![Funko - POP Star Wars The Rise of Skywal](https://m.media-amazon.com/images/I/41L4NwShihL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07QTD6S4V/?tag=tolees-21)
 
 🔎:
 
+- Disney star wars
+- Descúbre otras figuras de la colección disney star wars y colecciónalas todas
+- Poe dameron
+- De la colección star wars the rise of skywalker, poe dameron como figura de vinilo pop de funko
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QTD6S4V/?tag=tolees-21)

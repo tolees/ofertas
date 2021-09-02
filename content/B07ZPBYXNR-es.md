@@ -28,10 +28,10 @@ Ahora mismo tienes [Safety 1st Road Fix Silla Coche Grupo 2 3 ISOFIX  Crece con 
 
 🔎:
 
-- Puedes desenfundar cómodamente el asiento y lavar la funda en la lavadora a 30 grados; debajo del asiento hay un práctico cajón
-- Asiento de seguridad con protecciones laterales seguras que protegen la cabeza de los impactos laterales y guías integradas para facilitar el paso de los cinturones de seguridad
-- Silla de auto ISOFIX: se instala en el asiento trasero del coche a través de los ganchos ISOFIX; hay indicadores que indican si la instalación es correcta
 - Road Fix es un asiento de coche ISOFIX de 15-36 kg, grupo 2/3 para niños de 3 a 12 años
+- Puedes desenfundar cómodamente el asiento y lavar la funda en la lavadora a 30 grados; debajo del asiento hay un práctico cajón
 - La silla de coche Road Fix acompañará a su hijo durante muchos años (3-12 años): el reposacabezas es ajustable en 7 posiciones, y las partes laterales del asiento se expanden para seguir el crecimiento de su hijo
+- Silla de auto ISOFIX: se instala en el asiento trasero del coche a través de los ganchos ISOFIX; hay indicadores que indican si la instalación es correcta
+- Asiento de seguridad con protecciones laterales seguras que protegen la cabeza de los impactos laterales y guías integradas para facilitar el paso de los cinturones de seguridad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZPBYXNR/?tag=tolees-21)
