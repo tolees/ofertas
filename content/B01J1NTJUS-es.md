@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips 929001157860 - Pack de 2 Bombill al 45.49 % de descuento'
-date: 2021-08-13 12:06:15
+date: 2021-09-02 11:56:49
 image: 'https://m.media-amazon.com/images/I/41-YtJ9pF+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Philips 929001157860 - Pack de 2 Bombillas LED vela  casquillo E14  40 W 
 
 ℹ️:
 
-- Luz instantánea al encenderse
 - Ahorro de energía hasta un 80 %
-- Luz suave y brillante para disfrutar de una atmósfera cálida y acogedora
-- Con una vida útil hasta 15.000 horas
+- Luz instantánea al encenderse
 - Perfecta para sustituir tus lámparas incandescentes mate
+- Con una vida útil hasta 15.000 horas
+- Luz suave y brillante para disfrutar de una atmósfera cálida y acogedora
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01J1NTJUS/?tag=tolees-21)

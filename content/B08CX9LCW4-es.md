@@ -28,8 +28,8 @@ Tienes [Lee Drawstring Short Pantalones Cortos  Indian Teal  42 para Hombre](htt
 
 🔎:
 
-- Regular
 - 5 bolsillos
 - Otras planchas rígidas
+- Regular
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CX9LCW4/?tag=tolees-21)

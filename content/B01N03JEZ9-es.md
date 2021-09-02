@@ -28,10 +28,10 @@ Tienes [ELEGOO Kit Mejorado de Componentes Electrónicos con Módulo de Alimenta
 
 🔎:
 
-- Los componentes electronicos tienen gran calidad y presentado en una caja de almacenamiento de papel.
 - La kit electronica compatible con los kits de inicio de Raspberry Pi y el proyecto Arduino IDE. Tenga en cuenta que la placa del controlador no está incluida en este kit.
-- La hoja de datos está disponible para descargar desde este enlace: http://bit.ly/2jKlJMO
 - La kit electronica con más de 300 piezas de componentes mejorados según las sugerencias del cliente.
 - El kit de componentes electrónicos más completo para construir su proyecto electrónico.
+- La hoja de datos está disponible para descargar desde este enlace: http://bit.ly/2jKlJMO
+- Los componentes electronicos tienen gran calidad y presentado en una caja de almacenamiento de papel.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N03JEZ9/?tag=tolees-21)
