@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER Set de 50 Piezas con Brocas al 38.77 % de descuento'
-date: 2021-08-31 20:50:49
+date: 2021-09-02 10:21:27
 image: 'https://m.media-amazon.com/images/I/51aGGV8ldYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Black+Decker'
 buyurl: 'https://www.amazon.es/dp/B0076VLVXG/?tag=tolees-21'
 descuento: '38.77'
-average: '15.4942307692308'
+average: '15.4092452830189'
 ---
 
 Está [BLACK+DECKER Set de 50 Piezas con Brocas y Puntas para Atornillar y Taladrar A7188-XJ](https://www.amazon.es/dp/B0076VLVXG/?tag=tolees-21) con 38.77 de descuento por 10.99 EUR (original: 17.95 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [BLACK+DECKER Set de 50 Piezas con Brocas y Puntas para Atornillar y Talad
 ℹ️:
 
 - Incluye llaves de vaso hexagonales y adaptador
+- Los accesorios vienen almacenados en un maletín de color negro y naranja
 - Dispone de soporte magnético, avellanado
 - Las brocas para metal tienen revestimiento de titanio
-- Los accesorios vienen almacenados en un maletín de color negro y naranja
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0076VLVXG/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Giochi Preziosi - L.O.L Surprise JK Muñecas Surtido](htt
 
 🔎:
 
-- L.O.L Surprise JK, las innovadoras hermanas pequeñas de LOL Surprise
 - Descubre sus vestidos de tela, su pelo de verdad y un sinfin de sorpresas que encontrarás en cada pack.
+- L.O.L Surprise JK, las innovadoras hermanas pequeñas de LOL Surprise
 - Son 4 modelos diferentes que se servirán según existencias
 - Un pack en formato acordeón que te dejará helada!
 

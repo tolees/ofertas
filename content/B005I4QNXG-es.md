@@ -28,9 +28,9 @@ Tienes [BaByliss C260E Plancha de pelo para ondas  revestimiento de cerámica y 
 
 🔎:
 
+- Punta fría de agarre
 - Cable giratorio y funda termoresistente
 - Calentamiento rápido y estable
-- Punta fría de agarre
 - Las placas tienen revestimiento de cerámica y titanio
 - Dispone de 3 ajustes de temperatura (160º C, 180º C, 200º C)
 

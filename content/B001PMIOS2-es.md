@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional GSB 16 RE - Taladro p al 44.73 % de descuento'
-date: 2021-09-01 10:03:40
+date: 2021-09-02 10:26:33
 image: 'https://m.media-amazon.com/images/I/31g+CmQkNTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.es/dp/B001PMIOS2/?tag=tolees-21'
 descuento: '44.73'
-average: '114.9003125'
+average: '114.6'
 ---
 
 Ahora mismo tienes [Bosch Professional GSB 16 RE - Taladro percutor  750 W  0 – 2800 rpm  Ø max perforación hormigón 16 mm  en maletín ](https://www.amazon.es/dp/B001PMIOS2/?tag=tolees-21) a 104.99 EUR (original: 189.97 EUR) (44.73 %  de descuento) en el siguiente enlace!
