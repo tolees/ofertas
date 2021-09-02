@@ -28,10 +28,10 @@ Está [Staedtler Lumocolor 108 20-9. Caja de 12 lápices permanentes en seco de 
 
 ℹ️:
 
-- Lápices de madera permanentes y resistentes al agua que no traspasan el papel al escribir.
 - Óptimos para el marcado opaco en casi todas las superficies, incluso oscuras o transparentes, como papel, plástico, metal, cristal, madera, piel y piedra.
-- Alto nivel de resistencia a la luz. Permanece legible incluso años más tarde de su uso.
-- Lápices ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible.
 - Marcador profesional apto para su uso en multitud de ámbitos profesionales y laborales, así como en interiores o exteriores.
+- Lápices ecológicos, con madera con certificación PEFC, procedente de bosques de gestión sostenible.
+- Alto nivel de resistencia a la luz. Permanece legible incluso años más tarde de su uso.
+- Lápices de madera permanentes y resistentes al agua que no traspasan el papel al escribir.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000TKB6FE/?tag=tolees-21)

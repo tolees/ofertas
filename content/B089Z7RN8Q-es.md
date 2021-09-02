@@ -28,10 +28,10 @@ En este momento está [PUMA Rebel Half-Zip Crew TR Sudadera  Mujer  Black/Untame
 
 🔎:
 
-- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
 - Puños acanalados
 - Corte holgado
-- Corte por encima de la cintura
 - Estampado gráfico de goma
+- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
+- Corte por encima de la cintura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089Z7RN8Q/?tag=tolees-21)
