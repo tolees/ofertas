@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Entre Fantasmas - Temporadas 1- con un 43.60 % de descuento'
-date: 2021-09-01 00:57:37
+date: 2021-09-02 01:09:05
 image: 'https://m.media-amazon.com/images/I/51n6Ei7u-5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B00MO6AIC8/?tag=tolees-21'
 descuento: '43.60'
-average: '38.7773684210526'
+average: '38.434'
 ---
 
 En este momento está [Disney - Entre Fantasmas - Temporadas 1-5 [DVD]](https://www.amazon.es/dp/B00MO6AIC8/?tag=tolees-21) a 31.91 EUR (original: 56.58 EUR) (43.60 %  de descuento) en el siguiente enlace!

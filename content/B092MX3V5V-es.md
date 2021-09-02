@@ -28,11 +28,11 @@ Tienes [TOUS Colgante Camille de Plata con Cuarzo rosa](https://www.amazon.es/dp
 
 ℹ️:
 
-- Camille es una colección repleta de energía y poder, especialmente diseñada con formas circulares como símbolo de protección que te acompañará allá donde vayas.
-- Certificado Autenticidad TOUS
-- Motivo: 2,1 cm
-- Colgante TOUS Camille de plata de primera ley con cuarzo rosa
-- Este artículo no incluye la cadena
 - Packaging original
+- Este artículo no incluye la cadena
+- Colgante TOUS Camille de plata de primera ley con cuarzo rosa
+- Certificado Autenticidad TOUS
+- Camille es una colección repleta de energía y poder, especialmente diseñada con formas circulares como símbolo de protección que te acompañará allá donde vayas.
+- Motivo: 2,1 cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B092MX3V5V/?tag=tolees-21)
