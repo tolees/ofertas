@@ -28,8 +28,8 @@ Está [Helly Hansen W Hh Logo Hoodie  Sudadera con capucha para Mujer  Blanco  B
 
 ℹ️:
 
-- De la marca Helly Hansen.
 - De alta calidad.
+- De la marca Helly Hansen.
 - Felpa francesa de algodón suave | Logotipo de Helly Hansen en el pecho | Capucha forrada de punto | Bolsillo canguro | Cordón de ajuste en la capucha | Canalé en el bajo y los puños
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F2Q8W1D/?tag=tolees-21)
