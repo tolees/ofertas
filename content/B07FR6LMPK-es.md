@@ -28,8 +28,8 @@ Está [Clarks Un Aldric Step  Mocasines Hombre  Negro  Black Leather-   41.5 EU]
 
 ℹ️:
 
-- Exterior: piel
 - Ancho del zapato: estrecho
+- Exterior: piel
 - Cierre: sin cierre
 - Suela: goma
 

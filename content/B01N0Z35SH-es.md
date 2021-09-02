@@ -28,10 +28,10 @@ Tienes [Sony MDR-RF895RK Auriculares Inalámbricos  Cancelación de Ruido  Trans
 
 ℹ️:
 
-- Búsqueda automática de frecuencia para transmisión de alta calidad
+- Sistema de cancelación de ruido para un sonido más claro, el controlador de 40 mm proporciona un amplio rango de frecuencia
+- Tiempo de carga: Aprox. 7 horas (carga completa) para hasta 20 horas de duración de la batería
 - Incluido en el suministro: auriculares estéreo inalámbricos, unidad transmisora RF estéreo, fuente de alimentación, mini cable estéreo de 1,5 m, batería híbrida de níquel-metal
 - Auriculares inalámbricos de tipo cerrado con alcance de hasta 100 m
-- Tiempo de carga: Aprox. 7 horas (carga completa) para hasta 20 horas de duración de la batería
-- Sistema de cancelación de ruido para un sonido más claro, el controlador de 40 mm proporciona un amplio rango de frecuencia
+- Búsqueda automática de frecuencia para transmisión de alta calidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N0Z35SH/?tag=tolees-21)
