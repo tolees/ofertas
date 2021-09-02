@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'PLAYMOBIL City Life Habitación Infantil  al 36.98 % de descuento'
-date: 2021-08-28 08:51:45
+title: 'PLAYMOBIL City Life Habitación Infantil  al 45.99 % de descuento'
+date: 2021-09-02 13:14:37
 image: 'https://m.media-amazon.com/images/I/51dnOc7RbhS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B06WVLX66Y-es PLAYMOBIL City Life Habitación Infantil a Partir de 4 Años...'
 sku: 'B06WVLX66Y-es'
 tags: [ 'Conjuntos de figuras de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','playmobil', ]
-actualPrice: 13.99 EUR
+actualPrice: 11.99 EUR
 currency: EUR
-price: 13.99
+price: 11.99
 comparePrice: 22.2 EUR
 prodname: 'PLAYMOBIL City Life Habitación Infantil  a Partir de 4 Años  9270 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B06WVLX66Y/?tag=tolees-21'
-descuento: '36.98'
-average: '15.5558139534882'
+descuento: '45.99'
+average: '15.5148275862067'
 ---
 
-Está [PLAYMOBIL City Life Habitación Infantil  a Partir de 4 Años  9270 ](https://www.amazon.es/dp/B06WVLX66Y/?tag=tolees-21) con 36.98 de descuento por 13.99 EUR (original: 22.2 EUR) en el siguiente enlace!
+Está [PLAYMOBIL City Life Habitación Infantil  a Partir de 4 Años  9270 ](https://www.amazon.es/dp/B06WVLX66Y/?tag=tolees-21) con 45.99 de descuento por 11.99 EUR (original: 22.2 EUR) en el siguiente enlace!
 
 [![PLAYMOBIL City Life Habitación Infantil ](https://m.media-amazon.com/images/I/51dnOc7RbhS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B06WVLX66Y/?tag=tolees-21)
 

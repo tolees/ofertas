@@ -28,11 +28,11 @@ Está [Zanussi ZCAN26FW1 Arcón congelador  Capacidad 254 Litros  2 cestos  Comp
 
 ℹ️:
 
-- Zanussi ZCAN26FW1. Capacidad de congelación: 21 kg/24 horas
 - Iluminación interior suave y uniforme mediante bombillas LED, te dan la visibilidad que necesitas y consumen poco
-- Cajones de verduras, pueden desmontarse y retirarse fácilmente para hacer más espacio y adaptarse a tus necesidades
-- Pantalla LCD ofrece un acceso sin esfuerzo a la temperatura y a otros ajustes generales
 - Dos cestos apilables, para facilitarte la organización y el espacio del congelador
+- Pantalla LCD ofrece un acceso sin esfuerzo a la temperatura y a otros ajustes generales
 - Dimensiones (Ancho x Alto x Profundo): 84,5 cm x 96 cm x 70 cm
+- Zanussi ZCAN26FW1. Capacidad de congelación: 21 kg/24 horas
+- Cajones de verduras, pueden desmontarse y retirarse fácilmente para hacer más espacio y adaptarse a tus necesidades
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BFXV6CH/?tag=tolees-21)
