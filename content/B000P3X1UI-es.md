@@ -28,10 +28,10 @@ Está [Brennenstuhl Vario-Line enrollacables doméstico con 4 enchufes  cable de
 
 ℹ️:
 
-- Caja de cable enrollable con una carcasa resistente de plástico para el uso en interiores con protección contra sobrecalentamiento
-- Tambor de cable alargador enrollable de 5m (H05VV-F 3G1.5) con 4 enchufes de toma a tierra con protección contra el contacto accidental y descargas eléctricas
 - Enrollacables doméstico práctico con un cable alargador eléctrico enrollable, asa ergonómica y una buena estabilidad gracias a su doble pie
 - El tambor de cable alargador eléctrico enrollable de interior es adecuado para el uso en el hogar, la oficina, la caravana o el camping
 - Volumen de suministro: 1x enrollacables doméstico Vario-Line con 4 enchufes, cable enrollable de 5m - en la calidad de Brennenstuhl
+- Tambor de cable alargador enrollable de 5m (H05VV-F 3G1.5) con 4 enchufes de toma a tierra con protección contra el contacto accidental y descargas eléctricas
+- Caja de cable enrollable con una carcasa resistente de plástico para el uso en interiores con protección contra sobrecalentamiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000P3X1UI/?tag=tolees-21)
