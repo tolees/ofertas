@@ -28,10 +28,10 @@ Tienes [Chicco- Mr. Perrito Pera Musical carillón de Cuna con Dulces Nanas  Art
 
 🔎:
 
+- Tejido suave
+- Con dulce nana
+- Alta calidad
 - Práctica tira para enganchar a la cuna
 - Simpático carillón de pera
-- Tejido suave
-- Alta calidad
-- Con dulce nana
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079YFPRLQ/?tag=tolees-21)

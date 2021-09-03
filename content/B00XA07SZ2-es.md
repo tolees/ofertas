@@ -28,10 +28,10 @@ Ahora mismo tienes [Durex Gel Lubricante Massage 2 en 1 Gel de Masaje y Lubrican
 
 🔎:
 
-- COMPATIBLE CON PRESERVATIVOS DUREX Y JUGUETES SEXUALES: Compatible con preservativos de Látex y Poliisopropeno
 - RESPETUOSOS CON LA PIEL: Los lubricantes Durex Play Massage son respetuosos con la piel para más comodidad de uso
-- LUBRICANTE DE BASE AGUA: No es graso y puede lavarse fácilmente; suaviza tus relaciones con este lubricante de base agua
 - 2 EN 1 GEL DE MASAJE Y LUBRICANTE ÍNTIMO CON ALOE VERA SUAVE: Gel de masaje sensual y lubricante íntimo con Aloe Vera adecuado para hacer un masaje relajante y puedes utilizarlo también como lubricante para zonas íntimas
+- LUBRICANTE DE BASE AGUA: No es graso y puede lavarse fácilmente; suaviza tus relaciones con este lubricante de base agua
+- COMPATIBLE CON PRESERVATIVOS DUREX Y JUGUETES SEXUALES: Compatible con preservativos de Látex y Poliisopropeno
 - ADECUADO PARA SEXO VAGINAL, ORAL O ANAL
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00XA07SZ2/?tag=tolees-21)

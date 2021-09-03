@@ -28,9 +28,9 @@ Ahora mismo tienes [Helly Hansen Crew Chaqueta  Hombre  Negro  Black   L](https:
 
 🔎:
 
+- Chaqueta versátil, impermeable y cortavientos
 - Bolsillos con cremallera
 - Costuras totalmente selladas
-- Chaqueta versátil, impermeable y cortavientos
 - Dobladillo ajustable con cordón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00LU7MJZQ/?tag=tolees-21)

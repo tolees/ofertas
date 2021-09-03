@@ -28,8 +28,8 @@ Está [FOSSIL Analógico ES5023](https://www.amazon.es/dp/B08V1GFG1X/?tag=tolees
 
 ℹ️:
 
-- FOSSIL Modelo Reloj Jaqueline ES5023
-- Analógico para Mujer
 - 9 milimetros calendario Día y fecha Hebilla
+- Analógico para Mujer
+- FOSSIL Modelo Reloj Jaqueline ES5023
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08V1GFG1X/?tag=tolees-21)

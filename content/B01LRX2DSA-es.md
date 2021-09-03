@@ -28,8 +28,8 @@ Ahora mismo tienes [HyperX HX-HSCS-BK Cloud Stinger - Cascos de Gaming  Negro](h
 
 🔎:
 
-- Nivel de presión sonora (SPL) nominal de 98 ± 3 dB
 - Botón de intercambio entre unas orejeras de piel sintética o de velvetón
+- Nivel de presión sonora (SPL) nominal de 98 ± 3 dB
 - Compatibles con PC, portátil, tablet, teléfono móvil, adaptadores para aviones y PS4
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LRX2DSA/?tag=tolees-21)

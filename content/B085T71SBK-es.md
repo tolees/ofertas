@@ -28,10 +28,10 @@ Está [Kingston SDCG3/128GBSP Tarjeta microSD   128GB microSDXC Canvas Go Plus 1
 
 ℹ️:
 
-- Resistente
-- Elevadas velocidades de transferencia de hasta 170 MB/s
-- Óptimo para cámaras de acción, drones y dispositivos Android
 - Compatible con la categoría de rendimiento de aplicaciones A5
+- Resistente
 - Velocidades U3 y V30
+- Óptimo para cámaras de acción, drones y dispositivos Android
+- Elevadas velocidades de transferencia de hasta 170 MB/s
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085T71SBK/?tag=tolees-21)

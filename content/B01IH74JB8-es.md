@@ -28,10 +28,10 @@ En este momento está [Monix M281709 M281709-Cafetera Italiana  9 Tazas  Color F
 
 🔎:
 
-- Acabado Esmaltado brillo
+- Capacidad para 9 tazas de café - 450 ml
 - Exterior súper resistente
 - Mango fabricado en baquelita termo-resistente con formato ergonómico
+- Acabado Esmaltado brillo
 - Apta para todo tipo de encimeras, excepto inducción
-- Capacidad para 9 tazas de café - 450 ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01IH74JB8/?tag=tolees-21)
