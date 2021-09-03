@@ -29,8 +29,8 @@ Tienes [GEOX Woman D FAVIOLA C SHOES BLACK 36 EU](https://www.amazon.es/dp/B08KH
 🔎:
 
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Altura del tacón: 9 cm / 3.5 inch
 - Calzado sin cierre
+- Altura del tacón: 9 cm / 3.5 inch
 - Fácil de llevar para un confort optimo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KHLXCW9/?tag=tolees-21)
