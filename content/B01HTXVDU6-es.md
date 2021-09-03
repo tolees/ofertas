@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER BDCHD18K-QW - Taladro percu al 35.08 % de descuento'
-date: 2021-08-30 05:32:41
+date: 2021-09-03 17:28:00
 image: 'https://m.media-amazon.com/images/I/41+ygWmmZyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [BLACK+DECKER BDCHD18K-QW - Taladro percutor 18V  2 velocidades  incluye b
 
 ℹ️:
 
+- Ámbito de aplicación: la fuerza correcta y la velocidad para taladrar en madera y metal, así como para todas las aplicaciones rosca
+- Incluye brocas para metal con revestimiento de titanio
 - Engranaje de dos velocidades: baja fuerza y alta velocidad para trabajos de atornillado controlada, alta velocidad para taladrar rápido y sencillo
 - Cuenta con un adaptador magnético para puntas y un avellanador
-- Incluye brocas para metal con revestimiento de titanio
-- Ámbito de aplicación: la fuerza correcta y la velocidad para taladrar en madera y metal, así como para todas las aplicaciones rosca
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HTXVDU6/?tag=tolees-21)
