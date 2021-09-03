@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOUS Colgante Camille de Plata con Calce al 40.00 % de descuento'
-date: 2021-08-31 09:16:08
+date: 2021-09-03 08:00:21
 image: 'https://m.media-amazon.com/images/I/21DjojcxoJS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [TOUS Colgante Camille de Plata con Calcedonia](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Este artículo no incluye la cadena
+- Packaging original
+- Camille es una colección repleta de energía y poder, especialmente diseñada con formas circulares como símbolo de protección que te acompañará allá donde vayas.
 - Motivo: 2,1 cm
+- Este artículo no incluye la cadena
 - Colgante TOUS Camille de plata de primera ley con calcedonia
 - Certificado autenticidad TOUS
-- Camille es una colección repleta de energía y poder, especialmente diseñada con formas circulares como símbolo de protección que te acompañará allá donde vayas.
-- Packaging original
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B091DTZZ36/?tag=tolees-21)
