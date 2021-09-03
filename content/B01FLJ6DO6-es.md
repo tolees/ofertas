@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Bosch Professional 0601066E00 Nivel GCL  al 40.55 % de descuento'
-date: 2020-08-31 14:08:03
-image: 'https://m.media-amazon.com/images/I/41CrtsQXYYL._SL400_.jpg'
+title: 'Bosch Professional Nivel láser GCL 2-15  al 36.98 % de descuento'
+date: 2021-09-03 10:37:12
+image: 'https://m.media-amazon.com/images/I/51qJ-WocEcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01FLJ6DO6-es Bosch Professional 0601066E00 Nivel GCL 2-15 interior con...'
+slug: 'B01FLJ6DO6-es Bosch Professional Nivel láser GCL 2-15 láser rojo...'
 sku: 'B01FLJ6DO6-es'
-tags: [  ]
-actualPrice: 99.99 EUR
+tags: [ 'Bricolaje y herramientas','Dispositivos de medición de láser y accesorios','Herramientas de medición y diseño','Herramientas manuales y eléctricas','Niveles láser','bosch professional', ]
+actualPrice: 105.99 EUR
 currency: EUR
-price: 99.99
+price: 105.99
 comparePrice: 168.19 EUR
-prodname: 'Bosch Professional 0601066E00 Nivel GCL 2-15 interior  con puntos de plomada  3 pilas AA  soporte giratorio RM 1  placa reflectora  estuche de protección  Láser rojo sin maletín  1.5 V  15 m'
+prodname: 'Bosch Professional Nivel láser GCL 2-15  láser rojo  interior  con puntos de plomada  alcance: 15 m  3 pilas AA  soporte giratorio RM 1  placa reflectora láser  estuche de protección '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.es/dp/B01FLJ6DO6/?tag=tolees-21'
-descuento: '40.55'
-average: '106.56333333333333'
+descuento: '36.98'
+average: '106.481428571429'
 ---
 
-Está [Bosch Professional 0601066E00 Nivel GCL 2-15 interior  con puntos de plomada  3 pilas AA  soporte giratorio RM 1  placa reflectora  estuche de protección  Láser rojo sin maletín  1.5 V  15 m](https://www.amazon.es/dp/B01FLJ6DO6/?tag=tolees-21) con 40.55 de descuento por 99.99 EUR (original: 168.19 EUR) en el siguiente enlace!
+Está [Bosch Professional Nivel láser GCL 2-15  láser rojo  interior  con puntos de plomada  alcance: 15 m  3 pilas AA  soporte giratorio RM 1  placa reflectora láser  estuche de protección ](https://www.amazon.es/dp/B01FLJ6DO6/?tag=tolees-21) con 36.98 de descuento por 105.99 EUR (original: 168.19 EUR) en el siguiente enlace!
 
-[![Bosch Professional 0601066E00 Nivel GCL ](https://m.media-amazon.com/images/I/41CrtsQXYYL._SL400_.jpg)](https://www.amazon.es/dp/B01FLJ6DO6/?tag=tolees-21)
+[![Bosch Professional Nivel láser GCL 2-15 ](https://m.media-amazon.com/images/I/51qJ-WocEcL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01FLJ6DO6/?tag=tolees-21)
 
 ℹ️:
 
+- FUNCIONES: Líneas de láser horizontales y verticales y dos puntos de plomada centrados con una visibilidad óptima
+- INCLUYE: GCL 2-15 con soporte giratorio RM 1 Professional, 3 pilas AA, placa reflectora láser, funda, bandeja para L-BOXX
+- NUMEROSAS APLICACIONES: Uso flexible y múltiples posibilidades de fijación gracias al soporte multifunción giratorio RM 1 Professional
+- USO PROFESIONAL: Nivel láser de líneas con puntos de plomada, compacto y versátil para todos los trabajos de nivelación en distancias cortas
+- DATOS TÉCNICOS: clase de láser 2, IP 54, intervalo de autonivelación ± 4°, precisión de nivelación ± 0,3 mm/m
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01FLJ6DO6/?tag=tolees-21)

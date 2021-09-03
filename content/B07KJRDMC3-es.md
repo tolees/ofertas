@@ -30,7 +30,7 @@ En este momento está [Tom Tailor Casual 1008320 Camisa  Azul  Light Blue Oxford
 
 - Se abrocha con botones
 - Camisa con manga larga y cuello abotonado
-- Camisa con un lazo en la parte posterior para colgar
 - Hecho de puro algodón
+- Camisa con un lazo en la parte posterior para colgar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KJRDMC3/?tag=tolees-21)

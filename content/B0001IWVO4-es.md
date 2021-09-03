@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kitchen Craft KCBB882 - Cortador de pata al 51.07 % de rebaja'
-date: 2021-08-31 13:28:10
+date: 2021-09-03 09:18:22
 image: 'https://m.media-amazon.com/images/I/41lcd-iINBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kitchen Craft'
 buyurl: 'https://www.amazon.es/dp/B0001IWVO4/?tag=tolees-21'
 descuento: '51.07'
-average: '14.6214285714286'
+average: '14.5425'
 ---
 
 Tienes [Kitchen Craft KCBB882 - Cortador de patatas fritas con hoja de acero inoxidable  Blanco](https://www.amazon.es/dp/B0001IWVO4/?tag=tolees-21) con precio final de  13.99 EUR (original: 28.59 EUR) (51.07 %  de rebaja) aqui!
@@ -29,9 +29,9 @@ Tienes [Kitchen Craft KCBB882 - Cortador de patatas fritas con hoja de acero ino
 🔎:
 
 - Corte las papas en fichas en segundo
-- Todos los artículos son removibles para facilitar la limpieza
-- Tamaño de cuchillas: 10 mm y 13 mm
 - Incluye dos tamaños de cuchillas para la fabricación de chips pequeños y grandes
+- Tamaño de cuchillas: 10 mm y 13 mm
+- Todos los artículos son removibles para facilitar la limpieza
 - Base de succión crea un agarre firme mientras está en uso
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0001IWVO4/?tag=tolees-21)
