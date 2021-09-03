@@ -28,10 +28,10 @@ Tienes [OMRON Healthcare - OMRON BF 511 - Báscula de composición corporal  col
 
 ℹ️:
 
+- Certificado como producto médico para el bienestar por TÜV, validado clínicamente
 - Mide los niveles de grasa visceral (interna) en cuestión de segundos y le permite tomar medidas para controlarlos
 - El índice de masa corporal indica la relación entre el peso y la altura de una persona
 - El método de impedancia bioeléctrica (BI) permite mostrar el porcentaje de grasa corporal con respecto al peso total
-- Certificado como producto médico para el bienestar por TÜV, validado clínicamente
 - Memoria, pueden usarlo hasta 4 personas, incluye modo invitado, medición con 8 sensores tanto en las manos como en los pies para una medición corporal completa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0033AGBW0/?tag=tolees-21)

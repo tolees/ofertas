@@ -28,10 +28,10 @@ Tienes [Samsung SM-R835FZDAPHE - Galaxy Watch Active 2 - Smartwatch de Aluminio 
 
 🔎:
 
-- Galaxy Watch Active2 ahora es capaz de monitorizar automáticamente 7 tipos de ejercicio (natación como novedad) y 39 ejercicios más, de forma manual
-- Procesador Exynos 9110; 1.15GHz, CA53 Dual, T720 GPU, 10nm
-- Galaxy Watch Active2 es resistente para todo tipo de entornos, incluyendo piscinas
 - Galaxy Watch Active2 es delgado, elegante y ligero, sin perder robustez
+- Galaxy Watch Active2 es resistente para todo tipo de entornos, incluyendo piscinas
+- Procesador Exynos 9110; 1.15GHz, CA53 Dual, T720 GPU, 10nm
 - Con una resistencia al agua de 5 atmósferas de presión y con certificación MILSTD- 810G, es idóneo para nadar y realizar ejercicio o actividades al aire libre
+- Galaxy Watch Active2 ahora es capaz de monitorizar automáticamente 7 tipos de ejercicio (natación como novedad) y 39 ejercicios más, de forma manual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B093WT4HHD/?tag=tolees-21)

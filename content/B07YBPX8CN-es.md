@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL T750BTNC - Auriculares circumaurales con un 51.04 % de descuento'
-date: 2021-09-02 11:45:19
+date: 2021-09-03 14:14:24
 image: 'https://m.media-amazon.com/images/I/41OftOEgaWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'JBL'
 buyurl: 'https://www.amazon.es/dp/B07YBPX8CN/?tag=tolees-21'
 descuento: '51.04'
-average: '70.05'
+average: '68.3275'
 ---
 
 En este momento está [JBL T750BTNC - Auriculares circumaurales inalámbricos con cancelación de ruido activa  conexión multipunto  Bluetooth  rojo](https://www.amazon.es/dp/B07YBPX8CN/?tag=tolees-21) a 63.16 EUR (original: 129.0 EUR) (51.04 %  de descuento) en el siguiente enlace!
