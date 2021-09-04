@@ -29,13 +29,13 @@ Ahora mismo tienes [Superga 2750 COTU Classic Sneaker   Zapatillas Unisex Adulto
 🔎:
 
 - La estación ideal: para todas las estaciones
+- Material interior: tela
+- Estilo: zapatillas clásicas
 - Adecuado para: unisex (adultos)
 - Cierre: cordones
-- Material exterior: lona
-- Material interior: tela
-- Tacón plano 1 centímetro
 - Material de la suela: goma
+- Material exterior: lona
+- Tacón plano 1 centímetro
 - Talla: 36
-- Estilo: zapatillas clásicas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002WGHYOU/?tag=tolees-21)
