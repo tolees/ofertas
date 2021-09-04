@@ -28,10 +28,10 @@ Está [Sharp GX-BT280 GR  Altavoz Bluetooth portátil 20W True Wireless Stereo  
 
 ℹ️:
 
-- Mejora cristalina y clara de alta frecuencia con psicoacústica y extensión de graves para graves más profundos y ricos
-- Bluetooth 4.2 y conector 3,5mm auxiliar. Modo de cambio automático. Integración de Voice Assistant: acceso a Siri o Google y función manos libres con microfono. Apagado automático
-- Modo dúo: Gracias a su tecnología True Wireless Stereo (TWS) empareja 2 GX-BT280 para escuchar en estereo, uno para el canal izquierda y otro para el canal derecho
 - SHARP GX-BT280 es un altavoz Bluetooth de 20W de potencia maxima portátil con tecnología DSP avanzada que se puede conectar fácilmente a cualquier, mochila, bicicletas, etc. con protección para chorros de agua y polvo IP56.
 - Controles simples de un toque: reproducir, pausar, avanzar, retroceder con hasta 12 horas de reproducción: recargable por micro USB
+- Bluetooth 4.2 y conector 3,5mm auxiliar. Modo de cambio automático. Integración de Voice Assistant: acceso a Siri o Google y función manos libres con microfono. Apagado automático
+- Modo dúo: Gracias a su tecnología True Wireless Stereo (TWS) empareja 2 GX-BT280 para escuchar en estereo, uno para el canal izquierda y otro para el canal derecho
+- Mejora cristalina y clara de alta frecuencia con psicoacústica y extensión de graves para graves más profundos y ricos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08WHJS1JX/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [adidas GN7508 Team Base tee Sweatshirt Mens Team Orange XL](https://www.
 
 🔎:
 
+- Corte semi-ajustado
 - Cuello de pico
 - Logotipo de Adidas en la parte delantera
-- Corte semi-ajustado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VSC9BD9/?tag=tolees-21)
