@@ -28,8 +28,8 @@ Tienes [Pepe Jeans Eggo Long PM501321 Top de Manga Larga  Negro  Black 999   Sma
 
 ℹ️:
 
-- Camiseta básica para hombre
 - Tiene estampado en el pecho la marca Pepe Jeans
+- Camiseta básica para hombre
 - Fabricada en tejido suave que ofrece comodidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B009R85JGG/?tag=tolees-21)

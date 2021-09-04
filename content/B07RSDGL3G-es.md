@@ -28,8 +28,8 @@ En este momento está [Artemisbio Tarro Ras El Hanout Eco 25 Gr Especias Y Condi
 
 🔎:
 
-- Producto de la marca ARTEMISBIO
 - Producto Para El Cuidado Y Bienestar De Tu Cuerpo
+- Producto de la marca ARTEMISBIO
 - TARRO RAS EL HANOUT ECO 25 gr ESPECIAS Y CONDIMENTOS
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RSDGL3G/?tag=tolees-21)
