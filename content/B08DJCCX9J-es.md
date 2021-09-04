@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Pedrive 10233410 01 Polo  Dark Blue al 43.30 % de rebaja'
-date: 2021-08-31 00:48:37
+date: 2021-09-04 01:19:50
 image: 'https://m.media-amazon.com/images/I/41P68f4-8-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,6 @@ Tienes [BOSS Pedrive 10233410 01 Polo  Dark Blue404  M para Hombre](https://www.
 
 🔎:
 
-- Longitud estándar
-- Corte estándar
+- Pedrive 10233410 01
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DJCCX9J/?tag=tolees-21)
