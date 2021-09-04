@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda AC10 Router WiFi Inalámbrico Gigab al 36.72 % de descuento'
-date: 2021-08-30 18:56:07
+date: 2021-09-04 19:17:12
 image: 'https://m.media-amazon.com/images/I/21HC8bjuOzS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tenda'
 buyurl: 'https://www.amazon.es/dp/B07DGPYKLP/?tag=tolees-21'
 descuento: '36.72'
-average: '34.3811904761907'
+average: '34.3116470588238'
 ---
 
 Ahora mismo tienes [Tenda AC10 Router WiFi Inalámbrico Gigabit AC1200  Doble Banda 5GHz 867 Mbps 2 4 GHz 300 Mbps  4 Antenas 5 dbi  Chip Broadcom 1GHz  Memoria ddr3  Gaming  Beamforming +  Control App  802.11 ac ](https://www.amazon.es/dp/B07DGPYKLP/?tag=tolees-21) a 28.47 EUR (original: 44.99 EUR) (36.72 %  de descuento) en el siguiente enlace!
