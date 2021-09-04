@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JOBY GripTight One GP Stand - Soporte Un con un 50.01 % de descuento'
-date: 2021-08-30 19:14:44
+date: 2021-09-04 12:32:20
 image: 'https://m.media-amazon.com/images/I/413va63rlTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [JOBY GripTight One GP Stand - Soporte Universal y trípod
 
 🔎:
 
+- Diseño compacto. Diseño plegable compacto patentado
+- Liberación rápida. Diseño de acero inoxidable accionado por resorte para una sujeción y liberación rápida del smartphone
+- Modo horizontal a vertical. Ajuste rápido del modo horizontal al vertical cuando sea necesario
 - Base flexible. Patas Gorillapod flexibles con rótula giratoria que ofrece infinitas plataformas y ángulos creativos
 - Diseñado para cualquier tipo de smartphone, con o sin funda, (56mm – 91mm) como el iPhone 7, Samsung Galaxy S7, iPhone 7 Plus, Samsung Galaxy S7 EDGE
-- Liberación rápida. Diseño de acero inoxidable accionado por resorte para una sujeción y liberación rápida del smartphone
-- Diseño compacto. Diseño plegable compacto patentado
-- Modo horizontal a vertical. Ajuste rápido del modo horizontal al vertical cuando sea necesario
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01NGTBA3E/?tag=tolees-21)
