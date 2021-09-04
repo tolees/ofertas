@@ -30,8 +30,8 @@ En este momento está [DC Shoes Kalis Vulc  Zapatillas de Skateboard Hombre  Roj
 
 - Tejido interior de malla
 - Suela exterior de goma adherente y absorbente resistente a la abrasión
-- Plantilla EVA que aporta amortiguación
-- Suela DC con dibujo Pill Pattern de marca registrada
 - __Parte superior:__ parte superior en ante , nobuk o cuero (dependiendo del color)
+- Suela DC con dibujo Pill Pattern de marca registrada
+- Plantilla EVA que aporta amortiguación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SRSR3YQ/?tag=tolees-21)
