@@ -28,9 +28,9 @@ En este momento está [adidas RUNFALCON 2.0  Zapatillas de Running Hombre  NEGB�
 
 🔎:
 
+- Suela de goma
+- Cierre de cordones
 - Parte superior textil
 - Forro textil
-- Cierre de cordones
-- Suela de goma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BX52PX8/?tag=tolees-21)

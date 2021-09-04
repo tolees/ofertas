@@ -29,9 +29,9 @@ Tienes [Philips HC7650/15 - Cortapelos con cuchillas de titanio  3 peines-guía 
 ℹ️:
 
 - Modo Turbo para una mayor potencia de corte del pelo más grueso
+- Cuchillas de doble filo apartan el pelo caído para un corte 2 veces más rápido*
 - Cortapelos 100% lavable con 28 ajustes de longitud (0,5-28 mm)
 - Incluye: 1 peine-guía para la barba, 2 peines-guía para pelo (largo y corto), tijeras, peine y estuche de viaje
-- Cuchillas de doble filo apartan el pelo caído para un corte 2 veces más rápido*
 - Hasta 90 minutos de uso sin cable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TMP2TP5/?tag=tolees-21)
