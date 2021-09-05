@@ -29,7 +29,7 @@ Tienes [Pepe Jeans Eggo Long  Top de Manga Larga Para Hombre  Gris  Grey Marl 93
 🔎:
 
 - Fabricada en tejido suave que ofrece comodidad
-- Camiseta básica para hombre
 - Tiene estampado en el pecho la marca Pepe Jeans
+- Camiseta básica para hombre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FBO4DIU/?tag=tolees-21)

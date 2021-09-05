@@ -28,10 +28,10 @@ Tienes [Fansteck Luces LED Armario  Lámpara Control Remoto Inalámbrica Nocturn
 
 🔎:
 
-- 💡[ CONTROL REMOTO INALÁMBRICO ]: Con el control remoto, puede encender / apagar las luces cuando desee: gracias a su transmisor de señal IR, alta sensibilidad y larga distancia de operación de hasta 10 metros, puede agregar fácilmente hasta 10 luces en un mismo control remoto, sin ninguna programación necesaria.
-- 💡[ LARGA DURACIÓN & TEMPORIZADOR INTELIGENTE ]: Con el panel LED que ahorra energía, las luces del armario pueden funcionar hasta 5 horas seguidas sin cambiar las baterías. Tiene 4 modos de temporizar de 15, 30, 60 o 120 minutos con el temporizador inteligente.
-- 💡[ COLÓQUELO EN CUALQUIER LUGAR QUE NECESITE ]: ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡OJO!!!!!!!!!!!!!!!!!!!!!!!ESTE PRODUCTO NO TIENE FUNCIÓN DE SENSOR DE MOVIMIENTO, DEBIDO A PROBLEMA DE NUESTRO CENTRO DE VENDEDOR NO PODEMOS CAMBIAR INFORMACIONES DE LA DESCRIPCIÓN DE ESTE ARTÍCULO.Cada paquete viene con 3 bandas magnéticas con espuma adhesiva en la parte posterior y 3 extras como regalos, lo que permite una fácil instalación y extracción.
 - 💡[ FÁCIL INSTALAR ]: La instalación no podría ser más fácil: solo tiene que despegar la pegatina y pegarla donde quiera.
+- 💡[ LARGA DURACIÓN & TEMPORIZADOR INTELIGENTE ]: Con el panel LED que ahorra energía, las luces del armario pueden funcionar hasta 5 horas seguidas sin cambiar las baterías. Tiene 4 modos de temporizar de 15, 30, 60 o 120 minutos con el temporizador inteligente.
+- 💡[ CONTROL REMOTO INALÁMBRICO ]: Con el control remoto, puede encender / apagar las luces cuando desee: gracias a su transmisor de señal IR, alta sensibilidad y larga distancia de operación de hasta 10 metros, puede agregar fácilmente hasta 10 luces en un mismo control remoto, sin ninguna programación necesaria.
 - 💡[ PROTEGE SUS OJOS ]: Equipado con un útil panel antideslumbrante, las luces mostrarán rayos brillantes, suaves y sin parpadeos. El brillo se puede ajustar de 1% a 100%, controlado por un simple botón "+" y "-", Incluso hay 2 botones para ajustar rápidamente a 50% o 100% de brillo.
+- 💡[ COLÓQUELO EN CUALQUIER LUGAR QUE NECESITE ]: ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡OJO!!!!!!!!!!!!!!!!!!!!!!!ESTE PRODUCTO NO TIENE FUNCIÓN DE SENSOR DE MOVIMIENTO, DEBIDO A PROBLEMA DE NUESTRO CENTRO DE VENDEDOR NO PODEMOS CAMBIAR INFORMACIONES DE LA DESCRIPCIÓN DE ESTE ARTÍCULO.Cada paquete viene con 3 bandas magnéticas con espuma adhesiva en la parte posterior y 3 extras como regalos, lo que permite una fácil instalación y extracción.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078HPL7P9/?tag=tolees-21)
