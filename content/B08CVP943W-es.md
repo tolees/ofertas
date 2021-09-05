@@ -28,8 +28,8 @@ En este momento está [Lee Slim Button Down Camisa  Azul Lavado  S para Hombre](
 
 🔎:
 
+- Algodón orgánico
 - Corte ajustado
 - WOVENS
-- Algodón orgánico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CVP943W/?tag=tolees-21)

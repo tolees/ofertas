@@ -28,8 +28,8 @@ En este momento está [Gloss! - Gloss - caja de baño  caja de regalo para mujer
 
 🔎:
 
-- Bañera de baño regalo
 - Con este regalo de frescura y bienestar, comparte un momento de placer delicadamente perfumado con Chocolate
 - Contenido: 270 ml gel de ducha, 270 ml loción corporal, 50 ml exfoliante corporal
+- Bañera de baño regalo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002C3CDAI/?tag=tolees-21)
