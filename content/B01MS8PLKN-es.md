@@ -28,10 +28,10 @@ En este momento está [Toshiba Portege X20W-D-10P - Ordenador portátil táctil 
 
 🔎:
 
+- Disco duro 256 GB SSD M.2 SATA
 - Pantalla 12,5 " (31,8 cm) Full HD Mate Táctil
 - Tarjeta gráfica Intel HD Graphics 620 y Windows 10 Pro 64 Bits
-- Procesador Intel Core i7-7500U 15W 2.70/3.50 GHz
 - Memoria RAM 8GB (OnBoard)
-- Disco duro 256 GB SSD M.2 SATA
+- Procesador Intel Core i7-7500U 15W 2.70/3.50 GHz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MS8PLKN/?tag=tolees-21)

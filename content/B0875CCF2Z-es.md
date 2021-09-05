@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour UA Ozsee Sackpack  Mochila. al 46.69 % de descuento'
-date: 2021-09-01 05:30:52
+date: 2021-09-05 18:51:47
 image: 'https://m.media-amazon.com/images/I/41kTgMYQOCS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [Under Armour UA Ozsee Sackpack  Mochila. Unisex Adulto  Midn
 
 🔎:
 
+- Dimensiones: 45,5 x 35,5 x 5 cm (alto x largo x ancho)
+- El material duradero soporta todas las cargas de la vida cotidiana
 - Ref. : 1240539
 - Gracias al clip en el pecho, los tirantes permanecen seguros en su lugar
 - Cordón de tracción suave
-- El material duradero soporta todas las cargas de la vida cotidiana
-- Dimensiones: 45,5 x 35,5 x 5 cm (alto x largo x ancho)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0875CCF2Z/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [8-Sch - Gonher 80/0 Pistola Juguete para Niños](https://www.amazon.es/d
 
 ℹ️:
 
-- Fabricado en España
 - Fulminantes no incluidos
 - Juguete de metal de alta calidad
-- Conforme a normativa UE
 - Utiliza fulminantes de 8 disparos
+- Conforme a normativa UE
+- Fabricado en España
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000MLQFEW/?tag=tolees-21)
