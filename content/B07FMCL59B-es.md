@@ -28,9 +28,9 @@ Tienes [Energy Sistem Headphones BT Travel 7 ANC  Auriculares inalambricos  Acti
 
 🔎:
 
-- - ACTIVE NOISE CANCELLING: Auriculares Bluetooth con tecnología Active Noise Cancelling que cancela el ruido exterior para aislarte.
 - - CONTROL TALK: Controla la lista de reproducción, subir o bajar el volumen y responder llamadas desde el auricular con los botones integrados.
-- - EXTENDED BATTERY: Batería de polímero de litio con hasta 18 horas de autonomía.
+- - ACTIVE NOISE CANCELLING: Auriculares Bluetooth con tecnología Active Noise Cancelling que cancela el ruido exterior para aislarte.
 - - FOLDABLE: Diadema extensible y almohadillas con rotación de 90 grados que cubren y se adaptan a la forma de tus orejas.
+- - EXTENDED BATTERY: Batería de polímero de litio con hasta 18 horas de autonomía.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FMCL59B/?tag=tolees-21)

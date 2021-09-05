@@ -28,11 +28,11 @@ Tienes [Bizak- Hedbanz Adivina Que Pienso Jr  61924596 ](https://www.amazon.es/d
 
 ℹ️:
 
-- Tienes que adivinar qué eres antes de que el tiempo termine, todos lo saben menos tú
-- Incluye: 4 bandas para la cabeza con orejas de Mickey, 48 tarjetas con personajes, 55 tarjetas de pistas, 4 tarjetas de personajes
-- Los jugadores deben colocar una tarjeta en la banda para la cabeza sin verla y el primero que acierte tres veces gana
-- HedBanz es un juego familiar de preguntas rápidas, en el que los jugadores deben averiguar qué hay en la tarjeta de su diadema
 - Cuando preguntes quién soy o quién no soy recibirás tarjetas de pistas que podrás utilizar para adivinar qué personaje Disney eres
+- Incluye: 4 bandas para la cabeza con orejas de Mickey, 48 tarjetas con personajes, 55 tarjetas de pistas, 4 tarjetas de personajes
+- Tienes que adivinar qué eres antes de que el tiempo termine, todos lo saben menos tú
 - Haz preguntas de repuesta "Sí" o "No" para descubrir qué personaje Disney eres
+- HedBanz es un juego familiar de preguntas rápidas, en el que los jugadores deben averiguar qué hay en la tarjeta de su diadema
+- Los jugadores deben colocar una tarjeta en la banda para la cabeza sin verla y el primero que acierte tres veces gana
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079VR2SC5/?tag=tolees-21)

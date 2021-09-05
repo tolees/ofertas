@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Advantage C  Zapatillas de Tenis  al 61.89 % de descuento'
-date: 2021-08-23 17:01:56
+date: 2021-09-05 16:01:54
 image: 'https://m.media-amazon.com/images/I/41eLPcCshVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07SQVLWD1/?tag=tolees-21'
 descuento: '61.89'
-average: '12.165'
+average: '12.55'
 ---
 
 Está [Adidas Advantage C  Zapatillas de Tenis Unisex niño  Multicolor  Negbás/Negbás/Grisei 000   33 EU](https://www.amazon.es/dp/B07SQVLWD1/?tag=tolees-21) con 61.89 de descuento por 13.32 EUR (original: 34.95 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Adidas Advantage C  Zapatillas de Tenis Unisex niño  Multicolor  Negbás
 
 ℹ️:
 
-- . Adidas Originals Advantage C
 - Niños Adidas Advantage Touch fijación formadores con la falsa nobuck. Niños
+- . Adidas Originals Advantage C
 - Adidas Originals Formadores. Negro / negro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SQVLWD1/?tag=tolees-21)
