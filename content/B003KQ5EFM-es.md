@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.15 % en STANLEY 0-66-358 - Destornillador con ca'
-date: 2021-09-03 07:51:24
+date: 2021-09-05 14:51:23
 image: 'https://m.media-amazon.com/images/I/41ohQ1ZTxOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B003KQ5EFM/?tag=tolees-21'
 descuento: '41.15'
-average: '5.00288888888888'
+average: '4.98086956521738'
 ---
 
 Tienes [STANLEY 0-66-358 - Destornillador con carraca y 6 Puntas](https://www.amazon.es/dp/B003KQ5EFM/?tag=tolees-21) con un 41.15 % de descuento con precio de oferta de 3.99 EUR (original: 6.78 EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [STANLEY 0-66-358 - Destornillador con carraca y 6 Puntas](https://www.am
 ℹ️:
 
 - Schlitz/Phillips/Pozidriv, trinquete
-- punta magnética
 - Desatornillador con puntas Stanley - 6 puntas, corto
+- punta magnética
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003KQ5EFM/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY STST1-75540 - Caja de Herramient al 45.38 % de descuento'
-date: 2021-09-03 08:01:42
+date: 2021-09-05 14:35:08
 image: 'https://m.media-amazon.com/images/I/319OtTAySYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B017UG6A1E/?tag=tolees-21'
 descuento: '45.38'
-average: '19.0372727272727'
+average: '18.45'
 ---
 
 Está [STANLEY STST1-75540 - Caja de Herramientas multinivel 18"](https://www.amazon.es/dp/B017UG6A1E/?tag=tolees-21) con 45.38 de descuento por 11.99 EUR (original: 21.95 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [STANLEY STST1-75540 - Caja de Herramientas multinivel 18"](https://www.am
 
 ℹ️:
 
-- Tapa transparente para visualizar el contenido
-- Cuenta con 2 niveles: organizador y caja de herramientas pequeña
-- Diferentes tamaños de compartimentos y divisores extraíbles
 - Dimensiones: 40 x 42 x 31.5 cm
+- Cuenta con 2 niveles: organizador y caja de herramientas pequeña
+- Tapa transparente para visualizar el contenido
+- Diferentes tamaños de compartimentos y divisores extraíbles
 - Asa de transporte ergonómica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B017UG6A1E/?tag=tolees-21)
