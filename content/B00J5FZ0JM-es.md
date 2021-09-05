@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.71 % en Berocca Boost Complejo de Vitaminas y Mi'
-date: 2021-09-03 06:49:28
+date: 2021-09-05 19:37:34
 image: 'https://m.media-amazon.com/images/I/41A+UB5evhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
