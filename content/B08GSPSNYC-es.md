@@ -28,10 +28,10 @@ En este momento está [POC Axion Spin Casco  Unisex Adulto  Basalt Blue Matt  XS
 
 🔎:
 
-- DISEÑO DE MONTAÑA_ El casco de bici de montaña ideal para cualquier actividad. Cubre la zona de las sienes y la parte de atrás, y tiene una visera ajustable y un enganche para gafas.
 - LIGERO Y VENTILADO_ El sistema de ajuste 360° aporta un ajuste preciso, seguro y cómodo. Los conductos de ventilación permiten el flujo del aire en este casco ideal para el verano.
+- DISEÑO DE MONTAÑA_ El casco de bici de montaña ideal para cualquier actividad. Cubre la zona de las sienes y la parte de atrás, y tiene una visera ajustable y un enganche para gafas.
+- PROTECCIÓN SPIN_ Este casco para montaña incorpora la tecnología SPIN de POC, parte de su Whole Helmet Concept, que garantiza que el casco proteja antes, durante y después del impacto.
 - CARCASA DE UNA PIEZA_ La carcasa de una pieza envolvente garantiza la integridad estructural de este casco de bici de montaña para hombre y mujer, y el interior de PEE protege y aporta ligereza.
 - VISERA DESMONTABLE_ Para evitar lesiones en el cuello, hemos diseñado este casco de bici con una visera que se desmonta en el momento del impacto, así se reduce la energía en caso de accidente.
-- PROTECCIÓN SPIN_ Este casco para montaña incorpora la tecnología SPIN de POC, parte de su Whole Helmet Concept, que garantiza que el casco proteja antes, durante y después del impacto.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GSPSNYC/?tag=tolees-21)

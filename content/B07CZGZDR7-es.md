@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Viscio Trading 170424970 Pesos para mant al 40.28 % de descuento'
-date: 2021-09-01 11:11:06
+date: 2021-09-05 21:53:20
 image: 'https://m.media-amazon.com/images/I/41zj2kcdFyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
