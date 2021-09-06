@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L OREAL - L Oréal Professionnel Majirel  al 56.43 % de descuento'
-date: 2021-09-01 19:06:32
+date: 2021-09-06 07:32:42
 image: 'https://m.media-amazon.com/images/I/41n13UqhX8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
