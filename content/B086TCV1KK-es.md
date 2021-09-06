@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 500 Varsity Pack  Zapatillas al 35.52 % de descuento'
-date: 2021-09-05 13:14:07
+date: 2021-09-06 13:25:06
 image: 'https://m.media-amazon.com/images/I/413AA-L9+vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B086TCV1KK/?tag=tolees-21'
 descuento: '35.52'
-average: '39.3383333333333'
+average: '40.0742857142857'
 ---
 
 Está [New Balance 500 Varsity Pack  Zapatillas Hombre  White  45.5 EU](https://www.amazon.es/dp/B086TCV1KK/?tag=tolees-21) con 35.52 de descuento por 44.49 EUR (original: 69.0 EUR) en el siguiente enlace!
