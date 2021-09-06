@@ -28,9 +28,9 @@ Tienes [Bosch Hogar - Bosch TASSIMO Style  Cafetera de Cápsulas  Compacta  Nara
 
 🔎:
 
-- Calidad de bebida gracias a la tecnología Intellibrew
 - Diferentes especialidades de café preparadas individualmente
 - Cápsulas para descalcificar tu cafetera multibebidas TASSIMO incluida; prolonga la vida útil y resultados de tu TASSIMO con un óptimo mantenimiento
+- Calidad de bebida gracias a la tecnología Intellibrew
 - Preparación de bebidas sencilla con un botón
 - Variedad de bebidas de marcas conocidas
 
