@@ -28,10 +28,10 @@ Ahora mismo tienes [Relaxdays Póker Set  200 Fichas  Tapete  2 Barajas  Botón 
 
 🔎:
 
+- Viva las vegas convierte tu casa en un verdadero casino por la noche con este set de póker
 - Póker para todos los tipos texas holdem, omaha holdem, seven card stud y five card stud
 - Set completo juego de póker con 200 fichas, 1 botón dealer, 2 botones ciegas, tapete y 2 barajas
-- Caja metal el set póker incluye instrucciones para que tanto principiantes como expertos disfruten
-- Viva las vegas convierte tu casa en un verdadero casino por la noche con este set de póker
 - Maletín el set póker incluye instrucciones para que tanto principiantes como expertos disfruten
+- Caja metal el set póker incluye instrucciones para que tanto principiantes como expertos disfruten
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MZ267NW/?tag=tolees-21)

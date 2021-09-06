@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER GKC1825L20-QW - Motosierra  al 40.96 % de descuento'
-date: 2021-08-30 13:44:36
+date: 2021-09-06 09:21:59
 image: 'https://m.media-amazon.com/images/I/41jX2dhJlFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [BLACK+DECKER GKC1825L20-QW - Motosierra a batería 18V + Bla
 
 🔎:
 
+- Sistema de carril permite una sujeción segura a la herramienta
 - Aproximadamente 270 x 3.5 cm cortes por carga; sistema de aceite sencillo y sin fugas; tensado de cadena sin herramientas, instalación y ajuste de la cadena fácil y rápido
 - Batería de litio 18V de 4Ah compatible con la gama 18V de BLACK+DECKER
-- Sistema de carril permite una sujeción segura a la herramienta
 - Ligera, con 3.1 kg para una facilidad de uso y maniobrabilidad; batería de Litio, energía constante con un 30% más de autonomía
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XQXGH7Q/?tag=tolees-21)

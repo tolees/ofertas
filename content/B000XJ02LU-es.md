@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY Flexómetro Tylon de 5 Metros 0-3 al 36.11 % de descuento'
-date: 2021-09-05 06:11:34
+date: 2021-09-06 09:59:05
 image: 'https://m.media-amazon.com/images/I/414xw1BqGRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B000XJ02LU/?tag=tolees-21'
 descuento: '36.11'
-average: '5.83363636363637'
+average: '5.8148888888889'
 ---
 
 Ahora mismo tienes [STANLEY Flexómetro Tylon de 5 Metros 0-30-697](https://www.amazon.es/dp/B000XJ02LU/?tag=tolees-21) a 4.99 EUR (original: 7.81 EUR) (36.11 %  de descuento) en el siguiente enlace!
@@ -32,7 +32,7 @@ Ahora mismo tienes [STANLEY Flexómetro Tylon de 5 Metros 0-30-697](https://www.
 - Gran resistencia a los golpes gracias a la caja 100% contorneada de caucho que protege la cinta.
 - Revestimiento mate de la cinta que facilita la lectura sin brillos.
 - Anchura: 19 mm
-- Dispone de fijador y rebobinado automático
 - Revestimiento Tylon que aumenta hasta un 50% la durabilidad de la hoja.
+- Dispone de fijador y rebobinado automático
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000XJ02LU/?tag=tolees-21)
