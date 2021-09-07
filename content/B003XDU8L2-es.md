@@ -28,10 +28,10 @@ Ahora mismo tienes [Mannesmann - M11214 - 14 piezas Juego de destornillador VDE 
 
 🔎:
 
-- Mango de dos componentes con protección derivada
-- Juego de herramientas electrónicas de 14 piezas
-- Garantía de 10 años
 - Fraguado de acero al cromo-vanadio, endurecido con cortes adicionales inductivos
+- Garantía de 10 años
+- Mango de dos componentes con protección derivada
 - Destornillador y alicates para trabajar con partes bajo tensión de hasta 1000 V de tensión alterna o hasta 1500 V de tensión continua comprobado de acuerdo con DIN EN 60900
+- Juego de herramientas electrónicas de 14 piezas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003XDU8L2/?tag=tolees-21)

@@ -29,13 +29,13 @@ Está [Einhell GC-ET 4530 Set - Recortabordes eléctrico  450W  230V  corte de d
 ℹ️:
 
 - Corte de hilo individual
-- Robusto motor universal
-- Seguimiento de hilo mediante unidad automática de pulsado
-- Protector de plantas
-- Botón de motor puede rotar en +/- 90º el corte en superficies perpendiculares
-- Carcasa y asidero adicional de plástico de alto valor, resistente al impacto
 - Cómodo guiado a dos manos mediante asidero adicional regulable
-- Mango de guiado telescópico sin escalonamiento
+- Carcasa y asidero adicional de plástico de alto valor, resistente al impacto
+- Protector de plantas
+- Robusto motor universal
 - Botón de motor inclinable en 5 posiciones
+- Mango de guiado telescópico sin escalonamiento
+- Seguimiento de hilo mediante unidad automática de pulsado
+- Botón de motor puede rotar en +/- 90º el corte en superficies perpendiculares
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AU4C6RA/?tag=tolees-21)

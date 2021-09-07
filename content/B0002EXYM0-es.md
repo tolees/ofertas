@@ -28,9 +28,9 @@ Tienes [Brabantia Matte Steel Window Canister - Recipiente para alimentos  1.4L 
 
 ℹ️:
 
+- Una solución funcional y duradera para guardar la pasta, el café o el té con toda su frescura durante más tiempo
 - Fabricado con acero inoxidable
 - Fácil de limpiar gracias al acabado liso del interior
-- Una solución funcional y duradera para guardar la pasta, el café o el té con toda su frescura durante más tiempo
 - Fácil de limpiar. Utilizar un trapo húmedo. No utilizar productos químicos para su limpieza
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0002EXYM0/?tag=tolees-21)
