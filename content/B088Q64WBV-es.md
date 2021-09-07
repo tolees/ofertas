@@ -28,8 +28,8 @@ Tienes [Levi s Graphic Diana Crew Sudadera  Serif Outline Garment Dye Blush  L p
 
 🔎:
 
-- Modelo de corte vintage
 - Con un diseño retro inspirado en los 90
 - Ofrece comodidad todo el día
+- Modelo de corte vintage
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088Q64WBV/?tag=tolees-21)

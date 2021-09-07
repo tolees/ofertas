@@ -28,10 +28,10 @@ En este momento está [uhlsport Camiseta Strema 3  0 para Hombre/Jersey Manga La
 
 🔎:
 
-- La camiseta está fabricada deliberadamente de 100% poliéster, ya que promete una mayor transpirabilidad.
 - El jersey está acolchado en los brazos. Así se destacan los desfiles espectaculares, incluso en superficies duras (césped artificial, cancha dura), nada en el camino.
 - Las posibles manchas de sudor se contrarrestan y la sensación de desgaste permanece fresca y fresca.
 - Camiseta de portero
 - Alta comodidad de uso: gracias al tejido muy ligero y transpirable, así como a la tecnología DRY, podemos garantizar que los materiales que absorben la humedad transporten el sudor hacia afuera.
+- La camiseta está fabricada deliberadamente de 100% poliéster, ya que promete una mayor transpirabilidad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00TTU58UE/?tag=tolees-21)
