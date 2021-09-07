@@ -30,7 +30,7 @@ Tienes [adidas GH7134 CON21 TR PNT Sport Trousers Mens Team Navy Blue/White S](h
 
 - Tecnología de humedad
 - Ofrece libertad de movimiento
-- Cintura elástica
 - Ajuste apretado
+- Cintura elástica
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08PP85STR/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Epson EcoTank ET-2726 - Impresora de inyección de tinta 3 en 1  Impreso
 
 ℹ️:
 
-- Imprime hasta 4500 páginas en negro y 7500 en color
-- 3 en 1 Impresión, copia, escaneado
-- Incluye el equivalente a 88 cartuchos de tinta
-- Wi-Fi y aplicaciones: Imprime desde dispositivos móviles
 - Sistema de recarga de tinta de última generación
+- 3 en 1 Impresión, copia, escaneado
+- Wi-Fi y aplicaciones: Imprime desde dispositivos móviles
+- Incluye el equivalente a 88 cartuchos de tinta
+- Imprime hasta 4500 páginas en negro y 7500 en color
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PZZ2Y5Q/?tag=tolees-21)
