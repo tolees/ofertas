@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Laboratorios Babé - Champú Costra Láctea al 40.71 % de descuento'
-date: 2021-08-21 20:09:42
+date: 2021-09-07 15:01:33
 image: 'https://m.media-amazon.com/images/I/31kJuwI0E4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [Laboratorios Babé - Champú Costra Láctea Pediátrico 200 
 
 🔎:
 
-- Aplicar sobre el cuero cabelludo previamente mojado. Realizar un suave masaje. Dejar actuar unos minutos. Aclarar abundantemente. Usar 2 - 3 veces por semana. Evitar el contacto con los ojos. Alternar con el Champú Extrasuave Pediátrico.
-- Cuida y respeta delicadamente el cuero cabelludo y el cabello.
 - Previene y ayuda a eliminar la costra láctea.
 - Fórmula con potentes activos que actúan sobre los desencadenantes de la costra láctea.
 - Cuida y respeta delicadamente el cuero cabelludo y el cabello, aportando suavidad y brillo.
+- Aplicar sobre el cuero cabelludo previamente mojado. Realizar un suave masaje. Dejar actuar unos minutos. Aclarar abundantemente. Usar 2 - 3 veces por semana. Evitar el contacto con los ojos. Alternar con el Champú Extrasuave Pediátrico.
+- Cuida y respeta delicadamente el cuero cabelludo y el cabello.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0068IOJI2/?tag=tolees-21)
