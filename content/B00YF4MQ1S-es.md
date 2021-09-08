@@ -28,13 +28,13 @@ Está [BRA Prior- Cacerola Baja con Tapa de Cristal y Asas de Silicona  Apta par
 
 ℹ️:
 
-- Apta para todo tipo de cocinas, incluido inducción
-- Aluminio fundido
 - Diámetro base: 21.8 mm
-- Fondo difusor uniforme de máxima eficiencia (Save energy system)
 - Capacidad: 3.1 litros
-- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
+- Aluminio fundido
 - Asas de silicona termorresistente desmontables incluidas
+- Apta para todo tipo de cocinas, incluido inducción
+- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 - Recubrimiento antiadherente de calidad Teflon Innovations libre de PFOA
+- Fondo difusor uniforme de máxima eficiencia (Save energy system)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00YF4MQ1S/?tag=tolees-21)
