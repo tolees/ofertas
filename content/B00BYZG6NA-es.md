@@ -28,8 +28,8 @@ Está [Superga 2790 Acotw Linea Up and Down  Zapatillas Mujer  Negro  996   37 E
 
 ℹ️:
 
+- Material de la suela: goma
 - Material exterior: lona
 - Forro: tela
-- Material de la suela: goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BYZG6NA/?tag=tolees-21)
