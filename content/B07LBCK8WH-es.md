@@ -28,10 +28,10 @@ En este momento está [Kappa Tunes W  Zapatillas Mujer  Navy Mint 6737  41 EU](h
 
 🔎:
 
-- Caña acolchada
 - Material exterior transpirable
-- Suela de Phylon ultraligera
-- Zapatillas clásicas para mujer de Kappa
+- Caña acolchada
 - Logotipo en el lateral
+- Zapatillas clásicas para mujer de Kappa
+- Suela de Phylon ultraligera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07LBCK8WH/?tag=tolees-21)
