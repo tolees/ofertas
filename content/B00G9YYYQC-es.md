@@ -28,10 +28,10 @@ Tienes [Intex 28130NP - Piscina hinchable Easy Set 366 x 76 cm  5.619 litros](ht
 
 🔎:
 
-- Lona tricapa SuperTough para mayor resistencia y durabilidad, de fácil instalación: extender sobre terreno firme y nivelado, inflar el anillo y llenar
-- Este modelo de piscina elevada no incluye depuradora pero sí las conexiones para adaptársela (de 32 mm de diámetro)
 - Lista en unos 10 minutos, cuando finaliza el proceso de llenado, cuenta con tapón de vaciado conectable a una manguera para facilitar el desagüe
 - Para una óptima utilización y durabilidad se recomienda seguir las indicaciones marcadas en el manual
+- Lona tricapa SuperTough para mayor resistencia y durabilidad, de fácil instalación: extender sobre terreno firme y nivelado, inflar el anillo y llenar
+- Este modelo de piscina elevada no incluye depuradora pero sí las conexiones para adaptársela (de 32 mm de diámetro)
 - Piscina redonda desmontable Intex con aro superior hinchable de la línea Easy Set, medidas: 366 x 76 cm, capacidad 5619 litros y 4 personas (mayores 6 años)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00G9YYYQC/?tag=tolees-21)
