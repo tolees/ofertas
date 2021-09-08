@@ -29,12 +29,12 @@ Tienes [Geox U Leitan C  Mocasines Hombre  Azul  Navy   43 EU](https://www.amazo
 🔎:
 
 - Revestimiento: Malla
-- Material de la suela: Goma
-- Anchura del zapato: Normal
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Altura del tacón: 3.5 centímetros
-- Material exterior: Cuero
-- Tipo de tacón: Plano
 - Cierre: Sin cordones
+- Altura del tacón: 3.5 centímetros
+- Material de la suela: Goma
+- Material exterior: Cuero
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Anchura del zapato: Normal
+- Tipo de tacón: Plano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N5TL89J/?tag=tolees-21)
