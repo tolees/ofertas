@@ -29,8 +29,8 @@ En este momento está [Geox D Vega Moc B  Mocasines  Amarillo  Curry/Skin C2da5 
 🔎:
 
 - material exterior: cuero liso
-- Tipo de cierre: SlipOn
 - Tipo de ajuste: Tenga en cuenta que los zapatos Geox tienen un ajuste cómodo, por lo tanto, se recomienda elegir la mitad de un tamaño más pequeño que su tamaño habitual
+- Tipo de cierre: SlipOn
 - Estilo: Holgazanes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DJHV3CF/?tag=tolees-21)
