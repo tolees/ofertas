@@ -28,9 +28,9 @@ Está [Geox D Annytah Moc A  Mocasines Mujer  Negro  Black C9997   36.5 EU](http
 
 ℹ️:
 
+- Altura del tacón: 2 cm / 0.8 inch
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 - Fácil de llevar para un confort optimo
-- Altura del tacón: 2 cm / 0.8 inch
 - Calzado sin cierre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LFRV1RS/?tag=tolees-21)
