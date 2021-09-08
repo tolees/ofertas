@@ -30,8 +30,8 @@ Está [L Oreal Paris Make-up Designer - Rouge Signature Metallics](https://www.a
 
 - Disponible en 4 tonos metálicos de larga duración
 - Labios mate durante todo el día pero con la sensación de no llevar nada puesto
+- Colores metálico de impacto
 - Tan ligero que no notarás que lo llevas puesto 
 - Pintalabios líquido metálico permanente
-- Colores metálico de impacto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V1BXVKZ/?tag=tolees-21)
