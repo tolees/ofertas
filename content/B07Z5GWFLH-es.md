@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.01 % en Salomon Alphacross Blast Zapatillas De T'
-date: 2021-09-05 01:13:10
+date: 2021-09-08 13:26:29
 image: 'https://m.media-amazon.com/images/I/414AsmAIoGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
