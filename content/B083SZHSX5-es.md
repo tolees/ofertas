@@ -28,9 +28,9 @@ Tienes [MARSGAMING - Mars Gaming MNBC4 - Base Refrigerador Portátil hasta 17 3 
 
 ℹ️:
 
-- DISEÑO ERGONÓMICO: Dispone de 2 pies plegables ubicados en la parte inferior de la base que te permiten elevar más la superficie de tu portátil, consiguiendo nuevas cotas de comodidad para cada una de tus sesiones; Juega, escribe, estudia y haz todo lo que quieras con tu portátil sin preocuparte de posturas incómodas
-- SUPERFICIE ANTIDESLIZANTE OPTIMIZADA: Equipada con una rejilla especial de aluminio y una estructura de ABS resistente, la base de refrigeración MNBC4 ofrece un soporte perfecto para portátiles de hasta 17,3", protegiéndolo del sobrecalentamiento y proporcionando una superficie antideslizante que te ayude a disfrutar de tus sesiones gaming en cualquier sitio
-- VENTILADORES RGB 2X3: Ajusta la ventilación a tus necesidades gracias al diseño de 6 ventiladores dispuestos en formato 2 x 3, con diferentes tamaños y permitiendo controlar el funcionamiento de los mismos con un sencillo panel de control; Activa y desactiva los ventiladores como más te convenga y refrigera tu portátil a tu medida en todo momento
 - ESTÉTICA GAMING PROFESIONAL: Los ventiladores de la base refrigeradora MNBC4 proyectan un efecto RGB Flow dinámico automático, creando un halo de colores que potencian la estética de tu ordenador en todo momento
+- VENTILADORES RGB 2X3: Ajusta la ventilación a tus necesidades gracias al diseño de 6 ventiladores dispuestos en formato 2 x 3, con diferentes tamaños y permitiendo controlar el funcionamiento de los mismos con un sencillo panel de control; Activa y desactiva los ventiladores como más te convenga y refrigera tu portátil a tu medida en todo momento
+- SUPERFICIE ANTIDESLIZANTE OPTIMIZADA: Equipada con una rejilla especial de aluminio y una estructura de ABS resistente, la base de refrigeración MNBC4 ofrece un soporte perfecto para portátiles de hasta 17,3", protegiéndolo del sobrecalentamiento y proporcionando una superficie antideslizante que te ayude a disfrutar de tus sesiones gaming en cualquier sitio
+- DISEÑO ERGONÓMICO: Dispone de 2 pies plegables ubicados en la parte inferior de la base que te permiten elevar más la superficie de tu portátil, consiguiendo nuevas cotas de comodidad para cada una de tus sesiones; Juega, escribe, estudia y haz todo lo que quieras con tu portátil sin preocuparte de posturas incómodas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B083SZHSX5/?tag=tolees-21)

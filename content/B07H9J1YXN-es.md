@@ -28,10 +28,10 @@ Está [SanDisk Extreme PRO - Tarjeta de Memoria SDXC de 64 GB  hasta 170 MB/s  U
 
 ℹ️:
 
-- Graba vídeos de forma ininterrumpida con uhs speed class 3 (u3) y video speed class 30 (v30)
-- Temperatura de funcionamiento: -25°C a 85°C (-13°F a 185°F)
-- Compatibilidad con tarjetas SDHC (32 GB) y SDXC (64 GB-512 GB): Compatible con dispositivos host habilitados para SDXC y SDXC UHS-I
 - Velocidad de disparo de hasta 90 mb/s y velocidades de transferencia de hasta 170 mb/s
+- Graba vídeos de forma ininterrumpida con uhs speed class 3 (u3) y video speed class 30 (v30)
+- Compatibilidad con tarjetas SDHC (32 GB) y SDXC (64 GB-512 GB): Compatible con dispositivos host habilitados para SDXC y SDXC UHS-I
+- Temperatura de funcionamiento: -25°C a 85°C (-13°F a 185°F)
 - Fabricada para ser usada en condiciones extremas y sometida a ensayos en dichas condiciones; resistente a temperatura, agua, golpes y rayos x
 - Perfecta para grabar vídeos 4K UHD y para hacer fotografías secuenciales en modo ráfaga
 
