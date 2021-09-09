@@ -28,9 +28,9 @@ En este momento está [SanDisk Cruzer Blade - Memoria USB de 2.0 de 32 GB](https
 
 🔎:
 
-- Música (canciones MP3): 2000 canciones
 - Copia de seguridad de archivos simple, con el modo arrastrar y colocar
-- Vídeos (1080 AVCHD): 80 minutos
+- Música (canciones MP3): 2000 canciones
 - Temperatura de funcionamiento: 0° C a 45° C
+- Vídeos (1080 AVCHD): 80 minutos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005FYNT3G/?tag=tolees-21)
