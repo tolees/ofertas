@@ -28,13 +28,13 @@ Tienes [Abus 551604- Candado plegable 85 cm  1580 g  negro](https://www.amazon.e
 
 🔎:
 
-- El antirrobo se sirve con dos llaves; una de ellas con LED
-- Los eslabones, el cuerpo del antirrobo y demás elementos del antirrobo están fabricados en acero especial endurecido
-- El escudo de protección de las uniones de los eslabones ofrece una alta resistencia al taladro
-- Tarjeta ABUS Code Card para hacer copias adicionales
-- Cubierta de silicona de color a juego con el cuerpo de la cerradura, con propiedades "soft touch"
-- La construcción de sus eslabones permite un plegado compacto
 - Cilindro X Plus para la más alta protección ante manipulaciones, ganzuado, etc.
+- La construcción de sus eslabones permite un plegado compacto
+- Cubierta de silicona de color a juego con el cuerpo de la cerradura, con propiedades "soft touch"
+- Tarjeta ABUS Code Card para hacer copias adicionales
+- El escudo de protección de las uniones de los eslabones ofrece una alta resistencia al taladro
+- Los eslabones, el cuerpo del antirrobo y demás elementos del antirrobo están fabricados en acero especial endurecido
+- El antirrobo se sirve con dos llaves; una de ellas con LED
 - Barras de acero de 5,5 mm, con recubrimiento extra suave de 2-componentes para evitar deterioro en la pintura de la bicicleta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005VMO49U/?tag=tolees-21)
