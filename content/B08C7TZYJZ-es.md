@@ -29,9 +29,9 @@ Ahora mismo tienes [Trust Gaming GXT 970 Morfix Ratón para Gaming Personalizabl
 🔎:
 
 - 4 piezas laterales intercambiables magnéticamente para personalizar los botones de los lados y la forma. 2 piezas en el lado izquierdo con configuraciones de 3 o 9 botones, programables para cualquier juego. 2 piezas en el lado derecho con diferentes formas
-- Hasta 14 botones programables de manera independiente
-- Sensor óptico avanzado con resolución de 10 000 ppp
 - Iluminación RGB totalmente ajustable con múltiples efectos
 - Botones de selección de ppp con indicación LED. Software avanzado para programar botones, macros y efectos lumínicos. Cable trenzado (1,8 m)
+- Hasta 14 botones programables de manera independiente
+- Sensor óptico avanzado con resolución de 10 000 ppp
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C7TZYJZ/?tag=tolees-21)
