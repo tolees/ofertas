@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Pinypon - Estrella y Unicornio Volador   al 38.63 % de descuento'
+date: 2021-09-09 10:20:05
+image: 'https://m.media-amazon.com/images/I/41t+dBGUDSL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B079M6ZWBH-es Pinypon - Estrella y Unicornio Volador color/modelo...'
+sku: 'B079M6ZWBH-es'
+tags: [ 'Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Sets de accesorios','pinypon', ]
+actualPrice: 9.2 EUR
+currency: EUR
+price: 9.2
+comparePrice: 14.99 EUR
+prodname: 'Pinypon - Estrella y Unicornio Volador  color/modelo Surtido  32 Pequeños Accesorios  Famosa 700014082 '
+country: 'es'
+flag: '🇪🇸'
+brand: 'Pinypon'
+buyurl: 'https://www.amazon.es/dp/B079M6ZWBH/?tag=tolees-21'
+descuento: '38.63'
+average: '12.9749477351916'
+---
+
+Está [Pinypon - Estrella y Unicornio Volador  color/modelo Surtido  32 Pequeños Accesorios  Famosa 700014082 ](https://www.amazon.es/dp/B079M6ZWBH/?tag=tolees-21) con 38.63 de descuento por 9.2 EUR (original: 14.99 EUR) en el siguiente enlace!
+
+[![Pinypon - Estrella y Unicornio Volador  ](https://m.media-amazon.com/images/I/41t+dBGUDSL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B079M6ZWBH/?tag=tolees-21)
+
+ℹ️:
+
+- El pack incluye un total de 32 pequeños accesorios para el Pinypon y para el Unicornio
+- ¡Atención! El fabricante nos proporciona este producto en modelos y/o colores aleatorios y nos resulta imposible proporcionarle el producto en un modelo/color en particular
+- Uncornio volador y figurita de Pinypon Estrella con decoración secreta
+- El unicornio tiene un mecanismo manual para mover las alas
+- La decoración secreta sólo se puede ver con La Estrella Mágica de Pinypon cuando ilumina con su luz especial
+- El unicornio mide 10 x 12 x 13 cm y la figura de Pinypon mide unos 7 cm aprox: ambas figuras vienen decoradas con purpurina
+
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B079M6ZWBH/?tag=tolees-21)

@@ -29,8 +29,8 @@ Tienes [Crocs Crocband Clog K Obstruccin  Unisex Niños  Azul  Cerulean Blue  25
 ℹ️:
 
 - Parte Superior: Croslite
+- Código Fabricante: 204537
 - Guarnición: Croslite
 - Ajuste De La Anchura: Relajado
-- Código Fabricante: 204537
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01HEXG0FY/?tag=tolees-21)

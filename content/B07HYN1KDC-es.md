@@ -28,10 +28,10 @@ Está [Marcador STABILO BOSS ORIGINAL pastel - Estuche con 6 colores pastel](htt
 
 ℹ️:
 
+- Ancho de escritura: 2 y 5 mm
 - Calidad Alemana
 - Tecnología Anti secado STABILO: Hasta 4 horas destapado sin secarse
 - Punta de escritura inclinada para líneas gruesas y finas
 - Tinta pigmentada a base de agua
-- Ancho de escritura: 2 y 5 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HYN1KDC/?tag=tolees-21)
