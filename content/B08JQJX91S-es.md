@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GIOSEPPO - Sneakers con Mix DE Texturas  al 39.97 % de descuento'
-date: 2021-09-03 07:16:07
+date: 2021-09-09 08:08:09
 image: 'https://m.media-amazon.com/images/I/41Pzf9nNnPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
