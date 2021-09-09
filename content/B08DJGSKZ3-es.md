@@ -28,10 +28,10 @@ En este momento está [Flor - Suavizante para la ropa concentrado  aroma Oceáni
 
 🔎:
 
-- Suavizante concentrado para la ropa con hasta 200 días de suavidad y frescor con solo medio tapón
-- Protege las fibras del daño que puede provocar el lavado, ayudando a mantener su forma y evitando que se rompan
-- Aroma Oceánico, una fragancia de brisa marina para disfrutar de un momento de placer espumeante
-- Evita la electricidad estática en tus prendas
 - Flor te ofrece suavidad y frescor duradero en tu ropa, descubre el resto de fragancias Flor y encuentra tu favorita
+- Evita la electricidad estática en tus prendas
+- Suavizante concentrado para la ropa con hasta 200 días de suavidad y frescor con solo medio tapón
+- Aroma Oceánico, una fragancia de brisa marina para disfrutar de un momento de placer espumeante
+- Protege las fibras del daño que puede provocar el lavado, ayudando a mantener su forma y evitando que se rompan
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DJGSKZ3/?tag=tolees-21)

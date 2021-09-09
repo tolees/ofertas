@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 63.09 % en SanDisk Extreme PRO - Tarjeta de memoria'
-date: 2021-09-08 19:56:16
+date: 2021-09-09 22:21:26
 image: 'https://m.media-amazon.com/images/I/417ll30di-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07G3H5RBT/?tag=tolees-21'
 descuento: '63.09'
-average: '30.3325742574255'
+average: '30.2703921568625'
 ---
 
 Tienes [SanDisk Extreme PRO - Tarjeta de memoria microSDXC de 128 GB con adaptador SD  A2  hasta 170 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07G3H5RBT/?tag=tolees-21) con un 63.09 % de descuento con precio de oferta de 23.99 EUR (original: 64.99 EUR) en el siguiente enlace!
@@ -30,7 +30,7 @@ Tienes [SanDisk Extreme PRO - Tarjeta de memoria microSDXC de 128 GB con adapta
 
 - Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones; resistentes a temperatura, agua, golpes y rayos X
 - Hasta 170 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
-- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
 - Compatible con microSDHC, microSDXC, microSDHC UHS-I3, microSDXC UHS-I3, microSDHC UHS-II y microSDXC UHS-II que admiten cámaras de acción, cámaras con lentes intercambiables, drones, teléfonos inteligentes y dispositivos host de tableta
+- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07G3H5RBT/?tag=tolees-21)
