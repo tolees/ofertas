@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LAST LEVEL - Figura Pop Game of Thrones. al 39.18 % de descuento'
-date: 2021-08-29 09:31:43
+date: 2021-09-10 08:34:23
 image: 'https://m.media-amazon.com/images/I/41xr5a5YXSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LAST LEVEL'
 buyurl: 'https://www.amazon.es/dp/B07DFF22GV/?tag=tolees-21'
 descuento: '39.18'
-average: '9.2274074074074'
+average: '9.24428571428571'
 ---
 
 Ahora mismo tienes [LAST LEVEL - Figura Pop Game of Thrones. Gendry](https://www.amazon.es/dp/B07DFF22GV/?tag=tolees-21) a 9.7 EUR (original: 15.95 EUR) (39.18 %  de descuento) en el siguiente enlace!
