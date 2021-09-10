@@ -28,9 +28,9 @@ Ahora mismo tienes [Pilot Spain Frixion Ball - Bolígrafo borrable  4 unidades  
 
 🔎:
 
-- Bolígrafo borrable por fricción
 - Con capuchón
 - Tinta termosensible
+- Bolígrafo borrable por fricción
 - Punta de bola
 - Recargable
 

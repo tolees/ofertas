@@ -29,8 +29,8 @@ En este momento está [Chicco Nadadora-Juguete de baño para Agua y bañera  sal
 🔎:
 
 - Nada muy rápido
-- Juguete para la bañera
 - Nada y salpican en el agua
+- Juguete para la bañera
 - Activación por cuerda mecánica
 - Diversión en la hora del baño
 

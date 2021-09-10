@@ -28,10 +28,10 @@ Está [Fellowes Spectra A3 - Plastificadora de documentos  uso moderado  negro y
 
 ℹ️:
 
-- Indicadores luminosos para avisar cuando la plastificadora está a la temperatura correcta
-- Protege y realza tus documentos, fotografías y manualidades dándoles una mejor apariencia y durabilidad
-- Ajuste único de temperatura para plastificar en caliente todos los grosores
-- Adecuada para fundas de plastificación de 75/80 micras y 125 micras, válida para plastificar documentos hasta formato A3 (297 × 420)
 - Mecanismo de liberación de atascos para sacar el papel con facilidad
+- Ajuste único de temperatura para plastificar en caliente todos los grosores
+- Indicadores luminosos para avisar cuando la plastificadora está a la temperatura correcta
+- Adecuada para fundas de plastificación de 75/80 micras y 125 micras, válida para plastificar documentos hasta formato A3 (297 × 420)
+- Protege y realza tus documentos, fotografías y manualidades dándoles una mejor apariencia y durabilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00NBT6RUY/?tag=tolees-21)

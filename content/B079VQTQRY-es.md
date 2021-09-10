@@ -28,10 +28,10 @@ Tienes [L Oréal Paris - L Oreal Paris Age Perfect Renacimiento Celular Contorno
 
 🔎:
 
-- con extractos de trufa negra y té negro fermentado
-- Día tras día el contorno de los ojos recupera su vitalidad
 - Reduce ojeras y bolsas
+- con extractos de trufa negra y té negro fermentado
 - Testado bajo control dermatológico y oftalmológico
 - Alisa e ilumina
+- Día tras día el contorno de los ojos recupera su vitalidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079VQTQRY/?tag=tolees-21)

@@ -29,8 +29,8 @@ Está [Nixon Reloj Hombre de Digital con Correa en Acero Inoxidable A1266-001-00
 ℹ️:
 
 - Movimiento: CUARZO / Display: DIGITAL
-- Correa material/color: ACERO INOXIDABLE/NEGRO
-- Caja material/color: ACERO INOXIDABLE/NEGRO
 - Diámetro caja: 34MM
+- Caja material/color: ACERO INOXIDABLE/NEGRO
+- Correa material/color: ACERO INOXIDABLE/NEGRO
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NDLQ6TQ/?tag=tolees-21)
