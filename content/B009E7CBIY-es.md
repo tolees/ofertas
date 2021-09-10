@@ -28,10 +28,10 @@ Ahora mismo tienes [Imetec Bellissima Cepillo de limpieza facial Face Cleansing 
 
 🔎:
 
+- Para limpiar y reactivar la piel en profundidad y para tratamientos de exfoliación y micromasaje
 - Resistente al agua: cepillo facial que también puede utilizarse en la ducha
 - 5 cabezales intercambiables: normal, sensible, peeling, activación y micromasaje
-- Para limpiar y reactivar la piel en profundidad y para tratamientos de exfoliación y micromasaje
-- Cepillo de limpieza facial con tecnología de vibración sónica con micro oscilaciones constantes que actúan en profundidad y purifican la piel
 - Un uso constante del producto permite obtener resultados visibles que perduran en el tiempo. Piel más compacta, radiante y lisa
+- Cepillo de limpieza facial con tecnología de vibración sónica con micro oscilaciones constantes que actúan en profundidad y purifican la piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B009E7CBIY/?tag=tolees-21)

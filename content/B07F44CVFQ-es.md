@@ -30,8 +30,8 @@ Tienes [Maybelline Barra de Labios Mate Superstay Matte Ink City Edition  Tono 1
 
 - Fórmula efecto tinta líquida: solo se fija en tus labios
 - Color fijo: sella el mate con el color ink saturado
-- Deja tu sello con tinta permanente
 - No reseca y no se cuartea
 - Aplicador de alta precisión: en forma de flecha para condensar cantidad de producto y conseguir una cobertura total en una sola pasada y sin retoques
+- Deja tu sello con tinta permanente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F44CVFQ/?tag=tolees-21)

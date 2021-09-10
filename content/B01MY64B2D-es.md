@@ -28,8 +28,8 @@ Ahora mismo tienes [Organic Shop Jazmín de India Mascarilla Volumen Express - 2
 
 🔎:
 
-- Proporciona un brillo hermoso y atractivo
-- Hecha con extracto de jazmín orgánico y aceite de jojoba orgánica
 - Dele a su cabello un magnífico volumen con esta sorprendente mascarilla capilar
+- Hecha con extracto de jazmín orgánico y aceite de jojoba orgánica
+- Proporciona un brillo hermoso y atractivo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MY64B2D/?tag=tolees-21)

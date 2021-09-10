@@ -29,8 +29,8 @@ Tienes [Coloración permanente Garnier-Olia a base de aceite  sin amoníaco  col
 🔎:
 
 - Fórmula sin amoniaco y con 60% aceites florales
+- Contiene un aplicador ergonómico y práctico para una mayor precisión
 - Coloración con aceites potenciadores del color
 - Mejora la calidad del cabello y aclara hasta 3 tonos
-- Contiene un aplicador ergonómico y práctico para una mayor precisión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00JWVCHF4/?tag=tolees-21)

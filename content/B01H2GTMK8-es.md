@@ -31,7 +31,7 @@ En este momento está [Ana María Lajusticia - Ana Maria Lajusticia - Colágeno 
 - El colágeno con magnesio interviene en la regeneración del tejido osteomuscular
 - El colágeno es la proteína más abundante en el cuerpo humano
 - Contribuye a mantener y aumentar la masa muscular
-- El magnesio contribuye a disminuir el cansancio y la fatiga
 - El colágeno con magnesio contribuye a la salud del tejido conectivo como la piel, cabello y uñas.
+- El magnesio contribuye a disminuir el cansancio y la fatiga
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01H2GTMK8/?tag=tolees-21)

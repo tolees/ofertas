@@ -28,9 +28,9 @@ Tienes [Kappa Logo ZENIO Pantalones Cortos  Azul Claro  XL para Hombre](https://
 
 🔎:
 
-- Estilo chic y casual
-- Confort óptimo
 - Pantalón que permite la libertad de movimiento
 - Omini Kappa
+- Confort óptimo
+- Estilo chic y casual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08JYHH84C/?tag=tolees-21)

@@ -28,13 +28,13 @@ Tienes [Myprotein Creatine Monohydrate 500 g](https://www.amazon.es/dp/B00CHJ3DW
 
 🔎:
 
-- Sabor: Unflavored
-- Práctico suplemento diario que se puede añadir a las bebidas de preentrenamiento
 - También ayuda al cuerpo a producir mayores niveles de atp, que es una sustancia química necesaria para que los músculos se contraigan eficazmente
-- Advertencia de seguridad: la dosis diaria recomendada no debe excederse. Los suplementos dietéticos no deben consumirse como un sustituto de una dieta balanceada
-- Una porción le proporciona 3g de creatin monohydrate (sin sabor)
-- Mi proteína creatina monohidrato (500g)
+- Sabor: Unflavored
 - Creatine monohydrate es ideal para aquellos que quieren mejorar su potencia, fuerza, velocidad y masa magra
+- Mi proteína creatina monohidrato (500g)
 - Ingredientes: creatina monohidratada(100%)
+- Una porción le proporciona 3g de creatin monohydrate (sin sabor)
+- Advertencia de seguridad: la dosis diaria recomendada no debe excederse. Los suplementos dietéticos no deben consumirse como un sustituto de una dieta balanceada
+- Práctico suplemento diario que se puede añadir a las bebidas de preentrenamiento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00CHJ3DW4/?tag=tolees-21)

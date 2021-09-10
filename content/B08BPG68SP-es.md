@@ -28,9 +28,9 @@ En este momento está [Giochi Preziosi - L.O.L Surprise JK Muñecas Surtido](htt
 
 🔎:
 
+- Un pack en formato acordeón que te dejará helada!
 - Descubre sus vestidos de tela, su pelo de verdad y un sinfin de sorpresas que encontrarás en cada pack.
 - L.O.L Surprise JK, las innovadoras hermanas pequeñas de LOL Surprise
-- Un pack en formato acordeón que te dejará helada!
 - Son 4 modelos diferentes que se servirán según existencias
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BPG68SP/?tag=tolees-21)

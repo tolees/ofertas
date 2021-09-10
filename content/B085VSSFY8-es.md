@@ -28,10 +28,10 @@ En este momento está [Phillips - Philips - AWP2970 - Jarra Filtradora de Agua  
 
 🔎:
 
-- AGUA MAS PURA Y DE EXCELENTE SABOR: El filtro elimina elementos no deseados del agua del grifo, tales como sedimentos, pesticidas, cloro y otras sustancias que afectan al sabor, pero preserva los minerales esenciales.
-- NUEVO: Reduce micro plásticos. La membrana de fibra hueca elimina no solo micropartículas de micro plásticos sino también nano partículas (por debajo de e0.1 micrones).
 - ECONOMICO Y SOSTENIBLE: Cambiando de agua embotellada a agua filtrada reduce la huella de residuos de carbón y el uso de plásticos de un solo uso, ahorrándole además dinero y ayudando al medio ambiente.
+- AGUA MAS PURA Y DE EXCELENTE SABOR: El filtro elimina elementos no deseados del agua del grifo, tales como sedimentos, pesticidas, cloro y otras sustancias que afectan al sabor, pero preserva los minerales esenciales.
 - FILTRO ANTIBACTERIANO: La tecnología de ultrafiltración de Philips elimina hasta un 99.9% (*) de las bacterias, produciendo un agua filtrada de gran sabor, disfrute de un agua más segura sin gérmenes, tan efectiva como el agua hervida.
 - COMODO DISEÑO: Gracias a su boquilla antipolvo, asa ergonómica e indicador digital para el cambio de cartucho, libre de BPA y lavable en el lavavajillas (excepto la tapa). Indicador electrónico de cambio de cartucho: Duración cartucho 200 litros.
+- NUEVO: Reduce micro plásticos. La membrana de fibra hueca elimina no solo micropartículas de micro plásticos sino también nano partículas (por debajo de e0.1 micrones).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B085VSSFY8/?tag=tolees-21)

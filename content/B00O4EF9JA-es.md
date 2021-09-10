@@ -28,8 +28,8 @@ Tienes [TRIXIE Pañales para Perros Macho para Perros](https://www.amazon.es/dp/
 
 🔎:
 
-- higiene para incontinencia, después de operaciones y viaje
 - extremadamente absorbente
+- higiene para incontinencia, después de operaciones y viaje
 - con el ancho de las sujeciones adhesivo a ambos lados
 - desechables (a modo de cinturón que se ajusta al abdomen)
 

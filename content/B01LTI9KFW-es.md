@@ -28,10 +28,10 @@ Tienes [Vitakraft - Aperitivo para gatos  Caja con 10 piezas de 6 sticks](https:
 
 🔎:
 
-- Alimento complementario, alimentación recomendada: 1-2 baquetas al día, palo completo o en trozos pequeños dividido como aperitivo, tenga en cuenta la cantidad de comida durante la ración diaria y siempre tendrás suficiente agua potable.
-- Extra carne (95%), fórmula sin azúcar, sin colorantes y sin potenciadores de sabor artificiales, perfecto porción gracias a las ranuras de rotura.
-- Palos carnos, según los cuales cada gato está loco. Delicioso olor, sabor irresistible, sin potenciador de sabor artificial. Práctico: Cada stick viene embalado individualmente - esto obtiene la frescura y el aroma.
-- Contenido del envío: bastón de gato Vitakraft con bacalao y salmón, palos carnes, empaquetados individualmente.
 - Composición: carne y subproductos animales (de los cuales carne muscular), pescado y productos derivados de peces (bacalao, salmón), minerales.
+- Extra carne (95%), fórmula sin azúcar, sin colorantes y sin potenciadores de sabor artificiales, perfecto porción gracias a las ranuras de rotura.
+- Alimento complementario, alimentación recomendada: 1-2 baquetas al día, palo completo o en trozos pequeños dividido como aperitivo, tenga en cuenta la cantidad de comida durante la ración diaria y siempre tendrás suficiente agua potable.
+- Contenido del envío: bastón de gato Vitakraft con bacalao y salmón, palos carnes, empaquetados individualmente.
+- Palos carnos, según los cuales cada gato está loco. Delicioso olor, sabor irresistible, sin potenciador de sabor artificial. Práctico: Cada stick viene embalado individualmente - esto obtiene la frescura y el aroma.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LTI9KFW/?tag=tolees-21)
