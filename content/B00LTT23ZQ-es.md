@@ -28,11 +28,11 @@ En este momento está [BRA PRIOR - Grill asador con rayas  aluminio fundido con 
 
 🔎:
 
-- Diámetro para placa de inducción: 210 mm
-- Recubrimiento antiadherente de calidad Teflon Innovations libre de PFOA
+- Apta para todo tipo de cocinas, incluido inducción
 - Mango ergonómico y apilable
+- Diámetro para placa de inducción: 210 mm
 - Descubre cómo cuidar tu menaje antiadherente en el apartado “Guia de usuario” de esta ficha
 - Aluminio fundido
-- Apta para todo tipo de cocinas, incluido inducción
+- Recubrimiento antiadherente de calidad Teflon Innovations libre de PFOA
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LTT23ZQ/?tag=tolees-21)

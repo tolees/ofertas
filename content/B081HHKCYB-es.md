@@ -28,9 +28,9 @@ Está [adidas Fef H Jsy W Camiseta  Unisex Niños  Rojo  152](https://www.amazon
 
 ℹ️:
 
+- Con escote de pico acanalado
+- Camiseta de fútbol para los aficionados de España
 - Ajuste regular
 - Tiene el logo de la marca en el pecho
-- Camiseta de fútbol para los aficionados de España
-- Con escote de pico acanalado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081HHKCYB/?tag=tolees-21)

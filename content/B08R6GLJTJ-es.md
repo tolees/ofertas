@@ -28,8 +28,8 @@ Está [adidas GM7318 TIRO21 TR Top W Pullover Womens Black M](https://www.amazon
 
 ℹ️:
 
-- Capucha con cordón
 - regular fit
+- Capucha con cordón
 - Tela Suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R6GLJTJ/?tag=tolees-21)

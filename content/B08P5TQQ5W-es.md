@@ -29,9 +29,9 @@ Tienes [ARENA Bañador Mujer Allover](https://www.amazon.es/dp/B08P5TQQ5W/?tag=t
 ℹ️:
 
 - Artículo ideal para la natación y otras actividades en la piscina y la playa
-- Bañador elegante y extremadamente cómodo con protección UV
-- 80% poliamida, 20% elastano
 - tejido arena maxfit: resistente al cloro y al agua salada, protección uv upf 50+, secado rápido, ajuste perfecto
+- 80% poliamida, 20% elastano
 - Copas moldeadas extraíbles
+- Bañador elegante y extremadamente cómodo con protección UV
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08P5TQQ5W/?tag=tolees-21)

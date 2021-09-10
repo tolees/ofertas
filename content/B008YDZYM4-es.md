@@ -28,10 +28,10 @@ Tienes [Metronic 451042 - Soporte Para Monitores Y Tv De 42-55" 106-140Cm  Fijo 
 
 🔎:
 
-- Vesa: 400x 400
-- Tornillos y tacos no incluidos
-- Peso máximo soportado: 35 kg
-- Dimensiones placa de soporte: 50x15 cm
 - Para tv de 42~55 pulgadas (106cm~140cm)
+- Peso máximo soportado: 35 kg
+- Tornillos y tacos no incluidos
+- Dimensiones placa de soporte: 50x15 cm
+- Vesa: 400x 400
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B008YDZYM4/?tag=tolees-21)

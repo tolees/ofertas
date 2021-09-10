@@ -28,9 +28,9 @@ En este momento está [Moon and Back by Hanna Andersson Gorro para el Sol Sombre
 
 🔎:
 
-- Bloquea el 97% de los rayos UVA/UVB
 - Ala ancha con pespuntes
-- Lazos de barbilla
 - Una marca de Amazon
+- Lazos de barbilla
+- Bloquea el 97% de los rayos UVA/UVB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZR2F58T/?tag=tolees-21)
