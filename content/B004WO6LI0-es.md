@@ -28,11 +28,11 @@ Tienes [Bosch Professional 2 609 255 007 Broca para metal HSS-R  DIN 338  4 mm](
 
 ℹ️:
 
+- Diámetro del vástago mm: 4
 - Longitud de trabajo mm: 43
+- Diámetro mm: 4,0
 - Diámetro, desde mm: 4,0
 - Ángulo de la punta °: 118
-- Diámetro del vástago mm: 4
-- Diámetro mm: 4,0
 - Longitud total mm: 75
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B004WO6LI0/?tag=tolees-21)

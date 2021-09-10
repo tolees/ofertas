@@ -29,9 +29,9 @@ Está [Bosch Professional Set de 7 brocas fresadoras planas Self Cut Speed con v
 ℹ️:
 
 - Broca fabricadas con acero de calidad especial según tecnología e ingeniería Bosch
+- Brocas fresadoras planas para un mecanizado profesional muy rápido de madera blanda, madera dura y materiales de construcción ligeros
 - Compatible con todos los taladros con conexión hexagonal de 1/4 pulgada
 - Avance muy rápido gracias a la geometría optimizada con dos filos secundarios y a la innovadora punta roscada
 - Suministro: Ø de broca 16/18/20/22/25/32 mm
-- Brocas fresadoras planas para un mecanizado profesional muy rápido de madera blanda, madera dura y materiales de construcción ligeros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B008HRESU6/?tag=tolees-21)
