@@ -28,13 +28,13 @@ Tienes [Beurer PO 30 - Pulsioxímetro de dedo para la medición de la saturació
 
 ℹ️:
 
-- Pantalla a color con 4 vistas disponibles.
-- Brillo de pantalla ajustable.
-- Medición de SpO2 como posible signo vital en enfermedades agudas.
-- Pequeño y ligero: para usar en casa y en movimiento.
-- También apto para deportes a gran altura.
 - Medición de la frecuencia cardíaca (pulso)
-- Especialmente indicado para personas con: insuficiencia cardíaca, enfermedades pulmonares obstructivas crónicas, asma bronquial.
+- También apto para deportes a gran altura.
+- Pantalla a color con 4 vistas disponibles.
 - Indicador de batería baja
+- Pequeño y ligero: para usar en casa y en movimiento.
+- Brillo de pantalla ajustable.
+- Especialmente indicado para personas con: insuficiencia cardíaca, enfermedades pulmonares obstructivas crónicas, asma bronquial.
+- Medición de SpO2 como posible signo vital en enfermedades agudas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00B80JEGC/?tag=tolees-21)

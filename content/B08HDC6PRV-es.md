@@ -28,11 +28,11 @@ Está [HONOR Watch GS Pro  Pantalla 1.39" 454x454  batería 790 mAh  GPS  IP68  
 
 ℹ️:
 
-- Batería de 790 mAh, para una autonomía de hasta 25 días
-- GPS de alta precisión
-- Pantalla AMOLED 1.39" de alta resolución 454x454
 - Monitoriza con precisión tu actividad deportiva con 5 sensores: acelerómetro, giroscopio, altímetro barométrico y medidor contínuo de frencuencia cardíaca
-- Preparado para cualquier deporte en exterior, resistencia IP68 y certificación militar, resiste golpes arañazos, caídas, agua, polvo y cualquier tipo de inconveniente
+- Pantalla AMOLED 1.39" de alta resolución 454x454
 - Registra 100 modos de deporte diferentes con precisión
+- Preparado para cualquier deporte en exterior, resistencia IP68 y certificación militar, resiste golpes arañazos, caídas, agua, polvo y cualquier tipo de inconveniente
+- GPS de alta precisión
+- Batería de 790 mAh, para una autonomía de hasta 25 días
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HDC6PRV/?tag=tolees-21)
