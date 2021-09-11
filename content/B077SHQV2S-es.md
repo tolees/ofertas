@@ -28,9 +28,9 @@ Ahora mismo tienes [PUMA Liga Baselayer tee LS T-Shirt  Hombre  Negro  Black   X
 
 🔎:
 
-- Tiene mangas largas y cuello redondo
 - Camiseta deportiva para hombres
-- Ofrece una comodidad óptima
+- Tiene mangas largas y cuello redondo
 - El material absorbe el calor y se seca rápidamente
+- Ofrece una comodidad óptima
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077SHQV2S/?tag=tolees-21)

@@ -28,14 +28,14 @@ Ahora mismo tienes [Geox D Annytah D  Bailarinas Mujer  Azul  Blue C4000   36 EU
 
 🔎:
 
-- Anchura del zapato: Normal
 - Revestimiento: Sintético
+- Anchura del zapato: Normal
 - Material exterior: Cuero
+- Cierre: Sin cierre
+- Composición: Cuero
 - Material de la suela: Sintético
 - Tipo de tacón: Plano
-- Composición: Cuero
-- Altura del tacón: 2 centímetros
 - Tipo de talla: Los zapatos Geox son holgados
-- Cierre: Sin cierre
+- Altura del tacón: 2 centímetros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DHZH32L/?tag=tolees-21)
