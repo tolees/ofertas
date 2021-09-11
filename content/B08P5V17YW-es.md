@@ -29,10 +29,10 @@ Ahora mismo tienes [Arena W Trick Swim Pro Back One Piece  Traje de Baño Mujer 
 🔎:
 
 - bañador deportivo de comodidad máxima
+- Tipo de deporte: Natación
 - artículo ideal para nadadoras fitness ocasionales
 - 80% poliamida, 20% elastano
-- tirantes anchos y espalda ergonómica para una buena sujeción y un ajuste seguro
-- Tipo de deporte: Natación
 - tejido arena maxfit: resistente al cloro y al agua salada, protección uv upf 50+, secado rápido, ajuste perfecto
+- tirantes anchos y espalda ergonómica para una buena sujeción y un ajuste seguro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08P5V17YW/?tag=tolees-21)
