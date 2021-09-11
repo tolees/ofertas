@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TRIXIE Entrenamiento en Casa para Perros al 61.87 % de rebaja'
-date: 2021-08-31 14:18:14
+date: 2021-09-11 15:43:47
 image: 'https://m.media-amazon.com/images/I/41wTSvbBciS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trixie'
 buyurl: 'https://www.amazon.es/dp/B000WFCF9W/?tag=tolees-21'
 descuento: '61.87'
-average: '3.445'
+average: '3.49176470588235'
 ---
 
 Tienes [TRIXIE Entrenamiento en Casa para Perros](https://www.amazon.es/dp/B000WFCF9W/?tag=tolees-21) con precio final de  4.24 EUR (original: 11.12 EUR) (61.87 %  de rebaja) aqui!
