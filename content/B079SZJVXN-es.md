@@ -28,9 +28,9 @@ Tienes [Kappa Accio Hoodie Sudadera de Capucha  Hombre  Rojo/Negro/Blanco  S](ht
 
 🔎:
 
-- Puños acanalados en las mangas
-- Sudadera con capucha
-- Letra de Kappa bordada en el pecho y Omini Kappa bordado en los hombros
 - Adecuada para un look deportivo y confortable
+- Puños acanalados en las mangas
+- Letra de Kappa bordada en el pecho y Omini Kappa bordado en los hombros
+- Sudadera con capucha
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079SZJVXN/?tag=tolees-21)

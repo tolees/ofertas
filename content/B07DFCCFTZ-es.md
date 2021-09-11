@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! Game of Thrones - Yara Grey al 39.18 % de descuento'
-date: 2021-08-31 13:56:00
+date: 2021-09-11 08:51:39
 image: 'https://m.media-amazon.com/images/I/31iJUJ9yQML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07DFCCFTZ/?tag=tolees-21'
 descuento: '39.18'
-average: '9.92611111111111'
+average: '9.91421052631579'
 ---
 
 Ahora mismo tienes [Funko - Pop! Game of Thrones - Yara Greyjoy #66 Vinyl Figure](https://www.amazon.es/dp/B07DFCCFTZ/?tag=tolees-21) a 9.7 EUR (original: 15.95 EUR) (39.18 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Funko - Pop! Game of Thrones - Yara Greyjoy #66 Vinyl Figure
 
 🔎:
 
-- Para los Fans de Funko
 - Figura pop game of thrones: yara greyjoy
+- Para los Fans de Funko
 - Licencia oficial
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DFCCFTZ/?tag=tolees-21)
