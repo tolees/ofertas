@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CARE OF by PUMA Slip on Runner Low-Top S con un 59.71 % de descuento'
-date: 2021-08-31 20:34:41
+date: 2021-09-11 21:33:06
 image: 'https://m.media-amazon.com/images/I/31KDOqfW7IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
