@@ -28,10 +28,10 @@ Tienes [Pepe Jeans West Sir Camiseta  Azul  528jetty   XS para Hombre](https://w
 
 ℹ️:
 
+- Fit slim
+- Manga corta
 - Camiseta de algodón
 - Efecto desgastado
-- Manga corta
-- Fit slim
 - Cuello redondo
 - Logo impreso delante
 

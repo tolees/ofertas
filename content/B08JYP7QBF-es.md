@@ -28,9 +28,9 @@ Ahora mismo tienes [Kappa Logo ZENIO Pantalones Cortos  Rojo  S para Hombre](htt
 
 🔎:
 
-- Confort óptimo
+- Pantalón que permite la libertad de movimiento
 - Omini Kappa
 - Estilo chic y casual
-- Pantalón que permite la libertad de movimiento
+- Confort óptimo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08JYP7QBF/?tag=tolees-21)

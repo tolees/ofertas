@@ -28,9 +28,9 @@ Está [KabelDirekt – Regleta cuádruple  Cargador USB Triple 4 8A  regleta con
 
 ℹ️:
 
+- Regleta de enchufes KabelDirekt con conexiones de carga USB adicionales. Administre todos los dispositivos electrónicos en un punto central.
 - Tres conexiones de carga USB de 5 V hasta 2,4 A con una detección inteligente del dispositivo (BC1.2) para la carga perfecta de los dispositivos conectados. Corriente de carga máxima 4,8 A
 - 36 meses de garantía del fabricante
-- Regleta de enchufes KabelDirekt con conexiones de carga USB adicionales. Administre todos los dispositivos electrónicos en un punto central.
 - Seguridad: Protección para niños y contra sobretensión, los tomacorrientes que no utilizados están cubiertos por una protección contra inserción, certificación TÜV (GS)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0761WMSDV/?tag=tolees-21)

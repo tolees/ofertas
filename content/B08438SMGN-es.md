@@ -28,10 +28,10 @@ En este momento está [KabelDirekt – 20m – Cable de Ethernet Cat7 y Cable de
 
 🔎:
 
-- Versátil: cable Ethernet (cable LAN, par trenzado) según el estándar de categoría 7 hasta 600MHz y 10.000Mbit/s (10GBASE-T). Para PC/portátiles, juegos/consolas de juegos (PS5/Xbox), conectores switch/concentradores, módems/router y enchufes de red
 - Seguro: gracias al triple blindaje (SF/FTP), el cable está extremadamente bien protegido contra interferencias y ruidos. La certificación de prueba de Fluke garantiza la máxima fiabilidad incluso con un uso más exigente
-- 36 meses de garantía del fabricante
-- Potente: transmisión de datos extremadamente rápida y sin demoras de hasta 10 gigabit/s, una velocidad mucho mayor de lo que ofrecen los proveedores de Internet. Para juegos, streaming o usos profesionales
 - Más accesorios en amazon.es/kabeldirekt
+- 36 meses de garantía del fabricante
+- Versátil: cable Ethernet (cable LAN, par trenzado) según el estándar de categoría 7 hasta 600MHz y 10.000Mbit/s (10GBASE-T). Para PC/portátiles, juegos/consolas de juegos (PS5/Xbox), conectores switch/concentradores, módems/router y enchufes de red
+- Potente: transmisión de datos extremadamente rápida y sin demoras de hasta 10 gigabit/s, una velocidad mucho mayor de lo que ofrecen los proveedores de Internet. Para juegos, streaming o usos profesionales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08438SMGN/?tag=tolees-21)

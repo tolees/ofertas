@@ -28,7 +28,7 @@ Ahora mismo tienes [Schmidt Spiele - Vienna](https://www.amazon.es/dp/B00QVB6IL2
 
 🔎:
 
-- Age range: 8 and up / Number of players: 2 to 4 / Play time: 30
 - Manufacturer: Schmidt Spiele
+- Age range: 8 and up / Number of players: 2 to 4 / Play time: 30
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00QVB6IL2/?tag=tolees-21)

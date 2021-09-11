@@ -28,10 +28,10 @@ Tienes [José Cuervo - Jose Cuervo - Tequila Especial 0 70 L  12B  38º](https:/
 
 🔎:
 
-- En Jose Cuervo cocemos lentamente nuestro agave azul para posteriormente prensarlo de manera tradicional y destilarlo en auténticos alambiques de cobre, consiguiendo 700 ml de cultura y tradición embotellada.
-- Tequila creado con ingredientes naturales, partiendo de la mejor selección de agave azul, recogido a mano y siguiendo la misma fórmula desde 1795.
 - El Tequila Reposado Especial José Cuervo es un Tequila joven de estilo dorado hecho de una mezcla de tequilas reposados ​​(añejos) y más jóvenes proveniente de la destileria más antigua del mundo.
-- Tequila elaborado especialmente para la creación de cócteles, chupitos y combinados de calidad.
 - Cata: Gracias al reposado en auténtica barrica de roble en el tequila Jose Cuervo Reposado encontraremos matices cobrizos/dorados con un toque de roble blanco americano tostado, agave cocido, vainilla y final ligeramente afrutado.
+- Tequila creado con ingredientes naturales, partiendo de la mejor selección de agave azul, recogido a mano y siguiendo la misma fórmula desde 1795.
+- Tequila elaborado especialmente para la creación de cócteles, chupitos y combinados de calidad.
+- En Jose Cuervo cocemos lentamente nuestro agave azul para posteriormente prensarlo de manera tradicional y destilarlo en auténticos alambiques de cobre, consiguiendo 700 ml de cultura y tradición embotellada.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004EAIWHA/?tag=tolees-21)
