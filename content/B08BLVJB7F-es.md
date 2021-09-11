@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Hernandez S  Zapatillas Mujer  Re al 37.53 % de descuento'
-date: 2021-09-10 10:03:12
+date: 2021-09-11 13:08:46
 image: 'https://m.media-amazon.com/images/I/31pJ-wcGszL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLVJB7F/?tag=tolees-21'
 descuento: '37.53'
-average: '28.826'
+average: '28.1866666666667'
 ---
 
 Ahora mismo tienes [Levi s Hernandez S  Zapatillas Mujer  Regular White  37 EU](https://www.amazon.es/dp/B08BLVJB7F/?tag=tolees-21) a 24.99 EUR (original: 40.0 EUR) (37.53 %  de descuento) en el siguiente enlace!
