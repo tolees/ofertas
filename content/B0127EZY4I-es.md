@@ -28,10 +28,10 @@ Tienes [MOLTEN balón de Baloncesto  Todo el año  Color Naranja - Orange/Ivory 
 
 🔎:
 
+- FIBA aprobado
 - Adecuado para uso exterior
 - Superficie de piedra profunda
 - Viene en diferentes tallas
-- FIBA aprobado
 - Cubierta de goma y compuestos para dar una sensación pegajosa y durabilidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0127EZY4I/?tag=tolees-21)
