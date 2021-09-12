@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit GTR 42 Reloj Inteligente con fre al 35.78 % de rebaja'
-date: 2021-08-13 15:14:36
+date: 2021-09-12 08:52:30
 image: 'https://m.media-amazon.com/images/I/41TCwb1AEfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazfit'
 buyurl: 'https://www.amazon.es/dp/B07X23J9CH/?tag=tolees-21'
 descuento: '35.78'
-average: '98.855'
+average: '97.064'
 ---
 
 Tienes [Amazfit GTR 42 Reloj Inteligente con frecuencia cardíaca y Seguimiento de Actividad  42 mm  batería de Larga duración Blanco](https://www.amazon.es/dp/B07X23J9CH/?tag=tolees-21) con precio final de  89.9 EUR (original: 139.99 EUR) (35.78 %  de rebaja) aqui!
