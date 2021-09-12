@@ -29,8 +29,8 @@ Tienes [L Oreal Paris Make-up Designer - L Oréal Paris Miss Baby Roll Máscara 
 🔎:
 
 - Fórmula mega volumen instantánea
-- Un cepillo efecto rizador que curva todas las pestañas, incluso las más cortas
 - Mantiene el rizo durante todo el día
+- Un cepillo efecto rizador que curva todas las pestañas, incluso las más cortas
 - Máscara de pestañas negra mega volumen
 - Un cepillo efecto rizador que curva todas las pestañas, incluso las más cortas
 

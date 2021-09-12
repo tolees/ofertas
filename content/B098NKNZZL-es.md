@@ -30,8 +30,8 @@ En este momento está [Aisprts Conjunto de Ropa de Bebé Niñas Recién Nacidas 
 
 - 👶👶【Diseño Único】El conjunto de otoño de bebé incluye mangas largas de color liso y pantalones estampados con lazo en los pantalones elásticos. Haz que tu bebé sea más guapo, más adorable y encantador.
 - <p>👶👶【Tabla de tallas】Tenemos diferentes tallas para ropa de bebé de diferentes estilos, por favor compruebe claramente la talla en la hoja de tallas cuando usted elija.</p>
-- <p>👶👶【El paquete incluye: 1 mono + 1 pantalones + 1 banda para el pelo, un conjunto de 3 piezas.</p>
 - <p>👶👶【Material】Mezcla de algodón, alta calidad, sensación de mano suave, no daña la piel del bebé.</p>
 - <p>👶👶【Ocasión】Este mono de algodón para niña es muy adecuado para el uso diario, el ocio, la somnolencia, la compras, las fiestas, la fotografía y también muy adecuado para la primavera, el otoño e invierno, los regalos de cumpleaños, los regalos de la ducha para niños, etc.</p>
+- <p>👶👶【El paquete incluye: 1 mono + 1 pantalones + 1 banda para el pelo, un conjunto de 3 piezas.</p>
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B098NKNZZL/?tag=tolees-21)

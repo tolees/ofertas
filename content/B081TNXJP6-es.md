@@ -28,11 +28,11 @@ Está [Mery Fregona de algodón Universal  Reciclado  Blanco  Lila  25 cm](https
 
 ℹ️:
 
-- Fregona de algodón blanco natural de alta calidad con trenzado especial
-- Mayor durabilidad
-- Tipo de material: Algodón reciclado
 - Apta para palos estándar
-- Resistente a todos los detergentes del mercado
+- Tipo de material: Algodón reciclado
+- Mayor durabilidad
+- Fregona de algodón blanco natural de alta calidad con trenzado especial
 - Color: blanco, cabezal universal: gris
+- Resistente a todos los detergentes del mercado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081TNXJP6/?tag=tolees-21)

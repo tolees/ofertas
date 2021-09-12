@@ -29,8 +29,8 @@ Está [Asmodee - El Padrino - El imperio Corleone  Edge EECMGF01 ](https://www.a
 ℹ️:
 
 - Manda por toda la ciudad al Don, el Consigliere, el Heredero y los Gánsteres de tu familia para que coaccionen a los negocios y consigan así los recursos ilegales que necesitas
-- Soborna a funcionarios municipales a fin de usarlos como poderosos aliados temporales
 - Producto en castellano
 - En El Padrino: El imperio Corleone, los jugadores controlan familias que compiten por el predominio en la Nueva York de la década de 1950
+- Soborna a funcionarios municipales a fin de usarlos como poderosos aliados temporales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074CGS1NH/?tag=tolees-21)

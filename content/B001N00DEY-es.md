@@ -28,10 +28,10 @@ Tienes [Eukanuba Alimento seco para cachorros de raza mediana  rico en pollo fre
 
 ℹ️:
 
+- Pollo fresco como fuente natural de proteínas para construir músculos fuertes y magros
+- DHA para estimular la capacidad de aprendizaje de los cachorros; Prebióticos FOS, MOS y pulpa de remolacha para favorecer una digestión sana
 - Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos
 - Una forma de croqueta especial con DentaDefense para mantener los dientes limpios y sanos
-- DHA para estimular la capacidad de aprendizaje de los cachorros; Prebióticos FOS, MOS y pulpa de remolacha para favorecer una digestión sana
-- Pollo fresco como fuente natural de proteínas para construir músculos fuertes y magros
 - Calcio para ayudar al desarrollo óseo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001N00DEY/?tag=tolees-21)

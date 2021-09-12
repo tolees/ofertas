@@ -28,10 +28,10 @@ En este momento está [Skechers Street Cleat-Bring It Back  Zapatillas Mujer  Ne
 
 🔎:
 
-- Suela que no deja marcas
-- Suela flexible
 - Cuello y lengüeta acolchados y espuma viscoelástica refrigerada por aire
+- Suela que no deja marcas
 - Espuma viscoelástica refrigerada por aire
+- Suela flexible
 - Color: azul marino
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D8NHPNY/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Columbia Rapid Ridge II Camiseta estampada para hombre](http
 
 🔎:
 
-- Óptimo para el día a día con unos vaqueros o unos pantalones cortos
 - Diseño del logotipo de Columbia en la espalda con colores vivos
 - Disponible en una gran variedad de colores a la moda
+- Óptimo para el día a día con unos vaqueros o unos pantalones cortos
 - Contenido: 1 x Columbia Rapid Ridge II Camiseta estampada para hombre, Tejido: 100% Algodón orgánico, Color: Azul (Bright Indigo Triple Peak), Talla: S, Art.No. 1934824
 - Camiseta estampada para hombre, Ligera y ventilada, Un básico imprescindible para el verano
 
