@@ -28,11 +28,11 @@ Tienes [Gigabyte AORUS 15G WB-8ES2130MH - Ordenador portátil Gaming de 15.6" Fu
 
 🔎:
 
-- Procesador Intel Core i7-10875H (2.3GHz-5.1GHz) (8 núcleos, 16 hilos)
 - Almacenamiento de 512GB SSD
-- Tarjeta gráfica Nvidia GeForce RTX 2070 MAX Q GDDR6 8G
-- Sistema Operativo Windows 10 Home
-- Pantalla de 15.6" 240Hz FHD. Display Bisel delgado 15.6 " 240Hz FHD 1920x1080 IGZO pantalla mate LCD * Certificacion X-Rite Pantone, calibrado de fábrica individualmente
 - Memoria RAM de 16GB, 8GBx2 3200MHz
+- Pantalla de 15.6" 240Hz FHD. Display Bisel delgado 15.6 " 240Hz FHD 1920x1080 IGZO pantalla mate LCD * Certificacion X-Rite Pantone, calibrado de fábrica individualmente
+- Procesador Intel Core i7-10875H (2.3GHz-5.1GHz) (8 núcleos, 16 hilos)
+- Sistema Operativo Windows 10 Home
+- Tarjeta gráfica Nvidia GeForce RTX 2070 MAX Q GDDR6 8G
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DL8NQ9T/?tag=tolees-21)
