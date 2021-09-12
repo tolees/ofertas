@@ -28,9 +28,9 @@ En este momento está [Michael Kors Watch MK4557.](https://www.amazon.es/dp/B08N
 
 🔎:
 
-- Rose Gold Steel Strap
 - Caja redonda de acero inoxidable con esfera blanca
-- Caja de 36 mm, cristal mineral, movimiento de cuarzo de 3 manecillas, pantalla analógica, correa de 16 mm de ancho
 - Resistente al agua hasta 50 m: portátil para nadar en aguas poco profundas
+- Caja de 36 mm, cristal mineral, movimiento de cuarzo de 3 manecillas, pantalla analógica, correa de 16 mm de ancho
+- Rose Gold Steel Strap
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NW8VRMV/?tag=tolees-21)

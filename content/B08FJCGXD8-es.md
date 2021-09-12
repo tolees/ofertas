@@ -28,8 +28,8 @@ En este momento está [bugatti 321480145450  Zapatillas Hombre  Beige Offwhite  
 
 🔎:
 
-- Material exterior: sintético
-- Material de la suela: sintético
 - Revestimiento: sintético
+- Material de la suela: sintético
+- Material exterior: sintético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FJCGXD8/?tag=tolees-21)

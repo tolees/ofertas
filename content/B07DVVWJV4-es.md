@@ -28,11 +28,11 @@ Tienes [ISDIN Germisdin Intim Calm Gel de higiene íntima - 500ml](https://www.a
 
 🔎:
 
-- Más que higiene, protección
-- Testado dermatológicamente
-- Mantiene intacta la fisiología propia de la zona vulvar por su pH ácido fisiológico y su formulación con agentes tensioactivos suaves
 - Higiene diaria para situaciones de irritación o picor de la zona vulvar y perineal
-- Protección específica extra suave gracias a su cremosa textura en gel crema y a su contenido en agentes celulósicos
 - Puede recibir un emabalaje con variaciones ya que hay nuevas versiones en el pack de este producto que no afectan al producto (misma fórmula)
+- Protección específica extra suave gracias a su cremosa textura en gel crema y a su contenido en agentes celulósicos
+- Mantiene intacta la fisiología propia de la zona vulvar por su pH ácido fisiológico y su formulación con agentes tensioactivos suaves
+- Testado dermatológicamente
+- Más que higiene, protección
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DVVWJV4/?tag=tolees-21)

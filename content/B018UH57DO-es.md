@@ -29,7 +29,7 @@ Ahora mismo tienes [Power Cube - POWERCUBE EXTENDED](https://www.amazon.es/dp/B0
 🔎:
 
 - Cadenas del PowerCube son posible hasta una carga max. de 10 A (2000 W)
-- Multiple con 5 tomas de corriente adicionales en un diseño cúbico evitando superposiciones de los cables
 - Incluye 1,5 m dextension
+- Multiple con 5 tomas de corriente adicionales en un diseño cúbico evitando superposiciones de los cables
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B018UH57DO/?tag=tolees-21)
