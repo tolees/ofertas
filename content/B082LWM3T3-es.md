@@ -28,10 +28,10 @@ En este momento está [FITTOO Leggings Sin Costuras Corte de Malla Mujer Pantalo
 
 🔎:
 
-- 【Atención】： Por favor seleccione en la última foto la talla que de cada serie de productos es distinta.
-- 【Material Excelente】: 88% poliéster 12% spandex
-- 【Característica】： Los leggings sin costura；tela tacado suave de alta elasticidad y durable. Las telas altamente elásticas proporciona soporte estable y alivian el impacto del ejercicio.
-- 【Rango】： Ajuste delgado que se ajusta a través del cuerpo y los brazos.
 - 【Diseño】：Diseño de moda，Exquisita impresión o malla múltiples estilos se pueden combinar con una variedad de pantalones de ropa deportiva y que le hace más atractiva
+- 【Material Excelente】: 88% poliéster 12% spandex
+- 【Rango】： Ajuste delgado que se ajusta a través del cuerpo y los brazos.
+- 【Atención】： Por favor seleccione en la última foto la talla que de cada serie de productos es distinta.
+- 【Característica】： Los leggings sin costura；tela tacado suave de alta elasticidad y durable. Las telas altamente elásticas proporciona soporte estable y alivian el impacto del ejercicio.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082LWM3T3/?tag=tolees-21)

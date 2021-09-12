@@ -28,8 +28,8 @@ Ahora mismo tienes [PUMA Skye  Zapatillas Mujer  Blanco White Black  37 EU](http
 
 🔎:
 
-- Botas bajas
 - Parte superior de piel de alta
 - SoftFoam+: la cómoda plantilla de Puma para un paso instantáneo y una comodidad duradera que proporciona una amortiguación suave en cada paso del día
+- Botas bajas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081R1R7PN/?tag=tolees-21)

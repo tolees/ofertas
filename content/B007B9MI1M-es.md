@@ -29,9 +29,9 @@ Está [Crocs Crocband Clogs  Zuecos Unisex Adulto  Negro  Charcoal/Ocean   41/42
 ℹ️:
 
 - Material de la suela: Goma
-- Material exterior: Espuma
 - Cierre: Sin cordones
-- Altura del tacón: 1.5 pulgadas
 - Revestimiento: Sintético
+- Material exterior: Espuma
+- Altura del tacón: 1.5 pulgadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B007B9MI1M/?tag=tolees-21)

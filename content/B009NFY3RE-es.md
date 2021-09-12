@@ -28,10 +28,10 @@ En este momento está [Lonsdale Camiseta Manga Corta Two Tone  Bianco  Small](ht
 
 🔎:
 
-- Corte clásico
 - Lavado a máquina
 - Logo 2 tonos Large print en el pecho
-- 100% original, lonsdale
 - 60% algodón/40% poliéster
+- Corte clásico
+- 100% original, lonsdale
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B009NFY3RE/?tag=tolees-21)

@@ -28,7 +28,7 @@ En este momento está [Superdry Sportstyle Zip Hood Sudadera con Capucha  Grey S
 
 🔎:
 
-- Tamaño del paquete: 62 x 3879 x 290 cm
 - Estándar
+- Tamaño del paquete: 62 x 3879 x 290 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08D3PNFB3/?tag=tolees-21)
