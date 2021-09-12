@@ -28,7 +28,7 @@ Tienes [Salomon Alphacross Blast Zapatillas De Trail Running Hombre](https://www
 
 ℹ️:
 
-- Alphacross Blast Black/White/Black
 - Número: 45 1/3
+- Alphacross Blast Black/White/Black
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Z5GNCHK/?tag=tolees-21)

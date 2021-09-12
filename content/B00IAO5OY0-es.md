@@ -29,7 +29,7 @@ Tienes [Havaianas Flash Urban  Sandalias Mujer  Dark Beige  37/38 EU](https://ww
 ℹ️:
 
 - Se adapta a verdad
-- Hecho de goma brasileña de alta calidad.
 - Adornos cosidos a mano en la correa
+- Hecho de goma brasileña de alta calidad.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IAO5OY0/?tag=tolees-21)

@@ -30,7 +30,7 @@ Tienes [Havaianas Top  Chanclas Unisex Adulto  Amarillo  39/40 EU](https://www.a
 
 - Fabricado en Brasil.
 - Resistente al agua.
-- Cómodo.
 - Antideslizante.
+- Cómodo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085YRPYTH/?tag=tolees-21)

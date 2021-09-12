@@ -28,7 +28,7 @@ Está [BOSS tee Gold 1 10230216 01 Camiseta  Negro1  S para Hombre](https://www.
 
 ℹ️:
 
-- Acabado de alta calidad
 - Algodón suave
+- Acabado de alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CF1GRPP/?tag=tolees-21)

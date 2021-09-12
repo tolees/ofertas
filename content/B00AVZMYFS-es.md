@@ -30,8 +30,8 @@ Tienes [VANS Atwood  Zapatillas Hombre  Negro  Black/White Canvas 187   44 EU](h
 
 - Anchura del zapato: Normal
 - Composición: Textil
-- Cierre: Cordones
 - Tipo de talla: Talla estándar
 - Tipo de tacón: Plano
+- Cierre: Cordones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AVZMYFS/?tag=tolees-21)

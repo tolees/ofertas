@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Runfalcon 2.0  Sneaker Hombre  Core Black/Footwear Wh
 
 🔎:
 
-- Cordones de zapatos
 - Suela de goma
+- Cordones de zapatos
 - malla y parte superior de cuero sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BWWTH77/?tag=tolees-21)

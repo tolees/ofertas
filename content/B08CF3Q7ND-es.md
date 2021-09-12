@@ -28,7 +28,7 @@ Ahora mismo tienes [BOSS tee Gold 1 10230216 01 Camiseta  Blanco  XL para Hombre
 
 🔎:
 
-- Acabado de alta calidad
 - Algodón suave
+- Acabado de alta calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF3Q7ND/?tag=tolees-21)

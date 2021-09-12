@@ -28,11 +28,11 @@ En este momento está [Champion Hombre - Sudadera con Capucha Classic Logo - Gri
 
 🔎:
 
-- Logo grande impreso en el pecho
+- Sudadera con Capucha y cordón
 - Número de modelo: 210737
 - 79% algodón, 21% poliéster
-- Lavar a máquina en frío (30°máx)
-- Sudadera con Capucha y cordón
 - Bolsillo canguro
+- Lavar a máquina en frío (30°máx)
+- Logo grande impreso en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B072ZWLP38/?tag=tolees-21)

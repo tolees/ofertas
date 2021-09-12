@@ -28,8 +28,8 @@ Ahora mismo tienes [G-STAR RAW Base-s r t s/s Camiseta  Azul  Sartho Blue 336-60
 
 🔎:
 
-- Bajo recto
 - Bordado de G-Star RAW en el pecho
 - Cuello redondo
+- Bajo recto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VNMLGHC/?tag=tolees-21)

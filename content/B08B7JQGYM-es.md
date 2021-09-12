@@ -28,9 +28,9 @@ Ahora mismo tienes [NIKE Roma Y NK BRT Stad JSY SS Hm T-Shirt  Unisex niños  Te
 
 🔎:
 
-- Tejido Nike Breathe para mantener la transpirabilidad y la frescura
-- Detalles del equipo para destacar tu apoyo
 - Ajuste estándar para un toque cómodo
 - Lavar a máquina
+- Tejido Nike Breathe para mantener la transpirabilidad y la frescura
+- Detalles del equipo para destacar tu apoyo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08B7JQGYM/?tag=tolees-21)
