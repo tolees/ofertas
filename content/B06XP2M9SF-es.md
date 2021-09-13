@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pegasus - Frogriders al 44.81 % de rebaja'
-date: 2021-09-12 11:11:23
+date: 2021-09-13 19:21:12
 image: 'https://m.media-amazon.com/images/I/61pnfcPbCFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pegasus'
 buyurl: 'https://www.amazon.es/dp/B06XP2M9SF/?tag=tolees-21'
 descuento: '44.81'
-average: '15.295'
+average: '15.8'
 ---
 
 Tienes [Pegasus - Frogriders](https://www.amazon.es/dp/B06XP2M9SF/?tag=tolees-21) con precio final de  16.81 EUR (original: 30.46 EUR) (44.81 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Pegasus - Frogriders](https://www.amazon.es/dp/B06XP2M9SF/?tag=tolees-21
 
 🔎:
 
-- Número de jugadores: 2-4.
 - A partir de 8 años.
+- Número de jugadores: 2-4.
 - Duración del juego: 20 – 30
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XP2M9SF/?tag=tolees-21)

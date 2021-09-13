@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash V2 L V PS  Zapatillas  Negro  con un 59.91 % de descuento'
-date: 2021-09-06 15:25:28
+date: 2021-09-13 19:01:40
 image: 'https://m.media-amazon.com/images/I/41b4OQP2-gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B077MFV3PG/?tag=tolees-21'
 descuento: '59.91'
-average: '16.98'
+average: '15.99'
 ---
 
 En este momento está [PUMA Smash V2 L V PS  Zapatillas  Negro Black Black  28 EU](https://www.amazon.es/dp/B077MFV3PG/?tag=tolees-21) a 14.01 EUR (original: 34.95 EUR) (59.91 %  de descuento) en el siguiente enlace!
@@ -30,8 +30,8 @@ En este momento está [PUMA Smash V2 L V PS  Zapatillas  Negro Black Black  28 E
 
 - Material de la suela: Goma
 - Revestimiento: Sintético
-- Tipo de tacón: Plano
 - Cierre: Velcro
 - Material exterior: Cuero
+- Tipo de tacón: Plano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077MFV3PG/?tag=tolees-21)
