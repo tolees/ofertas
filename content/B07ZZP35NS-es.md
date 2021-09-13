@@ -28,9 +28,9 @@ Tienes [Funko - Pop! Heroes: Batman Forever - Riddler Figura Coleccionable  Mult
 
 ℹ️:
 
-- Figura de colección de la marca Funko
 - Recomendado para niños a partir de 3 años
-- El artículo es adecuado para todos los fanáticos de Batman
 - El producto se envía en una caja ilustrada con ventana
+- Figura de colección de la marca Funko
+- El artículo es adecuado para todos los fanáticos de Batman
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZZP35NS/?tag=tolees-21)
