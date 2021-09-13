@@ -29,7 +29,7 @@ Tienes [Hurley M BP Toucan 18  Bañador  Hombre  Oracle Aqua  38](https://www.am
 🔎:
 
 - Largo de 46 cm por encima de la rodilla para mayor libertad de movimiento
-- Ajuste normal
 - El tejido Phantom es de secado rápido y elástico en cuatro direcciones para máxima comodidad y movilidad
+- Ajuste normal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081YS9ZLS/?tag=tolees-21)

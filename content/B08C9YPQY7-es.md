@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Brian 20D  Chanclas Hombre  Negro  41](https:
 
 🔎:
 
-- Para más información sobre Tommy Jeans, consulta la sección de descripción del producto a continuación
 - Este es un producto auténtico y original de Tommy Hilfiger.
 - Tommy Hilfiger- Sandalias y chanclas para hombre
+- Para más información sobre Tommy Jeans, consulta la sección de descripción del producto a continuación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C9YPQY7/?tag=tolees-21)
