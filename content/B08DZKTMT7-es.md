@@ -28,10 +28,10 @@ Ahora mismo tienes [Skechers GO Walk MAX Deluxe  Zapatillas Hombre  Black  42 EU
 
 🔎:
 
-- Plantilla GOGA Mat refrigerada por aire
-- Goma Goodear
 - Lavable a máquina
+- Plantilla GOGA Mat refrigerada por aire
 - Entresuela de espuma Ultra Go
+- Goma Goodear
 - Ortholite
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DZKTMT7/?tag=tolees-21)

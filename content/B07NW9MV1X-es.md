@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Solar Fuse-Brisk Escape  Zapati al 39.97 % de descuento'
-date: 2021-09-02 01:39:00
+date: 2021-09-13 03:44:18
 image: 'https://m.media-amazon.com/images/I/413S7oG2oLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07NW9MV1X/?tag=tolees-21'
 descuento: '39.97'
-average: '47.554'
+average: '46.6266666666667'
 ---
 
 Está [Skechers Solar Fuse-Brisk Escape  Zapatillas  Negro  BKW Black Knit Mesh/Lime & Light Blue Trim   35 EU](https://www.amazon.es/dp/B07NW9MV1X/?tag=tolees-21) con 39.97 de descuento por 41.99 EUR (original: 69.95 EUR) en el siguiente enlace!

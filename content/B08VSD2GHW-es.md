@@ -29,7 +29,7 @@ Ahora mismo tienes [adidas GN7505 Team Base tee Sweatshirt Mens Team Solar Green
 🔎:
 
 - Cuello de pico
-- Logotipo de Adidas en la parte delantera
 - Corte semi-ajustado
+- Logotipo de Adidas en la parte delantera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VSD2GHW/?tag=tolees-21)
