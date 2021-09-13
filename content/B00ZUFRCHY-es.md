@@ -28,9 +28,9 @@ Tienes [Sony Cyber-shot DSC-RX10 II - Cámara compacta de 20.2 MP y sensor de 1"
 
 ℹ️:
 
-- Cámara súper lenta 40X con grabación de alta velocidad a 1000 fps
-- Grabación de alta precisión en 4K con supresor de efecto moiré y bordes dentados
-- Visor XGA OLED con 2.6 MP con visión clara de alta resolución
 - Objetivo Zeiss Vario-Sonnar T* 24-240mm/F2.8
+- Visor XGA OLED con 2.6 MP con visión clara de alta resolución
+- Grabación de alta precisión en 4K con supresor de efecto moiré y bordes dentados
+- Cámara súper lenta 40X con grabación de alta velocidad a 1000 fps
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ZUFRCHY/?tag=tolees-21)

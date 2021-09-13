@@ -28,9 +28,9 @@ Tienes [Tristar Br-1009 Tostadora  650 W  Metal  2 Ranuras  Blanco](https://www.
 
 🔎:
 
-- Tostadora compacta de 650 W de potencia para dos rebanadas de pan con soporte para calentar panecillos o bollería
-- Tostadora compacta adecuada para ir de camping o utilizar en la caravana
-- Incorpora función de calentamiento, además de botón de parada rápida gracias a la cual puedes interrumpir el tostado en cualquier momento
 - Selecciona entre los 6 niveles de tostado disponibles, y disfruta de unas tostadas en el punto seleccionado
+- Incorpora función de calentamiento, además de botón de parada rápida gracias a la cual puedes interrumpir el tostado en cualquier momento
+- Tostadora compacta adecuada para ir de camping o utilizar en la caravana
+- Tostadora compacta de 650 W de potencia para dos rebanadas de pan con soporte para calentar panecillos o bollería
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004M9HTMW/?tag=tolees-21)
