@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas FS1901 CORE18 Polo Polo Shirt Mens Bold Green S](http
 
 🔎:
 
-- regular fit
 - Climalite humedad Tela
 - Solapa con dos botones
+- regular fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZXJZYYM/?tag=tolees-21)

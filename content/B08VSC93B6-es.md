@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Camisetas Modelo Team Base tee Ma al 52.39 % de descuento'
-date: 2021-09-03 04:27:21
+date: 2021-09-14 02:09:23
 image: 'https://m.media-amazon.com/images/I/31vBLZz9eOS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [adidas Camisetas Modelo Team Base tee Marca](https://www.amazon.es/dp/B08
 
 ℹ️:
 
-- Cuello de pico
-- Tejido elástico
 - Primegreen
+- Cuello de pico
 - Punto doble 100% poliéster reciclado
+- Tejido elástico
 - Manga larga
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08VSC93B6/?tag=tolees-21)
