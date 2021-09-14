@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 69.07 % en Calvin Klein Jeans Slim Jeans  Mezclilla'
-date: 2021-09-12 07:03:08
+date: 2021-09-14 16:36:58
 image: 'https://m.media-amazon.com/images/I/31iukJBFuVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

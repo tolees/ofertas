@@ -28,10 +28,10 @@ En este momento está [Emuca - Juego de separadores de cajones ajustables  acces
 
 🔎:
 
-- Fácil montaje sin herramientas.
 - Divisores de cajones aptos para módulos de 900mm de ancho y una profundidad mínima de cajón de 350mm.
-- Juego de separadores de cajones ajustable para optimizar y organizar el espacio interior de tus muebles.
+- Fácil montaje sin herramientas.
 - Se pueden ajustar a otras anchuras menores cortando los perfiles de aluminio incluidos (para más información ver descripción).
+- Juego de separadores de cajones ajustable para optimizar y organizar el espacio interior de tus muebles.
 - Fabricados en aluminio y plástico con acabado blanco.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MFR178T/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [STAEDTLER Lumocolor 236-1 BK-1 - Tiza universal para neumáticos  perman
 
 🔎:
 
+- También para uso en madera mojada.
+- Longitud 113 mm, forma hexagonal, diámetro de la tiza aprox. 12,0 mm.
+- Para marcas cubrientes también en superficies oscuras y transparentes, como por ejemplo la etiquetado de neumáticos.
 - Contenido del envío: 1 tiza universal "neumáticos" en color amarillo en blíster.
 - Resistente al agua, no traspasa el papel, de alta calidad, fabricado en Alemania.
-- También para uso en madera mojada.
-- Para marcas cubrientes también en superficies oscuras y transparentes, como por ejemplo la etiquetado de neumáticos.
-- Longitud 113 mm, forma hexagonal, diámetro de la tiza aprox. 12,0 mm.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086DCN9RQ/?tag=tolees-21)

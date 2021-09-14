@@ -28,10 +28,10 @@ Tienes [HIBRON - 50 Mascarillas Negras Higiénicas Desechables Homologadas CWA 1
 
 ℹ️:
 
-- La mascarilla higiénica está destinada a personas adultas sin síntomas
 - Composición: Multicapa de tejido Non Woven y Melt blown. Hilado no tejido (Polipropileno) soplado por fusión. Gancho para la oreja, polipropileno elásttico. Permiten una agradable respiración. Buen filtrado
+- La mascarilla higiénica está destinada a personas adultas sin síntomas
+- Mascarillas HIBRON: Fabricado bajo las de Unión Europea CWA 17553:2020 equivalente a especificaciones españolas UNE 0064-1:2020. Tamaño: 17,50 cm x 9,50 cm para adultos
 - "ADVERTENCIA: Este dispositivo no es un producto sanitario en el sentido de la Directiva 93/42 o del Reglamento UE / 2017/745, ni un equipo de protección individual en el sentido del Reglamento UE / 2016/425";
 - BFE (Filtración)≥99% , Presión diferencial ≤60 pa/cm².
-- Mascarillas HIBRON: Fabricado bajo las de Unión Europea CWA 17553:2020 equivalente a especificaciones españolas UNE 0064-1:2020. Tamaño: 17,50 cm x 9,50 cm para adultos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08P7RM4Y5/?tag=tolees-21)
