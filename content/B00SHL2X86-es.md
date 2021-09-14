@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Enri  Cuadernos A5  Pack de 5 Libretas T al 42.71 % de descuento'
-date: 2021-09-13 08:46:24
+date: 2021-09-14 10:45:41
 image: 'https://m.media-amazon.com/images/I/41YQ+4K+BRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Enri  Cuadernos A5  Pack de 5 Libretas Tapa Dura  80 Hojas  Cuadrícula 4
 
 ℹ️:
 
-- Paquete de 5 cuadernos con color de tapa aleatorio: rojo, verde, naranja, rosa, turquesa y morado
-- 80 hojas de 60 gr/m² con cuadrícula 4mm x 4mm y margen
 - Espiral simple negra, gira las páginas 360º cómodamente
-- Tapa dura, resistente y ligera
 - Formato Cuarto (A5): 21,5 x 15,5 cm
+- 80 hojas de 60 gr/m² con cuadrícula 4mm x 4mm y margen
+- Paquete de 5 cuadernos con color de tapa aleatorio: rojo, verde, naranja, rosa, turquesa y morado
+- Tapa dura, resistente y ligera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00SHL2X86/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KAIWEETS KM100 Multímetro Digital  Polim con un 53.14 % de descuento'
-date: 2021-08-25 11:51:43
+date: 2021-09-14 11:58:23
 image: 'https://m.media-amazon.com/images/I/51Ly4Z3mCtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'KAIWEETS'
 buyurl: 'https://www.amazon.es/dp/B08CX9W7G3/?tag=tolees-21'
 descuento: '53.14'
-average: '14.51625'
+average: '14.4133333333333'
 ---
 
 En este momento está [KAIWEETS KM100 Multímetro Digital  Polimetro para Medir Continuidad  Tensión en CA y CC  Amperios en CC  Resistencia  Diodo  Voltímetro con Doble Fusibles  Cables de Prueba y Miniestuche](https://www.amazon.es/dp/B08CX9W7G3/?tag=tolees-21) a 13.59 EUR (original: 29.0 EUR) (53.14 %  de descuento) en el siguiente enlace!
