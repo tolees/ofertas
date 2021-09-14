@@ -28,10 +28,10 @@ Está [adidas Camisetas Modelo Team Base tee Marca](https://www.amazon.es/dp/B08
 
 ℹ️:
 
-- Primegreen
+- Manga larga
 - Cuello de pico
+- Primegreen
 - Punto doble 100% poliéster reciclado
 - Tejido elástico
-- Manga larga
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08VSC93B6/?tag=tolees-21)
