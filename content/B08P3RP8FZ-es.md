@@ -28,11 +28,11 @@ En este momento está [Razer Huntsman Tournament Edition Teclado con Teclas opto
 
 🔎:
 
-- Formato compacto: el diseño compacto y sin teclado numérico permite una maniobrabilidad y colocación más sencillas para que encuentres tu posición optima
-- Tipo de conectividad: Alámbrico
-- Memoria integrada: estarás listo para la acción al usar los 5 perfiles de configuración en la memoria integrada o los ajustes personalizados mediante almacenamiento en la nube
 - Switches. Ópticos lineales. Razer: disfruta de una respuesta inmediata con activación óptica de 1 mm, ya que cada pulsación se registra mediante un haz de luz, lo que asegura una ventaja inmediata en cualquier competición
-- Cable tipo c desmontable: conecta tu teclado y juega al instante mientras vas de torneo en torneo, el cierre de seguridad mantiene el cable conectado durante toda la partida
+- Memoria integrada: estarás listo para la acción al usar los 5 perfiles de configuración en la memoria integrada o los ajustes personalizados mediante almacenamiento en la nube
+- Tipo de conectividad: Alámbrico
 - Teclas de pbt de doble inyección: con una doble capa de pbt para mayor resistencia, estas teclas están diseñadas para mantener su textura en situaciones de entrenamiento intensivo y uso competitivo
+- Cable tipo c desmontable: conecta tu teclado y juega al instante mientras vas de torneo en torneo, el cierre de seguridad mantiene el cable conectado durante toda la partida
+- Formato compacto: el diseño compacto y sin teclado numérico permite una maniobrabilidad y colocación más sencillas para que encuentres tu posición optima
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08P3RP8FZ/?tag=tolees-21)

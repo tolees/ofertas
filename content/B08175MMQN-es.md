@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 70.91 % en PLAYMOBIL- Figuras Serie 18  niña  70370'
-date: 2021-09-07 17:01:48
+date: 2021-09-15 11:59:36
 image: 'https://m.media-amazon.com/images/I/512KvWakMFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B08175MMQN/?tag=tolees-21'
 descuento: '70.91'
-average: '1.99272727272728'
+average: '1.99260869565218'
 ---
 
 Tienes [PLAYMOBIL- Figuras Serie 18  niña  70370   Multicolor](https://www.amazon.es/dp/B08175MMQN/?tag=tolees-21) con un 70.91 % de descuento con precio de oferta de 1.99 EUR (original: 6.84 EUR) en el siguiente enlace!
