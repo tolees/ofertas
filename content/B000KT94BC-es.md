@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clairefontaine Trophée - Mini resma de p al 36.03 % de rebaja'
-date: 2021-09-13 21:23:05
+date: 2021-09-15 15:52:53
 image: 'https://m.media-amazon.com/images/I/41GQhyH2FKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Clairefontaine Trophée - Mini resma de papel  100 hojas  A4  21 x 29.7 
 
 🔎:
 
-- Las hojas tienen un grosor de 80 g/m²
-- Para impresiones laser y impresora de tinta
 - Producto certificado FSC para una gestión duradera de los bosques
+- Para impresiones laser y impresora de tinta
 - Mini resma de papel que contiene 100 hojas A4
+- Las hojas tienen un grosor de 80 g/m²
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000KT94BC/?tag=tolees-21)
