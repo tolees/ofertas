@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Candy CDHC 30 - Vitroceramica 2 fuegos   con un 37.43 % de descuento'
-date: 2021-09-10 09:15:54
+date: 2021-09-15 18:39:26
 image: 'https://m.media-amazon.com/images/I/31yqp3-CAoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Candy'
 buyurl: 'https://www.amazon.es/dp/B08MKYRNJY/?tag=tolees-21'
 descuento: '37.43'
-average: '104.41'
+average: '106.94'
 ---
 
 En este momento está [Candy CDHC 30 - Vitroceramica 2 fuegos  Placa 28.8 cm ancho  Potencia 3000W  Temporizador  Bloqueo de seguridad  Negro](https://www.amazon.es/dp/B08MKYRNJY/?tag=tolees-21) a 112.0 EUR (original: 179.0 EUR) (37.43 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Candy CDHC 30 - Vitroceramica 2 fuegos  Placa 28.8 cm anc
 
 🔎:
 
-- Vitrocerámica 2 fuegos con potencia total de 3000W: 165mm x 1,2kw y 200mm x 1,8kw - panel de mandos de control mecánico independiente
 - Sencillez para cocinar: apta para todo tipo de recipientes de cocina cocina de una forma fácil e intuitiva
-- Óptimas prestaciones: cocina eléctrica con temporizador, 9 niveles de potencia, bloqueo de seguridad y alerta de derrames y sobrecalentamiento
+- Vitrocerámica 2 fuegos con potencia total de 3000W: 165mm x 1,2kw y 200mm x 1,8kw - panel de mandos de control mecánico independiente
 - Fácil limpieza y materiales de calidad: vitrocerámica de superficie plana con indicador de calor residual, para evitar quemaduras innecesarias
 - Medidas placa, medidas integración (alto x ancho): 28,8 x 51cm; 26,8 x 50cm
+- Óptimas prestaciones: cocina eléctrica con temporizador, 9 niveles de potencia, bloqueo de seguridad y alerta de derrames y sobrecalentamiento
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MKYRNJY/?tag=tolees-21)

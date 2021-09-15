@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Churruca Original Picadita Cóctel de fru al 42.78 % de rebaja'
-date: 2021-09-08 07:46:53
+date: 2021-09-15 17:08:28
 image: 'https://m.media-amazon.com/images/I/51YJgoP59uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Churruca'
 buyurl: 'https://www.amazon.es/dp/B074PYPNY4/?tag=tolees-21'
 descuento: '42.78'
-average: '5.225'
+average: '5.29'
 ---
 
 Tienes [Churruca Original Picadita Cóctel de frutos secos - 1 Kg](https://www.amazon.es/dp/B074PYPNY4/?tag=tolees-21) con precio final de  5.55 EUR (original: 9.7 EUR) (42.78 %  de rebaja) aqui!
