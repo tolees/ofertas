@@ -28,7 +28,7 @@ En este momento está [BOSS Paule 2 10196402 01 Camisa de Polo  Navy410  S para 
 
 🔎:
 
-- Pique elástico fino
 - Acabado de alta calidad
+- Pique elástico fino
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CF12MP3/?tag=tolees-21)

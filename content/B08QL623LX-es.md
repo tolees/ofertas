@@ -28,8 +28,8 @@ En este momento está [Springfield Camiseta Bimateria Lisa  Granate  M para Muje
 
 🔎:
 
-- Cuello redondo
 - Realizada en color liso
 - Camiseta de manga larga caída
+- Cuello redondo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QL623LX/?tag=tolees-21)
