@@ -28,11 +28,11 @@ En este momento está [G-STAR RAW 3301 Slim Fit Vaqueros  Authentic Faded Blue  
 
 🔎:
 
-- Cierre: Boton y cierre
-- Usado
+- Lavar a máquina - caliente (mayor de 30 °)
 - 99% Algodón, 1% Elastano
 - Normal
-- Lavar a máquina - caliente (mayor de 30 °)
+- Cierre: Boton y cierre
 - Vaqueros slim
+- Usado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N18GRXY/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [adidas Ultraboost 21 J  Zapatillas de Running  Balcri/Balcri/VERBRU  37 
 
 🔎:
 
-- Mediasuela Boost
-- Parte superior textil
-- Primeblue
 - Cierre de cordones
+- Primeblue
+- Parte superior textil
 - Suela de goma
+- Mediasuela Boost
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PW1SSN4/?tag=tolees-21)
