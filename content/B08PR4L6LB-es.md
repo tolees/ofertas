@@ -28,13 +28,13 @@ Está [Zumosol Néctar De 1L  Manzana  1000 Mililitro](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Ingredientes: Ingredientes: Zumo de manzana a partir de concentrado
-- Advertencia de seguridad: Situación del lote y la fecha de consumo preferente: Parte superior del envase
 - Néctar de manzana
+- Ingredientes: Ingredientes: Zumo de manzana a partir de concentrado
+- Instrucciones para su uso adecuado: Agitar antes de usa
+- País de origen: España
+- Una vez abierto, consumir completamente tan pronto como sea posible o guardar refrigerado y consumir en un máximo de 4 días
+- Advertencia de seguridad: Situación del lote y la fecha de consumo preferente: Parte superior del envase
 - Almacenar en lugar fresco y seco
 - Temperaturas superiores a 35 º c pueden causar deterioro organoléptico en el producto
-- País de origen: España
-- Instrucciones para su uso adecuado: Agitar antes de usa
-- Una vez abierto, consumir completamente tan pronto como sea posible o guardar refrigerado y consumir en un máximo de 4 días
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PR4L6LB/?tag=tolees-21)
