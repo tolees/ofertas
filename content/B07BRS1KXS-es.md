@@ -28,10 +28,10 @@ Está [Bosch Professional GWS 880 - Amoladora angular  800 W  11000 rpm  Ø disc
 
 ℹ️:
 
-- Amoladora angular GWS 880 de Bosch Professional con 880 W de potencia y un diámetro de disco de 125 mm
-- Control óptimo de la herramienta gracias al perímetro reducido de la empuñadura y al diseño ergonómico
-- El diseño robusto garantiza una larga vida útil de la amoladora angular
-- Incluye: GWS 880, en caja
 - Fácil de usar en espacios reducidos gracias a la carcasa compacta del engranaje
+- El diseño robusto garantiza una larga vida útil de la amoladora angular
+- Control óptimo de la herramienta gracias al perímetro reducido de la empuñadura y al diseño ergonómico
+- Incluye: GWS 880, en caja
+- Amoladora angular GWS 880 de Bosch Professional con 880 W de potencia y un diámetro de disco de 125 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BRS1KXS/?tag=tolees-21)

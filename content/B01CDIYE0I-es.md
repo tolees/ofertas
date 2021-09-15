@@ -28,8 +28,8 @@ Tienes [victoria Plano VICTORIA Tribu Botin Lona 106500-WOMEN para Mujer Negro 4
 
 ℹ️:
 
-- Botas altas Victoria, la referencia sobriedad y originalidad
 - Victoria
+- Botas altas Victoria, la referencia sobriedad y originalidad
 - Unisex
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01CDIYE0I/?tag=tolees-21)
