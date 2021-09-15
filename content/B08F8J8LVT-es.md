@@ -28,8 +28,8 @@ En este momento está [Camper UNO  Zapatillas Mujer  Pink  39 EU](https://www.am
 
 🔎:
 
-- Leather Working Group certificado
 - Plantilla Ortholite para mayor amortiguación
+- Leather Working Group certificado
 - Cordones elásticos para un ajuste fácil (71% PET reciclado - 29% Látex)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08F8J8LVT/?tag=tolees-21)
