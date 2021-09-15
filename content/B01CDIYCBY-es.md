@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Victoria Botin Basket Autoclave  Zapatil al 53.21 % de descuento'
-date: 2020-09-17 11:10:14
-image: 'https://m.media-amazon.com/images/I/4110KI5ciiL._SL400_.jpg'
+title: 'victoria Plano VICTORIA Tribu Botin Lona al 66.59 % de descuento'
+date: 2021-09-15 06:45:22
+image: 'https://m.media-amazon.com/images/I/4151QdZ9LNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01CDIYCBY-es Victoria Botin Basket Autoclave Zapatillas Altas Unisex...'
+slug: 'B01CDIYCBY-es victoria Plano VICTORIA Tribu Botin Lona 106500-WOMEN para...'
 sku: 'B01CDIYCBY-es'
-tags: [  ]
-actualPrice: 13.99 EUR
+tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','victoria', ]
+actualPrice: 9.99 EUR
 currency: EUR
-price: 13.99
+price: 9.99
 comparePrice: 29.9 EUR
-prodname: 'Victoria Botin Basket Autoclave  Zapatillas Altas Unisex Adulto  Noir Negro 10  38 EU'
+prodname: 'victoria Plano VICTORIA Tribu Botin Lona 106500-WOMEN para Mujer Negro 38'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'victoria'
 buyurl: 'https://www.amazon.es/dp/B01CDIYCBY/?tag=tolees-21'
-descuento: '53.21'
-average: '13.99'
+descuento: '66.59'
+average: '12.6566666666667'
 ---
 
-Está [Victoria Botin Basket Autoclave  Zapatillas Altas Unisex Adulto  Noir Negro 10  38 EU](https://www.amazon.es/dp/B01CDIYCBY/?tag=tolees-21) con 53.21 de descuento por 13.99 EUR (original: 29.9 EUR) en el siguiente enlace!
+Está [victoria Plano VICTORIA Tribu Botin Lona 106500-WOMEN para Mujer Negro 38](https://www.amazon.es/dp/B01CDIYCBY/?tag=tolees-21) con 66.59 de descuento por 9.99 EUR (original: 29.9 EUR) en el siguiente enlace!
 
-[![Victoria Botin Basket Autoclave  Zapatil](https://m.media-amazon.com/images/I/4110KI5ciiL._SL400_.jpg)](https://www.amazon.es/dp/B01CDIYCBY/?tag=tolees-21)
+[![victoria Plano VICTORIA Tribu Botin Lona](https://m.media-amazon.com/images/I/4151QdZ9LNL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01CDIYCBY/?tag=tolees-21)
 
 ℹ️:
 
+- Unisex
+- Botas altas Victoria, la referencia sobriedad y originalidad
+- Victoria
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CDIYCBY/?tag=tolees-21)
