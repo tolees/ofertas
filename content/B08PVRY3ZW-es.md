@@ -28,8 +28,8 @@ En este momento está [adidas ZX 1k Boost  Zapatillas Deportivas Hombre  Core Bl
 
 🔎:
 
-- Zapatillas deportivas
 - Inspiradas en el diseño de running de los años 80
 - Empeine de malla y ante
+- Zapatillas deportivas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PVRY3ZW/?tag=tolees-21)
