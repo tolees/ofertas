@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSA - SAM 11 - Bolsa de burbujas  10 uni al 49.83 % de descuento'
-date: 2021-08-21 14:55:08
+date: 2021-09-16 17:05:19
 image: 'https://m.media-amazon.com/images/I/31yXPa2UrqS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [MSA - SAM 11 - Bolsa de burbujas  10 unidades](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Contiene 10 unidades
 - 100 x 165 mm
 - Bolsa de burbuja
+- Contiene 10 unidades
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00SHLEO6K/?tag=tolees-21)

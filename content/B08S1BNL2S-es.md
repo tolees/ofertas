@@ -28,10 +28,10 @@ Ahora mismo tienes [Funko Pop Keychain Mandalorian-The Child  Multicolor  Están
 
 🔎:
 
-- Funko POP! es el juguete del año 2018 Peoples Choice
-- Descubre todos los demás productos Funko dedicados a esta colección
-- Colecciónalos todos
-- Cada llavero mide aproximadamente 5 cm de alto y viene empaquetado en una caja de exhibición de ventana
 - POP! Llavero de Funko
+- Descubre todos los demás productos Funko dedicados a esta colección
+- Cada llavero mide aproximadamente 5 cm de alto y viene empaquetado en una caja de exhibición de ventana
+- Colecciónalos todos
+- Funko POP! es el juguete del año 2018 Peoples Choice
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08S1BNL2S/?tag=tolees-21)

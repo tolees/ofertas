@@ -28,10 +28,10 @@ Ahora mismo tienes [DIETISA - Biform Sustitutivo Crema de Chocolate  Sustituye u
 
 🔎:
 
+- Verter 200ml de agua fría en el vaso de Biform y añadir el contenido del sobre de natillas. Cerrar el vaso y agitar enérgicamente durante unos 20 segundos, dejar reposar y ya estará listo para tomar
 - Cada crema aporta los nutrientes necesarios para reemplazar una comida principal
+- Ideal para dietas hipocalóricas o de perdida de peso
 - Deliciosas cremas de sabor chocolate sustitutivas de comidas para el control de peso
 - 1 sobre sustituye a una 1 comida y aporta 206 kcal
-- Verter 200ml de agua fría en el vaso de Biform y añadir el contenido del sobre de natillas. Cerrar el vaso y agitar enérgicamente durante unos 20 segundos, dejar reposar y ya estará listo para tomar
-- Ideal para dietas hipocalóricas o de perdida de peso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00DN9N2DW/?tag=tolees-21)
