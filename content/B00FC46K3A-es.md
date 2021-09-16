@@ -28,7 +28,7 @@ En este momento está [Gardinia 33087 - Persiana Enrollable y Estor  100% polié
 
 🔎:
 
-- Dimensiones: 90 x 210 cm
 - Material: 100% poliéster y aluminio
+- Dimensiones: 90 x 210 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00FC46K3A/?tag=tolees-21)

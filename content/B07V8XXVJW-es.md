@@ -29,9 +29,9 @@ En este momento está [Element  Zapatillas Hombre  Azul  Navy Gum 3556   39 EU](
 🔎:
 
 - Suela exterior de goma reciclada
-- Empeine y cordones de algodón orgánico
-- Colas a base de agua
 - Silueta militar vintage
 - Construcción vulcanizada
+- Empeine y cordones de algodón orgánico
+- Colas a base de agua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07V8XXVJW/?tag=tolees-21)
