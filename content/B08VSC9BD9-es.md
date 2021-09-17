@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas GN7508 Team Base tee Sweatshirt M al 52.39 % de rebaja'
-date: 2021-09-04 01:40:25
+date: 2021-09-17 01:08:58
 image: 'https://m.media-amazon.com/images/I/31g031nF2FS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08VSC9BD9/?tag=tolees-21'
 descuento: '52.39'
-average: '11.45'
+average: '11.2833333333333'
 ---
 
 Tienes [adidas GN7508 Team Base tee Sweatshirt Mens Team Orange XL](https://www.amazon.es/dp/B08VSC9BD9/?tag=tolees-21) con precio final de  10.95 EUR (original: 23.0 EUR) (52.39 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [adidas GN7508 Team Base tee Sweatshirt Mens Team Orange XL](https://www.
 
 🔎:
 
-- Logotipo de Adidas en la parte delantera
 - Cuello de pico
 - Corte semi-ajustado
+- Logotipo de Adidas en la parte delantera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VSC9BD9/?tag=tolees-21)
