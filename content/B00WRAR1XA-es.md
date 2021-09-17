@@ -28,12 +28,12 @@ Está [Olay Regenerist Luminous Hidratante  Crema facial iluminadora con niacina
 
 ℹ️:
 
+- Apta para piel normal, seca y grasa
+- Fórmula hidratante y exfoliante
+- Fórmula enriquecida con niacinamida (vitamina B3)
 - Consigue el brillo de una piel descansada todo el año con esta crema iluminadora
 - Los productos Olay se crean en colaboración con más de 8000 mujeres al año
 - Prueba la crema hidratante Olay Luminous durante 28 días. Experimenta una transformación real de la piel
-- Fórmula hidratante y exfoliante
-- Fórmula enriquecida con niacinamida (vitamina B3)
 - Reduce visiblemente la hiperpigmentación y las manchas
-- Apta para piel normal, seca y grasa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00WRAR1XA/?tag=tolees-21)

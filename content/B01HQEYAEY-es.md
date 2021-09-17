@@ -28,9 +28,9 @@ Está [Leifheit 71602 Cotton Comfort  Funda para mesa de planchar  140x45 cm  co
 
 ℹ️:
 
-- Material: 31% algodón, 9% poliuretano, 60% poliéster
 - producto de alta calidad
 - Resistente y con diseño funcional
 - El protector de planchar aporta comodidad adicional
+- Material: 31% algodón, 9% poliuretano, 60% poliéster
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HQEYAEY/?tag=tolees-21)
