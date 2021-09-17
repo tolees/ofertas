@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'DC Shoes Trase TX  Zapatillas Hombre  DC al 66.53 % de rebaja'
-date: 2021-09-15 20:30:43
+title: 'DC Shoes Trase TX  Zapatillas Hombre  DC al 61.77 % de rebaja'
+date: 2021-09-17 02:18:04
 image: 'https://m.media-amazon.com/images/I/3190J1J+I3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B0833MLS9T-es DC Shoes Trase TX Zapatillas Hombre DC Navy/Orange 37 EU'
 sku: 'B0833MLS9T-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','dc shoes', ]
-actualPrice: 20.08 EUR
+actualPrice: 22.94 EUR
 currency: EUR
-price: 20.08
+price: 22.94
 comparePrice: 60.0 EUR
 prodname: 'DC Shoes Trase TX  Zapatillas Hombre  DC Navy/Orange  37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'DC Shoes'
 buyurl: 'https://www.amazon.es/dp/B0833MLS9T/?tag=tolees-21'
-descuento: '66.53'
-average: '31.3172499999999'
+descuento: '61.77'
+average: '31.1129268292682'
 ---
 
-Tienes [DC Shoes Trase TX  Zapatillas Hombre  DC Navy/Orange  37 EU](https://www.amazon.es/dp/B0833MLS9T/?tag=tolees-21) con precio final de  20.08 EUR (original: 60.0 EUR) (66.53 %  de rebaja) aqui!
+Tienes [DC Shoes Trase TX  Zapatillas Hombre  DC Navy/Orange  37 EU](https://www.amazon.es/dp/B0833MLS9T/?tag=tolees-21) con precio final de  22.94 EUR (original: 60.0 EUR) (61.77 %  de rebaja) aqui!
 
 [![DC Shoes Trase TX  Zapatillas Hombre  DC](https://m.media-amazon.com/images/I/3190J1J+I3L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0833MLS9T/?tag=tolees-21)
 
 🔎:
 
-- Parte superior de lona
-- Suela exterior de goma adherente resistente a la abrasión
 - Construcción vulcanizada para sentir mejor la tabla y la flexibilidad de la suela
+- Parte superior de lona
 - Tejido interior de malla
 - Logo HD estampado
+- Suela exterior de goma adherente resistente a la abrasión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0833MLS9T/?tag=tolees-21)

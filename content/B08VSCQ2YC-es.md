@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas GN5674 Team Base tee Sweatshirt Mens Team Power Red X
 
 🔎:
 
-- Logotipo de Adidas en la parte delantera
-- Cuello de pico
 - Corte semi-ajustado
+- Cuello de pico
+- Logotipo de Adidas en la parte delantera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VSCQ2YC/?tag=tolees-21)

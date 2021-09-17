@@ -28,9 +28,9 @@ En este momento está [Puma Sport Cush Crew 6P  Calcetines Unisex  Paquete de 6 
 
 🔎:
 
-- Talón y puntera integrados para una mayor sujeción
-- Canalé elástico en la parte de arriba
 - Planta parcial de felpa para una buena amortiguación y comodidad
+- Talón y puntera integrados para una mayor sujeción
 - Tejido suave y resistente al desgaste
+- Canalé elástico en la parte de arriba
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B018AAVTSS/?tag=tolees-21)
