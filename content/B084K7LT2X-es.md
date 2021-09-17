@@ -1,0 +1,32 @@
+---
+layout: post
+title: 'eONE Entertainment - Puñales por la espa al 49.94 % de descuento'
+date: 2021-09-17 14:27:52
+image: 'https://m.media-amazon.com/images/I/51M5GHMcIYL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B084K7LT2X-es eONE Entertainment - Puñales por la espalda [DVD]'
+sku: 'B084K7LT2X-es'
+tags: [ 'DVD','Featured Categories','Películas','Películas y TV','Policíaco, negro y thriller','eone entertainment', ]
+actualPrice: 4.0 EUR
+currency: EUR
+price: 4.0
+comparePrice: 7.99 EUR
+prodname: 'eONE Entertainment - Puñales por la espalda [DVD]'
+country: 'es'
+flag: '🇪🇸'
+brand: 'eONE Entertainment'
+buyurl: 'https://www.amazon.es/dp/B084K7LT2X/?tag=tolees-21'
+descuento: '49.94'
+average: '4.42333333333333'
+---
+
+Ahora mismo tienes [eONE Entertainment - Puñales por la espalda [DVD]](https://www.amazon.es/dp/B084K7LT2X/?tag=tolees-21) a 4.0 EUR (original: 7.99 EUR) (49.94 %  de descuento) en el siguiente enlace!
+
+[![eONE Entertainment - Puñales por la espa](https://m.media-amazon.com/images/I/51M5GHMcIYL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B084K7LT2X/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Visítala!!!](https://www.amazon.es/dp/B084K7LT2X/?tag=tolees-21)
