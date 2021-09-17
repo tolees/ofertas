@@ -28,8 +28,8 @@ Está [MICHELIN 009446 Quita arañazos Coche](https://www.amazon.es/dp/B00K5S2TF
 
 ℹ️:
 
-- Tubo de 100 ml.
 - Quita arañazos para carrocerías, todas las pinturas. Elimina los arañazos ligeros, devuelve a la pintura Todo su brillo.
+- Tubo de 100 ml.
 - Para todo tipo de pinturas: barnizadas, metálicas, Mate, nacaradas. Restaura el brillo.
 - Uso fácil y rápido. Para todos los colores de pintura.
 

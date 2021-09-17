@@ -29,7 +29,7 @@ Está [TRIXIE Pelota Denta Fun para Perros](https://www.amazon.es/dp/B001BYOMXA/
 ℹ️:
 
 - caucho natural
-- sabor menta
 - masajea las encías
+- sabor menta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001BYOMXA/?tag=tolees-21)

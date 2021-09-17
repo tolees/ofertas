@@ -28,9 +28,9 @@ Tienes [Bose Companion 20 - Sistema de altavoces multimedia](https://www.amazon.
 
 ℹ️:
 
-- Contenido de la caja: altavoz izquierdo, altavoz derecho, cable de altavoz, cable de audio, cable de la fuente de alimentación, cable de alimentación CA, unidad de control y cable
-- Entrada de audio y salida de auriculares Jack 3.5 mm
 - La unidad de control versátil ofrece un botón de silencio mediante una sola pulsación y un control de volumen giratorio
+- Entrada de audio y salida de auriculares Jack 3.5 mm
 - Tecnología Proprietary TrueSpace estéreo circuito de procesamiento digital
+- Contenido de la caja: altavoz izquierdo, altavoz derecho, cable de altavoz, cable de audio, cable de la fuente de alimentación, cable de alimentación CA, unidad de control y cable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005EPOFTI/?tag=tolees-21)
