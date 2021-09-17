@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Subblim SUB-TRB-2WCT01 Trolley para Port al 39.38 % de descuento'
-date: 2021-09-10 09:01:14
+date: 2021-09-17 12:34:17
 image: 'https://m.media-amazon.com/images/I/319jQG9C-yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Está [Subblim SUB-TRB-2WCT01 Trolley para Portatil 2 Ruedas Subblim 13 3"-17"  
 ℹ️:
 
 - Composicion: nylon compartimento para portatil: 13,3"-17" interior
-- ruedas: 2, bolsillos: 5
 - Tipo de cierre: cremallera velcro interior: acolchado
+- ruedas: 2, bolsillos: 5
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081RXRWX6/?tag=tolees-21)
