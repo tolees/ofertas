@@ -28,11 +28,11 @@ Tienes [WMF Living Lounge Frutero Cesta  Acero Inoxidable Mate  19 cm](https://w
 
 ℹ️:
 
-- Fácil de limpiar
-- Diseñado por estudio Metz y Kindler
+- Permite la circulación del aire.
 - Apertura inclinada para un mejor acceso y reposición
 - 19cm de diámetro y 26cm de altura
-- Permite la circulación del aire.
 - Fácil de limpiar
+- Fácil de limpiar
+- Diseñado por estudio Metz y Kindler
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000FQFTTG/?tag=tolees-21)

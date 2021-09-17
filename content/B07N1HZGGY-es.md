@@ -29,7 +29,7 @@ Está [Superga 2730-cotu  Zapatillas de Gimnasia Mujer  Rosa  Pink Skin W6y   39
 ℹ️:
 
 - Material exterior: tela
-- Material de la suela: goma
 - Forro: tela
+- Material de la suela: goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N1HZGGY/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Playstation - The Last of Us Parte II](https://www.amazon.es/dp/B01N6IVNU
 
 ℹ️:
 
-- Los jugadores asumirán el control de Ellie
-- Es un juego para un solo jugador
 - Tipo de producto: videojuego
+- Es un juego para un solo jugador
+- Los jugadores asumirán el control de Ellie
 - Plataforma del juego: PlayStation 4
 - Es un videojuego de acción y aventura
 
