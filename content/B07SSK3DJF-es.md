@@ -28,12 +28,12 @@ En este momento está [Geox D TABELYA A  Zapatillas  Negro  Black/Gun C9b1g   35
 
 🔎:
 
-- Material de la suela: Goma
-- Material exterior: Cuero
 - Tipo de tacón: Plano
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Revestimiento: Malla
 - Cierre: Cordones
+- Material exterior: Cuero
+- Material de la suela: Goma
 - Altura del tacón: 4 centímetros
+- Revestimiento: Malla
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SSK3DJF/?tag=tolees-21)

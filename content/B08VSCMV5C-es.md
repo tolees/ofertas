@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.39 % en adidas GN7505 Team Base tee Sweatshirt M'
-date: 2021-09-04 02:04:04
+date: 2021-09-17 00:29:49
 image: 'https://m.media-amazon.com/images/I/31jjhiD3FNS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [adidas GN7505 Team Base tee Sweatshirt Mens Team Solar Green L](https://
 
 ℹ️:
 
-- Corte semi-ajustado
 - Cuello de pico
+- Corte semi-ajustado
 - Logotipo de Adidas en la parte delantera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08VSCMV5C/?tag=tolees-21)
