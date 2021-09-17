@@ -28,10 +28,10 @@ Tienes [DC Shoes Trase TX  Zapatillas Hombre  DC Navy/Orange  37 EU](https://www
 
 🔎:
 
-- Construcción vulcanizada para sentir mejor la tabla y la flexibilidad de la suela
-- Parte superior de lona
-- Tejido interior de malla
 - Logo HD estampado
+- Construcción vulcanizada para sentir mejor la tabla y la flexibilidad de la suela
+- Tejido interior de malla
+- Parte superior de lona
 - Suela exterior de goma adherente resistente a la abrasión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0833MLS9T/?tag=tolees-21)
