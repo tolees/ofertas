@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Grand Court Base  Sneaker Mujer  Footwear White/Plati
 
 🔎:
 
-- Corte regular
 - La parte superior de cuero sintético
 - Cordones de zapatos
+- Corte regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SDH67RZ/?tag=tolees-21)

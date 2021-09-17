@@ -29,7 +29,7 @@ En este momento está [Element Crail - Camiseta de Manga Corta para Hombre Camis
 🔎:
 
 - Logo del árbol en contraste bordado en el pecho
-- Tela: Tejido de punto flameado de algodón [200 g/m2]
 - Corte: corte normal
+- Tela: Tejido de punto flameado de algodón [200 g/m2]
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079YYB3HD/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [FILA Morro Bay Slipper 2.0 wmn Sandalia Mujer  azul  Dres
 🔎:
 
 - Tipo de tejido: 100% poliuretano
-- Correa
-- x
 - Suela exterior de EVA moldeada
+- x
+- Correa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07V8NCRVG/?tag=tolees-21)
