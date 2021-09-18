@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heno de Pravia 368048 Limpieza Personal  al 60.60 % de descuento'
-date: 2021-09-16 20:56:51
+date: 2021-09-18 15:38:29
 image: 'https://m.media-amazon.com/images/I/313nh8T6qpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Heno de Pravia 368048 Limpieza Personal 1 Unidad  300 ml](ht
 
 🔎:
 
+- Limpieza personal heno de pravia
 - 368048
 - Producto de origen natural
-- Limpieza personal heno de pravia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JVLJMF7/?tag=tolees-21)
