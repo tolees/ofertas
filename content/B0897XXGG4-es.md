@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s O.G Batwing Polo  Clarkia Navy Pe al 40.72 % de rebaja'
-date: 2021-09-17 20:13:31
+date: 2021-09-18 20:22:24
 image: 'https://m.media-amazon.com/images/I/31Ku5B-T5oS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B0897XXGG4/?tag=tolees-21'
 descuento: '40.72'
-average: '17.7648717948718'
+average: '18.06175'
 ---
 
 Tienes [Levi s O.G Batwing Polo  Clarkia Navy Peony  XS para Hombre](https://www.amazon.es/dp/B0897XXGG4/?tag=tolees-21) con precio final de  29.64 EUR (original: 50.0 EUR) (40.72 %  de rebaja) aqui!

@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Spider-Man: Un Nuevo Universo [DVD] al 47.09 % de descuento'
-date: 2020-05-21 20:01:47
-image: 'https://m.media-amazon.com/images/I/51DApmr3byL._SL400_.jpg'
+title: 'Sony - Spider-Man: Un Nuevo Universo [DV al 49.69 % de descuento'
+date: 2021-09-18 20:48:19
+image: 'https://m.media-amazon.com/images/I/51DApmr3byL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07MSYGZT7-es Spider-Man: Un Nuevo Universo [DVD]'
+slug: 'B07MSYGZT7-es Sony - Spider-Man: Un Nuevo Universo [DVD]'
 sku: 'B07MSYGZT7-es'
-tags: [  ]
-actualPrice: 8.99 EUR
+tags: [ 'Animación','DVD','Featured Categories','Infantil y familiar','Películas','Películas y TV','sony', ]
+actualPrice: 4.0 EUR
 currency: EUR
-price: 8.99
-comparePrice: 16.99 EUR
-prodname: 'Spider-Man: Un Nuevo Universo [DVD]'
+price: 4.0
+comparePrice: 7.95 EUR
+prodname: 'Sony - Spider-Man: Un Nuevo Universo [DVD]'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07MSYGZT7/?tag=tolees-21'
-descuento: '47.09'
-average: '8.656666666666666'
+descuento: '49.69'
+average: '7.4925'
 ---
 
-Ahora mismo tienes [Spider-Man: Un Nuevo Universo [DVD]](https://www.amazon.es/dp/B07MSYGZT7/?tag=tolees-21) a 8.99 EUR (original: 16.99 EUR) (47.09 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sony - Spider-Man: Un Nuevo Universo [DVD]](https://www.amazon.es/dp/B07MSYGZT7/?tag=tolees-21) a 4.0 EUR (original: 7.95 EUR) (49.69 %  de descuento) en el siguiente enlace!
 
-[![Spider-Man: Un Nuevo Universo [DVD]](https://m.media-amazon.com/images/I/51DApmr3byL._SL400_.jpg)](https://www.amazon.es/dp/B07MSYGZT7/?tag=tolees-21)
+[![Sony - Spider-Man: Un Nuevo Universo [DV](https://m.media-amazon.com/images/I/51DApmr3byL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07MSYGZT7/?tag=tolees-21)
 
 🔎:
 
