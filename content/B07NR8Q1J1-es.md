@@ -28,10 +28,10 @@ Está [Syoss - Spray protector térmico  2 uds de 250ml  500ml   Antiencrespamie
 
 ℹ️:
 
-- Importante: No usar la plancha sobre el cabello húmedo; Puede dañarlo; No vaporizar hacia los ojos
-- Escudo protector del calor hasta 220ºC
 - El spray protector térmico de Syoss aporta 24h antiencrespamiento
 - Marca desarrollada y probada con peluqueros; Productos para peinados duraderos como de peluquería
+- Escudo protector del calor hasta 220ºC
+- Importante: No usar la plancha sobre el cabello húmedo; Puede dañarlo; No vaporizar hacia los ojos
 - Combate la humedad y asegura un alisado adecuado; Suaviza el cabello
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NR8Q1J1/?tag=tolees-21)

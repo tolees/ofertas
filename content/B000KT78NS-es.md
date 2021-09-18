@@ -28,9 +28,9 @@ En este momento está [Clairefontaine Trophée - Mini resma de papel  100 hojas 
 
 🔎:
 
-- Mini resma de papel que contiene 100 hojas A4
-- Producto certificado FSC para una gestión duradera de los bosques
 - Para impresiones laser y impresora de tinta
+- Producto certificado FSC para una gestión duradera de los bosques
+- Mini resma de papel que contiene 100 hojas A4
 - Las hojas tienen un grosor de 80 g/m²
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000KT78NS/?tag=tolees-21)
