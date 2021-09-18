@@ -29,7 +29,7 @@ En este momento está [Lee Wobbly Logo tee Camisetas  Granite Green  L/Tall para
 🔎:
 
 - Corte regular
-- Algodón orgánico
 - KnITS
+- Algodón orgánico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CV8X8GG/?tag=tolees-21)
