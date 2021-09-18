@@ -29,9 +29,9 @@ Ahora mismo tienes [Samsung Galaxy S8 - Smartphone libre de 5.8" QHD+  4 G  Blue
 🔎:
 
 - Sistema operativo: Android
-- Capacidad de almacenamiento de 64 GB y memoria RAM de 4 GB con micro SD Slot
 - Procesador 10 mm Octa-Core S, pantalla infinita de 5.8" QHD
-- Resistente al agua y al polvo (certificado IP 68), sistema de reconocimiento de iris y huella dactilar
 - Cámara dual 12 MP OIS + 8 MP AF, selfies con autofocus
+- Capacidad de almacenamiento de 64 GB y memoria RAM de 4 GB con micro SD Slot
+- Resistente al agua y al polvo (certificado IP 68), sistema de reconocimiento de iris y huella dactilar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XWYWQ2L/?tag=tolees-21)
