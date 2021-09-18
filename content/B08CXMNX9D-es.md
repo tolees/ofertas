@@ -28,9 +28,9 @@ Tienes [adidas ROGUERA  Zapatillas Deportivas Mujer  FTWBLA/FTWBLA/NEGBÁS  39 1
 
 🔎:
 
-- Parte superior de piel lisa
 - Mediasuela ligera de EVA; plantilla ligera de EVA con tecnología Adibouncy
-- Suela de goma; forro textil
 - Cierre de cordones
+- Parte superior de piel lisa
+- Suela de goma; forro textil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CXMNX9D/?tag=tolees-21)
