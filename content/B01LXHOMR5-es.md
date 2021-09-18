@@ -28,11 +28,11 @@ Tienes [Bosch Professional GSS 18V-10 Orbital  Plato lijador 113 x 101 mm  micro
 
 ℹ️:
 
-- La lijadora permite un trabajo versátil gracias a la placa lijadora intercambiable
-- Lijadora orbital sin cable GSS 18V-10 de Bosch Professional: click & go
-- Larga vida útil gracias al plato lijador metálico de alta durabilidad y al sistema de sujeción de fácil manejo
-- Trabajo limpio gracias a la aspiración directa en una caja para polvo con microfiltro
-- Incluye: GSS 18V-10, 3 hojas de lija G120, 3 placas de lija, 1 punzonadora, 1 destornillador (3165140871662)
 - Professional 18V System. Máximo rendimiento. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o existentes Bosch Professional del mismo voltaje
+- Trabajo limpio gracias a la aspiración directa en una caja para polvo con microfiltro
+- Lijadora orbital sin cable GSS 18V-10 de Bosch Professional: click & go
+- Incluye: GSS 18V-10, 3 hojas de lija G120, 3 placas de lija, 1 punzonadora, 1 destornillador (3165140871662)
+- La lijadora permite un trabajo versátil gracias a la placa lijadora intercambiable
+- Larga vida útil gracias al plato lijador metálico de alta durabilidad y al sistema de sujeción de fácil manejo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LXHOMR5/?tag=tolees-21)

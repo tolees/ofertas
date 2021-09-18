@@ -28,10 +28,10 @@ Tienes [Vans Authentic - Zapatillas de Tela  Unisex  color Borgoña  port royale
 
 ℹ️:
 
-- Vans
+- Authentic
+- Unisex
 - VQER5U8
 - Zapatillas
-- Unisex
-- Authentic
+- Vans
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B006GX0EZG/?tag=tolees-21)
