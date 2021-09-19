@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok AZTREK 96  Gymnastics Shoe Mujer  al 64.26 % de descuento'
-date: 2021-09-16 09:38:18
+date: 2021-09-19 06:35:49
 image: 'https://m.media-amazon.com/images/I/41kr6z0S-zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Está [Reebok AZTREK 96  Gymnastics Shoe Mujer  White/Jasmine Pink/Green Slate  
 ℹ️:
 
 - Vintage style
-- Upper in fabric and synthetic material S
 - Running shoes
+- Upper in fabric and synthetic material S
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08146GGBC/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.44 % en Desconocido - McFarlane Toys The Walking'
-date: 2021-09-13 16:12:13
+date: 2021-09-19 07:33:41
 image: 'https://m.media-amazon.com/images/I/511dxjqGn7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

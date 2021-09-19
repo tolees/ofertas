@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pilot G207 Tinta de repuesto  Azul  12 U con un 36.33 % de descuento'
-date: 2021-09-09 11:30:01
+date: 2021-09-19 07:38:34
 image: 'https://m.media-amazon.com/images/I/31BaQuXQg3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
