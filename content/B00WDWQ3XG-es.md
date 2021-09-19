@@ -28,10 +28,10 @@ En este momento está [Lexibook HP010AV Avengers Marvel  Vengadores-Cascos audio
 
 🔎:
 
-- Al ser extremadamente livianos, podrás llevarlos a todas partes contigo: al colegio, de vacaciones..
-- Respuesta de frecuencia: de 10 a 24 000 Hz, Impedancia (resistencia acústica): 150 Ohmios
 - La longitud de los laterales de la diadema puede ajustarse para adaptarla perfectamente a tu cabeza
 - Se pueden plegarse para guardarlos en tu bolsa, compatible con todos los lectores audio y vídeo con entrada jack
 - Para proteger tu capacidad auditiva, la potencia de los cascos se ha limitado a un máximo de 100 mW, Sensibilidad de 85 dB
+- Al ser extremadamente livianos, podrás llevarlos a todas partes contigo: al colegio, de vacaciones..
+- Respuesta de frecuencia: de 10 a 24 000 Hz, Impedancia (resistencia acústica): 150 Ohmios
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00WDWQ3XG/?tag=tolees-21)
