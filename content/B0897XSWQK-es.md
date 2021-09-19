@@ -28,7 +28,7 @@ Ahora mismo tienes [Levi s O.G Batwing Polo  Kumquat  XS para Hombre](https://ww
 
 🔎:
 
-- Tamaño del paquete: 47 x 283 x 174 cm
 - Estándar
+- Tamaño del paquete: 47 x 283 x 174 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897XSWQK/?tag=tolees-21)

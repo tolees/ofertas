@@ -28,8 +28,8 @@ Está [adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Vapour Pink/White/Go
 
 ℹ️:
 
+- Cordones de zapatos
 - Suela de goma
 - Corte regular
-- Cordones de zapatos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HG3PLL6/?tag=tolees-21)

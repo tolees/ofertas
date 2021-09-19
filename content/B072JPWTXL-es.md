@@ -28,10 +28,10 @@ Ahora mismo tienes [Neewer Espejo de Maquillaje Circular de Doble Cara de Crista
 
 🔎:
 
-- Diseñado especialmente para la luz del anillo de 18 pulgadas; Nota: La luz del anillo y el soporte ligero no se incluyen
-- De doble cara: un lado es normal, el otro lado se puede ampliar 3 veces para ver el detalle Fácil de ajustar la expresión al tomar un selfie
-- Fácil de ajustar la expresión al tomar un selfie
-- Diseño del eslabón giratorio de 180 grados, buena opción para que la gente forme y utilice la luz del anillo del LED
 - El adaptador puede ayudar a montar el espejo en la luz del anillo
+- Fácil de ajustar la expresión al tomar un selfie
+- De doble cara: un lado es normal, el otro lado se puede ampliar 3 veces para ver el detalle Fácil de ajustar la expresión al tomar un selfie
+- Diseñado especialmente para la luz del anillo de 18 pulgadas; Nota: La luz del anillo y el soporte ligero no se incluyen
+- Diseño del eslabón giratorio de 180 grados, buena opción para que la gente forme y utilice la luz del anillo del LED
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072JPWTXL/?tag=tolees-21)

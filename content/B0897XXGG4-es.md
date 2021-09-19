@@ -28,7 +28,7 @@ Tienes [Levi s O.G Batwing Polo  Clarkia Navy Peony  XS para Hombre](https://www
 
 🔎:
 
-- Tamaño del paquete: 47 x 283 x 174 cm
 - Estándar
+- Tamaño del paquete: 47 x 283 x 174 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0897XXGG4/?tag=tolees-21)

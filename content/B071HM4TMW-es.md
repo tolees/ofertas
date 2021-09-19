@@ -28,10 +28,10 @@ Tienes [Tommy Hilfiger H2285arlow 1d  Zapatillas Hombre  Blanco  White 596   39 
 
 🔎:
 
-- Forro: textil
-- Suela interior: textil
-- Tipo de tacón: plano
 - Parte superior: textil
+- Forro: textil
 - Material de la suela: Caucho
+- Tipo de tacón: plano
+- Suela interior: textil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071HM4TMW/?tag=tolees-21)
