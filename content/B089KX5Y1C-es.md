@@ -28,10 +28,10 @@ Está [Doctor Collector- Jurassic Park Welcome Kit](https://www.amazon.es/dp/B08
 
 ℹ️:
 
+- Si alguna vez te has preguntado como habría sido visitar el parque original este Kit va a hacer realidad tus sueños.
 - Producto con licencia oficial
 - Este es uno de los Welcome Kits que han aparecido en el antiguo centro de visitantes de Jurassic Park.
 - Incluye: Caja de metal, Carta de bienvenida, Ticket de entrada, Banderola “Cuando los dinosaurios dominaban la tierra”, Mapa Tríptico de Jurassic Park, Folleto de instrucciones de las gafas de visión nocturna, Pase VIP con correa, Pin logo Jurassic Park, Parche bordado, Colección exclusiva de chapas de Jurassic Park, Postal exclusiva de Jurassic Park, 1 pegatina
-- Si alguna vez te has preguntado como habría sido visitar el parque original este Kit va a hacer realidad tus sueños.
 - Kit es un producto coleccionable, viene en una caja de metal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089KX5Y1C/?tag=tolees-21)

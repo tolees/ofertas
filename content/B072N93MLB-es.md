@@ -28,9 +28,9 @@ En este momento está [Cooler Master Devastator 3 - Teclado  Alámbrico  USB  In
 
 🔎:
 
-- Compatible devices: PC/servidor
-- Peso del paquete: 1.352 kilograms
 - Coolermaster keyboard and mouse bundle devastator 3, 7 color led; us layout
 - Tecnología de conectividad: Alámbrico
+- Compatible devices: PC/servidor
+- Peso del paquete: 1.352 kilograms
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B072N93MLB/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Casio Reloj de Pulsera B640WD-1AVEF](https://www.amazon.es/d
 
 🔎:
 
-- La duración de la batería es de 3 años
 - Tiene indicador de hora de 12/24 horas y pantalla destellante
 - Caja de resina y correa de acero inoxidable con cierre ajustable
-- Incluye cronómetro, alarma, luz LED, temporizadores y calendario automático
+- La duración de la batería es de 3 años
 - Resistente al agua hasta 5 bar / 50 metros
+- Incluye cronómetro, alarma, luz LED, temporizadores y calendario automático
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008S7K2UU/?tag=tolees-21)

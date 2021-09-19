@@ -29,7 +29,7 @@ Tienes [Tommy Hilfiger Core Twill Classic Shirt Camisa  Blanco 100  40 para Homb
 ℹ️:
 
 - Cinta distintiva en el interior del cuello
-- Costuras a contraste en el botón final
 - Modelo con cuello levantado
+- Costuras a contraste en el botón final
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B018XBCZA0/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [BOSS Biado r 10233753 01 Camisa  Verde  M para Hombre](ht
 
 🔎:
 
-- Logotipo curvado en contraste
-- libertad de movimiento
-- Mezcla de algodón que regula la humedad
 - Acabado de alta calidad
+- Logotipo curvado en contraste
+- Mezcla de algodón que regula la humedad
+- libertad de movimiento
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CF3HJ8S/?tag=tolees-21)
