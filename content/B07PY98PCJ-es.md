@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! Animation: Simpsons - Maggi con un 35.09 % de descuento'
-date: 2021-09-11 19:17:55
+date: 2021-09-19 09:00:19
 image: 'https://m.media-amazon.com/images/I/41O-0r782HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07PY98PCJ/?tag=tolees-21'
 descuento: '35.09'
-average: '10.7424731182796'
+average: '10.7435106382979'
 ---
 
 En este momento está [Funko - Pop! Animation: Simpsons - Maggie Figura De Vinil  Multicolor  39727 ](https://www.amazon.es/dp/B07PY98PCJ/?tag=tolees-21) a 10.84 EUR (original: 16.7 EUR) (35.09 %  de descuento) en el siguiente enlace!

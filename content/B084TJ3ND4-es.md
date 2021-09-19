@@ -28,10 +28,10 @@ Tienes [Taurus Babel RCH - Ventilador de torre digital extra alto  84cm de altur
 
 🔎:
 
-- Máxima comodidad, control remoto para controlar todas las funciones del ventilador; Cuenta con un espacio para su almacenaje
-- Temporizador de hasta 12 horas con apagado automático
-- Movimiento giratorio con el que reparte el flujo de aire de forma uniforme por toda la estancia; Se puede activar o desactivar
-- EXTRA ALTO, POTENTE Y DIGITA:Ventilador de torre potente de 45W con 84 cm de altura y base redonda antideslizante; Flujo de aire de hasta 43 m3/min; Con selector táctil y pantalla digital con indicador de temperatura ambiente
 - 3 modos de funcionamiento: normal, brisa y noche; 3 niveles de potencia
+- Temporizador de hasta 12 horas con apagado automático
+- EXTRA ALTO, POTENTE Y DIGITA:Ventilador de torre potente de 45W con 84 cm de altura y base redonda antideslizante; Flujo de aire de hasta 43 m3/min; Con selector táctil y pantalla digital con indicador de temperatura ambiente
+- Máxima comodidad, control remoto para controlar todas las funciones del ventilador; Cuenta con un espacio para su almacenaje
+- Movimiento giratorio con el que reparte el flujo de aire de forma uniforme por toda la estancia; Se puede activar o desactivar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084TJ3ND4/?tag=tolees-21)
