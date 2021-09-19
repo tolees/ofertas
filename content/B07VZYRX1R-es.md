@@ -29,9 +29,9 @@ Está [Russell Hobbs Sous Vide - Olla de cocción lenta  al vacío  recipiente c
 ℹ️:
 
 - Recipiente interno de cerámica, extraíble y apto para el lavavajillas
-- Funcionamiento versátil tres en uno: cocción lenta clásica, medidor de temperatura de precisión y cocción avanzada al vacío; fácil de usar gracias a su pantalla digital led
+- Potencía de 350 vatios
 - Base de acero inoxidable cepillado con medidor integrado en la tapa favorece la regulación constante del agua; capacidad para 6 o más raciones
 - La tapa de cristal templado fácil ita el transporte y lo mantiene todo limpio; las asas son de gran tamaño y tacto frío
-- Potencía de 350 vatios
+- Funcionamiento versátil tres en uno: cocción lenta clásica, medidor de temperatura de precisión y cocción avanzada al vacío; fácil de usar gracias a su pantalla digital led
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VZYRX1R/?tag=tolees-21)

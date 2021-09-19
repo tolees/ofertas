@@ -28,9 +28,9 @@ Ahora mismo tienes [Teletubbies Peluche saltarín PO  28 cm  Giochi Preziosi TLB
 
 🔎:
 
-- Juguete con una altura de 28 cm
 - Salta con Po Saltarina Po es una teletubbie feliz a la que le encanta saltar
-- Requiere 3 pilas AA
 - Es perfecto para fans de los Teletubbies que tengan a partir de 18 meses
+- Juguete con una altura de 28 cm
+- Requiere 3 pilas AA
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01G5MLFN2/?tag=tolees-21)

@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Objetivo Olympus M.Zuiko Digital 14-42 m al 53.59 % de rebaja'
-date: 2020-08-22 11:11:22
-image: 'https://m.media-amazon.com/images/I/41-BlG4TcJL._SL400_.jpg'
+title: 'Objetivo Olympus M.Zuiko Digital 14-42 m al 45.44 % de rebaja'
+date: 2021-09-19 15:03:16
+image: 'https://m.media-amazon.com/images/I/21P0vVvhIJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00I0TUQX4-es Objetivo Olympus M.Zuiko Digital 14-42 mm F3.5-5.6 EZ Zoom...'
 sku: 'B00I0TUQX4-es'
-tags: [  ]
-actualPrice: 185.19 EUR
+tags: [ 'Electrónica','Fotografía y videocámaras','Objetivos para cámaras','Objetivos para cámaras EVIL','Objetivos para cámaras y videocámaras','olympus', ]
+actualPrice: 194.88 EUR
 currency: EUR
-price: 185.19
-comparePrice: 399.0 EUR
-prodname: 'Objetivo Olympus M.Zuiko Digital 14-42 mm F3.5-5.6 EZ  Zoom estándar  Adecuado para Todas Las cámaras MFT  Modelos Olympus OM-D & Pen  Serie G de Panasonic   Negro'
+price: 194.88
+comparePrice: 357.17 EUR
+prodname: 'Objetivo Olympus M.Zuiko Digital 14-42 mm F3.5-5.6 EZ  Zoom estándar  Adecuado para Todas Las cámaras MFT  Modelos Olympus OM-D & Pen  Serie G de Panasonic   Negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Olympus'
 buyurl: 'https://www.amazon.es/dp/B00I0TUQX4/?tag=tolees-21'
-descuento: '53.59'
-average: '185.19'
+descuento: '45.44'
+average: '190.035'
 ---
 
-Tienes [Objetivo Olympus M.Zuiko Digital 14-42 mm F3.5-5.6 EZ  Zoom estándar  Adecuado para Todas Las cámaras MFT  Modelos Olympus OM-D & Pen  Serie G de Panasonic   Negro](https://www.amazon.es/dp/B00I0TUQX4/?tag=tolees-21) con precio final de  185.19 EUR (original: 399.0 EUR) (53.59 %  de rebaja) aqui!
+Tienes [Objetivo Olympus M.Zuiko Digital 14-42 mm F3.5-5.6 EZ  Zoom estándar  Adecuado para Todas Las cámaras MFT  Modelos Olympus OM-D & Pen  Serie G de Panasonic   Negro](https://www.amazon.es/dp/B00I0TUQX4/?tag=tolees-21) con precio final de  194.88 EUR (original: 357.17 EUR) (45.44 %  de rebaja) aqui!
 
-[![Objetivo Olympus M.Zuiko Digital 14-42 m](https://m.media-amazon.com/images/I/41-BlG4TcJL._SL400_.jpg)](https://www.amazon.es/dp/B00I0TUQX4/?tag=tolees-21)
+[![Objetivo Olympus M.Zuiko Digital 14-42 m](https://m.media-amazon.com/images/I/21P0vVvhIJL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00I0TUQX4/?tag=tolees-21)
 
 🔎:
 
+- Óptimo procesamiento y bayoneta de metal de alta calidad
+- Óptima calidad de imagen, a pesar de su diseño compacto, con imágenes nítidas hasta los bordes de la imagen
+- El zoom 3x con calidad de imagen se presenta con confianza para la fotografía de paisajes, calles y retratos, por lo que es el compañero adecuado en cada situación fotográfica
+- Al usar la aplicación OI.Share, puede incluso acercarse a distancia usando el zoom electrónico y el autoenfoque, rápido y silencioso, también es óptimo para sutiles grabaciones de vídeos y fotos
+- Ámbitos de aplicación: paisaje, viaje, arquitectura y retrato; equivalente a un objetivo de 28 - 84 mm, 35 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00I0TUQX4/?tag=tolees-21)
