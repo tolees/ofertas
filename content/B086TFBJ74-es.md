@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 500 Varsity Pack  Zapatillas al 37.33 % de rebaja'
-date: 2021-09-15 08:16:26
+date: 2021-09-19 20:29:53
 image: 'https://m.media-amazon.com/images/I/41clCiQoOgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B086TFBJ74/?tag=tolees-21'
 descuento: '37.33'
-average: '49.6427272727273'
+average: '49.2361538461538'
 ---
 
 Tienes [New Balance 500 Varsity Pack  Zapatillas Hombre  Magnet  40 EU](https://www.amazon.es/dp/B086TFBJ74/?tag=tolees-21) con precio final de  47.0 EUR (original: 75.0 EUR) (37.33 %  de rebaja) aqui!
