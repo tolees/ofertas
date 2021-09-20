@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung SAEPTA20EWE - Transformador carg al 59.88 % de descuento'
-date: 2021-09-18 11:55:48
+date: 2021-09-20 14:32:48
 image: 'https://m.media-amazon.com/images/I/31n6r4uSoxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B01M4I7FMC/?tag=tolees-21'
 descuento: '59.88'
-average: '10.7081818181819'
+average: '10.6769565217392'
 ---
 
 Ahora mismo tienes [Samsung SAEPTA20EWE - Transformador carga rápida  15 W  2 Amp  USB Tipo C - Version española](https://www.amazon.es/dp/B01M4I7FMC/?tag=tolees-21) a 9.99 EUR (original: 24.9 EUR) (59.88 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Samsung SAEPTA20EWE - Transformador carga rápida  15 W  2 A
 
 🔎:
 
+- Longitud del cable: 1.5 m
 - USB Tipo C
 - 15w
 - Carga rápida
-- Longitud del cable: 1.5 m
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M4I7FMC/?tag=tolees-21)
