@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Base-s r t s/s Camiseta  Azul al 50.20 % de descuento'
-date: 2021-09-12 07:36:52
+date: 2021-09-20 21:44:31
 image: 'https://m.media-amazon.com/images/I/319YSz2kmHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [G-STAR RAW Base-s r t s/s Camiseta  Azul  Sartho Blue 336-60
 
 🔎:
 
-- Bordado de G-Star RAW en el pecho
 - Cuello redondo
+- Bordado de G-Star RAW en el pecho
 - Bajo recto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VNMLGHC/?tag=tolees-21)

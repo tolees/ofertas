@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.00 % en New Balance WEVOZV1  Zapatillas para Cor'
-date: 2021-08-22 17:17:52
+date: 2021-09-20 21:23:46
 image: 'https://m.media-amazon.com/images/I/31-nbvBPmoS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
