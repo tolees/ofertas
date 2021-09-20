@@ -28,10 +28,10 @@ En este momento está [Taladro Atornillador a batería  20 V  Worx WX178.9](http
 
 🔎:
 
-- Función de pequeños impulsos durante la rotación del porta brocas para poder trabajar en superficies curvas o resbaladizas
-- Función de apriete automático del porta brocas para mayor comodidad y mejor ajuste. 30% más de fuerza que a modo manual
-- Batería y cargador no incluidos
 - Función de parada automática de atornillado para evitar dañar la superficie
+- Batería y cargador no incluidos
+- Función de apriete automático del porta brocas para mayor comodidad y mejor ajuste. 30% más de fuerza que a modo manual
 - Plataforma Powershare de Worx; baterías 20 V intercambiables con otras máquinas de Worx
+- Función de pequeños impulsos durante la rotación del porta brocas para poder trabajar en superficies curvas o resbaladizas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0746PYJH3/?tag=tolees-21)
