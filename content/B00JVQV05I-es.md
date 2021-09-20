@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.94 % en Disney - La Cenicienta  2014  [DVD]'
-date: 2021-09-18 20:41:06
+date: 2021-09-20 02:30:44
 image: 'https://m.media-amazon.com/images/I/51mX6DjJIML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B00JVQV05I/?tag=tolees-21'
 descuento: '49.94'
-average: '8.45719101123598'
+average: '8.43229050279332'
 ---
 
 Tienes [Disney - La Cenicienta  2014  [DVD]](https://www.amazon.es/dp/B00JVQV05I/?tag=tolees-21) con un 49.94 % de descuento con precio de oferta de 4.0 EUR (original: 7.99 EUR) en el siguiente enlace!
