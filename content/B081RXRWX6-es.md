@@ -29,7 +29,7 @@ Está [Subblim SUB-TRB-2WCT01 Trolley para Portatil 2 Ruedas Subblim 13 3"-17"  
 ℹ️:
 
 - Tipo de cierre: cremallera velcro interior: acolchado
-- ruedas: 2, bolsillos: 5
 - Composicion: nylon compartimento para portatil: 13,3"-17" interior
+- ruedas: 2, bolsillos: 5
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081RXRWX6/?tag=tolees-21)
