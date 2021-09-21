@@ -28,9 +28,9 @@ En este momento está [Geox D ZOSMA A  Zapatillas Mujer  Azul Marino  39 EU](htt
 
 🔎:
 
-- Material interior: sintético
-- Cierre: cordones
 - Suela: sintética
+- Material interior: sintético
 - Material exterior: piel lisa
+- Cierre: cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLBMW8N/?tag=tolees-21)
