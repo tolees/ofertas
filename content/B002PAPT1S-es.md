@@ -28,10 +28,10 @@ Está [Invicta Specialty 6620 Reloj para Hombre Cuarzo - 45mm](https://www.amazo
 
 ℹ️:
 
-- 2 años de garantía Invicta
-- Este modelo es parte de la colección Invicta Specialty
-- Resistencia a la presión de aqua de 10 bares
 - Esta modelo funciona con un movimiento de Cuarzo preciso
 - El Invicta 6620 tiene una caja de acero inoxidable de 45 millimetros con una esfera plata
+- 2 años de garantía Invicta
+- Resistencia a la presión de aqua de 10 bares
+- Este modelo es parte de la colección Invicta Specialty
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002PAPT1S/?tag=tolees-21)
