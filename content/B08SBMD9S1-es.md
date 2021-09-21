@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEUNG Brochas de maquillaje Kabuki con p al 49.66 % de descuento'
-date: 2021-09-18 00:21:37
+date: 2021-09-21 06:40:13
 image: 'https://m.media-amazon.com/images/I/31DUfOxYkoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
