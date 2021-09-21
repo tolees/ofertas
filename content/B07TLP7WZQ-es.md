@@ -28,8 +28,8 @@ Ahora mismo tienes [Clarks Oakland Craft  Zapatos de Cordones Derby Hombre  Azul
 
 🔎:
 
-- Suela: goma
 - Exterior: piel
+- Suela: goma
 - Interior: textil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TLP7WZQ/?tag=tolees-21)
