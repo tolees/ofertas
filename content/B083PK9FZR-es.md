@@ -28,10 +28,10 @@ Tienes [Element Backwoods Unisex adulto  verde  41 EU](https://www.amazon.es/dp/
 
 🔎:
 
+- Cuello acolchado
 - Diseño trail bajo
 - Media suela de EVA moldeada por compresión
-- Cuello acolchado
-- Interior de malla hecha de poliéster reciclado
 - Cuero resistente al agua
+- Interior de malla hecha de poliéster reciclado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083PK9FZR/?tag=tolees-21)
