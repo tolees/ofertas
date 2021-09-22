@@ -28,10 +28,10 @@ Ahora mismo tienes [Guess Reloj Analógico para Mujer de Cuarzo con Correa en Ca
 
 🔎:
 
-- Caja Material/Color: Acero/Bronce
 - Movimiento: Cuarzo, Display: Analógico
-- Sumergible: 5ATM
-- Correa Material/Color: Caucho/Rosa
 - Diámetro Caja: 39MM
+- Caja Material/Color: Acero/Bronce
+- Correa Material/Color: Caucho/Rosa
+- Sumergible: 5ATM
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0797GZJKQ/?tag=tolees-21)

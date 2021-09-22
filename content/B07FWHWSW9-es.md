@@ -28,9 +28,9 @@ Tienes [Disney Toy Story 4 Figura de juguete Woody  Mattel GDP68 ](https://www.a
 
 🔎:
 
-- Completamente articuladas para divertirse al máximo.
 - A partir de 3 años.​​
 - Cada figura viene a una escala adaptada inspirada en la película.
+- Completamente articuladas para divertirse al máximo.
 - Figuras de los personajes de Toy Story 4 de​DisneyPixar con diseños característicos.
 - Crea tu colección con una gran variedad de coloridos personajes (se venden por separado y están sujetos a disponibilidad).
 

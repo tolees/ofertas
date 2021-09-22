@@ -28,8 +28,8 @@ Está [Garnier Pure Active 3 en 1 - Limpiador  exfoliante y mascarilla para piel
 
 ℹ️:
 
-- Purifica, exfolia y da un acabado mate.
 - Para pieles grasas o con imperfecciones.
+- Purifica, exfolia y da un acabado mate.
 - Se puede utilizar de 3 formas diferentes.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00S191VNW/?tag=tolees-21)
