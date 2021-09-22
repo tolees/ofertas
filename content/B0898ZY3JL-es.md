@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Home Video - Pack Escuadrón suici con un 35.39 % de descuento'
-date: 2021-09-16 12:46:26
+date: 2021-09-22 06:34:02
 image: 'https://m.media-amazon.com/images/I/514iNtcdL0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Home Video'
 buyurl: 'https://www.amazon.es/dp/B0898ZY3JL/?tag=tolees-21'
 descuento: '35.39'
-average: '17.53625'
+average: '16.8433333333333'
 ---
 
 En este momento está [Warner Home Video - Pack Escuadrón suicida + Aves de Presa  Y la fantabulosa emancipación de Harley Quinn  [Blu-ray]](https://www.amazon.es/dp/B0898ZY3JL/?tag=tolees-21) a 11.3 EUR (original: 17.49 EUR) (35.39 %  de descuento) en el siguiente enlace!
