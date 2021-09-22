@@ -28,10 +28,10 @@ Tienes [Helly Hansen HH Secado Rápido Softshell Pantalones de Carga  Hombre  Az
 
 🔎:
 
-- Ripstop de secado rápido
 - Bragueta con cremallera y cierre de cintura de botón plano para un volumen mínimo.
 - Bolsillos traseros
-- Bolsillos para las manos
 - Bolsillos de carga en el exterior de las piernas.
+- Bolsillos para las manos
+- Ripstop de secado rápido
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0789BKQV4/?tag=tolees-21)
