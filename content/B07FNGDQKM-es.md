@@ -28,10 +28,10 @@ Ahora mismo tienes [HOMCOM Stunt Scooter Kick Trick Freestyle Scooter Patinete d
 
 🔎:
 
-- FRENADO SEGURO: Patinete con gran base para los pies antideslizante con sistema de freno de fricción posterior ultrasensible proporciona mayor comodidad y seguridad
 - MANILLAR ERGONÓMICO: Equipado con un manillar ergonómico con revestimiento de PVC antideslizante, lo que te brinda un excelente agarre y una comodidad de uso
-- MEDIDAS TOTALES: 65,5x50x79 cm (LxANxAL); Medidas del pedal: 50x10 cm (LxAN). Recomendado a partir de 8 años
-- RESISTENTE: Este scooter está fabricado de aluminio, ligero y duradero. Cuenta con neumáticos antideslizantes, resistentes al desgaste
+- FRENADO SEGURO: Patinete con gran base para los pies antideslizante con sistema de freno de fricción posterior ultrasensible proporciona mayor comodidad y seguridad
 - PATINETE FREESTYLE: Patinete especialmente diseñado para realizar acrobacias y saltos. También adecuado para dar paseos e ir a cualquier lado, como los demás patinetes
+- RESISTENTE: Este scooter está fabricado de aluminio, ligero y duradero. Cuenta con neumáticos antideslizantes, resistentes al desgaste
+- MEDIDAS TOTALES: 65,5x50x79 cm (LxANxAL); Medidas del pedal: 50x10 cm (LxAN). Recomendado a partir de 8 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FNGDQKM/?tag=tolees-21)

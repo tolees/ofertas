@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Descuento del 36.68 % en VANS Atwood  Zapatillas Hombre  Gris  Ca'
-date: 2021-09-09 11:30:22
-image: 'https://m.media-amazon.com/images/I/41v31+pdUUL._SL500_._SL400_.jpg'
+title: 'Descuento del 36.58 % en VANS Atwood  Zapatillas Hombre  Gris  Ca'
+date: 2021-09-22 11:41:42
+image: 'https://m.media-amazon.com/images/I/41pVDsYK8CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00K5OWZ5E-es VANS Atwood Zapatillas Hombre Gris Canvas Pewter/White 4WV...'
 sku: 'B00K5OWZ5E-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','vans', ]
-actualPrice: 41.16 EUR
+actualPrice: 41.22 EUR
 currency: EUR
-price: 41.16
+price: 41.22
 comparePrice: 65.0 EUR
 prodname: 'VANS Atwood  Zapatillas Hombre  Gris  Canvas Pewter/White 4WV   44 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B00K5OWZ5E/?tag=tolees-21'
-descuento: '36.68'
-average: '42.23'
+descuento: '36.58'
+average: '41.8933333333333'
 ---
 
-Tienes [VANS Atwood  Zapatillas Hombre  Gris  Canvas Pewter/White 4WV   44 EU](https://www.amazon.es/dp/B00K5OWZ5E/?tag=tolees-21) con un 36.68 % de descuento con precio de oferta de 41.16 EUR (original: 65.0 EUR) en el siguiente enlace!
+Tienes [VANS Atwood  Zapatillas Hombre  Gris  Canvas Pewter/White 4WV   44 EU](https://www.amazon.es/dp/B00K5OWZ5E/?tag=tolees-21) con un 36.58 % de descuento con precio de oferta de 41.22 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![VANS Atwood  Zapatillas Hombre  Gris  Ca](https://m.media-amazon.com/images/I/41v31+pdUUL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00K5OWZ5E/?tag=tolees-21)
+[![VANS Atwood  Zapatillas Hombre  Gris  Ca](https://m.media-amazon.com/images/I/41pVDsYK8CL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00K5OWZ5E/?tag=tolees-21)
 
 ℹ️:
 

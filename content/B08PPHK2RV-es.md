@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Swift Run X  Zapatillas Deportivas Hombre  FTWR White
 
 🔎:
 
-- Entresuela amortiguada
-- Zapatillas informales
 - Ajuste ceñido
+- Zapatillas informales
+- Entresuela amortiguada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PPHK2RV/?tag=tolees-21)
