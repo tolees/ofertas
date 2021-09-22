@@ -31,7 +31,7 @@ Tienes [Dreamon Juego de Bolos para niños con alfileres y Bola Bolera elota de 
 - Con los números y los animales impresos en los bolos, los niños pueden aprender jugando.
 - Tamaño de los pines: 19x6,5x6,5cm. Diámetro de bolas: 10 cm.
 - Hecho de la alta calidad PU espuma más suave,protege a su hijo de los perjuicios y los mantiene entretenidos.
-- Para uso en interiores y al aire libre juego.Conveniente por 2 años.
 - Contenido: 6 Pins y 1 bola de bolos.
+- Para uso en interiores y al aire libre juego.Conveniente por 2 años.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NQDXGQ9/?tag=tolees-21)
