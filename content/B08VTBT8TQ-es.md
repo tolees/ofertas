@@ -29,8 +29,8 @@ En este momento está [BANDAI NAMCO Entertainment Iberica - Subnautica Below Zer
 🔎:
 
 - Los misterios sumergidos en el Planeta 4546B
-- la supervivencia es la clave
-- Construye tu hábitat
 - Exploración
+- Construye tu hábitat
+- la supervivencia es la clave
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VTBT8TQ/?tag=tolees-21)

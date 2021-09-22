@@ -28,7 +28,7 @@ Ahora mismo tienes [Geox U MONREALE C  Zapatillas Hombre  Gris De La Paloma  45 
 
 🔎:
 
-- Forma anatómica que se adapta a tus pies
 - Diseño ligero y flexible que ofrece comodidad
+- Forma anatómica que se adapta a tus pies
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BLDT2Q7/?tag=tolees-21)

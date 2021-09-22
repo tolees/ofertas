@@ -28,10 +28,10 @@ En este momento está [Oreo Original Galletas de Cacao  Rellenas de Crema  Pack 
 
 🔎:
 
+- Galletas de cacao rellenas de una deliciosa crema con sabor a vainilla
+- Oreo original en 10 bolsitas individuales, adecuadas para llevar y disfrutar donde quieras
 - Combina la textura crujiente de las láminas de galleta con la suavidad y la cremosidad de la nata
 - Alérgenos: contiene cereales con gluten y soja; puede contener leche
-- Oreo original en 10 bolsitas individuales, adecuadas para llevar y disfrutar donde quieras
 - Conservar en lugar fresco y seco
-- Galletas de cacao rellenas de una deliciosa crema con sabor a vainilla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MA3FPNB/?tag=tolees-21)
