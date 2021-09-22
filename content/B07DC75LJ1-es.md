@@ -28,10 +28,10 @@ Está [Good Smile Company- Nendoroid Overwatch Figura PVC Sombra  Multicolor  GS
 
 ℹ️:
 
+- Colección Overwatch
+- Figura articulada
 - Licencia Oficial
 - Nendoroid
-- Figura articulada
 - Incluye accesorios
-- Colección Overwatch
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DC75LJ1/?tag=tolees-21)

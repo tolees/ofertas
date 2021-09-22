@@ -28,10 +28,10 @@ En este momento está [Pepe Jeans Lucrezia Vestido  803off White  XS para Mujer]
 
 🔎:
 
-- Tipo especial: estándar
-- Textura suave
-- Tipo de tejido: 96% POLYESTER, 4% ELASTANE
 - Dimensiones del embalaje del artículo: 4,7 x 34,9 x 27,2 W (centímetros)
+- Tipo de tejido: 96% POLYESTER, 4% ELASTANE
 - Instrucciones de lavado: lavar a máquina
+- Textura suave
+- Tipo especial: estándar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08D6ZKL43/?tag=tolees-21)

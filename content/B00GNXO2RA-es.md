@@ -28,10 +28,10 @@ Ahora mismo tienes [Pistola de Encolar SALKI - Mini Aplicador de Silicona Calien
 
 🔎:
 
-- IDEAL PARA DETALLES: Su peso ligero y el tamaño mini hacen que sea especialmente indicada para manos pequeñas. Perfecta para ser utilizada por niños para hacer manualidades en el colegio, aunque también es ideal para que adultos realicen pequeñas reparaciones o creen proyectos DIY..
-- CARACTERÍSTICAS TÉCNICAS: Potencia de 25W, 240v. Pistola eléctrica con cable y enchufe europeo. Compatible con pegamentos universales de diámetro de 7,5 y 8 mm aunque se recomienda utilizar los consumibles de la marca SALKI para mejores resultados.
-- CALIDAD: Fabricada a partir de plástico y metal, materiales que le aportan mucha resistencia. El kit incluye un encolador eléctrico de tamaño pequeño y compacto y dos barras de silicona de SALKI, marca de renombre en el sector centrada en ofrecer productos de calidad y duraderos.
-- DISEÑO: La pistola encoladora cuenta con un soporte que permite mantener la herramienta en posición vertical durante su uso y evita dañar la superficie de trabajo. La empuñadura, ergonómica y de pequeño tamaño, hace de este aparato el compañero ideal para conseguir acabados de perfeccionistas. El gatillo y la boquilla están diseñados para ofrecer gran precisión y evitar el goteo.
 - USO: Máxima rapidez y facilidad, enchufar, esperar de 2 a 5 minutos a que se caliente y el tubo de pegamento se derretirá instantáneamente al apretar la palanca. La herramienta termo encoladora ofrece gran seguridad gracias a un regulador que mantiene la temperatura constante (180º) e impide el sobrecalentamiento.
+- IDEAL PARA DETALLES: Su peso ligero y el tamaño mini hacen que sea especialmente indicada para manos pequeñas. Perfecta para ser utilizada por niños para hacer manualidades en el colegio, aunque también es ideal para que adultos realicen pequeñas reparaciones o creen proyectos DIY..
+- DISEÑO: La pistola encoladora cuenta con un soporte que permite mantener la herramienta en posición vertical durante su uso y evita dañar la superficie de trabajo. La empuñadura, ergonómica y de pequeño tamaño, hace de este aparato el compañero ideal para conseguir acabados de perfeccionistas. El gatillo y la boquilla están diseñados para ofrecer gran precisión y evitar el goteo.
+- CALIDAD: Fabricada a partir de plástico y metal, materiales que le aportan mucha resistencia. El kit incluye un encolador eléctrico de tamaño pequeño y compacto y dos barras de silicona de SALKI, marca de renombre en el sector centrada en ofrecer productos de calidad y duraderos.
+- CARACTERÍSTICAS TÉCNICAS: Potencia de 25W, 240v. Pistola eléctrica con cable y enchufe europeo. Compatible con pegamentos universales de diámetro de 7,5 y 8 mm aunque se recomienda utilizar los consumibles de la marca SALKI para mejores resultados.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00GNXO2RA/?tag=tolees-21)

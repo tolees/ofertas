@@ -28,10 +28,10 @@ Está [BRA Bari - Set de cubiertos de 24 piezas de acero inoxidable con cuchillo
 
 ℹ️:
 
-- Espesor 3.5 mm
+- Apto para lavado en lavavajillas
 - Acero inoxidable 18/10 de acabado pulido brillante
 - Diseño contemporáneo que aúna practicidad y elegancia en cualquier mesa; para 6 comensales
 - El juego está compuesto por 24 piezas: 6 cucharas de mesa (21.5 cm); 6 tenedores de mesa (21.5 cm); 6 cuchillos chuleteros (23 cm); 6 cucharitas de café (16.5 cm)
-- Apto para lavado en lavavajillas
+- Espesor 3.5 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RDJ6KSV/?tag=tolees-21)

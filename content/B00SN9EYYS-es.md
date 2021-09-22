@@ -28,10 +28,10 @@ Tienes [LIVOO Feel good moments - Cafetera moka DOD117 Rojo](https://www.amazon.
 
 🔎:
 
+- 300 ml o capacidad 6 tazas
+- Interruptor marcha parada con luminoso indicador
+- Cafetera moka
 - Sistema mantenimiento al calor
 - Base rotativa
-- Cafetera moka
-- Interruptor marcha parada con luminoso indicador
-- 300 ml o capacidad 6 tazas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00SN9EYYS/?tag=tolees-21)

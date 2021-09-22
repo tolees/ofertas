@@ -28,10 +28,10 @@ Tienes [Funko Pop TV Dr. Who 13th Doctor Figura de Vinilo-Coleccionable  Multico
 
 ℹ️:
 
+- Colección Doctor Who
 - Licencia Oficial
-- Caja ilustrada con ventana
 - Funko POP Vinilo
 - Nº 899
-- Colección Doctor Who
+- Caja ilustrada con ventana
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TYRH95Q/?tag=tolees-21)
