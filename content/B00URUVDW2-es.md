@@ -28,15 +28,15 @@ Ahora mismo tienes [Garza 400603 Temporizador analógico mini  Blanco - Azul](ht
 
 🔎:
 
-- Programación 24 horas: Conmutación cada 15 minutos
-- Conecta cualquier producto y controla su programación
-- Medidas: 8 x 7.3 x 8 centímetros
-- Servicio de Atención al cliente en Español e Ingles para poder ayudarte de forma rápida y sencilla en caso de problemas con la instalación. (Ver información de contacto en el interior de la caja)
-- Peso: 0,14 Kg
-- Garantía: 2 años
-- Programador analógico de uso interior
 - Con un diseño explanado y sencillo
+- Medidas: 8 x 7.3 x 8 centímetros
+- Programación 24 horas: Conmutación cada 15 minutos
+- Programador analógico de uso interior
+- Garantía: 2 años
+- Conecta cualquier producto y controla su programación
+- Peso: 0,14 Kg
 - Enchufe programable que cuenta con protección infantil
 - Potencia máxima: 3.680W
+- Servicio de Atención al cliente en Español e Ingles para poder ayudarte de forma rápida y sencilla en caso de problemas con la instalación. (Ver información de contacto en el interior de la caja)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00URUVDW2/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [adidas Solar Glide 3 W  Zapatillas de Running Mujer  Core
 
 🔎:
 
-- Parte superior de malla
-- Refuerzo a lo largo de la mediasuela
 - Drop: 10 mm (talón: 32 mm / antepié: 22 mm)
 - Cierre de cordones
 - Mediasuela Boost
+- Parte superior de malla
+- Refuerzo a lo largo de la mediasuela
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08M9PC3VD/?tag=tolees-21)
