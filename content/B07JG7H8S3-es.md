@@ -28,10 +28,10 @@ En este momento está [Puma Carina L  Zapatillas de Deporte Mujer  White White S
 
 🔎:
 
-- Suela de goma para mayor agarre
-- Puntera perforada
-- Suela de plataforma ligeramente elevada
 - Espuma suave para una comodidad absolutamente suave al caminar
+- Suela de goma para mayor agarre
 - Marca Puma en la solapa de la lengüeta
+- Suela de plataforma ligeramente elevada
+- Puntera perforada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JG7H8S3/?tag=tolees-21)

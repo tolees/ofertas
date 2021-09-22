@@ -28,9 +28,9 @@ Está [Faber-Castell - Goma de borrar en caja de plástico  color gris](https://
 
 ℹ️:
 
-- Recipiente de almacenamiento de plástico transparente
-- Para la limpieza de las películas y dibujos
 - Para corregir y aclarado de carbón y pastel trabajo
 - Optimó para apretar y absorción
+- Recipiente de almacenamiento de plástico transparente
+- Para la limpieza de las películas y dibujos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EFPZHOO/?tag=tolees-21)

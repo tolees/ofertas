@@ -28,8 +28,8 @@ Tienes [Puma Basket Heart Patent Wn s  Zapatillas de Deporte Mujer  Black Black 
 
 🔎:
 
-- Tipo de tacón: plano
-- Material exterior: sintético
 - Cierre: cordones
+- Material exterior: sintético
+- Tipo de tacón: plano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MSRSAT9/?tag=tolees-21)

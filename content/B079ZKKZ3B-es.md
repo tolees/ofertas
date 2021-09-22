@@ -28,10 +28,10 @@ En este momento está [Imetec Ducati Gk 818 Race  Kit Recortador de Barba y Pelo
 
 🔎:
 
+- Cuchillas revestidas de titanio: precisión, alta resistencia a la corrosión y larga duración
 - Recarga rápida en 90 minutos y autonomía de uso de 60 minutos
+- 33 ajustes de corte de 0, 6 a 12 mm, con precisión de hasta 0, 3 mm
 - Contiene un kit para el mantenimiento y limpieza con cepillo y tijeras, se incluye funda blanda de viaje
 - Cordero plus Cordless: funciona tanto conectado a la red eléctrica como con batería
-- 33 ajustes de corte de 0, 6 a 12 mm, con precisión de hasta 0, 3 mm
-- Cuchillas revestidas de titanio: precisión, alta resistencia a la corrosión y larga duración
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079ZKKZ3B/?tag=tolees-21)
