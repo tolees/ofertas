@@ -28,11 +28,11 @@ Tienes [Cecotec Batidora Amasadora Cecomixer Easy. Movimiento Orbital  Capacidad
 
 🔎:
 
-- Diseño de protección en las espirales y varillas que protege la unión con el cuerpo, consiguiendo así que la masa no entre en la parte mecánica y no ocasione ningún problema
-- Incorpora un motor reforzado para un perfecto funcionamiento, protegido por el diseño de las varillas y espirales; además, posee un sistema de seguridad que protege al motor de sobrecalentamientos; el security motor system provoca la interrupción del proceso cuando el motor alcanza elevadas temperaturas y solo permite su puesta en funcionamiento una vez se ha enfriado
-- Batidora amasadora con 5 funciones: amasar, batir, mezclar, montar y emulsionar
-- Componentes incluidos: Varilla batidora, Varilla amasadora, Cuenco de acero inoxidable
-- Posee 3 litros de capacidad, un bol de acero inoxidable y accesorios para todas sus funciones
 - 6 niveles de potencía y movimiento planetario gracias al deslizador del bol que se encuentra en la base, con el que puedes elegir si dejar el bol en posición fija, o darle movimiento orbital
+- Componentes incluidos: Varilla batidora, Varilla amasadora, Cuenco de acero inoxidable
+- Incorpora un motor reforzado para un perfecto funcionamiento, protegido por el diseño de las varillas y espirales; además, posee un sistema de seguridad que protege al motor de sobrecalentamientos; el security motor system provoca la interrupción del proceso cuando el motor alcanza elevadas temperaturas y solo permite su puesta en funcionamiento una vez se ha enfriado
+- Posee 3 litros de capacidad, un bol de acero inoxidable y accesorios para todas sus funciones
+- Diseño de protección en las espirales y varillas que protege la unión con el cuerpo, consiguiendo así que la masa no entre en la parte mecánica y no ocasione ningún problema
+- Batidora amasadora con 5 funciones: amasar, batir, mezclar, montar y emulsionar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LWL9IFR/?tag=tolees-21)

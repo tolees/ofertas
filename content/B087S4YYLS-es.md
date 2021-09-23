@@ -28,9 +28,9 @@ Tienes [Tesura Games - House Flipper](https://www.amazon.es/dp/B087S4YYLS/?tag=t
 
 🔎:
 
-- Compra, repara y mejora casas en ruinas. ¡Dales una segunda vida y obtén beneficios vendiéndolas!
 - Tendrás a tu disposición un conjunto de herramientas y piezas para conseguir convertirla en algodigno de un rey
-- Crece y consigue habilidades, mejores herramientas y muebles más bonitos para tus próximas reformas
+- Compra, repara y mejora casas en ruinas. ¡Dales una segunda vida y obtén beneficios vendiéndolas!
 - El objetivo final del negocio de las reformas es el beneficio. ¿Podrás gestionar tus inversiones eficientemente y ser el amo de las reformas?
+- Crece y consigue habilidades, mejores herramientas y muebles más bonitos para tus próximas reformas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B087S4YYLS/?tag=tolees-21)
