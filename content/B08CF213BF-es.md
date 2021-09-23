@@ -28,7 +28,7 @@ En este momento está [BOSS Paule 2 10196402 01 Camisa de Polo  Azul Claro 438  
 
 🔎:
 
-- Pique elástico fino
 - Acabado de alta calidad
+- Pique elástico fino
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CF213BF/?tag=tolees-21)

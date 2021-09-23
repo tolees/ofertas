@@ -28,9 +28,9 @@ Ahora mismo tienes [Diesel Reloj Analógico para de los Hombres de Cuarzo con Co
 
 🔎:
 
-- Movimiento de cuarzo
 - Cristal mineral
 - Correa de resina de color verde
+- Movimiento de cuarzo
 - Caja de resina con un espesor de unos 13 milímetros
 - Reloj de esfera redonda verde de 44 milímetros
 
