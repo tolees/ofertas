@@ -28,8 +28,8 @@ En este momento está [Skechers Bobs Squad 3 Adventure Unknown  Zapatillas Mujer
 
 🔎:
 
-- Vegano
 - Lavable a máquina
+- Vegano
 - Espuma viscoelástica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PHW1QY3/?tag=tolees-21)
