@@ -28,10 +28,10 @@ Tienes [adidas RUNFALCON 2.0  Zapatillas de Running Mujer  Gricin/Plamet/Gridos 
 
 🔎:
 
+- Refuerzo sin costuras en el talón
 - Parte superior de malla acolchada
+- Mediasuela de EVA
 - Cierre de cordones
 - Diseño transpirable y ligero
-- Refuerzo sin costuras en el talón
-- Mediasuela de EVA
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BX24PMF/?tag=tolees-21)

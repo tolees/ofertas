@@ -29,7 +29,7 @@ En este momento está [adidas Continental 80 C  Zapatillas de Deporte  Negro  Ne
 🔎:
 
 - Estilo vintage
-- Empeine de piel lisa
 - Zapatillas deportivas
+- Empeine de piel lisa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K2MJ3BR/?tag=tolees-21)

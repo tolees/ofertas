@@ -28,10 +28,10 @@ Ahora mismo tienes [TM Electron TMPCF020R Mini cafetera de Goteo con Molinillo G
 
 🔎:
 
-- Jarra de cristal con gran capacidad que te permitirá preparar cada vez hasta 4 tazas del mejor café; gracias a sus reducidas dimensiones te permite ahorrar espacio en tu cocina
 - En el frontal se encuentra el selector de cantidad para el café en grano: elige entre las 2 posiciones de grano de café para preparar una jarra entera o solo media
-- Las cuchillas del potente molinillo incorporado a la cafetera están fabricadas en acero inoxidable por lo que no pierden el filo con el tiempo y siempre tendrás una molienda ideal
 - Coloca la ruleta selectora en la tercera opción y las cuchillas no se accionarán; podrás usar tu café previamente molido y preparar una jarra entera de delicioso café
 - Mini cafetera de goteo con molinillo eléctrico integrado para que puedas moler en casa tu café en grano favorito o, si lo prefieres, con café ya molido tú eliges
+- Las cuchillas del potente molinillo incorporado a la cafetera están fabricadas en acero inoxidable por lo que no pierden el filo con el tiempo y siempre tendrás una molienda ideal
+- Jarra de cristal con gran capacidad que te permitirá preparar cada vez hasta 4 tazas del mejor café; gracias a sus reducidas dimensiones te permite ahorrar espacio en tu cocina
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SPGTCLT/?tag=tolees-21)
