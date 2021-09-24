@@ -28,10 +28,10 @@ En este momento está [WOLFPACK LINEA PROFESIONAL Cubo Basura  Negro  57x46x46 c
 
 🔎:
 
-- Capacidad: 50 litros.
 - Cubo basura plastico comunidad con tapa.
-- > Base Ø 33 cm. > Altura: 55 cm. Color negro.
 - Medidas:
+- > Base Ø 33 cm. > Altura: 55 cm. Color negro.
 - > Boca Ø 45 cm.
+- Capacidad: 50 litros.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00U1OK18Q/?tag=tolees-21)
