@@ -28,8 +28,8 @@ Tienes [Duracell Pilas AA  paquete de 12](https://www.amazon.es/dp/B005EJFLJC/?t
 
 ℹ️:
 
-- el cierre superior de nylon ayuda a evitar fugas y protege los dispositivos cotidianos
 - Duracell y su famoso Conejito han ofrecido pilas de alto rendimiento por más de 50 años.
+- el cierre superior de nylon ayuda a evitar fugas y protege los dispositivos cotidianos
 - ¡Todos conocen la resistencia del Conejito Duracell!
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005EJFLJC/?tag=tolees-21)

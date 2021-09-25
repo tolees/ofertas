@@ -28,10 +28,10 @@ Está [Funko - POP Deluxe: Star Wars The Rise of Skywalker - Supreme Leader Kylo
 
 ℹ️:
 
-- Supreme leader kylo ren
 - De la colección star wars the rise of skywalker, supreme leader kylo ren como figura exclusiva de vinilo pop deluxe de funko
 - Descúbre otras figuras de la colección disney star wars y colecciónalas todas
-- Disney star wars
 - La figura mide 15 cm y se envía en una caja ilustrada con ventana
+- Supreme leader kylo ren
+- Disney star wars
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QTD66QS/?tag=tolees-21)
