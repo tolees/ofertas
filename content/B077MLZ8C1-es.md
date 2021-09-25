@@ -28,13 +28,13 @@ Está [PUMA Smash v2  Zapatillas Unisex Adulto  Negro  Black White Silver   45 E
 
 ℹ️:
 
-- Composición: Wildleder
 - Tipo de tacón: Plano
-- Material exterior: Cuero
-- Material de la suela: Goma
-- Revestimiento: Malla
+- Composición: Wildleder
 - Cierre: Cordones
-- Altura del tacón: 3 centímetros
 - Anchura del zapato: Normal
+- Material exterior: Cuero
+- Altura del tacón: 3 centímetros
+- Revestimiento: Malla
+- Material de la suela: Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077MLZ8C1/?tag=tolees-21)

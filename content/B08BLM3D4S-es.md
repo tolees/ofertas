@@ -28,10 +28,10 @@ Tienes [Geox J Aeranter Boy B  Zapatillas Niños  Negro Lima  33 EU](https://www
 
 🔎:
 
-- Resistente al agua
 - Material exterior: sintético
-- Cierre: cremallera + cordones
 - Material interior: sintético
+- Resistente al agua
+- Cierre: cremallera + cordones
 - Suela: sintética
 - 1 centímetros, 1 centímetros
 
