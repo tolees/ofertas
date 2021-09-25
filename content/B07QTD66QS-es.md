@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - POP Deluxe: Star Wars The Rise o al 43.40 % de descuento'
-date: 2021-09-15 16:01:57
+date: 2021-09-25 14:54:44
 image: 'https://m.media-amazon.com/images/I/41bbBwV4XCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07QTD66QS/?tag=tolees-21'
 descuento: '43.40'
-average: '17.8914423076924'
+average: '17.9208612440192'
 ---
 
 Está [Funko - POP Deluxe: Star Wars The Rise of Skywalker - Supreme Leader Kylo Ren](https://www.amazon.es/dp/B07QTD66QS/?tag=tolees-21) con 43.40 de descuento por 24.04 EUR (original: 42.47 EUR) en el siguiente enlace!
