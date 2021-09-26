@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Square Enix - Trials of Mana con un 46.03 % de descuento'
-date: 2021-09-21 12:26:15
+date: 2021-09-26 10:11:49
 image: 'https://m.media-amazon.com/images/I/51ikxArHzBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Square Enix'
 buyurl: 'https://www.amazon.es/dp/B07XW8BGJX/?tag=tolees-21'
 descuento: '46.03'
-average: '33.3326760563379'
+average: '33.2444444444443'
 ---
 
 En este momento está [Square Enix - Trials of Mana](https://www.amazon.es/dp/B07XW8BGJX/?tag=tolees-21) a 26.98 EUR (original: 49.99 EUR) (46.03 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Square Enix - Trials of Mana](https://www.amazon.es/dp/B0
 
 🔎:
 
+- Un accesorio con el que te puedes equipar en el juego para conseguir más EXP después de un combate hasta el nivel 10
 - Podrás escoger a tu protagonista favorito y a dos compañeros de entre seis personajes distintos; la historia se desarrollará de forma distinta dependiendo del protagonista y de los compañeros elegidos
 - Sube de nivel para alcanzar las clases superiores; el aspecto del personaje, así como sus poderes mágicos y los ataques especiales que puede aprender, dependerán de la clase seleccionada y de su alineamiento con la luz o la oscuridad
 - Trials of Mana es un remake total en 3D del tercer juego de la serie Mana; el juego se ha vuelto a crear completamente desde cero con gráficos modernos en 3D
-- Un accesorio con el que te puedes equipar en el juego para conseguir más EXP después de un combate hasta el nivel 10
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XW8BGJX/?tag=tolees-21)
