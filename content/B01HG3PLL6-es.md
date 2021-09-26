@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Gazelle  Zapatillas de Deporte Un al 42.09 % de descuento'
-date: 2021-09-23 21:10:23
+date: 2021-09-25 21:52:34
 image: 'https://m.media-amazon.com/images/I/41fswiIPamL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B01HG3PLL6/?tag=tolees-21'
 descuento: '42.09'
-average: '50.895'
+average: '51.21'
 ---
 
 Está [adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Vapour Pink/White/Gold Metalic  36 2/3 EU](https://www.amazon.es/dp/B01HG3PLL6/?tag=tolees-21) con 42.09 de descuento por 54.99 EUR (original: 94.95 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Vapour Pink/White/Go
 
 ℹ️:
 
-- Suela de goma
 - Corte regular
+- Suela de goma
 - Cordones de zapatos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HG3PLL6/?tag=tolees-21)

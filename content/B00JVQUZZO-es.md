@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 49.94 % en Disney - El Libro De La Selva  2014  [DV'
-date: 2021-09-18 20:34:44
+title: 'Descuento del 42.78 % en Disney - El Libro De La Selva  2014  [DV'
+date: 2021-09-25 22:43:26
 image: 'https://m.media-amazon.com/images/I/51NGyKL9+aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Animación','DVD','Featured Categories','Infantil y familiar','Películ
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0
-comparePrice: 7.99 EUR
+comparePrice: 6.99 EUR
 prodname: 'Disney - El Libro De La Selva  2014  [DVD]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B00JVQUZZO/?tag=tolees-21'
-descuento: '49.94'
-average: '8.8023938223938'
+descuento: '42.78'
+average: '8.74740458015265'
 ---
 
-Tienes [Disney - El Libro De La Selva  2014  [DVD]](https://www.amazon.es/dp/B00JVQUZZO/?tag=tolees-21) con un 49.94 % de descuento con precio de oferta de 4.0 EUR (original: 7.99 EUR) en el siguiente enlace!
+Tienes [Disney - El Libro De La Selva  2014  [DVD]](https://www.amazon.es/dp/B00JVQUZZO/?tag=tolees-21) con un 42.78 % de descuento con precio de oferta de 4.0 EUR (original: 6.99 EUR) en el siguiente enlace!
 
 [![Disney - El Libro De La Selva  2014  [DV](https://m.media-amazon.com/images/I/51NGyKL9+aL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00JVQUZZO/?tag=tolees-21)
 
