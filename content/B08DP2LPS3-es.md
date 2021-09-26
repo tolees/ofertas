@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich Sapporo Sky 21  Zapatillas Mujer  con un 44.06 % de descuento'
-date: 2021-09-15 10:02:24
+date: 2021-09-26 17:30:04
 image: 'https://m.media-amazon.com/images/I/41ouER4YTdS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B08DP2LPS3/?tag=tolees-21'
 descuento: '44.06'
-average: '45.574'
+average: '45.7027272727273'
 ---
 
 En este momento está [Munich Sapporo Sky 21  Zapatillas Mujer  Plateado  40 EU](https://www.amazon.es/dp/B08DP2LPS3/?tag=tolees-21) a 46.99 EUR (original: 84.0 EUR) (44.06 %  de descuento) en el siguiente enlace!
