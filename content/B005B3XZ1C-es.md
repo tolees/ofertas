@@ -28,7 +28,7 @@ Está [CAMPER UNO  Zapatillas Mujer  Lt Pastel Pink  36 EU](https://www.amazon.e
 
 ℹ️:
 
-- Durabilidad
 - Flexibilidad
+- Durabilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B005B3XZ1C/?tag=tolees-21)
