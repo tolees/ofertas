@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MARSGAMING - Mars Gaming MK218  Teclado  con un 35.47 % de descuento'
-date: 2021-09-25 12:20:36
+date: 2021-09-26 14:03:05
 image: 'https://m.media-amazon.com/images/I/41CqZB5gS4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [MARSGAMING - Mars Gaming MK218  Teclado RGB H-Mech  Antig
 
 🔎:
 
-- Antighosting completo; 12 teclas especiales que fácilitan el acceso multimedia
-- Layout italiano
 - Tecnología H-Mechanical RED ofrece calidad y durabilidad; fusiona pulsación de largo recorrido de los teclados mecánicos y suavidad de los teclados de membrana
+- Layout italiano
 - Sistema de retroiluminación RGB 9 efectos; modo especial de activación sensitiva al sonido ambiente
+- Antighosting completo; 12 teclas especiales que fácilitan el acceso multimedia
 - Conectividad rápida y precisa; cable trenzado de doble nylon ultra-resistente y USB bañado en oro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HCSRM3M/?tag=tolees-21)
