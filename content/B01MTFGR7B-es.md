@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Harry Potter y las Reliquias de la Muert al 49.89 % de descuento'
-date: 2021-09-15 08:57:26
+date: 2021-09-26 20:28:46
 image: 'https://m.media-amazon.com/images/I/51-kpS06xZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTFGR7B/?tag=tolees-21'
 descuento: '49.89'
-average: '15.62'
+average: '14.3433333333333'
 ---
 
 Ahora mismo tienes [Harry Potter y las Reliquias de la Muerte - Parte 2 - 4k UHD [Blu-ray]](https://www.amazon.es/dp/B01MTFGR7B/?tag=tolees-21) a 11.79 EUR (original: 23.53 EUR) (49.89 %  de descuento) en el siguiente enlace!
