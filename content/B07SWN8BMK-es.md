@@ -28,10 +28,10 @@ En este momento está [Iris Ohyama Europe - Woozoo by Ohyama  Ventilador de escr
 
 🔎:
 
-- Inclinación de 90° hacia arriba y 25° hacia abajo; oscilación de hasta 45° posible que permite adaptar perfectamente el aire soplado a su nivel
 - El ventilador cubre una superficie de 13 m2 con un chorro de aire difusado en forma de espiral de hasta 16 m
-- Chorro de aire difusado en forma de espiral que favorece una mejor distribución del aire dentro de tu hogar
-- Woozoo compacto con 3 potencía s de aire soplado, con un modo ultrasilencioso, lo que permite utilizarlo de día y de noche
 - Se puede colocar en cualquier lugar gracias a la inclinación no solo hacia arriba, sino también hacia abajo
+- Chorro de aire difusado en forma de espiral que favorece una mejor distribución del aire dentro de tu hogar
+- Inclinación de 90° hacia arriba y 25° hacia abajo; oscilación de hasta 45° posible que permite adaptar perfectamente el aire soplado a su nivel
+- Woozoo compacto con 3 potencía s de aire soplado, con un modo ultrasilencioso, lo que permite utilizarlo de día y de noche
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SWN8BMK/?tag=tolees-21)

@@ -28,11 +28,11 @@ Está [Sony Handycam FDR-AX53 - Videocámara  pantalla de 3"  con grabación 4K 
 
 ℹ️:
 
-- Optical SteadyShot con modo activo inteligente
-- Grabación realista de voces, música y otros sonidos
 - No incluye bolsa con cremallera
-- Lente Zeiss Vario-Sonnar T de 26,8 mm con rango de zoom óptico de 20x
 - Grabación a alta velocidad en Full HD para vídeos a cámara lenta de alta calidad
+- Grabación realista de voces, música y otros sonidos
+- Optical SteadyShot con modo activo inteligente
 - Grabación 4K Ultra HD (3,840 x 2,160) con más nivel de detalle y color
+- Lente Zeiss Vario-Sonnar T de 26,8 mm con rango de zoom óptico de 20x
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01A8QRV6G/?tag=tolees-21)

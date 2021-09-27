@@ -28,10 +28,10 @@ Tienes [ASUS ROG Strix Carry - Ratón óptico de Gaming con diseño ergonómico 
 
 🔎:
 
-- La tecnología smarthop permite cambiar la conexión a los canales menos saturados
 - Ratón gaming wireless de bolsillo con conectividad inalámbrica rf de 1 ms 2,4ghz y bluetoothde alto rendimiento
-- Autonomía excepcional: más de 300 horas a través derf 2,4ghz y 400 horas por bluetooth
-- Sensor óptico de gaming pmw3330 con hasta 7200 dpi
 - Los interruptores desmontables te permiten personalizar la resistencia al clic del ratón
+- Sensor óptico de gaming pmw3330 con hasta 7200 dpi
+- La tecnología smarthop permite cambiar la conexión a los canales menos saturados
+- Autonomía excepcional: más de 300 horas a través derf 2,4ghz y 400 horas por bluetooth
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V4QDZJJ/?tag=tolees-21)
