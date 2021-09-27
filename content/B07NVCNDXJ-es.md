@@ -28,10 +28,10 @@ Ahora mismo tienes [NEWPROJET ITALIA SRL Dragon Ball Z - NANOBLOCK Vegeta 130 Pi
 
 🔎:
 
-- figura de nanoblock Vegeta para bricolaje
-- contiene instrucciones detalladas
-- conjunto de bloques de construcción mini Dragon Ball Z con licencia
 - 130 piezas, incluidas las piezas de repuesto
+- figura de nanoblock Vegeta para bricolaje
+- conjunto de bloques de construcción mini Dragon Ball Z con licencia
+- contiene instrucciones detalladas
 - Altura 5,1 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NVCNDXJ/?tag=tolees-21)

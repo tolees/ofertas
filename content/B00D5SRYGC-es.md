@@ -28,9 +28,9 @@ Tienes [Vitakraft - Aperitivo Dental para Perros  3 en 1 ](https://www.amazon.es
 
 ℹ️:
 
-- Limpieza dental óptima
 - Para un apoyo activo de la salud dental
 - Suficiente para un mes
 - Aperitivo dental 3 en 1 para perros medianos y grande
+- Limpieza dental óptima
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00D5SRYGC/?tag=tolees-21)

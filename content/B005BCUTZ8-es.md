@@ -28,10 +28,10 @@ En este momento está [Vino Tinto D.O. Rioja Montecillo Reserva 75cl](https://ww
 
 🔎:
 
-- Muy buena relación calidad - precio
 - Competidores: Ramón Bilbao, Viña Tondonia, Marques de Riscal
-- Añada 2011. Excelente
-- Medalla de Oro en Mundus Vini 2017
 - 95% Tempranillo, 3% Mazuelo y 2% Garnacha
+- Muy buena relación calidad - precio
+- Medalla de Oro en Mundus Vini 2017
+- Añada 2011. Excelente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005BCUTZ8/?tag=tolees-21)
