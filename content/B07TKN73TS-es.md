@@ -28,9 +28,9 @@ En este momento está [Clarks Laina55 Court  Zapatos de Tacón Mujer  Negro  Bla
 
 🔎:
 
-- Material exterior: Cuero
-- Cuero, textiles, cuero, caucho, Ninguno, Zapatos de tacón
 - Material interno: textiles
+- Cuero, textiles, cuero, caucho, Ninguno, Zapatos de tacón
+- Material exterior: Cuero
 - Ancho de la zapata: Medio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TKN73TS/?tag=tolees-21)

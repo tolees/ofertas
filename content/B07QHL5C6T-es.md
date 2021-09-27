@@ -28,9 +28,9 @@ Está [Puma Olympique Marsella Temporada 2020/21-HOME Shirt Replica SS with Spon
 
 ℹ️:
 
-- Con insignia oficial del Olympique de Marsella bordada en el pecho izquierdo
-- Con marca PUMA en cada hombro
-- Maillot de corte regular para hombre con cuello de pico
 - Con Bleu Azur cruz en blanco elástico en la parte posterior del cuello inserto
+- Con insignia oficial del Olympique de Marsella bordada en el pecho izquierdo
+- Maillot de corte regular para hombre con cuello de pico
+- Con marca PUMA en cada hombro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QHL5C6T/?tag=tolees-21)

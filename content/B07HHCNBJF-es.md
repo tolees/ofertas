@@ -28,9 +28,9 @@ Ahora mismo tienes [KabelDirekt – Cable Micro USB 2.0 – 2m –  Cable de Dat
 
 🔎:
 
-- Larga vida útil probada: El revestimiento de PVC hace que el cable sea muy resistente, pero conserve al mismo tiempo la flexibilidad; la carcasa de aluminio garantiza una estructura estable y una larga vida útil de los conectores
-- 36 meses de garantía del fabricante
-- Optimizado para corrientes de carga intensas: Gracias a los resistentes cables de corriente de aprox. 0,81 mm Ø (AWG 20), pueden alcanzarse altas corrientes de carga. De este modo, se consigue una carga más rápida de los dispositivos
 - Compatibilidad universal: Conector USB A 2.0 a conector USB Micro B 2.0 – adecuado para todo tipo de smartphones, tabletas y otros dispositivos con conexión Micro USB
+- Larga vida útil probada: El revestimiento de PVC hace que el cable sea muy resistente, pero conserve al mismo tiempo la flexibilidad; la carcasa de aluminio garantiza una estructura estable y una larga vida útil de los conectores
+- Optimizado para corrientes de carga intensas: Gracias a los resistentes cables de corriente de aprox. 0,81 mm Ø (AWG 20), pueden alcanzarse altas corrientes de carga. De este modo, se consigue una carga más rápida de los dispositivos
+- 36 meses de garantía del fabricante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HHCNBJF/?tag=tolees-21)
