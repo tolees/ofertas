@@ -28,10 +28,10 @@ En este momento está [Trust Gaming - Trust GXT 247 - Base de carga doble para g
 
 🔎:
 
-- Indicador LED integrado que avisa cuando se está efectuando la carga
 - Incluye 2 paquetes de pilas recargables que se integran completamente con el mando
-- 2 pilas NiMH [2 × 800 mAh] para hasta 10 horas de juego por pila*
-- Almacene y cargue sus mandos en un único lugar
+- Indicador LED integrado que avisa cuando se está efectuando la carga
 - Cargue hasta 2 mandos de Xbox One originales a la vez
+- Almacene y cargue sus mandos en un único lugar
+- 2 pilas NiMH [2 × 800 mAh] para hasta 10 horas de juego por pila*
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00WR88MQC/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Adidas Continental 80 C  Zapatillas de Deporte Unisex ni�
 
 🔎:
 
-- Zapatillas deportivas
 - Estilo vintage
+- Zapatillas deportivas
 - Empeine de piel lisa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K33MMNS/?tag=tolees-21)

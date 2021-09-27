@@ -28,10 +28,10 @@ Tienes [Calvin Klein J20J207879 Camiseta  038  M para Mujer](https://www.amazon.
 
 🔎:
 
-- Instrucciones de cuidado: lavar a máquina en frío (30 ° máx.).
-- Corte ajustado.
 - 100% algodón.
 - Cuello redondo.
+- Corte ajustado.
+- Instrucciones de cuidado: lavar a máquina en frío (30 ° máx.).
 - Logotipo impreso en la parte delantera.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N8VNV4G/?tag=tolees-21)

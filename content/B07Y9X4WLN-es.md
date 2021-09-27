@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20th Century Fox Home Entertainment Espa al 57.08 % de rebaja'
-date: 2021-09-26 15:31:16
+date: 2021-09-27 16:06:02
 image: 'https://m.media-amazon.com/images/I/41aOwruhNkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: '20th Century Fox Home Entertainment España, S.A.'
 buyurl: 'https://www.amazon.es/dp/B07Y9X4WLN/?tag=tolees-21'
 descuento: '57.08'
-average: '3.865'
+average: '3.74142857142857'
 ---
 
 Tienes [20th Century Fox Home Entertainment España  S.A. - Ad Astra [DVD]](https://www.amazon.es/dp/B07Y9X4WLN/?tag=tolees-21) con precio final de  3.0 EUR (original: 6.99 EUR) (57.08 %  de rebaja) aqui!

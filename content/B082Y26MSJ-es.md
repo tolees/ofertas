@@ -28,8 +28,8 @@ Está [Reebok Nano X1  Zapatillas Deportivas Mujer  AURORG/TWICOR/Negro  42 EU](
 
 ℹ️:
 
-- Parte superior de tela
 - Mediasuela de EVA
 - Cierre de cordones
+- Parte superior de tela
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082Y26MSJ/?tag=tolees-21)

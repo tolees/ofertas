@@ -28,8 +28,8 @@ En este momento está [Springfield Camisa Oxford Algodón Orgánico  Morado/Lila
 
 🔎:
 
-- Con cierre de botones.
 - Proyecto Reconsider: El algodón orgánico está cultivado con métodos responsables hacia el medio ambiente.
+- Con cierre de botones.
 - Camisa de manga larga, con un bolsillo a la altura del pecho.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QJRKZWX/?tag=tolees-21)

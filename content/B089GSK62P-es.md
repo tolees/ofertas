@@ -29,9 +29,9 @@ Ahora mismo tienes [RAMPOW Quick Charge 3.0 Cargador USB 39W Cargador Móvil  Ca
 🔎:
 
 - 【Función de carga rápida】El adaptador de CA de 39 W soporta QC 2.0/3.0, Samsung Adaptive Fast Charging y Huawei FCP, para una carga eficiente en casa, en la oficina o de viaje. El cargador puede cargar completamente tus teléfonos Samsung Galaxy en 2 horas.
-- 【Sistema de seguridad integral】El uso de un controlador de última generación garantiza una alta eficiencia y una mejor fiabilidad, y ayuda a proteger los cables y conectores contra cortocircuitos, sobretensión de salida, sobrecorriente, exceso de calor y daños.
 - Dos puertos de carga para cargar al mismo tiempo: con la fuente de alimentación USB puedes cargar dos dispositivos al mismo tiempo con una potencia total de máx. Carga de 39 W: ideal para iPhones, tablets y otros dispositivos que se cargan a través de USB. Proporciona una carga rápida, segura y eficiente con hasta 3 A por puerto.
 - 【IG Power】 Carga ultra potente y seguridad superior. La tecnología de carga avanzada de RAMPOW ofrece una carga extremadamente potente y una seguridad superior y ofrece una seguridad completa con protección contra cortocircuitos, sobrecorriente, protección ignífuga, control de temperatura y protección contra sobretensiones.
+- 【Sistema de seguridad integral】El uso de un controlador de última generación garantiza una alta eficiencia y una mejor fiabilidad, y ayuda a proteger los cables y conectores contra cortocircuitos, sobretensión de salida, sobrecorriente, exceso de calor y daños.
 - Compañero de viaje ideal: este pequeño cubo con 100 – 240 V compatibilidad de voltaje mundial está diseñado para llevar.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089GSK62P/?tag=tolees-21)
