@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.42 % en Ewent EW1055 Lector de Tarjeta Inteligen'
-date: 2021-09-21 16:40:29
+date: 2021-09-27 21:20:42
 image: 'https://m.media-amazon.com/images/I/41auUAFMicL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ewent'
 buyurl: 'https://www.amazon.es/dp/B08X9YHL5Y/?tag=tolees-21'
 descuento: '42.42'
-average: '8.4525'
+average: '8.456'
 ---
 
 Tienes [Ewent EW1055 Lector de Tarjeta Inteligente Interior USB 3.2 Gen 1  3.1 Gen 1  Negro](https://www.amazon.es/dp/B08X9YHL5Y/?tag=tolees-21) con un 42.42 % de descuento con precio de oferta de 8.47 EUR (original: 14.71 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [Ewent EW1055 Lector de Tarjeta Inteligente Interior USB 3.2 Gen 1  3.1 G
 
 ℹ️:
 
-- Lee tarjetas inteligentes como CNS, CRS, TS
-- Soporta los protocolos ISO 7816, T = 0 o T = 1; cumple con PC/SC 1.0/2.0, EMV 4.1 y WHQL
 - Compatible con Windows W Mac OS
+- Lee tarjetas inteligentes como CNS, CRS, TS
 - Equipado con interfaz USB-C
+- Soporta los protocolos ISO 7816, T = 0 o T = 1; cumple con PC/SC 1.0/2.0, EMV 4.1 y WHQL
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08X9YHL5Y/?tag=tolees-21)

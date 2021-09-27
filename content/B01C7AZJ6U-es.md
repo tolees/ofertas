@@ -28,9 +28,9 @@ Está [KabelDirekt – Adaptador 3 5mm Jack  jack de audio estéreo de 3 5mm con
 
 ℹ️:
 
-- Contactos chapados en oro y carcasa metálica de gran calidad, perfecto para un uso frecuente y una calidad óptima del sonido
-- Toma de jack de 3,5 mm > Toma de jack de 3,5 mm
-- Ideal para conectar dos cables jack disponibles
 - 36 meses de garantía del fabricante
+- Contactos chapados en oro y carcasa metálica de gran calidad, perfecto para un uso frecuente y una calidad óptima del sonido
+- Ideal para conectar dos cables jack disponibles
+- Toma de jack de 3,5 mm > Toma de jack de 3,5 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01C7AZJ6U/?tag=tolees-21)

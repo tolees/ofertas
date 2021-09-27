@@ -28,10 +28,10 @@ Está [Sony FE 70-200 mm f/4 G OSS - Full-Frame  Zoom  Super Teleobjetivo  SEL70
 
 ℹ️:
 
-- INCREÍBLEMENTE NÍTIDO: Elementos de precisión AA (asféricos avanzados), cristal super ED y revestimiento Nano AR para una resolución, claridad y contraste excelentes
-- ERGONOMÍA PROFESIONAL: La estabilización de imagen de SteadyShot óptica integrada corrige los movimientos de la cámara que provocan imágenes borrosas al fotografiar sin trípode
-- CAPTURA TODOS LOS DETALLES: Nanorrevestimiento antirreflectante de Sony para eliminar los destellos e imágenes superpuestas
 - MAGNÍFICO BOKEH DE FONDO: Apertura circular de 9 láminas para un atractivo efecto de desenfoque
+- CAPTURA TODOS LOS DETALLES: Nanorrevestimiento antirreflectante de Sony para eliminar los destellos e imágenes superpuestas
 - RÁPIDO Y PRECISO: Los motores lineales duales permiten un movimiento silencioso y fluido, perfecto para grabar películas, acciones con ritmo rápido o cuando se cambia el enfoque de forma rápida y frecuente
+- ERGONOMÍA PROFESIONAL: La estabilización de imagen de SteadyShot óptica integrada corrige los movimientos de la cámara que provocan imágenes borrosas al fotografiar sin trípode
+- INCREÍBLEMENTE NÍTIDO: Elementos de precisión AA (asféricos avanzados), cristal super ED y revestimiento Nano AR para una resolución, claridad y contraste excelentes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00G9UJW36/?tag=tolees-21)

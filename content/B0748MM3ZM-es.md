@@ -28,13 +28,13 @@ En este momento está [AEG CX7-2-45AN Aspiradora Escoba Sin Cable y de Mano Cepi
 
 🔎:
 
-- ASPIRADORA 2 EN 1, Con batería de Ion-Litio de hasta 45 minutos de autonomía. Incluye cepillo motorizado animal care, cepillo para muebles, boquilla espacios estrechos y soporte de carga
+- MODELO MASCOTAS, con boquilla Animal Care AEG que limpia eficazmente el pelo de los animales, los ácaros y el polvo de las tapicerías; recomendado para personas alérgicas
+- AUTOLIMPIEZA patentada del rodillo de cepillo, que se retira automáticamente mediante la presión del pedal; la tecnología Brush Roll Clean elimina los pelos y fibras que se enredan en el cepillo
 - CEPILLO MOTORIZADO Y LUZ LED, con giro de 180°, diseño ergonómico y 2 ruedas traseras que en conjunto aportan gran facilidad de maniobra para limpiar todo tipo de suelos y alfombras
 - PARKING VERTICAL, para tener la aspiradora siempre a mano en cualquier lugar y en cualquier momento
-- 45 MIN. DE AUTONOMÍA, batería de litio TurboPower de alta densidad, con bajo nivel de ruido (hasta 79 decibelios) y luces LED DustSpotter para iluminar las zonas oscuras
-- MODELO MASCOTAS, con boquilla Animal Care AEG que limpia eficazmente el pelo de los animales, los ácaros y el polvo de las tapicerías; recomendado para personas alérgicas
-- Sistema de filtración doble. Los filtros se pueden lavar fácilmente con agua, prolongando su vida útil. Sin necesidad de usar bolsa
+- ASPIRADORA 2 EN 1, Con batería de Ion-Litio de hasta 45 minutos de autonomía. Incluye cepillo motorizado animal care, cepillo para muebles, boquilla espacios estrechos y soporte de carga
 - SILENCIOSO. Bajo nivel de ruido de hasta 79 decibelios y depósito de 0.5L
-- AUTOLIMPIEZA patentada del rodillo de cepillo, que se retira automáticamente mediante la presión del pedal; la tecnología Brush Roll Clean elimina los pelos y fibras que se enredan en el cepillo
+- Sistema de filtración doble. Los filtros se pueden lavar fácilmente con agua, prolongando su vida útil. Sin necesidad de usar bolsa
+- 45 MIN. DE AUTONOMÍA, batería de litio TurboPower de alta densidad, con bajo nivel de ruido (hasta 79 decibelios) y luces LED DustSpotter para iluminar las zonas oscuras
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0748MM3ZM/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [adidas Nite Jogger Winterized  Zapatillas Deportivas Hombre  Crystal Whit
 
 ℹ️:
 
-- Retro Running
 - Empeine ligero
+- Retro Running
 - 3 bandas reflectantes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PVRFV81/?tag=tolees-21)

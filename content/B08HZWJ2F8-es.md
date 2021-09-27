@@ -28,10 +28,10 @@ En este momento está [Max Factor Colour Elixir Soft Matte - Barra de labios ton
 
 🔎:
 
-- Contiene escolano, vitaminas A,E y C, y proteínas de seda
 - Cuida tus labios y los hidrata
+- Contiene escolano, vitaminas A,E y C, y proteínas de seda
 - Sensación ligera, como si no llevaras nada
-- Fórmula única con pigmentos finos y tecnología Flex
 - Color impactante
+- Fórmula única con pigmentos finos y tecnología Flex
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HZWJ2F8/?tag=tolees-21)
