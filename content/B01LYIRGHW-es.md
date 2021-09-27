@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Michael Kors Reloj Cronógrafo para Mujer al 42.56 % de descuento'
-date: 2021-09-17 03:05:47
+date: 2021-09-27 03:12:55
 image: 'https://m.media-amazon.com/images/I/417AP6RX66L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Michael Kors'
 buyurl: 'https://www.amazon.es/dp/B01LYIRGHW/?tag=tolees-21'
 descuento: '42.56'
-average: '164.44'
+average: '164.240476190476'
 ---
 
 Está [Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con Correa en Acero Inoxidable MK6356](https://www.amazon.es/dp/B01LYIRGHW/?tag=tolees-21) con 42.56 de descuento por 160.25 EUR (original: 279.0 EUR) en el siguiente enlace!
