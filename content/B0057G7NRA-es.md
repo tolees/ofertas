@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trixie 401190529191 - Champú para pelo l al 63.80 % de descuento'
-date: 2021-09-26 07:01:56
+date: 2021-09-27 14:10:24
 image: 'https://m.media-amazon.com/images/I/414ufERx3DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
