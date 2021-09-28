@@ -28,8 +28,8 @@ Está [Clarks Ronnie Limit  Zapatos de Cordones Brogue Hombre  Marrón Oscuro Co
 
 ℹ️:
 
+- Cuero, textil, cuero, sintético, cordones, zapatos Derby
 - 1
 - Ancho del zapato: medio
-- Cuero, textil, cuero, sintético, cordones, zapatos Derby
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MFM2PF6/?tag=tolees-21)

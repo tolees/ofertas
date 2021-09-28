@@ -28,10 +28,10 @@ En este momento está [Artfan - Agenda 2021 2022 - Agenda Semanal - Julio de 202
 
 🔎:
 
-- Tamaño: 21,5 x 15,5 cm, muy fácil de trabajar, aprender o viajar.
-- Páginas mensuales: cada página mensual contiene una referencia de los calendarios del mes último y siguiente para una planificación clara, así como espacio para listas y tareas que te permiten escribir tus prioridades para este mes.
 - Cada vista semanal Pro Spread está dividida en secciones incluyendo sábado y domingo, lo que te permite organizar tu plan según la tarea, la hora del día o incluso después de varios horarios.
-- Diseño: la fuerte espiral de metal del calendario 2021 2022 tiene un aspecto vintage + el bolsillo interior puede ayudarte a almacenar tus objetos sueltos como billetes, papel, tarjetas y más.
 - Calendario académico 2021 2022 – con juli 2021 – junio 2022 secciones semanales y mensuales para facilitar la planificación y la fecha.
+- Páginas mensuales: cada página mensual contiene una referencia de los calendarios del mes último y siguiente para una planificación clara, así como espacio para listas y tareas que te permiten escribir tus prioridades para este mes.
+- Diseño: la fuerte espiral de metal del calendario 2021 2022 tiene un aspecto vintage + el bolsillo interior puede ayudarte a almacenar tus objetos sueltos como billetes, papel, tarjetas y más.
+- Tamaño: 21,5 x 15,5 cm, muy fácil de trabajar, aprender o viajar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08ZCPDLJB/?tag=tolees-21)
