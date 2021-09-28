@@ -28,9 +28,9 @@ Tienes [Geox D RUBIDIA A  Zapatillas Mujer  Blanco  40 EU](https://www.amazon.es
 
 🔎:
 
-- : Primavera / Verano
-- color:
 - artículo: D84Apa
+- color:
 - DiseñadorGeox
+- : Primavera / Verano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DJ3B4GP/?tag=tolees-21)
