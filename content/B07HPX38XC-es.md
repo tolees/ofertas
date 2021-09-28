@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung MUF-256AB unidad flash USB 256 G con un 48.08 % de descuento'
-date: 2021-09-26 11:02:57
+date: 2021-09-28 15:29:15
 image: 'https://m.media-amazon.com/images/I/414aIVIclCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B07HPX38XC/?tag=tolees-21'
 descuento: '48.08'
-average: '34.9599999999999'
+average: '34.7042857142856'
 ---
 
 En este momento está [Samsung MUF-256AB unidad flash USB 256 GB USB tipo A 3.2 Gen 1  3.1 Gen 1  Gris  Plata](https://www.amazon.es/dp/B07HPX38XC/?tag=tolees-21) a 29.59 EUR (original: 56.99 EUR) (48.08 %  de descuento) en el siguiente enlace!

@@ -28,11 +28,11 @@ Tienes [PLAY FUN BY IMC TOYS Special Mission - Convierte en un Súper Agente y d
 
 🔎:
 
-- Special Mission es un juego familiar basado en el mundo de los Súper Agentes
-- Sigue las pistas del agente especial para localizar el robot correcto
 - 36 robots diferentes i más de 100 misiones, emocionante y divertido
-- Localiza y desactiva el robot correcto
+- Sigue las pistas del agente especial para localizar el robot correcto
 - Juguete regalo ideal para niños a partir de 7 años
+- Localiza y desactiva el robot correcto
+- Special Mission es un juego familiar basado en el mundo de los Súper Agentes
 - Una vez localizado, gira la carta y resuelve las misiones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089MQL4X4/?tag=tolees-21)

@@ -28,7 +28,7 @@ Ahora mismo tienes [Lacoste L1312 T Shirt Polo  Red  5XL para Hombre](https://ww
 
 🔎:
 
-- Botones de nácar
 - Cuello y pulos acanalados
+- Botones de nácar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CY2TYBJ/?tag=tolees-21)
