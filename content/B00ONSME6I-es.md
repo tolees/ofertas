@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AEG AS MA Ambientadora para aspiradoras  al 48.90 % de descuento'
-date: 2021-09-26 19:24:54
+date: 2021-09-28 07:18:12
 image: 'https://m.media-amazon.com/images/I/41IPmW9UfFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Está [AEG AS MA Ambientadora para aspiradoras  Blanco](https://www.amazon.es/dp
 
 - Recomendamos que utilice un sobre de ambientador cada vez que cambies la bolsa o vacíes el depósito de polvo de su aspirador
 - facil de usar
-- blanco
 - modelo: ASMA
+- blanco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00ONSME6I/?tag=tolees-21)
