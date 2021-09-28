@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NEWPROJET ITALIA SRL Dragon Ball Z - NAN al 45.03 % de descuento'
-date: 2021-09-27 08:53:35
+date: 2021-09-28 12:26:23
 image: 'https://m.media-amazon.com/images/I/41d-J4yhKUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [NEWPROJET ITALIA SRL Dragon Ball Z - NANOBLOCK Vegeta 130 Pi
 
 🔎:
 
-- 130 piezas, incluidas las piezas de repuesto
-- figura de nanoblock Vegeta para bricolaje
 - conjunto de bloques de construcción mini Dragon Ball Z con licencia
-- contiene instrucciones detalladas
+- 130 piezas, incluidas las piezas de repuesto
 - Altura 5,1 cm
+- figura de nanoblock Vegeta para bricolaje
+- contiene instrucciones detalladas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NVCNDXJ/?tag=tolees-21)

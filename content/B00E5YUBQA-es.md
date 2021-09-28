@@ -28,8 +28,8 @@ Tienes [Wirquin SP2060099 - Capa Intermedia para Rebosadero  para Lavabo](https:
 
 ℹ️:
 
-- Dimensiones: 1500 x 1800 mm
 - Media cabina para el sifón piso de lluvias en el estilo italiano
+- Dimensiones: 1500 x 1800 mm
 - Material: Geotextil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00E5YUBQA/?tag=tolees-21)

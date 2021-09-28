@@ -28,9 +28,9 @@ Ahora mismo tienes [Funko- Pop TV: Miami Vice S2-Crockett Other License Collecti
 
 🔎:
 
-- Funko pop. Is the 2018 toy of the year and peoples choice award winner
-- Figure stands 9cm and comes in a window display box
 - Check out the other miami vice figures from funko collect them all
+- Funko pop. Is the 2018 toy of the year and peoples choice award winner
 - From miami vice, crockett, as a stylized pop vinyl from funko
+- Figure stands 9cm and comes in a window display box
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TXLKHVN/?tag=tolees-21)
