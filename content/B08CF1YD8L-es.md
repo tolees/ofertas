@@ -28,7 +28,7 @@ En este momento está [BOSS Swoody 1 10230695 01  Talla Mediana 31  M para Hombr
 
 🔎:
 
-- Acabado de alta calidad
 - Mezcla de materiales
+- Acabado de alta calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CF1YD8L/?tag=tolees-21)

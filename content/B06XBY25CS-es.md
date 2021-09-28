@@ -29,7 +29,7 @@ Tienes [ROLLY TOYS 271900 - Carretilla de Metal  Color Amarillo/Verde](https://w
 ℹ️:
 
 - Asas antideslizantes.
-- Para niños a partir de 2 años y medio.
 - Carretilla verde totalmente de metal.
+- Para niños a partir de 2 años y medio.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06XBY25CS/?tag=tolees-21)

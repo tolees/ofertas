@@ -28,9 +28,9 @@ Está [adidas FS1898 CORE18 SW Top Pullover Mens Bold Green L](https://www.amazo
 
 ℹ️:
 
+- Mangas con ribetes en contraste
 - Puños y dobladillo de canalé
 - Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 - Presenta ajuste regular
-- Mangas con ribetes en contraste
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XBM71PR/?tag=tolees-21)

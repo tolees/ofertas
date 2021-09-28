@@ -29,8 +29,8 @@ Ahora mismo tienes [Tommy Hilfiger Heritage Crew Neck tee Camiseta  Blanco  Clas
 🔎:
 
 - Artículo: WW0WW22043
-- Temporada: otoño/invierno
 - Diseñador: Tommy Hilfiger
+- Temporada: otoño/invierno
 - Color: blanco
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07N8YNT7W/?tag=tolees-21)

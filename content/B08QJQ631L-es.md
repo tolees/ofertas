@@ -29,8 +29,8 @@ Está [Springfield Polo Camiseta  Blanco  XS para Hombre](https://www.amazon.es/
 ℹ️:
 
 - De piqué
-- Con árbol bordado en el pecho
 - Polo regular
 - Tricolor
+- Con árbol bordado en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08QJQ631L/?tag=tolees-21)
