@@ -28,10 +28,10 @@ En este momento está [Imetec Bellissima My Pro Ceramic P5 3800 Secador profesio
 
 🔎:
 
-- Su emisión de iones mantiene la hidratación y reduce el encrespamiento del cabello
-- Apto para todo tipo de cabellos, especialmente los encrespados, secos y frágiles
-- Respeta, hidrata y protege el cabello mientras lo seca con la tecnología cerámica, material que, por su naturaleza, emite al calentarse un calor infrarrojos bueno
-- Motor profesional de CA: garantiza una larga vida útil del secador de pelo y un secado muy rápido gracias al potente chorro de aire
 - Concentrador ultraestrecho y difusor con elementos cerámicos incluidos en la caja
+- Apto para todo tipo de cabellos, especialmente los encrespados, secos y frágiles
+- Su emisión de iones mantiene la hidratación y reduce el encrespamiento del cabello
+- Motor profesional de CA: garantiza una larga vida útil del secador de pelo y un secado muy rápido gracias al potente chorro de aire
+- Respeta, hidrata y protege el cabello mientras lo seca con la tecnología cerámica, material que, por su naturaleza, emite al calentarse un calor infrarrojos bueno
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JVLQ38M/?tag=tolees-21)
