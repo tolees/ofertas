@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Swoody 1 10230695 01  Talla Mediana con un 60.98 % de descuento'
-date: 2021-09-27 16:07:35
+date: 2021-09-28 16:21:12
 image: 'https://m.media-amazon.com/images/I/41NDWIsNH+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BOSS'
 buyurl: 'https://www.amazon.es/dp/B08CF1YD8L/?tag=tolees-21'
 descuento: '60.98'
-average: '60.66'
+average: '59.9433333333333'
 ---
 
 En este momento está [BOSS Swoody 1 10230695 01  Talla Mediana 31  M para Hombre](https://www.amazon.es/dp/B08CF1YD8L/?tag=tolees-21) a 58.51 EUR (original: 149.95 EUR) (60.98 %  de descuento) en el siguiente enlace!

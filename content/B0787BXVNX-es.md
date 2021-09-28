@@ -29,9 +29,9 @@ Ahora mismo tienes [Asics Gel-Mission 3  Walking Shoe Mujer  Negro  Black/Carbon
 🔎:
 
 - Tecnología GEL
+- Suela de goma
 - Amortiguación EVA
 - Plantilla de malla
 - Parte superior firme
-- Suela de goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0787BXVNX/?tag=tolees-21)

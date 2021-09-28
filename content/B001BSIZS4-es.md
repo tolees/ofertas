@@ -29,8 +29,8 @@ Tienes [Tous Touch 100ml](https://www.amazon.es/dp/B001BSIZS4/?tag=tolees-21) co
 🔎:
 
 - El paquete puede variar
-- Corazón: Jazmín, osmanthus y flor de Tiare
-- Fondo: Flor de vainilla, frambuesa, almendra y miel.
 - Salida: flor de loto, Fresia y lirio del valle
+- Fondo: Flor de vainilla, frambuesa, almendra y miel.
+- Corazón: Jazmín, osmanthus y flor de Tiare
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001BSIZS4/?tag=tolees-21)

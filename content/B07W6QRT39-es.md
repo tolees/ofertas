@@ -28,7 +28,7 @@ Tienes [Dim Soutien-Gorge 3/4 Cup Avec Armatures Sublim Dentelle Sujetador con A
 
 🔎:
 
-- Encaje floral ultra femenino
 - Sujetador con aros, no acolchado
+- Encaje floral ultra femenino
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W6QRT39/?tag=tolees-21)
