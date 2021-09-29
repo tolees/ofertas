@@ -29,9 +29,9 @@ Tienes [Bizak Spinner Mad Meteoroid  color blanco  62006305 ](https://www.amazon
 🔎:
 
 - Viene con puntero láser y monitor de potencia
-- Con puntero láser
-- Coloca la peonza spinner en la pistola blaster y cárgala para lanzar
-- Con el puntero láser, puedes apuntar a tu oponente y con el monitor de potencia compruebas la potencia de giro en tiempo real
 - Cuanto más potencia le des más poderoso será el ataque
+- Con el puntero láser, puedes apuntar a tu oponente y con el monitor de potencia compruebas la potencia de giro en tiempo real
+- Coloca la peonza spinner en la pistola blaster y cárgala para lanzar
+- Con puntero láser
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08W5FD4WL/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Bosch Professional Nivel láser GCL 2-15  láser rojo  interior  con punt
 
 ℹ️:
 
-- USO PROFESIONAL: Nivel láser de líneas con puntos de plomada, compacto y versátil para todos los trabajos de nivelación en distancias cortas
 - DATOS TÉCNICOS: clase de láser 2, IP 54, intervalo de autonivelación ± 4°, precisión de nivelación ± 0,3 mm/m
-- NUMEROSAS APLICACIONES: Uso flexible y múltiples posibilidades de fijación gracias al soporte multifunción giratorio RM 1 Professional
+- USO PROFESIONAL: Nivel láser de líneas con puntos de plomada, compacto y versátil para todos los trabajos de nivelación en distancias cortas
 - FUNCIONES: Líneas de láser horizontales y verticales y dos puntos de plomada centrados con una visibilidad óptima
 - INCLUYE: GCL 2-15 con soporte giratorio RM 1 Professional, 3 pilas AA, placa reflectora láser, funda, bandeja para L-BOXX
+- NUMEROSAS APLICACIONES: Uso flexible y múltiples posibilidades de fijación gracias al soporte multifunción giratorio RM 1 Professional
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01FLJ6DO6/?tag=tolees-21)

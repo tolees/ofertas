@@ -28,11 +28,11 @@ Está [Heinz Salsa 3 Pimientas envase 220ml](https://www.amazon.es/dp/B01DUXBOIA
 
 ℹ️:
 
+- Alérgenos: Apio, Leche, Soja y Trigo
+- Aporta un toque picante, aromático y de gran sabor a cualquier platillo
 - Aceite de Girasol, agua, vinagre, azúcar, suero de leche en polvo, sal, almidón modificado, colorante (caramelo natural), salsa de soja, pimienta negra, pimienta verde, pimienta blanca, extractos de hierbas y especias (contiene apio), aroma, espesante (goma xanana), corrector de acidez (ácido cítrico), ajo en polvo
-- Una vez abierto conservar en frigorífico
 - Salsa cremosa de pimienta negra, blanca y verde
 - Adecuada para platos con carne
-- Aporta un toque picante, aromático y de gran sabor a cualquier platillo
-- Alérgenos: Apio, Leche, Soja y Trigo
+- Una vez abierto conservar en frigorífico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DUXBOIA/?tag=tolees-21)
