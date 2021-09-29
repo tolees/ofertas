@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TFA 98.1102  LCD  Negro  Plata  150 x 77 al 44.60 % de descuento'
-date: 2021-09-11 14:30:20
+date: 2021-09-29 09:33:21
 image: 'https://m.media-amazon.com/images/I/31zsg+CtlXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

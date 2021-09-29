@@ -28,10 +28,10 @@ Está [Electronic Arts - FIFA 17 - Standard Edition [Importación Inglesa]](http
 
 ℹ️:
 
-- Optimo producto
-- Producto creado para satisfacer todas las necesidades
 - Fácil de usar
+- Producto creado para satisfacer todas las necesidades
 - Gama confiable
+- Optimo producto
 - Producto elaborado con cuidado y precisión
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01F5D1MLC/?tag=tolees-21)
