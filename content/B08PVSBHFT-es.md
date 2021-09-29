@@ -28,8 +28,8 @@ En este momento está [adidas Continental 80  Zapatillas Deportivas Hombre  FTWR
 
 🔎:
 
-- Zapatillas deportivas
 - Estilo vintage
 - Empeine de piel lisa
+- Zapatillas deportivas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PVSBHFT/?tag=tolees-21)
