@@ -28,12 +28,12 @@ Tienes [Logitech Rugged Folio – Funda con teclado para iPad  7. 8. & 9. genera
 
 🔎:
 
-- Fila completa de teclas de acceso directo de iOS – Ya no tienes que buscar en la pantalla o en los menús para realizar acciones sencillas
-- Soporte para Logitech Crayon, Apple Pencil (1.ª generación) y otros lápices digitales – Rugged Folio ofrece un espacio dedicado al lápiz digital, para tener siempre a mano una herramienta de escritura
-- Teclas resistentes a salpicaduras y suciedad – Una membrana duradera sella el teclado y lo protege de bebidas derramadas, migajas del bocadillo del almuerzo y otros contratiempos cotidianos; En caso de accidente, el teclado puede limpiarse sin temor a dañarlo
-- Cuatro modos de uso – Cuatro modos s aportan flexibilidad para usar Rugged Folio en cualquier entorno o tarea: escribir, dibujar, ver y leer
-- Escritura silenciosa – Las teclas están diseñadas para no hacer ruido y poder escribir sin distraer a nadie alrededor al trabaja en un espacio público o una oficina de planta abierta
 - Smart Connector – El teclado encaja mediante un mecanismo magnético y se conecta al instante, sin necesidad de complicados emparejamientos Bluetooth, y se alimenta directamente del iPad (7.ª generación) o sea que no hace falta cargarlo
+- Soporte para Logitech Crayon, Apple Pencil (1.ª generación) y otros lápices digitales – Rugged Folio ofrece un espacio dedicado al lápiz digital, para tener siempre a mano una herramienta de escritura
+- Cuatro modos de uso – Cuatro modos s aportan flexibilidad para usar Rugged Folio en cualquier entorno o tarea: escribir, dibujar, ver y leer
+- Teclas resistentes a salpicaduras y suciedad – Una membrana duradera sella el teclado y lo protege de bebidas derramadas, migajas del bocadillo del almuerzo y otros contratiempos cotidianos; En caso de accidente, el teclado puede limpiarse sin temor a dañarlo
+- Escritura silenciosa – Las teclas están diseñadas para no hacer ruido y poder escribir sin distraer a nadie alrededor al trabaja en un espacio público o una oficina de planta abierta
+- Fila completa de teclas de acceso directo de iOS – Ya no tienes que buscar en la pantalla o en los menús para realizar acciones sencillas
 - Protección de grado militar contra caídas – Nuestra tecnología y materiales s de absorción de impactos ayudan a Rugged Folio a superar las pruebas del estándar militar para obtener niveles de protección contra caídas y otros infortunios
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W5JK4VJ/?tag=tolees-21)

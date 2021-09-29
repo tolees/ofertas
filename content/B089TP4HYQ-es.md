@@ -28,10 +28,10 @@ Tienes [Asics Gel-Excite 8  Road Running Shoe Mujer  Black/Hot Pink  35.5 EU](ht
 
 🔎:
 
-- Amortiguación GEL
 - Tecnología GUIDANCE LINE
 - Tecnología Amplifoam
 - Parte superior de malla con superposiciones sintéticas
+- Amortiguación GEL
 - Plantilla Ortholite
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089TP4HYQ/?tag=tolees-21)

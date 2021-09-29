@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Martina D Antiochia  La Diversión de Mar al 59.25 % de descuento'
-date: 2020-01-24 13:46:09
-image: 'https://m.media-amazon.com/images/I/41u1dSgvx7L._AC_._SL400_.jpg'
+title: 'Karactermania Martina D Antiochia  La Di al 46.10 % de descuento'
+date: 2021-09-29 11:36:36
+image: 'https://m.media-amazon.com/images/I/41u1dSgvx7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07XDVDVKL-es Martina D Antiochia La Diversión de Martina Grey-Riñonera...'
+slug: 'B07XDVDVKL-es Karactermania Martina D Antiochia La Diversión de Martina...'
 sku: 'B07XDVDVKL-es'
-tags: [  ]
-actualPrice: 5.95 EUR
+tags: [ 'Equipaje','Riñoneras','Riñoneras de moda','karactermania', ]
+actualPrice: 7.87 EUR
 currency: EUR
-price: 5.95
+price: 7.87
 comparePrice: 14.6 EUR
-prodname: 'Martina D Antiochia  La Diversión de Martina  Grey-Riñonera Waist'
+prodname: 'Karactermania Martina D Antiochia  La Diversión de Martina  Grey-Riñonera Waist  Unica'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'KARACTERMANIA'
 buyurl: 'https://www.amazon.es/dp/B07XDVDVKL/?tag=tolees-21'
-descuento: '59.25'
-average: '5.95'
+descuento: '46.10'
+average: '6.43'
 ---
 
-Ahora mismo tienes [Martina D Antiochia  La Diversión de Martina  Grey-Riñonera Waist](https://www.amazon.es/dp/B07XDVDVKL/?tag=tolees-21) a 5.95 EUR (original: 14.6 EUR) (59.25 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Karactermania Martina D Antiochia  La Diversión de Martina  Grey-Riñonera Waist  Unica](https://www.amazon.es/dp/B07XDVDVKL/?tag=tolees-21) a 7.87 EUR (original: 14.6 EUR) (46.10 %  de descuento) en el siguiente enlace!
 
-[![Martina D Antiochia  La Diversión de Mar](https://m.media-amazon.com/images/I/41u1dSgvx7L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07XDVDVKL/?tag=tolees-21)
+[![Karactermania Martina D Antiochia  La Di](https://m.media-amazon.com/images/I/41u1dSgvx7L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07XDVDVKL/?tag=tolees-21)
 
 🔎:
 
+- Bolsa riñonera con cierre de cremallera y bolsillo trasero
+- Correa ajustable a la cintura de 105cm
+- Forro interior con bolsillo adicional
+- Dimensiones: 16,5 x 23 x 8 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XDVDVKL/?tag=tolees-21)
