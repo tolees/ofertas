@@ -28,10 +28,10 @@ En este momento está [Hurley M Phtm Point 18 ](https://www.amazon.es/dp/B08Q8LM
 
 🔎:
 
-- Bolsillo trasero con velcro y tirador de grosgrain.
-- Costura exterior de 18 ”con dobladillo festoneado.
+- El tejido elástico Hurley Phantom con revestimiento DWR proporciona movilidad, durabilidad y secado rápido
 - Bañador Hurley M Phtm Point 18
 - 86% poliéster reciclado / 14% spandex
-- El tejido elástico Hurley Phantom con revestimiento DWR proporciona movilidad, durabilidad y secado rápido
+- Costura exterior de 18 ”con dobladillo festoneado.
+- Bolsillo trasero con velcro y tirador de grosgrain.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08Q8LMNT8/?tag=tolees-21)
