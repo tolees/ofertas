@@ -28,10 +28,10 @@ Ahora mismo tienes [Trust Gaming GXT - Micrófono Profesional con Pantalla Absor
 
 🔎:
 
-- SET-UP DE ESTUDIO COMPLETO – Micrófono de alta calidad con filtro de reflexión para reducir ruidos no deseados. Ideal para transmitir y grabar podcasts y música con calidad digital, gracias al cable USB fácil de utilizar
-- GRABACIÓN CARDIOIDE – El micrófono se sirve de un patrón de grabación cardioide para reducir los ruidos de fondo tanto como sea posible. Para conseguir magníficas grabaciones que se centren en la voz o el instrumento, no en lo que está pasando detrás
 - LATENCIA CERO – Gracias a la clavija de los auriculares con control de latencia cero, las grabaciones se escuchan en el momento en el que se realizan. Esto permite ajustar la voz inmediatamente, lo cual contribuye a lograr un rendimiento máximo
-- CON FILTRO DE REFLEXIÓN – El micrófono Rudox se suministra con un filtro de reflexión de grandes proporciones (42 × 31 cm) que reduce los ecos no deseados. La espuma absorbe los ruidos de fondo, de manera que solamente se registre la voz para conseguir una grabación verdaderamente profesional
 - SE COLOCA EN CUALQUIER LUGAR – El micrófono se suministra con un soporte robusto y un montaje con efecto amortiguador de alta calidad. También se puede colocar en cualquier brazo para micrófono (no incluido) con un montaje con tornillo de 5/8”
+- CON FILTRO DE REFLEXIÓN – El micrófono Rudox se suministra con un filtro de reflexión de grandes proporciones (42 × 31 cm) que reduce los ecos no deseados. La espuma absorbe los ruidos de fondo, de manera que solamente se registre la voz para conseguir una grabación verdaderamente profesional
+- GRABACIÓN CARDIOIDE – El micrófono se sirve de un patrón de grabación cardioide para reducir los ruidos de fondo tanto como sea posible. Para conseguir magníficas grabaciones que se centren en la voz o el instrumento, no en lo que está pasando detrás
+- SET-UP DE ESTUDIO COMPLETO – Micrófono de alta calidad con filtro de reflexión para reducir ruidos no deseados. Ideal para transmitir y grabar podcasts y música con calidad digital, gracias al cable USB fácil de utilizar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08P3PKXS2/?tag=tolees-21)

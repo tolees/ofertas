@@ -28,10 +28,10 @@ Ahora mismo tienes [Michael Kors Reloj. MK6835](https://www.amazon.es/dp/B0842DH
 
 🔎:
 
-- Ancho de la correa: 20 mm; circunferencia de la correa: 190 +/-5 mm
-- Se envía en caja de regalo de Michael Kors
-- Material de la correa: acero inoxidable
 - Sumergible: 5 atm
+- Se envía en caja de regalo de Michael Kors
+- Ancho de la correa: 20 mm; circunferencia de la correa: 190 +/-5 mm
 - Grosor de la caja: 10 mm. Tamaño de la caja: 42 mm
+- Material de la correa: acero inoxidable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0842DHQGS/?tag=tolees-21)

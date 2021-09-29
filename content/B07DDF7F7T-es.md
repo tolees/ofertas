@@ -28,10 +28,10 @@ Ahora mismo tienes [PONY DANCE Visillos Blancos Trabillas Exterior Jardin - Cort
 
 🔎:
 
-- Fácil de Colgar：Cada panel cuenta trabillas. Es fácil de Colgar y desmontar.
-- Material: Los visillos está fabricado a través de trato especial. Este material es impermeable y es rápido de secar.
 - Tamaño: Cada paquete tiene 1 pieza. Cada unidad es de 137 cm de ancho, 243 cm de largo. Cada panel tiene 1 abrazadera de cortina.
 - Multifunción: Es la opción ideal para balcón, patio, jardín, etc.
+- Material: Los visillos está fabricado a través de trato especial. Este material es impermeable y es rápido de secar.
+- Fácil de Colgar：Cada panel cuenta trabillas. Es fácil de Colgar y desmontar.
 - Consejos para Lavar: Plancha rápido o limpieza a vapor. Es lavable a máquina. La tiende para secar.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DDF7F7T/?tag=tolees-21)

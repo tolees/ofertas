@@ -28,8 +28,8 @@ Ahora mismo tienes [Vileda - Salvauñas antibacterias - Bayeta super absorbente 
 
 🔎:
 
-- La bayeta aporta una gran absorción
 - Salvauñas con doble cara: Estropajo y Bayeta
 - La fibra verde permite una gran capacidad de limpieza sin rayar
+- La bayeta aporta una gran absorción
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MFFWOB2/?tag=tolees-21)

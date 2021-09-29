@@ -28,9 +28,9 @@ Tienes [Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con Correa en Acero 
 
 🔎:
 
-- Esfera blanca con estampado, glitz en los índices, número árabe en color oro rosa a las 12 y bisel interior blanco; cronógrafo con fecha y modo 24h; agujas en color oro rosa luminiscentes; cristal mineral
-- Brazalete de acero inoxidable con acabado pulido en color oro rosa con eslabones de acetato blanco en el centro; cierre desplegable
 - Presentado en estuche MICHAEL KORS
+- Brazalete de acero inoxidable con acabado pulido en color oro rosa con eslabones de acetato blanco en el centro; cierre desplegable
 - Reloj de mujer MICHAEL KORS: caja redonda de acero inoxidable, diámetro 39 mm, con acabado pulido en color oro rosa; 2 pulsadores en color oro rosa; 10 ATM de resistencia a la presión del agua; bisel con glitz
+- Esfera blanca con estampado, glitz en los índices, número árabe en color oro rosa a las 12 y bisel interior blanco; cronógrafo con fecha y modo 24h; agujas en color oro rosa luminiscentes; cristal mineral
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00BFO9PVK/?tag=tolees-21)
