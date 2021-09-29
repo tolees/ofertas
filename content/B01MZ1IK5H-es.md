@@ -28,8 +28,8 @@ Tienes [Calvin Klein Ck One Edt Vapo 200 Ml - 200 ml](https://www.amazon.es/dp/B
 
 ℹ️:
 
+- Hombres Calvin Klein
 - (3607343811798)
 - Agua de colonia para hombres Perfumes y fragancias Hombre
-- Hombres Calvin Klein
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MZ1IK5H/?tag=tolees-21)

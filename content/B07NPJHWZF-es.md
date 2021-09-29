@@ -28,8 +28,8 @@ Ahora mismo tienes [Skechers Status 2.0 Pexton  Zapatillas Hombre  Negro  Black 
 
 🔎:
 
+- Arco Gaga Mat
 - Corte clásico
 - Espuma viscoelástica refrigerada por aire
-- Arco Gaga Mat
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NPJHWZF/?tag=tolees-21)

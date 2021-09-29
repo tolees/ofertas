@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas GH7306 TIRO21 TR PNT Sport Trousers Mens Black L](htt
 
 🔎:
 
-- Bolsillos delanteros con cremallera
 - Corte ajustado con la pierna estrecha
-- Cordón elástico en la cintura
+- Bolsillos delanteros con cremallera
 - Malla pesada (AEROREADY): 100% poliéster reciclado
+- Cordón elástico en la cintura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PP2VQQT/?tag=tolees-21)

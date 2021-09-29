@@ -29,8 +29,8 @@ En este momento está [Daniel Wellington Classic Reading  Reloj Negro/Oro Rosado
 🔎:
 
 - Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
+- Tamaño de Esfera: 40 mm
 - Correa intercambiable
 - Longitud de la correa ajustable: (Min - Max) 165-215mm
-- Tamaño de Esfera: 40 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LZ2W38F/?tag=tolees-21)
