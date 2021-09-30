@@ -29,8 +29,8 @@ En este momento está [CURLI - Chaleco de malla arnés para perro](https://www.a
 🔎:
 
 - Equipada con un asa cómodo forrado de neopreno y con una anilla para la fijación de accesorios o dispensadores de bolsitas
-- La malla es una combinación de materiales transpirables, que consisten de 2 diferentes niveles horizontales conectados por fibras verticales
 - El arnés lleva un DogFinder ID, numero de registro que puede ayudar a reencontrar el perro en caso de pérdida
+- La malla es una combinación de materiales transpirables, que consisten de 2 diferentes niveles horizontales conectados por fibras verticales
 - Dispone de bandas reflectores en el cuello y cierres fácil de abrir
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0087YYC3M/?tag=tolees-21)

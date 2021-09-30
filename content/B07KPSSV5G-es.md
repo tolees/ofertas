@@ -29,9 +29,9 @@ Tienes [Funko- Pop Vinilo: Overwatch S5: Brigitte Figura Coleccionable  Multicol
 ℹ️:
 
 - Funko pop vinyl
-- Juguete del año 2018
-- Brigitte
 - Games: overwatch s5
 - De la colección overwatch, brigitte como figura de vinilo pop de funko
+- Brigitte
+- Juguete del año 2018
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KPSSV5G/?tag=tolees-21)

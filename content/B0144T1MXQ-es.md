@@ -28,9 +28,9 @@ Está [Alpino 654  Estuche  1  Multicolor](https://www.amazon.es/dp/B0144T1MXQ/?
 
 ℹ️:
 
-- Vienen en estuche deslizable
 - Libres de madera
-- Juego de 12 lápices
+- Vienen en estuche deslizable
 - De colores vivos surtidos
+- Juego de 12 lápices
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0144T1MXQ/?tag=tolees-21)

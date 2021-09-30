@@ -28,11 +28,11 @@ Ahora mismo tienes [BaByliss C332E Tenacilla de pelo de 32 mm  10 ajustes de tem
 
 🔎:
 
-- Fuente de alimentación: Red
-- Diámetro de 38 mm
-- 10 posiciones de 110° C a 180° C
-- Punta fría de agarre
 - Cable giratorio
+- Diámetro de 38 mm
 - Soporte de apoyo
+- Punta fría de agarre
+- Fuente de alimentación: Red
+- 10 posiciones de 110° C a 180° C
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007BJEKIQ/?tag=tolees-21)

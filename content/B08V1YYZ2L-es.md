@@ -29,9 +29,9 @@ Ahora mismo tienes [HAWKERS Bowie Gafas de Sol  Gold · Brown Gradient  Talla ú
 🔎:
 
 - Gafas de sol clásicas ovaladas efecto rimless con lentes marrones degradadas y estructura de acero inoxidable pulido en tonos dorados. Las patillas ultrafinas están acabadas con una hendidura efecto mate e incorporan terminales transparentes de TR90 pulido color caramelo.
+- Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
+- Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
 - Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes
 - Modelo unisex. Medidas: Frontal 13,5 cm; Alto 4 cm; Diámetro lente 5,2 cm; Puente 1,9 cm; Patillas 14 cm
-- Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
-- Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08V1YYZ2L/?tag=tolees-21)

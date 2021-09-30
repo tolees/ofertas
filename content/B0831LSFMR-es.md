@@ -28,10 +28,10 @@ Está [Pata Negra - Estuche de 3 Botellas de Vino - Rioja Reserva  Ribera del Du
 
 ℹ️:
 
-- Surtido completo que abarca una selección de vinos tintos con distintos tonos, aromas y sabores
-- Perfecto para regalar o disfrutar en casa. Experimenta sabores y aromas combinando la cata con diferentes platos
-- Incluye 1 botella de Pata Negra Rioja Reserva, 1 botella de Pata Negra Ribera Reserva y 1 botella de Pata Negra Apasionado Ecológico
-- Elaborados a partir de las mejores variedades de uvas, siguiendo procesos de vinificación controlados
 - Selección de tres botellas de vino tinto Pata Negra de las Denominaciones Ribera, Rioja y Jumilla, entregadas en estuche de madera
+- Elaborados a partir de las mejores variedades de uvas, siguiendo procesos de vinificación controlados
+- Incluye 1 botella de Pata Negra Rioja Reserva, 1 botella de Pata Negra Ribera Reserva y 1 botella de Pata Negra Apasionado Ecológico
+- Perfecto para regalar o disfrutar en casa. Experimenta sabores y aromas combinando la cata con diferentes platos
+- Surtido completo que abarca una selección de vinos tintos con distintos tonos, aromas y sabores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0831LSFMR/?tag=tolees-21)
