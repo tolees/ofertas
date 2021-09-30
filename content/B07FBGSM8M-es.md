@@ -28,10 +28,10 @@ En este momento está [Intex 26644 - Depuradora de arena Krystal Clear 4.500 lit
 
 🔎:
 
-- Sistema de depuraci?n por arena Intex para piscias desmontables de hasta 29.100 litros y caudal m?ximo de 4.500 litros por hora
 - Hydro Aeration Technology, sistema exclusivo Intex que mejora la pureza y limpieza del agua de forma aut?noma y sin costes o procesos extra
+- Sistema de depuraci?n por arena Intex para piscias desmontables de hasta 29.100 litros y caudal m?ximo de 4.500 litros por hora
 - Funciona con arena de s?lice N?20 o arena de vidrio (no incluidas), tanque de 25.4 cm de di?metro con capacidad para 12 Kg de arena o 8.5 Kg de vidrio
-- Válvulas de émbolo y accesorios de salida de 38 mm NO incluidos
 - Nuevo programador digital con opci?n de encendido cada 24h, bloqueo y desbloqueo y apagado o encendido manual, prefiltro exterior y 6 modos de funcionamiento
+- Válvulas de émbolo y accesorios de salida de 38 mm NO incluidos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FBGSM8M/?tag=tolees-21)

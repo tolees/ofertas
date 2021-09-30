@@ -28,8 +28,8 @@ Ahora mismo tienes [Colon Higiene Advanced Detergente para la ropa  elimina olor
 
 🔎:
 
-- Detergente para lavadora en formato cápsula con activos higiénicos elimina olores y acción todo en 1
 - Eficacia en agua fría y ciclos cortos
+- Detergente para lavadora en formato cápsula con activos higiénicos elimina olores y acción todo en 1
 - Limpieza profunda, higieniza y elimina los malos olores de ropa como toallas, sábanas, ropa de deporte o ropa del día a día
 - Las cápsulas de detergente para la ropa te permiten utilizar la dosis óptima para tu colada
 - Apto para ropa blanca y de color, no daña los tejidos y deja una fragancia fresca en tu ropa

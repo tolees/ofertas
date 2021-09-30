@@ -28,8 +28,8 @@ Está [adidas CON20 TR JKT Sport Jacket  Hombre  Team Royal Blue  L](https://www
 
 ℹ️:
 
-- Regular fit
-- Bright fabric
 - Great freedom of movement
+- Bright fabric
+- Regular fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081TT76RB/?tag=tolees-21)

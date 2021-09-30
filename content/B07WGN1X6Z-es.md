@@ -28,9 +28,9 @@ Está [Reloj Seiko para Hombre  Azul  Suits  1K1](https://www.amazon.es/dp/B07WG
 
 ℹ️:
 
-- Cierre: Cierre deployante
 - Material de la esfera: Hardlex
 - Color de la esfera: Azul
+- Cierre: Cierre deployante
 - Material de la caja: Acero inoxidable
 - Pulsera: Acero inoxidable
 

@@ -28,8 +28,8 @@ En este momento está [FILA Disruptor wmn zapatilla Mujer  blanco  White   37 EU
 
 🔎:
 
+- Distribuidor Auorizado Fila
 - Se recomienda elegir un número más que el de Adidas.
 - Zapatillas cómodas y cómodas
-- Distribuidor Auorizado Fila
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WQF58M/?tag=tolees-21)
