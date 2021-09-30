@@ -28,10 +28,10 @@ En este momento está [NaturGreen - Lentejas Rojas Bio  Agricultura Ecólogica  
 
 🔎:
 
-- Almacenar en lugar fresco y seco.
-- Las lentejas rojas son especialmente ligeras y se cocinan rápidamente, quedando suaves y cremosas.
+- Modo de empleo: Poner 1 taza de lentejas por cada 2-3 tazas de agua y cocer según su gusto. No es necesario ponerlas a remojo. Pruébelas en sus cremas y salsas.
 - Las lentejas rojas son especialmente ligeras y se cocinan rápidamente, quedando suaves y cremosas. Este paquete contiene 500 gramos de lenteja roja.
 - Ingredientes: Lenteja roja (100%). Ingrediente procedente de la Agricultura Ecológica. Este producto se fabrica en una planta donde se manipulan frutos secos, soja y sésamo.
-- Modo de empleo: Poner 1 taza de lentejas por cada 2-3 tazas de agua y cocer según su gusto. No es necesario ponerlas a remojo. Pruébelas en sus cremas y salsas.
+- Las lentejas rojas son especialmente ligeras y se cocinan rápidamente, quedando suaves y cremosas.
+- Almacenar en lugar fresco y seco.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M31TMH8/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [HOMCOM Casa de Muñecas con Muebles Mobiliario Casita Muñeca Jueguetes 
 🔎:
 
 - 4 Pisos con gran espacio de: garaje, comedor, sala de estar, cocina, habitacion de piano, dormitorio, balcon
-- Material: MDF, Madera de Pino
 - Casita de muñecas maravillosa con mobiliario completo para las muñecas.Ideal regalo para sus niños
-- Medidas totales: 60,5x30x80,5cm (LxAnxAl)
 - 13 Piezas de accesorios: Una mesa, dos sillas, una cocina, un retrete, una bañera, un piano, un banco de piano, un sofá, una cama, una mesilla, un tocador, un armario
+- Material: MDF, Madera de Pino
+- Medidas totales: 60,5x30x80,5cm (LxAnxAl)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M4LNTM4/?tag=tolees-21)
