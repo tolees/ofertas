@@ -28,10 +28,10 @@ En este momento está [Element - Backwoods Unisex adulto 46 EU](https://www.amaz
 
 🔎:
 
-- Interior de malla hecha de poliéster reciclado
-- Adhesivos al agua
 - Cordones de algodón orgánico
-- Empeine de cuero y ante con suela exterior de goma reciclada
+- Adhesivos al agua
 - Estilo icónico de Element
+- Empeine de cuero y ante con suela exterior de goma reciclada
+- Interior de malla hecha de poliéster reciclado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083PKGQ8H/?tag=tolees-21)

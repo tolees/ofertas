@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.43 % en Funko- Pop Vinilo: Overwatch S5: Brigitt'
-date: 2021-09-24 17:26:33
+date: 2021-09-30 08:35:43
 image: 'https://m.media-amazon.com/images/I/41F7iMaCHLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07KPSSV5G/?tag=tolees-21'
 descuento: '56.43'
-average: '7.16666666666667'
+average: '7.13571428571429'
 ---
 
 Tienes [Funko- Pop Vinilo: Overwatch S5: Brigitte Figura Coleccionable  Multicolor  37429 ](https://www.amazon.es/dp/B07KPSSV5G/?tag=tolees-21) con un 56.43 % de descuento con precio de oferta de 6.95 EUR (original: 15.95 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Funko- Pop Vinilo: Overwatch S5: Brigitte Figura Coleccionable  Multicol
 
 ℹ️:
 
-- Juguete del año 2018
-- Games: overwatch s5
 - Funko pop vinyl
-- De la colección overwatch, brigitte como figura de vinilo pop de funko
+- Juguete del año 2018
 - Brigitte
+- Games: overwatch s5
+- De la colección overwatch, brigitte como figura de vinilo pop de funko
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KPSSV5G/?tag=tolees-21)

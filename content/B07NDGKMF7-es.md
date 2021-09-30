@@ -28,11 +28,11 @@ Ahora mismo tienes [CREW REPUBLIC® Craft Beer IPA Mix | Set de degustación | R
 
 🔎:
 
-- 🍺EL SET DE REGALO PERFECTO: ¿Está interesado en una degustación de cerveza en casa? Nuestro set IPA es el regalo perfecto para todos los amantes de la cerveza. Y seamos sinceros, no hace falta un motivo especial para tomar una buena cerveza
 - 🍺CERVEZAS PREMIADAS: Todas nuestras cervezas son de renombre nacional e internacional. Nuestra Drunken Sailor lleva el título de Mejor IPA del Mundo 2020. Representamos a la genialidad certificada
-- 🍺DIVERSAMENTE LUPULADA: Desde nuestra Session IPA ligera hasta nuestra Double IPA fuerte, todo está ahí. Recibe 3x Drunken Sailor, 3x Hop Junkie, 3x 7:45 Escalation y 3x In Your Face
 - 🍺SET DE DEGUSTACIÓN DE IPA: ¿Eres un verdadero amante del lúpulo (hop-head) y no puedes elegir entre nuestro surtido de IPA? Entonces nuestro muestrario de IPA es el adecuado para usted
-- 🍺ELABORADA SEGÚN LA LEY DE PUREZA ALEMANA Producimos una verdadera cerveza artesanal, con un sabor excepcional, cumpliendo estrictamente la Ley de Pureza Alemana y utilizando únicamente los mejores ingredientes naturales
+- 🍺EL SET DE REGALO PERFECTO: ¿Está interesado en una degustación de cerveza en casa? Nuestro set IPA es el regalo perfecto para todos los amantes de la cerveza. Y seamos sinceros, no hace falta un motivo especial para tomar una buena cerveza
 - 🍺APOYA A UNA CERVECERÍA JOVEN QUE RECIÉN COMIENZA: ¿Amas la cerveza y queres apoyar a una start-up? Entonces estás en el lugar indicado. Nuestra microcervecería artesanal fue fundada en Munich en 2022
+- 🍺DIVERSAMENTE LUPULADA: Desde nuestra Session IPA ligera hasta nuestra Double IPA fuerte, todo está ahí. Recibe 3x Drunken Sailor, 3x Hop Junkie, 3x 7:45 Escalation y 3x In Your Face
+- 🍺ELABORADA SEGÚN LA LEY DE PUREZA ALEMANA Producimos una verdadera cerveza artesanal, con un sabor excepcional, cumpliendo estrictamente la Ley de Pureza Alemana y utilizando únicamente los mejores ingredientes naturales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NDGKMF7/?tag=tolees-21)

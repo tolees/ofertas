@@ -28,8 +28,8 @@ Tienes [Maisto Vespa 1: 18   color/modelo surtido](https://www.amazon.es/dp/B00C
 
 ℹ️:
 
-- Material fiable
 - Vespa 1:18 Maisto
+- Material fiable
 - Diversión asegurada
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CDVH0IY/?tag=tolees-21)

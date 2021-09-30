@@ -28,9 +28,9 @@ Tienes [Under Armour Whisperlight Tie Back Tank Tanque  Mujer  Blanco  LG](https
 
 🔎:
 
-- Inserciones de malla en la espalda para una mayor ventilación
 - Tejido Whisperlight suave que aporta una gran elasticidad y recuperación de la forma, una sensación suave y más rendimiento y transpirabilidad
-- Material que capilariza el sudor y se seca rápidamente
 - Corte completo para ofrecer comodidad
+- Material que capilariza el sudor y se seca rápidamente
+- Inserciones de malla en la espalda para una mayor ventilación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L9G9TXP/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [SUPERGA 2287-cotw  Zapatillas de Gimnasia con Plataforma Muj
 
 🔎:
 
+- Material exterior: tela
 - Material de la suela: goma
 - Forro: tela
-- Material exterior: tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F86FCH2/?tag=tolees-21)
