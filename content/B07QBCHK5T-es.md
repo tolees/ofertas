@@ -28,8 +28,8 @@ Tienes [adidas Advantage C  Sneaker  Cloud White/Real Pink/Cloud White  34 EU](h
 
 ℹ️:
 
-- Suela de goma
 - Parte superior sintética
+- Suela de goma
 - Forro textil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QBCHK5T/?tag=tolees-21)

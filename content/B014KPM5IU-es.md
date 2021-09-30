@@ -30,7 +30,7 @@ Tienes [Reebok Pesos de la Muñeca - 1.5 kg](https://www.amazon.es/dp/B014KPM5IU
 
 - Cierre fácilmente ajustable
 - Par de muñequeras lastradas azules/ grises de 1.5kg del range Women’s Training de Reebok
-- Cómodo ajuste del pulgar
 - Circunferencia ajustable: mínimo 14.5cm - máximo 20cm
+- Cómodo ajuste del pulgar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B014KPM5IU/?tag=tolees-21)
