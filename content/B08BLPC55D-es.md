@@ -30,7 +30,7 @@ Tienes [Geox J Borealis Girl B  Fisherman Sandal  Navy Avio  31 EU](https://www.
 
 - Suela: goma
 - Cierre: velcro + cordones elásticos
-- Material interior: sintético
 - Material exterior: sintético
+- Material interior: sintético
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BLPC55D/?tag=tolees-21)

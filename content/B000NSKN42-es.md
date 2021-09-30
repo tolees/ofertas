@@ -28,8 +28,8 @@ Ahora mismo tienes [VANS UA Classic Slip-On  Zapatillas Unisex Adulto  Blk&WhtCh
 
 🔎:
 
-- A estrenar y genuina. Somos un vendedor autorizado de Vans.
 - Ver descripción del producto para obtener más información.
 - Vans Blanco Zapatillas Slip On clásicas
+- A estrenar y genuina. Somos un vendedor autorizado de Vans.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000NSKN42/?tag=tolees-21)

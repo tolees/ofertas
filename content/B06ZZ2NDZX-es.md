@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics - Rotuladores permanentes  al 37.02 % de descuento'
-date: 2021-09-29 07:19:19
+date: 2021-09-30 13:41:58
 image: 'https://m.media-amazon.com/images/I/41+LzCH00XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazon Basics'
 buyurl: 'https://www.amazon.es/dp/B06ZZ2NDZX/?tag=tolees-21'
 descuento: '37.02'
-average: '8.185'
+average: '7.81'
 ---
 
 Ahora mismo tienes [Amazon Basics - Rotuladores permanentes  Negro  paquete de 24](https://www.amazon.es/dp/B06ZZ2NDZX/?tag=tolees-21) a 7.06 EUR (original: 11.21 EUR) (37.02 %  de descuento) en el siguiente enlace!
