@@ -29,9 +29,9 @@ Tienes [Freixenet Carta Rosé -6x750ml - Total:4500 ml](https://www.amazon.es/dp
 🔎:
 
 - Burbuja Abundante De Tamaño Medio Que Tiene Buen Desprendimiento Y Forma Una Buena Corona En La Parte Superior De La Copa.
-- Presenta aromas florales y a laurel (propios de la variedad Garnacha) fusionados con notas frutas rojas (mora, frambuesa) y frutos exóticos (granada).
-- Botella esmerilada
-- Coupage: Trepat y Garnacha
 - Cava rosado con un color fresa pálido, brillante.
+- Presenta aromas florales y a laurel (propios de la variedad Garnacha) fusionados con notas frutas rojas (mora, frambuesa) y frutos exóticos (granada).
+- Coupage: Trepat y Garnacha
+- Botella esmerilada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08Z9DWGDL/?tag=tolees-21)

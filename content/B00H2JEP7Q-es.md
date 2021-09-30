@@ -28,10 +28,10 @@ Ahora mismo tienes [Brugal Blanco Supremo Ron Dominicano  40% - 700 ml](https://
 
 🔎:
 
-- En nariz apreciamos elegantes y sutiles toques de vainilla, frutas cítricas y coco; resulta encantador y sofisticado
 - El Ron Blanco Supremo es adecuado para elaborar cócteles y combinados, es óptimo para preparar un clásico mojito con mucho hielo picado, hierbabuena, lima, azúcar moreno y agua con gas
-- Ron blanco totalmente transparente y limpio. Combina la suavidad de un gran vodka y la firmeza de un gran ron
-- Procedente de la República Dominicana, es filtrado 3 veces, pasa por un proceso de destilación continuada y se añeja en barricas de roble blanco americano durante 2-5 años
 - En paladar es elegante, con un sabor delicado y fino con ricos sabores de café, cacao, mantequilla y vainilla
+- Procedente de la República Dominicana, es filtrado 3 veces, pasa por un proceso de destilación continuada y se añeja en barricas de roble blanco americano durante 2-5 años
+- En nariz apreciamos elegantes y sutiles toques de vainilla, frutas cítricas y coco; resulta encantador y sofisticado
+- Ron blanco totalmente transparente y limpio. Combina la suavidad de un gran vodka y la firmeza de un gran ron
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00H2JEP7Q/?tag=tolees-21)

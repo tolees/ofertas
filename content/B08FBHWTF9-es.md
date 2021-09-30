@@ -28,7 +28,7 @@ Tienes [Skechers Bobs Squad 3  Zapatillas Mujer  BBK  35 EU](https://www.amazon.
 
 🔎:
 
-- Material exterior: Sintético
 - Cierre: Cordones
+- Material exterior: Sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08FBHWTF9/?tag=tolees-21)
