@@ -28,9 +28,9 @@ Tienes [Vans UA Old Skool  Zapatillas Unisex Adulto  Black/White  38 EU](https:/
 
 🔎:
 
-- Designer: Vans
-- Artículo: VN000D3HY281
-- Estación: Otoño/Invierno
 - Color: negro
+- Designer: Vans
+- Estación: Otoño/Invierno
+- Artículo: VN000D3HY281
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MPZJ4YN/?tag=tolees-21)

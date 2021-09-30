@@ -28,9 +28,9 @@ Tienes [Pompadour Té Infusion Hot Love - 20 bolsitas - [Pack de 2]](https://www
 
 🔎:
 
-- Para los amantes de las infusiones más golosos
-- No contiene cafeína
-- 20 bolsitas envueltas en sobre protector
 - Infusión de frutas con flores de hibisco, escaramujo, cascára de naranja, hojas dulces de zarzamora, bayas de saúco, frambuesa y vainillla
+- Para los amantes de las infusiones más golosos
+- 20 bolsitas envueltas en sobre protector
+- No contiene cafeína
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N909UYD/?tag=tolees-21)

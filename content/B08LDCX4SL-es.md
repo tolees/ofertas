@@ -28,8 +28,8 @@ Tienes [Skechers D LUX Walker Commuter  Zapatillas Hombre  Navy  42 EU](https://
 
 🔎:
 
-- Lavable a máquina
-- Refrigerado por aire MF
 - Ajuste relajado
+- Refrigerado por aire MF
+- Lavable a máquina
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LDCX4SL/?tag=tolees-21)
