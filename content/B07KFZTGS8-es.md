@@ -28,9 +28,9 @@ En este momento está [PUMA Rebound Layup Lo SL  Zapatillas Unisex Adulto  Negro
 
 🔎:
 
-- Logotipo en la lengüeta
-- Parte superior de piel sintética
 - Espuma suave+: la cómoda plantilla de Puma para un paso instantáneo y una comodidad duradera que proporciona una amortiguación suave en cada paso del día
 - Suela de goma
+- Parte superior de piel sintética
+- Logotipo en la lengüeta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KFZTGS8/?tag=tolees-21)

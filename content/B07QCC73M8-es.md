@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Adidas Advantage C  Zapatillas de Tenis  con un 48.53 % de descuento'
-date: 2021-09-30 07:44:49
-image: 'https://m.media-amazon.com/images/I/41HQrfqot4L._SL500_._SL400_.jpg'
+date: 2021-10-01 18:03:23
+image: 'https://m.media-amazon.com/images/I/31IF8A6WXuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07QCC73M8/?tag=tolees-21'
 descuento: '48.53'
-average: '14.995'
+average: '15.9933333333333'
 ---
 
 En este momento está [Adidas Advantage C  Zapatillas de Tenis Unisex niño  Blanco  Ftwbla/Rosrea/Ftwbla 000   29 EU](https://www.amazon.es/dp/B07QCC73M8/?tag=tolees-21) a 17.99 EUR (original: 34.95 EUR) (48.53 %  de descuento) en el siguiente enlace!
 
-[![Adidas Advantage C  Zapatillas de Tenis ](https://m.media-amazon.com/images/I/41HQrfqot4L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07QCC73M8/?tag=tolees-21)
+[![Adidas Advantage C  Zapatillas de Tenis ](https://m.media-amazon.com/images/I/31IF8A6WXuL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07QCC73M8/?tag=tolees-21)
 
 🔎:
 
