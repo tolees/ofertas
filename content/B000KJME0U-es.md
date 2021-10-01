@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.63 % en Edding 720128 - Marcador de punta redond'
-date: 2021-09-01 07:45:16
+date: 2021-10-01 08:37:18
 image: 'https://m.media-amazon.com/images/I/31jqRg1M2qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Edding 720128 - Marcador de punta redonda  trazo de 0.5-1 mm  color negr
 
 ℹ️:
 
-- Adecuado para marcar CD y DVD
 - Punta redonda de 1 mm
+- Adecuado para marcar CD y DVD
 - Tinta líquida permanente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000KJME0U/?tag=tolees-21)

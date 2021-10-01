@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kelme - Zapatillas Precision al 44.79 % de descuento'
-date: 2021-09-14 10:56:46
+date: 2021-10-01 09:09:44
 image: 'https://m.media-amazon.com/images/I/418GvrPTAlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Está [Kelme - Zapatillas Precision](https://www.amazon.es/dp/B06XRJFKL6/?tag=to
 
 - Futsal
 - Cordones
-- 4.5
 - Lavar a maquina a max 30º
+- 4.5
 - ROYAL
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XRJFKL6/?tag=tolees-21)
