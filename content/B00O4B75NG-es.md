@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 68.37 % en TRIXIE Bote Snack de Entrenamiento Mini '
-date: 2021-09-29 10:44:19
+date: 2021-10-01 11:28:22
 image: 'https://m.media-amazon.com/images/I/515v18lgGTS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

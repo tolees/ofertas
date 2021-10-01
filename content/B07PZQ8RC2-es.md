@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - Mortal K al 38.01 % de descuento'
-date: 2021-09-22 15:12:39
+date: 2021-10-01 11:38:34
 image: 'https://m.media-amazon.com/images/I/51T4L1hPDVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07PZQ8RC2/?tag=tolees-21'
 descuento: '38.01'
-average: '25.1144827586206'
+average: '25.4935483870966'
 ---
 
 Ahora mismo tienes [Warner Bros Interactive Spain - Mortal Kombat 11 - Standard Edition](https://www.amazon.es/dp/B07PZQ8RC2/?tag=tolees-21) a 30.99 EUR (original: 49.99 EUR) (38.01 %  de descuento) en el siguiente enlace!

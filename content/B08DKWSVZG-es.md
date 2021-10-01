@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit Band 5 Pulsera Actividad Intelig con un 35.76 % de descuento'
-date: 2021-09-19 16:32:04
+date: 2021-10-01 12:32:34
 image: 'https://m.media-amazon.com/images/I/41TmY6GenpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazfit'
 buyurl: 'https://www.amazon.es/dp/B08DKWSVZG/?tag=tolees-21'
 descuento: '35.76'
-average: '29.740887096774'
+average: '29.799603174603'
 ---
 
 En este momento está [Amazfit Band 5 Pulsera Actividad Inteligente  Unisex Adulto  Negro  Talla única](https://www.amazon.es/dp/B08DKWSVZG/?tag=tolees-21) a 28.9 EUR (original: 44.99 EUR) (35.76 %  de descuento) en el siguiente enlace!
