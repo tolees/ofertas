@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Home Video - Aves de Presa  Y la  al 35.04 % de descuento'
-date: 2021-09-29 22:54:30
+date: 2021-10-01 04:29:18
 image: 'https://m.media-amazon.com/images/I/51d0q6bv0mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Home Video'
 buyurl: 'https://www.amazon.es/dp/B089L7BWFR/?tag=tolees-21'
 descuento: '35.04'
-average: '8.586875'
+average: '8.46352941176471'
 ---
 
 Ahora mismo tienes [Warner Home Video - Aves de Presa  Y la fantabulosa emancipación de Harley Quinn  [DVD]](https://www.amazon.es/dp/B089L7BWFR/?tag=tolees-21) a 6.49 EUR (original: 9.99 EUR) (35.04 %  de descuento) en el siguiente enlace!

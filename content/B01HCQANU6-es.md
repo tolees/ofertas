@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney / Pixar - Buscando A Dory [DVD] al 42.78 % de descuento'
-date: 2021-09-29 22:51:41
+date: 2021-10-01 04:23:47
 image: 'https://m.media-amazon.com/images/I/51ikNPlebPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney / Pixar'
 buyurl: 'https://www.amazon.es/dp/B01HCQANU6/?tag=tolees-21'
 descuento: '42.78'
-average: '6.95566666666667'
+average: '6.86032258064516'
 ---
 
 Está [Disney / Pixar - Buscando A Dory [DVD]](https://www.amazon.es/dp/B01HCQANU6/?tag=tolees-21) con 42.78 de descuento por 4.0 EUR (original: 6.99 EUR) en el siguiente enlace!
