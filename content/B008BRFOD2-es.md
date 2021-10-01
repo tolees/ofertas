@@ -28,9 +28,9 @@ Ahora mismo tienes [Philips Border - Lámpara de pared  1 x 23 W  220 V  color a
 
 🔎:
 
-- Este moderno aplique para exteriores gris transforma el jardín en un lugar acogedor
-- Incluso por la noche
-- Tu jardín será acogedor y agradable
 - Proporciona una luz blanca cálida de bajo consumo y se puede orientar donde quieras
+- Incluso por la noche
+- Este moderno aplique para exteriores gris transforma el jardín en un lugar acogedor
+- Tu jardín será acogedor y agradable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008BRFOD2/?tag=tolees-21)

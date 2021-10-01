@@ -28,7 +28,7 @@ En este momento está [Adidas Advantage C  Zapatillas de Tenis Unisex niño  Bla
 
 🔎:
 
-- Material resistente y duradero
 - Diseño ligero y flexible que ofrece comodidad
+- Material resistente y duradero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QCC73M8/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Levi s 501 Crop Vaqueros  Black Heart  23W / 26L para Mujer](https://www
 
 🔎:
 
+- Con un corte de inspiración vintage
 - Diseño de cinco bolsillos
 - Con el largo recortado para lucir un aire moderno
-- Con un corte de inspiración vintage
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KF6W9FW/?tag=tolees-21)
