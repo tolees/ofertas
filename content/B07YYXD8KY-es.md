@@ -28,8 +28,8 @@ En este momento está [Pierrot - Flossers Hilo Dental](https://www.amazon.es/dp/
 
 🔎:
 
-- Producto duradero
-- Calidad óptima
 - Creado con atención a los detalles finales
+- Calidad óptima
+- Producto duradero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YYXD8KY/?tag=tolees-21)

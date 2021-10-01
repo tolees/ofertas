@@ -28,10 +28,10 @@ Tienes [Johnson s Baby Baño Suave  Jabón Líquido Suave y Delicado de Uso Diar
 
 🔎:
 
-- Gel para bebé también ideal para niños y adultos, solo contiene ingredientes suaves de gran calidad para pieles delicadas
-- Fórmula Delicada, gel sin sulfatos, sin colorantes ftalatos, alcohol ni jabón, limpia sin resecar la piel de tu bebé
-- La fórmula clínicamente testada No Llorres Más de Johnsons tan delicado para los ojos como el agua más pura
-- Gel para bebés sin sulfatos diseñado específicamente para la delicada piel de los bebés, formulado para reducir el riesgo de alergias
 - Gel para bebé testado por dermatólogos y pediatras
+- Gel para bebés sin sulfatos diseñado específicamente para la delicada piel de los bebés, formulado para reducir el riesgo de alergias
+- Gel para bebé también ideal para niños y adultos, solo contiene ingredientes suaves de gran calidad para pieles delicadas
+- La fórmula clínicamente testada No Llorres Más de Johnsons tan delicado para los ojos como el agua más pura
+- Fórmula Delicada, gel sin sulfatos, sin colorantes ftalatos, alcohol ni jabón, limpia sin resecar la piel de tu bebé
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RXK6R9X/?tag=tolees-21)

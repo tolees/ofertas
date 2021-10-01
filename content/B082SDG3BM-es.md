@@ -29,9 +29,9 @@ En este momento está [PUMA Shuffle  Zapatillas Unisex Adulto  Blanco  White Bla
 🔎:
 
 - Cubierta de ante en el talón
-- Puntera perforada
 - Silueta de caña baja
 - Empeine de piel sintética
 - Cierre con cordones
+- Puntera perforada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082SDG3BM/?tag=tolees-21)

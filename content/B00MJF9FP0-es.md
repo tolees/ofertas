@@ -29,8 +29,8 @@ Tienes [OMRON Gentle Temp 720 Termómetro digital sin contacto](https://www.amaz
 ℹ️:
 
 - Termómetro sin contacto
-- Termómetro infrarrojo preciso con características específicas para mantener la temperatura de su bebé constantemente bajo control
 - Mide la temperatura del cuerpo frente sin contacto
 - Con memoria para 25 lecturas
+- Termómetro infrarrojo preciso con características específicas para mantener la temperatura de su bebé constantemente bajo control
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00MJF9FP0/?tag=tolees-21)

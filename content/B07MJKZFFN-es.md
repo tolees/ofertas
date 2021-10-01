@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Grand Court C  Sneaker  Footwear White/Vapour Grey Me
 
 🔎:
 
-- La parte superior de cuero sintético
 - Cordones de zapatos
 - Corte regular
+- La parte superior de cuero sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MJKZFFN/?tag=tolees-21)

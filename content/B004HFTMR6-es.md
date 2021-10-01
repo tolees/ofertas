@@ -29,7 +29,7 @@ Está [Sera Perlón para Filtrado  250g ](https://www.amazon.es/dp/B004HFTMR6/?t
 ℹ️:
 
 - Para usar en agua dulce o salada.
-- Para una prefiltración mecánica de partículas de suciedad fina.
 - Se la puede lavar varias veces.
+- Para una prefiltración mecánica de partículas de suciedad fina.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004HFTMR6/?tag=tolees-21)

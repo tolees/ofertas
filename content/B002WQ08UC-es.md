@@ -29,7 +29,7 @@ En este momento está [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Gris
 🔎:
 
 - El caucho natural único delgado
-- Superga pestaña en el lado y el talón
 - Superga en relieve ojales
+- Superga pestaña en el lado y el talón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002WQ08UC/?tag=tolees-21)

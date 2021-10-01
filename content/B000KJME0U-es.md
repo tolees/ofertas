@@ -28,8 +28,8 @@ Tienes [Edding 720128 - Marcador de punta redonda  trazo de 0.5-1 mm  color negr
 
 ℹ️:
 
-- Punta redonda de 1 mm
 - Adecuado para marcar CD y DVD
+- Punta redonda de 1 mm
 - Tinta líquida permanente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000KJME0U/?tag=tolees-21)

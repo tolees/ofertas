@@ -28,9 +28,9 @@ Tienes [Asmodee- Dobble 123 Blister  Color jeu d ambiance  DOCF02FR ](https://ww
 
 ℹ️:
 
-- Durée de jeu 10 min
+- Tiempo de juego: 10 minutos
 - El Best seller de los juegos de ambiente versión cifras para los más pequeños
 - Un juego ahora gigante que cabe en el bolsillo
-- Tiempo de juego: 10 minutos
+- Durée de jeu 10 min
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07HGM3J5K/?tag=tolees-21)

@@ -28,14 +28,14 @@ Tienes [Geox J Hadriel Girl G  Zapatos de Uniforme Escolar  Black  25 EU](https:
 
 🔎:
 
-- Fácil de llevar para un confort optimo
-- Plantilla antibacteriana
-- Optima flexibilidad
-- Plantilla de piel atóxica sin cromo
-- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Plantilla desmontable
 - Calzado con suela antihuellas
-- Calce inmediato gracias al cierre con velcro
+- Plantilla antibacteriana
 - Puntera y talón reforzados protegen contra golpes e impactos
+- Optima flexibilidad
+- Calce inmediato gracias al cierre con velcro
+- Plantilla de piel atóxica sin cromo
+- Plantilla desmontable
+- Fácil de llevar para un confort optimo
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MJGN59K/?tag=tolees-21)

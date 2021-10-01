@@ -29,9 +29,9 @@ Tienes [Candy CS C8LF-S - Secadora de condensación 8Kgs  15 programas  NFC  pue
 🔎:
 
 - Di adiós a los dolores de espalda mientras introduces la colada en la secadora: la puerta de tamaño XXL, asegura una posición cómoda durante tus sesiones de lavado
-- Tu lana en buenas manos: ciclo específicamente diseñado para lavar tus prendas de lana con la suavidad de un lavado a mano; Certificado por Woolmark ApparelCare
-- Secadora conectada a NFC: conecta tu secadora con la App Simply-Fi y consigue ciclos de secado adicionales, inicio diferido y asistente de voz
 - Dimensiones (alto x ancho x profundo): 85 x 59,6 x 58,5cm
+- Tu lana en buenas manos: ciclo específicamente diseñado para lavar tus prendas de lana con la suavidad de un lavado a mano; Certificado por Woolmark ApparelCare
 - Reduce los pliegues y enredos al finalizar el ciclo para un planchado más fácil: la función Super Fácil Planchado deja las prendas con la humedad adecuada para facilitar y reducir tiempos de las sesiones de planchado
+- Secadora conectada a NFC: conecta tu secadora con la App Simply-Fi y consigue ciclos de secado adicionales, inicio diferido y asistente de voz
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075STTD4V/?tag=tolees-21)

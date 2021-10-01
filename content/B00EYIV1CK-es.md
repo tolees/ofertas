@@ -29,7 +29,7 @@ Está [Gillette Blue 3 Maquinilla de afeitar - 3 Maquinillas](https://www.amazon
 ℹ️:
 
 - Afeitado
-- No irrita
 - Suavidad
+- No irrita
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00EYIV1CK/?tag=tolees-21)

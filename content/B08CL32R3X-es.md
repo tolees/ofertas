@@ -28,10 +28,10 @@ En este momento está [Kipling Curiosidad S CURIOSIDAD S  22x40x55 cm  Palma bri
 
 🔎:
 
-- Maleta pequeña de cabina de 4 ruedas rígida
-- 2.87kg peso x 44L volumen
 - 100% Policarbonato
 - 55 altura x 40 ancho x 22 profundidad cm
 - Hidrófugo
+- 2.87kg peso x 44L volumen
+- Maleta pequeña de cabina de 4 ruedas rígida
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CL32R3X/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Gliss - Mascarilla Reparación Total - para Cabellos Seco
 
 🔎:
 
-- Cabello intensamente nutrido, suave y lleno de brillo
-- Mascarilla reparación total de textura cremosa
 - Pack de 2
-- Su fórmula contiene un complejo de 19 ingredientes activos y penetra en profundidad en ele cabello
+- Mascarilla reparación total de textura cremosa
+- Cabello intensamente nutrido, suave y lleno de brillo
 - Hasta un 95% menos de rotura del cabello
+- Su fórmula contiene un complejo de 19 ingredientes activos y penetra en profundidad en ele cabello
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N3XBQQB/?tag=tolees-21)

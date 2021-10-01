@@ -28,8 +28,8 @@ Está [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Marrón  Brown Dusty
 
 ℹ️:
 
-- Material exterior: lona
 - Forro: tela
 - Material de la suela: goma
+- Material exterior: lona
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TYQCRH1/?tag=tolees-21)
