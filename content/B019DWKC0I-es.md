@@ -28,10 +28,10 @@ Tienes [Russell Hobbs NutriBoost Batidora de Vaso Individual - 700 W  15 piezas 
 
 ℹ️:
 
-- Potencia de 700 W - Base de acero inoxidable cepillado de 700 W
 - Incluye Vasos - 3 vasos grandes con 700 ml de capacidad y 2 vasos pequeños con 350 ml de capacidad
+- Potencia de 700 W - Base de acero inoxidable cepillado de 700 W
 - Batidora de Vaso Individual - Con cuchilla de cuatro puntas para batir y cuchilla dentada para triturar
-- Varios Accesorios - Dispone de 2 tapas para guardar, 2 tapas para beber sobre la marcha, tapa para espolvorear y 2 protectores para el borde
 - Juego de 15 Piezas - Todas las piezas son aptas para el lavavajillas
+- Varios Accesorios - Dispone de 2 tapas para guardar, 2 tapas para beber sobre la marcha, tapa para espolvorear y 2 protectores para el borde
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B019DWKC0I/?tag=tolees-21)

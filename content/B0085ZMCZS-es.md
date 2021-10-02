@@ -28,8 +28,8 @@ Tienes [Caballero Caballero Spiced Orange Liqueur 25% Vol. 0 7l - 700 ml](https:
 
 ℹ️:
 
-- ideal para disfrutar por ti mismo
 - Sabor: Fino y con cuerpo, suave y afrutado, brandy, naranjas.
 - perfecto como un regalo
+- ideal para disfrutar por ti mismo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0085ZMCZS/?tag=tolees-21)

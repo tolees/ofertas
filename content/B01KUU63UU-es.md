@@ -28,10 +28,10 @@ En este momento está [Beurer EM 32 Electroestimulador EMS Cinturón Abdominal 5
 
 🔎:
 
-- Electrodos sin desgaste hechos de material de carbono conductor
-- Especial para la estimulación de los músculos abdominales delanteros
-- Cinturón flex. cierre velcro 28-55 (70 a 140 cm)
 - 2 electrodos por contacto con el agua (no geles, ni recambios)
 - Pantalla LCD con símbolos.
+- Cinturón flex. cierre velcro 28-55 (70 a 140 cm)
+- Electrodos sin desgaste hechos de material de carbono conductor
+- Especial para la estimulación de los músculos abdominales delanteros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01KUU63UU/?tag=tolees-21)
