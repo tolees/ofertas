@@ -29,9 +29,9 @@ Está [Feber Falcon - Quad Moto de bateria de juguete  para niños y niñas a pa
 ℹ️:
 
 - Peso máximo en niños y niñas a partir de 2 años, recomendado de 30kg
-- Sus ruedas robustas ayudan a mejorar la estabilidad y alcanza hasta los 5km/h de velocidad
+- Batería y cargador incluidos
 - Medidas del producto: 79 (ancho) x 75 (alto) x 79 (profundidad)
 - Quad eléctrico a batería de 6v de gran robustez; 45 minutos de juegos sin parar
-- Batería y cargador incluidos
+- Sus ruedas robustas ayudan a mejorar la estabilidad y alcanza hasta los 5km/h de velocidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SGJ8Q1D/?tag=tolees-21)

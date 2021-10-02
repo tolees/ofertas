@@ -28,7 +28,7 @@ En este momento está [Adidas Advantage C  Zapatillas de Tenis Unisex niño  Mul
 
 🔎:
 
-- Diseño ligero y flexible que ofrece comodidad
 - Material resistente y duradero
+- Diseño ligero y flexible que ofrece comodidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SQV8MJN/?tag=tolees-21)
