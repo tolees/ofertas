@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Oddworld Munch s Oddyse con un 50.01 % de descuento'
-date: 2021-09-30 18:08:02
+date: 2021-10-03 07:36:28
 image: 'https://m.media-amazon.com/images/I/41uOBSShj7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B089MV3BYN/?tag=tolees-21'
 descuento: '50.01'
-average: '28.6658333333334'
+average: '27.9984615384616'
 ---
 
 En este momento está [Meridiem Games - Oddworld Munch s Oddysee - Limited](https://www.amazon.es/dp/B089MV3BYN/?tag=tolees-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

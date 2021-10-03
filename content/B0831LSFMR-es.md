@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Pata Negra - Estuche de 3 Botellas de Vi al 38.70 % de descuento'
-date: 2021-09-30 08:15:51
+title: 'Pata Negra - Estuche de 3 Botellas de Vi al 37.90 % de descuento'
+date: 2021-10-03 07:22:59
 image: 'https://m.media-amazon.com/images/I/51Ym9+Gf95L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Alimentación y bebidas','Cervezas, vinos y licores','Vinos','Vinos tin
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5
-comparePrice: 31.81 EUR
+comparePrice: 31.4 EUR
 prodname: 'Pata Negra - Estuche de 3 Botellas de Vino - Rioja Reserva  Ribera del Duero Reserva y Jumilla Apasionado Ecológico - Estuche de 3 Botellas x 750 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pata Negra'
 buyurl: 'https://www.amazon.es/dp/B0831LSFMR/?tag=tolees-21'
-descuento: '38.70'
-average: '22.19'
+descuento: '37.90'
+average: '21.652'
 ---
 
-Está [Pata Negra - Estuche de 3 Botellas de Vino - Rioja Reserva  Ribera del Duero Reserva y Jumilla Apasionado Ecológico - Estuche de 3 Botellas x 750 ml](https://www.amazon.es/dp/B0831LSFMR/?tag=tolees-21) con 38.70 de descuento por 19.5 EUR (original: 31.81 EUR) en el siguiente enlace!
+Está [Pata Negra - Estuche de 3 Botellas de Vino - Rioja Reserva  Ribera del Duero Reserva y Jumilla Apasionado Ecológico - Estuche de 3 Botellas x 750 ml](https://www.amazon.es/dp/B0831LSFMR/?tag=tolees-21) con 37.90 de descuento por 19.5 EUR (original: 31.4 EUR) en el siguiente enlace!
 
 [![Pata Negra - Estuche de 3 Botellas de Vi](https://m.media-amazon.com/images/I/51Ym9+Gf95L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0831LSFMR/?tag=tolees-21)
 
