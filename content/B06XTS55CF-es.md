@@ -28,10 +28,10 @@ Tienes [Chicco- Food Truck Bilingüe  00007416000040 ](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Centro de actividades bilingüe
-- Vehículo de grandes dimensiones
-- Enseña el alfabeto, números, colores y diferentes comidas
 - 5 accesorios: hamburguesa apilable, sartén, espátula y cubiertos
+- Enseña el alfabeto, números, colores y diferentes comidas
+- Centro de actividades bilingüe
 - 18 actividades electrónicas y manuales
+- Vehículo de grandes dimensiones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06XTS55CF/?tag=tolees-21)

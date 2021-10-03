@@ -29,8 +29,8 @@ Tienes [Amazon Basics - Cuaderno clásico  grande  en blanco ](https://www.amazo
 ℹ️:
 
 - Tapas encuadernadas de cartón con esquinas redondeadas para un acabado final.
-- Cuaderno clásico grande con 240 páginas en blanco para notas, bocetos, reflexiones, etc.
 - Marcapáginas integrado, cierre elástico que ayuda a mantener el cuaderno cerrado de forma segura.
+- Cuaderno clásico grande con 240 páginas en blanco para notas, bocetos, reflexiones, etc.
 - Bolsillo interior extensible para guardar objetos sueltos, mide 12,7 x 21 cm.
 - Páginas de papel libre de ácido de alta calidad, resiste daños provocados por la luz y el aire.
 

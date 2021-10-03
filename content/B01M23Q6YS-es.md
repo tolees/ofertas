@@ -29,9 +29,9 @@ Está [New Balance 373 Core  Zapatillas Hombre  Navy   38.5 EU](https://www.amaz
 ℹ️:
 
 - Material exterior: material sintético
-- Material interior: tela
-- Material de la suela: goma
-- Estilo: zapatillas de running
 - Cierre: cordones
+- Material de la suela: goma
+- Material interior: tela
+- Estilo: zapatillas de running
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M23Q6YS/?tag=tolees-21)

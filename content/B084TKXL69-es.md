@@ -29,9 +29,9 @@ Tienes [ARENA Albornoz marca modelo ZEPPELIN LIGHT](https://www.amazon.es/dp/B08
 🔎:
 
 - Con capucha grande, cinturón de lazo y dos bolsillos
-- 100% algodón 240g/m²
 - Artículo ideal para la piscina, la sauna y las actividades de bienestar
-- Cómodo albornoz de rizo unisex
+- 100% algodón 240g/m²
 - Tejido de rizo suave y cálido para una comodidad de uso superior
+- Cómodo albornoz de rizo unisex
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084TKXL69/?tag=tolees-21)

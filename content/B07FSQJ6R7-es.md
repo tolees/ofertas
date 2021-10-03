@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CATRICE - Prebase Reductora De Poros Blu al 36.00 % de descuento'
-date: 2021-09-29 17:12:44
+date: 2021-10-03 19:52:33
 image: 'https://m.media-amazon.com/images/I/31AI2VLglvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
