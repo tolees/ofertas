@@ -28,9 +28,9 @@ Tienes [SOTYA - SOTYA Espirulina 100 comprimidos 400 mg](https://www.amazon.es/d
 
 ℹ️:
 
-- De la marca Sotya
-- Buen complemento dietético
-- efecto demulcente,[intro]Antiinflamatorio-protector de las mucosas
 - Saciante
+- efecto demulcente,[intro]Antiinflamatorio-protector de las mucosas
+- Buen complemento dietético
+- De la marca Sotya
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00PYADAOO/?tag=tolees-21)

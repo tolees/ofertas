@@ -28,10 +28,10 @@ Está [IntimaTe WM Heart Silla Gaming Ergonómica  Silla de Escritorio de Oficin
 
 ℹ️:
 
-- Garantía del servicio: si tiene algún problema de nuestro artículo, no deje de contactar con nosotros en cualquier momento
+- Ajustable: el mecanismo de inclinación completamente, es que el respaldo y asiento se pueden ajustar juntos, (no separados) puede descansar cuando está cansado del trabajo; además puede regular la altura de silla según su necesitad de trabajo; realiza 360 grados de rotación
+- Diseño ergonómico: para la gente que necesita poco largo tiempo ante el ordenador, será una buena opción, y puede trabajar más relajado, el soporte lumbar le ayudará a sostener la columna vertebral más cómodo
 - Cómoda: toda la silla está recubierto por pu, incluyen apoyabrazos para relajar sus brazos, muy fácil de montar
 - Soporte fuerte: le proporcionará gran apoya con seguridad y más estable, todas partes de silla hechas por alta calidad, con más largo tiempo del uso, todos los accesorios pasan la prueba de bifma
-- Diseño ergonómico: para la gente que necesita poco largo tiempo ante el ordenador, será una buena opción, y puede trabajar más relajado, el soporte lumbar le ayudará a sostener la columna vertebral más cómodo
-- Ajustable: el mecanismo de inclinación completamente, es que el respaldo y asiento se pueden ajustar juntos, (no separados) puede descansar cuando está cansado del trabajo; además puede regular la altura de silla según su necesitad de trabajo; realiza 360 grados de rotación
+- Garantía del servicio: si tiene algún problema de nuestro artículo, no deje de contactar con nosotros en cualquier momento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EIXO56O/?tag=tolees-21)
