@@ -28,9 +28,9 @@ Ahora mismo tienes [Candy CH63CC Encimera vitrocerámica 3 zonas de cocción  an
 
 🔎:
 
+- Vitrocerámica de 60cm de ancho con 3 zonas con control independiente de hasta 10 niveles de potencia
 - Calienta de forma progesiva y conserva bien el calor residual, pudiendo terminar la cocción con la vitro apagada
 - Seguridad óptima en tu cocina: Indicador de calor residual, Bloqueo de seguridad y Alerta de sobrecalientamiento/derrames
-- Vitrocerámica de 60cm de ancho con 3 zonas con control independiente de hasta 10 niveles de potencia
 - Fácil de limpiar: se limpia con facilidad con una bayeta húmeda, gracias a que es una superficie lisa
 - Acepta todo tipo de recipientes: permite usar menaje de cualquier material, sin necesidad de cambiar tus utensilios de cocina (incluso el barro)
 

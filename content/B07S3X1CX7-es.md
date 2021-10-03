@@ -28,13 +28,13 @@ Ahora mismo tienes [BODEGA CUATRO RAYAS - 61 Sesenta y Uno Frizzante - 6 Botella
 
 🔎:
 
-- Aromas a melocotón y cítricos, acompañados de una agradable burbuja.
-- Servido muy frío (5º C)
-- Color amarillo pajizo, brillante.
-- Alérgenos: Contiene sulfitos
-- Elaborado de forma natural con uvas seleccionadas de la variedad Verdejo por parada de fermentación en frío a 5.5º. Este frizzante joven lleva por nombre 61, la primera marca de vino que embotelló Bodega Cuatro Rayas en la década de los años cincuenta. Elaboración: Fermentación parcial del mosto. Se conserva en frío hasta su embotellado.
-- Cosecha puede variar
 - resulta perfecto como aperitivo. Acompaña gran variedad de platos: pasta, comida asiática y postres.
+- Cosecha puede variar
+- Elaborado de forma natural con uvas seleccionadas de la variedad Verdejo por parada de fermentación en frío a 5.5º. Este frizzante joven lleva por nombre 61, la primera marca de vino que embotelló Bodega Cuatro Rayas en la década de los años cincuenta. Elaboración: Fermentación parcial del mosto. Se conserva en frío hasta su embotellado.
 - En boca es fresco y vivaz, con recuerdos a melocotón y un dulzor amable.
+- Alérgenos: Contiene sulfitos
+- Aromas a melocotón y cítricos, acompañados de una agradable burbuja.
+- Color amarillo pajizo, brillante.
+- Servido muy frío (5º C)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S3X1CX7/?tag=tolees-21)

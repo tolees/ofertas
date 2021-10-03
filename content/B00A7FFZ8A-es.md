@@ -28,12 +28,12 @@ En este momento está [Ibili 782502E - Guarda Cebollas-Caja Expositora](https://
 
 🔎:
 
-- Material : Plástico.
 - Respeta el medio ambiente evitando la utilización de papel de aluminio, film de plástico…
-- Guarda-cebollas
 - Altura : 12 cm.
+- Diámetro : 11 cm.
+- Guarda-cebollas
+- Material : Plástico.
 - Evita la mezcla de olores y sabores en el frigorífico.
 - Garantía : 2 años
-- Diámetro : 11 cm.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00A7FFZ8A/?tag=tolees-21)

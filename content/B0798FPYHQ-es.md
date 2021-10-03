@@ -28,9 +28,9 @@ En este momento está [Apple iPhone 8 64GB Oro  Reacondicionado ](https://www.am
 
 🔎:
 
-- Pantalla panorámica LCD multi-touch de.4,7.pulgadas (en.diagonal) con tecnología.ips
-- Resistencia al agua y al polvo ip67 (hasta 1.metro de profundidad durante un máximo de 30.minutos).
 - Touch id; usa touch id para pagar en tiendas, apps y páginas web con tu iphone
+- Resistencia al agua y al polvo ip67 (hasta 1.metro de profundidad durante un máximo de 30.minutos).
+- Pantalla panorámica LCD multi-touch de.4,7.pulgadas (en.diagonal) con tecnología.ips
 - Cámara de 12 mpx con estabilización óptica de imagen y vídeo 4k y cámara facetime HD de 7 mpx con retina flash.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0798FPYHQ/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [New Balance 410  Zapatillas Unisex Adulto  Verde  Chalkboard/White AC   4
 
 ℹ️:
 
+- Material de la suela: EVA
 - Revestimiento: Tela
 - Material exterior: Sintético
-- Material de la suela: EVA
-- Tipo de tacón: Plano
 - Cierre: Cordones
+- Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DJ3PQV6/?tag=tolees-21)

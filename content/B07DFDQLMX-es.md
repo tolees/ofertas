@@ -28,10 +28,10 @@ Ahora mismo tienes [Funko - Pop! Riverdale: Reggie Figura Coleccionable de Vinil
 
 🔎:
 
-- Caja ilustrada con ventana
 - Licencia Oficial
-- Colección Riverdale
-- Funko Pop
 - Nº 735
+- Colección Riverdale
+- Caja ilustrada con ventana
+- Funko Pop
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DFDQLMX/?tag=tolees-21)
