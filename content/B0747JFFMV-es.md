@@ -28,10 +28,10 @@ Ahora mismo tienes [GimDog Pure Delight  pollo - Snack para perros rico en prote
 
 🔎:
 
-- SNACK DE CARNE - Golosina natural para perros y con alto contenido de carne, como recompensa especial para perros pequeños de hasta 10 kg
-- VOLUMEN DE ENTREGA - 12 latas 85g GimDog Little Darling Pure Delight, pollo, snack rico en proteínas, con ave
-- SINGLE ANIMAL PROTEIN - Jugosos trozos de carne a base de una sola fuente de proteína animal en deliciosa gelatina
 - RECETA - Alimento complementario sin gluten, sin colorantes ni conservantes, así como sin azúcar añadido
+- VOLUMEN DE ENTREGA - 12 latas 85g GimDog Little Darling Pure Delight, pollo, snack rico en proteínas, con ave
 - COMPOSICIÓN - Carne de pollo (47,7%), arroz, cloruro potásico
+- SNACK DE CARNE - Golosina natural para perros y con alto contenido de carne, como recompensa especial para perros pequeños de hasta 10 kg
+- SINGLE ANIMAL PROTEIN - Jugosos trozos de carne a base de una sola fuente de proteína animal en deliciosa gelatina
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0747JFFMV/?tag=tolees-21)

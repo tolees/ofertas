@@ -28,8 +28,8 @@ En este momento está [Apple iPhone 8 64GB Plata  Reacondicionado ](https://www.
 
 🔎:
 
-- Cámara de 12 mpx con estabilización óptica de imagen y vídeo 4k y cámara facetime HD de 7 mpx con retina flash.
 - Pantalla panorámica LCD multi-touch de.4,7.pulgadas (en.diagonal) con tecnología.ips
+- Cámara de 12 mpx con estabilización óptica de imagen y vídeo 4k y cámara facetime HD de 7 mpx con retina flash.
 - Resistencia al agua y al polvo ip67 (hasta 1.metro de profundidad durante un máximo de 30.minutos).
 - Touch id; usa touch id para pagar en tiendas, apps y páginas web con tu iphone
 

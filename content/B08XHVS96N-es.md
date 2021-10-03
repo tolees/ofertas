@@ -28,10 +28,10 @@ Está [Amorxiao - Juegos Velas Aromáticas de Regalo  6 Piezas Cera de Soja Vela
 
 ℹ️:
 
-- Cera de soja. Hecho de cera de soja y núcleo de algodón de fibra sin plomo. Los contenedores de velas de aromaterapia son lindos y atractivos, adecuados para decorar su hogar o almacenar algunas cosas pequeñas una vez que se agotan. El diseño de mini viaje lo hace conveniente para llevar a las vacaciones y fácil de empacar para viajar sin preocuparse por la rotura de los contenedores.
 - El juego de regalo de velas viene en una hermosa caja de regalo. Son apropiados para cualquier día festivo o evento especial, como cumpleaños, aniversario, días festivos, Día de San Valentín, Acción de Gracias, Día de la Madre y Navidad, o simplemente para agradecerle a cualquiera. También puede usarlo en spas, salas de yoga, baños y dormitorios.
-- Velas perfumadas La vela de hojalata de viaje portátil con un exquisito empaque de regalo no solo es el mejor regalo para las mujeres, sino también la mejor opción para velas perfumadas para el hogar.
 - 6 fragancias para aliviar el estrés. Malvavisco de fogata, azafrán y sándalo, pino rojo, lavanda, higo y abeto, té de limoncillo. Cada vela puede emitir un aroma único, que te hace relajarte y sentirte feliz.
 - Duradero. Cada vela es de 2.5 oz y se quema durante 12-15 horas. Y un paquete contiene 6 juegos.
+- Velas perfumadas La vela de hojalata de viaje portátil con un exquisito empaque de regalo no solo es el mejor regalo para las mujeres, sino también la mejor opción para velas perfumadas para el hogar.
+- Cera de soja. Hecho de cera de soja y núcleo de algodón de fibra sin plomo. Los contenedores de velas de aromaterapia son lindos y atractivos, adecuados para decorar su hogar o almacenar algunas cosas pequeñas una vez que se agotan. El diseño de mini viaje lo hace conveniente para llevar a las vacaciones y fácil de empacar para viajar sin preocuparse por la rotura de los contenedores.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08XHVS96N/?tag=tolees-21)

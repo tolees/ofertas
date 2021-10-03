@@ -28,11 +28,11 @@ Está [Geox D New Annya Mid A  Zapatos con Tacón Mujer  Azul  Navy C4002   40 E
 
 ℹ️:
 
-- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Calzado ligero para una libertad de movimiento
-- Calzado sin cierre
-- Altura del tacón: 5.5 cm / 2.2 inch
-- Fácil de llevar para un confort optimo
 - Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Calzado sin cierre
+- Fácil de llevar para un confort optimo
+- Altura del tacón: 5.5 cm / 2.2 inch
+- Calzado ligero para una libertad de movimiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LG16PYD/?tag=tolees-21)

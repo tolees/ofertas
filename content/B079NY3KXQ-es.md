@@ -28,10 +28,10 @@ En este momento está [Hape International- Juegos de Canicas Fuga del Castillo  
 
 🔎:
 
+- Fabricado con un compromiso de sostenibilidad, cumple con las normas internacionales de seguridad y calidad.
+- Cada uno de los diferentes bloques de color tiene una función diferente, práctica divertida para el pensamiento lógico y de ingeniería.
 - A partir de 4 años.
 - Calidad tiempo juntos, toda la familia jugando juntos es el mejor regalo
-- Cada uno de los diferentes bloques de color tiene una función diferente, práctica divertida para el pensamiento lógico y de ingeniería.
 - Ingeniería alemana diseñada para crear infinitas posibilidades de construcción para pensamientos espaciales.
-- Fabricado con un compromiso de sostenibilidad, cumple con las normas internacionales de seguridad y calidad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079NY3KXQ/?tag=tolees-21)

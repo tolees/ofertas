@@ -28,10 +28,10 @@ Ahora mismo tienes [Allianz Inside  2 años de Cobertura de Daño Accidental par
 
 🔎:
 
-- La garantía cubre la reparación o sustitución del producto, o bien el reembolso del importe correspondiente si la reparación no fuese posible. Esta póliza está limitada a bienes comprados por residentes en España.
-- Puede cancelar su seguro en cualquier momento si cambia de opinión visitando su cuenta personal de Amazon -> Devoluciones y Pedidos.
 - Lea detenidamente nuestros Términos y Condiciones, en los que encontrará una descripción completa del producto, así como los detalles sobre la cobertura, los límites y las vías de reclamación.
 - Sin costes adicionales, no pagará ninguna franquicia, pieza, mano de obra o gastos de llamada en su reclamación.
 - Durante el periodo de cobertura del seguro, su producto está asegurado en caso de daño accidental, avería eléctrica ó mecánica
+- La garantía cubre la reparación o sustitución del producto, o bien el reembolso del importe correspondiente si la reparación no fuese posible. Esta póliza está limitada a bienes comprados por residentes en España.
+- Puede cancelar su seguro en cualquier momento si cambia de opinión visitando su cuenta personal de Amazon -> Devoluciones y Pedidos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GL12ZZB/?tag=tolees-21)

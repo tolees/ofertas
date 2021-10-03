@@ -28,10 +28,10 @@ Ahora mismo tienes [Crocs Crocband Unisex Adulta Zuecos  Beige  Stucco/Melon   3
 
 🔎:
 
-- Material de la suela: Goma
-- Revestimiento: Sintético
 - Altura del tacón: 1.5 pulgadas
-- Cierre: Sin cordones
 - Material exterior: Espuma
+- Material de la suela: Goma
+- Cierre: Sin cordones
+- Revestimiento: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01J1LQ17O/?tag=tolees-21)

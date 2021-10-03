@@ -30,7 +30,7 @@ Tienes [HABA- Código Secreto 13 + 4 Juego de Mesa  Multicolor  302249 ](https:/
 
 - Aprender jugando; a ganar, a perder y a usar los cinco sentidos
 - Favorece el racionamiento lógico para realizar estrategias y solucionar problemas
-- Fomenta habilidades las habilidades sociales, comunicación y la paciencia
 - Con piezas de madera
+- Fomenta habilidades las habilidades sociales, comunicación y la paciencia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N4RWEIX/?tag=tolees-21)
