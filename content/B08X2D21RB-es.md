@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - The Elder Scrolls Onl.Black al 53.49 % de descuento'
-date: 2021-09-30 15:32:17
+date: 2021-10-03 10:28:27
 image: 'https://m.media-amazon.com/images/I/410jfD2YCGS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B08X2D21RB/?tag=tolees-21'
 descuento: '53.49'
-average: '40.02'
+average: '35.98'
 ---
 
 Está [Koch Media - The Elder Scrolls Onl.Blackwood IT/ESP](https://www.amazon.es/dp/B08X2D21RB/?tag=tolees-21) con 53.49 de descuento por 27.9 EUR (original: 59.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Koch Media - The Elder Scrolls Onl.Blackwood IT/ESP](https://www.amazon.e
 
 ℹ️:
 
-- Morrowind
 - Blackwood (New for 2021)
 - Elsweyr
-- Greymoor
+- Morrowind
 - Summerset
+- Greymoor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08X2D21RB/?tag=tolees-21)
