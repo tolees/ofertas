@@ -28,8 +28,8 @@ Tienes [Mandriles Conversar CT AS HI Core Mono White 1T406 de Cuero de Cuero Mon
 
 ℹ️:
 
+- Parte superior de cuero
 - Suela exterior de caucho vulcanizado
 - La tapa de goma del dedo del pie
-- Parte superior de cuero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000BGKXWI/?tag=tolees-21)

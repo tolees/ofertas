@@ -28,7 +28,7 @@ Tienes [adidas Gazelle J  Zapatillas Unisex Adulto  Azul  Collegiate Navy/Footwe
 
 ℹ️:
 
-- Azul
 - adulto
+- Azul
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MU2X00F/?tag=tolees-21)
