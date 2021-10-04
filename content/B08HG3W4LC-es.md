@@ -28,10 +28,10 @@ Tienes [Barbie Fashionista Muñeca afroamericana curvy con camiseta de neón de 
 
 🔎:
 
-- ¡La nueva línea de Barbie Fashionistas incluye muñecas con 5 tipos de cuerpo, 10 tonos de piel, 8 colores de ojos, 19 colores de pelo, 19 peinados y un montón de conjuntos de última tendencia!
 - Su pelo largo moreno está peinado en trenzas para darle un look moderno.
-- Las sandalias blancas y los pendientes de aro dorados completan el look.
 - Es un regalo óptimo para niñas a partir de 3 años. Podrán jugar con estilo, crear historias y descubrir el mundo de Barbie.
 - La muñeca Barbie cuenta con una silueta con más curvas que la original y lleva un top verde neón con estampado animal y pantalones cortos rosa chillón.
+- Las sandalias blancas y los pendientes de aro dorados completan el look.
+- ¡La nueva línea de Barbie Fashionistas incluye muñecas con 5 tipos de cuerpo, 10 tonos de piel, 8 colores de ojos, 19 colores de pelo, 19 peinados y un montón de conjuntos de última tendencia!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HG3W4LC/?tag=tolees-21)

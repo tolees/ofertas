@@ -29,9 +29,9 @@ Está [Seiko Reloj de Pulsera SSB295P1](https://www.amazon.es/dp/B07941GHRB/?tag
 ℹ️:
 
 - Wr 100mt
-- Negro y metálico
-- Cuarzo
 - Cronógrafo en acero inoxidable para hombre
 - Casual
+- Negro y metálico
+- Cuarzo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07941GHRB/?tag=tolees-21)
