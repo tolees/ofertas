@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.66 % en Edge Entertainment- Rue Morgue Game Tile'
-date: 2021-09-15 14:33:01
+date: 2021-10-04 13:23:00
 image: 'https://m.media-amazon.com/images/I/610AxX07RzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [Edge Entertainment- Rue Morgue Game Tiles  Color  EDGZG64 ](https://www.
 
 ℹ️:
 
-- Expansion para zombicide
 - Rue morgue game tiles
+- Expansion para zombicide
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00WKH5RXG/?tag=tolees-21)
