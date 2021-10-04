@@ -28,10 +28,10 @@ En este momento está [Skechers LEDOM  Botas Cortas al Tobillo Hombre  Marrón  
 
 🔎:
 
-- Suela de goma antideslizante y resistente al aceite
-- Plantilla acolchada de espuma viscoelástica refrigerada por aire
-- Diseño superior sellado con costuras impermeables
-- Puntera de seguridad de acero para protección
 - EN ISO 20345: 2011-SB WR FO SRC
+- Suela de goma antideslizante y resistente al aceite
+- Diseño superior sellado con costuras impermeables
+- Plantilla acolchada de espuma viscoelástica refrigerada por aire
+- Puntera de seguridad de acero para protección
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GCPRTF3/?tag=tolees-21)
