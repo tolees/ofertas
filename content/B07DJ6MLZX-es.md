@@ -30,7 +30,7 @@ Está [Lacoste LA PIQUEE 119 1 CMA  Zapatillas Hombre  Blanc  Wht/Nvy/Red 407   
 
 - Empeine de material textil y piel
 - Collarín acanalado inspirado en el polo
-- Suela de goma
 - Collarín acanalado inspirado en el polo
+- Suela de goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DJ6MLZX/?tag=tolees-21)

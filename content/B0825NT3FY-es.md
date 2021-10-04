@@ -28,9 +28,9 @@ En este momento está [Quiksilver - First Fire Camiseta para Adulto](https://www
 
 🔎:
 
-- Tejido: punto jersey de algodón ligero
-- Corte: corte normal, clásico, cómodo
 - Cuello: cuello redondo
+- Corte: corte normal, clásico, cómodo
+- Tejido: punto jersey de algodón ligero
 - Serigrafía en parte delantera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0825NT3FY/?tag=tolees-21)
