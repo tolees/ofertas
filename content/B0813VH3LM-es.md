@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'adidas Originals Superstar  Zapatillas D con un 40.05 % de descuento'
-date: 2021-10-03 07:35:00
+title: 'adidas Originals Superstar  Zapatillas D con un 50.05 % de descuento'
+date: 2021-10-05 07:41:30
 image: 'https://m.media-amazon.com/images/I/31X+00Z4hML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B0813VH3LM-es adidas Originals Superstar Zapatillas Deportivas Hombre...'
 sku: 'B0813VH3LM-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','adidas', ]
-actualPrice: 59.95 EUR
+actualPrice: 49.95 EUR
 currency: EUR
-price: 59.95
+price: 49.95
 comparePrice: 100.0 EUR
 prodname: 'adidas Originals Superstar  Zapatillas Deportivas Hombre  Footwear White/Footwear White/Footwear White  44 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B0813VH3LM/?tag=tolees-21'
-descuento: '40.05'
-average: '53.95'
+descuento: '50.05'
+average: '52.95'
 ---
 
-En este momento está [adidas Originals Superstar  Zapatillas Deportivas Hombre  Footwear White/Footwear White/Footwear White  44 EU](https://www.amazon.es/dp/B0813VH3LM/?tag=tolees-21) a 59.95 EUR (original: 100.0 EUR) (40.05 %  de descuento) en el siguiente enlace!
+En este momento está [adidas Originals Superstar  Zapatillas Deportivas Hombre  Footwear White/Footwear White/Footwear White  44 EU](https://www.amazon.es/dp/B0813VH3LM/?tag=tolees-21) a 49.95 EUR (original: 100.0 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
 [![adidas Originals Superstar  Zapatillas D](https://m.media-amazon.com/images/I/31X+00Z4hML._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0813VH3LM/?tag=tolees-21)
 
