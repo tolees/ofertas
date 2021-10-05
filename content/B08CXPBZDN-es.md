@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hummel Reese Breaker Seamless  Zapatilla con un 64.30 % de descuento'
-date: 2021-10-03 21:29:26
+date: 2021-10-05 09:50:51
 image: 'https://m.media-amazon.com/images/I/31oKwjuL2zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
