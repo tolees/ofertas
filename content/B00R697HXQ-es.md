@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BW - Gris Neutre ND Vario XS Pro Digital al 42.16 % de descuento'
-date: 2021-10-04 12:57:50
+date: 2021-10-05 13:18:05
 image: 'https://m.media-amazon.com/images/I/41-VBI0n7-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BW'
 buyurl: 'https://www.amazon.es/dp/B00R697HXQ/?tag=tolees-21'
 descuento: '42.16'
-average: '149.915'
+average: '149.916666666667'
 ---
 
 Ahora mismo tienes [BW - Gris Neutre ND Vario XS Pro Digital - 49 mm](https://www.amazon.es/dp/B00R697HXQ/?tag=tolees-21) a 149.92 EUR (original: 259.18 EUR) (42.16 %  de descuento) en el siguiente enlace!

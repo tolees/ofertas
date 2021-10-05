@@ -30,8 +30,8 @@ Tienes [Mega Bloks Tren musical ABC  juguete de construcción para bebé + 1 añ
 
 - bloques de construcción para bebés y niños hasta 5 años
 - tren musical fácil de construir para aprender el abecedario
-- conjunto de juego de 50 piezas que incluye tres bases con ruedas, bloques de construcción y formas especiales de tren
-- aprieta la chimenea para activar sonidos y música
 - regalo óptimo de mega bloks para aprender mientras construyes
+- aprieta la chimenea para activar sonidos y música
+- conjunto de juego de 50 piezas que incluye tres bases con ruedas, bloques de construcción y formas especiales de tren
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079KKTVSW/?tag=tolees-21)
