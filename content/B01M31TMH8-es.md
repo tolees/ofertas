@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NaturGreen - Lentejas Rojas Bio  Agricul con un 39.70 % de descuento'
-date: 2021-10-04 08:59:17
+date: 2021-10-05 16:10:44
 image: 'https://m.media-amazon.com/images/I/416-UlZc8HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [NaturGreen - Lentejas Rojas Bio  Agricultura Ecólogica  
 
 🔎:
 
-- Almacenar en lugar fresco y seco.
 - Las lentejas rojas son especialmente ligeras y se cocinan rápidamente, quedando suaves y cremosas.
 - Las lentejas rojas son especialmente ligeras y se cocinan rápidamente, quedando suaves y cremosas. Este paquete contiene 500 gramos de lenteja roja.
 - Modo de empleo: Poner 1 taza de lentejas por cada 2-3 tazas de agua y cocer según su gusto. No es necesario ponerlas a remojo. Pruébelas en sus cremas y salsas.
+- Almacenar en lugar fresco y seco.
 - Ingredientes: Lenteja roja (100%). Ingrediente procedente de la Agricultura Ecológica. Este producto se fabrica en una planta donde se manipulan frutos secos, soja y sésamo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M31TMH8/?tag=tolees-21)

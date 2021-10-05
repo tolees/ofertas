@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 500 Varsity Pack  Zapatillas con un 35.35 % de descuento'
-date: 2021-10-04 09:40:11
+date: 2021-10-05 16:10:25
 image: 'https://m.media-amazon.com/images/I/41phhKHKs5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

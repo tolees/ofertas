@@ -28,9 +28,9 @@ Tienes [PAW PATROL - Patrulla Canina - Vehículo de Rescate de Ryder](https://ww
 
 ℹ️:
 
+- paw patrol
 - vehículo de rescate
 - ryder
-- paw patrol
 - vehículo ryder
 - niño
 
