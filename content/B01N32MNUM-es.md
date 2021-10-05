@@ -29,9 +29,9 @@ Ahora mismo tienes [Ginebra Premium nacional Nordés - 1 botella de 1L](https://
 🔎:
 
 - Esta ginebra sabe especialmente bien como gin-tonic, pero también es un verdadero placer cuando se sirve pura.
-- Acabado: Larga duración, leñoso, seco, canela.
 - Color: claro.
-- Nariz: Floral, limón, romero, canela, toques de enebro.
 - Sabor: Suave, fresco, afrutado, floral, notas de enebro y cilantro,
+- Acabado: Larga duración, leñoso, seco, canela.
+- Nariz: Floral, limón, romero, canela, toques de enebro.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N32MNUM/?tag=tolees-21)

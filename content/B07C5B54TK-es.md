@@ -29,9 +29,9 @@ Tienes [Kelme - Zapatillas Triton](https://www.amazon.es/dp/B07C5B54TK/?tag=tole
 🔎:
 
 - Cordones
-- ROJO Y NEGRO
-- Lavar en frío
-- 10
 - Futsal
+- 10
+- Lavar en frío
+- ROJO Y NEGRO
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07C5B54TK/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Lúdilo- Batalla de Genios Original  Juego de Mesa  Rompecab
 
 🔎:
 
-- JUEGOS DE MESA PARA NIÑOS: Batalla de genios es un juego de logica muy divertido donde tendrán que desarrollar la habilidad “velocidad” para ser el ganador
 - JUEGO DE LOGICA: Es un juego educativo para niños mayores de 6 años de edad; se pueden jugar entre 1-2 jugadores
-- JUEGO MADERA: Juegos de mesa que desarrolla otras habilidades cognitivas como visión espacial, atención y planificación
 - ROMPECABEZAS PARA NIÑOS: Juego de mesa de madera que consiste en completar el tablero antes que tu oponente combinando las piezas para que encajen
 - JUEGOS DE MESA: Rompecabezas de lógica para niños muy entretenido ya que viene con 62. 208 retos para poder jugar sin parar
+- JUEGOS DE MESA PARA NIÑOS: Batalla de genios es un juego de logica muy divertido donde tendrán que desarrollar la habilidad “velocidad” para ser el ganador
+- JUEGO MADERA: Juegos de mesa que desarrolla otras habilidades cognitivas como visión espacial, atención y planificación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X4B2TWY/?tag=tolees-21)

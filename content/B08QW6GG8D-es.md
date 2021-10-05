@@ -28,8 +28,8 @@ En este momento está [Timberland Graydon Oxford Basic  Plano Hombre  Negro  41 
 
 🔎:
 
+- Suela: goma
 - Material interior: sintético
 - Exterior: piel
-- Suela: goma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QW6GG8D/?tag=tolees-21)
