@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas JG TR Ask Tight Tights  Niñas  Bl al 43.77 % de descuento'
-date: 2021-09-24 19:47:24
+date: 2021-10-05 21:39:43
 image: 'https://m.media-amazon.com/images/I/318On+T+JqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

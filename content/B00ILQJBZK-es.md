@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.37 % en Corsair SABRE PRO CHAMPION SERIES Ratón '
-date: 2021-10-04 16:37:57
+date: 2021-10-05 22:47:12
 image: 'https://m.media-amazon.com/images/I/21CxJxTuwKS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [Corsair SABRE PRO CHAMPION SERIES Ratón para Juegos Forma Ergonómica p
 
 ℹ️:
 
-- Botones del CORSAIR QUICKSTRIKE: Su diseño de tensión por muelles con cero espacio entre los botones principales del ratón y sus conmutadores hace que todos sus clics, disparos
-- Cable Paracord para reducir el arrastre: Un cable de tejido Paracord extremadamente ligero y flexible reduce drásticamente el arrastre para que los movimientos del ratón sean fluidos y ágiles
 - Ligero y rápido: Con un peso de tan solo 69 g para soportar movimientos rápidos y reflejos de jugador profesional, el robusto diseño del SABRE PRO está a la altura de sus jornadas
-- Tecnología de hiperprocesamiento CORSAIR AXON: Transmite sus movimientos y clics al PC hasta ocho veces más rápido que los ratones para juegos convencionales, con un sondeo de 8.000 Hz
 - Sensor óptico de 18.000 PPP nativos: Su sensor PixArt PMW3392, con un seguimiento de 450 IPS a una aceleración de hasta 50 G, ofrece una precisión insuperable y completamente personalizable
 - Diseño de campeones: Los productos CORSAIR CHAMPION SERIES han sido diseñados y probados por los mejores profesionales de eSports, lo que le ayudará a alcanzar la victoria
+- Cable Paracord para reducir el arrastre: Un cable de tejido Paracord extremadamente ligero y flexible reduce drásticamente el arrastre para que los movimientos del ratón sean fluidos y ágiles
+- Botones del CORSAIR QUICKSTRIKE: Su diseño de tensión por muelles con cero espacio entre los botones principales del ratón y sus conmutadores hace que todos sus clics, disparos
+- Tecnología de hiperprocesamiento CORSAIR AXON: Transmite sus movimientos y clics al PC hasta ocho veces más rápido que los ratones para juegos convencionales, con un sondeo de 8.000 Hz
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ILQJBZK/?tag=tolees-21)

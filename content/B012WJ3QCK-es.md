@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '3M 1500NE20 Cinta electrico Uso General  con un 62.38 % de descuento'
-date: 2021-10-04 19:08:14
+date: 2021-10-05 21:59:42
 image: 'https://m.media-amazon.com/images/I/41gkBsJFrGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [3M 1500NE20 Cinta electrico Uso General  Negro](https://w
 
 🔎:
 
-- Largo 20 mts
 - Cinta aislante de uso general
-- Temflex 1500
 - Ancho 19mm
+- Largo 20 mts
+- Temflex 1500
 - Espesor 0,13 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B012WJ3QCK/?tag=tolees-21)
