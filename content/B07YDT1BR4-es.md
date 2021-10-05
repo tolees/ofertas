@@ -28,9 +28,9 @@ Tienes [Maisto -2018 Yamaha Valentino Rossi  90665.012](https://www.amazon.es/dp
 
 🔎:
 
-- Dimensiones: 6,8 x 18.0 x 11,2 cm (largo x alto x ancho).
 - Fabricado en Italia.
-- Edad recomendada: a partir de 3 años.
+- Dimensiones: 6,8 x 18.0 x 11,2 cm (largo x alto x ancho).
 - Modelo de 15 centímetros.
+- Edad recomendada: a partir de 3 años.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YDT1BR4/?tag=tolees-21)
