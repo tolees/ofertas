@@ -28,9 +28,9 @@ Tienes [ABUS Alarmbox BU Accesorios Bici  Adultos Unisex  Azul  Azul   Talla Ún
 
 ℹ️:
 
-- Batería CR2 incluida.
-- Caja de alarma con muchas funciones y posibilidades de uso.
 - Detección de posición 3D.
+- Caja de alarma con muchas funciones y posibilidades de uso.
+- Batería CR2 incluida.
 - Función de alarma de al menos 100 dB durante 15 segundos.
 - Alarma inteligente: en caso de movimiento ligero y rápido.
 

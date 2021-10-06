@@ -28,8 +28,8 @@ Tienes [Crocs Crocband II Sandal Unisex Niños Sandals  Azul  Bright Cobalt/Char
 
 ℹ️:
 
-- Todo el confort y amortiguación
 - Cierre ajustable para que sea fácil de poner y quitar
+- Todo el confort y amortiguación
 - Una sandalia para seguir el ritmo del día a día y la marcha de los niños
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07K91P5XC/?tag=tolees-21)

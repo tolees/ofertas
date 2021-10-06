@@ -28,10 +28,10 @@ Ahora mismo tienes [Osram Star Special T26 Lámpara LED E14  2.29 W  Blanco  1 U
 
 🔎:
 
-- La luz blanca cálida para la comodidad y la relajación, en el dormitorio o habitaciones de los niños
-- Consumo de energía 3 kWh/1000h y 200 lm
 - Fácil sustitución de las lámparas, reemplazo ideal para una lámpara de 20 W ( uso al aire libre sólo en luminarias adecuadas )
 - Encendido instantáneo, no necesita tiempo de calentamiento
 - Larga duración - hasta 15000 horas y hasta 100000 ciclos de encendido
+- La luz blanca cálida para la comodidad y la relajación, en el dormitorio o habitaciones de los niños
+- Consumo de energía 3 kWh/1000h y 200 lm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01HD52QKQ/?tag=tolees-21)

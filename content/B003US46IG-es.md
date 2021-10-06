@@ -28,8 +28,8 @@ Está [Valmont Nature Discos Redondos Algodón 100% Orgánico - 70 Unidades](htt
 
 ℹ️:
 
-- Marca : Bel
 - Género : mujer
+- Marca : Bel
 - Tipo de producto: discos desmaquillantes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003US46IG/?tag=tolees-21)

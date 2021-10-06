@@ -28,12 +28,12 @@ Está [Philips DVD-R DM4S6B10F/00 - DVD+RW vírgenes  4 7 GB  DVD-R  120 min  16
 
 ℹ️:
 
-- Número de capas: una sola capa.
-- Tipo: DVD-R.
-- Lado único/doble lateral: un solo lado.
-- Etiquetado directo del disco: no.
 - Capacidad de almacenamiento en MB : 4700.
-- Tamaño del paquete: 10.
+- Lado único/doble lateral: un solo lado.
+- Tipo: DVD-R.
 - Tamaño: DVD de 12 cm.
+- Tamaño del paquete: 10.
+- Etiquetado directo del disco: no.
+- Número de capas: una sola capa.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000F2C6EQ/?tag=tolees-21)
