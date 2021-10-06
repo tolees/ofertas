@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Tijuana  Zapatillas Mujer  Blanco al 42.24 % de descuento'
-date: 2021-10-03 07:30:15
+date: 2021-10-06 11:21:32
 image: 'https://m.media-amazon.com/images/I/31RiNU2KxFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07SH1TWYM/?tag=tolees-21'
 descuento: '42.24'
-average: '28.49'
+average: '27.99'
 ---
 
 Está [Levi s Tijuana  Zapatillas Mujer  Blanco  B White 50   37 EU](https://www.amazon.es/dp/B07SH1TWYM/?tag=tolees-21) con 42.24 de descuento por 25.99 EUR (original: 45.0 EUR) en el siguiente enlace!

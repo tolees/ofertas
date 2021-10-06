@@ -28,10 +28,10 @@ Tienes [L Oreal Paris Make-up Designer Máscara De Pestañas Mega Volumen 01 Neg
 
 ℹ️:
 
+- Fómula con aire inyectado y cepillo que recoge todas las pestañas, incluso las mas cortas
+- Máscara de pestañas para volumen ligero como el aire 
 - Pestañas ligeras y flexibles durante 24H
 - LOréal Paris Air Máscara de pestañas para un volumen extremo, ligero como el aire 
 - Aplica desde la raíz hasta el final de la pestaña haciendo ligeros movimientos de Zig Zag para ir separándolas poco a poco
-- Fómula con aire inyectado y cepillo que recoge todas las pestañas, incluso las mas cortas
-- Máscara de pestañas para volumen ligero como el aire 
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CCKF5GX/?tag=tolees-21)
