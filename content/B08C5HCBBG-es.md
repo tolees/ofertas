@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 80.30 % en Clarks Ambyr Joy  Bomba Mujer  Piel sint'
-date: 2021-10-04 01:53:40
+title: 'Descuento del 80.63 % en Clarks Ambyr Joy  Bomba Mujer  Piel sint'
+date: 2021-10-06 00:47:17
 image: 'https://m.media-amazon.com/images/I/41OzZIVK7DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08C5HCBBG-es Clarks Ambyr Joy Bomba Mujer Piel sintética de Serpiente...'
 sku: 'B08C5HCBBG-es'
 tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','clarks', ]
-actualPrice: 15.75 EUR
+actualPrice: 15.49 EUR
 currency: EUR
-price: 15.75
+price: 15.49
 comparePrice: 79.95 EUR
 prodname: 'Clarks Ambyr Joy  Bomba Mujer  Piel sintética de Serpiente  37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B08C5HCBBG/?tag=tolees-21'
-descuento: '80.30'
-average: '15.75'
+descuento: '80.63'
+average: '15.62'
 ---
 
-Tienes [Clarks Ambyr Joy  Bomba Mujer  Piel sintética de Serpiente  37 EU](https://www.amazon.es/dp/B08C5HCBBG/?tag=tolees-21) con un 80.30 % de descuento con precio de oferta de 15.75 EUR (original: 79.95 EUR) en el siguiente enlace!
+Tienes [Clarks Ambyr Joy  Bomba Mujer  Piel sintética de Serpiente  37 EU](https://www.amazon.es/dp/B08C5HCBBG/?tag=tolees-21) con un 80.63 % de descuento con precio de oferta de 15.49 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![Clarks Ambyr Joy  Bomba Mujer  Piel sint](https://m.media-amazon.com/images/I/41OzZIVK7DL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08C5HCBBG/?tag=tolees-21)
 
