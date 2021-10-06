@@ -28,8 +28,8 @@ Está [adidas Terrex Two Ultra Primeblue  Trail Running Shoe Hombre  Acid Mint/C
 
 ℹ️:
 
-- Ajuste tipo calcetín
 - Cordones de los zapatos
 - Parte superior de adidas Primeknit
+- Ajuste tipo calcetín
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PW1BLD6/?tag=tolees-21)

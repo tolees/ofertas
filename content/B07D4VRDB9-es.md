@@ -28,8 +28,8 @@ Tienes [Kappa Bash Mid  Zapatillas Altas Mujer  Negro  Black/Grey 1116   39 EU](
 
 🔎:
 
-- Suela: sintética
-- Material exterior: sintético
 - Material interior: sintético
+- Material exterior: sintético
+- Suela: sintética
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D4VRDB9/?tag=tolees-21)

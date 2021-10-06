@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas JG TR Ask Tight Tights  Niñas  Black/White  910Y](ht
 
 🔎:
 
-- Slim fit
-- Climalite anti-humidity fabric
 - Elastic waistband
+- Climalite anti-humidity fabric
+- Slim fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082RCK2MM/?tag=tolees-21)
