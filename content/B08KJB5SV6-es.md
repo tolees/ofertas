@@ -28,10 +28,10 @@ Está [Halls Cola - Caramelo duro - Caja con 20 Sticks de 32 g](https://www.amaz
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
-- Caramelos duros Halls con sabor a cola; Con edulcorantes, sin azúcar
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
 - Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
+- Caramelos duros Halls con sabor a cola; Con edulcorantes, sin azúcar
+- Conservar en lugar fresco y seco
 - Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KJB5SV6/?tag=tolees-21)
