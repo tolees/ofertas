@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.99 % en Caballero Caballero Spiced Orange Liqueu'
-date: 2021-10-05 12:56:33
+date: 2021-10-06 14:52:10
 image: 'https://m.media-amazon.com/images/I/31yYRohsO9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Caballero Caballero Spiced Orange Liqueur 25% Vol. 0 7l - 700 ml](https:
 
 ℹ️:
 
-- perfecto como un regalo
 - Sabor: Fino y con cuerpo, suave y afrutado, brandy, naranjas.
 - ideal para disfrutar por ti mismo
+- perfecto como un regalo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0085ZMCZS/?tag=tolees-21)

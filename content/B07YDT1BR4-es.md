@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maisto -2018 Yamaha Valentino Rossi  906 al 41.78 % de rebaja'
-date: 2021-10-04 22:32:09
+date: 2021-10-06 14:57:11
 image: 'https://m.media-amazon.com/images/I/515OvDEFTNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Maisto -2018 Yamaha Valentino Rossi  90665.012](https://www.amazon.es/dp
 
 🔎:
 
-- Fabricado en Italia.
-- Dimensiones: 6,8 x 18.0 x 11,2 cm (largo x alto x ancho).
 - Modelo de 15 centímetros.
+- Dimensiones: 6,8 x 18.0 x 11,2 cm (largo x alto x ancho).
+- Fabricado en Italia.
 - Edad recomendada: a partir de 3 años.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YDT1BR4/?tag=tolees-21)
