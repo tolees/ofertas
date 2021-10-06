@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas GH7172 CON21 HYB TOP Pullover mens team navy blue/whi
 
 🔎:
 
-- Ajuste regular
-- Tela suave
-- Ofrece libertad de movimiento
 - Logotipo de Adidas
+- Ofrece libertad de movimiento
+- Tela suave
+- Ajuste regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PL2ZTFP/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [adidas GM7316 TIRO21 TR Top W Pullover Womens Team Royal Blue L](https:/
 
 ℹ️:
 
-- Punto doble 100% poliéster reciclado
-- Tejido transpirable y corte ajustado
 - Cremallera de un cuarto con cuello alzado
-- Agujeros para los pulgares en los puños
+- Tejido transpirable y corte ajustado
 - Acanalado elástico en los lados
+- Agujeros para los pulgares en los puños
+- Punto doble 100% poliéster reciclado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08R6F9TK5/?tag=tolees-21)
