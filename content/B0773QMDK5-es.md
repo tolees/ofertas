@@ -28,10 +28,10 @@ Tienes [Ecomed PS-72E Báscula personal digital  hasta 150 kg  báscula de baño
 
 ℹ️:
 
-- Fácil activación "paso a paso" presionando ligeramente su pie (descalzo) en el centro de la superficie de la báscula.
 - Área de pesado de cristal de seguridad de 6 mm de grosor
-- Desconexión automática después de 10 segundos
 - Capacidad de carga máxima: 150 kg
 - La ubicación requiere un terreno firme y nivelado, una medición en alfombras causa valores inexactos
+- Fácil activación "paso a paso" presionando ligeramente su pie (descalzo) en el centro de la superficie de la báscula.
+- Desconexión automática después de 10 segundos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0773QMDK5/?tag=tolees-21)

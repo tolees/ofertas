@@ -28,10 +28,10 @@ En este momento está [Iris Ohyama Europe - Iris Ohyama  Torre de Almacenamiento
 
 🔎:
 
-- Cajones transparentes para ver el contenido sin tener que abrirlos
 - Bandeja con borde en la parte superior para guardar artículos pequeños
-- Torre equipada con 4 cajones A4 de capacidad media, 7 L y una bandeja en la parte superior
-- Tiradores ergonómicos, cajones equipados con tope
 - Modelo robusto y plástico resistente
+- Torre equipada con 4 cajones A4 de capacidad media, 7 L y una bandeja en la parte superior
+- Cajones transparentes para ver el contenido sin tener que abrirlos
+- Tiradores ergonómicos, cajones equipados con tope
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00DS3VFIW/?tag=tolees-21)

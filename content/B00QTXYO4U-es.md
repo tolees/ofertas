@@ -28,8 +28,8 @@ Tienes [Munchkin - Pingüino buzo nadador para la hora del baño  color azul](ht
 
 🔎:
 
-- Gracioso pingüino con gafas de buzo para sus aventuras submarinas
 - Dale cuerda con los brazos para verlo nadar
+- Gracioso pingüino con gafas de buzo para sus aventuras submarinas
 - Uso para niños de 9 meses en adelante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00QTXYO4U/?tag=tolees-21)

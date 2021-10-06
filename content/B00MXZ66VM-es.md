@@ -28,10 +28,10 @@ Está [OGX Acondicionador sin Sulfatos para el Crecimiento del Pelo  Biotina y C
 
 ℹ️:
 
-- Para óptimos resultados, utilice este acondicionador sin sulfatos junto con el resto de productos de la gama de Biotina y Colágeno de OGX.
 - Contiene proteína de trigo hidrolizada, la cual aumenta la capacidad del cabello para retener la hidratación y le añade volumen y cuerpo
+- Para óptimos resultados, utilice este acondicionador sin sulfatos junto con el resto de productos de la gama de Biotina y Colágeno de OGX.
+- La Biotina o vitamina B7 favorece el crecimiento y la formación de las células, ayudando a reducir la caída del pelo
 - El Acondicionador Biotina y Colágeno de OGX está compuesto de una fórmula óptima con biotina y colágeno, que ayudan a dar volumen, textura, y un aspecto bonito a cualquier tipo de pelo
 - El colágeno ayuda a combatir los radicales libres que afectan la textura, el crecimiento y el espesor del cabello
-- La Biotina o vitamina B7 favorece el crecimiento y la formación de las células, ayudando a reducir la caída del pelo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00MXZ66VM/?tag=tolees-21)

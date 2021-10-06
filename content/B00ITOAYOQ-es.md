@@ -29,9 +29,9 @@ Tienes [PAW PATROL - Patrulla Canina - Vehículo de Rescate de Ryder](https://ww
 ℹ️:
 
 - paw patrol
-- ryder
-- niño
 - vehículo de rescate
+- niño
 - vehículo ryder
+- ryder
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ITOAYOQ/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [yog&fit Sportslife - Yog&Fit. PA-004 Pesas y Mancuernas 2 en1 con Barra 
 
 🔎:
 
-- Salud y fitness: Ayuda a entrenar y fortalecer tus músculos , caderas, glúteos, , abdominales, bíceps, tríceps,cuádriceps piernas y rodillas en casa o en el gimnasio. Con un equipo de ejercicios eficaz para quemar grasa, moldear tu cuerpo se vuelve muy fácil.
 - *Seguridad: Protección de doble cierre para evitar y garantizar que no se aflojen, un agarre seguro y cómodo; De esta forma los discos quedan fijados y puedes ajustar al mismo tiempo la distancia que más te guste.
-- *Calidad: Materiales estrictamente seleccionados. Disco de protección de plástico de alta calidad¡ Con 1 Año de Garantía, si tienes problemas, te devolvemos tu dinero.
 - *Comodidad: La barra extensible cuenta con 1.5Cm de Espuma gruesa para un mayor agarre .Mantén tus hombros libres de dolor y realiza movimientos cómodos.
 - *Versatilidad. 2x1 Multifunción. ¡Convierte las mancuernas de forma rápida y fácil en una barra de pesas! ¡ahorrarás espacio en casa y podrás entrenar de forma más efectiva
+- Salud y fitness: Ayuda a entrenar y fortalecer tus músculos , caderas, glúteos, , abdominales, bíceps, tríceps,cuádriceps piernas y rodillas en casa o en el gimnasio. Con un equipo de ejercicios eficaz para quemar grasa, moldear tu cuerpo se vuelve muy fácil.
+- *Calidad: Materiales estrictamente seleccionados. Disco de protección de plástico de alta calidad¡ Con 1 Año de Garantía, si tienes problemas, te devolvemos tu dinero.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B095XBY59B/?tag=tolees-21)

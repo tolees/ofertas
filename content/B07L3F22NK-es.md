@@ -28,10 +28,10 @@ Ahora mismo tienes [OGX Acondicionador de Carbón para Pelo Graso  385 ml](https
 
 🔎:
 
-- Recomendado para cabellos grasos que necesitan una limpieza profunda
-- Acondicionador purificador y desintoxicante que dejará su cabello limpio y luminoso
 - Acondicionador con carbón activado y arcilla de caolín
 - Para obtener los mejores resultados, utilice toda la colección de desintoxicación con carbón vegetal: champú y acondicionador
+- Acondicionador purificador y desintoxicante que dejará su cabello limpio y luminoso
 - Ayudará a eliminar la acumulación y los residuos que quedan en el cabello para que no quede pesado
+- Recomendado para cabellos grasos que necesitan una limpieza profunda
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07L3F22NK/?tag=tolees-21)
