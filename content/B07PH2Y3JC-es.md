@@ -28,7 +28,7 @@ En este momento está [Only Onlvenedig Paperbag Long Skirt Wvn Noos Falda  Rojo 
 
 🔎:
 
-- soft viscose
 - maxi skirt
+- soft viscose
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PH2Y3JC/?tag=tolees-21)
