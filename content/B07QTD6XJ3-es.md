@@ -28,10 +28,10 @@ En este momento está [Funko- Pop Star Wars The Rise of Skywalker-D-0 Disney Fig
 
 🔎:
 
+- Disney star wars
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Descúbre otras figuras de la colección disney star wars y colecciónalas todas
 - De la colección star wars the rise of skywalker, d-0 como figura de vinilo pop de funko
 - D-0
-- Disney star wars
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QTD6XJ3/?tag=tolees-21)

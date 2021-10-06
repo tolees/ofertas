@@ -28,11 +28,11 @@ Tienes [adidas Pesas Tobillo Ajustable - Negro  1 kg](https://www.amazon.es/dp/B
 
 ℹ️:
 
+- Circunferencia ajustable: mínimo 20 cm - máximo 48 cm
 - Circunferencia ajustable
 - Cierre de velcro
-- Talla única para todos
 - Peso extraíble
-- Circunferencia ajustable: mínimo 20 cm - máximo 48 cm
+- Talla única para todos
 - Disponible en 1 kg (4 x 0.25 kg) y 2 kg (4 x 0.5 kg)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0088A0BFI/?tag=tolees-21)
