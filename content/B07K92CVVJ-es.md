@@ -28,8 +28,8 @@ Ahora mismo tienes [Crocs Crocband II Sandal Unisex Niños Sandals  Azul  Bright
 
 🔎:
 
-- Cierre ajustable para que sea fácil de poner y quitar
-- Una sandalia para seguir el ritmo del día a día y la marcha de los niños
 - Todo el confort y amortiguación
+- Una sandalia para seguir el ritmo del día a día y la marcha de los niños
+- Cierre ajustable para que sea fácil de poner y quitar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K92CVVJ/?tag=tolees-21)
