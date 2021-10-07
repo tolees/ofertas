@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diesel UMBX-DAMIENTHREEPACK  Calzoncillo al 38.59 % de descuento'
-date: 2021-10-05 22:32:26
+date: 2021-10-07 11:35:53
 image: 'https://m.media-amazon.com/images/I/31skCw+u9hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
