@@ -28,9 +28,9 @@ En este momento está [Tristar RK-6126 - Arrocera  Capacidad 1 litro  Función p
 
 🔎:
 
+- Protección contra ebullición en seco y función para mantener caliente (70-75 °C)
 - Cubeta interna extraíble con recubrimiento antiadherente
 - Capacidad of 1 L y potencia de 400 W
-- Protección contra ebullición en seco y función para mantener caliente (70-75 °C)
 - Incluye cuchara, medidor y espátula
 - Exterior en acero inoxidable con luces indicadoras y patas antideslizantes
 

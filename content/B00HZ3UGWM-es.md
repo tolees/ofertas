@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Beauty Edp Vapo 100 Ml - 10 con un 72.72 % de descuento'
-date: 2021-10-04 12:40:33
+date: 2021-10-07 21:45:07
 image: 'https://m.media-amazon.com/images/I/41wwhGVEoiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ En este momento está [Calvin Klein Beauty Edp Vapo 100 Ml - 100 ml](https://www
 🔎:
 
 - size: 100
-- País: Spain
 - Marca: Calvin Klein
+- País: Spain
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00HZ3UGWM/?tag=tolees-21)

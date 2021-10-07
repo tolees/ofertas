@@ -28,10 +28,10 @@ Tienes [Apli Electra Pack de 10 Rollos de Papel  Blanco  57 x 55 x 12 mm](https:
 
 ℹ️:
 
+- Metros lineales por rollo (aprox.): 36 m
+- PACK de 10 rollos de papel térmico blanco
 - Tanto el mandril como el dorso son neutros; papel de bajo residuo
 - Especialmente utilizado en los métodos de pago como datáfonos
 - Tamaño de un rollo : 57 x 55 x 12 mm
-- PACK de 10 rollos de papel térmico blanco
-- Metros lineales por rollo (aprox.): 36 m
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HOFL00S/?tag=tolees-21)

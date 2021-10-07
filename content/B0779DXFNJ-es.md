@@ -29,8 +29,8 @@ Tienes [adidas Entrada 18 JSY T-Shirt  Hombre  Orange/White  XL](https://www.ama
 🔎:
 
 - El ajuste apretado garantiza un ajuste óptimo y un alto confort de uso
-- Sutiles rayas diagonales en la parte delantera
 - Tres rayas en contraste en el hombro
 - Con cuello en V acanalado
+- Sutiles rayas diagonales en la parte delantera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0779DXFNJ/?tag=tolees-21)

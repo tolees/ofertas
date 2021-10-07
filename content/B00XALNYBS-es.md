@@ -28,8 +28,8 @@ Tienes [Anian 6453 - Jabón de Manos  Neutro](https://www.amazon.es/dp/B00XALNYB
 
 ℹ️:
 
-- Tipo de Piel: Todo Tipo de Pieles
-- Formato: Dosificador
 - Género: Unisex Adulto
+- Formato: Dosificador
+- Tipo de Piel: Todo Tipo de Pieles
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XALNYBS/?tag=tolees-21)

@@ -30,7 +30,7 @@ Tienes [Maybelline Master Strobing Stick Iluminador  Tono: 100 Light - 30 g](htt
 
 - Textura cremosa en formato stic
 - Efecto buena cara inmediato
-- Es un iluminador en stick cremoso que marca y realza facciones iluminándolas
 - Aplicación fácil
+- Es un iluminador en stick cremoso que marca y realza facciones iluminándolas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01KVCI8Q4/?tag=tolees-21)
