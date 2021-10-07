@@ -30,8 +30,8 @@ Está [Braun MGK3042 7 en 1 Recortadora todo en uno  Máquina recortadora barba 
 
 - Funcionamiento de larga duración: 60 min de autonomía con una carga de 8 horas; recortadora recargable totalmente lavable
 - Set recortador 7 en 1, que incluye recortadora barba, cortapelos, recortador de vello de nariz y orejas, y maquinilla para afeitado al ras
-- Incluye una maquinilla Gillete Body para un afeitado al ras en el cuello y la cara
 - Cuchillas afiladas de larga duración para el recorte de la barba y cabello
+- Incluye una maquinilla Gillete Body para un afeitado al ras en el cuello y la cara
 - 13 ajustes de longitud con solo 4 peines para obtener una variedad de estilos de barba y cabello
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DGJDGH1/?tag=tolees-21)

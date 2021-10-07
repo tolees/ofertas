@@ -28,10 +28,10 @@ Está [Bosch Professional GWS 1400 - Amoladora angular  1400 W  11000 rpm  Ø di
 
 ℹ️:
 
+- Caperuza protectora con seguro contra torsión, resistente incluso a la rotura del disco
 - Constant Electronic: mantiene constante la velocidad, incluso bajo carga
 - Incluye: Amoladora angular GWS 1400 con brida de fijación, caperuza protectora, tuerca de apriete, llave de dos agujeros, en caja
-- Caperuza protectora con seguro contra torsión, resistente incluso a la rotura del disco
-- Refrigeración del motor optimizada para una alta capacidad de sobrecarga
 - Diámetro del disco: 125 mm, rosca del husillo portamuela: M14
+- Refrigeración del motor optimizada para una alta capacidad de sobrecarga
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001IBSIMW/?tag=tolees-21)

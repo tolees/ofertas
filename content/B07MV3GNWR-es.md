@@ -28,10 +28,10 @@ En este momento está [FCB - FC Barcelona Corporativa Oficial Cartera Extraescol
 
 🔎:
 
-- Bandolera ajustable; doble tirador en cremallera principal para facilitar su apertura
-- Confeccionada con un material de poliéster muy resistente y cremalleras suaves; fácil de lavar
-- Ideal para niños adultos y adolescentes, perfecta para el uso escolar, trabajo o viajes
 - Fondo interior semi rígido extraíble
 - Safta fc barcelona corporativa oficial maletín protector para ordenador y papeles o libros; ideal como bolso de mano. 2 años de garantía
+- Confeccionada con un material de poliéster muy resistente y cremalleras suaves; fácil de lavar
+- Ideal para niños adultos y adolescentes, perfecta para el uso escolar, trabajo o viajes
+- Bandolera ajustable; doble tirador en cremallera principal para facilitar su apertura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MV3GNWR/?tag=tolees-21)

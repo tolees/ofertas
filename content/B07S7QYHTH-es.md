@@ -28,7 +28,7 @@ Ahora mismo tienes [Puma Divecat v2  Zapatos de Playa y Piscina Unisex Adulto  D
 
 🔎:
 
-- Forma anatómica que se adapta a tus pies
 - Diseño ligero y flexible que ofrece comodidad
+- Forma anatómica que se adapta a tus pies
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S7QYHTH/?tag=tolees-21)

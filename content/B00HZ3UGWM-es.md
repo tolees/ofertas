@@ -28,8 +28,8 @@ En este momento está [Calvin Klein Beauty Edp Vapo 100 Ml - 100 ml](https://www
 
 🔎:
 
-- size: 100
 - Marca: Calvin Klein
 - País: Spain
+- size: 100
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00HZ3UGWM/?tag=tolees-21)

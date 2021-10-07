@@ -28,8 +28,8 @@ En este momento está [Bosch Home and Garden 2609003867 Bosch Cuchilla de 10cm p
 
 🔎:
 
-- Incluye: Cuchilla para tijeras cortacésped 10cm
-- Compatible con AGS y ASB
 - Cuchilla de 10 cm para tijeras cortacésped
+- Compatible con AGS y ASB
+- Incluye: Cuchilla para tijeras cortacésped 10cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003MDIAXG/?tag=tolees-21)
