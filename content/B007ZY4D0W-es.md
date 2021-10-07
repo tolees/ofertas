@@ -28,10 +28,10 @@ Tienes [Pedigree Dentastix Snack Dental para la Higiene Oral de Perros Medianos 
 
 ℹ️:
 
-- La combinación de su textura junto con sus ingredientes activos convierten a los palitos para perro Dentastix en el aliado perfecto para la limpieza completa de su boca
-- Snack dental para perros medianos que favorece la higiene oral y contribuye a mejorar el aliento del perro
 - Está demostrado científicamente que darle un stick dental Dentastix a tu perro contribuye a la limpieza diaria de sus dientes y ayuda a mantener su aliento fresco
 - Su textura hace que los sticks dentales se adapten perfectamente a la forma de los dientes al masticarlos, para una limpieza profunda, hasta la raíz
 - Los sticks dentales Dentastix son forma de darle un premio a tu perro, bajo en grasa, sin azúcar añadido, ni colorantes o saborizantes artificiales
+- Snack dental para perros medianos que favorece la higiene oral y contribuye a mejorar el aliento del perro
+- La combinación de su textura junto con sus ingredientes activos convierten a los palitos para perro Dentastix en el aliado perfecto para la limpieza completa de su boca
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B007ZY4D0W/?tag=tolees-21)
