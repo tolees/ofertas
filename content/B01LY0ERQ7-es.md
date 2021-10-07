@@ -28,9 +28,9 @@ Ahora mismo tienes [O.B. Detergentes Liquidos - Omino Bianco Detergente Liquido 
 
 🔎:
 
-- Proporciona una agradable sensación a fresco y limpio
-- Contenido de 3040 ml para 40 lavados
 - Para limpiar, quitar las manchas e iluminar las prendas
+- Proporciona una agradable sensación a fresco y limpio
 - Limpia en profundidad y respeta los tejidos
+- Contenido de 3040 ml para 40 lavados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LY0ERQ7/?tag=tolees-21)

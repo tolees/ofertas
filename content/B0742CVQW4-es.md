@@ -28,9 +28,9 @@ Tienes [Rimmel London Scandaleyes Waterproof Khol Kajal Liners Tono 1 - 1.3 gr](
 
 🔎:
 
+- Dibuja una línea fina sobre el ojo para una mirada más intensa
 - Resistente al agua
 - Fórmula suave y cremosa para una fácil aplicación
-- Dibuja una línea fina sobre el ojo para una mirada más intensa
 - Color de alta intensidad para un impacto instantáneo
 - Dermatológicamente y oftalmológicamente probado
 

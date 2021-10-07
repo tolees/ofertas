@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Terrex Two Ultra Primeblue  Trail al 47.81 % de descuento'
-date: 2021-10-05 22:48:29
+date: 2021-10-07 20:09:27
 image: 'https://m.media-amazon.com/images/I/51uXtckji6S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
