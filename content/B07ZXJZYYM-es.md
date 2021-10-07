@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas FS1901 CORE18 Polo Polo Shirt Men al 50.18 % de descuento'
-date: 2021-09-17 00:29:49
+date: 2021-10-07 06:06:19
 image: 'https://m.media-amazon.com/images/I/410NYsY0ZsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07ZXJZYYM/?tag=tolees-21'
 descuento: '50.18'
-average: '14.6166666666667'
+average: '14.45'
 ---
 
 Ahora mismo tienes [adidas FS1901 CORE18 Polo Polo Shirt Mens Bold Green S](https://www.amazon.es/dp/B07ZXJZYYM/?tag=tolees-21) a 13.95 EUR (original: 28.0 EUR) (50.18 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas FS1901 CORE18 Polo Polo Shirt Mens Bold Green S](http
 
 🔎:
 
-- Climalite humedad Tela
 - Solapa con dos botones
+- Climalite humedad Tela
 - regular fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZXJZYYM/?tag=tolees-21)
