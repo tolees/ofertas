@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.53 % en New Balance 574 Pastel Pack  Zapatillas '
-date: 2021-10-06 14:10:17
+date: 2021-10-07 14:30:14
 image: 'https://m.media-amazon.com/images/I/41BgZQFLChL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B086TFMC5B/?tag=tolees-21'
 descuento: '35.53'
-average: '62.2247826086956'
+average: '62.1642857142857'
 ---
 
 Tienes [New Balance 574 Pastel Pack  Zapatillas Mujer  UV GLO  37.5 EU](https://www.amazon.es/dp/B086TFMC5B/?tag=tolees-21) con un 35.53 % de descuento con precio de oferta de 57.99 EUR (original: 89.95 EUR) en el siguiente enlace!
