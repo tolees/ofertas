@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.62 % en Vans U Authentic  Zapatillas De Deporte '
-date: 2021-10-05 22:53:14
+date: 2021-10-07 02:44:29
 image: 'https://m.media-amazon.com/images/I/310MGlrHqQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
