@@ -28,10 +28,10 @@ Ahora mismo tienes [Kipling Gleam  Accesorio Billetera de Viaje para Mujer  Nieb
 
 🔎:
 
+- 0,07 kg
+- 100% poliamida
 - Mono robot de silicona - pequeño
 - Ligero
-- 100% poliamida
-- 0,07 kg
 - Femenino
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CXG2QXD/?tag=tolees-21)

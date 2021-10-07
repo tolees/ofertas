@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Star Wars The Rise of Skywalk con un 46.82 % de descuento'
-date: 2021-10-06 11:34:23
+date: 2021-10-07 12:17:27
 image: 'https://m.media-amazon.com/images/I/41sr8ovc8HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07QTD6XJ3/?tag=tolees-21'
 descuento: '46.82'
-average: '9.65769230769231'
+average: '9.53571428571429'
 ---
 
 En este momento está [Funko- Pop Star Wars The Rise of Skywalker-D-0 Disney Figura coleccionable  Multicolor  Standard  43091 ](https://www.amazon.es/dp/B07QTD6XJ3/?tag=tolees-21) a 7.95 EUR (original: 14.95 EUR) (46.82 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Funko- Pop Star Wars The Rise of Skywalker-D-0 Disney Fig
 
 🔎:
 
-- Disney star wars
+- De la colección star wars the rise of skywalker, d-0 como figura de vinilo pop de funko
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Descúbre otras figuras de la colección disney star wars y colecciónalas todas
-- De la colección star wars the rise of skywalker, d-0 como figura de vinilo pop de funko
 - D-0
+- Disney star wars
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QTD6XJ3/?tag=tolees-21)

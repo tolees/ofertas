@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tous Touch 100ml al 63.54 % de rebaja'
-date: 2021-10-06 11:40:30
+date: 2021-10-07 12:20:26
 image: 'https://m.media-amazon.com/images/I/41f+3EOobKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TOUS'
 buyurl: 'https://www.amazon.es/dp/B001BSIZS4/?tag=tolees-21'
 descuento: '63.54'
-average: '30.8855589123866'
+average: '30.8825903614457'
 ---
 
 Tienes [Tous Touch 100ml](https://www.amazon.es/dp/B001BSIZS4/?tag=tolees-21) con precio final de  29.9 EUR (original: 82.0 EUR) (63.54 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Tous Touch 100ml](https://www.amazon.es/dp/B001BSIZS4/?tag=tolees-21) co
 
 🔎:
 
-- Salida: flor de loto, Fresia y lirio del valle
-- El paquete puede variar
 - Corazón: Jazmín, osmanthus y flor de Tiare
+- Salida: flor de loto, Fresia y lirio del valle
 - Fondo: Flor de vainilla, frambuesa, almendra y miel.
+- El paquete puede variar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001BSIZS4/?tag=tolees-21)
