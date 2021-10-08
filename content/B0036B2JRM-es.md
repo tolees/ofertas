@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TFA 98.1102  LCD  Negro  Plata  150 x 77 al 44.60 % de descuento'
-date: 2021-09-29 09:33:21
+date: 2021-10-08 01:14:37
 image: 'https://m.media-amazon.com/images/I/31zsg+CtlXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [TFA 98.1102  LCD  Negro  Plata  150 x 77 x 30 mm  200 g  CR2
 
 🔎:
 
-- Peso máximo 50 kg. Precisión: 0,1 kg
-- Pasar la correa por el asa de la maleta o bolsa de equipaje
 - Muy fácil de usar, correa con asa ergonómica
+- Pasar la correa por el asa de la maleta o bolsa de equipaje
+- Peso máximo 50 kg. Precisión: 0,1 kg
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0036B2JRM/?tag=tolees-21)
