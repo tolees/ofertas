@@ -29,10 +29,10 @@ En este momento está [Pata Negra Verdejo - Vino Blanco D.O Rueda - Caja de 6 Bo
 🔎:
 
 - Maridaje: Combina con parrilladas de marisco, anchoas con pimientos rojos y tomate o lubina a la espalda con verduras a la plancha
-- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo entre 6 y 8 ºC y conservarlo en un lugar fresco y seco
 - Apariencia: Vino blanco color amarillo pálido y aspecto limpio y brillante con matices verdosos
+- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo entre 6 y 8 ºC y conservarlo en un lugar fresco y seco
+- Aroma: Perfil aromático fresco y expresivo, en el que predominan frutas como la piña, pera y fruta de la pasión, todo ello matizado con notas de anís estrellado y hierbaluisa
 - Gusto: En boca es fresco, moderadamente ácido y con una retronasal cítrica; es intenso, refrescante y persistente, dejando un paso limpio y amplio
 - Tipo de uva: Elaborado a partir de una selección de uvas de la variedad verdejo, sigue un proceso fermentación con un estricto control de temperatura
-- Aroma: Perfil aromático fresco y expresivo, en el que predominan frutas como la piña, pera y fruta de la pasión, todo ello matizado con notas de anís estrellado y hierbaluisa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FQ1PJB8/?tag=tolees-21)

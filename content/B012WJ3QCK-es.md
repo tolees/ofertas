@@ -28,10 +28,10 @@ En este momento está [3M 1500NE20 Cinta electrico Uso General  Negro](https://w
 
 🔎:
 
-- Largo 20 mts
 - Ancho 19mm
+- Largo 20 mts
+- Cinta aislante de uso general
 - Espesor 0,13 mm
 - Temflex 1500
-- Cinta aislante de uso general
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B012WJ3QCK/?tag=tolees-21)

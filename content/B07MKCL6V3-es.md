@@ -28,10 +28,10 @@ En este momento está [Trust Arys - Juego de 2 Altavoces portátiles  LED RGB  2
 
 🔎:
 
-- Salida de potencia máxima de 12 W (6 vatios RMS)
+- Rejilla metálica para protección adicional; alimentado por USB, no requiere alimentación de red
+- Control de volumen de gran tamaño, iluminado y de fácil acceso en el frontal
 - Iluminación LED con ciclo de colores automatizado
 - Funciona con todos los PC/ordenadores portátiles
-- Control de volumen de gran tamaño, iluminado y de fácil acceso en el frontal
-- Rejilla metálica para protección adicional; alimentado por USB, no requiere alimentación de red
+- Salida de potencia máxima de 12 W (6 vatios RMS)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MKCL6V3/?tag=tolees-21)
