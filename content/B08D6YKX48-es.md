@@ -28,11 +28,11 @@ En este momento está [Pepe Jeans West Sir Camiseta  Amarillo  014sorbet Lemon  
 
 🔎:
 
-- Camiseta de algodón
 - Efecto desgastado
+- Cuello redondo
+- Camiseta de algodón
+- Logo impreso delante
 - Fit slim
 - Manga corta
-- Logo impreso delante
-- Cuello redondo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08D6YKX48/?tag=tolees-21)

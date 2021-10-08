@@ -28,9 +28,9 @@ Está [Advance Advance Snacks Dental Care Stick Mini para Perro - 360 gr](https:
 
 ℹ️:
 
-- PROTECCIÓN DENTAL. Limita la formación de placa bacteriana.
 - ACCIÓN MECÁNICA Forma especial que elimina los residuos de comida
-- PIROFOSFATOS que ayudan a evitar la acumulación de sarro.
+- PROTECCIÓN DENTAL. Limita la formación de placa bacteriana.
 - Formato mensual 4 bolsas con 7 sticks cada una (Total 28 sticks)
+- PIROFOSFATOS que ayudan a evitar la acumulación de sarro.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01G7G6XDI/?tag=tolees-21)
