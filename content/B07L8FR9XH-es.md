@@ -28,8 +28,8 @@ Tienes [Seva Import 8435041742497 Auricular Casco  Adultos Unisex  Multicolor  M
 
 🔎:
 
-- Auricular casco
-- Producto de calidad
 - Marca seva import
+- Producto de calidad
+- Auricular casco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L8FR9XH/?tag=tolees-21)

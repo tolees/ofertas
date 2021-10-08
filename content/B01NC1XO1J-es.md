@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Royal Glide Rplclp  Zapatillas de al 39.20 % de descuento'
-date: 2021-09-25 12:22:23
+date: 2021-10-08 18:14:55
 image: 'https://m.media-amazon.com/images/I/31sz7oFuhoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Reebok Royal Glide Rplclp  Zapatillas de Deporte Hombre  Blanco  White/Co
 
 ℹ️:
 
-- Classic style
 - Sports shoes
+- Classic style
 - Cushioning
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NC1XO1J/?tag=tolees-21)
