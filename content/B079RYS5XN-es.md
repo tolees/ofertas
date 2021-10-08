@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Intimate Wm Heart Silla Oficina Ergonomi'
-date: 2021-09-12 21:53:41
+date: 2021-10-08 03:44:42
 image: 'https://m.media-amazon.com/images/I/41HUAJJz-DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'IntimaTe WM Heart'
 buyurl: 'https://www.amazon.es/dp/B079RYS5XN/?tag=tolees-21'
 descuento: '50.00'
-average: '84.6566666666667'
+average: '85.4185714285715'
 ---
 
 Tienes [Intimate Wm Heart Silla Oficina Ergonomica  Silla Giratoria Escritorio de Malla Tela con Respaldo Alto  Silla Estudio con Reposabrazos Plegables  Negro ](https://www.amazon.es/dp/B079RYS5XN/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 89.99 EUR (original: 179.99 EUR) en el siguiente enlace!

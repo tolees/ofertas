@@ -28,15 +28,15 @@ Ahora mismo tienes [MAKITA CC301DZ Cortador de Diamante 85mm 10 8V  18 W  10.8 V
 
 🔎:
 
-- R.p.m: 1.600 Rpm
-- Ideal para llevar a la obra para cortar azulejos, cristal, cristal armado, mármol, granito, etc..
-- Mayor velocidad de corte, aumentamos 200Rpm respecto al modelo anterior.
-- Empuñadura ergonómica y confortable gracias a su nuevo diseño y al recubrimiento con elastómero.
 - Base metálica y niquelada para la prevención del óxido.
+- Cortador a batería de la nueva gama de baterías de carril de 10,8V.
+- Ideal para llevar a la obra para cortar azulejos, cristal, cristal armado, mármol, granito, etc..
 - Posibilidad de corte a 45° hacia la izquierda.
+- Botella de agua para la refrigeración del corte, con tapón grande para facilitar la apertura y el llenado de agua.
+- R.p.m: 1.600 Rpm
 - Mayor potencia que el modelo anterior CC300D.
 - Disco de diamante especial vidrio
-- Botella de agua para la refrigeración del corte, con tapón grande para facilitar la apertura y el llenado de agua.
-- Cortador a batería de la nueva gama de baterías de carril de 10,8V.
+- Empuñadura ergonómica y confortable gracias a su nuevo diseño y al recubrimiento con elastómero.
+- Mayor velocidad de corte, aumentamos 200Rpm respecto al modelo anterior.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01JI2ZRNA/?tag=tolees-21)

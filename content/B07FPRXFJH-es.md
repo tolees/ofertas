@@ -28,9 +28,9 @@ Ahora mismo tienes [Rising Star - Trailblazers - Edición Estándar](https://www
 
 🔎:
 
-- Experience a pulse-pounding licensed soundtrack featuring awesome future funk tracks from Indie artists.
-- A larger-than-life cast of drivers, including humans, aliens and psychotic robots.
 - Play through a series of unique chapters of single player story mode, splitscreen, local and online multiplayer.
+- A larger-than-life cast of drivers, including humans, aliens and psychotic robots.
 - Drive a selection of different high-speed hover cars, each with unique stats and performance characteristics.
+- Experience a pulse-pounding licensed soundtrack featuring awesome future funk tracks from Indie artists.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FPRXFJH/?tag=tolees-21)

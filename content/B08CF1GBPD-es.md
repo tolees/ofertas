@@ -28,7 +28,7 @@ Está [BOSS Swoody 1 10230695 01  Dark Green302  S para Hombre](https://www.amaz
 
 ℹ️:
 
-- Mezcla de materiales
 - Acabado de alta calidad
+- Mezcla de materiales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CF1GBPD/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Casio G-SHOCK Reloj Analógico-Digital  Reloj radiocontrolado y solar  2
 
 🔎:
 
-- Negro y Negro
 - Cuarzo
-- Deportivo
 - Analógico - Digital en Resina para Hombre
+- Deportivo
 - WR 200mt
+- Negro y Negro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0744QDTYK/?tag=tolees-21)
