@@ -28,10 +28,10 @@ Tienes [HUAWEI Watch GT2 Sport + USB-C - Smartwatch con Caja de 46 Mm  hasta 2 S
 
 🔎:
 
-- HUAWEI WATCH GT 2 (46 mm) incorpora una pantalla de cristal 3D, un nuevo paso en la industria de los smartwatch; su pantalla AMOLED de 1.39 pulgadas tiene una tasa de respuesta rápida y precisa
-- Kirin A1, el primer procesador desarrollado en su totalidad por HUAWEI, ofrece un alto rendimiento y un bajo consumo de energía; con hasta dos semanas de batería
-- 15 modos de entrenamiento: múltiple cursos de entrenamiento profesional desde el nivel básico hasta el avanzado están preinstalados en el smartwatch, permitiendo una orientación profesional y efectiva
 - Puedes utilizar llamadas bluetooth durante los entrenamientos y en tu vida diaria; incluye: correr, andar en bicicleta, conducir o hacer tareas domésticas
 - Dos sistemas de posicionamiento (GPS y GLONASS) para detectar más satélites y aumentar la precisión de posicionamiento
+- HUAWEI WATCH GT 2 (46 mm) incorpora una pantalla de cristal 3D, un nuevo paso en la industria de los smartwatch; su pantalla AMOLED de 1.39 pulgadas tiene una tasa de respuesta rápida y precisa
+- 15 modos de entrenamiento: múltiple cursos de entrenamiento profesional desde el nivel básico hasta el avanzado están preinstalados en el smartwatch, permitiendo una orientación profesional y efectiva
+- Kirin A1, el primer procesador desarrollado en su totalidad por HUAWEI, ofrece un alto rendimiento y un bajo consumo de energía; con hasta dos semanas de batería
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B09BBDBVKZ/?tag=tolees-21)

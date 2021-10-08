@@ -28,8 +28,8 @@ Ahora mismo tienes [L Oreal Majirel 6   Color Rubio Oscuro  50 ml](https://www.a
 
 🔎:
 
+- El colorante que actúa sobre la tonalidad de la fibra capilar gracias a los ingredientes activos de tratamiento: Ionène G e Incell.
 - Resultado Majirel: cuerpo, brillo, uniformidad, resistencia, 100% de cobertura de cabello blanco.
 - La crema Majirel se usa mezclando 1 tubo de 50 ml con 75 ml de oxidante en la crema N. 1 20 vol (6%) para aclarar 2 tonos. Para un aligeramiento de 3 tonos, elija la crema en crema No. 2 30 Vol (9%)
-- El colorante que actúa sobre la tonalidad de la fibra capilar gracias a los ingredientes activos de tratamiento: Ionène G e Incell.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0012XAPCC/?tag=tolees-21)

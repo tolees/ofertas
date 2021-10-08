@@ -29,9 +29,9 @@ Está [Madison Reloj Análogo clásico para Unisex de Cuarzo con Correa en Cauch
 ℹ️:
 
 - Anchura de la correa: 18 mm
-- Resistencia a la presión del agua: 5 bars
 - Diámetro de la caja para relojes de caja redonda: 40 mm
 - Diseño moderno
 - Tipo de movimiento: Cuarzo
+- Resistencia a la presión del agua: 5 bars
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B009SZLVA6/?tag=tolees-21)
