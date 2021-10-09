@@ -28,10 +28,10 @@ Está [Grifo Cocina  CECIPA Grifo Cocina Negro Giratorio 360° Grifo para Fregad
 
 ℹ️:
 
-- Diseño moderno: siempre con delante cuando se trata de buenos diseños. El Grifo Cocina Diseño Clásico encaja en cualquier cocina. Ideal para un fregadero de cocina de 1 o 2 senos.
-- Montaje sin esfuerzo: el orificio de montaje: 32 – 45 mm, tornillos de cobre alargados de 50 mm, incluye 2 mangueras de conexión flexibles de 600 mm 3/8 pulgadas y adaptador de 3/8 a 1/2 fácil de montar, incluso para los principiantes. período de garantía 3 años (si hay algún problema con el producto, no dude en contactarnos).
-- Ahorro de agua: con nuestro aireador integrado del grifo fregadero cocina puedes ahorrar hasta un 40% de agua. Por supuesto, también se reducen las salpicaduras.
-- Función de interruptor de frío y calor:el grifo cocina tiene modo, que puedede agua fría y caliente para controlar fácilmente la temperatura del agua y el volumen de flujo.El núcleo de la válvula de cerámica que puede alcanzar 500.000 veces tiene una vida útil más larga.
 - Respetuoso con el medio ambiente y duradero acero inoxidable 304: el grifos de cocina está hecho de acero inoxidable 304, no es fácil de rayar y fácil de limpiar. El caño alto del grifo puede Giratorio 360°,más conveniencia para su uso diario.
+- Función de interruptor de frío y calor:el grifo cocina tiene modo, que puedede agua fría y caliente para controlar fácilmente la temperatura del agua y el volumen de flujo.El núcleo de la válvula de cerámica que puede alcanzar 500.000 veces tiene una vida útil más larga.
+- Montaje sin esfuerzo: el orificio de montaje: 32 – 45 mm, tornillos de cobre alargados de 50 mm, incluye 2 mangueras de conexión flexibles de 600 mm 3/8 pulgadas y adaptador de 3/8 a 1/2 fácil de montar, incluso para los principiantes. período de garantía 3 años (si hay algún problema con el producto, no dude en contactarnos).
+- Diseño moderno: siempre con delante cuando se trata de buenos diseños. El Grifo Cocina Diseño Clásico encaja en cualquier cocina. Ideal para un fregadero de cocina de 1 o 2 senos.
+- Ahorro de agua: con nuestro aireador integrado del grifo fregadero cocina puedes ahorrar hasta un 40% de agua. Por supuesto, también se reducen las salpicaduras.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YDM95P1/?tag=tolees-21)

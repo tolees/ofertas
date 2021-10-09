@@ -28,10 +28,10 @@ Ahora mismo tienes [DIGITUS Professional - Toma de conexión DIGITUS Cat-6 - 2 p
 
 🔎:
 
+- Las tomas están giradas 40°, lo que facilita la inserción de cables de conexión
+- El conector de red es adecuado para la entrada de cable horizontal (izquierda/derecha)
+- Tiene un campo de etiquetado para identificar correctamente.
 - Adecuado para rangos de conmutación comunes (Berker, Busch-Jaeger, Gira, Jung)
 - Seguridad garantizada a través de las tiras LSA y los conectores RJ45 totalmente apantallados
-- Las tomas están giradas 40°, lo que facilita la inserción de cables de conexión
-- Tiene un campo de etiquetado para identificar correctamente.
-- El conector de red es adecuado para la entrada de cable horizontal (izquierda/derecha)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000KG5ST2/?tag=tolees-21)

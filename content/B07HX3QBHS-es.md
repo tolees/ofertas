@@ -28,10 +28,10 @@ En este momento está [Emuca - Regleta multienchufe retráctil para empotrar en 
 
 🔎:
 
-- Montaje empotrado: requiere de un mecanizado en el mueble de 131x116mm.
+- Incluye cables de conexión para conectar los periféricos sin necesidad de utilizar herramientas (funcionamiento a 230V AC 50Hz).
 - Dispone de 1 enchufe tipo F Schuko (EU) con una potencia máxima admisible de hasta 3.000W - 13A, 2 conectores USB 5V DC (1 x 1A / 2 x 0,5A) y 1 conector HDMI.
 - Tapa de elevación manual con cierre amortiguado para acceder a los conectores de forma fácil.
-- Incluye cables de conexión para conectar los periféricos sin necesidad de utilizar herramientas (funcionamiento a 230V AC 50Hz).
 - Acabado color negro.
+- Montaje empotrado: requiere de un mecanizado en el mueble de 131x116mm.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HX3QBHS/?tag=tolees-21)

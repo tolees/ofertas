@@ -28,10 +28,10 @@ En este momento está [WELEDA Leche Corporal de Caléndula  1x 200 ml ](https://
 
 🔎:
 
-- Hidratación natural: Esta leche 100% natural hidrata, suaviza y favorece las funciones protectoras naturales de la piel del bebé.
-- Ideal para el uso diario: La leche corporal se deja aplicar fácil y se absorbe rápidamente. También esta ideal para el cuidado diario de la piel sensible del adulto.
 - Excelente calidad WELEDA: Con Extracto de Flores de Caléndula BIO y Aceite de Almendra Dulce BIO.
-- Contenido: 1 x WELEDA Leche Corporal de Caléndula
+- Hidratación natural: Esta leche 100% natural hidrata, suaviza y favorece las funciones protectoras naturales de la piel del bebé.
 - De fácil absorción: Con aceite de Sésamo BIO que nutre y previene la sequedad cutánea y extractos de Caléndula BIO que calman y alivian la piel. Penetra fácilmente sin dejar una película grasa.
+- Ideal para el uso diario: La leche corporal se deja aplicar fácil y se absorbe rápidamente. También esta ideal para el cuidado diario de la piel sensible del adulto.
+- Contenido: 1 x WELEDA Leche Corporal de Caléndula
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000YOFP3O/?tag=tolees-21)
