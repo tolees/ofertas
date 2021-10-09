@@ -28,10 +28,10 @@ Tienes [Philips Hairclipper series 5000 Cortapelos lavable HC5630/15 Tecnología
 
 🔎:
 
-- 100% lavable** para una limpieza rápida y sencilla
+- Hasta 90 minutos de uso sin cable
 - Con la rueda de ajuste de longitud de corte se pueden seleccionar 28 posiciones de longitud: de 0.5 a 28 mm
 - Cuchillas de doble filo para un corte 2 veces más rápido
-- Hasta 90 minutos de uso sin cable
+- 100% lavable** para una limpieza rápida y sencilla
 - Aparta el pelo caído para un corte 2 veces más rápido*
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TPW789G/?tag=tolees-21)
