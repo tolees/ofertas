@@ -28,8 +28,8 @@ Ahora mismo tienes [Clarks Hamble Loafer  Mocasines Mujer  Azul  Navy Leather Na
 
 🔎:
 
-- Material interior: piel
-- Suela: goma
 - Exterior: piel
+- Suela: goma
+- Material interior: piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TKSSF52/?tag=tolees-21)
