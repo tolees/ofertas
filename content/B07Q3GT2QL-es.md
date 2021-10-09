@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Indian Face Born to Windsurf Blue an al 67.62 % de descuento'
-date: 2021-10-08 16:51:09
+date: 2021-10-09 16:57:24
 image: 'https://m.media-amazon.com/images/I/41EjdFbg44L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Ahora mismo tienes [The Indian Face Born to Windsurf Blue and Red](https://www.a
 🔎:
 
 - Born to Windsurf Blue and red
-- Gorras
 - Gorra Trucker Born to Windsurf Azul The Indian Face para hombre y mujer
+- Gorras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Q3GT2QL/?tag=tolees-21)
