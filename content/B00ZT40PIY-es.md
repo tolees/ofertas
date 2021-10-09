@@ -28,10 +28,10 @@ Tienes [Trixie - Flexi - Correa new classic neon reflect M cordon 5 m](https://w
 
 ℹ️:
 
-- Correa de cordón de 5 m
-- Cordón de alta resistencia de color neón
-- Para perros hasta máx. 20 kg
 - Superficies laterales altamente reflectantes
 - Sistema cómodo de frenado
+- Correa de cordón de 5 m
+- Para perros hasta máx. 20 kg
+- Cordón de alta resistencia de color neón
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ZT40PIY/?tag=tolees-21)

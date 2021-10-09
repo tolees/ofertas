@@ -28,8 +28,8 @@ En este momento está [Organic Shop Miel Canela Exfoliante Corporal - 250 ml  47
 
 🔎:
 
+- Dele a su piel un cuidado de lujo con este exfoliante corporal aromático
 - La canela y el azúcar tienen delicadas propiedades calmantes, mientras que la miel nutre la piel con vitaminas para rejuvenecerla y renovarla de manera eficaz
 - Elaborado con extracto de canela orgánica, miel orgánica y azúcar natural
-- Dele a su piel un cuidado de lujo con este exfoliante corporal aromático
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01H8QOZFE/?tag=tolees-21)

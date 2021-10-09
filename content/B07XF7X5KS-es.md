@@ -29,8 +29,8 @@ Tienes [Funko - Pop! Wonder Woman 1984: Wonder Woman  Gold Power Pose  Figura Co
 ℹ️:
 
 - De la colección wonder woman 1984, wonder woman (gold power pose) como figura de vinilo pode funko
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Funko pop; el juguete del año 2018
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Descúbre otras figuras de la colección wonder woman 1984 y colecciónalas todas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XF7X5KS/?tag=tolees-21)

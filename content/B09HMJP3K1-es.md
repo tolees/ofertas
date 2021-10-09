@@ -28,10 +28,10 @@ Está [Dounan CS02 RC Drone para Principiantes Plegable Altitude Hold Quadcopter
 
 ℹ️:
 
-- La función de altura fija hace que volar sea más fácil y seguro para los principiantes. Este avión puede realizar un balanceo de 360 ° en el cielo, lo cual es ornamental.
 - El modo sin cabeza te permite controlar el dron incluso cuando está fuera de la vista.
-- Cualquier problema, no dude en contactarnos. ¡Honor de servirte!
-- La función de control de velocidad le permite ajustar la velocidad según sus preferencias.
 - Función: arriba / abajo, adelante / atrás, girar a la izquierda / derecha, vuelo lateral, luz LED, modo de retención de altitud, modo sin cabeza, giro 3D y frecuencia de control de 2.4Ghz
+- La función de control de velocidad le permite ajustar la velocidad según sus preferencias.
+- La función de altura fija hace que volar sea más fácil y seguro para los principiantes. Este avión puede realizar un balanceo de 360 ° en el cielo, lo cual es ornamental.
+- Cualquier problema, no dude en contactarnos. ¡Honor de servirte!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B09HMJP3K1/?tag=tolees-21)

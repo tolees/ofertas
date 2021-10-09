@@ -28,11 +28,11 @@ Ahora mismo tienes [New Balance 997H Core  Zapatillas Hombre  Marblehead  44.5 E
 
 🔎:
 
-- Revestimiento: Tela
 - Tipo de tacón: Plano
+- Revestimiento: Tela
+- Material de la suela: Sintético
 - Composición: Empeine de malla/ante
 - Cierre: Cordones
-- Material de la suela: Sintético
 - Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BL37THN/?tag=tolees-21)

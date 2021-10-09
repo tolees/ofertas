@@ -30,7 +30,7 @@ Tienes [Edge Entertainment - Journey: la Ira de Los Demonios  EEMWJW01    color/
 
 - Paqueteage Weight: 2.92 kilograms
 - Paqueteage Dimensiones: 13.2 L x 31.2 H x 30.6 W (centimeters)
-- Journey: la ira de los demonios - español
 - Number of players: 1-4
+- Journey: la ira de los demonios - español
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MTWDS9S/?tag=tolees-21)

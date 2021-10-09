@@ -28,11 +28,11 @@ Tienes [Tenda U12 - Adaptador USB 3.0  Wirelles Dual-Band  Blanco](https://www.a
 
 ℹ️:
 
-- La tecnología 256-QAM acelera las transferencias inalámbricas hasta 400 Mbps en 2,4 GHz y 867 Mbps en 5 GHz
-- Interfaz USB 3.0 para una transmisión de datos más rápida
 - Doble banda seleccionable de 2,4 y 5 GHz proporciona una experiencia superior en contenidos multimedia
-- Cable de extensión de alta ganancia, que permite ajustar la ubicación del adaptador de red inalámbrico
 - Compatible con Windows XP / 7 / 8 / 8.1 / 10, MAC OS 10.6 - 10.12 y Linux
+- Interfaz USB 3.0 para una transmisión de datos más rápida
 - Función WPS, solo tiene que pulsar el botón WPS para conectar de forma segura a una red inalámbrica
+- La tecnología 256-QAM acelera las transferencias inalámbricas hasta 400 Mbps en 2,4 GHz y 867 Mbps en 5 GHz
+- Cable de extensión de alta ganancia, que permite ajustar la ubicación del adaptador de red inalámbrico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N5VDVJR/?tag=tolees-21)

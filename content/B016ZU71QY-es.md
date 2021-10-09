@@ -28,10 +28,10 @@ Está [Lansay - 23519 - Blopens Actividades Hada](https://www.amazon.es/dp/B016Z
 
 ℹ️:
 
+- Contiene: 8 Blopens, 6 plantillas, 6 hojas de dibujo
 - Set de dibujo Blopens temática cuento de hadas
+- Creación de dibujos con efecto aerográfico soplando los rotuladores Blopens
 - A partir de 5 años
 - Las plantillas son reutilizables y las tapas se pueden lavar
-- Creación de dibujos con efecto aerográfico soplando los rotuladores Blopens
-- Contiene: 8 Blopens, 6 plantillas, 6 hojas de dibujo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016ZU71QY/?tag=tolees-21)

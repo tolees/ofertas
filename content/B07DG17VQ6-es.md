@@ -28,8 +28,8 @@ Está [Bosch Hogar - Bosch Tassimo Happy TAS1002 - Cafetera de cápsulas con tec
 
 ℹ️:
 
-- La bebida que necesitas: prepara cada bebida con la cantidad de agua, la temperatura y el tiempo de preparación adecuados con la tecnología intellibrew que reconoce el código de barras
 - Contenido de envío: 1x Máquina de café Tassimo TAS1002 de Bosch sin transmisión de sabores de una bebida a otra. Disfruta tu café después de preparar un delicioso chocolate para tus hijos
+- La bebida que necesitas: prepara cada bebida con la cantidad de agua, la temperatura y el tiempo de preparación adecuados con la tecnología intellibrew que reconoce el código de barras
 - Máquina de café de tamaño pequeño, compacto y muy práctica con un depósito de agua de 0.7 litros para preparar todas las bebidas que quieras y sin preocuparte de rellenar el depósito
 - El ajuste adecuado: Tassimo se encarga de prepararte rápidamente una sola taza de café o bebida caliente o bebida favorita con un solo clic y sin importar la altura del vaso o de la taza
 - Con más de 40 bebidas: espresso, café crème, café de filtro, latte macchiato, cappuccino, chocolate caliente y té. Disfruta de todo tipo de deliciosas bebidas calientes con Tassimo
