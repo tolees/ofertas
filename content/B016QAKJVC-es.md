@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Parma 16 Intenso Pantalones Corto al 38.48 % de descuento'
-date: 2021-10-07 19:32:43
+date: 2021-10-09 00:41:58
 image: 'https://m.media-amazon.com/images/I/31fnd4U5UsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B016QAKJVC/?tag=tolees-21'
 descuento: '38.48'
-average: '12.8213577023497'
+average: '12.8159895833332'
 ---
 
 Está [adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Negro/Blanco  S](https://www.amazon.es/dp/B016QAKJVC/?tag=tolees-21) con 38.48 de descuento por 10.76 EUR (original: 17.49 EUR) en el siguiente enlace!
