@@ -30,7 +30,7 @@ Tienes [ZINUS Tresa 140 נ60 cm  escritorio negro de metal con almacenamiento 
 
 - FÁCIL MONTAJE: todas las herramientas, piezas e instrucciones necesarias para el montaje en menos de 30 minutos se embalan en una caja compacta que se envía directamente a tu puerta.
 - SIN PREOCUPACIONES: garantía de un año incluida, para olvidarte de preocupaciones.
-- FABRICACIÓN ROBUSTA: este escritorio ofrece la máxima estabilidad gracias a su sólida estructura de acero y a su resistente tablero, fabricado para soportar hasta 45 kg..
 - MUCHO MÁS QUE UN ESCRITORIO FIABLE: equipado con características que facilitan el trabajo eficiente, el escritorio Tresa incluye una bandeja de almacenamiento y un colgador, un organizador de cables y un soporte para monitor que puede colocarse donde lo necesites.
+- FABRICACIÓN ROBUSTA: este escritorio ofrece la máxima estabilidad gracias a su sólida estructura de acero y a su resistente tablero, fabricado para soportar hasta 45 kg..
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077YR6JH9/?tag=tolees-21)

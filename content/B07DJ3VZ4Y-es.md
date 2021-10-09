@@ -28,8 +28,8 @@ Tienes [Geox D Nebula C  Zapatillas Mujer  Azul  Navy W22   36 EU](https://www.a
 
 🔎:
 
-- Geox D Nebula C Womens Slip On Trainers
-- garantía de reembolso satisfacción
 - Geox
+- garantía de reembolso satisfacción
+- Geox D Nebula C Womens Slip On Trainers
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DJ3VZ4Y/?tag=tolees-21)

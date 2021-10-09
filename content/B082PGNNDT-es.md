@@ -28,8 +28,8 @@ Ahora mismo tienes [THE INDIAN FACE Polar Black/Green](https://www.amazon.es/dp/
 
 🔎:
 
-- Polar Black / Green
 - Gafas de Sol
+- Polar Black / Green
 - Gafas de Sol Polarizadas Polar Negro The Indian Face para hombre y mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082PGNNDT/?tag=tolees-21)
