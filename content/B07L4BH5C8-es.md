@@ -30,8 +30,8 @@ En este momento está [Maui Moisture  Champú Protección del Color y Minerales 
 
 - La línea de Minerales Marinos de Maui Moisture contiene todos los ingredientes naturales optimas para darte un pelo teñido suave e hidratado
 - Este champú vegano contiene minerales Marinos y algas marinas, las cuales ayudan a hidratar el pelo tratado con color y a mantener un color vibrante
-- Mantén el color vibrante y llamativo de tu pelo teñido con el Champú Protección del Color y Minerales Marinos de Maui Moisture
-- Tu pelo quedará nutrido y extremadamente suave con esta formula vegana, llena de ingredientes naturales que proporcionan nutrición y que limpian suavemente el pelo teñido
 - Utiliza este champú con el acondicionador Protección del Color y Minerales Marinos de Maui Moisture, completando el tratamiento capilar natural sin parabenos, siliconas, colorantes sintéticos, ni sulfatos que tanto estás buscando para tratar tu pelo teñido
+- Tu pelo quedará nutrido y extremadamente suave con esta formula vegana, llena de ingredientes naturales que proporcionan nutrición y que limpian suavemente el pelo teñido
+- Mantén el color vibrante y llamativo de tu pelo teñido con el Champú Protección del Color y Minerales Marinos de Maui Moisture
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L4BH5C8/?tag=tolees-21)

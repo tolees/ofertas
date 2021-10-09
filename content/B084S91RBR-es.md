@@ -28,9 +28,9 @@ Está [EVGA 600 GD  80+ Gold 600W  Fuente de Alimentación 100-GD-0600-V2](https
 
 ℹ️:
 
+- Active power factor correction
 - Quiet and intelligent auto fan for near-silent operation
 - Single 12v; rail
-- Active power factor correction
 - Dc-dc converter improves 3.3v/5v stability
 - 80 plus gold certified, with 90% (115vac) / 92% (220vac~240vac) efficiency or higher under typical loads
 

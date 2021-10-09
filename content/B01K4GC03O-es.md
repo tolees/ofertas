@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional GBL 18V-120 Soplador  con un 41.60 % de descuento'
-date: 2021-10-07 19:50:26
+date: 2021-10-09 08:44:58
 image: 'https://m.media-amazon.com/images/I/31iSWg9BVJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.es/dp/B01K4GC03O/?tag=tolees-21'
 descuento: '41.60'
-average: '59.728'
+average: '59.43'
 ---
 
 En este momento está [Bosch Professional GBL 18V-120 Soplador  17000 rpm  270 km/h  sin batería  en caja  0 W  18 V  Negro/Azul](https://www.amazon.es/dp/B01K4GC03O/?tag=tolees-21) a 57.94 EUR (original: 99.22 EUR) (41.60 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Bosch Professional GBL 18V-120 Soplador  17000 rpm  270 k
 
 🔎:
 
-- Autonomía de funcionamiento en las dos velocidades: velocidad 1: 9 min por Ah; velocidad 2: 5 min por Ah
+- Versátil y flexible: los cuatro accesorios ofrecen diferentes posibilidades de uso de la herramienta; por ejemplo, como soplador de hojas
 - Professional 18V System. Máximo rendimiento. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o existentes Bosch Professional del mismo voltaje
 - Potente: gracias a la corriente de aire que alcanza los 270 km/h (75 m/s), caudal de aire: 2,0 m³/min-120 m³/h
-- Versátil y flexible: los cuatro accesorios ofrecen diferentes posibilidades de uso de la herramienta; por ejemplo, como soplador de hojas
+- Autonomía de funcionamiento en las dos velocidades: velocidad 1: 9 min por Ah; velocidad 2: 5 min por Ah
 - Incluye: Soplador a batería de 18 V GBL 18V-120, 4 accesorios, boquilla estándar, tubo de prolongación, boquilla de profundidad, depósito de recogida de polvo, en caja
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01K4GC03O/?tag=tolees-21)

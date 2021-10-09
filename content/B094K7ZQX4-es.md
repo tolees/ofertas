@@ -28,10 +28,10 @@ Tienes [NOX XTREME PRODUCTS Hummer Zero Core - NXHUMMERZEROCORE - Minitorre Micr
 
 🔎:
 
-- Fuente de alimentación 450w 80+ incluida - Placa base Micro ATX - Mini ITX
-- Filtro antipolvo en la parte inferior
+- Ventilador 120 mm preinstalado - Capacidad para instalar hasta 5 ventiladores
 - USB 3.0., 2.0. y audio hub
 - Diseño minimalista con acabados premium
-- Ventilador 120 mm preinstalado - Capacidad para instalar hasta 5 ventiladores
+- Fuente de alimentación 450w 80+ incluida - Placa base Micro ATX - Mini ITX
+- Filtro antipolvo en la parte inferior
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B094K7ZQX4/?tag=tolees-21)
