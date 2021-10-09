@@ -29,9 +29,9 @@ Ahora mismo tienes [VOXON Omni Mini Ratón Bluetooth Silencioso Mouse Inalámbri
 🔎:
 
 - Ahorro de energía: funciones de apagado automático para apagar el mouse, que puede ofrecer hasta 18 meses de duración de la batería con una sola batería AA (batería no incluida). También tiene un indicador de nivel de batería.
+- La forma cómoda y contorneada con empuñaduras de goma suave proporciona comodidad durante todo el día. Compatible con Windows XP, VISTA, 7, 8, 8.1, 10, Mac y Linux.
 - Avanzada de 2,4 GHz conectividad: consigue la comodidad inalámbrica y transmisión de datos libertad-rapidísima sin retrasos ni interrupciones de hasta 15 m de distancia.3 niveles de DPI ajustable (800/1200/1600) sin instalación de controlador.
 - Ratón inalámbrico Bluetooth Silencioso para un control preciso del cursor inteligente sobre muchos tipos de superficies.
 - Diseñado para ser de tamaño de bolsillo: puedes llevar el mouse a cualquier lugar; Lleve su computadora portátil con su diseño compacto de bolsillo (102 * 61.83 * 35.5 mm). Y ha resistido una prueba de 8 millones de clics para demostrar su durabilidad.
-- La forma cómoda y contorneada con empuñaduras de goma suave proporciona comodidad durante todo el día. Compatible con Windows XP, VISTA, 7, 8, 8.1, 10, Mac y Linux.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PHJT7BD/?tag=tolees-21)

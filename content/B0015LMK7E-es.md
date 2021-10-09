@@ -29,8 +29,8 @@ Ahora mismo tienes [Wenko 2768010100 - Estantería para armario de fregadero  di
 🔎:
 
 - Ideal para fregaderos
-- Dimensiones (An x P): 44-82 x 39 x 28 cm
 - Niveles de tensión cambiables
+- Dimensiones (An x P): 44-82 x 39 x 28 cm
 - Huecos fácilmente ajustables para trampas de olores, bajantes y cables
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0015LMK7E/?tag=tolees-21)
