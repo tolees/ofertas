@@ -28,10 +28,10 @@ En este momento está [Gener - Lijadora de Pared  Lijadora de Techo 800W  Sistem
 
 🔎:
 
-- ♣BASE DE LIJADO DESMONTABLE: Una parte de la base de lijado es desmontable para lijar la esquina que no se pueden alcanzar; Diseño de bola de acero en la base de lijado hace el trabajo más fluido y reduce la resistencia
-- ♣FUERTE MOTOR Y VELOCIDADES AJUSTABLES: El potente motor de 800W impulsa la lijadora de pared para que funcione de manera más eficiente y las velocidades ajustables (550-1900RPM) le permiten elegir el modo de lijado más adecuado para diferente escenario
-- ♣LUZ LED Y MANGO TELESCÓPICO: La luz LED lo ayuda a trabajar cómodamente en la oscuridad; El mango telescópico hasta 190cm (30cm) ahorra problemas cuando el espacio es demasiado pequeño o demasiado grande
-- ♣FUNCIÓN DE AUTOLIMPIEZA: Adiós a la aspiradora pesada gacias al sistema de autolimpieza de la máquina; Y la bolsa conectada a una manguera de 2 metros otorga total comodidad para limpieza de polvo durante el lijado
 - ♣INTERRUPTOR DE BLOQUEO: Presione el interruptor para bloquear la lijadora a una cierta velocidad que le ahorra mucha fuerza cuando tiene que trabajar continuamente
+- ♣FUNCIÓN DE AUTOLIMPIEZA: Adiós a la aspiradora pesada gacias al sistema de autolimpieza de la máquina; Y la bolsa conectada a una manguera de 2 metros otorga total comodidad para limpieza de polvo durante el lijado
+- ♣LUZ LED Y MANGO TELESCÓPICO: La luz LED lo ayuda a trabajar cómodamente en la oscuridad; El mango telescópico hasta 190cm (30cm) ahorra problemas cuando el espacio es demasiado pequeño o demasiado grande
+- ♣FUERTE MOTOR Y VELOCIDADES AJUSTABLES: El potente motor de 800W impulsa la lijadora de pared para que funcione de manera más eficiente y las velocidades ajustables (550-1900RPM) le permiten elegir el modo de lijado más adecuado para diferente escenario
+- ♣BASE DE LIJADO DESMONTABLE: Una parte de la base de lijado es desmontable para lijar la esquina que no se pueden alcanzar; Diseño de bola de acero en la base de lijado hace el trabajo más fluido y reduce la resistencia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B09D3BLFP8/?tag=tolees-21)

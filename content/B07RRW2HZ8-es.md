@@ -28,10 +28,10 @@ En este momento está [Kenwood kCook Multi Smart CCL450SI Robot de Cocina Multif
 
 🔎:
 
-- POTENCIA: calienta de 30º a 180º, permite hacer sofritos y freír e incluye programas de hasta 8 horas
-- FÁCIL LIMPIEZA: el bol y todos los accesorios se desmontan fácilmente y son aptos para el lavavajillas
-- DIRECT PREP: el accesorio Direct Prep integrado permite rebanar, cortar y rallar directamente en el bol de cocción o en un recipiente aparte (incluye 5 discos de corte)
 - CON WIFI: el único robot de cocina que se controla desde el móvil; cocina un plato sin tocar un botón del robot; accede desde tu Smartphone o table a más de 600 recetas
+- POTENCIA: calienta de 30º a 180º, permite hacer sofritos y freír e incluye programas de hasta 8 horas
+- DIRECT PREP: el accesorio Direct Prep integrado permite rebanar, cortar y rallar directamente en el bol de cocción o en un recipiente aparte (incluye 5 discos de corte)
+- FÁCIL LIMPIEZA: el bol y todos los accesorios se desmontan fácilmente y son aptos para el lavavajillas
 - Báscula inteligente conectada con la app para pesar ingredientes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RRW2HZ8/?tag=tolees-21)

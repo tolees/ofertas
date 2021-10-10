@@ -28,10 +28,10 @@ Tienes [Trixie - Arppe 2092010101 Correa Flexi New Classic  S  Rojo](https://www
 
 🔎:
 
-- Correa de cinta de 5 m
+- Para perros de hasta máx. 15 kg
 - Sistema cómodo de frenado
 - Ampliable con LED Lighting System
 - Gancho cromado
-- Para perros de hasta máx. 15 kg
+- Correa de cinta de 5 m
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00O3B2WE4/?tag=tolees-21)

@@ -28,15 +28,15 @@ En este momento está [Vieta Pro Altavoz Kids - Altavoz portátil  Bluetooth 5.0
 
 🔎:
 
-- Perfecto para los niños, es un altavoz super resistente a golpes.
-- Puedes usar la entrada auxiliar, para conectar también tu teléfono
-- Incluye micrófono, para que puedas atender a todas tus llamadas
-- Altavoz portátil, perfecto para llevar a todas partes. Con Bluetooth 5.0 que te permitirá conectar automáticamente tus dispositivos.
-- Dispone de la función true wireless, por lo que podrás conectar dos altavoces kids a un mismo dispositivo y conseguir el doble de potencia.
-- Tiene una asa, que hace que el altavoz sea más portátil y puedas colgarlo donde quieras.
-- Su autonomía es de 5 horas. Acabados en color verde y azul
-- Incluye Radio FM, para que no gastes la batería de tu smartphone y puedes disfrutar de tus emisoras preferidas.
 - Dispone de una entrada USB para que reproduzcas las canciones que tienes en el Pen Drive
+- Incluye micrófono, para que puedas atender a todas tus llamadas
+- Perfecto para los niños, es un altavoz super resistente a golpes.
+- Dispone de la función true wireless, por lo que podrás conectar dos altavoces kids a un mismo dispositivo y conseguir el doble de potencia.
+- Incluye Radio FM, para que no gastes la batería de tu smartphone y puedes disfrutar de tus emisoras preferidas.
+- Su autonomía es de 5 horas. Acabados en color verde y azul
 - Es resistente al agua IPX7, perfecto aliado para la piscina o la playa.
+- Tiene una asa, que hace que el altavoz sea más portátil y puedas colgarlo donde quieras.
+- Puedes usar la entrada auxiliar, para conectar también tu teléfono
+- Altavoz portátil, perfecto para llevar a todas partes. Con Bluetooth 5.0 que te permitirá conectar automáticamente tus dispositivos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BZHGRDX/?tag=tolees-21)
