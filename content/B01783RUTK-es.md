@@ -28,10 +28,10 @@ En este momento está [Albatros 2864 MILANO Set de 2 sillas de comedor  gris](ht
 
 🔎:
 
-- Materiales: estructura de acero y piel sintética. Dimensiones: ver ilustración
-- El juego de sillas MILANO te lleva el encanto de Italia a la mesa del comedor! Elegante y práctico: no hay mejor manera de describir las características de este set de sillas MILANO
 - Las sillas son súper ligeras (muy prácticas para el día a día y perfectas para los niños). - Fundas resistentes de cuero artificial (fáciles de lavar).
 - Comodidad: estas sillas son muy cómodas (¡lo más importate para una buena silla!).
 - El moderno diseño de las sillas completa de maravilla sus prácticos detalles:
+- Materiales: estructura de acero y piel sintética. Dimensiones: ver ilustración
+- El juego de sillas MILANO te lleva el encanto de Italia a la mesa del comedor! Elegante y práctico: no hay mejor manera de describir las características de este set de sillas MILANO
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01783RUTK/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Vieta Pro VHP-TW20WH - Auricular Bluetooth 5.0  con función
 
 🔎:
 
-- Auricular unseen de vieta pro, pura tecnología, ; solo necesitas abrir la caja para que se enciendan y se conecten a tu dispositivo; gracias a su tecnología true wireless bluetooth 5. 0, no te faltara de nada, mayor distancia auricular-dispositivo, mejor calidad de sonido, todo son mejoras
-- Son resistentes al agua ipx7 por que te podrás hasta sumergirlos en el agua; no se estropean, para que puedas disfrutar de tus auriculares sin ningún tipo de límites; haz deporte, diviértete o hasta dúchate con ellos
-- Con micrófono incorporado, para que puedas atender a todas tus llamadas o simplemente dar ordenes al asistente virtual de tu teléfono
 - Los auriculares unseen de vieta pro vienen con una caja que te servirá de batería portátil; podrás guardar tus auriculares en la caja y cargarlos cada uno hasta 3 veces; de este modo tendrás una autonomía de 18 horas reales
+- Son resistentes al agua ipx7 por que te podrás hasta sumergirlos en el agua; no se estropean, para que puedas disfrutar de tus auriculares sin ningún tipo de límites; haz deporte, diviértete o hasta dúchate con ellos
+- Auricular unseen de vieta pro, pura tecnología, ; solo necesitas abrir la caja para que se enciendan y se conecten a tu dispositivo; gracias a su tecnología true wireless bluetooth 5. 0, no te faltara de nada, mayor distancia auricular-dispositivo, mejor calidad de sonido, todo son mejoras
 - Dispone de un sistema de sujeción, que se adaptan de todas las orejas; con el mejor agarre, mójate, salta, corre, no se caerán bajo ningún concepto; incluye tres medidas de almohadillas, escoge la que se adapte mejor a ti
+- Con micrófono incorporado, para que puedas atender a todas tus llamadas o simplemente dar ordenes al asistente virtual de tu teléfono
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0837BJNVJ/?tag=tolees-21)

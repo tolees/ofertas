@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.13 % en Kingston Canvas Select Plus Tarjeta micr'
-date: 2021-10-07 01:34:55
+date: 2021-10-10 13:19:43
 image: 'https://m.media-amazon.com/images/I/51igMvUn-YS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B07YGZ7JD5/?tag=tolees-21'
 descuento: '42.13'
-average: '15.2859374999998'
+average: '15.0332352941175'
 ---
 
 Tienes [Kingston Canvas Select Plus Tarjeta microSD  SDCS2/128GB Class 10 con Adaptador SD](https://www.amazon.es/dp/B07YGZ7JD5/?tag=tolees-21) con un 42.13 % de descuento con precio de oferta de 10.99 EUR (original: 18.99 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [Kingston Canvas Select Plus Tarjeta microSD  SDCS2/128GB Class 10 con Ad
 ℹ️:
 
 - Velocidades de UHS-I Clase 10 de hasta 100 MB/s
-- Optimizada para uso con dispositivos Android
-- Capacidad de la memoria: 128 GB
 - Tipo de memoria flash: Micro SD
+- Capacidad de la memoria: 128 GB
+- Optimizada para uso con dispositivos Android
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YGZ7JD5/?tag=tolees-21)
