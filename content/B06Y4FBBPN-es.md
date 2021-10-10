@@ -28,9 +28,9 @@ Tienes [L Oreal Professionnel Paris - L Oreal Professionnel Expert Champú Refor
 
 🔎:
 
-- Champú revitalizador para cabello quebradizo con vitamina B6 y biotina
-- Fortalece las fibras capilares
-- Prevención de las puntas abiertas y regeneración del cabello dañado
 - Reduce la rotura del cabello
+- Prevención de las puntas abiertas y regeneración del cabello dañado
+- Fortalece las fibras capilares
+- Champú revitalizador para cabello quebradizo con vitamina B6 y biotina
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06Y4FBBPN/?tag=tolees-21)

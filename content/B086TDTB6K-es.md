@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance Fresh Foam Tempo  Zapatillas al 50.77 % de descuento'
-date: 2021-10-09 14:19:49
+date: 2021-10-10 14:43:15
 image: 'https://m.media-amazon.com/images/I/413GeYLTICS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

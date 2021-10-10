@@ -28,7 +28,7 @@ Ahora mismo tienes [FM London Fitted Boxer  Azul  Dark Assorted 03   Medium  Pac
 
 🔎:
 
-- Tecnología hyfresh antiolor
 - Algodón elástico para un ajuste personalizado y solidario
+- Tecnología hyfresh antiolor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TLDVCLL/?tag=tolees-21)
