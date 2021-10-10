@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.92 % en Citizen Reloj Analógico para Mujer de Cu'
-date: 2021-09-26 03:10:28
+date: 2021-10-10 02:01:19
 image: 'https://m.media-amazon.com/images/I/419GmiKQ8tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Citizen'
 buyurl: 'https://www.amazon.es/dp/B00NQ0L15O/?tag=tolees-21'
 descuento: '42.92'
-average: '152.320000000001'
+average: '152.077380952382'
 ---
 
 Tienes [Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable EM0335-51D](https://www.amazon.es/dp/B00NQ0L15O/?tag=tolees-21) con un 42.92 % de descuento con precio de oferta de 142.13 EUR (original: 249.0 EUR) en el siguiente enlace!
