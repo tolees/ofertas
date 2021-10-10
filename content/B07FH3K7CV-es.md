@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s - LEVIS FOOTWEAR AND ACCESSORIES  al 38.02 % de descuento'
-date: 2021-09-14 14:06:52
+date: 2021-10-09 23:57:17
 image: 'https://m.media-amazon.com/images/I/41QeL3K-trL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07FH3K7CV/?tag=tolees-21'
 descuento: '38.02'
-average: '35.4761538461538'
+average: '35.1557142857142'
 ---
 
 Ahora mismo tienes [Levi s - LEVIS FOOTWEAR AND ACCESSORIES Turner  Zapatillas para Hombre  Marrón  Brown 28   41 EU](https://www.amazon.es/dp/B07FH3K7CV/?tag=tolees-21) a 30.99 EUR (original: 50.0 EUR) (38.02 %  de descuento) en el siguiente enlace!
