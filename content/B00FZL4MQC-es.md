@@ -28,7 +28,7 @@ Tienes [VTech - Cámara  Kidizoom Touch  Color Azul  3480-145022 ](https://www.a
 
 🔎:
 
-- 2 objetivos diferentes
 - Fotos, videos, juegos, mp3, retoque de fotos, grabación de voz, animaciones, auto foto y conexión a Explora Park
+- 2 objetivos diferentes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FZL4MQC/?tag=tolees-21)
