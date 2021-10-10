@@ -28,12 +28,12 @@ Tienes [Safety 1st Auto Close - Barrera seguridad bebés  niños y perros  cierr
 
 ℹ️:
 
-- También se puede utilizar como puerta de seguridad para mascotas
-- Para utilizarlo en cualquier tipo de escalera necesitaras comprar los adaptadores (Tornillo en Y); Nota: se venden por separado
-- Fácil de instalar: esta barrera para niños se fija con cuatro tornillos de ajuste dentro de las puertas o escaleras con una abertura de 73 cm a 80 cm; no es necesario hacer agujeros
-- La puerta de la escalera puede extenderse desde 80 cm hasta un ancho de 136 cm
-- El indicador visual SecureTech confirma cuándo la barrera de escalera está bien cerrada e instalada
-- Seguridad: gracias a la opción de doble cierre, los niños no pueden abrir la puerta, mientras que los adultos pueden abrirla con una mano en ambas direcciones
 - Se puede combinar con extensiones de 7 cm, 14 cm o 28 cm (se venden por separado) para cubrir huecos más largos (longitud máxima alcanzada con las extensiones: 136 cm)
+- El indicador visual SecureTech confirma cuándo la barrera de escalera está bien cerrada e instalada
+- Fácil de instalar: esta barrera para niños se fija con cuatro tornillos de ajuste dentro de las puertas o escaleras con una abertura de 73 cm a 80 cm; no es necesario hacer agujeros
+- Para utilizarlo en cualquier tipo de escalera necesitaras comprar los adaptadores (Tornillo en Y); Nota: se venden por separado
+- Seguridad: gracias a la opción de doble cierre, los niños no pueden abrir la puerta, mientras que los adultos pueden abrirla con una mano en ambas direcciones
+- La puerta de la escalera puede extenderse desde 80 cm hasta un ancho de 136 cm
+- También se puede utilizar como puerta de seguridad para mascotas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00O50YUHA/?tag=tolees-21)
