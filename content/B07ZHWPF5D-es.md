@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 35.03 % en Under Armour Zapatillas de correr UA Cha'
-date: 2021-09-15 09:00:51
+title: 'Descuento del 40.03 % en Under Armour Zapatillas de correr UA Cha'
+date: 2021-10-11 06:52:35
 image: 'https://m.media-amazon.com/images/I/41GXAyZ+CQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07ZHWPF5D-es Under Armour Zapatillas de correr UA Charged Pursuit 2...'
 sku: 'B07ZHWPF5D-es'
 tags: [ 'Calzado deportivo para mujer','Calzados de running para mujer','Calzados para correr en asfalto para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','under armour', ]
-actualPrice: 38.95 EUR
+actualPrice: 35.95 EUR
 currency: EUR
-price: 38.95
+price: 35.95
 comparePrice: 59.95 EUR
 prodname: 'Under Armour Zapatillas de correr UA Charged Pursuit 2 para mujer  Negro  Negro / Negro / Negro   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Under Armour'
 buyurl: 'https://www.amazon.es/dp/B07ZHWPF5D/?tag=tolees-21'
-descuento: '35.03'
-average: '48.9271428571429'
+descuento: '40.03'
+average: '47.305'
 ---
 
-Tienes [Under Armour Zapatillas de correr UA Charged Pursuit 2 para mujer  Negro  Negro / Negro / Negro   36.5 EU](https://www.amazon.es/dp/B07ZHWPF5D/?tag=tolees-21) con un 35.03 % de descuento con precio de oferta de 38.95 EUR (original: 59.95 EUR) en el siguiente enlace!
+Tienes [Under Armour Zapatillas de correr UA Charged Pursuit 2 para mujer  Negro  Negro / Negro / Negro   36.5 EU](https://www.amazon.es/dp/B07ZHWPF5D/?tag=tolees-21) con un 40.03 % de descuento con precio de oferta de 35.95 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![Under Armour Zapatillas de correr UA Cha](https://m.media-amazon.com/images/I/41GXAyZ+CQL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07ZHWPF5D/?tag=tolees-21)
 

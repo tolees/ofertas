@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'THE INDIAN FACE Tarifa Tortoise/Blue con un 72.79 % de descuento'
-date: 2021-10-09 21:47:06
+date: 2021-10-11 08:21:36
 image: 'https://m.media-amazon.com/images/I/31kYaO7BSQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [THE INDIAN FACE Tarifa Tortoise/Blue](https://www.amazon.
 
 🔎:
 
-- Gafas de Sol
 - Tarifa Tortoise / Blue
 - Gafas de Sol Polarizadas Tarifa Marron The Indian Face para hombre y mujer
+- Gafas de Sol
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082PGJGX3/?tag=tolees-21)
