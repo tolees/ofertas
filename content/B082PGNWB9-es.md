@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'THE INDIAN FACE Tarifa Black/Burgundy al 72.79 % de rebaja'
-date: 2021-10-10 09:32:11
+date: 2021-10-11 14:19:45
 image: 'https://m.media-amazon.com/images/I/31GLkHKiQ5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

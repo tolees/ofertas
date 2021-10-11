@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee- Juegos de Mesa  Color  EDGCRC01 al 36.23 % de descuento'
-date: 2021-10-10 10:41:05
+date: 2021-10-11 14:20:30
 image: 'https://m.media-amazon.com/images/I/51joU+iAsbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 72.79 % en THE INDIAN FACE Free Spirit Black/Burgun'
-date: 2021-10-10 08:15:59
+date: 2021-10-11 14:09:56
 image: 'https://m.media-amazon.com/images/I/31kVhyth6+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [THE INDIAN FACE Free Spirit Black/Burgundy](https://www.amazon.es/dp/B08
 
 ℹ️:
 
-- Gafas de Sol
 - Free Spirit Black / Burgundy
 - Gafas de Sol Polarizadas Free Spirit Negro The Indian Face para hombre y mujer
+- Gafas de Sol
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B082PGSSS5/?tag=tolees-21)

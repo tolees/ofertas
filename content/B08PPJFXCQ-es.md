@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Stan Smith  Sneaker  Footwear Whi con un 48.81 % de descuento'
-date: 2021-10-10 09:26:58
+date: 2021-10-11 14:16:13
 image: 'https://m.media-amazon.com/images/I/31V-3dp5C5S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
