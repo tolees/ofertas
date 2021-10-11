@@ -28,10 +28,10 @@ Tienes [Philips Series 3000 BHD350/10  Secado potente a temperatura más baja](h
 
 🔎:
 
-- Accesorio thermoprotect para el cuidado diario
-- Motor DC con potencia de 2100 W
 - Ionizador avanzado para un cabello suave, brillante y sin encrespado
-- Boquilla estrecha para retoques y peinados perfectos
 - Seis posiciones flexibles de velocidad y temperatura para un control completo
+- Motor DC con potencia de 2100 W
+- Accesorio thermoprotect para el cuidado diario
+- Boquilla estrecha para retoques y peinados perfectos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08R57HZ4Z/?tag=tolees-21)

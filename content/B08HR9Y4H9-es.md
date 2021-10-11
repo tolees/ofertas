@@ -29,9 +29,9 @@ Tienes [Elmer s kit para hacer slime de fiesta  incluido surtido de soluciones a
 🔎:
 
 - Crea un sinfín de variedades de slime con este surtido de pegamentos y soluciones activadoras de slime, ideales para hacer slime metálico, crujiente, de colores y de muchos más tipos
-- Mezcla y combina los distintos pegamentos y soluciones activadoras para descubrir nuevas creaciones de slime; este paquete contiene cantidad suficiente para 5 lotes de slime, lo que garantiza horas de diversión
-- El líquido mágico Elmers es una solución todo en uno que transforma el pegamento Elmers en un slime irresistiblemente divertido; basta con añadir un poco de líquido mágico al mismo tiempo para conseguir la sensación deseada
-- Tus creaciones de slime destacarán entre todas las demás, ya que resplandecen, cambian de color, brillan y crujen
 - Se puede lavar con agua y jabón, lo cual facilita y simplifica la limpieza, con una fórmula especialmente diseñada para niños (producto no apto para menores de tres años)
+- El líquido mágico Elmers es una solución todo en uno que transforma el pegamento Elmers en un slime irresistiblemente divertido; basta con añadir un poco de líquido mágico al mismo tiempo para conseguir la sensación deseada
+- Mezcla y combina los distintos pegamentos y soluciones activadoras para descubrir nuevas creaciones de slime; este paquete contiene cantidad suficiente para 5 lotes de slime, lo que garantiza horas de diversión
+- Tus creaciones de slime destacarán entre todas las demás, ya que resplandecen, cambian de color, brillan y crujen
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HR9Y4H9/?tag=tolees-21)

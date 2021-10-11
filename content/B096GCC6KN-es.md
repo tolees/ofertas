@@ -29,9 +29,9 @@ Está [Kappa Krypton OC K  Zapatillas Unisex niños  White  34 EU](https://www.a
 ℹ️:
 
 - Suela ligera
-- Elástico
 - Suela flexible
-- Sistema de tamaño Kappa
+- Elástico
 - Cierre de velcro
+- Sistema de tamaño Kappa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B096GCC6KN/?tag=tolees-21)
