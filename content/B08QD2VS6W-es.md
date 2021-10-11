@@ -28,9 +28,9 @@ Está [adidas GN2958 Tights Leggings Womens Medium Grey Heather 40](https://www.
 
 ℹ️:
 
-- El material ofrece una comodidad óptima
-- Cintura elástica
 - Logotipo en el frente
+- Cintura elástica
+- El material ofrece una comodidad óptima
 - Ajuste apretado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08QD2VS6W/?tag=tolees-21)

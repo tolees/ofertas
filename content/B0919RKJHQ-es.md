@@ -28,8 +28,8 @@ Tienes [adidas Runfalcon 2.0  Road Running Shoe Mujer  Grey/Iron Metallic/Solar 
 
 🔎:
 
+- Suela robusta
 - Material duradero
 - Ajuste normal
-- Suela robusta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0919RKJHQ/?tag=tolees-21)

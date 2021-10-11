@@ -28,8 +28,8 @@ Ahora mismo tienes [FILA Disruptor wmn zapatilla Mujer  negro  Black   41 EU](ht
 
 🔎:
 
-- Color: Negro
-- Designer: FILA
 - Artículo: 1010302-25Y
+- Designer: FILA
+- Color: Negro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077Y2TCP7/?tag=tolees-21)
