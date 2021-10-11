@@ -28,8 +28,8 @@ Tienes [adidas Advantage C  Zapatillas  Cloud White/Real Pink/Cloud White  32 EU
 
 🔎:
 
-- Parte superior sintética
 - Forro textil
 - Suela de goma
+- Parte superior sintética
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SM69WWX/?tag=tolees-21)
