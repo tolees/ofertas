@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FM London Fitted Boxer  Negro  Black 01  al 35.05 % de descuento'
-date: 2021-10-09 22:27:49
+date: 2021-10-11 09:47:46
 image: 'https://m.media-amazon.com/images/I/4112IMjkL9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'FM London'
 buyurl: 'https://www.amazon.es/dp/B07TKCVYHB/?tag=tolees-21'
 descuento: '35.05'
-average: '19.675'
+average: '19.3618181818182'
 ---
 
 Ahora mismo tienes [FM London Fitted Boxer  Negro  Black 01   Medium  Pack de 8  para Hombre](https://www.amazon.es/dp/B07TKCVYHB/?tag=tolees-21) a 16.23 EUR (original: 24.99 EUR) (35.05 %  de descuento) en el siguiente enlace!
