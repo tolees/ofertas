@@ -28,10 +28,10 @@ Ahora mismo tienes [Kappa Tunes W  Zapatillas Mujer  Gris  Grey/Flamingo 1672   
 
 🔎:
 
+- Material exterior transpirable
 - Zapatillas clásicas para mujer de Kappa
+- Logotipo en el lateral
 - Caña acolchada
 - Suela de Phylon ultraligera
-- Material exterior transpirable
-- Logotipo en el lateral
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LBMZRCM/?tag=tolees-21)

@@ -28,7 +28,7 @@ Tienes [HUGO Trunk Triplet Pack Bxer  Open Miscellaneous960  M para Hombre](http
 
 🔎:
 
-- Estándar
 - Tamaño del paquete: 5,2 x 18,4 x 12,2 cm
+- Estándar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089SWCWXJ/?tag=tolees-21)
