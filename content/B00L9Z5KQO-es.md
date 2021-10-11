@@ -28,10 +28,10 @@ Tienes [Myprotein Impact Whey Protein  1000g  1 Unidad 1000 g](https://www.amazo
 
 ℹ️:
 
+- Myprotein Impact Whey Protein (1000g) - suficiente para 40 porciones
 - Myprotein Impact Isolate apoya el crecimiento muscular y el mantenimiento
 - Una porción le proporciona 21g de proteína
 - Además, hay 4,5 g de BCAA naturales, 3,6 g de glutamina y todos los aminoácidos esenciales incluidos
 - Disponible en diferentes sabores y tamaños
-- Myprotein Impact Whey Protein (1000g) - suficiente para 40 porciones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00L9Z5KQO/?tag=tolees-21)
