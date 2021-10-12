@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Street Flex Eliminator  Zapatil al 49.97 % de rebaja'
-date: 2021-10-08 15:30:30
+date: 2021-10-12 18:21:39
 image: 'https://m.media-amazon.com/images/I/41xR8LMvw8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
