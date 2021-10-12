@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 72.79 % en THE INDIAN FACE Tarifa Black/Red'
-date: 2021-10-10 09:32:13
+date: 2021-10-12 16:11:56
 image: 'https://m.media-amazon.com/images/I/314EClhC6DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [THE INDIAN FACE Tarifa Black/Red](https://www.amazon.es/dp/B082PGZJ25/?t
 ℹ️:
 
 - Gafas de Sol
-- Gafas de Sol Polarizadas Tarifa Negro The Indian Face para hombre y mujer
 - Tarifa Black / Red
+- Gafas de Sol Polarizadas Tarifa Negro The Indian Face para hombre y mujer
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B082PGZJ25/?tag=tolees-21)
