@@ -30,8 +30,8 @@ Ahora mismo tienes [VANS Atwood  Zapatillas Hombre  Negro  Black/White Canvas 18
 
 - Composición: Textil
 - Tipo de talla: Talla estándar
-- Tipo de tacón: Plano
 - Anchura del zapato: Normal
+- Tipo de tacón: Plano
 - Cierre: Cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00AVZMXC2/?tag=tolees-21)

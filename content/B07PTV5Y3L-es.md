@@ -29,9 +29,9 @@ En este momento está [Badland - Sniper Elite V2 [Remastered]](https://www.amazo
 🔎:
 
 - All DLC Included: Take down the Fhrer, with all DLC missions, maps & weapons.
-- Photo Mode: Share stunning photos with the community.
-- Multiplayer & Co-op: Compete in 7 modes, for up to 16 players online, or team up with a friend for 4 thrilling co-op modes.
-- New Playable Characters: Play with characters from Rebellions Zombie Army series.
 - Remastered Visuals: Feel like youre on the front line with updated graphics bringing this classic to life and PS4 Pro 4K & HDR support.
+- New Playable Characters: Play with characters from Rebellions Zombie Army series.
+- Multiplayer & Co-op: Compete in 7 modes, for up to 16 players online, or team up with a friend for 4 thrilling co-op modes.
+- Photo Mode: Share stunning photos with the community.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PTV5Y3L/?tag=tolees-21)

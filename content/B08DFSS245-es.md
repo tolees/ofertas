@@ -29,8 +29,8 @@ Tienes [HUAWEI WiFi AX3 - Router Quad-core WiFi 6 Plus Revolution 3000 Mbps  Tec
 ℹ️:
 
 - Conexión sin esfuerzo, experiencia revolucionaria. Huawei Share le permite conectar HUAWEI WiFi AX3 a su smartphone Huawei con un simple toque.
-- Mayor ancho de banda con 160 MHz para una experiencia sin precedentes y sin demoras en tus dispositivos móviles.
 - Velocidad que supera tu imaginación.
+- Mayor ancho de banda con 160 MHz para una experiencia sin precedentes y sin demoras en tus dispositivos móviles.
 - HUAWEI WiFi AX3 es capaz de conectar hasta 128 dispositivos en total en bandas duales y de manera muy fluida.
 - Evoluciona a la era de Wi-Fi 6 de cuatro núcleos, con este Wifi 6 plus la señal llega incluso a la habitación más lejana.
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [Alpino AL013654 - Estuche 12 lápices borrable  Única](http
 
 🔎:
 
-- Con un diseño moderno y elegante
-- Diseño funcional
 - De alta calidad
 - Ideal para su colección de oficina
+- Diseño funcional
+- Con un diseño moderno y elegante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B37FKFK/?tag=tolees-21)

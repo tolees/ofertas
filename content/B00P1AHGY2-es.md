@@ -28,10 +28,10 @@ Ahora mismo tienes [Gorro de Punto con Bluetooth - August EPA20 Gorro Invierno I
 
 🔎:
 
+- Control Remoto - Control de la lista de reproducción, volumen y llamadas desde el gorro
 - Micrófono y Manos Libres - Responde llamadas sin tener que coger tu teléfono
 - Gorro Bluetooth - Mantén tu temperatura corporal escuchando música desde Smartphones y tablets
-- Gorro térmico - Calienta tus orejas con tus mejores canciones
 - Batería Interna Recargable - Autonomía de hasta 2 horas
-- Control Remoto - Control de la lista de reproducción, volumen y llamadas desde el gorro
+- Gorro térmico - Calienta tus orejas con tus mejores canciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00P1AHGY2/?tag=tolees-21)
