@@ -30,7 +30,7 @@ Tienes [Asmodee - Loups Garous Thiercelleux](https://www.amazon.es/dp/B07PQM7D5W
 
 - Hasta 18 personas pueden jugar al mismo tiempo
 - Los Loups-Garous de Thiercelieu son un juego de sociedad de ambiente en el que cada jugador encarna a un aldeano o a un lobo y cuyo objetivo general es: para los aldeanos (algunos de los cuales tienen poderes o particularidades): descubrir y matar todos los lobos-garús. para los lobos garús : eliminar a todos los aldeanos y no ser desmascarados .
-- Los lobos Garous de Thiercelieux son un juego de ambiente y deducción ideal para una noche en familia o entre amigos.
 - En la salvaje oriental, el pequeño pueblo de Thiercelieu se convirtió en presa de los lobos Garous. Cada noche despiertan a un aldeano. El día intentan ocultar su identidad.
+- Los lobos Garous de Thiercelieux son un juego de ambiente y deducción ideal para una noche en familia o entre amigos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PQM7D5W/?tag=tolees-21)

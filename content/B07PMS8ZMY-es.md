@@ -28,7 +28,7 @@ En este momento está [Ksix Protector de Pantalla para Movil Samsung Galaxy S10+
 
 🔎:
 
-- Color: transparente ne gramos o material: pet grosor: 0,27 mm compatible: samsung galaxy s10+
 - Si eres un apasionado de la informatica y la electronica, te gusta estar a la ultima en tecnologia y no perderte detalle, compra protector de pantalla para movil samsung galaxy s10+ flexy shield al mejor precio
+- Color: transparente ne gramos o material: pet grosor: 0,27 mm compatible: samsung galaxy s10+
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PMS8ZMY/?tag=tolees-21)

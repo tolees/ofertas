@@ -29,8 +29,8 @@ Está [GORJUSS Figura 9 Juegos  Color Rojo  Miscelanea  Comansi 90116 ](https://
 ℹ️:
 
 - Edad minima recomendada: 2 años
-- Medidas aproximadas
-- Producto que combina tradición e innovación
 - Productos para ninos y ninas
+- Producto que combina tradición e innovación
+- Medidas aproximadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MZBMSN6/?tag=tolees-21)
