@@ -28,9 +28,9 @@ Está [Arcos Serie Riviera  Cuchillo Cocinero  Hoja de Acero Inoxidable Forjado 
 
 ℹ️:
 
-- Mango: Destaca por su forma estilizada, que se ajusta adecuadamente a la mano. Su acabado refinado y su alta resistencia a la corrosión lo convierten en una pieza estrella
-- Tamaño Hoja: 250 mm
 - Hoja de acero inoxidable Nitrum, una fórmula exclusiva de ARCOS de acero al nitrógeno que proporciona más dureza, mayor poder de corte y mejora de la durabilidad del filo
+- Tamaño Hoja: 250 mm
+- Mango: Destaca por su forma estilizada, que se ajusta adecuadamente a la mano. Su acabado refinado y su alta resistencia a la corrosión lo convierten en una pieza estrella
 - Remaches machihembrados de acero inoxidable, resistentes a la corrosión
 - Cachas: Mango estilizado totalmente ergonómico sin renunciar al estilo. Gran comodidad de uso. Realizadas en Polioximetileno (POM), material resistente a productos químicos y temperaturas extremas
 

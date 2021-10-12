@@ -28,13 +28,13 @@ Está [Logitech G815 Lightspeed - Teclado mecánico para Juegos  GL Táctil  Car
 
 ℹ️:
 
+- Product 1: Teclas g programables - cinco exclusivas teclas g que pueden programarse con macros y comandos personalizados por perfil de juego o aplicación; requiere el uso de logitech g hub para configurar y gestionar fácilmente perfiles, comandos y mucho más
+- Product 2: Sensor Hero 16K: La generación de sensor óptico HERO para ratón ofrece precisión hasta 16 000 dpi sin suavizado, filtrado ni aceleración
+- Product 1: Los interruptores para gaming de alto rendimiento ofrecen la velocidad, la precisión y el rendimiento de un interruptor mecánico con la mitad de altura; el interruptor gl táctil produce una clara protuberancia en el punto de actuación; existen tres opciones: gl táctil, gl lineal o gl clicky
+- Product 2: 11 Botones Programables y Botón Rueda rápido con Dos Modos: El ratón con cable para gaming Logitech G permite personalizar tu configuración para controlar totalmente el juego
 - Product 1: Rgb lightsync - la iluminación rgb de próxima generación se sincroniza con tu contenido de gaming y de entretenimiento; personaliza cada tecla o crea animaciones personalizadas a partir de 16.8 millones de colores con el software logitech g hub
 - Product 2: RGB LIGHTSYNC: La tecnología LIGHTSYNC ofrece una iluminación RGB totalmente personalizable, y sincroniza efectos y animaciones de iluminación con otros dispositivos Logitech G
-- Product 1: Teclas g programables - cinco exclusivas teclas g que pueden programarse con macros y comandos personalizados por perfil de juego o aplicación; requiere el uso de logitech g hub para configurar y gestionar fácilmente perfiles, comandos y mucho más
-- Product 2: 11 Botones Programables y Botón Rueda rápido con Dos Modos: El ratón con cable para gaming Logitech G permite personalizar tu configuración para controlar totalmente el juego
-- Product 1: Los interruptores para gaming de alto rendimiento ofrecen la velocidad, la precisión y el rendimiento de un interruptor mecánico con la mitad de altura; el interruptor gl táctil produce una clara protuberancia en el punto de actuación; existen tres opciones: gl táctil, gl lineal o gl clicky
-- Product 2: Sensor Hero 16K: La generación de sensor óptico HERO para ratón ofrece precisión hasta 16 000 dpi sin suavizado, filtrado ni aceleración
-- Product 2: Peso Personalizable: Ajusta el tacto y el deslizamiento del ratón; G502 HERO incluye cinco pesas de 3.6 g que se pueden usar en diversas configuraciones de peso
 - Product 1: Construcción premium en al-mg - bellamente diseñado, el g815 utiliza una aleación de aluminio de grado aeronáutico para ofrecer un diseño increíblemente fino pero resistente y duradero
+- Product 2: Peso Personalizable: Ajusta el tacto y el deslizamiento del ratón; G502 HERO incluye cinco pesas de 3.6 g que se pueden usar en diversas configuraciones de peso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KJ6NLZJ/?tag=tolees-21)

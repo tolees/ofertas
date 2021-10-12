@@ -30,8 +30,8 @@ Está [INTSUN Mini Ventilador de Mano con Agua  USB Ventilador Portátil/Recarga
 
 - Batería incorporada┃Tiene una batería incorporada de 2200mA y está equipado con un cable USB recargable, se dura bastante
 - Velocidades cambiables┃Se puede adjustar 3 velocidades y 2 modos de pulverización según sus necesidades
-- Portátil┃Este pequeño ventilador puede ayudarle mantener la cara o piel húmeda y refrescante en la oficina, dormitorio o los viajes y al aire libre
 - Usos múltiples┃Mini portátil ventilador + humidificador + Belleza + Aire Acondicionado + spray, la cara y la piel requieren húmedo y refrescante
 - Diseño excelente┃ Mini Ventilador de mano, con peso ligero y diseño del mango, se pesa 190g, muy conveniente para llevar
+- Portátil┃Este pequeño ventilador puede ayudarle mantener la cara o piel húmeda y refrescante en la oficina, dormitorio o los viajes y al aire libre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01FQITXMG/?tag=tolees-21)
