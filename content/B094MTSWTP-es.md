@@ -28,8 +28,8 @@ Tienes [adidas Camiseta Marca Modelo W Lin T](https://www.amazon.es/dp/B094MTSWT
 
 🔎:
 
-- Corte entallado
 - Cuello redondo
+- Corte entallado
 - Punto 100% algodón
 - Los productos deportivos de la marca adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva

@@ -28,12 +28,12 @@ Está [Havaianas Top Mix  Chanclas para Mujer  Rosa  Hollywood Rose 0064   35/36
 
 ℹ️:
 
-- Material de la suela: Goma
 - Cierre: Sin cordones
-- Revestimiento: Sin forro
+- Material de la suela: Goma
 - Anchura del zapato: Normal
 - Altura del tacón: 1 centímetros
-- Tipo de tacón: Plano
+- Revestimiento: Sin forro
 - Material exterior: Caucho
+- Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SLZJY1T/?tag=tolees-21)
