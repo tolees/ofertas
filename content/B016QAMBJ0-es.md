@@ -29,7 +29,7 @@ Tienes [adidas Parma 16 SHO Pantalones Cortos de Deporte  Niño  Blanco/Negro  M
 ℹ️:
 
 - Regular fit
-- Climalite anti-humidity fabric
 - Elastic waistband with lanyard
+- Climalite anti-humidity fabric
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B016QAMBJ0/?tag=tolees-21)
