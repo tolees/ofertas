@@ -28,8 +28,8 @@ En este momento está [Vans Asher Platform  Sneaker Mujer  Negro   Canvas  Black
 
 🔎:
 
-- Suela original de waffle
 - Patrón sin cordones
+- Suela original de waffle
 - Construcción vulcanizada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FY41HS8/?tag=tolees-21)

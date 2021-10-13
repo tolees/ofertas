@@ -28,10 +28,10 @@ Está [Lorus Reloj Analógico para Mujer de Cuarzo con Correa en Silicona RG261R
 
 ℹ️:
 
-- Carcasa de acero inoxidable y plástico
-- Diámetro: 36,0 mm
-- Correa de silicona y hebilla
-- Resistente al agua hasta 100 metros
 - Cristal Hardlex
+- Resistente al agua hasta 100 metros
+- Diámetro: 36,0 mm
+- Carcasa de acero inoxidable y plástico
+- Correa de silicona y hebilla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DHTWVS6/?tag=tolees-21)
