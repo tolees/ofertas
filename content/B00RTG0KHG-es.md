@@ -28,10 +28,10 @@ Tienes [Grohe Grohtherm 800 - Termostato para baño y ducha  control de temperat
 
 ℹ️:
 
-- Siempre brillante y fácil de limpiar gracias al cromado StarLight
+- Ecojoy: reduce el consumo de agua hasta un 50% sin comprometer el rendimiento
 - Temperatura del agua constante gracias a la fiable tecnología turbostat
 - Safestop button: protección contra quemaduras para tu piel
+- Siempre brillante y fácil de limpiar gracias al cromado StarLight
 - Easylogic: marcas en el cuerpo del grifo fáciles de interpretar para un sencillo manejo
-- Ecojoy: reduce el consumo de agua hasta un 50% sin comprometer el rendimiento
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00RTG0KHG/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Calvin Klein Unlined Triangle Almohadillas y Rellenos de Suj
 
 🔎:
 
+- Copas triangulares suaves, Sin relleno
 - Tirantes ajustables en los hombros
 - Punto de algodón modal
-- Copas triangulares suaves, Sin relleno
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VMNWJT2/?tag=tolees-21)

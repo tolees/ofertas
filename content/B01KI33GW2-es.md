@@ -28,9 +28,9 @@ Ahora mismo tienes [Alpino - Pack 12 lápices de colores + 12 rotuladores de col
 
 🔎:
 
-- Rotuladores con tinta súper lavable
-- Colores surtidos súper brillantes
-- Ancho: 8,5 x Alto: 1 x Largo: 21 cm
 - Material escolar y de oficina
+- Ancho: 8,5 x Alto: 1 x Largo: 21 cm
+- Colores surtidos súper brillantes
+- Rotuladores con tinta súper lavable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01KI33GW2/?tag=tolees-21)

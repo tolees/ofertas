@@ -28,9 +28,9 @@ Tienes [Grohe Rapido Smart Box - cuerpo empotrado universal  1/2"   DN 15  1 pi
 
 🔎:
 
+- 2 entradas inferiores, 1/2"
 - Caja de empotramiento estable y cubierta de protección
 - 3 salidas de 1/2"
-- 2 entradas inferiores, 1/2"
 - Profundidad de instalación 75-105 mm
 - Caja de empotramiento estable y cubierta de protección
 
