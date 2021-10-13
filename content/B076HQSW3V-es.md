@@ -28,9 +28,9 @@ En este momento está [Adidas CORE18 SW PNT Sport trousers  Hombre  Dark Grey He
 
 🔎:
 
-- Inserción de canalé en la entrepierna.
 - Cintura elástica con cordón ajustable.
 - Tienen dos bolsillos laterales
+- Inserción de canalé en la entrepierna.
 - Bolsillos de ojal en las costuras laterales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076HQSW3V/?tag=tolees-21)

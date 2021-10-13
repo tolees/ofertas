@@ -29,9 +29,9 @@ En este momento está [Philips Serie 3000 - Cortapelos con 13 posiciones y tecno
 🔎:
 
 - 13 posiciones longitud fáciles de seleccionar y bloquear: 0, 5 mm a 23 mm
-- Incluye un peine-guía para barba con 12 longitudes ajustables: 1 mm - 23 mm
 - Cuchillas autoafilables (acero inoxidable) con doble afilado para un corte 2 veces más rápido
 - Diseñada para durar, no requiere mantenimiento ni aceite
 - Tecnología trim-n-flow para un corte continuo
+- Incluye un peine-guía para barba con 12 longitudes ajustables: 1 mm - 23 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079TZNYS8/?tag=tolees-21)
