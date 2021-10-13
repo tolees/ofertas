@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 2pk Crewneck Graphic Camiseta  Wh con un 35.80 % de descuento'
-date: 2021-10-07 20:38:20
+date: 2021-10-13 19:17:27
 image: 'https://m.media-amazon.com/images/I/31W8qKmeQvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07TMHGV8C/?tag=tolees-21'
 descuento: '35.80'
-average: '24.9038888888889'
+average: '24.7757894736842'
 ---
 
 En este momento está [Levi s 2pk Crewneck Graphic Camiseta  White  2pack tee White/Dress Blues 0002   Small  Pack de 2  para Hombre](https://www.amazon.es/dp/B07TMHGV8C/?tag=tolees-21) a 22.47 EUR (original: 35.0 EUR) (35.80 %  de descuento) en el siguiente enlace!
