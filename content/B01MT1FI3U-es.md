@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans - VN00018EB - Classic Slip-On Platf con un 44.07 % de descuento'
-date: 2021-09-30 13:03:59
+date: 2021-10-14 17:49:07
 image: 'https://m.media-amazon.com/images/I/51yd8mzSjiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B01MT1FI3U/?tag=tolees-21'
 descuento: '44.07'
-average: '46.66375'
+average: '46.14'
 ---
 
 En este momento está [Vans - VN00018EB - Classic Slip-On Platform 35 Blk&Whtchckerboard/Wht](https://www.amazon.es/dp/B01MT1FI3U/?tag=tolees-21) a 41.95 EUR (original: 75.0 EUR) (44.07 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [Vans - VN00018EB - Classic Slip-On Platform 35 Blk&Whtchc
 🔎:
 
 - Classic Slip-On Platform
-- V0018EBWW
 - vans
+- V0018EBWW
 - Unisex
 - Zapatillas
 

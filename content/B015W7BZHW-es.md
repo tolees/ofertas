@@ -28,10 +28,10 @@ Ahora mismo tienes [Decopatch " No. 9 Pulgada diseño de Bolsillo](https://www.a
 
 🔎:
 
-- Papel De Tamaño Práctico Paquete De 5 Animales Impresión Y Diseños Rosa
-- Tamaño De Papel Cuando Se Desarrollaba 30 X 40 Cm
-- No Rasgar O Sangrado Cuando Se Usa Con Pegamento Decopatch
 - Ideal Para Usar En Metal, Tarjeta, Madera, Plástico Y Más
+- Tamaño De Papel Cuando Se Desarrollaba 30 X 40 Cm
+- Papel De Tamaño Práctico Paquete De 5 Animales Impresión Y Diseños Rosa
+- No Rasgar O Sangrado Cuando Se Usa Con Pegamento Decopatch
 - Idea De Utilizar En Muchos Proyectos De Fabricación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B015W7BZHW/?tag=tolees-21)

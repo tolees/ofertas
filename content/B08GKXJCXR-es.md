@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Clarks Elayne Cross  Sandalia Mujer  Pie con un 67.84 % de descuento'
-date: 2021-10-07 04:21:28
+title: 'Clarks Elayne Cross  Sandalia Mujer  Pie con un 66.74 % de descuento'
+date: 2021-10-14 17:34:08
 image: 'https://m.media-amazon.com/images/I/31q3fFPGg+S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08GKXJCXR-es Clarks Elayne Cross Sandalia Mujer Piel Arena 37 EU'
 sku: 'B08GKXJCXR-es'
 tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','clarks', ]
-actualPrice: 35.38 EUR
+actualPrice: 36.59 EUR
 currency: EUR
-price: 35.38
+price: 36.59
 comparePrice: 110.0 EUR
 prodname: 'Clarks Elayne Cross  Sandalia Mujer  Piel Arena  37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B08GKXJCXR/?tag=tolees-21'
-descuento: '67.84'
-average: '35.325'
+descuento: '66.74'
+average: '35.7466666666667'
 ---
 
-En este momento está [Clarks Elayne Cross  Sandalia Mujer  Piel Arena  37 EU](https://www.amazon.es/dp/B08GKXJCXR/?tag=tolees-21) a 35.38 EUR (original: 110.0 EUR) (67.84 %  de descuento) en el siguiente enlace!
+En este momento está [Clarks Elayne Cross  Sandalia Mujer  Piel Arena  37 EU](https://www.amazon.es/dp/B08GKXJCXR/?tag=tolees-21) a 36.59 EUR (original: 110.0 EUR) (66.74 %  de descuento) en el siguiente enlace!
 
 [![Clarks Elayne Cross  Sandalia Mujer  Pie](https://m.media-amazon.com/images/I/31q3fFPGg+S._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08GKXJCXR/?tag=tolees-21)
 
