@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse All Star Ox Canvas Zapatillas N al 40.41 % de descuento'
-date: 2021-10-13 05:33:32
+date: 2021-10-14 13:38:48
 image: 'https://m.media-amazon.com/images/I/41vZWykDWBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B000EDKS46/?tag=tolees-21'
 descuento: '40.41'
-average: '42.1115789473685'
+average: '42.2330000000001'
 ---
 
 Está [Converse All Star Ox Canvas Zapatillas Negras-UK 3.5 / EU 36](https://www.amazon.es/dp/B000EDKS46/?tag=tolees-21) con 40.41 de descuento por 44.54 EUR (original: 74.74 EUR) en el siguiente enlace!
