@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 500 Core  Zapatillas Mujer   al 51.13 % de descuento'
-date: 2021-10-14 12:25:44
+date: 2021-10-15 13:54:31
 image: 'https://m.media-amazon.com/images/I/41gcpw33pbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B07DJ2L2JH/?tag=tolees-21'
 descuento: '51.13'
-average: '40.1309090909091'
+average: '39.8408333333333'
 ---
 
 Ahora mismo tienes [New Balance 500 Core  Zapatillas Mujer  Azul  Navy/Light Blue PT   44 EU](https://www.amazon.es/dp/B07DJ2L2JH/?tag=tolees-21) a 36.65 EUR (original: 75.0 EUR) (51.13 %  de descuento) en el siguiente enlace!

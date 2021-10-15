@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips DVD-R DM4S6B10F/00 - DVD+RW vírg al 41.04 % de descuento'
-date: 2021-10-13 01:14:31
+date: 2021-10-15 13:20:34
 image: 'https://m.media-amazon.com/images/I/51V0ZODoQPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B000F2C6EQ/?tag=tolees-21'
 descuento: '41.04'
-average: '6.35847826086955'
+average: '6.34425531914892'
 ---
 
 Está [Philips DVD-R DM4S6B10F/00 - DVD+RW vírgenes  4 7 GB  DVD-R  120 min  16x ](https://www.amazon.es/dp/B000F2C6EQ/?tag=tolees-21) con 41.04 de descuento por 5.69 EUR (original: 9.65 EUR) en el siguiente enlace!
@@ -28,12 +28,12 @@ Está [Philips DVD-R DM4S6B10F/00 - DVD+RW vírgenes  4 7 GB  DVD-R  120 min  16
 
 ℹ️:
 
-- Tamaño: DVD de 12 cm.
-- Número de capas: una sola capa.
-- Tamaño del paquete: 10.
-- Tipo: DVD-R.
-- Etiquetado directo del disco: no.
-- Capacidad de almacenamiento en MB : 4700.
 - Lado único/doble lateral: un solo lado.
+- Tipo: DVD-R.
+- Número de capas: una sola capa.
+- Capacidad de almacenamiento en MB : 4700.
+- Tamaño: DVD de 12 cm.
+- Etiquetado directo del disco: no.
+- Tamaño del paquete: 10.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000F2C6EQ/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Energy Sistem Outdoor Box Beast  60W  Bl al 44.03 % de descuento'
-date: 2021-10-14 11:57:56
+date: 2021-10-15 13:35:30
 image: 'https://m.media-amazon.com/images/I/41+jNPExESL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Energy Sistem'
 buyurl: 'https://www.amazon.es/dp/B07S2YPLBT/?tag=tolees-21'
 descuento: '44.03'
-average: '115.89'
+average: '113.649166666667'
 ---
 
 Ahora mismo tienes [Energy Sistem Outdoor Box Beast  60W  Bluetooth  USB and microSD MP3 Player  FM Radio  Shock Proof ](https://www.amazon.es/dp/B07S2YPLBT/?tag=tolees-21) a 89.0 EUR (original: 159.0 EUR) (44.03 %  de descuento) en el siguiente enlace!
