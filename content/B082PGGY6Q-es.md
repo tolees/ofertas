@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'THE INDIAN FACE Ventura Tortoise/Red al 70.07 % de descuento'
-date: 2021-10-08 19:28:43
+date: 2021-10-15 07:46:49
 image: 'https://m.media-amazon.com/images/I/31ZyIlWECuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [THE INDIAN FACE Ventura Tortoise/Red](https://www.amazon.es/dp/B082PGGY6Q
 
 ℹ️:
 
-- Gafas de Sol
-- Gafas de Sol Polarizadas Ventura Marron The Indian Face para hombre y mujer
 - Ventura Tortoise / Red
+- Gafas de Sol Polarizadas Ventura Marron The Indian Face para hombre y mujer
+- Gafas de Sol
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082PGGY6Q/?tag=tolees-21)
