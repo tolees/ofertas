@@ -28,10 +28,10 @@ Tienes [Havaianas Brasil Logo  Chanclas Mujer  Amazonia  41/42 EU](https://www.a
 
 ℹ️:
 
-- Revestimiento: Sin forro
-- Cierre: Sin cordones
 - Material de la suela: Goma
+- Cierre: Sin cordones
 - Composición: Goma
+- Revestimiento: Sin forro
 - Material exterior: Caucho
 - Tipo de tacón: Plano
 

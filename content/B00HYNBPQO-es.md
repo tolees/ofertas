@@ -28,10 +28,10 @@ Tienes [Somfy 2401161 Micro Receptor para Iluminación  500 W  230 V  Blanco](ht
 
 ℹ️:
 
-- Crea programaciones con tus persianas y tu iluminación con TaHoma
-- Fácil de instalar gracias a sus terminales de color
-- Controla tu iluminación con un mando a distancia somfy RTS o desde el móvil con TaHoma
 - No requiere de obras para su instalación
 - El micro receptor se instala directamente en la caja del pulsador gracias a su pequeño tamaño de 50mm
+- Fácil de instalar gracias a sus terminales de color
+- Controla tu iluminación con un mando a distancia somfy RTS o desde el móvil con TaHoma
+- Crea programaciones con tus persianas y tu iluminación con TaHoma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HYNBPQO/?tag=tolees-21)

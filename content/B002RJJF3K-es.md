@@ -28,7 +28,7 @@ En este momento está [Lacoste L1312 Polo  Marine  XS para Hombre](https://www.a
 
 🔎:
 
-- Cuello y pulos acanalados
 - Botones de nácar
+- Cuello y pulos acanalados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002RJJF3K/?tag=tolees-21)

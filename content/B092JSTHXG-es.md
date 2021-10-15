@@ -28,9 +28,9 @@ Ahora mismo tienes [Focus Home Interactive - GreedFall Gold Edition](https://www
 
 🔎:
 
-- Disfruta en una experiencia de rol: completa misiones y objetivos de distintas formas, mediante combate, diplomacia, engaño o sigilo
 - Incluye: juego base, expansión the Vespe Conspiracy, 3 litografías, póster doble, lámina de pegatinas
 - Explora un misterioso mundo mágico: comienza una aventura y descubre antiguos secretos protegidos por criaturas sobrenaturales, la manifestación de la magia terrenal de la isla
+- Disfruta en una experiencia de rol: completa misiones y objetivos de distintas formas, mediante combate, diplomacia, engaño o sigilo
 - Libertad total en la evolución del personaje: juega como hombre o mujer, personaliza tu apariencia y elige los hechizos, talentos y habilidades que quieras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B092JSTHXG/?tag=tolees-21)
