@@ -28,9 +28,9 @@ Está [Goobay 51822 - Cable conexión HDMI  color negro](https://www.amazon.es/d
 
 ℹ️:
 
+- Admite profundidades de color de color DSC y sYCC601 y 3D, cumple con HDCP
+- Conector HDMI estándar dorado (tipo A) en ambos lados
 - Longitud del cable de 5 m, cable redondo con un diámetro de cable de 5.5 mm en AWG 34
 - Cable HDMI de alta velocidad de 5 m - para resoluciones de hasta 4K Ultra HD 2160 p (máx. 4096 x 2160 en 60 Hz) Resolución 4 veces más alta que 1080 p Full HD
-- Conector HDMI estándar dorado (tipo A) en ambos lados
-- Admite profundidades de color de color DSC y sYCC601 y 3D, cumple con HDCP
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001JISCSY/?tag=tolees-21)

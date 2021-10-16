@@ -28,10 +28,10 @@ Ahora mismo tienes [JoyHood - Funda de Transporte para Switch & Switch OLED  Pok
 
 🔎:
 
-- 🔆【WELL PROTECTED】El exterior de EVA duro y el interior de EVA separado mantiene su Switch/Switch OLED y los accesorios de los golpes y arañazos (sin compresión a cualquier botón).
 - 🌈【DELICATE CRAFTS】Pokémon Pokeball esquema de color con la impresión especial 3D-patrón y ACNL Zipper-pull.
+- 🔆【WELL PROTECTED】El exterior de EVA duro y el interior de EVA separado mantiene su Switch/Switch OLED y los accesorios de los golpes y arañazos (sin compresión a cualquier botón).
 - 🎒【CARRY FRIENDLY】Equipado con una correa de hombro ajustable y un asa lateral para llevar fácilmente todo su conjunto de interruptor en el camino.
-- 👑【GARANTÍA DE 12 MESES】Todos los productos disfrutan de una garantía de devolución de dinero de 12 meses.
 - 💼【SUB-PACKAGE】El estuche interno del interruptor secundario ofrece doble protección y una solución de transporte más flexible.
+- 👑【GARANTÍA DE 12 MESES】Todos los productos disfrutan de una garantía de devolución de dinero de 12 meses.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B091F7ZDW7/?tag=tolees-21)
