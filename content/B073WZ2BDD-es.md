@@ -28,10 +28,10 @@ Ahora mismo tienes [Rimmel London Magnifeyes Palette Blush Edition Paleta de Som
 
 🔎:
 
-- 12 sombras complementarias perfectas para hacer contouring
+- Perfecto para esculpir, sombrear y definir
 - Aplicador duo para crear múltiples looks para un acabado preciso
 - Todo en uno, sombra de ojos, delineador y iluminador
 - Color intenso para todos los tonos de piel
-- Perfecto para esculpir, sombrear y definir
+- 12 sombras complementarias perfectas para hacer contouring
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073WZ2BDD/?tag=tolees-21)

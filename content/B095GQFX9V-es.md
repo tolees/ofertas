@@ -28,10 +28,10 @@ Tienes [Mr. Wonderful Agenda clásica 2021-2022 Semana vista - Hoy va a ser mi d
 
 🔎:
 
-- Contienen: 160 páginas, Papel de 100 gr, Frases diarias motivacionales, Separadores con pestaña para cada mes, Bolsillo interior transparente, Regla de plástico interior, 8 hojas de pegatinas, Juegos y extras entretenidísimos, Horarios, Calendarios, Página para anotar contactos, Tablas de ahorro, Cierre con goma elástica, Blocs de notas adhesivas con formas, Planificador mensual al inicio de cada mes, Frases mensuales superdivertidas, Certificado FSC.
+- Producto original Mr. Wonderful
 - La versión más clásica de nuestra querida agenda, con un contenido espectacular.
 - Gramaje: 100 gr
 - Línea clásica grande - Semana vista - Encuadernación espiral.
-- Producto original Mr. Wonderful
+- Contienen: 160 páginas, Papel de 100 gr, Frases diarias motivacionales, Separadores con pestaña para cada mes, Bolsillo interior transparente, Regla de plástico interior, 8 hojas de pegatinas, Juegos y extras entretenidísimos, Horarios, Calendarios, Página para anotar contactos, Tablas de ahorro, Cierre con goma elástica, Blocs de notas adhesivas con formas, Planificador mensual al inicio de cada mes, Frases mensuales superdivertidas, Certificado FSC.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B095GQFX9V/?tag=tolees-21)

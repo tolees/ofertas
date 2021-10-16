@@ -28,10 +28,10 @@ Tienes [Apple iPad Pro  12 9 Pulgadas y 512 GB con Wi-Fi + Cellular  - Gris Espa
 
 ℹ️:
 
+- Fotocamera posteriore da 12mp, fotocamera frontale truedepth da 7 mp
+- Chip a10x
 - Wi-Fi 802.11ac e reti cellulari 4 g lte advanced
 - Audio a quattro altoparlanti con suono stereo ancora più ampio
-- Chip a10x
 - Ipad offre da sempre un’esperienza multi-touch straordinaria, ma il nuovo display retina di ipad pro ridefinisce ancora lo standard
-- Fotocamera posteriore da 12mp, fotocamera frontale truedepth da 7 mp
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0735CDLYF/?tag=tolees-21)

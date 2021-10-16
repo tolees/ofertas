@@ -28,9 +28,9 @@ Ahora mismo tienes [Post-It 70005040152 - Dispensador 3+1 índex 1 / 2""](https:
 
 🔎:
 
-- Son adecuados para codificar por colores, marcar y localizar
-- El material del producto es plástico
 - Representa unas banderitas señalizadoras
+- El material del producto es plástico
 - Tiene el número de modelo 683-4ABXEUP
+- Son adecuados para codificar por colores, marcar y localizar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0022QYYVQ/?tag=tolees-21)

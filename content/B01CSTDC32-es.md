@@ -28,9 +28,9 @@ Ahora mismo tienes [XSQUO USEFUL TECH - TURBO EXPRIMIDOR DE DOBLE CABEZAL CON FU
 
 🔎:
 
+- Composición Cuerpo principal Manual de instrucciones
 - TURBO EXPRIMIDOR DE DOBLE CABEZAL con función de corte de fruta en dos mitades
 - VASO extraíble de 500 ml con filtro de pulpa. LAVABLE en lavavajillas y a mano
-- Composición Cuerpo principal Manual de instrucciones
 - POTENCIA 90 Watt. TAMAÑO 23 x 23 x 24 cm
 - PIES DE SUJECIÓN con ventosa de sujeción y COMPARTIMENTO para cable
 

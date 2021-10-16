@@ -29,9 +29,9 @@ Tienes [Reebok Mancuernas suaves - 1 kg](https://www.amazon.es/dp/B014KPLYG4/?ta
 🔎:
 
 - Diseño ergonómico
-- Núcleo de hierro fundido
 - Correa de velcro ajustable
-- Empuñaduras recubiertas de espuma
 - Pesos: 0.5 kg, 1 kg, 2 kg
+- Empuñaduras recubiertas de espuma
+- Núcleo de hierro fundido
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014KPLYG4/?tag=tolees-21)

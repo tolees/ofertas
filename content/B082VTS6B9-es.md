@@ -28,15 +28,15 @@ Tienes [LENOR Unstoppables Dreams  Perlas de Perfume para la Ropa  210 gr  15 La
 
 🔎:
 
-- Nombre de la fragancia: Floral
-- El potenciador de fragancia Lenor Unstoppables está disponible en diferentes aromas
-- personaliza la intensidad de la fragancia con la cantidad de perlas que desees utilizar
-- Mayor frescura entre lavados
-- mayor frescura entre lavados
-- Vierte las perlas directamente en el tambor vacío antes de la colada
-- Son encantadores por sí mismos… e irresistibles juntos; me siento bien con Lenor
-- Personaliza la intensidad de la fragancia con la cantidad de perlas que desees utilizar
 - Botella de plástico 100 % reciclado, excepto el tapón de rosca, el dosificador y la cubierta. Totalmente reciclable, excluyendo la cubierta
+- Son encantadores por sí mismos… e irresistibles juntos; me siento bien con Lenor
+- Vierte las perlas directamente en el tambor vacío antes de la colada
+- Nombre de la fragancia: Floral
+- personaliza la intensidad de la fragancia con la cantidad de perlas que desees utilizar
+- Personaliza la intensidad de la fragancia con la cantidad de perlas que desees utilizar
+- El potenciador de fragancia Lenor Unstoppables está disponible en diferentes aromas
+- mayor frescura entre lavados
 - Potenciador de fragancia en el lavado con una explosión de jazmín y vainilla exquisita
+- Mayor frescura entre lavados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082VTS6B9/?tag=tolees-21)
