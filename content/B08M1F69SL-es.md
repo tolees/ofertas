@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Favoritos Classic  1 x 150 g al 39.39 % de rebaja'
-date: 2021-10-15 10:57:46
+date: 2021-10-16 11:17:21
 image: 'https://m.media-amazon.com/images/I/51DBMi9o7FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

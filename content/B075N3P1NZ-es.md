@@ -28,10 +28,10 @@ Está [BIC Gel-ocity Illusion Recambios para Bolis de Gel Borrables punta media 
 
 ℹ️:
 
+- Escribe, borra y reescribe: la tinta termosensible del cartucho se desvanece en el aire cuando la frotas con el capuchón del boli
 - La tinta en gel ofrece colores vivos y una escritura con una fluidez superior
+- Recargar el boli es muy sencillo: basta con desenroscarlo y cambiar el cartucho vacío por otro nuevo tras quitarle el tapón
 - Que no se acabe la diversión: con estos recambios podrás usar tu bolígrafo de gel BIC Gel-ocity Illusion año tras año
 - Este blíster contiene 3 recambios en el habitual color negro
-- Escribe, borra y reescribe: la tinta termosensible del cartucho se desvanece en el aire cuando la frotas con el capuchón del boli
-- Recargar el boli es muy sencillo: basta con desenroscarlo y cambiar el cartucho vacío por otro nuevo tras quitarle el tapón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075N3P1NZ/?tag=tolees-21)
