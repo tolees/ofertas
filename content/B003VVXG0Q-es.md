@@ -28,9 +28,9 @@ Tienes [Staedtler - Conjunto de lápices  goma de borrar  bolígrafo y regla](ht
 
 ℹ️:
 
-- Doble encolado de la mina contra roturas
-- Graduación de la mina: HB
-- Adecuados para escribir y dibujar
 - Hechos de material de madera con certificación PEFC
+- Graduación de la mina: HB
+- Doble encolado de la mina contra roturas
+- Adecuados para escribir y dibujar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003VVXG0Q/?tag=tolees-21)

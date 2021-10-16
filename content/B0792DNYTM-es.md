@@ -30,7 +30,7 @@ Ahora mismo tienes [los Barriguitas - Barriguitas - Minimuñeca con Disfraz de G
 
 - Barriguitas cuenta con todo un mundo de juego: casas, hospitales, tiendas, coches y mucho más!
 - Una figura de Barriguita disfrazada de un gato
-- La figura mide 12 cm aproximadamente
 - Ideal para niños de entre 4 a 8 años
+- La figura mide 12 cm aproximadamente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792DNYTM/?tag=tolees-21)
