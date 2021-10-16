@@ -28,8 +28,8 @@ Tienes [Puma Basket Heart Patent Wn s  Zapatillas de Deporte Mujer  White White 
 
 🔎:
 
-- Tipo de tacón: plano
 - Material exterior: sintético
 - Cierre: cordones
+- Tipo de tacón: plano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MRQ32G4/?tag=tolees-21)

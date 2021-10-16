@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jacdna Knit Scarf Noos Bufa al 40.24 % de descuento'
-date: 2021-10-04 06:30:50
+date: 2021-10-16 12:29:27
 image: 'https://m.media-amazon.com/images/I/41cekdXm0-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [Jack & Jones Jacdna Knit Scarf Noos Bufanda  Azul  Navy Blazer Navy Blaze
 
 ℹ️:
 
-- Scarf e of acrylic
 - Knitted scarf
+- Scarf e of acrylic
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072XNZ1XF/?tag=tolees-21)
