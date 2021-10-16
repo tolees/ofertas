@@ -28,12 +28,12 @@ Tienes [Pepe Jeans Rachel Jeans  000DENIM  29 Womens](https://www.amazon.es/dp/B
 
 🔎:
 
-- Estilo Rise : Alta
-- Leg Estilo: cónico
-- estándar
-- Lavar a mano
 - Cinco bolsillos estilo
-- Tipo de ajuste: suelto
+- estándar
+- Leg Estilo: cónico
+- Estilo Rise : Alta
 - Tipo de tejido: 99% algodón, 1% elastano
+- Tipo de ajuste: suelto
+- Lavar a mano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D9GLRL4/?tag=tolees-21)

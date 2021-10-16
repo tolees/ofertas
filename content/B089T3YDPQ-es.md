@@ -28,10 +28,10 @@ En este momento está [Asics Lyte Classic  Sneaker Hombre  Grey Floss/French Blu
 
 🔎:
 
-- Gamuza suave
 - Aspecto retro
-- Suela de goma resistente a la abrasión
 - Malla transpirable
 - Entresuela de EVA
+- Gamuza suave
+- Suela de goma resistente a la abrasión
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089T3YDPQ/?tag=tolees-21)
