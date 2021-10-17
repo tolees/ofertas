@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Puma Basket Heart Patent Wn s  Zapatilla al 44.42 % de descuento'
-date: 2021-10-06 17:57:15
-image: 'https://m.media-amazon.com/images/I/31SvNumr6TL._SL500_._SL400_.jpg'
+date: 2021-10-17 10:05:10
+image: 'https://m.media-amazon.com/images/I/41buAqLefPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,17 +19,17 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B01MYU91WD/?tag=tolees-21'
 descuento: '44.42'
-average: '36.5127027027026'
+average: '36.8673684210525'
 ---
 
 Está [Puma Basket Heart Patent Wn s  Zapatillas de Deporte Mujer  White White  36 EU](https://www.amazon.es/dp/B01MYU91WD/?tag=tolees-21) con 44.42 de descuento por 49.99 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![Puma Basket Heart Patent Wn s  Zapatilla](https://m.media-amazon.com/images/I/31SvNumr6TL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01MYU91WD/?tag=tolees-21)
+[![Puma Basket Heart Patent Wn s  Zapatilla](https://m.media-amazon.com/images/I/41buAqLefPL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01MYU91WD/?tag=tolees-21)
 
 ℹ️:
 
-- Cierre: cordones
-- Material exterior: sintético
 - Tipo de tacón: plano
+- Material exterior: sintético
+- Cierre: cordones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MYU91WD/?tag=tolees-21)

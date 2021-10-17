@@ -28,10 +28,10 @@ Está [STANLEY STHT77498-1 Rojo Cubix - Nivel Láser de Líneas Cruzadas  12m de
 
 ℹ️:
 
-- Ofrece 12 metros de alcance con una precisión de +/-6 mm @ 10m
-- Proyecta una línea horizontal y una vertical para crear una línea cruzada
 - Rosca de 1/4" para usar con trípode
 - Bloqueo del péndulo para fácil transporte
+- Proyecta una línea horizontal y una vertical para crear una línea cruzada
+- Ofrece 12 metros de alcance con una precisión de +/-6 mm @ 10m
 - Incluye sistema de soporte Quicklink, bolsa de transporte 2 pilas AA
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BP23J1B/?tag=tolees-21)
