@@ -28,10 +28,10 @@ Ahora mismo tienes [U&I Entertainment - Minecraft Dungeons - Hero Edition](https
 
 🔎:
 
-- LUCHA - ¡Usa giros de combate cuerpo a cuerpo, quédate en la retaguardia y ataca a distancia o ábrete paso con protección de armadura pesada! Personaliza tu personaje y desbloquea artículos y encantamientos de armas exclusivos para lograr ataques especiales devastadores
-- ÚNETE- ¡Aventúrate en las mazmorras en solitario o forma equipo con tus amigos! Hasta cuatro jugadores pueden combatir juntos en línea o en modo cooperativo local
 - ¡Lleva Minecraft Dungeons al siguiente nivel con la “Hero Edition”, que incluye el juego básico y la actualización “Hero Pass”
-- SOBREVIVE - Explora los niveles repletos de acción y de tesoros: ¡todo ello en una misión épica para salvar a los aldeanos y derrotar al malvado Arch-Illager
 - La “Hero Edition” incluye una capa de héroe, dos aspectos de jugador, una gallina de mascota, y las expansiones “La Jungla Despierta” e "Invierno Espeluznante"
+- SOBREVIVE - Explora los niveles repletos de acción y de tesoros: ¡todo ello en una misión épica para salvar a los aldeanos y derrotar al malvado Arch-Illager
+- ÚNETE- ¡Aventúrate en las mazmorras en solitario o forma equipo con tus amigos! Hasta cuatro jugadores pueden combatir juntos en línea o en modo cooperativo local
+- LUCHA - ¡Usa giros de combate cuerpo a cuerpo, quédate en la retaguardia y ataca a distancia o ábrete paso con protección de armadura pesada! Personaliza tu personaje y desbloquea artículos y encantamientos de armas exclusivos para lograr ataques especiales devastadores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FTRMWK7/?tag=tolees-21)

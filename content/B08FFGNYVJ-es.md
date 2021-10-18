@@ -28,10 +28,10 @@ En este momento está [PUMA Studio Layered Crop Top Camiseta De Tirantes  Mujer 
 
 🔎:
 
-- Logotipo del PUMA en el pecho
 - Sin mangas
-- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 - Textura acanalada con malla en el interior
 - Top con corte por encima de la cintura
+- Logotipo del PUMA en el pecho
+- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FFGNYVJ/?tag=tolees-21)
