@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee- Heroes A Medida - Español  Colo con un 46.98 % de descuento'
-date: 2021-10-15 14:03:59
+date: 2021-10-17 22:14:13
 image: 'https://m.media-amazon.com/images/I/510UJLWsfjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Asmodee'
 buyurl: 'https://www.amazon.es/dp/B07KTM6PK8/?tag=tolees-21'
 descuento: '46.98'
-average: '14.3086666666667'
+average: '14.408125'
 ---
 
 En este momento está [Asmodee- Heroes A Medida - Español  Color](https://www.amazon.es/dp/B07KTM6PK8/?tag=tolees-21) a 15.9 EUR (original: 29.99 EUR) (46.98 %  de descuento) en el siguiente enlace!
