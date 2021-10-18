@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Converse All Star Hi Canvas Zapatillas B al 50.07 % de descuento'
-date: 2021-10-08 14:14:47
-image: 'https://m.media-amazon.com/images/I/41OsoCUbcOL._SL500_._SL400_.jpg'
+date: 2021-10-18 05:00:06
+image: 'https://m.media-amazon.com/images/I/413QfX+wxZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B000NRR2ZQ/?tag=tolees-21'
 descuento: '50.07'
-average: '41.68'
+average: '39.8725'
 ---
 
 Ahora mismo tienes [Converse All Star Hi Canvas Zapatillas Blancas Ópticas -UK 10](https://www.amazon.es/dp/B000NRR2ZQ/?tag=tolees-21) a 34.45 EUR (original: 69.0 EUR) (50.07 %  de descuento) en el siguiente enlace!
 
-[![Converse All Star Hi Canvas Zapatillas B](https://m.media-amazon.com/images/I/41OsoCUbcOL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B000NRR2ZQ/?tag=tolees-21)
+[![Converse All Star Hi Canvas Zapatillas B](https://m.media-amazon.com/images/I/413QfX+wxZL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B000NRR2ZQ/?tag=tolees-21)
 
 🔎:
 
