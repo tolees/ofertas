@@ -29,9 +29,9 @@ Tienes [Amazfit - Verge Lite Smart Watch  Blanco](https://www.amazon.es/dp/B07SG
 🔎:
 
 - Sensor óptico, monitor de frecuencia cardíaca las 24 horas.el reloj inteligente amazfit verge lite utiliza una nueva generación de sensores y algoritmos ópticos de alta precisión para un monitoreo más preciso y un menor consumo de energía; la función de registro de la frecuencia cardíaca de todo el día le permite ver los cambios de la frecuencia cardíaca a lo largo del día y descubrir anomalías en el tiempo
-- Batería: Batería de polímero de litio de 390mAh. Más de 20 días en un escenario de uso típico.
 - Pantalla AMOLED de 1.3" con Corning Gorilla de cristal y anti recubrimiento de huellas dactilares.
-- Grado de impermeabilización: IP68 (hasta 1.5 m de profundidad durante media hora)
 - Track 7 deportes diferentes: correr al aire libre / de interior, caminar, ciclismo exterior / interior, elíptico entrenador y ejercicio.
+- Batería: Batería de polímero de litio de 390mAh. Más de 20 días en un escenario de uso típico.
+- Grado de impermeabilización: IP68 (hasta 1.5 m de profundidad durante media hora)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SGWSX4H/?tag=tolees-21)
