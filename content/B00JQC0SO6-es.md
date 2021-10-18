@@ -28,10 +28,10 @@ Está [TRIXIE Catapulta Lanza Pelotas para Perros](https://www.amazon.es/dp/B00J
 
 ℹ️:
 
-- con pelota de gomaespuma
-- lanzamiento largo con mínimo esfuerzo
+- plástico
 - evita ensuciarse las manos
 - con agarre ergonómico
-- plástico
+- con pelota de gomaespuma
+- lanzamiento largo con mínimo esfuerzo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00JQC0SO6/?tag=tolees-21)

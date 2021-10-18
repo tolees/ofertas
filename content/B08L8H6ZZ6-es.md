@@ -28,10 +28,10 @@ Está [Beurer PO 35 Pulsioxímetro  medición de la saturación de oxígeno  SpO
 
 ℹ️:
 
-- Volumen de suministro: El pulsioxímetro PO 35 de Beurer se suministra con una correa para la muñeca y una funda para el cinturón para su uso en casa o en cualquier lugar
-- Medición sencilla e indolora: El pulsioxímetro PO 35 de Beurer mide su (SpO₂) y su ritmo cardíaco (frecuencia del pulso), no es necesaria una muestra de sangre
 - Deporte de altura: Para las personas sanas y los deportistas, un pulsioxímetro es útil para controlar la saturación de oxígeno incluso en lugares con niveles de oxígeno más bajos
 - Uso relacionado con enfermedades: El pulsioxímetro es útil para las personas con enfermedades respiratorias crónicas o agudas como el asma bronquial, la EPOC, la fibrosis pulmonar o con insuficiencia cardíaca
+- Volumen de suministro: El pulsioxímetro PO 35 de Beurer se suministra con una correa para la muñeca y una funda para el cinturón para su uso en casa o en cualquier lugar
 - Práctica pantalla en color: El pulsioxímetro está equipado con una pantalla en color de fácil lectura y 4 perspectivas de visualización, la pantalla se alinea automáticamente
+- Medición sencilla e indolora: El pulsioxímetro PO 35 de Beurer mide su (SpO₂) y su ritmo cardíaco (frecuencia del pulso), no es necesaria una muestra de sangre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08L8H6ZZ6/?tag=tolees-21)

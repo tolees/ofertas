@@ -28,7 +28,7 @@ Tienes [Levi s SS Relaxed Fit tee Camiseta  Sw Logo Torch Snoopy Bright White  L
 
 🔎:
 
-- Estándar
 - Tamaño del paquete: 3,2 x 15,6 x 13,2 cm
+- Estándar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BJ4QWKC/?tag=tolees-21)

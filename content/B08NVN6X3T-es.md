@@ -28,10 +28,10 @@ En este momento está [ARENA Urban Sport Sandal  Unisex-Adult  Diamonds Black-Wh
 
 🔎:
 
+- Excelente comodidad de uso
+- Cómodas y elegantes chanclas unisex
+- 70% etilvinilacetato, 30% policloruro de vinilo
 - Material suave y ligero
 - Para la playa, la piscina y el tiempo libre
-- Cómodas y elegantes chanclas unisex
-- Excelente comodidad de uso
-- 70% etilvinilacetato, 30% policloruro de vinilo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NVN6X3T/?tag=tolees-21)

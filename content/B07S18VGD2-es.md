@@ -29,10 +29,10 @@ Ahora mismo tienes [Skechers Flex-Glow  Zapatillas  Negro  Black Synthetic/Texti
 🔎:
 
 - Material exterior: Cuero sintético
-- Revestimiento: Tela
+- Material de la suela: Sintético
 - Tipo de tacón: Plano
+- Revestimiento: Tela
 - Composición: Sintético
 - Cierre: Velcro
-- Material de la suela: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S18VGD2/?tag=tolees-21)

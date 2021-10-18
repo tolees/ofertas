@@ -28,9 +28,9 @@ Tienes [Funko- Pop Marvel Luchadores Iron Man Juguete coleccionable  Multicolor 
 
 🔎:
 
-- Marca del producto: Funko
 - Figura con cabeza oscilante
-- Juguete coleccionable
+- Marca del producto: Funko
 - El héroe invicto
+- Juguete coleccionable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CNP9CCL/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Havaianas Brasil Logo II  Chanclas Unisex bebé  Hydro Green
 
 🔎:
 
-- Impermeable
-- Cómodo y duradero
 - Encaja bien
 - Ligero
+- Impermeable
+- Cómodo y duradero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FYQ7KQT/?tag=tolees-21)
