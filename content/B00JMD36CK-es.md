@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oxford  Cuaderno A4  cuadricula 5x5  tap al 65.94 % de descuento'
-date: 2021-10-16 08:57:01
+date: 2021-10-18 09:57:35
 image: 'https://m.media-amazon.com/images/I/41YnGqDQaCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Oxford  Cuaderno A4  cuadricula 5x5  tapa extradura  microperforado  libr
 
 ℹ️:
 
-- Color azul
-- Tapa dura, de cartón brillo
 - Tamaño DIN A4. 80 hojas
+- Tapa dura, de cartón brillo
+- Color azul
 - Con cuadrícula C5
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00JMD36CK/?tag=tolees-21)

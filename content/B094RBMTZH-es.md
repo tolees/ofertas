@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Candy CSTG 27TE/1-S - Lavadora carga sup al 35.28 % de rebaja'
-date: 2021-10-03 20:23:12
+date: 2021-10-18 09:18:51
 image: 'https://m.media-amazon.com/images/I/21XSYC2cxzS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Candy CSTG 27TE/1-S - Lavadora carga superior 7Kgs  15 programas  1200rp
 
 🔎:
 
-- Tamaño (alto x ancho x prof): 85 x 40 x 60cm.
 - Resultados extraordinarios en tiempo récord: gracias a la tecnología Mix Power System+, patentada por Candy, que inyecta directamente el agua y el detergente sobre los tejidos.
 - Ahorra tiempo y reduce el consumo: con funciones tan prácticas como el detector de kgs, 9 ciclos de lavado de menos de 59, inicio retrasado y mucho más.
 - Comodidad en todas tus coladas: carga superior, configuración fácil y sistema de apertura gradual del tambor de forma suave y progresiva con tan solo con un pequeño toque.
 - Atención personalizada: conecta la lavadora a NFC y accede a través de la app simply-Fi a consejos de lavado, mantenimiento, descarga de ciclos adicionales y asistente por voz.
+- Tamaño (alto x ancho x prof): 85 x 40 x 60cm.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B094RBMTZH/?tag=tolees-21)
