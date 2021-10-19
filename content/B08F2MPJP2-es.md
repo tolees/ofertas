@@ -28,10 +28,10 @@ Ahora mismo tienes [POHOVE Carpa de jardín Gazebo Carpa con Paneles de Lluvia y
 
 🔎:
 
+- Dos tipos para que elija: no transparente y translúcido. Tipo: 1: no transparente, sin ventanas 2: translúcido, con ventanas
 - Proteger del viento, el frío y la lluvia, se puede utilizar en días soleados y días de lluvia ligera.
 - Hecho de tela Oxford, resistente al uso.
-- Soporta lavado y puede ser reutilizado.
 - Apto para la mayoría de las carpas de gazebo de 3x3 metros. El tamaño de 3 * 2 m solo puede cubrir un lado, el tamaño de 9 * 2 m es suficiente para cubrir tres lados completos.
-- Dos tipos para que elija: no transparente y translúcido. Tipo: 1: no transparente, sin ventanas 2: translúcido, con ventanas
+- Soporta lavado y puede ser reutilizado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F2MPJP2/?tag=tolees-21)
