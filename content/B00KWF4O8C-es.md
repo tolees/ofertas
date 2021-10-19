@@ -28,10 +28,10 @@ En este momento está [Columbia Woodburn II  Zapatillas Hombre  Negro  Black Car
 
 🔎:
 
-- Revestimiento: Sintético
-- Cierre: Cordones
-- Tipo de tacón: Plano
 - Material exterior: Cuero
 - Material de la suela: Goma
+- Tipo de tacón: Plano
+- Cierre: Cordones
+- Revestimiento: Sintético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KWF4O8C/?tag=tolees-21)

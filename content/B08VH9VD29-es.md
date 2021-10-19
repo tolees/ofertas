@@ -28,10 +28,10 @@ Tienes [Genericn - 2TB External Hard Drive  Portable Hard Drive External Type-C/
 
 🔎:
 
+- Plug and Play--This hard drive external is ready to go without software to install, just plug it in and go.
+- Sturdy and Durable--Ultra slim portable hard drive external protected by sturdy and durable case, which is lightweight and handy, comfortably fits your palm or slip into pocket.
+- What You Get-- 1 x Portable Hard Drive,1 x USB Cable
 - System Compatibility--Microsoft Windows 10/ Windows 8.1/ Windows 8/ Windows 7/ Apple MAC/Android and more!
 - Fast Data Transfer--External hard drive, super fast transfer speed with upgrade USB 2.0, which reading is 5 times as fast as usual hard drives, ensuring you speedy and stable use!
-- What You Get-- 1 x Portable Hard Drive,1 x USB Cable
-- Sturdy and Durable--Ultra slim portable hard drive external protected by sturdy and durable case, which is lightweight and handy, comfortably fits your palm or slip into pocket.
-- Plug and Play--This hard drive external is ready to go without software to install, just plug it in and go.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VH9VD29/?tag=tolees-21)

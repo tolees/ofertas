@@ -28,10 +28,10 @@ Tienes [Chicco Flashy  Multicolor  Talla Única Musicales   Xilófono para Niño
 
 ℹ️:
 
-- Modo Free Style y Libre
-- 2 Modos De Juego
-- Flashy te enseña notas musicales, la escala musical y la secuencia de sonidos
-- Juguete musical con 3 modos dejuego
 - 8 Canciones Tradicionales + 1Bastón Incluído
+- 2 Modos De Juego
+- Juguete musical con 3 modos dejuego
+- Flashy te enseña notas musicales, la escala musical y la secuencia de sonidos
+- Modo Free Style y Libre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QKB2NQ5/?tag=tolees-21)

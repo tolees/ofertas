@@ -28,11 +28,11 @@ Tienes [Helly Hansen HH Logo Crew Sudadera  Hombre   Gris 950   M](https://www.a
 
 🔎:
 
-- Felpa francesa de algodón fabricada en Europa
-- Cuello redondo
-- Corte recto
-- Canalé en el bajo y en las mangas
 - HH Logo Crew
+- Cuello redondo
+- Canalé en el bajo y en las mangas
+- Corte recto
 - Logotipo de HH estampado
+- Felpa francesa de algodón fabricada en Europa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F2S3RN4/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Beissier M56072 - Aguaplast instantaneo tubo 200 ml](https://www.amazon.
 
 🔎:
 
-- Pasta preparada para interior
 - Nivelador y tapagrietas
 - Acabado muy liso y duro
+- Pasta preparada para interior
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ID6UTA4/?tag=tolees-21)

@@ -28,7 +28,7 @@ Ahora mismo tienes [Levi s Sporty Bralette Sujetador Deportivo  Bright White  XL
 
 🔎:
 
-- Tamaño del paquete: 3,0 x 28,2 x 16,2 cm
 - Estándar
+- Tamaño del paquete: 3,0 x 28,2 x 16,2 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089N2RXNY/?tag=tolees-21)

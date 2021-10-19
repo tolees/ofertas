@@ -28,7 +28,7 @@ Tienes [Clarks Sprintlitelace  Zapatillas Mujer  Rosa Claro  38 EU](https://www.
 
 🔎:
 
-- Plantilla acolchada suave
 - Tecnología Ortholite
+- Plantilla acolchada suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GKVG84H/?tag=tolees-21)

@@ -29,7 +29,7 @@ Está [Levi s Sporty Bralette Sujetador Deportivo  Bright White  L para Mujer](h
 ℹ️:
 
 - Tamaño del paquete: 3,0 x 28,2 x 16,2 cm
-- Sporty Bralette
 - Lavable a máquina
+- Sporty Bralette
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089MH4RB6/?tag=tolees-21)
