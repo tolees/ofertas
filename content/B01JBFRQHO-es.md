@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Novia Cadáver [DVD] al 39.58 % de descuento'
-date: 2021-10-17 19:37:37
+date: 2021-10-19 08:57:14
 image: 'https://m.media-amazon.com/images/I/61Bl0DnaQkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JBFRQHO/?tag=tolees-21'
 descuento: '39.58'
-average: '6.59842105263158'
+average: '6.6005'
 ---
 
 Está [La Novia Cadáver [DVD]](https://www.amazon.es/dp/B01JBFRQHO/?tag=tolees-21) con 39.58 de descuento por 6.64 EUR (original: 10.99 EUR) en el siguiente enlace!
