@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Sporty Bralette Sujetador Deporti al 54.60 % de descuento'
-date: 2021-10-16 14:33:42
+date: 2021-10-19 18:24:39
 image: 'https://m.media-amazon.com/images/I/41HeSo6fveL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
