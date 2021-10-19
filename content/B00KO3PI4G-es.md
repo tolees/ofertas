@@ -29,9 +29,9 @@ Tienes [Skechers Equalizer Persistent Men Low-Top Sneakers  Blue  Navy   8 UK  4
 🔎:
 
 - Color: azul marino
-- Más información: PERSISTENT
-- Número del fabricante: 51361 NVY
 - Material: Textil
 - Estilo: Sneaker Low
+- Más información: PERSISTENT
+- Número del fabricante: 51361 NVY
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00KO3PI4G/?tag=tolees-21)
