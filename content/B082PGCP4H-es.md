@@ -28,8 +28,8 @@ Tienes [THE INDIAN FACE Oxygen Edition Blue Tortoise/Black](https://www.amazon.e
 
 🔎:
 
-- Gafas de Sol
 - Gafas de Sol Polarizadas Oxygen Azul The Indian Face para hombre y mujer
+- Gafas de Sol
 - Oxygen Edition Blue Tortoise / Black
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082PGCP4H/?tag=tolees-21)

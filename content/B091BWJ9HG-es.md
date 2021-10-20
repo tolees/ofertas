@@ -28,11 +28,11 @@ Tienes [Lapasion Almendrados  Pastas Artesanas con Almendras  165 Gramos](https:
 
 🔎:
 
-- PRODUCIDOS EN ESPAÑA, Estos dulces han sido producidos en España.
-- FECHA DE CONSUMO PREFERENTE y condiciones de CONSERVACIÓN, 365 días desde la fecha de fabricación. Conservar en lugar fresco, seco y aislado del suelo, lejos de fuentes de calor y libre de suciedad y contaminación.
-- CONTIENE, Seis unidades por bolsa.
 - INGREDIENTES, Harina de trigo, manteca de cerdo ibérico, azúcar, almendras 8%, huevo pasteurizado, gasificantes (difosfato disódico, bicarbonato de sodio), proteína de leche, dextrosa, aceite vegetal (colza) y aromas.
 - REPOSTERÍA DE CALIDAD, Repostería casera y tradicional. Ideal para almuerzos, desayunos, postres...
+- FECHA DE CONSUMO PREFERENTE y condiciones de CONSERVACIÓN, 365 días desde la fecha de fabricación. Conservar en lugar fresco, seco y aislado del suelo, lejos de fuentes de calor y libre de suciedad y contaminación.
+- PRODUCIDOS EN ESPAÑA, Estos dulces han sido producidos en España.
+- CONTIENE, Seis unidades por bolsa.
 - Galleta al estilo mantecado suave y crujiente. Pasta recubierta por una caña de Almendras Laminadas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B091BWJ9HG/?tag=tolees-21)

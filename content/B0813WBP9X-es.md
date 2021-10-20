@@ -28,8 +28,8 @@ Tienes [adidas Originals Superstar  Zapatillas Deportivas Hombre  Core Black/Foo
 
 🔎:
 
-- Parte superior de cuero
 - Cordones de zapatos
 - Zapatilla clásica de cuero
+- Parte superior de cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0813WBP9X/?tag=tolees-21)

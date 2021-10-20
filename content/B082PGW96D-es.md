@@ -28,8 +28,8 @@ Está [THE INDIAN FACE Oxygen Edition Grey/Green](https://www.amazon.es/dp/B082P
 
 ℹ️:
 
-- Gafas de Sol
 - Oxygen Edition Grey / Green
 - Gafas de Sol Polarizadas Oxygen Gris The Indian Face para hombre y mujer
+- Gafas de Sol
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082PGW96D/?tag=tolees-21)
