@@ -28,10 +28,10 @@ Está [Castle Art Supplies Juego de pintura en lienzo en 3D. 24 botellas de 29ml
 
 ℹ️:
 
-- PERSONALIZA LA FLUIDEZ DE LA PINTURA para crear diferentes efectos, desde líneas finas hasta efectos de pinceladas sutiles. Simplemente corta la punta blanda como prefieras y sé creativo.
-- LA CAJA INCLUYE 3 PINCELES DE REGALO Y CUENTA CON LA GARANTÍA DE DEVOLUCIÓN DEL DINERO por lo que no tendrás problemas, y tu compra estará llena de diversión y con una óptima relación calidad/precio. Todos deberían tener un juego de pintura para tela 3D.
-- PINTURAS 3D DE SECADO RÁPIDO Y APTAS PARA NIÑOS. Una caja de manualidades imprescindible, ideal para proyectos en días con lluvia, fiestas, trabajos escolares y perfectas para crear regalos personalizados.
-- VERSÁTIL Y MUY DIVERTIDO, adecuado para una amplia gama de actividades artísticas, que incluyen, pero no se limitan a, diseño de camisetas, decoración de calcetines, pulseras, mochilas y todo tipo de materiales aptos para pintura para tejidos. ADEMÁS, son aptas para usar en madera, vidrio y muchas otras superficies.
 - JUEGO DE 24 PINTURAS DE COLORES BRILLANTES, VIBRANTES E HINCHABLES que darán vida a tus proyectos artísticos. Observa cómo la pintura 3D se hincha para dar un efecto tridimensional emocionante y realista.
+- LA CAJA INCLUYE 3 PINCELES DE REGALO Y CUENTA CON LA GARANTÍA DE DEVOLUCIÓN DEL DINERO por lo que no tendrás problemas, y tu compra estará llena de diversión y con una óptima relación calidad/precio. Todos deberían tener un juego de pintura para tela 3D.
+- VERSÁTIL Y MUY DIVERTIDO, adecuado para una amplia gama de actividades artísticas, que incluyen, pero no se limitan a, diseño de camisetas, decoración de calcetines, pulseras, mochilas y todo tipo de materiales aptos para pintura para tejidos. ADEMÁS, son aptas para usar en madera, vidrio y muchas otras superficies.
+- PERSONALIZA LA FLUIDEZ DE LA PINTURA para crear diferentes efectos, desde líneas finas hasta efectos de pinceladas sutiles. Simplemente corta la punta blanda como prefieras y sé creativo.
+- PINTURAS 3D DE SECADO RÁPIDO Y APTAS PARA NIÑOS. Una caja de manualidades imprescindible, ideal para proyectos en días con lluvia, fiestas, trabajos escolares y perfectas para crear regalos personalizados.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07531MSVC/?tag=tolees-21)

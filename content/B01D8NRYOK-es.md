@@ -28,9 +28,9 @@ En este momento está [Cool Maker Pottery Cool Studio - kits de manualidades par
 
 🔎:
 
-- Para mayores de 6 años y requiere 4 baterías C (no incluidas)
 - Crea, pinta y despliega los proyectos de arcilla.
 - Personaliza el diseño de cerámica con las herramientas de escultura incluidas.
 - Fáciles de esculpir porta joyas de arcilla, parlantes, criaturas
+- Para mayores de 6 años y requiere 4 baterías C (no incluidas)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01D8NRYOK/?tag=tolees-21)

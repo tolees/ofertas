@@ -28,10 +28,10 @@ En este momento está [LIHAO Generador de Humo Frío Cocina Ahumador de Acero In
 
 🔎:
 
-- Dimensiones: 22,5 × 21 × 4,2 cm, compruebe si el tamaño es lo que desea.
-- Hecho de acero inoxidable, forma cuadrada con dos planos para colocar la vela.
-- Ideal para ahumar pescado, carne, queso, vegetales, funciona en la mayoría de las barbacoas.
 - Forma espiral que permite una combustión lenta, sin llama, sin fuente de calor externa y durante un largo período de horas.
+- Ideal para ahumar pescado, carne, queso, vegetales, funciona en la mayoría de las barbacoas.
+- Dimensiones: 22,5 × 21 × 4,2 cm, compruebe si el tamaño es lo que desea.
 - Fácil de usar, simplemente coloque el aserrín de humo en la espiral y enciéndalo con un soplete, una vela de té o un encendedor.
+- Hecho de acero inoxidable, forma cuadrada con dos planos para colocar la vela.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089F4XW8K/?tag=tolees-21)
