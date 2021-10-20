@@ -28,8 +28,8 @@ Está [adidas Core18 Sweat Top Sweatshirts  Hombre  Black/White  M](https://www.
 
 ℹ️:
 
-- Originals
-- Adidas
 - Trefoil
+- Adidas
+- Originals
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073H6NDKC/?tag=tolees-21)

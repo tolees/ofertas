@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Razer Naga TrinityRatón para Juegos MOBA al 52.73 % de descuento'
-date: 2021-09-22 19:12:09
+title: 'Razer Naga TrinityRatón para Juegos MOBA al 45.46 % de descuento'
+date: 2021-10-20 19:30:09
 image: 'https://m.media-amazon.com/images/I/41yOktOpAKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B077KJKMYD-es Razer Naga TrinityRatón para Juegos MOBA/MMO Ratón Gaming...'
 sku: 'B077KJKMYD-es'
 tags: [ 'Accesorios para Juegos PC','Juegos y Accesorios para PC','Ratones para gamers para PC','Videojuegos','razer', ]
-actualPrice: 51.99 EUR
+actualPrice: 59.99 EUR
 currency: EUR
-price: 51.99
+price: 59.99
 comparePrice: 109.99 EUR
 prodname: 'Razer Naga TrinityRatón para Juegos MOBA/MMO  Ratón Gaming  3 Placas Laterales Intercambiables  Sensor Óptico de 5G de 16 000 PPP  hasta 19 Botones Programables  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Razer'
 buyurl: 'https://www.amazon.es/dp/B077KJKMYD/?tag=tolees-21'
-descuento: '52.73'
-average: '75.3737499999999'
+descuento: '45.46'
+average: '75.0597959183673'
 ---
 
-Ahora mismo tienes [Razer Naga TrinityRatón para Juegos MOBA/MMO  Ratón Gaming  3 Placas Laterales Intercambiables  Sensor Óptico de 5G de 16 000 PPP  hasta 19 Botones Programables  Negro](https://www.amazon.es/dp/B077KJKMYD/?tag=tolees-21) a 51.99 EUR (original: 109.99 EUR) (52.73 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Razer Naga TrinityRatón para Juegos MOBA/MMO  Ratón Gaming  3 Placas Laterales Intercambiables  Sensor Óptico de 5G de 16 000 PPP  hasta 19 Botones Programables  Negro](https://www.amazon.es/dp/B077KJKMYD/?tag=tolees-21) a 59.99 EUR (original: 109.99 EUR) (45.46 %  de descuento) en el siguiente enlace!
 
 [![Razer Naga TrinityRatón para Juegos MOBA](https://m.media-amazon.com/images/I/41yOktOpAKL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B077KJKMYD/?tag=tolees-21)
 
 🔎:
 
-- Switches mecánicos de Razer ganadores de varios premios: Equipado con los galardonados switches mecánicos RazerTM, Razer Naga Trinity ofrece una durabilidad pionera de hasta 50 millones de clics para vencer siempre a tus oponentes
 - Powered by Razer Chroma: Accede a toda una gama de 16,8 millones de colores y personaliza tu ratón Razer Naga Trinity de formamoderna para que combine con tus transformaciones y tonos
-- Diseño óptimizado para diestros: Razer Naga Trinity está diseñado con formato óptimizado para diestros, y así lanzar hechizos hasta altas horas de la madrugada, además de ser tan cómodo como para poder jugar durante horas, los botones están cuidadosamente colocados, por lo que es fácil acceder a ellos y accionarlos
 - 3 placas laterales intercambiables: Transforma tu ratón para adaptarlo a tu forma de juego con las placas laterales para configuraciones de 2, 7 y 12 botones, cada botón está diseñado para sobresalir y así no te equivoques al pulsar, también ofrece información táctil y auditiva para que estés seguro de cada acción
 - Hasta 19 botones programables: Gracias a sus 19 botones programables puedes disfrutar de numerosas posibilidades, independientemente de si vas a asignar solo loscomandos básicos o todos los objetos, los hechizos y el resto de comandos que necesites para el juego
+- Diseño óptimizado para diestros: Razer Naga Trinity está diseñado con formato óptimizado para diestros, y así lanzar hechizos hasta altas horas de la madrugada, además de ser tan cómodo como para poder jugar durante horas, los botones están cuidadosamente colocados, por lo que es fácil acceder a ellos y accionarlos
+- Switches mecánicos de Razer ganadores de varios premios: Equipado con los galardonados switches mecánicos RazerTM, Razer Naga Trinity ofrece una durabilidad pionera de hasta 50 millones de clics para vencer siempre a tus oponentes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077KJKMYD/?tag=tolees-21)
