@@ -29,9 +29,9 @@ Tienes [edc by Esprit Basic Rundhals Camiseta  039/Medium Grey 5  XS para Hombre
 ℹ️:
 
 - Cuello redondo
-- Jersey suave de algodón orgánico 100%
-- I am sustainable: algodón orgánico
 - El esencial perfecto de algodón orgánico especialmente valioso
 - Algodón orgánico: algodón de cultivo ecológico
+- Jersey suave de algodón orgánico 100%
+- I am sustainable: algodón orgánico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08Q8K45TD/?tag=tolees-21)

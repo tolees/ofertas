@@ -28,10 +28,10 @@ Tienes [BIC Criterium - Portaminas  0.5 mm HB   apto para dibujo técnico o uso 
 
 🔎:
 
+- Portaminas recargable con 3 minas de grafito HB de 0,5 mm (+ estuche de 12 minas): el trazo es limpio y preciso
 - Su cuerpo está dotado de estrías antideslizantes que facilitan el agarre del portaminas
 - Para evitar la rotura de la mina, el portaminas está equipado con un muelle amortiguador
-- Portaminas recargable con 3 minas de grafito HB de 0,5 mm (+ estuche de 12 minas): el trazo es limpio y preciso
-- Su ingenioso diseño incluye un pulsador en el que se esconde una larga goma retráctil de 3 cm para borrar los trazos rápidamente
 - El buen instrumento saca maestro. Descubre el portaminas Criterium de BIC, adecuado para el dibujo técnico y tomar notas
+- Su ingenioso diseño incluye un pulsador en el que se esconde una larga goma retráctil de 3 cm para borrar los trazos rápidamente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0089IUR9Y/?tag=tolees-21)

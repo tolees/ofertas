@@ -28,10 +28,10 @@ Está [Ecran Sun Ultraligero  Protector Solar Invisible con SPF30 - 145 ml](http
 
 ℹ️:
 
-- Previene la aparición de arrugas y manchas provocadas por el sol, protegiendo la piel del fotoenvejecimiento y los radicales libres
-- Testado dermatológicamente, fórmula biodegradable con envase 100% reciclable
 - Spray de protección solar invisible con tecnología airless que permite el total aprovechamiento del producto
+- Testado dermatológicamente, fórmula biodegradable con envase 100% reciclable
 - Con protección alta SPF30 y Cellular Protect Complex, que protege las células del daño de los infrarrojos y los rayos UVA y UVB
+- Previene la aparición de arrugas y manchas provocadas por el sol, protegiendo la piel del fotoenvejecimiento y los radicales libres
 - Textura ultraligera invisible de rápida absorción, no grasa y resistente al agua, con un acabado sedoso y suave al tacto, sin brillos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06Y6LF6SV/?tag=tolees-21)
