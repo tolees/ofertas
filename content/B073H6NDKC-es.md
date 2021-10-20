@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 Sweat Top Sweatshirts  Hom al 40.05 % de descuento'
-date: 2021-10-11 10:54:12
+date: 2021-10-20 18:50:00
 image: 'https://m.media-amazon.com/images/I/4198K4h51gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B073H6NDKC/?tag=tolees-21'
 descuento: '40.05'
-average: '23.6328571428571'
+average: '23.654'
 ---
 
 Está [adidas Core18 Sweat Top Sweatshirts  Hombre  Black/White  M](https://www.amazon.es/dp/B073H6NDKC/?tag=tolees-21) con 40.05 de descuento por 23.95 EUR (original: 39.95 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [adidas Core18 Sweat Top Sweatshirts  Hombre  Black/White  M](https://www.
 
 ℹ️:
 
-- Trefoil
 - Originals
 - Adidas
+- Trefoil
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073H6NDKC/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.32 % en NVS - Pinty Plus 250 - Pintura spray mar'
-date: 2021-10-19 13:50:59
+date: 2021-10-20 18:41:32
 image: 'https://m.media-amazon.com/images/I/41RQSIzhXlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
