@@ -29,8 +29,8 @@ Tienes [Geox Donna Sandal STREL B  Fisherman Mujer  Beige  37 EU](https://www.am
 🔎:
 
 - Suela: goma
-- Cierre: velcro + cordones elásticos
-- Material exterior: sintético
 - Material interior: sintético
+- Material exterior: sintético
+- Cierre: velcro + cordones elásticos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BL9NDLG/?tag=tolees-21)
