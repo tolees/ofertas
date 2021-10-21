@@ -29,9 +29,9 @@ Tienes [Lacoste Lerond BL 1 CAM  Zapatillas Hombre  Navy  51 EU](https://www.ama
 ℹ️:
 
 - Forro: sintético
+- Material de la suela: Caucho
 - Parte superior: tela
 - Ancho del zapato: medio
 - Cierre: cordón
-- Material de la suela: Caucho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BTP5WPS/?tag=tolees-21)

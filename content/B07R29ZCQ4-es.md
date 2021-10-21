@@ -28,10 +28,10 @@ Tienes [Relaxdays Columpio Jardín Nido de Red para Niños y Adultos  hasta 150 
 
 🔎:
 
-- Características: silla colgante con 120 cm de diámetro; apto para niños a partir de 3 años; en un sofisticado tono negro.
-- Ajustable: la altura de la cuerda del columpio infantil exterior se puede regular; aprox; de 85 a 140 cm
 - Resistente: de acero y cuerdas de nailon duradero; columpio jardín exterior resistente a la intemperie
-- Columpio jardín exterior: este columpio redondo es perfecto para el jardín, la terraza, de camping e interiores
 - Diversión: niños y adultos de hasta 150 kg podrán columpiarse en esta silla hamaca colgante
+- Ajustable: la altura de la cuerda del columpio infantil exterior se puede regular; aprox; de 85 a 140 cm
+- Columpio jardín exterior: este columpio redondo es perfecto para el jardín, la terraza, de camping e interiores
+- Características: silla colgante con 120 cm de diámetro; apto para niños a partir de 3 años; en un sofisticado tono negro.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07R29ZCQ4/?tag=tolees-21)

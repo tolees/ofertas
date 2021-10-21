@@ -30,8 +30,8 @@ Tienes [Emporio Armani Reloj Analógico para Hombre de Cuarzo con Correa en Sili
 
 - Material de la correa: Silicona
 - Ancho de la correa: 23 mm; Circunferencia de la correa: 200+/- 5 mm
-- Resistente al agua: 5 ATM
-- Grosor de la caja: 12 mm; Tamaño de la caja: 44 mm
 - Se presenta en caja de regalo Emporio Armani
+- Grosor de la caja: 12 mm; Tamaño de la caja: 44 mm
+- Resistente al agua: 5 ATM
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07N34S5GF/?tag=tolees-21)

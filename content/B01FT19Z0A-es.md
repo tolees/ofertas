@@ -28,10 +28,10 @@ Tienes [APLI Kids 14404 - Color Sticks fluorescente 6 g/6 u](https://www.amazon.
 
 ℹ️:
 
-- Colores nítidos, vivos e intensos; puedes conseguir distintos acabados según la presión ejercida: poca presión = efecto cera; mucha presión = efecto témpera
-- Ideales para dibujar y pintar sobre papel, cartón, cartulina, etc
-- Los Color Sticks de APLI no manchan; tienen un acabado satinado, por lo que no necesitan barniz; y secan rápidamente, en menos de 3 minutos
 - Témperas sólidas Color Sticks en colores flúor; pack con 6 unidades de 6 g en colores surtidos: amarillo flúor, fucsia, azul flúor, verde flúor, naranja flúor y lila flúor
+- Los Color Sticks de APLI no manchan; tienen un acabado satinado, por lo que no necesitan barniz; y secan rápidamente, en menos de 3 minutos
+- Ideales para dibujar y pintar sobre papel, cartón, cartulina, etc
+- Colores nítidos, vivos e intensos; puedes conseguir distintos acabados según la presión ejercida: poca presión = efecto cera; mucha presión = efecto témpera
 - Una vez finalizado el dibujo, no se quiebra, se mantiene flexible; no contienen disolventes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01FT19Z0A/?tag=tolees-21)

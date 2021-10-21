@@ -28,10 +28,10 @@ Ahora mismo tienes [United Colors of Benetton - Benetton Navy Blue  Equipaje par
 
 🔎:
 
-- Mochila ligera. Espalda y hombreras acolchadas, ergonómicas, cómodas y ajustables
-- Producto con licencia oficial
-- Mochila casual con asas; medidas: 27 cm x 13 cm x 38 cm
-- Asa de mano en la parte superior; fácil acceso al compartimento principal; gracias a su gran apertura; asas grandes con cierre en la parte superior para llevarlo a modo de bolso; con 3 bolsillos exteriores, dos laterales y uno frontal con cremallera amplio y cómodo para guardar todo tipo de materiales y complementos
 - Tarjeta interior de identificación personal; doble tirador en cremallera principal para fácil itar su apertura; bolsillo interior acolchado apto para portátil de hasta 12"
+- Mochila casual con asas; medidas: 27 cm x 13 cm x 38 cm
+- Producto con licencia oficial
+- Asa de mano en la parte superior; fácil acceso al compartimento principal; gracias a su gran apertura; asas grandes con cierre en la parte superior para llevarlo a modo de bolso; con 3 bolsillos exteriores, dos laterales y uno frontal con cremallera amplio y cómodo para guardar todo tipo de materiales y complementos
+- Mochila ligera. Espalda y hombreras acolchadas, ergonómicas, cómodas y ajustables
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07V1NF97Q/?tag=tolees-21)
