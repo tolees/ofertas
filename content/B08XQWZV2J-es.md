@@ -28,10 +28,10 @@ Ahora mismo tienes [HELP FLASH V.2 2021 - Luz de Emergencia Autónoma V16 person
 
 🔎:
 
-- HELP FLASH es una baliza luminosa de emergencia de alta calidad, autónoma, compacta y ligera. Homologada de conformidad con la Normativa de Seguridad Vial vigente para V16 con número IDIADA PC 19080098
+- Incluye un artículo valorado en más de 10 euro: un Chaleco de alta visibilidad. 100% poliéster
 - Compuesto por una LUZ de EMERGENCIA + BALIZA DESTELLANTE + LINTERNA que protege y ayuda a SALVAR VIDAS (luz blanca fija de 360º con 5h de autonomía y luz ámbar destellante con más de 2h de autonomía)
 - Indicado para la señalización de COCHES y MOTOS en situación de una emergencia. Se conecta SIN necesidad de INTERRUPTORES NI CABLES, lo hace a través del contacto con el metal
-- Incluye un artículo valorado en más de 10 euro: un Chaleco de alta visibilidad. 100% poliéster
+- HELP FLASH es una baliza luminosa de emergencia de alta calidad, autónoma, compacta y ligera. Homologada de conformidad con la Normativa de Seguridad Vial vigente para V16 con número IDIADA PC 19080098
 - Utiliza LEDS de alta calidad que aseguran que la LUZ sea VISIBLE a 1km de distancia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08XQWZV2J/?tag=tolees-21)

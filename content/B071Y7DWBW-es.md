@@ -28,10 +28,10 @@ Ahora mismo tienes [keeeper Jarra Pequeñas Cantidades  Con Cono Medidor Interno
 
 🔎:
 
-- Contenido: 1 Jarra de medir para pequeñas cantidades, Mario, 250 ml, Dimensiones (ØxH): 8,5 x 11,5 cm, Color: Transparente/Negro
-- Fabricado en Europa, Plástico (PP) robusto y de alta calidad, Sin BPA ni plastificantes, Apto par alimentos, Sin emisión de sustancias nocivas
 - Sencillamente práctico: con cono interior para medir cantidades pequeñas entre 5 y 15 ml, Vaciado sin derrames gracias a la boquilla, Escala de fácil lectura integrada
 - Cocinar y hornear, más fácil: compacta jarra de medir para pequeñas cantidades - Con escalas para líquidos, azúcar, harina, tazas (US) y onzas (US)
 - Almacenamiento que ahorra espacio: las jarras keeeper pueden encajarse dentro de otras, incluso con la serie Massimo, Fácil de limpiar: apto para lavavajilla o pasar un paño húmedo o esponja
+- Fabricado en Europa, Plástico (PP) robusto y de alta calidad, Sin BPA ni plastificantes, Apto par alimentos, Sin emisión de sustancias nocivas
+- Contenido: 1 Jarra de medir para pequeñas cantidades, Mario, 250 ml, Dimensiones (ØxH): 8,5 x 11,5 cm, Color: Transparente/Negro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071Y7DWBW/?tag=tolees-21)

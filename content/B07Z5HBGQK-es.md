@@ -28,7 +28,7 @@ Tienes [Salomon Alphacross Blast Hombre Zapatos de trail running  Negro  Black/W
 
 ℹ️:
 
-- Número: 47 1/3
 - Alphacross Blast Black/White/Black
+- Número: 47 1/3
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Z5HBGQK/?tag=tolees-21)

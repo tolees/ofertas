@@ -29,9 +29,9 @@ Ahora mismo tienes [Fujifilm Funda instax mini 70 black polipiel Funda original 
 🔎:
 
 - Tapa magnética extraíble
-- Accesorio original instax
 - Forro interior en téxtil suave
 - Color: Negro
+- Accesorio original instax
 - PU de calidad superior imitación piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JV7QBCP/?tag=tolees-21)

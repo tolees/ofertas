@@ -28,10 +28,10 @@ Tienes [Fujifilm Funda instax mini 70 yellow polipiel Funda original instax para
 
 🔎:
 
-- Color:Amarillo
-- Tapa magnética extraíble
-- Accesorio original instax
-- PU de calidad superior imitación piel
 - Forro interior en téxtil suave
+- Color:Amarillo
+- PU de calidad superior imitación piel
+- Accesorio original instax
+- Tapa magnética extraíble
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JQ9GKSB/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [LE 15W Plafón LED Impermeable IP54 Super Brillante 1250LM 5
 
 🔎:
 
-- 【Diseño Conciso】Con un diseño simple, la luz de techo LE es adecuada para una variedad de estilos y lugares de hogar: cocina, balcón, dormitorio, sala de estar, etc.
-- 【Ahorro de Energía】15W, 1250LM, PF> 0.9, equivalente a la lámpara incandescente tradicional de 100W, para proporcionarle suficiente brillo, ahorro de energía (85%) y baja potencia.
-- 【Luz de Alta Calidad】Esta lámpara de techo está 110 LEDs de alta calidad, ángulo de haz de 120 °, Ra> 80, distribución uniforme de la luz, sin deslumbramiento, sin parpadeo. Reduzca efectivamente el espacio muerto de la iluminación, brindándole la mejor experiencia de uso de la luz.
 - 【Mejor Servicio】Nuestra luz de techo profesional del LED puede ofrecerle más de 50000 horas de brillo, y puede ayudarle a ahorrar más energía y dinero.
 - 【Resistente al Agua】El grado de impermeabilidad IP54, salpicadura de neblina impermeable, adecuado para baño, cocina, balcón y porche.
+- 【Ahorro de Energía】15W, 1250LM, PF> 0.9, equivalente a la lámpara incandescente tradicional de 100W, para proporcionarle suficiente brillo, ahorro de energía (85%) y baja potencia.
+- 【Diseño Conciso】Con un diseño simple, la luz de techo LE es adecuada para una variedad de estilos y lugares de hogar: cocina, balcón, dormitorio, sala de estar, etc.
+- 【Luz de Alta Calidad】Esta lámpara de techo está 110 LEDs de alta calidad, ángulo de haz de 120 °, Ra> 80, distribución uniforme de la luz, sin deslumbramiento, sin parpadeo. Reduzca efectivamente el espacio muerto de la iluminación, brindándole la mejor experiencia de uso de la luz.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XVQ5W2H/?tag=tolees-21)
