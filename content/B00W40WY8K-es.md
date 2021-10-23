@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alpino PA000012 - Estuche con 12 ceras con un 52.40 % de descuento'
-date: 2021-10-18 08:50:04
+date: 2021-10-23 13:31:49
 image: 'https://m.media-amazon.com/images/I/518io3imVHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Alpino'
 buyurl: 'https://www.amazon.es/dp/B00W40WY8K/?tag=tolees-21'
 descuento: '52.40'
-average: '1.6725'
+average: '1.48636363636364'
 ---
 
 En este momento está [Alpino PA000012 - Estuche con 12 ceras](https://www.amazon.es/dp/B00W40WY8K/?tag=tolees-21) a 0.99 EUR (original: 2.08 EUR) (52.40 %  de descuento) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [Alpino PA000012 - Estuche con 12 ceras](https://www.amazo
 🔎:
 
 - Colores surtidos
-- Ceras duras
 - Estuche 12 ceras
+- Ceras duras
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00W40WY8K/?tag=tolees-21)
