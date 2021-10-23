@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.06 % en MSI Clutch GM08 - Ratón para Videojuegos'
-date: 2021-10-10 07:13:39
+date: 2021-10-23 20:03:29
 image: 'https://m.media-amazon.com/images/I/41iUstWl4eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B08FDLQ265/?tag=tolees-21'
 descuento: '52.06'
-average: '11.9868750000001'
+average: '11.9861111111112'
 ---
 
 Tienes [MSI Clutch GM08 - Ratón para Videojuegos  USB simétrico  LED Rojo  Sensor óptico Paw 3519  conmutador de hasta 10 ml de Clic  Sistema de Pesas modificables   Negro](https://www.amazon.es/dp/B08FDLQ265/?tag=tolees-21) con un 52.06 % de descuento con precio de oferta de 11.98 EUR (original: 24.99 EUR) en el siguiente enlace!
