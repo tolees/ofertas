@@ -28,10 +28,10 @@ Tienes [Jovi Plastilina  color surtido multicolor  10 unidades  70/10S ](https:/
 
 ℹ️:
 
-- Kit pastilina - 10 pastillas de 50 gramos, colores: blanco, amarillo, naranja, rosa, rojo, marrón, verde claro, verde oscuro, azul claro y azul marino
 - Plastilina para niños y niñas a partir de 2 años.
-- Plastilina que no se seca, es reutilizable y no mancha; los colores se pueden mezclar para conseguir nuevas tonalidades y hacer todo tipo de manualidades.
-- Con este pack se pueden explorar diferentes técnicas con los dedos, con moldes y herramientas.
 - Pasta de modelar de base vegetal, no tóxica y que no contiene gluten.
+- Plastilina que no se seca, es reutilizable y no mancha; los colores se pueden mezclar para conseguir nuevas tonalidades y hacer todo tipo de manualidades.
+- Kit pastilina - 10 pastillas de 50 gramos, colores: blanco, amarillo, naranja, rosa, rojo, marrón, verde claro, verde oscuro, azul claro y azul marino
+- Con este pack se pueden explorar diferentes técnicas con los dedos, con moldes y herramientas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000NMAJVK/?tag=tolees-21)
