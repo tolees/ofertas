@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.98 % en Casio Reloj Analógico de Cuarzo con Corr'
-date: 2021-09-26 21:05:03
+date: 2021-10-24 14:20:37
 image: 'https://m.media-amazon.com/images/I/41ngkyEvLIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Casio'
 buyurl: 'https://www.amazon.es/dp/B00JOBHGQW/?tag=tolees-21'
 descuento: '44.98'
-average: '32.74375'
+average: '32.9777777777778'
 ---
 
 Tienes [Casio Reloj Analógico de Cuarzo con Correa en Cuero MTP-1314PL-8AVEF](https://www.amazon.es/dp/B00JOBHGQW/?tag=tolees-21) con un 44.98 % de descuento con precio de oferta de 34.85 EUR (original: 63.34 EUR) en el siguiente enlace!

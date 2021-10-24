@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Wizies - Joyero Musical  Famosa 70001432 con un 39.66 % de descuento'
+date: 2021-10-24 14:17:55
+image: 'https://m.media-amazon.com/images/I/519BNpGfZ1L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07BFQZ3VD-es Wizies - Joyero Musical Famosa 700014321'
+sku: 'B07BFQZ3VD-es'
+tags: [ 'Juguetes','Juguetes y juegos','Muñecas y accesorios','Sets de accesorios','wizies', ]
+actualPrice: 21.09 EUR
+currency: EUR
+price: 21.09
+comparePrice: 34.95 EUR
+prodname: 'Wizies - Joyero Musical  Famosa 700014321 '
+country: 'es'
+flag: '🇪🇸'
+brand: 'Wizies'
+buyurl: 'https://www.amazon.es/dp/B07BFQZ3VD/?tag=tolees-21'
+descuento: '39.66'
+average: '16.518'
+---
+
+En este momento está [Wizies - Joyero Musical  Famosa 700014321 ](https://www.amazon.es/dp/B07BFQZ3VD/?tag=tolees-21) a 21.09 EUR (original: 34.95 EUR) (39.66 %  de descuento) en el siguiente enlace!
+
+[![Wizies - Joyero Musical  Famosa 70001432](https://m.media-amazon.com/images/I/519BNpGfZ1L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07BFQZ3VD/?tag=tolees-21)
+
+🔎:
+
+- En la pieza central hay además un soporte donde podrás hacer una torre con tus wizies y verlos girar al compás de la música
+- Abre el joyero con su llave y escucha su música; descubre sus 12 figuras especiales, aprieta el botón y mira como los wizies giran en la plataforma giratoria
+- Al pasar por la luz tus wizies brillarán como diamantes; selecciona figuras y conéctalas personalizando tu propio anillo, las tres pulseras pulseras o el collar que vienen incluidos
+- Incluyen 12 figuras exclusivas translúcidas y accesorios y 3 pulseras; un anillo y un colgante para convertir tus wizies en joyitas "ponibles"
+- El joyero musical de wizies es una preciosa cajita que parece un regalo y que esconde un montón de sorpresas en su interior
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B07BFQZ3VD/?tag=tolees-21)
