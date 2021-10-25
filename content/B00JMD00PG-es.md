@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Descuento del 48.45 % en Canson Iris - Cartulina  50 Unidades  Co'
-date: 2020-04-23 00:35:27
-image: 'https://m.media-amazon.com/images/I/31rNR0zFIBL._SL400_.jpg'
+title: 'Descuento del 40.74 % en Canson Escolar - Paquete A4   50 Hojas  '
+date: 2021-10-25 10:12:57
+image: 'https://m.media-amazon.com/images/I/31rNR0zFIBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00JMD00PG-es Canson Iris - Cartulina 50 Unidades Color Gris Perla'
+slug: 'B00JMD00PG-es Canson Escolar - Paquete A4 50 Hojas Guarro Cartulina IRIS...'
 sku: 'B00JMD00PG-es'
-tags: [  ]
-actualPrice: 5.65 EUR
+tags: [ 'Cartulina','Costura y manualidades','Hogar y cocina','Papel','Papel y manualidades con papel','canson escolar', ]
+actualPrice: 5.25 EUR
 currency: EUR
-price: 5.65
-comparePrice: 10.96 EUR
-prodname: 'Canson Iris - Cartulina  50 Unidades  Color Gris Perla'
+price: 5.25
+comparePrice: 8.86 EUR
+prodname: 'Canson Escolar - Paquete A4   50 Hojas  Guarro Cartulina IRIS 185g Gris Perla'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Canson Escolar'
 buyurl: 'https://www.amazon.es/dp/B00JMD00PG/?tag=tolees-21'
-descuento: '48.45'
-average: '5.65'
+descuento: '40.74'
+average: '5.51666666666667'
 ---
 
-Tienes [Canson Iris - Cartulina  50 Unidades  Color Gris Perla](https://www.amazon.es/dp/B00JMD00PG/?tag=tolees-21) con un 48.45 % de descuento con precio de oferta de 5.65 EUR (original: 10.96 EUR) en el siguiente enlace!
+Tienes [Canson Escolar - Paquete A4   50 Hojas  Guarro Cartulina IRIS 185g Gris Perla](https://www.amazon.es/dp/B00JMD00PG/?tag=tolees-21) con un 40.74 % de descuento con precio de oferta de 5.25 EUR (original: 8.86 EUR) en el siguiente enlace!
 
-[![Canson Iris - Cartulina  50 Unidades  Co](https://m.media-amazon.com/images/I/31rNR0zFIBL._SL400_.jpg)](https://www.amazon.es/dp/B00JMD00PG/?tag=tolees-21)
+[![Canson Escolar - Paquete A4   50 Hojas  ](https://m.media-amazon.com/images/I/31rNR0zFIBL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00JMD00PG/?tag=tolees-21)
 
 ℹ️:
 
+- Se pega fácilmente con los pegamentos de uso escolar.
+- Ofrece dureza y regularidad en su superficie.
+- Cartulina de color, libre de ácido, ligeramente satinada y coloreada en pasta con pigmentos sólidos a la luz.
+- Aplicación: Dibujo y manualidades.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JMD00PG/?tag=tolees-21)
