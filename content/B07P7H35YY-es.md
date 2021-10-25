@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.21 % en MILAN - Blíster calculadora científica M'
-date: 2021-10-12 08:12:00
+date: 2021-10-25 12:32:50
 image: 'https://m.media-amazon.com/images/I/51m45CFr2+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MILAN'
 buyurl: 'https://www.amazon.es/dp/B07P7H35YY/?tag=tolees-21'
 descuento: '62.21'
-average: '7.57666666666667'
+average: '7.583'
 ---
 
 Tienes [MILAN - Blíster calculadora científica M240 Silver](https://www.amazon.es/dp/B07P7H35YY/?tag=tolees-21) con un 62.21 % de descuento con precio de oferta de 4.95 EUR (original: 13.1 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [MILAN - Blíster calculadora científica M240 Silver](https://www.amazon
 
 ℹ️:
 
-- Incluye instrucciones
-- Calculadora científica M240 serie Silver color turquesa con resistente carcasa protectora con acabado plateado Silver.
-- Alimentación: 2 pilas AAA
 - Pantalla de 2 líneas de lectura, de 10+2 dígitos.
+- Alimentación: 2 pilas AAA
 - 240 funciones integradas, incluyendo 124 científicas.
+- Calculadora científica M240 serie Silver color turquesa con resistente carcasa protectora con acabado plateado Silver.
+- Incluye instrucciones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07P7H35YY/?tag=tolees-21)
