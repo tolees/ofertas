@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.84 % en CARE OF by PUMA Chaqueta acolchada imper'
-date: 2021-10-20 11:54:36
+date: 2021-10-25 22:56:59
 image: 'https://m.media-amazon.com/images/I/41z3jaWpH8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

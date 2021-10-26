@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Glide-Step  Zapatillas Mujer  N al 37.46 % de descuento'
-date: 2021-10-10 03:59:19
+date: 2021-10-26 00:53:06
 image: 'https://m.media-amazon.com/images/I/41e6YxqdIPS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B08FBLH1KL/?tag=tolees-21'
 descuento: '37.46'
-average: '45.51'
+average: '47.0066666666667'
 ---
 
 Está [Skechers Glide-Step  Zapatillas Mujer  Nvpk  36 EU](https://www.amazon.es/dp/B08FBLH1KL/?tag=tolees-21) con 37.46 de descuento por 50.0 EUR (original: 79.95 EUR) en el siguiente enlace!

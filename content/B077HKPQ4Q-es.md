@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'It 4k Uhd [Blu-ray] al 36.73 % de rebaja'
-date: 2021-10-17 19:16:53
+date: 2021-10-25 22:43:33
 image: 'https://m.media-amazon.com/images/I/51ReMDqLsUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HKPQ4Q/?tag=tolees-21'
 descuento: '36.73'
-average: '18.8569565217391'
+average: '18.5443999999999'
 ---
 
 Tienes [It 4k Uhd [Blu-ray]](https://www.amazon.es/dp/B077HKPQ4Q/?tag=tolees-21) con precio final de  14.95 EUR (original: 23.63 EUR) (36.73 %  de rebaja) aqui!

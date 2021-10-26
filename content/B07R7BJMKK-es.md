@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CARE OF by PUMA Zapatillas bajas informa al 44.36 % de descuento'
-date: 2021-10-19 20:36:00
+date: 2021-10-25 22:58:53
 image: 'https://m.media-amazon.com/images/I/31+82iG9K+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
