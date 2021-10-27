@@ -28,8 +28,8 @@ En este momento está [Lotus Watches Reloj Análogo clásico para Hombre de Auto
 
 🔎:
 
-- Analógico para Unisex adulto
-- - calendario - -
 - LOTUS Modelo Reloj YOS413
+- - calendario - -
+- Analógico para Unisex adulto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0767H3FMV/?tag=tolees-21)
