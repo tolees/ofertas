@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - X-men Colección 10 películas [B al 41.51 % de descuento'
-date: 2021-10-02 13:46:12
+date: 2021-10-28 06:52:19
 image: 'https://m.media-amazon.com/images/I/41LkwLNPAyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B08WY6GL6R/?tag=tolees-21'
 descuento: '41.51'
-average: '47.7057142857142'
+average: '44.9022222222221'
 ---
 
 Está [Disney - X-men Colección 10 películas [Blu-ray]](https://www.amazon.es/dp/B08WY6GL6R/?tag=tolees-21) con 41.51 de descuento por 35.09 EUR (original: 59.99 EUR) en el siguiente enlace!
