@@ -28,9 +28,9 @@ En este momento está [HOMCOM Banco de Musculación Plegable con Altura Ajustabl
 
 🔎:
 
-- MEDIDAS TOTALES: 130x37x(45-108) cm (LxANxAL); Medidas plegadas: 65x37x50 cm (LxANxAL); Medidas del asiento: 36x50x5 cm (LxANxAL); Ajuste del ángulo del respaldo: 180°, 165°, 145°, 130°, 115° y 100°; Carga máxima: 150 kg
-- PLEGABLE: Este banco de musculación puede plegarse fácilmente ahorrando espacio de almacenaje y facilitando su transporte. Ideal para el hogar, oficina o gimnasio
 - BANCO RESISTENTE Y ESTABLE: Hecho de acero resistente, cuenta con 4 puntos de apoyo en el suelo con protecciones de caucho antideslizantes, para mayor estabilidad y evitar daños y rayones en el suelo
+- PLEGABLE: Este banco de musculación puede plegarse fácilmente ahorrando espacio de almacenaje y facilitando su transporte. Ideal para el hogar, oficina o gimnasio
+- MEDIDAS TOTALES: 130x37x(45-108) cm (LxANxAL); Medidas plegadas: 65x37x50 cm (LxANxAL); Medidas del asiento: 36x50x5 cm (LxANxAL); Ajuste del ángulo del respaldo: 180°, 165°, 145°, 130°, 115° y 100°; Carga máxima: 150 kg
 - RESPALDO Y TOBILLERO AJUSTABLE: Para adaptarse a los diferentes usuarios y necesidades de uso, el respaldo de este banco se puede ajustar en 6 posiciones diferentes y el soporte para pies y tobillos tiene 2 posiciones de altura
 - DISTINTOS GRADOS DE INCLINACIÓN: La inclinación del banco permite la práctica de múltiples ejercicios para trabajar zonas diferentes del cuerpo. La posición vertical es ideal para hombros e inclinada para pectorales superiores, por ejemplo
 

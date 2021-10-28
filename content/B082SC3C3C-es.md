@@ -29,9 +29,9 @@ En este momento está [Dicora UrbanFit - Dicora Urban Fit Gel de Baño Proteins 
 🔎:
 
 - Efecto refrescante y suavidad aterciopelada durante 24 horas.
-- la cremosidad del yogur junto con la hidratación intensa del pepino para una piel fresca y radiante a lo largo del día.
-- Gel de baño cremoso Proteins Yogur & Pepino enriquecido con proteínas de yogur y pepino.
 - Extractos naturales: pepino
 - CrueltyFree
+- Gel de baño cremoso Proteins Yogur & Pepino enriquecido con proteínas de yogur y pepino.
+- la cremosidad del yogur junto con la hidratación intensa del pepino para una piel fresca y radiante a lo largo del día.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082SC3C3C/?tag=tolees-21)

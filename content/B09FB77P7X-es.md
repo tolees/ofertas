@@ -28,13 +28,13 @@ Ahora mismo tienes [Candy FCP502X/E Horno eléctrico Capacidad 65L  Puerta desmo
 
 🔎:
 
-- producto 2: Vitrocerámica de 60cm de ancho con 3 zonas con control independiente de hasta 10 niveles de potencia
-- producto 1: Multifunción: iluminación, convección natural, grill, estático y ventilador y, grill y ventilador; todas configurables desde los 3 mandos mecánicos superiores
-- producto 2: Fácil de limpiar: se limpia con facilidad con una bayeta húmeda, gracias a que es una superficie lisa
-- producto 1: Fácil limpieza: el horno con puerta de doble cristal desmontable y el exterior sin tornillos; además, la cuba inferior está preparada para la limpieza con agua
 - producto 1: Uso sencillo: horno eléctrico que encaja óptimamente con cualquier tipo de cocina, con puerta de cristal, mandos y tirador de acero inoxidable y 65L de capacidad
-- producto 1: Accesorios incorporados con el horno: 2 rejillas antivuelco y 1 bandeja para hornear
-- producto 2: Calienta de forma progesiva y conserva bien el calor residual, pudiendo terminar la cocción con la vitro apagada
+- producto 2: Vitrocerámica de 60cm de ancho con 3 zonas con control independiente de hasta 10 niveles de potencia
 - producto 2: Acepta todo tipo de recipientes: permite usar menaje de cualquier material, sin necesidad de cambiar tus utensilios de cocina (incluso el barro)
+- producto 2: Calienta de forma progesiva y conserva bien el calor residual, pudiendo terminar la cocción con la vitro apagada
+- producto 1: Fácil limpieza: el horno con puerta de doble cristal desmontable y el exterior sin tornillos; además, la cuba inferior está preparada para la limpieza con agua
+- producto 1: Multifunción: iluminación, convección natural, grill, estático y ventilador y, grill y ventilador; todas configurables desde los 3 mandos mecánicos superiores
+- producto 1: Accesorios incorporados con el horno: 2 rejillas antivuelco y 1 bandeja para hornear
+- producto 2: Fácil de limpiar: se limpia con facilidad con una bayeta húmeda, gracias a que es una superficie lisa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B09FB77P7X/?tag=tolees-21)
