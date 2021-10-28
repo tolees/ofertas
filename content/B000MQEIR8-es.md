@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maped 291010 - Compás/bigotera con adapt con un 47.16 % de descuento'
-date: 2021-10-24 20:23:21
+date: 2021-10-28 17:36:49
 image: 'https://m.media-amazon.com/images/I/41I7fkVWAtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,11 +29,11 @@ En este momento está [Maped 291010 - Compás/bigotera con adaptador  surtido ](
 🔎:
 
 - Escolar
-- Para circunferencias hasta 300 mm
-- Escolar
-- Con adaptador
 - Compás bigotera con sistema de ajuste de precisión
+- Para circunferencias hasta 300 mm
 - Se presenta en caja antichoque de 3 piezas: 1 bigotera, 1 abrazadera universal y 1 estuche de minas
+- Con adaptador
 - Bigotera
+- Escolar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000MQEIR8/?tag=tolees-21)
