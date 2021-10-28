@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids LVB 512 SLIM TAPER JEAN 6728 al 40.20 % de rebaja'
-date: 2021-10-20 09:47:10
+date: 2021-10-28 12:03:06
 image: 'https://m.media-amazon.com/images/I/41T-Xa3D9FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
