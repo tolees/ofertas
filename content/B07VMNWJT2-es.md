@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Unlined Triangle Almohadill al 50.00 % de descuento'
-date: 2021-10-13 16:41:01
+date: 2021-10-28 16:41:17
 image: 'https://m.media-amazon.com/images/I/41ffLEFIQiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

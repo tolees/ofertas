@@ -28,9 +28,9 @@ Está [Monix Siena - Set de cubiertos de 24 piezas con cuchillo chuletero  acero
 
 ℹ️:
 
+- El pack incluye: 6 cucharas (20 cm)/ 6 tenedores (20 cm)/ 6 cuchillos chuleteros (22 cm)/ 6 cucharitas de café (14 cm)
 - Diseño contemporáneo óptimo para todo tipo de cocinas y mesas
 - Apto para lavado en lavavajillas
-- El pack incluye: 6 cucharas (20 cm)/ 6 tenedores (20 cm)/ 6 cuchillos chuleteros (22 cm)/ 6 cucharitas de café (14 cm)
 - Acabado pulido brillante de acero inoxidable 18/10
 - Espesor 3 mm
 

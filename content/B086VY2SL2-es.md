@@ -29,9 +29,9 @@ Ahora mismo tienes [Grupo Erik - ERIK - Mousepad XXL  Alfombrilla de ratón XXL 
 🔎:
 
 - Mousepad XXL cuenta con suficiente espacio para poder tenerlo todo a la vez bien ordenado, sus medidas son de 80 x 35 cm. La base tiene 4 mm de espesor, lo que hace que la superficie sea óptima y puedas estar más cómodo; también mejora el uso intensivo y preciso de cualquier tipo de ratón
-- El accesorio perfecto para regalar en cualquier fecha impotante: base revestida de tela impermeable de alta densidad, para pasar largas horas jugando o estudiando a la vez que te tomas una de tus bebidas preferidas y una base antideslizante que permite que se fije al escritorio
-- Nunca es tarde para tener las cosas como quieres y darle a tu mesa de trabajo ese toque diferente que necesita. Esta alfombrilla XXL del mapa del mundo te aportará lo que estabas buscando
 - Práctica, cómoda, flexible y duradera, todas estas características las reúne esta alfombrilla gaming XXL. Podrás llevarlo a cualquier lugar, de viaje, a una competición de juegos, a casa de un amigo… además de no tener que cambiarlo durante una larga temporada gracias a que sus bordes están bien reforzados
 - ERIK - La nueva gama de alfombrillas de ratón para videojuegos están diseñadas para darle diversión y personalidad a vuestos escritorios, con unos diseños únicos, originales y de tendencia que las hacen diferentes. ¡Te sorprenderán!
+- Nunca es tarde para tener las cosas como quieres y darle a tu mesa de trabajo ese toque diferente que necesita. Esta alfombrilla XXL del mapa del mundo te aportará lo que estabas buscando
+- El accesorio perfecto para regalar en cualquier fecha impotante: base revestida de tela impermeable de alta densidad, para pasar largas horas jugando o estudiando a la vez que te tomas una de tus bebidas preferidas y una base antideslizante que permite que se fije al escritorio
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086VY2SL2/?tag=tolees-21)
