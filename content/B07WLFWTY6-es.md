@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEIKO Reloj Analógico para Hombre. de Cu al 41.55 % de descuento'
-date: 2021-10-08 02:20:33
+date: 2021-10-29 17:01:26
 image: 'https://m.media-amazon.com/images/I/41qmv9I8CfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

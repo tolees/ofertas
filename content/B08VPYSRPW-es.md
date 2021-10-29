@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Soul [Blu-ray] con un 41.44 % de descuento'
-date: 2021-10-28 09:49:42
+date: 2021-10-29 17:23:44
 image: 'https://m.media-amazon.com/images/I/41mZ9dEfFoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B08VPYSRPW/?tag=tolees-21'
 descuento: '41.44'
-average: '14.8235714285714'
+average: '14.7380701754386'
 ---
 
 En este momento está [Disney - Soul [Blu-ray]](https://www.amazon.es/dp/B08VPYSRPW/?tag=tolees-21) a 9.95 EUR (original: 16.99 EUR) (41.44 %  de descuento) en el siguiente enlace!
