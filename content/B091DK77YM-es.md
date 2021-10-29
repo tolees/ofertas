@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Houdian - Mini Enfriador de Aire  Acondi al 50.03 % de descuento'
-date: 2021-10-03 07:52:36
+date: 2021-10-29 20:25:51
 image: 'https://m.media-amazon.com/images/I/41mPIlefiIS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -31,7 +31,7 @@ Ahora mismo tienes [Houdian - Mini Enfriador de Aire  Acondicionador de Aire Mó
 - Función 3 en 1: enfriador de aire acondicionado evaporativo, ventilador de escritorio y humidificador de niebla fría
 - Aire de enfriamiento que sale de la salida de aire después de agregar agua o agua helada
 - Luz nocturna relajante y funcionamiento súper silencioso
-- Velocidad del viento de tres niveles: alta, media, baja
 - Diseño portátil y de seguridad para su espacio personal.
+- Velocidad del viento de tres niveles: alta, media, baja
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B091DK77YM/?tag=tolees-21)
