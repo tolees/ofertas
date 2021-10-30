@@ -28,8 +28,8 @@ Está [Puma Basket Heart Patent Wn s  Zapatillas de Deporte Mujer  Iron Gate-Iro
 
 ℹ️:
 
-- Tipo de tacón: plano
 - Material exterior: sintético
 - Cierre: cordones
+- Tipo de tacón: plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CZGCMQ6/?tag=tolees-21)
