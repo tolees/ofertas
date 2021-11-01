@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 35.86 % en adidas Gazelle J  Zapatillas Unisex Adul'
-date: 2021-10-03 17:10:21
-image: 'https://m.media-amazon.com/images/I/41bZONIPygL._SL500_._SL400_.jpg'
+date: 2021-11-01 19:35:18
+image: 'https://m.media-amazon.com/images/I/31YnXdLdc9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,16 +19,16 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B01MU2X00F/?tag=tolees-21'
 descuento: '35.86'
-average: '44.22'
+average: '41.3475'
 ---
 
 Tienes [adidas Gazelle J  Zapatillas Unisex Adulto  Azul  Collegiate Navy/Footwear White/Footwear White 0   37 1/3 EU](https://www.amazon.es/dp/B01MU2X00F/?tag=tolees-21) con un 35.86 % de descuento con precio de oferta de 38.45 EUR (original: 59.95 EUR) en el siguiente enlace!
 
-[![adidas Gazelle J  Zapatillas Unisex Adul](https://m.media-amazon.com/images/I/41bZONIPygL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01MU2X00F/?tag=tolees-21)
+[![adidas Gazelle J  Zapatillas Unisex Adul](https://m.media-amazon.com/images/I/31YnXdLdc9L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01MU2X00F/?tag=tolees-21)
 
 ℹ️:
 
-- adulto
 - Azul
+- adulto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MU2X00F/?tag=tolees-21)
