@@ -28,10 +28,10 @@ Ahora mismo tienes [The Noble Collection - Pin de la casa de Hogwarts: cinco pin
 
 🔎:
 
-- Juego de cinco pines que representan las casas de Hogwarts
-- Vienen en una caja para coleccionables
-- Son piezas de colección para los amantes de las películas y libros de Harry Potter
 - Son reproducidas en tamaño natural y en cada detalle
 - Cada pin mide aproximadamente 1 1/4 "
+- Juego de cinco pines que representan las casas de Hogwarts
+- Son piezas de colección para los amantes de las películas y libros de Harry Potter
+- Vienen en una caja para coleccionables
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002YXBEKG/?tag=tolees-21)

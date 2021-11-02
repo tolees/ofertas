@@ -29,9 +29,9 @@ Está [SELECTED HOMME BLACK Slhberg Roll Neck B Noos Suter Pulver  Thrush/Detall
 ℹ️:
 
 - Cómodo
-- Suave
-- algodón
-- Suéter
 - Jersey de cuello alto
+- Suéter
+- algodón
+- Suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B09136QYZP/?tag=tolees-21)

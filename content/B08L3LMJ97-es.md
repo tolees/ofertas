@@ -28,10 +28,10 @@ Ahora mismo tienes [CISNE | Pack 4 bayetas Microfibra | Bayetas Cocina | Bayetas
 
 🔎:
 
-- CALIDAD: Se puede reutilizar cientos de veces sin perder capacidad de absorción, lo que reduce el uso de toallas de papel y es más respetuoso con el medio ambiente. Estas Bayetas son de distintos colores para cada uso, evitando la contaminación cruzada.
+- FABRICACIÓN: Bayeta Made in Spain, bajo la firma española CISNE. Este revolucionario tejido y producto este fabricado y confeccionado con los más estrictos protocolos y con sus respectivos certificados correspondientes y al día.
+- TEJIDO: Nuestra bayeta de microfibra se componen de 80% de poliéster y 20% poliamida. Siendo así particularmente muy suaves. No rayan las pinturas ni ninguna superficie del hogar.
 - COMPOSICIÓN: Nuestra bayeta Élite está compuesta por Microfibra de alta calidad de rizo alto siendo así perfecta para mayor capacidad de Limpieza y Absorción. Ideal para eliminar el polvo o la suciedad. La bayeta limpia suavemente todas las superficies y no deja fibra.
 - APLICACIÓN: Nuestra Bayeta de Microfibra Élite se puede utilizar y aplicar de varias formas, pero la ideal es usar en seco para una mejor absorción de líquidos y húmeda para una mejor limpieza y rendimiento.
-- TEJIDO: Nuestra bayeta de microfibra se componen de 80% de poliéster y 20% poliamida. Siendo así particularmente muy suaves. No rayan las pinturas ni ninguna superficie del hogar.
-- FABRICACIÓN: Bayeta Made in Spain, bajo la firma española CISNE. Este revolucionario tejido y producto este fabricado y confeccionado con los más estrictos protocolos y con sus respectivos certificados correspondientes y al día.
+- CALIDAD: Se puede reutilizar cientos de veces sin perder capacidad de absorción, lo que reduce el uso de toallas de papel y es más respetuoso con el medio ambiente. Estas Bayetas son de distintos colores para cada uso, evitando la contaminación cruzada.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L3LMJ97/?tag=tolees-21)

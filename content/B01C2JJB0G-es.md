@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.60 % en Emtec Internal SSD X150 480 GB'
-date: 2021-10-29 20:40:15
+date: 2021-11-02 19:07:01
 image: 'https://m.media-amazon.com/images/I/41VKejs69WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EMTEC'
 buyurl: 'https://www.amazon.es/dp/B01C2JJB0G/?tag=tolees-21'
 descuento: '47.60'
-average: '47.9493333333334'
+average: '47.0129411764707'
 ---
 
 Tienes [Emtec Internal SSD X150 480 GB](https://www.amazon.es/dp/B01C2JJB0G/?tag=tolees-21) con un 47.60 % de descuento con precio de oferta de 39.99 EUR (original: 76.31 EUR) en el siguiente enlace!

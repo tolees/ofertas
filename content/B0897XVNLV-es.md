@@ -28,7 +28,7 @@ Ahora mismo tienes [Levi s Graphic Standard Sudadera  Hoodie New Logo II Pearl G
 
 🔎:
 
-- Tamaño del paquete: 6,0 x 33,6 x 33,29 cm
 - Estándar
+- Tamaño del paquete: 6,0 x 33,6 x 33,29 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897XVNLV/?tag=tolees-21)
