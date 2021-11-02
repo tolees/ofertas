@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LAGUNAMOON Esmaltes Semipermanentes de U con un 38.02 % de descuento'
-date: 2021-10-20 21:03:10
+date: 2021-11-02 13:30:45
 image: 'https://m.media-amazon.com/images/I/519K99qBB8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

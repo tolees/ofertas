@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas Solar Glide 3 W  Zapatillas de Running Mujer  Fresh C
 
 🔎:
 
-- Refuerzo a lo largo de la mediasuela
 - Cierre de cordones
 - Parte superior de malla
 - Mediasuela Boost
+- Refuerzo a lo largo de la mediasuela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BWWZSP2/?tag=tolees-21)

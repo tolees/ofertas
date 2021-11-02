@@ -28,8 +28,8 @@ Está [adidas Ultraboost 21  Sneaker Hombre  Core Black/Core Black/Grey  40 2/3 
 
 ℹ️:
 
-- Cordones de zapatos
 - En forma normal.
+- Cordones de zapatos
 - La parte superior de Primeknit de adidas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PQJ6XCX/?tag=tolees-21)
