@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'U&I Entertainment - Crypt of the Necroda al 36.44 % de descuento'
-date: 2021-10-30 12:02:31
+date: 2021-11-02 11:40:43
 image: 'https://m.media-amazon.com/images/I/41eYIduQVAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'U&I Entertainment'
 buyurl: 'https://www.amazon.es/dp/B08K41JCPB/?tag=tolees-21'
 descuento: '36.44'
-average: '36.054'
+average: '35.87'
 ---
 
 Está [U&I Entertainment - Crypt of the Necrodancer - Collector´s Edition](https://www.amazon.es/dp/B08K41JCPB/?tag=tolees-21) con 36.44 de descuento por 34.95 EUR (original: 54.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [U&I Entertainment - Crypt of the Necrodancer - Collector´s Edition](http
 
 ℹ️:
 
-- Caja metálica ilustrada (de la marca Steelbook)
-- Incluye la expansión “AMPLIFIED” en el disco, y el manual
 - Un exclusivo pañuelo 100% algodón con una estampa personalizada para “Cadence” (el personaje principal del juego)
-- Un CD con la BSO del NecroDancer original más el mini-CD con BSO de AMPLIFIED
 - Un pin de esmalte de "Bucky", una mascota del artista original de NecroDancer, Jesse Turner
+- Caja metálica ilustrada (de la marca Steelbook)
+- Un CD con la BSO del NecroDancer original más el mini-CD con BSO de AMPLIFIED
+- Incluye la expansión “AMPLIFIED” en el disco, y el manual
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08K41JCPB/?tag=tolees-21)
