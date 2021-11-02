@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TESSAN Adaptador Enchufe Ingles UK Ingla con un 44.02 % de descuento'
-date: 2021-10-11 07:47:13
+date: 2021-11-02 08:13:30
 image: 'https://m.media-amazon.com/images/I/31PhJaLHnVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TESSAN'
 buyurl: 'https://www.amazon.es/dp/B07SYZ3VRB/?tag=tolees-21'
 descuento: '44.02'
-average: '13.2757142857143'
+average: '13.4344444444444'
 ---
 
 En este momento está [TESSAN Adaptador Enchufe Ingles UK Inglaterra Adaptador de Viaje con 2 USB  2.4A   Español 2 Patas Europa hacia 3 Patas Reino Unido RU para Irlanda Escocia Britanico Maldivas（Tipo G） Blanco](https://www.amazon.es/dp/B07SYZ3VRB/?tag=tolees-21) a 13.99 EUR (original: 24.99 EUR) (44.02 %  de descuento) en el siguiente enlace!
