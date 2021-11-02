@@ -28,8 +28,8 @@ Tienes [adidas Low Cut 3PP Socks  Medium Grey Heather/White/Black  L Unisex-Adul
 
 🔎:
 
-- Paquete de tres pares
 - Amortiguación dirigida
 - Tela Suave
+- Paquete de tres pares
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CBWGXV4/?tag=tolees-21)

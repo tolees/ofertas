@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjirick Jjicon Shorts GE 00 al 60.15 % de descuento'
-date: 2021-10-30 17:33:19
+date: 2021-11-02 14:46:24
 image: 'https://m.media-amazon.com/images/I/415ebnjQSNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
