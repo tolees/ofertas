@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! Simpsons S2: Homer - Radioa al 36.22 % de descuento'
-date: 2021-10-19 18:45:04
+date: 2021-11-03 16:40:40
 image: 'https://m.media-amazon.com/images/I/41YNJuLpWML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07KPT1GZC/?tag=tolees-21'
 descuento: '36.22'
-average: '10.531568627451'
+average: '10.5453846153846'
 ---
 
 Está [Funko - Pop! Simpsons S2: Homer - Radioactive Man Figura De Vinil  Multicolor  37690 ](https://www.amazon.es/dp/B07KPT1GZC/?tag=tolees-21) con 36.22 de descuento por 11.25 EUR (original: 17.64 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Funko - Pop! Simpsons S2: Homer - Radioactive Man Figura De Vinil  Multic
 
 ℹ️:
 
-- Funko pop vinyl
 - Homer-Radioactive Man
+- Juguete del año 2018
 - De la colección simpsons, homer-radioactive man como figura de vinilo pop de funko
 - Animation: simpsons s2
-- Juguete del año 2018
+- Funko pop vinyl
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KPT1GZC/?tag=tolees-21)
