@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WMF Perfect Plus Junta de Goma para Tapa al 51.61 % de rebaja'
-date: 2021-11-01 14:47:47
+date: 2021-11-03 09:45:23
 image: 'https://m.media-amazon.com/images/I/31k8q+D0aML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'WMF'
 buyurl: 'https://www.amazon.es/dp/B00IIZOC9O/?tag=tolees-21'
 descuento: '51.61'
-average: '12.8975'
+average: '12.156'
 ---
 
 Tienes [WMF Perfect Plus Junta de Goma para Tapa  Silicona  Gris  22 cm](https://www.amazon.es/dp/B00IIZOC9O/?tag=tolees-21) con precio final de  9.19 EUR (original: 18.99 EUR) (51.61 %  de rebaja) aqui!
