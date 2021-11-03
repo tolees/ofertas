@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Liga Training 1/4 Zip Top Jr Camise con un 54.47 % de descuento'
-date: 2021-10-31 21:45:44
+date: 2021-11-02 23:48:53
 image: 'https://m.media-amazon.com/images/I/31u0IkSbfnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

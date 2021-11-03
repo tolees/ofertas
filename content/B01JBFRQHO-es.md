@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'La Novia Cadáver [DVD] al 36.76 % de descuento'
-date: 2021-10-29 17:46:57
+title: 'La Novia Cadáver [DVD] al 36.40 % de descuento'
+date: 2021-11-02 23:27:57
 image: 'https://m.media-amazon.com/images/I/61Bl0DnaQkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B01JBFRQHO-es La Novia Cadáver [DVD]'
 sku: 'B01JBFRQHO-es'
 tags: [ 'Animación','Comedia','DVD','Featured Categories','Películas','Películas y TV', ]
-actualPrice: 6.95 EUR
+actualPrice: 6.99 EUR
 currency: EUR
-price: 6.95
+price: 6.99
 comparePrice: 10.99 EUR
 prodname: 'La Novia Cadáver [DVD]'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JBFRQHO/?tag=tolees-21'
-descuento: '36.76'
-average: '6.65666666666667'
+descuento: '36.40'
+average: '6.68733333333334'
 ---
 
-Está [La Novia Cadáver [DVD]](https://www.amazon.es/dp/B01JBFRQHO/?tag=tolees-21) con 36.76 de descuento por 6.95 EUR (original: 10.99 EUR) en el siguiente enlace!
+Está [La Novia Cadáver [DVD]](https://www.amazon.es/dp/B01JBFRQHO/?tag=tolees-21) con 36.40 de descuento por 6.99 EUR (original: 10.99 EUR) en el siguiente enlace!
 
 [![La Novia Cadáver [DVD]](https://m.media-amazon.com/images/I/61Bl0DnaQkL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01JBFRQHO/?tag=tolees-21)
 
