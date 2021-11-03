@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Soul [DVD] al 36.03 % de descuento'
-date: 2021-10-31 16:52:29
+date: 2021-11-03 17:56:07
 image: 'https://m.media-amazon.com/images/I/51MuNOnjoGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B08VPW3N87/?tag=tolees-21'
 descuento: '36.03'
-average: '11.7335000000001'
+average: '11.6437096774194'
 ---
 
 Ahora mismo tienes [Disney - Soul [DVD]](https://www.amazon.es/dp/B08VPW3N87/?tag=tolees-21) a 8.95 EUR (original: 13.99 EUR) (36.03 %  de descuento) en el siguiente enlace!
