@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.01 % en Focus Home Interactive - Farming Simulat'
-date: 2021-10-28 06:55:17
+date: 2021-11-04 07:58:39
 image: 'https://m.media-amazon.com/images/I/51SpHvPU-JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Focus Home Interactive'
 buyurl: 'https://www.amazon.es/dp/B08DGN75BF/?tag=tolees-21'
 descuento: '46.01'
-average: '30.39'
+average: '29.8233333333333'
 ---
 
 Tienes [Focus Home Interactive - Farming Simulator 19 - Premium Edition](https://www.amazon.es/dp/B08DGN75BF/?tag=tolees-21) con un 46.01 % de descuento con precio de oferta de 26.99 EUR (original: 49.99 EUR) en el siguiente enlace!
