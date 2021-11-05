@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XTI 49620  Náuticos Hombre  Azul  Navy N al 50.06 % de descuento'
-date: 2021-10-31 12:41:10
+date: 2021-11-05 11:50:48
 image: 'https://m.media-amazon.com/images/I/41NLhLgwaXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'XTI'
 buyurl: 'https://www.amazon.es/dp/B07Y91YKBG/?tag=tolees-21'
 descuento: '50.06'
-average: '26.6166666666667'
+average: '24.95'
 ---
 
 Está [XTI 49620  Náuticos Hombre  Azul  Navy Navy   41 EU](https://www.amazon.es/dp/B07Y91YKBG/?tag=tolees-21) con 50.06 de descuento por 19.95 EUR (original: 39.95 EUR) en el siguiente enlace!
