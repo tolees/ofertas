@@ -28,11 +28,11 @@ Ahora mismo tienes [Normaluz RD30042 Señal Zona Videovigilada PVC Glasspack 0 7
 
 🔎:
 
-- Especialmente indicado para señalizar zonas videovigiladas en comunidades de vecinos, parkings, controles de accesos, etc.
-- Las señales Normaluz se fabrican con Sistema de Gestión de Calidad certificada UNE-EN ISO 9001
-- Normaluz: Empresa Lider en Diseño, Fabricación y Comercialización de Señales, Señales Luminiscentes y Adhesivos Serigrafiados
-- Señal de advertencia de Zona Videovigilada, con pictograma y texto, incluida referencia al Reglamento (UE) 2016/679 de Protección de Datos
-- Fabricada en PVC Glasspack de 0,7 mm. de grosor y con tintas UV
 - Material de alta calidad y resistencia, apta tanto para interior como para exterior
+- Fabricada en PVC Glasspack de 0,7 mm. de grosor y con tintas UV
+- Especialmente indicado para señalizar zonas videovigiladas en comunidades de vecinos, parkings, controles de accesos, etc.
+- Normaluz: Empresa Lider en Diseño, Fabricación y Comercialización de Señales, Señales Luminiscentes y Adhesivos Serigrafiados
+- Las señales Normaluz se fabrican con Sistema de Gestión de Calidad certificada UNE-EN ISO 9001
+- Señal de advertencia de Zona Videovigilada, con pictograma y texto, incluida referencia al Reglamento (UE) 2016/679 de Protección de Datos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00L2IMTMQ/?tag=tolees-21)
