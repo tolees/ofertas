@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvg Pull On Legging Pantalon al 50.12 % de descuento'
-date: 2021-10-23 14:51:02
+date: 2021-11-05 14:12:15
 image: 'https://m.media-amazon.com/images/I/316fITLdc2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
