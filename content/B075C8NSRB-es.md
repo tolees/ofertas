@@ -28,9 +28,9 @@ En este momento está [VS Venta-stock Mesita de Noche Buda 2 Cajones  Color Robl
 
 🔎:
 
-- 2 Cajones con guía metálica para su fácil extracción / Color Blanco con detalle de sedigrafía con formas
 - Producto en kit de fácil montaje, se entrega con las instrucciones de montaje y sus correspondientes herramientas para su óptimo montaje.
 - MEDIDAS: 45 cm Ancho, 30 cm Profundo y 65 cm Alto
+- 2 Cajones con guía metálica para su fácil extracción / Color Blanco con detalle de sedigrafía con formas
 - Patas de diseño metálicas en color Negro mate
 - Fabricado con melamina en color Roble / Estilo nórdico y actual que le dará un toque de diseño a su hogar
 

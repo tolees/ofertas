@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA Liga Hooped Maillot  Hombre  Red/White  M](https://www.
 
 🔎:
 
-- Puños de tejido de color en contraste
 - Drycell: tecnología puma que absorbe la humedad y ayuda a mantenerte seco y cómodo
-- Corte recto
-- Cinta en la parte posterior del cuello
 - Cuello redondo
+- Cinta en la parte posterior del cuello
+- Corte recto
+- Puños de tejido de color en contraste
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077SPFNQS/?tag=tolees-21)

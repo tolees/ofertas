@@ -28,9 +28,9 @@ Tienes [Mini Kit  3 piezas  Twist & flex  MAPED Mini Kit  3 piezas  T&F twist  n
 
 🔎:
 
-- Flexible, Twist ´flex
 - Colores variados, surtidos.
 - regla 15 cm
 - Kit mini geometría en bolsa, 3 piezas
+- Flexible, Twist ´flex
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0029F4XZW/?tag=tolees-21)

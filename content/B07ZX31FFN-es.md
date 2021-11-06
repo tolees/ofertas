@@ -30,8 +30,8 @@ Está [Wuchen Alfombrilla para Perros 54 x 43 cm  Cama para Gatos  Manta Lavable
 
 - ✎ Relleno resistente: la alfombra para mascotas está llena de esponja de alta resistencia y no es fácil de deformar durante mucho tiempo.Podría acompañar a sus mascotas durante mucho tiempo, el uso en verano no es caluroso, el uso en primavera y otoño es muy cómodo.
 - ✎ Buena transpirabilidad: la buena transpirabilidad de esta cómoda cama tipo jaula para perros podría brindarles un buen descanso a sus mascotas. Mantener a sus mascotas en un estado que no sea bochornoso ni frío cuando duermen.
-- ✎ Base Antideslizante: El respaldo de la alfombra refrescante para mascotas con diseño antideslizante no es fácil de mover cuando las mascotas juegan. Y la base es a prueba de humedad y resistente al desgaste sin romperse fácilmente.
-- ✎ 4 Tamaños Disponibles: S: 45x35 cm, para mascotas inferior a 2,5 kg; M: 54x43 cm, para mascotas menos de 7,5 kg; L: 72x53 cm, para mascotas inferior a 12,5 kg; XL: 75x58 cm, para mascotas menos de 17,5 kg. La alfombra refrescante es adecuada para perros pequeños, medianos, gatos y cachorros.
 - ✎ Fácil de Limpiar: La alfombra refrescante para mascotas se puede lavar a máquina. Y puede limpiarlo con un paño húmedo para la limpieza diaria. Es perfecto para que las mascotas lo utilicen en climas cálidos, especialmente cuando están durmiendo.
+- ✎ 4 Tamaños Disponibles: S: 45x35 cm, para mascotas inferior a 2,5 kg; M: 54x43 cm, para mascotas menos de 7,5 kg; L: 72x53 cm, para mascotas inferior a 12,5 kg; XL: 75x58 cm, para mascotas menos de 17,5 kg. La alfombra refrescante es adecuada para perros pequeños, medianos, gatos y cachorros.
+- ✎ Base Antideslizante: El respaldo de la alfombra refrescante para mascotas con diseño antideslizante no es fácil de mover cuando las mascotas juegan. Y la base es a prueba de humedad y resistente al desgaste sin romperse fácilmente.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZX31FFN/?tag=tolees-21)

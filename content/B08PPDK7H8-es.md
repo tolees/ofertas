@@ -29,7 +29,7 @@ En este momento está [adidas Campus 80S  Sneaker Hombre  Collegiate Navy/Footwe
 🔎:
 
 - Zapatilla de 3 rayas
-- Suela de goma
 - La parte superior de cuero
+- Suela de goma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PPDK7H8/?tag=tolees-21)

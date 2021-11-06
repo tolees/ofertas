@@ -28,7 +28,7 @@ Tienes [Esprit Accessoires 999Ea1S803 Cinturón  Negro  Black 001   42 para Muje
 
 🔎:
 
-- Hebilla de diseño atractivo con la marca Esprit
 - Piel auténtica
+- Hebilla de diseño atractivo con la marca Esprit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KJW8T89/?tag=tolees-21)

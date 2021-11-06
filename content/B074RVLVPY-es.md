@@ -28,8 +28,8 @@ Tienes [Carolina herrera ch privee for her 80ml/2 7  oz eau de parfum women perf
 
 🔎:
 
-- Cuidarse y sentirse bien nunca había sido tan fácil.
 - CH PRIVÉE edp vapo 80 ml
+- Cuidarse y sentirse bien nunca había sido tan fácil.
 - Los mejores productos de higiene para tu día a día.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074RVLVPY/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Interbaby DU003-64 - Dudu Bear Rosa Palo  unisex](https:/
 
 🔎:
 
+- Medidas del dou dou: 28x17 cm
 - Dou dou Bear Rosa Palo – Dudu Bear Rosa Palo
 - Composición manta de apego: 100% poliéster
 - Manta de apego para que duerman bien los bebés
-- Medidas del dou dou: 28x17 cm
 - Dudu de tacto aterciopelado muy suave y agradable para el bebé.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XWZLRSP/?tag=tolees-21)

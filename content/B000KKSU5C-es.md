@@ -28,8 +28,8 @@ Tienes [Vans  Zapatillas Altas Unisex Adulto  Negro  Black/White   37 EU](https:
 
 ℹ️:
 
-- Ajuste : Corte Normal
 - Zapatillas || Ajuste normal || Color intenso || Materiales de larga duración
+- Ajuste : Corte Normal
 - Tu nuevo merchandising favorito
 - Deportivas Altas con las siguientes características:
 

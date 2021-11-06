@@ -28,8 +28,8 @@ Tienes [Vans Realm Backpack  Mochila Unisex Adulto  Brillo Dorado  Talla única]
 
 🔎:
 
-- Un gran compartimento principal
 - Tamaño: 42,5 x 32 x 12 cm
+- Un gran compartimento principal
 - Funda para portátil que se adapta a la mayoría de portátiles de 15 pulgadas
 - Bolsillo frontal con organizador
 - Capacidad: 22 litros
