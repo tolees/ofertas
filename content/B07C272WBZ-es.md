@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'JACK & JONES Jjipaul Jjflake AKM 542 Asp al 41.01 % de descuento'
-date: 2020-02-29 11:03:35
-image: 'https://m.media-amazon.com/images/I/31gLfuXsyVL._AC_._SL400_.jpg'
+title: 'Jack & Jones Jjipaul Jjflake AKM 542 Noo al 38.85 % de descuento'
+date: 2021-11-05 21:04:29
+image: 'https://m.media-amazon.com/images/I/31C-vJo4i8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07C272WBZ-es JACK & JONES Jjipaul Jjflake AKM 542 Asphalt Noos...'
+slug: 'B07C272WBZ-es Jack & Jones Jjipaul Jjflake AKM 542 Noos Pantalones Gris...'
 sku: 'B07C272WBZ-es'
-tags: [  ]
-actualPrice: 29.49 EUR
+tags: [ 'Pantalones para hombre','Ropa','Ropa para hombre','jack & jones', ]
+actualPrice: 30.57 EUR
 currency: EUR
-price: 29.49
+price: 30.57
 comparePrice: 49.99 EUR
-prodname: 'JACK & JONES Jjipaul Jjflake AKM 542 Asphalt Noos Pantalones  Gris  W31/L30  Talla del Fabricante: 31  para Hombre'
+prodname: 'Jack & Jones Jjipaul Jjflake AKM 542 Noos Pantalones  Gris  Asphalt Asphalt   W31/L30  Talla del Fabricante: 31  para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07C272WBZ/?tag=tolees-21'
-descuento: '41.01'
-average: '29.22'
+descuento: '38.85'
+average: '29.67'
 ---
 
-Ahora mismo tienes [JACK & JONES Jjipaul Jjflake AKM 542 Asphalt Noos Pantalones  Gris  W31/L30  Talla del Fabricante: 31  para Hombre](https://www.amazon.es/dp/B07C272WBZ/?tag=tolees-21) a 29.49 EUR (original: 49.99 EUR) (41.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Jack & Jones Jjipaul Jjflake AKM 542 Noos Pantalones  Gris  Asphalt Asphalt   W31/L30  Talla del Fabricante: 31  para Hombre](https://www.amazon.es/dp/B07C272WBZ/?tag=tolees-21) a 30.57 EUR (original: 49.99 EUR) (38.85 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES Jjipaul Jjflake AKM 542 Asp](https://m.media-amazon.com/images/I/31gLfuXsyVL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07C272WBZ/?tag=tolees-21)
+[![Jack & Jones Jjipaul Jjflake AKM 542 Noo](https://m.media-amazon.com/images/I/31C-vJo4i8L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07C272WBZ/?tag=tolees-21)
 
 🔎:
 
+- porcentaje de elastano
+- Algodón orgánico
+- Bolsillos en las piernas con cierre de botones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C272WBZ/?tag=tolees-21)
