@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Superga2754 Lamew - Zapatillas de Deport al 74.57 % de rebaja'
-date: 2021-10-15 14:26:16
+title: 'Superga2754 Lamew - Zapatillas de Deport al 76.96 % de rebaja'
+date: 2021-11-06 10:25:53
 image: 'https://m.media-amazon.com/images/I/51fo15nrz4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B01G8HN44C-es Superga2754 Lamew - Zapatillas de Deporte Mujer Gris Gris...'
 sku: 'B01G8HN44C-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','superga', ]
-actualPrice: 19.07 EUR
+actualPrice: 17.28 EUR
 currency: EUR
-price: 19.07
+price: 17.28
 comparePrice: 75.0 EUR
 prodname: 'Superga2754 Lamew - Zapatillas de Deporte Mujer   Gris  Gris  Gris 980    talla 38'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B01G8HN44C/?tag=tolees-21'
-descuento: '74.57'
-average: '26.21'
+descuento: '76.96'
+average: '22.47'
 ---
 
-Tienes [Superga2754 Lamew - Zapatillas de Deporte Mujer   Gris  Gris  Gris 980    talla 38](https://www.amazon.es/dp/B01G8HN44C/?tag=tolees-21) con precio final de  19.07 EUR (original: 75.0 EUR) (74.57 %  de rebaja) aqui!
+Tienes [Superga2754 Lamew - Zapatillas de Deporte Mujer   Gris  Gris  Gris 980    talla 38](https://www.amazon.es/dp/B01G8HN44C/?tag=tolees-21) con precio final de  17.28 EUR (original: 75.0 EUR) (76.96 %  de rebaja) aqui!
 
 [![Superga2754 Lamew - Zapatillas de Deport](https://m.media-amazon.com/images/I/51fo15nrz4L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01G8HN44C/?tag=tolees-21)
 
