@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Zestaw twist  n flex nielamliwa linijka  al 38.46 % de rebaja'
-date: 2020-02-14 20:59:52
-image: 'https://m.media-amazon.com/images/I/51JS10dfeDL._AC_._SL400_.jpg'
+title: 'Mini Kit  3 piezas  Twist & flex  MAPED  al 38.03 % de rebaja'
+date: 2021-11-06 13:10:24
+image: 'https://m.media-amazon.com/images/I/51JS10dfeDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0029F4XZW-es Zestaw twist n flex nielamliwa linijka 15 ekierka katomierz'
+slug: 'B0029F4XZW-es Mini Kit 3 piezas Twist & flex MAPED Mini Kit 3 piezas T&F...'
 sku: 'B0029F4XZW-es'
-tags: [  ]
-actualPrice: 1.44 EUR
+tags: [ 'Material escolar y educativo','Oficina y papelería','Recursos para el plan de estudios de matemáticas','Recursos para planes de estudio escolares','Sets de geometría','maped', ]
+actualPrice: 1.45 EUR
 currency: EUR
-price: 1.44
+price: 1.45
 comparePrice: 2.34 EUR
-prodname: 'Zestaw twist  n flex nielamliwa linijka 15 ekierka katomierz'
+prodname: 'Mini Kit  3 piezas  Twist & flex  MAPED Mini Kit  3 piezas  T&F twist  n flex'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Maped'
 buyurl: 'https://www.amazon.es/dp/B0029F4XZW/?tag=tolees-21'
-descuento: '38.46'
-average: '1.44'
+descuento: '38.03'
+average: '1.445'
 ---
 
-Tienes [Zestaw twist  n flex nielamliwa linijka 15 ekierka katomierz](https://www.amazon.es/dp/B0029F4XZW/?tag=tolees-21) con precio final de  1.44 EUR (original: 2.34 EUR) (38.46 %  de rebaja) aqui!
+Tienes [Mini Kit  3 piezas  Twist & flex  MAPED Mini Kit  3 piezas  T&F twist  n flex](https://www.amazon.es/dp/B0029F4XZW/?tag=tolees-21) con precio final de  1.45 EUR (original: 2.34 EUR) (38.03 %  de rebaja) aqui!
 
-[![Zestaw twist  n flex nielamliwa linijka ](https://m.media-amazon.com/images/I/51JS10dfeDL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0029F4XZW/?tag=tolees-21)
+[![Mini Kit  3 piezas  Twist & flex  MAPED ](https://m.media-amazon.com/images/I/51JS10dfeDL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0029F4XZW/?tag=tolees-21)
 
 🔎:
 
+- Flexible, Twist ´flex
+- Colores variados, surtidos.
+- regla 15 cm
+- Kit mini geometría en bolsa, 3 piezas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0029F4XZW/?tag=tolees-21)

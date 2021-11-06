@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich Sapporo Sky 26  Zapatillas Mujer  al 37.35 % de rebaja'
-date: 2021-10-16 12:03:41
+date: 2021-11-06 11:40:52
 image: 'https://m.media-amazon.com/images/I/413g9gp1tBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B08DP269PJ/?tag=tolees-21'
 descuento: '37.35'
-average: '54.585'
+average: '54.3057142857143'
 ---
 
 Tienes [Munich Sapporo Sky 26  Zapatillas Mujer  Negro  41 EU](https://www.amazon.es/dp/B08DP269PJ/?tag=tolees-21) con precio final de  52.63 EUR (original: 84.0 EUR) (37.35 %  de rebaja) aqui!
