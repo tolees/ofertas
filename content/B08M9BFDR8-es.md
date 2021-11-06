@@ -29,7 +29,7 @@ En este momento está [adidas QT Racer Sport  Sneaker Mujer  Chalk White/Cherry 
 🔎:
 
 - Cordones de zapatos
-- La parte superior del tejido
 - En forma normal.
+- La parte superior del tejido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08M9BFDR8/?tag=tolees-21)
