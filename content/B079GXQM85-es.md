@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.47 % en Converse Chuck Taylor All Star Lift - Hi'
-date: 2021-11-05 18:25:40
+date: 2021-11-06 20:22:15
 image: 'https://m.media-amazon.com/images/I/41a7-04RIgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B079GXQM85/?tag=tolees-21'
 descuento: '36.47'
-average: '73.7257142857143'
+average: '72.4106666666667'
 ---
 
 Tienes [Converse Chuck Taylor All Star Lift - Hi - Blanco/Negro/Blanco Canvas](https://www.amazon.es/dp/B079GXQM85/?tag=tolees-21) con un 36.47 % de descuento con precio de oferta de 54.0 EUR (original: 85.0 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [Converse Chuck Taylor All Star Lift - Hi - Blanco/Negro/Blanco Canvas](h
 
 ℹ️:
 
-- Número del fabricante: 560846C
 - Material: Canvas
-- Estilo: Sneaker High
+- Número del fabricante: 560846C
 - Color: blanco
+- Estilo: Sneaker High
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079GXQM85/?tag=tolees-21)
