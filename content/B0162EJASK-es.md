@@ -28,9 +28,9 @@ Ahora mismo tienes [APLI Kids - Craft kit Caballero](https://www.amazon.es/dp/B0
 
 🔎:
 
+- Un producto ideal para que los pequeños se diviertan creando y poder jugar después con el personaje o decorar su habitación
 - Pequeño kit de manualidades para crear un caballero a partir del material que se incluye dentro
 - Incluye una hoja con sencillas instrucciones paso a paso para realizar la actividad
-- Un producto ideal para que los pequeños se diviertan creando y poder jugar después con el personaje o decorar su habitación
 - Actividad lúdica con numerosos beneficios: reduce el estrés, aumenta la autoestima, mejora la memoria, desarrolla la flexibilidad y coordinación, y favorece el enriquecimiento personal
 - Actividad lúdica con numerosos beneficios: reduce el estrés, aumenta la autoestima, mejora la memoria, desarrolla la flexibilidad y coordinación, y favorece el enriquecimiento personal
 
