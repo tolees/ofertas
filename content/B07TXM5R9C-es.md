@@ -28,10 +28,10 @@ Tienes [Skechers Seager-Umpire  Mocasines Mujer  Black Flat Knit BBK  41 EU](htt
 
 🔎:
 
-- Shock absorbing flexible lightweight midsole.
-- Knit upper for nearly seamless flexible comfort. Stretch Fit design knit at collar and instep panel.
 - Heel panel overlay. Air-Cooled Memory Foam full length cushioned removable comfort insole.
 - Skech Knit Mesh nearly one piece soft fabric upper. Woven-in mesh designs with breathable and stabilizing knits.
+- Shock absorbing flexible lightweight midsole.
+- Knit upper for nearly seamless flexible comfort. Stretch Fit design knit at collar and instep panel.
 - Knit-in scalloped wavy design collar trim. Slip on casual comfort loafer design.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TXM5R9C/?tag=tolees-21)
