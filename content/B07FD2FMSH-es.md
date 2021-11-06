@@ -28,10 +28,10 @@ Ahora mismo tienes [MVMT Reloj Cronógrafo para Hombre de Cuarzo con Correa en A
 
 🔎:
 
-- Grosor de la caja de 11 mm / Diámetro de la caja: 42 mm
-- 10 ATM de resistencia al agua
-- Ancho de la correa: 21 mm
 - Movimiento de cuarzo Miyota
+- 10 ATM de resistencia al agua
+- Grosor de la caja de 11 mm / Diámetro de la caja: 42 mm
+- Ancho de la correa: 21 mm
 - Caja plateada en acero inoxidable cepillado y esfera negra
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FD2FMSH/?tag=tolees-21)
