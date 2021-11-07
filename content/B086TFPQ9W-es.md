@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 574 Pastel Pack  Zapatillas  al 47.78 % de rebaja'
-date: 2021-11-04 05:13:20
+date: 2021-11-07 05:14:41
 image: 'https://m.media-amazon.com/images/I/41wkgcJD16S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B086TFPQ9W/?tag=tolees-21'
 descuento: '47.78'
-average: '63.2445454545454'
+average: '62.6676923076923'
 ---
 
 Tienes [New Balance 574 Pastel Pack  Zapatillas Mujer  Logwood  36 EU](https://www.amazon.es/dp/B086TFPQ9W/?tag=tolees-21) con precio final de  47.0 EUR (original: 90.0 EUR) (47.78 %  de rebaja) aqui!
