@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mandriles Conversar 132173C AS OX clásic al 40.01 % de descuento'
-date: 2021-10-28 05:43:53
+date: 2021-11-07 07:06:47
 image: 'https://m.media-amazon.com/images/I/41FDINJUoEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B006M6AXTY/?tag=tolees-21'
 descuento: '40.01'
-average: '52.3528571428571'
+average: '51.8075'
 ---
 
 Está [Mandriles Conversar 132173C AS OX clásico Lea Blanca de Cuero Blanco  Converse Schuhe Unisex Sizegroup 10:37](https://www.amazon.es/dp/B006M6AXTY/?tag=tolees-21) con 40.01 de descuento por 47.99 EUR (original: 80.0 EUR) en el siguiente enlace!
