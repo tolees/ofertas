@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DC Shoes al 60.00 % de rebaja'
-date: 2021-11-07 19:26:58
+date: 2021-11-08 21:24:56
 image: 'https://m.media-amazon.com/images/I/41MMG7H17OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
