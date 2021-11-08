@@ -28,10 +28,10 @@ Ahora mismo tienes [Marca Amazon - Solimo Desodorante roll-on  perfume fresco de
 
 🔎:
 
-- Dermatológicamente testado
-- Formulado para minimizar las manchas blancas sobre la ropa
-- Fórmula suave para pieles sensibles . Dermatológicamente testado
 - No aplicar sobre la piel irritada o lesionada
+- Formulado para minimizar las manchas blancas sobre la ropa
+- Dermatológicamente testado
 - Fórmula suave para pieles sensibles
+- Fórmula suave para pieles sensibles . Dermatológicamente testado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZPG6TK2/?tag=tolees-21)

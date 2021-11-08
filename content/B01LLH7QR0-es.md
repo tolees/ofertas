@@ -29,10 +29,10 @@ Tienes [Teka | Placa Vitrocerámica | Modelo TZ6415 | 4 Zonas | Integrado Cerám
 ℹ️:
 
 - Touch control. Programador del tiempo de cocción
-- Sistema fácil instalación Fast-Click
+- 4 zonas (Ø145 mm + Ø145 mm + Ø180 mm + Ø210 mm)
 - Función cronómetro con avisador acústico
+- Sistema fácil instalación Fast-Click
 - Función golpe de cocción
 - Dimensiones Alto x Ancho x Profundo (cm): 6.3 x 60 x 51
-- 4 zonas (Ø145 mm + Ø145 mm + Ø180 mm + Ø210 mm)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LLH7QR0/?tag=tolees-21)

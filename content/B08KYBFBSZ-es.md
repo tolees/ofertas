@@ -28,10 +28,10 @@ En este momento está [Ledvance Smart+ WiFi Classic Multicolor Home  9 W  Transp
 
 🔎:
 
-- Consumo de energía 9 kWh/1000h y 806 lm
 - Volumen de suministro: 4 x Lámpara LED E27, 9 W, 230 V, RGBW, 2700-6500 K, Regulable, 100 % Libre de mercurio
+- Larga duración: hasta 15000 horas y hasta 100000 ciclos de encendido
+- Consumo de energía 9 kWh/1000h y 806 lm
 - Encendido instantáneo, no necesita tiempo de calentamiento
 - Menor disipación de calor (en comparación con el producto de referencia estándar)
-- Larga duración: hasta 15000 horas y hasta 100000 ciclos de encendido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KYBFBSZ/?tag=tolees-21)

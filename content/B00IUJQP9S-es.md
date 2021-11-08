@@ -28,10 +28,10 @@ Tienes [BERING Reloj Analógico Ceramic Collection para Hombre de Cuarzo con Cor
 
 🔎:
 
+- Ceramic Watch Collection , Cerámica de gran tecnología: gran resistencia a los arañazos, muy ligera, resistente al calor y antialérgica , Quartz
+- Resistente al agua hasta 5 ATM / 50 metros / 168 pies , resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
 - Caja: acero inoxidable de grado médico 316l / negro / 40 mm de diámetro / 10 mm de espesor
 - El cristal de zafiro es resistente a golpes y rayaduras
 - Correa: acero inoxidable de grado médico 316l / negro / 203 mm de largo / 24 mm de ancho
-- Ceramic Watch Collection , Cerámica de gran tecnología: gran resistencia a los arañazos, muy ligera, resistente al calor y antialérgica , Quartz
-- Resistente al agua hasta 5 ATM / 50 metros / 168 pies , resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00IUJQP9S/?tag=tolees-21)

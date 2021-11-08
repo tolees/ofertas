@@ -28,7 +28,7 @@ En este momento está [Jack & Jones Jjeunion Knit Crew Neck Noos suéter  Azul  
 
 🔎:
 
-- Knit crew neck
 - Knitted jumper
+- Knit crew neck
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JP5Y3LX/?tag=tolees-21)

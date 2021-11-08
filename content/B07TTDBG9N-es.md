@@ -28,8 +28,8 @@ Tienes [Superga 2750-COTCONTRASTU  Zapatillas de Gimnasia Unisex Adulto  Blanco 
 
 🔎:
 
-- Forro: tela
 - Material exterior: tela
+- Forro: tela
 - Material de la suela: caucho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TTDBG9N/?tag=tolees-21)
