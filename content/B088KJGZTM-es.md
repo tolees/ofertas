@@ -28,7 +28,7 @@ En este momento está [MERAKI Ra1151m Suéteres  Negro  L](https://www.amazon.es
 
 🔎:
 
-- Prenda confeccionada en algodón suave y resistente que proporciona un confort duradero
 - Una marca de Amazon
+- Prenda confeccionada en algodón suave y resistente que proporciona un confort duradero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088KJGZTM/?tag=tolees-21)
