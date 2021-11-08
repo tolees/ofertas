@@ -29,9 +29,9 @@ Tienes [Cecotec Freidora sin Aceite dietética Cecofry Compact Rapid Moon. con f
 ℹ️:
 
 - Freidora dietética que permite cocinar con una sola cucharada de aceite, consiguiendo resultados más sanos. Resultados excepcionales en todas las recetas gracias a la tecnología PerfectCook de aire caliente.
-- Incluye un completo recetario de cocina.
-- Recipiente de 1,5 litros de capacidad.
 - Dispone de termostato hasta 200 ºC. Tiempo ajustable de 0 a 30 minutos.
 - Incluye cestillo. Cocina hasta 400 gramos de patatas de una sola vez. Programable en tiempo y temperatura.
+- Incluye un completo recetario de cocina.
+- Recipiente de 1,5 litros de capacidad.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BLVFQ5N/?tag=tolees-21)

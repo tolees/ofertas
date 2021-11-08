@@ -28,10 +28,10 @@ Ahora mismo tienes [New Balance 574 Core  Zapatillas Hombre  Verde  Olive Night 
 
 🔎:
 
-- Nuevo y genuino
-- Zapatilla flexible, cómoda y ligera
-- Tecnología de entresuela ENCAP para una amortiguación suave y de apoyo
-- Aspecto y materiales de primera calidad
 - Logotipo N grande
+- Nuevo y genuino
+- Aspecto y materiales de primera calidad
+- Tecnología de entresuela ENCAP para una amortiguación suave y de apoyo
+- Zapatilla flexible, cómoda y ligera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XXBL1Y7/?tag=tolees-21)
