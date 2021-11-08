@@ -28,10 +28,10 @@ Tienes [Bourjois Always Fabulous Base de Maquillaje  Tono 420 - 30 ml](https://w
 
 🔎:
 
-- Alta cobertura con acabado aterciopelado
-- 24 horas de resistencia, a prueba de toda
-- Protege la piel (contiene vitamina E y SPF 20)
-- Proporciona máxima duración y comodidad
 - Hidratación todo el día gracias al ácido hialurónico de su fórmula
+- Proporciona máxima duración y comodidad
+- Alta cobertura con acabado aterciopelado
+- Protege la piel (contiene vitamina E y SPF 20)
+- 24 horas de resistencia, a prueba de toda
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07X69JJGS/?tag=tolees-21)

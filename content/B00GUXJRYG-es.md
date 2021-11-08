@@ -28,10 +28,10 @@ Tienes [Columbia Men’s Peakfreak Nomad Waterproof Shoes  Zapatillas Hombre  Ma
 
 ℹ️:
 
+- Material exterior: Cuero
 - Material de la suela: Goma
 - Revestimiento: Sintético
-- Material exterior: Cuero
-- Tipo de tacón: Plano
 - Cierre: Cordones
+- Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GUXJRYG/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [HyperX HX-HSCAS-BL/WW Cloud Alpha S – Casco para Gaming con tarjeta de 
 
 ℹ️:
 
+- Balance del chat y del juego
+- Controles deslizantes para ajustar los graves
+- Sonido envolvente 7.1 de HyperX con ajuste personalizado
 - Mezclador de control avanzado del audio
 - Controladores de doble cámara de hyperx
-- Controles deslizantes para ajustar los graves
-- Balance del chat y del juego
-- Sonido envolvente 7.1 de HyperX con ajuste personalizado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X6HDSDY/?tag=tolees-21)

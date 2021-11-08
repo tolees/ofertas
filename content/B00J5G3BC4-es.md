@@ -28,10 +28,10 @@ Tienes [Supradyn Energy Extra Multivitaminas para Deportistas con Vitaminas  Min
 
 🔎:
 
-- Multivitamínico especialmente indicado para personas con actividad física, que practican deporte de forma asidua y quieren mantener un óptimo rendimiento físico
 - Fórmula clínicamente testada con 13 vitaminas, vitaminas antioxidantes (vitaminas C y E), vitaminas que ayudan al metabolismo energético ( vitaminas B6 y B12), 9 minerales y Coenzima Q10
-- Supradyn Energy Extra es un complejo vitamínico especial para deportistas mayores de 14 años, que ayuda a mantener la energía y vitalidad en situaciones de mayor desgaste
+- Multivitamínico especialmente indicado para personas con actividad física, que practican deporte de forma asidua y quieren mantener un óptimo rendimiento físico
 - 1 comprimido al día en el desayuno a tomar durante al menos 6 semanas
 - Sin gluten, sin lactosa y sin efecto doping
+- Supradyn Energy Extra es un complejo vitamínico especial para deportistas mayores de 14 años, que ayuda a mantener la energía y vitalidad en situaciones de mayor desgaste
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00J5G3BC4/?tag=tolees-21)

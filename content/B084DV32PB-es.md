@@ -28,8 +28,8 @@ Ahora mismo tienes [Clarks Sillian2.0 Kae  Zapatillas Mujer  Gris  Light Grey   
 
 🔎:
 
-- Material interior: sintético
 - Material exterior: piel lisa
 - Suela: piel y goma
+- Material interior: sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084DV32PB/?tag=tolees-21)

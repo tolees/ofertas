@@ -29,9 +29,9 @@ En este momento está [PUMA Liga LS Jersey  Hombre  Azul  Peacoat/Team Power Blu
 🔎:
 
 - Puños de color en contraste en tejido de membrana
-- Apliques de tira de PUMA/Cinta en el dobladillo de la nuca
 - DryCELL: material altamente funcional que evacúa el sudor
-- Costura única sin sisa
 - Cuello redondo
+- Apliques de tira de PUMA/Cinta en el dobladillo de la nuca
+- Costura única sin sisa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077SHQVV3/?tag=tolees-21)

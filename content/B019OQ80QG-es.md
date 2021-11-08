@@ -28,10 +28,10 @@ Tienes [STABILO - Lápiz de color color  Estuche con 24 colores](https://www.ama
 
 ℹ️:
 
-- Gama de 24 colores
 - Calidad alemana
-- Cuerpo de madera
 - punta de 2,5mm
+- Gama de 24 colores
 - Ideal para el colegio
+- Cuerpo de madera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B019OQ80QG/?tag=tolees-21)

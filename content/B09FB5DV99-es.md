@@ -29,12 +29,12 @@ Tienes [Hisense CH6IN6BXBG Campana Decorativa 60 cm  Capacidad de Succión de 65
 🔎:
 
 - producto 1: Filtros lavables para una cocina más fresca
-- producto 1: Elimina todas las impurezas del aire con extracción hasta 650 m³/h
 - producto 2: Encimera - Gas - 3 Zonas
-- producto 1: Iluminación energéticamente eficiente, Luz led incorporada
 - producto 1: Simple de instalación, sin tener que instalar conductos para la extracción
+- producto 1: Elimina todas las impurezas del aire con extracción hasta 650 m³/h
+- producto 2: Control Mecánico
+- producto 1: Iluminación energéticamente eficiente, Luz led incorporada
 - producto 2: Quemadores de gas sobre placa de vidrio
 - producto 2: Rejillas de hierro fundido
-- producto 2: Control Mecánico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B09FB5DV99/?tag=tolees-21)

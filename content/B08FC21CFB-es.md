@@ -28,10 +28,10 @@ Está [Philips Water Solutions - Philips - AWP3754/10 - Sistema de Filtración d
 
 ℹ️:
 
-- INSTALACIÓN SENCILLA: una vez esté instalado el adaptador correcto, solo tendrás que colocar el filtro en el grifo y soltar; supersencillo, incluye 6 adaptadores; compatible con grifos standard
-- ECONOMICO Y ECOLOGICO: Agua más pura y de excelente sabor con un coste y un desperdicio muy inferior al del agua embotellada desechable. Cada cartucho evita el residuo de hasta 2.000 botellas de plástico (500 ml)
-- AGUA MÁS PURA Y DE EXCELENTE SABOR: al adoptar la innovadora fibra de carbono activo y la membrana de fibra hueca, el filtro x-guard ultra reduce eficazmente el cloro, el plomo, los pesticidas, los micro plásticos y las partículas hasta 0,1 micrones, además de filtrar hasta el 99,99 % de las bacterias
-- RECORDATORIO DE SUSTITUCIÓN DEL FILTRO: el indicador te recuerda cuándo debes sustituir el filtro para obtener los mejores resultados
 - COMODIDAD Y FUNCIONALIDAD: selector con 3 modos de flujo de agua entre los que seleccionar el modo agua filtrada es apta para cocinar o para beber, mientras que los modos de agua sin filtrar y modo ducha sin filtrar son adecuados para lavar los platos y para limpieza; rápido flujo de agua filtrada: 1,6l minuto
+- INSTALACIÓN SENCILLA: una vez esté instalado el adaptador correcto, solo tendrás que colocar el filtro en el grifo y soltar; supersencillo, incluye 6 adaptadores; compatible con grifos standard
+- RECORDATORIO DE SUSTITUCIÓN DEL FILTRO: el indicador te recuerda cuándo debes sustituir el filtro para obtener los mejores resultados
+- AGUA MÁS PURA Y DE EXCELENTE SABOR: al adoptar la innovadora fibra de carbono activo y la membrana de fibra hueca, el filtro x-guard ultra reduce eficazmente el cloro, el plomo, los pesticidas, los micro plásticos y las partículas hasta 0,1 micrones, además de filtrar hasta el 99,99 % de las bacterias
+- ECONOMICO Y ECOLOGICO: Agua más pura y de excelente sabor con un coste y un desperdicio muy inferior al del agua embotellada desechable. Cada cartucho evita el residuo de hasta 2.000 botellas de plástico (500 ml)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FC21CFB/?tag=tolees-21)
