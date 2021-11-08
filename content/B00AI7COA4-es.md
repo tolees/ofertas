@@ -28,11 +28,11 @@ Tienes [Rexona Maximum Protection Crema Antitranspirante Clean Scent 45 ml](http
 
 🔎:
 
+- 3 veces más eficaz que un antitranspirante básico.Proporciona 96 horas de protección duradera
+- Rexona Máxima Protección antitranspirante
 - Dermatológicamente testado para un uso diario
 - No es necesario volver a aplicar, incluso con sudoración intensa
 - Controla la sudoración excesiva y el mal olor
-- Rexona Máxima Protección antitranspirante
-- 3 veces más eficaz que un antitranspirante básico.Proporciona 96 horas de protección duradera
 - La aplicación del producto por la noche garantiza un resultado óptimo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00AI7COA4/?tag=tolees-21)

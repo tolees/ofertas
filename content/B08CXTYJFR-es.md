@@ -28,7 +28,7 @@ En este momento está [Lee Extreme Motion Straight Vaqueros  General  32W / 32L 
 
 🔎:
 
-- Tamaño del paquete: 3,99 x 39,5 x 31,5 cm
 - Estándar
+- Tamaño del paquete: 3,99 x 39,5 x 31,5 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXTYJFR/?tag=tolees-21)
