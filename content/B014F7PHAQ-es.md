@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Villeroy & Boch 11-7209-8130 Flauta para al 44.19 % de descuento'
-date: 2021-11-08 21:10:00
+date: 2021-11-09 21:31:05
 image: 'https://m.media-amazon.com/images/I/21ETyS7uSOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

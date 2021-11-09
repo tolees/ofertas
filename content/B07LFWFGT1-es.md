@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yacht Club Games - Shovel Knight: Treasu al 35.32 % de descuento'
-date: 2021-11-08 08:36:41
+date: 2021-11-09 21:33:21
 image: 'https://m.media-amazon.com/images/I/51isAdOFKLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Yacht Club Games'
 buyurl: 'https://www.amazon.es/dp/B07LFWFGT1/?tag=tolees-21'
 descuento: '35.32'
-average: '34.4254838709676'
+average: '34.2590624999999'
 ---
 
 Está [Yacht Club Games - Shovel Knight: Treasure Trove](https://www.amazon.es/dp/B07LFWFGT1/?tag=tolees-21) con 35.32 de descuento por 29.1 EUR (original: 44.99 EUR) en el siguiente enlace!
