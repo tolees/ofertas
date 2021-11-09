@@ -28,10 +28,10 @@ Ahora mismo tienes [Beurer FT 13 Termómetro Digital Flexible a Prueba de Agua c
 
 🔎:
 
-- Función de memoria: visualización del último valor medido para seguir la evolución de la temperatura de su cuerpo con facilidad
-- Alarma de fiebre: indicación de temperaturas normales y altas gracias a los indicadores LED: verde = todo está bien, rojo = alarma de fiebre. El termómetro también tiene una alarma sonora de 37.8 ° C
 - Práctico: equipado con una parada automática y con la visualización de la temperatura en la pantalla en ° C y ° F. El termómetro se puede limpiar fácilmente en agua o en una solución desinfectante
-- Seguro: para la paz y seguridad de su familia en casa, el termómetro Beurer FT 13 no contiene mercurio ni vidrio
+- Función de memoria: visualización del último valor medido para seguir la evolución de la temperatura de su cuerpo con facilidad
 - Flexible e impermeable: el dispositivo es impermeable y extraflexible, perfecto para la medición rectal, oral o axilar de su bebé o niño
+- Alarma de fiebre: indicación de temperaturas normales y altas gracias a los indicadores LED: verde = todo está bien, rojo = alarma de fiebre. El termómetro también tiene una alarma sonora de 37.8 ° C
+- Seguro: para la paz y seguridad de su familia en casa, el termómetro Beurer FT 13 no contiene mercurio ni vidrio
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01L7PPFAQ/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Koch Media - DCL Drone Championship Leag al 63.64 % de descuento'
-date: 2021-11-07 10:33:45
+title: 'Koch Media - DCL Drone Championship Leag al 78.07 % de descuento'
+date: 2021-11-09 08:38:29
 image: 'https://m.media-amazon.com/images/I/51qu-4GG3lS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07XDCGLJY-es Koch Media - DCL Drone Championship League'
 sku: 'B07XDCGLJY-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','koch media', ]
-actualPrice: 14.54 EUR
+actualPrice: 8.77 EUR
 currency: EUR
-price: 14.54
+price: 8.77
 comparePrice: 39.99 EUR
 prodname: 'Koch Media - DCL Drone Championship League'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B07XDCGLJY/?tag=tolees-21'
-descuento: '63.64'
-average: '22.0257142857143'
+descuento: '78.07'
+average: '20.36875'
 ---
 
-Ahora mismo tienes [Koch Media - DCL Drone Championship League](https://www.amazon.es/dp/B07XDCGLJY/?tag=tolees-21) a 14.54 EUR (original: 39.99 EUR) (63.64 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Koch Media - DCL Drone Championship League](https://www.amazon.es/dp/B07XDCGLJY/?tag=tolees-21) a 8.77 EUR (original: 39.99 EUR) (78.07 %  de descuento) en el siguiente enlace!
 
 [![Koch Media - DCL Drone Championship Leag](https://m.media-amazon.com/images/I/51qu-4GG3lS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07XDCGLJY/?tag=tolees-21)
 

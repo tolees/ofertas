@@ -30,8 +30,8 @@ En este momento está [oodji Ultra Mujer Vestido de Punto Entallado  Negro  ES 3
 
 - Ideal para crear un estilo casual para disfrutar de tu día a día u ocasiones especiales
 - Elegante vestido dividido en dos partes: una parte de arriba ajustada con mangas largas y una falda de delicados pliegues
-- Longitud: Mini
-- Longitud de vestido (talla M): 83,5cm
 - Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/65/90. Altura/peso: 175cm/52kg
+- Longitud de vestido (talla M): 83,5cm
+- Longitud: Mini
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0763BKNTC/?tag=tolees-21)
