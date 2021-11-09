@@ -28,7 +28,7 @@ Está [CAMPER Oruga  Sandalias para Mujer  Varios Modelos  38 EU](https://www.am
 
 ℹ️:
 
-- Ligera
 - Flexibilidad
+- Ligera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VD1PQTB/?tag=tolees-21)
