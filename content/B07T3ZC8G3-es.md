@@ -28,9 +28,9 @@ En este momento está [Armani Exchange 11 5 Ounces Cotton Vaqueros Slim  BLU  In
 
 🔎:
 
-- Marca: Armani
-- Modelo: 8NYJ51Y2AAZ
-- Articolo: Pantalone
 - Stagione: Primavera/Estate
+- Articolo: Pantalone
+- Modelo: 8NYJ51Y2AAZ
+- Marca: Armani
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T3ZC8G3/?tag=tolees-21)

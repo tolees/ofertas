@@ -28,8 +28,8 @@ En este momento está [Haribo Lagartones Super Caramelos de Goma - 1000 gr](http
 
 🔎:
 
-- Deliciosas piezas en forma de lagartones
-- Irresistible mix de sabores
 - Caramelos de goma
+- Irresistible mix de sabores
+- Deliciosas piezas en forma de lagartones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CP8PPAE/?tag=tolees-21)
