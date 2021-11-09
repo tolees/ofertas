@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.02 % en Columbia Woodburn II  Zapatillas Hombre '
-date: 2021-11-08 06:33:55
+date: 2021-11-09 11:25:14
 image: 'https://m.media-amazon.com/images/I/41Zdjm96bXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B00GUXJSMM/?tag=tolees-21'
 descuento: '52.02'
-average: '50.99'
+average: '49.9866666666667'
 ---
 
 Tienes [Columbia Woodburn II  Zapatillas Hombre  Marrón  Cordovan Cinnamon   42.5 EU](https://www.amazon.es/dp/B00GUXJSMM/?tag=tolees-21) con un 52.02 % de descuento con precio de oferta de 47.98 EUR (original: 99.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Columbia Woodburn II  Zapatillas Hombre  Marrón  Cordovan Cinnamon   42
 
 ℹ️:
 
-- Cierre: Cordones
 - Revestimiento: Sintético
-- Material exterior: Cuero
 - Material de la suela: Goma
+- Cierre: Cordones
 - Tipo de tacón: Plano
+- Material exterior: Cuero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GUXJSMM/?tag=tolees-21)
