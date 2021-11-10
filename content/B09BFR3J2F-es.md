@@ -29,10 +29,10 @@ Ahora mismo tienes [Acer Nitro 5 NC-AN517-41-R37U - Ordenador Portátil Gaming 1
 🔎:
 
 - Almacenamiento de 1TB SSD
-- Procesador AMD Ryzen 7 5800H
-- Pantalla de 17.3" FullHD
-- Sistema operativo: Windows 10 Home
-- Memoria RAM de 16GB
 - Tarjeta gráfica NVIDIA GeForce RTX 3070
+- Sistema operativo: Windows 10 Home
+- Procesador AMD Ryzen 7 5800H
+- Memoria RAM de 16GB
+- Pantalla de 17.3" FullHD
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B09BFR3J2F/?tag=tolees-21)

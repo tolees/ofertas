@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEDVANCE - ENDURA FLOOD 20W 830 DG  20W  al 36.02 % de descuento'
-date: 2021-11-09 07:09:53
+date: 2021-11-10 14:48:30
 image: 'https://m.media-amazon.com/images/I/41pgLO-HntS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [LEDVANCE - ENDURA FLOOD 20W 830 DG  20W  blanco cálido](htt
 
 🔎:
 
+- Inmediatamente plena luz, sin tiempo de calentamiento gracias al módulo LED integrado y de bajo consumo
+- Alimentación a través de un cable abierto de 1 metro
+- Carcasa de aluminio de óptima calidad
 - Tecnología LED más novedosa y sostenible, no incluye bombilla normal
 - El producto tiene la fuente de luz extraíble; estos productos pueden desmontarte para revisar de forma separada la fuente de luz contenida
-- Carcasa de aluminio de óptima calidad
-- Alimentación a través de un cable abierto de 1 metro
-- Inmediatamente plena luz, sin tiempo de calentamiento gracias al módulo LED integrado y de bajo consumo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TTRHKVS/?tag=tolees-21)

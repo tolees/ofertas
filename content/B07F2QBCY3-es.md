@@ -28,8 +28,8 @@ En este momento está [Helly Hansen HH Logo Crew Sudadera  Hombre  Gris  XL](htt
 
 🔎:
 
-- Canalé en el bajo y en las mangas
 - Cuello redondo
+- Canalé en el bajo y en las mangas
 - Logotipo de Helly Hansen en el pecho
 - Corte recto
 

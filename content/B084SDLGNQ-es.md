@@ -28,10 +28,10 @@ Tienes [Clementoni Ciencia y Juego - Clementoni-55354 - Planeta Tierra - juego c
 
 🔎:
 
-- Fabricado en italia
 - El manual ilustrado introducirá al niño en el mundo de la astronomía, con muchísima información y curiosidades que harán que el aprendizaje sea aún más divertido
-- Juguete en español
+- Fabricado en italia
 - Con un modelo para descubrir la rotación de la tierra alrededor del sol y planetas coloreados realistas
 - Embárcate en un viaje fascinante a través del sistema solar
+- Juguete en español
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084SDLGNQ/?tag=tolees-21)

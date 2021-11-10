@@ -28,10 +28,10 @@ En este momento está [Gloss ! Make up & accessoires - Rituals Set de Regalo Muj
 
 🔎:
 
-- MARCA FRANCESA: Referencia para estuches de regalo de belleza. Los productos cuentan con la asistencia de diseñadores internacionales calificados. Este producto está calificado (BSCI) Esta certificación internacional responde a un enfoque que tiende a mejorar las condiciones sociales de los trabajadores Los productos no son probados en animales.
+- REGALO SET DE BAÑO PERFUME DE CHOCOLATE: El chocolate es reconocido por sus múltiples virtudes. De hecho, tiene efectos positivos sobre el estrés, la inflamación, el estado de ánimo, la memoria y el sistema inmunológico.
+- IDEA DE REGALO ORIGINAL: Este set de baño hará las delicias de sus seres queridos. Es el regalo de cumpleaños perfecto para mujeres y mamás, regalo de belleza, regalo de Navidad, regalo del Día de la Madre y regalo del Día de San Valentín.
 - SET DE BAÑO: Con este set de cuidado y belleza, regálese un momento puro de relajación delicadamente perfumada.
 - CONTENIDO DE LA CAJA: Gel de ducha 270 ml +Exfoliante corporal 50 ml +Sales de baño 150 gr +Baño efervescente 50 gr +Sisal + guanteLoción corporal 50 ml
-- IDEA DE REGALO ORIGINAL: Este set de baño hará las delicias de sus seres queridos. Es el regalo de cumpleaños perfecto para mujeres y mamás, regalo de belleza, regalo de Navidad, regalo del Día de la Madre y regalo del Día de San Valentín.
-- REGALO SET DE BAÑO PERFUME DE CHOCOLATE: El chocolate es reconocido por sus múltiples virtudes. De hecho, tiene efectos positivos sobre el estrés, la inflamación, el estado de ánimo, la memoria y el sistema inmunológico.
+- MARCA FRANCESA: Referencia para estuches de regalo de belleza. Los productos cuentan con la asistencia de diseñadores internacionales calificados. Este producto está calificado (BSCI) Esta certificación internacional responde a un enfoque que tiende a mejorar las condiciones sociales de los trabajadores Los productos no son probados en animales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002C3CDAI/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Knorr - Caldo Pastilla Suave Carne 12P -   Pack de 6](https://www.amazon.
 
 ℹ️:
 
-- El paquete incluye 6 unidades
-- 30% menos de sal
-- Sin conservantes ni colorantes
 - Bajo en grasas
+- El paquete incluye 6 unidades
+- Sin conservantes ni colorantes
+- 30% menos de sal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MXVBF1J/?tag=tolees-21)
