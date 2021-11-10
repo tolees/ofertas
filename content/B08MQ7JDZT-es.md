@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Xiaomi Mi Router AX1800 WiFi 6 2.4GHz/5G al 40.42 % de descuento'
-date: 2021-11-07 15:03:50
+title: 'Xiaomi Mi Router AX1800 WiFi 6 2.4GHz/5G al 40.01 % de descuento'
+date: 2021-11-10 12:00:30
 image: 'https://m.media-amazon.com/images/I/21YSQptInwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08MQ7JDZT-es Xiaomi Mi Router AX1800 WiFi 6 2.4GHz/5GHz-1800 Mbps-Chip...'
 sku: 'B08MQ7JDZT-es'
 tags: [ 'Accesorios','Dispositivos de red','Informática','Routers','xiaomi', ]
-actualPrice: 41.7 EUR
+actualPrice: 41.99 EUR
 currency: EUR
-price: 41.7
+price: 41.99
 comparePrice: 69.99 EUR
 prodname: 'Xiaomi Mi Router AX1800 WiFi 6 2.4GHz/5GHz-1800 Mbps-Chip de 5 núcleos-4 antenas externas-Hasta 128 dispositivos-Mi Mesh'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08MQ7JDZT/?tag=tolees-21'
-descuento: '40.42'
-average: '44.6342553191489'
+descuento: '40.01'
+average: '44.5791666666666'
 ---
 
-Ahora mismo tienes [Xiaomi Mi Router AX1800 WiFi 6 2.4GHz/5GHz-1800 Mbps-Chip de 5 núcleos-4 antenas externas-Hasta 128 dispositivos-Mi Mesh](https://www.amazon.es/dp/B08MQ7JDZT/?tag=tolees-21) a 41.7 EUR (original: 69.99 EUR) (40.42 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Xiaomi Mi Router AX1800 WiFi 6 2.4GHz/5GHz-1800 Mbps-Chip de 5 núcleos-4 antenas externas-Hasta 128 dispositivos-Mi Mesh](https://www.amazon.es/dp/B08MQ7JDZT/?tag=tolees-21) a 41.99 EUR (original: 69.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
 [![Xiaomi Mi Router AX1800 WiFi 6 2.4GHz/5G](https://m.media-amazon.com/images/I/21YSQptInwS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08MQ7JDZT/?tag=tolees-21)
 

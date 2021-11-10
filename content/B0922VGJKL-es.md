@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Raya y el último dragón [DVD] al 43.89 % de descuento'
-date: 2021-11-09 06:14:30
+date: 2021-11-10 12:26:58
 image: 'https://m.media-amazon.com/images/I/51u9Zm1a4IS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B0922VGJKL/?tag=tolees-21'
 descuento: '43.89'
-average: '10.0025925925925'
+average: '9.96499999999991'
 ---
 
 Ahora mismo tienes [Disney - Raya y el último dragón [DVD]](https://www.amazon.es/dp/B0922VGJKL/?tag=tolees-21) a 8.95 EUR (original: 15.95 EUR) (43.89 %  de descuento) en el siguiente enlace!

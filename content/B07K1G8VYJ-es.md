@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Continental 80  Sneaker Hombre  B con un 45.60 % de descuento'
-date: 2021-10-30 11:42:40
+date: 2021-11-10 11:31:25
 image: 'https://m.media-amazon.com/images/I/41R4HevGXpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07K1G8VYJ/?tag=tolees-21'
 descuento: '45.60'
-average: '50.7964'
+average: '50.935'
 ---
 
 En este momento está [adidas Continental 80  Sneaker Hombre  Blanco FTWR White Scarlet Collegiate Navy FTWR White Scarlet Collegiate Navy  36 2/3 EU](https://www.amazon.es/dp/B07K1G8VYJ/?tag=tolees-21) a 54.4 EUR (original: 100.0 EUR) (45.60 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [adidas Continental 80  Sneaker Hombre  Blanco FTWR White 
 
 🔎:
 
-- Suela de goma
 - Cordones de zapatos
+- Suela de goma
 - Corte regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K1G8VYJ/?tag=tolees-21)

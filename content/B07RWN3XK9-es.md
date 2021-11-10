@@ -29,9 +29,9 @@ Tienes [BERING Reloj Analógico Classic Collection para Mujer de Cuarzo con Corr
 🔎:
 
 - El cristal de zafiro es resistente a golpes y rayaduras
-- Resistente al agua hasta 5 ATM/50 metros/168 pies | Resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
 - Caja: acero inoxidable de grado médico (316l)/oro rosa/26 mm de diámetro/6 mm de espesor
 - Classic Watch Collection; Clásico, purista y, sin embargo, emocionante: inspirado en el diseño danés; Quartz
 - Correa: acero inoxidable de grado médico (316l)/rojo/185 mm de largo/14 mm de ancho
+- Resistente al agua hasta 5 ATM/50 metros/168 pies | Resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RWN3XK9/?tag=tolees-21)

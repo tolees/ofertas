@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Knorr - Caldo Pastilla Suave Carne 12P - al 55.56 % de descuento'
-date: 2021-11-09 01:14:07
+date: 2021-11-10 12:57:03
 image: 'https://m.media-amazon.com/images/I/41zPfvZo2gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Knorr - Caldo Pastilla Suave Carne 12P -   Pack de 6](https://www.amazon.
 
 ℹ️:
 
-- Bajo en grasas
-- Sin conservantes ni colorantes
-- 30% menos de sal
 - El paquete incluye 6 unidades
+- 30% menos de sal
+- Sin conservantes ni colorantes
+- Bajo en grasas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MXVBF1J/?tag=tolees-21)
