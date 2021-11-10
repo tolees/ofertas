@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEDVANCE Lámpara LED inteligente con tec al 50.03 % de descuento'
-date: 2021-11-09 07:09:58
+date: 2021-11-10 08:10:31
 image: 'https://m.media-amazon.com/images/I/41nYcWCRBqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [LEDVANCE Lámpara LED inteligente con tecnología WiFi  ench
 
 🔎:
 
-- Consumo de energía 14 kWh/1000h y 1521 lm
-- Volumen de suministro: 4 x Lámpara LED E27, 14 W, 230 V, RGBW, 2700.6500 K, Regulable, 100 % Libre de mercurio
 - Encendido instantáneo, no necesita tiempo de calentamiento
-- Menor disipación de calor (en comparación con el producto de referencia estándar)
 - Larga duración: hasta 20000 horas y hasta 100000 ciclos de encendido
+- Volumen de suministro: 4 x Lámpara LED E27, 14 W, 230 V, RGBW, 2700.6500 K, Regulable, 100 % Libre de mercurio
+- Consumo de energía 14 kWh/1000h y 1521 lm
+- Menor disipación de calor (en comparación con el producto de referencia estándar)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KYB2HDC/?tag=tolees-21)
