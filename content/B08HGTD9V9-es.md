@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Newskill Nemesis V2 Alfombrilla Gaming R al 40.07 % de rebaja'
-date: 2021-11-08 10:08:45
+date: 2021-11-10 20:24:00
 image: 'https://m.media-amazon.com/images/I/31vk4tTIMbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Newskill Nemesis V2 Alfombrilla Gaming RGB con Base de Goma Natural y Su
 
 🔎:
 
+- Superficie constituida por microfibras
 - Diseño exclusivo para un tamaño extragrande
 - Retroiluminación RGB
-- Software personalizable con 16,9 millones de colores
-- Superficie constituida por microfibras
 - Base de goma natural para un agarre perfecto
+- Software personalizable con 16,9 millones de colores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HGTD9V9/?tag=tolees-21)
