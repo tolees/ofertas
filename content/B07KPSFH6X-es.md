@@ -28,10 +28,10 @@ Está [Funko- Pop Deluxe: Game of S10: Cersei Lannister Sitting on Iron Throne F
 
 ℹ️:
 
+- Funko pop deluxe
 - Game of thrones s10
+- Juguete del año 2018
 - Cersei Lannister Sitting on Iron Throne
 - De la colección game of thrones, cersei lannister como figura exclusiva de vinilo pop deluxe de funko
-- Funko pop deluxe
-- Juguete del año 2018
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KPSFH6X/?tag=tolees-21)

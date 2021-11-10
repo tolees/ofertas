@@ -29,9 +29,9 @@ Ahora mismo tienes [LEDVANCE - ENDURA FLOOD 20W 830 DG  20W  blanco cálido](htt
 🔎:
 
 - Inmediatamente plena luz, sin tiempo de calentamiento gracias al módulo LED integrado y de bajo consumo
-- Alimentación a través de un cable abierto de 1 metro
 - Carcasa de aluminio de óptima calidad
-- Tecnología LED más novedosa y sostenible, no incluye bombilla normal
+- Alimentación a través de un cable abierto de 1 metro
 - El producto tiene la fuente de luz extraíble; estos productos pueden desmontarte para revisar de forma separada la fuente de luz contenida
+- Tecnología LED más novedosa y sostenible, no incluye bombilla normal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TTRHKVS/?tag=tolees-21)

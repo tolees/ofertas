@@ -28,10 +28,10 @@ En este momento está [kwmobile Lámpara puzzle DIY 30 piezas - Lámpara de tech
 
 🔎:
 
-- INFANTIL: También ofrecemos un diseño especial para el cuarto de los niños, descúbrelo.
 - HAZLO TÚ MISMO: Fácil de montar e instalar, como un rompecabezas con paciencia y sin herramientas tendrás una luz original. La lámpara es combinable con el cable de luz (vendido por separado) para colgarla como una lámpara de araña.
-- LUZ: La iluminación y el brillo dependerán del tipo de bombilla (no incluida). Para que se vea como en la imágenes recomendamos una bombilla blanca cálida, pero puedes poner bombillas de colores para darle un toque moderno.
+- INFANTIL: También ofrecemos un diseño especial para el cuarto de los niños, descúbrelo.
 - ESPACIO: La pantalla con forma de bola se puede colgar del techo, colocar sobre una mesa o ponerla en el suelo del jardín. Su estilo hará de cada habitación de la casa un lugar acogedor y cálido.
 - INSPIRACIÓN: Con las 30 piezas podrás construir hasta 15 diseños de lámpara diferentes, con distintas formas y tamaños. Puedes inspirarte con el manual de instrucciones (inglés/alemán) o con vídeos de YouTube.
+- LUZ: La iluminación y el brillo dependerán del tipo de bombilla (no incluida). Para que se vea como en la imágenes recomendamos una bombilla blanca cálida, pero puedes poner bombillas de colores para darle un toque moderno.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071CD98WG/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Pepe Jeans Eggo Long  Top de Manga Larga Para Hombre  Negro  Black 999  
 
 🔎:
 
+- Tiene estampado en el pecho la marca Pepe Jeans
 - Fabricada en tejido suave que ofrece comodidad
 - Camiseta básica para hombre
-- Tiene estampado en el pecho la marca Pepe Jeans
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00DJ81IR4/?tag=tolees-21)

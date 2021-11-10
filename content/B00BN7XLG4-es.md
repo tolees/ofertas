@@ -29,9 +29,9 @@ Tienes [JOHNSON/JOHNSON - Oraldine Antiséptico  Colutorio De Uso Diario Con Dob
 🔎:
 
 - Anti-placa; evita la formación de placa bacteriana
-- Colutorio de uso diario con doble poder antiséptico, para tratar y prevenir problemas bucales
-- Anti-gingivitis y anti-periodontitis; previene el sangrado y la inflamación de las encías
 - Anti-halitosis; previene y elimina el mal aliento
 - Protección bucal activa con hexetidina, que elimina las bacterias dañinas y te protege durante horas
+- Colutorio de uso diario con doble poder antiséptico, para tratar y prevenir problemas bucales
+- Anti-gingivitis y anti-periodontitis; previene el sangrado y la inflamación de las encías
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00BN7XLG4/?tag=tolees-21)

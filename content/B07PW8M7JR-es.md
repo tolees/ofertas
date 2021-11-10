@@ -28,10 +28,10 @@ Ahora mismo tienes [Pata Negra - Lote de 6 Botellas con D.O  Pack de 6 x 750 ml]
 
 🔎:
 
-- Óptimo para regalar o disfrutar en casa. Experimenta sabores y aromas combinando la cata con diferentes platos
-- Surtido completo que abarca vinos tintos y blancos con distintos tonos, aromas y sabores
 - Incluye Pata Negra Apasionado, Ribera del Duero Roble, Rioja Crianza, Toro Roble, Valdepeñas Crianza y Verdejo Rueda
+- Surtido completo que abarca vinos tintos y blancos con distintos tonos, aromas y sabores
 - Elaborados a partir de las mejores variedades de uvas, siguiendo procesos de vinificación controlados
 - Selección de vinos Pata Negra con Denominaciones de Origen
+- Óptimo para regalar o disfrutar en casa. Experimenta sabores y aromas combinando la cata con diferentes platos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PW8M7JR/?tag=tolees-21)
