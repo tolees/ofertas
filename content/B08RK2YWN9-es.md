@@ -29,7 +29,7 @@ Tienes [Adidas GK3491 CNXT21 TRN Recreational Soccer Ball Mens Top:White/Black/S
 🔎:
 
 - Balón de fútbol
-- Material duradero
 - Debe estar inflado
+- Material duradero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08RK2YWN9/?tag=tolees-21)
