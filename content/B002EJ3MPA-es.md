@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mannesmann - M 130-12 - Juego de llaves  con un 35.62 % de descuento'
-date: 2021-11-04 08:45:19
+date: 2021-11-10 22:48:32
 image: 'https://m.media-amazon.com/images/I/41-MZQq3qYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
