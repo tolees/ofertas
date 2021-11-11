@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Hammerhead True Wireless Pro Auric al 50.01 % de rebaja'
-date: 2021-11-08 11:46:52
+date: 2021-11-11 10:33:36
 image: 'https://m.media-amazon.com/images/I/41zSIbCL6NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Razer Hammerhead True Wireless Pro Auriculares Earbuds Inalámbricos](ht
 
 🔎:
 
+- Dimensiones del paquete: 2.6 L x 12.7 H x 10.6 W (centimeters)
 - Tres tamaños de punta de silicona para combinar todos los tamaños de oreja cómodamente
 - Marco de aluminio y cables sin enredos para una durabilidad duradera
 - Tecnología de controlador dual para un potente audio de rango completo
-- Dimensiones del paquete: 2.6 L x 12.7 H x 10.6 W (centimeters)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085JHBL34/?tag=tolees-21)
