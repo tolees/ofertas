@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional GWS 880 - Amoladora a al 44.17 % de descuento'
-date: 2021-11-08 17:20:14
+date: 2021-11-11 23:46:08
 image: 'https://m.media-amazon.com/images/I/41gsdgiPs3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch'
 buyurl: 'https://www.amazon.es/dp/B07BRS1KXS/?tag=tolees-21'
 descuento: '44.17'
-average: '58.7855555555556'
+average: '57.906'
 ---
 
 Está [Bosch Professional GWS 880 - Amoladora angular  800 W  11000 rpm  Ø disco 115 mm  protección contra rearranque  en caja ](https://www.amazon.es/dp/B07BRS1KXS/?tag=tolees-21) con 44.17 de descuento por 49.99 EUR (original: 89.54 EUR) en el siguiente enlace!
@@ -31,7 +31,7 @@ Está [Bosch Professional GWS 880 - Amoladora angular  800 W  11000 rpm  Ø disc
 - Control óptimo de la herramienta gracias al perímetro reducido de la empuñadura y al diseño ergonómico
 - Incluye: GWS 880, en caja
 - El diseño robusto garantiza una larga vida útil de la amoladora angular
-- Fácil de usar en espacios reducidos gracias a la carcasa compacta del engranaje
 - Amoladora angular GWS 880 de Bosch Professional con 880 W de potencia y un diámetro de disco de 125 mm
+- Fácil de usar en espacios reducidos gracias a la carcasa compacta del engranaje
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BRS1KXS/?tag=tolees-21)
