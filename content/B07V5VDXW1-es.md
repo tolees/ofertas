@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Huntsman Tournament Edition - Tecl al 47.34 % de descuento'
-date: 2021-11-09 11:21:36
+date: 2021-11-13 20:43:59
 image: 'https://m.media-amazon.com/images/I/31u77HgxlYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Razer'
 buyurl: 'https://www.amazon.es/dp/B07V5VDXW1/?tag=tolees-21'
 descuento: '47.34'
-average: '99.0905263157893'
+average: '98.0854999999998'
 ---
 
 Está [Razer Huntsman Tournament Edition - Teclado con teclas opto-mecánicas  accionamiento óptico  barra estabilizadora de teclas  durabilidad inigualable  Synapse 3 - EU Layout  Negro](https://www.amazon.es/dp/B07V5VDXW1/?tag=tolees-21) con 47.34 de descuento por 78.99 EUR (original: 149.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Razer Huntsman Tournament Edition - Teclado con teclas opto-mecánicas  a
 
 ℹ️:
 
+- Diseño compacto para mayor comodidad y movilidad
+- Memoria integrada para llevar tus ajustes a todas partes
 - Switches ópticos lineales Razer para unas pulsaciones más rápidas y sensibles
 - Cable tipo C desmontable para instalar y guardar tu teclado fácilmente
-- Memoria integrada para llevar tus ajustes a todas partes
 - Teclas de PBT de doble inyección para un acabado robusto y con textura mate
-- Diseño compacto para mayor comodidad y movilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V5VDXW1/?tag=tolees-21)

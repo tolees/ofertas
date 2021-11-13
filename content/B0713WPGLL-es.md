@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Western Digital - WD Elements - Disco du con un 40.78 % de descuento'
-date: 2021-11-08 14:56:14
+title: 'Western Digital - WD Elements - Disco du con un 40.75 % de descuento'
+date: 2021-11-13 21:16:47
 image: 'https://m.media-amazon.com/images/I/31h2rp12GjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B0713WPGLL-es Western Digital - WD Elements - Disco duro externo...'
 sku: 'B0713WPGLL-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Informática','western digital', ]
-actualPrice: 92.37 EUR
+actualPrice: 92.43 EUR
 currency: EUR
-price: 92.37
+price: 92.43
 comparePrice: 155.99 EUR
 prodname: 'Western Digital - WD Elements - Disco duro externo portátil de 4 TB con USB 3.0  color negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B0713WPGLL/?tag=tolees-21'
-descuento: '40.78'
-average: '95.4683582089552'
+descuento: '40.75'
+average: '95.4458518518518'
 ---
 
-En este momento está [Western Digital - WD Elements - Disco duro externo portátil de 4 TB con USB 3.0  color negro](https://www.amazon.es/dp/B0713WPGLL/?tag=tolees-21) a 92.37 EUR (original: 155.99 EUR) (40.78 %  de descuento) en el siguiente enlace!
+En este momento está [Western Digital - WD Elements - Disco duro externo portátil de 4 TB con USB 3.0  color negro](https://www.amazon.es/dp/B0713WPGLL/?tag=tolees-21) a 92.43 EUR (original: 155.99 EUR) (40.75 %  de descuento) en el siguiente enlace!
 
 [![Western Digital - WD Elements - Disco du](https://m.media-amazon.com/images/I/31h2rp12GjL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0713WPGLL/?tag=tolees-21)
 
