@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas GT6638 SQ21 SW Top Sweatshirt Men al 38.00 % de rebaja'
-date: 2021-11-12 12:33:32
+date: 2021-11-13 18:46:26
 image: 'https://m.media-amazon.com/images/I/41NAvyRi-eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [adidas GT6638 SQ21 SW Top Sweatshirt Mens Black S](https://www.amazon.es
 
 🔎:
 
-- Felpa 70% Algodón, 30% Poliéster Reciclado
-- Puños y dobladillo de canalé
-- Las icónicas 3 rayas en los lados le dan un aspecto deportivo
 - Cuello redondo
+- Felpa 70% Algodón, 30% Poliéster Reciclado
+- Las icónicas 3 rayas en los lados le dan un aspecto deportivo
+- Puños y dobladillo de canalé
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VRD5B4Z/?tag=tolees-21)

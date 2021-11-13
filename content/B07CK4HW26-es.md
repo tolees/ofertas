@@ -1,32 +1,38 @@
 ---
 layout: post
-title: 'Nike Perfume Nike Woman Pink Edt 30 mili al 69.21 % de descuento'
-date: 2020-03-17 13:46:20
-image: 'https://m.media-amazon.com/images/I/41L+O-1mEfL._SL400_.jpg'
+title: 'Nike Pink  Eau de Toilette para Mujer  3 al 37.74 % de descuento'
+date: 2021-11-13 19:49:38
+image: 'https://m.media-amazon.com/images/I/31Yq2LoipJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07CK4HW26-es Nike Perfume Nike Woman Pink Edt 30 mililitros - 30 ml'
+slug: 'B07CK4HW26-es Nike Pink Eau de Toilette para Mujer 30 ml'
 sku: 'B07CK4HW26-es'
-tags: [  ]
-actualPrice: 2.9 EUR
+tags: [ 'Agua de tocador para mujeres','Belleza','Fragancias para mujeres','Perfumes y fragancias','nike', ]
+actualPrice: 4.95 EUR
 currency: EUR
-price: 2.9
-comparePrice: 9.42 EUR
-prodname: 'Nike Perfume Nike Woman Pink Edt 30 mililitros - 30 ml'
+price: 4.95
+comparePrice: 7.95 EUR
+prodname: 'Nike Pink  Eau de Toilette para Mujer  30 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07CK4HW26/?tag=tolees-21'
-descuento: '69.21'
-average: '2.9'
+descuento: '37.74'
+average: '3.925'
 ---
 
-Está [Nike Perfume Nike Woman Pink Edt 30 mililitros - 30 ml](https://www.amazon.es/dp/B07CK4HW26/?tag=tolees-21) con 69.21 de descuento por 2.9 EUR (original: 9.42 EUR) en el siguiente enlace!
+Está [Nike Pink  Eau de Toilette para Mujer  30 ml](https://www.amazon.es/dp/B07CK4HW26/?tag=tolees-21) con 37.74 de descuento por 4.95 EUR (original: 7.95 EUR) en el siguiente enlace!
 
-[![Nike Perfume Nike Woman Pink Edt 30 mili](https://m.media-amazon.com/images/I/41L+O-1mEfL._SL400_.jpg)](https://www.amazon.es/dp/B07CK4HW26/?tag=tolees-21)
+[![Nike Pink  Eau de Toilette para Mujer  3](https://m.media-amazon.com/images/I/31Yq2LoipJL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07CK4HW26/?tag=tolees-21)
 
 ℹ️:
 
+- Se presenta en un bonito envase de cristal con pulverizador
+- Con tendencia olfativa Floral, un aroma delicioso y sutil perfecto para el día a día
+- Notas de salida: fresia, peonía, lichi; Notas de corazón: rosa, lirios del valle, magnolia; Notas de fondo: madera de cedro, almizcle blanco y ámbar
+- Agua de colonia Pink de la línea Colors en formato de 30 ml para mujer
+- Agua de colonia Pink de la línea Colors en formato de 30 ml para mujer
+- Se presenta en un bonito envase de cristal con pulverizador
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CK4HW26/?tag=tolees-21)
