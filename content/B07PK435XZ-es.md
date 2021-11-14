@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.08 % en Newskill Ratón Gaming atreo con Sensor ó'
-date: 2021-11-11 16:21:19
+date: 2021-11-14 15:01:33
 image: 'https://m.media-amazon.com/images/I/31Vh7TGgNLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Newskill Ratón Gaming atreo con Sensor óptico  6200 dpi  botón Latera
 
 ℹ️:
 
-- Ciclo de vida de clics de hasta 20 millones
 - Iluminación rgb (software incluido)
 - Aceleración máxima de 30 g
-- Hasta 6200 dpi
 - Velocidad máxima 220 ips
+- Hasta 6200 dpi
+- Ciclo de vida de clics de hasta 20 millones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PK435XZ/?tag=tolees-21)

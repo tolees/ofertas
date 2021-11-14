@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional 06112A4000 Martillo p con un 51.10 % de descuento'
-date: 2021-11-10 07:12:42
+date: 2021-11-14 15:56:48
 image: 'https://m.media-amazon.com/images/I/313es2kKVWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.es/dp/B01M07Y8IR/?tag=tolees-21'
 descuento: '51.10'
-average: '163.064999999999'
+average: '161.44238095238'
 ---
 
 En este momento está [Bosch Professional 06112A4000 Martillo perforador  Mandril de Cambio SDS-Plus  energía de Impacto 2 7 J  en maletín  830 W  240 V  Azul  44.6 x 36 x 11.6 cm](https://www.amazon.es/dp/B01M07Y8IR/?tag=tolees-21) a 128.99 EUR (original: 263.78 EUR) (51.10 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Bosch Professional 06112A4000 Martillo perforador  Mandri
 
 🔎:
 
-- Múltiples posibilidades de aplicación gracias a la parada de giro para trabajos de cincelado y a la regulación electrónica de la velocidad para un trabajo limpio
-- Incluye: GBH 2-26 F, empuñadura adicional, tope de profundidad, paño para la máquina, portabrocas de cambio rápido, portabrocas intercambiable SDS plus, maletín (3165140859202)
-- Alto rendimiento de cincelado gracias al potente motor de 830 W y una energía de impacto de 2,7 J
 - Portabrocas SDS plus, Ø de perforación máx. de hasta 26 mm en hormigón y de hasta 68 mm en hormigón con coronas perforadoras huecas
+- Incluye: GBH 2-26 F, empuñadura adicional, tope de profundidad, paño para la máquina, portabrocas de cambio rápido, portabrocas intercambiable SDS plus, maletín (3165140859202)
 - Martillo perforador GBH 2-26 F de Bosch Professional: herramienta rápida y versátil para el uso diario en la obra
+- Alto rendimiento de cincelado gracias al potente motor de 830 W y una energía de impacto de 2,7 J
+- Múltiples posibilidades de aplicación gracias a la parada de giro para trabajos de cincelado y a la regulación electrónica de la velocidad para un trabajo limpio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M07Y8IR/?tag=tolees-21)
