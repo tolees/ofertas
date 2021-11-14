@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional Medidor láser de dist al 50.00 % de descuento'
-date: 2021-11-11 09:24:24
+date: 2021-11-14 16:44:07
 image: 'https://m.media-amazon.com/images/I/41ruQeoQkzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.es/dp/B013WAPAM2/?tag=tolees-21'
 descuento: '50.00'
-average: '109.0915'
+average: '107.94380952381'
 ---
 
 Ahora mismo tienes [Bosch Professional Medidor láser de distancia GLM 50 C  transmisión de datos Bluetooth  sensor de inclinación de 360 de grade  distancia hasta 50 m  2 pilas de 1.5 V  funda](https://www.amazon.es/dp/B013WAPAM2/?tag=tolees-21) a 84.99 EUR (original: 169.99 EUR) (50.00 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [Bosch Professional Medidor láser de distancia GLM 50 C  tra
 🔎:
 
 - USO PROFESIONAL Medidor láser con Bluetooth, función de marcado y sensor de inclinación de 360 grados para una fácil medición de los ángulos
-- INCLUYE medidor láser de distancia GLM 50 C de Bosch Professional, 2 pilas de 1.5 V LR03 (AAA), funda
-- CONECTIVIDAD, APLICACIÓN MEASUREON Documentación sencilla al instante de planos, mediciones, fotografías y notas con acceso a los proyectos en la nube desde cualquier dispositivo
 - DATOS TÉCNICOS IP 54, máx. distancia de medición de hasta 50 m, clase de láser 2, exactitud de la medición ± 1.5 mm y ± 0.2 grados, transmisión de datos por Bluetooth
 - DISPLAY INTUITIVO Pantalla en color iluminada con orientación automática y resumen de todas las funciones del medidor de distancia
+- INCLUYE medidor láser de distancia GLM 50 C de Bosch Professional, 2 pilas de 1.5 V LR03 (AAA), funda
+- CONECTIVIDAD, APLICACIÓN MEASUREON Documentación sencilla al instante de planos, mediciones, fotografías y notas con acceso a los proyectos en la nube desde cualquier dispositivo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B013WAPAM2/?tag=tolees-21)
