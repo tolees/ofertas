@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s New Original Crew Sudadera  dress al 35.38 % de descuento'
-date: 2021-11-03 16:19:05
+date: 2021-11-15 21:38:22
 image: 'https://m.media-amazon.com/images/I/315D3GnidXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
