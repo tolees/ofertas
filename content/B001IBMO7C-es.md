@@ -28,10 +28,10 @@ Ahora mismo tienes [Bosch DIY Accessories - Bosch Set mixto Mini-X-Line con 15 u
 
 🔎:
 
-- Set mixto Mini-X-Line adecuado para aplicaciones variadas en madera, piedra y metal
+- Brocas compatibles con todos los taladros con guiado a mano y uso estacionario de todas las marcas
+- Con este equipamiento básico se cubren las aplicaciones más frecuentes para realizar orificios entre 3 y 8 mm de diámetro
 - Suministro: 5 brocas para metal, plexiglás y plástico duro de Ø 3/4/5/6/8 mm, 5 brocas para piedra, mampostería, piedra caliza, natural y artificial de Ø 3/4/5/6/8 mm, 5 brocas para madera dura y blanda de Ø 3/4/5/6/8 mm
 - La práctica caja Mini-X-Line de Bosch permite mantener el orden y una visión clara de las piezas
-- Con este equipamiento básico se cubren las aplicaciones más frecuentes para realizar orificios entre 3 y 8 mm de diámetro
-- Brocas compatibles con todos los taladros con guiado a mano y uso estacionario de todas las marcas
+- Set mixto Mini-X-Line adecuado para aplicaciones variadas en madera, piedra y metal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001IBMO7C/?tag=tolees-21)

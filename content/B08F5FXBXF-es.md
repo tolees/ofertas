@@ -28,10 +28,10 @@ Tienes [Zanussi ZYAN8EW0 Congelador Vertical mini  Libre instalación  84 5 cm  
 
 ℹ️:
 
-- Dimensiones (Ancho x Alto x Profundo cm): 56 x 84,5 x 57,5
-- Función integrada de congelación rápida: se asegura de mantener la conservación y los nutrientes de los alimentos
 - Capacidad del congelador 85 Litros.
 - Congelador vertical mini de una puerta y tres cajones transparentes
 - Pantalla LCD ofrece un acceso sin esfuerzo a la temperatura y a otros ajustes generales
+- Dimensiones (Ancho x Alto x Profundo cm): 56 x 84,5 x 57,5
+- Función integrada de congelación rápida: se asegura de mantener la conservación y los nutrientes de los alimentos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08F5FXBXF/?tag=tolees-21)

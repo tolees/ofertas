@@ -28,9 +28,9 @@ Ahora mismo tienes [New Balance 624v5  Cross Trainer Mujer  Negro  Black   43.5 
 
 🔎:
 
+- Material exterior: Cuero
 - Revestimiento: Tela
 - Material de la suela: Sintético
 - Cierre: Cordones
-- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KRMH2VC/?tag=tolees-21)

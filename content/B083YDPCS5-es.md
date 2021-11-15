@@ -29,9 +29,9 @@ Tienes [Kipling DARCEY Maleta pequeña con ruedas y asa  Negro  Black Peppery ](
 ℹ️:
 
 - 55 altura x 35 ancho x 20.5 profundidad cm
+- Hidrófugo
+- 2.3kg peso x 30L volumen
 - 100% Poliamida
 - Maleta pequeña con ruedas y asa
-- 2.3kg peso x 30L volumen
-- Hidrófugo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B083YDPCS5/?tag=tolees-21)
