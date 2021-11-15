@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Black+Decker BXPW2000PE Hidrolimpiadora  al 41.20 % de descuento'
-date: 2021-11-09 09:29:20
+date: 2021-11-15 12:08:46
 image: 'https://m.media-amazon.com/images/I/41RLJ05LVTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Black+Decker'
 buyurl: 'https://www.amazon.es/dp/B077TZYQRT/?tag=tolees-21'
 descuento: '41.20'
-average: '110.5'
+average: '107.471428571428'
 ---
 
 Ahora mismo tienes [Black+Decker BXPW2000PE Hidrolimpiadora de Alta Presión  2000 W  140 bar  440 l/h  con Patio Cleaner Deluxe y Cepillo Fijo](https://www.amazon.es/dp/B077TZYQRT/?tag=tolees-21) a 99.9 EUR (original: 169.9 EUR) (41.20 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Black+Decker BXPW2000PE Hidrolimpiadora de Alta Presión  20
 
 🔎:
 
-- Presión (bares) máx. 140; Potencia absorbida (kW) 2,0; Caudal (l/h) máx. 440; Temperatura de alimentación (°C) máx. 50
+- Patio Cleaner Deluxe Chem, con depósito de detergente integrado, ideal para la limpieza en profundidad y sin esfuerzo de amplias superficies horizontales y verticales
 - Hidrolimpiadora ideal para la limpieza de suciedad resistente presente en superficies domésticas exteriores, cancelas, bancos, muebles y herramientas de jardín, bicicletas, motocicletas, automóviles, escaleras y piscinas
+- Presión (bares) máx. 140; Potencia absorbida (kW) 2,0; Caudal (l/h) máx. 440; Temperatura de alimentación (°C) máx. 50
 - Acompañada de ocho accesorios que, tras su uso, se pueden fijar a la parte posterior del aparato, así como de un cómodo enrollador de manguera integrado con sistema de bloqueo
 - Conexión rápida de entrada de agua con filtro inspeccionable que retiene las impurezas y garantiza el perfecto funcionamiento de la hidrolimpiadora
-- Patio Cleaner Deluxe Chem, con depósito de detergente integrado, ideal para la limpieza en profundidad y sin esfuerzo de amplias superficies horizontales y verticales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077TZYQRT/?tag=tolees-21)

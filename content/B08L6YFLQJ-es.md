@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gigabyte Technology - Gigabyte M27F - Mo al 42.73 % de descuento'
-date: 2021-11-12 16:52:19
+date: 2021-11-15 11:42:53
 image: 'https://m.media-amazon.com/images/I/519f7Q6pb7S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gigabyte Technology'
 buyurl: 'https://www.amazon.es/dp/B08L6YFLQJ/?tag=tolees-21'
 descuento: '42.73'
-average: '173.12'
+average: '172.286'
 ---
 
 Está [Gigabyte Technology - Gigabyte M27F - Monitor Gaming  27 pulgadas  Panel IPS  144 Hz  resolucion FHD  pantalla Plano  ](https://www.amazon.es/dp/B08L6YFLQJ/?tag=tolees-21) con 42.73 de descuento por 168.95 EUR (original: 294.99 EUR) en el siguiente enlace!
