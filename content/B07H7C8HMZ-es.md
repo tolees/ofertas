@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Pavilion 600 - Auriculares gaming  so con un 48.58 % de descuento'
-date: 2021-11-09 09:13:06
+date: 2021-11-16 19:47:51
 image: 'https://m.media-amazon.com/images/I/41Uzd8By0ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B07H7C8HMZ/?tag=tolees-21'
 descuento: '48.58'
-average: '41.8214084507042'
+average: '41.6616438356164'
 ---
 
 En este momento está [HP Pavilion 600 - Auriculares gaming  sonido 7.1 surround  almohadillas cómodas  iluminación LED verde  micrófono con brazo ajustable  negro y verde](https://www.amazon.es/dp/B07H7C8HMZ/?tag=tolees-21) a 35.99 EUR (original: 69.99 EUR) (48.58 %  de descuento) en el siguiente enlace!

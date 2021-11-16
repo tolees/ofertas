@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips 55OLED804/12 Televisor Smart TV  al 44.34 % de rebaja'
-date: 2021-11-12 07:35:20
+date: 2021-11-16 19:47:19
 image: 'https://m.media-amazon.com/images/I/41Zpfv3RInL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B07RW84WLW/?tag=tolees-21'
 descuento: '44.34'
-average: '1055.77999999999'
+average: '1048.06883720929'
 ---
 
 Tienes [Philips 55OLED804/12 Televisor Smart TV OLED 4K UHD  55 Pulgadas  Android TV  Ambilight 3 Lados  HDR10+  Dolby Vision  P5 Picture Engine  Google Assistant  Compatible con Alexa ](https://www.amazon.es/dp/B07RW84WLW/?tag=tolees-21) con precio final de  889.99 EUR (original: 1599.0 EUR) (44.34 %  de rebaja) aqui!
