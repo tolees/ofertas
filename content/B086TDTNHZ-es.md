@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 574 Pastel Pack  Zapatillas  al 47.67 % de descuento'
-date: 2021-11-14 12:52:39
+date: 2021-11-16 00:54:46
 image: 'https://m.media-amazon.com/images/I/31DQTRDMp0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B086TDTNHZ/?tag=tolees-21'
 descuento: '47.67'
-average: '52.2050793650793'
+average: '52.1253124999999'
 ---
 
 Está [New Balance 574 Pastel Pack  Zapatillas Mujer  Lemon Haze  35 EU](https://www.amazon.es/dp/B086TDTNHZ/?tag=tolees-21) con 47.67 de descuento por 47.1 EUR (original: 90.0 EUR) en el siguiente enlace!
