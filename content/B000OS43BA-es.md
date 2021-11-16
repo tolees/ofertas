@@ -28,10 +28,10 @@ En este momento está [Kärcher Cubierta para tabla de planchar  2.884-969.0 ](h
 
 🔎:
 
-- Ofrece una elevada permeabilidad al aire y una mejor penetración del vapor en la ropa
 - Compatible con la tabla de planchado AB 1000
 - Funda para la mesa de planchar de lana y espuma
-- Dimensiones del producto: 120 x 38 x 0.5 cm
+- Ofrece una elevada permeabilidad al aire y una mejor penetración del vapor en la ropa
 - Color del producto: gris
+- Dimensiones del producto: 120 x 38 x 0.5 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000OS43BA/?tag=tolees-21)

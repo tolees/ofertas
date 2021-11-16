@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Royal Salute 21 Años Whisky Escocés de M al 48.34 % de descuento'
-date: 2021-11-08 22:28:58
+date: 2021-11-16 21:45:29
 image: 'https://m.media-amazon.com/images/I/51WWVrWbx0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Royal Salute'
 buyurl: 'https://www.amazon.es/dp/B001TZAO6U/?tag=tolees-21'
 descuento: '48.34'
-average: '94.1629166666666'
+average: '93.7591999999999'
 ---
 
 Está [Royal Salute 21 Años Whisky Escocés de Mezcla - 700ml](https://www.amazon.es/dp/B001TZAO6U/?tag=tolees-21) con 48.34 de descuento por 84.07 EUR (original: 162.75 EUR) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [Royal Salute 21 Años Whisky Escocés de Mezcla - 700ml](https://www.amaz
 
 ℹ️:
 
-- Es un whiskey de sabor suave y fresco, con delicadas notas de mermelada de naranjas dulces y peras frescas, que se unen con toques de avellana y nueces, y un sutil ahumado
-- Su nombre hace referencia a la tradición de disparar 21 salvas desde la Torre de Londres como señal de respeto a la Reina
 - Las botellas son de porcelana y se fabrican de manera artesanal, y tiene una crianza de 21 años en barricas de roble
-- Royal Salute 21 años es adecuado para consumir solo o con hielo y disfrutar del dulce aroma de vainilla mezclado con roble tostado y notas afrutadas
 - Royal Salute es un whisky escocés creado en 1953 para celebrar la coronación de la Reina Isabel II de Inglaterra
+- Royal Salute 21 años es adecuado para consumir solo o con hielo y disfrutar del dulce aroma de vainilla mezclado con roble tostado y notas afrutadas
+- Su nombre hace referencia a la tradición de disparar 21 salvas desde la Torre de Londres como señal de respeto a la Reina
+- Es un whiskey de sabor suave y fresco, con delicadas notas de mermelada de naranjas dulces y peras frescas, que se unen con toques de avellana y nueces, y un sutil ahumado
 - Es un whisky premium que combina aromas de vainilla dulce y roble seco, que se realzan con sutiles notas de jerez y humo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001TZAO6U/?tag=tolees-21)
