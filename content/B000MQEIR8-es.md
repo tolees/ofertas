@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maped 291010 - Compás/bigotera con adapt con un 47.16 % de descuento'
-date: 2021-10-28 17:36:49
+date: 2021-11-16 10:43:08
 image: 'https://m.media-amazon.com/images/I/41I7fkVWAtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

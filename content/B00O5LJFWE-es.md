@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.00 % en ONLY Onlroyal High SK Pim600 Noos 150931'
-date: 2021-11-14 09:59:51
+date: 2021-11-16 09:44:53
 image: 'https://m.media-amazon.com/images/I/31vhHeXdiYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
