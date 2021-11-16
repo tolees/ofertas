@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - - Star Wars EP8 - Pop Finn al 68.97 % de descuento'
-date: 2021-11-10 16:35:26
+date: 2021-11-16 12:38:46
 image: 'https://m.media-amazon.com/images/I/51si6J02fdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07GQZXK2Y/?tag=tolees-21'
 descuento: '68.97'
-average: '5.31842105263158'
+average: '5.3'
 ---
 
 Ahora mismo tienes [Funko - - Star Wars EP8 - Pop Finn](https://www.amazon.es/dp/B07GQZXK2Y/?tag=tolees-21) a 4.95 EUR (original: 15.95 EUR) (68.97 %  de descuento) en el siguiente enlace!

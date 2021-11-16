@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston DataTraveler Exodia DTX/32GB Un al 43.78 % de descuento'
-date: 2021-11-06 19:44:54
+date: 2021-11-16 12:40:53
 image: 'https://m.media-amazon.com/images/I/21e4IoLXBFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B08JD36C6H/?tag=tolees-21'
 descuento: '43.78'
-average: '4.46833333333333'
+average: '4.39142857142857'
 ---
 
 Está [Kingston DataTraveler Exodia DTX/32GB Unidad Flash USB 3.2 Gen 1 - con capuchón Protector y Llavero en múltiples Colores](https://www.amazon.es/dp/B08JD36C6H/?tag=tolees-21) con 43.78 de descuento por 3.93 EUR (original: 6.99 EUR) en el siguiente enlace!

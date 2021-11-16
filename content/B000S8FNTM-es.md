@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hama | Altavoces para pc portátiles  Alt con un 45.73 % de descuento'
-date: 2021-11-13 22:48:15
+date: 2021-11-16 12:31:23
 image: 'https://m.media-amazon.com/images/I/41LDKcziyWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hama'
 buyurl: 'https://www.amazon.es/dp/B000S8FNTM/?tag=tolees-21'
 descuento: '45.73'
-average: '10.4328571428572'
+average: '10.3388888888889'
 ---
 
 En este momento está [Hama | Altavoces para pc portátiles  Altavoces para Ordenador con conexión Audio Jack 3.5mm   Negro](https://www.amazon.es/dp/B000S8FNTM/?tag=tolees-21) a 7.05 EUR (original: 12.99 EUR) (45.73 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [Hama | Altavoces para pc portátiles  Altavoces para Orde
 🔎:
 
 - Altavoces activos para ordenadores y portátiles. ¡Amplifica el volumen de tu ordenador y disfruta de tus videos o música con total comodidad.
-- Estos altavoces disponen de una fuente de alimentación a través de puerto USB.
 - Onda sinusoidal de potencia de salida: 2 x 120 mW (distorsión armónica total < 8%)
 - Interruptor de encendido/apagado y control de volumen en el lateral
+- Estos altavoces disponen de una fuente de alimentación a través de puerto USB.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000S8FNTM/?tag=tolees-21)
