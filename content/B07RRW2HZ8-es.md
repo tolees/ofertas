@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Kenwood kCook Multi Smart CCL450SI Robot con un 47.32 % de descuento'
+date: 2021-11-17 18:28:39
+image: 'https://m.media-amazon.com/images/I/318Tx8HPz4L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07RRW2HZ8-es Kenwood kCook Multi Smart CCL450SI Robot de Cocina...'
+sku: 'B07RRW2HZ8-es'
+tags: [ 'Batidoras, robots de cocina y minipicadoras','Hogar y cocina','Pequeño electrodoméstico','Robots de cocina','Robots de cocina y minipicadoras','kenwood', ]
+actualPrice: 499.9 EUR
+currency: EUR
+price: 499.9
+comparePrice: 949.0 EUR
+prodname: 'Kenwood kCook Multi Smart CCL450SI Robot de Cocina Multifunción con Wifi Controlable con una App desde el Móvil  con +600 Recetas Gratuitas  Balanza integrada  1500 W  Capacidad 4 5L'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Kenwood'
+buyurl: 'https://www.amazon.es/dp/B07RRW2HZ8/?tag=tolees-21'
+descuento: '47.32'
+average: '565.002500000001'
+---
+
+En este momento está [Kenwood kCook Multi Smart CCL450SI Robot de Cocina Multifunción con Wifi Controlable con una App desde el Móvil  con +600 Recetas Gratuitas  Balanza integrada  1500 W  Capacidad 4 5L](https://www.amazon.es/dp/B07RRW2HZ8/?tag=tolees-21) a 499.9 EUR (original: 949.0 EUR) (47.32 %  de descuento) en el siguiente enlace!
+
+[![Kenwood kCook Multi Smart CCL450SI Robot](https://m.media-amazon.com/images/I/318Tx8HPz4L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07RRW2HZ8/?tag=tolees-21)
+
+🔎:
+
+- DIRECT PREP: el accesorio Direct Prep integrado permite rebanar, cortar y rallar directamente en el bol de cocción o en un recipiente aparte (incluye 5 discos de corte)
+- FÁCIL LIMPIEZA: el bol y todos los accesorios se desmontan fácilmente y son aptos para el lavavajillas
+- CON WIFI: el único robot de cocina que se controla desde el móvil; cocina un plato sin tocar un botón del robot; accede desde tu Smartphone o table a más de 600 recetas
+- Báscula inteligente conectada con la app para pesar ingredientes
+- POTENCIA: calienta de 30º a 180º, permite hacer sofritos y freír e incluye programas de hasta 8 horas
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B07RRW2HZ8/?tag=tolees-21)
