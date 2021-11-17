@@ -28,10 +28,10 @@ Tienes [Deep Silver - Saints Row: The Third - The Full Package](https://www.amaz
 
 ℹ️:
 
-- Ciudad de pecado: desbarata y desmantela el dominio del Sindicato sobre las armas, el cibercriminal y el negocio del sexo: descubre los secretos de Steelport, donde hay acción en cada esquina, para bien, o en muchos casos, para mal
 - Loca personalización con Joy-Cons: crea los personajes más extravagantes que jamás se hayan visto, desde viejas celebridades hasta piratas ninjas desnudos
-- Armas de destrucción Festiva: una cosa es vencer a tus enemigos y otra es humillarlos
-- Los cazas, los coches con hombres bala y la guerra de consoladores son parte de la diversión
 - En cada pecador hay un santo. ¿Qué elegirás ser?
+- Los cazas, los coches con hombres bala y la guerra de consoladores son parte de la diversión
+- Ciudad de pecado: desbarata y desmantela el dominio del Sindicato sobre las armas, el cibercriminal y el negocio del sexo: descubre los secretos de Steelport, donde hay acción en cada esquina, para bien, o en muchos casos, para mal
+- Armas de destrucción Festiva: una cosa es vencer a tus enemigos y otra es humillarlos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07P9FP5XJ/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Badland - Beholder CE - Collector s Edit al 51.33 % de descuento'
-date: 2021-11-16 09:49:56
+date: 2021-11-17 10:11:11
 image: 'https://m.media-amazon.com/images/I/41L9vnLfQWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Badland'
 buyurl: 'https://www.amazon.es/dp/B07TWMFJZ1/?tag=tolees-21'
 descuento: '51.33'
-average: '26.1076923076923'
+average: '25.6678571428571'
 ---
 
 Está [Badland - Beholder CE - Collector s Edition](https://www.amazon.es/dp/B07TWMFJZ1/?tag=tolees-21) con 51.33 de descuento por 19.95 EUR (original: 40.99 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Badland - Beholder CE - Collector s Edition](https://www.amazon.es/dp/B07
 
 ℹ️:
 
-- Muñeco Beholder
-- Libro de arte
 - Chapa
 - Banda sonora original
+- Libro de arte
+- Muñeco Beholder
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TWMFJZ1/?tag=tolees-21)
