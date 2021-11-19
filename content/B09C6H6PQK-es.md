@@ -29,9 +29,9 @@ Está [Kalypso - Port Royale 4 Extended Edition - Ps5](https://www.amazon.es/dp/
 ℹ️:
 
 - Establece y gestiona el comercio con 60 ciudades caribeñas en un enorme mundo de juego en 3D
-- Mantente alejado de acantilados, aguas poco profundas y regiones repletas de tormentas para optimizar tus rutas de comercio
 - Disfruta de las cuatro grandes campañas de un jugador en las que se narra el camino hacia la supremacía de cada nación
-- Embárcate y únete a las fuerzas coloniales de España, Inglaterra, Francia y los Países Bajos en la lucha por la supremacía del mar Caribe en el siglo XVII. En Port Royale 4 serás el joven y ambicioso gobernador de una colonia, con ganas de aprender para gestionar y convertir este pequeño asentamiento en una atestada ciudad comerciante.
 - Elige quién liderará tu aventura de entre las cuatro clases distintas de personajes jugables: el explorador, la mercader, el bucanero y la pirata; cada una posee sus propias ventajas y desventajas
+- Embárcate y únete a las fuerzas coloniales de España, Inglaterra, Francia y los Países Bajos en la lucha por la supremacía del mar Caribe en el siglo XVII. En Port Royale 4 serás el joven y ambicioso gobernador de una colonia, con ganas de aprender para gestionar y convertir este pequeño asentamiento en una atestada ciudad comerciante.
+- Mantente alejado de acantilados, aguas poco profundas y regiones repletas de tormentas para optimizar tus rutas de comercio
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B09C6H6PQK/?tag=tolees-21)

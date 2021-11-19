@@ -29,7 +29,7 @@ Está [SEGA - Yakuza Kiwami 6 The Song Of Life After Hours  PS Hits ](https://ww
 ℹ️:
 
 - Kiryu averiguará cuánta gente está dispuesta a sacrificarse por la familia ya sea por lazos de sangre o por otros vínculos cuando comienza a investigar una serie de sucesos sombríos en los que están involucrados aquellos a los que quiere
-- Yakuza 6 es la última entrega del juego que mezcla una cruda historia criminal, combates hiperexplosivos y todos los vicios y distracciones que estos locales tiene que ofrecer
 - Desde el realismo sin parangón de la nueva localización de Onomichi una bella ciudad portuaria ubicada en la Prefectura de Hiroshima, hasta la última evolución de Kamurocho el mayor distrito de luces rojas de Tokio
+- Yakuza 6 es la última entrega del juego que mezcla una cruda historia criminal, combates hiperexplosivos y todos los vicios y distracciones que estos locales tiene que ofrecer
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089QR96PM/?tag=tolees-21)
