@@ -28,9 +28,9 @@ En este momento está [Helly Hansen Lifestyle Boots  Zapatillas de Deporte Hombr
 
 🔎:
 
-- Goma
-- Cordones
 - piel
+- Goma
 - sintético
+- Cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BB3RDRW/?tag=tolees-21)

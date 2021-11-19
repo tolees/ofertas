@@ -28,10 +28,10 @@ Tienes [Ingenuity  Columpio compacto plegable - Hugs & Hoots](https://www.amazon
 
 🔎:
 
+- 5 velocidades de balanceo, 6 melodías y 3 sonidos de la naturaleza
+- La almohadilla y el apoyacabeza son lavables en lavadora
 - Funcionamiento silencioso Whisperquiet
 - Alimentado con Hybridrive technonogy las baterías duran hasta 3 veces más
 - Se pliega hasta quedar plano para facilitar el transporte
-- La almohadilla y el apoyacabeza son lavables en lavadora
-- 5 velocidades de balanceo, 6 melodías y 3 sonidos de la naturaleza
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B017XNL39S/?tag=tolees-21)

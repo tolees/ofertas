@@ -28,9 +28,9 @@ Tienes [Luminarc Set 4 Vasos Vidrio Pinta  36cl](https://www.amazon.es/dp/B00VAB
 
 ℹ️:
 
-- Apto para lavavajillas
-- Set de 4 vasos de vidrio
 - Marca del producto: Luminarc
 - Capacidad: 36 cl
+- Apto para lavavajillas
+- Set de 4 vasos de vidrio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VABBSRC/?tag=tolees-21)

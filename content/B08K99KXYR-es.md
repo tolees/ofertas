@@ -28,10 +28,10 @@ Tienes [Lord of the Rings Figura Bendyfigs El Señor de los Anillos Gandalf  Col
 
 🔎:
 
-- Mide aproximadamente 17,78 cm de altura y viene con accesorio para el personal.
 - BendyFigs son figuras coleccionables finamente elaboradas de Noble Toys de The Noble Collection.
+- Mide aproximadamente 17,78 cm de altura y viene con accesorio para el personal.
 - Perfecto para jugar o exhibir. Incluye una base de visualización desmontable.
-- Dobla y posa en diferentes posiciones.
 - Producto oficial autorizado de alta calidad. Colecciónalos todos.
+- Dobla y posa en diferentes posiciones.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08K99KXYR/?tag=tolees-21)

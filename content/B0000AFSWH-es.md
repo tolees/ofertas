@@ -28,7 +28,7 @@ Tienes [Converse All Star Ox Canvas Zapatillas Blancas- UK 8.5](https://www.amaz
 
 ℹ️:
 
-- Authorised Stockist
 - Genuine Product
+- Authorised Stockist
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0000AFSWH/?tag=tolees-21)

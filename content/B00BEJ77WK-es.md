@@ -28,10 +28,10 @@ Ahora mismo tienes [Russell Hobbs Arrocera Cook@Home - Capacidad para 1 8 L  Ace
 
 🔎:
 
-- Carcasa de Acero Inoxidable - Arrocera con carcasa de acero inoxidable cepillado y tapa de cristal
-- 2 Accesorios Extraíbles - La cubeta antiadherente con capacidad para 1,8 litros y la bandeja para cocinar al vapor son extraíbles
-- Arrocera para 10 Tazas de Arroz - Cocina a la perfección hasta 10 tazas de arroz, también incluye una bandeja para cocinar al vapor pescado y verduras
 - Potencia de 700 W - Cuenta con una potencia de 700 W y función automática de mantenimiento del calor
+- 2 Accesorios Extraíbles - La cubeta antiadherente con capacidad para 1,8 litros y la bandeja para cocinar al vapor son extraíbles
+- Carcasa de Acero Inoxidable - Arrocera con carcasa de acero inoxidable cepillado y tapa de cristal
 - Incluye Espátula - Incluye una espátula y un vaso medidor
+- Arrocera para 10 Tazas de Arroz - Cocina a la perfección hasta 10 tazas de arroz, también incluye una bandeja para cocinar al vapor pescado y verduras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BEJ77WK/?tag=tolees-21)

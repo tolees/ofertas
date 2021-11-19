@@ -28,9 +28,9 @@ Tienes [Helly Hansen HH Logo Crew Sudadera  Azul Navy  XL para Hombre](https://w
 
 🔎:
 
-- Corte recto
-- Canalé en el bajo y en las mangas
-- Logotipo de Helly Hansen en el pecho
 - Cuello redondo
+- Logotipo de Helly Hansen en el pecho
+- Canalé en el bajo y en las mangas
+- Corte recto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0789BRLXK/?tag=tolees-21)

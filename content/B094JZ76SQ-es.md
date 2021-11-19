@@ -28,10 +28,10 @@ Está [Quiksilver - Camiseta de Manga Larga - Niños - Negro](https://www.amazon
 
 ℹ️:
 
+- Diseño con bloques de color
+- Corte: corte normal, clásico, cómodo
 - Serigrafía estampada en el pecho
 - Tejido: punto jersey de algodón ligero [160g/m2]
 - Cuello: cuello redondo
-- Diseño con bloques de color
-- Corte: corte normal, clásico, cómodo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B094JZ76SQ/?tag=tolees-21)

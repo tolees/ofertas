@@ -28,9 +28,9 @@ Tienes [Pepe Jeans New Herman Jr Camiseta para Niños  Azul  Navy 595   12 años
 
 🔎:
 
-- Fit regular
 - Camiseta manga larga tejido suave
-- Cuello redondo
 - Logo estampado en el pecho
+- Fit regular
+- Cuello redondo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FFNZ4TL/?tag=tolees-21)

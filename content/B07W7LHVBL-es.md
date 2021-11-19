@@ -28,9 +28,9 @@ Ahora mismo tienes [Logitech M220 Ratón Inalámbrico  Botones Silenciosos  2 4 
 
 🔎:
 
-- Pueden pasar hasta 18 meses* antes de tener que cambiar las pilas, gracias a la ingeniería de eficiencia energética. * Además, M220 SILENT entra automáticamente en estado de suspensión cuando no se está usando. *La duración de las pilas depende del uso.
 - Disfruta del sonido del silencio. Con la misma sensación de clic pero un 90% menos de ruido*, disfrutarás de una experiencia de uso tranquila para ti y los que te rodean. *Nivel de sonido comparado con Logitech M170. Medición realizada por un laboratorio independiente y verificada por Quiet Mark.
 - El diseño ambidiestro ofrece más comodidad y precisión que un touchpad. El tamaño es perfecto para llevarlo a todas partes en cualquier bolsa.
 - Conexión fiable a una distancia de hasta 10 metros (33 ft)* gracias al nano receptor tipo "conectar y olvidar". M220 SILENT también tiene seguimiento óptico avanzado Logitech, para precisión de movimiento en casi todo tipo de superficies. *El alcance inalámbrico depende del uso, la configuración y las condiciones medioambientales.
+- Pueden pasar hasta 18 meses* antes de tener que cambiar las pilas, gracias a la ingeniería de eficiencia energética. * Además, M220 SILENT entra automáticamente en estado de suspensión cuando no se está usando. *La duración de las pilas depende del uso.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W7LHVBL/?tag=tolees-21)

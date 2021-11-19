@@ -28,9 +28,9 @@ Tienes [Plameca - Plan 21 Celul Out 40 Cápsulas Vegetales](https://www.amazon.e
 
 ℹ️:
 
-- Una dieta variada, equilibrada y un modo de vida sano
-- Empleada tradicionalmente para el cuidado de la piel
 - Contiene guaraná, empleada tradicionalmente para el metabolismo de las grasas
 - Perfecto cuando quieres una piel más bella y lisa
+- Una dieta variada, equilibrada y un modo de vida sano
+- Empleada tradicionalmente para el cuidado de la piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BRB5ZN5/?tag=tolees-21)

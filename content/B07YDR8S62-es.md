@@ -28,8 +28,8 @@ Ahora mismo tienes [Amazon Essentials Classic-fit 3/4 Sleeve Poplin Shirt Dress-
 
 🔎:
 
+- Una marca de Amazon
 - Corte estrecho y cómodo que permite el movimiento
 - Popeline martellato, avvolgente, durevole e morbido per un immediato effetto vissuto
-- Una marca de Amazon
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YDR8S62/?tag=tolees-21)
