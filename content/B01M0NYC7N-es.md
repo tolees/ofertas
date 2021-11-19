@@ -28,10 +28,10 @@ Ahora mismo tienes [Jata GR195 Plancha de Asar Cocina por Igual en Toda la Super
 
 🔎:
 
-- La superficie de cocinado es amplia, siendo ésta de 46 x 25 cm
 - Se puede limpiar con facilidad tras cocinar sobre ella; es más fácil hacerlo cuando todavía está templada y será suficiente con pasar un paño húmedo; si quedan restos difíciles se pueden eliminar con un paño mojado en un poco de aceite; o si se prefiere, la plancha de asar se puede meter en el lavavajillas para su limpieza
 - La potencia es de 2.200 w, una potencia alta que permite cocinar todo tipo de alimentos
-- Los alimentos no se pegan gracias al recubrimiento antiadherente que presentan; además, éste está libre de PFOA, lo que la hace una plancha de asar ecológica y sana
+- La superficie de cocinado es amplia, siendo ésta de 46 x 25 cm
 - Una vez apagada mantiene el calor por lo que se puede llevar a la mesa (sus asas se mantienen frías) y terminar de cocinar allí
+- Los alimentos no se pegan gracias al recubrimiento antiadherente que presentan; además, éste está libre de PFOA, lo que la hace una plancha de asar ecológica y sana
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M0NYC7N/?tag=tolees-21)

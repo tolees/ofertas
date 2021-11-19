@@ -28,15 +28,15 @@ Tienes [Marca Amazon - Happy Belly Pistachos tostados y salados  2x500g](https:/
 
 ℹ️:
 
-- No apto para alérgicos a otros frutos de cáscara y a los cacahuetes, debido al método de producción
-- Envase de 2: 2 x 500g
-- Ingredientes: Pistachos (98 %), sal marina (2 %)
-- Envasado en Italia
 - Alto contenido de fibra - Apto para dietas vegetarianas y veganas
-- Advertencia: Los niños pequeños se pueden atragantar con los frutos secos
-- Nutrición (por100 g sin cáscara): Valor energético 577kcal; Grasas 44,9g; Hidratos de carbono 17,6g; Proteínas 20,6g; Fibra alimentaria 10g
-- Envasado en atmósfera protectora para mantener su frescura. Una vez abierto, conservar en un recipiente hermético
+- Envasado en Italia
 - Pistachos tostados y salados con cáscara
+- Envasado en atmósfera protectora para mantener su frescura. Una vez abierto, conservar en un recipiente hermético
+- Envase de 2: 2 x 500g
+- Advertencia: Los niños pequeños se pueden atragantar con los frutos secos
 - Cada paquete contiene aproximadamente 8 porciones
+- No apto para alérgicos a otros frutos de cáscara y a los cacahuetes, debido al método de producción
+- Nutrición (por100 g sin cáscara): Valor energético 577kcal; Grasas 44,9g; Hidratos de carbono 17,6g; Proteínas 20,6g; Fibra alimentaria 10g
+- Ingredientes: Pistachos (98 %), sal marina (2 %)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QXXSB5N/?tag=tolees-21)
