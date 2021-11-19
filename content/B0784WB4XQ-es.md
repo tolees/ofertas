@@ -29,7 +29,7 @@ Tienes [PUMA Liga Casual Sudadera  Hombre  Medium Gray Heather / Black  XL](http
 🔎:
 
 - Medium Gray Heather-Puma Black
-- Chaqueta con capucha
 - LIGA Casual Hoody Jacket
+- Chaqueta con capucha
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0784WB4XQ/?tag=tolees-21)
