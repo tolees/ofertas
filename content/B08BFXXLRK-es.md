@@ -28,15 +28,15 @@ En este momento está [Colnatur Forte - Comprimidos de Colágeno Nativo Tipo II 
 
 🔎:
 
-- Huesos: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los huesos
-- Envase para 30 días en formato comprimidos bicapa
-- Cartílagos: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los cartílagos
-- La primera capa compuesta de colágeno activo tipo II B-2cool, ácido hialurónico y vitamina C, cuida de las articulaciones
-- Sin grasas, azúcares, colorantes artificiales ni gluten
-- La segunda capa compuesta de extracto de sauce y extracto de harpagofito ,tradicionalmente utilizados para reducir el dolor articular
-- Indicado para personas que padecen dolor articular y a la vez quieren cuidar de sus articulaciones u hombre/mujer mayor de 40 años con patología articular y/o dolor agudo
-- Indicado para el cuidado de las articulaciones
 - Cuida de forma intensa las articulaciones y recupera su movilidad
+- Cartílagos: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los cartílagos
+- La segunda capa compuesta de extracto de sauce y extracto de harpagofito ,tradicionalmente utilizados para reducir el dolor articular
+- Sin grasas, azúcares, colorantes artificiales ni gluten
+- Envase para 30 días en formato comprimidos bicapa
 - Complemento alimenticio a base de colágeno nativo tipo II, extracto de sauce y extracto de harpagofito, ácido hialurónico y vitamina C
+- Indicado para personas que padecen dolor articular y a la vez quieren cuidar de sus articulaciones u hombre/mujer mayor de 40 años con patología articular y/o dolor agudo
+- La primera capa compuesta de colágeno activo tipo II B-2cool, ácido hialurónico y vitamina C, cuida de las articulaciones
+- Indicado para el cuidado de las articulaciones
+- Huesos: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los huesos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BFXXLRK/?tag=tolees-21)
