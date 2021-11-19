@@ -28,9 +28,9 @@ Tienes [FOREO LUNA mini 2 Cepillo de limpieza facial para un cuidado de la piel 
 
 🔎:
 
-- UNA AGRADABLE LIMPIEZA FACIAL - LUNA mini 2 limpia y elimina hasta el 99.5% de suciedad y grasa en cada rutina de limpieza. Consigue una piel más clara, suave y saludable en sólo tres días, y desde la comodidad de tu hogar
-- UN RITUAL DE SPA EN LA PALMA DE TU MANO - LUNA mini 2 utiliza el poder de las pulsaciones T-Sonic para limpiar profunda y eficazmente la piel. Con 8 intensidades ajustables y 3 modos de limpieza, es apto para todo tipo de pieles
-- UNA EXPERIENCIA SUAVE Y ULTRA HIGIÉNICA - Este dispositivo con filamentos de silicona ultra suaves es hipoalergénico, no poroso (lo que evita la proliferación de bacterias) y 35 veces más higiénico que los cepillos de limpieza de nylon convencionales
 - NO NECESITA CAMBIO DE CABEZAL - ¿Por qué gastar dinero en caros recambios para tu cepillo facial? Con LUNA mini 2 no hay costos ocultos. Este elegante diseño sueco es 100% resistente al agua y tiene una autonomía de 300 usos por cada carga completa; la inversión inteligente en dispositivos de belleza
+- UNA AGRADABLE LIMPIEZA FACIAL - LUNA mini 2 limpia y elimina hasta el 99.5% de suciedad y grasa en cada rutina de limpieza. Consigue una piel más clara, suave y saludable en sólo tres días, y desde la comodidad de tu hogar
+- UNA EXPERIENCIA SUAVE Y ULTRA HIGIÉNICA - Este dispositivo con filamentos de silicona ultra suaves es hipoalergénico, no poroso (lo que evita la proliferación de bacterias) y 35 veces más higiénico que los cepillos de limpieza de nylon convencionales
+- UN RITUAL DE SPA EN LA PALMA DE TU MANO - LUNA mini 2 utiliza el poder de las pulsaciones T-Sonic para limpiar profunda y eficazmente la piel. Con 8 intensidades ajustables y 3 modos de limpieza, es apto para todo tipo de pieles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B018T7DI4A/?tag=tolees-21)

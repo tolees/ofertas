@@ -28,10 +28,10 @@ Ahora mismo tienes [Pepe Jeans THRIFT PL400755CF7 Chaqueta vaquera para Mujer  A
 
 🔎:
 
-- 98% Algodón, 2% Elastano
 - Manga larga
-- Denim
-- Lavar a máquina
 - Estilo del cuello: Clásico
+- Lavar a máquina
+- Denim
+- 98% Algodón, 2% Elastano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C477LYR/?tag=tolees-21)

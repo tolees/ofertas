@@ -28,9 +28,9 @@ Ahora mismo tienes [Knorr Caldo de verduras - Pack de 8 x 1000 ml  Total de 8L ]
 
 🔎:
 
-- Knorr caldo liquido eco verduras 1l
-- Delicioso caldo de verduras ecológico
-- Sin conservantes, sin colorantes, sin lactosa, sin gluten, ingredientes ecológicos
 - Con ingredientes ecológicos, cocinados a fuego lento
+- Knorr caldo liquido eco verduras 1l
+- Sin conservantes, sin colorantes, sin lactosa, sin gluten, ingredientes ecológicos
+- Delicioso caldo de verduras ecológico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SS3V2VP/?tag=tolees-21)

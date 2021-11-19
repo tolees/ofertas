@@ -28,11 +28,11 @@ En este momento está [ASUS ROG STRIX Z590-F GAMING WIFI - Placa base  Intel Z59
 
 🔎:
 
-- Redes de alto rendimiento: Intel WiFi 6E AX210 (802.11ax) y dos Intel 2.5 Gb Ethernet con ASUS LANGuard
-- Soporta HDMI 2.0 y DisplayPort 1.4, incluye cuatro conectores M.2 y USB 3.2 Gen. 2 Tipo A y Tipo C
-- ¡ATENCIÓN! ¡Compruebe en el sitio web del fabricante si sus componentes (memorias RAM, procesador) son compatibles con esta placa base antes de comprarla!
+- Solución de alimentación optimizada: 14+2 etapas de potencia con tomas de alimentación ProCool II
 - Diseño térmico optimizado: Disipador VRM y E/S de aluminio, caloducto en forma de L, disipadores tres ranuras M.2
 - Zócalo Intel LGA 1200 para procesadores Intel Core de 11.ª Gen., Intel Core de 10.ª Gen., Pentium Gold y Celeron
-- Solución de alimentación optimizada: 14+2 etapas de potencia con tomas de alimentación ProCool II
+- Soporta HDMI 2.0 y DisplayPort 1.4, incluye cuatro conectores M.2 y USB 3.2 Gen. 2 Tipo A y Tipo C
+- ¡ATENCIÓN! ¡Compruebe en el sitio web del fabricante si sus componentes (memorias RAM, procesador) son compatibles con esta placa base antes de comprarla!
+- Redes de alto rendimiento: Intel WiFi 6E AX210 (802.11ax) y dos Intel 2.5 Gb Ethernet con ASUS LANGuard
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CDTJ1M8/?tag=tolees-21)
