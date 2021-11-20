@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 37.59 % en PLAYMOBIL Ghostbusters Ecto-1  A partir '
-date: 2021-11-19 08:31:50
+title: 'Descuento del 53.75 % en PLAYMOBIL Ghostbusters Ecto-1  A partir '
+date: 2021-11-20 09:40:22
 image: 'https://m.media-amazon.com/images/I/51wAWhwv-3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Conjuntos de figuras de juguete','Juguetes','Juguetes y juegos','Muñec
 actualPrice: 27.43 EUR
 currency: EUR
 price: 27.43
-comparePrice: 43.95 EUR
+comparePrice: 59.31 EUR
 prodname: 'PLAYMOBIL Ghostbusters Ecto-1  A partir de 6 años  9220 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B01LYRIWZ0/?tag=tolees-21'
-descuento: '37.59'
-average: '40.1062616822427'
+descuento: '53.75'
+average: '40.0473023255811'
 ---
 
-Tienes [PLAYMOBIL Ghostbusters Ecto-1  A partir de 6 años  9220 ](https://www.amazon.es/dp/B01LYRIWZ0/?tag=tolees-21) con un 37.59 % de descuento con precio de oferta de 27.43 EUR (original: 43.95 EUR) en el siguiente enlace!
+Tienes [PLAYMOBIL Ghostbusters Ecto-1  A partir de 6 años  9220 ](https://www.amazon.es/dp/B01LYRIWZ0/?tag=tolees-21) con un 53.75 % de descuento con precio de oferta de 27.43 EUR (original: 59.31 EUR) en el siguiente enlace!
 
 [![PLAYMOBIL Ghostbusters Ecto-1  A partir ](https://m.media-amazon.com/images/I/51wAWhwv-3L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01LYRIWZ0/?tag=tolees-21)
 

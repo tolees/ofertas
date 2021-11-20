@@ -28,9 +28,9 @@ Está [Amazon Basics - Dispensador de agua y comida  Grande](https://www.amazon.
 
 ℹ️:
 
-- La base del dispensador de agua está hecha de PP y la botella de PET; la tapa y la base del dispensador de comida están hechas de PP y el contenedor de PET.
 - Las asas laterales recortadas a lo largo de la base permiten levantarlos con facilidad. Las patas de goma antideslizante impiden que se deslicen. Son ideales para perros o gatos de hogares con una o varias mascotas.
-- Paquete 2 en 1: dispensador de agua grande con capacidad para 9,46 L y dispensador de comida grande con capacidad para 5,44 kg, que se sirven de la gravedad para garantizar un suministro constante de agua y comida.
 - Contenedor de comida y botella con boca extra ancha para rellenarlos y limpiarlos con facilidad. Lavar a mano únicamente.
+- Paquete 2 en 1: dispensador de agua grande con capacidad para 9,46 L y dispensador de comida grande con capacidad para 5,44 kg, que se sirven de la gravedad para garantizar un suministro constante de agua y comida.
+- La base del dispensador de agua está hecha de PP y la botella de PET; la tapa y la base del dispensador de comida están hechas de PP y el contenedor de PET.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06ZY6Q66G/?tag=tolees-21)
