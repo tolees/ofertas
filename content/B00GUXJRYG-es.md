@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.02 % en Columbia Columbia Men’s Peakfreak Nomad '
-date: 2021-11-19 18:10:46
+date: 2021-11-20 18:20:52
 image: 'https://m.media-amazon.com/images/I/41Zdjm96bXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B00GUXJRYG/?tag=tolees-21'
 descuento: '52.02'
-average: '64.4008620689655'
+average: '64.2605128205128'
 ---
 
 Tienes [Columbia Columbia Men’s Peakfreak Nomad Waterproof Shoes Zapatillas para Hombre  Marrón  Cordovan  Cinnamon   42 EU](https://www.amazon.es/dp/B00GUXJRYG/?tag=tolees-21) con un 52.02 % de descuento con precio de oferta de 47.98 EUR (original: 99.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Columbia Columbia Men’s Peakfreak Nomad Waterproof Shoes Zapatillas pa
 
 ℹ️:
 
-- Material de la suela: Goma
 - Cierre: Cordones
+- Material de la suela: Goma
 - Tipo de tacón: Plano
-- Material exterior: Cuero
 - Revestimiento: Sintético
+- Material exterior: Cuero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GUXJRYG/?tag=tolees-21)

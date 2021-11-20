@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Warner Bros. Entertainment - Juego de Tr al 37.47 % de rebaja'
-date: 2021-11-19 15:56:26
+title: 'Warner Bros. Entertainment - Juego de Tr al 43.18 % de rebaja'
+date: 2021-11-20 17:53:42
 image: 'https://m.media-amazon.com/images/I/51O00gsdNCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Acción y Aventura','Blu-ray','Drama','Fantasía','Featured Categories'
 actualPrice: 112.49 EUR
 currency: EUR
 price: 112.49
-comparePrice: 179.9 EUR
+comparePrice: 197.99 EUR
 prodname: 'Warner Bros. Entertainment - Juego de Tronos: La colección completa 4k UHD [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Warner Bros. Entertainment'
 buyurl: 'https://www.amazon.es/dp/B08KF6DK4Q/?tag=tolees-21'
-descuento: '37.47'
-average: '151.639401197606'
+descuento: '43.18'
+average: '151.40636904762'
 ---
 
-Tienes [Warner Bros. Entertainment - Juego de Tronos: La colección completa 4k UHD [Blu-ray]](https://www.amazon.es/dp/B08KF6DK4Q/?tag=tolees-21) con precio final de  112.49 EUR (original: 179.9 EUR) (37.47 %  de rebaja) aqui!
+Tienes [Warner Bros. Entertainment - Juego de Tronos: La colección completa 4k UHD [Blu-ray]](https://www.amazon.es/dp/B08KF6DK4Q/?tag=tolees-21) con precio final de  112.49 EUR (original: 197.99 EUR) (43.18 %  de rebaja) aqui!
 
 [![Warner Bros. Entertainment - Juego de Tr](https://m.media-amazon.com/images/I/51O00gsdNCL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08KF6DK4Q/?tag=tolees-21)
 
