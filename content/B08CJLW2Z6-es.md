@@ -29,8 +29,8 @@ Está [Clementoni Stranger Things – Fabricado en Italia – Rompecabezas para 
 ℹ️:
 
 - Da un paso atrás en el tiempo a los fabulosos años 80 con la nueva gama de rompecabezas de Clementoni dedicada a la serie de culto Netflix. Ahora todo el mundo podrá revivir las emocionantes aventuras de los niños de Hawkins.
-- A partir de 10 años.
 - Fabricado en Italia.
+- A partir de 10 años.
 - Rompecabezas de 500 piezas con dimensiones de 49 x 36 cm.
 - Imágenes sugeridas, impresión de calidad, recortes precisos, materiales resistentes y preciosos.
 

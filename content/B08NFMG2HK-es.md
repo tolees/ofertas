@@ -28,10 +28,10 @@ Ahora mismo tienes [glo hyper+ 2021 Negro | Cigarrillo Electrónico | Dispositiv
 
 🔎:
 
-- Con un diseño ergonómico, estilizado y elegante, el glo hyper + se recarga completamente en un máximo de 2 horas.
-- El producto no contiene nicotina, está destinado exclusivamente a los fumadores adultos.
 - Además, gracias a la tecnología de inducción glo hyper +, el tabaco se calienta hasta 260 C en modo boost (y hasta 250 C en modo estándar)
 - Vive una experiencia personalizada con los 2 modos de uso: estándar y boost; con tiempos de arranque rápidos de 20 y 15 segundos respectivamente.
+- El producto no contiene nicotina, está destinado exclusivamente a los fumadores adultos.
 - Se puede utilizar hasta 20 veces con una sola carga y tiene mayor tiempo de uso: 4 minutos en modo estándar, 3 minutos en modo boost.
+- Con un diseño ergonómico, estilizado y elegante, el glo hyper + se recarga completamente en un máximo de 2 horas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NFMG2HK/?tag=tolees-21)
