@@ -29,7 +29,7 @@ Ahora mismo tienes [Quantum Mechanix Star Trek Discovery - Insignia de operacion
 🔎:
 
 - Producto oficial autorizado de Star Trek.
-- Esta pieza coleccionable de Star Trek cuenta con un diseño exclusivo de Split-Delta, con metal cepillado en la parte elevada y un acabado brillante en el lado opuesto.
 - No más agujeros en tela delicada. El cierre magnético hace que sea fácil de quitar en casi cualquier tela.
+- Esta pieza coleccionable de Star Trek cuenta con un diseño exclusivo de Split-Delta, con metal cepillado en la parte elevada y un acabado brillante en el lado opuesto.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074ZMGFW2/?tag=tolees-21)
