@@ -29,7 +29,7 @@ Está [Essence - Make Me Brow Gel Cejas](https://www.amazon.es/dp/B015ZVFK1W/?ta
 ℹ️:
 
 - Ligero, para que pueda llevarlo en diferentes ocasiones
-- Un equilibrio óptimo entre la necesidad del cliente y un merecido mimo
 - Idea de regalo
+- Un equilibrio óptimo entre la necesidad del cliente y un merecido mimo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B015ZVFK1W/?tag=tolees-21)
