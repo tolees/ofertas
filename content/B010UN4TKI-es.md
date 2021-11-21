@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Manos a la obra - Serie Completa  25 año al 44.46 % de rebaja'
-date: 2021-11-20 13:12:58
+title: 'Manos a la obra - Serie Completa  25 año al 40.00 % de rebaja'
+date: 2021-11-21 14:40:17
 image: 'https://m.media-amazon.com/images/I/517CYLOdE3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B010UN4TKI-es Manos a la obra - Serie Completa 25 años A3 [DVD]'
 sku: 'B010UN4TKI-es'
 tags: [ 'Comedia','DVD','Featured Categories','Películas','Películas y TV', ]
-actualPrice: 55.1 EUR
+actualPrice: 59.52 EUR
 currency: EUR
-price: 55.1
+price: 59.52
 comparePrice: 99.2 EUR
 prodname: 'Manos a la obra - Serie Completa  25 años A3  [DVD]'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B010UN4TKI/?tag=tolees-21'
-descuento: '44.46'
-average: '69.7907692307692'
+descuento: '40.00'
+average: '69.0571428571428'
 ---
 
-Tienes [Manos a la obra - Serie Completa  25 años A3  [DVD]](https://www.amazon.es/dp/B010UN4TKI/?tag=tolees-21) con precio final de  55.1 EUR (original: 99.2 EUR) (44.46 %  de rebaja) aqui!
+Tienes [Manos a la obra - Serie Completa  25 años A3  [DVD]](https://www.amazon.es/dp/B010UN4TKI/?tag=tolees-21) con precio final de  59.52 EUR (original: 99.2 EUR) (40.00 %  de rebaja) aqui!
 
 [![Manos a la obra - Serie Completa  25 año](https://m.media-amazon.com/images/I/517CYLOdE3L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B010UN4TKI/?tag=tolees-21)
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [BOSS Trunk CO/EL  Bóxers  para Hombre  Azul  Open Blue 487 
 
 🔎:
 
+- Calzoncillos bóxer para hombre
 - Con cintura elástica
 - Con el logo de Hugo Boss en la cintura
-- Calzoncillos bóxer para hombre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01JZD7SBQ/?tag=tolees-21)

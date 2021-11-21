@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Hombre Y La Tierra  Colección Complet al 42.73 % de descuento'
-date: 2021-11-20 12:48:12
+date: 2021-11-21 14:32:45
 image: 'https://m.media-amazon.com/images/I/510WjKfXokL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B003Z7RUSA/?tag=tolees-21'
 descuento: '42.73'
-average: '54.8046913580247'
+average: '54.661717791411'
 ---
 
 Ahora mismo tienes [El Hombre Y La Tierra  Colección Completa + Libro  [DVD]](https://www.amazon.es/dp/B003Z7RUSA/?tag=tolees-21) a 31.5 EUR (original: 55.0 EUR) (42.73 %  de descuento) en el siguiente enlace!

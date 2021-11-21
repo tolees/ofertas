@@ -28,8 +28,8 @@ En este momento está [Superdry Classic Fuji Puffer Chaqueta  High Risk Red  XL 
 
 🔎:
 
-- La ropa Superdry está fabricada con el equilibrio adecuado entre estilo y comodidad; recomendamos una talla más grande que las marcas usuales para una experiencia de superdry
 - Código Superdry
 - El acolchado de esta chaqueta está hecho con 100 % poliéster reciclado, cada chaqueta contiene más de 30 botellas recicladas, esto evita que estas botellas vayan a un vertedero o que contaminen el mar
+- La ropa Superdry está fabricada con el equilibrio adecuado entre estilo y comodidad; recomendamos una talla más grande que las marcas usuales para una experiencia de superdry
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QRXPSW3/?tag=tolees-21)

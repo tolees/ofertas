@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colección Disney Pixar: Onward + Coco +  al 50.08 % de descuento'
-date: 2021-11-20 12:58:41
+date: 2021-11-21 14:36:29
 image: 'https://m.media-amazon.com/images/I/51f1pqPF-FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B08L7HRTPJ/?tag=tolees-21'
 descuento: '50.08'
-average: '15.6795'
+average: '15.4080952380952'
 ---
 
 Ahora mismo tienes [Colección Disney Pixar: Onward + Coco + Del Revés  Inside Out  [DVD]](https://www.amazon.es/dp/B08L7HRTPJ/?tag=tolees-21) a 9.98 EUR (original: 19.99 EUR) (50.08 %  de descuento) en el siguiente enlace!

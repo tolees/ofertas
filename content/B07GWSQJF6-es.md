@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ABC Studios - Pack: Erase Una Vez + Temp al 49.66 % de descuento'
-date: 2021-11-20 13:22:53
+date: 2021-11-21 14:48:36
 image: 'https://m.media-amazon.com/images/I/51+WxiR-uqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ABC Studios'
 buyurl: 'https://www.amazon.es/dp/B07GWSQJF6/?tag=tolees-21'
 descuento: '49.66'
-average: '46.1765217391304'
+average: '45.6683333333333'
 ---
 
 Está [ABC Studios - Pack: Erase Una Vez + Temporada Completa 1-7 [DVD]](https://www.amazon.es/dp/B07GWSQJF6/?tag=tolees-21) con 49.66 de descuento por 33.98 EUR (original: 67.5 EUR) en el siguiente enlace!
