@@ -28,9 +28,9 @@ Está [Memoria Flash USB 3.0 SanDisk Ultra de 256 GB  Velocidad de Lectura de ha
 
 ℹ️:
 
-- Fácil de usar
-- Temperatura de funcionamiento: 0 - 45 °C
-- Hasta 130 MB/s velocidad de lectura
 - Mantén la privacidad de tus archivos con el software SanDisk SecureAccess
+- Temperatura de funcionamiento: 0 - 45 °C
+- Fácil de usar
+- Hasta 130 MB/s velocidad de lectura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00YFI1A66/?tag=tolees-21)
