@@ -28,8 +28,8 @@ Tienes [HUGO Dasara redlabel  Sudadera con Capucha  para Mujer  Blanco  White 10
 
 ℹ️:
 
-- Tamaño del paquete: 4,6 x 35 x 29,6 cm
 - Acabado de alta calidad
+- Tamaño del paquete: 4,6 x 35 x 29,6 cm
 - Estándar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08F2DGBV5/?tag=tolees-21)

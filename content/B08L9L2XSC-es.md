@@ -28,7 +28,7 @@ Ahora mismo tienes [HUGO Dasara redlabel  Sudadera con Capucha  para Mujer  Rosa
 
 🔎:
 
-- Tamaño del paquete: 4,6 x 35 x 29,6 cm
 - Estándar
+- Tamaño del paquete: 4,6 x 35 x 29,6 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L9L2XSC/?tag=tolees-21)
