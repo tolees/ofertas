@@ -29,8 +29,8 @@ Tienes [Kappa SALCITO TKS Chándal  Hombre  Azul Marino/Blanco  L](https://www.a
 🔎:
 
 - Proporciona libertad de movimiento
+- Elástico en la cintura y puños acanalados en las mangas
 - Ajuste óptimo
 - Omini Kappa bordado el pecho y Kappa impreso en la pierna izquierda
-- Elástico en la cintura y puños acanalados en las mangas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079SSJNHJ/?tag=tolees-21)
