@@ -28,10 +28,10 @@ Tienes [STANLEY 0-28-217 - Rascavidrios con 5 hojas](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Cambio fácil de la hoja
-- Cuchilla retráctil para mayor seguridad
 - Longitud de la hoja es de 70mm
 - Rascavidrios con diseño ergonómico de empuñadura bimaterial
+- Cambio fácil de la hoja
 - Incluye: 5 hojas de recambio
+- Cuchilla retráctil para mayor seguridad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00D2R4PLS/?tag=tolees-21)
