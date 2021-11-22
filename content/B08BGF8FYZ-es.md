@@ -28,8 +28,8 @@ En este momento está [MERAKI Osc100 Sudaderas con Capucha  Verde Caqui Claro  S
 
 🔎:
 
-- El cordón de la capucha facilita el ajuste
-- Una marca de Amazon
 - Prenda confeccionada en algodón suave y resistente que proporciona un confort duradero
+- Una marca de Amazon
+- El cordón de la capucha facilita el ajuste
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BGF8FYZ/?tag=tolees-21)
