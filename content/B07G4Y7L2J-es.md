@@ -29,9 +29,9 @@ Ahora mismo tienes [Hugo Boss Reloj Cronógrafo para Hombre de Cuarzo con Correa
 🔎:
 
 - Movimiento cronógrafo de cuarzo
-- Grosor de la caja de 10.9 mm; Diámetro de la caja: 44 mm
 - Esfera marrón cepillada con efecto de rayo de sol
-- 3 ATM de resistencia al agua: El agua del grifo o la lluvia no daña los relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
+- Grosor de la caja de 10.9 mm; Diámetro de la caja: 44 mm
 - Correa de piel marrón
+- 3 ATM de resistencia al agua: El agua del grifo o la lluvia no daña los relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07G4Y7L2J/?tag=tolees-21)
