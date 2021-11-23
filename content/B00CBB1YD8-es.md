@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney Pictures - Monstruos  S.A. [ con un 61.74 % de descuento'
-date: 2021-11-22 00:10:36
+date: 2021-11-23 01:23:07
 image: 'https://m.media-amazon.com/images/I/51WetdHcavL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Walt Disney Pictures'
 buyurl: 'https://www.amazon.es/dp/B00CBB1YD8/?tag=tolees-21'
 descuento: '61.74'
-average: '11.2723999999998'
+average: '11.1488235294116'
 ---
 
 En este momento está [Walt Disney Pictures - Monstruos  S.A. [Blu-ray]](https://www.amazon.es/dp/B00CBB1YD8/?tag=tolees-21) a 4.97 EUR (original: 12.99 EUR) (61.74 %  de descuento) en el siguiente enlace!

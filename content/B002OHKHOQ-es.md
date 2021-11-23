@@ -28,8 +28,8 @@ Ahora mismo tienes [wolfcraft Cúter de cuchillas separables estándar de 18 mm
 
 🔎:
 
-- Carcasa de plástico ergonómica y resistente con guía estable
 - Control deslizante con función de bloqueo automático
 - Tapa extraíble para separar la cuchilla de forma segura y para el cambio de cuchilla
+- Carcasa de plástico ergonómica y resistente con guía estable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002OHKHOQ/?tag=tolees-21)

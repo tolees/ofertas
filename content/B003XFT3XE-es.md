@@ -29,10 +29,10 @@ En este momento está [Corsair Value Select - Módulo de Memoria Principal de 4 
 🔎:
 
 - Memoria RAM CL9
-- Voltaje de memoria 1.5V
 - Memoria de forma DDR3 240 pin DIMM
-- Memoria principal Non-ECC
 - Velocidad de reloj 1333 MHz
 - La latencia de la memoria: 9-9-9-24
+- Voltaje de memoria 1.5V
+- Memoria principal Non-ECC
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003XFT3XE/?tag=tolees-21)
