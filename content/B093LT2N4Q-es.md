@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Duracell - NUEVO Pilas alcalinas Plus AA al 41.50 % de rebaja'
+date: 2021-11-22 23:11:22
+image: 'https://m.media-amazon.com/images/I/51KHiqXEH9S._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B093LT2N4Q-es Duracell - NUEVO Pilas alcalinas Plus AAA 1.5 Voltios LR03...'
+sku: 'B093LT2N4Q-es'
+tags: [ 'Electrónica','Pilas','Pilas y cargadores','duracell', ]
+actualPrice: 7.95 EUR
+currency: EUR
+price: 7.95
+comparePrice: 13.59 EUR
+prodname: 'Duracell - NUEVO Pilas alcalinas Plus AAA   1.5 Voltios LR03 MN2400  paquete de 12'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Duracell'
+buyurl: 'https://www.amazon.es/dp/B093LT2N4Q/?tag=tolees-21'
+descuento: '41.50'
+average: '8.375'
+---
+
+Tienes [Duracell - NUEVO Pilas alcalinas Plus AAA   1.5 Voltios LR03 MN2400  paquete de 12](https://www.amazon.es/dp/B093LT2N4Q/?tag=tolees-21) con precio final de  7.95 EUR (original: 13.59 EUR) (41.50 %  de rebaja) aqui!
+
+[![Duracell - NUEVO Pilas alcalinas Plus AA](https://m.media-amazon.com/images/I/51KHiqXEH9S._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B093LT2N4Q/?tag=tolees-21)
+
+🔎:
+
+- El 98% de nuestros packs de cartón están fabricados con materiales reciclados.
+- *Rendimiento de la longevidad en comparación con la duración media mínima de la prueba de juguetes motorizados de la IEC AAA de 2015. Los resultados pueden variar según el dispositivo o el tipo de uso (sitio web de la IEC)).
+- HASTA UN 100% DE DURACIÓN EXTRA*.
+- Las pilas Duracell Plus son unas pilas alcalinas multiuso idóneas para dispositivos de uso cotidiano
+- SEGURIDAD: El cierre superior de nailon de gran calidad ayuda a evitar que nuestras baterías tengan fugas
+- AA y AAA fabricadas en Bélgica; disponibles en tamaños AA, AAA, C, D, 4,5 V y 9 V
+- DURABILIDAD: La tecnología Duracell mantiene la energía de las pilas no utilizadas hasta 10 años en su embalaje (almacenamiento a temperatura ambiente)
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B093LT2N4Q/?tag=tolees-21)
