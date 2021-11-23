@@ -28,11 +28,11 @@ En este momento está [TOUS Regalo Mama Collar Good Vibes  Charms de Plata](http
 
 🔎:
 
-- Collar TOUS Good Vibes Mama de plata de primera ley con cinco charms (corazón, cuerno de la abundancia, medalla mama, trébol de cuatro hojas y herradura).
 - Longitud del collar: 45 cm, con anilla a 40 cm.
-- Certificado Autenticidad TOUS
-- Tamaño de los charms: 0,65 - 1,2 cm.
-- Packaging original TOUS
+- Collar TOUS Good Vibes Mama de plata de primera ley con cinco charms (corazón, cuerno de la abundancia, medalla mama, trébol de cuatro hojas y herradura).
 - Regalo ideal para el Dia de la Madre
+- Tamaño de los charms: 0,65 - 1,2 cm.
+- Certificado Autenticidad TOUS
+- Packaging original TOUS
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087GCS38V/?tag=tolees-21)

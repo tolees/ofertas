@@ -28,12 +28,12 @@ En este momento está [Rowenta PU6080 Intense Pure Air Connect XL - Purificador 
 
 🔎:
 
-- Su sensor de particulas y gas detecta la contaminación automáticamente y ajusta la velocidad; además tiene un modo automático día y noche que ajusta la emisión de luz
+- Zona de accion de 140 m² y hasta 28db(a) en el modo silencio con 4 velocidades; consigues purificar el aire en tan solo 10 minutos en el modo boost
+- 4 niveles filtración: pre-filtro, filtro de carbón activo (olores, humos), filtro de alta eficiencia (polvo fino, polen, los ácaros, alérgenos), filtro nano captur para destruir el formaldeido
+- Aplicación pure air disponible google play y apple store, para controlar el funcionamiento, la velocidad, el temporizador y la calidad del aire con recomendaciones personalizadas a tiempo real
 - Purificador de aire con captura hasta un 100% de alérgenos y partículas finas gracias a sus 4 niveles de filtración con tecnología nanocaptur, que elimina de forma permanente el nocivo formaldehído
 - Sus medidas compactas son 25.3 x 31.5 x 68.3 cm
+- Su sensor de particulas y gas detecta la contaminación automáticamente y ajusta la velocidad; además tiene un modo automático día y noche que ajusta la emisión de luz
 - Rápida purificación del aire para una purificación del aire en tan solo 5 minutos en modo Boost
-- 4 niveles filtración: pre-filtro, filtro de carbón activo (olores, humos), filtro de alta eficiencia (polvo fino, polen, los ácaros, alérgenos), filtro nano captur para destruir el formaldeido
-- Zona de accion de 140 m² y hasta 28db(a) en el modo silencio con 4 velocidades; consigues purificar el aire en tan solo 10 minutos en el modo boost
-- Aplicación pure air disponible google play y apple store, para controlar el funcionamiento, la velocidad, el temporizador y la calidad del aire con recomendaciones personalizadas a tiempo real
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078XXGMVV/?tag=tolees-21)
