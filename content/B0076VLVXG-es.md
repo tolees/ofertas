@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER A7188-XJ - Set de 50 Piezas al 38.77 % de descuento'
-date: 2021-11-22 08:12:54
+date: 2021-11-23 10:18:34
 image: 'https://m.media-amazon.com/images/I/51aGGV8ldYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Black+Decker'
 buyurl: 'https://www.amazon.es/dp/B0076VLVXG/?tag=tolees-21'
 descuento: '38.77'
-average: '14.9473333333332'
+average: '14.8824590163933'
 ---
 
 Está [BLACK+DECKER A7188-XJ - Set de 50 Piezas con Brocas y Puntas para Atornillar y Taladrar  Brocas de Titanio](https://www.amazon.es/dp/B0076VLVXG/?tag=tolees-21) con 38.77 de descuento por 10.99 EUR (original: 17.95 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [BLACK+DECKER A7188-XJ - Set de 50 Piezas con Brocas y Puntas para Atornil
 
 ℹ️:
 
+- Dispone de soporte magnético, avellanado
+- Los accesorios vienen almacenados en un maletín de color negro y naranja
 - Las brocas para metal tienen revestimiento de titanio
 - Incluye llaves de vaso hexagonales y adaptador
-- Los accesorios vienen almacenados en un maletín de color negro y naranja
-- Dispone de soporte magnético, avellanado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0076VLVXG/?tag=tolees-21)

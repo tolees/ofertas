@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell TC-ID 1000 E Taladro Percutor  1 con un 43.30 % de descuento'
-date: 2021-11-22 08:23:15
+date: 2021-11-23 10:09:43
 image: 'https://m.media-amazon.com/images/I/510JTovS8sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Einhell'
 buyurl: 'https://www.amazon.es/dp/B00HT94XF8/?tag=tolees-21'
 descuento: '43.30'
-average: '40.5192307692308'
+average: '40.0528571428572'
 ---
 
 En este momento está [Einhell TC-ID 1000 E Taladro Percutor  1010 W  capacidad de perforación Ø madera 32 mm  concreto 16 mm  metal 13 mm  tope de profundidad de metal ](https://www.amazon.es/dp/B00HT94XF8/?tag=tolees-21) a 33.99 EUR (original: 59.95 EUR) (43.30 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Einhell TC-ID 1000 E Taladro Percutor  1010 W  capacidad 
 
 🔎:
 
-- Impactos: 0 - 48.000 min-1
 - Potencia 1.010 W
-- Capacidad de trabajo: madera/ cemento/ metal: 32 / 16 / 13 mm
 - Velocidad: 0 - 3.000 min-1
+- Impactos: 0 - 48.000 min-1
+- Capacidad de trabajo: madera/ cemento/ metal: 32 / 16 / 13 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00HT94XF8/?tag=tolees-21)
