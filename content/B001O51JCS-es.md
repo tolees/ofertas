@@ -28,8 +28,8 @@ Está [STANLEY 1-83-065 - Tornillo de banco de carga ligera Maxsteel 100mm   25.
 
 ℹ️:
 
-- Profundidad de la garganta de 65 mm, capacidad de sujeción de 100 mm
 - Las roscas de tornillo conformadas en rollo garantizan un funcionamiento suave y durabilidad
+- Profundidad de la garganta de 65 mm, capacidad de sujeción de 100 mm
 - Los pernos de base directamente a la superficie de la mesa de trabajo para la estabilidad y también giros y cerraduras para la versatilidad
 - El hardware cromado resiste la corrosión
 

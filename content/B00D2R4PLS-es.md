@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY 0-28-217 - Rascavidrios con 5 ho al 39.70 % de rebaja'
-date: 2021-11-22 00:45:05
+date: 2021-11-23 03:37:02
 image: 'https://m.media-amazon.com/images/I/41O0PrKKvkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B00D2R4PLS/?tag=tolees-21'
 descuento: '39.70'
-average: '3.06071428571428'
+average: '2.98933333333333'
 ---
 
 Tienes [STANLEY 0-28-217 - Rascavidrios con 5 hojas](https://www.amazon.es/dp/B00D2R4PLS/?tag=tolees-21) con precio final de  1.99 EUR (original: 3.3 EUR) (39.70 %  de rebaja) aqui!
@@ -29,9 +29,9 @@ Tienes [STANLEY 0-28-217 - Rascavidrios con 5 hojas](https://www.amazon.es/dp/B0
 🔎:
 
 - Longitud de la hoja es de 70mm
-- Rascavidrios con diseño ergonómico de empuñadura bimaterial
-- Cambio fácil de la hoja
-- Incluye: 5 hojas de recambio
 - Cuchilla retráctil para mayor seguridad
+- Cambio fácil de la hoja
+- Rascavidrios con diseño ergonómico de empuñadura bimaterial
+- Incluye: 5 hojas de recambio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00D2R4PLS/?tag=tolees-21)
