@@ -28,8 +28,8 @@ Está [Vans UA Old Skool  Zapatillas Unisex Adulto  Navy  40.5 EU](https://www.a
 
 ℹ️:
 
-- A estrenar y genuina. Somos un vendedor autorizado de Vans.
-- Vans Azul Zapatillas viejas de Skool
 - Ver descripción del producto para obtener más información.
+- Vans Azul Zapatillas viejas de Skool
+- A estrenar y genuina. Somos un vendedor autorizado de Vans.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000NP1ABU/?tag=tolees-21)

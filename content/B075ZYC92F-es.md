@@ -28,9 +28,9 @@ Ahora mismo tienes [Sennheiser GSP 302 Negro Auriculares con Micro para Gaming A
 
 🔎:
 
-- Sennheiser
-- 2 años
-- 507243
 - Casco gaming|sennheiser gsp 302|casque-micro sennheiser gsp 302|gsp 302
+- Sennheiser
+- 507243
+- 2 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075ZYC92F/?tag=tolees-21)

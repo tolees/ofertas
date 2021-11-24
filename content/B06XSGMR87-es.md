@@ -28,10 +28,10 @@ Ahora mismo tienes [Hugo Boss - BOSS Watches Reloj Cronógrafo para Hombre de Cu
 
 🔎:
 
-- Movimiento cronógrafo de cuarzo
-- Grosor de la caja de 10.60 mm; diámetro de la caja: 44 mm
-- Esfera blanca
 - 5 ATM de resistencia al agua; se puede utilizar en la ducha o para nadar, pero no para bucear en aguas profundas
+- Esfera blanca
+- Grosor de la caja de 10.60 mm; diámetro de la caja: 44 mm
 - Correa de piel marrón
+- Movimiento cronógrafo de cuarzo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XSGMR87/?tag=tolees-21)

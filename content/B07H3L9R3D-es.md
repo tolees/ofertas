@@ -29,8 +29,8 @@ En este momento está [Gillette ProShield Chill Maquinilla de Afeitar Hombre + 6
 🔎:
 
 - Lubricación por delante y por detrás de las hojas que protege contra la irritación mientras te afeitas
-- Recortador de precisión en la parte trasera, óptimo para perfilar las zonas más difíciles (nariz y patillas)
 - Tecnología Cooling, para una sensación refrescante durante el afeitado
+- Recortador de precisión en la parte trasera, óptimo para perfilar las zonas más difíciles (nariz y patillas)
 - Paquete apto para el buzón de correos
 - Cuchillas de afeitar Gillette con 5 hojas antifricción
 

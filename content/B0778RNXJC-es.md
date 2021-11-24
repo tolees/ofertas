@@ -28,7 +28,7 @@ En este momento está [Kappa Follow  Zapatillas Unisex niños  Negro  Black/Whit
 
 🔎:
 
-- Kappa Follow Kids - Zapatillas unisex para niños, color negro (1110 blanco/negro) en la talla 34
 - Kappa Follow Kids - Zapatillas unisex para niños, color negro (1110 blanco/negro), 34 EU
+- Kappa Follow Kids - Zapatillas unisex para niños, color negro (1110 blanco/negro) en la talla 34
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0778RNXJC/?tag=tolees-21)

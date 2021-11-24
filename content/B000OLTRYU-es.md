@@ -28,7 +28,7 @@ Tienes [Converse All Star Ox Canvas Zapatillas Negras-UK 7](https://www.amazon.e
 
 ℹ️:
 
-- Genuine Product
 - Authorised Stockist
+- Genuine Product
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000OLTRYU/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Philips BHH880/00 - Cepillo alisador de pelo  cerámico para alisar con c
 
 ℹ️:
 
-- Tecnología ThermoProtect: mantiene una temperatura constante en todo el cepillo para evitar que se caliente en exceso
 - 2 posiciones de temperatura para todo tipo de cabello
+- Tecnología ThermoProtect: mantiene una temperatura constante en todo el cepillo para evitar que se caliente en exceso
+- Calentamiento rápido en 50 segundos con indicador de listo para usar
 - Revestimiento cerámico con turmalina
 - Pelo liso natural en 5 minutos en cabello semi-húmedo o seco y longitud media o larga
-- Calentamiento rápido en 50 segundos con indicador de listo para usar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FSBH6XY/?tag=tolees-21)

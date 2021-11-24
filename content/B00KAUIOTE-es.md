@@ -28,8 +28,8 @@ Tienes [BLACK+DECKER A6485-XJ - Pack de 3 Bobinas de Hilo Reflex Simple para Cor
 
 ℹ️:
 
-- Bobina de hilo para los modelos con sistema de alimentación reflex simple de un hilo
-- Compatible con los cortabordes réflex simple de Black&Decker: ST5530, ST5528, ST4525, ST1820, GLC3630L20, GL4525, GL5028, GLC1423L, GLC1825L, GLC3630L, GL280, GL301, GL340, GL530, GL540, GL560, GL570, GL580, GLC120, GLC2000, GLC2500, GLC3000
 - Medidas de cada bobina: 10 m de largo y 1.5 mm de diámetro
+- Compatible con los cortabordes réflex simple de Black&Decker: ST5530, ST5528, ST4525, ST1820, GLC3630L20, GL4525, GL5028, GLC1423L, GLC1825L, GLC3630L, GL280, GL301, GL340, GL530, GL540, GL560, GL570, GL580, GLC120, GLC2000, GLC2500, GLC3000
+- Bobina de hilo para los modelos con sistema de alimentación reflex simple de un hilo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00KAUIOTE/?tag=tolees-21)

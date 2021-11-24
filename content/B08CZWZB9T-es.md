@@ -28,10 +28,10 @@ Tienes [EMUCA - Cubo de Basura con fijación Inferior para Cocina  contenedor de
 
 🔎:
 
-- Incluye un contenedor extraible de 20L y una cubeta auxiliar. Guias de bolas de extracción total, silenciosas con goma retenedora al cierre.
-- Fabricado en acero y plástico, en acabado gris antracita.
 - Contenedor de residuos de fijación inferior y extracción manual con capacidad total de hasta 20L.
-- Para instalación en módulos con medidas interiores mínimas de: ancho 264mm, profundidad 450mm y altura 395mm.
 - Para ajustar la bolsa al diseño cuadrado del contenedor, se recomienda usar una bolsa de mayor capacidad que el volumen indicado para el contenedor.
+- Fabricado en acero y plástico, en acabado gris antracita.
+- Para instalación en módulos con medidas interiores mínimas de: ancho 264mm, profundidad 450mm y altura 395mm.
+- Incluye un contenedor extraible de 20L y una cubeta auxiliar. Guias de bolas de extracción total, silenciosas con goma retenedora al cierre.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CZWZB9T/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Hummel Slimmer Stadil Leather High Jr  Zapatillas  Azul  Peacoat 7666   3
 
 ℹ️:
 
-- Alta calidad
-- Unisex niños
 - Hummel
+- Unisex niños
+- Alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N6SKPMT/?tag=tolees-21)

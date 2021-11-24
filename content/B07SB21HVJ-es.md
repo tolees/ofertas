@@ -28,9 +28,9 @@ Está [Helly Hansen Loke Jacket Chaqueta  Hombre  Navy  XL](https://www.amazon.e
 
 ℹ️:
 
-- Práctica para diversas condiciones meteorológicas
-- Es posible obtener un corte y confort óptimos para las actividades al aire libre durante todo el año
 - Bolsillos laterales
 - Impermeable, cortaviento y transpirable
+- Práctica para diversas condiciones meteorológicas
+- Es posible obtener un corte y confort óptimos para las actividades al aire libre durante todo el año
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SB21HVJ/?tag=tolees-21)

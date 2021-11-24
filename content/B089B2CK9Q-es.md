@@ -29,9 +29,9 @@ Tienes [Polar Unite - Fitness Smartwatch Resistente al Agua con GPS vía móvil 
 🔎:
 
 - SESIONES DE EJERCICIO DIARIAS PERSONALIZADAS CON LA GUÍA DE ENTRENAMIENTO FITSPARK: realiza entrenamientos diarios personalizados en base a tu recuperación y disposición; los ejercicios de FitSpark incluyen indicaciones visuales en tiempo real
-- MIDE TU RECUPERACIÓN: Nightly Recharge analiza diariamente cómo te recuperas del estrés y la actividad durante la noche para que puedas tomar mejores decisiones durante el día
-- ANALIZA TU SUEÑO: obtén información detallada sobre tu sueño y fases del sueño con Sleep Plus Stages
-- CONECTIVIDAD: Conecta con comunidades deportivas online (MyFitnessPal, Endomondo, Nike+ Run Club, Strava, TrainingPeaks, Adidas Running by Runtastic y más)
 - PARA DEPORTES DE INTERIOR Y DE EXTERIOR: La batería dura hasta 50 h en modo entrenamiento; fácil de usar gracias a la pantalla táctil a color, la interfaz de un botón con registro de la FC en la muñeca y GPS vía móvil, adecuado para el gimnasio, ejercicio en grupo o en equipo, natación, running, ciclismo, footing
+- MIDE TU RECUPERACIÓN: Nightly Recharge analiza diariamente cómo te recuperas del estrés y la actividad durante la noche para que puedas tomar mejores decisiones durante el día
+- CONECTIVIDAD: Conecta con comunidades deportivas online (MyFitnessPal, Endomondo, Nike+ Run Club, Strava, TrainingPeaks, Adidas Running by Runtastic y más)
+- ANALIZA TU SUEÑO: obtén información detallada sobre tu sueño y fases del sueño con Sleep Plus Stages
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089B2CK9Q/?tag=tolees-21)

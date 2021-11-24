@@ -28,10 +28,10 @@ Está [Eastpak The One Bolso Bandolera  21 cm  2.5 L  Azul  Cloud Navy ](https:/
 
 ℹ️:
 
-- La correa ajustable para el hombro hace a The One más cómoda de llevar
 - Altura: 21 cm, Ancho: 16.5 cm, Fondo: 5.5 cm
 - Fabricada 100 % en nylon
 - Amplio compartimento principal, adecuado para todo lo que necesitas en un viaje de un día
+- La correa ajustable para el hombro hace a The One más cómoda de llevar
 - Mantén todo en orden con los bolsillos con cremallera en las partes delantera, trasera e interior
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073X3C6KM/?tag=tolees-21)
