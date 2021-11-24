@@ -28,8 +28,8 @@ Tienes [Joma Champion IV Pantalon Largo Deportivo  Mujer  tricotmarino  XL](http
 
 ℹ️:
 
-- Pantalon largo deportivo
 - Woman trainning
+- Pantalon largo deportivo
 - Tricotmarino
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06Y65LZPK/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [AEG KF3300 Cafetera de Goteo de 12 Tazas  Jarra de Crista
 
 🔎:
 
-- APAGADO AUTOMÁTICO: Dispone de apagado automático a los 40 minutos con placa de calentamiento antiadherente
-- JARRA DE CRISTAL: Diseñada para la comodidad tanto de personas diestras como zurdas
-- GRAN CAPACIDAD: Jarra extragrande con capacidad de hasta 12 tazas de café
-- SISTEMA ANTIGOTEO: La válvula antigoteo permite extraer la jarra de café cuando está en funcionamiento
 - JARRA EXTRAGRANDE: Con capacidad de 1,4 Litros hace que tenga una capacidad muy elevada, dispone de indicado de nivel de café
+- GRAN CAPACIDAD: Jarra extragrande con capacidad de hasta 12 tazas de café
+- APAGADO AUTOMÁTICO: Dispone de apagado automático a los 40 minutos con placa de calentamiento antiadherente
+- SISTEMA ANTIGOTEO: La válvula antigoteo permite extraer la jarra de café cuando está en funcionamiento
+- JARRA DE CRISTAL: Diseñada para la comodidad tanto de personas diestras como zurdas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0148ADVXU/?tag=tolees-21)

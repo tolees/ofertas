@@ -28,11 +28,11 @@ Tienes [Eastpak Padded Pak R Mochila  40 cm  24 L  Gris  Glitsilver ](https://ww
 
 ℹ️:
 
-- Correas ajustables para los hombros y panel de la espalda acolchados
-- El compartimento principal dispone de un bolsillo delantero con cremallera
-- En nuestra gama de colores Glitsilver
-- Confección en 100 % poliéster
-- No se han utilizado materiales de origen animal para fabricar este producto 100 % vegano
 - Alto: 40 cm Ancho: 30 cm Fondo: 18 cm
+- Confección en 100 % poliéster
+- El compartimento principal dispone de un bolsillo delantero con cremallera
+- Correas ajustables para los hombros y panel de la espalda acolchados
+- En nuestra gama de colores Glitsilver
+- No se han utilizado materiales de origen animal para fabricar este producto 100 % vegano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08L88M5SJ/?tag=tolees-21)

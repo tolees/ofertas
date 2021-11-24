@@ -29,9 +29,9 @@ Ahora mismo tienes [Desigual Kids Bottoms Aw19 Pantalones  Verde  7-8 Años para
 🔎:
 
 - Estampado de animales exóticos y flores en vivos colores
-- Pantalón jogger verde con elástico en cintura y tobillos. Luce un elegante estampado de animales exóticos y flores en vivos colores. Nueva colección Kids OI21 Desigual.
 - Elástico en cintura y tobillos
 - Machine Wash Cold Inside Out, Mild Wash
 - Desigual Kids - Pantalón jogger con estampado de flores y animales exóticos
+- Pantalón jogger verde con elástico en cintura y tobillos. Luce un elegante estampado de animales exóticos y flores en vivos colores. Nueva colección Kids OI21 Desigual.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08THQXRG7/?tag=tolees-21)

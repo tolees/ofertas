@@ -29,8 +29,8 @@ En este momento está [adidas Parma 16 Sho - Pantalón corto para Niños  Azul  
 🔎:
 
 - Piqué 100% poliéster
-- Logotipo de Adidas bordado
-- Cintura elástica con cordón
 - La tecnología Climalite aleja el sudor de la piel
+- Cintura elástica con cordón
+- Logotipo de Adidas bordado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B016REIDI8/?tag=tolees-21)

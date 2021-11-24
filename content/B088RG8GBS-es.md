@@ -28,8 +28,8 @@ En este momento está [PUMA Respin SL  Zapatillas  para Unisex adulto  Blanco  P
 
 🔎:
 
-- Parte superior de piel sintética
 - IMEVA: material de Puma para una sensación ligera y cómoda
+- Parte superior de piel sintética
 - Entresuela de TPU e IMEVA
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088RG8GBS/?tag=tolees-21)
