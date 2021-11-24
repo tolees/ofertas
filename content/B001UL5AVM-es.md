@@ -28,9 +28,9 @@ Tienes [Vans Old Skool  Zapatillas de lona unisex  Negro  Black/Black Canvas   3
 
 ℹ️:
 
-- Deportivas con las siguientes características:
+- Ajuste : Normal
 - Tu nuevo merchandising favorito
 - Zapatillas || Ajuste normal || Color intenso || Materiales de larga duración
-- Ajuste : Normal
+- Deportivas con las siguientes características:
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001UL5AVM/?tag=tolees-21)

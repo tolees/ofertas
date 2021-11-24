@@ -28,10 +28,10 @@ En este momento está [Russell Hobbs Vaporera Cook@Home - 3 Recipientes  Capacid
 
 🔎:
 
-- 43 Entradas de Agua - Dispone de 2 entradas de agua laterales y bandeja para recoger el agua sobrante
 - Cocina al Vapor - Cocina arroz, verduras y pescado al vapor manteniendo el máximo de nutrientes y vitaminas
-- Base de Acero Inoxidable - La base de la vaporera es de acero inoxidable cepillado las bandejas de plástico transparente y plástico blanco
+- 43 Entradas de Agua - Dispone de 2 entradas de agua laterales y bandeja para recoger el agua sobrante
 - Incluye 3 Recipientes - Los recipientes son apilables con una capacidad total de 9 litros, también cuenta con una cubeta de 1 litro para arroz y rejilla para huevos en los recipientes
+- Base de Acero Inoxidable - La base de la vaporera es de acero inoxidable cepillado las bandejas de plástico transparente y plástico blanco
 - Potencia de 800 W - Cuenta con una potencia de 800 W, temporizador de 60 minutos con desconexión automática y señal de aviso de finalización del ciclo de cocción
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008Y6IN3S/?tag=tolees-21)

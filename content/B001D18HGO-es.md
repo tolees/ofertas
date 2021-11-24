@@ -28,8 +28,8 @@ En este momento está [Vans U Old Skool - Zapatillas  Unisex Adulto  Negro  Nero
 
 🔎:
 
+- Suela waffle para un agarre más firme
 - Parte superior de lona resistente
 - Puntera reforzada
-- Suela waffle para un agarre más firme
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B001D18HGO/?tag=tolees-21)

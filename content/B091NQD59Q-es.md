@@ -28,10 +28,10 @@ Tienes [Square Enix - Life is Strange True Colors](https://www.amazon.es/dp/B091
 
 🔎:
 
-- LA VERDAD DOLERÁ: Descubre los impactantes secretos que rodean la muerte de tu hermano en una aventura cargada de emociones; uNA BANDA SONORA EXCLUSIVA: Nuevos temas de mxmtoon y Novo Amor y un gran número de canciones con licencia de artistas como Radiohead, Phoebe Bridgers o Gabrielle Aplin
+- ESTABLECE RELACIONES ESTRECHAS: Gánate la confianza de los vecinos del pueblo y entabla una relación amorosa o de amistad con Ryan y Steph
 - UNA HISTORIA VERDADERAMENTE PERSONAL: Toma decisiones difíciles y elige tu propio futuro mientras te mueves libremente por las calles, tiendas y rincones de Haven Springs y conoces a personajes inolvidables
+- LA VERDAD DOLERÁ: Descubre los impactantes secretos que rodean la muerte de tu hermano en una aventura cargada de emociones; uNA BANDA SONORA EXCLUSIVA: Nuevos temas de mxmtoon y Novo Amor y un gran número de canciones con licencia de artistas como Radiohead, Phoebe Bridgers o Gabrielle Aplin
 - SIÉNTELO TODO: Cambia el destino y cambia vidas con el poder de la empatía
 - ENCUENTRA LA FORMA DE EXPRESARTE: Y elige el estilo de Alex a partir de los 24 atuendos del armario
-- ESTABLECE RELACIONES ESTRECHAS: Gánate la confianza de los vecinos del pueblo y entabla una relación amorosa o de amistad con Ryan y Steph
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B091NQD59Q/?tag=tolees-21)

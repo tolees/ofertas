@@ -28,8 +28,8 @@ Tienes [Reebok Club C 85  Zapatillas Hombre  Blanco Intense White Navy 0  40.5 E
 
 ℹ️:
 
-- Empeine de piel
 - Amortiguación
 - Zapatillas deportivas
+- Empeine de piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N9FOKV0/?tag=tolees-21)

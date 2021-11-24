@@ -28,8 +28,8 @@ Tienes [Reebok Club C 85  Sneaker Hombre  Blanco INT White Royal Gum  40.5 EU](h
 
 ℹ️:
 
-- Parte superior de cuero suave
-- Entresuela de EVA troquelada
 - Suela de goma
+- Entresuela de EVA troquelada
+- Parte superior de cuero suave
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N7A9BE0/?tag=tolees-21)

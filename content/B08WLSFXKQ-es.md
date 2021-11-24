@@ -28,10 +28,10 @@ En este momento está [Michael Kors Smartwatch para mujer Darci de 5a generació
 
 🔎:
 
-- Más de 24 horas, modo de batería de múltiples días ampliado **Según el uso y después de la instalación deizaciones;** El cable USB con carga magnética se adhiere a las anillas de la parte trasera de la caja y permite un giro de 360 grados para facilitar su uso; En 60 minutos alcanza el 80 % de batería
-- Mantente conectado con notificaciones de llamadas, mensajes de texto, aplicaciones y sincronización automática de la hora, la zona horaria y el calendario; no pierdas nunca una llamada: responde y llama directamente desde tu reloj cuando no tengas el teléfono a tu alcance.
-- Utiliza la aplicación wearos by google en tu teléfono con android 6.0+ (excepto la edición go) o ios 12.0+
-- Realiza automáticamente un seguimiento de los objetivos de actividad, pasos, sueño, frecuencia cardíaca, nivel cardiovascular y mucho más. Los modos de actividad con GPS con conexión te permiten controlar la distancia y el ritmo. Los sensores avanzados proporcionan los datos para alimentar todas tus aplicaciones de salud y fitness.
 - Pantalla siempre activa con miles de esferas de reloj para que personalices tu look y veas siempre la hora; cientos de aplicaciones desde el asistente a aplicaciones para forma física, pagos, música, redes sociales, noticias, juegos, cronómetros y mucho más; con un diseño apto para nadar, es ideal para todas tus actividades
+- Utiliza la aplicación wearos by google en tu teléfono con android 6.0+ (excepto la edición go) o ios 12.0+
+- Mantente conectado con notificaciones de llamadas, mensajes de texto, aplicaciones y sincronización automática de la hora, la zona horaria y el calendario; no pierdas nunca una llamada: responde y llama directamente desde tu reloj cuando no tengas el teléfono a tu alcance.
+- Realiza automáticamente un seguimiento de los objetivos de actividad, pasos, sueño, frecuencia cardíaca, nivel cardiovascular y mucho más. Los modos de actividad con GPS con conexión te permiten controlar la distancia y el ritmo. Los sensores avanzados proporcionan los datos para alimentar todas tus aplicaciones de salud y fitness.
+- Más de 24 horas, modo de batería de múltiples días ampliado **Según el uso y después de la instalación deizaciones;** El cable USB con carga magnética se adhiere a las anillas de la parte trasera de la caja y permite un giro de 360 grados para facilitar su uso; En 60 minutos alcanza el 80 % de batería
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WLSFXKQ/?tag=tolees-21)

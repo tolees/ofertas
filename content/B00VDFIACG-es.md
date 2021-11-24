@@ -28,10 +28,10 @@ Tienes [wangols - Tapón anal de silicona  vibrador de próstata con vibración 
 
 ℹ️:
 
+- Pilas (2 x AAA)
+- Silicona médica, muy suave.
+- 10 tipos de vibración diferentes, más ligera a más fuerte con simulación de próstata.
 - Longitud: 10 cm, diámetro: 19-25 mm, mando a distancia L7 cm, peso: 55 gramos
 - Tapón anal de silicona con vibración y mando a distancia
-- Pilas (2 x AAA)
-- 10 tipos de vibración diferentes, más ligera a más fuerte con simulación de próstata.
-- Silicona médica, muy suave.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VDFIACG/?tag=tolees-21)
