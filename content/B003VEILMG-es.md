@@ -28,10 +28,10 @@ En este momento está [Bosch Professional - Bosch 12V System GSR 12V-15 - Atorni
 
 🔎:
 
-- Diseño compacto, cabezal de 169 mm para un manejo fácil, incluso en espacios estrechos y trabajos en altura
 - El sistema Electronic Cell Protection evita la sobrecarga, el sobrecalentamiento y la descarga completa
-- Todas las baterías son compatibles con herramientas Bosch Professional del mismo voltaje
-- Par de apriete duro de 30 Nm y velocidad de 0-1300 rpm, equilibrio óptimo entre máxima potencia y mínimo tamaño de la herramienta
 - Incluye: 1/2 bandeja de L-BOXX para herramienta, en caja; batería y cargador no incluidos
+- Diseño compacto, cabezal de 169 mm para un manejo fácil, incluso en espacios estrechos y trabajos en altura
+- Par de apriete duro de 30 Nm y velocidad de 0-1300 rpm, equilibrio óptimo entre máxima potencia y mínimo tamaño de la herramienta
+- Todas las baterías son compatibles con herramientas Bosch Professional del mismo voltaje
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003VEILMG/?tag=tolees-21)

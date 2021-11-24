@@ -28,8 +28,8 @@ Ahora mismo tienes [Reebok Royal Glide Ripple Clip  Zapatillas de Deporte Hombre
 
 🔎:
 
-- Sports shoes
 - Classic style
 - Cushioning
+- Sports shoes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MTGK3C7/?tag=tolees-21)

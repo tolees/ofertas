@@ -28,8 +28,8 @@ Está [Star Wars - Disfraz de Darth Vader para niños  talla M  5-7 años   Rubi
 
 ℹ️:
 
-- Perfecto para los pequeños fans de Star Wars, ¡con licencia oficial!
 - Incluye: Mono con cuello, pechera y cubrebotas, máscara, capa y cinturón
+- Perfecto para los pequeños fans de Star Wars, ¡con licencia oficial!
 - Talla: M, 5-7 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000P56XPG/?tag=tolees-21)

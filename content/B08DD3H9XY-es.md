@@ -28,10 +28,10 @@ Tienes [Science4you-Science4you-Laboratorio Encriptado Programación para Niños
 
 🔎:
 
-- Crea tus joyas en código y envía mensajes encriptados con diferentes códigos secretos
 - Averigua cómo programar un robot o cómo escribir en lenguaje binario
+- Este kit tiene 30 contenidos
+- Crea tus joyas en código y envía mensajes encriptados con diferentes códigos secretos
 - Invita a tus amigos y construye un viejo sistema de encriptación.
 - JUGUETE PROGRAMACIÓN PARA NIÑOS: Descubrir el mundo de la coding con 10 experiencias
-- Este kit tiene 30 contenidos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DD3H9XY/?tag=tolees-21)
