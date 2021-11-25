@@ -28,10 +28,10 @@ Ahora mismo tienes [Osram 811737 Bombilla LED R7S  15 W  Blanco Cálido](https:/
 
 🔎:
 
-- Luz instantánea, sin período de calentamiento; garantía de tres años
-- Fácil intercambio de lámparas estándar, reemplazo real de una lámpara incandescente de 125W
-- Larga vida útil: hasta 15000 horas y hasta 100000 encendidos
-- Luz blanca cálida para una sensación de bienestar y relajación en salas de estar, dormitorios y habitaciones infantiles
 - Bajo consumo de energía 15 kwh / 1000h a 2000 lm
+- Fácil intercambio de lámparas estándar, reemplazo real de una lámpara incandescente de 125W
+- Luz blanca cálida para una sensación de bienestar y relajación en salas de estar, dormitorios y habitaciones infantiles
+- Luz instantánea, sin período de calentamiento; garantía de tres años
+- Larga vida útil: hasta 15000 horas y hasta 100000 encendidos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072JZHGDJ/?tag=tolees-21)

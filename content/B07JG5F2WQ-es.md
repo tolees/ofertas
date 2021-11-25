@@ -28,8 +28,8 @@ Ahora mismo tienes [JACK & JONES Jfwvision Classic Chambray Anthraci Noos  Zapat
 
 🔎:
 
-- Modelo: 12150497 JFWVISION CLASSIC MIXED ANTHRACITE STS
 - Marca: Jack&Jones
 - Zapatillas de color gris. Cierre con cordones. Detalles bordados.
+- Modelo: 12150497 JFWVISION CLASSIC MIXED ANTHRACITE STS
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JG5F2WQ/?tag=tolees-21)

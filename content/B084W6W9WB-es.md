@@ -30,9 +30,9 @@ Tienes [Razer Viper Mini - Ratón para Juegos  Ratón Gaming  Ambidiestro  61g d
 
 - Perfil de memoria integrada para que tus ajustes personalizados vayan siempre contigo
 - Sensor óptico de 8500 PPP para un seguimiento preciso
-- Un diseño ambidiestro ligero de 61 g para un control suave y sin esfuerzos
 - Con tecnología Razer Chroma RGB para un estilo personalizado
 - Cable Razer Speedflex para una resistencia mínima y movimientos fluidos
+- Un diseño ambidiestro ligero de 61 g para un control suave y sin esfuerzos
 - Switches ópticos para ratón Razer para un accionamiento a la velocidad de la luz
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084W6W9WB/?tag=tolees-21)
