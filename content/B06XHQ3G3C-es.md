@@ -29,8 +29,8 @@ En este momento está [Melissa & Doug Set de 28 Piezas de Madera para Preparar H
 🔎:
 
 - Levanta y suelta la bolas de helado tal y como lo hace la cuchara para bolas de helado de verdad
-- Incluye el mostrador, 8 bolas de helado de madera, 6 ingredientes decorativos, 2 conos, 1 copa de plástico, 1 cuchara para bolas de helado, 1 cuchara de madera y 1 tarjeta de menú reutilizable
 - Set de 28 piezas de madera para preparar helados
 - Las bolas de helado se apilan en el cono o en la copa y los ingredientes decorativos calzan perfectamente sobre las bolas de helado
+- Incluye el mostrador, 8 bolas de helado de madera, 6 ingredientes decorativos, 2 conos, 1 copa de plástico, 1 cuchara para bolas de helado, 1 cuchara de madera y 1 tarjeta de menú reutilizable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XHQ3G3C/?tag=tolees-21)

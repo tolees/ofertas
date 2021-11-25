@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Organic Cotton Logo T-Shirt Camiseta  Indigo Dusty  L para
 
 ℹ️:
 
-- Ofrece un confort óptimo
 - Cuenta con un diseño casual
+- Ofrece un confort óptimo
 - Logotipo de la marca estampado en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08T6JSC6Y/?tag=tolees-21)
