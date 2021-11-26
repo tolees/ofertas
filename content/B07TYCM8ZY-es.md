@@ -28,8 +28,8 @@ En este momento está [Lee Basic Crew Logo Suéter  Azul  Midnight Navy Ma   Sma
 
 🔎:
 
-- Producto de corte regular
-- Diseño cómodo y confortable
 - Tiene el logo de la marca impreso en el pecho
+- Diseño cómodo y confortable
+- Producto de corte regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TYCM8ZY/?tag=tolees-21)

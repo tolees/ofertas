@@ -29,8 +29,8 @@ Está [GEOX Woman D AERANTIS 4X4 B ABX BOOT TOBACCO 36 EU](https://www.amazon.es
 ℹ️:
 
 - Altura del tacón: 4.5 cm / 1.8 inch
-- Calce fácil de regular gracias al cierre con cordones
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Calce fácil de regular gracias al cierre con cordones
 - Plantilla desmontable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088KNFK1G/?tag=tolees-21)

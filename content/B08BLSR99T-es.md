@@ -28,14 +28,14 @@ Tienes [Geox B TODO GIRL A Zapatillas Bebé-Niñas  Rosa  Pink   25 EU](https://
 
 🔎:
 
-- Revestimiento: Malla
-- Material de la suela: Sintético
+- Altura del tacón: 2.0 centímetros
+- Composición: 100% Sintético
+- Anchura del zapato: Normal
 - Tipo de tacón: Plano
 - Cierre: Velcro
-- Tipo de talla: Los zapatos Geox son holgados
-- Composición: 100% Sintético
-- Altura del tacón: 2.0 centímetros
 - Material exterior: Sintético
-- Anchura del zapato: Normal
+- Tipo de talla: Los zapatos Geox son holgados
+- Revestimiento: Malla
+- Material de la suela: Sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BLSR99T/?tag=tolees-21)

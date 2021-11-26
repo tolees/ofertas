@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Entertainment - La Liga de  al 52.97 % de descuento'
-date: 2021-11-25 20:58:07
+date: 2021-11-26 21:55:25
 image: 'https://m.media-amazon.com/images/I/41AG+S0Z4bS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Entertainment'
 buyurl: 'https://www.amazon.es/dp/B091VKJPBS/?tag=tolees-21'
 descuento: '52.97'
-average: '10.0471428571429'
+average: '9.79000000000004'
 ---
 
 Está [Warner Bros. Entertainment - La Liga de la Justicia de Zack Snyder  2 discos DVD  [DVD]](https://www.amazon.es/dp/B091VKJPBS/?tag=tolees-21) con 52.97 de descuento por 7.99 EUR (original: 16.99 EUR) en el siguiente enlace!

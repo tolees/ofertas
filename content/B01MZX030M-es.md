@@ -30,8 +30,8 @@ Tienes [New Balance 373 Core  Zapatillas Hombre  Rojo  Bordeaux   42.5 EU](https
 
 - Material exterior: material sintético
 - Material interior: tela
-- Cierre: cordones
 - Material de la suela: goma
+- Cierre: cordones
 - Estilo: zapatillas de running
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MZX030M/?tag=tolees-21)

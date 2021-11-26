@@ -29,9 +29,9 @@ En este momento está [Acer Chromebook 314 CB314-1H - Ordenador Portátil 14" Fu
 🔎:
 
 - WIFI POTENTE: mantén una señal inalámbrica fuerte y consistente con la antena Wi-Fi 5 (802.11ac) estratégicamente situada con 2x2 MU-MIMO que ofrece wifi de alta velocidad y puede manejar más dispositivos inalámbricos a la vez
-- PANTALLA FULL HD: diseñado para trabajar en condiciones de luz brillante, la pantalla IPS de 14 pulgadas y 7,3 mm de espesor del Acer Chromebook 314 potencia tu productividad y te permite disfrutar de imágenes vivas y colores brillantes
-- SISTEMA OPERATIVO CHROME: aumenta la productividad con los portátiles Acer Chromebook; Chrome OS es intuitivo y fácil de usar, incluye un arranque rápido, alta seguridad y una batería de larga duración (hasta 12 horas de autonomía) para poder trabajar todo el día con una carga
 - PROCESAMIENTO POTENTE: el procesador de Intel proporciona un bajo consumo de energía (hasta 12 horas de autonomía) y una respuesta rápida. El rendimiento extra hace que los proyectos gráficos se ejecuten con mayor fluidez para hacer las tareas más rápidamente
 - DISEÑO LIGERO: diseñado para transportarlo fácilmente, este Chromebook es un PC portátil profesional y ligero más pequeño que una hoja DIN A4 y pesa menos de 2 kg para que puedas llevarlo contigo a cualquier parte
+- PANTALLA FULL HD: diseñado para trabajar en condiciones de luz brillante, la pantalla IPS de 14 pulgadas y 7,3 mm de espesor del Acer Chromebook 314 potencia tu productividad y te permite disfrutar de imágenes vivas y colores brillantes
+- SISTEMA OPERATIVO CHROME: aumenta la productividad con los portátiles Acer Chromebook; Chrome OS es intuitivo y fácil de usar, incluye un arranque rápido, alta seguridad y una batería de larga duración (hasta 12 horas de autonomía) para poder trabajar todo el día con una carga
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XC1G78P/?tag=tolees-21)
