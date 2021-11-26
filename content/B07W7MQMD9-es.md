@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G502 HERO Ratón Gaming Edición  al 58.90 % de rebaja'
-date: 2021-11-25 13:22:45
+date: 2021-11-26 14:29:04
 image: 'https://m.media-amazon.com/images/I/31sCiWHAbeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Logitech G'
 buyurl: 'https://www.amazon.es/dp/B07W7MQMD9/?tag=tolees-21'
 descuento: '58.90'
-average: '50.3598019801978'
+average: '50.2287254901959'
 ---
 
 Tienes [Logitech G502 HERO Ratón Gaming Edición Especial con Cable Alto Rendimiento  Captor HERO 25K  25 600 DPI  RGB  Peso Personalizable  11 Botones Programables  PC/Mac - Blanco y Negro](https://www.amazon.es/dp/B07W7MQMD9/?tag=tolees-21) con precio final de  36.99 EUR (original: 89.99 EUR) (58.90 %  de rebaja) aqui!
@@ -29,11 +29,11 @@ Tienes [Logitech G502 HERO Ratón Gaming Edición Especial con Cable Alto Rendim
 🔎:
 
 - RGB LIGHTSYNC: La tecnología LIGHTSYNC ofrece una iluminación RGB totalmente personalizable, y sincroniza efectos y animaciones de iluminación con otros dispositivos Logitech G
-- La marca de accesorios para gaming más vendida del mundo: Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming en unidades
-- Peso Personalizable: Ajusta el tacto y el deslizamiento del ratón. G502 HERO SE incluye cinco pesas de 3,6 g que se pueden usar en diversas configuraciones de peso
 - 11 Botones Programables y Botón Rueda Superrápido con Dos Modos: El ratón con cable para gaming Logitech G permite personalizar tu configuración para controlar totalmente el juego
 - Sensor de próxima generación: Capaz de detectar movimientos a nivel submicrónico, puede seguir el movimiento de menos de una millonésima de metro con una precisión extrema
+- La marca de accesorios para gaming más vendida del mundo: Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming en unidades
 - Sistema Mecánico de Tensión de Botones: El sistema mecánico de tensión de botones del ratón con cable para gaming aumenta la coherencia de respuesta de los botones izquierdo y derecho
 - Sensor HERO 25K: La próxima generación de sensor óptico HERO para ratón ofrece precisión al más alto nivel hasta 25 600 DPI sin suavizado, filtrado ni aceleración
+- Peso Personalizable: Ajusta el tacto y el deslizamiento del ratón. G502 HERO SE incluye cinco pesas de 3,6 g que se pueden usar en diversas configuraciones de peso
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W7MQMD9/?tag=tolees-21)
