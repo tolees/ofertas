@@ -28,8 +28,8 @@ En este momento está [G-STAR RAW G-Whistler Padded Hooded Chaqueta  Grey  Graph
 
 🔎:
 
-- Contenido del paquete: una unidad
 - Ofrecen comodidad y libertad de movimiento
+- Contenido del paquete: una unidad
 - Corte regular
 - Material resistente y duradero
 
