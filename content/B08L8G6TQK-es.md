@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Entertainment - Patria - Se al 50.02 % de descuento'
-date: 2021-11-25 20:56:12
+date: 2021-11-26 22:39:54
 image: 'https://m.media-amazon.com/images/I/41Wod5BUKlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Entertainment'
 buyurl: 'https://www.amazon.es/dp/B08L8G6TQK/?tag=tolees-21'
 descuento: '50.02'
-average: '19.4081818181819'
+average: '19.2877777777779'
 ---
 
 Está [Warner Bros. Entertainment - Patria - Serie completa [DVD]](https://www.amazon.es/dp/B08L8G6TQK/?tag=tolees-21) con 50.02 de descuento por 13.99 EUR (original: 27.99 EUR) en el siguiente enlace!

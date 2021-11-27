@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.89 % en Bond: Colección 24 películas [DVD]'
-date: 2021-11-25 20:52:01
+date: 2021-11-26 22:45:10
 image: 'https://m.media-amazon.com/images/I/41Hhj+HYoyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B019G9DR5A/?tag=tolees-21'
 descuento: '37.89'
-average: '52.4217142857143'
+average: '52.3138679245283'
 ---
 
 Tienes [Bond: Colección 24 películas [DVD]](https://www.amazon.es/dp/B019G9DR5A/?tag=tolees-21) con un 37.89 % de descuento con precio de oferta de 40.99 EUR (original: 66.0 EUR) en el siguiente enlace!

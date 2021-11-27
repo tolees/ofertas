@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 66.62 % en Levi s O.G Batwing Polo  Forest Biome  X'
-date: 2021-11-26 22:00:14
+date: 2021-11-26 22:00:35
 image: 'https://m.media-amazon.com/images/I/31fSLj+N7QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Levi s O.G Batwing Polo  Forest Biome  XS para Hombre](https://www.amazo
 
 ℹ️:
 
-- Estándar
 - Tamaño del paquete: 4,7 x 28,3 x 17,4 cm
-- Modelo: polo O.G Batwing
+- Estándar
 - Ajuste: normal
+- Modelo: polo O.G Batwing
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0897XGYC5/?tag=tolees-21)
