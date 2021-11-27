@@ -29,8 +29,8 @@ Ahora mismo tienes [ONLY Onlcaviar L/s Pullover Knt Noos  Suéter para Mujer  Az
 🔎:
 
 - Cuello redondo
+- Jersey de punto
 - Tejido texturizado
 - Composición: 100% poliacrílico
-- Jersey de punto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072LQXLLX/?tag=tolees-21)

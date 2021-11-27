@@ -28,10 +28,10 @@ En este momento está [Bosch Professional GBL 18V-120 Soplador  17000 rpm  270 k
 
 🔎:
 
-- Incluye: Soplador a batería de 18 V GBL 18V-120, 4 accesorios, boquilla estándar, tubo de prolongación, boquilla de profundidad, depósito de recogida de polvo, en caja
 - Potente: gracias a la corriente de aire que alcanza los 270 km/h (75 m/s), caudal de aire: 2,0 m³/min-120 m³/h
-- Professional 18V System. Máximo rendimiento. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o existentes Bosch Professional del mismo voltaje
 - Versátil y flexible: los cuatro accesorios ofrecen diferentes posibilidades de uso de la herramienta; por ejemplo, como soplador de hojas
 - Autonomía de funcionamiento en las dos velocidades: velocidad 1: 9 min por Ah; velocidad 2: 5 min por Ah
+- Incluye: Soplador a batería de 18 V GBL 18V-120, 4 accesorios, boquilla estándar, tubo de prolongación, boquilla de profundidad, depósito de recogida de polvo, en caja
+- Professional 18V System. Máximo rendimiento. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o existentes Bosch Professional del mismo voltaje
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01K4GC03O/?tag=tolees-21)

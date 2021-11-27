@@ -31,7 +31,7 @@ Está [Sharp HT-SB95 2.0 Barra de sonido cine en casa  Bluetooth con HDMI ARC/CE
 - Barra de sonido Bluetooth: experiencia de cine en casa o entretenimiento de juegos, ideal para televisores de tamaño mediano con una diagonal de pantalla de 32-43 pulgadas (televisor de 32 a 55 pulgadas), perfecto para el salón, la cocina, el comedor e incluso para el dormitorio
 - Función Bluetooth In: Reproduce el contenido de audio de tu smartphone/teléfono móvil, Smart TV o tableta
 - Contenido del envío: Barra de sonido HT-SB95, Cable de alimentación, Mando a distancia incl. batería, 2 x soporte de pared, Manual de instruccion
-- Fácil de usar gracias al mando a distancia incluido o el uso del mando a distancia de TV (conexión HDMI ARC / CEC), fijación a la pared o uso como estantería de mesa o televisor
 - Conexión a cualquier televisor con HDMI, audio digital óptico o salida auxiliar de 3,5 mm
+- Fácil de usar gracias al mando a distancia incluido o el uso del mando a distancia de TV (conexión HDMI ARC / CEC), fijación a la pared o uso como estantería de mesa o televisor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TGKSH1J/?tag=tolees-21)

@@ -30,10 +30,10 @@ Tienes [Netatmo NRG01-WW Pluviómetro Inalámbrico para la Estación Meteorológ
 
 - Recibe alertas en tu smartphone apenas empiece a llover
 - Netatmo asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
-- Mejora tu vida diaria adaptándola a la lluvia
-- Accede a las mediciones del nivel de precipitaciones en tiempo real en tu smartphone
-- Colócalo en exteriores, a una distancia máxima de 100 metros del módulo interior de la Estación Meteorológica - Inteligente
 - Accesorio de la Estación Meteorológica Netatmo (no incluida)
+- Colócalo en exteriores, a una distancia máxima de 100 metros del módulo interior de la Estación Meteorológica - Inteligente
+- Accede a las mediciones del nivel de precipitaciones en tiempo real en tu smartphone
 - Consulta tu historial para seguir la evolución de la lluvia
+- Mejora tu vida diaria adaptándola a la lluvia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00J5OHDGG/?tag=tolees-21)

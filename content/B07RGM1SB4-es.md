@@ -28,8 +28,8 @@ Tienes [Salomon X Reveal Gore-Tex  impermeable  Mujer Zapatos de trekking  Negro
 
 🔎:
 
-- Calzado salomon
 - Zapatillas de hiking montañismo, alpinismo y trekking mujer
 - Shoes x reveal gtx (l40971100)
+- Calzado salomon
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RGM1SB4/?tag=tolees-21)

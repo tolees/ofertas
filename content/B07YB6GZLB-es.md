@@ -28,10 +28,10 @@ Está [Taurus Easy Press Exprimidor Electrico  Acero Inoxidable](https://www.ama
 
 ℹ️:
 
-- Exprimidor totalmente desmontable para una fácil limpieza
-- Exprimidor con palanca de presión para conseguir mayor cantidad de zumo sin esfuerzo y de la forma más cómoda, sin ensuciarte las manos
-- Exprimidor de inox con motor profesional: motor ac profesional de 300w, alta potencía para obtener el máximo zumo rápidamente
 - Incluye un filtro en acero inoxidable y un filtro con regulador de pulpa ajustable
+- Exprimidor con palanca de presión para conseguir mayor cantidad de zumo sin esfuerzo y de la forma más cómoda, sin ensuciarte las manos
+- Exprimidor totalmente desmontable para una fácil limpieza
+- Exprimidor de inox con motor profesional: motor ac profesional de 300w, alta potencía para obtener el máximo zumo rápidamente
 - Su boca de salida cuenta con dos posiciones distintas, una que permite almacenar el zumo en el depósito de 0.65 litros y otra que ofrece un vertido continuo directo al vaso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YB6GZLB/?tag=tolees-21)

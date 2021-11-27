@@ -28,9 +28,9 @@ Tienes [ONLY Onlcaviar L/s Pullover Knt Noos  Suéter para Mujer  Negro  Black B
 
 🔎:
 
-- Tejido texturizado
-- Jersey de punto
-- Composición: 100% poliacrílico
 - Cuello redondo
+- Tejido texturizado
+- Composición: 100% poliacrílico
+- Jersey de punto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072PPL9D9/?tag=tolees-21)

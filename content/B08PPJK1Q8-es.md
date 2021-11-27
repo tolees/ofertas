@@ -28,8 +28,8 @@ En este momento está [adidas GH7172 CON21 HYB Top Pullover Mens Team Navy Blue/
 
 🔎:
 
-- Tela Suave
-- logotipo de Adidas
 - regular fit
+- logotipo de Adidas
+- Tela Suave
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PPJK1Q8/?tag=tolees-21)
