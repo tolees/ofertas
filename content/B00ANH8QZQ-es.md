@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney Pictures - Pinocho [DVD] con un 49.94 % de descuento'
-date: 2021-11-26 02:25:13
+date: 2021-11-27 03:01:01
 image: 'https://m.media-amazon.com/images/I/51lh1HuWReL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Walt Disney Pictures'
 buyurl: 'https://www.amazon.es/dp/B00ANH8QZQ/?tag=tolees-21'
 descuento: '49.94'
-average: '8.70000000000001'
+average: '8.67275449101797'
 ---
 
 En este momento está [Walt Disney Pictures - Pinocho [DVD]](https://www.amazon.es/dp/B00ANH8QZQ/?tag=tolees-21) a 4.15 EUR (original: 8.29 EUR) (49.94 %  de descuento) en el siguiente enlace!
