@@ -28,8 +28,8 @@ Está [Gillette Hydra Gel Desodorante Y Antitranspirante Eucalipto Para Hombre 7
 
 ℹ️:
 
-- Fórmula probada dermatológicamente
 - Protección contra el sudor diseñada con precisión
+- Fórmula probada dermatológicamente
 - 0 % alcohol
 - Protección contra el sudor y el olor durante 48 horas
 

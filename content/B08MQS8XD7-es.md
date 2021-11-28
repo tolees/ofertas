@@ -28,10 +28,10 @@ Ahora mismo tienes [Puma Flyer Runner Mesh  Zapatillas de Running Unisex Adulto 
 
 🔎:
 
-- Zapatillas de running FLYER Runner Mesh (195343-05)
-- Calzado deportivo de la marca Puma
 - Zapatillas de running ideales para Running de Niño
+- Zapatillas de running FLYER Runner Mesh (195343-05)
 - Las Zapatillas de running de la marca Puma están diseñadas con la última tecnología y la mejor calidad para que se adapten perfectamente a tu pie sin dejar de la lado el estilo
+- Calzado deportivo de la marca Puma
 - Practica tu deporte favorito gracias a las Zapatillas de running de Puma. Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MQS8XD7/?tag=tolees-21)

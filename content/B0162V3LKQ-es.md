@@ -28,9 +28,9 @@ En este momento está [Krom KHENSU -NXKROMKHNS- Gamepad  Alámbrico/Inalámbrico
 
 🔎:
 
-- Distancia de operación de hasta 10 m; batería de lítio recargable (10 h de duración)
-- Tecnología inalámbrica 2.4g; compatible con el modo xinput
 - Compatible con windows xp, vista, win7, win8 y win10
+- Tecnología inalámbrica 2.4g; compatible con el modo xinput
 - Nano receptor usb; modo turbo; agarre suave y vibración dual
+- Distancia de operación de hasta 10 m; batería de lítio recargable (10 h de duración)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0162V3LKQ/?tag=tolees-21)

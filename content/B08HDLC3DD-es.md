@@ -28,15 +28,15 @@ En este momento está [Jata PL598C Plancha DE Vapor  2600 W  350 milliliters  Ce
 
 🔎:
 
-- Golpe de vapor: potente golpe de vapor de 190 g para eliminar las arrugas de telas gruesas y los pliegues más rebeldes con total facilidad
-- Antical: las partículas de cal se capturan para garantizar la durabilidad de su sistema de vapor
-- Antigoteo: impide que el agua deje manchas en los tejidos, incluso planchando a bajas temperaturas
-- Termostato regulable: según la prenda que estés planchando podrás elegir la temperatura que más se adapte al planchado de la misma
-- Vapor continuo: con una salida de vapor continua de hasta 30 g/min conseguirás resultados fantásticos en tus prendas. Planchado rápido y eficiente
 - Suela cerámica: Esta suela permite un deslizamiento suave y fácil y garantiza un rendimiento duradero. Ofrece unos resultados óptimos día tras día sin dañarse
-- Cable: es pivotante 360º permitiéndote así una mayor libertad de movimiento mientras estás planchando
-- Autolimpieza: el conjunto de autolimpieza te permite una limpieza y un mantenimiento sin esfuerzo
+- Vapor continuo: con una salida de vapor continua de hasta 30 g/min conseguirás resultados fantásticos en tus prendas. Planchado rápido y eficiente
 - Vapor vertical: Planchar prendas delicadas y de gran tamaño es muy fácil con esta función ya que te permite eliminar arrugas de trajes o cortinas
 - Depósito: tiene capacidad de 350 ml y lleva tapa de seguridad para evitar que el agua se escape
+- Antical: las partículas de cal se capturan para garantizar la durabilidad de su sistema de vapor
+- Autolimpieza: el conjunto de autolimpieza te permite una limpieza y un mantenimiento sin esfuerzo
+- Termostato regulable: según la prenda que estés planchando podrás elegir la temperatura que más se adapte al planchado de la misma
+- Cable: es pivotante 360º permitiéndote así una mayor libertad de movimiento mientras estás planchando
+- Golpe de vapor: potente golpe de vapor de 190 g para eliminar las arrugas de telas gruesas y los pliegues más rebeldes con total facilidad
+- Antigoteo: impide que el agua deje manchas en los tejidos, incluso planchando a bajas temperaturas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HDLC3DD/?tag=tolees-21)
