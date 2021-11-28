@@ -28,10 +28,10 @@ Tienes [Durex Lubricante Sabor y Aroma Fresa de Base Agua - 50 ml](https://www.a
 
 ℹ️:
 
-- BASE AGUA: No es graso y puede lavarse fácilmente
-- SABOR Y AROMA A FRESA: Para unas sensaciones más dulces en tus relaciones íntimas con el lubricante Durex Fresa
-- SUAVE Y LIGERO: Respetuoso con la piel para más comodidad de uso
 - suaviza tus relaciones con este lubricante de base agua
+- SUAVE Y LIGERO: Respetuoso con la piel para más comodidad de uso
+- SABOR Y AROMA A FRESA: Para unas sensaciones más dulces en tus relaciones íntimas con el lubricante Durex Fresa
+- BASE AGUA: No es graso y puede lavarse fácilmente
 - ADECUADO PARA SEXO ORAL, VAGINAL O ANAL: Gracias a su textura suave y ligera, podrás usarlo en cualquier ocasión
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAD5FKY/?tag=tolees-21)

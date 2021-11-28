@@ -28,9 +28,9 @@ Tienes [Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona SSB
 
 🔎:
 
-- Resistente al agua: 10 bar-Peso: 108 g
-- Diámetro de la caja: 44 mm, Grueso: 13 mm, Color de la caja: Plata y Color del Dial: Negro
 - Reloj SEIKO para los Hombres con un movimiento del Cronógrafo -El reloj tiene una función del calendario: Fecha, Cronómetro, Indicador luminoso, Taquímetro
+- Diámetro de la caja: 44 mm, Grueso: 13 mm, Color de la caja: Plata y Color del Dial: Negro
+- Resistente al agua: 10 bar-Peso: 108 g
 - El reloj viene en una caja de regalo con una garantía de 2 años
 - Correa de alta calidad de Silicona Negro 21 cm de longitud y 20 mm de ancho con un Cierre Fibbia
 
