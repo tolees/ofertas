@@ -29,9 +29,9 @@ Ahora mismo tienes [Creek medical Mascarilla Quirúrgica Médica Tipo I de 3 Cap
 🔎:
 
 - Tres capas: (1) Capa externa: capa no tejida hidrófoba, (2) Capa intermedia: filtro de soplado, (3) Capa interna: capa no tejida absorbente suave
-- Es conforme con la norma EN 14683: 2019
-- Caja de 50.
-- Características: hipoalergénica, pinza de nariz ajustable, material transpirable, comodidad y filtración óptimas
 - Máscara no estéril tipo I de tres capas
+- Caja de 50.
+- Es conforme con la norma EN 14683: 2019
+- Características: hipoalergénica, pinza de nariz ajustable, material transpirable, comodidad y filtración óptimas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087STK1W7/?tag=tolees-21)

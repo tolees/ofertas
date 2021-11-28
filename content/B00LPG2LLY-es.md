@@ -28,11 +28,11 @@ Ahora mismo tienes [De Longhi Perfetto Autentica - Cafetera Superautomática Esp
 
 🔎:
 
+- CAFÉ LARGO: Función "Café Largo" diseñada especialmente para los amantes del café americano o café de filtro
+- DOBLE USO: Funciona con café molido y con monodosis "Easy Serving Espresso"
 - THERMOBLOCK: La tecnología Thermoblock calienta el agua en 35 segundos a la temperatura exacta, solo calienta el agua necesaria para cada bebida
 - FUNCIÓN DOPPIO+ para que disfrutes de un extra de aroma y un extra de energía
-- DOBLE USO: Funciona con café molido y con monodosis "Easy Serving Espresso"
-- CAPACIDAD: Depósito de 1.4 litros
 - PANTALLA LCD: Panel de control táctil y Pantalla LCD, gracias a sus controles digitales podrás preparar cualquier tipo de café solo presionando un botón
-- CAFÉ LARGO: Función "Café Largo" diseñada especialmente para los amantes del café americano o café de filtro
+- CAPACIDAD: Depósito de 1.4 litros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00LPG2LLY/?tag=tolees-21)
