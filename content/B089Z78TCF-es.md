@@ -28,10 +28,10 @@ En este momento está [PUMA ESS Logo Leggings Mallas Deporte  Mujer  Puma Black 
 
 🔎:
 
-- Corte ceñido
 - Cinturilla elástica
+- Estampado del logotipo PUMA N.º 1 de goma en la pierna izquierda
 - BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
 - Algodón y elastano
-- Estampado del logotipo PUMA N.º 1 de goma en la pierna izquierda
+- Corte ceñido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089Z78TCF/?tag=tolees-21)
