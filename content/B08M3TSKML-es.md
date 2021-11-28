@@ -28,10 +28,10 @@ En este momento está [Glop Mimika - Juego de Mímica - Juegos de Mesa - Juegos 
 
 🔎:
 
-- JUEGOS DE MESA FAMILIARES | Niños, adolescentes y adultos. A todos los queremos por igual 🤗 GLOP MIMIKA es ideal para noches de juegos en familia, diversión en casa, fiestas de cumpleaños, reuniones navideñas, para romper el hielo o plan vacaciones.
-- JUEGO DE MÍMICA | El juego adulto favorito para familias y amigos que mejora la comunicación, incrementa la paciencia y os da risas garantizadas 🤣 ¡Nunca antes tan divertido, ahora con un toque de estrategia que os hará flipar! 🤯
-- LOS GURÚS DE LA MÍMICA | El objetivo del juego de mesa adultos más divertido es conseguir una carta de cada categoría. ¡El primer equipo que lo consiga, GANA y serán los GURÚS de la MÍMIKA!
-- FÁCIL DE APRENDER + COMBINA ENTRETENIMIENTO Y ESTRATEGIA | El juego de fiesta incluye 250 cartas de 5 diferentes categorías, reloj de arena, y un dado. 💢Te recomendamos jugar entre 2 y 6 equipos, juego de mesa a partir de 14 años.
 - JUEGOS DE MESA | GLOP MIMIKA convierte al tradicional juego de mímica a otro nivel. Mantiene a todos los jugadores involucrados en todo momento, fomentando la interacción y llevando la adrenalina y la emoción de ganar a tope.
+- JUEGOS DE MESA FAMILIARES | Niños, adolescentes y adultos. A todos los queremos por igual 🤗 GLOP MIMIKA es ideal para noches de juegos en familia, diversión en casa, fiestas de cumpleaños, reuniones navideñas, para romper el hielo o plan vacaciones.
+- LOS GURÚS DE LA MÍMICA | El objetivo del juego de mesa adultos más divertido es conseguir una carta de cada categoría. ¡El primer equipo que lo consiga, GANA y serán los GURÚS de la MÍMIKA!
+- JUEGO DE MÍMICA | El juego adulto favorito para familias y amigos que mejora la comunicación, incrementa la paciencia y os da risas garantizadas 🤣 ¡Nunca antes tan divertido, ahora con un toque de estrategia que os hará flipar! 🤯
+- FÁCIL DE APRENDER + COMBINA ENTRETENIMIENTO Y ESTRATEGIA | El juego de fiesta incluye 250 cartas de 5 diferentes categorías, reloj de arena, y un dado. 💢Te recomendamos jugar entre 2 y 6 equipos, juego de mesa a partir de 14 años.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08M3TSKML/?tag=tolees-21)
