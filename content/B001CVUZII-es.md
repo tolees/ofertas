@@ -28,7 +28,7 @@ Está [Vans UA Old Skool  Zapatillas Unisex Adulto  Navy  36 EU](https://www.ama
 
 ℹ️:
 
-- Ref: VD3HNVY
 - Zapatillas Vans modelo Old Skool en color azul marino
+- Ref: VD3HNVY
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001CVUZII/?tag=tolees-21)

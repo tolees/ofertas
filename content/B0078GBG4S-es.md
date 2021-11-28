@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Bosch PTK 14 EDT al 42.73 % de rebaja'
-date: 2021-11-27 12:40:46
+date: 2021-11-28 13:08:17
 image: 'https://m.media-amazon.com/images/I/41cWLBvHCOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B0078GBG4S/?tag=tolees-21'
 descuento: '42.73'
-average: '69.408947368421'
+average: '69.088'
 ---
 
 Tienes [Bosch Home and Garden - Bosch PTK 14 EDT - Grapadora eléctrica válida para grapas y clavos  240 W ](https://www.amazon.es/dp/B0078GBG4S/?tag=tolees-21) con precio final de  62.99 EUR (original: 109.99 EUR) (42.73 %  de rebaja) aqui!
@@ -28,13 +28,13 @@ Tienes [Bosch Home and Garden - Bosch PTK 14 EDT - Grapadora eléctrica válida 
 
 🔎:
 
-- Extremadamente versátil, puede usarse con grapas y clavos, para fijar materiales finos en madera
-- Empuñadura antivibraciones Softgrip para un manejo seguro y cómodo
-- Funciona con: Grapas tipo 53 (6-14mm longitud, 13,4mm ancho); Clavos tipo 48 (15mm)
-- Ajuste electrónico de la fuerza de impacto para un resultado de trabajo óptimo al utilizar distintas longitudes de grapas y tipos de materiales
-- DuoTac: posibilidad de disparar dos grapas para una mayor resistencia
 - PTK 14 EDT: la grapadora universal versátil con la máxima comodidad de manejo
+- Funciona con: Grapas tipo 53 (6-14mm longitud, 13,4mm ancho); Clavos tipo 48 (15mm)
 - Incluye: Grapadora eléctrica PTK 14 EDT, 1000 grapas
+- Empuñadura antivibraciones Softgrip para un manejo seguro y cómodo
+- DuoTac: posibilidad de disparar dos grapas para una mayor resistencia
+- Extremadamente versátil, puede usarse con grapas y clavos, para fijar materiales finos en madera
+- Ajuste electrónico de la fuerza de impacto para un resultado de trabajo óptimo al utilizar distintas longitudes de grapas y tipos de materiales
 - Sistema «Push + Release» fácil de manejar para una activación controlada de los disparos: presionar el saliente de la grapadora en la pieza y accionar el interruptor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0078GBG4S/?tag=tolees-21)

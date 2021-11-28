@@ -28,10 +28,10 @@ Está [Logitech G Saitek Pro Flight Yoke Palanca de Mandos y Cuadrante de Aceler
 
 ℹ️:
 
-- Ajustable: Selector de vista, 14 botones de control, conmutador de modo de tres posiciones
-- Crea una Cabina Modular: Parte de un sistema completo. Logitech G Flight Yoke System está hecho para integrarse con nuestra completa línea de productos de simulación de vuelo
-- Cuadrante de Aceleración de Calidad Profesional: Joystick para videojuegos con cuadrante de aceleración de palanca de tres ejes
 - Palanca de Mandos de Calidad Profesional: Logitech G Saitek tien un eje de palanca de mandos de acero inoxidable
 - Pilota una Simulación de Vuelo Auténtica: Joystick gaming con controles de palanca de mandos de gran autenticidad
+- Ajustable: Selector de vista, 14 botones de control, conmutador de modo de tres posiciones
+- Cuadrante de Aceleración de Calidad Profesional: Joystick para videojuegos con cuadrante de aceleración de palanca de tres ejes
+- Crea una Cabina Modular: Parte de un sistema completo. Logitech G Flight Yoke System está hecho para integrarse con nuestra completa línea de productos de simulación de vuelo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MCXJWD1/?tag=tolees-21)

@@ -29,7 +29,7 @@ Ahora mismo tienes [Adidas RUNFALCON 2.0  Zapatillas Mujer  Super Pop Cloud Whit
 🔎:
 
 - Material duradero
-- Ajuste normal
 - Suela robusta
+- Ajuste normal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BX262MC/?tag=tolees-21)

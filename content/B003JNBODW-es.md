@@ -28,9 +28,9 @@ En este momento está [Pilot N185RS - Portaminas  0.5 mm  color rosa](https://ww
 
 🔎:
 
-- Tipo económico
-- Marca pilot
 - De alta calidad
+- Marca pilot
+- Tipo económico
 - Pilot es un nombre de marca reconocido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003JNBODW/?tag=tolees-21)

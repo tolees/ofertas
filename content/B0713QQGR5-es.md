@@ -28,9 +28,9 @@ Tienes [Bosch Home and Garden - Bosch AdvancedCut 50 - Sierra de calar con Tecno
 
 ℹ️:
 
-- Incluye: AdvancedCut 50, NanoBlade Wood Basic 50, tapa protectora, protección contra astillas, adaptador para carriles guía, 2 topes de profundidad, maletín
 - Manejo sencillo gracias a la hoja de sierra con microcadena NanoBlade, que requiere poco mantenimiento y no produce vibración
 - Múltiples posibilidades de aplicación: cortes de inmersión sin perforación previa, cortes a bisel hasta 45º y serrado de ranuras en dos niveles de profundidad
 - Con selección de velocidad para trabajar de forma precisa y acorde con el material correspondiente
+- Incluye: AdvancedCut 50, NanoBlade Wood Basic 50, tapa protectora, protección contra astillas, adaptador para carriles guía, 2 topes de profundidad, maletín
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0713QQGR5/?tag=tolees-21)
