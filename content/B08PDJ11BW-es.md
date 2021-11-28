@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s O.g Batwing Polo  Faded Bright Wh al 40.25 % de descuento'
-date: 2021-11-27 02:24:07
+date: 2021-11-28 03:02:15
 image: 'https://m.media-amazon.com/images/I/41AOeZtwdwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08PDJ11BW/?tag=tolees-21'
 descuento: '40.25'
-average: '26.924'
+average: '26.42'
 ---
 
 Está [Levi s O.g Batwing Polo  Faded Bright White  S para Hombre](https://www.amazon.es/dp/B08PDJ11BW/?tag=tolees-21) con 40.25 de descuento por 23.9 EUR (original: 40.0 EUR) en el siguiente enlace!
