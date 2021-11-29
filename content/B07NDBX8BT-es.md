@@ -29,7 +29,7 @@ En este momento está [Seiko Reloj Cronógrafo para Unisex Adultos de Cuarzo con
 🔎:
 
 - Cuarzo cierre por presion día
-- 45 mm
 - Seiko ssb331p1
+- 45 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NDBX8BT/?tag=tolees-21)
