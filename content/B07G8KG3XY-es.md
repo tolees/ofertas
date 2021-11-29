@@ -28,9 +28,9 @@ En este momento está [L Oreal Paris Men Expert - L Oréal Paris - Men Expert  G
 
 🔎:
 
-- Fragancia fresca intensa para una sensación de limpieza instantánea
 - Multi-acción 5 en 1: limpia cuerpo, rostro, cabello, barba e hidrata para un efecto total bajo la ducha
-- Gel de ducha potenciado con carbón
+- Fragancia fresca intensa para una sensación de limpieza instantánea
 - Gel de ducha para una limpieza e hidratación en un solo gesto
+- Gel de ducha potenciado con carbón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G8KG3XY/?tag=tolees-21)

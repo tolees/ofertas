@@ -28,9 +28,9 @@ Ahora mismo tienes [Clarks Jocelynne CAM  Bomba Mujer  Piel combinada de Color N
 
 🔎:
 
-- Cierre: hebilla
-- Material exterior: piel lisa
 - Suela: sintética
+- Material exterior: piel lisa
+- Cierre: hebilla
 - Material interior: sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C5G7ZNM/?tag=tolees-21)
