@@ -30,8 +30,8 @@ Tienes [Remington Recortadora de Barba y Cortapelos G2 Graphite Series - Inalám
 
 - Inalámbrico - Uso sin cable, hasta 40 min de autonomía, tiempo de carga completa de 16 horas
 - Cuchilla Principal - Funciona como cortapelo y barbero y es autoafilables, las cuchillas y los accesorios son lavables
-- Accesorios Intercambiables - Accesorios para pelo y barba: 2 peines (1.5 y 3 mm), peine de doble ajuste para barba y cabello (2-20 mm) y cortador lineal facial
 - Indicador LED - Indicador LED de carga, incluye funda
+- Accesorios Intercambiables - Accesorios para pelo y barba: 2 peines (1.5 y 3 mm), peine de doble ajuste para barba y cabello (2-20 mm) y cortador lineal facial
 - Revestimiento de Grafito - Diseñado para un deslizamiento suave y cómodo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084DPT55M/?tag=tolees-21)

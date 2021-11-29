@@ -28,10 +28,10 @@ Tienes [Swarovski Pendientes Angelic  blanco  Baño de Rodio](https://www.amazon
 
 ℹ️:
 
-- Un par clásico de pendientes puede realzar casi cualquier atuendo
-- ¡Eso hace precisa este par de pendientes de botón chapados en rodio! Con un lustro, cada pieza muestra un solo chatón de cristal claro enmarcado en cristal pavé transparente
-- Los pendientes vienen en par
-- Desde 1895, el dominio de la talla del cristal de nuestro fundador, Daniel Swarovski, ha definido a la empresa; su constante pasión por la innovación y el diseño hizo de Swarovski la marca líder mundial en bisutería y accesorios
 - Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional; el metal es enchapado y cada cristal se engarza de forma individual; debido a ello necesitan un cuidado especial
+- Los pendientes vienen en par
+- Un par clásico de pendientes puede realzar casi cualquier atuendo
+- Desde 1895, el dominio de la talla del cristal de nuestro fundador, Daniel Swarovski, ha definido a la empresa; su constante pasión por la innovación y el diseño hizo de Swarovski la marca líder mundial en bisutería y accesorios
+- ¡Eso hace precisa este par de pendientes de botón chapados en rodio! Con un lustro, cada pieza muestra un solo chatón de cristal claro enmarcado en cristal pavé transparente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B004X0HPBU/?tag=tolees-21)
