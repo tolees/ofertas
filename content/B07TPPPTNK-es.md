@@ -28,7 +28,7 @@ Ahora mismo tienes [Levi s Relaxed Graphic Hoodie Sudadera  Blanco  Boxtab Pop W
 
 🔎:
 
-- Estándar
 - Tamaño del paquete: 5,0 x 32,8 x 31,0 cm
+- Estándar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TPPPTNK/?tag=tolees-21)
