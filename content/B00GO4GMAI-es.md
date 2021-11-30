@@ -29,8 +29,8 @@ Tienes [V-MODA XS-Metal Noise Isolating - Auriculares de diadema cerrados  contr
 🔎:
 
 - Impedancia: 28.5 ohmios
-- Respuesta de frecuencia: 5 – 30.000 Hz
 - Sensibilidad: 105 dB a 1kHz 1mW
 - Sensibilidad del micrófono: -42dB a 1kHz
+- Respuesta de frecuencia: 5 – 30.000 Hz
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00GO4GMAI/?tag=tolees-21)
