@@ -29,8 +29,8 @@ Tienes [Givova Visa Chandal  Hombre  Multicolor  BLU/Bianco   2XL](https://www.a
 🔎:
 
 - Camiseta cerrado con cremallera
-- Hecho 100% de poliéster
 - Adecuado para el deporte y el tiempo libre
+- Hecho 100% de poliéster
 - Chándal completo, chaqueta y pantalón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00L2F9JOU/?tag=tolees-21)
