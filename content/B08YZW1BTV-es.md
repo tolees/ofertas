@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal - Los Croods 2: Una nueva era  al 51.36 % de descuento'
-date: 2021-11-29 02:28:56
+date: 2021-11-30 02:32:05
 image: 'https://m.media-amazon.com/images/I/617y+oyi0WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Universal'
 buyurl: 'https://www.amazon.es/dp/B08YZW1BTV/?tag=tolees-21'
 descuento: '51.36'
-average: '11.7486666666667'
+average: '11.451875'
 ---
 
 Está [Universal - Los Croods 2: Una nueva era [DVD]](https://www.amazon.es/dp/B08YZW1BTV/?tag=tolees-21) con 51.36 de descuento por 7.0 EUR (original: 14.39 EUR) en el siguiente enlace!

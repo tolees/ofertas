@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Up  Disney Pixar  [DVD] al 44.12 % de descuento'
-date: 2021-11-29 02:35:00
+date: 2021-11-30 02:39:39
 image: 'https://m.media-amazon.com/images/I/51sfa4-FGNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B003Z7SING/?tag=tolees-21'
 descuento: '44.12'
-average: '7.75476190476192'
+average: '7.72377358490568'
 ---
 
 Ahora mismo tienes [Up  Disney Pixar  [DVD]](https://www.amazon.es/dp/B003Z7SING/?tag=tolees-21) a 4.47 EUR (original: 8.0 EUR) (44.12 %  de descuento) en el siguiente enlace!
