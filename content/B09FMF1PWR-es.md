@@ -28,11 +28,11 @@ Está [Herbal Essences Champú Hidratación  Leche de Coco + Mascarilla Concentr
 
 ℹ️:
 
-- 90 % de ingredientes de origen natural* (* agua purificada y materiales con ingredientes de origen natural poco procesados)
 - Nutrientes vegetales: La fórmula de Essences of Life contiene leche de coco y esencias vegetales
-- Mascarilla hidratante: tratamiento capilar intensivo que hidrata el pelo seco y controla el pelo encrespado, a la vez que proporciona una nutrición profunda
-- 2 veces más nutrición en un solo uso: Nutre tu pelo con nutrientes y antioxidantes vegetales en solo 3 minutos
-- Este champú tiene un 0 % de parafinas, colorantes y siliconas
 - En asociación con El Real Jardín Botánico de Kew, una autoridad mundial líder en botánica que avala los productos realmente vegetales
+- Mascarilla hidratante: tratamiento capilar intensivo que hidrata el pelo seco y controla el pelo encrespado, a la vez que proporciona una nutrición profunda
+- 90 % de ingredientes de origen natural* (* agua purificada y materiales con ingredientes de origen natural poco procesados)
+- Este champú tiene un 0 % de parafinas, colorantes y siliconas
+- 2 veces más nutrición en un solo uso: Nutre tu pelo con nutrientes y antioxidantes vegetales en solo 3 minutos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B09FMF1PWR/?tag=tolees-21)
