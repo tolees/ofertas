@@ -28,8 +28,8 @@ Ahora mismo tienes [Funko - Pop! Game of Thrones - Yara Greyjoy #66 Vinyl Figure
 
 🔎:
 
-- Licencia oficial
 - Para los Fans de Funko
+- Licencia oficial
 - Figura pop game of thrones: yara greyjoy
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DFCCFTZ/?tag=tolees-21)
