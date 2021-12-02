@@ -28,10 +28,10 @@ Está [Invicta Pro Diver - SCUBA 0073 Reloj para Hombre Cuarzo - 48mm](https://w
 
 ℹ️:
 
+- 2 años de garantía Invicta
 - Esta modelo funciona con un movimiento de Cuarzo preciso
 - El Invicta 0073 tiene una caja de acero inoxidable de 48 millimetros con una esfera azul
-- Este modelo es parte de la colección Invicta Pro Diver - SCUBA
 - Resistencia a la presión de aqua de 20 bares
-- 2 años de garantía Invicta
+- Este modelo es parte de la colección Invicta Pro Diver - SCUBA
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0006ZPKTU/?tag=tolees-21)

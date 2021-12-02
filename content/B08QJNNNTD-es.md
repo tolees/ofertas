@@ -28,9 +28,9 @@ En este momento está [Skechers Arch Fit Keep It Up  Zapatillas Mujer  White  36
 
 🔎:
 
+- Ajuste elástico
 - Lavable a máquina
 - Refrigerado por aire
-- Ajuste elástico
 - Vegano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QJNNNTD/?tag=tolees-21)
