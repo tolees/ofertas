@@ -30,8 +30,8 @@ Ahora mismo tienes [Monix Braisogona M560001 Quick - Olla a presión rápida de 
 
 - Triple fondo difusor forjado
 - Facilidad de uso, ahorro de tiempo y energía
-- Cuerpo apto para limpieza en lavavajillas
 - Aptas para todo tipo de cocinas, incluido inducción
+- Cuerpo apto para limpieza en lavavajillas
 - Acero inox 18/10 de 5,3 mm de espesor, capacidad 4 litros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008KO2BFK/?tag=tolees-21)
