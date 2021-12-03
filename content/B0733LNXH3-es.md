@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wonder Woman [DVD] con un 49.93 % de descuento'
-date: 2021-12-02 02:30:39
+date: 2021-12-03 02:57:32
 image: 'https://m.media-amazon.com/images/I/51XkWyFWfDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0733LNXH3/?tag=tolees-21'
 descuento: '49.93'
-average: '6.72642857142856'
+average: '6.53466666666666'
 ---
 
 En este momento está [Wonder Woman [DVD]](https://www.amazon.es/dp/B0733LNXH3/?tag=tolees-21) a 3.85 EUR (original: 7.69 EUR) (49.93 %  de descuento) en el siguiente enlace!
