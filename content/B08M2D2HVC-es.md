@@ -28,9 +28,9 @@ Ahora mismo tienes [Moleskine - Agenda Semanal de 18 Meses  Agenda Semanal 2021/
 
 🔎:
 
-- La agenda incluye las icónicas esquinas redondeadas, cierre elástico, cinta marcapáginas y el aviso "En caso de pérdida". Papel sin ácido de 70 g/m² de color marfil
-- Cada agenda incluye 295 pegatinas especiales para personalizar tu agenda: 1 hoja con letras y 2 hojas con muchos iconos diferentes
 - Esta agenda semanal 2021/2022 abarca 18 meses, desde julio de 2021 hasta diciembre de 2022, para anotar tus citas y tareas diarias y semanales
+- Cada agenda incluye 295 pegatinas especiales para personalizar tu agenda: 1 hoja con letras y 2 hojas con muchos iconos diferentes
+- La agenda incluye las icónicas esquinas redondeadas, cierre elástico, cinta marcapáginas y el aviso "En caso de pérdida". Papel sin ácido de 70 g/m² de color marfil
 - El paquete contiene una agenda semanal de 18 meses con disposición horizontal y tapa dura, disponible en tamaño grande 13 x 21 cm, 208 páginas, negro
 - Gracias a la disposición semanal puedes ver las citas a la izquierda, mientras que a la derecha encontrarás una página rayada para tomar notas como en el clásico cuaderno de Moleskine
 

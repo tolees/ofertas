@@ -28,9 +28,9 @@ En este momento está [find. Mendel Zapatillas  Azul  Navy   39/40 EU](https://w
 
 🔎:
 
-- Cómoda suela de goma gruesa
-- Pespunteado clásico
 - Estilo casual y elegante
+- Pespunteado clásico
+- Cómoda suela de goma gruesa
 - Suave textura efecto ante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073S3ZNTQ/?tag=tolees-21)

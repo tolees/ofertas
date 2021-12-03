@@ -28,9 +28,9 @@ Tienes [adidas JG TR Ask Bra Sports  Niñas  Black/White  910Y](https://www.amaz
 
 🔎:
 
-- Inserción de malla en la espalda
 - Sujetador deportivo Techfit con fuerte sujeción
 - Corte que abraza la figura
+- Inserción de malla en la espalda
 - Tecnología AEROREADY absorbente de humedad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082RD69ZN/?tag=tolees-21)

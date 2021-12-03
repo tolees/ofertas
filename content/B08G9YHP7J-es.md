@@ -28,9 +28,9 @@ Ahora mismo tienes [Skechers Bobs B Flex Color Connect  Zapatillas Mujer  BBK  3
 
 🔎:
 
+- Espuma viscoelástica
 - Lavable a máquina
 - Ajuste elástico
 - Vegano
-- Espuma viscoelástica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08G9YHP7J/?tag=tolees-21)
