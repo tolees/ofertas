@@ -28,10 +28,10 @@ Tienes [Tefal - Parrilla eléctrica OptiGrill Initial GC706D12 - Sensor automát
 
 ℹ️:
 
-- Placas moldeadas a presión con 600 cm² de superficie de cocción Bandeja de goteo y placas aptas para lavavajillas
 - 5 niveles de cocción: poco hecho, al punto, punto pasado, hecho, muy hecho y sensor automático de cocción
 - Seis programas automáticos (Hamburguesas, Pollo, Sándwiches, Salchichas, Carnes Rojas, Pescado) y un modo para congelados con la potencia de 2000 W
-- Un asado perfecto, de poco hecho a muy hecho
+- Placas moldeadas a presión con 600 cm² de superficie de cocción Bandeja de goteo y placas aptas para lavavajillas
 - Medida del grosor para adaptar la cocción a cualquier tamaño y cantidad
+- Un asado perfecto, de poco hecho a muy hecho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07H8YB85B/?tag=tolees-21)
