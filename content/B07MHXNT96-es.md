@@ -28,10 +28,10 @@ Está [Funko POP! Vinilo: Games: Fortnite: TomatoHead  Multicolor  Talla Única]
 
 ℹ️:
 
-- Fortnite
-- De la colección Fortnite, TomatoHead como figura de vinilo POP de Funko
 - descúbre otras figuras de la colección fortnite y colecciónalas todas!
+- De la colección Fortnite, TomatoHead como figura de vinilo POP de Funko
 - TomatoHead
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- Fortnite
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MHXNT96/?tag=tolees-21)
