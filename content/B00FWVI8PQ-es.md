@@ -28,10 +28,10 @@ En este momento está [Michael Kors Reloj para Mujer PARKER  Caja de 33 mm  Movi
 
 🔎:
 
-- Grosor de la caja: 10 mm; tamaño de la caja: 20 mm
 - Ancho de la correa: 12 mm; circunferencia de la correa: 190 +/- 5 mm
+- Se presenta en caja de regalo Michael Kors
 - Resistente al agua: 10 ATM
 - Material de la correa: acero inoxidable
-- Se presenta en caja de regalo Michael Kors
+- Grosor de la caja: 10 mm; tamaño de la caja: 20 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00FWVI8PQ/?tag=tolees-21)
