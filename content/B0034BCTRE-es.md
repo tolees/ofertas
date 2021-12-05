@@ -28,8 +28,8 @@ Tienes [Draper 45241 - Garlopa de acabado  250 mm ](https://www.amazon.es/dp/B00
 
 🔎:
 
-- Base fresada de alta precisión, con cuerpo de hierro fundido.
 - Incluye cuchilla de repuesto.
 - Mango de madera y pomo de orientación.
+- Base fresada de alta precisión, con cuerpo de hierro fundido.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0034BCTRE/?tag=tolees-21)

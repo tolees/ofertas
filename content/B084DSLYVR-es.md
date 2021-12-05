@@ -28,10 +28,10 @@ Tienes [Ravensburger - Strike Game  Juego de familia  para niños a partir de 8 
 
 🔎:
 
-- Cuando un jugador termina su turno y no le quedan dados, queda eliminado del juego; la partida termina cuando sólo queda un jugador con dados en la pila.
-- Enfréntate a tus amigos magos y a tus amigos brujos en un duelo mágico. Tira los dados en la arena. Si obtienes combinaciones de dados con símbolos iguales, puedes lanzar acciones mágicas como Confundo, Wingardium Leviosa, Expelliarmus y otros hechizos del Wizarding World
-- Recomendado para mayores de 8 años, la duración media de una partida es de 15 minutos y es un gran pasatiempo para las noches de juego con amigos o familia; gran regalo para los fans de la saga de Harry Potter
-- El juego contiene: 26 dados, 1 arena, 1 alfombra blanda, libro de reglas. Se juega por turnos y en el sentido de las agujas del reloj, el jugador en su turno lanza uno de sus dados a la arena y recoge los que muestran el mismo resultado en la cara superior
 - A medida que el juego avanza, los jugadores pierden dados: los duelos agotan incluso a las brujas y magos más poderosos. Cada jugador decide por sí mismo si tira más dados o deja de hacerlo pasando el turno. El jugador que tenga el último dado restante es el ganador
+- Recomendado para mayores de 8 años, la duración media de una partida es de 15 minutos y es un gran pasatiempo para las noches de juego con amigos o familia; gran regalo para los fans de la saga de Harry Potter
+- Enfréntate a tus amigos magos y a tus amigos brujos en un duelo mágico. Tira los dados en la arena. Si obtienes combinaciones de dados con símbolos iguales, puedes lanzar acciones mágicas como Confundo, Wingardium Leviosa, Expelliarmus y otros hechizos del Wizarding World
+- El juego contiene: 26 dados, 1 arena, 1 alfombra blanda, libro de reglas. Se juega por turnos y en el sentido de las agujas del reloj, el jugador en su turno lanza uno de sus dados a la arena y recoge los que muestran el mismo resultado en la cara superior
+- Cuando un jugador termina su turno y no le quedan dados, queda eliminado del juego; la partida termina cuando sólo queda un jugador con dados en la pila.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084DSLYVR/?tag=tolees-21)

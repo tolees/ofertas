@@ -28,15 +28,15 @@ En este momento está [Energy Sistem MP3 Clip BT Sport Amber - Reproductor MP3  
 
 🔎:
 
-- Reproduce música en formatos MP3 / WMA / WAV / FLAC
-- Permite ampliar la memoria integrada mediante tarjetas microsd con capacidad de 128gb
-- Radio fm integrada con presintonías y grabación
-- Cómodo clip para sujetar el reproductor a la ropa o al brazalete incluido y escuchar música mientras practicas deporte
-- Brazalete reflectante para sujetar el reproductor y escuchar música mientras practicas deporte
-- Auriculares deportivos intrauditivos
-- Navegación inteligente de canciones por carpetas para que encuentres el tema que buscas fácilmente
 - Reproductor MP3 con tecnología Bluetooth, 16 GB
+- Radio fm integrada con presintonías y grabación
+- Navegación inteligente de canciones por carpetas para que encuentres el tema que buscas fácilmente
 - Tus mejores listas de reproducción en tu bolsillo
 - Selecciona uno de los 7 modos de ecualización para ajustar el audio como tú prefieras
+- Reproduce música en formatos MP3 / WMA / WAV / FLAC
+- Brazalete reflectante para sujetar el reproductor y escuchar música mientras practicas deporte
+- Cómodo clip para sujetar el reproductor a la ropa o al brazalete incluido y escuchar música mientras practicas deporte
+- Auriculares deportivos intrauditivos
+- Permite ampliar la memoria integrada mediante tarjetas microsd con capacidad de 128gb
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07P8ZYP68/?tag=tolees-21)

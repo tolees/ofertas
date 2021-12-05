@@ -29,9 +29,9 @@ Tienes [Farolillo eléctrico con calefactor cerámico máx 1000 Wy display LED P
 🔎:
 
 - Función temporizador para su apagado automático.
-- Fácil de transportar a cualquier estancia gracias a su tamaño compacto.
 - Selector de potencia: 500 W ó 1000 W. Incorpora termostato de temperatura.
-- Práctico farol eléctrico que aporta calidez a la vez que calienta gracias al calefactor cerámico que incorpora
+- Fácil de transportar a cualquier estancia gracias a su tamaño compacto.
 - Medidas (LxPxH): 15 x 15 x 30 cm.
+- Práctico farol eléctrico que aporta calidez a la vez que calienta gracias al calefactor cerámico que incorpora
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HX149GQ/?tag=tolees-21)
