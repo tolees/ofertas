@@ -28,10 +28,10 @@ Tienes [ASUS USB-BT400 Mini Dongle Bluetooth 4.0 USB 2.0](https://www.amazon.es/
 
 ℹ️:
 
-- Compatible con los sistemas operativos Windows 10/8/7 y XP (32/64 bit)
-- El multitalento permite la conexión inalámbrica a PC, impresoras,
 - Volumen de suministro: Asus USB-BT400 Nano dispositivo Bluetooth negro
 - Adaptador Bluetooth 4.0: compatible con versiones anteriores de Bluetooth 2.0 / 2.1 / 3.0
 - Permite la comunicación inalámbrica con computadoras, impresoras, teléfonos, auriculares, parlantes, teclados, controladores y más habilitados para Bluetooth
+- El multitalento permite la conexión inalámbrica a PC, impresoras,
+- Compatible con los sistemas operativos Windows 10/8/7 y XP (32/64 bit)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CM83SC0/?tag=tolees-21)
