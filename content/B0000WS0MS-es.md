@@ -28,10 +28,10 @@ Tienes [Alpine SXE-1750S](https://www.amazon.es/dp/B0000WS0MS/?tag=tolees-21) co
 
 ℹ️:
 
-- Respuesta de frecuencia: 60hz-20khz
-- Sensibilidad: 90db/w/m
-- 45w rms
 - 280w de potencia de pico
+- Sensibilidad: 90db/w/m
 - Altavoz componente de 2 vías de 6-1/2 (16,5 cm)
+- 45w rms
+- Respuesta de frecuencia: 60hz-20khz
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0000WS0MS/?tag=tolees-21)
