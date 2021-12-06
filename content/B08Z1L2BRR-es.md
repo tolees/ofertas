@@ -28,10 +28,10 @@ Ahora mismo tienes [Halls Sandía - Caramelo duro - Caja con 20 Sticks de 32 g](
 
 🔎:
 
-- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
+- Conservar en lugar fresco y seco
+- Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día.
 - Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
 - Caramelos duros Halls con sabor a sandía; Con edulcorantes, sin azúcar
-- Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día.
-- Conservar en lugar fresco y seco
+- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08Z1L2BRR/?tag=tolees-21)
