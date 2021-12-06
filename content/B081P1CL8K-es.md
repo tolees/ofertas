@@ -31,7 +31,7 @@ En este momento está [PUMA Ferrari Race Future Kart Cat  Zapatillas Unisex Adul
 - Zapatillas de running Ferrari Race Future Kart Cat (30658601)
 - Practica tu deporte favorito gracias a las Zapatillas de running de Puma . Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
 - Calzado deportivo de la Puma
-- Las Zapatillas de running de la marca Puma están diseñadas con la última tecnología y la mejor calidad para que se adapten perfectamente a tu pie sin dejar de lado el estilo
 - Zapatillas de running ideales para Running de Niño
+- Las Zapatillas de running de la marca Puma están diseñadas con la última tecnología y la mejor calidad para que se adapten perfectamente a tu pie sin dejar de lado el estilo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081P1CL8K/?tag=tolees-21)

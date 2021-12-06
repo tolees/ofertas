@@ -28,10 +28,10 @@ Tienes [Solgar Vitamina D3 4000 UI  100 μg   Huesos y Sistema Inmune  60 Cápsu
 
 ℹ️:
 
-- DOSIS DIARIA RECOMENDADA para adultos tomar una (1) cápsula vegetal al día, preferentemente con las comidas, no debe superarse la dosis diaria expresamente recomendada para este producto
-- Sin azúcares ni sal; sin gluten; no contiene almidón, levadura, trigo, soja ni derivados lácteos; está formulado sin conservadores, edulcorantes, aromatizantes ni colorantes artificiales
-- INGREDIENTES por cápsula: Vitamina D3 (4000 UI, colecalciferol) 100 μg
 - DISEÑADO para mantener los huesos y los dientes sanos; ayuda a la función muscular y refuerza el sistema inmunitario
+- Sin azúcares ni sal; sin gluten; no contiene almidón, levadura, trigo, soja ni derivados lácteos; está formulado sin conservadores, edulcorantes, aromatizantes ni colorantes artificiales
+- DOSIS DIARIA RECOMENDADA para adultos tomar una (1) cápsula vegetal al día, preferentemente con las comidas, no debe superarse la dosis diaria expresamente recomendada para este producto
 - Apto para Vegetarianos y Kosher PARVE
+- INGREDIENTES por cápsula: Vitamina D3 (4000 UI, colecalciferol) 100 μg
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AZZTU0G/?tag=tolees-21)
