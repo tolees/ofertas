@@ -28,9 +28,9 @@ Está [Sony Cyber-SHOT DSC-WX500  Cámara de Fotos Compacta  1  Negro](https://w
 
 ℹ️:
 
-- Tipo de memoria flash: tarjeta SD
+- Tipo de pantalla: LCD
 - Tamaño de la pantalla: 3 pulgadas
 - Tiene una resolución de 18.2 megapíxeles
-- Tipo de pantalla: LCD
+- Tipo de memoria flash: tarjeta SD
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00W46KROM/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [Majorette - rueda con 10 coches de metal de 7.5 cm  escal
 🔎:
 
 - Escala de los coches 1:64 (7, 5 cm)
-- Pack de 10 vehículos de metal die-cast (fundidos a presión), con mecanismo de rueda libre
 - El regalo perfecto para niños y niñas a partir de 3 años de edad
+- Pack de 10 vehículos de metal die-cast (fundidos a presión), con mecanismo de rueda libre
 - La caja es un diseño de una rueda
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PXGC9Q3/?tag=tolees-21)

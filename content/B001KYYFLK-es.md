@@ -28,13 +28,13 @@ Está [LANCASTER EAU DE LANCASTER - Desodorante en crema para hombre y mujer - P
 
 ℹ️:
 
+- Unidades: 125.0
 - Este producto está indicado para mujeres
 - De la marca lancaster
-- Unidades: 125.0
+- Unidad de medida: mililitro
 - Tipo de piel: Todo tipo de pieles
 - Ingredientes: aqua, aluminium chlorohydrate, ceteraryl alcohol, capric triglyceride, propylene glycol, bht, citral, citronellol, coumarin, eugenol, evernia prunastri extract, geraniol, hexyl cinnamal, limonele, linalool, tocopherol, parfum
-- Unidad de medida: mililitro
-- Número de items: 1
 - Contiene 125 ml
+- Número de items: 1
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001KYYFLK/?tag=tolees-21)

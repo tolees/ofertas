@@ -28,15 +28,15 @@ Está [Control Exotic Escape Gel de Masaje Corporal - 200 ml](https://www.amazon
 
 ℹ️:
 
-- Fabricado en Italia
 - El contacto oral no supone un riesgo
-- Gel de masaje 2 en 1 para masajes y uso en zonas íntimas
+- Sin azúcar, sin gluten
+- Fabricado en Italia
+- No es graso, no mancha y es fácil de eliminar con agua
+- Formato 200 ml
 - Hidratante e hipoalergénico
+- Aroma a frutas tropicales
 - Compatible con el uso del preservativo
 - Ideal para añadir un extra de sensualidad y estimulación en tus relaciones
-- Sin azúcar, sin gluten
-- No es graso, no mancha y es fácil de eliminar con agua
-- Aroma a frutas tropicales
-- Formato 200 ml
+- Gel de masaje 2 en 1 para masajes y uso en zonas íntimas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077TDLKB6/?tag=tolees-21)
