@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WN823N - Adaptador WiFi USB i al 45.81 % de descuento'
-date: 2021-12-06 15:16:26
+date: 2021-12-07 15:38:05
 image: 'https://m.media-amazon.com/images/I/41jxZkzNcnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B0088TKTY2/?tag=tolees-21'
 descuento: '45.81'
-average: '9.12178000000013'
+average: '9.12111776447119'
 ---
 
 Ahora mismo tienes [TP-Link TL-WN823N - Adaptador WiFi USB inalámbrico Compatible con Raspberry Pi  N 300 Mbps  MI-MO  WPS  Modo softAP](https://www.amazon.es/dp/B0088TKTY2/?tag=tolees-21) a 8.79 EUR (original: 16.22 EUR) (45.81 %  de descuento) en el siguiente enlace!
