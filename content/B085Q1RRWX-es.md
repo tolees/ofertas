@@ -28,10 +28,10 @@ Está [SGILE Coche Teledirigido  2.4 GHz RC Coche Acrobacia Rotación Volteo de 
 
 ℹ️:
 
-- Batería y calidad: equipado con una batería de automóvil 4.8v 700mAh, este automóvil de acrobacias crea mucha diversión para usted. Además, el plástico ABS premium y los materiales de PVC no tóxicos hacen que este coche RC sea seguro y duradero.
-- Diseño único: el Rc Coche cuenta con un impresionante diseño de carrocería con acabado rojo brillante y superficie fresca, lo que lo hace parecer un verdadero auto de carreras.
 - Jueguen juntos: el transmisor de 2.4GHz y la distancia de control lejano permiten que varios jugadores compitan con el auto RC al mismo tiempo.
 - Funcion acrobatica 360°: el Coche Teledirigido puede dar volteretas de 360° y 180°, rotar en tierra y darse la vuelta, acrobacias que tendrán a tu hijo entretenido durante horas.
 - Motor potente: dos potentes sistemas de motor con tracción en las ruedas pueden llevar el automóvil.
+- Diseño único: el Rc Coche cuenta con un impresionante diseño de carrocería con acabado rojo brillante y superficie fresca, lo que lo hace parecer un verdadero auto de carreras.
+- Batería y calidad: equipado con una batería de automóvil 4.8v 700mAh, este automóvil de acrobacias crea mucha diversión para usted. Además, el plástico ABS premium y los materiales de PVC no tóxicos hacen que este coche RC sea seguro y duradero.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085Q1RRWX/?tag=tolees-21)
