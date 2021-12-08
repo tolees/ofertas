@@ -28,11 +28,11 @@ Está [AEG L8WEC162 Lavasecadora de Libre Instalación  Carga Frontal  Lava 10 K
 
 ℹ️:
 
-- Programa de vapor: relaja las fibras de los tejidos para reducir las arrugas y facilitar el planchado
 - Motor Inverter: mayor durabilidad y eficiencia energética. Menor Ruido
 - Función ProSense: Pesa automáticamente la carga para ahorrar tiempo, agua y energía. Evita que las prendas y los colores sufran por un lavado excesivo. Hasta 10kg de lavado
-- Función DualSense: adapta la temperatura y los movimientos del tambor dependiendo del tipo de tejido
-- Programa NonStop ÖKOPower: lava y seca hasta 5 kg de ropa en 4 horas
+- Programa de vapor: relaja las fibras de los tejidos para reducir las arrugas y facilitar el planchado
 - Dimensiones (Ancho x Alto x Profundo mm): 597 x 847 x 631.
+- Programa NonStop ÖKOPower: lava y seca hasta 5 kg de ropa en 4 horas
+- Función DualSense: adapta la temperatura y los movimientos del tambor dependiendo del tipo de tejido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LZ1MQJP/?tag=tolees-21)
