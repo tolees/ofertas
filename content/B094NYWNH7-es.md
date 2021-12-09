@@ -29,8 +29,8 @@ Ahora mismo tienes [Helly Hansen - Bislett Training](https://www.amazon.es/dp/B0
 🔎:
 
 - Marca del producto: Helly Hansen
+- Diseño ligero
 - Material resistente y duradero
 - El material ofrece una comodidad óptima
-- Diseño ligero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B094NYWNH7/?tag=tolees-21)
