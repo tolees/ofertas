@@ -28,10 +28,10 @@ Ahora mismo tienes [Avance - Override 2: Ultraman Deluxe Edition](https://www.am
 
 🔎:
 
-- Derrota a tus oponentes con un arsenal de movimientos únicos que incluyen ataques a distancia supercargados, combos rompemetales o un ataque definitivo que destroza la arena.
-- Modos de juego mejorados: Elige tu estilo de juego en todos los tipos de partidas, incluidos 1 contra 1, 2 contra 2, Todos contra todos y varios juegos como Xenoenjambre, Rey de la colina y más.
 - Lucha con un elenco mejorado de robots que regresan y otros nuevos mechs en varios modos de juego versus y cooperativo de hasta 4 jugadores online y localmente.
 - Override 2: ULTRAMAN Edition incluye el siguiente contenido: Juego Override 2: Super Mech League Pase de temporada ULTRAMAN: Contiene 4 personajes súper cargados de ULTRAMAN: ULTRAMAN, Bemular, Dan Moroboshi, y Black King Paquete exlusivo de apariencias de ULTRAMAN
+- Modos de juego mejorados: Elige tu estilo de juego en todos los tipos de partidas, incluidos 1 contra 1, 2 contra 2, Todos contra todos y varios juegos como Xenoenjambre, Rey de la colina y más.
+- Derrota a tus oponentes con un arsenal de movimientos únicos que incluyen ataques a distancia supercargados, combos rompemetales o un ataque definitivo que destroza la arena.
 - Modo Carrera: Lucha en ligas de mechs y vuela a nuevas cotas para ser piloto de mechs. Representa a tu club y trabaja junto con sus miembros para ganar influencia y recompensas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08K3SL8P2/?tag=tolees-21)
