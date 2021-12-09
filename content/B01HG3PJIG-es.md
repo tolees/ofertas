@@ -28,11 +28,11 @@ En este momento está [adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Vapo
 
 🔎:
 
-- Material exterior: cuero
-- Material interior: tela
-- Adecuado para: unisex-adulto
-- Cierre: cordones
 - Material de la suela: goma
+- Material interior: tela
+- Cierre: cordones
+- Adecuado para: unisex-adulto
 - Talla: 44 2/3
+- Material exterior: cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01HG3PJIG/?tag=tolees-21)
