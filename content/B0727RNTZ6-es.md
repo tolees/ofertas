@@ -28,10 +28,10 @@ Está [Rimmel London Shimmer Brick Bronzer Powder  Polvos bronceadores  Tono 2 -
 
 ℹ️:
 
-- Aplicación uniforme y fácil
-- La paleta ideal para conseguir el efecto de rostro iluminado con un acabado natural durante todo el día
 - 6 tonos alto pigmentado que se mezclan fácilmente para un acabado uniforme
-- Textura cómoda durante el día; no reseca y se aplica uniformenmente sobre el rostro
 - Acabado radiante y natural; crea looks de diario para cada día y consigue un rostro iluminado y de "buena cara" rápidamente
+- La paleta ideal para conseguir el efecto de rostro iluminado con un acabado natural durante todo el día
+- Textura cómoda durante el día; no reseca y se aplica uniformenmente sobre el rostro
+- Aplicación uniforme y fácil
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0727RNTZ6/?tag=tolees-21)
