@@ -28,10 +28,10 @@ En este momento está [LG 24MP59G-P - Monitor Gaming de 60 4 cm  23 8"  Full HD 
 
 🔎:
 
-- Muestra por encima del 99% del espectro de color sRGB
-- Tecnología RADEON FreeSync para disfrutar la acción sin parpadeos
 - Interacción en tiempo real y sin retrasos gracias a Dynamic Action Sync (DAS Mode)
-- Estabilizador de Negros (Tecnología Black Stabilizer) que permite colores oscuros diferenciados
+- Muestra por encima del 99% del espectro de color sRGB
 - 1ms de velocidad de respuesta gracias a la tecnología Motion Blur Reduction
+- Estabilizador de Negros (Tecnología Black Stabilizer) que permite colores oscuros diferenciados
+- Tecnología RADEON FreeSync para disfrutar la acción sin parpadeos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XDY3SJF/?tag=tolees-21)
