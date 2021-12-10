@@ -28,9 +28,9 @@ Está [Jack & Jones Jjebasic Noos-Sudadera con Capucha  Negro  L para Hombre](ht
 
 ℹ️:
 
-- Composición: 85% algodón, 15% poliéster
-- Sudadera con capucha con cordones de ajuste
 - Puños y cintura acanalados
+- Sudadera con capucha con cordones de ajuste
 - Ajuste estándar
+- Composición: 85% algodón, 15% poliéster
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KXX6LVZ/?tag=tolees-21)
