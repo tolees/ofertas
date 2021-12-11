@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Altura del tacón: 0,5 cm
+- Forro: sintético
 - Tipo de tacón: plano
 - Material de la suela: goma
-- Altura del tacón: 0,5 cm
 - Parte superior: sintético
-- Forro: sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

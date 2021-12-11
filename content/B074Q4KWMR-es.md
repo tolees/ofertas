@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La combinación de tradicional pasta de almendras y azúcar
-- Mantener en un lugar fresco y seco
 - Sorprende a tus hijos con estas lindas figuras
+- La combinación de tradicional pasta de almendras y azúcar
 - Producto de España
 - Contiene almendras y trazas de huevo
+- Mantener en un lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
