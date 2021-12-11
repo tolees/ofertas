@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Por último, incorpora una pila tipo AA de vida útil más larga gracias a la última tecnología de ahorro de energía.
-- NGS Easy Alpha, es un ratón óptico de 1000 dpi con conexión USB destaca por su máximo rendimiento, ergonomía y diseño. Este ratón ha sido concebido especialmente para portátiles, incorpora 2 cómodos pulsadores + rueda botón que proporcionan un excelente control y facilitan la navegación.
-- Te sentirás cómodo durante horas, no importa si eres diestro o zurdo.
 - La instalación es Plug & Play: rápida y sencilla, solo tendrás que conectar el Nano receptor a un puerto USB y empezar a funcionar.
 - Su funcionamiento inalámbrico de 2,4 GHz para respuesta inmediata y sin interrupciones, con rango de alcance de hasta 10 metros.
+- Te sentirás cómodo durante horas, no importa si eres diestro o zurdo.
+- NGS Easy Alpha, es un ratón óptico de 1000 dpi con conexión USB destaca por su máximo rendimiento, ergonomía y diseño. Este ratón ha sido concebido especialmente para portátiles, incorpora 2 cómodos pulsadores + rueda botón que proporcionan un excelente control y facilitan la navegación.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

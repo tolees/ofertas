@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Control de la red gracias a la aplicación móvil ASUS Router app
+- Tecnología ax, con ofdma y mu-mimo, el sistema wi-fi mesh ax6100 ofrece transmisiones más eficientes, estables y rápidas, aunque múltiples dispositivos transmitan simultáneamente
+- Disfruta de una conectividad wi-fi versátil para los dispositivos conectados, equipado con bandas 802.11n, ac y ax, el sistema wi-fi mesh rt-ax92u ofrece canales para dispositivos antiguos y los más nuevos
 - Crea tu propio sistema Wi-Fi AX Mesh con Routers ASUS compatibles con esta tecnología, gracias a su máxima flexibilidad podrás configurarlo también como modo Router, punto de acceso y media bridge
 - Seguridad profesional para tu familia gracias a aiprotection pro que protege todos los dispositivos conectados a la red, administra el uso de internet de tu familia con controles parentales avanzados
-- Control de la red gracias a la aplicación móvil ASUS Router app
-- Disfruta de una conectividad wi-fi versátil para los dispositivos conectados, equipado con bandas 802.11n, ac y ax, el sistema wi-fi mesh rt-ax92u ofrece canales para dispositivos antiguos y los más nuevos
-- Tecnología ax, con ofdma y mu-mimo, el sistema wi-fi mesh ax6100 ofrece transmisiones más eficientes, estables y rápidas, aunque múltiples dispositivos transmitan simultáneamente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
