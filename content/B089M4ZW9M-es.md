@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'NGS Ratón Easy Alpha Inalámbrico Óptico  al 45.24 % de rebaja'
-date: 2021-12-10 20:19:05
+title: 'NGS Ratón Easy Alpha Inalámbrico Óptico 1000 dpi USB Plug & Play  dos pulsadores y rueda botón  Negro'
+date: 2021-12-11 20:58:47
 image: 'https://m.media-amazon.com/images/I/317e3stbnyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -22,16 +22,16 @@ descuento: '45.24'
 average: '3.97'
 ---
 
-Tienes [NGS Ratón Easy Alpha Inalámbrico Óptico 1000 dpi USB Plug & Play  dos pulsadores y rueda botón  Negro](https://www.amazon.es/dp/B089M4ZW9M/?tag=tolees-21) con precio final de  3.97 EUR (original: 7.25 EUR) (45.24 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![NGS Ratón Easy Alpha Inalámbrico Óptico ](https://m.media-amazon.com/images/I/317e3stbnyL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B089M4ZW9M/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
-- Su funcionamiento inalámbrico de 2,4 GHz para respuesta inmediata y sin interrupciones, con rango de alcance de hasta 10 metros.
-- Te sentirás cómodo durante horas, no importa si eres diestro o zurdo.
-- La instalación es Plug & Play: rápida y sencilla, solo tendrás que conectar el Nano receptor a un puerto USB y empezar a funcionar.
 - Por último, incorpora una pila tipo AA de vida útil más larga gracias a la última tecnología de ahorro de energía.
 - NGS Easy Alpha, es un ratón óptico de 1000 dpi con conexión USB destaca por su máximo rendimiento, ergonomía y diseño. Este ratón ha sido concebido especialmente para portátiles, incorpora 2 cómodos pulsadores + rueda botón que proporcionan un excelente control y facilitan la navegación.
+- Te sentirás cómodo durante horas, no importa si eres diestro o zurdo.
+- La instalación es Plug & Play: rápida y sencilla, solo tendrás que conectar el Nano receptor a un puerto USB y empezar a funcionar.
+- Su funcionamiento inalámbrico de 2,4 GHz para respuesta inmediata y sin interrupciones, con rango de alcance de hasta 10 metros.
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B089M4ZW9M/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})
