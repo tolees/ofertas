@@ -28,7 +28,7 @@ Tienes [Reebok Club C 85 Zapatillas de Gimnasia para Unisex adulto  Negro  Int/B
 
 🔎:
 
-- Negro
 - adulto
+- Negro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01NADIO99/?tag=tolees-21)
