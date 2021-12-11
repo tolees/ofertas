@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reloj Viceroy - Hombre 42295-47 al 44.44 % de rebaja'
+title: 'Reloj Viceroy - Hombre 42295-47'
 date: 2020-01-09 15:01:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41euM1g3DbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.44'
 average: '74.5'
 ---
 
-Tienes [Reloj Viceroy - Hombre 42295-47](https://www.amazon.es/dp/B0711HMJC4/?tag=tolees-21) con precio final de  74.5 EUR (original: 134.1 EUR) (44.44 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Reloj Viceroy - Hombre 42295-47](https://images-eu.ssl-images-amazon.com/images/I/41euM1g3DbL._SL400_.jpg)](https://www.amazon.es/dp/B0711HMJC4/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B0711HMJC4/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

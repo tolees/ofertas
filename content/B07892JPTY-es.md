@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen W Daybreaker Fleece  Mujer  al 35.83 % de descuento'
+title: 'Helly Hansen W Daybreaker Fleece  Mujer  White  XS'
 date: 2020-01-02 09:31:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31vYsbUtspL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.83'
 average: '35.75'
 ---
 
-Ahora mismo tienes [Helly Hansen W Daybreaker Fleece  Mujer  White  XS](https://www.amazon.es/dp/B07892JPTY/?tag=tolees-21) a 38.5 EUR (original: 60 EUR) (35.83 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Helly Hansen W Daybreaker Fleece  Mujer ](https://images-eu.ssl-images-amazon.com/images/I/31vYsbUtspL._SL400_.jpg)](https://www.amazon.es/dp/B07892JPTY/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07892JPTY/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

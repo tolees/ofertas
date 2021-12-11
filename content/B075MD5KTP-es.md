@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 46.68 % en Fantasy Flight Games- Caja de Inicio par'
+title: 'Fantasy Flight Games- Caja de Inicio para Dos Jugadores  colección Destiny  FFSWD08 '
 date: 2020-01-06 12:05:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51uU52PgAbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.68'
 average: '15.99'
 ---
 
-Tienes [Fantasy Flight Games- Caja de Inicio para Dos Jugadores  colección Destiny  FFSWD08 ](https://www.amazon.es/dp/B075MD5KTP/?tag=tolees-21) con un 46.68 % de descuento con precio de oferta de 15.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Fantasy Flight Games- Caja de Inicio par](https://images-eu.ssl-images-amazon.com/images/I/51uU52PgAbL._SL400_.jpg)](https://www.amazon.es/dp/B075MD5KTP/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075MD5KTP/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

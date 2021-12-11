@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Prime Polo  Blanco  White 100   Lar al 45.03 % de rebaja'
+title: 'BOSS Prime Polo  Blanco  White 100   Large para Hombre'
 date: 2020-01-10 10:52:35
 image: 'None._SL400_'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.03'
 average: '38.45'
 ---
 
-Tienes [BOSS Prime Polo  Blanco  White 100   Large para Hombre](https://www.amazon.es/dp/B0757QY9MS/?tag=tolees-21) con precio final de  38.45 EUR (original: 69.95 EUR) (45.03 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![BOSS Prime Polo  Blanco  White 100   Lar](None._SL400_)](https://www.amazon.es/dp/B0757QY9MS/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B0757QY9MS/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

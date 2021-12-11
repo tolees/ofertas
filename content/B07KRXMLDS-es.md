@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Silver Ridge 2.0 Manga Corta  M al 37.28 % de descuento'
+title: 'Columbia Silver Ridge 2.0 Manga Corta  Mujer  Blanco  White   XS'
 date: 2020-01-09 15:20:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318tpAkzqWL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.28'
 average: '26.455000000000002'
 ---
 
-Ahora mismo tienes [Columbia Silver Ridge 2.0 Manga Corta  Mujer  Blanco  White   XS](https://www.amazon.es/dp/B07KRXMLDS/?tag=tolees-21) a 34.49 EUR (original: 54.99 EUR) (37.28 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Columbia Silver Ridge 2.0 Manga Corta  M](https://images-eu.ssl-images-amazon.com/images/I/318tpAkzqWL._SL400_.jpg)](https://www.amazon.es/dp/B07KRXMLDS/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07KRXMLDS/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

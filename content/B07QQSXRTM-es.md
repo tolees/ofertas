@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Classic Cortez Leather  Zapatillas  al 51.43 % de descuento'
+title: 'Nike Classic Cortez Leather  Zapatillas de Running para Hombre  Blanco  White/Pure Platinum 101   40 1/2 EU'
 date: 2020-01-01 10:32:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/317ae4vo8eL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.43'
 average: '41.77'
 ---
 
-Ahora mismo tienes [Nike Classic Cortez Leather  Zapatillas de Running para Hombre  Blanco  White/Pure Platinum 101   40 1/2 EU](https://www.amazon.es/dp/B07QQSXRTM/?tag=tolees-21) a 41.77 EUR (original: 86 EUR) (51.43 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Nike Classic Cortez Leather  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/317ae4vo8eL._SL400_.jpg)](https://www.amazon.es/dp/B07QQSXRTM/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07QQSXRTM/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

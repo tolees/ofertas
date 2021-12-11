@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Eils SS Polo  Blanco  Bright W con un 50.00 % de descuento'
+title: 'Napapijri Eils SS Polo  Blanco  Bright White 002   Large para Hombre'
 date: 2020-01-04 13:33:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41sS774DJmL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '29.5'
 ---
 
-En este momento está [Napapijri Eils SS Polo  Blanco  Bright White 002   Large para Hombre](https://www.amazon.es/dp/B07MVLT3PW/?tag=tolees-21) a 29.5 EUR (original: 59 EUR) (50.00 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Napapijri Eils SS Polo  Blanco  Bright W](https://images-eu.ssl-images-amazon.com/images/I/41sS774DJmL._SL400_.jpg)](https://www.amazon.es/dp/B07MVLT3PW/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07MVLT3PW/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

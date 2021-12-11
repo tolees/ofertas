@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Cazadora Acolchada Hombre  Azul  N al 61.91 % de descuento'
+title: 'find. Cazadora Acolchada Hombre  Azul  Navy   54  Talla del fabricante: X-Large '
 date: 2019-12-31 17:20:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417RRYdDRLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.91'
 average: '13.5'
 ---
 
-Ahora mismo tienes [find. Cazadora Acolchada Hombre  Azul  Navy   54  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B073JR5N7J/?tag=tolees-21) a 13.5 EUR (original: 35.44 EUR) (61.91 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![find. Cazadora Acolchada Hombre  Azul  N](https://images-eu.ssl-images-amazon.com/images/I/417RRYdDRLL._SL400_.jpg)](https://www.amazon.es/dp/B073JR5N7J/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B073JR5N7J/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

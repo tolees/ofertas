@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Glenfarclas - Single Highland Malt Minia al 66.18 % de rebaja'
+title: 'Glenfarclas - Single Highland Malt Miniature Gift Set'
 date: 2020-01-10 16:09:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51GQ2wO-2NL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.18'
 average: '10.855'
 ---
 
-Tienes [Glenfarclas - Single Highland Malt Miniature Gift Set](https://www.amazon.es/dp/B009UWECJO/?tag=tolees-21) con precio final de  9.54 EUR (original: 28.21 EUR) (66.18 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Glenfarclas - Single Highland Malt Minia](https://images-eu.ssl-images-amazon.com/images/I/51GQ2wO-2NL._SL400_.jpg)](https://www.amazon.es/dp/B009UWECJO/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B009UWECJO/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

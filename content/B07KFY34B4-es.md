@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Source Mid Buzzer  Zapatillas Altas al 80.09 % de rebaja'
+title: 'PUMA Source Mid Buzzer  Zapatillas Altas Unisex Adulto  White-Yellow Alert-High Rise  40.5 EU'
 date: 2020-01-05 18:28:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31qLlyD039L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '80.09'
 average: '29.616666666666667'
 ---
 
-Tienes [PUMA Source Mid Buzzer  Zapatillas Altas Unisex Adulto  White-Yellow Alert-High Rise  40.5 EU](https://www.amazon.es/dp/B07KFY34B4/?tag=tolees-21) con precio final de  23.88 EUR (original: 119.95 EUR) (80.09 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![PUMA Source Mid Buzzer  Zapatillas Altas](https://images-eu.ssl-images-amazon.com/images/I/31qLlyD039L._SL400_.jpg)](https://www.amazon.es/dp/B07KFY34B4/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07KFY34B4/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

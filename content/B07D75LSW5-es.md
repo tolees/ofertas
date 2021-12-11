@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.12 % en R REDONDO IGLESIAS DESDE 1920 Cuchillos '
+title: 'R REDONDO IGLESIAS DESDE 1920 Cuchillos de Cocina Profesionales - 24 Piezas - 100% Made in Germany'
 date: 2020-01-08 16:57:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410BKNhZ4TL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.12'
 average: '59.95'
 ---
 
-Tienes [R REDONDO IGLESIAS DESDE 1920 Cuchillos de Cocina Profesionales - 24 Piezas - 100% Made in Germany](https://www.amazon.es/dp/B07D75LSW5/?tag=tolees-21) con un 50.12 % de descuento con precio de oferta de 39.9 EUR (original: 80 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![R REDONDO IGLESIAS DESDE 1920 Cuchillos ](https://images-eu.ssl-images-amazon.com/images/I/410BKNhZ4TL._SL400_.jpg)](https://www.amazon.es/dp/B07D75LSW5/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07D75LSW5/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

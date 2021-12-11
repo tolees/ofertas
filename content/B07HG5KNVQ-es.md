@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.00 % en New Balance 997h  Zapatillas para Mujer '
+title: 'New Balance 997h  Zapatillas para Mujer  Blanco  Off White Off White   36 EU'
 date: 2020-01-04 20:22:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '54'
 ---
 
-Tienes [New Balance 997h  Zapatillas para Mujer  Blanco  Off White Off White   36 EU](https://www.amazon.es/dp/B07HG5KNVQ/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 54 EUR (original: 90 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![New Balance 997h  Zapatillas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL400_.jpg)](https://www.amazon.es/dp/B07HG5KNVQ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07HG5KNVQ/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

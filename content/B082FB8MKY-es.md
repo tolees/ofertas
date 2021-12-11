@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2020 Nueva Cámara para Niños  Cámara de  con un 39.40 % de descuento'
+title: '2020 Nueva Cámara para Niños  Cámara de Fotos/Video HD 1080p Cámara Digital para Piños  Pantalla LCD de 2 Pulgadas/Tarjeta 32G  ROSE-21 '
 date: 2020-01-07 22:50:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KB47YJpoL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.40'
 average: '59.99'
 ---
 
-En este momento está [2020 Nueva Cámara para Niños  Cámara de Fotos/Video HD 1080p Cámara Digital para Piños  Pantalla LCD de 2 Pulgadas/Tarjeta 32G  ROSE-21 ](https://www.amazon.es/dp/B082FB8MKY/?tag=tolees-21) a 59.99 EUR (original: 99 EUR) (39.40 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![2020 Nueva Cámara para Niños  Cámara de ](https://images-eu.ssl-images-amazon.com/images/I/41KB47YJpoL._SL400_.jpg)](https://www.amazon.es/dp/B082FB8MKY/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B082FB8MKY/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

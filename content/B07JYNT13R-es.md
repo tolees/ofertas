@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Essential Craft Vulc  Zap con un 55.01 % de descuento'
+title: 'Tommy Hilfiger Essential Craft Vulc  Zapatillas para Hombre  Azul  Midnight 403   43 EU'
 date: 2020-01-08 07:09:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IuIBF50GL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.01'
 average: '35.089999999999996'
 ---
 
-En este momento está [Tommy Hilfiger Essential Craft Vulc  Zapatillas para Hombre  Azul  Midnight 403   43 EU](https://www.amazon.es/dp/B07JYNT13R/?tag=tolees-21) a 31.45 EUR (original: 69.9 EUR) (55.01 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Tommy Hilfiger Essential Craft Vulc  Zap](https://images-eu.ssl-images-amazon.com/images/I/41IuIBF50GL._SL400_.jpg)](https://www.amazon.es/dp/B07JYNT13R/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07JYNT13R/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

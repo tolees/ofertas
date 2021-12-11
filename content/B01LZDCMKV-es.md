@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MisterCraft D de 216 - Maqueta de devoit al 49.90 % de descuento'
+title: 'MisterCraft D de 216 - Maqueta de devoitine D de 520 cl'
 date: 2020-01-03 18:45:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/517LQvngqjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.90'
 average: '13.02'
 ---
 
-Está [MisterCraft D de 216 - Maqueta de devoitine D de 520 cl](https://www.amazon.es/dp/B01LZDCMKV/?tag=tolees-21) con 49.90 de descuento por 13.02 EUR (original: 25.99 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![MisterCraft D de 216 - Maqueta de devoit](https://images-eu.ssl-images-amazon.com/images/I/517LQvngqjL._SL400_.jpg)](https://www.amazon.es/dp/B01LZDCMKV/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LZDCMKV/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. HWCAP0002  Pantalones Para Hombre  con un 59.18 % de descuento'
+title: 'find. HWCAP0002  Pantalones Para Hombre  Beige  Tan   Large'
 date: 2020-01-10 16:10:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31BA6bMINbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.18'
 average: '9'
 ---
 
-En este momento está [find. HWCAP0002  Pantalones Para Hombre  Beige  Tan   Large](https://www.amazon.es/dp/B071JR8DTC/?tag=tolees-21) a 9 EUR (original: 22.05 EUR) (59.18 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![find. HWCAP0002  Pantalones Para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/31BA6bMINbL._SL400_.jpg)](https://www.amazon.es/dp/B071JR8DTC/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B071JR8DTC/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Straightset 319 2 Cfa  Zapatilla con un 69.02 % de descuento'
+title: 'Lacoste Straightset 319 2 Cfa  Zapatillas para Mujer  Blanco Off White 18c  40.5 EU'
 date: 2020-01-04 09:52:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31POZeRY%2B8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '69.02'
 average: '36.87'
 ---
 
-En este momento está [Lacoste Straightset 319 2 Cfa  Zapatillas para Mujer  Blanco Off White 18c  40.5 EU](https://www.amazon.es/dp/B07L9L8YWD/?tag=tolees-21) a 36.87 EUR (original: 119 EUR) (69.02 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Lacoste Straightset 319 2 Cfa  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/31POZeRY%2B8L._SL400_.jpg)](https://www.amazon.es/dp/B07L9L8YWD/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07L9L8YWD/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

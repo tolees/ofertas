@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 38.57 % en Clatronic TA 3565 Tostadora de Pan Peque'
+title: 'Clatronic TA 3565 Tostadora de Pan Pequeña con 2 Ranuras  3 Función  700 W  Plástico  Blanco'
 date: 2020-01-10 14:13:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413T3VlJNaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.57'
 average: '12.9'
 ---
 
-Tienes [Clatronic TA 3565 Tostadora de Pan Pequeña con 2 Ranuras  3 Función  700 W  Plástico  Blanco](https://www.amazon.es/dp/B00LX0ZVXW/?tag=tolees-21) con un 38.57 % de descuento con precio de oferta de 12.9 EUR (original: 21 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Clatronic TA 3565 Tostadora de Pan Peque](https://images-eu.ssl-images-amazon.com/images/I/413T3VlJNaL._SL400_.jpg)](https://www.amazon.es/dp/B00LX0ZVXW/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LX0ZVXW/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

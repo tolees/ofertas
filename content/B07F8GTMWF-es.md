@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Sweat Shirt Shop Duo Hood suéte con un 38.37 % de descuento'
+title: 'Superdry Sweat Shirt Shop Duo Hood suéter  Azul  Eclipse Navy 98T   Small para Hombre'
 date: 2020-01-08 04:50:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qDx%2BN8U2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.37'
 average: '51.644999999999996'
 ---
 
-En este momento está [Superdry Sweat Shirt Shop Duo Hood suéter  Azul  Eclipse Navy 98T   Small para Hombre](https://www.amazon.es/dp/B07F8GTMWF/?tag=tolees-21) a 49.3 EUR (original: 79.99 EUR) (38.37 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Superdry Sweat Shirt Shop Duo Hood suéte](https://images-eu.ssl-images-amazon.com/images/I/41qDx%2BN8U2L._SL400_.jpg)](https://www.amazon.es/dp/B07F8GTMWF/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07F8GTMWF/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

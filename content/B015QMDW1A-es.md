@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Solo En Casa Aniversario - 25 Años Blu R al 35.76 % de descuento'
+title: 'Solo En Casa Aniversario - 25 Años Blu Ray [Blu-ray]'
 date: 2020-01-08 16:31:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ckdh5nUML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.76'
 average: '7.87'
 ---
 
-Está [Solo En Casa Aniversario - 25 Años Blu Ray [Blu-ray]](https://www.amazon.es/dp/B015QMDW1A/?tag=tolees-21) con 35.76 de descuento por 7.87 EUR (original: 12.25 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Solo En Casa Aniversario - 25 Años Blu R](https://images-eu.ssl-images-amazon.com/images/I/51ckdh5nUML._SL400_.jpg)](https://www.amazon.es/dp/B015QMDW1A/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B015QMDW1A/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

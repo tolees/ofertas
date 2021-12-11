@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Frozen Nature-Mochila Bouquet al 53.48 % de rebaja'
+title: 'Frozen Nature-Mochila Bouquet'
 date: 2020-01-10 09:27:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uHJPRirYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.48'
 average: '13.95'
 ---
 
-Tienes [Frozen Nature-Mochila Bouquet](https://www.amazon.es/dp/B07YQ91ZP4/?tag=tolees-21) con precio final de  13.95 EUR (original: 29.99 EUR) (53.48 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Frozen Nature-Mochila Bouquet](https://images-eu.ssl-images-amazon.com/images/I/41uHJPRirYL._SL400_.jpg)](https://www.amazon.es/dp/B07YQ91ZP4/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07YQ91ZP4/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

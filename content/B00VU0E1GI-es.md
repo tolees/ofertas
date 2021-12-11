@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Knee High Classic Football Dri Fit  al 50.45 % de descuento'
+title: 'Nike Knee High Classic Football Dri Fit Calcetines  Unisex Adulto  Rojo  Varsity Red/White   XS  30-34 '
 date: 2020-01-01 10:30:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gQGlvgBVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.45'
 average: '4.95'
 ---
 
-Está [Nike Knee High Classic Football Dri Fit Calcetines  Unisex Adulto  Rojo  Varsity Red/White   XS  30-34 ](https://www.amazon.es/dp/B00VU0E1GI/?tag=tolees-21) con 50.45 de descuento por 4.95 EUR (original: 9.99 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Nike Knee High Classic Football Dri Fit ](https://images-eu.ssl-images-amazon.com/images/I/41gQGlvgBVL._SL400_.jpg)](https://www.amazon.es/dp/B00VU0E1GI/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B00VU0E1GI/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

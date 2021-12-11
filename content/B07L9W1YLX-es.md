@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Carnaby EVO 319 3 SMA  Zapatilla al 59.83 % de descuento'
+title: 'Lacoste Carnaby EVO 319 3 SMA  Zapatillas para Hombre  Marrón  Light Brown/Off White Bw7   42 EU'
 date: 2020-01-04 12:43:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ARgAl-mYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.83'
 average: '43.78'
 ---
 
-Está [Lacoste Carnaby EVO 319 3 SMA  Zapatillas para Hombre  Marrón  Light Brown/Off White Bw7   42 EU](https://www.amazon.es/dp/B07L9W1YLX/?tag=tolees-21) con 59.83 de descuento por 43.78 EUR (original: 109 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Lacoste Carnaby EVO 319 3 SMA  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41ARgAl-mYL._SL400_.jpg)](https://www.amazon.es/dp/B07L9W1YLX/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07L9W1YLX/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

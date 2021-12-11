@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Fidall Pm541220 Polo   Optic  al 64.94 % de descuento'
+title: 'Pepe Jeans Fidall Pm541220 Polo   Optic White 802   Medium para Hombre'
 date: 2020-01-09 14:45:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VUo0urCpL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '64.94'
 average: '22.79'
 ---
 
-Ahora mismo tienes [Pepe Jeans Fidall Pm541220 Polo   Optic White 802   Medium para Hombre](https://www.amazon.es/dp/B07JG7TFTP/?tag=tolees-21) a 22.79 EUR (original: 65 EUR) (64.94 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Pepe Jeans Fidall Pm541220 Polo   Optic ](https://images-eu.ssl-images-amazon.com/images/I/41VUo0urCpL._SL400_.jpg)](https://www.amazon.es/dp/B07JG7TFTP/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07JG7TFTP/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

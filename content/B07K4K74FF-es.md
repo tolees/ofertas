@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Prime Polo  Naranja  Open Orange 84 al 50.04 % de rebaja'
+title: 'BOSS Prime Polo  Naranja  Open Orange 842   Large para Hombre'
 date: 2020-01-07 08:45:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31P8oucdarL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.04'
 average: '34.95'
 ---
 
-Tienes [BOSS Prime Polo  Naranja  Open Orange 842   Large para Hombre](https://www.amazon.es/dp/B07K4K74FF/?tag=tolees-21) con precio final de  34.95 EUR (original: 69.95 EUR) (50.04 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![BOSS Prime Polo  Naranja  Open Orange 84](https://images-eu.ssl-images-amazon.com/images/I/31P8oucdarL._SL400_.jpg)](https://www.amazon.es/dp/B07K4K74FF/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07K4K74FF/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

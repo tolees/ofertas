@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DUNLOP Explosion Sport Naranja Fluor al 58.77 % de descuento'
+title: 'DUNLOP Explosion Sport Naranja Fluor'
 date: 2020-01-06 09:06:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y0gwOA1OL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.77'
 average: '74.22'
 ---
 
-Ahora mismo tienes [DUNLOP Explosion Sport Naranja Fluor](https://www.amazon.es/dp/B07JDX3X7D/?tag=tolees-21) a 74.22 EUR (original: 180 EUR) (58.77 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![DUNLOP Explosion Sport Naranja Fluor](https://images-eu.ssl-images-amazon.com/images/I/41Y0gwOA1OL._SL400_.jpg)](https://www.amazon.es/dp/B07JDX3X7D/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07JDX3X7D/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

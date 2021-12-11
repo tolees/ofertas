@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Trefoil T-Shirt  Black  XL para H con un 38.26 % de descuento'
+title: 'adidas Trefoil T-Shirt  Black  XL para Hombre'
 date: 2020-01-03 16:35:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PLspv6XrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.26'
 average: '18.49'
 ---
 
-En este momento está [adidas Trefoil T-Shirt  Black  XL para Hombre](https://www.amazon.es/dp/B076JP8ZXL/?tag=tolees-21) a 18.49 EUR (original: 29.95 EUR) (38.26 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![adidas Trefoil T-Shirt  Black  XL para H](https://images-eu.ssl-images-amazon.com/images/I/41PLspv6XrL._SL400_.jpg)](https://www.amazon.es/dp/B076JP8ZXL/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B076JP8ZXL/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

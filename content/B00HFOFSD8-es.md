@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Keep Out Gaming R4 - Alfombrilla  450x37 con un 63.16 % de descuento'
+title: 'Keep Out Gaming R4 - Alfombrilla  450x370x3 mm  Color Negro y Verde'
 date: 2020-01-04 19:57:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UslIVji%2BL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '63.16'
 average: '6.925'
 ---
 
-En este momento está [Keep Out Gaming R4 - Alfombrilla  450x370x3 mm  Color Negro y Verde](https://www.amazon.es/dp/B00HFOFSD8/?tag=tolees-21) a 3.61 EUR (original: 9.8 EUR) (63.16 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Keep Out Gaming R4 - Alfombrilla  450x37](https://images-eu.ssl-images-amazon.com/images/I/41UslIVji%2BL._SL400_.jpg)](https://www.amazon.es/dp/B00HFOFSD8/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B00HFOFSD8/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

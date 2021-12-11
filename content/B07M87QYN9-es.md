@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REPLAY ReplayFu3062.000.a0021bUnisex adu al 42.25 % de rebaja'
+title: 'REPLAY ReplayFu3062.000.a0021bUnisex adultoMochilasNegro  Black  14x41x30 centimeters  B x H x T '
 date: 2019-12-31 17:34:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vGvBLNxiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.25'
 average: '43.61'
 ---
 
-Tienes [REPLAY ReplayFu3062.000.a0021bUnisex adultoMochilasNegro  Black  14x41x30 centimeters  B x H x T ](https://www.amazon.es/dp/B07M87QYN9/?tag=tolees-21) con precio final de  43.61 EUR (original: 75.51 EUR) (42.25 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![REPLAY ReplayFu3062.000.a0021bUnisex adu](https://images-eu.ssl-images-amazon.com/images/I/41vGvBLNxiL._SL400_.jpg)](https://www.amazon.es/dp/B07M87QYN9/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07M87QYN9/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

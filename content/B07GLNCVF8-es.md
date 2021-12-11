@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASICS Lite-Show 7 Pulgada Pantalones Cor con un 62.51 % de descuento'
+title: 'ASICS Lite-Show 7 Pulgada Pantalones Cortos para Correr - L'
 date: 2020-01-01 09:00:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31xSHOviVbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '62.51'
 average: '17.99'
 ---
 
-En este momento está [ASICS Lite-Show 7 Pulgada Pantalones Cortos para Correr - L](https://www.amazon.es/dp/B07GLNCVF8/?tag=tolees-21) a 17.99 EUR (original: 47.99 EUR) (62.51 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![ASICS Lite-Show 7 Pulgada Pantalones Cor](https://images-eu.ssl-images-amazon.com/images/I/31xSHOviVbL._SL400_.jpg)](https://www.amazon.es/dp/B07GLNCVF8/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07GLNCVF8/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 67.72 % en Chantelle Champs Elysees Balconette  Mar'
+title: 'Chantelle Champs Elysees Balconette  Marfil  Dune 97     Talla del Fabricante: 70D  para Mujer'
 date: 2020-01-06 07:01:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51eYLK84ZtL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '67.72'
 average: '25.18'
 ---
 
-Tienes [Chantelle Champs Elysees Balconette  Marfil  Dune 97     Talla del Fabricante: 70D  para Mujer](https://www.amazon.es/dp/B077H15GFF/?tag=tolees-21) con un 67.72 % de descuento con precio de oferta de 25.18 EUR (original: 78 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Chantelle Champs Elysees Balconette  Mar](https://images-eu.ssl-images-amazon.com/images/I/51eYLK84ZtL._SL400_.jpg)](https://www.amazon.es/dp/B077H15GFF/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B077H15GFF/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

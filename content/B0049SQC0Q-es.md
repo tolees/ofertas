@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 83.14 % en Superga 2750 Jcot Classic  Zapatillas In'
+title: 'Superga 2750 Jcot Classic  Zapatillas Infantil  Gris  M38 Grey Sage   32 EU'
 date: 2020-01-08 11:47:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FVpO5ScSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '83.14'
 average: '8.26'
 ---
 
-Tienes [Superga 2750 Jcot Classic  Zapatillas Infantil  Gris  M38 Grey Sage   32 EU](https://www.amazon.es/dp/B0049SQC0Q/?tag=tolees-21) con un 83.14 % de descuento con precio de oferta de 8.26 EUR (original: 49 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Superga 2750 Jcot Classic  Zapatillas In](https://images-eu.ssl-images-amazon.com/images/I/41FVpO5ScSL._SL400_.jpg)](https://www.amazon.es/dp/B0049SQC0Q/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0049SQC0Q/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

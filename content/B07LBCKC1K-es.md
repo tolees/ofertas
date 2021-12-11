@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Bonfire  Botas Clasicas Unisex Adu al 49.26 % de descuento'
+title: 'Kappa Bonfire  Botas Clasicas Unisex Adulto  Beige 4141  46 EU'
 date: 2020-01-02 13:37:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41klhuh39aL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.26'
 average: '20.27'
 ---
 
-Está [Kappa Bonfire  Botas Clasicas Unisex Adulto  Beige 4141  46 EU](https://www.amazon.es/dp/B07LBCKC1K/?tag=tolees-21) con 49.26 de descuento por 20.27 EUR (original: 39.95 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Kappa Bonfire  Botas Clasicas Unisex Adu](https://images-eu.ssl-images-amazon.com/images/I/41klhuh39aL._SL400_.jpg)](https://www.amazon.es/dp/B07LBCKC1K/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LBCKC1K/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

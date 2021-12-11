@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superga 2750-cotbumpj  Zapatillas de Gim al 59.96 % de descuento'
+title: 'Superga 2750-cotbumpj  Zapatillas de Gimnasia Unisex Niños  Azul  Navy/Fwhite F43   31 EU'
 date: 2020-01-03 10:22:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OCipKXQwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.96'
 average: '17.44'
 ---
 
-Ahora mismo tienes [Superga 2750-cotbumpj  Zapatillas de Gimnasia Unisex Niños  Azul  Navy/Fwhite F43   31 EU](https://www.amazon.es/dp/B077QPSL2Q/?tag=tolees-21) a 19.62 EUR (original: 49 EUR) (59.96 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Superga 2750-cotbumpj  Zapatillas de Gim](https://images-eu.ssl-images-amazon.com/images/I/41OCipKXQwL._SL400_.jpg)](https://www.amazon.es/dp/B077QPSL2Q/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B077QPSL2Q/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

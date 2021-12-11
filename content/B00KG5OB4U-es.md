@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Love2Wait Sophia Pantalones  Negro  Schw al 87.11 % de rebaja'
+title: 'Love2Wait Sophia Pantalones  Negro  Schwarz-Schwarz   W28 para Mujer'
 date: 2020-01-07 12:06:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IL7tJAq-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '87.11'
 average: '8.8'
 ---
 
-Tienes [Love2Wait Sophia Pantalones  Negro  Schwarz-Schwarz   W28 para Mujer](https://www.amazon.es/dp/B00KG5OB4U/?tag=tolees-21) con precio final de  8.8 EUR (original: 68.29 EUR) (87.11 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Love2Wait Sophia Pantalones  Negro  Schw](https://images-eu.ssl-images-amazon.com/images/I/41IL7tJAq-L._SL400_.jpg)](https://www.amazon.es/dp/B00KG5OB4U/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B00KG5OB4U/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

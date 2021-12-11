@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Tommy Patch Square Bufand al 50.00 % de rebaja'
+title: 'Tommy Hilfiger Tommy Patch Square Bufanda   Green Lj5   Talla única  Talla del fabricante: OS  para Mujer'
 date: 2020-01-08 18:53:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51R14m0LMDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '24.95'
 ---
 
-Tienes [Tommy Hilfiger Tommy Patch Square Bufanda   Green Lj5   Talla única  Talla del fabricante: OS  para Mujer](https://www.amazon.es/dp/B07N6M19BK/?tag=tolees-21) con precio final de  24.95 EUR (original: 49.9 EUR) (50.00 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Tommy Hilfiger Tommy Patch Square Bufand](https://images-eu.ssl-images-amazon.com/images/I/51R14m0LMDL._SL400_.jpg)](https://www.amazon.es/dp/B07N6M19BK/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07N6M19BK/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

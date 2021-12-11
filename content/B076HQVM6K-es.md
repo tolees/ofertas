@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Con18 PES Jkt Sport Jacket  Hombr al 40.00 % de descuento'
+title: 'adidas Con18 PES Jkt Sport Jacket  Hombre  Azul  Azul/Blanco   2XL'
 date: 2020-01-07 18:50:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41D4uIgvJbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '27.475'
 ---
 
-Está [adidas Con18 PES Jkt Sport Jacket  Hombre  Azul  Azul/Blanco   2XL](https://www.amazon.es/dp/B076HQVM6K/?tag=tolees-21) con 40.00 de descuento por 29.97 EUR (original: 49.95 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![adidas Con18 PES Jkt Sport Jacket  Hombr](https://images-eu.ssl-images-amazon.com/images/I/41D4uIgvJbL._SL400_.jpg)](https://www.amazon.es/dp/B076HQVM6K/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HQVM6K/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

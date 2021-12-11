@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 1500v4 Boa  Zapatillas de Ru al 40.00 % de descuento'
+title: 'New Balance 1500v4 Boa  Zapatillas de Running para Mujer  Blanco  White/Multicolor Ww4   36.5 EU'
 date: 2019-12-31 20:21:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41u3eebAq4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '66.535'
 ---
 
-Ahora mismo tienes [New Balance 1500v4 Boa  Zapatillas de Running para Mujer  Blanco  White/Multicolor Ww4   36.5 EU](https://www.amazon.es/dp/B07B7RWCSN/?tag=tolees-21) a 78 EUR (original: 130 EUR) (40.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![New Balance 1500v4 Boa  Zapatillas de Ru](https://images-eu.ssl-images-amazon.com/images/I/41u3eebAq4L._SL400_.jpg)](https://www.amazon.es/dp/B07B7RWCSN/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07B7RWCSN/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 52.47 % en HP C7115X - Tóner  color negro'
+title: 'HP C7115X - Tóner  color negro'
 date: 2020-01-09 06:52:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zuna25UqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.47'
 average: '57.46'
 ---
 
-Tienes [HP C7115X - Tóner  color negro](https://www.amazon.es/dp/B00005NHAB/?tag=tolees-21) con un 52.47 % de descuento con precio de oferta de 57.46 EUR (original: 120.9 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![HP C7115X - Tóner  color negro](https://images-eu.ssl-images-amazon.com/images/I/41Zuna25UqL._SL400_.jpg)](https://www.amazon.es/dp/B00005NHAB/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00005NHAB/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

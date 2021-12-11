@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Downshifter 9  Zapatillas de Runnin al 36.85 % de rebaja'
+title: 'Nike Downshifter 9  Zapatillas de Running para Asfalto para Hombre  Multicolor  Midnight Navy/Pure Platinum 401   41 EU'
 date: 2020-01-03 16:34:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41W4wkCPGCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.85'
 average: '37.760000000000005'
 ---
 
-Tienes [Nike Downshifter 9  Zapatillas de Running para Asfalto para Hombre  Multicolor  Midnight Navy/Pure Platinum 401   41 EU](https://www.amazon.es/dp/B07H7SFKZ4/?tag=tolees-21) con precio final de  37.89 EUR (original: 60 EUR) (36.85 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Nike Downshifter 9  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/41W4wkCPGCL._SL400_.jpg)](https://www.amazon.es/dp/B07H7SFKZ4/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07H7SFKZ4/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

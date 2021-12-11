@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kickers Lohan  Zapatillas Altas Unisex N al 64.39 % de rebaja'
+title: 'Kickers Lohan  Zapatillas Altas Unisex Niños  Rojo  Noir Bordeaux 81   28 EU'
 date: 2020-01-09 15:30:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HZ-D%2BAMTL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '64.39'
 average: '17.45'
 ---
 
-Tienes [Kickers Lohan  Zapatillas Altas Unisex Niños  Rojo  Noir Bordeaux 81   28 EU](https://www.amazon.es/dp/B07MZJ54TZ/?tag=tolees-21) con precio final de  17.45 EUR (original: 49 EUR) (64.39 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Kickers Lohan  Zapatillas Altas Unisex N](https://images-eu.ssl-images-amazon.com/images/I/41HZ-D%2BAMTL._SL400_.jpg)](https://www.amazon.es/dp/B07MZJ54TZ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07MZJ54TZ/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

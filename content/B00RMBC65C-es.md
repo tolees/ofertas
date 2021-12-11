@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 44.56 % en Juvena  Aceite corporal - 100 ml.'
+title: 'Juvena  Aceite corporal - 100 ml.'
 date: 2020-01-08 16:08:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZM2mQgPiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.56'
 average: '20.1'
 ---
 
-Tienes [Juvena  Aceite corporal - 100 ml.](https://www.amazon.es/dp/B00RMBC65C/?tag=tolees-21) con un 44.56 % de descuento con precio de oferta de 17.74 EUR (original: 32 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Juvena  Aceite corporal - 100 ml.](https://images-eu.ssl-images-amazon.com/images/I/31ZM2mQgPiL._SL400_.jpg)](https://www.amazon.es/dp/B00RMBC65C/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00RMBC65C/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

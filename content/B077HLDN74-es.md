@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. MDR 40625 vestidos mujer  Negro  B al 62.50 % de rebaja'
+title: 'find. MDR 40625 vestidos mujer  Negro  Black   40  Talla del fabricante: Medium '
 date: 2020-01-06 11:17:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pqxIhCH4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '62.50'
 average: '12.0'
 ---
 
-Tienes [find. MDR 40625 vestidos mujer  Negro  Black   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077HLDN74/?tag=tolees-21) con precio final de  12 EUR (original: 32 EUR) (62.50 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![find. MDR 40625 vestidos mujer  Negro  B](https://images-eu.ssl-images-amazon.com/images/I/41pqxIhCH4L._SL400_.jpg)](https://www.amazon.es/dp/B077HLDN74/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B077HLDN74/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

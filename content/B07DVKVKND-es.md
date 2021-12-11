@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fresh Foam Roav   Zapatillas al 50.00 % de descuento'
+title: 'New Balance Fresh Foam Roav   Zapatillas de Running para Hombre  Azul  Vintage Indigo Vintage Indigo   42.5 EU'
 date: 2020-01-06 20:50:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XvpaZKj9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '45.0'
 ---
 
-Ahora mismo tienes [New Balance Fresh Foam Roav   Zapatillas de Running para Hombre  Azul  Vintage Indigo Vintage Indigo   42.5 EU](https://www.amazon.es/dp/B07DVKVKND/?tag=tolees-21) a 45 EUR (original: 90 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![New Balance Fresh Foam Roav   Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41XvpaZKj9L._SL400_.jpg)](https://www.amazon.es/dp/B07DVKVKND/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07DVKVKND/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

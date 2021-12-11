@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler Arizona Pantalones  Azul  Court con un 49.99 % de descuento'
+title: 'Wrangler Arizona Pantalones  Azul  Court Yard 60f   32W / 34L para Hombre'
 date: 2020-01-09 08:17:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51obc3TPOIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.99'
 average: '42.48'
 ---
 
-En este momento está [Wrangler Arizona Pantalones  Azul  Court Yard 60f   32W / 34L para Hombre](https://www.amazon.es/dp/B07M8LT8KF/?tag=tolees-21) a 42.48 EUR (original: 84.95 EUR) (49.99 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Wrangler Arizona Pantalones  Azul  Court](https://images-eu.ssl-images-amazon.com/images/I/51obc3TPOIL._SL400_.jpg)](https://www.amazon.es/dp/B07M8LT8KF/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07M8LT8KF/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

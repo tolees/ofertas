@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Regalo del día de la madre  un AAA plati al 80.82 % de descuento'
+title: 'Regalo del día de la madre  un AAA platino plateado transparente colgante de óxido de circonio Pendientes regalos para mamá  para mujeres  YE-001'
 date: 2020-01-01 13:27:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411MjanWj3L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '80.82'
 average: '12.99'
 ---
 
-Está [Regalo del día de la madre  un AAA platino plateado transparente colgante de óxido de circonio Pendientes regalos para mamá  para mujeres  YE-001](https://www.amazon.es/dp/B079DTYQS6/?tag=tolees-21) con 80.82 de descuento por 12.99 EUR (original: 67.73 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Regalo del día de la madre  un AAA plati](https://images-eu.ssl-images-amazon.com/images/I/411MjanWj3L._SL400_.jpg)](https://www.amazon.es/dp/B079DTYQS6/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B079DTYQS6/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

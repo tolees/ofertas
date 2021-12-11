@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hummel Slimmer Stadil Low  Zapatillas Un con un 62.22 % de descuento'
+title: 'Hummel Slimmer Stadil Low  Zapatillas Unisex Adulto  Negro-Schwarz  Black/White KH 2113   37 EU'
 date: 2020-01-02 16:42:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41T3VB43AZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '62.22'
 average: '22.845'
 ---
 
-En este momento está [Hummel Slimmer Stadil Low  Zapatillas Unisex Adulto  Negro-Schwarz  Black/White KH 2113   37 EU](https://www.amazon.es/dp/B00FLR43KK/?tag=tolees-21) a 24.54 EUR (original: 64.95 EUR) (62.22 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Hummel Slimmer Stadil Low  Zapatillas Un](https://images-eu.ssl-images-amazon.com/images/I/41T3VB43AZL._SL400_.jpg)](https://www.amazon.es/dp/B00FLR43KK/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B00FLR43KK/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

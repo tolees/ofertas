@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Barra de labios líquida In al 49.69 % de rebaja'
+title: 'L Oréal Paris Barra de labios líquida Infalible Lip Paint Vinilo tono 105'
 date: 2020-01-08 23:42:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318OnmQzncL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.69'
 average: '3.4633333333333334'
 ---
 
-Tienes [L Oréal Paris Barra de labios líquida Infalible Lip Paint Vinilo tono 105](https://www.amazon.es/dp/B01N2U8Q4N/?tag=tolees-21) con precio final de  4 EUR (original: 7.95 EUR) (49.69 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![L Oréal Paris Barra de labios líquida In](https://images-eu.ssl-images-amazon.com/images/I/318OnmQzncL._SL400_.jpg)](https://www.amazon.es/dp/B01N2U8Q4N/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B01N2U8Q4N/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

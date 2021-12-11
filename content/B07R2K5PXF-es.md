@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 41.88 % en Soporte Vertical Portátil Dual CouHap Al'
+title: 'Soporte Vertical Portátil Dual CouHap Aluminium Laptop Stand Ajustable Soporte para PC y MacBook'
 date: 2020-01-01 07:03:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31urSKB5W4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.88'
 average: '24.99'
 ---
 
-Tienes [Soporte Vertical Portátil Dual CouHap Aluminium Laptop Stand Ajustable Soporte para PC y MacBook](https://www.amazon.es/dp/B07R2K5PXF/?tag=tolees-21) con un 41.88 % de descuento con precio de oferta de 24.99 EUR (original: 43 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Soporte Vertical Portátil Dual CouHap Al](https://images-eu.ssl-images-amazon.com/images/I/31urSKB5W4L._SL400_.jpg)](https://www.amazon.es/dp/B07R2K5PXF/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07R2K5PXF/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

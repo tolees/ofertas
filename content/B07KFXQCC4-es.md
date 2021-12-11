@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Smash Wns v2 L  Zapatillas para Muj al 55.06 % de rebaja'
+title: 'PUMA Smash Wns v2 L  Zapatillas para Mujer  White-Rhubarb  42.5 EU'
 date: 2020-01-07 16:03:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/319IzI7dFIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.06'
 average: '22.45'
 ---
 
-Tienes [PUMA Smash Wns v2 L  Zapatillas para Mujer  White-Rhubarb  42.5 EU](https://www.amazon.es/dp/B07KFXQCC4/?tag=tolees-21) con precio final de  22.45 EUR (original: 49.95 EUR) (55.06 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![PUMA Smash Wns v2 L  Zapatillas para Muj](https://images-eu.ssl-images-amazon.com/images/I/319IzI7dFIL._SL400_.jpg)](https://www.amazon.es/dp/B07KFXQCC4/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07KFXQCC4/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

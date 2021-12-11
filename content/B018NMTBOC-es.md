@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bizak-5025123225111  Color  61952511  con un 88.02 % de descuento'
+title: 'Bizak-5025123225111  Color  61952511 '
 date: 2020-01-02 00:02:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61MW-huRRpL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '88.02'
 average: '4.966666666666667'
 ---
 
-En este momento está [Bizak-5025123225111  Color  61952511 ](https://www.amazon.es/dp/B018NMTBOC/?tag=tolees-21) a 4.19 EUR (original: 34.98 EUR) (88.02 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Bizak-5025123225111  Color  61952511 ](https://images-eu.ssl-images-amazon.com/images/I/61MW-huRRpL._SL400_.jpg)](https://www.amazon.es/dp/B018NMTBOC/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B018NMTBOC/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

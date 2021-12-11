@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 997H  Zapatillas para Mujer  al 50.00 % de descuento'
+title: 'New Balance 997H  Zapatillas para Mujer  Gris  Castlerock/White   41.5 EU'
 date: 2020-01-05 17:06:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41e2jdH9bbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '45'
 ---
 
-Ahora mismo tienes [New Balance 997H  Zapatillas para Mujer  Gris  Castlerock/White   41.5 EU](https://www.amazon.es/dp/B07BL2PDWL/?tag=tolees-21) a 45 EUR (original: 90 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![New Balance 997H  Zapatillas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41e2jdH9bbL._SL400_.jpg)](https://www.amazon.es/dp/B07BL2PDWL/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07BL2PDWL/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

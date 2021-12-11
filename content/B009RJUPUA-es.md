@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cat Footwear Colorado  Botas para Hombre al 50.25 % de rebaja'
+title: 'Cat Footwear Colorado  Botas para Hombre  Beige  Honey   41 EU'
 date: 2020-01-02 16:32:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51SLDqyXMaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.25'
 average: '74.63'
 ---
 
-Tienes [Cat Footwear Colorado  Botas para Hombre  Beige  Honey   41 EU](https://www.amazon.es/dp/B009RJUPUA/?tag=tolees-21) con precio final de  74.63 EUR (original: 150 EUR) (50.25 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Cat Footwear Colorado  Botas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/51SLDqyXMaL._SL400_.jpg)](https://www.amazon.es/dp/B009RJUPUA/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B009RJUPUA/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Real Madrid Mini Home Kids Equipa con un 45.90 % de descuento'
+title: 'adidas Real Madrid Mini Home Kids Equipamiento de Fútbol  Unisex Niños  Blanco  White   18-24M'
 date: 2020-01-08 16:56:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hQZmBuThL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.90'
 average: '30.30666666666667'
 ---
 
-En este momento está [adidas Real Madrid Mini Home Kids Equipamiento de Fútbol  Unisex Niños  Blanco  White   18-24M](https://www.amazon.es/dp/B07S84XR3K/?tag=tolees-21) a 29.75 EUR (original: 54.99 EUR) (45.90 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![adidas Real Madrid Mini Home Kids Equipa](https://images-eu.ssl-images-amazon.com/images/I/41hQZmBuThL._SL400_.jpg)](https://www.amazon.es/dp/B07S84XR3K/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07S84XR3K/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

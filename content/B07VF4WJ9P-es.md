@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'mama stadt Peluca de Cosplay  Peluca par al 77.52 % de rebaja'
+title: 'mama stadt Peluca de Cosplay  Peluca para Adultos y Niños  Pelucas para Carnaval Halloween Fiesta de Disfraces'
 date: 2020-01-01 06:24:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31H1cgElW2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '77.52'
 average: '8.99'
 ---
 
-Tienes [mama stadt Peluca de Cosplay  Peluca para Adultos y Niños  Pelucas para Carnaval Halloween Fiesta de Disfraces](https://www.amazon.es/dp/B07VF4WJ9P/?tag=tolees-21) con precio final de  8.99 EUR (original: 39.99 EUR) (77.52 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![mama stadt Peluca de Cosplay  Peluca par](https://images-eu.ssl-images-amazon.com/images/I/31H1cgElW2L._SL400_.jpg)](https://www.amazon.es/dp/B07VF4WJ9P/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07VF4WJ9P/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

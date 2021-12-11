@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bresser Messier AR-90/900 EXOS1/EQ4 Tele al 40.60 % de rebaja'
+title: 'Bresser Messier AR-90/900 EXOS1/EQ4 Telescopio'
 date: 2020-01-06 10:39:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31SUU9bk7EL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.60'
 average: '225.12'
 ---
 
-Tienes [Bresser Messier AR-90/900 EXOS1/EQ4 Telescopio](https://www.amazon.es/dp/B004DZVF34/?tag=tolees-21) con precio final de  225.12 EUR (original: 379 EUR) (40.60 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Bresser Messier AR-90/900 EXOS1/EQ4 Tele](https://images-eu.ssl-images-amazon.com/images/I/31SUU9bk7EL._SL400_.jpg)](https://www.amazon.es/dp/B004DZVF34/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B004DZVF34/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

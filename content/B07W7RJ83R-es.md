@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'B07W7RJ83R con un 42.25 % de descuento'
+title: 'B07W7RJ83R'
 date: 2020-01-04 18:35:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51lZzVx-5SL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.25'
 average: '33.99'
 ---
 
-En este momento está [B07W7RJ83R](https://www.amazon.es/dp/B07W7RJ83R/?tag=tolees-21) a 33.99 EUR (original: 58.86 EUR) (42.25 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![B07W7RJ83R](https://images-eu.ssl-images-amazon.com/images/I/51lZzVx-5SL._SL400_.jpg)](https://www.amazon.es/dp/B07W7RJ83R/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07W7RJ83R/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

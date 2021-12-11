@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Cilia  Zapatillas para Mujer  Black al 36.91 % de rebaja'
+title: 'PUMA Cilia  Zapatillas para Mujer  Black Silver-Peach Bud  36 EU'
 date: 2020-01-05 19:56:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31RIuIQ1KQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.91'
 average: '37.82'
 ---
 
-Tienes [PUMA Cilia  Zapatillas para Mujer  Black Silver-Peach Bud  36 EU](https://www.amazon.es/dp/B07F2NCG19/?tag=tolees-21) con precio final de  37.82 EUR (original: 59.95 EUR) (36.91 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![PUMA Cilia  Zapatillas para Mujer  Black](https://images-eu.ssl-images-amazon.com/images/I/31RIuIQ1KQL._SL400_.jpg)](https://www.amazon.es/dp/B07F2NCG19/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07F2NCG19/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

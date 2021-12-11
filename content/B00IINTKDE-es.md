@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 47.52 % en Lancaster Sun Beauty Velvet Tanning Milk'
+title: 'Lancaster Sun Beauty Velvet Tanning Milk SPF30 Protector Solar - 400 ml'
 date: 2020-01-04 01:49:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/313jDx7uRqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.52'
 average: '23.3'
 ---
 
-Tienes [Lancaster Sun Beauty Velvet Tanning Milk SPF30 Protector Solar - 400 ml](https://www.amazon.es/dp/B00IINTKDE/?tag=tolees-21) con un 47.52 % de descuento con precio de oferta de 23.3 EUR (original: 44.4 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Lancaster Sun Beauty Velvet Tanning Milk](https://images-eu.ssl-images-amazon.com/images/I/313jDx7uRqL._SL400_.jpg)](https://www.amazon.es/dp/B00IINTKDE/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IINTKDE/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

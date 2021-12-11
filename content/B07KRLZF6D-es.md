@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Yc373v1  Zapatillas para Niñ al 40.00 % de descuento'
+title: 'New Balance Yc373v1  Zapatillas para Niños  Rojo  Burgundy Burgundy   39 EU'
 date: 2020-01-02 08:30:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OTp%2BInloL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '30.0'
 ---
 
-Está [New Balance Yc373v1  Zapatillas para Niños  Rojo  Burgundy Burgundy   39 EU](https://www.amazon.es/dp/B07KRLZF6D/?tag=tolees-21) con 40.00 de descuento por 30 EUR (original: 50 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![New Balance Yc373v1  Zapatillas para Niñ](https://images-eu.ssl-images-amazon.com/images/I/41OTp%2BInloL._SL400_.jpg)](https://www.amazon.es/dp/B07KRLZF6D/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KRLZF6D/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

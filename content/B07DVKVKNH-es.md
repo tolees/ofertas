@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fresh Foam Roav   Zapatillas al 40.00 % de descuento'
+title: 'New Balance Fresh Foam Roav   Zapatillas de Running para Hombre  Negro  Magnet Magnet   46.5 EU'
 date: 2020-01-03 17:12:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41c7JewQ5uL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '54'
 ---
 
-Ahora mismo tienes [New Balance Fresh Foam Roav   Zapatillas de Running para Hombre  Negro  Magnet Magnet   46.5 EU](https://www.amazon.es/dp/B07DVKVKNH/?tag=tolees-21) a 54 EUR (original: 90 EUR) (40.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![New Balance Fresh Foam Roav   Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41c7JewQ5uL._SL400_.jpg)](https://www.amazon.es/dp/B07DVKVKNH/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07DVKVKNH/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

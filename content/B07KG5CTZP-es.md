@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 43.27 % en PUMA Smash v2 L V Inf  Zapatillas Unisex'
+title: 'PUMA Smash v2 L V Inf  Zapatillas Unisex Niños  Peacoat White-High Risk Red  26 EU'
 date: 2020-01-08 19:06:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IifTAyWuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.27'
 average: '16.99'
 ---
 
-Tienes [PUMA Smash v2 L V Inf  Zapatillas Unisex Niños  Peacoat White-High Risk Red  26 EU](https://www.amazon.es/dp/B07KG5CTZP/?tag=tolees-21) con un 43.27 % de descuento con precio de oferta de 16.99 EUR (original: 29.95 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![PUMA Smash v2 L V Inf  Zapatillas Unisex](https://images-eu.ssl-images-amazon.com/images/I/41IifTAyWuL._SL400_.jpg)](https://www.amazon.es/dp/B07KG5CTZP/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KG5CTZP/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

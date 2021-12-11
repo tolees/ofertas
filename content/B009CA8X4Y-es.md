@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hydor 104I-HY/C01103 Filtro Exterior Pri al 47.86 % de rebaja'
+title: 'Hydor 104I-HY/C01103 Filtro Exterior Prime 10 con Carga Filtrante para Acuario'
 date: 2020-01-10 08:16:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MbsJtdeXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.86'
 average: '44.5'
 ---
 
-Tienes [Hydor 104I-HY/C01103 Filtro Exterior Prime 10 con Carga Filtrante para Acuario](https://www.amazon.es/dp/B009CA8X4Y/?tag=tolees-21) con precio final de  44.5 EUR (original: 85.34 EUR) (47.86 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Hydor 104I-HY/C01103 Filtro Exterior Pri](https://images-eu.ssl-images-amazon.com/images/I/41MbsJtdeXL._SL400_.jpg)](https://www.amazon.es/dp/B009CA8X4Y/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B009CA8X4Y/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

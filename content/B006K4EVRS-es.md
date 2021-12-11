@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Darphin  Crema corporal - 50 ml. al 47.33 % de rebaja'
+title: 'Darphin  Crema corporal - 50 ml.'
 date: 2020-01-08 23:48:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nTmuR5IrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.33'
 average: '34.25'
 ---
 
-Tienes [Darphin  Crema corporal - 50 ml.](https://www.amazon.es/dp/B006K4EVRS/?tag=tolees-21) con precio final de  34.25 EUR (original: 65.03 EUR) (47.33 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Darphin  Crema corporal - 50 ml.](https://images-eu.ssl-images-amazon.com/images/I/41nTmuR5IrL._SL400_.jpg)](https://www.amazon.es/dp/B006K4EVRS/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B006K4EVRS/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

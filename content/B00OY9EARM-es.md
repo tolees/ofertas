@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VAUDE Jacke Girls Centipede Jacket - Sof al 78.84 % de rebaja'
+title: 'VAUDE Jacke Girls Centipede Jacket - Soft Shell para niña  Color Amarillo  Talla 10 años  140 cm  [DE 134/140]'
 date: 2020-01-02 08:14:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51eBnLgKshL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '78.84'
 average: '11.64'
 ---
 
-Tienes [VAUDE Jacke Girls Centipede Jacket - Soft Shell para niña  Color Amarillo  Talla 10 años  140 cm  [DE 134/140]](https://www.amazon.es/dp/B00OY9EARM/?tag=tolees-21) con precio final de  11.64 EUR (original: 55 EUR) (78.84 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![VAUDE Jacke Girls Centipede Jacket - Sof](https://images-eu.ssl-images-amazon.com/images/I/51eBnLgKshL._SL400_.jpg)](https://www.amazon.es/dp/B00OY9EARM/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B00OY9EARM/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

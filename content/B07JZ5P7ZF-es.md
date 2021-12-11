@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Superstar El I  Zapatillas de Dep al 49.99 % de descuento'
+title: 'adidas Superstar El I  Zapatillas de Deporte Unisex niño  Multicolor Ftwbla/Marley 000  23 EU'
 date: 2020-01-10 07:26:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZNkYfeoxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.99'
 average: '27.48'
 ---
 
-Ahora mismo tienes [adidas Superstar El I  Zapatillas de Deporte Unisex niño  Multicolor Ftwbla/Marley 000  23 EU](https://www.amazon.es/dp/B07JZ5P7ZF/?tag=tolees-21) a 27.48 EUR (original: 54.95 EUR) (49.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![adidas Superstar El I  Zapatillas de Dep](https://images-eu.ssl-images-amazon.com/images/I/41ZNkYfeoxL._SL400_.jpg)](https://www.amazon.es/dp/B07JZ5P7ZF/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07JZ5P7ZF/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

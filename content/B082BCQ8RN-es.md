@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Icons Corner Pack de 2 Sillas Gris Patas con un 84.00 % de descuento'
+title: 'Icons Corner Pack de 2 Sillas Gris Patas de Madera Kandem Paris'
 date: 2020-01-08 08:36:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31i7wjJOoaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '84.00'
 average: '55.99'
 ---
 
-En este momento está [Icons Corner Pack de 2 Sillas Gris Patas de Madera Kandem Paris](https://www.amazon.es/dp/B082BCQ8RN/?tag=tolees-21) a 55.99 EUR (original: 349.9 EUR) (84.00 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Icons Corner Pack de 2 Sillas Gris Patas](https://images-eu.ssl-images-amazon.com/images/I/31i7wjJOoaL._SL400_.jpg)](https://www.amazon.es/dp/B082BCQ8RN/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B082BCQ8RN/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

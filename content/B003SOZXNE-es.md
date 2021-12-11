@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stagg SGC6 Instrumento Cable  6m  de cal con un 45.59 % de descuento'
+title: 'Stagg SGC6 Instrumento Cable  6m  de calidad Teléfono Plug-Phone  Derecho - Estándar  Negro'
 date: 2020-01-10 13:10:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mpkfDqRjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.59'
 average: '8.7'
 ---
 
-En este momento está [Stagg SGC6 Instrumento Cable  6m  de calidad Teléfono Plug-Phone  Derecho - Estándar  Negro](https://www.amazon.es/dp/B003SOZXNE/?tag=tolees-21) a 8.7 EUR (original: 15.99 EUR) (45.59 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Stagg SGC6 Instrumento Cable  6m  de cal](https://images-eu.ssl-images-amazon.com/images/I/51mpkfDqRjL._SL400_.jpg)](https://www.amazon.es/dp/B003SOZXNE/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B003SOZXNE/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

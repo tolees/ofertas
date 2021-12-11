@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Dolomo  Botas Clasicas para Hombre al 49.61 % de rebaja'
+title: 'Kappa Dolomo  Botas Clasicas para Hombre  Black/Grey 1116  41 EU'
 date: 2019-12-31 19:07:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nFlkuvYHL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.61'
 average: '20.13'
 ---
 
-Tienes [Kappa Dolomo  Botas Clasicas para Hombre  Black/Grey 1116  41 EU](https://www.amazon.es/dp/B07LBLW3K9/?tag=tolees-21) con precio final de  20.13 EUR (original: 39.95 EUR) (49.61 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Kappa Dolomo  Botas Clasicas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41nFlkuvYHL._SL400_.jpg)](https://www.amazon.es/dp/B07LBLW3K9/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07LBLW3K9/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fresh Foam Roav  Zapatillas  con un 61.02 % de descuento'
+title: 'New Balance Fresh Foam Roav  Zapatillas de Running para Hombre  Negro  Black Black   45 EU'
 date: 2020-01-03 11:40:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eFaTFZxPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.02'
 average: '35.08'
 ---
 
-En este momento está [New Balance Fresh Foam Roav  Zapatillas de Running para Hombre  Negro  Black Black   45 EU](https://www.amazon.es/dp/B07HGDBC3J/?tag=tolees-21) a 35.08 EUR (original: 90 EUR) (61.02 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![New Balance Fresh Foam Roav  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41eFaTFZxPL._SL400_.jpg)](https://www.amazon.es/dp/B07HGDBC3J/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07HGDBC3J/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

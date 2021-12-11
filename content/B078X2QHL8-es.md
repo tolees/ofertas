@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dockers by Gerli 36ai227-777200  Mocasin con un 56.66 % de descuento'
+title: 'Dockers by Gerli 36ai227-777200  Mocasines para Mujer  Gris  Grau 200   38 EU'
 date: 2020-01-09 14:40:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wLZjRCK%2BL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.66'
 average: '20.835'
 ---
 
-En este momento está [Dockers by Gerli 36ai227-777200  Mocasines para Mujer  Gris  Grau 200   38 EU](https://www.amazon.es/dp/B078X2QHL8/?tag=tolees-21) a 16.93 EUR (original: 39.06 EUR) (56.66 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Dockers by Gerli 36ai227-777200  Mocasin](https://images-eu.ssl-images-amazon.com/images/I/41wLZjRCK%2BL._SL400_.jpg)](https://www.amazon.es/dp/B078X2QHL8/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B078X2QHL8/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

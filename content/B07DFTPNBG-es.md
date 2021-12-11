@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Thong Tanga  Negro  Black 0 al 39.17 % de descuento'
+title: 'Calvin Klein Thong Tanga  Negro  Black 001   36  Talla del Fabricante: X-Small  para Mujer'
 date: 2020-01-06 19:25:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qMXaO1pwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.17'
 average: '13.99'
 ---
 
-Ahora mismo tienes [Calvin Klein Thong Tanga  Negro  Black 001   36  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07DFTPNBG/?tag=tolees-21) a 13.99 EUR (original: 23 EUR) (39.17 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Calvin Klein Thong Tanga  Negro  Black 0](https://images-eu.ssl-images-amazon.com/images/I/41qMXaO1pwL._SL400_.jpg)](https://www.amazon.es/dp/B07DFTPNBG/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07DFTPNBG/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

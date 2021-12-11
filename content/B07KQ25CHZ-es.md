@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 60.02 % en VicTsing Lámpara de Mesa 18 LEDs Recarga'
+title: 'VicTsing Lámpara de Mesa 18 LEDs Recargable con 60 Horas de Autonomía  Lampara de Escritorio con Brillo Regulable 20%-100%  Función de Memoria  Control Táctil y Cuidado de Ojos'
 date: 2020-01-01 09:11:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/217R1DHZzdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.02'
 average: '15.989999999999998'
 ---
 
-Tienes [VicTsing Lámpara de Mesa 18 LEDs Recargable con 60 Horas de Autonomía  Lampara de Escritorio con Brillo Regulable 20%-100%  Función de Memoria  Control Táctil y Cuidado de Ojos](https://www.amazon.es/dp/B07KQ25CHZ/?tag=tolees-21) con un 60.02 % de descuento con precio de oferta de 9.99 EUR (original: 24.99 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![VicTsing Lámpara de Mesa 18 LEDs Recarga](https://images-eu.ssl-images-amazon.com/images/I/217R1DHZzdL._SL400_.jpg)](https://www.amazon.es/dp/B07KQ25CHZ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KQ25CHZ/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

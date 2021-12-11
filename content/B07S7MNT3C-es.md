@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rage 2 con un 66.72 % de descuento'
+title: 'Rage 2'
 date: 2020-01-02 19:09:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61%2B9csN8toL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.72'
 average: '19.95'
 ---
 
-En este momento está [Rage 2](https://www.amazon.es/dp/B07S7MNT3C/?tag=tolees-21) a 19.95 EUR (original: 59.95 EUR) (66.72 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Rage 2](https://images-eu.ssl-images-amazon.com/images/I/61%2B9csN8toL._SL400_.jpg)](https://www.amazon.es/dp/B07S7MNT3C/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07S7MNT3C/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.06 % en Skechers Go Run Focus-Athos  Zapatillas '
+title: 'Skechers Go Run Focus-Athos  Zapatillas para Hombre  Negro  Black Textile/Blue Trim Bkbl   42 EU'
 date: 2020-01-07 16:02:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ECf2Sja%2BL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.06'
 average: '34.475'
 ---
 
-Tienes [Skechers Go Run Focus-Athos  Zapatillas para Hombre  Negro  Black Textile/Blue Trim Bkbl   42 EU](https://www.amazon.es/dp/B07MR1RWP5/?tag=tolees-21) con un 40.06 % de descuento con precio de oferta de 35.95 EUR (original: 59.98 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Skechers Go Run Focus-Athos  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41ECf2Sja%2BL._SL400_.jpg)](https://www.amazon.es/dp/B07MR1RWP5/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MR1RWP5/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

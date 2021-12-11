@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Magichome Temporizador Digital Programab al 61.74 % de descuento'
+title: 'Magichome Temporizador Digital Programable  Enchufe Programador con Pantalla LCD 12/24 Horas  Diario/Semanal  temporizador enchufe con Horario Aleatorio y de Verano Ahorrar Energía y Dinero 2 piezas'
 date: 2020-01-02 08:26:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ztyQ1Oj8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.74'
 average: '20.89'
 ---
 
-Está [Magichome Temporizador Digital Programable  Enchufe Programador con Pantalla LCD 12/24 Horas  Diario/Semanal  temporizador enchufe con Horario Aleatorio y de Verano Ahorrar Energía y Dinero 2 piezas](https://www.amazon.es/dp/B07GVDKYK1/?tag=tolees-21) con 61.74 de descuento por 19.89 EUR (original: 51.98 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Magichome Temporizador Digital Programab](https://images-eu.ssl-images-amazon.com/images/I/51ztyQ1Oj8L._SL400_.jpg)](https://www.amazon.es/dp/B07GVDKYK1/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GVDKYK1/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

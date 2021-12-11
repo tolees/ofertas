@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 66.67 % en Puma Evospeed High Jump 4 Track and Fiel'
+title: 'Puma Evospeed High Jump 4 Track and Field Zapatillas Correr De Clavos - 42.5'
 date: 2020-01-01 19:08:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YCPzjDoBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.67'
 average: '47.99'
 ---
 
-Tienes [Puma Evospeed High Jump 4 Track and Field Zapatillas Correr De Clavos - 42.5](https://www.amazon.es/dp/B0832FFDQ5/?tag=tolees-21) con un 66.67 % de descuento con precio de oferta de 47.99 EUR (original: 143.99 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Puma Evospeed High Jump 4 Track and Fiel](https://images-eu.ssl-images-amazon.com/images/I/41YCPzjDoBL._SL400_.jpg)](https://www.amazon.es/dp/B0832FFDQ5/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0832FFDQ5/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Masters 319 1 SMA  Zapatillas pa al 58.91 % de descuento'
+title: 'Lacoste Masters 319 1 SMA  Zapatillas para Hombre  Blanco  Wht/Dk Red 1y8   46.5 EU'
 date: 2020-01-01 12:25:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Qp9Uj73xL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.91'
 average: '40.68'
 ---
 
-Ahora mismo tienes [Lacoste Masters 319 1 SMA  Zapatillas para Hombre  Blanco  Wht/Dk Red 1y8   46.5 EU](https://www.amazon.es/dp/B07L9SJB7D/?tag=tolees-21) a 40.68 EUR (original: 99 EUR) (58.91 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Lacoste Masters 319 1 SMA  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/31Qp9Uj73xL._SL400_.jpg)](https://www.amazon.es/dp/B07L9SJB7D/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07L9SJB7D/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

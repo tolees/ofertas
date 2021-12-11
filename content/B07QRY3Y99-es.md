@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Air MAX Axis  PS   Zapatillas de Ru al 61.77 % de rebaja'
+title: 'Nike Air MAX Axis  PS   Zapatillas de Running para Niños  Negro  Black/Black/Black 008   27.5 EU'
 date: 2020-01-02 20:23:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jCvmReeKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.77'
 average: '27.14'
 ---
 
-Tienes [Nike Air MAX Axis  PS   Zapatillas de Running para Niños  Negro  Black/Black/Black 008   27.5 EU](https://www.amazon.es/dp/B07QRY3Y99/?tag=tolees-21) con precio final de  27.14 EUR (original: 71 EUR) (61.77 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Nike Air MAX Axis  PS   Zapatillas de Ru](https://images-eu.ssl-images-amazon.com/images/I/41jCvmReeKL._SL400_.jpg)](https://www.amazon.es/dp/B07QRY3Y99/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07QRY3Y99/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

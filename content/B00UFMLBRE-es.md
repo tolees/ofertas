@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 42.77 % en adidas Tango Glider Balón  Unisex Adulto'
+title: 'adidas Tango Glider Balón  Unisex Adulto  Blanco/Negro  4'
 date: 2020-01-07 18:07:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414GlnNwxtL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.77'
 average: '11.99'
 ---
 
-Tienes [adidas Tango Glider Balón  Unisex Adulto  Blanco/Negro  4](https://www.amazon.es/dp/B00UFMLBRE/?tag=tolees-21) con un 42.77 % de descuento con precio de oferta de 11.99 EUR (original: 20.95 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![adidas Tango Glider Balón  Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/414GlnNwxtL._SL400_.jpg)](https://www.amazon.es/dp/B00UFMLBRE/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00UFMLBRE/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

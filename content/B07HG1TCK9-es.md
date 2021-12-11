@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 373 Zapatillas Hombre  Negro al 69.89 % de rebaja'
+title: 'New Balance 373 Zapatillas Hombre  Negro  Black Black   37 EU'
 date: 2020-01-02 10:51:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31uMgS3ThbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '69.89'
 average: '27.825'
 ---
 
-Tienes [New Balance 373 Zapatillas Hombre  Negro  Black Black   37 EU](https://www.amazon.es/dp/B07HG1TCK9/?tag=tolees-21) con precio final de  25.59 EUR (original: 85 EUR) (69.89 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![New Balance 373 Zapatillas Hombre  Negro](https://images-eu.ssl-images-amazon.com/images/I/31uMgS3ThbL._SL400_.jpg)](https://www.amazon.es/dp/B07HG1TCK9/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07HG1TCK9/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

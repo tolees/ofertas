@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Masajeador Electrónico 10 Modos Vibració con un 45.01 % de descuento'
+title: 'Masajeador Electrónico 10 Modos Vibración Masajeador de Espalda y Hombros'
 date: 2020-01-05 08:55:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hhb-lBKmL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.01'
 average: '21.99'
 ---
 
-En este momento está [Masajeador Electrónico 10 Modos Vibración Masajeador de Espalda y Hombros](https://www.amazon.es/dp/B07ZPZK9Z8/?tag=tolees-21) a 21.99 EUR (original: 39.99 EUR) (45.01 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Masajeador Electrónico 10 Modos Vibració](https://images-eu.ssl-images-amazon.com/images/I/41Hhb-lBKmL._SL400_.jpg)](https://www.amazon.es/dp/B07ZPZK9Z8/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07ZPZK9Z8/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

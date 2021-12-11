@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 64.96 % en uhlsport Pullover Match 1/4 Zip Top - Fo'
+title: 'uhlsport Pullover Match 1/4 Zip Top - Forro para Mujer  Color Negro  Talla 2XL'
 date: 2020-01-06 08:52:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GYys4GnqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '64.96'
 average: '12.99'
 ---
 
-Tienes [uhlsport Pullover Match 1/4 Zip Top - Forro para Mujer  Color Negro  Talla 2XL](https://www.amazon.es/dp/B00IYCHYIC/?tag=tolees-21) con un 64.96 % de descuento con precio de oferta de 12.99 EUR (original: 37.07 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![uhlsport Pullover Match 1/4 Zip Top - Fo](https://images-eu.ssl-images-amazon.com/images/I/41GYys4GnqL._SL400_.jpg)](https://www.amazon.es/dp/B00IYCHYIC/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IYCHYIC/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Lyte V  Zapatillas Unisex Adul al 55.04 % de descuento'
+title: 'Asics Gel-Lyte V  Zapatillas Unisex Adulto  Blanco  Bianco   36 EU'
 date: 2020-01-01 20:42:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41T5xUBJwoL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.04'
 average: '61.583333333333336'
 ---
 
-Está [Asics Gel-Lyte V  Zapatillas Unisex Adulto  Blanco  Bianco   36 EU](https://www.amazon.es/dp/B01MQNF1WY/?tag=tolees-21) con 55.04 de descuento por 58 EUR (original: 128.99 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Asics Gel-Lyte V  Zapatillas Unisex Adul](https://images-eu.ssl-images-amazon.com/images/I/41T5xUBJwoL._SL400_.jpg)](https://www.amazon.es/dp/B01MQNF1WY/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MQNF1WY/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

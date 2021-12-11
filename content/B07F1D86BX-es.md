@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Armani Exchange - Crossbody Bag Colorful al 53.75 % de descuento'
+title: 'Armani Exchange - Crossbody Bag Colorful  Shoppers y bolsos de hombro Mujer  Marrón  Cognac   15x6.5x20 cm  B x H T '
 date: 2020-01-07 18:12:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41D3cYgIIdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.75'
 average: '58.267999999999994'
 ---
 
-Está [Armani Exchange - Crossbody Bag Colorful  Shoppers y bolsos de hombro Mujer  Marrón  Cognac   15x6.5x20 cm  B x H T ](https://www.amazon.es/dp/B07F1D86BX/?tag=tolees-21) con 53.75 de descuento por 50.88 EUR (original: 110 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Armani Exchange - Crossbody Bag Colorful](https://images-eu.ssl-images-amazon.com/images/I/41D3cYgIIdL._SL400_.jpg)](https://www.amazon.es/dp/B07F1D86BX/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F1D86BX/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

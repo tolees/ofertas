@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Unlined Bralette Sujetador  con un 40.66 % de descuento'
+title: 'Calvin Klein Unlined Bralette Sujetador sin Aros  Negro  Black 001   Medium para Mujer'
 date: 2020-01-05 20:55:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41sfn2f3pQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.66'
 average: '18.99'
 ---
 
-En este momento está [Calvin Klein Unlined Bralette Sujetador sin Aros  Negro  Black 001   Medium para Mujer](https://www.amazon.es/dp/B078WVRFGL/?tag=tolees-21) a 18.99 EUR (original: 32 EUR) (40.66 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Calvin Klein Unlined Bralette Sujetador ](https://images-eu.ssl-images-amazon.com/images/I/41sfn2f3pQL._SL400_.jpg)](https://www.amazon.es/dp/B078WVRFGL/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B078WVRFGL/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

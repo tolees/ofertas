@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Flexagon Energy MT  Zapatillas de al 58.00 % de descuento'
+title: 'Reebok Flexagon Energy MT  Zapatillas de Gimnasia para Hombre  Negro  Black/Cold Grey 7/Cold Grey 2 Black/Cold Grey 7/Cold Grey 2   39 EU'
 date: 2020-01-02 11:18:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ui9O%2BbKbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.00'
 average: '20.98'
 ---
 
-Está [Reebok Flexagon Energy MT  Zapatillas de Gimnasia para Hombre  Negro  Black/Cold Grey 7/Cold Grey 2 Black/Cold Grey 7/Cold Grey 2   39 EU](https://www.amazon.es/dp/B07SVPHR6W/?tag=tolees-21) con 58.00 de descuento por 20.98 EUR (original: 49.95 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Reebok Flexagon Energy MT  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41ui9O%2BbKbL._SL400_.jpg)](https://www.amazon.es/dp/B07SVPHR6W/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SVPHR6W/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

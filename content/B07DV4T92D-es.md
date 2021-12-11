@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Backpedal Outdry  Zapatillas de al 62.67 % de descuento'
+title: 'Columbia Backpedal Outdry  Zapatillas de Cross para Mujer  Negro  Shark  White 011   40 EU'
 date: 2020-01-06 22:34:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41U3FmaPqBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '62.67'
 average: '36.28333333333334'
 ---
 
-Ahora mismo tienes [Columbia Backpedal Outdry  Zapatillas de Cross para Mujer  Negro  Shark  White 011   40 EU](https://www.amazon.es/dp/B07DV4T92D/?tag=tolees-21) a 37.33 EUR (original: 99.99 EUR) (62.67 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Columbia Backpedal Outdry  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41U3FmaPqBL._SL400_.jpg)](https://www.amazon.es/dp/B07DV4T92D/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07DV4T92D/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

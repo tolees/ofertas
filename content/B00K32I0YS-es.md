@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.40 % en Nike Wmns Air Zoom Vomero 14  Zapatillas'
+title: 'Nike Wmns Air Zoom Vomero 14  Zapatillas de Running para Mujer  Negro  Black/White/Thunder Grey 010   39 EU'
 date: 2020-01-08 11:25:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BmjHHo9BL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.40'
 average: '69.95'
 ---
 
-Tienes [Nike Wmns Air Zoom Vomero 14  Zapatillas de Running para Mujer  Negro  Black/White/Thunder Grey 010   39 EU](https://www.amazon.es/dp/B00K32I0YS/?tag=tolees-21) con un 36.40 % de descuento con precio de oferta de 69.95 EUR (original: 109.99 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Nike Wmns Air Zoom Vomero 14  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41BmjHHo9BL._SL400_.jpg)](https://www.amazon.es/dp/B00K32I0YS/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00K32I0YS/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

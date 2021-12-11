@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GANT FOOTWEAR Portland  Zapatillas para  con un 35.92 % de descuento'
+title: 'GANT FOOTWEAR Portland  Zapatillas para Hombre  Multicolor  Multi Green G752   45 EU'
 date: 2020-01-06 12:02:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UwEX-8sfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.92'
 average: '71.95'
 ---
 
-En este momento está [GANT FOOTWEAR Portland  Zapatillas para Hombre  Multicolor  Multi Green G752   45 EU](https://www.amazon.es/dp/B07KRCD8JM/?tag=tolees-21) a 71.95 EUR (original: 112.29 EUR) (35.92 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![GANT FOOTWEAR Portland  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/41UwEX-8sfL._SL400_.jpg)](https://www.amazon.es/dp/B07KRCD8JM/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07KRCD8JM/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

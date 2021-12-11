@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Great Art Gráfico artistico de Lirio Mur con un 42.75 % de descuento'
+title: 'Great Art Gráfico artistico de Lirio Mural de by  140 x 100 cm '
 date: 2020-01-01 19:35:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51xxt0lYi6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.75'
 average: '22.9'
 ---
 
-En este momento está [Great Art Gráfico artistico de Lirio Mural de by  140 x 100 cm ](https://www.amazon.es/dp/B01D0FMRE8/?tag=tolees-21) a 22.9 EUR (original: 40 EUR) (42.75 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Great Art Gráfico artistico de Lirio Mur](https://images-eu.ssl-images-amazon.com/images/I/51xxt0lYi6L._SL400_.jpg)](https://www.amazon.es/dp/B01D0FMRE8/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B01D0FMRE8/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

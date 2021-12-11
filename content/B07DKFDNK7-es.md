@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kipling - Creativity L  Monederos Mujer  al 40.00 % de descuento'
+title: 'Kipling - Creativity L  Monederos Mujer  Morado  Active Lilac Bl '
 date: 2020-01-04 09:03:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31mCbnExYGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '17.4'
 ---
 
-Ahora mismo tienes [Kipling - Creativity L  Monederos Mujer  Morado  Active Lilac Bl ](https://www.amazon.es/dp/B07DKFDNK7/?tag=tolees-21) a 17.4 EUR (original: 29 EUR) (40.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Kipling - Creativity L  Monederos Mujer ](https://images-eu.ssl-images-amazon.com/images/I/31mCbnExYGL._SL400_.jpg)](https://www.amazon.es/dp/B07DKFDNK7/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07DKFDNK7/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

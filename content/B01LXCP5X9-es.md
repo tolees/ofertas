@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LOBKIN Auriculares Bluetooth Deportivos  al 50.02 % de rebaja'
+title: 'LOBKIN Auriculares Bluetooth Deportivos  Resistentes Al Sudor  con Una Autonomia de hasta 6 Horas Sonido. con Tecnologia CVC 6.0 de Eliminacion de Ruido Rojo '
 date: 2020-01-04 10:41:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41L4f%2BJvNaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.02'
 average: '17.49'
 ---
 
-Tienes [LOBKIN Auriculares Bluetooth Deportivos  Resistentes Al Sudor  con Una Autonomia de hasta 6 Horas Sonido. con Tecnologia CVC 6.0 de Eliminacion de Ruido Rojo ](https://www.amazon.es/dp/B01LXCP5X9/?tag=tolees-21) con precio final de  14.99 EUR (original: 29.99 EUR) (50.02 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![LOBKIN Auriculares Bluetooth Deportivos ](https://images-eu.ssl-images-amazon.com/images/I/41L4f%2BJvNaL._SL400_.jpg)](https://www.amazon.es/dp/B01LXCP5X9/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B01LXCP5X9/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

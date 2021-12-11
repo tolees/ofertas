@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.72 % en MAKITA DGA504Z Herramienta'
+title: 'MAKITA DGA504Z Herramienta'
 date: 2020-01-04 11:58:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FeWgxkCEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.72'
 average: '117.79'
 ---
 
-Tienes [MAKITA DGA504Z Herramienta](https://www.amazon.es/dp/B00S6OMGY0/?tag=tolees-21) con un 40.72 % de descuento con precio de oferta de 117.79 EUR (original: 198.69 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![MAKITA DGA504Z Herramienta](https://images-eu.ssl-images-amazon.com/images/I/41FeWgxkCEL._SL400_.jpg)](https://www.amazon.es/dp/B00S6OMGY0/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00S6OMGY0/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

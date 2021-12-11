@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 35.72 % en BERING Reloj Analógico para Hombre de Cu'
+title: 'BERING Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 11939-078'
 date: 2020-01-08 13:55:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411blffG%2BuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.72'
 average: '124.64'
 ---
 
-Tienes [BERING Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 11939-078](https://www.amazon.es/dp/B005OVT0RY/?tag=tolees-21) con un 35.72 % de descuento con precio de oferta de 127.91 EUR (original: 199 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![BERING Reloj Analógico para Hombre de Cu](https://images-eu.ssl-images-amazon.com/images/I/411blffG%2BuL._SL400_.jpg)](https://www.amazon.es/dp/B005OVT0RY/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005OVT0RY/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

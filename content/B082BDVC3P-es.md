@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Icons Corner Pack de 2 sillones IMS con  con un 84.00 % de descuento'
+title: 'Icons Corner Pack de 2 sillones IMS con Patas de Madera y pachtwork'
 date: 2020-01-08 10:39:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OaI1fQVXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '84.00'
 average: '79.99'
 ---
 
-En este momento está [Icons Corner Pack de 2 sillones IMS con Patas de Madera y pachtwork](https://www.amazon.es/dp/B082BDVC3P/?tag=tolees-21) a 79.99 EUR (original: 499.95 EUR) (84.00 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Icons Corner Pack de 2 sillones IMS con ](https://images-eu.ssl-images-amazon.com/images/I/41OaI1fQVXL._SL400_.jpg)](https://www.amazon.es/dp/B082BDVC3P/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B082BDVC3P/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

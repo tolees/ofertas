@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Prismáticos Bresser Corvette 10x42 relle con un 62.82 % de descuento'
+title: 'Prismáticos Bresser Corvette 10x42 rellenos de nitrógeno'
 date: 2020-01-06 15:04:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51tgpabhroL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '62.82'
 average: '55.435'
 ---
 
-En este momento está [Prismáticos Bresser Corvette 10x42 rellenos de nitrógeno](https://www.amazon.es/dp/B01M28ZRE3/?tag=tolees-21) a 55.4 EUR (original: 149 EUR) (62.82 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Prismáticos Bresser Corvette 10x42 relle](https://images-eu.ssl-images-amazon.com/images/I/51tgpabhroL._SL400_.jpg)](https://www.amazon.es/dp/B01M28ZRE3/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B01M28ZRE3/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Speedcross 4 GTX  Zapatillas de  al 46.66 % de descuento'
+title: 'Salomon Speedcross 4 GTX  Zapatillas de Trail Running para Hombre  Negro  Black/Black/Silver Metallic-X   42 2/3 EU'
 date: 2020-01-05 10:35:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fu3FedwQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.66'
 average: '79.99'
 ---
 
-Ahora mismo tienes [Salomon Speedcross 4 GTX  Zapatillas de Trail Running para Hombre  Negro  Black/Black/Silver Metallic-X   42 2/3 EU](https://www.amazon.es/dp/B017SR0A2K/?tag=tolees-21) a 79.99 EUR (original: 149.95 EUR) (46.66 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Salomon Speedcross 4 GTX  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41fu3FedwQL._SL400_.jpg)](https://www.amazon.es/dp/B017SR0A2K/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B017SR0A2K/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

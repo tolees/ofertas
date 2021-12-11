@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Butter London Plush Rush Pintalabios con un 90.56 % de descuento'
+title: 'Butter London Plush Rush Pintalabios'
 date: 2020-01-01 11:18:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31x37CsLc9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '90.56'
 average: '1.99'
 ---
 
-En este momento está [Butter London Plush Rush Pintalabios](https://www.amazon.es/dp/B01AXVQLP8/?tag=tolees-21) a 1.99 EUR (original: 21.07 EUR) (90.56 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Butter London Plush Rush Pintalabios](https://images-eu.ssl-images-amazon.com/images/I/31x37CsLc9L._SL400_.jpg)](https://www.amazon.es/dp/B01AXVQLP8/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B01AXVQLP8/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

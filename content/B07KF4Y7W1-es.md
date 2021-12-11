@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 511 Slim Hemmed Short Pantalones  al 50.00 % de descuento'
+title: 'Levi s 511 Slim Hemmed Short Pantalones Cortos  Negro  Eight Ball 0088   W32  Talla del Fabricante: 32  para Hombre'
 date: 2020-01-03 09:38:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ObQ1DWRqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '29.5'
 ---
 
-Está [Levi s 511 Slim Hemmed Short Pantalones Cortos  Negro  Eight Ball 0088   W32  Talla del Fabricante: 32  para Hombre](https://www.amazon.es/dp/B07KF4Y7W1/?tag=tolees-21) con 50.00 de descuento por 29.5 EUR (original: 59 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Levi s 511 Slim Hemmed Short Pantalones ](https://images-eu.ssl-images-amazon.com/images/I/41ObQ1DWRqL._SL400_.jpg)](https://www.amazon.es/dp/B07KF4Y7W1/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KF4Y7W1/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

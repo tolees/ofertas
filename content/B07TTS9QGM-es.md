@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Iris Utility Paperbag Pantalone al 79.52 % de rebaja'
+title: 'New Look Iris Utility Paperbag Pantalones  Negro  Black 1   38  Talla del Fabricante: 10  para Mujer'
 date: 2020-01-03 11:45:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31a9x8do9SL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '79.52'
 average: '6'
 ---
 
-Tienes [New Look Iris Utility Paperbag Pantalones  Negro  Black 1   38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B07TTS9QGM/?tag=tolees-21) con precio final de  6 EUR (original: 29.29 EUR) (79.52 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![New Look Iris Utility Paperbag Pantalone](https://images-eu.ssl-images-amazon.com/images/I/31a9x8do9SL._SL400_.jpg)](https://www.amazon.es/dp/B07TTS9QGM/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07TTS9QGM/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

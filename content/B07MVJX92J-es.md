@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Eils SS Polo  Verde  Green For al 51.20 % de descuento'
+title: 'Napapijri Eils SS Polo  Verde  Green Forest 2 GE3   Large para Hombre'
 date: 2020-01-04 22:57:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yi7c%2BPCnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.20'
 average: '29.33'
 ---
 
-Ahora mismo tienes [Napapijri Eils SS Polo  Verde  Green Forest 2 GE3   Large para Hombre](https://www.amazon.es/dp/B07MVJX92J/?tag=tolees-21) a 28.79 EUR (original: 59 EUR) (51.20 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Napapijri Eils SS Polo  Verde  Green For](https://images-eu.ssl-images-amazon.com/images/I/41Yi7c%2BPCnL._SL400_.jpg)](https://www.amazon.es/dp/B07MVJX92J/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07MVJX92J/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

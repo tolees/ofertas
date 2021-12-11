@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Fairford Run  Zapatillas para Hom al 54.67 % de descuento'
+title: 'Clarks Fairford Run  Zapatillas para Hombre  Negro Black Leather  42.5 EU'
 date: 2020-01-07 22:01:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31DzuO0pQNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.67'
 average: '45.31'
 ---
 
-Está [Clarks Fairford Run  Zapatillas para Hombre  Negro Black Leather  42.5 EU](https://www.amazon.es/dp/B07MC126RV/?tag=tolees-21) con 54.67 de descuento por 45.31 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Clarks Fairford Run  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/31DzuO0pQNL._SL400_.jpg)](https://www.amazon.es/dp/B07MC126RV/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MC126RV/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

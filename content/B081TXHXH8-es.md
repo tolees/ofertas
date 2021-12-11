@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luces solares al aire libre   100 LED 8  con un 42.04 % de descuento'
+title: 'Luces solares al aire libre   100 LED 8 modos  Luces solares para jardín  luces de cadena solar resistente al agua para patio  hogar  boda  camino  fiesta  dos paquetes-amarillo cálido-5 '
 date: 2020-01-07 09:15:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/511dQSzXSFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.04'
 average: '39.99'
 ---
 
-En este momento está [Luces solares al aire libre   100 LED 8 modos  Luces solares para jardín  luces de cadena solar resistente al agua para patio  hogar  boda  camino  fiesta  dos paquetes-amarillo cálido-5 ](https://www.amazon.es/dp/B081TXHXH8/?tag=tolees-21) a 39.99 EUR (original: 69 EUR) (42.04 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Luces solares al aire libre   100 LED 8 ](https://images-eu.ssl-images-amazon.com/images/I/511dQSzXSFL._SL400_.jpg)](https://www.amazon.es/dp/B081TXHXH8/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B081TXHXH8/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

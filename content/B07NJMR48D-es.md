@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vermouth La Copa Blanco - D.O. Jerez - 6 con un 40.20 % de descuento'
+title: 'Vermouth La Copa Blanco - D.O. Jerez - 6 x 750 ml - Total: 4500ml'
 date: 2020-01-02 14:50:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mpiDmpCcL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.20'
 average: '41.175'
 ---
 
-En este momento está [Vermouth La Copa Blanco - D.O. Jerez - 6 x 750 ml - Total: 4500ml](https://www.amazon.es/dp/B07NJMR48D/?tag=tolees-21) a 37.35 EUR (original: 62.46 EUR) (40.20 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Vermouth La Copa Blanco - D.O. Jerez - 6](https://images-eu.ssl-images-amazon.com/images/I/51mpiDmpCcL._SL400_.jpg)](https://www.amazon.es/dp/B07NJMR48D/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07NJMR48D/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

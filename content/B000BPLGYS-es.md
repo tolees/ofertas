@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 93.32 % en HP Q5953A - Cartucho de tóner'
+title: 'HP Q5953A - Cartucho de tóner'
 date: 2020-01-02 17:22:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51M8GlUsvwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '93.32'
 average: '26.73'
 ---
 
-Tienes [HP Q5953A - Cartucho de tóner](https://www.amazon.es/dp/B000BPLGYS/?tag=tolees-21) con un 93.32 % de descuento con precio de oferta de 26.73 EUR (original: 399.9 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![HP Q5953A - Cartucho de tóner](https://images-eu.ssl-images-amazon.com/images/I/51M8GlUsvwL._SL400_.jpg)](https://www.amazon.es/dp/B000BPLGYS/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000BPLGYS/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsonite Neopulse - Spinner M Maleta  6 al 47.62 % de descuento'
+title: 'Samsonite Neopulse - Spinner M Maleta  69 cm  74 L  Negro  Matte Black '
 date: 2020-01-10 12:11:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gbjUYpVSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.62'
 average: '188.55'
 ---
 
-Está [Samsonite Neopulse - Spinner M Maleta  69 cm  74 L  Negro  Matte Black ](https://www.amazon.es/dp/B01D1HKCAQ/?tag=tolees-21) con 47.62 de descuento por 188.55 EUR (original: 360 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Samsonite Neopulse - Spinner M Maleta  6](https://images-eu.ssl-images-amazon.com/images/I/41gbjUYpVSL._SL400_.jpg)](https://www.amazon.es/dp/B01D1HKCAQ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B01D1HKCAQ/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

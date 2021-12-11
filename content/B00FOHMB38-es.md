@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ACTIVISION Skylanders: Swap Force - Figu con un 37.34 % de descuento'
+title: 'ACTIVISION Skylanders: Swap Force - Figurina Single Smolderdash'
 date: 2020-01-07 20:02:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51qXl3V9fwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.34'
 average: '6.26'
 ---
 
-En este momento está [ACTIVISION Skylanders: Swap Force - Figurina Single Smolderdash](https://www.amazon.es/dp/B00FOHMB38/?tag=tolees-21) a 6.26 EUR (original: 9.99 EUR) (37.34 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![ACTIVISION Skylanders: Swap Force - Figu](https://images-eu.ssl-images-amazon.com/images/I/51qXl3V9fwL._SL400_.jpg)](https://www.amazon.es/dp/B00FOHMB38/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B00FOHMB38/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

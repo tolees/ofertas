@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Todos  Zapatillas para Hombre  Negr al 44.14 % de descuento'
+title: 'Nike Todos  Zapatillas para Hombre  Negro  Black/White 002   44.5 EU'
 date: 2019-12-31 17:12:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3195gLFI00L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.14'
 average: '32.47'
 ---
 
-Está [Nike Todos  Zapatillas para Hombre  Negro  Black/White 002   44.5 EU](https://www.amazon.es/dp/B07PHW1FVH/?tag=tolees-21) con 44.14 de descuento por 29.75 EUR (original: 53.26 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Nike Todos  Zapatillas para Hombre  Negr](https://images-eu.ssl-images-amazon.com/images/I/3195gLFI00L._SL400_.jpg)](https://www.amazon.es/dp/B07PHW1FVH/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PHW1FVH/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

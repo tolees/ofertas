@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asmuse Melodica 32 Teclas Con boquilla y al 66.08 % de rebaja'
+title: 'Asmuse Melodica 32 Teclas Con boquilla y manguera de soplado  Incluye una bolsa para transporte para Principiantes Niños Amantes Musicales Regalo Musical-Negro'
 date: 2020-01-10 13:59:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WYZ9501qL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.08'
 average: '18.99'
 ---
 
-Tienes [Asmuse Melodica 32 Teclas Con boquilla y manguera de soplado  Incluye una bolsa para transporte para Principiantes Niños Amantes Musicales Regalo Musical-Negro](https://www.amazon.es/dp/B07G13RH9R/?tag=tolees-21) con precio final de  18.99 EUR (original: 55.99 EUR) (66.08 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Asmuse Melodica 32 Teclas Con boquilla y](https://images-eu.ssl-images-amazon.com/images/I/41WYZ9501qL._SL400_.jpg)](https://www.amazon.es/dp/B07G13RH9R/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07G13RH9R/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

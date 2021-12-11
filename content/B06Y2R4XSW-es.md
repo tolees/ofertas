@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 574 Core Zapatillas Hombre   al 60.67 % de rebaja'
+title: 'New Balance 574 Core Zapatillas Hombre  Rojo  Burgundy   44.5 EU  10 UK '
 date: 2020-01-03 11:49:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.67'
 average: '49.155'
 ---
 
-Tienes [New Balance 574 Core Zapatillas Hombre  Rojo  Burgundy   44.5 EU  10 UK ](https://www.amazon.es/dp/B06Y2R4XSW/?tag=tolees-21) con precio final de  35.4 EUR (original: 90 EUR) (60.67 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![New Balance 574 Core Zapatillas Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL400_.jpg)](https://www.amazon.es/dp/B06Y2R4XSW/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B06Y2R4XSW/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

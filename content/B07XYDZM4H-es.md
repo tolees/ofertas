@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Proze Sport Auriculares Inalámbricos Blu al 36.73 % de rebaja'
+title: 'Proze Sport Auriculares Inalámbricos Bluetooth con Micrófono 8H IPX7 In Ear con Gancho para la Oreja  Rojo '
 date: 2020-01-03 12:29:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-6ZmqqknL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.73'
 average: '18.95'
 ---
 
-Tienes [Proze Sport Auriculares Inalámbricos Bluetooth con Micrófono 8H IPX7 In Ear con Gancho para la Oreja  Rojo ](https://www.amazon.es/dp/B07XYDZM4H/?tag=tolees-21) con precio final de  18.95 EUR (original: 29.95 EUR) (36.73 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Proze Sport Auriculares Inalámbricos Blu](https://images-eu.ssl-images-amazon.com/images/I/41-6ZmqqknL._SL400_.jpg)](https://www.amazon.es/dp/B07XYDZM4H/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07XYDZM4H/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

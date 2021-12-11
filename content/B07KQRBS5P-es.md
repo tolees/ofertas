@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 59.88 % en Salomon Alphacross  Zapatillas de Trail '
+title: 'Salomon Alphacross  Zapatillas de Trail Running para Hombre  Blanco  White/White/White   40 2/3 EU'
 date: 2020-01-03 07:36:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31cSHuA5BBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.88'
 average: '36.09'
 ---
 
-Tienes [Salomon Alphacross  Zapatillas de Trail Running para Hombre  Blanco  White/White/White   40 2/3 EU](https://www.amazon.es/dp/B07KQRBS5P/?tag=tolees-21) con un 59.88 % de descuento con precio de oferta de 36.09 EUR (original: 89.95 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Salomon Alphacross  Zapatillas de Trail ](https://images-eu.ssl-images-amazon.com/images/I/31cSHuA5BBL._SL400_.jpg)](https://www.amazon.es/dp/B07KQRBS5P/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KQRBS5P/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

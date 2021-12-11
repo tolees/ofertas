@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Classic Lite Micro Pique Polo   al 61.31 % de rebaja'
+title: 'Superdry Classic Lite Micro Pique Polo  Blanco  Optic 01c   Medium para Hombre'
 date: 2020-01-06 11:42:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31V5ReoqYwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.31'
 average: '20.93'
 ---
 
-Tienes [Superdry Classic Lite Micro Pique Polo  Blanco  Optic 01c   Medium para Hombre](https://www.amazon.es/dp/B07P4JGYZK/?tag=tolees-21) con precio final de  19.34 EUR (original: 49.99 EUR) (61.31 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Superdry Classic Lite Micro Pique Polo  ](https://images-eu.ssl-images-amazon.com/images/I/31V5ReoqYwL._SL400_.jpg)](https://www.amazon.es/dp/B07P4JGYZK/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07P4JGYZK/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

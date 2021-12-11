@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Flyer Runner  Zapatillas de Running al 36.50 % de descuento'
+title: 'Puma Flyer Runner  Zapatillas de Running Unisex Adulto  Azul  Rhubarb White   38 EU'
 date: 2020-01-02 16:22:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zxu0DX2XL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.50'
 average: '31.72'
 ---
 
-Ahora mismo tienes [Puma Flyer Runner  Zapatillas de Running Unisex Adulto  Azul  Rhubarb White   38 EU](https://www.amazon.es/dp/B07KFZ7WY7/?tag=tolees-21) a 31.72 EUR (original: 49.95 EUR) (36.50 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Puma Flyer Runner  Zapatillas de Running](https://images-eu.ssl-images-amazon.com/images/I/41Zxu0DX2XL._SL400_.jpg)](https://www.amazon.es/dp/B07KFZ7WY7/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07KFZ7WY7/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

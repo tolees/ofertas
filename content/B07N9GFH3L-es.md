@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timex Reloj de Pulsera TW2R93900 con un 54.24 % de descuento'
+title: 'Timex Reloj de Pulsera TW2R93900'
 date: 2019-12-31 21:37:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ww39vfWgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.24'
 average: '60.23666666666667'
 ---
 
-En este momento está [Timex Reloj de Pulsera TW2R93900](https://www.amazon.es/dp/B07N9GFH3L/?tag=tolees-21) a 54.46 EUR (original: 119 EUR) (54.24 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Timex Reloj de Pulsera TW2R93900](https://images-eu.ssl-images-amazon.com/images/I/31Ww39vfWgL._SL400_.jpg)](https://www.amazon.es/dp/B07N9GFH3L/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07N9GFH3L/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

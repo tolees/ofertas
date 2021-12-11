@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas 6P Cotton Gorra de Tenis  Hombre  al 40.00 % de descuento'
+title: 'adidas 6P Cotton Gorra de Tenis  Hombre  Blanco  Blanco/Blanco/Negro   L'
 date: 2020-01-02 21:56:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zHJAa%2BfsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '10.76'
 ---
 
-Ahora mismo tienes [adidas 6P Cotton Gorra de Tenis  Hombre  Blanco  Blanco/Blanco/Negro   L](https://www.amazon.es/dp/B01N2PLMII/?tag=tolees-21) a 10.77 EUR (original: 17.95 EUR) (40.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![adidas 6P Cotton Gorra de Tenis  Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41zHJAa%2BfsL._SL400_.jpg)](https://www.amazon.es/dp/B01N2PLMII/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B01N2PLMII/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

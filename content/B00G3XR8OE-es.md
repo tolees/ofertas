@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Baby Jogger City Mini Gemelar - Silla de con un 50.76 % de descuento'
+title: 'Baby Jogger City Mini Gemelar - Silla de paseo  color negro/gris'
 date: 2020-01-07 15:26:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51zADw0lhBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.76'
 average: '319.99'
 ---
 
-En este momento está [Baby Jogger City Mini Gemelar - Silla de paseo  color negro/gris](https://www.amazon.es/dp/B00G3XR8OE/?tag=tolees-21) a 319.99 EUR (original: 649.9 EUR) (50.76 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Baby Jogger City Mini Gemelar - Silla de](https://images-eu.ssl-images-amazon.com/images/I/51zADw0lhBL._SL400_.jpg)](https://www.amazon.es/dp/B00G3XR8OE/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B00G3XR8OE/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

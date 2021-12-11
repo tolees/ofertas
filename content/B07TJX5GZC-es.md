@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 63.19 % en Leathlux Funda Xiaomi Redmi Note 7 + [2 '
+title: 'Leathlux Funda Xiaomi Redmi Note 7 + [2 Pack] Cristal Templado Protector de Pantalla  Ultra Fina Silicona Transparente TPU Carcasa Protector Airbag Anti-Choque Anti-arañazos Cover Xiaomi Redmi Note 7'
 date: 2020-01-09 14:49:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51MW8wdaVLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '63.19'
 average: '7.79'
 ---
 
-Tienes [Leathlux Funda Xiaomi Redmi Note 7 + [2 Pack] Cristal Templado Protector de Pantalla  Ultra Fina Silicona Transparente TPU Carcasa Protector Airbag Anti-Choque Anti-arañazos Cover Xiaomi Redmi Note 7](https://www.amazon.es/dp/B07TJX5GZC/?tag=tolees-21) con un 63.19 % de descuento con precio de oferta de 6.99 EUR (original: 18.99 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Leathlux Funda Xiaomi Redmi Note 7 + [2 ](https://images-eu.ssl-images-amazon.com/images/I/51MW8wdaVLL._SL400_.jpg)](https://www.amazon.es/dp/B07TJX5GZC/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TJX5GZC/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

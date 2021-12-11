@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon XA Pro 3D GTX  Zapatillas de Tra con un 41.11 % de descuento'
+title: 'Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Rojo Syrah Ebony Red Dahlia  40 2/3 EU'
 date: 2020-01-01 11:32:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416goKO%2BrqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.11'
 average: '94.2'
 ---
 
-En este momento está [Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Rojo Syrah Ebony Red Dahlia  40 2/3 EU](https://www.amazon.es/dp/B07KQQFX78/?tag=tolees-21) a 94.2 EUR (original: 159.95 EUR) (41.11 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Salomon XA Pro 3D GTX  Zapatillas de Tra](https://images-eu.ssl-images-amazon.com/images/I/416goKO%2BrqL._SL400_.jpg)](https://www.amazon.es/dp/B07KQQFX78/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07KQQFX78/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

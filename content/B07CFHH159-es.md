@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjipaul Jjflake AKM 542 Asp al 41.01 % de rebaja'
+title: 'JACK & JONES Jjipaul Jjflake AKM 542 Asphalt Noos Pantalones  Gris  W33/L34  Talla del Fabricante: 33  para Hombre'
 date: 2020-01-05 11:44:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cs%2BBvhB7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.01'
 average: '29.49'
 ---
 
-Tienes [JACK & JONES Jjipaul Jjflake AKM 542 Asphalt Noos Pantalones  Gris  W33/L34  Talla del Fabricante: 33  para Hombre](https://www.amazon.es/dp/B07CFHH159/?tag=tolees-21) con precio final de  29.49 EUR (original: 49.99 EUR) (41.01 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![JACK & JONES Jjipaul Jjflake AKM 542 Asp](https://images-eu.ssl-images-amazon.com/images/I/41Cs%2BBvhB7L._SL400_.jpg)](https://www.amazon.es/dp/B07CFHH159/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07CFHH159/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

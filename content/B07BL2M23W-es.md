@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fuel Core 5000  Zapatillas d con un 68.06 % de descuento'
+title: 'New Balance Fuel Core 5000  Zapatillas de Running para Mujer  Azul  Air/Pigment/Summer Sky Abysse   37 EU'
 date: 2020-01-01 15:33:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VNa-Y0WaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '68.06'
 average: '28.205'
 ---
 
-En este momento está [New Balance Fuel Core 5000  Zapatillas de Running para Mujer  Azul  Air/Pigment/Summer Sky Abysse   37 EU](https://www.amazon.es/dp/B07BL2M23W/?tag=tolees-21) a 28.75 EUR (original: 90 EUR) (68.06 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![New Balance Fuel Core 5000  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41VNa-Y0WaL._SL400_.jpg)](https://www.amazon.es/dp/B07BL2M23W/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07BL2M23W/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

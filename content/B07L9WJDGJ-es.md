@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Carnaby EVO 319 3 SMA  Zapatilla al 56.24 % de rebaja'
+title: 'Lacoste Carnaby EVO 319 3 SMA  Zapatillas para Hombre  Negro  Black/Black 02h   43 EU'
 date: 2020-01-07 15:53:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ojtoAQKyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.24'
 average: '45.95'
 ---
 
-Tienes [Lacoste Carnaby EVO 319 3 SMA  Zapatillas para Hombre  Negro  Black/Black 02h   43 EU](https://www.amazon.es/dp/B07L9WJDGJ/?tag=tolees-21) con precio final de  45.95 EUR (original: 105 EUR) (56.24 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Lacoste Carnaby EVO 319 3 SMA  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/31ojtoAQKyL._SL400_.jpg)](https://www.amazon.es/dp/B07L9WJDGJ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07L9WJDGJ/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

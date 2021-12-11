@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kipling - Amiel  Bolsos maletín Mujer  N al 36.72 % de rebaja'
+title: 'Kipling - Amiel  Bolsos maletín Mujer  Negro  Black Indigo   27x24.5x14.5 cm  B x H T '
 date: 2020-01-05 15:11:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51RgMb6spJL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.72'
 average: '49.99'
 ---
 
-Tienes [Kipling - Amiel  Bolsos maletín Mujer  Negro  Black Indigo   27x24.5x14.5 cm  B x H T ](https://www.amazon.es/dp/B07MV9SYCV/?tag=tolees-21) con precio final de  49.99 EUR (original: 79 EUR) (36.72 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Kipling - Amiel  Bolsos maletín Mujer  N](https://images-eu.ssl-images-amazon.com/images/I/51RgMb6spJL._SL400_.jpg)](https://www.amazon.es/dp/B07MV9SYCV/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07MV9SYCV/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

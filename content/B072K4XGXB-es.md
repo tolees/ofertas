@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Decyam Comedero de Perros para ralentiza al 49.66 % de rebaja'
+title: 'Decyam Comedero de Perros para ralentizar la Comida  Divertida búsqueda de alimento'
 date: 2020-01-05 17:44:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41J24oq4i3L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.66'
 average: '8.99'
 ---
 
-Tienes [Decyam Comedero de Perros para ralentizar la Comida  Divertida búsqueda de alimento](https://www.amazon.es/dp/B072K4XGXB/?tag=tolees-21) con precio final de  8.99 EUR (original: 17.86 EUR) (49.66 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Decyam Comedero de Perros para ralentiza](https://images-eu.ssl-images-amazon.com/images/I/41J24oq4i3L._SL400_.jpg)](https://www.amazon.es/dp/B072K4XGXB/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B072K4XGXB/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

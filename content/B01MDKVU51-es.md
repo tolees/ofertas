@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SSLR Pantalones para Hombre Slim Fit Lar al 64.10 % de descuento'
+title: 'SSLR Pantalones para Hombre Slim Fit Largos Casuales Negocios a Lunares  W31  Negro '
 date: 2020-01-08 13:14:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41moSmKthxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '64.10'
 average: '21.9'
 ---
 
-Está [SSLR Pantalones para Hombre Slim Fit Largos Casuales Negocios a Lunares  W31  Negro ](https://www.amazon.es/dp/B01MDKVU51/?tag=tolees-21) con 64.10 de descuento por 21.9 EUR (original: 61 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![SSLR Pantalones para Hombre Slim Fit Lar](https://images-eu.ssl-images-amazon.com/images/I/41moSmKthxL._SL400_.jpg)](https://www.amazon.es/dp/B01MDKVU51/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MDKVU51/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

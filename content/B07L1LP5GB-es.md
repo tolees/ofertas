@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 65.02 % en Funko Bobble Captain Marvel: Pop 15 Figu'
+title: 'Funko Bobble Captain Marvel: Pop 15 Figura Coleccionable  Multicolor  37585 '
 date: 2020-01-07 20:55:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416yqkLHzrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '65.02'
 average: '5.58'
 ---
 
-Tienes [Funko Bobble Captain Marvel: Pop 15 Figura Coleccionable  Multicolor  37585 ](https://www.amazon.es/dp/B07L1LP5GB/?tag=tolees-21) con un 65.02 % de descuento con precio de oferta de 5.58 EUR (original: 15.95 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Funko Bobble Captain Marvel: Pop 15 Figu](https://images-eu.ssl-images-amazon.com/images/I/416yqkLHzrL._SL400_.jpg)](https://www.amazon.es/dp/B07L1LP5GB/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07L1LP5GB/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

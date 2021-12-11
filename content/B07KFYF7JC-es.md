@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Unisex Adulto Axis Zapatillas  Azul al 49.04 % de descuento'
+title: 'Puma Unisex Adulto Axis Zapatillas  Azul  Peacoat-Puma White 07   39 EU'
 date: 2020-01-03 18:23:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.04'
 average: '27.45'
 ---
 
-Ahora mismo tienes [Puma Unisex Adulto Axis Zapatillas  Azul  Peacoat-Puma White 07   39 EU](https://www.amazon.es/dp/B07KFYF7JC/?tag=tolees-21) a 27.45 EUR (original: 53.87 EUR) (49.04 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Puma Unisex Adulto Axis Zapatillas  Azul](https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL400_.jpg)](https://www.amazon.es/dp/B07KFYF7JC/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07KFYF7JC/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

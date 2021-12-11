@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 72.08 % en Urban Classics Hibi Mid Shoe  Zapatillas'
+title: 'Urban Classics Hibi Mid Shoe  Zapatillas para Hombre  Braun  Toffee/White   36 EU'
 date: 2020-01-02 08:53:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LLCBixS5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '72.08'
 average: '13.47'
 ---
 
-Tienes [Urban Classics Hibi Mid Shoe  Zapatillas para Hombre  Braun  Toffee/White   36 EU](https://www.amazon.es/dp/B01I4H0AF0/?tag=tolees-21) con un 72.08 % de descuento con precio de oferta de 13.47 EUR (original: 48.24 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Urban Classics Hibi Mid Shoe  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41LLCBixS5L._SL400_.jpg)](https://www.amazon.es/dp/B01I4H0AF0/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01I4H0AF0/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

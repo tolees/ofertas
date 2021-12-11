@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Ivo Trail  Zapatillas para Homb al 39.99 % de rebaja'
+title: 'Columbia Ivo Trail  Zapatillas para Hombre  Azul  Collegiate Navy 464   42 EU'
 date: 2020-01-05 15:53:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.99'
 average: '60'
 ---
 
-Tienes [Columbia Ivo Trail  Zapatillas para Hombre  Azul  Collegiate Navy 464   42 EU](https://www.amazon.es/dp/B07JHL9NRX/?tag=tolees-21) con precio final de  60 EUR (original: 99.99 EUR) (39.99 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Columbia Ivo Trail  Zapatillas para Homb](https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL400_.jpg)](https://www.amazon.es/dp/B07JHL9NRX/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07JHL9NRX/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

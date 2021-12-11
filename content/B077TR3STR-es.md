@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok  Zapatillas de Deporte Unisex Adu con un 35.77 % de descuento'
+title: 'Reebok  Zapatillas de Deporte Unisex Adulto  Multicolor  Bs9525 Multicolor   40.5 EU'
 date: 2020-01-08 19:49:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31VFrIXRcSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.77'
 average: '26.45'
 ---
 
-En este momento está [Reebok  Zapatillas de Deporte Unisex Adulto  Multicolor  Bs9525 Multicolor   40.5 EU](https://www.amazon.es/dp/B077TR3STR/?tag=tolees-21) a 22.45 EUR (original: 34.95 EUR) (35.77 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Reebok  Zapatillas de Deporte Unisex Adu](https://images-eu.ssl-images-amazon.com/images/I/31VFrIXRcSL._SL400_.jpg)](https://www.amazon.es/dp/B077TR3STR/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B077TR3STR/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

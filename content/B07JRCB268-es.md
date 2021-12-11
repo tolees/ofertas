@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Tommy Slim Polo  Morado   con un 39.99 % de descuento'
+title: 'Tommy Hilfiger Tommy Slim Polo  Morado  Hyacinth Violet 526   Medium para Hombre'
 date: 2020-01-05 10:12:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/319dQYawvQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.99'
 average: '37.975'
 ---
 
-En este momento está [Tommy Hilfiger Tommy Slim Polo  Morado  Hyacinth Violet 526   Medium para Hombre](https://www.amazon.es/dp/B07JRCB268/?tag=tolees-21) a 41.95 EUR (original: 69.9 EUR) (39.99 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Tommy Hilfiger Tommy Slim Polo  Morado  ](https://images-eu.ssl-images-amazon.com/images/I/319dQYawvQL._SL400_.jpg)](https://www.amazon.es/dp/B07JRCB268/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07JRCB268/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})
