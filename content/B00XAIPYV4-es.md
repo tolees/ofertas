@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Instituto Español Pieles Atópicas Crema  al 76.65 % de rebaja'
-date: 2021-12-11 03:53:47
+title: 'Instituto Español Pieles Atópicas Crema Cuidado Integral  50ml'
+date: 2021-12-12 04:14:20
 image: 'https://m.media-amazon.com/images/I/41yzdPxkLPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,20 +19,20 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B00XAIPYV4/?tag=tolees-21'
 descuento: '76.65'
-average: '0.955714285714286'
+average: '0.96'
 ---
 
-Tienes [Instituto Español Pieles Atópicas Crema Cuidado Integral  50ml](https://www.amazon.es/dp/B00XAIPYV4/?tag=tolees-21) con precio final de  0.99 EUR (original: 4.24 EUR) (76.65 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Instituto Español Pieles Atópicas Crema ](https://m.media-amazon.com/images/I/41yzdPxkLPL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00XAIPYV4/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 - Acción anti-sequedad
-- Calma el picor
+- Especial piel atópica
 - No irrita
+- Calma el picor
 - Hipoalergénico
 - Regenera progresivamente la piel
-- Especial piel atópica
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B00XAIPYV4/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})
