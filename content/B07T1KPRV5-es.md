@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 13, 75 cm de filo
+- De la colección toledo de san ignacio
 - Un fantástico cuchillo de cocina, modelo deshuesadora, de amplia superficie y largo filo.
 - Fabricado en acero inoxidable, dispone de un mango ergonómico termoplástico con pasadores, lo que le confiere seguridad, fácil idad en el agarre, y un equilibrio perfecto
-- De la colección toledo de san ignacio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

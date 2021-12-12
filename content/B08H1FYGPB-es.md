@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tarjeta Lexar Professional 2000x 32GB SDHC UHS-II sin Lector  hasta 300MB/s de Lectura  LSD2000032G-BNNAG '
-date: 2021-12-11 15:45:04
+date: 2021-12-12 15:57:47
 image: 'https://m.media-amazon.com/images/I/51WggI-7cvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Capture imágenes de alta calidad y vídeo Full-HD de mayor duración, en 4K con calidad de cine
+- Compatible con dispositivos UHS-I anteriores
 - Soporte de producto de por vida limitado
 - Rendimiento de alta velocidad: aprovecha la tecnología UHS-II (U3) para una velocidad de transferencia de lectura de hasta 300 MB/s (2000x)
-- Compatible con dispositivos UHS-I anteriores
-- Capture imágenes de alta calidad y vídeo Full-HD de mayor duración, en 4K con calidad de cine
 - Diseñada para durar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
