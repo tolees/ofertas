@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'adidas Gazelle  Zapatillas de Deporte Un al 51.58 % de rebaja'
-date: 2021-12-11 09:58:23
+title: 'adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Negro Black  36 EU'
+date: 2021-12-12 23:32:09
 image: 'https://m.media-amazon.com/images/I/419LTJkoVKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,18 +19,18 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B01EI9JBAI/?tag=tolees-21'
 descuento: '51.58'
-average: '66.3211111111111'
+average: '65.3721052631579'
 ---
 
-Tienes [adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Negro Black  36 EU](https://www.amazon.es/dp/B01EI9JBAI/?tag=tolees-21) con precio final de  48.29 EUR (original: 99.74 EUR) (51.58 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![adidas Gazelle  Zapatillas de Deporte Un](https://m.media-amazon.com/images/I/419LTJkoVKL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01EI9JBAI/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 - Dispone de parte superior de cuero de cerdo
 - Cuenta con suela de caucho
-- Tiene revestimientos sintéticos y forro sintético para óptima comodidad
 - Con contraste de 3-rayas, lengüeta del talón y logotipo de Trefoil impreso en la lengüeta
+- Tiene revestimientos sintéticos y forro sintético para óptima comodidad
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B01EI9JBAI/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})
