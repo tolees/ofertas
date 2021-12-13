@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Women s W 2.0 Crew Insulator Jacket  Navy  S'
-date: 2021-12-11 21:27:42
+date: 2021-12-13 14:18:46
 image: 'https://m.media-amazon.com/images/I/31RdUFaGPIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
