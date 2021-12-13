@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perforar nunca fue tan sencillo: gracias a su reducido peso y su compacto y ergonómico diseño, el manejo de la herramienta resulta especialmente sencillo
-- Uno para todo; el taladro de percusión adecuado para todos sus proyectos
 - Portabrocas de sujeción rápida con sistema Press+Lock: cambio de herramienta sencillo mediante la retención del husillo pulsando un botón
-- Incluye: taladro percutor Universal Impact 700, empuñadura adicional, tope de profundidad y maletín de transporte
-- Interruptor de funcionamiento para atornillar/taladrar/taladrar con percusión para trabajos en función del tipo de material
 - Potencia de perforación elevada para una versatilidad sin parangón; gracias al potente motor de 700 W dispondrá de la herramienta adecuada para cualquier trabajo; para todos los materiales, incluso hormigón
+- Interruptor de funcionamiento para atornillar/taladrar/taladrar con percusión para trabajos en función del tipo de material
+- Perforar nunca fue tan sencillo: gracias a su reducido peso y su compacto y ergonómico diseño, el manejo de la herramienta resulta especialmente sencillo
+- Incluye: taladro percutor Universal Impact 700, empuñadura adicional, tope de profundidad y maletín de transporte
 - Speed-Preselection de Bosch: preselección y control electrónicos del número de revoluciones mediante un pulsador de conmutación y rueda de ajuste para un trabajo adecuado al tipo de material y preciso, por ejemplo, al inicio de la perforación de superficies lisas o en trabajos de atornillado
+- Uno para todo; el taladro de percusión adecuado para todos sus proyectos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
