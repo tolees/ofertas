@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moleskine - Cuaderno Edición Limitada El Mago de Oz  Cuaderno Temático El Campo de Amapolas Mortíferas  Hojas de Rayas  Tapa Dura de Tela  Tamaño Grande 13 x 21 cm  Color Rojo  240 Páginas'
-date: 2021-12-13 11:12:32
+date: 2021-12-14 19:27:53
 image: 'https://m.media-amazon.com/images/I/41Mv-udjUiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Esta Edición Limitada de "El Mago de Oz" incluye 4 cuadernos, cada uno de los cuales hace referencia a un capítulo diferente de la historia de L. Frank Baum. Incluye pegatinas temáticas
+- El paquete contiene un cuaderno Moleskine Edición Limitada del Mago de Oz - El Campo de Amapolas Mortíferas, tapa dura de tela y hojas de rayas, disponible en tamaño grande 13 x 21 cm, 240 páginas
 - Cada cuaderno tiene una tapa de tela impresa con dibujos originale de W.W. Denslow y una cita del capítulo correspondiente en el reverso. Hay más ilustraciones en el interior y al final del cuaderno
 - Los 4 cuadernos representan El León cobarde (cap. VI), El Campo de amapolas mortíferas (cap. VIII), La Magia del gran farsante (cap. XVI), La Búsqueda de la Bruja Malvada (cap. XII)
-- Esta Edición Limitada de "El Mago de Oz" incluye 4 cuadernos, cada uno de los cuales hace referencia a un capítulo diferente de la historia de L. Frank Baum. Incluye pegatinas temáticas
 - Papel sin ácido de 70 g/m² de color marfil. Con cierre elástico, contraportada personalizable, aviso "En caso de pérdida" en el interior y cartel para colgar "Estoy leyendo. No molestar"
-- El paquete contiene un cuaderno Moleskine Edición Limitada del Mago de Oz - El Campo de Amapolas Mortíferas, tapa dura de tela y hojas de rayas, disponible en tamaño grande 13 x 21 cm, 240 páginas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
