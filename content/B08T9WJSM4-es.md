@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Algodón orgánico
 - Bajo elástico
+- Algodón orgánico
 - 13 1/2oz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
