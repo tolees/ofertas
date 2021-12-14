@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Bosch PSM 80 A - Multilijadora  3 hojas de lija RedWood  con maletín  80 W  nº carreras en vacío: 20.000 min-1  Ø circuito oscilante: 1 4 mm '
-date: 2021-12-13 08:25:47
+date: 2021-12-14 14:36:38
 image: 'https://m.media-amazon.com/images/I/41XkK+EGGgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B000PXHIFM/?tag=tolees-21'
 descuento: '51.50'
-average: '41.5786842105263'
+average: '41.345641025641'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Placa lijadora dividida en dos: para el aprovechamiento óptimo de la hoja de lija, la punta delta de la hoja y de la placa pueden soltarse y girarse sin esfuerzos
-- La lijadora "multitalento" de fácil manejo
 - Cierre de cardillo para el cambio rápido y cómodo de la hoja lijadora
-- Trabajo limpio gracias al sistema microfiltro de Bosch: el elemento de aspiración integrado aspira el polvo directamente al interior del depósito del sistema microfiltro suministrado
+- Placa lijadora dividida en dos: para el aprovechamiento óptimo de la hoja de lija, la punta delta de la hoja y de la placa pueden soltarse y girarse sin esfuerzos
+- Incluye: Multilijadora PSM 80 A, 3 hojas de lija RedWood, maletín
 - Conexión para aspiración de polvo
 - La potente herramienta de 80 W que lija y pule incluso en zonas de difícil acceso y en superficies pequeñas
-- Incluye: Multilijadora PSM 80 A, 3 hojas de lija RedWood, maletín
+- Trabajo limpio gracias al sistema microfiltro de Bosch: el elemento de aspiración integrado aspira el polvo directamente al interior del depósito del sistema microfiltro suministrado
+- La lijadora "multitalento" de fácil manejo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

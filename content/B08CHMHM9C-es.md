@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Far Cry 6 - Limited Edition  Exclusiva Amazon '
-date: 2021-12-13 11:07:25
+date: 2021-12-14 14:04:15
 image: 'https://m.media-amazon.com/images/I/41V4mvgF78S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B08CHMHM9C/?tag=tolees-21'
 descuento: '37.17'
-average: '60.0063333333333'
+average: '59.4283870967742'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Far Cry 6 - Limited Edition incluye el juego completo y el contenido digital PACK EXPEDICIÓN EN LA JUNGLA. Adéntrate en la espesura de Yara con estilo gracias al pack Expedición en la jungla, que incluye el traje Expedición en la jungla, el arma SBS y el amuleto de arma Brújula.
 - LUCHA POR LA LIBERTAD Encarna a Dani Rojas, habitante de Yara que se convertirá en guerrillero para liberar su nación.
-- Mejora a la versión de PlayStation5: El disco Blu-ray del juego Far Cry 6 para PlayStation4 debe permanecer insertado en el sistema PlayStation5 para poder jugar a la versión digital de Far Cry 6 para esta plataforma sin ningún coste adicional, cuando esté disponible. Requiere una PlayStation5, el disco Blu-ray del juego, una cuenta en PlayStation Network, espacio en disco adicional y una conexión a internet de banda ancha. Puede que genere gastos de uso de banda ancha
 - UNA YARA DESGARRADA Lucha contra las tropas de Antón en el Far Cry más grande hasta la fecha a lo largo de junglas, playas y Esperanza, la capital de Yara.
 - POTENCIA DE FUEGO GUERRILLERA Sírvete de armas improvisadas, vehículos y amigos, los nuevos colmillos de alquiler, para reducir el tiránico régimen a cenizas.
-- Far Cry 6 - Limited Edition incluye el juego completo y el contenido digital PACK EXPEDICIÓN EN LA JUNGLA. Adéntrate en la espesura de Yara con estilo gracias al pack Expedición en la jungla, que incluye el traje Expedición en la jungla, el arma SBS y el amuleto de arma Brújula.
+- Mejora a la versión de PlayStation5: El disco Blu-ray del juego Far Cry 6 para PlayStation4 debe permanecer insertado en el sistema PlayStation5 para poder jugar a la versión digital de Far Cry 6 para esta plataforma sin ningún coste adicional, cuando esté disponible. Requiere una PlayStation5, el disco Blu-ray del juego, una cuenta en PlayStation Network, espacio en disco adicional y una conexión a internet de banda ancha. Puede que genere gastos de uso de banda ancha
 
 [🛒 Comprar!!!]({{< param buyurl >}})

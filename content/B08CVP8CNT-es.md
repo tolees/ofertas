@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Corte regular
-- KnITS
 - Algodón orgánico
+- KnITS
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diseñado con doble blindaje y contactos niquelados
-- Conecta la base de antena con TV, TDT y video
 - Tiene una impedancia de 75 Ohmios
+- Conecta la base de antena con TV, TDT y video
 - Longitud del cable de 10 m
 
 [🛒 Comprar!!!]({{< param buyurl >}})
