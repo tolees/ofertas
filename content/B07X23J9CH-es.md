@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit GTR 42 Reloj Inteligente con frecuencia cardíaca y Seguimiento de Actividad  42 mm  batería de Larga duración Blanco'
-date: 2021-12-14 04:31:15
+date: 2021-12-15 10:46:22
 image: 'https://m.media-amazon.com/images/I/41TCwb1AEfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazfit'
 buyurl: 'https://www.amazon.es/dp/B07X23J9CH/?tag=tolees-21'
 descuento: '49.35'
-average: '84.6681818181818'
+average: '83.5208333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

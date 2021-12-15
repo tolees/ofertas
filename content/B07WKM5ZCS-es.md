@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marantz Professional M4U - Micrófono de Condensador USB con tarjeta de sonido  Soporte de sobremesa para proyectos de Podcast  Streaming  Juegos  transmitir audio y grabar instrumentos musicales o voz'
-date: 2021-12-13 08:38:08
+date: 2021-12-15 10:04:01
 image: 'https://m.media-amazon.com/images/I/41V2U0xgfeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Marantz Professional'
 buyurl: 'https://www.amazon.es/dp/B07WKM5ZCS/?tag=tolees-21'
 descuento: '35.01'
-average: '38.9177777777777'
+average: '38.2373684210526'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin latencia ni complicaciones - salida de auriculares dedicada para oír tu actuación en tiempo real sin latencia
 - Compatibilidad universal - compatible con Windows y sistemas operativos OSX
-- Grabación precisa y detallada - micrófono con condensador electret de primera categoría con respuesta a una amplia gama de frecuencias y alta sensibilidad
 - Paquete completo con micrófono, adaptador y cable USB, cable de micrófono y soporte de sobremesa - ideal para podcasts, voz en off y transmisión o grabación de actuaciones musicales
 - Conecta a un Mac o PC mediante el adaptador USB A/D y el cable de micrófono incluidos para capturar voces, instrumentos y mucho más a la perfección
+- Sin latencia ni complicaciones - salida de auriculares dedicada para oír tu actuación en tiempo real sin latencia
+- Grabación precisa y detallada - micrófono con condensador electret de primera categoría con respuesta a una amplia gama de frecuencias y alta sensibilidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

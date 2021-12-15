@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Wrangler Greensboro Non-Denim Pantalones  Ginger  33W / 32L para Hombre'
-date: 2021-12-14 08:43:36
-image: 'https://m.media-amazon.com/images/I/31xSbBL0cKL._SL500_._SL400_.jpg'
+date: 2021-12-15 10:59:43
+image: 'https://m.media-amazon.com/images/I/31E1GQPL-jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
