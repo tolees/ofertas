@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La batería de 3 piezas bra efficient se compone de: cacerola alta 24 cm con tapa -4 litros (diámetro base 16.9 cm)/cacerola baja 28 cm con tapa -3.1 litros (diámetro base 21 cm)/ cazo 16 cm (diámetro base 11.8 cm)
-- Fondo difusor uniforme de eficiencia (save energy system)
+- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 - Apta para todo tipo de cocinas, incluido inducción
 - Batería de cocina de 3 piezas fabricada en aluminio fundido muy resistente con antiadherente sin pfoa
+- La batería de 3 piezas bra efficient se compone de: cacerola alta 24 cm con tapa -4 litros (diámetro base 16.9 cm)/cacerola baja 28 cm con tapa -3.1 litros (diámetro base 21 cm)/ cazo 16 cm (diámetro base 11.8 cm)
+- Fondo difusor uniforme de eficiencia (save energy system)
 - Asas de silicona termorresistente desmontables incluidas
-- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 
 [🛒 Visítala!!!]({{< param buyurl >}})

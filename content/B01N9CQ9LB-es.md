@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Funciona con 2 pilas AAA (incluidas)
-- 10 vibraciones diferentes
-- Vibrador vaginal por control remoto: controla el placer a distancia y experimenta nuevas formas de estimulación
-- Discreto
 - Silicona médica muy suave al tacto
-- Sumergible (el vibrador)
 - Higiénico: muy fácil de limpiar
+- Alcance de 10 metros de distancia
+- Funciona con 2 pilas AAA (incluidas)
+- Vibrador vaginal por control remoto: controla el placer a distancia y experimenta nuevas formas de estimulación
 - Libre de ftalatos y metales pesados
 - Fácil de usar: tres botones
-- Alcance de 10 metros de distancia
+- Discreto
+- 10 vibraciones diferentes
+- Sumergible (el vibrador)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

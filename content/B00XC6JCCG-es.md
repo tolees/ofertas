@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5 vibraciones diferentes
 - Discreto y silencioso
-- Fácil de usar: solo un botón para encender, apagar y cambiar la vibración
-- Libre de ftalatos
 - Silicona médica muy suave al tacto
-- Funciona con 1 pilas AA (incluida)
-- Botón con luz tenue para utilizar en la oscuridad
-- Mini estimulador vaginal con superficies esféricas para un mayor placer
 - Libre de metales pesados
+- Libre de ftalatos
+- Mini estimulador vaginal con superficies esféricas para un mayor placer
 - Sumergible
+- 5 vibraciones diferentes
+- Botón con luz tenue para utilizar en la oscuridad
+- Funciona con 1 pilas AA (incluida)
+- Fácil de usar: solo un botón para encender, apagar y cambiar la vibración
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Recubrimiento antiadherente de calidad Teflon Innovations libre de PFOA
-- Capacidad: 5 litros
-- Apta para todo tipo de cocinas, incluido inducción
-- Fondo difusor uniforme de máxima eficiencia (Save energy system)
-- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 - Diámetro base: 25.6 mm
+- Capacidad: 5 litros
+- Fondo difusor uniforme de máxima eficiencia (Save energy system)
 - Asas de silicona termoresistente desmontables incluidas
+- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
+- Apta para todo tipo de cocinas, incluido inducción
 - Aluminio fundido
 
 [🛒 Comprar!!!]({{< param buyurl >}})

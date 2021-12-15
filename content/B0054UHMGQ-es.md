@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 EN 1 GEL DE MASAJE Y LUBRICANTE ÍNTIMO CON GUARANÁ ESTIMULANTE: Gel de masaje sensual y lubricante íntimo con guaraná adecuado para hacer un masaje estimulante y puedes utilizarlo también como lubricante para zonas íntimas
-- ADECUADO PARA SEXO VAGINAL, ORAL O ANAL
-- MODO DE USO: Abre el tapón y presiona ligeramente para aplicarlo sobre tu cuerpo
 - LUBRICANTE DE BASE AGUA: No es graso y puede lavarse fácilmente; suaviza tus relaciones con este lubricante de base agua
 - TACTO SUAVE Y SEDOSO: Su tacto suave, liso y sedoso es adecuado para masajear todo el cuerpo, y también para su uso en las zonas íntimas
+- ADECUADO PARA SEXO VAGINAL, ORAL O ANAL
+- 2 EN 1 GEL DE MASAJE Y LUBRICANTE ÍNTIMO CON GUARANÁ ESTIMULANTE: Gel de masaje sensual y lubricante íntimo con guaraná adecuado para hacer un masaje estimulante y puedes utilizarlo también como lubricante para zonas íntimas
+- MODO DE USO: Abre el tapón y presiona ligeramente para aplicarlo sobre tu cuerpo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

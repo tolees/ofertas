@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: látex de caucho natural
 - Caja ahorro 24 condones extra lubricados
-- Diseño y lubricación adicional
 - Preservativo de máxima calidad, anatómico, con depósito y lubricado
 - Anchura nominal 54 mm
+- Material: látex de caucho natural
+- Diseño y lubricación adicional
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aluminio fundido
-- Apta para todo tipo de cocinas, incluido inducción
-- Diámetro base: 240 mm
-- Recubrimiento antiadherente de calidad Teflon Innovations libre de PFOA
-- Mango ergonómico y apilable
 - Descubre cómo cuidar tu menaje antiadherente en el apartado “Guia de usuario” de esta ficha
+- Diámetro base: 240 mm
+- Apta para todo tipo de cocinas, incluido inducción
+- Mango ergonómico y apilable
+- Aluminio fundido
+- Recubrimiento antiadherente de calidad Teflon Innovations libre de PFOA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
