@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Arranque fácil e-start y encendido electrónico cdi
 - Ligera y manejable gracias a su peso reducido de 3, 2 kg
-- Engrase automático mediante bomba de aceite automática y regulable
 - Espada de 12” con cubierta protectora incluida
+- Arranque fácil e-start y encendido electrónico cdi
+- Engrase automático mediante bomba de aceite automática y regulable
 - Cadena tru-sharque minimiza el retroceso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

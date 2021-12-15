@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ayuda a proteger, calmar e hidratar la piel
 - Suaviza la piel y alivia el daño causado por quemaduras leves provocadas por las agresiones del clima, así como rasguños y rozaduras
 - Suaviza la piel reseca
-- Ayuda a proteger, calmar e hidratar la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

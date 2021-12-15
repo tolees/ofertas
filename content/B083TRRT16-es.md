@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Difusor térmico de aluminio moderno en tres colores a juego con su sistema o estilo
+- Compatible con XMP 2.0 para overclocking automático o ejecución con perfil JEDEC predeterminado
 - Óptimo para jugadores y entusiastas del rendimiento
 - Desarrollada para las últimas plataformas AMD e Intel
-- Compatible con XMP 2.0 para overclocking automático o ejecución con perfil JEDEC predeterminado
-- Difusor térmico de aluminio moderno en tres colores a juego con su sistema o estilo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
