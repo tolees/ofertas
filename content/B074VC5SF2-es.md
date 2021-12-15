@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Grosor de la caja: 12 mm; tamaño de la caja: 45 mm; ancho de la correa: 22 mm; circunferencia de la correa: 200 +/- 5 mm
 - Chronograph
 - Se presenta en caja de regalo Armani Exchange
 - Material de la correa: Silicona; Movimiento: Cronógrafo; Resistente al agua: 5 ATM
-- Grosor de la caja: 12 mm; tamaño de la caja: 45 mm; ancho de la correa: 22 mm; circunferencia de la correa: 200 +/- 5 mm
 - Armani Exchange
 
 [🛒 Visítala!!!]({{< param buyurl >}})
