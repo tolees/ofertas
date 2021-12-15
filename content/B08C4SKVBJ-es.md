@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Ball - Playset Dragon Ball Tenkaichi Budokai'
-date: 2021-12-12 10:28:27
+date: 2021-12-14 23:15:44
 image: 'https://m.media-amazon.com/images/I/41H1aMbM0sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dragon Ball'
 buyurl: 'https://www.amazon.es/dp/B08C4SKVBJ/?tag=tolees-21'
 descuento: '44.45'
-average: '32.1020000000001'
+average: '31.4554545454546'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Increíble nivel de detalle
+- El escenario puede romperse en 3 zonas para mayor realismo de combate
 - Playset de gran tamaño
 - Ideal para las figuras Deluxe de 17 cm
-- El escenario puede romperse en 3 zonas para mayor realismo de combate
-- Increíble nivel de detalle
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Material: acero inoxidable; cierre: enviar
-- Se entrega con instrucciones de cuidados y lata ilustrada Fossil
 - Medidas: 13 mm x 10 mm
+- Se entrega con instrucciones de cuidados y lata ilustrada Fossil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
