@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Toy Story 4 [DVD]'
-date: 2021-12-14 05:06:49
+date: 2021-12-15 05:20:55
 image: 'https://m.media-amazon.com/images/I/51rRaoXQ57L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B07T7K37RK/?tag=tolees-21'
 descuento: '44.37'
-average: '10.0878151260504'
+average: '10.0445'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
