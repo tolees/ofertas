@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Aspecto vaquero y bordado en los laterales con rayas de lentejuelas
 - Shoes 4 - Zapatillas bajas para mujer
 - Zapatos con aspecto vaquero
-- Aspecto vaquero y bordado en los laterales con rayas de lentejuelas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
