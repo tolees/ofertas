@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell GH-DP 3730 - Bomba de aguas sucias  370W  capacidad de 9.000 l/h  profundidad max. de inversión 5m  conexión de manguera 47.8mm  cuerpos extraños hasta 30 mm   ref.4170471 '
-date: 2021-12-15 08:36:58
+date: 2021-12-16 17:07:36
 image: 'https://m.media-amazon.com/images/I/31zeJ7wJpoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Einhell'
 buyurl: 'https://www.amazon.es/dp/B00B18KAFK/?tag=tolees-21'
 descuento: '41.94'
-average: '38.9242857142857'
+average: '37.68375'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Transporte comodo: Gracias a su empuñadura de transporte, podrás desplazar esta bomba de aguas de manera rápida y cómoda
+- Estanques, zanjas, sotanos inundados: La bomba de aguas residuales GH-DP 3730 es una herramienta muy polivalente, que permite aplicar múltiples funciones de drenaje
+- Conexión universal para trabajos con diferentes mangueras
 - Controla el nivel de las aguas, con el práctico interruptor flotador regulable
 - Acopla el cable sin molestias: El práctico enrollador de cable integrado, permite recoger hasta 10 metros de cable
-- Conexión universal para trabajos con diferentes mangueras
-- Estanques, zanjas, sotanos inundados: La bomba de aguas residuales GH-DP 3730 es una herramienta muy polivalente, que permite aplicar múltiples funciones de drenaje
+- Transporte comodo: Gracias a su empuñadura de transporte, podrás desplazar esta bomba de aguas de manera rápida y cómoda
 - Fabricada en material altamente resistente: Permite un trabajo fiable, al extraer aguas residuales con hasta 5 metros de profundidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
