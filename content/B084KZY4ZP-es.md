@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cave Club Muñecas Pre-Históricas Pack 2 Fernessa y Furrah  muñecas con mascotas y accesorios  Mattel GNL92 '
-date: 2021-12-15 10:01:26
+date: 2021-12-16 13:00:59
 image: 'https://m.media-amazon.com/images/I/41n6dp6HCIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B084KZY4ZP-es Cave Club Muñecas Pre-Históricas Pack 2 Fernessa y Furrah...'
 sku: 'B084KZY4ZP-es'
 tags: [ 'Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','cave club', ]
-actualPrice: 15.58 EUR
+actualPrice: 14.74 EUR
 currency: EUR
-price: 15.58
+price: 14.74
 comparePrice: 29.99 EUR
 prodname: 'Cave Club Muñecas Pre-Históricas Pack 2 Fernessa y Furrah  muñecas con mascotas y accesorios  Mattel GNL92 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Cave Club'
 buyurl: 'https://www.amazon.es/dp/B084KZY4ZP/?tag=tolees-21'
-descuento: '48.05'
-average: '17.5742000000001'
+descuento: '50.85'
+average: '17.5186274509805'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

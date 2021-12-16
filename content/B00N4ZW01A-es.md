@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sombrero Tamaño Info: S/M encaja 55 cm a 58 cm. L/XL para 59 cm a 62 cm).
-- beanie mide aproximadamente 21 cm
 - Levi s rojo Tab Cosido a la Lip
+- beanie mide aproximadamente 21 cm
+- Sombrero Tamaño Info: S/M encaja 55 cm a 58 cm. L/XL para 59 cm a 62 cm).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
