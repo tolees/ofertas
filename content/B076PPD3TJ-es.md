@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hori - Mando Mini con cable  Azul   PS4/PC '
-date: 2021-12-14 21:51:46
+date: 2021-12-15 22:51:31
 image: 'https://m.media-amazon.com/images/I/418Q6XoqMNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hori'
 buyurl: 'https://www.amazon.es/dp/B076PPD3TJ/?tag=tolees-21'
 descuento: '50.08'
-average: '17.9475'
+average: '17.352'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% funcional
-- Diseño ergonómico ideal para manos pequeñas
 - Licencia oficial de Sony
+- Diseño ergonómico ideal para manos pequeñas
 - Sin lag: conexión con cable de 3 m
+- 100% funcional
 - Emulador de panel táctil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
