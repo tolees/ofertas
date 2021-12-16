@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Otis Beanie  Gorro de punto Unisex adulto  Negro  Black   Medium  Talla del fabricante: S/M '
-date: 2021-12-15 12:33:34
+date: 2021-12-16 12:56:27
 image: 'https://m.media-amazon.com/images/I/51C-oFZZwXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B00N4ZW01A/?tag=tolees-21'
 descuento: '40.00'
-average: '11.1376470588234'
+average: '11.1855555555554'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Levi s rojo Tab Cosido a la Lip
 - Sombrero Tamaño Info: S/M encaja 55 cm a 58 cm. L/XL para 59 cm a 62 cm).
 - beanie mide aproximadamente 21 cm
+- Levi s rojo Tab Cosido a la Lip
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
