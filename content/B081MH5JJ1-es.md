@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ligero
 - Material de la suela resistente y duradero
+- Diseño ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
