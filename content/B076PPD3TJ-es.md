@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sin lag: conexión con cable de 3 m
+- Emulador de panel táctil
 - Licencia oficial de Sony
 - Diseño ergonómico ideal para manos pequeñas
-- Sin lag: conexión con cable de 3 m
 - 100% funcional
-- Emulador de panel táctil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
