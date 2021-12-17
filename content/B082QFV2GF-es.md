@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Duramo SL  Zapatillas Hombre  Black/White/Grey  42 EU'
-date: 2021-12-15 08:00:35
+date: 2021-12-16 22:25:08
 image: 'https://m.media-amazon.com/images/I/41td2P5hfkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B082QFV2GF/?tag=tolees-21'
 descuento: '50.00'
-average: '32.0686363636363'
+average: '31.8699999999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cordones de zapatos
 - Malla superior
 - Corte regular
-- Cordones de zapatos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

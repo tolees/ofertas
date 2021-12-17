@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Hasta 8 horas de duración
 - Perfilador de labios automático de máxima precisión
-- Maquilla con una barra de labios la zona de los labios delimitada por el perfilador para unos labios perfectos
 - Ayuda a proporcionar efecto de volumen y definición a tus labios
 - Perfila el labio partiendo de las comisuras hacia arriba y hacia abajo. A continuación, difumina con la ayuda de un pincel
+- Maquilla con una barra de labios la zona de los labios delimitada por el perfilador para unos labios perfectos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
