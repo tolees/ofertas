@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neca las Tortugas Ninja 1990  Figura de Acción Leonardo'
-date: 2021-12-16 12:59:33
+date: 2021-12-17 17:57:18
 image: 'https://m.media-amazon.com/images/I/31VYqWpQY-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NECA'
 buyurl: 'https://www.amazon.es/dp/B07NJ7WSJH/?tag=tolees-21'
 descuento: '40.05'
-average: '25.965'
+average: '25.1533333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
