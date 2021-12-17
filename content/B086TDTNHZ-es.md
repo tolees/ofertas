@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 574 Pastel Pack  Zapatillas Mujer  Lemon Haze  35 EU'
-date: 2021-12-16 11:52:13
+date: 2021-12-17 12:01:28
 image: 'https://m.media-amazon.com/images/I/31DQTRDMp0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B086TDTNHZ/?tag=tolees-21'
 descuento: '52.22'
-average: '51.0495890410959'
+average: '50.9408108108108'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

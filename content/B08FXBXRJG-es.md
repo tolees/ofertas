@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MHC-V73D - Altavoz de Alta Potencia  High Power Bluetooth Party Speaker  con el Sonido y Luces de Fiesta omnidireccional'
-date: 2021-12-12 15:57:26
+date: 2021-12-17 12:19:32
 image: 'https://m.media-amazon.com/images/I/311AeIltd3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08FXBXRJG/?tag=tolees-21'
 descuento: '42.00'
-average: '451.0'
+average: '432.5'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
