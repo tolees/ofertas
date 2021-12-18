@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 37.02 % en Funko Pop! Movies: Jumanji - Alan Parris'
-date: 2021-12-10 16:20:36
+title: 'Funko Pop! Movies: Jumanji - Alan Parrish'
+date: 2021-12-18 18:45:51
 image: 'https://m.media-amazon.com/images/I/41CPiONLE7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -22,15 +22,15 @@ descuento: '37.02'
 average: '10.82'
 ---
 
-Tienes [Funko Pop! Movies: Jumanji - Alan Parrish](https://www.amazon.es/dp/B07RSFWD35/?tag=tolees-21) con un 37.02 % de descuento con precio de oferta de 10.82 EUR (original: 17.18 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Funko Pop! Movies: Jumanji - Alan Parris](https://m.media-amazon.com/images/I/41CPiONLE7L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07RSFWD35/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
+- El artículo es adecuado para todos los fanáticos de Jumanji
 - El producto se envía en una caja ilustrada con ventana
 - Figura de colección de la marca Funko
 - Recomendado para niños a partir de 3 años
-- El artículo es adecuado para todos los fanáticos de Jumanji
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RSFWD35/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
