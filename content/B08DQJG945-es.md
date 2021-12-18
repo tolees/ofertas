@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elizabeth Arden Eight Hours de Wonder Gift Set'
-date: 2021-12-16 18:05:54
+date: 2021-12-18 00:13:53
 image: 'https://m.media-amazon.com/images/I/41F7wmhnLUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Elizabeth Arden'
 buyurl: 'https://www.amazon.es/dp/B08DQJG945/?tag=tolees-21'
 descuento: '49.86'
-average: '19.5666666666667'
+average: '19.3142857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
