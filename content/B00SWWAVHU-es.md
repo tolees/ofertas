@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Montados en talleres de cuerdas gewa (montados y girados de manera suave, adaptados a la plataforma y la posición de la cuerda, afinaciones vocales del teclado preparadas, entrega de instrumentos ejecutables con puente montado, control óptico y técnico del conjunto antes del envío)
+- Barbada, cordal con microafinador, arco de madera brasil, resina
+- Set madera dura, tapa de abeto sólido, fondo de arce sólido
 - Recomendación de edad: 3 - 5 años
 - Estuche ligero con forro atornillado y compartimento cosido para partituras, bandolera
-- Barbada, cordal con microafinador, arco de madera brasil, resina
 - Ribete insertado, acabado oscuro
-- Set madera dura, tapa de abeto sólido, fondo de arce sólido
-- Montados en talleres de cuerdas gewa (montados y girados de manera suave, adaptados a la plataforma y la posición de la cuerda, afinaciones vocales del teclado preparadas, entrega de instrumentos ejecutables con puente montado, control óptico y técnico del conjunto antes del envío)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro de malla de secado rápido
-- Detalles reflectantes para aumentar la visibilidad en mal estado.
-- Protección Helly Tech: totalmente impermeable, a prueba de viento y transpirable
 - Cintura ajustable
+- Protección Helly Tech: totalmente impermeable, a prueba de viento y transpirable
+- Detalles reflectantes para aumentar la visibilidad en mal estado.
+- Forro de malla de secado rápido
 - Gran logotipo impreso de Helly Hansen en la parte lateral de la pierna.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
