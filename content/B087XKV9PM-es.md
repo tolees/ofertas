@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Inter Y NK BRT Stad JSY SS AW T-Shirt  Unisex niños  White/Black Full Sponsor  M'
-date: 2021-12-11 15:57:41
+date: 2021-12-19 13:47:00
 image: 'https://m.media-amazon.com/images/I/41OiiGgdG6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricada en material cómodo
 - Camiseta de fútbol para niños
+- Fabricada en material cómodo
 - Diseño de ajuste estándar
 - Detalles distintivos de la marca
 

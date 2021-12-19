@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Negro Black  36 EU'
-date: 2021-12-16 11:43:19
+date: 2021-12-19 12:23:26
 image: 'https://m.media-amazon.com/images/I/419LTJkoVKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B01EI9JBAI/?tag=tolees-21'
 descuento: '51.58'
-average: '63.0427272727273'
+average: '62.4013043478261'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tiene revestimientos sintéticos y forro sintético para óptima comodidad
 - Con contraste de 3-rayas, lengüeta del talón y logotipo de Trefoil impreso en la lengüeta
-- Dispone de parte superior de cuero de cerdo
 - Cuenta con suela de caucho
+- Dispone de parte superior de cuero de cerdo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

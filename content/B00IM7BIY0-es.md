@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional Set de 32 unidades Punta de atornillar Extra Hard  Cruceta  Pozidriv  T-  Hex-  T-  TH-  S-Bit  Accesorios taladros rotativos y atornilladores '
-date: 2021-12-15 19:37:37
+date: 2021-12-19 12:33:12
 image: 'https://m.media-amazon.com/images/I/51q8CJTWrAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch'
 buyurl: 'https://www.amazon.es/dp/B00IM7BIY0/?tag=tolees-21'
 descuento: '47.69'
-average: '11.6931147540984'
+average: '11.6414516129033'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Práctico envase con tapa transparente y clip para colgar del cinturón o bolsa, para tenerlo siempre a mano
-- Puntas codificadas por colores para localizar fácilmente el tipo de punta para cada trabajo
-- Suministro: 4 puntas de ranura en cruz (PH1, PH2x2, 3), 4 puntas Pozidriv (PZ1, PZ2x2, PZ3), 4 puntas Hexagonales (HEX 3, HEX4, HEX5, HEX6)
-- Suministro: 8 puntas Torx (T10, T15, T20x2, T25, T27, T30, T40), 4 puntas en S (S3, S4, S5, S6), 7 puntas Torx Tamper para aparatos eléctricos o electrónocos (Th 10, Th15, Th20, Th25, Th27, Th30, Th40)
 - Idóneo para trabajos profesionales de atornillado con atornilladores eléctricos gracias a su vástago de inserción hexagonal de 1/4 pulgadas; muy completo pues contiene las puntas más habituales para trabajos de atornillado, así como puntas de seguridad para aparatos eléctricos o electrónicos
+- Suministro: 4 puntas de ranura en cruz (PH1, PH2x2, 3), 4 puntas Pozidriv (PZ1, PZ2x2, PZ3), 4 puntas Hexagonales (HEX 3, HEX4, HEX5, HEX6)
+- Puntas codificadas por colores para localizar fácilmente el tipo de punta para cada trabajo
+- Suministro: 8 puntas Torx (T10, T15, T20x2, T25, T27, T30, T40), 4 puntas en S (S3, S4, S5, S6), 7 puntas Torx Tamper para aparatos eléctricos o electrónocos (Th 10, Th15, Th20, Th25, Th27, Th30, Th40)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
