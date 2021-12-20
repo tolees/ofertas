@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Construidos para mantenerlo seco y cómodo para que pueda concentrarse en perfeccionar sus habilidades
-- La tela climalite barre el sudor de la piel
-- 100% poliéster piqué
 - Cordón en la cintura elástica
+- 100% poliéster piqué
+- La tela climalite barre el sudor de la piel
+- Construidos para mantenerlo seco y cómodo para que pueda concentrarse en perfeccionar sus habilidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})
