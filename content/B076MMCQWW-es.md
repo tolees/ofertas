@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Games DOS  juego de cartas de UNO  edad recomandada 7 - 10 años  Mattel FRM36 '
-date: 2021-12-17 13:35:45
+date: 2021-12-20 08:20:23
 image: 'https://m.media-amazon.com/images/I/51DLhZlFNqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mattel Games'
 buyurl: 'https://www.amazon.es/dp/B076MMCQWW/?tag=tolees-21'
 descuento: '35.34'
-average: '8.01048780487803'
+average: '7.98567999999998'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
