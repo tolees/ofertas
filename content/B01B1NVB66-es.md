@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Uso en seco o en húmedo, incluso en la ducha
-- Batería NiMH de larga duración: 45 minutos en cada uso con 8 horas de carga
 - Recorta, perfila y afeita cualquier longitud de pelo
-- Incluye tres peines-guía para recortar la barba: 1, 3 y 5 mm
+- Uso en seco o en húmedo, incluso en la ducha
 - Incluye 1 cuchilla de recambio adicional
+- Batería NiMH de larga duración: 45 minutos en cada uso con 8 horas de carga
+- Incluye tres peines-guía para recortar la barba: 1, 3 y 5 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

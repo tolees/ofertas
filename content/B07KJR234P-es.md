@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Regreso De Mary Poppins [DVD]'
-date: 2021-12-19 18:54:54
+date: 2021-12-20 19:04:12
 image: 'https://m.media-amazon.com/images/I/51a2XmfcpSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJR234P/?tag=tolees-21'
 descuento: '38.11'
-average: '8.27666666666667'
+average: '8.01846153846154'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

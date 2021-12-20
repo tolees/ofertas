@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Jumanji: El Siguiente Nivel [DVD]'
-date: 2021-12-16 04:58:13
+date: 2021-12-20 18:58:14
 image: 'https://m.media-amazon.com/images/I/51g0n-RfmlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Acción y Aventura','DVD','Featured Categories','Películas','Película
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6
-comparePrice: 13.99 EUR
+comparePrice: 12.99 EUR
 prodname: 'Sony - Jumanji: El Siguiente Nivel [DVD]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B0833BXX1T/?tag=tolees-21'
-descuento: '59.97'
-average: '7.195'
+descuento: '56.89'
+average: '6.66333333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
