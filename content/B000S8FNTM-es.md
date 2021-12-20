@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Onda sinusoidal de potencia de salida: 2 x 120 mW (distorsión armónica total < 8%)
 - Altavoces activos para ordenadores y portátiles. ¡Amplifica el volumen de tu ordenador y disfruta de tus videos o música con total comodidad.
-- Interruptor de encendido/apagado y control de volumen en el lateral
+- Onda sinusoidal de potencia de salida: 2 x 120 mW (distorsión armónica total < 8%)
 - Estos altavoces disponen de una fuente de alimentación a través de puerto USB.
+- Interruptor de encendido/apagado y control de volumen en el lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})
