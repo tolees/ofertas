@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desigual Accesorios - Bolso bandolera algodón de efecto denim
-- De algodón de color desgastado con cuadrícula grabada
-- Machine Cold Wash Inside Out
 - Asa bandolera ancha de loneta con logo Desigual
+- De algodón de color desgastado con cuadrícula grabada
+- Desigual Accesorios - Bolso bandolera algodón de efecto denim
+- Machine Cold Wash Inside Out
 - Bolso bandolera de algodón con cuadrícula grabada. De solapa con cremallera. Nueva colección Accesorios OI21 Desigual.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

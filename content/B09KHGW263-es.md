@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sudadera con capucha y bolsillo canguro. Confeccionada en suave felpa de algodón presenta terminaciones elásticas en puños y bajo. Una prenda imprescindible para los días de relax. Regular fit. Capucha forrada y ajustable. Logo bordado a color contraste a la altura del pecho izquierdo.
+- 80% Algodón 20% Poliéster.
 - Lavar a máquina en frío. No usar lejía. Planchar a temperatura media, sin vapor. Lavado en seco. No secar en secadora. Lavar y planchar la prenda del revés. Lavar con colores separados.
 - Regular fit.
-- 80% Algodón 20% Poliéster.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

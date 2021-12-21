@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- INGREDIENTES, Harina de trigo, manteca de cerdo ibérico, azúcar, almendras 8%, huevo pasteurizado, gasificantes (difosfato disódico, bicarbonato de sodio), proteína de leche, dextrosa, aceite vegetal (colza) y aromas.
+- Galleta al estilo mantecado suave y crujiente. Pasta recubierta por una caña de Almendras Laminadas.
+- CONTIENE, Seis unidades por bolsa.
 - REPOSTERÍA DE CALIDAD, Repostería casera y tradicional. Ideal para almuerzos, desayunos, postres...
 - PRODUCIDOS EN ESPAÑA, Estos dulces han sido producidos en España.
-- CONTIENE, Seis unidades por bolsa.
 - FECHA DE CONSUMO PREFERENTE y condiciones de CONSERVACIÓN, 365 días desde la fecha de fabricación. Conservar en lugar fresco, seco y aislado del suelo, lejos de fuentes de calor y libre de suciedad y contaminación.
-- Galleta al estilo mantecado suave y crujiente. Pasta recubierta por una caña de Almendras Laminadas.
-- INGREDIENTES, Harina de trigo, manteca de cerdo ibérico, azúcar, almendras 8%, huevo pasteurizado, gasificantes (difosfato disódico, bicarbonato de sodio), proteína de leche, dextrosa, aceite vegetal (colza) y aromas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
