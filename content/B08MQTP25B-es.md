@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CMEVA: material EVA moldeado por compresión para un rendimiento ligero
-- Bota baja
 - Capa superior de malla 100% reciclada
+- Bota baja
 - PUMA Logotipo de gato
+- CMEVA: material EVA moldeado por compresión para un rendimiento ligero
 - Plantilla sostenible que contiene un 20% de espuma reciclada y un 5% de material biológico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
