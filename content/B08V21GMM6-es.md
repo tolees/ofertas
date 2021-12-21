@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños acanalados en el cuello, los extremos de las mangas y el dobladillo
-- Cuello redondo
-- Algodón orgánico: algodón de cultivo ecológico
 - Patrón de punto acanalado longitudinal
+- Algodón orgánico: algodón de cultivo ecológico
+- Cuello redondo
+- Puños acanalados en el cuello, los extremos de las mangas y el dobladillo
 - Artículo de alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

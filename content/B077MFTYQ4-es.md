@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash v2  Zapatillas  para Unisex adulto  Azul  Peacoat-Puma White   42.5 EU'
-date: 2021-12-20 12:58:35
+date: 2021-12-21 13:20:29
 image: 'https://m.media-amazon.com/images/I/41eFaBn8zlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B077MFTYQ4/?tag=tolees-21'
 descuento: '40.87'
-average: '35.773698630137'
+average: '35.7293243243243'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
