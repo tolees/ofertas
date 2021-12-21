@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Movimiento multifunción
-- Pulsera gris oscuro
-- Esfera gris con efecto de rayo de sol
-- Pulsadores decorativos
-- 3 ATM de resistencia al agua: El agua del grifo o la lluvia no daña los relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
 - Grosor de la caja de 8.5 mm; Diámetro de la caja: 38 mm
+- 3 ATM de resistencia al agua: El agua del grifo o la lluvia no daña los relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
+- Pulsera gris oscuro
+- Pulsadores decorativos
+- Esfera gris con efecto de rayo de sol
 
 [🛒 Visítala!!!]({{< param buyurl >}})

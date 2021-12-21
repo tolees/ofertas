@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Algodón orgánico: algodón de cultivo ecológico
-- El éxito radica en el detalle: la parte inferior del cuello de contraste de este polo de algodón piqué le da a tu atuendo un toque especial.
-- Cuello de canalé denso
 - Piqué estructurado granulado de algodón orgánico 100%
+- Algodón orgánico: algodón de cultivo ecológico
 - Logotipo bordado en el pecho izquierdo
+- Cuello de canalé denso
+- El éxito radica en el detalle: la parte inferior del cuello de contraste de este polo de algodón piqué le da a tu atuendo un toque especial.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit Band 5 Pulsera Actividad Inteligente  Unisex Adulto  Negro  Talla única'
-date: 2021-12-14 19:32:27
+date: 2021-12-21 18:01:37
 image: 'https://m.media-amazon.com/images/I/41TmY6GenpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazfit'
 buyurl: 'https://www.amazon.es/dp/B08DKWSVZG/?tag=tolees-21'
 descuento: '40.21'
-average: '29.6171140939594'
+average: '29.5989999999997'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
