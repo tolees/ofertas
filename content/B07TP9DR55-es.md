@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corrector de imperfecciones líquido
-- Corrector de ojeras e imperfecciones acabado natural
-- Cobertura completa y uniforme
 - Formula vegana
+- Cobertura completa y uniforme
 - Larga duración
+- Corrector de ojeras e imperfecciones acabado natural
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
