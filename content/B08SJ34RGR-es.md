@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un cortasetos de peso ligero y equilibrio para recortar setos más pequeños
-- Incluye: EasyHedgeCut 45, embalaje en caja
-- Longitud de la cuchilla de 45 cm y diseño con una abertura entre dientes de 16 mm para trabajos ligeros de recorte
 - Motor de alta velocidad de 420 W para lograr cortes potentes, rápidos y limpios
+- Un cortasetos de peso ligero y equilibrio para recortar setos más pequeños
+- Longitud de la cuchilla de 45 cm y diseño con una abertura entre dientes de 16 mm para trabajos ligeros de recorte
+- Incluye: EasyHedgeCut 45, embalaje en caja
 - Peso equilibrado y asas ergonómicas para trabajar con comodidad en cualquier posición
 
 [🛒 Comprar!!!]({{< param buyurl >}})
