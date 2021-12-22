@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Gran comodidad gracias a su fabricación de tejido elástico
-- Estándar
 - Talla única
+- Estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

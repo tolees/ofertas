@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 11 botones programables: Asigna macros y funciones secundarias entre los 11 botones programables, incluida la famosa palanca multifunción para ejecutar movimientos múltiples rápido
 - Switches ópticos para ratón Razer: Cada clic se acciona a la velocidad de la luz, sin desactivación de rebote, así que siempre serás el primero en activar el gatillo, los switches también duran hasta 70 millones de clics
-- Sensor óptico Razer Focus+ 20K: Su sensor óptico de 20 000 PPP te asegura de que se registra hasta el movimiento más ínfimo, lo que te proporciona una precisión muy aguda para esos disparos ganadores y maniobras elusivas
-- Resistencia de la rueda de desplazamiento ajustable: Puedes ajustar la resistencia de la rueda de desplazamiento con la rueda de la parte inferior del ratón, gracias a la sensibilidad al tacto personalizada, disfrutarás de un nivel de control que te permitirá dar lo optimo de ti en cada partida
 - Cable Razer Speedflex: Con una optima flexibilidad y un arrastre mínimo para realizar movimientos sin obstáculos, permitiéndote un control fluido en tus partidas
+- Resistencia de la rueda de desplazamiento ajustable: Puedes ajustar la resistencia de la rueda de desplazamiento con la rueda de la parte inferior del ratón, gracias a la sensibilidad al tacto personalizada, disfrutarás de un nivel de control que te permitirá dar lo optimo de ti en cada partida
+- Sensor óptico Razer Focus+ 20K: Su sensor óptico de 20 000 PPP te asegura de que se registra hasta el movimiento más ínfimo, lo que te proporciona una precisión muy aguda para esos disparos ganadores y maniobras elusivas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

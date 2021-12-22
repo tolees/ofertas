@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología Hyper Pillar
-- Plantilla Goga Mat refrigerada por aire
-- Densidad dual
-- Ultra Go
 - Ortholite
+- Plantilla Goga Mat refrigerada por aire
+- Ultra Go
+- Tecnología Hyper Pillar
+- Densidad dual
 
 [🛒 Aquí!!!]({{< param buyurl >}})

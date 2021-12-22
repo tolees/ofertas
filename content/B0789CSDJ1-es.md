@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skagen Pendientes largos para mujer de acero inoxidable en tono plateado  SKJ1077040'
-date: 2021-12-14 22:01:00
+date: 2021-12-22 10:38:48
 image: 'https://m.media-amazon.com/images/I/31EgYYIS72L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado: pulido
 - Tipo de cierre: pendientes de gancho
-- Color: plateado
 - Material: acero inoxidable
 - Se presenta en caja de regalo Skagen
+- Color: plateado
+- Acabado: pulido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
