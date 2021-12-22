@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger 2700260 - Pendientes de acero inoxidable con circonita'
-date: 2021-12-21 07:17:09
+date: 2021-12-22 13:43:56
 image: 'https://m.media-amazon.com/images/I/31D4jVoo-ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B0091HXKEQ/?tag=tolees-21'
 descuento: '44.59'
-average: '35.1211111111111'
+average: '34.324'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: plata
-- No ajustable
 - Tipo de gema: circonita
-- Material: acero inoxidable
+- No ajustable
 - Dedicado a mujeres
+- Color: plata
+- Material: acero inoxidable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

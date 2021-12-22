@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Big Original Logo tee T-Shirt  White +  XXL para Hombre'
-date: 2021-12-18 16:56:10
+date: 2021-12-22 13:57:55
 image: 'https://m.media-amazon.com/images/I/41P6YR6qkFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B0886VJNQF/?tag=tolees-21'
 descuento: '50.20'
-average: '13.725'
+average: '13.5428571428571'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
