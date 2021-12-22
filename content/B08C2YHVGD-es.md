@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Bayhill Cap  Oxford Hombre  Piedra Nobuck  44 EU'
-date: 2021-12-21 19:09:43
+date: 2021-12-22 19:25:48
 image: 'https://m.media-amazon.com/images/I/31AU-sO2x7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B08C2YHVGD/?tag=tolees-21'
 descuento: '35.41'
-average: '62.02875'
+average: '62.13'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
