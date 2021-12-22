@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Flair Memoria Flash USB 3.0 de 128 GB con hasta 150 MB/s de Velocidad de Lectura  Color Azul'
-date: 2021-12-18 08:23:57
+date: 2021-12-22 06:47:23
 image: 'https://m.media-amazon.com/images/I/315F34K84xS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B075KPPTTW/?tag=tolees-21'
 descuento: '62.55'
-average: '16.3635135135135'
+average: '16.1387179487179'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transfiere una película en menos de 30 segundos
 - Carcasa de metal elegante y duradera
+- Transfiere una película en menos de 30 segundos
 - Transfiere a la memoria hasta 15 veces más rápido que con las memorias USB 2.0 estándar
 - Rendimiento USB 3.0 y altas velocidades de hasta 150 MB/s
 

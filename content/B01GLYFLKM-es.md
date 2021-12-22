@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bellota 7230043S3 Botas de Trabajo de Piel para Hombre o Mujer  Negro  43'
-date: 2021-12-21 01:11:25
+date: 2021-12-22 06:28:13
 image: 'https://m.media-amazon.com/images/I/51d687Lw6LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bellota'
 buyurl: 'https://www.amazon.es/dp/B01GLYFLKM/?tag=tolees-21'
 descuento: '42.35'
-average: '22.8431818181819'
+average: '22.774347826087'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
