@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TR 13.
 - La más duradera del mercado en comparación con sus competidores.
+- TR 13.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

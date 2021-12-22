@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Oune solución única lentillas está indicado para mantener limpias y confortables sus lentes gracias a la actuación de agentes limpiadores y humectantes
-- Pack 2 botellas de 360ml
-- Mantener el frasco bien cerrado en lugar fresco y fuera del alcance de los niños
 - Incluye portalentes
 - Para lentes de contacto blandas y desechables
+- Mantener el frasco bien cerrado en lugar fresco y fuera del alcance de los niños
+- Pack 2 botellas de 360ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})

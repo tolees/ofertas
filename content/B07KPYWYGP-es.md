@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De la colección game of thrones, night king como figura exclusiva de vinilo pop deluxe de funko
-- Funko pop deluxe
 - Juguete del año 2018
+- De la colección game of thrones, night king como figura exclusiva de vinilo pop deluxe de funko
 - Night King Sitting on Throne
+- Funko pop deluxe
 - Game of thrones s10
 
 [🛒 Visítala!!!]({{< param buyurl >}})
