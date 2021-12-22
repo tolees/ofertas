@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Movimiento de cuarzo japonés de tres manecillas
 - Logotipo grabado en el reverso de la caja y bordado con mimo en la parte trasera de la correa
 - Correa en suave piel auténtica
-- Movimiento de cuarzo japonés de tres manecillas
 - Diámetro de la caja: 30 mm
 - El reloj tiene una clasificación de resistencia al agua de hasta 1 ATM o 10 m (1 bar), para que sea apto para el uso cotidiano y resistente a salpicaduras moderadas de agua / lluvia
 - Esfera blanca y caja con chapado en oro rosado con abejas tridimensionales en miniatura que se mueven
