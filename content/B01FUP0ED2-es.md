@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español Crema Corporal Reparadora Urea Formato Viaje  50ml'
-date: 2021-12-18 08:54:35
+date: 2021-12-23 17:52:05
 image: 'https://m.media-amazon.com/images/I/3197+pgSl8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B01FUP0ED2/?tag=tolees-21'
 descuento: '70.37'
-average: '0.807211538461541'
+average: '0.80714285714286'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Género: Unisex Adulto
 - Marca: Instituto Español
 - Tipo de producto: Tratamiento corporal
-- Género: Unisex Adulto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
