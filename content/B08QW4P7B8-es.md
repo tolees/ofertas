@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño ligero que ofrece comodidad
 - Tiene detalles distintivos de la marca
+- Diseño ligero que ofrece comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
