@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marvel - Capitán América: Civil War [DVD]'
-date: 2021-12-19 18:58:21
+date: 2021-12-23 01:37:50
 image: 'https://m.media-amazon.com/images/I/51TKLEL7rUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Marvel'
 buyurl: 'https://www.amazon.es/dp/B01EWVY6KM/?tag=tolees-21'
 descuento: '38.34'
-average: '8.76285714285715'
+average: '8.29875000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
