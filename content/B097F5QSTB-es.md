@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño compacto para una instalación sencilla: El diseño sin teclado numérico permite un posicionamiento más sencillo para que tu configuración sea perfecta; además, es ideal para aquellos jugadores que prefieren un escritorio minimalista.
-- Opciones de enrutamiento de cable para orientar la salida de los cables más fácilmente: El teclado está diseñado con ranuras que te permiten plegar el cable y sacarlo en cualquier dirección, para que puedas mantener tu escritorio despejado.
-- Tipo de conectividad: Alámbrico
-- Teclas totalmente programables para personalizar perfiles, macros y asignaciones de teclas individuales: Haz que tu nivel y tu juego sean más eficientes al asignar las funciones que quieras con Razer Synapse 3 y ajusta el teclado para que se adapte a tu estilo de juego creando y guardando perfiles y macros únicos.
-- Switches mecánicos amarillos Razer para una ejecución fluida y rápida, a la vez que silenciosa: con un punto de accionamiento de tan solo 1,2 mm, estos switches están hechos para la velocidad: ofrecen pulsaciones de tecla ultrarrápidas y fluidas que no emiten respuesta táctil y tienen un perfil sonoro bajo.
 - Con tecnología Razer Chroma RGB para una iluminación personalizable y mayor inmersión en el juego: con 16,8 millones de colores y una amplia gama de efectos a elegir, puedes personalizar el teclado y disfrutar de mayor inmersión con efectos de iluminación dinámicos que se activan al jugar con los títulos integrados en Chroma.
+- Opciones de enrutamiento de cable para orientar la salida de los cables más fácilmente: El teclado está diseñado con ranuras que te permiten plegar el cable y sacarlo en cualquier dirección, para que puedas mantener tu escritorio despejado.
+- Teclas totalmente programables para personalizar perfiles, macros y asignaciones de teclas individuales: Haz que tu nivel y tu juego sean más eficientes al asignar las funciones que quieras con Razer Synapse 3 y ajusta el teclado para que se adapte a tu estilo de juego creando y guardando perfiles y macros únicos.
+- Tipo de conectividad: Alámbrico
+- Diseño compacto para una instalación sencilla: El diseño sin teclado numérico permite un posicionamiento más sencillo para que tu configuración sea perfecta; además, es ideal para aquellos jugadores que prefieren un escritorio minimalista.
+- Switches mecánicos amarillos Razer para una ejecución fluida y rápida, a la vez que silenciosa: con un punto de accionamiento de tan solo 1,2 mm, estos switches están hechos para la velocidad: ofrecen pulsaciones de tecla ultrarrápidas y fluidas que no emiten respuesta táctil y tienen un perfil sonoro bajo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
