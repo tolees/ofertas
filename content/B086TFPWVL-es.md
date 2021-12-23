@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 574 Pastel Pack  Zapatillas Mujer  White Mint  37.5 EU'
-date: 2021-12-22 07:23:00
+date: 2021-12-23 08:25:15
 image: 'https://m.media-amazon.com/images/I/41i36RMIu1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de tela: ante
-- Número de modelo: WL574PS2
 - X
+- Número de modelo: WL574PS2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

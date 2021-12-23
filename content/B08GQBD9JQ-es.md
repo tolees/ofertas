@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Element Men s Topaz C3 Shoe  Zapatilla Hombre  Azul Eclipse Navy  39 EU'
-date: 2021-12-21 22:26:04
+date: 2021-12-23 08:27:37
 image: 'https://m.media-amazon.com/images/I/41IUt55lwFS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08GQBD9JQ-es Element Men s Topaz C3 Shoe Zapatilla Hombre Azul Eclipse...'
 sku: 'B08GQBD9JQ-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','element', ]
-actualPrice: 21.94 EUR
+actualPrice: 20.84 EUR
 currency: EUR
-price: 21.94
+price: 20.84
 comparePrice: 70.0 EUR
 prodname: 'Element Men s Topaz C3 Shoe  Zapatilla Hombre  Azul Eclipse Navy  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Element'
 buyurl: 'https://www.amazon.es/dp/B08GQBD9JQ/?tag=tolees-21'
-descuento: '68.66'
-average: '26.4466666666667'
+descuento: '70.23'
+average: '25.045'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior: sintético
-- Altura del tacón: 05 cm
-- Tipo de tacón: plano
-- Forro: sintético
 - Material de la suela: goma
+- Parte superior: sintético
+- Forro: sintético
+- Tipo de tacón: plano
+- Altura del tacón: 05 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
