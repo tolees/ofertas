@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Marca Michael Kors
-- Reloj
 - Producto de alta calidad
+- Reloj
 
 [🛒 Visítala!!!]({{< param buyurl >}})
