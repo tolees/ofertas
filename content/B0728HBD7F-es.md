@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Rechazo de la palma; gracias a la tecnología EMR solo se reconoce la mina, de esta manera no reconoce la palma de la mano cuando reposa
 - Stylus en forma tradicional hexagonal que permite una experiencia de escritura y dibujo muy natural compatible con dispositivos con tecnoogía EMR.
-- IMPORTANTE: Por favor consultar "Guía de compatibilidad (PDF)". Puedes descargar un PDF con información de compatibilidad en Amazon en "Guías y documentos de productos". Noris digital no es compatible con dispositivos Apple.
 - Sensibilidad a la presión: el grosor de la línea es variable según presión. Gracias a 4.096 niveles de presión es posible escribir de manera natural
 - Sin baterías ni molestos cables. El stylus no necesita baterías ni se tiene que recargar. Tampoco es necesario acoplar ningún dispositivo adicional
+- Rechazo de la palma; gracias a la tecnología EMR solo se reconoce la mina, de esta manera no reconoce la palma de la mano cuando reposa
+- IMPORTANTE: Por favor consultar "Guía de compatibilidad (PDF)". Puedes descargar un PDF con información de compatibilidad en Amazon en "Guías y documentos de productos". Noris digital no es compatible con dispositivos Apple.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
