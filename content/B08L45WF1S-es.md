@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'POP Funko Marvel Zombies 666 Zombie Daredevil 2020 Fall Convention Exclusive'
-date: 2021-12-12 09:19:45
-image: 'https://m.media-amazon.com/images/I/41njpta-I7L._SL500_._SL400_.jpg'
+date: 2021-12-24 18:44:34
+image: 'https://m.media-amazon.com/images/I/41prqNU0dRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'POP'
 buyurl: 'https://www.amazon.es/dp/B08L45WF1S/?tag=tolees-21'
 descuento: '35.54'
-average: '25.96'
+average: '25.84'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,5 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- New York Comic Con 2020
+- Pegatina compartida en caja
+- La caja incluye una pegatina exclusiva de "Fall Convention Exclusive".
+- Viene empaquetado en una caja con ventana
+- Las figuras de vinilo Pop miden aproximadamente 9,5 cm de alto.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

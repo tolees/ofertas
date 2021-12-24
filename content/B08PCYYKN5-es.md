@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Lacoste Lerond BL 21 1 CFA  Zapatillas Mujer  Wht/Lt Pnk  39.5 EU'
-date: 2021-12-20 09:15:45
-image: 'https://m.media-amazon.com/images/I/21CEzoAVF7L._SL500_._SL400_.jpg'
+date: 2021-12-24 18:36:22
+image: 'https://m.media-amazon.com/images/I/31iTwn1uU0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
