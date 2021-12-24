@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordones de zapatos
 - malla y parte superior de cuero sintético
+- Cordones de zapatos
 - Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
