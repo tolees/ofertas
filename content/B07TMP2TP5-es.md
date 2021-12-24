@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips HC7650/15 - Cortapelos con cuchillas de titanio  3 peines-guía 28 ajustes de longitud  90 min de uso sin cable  incluye 3 peines-guía y funda de viaje'
-date: 2021-12-23 08:33:57
+date: 2021-12-24 19:16:38
 image: 'https://m.media-amazon.com/images/I/51No9SZYxVS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B07TMP2TP5/?tag=tolees-21'
 descuento: '46.16'
-average: '37.935'
+average: '37.78'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

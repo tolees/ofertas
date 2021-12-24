@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- New York Comic Con 2020
 - Pegatina compartida en caja
+- Las figuras de vinilo Pop miden aproximadamente 9,5 cm de alto.
+- New York Comic Con 2020
 - La caja incluye una pegatina exclusiva de "Fall Convention Exclusive".
 - Viene empaquetado en una caja con ventana
-- Las figuras de vinilo Pop miden aproximadamente 9,5 cm de alto.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

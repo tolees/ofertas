@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vestido casual marga larga niña multicolor, 77285 VRUNGE
+- Composición: 95% Algodón 5% Elastan+100% Poliéster
 - Colección CHARANGA Grunge is not dead
 - Tabla de tallas: 2-3: altura 98cm / 3-4: 104 cm / 4-5: 110 cm / 5-6: 116 cm / 6-7: 122 cm / 7-8: 128 cm / 9-10: 140 cm / 11-12: 152 cm / 13-14: 159-162 cm
-- Composición: 95% Algodón 5% Elastan+100% Poliéster
+- Vestido casual marga larga niña multicolor, 77285 VRUNGE
 - Tejido: Punto + Tul
 
 [🛒 Comprar!!!]({{< param buyurl >}})

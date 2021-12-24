@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Desigual Kids - Vestido corto con estampado boho de flores
-- Machine Wash Cold Inside Out, Mild Wash
-- Silueta trapecio avolantada
-- Estampados florales en franjas horizontales
 - Vestido corto trapecio negro con manga larga abullonada y estampados florales boho. Nueva colección Kids OI21 Desigual.
+- Machine Wash Cold Inside Out, Mild Wash
+- Estampados florales en franjas horizontales
+- Silueta trapecio avolantada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

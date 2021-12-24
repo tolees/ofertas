@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'adidas FS1898 CORE18 SW Top Pullover Mens Bold Green XL'
-date: 2021-12-24 20:01:06
-image: 'https://m.media-amazon.com/images/I/41P1ooGs3lL._SL500_._SL400_.jpg'
+title: 'adidas Core18 Sw Top Sudadera  Hombre  Negro  Negro/Blanco   XL'
+date: 2021-12-24 20:00:14
+image: 'https://m.media-amazon.com/images/I/41nOstpf2RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07X8HXS8H-es adidas FS1898 CORE18 SW Top Pullover Mens Bold Green XL'
-sku: 'B07X8HXS8H-es'
+slug: 'B076HR3BHS-es adidas Core18 Sw Top Sudadera Hombre Negro Negro/Blanco XL'
+sku: 'B076HR3BHS-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas', ]
-actualPrice: 25.97 EUR
+actualPrice: 25.95 EUR
 currency: EUR
-price: 25.97
+price: 25.95
 comparePrice: 39.99 EUR
-prodname: 'adidas FS1898 CORE18 SW Top Pullover Mens Bold Green XL'
+prodname: 'adidas Core18 Sw Top Sudadera  Hombre  Negro  Negro/Blanco   XL'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
-buyurl: 'https://www.amazon.es/dp/B07X8HXS8H/?tag=tolees-21'
-descuento: '35.06'
-average: '26.59'
+buyurl: 'https://www.amazon.es/dp/B076HR3BHS/?tag=tolees-21'
+descuento: '35.11'
+average: '27.978'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
-- Presenta ajuste regular
 - Mangas con ribetes en contraste
 - Puños y dobladillo de canalé
+- Presenta ajuste regular
+- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
