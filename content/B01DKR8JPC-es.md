@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Fossil Aretes de Mujer con Cristales Acero inoxidable JF02310040'
-date: 2021-12-22 10:38:29
-image: 'https://m.media-amazon.com/images/I/41q3u95QcyL._SL500_._SL400_.jpg'
+date: 2021-12-24 15:34:26
+image: 'https://m.media-amazon.com/images/I/41fXK46YXyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fossil'
 buyurl: 'https://www.amazon.es/dp/B01DKR8JPC/?tag=tolees-21'
 descuento: '45.00'
-average: '26.78375'
+average: '26.5577777777778'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
