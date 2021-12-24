@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fijación: Encaje
-- Forro: Textil
 - Suela: Eva
-- Parte Superior: Cuero
 - Ancho: G (estándar)
+- Forro: Textil
+- Parte Superior: Cuero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
