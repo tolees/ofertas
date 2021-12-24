@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Cruzer Blade - Memoria USB de 2.0 de 32 GB'
-date: 2021-12-23 11:44:51
+date: 2021-12-24 13:13:30
 image: 'https://m.media-amazon.com/images/I/310mw9KTJvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B005FYNT3G-es SanDisk Cruzer Blade - Memoria USB de 2.0 de 32 GB'
 sku: 'B005FYNT3G-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Memorias USB','sandisk', ]
-actualPrice: 2.67 EUR
+actualPrice: 2.68 EUR
 currency: EUR
-price: 2.67
+price: 2.68
 comparePrice: 7.99 EUR
 prodname: 'SanDisk Cruzer Blade - Memoria USB de 2.0 de 32 GB'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B005FYNT3G/?tag=tolees-21'
-descuento: '66.58'
-average: '5.17659090909092'
+descuento: '66.46'
+average: '5.14853932584271'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
