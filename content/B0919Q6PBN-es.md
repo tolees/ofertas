@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior textil
-- Mediasuela Boost
 - La nueva era del running
-- Cierre de cordones
+- Parte superior textil
 - Suela Stretchweb con compuesto de caucho Continental
+- Mediasuela Boost
+- Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link UB400 Nano - Adaptador Bluetooth 4.0 USB Dongle para ordenador  portatil  auriculares  altavoz  teclado  compatible con Windows 10  8  8.1 7  XP  Vista'
-date: 2021-12-24 01:53:34
+date: 2021-12-25 01:58:37
 image: 'https://m.media-amazon.com/images/I/31mcJ5IR+bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07NQ5YGDW/?tag=tolees-21'
 descuento: '42.67'
-average: '10.5063015647232'
+average: '10.5053835227279'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nano-dimensionado: ultra-pequeño para una portabilidad conveniente con un alto rendimiento confiable
-- Compatible con windows 10 / 8.1 / 8/7 / xp
 - Plug and Play: no se requiere configuración (para Win 8, Win 8.1 y Win 10)
 - Bluetooth 4.0: aplica la última tecnología bluetooth 4.0 con tecnología de bajo consumo (ble) y es compatible con versiones anteriores de bluetooth v3.0 / 2.1 / 2.0 / 1.1
+- Compatible con windows 10 / 8.1 / 8/7 / xp
+- Nano-dimensionado: ultra-pequeño para una portabilidad conveniente con un alto rendimiento confiable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
