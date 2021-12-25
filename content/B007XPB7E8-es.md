@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- BAJO EN GRASAS para mantener un buen peso
-- ALTO CONTENIDO DE FIBRA para ayudar a ofrecer un efecto saciante.
-- COMPLETO Y EQUILIBRADO. Receta basada en pollo y arroz con vitaminas y minerales para ofrecer un alimento completo y equilibrado
 - FÓRMULA sin conservantes artificiales ni colorantes.
+- ALTO CONTENIDO DE FIBRA para ayudar a ofrecer un efecto saciante.
+- BAJO EN GRASAS para mantener un buen peso
 - ADVANCE Light Mini es un alimento de alta gama especialmente indicado para perros de razas pequeñas (hasta 10kgs) con sobrepeso y tendencia a la obesidad.
+- COMPLETO Y EQUILIBRADO. Receta basada en pollo y arroz con vitaminas y minerales para ofrecer un alimento completo y equilibrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
