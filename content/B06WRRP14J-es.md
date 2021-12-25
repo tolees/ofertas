@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños.
-- La colección Superpack estimula la fijación de la atención, desarrolla la psicomotricidad, curiosidad e imaginación.
-- Recomendado a partir de 3 años.
 - Extraordinaria caja llena de diversión y educación: Domino, Identic y 2 puzzle.
+- La colección Superpack estimula la fijación de la atención, desarrolla la psicomotricidad, curiosidad e imaginación.
 - Múltiples posibilidades de juego, para jugar solo o acompañado con los personajes de Ladybug.
+- Recomendado a partir de 3 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

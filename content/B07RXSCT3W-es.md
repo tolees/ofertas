@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con manga corta
 - Camiseta para hombre
+- Con manga corta
 - Cuenta con tejido Nike Breathe
 - Tiene detalles del equipo de fútbol
 

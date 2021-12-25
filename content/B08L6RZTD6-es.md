@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tómatelo frío o caliente
-- Riquísimo sabor a chocolate
-- Formato cómodo para tomar en cualquier parte
 - De una marca confiable
+- Tómatelo frío o caliente
+- Formato cómodo para tomar en cualquier parte
+- Riquísimo sabor a chocolate
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
