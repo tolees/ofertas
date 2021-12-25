@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas QT Racer Sport  Road Running Shoe Mujer  Core Black/Core Black/Screaming Pink  39 1/3 EU'
-date: 2021-12-23 17:18:40
+date: 2021-12-25 15:33:15
 image: 'https://m.media-amazon.com/images/I/31ffQtJot7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material duradero
 - Ajuste normal
+- Material duradero
 - Suela robusta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
