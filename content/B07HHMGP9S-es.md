@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Activación de panel de cuna remota
+- Pantalla táctil a color
 - Diferentes niveles de sonido
 - 330M de alcance sin interferencias
-- Activación de panel de cuna remota
 - Fácil de usar
-- Pantalla táctil a color
 
 [🛒 Comprar!!!]({{< param buyurl >}})

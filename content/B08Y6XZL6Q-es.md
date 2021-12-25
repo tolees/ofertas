@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Koch Media - MotoGP 21 PS5 ESP'
-date: 2021-12-25 10:05:54
-image: 'https://m.media-amazon.com/images/I/51gfdG9wc8L._SL500_._SL400_.jpg'
+title: 'Koch Media - MotoGP 21 XSRX ESP'
+date: 2021-12-25 10:05:59
+image: 'https://m.media-amazon.com/images/I/51Ltby53-SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08Y6Z8L11-es Koch Media - MotoGP 21 PS5 ESP'
-sku: 'B08Y6Z8L11-es'
-tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','koch media', ]
+slug: 'B08Y6XZL6Q-es Koch Media - MotoGP 21 XSRX ESP'
+sku: 'B08Y6XZL6Q-es'
+tags: [ 'Hardware y juegos para Xbox Series X y S','Juegos para Xbox Series X y S','Videojuegos','koch media', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99
 comparePrice: 69.99 EUR
-prodname: 'Koch Media - MotoGP 21 PS5 ESP'
+prodname: 'Koch Media - MotoGP 21 XSRX ESP'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Koch Media'
-buyurl: 'https://www.amazon.es/dp/B08Y6Z8L11/?tag=tolees-21'
+buyurl: 'https://www.amazon.es/dp/B08Y6XZL6Q/?tag=tolees-21'
 descuento: '64.29'
-average: '42.6966666666667'
+average: '52.68'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Personaliza el casco, el traje, las pegatinas y el número de carrera con 5 editores gráficos
 - Lleva la diversión al siguiente nivel desafiando a otros jugadores online o crea tu propio evento en el modo Director de Carrera, disfrutando de la experiencia multijugador fluida
-- Controla el nivel de combustible, la temperatura de los frenos, el desgaste de los neumáticos y toma decisiones críticas según tu estilo de conducción
 - Crea el equipo de tus sueños, eligiendo entre equipos oficiales y luego selecciona tu personal, profesionales cualificados que te asistirán durante la temporada
 - Una vez que hayas terminado, comparte tus diseños en línea o pruébate las creaciones de tus compañeros
+- Controla el nivel de combustible, la temperatura de los frenos, el desgaste de los neumáticos y toma decisiones críticas según tu estilo de conducción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
