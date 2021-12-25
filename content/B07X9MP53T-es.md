@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas FS1898 CORE18 SW Top Pullover Mens Bold Green M'
-date: 2021-12-23 20:21:15
+date: 2021-12-25 08:22:10
 image: 'https://m.media-amazon.com/images/I/41P1ooGs3lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Presenta ajuste regular
-- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 - Mangas con ribetes en contraste
 - Puños y dobladillo de canalé
+- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
