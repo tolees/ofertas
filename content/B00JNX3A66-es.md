@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Liposan
 - Formato: Stick
+- Marca: Liposan
 - Género: Unisex Adulto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

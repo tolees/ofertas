@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Interior: textil.
-- Ancho de la caña: normal.
-- Exterior: piel.
-- Composición del material: lona y piel.
 - Suela: goma.
+- Composición del material: lona y piel.
+- Exterior: piel.
 - Cierre: cordones.
+- Ancho de la caña: normal.
+- Interior: textil.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

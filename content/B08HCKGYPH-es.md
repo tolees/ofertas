@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Viene con un mando a distancia que se puede conectar con tu smartphone o tableta a través de BT para suspender, acelerar o acelerar las líneas, operación más cómoda.
 - Soporta disparos con lente gran angular, y el bolsillo de fijación de lente incluido hace que sea adecuado para lentes de más de 35 mm de longitud focal, sin necesidad de anillos adaptadores de lente, más fácil de usar.
+- Viene con un mando a distancia que se puede conectar con tu smartphone o tableta a través de BT para suspender, acelerar o acelerar las líneas, operación más cómoda.
 - Este teleprompter portátil es compatible con cámaras DSLR, teléfonos inteligentes y tabletas (tablet de menos de 8 pulgadas), es una herramienta útil para grabación de vídeo, transmisión en vivo, entrevistas, discursos, etc. Con espejo reflectante de una sola cara, alta transmisión de luz, lo que hace que el indicador sea más claro y reduce la influencia para la grabación de vídeo.
 - Especialmente diseñado con 5 soportes de zapata fría para instalar micrófono externo, luz de relleno LED y otros dispositivos para hacer que tu grabación de vídeo sea más profesional.
 - Fácil de instalar, solo necesita unos pasos, el teleprompter estará listo para funcionar. Puedes montar el teleprompter al trípode fácilmente con el cabezal de trípode incluido.

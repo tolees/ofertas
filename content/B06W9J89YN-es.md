@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material de alta calidad
 - Esencial para cualquier fiesta colorida y divertida
 - Apto para todas las fiestas
-- Material de alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
