@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Adecuada para deporte
+- Ofrece comodidad y libertad de movimiento
 - Logotipo de adidas en la parte delantera
 - Tecnología de tejido adidas AEROREADY
-- Ofrece comodidad y libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
