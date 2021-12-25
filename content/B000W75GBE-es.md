@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maxell LR44 1.5V Micro - Pack de 10 pilas alcalinas'
-date: 2021-12-21 20:30:22
+date: 2021-12-25 19:21:47
 image: 'https://m.media-amazon.com/images/I/41ueak1JK8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pila Alcalina.
-- Leer advetencias de la parte de atrás después de usar.
-- Blister 10 pilas.
 - 1,5 voltios.
+- Pila Alcalina.
+- Blister 10 pilas.
+- Leer advetencias de la parte de atrás después de usar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
