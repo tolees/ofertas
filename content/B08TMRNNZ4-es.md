@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste relajado
-- MF refrigerado por aire
 - Lavable a máquina
+- MF refrigerado por aire
+- Ajuste relajado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
