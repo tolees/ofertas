@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans UA Old Skool  Zapatillas Unisex Adulto  Navy  37 EU'
-date: 2021-12-25 12:32:02
+date: 2021-12-26 12:55:10
 image: 'https://m.media-amazon.com/images/I/41sEntONa9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B001CVT3O0-es Vans UA Old Skool Zapatillas Unisex Adulto Navy 37 EU'
 sku: 'B001CVT3O0-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','vans', ]
-actualPrice: 30.62 EUR
+actualPrice: 30.6 EUR
 currency: EUR
-price: 30.62
+price: 30.6
 comparePrice: 75.0 EUR
 prodname: 'Vans UA Old Skool  Zapatillas Unisex Adulto  Navy  37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B001CVT3O0/?tag=tolees-21'
-descuento: '59.17'
-average: '33.7333333333333'
+descuento: '59.20'
+average: '32.95'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
