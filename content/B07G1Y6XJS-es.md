@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arcade 1Up Street Fighter - Máquina Arcade Retro'
-date: 2021-12-24 08:18:44
+date: 2021-12-26 19:19:54
 image: 'https://m.media-amazon.com/images/I/51yWvkYVABL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Arcade 1Up'
 buyurl: 'https://www.amazon.es/dp/B07G1Y6XJS/?tag=tolees-21'
 descuento: '38.18'
-average: '344.203076923077'
+average: '341.651428571429'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Operación sin monedas, el volumen se puede ajustar
-- Diseño recto clásico, dimensiones: 1.21 x 0.60 x 0.48 m
 - Diseño comercial, ilustraciones originales
 - Pantalla LCD a color de 17 "; controles auténticos de Arcade
+- Diseño recto clásico, dimensiones: 1.21 x 0.60 x 0.48 m
+- Operación sin monedas, el volumen se puede ajustar
 - Menú del juego en pantalla; se conecta a una toma de corriente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
