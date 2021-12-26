@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 231571-794-51 41  Zapatillas Hombre  Blanco  EU'
-date: 2021-12-22 06:48:10
+date: 2021-12-26 11:55:20
 image: 'https://m.media-amazon.com/images/I/31bvPrC4xZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B082YFJRMB/?tag=tolees-21'
 descuento: '45.02'
-average: '37.495'
+average: '36.594'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

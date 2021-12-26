@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! Vinilo: Ghostbusters: Dr. Peter Venkman'
-date: 2021-12-22 06:29:25
+date: 2021-12-26 11:37:06
 image: 'https://m.media-amazon.com/images/I/41HeCpKIhzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07NSX38K5/?tag=tolees-21'
 descuento: '37.62'
-average: '10.1127777777778'
+average: '10.1042105263158'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dr; peter Venkman
-- De la colección ghostbusters, dr; peter venkman como figura de vinilo pop de funko
 - Movies: ghostbusters
 - Juguete del año 2018
 - Funko pop vinyl
+- De la colección ghostbusters, dr; peter venkman como figura de vinilo pop de funko
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

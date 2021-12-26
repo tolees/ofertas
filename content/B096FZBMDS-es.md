@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok XT Sprinter 2.0  Zapatillas de Running  FTWR White/Vector Navy/Vector Red  38 EU'
-date: 2021-12-24 17:46:13
+date: 2021-12-26 11:34:49
 image: 'https://m.media-amazon.com/images/I/51dMYU9UnKS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

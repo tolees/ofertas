@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 FZ Hoody Sweatshirt  Hombre  Dark Blue/White  L'
-date: 2021-12-23 22:45:45
+date: 2021-12-26 11:43:10
 image: 'https://m.media-amazon.com/images/I/41lrhY2jsgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Soft fabric
-- Hood with lanyard
 - Regular fit
+- Hood with lanyard
 
 [🛒 Visítala!!!]({{< param buyurl >}})
