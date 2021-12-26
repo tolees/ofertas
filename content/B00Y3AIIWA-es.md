@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Royal Glide Zapatillas de deporte  Hombre  Blanco  White/Steel/Reebok Royal   44 EU'
-date: 2021-12-25 02:21:24
+date: 2021-12-26 02:41:51
 image: 'https://m.media-amazon.com/images/I/21fLaDmhY5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B00Y3AIIWA/?tag=tolees-21'
 descuento: '43.97'
-average: '48.305'
+average: '47.9994871794872'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
