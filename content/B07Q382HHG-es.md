@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks 42 EU'
-date: 2021-12-23 05:23:34
+date: 2021-12-27 01:19:11
 image: 'https://m.media-amazon.com/images/I/41TwmmcLcIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07Q382HHG-es Clarks 42 EU'
 sku: 'B07Q382HHG-es'
 tags: [ 'Mocasines para mujer','Zapatos','Zapatos de cordones para mujer','Zapatos para mujer','Zapatos planos de mujer','Zapatos y complementos','clarks', ]
-actualPrice: 46.77 EUR
+actualPrice: 41.55 EUR
 currency: EUR
-price: 46.77
+price: 41.55
 comparePrice: 89.95 EUR
 prodname: 'Clarks 42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07Q382HHG/?tag=tolees-21'
-descuento: '48.00'
-average: '46.77'
+descuento: '53.81'
+average: '44.16'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Forro: Textil
 - Altura Del Talón: 4.5cm
-- Superiores: Ante
 - Fijación: Resbalón En
 - Suela: Eva
+- Superiores: Ante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
