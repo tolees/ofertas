@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans New Virginia T-Shirt Mit Logo Camiseta  Gris  Grey Marl 933   Medium para Mujer'
-date: 2021-12-24 01:59:37
+date: 2021-12-27 08:27:39
 image: 'https://m.media-amazon.com/images/I/417XCdYe7gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B06XSJ5THX-es Pepe Jeans New Virginia T-Shirt Mit Logo Camiseta Gris...'
 sku: 'B06XSJ5THX-es'
 tags: [ 'Camisetas para mujer','Camisetas, tops y blusas para mujer','Ropa','Ropa para mujer','pepe jeans', ]
-actualPrice: 14.95 EUR
+actualPrice: 16.25 EUR
 currency: EUR
-price: 14.95
+price: 16.25
 comparePrice: 25.0 EUR
 prodname: 'Pepe Jeans New Virginia T-Shirt Mit Logo Camiseta  Gris  Grey Marl 933   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B06XSJ5THX/?tag=tolees-21'
-descuento: '40.20'
-average: '16.8531249999999'
+descuento: '35.00'
+average: '16.9420588235293'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY 0-28-217 - Rascavidrios con cuchilla retráctil  incluye 5 hojas de recambio'
-date: 2021-12-26 07:33:29
+date: 2021-12-27 08:08:46
 image: 'https://m.media-amazon.com/images/I/41O0PrKKvkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B00D2R4PLS/?tag=tolees-21'
 descuento: '40.00'
-average: '2.82222222222222'
+average: '2.7778947368421'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Incluye: 5 hojas de recambio
-- Cambio fácil de la hoja
-- Longitud de la hoja es de 70mm
-- Cuchilla retráctil para mayor seguridad
 - Rascavidrios con diseño ergonómico de empuñadura bimaterial
+- Longitud de la hoja es de 70mm
+- Cambio fácil de la hoja
+- Cuchilla retráctil para mayor seguridad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
