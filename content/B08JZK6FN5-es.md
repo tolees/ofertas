@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Complete Island Recordings  Edición Limitada '
-date: 2021-12-20 20:46:23
+date: 2021-12-27 16:15:49
 image: 'https://m.media-amazon.com/images/I/31ei0LXwPLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08JZK6FN5-es The Complete Island Recordings Edición Limitada'
 sku: 'B08JZK6FN5-es'
 tags: [ 'CDs y vinilos','Pop','Reggae','Roots reggae','island', ]
-actualPrice: 16.95 EUR
+actualPrice: 11.99 EUR
 currency: EUR
-price: 16.95
-comparePrice: 32.57 EUR
+price: 11.99
+comparePrice: 32.47 EUR
 prodname: 'The Complete Island Recordings  Edición Limitada '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Island'
 buyurl: 'https://www.amazon.es/dp/B08JZK6FN5/?tag=tolees-21'
-descuento: '47.96'
-average: '16.95'
+descuento: '63.07'
+average: '14.47'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

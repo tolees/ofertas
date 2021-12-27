@@ -31,7 +31,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Dos bolsas para clavos, una bolsa para cinta métrica y un bucle para martillo integrado
 - Accesorio original de Stanley
 - Parte trasera acolchada para ajuste óptimo y máximo confort
-- Nylon de alta resistencia de 6 denier
 - para clavos y herramientas, bucle para martillo integrado
+- Nylon de alta resistencia de 6 denier
 
 [🛒 Comprar!!!]({{< param buyurl >}})
