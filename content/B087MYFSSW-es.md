@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Funko POP! El juguete del año 2018
-- ¡Descúbre otras figuras de la colección Star Wars y colecciónalas todas!
-- De la colección The Mandalorian, The Mythrol como figura de vinilo POP de Funko
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- Funko POP! El juguete del año 2018
+- De la colección The Mandalorian, The Mythrol como figura de vinilo POP de Funko
+- ¡Descúbre otras figuras de la colección Star Wars y colecciónalas todas!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
