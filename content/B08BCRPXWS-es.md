@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alto: 40 cm Ancho: 30 cm Fondo: 18 cm
-- Confeccionada en 100 % poliéster
-- El compartimento principal dispone de un bolsillo delantero con cremallera
-- Correas ajustables para los hombros y panel de la espalda acolchados
 - No se han utilizado materiales de origen animal para fabricar este producto 1 % vegano
+- Alto: 40 cm Ancho: 30 cm Fondo: 18 cm
+- Correas ajustables para los hombros y panel de la espalda acolchados
+- El compartimento principal dispone de un bolsillo delantero con cremallera
+- Confeccionada en 100 % poliéster
 - En nuestra gama de colores Safari Snake
 
 [🛒 Aquí!!!]({{< param buyurl >}})
