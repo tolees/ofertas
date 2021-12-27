@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair CX750M - Fuente de Alimentación  Semi Modular  80 PLUS Bronze  750 Watt  EU '
-date: 2021-12-25 21:14:28
+date: 2021-12-27 15:07:34
 image: 'https://m.media-amazon.com/images/I/410eiWpLsOS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Semimodular: facilite los ensamblajes y las actualizaciones, además de producir resultados estéticamente despejados y muy atractivos
-- Ventilador con control térmico: funcionamiento silencioso a media y baja carga
 - Certificación de eficiencia 80 PLUS Bronze: funcionamiento de gran eficiencia para reducir los costes operativos y la emisión del calor
+- Semimodular: facilite los ensamblajes y las actualizaciones, además de producir resultados estéticamente despejados y muy atractivos
 - Dispositivos compatibles: PC
+- Ventilador con control térmico: funcionamiento silencioso a media y baja carga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
