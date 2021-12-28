@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Incluye llaves de vaso hexagonales y adaptador
 - Engranaje de dos velocidades: baja fuerza y alta velocidad para trabajos de atornillado controlada, alta velocidad para taladrar rápido y sencillo
-- Las brocas para metal tienen revestimiento de titanio
 - Ámbito de aplicación: la fuerza correcta y la velocidad para taladrar en madera y metal, así como para todas las aplicaciones rosca. función de impacto para taladrar en mampostería
+- Las brocas para metal tienen revestimiento de titanio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

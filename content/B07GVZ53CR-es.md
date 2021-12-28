@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formato apilable para ahorrar espacio al almacenar colocando los recipientes unos encima de otros
+- Capacidad para 200 ml
 - Incorpora 10 unidades con tapa de rosca hermética anti-fuga
 - Apto para lavavajillas y microondas
 - Recipientes para almacenaje, ideales para transportar la comida del bebé o almacenarla en el frigorífico o en el congelador
-- Capacidad para 200 ml
+- Formato apilable para ahorrar espacio al almacenar colocando los recipientes unos encima de otros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
