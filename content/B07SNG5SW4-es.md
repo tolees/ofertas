@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lacoste
 - textil
+- Lacoste
 - 39SMA0027
 - Material exterior: sintético. Material interior: sintético. Suela: sintética. Cierre: cordones rápidos. Forma del tacón: plano. Ancho del zapato: estrecho, no impermeable
 

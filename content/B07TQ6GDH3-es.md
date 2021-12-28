@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Double Pack: Assassin’s Creed Odyssey + Assassin’s Creed Origins'
-date: 2021-12-16 20:14:39
+date: 2021-12-28 13:33:20
 image: 'https://m.media-amazon.com/images/I/515bhh3Q8OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B07TQ6GDH3/?tag=tolees-21'
 descuento: '46.19'
-average: '31.9067567567568'
+average: '31.84'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conviértete en un legendario héroe griego – por primera vez en la serie Assassins Creed, podrás escoger el tipo de héroe con el que vivirás una aventura épica, Alexios o Kassandra; personaliza tu equipamiento, mejora tus habilidades y adapta tu navío a tu viaje para convertirte en un héroe de leyenda
+- La Historia del Origen – empieza aquí, en el verdadero comienzo, y conoce la historia nunca antes contada de Assassin’s Creed
 - Assassin’s Creed Origins es un nuevo comienzo; experimenta una nueva forma de luchar mientras exploras las grandes pirámides y las tumbas ocultas por todo el Antiguo Egipto; vive emocionantes e inolvidables aventuras en tu viaje, y descubre la historia que dio origen a la Hermandad de los Assassins
 - Escribe tu propia Odisea y conviértete en un héroe griego legendario en Assassin’s Creed Odyssey, una inspiradora aventura en la que forjarás tu propio destino y el camino que te llevará a él; juega tu papel histórico involucrándote de lleno en un mundo siempre cambiante, que se adapta a tus decisiones
-- La Historia del Origen – empieza aquí, en el verdadero comienzo, y conoce la historia nunca antes contada de Assassin’s Creed
+- Conviértete en un legendario héroe griego – por primera vez en la serie Assassins Creed, podrás escoger el tipo de héroe con el que vivirás una aventura épica, Alexios o Kassandra; personaliza tu equipamiento, mejora tus habilidades y adapta tu navío a tu viaje para convertirte en un héroe de leyenda
 - Forma parte de aventuras épicas y explora países inmensos gracias a este pack doble de Assassin’s Creed Odyssey + Assassin’s Creed Origins; descubre los secretos que se esconden tras las grandes pirámides y en la Antigua Grecia, y experimenta una forma de luchar completamente nueva mientras afrontas misiones memorables
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Pack Standard Issue  Sac A Dos Homme  Royal Blue  Taille Unique'
-date: 2021-12-27 12:42:44
+date: 2021-12-28 12:46:08
 image: 'https://m.media-amazon.com/images/I/41nmCswx7fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08NJY589K-es Levi s Pack Standard Issue Sac A Dos Homme Royal Blue...'
 sku: 'B08NJY589K-es'
 tags: [ 'Equipaje','Mochilas','Mochilas infantiles','levis', ]
-actualPrice: 17.99 EUR
+actualPrice: 21.99 EUR
 currency: EUR
-price: 17.99
+price: 21.99
 comparePrice: 35.0 EUR
 prodname: 'Levi s Pack Standard Issue  Sac A Dos Homme  Royal Blue  Taille Unique'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08NJY589K/?tag=tolees-21'
-descuento: '48.60'
-average: '20.99'
+descuento: '37.17'
+average: '21.3233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
