@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- X
 - Tipo de tela: ante
+- X
 - Número de modelo: WL574PS2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
