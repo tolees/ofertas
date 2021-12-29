@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G502 LIGHTSPEED Ratón Gaming Inalámbrico  Captor HERO 25K  25 600 DPI  RGB  Peso Reducido  11 Botones Programables  Batería Larga Duración  POWERPLAY-compatibile  PC  Negro'
-date: 2021-12-27 22:02:02
+date: 2021-12-29 08:48:19
 image: 'https://m.media-amazon.com/images/I/41ReUlqua9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Logitech G'
 buyurl: 'https://www.amazon.es/dp/B07QKC4WWD/?tag=tolees-21'
 descuento: '48.39'
-average: '97.9541935483864'
+average: '97.3928124999993'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Requisitos: Windows 7 o posteriores, Mac OS X 10.11 o posteriores, Chrome OSTM, Puerto USB, Acceso a Internet para descargar el software Logitech G HUB (Las funciones avanzadas requieren Logitech G HUB, disponible para descargar)
-- Once Botones y Botón Rueda Superrápido: Los botones principales ofrecen un sistema de tensión con resorte metálico para una actuación rápida y precisa y personalización de macros para cada juego
 - Peso Personalizable Ergonómico y Sistema de Colores: Personaliza el peso del ratón con las seis pesas incluidas, para optimizar la precisión de disparo y elija entre 16,8 millones de colores
-- SIN CABLES. SIN LIMITES: La marca de accesorios inalámbricos para gaming más vendida del mundo - Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming inalámbricos en unidades
-- Sensor de próxima generación: Capaz de detectar movimientos a nivel submicrónico, puede seguir el movimiento de menos de una millonésima de metro con una precisión extrema
 - Sensor HERO 16K: El sensor HERO ofrece un óptimo seguimiento de hasta 25.600 DPI y rendimiento con precisión de píxel sin suavizado, aceleración ni filtros
 - Tecnología Inalámbrica LIGHTSPEED: Los profesionales de eSports confían en el ecosistema de tecnologías inalámbricas USB LIGHTSPEED del ratón para gaming Logitech para un juego profesional
+- Sensor de próxima generación: Capaz de detectar movimientos a nivel submicrónico, puede seguir el movimiento de menos de una millonésima de metro con una precisión extrema
 - Diseño de Alto Rendimiento: La emblemática forma que rebasó los límites del ratón óptico para PC gaming ha evolucionado con una carcasa liviana y una estructura interna de endoesqueleto
+- Once Botones y Botón Rueda Superrápido: Los botones principales ofrecen un sistema de tensión con resorte metálico para una actuación rápida y precisa y personalización de macros para cada juego
+- Requisitos: Windows 7 o posteriores, Mac OS X 10.11 o posteriores, Chrome OSTM, Puerto USB, Acceso a Internet para descargar el software Logitech G HUB (Las funciones avanzadas requieren Logitech G HUB, disponible para descargar)
+- SIN CABLES. SIN LIMITES: La marca de accesorios inalámbricos para gaming más vendida del mundo - Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming inalámbricos en unidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})
