@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DIGITNOW! Convertidor de captura de vídeo USB  Scart o VHS a DVD Digital Grabber Grabador   Capturadora Digitalizadora de vídeo'
-date: 2021-12-16 23:57:38
+date: 2021-12-29 14:54:45
 image: 'https://m.media-amazon.com/images/I/41-SwO5-gOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DIGITNOW!'
 buyurl: 'https://www.amazon.es/dp/B083FFN8YK/?tag=tolees-21'
 descuento: '40.26'
-average: '26.9233333333333'
+average: '26.165'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Grabar archivos editados en DVD, VCD, SVCD.Capturar fuente de video de VHS, VCR, V8, Hi8. Grabe su propio DVD / VCD
-- Soporta codificación RCA a Scart / MPEG 4/2/1 en tiempo real
-- Cree una biblioteca de video doméstico de alta definición. Un toque de capturador, presione para comenzar, presione para detener el botón (versión pro)
 - Compatible con Windows XP / Vista / 7/8 (cada uno de 32 y 64 bits) y 8.1 (32 bits)
+- Grabar archivos editados en DVD, VCD, SVCD.Capturar fuente de video de VHS, VCR, V8, Hi8. Grabe su propio DVD / VCD
+- Cree una biblioteca de video doméstico de alta definición. Un toque de capturador, presione para comenzar, presione para detener el botón (versión pro)
+- Soporta codificación RCA a Scart / MPEG 4/2/1 en tiempo real
 - Interfaz USB 2.0 PnP, transferencia de audio / video USB, soporte de audio USB, cable USB a su PC, especialmente para notebook sin línea en el puerto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

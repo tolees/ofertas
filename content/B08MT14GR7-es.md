@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA R78 SL  Zapatillas Unisex Adulto  Gris/Violeta  48.5 EU'
-date: 2021-12-28 09:52:17
+date: 2021-12-29 14:21:50
 image: 'https://m.media-amazon.com/images/I/41zc9LpEVNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior sintética
 - Bota baja
 - CMEVA: entresuela de EVA moldeada por compresión para un rendimiento ligero
+- Parte superior sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})

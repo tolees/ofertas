@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bend Studio Days Gone - Edición Normal'
-date: 2021-12-28 08:51:56
+date: 2021-12-29 13:48:25
 image: 'https://m.media-amazon.com/images/I/51nkBcQ-rKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bend Studio'
 buyurl: 'https://www.amazon.es/dp/B07PJLWVLW/?tag=tolees-21'
 descuento: '42.94'
-average: '24.1237037037037'
+average: '23.8521428571429'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
