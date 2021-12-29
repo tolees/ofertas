@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link AC1750 Archer C7 - Router Gigabit inalámbrico de doble banda  2.4 GHz a 450 Mbps y 5 GHz a 1300 Mbps  Gigabit Puerto  USB 2.0  3 antenas externas de doble banda'
-date: 2021-12-25 14:33:24
+date: 2021-12-29 11:47:56
 image: 'https://m.media-amazon.com/images/I/41ubQmvjDAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00BUSDVBQ/?tag=tolees-21'
 descuento: '50.65'
-average: '65.8143636363634'
+average: '65.6614285714283'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporta el estándar 802.11ac - la generación de Wi-Fi compatible con el estándar N; óptimo para gaming
+- Los puertos Gigabit aseguran velocidades de transferencia de datos ultrarrápidas
 - Conexiones simultáneas a 450 Mbps en 2.4 GHz y a 1300 Mbps en 5 GHz para un ancho de banda total disponible de 1.75 Gbps
 - Con dos puertos USB 2.0 multifuncionales, podrá compartir archivos, medios e incluso una impresora en red local o a través del servidor FTP
+- Soporta el estándar 802.11ac - la generación de Wi-Fi compatible con el estándar N; óptimo para gaming
 - 3 antenas externas de 5dBi y 3 antenas internas proporcionan una cobertura inalámbrica omnidireccional y una fiabilidad muy buenas
-- Los puertos Gigabit aseguran velocidades de transferencia de datos ultrarrápidas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
