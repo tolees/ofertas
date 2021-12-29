@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñadora: Dora Baghriche-Arnaud
-- Familias Olfativas: Amaderada, Floral
 - Fecha Lanzamiento: 2011
+- Familias Olfativas: Amaderada, Floral
+- Diseñadora: Dora Baghriche-Arnaud
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
