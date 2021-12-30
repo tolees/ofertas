@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER A7188 Set de 50 Piezas con Brocas y Puntas para Atornillar y Taladrar Brocas de Titanio'
-date: 2021-12-28 13:02:26
+date: 2021-12-30 17:33:53
 image: 'https://m.media-amazon.com/images/I/51aGGV8ldYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Black+Decker'
 buyurl: 'https://www.amazon.es/dp/B0076VLVXG/?tag=tolees-21'
 descuento: '38.77'
-average: '14.5875757575757'
+average: '14.5338805970149'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las brocas para metal tienen revestimiento de titanio
 - Dispone de soporte magnético, avellanado
-- Los accesorios vienen almacenados en un maletín de color negro y naranja
+- Las brocas para metal tienen revestimiento de titanio
 - Incluye llaves de vaso hexagonales y adaptador
+- Los accesorios vienen almacenados en un maletín de color negro y naranja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
