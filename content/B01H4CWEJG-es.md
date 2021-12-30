@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Tazon 6 FM  Zapatillas Hombre  Blanco White Black Silver  45 EU'
-date: 2021-12-27 08:54:48
+date: 2021-12-30 09:21:10
 image: 'https://m.media-amazon.com/images/I/41b+ggHy-TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B01H4CWEJG/?tag=tolees-21'
 descuento: '50.13'
-average: '29.9'
+average: '31.76625'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

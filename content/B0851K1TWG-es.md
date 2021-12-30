@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sistema avanzado de tensionado izquierda/derecha mediante botón con muelle metálico para un rendimiento óptimo de los clics
-- Laterales con textura para un agarre mejorado; cable de 180 cm para uso con cable
 - Alta capacidad de precisión y respuesta: velocidad de seguimiento de 150 ips y tasa de sondeo de hasta 1000 hz
 - 7 botones programables, incluidos 2 botones para pulgar; factor de forma ambidiestra, para manos de cualquier forma y tamaño
 - Iluminación rgb: iluminación rgcon ondas con efecto de arco iris y botón de encendido/apagado; permite seleccionar el ajuste de precisión preferido desde 500 hasta 6000 pp
 - Tipo de conectividad: alámbrico
+- Laterales con textura para un agarre mejorado; cable de 180 cm para uso con cable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
