@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750 COTU Classic Sneaker  Zapatillas Unisex Adulto  Red 975  36 EU'
-date: 2021-12-24 08:18:31
+date: 2021-12-30 16:22:06
 image: 'https://m.media-amazon.com/images/I/41Jl8yGCcIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: tela
 - Material de la suela: caucho
+- Material exterior: tela
 - Forro: tela
 
 [🛒 Aquí!!!]({{< param buyurl >}})

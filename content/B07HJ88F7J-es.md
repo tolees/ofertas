@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! Movies: 007 - LeChiffre from Casino Royale #692 Vinyl Figure'
-date: 2021-12-16 16:41:11
+date: 2021-12-30 15:56:50
 image: 'https://m.media-amazon.com/images/I/31LdXjUZ71L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07HJ88F7J/?tag=tolees-21'
 descuento: '66.64'
-average: '7.76'
+average: '6.97142857142857'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Figura de vinilo
 - Licencia Oficial
 - Películas: James Bond
-- Funko POP Vinilo
+- Figura de vinilo
 - Le Chiffre
+- Funko POP Vinilo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
