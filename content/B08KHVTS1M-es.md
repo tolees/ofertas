@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston DataTraveler Kyson Unidad Flash USB3.2  128GB-con Elegante Carcasa metálica sin capuchón'
-date: 2021-12-29 11:08:03
+date: 2021-12-30 13:30:07
 image: 'https://m.media-amazon.com/images/I/31iGeyUfS4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B08KHVTS1M/?tag=tolees-21'
 descuento: '46.45'
-average: '17.2181818181818'
+average: '17.0325'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con una funcional presilla para engancharla al llavero
+- Código de artículo: DTKN/128GB
 - Velocidades de hasta 200 MB/s en lectura¹
 - Elegante diseño metalizado sin capuchón
-- Código de artículo: DTKN/128GB
+- Con una funcional presilla para engancharla al llavero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
