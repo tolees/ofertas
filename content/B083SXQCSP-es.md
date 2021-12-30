@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok CL Nylon  Sneaker Mujer  Black/Black/White  39 EU'
-date: 2021-12-29 08:36:14
+date: 2021-12-30 20:44:54
 image: 'https://m.media-amazon.com/images/I/31wBVEo6WlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B083SXQCSP/?tag=tolees-21'
 descuento: '42.82'
-average: '35.9145000000001'
+average: '36.1090476190477'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
