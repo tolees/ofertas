@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf E6717EU4 Fortnite - SP L  Talla Única'
-date: 2021-12-29 21:57:35
+date: 2021-12-31 01:00:47
 image: 'https://m.media-amazon.com/images/I/41hpfYEkePL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B07M931WGJ/?tag=tolees-21'
 descuento: '38.94'
-average: '18.4070707070707'
+average: '18.3878'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
