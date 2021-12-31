@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital - WD Elements - Disco duro externo de sobremesa de 18 TB con USB 3.0  color negro'
-date: 2021-12-27 11:35:00
+date: 2021-12-31 09:30:06
 image: 'https://m.media-amazon.com/images/I/31zDvA7gSpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B08KY32HFR/?tag=tolees-21'
 descuento: '42.59'
-average: '403.79'
+average: '395.262727272727'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
