@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio Collection W-800H-1AVES  Reloj Digital Unisex  Negro'
-date: 2021-12-21 19:09:55
+date: 2021-12-31 21:08:35
 image: 'https://m.media-amazon.com/images/I/41li8qsM+XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Casio'
 buyurl: 'https://www.amazon.es/dp/B000VE5XL6/?tag=tolees-21'
 descuento: '35.14'
-average: '20.9753846153845'
+average: '21.0070707070706'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La duración de la batería es de 10 años
-- Resistente al agua hasta 10 bar / 100 metros
-- Caja y correa de resina sintética, un material resistente y flexible
 - Incluye cronómetro, alarma, función de despertador y calendario automático
+- Resistente al agua hasta 10 bar / 100 metros
 - Para iluminar la esfera del reloj se usa un diodo emisor de luz LED
+- Caja y correa de resina sintética, un material resistente y flexible
+- La duración de la batería es de 10 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
