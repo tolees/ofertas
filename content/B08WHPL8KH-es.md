@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s kids Lvg High Rise Jordi tee Tnica  Peacoat Tie Dye  10 años Niñas'
-date: 2021-12-20 14:01:31
+date: 2021-12-31 10:28:49
 image: 'https://m.media-amazon.com/images/I/41sIjttZJ8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
