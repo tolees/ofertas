@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yacht Club Games - Shovel Knight: Treasure Trove'
-date: 2021-12-29 14:27:36
+date: 2021-12-31 18:54:07
 image: 'https://m.media-amazon.com/images/I/51isAdOFKLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Yacht Club Games'
 buyurl: 'https://www.amazon.es/dp/B07LFWFGT1/?tag=tolees-21'
 descuento: '44.45'
-average: '34.0074999999999'
+average: '33.7637837837837'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

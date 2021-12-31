@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kappa Follow  Zapatillas Unisex niños  Negro  Black/White 1110   25 EU'
-date: 2021-12-30 13:30:35
+date: 2021-12-31 18:48:49
 image: 'https://m.media-amazon.com/images/I/41AORIpdpwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kappa'
 buyurl: 'https://www.amazon.es/dp/B0778XBZRS/?tag=tolees-21'
 descuento: '53.42'
-average: '16.6166666666667'
+average: '15.95'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
