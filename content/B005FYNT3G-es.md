@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Cruzer Blade - Memoria USB de 2.0 de 32 GB'
-date: 2021-12-24 13:13:30
+date: 2022-01-01 18:02:35
 image: 'https://m.media-amazon.com/images/I/310mw9KTJvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B005FYNT3G/?tag=tolees-21'
 descuento: '66.46'
-average: '5.14853932584271'
+average: '5.09428571428572'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Copia de seguridad de archivos simple, con el modo arrastrar y colocar
 - Temperatura de funcionamiento: 0° C a 45° C
-- Música (canciones MP3): 2000 canciones
 - Vídeos (1080 AVCHD): 80 minutos
+- Música (canciones MP3): 2000 canciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
