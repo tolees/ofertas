@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gracias a los imanes que se alinean a la perfección con el iPhone 12 Pro Max, se pone y se quita con total facilidad. Esta alineación también hace que la carga inalámbrica sea más cómoda y rápida que nunca. No hace falta que la quites para cargar el iPhone, simplemente acopla el cargador MagSafe o coloca el teléfono en una base de carga inalámbrica Qi.
-- 0
-- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación. No solo es bonita, sino ideal para que protejas tu iPhone de arañazos y caídas.
 - La silicona exterior tiene un tacto tan agradable que te va a sorprender. Y el interior está forrado de suave microfibra para proteger el iPhone.
+- 0
+- Gracias a los imanes que se alinean a la perfección con el iPhone 12 Pro Max, se pone y se quita con total facilidad. Esta alineación también hace que la carga inalámbrica sea más cómoda y rápida que nunca. No hace falta que la quites para cargar el iPhone, simplemente acopla el cargador MagSafe o coloca el teléfono en una base de carga inalámbrica Qi.
+- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación. No solo es bonita, sino ideal para que protejas tu iPhone de arañazos y caídas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

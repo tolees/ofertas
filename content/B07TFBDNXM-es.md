@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punto liso de algodón Pima
-- Regular fit
-- Marca termosellada en el forro del cuello
-- Cuello redondo
 - Cocodrilo verde bordado en el pecho
+- Cuello redondo
+- Punto liso de algodón Pima
+- Marca termosellada en el forro del cuello
+- Regular fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
