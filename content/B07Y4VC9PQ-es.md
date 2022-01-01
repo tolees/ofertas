@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link COVR-1102 Kit WiFi Mesh AC1200  Dual-Band  dos nodos extensores inteligentes Wi-Fi hasta 1200 Mbps  malla  encriptación WPA3  LAN Gigabit  Wave2  Streaming 4K  compatible Alexa/Google  blanco'
-date: 2021-12-31 09:18:32
+date: 2022-01-01 09:19:46
 image: 'https://m.media-amazon.com/images/I/21uJI58d6SS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.es/dp/B07Y4VC9PQ/?tag=tolees-21'
 descuento: '39.80'
-average: '65.5462068965518'
+average: '65.4350847457628'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

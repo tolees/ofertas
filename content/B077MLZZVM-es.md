@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash v2 L  Zapatillas Bajas  para Unisex adulto  Negro  Puma Black-Puma Black   43 EU'
-date: 2021-12-31 08:55:13
+date: 2022-01-01 09:01:01
 image: 'https://m.media-amazon.com/images/I/31VWPwVRqIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B077MLZZVM/?tag=tolees-21'
 descuento: '38.92'
-average: '33.0634883720931'
+average: '33.0054545454546'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
