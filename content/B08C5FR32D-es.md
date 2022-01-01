@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: hebilla
-- Material interior: sintético
 - Material exterior: piel lisa
 - Suela: sintética
+- Material interior: sintético
+- Cierre: hebilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
