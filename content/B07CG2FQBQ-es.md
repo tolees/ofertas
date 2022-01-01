@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Skechers Og 85 Old School Cool 699-blk  Zapatillas Mujer  Negro  Black 699/Black   38 EU'
-date: 2021-12-30 20:59:37
+date: 2022-01-01 03:01:30
 image: 'https://m.media-amazon.com/images/I/41p42G+jDNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mujer
-- cuero sintético
 - Enfriar y 85 Old School
+- cuero sintético
+- Mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
