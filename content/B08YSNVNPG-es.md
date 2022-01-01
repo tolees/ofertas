@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Selecta Visión - Farm Together'
-date: 2021-12-31 09:43:51
+date: 2022-01-01 15:32:02
 image: 'https://m.media-amazon.com/images/I/51uezORVavS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Más de 400.000 descargas en Steam.
 - Incluye los 12 DLC dentro del Juego.
+- Más de 400.000 descargas en Steam.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Router AX1800 WiFi 6 2.4GHz/5GHz-1800 Mbps-Chip de 5 núcleos-4 antenas externas-Hasta 128 dispositivos-Mi Mesh'
-date: 2021-12-31 03:17:12
+date: 2022-01-01 15:17:05
 image: 'https://m.media-amazon.com/images/I/21YSQptInwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08MQ7JDZT/?tag=tolees-21'
 descuento: '45.71'
-average: '43.8291071428571'
+average: '43.7268421052631'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Chip de 5 núcleos
 - Conexión confiable para hasta 128 dispositivos
 - Velocidad de transferencia de datos: 1800 MB / s
 - 4 antenas externas
-- Chip de 5 núcleos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panini - MECAPACK  Archivador + 4 sobres  CARTAS DRAGON BALL colección 2.021 La Leyenda de SON GOKU'
-date: 2021-12-26 19:57:52
+date: 2022-01-01 15:34:45
 image: 'https://m.media-amazon.com/images/I/51fTeyV2E3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Descubre esta nueva aventura de Dragon Ball con las CARDS BASE, que muestran a grandes guerreros, dioses y sayanos en el renovado mundo de Dragon Ball; las TOP CARDS, que presentan Cards con efecto holográfico; y las SUPER CARDS, que son las Cards más especiales y que llegan con efecto metalizado.
 - No hay mejor manera de empezar la colección la colección de Trading Cards de Dragon Ball Super – La leyenda de Son Goku que con este fantástico pack de lanzamiento que te permite conseguir: El Super Archivador para transportar y coleccionar todas las cartas y 4 sobres con 20 cards.
 - Dragon Ball Super Megapack Archivador + 4 Sobres. The Legend of Son Goku.
-- Descubre esta nueva aventura de Dragon Ball con las CARDS BASE, que muestran a grandes guerreros, dioses y sayanos en el renovado mundo de Dragon Ball; las TOP CARDS, que presentan Cards con efecto holográfico; y las SUPER CARDS, que son las Cards más especiales y que llegan con efecto metalizado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
