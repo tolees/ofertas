@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee- Heroes A Medida - Español  Color'
-date: 2021-12-30 13:24:08
+date: 2022-01-01 11:18:13
 image: 'https://m.media-amazon.com/images/I/510UJLWsfjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Asmodee'
 buyurl: 'https://www.amazon.es/dp/B07KTM6PK8/?tag=tolees-21'
 descuento: '63.29'
-average: '14.3104761904763'
+average: '14.2337209302327'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
