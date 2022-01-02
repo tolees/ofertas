@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Sudadera con Capucha  Verde  Dk Bronze Green A971-6059   M para Hombre'
-date: 2021-12-31 19:05:09
+date: 2022-01-02 03:04:10
 image: 'https://m.media-amazon.com/images/I/41fVbWv8mzS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capucha con cordón, escote cruzado en la parte delantera
-- Dobladillo recto, diseño acanalado
 - Manga larga – Inserto recto – Puños acanalados
 - Parche de fieltro G-Star RAW en el pecho
+- Capucha con cordón, escote cruzado en la parte delantera
+- Dobladillo recto, diseño acanalado
 - Bolsillo tipo canguro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
