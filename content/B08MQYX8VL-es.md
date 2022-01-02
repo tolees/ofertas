@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash v2 L Jr  Zapatillas Bajas Unisex-Niños  Blanco  White/Intense Blue   36 EU'
-date: 2021-12-24 15:46:26
+date: 2022-01-02 14:47:01
 image: 'https://m.media-amazon.com/images/I/41-enUe0h4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Termómetro Infrarrojo sin Contacto - InnJoo WK-168'
-date: 2022-01-01 10:57:19
+date: 2022-01-02 15:47:00
 image: 'https://m.media-amazon.com/images/I/31CUca2h-fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Advertencia de batería baja
 - 1" detección efectiva
-- Cambio fácil entre ºC y ºF
-- Sin contacto para la medición
-- Memoria de datos
 - Advertencia alta temperatura
+- Memoria de datos
+- Advertencia de batería baja
+- Cambio fácil entre ºC y ºF
 - (2xAAA batería) no incluidas
+- Sin contacto para la medición
 
 [🛒 Visítala!!!]({{< param buyurl >}})
