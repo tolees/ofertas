@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY 1-96-181 - Cinturón portaherramientas  Nylon  Parte trasera acolchada'
-date: 2022-01-01 12:04:43
+date: 2022-01-02 19:28:37
 image: 'https://m.media-amazon.com/images/I/51TRD-xyCPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B0050IG9DE/?tag=tolees-21'
 descuento: '57.26'
-average: '8.24411764705882'
+average: '8.04611111111111'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Accesorio original de Stanley
 - para clavos y herramientas, bucle para martillo integrado
 - Dos bolsas para clavos, una bolsa para cinta métrica y un bucle para martillo integrado
 - Parte trasera acolchada para ajuste óptimo y máximo confort
+- Accesorio original de Stanley
 - Nylon de alta resistencia de 6 denier
 
 [🛒 Comprar!!!]({{< param buyurl >}})

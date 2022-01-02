@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Cruzer Blade - Memoria USB de 2.0 de 32 GB'
-date: 2022-01-01 18:02:35
+date: 2022-01-02 19:44:50
 image: 'https://m.media-amazon.com/images/I/310mw9KTJvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B005FYNT3G/?tag=tolees-21'
 descuento: '66.46'
-average: '5.09428571428572'
+average: '5.06804347826087'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
