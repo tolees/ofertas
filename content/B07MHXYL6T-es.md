@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung MZ-V7S250BW unidad de estado sólido M.2 - Disco duro sólido  M.2 '
-date: 2021-12-30 00:53:15
+date: 2022-01-02 12:30:10
 image: 'https://m.media-amazon.com/images/I/31ZbktcYCGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B07MHXYL6T/?tag=tolees-21'
 descuento: '42.86'
-average: '66.1657142857143'
+average: '64.9759090909091'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- lectura AL azar (4kb, qd32) hasta 250000 IOPS y escritura aleatorio (4kb, qd32) hasta 550000 IOPS
-- Factor de forma 2.5 pulgadas
+- velocidad de lectura secuencial hasta 3.500 MB/SEG y velocidad de escritura secuencial hasta 2.300 MB/seg.
 - 250GB
 - interfaz SATA 6 GB/s y retrocompatible con SATA 3 Gbps y SATA 1.5 Gbps
-- velocidad de lectura secuencial hasta 3.500 MB/SEG y velocidad de escritura secuencial hasta 2.300 MB/seg.
+- lectura AL azar (4kb, qd32) hasta 250000 IOPS y escritura aleatorio (4kb, qd32) hasta 550000 IOPS
+- Factor de forma 2.5 pulgadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
