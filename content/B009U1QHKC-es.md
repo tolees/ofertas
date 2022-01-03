@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dove Pastilla Limpiadora Original 100 g'
-date: 2021-12-21 16:09:34
+date: 2022-01-03 17:29:12
 image: 'https://m.media-amazon.com/images/I/31SKMmz7XdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pastilla limpiadora que deja la piel suave y cuidada
 - No es un jabón es una pastilla de belleza; dermatológicamente testado
-- Pastilla limpiadora formulada con ¼ de crema hidratante
-- Pastilla limpiadora indicada para uso diario en rostro y manos
 - 1pastilla limpiadoras de Dove que no resecan la piel
+- Pastilla limpiadora indicada para uso diario en rostro y manos
 - Globalmente Dove no testa en animales
+- Pastilla limpiadora que deja la piel suave y cuidada
+- Pastilla limpiadora formulada con ¼ de crema hidratante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
