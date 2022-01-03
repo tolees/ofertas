@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Teka | Placa vitrocerámica modular de 30cm con control táctil | TBC 64000 XFL | Cristal negro | 5.7 x 60 x 51 cm'
-date: 2022-01-02 17:26:10
+date: 2022-01-03 19:34:57
 image: 'https://m.media-amazon.com/images/I/41YYVTeXPEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mandos laterales de diseño ergonómico
 - Dimensiones alto x ancho x profundo (cm): 5.7 x 60 x 51
+- Placa Vitrocerámica
 - Indicadores de calor residual. Sistema fácil instalación Fast-Click
 - 4 zonas de cocción
-- Placa Vitrocerámica
-- Mandos laterales de diseño ergonómico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
