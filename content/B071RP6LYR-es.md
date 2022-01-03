@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Honey Med Tote  Bolso Totes para Mujer  Negro  Black   40 x 28.8 x 14.8 cm  L x W x H '
-date: 2021-12-31 03:02:25
+date: 2022-01-03 09:01:31
 image: 'https://m.media-amazon.com/images/I/31KeEyqHEZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Temporada: Otoño/Invierno
-- Diseñador: Tommy Hilfiger
 - Artículo: aw0aw04547
+- Diseñador: Tommy Hilfiger
+- Temporada: Otoño/Invierno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
