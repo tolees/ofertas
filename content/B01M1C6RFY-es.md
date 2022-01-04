@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Graceful-Get Connected  Zapatillas Mujer  Gris  Ccgr Black Mesh   35 EU'
-date: 2021-12-25 00:47:56
+date: 2022-01-04 01:25:37
 image: 'https://m.media-amazon.com/images/I/41JCc1CofhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B01M1C6RFY/?tag=tolees-21'
 descuento: '43.94'
-average: '44.584375'
+average: '43.6088235294118'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
