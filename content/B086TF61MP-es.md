@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 574 Pastel Pack  Zapatillas Mujer  Logwood  37.5 EU'
-date: 2022-01-01 09:10:55
+date: 2022-01-05 09:49:21
 image: 'https://m.media-amazon.com/images/I/41wkgcJD16S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B086TF61MP/?tag=tolees-21'
 descuento: '47.78'
-average: '52.58'
+average: '53.9'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
