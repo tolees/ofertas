@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WFXB700 - Auriculares True Wireless  Totalmente inalámbrico  Bluetooth  Extra Bass  Micro para Llamadas Manos Libres  18h de batería  Resistencia IPX4   Azul  WFXB700L '
-date: 2022-01-02 14:57:47
+date: 2022-01-05 15:46:59
 image: 'https://m.media-amazon.com/images/I/31lixml-zfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B086LMMS4Y/?tag=tolees-21'
 descuento: '60.67'
-average: '67.6616666666667'
+average: '66.9953846153846'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Resistencia IPX4
 - Hasta 18h de batería con caja (9 h de uso sin caja)
+- Totalmente inalámbrico
 - Llamadas manos libres
 - Conexión Bluetooth simultánea en ambos auriculares
-- Totalmente inalámbrico
-- Resistencia IPX4
 
 [🛒 Comprar!!!]({{< param buyurl >}})

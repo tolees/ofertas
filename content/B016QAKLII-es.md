@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Parma 16 SHO Sport Shorts  Hombre  Dark Blue/White  M'
-date: 2021-12-31 21:15:27
+date: 2022-01-05 16:12:53
 image: 'https://m.media-amazon.com/images/I/41diYD0f3VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B016QAKLII-es adidas Parma 16 SHO Sport Shorts Hombre Dark Blue/White M'
 sku: 'B016QAKLII-es'
 tags: [ 'Pantalones cortos deportivos para hombre','Ropa','Ropa deportiva para hombre','Ropa para hombre','adidas', ]
-actualPrice: 9.0 EUR
+actualPrice: 10.27 EUR
 currency: EUR
-price: 9.0
+price: 10.27
 comparePrice: 17.99 EUR
 prodname: 'adidas Parma 16 SHO Sport Shorts  Hombre  Dark Blue/White  M'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B016QAKLII/?tag=tolees-21'
-descuento: '49.97'
-average: '10.9202272727273'
+descuento: '42.91'
+average: '11.0672916666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Climalite anti-humidity fabric
 - Regular fit
+- Climalite anti-humidity fabric
 - Elastic waistband with lanyard
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
