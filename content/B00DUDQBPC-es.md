@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lamela 06002 - Libreta cuadriculada  30 hojas  2.5 x 2.5 mm'
-date: 2022-01-01 21:07:29
+date: 2022-01-05 21:09:56
 image: 'https://m.media-amazon.com/images/I/51-32r-UHcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lamela'
 buyurl: 'https://www.amazon.es/dp/B00DUDQBPC/?tag=tolees-21'
 descuento: '41.37'
-average: '6.4076923076923'
+average: '6.41'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

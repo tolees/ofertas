@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Office card
 - Papel Navigator
+- Office card
 - A3 160 gramos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
