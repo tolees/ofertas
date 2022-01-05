@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Hama - Enchufe Adaptador con botón de Encendido/Apagado  Blanco'
-date: 2022-01-02 19:17:36
+date: 2022-01-05 18:41:40
 image: 'https://m.media-amazon.com/images/I/41esUD9LD+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B000PGIK6K-es Hama - Enchufe Adaptador con botón de Encendido/Apagado...'
 sku: 'B000PGIK6K-es'
-tags: [ 'Accesorios de alimentación','Electrónica','Regletas','hama', ]
+tags: [ 'Bricolaje y herramientas','Enchufes y tomas de corriente alterna','Instalación eléctrica','Tomas de corriente alterna','hama', ]
 actualPrice: 2.58 EUR
 currency: EUR
 price: 2.58
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Brand: Hama
 - Regleta individual
 - Alta calidad
-- Brand: Hama
 - Diseño funcional
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

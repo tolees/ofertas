@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston DataTraveler 100 G3 -DT100G3/64GB  USB 3.0  Flash Drive  64 GB  Negro'
-date: 2021-12-31 19:13:33
+date: 2022-01-05 18:49:54
 image: 'https://m.media-amazon.com/images/I/41snW94fFSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B00C5K8CQ2/?tag=tolees-21'
 descuento: '40.74'
-average: '7.44732394366199'
+average: '7.42611111111113'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 64GB
+- modelo: DT100G3/64GB
 - Diseño elegante en negro y tapa deslizante
 - Un dispositivo de almacenamiento USB 3.0
-- modelo: DT100G3/64GB
 
 [🛒 Visítala!!!]({{< param buyurl >}})
