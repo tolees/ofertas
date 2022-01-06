@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDRAS210B.Ae - Auriculares Deportivos de Botón con Agarre al Oído  Resistente a Salpicaduras   Color Negro  5'
-date: 2021-12-23 21:30:13
+date: 2022-01-06 06:47:48
 image: 'https://m.media-amazon.com/images/I/31VcQkRUjfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B01LDKH2PG/?tag=tolees-21'
 descuento: '67.00'
-average: '9.46923076923076'
+average: '9.36296296296296'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Auriculares ligeros, 12 g de peso
 - Auriculares deportivos resistentes a salpicaduras
 - Agarre alrededor del oído para una sujeción cómoda y sin molestias
-- Auriculares ligeros, 12 g de peso
 - Cable con longitud de 1,2 m
 
 [🛒 Visítala!!!]({{< param buyurl >}})
