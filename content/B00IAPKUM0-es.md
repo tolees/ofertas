@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-ZX310APW - Auriculares de diadema cerrados  con micrófono  control remoto integrado   blanco'
-date: 2022-01-05 10:39:41
+date: 2022-01-06 19:39:52
 image: 'https://m.media-amazon.com/images/I/31CXvmJPoyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00IAPKUM0/?tag=tolees-21'
 descuento: '52.87'
-average: '16.53'
+average: '16.052'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diafragmas de neodimio de 30 mm
-- Rango de frecuencia 10-24.000 Hz
 - Auriculares tipo diadema con sensibilidad de 98 dB/mW
-- Cascos acolchados para una escucha cómoda
 - Diseño plegable compacto
+- Cascos acolchados para una escucha cómoda
+- Rango de frecuencia 10-24.000 Hz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

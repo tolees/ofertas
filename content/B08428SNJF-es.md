@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'deAO Unidad de Defensa Militar Nave Portaaviones con Función de Expulsión  Vehículos Aéreos y Marítimos Incluidos Conjunto de 9 Piezas Coleccionables de Las Fuerzas Armadas'
-date: 2022-01-05 18:47:53
+date: 2022-01-06 20:20:23
 image: 'https://m.media-amazon.com/images/I/51pv-jVeHVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'deAO'
 buyurl: 'https://www.amazon.es/dp/B08428SNJF/?tag=tolees-21'
 descuento: '70.04'
-average: '7.54'
+average: '6.72333333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

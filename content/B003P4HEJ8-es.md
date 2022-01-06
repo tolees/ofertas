@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Pulsera para Hombre JF84816040'
-date: 2022-01-04 22:28:46
+date: 2022-01-06 20:51:26
 image: 'https://m.media-amazon.com/images/I/41SGVCYNoeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fossil'
 buyurl: 'https://www.amazon.es/dp/B003P4HEJ8/?tag=tolees-21'
 descuento: '53.89'
-average: '21.6333333333333'
+average: '21.0714285714285'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
