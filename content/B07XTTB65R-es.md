@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidrata y cuida los labios
-- Proporciona un color mate y de larga duración
-- Color intenso en una sola pasada
 - Adecuado para el maquillaje de día y de noche
+- Hidrata y cuida los labios
+- Color intenso en una sola pasada
+- Proporciona un color mate y de larga duración
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

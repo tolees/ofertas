@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Prenda bimateria que combina lana en tartán rojo y PU negra
-- La combinación de texturas es frontal y en diagonal dejando el resto de la prenda y la espalda lisa
-- Do Not Wash
 - Chaqueta biker bimateria de tejido lanoso de tartán rojo combinado con piel sintética negra.
 - Desigual mujer - Chaqueta biker de mujer tartán y piel sintética
+- Do Not Wash
+- Prenda bimateria que combina lana en tartán rojo y PU negra
+- La combinación de texturas es frontal y en diagonal dejando el resto de la prenda y la espalda lisa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
