@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Suela: Eva
 - Forro: Textil
-- Superiores: Ante
 - Fijación: Resbalón En
 - Altura Del Talón: 4.5cm
-- Suela: Eva
+- Superiores: Ante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
