@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste normal
-- Material duradero
 - Suela robusta
+- Material duradero
+- Ajuste normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
