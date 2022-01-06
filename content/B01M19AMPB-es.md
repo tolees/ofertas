@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dos motores
-- 2 lámparas led
-- Frente inox extraíble y sustituible
-- Dimensiones Alto x Ancho x Profundo (cm): 18.4 x 60 x 43.7
 - Mandos mecánicos
+- Dos motores
 - Tres velocidades
+- 2 lámparas led
+- Dimensiones Alto x Ancho x Profundo (cm): 18.4 x 60 x 43.7
+- Frente inox extraíble y sustituible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

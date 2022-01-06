@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dispone de scroll vertical, 6 pulsadores y Thumb Control.
 - La pulsación de las 104 teclas de membrana es muy suave, cómoda y el ruido que emiten al ser pulsadas es prácticamente imperceptible.
-- Conexión a través de su cable USB y compatible con todas las plataformas.
 - Ratón óptico de 800/1600 dpi de resolución, con cobertura de goma y elegante diseño para aquellos que exigen precisión en el movimiento.
-- NGS FunkyV2 es un teclado QWERTY para idioma español con conexión USB que cuenta con un original acabado denominado “Leather grain”, dotándolo de elegancia y personalidad.
-- Cable de 140 cm que nos permite conectarlo cómodamente sin restringir nuestros movimientos.
+- Conexión a través de su cable USB y compatible con todas las plataformas.
+- Dispone de scroll vertical, 6 pulsadores y Thumb Control.
 - Atractivo diseño resistente a los derrames que ofrece un funcionamiento de mayor duración, de aproximadamente 10 millones de pulsaciones.
 - Ergonomía derecha: puede ser utilizado por usuarios diestros.
+- NGS FunkyV2 es un teclado QWERTY para idioma español con conexión USB que cuenta con un original acabado denominado “Leather grain”, dotándolo de elegancia y personalidad.
+- Cable de 140 cm que nos permite conectarlo cómodamente sin restringir nuestros movimientos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
