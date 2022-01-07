@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s LEVIS FOOTWEAR AND ACCESSORIESBatwing Tote WMujerBolsos totesBeige  Écru  39x14x30 centimeters  W x H x L '
-date: 2022-01-05 03:47:31
+date: 2022-01-06 21:54:31
 image: 'https://m.media-amazon.com/images/I/41u2sm0CipL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B077GVW5WP/?tag=tolees-21'
 descuento: '35.05'
-average: '13.1781249999998'
+average: '13.1752307692306'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
