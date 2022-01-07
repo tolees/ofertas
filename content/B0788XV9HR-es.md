@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SELECTA VISION - Dragon Ball Super. Box 3. Edición Bluray Coleccionistas [Blu-ray]'
-date: 2022-01-06 09:12:39
+date: 2022-01-07 10:03:07
 image: 'https://m.media-amazon.com/images/I/61MOnTJcUoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Anime','Blu-ray','Coleccionables','Featured Categories','Juguetes','Jug
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0
-comparePrice: 40.19 EUR
+comparePrice: 47.1 EUR
 prodname: 'SELECTA VISION - Dragon Ball Super. Box 3. Edición Bluray Coleccionistas [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SELECTA VISION'
 buyurl: 'https://www.amazon.es/dp/B0788XV9HR/?tag=tolees-21'
-descuento: '37.80'
-average: '37.7285294117646'
+descuento: '46.92'
+average: '37.364857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
