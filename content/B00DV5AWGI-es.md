@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2752 Plus COTU  Zapatillas Unisex Adulto  Grey Vapor  41.5 EU'
-date: 2021-12-24 23:28:56
+date: 2022-01-07 07:22:32
 image: 'https://m.media-amazon.com/images/I/41FYaMZ9KoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: lona
-- Forro: tela
 - Material de la suela: goma
+- Forro: tela
+- Material exterior: lona
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
