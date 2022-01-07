@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS TUF Gaming M3 - Ratón Gaming ergonómico  Sensor de 7000 DPI  construcción Ligera  interruptores muy resistentes  Siete Botones programables y Aura Sync RGB  - Negro'
-date: 2022-01-06 15:50:33
+date: 2022-01-07 16:33:43
 image: 'https://m.media-amazon.com/images/I/31l4KG6PhSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B07XS8Q3Q6/?tag=tolees-21'
 descuento: '63.49'
-average: '19.3171428571429'
+average: '18.27125'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Iluminación asus aura sync rgb que puedes sincronizar con el resto de dispositivos compatibles
-- Sensor óptico de 7000 ppp para juegos con un seguimiento muy preciso y dos botones dpi para ajustar la sensibilidad sobre la marcha
 - Validado para aplicaciones intensivas con un revestimiento especial muy resistente, interruptores con una vida útil de 50 millones de pulsaciones y una base de teflon diseñada para deslizarse hasta 250 km
+- Sensor óptico de 7000 ppp para juegos con un seguimiento muy preciso y dos botones dpi para ajustar la sensibilidad sobre la marcha
 - Siete botones programables y memoria integrada para utilizar tus configuraciones en cualquier equipo
 - Ergonómico y ligero para maniobrar a alta velocidad con agarres de tipo garra o con la palma de la mano
 

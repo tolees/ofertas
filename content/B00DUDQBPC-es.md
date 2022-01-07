@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo - 06002
 - Libreta, 30 hojas, cuadrícula 2x2
 - Marca - Lamela
+- Modelo - 06002
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño comercial, ilustraciones originales
-- Menú del juego en pantalla; se conecta a una toma de corriente
 - Pantalla LCD a color de 17 "; controles auténticos de Arcade
-- Operación sin monedas, el volumen se puede ajustar
+- Diseño comercial, ilustraciones originales
 - Diseño recto clásico, dimensiones: 1.21 x 0.60 x 0.48 m
+- Menú del juego en pantalla; se conecta a una toma de corriente
+- Operación sin monedas, el volumen se puede ajustar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

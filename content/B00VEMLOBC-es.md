@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf - Modulus Kit Ataque Sorpresa  Hasbro B1535EU4 '
-date: 2022-01-01 21:41:05
+date: 2022-01-07 17:12:35
 image: 'https://m.media-amazon.com/images/I/51lNXTNlTdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B00VEMLOBC/?tag=tolees-21'
 descuento: '61.96'
-average: '8.97'
+average: '8.63'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El kit Ataque Sorpresa te permite mejorar tu lanzador Modulus (se vende por separado)
-- La empuñadura plegable permite mayor estabilidad al disparar
-- Miles de combinaciones con el sistema Modulus (otros kits, accesorios y lanzadores se venden por separado)
-- La mira con punto rojo y el cañón de proximidad te permitirán enfocar con mayor precisión
 - Tres accesorios para operaciones encubiertas
+- La mira con punto rojo y el cañón de proximidad te permitirán enfocar con mayor precisión
+- Miles de combinaciones con el sistema Modulus (otros kits, accesorios y lanzadores se venden por separado)
+- La empuñadura plegable permite mayor estabilidad al disparar
+- El kit Ataque Sorpresa te permite mejorar tu lanzador Modulus (se vende por separado)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

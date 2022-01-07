@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney / Pixar - Coco [DVD]'
-date: 2022-01-06 09:39:27
+date: 2022-01-07 16:11:01
 image: 'https://m.media-amazon.com/images/I/51y7qx0C-kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney / Pixar'
 buyurl: 'https://www.amazon.es/dp/B077VL2YY6/?tag=tolees-21'
 descuento: '48.22'
-average: '8.74879999999999'
+average: '8.73340579710144'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

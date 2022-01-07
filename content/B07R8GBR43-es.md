@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CARE OF by PUMA Zapatillas bajas informales en cuero para hombre  Gris  39 EU'
-date: 2021-12-27 20:46:03
+date: 2022-01-07 17:56:37
 image: 'https://m.media-amazon.com/images/I/31+82iG9K+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CARE OF by PUMA'
 buyurl: 'https://www.amazon.es/dp/B07R8GBR43/?tag=tolees-21'
 descuento: '65.20'
-average: '25.7965'
+average: '25.3966666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

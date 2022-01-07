@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Roca A5A8E25C00 Mezclador Fregadero  Modelo Victoria  Cromo  Cromado'
-date: 2022-01-06 16:34:08
+date: 2022-01-07 17:15:30
 image: 'https://m.media-amazon.com/images/I/312N02hsLQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Roca'
 buyurl: 'https://www.amazon.es/dp/B07P6FHY5H/?tag=tolees-21'
 descuento: '51.34'
-average: '44.41'
+average: '44.58'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
