@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Star Wars Racer and Commando Combo'
-date: 2021-12-28 19:20:43
+date: 2022-01-07 00:58:52
 image: 'https://m.media-amazon.com/images/I/51mMzmYH0WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B09FFXC4LF/?tag=tolees-21'
 descuento: '36.24'
-average: '23.61'
+average: '23.426'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
