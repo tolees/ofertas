@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Classic Nylon Zapatilla de Running Hombre  Azul  Team Navy / Platinum   40.5'
-date: 2021-12-25 17:56:18
+date: 2022-01-07 04:25:30
 image: 'https://m.media-amazon.com/images/I/41AqNbtqz8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Reebok.
 - Talla: 40 1/2.
+- Marca: Reebok.
 - Referencia: 39749.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
