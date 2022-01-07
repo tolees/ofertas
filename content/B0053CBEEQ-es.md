@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Entertainment España S.L. - Friends - Colección Completa [DVD]'
-date: 2022-01-06 15:17:37
+date: 2022-01-07 15:57:48
 image: 'https://m.media-amazon.com/images/I/51N994txTQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Entertainment España S.L.'
 buyurl: 'https://www.amazon.es/dp/B0053CBEEQ/?tag=tolees-21'
 descuento: '36.71'
-average: '67.411304347826'
+average: '67.2612068965516'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
