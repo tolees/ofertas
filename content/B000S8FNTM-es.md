@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hama | Altavoces para pc portátiles  Altavoces para Ordenador con conexión Audio Jack 3.5mm   Negro'
-date: 2022-01-04 11:57:59
+date: 2022-01-07 08:57:11
 image: 'https://m.media-amazon.com/images/I/41LDKcziyWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hama'
 buyurl: 'https://www.amazon.es/dp/B000S8FNTM/?tag=tolees-21'
 descuento: '47.34'
-average: '9.63065217391296'
+average: '9.5712765957446'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
