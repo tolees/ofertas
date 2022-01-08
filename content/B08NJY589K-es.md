@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Pack Standard Issue  Sac A Dos Homme  Royal Blue  Taille Unique'
-date: 2021-12-28 12:46:08
+date: 2022-01-08 11:59:25
 image: 'https://m.media-amazon.com/images/I/41nmCswx7fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08NJY589K/?tag=tolees-21'
 descuento: '37.17'
-average: '21.3233333333333'
+average: '21.49'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

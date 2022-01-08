@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alicia en el País de las Maravillas  Edición Especial  [DVD]'
-date: 2022-01-07 10:05:52
+date: 2022-01-08 10:39:10
 image: 'https://m.media-amazon.com/images/I/51J6Fwk9i2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B003JSSK7U/?tag=tolees-21'
 descuento: '41.79'
-average: '8.04835294117648'
+average: '8.0129069767442'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

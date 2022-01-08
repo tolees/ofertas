@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal - ¡Canta! [Blu-ray]'
-date: 2022-01-06 09:15:15
+date: 2022-01-08 10:10:05
 image: 'https://m.media-amazon.com/images/I/612hKi2yVKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Universal'
 buyurl: 'https://www.amazon.es/dp/B06WLNJG98/?tag=tolees-21'
 descuento: '42.82'
-average: '11.8785714285714'
+average: '11.5611111111111'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Entertainment - Trilogía El Hobbit - Edición extendida [DVD]'
-date: 2022-01-07 09:44:06
+date: 2022-01-08 10:10:32
 image: 'https://m.media-amazon.com/images/I/51mOvIHQR4S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Entertainment'
 buyurl: 'https://www.amazon.es/dp/B093MQL4NX/?tag=tolees-21'
 descuento: '52.17'
-average: '28.2581818181818'
+average: '27.8958333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
