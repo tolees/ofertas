@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bohemian Rhapsody Blu-Ray [Blu-ray]'
-date: 2022-01-06 15:23:12
+date: 2022-01-07 21:55:59
 image: 'https://m.media-amazon.com/images/I/417j5pZJXpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWTTJZD/?tag=tolees-21'
 descuento: '40.86'
-average: '13.7898484848482'
+average: '13.7532160804017'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

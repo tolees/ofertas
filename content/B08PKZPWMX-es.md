@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas GK9562 SQ21 TR Top Pullover Mens Black/White XL'
-date: 2022-01-05 09:16:28
+date: 2022-01-07 22:20:16
 image: 'https://m.media-amazon.com/images/I/417ci0VqB7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08PKZPWMX/?tag=tolees-21'
 descuento: '35.00'
-average: '27.3561538461539'
+average: '27.1753333333334'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1/4 Zip
 - regular fit
+- 1/4 Zip
 - 3 rayas a lo largo de las mangas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

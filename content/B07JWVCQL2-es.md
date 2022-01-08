@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bohemian Rhapsody [DVD]'
-date: 2022-01-06 21:45:16
+date: 2022-01-07 21:56:14
 image: 'https://m.media-amazon.com/images/I/41OacZGPopL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWVCQL2/?tag=tolees-21'
 descuento: '44.94'
-average: '10.0818644067794'
+average: '10.0561235955054'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

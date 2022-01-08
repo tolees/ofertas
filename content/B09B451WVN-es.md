@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Entertainment - Space Jam: Nuevas Leyendas 4k UHD + Blu-ray [Blu-ray]'
-date: 2022-01-06 11:11:39
+date: 2022-01-07 22:08:32
 image: 'https://m.media-amazon.com/images/I/51uqyL4CTfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Entertainment'
 buyurl: 'https://www.amazon.es/dp/B09B451WVN/?tag=tolees-21'
 descuento: '48.13'
-average: '19.35'
+average: '17.625'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

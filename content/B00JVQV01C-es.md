@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - El Rey León  2011  [DVD]'
-date: 2022-01-06 21:50:14
+date: 2022-01-07 22:07:50
 image: 'https://m.media-amazon.com/images/I/51vYbNJPkaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B00JVQV01C/?tag=tolees-21'
 descuento: '49.72'
-average: '8.54655270655268'
+average: '8.53505681818179'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
