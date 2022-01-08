@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marte Blu-Ray [Blu-ray]'
-date: 2022-01-07 14:10:33
+date: 2022-01-08 19:41:25
 image: 'https://m.media-amazon.com/images/I/51iVcwymaSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B016UTVKEY/?tag=tolees-21'
 descuento: '49.95'
-average: '9.70714285714283'
+average: '9.18124999999998'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
