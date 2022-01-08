@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft QHG-00024- Paquete de Teclado en español y ratón  Bluetooth   Color Negro'
-date: 2022-01-07 03:30:02
+date: 2022-01-08 04:05:58
 image: 'https://m.media-amazon.com/images/I/31Q4FYRN76L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B088MS2YD6-es Microsoft QHG-00024- Paquete de Teclado en español y ratón...'
 sku: 'B088MS2YD6-es'
 tags: [ 'Accesorios','Informática','Packs de teclado y ratón','Teclados, ratones y periféricos de entrada','Touchpads','microsoft', ]
-actualPrice: 39.99 EUR
+actualPrice: 39.66 EUR
 currency: EUR
-price: 39.99
+price: 39.66
 comparePrice: 65.95 EUR
 prodname: 'Microsoft QHG-00024- Paquete de Teclado en español y ratón  Bluetooth   Color Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B088MS2YD6/?tag=tolees-21'
-descuento: '39.36'
-average: '45.39'
+descuento: '39.86'
+average: '45.1924137931034'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Navegación óptima
-- Paquete de teclado en español y ratón
-- Diseño estilizado y contemporáneo con una relación calidad-precio adecuado
-- Sensor de seguimiento rápido
-- El teclado cuenta con accesos directos integrados, incluidas teclas dedicadas para Office, búsqueda y emojis, acceso sencillo a controles multimedia, aplicaciones, recorte de la pantalla, calculadora, volumen
+- Se conecta de forma inalámbrica mediante Bluetooth
 - Color negro
 - Una forma de capturar la pantalla
-- Se conecta de forma inalámbrica mediante Bluetooth
+- El teclado cuenta con accesos directos integrados, incluidas teclas dedicadas para Office, búsqueda y emojis, acceso sencillo a controles multimedia, aplicaciones, recorte de la pantalla, calculadora, volumen
+- Paquete de teclado en español y ratón
+- Navegación óptima
+- Diseño estilizado y contemporáneo con una relación calidad-precio adecuado
+- Sensor de seguimiento rápido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

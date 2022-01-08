@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Harry Potter y el Misterio del Príncipe [DVD]'
-date: 2022-01-06 03:23:48
+date: 2022-01-08 04:06:08
 image: 'https://m.media-amazon.com/images/I/512E3KjIUcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLVL3J7/?tag=tolees-21'
 descuento: '44.13'
-average: '5.995'
+average: '5.66333333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

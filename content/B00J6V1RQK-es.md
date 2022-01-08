@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El espíritu de la colmena [Blu-ray]'
-date: 2022-01-06 22:59:12
+date: 2022-01-08 03:25:55
 image: 'https://m.media-amazon.com/images/I/51oTb8A1-FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J6V1RQK/?tag=tolees-21'
 descuento: '41.11'
-average: '4.995'
+average: '4.99666666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

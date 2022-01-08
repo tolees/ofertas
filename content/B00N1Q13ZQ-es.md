@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El imperio del fuego [Blu-ray]'
-date: 2022-01-06 14:55:31
+date: 2022-01-08 03:26:26
 image: 'https://m.media-amazon.com/images/I/51Z8P7bAyLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N1Q13ZQ/?tag=tolees-21'
 descuento: '41.11'
-average: '6.295'
+average: '5.86333333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
