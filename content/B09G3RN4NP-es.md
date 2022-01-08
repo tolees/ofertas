@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Entertainment - Pack Harry Potter Colección Completa + Harry Potter Magical Movie Mode [Blu-ray]'
-date: 2022-01-07 13:51:03
+date: 2022-01-08 21:43:25
 image: 'https://m.media-amazon.com/images/I/51svDP5kPIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Entertainment'
 buyurl: 'https://www.amazon.es/dp/B09G3RN4NP/?tag=tolees-21'
 descuento: '43.99'
-average: '34.7090909090909'
+average: '34.2433333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

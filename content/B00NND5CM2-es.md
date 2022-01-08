@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney Pictures - La Bella Y La Bestia [DVD]'
-date: 2022-01-07 21:55:25
+date: 2022-01-08 22:49:19
 image: 'https://m.media-amazon.com/images/I/51vuvyAbF5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Walt Disney Pictures'
 buyurl: 'https://www.amazon.es/dp/B00NND5CM2/?tag=tolees-21'
 descuento: '44.13'
-average: '8.64008196721311'
+average: '8.61048780487804'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

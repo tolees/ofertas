@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UNIVERSAL - Doctor En Alaska - Megapack 2016 [DVD]'
-date: 2022-01-07 21:53:47
+date: 2022-01-08 22:28:59
 image: 'https://m.media-amazon.com/images/I/51wA7pvAN6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Acción y Aventura','Comedia','DVD','Drama','Featured Categories','Pel�
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5
-comparePrice: 69.99 EUR
+comparePrice: 67.09 EUR
 prodname: 'UNIVERSAL - Doctor En Alaska - Megapack 2016 [DVD]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'UNIVERSAL'
 buyurl: 'https://www.amazon.es/dp/B01AWB6JT2/?tag=tolees-21'
-descuento: '47.85'
-average: '48.4695833333335'
+descuento: '45.60'
+average: '48.2253061224491'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Fest Bag Tref Mochilla de Deporte  Unisex Adulto  Black  NS'
-date: 2022-01-05 20:03:27
+date: 2022-01-08 22:32:00
 image: 'https://m.media-amazon.com/images/I/418IdGa3vaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07S7CKS9P/?tag=tolees-21'
 descuento: '48.51'
-average: '12.6386363636364'
+average: '12.4804347826087'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

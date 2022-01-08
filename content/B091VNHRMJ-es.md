@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Entertainment - La Liga de la Justicia de Zack Snyder  2 discos Blu-ray  [Blu-ray]'
-date: 2022-01-07 21:58:12
+date: 2022-01-08 22:35:58
 image: 'https://m.media-amazon.com/images/I/517U9YXG7CS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Entertainment'
 buyurl: 'https://www.amazon.es/dp/B091VNHRMJ/?tag=tolees-21'
 descuento: '47.49'
-average: '14.1882352941176'
+average: '13.9527777777777'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
