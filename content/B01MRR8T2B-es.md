@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Vaiana [DVD]'
-date: 2022-01-07 16:21:27
+date: 2022-01-08 16:31:25
 image: 'https://m.media-amazon.com/images/I/61mm7hGTk5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B01MRR8T2B/?tag=tolees-21'
 descuento: '44.13'
-average: '8.85230303030298'
+average: '8.84066465256793'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

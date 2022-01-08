@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bond: Colección Daniel Craig 4K UHD [Blu-ray]'
-date: 2022-01-07 11:17:45
+date: 2022-01-08 16:08:46
 image: 'https://m.media-amazon.com/images/I/41gBgcG0mHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XW6QWCG/?tag=tolees-21'
 descuento: '53.34'
-average: '47.0275000000001'
+average: '46.5124324324325'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

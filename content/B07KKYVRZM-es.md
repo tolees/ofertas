@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Animales Fantásticos: Los Crímenes De Grindelwald [DVD]'
-date: 2022-01-07 16:17:55
+date: 2022-01-08 16:38:34
 image: 'https://m.media-amazon.com/images/I/51OHMvnpBkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKYVRZM/?tag=tolees-21'
 descuento: '38.55'
-average: '8.0125'
+average: '7.73333333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

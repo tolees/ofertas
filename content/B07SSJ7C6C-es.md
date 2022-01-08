@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SD GAMES- Kimono  Color  SDGKIMONO01    color/modelo surtido'
-date: 2022-01-05 22:13:25
+date: 2022-01-08 15:53:18
 image: 'https://m.media-amazon.com/images/I/41aeI6IT8pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SD Games'
 buyurl: 'https://www.amazon.es/dp/B07SSJ7C6C/?tag=tolees-21'
 descuento: '38.80'
-average: '13.355'
+average: '12.9733333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Quieres ser la más elegante del imperio
-- Fabrica tu mejor kimono y brilla en la corte del emperador
-- Juego de cartas diseñado por hinata origuchi
-- Number of players: 2 a 4 jugadores
 - KIMONO
+- Juego de cartas diseñado por hinata origuchi
+- Quieres ser la más elegante del imperio
+- Number of players: 2 a 4 jugadores
+- Fabrica tu mejor kimono y brilla en la corte del emperador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas FS1896 CORE18 Hoody Sweat Mens Yellow XL'
-date: 2022-01-07 16:19:58
+date: 2022-01-08 16:42:53
 image: 'https://m.media-amazon.com/images/I/4128xnymMyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07XBM6FTP/?tag=tolees-21'
 descuento: '35.03'
-average: '27.7084615384616'
+average: '27.5857142857143'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha con cordón
 - regular fit
+- Capucha con cordón
 - bolsa de canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

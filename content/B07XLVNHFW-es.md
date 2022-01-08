@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Harry Potter y las Reliquias de la Muerte - Parte 2 [DVD]'
-date: 2022-01-07 09:57:23
+date: 2022-01-08 16:26:53
 image: 'https://m.media-amazon.com/images/I/51CM0L0AvvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLVNHFW/?tag=tolees-21'
 descuento: '44.13'
-average: '5.66333333333333'
+average: '5.4975'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

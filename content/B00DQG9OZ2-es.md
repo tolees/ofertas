@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Memoria flash USB 3.0 SanDisk Ultra de 32 GB  velocidad de lectura de hasta 130 MB/s'
-date: 2022-01-07 14:13:31
+date: 2022-01-08 16:52:07
 image: 'https://m.media-amazon.com/images/I/41n96AyPgRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B00DQG9OZ2/?tag=tolees-21'
 descuento: '64.52'
-average: '5.18892857142855'
+average: '5.15385964912279'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
