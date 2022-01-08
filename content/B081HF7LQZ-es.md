@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ibergrif M12052 Lucca  Set de Grifo  Mezclador de Ducha Retro con Alcachofa  Soporte  Manguera  Cromo  Plata'
-date: 2022-01-07 13:43:48
+date: 2022-01-08 17:06:09
 image: 'https://m.media-amazon.com/images/I/31Vv4FF6xjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Control de doble palanca
-- Latón macizo cromado
 - Válvula de disco de cerámica
-- Estilo vintage
 - Accesorios y accesorios incluidos
+- Latón macizo cromado
+- Estilo vintage
 
 [🛒 Visítala!!!]({{< param buyurl >}})
