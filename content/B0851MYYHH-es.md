@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney & Lucasfilm Ltd. - Pack Star Wars: The Skywalker Saga [Blu-Ray]'
-date: 2022-01-07 16:05:50
+date: 2022-01-09 11:51:34
 image: 'https://m.media-amazon.com/images/I/41lGV3rgn8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney & Lucasfilm Ltd.'
 buyurl: 'https://www.amazon.es/dp/B0851MYYHH/?tag=tolees-21'
 descuento: '47.80'
-average: '91.7627848101267'
+average: '91.5796226415096'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

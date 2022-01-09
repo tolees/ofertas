@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la correa: piel
-- Grosor de la caja: 13 mm; tamaño de la caja: 44 mm
-- Ancho de la correa: 22mm; Circunferencia de la correa: 200 +/- 5mm
-- Resistente al agua: 10 ATM
 - Se presenta en lata Fossil ilustrada de coleccionista (varios diseños)
+- Grosor de la caja: 13 mm; tamaño de la caja: 44 mm
+- Resistente al agua: 10 ATM
+- Material de la correa: piel
+- Ancho de la correa: 22mm; Circunferencia de la correa: 200 +/- 5mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

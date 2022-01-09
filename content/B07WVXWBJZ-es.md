@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pandora pig with wings sterling silver charm (798253)
 - Plata
+- Pandora pig with wings sterling silver charm (798253)
 - Pendientes joyería mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})

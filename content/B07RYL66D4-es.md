@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 373 Core  Zapatillas Hombre  Black/White Ca2  43 EU'
-date: 2022-01-07 22:40:54
+date: 2022-01-09 11:01:50
 image: 'https://m.media-amazon.com/images/I/313paLuAwPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B07RYL66D4/?tag=tolees-21'
 descuento: '42.11'
-average: '44.595'
+average: '44.84'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapatillas bajas
 - Piel: nobuck y gamuza
+- Zapatillas bajas
 - Altura del tacón: 1,5 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

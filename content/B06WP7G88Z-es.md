@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal - ¡Canta! [DVD]'
-date: 2022-01-08 10:16:56
+date: 2022-01-09 10:42:46
 image: 'https://m.media-amazon.com/images/I/51l7J-SbyaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Universal'
 buyurl: 'https://www.amazon.es/dp/B06WP7G88Z/?tag=tolees-21'
 descuento: '44.38'
-average: '6.64444444444444'
+average: '6.48'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

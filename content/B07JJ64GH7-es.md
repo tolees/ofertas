@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Hobbit 3: La Batalla De Los Cinco Ejercitos Blu-Ray Iconic [Blu-ray]'
-date: 2022-01-08 10:15:53
+date: 2022-01-09 10:59:09
 image: 'https://m.media-amazon.com/images/I/41XdG2ADNRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ64GH7/?tag=tolees-21'
 descuento: '36.07'
-average: '10.5343750000001'
+average: '10.3264705882354'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

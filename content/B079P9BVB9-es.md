@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SELECTA VISION - Dragon Ball Super. Box 4. [DVD]'
-date: 2022-01-08 10:22:24
+date: 2022-01-09 10:47:57
 image: 'https://m.media-amazon.com/images/I/61c5dpBVhwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SELECTA VISION'
 buyurl: 'https://www.amazon.es/dp/B079P9BVB9/?tag=tolees-21'
 descuento: '40.00'
-average: '23.7780434782609'
+average: '23.5912765957447'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
