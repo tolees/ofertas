@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hazte con el pack de 7 braguitas brasileñas de algodón.
 - Perfectas para tu día a día.
+- Hazte con el pack de 7 braguitas brasileñas de algodón.
 - Cómodo y súper práctico: una braguita para cada día de la semana.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

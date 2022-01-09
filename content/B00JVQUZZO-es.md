@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - El Libro De La Selva  2014  [DVD]'
-date: 2022-01-08 22:30:02
+date: 2022-01-09 22:31:33
 image: 'https://m.media-amazon.com/images/I/51NGyKL9+aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B00JVQUZZO/?tag=tolees-21'
 descuento: '39.39'
-average: '8.48030303030304'
+average: '8.46862416107384'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

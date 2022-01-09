@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resolución Full HD
 - Tecnologías Natural Colour Enhancer y Noise Reduction
-- Puertos: 2x HDMI, 1x USB, 1x Salida auriculares, 1x AV, 1x RJ-45
+- Resolución Full HD
 - Diseño doble peana, marcos reducidos, compatible VESA 100x200
+- Puertos: 2x HDMI, 1x USB, 1x Salida auriculares, 1x AV, 1x RJ-45
 - Sonido Dolby Audio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

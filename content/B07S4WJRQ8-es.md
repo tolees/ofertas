@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnson s Baby - Acondicionador spray No Más Tirones para niños  3 x 200 ml'
-date: 2022-01-08 15:37:12
+date: 2022-01-09 21:16:24
 image: 'https://m.media-amazon.com/images/I/51ALJqJUooL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Johnsons Baby'
 buyurl: 'https://www.amazon.es/dp/B07S4WJRQ8/?tag=tolees-21'
 descuento: '42.98'
-average: '6.41'
+average: '6.34714285714286'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
