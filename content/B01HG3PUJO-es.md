@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Vapour Pink/White/Gold Metalic  42 2/3 EU'
-date: 2022-01-07 22:21:14
+date: 2022-01-09 16:57:04
 image: 'https://m.media-amazon.com/images/I/41rwswa5aUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B01HG3PUJO/?tag=tolees-21'
 descuento: '50.03'
-average: '58.8771428571428'
+average: '58.4831034482758'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: cuero
-- Material de la suela: goma
 - Adecuado para: unisex-adulto
-- Material interior: tela
-- Talla: 42 2/3
 - Cierre: cordones
+- Material exterior: cuero
+- Material interior: tela
+- Material de la suela: goma
+- Talla: 42 2/3
 
 [🛒 Aquí!!!]({{< param buyurl >}})

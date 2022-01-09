@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - La Sirenita  2014  [DVD]'
-date: 2022-01-08 16:39:10
+date: 2022-01-09 16:42:19
 image: 'https://m.media-amazon.com/images/I/51tl7DTuOdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B00JVQUZWW/?tag=tolees-21'
 descuento: '44.13'
-average: '8.66272463768111'
+average: '8.65213872832365'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

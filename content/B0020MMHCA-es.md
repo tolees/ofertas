@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Old Skool  Zapatillas Unisex Adulto  Blanco  True White W00   39 EU'
-date: 2022-01-08 16:29:43
+date: 2022-01-09 16:56:09
 image: 'https://m.media-amazon.com/images/I/41bZFgMxtcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B0020MMHCA/?tag=tolees-21'
 descuento: '42.67'
-average: '50.9133333333333'
+average: '48.935'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- A estrenar y genuina. Somos un vendedor autorizado de Vans.
 - Ver descripción del producto para obtener más información.
 - Vans Blanco Zapatillas viejas de Skool
-- A estrenar y genuina. Somos un vendedor autorizado de Vans.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
