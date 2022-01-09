@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Cruella [Blu-ray]'
-date: 2022-01-08 04:02:40
+date: 2022-01-09 04:24:38
 image: 'https://m.media-amazon.com/images/I/51GiqPvrBhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Blu-ray','Fantasía','Featured Categories','Infantil y familiar','Pelí
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45
-comparePrice: 19.73 EUR
+comparePrice: 19.0 EUR
 prodname: 'Disney - Cruella [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B09BB7J6R6/?tag=tolees-21'
-descuento: '41.97'
-average: '13.884'
+descuento: '39.74'
+average: '13.7680952380952'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fox - Juego De Tronos Temporada 1-8 Colección Completa [DVD]'
-date: 2022-01-08 04:21:06
+date: 2022-01-09 04:36:55
 image: 'https://m.media-amazon.com/images/I/51ohU-frO5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fox'
 buyurl: 'https://www.amazon.es/dp/B07S2G67CW/?tag=tolees-21'
 descuento: '43.76'
-average: '84.0845405405406'
+average: '83.9953763440861'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

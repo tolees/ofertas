@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Cruella [DVD]'
-date: 2022-01-08 04:07:43
+date: 2022-01-09 04:27:59
 image: 'https://m.media-amazon.com/images/I/51zwbcr1BsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B09BB9TY2J/?tag=tolees-21'
 descuento: '44.72'
-average: '11.9264705882352'
+average: '11.8166666666666'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
