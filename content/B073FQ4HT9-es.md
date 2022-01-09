@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño clásico que encajará a la perfección con todos los estilos de cocina: con puerta efecto espejo, materiales de alta calidad y una gran capacidad interior de 70L.
-- Elimina la suciedad de la forma más cómoda: con cuba inferior preparada para la limpieza por agua, puerta desmontable y superficie sin tornillos a la vista, para quitar fácilmente los restos de grasa.
-- Cocina con total seguridad todos tus preparados: con puerta con doble cristal tan solo alcanza una temperatura media de 55°C; mientras que en el interior del horno es de 200°C.
-- Accesorios incluidos: guías telescópicas, 1 bandeja y 1 rejilla para hornear.
 - Tamaño horno | Tamaño hueco integración (alto x ancho x fondo): 59,5 x 59,5 x 56,7 CM| 58,5 x 56 x 56 CM.
+- Cocina con total seguridad todos tus preparados: con puerta con doble cristal tan solo alcanza una temperatura media de 55°C; mientras que en el interior del horno es de 200°C.
+- Elimina la suciedad de la forma más cómoda: con cuba inferior preparada para la limpieza por agua, puerta desmontable y superficie sin tornillos a la vista, para quitar fácilmente los restos de grasa.
 - Configura sus funciones de forma simple y rápida, gracias a los mandos intuitivos mecánicos: escoge entre sus 4 funciones de cocción, selecciona la temperatura deseada y elabora todas tus recetas fácilmente.
+- Diseño clásico que encajará a la perfección con todos los estilos de cocina: con puerta efecto espejo, materiales de alta calidad y una gran capacidad interior de 70L.
+- Accesorios incluidos: guías telescópicas, 1 bandeja y 1 rejilla para hornear.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
