@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Go Walk 5  Zapatillas Mujer  Black  36 EU'
-date: 2021-12-31 03:19:49
+date: 2022-01-09 09:53:26
 image: 'https://m.media-amazon.com/images/I/31jeT3LcIyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08FBK8GHX-es Skechers Go Walk 5 Zapatillas Mujer Black 36 EU'
 sku: 'B08FBK8GHX-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','skechers', ]
-actualPrice: 41.95 EUR
+actualPrice: 40.0 EUR
 currency: EUR
-price: 41.95
+price: 40.0
 comparePrice: 69.95 EUR
 prodname: 'Skechers Go Walk 5  Zapatillas Mujer  Black  36 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B08FBK8GHX/?tag=tolees-21'
-descuento: '40.03'
-average: '41.95'
+descuento: '42.82'
+average: '40.975'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
