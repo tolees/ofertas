@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ver descripción del producto para obtener más información.
-- Tommy Hilfiger Azul Zapatillas de ante icónicas de cuero
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
+- Tommy Hilfiger Azul Zapatillas de ante icónicas de cuero
+- Ver descripción del producto para obtener más información.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

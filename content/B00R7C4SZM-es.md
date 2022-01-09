@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Atractivo color rubí de capa media y ligeras tonalidades teja.
 - Capacidad: 75CL
+- Atractivo color rubí de capa media y ligeras tonalidades teja.
 - La elegancia de un gran clásico
 - Graduación: 13,5º
 

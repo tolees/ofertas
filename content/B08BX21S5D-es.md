@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas RUNFALCON 2.0  Zapatillas Mujer  Super Pop Cloud White Solar Red  38 2/3 EU'
-date: 2022-01-07 16:47:50
+date: 2022-01-09 12:48:39
 image: 'https://m.media-amazon.com/images/I/51fXRvWXFOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08BX21S5D/?tag=tolees-21'
 descuento: '50.10'
-average: '26.7833333333333'
+average: '26.325'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suela robusta
 - Material duradero
 - Ajuste normal
-- Suela robusta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
