@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resistente al agua hasta 100 m: apto para bañarse, nadar, hacer esnórquel y bucear en aguas poco profundas
-- Brazalete de acero inoxidable plateado
-- Caja redonda de acero inoxidable con esfera azul
-- Caja de 42 mm; correa de 22 mm de ancho; cristal mineral; movimiento de cuarzo con pantalla analógica de tres agujas y fecha; importado
 - Se presenta en caja de regalo Fossil
+- Caja de 42 mm; correa de 22 mm de ancho; cristal mineral; movimiento de cuarzo con pantalla analógica de tres agujas y fecha; importado
+- Resistente al agua hasta 100 m: apto para bañarse, nadar, hacer esnórquel y bucear en aguas poco profundas
+- Caja redonda de acero inoxidable con esfera azul
+- Brazalete de acero inoxidable plateado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

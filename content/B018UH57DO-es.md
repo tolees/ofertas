@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incluye 1,5 m dextension
-- Cadenas del PowerCube son posible hasta una carga max. de 10 A (2000 W)
 - Multiple con 5 tomas de corriente adicionales en un diseño cúbico evitando superposiciones de los cables
+- Cadenas del PowerCube son posible hasta una carga max. de 10 A (2000 W)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
