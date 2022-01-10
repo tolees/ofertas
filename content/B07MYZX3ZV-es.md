@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Solar Fuse  Zapatillas Deportivas Mujer  Multicolor  WMLT Black Knit Mesh/Multi Trim   35 EU'
-date: 2021-12-31 01:51:26
+date: 2022-01-10 02:08:11
 image: 'https://m.media-amazon.com/images/I/21uxs6Q7WnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07MYZX3ZV/?tag=tolees-21'
 descuento: '35.73'
-average: '48.6266666666667'
+average: '47.71'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
