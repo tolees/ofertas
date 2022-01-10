@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Jack & Jones Jjebasic Noos-Sudadera con Capucha  Gris Claro  XXL para Hombre'
-date: 2021-12-27 11:32:29
+title: 'JACK & JONES Jjebasic Noos - Sudadera con Capucha  Hombre  Gris  Gris Claro   XXL'
+date: 2022-01-10 09:47:12
 image: 'https://m.media-amazon.com/images/I/41u-dcqlyoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08KXYC41T-es Jack & Jones Jjebasic Noos-Sudadera con Capucha Gris Claro...'
+slug: 'B08KXYC41T-es JACK & JONES Jjebasic Noos - Sudadera con Capucha Hombre...'
 sku: 'B08KXYC41T-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','jack & jones', ]
-actualPrice: 20.82 EUR
+actualPrice: 21.39 EUR
 currency: EUR
-price: 20.82
+price: 21.39
 comparePrice: 34.99 EUR
-prodname: 'Jack & Jones Jjebasic Noos-Sudadera con Capucha  Gris Claro  XXL para Hombre'
+prodname: 'JACK & JONES Jjebasic Noos - Sudadera con Capucha  Hombre  Gris  Gris Claro   XXL'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08KXYC41T/?tag=tolees-21'
-descuento: '40.50'
-average: '20.82'
+descuento: '38.87'
+average: '21.105'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños y cintura acanalados
-- Composición: 85% algodón, 15% poliéster
-- Sudadera con capucha con cordones de ajuste
-- Ajuste estándar
+- Sudadera con capucha de color liso
+- Sudadera con capucha de algodón
+- Sudadera con capucha de material sostenible
+- Sudadera con capucha
+- Jersey sencillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
