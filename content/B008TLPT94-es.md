@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fox - Titanic -2012 [DVD]'
-date: 2022-01-09 04:24:07
+date: 2022-01-10 04:42:51
 image: 'https://m.media-amazon.com/images/I/51WfU5UDoML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fox'
 buyurl: 'https://www.amazon.es/dp/B008TLPT94/?tag=tolees-21'
 descuento: '49.95'
-average: '8.94028169014085'
+average: '8.88555555555556'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

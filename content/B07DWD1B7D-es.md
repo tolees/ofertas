@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures - Parque Jurásico 1-5  4K Uhd + Bd  [Blu-ray]'
-date: 2022-01-07 21:56:11
+date: 2022-01-10 04:36:02
 image: 'https://m.media-amazon.com/images/I/51xk5YeS0ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Universal Pictures'
 buyurl: 'https://www.amazon.es/dp/B07DWD1B7D/?tag=tolees-21'
 descuento: '41.01'
-average: '60.1377777777778'
+average: '59.374'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
