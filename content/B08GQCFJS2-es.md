@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material: 100% algodón
 - Dimensiones del embalaje del artículo: 11,3 x 30,8 x 20,8 W
+- Material: 100% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

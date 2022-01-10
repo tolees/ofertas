@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Medidas: longitud interior: 18,5 cm + 1,5 cm. Ancho: 2,5 cm
-- Acabado: pulido
 - Material: acero inoxidable
-- Incluye instrucciones de cuidado y lata de diseño de Fossil
+- Acabado: pulido
+- Medidas: longitud interior: 18,5 cm + 1,5 cm. Ancho: 2,5 cm
 - Color: plateado
+- Incluye instrucciones de cuidado y lata de diseño de Fossil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

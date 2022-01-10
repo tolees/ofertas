@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavable a máquina
 - Espuma viscoelástica
+- Lavable a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})

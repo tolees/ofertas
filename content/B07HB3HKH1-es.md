@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Figura Vault Boy (Nerd Rage) de Fallout
-- Con una medida de 9.5 cm
 - Fabricada en vinilo
+- Con una medida de 9.5 cm
+- Figura Vault Boy (Nerd Rage) de Fallout
 - Presentada en una caja con ventana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

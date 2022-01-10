@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox Woman D JAYSEN SNEAKERS WHITE 39 EU'
-date: 2022-01-09 22:57:25
-image: 'https://m.media-amazon.com/images/I/31yaNQW1mbL._SL500_._SL400_.jpg'
+title: 'Geox Woman D LEELU  SNEAKERS WHITE/OFF WHITE 37 EU'
+date: 2022-01-10 00:52:34
+image: 'https://m.media-amazon.com/images/I/41LKaJTCx+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08QNCQYKB-es Geox Woman D JAYSEN SNEAKERS WHITE 39 EU'
-sku: 'B08QNCQYKB-es'
+slug: 'B08QNF138M-es Geox Woman D LEELU SNEAKERS WHITE/OFF WHITE 37 EU'
+sku: 'B08QNF138M-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox', ]
-actualPrice: 45.21 EUR
+actualPrice: 39.58 EUR
 currency: EUR
-price: 45.21
+price: 39.58
 comparePrice: 109.9 EUR
-prodname: 'Geox Woman D JAYSEN SNEAKERS WHITE 39 EU'
+prodname: 'Geox Woman D LEELU  SNEAKERS WHITE/OFF WHITE 37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B08QNCQYKB/?tag=tolees-21'
-descuento: '58.86'
-average: '45.21'
+buyurl: 'https://www.amazon.es/dp/B08QNF138M/?tag=tolees-21'
+descuento: '63.99'
+average: '39.58'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Altura del tacón: 3 cm / 1.2 inch
 - Plantilla desmontable
 - Calce fácil de regular gracias al cierre con cordones
-- Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
+- Altura del tacón: 3 cm / 1.2 inch
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Calzado ligero para una libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
