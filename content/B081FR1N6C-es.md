@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Frozen 2 [Blu-ray]'
-date: 2022-01-08 04:01:45
+date: 2022-01-10 16:44:26
 image: 'https://m.media-amazon.com/images/I/5167OdE4+eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B081FR1N6C/?tag=tolees-21'
 descuento: '60.20'
-average: '13.0251104972376'
+average: '12.9753021978023'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
