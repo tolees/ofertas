@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Disney Toy Story 4 Pack de 10 amiguitos  Mini Figuras Básicas de Los Personajes de La Película  GCY86 '
-date: 2022-01-06 10:28:20
+date: 2022-01-10 14:25:54
 image: 'https://m.media-amazon.com/images/I/51O8k1TX5FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mattel'
 buyurl: 'https://www.amazon.es/dp/B07FWKMKJZ/?tag=tolees-21'
 descuento: '51.24'
-average: '16.0755172413792'
+average: '16.1896666666666'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

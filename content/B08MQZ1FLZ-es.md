@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA St Runner V2 SD V PS  Zapatillas  Peacoat Gray  29 EU'
-date: 2021-12-28 11:03:20
+date: 2022-01-10 13:48:13
 image: 'https://m.media-amazon.com/images/I/41dDOeupHqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B08MQZ1FLZ/?tag=tolees-21'
 descuento: '42.27'
-average: '29.1833333333333'
+average: '28.375'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bota baja
 - CMEVA: entresuela de EVA moldeada por compresión para un rendimiento ligero
 - SoftFoam+: la cómoda plantilla de Puma proporciona una amortiguación suave en cada paso del día
-- Bota baja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
