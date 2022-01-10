@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich Dash Sport 16 Exclusiva  Zapatillas Unisex Adulto  Negro  40 EU'
-date: 2022-01-07 12:36:30
+date: 2022-01-10 11:25:05
 image: 'https://m.media-amazon.com/images/I/31Xx19gojIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B08X1K55WS/?tag=tolees-21'
 descuento: '47.01'
-average: '40.505'
+average: '39.818'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

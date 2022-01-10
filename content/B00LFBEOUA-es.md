@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G402 Hyperion Fury Ratón Gaming con Cable  Seguimento Óptico 4 000 DPI  Peso Reducido  8 Botones Programables  PC/Mac - Negro'
-date: 2021-12-28 19:33:30
+date: 2022-01-10 12:48:05
 image: 'https://m.media-amazon.com/images/I/41qoDCcNixL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00LFBEOUA-es Logitech G402 Hyperion Fury Ratón Gaming con Cable...'
 sku: 'B00LFBEOUA-es'
 tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation - Psone','Accesorios para PlayStation 2','Accesorios para PlayStation 4','Accesorios para Xbox','Accesorios para Xbox One','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Juegos y Accesorios para PC','PlayStation 2: Juegos, consolas y accesorios','PlayStation: Juegos, consolas y accesorios','Ratones para gamers para PC','Sistemas heredados','Sistemas heredados de PlayStation','Sistemas heredados de Xbox','Videojuegos','Xbox: Juegos, consolas y accesorios','logitech', ]
-actualPrice: 32.09 EUR
+actualPrice: 29.74 EUR
 currency: EUR
-price: 32.09
+price: 29.74
 comparePrice: 59.99 EUR
 prodname: 'Logitech G402 Hyperion Fury Ratón Gaming con Cable  Seguimento Óptico 4 000 DPI  Peso Reducido  8 Botones Programables  PC/Mac - Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Logitech'
 buyurl: 'https://www.amazon.es/dp/B00LFBEOUA/?tag=tolees-21'
-descuento: '46.51'
-average: '36.4102083333332'
+descuento: '50.43'
+average: '36.3642068965516'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cambio de DPI sobre la Marcha: Incluye 4 valores de DPI ajustable para precisión extrema o para maniobras vertiginosas
-- 8 Botones Programables: Tiene 8 botones programables para configurar las acciones durante el gaming con ordenador, Mac o portátil
-- La Ciencia de Motor Fusion: Motor Fusion integrado en el ratón gaming alámbrico que ofrece una mayor velocidad de seguimiento
 - Ligerísimo: Este ratón inalámbrico para gaming G402 Hyperion Fury está hecho con materiales ultraligeros y tiene pies de baja fricción para poder jugar a toda velocidad
+- Cambio de DPI sobre la Marcha: Incluye 4 valores de DPI ajustable para precisión extrema o para maniobras vertiginosas
 - La marca de accesorios para gaming más vendida del mundo: Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming en unidades
 - Velocidad de Repuesta Rápida: Una velocidad de respuesta de 1 ms ofrece la seguridad de que cada uno de los movimientos se comunica a través de este ratón con cable USB
+- La Ciencia de Motor Fusion: Motor Fusion integrado en el ratón gaming alámbrico que ofrece una mayor velocidad de seguimiento
+- 8 Botones Programables: Tiene 8 botones programables para configurar las acciones durante el gaming con ordenador, Mac o portátil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
