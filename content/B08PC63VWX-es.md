@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lámpara de Lectura USB  Tom-shine Lámpara de Escritorio LED con Pinza  3 Modos de Luz y 10 Niveles de Brillo  360° Flexible  Lámpara de Mesa con Protección Ocular y función de memoria'
-date: 2022-01-10 11:17:52
+date: 2022-01-11 12:53:17
 image: 'https://m.media-amazon.com/images/I/41v1fP7NYVS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

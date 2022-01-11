@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Luca [DVD]'
-date: 2022-01-10 10:57:07
+date: 2022-01-11 11:09:40
 image: 'https://m.media-amazon.com/images/I/51Qf1PALQOS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B098K3F7SC/?tag=tolees-21'
 descuento: '45.03'
-average: '13.2809756097562'
+average: '13.187142857143'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
