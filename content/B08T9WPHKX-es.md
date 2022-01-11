@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'Lee Daren Button Fly  Jeans  Hombre  Azul  Dark Newberry   36W/30L'
+date: 2022-01-11 00:37:30
+image: 'https://m.media-amazon.com/images/I/41L4sXpGUwL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08T9WPHKX-es Lee Daren Button Fly Jeans Hombre Azul Dark Newberry 36W/30L'
+sku: 'B08T9WPHKX-es'
+tags: [ 'Ropa','Ropa para hombre','Vaqueros para hombre','lee', ]
+actualPrice: 64.98 EUR
+currency: EUR
+price: 64.98
+comparePrice: 129.95 EUR
+prodname: 'Lee Daren Button Fly  Jeans  Hombre  Azul  Dark Newberry   36W/30L'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Lee'
+buyurl: 'https://www.amazon.es/dp/B08T9WPHKX/?tag=tolees-21'
+descuento: '50.00'
+average: '64.98'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Cradle to Cradle
+- Bajo elástico
+- 15 oz
+
+[🛒 Comprar!!!]({{< param buyurl >}})
