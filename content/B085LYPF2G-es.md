@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Jumanji: 1995 + Bienvenidos a la Jungla + El Siguiente Nivel  BD  [Blu-ray]'
-date: 2022-01-07 18:40:40
+date: 2022-01-11 17:42:53
 image: 'https://m.media-amazon.com/images/I/51usTfNytjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B085LYPF2G/?tag=tolees-21'
 descuento: '39.55'
-average: '20.9900000000001'
+average: '20.1011111111112'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
