@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sensor lateral de huella con desbloqueo en 0.29 segundos
-- Sistema Operativo Realme UI, basado en Android 10
 - Cuádruple Cámara AI de 64MP, con lente gran angular de 119 grados
-- Batería de 4300mAh con carga flash de 30W, con carga completa en 60 minutos
 - 2 ranuras para SIM + 1 ranura para MicroSD
+- Sistema Operativo Realme UI, basado en Android 10
+- Batería de 4300mAh con carga flash de 30W, con carga completa en 60 minutos
+- Sensor lateral de huella con desbloqueo en 0.29 segundos
 - Pantalla Ultra Smooth de 90Hz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
