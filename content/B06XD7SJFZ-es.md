@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG 27MP59G-P - Monitor Gaming FHD de 68  6 cm  27"  con Panel IPS  1920 x 1080 píxeles  16:9  1 ms con MBR  75Hz  250 cd/m²  1000:1  sRGB >99%  D-SUB x1  HDMI x1  DP x1  Color Negro'
-date: 2022-01-06 07:30:02
+date: 2022-01-11 19:46:30
 image: 'https://m.media-amazon.com/images/I/416bGjX4J+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B06XD7SJFZ/?tag=tolees-21'
 descuento: '39.77'
-average: '153.124'
+average: '153.067857142857'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Interacción en tiempo real y sin retrasos gracias a Dynamic Action Sync (DAS Mode)
-- 1ms de velocidad de respuesta gracias a la tecnología Motion Blur Reduction
-- Muestra por encima del 99% del espectro de color sRGB
 - Tecnología RADEON FreeSync para disfrutar la acción sin parpadeos
 - Estabilizador de Negros (Tecnología Black Stabilizer) que permite colores oscuros diferenciados
+- 1ms de velocidad de respuesta gracias a la tecnología Motion Blur Reduction
+- Muestra por encima del 99% del espectro de color sRGB
 
 [🛒 Visítala!!!]({{< param buyurl >}})

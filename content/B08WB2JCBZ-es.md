@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste: normal
 - Estrechos en los muslos
-- Baja
 - Modelo: 38479
+- Baja
+- Ajuste: normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sennheiser HD 569 - Auriculares de Diadema Cerrados  6.3 mm/3.5 mm  micrófono  Control Remoto   Color Negro'
-date: 2022-01-10 16:05:33
+date: 2022-01-11 19:52:47
 image: 'https://m.media-amazon.com/images/I/41ZbMnCHEhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sennheiser'
 buyurl: 'https://www.amazon.es/dp/B01L1IIF1A/?tag=tolees-21'
 descuento: '53.37'
-average: '101.055833333333'
+average: '99.7030769230766'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
