@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox Woman D MYRIA SNEAKERS BLACK 41 EU'
-date: 2022-01-12 00:41:46
-image: 'https://m.media-amazon.com/images/I/31M+09DkEyL._SL500_._SL400_.jpg'
+title: 'Geox Woman D MYRIA SNEAKERS DK GREY 37 EU'
+date: 2022-01-12 00:08:15
+image: 'https://m.media-amazon.com/images/I/415tZUuENkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08QNCPNYT-es Geox Woman D MYRIA SNEAKERS BLACK 41 EU'
-sku: 'B08QNCPNYT-es'
+slug: 'B08QNCJSNW-es Geox Woman D MYRIA SNEAKERS DK GREY 37 EU'
+sku: 'B08QNCJSNW-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox', ]
-actualPrice: 43.54 EUR
+actualPrice: 37.2 EUR
 currency: EUR
-price: 43.54
-comparePrice: 99.9 EUR
-prodname: 'Geox Woman D MYRIA SNEAKERS BLACK 41 EU'
+price: 37.2
+comparePrice: 109.9 EUR
+prodname: 'Geox Woman D MYRIA SNEAKERS DK GREY 37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B08QNCPNYT/?tag=tolees-21'
-descuento: '56.42'
-average: '44.81'
+buyurl: 'https://www.amazon.es/dp/B08QNCJSNW/?tag=tolees-21'
+descuento: '66.15'
+average: '51.575'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Altura del tacón: 3 cm / 1.2 inch
-- Plantilla desmontable
 - Calce fácil y regulable con cremallera y cordones
+- Altura del tacón: 3 cm / 1.2 inch
 - Fácil de llevar para un confort optimo
+- Plantilla desmontable
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 
 [🛒 Aquí!!!]({{< param buyurl >}})
