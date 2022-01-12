@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'First 4 Figures- Spyro The Dragon PVC Estatua  Multicolor  5060316621783 '
-date: 2022-01-11 08:09:12
+date: 2022-01-12 14:03:37
 image: 'https://m.media-amazon.com/images/I/41zJx3sDXHS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'First 4 Figures'
 buyurl: 'https://www.amazon.es/dp/B07N38MKG8/?tag=tolees-21'
 descuento: '46.67'
-average: '55.8277272727273'
+average: '55.1395652173913'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
