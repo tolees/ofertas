@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Leggings Militares  Verde  M para Mujer'
-date: 2022-01-10 08:29:05
+date: 2022-01-12 10:50:11
 image: 'https://m.media-amazon.com/images/I/31JFmNDRjJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiro alto
-- Cintura elástica
 - Legging slim verde con cintura alta elástica, bolsillos cargo y un toque de inspiración militar. Nueva colección Mujer OI21 Desigual.
 - Machine Wash in Cold Water
+- Cintura elástica
 - Desigual - Legging slim de mujer con bolsillos cargos y color plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
