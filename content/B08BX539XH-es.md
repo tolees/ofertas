@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Runfalcon 2.0  Road Running Shoe Mujer  Super Pop/Cloud White/Solar Red  40 EU'
-date: 2022-01-08 18:02:05
+date: 2022-01-11 21:32:11
 image: 'https://m.media-amazon.com/images/I/51fXRvWXFOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suela robusta
 - Material duradero
 - Ajuste normal
-- Suela robusta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
