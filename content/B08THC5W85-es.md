@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desigual Accesorios - Cinturón básico de piel grabada
 - Piel de vaca grabada con cenefas a tono
+- Desigual Accesorios - Cinturón básico de piel grabada
 - Do Not Wash
 - Hebilla metálica en forma de media luna
 - Cinturón básico de piel grabada con cenefas a tono y hebilla metálica en forma de media luna Nueva colección Accesorios OI21 Desigual.

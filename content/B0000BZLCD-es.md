@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Filtra UV a la vez que protege la lente
-- Montura F-Pro. Alta estabilidad mecánica
 - Cristal óptico incoloro de alta calidad.
+- Montura F-Pro. Alta estabilidad mecánica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
