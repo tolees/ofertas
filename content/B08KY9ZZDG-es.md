@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital My Book 18 TB Disco duro de escritorio con USB 3.0 con software de protección con contraseña y copia de seguridad automática'
-date: 2022-01-10 12:46:11
+date: 2022-01-12 19:00:24
 image: 'https://m.media-amazon.com/images/I/31RrHf4-TnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B08KY9ZZDG/?tag=tolees-21'
 descuento: '41.80'
-average: '369.49'
+average: '361.59'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hasta 18 TB de capacidad
-- Protección con contraseña y hardware de cifrado
 - Software WD Discovery para WD Security, importación de almacenamiento en redes sociales y en la nube, y WD Drive Utilities
+- Protección con contraseña y hardware de cifrado
+- Hasta 18 TB de capacidad
 - Copia de seguridad automática con el software WD Backup incluido y compatible con Time Machine
 - Fácil de usar
 
