@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - MicroSDHC
 - Clase 10
-- 16GB
 - Kingston SecureDigital
+- 16GB
 
 [🛒 Visítala!!!]({{< param buyurl >}})
