@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Power Cube - POWERCUBE EXTENDED'
-date: 2022-01-09 18:59:33
+date: 2022-01-13 08:50:14
 image: 'https://m.media-amazon.com/images/I/31bSPpSBtAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Power Cube'
 buyurl: 'https://www.amazon.es/dp/B018UH57DO/?tag=tolees-21'
 descuento: '39.21'
-average: '11.3467741935484'
+average: '11.3251515151515'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cadenas del PowerCube son posible hasta una carga max. de 10 A (2000 W)
 - Incluye 1,5 m dextension
 - Multiple con 5 tomas de corriente adicionales en un diseño cúbico evitando superposiciones de los cables
-- Cadenas del PowerCube son posible hasta una carga max. de 10 A (2000 W)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo FH 5525 - Calefactor  2 niveles de potencia  función ventilador aire frío  calor instantáneo  termostato regulable  2000 W'
-date: 2022-01-06 10:15:20
+date: 2022-01-13 08:37:10
 image: 'https://m.media-amazon.com/images/I/41Xhx37XdtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Orbegozo'
 buyurl: 'https://www.amazon.es/dp/B00OXMSOAO/?tag=tolees-21'
 descuento: '37.90'
-average: '15.6440127388539'
+average: '15.6216455696206'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cuenta con apagado automático de seguridad y protección contra sobrecalentamiento
 - Dimensiones: 23 x 18 x 13 cm
-- Calefactor de aire Orbegozo con diseño en color blanco y rijilla azul
 - Dos niveles de potencia: 1000 W y 2000 W; Incorpora función ventilador con temperatura ambiente
+- Calefactor de aire Orbegozo con diseño en color blanco y rijilla azul
 - Termostato con ajuste progresivo y luz indicadora de encendido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
