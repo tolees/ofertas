@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RevitaLAB - Crema hidratante antiarrugas de día y de noche con colágeno enriquecida con ácido hialurónico  L-arginina  retinol y un filtro UVA/UVB  franja de edad 50-65  50 ml'
-date: 2022-01-06 20:21:07
+date: 2022-01-13 14:10:51
 image: 'https://m.media-amazon.com/images/I/41RlURMJMKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B084BHPQRZ-es RevitaLAB - Crema hidratante antiarrugas de día y de noche...'
 sku: 'B084BHPQRZ-es'
 tags: [ 'Belleza','Cremas diurnas faciales','Cremas nocturnas faciales','Cuidado diurno facial','Cuidado nocturno facial','Hidratantes faciales','Productos para el cuidado de la cara','Productos para el cuidado de la piel','revitalab', ]
-actualPrice: 5.45 EUR
+actualPrice: 5.35 EUR
 currency: EUR
-price: 5.45
+price: 5.35
 comparePrice: 10.29 EUR
 prodname: 'RevitaLAB - Crema hidratante antiarrugas de día y de noche con colágeno enriquecida con ácido hialurónico  L-arginina  retinol y un filtro UVA/UVB  franja de edad 50-65  50 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'RevitaLAB'
 buyurl: 'https://www.amazon.es/dp/B084BHPQRZ/?tag=tolees-21'
-descuento: '47.04'
-average: '5.485'
+descuento: '48.01'
+average: '5.44'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

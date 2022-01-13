@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alta Calidad y Resistente
-- Marca: Philips
 - Tipo/Base: WY21W 12V21W WX3x16d B2
+- Marca: Philips
+- Alta Calidad y Resistente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
