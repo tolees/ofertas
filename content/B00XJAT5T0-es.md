@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Papelera de 11 litros, con capacidad de destrucción diaria para 100 hojas
 - Destruye hasta 5 hojas de 70 gr. en tiras de 7mm (nivel de seguridad básico, P-1)
 - Destructora de diseño compacto y cabezal extraíble para un fácil vaciado de la papelera
-- Papelera de 11 litros, con capacidad de destrucción diaria para 100 hojas
 - Ciclo de Trabajo 2 min. Dimensiones: 28,6 x 15,3 x 29,9 cm.
 - Diseñada para un uso ocasional. Hogar y oficina en casa. 1 usuario
 
