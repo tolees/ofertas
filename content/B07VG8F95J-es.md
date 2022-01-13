@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney Pictures - El Rey León DVD  imagen real '
-date: 2022-01-11 05:09:03
+date: 2022-01-13 05:28:30
 image: 'https://m.media-amazon.com/images/I/51hwg6UK9WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Animación','DVD','Featured Categories','Películas','Películas y TV',
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0
-comparePrice: 6.49 EUR
+comparePrice: 5.49 EUR
 prodname: 'Walt Disney Pictures - El Rey León DVD  imagen real '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Walt Disney Pictures'
 buyurl: 'https://www.amazon.es/dp/B07VG8F95J/?tag=tolees-21'
-descuento: '53.78'
-average: '10.6873469387754'
+descuento: '45.36'
+average: '10.6251012145748'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

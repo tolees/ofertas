@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mary Poppins [DVD]'
-date: 2022-01-10 04:34:13
+date: 2022-01-13 05:38:57
 image: 'https://m.media-amazon.com/images/I/516VKMCwfaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0053CAGAE/?tag=tolees-21'
 descuento: '38.66'
-average: '7.97913580246913'
+average: '7.93387878787878'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
