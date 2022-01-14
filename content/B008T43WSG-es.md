@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'T nB MINI Boombox - Funda para auriculares  negro'
-date: 2022-01-04 22:28:44
+date: 2022-01-14 17:58:00
 image: 'https://m.media-amazon.com/images/I/31f+97i5o-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TnB'
 buyurl: 'https://www.amazon.es/dp/B008T43WSG/?tag=tolees-21'
 descuento: '39.49'
-average: '6.615'
+average: '6.49'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Composición EVA
 - Fácil de llevar
 - Características: Material exterior PU
-- Composición EVA
 
 [🛒 Aquí!!!]({{< param buyurl >}})

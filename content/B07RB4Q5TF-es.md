@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marvel - Vengadores: Endgame [DVD]'
-date: 2022-01-11 17:12:05
+date: 2022-01-14 17:46:22
 image: 'https://m.media-amazon.com/images/I/51ud1JVwWoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Marvel'
 buyurl: 'https://www.amazon.es/dp/B07RB4Q5TF/?tag=tolees-21'
 descuento: '44.25'
-average: '10.1201754385961'
+average: '10.0535497835494'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

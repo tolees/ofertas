@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pyrex P586 Jarra de medición  500 ml'
-date: 2022-01-13 09:04:50
+date: 2022-01-14 17:58:28
 image: 'https://m.media-amazon.com/images/I/41NwDsucsLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho de vidrio
+- Capacidad de 500 mililitros
 - Fácil de usar
 - alto rendimiento
-- Capacidad de 500 mililitros
+- Hecho de vidrio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
