@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Luca [Blu-ray]'
-date: 2022-01-11 10:57:39
+date: 2022-01-14 11:57:41
 image: 'https://m.media-amazon.com/images/I/5173CBhL4xS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B098K6CWZN/?tag=tolees-21'
 descuento: '51.95'
-average: '17.2881395348837'
+average: '16.7476086956522'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
