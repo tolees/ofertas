@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Set de Cocinita “My Little Chef” para los más peques. Incluye 30 accesorios. En color Rojo o Rosa.
+- Medidas: 52cm x72cm x 26cm por favor revise medidas antes de comprar
 - Edad recomendada: A partir de 3 años (debido a piezas pequeñas) Ver imágenes para más detalle.
 - Juego de imitación: perfecto para actividades recreativas y desarrollo de la imaginación.
-- Set de Cocinita “My Little Chef” para los más peques. Incluye 30 accesorios. En color Rojo o Rosa.
 - Fácil de montar y colocar. Robusta, estable. Materiales seguros, NO Tóxicos.
-- Medidas: 52cm x72cm x 26cm por favor revise medidas antes de comprar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
