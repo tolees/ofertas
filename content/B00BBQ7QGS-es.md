@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Babaria - Jabón De Manos de Coco&Aloe  Blanco  500 ml'
-date: 2022-01-13 08:48:05
-image: 'https://m.media-amazon.com/images/I/41txebBCS8L._SL500_._SL400_.jpg'
+date: 2022-01-14 15:08:27
+image: 'https://m.media-amazon.com/images/I/41geECn+6LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Babaria'
 buyurl: 'https://www.amazon.es/dp/B00BBQ7QGS/?tag=tolees-21'
 descuento: '60.23'
-average: '1.71810483870965'
+average: '1.71682730923692'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 500 g
-- Tipo de piel: Todas
 - facil de usar
-- Número de modelo del producto: 8410412027021
 - Este producto está indicado tanto para mujeres como para hombres
+- 500 g
+- Número de modelo del producto: 8410412027021
+- Tipo de piel: Todas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
