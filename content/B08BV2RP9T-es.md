@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dimensiones del embalaje del artículo: 12,7 x 35,2 x 22,7 W
 - Tipo de tejido: 100% textil (67% elastano + 33% poliéster)
+- Dimensiones del embalaje del artículo: 12,7 x 35,2 x 22,7 W
 
 [🛒 Comprar!!!]({{< param buyurl >}})
