@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment- Rue Morgue Game Tiles  Color  EDGZG64 '
-date: 2022-01-13 15:29:16
+date: 2022-01-15 20:19:14
 image: 'https://m.media-amazon.com/images/I/610AxX07RzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B00WKH5RXG/?tag=tolees-21'
 descuento: '53.39'
-average: '11.9883333333333'
+average: '11.9371428571428'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Expansion para zombicide
 - Rue morgue game tiles
+- Expansion para zombicide
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
