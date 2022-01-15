@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Fate Extella Link'
-date: 2022-01-14 07:35:49
+date: 2022-01-15 14:04:12
 image: 'https://m.media-amazon.com/images/I/51R76UPoAvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B07KMPY64C/?tag=tolees-21'
 descuento: '64.09'
-average: '21.45'
+average: '20.75'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

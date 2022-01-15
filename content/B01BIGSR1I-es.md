@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital - WD 12TB My Cloud EX2 Ultra Almacenamiento en red'
-date: 2022-01-14 06:42:35
+date: 2022-01-15 14:29:24
 image: 'https://m.media-amazon.com/images/I/41uUNNqG2IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B01BIGSR1I/?tag=tolees-21'
 descuento: '46.70'
-average: '413.715'
+average: '408.194545454545'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Equipado con My Cloud OS 3
+- 1 GB de memoria DDR3 para poder realizar varias tareas con facilidad
 - Sincronización automática de archivos en todos sus ordenadores
 - Procesador de dos núcleos de alto rendimiento a 1,3 GHz para una transmisión sin interrupciones
 - Almacenamiento en red centralizado y acceso desde cualquier lugar
-- 1 GB de memoria DDR3 para poder realizar varias tareas con facilidad
-- Equipado con My Cloud OS 3
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
