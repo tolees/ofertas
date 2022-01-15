@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tejido acolchado con tacto de piel de melocotón
-- Do Not Wash
 - Monedero alargado blanco con cierre de cremallera. Confeccionado en tejido acolchado con tacto de piel de melocotón. Nueva colección Accesorios OI21 Desigual.
-- Maxi-tirador en tejido efecto piel
 - Desigual Accesorios - Monedero alargado acolchado con tacto de piel de melocotón
+- Maxi-tirador en tejido efecto piel
+- Do Not Wash
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
