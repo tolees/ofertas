@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moulinex FG360D11 Cafetera de goteo  1000 W  1.25 L  color negro y rojo'
-date: 2022-01-14 13:12:01
+date: 2022-01-15 16:45:07
 image: 'https://m.media-amazon.com/images/I/41RGKRn+jcS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Moulinex'
 buyurl: 'https://www.amazon.es/dp/B00P0GE2D0/?tag=tolees-21'
 descuento: '39.54'
-average: '38.525'
+average: '35.918'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Función de mantenimiento en caliente: 30 minutos
+- Potencia de 1000 W
 - Botón apagado/encendido
 - Nivel de agua visible
-- Función de mantenimiento en caliente: 30 minutos
 - Dispositivo antigoteo
-- Potencia de 1000 W
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

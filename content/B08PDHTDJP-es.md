@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Edie-Chaqueta Plegable  Desert Sage  M para Mujer'
-date: 2022-01-12 20:35:40
+date: 2022-01-15 15:20:52
 image: 'https://m.media-amazon.com/images/I/41f60KXdXDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08PDHTDJP/?tag=tolees-21'
 descuento: '61.57'
-average: '46.75'
+average: '47.8166666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
