@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pink Royal - Rosa Royal Dry Gin  1 x 0 7 l '
-date: 2022-01-03 09:57:53
+date: 2022-01-15 08:03:19
 image: 'https://m.media-amazon.com/images/I/51bdBUL88CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pink Royal'
 buyurl: 'https://www.amazon.es/dp/B01EYY39QY/?tag=tolees-21'
 descuento: '52.18'
-average: '19.4775'
+average: '18.9669230769231'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
