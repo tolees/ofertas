@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'deAO Cocinita de Juguete Mi Little Chef con 30 Accesorios Incluidos  Color Rojo'
-date: 2022-01-13 23:40:40
+date: 2022-01-14 23:48:31
 image: 'https://m.media-amazon.com/images/I/5151BYHgBtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'deAO'
 buyurl: 'https://www.amazon.es/dp/B00EMKBLIY/?tag=tolees-21'
 descuento: '36.51'
-average: '34.5523333333332'
+average: '34.7277419354837'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

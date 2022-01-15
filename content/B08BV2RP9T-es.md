@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Sport Run SPIN 0721 1 SMA  Zapatillas Hombre  Wht/Nvy  43 EU'
-date: 2022-01-11 17:13:55
+date: 2022-01-14 23:38:29
 image: 'https://m.media-amazon.com/images/I/419VHd-WUkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B08BV2RP9T/?tag=tolees-21'
 descuento: '42.50'
-average: '76.5'
+average: '72.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

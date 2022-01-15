@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney Pictures - El Rey León DVD  imagen real '
-date: 2022-01-13 05:28:30
+date: 2022-01-14 23:50:39
 image: 'https://m.media-amazon.com/images/I/51hwg6UK9WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Walt Disney Pictures'
 buyurl: 'https://www.amazon.es/dp/B07VG8F95J/?tag=tolees-21'
 descuento: '45.36'
-average: '10.6251012145748'
+average: '10.5943548387096'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
