@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de malla y piel sintética
 - Bota baja
 - IMEVA: material de Puma para una sensación ligera y cómoda
+- Parte superior de malla y piel sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})

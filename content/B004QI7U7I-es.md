@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'edding 1200/2metallic - Blister con 2 rotuladores  color oro / plata metálicos'
-date: 2022-01-14 09:01:40
+date: 2022-01-15 09:12:14
 image: 'https://m.media-amazon.com/images/I/31PAiRVYWVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edding'
 buyurl: 'https://www.amazon.es/dp/B004QI7U7I/?tag=tolees-21'
 descuento: '38.77'
-average: '2.16555555555556'
+average: '2.148'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
