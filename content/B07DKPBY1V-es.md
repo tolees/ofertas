@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jfwvision Classic Mixed  Zapatillas Hombre  Gris  Anthracite Anthracite   40 EU'
-date: 2022-01-11 20:07:38
+date: 2022-01-16 13:35:00
 image: 'https://m.media-amazon.com/images/I/21n5EyOL7pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
