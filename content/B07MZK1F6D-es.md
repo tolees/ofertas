@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Graphic 8 T-Shirt  Weiß  White 336-110   M para Hombre'
-date: 2022-01-13 18:56:10
+date: 2022-01-16 11:12:47
 image: 'https://m.media-amazon.com/images/I/41J-IAB04XS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'G-STAR RAW'
 buyurl: 'https://www.amazon.es/dp/B07MZK1F6D/?tag=tolees-21'
 descuento: '50.02'
-average: '15.9725'
+average: '15.772'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta
-- Estilo del cuello: Cuello redondo
-- Lavar a máquina - caliente (mayor de 30 °)
 - Manga corta
+- Lavar a máquina - caliente (mayor de 30 °)
 - 100% Algodón
+- Estilo del cuello: Cuello redondo
+- Camiseta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
