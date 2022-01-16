@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Auténtica ropa de trabajo con un ajuste que favorece la figura
 - Esta versión de los vaqueros G-Star Midge está inspirada en un ajuste recto y cintura alta.
 - Cintura normal
+- Auténtica ropa de trabajo con un ajuste que favorece la figura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
