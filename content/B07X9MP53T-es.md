@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas FS1898 CORE18 SW Top Pullover Mens Bold Green M'
-date: 2022-01-15 18:04:59
+date: 2022-01-16 18:10:57
 image: 'https://m.media-amazon.com/images/I/41P1ooGs3lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07X9MP53T/?tag=tolees-21'
 descuento: '39.83'
-average: '26.4'
+average: '26.01'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Presenta ajuste regular
-- Mangas con ribetes en contraste
 - Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 - Puños y dobladillo de canalé
+- Mangas con ribetes en contraste
 
 [🛒 Aquí!!!]({{< param buyurl >}})
