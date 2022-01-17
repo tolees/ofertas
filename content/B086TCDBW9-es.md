@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 500 Core Metallic Pack  Zapatillas para Mujer  NB Navy  35 EU'
-date: 2022-01-04 11:43:56
+date: 2022-01-17 03:01:13
 image: 'https://m.media-amazon.com/images/I/41tb3n3I15S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B086TCDBW9/?tag=tolees-21'
 descuento: '37.33'
-average: '47.77'
+average: '47.5775'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- X
+- Logotipo Flying NB para un aspecto deportivo
 - Volumen: 500 ml
 - Tapa deportiva de succión LDPE para un sellado a prueba de fugas y fácil de beber
-- Logotipo Flying NB para un aspecto deportivo
-- X
 
 [🛒 Comprar!!!]({{< param buyurl >}})
