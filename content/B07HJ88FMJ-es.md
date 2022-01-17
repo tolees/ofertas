@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Vinyl: Animation: Rick & Morty: Kiara Rick and Morty Figura de vinilo - coleccionable  Multicolor  35594 '
-date: 2022-01-12 14:15:18
+date: 2022-01-17 15:21:46
 image: 'https://m.media-amazon.com/images/I/5151OYZ2unL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07HJ88FMJ/?tag=tolees-21'
 descuento: '37.37'
-average: '10.1264705882353'
+average: '10.1188888888889'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

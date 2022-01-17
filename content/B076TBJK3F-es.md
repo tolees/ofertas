@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers OG 85-Old School Cool  Zapatillas Altas Mujer  Multicolor  Wht Black Duraleather/Silver Glitter Trim   37.5 EU'
-date: 2022-01-09 02:43:30
+date: 2022-01-17 14:44:37
 image: 'https://m.media-amazon.com/images/I/41bw+gMYhQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela: Caucho
 - Cierre: Cordones
+- Material de la suela: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

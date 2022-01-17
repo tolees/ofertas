@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Router 4C N300 - White*300 Mbps. *64 MB de RAM *4 antenas externas.* Hasta 64 dispositivos *Fácil configuración.* Diseño elegante.'
-date: 2022-01-15 19:03:10
+date: 2022-01-17 14:32:31
 image: 'https://m.media-amazon.com/images/I/31KcYTBdfrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B085FVKSMC/?tag=tolees-21'
 descuento: '42.47'
-average: '12.1179687500004'
+average: '12.1084615384619'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones del producto : 23 x 13 x 3 cm
-- La RAM es de 64 MB y la ROM es de 16 MB, lo que significa que puede transportar hasta 64 dispositivos
-- Función de gestión inteligente para el control remoto
-- 4 antenas externas con tecnología de conexión avanzada que te permite mantener velocidades increíbles incluso a grandes distancias
 - Utilizando la aplicación miwifi, es muy cómodo de configurar y gestionar tu internet, también tiene muchas funciones útiles, como el control parental, la red de invitados
+- 4 antenas externas con tecnología de conexión avanzada que te permite mantener velocidades increíbles incluso a grandes distancias
+- Función de gestión inteligente para el control remoto
+- La RAM es de 64 MB y la ROM es de 16 MB, lo que significa que puede transportar hasta 64 dispositivos
+- Dimensiones del producto : 23 x 13 x 3 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
