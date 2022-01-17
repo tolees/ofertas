@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Ozsee Mochila  Unisex Adulto  Black/Black/Steel  005   One Size'
-date: 2022-01-13 14:14:27
+date: 2022-01-16 21:16:02
 image: 'https://m.media-amazon.com/images/I/41XXn-L6w7S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Under Armour'
 buyurl: 'https://www.amazon.es/dp/B0875CDXBQ/?tag=tolees-21'
 descuento: '40.00'
-average: '12.042'
+average: '11.53'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
