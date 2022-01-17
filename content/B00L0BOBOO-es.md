@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RIERA - Cocedor Huevos Microondas  1 unidad  colores/modelos surtidos'
-date: 2022-01-14 18:11:30
+date: 2022-01-17 09:20:30
 image: 'https://m.media-amazon.com/images/I/41jRVKsLcLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1 unidad
 - Modo de empleo: Ponga el huevo en este hervidor de huevos, agregue un poco de agua, enrosque la tapa y póngalo en el microondas.
+- 1 unidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
