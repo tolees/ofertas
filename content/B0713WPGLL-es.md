@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital - WD Elements - Disco duro externo portátil de 4 TB con USB 3.0  color negro'
-date: 2022-01-15 14:09:47
+date: 2022-01-17 18:50:58
 image: 'https://m.media-amazon.com/images/I/31h2rp12GjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B0713WPGLL/?tag=tolees-21'
 descuento: '46.80'
-average: '94.7591034482758'
+average: '94.6784931506849'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
