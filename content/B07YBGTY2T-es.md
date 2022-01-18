@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvg 710 Super Skinny Jean Pantalones Complex para Niñas'
-date: 2022-01-06 16:02:33
+date: 2022-01-18 13:34:20
 image: 'https://m.media-amazon.com/images/I/41imr4JcZBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis kids'
 buyurl: 'https://www.amazon.es/dp/B07YBGTY2T/?tag=tolees-21'
 descuento: '37.62'
-average: '27.33'
+average: '26.9333333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

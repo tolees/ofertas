@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Go Walk Stability Progress  Zapatillas Hombre  Blue/Red  41 EU'
-date: 2022-01-17 14:35:54
+date: 2022-01-18 14:43:23
 image: 'https://m.media-amazon.com/images/I/41mJFCwORPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B08DW6P6FS/?tag=tolees-21'
 descuento: '40.29'
-average: '48.6'
+average: '47.3166666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
