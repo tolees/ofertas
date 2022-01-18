@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Accessories 2 608 690 146 Tools  0 W  0 V  Negro  40x250mm'
-date: 2022-01-16 19:02:43
+date: 2022-01-18 09:24:43
 image: 'https://m.media-amazon.com/images/I/21X8ws+CrQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto adecuado para numerosas tareas de bricolaje y en el campo profesional
 - Longitud total: 250 mm
-- Filo del cincel: 40 mm
 - Accesorio para herramientas eléctricas
+- Producto adecuado para numerosas tareas de bricolaje y en el campo profesional
+- Filo del cincel: 40 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

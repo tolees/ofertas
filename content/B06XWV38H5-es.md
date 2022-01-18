@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Cordones
-- Composición: Empeine de malla y ante
 - Tipo de tacón: Plano
+- Anchura del zapato: Normal
 - Revestimiento: Tela
+- Composición: Empeine de malla y ante
 - Material exterior: Cuero
 - Material de la suela: Sintético
-- Anchura del zapato: Normal
+- Cierre: Cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
