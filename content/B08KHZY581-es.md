@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston DataTraveler Kyson Unidad Flash USB3.2  256GB-con Elegante Carcasa metálica sin capuchón'
-date: 2022-01-15 10:40:31
+date: 2022-01-18 07:57:01
 image: 'https://m.media-amazon.com/images/I/315crh5ThBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Código de artículo: DTKN/256GB
-- Con una funcional presilla para engancharla al llavero
-- Velocidades de hasta 200 MB/s en lectura¹
 - Elegante diseño metalizado sin capuchón
+- Con una funcional presilla para engancharla al llavero
+- Código de artículo: DTKN/256GB
+- Velocidades de hasta 200 MB/s en lectura¹
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
