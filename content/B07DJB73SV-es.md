@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Cordones
 - Revestimiento: Tela
-- Tipo de tacón: Plano
-- Composición: Empeine de malla/ante
 - Material exterior: Cuero
 - Material de la suela: Sintético
+- Composición: Empeine de malla/ante
+- Cierre: Cordones
+- Tipo de tacón: Plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
