@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavable a máquina
-- MF refrigerado por aire
 - Ajuste elástico
+- MF refrigerado por aire
+- Lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
