@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 997H Core  Zapatillas Hombre  Marblehead  37.5 EU'
-date: 2022-01-16 23:56:28
+date: 2022-01-17 23:58:46
 image: 'https://m.media-amazon.com/images/I/41vRvaR9VWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B07DJB73SV/?tag=tolees-21'
 descuento: '39.46'
-average: '67.5655'
+average: '66.9428571428572'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento: Tela
 - Cierre: Cordones
+- Revestimiento: Tela
 - Tipo de tacón: Plano
-- Material exterior: Cuero
 - Composición: Empeine de malla/ante
+- Material exterior: Cuero
 - Material de la suela: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
