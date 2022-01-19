@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- departamento 1: hombre
 - Tipo de tacón: no especificado
+- departamento 1: hombre
+- Base: plástico de alta calidad
 - Altura del tacón: 1 cm
 - Forro: forro textil
-- Base: plástico de alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

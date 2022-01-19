@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Deco M5  3-Pack  - AC1300 Wi-Fi Mesh  cobertura hasta 500 m²  Doble Banda 2.4 GHz/5 GHz  2 x puertos Gigabit por unidad  CPU de 4 núcleos  función Router y Punto de acceso'
-date: 2022-01-15 23:54:10
+date: 2022-01-19 12:43:33
 image: 'https://m.media-amazon.com/images/I/31P1ZdSKLEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B072BZ62QS-es TP-Link Deco M5 3-Pack - AC1300 Wi-Fi Mesh cobertura hasta...'
 sku: 'B072BZ62QS-es'
 tags: [ 'Dispositivos de red','Informática','Sistemas WiFi Mesh','tp-link', ]
-actualPrice: 168.99 EUR
+actualPrice: 172.99 EUR
 currency: EUR
-price: 168.99
+price: 172.99
 comparePrice: 299.0 EUR
 prodname: 'TP-Link Deco M5  3-Pack  - AC1300 Wi-Fi Mesh  cobertura hasta 500 m²  Doble Banda 2.4 GHz/5 GHz  2 x puertos Gigabit por unidad  CPU de 4 núcleos  función Router y Punto de acceso'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B072BZ62QS/?tag=tolees-21'
-descuento: '43.48'
-average: '183.493356643356'
+descuento: '42.14'
+average: '183.2501369863'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
