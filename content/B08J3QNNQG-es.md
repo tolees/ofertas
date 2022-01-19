@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi YTC4044GL MI SMART HOME HUB'
-date: 2022-01-18 07:58:39
+date: 2022-01-19 08:46:36
 image: 'https://m.media-amazon.com/images/I/21XIMaQTCaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08J3QNNQG/?tag=tolees-21'
 descuento: '39.67'
-average: '20.44'
+average: '19.64'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Mayor cobertura, integra los 3 protocolos de comunicación inalámbrica más comunes.
-- Posee cuatro tipos de protección de alarma o modo guardián.
 - Admite hasta un total de 32 sub-dispositivos conectados a la vez.
 - Gracias a su estructura de antena dual WiFi, proporciona una señal más estable.
+- Posee cuatro tipos de protección de alarma o modo guardián.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
