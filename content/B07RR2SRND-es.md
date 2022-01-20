@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- cabello sedoso y brillante: sofisticado ritual ultra reparador de acción inmediata a base de aceite de argán que posee un alto contenido en ácidos grasos y vitamina e, que ayudan a transformar el cabello maltratado en un cabello sedoso, brillante, renovado y manejable en una fórmula libre de sal, sulfatos y parabenos.
 - nueva fórmula: su nueva fórmula exclusiva libre de sal, sulfatos y parabenos asegura una experiencia delicada para un cabello hermoso y brillante.
-- Unidades: 235.0
-- 3x1: este pack contiene un champú placenta life repair argan de 100 ml, un acondicionador placenta life repair argan de 100 ml y una mascarilla placenta life repair argan de 35 gr.
-- cabello dañado: ideal para cabellos maltratados o dañados.
 - Unidad de medida: mililitro
+- Unidades: 235.0
+- cabello dañado: ideal para cabellos maltratados o dañados.
+- 3x1: este pack contiene un champú placenta life repair argan de 100 ml, un acondicionador placenta life repair argan de 100 ml y una mascarilla placenta life repair argan de 35 gr.
+- cabello sedoso y brillante: sofisticado ritual ultra reparador de acción inmediata a base de aceite de argán que posee un alto contenido en ácidos grasos y vitamina e, que ayudan a transformar el cabello maltratado en un cabello sedoso, brillante, renovado y manejable en una fórmula libre de sal, sulfatos y parabenos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
