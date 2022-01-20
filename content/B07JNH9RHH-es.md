@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'American Tourister Maleta  Azul Marino  Azul  - 88752/1265'
-date: 2022-01-11 10:12:21
+date: 2022-01-20 17:16:51
 image: 'https://m.media-amazon.com/images/I/31KU8PSj-IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cerradura TSA de 3 dígitos
 - Función de expansión en Spinner 78 ofrece volumen adicional
 - Dimensiones: 50 x 30 x 78 cm - 120 L - 4,40 kg
+- Cerradura TSA de 3 dígitos
 - Ruedas dobles para una rodadura suave y confortable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

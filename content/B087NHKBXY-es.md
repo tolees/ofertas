@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Funko POP! El juguete del año 2018
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - ¡Descúbre otras figuras de la colección Its Always Sunny in Philadelphia y colecciónalas todas!
 - De la colección Its Always Sunny in Philadelphia, Princess Dee como figura de vinilo POP de Funko
 

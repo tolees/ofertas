@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sencillo indicador del nivel de Presión Arterial
-- Funciona con pilas (incluidas), opcional adaptador de corriente para no gastar pilas aunque son necesarias si se quieren guardar las lecturas
-- Manguito de fácil uso
 - Guía de ajuste del manguito
-- Validado clínicamente
 - El modelo tiene las dimensiones: 10,3 x 8 x 12,9 cm
 - Detección del pulso arrítmico
+- Sencillo indicador del nivel de Presión Arterial
+- Validado clínicamente
+- Funciona con pilas (incluidas), opcional adaptador de corriente para no gastar pilas aunque son necesarias si se quieren guardar las lecturas
+- Manguito de fácil uso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
