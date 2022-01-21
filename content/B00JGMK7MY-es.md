@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s - LEVIS FOOTWEAR AND ACCESSORIES Vintage Two Horse Bifold  Monedero Unisex Adulto  Marrón  Dark Brown   2x10x11 cm  W x H x L '
-date: 2022-01-10 06:20:02
+date: 2022-01-21 18:33:56
 image: 'https://m.media-amazon.com/images/I/51JPBrBj8wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00JGMK7MY-es Levi s - LEVIS FOOTWEAR AND ACCESSORIES Vintage Two Horse...'
 sku: 'B00JGMK7MY-es'
 tags: [ 'Carteras para hombre','Carteras y monederos para hombre','Carteras, monederos y tarjeteros','Equipaje','levis', ]
-actualPrice: 30.99 EUR
+actualPrice: 30.49 EUR
 currency: EUR
-price: 30.99
+price: 30.49
 comparePrice: 50.0 EUR
 prodname: 'Levi s - LEVIS FOOTWEAR AND ACCESSORIES Vintage Two Horse Bifold  Monedero Unisex Adulto  Marrón  Dark Brown   2x10x11 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B00JGMK7MY/?tag=tolees-21'
-descuento: '38.02'
-average: '35.495'
+descuento: '39.02'
+average: '33.1175'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
