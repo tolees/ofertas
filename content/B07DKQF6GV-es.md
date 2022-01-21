@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jfwvision Classic Mixed  Zapatillas Hombre  Gris  Anthracite Anthracite   43 EU'
-date: 2022-01-12 14:41:03
+date: 2022-01-21 13:38:49
 image: 'https://m.media-amazon.com/images/I/21n5EyOL7pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Jack&Jones
 - Modelo: 12146325 JFWVISION CLASSIC MIXED ANTHRACITE
+- Marca: Jack&Jones
 - Zapatillas de color negro. Cierre con cordones. Detalle bordado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
