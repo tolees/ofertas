@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Flex Appeal 4.0-Brilliant V  Zapatillas Mujer  Gris Gray Lavender  39 EU'
-date: 2022-01-11 03:38:52
+date: 2022-01-21 04:10:55
 image: 'https://m.media-amazon.com/images/I/41rx3TsJoaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08FBKK471-es Skechers Flex Appeal 4.0-Brilliant V Zapatillas Mujer Gris...'
 sku: 'B08FBKK471-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','skechers', ]
-actualPrice: 31.0 EUR
+actualPrice: 40.0 EUR
 currency: EUR
-price: 31.0
+price: 40.0
 comparePrice: 67.0 EUR
 prodname: 'Skechers Flex Appeal 4.0-Brilliant V  Zapatillas Mujer  Gris Gray Lavender  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B08FBKK471/?tag=tolees-21'
-descuento: '53.73'
-average: '31.0'
+descuento: '40.30'
+average: '35.5'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
