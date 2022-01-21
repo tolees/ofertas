@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de alta calidad
-- País de origen: España
 - Nombre de la marca: Lg
+- País de origen: España
+- Producto de alta calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

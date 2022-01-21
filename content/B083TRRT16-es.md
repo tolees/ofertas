@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial Ballistix BL2K8G32C16U4B 3200 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  16GB  8GB x2   CL16  Negro'
-date: 2022-01-14 14:43:35
+date: 2022-01-21 21:21:12
 image: 'https://m.media-amazon.com/images/I/3180qiEYEeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crucial'
 buyurl: 'https://www.amazon.es/dp/B083TRRT16/?tag=tolees-21'
 descuento: '37.48'
-average: '63.0539999999999'
+average: '62.6653846153845'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

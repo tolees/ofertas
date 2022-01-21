@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s BASIC BACKPACK  SAC A DOS Homme  REGULAR BLACK  Taille Unique'
-date: 2022-01-17 08:59:23
+date: 2022-01-21 21:17:26
 image: 'https://m.media-amazon.com/images/I/311CfUcJzsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08NK2L3WW/?tag=tolees-21'
 descuento: '48.60'
-average: '17.6566666666667'
+average: '19.095'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tirantes de cordón
 - 20L
-- Poliéster reciclado resistente
 - Forma cúpula clásica
+- Tirantes de cordón
+- Poliéster reciclado resistente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
