@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger X Sujetador Estilo Bralette  Azul  Navy Blazer 416   Medium  Talla del Fabricante: MD  para Mujer'
-date: 2022-01-18 19:00:00
+date: 2022-01-21 20:20:25
 image: 'https://m.media-amazon.com/images/I/31igTn9cKcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B0788BTRFD/?tag=tolees-21'
 descuento: '52.01'
-average: '23.205'
+average: '22.5944444444444'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

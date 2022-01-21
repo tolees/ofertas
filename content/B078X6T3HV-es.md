@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony HTSF200  Barra de Sonido Compacta con Subwoofer Integrado y Bluetooth  Inalámbrico  Negro'
-date: 2022-01-20 17:13:09
+date: 2022-01-21 19:28:56
 image: 'https://m.media-amazon.com/images/I/21oWg7LdpsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B078X6T3HV/?tag=tolees-21'
 descuento: '35.50'
-average: '138.519999999999'
+average: '138.383999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Versión de Bluetooth: versión 4.2
 - S-Force PRO Front Surround crea un sonido cinematográfico
-- Graves profundos con el subwoofer integrado
-- Bluetooth: RX (receptor)
 - Barra de sonido compacta de 2.1 canales que ahorra espacio
-- Conexiones USB y Bluetooth para reproducción de música
+- Graves profundos con el subwoofer integrado
+- Versión de Bluetooth: versión 4.2
 - Configuración fácil con el televisor
+- Conexiones USB y Bluetooth para reproducción de música
+- Bluetooth: RX (receptor)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Levis 168sf Low Cut 3p Calcetines  Gris  Middle Grey Melange 758   43/46  Talla del Fabricante: 043  para Hombre'
-date: 2022-01-20 19:17:41
+date: 2022-01-21 20:20:38
 image: 'https://m.media-amazon.com/images/I/41GRBygqbwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07VVZVGPC/?tag=tolees-21'
 descuento: '49.95'
-average: '6.83'
+average: '6.56857142857143'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
