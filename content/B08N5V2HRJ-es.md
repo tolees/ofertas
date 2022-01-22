@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Home Video - Tenet [DVD]'
-date: 2022-01-16 18:07:53
+date: 2022-01-22 17:42:12
 image: 'https://m.media-amazon.com/images/I/51kOCOi0htL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Home Video'
 buyurl: 'https://www.amazon.es/dp/B08N5V2HRJ/?tag=tolees-21'
 descuento: '37.11'
-average: '9.34249999999992'
+average: '9.22513513513506'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
