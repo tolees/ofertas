@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers D Lites-Biggest Fan  Zapatillas Mujer  Negro  BKW Black Trubuck/Mesh/Trim   37 EU'
-date: 2022-01-16 16:40:23
+date: 2022-01-22 19:54:35
 image: 'https://m.media-amazon.com/images/I/41-RsBB2qsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B016R0KIGM/?tag=tolees-21'
 descuento: '39.99'
-average: '43.0833333333333'
+average: '43.275'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

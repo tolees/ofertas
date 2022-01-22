@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tabaibaloe Gel Hidratante con Aloe Vera  300ml'
-date: 2022-01-21 19:44:56
+date: 2022-01-22 20:39:18
 image: 'https://m.media-amazon.com/images/I/316TK4V4L5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gel de Aloe Vera de las Islas Canarias.
 - Dermatológicamente testada
+- Formato de 300 ml. con dosificador.
 - Indicado para hidratar y regenerar la piel después del sol, para calmar picaduras de insectos, tras la depilación y afeitado, ecétera.
 - Textura no grasa y de rápida absorción.
-- Formato de 300 ml. con dosificador.
+- Gel de Aloe Vera de las Islas Canarias.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
