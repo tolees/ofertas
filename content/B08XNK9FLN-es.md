@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GIGABYTE Technology Z590 AORUS Ultra Placa Base Intel Z590 Express LGA 1200 ATX'
-date: 2022-01-13 07:34:55
+date: 2022-01-23 14:59:25
 image: 'https://m.media-amazon.com/images/I/51g2PcD+9vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

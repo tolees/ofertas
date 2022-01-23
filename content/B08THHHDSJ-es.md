@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavar a máquina en agua fría, lavado suave
-- Cuello de pico
+- Patrón botánico de flores coloridas
 - Desigual - Blusa de manga 3/4 para mujer, diseño floral
 - Blusa de manga 3/4, estampado floral colorido y cuello en V. Nueva colección Desigual para mujer HW21.
-- Patrón botánico de flores coloridas
+- Cuello de pico
+- Lavar a máquina en agua fría, lavado suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

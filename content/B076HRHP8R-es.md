@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dispone de bolsillos frontales
-- Corte clásico que se adapta al cuerpo
 - Cintura elástica con cordón
+- Corte clásico que se adapta al cuerpo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
