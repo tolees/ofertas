@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee- Heroes A Medida - Español  Color'
-date: 2022-01-21 10:40:33
+date: 2022-01-23 21:38:30
 image: 'https://m.media-amazon.com/images/I/51URWHFldyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Asmodee'
 buyurl: 'https://www.amazon.es/dp/B07KTM6PK8/?tag=tolees-21'
 descuento: '61.65'
-average: '14.171590909091'
+average: '14.1122222222223'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juego de cartas
 - Juego de mesa
+- Juego de cartas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
