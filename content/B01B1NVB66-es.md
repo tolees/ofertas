@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips QP2520/30 OneBlade - Recortador de barba  recorta  perfila y afeita  recargable'
-date: 2022-01-22 09:22:35
+date: 2022-01-23 13:46:01
 image: 'https://m.media-amazon.com/images/I/412pNTKWIML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B01B1NVB66/?tag=tolees-21'
 descuento: '48.90'
-average: '35.8808823529412'
+average: '35.8388925081433'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Recorta, perfila y afeita cualquier longitud de pelo
 - Incluye 1 cuchilla de recambio adicional
 - Batería NiMH de larga duración: 45 minutos en cada uso con 8 horas de carga
-- Uso en seco o en húmedo, incluso en la ducha
 - Incluye tres peines-guía para recortar la barba: 1, 3 y 5 mm
-- Recorta, perfila y afeita cualquier longitud de pelo
+- Uso en seco o en húmedo, incluso en la ducha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

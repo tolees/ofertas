@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Capacidad de almacenamiento de 16 GB
+- Velocidad de escritura de hasta 25 MB/s
 - Velocidad de lectura de hasta 80 MB/s
 - Mecanismo retráctil para proteger el conector USB
-- Velocidad de escritura de hasta 25 MB/s
-- Capacidad de almacenamiento de 16 GB
 
 [🛒 Aquí!!!]({{< param buyurl >}})
