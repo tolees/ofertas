@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich Dash Women Premium Laces 110  Zapatillas Mujer  Blanco  42 EU'
-date: 2022-01-18 20:34:20
+date: 2022-01-24 13:40:15
 image: 'https://m.media-amazon.com/images/I/41BiBaZ-KqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
