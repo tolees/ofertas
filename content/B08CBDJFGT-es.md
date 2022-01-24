@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Correa Un Rio  Zapatillas Mujer  Serpiente Blanco Roto Combi-Reloj de Pulsera  41 EU'
-date: 2022-01-19 00:24:10
+date: 2022-01-24 00:10:25
 image: 'https://m.media-amazon.com/images/I/41BECeQqK9S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08CBDJFGT-es Clarks Correa Un Rio Zapatillas Mujer Serpiente Blanco...'
 sku: 'B08CBDJFGT-es'
 tags: [ 'Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','clarks', ]
-actualPrice: 30.29 EUR
+actualPrice: 26.29 EUR
 currency: EUR
-price: 30.29
+price: 26.29
 comparePrice: 110.0 EUR
 prodname: 'Clarks Correa Un Rio  Zapatillas Mujer  Serpiente Blanco Roto Combi-Reloj de Pulsera  41 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B08CBDJFGT/?tag=tolees-21'
-descuento: '72.46'
-average: '34.44'
+descuento: '76.10'
+average: '32.4025'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
