@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alta calidad
 - Materiales resistentes
+- Alta calidad
 - Sneakers, Munich, sport
 - Diseño funcional
 

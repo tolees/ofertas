@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Woods W  Zapatillas para Mujer  Negro  R Black 59   36 EU'
-date: 2022-01-23 21:31:28
+date: 2022-01-25 01:28:27
 image: 'https://m.media-amazon.com/images/I/31+2GljyJaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07MLXLHSD/?tag=tolees-21'
 descuento: '50.17'
-average: '31.5285714285715'
+average: '31.4200000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

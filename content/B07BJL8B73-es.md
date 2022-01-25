@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El set Up & Down Circuit es el más completo de la colección Gravity y funciona con el movimiento de las esferas
+- Al volver a la parte superior del edificio, las esferas entran en un circuito lleno de trucos magnéticos, y luego vuelven a comenzar desde el principio alimentando el motor gravitatorio
 - La base del circuito la forman los 330 componentes que se incluyen en este set: 21 barras magnéticas, 39 esferas metálicas y 270 elementos mecánicos de plástico
 - De hecho, con su peso ponen en movimiento a un tornillo de forma infinita, activando así un verdadero motor gravitatorio
-- Al volver a la parte superior del edificio, las esferas entran en un circuito lleno de trucos magnéticos, y luego vuelven a comenzar desde el principio alimentando el motor gravitatorio
+- El set Up & Down Circuit es el más completo de la colección Gravity y funciona con el movimiento de las esferas
 - En este sistema de engranajes magnéticos se activa una segunda espiral que hace que las esferas suban como si fuera un ascensor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
