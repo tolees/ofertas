@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sensor óptico gaming TrueMove Air con precisión al pixel
-- Batería optimizada para 200 horas de uso y carga rápida USB-C
-- Conectividad dual mediante Bluetooth 5.0 gaming multiuso de 2.4
 - Tacos de PTFE 100% virgen para el deslizamiento delicado del ratón
-- AquaBarrier para resistencia al agua y protección del polvo y más
 - Diseño ultraligero de 68 g para jugar rápido sin esfuerzo
+- Batería optimizada para 200 horas de uso y carga rápida USB-C
+- AquaBarrier para resistencia al agua y protección del polvo y más
+- Conectividad dual mediante Bluetooth 5.0 gaming multiuso de 2.4
+- Sensor óptico gaming TrueMove Air con precisión al pixel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

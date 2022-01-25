@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Mancuernas suaves - 1 kg'
-date: 2022-01-19 14:44:43
+date: 2022-01-25 19:04:13
 image: 'https://m.media-amazon.com/images/I/41NXUSVnl5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa de velcro ajustable
 - Diseño ergonómico
-- Empuñaduras recubiertas de espuma
-- Pesos: 0.5 kg, 1 kg, 2 kg
 - Núcleo de hierro fundido
+- Pesos: 0.5 kg, 1 kg, 2 kg
+- Correa de velcro ajustable
+- Empuñaduras recubiertas de espuma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
