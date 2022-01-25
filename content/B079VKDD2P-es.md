@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marvel - Black Panther [DVD]'
-date: 2022-01-24 06:12:13
+date: 2022-01-25 12:55:48
 image: 'https://m.media-amazon.com/images/I/51D1M3MTGvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Marvel'
 buyurl: 'https://www.amazon.es/dp/B079VKDD2P/?tag=tolees-21'
 descuento: '37.42'
-average: '7.67000000000001'
+average: '7.5129411764706'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
