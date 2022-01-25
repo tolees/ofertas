@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Touch id; usa touch id para pagar en tiendas, apps y páginas web con tu iphone
 - Resistencia al agua y al polvo ip67 (hasta 1.metro de profundidad durante un máximo de 30.minutos).
-- Pantalla panorámica LCD multi-touch de.4,7.pulgadas (en.diagonal) con tecnología.ips
+- Touch id; usa touch id para pagar en tiendas, apps y páginas web con tu iphone
 - Cámara de 12 mpx con estabilización óptica de imagen y vídeo 4k y cámara facetime HD de 7 mpx con retina flash.
+- Pantalla panorámica LCD multi-touch de.4,7.pulgadas (en.diagonal) con tecnología.ips
 
 [🛒 Aquí!!!]({{< param buyurl >}})

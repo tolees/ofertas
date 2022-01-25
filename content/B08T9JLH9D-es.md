@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Calvin Klein Jeans Shrunken Institutional LS Tee  Camiseta para Mujer  Blanco  Hellweiß/Schwarz   M'
-date: 2022-01-25 16:34:03
-image: 'https://m.media-amazon.com/images/I/31+WeTjwcYL._SL500_._SL400_.jpg'
+title: 'Calvin Klein Jeans Shrunken Institutional LS Tee  Camiseta para Mujer  Rojo  Virginia Red   M'
+date: 2022-01-25 16:36:22
+image: 'https://m.media-amazon.com/images/I/41zaVM-26aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08T9FZDKX-es Calvin Klein Jeans Shrunken Institutional LS Tee Camiseta...'
-sku: 'B08T9FZDKX-es'
+slug: 'B08T9JLH9D-es Calvin Klein Jeans Shrunken Institutional LS Tee Camiseta...'
+sku: 'B08T9JLH9D-es'
 tags: [ 'Camisetas para mujer','Camisetas, tops y blusas para mujer','Ropa','Ropa para mujer','calvin klein', ]
-actualPrice: 22.34 EUR
+actualPrice: 20.59 EUR
 currency: EUR
-price: 22.34
+price: 20.59
 comparePrice: 39.9 EUR
-prodname: 'Calvin Klein Jeans Shrunken Institutional LS Tee  Camiseta para Mujer  Blanco  Hellweiß/Schwarz   M'
+prodname: 'Calvin Klein Jeans Shrunken Institutional LS Tee  Camiseta para Mujer  Rojo  Virginia Red   M'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Calvin Klein'
-buyurl: 'https://www.amazon.es/dp/B08T9FZDKX/?tag=tolees-21'
-descuento: '44.01'
-average: '21.5433333333333'
+buyurl: 'https://www.amazon.es/dp/B08T9JLH9D/?tag=tolees-21'
+descuento: '48.40'
+average: '20.59'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

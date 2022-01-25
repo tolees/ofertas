@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Storyn kommer att släppa ut i flera år utan slumpmässiga lootlådor eller Pay-to-Win
 - Släpp upp mäktiga färdigheter och ny utrustning och skapa din favoritversion av Jordens mäktigaste hjältar
-- Upp till fyra spelare kan slå ihop online för att försvara jorden mot eskalerande hot
 - Marvels Avengers erbjuder en unik version av de berömda superhjältarna, inklusive Captain America, Iron Man, Hulk, Black Widow och Thor
+- Upp till fyra spelare kan slå ihop online för att försvara jorden mot eskalerande hot
+- Storyn kommer att släppa ut i flera år utan slumpmässiga lootlådor eller Pay-to-Win
 
 [🛒 Visítala!!!]({{< param buyurl >}})

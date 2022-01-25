@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Detalles distintivos de Calvin Klein
-- Modelo con tiro medio
 - Tanga con líneas suaves y elegantes
+- Modelo con tiro medio
 
 [🛒 Visítala!!!]({{< param buyurl >}})

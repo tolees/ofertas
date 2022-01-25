@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Caja de Cartón Premium
 - Banda sonora digital
 - 4 postales de personaje
-- Caja de Cartón Premium
 - Pegatina Fulgor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
