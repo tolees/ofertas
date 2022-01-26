@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars - Disfraz de Darth Vader para niños  talla M  5-7 años   Rubies 882014-M '
-date: 2022-01-20 14:24:05
+date: 2022-01-26 17:36:36
 image: 'https://m.media-amazon.com/images/I/41BHv05QsvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rubies'
 buyurl: 'https://www.amazon.es/dp/B000P56XPG/?tag=tolees-21'
 descuento: '41.83'
-average: '40.1609523809524'
+average: '39.7895454545455'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfecto para los pequeños fans de Star Wars, ¡con licencia oficial!
-- Talla: M, 5-7 años
 - Incluye: Mono con cuello, pechera y cubrebotas, máscara, capa y cinturón
+- Talla: M, 5-7 años
+- Perfecto para los pequeños fans de Star Wars, ¡con licencia oficial!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
