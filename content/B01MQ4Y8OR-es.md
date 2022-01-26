@@ -31,7 +31,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Reloj analógico de cuarzo para hombre.
 - Pulsera: acero inoxidable Milanaise, dorado.
 - Logotipo Festina en la esfera.
-- Esfera plateada, manecillas de minuto, hora y segundero doradas.
 - Material de la carcasa: acero inoxidable, dorado.
+- Esfera plateada, manecillas de minuto, hora y segundero doradas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
