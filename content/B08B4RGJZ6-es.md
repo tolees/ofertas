@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maisto Moto Honda Repsol Team RC213V del piloto Marc Marquez 34595  Multicolor  34594 '
-date: 2022-01-15 12:09:28
+date: 2022-01-26 06:19:25
 image: 'https://m.media-amazon.com/images/I/51vM+4dD8OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escala 1/18
-- Réplica oficial de la moto honda repsol de marc marquez
-- Fabricada en metal con partes plásticas
 - Explora nuestra gama de productos
+- Fabricada en metal con partes plásticas
+- Réplica oficial de la moto honda repsol de marc marquez
+- Escala 1/18
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

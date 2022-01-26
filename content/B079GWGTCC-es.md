@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Número del fabricante: 560846C
-- Color: blanco
 - Estilo: Sneaker High
+- Color: blanco
 - Material: Canvas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
