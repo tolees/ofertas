@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston A400 SSD Disco duro sólido interno M.2 2280 SATA Rev 3.0  240GB - SA400M8/240G'
-date: 2022-01-24 22:36:51
+date: 2022-01-25 23:08:46
 image: 'https://m.media-amazon.com/images/I/411vEbwjkhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B07P22RK1G/?tag=tolees-21'
 descuento: '35.56'
-average: '33.6533333333333'
+average: '33.187'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diversas capacidades, con suficiente espacio para aplicaciones o para sustituir un disco duro
 - Rapidez en el arranque, la carga y la transferencia de archivos
 - Más fiable y resistente que un disco duro
-- Diversas capacidades, con suficiente espacio para aplicaciones o para sustituir un disco duro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

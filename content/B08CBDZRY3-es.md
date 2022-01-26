@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Un Rio Strap Zapatillas Mujer  Negro  Piel Sintética   41 EU'
-date: 2022-01-24 00:10:29
+date: 2022-01-25 23:55:42
 image: 'https://m.media-amazon.com/images/I/41g4tudt2US._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08CBDZRY3-es Clarks Un Rio Strap Zapatillas Mujer Negro Piel Sintética...'
 sku: 'B08CBDZRY3-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','clarks', ]
-actualPrice: 47.84 EUR
+actualPrice: 47.63 EUR
 currency: EUR
-price: 47.84
+price: 47.63
 comparePrice: 110.0 EUR
 prodname: 'Clarks Un Rio Strap Zapatillas Mujer  Negro  Piel Sintética   41 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B08CBDZRY3/?tag=tolees-21'
-descuento: '56.51'
-average: '37.664'
+descuento: '56.70'
+average: '39.325'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: deslizante
 - Material interior: piel
+- Cierre: deslizante
 - Material exterior: piel lisa
 - Suela: piel y goma
 
