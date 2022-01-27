@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sveltus 1 Disco Pump con Asas 1 25 kg  Unisex Adulto  Negro  TU EU'
-date: 2022-01-21 07:01:55
+date: 2022-01-26 22:27:44
 image: 'https://m.media-amazon.com/images/I/41QTx7ENXDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1 unidad
-- Resistente a los golpes
-- Los discos son de acero, recubiertos de goma
 - Perfecto para tus sesiones de body pump
+- Resistente a los golpes
+- 1 unidad
+- Los discos son de acero, recubiertos de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
