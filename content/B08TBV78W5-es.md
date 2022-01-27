@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GOBRAN - Proyector WiFi Nativo 1080P Full HD 7500 lúmenes Soporte 4K  Screen Mirroring Proyector de vídeo LED portátil de Cine en casa Profesional.Compatible con HDMI / USB / iOS / Android / Presentación PPT  Proyector WiFi '
-date: 2022-01-25 09:08:07
+date: 2022-01-27 13:43:47
 image: 'https://m.media-amazon.com/images/I/518ipBc+3XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GOBRAN'
 buyurl: 'https://www.amazon.es/dp/B08TBV78W5/?tag=tolees-21'
 descuento: '56.14'
-average: '226.598333333333'
+average: '209.89'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

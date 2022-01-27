@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee- Space Gate Odyssey  Color  LUSGO01SP    color/modelo surtido'
-date: 2022-01-15 12:26:49
+date: 2022-01-27 12:41:25
 image: 'https://m.media-amazon.com/images/I/51cnSUTYAQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Asmodee'
 buyurl: 'https://www.amazon.es/dp/B07R11K8FK/?tag=tolees-21'
 descuento: '42.68'
-average: '27.395'
+average: '27.1275'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Juego en castellano
 - Juego de mesa de 2 a 4 jugadores
-- A partir de 12 años
 - Producto de la marca Asmodee
+- A partir de 12 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})

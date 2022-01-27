@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Munich Massana 442  Zapatillas Unisex Adulto  Verde  40 EU'
-date: 2022-01-27 12:40:16
-image: 'https://m.media-amazon.com/images/I/41ZBPTMIXGL._SL500_._SL400_.jpg'
+title: 'Munich Wave 73  Zapatillas Unisex Adulto  Azul  40 EU'
+date: 2022-01-27 13:23:17
+image: 'https://m.media-amazon.com/images/I/41GjsUsLbqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08WZZ2CTS-es Munich Massana 442 Zapatillas Unisex Adulto Verde 40 EU'
-sku: 'B08WZZ2CTS-es'
+slug: 'B08X1M7VYN-es Munich Wave 73 Zapatillas Unisex Adulto Azul 40 EU'
+sku: 'B08X1M7VYN-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','munich', ]
-actualPrice: 49.5 EUR
+actualPrice: 52.0 EUR
 currency: EUR
-price: 49.5
-comparePrice: 99.0 EUR
-prodname: 'Munich Massana 442  Zapatillas Unisex Adulto  Verde  40 EU'
+price: 52.0
+comparePrice: 104.0 EUR
+prodname: 'Munich Wave 73  Zapatillas Unisex Adulto  Azul  40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Munich'
-buyurl: 'https://www.amazon.es/dp/B08WZZ2CTS/?tag=tolees-21'
+buyurl: 'https://www.amazon.es/dp/B08X1M7VYN/?tag=tolees-21'
 descuento: '50.00'
-average: '49.5'
+average: '55.15'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
