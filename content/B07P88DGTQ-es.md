@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich G-3 Kid Profit 07  Zapatillas de Deporte Hombre  Blanco  Blanco 007   38 EU'
-date: 2022-01-23 10:44:58
+date: 2022-01-27 14:48:36
 image: 'https://m.media-amazon.com/images/I/31wcQHw2n3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B07P88DGTQ/?tag=tolees-21'
 descuento: '38.04'
-average: '44.0233333333333'
+average: '40.755'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

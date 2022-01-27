@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Graphic 8 T-Shirt  Weiß  White 336-110   XS para Hombre'
-date: 2022-01-24 09:43:52
+date: 2022-01-27 14:45:28
 image: 'https://m.media-amazon.com/images/I/41J-IAB04XS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta
-- Estilo del cuello: Cuello redondo
 - 100% Algodón
+- Estilo del cuello: Cuello redondo
+- Camiseta
 - Manga corta
 - Lavar a máquina - caliente (mayor de 30 °)
 
