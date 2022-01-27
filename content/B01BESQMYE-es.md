@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Michael Kors Reloj para Mujer MINI SLIM RUNWAY  Caja de 33 mm  Movimiento de Tres Manecillas  Correa de Acero Inoxidable  Plata'
-date: 2022-01-18 23:06:11
+date: 2022-01-27 22:02:43
 image: 'https://m.media-amazon.com/images/I/31ikqw9z1+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Michael Kors'
 buyurl: 'https://www.amazon.es/dp/B01BESQMYE/?tag=tolees-21'
 descuento: '53.60'
-average: '114.135757575759'
+average: '113.494705882354'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ancho de la correa: 18 mm; circunferencia de la correa: 175 +/- 5 mm
-- Diámetro de la caja: 33 mm; grosor de la caja: 8 mm
 - Material de la correa: acero inoxidable; movimiento de cuarzo
+- Diámetro de la caja: 33 mm; grosor de la caja: 8 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
