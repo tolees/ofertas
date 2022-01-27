@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
-- Caramelos duros Halls con sabor a cítrico; Con edulcorantes, sin azúcar
-- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
-- Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
 - Conservar en lugar fresco y seco
+- Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
+- Caramelos duros Halls con sabor a cítrico; Con edulcorantes, sin azúcar
+- Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
+- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
