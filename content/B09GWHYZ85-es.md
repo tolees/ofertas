@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal - Fast & Furious Pack 1-9 [DVD]'
-date: 2022-01-26 00:11:17
+date: 2022-01-27 00:20:28
 image: 'https://m.media-amazon.com/images/I/41hb1g3BgVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Universal'
 buyurl: 'https://www.amazon.es/dp/B09GWHYZ85/?tag=tolees-21'
 descuento: '43.78'
-average: '32.4766666666667'
+average: '32.4775'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
