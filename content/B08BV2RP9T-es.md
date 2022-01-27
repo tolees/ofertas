@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Sport Run SPIN 0721 1 SMA  Zapatillas Hombre  Wht/Nvy  43 EU'
-date: 2022-01-20 17:48:39
+date: 2022-01-27 18:42:00
 image: 'https://m.media-amazon.com/images/I/419VHd-WUkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B08BV2RP9T/?tag=tolees-21'
 descuento: '42.50'
-average: '70.875'
+average: '70.6666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de tejido: 100% textil (67% elastano + 33% poliéster)
 - Dimensiones del embalaje del artículo: 12,7 x 35,2 x 22,7 W
+- Tipo de tejido: 100% textil (67% elastano + 33% poliéster)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sensación ligera sin grumos ni apelmazamiento, Disponible en 24 tonos
-- Utiliza los polvos solos o sobre la base de maquillaje líquida, Aplica con una esponja o una brocha de maquillaje, Puedes fijarlos con spray fijador de maquillaje
 - Fórmula que absorbe brillos y matifica las zonas grasas, Fórmula vegana
-- Base de maquillaje en polvos compactos de cobertura total con acabado mate, duradero y aterciopelado, Ideal para pieles mixtas y grasas
 - Contenido: 1 NYX Professional Makeup Polvos de sol Cant Stop Wont Stop Full Coverage Powder Foundation, Tono: True Beige, 10.7 g
+- Utiliza los polvos solos o sobre la base de maquillaje líquida, Aplica con una esponja o una brocha de maquillaje, Puedes fijarlos con spray fijador de maquillaje
+- Sensación ligera sin grumos ni apelmazamiento, Disponible en 24 tonos
+- Base de maquillaje en polvos compactos de cobertura total con acabado mate, duradero y aterciopelado, Ideal para pieles mixtas y grasas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
