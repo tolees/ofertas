@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Jersey sencillo
+- Sudadera con capucha de material sostenible
 - Sudadera con capucha de color liso
 - Sudadera con capucha
 - Sudadera con capucha de algodón
-- Sudadera con capucha de material sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
