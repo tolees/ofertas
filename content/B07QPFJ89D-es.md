@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance Wl574 - Zapatillas para Mujer  Black/White  36.5 EU'
-date: 2022-01-27 00:46:46
+date: 2022-01-28 13:44:27
 image: 'https://m.media-amazon.com/images/I/41OauT6V5uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B07QPFJ89D/?tag=tolees-21'
 descuento: '38.28'
-average: '45.1663636363635'
+average: '45.9024999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
