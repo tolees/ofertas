@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de tacón: Tacón ancho
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Material de la suela: EVA
 - Material exterior: Cuero
-- Altura del tacón: 7.5 centímetros
 - Cierre: Ponerse
+- Material de la suela: EVA
+- Altura del tacón: 7.5 centímetros
+- Tipo de tacón: Tacón ancho
 - Revestimiento: Sintético
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
