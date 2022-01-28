@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tapeta con botones en la parte delantera
-- Cuello y puños de canalé
 - Piqué panal de Tactel de secado rápido de 195 g/m²
+- Cuello y puños de canalé
+- Tapeta con botones en la parte delantera
 - Corte lateral
 - Items delivered: 1x Helly Hansen Mens - Driftline Polo Apparel Cherry Tomato S
 
