@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Composición del material: 100% cuero
 - Talla: 105 cm
 - Color: amarillo
 - Producto adecuado para : mujer
-- Composición del material: 100% cuero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

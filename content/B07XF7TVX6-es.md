@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - POP! Ride: Frozen 2 - Elsa Riding Nokk'
-date: 2022-01-17 14:05:08
+date: 2022-01-28 17:44:33
 image: 'https://m.media-amazon.com/images/I/41VARgsLePS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07XF7TVX6/?tag=tolees-21'
 descuento: '39.42'
-average: '22.2785714285714'
+average: '21.9925'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descúbre otras figuras de la colección frozen 2 y colecciónalas todas
 - Funko pop; el juguete del año 2018
 - De la colección frozen 2, elsa riding nokk como figura porides de funko
 - La figura mide 16 cm y se envía en una caja ilustrada con ventana
+- Descúbre otras figuras de la colección frozen 2 y colecciónalas todas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
