@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance GM500NAY  Zapatillas Hombre  Black/Silver  40 EU'
-date: 2022-01-18 08:48:43
+date: 2022-01-28 09:42:54
 image: 'https://m.media-amazon.com/images/I/21Zkh-UIRxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B077QNL3HG/?tag=tolees-21'
 descuento: '46.67'
-average: '35.6654545454545'
+average: '36.0266666666666'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Cuero sintético
-- Material de la suela: Sintético
 - Composición: Microfibra y malla
-- Anchura del zapato: Normal
-- Revestimiento: Tela
 - Cierre: Cordones
+- Revestimiento: Tela
 - Tipo de tacón: Plano
+- Material de la suela: Sintético
+- Material exterior: Cuero sintético
+- Anchura del zapato: Normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
