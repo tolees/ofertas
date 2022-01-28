@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 574 Pastel Pack  Zapatillas Mujer  White Mint  37.5 EU'
-date: 2022-01-17 17:47:38
+date: 2022-01-28 06:29:46
 image: 'https://m.media-amazon.com/images/I/41i36RMIu1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B086TFPWVL/?tag=tolees-21'
 descuento: '35.06'
-average: '58.6699999999999'
+average: '58.8651515151514'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de modelo: WL574PS2
-- X
 - Tipo de tela: ante
+- X
+- Número de modelo: WL574PS2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

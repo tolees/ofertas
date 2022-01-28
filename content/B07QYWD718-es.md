@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WI-C200 - Auriculares in ear inalámbricos más ligeros y con hasta 15 h de autonomía  negro'
-date: 2022-01-26 06:11:29
+date: 2022-01-28 06:26:55
 image: 'https://m.media-amazon.com/images/I/31WGZ2P975L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07QYWD718/?tag=tolees-21'
 descuento: '35.90'
-average: '26.7628155339809'
+average: '26.7520192307695'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formatos de audio compatibles: SBC, AAC
-- Compatible con llamadas con manos libres y asistente de voz
-- Audio inalámbrico con tecnología bluetooth
 - Cables flexibles y ligeros
 - Protección de contenido compatible: SCMS-T
-- Hasta 15 horas de duración de batería
+- Compatible con llamadas con manos libres y asistente de voz
+- Audio inalámbrico con tecnología bluetooth
 - Unidades de diafragma de 9.mm para un sonido claro y nítido
+- Hasta 15 horas de duración de batería
+- Formatos de audio compatibles: SBC, AAC
 
 [🛒 Aquí!!!]({{< param buyurl >}})
