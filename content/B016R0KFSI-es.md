@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers D Lites Dazzling Canvas  Zapatillas Mujer  Black/White 930  35.5 EU'
-date: 2022-01-25 00:50:34
+date: 2022-01-28 23:48:26
 image: 'https://m.media-amazon.com/images/I/41zbmXcc0aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B016R0KFSI/?tag=tolees-21'
 descuento: '57.11'
-average: '38.2475'
+average: '36.598'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
