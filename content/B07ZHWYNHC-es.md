@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour UA W Charged Pursuit 2 Zapatillas para Correr para Mujer  Negro  Black / Black / Black   37.5 EU'
-date: 2022-01-26 21:22:33
+date: 2022-01-29 07:20:44
 image: 'https://m.media-amazon.com/images/I/41c1JDYFunL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Under Armour'
 buyurl: 'https://www.amazon.es/dp/B07ZHWYNHC/?tag=tolees-21'
 descuento: '40.00'
-average: '31.455'
+average: '32.358'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
