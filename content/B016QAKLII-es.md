@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elastic waistband with lanyard
 - Regular fit
+- Elastic waistband with lanyard
 - Climalite anti-humidity fabric
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Alisado sin plancha para todo tipo de cabellos
 - Contiene: tratamiento alisante, Champú post alisado y acondicionador post alisado
 - Evita el encrespamiento y reduce las ondulaciones
-- Fácil de usar, sin formol
 - El aceite de coco que contiene repara medios y puntas castigados
-- Alisado sin plancha para todo tipo de cabellos
+- Fácil de usar, sin formol
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

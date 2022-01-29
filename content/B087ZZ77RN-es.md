@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gorra de 5 paneles con bordado elevado
 - Tipo de talla especial: estándar. Estilo de la pierna: lápiz. Estilo de elevación: medio
+- Gorra de 5 paneles con bordado elevado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

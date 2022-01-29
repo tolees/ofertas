@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil y eficaz: Es fácil de usar, con un control sencillo, panel y guía de voz. las lámparas Philips UV-C pueden desactivar virus, bacterias y esporas, en cuestión de minutos. Todas las bacterias y virus probados hasta la fecha responden a la desinfección UV-C
+- Limpia y desinfecta de forma efectiva superficies y habitaciones de virus y bacterías. En las pruebas de laboratorio, las fuentes de luz UV-C de Signify desactivaron el 99% de los virus en unasuperficie con un tiempo de exposición de 9 segundos
+- Sensor de movimiento: la exposición a Los rayos UV-C puede ser dañina para los ojos y la piel, por lo que agregamos una capa adicional de protección mediante el uso de sensores integrados y temporizadores
 - Diseño dedicado: Además de la alta calidad del tubo de luz Philips UV-C, el diseño del controlador dedicado ayuda a maximizar la eficacia de la desinfección. Consulta el sitio web del producto para conocer más sobre el uso seguro del mismo
 - Experiencia: Philips tiene más de 35 años de experiencia en luz UV-C y una trayectoria en aplicaciones sólidas y confiables en este área
-- Sensor de movimiento: la exposición a Los rayos UV-C puede ser dañina para los ojos y la piel, por lo que agregamos una capa adicional de protección mediante el uso de sensores integrados y temporizadores
-- Limpia y desinfecta de forma efectiva superficies y habitaciones de virus y bacterías. En las pruebas de laboratorio, las fuentes de luz UV-C de Signify desactivaron el 99% de los virus en unasuperficie con un tiempo de exposición de 9 segundos
+- Fácil y eficaz: Es fácil de usar, con un control sencillo, panel y guía de voz. las lámparas Philips UV-C pueden desactivar virus, bacterias y esporas, en cuestión de minutos. Todas las bacterias y virus probados hasta la fecha responden a la desinfección UV-C
 
 [🛒 Visítala!!!]({{< param buyurl >}})
