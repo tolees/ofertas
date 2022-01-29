@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 3 peines-guía ajustables: el cortapelos incluye 3 peines-guía ajustables: de 1 a 7 mm, de 7 a 24 mm y de 24 a 42 mm. Solo tienes que colocar uno de los peines-guía en las más de 400 posiciones de longitud con bloqueo, con una precisión de 0,1 mm entre cada longitud. O bien, puedes utilizar el cortapelos sin el peine-guía para un corte apurado de 0,5 mm.
+- El kit incluye: cortapelos Series 9000, 3 peines-guía y un manual de usuario
 - La batería de iones de litio proporciona hasta 120 minutos de uso tras de una carga de 1 hora.
 - Interfaz de cambio digital: la interfaz de cambio digital te ofrece información precisa sobre la longitud seleccionada. Utiliza la pantalla táctil para pasar fácilmente por las más de 400 posiciones de longitud. Explora rápidamente las longitudes o pasa lentamente por cada una de las posiciones de 0,1 mm.
 - 400 posiciones de longitud con bloqueo: utiliza la función de cambio digital para seleccionar y bloquear con precisión la longitud que desees, con más de 400 posiciones de longitud de 1 a 42 mm y una precisión de 0,1 mm entre cada longitud. O puedes utilizarlo sin peine-guía para un corte apurado de 0,5 mm.
-- El kit incluye: cortapelos Series 9000, 3 peines-guía y un manual de usuario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
