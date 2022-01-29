@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Inserciones laterales de malla
-- Interlock 100% poliéster reciclado
-- Primegreen
 - Dobladillo trasero más largo
+- Primegreen
+- Inserciones laterales de malla
 - Cuello de pico
+- Interlock 100% poliéster reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
