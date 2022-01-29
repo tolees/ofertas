@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Uno Stand on Air  Zapatillas Mujer  Black  39.5 EU'
-date: 2022-01-28 10:00:13
+date: 2022-01-29 13:43:48
 image: 'https://m.media-amazon.com/images/I/31SU8S6Md7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tipo de cierre: cordones
 - suela flexible
 - Ligero
-- Tipo de cierre: cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
