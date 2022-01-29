@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Cali Wn s  Zapatillas Mujer  Blanco  White/Yellow Pear   36 EU'
-date: 2022-01-17 02:23:59
+date: 2022-01-29 11:24:42
 image: 'https://m.media-amazon.com/images/I/31Dt8sZyNpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de modelo: 369155
-- Puma Blanco-Sun Kissed Coral
-- Caña baja
 - No es resistente al agua
 - Puma White-Yellow Pear
+- Caña baja
+- Número de modelo: 369155
 - Piel: piel
+- Puma Blanco-Sun Kissed Coral
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
