@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vida útil prolongada de hasta 15 años
-- Cabezal de foco ajustable
-- Vida útil prolongada
-- bajo consumo
-- Características especiales
 - Luz blanca cálida
+- Características especiales
 - Luz LED de alta calidad
+- Cabezal de foco ajustable
 - Soluciones de iluminación sostenible
+- Vida útil prolongada
+- Vida útil prolongada de hasta 15 años
+- bajo consumo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

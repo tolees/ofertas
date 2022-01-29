@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos años de garantía
+- Fabricada para ser usada en condiciones difíciles y sometida a ensayos en dichas condiciones: resistente a temperaturas extremas, a golpes y al agua
 - Clase 10 para reproducción y grabación de vídeo Full HD (1080p)
 - Ideal para cámaras de videovigilancia en salpicaderos de coches y hogares
-- Resiste hasta 10.000 horas de grabación de vídeo Full HD (64 GB); hasta 5.000 horas de grabación de vídeo Full HD (32 GB)
 - Especialmente desarrollada para aplicaciones de alta resistencia
-- Fabricada para ser usada en condiciones difíciles y sometida a ensayos en dichas condiciones: resistente a temperaturas extremas, a golpes y al agua
+- Resiste hasta 10.000 horas de grabación de vídeo Full HD (64 GB); hasta 5.000 horas de grabación de vídeo Full HD (32 GB)
+- Dos años de garantía
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

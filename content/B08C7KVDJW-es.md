@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi NUN4126GL Monitor Temperatura y Humedad 2 Blanco  43 mm'
-date: 2022-01-26 21:18:06
+date: 2022-01-29 00:16:21
 image: 'https://m.media-amazon.com/images/I/312OHE3Y01L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08C7KVDJW/?tag=tolees-21'
 descuento: '48.15'
-average: '6.84'
+average: '6.73625'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

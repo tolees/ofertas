@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Clip Universal: Use el clip para acoplar la cámara Web a la pantalla o colóquela sobre un estante
 - Se ajusta a las Condiciones de Iluminación: Para obtener imágenes más luminosas incluso en entornos oscuros
-- Videoconferencias HD 720p en Pantalla Panorámica: Llamadas claras con sus plataformas favoritas, como Skype
 - Funciona con Chromebook: Este producto está probado y certificado con Chromebook, lo que significa que cumple con las normas de compatibilidad de Google y funciona a la perfección con Chromebook
+- Videoconferencias HD 720p en Pantalla Panorámica: Llamadas claras con sus plataformas favoritas, como Skype
 - La Cámara Web Flexible que va más allá que las Integradas: Pequeña, ágil y ajustable, aporta un ángulo novedoso a las videoconferencias
 - Micrófono Integrado con Reducción de Ruido: Disfrute de conversaciones claras incluso en entornos bulliciosos
 
