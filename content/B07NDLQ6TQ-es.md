@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nixon Reloj Hombre de Digital con Correa en Acero Inoxidable A1266-001-00'
-date: 2022-01-25 15:20:35
+date: 2022-02-16 03:33:35
 image: 'https://m.media-amazon.com/images/I/4155AUwgJ4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIXON'
 buyurl: 'https://www.amazon.es/dp/B07NDLQ6TQ/?tag=tolees-21'
 descuento: '50.03'
-average: '79.96'
+average: '79.9583333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

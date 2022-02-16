@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Vapour Pink/White/Gold Metalic  44 2/3 EU'
-date: 2022-01-29 13:17:13
+date: 2022-02-16 13:39:28
 image: 'https://m.media-amazon.com/images/I/41rwswa5aUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01HG3PJIG-es adidas Gazelle Zapatillas de Deporte Unisex Adulto Vapour...'
 sku: 'B01HG3PJIG-es'
 tags: [ 'Zapatillas casual para niño','Zapatillas y calzado deportivo para Niño','Zapatos','Zapatos - Niños','Zapatos y complementos','adidas', ]
-actualPrice: 47.45 EUR
+actualPrice: 53.99 EUR
 currency: EUR
-price: 47.45
+price: 53.99
 comparePrice: 94.95 EUR
 prodname: 'adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Vapour Pink/White/Gold Metalic  44 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B01HG3PJIG/?tag=tolees-21'
-descuento: '50.03'
-average: '54.2294827586206'
+descuento: '43.14'
+average: '52.9345205479452'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para: unisex-adulto
 - Talla: 44 2/3
-- Material exterior: cuero
-- Material interior: tela
 - Cierre: cordones
 - Material de la suela: goma
+- Material interior: tela
+- Adecuado para: unisex-adulto
+- Material exterior: cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

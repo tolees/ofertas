@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Fit  Memoria flash USB 3.1 de 64 GB con hasta 130 MB/s de velocidad de lectura Tradicional'
-date: 2022-01-29 21:33:33
+date: 2022-02-16 16:18:41
 image: 'https://m.media-amazon.com/images/I/31Bt9XwnzuS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B077VYCV37-es SanDisk Ultra Fit Memoria flash USB 3.1 de 64 GB con hasta...'
 sku: 'B077VYCV37-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Memorias USB','sandisk', ]
-actualPrice: 9.83 EUR
+actualPrice: 9.99 EUR
 currency: EUR
-price: 9.83
+price: 9.99
 comparePrice: 21.99 EUR
 prodname: 'SanDisk Ultra Fit  Memoria flash USB 3.1 de 64 GB con hasta 130 MB/s de velocidad de lectura Tradicional'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B077VYCV37/?tag=tolees-21'
-descuento: '55.30'
-average: '10.8174744027306'
+descuento: '54.57'
+average: '10.8146598639458'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

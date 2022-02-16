@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich Massana 443  Zapatillas Unisex Adulto  Negro  46 EU'
-date: 2022-01-17 10:59:22
+date: 2022-02-08 11:24:48
 image: 'https://m.media-amazon.com/images/I/41OelhyPHyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08X1MM13N-es Munich Massana 443 Zapatillas Unisex Adulto Negro 46 EU'
 sku: 'B08X1MM13N-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','munich', ]
-actualPrice: 49.5 EUR
+actualPrice: 56.49 EUR
 currency: EUR
-price: 49.5
+price: 56.49
 comparePrice: 99.0 EUR
 prodname: 'Munich Massana 443  Zapatillas Unisex Adulto  Negro  46 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B08X1MM13N/?tag=tolees-21'
-descuento: '50.00'
-average: '57.8833333333333'
+descuento: '42.94'
+average: '57.535'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

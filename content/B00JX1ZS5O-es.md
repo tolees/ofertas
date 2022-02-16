@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sabrent Concentrador USB 3.0 de 4 Puertos con interruptores de alimentación de LED Individuales  HB-UM43 '
-date: 2022-01-27 09:04:01
+date: 2022-02-09 12:50:41
 image: 'https://m.media-amazon.com/images/I/41Uz4hoZi9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sabrent'
 buyurl: 'https://www.amazon.es/dp/B00JX1ZS5O/?tag=tolees-21'
 descuento: '35.02'
-average: '11.6631578947369'
+average: '11.6828148148149'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Los indicadores LED muestran el estado de energía para cada puerto
+- Agregue instantáneamente cuatro puertos USB 3.0 a cualquier dispositivo compatible
 - USB 3.0 Retrocompatible con USB 2.0 y USB 1.1
 - Fácil de instalar: Plug & Play conéctelo sin necesidad de apagar su ordenador
 - Soporta velocidades de transferencia de hasta 5 Gbps (USB 3.0), 480Mbps (USB 2.0), 12Mbps (USB 1.1)
-- Los indicadores LED muestran el estado de energía para cada puerto
-- Agregue instantáneamente cuatro puertos USB 3.0 a cualquier dispositivo compatible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Woman D BULMYA A SNEAKERS NAVY 38 EU'
-date: 2022-01-18 22:59:08
+date: 2022-02-07 00:58:59
 image: 'https://m.media-amazon.com/images/I/31Uwa6HjXxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08PKXYWDD-es Geox Woman D BULMYA A SNEAKERS NAVY 38 EU'
 sku: 'B08PKXYWDD-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox', ]
-actualPrice: 40.41 EUR
+actualPrice: 37.43 EUR
 currency: EUR
-price: 40.41
+price: 37.43
 comparePrice: 79.9 EUR
 prodname: 'Geox Woman D BULMYA A SNEAKERS NAVY 38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B08PKXYWDD/?tag=tolees-21'
-descuento: '49.42'
-average: '42.1266666666667'
+descuento: '53.15'
+average: '40.605'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Calce fácil de regular gracias al cierre con cordones
-- Plantilla desmontable
 - Altura del tacón: 3.5 cm / 1.4 inch
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Plantilla desmontable
+- Calce fácil de regular gracias al cierre con cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

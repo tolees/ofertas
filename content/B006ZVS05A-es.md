@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Solo En Casa [DVD]'
-date: 2022-01-29 00:44:18
+date: 2022-02-07 16:18:05
 image: 'https://m.media-amazon.com/images/I/51ZRjr5ZHkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B006ZVS05A/?tag=tolees-21'
 descuento: '38.66'
-average: '5.1'
+average: '5.173125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

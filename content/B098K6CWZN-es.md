@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Luca [Blu-ray]'
-date: 2022-01-20 12:58:45
+date: 2022-02-08 23:03:16
 image: 'https://m.media-amazon.com/images/I/5173CBhL4xS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B098K6CWZN-es Disney - Luca [Blu-ray]'
 sku: 'B098K6CWZN-es'
 tags: [ 'Animación','Blu-ray','Featured Categories','Infantil y familiar','Películas','Películas y TV','disney', ]
-actualPrice: 9.0 EUR
+actualPrice: 10.99 EUR
 currency: EUR
-price: 9.0
+price: 10.99
 comparePrice: 18.73 EUR
 prodname: 'Disney - Luca [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B098K6CWZN/?tag=tolees-21'
-descuento: '51.95'
-average: '15.9880392156864'
+descuento: '41.32'
+average: '15.3505172413795'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

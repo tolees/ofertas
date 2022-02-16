@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'American Tourister Maleta  Azul Marino  Azul  - 88752/1265'
-date: 2022-01-20 17:16:51
+date: 2022-02-04 18:21:31
 image: 'https://m.media-amazon.com/images/I/31KU8PSj-IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'American Tourister'
 buyurl: 'https://www.amazon.es/dp/B07JNH9RHH/?tag=tolees-21'
 descuento: '48.88'
-average: '82.2666666666667'
+average: '79.9357142857143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Función de expansión en Spinner 78 ofrece volumen adicional
-- Dimensiones: 50 x 30 x 78 cm - 120 L - 4,40 kg
-- Cerradura TSA de 3 dígitos
 - Ruedas dobles para una rodadura suave y confortable
+- Cerradura TSA de 3 dígitos
+- Dimensiones: 50 x 30 x 78 cm - 120 L - 4,40 kg
 
 [🛒 Comprar!!!]({{< param buyurl >}})

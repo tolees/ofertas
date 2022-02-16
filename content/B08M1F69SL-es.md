@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Favoritos Classic  1 x 150 g'
-date: 2022-01-24 13:41:04
+date: 2022-02-07 20:29:07
 image: 'https://m.media-amazon.com/images/I/51DBMi9o7FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Surtido de golosinas
-- Producto que combina tradición e innovación
 - Irresistible mix de sabores
+- Surtido de golosinas
 - Delicioso mix de diferentes piezas
+- Producto que combina tradición e innovación
 
 [🛒 Comprar!!!]({{< param buyurl >}})

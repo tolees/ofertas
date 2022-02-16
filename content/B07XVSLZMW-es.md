@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onllesly L/S Open Cardigan Knt Noos Suéter  Gris  Medium Grey Melange Medium Grey Melange   M para Mujer'
-date: 2022-01-27 11:58:09
+date: 2022-02-16 20:29:05
 image: 'https://m.media-amazon.com/images/I/41NFY-mESmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Suéter
-- Cárdigan
 - De punto
+- Cárdigan
 
 [🛒 Visítala!!!]({{< param buyurl >}})

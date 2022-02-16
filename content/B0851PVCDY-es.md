@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KATIVA Keratin Anti-Frizz Alisado Sin Plancha Repara Puntas 30 Días 200 g'
-date: 2022-01-29 18:42:08
+date: 2022-02-08 10:53:18
 image: 'https://m.media-amazon.com/images/I/51kXE0JjyhS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alisado sin plancha para todo tipo de cabellos
-- Contiene: tratamiento alisante, Champú post alisado y acondicionador post alisado
 - Evita el encrespamiento y reduce las ondulaciones
+- Contiene: tratamiento alisante, Champú post alisado y acondicionador post alisado
+- Alisado sin plancha para todo tipo de cabellos
 - El aceite de coco que contiene repara medios y puntas castigados
 - Fácil de usar, sin formol
 

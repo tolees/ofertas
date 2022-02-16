@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elizabeth Arden 5th Avenue Eau de Parfum 125 ml'
-date: 2022-01-18 19:18:39
+date: 2022-02-05 13:18:48
 image: 'https://m.media-amazon.com/images/I/31NBiyWr9BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Elizabeth Arden'
 buyurl: 'https://www.amazon.es/dp/B0010MG8NU/?tag=tolees-21'
 descuento: '51.76'
-average: '18.095095057034'
+average: '18.1096969696968'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Notas de fondo: ámbar, almizcle tibetano, sándalo, iris y vainilla
-- Notas de corazón: rosa damascena, violeta, ylang-ylang, jazmín, nardo, melocotón, clavo y nuez moscada
-- Notas de salida: lila, brotes de tilo, magnolia matutina, lirio de los valles, mandarina exótica y bergamota
 - Tipo de producto: chispeante y ligero perfume floral de sutil calidez y riqueza
+- Notas de fondo: ámbar, almizcle tibetano, sándalo, iris y vainilla
+- Notas de salida: lila, brotes de tilo, magnolia matutina, lirio de los valles, mandarina exótica y bergamota
+- Notas de corazón: rosa damascena, violeta, ylang-ylang, jazmín, nardo, melocotón, clavo y nuez moscada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

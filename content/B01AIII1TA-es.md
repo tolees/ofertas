@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Big Bang Theory - Figura Pixel  SD Toys SDTWRN89372 '
-date: 2022-01-18 13:41:27
+date: 2022-02-07 17:50:48
 image: 'https://m.media-amazon.com/images/I/517kJqyozWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'The Big Bang Theory'
 buyurl: 'https://www.amazon.es/dp/B01AIII1TA/?tag=tolees-21'
 descuento: '45.64'
-average: '19.5057627118648'
+average: '19.4891803278692'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto oficial The Big Bang Theory
+- PIXEL 001 SET 4 FIGURAS 7 CM THE BIG BANG THEORY
 - Para los fans de The Big Bang Theory
 - Figura Pixel plastico
 - PIXEL 001 SET 4 FIGURAS 7 CM THE BIG BANG THEORY
-- PIXEL 001 SET 4 FIGURAS 7 CM THE BIG BANG THEORY
-- Producto oficial The Big Bang Theory
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips myLiving Star  Foco de techo - color blanco  luz blanca cálida  2 LED integrados  3 W '
-date: 2022-01-28 23:50:02
+date: 2022-02-16 17:02:16
 image: 'https://m.media-amazon.com/images/I/314fmNzAPiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B00B7IIX8K/?tag=tolees-21'
 descuento: '42.84'
-average: '30.8233333333333'
+average: '31.615'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Luz blanca cálida
-- Características especiales
-- Luz LED de alta calidad
 - Cabezal de foco ajustable
-- Soluciones de iluminación sostenible
 - Vida útil prolongada
 - Vida útil prolongada de hasta 15 años
+- Luz LED de alta calidad
+- Soluciones de iluminación sostenible
 - bajo consumo
+- Características especiales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

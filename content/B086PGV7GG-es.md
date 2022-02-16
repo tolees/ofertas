@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Reloj para mujer Copeland  tamaño de caja de 34 mm  movimiento de cuarzo  correa de piel'
-date: 2022-01-20 17:15:35
+date: 2022-02-06 17:43:48
 image: 'https://m.media-amazon.com/images/I/41Qh83HcnTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fossil'
 buyurl: 'https://www.amazon.es/dp/B086PGV7GG/?tag=tolees-21'
 descuento: '40.00'
-average: '79.8485714285715'
+average: '79.5425000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

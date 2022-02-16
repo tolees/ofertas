@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Trish Strap  Botas Estilo Chelsea Mujer  Piel Negra  37 EU'
-date: 2022-01-18 23:39:30
+date: 2022-02-05 04:14:16
 image: 'https://m.media-amazon.com/images/I/318qYbyu9wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08TCFV7GW-es Clarks Trish Strap Botas Estilo Chelsea Mujer Piel Negra...'
 sku: 'B08TCFV7GW-es'
 tags: [ 'Botas para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','clarks', ]
-actualPrice: 45.52 EUR
+actualPrice: 42.56 EUR
 currency: EUR
-price: 45.52
+price: 42.56
 comparePrice: 99.95 EUR
 prodname: 'Clarks Trish Strap  Botas Estilo Chelsea Mujer  Piel Negra  37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B08TCFV7GW/?tag=tolees-21'
-descuento: '54.46'
-average: '45.835'
+descuento: '57.42'
+average: '44.7433333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

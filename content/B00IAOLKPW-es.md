@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio Reloj de Pulsera LRW-200H-4BVEF'
-date: 2022-01-23 18:05:45
+date: 2022-02-02 12:31:16
 image: 'https://m.media-amazon.com/images/I/41uDbqrrBOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Casio'
 buyurl: 'https://www.amazon.es/dp/B00IAOLKPW/?tag=tolees-21'
 descuento: '54.44'
-average: '23.1198765432099'
+average: '23.0817073170732'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
