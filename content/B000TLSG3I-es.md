@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Caucho JP2000-08E'
-date: 2022-02-06 04:40:46
+date: 2022-02-17 06:03:34
 image: 'https://m.media-amazon.com/images/I/51TuHddy5tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Citizen'
 buyurl: 'https://www.amazon.es/dp/B000TLSG3I/?tag=tolees-21'
 descuento: '39.33'
-average: '319.370588235295'
+average: '318.046000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
