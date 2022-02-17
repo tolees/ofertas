@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Carina Lift  Zapatillas  para Mujer  Negro  Puma Black-Puma White   37 EU'
-date: 2022-02-05 08:58:35
+date: 2022-02-17 19:47:23
 image: 'https://m.media-amazon.com/images/I/31qW9bJK9QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B081QMWPY8/?tag=tolees-21'
 descuento: '38.44'
-average: '37.28'
+average: '40.766'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

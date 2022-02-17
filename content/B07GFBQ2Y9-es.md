@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canon Zoemini Pv-123 - Mini impresora  Bluetooth  USB  314 x 600 ppp  Canon Mini Print  color negro'
-date: 2022-02-14 19:55:49
+date: 2022-02-17 19:54:13
 image: 'https://m.media-amazon.com/images/I/31qz9sKg8xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Canon'
 buyurl: 'https://www.amazon.es/dp/B07GFBQ2Y9/?tag=tolees-21'
 descuento: '36.40'
-average: '83.251724137931'
+average: '83.5838709677419'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Imprime fotos de 5 x 7.6 cm (2 x 3 pulgadas) al instante
+- Imprime desde tu dispositivo móvil
+- Reverso adhesivo fácil de usar
 - Imprime mediante Bluetooth
 - Totalmente portátil
-- Reverso adhesivo fácil de usar
-- Imprime desde tu dispositivo móvil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
