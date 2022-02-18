@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston DataTraveler Exodia DTX/128GB Unidad Flash USB 3.2 Gen 1 - con capuchón Protector y Llavero en múltiples Colores'
-date: 2022-02-15 15:36:39
+date: 2022-02-17 22:40:59
 image: 'https://m.media-amazon.com/images/I/31YMJX67p3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08JD4TBM3-es Kingston DataTraveler Exodia DTX/128GB Unidad Flash USB...'
 sku: 'B08JD4TBM3-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Memorias USB','kingston', ]
-actualPrice: 10.3 EUR
+actualPrice: 10.12 EUR
 currency: EUR
-price: 10.3
+price: 10.12
 comparePrice: 18.99 EUR
 prodname: 'Kingston DataTraveler Exodia DTX/128GB Unidad Flash USB 3.2 Gen 1 - con capuchón Protector y Llavero en múltiples Colores'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B08JD4TBM3/?tag=tolees-21'
-descuento: '45.76'
-average: '12.2706249999999'
+descuento: '46.71'
+average: '12.1441176470587'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Práctico capuchón para proteger el conector USB
 - Presilla de gran tamaño para unirla fácilmente al llavero
 - Múltiples opciones de colores por capacidad
+- Práctico capuchón para proteger el conector USB
 
 [🛒 Aquí!!!]({{< param buyurl >}})
