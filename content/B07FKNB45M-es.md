@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Joma Academy Chandal Caballero  Hombres  Negro-Blanco  XL'
-date: 2022-02-18 14:48:23
-image: 'https://m.media-amazon.com/images/I/414c1yZegJL._SL500_._SL400_.jpg'
+title: 'Joma Academy Chandal Caballero  Hombres  Marino-Amarillo  XL'
+date: 2022-02-18 14:53:06
+image: 'https://m.media-amazon.com/images/I/41x01PzymGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07CPWLP15-es Joma Academy Chandal Caballero Hombres Negro-Blanco XL'
-sku: 'B07CPWLP15-es'
+slug: 'B07FKNB45M-es Joma Academy Chandal Caballero Hombres Marino-Amarillo XL'
+sku: 'B07FKNB45M-es'
 tags: [ 'Chándales para hombre','Conjuntos deportivos para hombre','Ropa','Ropa deportiva para hombre','Ropa para hombre','joma', ]
-actualPrice: 21.15 EUR
+actualPrice: 21.35 EUR
 currency: EUR
-price: 21.15
+price: 21.35
 comparePrice: 33.98 EUR
-prodname: 'Joma Academy Chandal Caballero  Hombres  Negro-Blanco  XL'
+prodname: 'Joma Academy Chandal Caballero  Hombres  Marino-Amarillo  XL'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Joma'
-buyurl: 'https://www.amazon.es/dp/B07CPWLP15/?tag=tolees-21'
-descuento: '37.76'
-average: '23.5214285714286'
+buyurl: 'https://www.amazon.es/dp/B07FKNB45M/?tag=tolees-21'
+descuento: '37.17'
+average: '24.495'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,6 +30,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Resto textil
 - Chándales
-- Academy negro-blanco
+- Academy amarillo-negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

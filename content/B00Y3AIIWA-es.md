@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Glide  Zapatillas Hombre  White Steel Royal  44 EU'
-date: 2022-02-15 19:40:57
+date: 2022-02-18 14:26:36
 image: 'https://m.media-amazon.com/images/I/21fLaDmhY5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00Y3AIIWA-es Reebok Glide Zapatillas Hombre White Steel Royal 44 EU'
 sku: 'B00Y3AIIWA-es'
 tags: [ 'Calzado deportivo de interior de hombre','Calzado deportivo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','reebok', ]
-actualPrice: 36.39 EUR
+actualPrice: 40.9 EUR
 currency: EUR
-price: 36.39
+price: 40.9
 comparePrice: 64.95 EUR
 prodname: 'Reebok Glide  Zapatillas Hombre  White Steel Royal  44 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B00Y3AIIWA/?tag=tolees-21'
-descuento: '43.97'
-average: '47.5076712328767'
+descuento: '37.03'
+average: '47.2713333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
