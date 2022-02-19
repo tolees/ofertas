@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Parma 16 SHO Sport Shorts  Hombre  Dark Blue/White  M'
-date: 2022-02-18 14:23:28
+date: 2022-02-19 14:25:03
 image: 'https://m.media-amazon.com/images/I/41diYD0f3VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B016QAKLII/?tag=tolees-21'
 descuento: '41.63'
-average: '10.5702469135802'
+average: '10.5693902439024'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Regular fit
-- Elastic waistband with lanyard
 - Climalite anti-humidity fabric
+- Elastic waistband with lanyard
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
