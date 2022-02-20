@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Glide  Zapatillas Hombre  White Steel Royal  44 EU'
-date: 2022-02-18 14:26:36
+date: 2022-02-20 14:29:07
 image: 'https://m.media-amazon.com/images/I/21fLaDmhY5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B00Y3AIIWA/?tag=tolees-21'
 descuento: '37.03'
-average: '47.2713333333333'
+average: '47.1875'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

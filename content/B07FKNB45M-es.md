@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma Academy Chandal Caballero  Hombres  Marino-Amarillo  XL'
-date: 2022-02-18 14:53:06
+date: 2022-02-20 14:09:39
 image: 'https://m.media-amazon.com/images/I/41x01PzymGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Joma'
 buyurl: 'https://www.amazon.es/dp/B07FKNB45M/?tag=tolees-21'
 descuento: '37.17'
-average: '24.495'
+average: '24.2090909090909'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resto textil
 - Chándales
 - Academy amarillo-negro
+- Resto textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
