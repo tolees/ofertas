@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Barra de Sonido LG SP2W de 100W de Potencia 2.1 Canales  HDMI ARC'
-date: 2022-02-19 18:25:48
+date: 2022-02-21 18:09:06
 image: 'https://m.media-amazon.com/images/I/21SL5XiVYvS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AI Sound Pro
 - Amplia conectividad con HDMI ARC, Bluetooth 4.0, USB
-- Potencia Total: 100W, (81dB)
+- AI Sound Pro
 - ARC, 4K Pass Through
+- Potencia Total: 100W, (81dB)
 - Control Volumen+/- con el mando de tu TV
 
 [🛒 Comprar!!!]({{< param buyurl >}})
