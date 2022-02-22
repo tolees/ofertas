@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla OrthoLite amortiguada
 - Parte superior de tela
 - Cierre de cordones
 - Una zapatilla con amortiguación de espuma y un estilo que destaca
 - Plantilla acolchada de espuma
+- Plantilla OrthoLite amortiguada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
