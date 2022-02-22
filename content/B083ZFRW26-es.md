@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Becken Lace  Oxford Plano Hombre  Dark Tan Lea  41 EU Wide'
-date: 2022-02-16 08:54:20
+date: 2022-02-22 15:14:06
 image: 'https://m.media-amazon.com/images/I/31q9g-tbG0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B083ZFRW26/?tag=tolees-21'
 descuento: '40.00'
-average: '34.655'
+average: '41.3125'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste: (h) Ancho
 - Superiores: Cuero
-- Forro: Textil
+- Ajuste: (h) Ancho
 - Suela: Eva
+- Forro: Textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
