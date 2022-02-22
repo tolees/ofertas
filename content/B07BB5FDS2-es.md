@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kodak Printomatic - Cámara de impresión instantánea  imprime en Papel Zink 5 x 7.6 cm con respaldo adhesivo  azul'
-date: 2022-02-20 13:22:29
+date: 2022-02-22 13:09:43
 image: 'https://m.media-amazon.com/images/I/410GJFaJfnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'KODAK'
 buyurl: 'https://www.amazon.es/dp/B07BB5FDS2/?tag=tolees-21'
 descuento: '42.00'
-average: '58.1928571428572'
+average: '58.1872222222223'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La cámara PRINTOMATIC apunta y dispara ofrece un potente sensor de 5 megapíxeles con una lente gran angular 1: 2
+- Zoom óptico: 1.0 multiplier x
 - ¡Nota! El artículo no viene con un cable USB
 - Con Printomatic puede tomar una nueva foto mientras imprime la foto anterior
 - Printomatic imprime instantáneamente fotos en 2x3 pulgadas papel fotográfico Zink Kodak. No requiere tinta, tóner ni cartucho de película
-- Zoom óptico: 1.0 multiplier x
+- La cámara PRINTOMATIC apunta y dispara ofrece un potente sensor de 5 megapíxeles con una lente gran angular 1: 2
 - La cámara Kodak Printomatic es fácil de usar que tiene ranuras para colocar una correa para el cuello y guarda fotos en una tarjeta microSD
 
 [🛒 Visítala!!!]({{< param buyurl >}})

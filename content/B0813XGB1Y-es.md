@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El forro de Jersey
 - Material superior: cuero
+- El forro de Jersey
 - Prácticos cierres de velcro para facilitar la entrada y salida; la clásica puntera de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
