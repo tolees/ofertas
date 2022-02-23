@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Woodward 2.0  Zapatillas Hombre  White Normal  43 EU'
-date: 2022-02-21 15:46:51
+date: 2022-02-23 19:24:10
 image: 'https://m.media-amazon.com/images/I/31LeLSsRDgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLVFKVG/?tag=tolees-21'
 descuento: '47.52'
-average: '33.4633333333333'
+average: '32.97'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
