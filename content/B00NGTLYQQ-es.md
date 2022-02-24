@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional GCM 800 SJ - Ingletadora telescópica  1400 W  Disco 216 mm  Soft Start  en caja '
-date: 2022-02-23 17:32:10
+date: 2022-02-24 19:26:35
 image: 'https://m.media-amazon.com/images/I/51jUhlZcQzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.es/dp/B00NGTLYQQ/?tag=tolees-21'
 descuento: '47.54'
-average: '220.467777777777'
+average: '219.940999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil manejo de la máquina gracias a su ligero peso de 13,5 kg
-- Ajustes de la inclinación a ambos lados (hasta 47° derecha, hasta 46° izquierda)
-- Incluye: GCM 800 SJ, hoja de sierra circular de 216 x 30 mm, llave Allen, en caja de cartón
-- Motor de alta potencia de 1.800 Vatios para las aplicaciones duras
 - Empuñadura cómodamente enclavable en 4 posiciones
+- Fácil manejo de la máquina gracias a su ligero peso de 13,5 kg
+- Motor de alta potencia de 1.800 Vatios para las aplicaciones duras
+- Incluye: GCM 800 SJ, hoja de sierra circular de 216 x 30 mm, llave Allen, en caja de cartón
+- Ajustes de la inclinación a ambos lados (hasta 47° derecha, hasta 46° izquierda)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
