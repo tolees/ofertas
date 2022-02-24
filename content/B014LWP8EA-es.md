@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional Set Tough Box con 30 hojas de sierra de calar Basic for Wood and Metal  para madera y metal  accesorios de sierra de calar '
-date: 2022-02-22 12:04:33
+date: 2022-02-24 08:09:05
 image: 'https://m.media-amazon.com/images/I/61lItCQ-3WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.es/dp/B014LWP8EA/?tag=tolees-21'
 descuento: '56.68'
-average: '20.945'
+average: '20.8585185185185'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las hojas de sierra de calar T 118 A (longitud: 92 mm) son idóneas para realizar cortes en chapas metálicas muy finas y macizas
-- Suministro: 10 hojas de sierra de calar para madera T119BO, 10 hojas de sierra de calar para madera T111C, 10 hojas de sierra de calar para metal T118A en práctico y atractivo envase Tough Box
 - Las hojas de sierra de calar T119 BO (longitud: 83 mm) y T 111 C (longitud: 100 mm) permiten realizar cortes rectos y óptimos en madera
+- Suministro: 10 hojas de sierra de calar para madera T119BO, 10 hojas de sierra de calar para madera T111C, 10 hojas de sierra de calar para metal T118A en práctico y atractivo envase Tough Box
+- Las hojas de sierra de calar T 118 A (longitud: 92 mm) son idóneas para realizar cortes en chapas metálicas muy finas y macizas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
