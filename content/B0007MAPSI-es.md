@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eiv - The Wedding Date [DVD] [Reino Unido]'
-date: 2022-02-23 02:55:31
+date: 2022-02-24 03:26:27
 image: 'https://m.media-amazon.com/images/I/51ziBeRs5bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Eiv'
 buyurl: 'https://www.amazon.es/dp/B0007MAPSI/?tag=tolees-21'
 descuento: '41.22'
-average: '7.45090909090909'
+average: '7.41'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
