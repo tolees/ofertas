@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Bosch EasyImpact 550 - Taladro percutor  550 W  empuñadura adicional  tope de profundidad  maletín '
-date: 2022-02-12 19:43:49
+date: 2022-02-25 17:49:05
 image: 'https://m.media-amazon.com/images/I/41pPFVnwZzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B06XR17QSM-es Bosch Home and Garden - Bosch EasyImpact 550 - Taladro...'
 sku: 'B06XR17QSM-es'
 tags: [ 'Bricolaje y herramientas','Herramientas eléctricas','Herramientas manuales y eléctricas','Taladros de impacto','Taladros y atornilladores','bosch home and garden', ]
-actualPrice: 43.0 EUR
+actualPrice: 36.0 EUR
 currency: EUR
-price: 43.0
+price: 36.0
 comparePrice: 66.99 EUR
 prodname: 'Bosch Home and Garden - Bosch EasyImpact 550 - Taladro percutor  550 W  empuñadura adicional  tope de profundidad  maletín '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B06XR17QSM/?tag=tolees-21'
-descuento: '35.81'
-average: '43.158904109589'
+descuento: '46.26'
+average: '43.0621621621621'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Perforar nunca fue tan sencillo: gracias a su bajo peso y su compacto y ergonómico diseño, el manejo de la herramienta resulta especialmente cómodo y sencillo
+- Portabrocas de sujeción rápida de dos casquillos para cambio de herramienta sencillo
 - Potencia de perforación elevada a pesar de la construcción compacta, con independencia del material, incluso en hormigón
+- Control electrónico del número de revoluciones Bosch: la «aceleración» de 50 al máximo con el pulsador de conmutación le permite trabajar de forma precisa, por ejemplo, al inicio de la perforación de superficies lisas o en trabajos de atornillado
 - Compatible con el Drill Assistant de Bosch para un trabajo aún más preciso: determinación sencilla de la profundidad de perforación y trabajo sin polvo (opcionalmente, disponible como accesorio)
 - Potente y compacta herramienta que facilita los trabajos de perforación
-- Portabrocas de sujeción rápida de dos casquillos para cambio de herramienta sencillo
-- Perforar nunca fue tan sencillo: gracias a su bajo peso y su compacto y ergonómico diseño, el manejo de la herramienta resulta especialmente cómodo y sencillo
-- Control electrónico del número de revoluciones Bosch: la «aceleración» de 50 al máximo con el pulsador de conmutación le permite trabajar de forma precisa, por ejemplo, al inicio de la perforación de superficies lisas o en trabajos de atornillado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
