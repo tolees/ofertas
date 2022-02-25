@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La duración de la batería es de 10 años
 - Caja y correa de resina sintética, un material resistente y flexible
 - Para iluminar la esfera del reloj se usa un diodo emisor de luz LED
 - Incluye cronómetro, alarma, función de despertador y calendario automático
 - Resistente al agua hasta 10 bar / 100 metros
+- La duración de la batería es de 10 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

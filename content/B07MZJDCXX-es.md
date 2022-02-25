@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% Algodón
 - Lavar a máquina - caliente (mayor de 30 °)
+- 100% Algodón
 - Estilo del cuello: Cuello redondo
 - Manga corta
 - Camiseta
