@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Funko pop. Is the 2018 toy of the year and peoples choice award winner
-- Figure stands 9cm and comes in a window display box
 - From miami vice, crockett, as a stylized pop vinyl from funko
 - Check out the other miami vice figures from funko collect them all
+- Figure stands 9cm and comes in a window display box
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asics Gel-Mission 3  Zapatillas de Marcha Nórdica  Negro  Black/Carbon/Phantom 9097   35.5 EU'
-date: 2022-02-14 18:46:35
+date: 2022-02-25 10:47:54
 image: 'https://m.media-amazon.com/images/I/31iOvh5yNqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASICS'
 buyurl: 'https://www.amazon.es/dp/B078NJRJQL/?tag=tolees-21'
 descuento: '35.00'
-average: '36.2107142857142'
+average: '36.3966666666666'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
