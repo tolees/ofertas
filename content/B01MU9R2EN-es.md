@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei P8 Lite - Smartphone libre de 5.2" IPS LCD  3 GB RAM  16 GB  cámara 12 MP  Android 7.0   Color Negro'
-date: 2022-02-17 10:14:59
+date: 2022-02-25 06:03:51
 image: 'https://m.media-amazon.com/images/I/41NNN1NttFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B01MU9R2EN/?tag=tolees-21'
 descuento: '38.60'
-average: '109.495'
+average: '109.565714285714'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cámara: Atrás: 12MP, Delantero: 8MP
 - Disco duro: 16 GB
-- Pantalla: 13,2 cm (5,2 pulgada(s))
 - Tipo de construcción: Smartphone
+- Cámara: Atrás: 12MP, Delantero: 8MP
 - Memoria: 3072 MB
+- Pantalla: 13,2 cm (5,2 pulgada(s))
 
 [🛒 Visítala!!!]({{< param buyurl >}})
