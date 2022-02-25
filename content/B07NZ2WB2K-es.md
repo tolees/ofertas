@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oreal Paris Make-up Designer - L Oreal Paris Color Queen Mono Sombra de Ojos  Alta Pigmentación  Tono 02 Force'
-date: 2022-02-23 14:03:38
+date: 2022-02-25 09:43:08
 image: 'https://m.media-amazon.com/images/I/31jjdnvHWeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sombra de ojos enriquecida con aceites finos para una fácil aplicación
 - Crea un look a tu medida combinando varios tonos
 - Su textura cremosa evita la sensación de sequedad; no se seca ni se descama
+- Sombra de ojos enriquecida con aceites finos para una fácil aplicación
 - Elige el tuyo entre sus 18 tonos
 - Formulada con pigmentos puros, manteniendo el color vivo durante todo el día
 
