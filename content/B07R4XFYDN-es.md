@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Blacksad: Under The Skin - Limited Edition'
-date: 2022-02-25 13:33:43
+date: 2022-02-26 18:15:38
 image: 'https://m.media-amazon.com/images/I/51LhQf0TzsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B07R4XFYDN/?tag=tolees-21'
 descuento: '69.64'
-average: '20.7225'
+average: '20.4116'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
