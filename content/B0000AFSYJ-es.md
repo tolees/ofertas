@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse All Star Ox Canvas Zapatillas Azul Marino-UK 3'
-date: 2022-02-13 18:05:22
+date: 2022-02-26 05:52:24
 image: 'https://m.media-amazon.com/images/I/31bxTd+4PQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B0000AFSYJ/?tag=tolees-21'
 descuento: '38.49'
-average: '48.0612500000001'
+average: '47.5841176470589'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Authorised Stockist
 - Genuine Product
+- Authorised Stockist
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
