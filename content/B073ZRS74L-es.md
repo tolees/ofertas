@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics - Recipientes de cristal para alimentos  con cierre 20 piezas  10 envases + 10 tapas   sin BPA'
-date: 2022-02-25 21:58:09
+date: 2022-02-27 16:33:06
 image: 'https://m.media-amazon.com/images/I/415ekrDn3sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B073ZRS74L-es Amazon Basics - Recipientes de cristal para alimentos con...'
 sku: 'B073ZRS74L-es'
 tags: [ 'Almacenamiento de alimentos','Almacenamiento de cocina y despensa','Envases para alimentos','Hogar y cocina','Juegos de recipientes','Recipientes','amazon basics', ]
-actualPrice: 19.74 EUR
+actualPrice: 18.68 EUR
 currency: EUR
-price: 19.74
-comparePrice: 33.39 EUR
+price: 18.68
+comparePrice: 33.18 EUR
 prodname: 'Amazon Basics - Recipientes de cristal para alimentos  con cierre 20 piezas  10 envases + 10 tapas   sin BPA'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Amazon Basics'
 buyurl: 'https://www.amazon.es/dp/B073ZRS74L/?tag=tolees-21'
-descuento: '40.88'
-average: '28.0865384615385'
+descuento: '43.70'
+average: '27.7381481481482'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
