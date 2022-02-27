@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW 3301 Slim  Jeans Hombre  Blanco  white C669-110   30W / 34L'
-date: 2022-02-23 22:03:57
+date: 2022-02-27 04:22:49
 image: 'https://m.media-amazon.com/images/I/31RaTW+Zs3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La prenda se estrecha del muslo a los bajos
-- La prenda se estrecha del muslo a los bajos
 - Talle medio
+- La prenda se estrecha del muslo a los bajos
 - Bragueta de botones sin ojal
 - Construcción con cinco bolsillos
 
