@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Nintendo Switch - Compil Monopoly Madness + Monopoly SWITCH'
-date: 2022-02-25 20:10:40
+date: 2022-02-27 22:38:37
 image: 'https://m.media-amazon.com/images/I/41XzKTDdgoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
