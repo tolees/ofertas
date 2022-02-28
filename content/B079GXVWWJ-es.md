@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse Chuck Taylor All Star Lift - Hi - Blanco/Negro/Blanco Canvas'
-date: 2022-02-17 06:07:39
+date: 2022-02-28 06:33:51
 image: 'https://m.media-amazon.com/images/I/41a7-04RIgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B079GXVWWJ/?tag=tolees-21'
 descuento: '35.29'
-average: '66.885'
+average: '66.0926666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Color: blanco
-- Material: Canvas
 - Estilo: Sneaker High
 - Número del fabricante: 560846C
+- Material: Canvas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
