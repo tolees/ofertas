@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Spiuk Rocca MTB Zapatilla  Unisex Adulto  Negro Mate  43'
+date: 2022-02-28 20:07:01
+image: 'https://m.media-amazon.com/images/I/415+PzbuzRL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0779DXT8Q-es Spiuk Rocca MTB Zapatilla Unisex Adulto Negro Mate 43'
+sku: 'B0779DXT8Q-es'
+tags: [ 'Moda','Zapatos y complementos','spiuk', ]
+actualPrice: 47.59 EUR
+currency: EUR
+price: 47.59
+comparePrice: 79.9 EUR
+prodname: 'Spiuk Rocca MTB Zapatilla  Unisex Adulto  Negro Mate  43'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Spiuk'
+buyurl: 'https://www.amazon.es/dp/B0779DXT8Q/?tag=tolees-21'
+descuento: '40.44'
+average: '52.7266666666667'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Óptima ventilación mediante DSS y amplias áreas de rejilla
+- Cubierta sintética resistente que ofrece adaptabilidad
+- Velcro oculto en banda superior para ajuste de empeines altos
+- Refuerzos texturizados en puntera y talonera
+- Base de poliamida con taqueado en TPU y extensión protectora de la puntera
+
+[🛒 Aquí!!!]({{< param buyurl >}})
