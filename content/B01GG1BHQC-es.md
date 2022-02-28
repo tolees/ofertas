@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Domina el mundo en este juego de conquista estratégica
-- Las cartas de Misión mejoras aumentan la velocidad del juego; incluye 12 Misiones Secretas
+- Incluye 5 baúles de guerra para guardar las piezas fácilmente
 - El fantástico diseño del tablero atrae a los jugadores al juego de dominación mundial
 - Presenta figuras actualizadas —incluye 300 figuras
-- Incluye 5 baúles de guerra para guardar las piezas fácilmente
+- Domina el mundo en este juego de conquista estratégica
+- Las cartas de Misión mejoras aumentan la velocidad del juego; incluye 12 Misiones Secretas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
