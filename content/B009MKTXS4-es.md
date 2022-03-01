@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grohe 27 621 000 Placa con Codo de Conexión y Soporte para Ducha  Cromo  Chrome   G 1-2 Pulgadas'
-date: 2022-02-22 12:23:12
+date: 2022-03-01 08:48:21
 image: 'https://m.media-amazon.com/images/I/31TUyUDco+S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
