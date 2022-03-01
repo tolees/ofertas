@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE DB0490 NK HERITAGE WAISTPACK - FA21 Gym Bag unisex-adult game royal/game royal/lime glow 1SIZE'
-date: 2022-02-21 21:21:59
+date: 2022-03-01 10:57:44
 image: 'https://m.media-amazon.com/images/I/41A-kQcJ65L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B09681BWNM/?tag=tolees-21'
 descuento: '50.20'
-average: '11.95'
+average: '11.45'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa cómoda y fácil de ajustar
-- Riñonera deportiva
 - Tejido duradero
+- Riñonera deportiva
+- Correa cómoda y fácil de ajustar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

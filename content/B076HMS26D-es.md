@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'adidas Core18 Hoody Sudadera  Hombre  White  L'
-date: 2022-03-01 10:24:14
-image: 'https://m.media-amazon.com/images/I/31+kIZUEFoL._SL500_._SL400_.jpg'
+title: 'Adidas Core 18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   XL'
+date: 2022-03-01 10:30:01
+image: 'https://m.media-amazon.com/images/I/41iU1gKNCaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07XDLG46V-es adidas Core18 Hoody Sudadera Hombre White L'
-sku: 'B07XDLG46V-es'
+slug: 'B076HMS26D-es Adidas Core 18 Hoody Sudadera con Capucha Hombre Rojo...'
+sku: 'B076HMS26D-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas', ]
 actualPrice: 25.87 EUR
 currency: EUR
 price: 25.87
 comparePrice: 39.99 EUR
-prodname: 'adidas Core18 Hoody Sudadera  Hombre  White  L'
+prodname: 'Adidas Core 18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   XL'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
-buyurl: 'https://www.amazon.es/dp/B07XDLG46V/?tag=tolees-21'
+buyurl: 'https://www.amazon.es/dp/B076HMS26D/?tag=tolees-21'
 descuento: '35.31'
-average: '29.7540322580646'
+average: '27.7416129032258'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hood with lanyard
-- Kangaroo pocket
-- Regular fit
+- Sin mangas.
+- Ventilación Climacool.
+- Escote redondo.
+- Tiene una capucha ajustable con cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
