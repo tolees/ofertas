@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Caracal  Zapatillas Unisex Adulto  Negro Black White  38.5 EU'
-date: 2022-02-27 22:23:48
+date: 2022-03-01 04:00:56
 image: 'https://m.media-amazon.com/images/I/315-o3W2bPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B07KFXYX3H/?tag=tolees-21'
 descuento: '52.29'
-average: '32.37'
+average: '31.91'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
