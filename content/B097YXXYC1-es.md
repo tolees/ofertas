@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transforma el conjunto en una tortuosa rampa vertical de más de 84cm de altura para desafiar las leyes de la gravedad
-- El pack de regalo Ciudad de Cochelandia de Little People incluye un conjunto de juego que tanto sirve para jugar sentado como de pie, así como un par de vehículos de Cochelandia con los que no se cansará de jugar.
 - Los niños podrán jugar sentados y conducir sus vehículos de Cochelandia por las rampas o llevarlos a la gasolinera para repostar
+- El pack de regalo Ciudad de Cochelandia de Little People incluye un conjunto de juego que tanto sirve para jugar sentado como de pie, así como un par de vehículos de Cochelandia con los que no se cansará de jugar.
+- Transforma el conjunto en una tortuosa rampa vertical de más de 84cm de altura para desafiar las leyes de la gravedad
 - Un regalo ideal para niños pequeños y de preescolar de 18 meses a 5 años
 - Incluye 2 vehículos de Cochelandia de Little People.
 
