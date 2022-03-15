@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Chándales
 - Academy rojo-marino
 - Resto textil
-- Chándales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

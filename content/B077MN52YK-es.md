@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tasa de transferencia (máx): 300Mbit/s
 - Tecnología de conectividad: Wireless
+- Tasa de transferencia (máx): 300Mbit/s
 - Interfaz de host: USB
 - Interno: N
 - Interfaz: WLAN

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox UOMO SANDAL STRADA A Sandalias Con Punta Abierta Hombre  Marrón  Coffee C6009   41 EU'
-date: 2022-02-24 03:15:59
+date: 2022-03-15 14:14:11
 image: 'https://m.media-amazon.com/images/I/41UUmFOXdkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07DJ6MKQD-es Geox UOMO SANDAL STRADA A Sandalias Con Punta Abierta...'
 sku: 'B07DJ6MKQD-es'
 tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox', ]
-actualPrice: 41.94 EUR
+actualPrice: 44.87 EUR
 currency: EUR
-price: 41.94
+price: 44.87
 comparePrice: 69.9 EUR
 prodname: 'Geox UOMO SANDAL STRADA A Sandalias Con Punta Abierta Hombre  Marrón  Coffee C6009   41 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07DJ6MKQD/?tag=tolees-21'
-descuento: '40.00'
-average: '45.2072727272727'
+descuento: '35.81'
+average: '44.2942105263158'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin Cordones
-- Material exterior: Sintético
-- Revestimiento: Tela
 - Tipo de tacón: Plano
+- Revestimiento: Tela
 - Material de la suela: Goma
+- Material exterior: Sintético
+- Sin Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

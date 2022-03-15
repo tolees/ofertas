@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Turner 2.0  Sneakers Hombre  Full Black  42 EU'
-date: 2022-02-27 05:07:03
+date: 2022-03-15 14:03:55
 image: 'https://m.media-amazon.com/images/I/31EBZrDAv3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08NF9TYHF/?tag=tolees-21'
 descuento: '35.47'
-average: '36.3630158730159'
+average: '36.2434246575343'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

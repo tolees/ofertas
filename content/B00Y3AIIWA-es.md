@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estas zapatillas de la marca reebok orientadas al running están fabricadas con una media suela de EVA para un mayor comfort, combinada con la suela de caucho que mejora la durabilidad. Estas zapatillas son ideales para caminatas debido a las plantillas OrthoLite que permiten acoplar plantillas ortopédicas.
 - Blanco
+- Estas zapatillas de la marca reebok orientadas al running están fabricadas con una media suela de EVA para un mayor comfort, combinada con la suela de caucho que mejora la durabilidad. Estas zapatillas son ideales para caminatas debido a las plantillas OrthoLite que permiten acoplar plantillas ortopédicas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
