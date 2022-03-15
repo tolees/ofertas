@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Academy amarillo-negro
 - Chándales
 - Resto textil
+- Academy amarillo-negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

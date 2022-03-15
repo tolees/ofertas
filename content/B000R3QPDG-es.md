@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste : Regular
 - Deportivas con las siguientes características:
+- Descubre todas las marcas de EMP!
+- Ajuste : Regular
 - Ocasiones Especiales, Ropa de Calle
 - Zapatillas || Ajuste normal || Color intenso || Materiales de larga duración
-- Descubre todas las marcas de EMP!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

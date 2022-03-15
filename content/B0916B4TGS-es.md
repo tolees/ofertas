@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de corte estándar
-- Logotipo PUMA n.º 1 estampado en goma en el pecho y la pernera izquierda
 - Contiene material reciclado: fabricado con fibras recicladas. Una de las respuestas de PUMA para reducir su impacto medioambiental.
+- Logotipo PUMA n.º 1 estampado en goma en el pecho y la pernera izquierda
+- Parte superior de corte estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
