@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Reloj para niñas con caja redonda de acero
+- Esfera blanca
 - Pulsera de acero plateado
 - Movimiento de cuarzo
-- Esfera blanca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
