@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox U Errico A - Moccasin Hombre  Azul  Navy   39 EU  Par'
-date: 2022-03-15 23:55:13
-image: 'https://m.media-amazon.com/images/I/31NfQ2XVuQL._SL500_._SL400_.jpg'
+title: 'Geox Man U EDIZIONE A SHOES BROWNCOTTO 42 EU'
+date: 2022-03-15 23:48:52
+image: 'https://m.media-amazon.com/images/I/41Mg179cgVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08BLCQBTZ-es Geox U Errico A - Moccasin Hombre Azul Navy 39 EU Par'
-sku: 'B08BLCQBTZ-es'
+slug: 'B08QLY8FDD-es Geox Man U EDIZIONE A SHOES BROWNCOTTO 42 EU'
+sku: 'B08QLY8FDD-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox', ]
-actualPrice: 26.21 EUR
+actualPrice: 49.34 EUR
 currency: EUR
-price: 26.21
+price: 49.34
 comparePrice: 99.9 EUR
-prodname: 'Geox U Errico A - Moccasin Hombre  Azul  Navy   39 EU  Par'
+prodname: 'Geox Man U EDIZIONE A SHOES BROWNCOTTO 42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B08BLCQBTZ/?tag=tolees-21'
-descuento: '73.76'
-average: '39.17625'
+buyurl: 'https://www.amazon.es/dp/B08QLY8FDD/?tag=tolees-21'
+descuento: '50.61'
+average: '49.34'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calzado ligero para una libertad de movimiento
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Plantilla desmontable
 - Calce fácil de regular gracias al cierre con cordones
-- Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
