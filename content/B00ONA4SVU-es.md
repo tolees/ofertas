@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adaptador de carga de 100 a 240 voltios, adecuado para viajes
-- Posibilidad de funcionamiento con batería o conexión eléctrica
-- Afeitadora con triple cabezal flexibles para el afeitado rápido y preciso
 - Visualización de la batería restante en minutos e indicador de carga
+- Posibilidad de funcionamiento con batería o conexión eléctrica
+- Adaptador de carga de 100 a 240 voltios, adecuado para viajes
+- Afeitadora con triple cabezal flexibles para el afeitado rápido y preciso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

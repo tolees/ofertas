@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- - Cristal: Cristal Mineral
-- - Color de la caja: Plata
 - - Forma de la Carcasa: Redondo
-- - Material de la Carcasa: Acero Inoxidable (bruñido/cepillado)
+- - Color de la caja: Plata
 - Carcasa
+- - Cristal: Cristal Mineral
+- - Material de la Carcasa: Acero Inoxidable (bruñido/cepillado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

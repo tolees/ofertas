@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1 caja de 12 preservativos aromatizados.
-- 1 caja de control New Nature, 12 unidades.
 - 2 cajas de control dots & line+intensos dots preservativos estimulantes 6 unidades + 6 unidades
-- 1 caja de control finísima original de 0,06 mm, 12 unidades.
 - 1 caja de control dots & line preservativos estimulantes, 6 unidades.
+- 1 caja de control New Nature, 12 unidades.
+- 1 caja de control finísima original de 0,06 mm, 12 unidades.
+- 1 caja de 12 preservativos aromatizados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
