@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños y dobladillo de canalé
-- Felpa 70% algodón / 30% poliéster
 - Colaboramos con la organización Better Cotton Initiative para favorecer el cultivo de algodón orgánico
-- Corte clásico más ancho y silueta recta
-- Capucha con cordón ajustable
-- Manga raglán
 - Bolsillo canguro
+- Capucha con cordón ajustable
+- Corte clásico más ancho y silueta recta
+- Felpa 70% algodón / 30% poliéster
+- Manga raglán
+- Puños y dobladillo de canalé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

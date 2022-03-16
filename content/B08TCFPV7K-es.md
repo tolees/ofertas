@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología Dri-Fit
-- Ropa deportiva
 - Cuello redondo
+- Ropa deportiva
+- Tecnología Dri-Fit
 - Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
