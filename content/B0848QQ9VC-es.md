@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Esfera azul marina con efecto de rayo de sol
-- Movimiento multifunción
 - Grosor de la caja de 9,7 mm; Diámetro de la caja: 44 mm
 - 5 ATM de resistencia al agua
+- Movimiento multifunción
+- Esfera azul marina con efecto de rayo de sol
 - Correa marrón oscuro de piel con estampado de cocodrilo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
