@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Nintendo Switch - Compil Monopoly Madness + Monopoly SWITCH'
-date: 2022-02-27 22:38:37
+date: 2022-03-16 16:14:18
 image: 'https://m.media-amazon.com/images/I/41XzKTDdgoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09KTJZ23R-es Ubisoft Spain - Nintendo Switch - Compil Monopoly Madness...'
 sku: 'B09KTJZ23R-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','ubisoft spain', ]
-actualPrice: 29.95 EUR
+actualPrice: 23.9 EUR
 currency: EUR
-price: 29.95
+price: 23.9
 comparePrice: 49.9 EUR
 prodname: 'Ubisoft Spain - Nintendo Switch - Compil Monopoly Madness + Monopoly SWITCH'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B09KTJZ23R/?tag=tolees-21'
-descuento: '39.98'
-average: '29.95'
+descuento: '52.10'
+average: '28.72'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
