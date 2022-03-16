@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre con cordones.
-- zapatos calcetto Indoor
-- Empeine de piel y nylon Mesh
 - Color giallo-blu
 - Suela en goma vulcanizzata
+- zapatos calcetto Indoor
+- Empeine de piel y nylon Mesh
+- Cierre con cordones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
