@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 5 bolsillos
 - Skinny High Waist
 - Tejido vaquero
+- 5 bolsillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
