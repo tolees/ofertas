@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma Academy Chandal Caballero  Hombre  Rojo-Marino  XL'
-date: 2022-03-15 13:23:34
+date: 2022-03-17 15:00:02
 image: 'https://m.media-amazon.com/images/I/316o3mgiYFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Joma'
 buyurl: 'https://www.amazon.es/dp/B07FKQ953Q/?tag=tolees-21'
 descuento: '38.05'
-average: '25.23'
+average: '24.6328571428571'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chándales
 - Academy rojo-marino
+- Chándales
 - Resto textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

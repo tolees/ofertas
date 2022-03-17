@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung EP-TA800NBEGEU - Cargador de Pared 25W USB-C  Color Negro'
-date: 2022-03-15 22:23:42
+date: 2022-03-17 13:35:02
 image: 'https://m.media-amazon.com/images/I/2144LzE9nUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08P95B5FR/?tag=tolees-21'
 descuento: '50.00'
-average: '17.8102105263158'
+average: '17.754375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con cables USB-C
 - Adaptador de viaje AFC sin cable
 - Potencia: hasta 25 W
 - Desde tapones para los oídos hasta computadoras portátiles, casi cualquier dispositivo se puede cargar sin problemas
+- Compatible con cables USB-C
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
