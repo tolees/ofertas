@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas EC Org Bolsa  Unisex Adulto  Black  NS'
-date: 2022-03-15 17:38:53
+date: 2022-03-17 22:53:43
 image: 'https://m.media-amazon.com/images/I/41tpdatJU7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07QD9PDXM/?tag=tolees-21'
 descuento: '37.98'
-average: '10.0790476190476'
+average: '10.0431818181818'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Resistant material
-- Adjustable shoulder strap
 - Frontal pocket with zip closure
+- Adjustable shoulder strap
 
 [🛒 Comprar!!!]({{< param buyurl >}})
