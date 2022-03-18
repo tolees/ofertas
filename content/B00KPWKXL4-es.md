@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Bosch PSM Primo - Multilijadora  230 V  50 W  ref. 06033B8000 '
-date: 2022-03-16 07:09:22
+date: 2022-03-18 10:18:22
 image: 'https://m.media-amazon.com/images/I/41WkkPJZRDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B00KPWKXL4/?tag=tolees-21'
 descuento: '43.64'
-average: '52.3816666666667'
+average: '49.3257142857143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cardillo para un cambio rápido de la hoja de lija
-- La multilijadora PSM Primo convence por su manejo intuitivo y su diseño único
-- La punta estrecha y larga de la placa lijadora permite lijar incluso en lugares de difícil acceso
-- Sistema de microfiltro con conexión de aspirador para un trabajo limpio
 - Incluye: Multilijadora PSM Primo, 1 hoja de lija K 80
+- Sistema de microfiltro con conexión de aspirador para un trabajo limpio
 - Para el lijado de esquinas y cantos, así como para superficies pequeñas y medianas
+- La punta estrecha y larga de la placa lijadora permite lijar incluso en lugares de difícil acceso
+- La multilijadora PSM Primo convence por su manejo intuitivo y su diseño único
+- Cierre de cardillo para un cambio rápido de la hoja de lija
 
 [🛒 Comprar!!!]({{< param buyurl >}})
