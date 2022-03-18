@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos con solapa y corchetes
 - Tapeta con corchetes en la parte delantera
 - Con canesú trasero al estilo del oeste
+- Bolsillos con solapa y corchetes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

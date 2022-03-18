@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material exterior: Espuma
 - Tipo de tacón: Plano
 - Cierre: Sin cordones
-- Revestimiento: Sin forro
-- Material exterior: Espuma
-- Material de la suela: Goma
 - Composición: Sintético
+- Revestimiento: Sin forro
 - Altura del tacón: 1 centímetro
+- Material de la suela: Goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

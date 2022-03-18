@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Paquete de dos camisetas
 - Con un logo sutil bordado en el pecho
+- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

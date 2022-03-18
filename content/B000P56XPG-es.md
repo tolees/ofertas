@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye: Mono con cuello, pechera y cubrebotas, máscara, capa y cinturón
-- Talla: M, 5-7 años
 - Perfecto para los pequeños fans de Star Wars, ¡con licencia oficial!
+- Talla: M, 5-7 años
+- Incluye: Mono con cuello, pechera y cubrebotas, máscara, capa y cinturón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

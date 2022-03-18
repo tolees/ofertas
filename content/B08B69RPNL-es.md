@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Montura fabricada en Acetato de celulosa Mazzucchelli, material de calidad, resistente y duradero en el tiempo
 - Gafas de Sol Loira, Unisex, diseño redondeado oversize con ligero ojo de gato con montura transparente color "hielo" y lente gris azulada cromada con efecto espejo
-- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
 - Medidas: Frente: 14.83 cm, Altura: 5.29 cm, Diámetro de la lente: 5.5 cm; Puente: 2.2 cm; Varillas: 14.5 cm
 - Lente cromada gris azulado con efecto espejo, fabricada en TR18, con reducción de brillos y con equilibrio entre claridad y protección; lente de categoría 3 con protección UV404
+- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
+- Montura fabricada en Acetato de celulosa Mazzucchelli, material de calidad, resistente y duradero en el tiempo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
