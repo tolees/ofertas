@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicar el gloss directamente en los labios, Ligera sensación de hormigueo que indica que el producto actúa y estimula el riego sanguíneo, Apto para usar solo o combinado con otros pintalabios, No aplicar sobre piel agrietada o dañada
-- Contenido: 1 x Gloss voluminizador Filler Instinct, Tono: Sparkling Please, 2,5 ml
 - Gloss voluminizador brillante para labios más gruesos e hidratados, Fórmula hidratante sutilmente perfumada y vegana (sin ingredientes de origen animal o derivados)
+- Contenido: 1 x Gloss voluminizador Filler Instinct, Tono: Sparkling Please, 2,5 ml
+- Aplicar el gloss directamente en los labios, Ligera sensación de hormigueo que indica que el producto actúa y estimula el riego sanguíneo, Apto para usar solo o combinado con otros pintalabios, No aplicar sobre piel agrietada o dañada
 - Brillo de labios con color sutil y reflejos nacarados, Para unos labios más gruesos y naturales, Acabado brillante y aspecto suave para unos labios sublimes
 - Aplicador esponjoso ligeramente arqueado para una aplicación fácil que se adapta a tus labios, Adecuado para todos los tonos de piel, Combinar con un perfilador de labios de color neutro para un aspecto definido pero natural
 

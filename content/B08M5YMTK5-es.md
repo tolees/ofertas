@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de lona
-- Plantilla OrthoLite
 - Materiales duraderos
+- Plantilla OrthoLite
+- Parte superior de lona
 - Cierre de cordones
 - Forro de tela
 

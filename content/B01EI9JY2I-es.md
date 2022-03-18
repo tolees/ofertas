@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte regular
 - Cordones de zapatos
+- Corte regular
 - Suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

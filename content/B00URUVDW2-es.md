@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Servicio de Atención al cliente en Español e Ingles para poder ayudarte de forma rápida y sencilla en caso de problemas con la instalación. (Ver información de contacto en el interior de la caja)
-- Con un diseño explanado y sencillo
-- Peso: 0,14 Kg
-- Medidas: 8 x 7.3 x 8 centímetros
 - Garantía: 2 años
-- Potencia máxima: 3.680W
-- Programación 24 horas: Conmutación cada 15 minutos
-- Programador analógico de uso interior
-- Enchufe programable que cuenta con protección infantil
+- Con un diseño explanado y sencillo
 - Conecta cualquier producto y controla su programación
+- Peso: 0,14 Kg
+- Programación 24 horas: Conmutación cada 15 minutos
+- Potencia máxima: 3.680W
+- Servicio de Atención al cliente en Español e Ingles para poder ayudarte de forma rápida y sencilla en caso de problemas con la instalación. (Ver información de contacto en el interior de la caja)
+- Medidas: 8 x 7.3 x 8 centímetros
+- Enchufe programable que cuenta con protección infantil
+- Programador analógico de uso interior
 
 [🛒 Visítala!!!]({{< param buyurl >}})

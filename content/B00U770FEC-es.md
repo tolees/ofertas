@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escala extensible que gira hasta 350º
 - Lanza agua de verdad
-- Piezas móviles
 - Camión de Bomberos de fricción
+- Piezas móviles
+- Escala extensible que gira hasta 350º
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

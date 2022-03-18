@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Completa decenas de misiones desafiantes en un mundo interconectado
-- Conduce solo o en el modo cooperativo de 4 jugadores y amplía tu experiencia de SnowRunner con modos creados por la comunidad
 - 40 vehículos que desbloquear, mejorar y personalizar
+- Conduce solo o en el modo cooperativo de 4 jugadores y amplía tu experiencia de SnowRunner con modos creados por la comunidad
 - Enfréntate a entornos extremos en un avanzado motor de física
+- Completa decenas de misiones desafiantes en un mundo interconectado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

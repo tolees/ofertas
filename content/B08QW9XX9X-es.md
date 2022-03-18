@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular
+- Tecnología Dri-Fit
 - Ropa deportiva
 - Cuello redondo
-- Tecnología Dri-Fit
+- Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

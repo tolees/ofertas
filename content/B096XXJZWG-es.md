@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nueva colección Kappa
-- Estilo y comodidad
 - Pantalón adulto
+- Estilo y comodidad
+- Nueva colección Kappa
 - Colección Otoño-Invierno 21
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cepillo de aire 1000 W
-- Cepillo térmico de 50mm, Pala alisadora, Accesorio cónico para ondular
-- Accesorio para secado preciso
 - Tecnología iónica: neutraliza la electricidad estática
 - Tres ajustes de velocidad y temperatura
+- Accesorio para secado preciso
+- Cepillo térmico de 50mm, Pala alisadora, Accesorio cónico para ondular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

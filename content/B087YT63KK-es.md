@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Slime en dos tonos diferentes de verde
-- Edad recomendada: a partir de 3 años
 - Snotty Scotty slime con figura de Robby Rotzkopf
 - Incluye: dos latas de slime, una pinzas de dedo y un cubo
+- Edad recomendada: a partir de 3 años
+- Slime en dos tonos diferentes de verde
 
 [🛒 Aquí!!!]({{< param buyurl >}})

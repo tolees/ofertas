@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calzado deportivo de la marca Puma
-- Zapatillas deportivas MAPF1 X-RAY 2 (306755-03)
 - Zapatillas deportivas ideales para Tiempo libre y sportwear de Hombre
 - Practica tu deporte favorito gracias a las Zapatillas deportivas de Puma. Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
 - Las Zapatillas deportivas de la marca Puma están diseñadas con la última tecnología y la mejor calidad para que se adapten perfectamente a tu pie sin dejar de la lado el estilo
+- Calzado deportivo de la marca Puma
+- Zapatillas deportivas MAPF1 X-RAY 2 (306755-03)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

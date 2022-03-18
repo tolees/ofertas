@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resistencia al agua: 5 bar.
-- Color de la esfera: juego con diamantes de imitación azules. Tipo de esfera: mineral.
-- Material de la carcasa: acero inoxidable plateado.
 - Diámetro de la caja: 28 mm.
+- Material de la carcasa: acero inoxidable plateado.
+- Color de la esfera: juego con diamantes de imitación azules. Tipo de esfera: mineral.
 - Material de la correa: acero inoxidable plateado.
+- Resistencia al agua: 5 bar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

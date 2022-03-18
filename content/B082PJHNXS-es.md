@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo impreso a base de agua
 - Camiseta de entrenamiento de mezcla de algodón y poliéster
 - Cinta angular tejida
+- Logotipo impreso a base de agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
