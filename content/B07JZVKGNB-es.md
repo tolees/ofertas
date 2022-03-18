@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: piel Full Grain.
 - Material interior: sintético.
+- Material exterior: piel Full Grain.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
