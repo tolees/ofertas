@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapatillas || Ajuste normal || Color intenso || Materiales de larga duración
-- Ajuste : Normal
 - Deportivas con las siguientes características:
+- Zapatillas || Ajuste normal || Color intenso || Materiales de larga duración
 - Tu nuevo merchandising favorito
+- Ajuste : Normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

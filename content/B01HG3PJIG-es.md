@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talla: 44 2/3
-- Cierre: cordones
-- Material interior: tela
-- Material exterior: cuero
 - Adecuado para: unisex-adulto
+- Material exterior: cuero
+- Material interior: tela
+- Cierre: cordones
+- Talla: 44 2/3
 - Material de la suela: goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

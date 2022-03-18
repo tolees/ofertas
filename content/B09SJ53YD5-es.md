@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Kaspersky Internet Security 2022 Renovación | 2 Dispositivos | 1 Año | PC/Mac/Mobile | Código de activación enviado por email'
+date: 2022-03-18 16:28:09
+image: 'https://m.media-amazon.com/images/I/51sKRRPObOL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09SJ53YD5-es Kaspersky Internet Security 2022 Renovación | 2...'
+sku: 'B09SJ53YD5-es'
+tags: [ 'Antivirus y seguridad informática','Software','kaspersky', ]
+actualPrice: 14.95 EUR
+currency: EUR
+price: 14.95
+comparePrice: 39.95 EUR
+prodname: 'Kaspersky Internet Security 2022 Renovación | 2 Dispositivos | 1 Año | PC/Mac/Mobile | Código de activación enviado por email'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Kaspersky'
+buyurl: 'https://www.amazon.es/dp/B09SJ53YD5/?tag=tolees-21'
+descuento: '62.58'
+average: '14.95'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Protección combinada en su PC, Mac, Android y dispositivos iOS con una sola licencia.
+- Tu código será entregado por email con instrucciones detalladas para instalar el productor. El fabricante no produce ningín CD/DVD/memoria flash para ese producto.
+- Protege tu dinero cuando realiza transacciones bancarias y compras en línea
+- Protege contra ataques, ransomware y más
+- Kaspersky quedó primero en 55 tests y pruebas independientes, convirtiéndose en la seguridad más probada y premiada del mundo.
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

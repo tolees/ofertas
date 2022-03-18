@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gafas refractivas: también conocidas como gafas de difracción, gafas para fuegos artificiales, gafas para espectáculos de fuegos artificiales, gafas para ondas de luz, clase de ciencias, gafas láser, gafas para espectáculos de luces de seguimiento, etc.
 - Material seguro: las gafas de difracción están hechas de PVC duradero de alta calidad, resistente, ligero, duradero e irrompible. No sentirás ninguna carga cuando los uses.
+- Gafas refractivas: también conocidas como gafas de difracción, gafas para fuegos artificiales, gafas para espectáculos de fuegos artificiales, gafas para ondas de luz, clase de ciencias, gafas láser, gafas para espectáculos de luces de seguimiento, etc.
 - Diseño en forma de corazón: las gafas difractivas con efecto en forma de corazón pueden crear la fiesta perfecta o la vida diaria.
 - Favor de fiesta: perfecto para fiestas de disfraces, regalos, fiestas de disfraces, carnaval, Navidad, Pascua, fiesta de fin de año, Halloween, etc.
 - Gafas difractivas: gafas de efecto especial, úsalas de noche, la luz se convierte instantáneamente en la forma de amarte.

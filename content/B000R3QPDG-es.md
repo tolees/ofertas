@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Deportivas con las siguientes características:
 - Descubre todas las marcas de EMP!
 - Ocasiones Especiales, Ropa de Calle
+- Deportivas con las siguientes características:
 - Zapatillas || Ajuste normal || Color intenso || Materiales de larga duración
 - Ajuste : Regular
 
