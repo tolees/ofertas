@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calzado Kappa para mujer
-- Nueva colección Otoño-Invierno 2021
 - Diseño y comodidad de la mano de la marca italiana
+- Calzado Kappa para mujer
 - Alto confort
+- Nueva colección Otoño-Invierno 2021
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

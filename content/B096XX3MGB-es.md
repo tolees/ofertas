@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta adulto
-- Nueva colección Kappa
 - Colección Otoño-Invierno 21
+- Nueva colección Kappa
+- Camiseta adulto
 - Estilo y comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

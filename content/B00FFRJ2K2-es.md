@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin solvente y sin acido
-- Perfecta para hacer el Slime
 - Hecho en Francia
-- Contiene un frasco de 2 litros, cantidad para llenar los pequeños frascos
-- Esta cola es ideal para las primeras actividades manuales de los pequeños niños de 3 años y más
+- Sin solvente y sin acido
 - Adhesivo vinílico para usar con papel y cartón
+- Perfecta para hacer el Slime
+- Esta cola es ideal para las primeras actividades manuales de los pequeños niños de 3 años y más
+- Contiene un frasco de 2 litros, cantidad para llenar los pequeños frascos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
