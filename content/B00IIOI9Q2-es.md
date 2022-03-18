@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Guía de ajuste del manguito
+- El modelo tiene las dimensiones: 10,3 x 8 x 12,9 cm
+- Detección del pulso arrítmico
 - Manguito de fácil uso
 - Sencillo indicador del nivel de Presión Arterial
-- Guía de ajuste del manguito
-- Validado clínicamente
-- El modelo tiene las dimensiones: 10,3 x 8 x 12,9 cm
 - Funciona con pilas (incluidas), opcional adaptador de corriente para no gastar pilas aunque son necesarias si se quieren guardar las lecturas
-- Detección del pulso arrítmico
+- Validado clínicamente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

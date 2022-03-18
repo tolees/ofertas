@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reglas de juego: agita, aplica una dosis generosa en tu mano, repártela sobre el cabello húmedo y moldea a tu gusto
 - Con la espuma moldeadora de rizos Twisted de Got2b podrás definir tus rizos aportando forma y flexibilidad y controlar el encrespamiento
-- Con got2b puedes mostrar tu propia personalidad, individualidad y actitud; demuestra quién eres; deja que tu estilo hable por ti
-- Enróllate con tus rizos Consigue unos rizos Óptimos y combate el encrespamiento
 - Di adiós al pelo descontrolado y hola a una definición y brillo sin fin
+- Enróllate con tus rizos Consigue unos rizos Óptimos y combate el encrespamiento
+- Con got2b puedes mostrar tu propia personalidad, individualidad y actitud; demuestra quién eres; deja que tu estilo hable por ti
+- Reglas de juego: agita, aplica una dosis generosa en tu mano, repártela sobre el cabello húmedo y moldea a tu gusto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
