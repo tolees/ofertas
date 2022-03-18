@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Preguntas incómodas para citas inesperadas; prepárate para una cita que jamás olvidarás
-- Inspirado en el programa n°1 de tv
-- Party Game
 - First Dates The Game
+- Party Game
+- Inspirado en el programa n°1 de tv
 - Edad recomendada 18+. 4-10 jugadores; versión en castellano
+- Preguntas incómodas para citas inesperadas; prepárate para una cita que jamás olvidarás
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

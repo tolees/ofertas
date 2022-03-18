@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [WiFi de banda dual de 1,9 Gbps] Halo H50G proporciona conexiones rápidas y estables para más de 100 dispositivos con velocidades de hasta 1900 Mbps(600 Mbps at 2.4 GHz + 1300 Mbps at 5 GHz)
-- [Cobertura para toda la casa] cubre hasta 550 m², con WiFi de alta velocidad, eliminando las zonas muertas de WiFi en tu hogar.
-- [Puertos Gigabit completos] 3 puertos Gigabit por unidad Halo para conexiones por cable ultrarrápidas
 - [Roaming sin interrupciones] cambia automáticamente entre Halos mientras te mueves por tu casa, obteniendo siempre la mejor señal para disfrutar de las conexiones más rápidas para todos tus dispositivos.
+- [Puertos Gigabit completos] 3 puertos Gigabit por unidad Halo para conexiones por cable ultrarrápidas
+- [Cobertura para toda la casa] cubre hasta 550 m², con WiFi de alta velocidad, eliminando las zonas muertas de WiFi en tu hogar.
+- [WiFi de banda dual de 1,9 Gbps] Halo H50G proporciona conexiones rápidas y estables para más de 100 dispositivos con velocidades de hasta 1900 Mbps(600 Mbps at 2.4 GHz + 1300 Mbps at 5 GHz)
 - [Fácil control de la aplicación] use la aplicación MERCUSYS para configurar y administrar rápidamente su WiFi.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
