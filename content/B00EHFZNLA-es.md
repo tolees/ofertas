@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Edad 3+
+- Máximo confort
 - Funda extraíble
 - Asiento de coche para niños con funda extraíble de Diseño Hello Kitty
 - Homologación ECE 44 / 04
-- Máximo confort
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

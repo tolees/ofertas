@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Explore nuestra gama de productos
-- Dimensiones del paquete: 37 x 22.1 x 7.3 cm
-- SARTEN TEFAL EMOTION G6 20CM
 - Muy buena oferta
+- SARTEN TEFAL EMOTION G6 20CM
+- Dimensiones del paquete: 37 x 22.1 x 7.3 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

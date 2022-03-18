@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Administra todas tus cuentas de correo electrónico y planifica de manera eficiente con las apps MAIL y CALENDAR incluidas.
-- PDF incluido - Funciones para Completar y Firmar Formularios, Anotar, Proteger con Contraseña y Convertir tus archivos PDF a Word, Excel y ePub.
 - Crea, Edita y da Estilo a DOCUMENTOS, HOJAS DE CALCULO y PRESENTACIONES - todas las funciones que necesitas para completar el trabajo.
 - Licencia de POR VIDA para 1 PC o Portátil con Windows.
 - Compatibilidad con los formatos de archivo más populares - ABRE, EDITA Y CREA documentos nuevos y existentes.
+- PDF incluido - Funciones para Completar y Firmar Formularios, Anotar, Proteger con Contraseña y Convertir tus archivos PDF a Word, Excel y ePub.
+- Administra todas tus cuentas de correo electrónico y planifica de manera eficiente con las apps MAIL y CALENDAR incluidas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

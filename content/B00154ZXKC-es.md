@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mango Kraftform multicomponente con zonas duras para un rápido reposicionamiento en la mano y blandas para una mayor trasmisión de par
-- Con indicación de la medida en el mango para encontrar y ordenar la herramienta más fácilmente
 - En niquelado mate
+- Mango Kraftform multicomponente con zonas duras para un rápido reposicionamiento en la mano y blandas para una mayor trasmisión de par
 - Con sistema anti-rodamiento hexagonal para evitar que la herramienta ruede
 - Destornillador plano electricista
+- Con indicación de la medida en el mango para encontrar y ordenar la herramienta más fácilmente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

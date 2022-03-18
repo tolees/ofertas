@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Prenda confeccionada en ligero algodón, suave y transpirable, que aporta comodidad durante todo el día
 - Una marca de Amazon
+- Prenda confeccionada en ligero algodón, suave y transpirable, que aporta comodidad durante todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
