@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Classic fit
 - Bajo recto con aberturas laterales
 - Polo Lacoste Classic Fit L.12.12
+- Classic fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

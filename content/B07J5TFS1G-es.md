@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior firme
-- Tecnología GEL
-- Tapa del talón AHARPLUS
 - Amortiguación EVA
+- Tapa del talón AHARPLUS
+- Tecnología GEL
+- Parte superior firme
 - Plantilla de malla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

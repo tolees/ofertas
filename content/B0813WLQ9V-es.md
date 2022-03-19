@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de cuero
-- Zapatilla clásica de cuero
 - Cordones de zapatos
+- Zapatilla clásica de cuero
+- Parte superior de cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

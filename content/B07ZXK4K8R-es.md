@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido Climalite que absorbe la humedad
 - Solapa con dos botones
 - Ajuste regular
+- Tejido Climalite que absorbe la humedad
 - El diseño otorga libertad a los movimientos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
