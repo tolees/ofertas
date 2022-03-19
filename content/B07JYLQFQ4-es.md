@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte regular
 - Cordones de zapatos
+- Corte regular
 - La parte superior de cuero de nubuck de cerdo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
