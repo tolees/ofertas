@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de caucho
-- Parte superior de malla
 - Una zapatilla de running con una suela de caucho para tracción en terrenos variados
-- Cierre de cordones
 - Sensación de transpirabilidad
+- Parte superior de malla
+- Cierre de cordones
+- Suela de caucho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

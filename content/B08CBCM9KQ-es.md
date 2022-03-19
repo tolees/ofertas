@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: deslizante
-- Material interior: piel
 - Material exterior: piel lisa
+- Cierre: deslizante
 - Suela: piel y goma
+- Material interior: piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

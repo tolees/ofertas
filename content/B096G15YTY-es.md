@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de caucho
-- Unas zapatillas de líneas sencillas y limpias con toques de color
 - Forro de tela
-- Cierre de cordones
 - Parte superior de piel sintética
+- Cierre de cordones
+- Unas zapatillas de líneas sencillas y limpias con toques de color
+- Suela de caucho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
