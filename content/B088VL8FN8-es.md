@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Atemporal y atemporal, pero en cualquier época del año, Superga 2750 es un icono del estilo de vida italiano, un objeto de diseño creado en 1925, cuando el joven empresario torinico Walter Martiny experimentó el primer prototipo de zapatilla de tenis con suela de goma
-- Parte superior de lona de algodón transpirable, interior sin forro, etiqueta lateral con logotipo jacquard bicolor, logotipo en la parte trasera y en la suela, ojales de aluminio con logotipo grabado, cierre con cordones de algodón, suela de caucho natural vulcanizado
 - En casi 100 años, estas zapatillas fueron un lienzo blanco en el que los diseñadores y artistas de todo el mundo pueden expresar su creatividad escribiendo junto con Superga una pieza de historia de moda y diseño
+- Parte superior de lona de algodón transpirable, interior sin forro, etiqueta lateral con logotipo jacquard bicolor, logotipo en la parte trasera y en la suela, ojales de aluminio con logotipo grabado, cierre con cordones de algodón, suela de caucho natural vulcanizado
+- Atemporal y atemporal, pero en cualquier época del año, Superga 2750 es un icono del estilo de vida italiano, un objeto de diseño creado en 1925, cuando el joven empresario torinico Walter Martiny experimentó el primer prototipo de zapatilla de tenis con suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
