@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Polo repelente al sol y de rápida absorción, Lo suficientemente elegante para diversas aventuras, Desde el tenis hasta el senderismo o una cena con amigos
-- Una solapa con dos botones junto al cuello bien diseñado para poder darse la vuelta
-- Ajuste activo, Pensado para la movilidad, Diseñado para un look elegante
 - Contenido: 1x Columbia Sun Ridge, Polo, Hombre, Fibra sintética, Negro (Shark), M, Art. 1399471
+- Ajuste activo, Pensado para la movilidad, Diseñado para un look elegante
 - Mezcla de tejido modal/poliéster ligero, Corte adecuado para las capas, Buen rendimiento en salidas largas con posibilidades ilimitadas
+- Una solapa con dos botones junto al cuello bien diseñado para poder darse la vuelta
+- Polo repelente al sol y de rápida absorción, Lo suficientemente elegante para diversas aventuras, Desde el tenis hasta el senderismo o una cena con amigos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
