@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Artdeco Soft Eye Liner Waterproof 10 Black - 1.2 gr'
-date: 2022-03-18 10:26:21
+date: 2022-03-19 10:47:42
 image: 'https://m.media-amazon.com/images/I/31lvBRwGYzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
