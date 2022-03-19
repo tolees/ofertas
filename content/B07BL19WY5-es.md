@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rooster Rojo BLANCO es puro, no se madura en roble, sino que reposa al menos 10 horas tras su proceso de destilación en tanques de acero inoxidable
-- El agua utilizada en el proceso de destilación es filtrada con plata mexicana, lo cual le da un carácter complejo al líquido y suavidad al paladar
-- Se caracteriza por su fresco olor cítrico con toques dulces con pimienta, que lo hace suave y deja un acabado placentero en el paladar
 - Tequila elaborado 100% con agave azul de óptima calidad; las piñas provienen de Los Altos de Jalisco y la región de Tequila, de campos cuidadosamente seleccionados y cultivados
+- El agua utilizada en el proceso de destilación es filtrada con plata mexicana, lo cual le da un carácter complejo al líquido y suavidad al paladar
+- Rooster Rojo BLANCO es puro, no se madura en roble, sino que reposa al menos 10 horas tras su proceso de destilación en tanques de acero inoxidable
+- Se caracteriza por su fresco olor cítrico con toques dulces con pimienta, que lo hace suave y deja un acabado placentero en el paladar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

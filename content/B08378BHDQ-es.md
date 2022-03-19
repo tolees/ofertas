@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A partir de 5 años
+- Set de dibujo Blopens temática Kawaii: panda, zorro, pingüino, flores…
 - Las plantillas son reutilizables y las tapas se pueden lavar
 - Contiene: 8 Blopens, 6 plantillas, 6 hojas de dibujo
-- Set de dibujo Blopens temática Kawaii: panda, zorro, pingüino, flores…
+- A partir de 5 años
 - Creación de dibujos con efecto aerográfico soplando los rotuladores Blopens
 
 [🛒 Aquí!!!]({{< param buyurl >}})
