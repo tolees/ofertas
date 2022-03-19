@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marvel Bend and Flex
 - Producto adecuado para niños a partir de 4 años
+- Marvel Bend and Flex
 - Figura de acción de Spider-Man Piloto Flex
 - Figuras flexibles de 15 cm
 
