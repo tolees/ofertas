@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cárdigan deportivo con logotipo
-- Sudadera con cremallera
-- Sudadera con capucha
 - Sudadera sencilla
 - Sudadera, color liso
+- Sudadera con cremallera
+- Sudadera con capucha
+- Cárdigan deportivo con logotipo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
+- Logotipo del PUMA estampado por transferencia en la parte derecha del pecho
 - Formstrip PUMA estampada por transferencia en los hombros
 - Diseño en dos tonos con mangas en un color de contraste
-- Logotipo del PUMA estampado por transferencia en la parte derecha del pecho
-- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 - Contiene material reciclado: Producto elaborado con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
 
 [🛒 Comprar!!!]({{< param buyurl >}})

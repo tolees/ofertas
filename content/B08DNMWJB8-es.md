@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado
+- Paquete doble
 - Camiseta
 - algodón
-- Paquete doble
+- Estampado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
