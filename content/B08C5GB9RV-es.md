@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: ante
+- Material interior: sintético
 - Suela: piel y goma
 - Cierre: deslizante
-- Material interior: sintético
+- Material exterior: ante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
