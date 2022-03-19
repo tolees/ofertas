@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología Dri-Fit
-- Cuello redondo
 - Ropa deportiva
+- Cuello redondo
 - Ajuste regular
+- Tecnología Dri-Fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
