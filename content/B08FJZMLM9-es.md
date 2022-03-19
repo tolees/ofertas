@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Inspirado en el momento crucial de la historia de Johnnie Walker, el lanzamiento de Old Highland Whisky, la primera marca comercial de whisky de John Walker & Sons en la década de 1860
-- Este blend rico y complejo está inspirado en los sabores detallados en los libros de existencias de la tienda de ultramarinos de la familia Walker en la década de 1860
 - Blend de edición limitada, creado para conmemorar el 200 aniversario de la apertura de la tienda de ultramarinos de Johnnie Walker
 - John Walker & Sons Celebratory Blend es un viaje sensorial formado por notas de pasas dulces y especias sutiles que se convierten en toques de nueces tostadas y delicada turba
+- Este blend rico y complejo está inspirado en los sabores detallados en los libros de existencias de la tienda de ultramarinos de la familia Walker en la década de 1860
 - John Walker & Sons Celebratory Blend es un regalo óptimo para los amantes del whisky, una invitación a honrar el pasado y levantar una copa por los próximos 200 años
+- Inspirado en el momento crucial de la historia de Johnnie Walker, el lanzamiento de Old Highland Whisky, la primera marca comercial de whisky de John Walker & Sons en la década de 1860
 
 [🛒 Comprar!!!]({{< param buyurl >}})

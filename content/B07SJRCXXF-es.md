@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vestido Oficial Elsa Frozen para niñas. En color azul, con detalles en purpurina. Disfraz de la Reina de Frozen, oficial de la pelicula "el reino del hielo"
-- Incluye capa para recrear las aventuras de Elsa. Con detalles en purpurina y tejido de tul
 - Adecuado para fiestas de disfraces, carnavales, cumpleaños, cosplay, pascua, navidad, bailes y halloween ect. Con este disfraz cada niña se sentirá como una verdadera princesa del reino del hielo. Imitando a la princesa Elsa y compañía
-- Este disfraz hará que los niños se conviertan en el foco. Tanto la capa como las mangas del vestido son de tela transparente, adecuados para largas jornadas de juego y diversión. Destaca entre la multitud
 - Diseñado en forma de vestido hasta la rodilla, dobladillo con color auzl oscuo y decoraco con un patrón de carámbano
+- Vestido Oficial Elsa Frozen para niñas. En color azul, con detalles en purpurina. Disfraz de la Reina de Frozen, oficial de la pelicula "el reino del hielo"
+- Este disfraz hará que los niños se conviertan en el foco. Tanto la capa como las mangas del vestido son de tela transparente, adecuados para largas jornadas de juego y diversión. Destaca entre la multitud
+- Incluye capa para recrear las aventuras de Elsa. Con detalles en purpurina y tejido de tul
 
 [🛒 Visítala!!!]({{< param buyurl >}})
