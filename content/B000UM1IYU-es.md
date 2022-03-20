@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans VTS9BJ4  Zapatillas Altas Unisex  Blanco  True White W00   40.5 EU'
-date: 2022-03-19 12:52:38
+date: 2022-03-20 13:52:00
 image: 'https://m.media-amazon.com/images/I/311APJ7+dSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B000UM1IYU/?tag=tolees-21'
 descuento: '47.53'
-average: '43.3411111111111'
+average: '43.205'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
