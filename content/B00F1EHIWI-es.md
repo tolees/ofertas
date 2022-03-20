@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Auriculares de diadema cerrados  color negro'
-date: 2022-02-26 01:50:55
+date: 2022-03-19 22:35:48
 image: 'https://m.media-amazon.com/images/I/41qDn4VomEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00F1EHIWI/?tag=tolees-21'
 descuento: '57.25'
-average: '13.376'
+average: '13.5976923076923'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Interruptor de modo de sonido para disfrutar de películas y música
-- Auriculares de tipo cerrado con diafragma de carrera larga para un sonido dinámico con calidad de película
 - Ajuste cómodo con diadema ajustable sin eslabones paralelos y almohadillas de cuero de uretano
+- Auriculares de tipo cerrado con diafragma de carrera larga para un sonido dinámico con calidad de película
 - Con cable de 2 m
+- Interruptor de modo de sonido para disfrutar de películas y música
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

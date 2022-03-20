@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Los piratas quieren robar todas las piezas de oro ocultas en el cofre del tesoro
 - Pero atención, el mar es fuerte y las olas hacen tanguar el barco. Si un pirata es golpeado por la prueba, se expulsa del juego
 - Para recuperar las monedas, presiona el barril tan pronto como la trampilla trasera del barco esté frente a ti
-- Los piratas quieren robar todas las piezas de oro ocultas en el cofre del tesoro
 - Se abre y se cae. El que tiene el más oro ha ganado la partida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
