@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Timberland Split Cupsole Oxford Basic Zapatillas para Hombre  Amarillo  Wheat Nubuck   40 EU'
-date: 2022-02-27 05:22:41
+title: 'Timberland Split Cupsole Oxford Basic  Zapatillas Hombre  Amarillo  Wheat Nubuck   40 EU'
+date: 2022-03-20 04:09:02
 image: 'https://m.media-amazon.com/images/I/31M-vC91TfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08QW3PVV2-es Timberland Split Cupsole Oxford Basic Zapatillas para...'
+slug: 'B08QW3PVV2-es Timberland Split Cupsole Oxford Basic Zapatillas Hombre...'
 sku: 'B08QW3PVV2-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','timberland', ]
-actualPrice: 40.45 EUR
+actualPrice: 35.77 EUR
 currency: EUR
-price: 40.45
+price: 35.77
 comparePrice: 90.0 EUR
-prodname: 'Timberland Split Cupsole Oxford Basic Zapatillas para Hombre  Amarillo  Wheat Nubuck   40 EU'
+prodname: 'Timberland Split Cupsole Oxford Basic  Zapatillas Hombre  Amarillo  Wheat Nubuck   40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B08QW3PVV2/?tag=tolees-21'
-descuento: '55.06'
-average: '40.45'
+descuento: '60.26'
+average: '36.13'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ligero que ofrece comodidad
 - Tiene detalles distintivos de la marca
+- Diseño ligero que ofrece comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
