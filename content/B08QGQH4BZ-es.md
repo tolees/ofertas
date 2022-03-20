@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Materiales duraderos
-- Parte superior de lona
-- Forro de tela
 - Cierre de cordones
 - Plantilla OrthoLite
+- Forro de tela
+- Parte superior de lona
+- Materiales duraderos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

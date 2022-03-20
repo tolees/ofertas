@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Work N Cushion 4.0  Zapatillas de Deporte Mujer  White/Cold Grey 2 / White  36 EU'
-date: 2022-03-19 17:31:52
+date: 2022-03-20 17:36:54
 image: 'https://m.media-amazon.com/images/I/31FdQnxjA9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B07ZQ5ZBYW/?tag=tolees-21'
 descuento: '48.39'
-average: '28.84625'
+average: '28.5055555555556'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Non-slip sole for greater stability
 - Breathable Mesh upper
+- Non-slip sole for greater stability
 - Walking shoes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

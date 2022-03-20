@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Coches incluidos: Build n Race - Race Car + Race Truck
-- Medidas montado: 150 x 95 cm
-- Longitud de la pista: 4,9 m
-- Compatible con bricks de construcción de otros fabricantes
 - Incluye mandos con función Turbo.
+- Compatible con bricks de construcción de otros fabricantes
+- Longitud de la pista: 4,9 m
+- Medidas montado: 150 x 95 cm
+- Coches incluidos: Build n Race - Race Car + Race Truck
 
 [🛒 Aquí!!!]({{< param buyurl >}})

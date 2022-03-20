@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Skechers Estado 2.0 Pexton
-- Forro de tela suave y transpirable
 - Suela de goma en contraste
-- Parte superior de tela suave y transpirable
+- Skechers Estado 2.0 Pexton
 - Acolchado ligero
+- Parte superior de tela suave y transpirable
+- Forro de tela suave y transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
