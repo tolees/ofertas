@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Skechers Og 85 Old School Cool 699-blk  Zapatillas Mujer  Negro  Black 699/Black   37 EU'
-date: 2022-02-23 17:20:58
+date: 2022-03-20 01:57:11
 image: 'https://m.media-amazon.com/images/I/41p42G+jDNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07C6P6P5X/?tag=tolees-21'
 descuento: '36.66'
-average: '34.6666666666667'
+average: '36.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - bádminton deportes running jogging joggers lifestyle
-- gimnasio ejercicios entrenar hockey voleibol zapatillas
 - bajo hi alto top atleta ropa deportiva ropa activa
+- gimnasio ejercicios entrenar hockey voleibol zapatillas
 - exterior travel skate baloncesto caminar gimnasio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

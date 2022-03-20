@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Royal Complete Cln2  Zapatillas de Deporte Mujer  Black/Silver Metallic/Black  40 EU'
-date: 2022-02-27 12:25:22
+date: 2022-03-20 01:19:47
 image: 'https://m.media-amazon.com/images/I/31NajEdypuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B083H7NNYJ/?tag=tolees-21'
 descuento: '44.22'
-average: '26.44'
+average: '26.9233333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
