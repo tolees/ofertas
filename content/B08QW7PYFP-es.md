@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tecnólogos Dri-Fit
 - Tejido duradero
 - Corte entallado
-- Tecnólogos Dri-Fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
