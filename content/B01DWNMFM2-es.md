@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Verbatim PinStripe 128GB USB 3.0  3.1 Gen 1  Conector USB Tipo A Negro unidad flash USB - Memoria USB  128 GB  3.0  3.1 Gen 1   Conector USB Tipo A  Deslizar  3 6 g  Negro '
-date: 2022-03-19 10:38:29
+date: 2022-03-21 17:34:10
 image: 'https://m.media-amazon.com/images/I/31i0dfj3NMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Verbatim'
 buyurl: 'https://www.amazon.es/dp/B01DWNMFM2/?tag=tolees-21'
 descuento: '55.50'
-average: '14.3591666666667'
+average: '14.3008'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
