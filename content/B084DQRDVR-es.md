@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material interior: sintético
 - Cierre: cordones rápidos
-- Suela: piel y goma
 - Material exterior: nobuk
+- Suela: piel y goma
+- Material interior: sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
