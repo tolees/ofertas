@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FITFIU Fitness ROB-10 - Rodillo Bicicleta plegable para entrenamiento indoor  con regulador de resistencia 6 niveles y soporte rueda  Rodillo bici compatible con ruedas de 26’’ a 29’’'
-date: 2022-03-20 10:00:17
+date: 2022-03-21 10:45:48
 image: 'https://m.media-amazon.com/images/I/41+UWNKqC8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fitfiu Fitness'
 buyurl: 'https://www.amazon.es/dp/B01CXB0GPC/?tag=tolees-21'
 descuento: '50.01'
-average: '64.25'
+average: '62.4675'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

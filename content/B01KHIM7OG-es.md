@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Philips - Bombilla LED 60W  E27  luz blanca cálida  mate  no regulable  pack 6'
-date: 2022-02-16 16:56:28
+title: 'Philips - Bombilla LED esférica casquillo E27  8 W  equivalente a 60 W  luz blanca cálida  806 lúmenes  pack de 6'
+date: 2022-03-21 10:14:59
 image: 'https://m.media-amazon.com/images/I/41JV85q+b0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01KHIM7OG-es Philips - Bombilla LED 60W E27 luz blanca cálida mate no...'
+slug: 'B01KHIM7OG-es Philips - Bombilla LED esférica casquillo E27 8 W...'
 sku: 'B01KHIM7OG-es'
 tags: [ 'Bombillas','Bombillas LED','Iluminación','philips', ]
-actualPrice: 12.99 EUR
+actualPrice: 16.3 EUR
 currency: EUR
-price: 12.99
+price: 16.3
 comparePrice: 25.47 EUR
-prodname: 'Philips - Bombilla LED 60W  E27  luz blanca cálida  mate  no regulable  pack 6'
+prodname: 'Philips - Bombilla LED esférica casquillo E27  8 W  equivalente a 60 W  luz blanca cálida  806 lúmenes  pack de 6'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B01KHIM7OG/?tag=tolees-21'
-descuento: '49.00'
-average: '18.5451914893618'
+descuento: '36.00'
+average: '18.5356779661018'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las bombillas LED de Philips de uso diario son adecuadas para satisfacer tus necesidades de iluminación básica, proporcionan una atractiva luz y ofrecen el rendimiento óptimo que esperas del LED
-- Las bombillas con un valor Kelvin bajo producen una luz cálida, acogedora, son adecuadas para actividades de relajación o para terminar el día con luz tenue
-- Diseñadas para tu confort visual, con la tecnología Eye Comfort, los efectos de una iluminación agresiva en la vista son evidentes
-- Ahora puedes iluminar suavemente tu mundo con soluciones LED diseñadas para cuidar la vista y crear el óptimo en tu hogar
-- Con una vida útil de la bombilla de hasta 15.000 horas, evitarás las complicaciones de sustitución de las bombillas y disfrutarás de una solución de iluminación adecuada hasta 15 años
+- Recomendado para uso en salones, habitaciones y pasillos creando un espacio acogedor
+- No regulable
+- Bombillas LED de bajo consumo, ahorra hasta un 80%
+- Larga duración: hasta 15 años (15.000 horas)
+- Su acabado mate es adecuado para iluminación general sin crear sombras
+- Luz instantánea al encenderse
 
 [🛒 Visítala!!!]({{< param buyurl >}})
