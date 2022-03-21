@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Artdeco Soft Eye Liner Waterproof 10 Black - 1.2 gr'
-date: 2022-03-19 10:47:42
+date: 2022-03-21 20:09:11
 image: 'https://m.media-amazon.com/images/I/31lvBRwGYzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Contiene anti-oxidantes naturales y Vitamina E, sin perfume
 - Una vez seco se convierte en un maquillaje resistente al roce y al agua
 - Contiene una composición que mantiene el maquillaje durante horas
 - Su cremosa textura permite difuminar el trazo
-- Contiene anti-oxidantes naturales y Vitamina E, sin perfume
 
 [🛒 Comprar!!!]({{< param buyurl >}})

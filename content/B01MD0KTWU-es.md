@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Olympus HLD-9 - Empuñadura para cámara OM-D E-M1 Mark II  con ranura extra para batería BLH-1  controles manuales '
-date: 2022-03-15 21:56:47
+date: 2022-03-21 20:27:41
 image: 'https://m.media-amazon.com/images/I/41c17oEVIXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alimentación para un largo periodo de uso
 - Resiste el frío, el polvo y las salpicaduras
 - Ideal para disparos de retratos
 - Diseño ergonómico para los disparos en orientación vertical y horizontal
+- Alimentación para un largo periodo de uso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
