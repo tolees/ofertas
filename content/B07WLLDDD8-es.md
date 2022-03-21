@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de Nike en la parte delantera
-- Ropa deportiva
 - Tecnología Dri-Fit
+- Ropa deportiva
 - Ajuste regular
+- Logotipo de Nike en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

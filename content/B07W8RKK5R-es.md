@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G604 LIGHTSPEED Ratón Gaming Inalámbrico  Captor HERO 25K  25 600 DPI  15 Botones Programables  Batería 240h  Compatible con PC/Mac - Negro'
-date: 2022-03-19 12:18:50
+date: 2022-03-21 13:46:31
 image: 'https://m.media-amazon.com/images/I/41G+zo7Hq8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Logitech G'
 buyurl: 'https://www.amazon.es/dp/B07W8RKK5R/?tag=tolees-21'
 descuento: '44.77'
-average: '71.4416'
+average: '70.9242307692308'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 15 CONTROLES PROGRAMABLES: Domina tu arsenal en géneros de juego táctico como Battle Royale, MMO y MOBA, con 15 controles situados estratégicamente, entre ellos seis para el pulgar.
+- 240 HORAS CON UNA PILA AA: Juega hasta 240 horas en modo LIGHTSPEED o hasta 5 meses y medio en modo Bluetooth con una pila AA, gracias a la revolucionaria eficiencia energética.
 - SENSOR HERO 25K: Nuestro sensor para gaming más avanzado, con un seguimiento 1:1 preciso y una eficiencia energética líder en su clase. HERO 25K ofrece hasta 25.600 DPI, sin suavizado, aceleración ni filtros.
+- SIN CABLES. SIN LIMITES: La marca de accesorios inalámbricos para gaming más vendida del mundo - Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming inalámbricos en unidades
 - BOTÓN RUEDA SUPERRÁPIDO CON DOS MODOS: Cambia el modo de desplazamiento a tu aire para recorrer menús rápidamente o inspeccionar detenidamente selecciones de armas o conjuros; y aplica enlaces de teclas para subir y bajar por entradas.
 - CONECTIVIDAD DOBLE CON LIGHTSPEED: Puedes alternar entre práctica conectividad Bluetooth y la superrápida tecnología avanzada inalámbrica LIGHTSPEED de 1 ms.
-- SIN CABLES. SIN LIMITES: La marca de accesorios inalámbricos para gaming más vendida del mundo - Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming inalámbricos en unidades
-- 240 HORAS CON UNA PILA AA: Juega hasta 240 horas en modo LIGHTSPEED o hasta 5 meses y medio en modo Bluetooth con una pila AA, gracias a la revolucionaria eficiencia energética.
+- 15 CONTROLES PROGRAMABLES: Domina tu arsenal en géneros de juego táctico como Battle Royale, MMO y MOBA, con 15 controles situados estratégicamente, entre ellos seis para el pulgar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
