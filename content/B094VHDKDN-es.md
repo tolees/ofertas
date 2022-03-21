@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
 - Parte superior de tela
 - Una zapatilla deportiva con detalles modernos
+- Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
