@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento: Sintético
-- Composición: Sintético
-- Material de la suela: Goma
-- Cierre: Cordones
 - Material exterior: Sintético
+- Material de la suela: Goma
+- Composición: Sintético
+- Cierre: Cordones
+- Revestimiento: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

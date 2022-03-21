@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dim Les Pocket Ecodim Boxer X6 Culotte  Multicolor  Lot Basique   40  Talla del Fabricante: 40 Taglia Produttore 40/42   Pack de 6  para Mujer'
-date: 2022-03-18 16:20:07
+date: 2022-03-21 12:26:26
 image: 'https://m.media-amazon.com/images/I/41xjX3IKD4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego de mesa en español
-- ¿Actuarás por el bien común o pensarás solo en ti?
 - El Dilema del Rey es una experiencia interactiva y narrativa con elementos legacy, una gran variedad de tramas entrelazadas con multitud de finales posibles y un mazo de cartas de Evento que evoluciona
 - De 3 a 5 jugadores
+- ¿Actuarás por el bien común o pensarás solo en ti?
 - A partir de 14 años de edad
+- Juego de mesa en español
 
 [🛒 Visítala!!!]({{< param buyurl >}})

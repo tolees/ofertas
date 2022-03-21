@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 3 velcros para una sujeción perfecta.
 - Puntera y trasera de refuerzo.
 - Es recomendable pedir un número más, del número que usamos a diario en calzado de calle.
-- Suela de Carbono, muy rígida y ligera.
 - Construida en una sola pieza, sin costuras interiores.
+- 3 velcros para una sujeción perfecta.
+- Suela de Carbono, muy rígida y ligera.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

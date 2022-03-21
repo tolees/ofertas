@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Parche de cuero con el logo de la marca
 - Modelo con presillas para un óptimo confort cuando lleves cinturón
 - Costuras en W en los bolsillos traseros
-- Parche de cuero con el logo de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
