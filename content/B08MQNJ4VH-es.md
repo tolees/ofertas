@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Las Zapatillas de entrenamiento de la marca Puma están diseñadas con la última tecnología y la mejor calidad para que se adapten perfectamente a tu pie sin dejar de la lado el estilo
 - Zapatillas de entrenamiento Pure XT (195162-03)
-- Practica tu deporte favorito gracias a las Zapatillas de entrenamiento de Puma. Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
 - Zapatillas de entrenamiento ideales para Atletismo y running de Hombre
+- Practica tu deporte favorito gracias a las Zapatillas de entrenamiento de Puma. Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
 - Calzado deportivo de la marca Puma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
