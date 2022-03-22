@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Atwood Canvas  Zapatillas Hombre  Black 186  43 EU'
-date: 2022-03-20 03:34:55
+date: 2022-03-22 03:40:00
 image: 'https://m.media-amazon.com/images/I/312AHAgXqaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B00B4GB23S/?tag=tolees-21'
 descuento: '40.02'
-average: '37.5974468085108'
+average: '37.6264583333335'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

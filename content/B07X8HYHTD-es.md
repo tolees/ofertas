@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas FS1897 CORE18 SW Top Pullover Mens Yellow XL'
-date: 2022-03-20 03:10:08
+date: 2022-03-22 04:11:21
 image: 'https://m.media-amazon.com/images/I/41XvwOGCj4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07X8HYHTD/?tag=tolees-21'
 descuento: '51.25'
-average: '28.7616346153845'
+average: '28.6734285714285'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Mangas con ribetes en contraste
-- Presenta ajuste regular
 - Puños y dobladillo de canalé
 - Cuenta con un pequeño logotipo de Adidas bordado en el pecho
+- Presenta ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

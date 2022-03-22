@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuello alzado y cremallera hasta el pecho
+- Primegreen
+- Paneles laterales de canalé elástico
 - Punto doble 100% poliéster reciclado
 - Puños con abertura para el pulgar
-- Cuello alzado y cremallera hasta el pecho
-- Paneles laterales de canalé elástico
-- Primegreen
 
 [🛒 Comprar!!!]({{< param buyurl >}})
