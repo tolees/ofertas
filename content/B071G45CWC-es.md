@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reloj Calvin Klein - Mujer K8E2M111'
-date: 2022-02-25 00:24:37
+date: 2022-03-22 20:35:59
 image: 'https://m.media-amazon.com/images/I/31hf6AV97YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B071G45CWC/?tag=tolees-21'
 descuento: '59.26'
-average: '103.383846153846'
+average: '103.245'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Negro y Metálico
+- WR 30mt
 - Analógico en Acero inoxidable para Mujer
 - Moda
 - Cuarzo
-- WR 30mt
+- Negro y Metálico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

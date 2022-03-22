@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para los Fans de Funko
 - Figura pop game of thrones: yara greyjoy
 - Licencia oficial
+- Para los Fans de Funko
 
 [🛒 Visítala!!!]({{< param buyurl >}})
