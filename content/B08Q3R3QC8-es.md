@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cordones
-- Parte superior de malla
 - Parte superior de cuero sintético
+- Parte superior de malla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

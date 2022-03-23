@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Cremallera
-- Tipo de tacón: Plano
-- Altura del tacón: 2.5 centímetros
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Material de la suela: Caucho
+- Cierre: Cremallera
 - Revestimiento: Sintético
 - Material exterior: Ante
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Altura del tacón: 2.5 centímetros
+- Tipo de tacón: Plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
