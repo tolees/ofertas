@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Caja de herramientas básica con 73 accesorios y complementos de bricolaje  para madera  piedra y metal  bricolaje  accesorios para herramientas de perforación y atornillado'
-date: 2022-03-16 11:43:33
+date: 2022-03-23 12:49:58
 image: 'https://m.media-amazon.com/images/I/31v2QBaacRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch'
 buyurl: 'https://www.amazon.es/dp/B08F29WHL1/?tag=tolees-21'
 descuento: '36.28'
-average: '33.3642857142857'
+average: '32.77'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatibilidad: apto para todos los taladros con cable o inalámbricos en uso manual y estacionario con sistemas de vástago cilíndrico
-- Contenido del envío: brocas para madera de 3 / 4 / 5 / 6 / 7 / 8 / 10 mm, diámetro de broca de 4 / 5 / 6 / 8 / 10 mm, brocas de metal de 3 / 4 / 6 mm, puntas de destornillador de 25 mm PH & PZ 1 / 2 / 3, S 4 / 5 / 6. 7, T 15. / 20 / 25 / 30, 1 martillo, 1 cinta métrica, 1 destornillador, 1 soporte magnético, 1 cuchillo de corte, 1 alicate combinado, 1 avellanador cónico de 6 mm de diámetro, 18 tornillos, 18 tacos
-- Campos de aplicación: la caja de 73 piezas DIY ofrece un equipamiento básico compacto para cualquier hogar o taller
-- Todo en un solo lugar: práctica caja de almacenamiento con relleno de papel 100% reciclable
 - Sencillamente práctico: la caja de iniciación DIY dispone de las herramientas manuales más útiles, accesorios y materiales de fijación
+- Campos de aplicación: la caja de 73 piezas DIY ofrece un equipamiento básico compacto para cualquier hogar o taller
+- Compatibilidad: apto para todos los taladros con cable o inalámbricos en uso manual y estacionario con sistemas de vástago cilíndrico
+- Todo en un solo lugar: práctica caja de almacenamiento con relleno de papel 100% reciclable
+- Contenido del envío: brocas para madera de 3 / 4 / 5 / 6 / 7 / 8 / 10 mm, diámetro de broca de 4 / 5 / 6 / 8 / 10 mm, brocas de metal de 3 / 4 / 6 mm, puntas de destornillador de 25 mm PH & PZ 1 / 2 / 3, S 4 / 5 / 6. 7, T 15. / 20 / 25 / 30, 1 martillo, 1 cinta métrica, 1 destornillador, 1 soporte magnético, 1 cuchillo de corte, 1 alicate combinado, 1 avellanador cónico de 6 mm de diámetro, 18 tornillos, 18 tacos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
