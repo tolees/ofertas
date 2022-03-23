@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AMPLIA COMPATIBILIDAD: Compatible con el 99% de los routers en el mercado. Idóneo para casas grandes, oficinas y pequeños negocios
-- 2 ANTENAS OMINIDIRECCIONALES: Las dos antenas externas de 3dBi proporcionan una buena intensidad en la señal Wi-Fi, más estable y más rápida
-- PORTÁTIL Y CÓMODO: Con un diseño simple y elegante, este repetidor es ligero, compacto y portátil. El LED indicador te ayuda a encontrar la ubicación para el dispositivo
-- COBERTURA SIN FISURAS: Reconexión automática a la señal Wi-Fi más intensa
 - Compatible con los routers inalámbricos estándar 802.11n de las principales marcas y el módem WiFi DSL
+- AMPLIA COMPATIBILIDAD: Compatible con el 99% de los routers en el mercado. Idóneo para casas grandes, oficinas y pequeños negocios
+- PORTÁTIL Y CÓMODO: Con un diseño simple y elegante, este repetidor es ligero, compacto y portátil. El LED indicador te ayuda a encontrar la ubicación para el dispositivo
 - CONFIGURACIÓN RÁPIDA Y SENCILLA: Botón WPS, configuración rápida en 3 pasos mediante smartphone o tablet. Admite SSID oculto
+- COBERTURA SIN FISURAS: Reconexión automática a la señal Wi-Fi más intensa
+- 2 ANTENAS OMINIDIRECCIONALES: Las dos antenas externas de 3dBi proporcionan una buena intensidad en la señal Wi-Fi, más estable y más rápida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
