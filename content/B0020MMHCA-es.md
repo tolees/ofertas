@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Old Skool  Zapatillas Unisex Adulto  Blanco  True White W00   39 EU'
-date: 2022-03-22 03:55:21
+date: 2022-03-23 04:31:42
 image: 'https://m.media-amazon.com/images/I/41bZFgMxtcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B0020MMHCA/?tag=tolees-21'
 descuento: '46.33'
-average: '41.2355'
+average: '41.1885714285714'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
