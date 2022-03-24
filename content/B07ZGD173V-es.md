@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Calvin Klein Jeans Essential Slim tee Camiseta  CK Black  S para Hombre'
-date: 2022-03-01 08:00:30
+title: 'Calvin Klein CK Essential Slim tee Camiseta  Negro  S para Hombre'
+date: 2022-03-24 21:17:32
 image: 'https://m.media-amazon.com/images/I/31VpXD3cVqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07ZGD173V-es Calvin Klein Jeans Essential Slim tee Camiseta CK Black S...'
+slug: 'B07ZGD173V-es Calvin Klein CK Essential Slim tee Camiseta Negro S para...'
 sku: 'B07ZGD173V-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','calvin klein', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95
 comparePrice: 29.9 EUR
-prodname: 'Calvin Klein Jeans Essential Slim tee Camiseta  CK Black  S para Hombre'
+prodname: 'Calvin Klein CK Essential Slim tee Camiseta  Negro  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B07ZGD173V/?tag=tolees-21'
 descuento: '50.00'
-average: '17.9766666666667'
+average: '17.22'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo
 - Ajuste slim
 - Algodón orgánico
+- Cuello redondo
 - Ribete con raya en el interior del cuello
 - Mangas cortas
 
