@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga raglán.
 - Con bolsillo de tipo canguro
+- Capucha con cordón ajustable.
+- Manga raglán.
 - Corte clásico más ancho y silueta recta.
 - Puños y dobladillo de canalé.
 - Felpa 70% algodón / 30% poliéster.
-- Capucha con cordón ajustable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

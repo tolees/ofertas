@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material exterior: piel lisa
+- Material interior: piel
 - Cierre: deslizante
 - Suela: piel y goma
-- Material interior: piel
-- Material exterior: piel lisa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
