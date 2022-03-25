@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: con cordones
-- Tipo de tacón: Plataforma
-- Material exterior: Cuero sintético
 - Revestimiento: Tela
+- Tipo de tacón: Plataforma
+- Cierre: con cordones
 - Material de la suela: Sintético
+- Material exterior: Cuero sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
