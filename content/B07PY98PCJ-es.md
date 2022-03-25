@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Recomendado para niños a partir de 3 años
-- Figura de colección de la marca Funko
 - El artículo es adecuado para todos los fanáticos de The Simpsons
 - El producto se envía en una caja ilustrada con ventana
+- Figura de colección de la marca Funko
 
 [🛒 Aquí!!!]({{< param buyurl >}})
