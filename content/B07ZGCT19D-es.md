@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans Essential Slim tee Camiseta  CK Black  XL para Hombre'
-date: 2022-03-01 10:55:52
+date: 2022-03-25 08:46:21
 image: 'https://m.media-amazon.com/images/I/31VpXD3cVqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste slim
-- Mangas cortas
-- Algodón orgánico
-- Cuello redondo
-- Ribete con raya en el interior del cuello
+- Calvin Klein embroidery on the chest
+- Crew neckline
 
 [🛒 Comprar!!!]({{< param buyurl >}})

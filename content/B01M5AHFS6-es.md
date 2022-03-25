@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 373 Core  Zapatillas Hombre  Negro Black  45.5 EU'
-date: 2022-03-23 05:54:25
+date: 2022-03-25 09:12:33
 image: 'https://m.media-amazon.com/images/I/31jbh1uP1qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B01M5AHFS6/?tag=tolees-21'
 descuento: '43.75'
-average: '46.693'
+average: '46.612380952381'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo: zapatillas de running
-- Material interior: tela
-- Material de la suela: goma
 - Material exterior: material sintético
+- Estilo: zapatillas de running
+- Material de la suela: goma
+- Material interior: tela
 - Cierre: cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
