@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte regular
-- Perforado 3 tiras
 - Cordones de zapatos
+- Perforado 3 tiras
+- Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

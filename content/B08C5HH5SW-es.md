@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Suela: sintética
 - Cierre: hebilla
-- Material interior: sintético
 - Material exterior: piel lisa
+- Material interior: sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
