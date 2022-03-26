@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WN881ND - WIFI Adaptador PCI Express  Tarjeta de Red  300 Mbps  2.4 GHz  802.11n/g/b  2 antenas desmontables   para Raspberry Pi  PC de Sobremesa'
-date: 2022-03-17 03:02:22
+date: 2022-03-26 20:04:03
 image: 'https://m.media-amazon.com/images/I/415vrQMpdJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B006BSPTAQ/?tag=tolees-21'
 descuento: '42.63'
-average: '12.9174736842103'
+average: '12.9150393700785'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

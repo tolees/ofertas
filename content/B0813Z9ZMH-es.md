@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Superstar  Sneaker  Footwear White/Core Black/Footwear White  38 EU'
-date: 2022-03-19 16:02:05
+date: 2022-03-26 19:45:44
 image: 'https://m.media-amazon.com/images/I/41R1V2LATGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B0813Z9ZMH/?tag=tolees-21'
 descuento: '45.00'
-average: '39.225'
+average: '38.9833333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cordones de zapatos
 - Parte superior de cuero
 - Zapatilla clásica de cuero
-- Cordones de zapatos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HyperX Cloud Stinger – Cascos de Gaming'
-date: 2022-03-21 16:04:10
+date: 2022-03-26 19:22:05
 image: 'https://m.media-amazon.com/images/I/41m8hUyCaML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HyperX'
 buyurl: 'https://www.amazon.es/dp/B01LRX2DSA/?tag=tolees-21'
 descuento: '53.31'
-average: '42.6320661157026'
+average: '42.3939837398375'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
