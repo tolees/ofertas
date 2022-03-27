@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Heel type: plano
-- Outer material: cuero sintético
-- Lining: sintético
 - Sole material: goma
+- Heel type: plano
 - Closure: cordones
+- Outer material: cuero sintético
 - Shoe width: normal
+- Lining: sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

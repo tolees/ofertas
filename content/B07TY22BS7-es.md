@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla de espuma viscoelástica refrigerada por aire
 - Malla sin cordones
+- Plantilla de espuma viscoelástica refrigerada por aire
 
 [🛒 Visítala!!!]({{< param buyurl >}})

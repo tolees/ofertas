@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Oats  Zapatillas Hombre  Black Normal  40 EU'
-date: 2022-03-17 01:32:27
+date: 2022-03-27 03:14:49
 image: 'https://m.media-amazon.com/images/I/41K39ym5QnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLD8BL1/?tag=tolees-21'
 descuento: '38.68'
-average: '41.7425'
+average: '42.592'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

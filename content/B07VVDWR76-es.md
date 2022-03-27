@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sutil malla con diseño de puntos de leopardo texturizado tono sobre tono
-- Detalle metálico en el logotipo y el ribete de la entresuela
 - Detalles de costura
+- Detalle metálico en el logotipo y el ribete de la entresuela
 - Tejido de malla de punto con textura suave en la parte superior de casi una pieza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

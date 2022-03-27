@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Estas zapatillas de cuña cuentan con un diseño clásico y una suela ancha que ofrece un estilo característico para looks retro o contemporáneos
-- Parte superior de lona
 - Suela de goma inyectada
+- Parte superior de lona
 
 [🛒 Aquí!!!]({{< param buyurl >}})
