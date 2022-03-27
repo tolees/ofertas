@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cordones
 - Parte superior de malla y cuero
 - Parte superior acolchada
-- Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

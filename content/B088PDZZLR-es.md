@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Batería de Larga Duración y Carga Rápida: hasta 50 horas interrumpidas de reproducción con una sola carga, además con una carga de 15 minutos podrás disfrutas de más de una hora de reproducción
+- Control de voz en tu Smartphone: gracias al manos libres incorporado y al asistente de voz podrás realizar llamadas, cambiar de música o subir le volumen sin tener que mirar tu móvil
+- Conexión flexible de Bluetooth o Cable: tu decides si utilizar tus auriculares sin cables en el modo Bluetooth, por ejemplo, cuando estas haciendo ejercicio o moviéndote por la ciudad, o si quieres utilizar su cable extra largo de 1,2 metros, en caso de que te quedes sin batería o decidas usarlo
 - Ajuste extra cómodo: gracias a la diadema y a las orejeras suavemente acolchadas con los mejores materiales, se adaptarán perfectamente a la forma de tu cabeza y orejas y podrás disfrutar de un largo tiempo con los auriculares sin sentir molestias
 - Potenciador de Bajos (XBS): El sistema de bajos extra de Panasonic es un modo de ecualización que realza el sonido de forma pareja en altos, medios y bajos, dando así un sonido claro y nítido, reforzando la gama de graves
-- Batería de Larga Duración y Carga Rápida: hasta 50 horas interrumpidas de reproducción con una sola carga, además con una carga de 15 minutos podrás disfrutas de más de una hora de reproducción
-- Conexión flexible de Bluetooth o Cable: tu decides si utilizar tus auriculares sin cables en el modo Bluetooth, por ejemplo, cuando estas haciendo ejercicio o moviéndote por la ciudad, o si quieres utilizar su cable extra largo de 1,2 metros, en caso de que te quedes sin batería o decidas usarlo
-- Control de voz en tu Smartphone: gracias al manos libres incorporado y al asistente de voz podrás realizar llamadas, cambiar de música o subir le volumen sin tener que mirar tu móvil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

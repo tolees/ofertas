@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Su válvula limpia ha sido diseñada para conservar la textura y el sabor
-- La salsa es para las patatas
 - El paquete incluye 8 unidades
+- La salsa es para las patatas
 - Formato fácil de usar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
