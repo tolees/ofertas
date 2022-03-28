@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Basket Classic XXI  Zapatillas  para Hombre  Blanco  Puma White-Glacial Blue   36 EU'
-date: 2022-03-26 20:04:15
+date: 2022-03-28 04:46:45
 image: 'https://m.media-amazon.com/images/I/31ZGo1QOSPS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Plantilla textil
 - Bota baja
 - Parte superior de cuero completo
-- Plantilla textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

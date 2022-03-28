@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte ajustado en los muslos
-- Con apertura de pierna pitillo
 - Diseño de cinco bolsillos
+- Con apertura de pierna pitillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

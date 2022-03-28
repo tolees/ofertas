@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- piel
 - Piel lisa
 - He_Sho_Schnuerschuhe_T
 - Piel y tela
-- piel
 - Cierre: no especificado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
