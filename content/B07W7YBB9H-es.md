@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital My Book Disco Duro Externo de Sobremesa de 12 TB  3.5"  USB 3.0  Negro'
-date: 2022-03-22 23:21:57
+date: 2022-03-28 08:51:54
 image: 'https://m.media-amazon.com/images/I/31fb4AS9DbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B07W7YBB9H/?tag=tolees-21'
 descuento: '39.88'
-average: '240.048958333333'
+average: '239.211224489796'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de confianza fabricado con la fiabilidad de wd
-- Copia de seguridad automática con el software wd backup incluido y compatible con time machine
-- Software wd discovery para wd security, importación de almacenamiento en redes sociales y en la nube, y wd drive utilities
-- Protección con contraseña y hardware de cifrado
 - Puerto usb 3.0 (compatible con usb 2.0)
+- Protección con contraseña y hardware de cifrado
+- Copia de seguridad automática con el software wd backup incluido y compatible con time machine
+- Almacenamiento de confianza fabricado con la fiabilidad de wd
+- Software wd discovery para wd security, importación de almacenamiento en redes sociales y en la nube, y wd drive utilities
 
 [🛒 Comprar!!!]({{< param buyurl >}})

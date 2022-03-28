@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjecorp Logo Noos Capucha  Gris  Light Grey Mixed 054   Small para Hombre'
-date: 2022-03-25 09:46:35
+date: 2022-03-28 09:11:29
 image: 'https://m.media-amazon.com/images/I/41bATjMqgML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Talla/Tamaño: Small
-- Sweater with logo
 - Cotton mixture
+- Sweater with logo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
