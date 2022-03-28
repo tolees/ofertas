@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hellmann s Salsa Brava Bocabajo - Pack de 8 x 250 ml  Total: 2000 ml '
-date: 2022-03-27 07:21:23
+date: 2022-03-28 13:00:06
 image: 'https://m.media-amazon.com/images/I/51xbeJlHcoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hellmanns'
 buyurl: 'https://www.amazon.es/dp/B01N2H6P1G/?tag=tolees-21'
 descuento: '38.86'
-average: '7.91692307692307'
+average: '7.96285714285714'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
