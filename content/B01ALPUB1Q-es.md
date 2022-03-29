@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gramaje 240 g/m2
-- Material resistente
 - Pantalón multibolsillos
+- Material resistente
 - Composición: Stretch. 16% poliéster - 46% algodón - 38% EMET
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

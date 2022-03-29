@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- Anna
 - Disney frozen 2
-- Descúbre otras figuras de la colección disney y colecciónalas todas
 - De la colección frozen 2, anna como figura de vinilo pop de funko
+- Anna
+- Descúbre otras figuras de la colección disney y colecciónalas todas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

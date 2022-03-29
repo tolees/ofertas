@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Handball Spezial  Zapatillas de Gimnasia Hombre  Negro  Core Black/FTWR White/Gum5   40 2/3 EU'
-date: 2022-03-22 14:04:43
+date: 2022-03-29 10:44:01
 image: 'https://m.media-amazon.com/images/I/31Mzt84PWnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07JYLQFQ4/?tag=tolees-21'
 descuento: '69.98'
-average: '44.2688888888889'
+average: '40.7016666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordones de zapatos
-- La parte superior de cuero de nubuck de cerdo
 - Corte regular
+- La parte superior de cuero de nubuck de cerdo
+- Cordones de zapatos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
