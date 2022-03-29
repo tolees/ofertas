@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con visor del control que asegura el consumo de la tinta hasta la última gota
 - Plumín metálico de suave escritura con tinta líquida
 - Tiene ancho de la pluma de 0.4 mm
 - Con pluma desechable y carcasa de plástico
-- Con visor del control que asegura el consumo de la tinta hasta la última gota
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
