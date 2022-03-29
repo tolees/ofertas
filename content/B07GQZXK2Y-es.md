@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - - Star Wars EP8 - Pop Finn'
-date: 2022-02-26 14:13:46
+date: 2022-03-29 09:49:22
 image: 'https://m.media-amazon.com/images/I/51si6J02fdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07GQZXK2Y/?tag=tolees-21'
 descuento: '68.97'
-average: '5.28333333333333'
+average: '5.26818181818181'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

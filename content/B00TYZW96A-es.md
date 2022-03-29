@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Home Box Office US/Canada - Hermanos De Sangre Blu-Ray [Blu-ray]'
-date: 2022-03-25 08:46:34
+date: 2022-03-29 09:45:05
 image: 'https://m.media-amazon.com/images/I/51Xpi2IXXeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Home Box Office US/Canada'
 buyurl: 'https://www.amazon.es/dp/B00TYZW96A/?tag=tolees-21'
 descuento: '38.11'
-average: '15.9373333333333'
+average: '15.94625'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
