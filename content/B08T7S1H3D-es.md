@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cable USB extraíble de 3 m
-- No necesita pilas
-- No necesita pilas
-- Licencia oficial de Nintendo
-- El mando de juego incluye una toma audio de 3,5 mm y botones de juego avanzados programables
-- Licencia oficial de Nintendo
 - Cable USB de 3 m extraíble
+- No necesita pilas
+- Licencia oficial de Nintendo
+- Licencia oficial de Nintendo
+- No necesita pilas
+- El mando de juego incluye una toma audio de 3,5 mm y botones de juego avanzados programables
 
 [🛒 Aquí!!!]({{< param buyurl >}})
