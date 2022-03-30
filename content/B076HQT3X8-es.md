@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material duradero
 - Camiseta Fútbol Hombre
 - Ropa deportiva Adidas
 - Core18 Tee (Cv3982)
-- Material duradero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

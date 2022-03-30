@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 Camiseta Polo  Hombre  Bold Blue/White  S'
-date: 2022-02-15 02:45:44
+date: 2022-03-30 01:04:07
 image: 'https://m.media-amazon.com/images/I/31SGJWkK1AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Camisetas, polos y camisas para hombre','Polos para hombre','Ropa','Rop
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95
-comparePrice: 27.95 EUR
+comparePrice: 28.0 EUR
 prodname: 'adidas CORE18 Camiseta Polo  Hombre  Bold Blue/White  S'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HRGYDF/?tag=tolees-21'
-descuento: '50.09'
-average: '12.3033333333333'
+descuento: '50.18'
+average: '12.962'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
