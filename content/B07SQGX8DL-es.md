@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material interior: malla
 - Material exterior: piel lisa
 - Suela: sintética
-- Material interior: malla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
