@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Non-slip sole for greater stability
-- Walking shoes
 - Breathable Mesh upper
+- Walking shoes
+- Non-slip sole for greater stability
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

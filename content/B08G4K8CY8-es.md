@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hasta 26 Horas de Reproducción: obtén 7 horas de reproducción con una sola carga de los auriculares y extiende la duración con hasta 3 recargas en el estuche de carga.
-- Sonido Puro gracias a la Cancelación de Ruido Activa Dirigida: elige el entorno adecuado a través de la aplicación Soundcore y escucha cómo el sonido ambiental desaparece y te sumerges en un sonido puro.
-- Llamadas Nítidas: mediante los 6 micrófonos con cancelación y reducción de ruido, tu voz se aísla y se transmite con la máxima nitidez para que disfrutes de una experiencia como si fuera cara a cara.
 - EQ Personalizado HearID: para garantizar una experiencia de sonido perfecta, HearID analiza de forma inteligente tu perfil auditivo único y crea una configuración de sonido a medida solo para tus oídos. También puedes tomar el control total sobre el sonido con el EQ ajustable o los 22 perfiles de sonido preestablecidos.
 - Tecnología de Diafragma PureNote: consigue un incremento de los graves del 45 % y un ancho de banda de frecuencia un 30 % superior en comparación con diafragmas normales. Los diafragmas recubiertos con 10 nanocapas endurecidas ofrecen una rigidez increíble para generar una precisión y claridad impresionantes.
+- Sonido Puro gracias a la Cancelación de Ruido Activa Dirigida: elige el entorno adecuado a través de la aplicación Soundcore y escucha cómo el sonido ambiental desaparece y te sumerges en un sonido puro.
+- Hasta 26 Horas de Reproducción: obtén 7 horas de reproducción con una sola carga de los auriculares y extiende la duración con hasta 3 recargas en el estuche de carga.
+- Llamadas Nítidas: mediante los 6 micrófonos con cancelación y reducción de ruido, tu voz se aísla y se transmite con la máxima nitidez para que disfrutes de una experiencia como si fuera cara a cara.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

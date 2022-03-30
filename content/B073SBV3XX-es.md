@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Certificación del F.I.T. Lab de WD para su compatibilidad con una amplia gama de ordenadores
 - SSD 3D NAND SATA con capacidades de hasta 2 TB y fiabilidad mejorada
 - Consumo eléctrico activo hasta un 25 % inferior al de anteriores generaciones de WD Blue SSD
 - Velocidades de lectura secuencial de hasta 560 MB/s y velocidades de escritura secuencial de hasta 530 MB/s
 - Tiempo medio antes de fallos (MTTF) de 1,75 millones de horas y una resistencia de hasta 500 terabytes escritos (TBW) con una fiabilidad mejorada
+- Certificación del F.I.T. Lab de WD para su compatibilidad con una amplia gama de ordenadores
 
 [🛒 Aquí!!!]({{< param buyurl >}})

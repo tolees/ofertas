@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Marca: Reebok
-- Ref: BD1403
 - Talla 44
+- Ref: BD1403
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
