@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Atwood Canvas  Zapatillas Hombre  Black 186  38.5 EU'
-date: 2022-03-20 13:17:50
+date: 2022-03-30 12:16:15
 image: 'https://m.media-amazon.com/images/I/312AHAgXqaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00CWB4CLI-es Vans Atwood Canvas Zapatillas Hombre Black 186 38.5 EU'
 sku: 'B00CWB4CLI-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','vans', ]
-actualPrice: 38.99 EUR
+actualPrice: 41.75 EUR
 currency: EUR
-price: 38.99
+price: 41.75
 comparePrice: 65.0 EUR
 prodname: 'Vans Atwood Canvas  Zapatillas Hombre  Black 186  38.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B00CWB4CLI/?tag=tolees-21'
-descuento: '40.02'
-average: '48.2084732824429'
+descuento: '35.77'
+average: '48.1595454545456'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

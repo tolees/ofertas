@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Glide  Zapatillas de Deporte Hombre  White/Steel Royal  39 EU'
-date: 2022-03-19 14:44:41
+date: 2022-03-30 13:47:54
 image: 'https://m.media-amazon.com/images/I/21fLaDmhY5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B01I1F1PIQ/?tag=tolees-21'
 descuento: '35.35'
-average: '43.97'
+average: '43.31'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Marca: Reebok
 - Ref: BD1403
 - Talla 44
-- Marca: Reebok
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
