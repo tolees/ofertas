@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U Dublin A  Oxford Hombre  Negro  41 EU'
-date: 2022-02-22 23:33:47
+date: 2022-03-29 22:45:17
 image: 'https://m.media-amazon.com/images/I/310CpFbVqUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00BMMJONE-es Geox U Dublin A Oxford Hombre Negro 41 EU'
 sku: 'B00BMMJONE-es'
 tags: [ 'Zapatos','Zapatos para hombre','Zapatos y complementos','geox', ]
-actualPrice: 44.2 EUR
+actualPrice: 54.69 EUR
 currency: EUR
-price: 44.2
+price: 54.69
 comparePrice: 99.9 EUR
 prodname: 'Geox U Dublin A  Oxford Hombre  Negro  41 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B00BMMJONE/?tag=tolees-21'
-descuento: '55.76'
-average: '55.1366666666667'
+descuento: '45.26'
+average: '55.0728571428572'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de llevar para un confort optimo
-- Plantilla desmontable
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Plantilla antibacteriana
+- Fácil de llevar para un confort optimo
 - Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
+- Plantilla antibacteriana
+- Plantilla desmontable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
