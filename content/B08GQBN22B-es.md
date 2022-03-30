@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de la suela: goma
-- Forro: sintético
 - Parte superior: sintético
+- Forro: sintético
+- Material de la suela: goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfecto cualquier ocasión
-- Omini Kappa
-- Polo deportivo
 - Máxima comodidad
+- Polo deportivo
+- Omini Kappa
+- Perfecto cualquier ocasión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
