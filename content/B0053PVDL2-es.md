@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuado para preparar madera, plástico o metal antes de pintar y para el lijado intermedio de barnices y pinturas también para lijar rebajes y curvas ligeras, así como para realizar un lijado fino de tapaporos
-- Dimensiones: 69 x 97 x 26 mm
-- Para terminar de lijar la superficie de trabajo, tras los procesos de remover y preparar el material
-- Color verde en la espuma para identificar más fácilmente la aplicación terminar
-- Sin disolventes, lo que evita ensuciar la superficie
-- La estructura abierta impide el embotamiento
-- Taco de lija de grano superfino para lijar superficies diversas, planas o en bordes, a mano
 - Taco cubierto por cuatro caras con grano abrasivo resistente a la rotura
+- Para terminar de lijar la superficie de trabajo, tras los procesos de remover y preparar el material
 - Lavable y reutilizable repetidamente
+- Sin disolventes, lo que evita ensuciar la superficie
+- Color verde en la espuma para identificar más fácilmente la aplicación terminar
+- Adecuado para preparar madera, plástico o metal antes de pintar y para el lijado intermedio de barnices y pinturas también para lijar rebajes y curvas ligeras, así como para realizar un lijado fino de tapaporos
+- Taco de lija de grano superfino para lijar superficies diversas, planas o en bordes, a mano
+- Dimensiones: 69 x 97 x 26 mm
+- La estructura abierta impide el embotamiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})

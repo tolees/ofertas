@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CMEVA: material EVA moldeado por compresión para un rendimiento ligero
 - Bota baja
 - SoftFoam: la plantilla de doble densidad de Puma proporciona dos capas únicas de amortiguación para una comodidad personalizada, ajuste y durabilidad
+- CMEVA: material EVA moldeado por compresión para un rendimiento ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

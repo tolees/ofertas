@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Roedores
 - Alimento
+- Roedores
 - Extrusionado con fibra
 
 [🛒 Aquí!!!]({{< param buyurl >}})
