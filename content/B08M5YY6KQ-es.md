@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte superior de lona
-- Forro de tela
 - Plantilla OrthoLite
 - Materiales duraderos
 - Cierre de cordones
+- Forro de tela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
