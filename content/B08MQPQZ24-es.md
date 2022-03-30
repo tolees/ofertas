@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Erupter  Zapatillas para correr  para Hombre  Negro  Puma Black-Urban Red   48.5 EU'
-date: 2022-03-29 15:11:52
+date: 2022-03-30 16:34:50
 image: 'https://m.media-amazon.com/images/I/41YDK1zPHBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B08MQPQZ24/?tag=tolees-21'
 descuento: '51.58'
-average: '32.055'
+average: '31.8533333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

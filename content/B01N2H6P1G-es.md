@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hellmann s Salsa Brava Bocabajo - Pack de 8 x 250 ml  Total: 2000 ml '
-date: 2022-03-28 13:00:06
+date: 2022-03-30 17:53:18
 image: 'https://m.media-amazon.com/images/I/51xbeJlHcoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01N2H6P1G-es Hellmann s Salsa Brava Bocabajo - Pack de 8 x 250 ml...'
 sku: 'B01N2H6P1G-es'
 tags: [ 'Alimentación y bebidas','Salsa barbacoa','Salsas','Salsas para servir y cocinar','hellmanns', ]
-actualPrice: 8.56 EUR
+actualPrice: 8.18 EUR
 currency: EUR
-price: 8.56
+price: 8.18
 comparePrice: 14.0 EUR
 prodname: 'Hellmann s Salsa Brava Bocabajo - Pack de 8 x 250 ml  Total: 2000 ml '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Hellmanns'
 buyurl: 'https://www.amazon.es/dp/B01N2H6P1G/?tag=tolees-21'
-descuento: '38.86'
-average: '7.96285714285714'
+descuento: '41.57'
+average: '7.97733333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su válvula limpia ha sido diseñada para conservar la textura y el sabor
 - El paquete incluye 8 unidades
-- La salsa es para las patatas
 - Formato fácil de usar
+- Su válvula limpia ha sido diseñada para conservar la textura y el sabor
+- La salsa es para las patatas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
