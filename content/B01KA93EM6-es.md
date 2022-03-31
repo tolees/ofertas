@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Shrink-wrapped
 - SOUNDS TRUE RECORDS
+- Shrink-wrapped
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yale 10IHN Cerradura de Sobreponer  A Mano Izquierda Entrada 45 mm / Izda Hierro Niquelado'
-date: 2022-03-21 17:43:51
+date: 2022-03-31 18:04:12
 image: 'https://m.media-amazon.com/images/I/31kqjnnritL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- entido apertura: izquierda.
-- Cerraduras de sobreponer con sistema antipalanca.
-- Doble cilindro
-- Picaporte con tirador y palanca
-- Picaporte con tirador y palanca.
-- Doble cilindro.
 - Cerraduras de sobreponer con sistema antipalanca
+- Picaporte con tirador y palanca.
+- Doble cilindro
+- entido apertura: izquierda.
+- Picaporte con tirador y palanca
+- Cerraduras de sobreponer con sistema antipalanca.
+- Doble cilindro.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
