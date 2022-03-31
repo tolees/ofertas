@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional 7x. Set de Brocas Fresadoras Planas SelfCut Speed  Madera  con Prolongación  1/4" HEX  Ø 16 - 32 mm  Accesorios Taladro de impacto rotativo '
-date: 2022-03-29 14:00:11
+date: 2022-03-31 16:52:48
 image: 'https://m.media-amazon.com/images/I/41D4jNoBgVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.es/dp/B008HRESU6/?tag=tolees-21'
 descuento: '49.65'
-average: '13.96'
+average: '13.9966666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suministro: 6x Brocas Fresadoras Planas SelfCut Speed Ø 16/18/20/22/25/32 mm, 1x Prolongación 152 mm
-- La punta roscada autoperforante permite perforar a alta velocidad con poco esfuerzo
 - En prueba de producto, esta broca realiza agujeros 10 veces más rápido que una broca fresadora plana convencional
 - Rápida eliminación de virutas y resultados rápidos gracias a la pala con forma diseñada específicamente
+- La punta roscada autoperforante permite perforar a alta velocidad con poco esfuerzo
 - La broca fresadora plana SelfCut Speed perfora agujeros con rapidez extrema
+- Suministro: 6x Brocas Fresadoras Planas SelfCut Speed Ø 16/18/20/22/25/32 mm, 1x Prolongación 152 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

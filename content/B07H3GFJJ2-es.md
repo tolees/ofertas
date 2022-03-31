@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HyperX Pulsefire Core – Ratón de Gaming RGB'
-date: 2022-03-19 14:25:23
+date: 2022-03-31 17:19:04
 image: 'https://m.media-amazon.com/images/I/314BXSG6e-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HyperX'
 buyurl: 'https://www.amazon.es/dp/B07H3GFJJ2/?tag=tolees-21'
 descuento: '44.01'
-average: '26.8041666666667'
+average: '26.2492307692308'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómodo diseño simétrico
-- Fácil personalización con el software hyperx ngenuity
-- Siete botones programables
 - Sensor óptico pixart 3327 con hasta 6.200 ppp nativos
 - Grandes patines del ratón para un deslizamiento suave y controlado
+- Fácil personalización con el software hyperx ngenuity
+- Cómodo diseño simétrico
+- Siete botones programables
 
 [🛒 Visítala!!!]({{< param buyurl >}})

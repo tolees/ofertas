@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dickie Toys - Dickie 203715001  Camión Bomberos  Rojo'
-date: 2022-03-30 15:50:44
+date: 2022-03-31 16:58:07
 image: 'https://m.media-amazon.com/images/I/51PlnS7pvpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dickie Toys'
 buyurl: 'https://www.amazon.es/dp/B00U770FEC/?tag=tolees-21'
 descuento: '61.28'
-average: '18.7775'
+average: '18.53'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camión de Bomberos de fricción
-- Lanza agua de verdad
-- Piezas móviles
 - Escala extensible que gira hasta 350º
+- Piezas móviles
+- Lanza agua de verdad
+- Camión de Bomberos de fricción
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

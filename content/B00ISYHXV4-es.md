@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stanley 160173XSTN - Accesorio para compresores de aire'
-date: 2022-03-30 05:22:42
+date: 2022-03-31 16:50:29
 image: 'https://m.media-amazon.com/images/I/41D1vsJDfrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
