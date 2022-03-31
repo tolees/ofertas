@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Resistant material
 - Adjustable shoulder strap
 - Frontal pocket with zip closure
-- Resistant material
 
 [🛒 Comprar!!!]({{< param buyurl >}})
