@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Cali Wn s  Zapatillas  para Mujer  Blanco  Puma White-Puma White   36 EU'
-date: 2022-03-19 14:13:22
+date: 2022-03-31 11:22:31
 image: 'https://m.media-amazon.com/images/I/31lLFhzqfHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07DBWXVPP-es PUMA Cali Wn s Zapatillas para Mujer Blanco Puma White-...'
 sku: 'B07DBWXVPP-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','puma', ]
-actualPrice: 40.97 EUR
+actualPrice: 38.59 EUR
 currency: EUR
-price: 40.97
+price: 38.59
 comparePrice: 89.95 EUR
 prodname: 'PUMA Cali Wn s  Zapatillas  para Mujer  Blanco  Puma White-Puma White   36 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B07DBWXVPP/?tag=tolees-21'
-descuento: '54.45'
-average: '49.1015000000001'
+descuento: '57.10'
+average: '48.1668181818182'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

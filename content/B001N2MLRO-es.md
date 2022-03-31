@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% Lifa
-- Manga Larga
-- Natural stretch fabric
-- Compuesto
-- Hh Lifa Stripe Crew
 - Light weight insulation
+- Compuesto
 - Flat lock seams for max comfort
+- Manga Larga
+- 100% Lifa
+- Natural stretch fabric
+- Hh Lifa Stripe Crew
 
 [🛒 Visítala!!!]({{< param buyurl >}})
