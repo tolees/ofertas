@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No contiene: parabenos, colorante petrolati
 - Ristrutturante instantáneo
+- No contiene: parabenos, colorante petrolati
 - El complejo de queratina de línea contiene queratina líquida, que se coloca sobre la fibra capilar y contrasta los signos del tiempo del cabello
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
