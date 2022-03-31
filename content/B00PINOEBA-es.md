@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Phytorelax Tratamiento Capilar 250 ml 250 ml'
-date: 2022-03-27 15:08:05
+date: 2022-03-31 08:43:23
 image: 'https://m.media-amazon.com/images/I/21yChOd1r6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ristrutturante instantáneo
 - No contiene: parabenos, colorante petrolati
+- Ristrutturante instantáneo
 - El complejo de queratina de línea contiene queratina líquida, que se coloca sobre la fibra capilar y contrasta los signos del tiempo del cabello
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

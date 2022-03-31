@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior de lona, material interior de tela.
-- Suela de goma vulcanizada para una altura extra
 - Material exterior de lona.
+- Material exterior de lona, material interior de tela.
 - Texto de Superga en el lado del zapato.
+- Suela de goma vulcanizada para una altura extra
 
 [🛒 Aquí!!!]({{< param buyurl >}})
