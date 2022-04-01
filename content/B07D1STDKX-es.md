@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Algodón
 - Llanura
+- Algodón
 - Armani Exchange
 - Azul
 

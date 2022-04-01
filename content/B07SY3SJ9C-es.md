@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El colgante incluye una cadena
-- Este diseño con baño en tono oro rosa luce una delicada gradación elaborada con cristales azules en engaste pavé, y lleva motivos con la luna y las estrellas, que simbolizan los sueños y esperanzas
-- Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional, el metal es enchapado y cada cristal se engarza de forma individual; debido a ello necesitan un cuidado especial
 - Desde 1895, el dominio de la talla del cristal del fundador, Daniel Swarovski, ha definido a la empresa con su constante pasión por la innovación y el diseño
+- Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional, el metal es enchapado y cada cristal se engarza de forma individual; debido a ello necesitan un cuidado especial
+- Este diseño con baño en tono oro rosa luce una delicada gradación elaborada con cristales azules en engaste pavé, y lleva motivos con la luna y las estrellas, que simbolizan los sueños y esperanzas
 - Esta temporada, inspira tu estilo en el cielo nocturno con este colgante contemporáneo pero clásico
+- El colgante incluye una cadena
 
 [🛒 Comprar!!!]({{< param buyurl >}})
