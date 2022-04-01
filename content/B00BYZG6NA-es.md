@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: tela
-- Material suela: goma
 - Forro: tejido
+- Material suela: goma
+- Material exterior: tela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
