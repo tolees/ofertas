@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Cordones
 - Tipo de tacón: Plano
-- Material exterior: Cuero
-- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 53.9€
 - Material de la suela: Goma
+- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 53.9€
+- Material exterior: Cuero
 - Revestimiento: Tela
+- Cierre: Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

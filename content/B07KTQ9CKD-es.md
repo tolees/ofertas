@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Correa de silicona negra con detalles en rojo
-- Grosor de la caja de 11,17mm
 - 5 ATM de resistencia al agua; se puede utilizar en la ducha o para nadar, pero no para bucear en aguas profundas
-- Movimiento cronógrafo
 - Esfera negra con detalles en rojo
+- Movimiento cronógrafo
+- Grosor de la caja de 11,17mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

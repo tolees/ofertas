@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3 ATM de resistencia al agua; el agua del grifo o la lluvia no daña nuestros relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
-- Tres manecillas
-- Esfera azul con detalles en acero inoxidable
-- Correa de silicona azul con detalles en blanco
 - Grosor de la caja de 8,5 mm
+- Esfera azul con detalles en acero inoxidable
+- Tres manecillas
+- 3 ATM de resistencia al agua; el agua del grifo o la lluvia no daña nuestros relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
+- Correa de silicona azul con detalles en blanco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

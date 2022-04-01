@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tipo de tacón: Plano
+- Tipo de talla: Talla estándar
+- Anchura del zapato: Normal
 - Cierre: Cordones
 - Composición: Textil
-- Tipo de tacón: Plano
-- Anchura del zapato: Normal
-- Tipo de talla: Talla estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
