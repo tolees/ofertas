@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Selecta Visión - Blasphemous'
-date: 2022-03-28 09:23:14
+date: 2022-03-31 22:59:10
 image: 'https://m.media-amazon.com/images/I/41EaYWZnNFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Selecta Visión'
 buyurl: 'https://www.amazon.es/dp/B08KT6ZS52/?tag=tolees-21'
 descuento: '45.11'
-average: '32.5911111111112'
+average: '32.031052631579'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

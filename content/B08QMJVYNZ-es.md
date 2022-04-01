@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox Man U SIRMIONE A SHOES NAVY 42 EU'
-date: 2022-03-31 23:18:51
-image: 'https://m.media-amazon.com/images/I/31neR3SQX4L._SL500_._SL400_.jpg'
+title: 'Geox Man U SIRMIONE A SHOES COFFEE 40 EU'
+date: 2022-03-31 23:20:44
+image: 'https://m.media-amazon.com/images/I/31B3XYHutoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08QM83HSC-es Geox Man U SIRMIONE A SHOES NAVY 42 EU'
-sku: 'B08QM83HSC-es'
+slug: 'B08QMJVYNZ-es Geox Man U SIRMIONE A SHOES COFFEE 40 EU'
+sku: 'B08QMJVYNZ-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox', ]
-actualPrice: 37.45 EUR
+actualPrice: 67.57 EUR
 currency: EUR
-price: 37.45
-comparePrice: 99.9 EUR
-prodname: 'Geox Man U SIRMIONE A SHOES NAVY 42 EU'
+price: 67.57
+comparePrice: 109.9 EUR
+prodname: 'Geox Man U SIRMIONE A SHOES COFFEE 40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B08QM83HSC/?tag=tolees-21'
-descuento: '62.51'
-average: '42.3425'
+buyurl: 'https://www.amazon.es/dp/B08QMJVYNZ/?tag=tolees-21'
+descuento: '38.52'
+average: '67.57'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Calzado ligero para una libertad de movimiento
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
 - Calce fácil de regular gracias al cierre con cordones
+- Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

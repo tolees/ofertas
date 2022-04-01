@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gearbox Publishing - Risk of Rain 2'
-date: 2022-03-28 09:17:41
+date: 2022-03-31 22:39:11
 image: 'https://m.media-amazon.com/images/I/51laeCcXbGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Gearbox Publishing'
 buyurl: 'https://www.amazon.es/dp/B07X78JBTP/?tag=tolees-21'
 descuento: '71.56'
-average: '10.1499999999998'
+average: '10.1460784313724'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye el Risk of Rain original
 - Sumérgete en la sensación indie y sensación roguelike en 2D o 3D con este bundle que incluye Risk of Rain y Risk of Rain 2
+- Incluye el Risk of Rain original
 
 [🛒 Aquí!!!]({{< param buyurl >}})
