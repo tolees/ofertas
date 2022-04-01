@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Confort y ligereza extrema testada
+- Cancelación de ruido activa 2.0
 - Connectivity technology: Inalámbrico
 - Sonido de alta definición
-- Cancelación de ruido activa 2.0
-- Confort y ligereza extrema testada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
