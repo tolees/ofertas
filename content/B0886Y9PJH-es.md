@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WFSP800N - Auriculares True Wireless  Cancelación de ruido  Bluetooth  Extra Bass  hasta 18 h de batería  resistente al agua y polvo IP55  óptimo para deporte y trabajar con manos libres  azul'
-date: 2022-04-01 08:42:55
+date: 2022-04-02 19:50:36
 image: 'https://m.media-amazon.com/images/I/31moIbDxqAS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B0886Y9PJH/?tag=tolees-21'
 descuento: '50.01'
-average: '127.786666666667'
+average: '123.815714285715'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Extra Bass Para Un Sonido Rotundo Y Profundo
-- La función Cancelación de ruido digital te permite escuchar sin distracciones
-- Hasta 18 h de duración de batería con la funda de carga
 - Diseño true wireless con conectividad inalámbrica bluetooth estable
+- La función Cancelación de ruido digital te permite escuchar sin distracciones
 - Clasificación IP55 para su uso en exteriores y una limpieza sencilla
+- Hasta 18 h de duración de batería con la funda de carga
+- Extra Bass Para Un Sonido Rotundo Y Profundo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
