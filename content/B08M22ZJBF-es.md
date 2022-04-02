@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta agenda 2021/2022 de un día por página abarca 18 meses, desde julio de 2021 hasta diciembre de 2022, para anotar tus citas y tareas diarias y semanales
 - La agenda incluye las icónicas esquinas redondeadas, cierre elástico, cinta marcapáginas y el aviso "En caso de pérdida". Papel sin ácido de 70 g/m² de color marfil
+- Esta agenda 2021/2022 de un día por página abarca 18 meses, desde julio de 2021 hasta diciembre de 2022, para anotar tus citas y tareas diarias y semanales
 - Gracias a la disposición por días de la agenda se dedica una página entera a cada día para tomar notas, anotar los acontecimientos importantes y los objetivos mensuales y semanales
-- Cada agenda incluye 295 pegatinas especiales para personalizar tu agenda: 1 hoja con letras y 2 hojas con muchos iconos diferentes
 - El paquete contiene una agenda diaria de 18 meses con tapa blanda, disponible en tamaño grande 13 x 21 cm, 608 páginas, color negro
+- Cada agenda incluye 295 pegatinas especiales para personalizar tu agenda: 1 hoja con letras y 2 hojas con muchos iconos diferentes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
