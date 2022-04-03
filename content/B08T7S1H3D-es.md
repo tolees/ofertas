@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Power A - NSW EnWired Controller Tom Nook'
-date: 2022-03-29 05:50:33
+date: 2022-04-02 21:31:04
 image: 'https://m.media-amazon.com/images/I/41CeKVVOMKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Power A'
 buyurl: 'https://www.amazon.es/dp/B08T7S1H3D/?tag=tolees-21'
 descuento: '42.34'
-average: '21.25875'
+average: '20.69'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -32,8 +32,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Cable USB de 3 m extraíble
 - No necesita pilas
 - Licencia oficial de Nintendo
-- Licencia oficial de Nintendo
-- No necesita pilas
 - El mando de juego incluye una toma audio de 3,5 mm y botones de juego avanzados programables
+- No necesita pilas
+- Licencia oficial de Nintendo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

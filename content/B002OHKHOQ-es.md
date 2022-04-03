@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'wolfcraft Cúter de cuchillas separables estándar de 18 mm  4146000  Cúter de plástico con guía metálica'
-date: 2022-03-28 13:20:14
+date: 2022-04-02 22:14:00
 image: 'https://m.media-amazon.com/images/I/31nS3sOWaCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Wolfcraft'
 buyurl: 'https://www.amazon.es/dp/B002OHKHOQ/?tag=tolees-21'
 descuento: '40.13'
-average: '2.34263157894737'
+average: '2.321'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tapa extraíble para separar la cuchilla de forma segura y para el cambio de cuchilla
 - Control deslizante con función de bloqueo automático
 - Carcasa de plástico ergonómica y resistente con guía estable
+- Tapa extraíble para separar la cuchilla de forma segura y para el cambio de cuchilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
