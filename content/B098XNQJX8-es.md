@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Corte pitillo
-- Bolsillos insertados reforzados, cinta tejida en la entrada
-- Talle medio
-- Bolsillos de parche con cierre de cremallera oculto en los muslos, efecto 3D
 - Prenda ajustada de arriba abajo
+- Bolsillos insertados reforzados, cinta tejida en la entrada
+- Bolsillos de parche con cierre de cremallera oculto en los muslos, efecto 3D
+- Talle medio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

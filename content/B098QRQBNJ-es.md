@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tira ajustable por detrás
 - Corte con seis paneles
-- Ojales de ventilación
 - Cintas reforzadas en las costuras interiores
 - Talle medio
-- Tira ajustable por detrás
+- Ojales de ventilación
 
 [🛒 Aquí!!!]({{< param buyurl >}})

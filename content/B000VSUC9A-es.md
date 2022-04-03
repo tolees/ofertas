@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Nos fijamos estándares de calidad extremadamente altos y un gran espíritu de iniciativa en la investigación y el desarrollo de materias primas y proveedores.
 - Puntera reforzada
-- Suela waffle para un agarre más firme
 - Parte superior de lona resistente
+- Suela waffle para un agarre más firme
 
 [🛒 Comprar!!!]({{< param buyurl >}})

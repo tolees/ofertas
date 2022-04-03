@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Terrex Swift Solo  Walking Shoe Unisex Adulto  Grey/Core Black/Scarlet  42 EU'
-date: 2022-03-31 08:42:14
+date: 2022-04-03 16:54:17
 image: 'https://m.media-amazon.com/images/I/31xJyId8ffL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08CBN78SY/?tag=tolees-21'
 descuento: '51.58'
-average: '53.075'
+average: '51.5166666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cordones de los zapatos
 - Parte superior de malla resistente a la abrasión
+- Cordones de los zapatos
 - Zapato de senderismo ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

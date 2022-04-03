@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Largo hasta la rodilla
-- Cinco bolsillos
 - Corte ajustado desde el muslo hasta la rodilla
-- Talle medio
+- Cinco bolsillos
 - Corte ajustado
+- Talle medio
+- Largo hasta la rodilla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

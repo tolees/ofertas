@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Talle medio
-- Paneles en los hombros
 - Bajo recto con ancho ajustable con cordón
+- Talle medio
 - Corte recto
+- Paneles en los hombros
 - Manga corta con borde acanalado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

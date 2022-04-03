@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Manga larga y puños acanalados
 - Borde del bajo en contraste con cordón
-- Bordado de G-Star RAW en la parte delantera
-- Cuello alzado con cierre de cremallera de caucho
 - Paneles en los hombros
+- Cuello alzado con cierre de cremallera de caucho
+- Bordado de G-Star RAW en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

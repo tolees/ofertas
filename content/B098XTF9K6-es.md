@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Largo hasta la rodilla
 - Talle medio
-- Cinco bolsillos
 - Corte ajustado
+- Cinco bolsillos
 - Corte ajustado desde el muslo hasta la rodilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte holgado
 - Bajo redondeado
+- Panel superior y parte superior de las mangas de color en contraste
 - Talle medio
 - Manga francesa
-- Corte holgado
-- Panel superior y parte superior de las mangas de color en contraste
 
 [🛒 Aquí!!!]({{< param buyurl >}})

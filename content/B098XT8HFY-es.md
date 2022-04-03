@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño de rayas incorporadas en el punto
 - Manga larga y puños acanalados
 - Corte recto
 - Talle medio
 - Bajo recto con borde acanalado
+- Diseño de rayas incorporadas en el punto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

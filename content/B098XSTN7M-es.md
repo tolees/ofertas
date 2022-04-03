@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bajo recto
-- Corte regular
-- Manga corta recta insertada
-- Talle medio
 - Estampado de alta densidad de G-Star RAW en el pecho
+- Corte regular
+- Talle medio
+- Manga corta recta insertada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

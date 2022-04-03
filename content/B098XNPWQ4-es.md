@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Talle medio
-- Bolsillos con ribete ancho por delante y por detrás
 - Corte ajustado
-- Bolsillo para monedas desplazado al centro, bolsillo oculto añadido en la cintura
+- Talle medio
 - Perneras ajustadas
+- Bolsillos con ribete ancho por delante y por detrás
+- Bolsillo para monedas desplazado al centro, bolsillo oculto añadido en la cintura
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bordado con efecto tachado en la entrada del bolsillo
+- Bolsillos insertados en la parte delantera y un bolsillo en la parte trasera
 - Pinzas moldeadoras en las rodillas, bajos elásticos
 - Talle medio
 - Bolsillos amplios en el muslo con entrada oculta
-- Bordado con efecto tachado en la entrada del bolsillo
-- Bolsillos insertados en la parte delantera y un bolsillo en la parte trasera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

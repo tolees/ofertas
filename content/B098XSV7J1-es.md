@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Talle medio
 - Parte delantera: bolsillos insertados, bolsillo oculto por dentro de la cintura, bolsillo para monedas desplazado hacia delante
-- Parte trasera: bolsillos con ribete
 - Largo por encima de la rodilla
+- Parte trasera: bolsillos con ribete
 - Corte ajustado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte holgado
 - Manga corta recta insertada
 - Talle medio
-- Corte holgado
 - Estampado de alta densidad de G-Star RAW en el pecho
 - Bajo recto
 
