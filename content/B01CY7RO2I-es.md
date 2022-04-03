@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sopla con el rotulador Blopens y podrás colorear
-- Incluye distintas plantillas
-- Mediante el aplicador, podrás añadir purpurina a tus diseños
 - Podrás crear flores y mariposas para decorar tu habitación
+- Mediante el aplicador, podrás añadir purpurina a tus diseños
+- Incluye distintas plantillas
+- Sopla con el rotulador Blopens y podrás colorear
 
 [🛒 Visítala!!!]({{< param buyurl >}})

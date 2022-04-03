@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diámetro de la caja: 38 mm
-- 3 ATM de resistencia al agua
 - Esfera oro rosado con efecto de rayo de sol
+- 3 ATM de resistencia al agua
 - Dos manecillas
+- Diámetro de la caja: 38 mm
 - Pulsera de malla oro rosado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
