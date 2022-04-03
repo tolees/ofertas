@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KiplingAsseni MiniMujerBolsos totesNegro  Black Noir  33x21x14 Centimeters  B x H x T '
-date: 2022-04-02 13:13:56
+date: 2022-04-03 14:03:32
 image: 'https://m.media-amazon.com/images/I/3139lYGWtqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kipling'
 buyurl: 'https://www.amazon.es/dp/B07TWSQRGK/?tag=tolees-21'
 descuento: '51.32'
-average: '28.8978571428572'
+average: '29.2106666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
