@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Notas de fondo: ámbar, almizcle tibetano, sándalo, iris y vainilla
-- Notas de corazón: rosa damascena, violeta, ylang-ylang, jazmín, nardo, melocotón, clavo y nuez moscada
 - Tipo de producto: chispeante y ligero perfume floral de sutil calidez y riqueza
 - Notas de salida: lila, brotes de tilo, magnolia matutina, lirio de los valles, mandarina exótica y bergamota
+- Notas de corazón: rosa damascena, violeta, ylang-ylang, jazmín, nardo, melocotón, clavo y nuez moscada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
