@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto está hecho de material 100% reciclable y biodegradable. La mejor idea de regalo ecológica para Navidad, Día de la Madre, Día del Padre, cumpleaños y Hanukkah. Sorprende a tus seres queridos con este exclusivo kit de fabricación de sushi mientras tienes el menor impacto en el medio ambiente.
 - El AYA ECO SUSHI KIT MAX es 100% ecológico. Juego de rodillos de sushi naturales y biodegradables para principiantes, expertos y profesionales.
+- Este producto está hecho de material 100% reciclable y biodegradable. La mejor idea de regalo ecológica para Navidad, Día de la Madre, Día del Padre, cumpleaños y Hanukkah. Sorprende a tus seres queridos con este exclusivo kit de fabricación de sushi mientras tienes el menor impacto en el medio ambiente.
 - El kit AYA ECO SUSHI MAX incluye 2 alfombrillas de bambú natural de primera calidad, esparcidor de arroz, espátula y 5 palillos. Enrolla deliciosos rollos de sushi con este juego de sushi de bambú AYA.
 - Todo el embalaje es 100% biodegradable. Haz los mejores rollos de sushi con tus seres queridos en la comodidad de tu hogar. Disfruta creando nigiris de atún y salmón, rollos de California y rollos de arco iris con familiares y amigos.
 
