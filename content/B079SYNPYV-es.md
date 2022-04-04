@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuada para un look deportivo y confortable
 - Letra de Kappa bordada en el pecho y Omini Kappa bordado en los hombros
-- Sudadera con capucha
 - Puños acanalados en las mangas
+- Adecuada para un look deportivo y confortable
+- Sudadera con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})

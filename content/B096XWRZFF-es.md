@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colección Otoño-Invierno 21
-- Nueva colección Kappa
-- Estilo y comodidad
 - Chándal niña
+- Colección Otoño-Invierno 21
+- Estilo y comodidad
+- Nueva colección Kappa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
