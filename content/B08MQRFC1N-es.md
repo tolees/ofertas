@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espuma Rider de longitud completa en la entresuela
 - Sistema de cordones alrededor del antepié que va desde el medio pie lateral hasta el antepié medial
+- Espuma Rider de longitud completa en la entresuela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
