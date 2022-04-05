@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tiene estampado la marca Levis
 - Modelo casual
 - Con tacto suave de forro polar
-- Tiene estampado la marca Levis
 
 [🛒 Visítala!!!]({{< param buyurl >}})
