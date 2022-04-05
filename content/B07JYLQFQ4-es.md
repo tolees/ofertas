@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suede upper is durable and hard-wearing
+- Soft cupsole made of natural rubber for high wearing comfort and best traction
 - Classic 3-stripe design; Golden logo lettering on the side
 - Enjoy the comfort and performance of OrthoLite sockliner
-- Soft cupsole made of natural rubber for high wearing comfort and best traction
-- Suede upper is durable and hard-wearing
 
 [🛒 Comprar!!!]({{< param buyurl >}})

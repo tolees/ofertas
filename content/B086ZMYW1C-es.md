@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour 1361606-112 L Sudaderas  Grey  Hombres'
-date: 2022-04-04 08:01:13
+date: 2022-04-05 13:01:06
 image: 'https://m.media-amazon.com/images/I/51vek8Lm6qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - bianco
-- 1361606
-- Felpa Zip
 - Under Armour
+- Felpa Zip
+- 1361606
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
