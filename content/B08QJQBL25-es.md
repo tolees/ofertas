@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers D Lux Walker Infinite Motion  Zapatillas Mujer  Charcoal  35 EU'
-date: 2022-03-29 00:40:41
+date: 2022-04-05 03:03:40
 image: 'https://m.media-amazon.com/images/I/51S7bcjzLTS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08QJQBL25-es Skechers D Lux Walker Infinite Motion Zapatillas Mujer...'
 sku: 'B08QJQBL25-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','skechers', ]
-actualPrice: 49.08 EUR
+actualPrice: 45.12 EUR
 currency: EUR
-price: 49.08
+price: 45.12
 comparePrice: 79.95 EUR
 prodname: 'Skechers D Lux Walker Infinite Motion  Zapatillas Mujer  Charcoal  35 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B08QJQBL25/?tag=tolees-21'
-descuento: '38.61'
-average: '49.08'
+descuento: '43.56'
+average: '47.1'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: Caucho
 - Cierre: Cordones
+- Material de la suela: Caucho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
