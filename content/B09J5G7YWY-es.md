@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG XBOOM 360 RP4BE - Altavoz Bluetooth  120W de Potencia  Iluminación LED  Bateria 10h  Diseño Elegante Exclusivo  Sonido Premium Omnidireccional  Color Beige'
-date: 2022-04-03 07:40:58
+date: 2022-04-05 12:16:08
 image: 'https://m.media-amazon.com/images/I/31qqWMEQCvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B09J5G7YWY/?tag=tolees-21'
 descuento: '54.89'
-average: '186.393333333333'
+average: '217.872'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sonido potente y nítido gracias al Tweeter de titanio y al Woofer de fibra de vidrio, materiales de última generación.
-- Producto ECO Smart Green. El embalaje se ha realizado con papel 100% reciclable.
-- Iluminación LED multicolor con distintos modos de iluminación ambiental / natural / de fiesta que crean un ambiente ideal.
 - Batería de hasta 10 horas. Disfruta de la música en cualquier lugar durante más tiempo.
+- Iluminación LED multicolor con distintos modos de iluminación ambiental / natural / de fiesta que crean un ambiente ideal.
 - Auténtico sonido 360 de calidad y 120W de potencia omnidireccional 360º. Siente la música desde cualquier lugar a su alrededor.
+- Producto ECO Smart Green. El embalaje se ha realizado con papel 100% reciclable.
+- Sonido potente y nítido gracias al Tweeter de titanio y al Woofer de fibra de vidrio, materiales de última generación.
 - Diseño elegante y exclusivo. Su color beige combina con cualquier estilo y fácil de transportar con su asa superior.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

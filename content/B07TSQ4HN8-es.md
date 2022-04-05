@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Luke  Jeans  Hombre  Negro  Black Rinse 47   32W/32L'
-date: 2022-03-30 17:05:28
+date: 2022-04-05 11:36:28
 image: 'https://m.media-amazon.com/images/I/31Xs8cQ2uLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
 - Estilo 5 bolsillos
+- Vaqueros para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Lagartones Super Caramelos de Goma - 1000 gr'
-date: 2022-03-21 13:34:02
+date: 2022-04-05 12:06:40
 image: 'https://m.media-amazon.com/images/I/51ur0EIvz2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01CP8PPAE-es Haribo Lagartones Super Caramelos de Goma - 1000 gr'
 sku: 'B01CP8PPAE-es'
 tags: [ 'Alimentación y bebidas','Dulces, chocolates y chicles','Golosinas','Snacks y dulces','haribo', ]
-actualPrice: 4.15 EUR
+actualPrice: 3.59 EUR
 currency: EUR
-price: 4.15
+price: 3.59
 comparePrice: 8.94 EUR
 prodname: 'Haribo Lagartones Super Caramelos de Goma - 1000 gr'
 country: 'es'
 flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B01CP8PPAE/?tag=tolees-21'
-descuento: '53.58'
-average: '4.804'
+descuento: '59.84'
+average: '4.92083333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Deliciosas piezas en forma de lagartones
-- Irresistible mix de sabores
 - Caramelos de goma
+- Deliciosas piezas en forma de lagartones
+- Mix de sabores
+- Mantener en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
