@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Las sillas drift te ofrecen el mayor confort adaptándose a tu centro de gravedad mediante su sistema basculante
-- Los reposabrazos de la dr300 son ajustables en altura, posición y rotación
-- Una base en forma de estrella sobre ruedas de goma de gran calidad, dan como resultado una gran estabilidad y un deslizamiento ultra suave; cuenta con acabados en el color del resto de la silla
-- Hasta 160 grados de inclinación; incorporan dos cojines; uno para la zona lumbar y otro para la zona cervical, con los que conseguiremos una ergonomía perfecta
 - Configura tu silla para largas partidas sin preocuparte de nada más; los reposabrazos de la dr300 son ajustables en altura, posición y rotación
+- Hasta 160 grados de inclinación; incorporan dos cojines; uno para la zona lumbar y otro para la zona cervical, con los que conseguiremos una ergonomía perfecta
+- Una base en forma de estrella sobre ruedas de goma de gran calidad, dan como resultado una gran estabilidad y un deslizamiento ultra suave; cuenta con acabados en el color del resto de la silla
+- Los reposabrazos de la dr300 son ajustables en altura, posición y rotación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
