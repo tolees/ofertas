@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'New Balance 373 Core  Zapatillas Hombre  Navy   36 EU'
-date: 2022-04-03 07:28:35
+title: 'New Balance 373 Core  Zapatillas Hombre  Navy  36 EU'
+date: 2022-04-06 07:37:31
 image: 'https://m.media-amazon.com/images/I/31BdqjtVGhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01M5AHFH4-es New Balance 373 Core Zapatillas Hombre Navy 36 EU'
 sku: 'B01M5AHFH4-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','new balance', ]
-actualPrice: 43.12 EUR
+actualPrice: 41.19 EUR
 currency: EUR
-price: 43.12
+price: 41.19
 comparePrice: 80.0 EUR
-prodname: 'New Balance 373 Core  Zapatillas Hombre  Navy   36 EU'
+prodname: 'New Balance 373 Core  Zapatillas Hombre  Navy  36 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B01M5AHFH4/?tag=tolees-21'
-descuento: '46.10'
-average: '37.1166666666666'
+descuento: '48.51'
+average: '37.3018181818181'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: cordones
 - Material exterior: material sintético
 - Estilo: zapatillas de running
 - Material de la suela: goma
 - Material interior: tela
+- Cierre: cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
