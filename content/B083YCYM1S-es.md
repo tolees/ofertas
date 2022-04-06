@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Firefly UP  Backpacks para Mujer  Color Negro  14x22x31 cm  LxWxH '
-date: 2022-04-03 14:06:52
+date: 2022-04-06 02:41:40
 image: 'https://m.media-amazon.com/images/I/31hilrpuAML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para mujer
 - Mochila
 - Classics
-- Para mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
