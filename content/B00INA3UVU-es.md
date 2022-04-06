@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Halls Fresa - Caramelo duro - Caja con 20 Sticks de 32 g'
-date: 2022-04-05 12:16:08
+date: 2022-04-06 12:47:02
 image: 'https://m.media-amazon.com/images/I/518yzPnrXpS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Conservar en lugar fresco y seco
 - Caramelos duros Halls con sabor a fresa; Con edulcorantes, sin azúcar
 - Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
-- Conservar en lugar fresco y seco
-- Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
 - Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
+- Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
