@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jada Furgoneta VW de Las Tortuga Ninja Estilo 1962 con Figura'
-date: 2022-04-06 06:45:10
+date: 2022-04-07 13:19:28
 image: 'https://m.media-amazon.com/images/I/41DNiR59H0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Modelo vw t1 bus 1962
 - Hecho en metal a escala 1:24
 - Incluye figura de metal
 - 100% licencia oficial
-- Modelo vw t1 bus 1962
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

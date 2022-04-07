@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable MK8642'
-date: 2022-03-28 21:38:17
+date: 2022-04-07 12:55:52
 image: 'https://m.media-amazon.com/images/I/417EPK4oRDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07G4Q69WQ-es Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B07G4Q69WQ-es'
 tags: [ 'Relojes','Relojes de pulsera para hombres','Relojes para hombre','michael kors', ]
-actualPrice: 169.49 EUR
+actualPrice: 168.93 EUR
 currency: EUR
-price: 169.49
+price: 168.93
 comparePrice: 279.0 EUR
 prodname: 'Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable MK8642'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Michael Kors'
 buyurl: 'https://www.amazon.es/dp/B07G4Q69WQ/?tag=tolees-21'
-descuento: '39.25'
-average: '186.187948717948'
+descuento: '39.45'
+average: '185.756499999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
