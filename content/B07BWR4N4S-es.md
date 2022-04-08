@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Durex Naturals Lubricante a Base de Agua  100% Natural sin Fragancia  Colorantes ni Agentes Irritantes – Pack 2 x 100 ml'
-date: 2022-04-01 12:30:16
+date: 2022-04-08 17:00:42
 image: 'https://m.media-amazon.com/images/I/410R8Q9eWpS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Durex'
 buyurl: 'https://www.amazon.es/dp/B07BWR4N4S/?tag=tolees-21'
 descuento: '39.76'
-average: '13.0427272727273'
+average: '12.885'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lubricante íntimo 100% natural
-- APTO PARA EL SEXO VAGINAL, ANAL Y ORAL: adecuado para el uso con preservativos de látex y preservativos de poliisopreno
 - DE BASE ACUOSA, LIBRE DE FRAGANCIAS Y COLORANTES: abre el tapón, extrae unas gotas y aplícalas donde tú quieras; luego disfruta
+- APTO PARA EL SEXO VAGINAL, ANAL Y ORAL: adecuado para el uso con preservativos de látex y preservativos de poliisopreno
 - ENTREGA DE FORMA DISCRETA: caja exterior de entrega con un diseño discreto sin ninguna indicación del contenido del interior
 - DISEÑADO CON PH EQUILIBRADO Y PREBIÓTICOS: ayuda a mantener el balance de la flora vaginal
+- Lubricante íntimo 100% natural
 
 [🛒 Comprar!!!]({{< param buyurl >}})
