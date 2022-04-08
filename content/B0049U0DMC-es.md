@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Café en Grano  Qualità Oro Perfect Symphony  Café Espresso 100% Arábica Redondo y Aromático  Paquete de 1 Kg'
-date: 2022-04-06 14:37:08
+date: 2022-04-08 18:20:44
 image: 'https://m.media-amazon.com/images/I/41E-r+QjyXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lavazza'
 buyurl: 'https://www.amazon.es/dp/B0049U0DMC/?tag=tolees-21'
 descuento: '36.09'
-average: '15.8172727272728'
+average: '15.826'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ASPECTO: “Crema” dorada y un color cálido, AROMA: Notas de frutas y flores, SABOR: Intenso
 - MEZCLA: 100 % Arábica - Tueste: Medio, Intensidad: 5 Delicado
-- CALIDAD LAVAZZA: Una combinación única de seis variedades de granos de arábica de los mejores de Centroamérica y Sudamérica, elaborada por expertos y perfectamente mezclada
 - Paquete de 1 Kg. Para máquinas de café automáticas y molinillos de café
+- ASPECTO: “Crema” dorada y un color cálido, AROMA: Notas de frutas y flores, SABOR: Intenso
+- CALIDAD LAVAZZA: Una combinación única de seis variedades de granos de arábica de los mejores de Centroamérica y Sudamérica, elaborada por expertos y perfectamente mezclada
 - La sinfonía perfecta para un sabor excepcional, desde 1956. Un blend histórico de Lavazza, para aquellos a los que les gusta disfrutar de un buen café todos los días
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
