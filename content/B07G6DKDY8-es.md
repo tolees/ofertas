@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ultimate Ears Boom 3 Altavoz Portátil Inalámbrico Bluetooth  Graves Profundos  Impermeable  Flotante  Conexión Múltiple  Batería de 15 h  color Viola'
-date: 2022-04-05 21:21:41
+date: 2022-04-08 21:17:03
 image: 'https://m.media-amazon.com/images/I/515psORj+PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ultimate Ears'
 buyurl: 'https://www.amazon.es/dp/B07G6DKDY8/?tag=tolees-21'
 descuento: '39.60'
-average: '109.935624999999'
+average: '108.762352941176'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - El Nuevo Magic Button: Con BOOM 3 puedes reproducir, poner en pausa y omitir pistas directamente desde este pequeño altavoz, controla la música y crea playlists para Apple Music y Deezer Premium
 - Carga Inalámbrica con Power Up: BOOM 3 se carga de forma inalámbrica con la base POWER UP (no incluido) para que puedas llevártelo donde quieras. Su base Power Up se conecta con micro USB
-- La batería recargable de iones de litio ofrece hasta 15 horas de duración ** hasta la próxima carga del micro-USB.
 - Nivel máximo de presión sonora: 90 dBC; Rango de frecuencia: 90 Hz - 20 kHz; Altavoces: dos bobinas de 2 "y dos bobinas pasivas de 2" por 4 "
-- Sonido Espacial de 360°: Con el mini altavoz BOOM 3 hemos perfeccionado nuestro original y emblemático diseño cilíndrico, para ofrecer audio inmersivo y estereofónico en todas las direcciones
 - Impermeable y Flotente Como Pez: Tiene un grado de protección IP67 que lo hace resistente al agua y el polvo, y puede sumergirse por completo durante 30 minutos
+- La batería recargable de iones de litio ofrece hasta 15 horas de duración ** hasta la próxima carga del micro-USB.
+- Sonido Espacial de 360°: Con el mini altavoz BOOM 3 hemos perfeccionado nuestro original y emblemático diseño cilíndrico, para ofrecer audio inmersivo y estereofónico en todas las direcciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
