@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad del disco duro (GB): 1.0
-- Dispositivos compatibles: Ordenador de sobremesa
 - Tipo de conectividad: SATA
+- Dispositivos compatibles: Ordenador de sobremesa
+- Capacidad del disco duro (GB): 1.0
 - 240 GB, 2.5", 520 MB/s, 6 Gbit/s
 - Capacidad de almacenamiento de memoria: 240.0
 

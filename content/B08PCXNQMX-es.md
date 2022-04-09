@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatillas de mujer Run Spin Knit en tela
-- Forro de tela
 - Empeine de tela
+- Forro de tela
+- Zapatillas de mujer Run Spin Knit en tela
 
 [🛒 Aquí!!!]({{< param buyurl >}})

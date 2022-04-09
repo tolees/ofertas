@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cintura y puños elásticos
-- Bolsillo canguro
 - Logotipo grande clásico impreso en el pecho y "C" logotipo en la manga izquierda
+- Bolsillo canguro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
