@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SOTYA - SOTYA Cardo Mariano 100 comprimidos 500 mg'
-date: 2022-04-02 21:18:44
+date: 2022-04-09 20:22:36
 image: 'https://m.media-amazon.com/images/I/41KoJKdomAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sotya'
 buyurl: 'https://www.amazon.es/dp/B01HSPP2LG/?tag=tolees-21'
 descuento: '62.00'
-average: '2.385'
+average: '2.28666666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Reduce el exceso de hierro en el organismo
-- Poder antioxidante y antienvejecimiento
-- Indicado para insuficiencia hepatobiliar, hepatitis agudas y crónicas, cirrosis, disquinesias hepatobiliares
-- De la marca Sotya
-- Ayuda a la secreción de la vesícula biliar
 - Ayuda a aliviar las molestias y los problemas menstruales, ya que favorece la circulación abdominal y genital
+- De la marca Sotya
+- Indicado para insuficiencia hepatobiliar, hepatitis agudas y crónicas, cirrosis, disquinesias hepatobiliares
+- Ayuda a la secreción de la vesícula biliar
+- Poder antioxidante y antienvejecimiento
+- Reduce el exceso de hierro en el organismo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
