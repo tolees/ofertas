@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Herschel Heritage Rucksack  21.5 Liter  Navy/Tan'
-date: 2022-04-07 10:30:27
+date: 2022-04-09 07:48:56
 image: 'https://m.media-amazon.com/images/I/41zboyKh-JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pebbled leather zipper pulls
+- Internal media pocket with headphone port
+- 15" laptop sleeve
 - Single front pocket with key clip
 - Signature striped fabric liner
-- 15" laptop sleeve
-- Internal media pocket with headphone port
 
 [🛒 Visítala!!!]({{< param buyurl >}})
