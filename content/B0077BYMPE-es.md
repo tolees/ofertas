@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 15" laptop sleeve
 - Pebbled leather zipper pulls
 - Internal media pocket with headphone port
-- 15" laptop sleeve
-- Single front pocket with key clip
 - Signature striped fabric liner
+- Single front pocket with key clip
 
 [🛒 Visítala!!!]({{< param buyurl >}})
