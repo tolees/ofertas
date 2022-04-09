@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Comida nutricionalmente completa para gatos
+- Comida para gatos fácil de abrir y usar
 - Con bocados tiernos para gatos en una salsa exquisita
 - Comida para gatos sin colorantes ni conservantes artificiales.
-- Comida para gatos fácil de abrir y usar
-- Comida nutricionalmente completa para gatos
 - Porciones perfectas para una comida fresca.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

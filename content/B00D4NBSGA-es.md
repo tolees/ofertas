@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Producto oficial comercial.
+- Tejido de punto de doble capa.
+- Doble función: puede llevarse con o sin solapa.
 - Tejido acanalado.
 - Pompón y borde en color de contraste.
-- Doble función: puede llevarse con o sin solapa.
-- Tejido de punto de doble capa.
-- Producto oficial comercial.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
