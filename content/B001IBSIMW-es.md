@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional GWS 1400 - Amoladora angular  1400 W  11000 rpm  Ø disco 125 mm  electrónica constante  en caja '
-date: 2022-04-09 06:18:58
+date: 2022-04-10 13:05:00
 image: 'https://m.media-amazon.com/images/I/31gDHBjW97L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.es/dp/B001IBSIMW/?tag=tolees-21'
 descuento: '44.71'
-average: '86.9383870967741'
+average: '86.8140624999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Constant Electronic: mantiene constante la velocidad, incluso bajo carga
-- Refrigeración del motor optimizada para una alta capacidad de sobrecarga
+- Incluye: Amoladora angular GWS 1400 con brida de fijación, caperuza protectora, tuerca de apriete, llave de dos agujeros, en caja
 - Diámetro del disco: 125 mm, rosca del husillo portamuela: M14
 - Caperuza protectora con seguro contra torsión, resistente incluso a la rotura del disco
-- Incluye: Amoladora angular GWS 1400 con brida de fijación, caperuza protectora, tuerca de apriete, llave de dos agujeros, en caja
+- Constant Electronic: mantiene constante la velocidad, incluso bajo carga
+- Refrigeración del motor optimizada para una alta capacidad de sobrecarga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

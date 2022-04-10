@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft – Arc Mouse Morado'
-date: 2022-04-09 08:28:33
+date: 2022-04-10 12:47:41
 image: 'https://m.media-amazon.com/images/I/21kw3IGAQNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Innovador panel de desplazamiento completo para el desplazamiento vertical y horizontal
 - Ultrafino y ligero
 - Se aplana para cerrar y cabe fácilmente en el bolsillo o en el bolso
+- Innovador panel de desplazamiento completo para el desplazamiento vertical y horizontal
 - Se conecta de forma inalámbrica a través de Bluetooth
 
 [🛒 Comprar!!!]({{< param buyurl >}})
