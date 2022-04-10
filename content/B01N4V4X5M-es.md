@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Anker SoundCore Boost Altavoz Bluetooth portátil 20W con tecnología BassUp  autonomía de 12h  IPX5  rango de conexión de 20 metros  con sonido y bajos superiores para iPhone  Samsung y otros'
-date: 2022-04-09 09:41:01
+date: 2022-04-10 20:30:32
 image: 'https://m.media-amazon.com/images/I/417ZT+WpqiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Anker'
 buyurl: 'https://www.amazon.es/dp/B01N4V4X5M/?tag=tolees-21'
 descuento: '60.01'
-average: '54.4445454545455'
+average: '53.9066666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
