@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavable a máquina
 - Plantilla de espuma viscoelástica refrigerada por aire
+- Lavable a máquina
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
