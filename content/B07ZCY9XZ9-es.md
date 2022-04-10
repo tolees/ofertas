@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SLATOR - Lámpara Escritorio LED  Flexo de Escritorio  Cuidado Ocular  Puerto USB  5 Modos 10 Niveles de Brillo Temporizador de 30/60min  Función de Memoria '
-date: 2022-04-05 12:15:10
+date: 2022-04-10 11:40:59
 image: 'https://m.media-amazon.com/images/I/310i-IvW4qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SLATOR'
 buyurl: 'https://www.amazon.es/dp/B07ZCY9XZ9/?tag=tolees-21'
 descuento: '37.98'
-average: '28.121666666667'
+average: '28.1051118210866'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
