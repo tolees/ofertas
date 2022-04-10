@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La tapa antideslizante, el sensor de movimiento infrarrojo resistente a los gérmenes, la humedad o cualquier derrame accidental por dañar la unidad.
-- El paquete incluye lata del sensor y 2 calcomanías para la papelera. Puede facilitar que los invitados identifiquen claramente qué contenedor es para la basura con la pegatina. La forma rectangular eficiente encaja en espacios reducidos y esquinas. El diseño moderno es perfecto para cualquier oficina, cocina, dormitorio, sala de estar, estudio, sala de actividades, incluso en la cabina de sus hijos.
-- ¡Solo el movimiento de tu mano abre la tapa automáticamente! Es la opción higiénica y conveniente. La tecnología de detección retardada preserva la vida útil de la batería y evita cualquier apertura innecesaria por parte de mascotas, niños o al caminar. Función de cierre suave para una larga vida útil del producto.
-- La unidad reciclable tiene una placa de partición. La unidad reciclable tiene una capacidad base dividida de 24 litros / 18 litros. TAMAÑO: Largo: 16.14 "/ 41cm. Ancho: 11.5” / 30cm. Altura de la cubierta: 22.5 ”/ 57cm. Altura de apertura: 30.3" / 77cm.Requiere 2 baterías D (no incluidas)
 - ATENCIÓN AL CLIENTE: Estamos dedicados a proporcionarle productos de primera calidad y ofrecerle una atención al cliente impecable. ¡No esperes más y disfruta hoy de tus productos ideales!
+- La unidad reciclable tiene una placa de partición. La unidad reciclable tiene una capacidad base dividida de 24 litros / 18 litros. TAMAÑO: Largo: 16.14 "/ 41cm. Ancho: 11.5” / 30cm. Altura de la cubierta: 22.5 ”/ 57cm. Altura de apertura: 30.3" / 77cm.Requiere 2 baterías D (no incluidas)
+- ¡Solo el movimiento de tu mano abre la tapa automáticamente! Es la opción higiénica y conveniente. La tecnología de detección retardada preserva la vida útil de la batería y evita cualquier apertura innecesaria por parte de mascotas, niños o al caminar. Función de cierre suave para una larga vida útil del producto.
+- El paquete incluye lata del sensor y 2 calcomanías para la papelera. Puede facilitar que los invitados identifiquen claramente qué contenedor es para la basura con la pegatina. La forma rectangular eficiente encaja en espacios reducidos y esquinas. El diseño moderno es perfecto para cualquier oficina, cocina, dormitorio, sala de estar, estudio, sala de actividades, incluso en la cabina de sus hijos.
+- La tapa antideslizante, el sensor de movimiento infrarrojo resistente a los gérmenes, la humedad o cualquier derrame accidental por dañar la unidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

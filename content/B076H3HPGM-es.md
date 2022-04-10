@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling FASTER Mochila escolar  28 cm  7 litros  Rosa  True Pink '
-date: 2022-04-03 13:59:44
+date: 2022-04-10 18:52:17
 image: 'https://m.media-amazon.com/images/I/41JzNk0donL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kipling'
 buyurl: 'https://www.amazon.es/dp/B076H3HPGM/?tag=tolees-21'
 descuento: '44.49'
-average: '29.82'
+average: '31.385'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% Poliamida
 - Mochila infantil
-- 28 altura x 21 ancho x 19 profundidad cm
 - 0.26kg peso x 7L volumen
 - Hidrófugo
+- 28 altura x 21 ancho x 19 profundidad cm
+- 100% Poliamida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
