@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El diseño perfecto para ti
 - Retroiluminación RGB
 - Sensor óptico hasta 10000DPI
+- El diseño perfecto para ti
 - Software dedicado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

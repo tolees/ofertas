@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De la marca Sotya
 - Aporte adicional de nutrientes en estados carenciales
+- De la marca Sotya
 - Alimento complementario recomendado en dietas de adelgazamiento
-- Ayudan a regular el sistema nervioso eliminando la ansiedad
 - Diurético y depurativo
+- Ayudan a regular el sistema nervioso eliminando la ansiedad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
