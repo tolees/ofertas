@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SOTYA - SOTYA Jalea Real Infantil 10 ampollas'
-date: 2022-04-06 09:23:30
+date: 2022-04-11 09:43:53
 image: 'https://m.media-amazon.com/images/I/41+XWfOEyKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sotya'
 buyurl: 'https://www.amazon.es/dp/B01MFCP9AZ/?tag=tolees-21'
 descuento: '52.44'
-average: '2.73'
+average: '2.612'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene acción antiviral, antimicrobiana y antitóxica
 - Aumenta la resistencia al frío y a la fatiga
 - Interviene en el mantenimiento de los huesos, vasos sanguíneos y dientes
-- De la marca Sotya
+- Tiene acción antiviral, antimicrobiana y antitóxica
 - Importante para mantener una buena visión, en el crecimiento, en el desarrollo de los huesos
+- De la marca Sotya
 
 [🛒 Comprar!!!]({{< param buyurl >}})
