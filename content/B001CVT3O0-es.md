@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans UA Old Skool  Zapatillas Unisex Adulto  Navy  37 EU'
-date: 2022-04-01 11:59:45
+date: 2022-04-11 16:18:44
 image: 'https://m.media-amazon.com/images/I/41sEntONa9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ref: VD3HNVY
-- Zapatillas Vans modelo Old Skool en color azul marino
+- Double stitch vamp
+- Original Vulcanized "waffle" outsole
+- Canvas and Suede
+- Padded collar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

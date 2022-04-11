@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El artículo es adecuado para todos los fanáticos de Game of Thrones
 - Recomendado para niños a partir de 3 años
 - Figura de colección de la marca Funko
 - El producto se envía en una caja ilustrada con ventana
+- El artículo es adecuado para todos los fanáticos de Game of Thrones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
