@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Christy s - Disfraz de vikingo guerrero  talla L/XL '
-date: 2022-04-04 14:59:09
+date: 2022-04-11 18:56:05
 image: 'https://m.media-amazon.com/images/I/31U2AZW+3dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfraz de guerrero vikingo o bárbaro para hombres
 - Se compone de túnica, casco, capa y calentadores
 - Adecuado para fiestas temáticas
+- Disfraz de guerrero vikingo o bárbaro para hombres
 - Talla L/XL
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
