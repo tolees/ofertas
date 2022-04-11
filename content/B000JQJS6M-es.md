@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El Invicta 8928OB tiene una caja de acero inoxidable de 40 millimetros con una esfera azul
-- 2 años de garantía Invicta
 - Esta modelo funciona con un movimiento de Automático preciso
 - Resistencia a la presión de aqua de 20 bares
+- El Invicta 8928OB tiene una caja de acero inoxidable de 40 millimetros con una esfera azul
+- 2 años de garantía Invicta
 - Este modelo es parte de la colección Invicta Pro Diver
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
