@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ribete elástico en los puños
 - Armour Fleece es ligero, transpirable y se estira para una movilidad superior
-- Generosa cremallera de 1/2 para una fácil colocación
 - La suave capa interior atrapa el calor para mantenerte caliente y cómodo
+- Ribete elástico en los puños
 - Dobladillo caído con forma para una mayor cobertura
+- Generosa cremallera de 1/2 para una fácil colocación
 
 [🛒 Aquí!!!]({{< param buyurl >}})

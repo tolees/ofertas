@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este es un producto de producción sostenible hecho de materiales sostenibles
 - Este es un producto auténtico y original de Tommy Hilfiger
+- Este es un producto de producción sostenible hecho de materiales sostenibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
