@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acerbis Vented Uniko Surepromise'
-date: 2022-04-01 19:28:17
+date: 2022-04-11 07:13:02
 image: 'https://m.media-amazon.com/images/I/31kNQSZzhJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: Blanco/Amarillo
 - Gran área de ventilación para flujo de aire directo
-- Protector de mano de polipropileno con logotipo de Acerbis
 - Kit de montaje incluido
+- Color: Blanco/Amarillo
+- Protector de mano de polipropileno con logotipo de Acerbis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
