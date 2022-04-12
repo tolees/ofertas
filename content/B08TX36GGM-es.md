@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dell PORTATIL VOSTRO 3400 I5-1135G7 8GB 512GBSSD 14 FHD W10P Black'
-date: 2022-04-04 14:45:59
+date: 2022-04-12 18:54:12
 image: 'https://m.media-amazon.com/images/I/41iY597K1xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dell'
 buyurl: 'https://www.amazon.es/dp/B08TX36GGM/?tag=tolees-21'
 descuento: '37.48'
-average: '704.7125'
+average: '712.222'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

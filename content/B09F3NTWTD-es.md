@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pantalón tejano niño, 79105 PEGUETON
+- Tejido: Tejano
 - Composición: 98% Algodón 2% Elastano
 - Tabla de tallas: 2-3: altura 98cm / 3-4: 104 cm / 4-5: 110 cm / 5-6: 116 cm / 6-7: 122 cm / 7-8: 128 cm / 9-10: 140 cm / 11-12: 152 cm
-- Tejido: Tejano
 - Colección CHARANGA Bassik Denim
-- Pantalón tejano niño, 79105 PEGUETON
 
 [🛒 Aquí!!!]({{< param buyurl >}})
