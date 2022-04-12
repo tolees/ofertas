@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bully Figura Princesa Anna Frozen Disney'
-date: 2022-04-06 10:09:25
+date: 2022-04-12 16:57:35
 image: 'https://m.media-amazon.com/images/I/41stWFTaCHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Alta calidad
 - Tamaño: 9,6cm. Frozen figure.
 - Muy resistente
-- Alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
