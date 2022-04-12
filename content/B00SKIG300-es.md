@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga2750 Lamew - Zapatillas de Deporte Mujer  Gris  Grey   42 EU'
-date: 2022-04-02 07:03:22
+date: 2022-04-12 07:47:47
 image: 'https://m.media-amazon.com/images/I/41fwp+E+wAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B00SKIG300/?tag=tolees-21'
 descuento: '47.92'
-average: '36.82'
+average: '36.9171428571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
