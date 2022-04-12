@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Robot Aspirador y fregasuelos Conga 6090 Ultra  Láser  Tecnología ciclónica  Aspira  Friega  Barre y Pasa la mopa  RoomPlan  Sensor óptico  App  10000 Pa  10 Modos Limpieza  Asistente Virtual'
-date: 2022-04-01 19:13:08
+date: 2022-04-12 14:41:31
 image: 'https://m.media-amazon.com/images/I/51GAFkGk8gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08LD6LVVY-es Cecotec Robot Aspirador y fregasuelos Conga 6090 Ultra...'
 sku: 'B08LD6LVVY-es'
 tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','cecotec', ]
-actualPrice: 399.0 EUR
+actualPrice: 319.0 EUR
 currency: EUR
-price: 399.0
+price: 319.0
 comparePrice: 699.0 EUR
 prodname: 'Cecotec Robot Aspirador y fregasuelos Conga 6090 Ultra  Láser  Tecnología ciclónica  Aspira  Friega  Barre y Pasa la mopa  RoomPlan  Sensor óptico  App  10000 Pa  10 Modos Limpieza  Asistente Virtual'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Cecotec'
 buyurl: 'https://www.amazon.es/dp/B08LD6LVVY/?tag=tolees-21'
-descuento: '42.92'
-average: '410.37212121212'
+descuento: '54.36'
+average: '409.458399999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

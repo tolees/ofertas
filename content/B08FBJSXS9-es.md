@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids LVB 510 SKINNY JEANS C903 Pantalones Millennium para Niños'
-date: 2022-04-02 08:59:51
+date: 2022-04-12 14:31:42
 image: 'https://m.media-amazon.com/images/I/31XTFPr7sgS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
