@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling NUSI Mochila escolar  36 cm  14 litros  Rosa  True Pink '
-date: 2022-04-03 14:04:59
+date: 2022-04-12 22:33:54
 image: 'https://m.media-amazon.com/images/I/410ydBKDiIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hidrófugo
-- Maleta infantil de dos ruedas para la escuela
-- 100% Poliamida
 - 36 altura x 30 ancho x 16 profundidad cm
 - 1.2kg peso x 16L volumen
+- Maleta infantil de dos ruedas para la escuela
+- Hidrófugo
+- 100% Poliamida
 
 [🛒 Comprar!!!]({{< param buyurl >}})
