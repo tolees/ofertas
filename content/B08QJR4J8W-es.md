@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contenido. 1x Columbia CSC Basic Logo, Camiseta de manga corta, Hombre, Marrón (Ancient Fossil/CSC Basic Logo), M, Art. No. 1680053
-- Confort óptimo gracias al material de jersey 100% algodón
-- Camiseta de manga corta para hombre, Ideal para todo el año, Eficaz como capa superior o como capa base
-- Disponible en varios colores con interesantes y versátiles posibilidades de combinación
 - Elegante diseño del logotipo de Columbia, Contrastes de color frescos y clásicos para los más coleccionistas, También un look alegre para el que lo lleva por primera vez
+- Contenido. 1x Columbia CSC Basic Logo, Camiseta de manga corta, Hombre, Marrón (Ancient Fossil/CSC Basic Logo), M, Art. No. 1680053
+- Disponible en varios colores con interesantes y versátiles posibilidades de combinación
+- Camiseta de manga corta para hombre, Ideal para todo el año, Eficaz como capa superior o como capa base
+- Confort óptimo gracias al material de jersey 100% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
