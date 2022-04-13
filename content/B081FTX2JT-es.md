@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Visión nocturna que permite detectar en la oscuridad a una distancia de hasta 5 metros
 - Con detector de movimiento PIR (con sensibilidad ajustable). Recibe notificaciones con imagen al instante en tu dispositivo cuando la cámara detecte movimiento. Función de programación de horario para los avisos de movimiento
-- Configuración e instalación sencilla. Cuenta con un soporte, cable de alimentación y tornillos para colocar en pared o techo (con opción de volteo de imagen)
-- Puede ser controlada a través de las apps Garza Smart, Tuya Smart y Smart Life, desde tu dispositivo móvil o tablet. Aplicaciones disponibles en Google Play y Apple Store. Controla la cámara desde varios dispositivos
 - Compatible solo con Wifi 2,4GHz (No funciona con red de 5GHz)
-- Cámara de vigilancia con micrófono y altavoz integrados que permiten el audio de dos vías, para hablar a través de ella y escuchar lo que está sucediendo. Óptimo como sistema de seguridad para casa, bebés, ancianos, mascotas…
-- Cámara de seguridad Wifi interior para el hogar. Con alta definición 720P HD, ángulo de rotación horizontal de 360 º y vertical de 155 º. Ángulo de visión de la lente de 75 º, con hasta 4 aumentos (Zoom x4)
+- Configuración e instalación sencilla. Cuenta con un soporte, cable de alimentación y tornillos para colocar en pared o techo (con opción de volteo de imagen)
+- Visión nocturna que permite detectar en la oscuridad a una distancia de hasta 5 metros
+- Puede ser controlada a través de las apps Garza Smart, Tuya Smart y Smart Life, desde tu dispositivo móvil o tablet. Aplicaciones disponibles en Google Play y Apple Store. Controla la cámara desde varios dispositivos
 - Guarda y visualiza las fotos y grabaciones de video en la aplicación de tu dispositivo o bien en una tarjeta MicroSD de máx. 64Gb (No incluida; Se accede a la ranura girando el visor de la cámara hacia arriba)
+- Cámara de seguridad Wifi interior para el hogar. Con alta definición 720P HD, ángulo de rotación horizontal de 360 º y vertical de 155 º. Ángulo de visión de la lente de 75 º, con hasta 4 aumentos (Zoom x4)
+- Cámara de vigilancia con micrófono y altavoz integrados que permiten el audio de dos vías, para hablar a través de ella y escuchar lo que está sucediendo. Óptimo como sistema de seguridad para casa, bebés, ancianos, mascotas…
 
 [🛒 Visítala!!!]({{< param buyurl >}})

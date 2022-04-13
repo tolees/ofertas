@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - SoftFoam+: la plantilla cómoda de Puma para un paso instantáneo y una comodidad duradera que proporciona una amortiguación suave en cada paso del día
-- Bota de altura media
 - Empeine de gamuza
+- Bota de altura media
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Asa superior y lateral acolchada
-- Alto: 51 cm, Ancho: 32,5 cm, Fondo: 23 cm
-- En nuestra tonalidad de temporada Sailor Red
-- Dos compartimentos con correas de compresión y un bolsillo frontal con cierre de cremallera
 - 100 % poliéster
+- En nuestra tonalidad de temporada Sailor Red
+- Alto: 51 cm, Ancho: 32,5 cm, Fondo: 23 cm
+- Dos compartimentos con correas de compresión y un bolsillo frontal con cierre de cremallera
+- Asa superior y lateral acolchada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

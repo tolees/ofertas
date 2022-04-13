@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Correo electrónico, calendarios y tareas: Outlook
-- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
+- Actualizaciones y soporte técnico continuo
 - Versiones premium totalmente instaladas de Office: Word, Excel, PowerPoint, OneNote y Outlook, con características nuevas y exclusivas todos los meses
 - 6 TB de almacenamiento en OneDrive. 1 TB por persona
 - Seguridad avanzada para correo electrónico y archivos
-- Actualizaciones y soporte técnico continuo
+- Creación de publicaciones y bases de datos: Publisher, Access (Sólo para PC)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

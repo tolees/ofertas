@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material
 - Otros detalles
 - - Fabricante: Fossil Jewelry
-- Piedra
-- Material
 - - Producto: Cadena de cuello
+- Piedra
 
 [🛒 Comprar!!!]({{< param buyurl >}})
