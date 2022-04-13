@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los bordes de las perneras se mantienen en su sitio
-- Cinturilla elástica cómoda
-- Bóxers cortos de calidad y con estilo para hombre
 - Detalle con el logo de Levis
 - Algodón elástico supersuave
+- Cinturilla elástica cómoda
+- Los bordes de las perneras se mantienen en su sitio
+- Bóxers cortos de calidad y con estilo para hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido elástico de estilo minimalista
 - Corte ceñido slim fit
+- Tejido elástico de estilo minimalista
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Deportivo
-- Cuarzo
-- WR 200mt
-- Negro y Negro
 - Analógico - Digital en Resina para Hombre
+- WR 200mt
+- Cuarzo
+- Negro y Negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

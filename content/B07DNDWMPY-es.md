@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cordones de zapatos
-- Corte regular
 - La parte superior de cuero sintético
+- Corte regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

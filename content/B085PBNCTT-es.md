@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las puertas se abren
 - Con ruedas de goma
-- 100% licencia oficial
 - Hecho en metal a escala 1:32
+- 100% licencia oficial
+- Las puertas se abren
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

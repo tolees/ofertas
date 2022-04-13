@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Mochila grande con ruedas y compartimento para el portátil
 - Hidrófugo
-- 2.44kg peso x 25L volumen
-- 100% Poliéster
 - 38 altura x 41 ancho x 24 profundidad cm
+- 100% Poliéster
+- 2.44kg peso x 25L volumen
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

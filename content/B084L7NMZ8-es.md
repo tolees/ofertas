@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Arquitectura interna Airflow que favorece los flujos de aire para la refrigeración
 - Perfecto para salidas de intensidad moderadas/altas o altas temperaturas
 - Casco de ciclismo de excelente ventilación
-- Arquitectura interna Airflow que favorece los flujos de aire para la refrigeración
 - Incluye visera extraíble y red anti-insectos integrada en la almohadilla
 - Retención trasera Spiuk X1 y divisores laterales Spiuk Arrow Head para un ajuste muy preciso
 

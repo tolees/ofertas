@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 100% Poliamida
-- 2.46kg peso x 30L volumen
 - Hidrófugo
-- 55 altura x 35 ancho x 24.5 profundidad cm
+- 2.46kg peso x 30L volumen
 - Pequeño trolley de cabina extensible de 4 ruedas
+- 55 altura x 35 ancho x 24.5 profundidad cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

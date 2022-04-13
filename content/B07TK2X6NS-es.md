@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hasta 32 dispositivos conectados WI FI
-- VoLTE, VoIP, CSFB
-- Lte Cat 4
 - Batería AC: 100 V - 240 V - DC: 12 V/1 A.
+- Lte Cat 4
+- VoLTE, VoIP, CSFB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

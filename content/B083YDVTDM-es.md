@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsa de trabajo con bandolera amovible
+- 100% Poliéster
 - 0.81kg peso x 18.5L volumen
 - 29 altura x 41 ancho x 16 profundidad cm
 - Hidrófugo
-- 100% Poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})

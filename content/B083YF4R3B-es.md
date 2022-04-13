@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hidrófugo
-- 100% Poliéster
 - Mochila grande con bolsillos de organización
 - 0.58kg peso x 25L volumen
 - 42 altura x 36 ancho x 18 profundidad cm
+- 100% Poliéster
+- Hidrófugo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 0.26kg peso x 8L volumen
 - Fiambrera térmica mediana con manga para trolley
-- 100% Poliéster
+- 0.26kg peso x 8L volumen
 - 20 altura x 25 ancho x 13.5 profundidad cm
+- 100% Poliéster
 - Hidrófugo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% Poliéster
-- Hidrófugo
-- 22 Alto x 29 Ancho x 16.5 Fondo cm
-- Bolso bandolera pequeño con múltiples compartimentos
 - 0.33 kg
+- Hidrófugo
+- Bolso bandolera pequeño con múltiples compartimentos
+- 100% Poliéster
+- 22 Alto x 29 Ancho x 16.5 Fondo cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})

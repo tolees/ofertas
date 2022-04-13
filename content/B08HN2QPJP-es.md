@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 1 L
+- Producto de regreso a clases
 - Mono peludo - XS
 - 0.21 kg
-- Producto de regreso a clases
 - Ligero
-- 1 L
 
 [🛒 Visítala!!!]({{< param buyurl >}})

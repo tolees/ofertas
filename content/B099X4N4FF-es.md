@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera con capucha con cordón de Jack & Jones, mezcla de algodón y poliéster para un uso cómodo
 - Somos un miembro de la iniciativa Better Cotton Initiativa; el algodón Better Cotton se ha sourced via a un sistema de masa de equilibrio
+- Sudadera con capucha con cordón de Jack & Jones, mezcla de algodón y poliéster para un uso cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

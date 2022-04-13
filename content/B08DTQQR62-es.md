@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Resistente
 - Tejido vaquero elástico
 - Spade Pocket
+- Resistente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

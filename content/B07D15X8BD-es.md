@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1 compartimento principal, con cremallera
-- Mono de Kipling
-- Asas de transporte resistentes
 - Logo de Kipling redondo
-- Correas para el hombro ajustables/extraíbles
+- Mono de Kipling
 - 1 bolsillo interior, rejilla abierta
+- Asas de transporte resistentes
+- 1 compartimento principal, con cremallera
+- Correas para el hombro ajustables/extraíbles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

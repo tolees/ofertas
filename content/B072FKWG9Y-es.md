@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bloqueo de seguridad que desactiva la destructora para evitar que se ponga en marcha de forma accidental
-- Ciclo de trabajo: 3 min
-- Cabezal extraíble y capacidad de la papelera 11 litros
-- También destruye grapas, tarjetas de crédito y clips
 - Destruye 6 hojas de papel (70gr) en partículas de 4 x 35mm
+- Ciclo de trabajo: 3 min
+- También destruye grapas, tarjetas de crédito y clips
+- Bloqueo de seguridad que desactiva la destructora para evitar que se ponga en marcha de forma accidental
+- Cabezal extraíble y capacidad de la papelera 11 litros
 
 [🛒 Comprar!!!]({{< param buyurl >}})

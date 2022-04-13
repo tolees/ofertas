@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Producto en castellano
 - Tú valentía y tu astucia serán tus mejores aliados cuando lances los dados divinos para conseguir recursos en tu camino a la victoria
-- Los dados divinos son excepcionales, con caras intercambiables
 - Personaliza tus dados y hazlos más poderosos a medida que el juego avanza
+- Los dados divinos son excepcionales, con caras intercambiables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

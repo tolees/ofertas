@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: piel y goma
 - Cierre: cierre de velcro
 - Material exterior: piel lisa
+- Suela: piel y goma
 - Material interior: sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bolso Tote de tamaño mediano con 2 bolsillos frontales
 - 0.5kg peso x 26L volumen
 - Hidrófugo
-- Bolso Tote de tamaño mediano con 2 bolsillos frontales
 - 100% Poliamida
 - 32 altura x 58 ancho x 20 profundidad cm
 

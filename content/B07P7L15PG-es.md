@@ -31,7 +31,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Regalo ideal para niños y niñas a partir de 3 años.
 - Tamaño del maletin: 24*18*8.5cm,de plástico.
 - Bolsa Beaute con espejo,peine,pulseras y muchos accesorios.
-- El kit se completa con accesorios hechos a la medida de las manos de los niños.
 - Juego creativo con un sencillo y atractivo diseño.
+- El kit se completa con accesorios hechos a la medida de las manos de los niños.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

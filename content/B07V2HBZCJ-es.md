@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 100% Poliéster
-- 0.13kg peso x 1L volumen
-- Estuche grande de múltiples compartimentos con cremallera
-- Hidrófugo
 - 10 altura x 23 ancho x 7 profundidad cm
+- Hidrófugo
+- Estuche grande de múltiples compartimentos con cremallera
+- 0.13kg peso x 1L volumen
 
 [🛒 Visítala!!!]({{< param buyurl >}})

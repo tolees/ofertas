@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para mujer
 - Bolsillos/carcasas
+- Para mujer
 - Classics
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

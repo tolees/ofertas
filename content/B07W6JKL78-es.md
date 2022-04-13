@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONECTIVIDAD DOBLE CON LIGHTSPEED: Puedes alternar entre práctica conectividad Bluetooth y la superrápida tecnología avanzada inalámbrica LIGHTSPEED de 1 ms.
+- SIN CABLES. SIN LIMITES: La marca de accesorios inalámbricos para gaming más vendida del mundo - Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming inalámbricos en unidades
 - BOTÓN RUEDA SUPERRÁPIDO CON DOS MODOS: Cambia el modo de desplazamiento a tu aire para recorrer menús rápidamente o inspeccionar detenidamente selecciones de armas o conjuros; y aplica enlaces de teclas para subir y bajar por entradas.
 - 240 HORAS CON UNA PILA AA: Juega hasta 240 horas en modo LIGHTSPEED o hasta 5 meses y medio en modo Bluetooth con una pila AA, gracias a la revolucionaria eficiencia energética.
-- SIN CABLES. SIN LIMITES: La marca de accesorios inalámbricos para gaming más vendida del mundo - Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming inalámbricos en unidades
 - 15 CONTROLES PROGRAMABLES: Domina tu arsenal en géneros de juego táctico como Battle Royale, MMO y MOBA, con 15 controles situados estratégicamente, entre ellos seis para el pulgar.
 - SENSOR HERO 25K: Nuestro sensor para gaming más avanzado, con un seguimiento 1:1 preciso y una eficiencia energética líder en su clase. HERO 25K ofrece hasta 25.600 DPI, sin suavizado, aceleración ni filtros.
+- CONECTIVIDAD DOBLE CON LIGHTSPEED: Puedes alternar entre práctica conectividad Bluetooth y la superrápida tecnología avanzada inalámbrica LIGHTSPEED de 1 ms.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

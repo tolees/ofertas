@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Robusta y eficaz: la ingeniería alemana en combinación con unos componentes de gran calidad garantiza una larga vida útil y un funcionamiento seguro
 - Potencia suministrada: potencia del motor 600 W, caudal máx. 3100 l/h, presión 3,6 bar, altura de aspiración 7 m, altura de elevación 36 m
 - El paquete incluye: 1 bomba de superficie 3000/4 Classic de GARDENA, diseñada en Alemania
+- Robusta y eficaz: la ingeniería alemana en combinación con unos componentes de gran calidad garantiza una larga vida útil y un funcionamiento seguro
 - Uso versátil: gracias a su gran potencia de aspiración y al rendimiento de presión, es ideal para regar con ducha o aspersor. Apta también para aumentar la presión o trasvasar y bombear el agua de las tuberías, de lluvia o de piscinas con cloro
 - Fácil de usar: estable y sin vibraciones gracias a las patas de goma; gran orificio de llenado que facilita la entrada de agua; tornillo de purga para drenar el agua y proteger de las heladas y empuñadura ergonómica para un cómodo transporte
 

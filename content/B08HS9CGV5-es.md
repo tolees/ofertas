@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Trípode incluido y 30 FPS
-- Micrófono incorporado
 - Resolución full HD 1080p
 - Compatibilidad: Windows 10 / 8 / 7 / XP || Linux 2.6.24 y superior || MacOS 10.6 y superior || Android 5.1 y superior
 - Tapa de privacidad
+- Micrófono incorporado
+- Trípode incluido y 30 FPS
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

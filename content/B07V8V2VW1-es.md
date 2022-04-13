@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hidrófugo
-- 3.72kg peso x 71L volumen
-- 100% Poliamida
 - Maleta mediana de cuatro ruedas
 - 66 altura x 36 ancho x 24 profundidad cm
+- 3.72kg peso x 71L volumen
+- 100% Poliamida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

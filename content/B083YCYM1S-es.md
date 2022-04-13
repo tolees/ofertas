@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mochila
-- Classics
 - Para mujer
+- Classics
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

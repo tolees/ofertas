@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto adecuado para múltiples ocasiones
 - Material resistente y duradero
+- Producto adecuado para múltiples ocasiones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

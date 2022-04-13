@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material suela: Caucho
 - Cierre: correa
-- Forro: sintético
 - Material exterior: Sintético
+- Material suela: Caucho
+- Forro: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

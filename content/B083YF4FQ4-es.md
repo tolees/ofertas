@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 100% Poliamida
-- 3.98kg peso x 101L volumen
-- 81.5 altura x 49 ancho x 30 profundidad cm
 - Trolley grande extensible de 4 ruedas
+- 81.5 altura x 49 ancho x 30 profundidad cm
+- 3.98kg peso x 101L volumen
 - Hidrófugo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

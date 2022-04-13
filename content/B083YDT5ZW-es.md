@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 30 altura x 44.5 ancho x 22 profundidad cm
 - Bolsa mediana de fin de semana con correa extraíble
-- 0.65kg peso x 26L volumen
 - 100% Poliamida
 - Hidrófugo
+- 0.65kg peso x 26L volumen
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
