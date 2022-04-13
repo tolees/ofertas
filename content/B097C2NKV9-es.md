@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'PUMA Incinerar  Zapatillas para Correr Unisex Adulto  Black Opera Mauve  43 EU'
-date: 2022-04-11 18:50:22
+date: 2022-04-13 13:53:39
 image: 'https://m.media-amazon.com/images/I/31OG9yBo6YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B097C2NKV9-es PUMA Incinerar Zapatillas para Correr Unisex Adulto Black...'
 sku: 'B097C2NKV9-es'
-tags: [ 'Calzado de atletismo para mujer','Calzado deportivo para hombre','Calzado deportivo para mujer','Calzados de running para hombre','Calzados de running para mujer','Calzados para correr en asfalto para hombre','Zapatillas y calzado deportivo para hombre','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','puma', ]
+tags: [ 'Calzado de atletismo para mujer','Calzado deportivo para hombre','Calzado deportivo para mujer','Calzados de running para hombre','Calzados de running para mujer','Calzados para correr en asfalto para hombre','Zapatillas y calzado deportivo para hombre','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','puma','🇪🇸', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

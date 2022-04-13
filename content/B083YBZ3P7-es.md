@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Kipling Donna GABBIE S Borsa a Tracolla  Black Peppery  Taglia Unica'
-date: 2022-04-03 14:13:27
+date: 2022-04-13 12:52:56
 image: 'https://m.media-amazon.com/images/I/31r4rLafm0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B083YBZ3P7-es Kipling Donna GABBIE S Borsa a Tracolla Black Peppery...'
 sku: 'B083YBZ3P7-es'
-tags: [ 'Bolsos','Bolsos bandolera para mujer','Bolsos para mujer','Zapatos y complementos','kipling', ]
+tags: [ 'Bolsos','Bolsos bandolera para mujer','Bolsos para mujer','Zapatos y complementos','kipling','🇪🇸', ]
 actualPrice: 42.39 EUR
 currency: EUR
 price: 42.39
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 0.33 kg
 - 100% Poliéster
-- 22 Alto x 29 Ancho x 16.5 Fondo cm
 - Hidrófugo
+- 22 Alto x 29 Ancho x 16.5 Fondo cm
 - Bolso bandolera pequeño con múltiples compartimentos
+- 0.33 kg
 
 [🛒 Visítala!!!]({{< param buyurl >}})

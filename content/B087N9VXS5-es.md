@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087N9VXS5-es Lenor UNstoppables Perlas de Perfume para la Ropa 90...'
 sku: 'B087N9VXS5-es'
-tags: [ 'Cuidado y limpieza del hogar','Productos para la lavandería','Salud y cuidado personal','Suavizante líquido','es','lenor', ]
+tags: [ 'Cuidado y limpieza del hogar','Productos para la lavandería','Salud y cuidado personal','Suavizante líquido','lenor','🇪🇸', ]
 actualPrice: 22.73 EUR
 currency: EUR
 price: 22.73

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'KIPLING Bolsas y estuches DUOBOX Playful Grey'
-date: 2022-04-03 14:15:32
+date: 2022-04-13 12:41:33
 image: 'https://m.media-amazon.com/images/I/4144Jcb2KcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08HN2QPJP-es KIPLING Bolsas y estuches DUOBOX Playful Grey'
 sku: 'B08HN2QPJP-es'
-tags: [ 'Equipaje','Moda','kipling', ]
+tags: [ 'Equipaje','Moda','kipling','🇪🇸', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 1 L
 - Mono peludo - XS
+- 0.21 kg
 - Producto de regreso a clases
 - Ligero
-- 0.21 kg
+- 1 L
 
 [🛒 Visítala!!!]({{< param buyurl >}})

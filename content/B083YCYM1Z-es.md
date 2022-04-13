@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Kipling Creativity S  Pouches/Cases para Mujer  Azul 2  4x14.5x9.5 cm  LxWxH '
-date: 2022-04-03 14:08:44
+date: 2022-04-13 12:49:41
 image: 'https://m.media-amazon.com/images/I/51H-ge5J+ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B083YCYM1Z-es Kipling Creativity S Pouches/Cases para Mujer Azul 2...'
 sku: 'B083YCYM1Z-es'
-tags: [ 'Carteras y monederos para mujer','Carteras, monederos y tarjeteros','Equipaje','Monederos para mujer','kipling', ]
+tags: [ 'Carteras y monederos para mujer','Carteras, monederos y tarjeteros','Equipaje','Monederos para mujer','kipling','🇪🇸', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kipling'
 buyurl: 'https://www.amazon.es/dp/B083YCYM1Z/?tag=tolees-21'
 descuento: '50.04'
-average: '19.4525'
+average: '17.96'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para mujer
-- Classics
 - Bolsillos/carcasas
+- Classics
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

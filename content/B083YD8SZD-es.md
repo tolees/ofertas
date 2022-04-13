@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Kipling CITY SPINNER S  Maletas Unisex adulto  Negro  Black Noir   Talla única'
-date: 2022-04-03 14:04:09
+date: 2022-04-13 12:48:14
 image: 'https://m.media-amazon.com/images/I/31t2xZcGvaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B083YD8SZD-es Kipling CITY SPINNER S Maletas Unisex adulto Negro Black...'
 sku: 'B083YD8SZD-es'
-tags: [ 'Equipaje','Equipaje de mano','Maletas y bolsas de viaje','kipling', ]
+tags: [ 'Equipaje','Equipaje de mano','Maletas y bolsas de viaje','kipling','🇪🇸', ]
 actualPrice: 85.58 EUR
 currency: EUR
 price: 85.58
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pequeño trolley de cabina extensible de 4 ruedas
 - 100% Poliamida
 - 2.46kg peso x 30L volumen
-- 55 altura x 35 ancho x 24.5 profundidad cm
 - Hidrófugo
+- 55 altura x 35 ancho x 24.5 profundidad cm
+- Pequeño trolley de cabina extensible de 4 ruedas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

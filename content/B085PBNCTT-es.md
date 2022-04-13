@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Jada - Furgoneta Escala 1:32 Scooby Doo Mistery Machine  2532520110 '
-date: 2022-04-06 15:53:24
+date: 2022-04-13 13:48:05
 image: 'https://m.media-amazon.com/images/I/41ZTrT2AAiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B085PBNCTT-es Jada - Furgoneta Escala 1:32 Scooby Doo Mistery Machine...'
 sku: 'B085PBNCTT-es'
-tags: [ 'Coches controlados por aplicación o por control remoto','Coleccionables','Juguetes','Juguetes y juegos','Merchandising y estatuas y bustos','Radiocontrol','Réplicas y merchandising de cine y TV','Vehículos controlados por aplicación y control remoto','jada', ]
+tags: [ 'Coches controlados por aplicación o por control remoto','Coleccionables','Juguetes','Juguetes y juegos','Merchandising y estatuas y bustos','Radiocontrol','Réplicas y merchandising de cine y TV','Vehículos controlados por aplicación y control remoto','jada','🇪🇸', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% licencia oficial
-- Hecho en metal a escala 1:32
 - Las puertas se abren
 - Con ruedas de goma
+- 100% licencia oficial
+- Hecho en metal a escala 1:32
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

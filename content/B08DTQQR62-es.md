@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Lee Legendary Regular Jeans  Azul  Nightshade   27W x 33L para Mujer'
-date: 2022-04-09 19:07:39
+date: 2022-04-13 14:04:25
 image: 'https://m.media-amazon.com/images/I/31iYoEVvQeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08DTQQR62-es Lee Legendary Regular Jeans Azul Nightshade 27W x 33L para...'
 sku: 'B08DTQQR62-es'
-tags: [ 'Ropa','Ropa para mujer','Vaqueros para mujer','lee', ]
+tags: [ 'Ropa','Ropa para mujer','Vaqueros para mujer','lee','🇪🇸', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Spade Pocket
-- Tejido vaquero elástico
 - Resistente
+- Tejido vaquero elástico
+- Spade Pocket
 
 [🛒 Visítala!!!]({{< param buyurl >}})

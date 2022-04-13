@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Kipling CLASS ROOM - Mochila escolar  28 liters  Rosa  BRIDAL ROSE '
-date: 2022-04-03 14:01:34
+date: 2022-04-13 12:39:39
 image: 'https://m.media-amazon.com/images/I/41toisZ+nYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07N1DGKFB-es Kipling CLASS ROOM - Mochila escolar 28 liters Rosa BRIDAL...'
 sku: 'B07N1DGKFB-es'
-tags: [ 'Equipaje','Mochilas','Mochilas infantiles','kipling', ]
+tags: [ 'Equipaje','Mochilas','Mochilas infantiles','kipling','🇪🇸', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kipling'
 buyurl: 'https://www.amazon.es/dp/B07N1DGKFB/?tag=tolees-21'
 descuento: '41.09'
-average: '76.99'
+average: '76.6566666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hidrófugo
-- 0.89kg peso x 28L volumen
 - Mochila grande con funda para el portátil
+- 0.89kg peso x 28L volumen
 - 100% Poliamida
 - 43 altura x 29 ancho x 24 profundidad cm
 

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Clarks Brantin Low  Zapatillas Hombre  Piedra Nobuck  46 EU'
-date: 2022-04-06 16:08:52
+date: 2022-04-13 13:56:14
 image: 'https://m.media-amazon.com/images/I/31269OlrPmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08C2YTBKX-es Clarks Brantin Low Zapatillas Hombre Piedra Nobuck 46 EU'
 sku: 'B08C2YTBKX-es'
-tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','clarks', ]
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','clarks','🇪🇸', ]
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

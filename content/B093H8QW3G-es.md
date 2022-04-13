@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B093H8QW3G-es Panasonic TX-50JX800E Android TV LED 4K HDR 50" Dolby...'
 sku: 'B093H8QW3G-es'
-tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','es','panasonic', ]
+tags: [ 'Electrónica','TV, vídeo y home cinema','Televisores','panasonic','🇪🇸', ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Función Enviar: ¿Sabías que puedes enviar fácilmente programas de Netflix de tu smartphone a tu televisor Panasonic? Solo tienes que conectar ambos dispositivos a la misma red Wi-Fi; toca el icono de enviar y ¡Listo! ¿Por qué no pruebas a ver la última serie de Netflix?
 - Android TV: No te límites a los canales de TV tradicionales y conéctate fácilmente a Android TV gracias al Wi-Fi integrado; descubre más de 400.000 películas, programas y series en u único lugar; pide a Google con tu voz que controle tu televisor
-- Número de puertos HDMI: 2; Tamaño de pantalla: 50.0 inches
 - Dolby Atmos: Nitidez, riqueza y la profundidad del sonido crean un campo de sonido 3D desde el que fluye la atmósfera optima
 - Compatible con Alexa: Cambia de canal, sube el volumen o apague el televisor, todo esto puedes hacer solo con tu voz y con el dispositivo Alexa; óptimo cuando tienes las manos ocupadas o no encuentras el mando
-- Función Enviar: ¿Sabías que puedes enviar fácilmente programas de Netflix de tu smartphone a tu televisor Panasonic? Solo tienes que conectar ambos dispositivos a la misma red Wi-Fi; toca el icono de enviar y ¡Listo! ¿Por qué no pruebas a ver la última serie de Netflix?
-- Televisor LED 4K HDR: la tecnología de Panasonic HDR (High Dynamic Range) mejora el color y brillo de las imágenes
 - Dolby Vision: Los óptimos contraste, brillo y colores con los discos Dolby Vision UHD Blu-ray y los servicios de transmisión con ajustes de imagen HDR conseguirás un calidad escena por escena jamás antes vista
+- Televisor LED 4K HDR: la tecnología de Panasonic HDR (High Dynamic Range) mejora el color y brillo de las imágenes
+- Número de puertos HDMI: 2; Tamaño de pantalla: 50.0 inches
 
 [🛒 Aquí!!!]({{< param buyurl >}})
