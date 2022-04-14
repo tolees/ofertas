@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Nerf Star Wars Imperial Death Trooper Deluxe Dart  The Mandalorian  Blaster Sounds  Efectos de luz  3 Dardos Brillan en la Oscuridad  Color  Estándar  Hasbro F2251EU5 '
-date: 2022-04-06 10:33:58
+date: 2022-04-14 18:32:16
 image: 'https://m.media-amazon.com/images/I/41Sm1YlLQnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08JNFRRGN-es Nerf Star Wars Imperial Death Trooper Deluxe Dart The...'
 sku: 'B08JNFRRGN-es'
-tags: [ 'Aire libre y deportes','Armas y proyectiles de juguete','Juguetes','Juguetes y juegos','Lanzadores de espuma de juguete','nerf', ]
-actualPrice: 17.05 EUR
+tags: [ 'Aire libre y deportes','Armas y proyectiles de juguete','Juguetes','Juguetes y juegos','Lanzadores de espuma de juguete','nerf','🇪🇸', ]
+actualPrice: 17.75 EUR
 currency: EUR
-price: 17.05
+price: 17.75
 comparePrice: 49.0 EUR
 prodname: 'Nerf Star Wars Imperial Death Trooper Deluxe Dart  The Mandalorian  Blaster Sounds  Efectos de luz  3 Dardos Brillan en la Oscuridad  Color  Estándar  Hasbro F2251EU5 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B08JNFRRGN/?tag=tolees-21'
-descuento: '65.20'
-average: '12.034'
+descuento: '63.78'
+average: '12.9866666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
