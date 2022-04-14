@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alimentación para un largo periodo de uso
 - Diseño ergonómico para los disparos en orientación vertical y horizontal
 - Resiste el frío, el polvo y las salpicaduras
 - Ideal para disparos de retratos
+- Alimentación para un largo periodo de uso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
