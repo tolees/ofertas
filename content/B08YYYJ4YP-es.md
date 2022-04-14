@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro transpirable acolchado
 - Suela de caucho
 - Plantilla acolchada
+- Forro transpirable acolchado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

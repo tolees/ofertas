@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla desmontable
-- Calce fácil y regulable con cremallera y cordones
-- Fácil de llevar para un confort optimo
 - Altura del tacón: 3 cm / 1.2 inch
+- Calce fácil y regulable con cremallera y cordones
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Plantilla desmontable
+- Fácil de llevar para un confort optimo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistemas operativos compatibles: Windows 7, de 32 o 64 bits, Windows 8.1, de 32 o 64 bits, Windows 10, de 32 o 64 bits
 - Capacidad del disco duro 240 GB
 - Interfaz SATA 6 Gb / s
 - Velocidad de lectura/escritura: 2.800 mW
+- Sistemas operativos compatibles: Windows 7, de 32 o 64 bits, Windows 8.1, de 32 o 64 bits, Windows 10, de 32 o 64 bits
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

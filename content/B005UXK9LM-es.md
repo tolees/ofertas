@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ron blanco Premium
+- Olor: melaza tostada, vegetal, plátano tropical agradable, una cáscara ligera de lima
+- El ron se filtra cuidadosamente con carbón vegetal para eliminar su color, pero retiene todos sus aromas y sabores
 - Sabor: especias, pimienta negra, un final seco agradable, notas tostadas de melaza
 - Mezcla de rones de cinco destilerías, cada uno de edades comprendidas entre tres y doce años, con filtración.
-- El ron se filtra cuidadosamente con carbón vegetal para eliminar su color, pero retiene todos sus aromas y sabores
-- Olor: melaza tostada, vegetal, plátano tropical agradable, una cáscara ligera de lima
-- Ron blanco Premium
 
 [🛒 Comprar!!!]({{< param buyurl >}})

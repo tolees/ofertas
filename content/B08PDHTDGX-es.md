@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estándar
 - Modelo: Graphic Standard
+- Estándar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

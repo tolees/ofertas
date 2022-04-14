@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene las cuchicllas de acero inoxidable para garantizar un corte rápido y seguro por toda la cabeza
-- Hasta 60 de autonomía y incluye indicador total de carga
-- 7 alturas de corte para crear todo tipo de peinados, HC-0150 tiene 1 peine guía de 3 a 18mm regulable cada 3 mm para que tengas, en tu mano, la posiblidad de crear todo tipo de estilos
 - Accesorios: Cepillo de limpieza, aceite lubricante, peine y cargador
+- 7 alturas de corte para crear todo tipo de peinados, HC-0150 tiene 1 peine guía de 3 a 18mm regulable cada 3 mm para que tengas, en tu mano, la posiblidad de crear todo tipo de estilos
 - Desmonta el cabezal una vez hayas acabado de cortar y límpialo con el cepillo incluido con total facilidad
+- Hasta 60 de autonomía y incluye indicador total de carga
+- Tiene las cuchicllas de acero inoxidable para garantizar un corte rápido y seguro por toda la cabeza
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
