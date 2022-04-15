@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Un clic en el logotipo de la marca lleva a la tienda Urban Classics y a la moda de la calle
 - Pantalones cargo extravagantes con fino patrón de cuadros
+- Puños en los bajos para un ajuste óptimo
 - Disponible en 3 variantes de colores
 - Dos bolsillos en la parte trasera, lateral y lateral sobre las rodillas
-- Puños en los bajos para un ajuste óptimo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
