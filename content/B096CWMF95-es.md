@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre de cordones.
-- Suela de EVA con ranuras flexibles.
-- Parte superior de tela.
 - Una zapatilla de running ultraligera.
+- Parte superior de tela.
+- Suela de EVA con ranuras flexibles.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
