@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Grosor de la caja de 8.65 mm; diámetro de la caja: 42 mm
-- Movimiento de cuarzo de dos manecillas
-- 3 ATM de resistencia al agua; el agua del grifo o la lluvia no daña los relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
 - Esfera negra
+- Grosor de la caja de 8.65 mm; diámetro de la caja: 42 mm
+- 3 ATM de resistencia al agua; el agua del grifo o la lluvia no daña los relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
 - Correa de piel negra
+- Movimiento de cuarzo de dos manecillas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
