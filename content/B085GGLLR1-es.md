@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI Reloj GT 2e Sport - Reloj inteligente AMOLED Pantalla de 1 81 pulgadas  2 Horas de funcionamiento  GPS  Negro'
-date: 2022-04-13 17:41:53
+date: 2022-04-15 16:24:28
 image: 'https://m.media-amazon.com/images/I/51boZeGCpFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B085GGLLR1/?tag=tolees-21'
 descuento: '51.00'
-average: '109.965585585586'
+average: '109.766875'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pantalla AMOLED HD de 1.39 pulgadas
 - Resistencia al agua
-- La pantalla táctil AMOLED admite gestos deslizantes y táctiles
 - Material: metal y plástico
+- La pantalla táctil AMOLED admite gestos deslizantes y táctiles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
