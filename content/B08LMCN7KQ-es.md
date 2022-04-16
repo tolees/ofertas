@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI YOUPIN LÁMPARA DE ESTERILIZACIÓN UV  XIAODA Model ZW2.5D8Y-08 '
-date: 2022-04-15 09:35:30
+date: 2022-04-16 15:27:10
 image: 'https://m.media-amazon.com/images/I/31rdL25xOEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08LMCN7KQ/?tag=tolees-21'
 descuento: '69.23'
-average: '9.75714285714285'
+average: '9.60999999999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
