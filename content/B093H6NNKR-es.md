@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
-- Camiseta
-- Sostenible
-- Apoya la iniciativa Better Cotton Initiativa
 - Pack de 3 unidades
+- Sostenible
+- Camiseta
+- Apoya la iniciativa Better Cotton Initiativa
+- 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

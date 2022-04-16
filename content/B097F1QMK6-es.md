@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- algodón
-- Camiseta
 - Rayas
 - Cómodo
+- algodón
+- Camiseta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

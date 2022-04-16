@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de pieza: 305625311L
-- cierre de correa de barbilla rápido y eficiente
-- carcasa de policarbonato hptt para un peso ligero de 950 g +/- 50 g
-- antiarañazos, anti-uv y antivaho
 - lente lexan inyectada larga e incolora
+- Número de pieza: 305625311L
+- carcasa de policarbonato hptt para un peso ligero de 950 g +/- 50 g
 - "sistema de liberación rápida para la pantalla, fácil y sin herramientas "sistema de liberación rápida"
+- cierre de correa de barbilla rápido y eficiente
+- antiarañazos, anti-uv y antivaho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

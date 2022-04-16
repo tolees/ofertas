@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caramelos duros Halls con sabor a cítrico; Con edulcorantes, sin azúcar
-- Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
-- Conservar en lugar fresco y seco
 - Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
+- Caramelos duros Halls con sabor a cítrico; Con edulcorantes, sin azúcar
+- Conservar en lugar fresco y seco
 - Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
+- Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

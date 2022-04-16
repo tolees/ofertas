@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No es resistente al agua
-- Caña baja
-- Puma Blanco-Sun Kissed Coral
 - Puma White-Yellow Pear
 - Número de modelo: 369155
+- Caña baja
+- No es resistente al agua
 - Piel: piel
+- Puma Blanco-Sun Kissed Coral
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

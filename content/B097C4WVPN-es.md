@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - No resistente al agua
-- Cuero: sin piel
 - Electricizar Nitro Turn
+- Cuero: sin piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
