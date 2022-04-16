@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño danés
 - 100 % poliéster recubierto de poliuretano
+- Diseño danés
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

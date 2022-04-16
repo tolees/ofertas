@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Logotipo de Tommy Hilfiger en los brazos
 - Multicolor
 - Camiseta de manga larga HWK
-- Logotipo de Tommy Hilfiger en los brazos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

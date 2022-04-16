@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suave de Llevar
 - Importado
+- Suave de Llevar
 - Producto fabricado pensando en sus necesidades
 - Cordones de Zapatos
 

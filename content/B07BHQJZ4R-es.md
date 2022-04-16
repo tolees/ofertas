@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Inspirado en la belleza de la península de Yucatán, ensamblando cada botella manualmente por los artesanos de la destilería.
-- Maestro destilador con más de 45 años de experiencia.
-- Reposado en barricas de roble americano durante 3 meses para adquirir sus notas de vainilla y roble y su sabor balanceado.
 - Ideal para ser disfrutado solo o en alta coctelería como una Margarita Premium: 1 y ½ parte de Cenote Reposado, ½ parte de licor de naranja, 1 parte de jugo de lima y decorar con sal.
+- Reposado en barricas de roble americano durante 3 meses para adquirir sus notas de vainilla y roble y su sabor balanceado.
 - Tequila Reposado Ultra Premium 100% Agave Azul producido en Jalisco, México.
+- Maestro destilador con más de 45 años de experiencia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

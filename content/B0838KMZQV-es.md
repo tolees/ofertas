@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Importado
-- Suave de Llevar
 - Cordones de Zapatos
+- Suave de Llevar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

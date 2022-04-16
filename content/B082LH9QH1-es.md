@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Silueta minimalista
+- Logotipo clásico
+- Durable
 - Piel sintética suave
 - Inserciones de nylon
-- Durable
-- Logotipo clásico
-- Silueta minimalista
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: material sintético
 - Material de la suela: goma
+- Material exterior: material sintético
 - Estilo: zapatillas de running
-- Material interior: tela
 - Cierre: cordones
+- Material interior: tela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

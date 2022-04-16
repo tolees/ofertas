@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- The Vans Classic Raglan - Camiseta
 - 100% algodón hilado y peinado
 - Mangas de tres cuartos y gráficos de logotipo frontal
 - El modelo mide 1,8 m y lleva una talla mediana.
+- The Vans Classic Raglan - Camiseta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

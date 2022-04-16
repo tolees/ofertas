@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Paqueteage Weight: 4.76 kilograms
 - Superficie de trabajo rectangular: 120 x 65 mm
 - Paqueteage Dimensiones: 10.67 L x 23.11 H x 13.21 W (centimeters)
-- Paqueteage Weight: 4.76 kilograms
 - Bigornia de 1 punta de hierro fundido, para atornillar. Hierro fundido de color gris
 
 [🛒 Visítala!!!]({{< param buyurl >}})

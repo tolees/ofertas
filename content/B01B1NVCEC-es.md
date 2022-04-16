@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Uso en seco o en húmedo, incluso en la ducha
 - Batería de larga duración: 60 minutos en cada uso con 4 horas de carga
-- Incluye cuatro peines-guía para recortar la barba: 1, 2, 3 y 5 mm
 - Recorta, perfila y afeita cualquier longitud de pelo
+- Uso en seco o en húmedo, incluso en la ducha
+- Incluye cuatro peines-guía para recortar la barba: 1, 2, 3 y 5 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Spade Pocket
 - Tejido vaquero elástico
 - Resistente
+- Spade Pocket
 
 [🛒 Comprar!!!]({{< param buyurl >}})

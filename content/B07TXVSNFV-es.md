@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colores que no se gastan ni se descascarillan
 - Pincel que cubre toda la superficie de la uña con una sola aplicación
+- Colores que no se gastan ni se descascarillan
+- Brillo que dura hasta 10 días
 - Fórmula 3 en 1: capa base, color y capa superior
 - Acabado gel profesional
-- Brillo que dura hasta 10 días
 
 [🛒 Visítala!!!]({{< param buyurl >}})
