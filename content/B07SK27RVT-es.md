@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Número de modelo: VN0A456A
 - Puños y dobladillo acanalados
+- Número de modelo: VN0A456A
 
 [🛒 Visítala!!!]({{< param buyurl >}})
