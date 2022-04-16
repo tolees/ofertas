@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo: zapatillas de running
 - Material exterior: material sintético
 - Material de la suela: goma
+- Estilo: zapatillas de running
 - Material interior: tela
 - Cierre: cordones
 

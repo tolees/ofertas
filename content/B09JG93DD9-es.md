@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - De color brillante dorado claro. Cider de sabores limpios e intensos. Perfil muy afrutado con predominio de las notas de manzana, roja y verde, con otros matices a pera y frutos amarillos que lo enriquecen. En boca el cuerpo es ligero, moderadamente acida con ligero dulzor, sedosa en textura y carácter refrescante.
 - Para un mayor disfrute, se recomienda consumir entre 4º y 6º C.
-- Pack de 24 latas 33 centilitros cada una de La Prohibida Sidra Cider, con un 4,5% de alcohol.
 - Elaborada con manzanas rojas y verdes seleccionadas en su punto justo de maduración, azúcar, aromas naturales y levadura seleccionada especial cider.
+- Pack de 24 latas 33 centilitros cada una de La Prohibida Sidra Cider, con un 4,5% de alcohol.
 - La Prohibida Sidra Cider destaca por su carácter refrescante, ligera acidez y final dulce. Una propuesta atrevida para el día a día, sin complejos. Un mordisco auténtico para los inconformistas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

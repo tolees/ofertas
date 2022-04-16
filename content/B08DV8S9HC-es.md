@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Legendary Regular Jeans  Azul  Nightshade   31W x 33L para Mujer'
-date: 2022-04-14 13:50:13
+date: 2022-04-16 09:24:21
 image: 'https://m.media-amazon.com/images/I/31iYoEVvQeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

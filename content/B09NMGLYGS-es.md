@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela con patrón de espiga que eleva el estilo clásico
 - Cuello bajo acolchado para un aspecto elegante
+- Suela con patrón de espiga que eleva el estilo clásico
 - Ofrece durabilidad y comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
