@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espuma viscoelástica
 - Bolsillo secreto.
+- Espuma viscoelástica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta de algodón con logotipo en el pecho
 - Este estilo ha sido producido de forma sostenible
+- Camiseta de algodón con logotipo en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

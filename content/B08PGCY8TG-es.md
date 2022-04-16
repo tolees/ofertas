@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Relleno reciclado sin pluMón
 - Bolsillos con cierre de cremallera
+- Bolsillos con solapa con cierre de cremallera
+- Ojales de ventilación
 - Detalles de firma
+- Cierre con cremallera lateral
+- Detalles impresos
 - Capucha ajustable
 - Anorak con capucha
 - Bolsillos con cierre de cremallera
-- Detalles impresos
-- Ojales de ventilación
-- Relleno reciclado sin pluMón
-- Cierre con cremallera lateral
-- Bolsillos con solapa con cierre de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

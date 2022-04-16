@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bota baja
 - Entresuela de goma
 - Parte superior de cuero
-- Bota baja
 
 [🛒 Comprar!!!]({{< param buyurl >}})

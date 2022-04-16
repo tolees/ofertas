@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte bajo para mayor flexibilidad y libertad de movimiento
-- Parte superior de ante/nilón con estilo para mayor comodidad y sujeción
-- Entresuela de EVA ligera y perforada para una amortiguación y absorción de impactos óptimas.
-- Plantilla ortholite que puede ser reemplazada por incrustaciones ortopédicas
 - Suela exterior de goma extra resistente a la abrasión con rayado en espiga para un agarre duradero y una tracción fiable.
+- Plantilla ortholite que puede ser reemplazada por incrustaciones ortopédicas
+- Corte bajo para mayor flexibilidad y libertad de movimiento
+- Entresuela de EVA ligera y perforada para una amortiguación y absorción de impactos óptimas.
+- Parte superior de ante/nilón con estilo para mayor comodidad y sujeción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
