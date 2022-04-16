@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con Windows 7 (solo 64 bits) o posterior y Mac OS X v10.10 o posterior. Para móviles, compatible con iOS 9+ y Android 4.4+
-- Puerto USB para importar fotos, vídeos y documentos desde unidades flash USB y discos duros externos
-- Un solo sitio centralizado para almacenar todas sus fotos, vídeos, música y archivos
-- Acceso desde cualquier lugar con la aplicación para móviles o para ordenadores de My Cloud Home, o bien desde MyCloud.com
-- Configuración sencilla y rápida desde el teléfono
-- ¡Atención! Requiere un enrutador y conexión a internet para funcionar correctamente
-- Temperatura operativa: de 5 °C a 35 °C
 - Copia de seguridad automática de las fotos y los vídeos del teléfono
+- Temperatura operativa: de 5 °C a 35 °C
+- Un solo sitio centralizado para almacenar todas sus fotos, vídeos, música y archivos
+- Puerto USB para importar fotos, vídeos y documentos desde unidades flash USB y discos duros externos
+- Acceso desde cualquier lugar con la aplicación para móviles o para ordenadores de My Cloud Home, o bien desde MyCloud.com
+- ¡Atención! Requiere un enrutador y conexión a internet para funcionar correctamente
+- Compatible con Windows 7 (solo 64 bits) o posterior y Mac OS X v10.10 o posterior. Para móviles, compatible con iOS 9+ y Android 4.4+
+- Configuración sencilla y rápida desde el teléfono
 - Interfaz Gigabit Ethernet, USB 3.0
 
 [🛒 Aquí!!!]({{< param buyurl >}})

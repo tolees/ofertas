@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Recibe correos electrónicos, mensajes de texto y alertas directamente en el reloj cuando esté vinculado a un smartphone compatible. Accede a varios sistemas globales de navegación por satélite (GPS, GLONASS y Galileo).
 - La tecnología óptica mejorada de frecuencia cardiaca mide la intensidad de la actividad deportiva. Calcula nivel de estrés, de modo que puedes ver si el día está siendo tranquilo, equilibrado o estresante.
-- Tecnología innovadora para los más atletas y aventureros. Viaja durante más tiempo bajo la luz del sol gracias a la pantalla con carga solar. Activa o desactiva las funciones del reloj según el uso que le des en cada momento para prolongar la autonomía.
-- Diseñado conforme al estándar militar estadounidense 810 de rendimiento térmico, resistencia a los golpes e impermeabilidad (hasta una profundidad de 100 metros).
 - Para que puedas ver la aclimatación a la altitud o el seguimiento del sueño, Instinct Solar incluye un sensor Pulse Ox. para que tengas información sobre la absorción de oxígeno en tu cuerpo. Optimiza las reservas de energía de tu cuerpo gracias al widget Body Battery.
+- Diseñado conforme al estándar militar estadounidense 810 de rendimiento térmico, resistencia a los golpes e impermeabilidad (hasta una profundidad de 100 metros).
+- Recibe correos electrónicos, mensajes de texto y alertas directamente en el reloj cuando esté vinculado a un smartphone compatible. Accede a varios sistemas globales de navegación por satélite (GPS, GLONASS y Galileo).
+- Tecnología innovadora para los más atletas y aventureros. Viaja durante más tiempo bajo la luz del sol gracias a la pantalla con carga solar. Activa o desactiva las funciones del reloj según el uso que le des en cada momento para prolongar la autonomía.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

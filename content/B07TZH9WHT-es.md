@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Knit Pullover with Structure
 - High quality cotton
+- Knit Pullover with Structure
 
 [🛒 Comprar!!!]({{< param buyurl >}})
