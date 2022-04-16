@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Excelente rendimiento de primer plano a partir de 15 cm (en 6 mm)
-- Enfoque manual
 - Diseño compacto
 - Fisheye de zoom
 - Ultra corto intervalo de longitud
+- Excelente rendimiento de primer plano a partir de 15 cm (en 6 mm)
+- Enfoque manual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

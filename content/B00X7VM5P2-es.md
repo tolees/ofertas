@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición: 77% viscosa, 20% nailon, 3% elastano
 - Pantalón con revestimiento
 - Trabillas para cinturón
 - Estilo de cinco bolsillos
+- Composición: 77% viscosa, 20% nailon, 3% elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Base Transtherm full induction que permite una óptima distribución y retención del calor
-- Capacidad para 6 tazas de espresso
-- Resistente a la corrosión de los ácidos de los alimentos y a las rayaduras
-- Cafetera fabricada en Cromargan acero inoxidable 18/10
 - Diseñado por Metz & Kindler
+- Capacidad para 6 tazas de espresso
+- Cafetera fabricada en Cromargan acero inoxidable 18/10
+- Resistente a la corrosión de los ácidos de los alimentos y a las rayaduras
+- Base Transtherm full induction que permite una óptima distribución y retención del calor
 - Válido para todo tipo de cocinas, incluida inducción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

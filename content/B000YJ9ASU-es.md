@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cafetera espresso con fondo magnético, adecuada para placas de inducción
+- Material: acero inoxidable 18/10
 - Dimensiones: diámetro 14,50 cm, altura 23 cm
 - Designer: Richard Sapper
 - También disponible en las versiones de 1, 3 y 6 tazas
-- Material: acero inoxidable 18/10
-- Cafetera espresso con fondo magnético, adecuada para placas de inducción
 
 [🛒 Comprar!!!]({{< param buyurl >}})
