@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Guess Modelo Reloj Phoenix GW0048G2
-- 8 milimetros calendario Día y fecha correa ajustable
 - Analógico para Unisex adulto
+- 8 milimetros calendario Día y fecha correa ajustable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

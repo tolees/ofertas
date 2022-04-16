@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estructura cupsole.
-- Cuello y lengüeta acolchados de espuma para mayor comodidad.
-- Fabricación.
 - Orificios de ventilación para la transpirabilidad.
+- Fabricación.
+- Estructura cupsole.
 - Empeine de cuero, nobuk o ante.
+- Cuello y lengüeta acolchados de espuma para mayor comodidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 100% algodón
-- Apoya la iniciativa Better Cotton Initiativa
 - Paquete doble
 - Camiseta
+- Apoya la iniciativa Better Cotton Initiativa
 - Sostenible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
