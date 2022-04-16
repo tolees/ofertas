@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Durable
-- Silueta minimalista
 - Piel sintética suave
-- Plantilla Ortholite
 - Logotipo clásico
+- Silueta minimalista
+- Plantilla Ortholite
+- Durable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

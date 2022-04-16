@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Hecho en Francia
+- Perfecta para hacer el Slime
 - Adhesivo vinílico para usar con papel y cartón
 - Esta cola es ideal para las primeras actividades manuales de los pequeños niños de 3 años y más
-- Hecho en Francia
-- Sin solvente y sin acido
-- Perfecta para hacer el Slime
 - Contiene un frasco de 2 litros, cantidad para llenar los pequeños frascos
+- Sin solvente y sin acido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
