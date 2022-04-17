@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Legendary Regular Jeans  Azul  Nightshade   31W x 33L para Mujer'
-date: 2022-04-16 09:24:21
+date: 2022-04-17 12:54:37
 image: 'https://m.media-amazon.com/images/I/31iYoEVvQeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido vaquero elástico
-- Resistente
 - Spade Pocket
+- Resistente
+- Tejido vaquero elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
