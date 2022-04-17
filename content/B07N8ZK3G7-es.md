@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ziffernblatt: Schwarz mit Leuchtzeigern, roségoldenen Indizes und einem klaren Kristall
 - Wasserdichtigkeit: 5 bar
+- Ziffernblatt: Schwarz mit Leuchtzeigern, roségoldenen Indizes und einem klaren Kristall
 
 [🛒 Visítala!!!]({{< param buyurl >}})

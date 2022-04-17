@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pierna recta corta
-- Cintura media
-- Ajuste regular
-- Cuello y puños en contraste
-- Mezcla de algodón de rizo
-- Jersey de algodón orgánico
-- Cuello redondo
 - Manga corta
+- Ajuste regular
+- Mezcla de algodón de rizo
+- Cuello y puños en contraste
+- Cintura media
+- Cuello redondo
+- Jersey de algodón orgánico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
