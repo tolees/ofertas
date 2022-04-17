@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'LS2  casco moto jet Airflow negro mate  XL'
-date: 2022-04-09 10:50:12
+date: 2022-04-17 09:26:09
 image: 'https://m.media-amazon.com/images/I/41ncvD0tX9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01GGIDS12-es LS2 casco moto jet Airflow negro mate XL'
 sku: 'B01GGIDS12-es'
-tags: [ 'Cascos abiertos de moto','Cascos de moto','Coche y moto','Motos, accesorios y piezas','Ropa de protección para moto','ls2', ]
-actualPrice: 37.8 EUR
+tags: [ 'Cascos abiertos de moto','Cascos de moto','Coche y moto','Motos, accesorios y piezas','Ropa de protección para moto','ls2','🇪🇸', ]
+actualPrice: 36.8 EUR
 currency: EUR
-price: 37.8
+price: 36.8
 comparePrice: 69.9 EUR
 prodname: 'LS2  casco moto jet Airflow negro mate  XL'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LS2'
 buyurl: 'https://www.amazon.es/dp/B01GGIDS12/?tag=tolees-21'
-descuento: '45.92'
-average: '38.9828571428572'
+descuento: '47.35'
+average: '38.8373333333334'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
