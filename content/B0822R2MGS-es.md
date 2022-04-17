@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Country of origin:Spain
-- Zapatillas para hombre
 - Marca:Asics
+- Zapatillas para hombre
+- Country of origin:Spain
 
 [🛒 Visítala!!!]({{< param buyurl >}})
