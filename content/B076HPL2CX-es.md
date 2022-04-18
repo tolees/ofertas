@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Core 18 Presentation TR Pnt Pantalones Deportivos  Hombre  Azul  Azul/Blanco   L'
-date: 2022-04-15 17:00:12
+date: 2022-04-18 12:07:13
 image: 'https://m.media-amazon.com/images/I/31S8SqkilRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HPL2CX/?tag=tolees-21'
 descuento: '50.03'
-average: '16.6466666666667'
+average: '16.2325'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo de adidas en la cadera izquierda.
-- Tienen dos bolsillos laterales
-- 100% Poliéster.
 - Corte clásico que se adapta al cuerpo cómodamente.
+- Logotipo de adidas en la cadera izquierda.
 - Dobladillo abierto.
 - Cintura elástica con cordón.
+- 100% Poliéster.
+- Tienen dos bolsillos laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

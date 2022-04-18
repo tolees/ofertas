@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Camiseta
-- Apoya la iniciativa Better Cotton Initiativa
-- Pack de 3 unidades
 - Sostenible
+- Pack de 3 unidades
 - 100% algodón
+- Apoya la iniciativa Better Cotton Initiativa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
