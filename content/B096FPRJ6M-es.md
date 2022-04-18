@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de piel sintética
-- Cierre de cordones
-- Una zapatilla minimalista con detalles de pana
-- Forro de tela
 - Lavable y duradera
+- Cierre de cordones
+- Parte superior de piel sintética
+- Forro de tela
+- Una zapatilla minimalista con detalles de pana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
