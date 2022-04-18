@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Orificios de ventilación para mayor transpirabilidad
 - Suela exterior de goma resistente a la abrasión
+- Orificios de ventilación para mayor transpirabilidad
+- Calzado bajo
 - Construcción vulcanizada para mayor sensación y flexibilidad
 - Material exterior de ante y lona
-- Calzado bajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bota baja
 - Plantilla sostenible que contiene un 20% de espuma reciclada y un 5% de material biológico
+- Bota baja
 - CMEVA: material EVA moldeado por compresión para un rendimiento ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
