@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tipo de tacón: plano
 - Parte superior: sintético
-- Material de la suela: goma
 - Forro: sintético
+- Material de la suela: goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
