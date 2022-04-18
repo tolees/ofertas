@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Novedad: accede a la pay TV del digital terrestre
-- Botón WPS para conexión rápida
-- Existe una aplicación para controlar el decodificador a través del teléfono en lugar del control remoto gracias al wifi integrado.
 - Para recibir la señal digital terrestre sin suscripción con el satélite
 - Muchos canales nacionales e internacionales sin suscripción mensual
+- Botón WPS para conexión rápida
 - Ninguna fuente de alimentación
+- Novedad: accede a la pay TV del digital terrestre
+- Existe una aplicación para controlar el decodificador a través del teléfono en lugar del control remoto gracias al wifi integrado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
