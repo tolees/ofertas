@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjeurban Blocking-Camiseta de Manga Cuello Redondo  Night/Detalles: Estampado Hawaiano Negro/Corte Ajustado  M para Hombre'
-date: 2022-04-17 16:08:33
+date: 2022-04-18 18:09:57
 image: 'https://m.media-amazon.com/images/I/31xnK8dpsRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rayas
 - Cómodo
-- Camiseta
 - algodón
+- Camiseta
+- Rayas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
