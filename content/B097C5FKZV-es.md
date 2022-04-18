@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Chroma Wn s  Zapatillas de Gimnasio Mujer  Black Porcelain Nitro Blue  38 EU'
-date: 2022-04-14 13:59:56
+date: 2022-04-18 10:52:50
 image: 'https://m.media-amazon.com/images/I/41AkCKEqMQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No es resistente al agua
 - Calle
+- No es resistente al agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

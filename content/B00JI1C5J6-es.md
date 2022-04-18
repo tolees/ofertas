@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Guard Stay II Espinilleras  Unisex  Rojo/Blanco  Talla Única'
-date: 2022-04-14 11:35:42
+date: 2022-04-18 10:09:23
 image: 'https://m.media-amazon.com/images/I/41lHPa+BzfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adjustable closure
-- Velcro closure
 - Shin guards
 - Tipo de deporte: ropa deportiva atlética
+- Adjustable closure
+- Velcro closure
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
