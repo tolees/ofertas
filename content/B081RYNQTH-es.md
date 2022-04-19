@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material
-- DimensionEach rollo 500 cm x 1,5 cm
 - ColorWhite / púrpura / amarillo / / azul / rojo de la rosa
-- Weight7g
 - Se utiliza en la gimnasia de arte, sino que también se puede utilizar en la vida cotidiana.
+- Weight7g
+- DimensionEach rollo 500 cm x 1,5 cm
+- Material
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
