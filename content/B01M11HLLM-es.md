@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil Action 9090 City Racer Cohete RC  A partir de 6 años [Exclusivo]'
-date: 2022-04-13 13:42:10
+date: 2022-04-19 13:57:22
 image: 'https://m.media-amazon.com/images/I/51A05l-kBgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01M11HLLM-es Playmobil Action 9090 City Racer Cohete RC A partir de 6...'
 sku: 'B01M11HLLM-es'
 tags: [ 'Circuitos y playsets para coches de juguete','Conjuntos de vehículos de motor para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playmobil','🇪🇸', ]
-actualPrice: 26.65 EUR
+actualPrice: 28.18 EUR
 currency: EUR
-price: 26.65
+price: 28.18
 comparePrice: 44.99 EUR
 prodname: 'Playmobil Action 9090 City Racer Cohete RC  A partir de 6 años [Exclusivo]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B01M11HLLM/?tag=tolees-21'
-descuento: '40.76'
-average: '30.0325'
+descuento: '37.36'
+average: '29.662'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

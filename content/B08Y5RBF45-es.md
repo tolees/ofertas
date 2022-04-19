@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta del mejor contenido en el SmartTV compatible con Inteligencia Artificial
+- 3xHDMI 2.0
+- Caja reforzada para Amazon (certificación ISTA 6 - SIOC) con diseño genérico LG 32LM637BPLA
+- Sistema operativo SmartTV webOS: el más fácil, más rápido y más seguro (Certificado por UL Cybersecurity). Con Inteligencia Artificial: LG ThinQ
 - Conectividad con 3xHDMI 2.0, 2xUSB 2.0, WiFi (802.11ac), Bluetooth, LAN RJ45
 - Procesador de Sonido AI Sound & Virtual Surround; para disfrutar del sonido envolvente 360º como en el cine
-- TV compatible con formatos HDR: HDR10, HDR HLG; disfruta de la auténtica experiencia cinematográfica en tu casa
-- Caja reforzada para Amazon (certificación ISTA 6 - SIOC) con diseño genérico LG 32LM637BPLA
-- 3xHDMI 2.0
-- Sistema operativo SmartTV webOS: el más fácil, más rápido y más seguro (Certificado por UL Cybersecurity). Con Inteligencia Artificial: LG ThinQ
 - Soporte: 2 patas
+- TV compatible con formatos HDR: HDR10, HDR HLG; disfruta de la auténtica experiencia cinematográfica en tu casa
+- Disfruta del mejor contenido en el SmartTV compatible con Inteligencia Artificial
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

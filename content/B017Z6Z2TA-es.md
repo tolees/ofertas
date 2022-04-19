@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre sin cordones
-- Parte superior textil
 - Parte superior baja
 - Zapatillas deportivas
+- Parte superior textil
+- Cierre sin cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Added stretch for comfort and flexibility
 - Classic five-pocket Jeans
+- Added stretch for comfort and flexibility
 
 [🛒 Aquí!!!]({{< param buyurl >}})

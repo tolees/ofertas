@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un océano abierto con más de 20 islas que explorar
 - Más de 25 personajes a los que conocer y ayudar
 - Incluye: juego, caja coleccionista, libro de arte, banda sonora, pin de napopo, diorama acrílico, póster a doble cara y set de pegatinas.
-- Personaliza tu isla con edificios, campos de cultivo y animales de granja.
 - Ciclo día y noche que tiene afecto en el mundo con eventos climáticos
+- Un océano abierto con más de 20 islas que explorar
+- Personaliza tu isla con edificios, campos de cultivo y animales de granja.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

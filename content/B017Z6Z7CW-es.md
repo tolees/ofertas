@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Construcción vulcanizada
-- Suela original de waffle
 - Patrón sin cordones
+- Suela original de waffle
+- Construcción vulcanizada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

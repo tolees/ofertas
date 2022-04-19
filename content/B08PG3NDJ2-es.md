@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zapatillas de deporte
 - Estilo clásico
 - Tecnología de gel para la absorción de golpes
+- Zapatillas de deporte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
