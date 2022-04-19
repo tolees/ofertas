@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s B&t Graphic tee-Camiseta  Big Ssnl BW Fired Brick  XL para Hombre'
-date: 2022-04-16 19:17:47
+date: 2022-04-19 10:13:42
 image: 'https://m.media-amazon.com/images/I/31X+vigyDxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B096VNJ33W/?tag=tolees-21'
 descuento: '62.11'
-average: '13.555'
+average: '13.4566666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

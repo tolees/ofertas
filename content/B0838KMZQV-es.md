@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Venture Runner  Zapatillas Mujer  Black White Black  42 EU'
-date: 2022-04-16 09:01:48
+date: 2022-04-19 10:30:58
 image: 'https://m.media-amazon.com/images/I/41Az-GXFM7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Importado
 - Cordones de Zapatos
+- Importado
 - Suave de Llevar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
