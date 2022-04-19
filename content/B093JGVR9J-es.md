@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aussie Tratamiento Acondicionador Intensivo Para El Cuidado Del Cabello SOS Repair Shot Para Pelo Dañado Y Débil 200 ml  8 x 25 ml '
-date: 2022-04-18 10:10:47
+date: 2022-04-19 11:25:16
 image: 'https://m.media-amazon.com/images/I/51pmPsysidL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Aussie'
 buyurl: 'https://www.amazon.es/dp/B093JGVR9J/?tag=tolees-21'
 descuento: '50.23'
-average: '11.8'
+average: '11.5357142857143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Repara y revive
-- Superfrutas australianas milagrosas para auténticas emergencias capilares
 - Tratamiento intensivo SOS repair
 - Tratamiento intensivo con mirto limón australiano
+- Superfrutas australianas milagrosas para auténticas emergencias capilares
+- Repara y revive
 
 [🛒 Comprar!!!]({{< param buyurl >}})

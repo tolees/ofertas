@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de producto: Bolígrafo de bola
+- Tamaño: Pack de 4
 - Tipo de punta: medio
 - Color de la tinta: negro
-- Tamaño: Pack de 4
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

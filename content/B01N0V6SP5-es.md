@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las tablas están reforzadas con goma antideslizante en la base para que se adhieran a la superficie
-- Manera adecuada de disponer a la vista y al alcance las tablas de cortar
-- 4 tablas de distinto color e ilustradas para cada familia de alimentos (vegetales, pescado, carne cruda y comida preparada) con la finalidad de no contaminar y de evitar olores y restos
-- Apto lavavajillas
 - Tamaño de las tablas: 30 x 20 cm
+- Manera adecuada de disponer a la vista y al alcance las tablas de cortar
+- Apto lavavajillas
+- 4 tablas de distinto color e ilustradas para cada familia de alimentos (vegetales, pescado, carne cruda y comida preparada) con la finalidad de no contaminar y de evitar olores y restos
+- Las tablas están reforzadas con goma antideslizante en la base para que se adhieran a la superficie
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de 100% nailon reciclado
-- Cintura con cordón para un ajuste cómodo y seguro
 - Bolsillos integrados en las costuras laterales
 - Calzoncillo interior de malla
+- Hecho de 100% nailon reciclado
+- Cintura con cordón para un ajuste cómodo y seguro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

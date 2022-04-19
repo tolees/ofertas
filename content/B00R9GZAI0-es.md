@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 veces más potencia, comparado con el modelo Braun HD130
-- 3 niveles de temperatura y 2 flujos de aire
-- Función golpe de aire frío para fijar el peinado
 - Diseño ligero y ergonómico para facilitar el peinado
+- 3 niveles de temperatura y 2 flujos de aire
 - Función iónica que realza el brillo y acaba con el encrespamiento
+- Función golpe de aire frío para fijar el peinado
 - Secador de pelo ultrapotente de 2500 vatios que reduce el tiempo de secado
+- 2 veces más potencia, comparado con el modelo Braun HD130
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
