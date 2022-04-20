@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Mono robot de silicona
-- Ligero.
-- 100% poliamida.
-- 0,4 kg.
 - Hembra.
+- 0,4 kg.
+- 100% poliamida.
+- Ligero.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

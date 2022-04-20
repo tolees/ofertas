@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste óptimo
 - Zapatilla de calle con soporte óptimo
 - Malla de células cerradas en la parte superior
-- Ajuste óptimo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
