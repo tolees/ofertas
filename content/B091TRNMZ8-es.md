@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJERUSH Harrington Bomber Chaqueta  Negro  M para Hombre'
-date: 2022-04-18 15:45:49
+date: 2022-04-20 08:15:18
 image: 'https://m.media-amazon.com/images/I/312IFdTsXyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100 % poliéster
 - Diseño danés
+- 100 % poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
