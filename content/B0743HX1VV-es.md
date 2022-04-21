@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Libellud- Dice Forge  Color  LIDF0001 '
-date: 2022-04-14 13:46:25
+date: 2022-04-21 11:23:54
 image: 'https://m.media-amazon.com/images/I/31ezPHy5XiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Libellud'
 buyurl: 'https://www.amazon.es/dp/B0743HX1VV/?tag=tolees-21'
 descuento: '40.04'
-average: '26.1612499999999'
+average: '26.0329411764705'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tú valentía y tu astucia serán tus mejores aliados cuando lances los dados divinos para conseguir recursos en tu camino a la victoria
-- Los dados divinos son excepcionales, con caras intercambiables
 - Producto en castellano
 - Personaliza tus dados y hazlos más poderosos a medida que el juego avanza
+- Los dados divinos son excepcionales, con caras intercambiables
+- Tú valentía y tu astucia serán tus mejores aliados cuando lances los dados divinos para conseguir recursos en tu camino a la victoria
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
