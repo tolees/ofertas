@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para colocar en el jardín o terraza está recomendada para niños a partir de 1 año
-- Piscina hinchable para bebé formada por dos aros muy resistentes con diámetro de 61 Cm
 - Tiene una capacidad de 17 litros, incluye dos cámaras de aire que reducen los tiempos de inflado y desinflado y parches de reparación
+- Piscina hinchable para bebé formada por dos aros muy resistentes con diámetro de 61 Cm
+- Ideal para colocar en el jardín o terraza está recomendada para niños a partir de 1 año
 
 [🛒 Visítala!!!]({{< param buyurl >}})
