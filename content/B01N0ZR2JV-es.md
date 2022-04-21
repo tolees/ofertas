@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela/Características: Caucho para un buen agarre
 - Plantilla: Ortholite para mayor amortiguación
-- Forro:
 - Empeine: Piel (Piel vacuna)
+- Suela/Características: Caucho para un buen agarre
 - Color: Blanco
+- Forro:
 
 [🛒 Visítala!!!]({{< param buyurl >}})

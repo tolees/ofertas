@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Espuma viscoelástica
-- Bio-Dri
 - Refrigerado por aire MF
-- Ajuste elástico
+- Bio-Dri
 - Lavable a máquina
+- Ajuste elástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
