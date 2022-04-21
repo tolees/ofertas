@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistencia a la presión de aqua de 10 bares
-- Este modelo es parte de la colección Invicta Pro Diver
-- El Invicta 15253 tiene una caja de acero inoxidable de 38 millimetros con una esfera oro rossa
 - 2 años de garantía Invicta
 - Esta modelo funciona con un movimiento de Cuarzo preciso
+- Resistencia a la presión de aqua de 10 bares
+- El Invicta 15253 tiene una caja de acero inoxidable de 38 millimetros con una esfera oro rossa
+- Este modelo es parte de la colección Invicta Pro Diver
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

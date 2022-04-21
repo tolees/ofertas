@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MF refrigerado por aire
 - Goma Goodyear
+- MF refrigerado por aire
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

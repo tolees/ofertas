@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro: 45% de poliéster reciclado 30% Tela Acabado sintético (60% PU - 40% poliéster) Tela 25% (PET 100% reciclado)
 - Cordones de zapatos reciclados para un ajuste fácil (71% de PET reciclado - 29% Látex)
 - Suela de EVA para ligero
+- Forro: 45% de poliéster reciclado 30% Tela Acabado sintético (60% PU - 40% poliéster) Tela 25% (PET 100% reciclado)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
