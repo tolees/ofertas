@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Coches incluidos: P-Wing - Mario + P-Wing - Yoshi
-- Incluye mandos con función Turbo.
 - Medidas montado: 158 x 68 cm
+- Incluye mandos con función Turbo.
 - Con cuentavueltas y looping
 
 [🛒 Aquí!!!]({{< param buyurl >}})
