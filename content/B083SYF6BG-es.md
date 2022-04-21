@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación
-- Zapatillas deportivas
 - Empeine de ante y nailon.
+- Zapatillas deportivas
+- Amortiguación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

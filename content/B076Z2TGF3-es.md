@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tamaño: 44MM
-- Movimiento: Cuarzo, Display: Analógico
 - CREW
 - Correa Material/Color: Piel/Tela/Negro,Rosa
+- Movimiento: Cuarzo, Display: Analógico
 - Caja Material/Color: Acero/Plateado,Negro
+- Tamaño: 44MM
 
 [🛒 Aquí!!!]({{< param buyurl >}})

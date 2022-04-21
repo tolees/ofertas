@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dimensiones del producto: 40 x 25 x 20 cm
-- Marca: Bruguer Hammerite Xyladecor
 - Color: varios colores
+- Marca: Bruguer Hammerite Xyladecor
 - Volumen: 0.25 l
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

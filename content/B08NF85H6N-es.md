@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos baterías de 2500 mAh con doble turbocargador tipo C de 90.W para conseguir potencia y la experiencia de carga más rápida jamás vista
+- Frecuencia de 3,09.Hz sin limitación de rendimiento
 - Sistema operativo: android 10.0
+- Dos baterías de 2500 mAh con doble turbocargador tipo C de 90.W para conseguir potencia y la experiencia de carga más rápida jamás vista
 - Con los altavoces estéreo frontales dobles, podrás ver y escuchar al enemigo que se aproxima con todo lujo de detalles
+- Vive un juego fluido y sin desenfoques con una frecuencia de actualización de pantalla de 144 Hz
 - Tipo de conector: USB tipo c
 - Procesador Qualcomm Snapdragon 865+ 5G rápido
-- Vive un juego fluido y sin desenfoques con una frecuencia de actualización de pantalla de 144 Hz
-- Frecuencia de 3,09.Hz sin limitación de rendimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

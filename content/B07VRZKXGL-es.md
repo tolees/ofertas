@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - AURORA
 - Movimiento: Cuarzo, Display: Analógico
-- Material Caja: Acero, Color: Dorado
 - Tamaño: 36,5MM
 - Material Correa: Acero, Color: Dorado/Plateado
+- Material Caja: Acero, Color: Dorado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

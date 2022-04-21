@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Mid waist
-- Prenda ajustada de muslo a bajo
 - Bolsillos redondeados en la parte delantera con estilo vintage
 - Corte pitillo
+- Prenda ajustada de muslo a bajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
