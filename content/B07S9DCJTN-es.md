@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pringles Patatas  Sabor Pizzas  165g'
-date: 2022-04-20 07:25:50
+date: 2022-04-21 18:38:41
 image: 'https://m.media-amazon.com/images/I/41Pq5wTIPfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pringles'
 buyurl: 'https://www.amazon.es/dp/B07S9DCJTN/?tag=tolees-21'
 descuento: '50.13'
-average: '1.92'
+average: '1.90333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
