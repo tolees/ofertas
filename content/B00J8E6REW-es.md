@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español - Aloe Vera Körpercreme - 400 ml - 100% natürliches Aloe Vera'
-date: 2022-04-18 14:23:29
+date: 2022-04-21 19:40:22
 image: 'https://m.media-amazon.com/images/I/314a8hqx+xS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Género: Unisex Adulto
 - Ingredientes: Aqua; Tipo de piel: madura
-- Texturas: Crema
 - Tipo de Piel: Todo Tipo de Pieles
+- Texturas: Crema
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
