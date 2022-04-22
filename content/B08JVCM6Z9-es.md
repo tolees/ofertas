@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juega bien tus cartas para ser el primero en conseguir el arcoiris.
 - Se el primer jugador en conseguir crear el arcoiris
 - Juego educativo y divertido para trabajar la lógica
+- Juega bien tus cartas para ser el primero en conseguir el arcoiris.
 - ¡Ayuda a los elfos a crear el arcoiris!
 - Juego finalista en el VI concurso de protojuegos DAU Barcelona
 

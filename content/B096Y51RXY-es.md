@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Multiple difficulty levels and register your score on the local leaderboard
 - Different Game Modes: Pool (8 ball/9 ball/10 ball) and Snooker
 - Choose 4 detailed rooms to play in, 3 different ball skins, 3 cue skins and 10 characters
 - Play all game modes against another player in the local mutiplayer mode and see who is the ultimate champion
+- Multiple difficulty levels and register your score on the local leaderboard
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
