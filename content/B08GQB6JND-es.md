@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Element Topaz C3-Zapatillas para Hombre  Azul Navy Gum  39 EU'
-date: 2022-04-22 19:03:48
-image: 'https://m.media-amazon.com/images/I/31T43vEZbxL._SL500_._SL400_.jpg'
+title: 'Element Men s Topaz C3 Shoe  Zapatillas Hombre  Azul Faded Denim  39 EU'
+date: 2022-04-22 19:26:22
+image: 'https://m.media-amazon.com/images/I/41be+p5ymeS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08GQDY1W1-es Element Topaz C3-Zapatillas para Hombre Azul Navy Gum 39 EU'
-sku: 'B08GQDY1W1-es'
+slug: 'B08GQB6JND-es Element Men s Topaz C3 Shoe Zapatillas Hombre Azul Faded...'
+sku: 'B08GQB6JND-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','element','🇪🇸', ]
-actualPrice: 26.07 EUR
+actualPrice: 19.26 EUR
 currency: EUR
-price: 26.07
+price: 19.26
 comparePrice: 70.0 EUR
-prodname: 'Element Topaz C3-Zapatillas para Hombre  Azul Navy Gum  39 EU'
+prodname: 'Element Men s Topaz C3 Shoe  Zapatillas Hombre  Azul Faded Denim  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Element'
-buyurl: 'https://www.amazon.es/dp/B08GQDY1W1/?tag=tolees-21'
-descuento: '62.76'
-average: '27.84'
+buyurl: 'https://www.amazon.es/dp/B08GQB6JND/?tag=tolees-21'
+descuento: '72.49'
+average: '25.4233333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte superior: sintético
-- Material de la suela: goma
 - Tipo de tacón: plano
 - Forro: sintético
+- Material de la suela: goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
