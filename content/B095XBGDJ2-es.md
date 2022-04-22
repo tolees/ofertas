@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicar sobre el cabello húmedo, repartiendo de forma uniforme. Emulsionar y aclarar.
 - Para un alisado intenso y un cabello sin encrespamiento. Protege del encrespamiento mientras suaviza el cabello.
+- Aplicar sobre el cabello húmedo, repartiendo de forma uniforme. Emulsionar y aclarar.
 - Champú alisador intenso para cabello rebelde, indisciplinado o alisado. Enriquecido con Pro/Keratin y aceites de Kukui y Onagra, purifica el cabello y el cuero cabelludo ofreciendo hasta 4 días de efecto antiencrespamiento.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

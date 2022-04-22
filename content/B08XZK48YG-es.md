@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puntera acabada a mano para evitar molestias
-- De algodón cepillado para una sensación de suavidad
 - Corte alto clásico con detalle pequeño del logotipo de CK
 - Talón y puntera reforzados para mayor durabilidad
+- Puntera acabada a mano para evitar molestias
+- De algodón cepillado para una sensación de suavidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

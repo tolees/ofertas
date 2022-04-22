@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ♨️ OROLEY te ofrece diseño y tecnología al servicio de la cocina. Con los mejores materiales y diseños exclusivos
-- ✨ CARACTERÍSTICAS: Cafetera Italiana con capacidad de hasta 12 tazas de café
 - ☕ USO: Cafetera tradicional apta para todo tipo de cocinas: vitrocerámica, fuego eléctrico y gas. (Excepto inducción)
 - ✅ PRODUCTO: Cafetera Italiana modelo "Touareg". Hecha con aluminio. Producto de alta calidad. Color negro
 - 🧼 CÓMO LIMPIARLA: lavar a mano. No usar lavavajillas
+- ✨ CARACTERÍSTICAS: Cafetera Italiana con capacidad de hasta 12 tazas de café
+- ♨️ OROLEY te ofrece diseño y tecnología al servicio de la cocina. Con los mejores materiales y diseños exclusivos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
