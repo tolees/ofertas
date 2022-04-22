@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: tablero de juego con alfombra giratoria, 4 peones, 4 personajes para vestir, 4 gafas, 1 dado y 24 barritas de 6 colores diferentes
-- Habilidades que desarrolla: promueve la lógica, la destreza manual, la coordinación ojo-mano y la imaginación
-- Número de jugadores: de 2 a 4
-- Juego de mesa para niños en el que hay que vestir a todos los animalitos con los colores del arco iris antes de que salga el sol; el juego tiene dos modalidades distintas: cooperativo y competitivo
 - Tiempo de juego: 10 minutos
+- Contenido: tablero de juego con alfombra giratoria, 4 peones, 4 personajes para vestir, 4 gafas, 1 dado y 24 barritas de 6 colores diferentes
+- Número de jugadores: de 2 a 4
+- Habilidades que desarrolla: promueve la lógica, la destreza manual, la coordinación ojo-mano y la imaginación
+- Juego de mesa para niños en el que hay que vestir a todos los animalitos con los colores del arco iris antes de que salga el sol; el juego tiene dos modalidades distintas: cooperativo y competitivo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
