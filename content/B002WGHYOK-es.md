@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuado para: unisex (adultos)
 - Estilo: zapatillas clásicas
-- Material interior: tela
-- La estación ideal: para todas las estaciones
-- Material de la suela: goma
-- Cierre: cordones
 - Talla: 35
+- La estación ideal: para todas las estaciones
+- Adecuado para: unisex (adultos)
 - Material exterior: lona
+- Material de la suela: goma
+- Material interior: tela
+- Cierre: cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
