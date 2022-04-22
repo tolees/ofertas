@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Geox UOMO CARNABY D Oxford Hombre  Negro  Black   39 EU'
-date: 2022-04-11 00:08:51
-image: 'https://m.media-amazon.com/images/I/312V-OcYYzL._SL500_._SL400_.jpg'
+date: 2022-04-22 01:33:30
+image: 'https://m.media-amazon.com/images/I/31TMda0z1kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00OJZJHU6-es Geox UOMO CARNABY D Oxford Hombre Negro Black 39 EU'
 sku: 'B00OJZJHU6-es'
-tags: [ 'Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','geox', ]
-actualPrice: 51.48 EUR
+tags: [ 'Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
+actualPrice: 56.81 EUR
 currency: EUR
-price: 51.48
+price: 56.81
 comparePrice: 99.9 EUR
 prodname: 'Geox UOMO CARNABY D Oxford Hombre  Negro  Black   39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B00OJZJHU6/?tag=tolees-21'
-descuento: '48.47'
-average: '57.2933333333333'
+descuento: '43.13'
+average: '57.1725'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de llevar para un confort optimo
-- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 - Plantilla desmontable
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 - Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
+- Fácil de llevar para un confort optimo
 - Plantilla antibacteriana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
