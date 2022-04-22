@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 35 altura x 25.5 ancho x 16 profundidad cm
-- 100% Poliamida
 - Mochila pequeña con funda para tableta
 - Hidrófugo
+- 35 altura x 25.5 ancho x 16 profundidad cm
 - 0.5kg peso x 14L volumen
+- 100% Poliamida
 
 [🛒 Visítala!!!]({{< param buyurl >}})

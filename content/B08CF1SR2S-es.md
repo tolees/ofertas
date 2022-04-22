@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acabado de alta calidad
 - Jersey simple
+- Acabado de alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

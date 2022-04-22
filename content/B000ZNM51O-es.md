@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Agregar y pesar: mida todo lo que necesita con facilidad, todo en el mismo recipiente, simplemente presione el botón cero en la báscula para comenzar desde 0 y continúe agregando sus ingredientes
-- Precisión en lo más fácil: construido con la más alta precisión de sensores, perfeccione sus recetas favoritas y sorprenda a sus amigos y familiares de cocinar y hornear con ingredientes perfectamente medido
-- Calidad garantizada: ¡las básculas de cocina salter son tan confiables que vienen con una garantía del fabricante por 15 años!
 - Métricas múltiples: convierta rápidamente sus medidas tocando el botón unidad en cualquier momento para cambiar entre g, oz, lbs o ml
 - Incluido en la caja: una batería cr2032 estándar para que pueda comenzar a preparar su comida; folleto de instrucciones y excelente soporte al cliente a solo un correo electrónico o una llamada telefónica
+- Agregar y pesar: mida todo lo que necesita con facilidad, todo en el mismo recipiente, simplemente presione el botón cero en la báscula para comenzar desde 0 y continúe agregando sus ingredientes
+- Calidad garantizada: ¡las básculas de cocina salter son tan confiables que vienen con una garantía del fabricante por 15 años!
+- Precisión en lo más fácil: construido con la más alta precisión de sensores, perfeccione sus recetas favoritas y sorprenda a sus amigos y familiares de cocinar y hornear con ingredientes perfectamente medido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

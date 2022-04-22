@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Entresuela extremadamente ligera y sensible con ProFoam Lite
 - ProFoam: la solución ligera de entresuela EVA de alto rebote de Puma proporciona amortiguación instantánea y una experiencia sensible
 - Bota baja
+- Entresuela extremadamente ligera y sensible con ProFoam Lite
 
 [🛒 Comprar!!!]({{< param buyurl >}})

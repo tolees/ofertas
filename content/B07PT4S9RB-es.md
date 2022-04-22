@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cada mascota viene cubierta con un pelaje ceñido y pegado que deberás ir quitando para saber qué adorable mascota te ha tocado
 - Si le das agua a la mascota, descubrirás una sorpresa más
-- Luego, podrás volver a colocar el pelaje en diferentes diseños según te guste más
 - Nueva colección de lol surprise fluffy pets winter
+- Luego, podrás volver a colocar el pelaje en diferentes diseños según te guste más
 
 [🛒 Comprar!!!]({{< param buyurl >}})

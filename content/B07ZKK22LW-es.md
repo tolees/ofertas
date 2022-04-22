@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Licencia oficial de Nintendo
 - Revestimiento de fieltro interior con atril de juego incorporado
 - Almacenamiento para 4 juegos y bolsillo de malla
 - Licencia oficial de Nintendo
 - El kit incluye un protector de pantalla con aplicador y una gamuza de microfibra de limpieza
+- Licencia oficial de Nintendo
 - Revestimiento de fieltro interior con atril de juego incorporado
-- Almacenamiento para 4 juegos y bolsillo de malla
 - Carcasa exterior blanda con cremallera con diseño de Super Mario que se adapta de forma precisa a la Nintendo Switch Lite
 - El kit incluye un protector de pantalla con aplicador y una gamuza de microfibra de limpieza
+- Almacenamiento para 4 juegos y bolsillo de malla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
