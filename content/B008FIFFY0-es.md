@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Bora Bora Booney II - Sombrero para Hombre  Color Gris  Talla única'
-date: 2022-04-22 12:38:10
+date: 2022-04-23 20:43:06
 image: 'https://m.media-amazon.com/images/I/315O53u98lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B008FIFFY0/?tag=tolees-21'
 descuento: '50.52'
-average: '17.216'
+average: '16.655'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tejido Omni-Wick
-- Cinta para mentón ajustable
 - Protección solar Omni-Shade UPF 50
+- Cinta para mentón ajustable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

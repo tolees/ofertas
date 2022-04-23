@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Incinerar  Zapatillas para Correr Unisex Adulto  Black Opera Mauve  37 EU'
-date: 2022-04-14 14:43:28
+date: 2022-04-23 19:26:41
 image: 'https://m.media-amazon.com/images/I/31OG9yBo6YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Calzado de atletismo para mujer','Calzado deportivo para hombre','Calza
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95
-comparePrice: 49.95 EUR
+comparePrice: 49.99 EUR
 prodname: 'PUMA Incinerar  Zapatillas para Correr Unisex Adulto  Black Opera Mauve  37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B097C2GT2X/?tag=tolees-21'
-descuento: '44.04'
-average: '30.2833333333333'
+descuento: '44.09'
+average: '29.7'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
