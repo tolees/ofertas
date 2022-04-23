@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil Space 9489 Vehículo de Reconocimiento  A partir de 6 años [Exclusivo]'
-date: 2022-04-22 07:12:46
+date: 2022-04-23 18:27:40
 image: 'https://m.media-amazon.com/images/I/51cBWT0b8FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B079MPNCHW/?tag=tolees-21'
 descuento: '37.23'
-average: '29.9946666666667'
+average: '29.68875'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

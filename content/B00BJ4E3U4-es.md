@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Coronas Crianza  Vino Tinto - 6 botellas de 75 cl  Total: 4500 ml'
-date: 2022-04-22 07:16:36
+date: 2022-04-23 18:45:04
 image: 'https://m.media-amazon.com/images/I/41a4TwopuHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Coronas'
 buyurl: 'https://www.amazon.es/dp/B00BJ4E3U4/?tag=tolees-21'
 descuento: '43.89'
-average: '26.6662499999999'
+average: '26.4007999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Origen: DO Catalunya
-- Puede disfrutarlo desde ahora, bien conservado aguantará 5-8 años.
 - Graduación: 13,5% vol.
+- Puede disfrutarlo desde ahora, bien conservado aguantará 5-8 años.
 - Ideal para acompañar carnes asadas, platos con base de salsa de tomate o con la tradicional paella.
 - Intensos aromas de frutas negras y del bosque, con sutiles notas vegetales y especiadas.
+- Origen: DO Catalunya
 
 [🛒 Comprar!!!]({{< param buyurl >}})
