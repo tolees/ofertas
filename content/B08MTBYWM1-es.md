@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entresuela IMEVA
-- Parte superior Ripstop con superposiciones de gamuza y cuero sintético
 - IMEVA: material de Puma para una sensación ligera y cómoda
+- Parte superior Ripstop con superposiciones de gamuza y cuero sintético
+- Entresuela IMEVA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
