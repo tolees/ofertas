@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Newton Ridge Plus Zapatillas para caminar para Mujer  Rojo  Cordovan  Crown Jewel   38 EU'
-date: 2022-04-22 10:31:51
+date: 2022-04-24 20:05:02
 image: 'https://m.media-amazon.com/images/I/41gXcqTSBZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

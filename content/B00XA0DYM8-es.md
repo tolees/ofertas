@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smirnoff Red  1000ml'
-date: 2022-04-23 19:49:16
+date: 2022-04-24 20:19:24
 image: 'https://m.media-amazon.com/images/I/31gWdWUUd8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Smirnoff 21 es nuestra famosa receta "secreta"
 - Smirnoff 21 es destilada 3 veces y filtrada 10 veces sobre carbón vegetal durante 8 horas, lo que da una pureza y suavidad excepcional
-- Disfruta de tu smirnoff en un vaso alto con hielo y zumo de arándanos. Exprime lima fresca y remueve bien
 - la corona y el escudo de armas representan nuestra herencia rusa
+- Disfruta de tu smirnoff en un vaso alto con hielo y zumo de arándanos. Exprime lima fresca y remueve bien
 
 [🛒 Aquí!!!]({{< param buyurl >}})
