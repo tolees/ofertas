@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La figura a escala de 17.78 cm viene con una base, la guitarra de Johnny con correa y una botella.
 - Diseñado con ultra articulación con 22 piezas móviles.
-- Figura exhibida en caja de ventana temática Cyberpunk 2077.
-- Incluye una mano "Rock-On".
+- La figura a escala de 17.78 cm viene con una base, la guitarra de Johnny con correa y una botella.
 - Presenta a Keanu Reeves como Johnny Silverhand en su icónico atuendo del videojuego Cyberpunk 2077.
+- Incluye una mano "Rock-On".
+- Figura exhibida en caja de ventana temática Cyberpunk 2077.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

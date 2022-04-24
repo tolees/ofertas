@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Levi s SS Original Hm tee Camiseta  Cotton + Patch Dress Blues  XS para Hombre'
-date: 2022-04-13 18:50:33
+title: 'Levi s SS Original Hm tee T-Shirt  Dress Blues  XS para Hombre'
+date: 2022-04-24 16:49:34
 image: 'https://m.media-amazon.com/images/I/31x-e1pQGoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07K76XD3B-es Levi s SS Original Hm tee Camiseta Cotton + Patch Dress...'
+slug: 'B07K76XD3B-es Levi s SS Original Hm tee T-Shirt Dress Blues XS para Hombre'
 sku: 'B07K76XD3B-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','levis','🇪🇸', ]
-actualPrice: 11.9 EUR
+actualPrice: 12.82 EUR
 currency: EUR
-price: 11.9
+price: 12.82
 comparePrice: 25.0 EUR
-prodname: 'Levi s SS Original Hm tee Camiseta  Cotton + Patch Dress Blues  XS para Hombre'
+prodname: 'Levi s SS Original Hm tee T-Shirt  Dress Blues  XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07K76XD3B/?tag=tolees-21'
-descuento: '52.40'
-average: '18.3793333333334'
+descuento: '48.72'
+average: '18.3061842105264'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo pequeño de Levis en el pecho
-- Adecuada para el día a día
 - Modelo casual
+- Adecuada para el día a día
+- Logotipo pequeño de Levis en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

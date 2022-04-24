@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caja oro rosa en acero inoxidable pulida y esfera Blanca
 - Movimiento de cuarzo Miyota
-- Grosor de la caja de 10 mm / Diámetro de la caja: 36 mm
 - 3 ATM de resistencia al agua
+- Caja oro rosa en acero inoxidable pulida y esfera Blanca
 - Ancho de la correa: 16 mm
+- Grosor de la caja de 10 mm / Diámetro de la caja: 36 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
