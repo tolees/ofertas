@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carrera - Build  n Race - Racing Set 4.9  20062530 '
-date: 2022-04-23 13:13:10
+date: 2022-04-24 17:16:42
 image: 'https://m.media-amazon.com/images/I/51rU1cC1nfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas montado: 150 x 95 cm
 - Incluye mandos con función Turbo.
-- Compatible con bricks de construcción de otros fabricantes
-- Coches incluidos: Build n Race - Race Car + Race Truck
 - Longitud de la pista: 4,9 m
+- Medidas montado: 150 x 95 cm
+- Coches incluidos: Build n Race - Race Car + Race Truck
+- Compatible con bricks de construcción de otros fabricantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

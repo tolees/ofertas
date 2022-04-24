@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Materiales: neopreno
-- Peso: 450 gr
 - Una bolsa de deporte realizada en neopreno.Es práctica, es bonita y es amplia,cuenta con un espacio individual para poder llevar las zapatillas de deporte
 - Medidas producto: 43,5 x 28 x 26 cm
+- Peso: 450 gr
 
 [🛒 Aquí!!!]({{< param buyurl >}})

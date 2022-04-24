@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Comansi Figura Iron Man Vengadores Marvel  Color Rojo/Oro  96024 '
-date: 2022-04-15 14:35:58
+date: 2022-04-24 17:04:31
 image: 'https://m.media-amazon.com/images/I/41ZqGskvEsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Comansi'
 buyurl: 'https://www.amazon.es/dp/B01AG51DAE/?tag=tolees-21'
 descuento: '36.84'
-average: '6.82'
+average: '6.70285714285714'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
