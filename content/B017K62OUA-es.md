@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- El mejor maquillaje para sentirte especial.
 - Ghd Style Curl Hold Spray 120 Ml
 - Los mejores productos para el cuidado y la salud personal.
-- El mejor maquillaje para sentirte especial.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
