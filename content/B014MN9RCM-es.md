@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistencia a la presión de aqua de 20 bares
-- Este modelo es parte de la colección Invicta Pro Diver
 - El Invicta 8932OB tiene una caja de acero inoxidable de 37 millimetros con una esfera negro
+- Este modelo es parte de la colección Invicta Pro Diver
 - Esta modelo funciona con un movimiento de Cuarzo preciso
+- Resistencia a la presión de aqua de 20 bares
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Calce fácil gracias al cierre con cremallera
 - Altura del tacón: 6.5 cm / 2.6 inch
+- Calce fácil gracias al cierre con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
