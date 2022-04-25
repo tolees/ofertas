@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Entertainment - Santos Criminales - Steelbook 4k UHD + Blu-ray [Blu-ray]'
-date: 2022-04-19 15:58:59
+date: 2022-04-25 08:22:15
 image: 'https://m.media-amazon.com/images/I/417qldxB-TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Entertainment'
 buyurl: 'https://www.amazon.es/dp/B09L53WRYR/?tag=tolees-21'
 descuento: '43.73'
-average: '23.0175'
+average: '22.122'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
