@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Havaianas Top  Chanclas Unisex Adulto  Black  43/44 EU'
-date: 2022-04-24 12:06:35
+date: 2022-04-25 12:40:53
 image: 'https://m.media-amazon.com/images/I/31NXVcAxYwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B000YKMHG6-es Havaianas Top Chanclas Unisex Adulto Black 43/44 EU'
 sku: 'B000YKMHG6-es'
-tags: [ 'Calzado deportivo para hombre','Calzado deportivo para mujer','Chanclas y sandalias de piscina para hombre','Chanclas y sandalias de piscina para mujer','Zapatillas y calzado deportivo para hombre','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','havaianas','🇪🇸', ]
+tags: [ 'Zapatillas de estar por casa de hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','havaianas','🇪🇸', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B000YKMHG6/?tag=tolees-21'
 descuento: '50.03'
-average: '9.42333333333333'
+average: '9.40935483870967'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: Goma
 - Material exterior: Goma
-- Composición: Goma
-- Revestimiento: Sin forro
 - Tipo de tacón: Plano
 - Cierre: Sin cordones
+- Revestimiento: Sin forro
+- Material de la suela: Goma
+- Composición: Goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

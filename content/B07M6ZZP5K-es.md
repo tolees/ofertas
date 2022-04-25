@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Mujer 1333235-001 XS Leggings  Black  XS'
-date: 2022-04-24 12:07:53
+date: 2022-04-25 13:04:50
 image: 'https://m.media-amazon.com/images/I/31pHKOTpr0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Under Armour'
 buyurl: 'https://www.amazon.es/dp/B07M6ZZP5K/?tag=tolees-21'
 descuento: '48.85'
-average: '22.98'
+average: '22.9833333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

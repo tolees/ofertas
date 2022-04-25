@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LS2  casco moto jet Airflow negro mate  XL'
-date: 2022-04-24 12:27:45
+date: 2022-04-25 13:17:48
 image: 'https://m.media-amazon.com/images/I/41ncvD0tX9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LS2'
 buyurl: 'https://www.amazon.es/dp/B01GGIDS12/?tag=tolees-21'
 descuento: '50.50'
-average: '38.4611764705883'
+average: '38.2466666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
