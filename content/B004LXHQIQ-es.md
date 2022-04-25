@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London - Rimmel Glam Eyes Día 2 Noche Mascara - 001 Negro/Negro'
-date: 2022-04-23 23:50:12
+date: 2022-04-25 17:08:53
 image: 'https://m.media-amazon.com/images/I/41V0bPEDw9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
