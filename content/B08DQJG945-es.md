@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elizabeth Arden Eight Hour Wonder Set Crema de Manos + Crema Protectora + Bálsamo Labial  Cofre Regalos para Mujer'
-date: 2022-04-25 17:00:14
+date: 2022-04-26 20:53:03
 image: 'https://m.media-amazon.com/images/I/41F7wmhnLUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Elizabeth Arden'
 buyurl: 'https://www.amazon.es/dp/B08DQJG945/?tag=tolees-21'
 descuento: '44.08'
-average: '20.9857142857143'
+average: '20.91'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
