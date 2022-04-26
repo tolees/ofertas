@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Anime Heroes- Figura de acción Caballeros del Zodiaco  SAGITTARIUS '
-date: 2022-04-21 10:53:14
+date: 2022-04-26 15:25:51
 image: 'https://m.media-amazon.com/images/I/51SwcEIXxJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Anime Heroes'
 buyurl: 'https://www.amazon.es/dp/B06VWJR16X/?tag=tolees-21'
 descuento: '49.97'
-average: '21.6300000000001'
+average: '21.0272727272728'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Packaging premium
+- Figura articulada de anime heroes de sagitario de caballeros del zodiaco
 - Gran nivel de detalle y decoración
 - Accesorios incluidos
+- Packaging premium
 - Más de 17 puntos de articulación y 17 cm de altura
-- Figura articulada de anime heroes de sagitario de caballeros del zodiaco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
