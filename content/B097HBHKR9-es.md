@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene una textura enriquecida para calmar la sensación de picor, suavizar y aportar un extra de hidratación a la piel muy seca y sensible
-- Hidratación inmediata y duradera, hasta 48 horas; Protege frente a la sequedad recurrente; Para toda la familia
-- + 90% ingredientes naturales; Dermatológicamente testado; No perfumado y sin colorantes
 - Aplicar generosamente sobre todo el cuerpo cada día, tantas veces como sea necesario
 - Fórmula enriquecida con el innovador Repair Complex, que actúa directamente en la raíz de la sequedad para un cambio profundo y duradero
+- + 90% ingredientes naturales; Dermatológicamente testado; No perfumado y sin colorantes
+- Tiene una textura enriquecida para calmar la sensación de picor, suavizar y aportar un extra de hidratación a la piel muy seca y sensible
+- Hidratación inmediata y duradera, hasta 48 horas; Protege frente a la sequedad recurrente; Para toda la familia
 
 [🛒 Comprar!!!]({{< param buyurl >}})

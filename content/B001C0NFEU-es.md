@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuida las icónicas rayas laterales.
 - Suela vulcanizada para mayor agarre.
+- Cuida las icónicas rayas laterales.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
