@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Acompaña a Sackboy en una épica aventura de plataformas 3D con tus amigos
-- Destruction Allstars solo está disponible con la compra de Sackboy: Una Aventura a lo Grande - PlayStation 5
 - Combate en vehículos y velocidad
+- Destruction Allstars solo está disponible con la compra de Sackboy: Una Aventura a lo Grande - PlayStation 5
 - Juego compatible con PlayStation 5
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

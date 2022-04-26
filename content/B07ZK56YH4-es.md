@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Se conecta de forma inalámbrica a través de Bluetooth
+- Se aplana para cerrar y cabe fácilmente en el bolsillo o en el bolso
 - Ultrafino y ligero
 - Innovador panel de desplazamiento completo para el desplazamiento vertical y horizontal
-- Se aplana para cerrar y cabe fácilmente en el bolsillo o en el bolso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
