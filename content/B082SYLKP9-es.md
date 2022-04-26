@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Galaxy 5  Road Running Shoe Hombre  Core Black/Footwear White/Footwear White  42 EU'
-date: 2022-04-21 11:19:41
+date: 2022-04-26 12:23:54
 image: 'https://m.media-amazon.com/images/I/41tE5i5UYNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B082SYLKP9/?tag=tolees-21'
 descuento: '39.99'
-average: '38.2334999999999'
+average: '37.8414285714285'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

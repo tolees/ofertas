@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Chroma Wn s Zapatillas de Gimnasio  White Deep Orchid  40 EU para Mujer'
-date: 2022-04-20 08:07:22
+date: 2022-04-26 12:22:16
 image: 'https://m.media-amazon.com/images/I/313uxJZkpTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calle
 - No es resistente al agua
+- Calle
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

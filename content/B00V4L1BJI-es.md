@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas - Get Ready - Aftershave para hombres - 100 ml'
-date: 2022-04-24 19:15:48
+date: 2022-04-26 12:34:47
 image: 'https://m.media-amazon.com/images/I/51vAqXeE-iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B00V4L1BJI/?tag=tolees-21'
 descuento: '48.48'
-average: '5.351'
+average: '5.28181818181818'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Agua de colonia Perfumería Hombre
-- Agua de colonia Adidas
 - Adidas - get ready! - a (3607342733817)
+- Agua de colonia Adidas
+- Agua de colonia Perfumería Hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
