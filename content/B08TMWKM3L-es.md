@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alfombrilla Goga refrigerada por aire
 - Piel sintética
+- Alfombrilla Goga refrigerada por aire
 
 [🛒 Aquí!!!]({{< param buyurl >}})
