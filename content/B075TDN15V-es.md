@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox STRADA U Sandalia Con Pulsera Hombre  Beige  Sand/Navy   40 EU'
-date: 2022-04-14 22:59:57
+date: 2022-04-26 22:23:49
 image: 'https://m.media-amazon.com/images/I/417os6q-pCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B075TDN15V/?tag=tolees-21'
 descuento: '38.10'
-average: '40.5125'
+average: '41.064'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para adultos.
 - Beige.
+- Para adultos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
