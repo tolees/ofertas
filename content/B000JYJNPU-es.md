@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Agua de perfume para hombres perfumes y fragancias mujer
-- Hombres issey miyake
 - (3423470481297)
+- Hombres issey miyake
+- Agua de perfume para hombres perfumes y fragancias mujer
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

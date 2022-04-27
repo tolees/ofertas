@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- De la marca Helly Hansen
+- De alta calidad
 - Tipo de deporte: Deportes acuáticos
 - Piqué de Tactel suave, elástico y de secado rápido, 175 g/m² | Cuello en canalé | Logotipo de HH estampado en la manga | FPS 40+ | Ajustado
-- De alta calidad
-- De la marca Helly Hansen
 
 [🛒 Aquí!!!]({{< param buyurl >}})

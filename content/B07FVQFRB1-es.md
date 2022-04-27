@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funko POP! Películas: Harry Potter - Quid Ditch Harry
 - Producto oficial
+- Funko POP! Películas: Harry Potter - Quid Ditch Harry
 - Ralentí para la colección. No te pierdas tu personaje favorito.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

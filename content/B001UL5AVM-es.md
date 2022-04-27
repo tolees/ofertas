@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tu nuevo merchandising favorito
 - Ajuste : Normal
+- Tu nuevo merchandising favorito
 - Zapatillas || Ajuste normal || Color intenso || Materiales de larga duración
 - Deportivas con las siguientes características:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Luxe  Memoria flash USB 3.1 de 256 GB y hasta 150 MB/s de Velocidad'
-date: 2022-04-26 08:21:02
+date: 2022-04-27 13:08:56
 image: 'https://m.media-amazon.com/images/I/21dV+iOj9nS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07SYRW97F/?tag=tolees-21'
 descuento: '59.27'
-average: '32.3177777777777'
+average: '32.2478378378378'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye la protección con contraseña sandisk secure access
-- Hasta 256.gb de almacenamiento
 - USB 3.1 (gen. 1) con velocidades de hasta 150.mb/s
+- Hasta 256.gb de almacenamiento
 - Tipo de conectividad: USB tipo A
+- Incluye la protección con contraseña sandisk secure access
 - Transfiere una película a la memoria en menos de 30 segundos
 - Elegante diseño de metal fundido
 

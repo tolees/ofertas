@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capuchón fijo con jareta
-- Tejido hidrófugo y resistente al viento
-- Calce: regular
 - Longitud: 86 cm
 - Exclusivo sistema transpirante patentado Geox
+- Tejido hidrófugo y resistente al viento
+- Calce: regular
+- Capuchón fijo con jareta
 - Relleno ecológico de guata sintética Ecologic Warm
 - Bolsillos con forro abrigado
 
