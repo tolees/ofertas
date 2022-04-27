@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Resolve Smooth  Zapatillas para Correr Unisex Adulto  Chalk Pink White  36 EU'
-date: 2022-04-14 22:36:46
+date: 2022-04-27 18:53:45
 image: 'https://m.media-amazon.com/images/I/31z+LqD6-kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resolve suave
+- Resolve Smooth
 
 [🛒 Comprar!!!]({{< param buyurl >}})

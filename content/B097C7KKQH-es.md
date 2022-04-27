@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Incinerate Zapatillas para Correr  Unisex adulto  Blanco  Puma White   42 EU'
-date: 2022-04-25 19:16:17
+date: 2022-04-27 17:27:10
 image: 'https://m.media-amazon.com/images/I/31Xce3390TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B097C7KKQH/?tag=tolees-21'
 descuento: '44.04'
-average: '31.45'
+average: '30.2833333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
