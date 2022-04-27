@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Legion Phone Duel- Móvil Gaming 6.65   FullHD  Snapdragon 865+ 5G  16GB RAM  512 GB UFS 3.1  Tarjeta gráfica Qualcomm Adreno 650  Android 10  Rojo [Versión ES/PT]'
-date: 2022-04-26 13:16:33
+date: 2022-04-27 16:56:58
 image: 'https://m.media-amazon.com/images/I/41bJHD0ZtWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos baterías de 2500 mAh con doble turbocargador tipo C de 90.W para conseguir potencia y la experiencia de carga más rápida jamás vista
-- Tipo de conector: USB tipo c
 - Sistema operativo: android 10.0
-- Procesador Qualcomm Snapdragon 865+ 5G rápido
-- Vive un juego fluido y sin desenfoques con una frecuencia de actualización de pantalla de 144 Hz
+- Tipo de conector: USB tipo c
 - Frecuencia de 3,09.Hz sin limitación de rendimiento
 - Con los altavoces estéreo frontales dobles, podrás ver y escuchar al enemigo que se aproxima con todo lujo de detalles
+- Procesador Qualcomm Snapdragon 865+ 5G rápido
+- Dos baterías de 2500 mAh con doble turbocargador tipo C de 90.W para conseguir potencia y la experiencia de carga más rápida jamás vista
+- Vive un juego fluido y sin desenfoques con una frecuencia de actualización de pantalla de 144 Hz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

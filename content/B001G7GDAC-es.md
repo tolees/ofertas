@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TFA Dostmann 35.1087 - Estación meteorológica digital'
-date: 2022-04-21 10:53:03
+date: 2022-04-27 15:11:41
 image: 'https://m.media-amazon.com/images/I/31tvVAs2iOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TFA'
 buyurl: 'https://www.amazon.es/dp/B001G7GDAC/?tag=tolees-21'
 descuento: '51.00'
-average: '10.95'
+average: '9.91333333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Previsión meteorológica por símbolos
 - Gráfico histórico de temperatura de las últimas 12h
 - Estación meteorológica de interior sin sensores
 - Material: varios materiales
+- Previsión meteorológica por símbolos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

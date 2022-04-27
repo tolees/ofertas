@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- uno de los personajes más conocidos de los Looney Tunes
-- en material extrablandito y abrazable
 - Peluche en 45cm de Tweety
 - Material duradero
+- en material extrablandito y abrazable
+- uno de los personajes más conocidos de los Looney Tunes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
