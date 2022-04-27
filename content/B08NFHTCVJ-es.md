@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stor - Batman | Sandwichera Con 3 Compartimentos Para Niños - Lonchera Infantil - Porta Merienda - Fiambrera Decorada'
-date: 2022-04-24 17:11:47
+date: 2022-04-27 12:36:51
 image: 'https://m.media-amazon.com/images/I/41xCbu6RjeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08NFHTCVJ-es Stor - Batman | Sandwichera Con 3 Compartimentos Para...'
 sku: 'B08NFHTCVJ-es'
 tags: [ 'Fiambreras para niños','Fiambreras y botellas de agua','Material escolar','Material escolar y educativo','Oficina y papelería','stor','🇪🇸', ]
-actualPrice: 5.43 EUR
+actualPrice: 4.72 EUR
 currency: EUR
-price: 5.43
-comparePrice: 8.75 EUR
+price: 4.72
+comparePrice: 8.8 EUR
 prodname: 'Stor - Batman | Sandwichera Con 3 Compartimentos Para Niños - Lonchera Infantil - Porta Merienda - Fiambrera Decorada'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Stor'
 buyurl: 'https://www.amazon.es/dp/B08NFHTCVJ/?tag=tolees-21'
-descuento: '37.94'
-average: '7.00666666666667'
+descuento: '46.36'
+average: '6.778'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Freebuds 4 - Wireless Earphones Silver'
-date: 2022-04-25 18:59:43
+date: 2022-04-27 12:29:31
 image: 'https://m.media-amazon.com/images/I/21S7AQfpqfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B095YLHJPH/?tag=tolees-21'
 descuento: '50.00'
-average: '86.44875'
+average: '86.2866666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sonido de alta definición
+- Cancelación de ruido activa 2.0
 - Connectivity technology: Inalámbrico
 - Confort y ligereza extrema testada
-- Cancelación de ruido activa 2.0
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

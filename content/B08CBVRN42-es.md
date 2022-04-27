@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Take Two Interactive Spain - Mafia I - Edición definitiva'
-date: 2022-04-26 11:55:52
+date: 2022-04-27 12:24:45
 image: 'https://m.media-amazon.com/images/I/51syPPvhrlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Take Two Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B08CBVRN42/?tag=tolees-21'
 descuento: '74.48'
-average: '19.9439999999997'
+average: '19.7251219512192'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
