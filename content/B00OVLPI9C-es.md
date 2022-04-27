@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CONVERSE - Chucks All Star HI 9621 - Red  Tamaño:54 EU'
-date: 2022-04-16 05:23:23
+date: 2022-04-27 05:31:57
 image: 'https://m.media-amazon.com/images/I/413QNVdi6XS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B00OVLPI9C/?tag=tolees-21'
 descuento: '39.93'
-average: '49.0209090909091'
+average: '48.435'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

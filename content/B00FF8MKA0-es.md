@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Allocacoc - POWERCUBE ORIGINAL USB'
-date: 2022-04-24 22:19:22
+date: 2022-04-27 06:05:27
 image: 'https://m.media-amazon.com/images/I/31D7x52gSeS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00FF8MKA0-es Allocacoc - POWERCUBE ORIGINAL USB'
 sku: 'B00FF8MKA0-es'
 tags: [ 'Accesorios de alimentación','Electrónica','Regletas','allocacoc','🇪🇸', ]
-actualPrice: 8.99 EUR
+actualPrice: 11.99 EUR
 currency: EUR
-price: 8.99
+price: 11.99
 comparePrice: 23.9 EUR
 prodname: 'Allocacoc - POWERCUBE ORIGINAL USB'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Allocacoc'
 buyurl: 'https://www.amazon.es/dp/B00FF8MKA0/?tag=tolees-21'
-descuento: '62.38'
-average: '13.8285294117646'
+descuento: '49.83'
+average: '13.7263888888888'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adaptador de viaje y regleta de 4 salidas y 2 puertos USB
-- Diseño compacto, enchufes con toma tierra y protección infantil
 - Carga máxima 3500 W (16A)
+- Diseño compacto, enchufes con toma tierra y protección infantil
+- Adaptador de viaje y regleta de 4 salidas y 2 puertos USB
 - Adaptador de viaje y regleta de 4 salidas y 2 puertos USBCarga máxima: 3500 W (16 A)Diseño compacto, enchufes con toma tierra y protección infantil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

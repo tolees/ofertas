@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme - Tarjeta de memoria microSDXC de 128 GB con adaptador SD  A2  hasta 160 MB/s  Class 10  U3 y V30'
-date: 2022-04-24 20:55:44
+date: 2022-04-27 05:31:31
 image: 'https://m.media-amazon.com/images/I/41O4rjSlneL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07FCMKK5X/?tag=tolees-21'
 descuento: '59.59'
-average: '22.4024615384617'
+average: '22.3893869731802'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones, resistentes a temperatura, agua, golpes y rayos X
+- Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
 - Nota: para obtener asistencia, comuníquese con support@sandisk.com
 - Hasta 160 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
-- Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
-- Ideal para smartphones y tabletas Android, cámaras de acción y drones
 - Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
+- Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones, resistentes a temperatura, agua, golpes y rayos X
+- Ideal para smartphones y tabletas Android, cámaras de acción y drones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
