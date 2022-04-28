@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Grand Court K  Zapatillas  Cloud White Core Black  34 EU'
-date: 2022-04-27 09:29:15
+date: 2022-04-28 12:21:46
 image: 'https://m.media-amazon.com/images/I/413eE3AR32L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07QD9YN7N/?tag=tolees-21'
 descuento: '50.06'
-average: '23.97'
+average: '22.63'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte regular
 - La parte superior de cuero sintético
 - Cordones de zapatos
+- Corte regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

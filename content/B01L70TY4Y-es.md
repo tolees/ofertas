@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Halls Cítrico - Caramelo duro - Caja con 20 Sticks de 32 g'
-date: 2022-04-17 17:25:02
+date: 2022-04-28 13:42:35
 image: 'https://m.media-amazon.com/images/I/41yvIehPXzS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HALLS'
 buyurl: 'https://www.amazon.es/dp/B01L70TY4Y/?tag=tolees-21'
 descuento: '42.73'
-average: '9.716'
+average: '9.70576923076923'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
-- Conservar en lugar fresco y seco
-- Caramelos duros Halls con sabor a cítrico; Con edulcorantes, sin azúcar
-- Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
+- Conservar en lugar fresco y seco
+- Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
+- Caramelos duros Halls con sabor a cítrico; Con edulcorantes, sin azúcar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
