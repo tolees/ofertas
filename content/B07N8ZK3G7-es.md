@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 18644/1'
-date: 2022-04-17 13:47:23
+date: 2022-04-28 15:49:49
 image: 'https://m.media-amazon.com/images/I/41Xo-D+UIbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lotus'
 buyurl: 'https://www.amazon.es/dp/B07N8ZK3G7/?tag=tolees-21'
 descuento: '35.04'
-average: '58.6457142857142'
+average: '58.1573333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
