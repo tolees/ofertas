@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG Galaxy M52 5G - Teléfono móvil  Android  Smartphone  128 GB  Azul  Versión ES'
-date: 2022-04-25 17:15:16
+date: 2022-04-28 16:37:03
 image: 'https://m.media-amazon.com/images/I/41CbKjvxTcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
