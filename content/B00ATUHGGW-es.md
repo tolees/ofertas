@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 años de garantía Invicta
-- El Invicta 14124 tiene una caja de acero inoxidable de 40 millimetros con una esfera oro
-- Este modelo es parte de la colección Invicta Pro Diver
-- Resistencia a la presión de aqua de 20 bares
 - Esta modelo funciona con un movimiento de Cuarzo preciso
+- Resistencia a la presión de aqua de 20 bares
+- 2 años de garantía Invicta
+- Este modelo es parte de la colección Invicta Pro Diver
+- El Invicta 14124 tiene una caja de acero inoxidable de 40 millimetros con una esfera oro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
