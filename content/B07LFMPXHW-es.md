@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Original Trucker Chaqueta de Mezclilla  Black Lilly  XS para Mujer'
-date: 2022-04-17 03:44:45
+date: 2022-04-29 17:40:11
 image: 'https://m.media-amazon.com/images/I/41QcOvF46hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07LFMPXHW-es Levi s Original Trucker Chaqueta de Mezclilla Black Lilly...'
 sku: 'B07LFMPXHW-es'
 tags: [ 'Chaquetas para mujer','Ropa','Ropa de abrigo para mujer','Ropa para mujer','levis','🇪🇸', ]
-actualPrice: 44.01 EUR
+actualPrice: 45.67 EUR
 currency: EUR
-price: 44.01
+price: 45.67
 comparePrice: 110.0 EUR
 prodname: 'Levi s Original Trucker Chaqueta de Mezclilla  Black Lilly  XS para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LFMPXHW/?tag=tolees-21'
-descuento: '59.99'
-average: '33.7724242424241'
+descuento: '58.48'
+average: '34.1223529411763'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
