@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Etiqueta con la D invertida del logo en forma de plaqueta
-- Poncho de mujer con capucha estilo capa con bordado en forma de mandala a tono. Nueva colección Accesorios OI21 Desigual.
 - Bordado en forma de mandala floral a tono
-- Desigual Accesorios - Poncho de mujer con capucha y bordado frontal
+- Poncho de mujer con capucha estilo capa con bordado en forma de mandala a tono. Nueva colección Accesorios OI21 Desigual.
 - Hand Wash
+- Desigual Accesorios - Poncho de mujer con capucha y bordado frontal
+- Etiqueta con la D invertida del logo en forma de plaqueta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
