@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PULSACIÓN OPTIMIZADA: Pulsación optimizada para gaming con teclas elevadas y ratio de respuesta ultra rápido; Capacidad anti-ghosting
 - COMPATIBILIDAD: Teclado Gaming para PS4 /XBOX ONE / Switch /Windows/Linux/Mac, podrás utilizarlo con tus dispositivos favoritos
 - DISEÑO COMPACTO: Teclado compacto y potente, diseñado para los escritorios más reducidos; Está equipado con una base metálica y USB chapado en oro para garantizar una mejor conectividad
+- PULSACIÓN OPTIMIZADA: Pulsación optimizada para gaming con teclas elevadas y ratio de respuesta ultra rápido; Capacidad anti-ghosting
 - TECLADO OFICIAL FC BARCELONA: El MKBC, teclado oficial del FC Barcelona, cuenta con un diseño en Azul y granate y el escudo del equipo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

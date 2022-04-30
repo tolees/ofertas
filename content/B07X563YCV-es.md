@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sandalias Niña Pablosky Blanco 486700 25'
-date: 2022-04-17 18:54:39
+date: 2022-04-30 18:37:01
 image: 'https://m.media-amazon.com/images/I/31XiFPQoIIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño ligero y flexible que ofrece comodidad
 - Forma anatómica que se adapta a tus pies
+- Diseño ligero y flexible que ofrece comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
