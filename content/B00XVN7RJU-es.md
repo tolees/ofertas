@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tristar HD-2359 - Secador de pelo de viaje  1200 W'
-date: 2022-04-27 18:04:23
+date: 2022-04-30 19:39:54
 image: 'https://m.media-amazon.com/images/I/316u0v-edjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tristar'
 buyurl: 'https://www.amazon.es/dp/B00XVN7RJU/?tag=tolees-21'
 descuento: '48.38'
-average: '9.88999999999998'
+average: '9.66599999999998'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,13 +29,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - protección contra sobrecalentamiento
-- Unidad de medida: gramo
-- concentrador y mango plegable
-- anillo para colgar y goma suave al tacto
-- Unidades: 1000.0
-- potencia: 1200 w
 - Vataje (W): 1200.0
 - Voltaje: 230.0
+- anillo para colgar y goma suave al tacto
+- concentrador y mango plegable
+- Unidades: 1000.0
+- potencia: 1200 w
 - 2 ajustes de temperatura
+- Unidad de medida: gramo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
