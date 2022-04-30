@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Evergate'
-date: 2022-04-19 11:28:54
+date: 2022-04-30 16:42:12
 image: 'https://m.media-amazon.com/images/I/51WanGxuhcS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B08WY6BCYH/?tag=tolees-21'
 descuento: '62.88'
-average: '26.2785714285714'
+average: '24.9266666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Rise to the challenge and collect the essences by completing challenges on every level.
-- Gorgeous environmental back drops paired with beautifully hand-drawn illustrations bring Ki and Evergates environments to life
-- Move across time and space to uncover Kis mysterious connection to another soul.
 - Slow down time, take aim and unleash the mysterious power hidden within every crystal you encounter with the unique Soulflame mechanic.
+- Gorgeous environmental back drops paired with beautifully hand-drawn illustrations bring Ki and Evergates environments to life
 - Enjoy an elegantly orchestrated original soundtrack, recorded by a live orchestra and tailor-made for each environment.
+- Move across time and space to uncover Kis mysterious connection to another soul.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
