@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials Classic-Fit Cargo Short  Marrón Caqui  32W'
-date: 2022-04-28 10:29:52
+date: 2022-04-30 12:20:33
 image: 'https://m.media-amazon.com/images/I/31Oywr5IQjS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Twill di cotone traspirante, leggero e morbido
 - Una marca de Amazon
 - Holgado en la cadera y los muslos, con pierna recta. Se asienta en la cintura
+- Twill di cotone traspirante, leggero e morbido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
