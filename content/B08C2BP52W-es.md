@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diset - Nightmare  Juego de mesa adulto a partir de 16 años'
-date: 2022-04-22 22:26:23
+date: 2022-04-30 09:13:59
 image: 'https://m.media-amazon.com/images/I/51896I7750L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Diset'
 buyurl: 'https://www.amazon.es/dp/B08C2BP52W/?tag=tolees-21'
 descuento: '50.20'
-average: '19.8478571428572'
+average: '18.7981250000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
