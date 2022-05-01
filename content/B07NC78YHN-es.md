@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - Los Sims 4 Standard Edition PCWin-DLC |Videojuegos |Código de descarga directa |Castellano'
-date: 2022-04-24 22:43:57
+date: 2022-05-01 19:26:38
 image: 'https://m.media-amazon.com/images/I/517XhdfWw9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B07NC78YHN/?tag=tolees-21'
 descuento: '87.52'
-average: '12.2337254901962'
+average: '12.0944230769232'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elaborada en punto suave
-- Modelo casual
 - Con un logo Levis en horizontal en el pecho
+- Modelo casual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

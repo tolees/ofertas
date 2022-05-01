@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SteelSeries Sensei Ten - Ratón de Juego - Sensor Óptico TrueMove Pro de 18 000 CPI - Diseño Ambidiestro - 8 Botones Programables - Cableado - Negro'
-date: 2022-04-18 10:06:30
+date: 2022-05-01 18:46:21
 image: 'https://m.media-amazon.com/images/I/31CTl5bPnYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SteelSeries'
 buyurl: 'https://www.amazon.es/dp/B07XV18DM7/?tag=tolees-21'
 descuento: '37.50'
-average: '53.8149999999999'
+average: '53.632857142857'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómodo diseño ambidiestro ergonómico para jugadores zurdos y diestros
 - 60 millones de clics en teclas mecánicas que garantizan una sensación de nitidez desde el primer clic hasta el último
-- Memoria integrada para ahorrar velocidad de sondeo, conmutación y hasta 5 CPI directamente en el ratón
 - Asegúrese de que el firmware más actualizado esté instalado con SteelSeries Engine
+- Cómodo diseño ambidiestro ergonómico para jugadores zurdos y diestros
+- Memoria integrada para ahorrar velocidad de sondeo, conmutación y hasta 5 CPI directamente en el ratón
 - Sensor óptico para juegos TrueMove Pro con seguimiento avanzado real 1 a 1
 - Hecho con materiales hiperduraderos diseñados con polímeros de alta calidad para una mayor durabilidad
 
