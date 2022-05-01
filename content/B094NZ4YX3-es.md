@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - FIFA 22: Standard | Código Origin para PC'
-date: 2022-04-28 10:25:18
+date: 2022-05-01 16:50:00
 image: 'https://m.media-amazon.com/images/I/41SLFqAjFQS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B094NZ4YX3/?tag=tolees-21'
 descuento: '70.01'
-average: '22.10375'
+average: '21.6466666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
