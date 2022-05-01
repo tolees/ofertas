@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft – Arc Mouse Morado'
-date: 2022-04-30 12:41:21
+date: 2022-05-01 12:51:24
 image: 'https://m.media-amazon.com/images/I/21kw3IGAQNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B07ZK56YH4/?tag=tolees-21'
 descuento: '66.30'
-average: '41.17'
+average: '39.3066666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ultrafino y ligero
-- Se aplana para cerrar y cabe fácilmente en el bolsillo o en el bolso
 - Se conecta de forma inalámbrica a través de Bluetooth
+- Se aplana para cerrar y cabe fácilmente en el bolsillo o en el bolso
+- Ultrafino y ligero
 - Innovador panel de desplazamiento completo para el desplazamiento vertical y horizontal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

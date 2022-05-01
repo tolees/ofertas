@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hellmann s Salsa Patatas Deluxe Bocabajo - Pack de 8 x 250 ml  Total: 2000 ml '
-date: 2022-04-28 15:15:45
+date: 2022-05-01 12:42:30
 image: 'https://m.media-amazon.com/images/I/51vdtCBHLKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hellmanns'
 buyurl: 'https://www.amazon.es/dp/B01MRKS5RM/?tag=tolees-21'
 descuento: '49.14'
-average: '7.953'
+average: '7.87727272727273'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Adecuada para patatas, sándwich y hamburguesa
-- Formato cómodo de usar
 - Sabor auténtico
 - La salsa cremosa para tus patatas gajo
+- Formato cómodo de usar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
