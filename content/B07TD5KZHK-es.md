@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodée- Gen 7 - Español  Color  PH2300ES '
-date: 2022-04-21 12:04:58
+date: 2022-05-02 12:15:40
 image: 'https://m.media-amazon.com/images/I/51ff-ZSl2yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Asmodée'
 buyurl: 'https://www.amazon.es/dp/B07TD5KZHK/?tag=tolees-21'
 descuento: '37.98'
-average: '63.8342857142857'
+average: '63.7113333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resuelve el misterio y construye una emocionante historia con tus amigos
 - Enfrentará a los jugadores con una serie de situaciones únicas que le obligarán a tomar compliacadas decisiones morales; arriésgarás tu pellejo para mantener seguros a los miembros de tu tripulación? qué pesará más, sus vidas o la seguridad de la misión
-- Gen7 es un juego narrativo con múltiples posibilidades; las elecciones de los jugadores alterarán el curso de la historia; gen7 es un juego de encrucijadas que sigue la estela del premiado dead of winter
 - Despliega a tu tripulación en las diferentes localizaciones de la nave para salvar la misión; personaliza a tu oficial con un sistema de méritos, y enfréntate a los dilemas morales y desafíos personales planteados por las cartas de encrucijada
+- Gen7 es un juego narrativo con múltiples posibilidades; las elecciones de los jugadores alterarán el curso de la historia; gen7 es un juego de encrucijadas que sigue la estela del premiado dead of winter
+- Resuelve el misterio y construye una emocionante historia con tus amigos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
