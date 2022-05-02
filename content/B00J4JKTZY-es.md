@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este modelo es parte de la colección Invicta Pro Diver
-- Resistencia a la presión de aqua de 20 bares
 - 2 años de garantía Invicta
-- El Invicta 8930OB tiene una caja de acero inoxidable de 40 millimetros con una esfera azul
+- Este modelo es parte de la colección Invicta Pro Diver
 - Esta modelo funciona con un movimiento de Automático preciso
+- Resistencia a la presión de aqua de 20 bares
+- El Invicta 8930OB tiene una caja de acero inoxidable de 40 millimetros con una esfera azul
 
 [🛒 Comprar!!!]({{< param buyurl >}})
