@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Prepara la piel para aplicar el maquillaje, alisando los poros
-- Pre base de maquillaje matificante Infalible
-- Aplicar por todo el rostro en movimientos circulares para preparar y alisar la superficie de la piel
-- Textura gel transparente ligero de rápida absorción
 - Permite que el maquillaje aguante intacto por más tiempo
+- Pre base de maquillaje matificante Infalible
+- Prepara la piel para aplicar el maquillaje, alisando los poros
+- Textura gel transparente ligero de rápida absorción
+- Aplicar por todo el rostro en movimientos circulares para preparar y alisar la superficie de la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

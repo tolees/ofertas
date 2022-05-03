@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Sweat Shirt Shop Duo Hood suéter  Gris  Winter Charcoal Marl Vq4   XS para Hombre'
-date: 2022-04-23 21:57:46
+date: 2022-05-03 19:32:39
 image: 'https://m.media-amazon.com/images/I/411Y1vY-zZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B07FL8LGQS/?tag=tolees-21'
 descuento: '37.50'
-average: '48.47'
+average: '48.9766666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

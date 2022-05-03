@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Denim MY FLO Jeans  Azul  44 para Mujer'
-date: 2022-04-23 21:57:23
+date: 2022-05-03 19:32:33
 image: 'https://m.media-amazon.com/images/I/314NBaZT2qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Patch de flores en el canesú
+- Liso con efecto lavado y detalles desgastados
+- Vaquero Straight cropped floral
 - Fino bordado de flores rojas
 - Sostenible: Algodón BCI
-- Vaquero Straight cropped floral
-- Liso con efecto lavado y detalles desgastados
-- Patch de flores en el canesú
 
 [🛒 Comprar!!!]({{< param buyurl >}})
