@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE W NSW tee Essntl CRP ICN Ftra Camiseta  Mujer  Negro  Black/White   M'
-date: 2022-04-28 17:45:30
+date: 2022-05-03 17:38:04
 image: 'https://m.media-amazon.com/images/I/31ZFAxSGZCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- W nsw tee essntl crp icn ftra (bv6175-010)
+- Material duradero
 - Camiseta tiempo libre y sportwear mujer
 - Ropa deportiva nike
-- Material duradero
-- W nsw tee essntl crp icn ftra (bv6175-010)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
