@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para zonas de clima templado, costa, húmedas (montañas, ríos, lagos, piscinas,…), para dentro o fuera de casa. No se recomienda su uso en zonas que presentan un riesgo elevado de malaria u otras enfermedades de transmisión mediante mosquitos vectores.
-- Para bebés y niños a partir de 12 meses.
 - Con IR3535 10%. El Aminopropionato de Etilo (IR3535) es una sustancia activa que protege frente a un gran número de insectos. La demostrada inocuidad del ingrediente activo y su buena tolerancia dérmica garantizan que el uso de este producto en niños sea seguro.
+- Para zonas de clima templado, costa, húmedas (montañas, ríos, lagos, piscinas,…), para dentro o fuera de casa. No se recomienda su uso en zonas que presentan un riesgo elevado de malaria u otras enfermedades de transmisión mediante mosquitos vectores.
 - Ofrece hasta 6 horas de protección frente a los mosquitos.
+- Para bebés y niños a partir de 12 meses.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
