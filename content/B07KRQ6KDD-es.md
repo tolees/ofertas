@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Essential Linear Medias  Mujer  Black/White  S'
-date: 2022-04-30 13:12:35
+date: 2022-05-03 15:23:44
 image: 'https://m.media-amazon.com/images/I/31ujS07GmJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07KRQ6KDD/?tag=tolees-21'
 descuento: '50.63'
-average: '16.895'
+average: '15.8633333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
