@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 17369 Jeans  Red  XS para Hombre'
-date: 2022-05-02 13:00:17
+date: 2022-05-03 13:04:40
 image: 'https://m.media-amazon.com/images/I/4197vzM93HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
