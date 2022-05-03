@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2950 COTU  Zapatillas Unisex Adulto  Black  36 EU'
-date: 2022-04-21 08:15:05
+date: 2022-05-03 08:54:51
 image: 'https://m.media-amazon.com/images/I/41-Dh61rInL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B002WQ08OS/?tag=tolees-21'
 descuento: '46.61'
-average: '30.9316666666667'
+average: '31.0128571428572'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disponible en varios colores.
 - caucho natural.
+- Disponible en varios colores.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

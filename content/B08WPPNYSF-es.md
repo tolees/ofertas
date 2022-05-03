@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- OrthoLite - Plantilla acolchada
 - Material exterior desconstruido
 - Suela exterior con patrón de pill protegido de DC y patrón en espiga
+- OrthoLite - Plantilla acolchada
 - Material exterior de lona
 
 [🛒 Aquí!!!]({{< param buyurl >}})
