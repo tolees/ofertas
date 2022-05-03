@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga Lamew  Zapatillas de Tela Mujer  Plateado  031   42.5 EU'
-date: 2022-04-29 06:20:38
+date: 2022-05-03 05:03:44
 image: 'https://m.media-amazon.com/images/I/31vgib42p1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01MDM0V91-es Superga Lamew Zapatillas de Tela Mujer Plateado 031 42.5 EU'
 sku: 'B01MDM0V91-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','superga','🇪🇸', ]
-actualPrice: 32.57 EUR
+actualPrice: 27.92 EUR
 currency: EUR
-price: 32.57
+price: 27.92
 comparePrice: 72.0 EUR
 prodname: 'Superga Lamew  Zapatillas de Tela Mujer  Plateado  031   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B01MDM0V91/?tag=tolees-21'
-descuento: '54.76'
-average: '28.5044444444445'
+descuento: '61.22'
+average: '28.5195000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
