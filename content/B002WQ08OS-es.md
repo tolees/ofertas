@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- caucho natural.
 - Disponible en varios colores.
+- caucho natural.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
