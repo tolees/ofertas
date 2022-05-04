@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA 3/4 Leggings'
-date: 2022-05-03 06:24:45
+date: 2022-05-04 07:33:47
 image: 'https://m.media-amazon.com/images/I/21BMix4ixvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Agradable y suave al tacto
+- Lavar a máquina
 - Ofrece comodidad y libertad de movimiento
 - Hecho de 87% polyester, 13% elastane
-- Lavar a máquina
-- Agradable y suave al tacto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
