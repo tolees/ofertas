@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'SLATOR - Lámpara Escritorio LED  Flexo de Escritorio  La luz natural protege los ojos  Lampara led Escritorio regulable con puerto de carga USB  5 Modos  10 Niveles de Brillo Temporizador de 30/60min'
+date: 2022-05-04 18:02:04
+image: 'https://m.media-amazon.com/images/I/21DIt1Inh6L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B085CHJ9BD-es SLATOR - Lámpara Escritorio LED Flexo de Escritorio La luz...'
+sku: 'B085CHJ9BD-es'
+tags: [ 'Iluminación','Iluminación de interior','Lámparas de escritorio','Lámparas de interior','slator','🇪🇸', ]
+actualPrice: 21.0 EUR
+currency: EUR
+price: 21.0
+comparePrice: 35.99 EUR
+prodname: 'SLATOR - Lámpara Escritorio LED  Flexo de Escritorio  La luz natural protege los ojos  Lampara led Escritorio regulable con puerto de carga USB  5 Modos  10 Niveles de Brillo Temporizador de 30/60min'
+country: 'es'
+flag: '🇪🇸'
+brand: 'SLATOR'
+buyurl: 'https://www.amazon.es/dp/B085CHJ9BD/?tag=tolees-21'
+descuento: '41.65'
+average: '22.2756521739131'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Lámpara de mesa respetuosa con su visión: Lámpara de escritorio LED tiene 10 niveles de brillo y 5 modos de iluminación seleccionables; modo de luz natural, sin parpadeo, evitando la fatiga visual tras un tiempo prolongado de uso. Recomendada para trabajar, leer o estudiar, tanto en casa como luz auxiliar en la oficina
+- Ajustable en múltiples ángulos para una iluminación optimizada: con su brazo flexible de 180 ° y su eje base de 90 °, la lámpara se puede ajustar al ángulo adecuado para su uso. Puedes elegir el mejor ángulo de iluminación para adaptarla a los posibles requisitos, además posee una excepcional capacidad para plegarse, trasladarla o guardarla
+- Lo último en diseño: Cuerpo de aleación de aluminio ultra fino, estructura ligera, a través de un diseño minimalista, sensible al tacto, fruto de la fusión perfecta entre elegancia y durabilidad, aportando un toque de moda a su hogar u oficina
+- Gran durabilidad : Nuestra lámpara está fabricada sin plomo ni mercurio, y no genera radiación UV ni IR.El disipador de calor es de aleación de aluminio, permitiendo hasta 50000 horas de vida útil, 40 veces más que una luz incandescente clásica
+- Control táctil de fácil manejo: El interruptor de la lámpara es totalmente táctil. La función de memoria permite que solo necesite establecer el modo de brillo / color la primera vez que use la lámpara, y la luz del escritorio volverá automáticamente a la configuración en los siguientes usos
+
+[🛒 Comprar!!!]({{< param buyurl >}})
