@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas GM3909 SH3.RO BOS S Swimsuit Womens Black/White 44'
-date: 2022-05-03 09:42:10
+date: 2022-05-04 11:01:07
 image: 'https://m.media-amazon.com/images/I/31Kqgb1uWNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Traje de baño
 - El tejido blando ultraplano
+- Traje de baño
 - regular fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
