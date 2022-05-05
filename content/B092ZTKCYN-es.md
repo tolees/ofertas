@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera
-- Sostenible
-- Cómodo jersey de punto de algodón orgánico
 - Suéter
+- Cómodo jersey de punto de algodón orgánico
+- Sostenible
+- Sudadera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

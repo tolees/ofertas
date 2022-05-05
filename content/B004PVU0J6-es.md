@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transpirable y en gama de colores
 - Superga marca distintiva de alta calidad
+- Transpirable y en gama de colores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

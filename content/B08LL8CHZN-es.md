@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Swift Run X  Sneaker Hombre  Core Black Core Black Core Black  41 1/3 EU'
-date: 2022-04-22 14:06:44
+date: 2022-05-05 19:49:46
 image: 'https://m.media-amazon.com/images/I/31+Ak93eCKS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela de goma
-- Cordones de zapatos
 - Corte regular
+- Cordones de zapatos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

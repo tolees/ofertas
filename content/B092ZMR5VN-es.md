@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Estructura:
 - Premium
 - Jersey estructurado de algodón premium
-- Estructura:
-- Sudadera
 - Sostenible
+- Sudadera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

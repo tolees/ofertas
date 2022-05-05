@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con degradado
 - Gracias a la lana y al porcentaje de alpaca, este jersey es especialmente suave en un moderno look ombré.
 - Corte recto
-- Cuello redondo acanalado
 - Punto suave de mezcla de materiales con lana y alpaca
+- Con degradado
+- Cuello redondo acanalado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estructura:
-- Sudadera
-- Jersey estructurado de algodón premium
 - Premium
+- Estructura:
+- Jersey estructurado de algodón premium
 - Sostenible
+- Sudadera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
