@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LS2  Casco jet moto Airflow  M  Patente Negro'
-date: 2022-05-03 20:34:09
+date: 2022-05-05 09:43:39
 image: 'https://m.media-amazon.com/images/I/41qSQMI-bdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LS2'
 buyurl: 'https://www.amazon.es/dp/B01GO2JODQ/?tag=tolees-21'
 descuento: '54.23'
-average: '33.245'
+average: '32.8266666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Carcasa de policarbonato HPTT para un peso ligero de 950 g +/- 50 g
+- Anti arañazos, Anti-UV y Anti-vaho
 - Lente Lexan inyectada larga e incolora
 - Cierre de hebilla micrométrico rápido y eficiente de la correa de la barbilla
 - Sistema de liberación rápida para la pantalla, fácil y sin herramientas "Sistema de liberación rápida"
-- Anti arañazos, Anti-UV y Anti-vaho
+- Carcasa de policarbonato HPTT para un peso ligero de 950 g +/- 50 g
 
 [🛒 Visítala!!!]({{< param buyurl >}})
