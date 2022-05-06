@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VPA / GS probado
+- 46 piezas de llaves de vaso 6,3 mm 1/ 4 "
 - Fabricado con acero cromo vanadio
 - En caja de plástico estable
-- 46 piezas de llaves de vaso 6,3 mm 1/ 4 "
+- VPA / GS probado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

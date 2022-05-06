@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marantz Professional MPM-2000U - Micrófono de condensador USB para grabaciones en Mac/PC  podcasts  juegos; con soporte de araña  cable USB y estuche'
-date: 2022-05-02 15:45:34
+date: 2022-05-06 07:11:56
 image: 'https://m.media-amazon.com/images/I/41kxwTOxKhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Marantz Professional'
 buyurl: 'https://www.amazon.es/dp/B01GJ9IUNY/?tag=tolees-21'
 descuento: '35.56'
-average: '61.995'
+average: '60.66'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Todo lo esencial para estudios: interfaz de audio integrada, especificación de calidad de estudio, conversión A/D 48kHz/16-bit de alta calidad y patrón polar cardioide para reducir el ruido ambiente
-- No requiere otros accesorios: incluye soporte de araña para montaje en pedestal, cable USB y robusto estuche de transporte
-- Micrófono Mac/PC versátil: micrófono USB de alta calidad para streaming, grabación de podcasts (Garageband, Logic, Adobe Audition, Audacity), juegos, Twitch, Skype, vídeos de YouTube y conferencias
-- Robusto y compacto: resistente carcasa metálica de micrófono para Mac/PC y tamaño portátil compacto; ideal para grabaciones domésticas y escenarios de grabación en exteriores
 - Simplicidad plug & play: micrófono de condensador USB para grabar; no requiere controladores ni alimentación fantasma de 48v; optimizado para Discord, Cortana, chat y reconocimiento de voz
+- No requiere otros accesorios: incluye soporte de araña para montaje en pedestal, cable USB y robusto estuche de transporte
+- Todo lo esencial para estudios: interfaz de audio integrada, especificación de calidad de estudio, conversión A/D 48kHz/16-bit de alta calidad y patrón polar cardioide para reducir el ruido ambiente
+- Robusto y compacto: resistente carcasa metálica de micrófono para Mac/PC y tamaño portátil compacto; ideal para grabaciones domésticas y escenarios de grabación en exteriores
+- Micrófono Mac/PC versátil: micrófono USB de alta calidad para streaming, grabación de podcasts (Garageband, Logic, Adobe Audition, Audacity), juegos, Twitch, Skype, vídeos de YouTube y conferencias
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Sport XH9507  Pantalones deportivos Hombre  Negro  Black   L'
-date: 2022-04-30 12:31:17
+date: 2022-05-06 07:13:45
 image: 'https://m.media-amazon.com/images/I/31CcYxVUdsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tobillos acanalados
 - Pantalón De Deporte De Hombre Lacoste SPORT Tennis En Felpa De Algodón
+- Tobillos acanalados
 - Felpa de mezcla de algodón cepillado monocolor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

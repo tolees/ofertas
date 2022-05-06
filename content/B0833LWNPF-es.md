@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Orificios para transpirabilidad.
-- Tongue y cuello acolchados de espuma para mayor comodidad y apoyo.
-- Construcción.
 - DCs Trademarked Pill Pattern Tread.
+- Tongue y cuello acolchados de espuma para mayor comodidad y apoyo.
+- Orificios para transpirabilidad.
 - Tongue de malla ligera.
+- Construcción.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
