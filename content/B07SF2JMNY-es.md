@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- entresuela de goma
 - Suela de goma
+- entresuela de goma
+- bota baja
 - Superior de cuero
 - Perforada franja característica PUMA PUMA y otros elementos de marca
-- bota baja
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caja redonda de acero inoxidable, con esfera blanca.
 - Resistente al agua hasta 30 m: soportará salpicaduras de agua
+- Caja redonda de acero inoxidable, con esfera blanca.
 - Brazalete de oro rosa, acero inoxidable.
 - Caja de 30 mm, ancho de la correa de 12 mm, cristal de zafiro, movimiento de cuarzo con pantalla analógica de 2 manecillas, importado.
 

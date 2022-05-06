@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material: Tela.
 - Color: Blanco.
 - Cierre: cordones
+- Material: Tela.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
