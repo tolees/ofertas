@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mercurio Distribuciones-Juego de Habilidad con Tema Divertido. Gran Intensidad y competición con el Factor Todos a la Vez  H00001 '
-date: 2022-05-05 18:18:15
+date: 2022-05-06 19:25:36
 image: 'https://m.media-amazon.com/images/I/51gpNB+tVFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mercurio Distribuciones'
 buyurl: 'https://www.amazon.es/dp/B01LXUKCZ1/?tag=tolees-21'
 descuento: '40.82'
-average: '13.9742857142857'
+average: '13.85125'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Divertido y desternillante
 - Un juego loco con factor todos a la vez
 - Juego de habilidad y rapidez
+- Divertido y desternillante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
