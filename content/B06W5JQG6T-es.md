@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips AirFryer HD9216/80 - Freidora sin Aceite con Tecnología Rapid Air  0.8 kg  Blanco'
-date: 2022-05-02 07:42:58
+date: 2022-05-06 20:46:00
 image: 'https://m.media-amazon.com/images/I/41kFb4Ez9nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño exclusivo para unos resultados deliciosos y con poca grasa
-- Con esta freidora de aire caliente podrás freír, tostar, asar e incluso hornear
-- Fácil de limpiar y produce menos olores que las freidoras normales
-- Control de tiempo y temperatura ajustable manualmente
-- La exclusiva tecnología rapid air de Philips te permite freír con aire alimentos que quedan crujientes por fuera y tiernos por dentro
+- Philips
+- 2 ans
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

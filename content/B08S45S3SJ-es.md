@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Invision Soporte TV Pared de 37 a 65 Pulgadas - VESA 200x200mm a 400x400mm - Brazo Doble Fuerte y Robusto  se Inclina y Extiende con Movimiento Total - Capacidad Carga Máxima 45 5 kg  EV600 '
-date: 2022-05-05 06:09:28
+date: 2022-05-06 22:00:39
 image: 'https://m.media-amazon.com/images/I/41vBGuaL05L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Invision'
 buyurl: 'https://www.amazon.es/dp/B08S45S3SJ/?tag=tolees-21'
 descuento: '51.90'
-average: '37.3838461538462'
+average: '37.2036363636364'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
