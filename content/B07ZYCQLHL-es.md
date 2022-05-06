@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf- Fortnite GL-L  Hasbro E8910EU4 '
-date: 2022-05-03 11:54:36
+date: 2022-05-06 13:56:54
 image: 'https://m.media-amazon.com/images/I/41l3dnxmZeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B07ZYCQLHL/?tag=tolees-21'
 descuento: '47.63'
-average: '47.9565517241379'
+average: '47.702'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El lanzador GL de Nerf Fortnite está inspirado en el lanzador que se usa en Fortnite y reproduce fielmente el aspecto de uno de los del popular videojuego
 - Cuenta con un tambor rotatorio que almacena hasta 6 cohetes de espuma y los lanza 1 a la vez
+- El lanzador GL de Nerf Fortnite está inspirado en el lanzador que se usa en Fortnite y reproduce fielmente el aspecto de uno de los del popular videojuego
 - Viene con 6 cohetes oficiales Nerf probados en cuanto a su rendimiento y calidad
 - Mueve la manija para lanzar 1 cohete a la vez, empuja la manija hacia delante para que el tambor gire y coloque un cohete en la posición de tiro y tira de la manija hacia atrás para lanzar un cohete
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics Escritorio para portátil plegable multiusos con superficie de madera  140 cm  escritorio negro con patas negras'
-date: 2022-05-03 16:45:05
+date: 2022-05-06 13:49:01
 image: 'https://m.media-amazon.com/images/I/31ehl6sUrML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- N.º de certificación BIFMA: ZJJH TR-201912064C; adaptadores GREENGUARD
 - Es plegable, por lo que se puede transportar y guardar fácilmente
-- Esta mesa plegable puede usarse para colocar el ordenador, para escribir, para tener reuniones y mucho más
-- Parte superior de resistente aglomerado de madera con acabado en roble claro; es resistente a las manchas y fácil de limpiar
+- N.º de certificación BIFMA: ZJJH TR-201912064C; adaptadores GREENGUARD
 - Patas metálicas resistentes al óxido que se doblan hacia dentro con acabado de color negro
 - Las dimensiones son 140 cm de largo por 45 cm de ancho por 75 cm de alto; carga máxima de 144 kg.
+- Esta mesa plegable puede usarse para colocar el ordenador, para escribir, para tener reuniones y mucho más
+- Parte superior de resistente aglomerado de madera con acabado en roble claro; es resistente a las manchas y fácil de limpiar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
