@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revlon ColorStay Base de Maquillaje piel mixta/grasa FPS15 30ml  #320 True Beige'
-date: 2022-04-29 05:51:00
+date: 2022-05-06 15:58:00
 image: 'https://m.media-amazon.com/images/I/415J0ChVNPS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'REVLON'
 buyurl: 'https://www.amazon.es/dp/B00VX6U99W/?tag=tolees-21'
 descuento: '61.78'
-average: '5.85'
+average: '5.625'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Piel sin brillos e hidratada con un acabado mate que dura hasta 24H
 - Textura ligera, cubre las imperfecciones, sin obstruir los poros. Cobertura media/alta
-- Con protección contra rayos UVA SPF 15. Resistente al sudor, a la humedad y al agua
-- Adecuada para piel mixta/grasa. Fórmula libre de aceites y fragancias, oil free
 - Evita la aparición de grietas, proporcionando un adecuado confort en la piel
+- Con protección contra rayos UVA SPF 15. Resistente al sudor, a la humedad y al agua
+- Piel sin brillos e hidratada con un acabado mate que dura hasta 24H
+- Adecuada para piel mixta/grasa. Fórmula libre de aceites y fragancias, oil free
 
 [🛒 Comprar!!!]({{< param buyurl >}})
