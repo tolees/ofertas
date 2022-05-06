@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Old Skool Platform  Zapatillas Mujer  Negro  Black/Black Bka   38.5 EU'
-date: 2022-04-25 17:04:17
+date: 2022-05-06 00:09:45
 image: 'https://m.media-amazon.com/images/I/31pv2LXhbVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B06XHR6K1K/?tag=tolees-21'
 descuento: '37.07'
-average: '50.115'
+average: '50.49'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

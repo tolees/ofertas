@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GUESS Reloj Analógico para Hombre de Cuarzo con Correa en Silicone W0971G3'
-date: 2022-04-24 20:50:25
+date: 2022-05-05 23:19:20
 image: 'https://m.media-amazon.com/images/I/51zpQHh4X1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Guess'
 buyurl: 'https://www.amazon.es/dp/B076CQLX5Z/?tag=tolees-21'
 descuento: '57.65'
-average: '80.4088888888889'
+average: '81.258'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
