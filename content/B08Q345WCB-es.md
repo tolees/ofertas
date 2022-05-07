@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vighep Luz Solar Exterior 228 LED 【4 Pack / 3 Modos】270 °lluminación Focos Solares Exterior con Sensor de Movimiento Impermeable Luces Solares LED Exterior Aplique Lampara Solar para Exterior Jardin'
-date: 2022-04-24 13:01:40
+date: 2022-05-07 12:32:05
 image: 'https://m.media-amazon.com/images/I/51sQx2UwchL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'vighep'
 buyurl: 'https://www.amazon.es/dp/B08Q345WCB/?tag=tolees-21'
 descuento: '35.88'
-average: '32.0384615384615'
+average: '31.9942857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🌞 [Luces solares a prueba de agua IP65]: Más resistencia a la intemperie profesional; Con tecnología impermeable IP65, Vighep luces solares exteriores puede soportar todo tipo de clima terrible. Incluso si nieva y congela, pueden pasar el invierno sin problemas.
-- 🌞 [3 modos considerados]: Vighep foco solar exterior tiene 3 modos para satisfacer sus diferentes necesidades: 1.) modo de brillo medio, 2.) modo de inducción de luz baja, 3.) modo de iluminación de inducción. La potente cabeza de bola con sensor proporciona una potente sensibilidad al movimiento de hasta 10 a 16 pies, lo que brinda comodidad y seguridad para su vida.
-- 🌞 [Iluminación de gran angular de 270 °] Sensor de movimiento PIR sensible incorporado, focos led exterior puede detectar cualquier movimiento hasta 26 pies en un ángulo de detección de 120 °. La luz solar con sensor de movimiento 228LED con iluminación gran angular de 270º puede proporcionar lúmenes superbrillantes en una amplia gama.
 - 🌞 [🎁Mejores obsequios / regalos]: Panel solar de alta eficiencia y respetuoso con el medio ambiente. Colgarlos fue muy fácil porque venían bien diseñados, solo encuentra un lugar con suficiente luz solar y, lo más importante, ¡agregan mucho a los patios! Por eso, sobre todo en las noches de invierno, son el mejor regalo, ya sea para tus padres, mayores, amigos, etc.
+- 🌞 [3 modos considerados]: Vighep foco solar exterior tiene 3 modos para satisfacer sus diferentes necesidades: 1.) modo de brillo medio, 2.) modo de inducción de luz baja, 3.) modo de iluminación de inducción. La potente cabeza de bola con sensor proporciona una potente sensibilidad al movimiento de hasta 10 a 16 pies, lo que brinda comodidad y seguridad para su vida.
 - 🌞 [Luces solares ultrabrillantes]: Cobertura de iluminación más amplia; Equipadas con 228 leds, focos led exterior solares Vighep para exteriores ofrecen una mayor cobertura de luminosidad, que puede iluminar el espacio alrededor de 30㎡ por la noche. Un paquete de 4 piezas suficiente puede iluminar su frente puerta, patio trasero, garaje, terraza, jardín, cerca, etc.
+- 🌞 [Iluminación de gran angular de 270 °] Sensor de movimiento PIR sensible incorporado, focos led exterior puede detectar cualquier movimiento hasta 26 pies en un ángulo de detección de 120 °. La luz solar con sensor de movimiento 228LED con iluminación gran angular de 270º puede proporcionar lúmenes superbrillantes en una amplia gama.
+- 🌞 [Luces solares a prueba de agua IP65]: Más resistencia a la intemperie profesional; Con tecnología impermeable IP65, Vighep luces solares exteriores puede soportar todo tipo de clima terrible. Incluso si nieva y congela, pueden pasar el invierno sin problemas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
