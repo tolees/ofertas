@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orzly Teclado y Raton Gaming - Combo Ratón y Teclado USB [RGB LED Retroiluminación]  Cascos Gamer  Alfombrilla de Ratón - Para Usuarios PC  Xbox y PS4 [Hornet RX250]'
-date: 2022-05-03 09:09:47
+date: 2022-05-07 21:49:12
 image: 'https://m.media-amazon.com/images/I/512bmO2N-hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Orzly'
 buyurl: 'https://www.amazon.es/dp/B07TVK8WJP/?tag=tolees-21'
 descuento: '63.58'
-average: '33.2004761904763'
+average: '32.5300000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FÁCIL DE OPERAR Y COMPATIBILIDAD AMPLIA: Como un dispositivo plug-and-play, nuestro teclado de juegos con cable USB no necesita ningún soporte de software, ya que es una excelente opción para PC, laptop, teclado de computadora. Es compatible con Windows 95/98 / XP / 2000 / ME / VISTA / 7/8/10 y Mac OS. (Las funciones multimedia no están disponibles para Mac OS)
 - VALOR FANTÁSTICO PARA PC GAMERS; Incluye un ratón y teclado para juegos, auriculares para juegos y Alfombrilla de Ratón grande - 4 excelentes elementos esenciales para comenzar
 - COLORIDO LED RGB LUMINOSO: El colorido arco iris con retroiluminación LED puede brindarle una excelente atmósfera de teclado para juegos. Existen modos de iluminación permanente e iluminación automática de respiración con retroiluminación LED para sus opciones. También puedes ajustar el brillo y la velocidad de respiraci
+- FÁCIL DE OPERAR Y COMPATIBILIDAD AMPLIA: Como un dispositivo plug-and-play, nuestro teclado de juegos con cable USB no necesita ningún soporte de software, ya que es una excelente opción para PC, laptop, teclado de computadora. Es compatible con Windows 95/98 / XP / 2000 / ME / VISTA / 7/8/10 y Mac OS. (Las funciones multimedia no están disponibles para Mac OS)
 - El auricular con cable para juegos RX250: presenta sonido estéreo, almohadillas suaves para sesiones prolongadas, micrófono plegable con controles de cable de volumen y un conector de audio versátil de 3.5 mm
 - PUEDE UTILIZARSE para: juegos de PC, juegos de PS4, juegos de Xbox, juegos Retro Pie, o puede usarse para uso informático normal
 
