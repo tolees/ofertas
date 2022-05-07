@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Bellies From Bellyville- Shusha Sweets  Bellie dulce  golosa  regalo  Famosa 700015798 '
-date: 2022-05-06 13:31:16
+date: 2022-05-07 16:37:06
 image: 'https://m.media-amazon.com/images/I/51nsIDHQKbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'The Bellies From Bellyville'
 buyurl: 'https://www.amazon.es/dp/B088MTBKCZ/?tag=tolees-21'
 descuento: '45.64'
-average: '23.7866666666666'
+average: '23.4874999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
