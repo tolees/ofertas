@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✅ 【Consejos útiles】: ① Ponga suficiente agua en la pileta para pájaros para que la fuente solar pueda permanecer completamente debajo del agua. ② Limpie la bomba con regularidad para evitar que se bloquee con suciedad. ③ La fuente solo funciona cuando TODOS los paneles están expuestos a la luz solar directa y completa. ④ Una hoja que sombrea un panel evita que funcione. ⑤ No almacena energía.
 - ✅ 【Vida útil extremadamente larga】: La fuente solar tiene más de 10,000 horas de vida útil. El jardín fuente solar tiene un motor sin escobillas incorporado que proporciona una vida útil más larga y reduce la energía.
-- ✅ 【Ecológico】: No se necesita batería ni electricidad, funciona automáticamente en 3 segundos cuando se coloca en el agua y se expone a suficiente luz solar, hasta 60 cm de altura de chorro. Fácil de mover a diferentes lugares para usar.
 - ✅ 【6 boquillas diferentes y kit de fijación】: Hay 6 tipos diferentes de cabezales de boquilla conectados a la fuente solar. Ayuda a cambiar la altura del agua en diferentes patrones de agua. A excepción de la flotación libre, también puede asegurar el dispositivo firmemente con 4 postes anticolisión incluidos y 4 varillas fijas.
 - ✅ 【Aplicaciones múltiples】: Esta fuente solar ecológica para jardín es perfecta para bebederos para pájaros, peceras, jardines, estanques pequeños, circulación de agua para oxígeno. Su jardín definitivamente llamaría la atención de los transeúntes. Deje que su jardín luzca tan divertido decorado con bomba de agua solar.
+- ✅ 【Ecológico】: No se necesita batería ni electricidad, funciona automáticamente en 3 segundos cuando se coloca en el agua y se expone a suficiente luz solar, hasta 60 cm de altura de chorro. Fácil de mover a diferentes lugares para usar.
+- ✅ 【Consejos útiles】: ① Ponga suficiente agua en la pileta para pájaros para que la fuente solar pueda permanecer completamente debajo del agua. ② Limpie la bomba con regularidad para evitar que se bloquee con suciedad. ③ La fuente solo funciona cuando TODOS los paneles están expuestos a la luz solar directa y completa. ④ Una hoja que sombrea un panel evita que funcione. ⑤ No almacena energía.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

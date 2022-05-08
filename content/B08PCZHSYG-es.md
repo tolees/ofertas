@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resistente al cloro
 - Libertad de movimiento
-- Adecuado para actividades deportivas en el agua o en la playa.
 - Cintura elástica
+- Resistente al cloro
+- Adecuado para actividades deportivas en el agua o en la playa.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
