@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómodo
 - Chaqueta bomber
 - Con cremallera
+- Cómodo
 - Sostenible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
