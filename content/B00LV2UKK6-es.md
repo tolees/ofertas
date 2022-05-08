@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda A301 - Repetidor Extensor de Red WiFi  300 Mbps  Color Blanco'
-date: 2022-05-07 09:14:32
+date: 2022-05-08 16:47:08
 image: 'https://m.media-amazon.com/images/I/41R8u1hQtLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tenda'
 buyurl: 'https://www.amazon.es/dp/B00LV2UKK6/?tag=tolees-21'
 descuento: '55.03'
-average: '9.49'
+average: '9.32333333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Extensor de señal
+- 300 Mbps WEP, WPA-PSK, WPA2-PSK
+- 300 Mbit/s
 - IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.3, IEEE 802.3u
 - Repetidor extensor de red wireless
-- 300 Mbit/s
-- 300 Mbps WEP, WPA-PSK, WPA2-PSK
+- Extensor de señal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
