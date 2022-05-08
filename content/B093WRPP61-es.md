@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talón moldeado para mayor apoyo
 - Entresuela suave para mayor comodidad
 - Suela de goma para tracción y durabilidad
+- Talón moldeado para mayor apoyo
 - Parte superior sintética y textil para mayor durabilidad y comodidad
 - Cierre de cordón ajustable para un ajuste personalizado
 

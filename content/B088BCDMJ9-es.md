@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye una capucha para tormentas ajustable, Polaina interna para las piernas, Protector de puños reforzado, Refuerzos en rodillas y zona de asiento
 - Tejido Omni-Tech impermeable y transpirable con costuras críticas selladas
-- Sistema de crecimiento Outgrown (no disponible en tamaño para bebés)
 - Contenido: 1x Columbia Buga Set de esquí para niños pequeños, Gris (City Grey Dot Scape Print/Columbia Grey), 6/12 M, Art 1562213
+- Sistema de crecimiento Outgrown (no disponible en tamaño para bebés)
+- Incluye una capucha para tormentas ajustable, Polaina interna para las piernas, Protector de puños reforzado, Refuerzos en rodillas y zona de asiento
 - Tecnología Omni-Heat para regular tu temperatura a través de pequeños puntos plateados que reflejan y retienen el calor que genera tu cuerpo, Tejido transpirable para disipar la humedad y eliminar el exceso de calor
 
 [🛒 Comprar!!!]({{< param buyurl >}})

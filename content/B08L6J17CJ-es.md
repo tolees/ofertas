@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este es un producto original y auténtico de Tommy Hilfiger.
 - Tommy Hilfiger Abrigos tejidos para mujer
+- Este es un producto original y auténtico de Tommy Hilfiger.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
