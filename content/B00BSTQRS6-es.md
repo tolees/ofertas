@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - DIAL: WHITE, WITH PINK ARABIC NUMERALS AND SILVER HANDS
+- WATER RESISTANCE: 5 BAR
+- CASE DIAMETER: 23 MM
 - BRACELET: STAINLESS STEEL SILVER / ENAMEL PINK
 - CASE: STAINLESS STEEL SILVER
-- CASE DIAMETER: 23 MM
-- WATER RESISTANCE: 5 BAR
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
