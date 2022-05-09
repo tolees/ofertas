@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-EX110AP - Auriculares in-ear  con micrófono  control remoto integrado   blanco'
-date: 2022-05-08 11:27:19
+date: 2022-05-09 19:54:58
 image: 'https://m.media-amazon.com/images/I/31GOfTkyDcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00I3LUUYO/?tag=tolees-21'
 descuento: '44.04'
-average: '11.615'
+average: '11.6702325581395'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diafragmas de neodimio de 9 mm para un sonido dinámico
-- Rango de frecuencia de 5-24.000 Hz
+- Cable tipo Y, 1,2 m de longitud
 - Cómodos tapones de auricular de silicona de ajuste seguro
 - Gran variedad de colores para adaptarse a tu estilo
-- Cable tipo Y, 1,2 m de longitud
+- Rango de frecuencia de 5-24.000 Hz
+- Diafragmas de neodimio de 9 mm para un sonido dinámico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
