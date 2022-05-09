@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🔵Dispositivo incompatible- Redmi 6 pro, Redmi 7 pro, Motorola, Google pixel, Amazon Fire tablets.
-- 🔵Compatibilidad con Aplicaciones - Compatible con aplicaciones populares como Wahoo, Coosporide, Zwift, Endomondo, Runkeeper, IpBike, Nike+ Runclub, Peloton, Map My Run, elite hrv app, Komoot, iCardio, DDP Yoga y más.
-- 🔴Bluetooth y EMPAREJAMIENTO ANT+ - El dispositivo está integrado con Buletooth 4.0 y ANT+, lo que te permite emparejarlo con teléfonos inteligentes, tabletas, relojes GPS y ordenadores de bicicletas
-- 🔴Correas de repuesto: la longitud de la correa ajustable es de 25 a 36 pulgadas. Para una correa de reemplazo de otro tamaño o color, por favor busque B08FD6K5W9 y B08FD5T8ZG.
 - 🏃CAPTURA DATOS EN TIEMPO REAL - El monitor de frecuencia cardíaca Coospo te ayuda a rastrear y capturar la frecuencia cardíaca en tiempo real, zonas de entrenamiento y calorías quemadas en tu smartphone o tableta en las aplicaciones para entrenamiento compatibles
+- 🔵Dispositivo incompatible- Redmi 6 pro, Redmi 7 pro, Motorola, Google pixel, Amazon Fire tablets.
+- 🔴Bluetooth y EMPAREJAMIENTO ANT+ - El dispositivo está integrado con Buletooth 4.0 y ANT+, lo que te permite emparejarlo con teléfonos inteligentes, tabletas, relojes GPS y ordenadores de bicicletas
+- 🔵Compatibilidad con Aplicaciones - Compatible con aplicaciones populares como Wahoo, Coosporide, Zwift, Endomondo, Runkeeper, IpBike, Nike+ Runclub, Peloton, Map My Run, elite hrv app, Komoot, iCardio, DDP Yoga y más.
+- 🔴Correas de repuesto: la longitud de la correa ajustable es de 25 a 36 pulgadas. Para una correa de reemplazo de otro tamaño o color, por favor busque B08FD6K5W9 y B08FD5T8ZG.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos con cierre de cremallera
-- Bolsillos con solapa con cierre de cremallera
 - Capucha ajustable
-- Cierre con cremallera lateral
 - Bolsillos con cierre de cremallera
-- Anorak con capucha
-- Detalles impresos
-- Detalles de firma
 - Relleno reciclado sin pluMón
+- Bolsillos con cierre de cremallera
+- Detalles impresos
+- Anorak con capucha
+- Detalles de firma
+- Cierre con cremallera lateral
+- Bolsillos con solapa con cierre de cremallera
 - Ojales de ventilación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
