@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TULIPA?N NEGRO - Tulipan Gel T Negro 720 ml'
-date: 2022-05-05 18:35:05
+date: 2022-05-09 14:46:28
 image: 'https://m.media-amazon.com/images/I/318qrBM2mVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TULIPA?N NEGRO'
 buyurl: 'https://www.amazon.es/dp/B017WK9QPU/?tag=tolees-21'
 descuento: '35.68'
-average: '1.35971428571428'
+average: '1.35749999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

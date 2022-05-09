@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pegasus Spiele - Cubitos'
-date: 2022-05-08 10:40:20
+date: 2022-05-09 14:43:56
 image: 'https://m.media-amazon.com/images/I/51zBw8W-LGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08HHZ8C72-es Pegasus Spiele - Cubitos'
 sku: 'B08HHZ8C72-es'
 tags: [ 'Libros','pegasus spiele','🇪🇸', ]
-actualPrice: 31.15 EUR
+actualPrice: 31.22 EUR
 currency: EUR
-price: 31.15
+price: 31.22
 comparePrice: 52.1 EUR
 prodname: 'Pegasus Spiele - Cubitos'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pegasus Spiele'
 buyurl: 'https://www.amazon.es/dp/B08HHZ8C72/?tag=tolees-21'
-descuento: '40.21'
-average: '31.15'
+descuento: '40.08'
+average: '31.185'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

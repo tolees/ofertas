@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Nylon Cl - Zapatillas  Hombre  Negro  Black/Black/White   42.5 EU'
-date: 2022-04-30 15:09:18
+date: 2022-05-09 14:58:00
 image: 'https://m.media-amazon.com/images/I/31UilNixBTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B083SXNF4L-es Reebok Nylon Cl - Zapatillas Hombre Negro...'
 sku: 'B083SXNF4L-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','reebok','🇪🇸', ]
-actualPrice: 33.1 EUR
+actualPrice: 29.88 EUR
 currency: EUR
-price: 33.1
+price: 29.88
 comparePrice: 65.0 EUR
 prodname: 'Reebok Nylon Cl - Zapatillas  Hombre  Negro  Black/Black/White   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B083SXNF4L/?tag=tolees-21'
-descuento: '49.08'
-average: '32.335'
+descuento: '54.03'
+average: '31.5166666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
