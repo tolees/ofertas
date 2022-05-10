@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas W Lin Leg Leggings  Womens  Black/White  Small'
-date: 2022-05-08 20:21:38
+date: 2022-05-10 21:25:32
 image: 'https://m.media-amazon.com/images/I/31TJVO0gQ8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintura elástica de talle alto
-- Corte ajustado
 - Ofrece libertad de movimiento
+- Corte ajustado
 - Tela transpirable
+- Cintura elástica de talle alto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa - Baby Mickey Mouse 5 Puzzles Orogresivos de 3 a 5 Piezas  Multicolor  13813 '
-date: 2022-05-07 10:10:45
+date: 2022-05-10 21:23:00
 image: 'https://m.media-amazon.com/images/I/51S1YnU-PUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Educa'
 buyurl: 'https://www.amazon.es/dp/B001EWE2SE/?tag=tolees-21'
 descuento: '69.11'
-average: '9.0374358974359'
+average: '8.9115'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
