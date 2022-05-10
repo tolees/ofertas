@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Continental 80  Zapatillas de Gimnasia Hombre  Blanco  FTWR White/Scarlet/Collegiate Navy FTWR White/Scarlet/Collegiate Navy   36 EU'
-date: 2022-04-29 12:35:27
+date: 2022-05-10 11:09:16
 image: 'https://m.media-amazon.com/images/I/41R4HevGXpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07JZVKGNB/?tag=tolees-21'
 descuento: '35.00'
-average: '52.6619230769231'
+average: '53.1188888888889'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
