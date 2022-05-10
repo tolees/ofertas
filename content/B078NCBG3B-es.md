@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garza Power - Base múltiple Cubo de 4 tomas Schuko con Interruptor  cable 1.5mm x 1.5 Metros  color Blanco'
-date: 2022-05-03 21:22:20
+date: 2022-05-10 17:04:35
 image: 'https://m.media-amazon.com/images/I/31o9hqoCNBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con protección infantil
 - Diseño especial y exclusivo en forma de cubo ideal para dar un toque de personalidad
 - Base múltiple cubo de 4 tomas Schuko con interruptor
-- Con cable 1.5mm x 1.5m de largo
 - Color Blanco
+- Con cable 1.5mm x 1.5m de largo
+- Con protección infantil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
