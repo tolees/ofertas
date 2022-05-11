@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Colección de labiales diseñados por Kate Moss
-- Color intenso que dura hasta 24 horas
-- Fórmula enriquecida con polvo de rubí
-- Tecnología Color Protect para proteger el color
 - Color mate aterciopelado
+- Color intenso que dura hasta 24 horas
+- Tecnología Color Protect para proteger el color
+- Fórmula enriquecida con polvo de rubí
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
