@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - LEGO: Jurassic World'
-date: 2022-05-06 14:08:40
+date: 2022-05-11 10:05:22
 image: 'https://m.media-amazon.com/images/I/51LBCA11ZmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07WHT7QZ1-es Warner Bros Interactive Spain - LEGO: Jurassic World'
 sku: 'B07WHT7QZ1-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','warner bros interactive spain','🇪🇸', ]
-actualPrice: 14.99 EUR
+actualPrice: 14.9 EUR
 currency: EUR
-price: 14.99
+price: 14.9
 comparePrice: 39.95 EUR
 prodname: 'Warner Bros Interactive Spain - LEGO: Jurassic World'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07WHT7QZ1/?tag=tolees-21'
-descuento: '62.48'
-average: '20.3224742268038'
+descuento: '62.70'
+average: '20.2138383838381'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
