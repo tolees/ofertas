@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los productos Nutribén son nacionales, elaborados en nuestra planta de Madrid. Es una de las fábricas de fórmulas infantiles más modernas del mundo, que cuenta con la tecnología más avanzada para garantizar los máximos estándares de calidad
-- Enriquecida en Zinc y Vitamina A, que contribuyen al correcto funcionamiento del sistema inmunitario.
-- Contiene el paraprobiótico BPL1, que ayuda a prevenir la obesidad infantil y DHA que ayuda a la maduración del sistema nervioso central
-- Nutribén Proalfa 3 es un preparado lácteo de crecimiento, etapa 3, para lactantes a partir de los 12 meses. Se puede preparar con cualquier papilla Nutribén. Formato ahorro, 2 unidades de 1200g
-- Sin aceite de palma y con una mezcla de aceites vegetales y lácteos que nos permite mejorar el sabor y olor de nuestras fórmulas y mejorar el perfil de ácidos grasos tomando como modelo la leche materna
 - Enriquecida en tiamina, riboflavina y ácido pantoténico que promueven el correcto funcionamiento del metabolismo energético.
+- Enriquecida en Zinc y Vitamina A, que contribuyen al correcto funcionamiento del sistema inmunitario.
+- Sin aceite de palma y con una mezcla de aceites vegetales y lácteos que nos permite mejorar el sabor y olor de nuestras fórmulas y mejorar el perfil de ácidos grasos tomando como modelo la leche materna
+- Nutribén Proalfa 3 es un preparado lácteo de crecimiento, etapa 3, para lactantes a partir de los 12 meses. Se puede preparar con cualquier papilla Nutribén. Formato ahorro, 2 unidades de 1200g
+- Contiene el paraprobiótico BPL1, que ayuda a prevenir la obesidad infantil y DHA que ayuda a la maduración del sistema nervioso central
+- Los productos Nutribén son nacionales, elaborados en nuestra planta de Madrid. Es una de las fábricas de fórmulas infantiles más modernas del mundo, que cuenta con la tecnología más avanzada para garantizar los máximos estándares de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

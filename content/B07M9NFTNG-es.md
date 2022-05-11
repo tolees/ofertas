@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ▶ COMPATIBILIDAD DE TV – Este soporte tv de suelo es adaptado para las televisiones de 32 a 70 pulgadas, estándar VESA (distancia entre orificios de montaje) desde 100 (w) mm x 100 (h) mm a 600 (w) mm x 400 (h) mm.
-- ▶ MÁS CARACTERÍSTICAS – Ofrecemos abrazaderas para organizar las cabels y pie antideslizante para proteger su alfombra y suelo.
 - ▶INSTALACIÓN Y CALIDAD – El paquete incluye todos los accesorios y la instrucción ilustrado. Es muy fácil de montar siguiendo la instrucción. Y ofrecemos 5 años de garantía de calidad.
+- ▶ COMPATIBILIDAD DE TV – Este soporte tv de suelo es adaptado para las televisiones de 32 a 70 pulgadas, estándar VESA (distancia entre orificios de montaje) desde 100 (w) mm x 100 (h) mm a 600 (w) mm x 400 (h) mm.
 - ▶ SEGURA Y FUERTE – Usan la base que está hecho de cristal templado y el poste grueso para soportar la telelvision mejor. El diseño de "cerradura de soporte" se puede proteger su television sin caerse ni inclinar a un lado.
+- ▶ MÁS CARACTERÍSTICAS – Ofrecemos abrazaderas para organizar las cabels y pie antideslizante para proteger su alfombra y suelo.
 - ▶ GIRATORIO Y ALTURA AJUSTABLE – Este soporte tv pie se puede girar 30° a la izquierda y a la derecha respectivamente y ajustar la altura de 1111 a 1411 mm para proporcionarle un mejor ángulo de visión.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

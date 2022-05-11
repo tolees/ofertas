@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre: Cordones
+- Material exterior: Cuero
 - Material de la suela: Sintético
 - Revestimiento: Tela
-- Material exterior: Cuero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

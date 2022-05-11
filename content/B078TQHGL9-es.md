@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material exterior: Cuero sintético
+- Cierre: Cordones
+- Anchura del zapato: Normal
+- Composición: Microfibra y malla
+- Material de la suela: Sintético
 - Tipo de tacón: Plano
 - Revestimiento: Tela
-- Cierre: Cordones
-- Material exterior: Cuero sintético
-- Composición: Microfibra y malla
-- Anchura del zapato: Normal
-- Material de la suela: Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escudo y estrella de campeones del mundo bordadas
 - Incluye camiseta, short y medias
 - Producto oficial Licenciado
+- Escudo y estrella de campeones del mundo bordadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

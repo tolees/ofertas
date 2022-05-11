@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRÁCTICA Y COMPACTA: El mango de Viaggio Pro cuenta con el mango abatible para ocupar el mínimo espacio posible de almacenaje y dejar espacio al resto del equipaje.
-- VAPOR VERTICAL DESINFECTANTE: El potente vapor de la plancha consigue destruir el 99,9999% de virus y bacterias*, de forma eficaz y fiable con una sola pasada.
-- RESULTADOS ÓPTIMOS: Gracias a su golpe de vapor de 45g/min eliminaras hasta las arrugas más difíciles. Cuenta con un vapor continuo de 0 a 10g/min.
 - GRAN POTENCIA: Máxima potencia de 1100W para que no pierdas el tiempo durante tu viaje. Plancha tus prendas de forma práctica y rápida con la plancha de viaje Viaggio Pro de Solac.
 - BI-VOLTAJE: Cuenta con un selector de tensión para adaptarse a las distintas instalaciones eléctricas de cada país.
+- VAPOR VERTICAL DESINFECTANTE: El potente vapor de la plancha consigue destruir el 99,9999% de virus y bacterias*, de forma eficaz y fiable con una sola pasada.
+- RESULTADOS ÓPTIMOS: Gracias a su golpe de vapor de 45g/min eliminaras hasta las arrugas más difíciles. Cuenta con un vapor continuo de 0 a 10g/min.
+- PRÁCTICA Y COMPACTA: El mango de Viaggio Pro cuenta con el mango abatible para ocupar el mínimo espacio posible de almacenaje y dejar espacio al resto del equipaje.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

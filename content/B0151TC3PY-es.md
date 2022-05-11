@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Conector XLR macho a hembra
 - Cable audio de alimentación que proporciona una conexión clara con baja impedancia
-- Obediente RoHS
 - Chaqueta externa duradera y flexible
+- Obediente RoHS
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Trama surrealista y arenosa: ambientada en un Miami alternativo de 1989, asumirás el papel de un misterioso antihéroe en un alboroto asesino contra el sombrío inframundo a instancias de las voces de tu contestador automático.
-- Infinitas hostilidades: Ajusta tus técnicas de combate a los cambios de narrativa entre facciones y familiarízate con variaciones únicas empleando nuevas armas y más movimientos y ataques cuerpo a cuerpo.
-- Estilo distintivo: el estilo visual inconfundible de Hotline Miami, una banda sonora de conducción y una cadena surrealista de eventos te harán cuestionar tu propia sed de sangre mientras te empujan al límite con un desafío brutalmente implacable.
-- Goza del salvajismo: tiroteos vertiginosos en pasillos de neón manchados de sangre. Empuña 35 armas diferentes, desde escopetas y rifles de asalto hasta katanas y tubos de plomo, todo está a tu disposición.
 - Libro de ilustraciones
+- Trama surrealista y arenosa: ambientada en un Miami alternativo de 1989, asumirás el papel de un misterioso antihéroe en un alboroto asesino contra el sombrío inframundo a instancias de las voces de tu contestador automático.
+- Goza del salvajismo: tiroteos vertiginosos en pasillos de neón manchados de sangre. Empuña 35 armas diferentes, desde escopetas y rifles de asalto hasta katanas y tubos de plomo, todo está a tu disposición.
+- Estilo distintivo: el estilo visual inconfundible de Hotline Miami, una banda sonora de conducción y una cadena surrealista de eventos te harán cuestionar tu propia sed de sangre mientras te empujan al límite con un desafío brutalmente implacable.
+- Infinitas hostilidades: Ajusta tus técnicas de combate a los cambios de narrativa entre facciones y familiarízate con variaciones únicas empleando nuevas armas y más movimientos y ataques cuerpo a cuerpo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
