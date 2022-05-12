@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Caja Acero chapado en oro, esfera Rosa
+- Resistente al agua: 30m
 - Movimiento Cuarzo
 - Brazalete Marrón Piel de vaca
-- Resistente al agua: 30m
 - Diámetro caja: 20mm
-- Caja Acero chapado en oro, esfera Rosa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
