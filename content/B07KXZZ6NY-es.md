@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elimina las manchas de la superficie
 - Pasta de dientes con una banda refrescante para una sensación extra de frescura
+- Elimina las manchas de la superficie
 - Protección anticaries probada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
