@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Encendido instantáneo, no necesita tiempo de calentamiento
+- Larga duración: hasta 20000 horas y hasta 100000 ciclos de encendido
 - Consumo de energía 5 kWh/1000h y 470 lm
 - Volumen de suministro: 12 x Lámpara LED E14, 5 W, 230 V, Tunable White, 2700…6500 K, Regulable, 100 % Libre de mercurio
 - Menor disipación de calor (en comparación con el producto de referencia estándar)
-- Encendido instantáneo, no necesita tiempo de calentamiento
-- Larga duración: hasta 20000 horas y hasta 100000 ciclos de encendido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
