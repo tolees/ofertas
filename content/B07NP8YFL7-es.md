@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material duradero
 - Camiseta tiempo libre y sportwear mujer
 - Ropa deportiva nike
+- Material duradero
 - W nsw tee essntl crp icn ftra (bv6175-010)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
