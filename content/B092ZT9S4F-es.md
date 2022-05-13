@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'edc by Esprit 101CC2I306 Suter Pulver  044/gris Claro 5  XL para Hombre'
-date: 2022-05-11 00:06:27
+date: 2022-05-13 03:00:44
 image: 'https://m.media-amazon.com/images/I/41lI3dcWrZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suéter
 - Sudadera
 - Cómodo jersey de punto con estructura de algodón orgánico
 - Sostenible
-- Suéter
 
 [🛒 Comprar!!!]({{< param buyurl >}})

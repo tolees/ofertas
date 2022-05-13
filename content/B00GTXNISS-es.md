@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'COBECO Anal Lubricant Waterbased  Transparent  1 L'
-date: 2022-05-10 21:05:31
+date: 2022-05-13 02:43:38
 image: 'https://m.media-amazon.com/images/I/314wAoEZQwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'COBECO'
 buyurl: 'https://www.amazon.es/dp/B00GTXNISS/?tag=tolees-21'
 descuento: '35.05'
-average: '20.57875'
+average: '20.67'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suavemente
+- No se seca
 - Lubricante anal
 - No pegajosa
-- No se seca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
