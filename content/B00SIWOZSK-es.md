@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Invicta Aviator 19173 Reloj para Hombre Cuarzo - 48mm'
-date: 2022-05-01 01:23:19
+date: 2022-05-13 00:21:21
 image: 'https://m.media-amazon.com/images/I/512e6OLELFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'INVICTA'
 buyurl: 'https://www.amazon.es/dp/B00SIWOZSK/?tag=tolees-21'
 descuento: '37.57'
-average: '142.769090909091'
+average: '145.512307692308'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistencia a la presión de aqua de 10 bares
-- El Invicta 19173 tiene una caja de acero inoxidable de 48 millimetros con una esfera azul
-- 2 años de garantía Invicta
-- Esta modelo funciona con un movimiento de Cuarzo preciso
 - Este modelo es parte de la colección Invicta Aviator
+- 2 años de garantía Invicta
+- Resistencia a la presión de aqua de 10 bares
+- Esta modelo funciona con un movimiento de Cuarzo preciso
+- El Invicta 19173 tiene una caja de acero inoxidable de 48 millimetros con una esfera azul
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

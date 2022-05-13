@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pegasus Spiele - Cubitos'
-date: 2022-05-09 14:43:56
+date: 2022-05-12 23:47:21
 image: 'https://m.media-amazon.com/images/I/51zBw8W-LGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pegasus Spiele'
 buyurl: 'https://www.amazon.es/dp/B08HHZ8C72/?tag=tolees-21'
 descuento: '40.08'
-average: '31.185'
+average: '31.1966666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Spieldauer: 30 60 Minuten.2 4 Spieler
+- Ein Mix aus Strategie und Würfelglück bringt den Sieg
+- In jeder Runde bewegt sich das Team der Spieler über eine der sieben Rennstrecken
 - Kennerspiel ab 10 Jahren
 - Würfelrennspiel
-- In jeder Runde bewegt sich das Team der Spieler über eine der sieben Rennstrecken
-- Ein Mix aus Strategie und Würfelglück bringt den Sieg
-- Spieldauer: 30 60 Minuten.2 4 Spieler
 
 [🛒 Visítala!!!]({{< param buyurl >}})
