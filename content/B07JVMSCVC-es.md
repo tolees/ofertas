@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dockers Smart Supreme Flex Alpha Tapered-WONDERKNIT Pantalones  Gris  Deep Depths 0003   33W / 34L para Hombre'
-date: 2022-05-03 07:43:46
+date: 2022-05-14 23:22:38
 image: 'https://m.media-amazon.com/images/I/31-9K-mvFML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
