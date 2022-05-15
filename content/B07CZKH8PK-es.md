@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FOREO UFO mini Mint  dispositivo para tratamiento facial de 2 minutos con luz LED de espectro completo  calor  masaje T-Sonic  para mascarillas UFO seleccionadas  1 Unidad  Paquete de 1 '
-date: 2022-05-14 12:28:04
+date: 2022-05-15 12:55:10
 image: 'https://m.media-amazon.com/images/I/41entnYkqWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Foreo'
 buyurl: 'https://www.amazon.es/dp/B07CZKH8PK/?tag=tolees-21'
 descuento: '50.01'
-average: '81.0786666666667'
+average: '79.104375'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
