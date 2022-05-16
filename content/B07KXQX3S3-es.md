@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk microSDXC UHS-I Tarjeta para Nintendo Switch 128GB  Producto con Licencia de Nintendo'
-date: 2022-05-06 14:10:17
+date: 2022-05-16 21:32:36
 image: 'https://m.media-amazon.com/images/I/41wuFwHgE9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07KXQX3S3-es SanDisk microSDXC UHS-I Tarjeta para Nintendo Switch 128GB...'
 sku: 'B07KXQX3S3-es'
 tags: [ 'Accesorios para Nintendo Switch','Electrónica','Hardware y juegos para Nintendo Switch','Videojuegos','sandisk','🇪🇸', ]
-actualPrice: 17.99 EUR
+actualPrice: 19.0 EUR
 currency: EUR
-price: 17.99
+price: 19.0
 comparePrice: 39.99 EUR
 prodname: 'SanDisk microSDXC UHS-I Tarjeta para Nintendo Switch 128GB  Producto con Licencia de Nintendo'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B07KXQX3S3/?tag=tolees-21'
-descuento: '55.01'
-average: '24.883647058823'
+descuento: '52.49'
+average: '24.8721330724065'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
