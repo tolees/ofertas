@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ricola caramelos - caja/estuche defensas 50g  sabor equinacea  miel y limón'
-date: 2022-05-08 08:38:54
+date: 2022-05-17 15:51:24
 image: 'https://m.media-amazon.com/images/I/51ARPe92FZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ricola'
 buyurl: 'https://www.amazon.es/dp/B07ZJNG8JX/?tag=tolees-21'
 descuento: '39.89'
-average: '2.1625'
+average: '2.175'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modo de empleo: Dejar que se disuelva en la boca, consumir el caramelo cuando se desee.
-- Efecto balsámico que refresca la garganta.
-- Caramelos Ricola Equinácea, Miel y Limón, elaborados a base de 13 hierbas suizas, proporcionan un suave efecto balsámico que refresca la garganta.
 - Caramelos Ricola Equinácea, Miel y Limón
+- Modo de empleo: Dejar que se disuelva en la boca, consumir el caramelo cuando se desee.
+- Caramelos Ricola Equinácea, Miel y Limón, elaborados a base de 13 hierbas suizas, proporcionan un suave efecto balsámico que refresca la garganta.
+- Efecto balsámico que refresca la garganta.
 - Formato: Caja 50 g.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
