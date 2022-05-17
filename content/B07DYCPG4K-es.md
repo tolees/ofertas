@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela exterior con textura de inspiración alpargata
 - Diseño abierto que se puede llevar pisando el contrafuerte del talón
-- Acceso elástico para un ajuste seguro
 - Sidewall envuelto en yuta
+- Suela exterior con textura de inspiración alpargata
 - Suela interior con espuma de memoria para un confort instantáneo
+- Acceso elástico para un ajuste seguro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
