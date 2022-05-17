@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Babylons Fall PS5 ESP'
-date: 2022-05-02 12:11:21
+date: 2022-05-17 08:50:45
 image: 'https://m.media-amazon.com/images/I/61v8gSqVZ4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09P4MPBXN-es Koch Media - Babylons Fall PS5 ESP'
 sku: 'B09P4MPBXN-es'
 tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','koch media','🇪🇸', ]
-actualPrice: 26.9 EUR
+actualPrice: 20.65 EUR
 currency: EUR
-price: 26.9
+price: 20.65
 comparePrice: 69.99 EUR
 prodname: 'Koch Media - Babylons Fall PS5 ESP'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B09P4MPBXN/?tag=tolees-21'
-descuento: '61.57'
-average: '32.9'
+descuento: '70.50'
+average: '30.45'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Decide como quieres jugar, escogiendo entre una gran variedad de armas, cada una con sus propias cualidades y habilidades. Personaliza tu equipamiento para llevar hasta 4 armas en todo momento.
 - Asciende a la grandeza mientras escalas la amenazante Torre de Babel y descubres su mítico botín.
 - Mediante el dominio de los poderes de tu ataúd de Gideon, descubrirás tu auténtico potencial y te volverás lo suficientemente fuerte para sobrevivir a la cima y descubrir los secretos que allí te esperan.
+- Decide como quieres jugar, escogiendo entre una gran variedad de armas, cada una con sus propias cualidades y habilidades. Personaliza tu equipamiento para llevar hasta 4 armas en todo momento.
 - Explora el maravilloso entorno de fantasia que toma su inspiración de los cuadros al óleo del medievo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

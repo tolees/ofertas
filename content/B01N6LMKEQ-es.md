@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Badabulle Tienda anti-uv  color azul'
-date: 2022-05-16 08:28:23
+date: 2022-05-17 09:00:50
 image: 'https://m.media-amazon.com/images/I/41SEVDJ-uYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Badabulle'
 buyurl: 'https://www.amazon.es/dp/B01N6LMKEQ/?tag=tolees-21'
 descuento: '40.13'
-average: '26.0166666666667'
+average: '25.335'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo compacto: una vez plegado tiene un diámetro de 42 cm
-- El formato abierto tiene las dimensiones: 125 x 100 x 85 cm
 - Para proteger de los rayos UV-50, de la arena y del viento
 - Tienda anti-UV de color azul
+- El formato abierto tiene las dimensiones: 125 x 100 x 85 cm
+- Modelo compacto: una vez plegado tiene un diámetro de 42 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
