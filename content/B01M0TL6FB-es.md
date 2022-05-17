@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pierna estrecha de corte estrecho
-- Material: 41% viscosa
-- Cintura ajustable
 - Modelo Nitclas
+- Material: 41% viscosa
 - Ocio
+- Cintura ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
