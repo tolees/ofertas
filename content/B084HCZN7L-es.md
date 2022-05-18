@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Serie Genuine
-- Número de piezas: 500, medida aproximada una vez montado: 48 x 34
-- Edad recomendada: a partir de 10 años
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Edad recomendada: a partir de 10 años
+- Serie Genuine
+- Número de piezas: 500, medida aproximada una vez montado: 48 x 34
 
 [🛒 Visítala!!!]({{< param buyurl >}})
