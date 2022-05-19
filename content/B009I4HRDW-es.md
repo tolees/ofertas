@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mannesmann M29166 - Maletín con juego de llaves de vaso y puntas de destornillador  130 piezas '
-date: 2022-05-17 14:03:45
+date: 2022-05-19 05:18:04
 image: 'https://m.media-amazon.com/images/I/51Sabq7g-3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mannesmann'
 buyurl: 'https://www.amazon.es/dp/B009I4HRDW/?tag=tolees-21'
 descuento: '41.35'
-average: '28.4773548387095'
+average: '28.4423472668809'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Maletín de plástico duro con llaves de vaso y puntas
-- Incluidas en un maletín de plástico
-- 13 x llaves tubulares de cubo 6,3 mm (1/4"") de 4 - 14 mm
-- Asiento de la herramienta: 1/4 " (6.3 mm)
 - Extensión de 50 mm
+- 13 x llaves tubulares de cubo 6,3 mm (1/4"") de 4 - 14 mm
+- Incluidas en un maletín de plástico
+- Maletín de plástico duro con llaves de vaso y puntas
+- Asiento de la herramienta: 1/4 " (6.3 mm)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
