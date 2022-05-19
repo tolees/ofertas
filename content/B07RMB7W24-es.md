@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Funko - Pop! TV: Game of Thrones - Arya w/Two Headed Spear Figura Coleccionable  Multicolor  44819 '
-date: 2022-05-08 16:22:36
+date: 2022-05-19 21:20:40
 image: 'https://m.media-amazon.com/images/I/41XW2IPprJS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07RMB7W24-es Funko - Pop! TV: Game of Thrones - Arya w/Two Headed Spear...'
 sku: 'B07RMB7W24-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Botones de los mandos para PlayStation 4','Coleccionables','Figuras de muñecos chibi','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Herramientas de reparación y repuestos para PlayStation 4','Juguetes','Juguetes y juegos','Merchandising y estatuas y bustos','Repuestos para PlayStation 4','Videojuegos','funko','🇪🇸', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Coleccionables','Figuras de muñecos chibi','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juguetes','Juguetes y juegos','Merchandising y estatuas y bustos','Videojuegos','funko','🇪🇸', ]
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07RMB7W24/?tag=tolees-21'
 descuento: '44.09'
-average: '10.7953211009173'
+average: '10.7921818181817'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El producto se envía en una caja ilustrada con ventana
 - Figura de colección de la marca Funko
-- El artículo es adecuado para todos los fanáticos de Game of Thrones
 - Recomendado para niños a partir de 3 años
+- El producto se envía en una caja ilustrada con ventana
+- El artículo es adecuado para todos los fanáticos de Game of Thrones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
