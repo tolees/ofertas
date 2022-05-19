@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- S1-Ropa de nieve
-- El peso del paquete del producto es de 500 g
 - Dimensiones del paquete: 101 x 96 x 101 cm
 - País de origen: China
+- El peso del paquete del producto es de 500 g
+- S1-Ropa de nieve
 
 [🛒 Aquí!!!]({{< param buyurl >}})
