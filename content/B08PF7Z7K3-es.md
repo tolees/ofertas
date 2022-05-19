@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- High Rise
-- Estándar
 - Ajuste: ajustado
+- Estándar
+- High Rise
 
 [🛒 Aquí!!!]({{< param buyurl >}})
