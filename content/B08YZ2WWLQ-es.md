@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La plantilla es de PET reciclado con el innovador sistema Gio Memory Effect
 - Producto sostenible
 - Forro acolchado y transpirable de poliéster
+- La plantilla es de PET reciclado con el innovador sistema Gio Memory Effect
 
 [🛒 Visítala!!!]({{< param buyurl >}})

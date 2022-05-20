@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta modelo funciona con un movimiento de Cuarzo preciso
-- 2 años de garantía Invicta
 - El Invicta 19253 tiene una caja de acero inoxidable de 51 millimetros con una esfera negro
+- Esta modelo funciona con un movimiento de Cuarzo preciso
 - Este modelo es parte de la colección Invicta I-Force
 - Resistencia a la presión de aqua de 10 bares
+- 2 años de garantía Invicta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
