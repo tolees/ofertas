@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - SIN TEARING DE PANTALLA: disfruta de un juego fluido y despídete de las imágenes cortadas o congeladas y el tearing gracias a la tecnología NVIDIA G-SYNC, que sincroniza la velocidad de fotogramas de tu pantalla con tu tarjeta de vídeo
-- COLORES VIBRANTES: juega con la calidad que te mereces con el DisplayHDR y una amplia gama de colores de gran precisión. Domina la competición y afina tus imágenes con Dark Boost para obtener mayores detalles en entornos poco iluminados
-- MONITOR FULL HD: disfruta de imágenes vibrantes y colores brillantes con el monitor Predator XB3 para ordenador gaming. Sumérgete en el juego con la pantalla LED retroiluminada de 24,5 pulgadas y resolución Full HD de 1920x1080 px y relación 16:9
 - RESPUESTA RÁPIDA: el monitor tiene una frecuencia de refresco de 144 Hz y un tiempo de respuesta de 2ms para minimizar el desenfoque y reaccionar rápidamente a lo que ocurre en la pantalla de gaming como un verdadero gamer profesional
+- MONITOR FULL HD: disfruta de imágenes vibrantes y colores brillantes con el monitor Predator XB3 para ordenador gaming. Sumérgete en el juego con la pantalla LED retroiluminada de 24,5 pulgadas y resolución Full HD de 1920x1080 px y relación 16:9
+- COLORES VIBRANTES: juega con la calidad que te mereces con el DisplayHDR y una amplia gama de colores de gran precisión. Domina la competición y afina tus imágenes con Dark Boost para obtener mayores detalles en entornos poco iluminados
 - DISEÑO ERGONÓMICO: el monitor ordenador está diseñado ergonómicamente para ajustar la inclinación de -5° a 25°, el giro y la altura. Las patas con forma geométrica y con corte de diamante acentuan la forma metálica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
