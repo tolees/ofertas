@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El acondicionador Liso Asiático de Gliss es adecuado para cabello rebelde o difícil de alisar
-- Proporciona un desenredo perfecto, un alisado fácil y contiene un 95% de ingredientes de origen natural incluyendo agua
-- Aplicación: masajear sobre el cabello húmedo después del lavado. Aclarar con abundante agua. Usar regularmente
 - Gama Alisado Fácil, con con complejo lípido + esencia de flor asiática. Suaviza el cabello áspero y desigual
+- Aplicación: masajear sobre el cabello húmedo después del lavado. Aclarar con abundante agua. Usar regularmente
+- El acondicionador Liso Asiático de Gliss es adecuado para cabello rebelde o difícil de alisar
 - Cabello visiblemente más liso; con efecto anti-encrespamiento y anti-humedad
+- Proporciona un desenredo perfecto, un alisado fácil y contiene un 95% de ingredientes de origen natural incluyendo agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
