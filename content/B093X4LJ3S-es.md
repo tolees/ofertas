@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 574 Court  Zapatillas Hombre  Burgundy  37.5 EU'
-date: 2022-05-13 09:14:10
+date: 2022-05-20 16:47:34
 image: 'https://m.media-amazon.com/images/I/419WlLRO3BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B093X4LJ3S-es New Balance 574 Court Zapatillas Hombre Burgundy 37.5 EU'
 sku: 'B093X4LJ3S-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','new balance','🇪🇸', ]
-actualPrice: 51.58 EUR
+actualPrice: 49.65 EUR
 currency: EUR
-price: 51.58
+price: 49.65
 comparePrice: 80.0 EUR
 prodname: 'New Balance 574 Court  Zapatillas Hombre  Burgundy  37.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B093X4LJ3S/?tag=tolees-21'
-descuento: '35.53'
-average: '51.745'
+descuento: '37.94'
+average: '51.0466666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de gamuza y malla
 - Cierre de cordones para un ajuste seguro
 - La entresuela REVlite ofrece una amortiguación increíblemente ligera
+- Parte superior de gamuza y malla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
