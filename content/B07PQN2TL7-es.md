@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- tank top with lace
 - v-neck
+- tank top with lace
 
 [🛒 Visítala!!!]({{< param buyurl >}})

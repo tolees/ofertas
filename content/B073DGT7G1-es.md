@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2754 Lamew  Zapatillas Mujer  Weiß White  42 EU'
-date: 2022-05-14 07:09:58
+date: 2022-05-21 02:11:37
 image: 'https://m.media-amazon.com/images/I/41M-48IeCbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B073DGT7G1-es Superga 2754 Lamew Zapatillas Mujer Weiß White 42 EU'
 sku: 'B073DGT7G1-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','superga','🇪🇸', ]
-actualPrice: 41.05 EUR
+actualPrice: 31.46 EUR
 currency: EUR
-price: 41.05
+price: 31.46
 comparePrice: 75.0 EUR
 prodname: 'Superga 2754 Lamew  Zapatillas Mujer  Weiß White  42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B073DGT7G1/?tag=tolees-21'
-descuento: '45.27'
-average: '23.324'
+descuento: '58.05'
+average: '24.68'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

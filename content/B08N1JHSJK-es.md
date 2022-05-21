@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Patrón
+- Fácil
 - Blusa
 - Cremallera
-- Fácil
+- Patrón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
