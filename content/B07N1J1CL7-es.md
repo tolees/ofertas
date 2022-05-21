@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro: tela.
-- Diámetro de la pantorrilla: normal.
 - Material exterior: tela.
 - Ancho del zapato: normal.
+- Diámetro de la pantorrilla: normal.
 - Cierre: cordón.
-- Material de la suela: goma.
 - Tipo de tacón: tacón de bloqueo.
+- Forro: tela.
+- Material de la suela: goma.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
