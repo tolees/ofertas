@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Daredevil Daredevil Vinilo Bobble-Head 90 Figura de colección Standard  Vinilo '
-date: 2022-05-15 17:28:09
+date: 2022-05-21 16:02:07
 image: 'https://m.media-amazon.com/images/I/514Wu2Vb+HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
