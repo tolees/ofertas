@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok TS Dreamblend Cotton OTH - Sudadera'
-date: 2022-05-19 13:41:13
+date: 2022-05-21 00:27:27
 image: 'https://m.media-amazon.com/images/I/31A0TDBYZsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para entrenar
 - Punto liso speedwick, 53 % Poliéster reciclado, 25 % Viscosa, 22 % Algodón
-- Espalda deportiva
 - Cuello redondo
+- Espalda deportiva
+- Adecuado para entrenar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

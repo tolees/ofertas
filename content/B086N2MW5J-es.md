@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Aerotwin A929S limpiaparabrisas  Longitud 600 mm/475 mm  1 juego para el parabrisas  frontal  + Rear A281H limpiaparabrisas  Longitud 280 mm  para la ventana trasera'
-date: 2022-05-07 21:21:25
+date: 2022-05-20 23:14:52
 image: 'https://m.media-amazon.com/images/I/31Q02Ji0raL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch'
 buyurl: 'https://www.amazon.es/dp/B086N2MW5J/?tag=tolees-21'
 descuento: '54.59'
-average: '23.555'
+average: '23.5466666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
