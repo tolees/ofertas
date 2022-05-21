@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EMTEC Internal SSD X150 240 GB  Negro'
-date: 2022-05-19 21:45:33
+date: 2022-05-21 13:27:28
 image: 'https://m.media-amazon.com/images/I/41K04-r32PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EMTEC'
 buyurl: 'https://www.amazon.es/dp/B00SD9ISKY/?tag=tolees-21'
 descuento: '46.42'
-average: '24.5463636363636'
+average: '24.625'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Capacidad de almacenamiento de memoria: 240.0
 - Dispositivos compatibles: Ordenador de sobremesa
 - 240 GB, 2.5", 520 MB/s, 6 Gbit/s
-- Tipo de conectividad: SATA
-- Capacidad de almacenamiento de memoria: 240.0
 - Capacidad del disco duro (GB): 1.0
+- Tipo de conectividad: SATA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
