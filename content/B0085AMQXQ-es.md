@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño: 20 x 16 cm.
-- Puño elástico y forrado en suave algodón egipcio para un lavado y limpieza con suavidad.
-- 100% orgánico, biodegradable y ecológico.
 - Fabricado de lufa egipcia superior.
+- Puño elástico y forrado en suave algodón egipcio para un lavado y limpieza con suavidad.
+- Tamaño: 20 x 16 cm.
 - Guante de lufa para limpieza y exfoliación de calidad prémium.
+- 100% orgánico, biodegradable y ecológico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

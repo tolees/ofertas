@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistente al agua: 30m
-- Diámetro caja: 20mm
+- Movimiento Cuarzo
 - Brazalete Marrón Piel de vaca
 - Caja Acero chapado en oro, esfera Rosa
-- Movimiento Cuarzo
+- Diámetro caja: 20mm
+- Resistente al agua: 30m
 
 [🛒 Comprar!!!]({{< param buyurl >}})
