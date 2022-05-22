@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tienda anti-UV de color azul
-- Modelo compacto: una vez plegado tiene un diámetro de 42 cm
 - El formato abierto tiene las dimensiones: 125 x 100 x 85 cm
 - Para proteger de los rayos UV-50, de la arena y del viento
+- Modelo compacto: una vez plegado tiene un diámetro de 42 cm
+- Tienda anti-UV de color azul
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
