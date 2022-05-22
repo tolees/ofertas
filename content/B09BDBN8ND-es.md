@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillo canguro
-- Capucha con cordón externo para ajuste.
 - Sudadera con un estilo inconfundible
+- Capucha con cordón externo para ajuste.
+- Bolsillo canguro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

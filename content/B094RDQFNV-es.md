@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo.
 - Ideal para: entrenamientos de intensidad media.
+- Punto entrelazado, 85 % poliéster reciclado / 15 % elastán.
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 - Ajuste ceñido, impacto medio.
-- Punto entrelazado, 85 % poliéster reciclado / 15 % elastán.
+- Cuello redondo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
