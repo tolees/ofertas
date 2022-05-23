@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance Mujer 624v5 Cross Trainer  Blanco  35 EU XX-Wide'
-date: 2022-05-22 07:46:45
+date: 2022-05-23 09:30:31
 image: 'https://m.media-amazon.com/images/I/319r7KbXDSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zygomatic-Combo Color Español Asmodée Juego de Conquista Estratégica  2-4 Jugadores  multicolor ZYGCOM01ESPT   color/modelo surtido'
-date: 2022-05-20 10:56:51
+date: 2022-05-23 09:43:55
 image: 'https://m.media-amazon.com/images/I/512uFoKSwBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Zygomatic'
 buyurl: 'https://www.amazon.es/dp/B07Y8Q7JQ4/?tag=tolees-21'
 descuento: '41.18'
-average: '16.2921052631579'
+average: '16.1404761904762'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
