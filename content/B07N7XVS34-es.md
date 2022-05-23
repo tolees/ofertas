@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Concentradores y Difusor - Incluye 1 concentrador para secar el cabello y 1 difusor que añade volumen al pelo y acentúa el rizo
 - Rejilla de Cerámica y Turmalina - La rejilla trasera del secador es removible para fácil limpieza; cable de 1.8 m y gancho para colgar
-- Secador de Pelo Iónico - Generador iónico: 90% más de iones para un pelo sin encrespamiento y brillante, luz indicadora de iones
-- Potente Secador de 2400 W - Gran potencia de 2400 W y flujo de aire de 90km/h para un secado rápido
 - 3 Temperaturas y 2 Velocidades - El secador cuenta con 3 temperaturas y 2 velocidades, función turbo y ráfaga de aire frío
+- Potente Secador de 2400 W - Gran potencia de 2400 W y flujo de aire de 90km/h para un secado rápido
+- Secador de Pelo Iónico - Generador iónico: 90% más de iones para un pelo sin encrespamiento y brillante, luz indicadora de iones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

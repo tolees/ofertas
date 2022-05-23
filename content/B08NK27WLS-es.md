@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s  LEVIS WORDMARK BIFOLD WITH COIN POCKET Homme  REGULAR BLACK  Taille Unique'
-date: 2022-05-22 20:41:56
+date: 2022-05-23 21:51:17
 image: 'https://m.media-amazon.com/images/I/31fzdgNF5LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
