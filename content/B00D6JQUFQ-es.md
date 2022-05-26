@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agua Brava 492-040191 Colonia - 200 ml'
-date: 2022-05-18 12:35:36
+date: 2022-05-25 23:42:40
 image: 'https://m.media-amazon.com/images/I/51VM-plpsiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'AGUA BRAVA'
 buyurl: 'https://www.amazon.es/dp/B00D6JQUFQ/?tag=tolees-21'
 descuento: '41.10'
-average: '16.6333333333333'
+average: '16.775'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
