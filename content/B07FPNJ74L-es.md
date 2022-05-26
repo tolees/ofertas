@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vaqueros slim fit para una silueta estilizada
 - Look naturalmente desgastado creado a mano
+- Vaqueros slim fit para una silueta estilizada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
