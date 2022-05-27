@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Calvo Atún Claro en Aceite de Oliva Virgen Extra  3 x 60g'
-date: 2022-05-21 06:46:52
-image: 'https://m.media-amazon.com/images/I/41KCUqRmFpL._SL500_._SL400_.jpg'
+date: 2022-05-27 20:36:11
+image: 'https://m.media-amazon.com/images/I/31Y6amoN2dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Atun enlatado
-- Con el toque justo de aceite
-- Una textura y un sabor exquisito
 - Rico en potasio
 - Perfecto para una comida rápida
+- Una textura y un sabor exquisito
+- Con el toque justo de aceite
+- Atun enlatado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
