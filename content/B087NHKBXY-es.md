@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop TV It s Always Sunny in Philadelphia-Princess DEE Figura coleccionable  Multicolor  51620 '
-date: 2022-05-22 13:30:38
+date: 2022-05-27 15:35:07
 image: 'https://m.media-amazon.com/images/I/41eUnrcO31L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Funko POP! El juguete del año 2018
 - De la colección Its Always Sunny in Philadelphia, Princess Dee como figura de vinilo POP de Funko
 - ¡Descúbre otras figuras de la colección Its Always Sunny in Philadelphia y colecciónalas todas!
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [🛒 Visítala!!!]({{< param buyurl >}})

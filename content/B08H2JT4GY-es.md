@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Days of Wonder Small World of Warcraft - ¡La guerra por Azeroth ha comenzado!  DOWSW16ES '
-date: 2022-05-25 15:41:49
+date: 2022-05-27 15:20:50
 image: 'https://m.media-amazon.com/images/I/51nPIw1zhsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Days of Wonder'
 buyurl: 'https://www.amazon.es/dp/B08H2JT4GY/?tag=tolees-21'
 descuento: '43.66'
-average: '41.4027272727273'
+average: '41.2383333333334'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con una duración de 60-90 Minutos por partida
-- ¡La guerra por Azeroth ha comenzado!
-- Recomendado a Partir de 8 Años de Edad
-- Juego de 2 a 5 Jugadores
 - Juego de Mesa en Español
+- ¡La guerra por Azeroth ha comenzado!
+- Juego de 2 a 5 Jugadores
+- Recomendado a Partir de 8 Años de Edad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
