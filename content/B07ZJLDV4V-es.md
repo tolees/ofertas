@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cordón
-- Cintura elástica
 - algodón
+- Cintura elástica
 - Pantalones de chándal
 - Cómodo
 

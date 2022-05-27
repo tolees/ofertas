@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tecnología Dri-Fit
-- Tottenham Hotspur Junior - Camiseta de la casa 2021-22
 - Talla: niño grande (11-12, 147-158 cm)
 - Producto nuevo con etiquetas. Artículo auténtico
+- Tottenham Hotspur Junior - Camiseta de la casa 2021-22
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
