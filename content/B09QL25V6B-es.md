@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 4 posiciones para el bebé: de cara a la madre con el bebé en el pecho mirando hacia ti; de lado, ideal para la lactancia; de cara a la calle con el bebé en el pecho mirando hacia el exterior (a partir de 6 kg); de espaldas, para bebés más grandes (a partir de 6 kg)
 - Confort óptimo también para los padres gracias al amplio cinturón de sujeción lumbar y a los tirantes con acolchado adicional para distribuir el peso del niño
 - Forro de tejido transpirable, lavable a 30°C, de secado rápido
-- 4 posiciones para el bebé: de cara a la madre con el bebé en el pecho mirando hacia ti; de lado, ideal para la lactancia; de cara a la calle con el bebé en el pecho mirando hacia el exterior (a partir de 6 kg); de espaldas, para bebés más grandes (a partir de 6 kg)
 - Portabebés de 0 a 36 meses adecuado desde el nacimiento hasta los 3 años aproximadamente (15 kg)
 - Portabebés egonómico: sostiene correctamente la espalda del niño y permite mantener las piernas abiertas (en forma de M) respetando la posición natural
 

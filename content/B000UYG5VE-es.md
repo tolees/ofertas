@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatillas deportivas Vans Authentic de color negro.
 - Consultar la descripción del producto a continuación para obtener información adicional.
+- Zapatillas deportivas Vans Authentic de color negro.
 - Originales. Somos un vendedor autorizado de Vans.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

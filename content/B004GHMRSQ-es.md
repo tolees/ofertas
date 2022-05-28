@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Alcance de suministro: 1x SONAX XTREME Limpiador de Cockpit efecto mate (500 ml) | No de artículo 02832410-544
 - Para la limpieza y el cuidado de todas las superficies plásticas en el interior del automóvil. Sella las superficies mates y estructuradas y de este modo mantiene la estructura de los tableros de instrumentos modernos con grabado fin
 - Deja un fresco aroma agradable. Sin silicona ni disolventes
 - Especialmente apropiado para plásticos con efecto soft-touch. Impide de manera fiable las cargas electrostáticas, tiene un efecto repelente al polvo y protege contra un nuevo ensuciamiento. Se conserva el aspecto mate original del salpicadero y se evitan los molestos reflejos en el parabrisas
-- Alcance de suministro: 1x SONAX XTREME Limpiador de Cockpit efecto mate (500 ml) | No de artículo 02832410-544
 - Protección y cuidado del automóvil. SONAX pasión por los coches - made in Germany
 
 [🛒 Comprar!!!]({{< param buyurl >}})
