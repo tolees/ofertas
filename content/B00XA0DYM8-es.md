@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smirnoff Red  1000ml'
-date: 2022-05-27 18:51:31
+date: 2022-05-28 18:57:55
 image: 'https://m.media-amazon.com/images/I/31gWdWUUd8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Smirnoff'
 buyurl: 'https://www.amazon.es/dp/B00XA0DYM8/?tag=tolees-21'
 descuento: '46.33'
-average: '9.70272727272728'
+average: '9.49750000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - la corona y el escudo de armas representan nuestra herencia rusa
 - Smirnoff 21 es destilada 3 veces y filtrada 10 veces sobre carbón vegetal durante 8 horas, lo que da una pureza y suavidad excepcional
-- Disfruta de tu smirnoff en un vaso alto con hielo y zumo de arándanos. Exprime lima fresca y remueve bien
 - Smirnoff 21 es nuestra famosa receta "secreta"
+- Disfruta de tu smirnoff en un vaso alto con hielo y zumo de arándanos. Exprime lima fresca y remueve bien
 
 [🛒 Aquí!!!]({{< param buyurl >}})
