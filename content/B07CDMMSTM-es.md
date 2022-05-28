@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DIMENSIONES: 49,3 x 42 x 79,6 cm; 34,5 kilogramos
-- KIT INCLUYE: mando a distancia, kit de ventana estándar, filtro antibacteriano (incluido en el dispositivo)
 - ALCANCE Y EFICIENCIA: para habitaciones de 30 a 40 m². Reduce su potencial de calentamiento global gracias al refrigerante sostenible R290. Capacidad de enfriamiento de 9000 BTUs
+- DIMENSIONES: 49,3 x 42 x 79,6 cm; 34,5 kilogramos
 - AIRE SILENCIOSO: Nivel de ruido máximo de 61 dB(A)
+- KIT INCLUYE: mando a distancia, kit de ventana estándar, filtro antibacteriano (incluido en el dispositivo)
 - MANDO A DISTANICA Y PANTALLA LED TÁCTIL: Podrás controlar la temperatura, tiempo, velocidad y programar el TEMPORIZADOR hasta 24 h
-- PRÁCTICO: Ruedas de 360​ grados para una mejor movilidad, podrás transportarlo fácilmente a la habitación que desees
 - 4 Modos: CALOR, REFRIGERACIÓN, VENTILADOR, DESHUMIDIFICADOR, AUTOMÁTICO. Potencia a 3 niveles de velocidad (Bajo, Medio, Alto). Bajo consumo energético, mínimo de clase A en modo refrigeración
+- PRÁCTICO: Ruedas de 360​ grados para una mejor movilidad, podrás transportarlo fácilmente a la habitación que desees
 
 [🛒 Visítala!!!]({{< param buyurl >}})
