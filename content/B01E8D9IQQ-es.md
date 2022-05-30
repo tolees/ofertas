@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MAKITA JV101DZ Sierra de calar 10.8 V - 12 V  Multicolor'
-date: 2022-05-28 19:04:32
+date: 2022-05-30 18:35:33
 image: 'https://m.media-amazon.com/images/I/51TJCQexgYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Makita'
 buyurl: 'https://www.amazon.es/dp/B01E8D9IQQ/?tag=tolees-21'
 descuento: '39.81'
-average: '54.0925'
+average: '54.906'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,13 +29,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 3 posiciones de avance pendular + corte recto.
-- Máx. capacidad en madera 90: 65 mm
-- Longitud de carrera: 18 mm
 - Posibilidad de conectarlo a un aspirador.
-- Máx. capacidad en metal 90: 2 mm
+- Máx. capacidad en madera 90: 65 mm
 - Máx. capacidad en aluminio 90: 4 mm
 - Nuevo diseño más compacto y ligero.
 - Carreras por minuto: 0 - 2.850 cpm
+- Longitud de carrera: 18 mm
+- Máx. capacidad en metal 90: 2 mm
 - Mayor velocidad de corte (max 2.900 Rpm) proporciona una mayor eficiencia en el corte.
 - Mango ergonómico recubierto a elastómero para un mejor agarre.
 
