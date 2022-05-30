@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panama Jack Panama 03  Botas para Hombre  Marrón  Bark   43 EU'
-date: 2022-05-29 06:52:24
+date: 2022-05-30 21:32:49
 image: 'https://m.media-amazon.com/images/I/41SUimhe-lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Panama Jack'
 buyurl: 'https://www.amazon.es/dp/B0081JFWY6/?tag=tolees-21'
 descuento: '42.92'
-average: '92.04'
+average: '92.924'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
