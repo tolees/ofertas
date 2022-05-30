@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Biomecanics 211216  Botas Cortas al Tobillo  Azul Marino  Sauvage   32 EU'
-date: 2022-05-21 23:47:17
+date: 2022-05-30 16:48:09
 image: 'https://m.media-amazon.com/images/I/41-Xd6PLMbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Biomecanics'
 buyurl: 'https://www.amazon.es/dp/B08V9CV1GM/?tag=tolees-21'
 descuento: '39.92'
-average: '36.98'
+average: '36.782'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
