@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Replay Anbass Hyperflex Re-Used Jeans  Azul  007 Dark Blue   27W / 32L para Hombre'
-date: 2022-05-25 17:19:19
+date: 2022-05-31 07:09:43
 image: 'https://m.media-amazon.com/images/I/31PVq0fqTCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Algodón reciclado
-- Tamaño del paquete: 7.39 x 29.29 x 28.3 cm
 - Estándar
+- Tamaño del paquete: 7.39 x 29.29 x 28.3 cm
 - Poliéster reciclado de botellas de PET
+- Algodón reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
