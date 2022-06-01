@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain  VG  - LEGO: Jurassic World'
-date: 2022-05-31 13:04:40
+date: 2022-06-01 17:14:43
 image: 'https://m.media-amazon.com/images/I/51lJ-inGo6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain (VG)'
 buyurl: 'https://www.amazon.es/dp/B00WWR5ZQ8/?tag=tolees-21'
 descuento: '81.36'
-average: '11.6013333333333'
+average: '11.35375'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
