@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tecnología ColorStay de larga duración formulada con pigmentos concentrados que se difuminan fácilmente sobre la piel para lograr multitud de looks luminosos
 - Fórmula líquida con partículas reflectantes de luz que proporcionan un brillo luminoso e intenso
 - Fórmula de larga duración para un acabado luminoso durante todo el día.
-- Tecnología ColorStay de larga duración formulada con pigmentos concentrados que se difuminan fácilmente sobre la piel para lograr multitud de looks luminosos
 - El diseño del aplicador permite distribuir el producto de manera uniforme para lograr un look perfecto . Para todo tipo de piel.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

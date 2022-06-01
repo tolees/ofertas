@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban Clubmaster - Gafas de sol para hombre  Multicolor  Marco: Negro/Gold  Vidrio: Verde Clásico W0365   49 milímetros'
-date: 2022-05-28 14:28:24
+date: 2022-06-01 12:32:15
 image: 'https://m.media-amazon.com/images/I/21H4IEZxweL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B001GNBJQO/?tag=tolees-21'
 descuento: '40.87'
-average: '88.7628571428571'
+average: '89.27125'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Protective case included
 - Producto de alta calidad de la marca RAY-BAN
 - Color del producto es multicolor (marco: negro/gold, vidrio: verde clásico w0365)
-- Protective case included
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

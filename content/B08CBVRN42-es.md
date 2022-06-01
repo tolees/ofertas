@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Take Two Interactive Spain - Mafia I - Edición definitiva'
-date: 2022-05-24 21:39:57
+date: 2022-06-01 13:13:42
 image: 'https://m.media-amazon.com/images/I/51syPPvhrlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08CBVRN42-es Take Two Interactive Spain - Mafia I - Edición definitiva'
 sku: 'B08CBVRN42-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','take two interactive spain','🇪🇸', ]
-actualPrice: 9.97 EUR
+actualPrice: 8.97 EUR
 currency: EUR
-price: 9.97
+price: 8.97
 comparePrice: 42.99 EUR
 prodname: 'Take Two Interactive Spain - Mafia I - Edición definitiva'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Take Two Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B08CBVRN42/?tag=tolees-21'
-descuento: '76.81'
-average: '18.8579999999997'
+descuento: '79.13'
+average: '18.6430434782606'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
