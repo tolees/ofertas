@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones: 20 y 24 cm
 - Apta para todo tipo de fuegos, incluido inducción
-- Tipo de producto: juego de sartenes en color gris
 - Material: aluminio forjado
+- Dimensiones: 20 y 24 cm
+- Tipo de producto: juego de sartenes en color gris
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material exterior: Tela
 - Material de la suela: Cau
 - Forro: tejido
-- Material exterior: Tela
 
 [🛒 Aquí!!!]({{< param buyurl >}})
