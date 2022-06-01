@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Pang Adventures Buster Edition'
-date: 2022-05-30 07:16:49
+date: 2022-06-01 10:04:17
 image: 'https://m.media-amazon.com/images/I/51JMRjhJKUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B08GMRYXMT/?tag=tolees-21'
 descuento: '38.52'
-average: '14.7233333333335'
+average: '14.6364285714287'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Carátula reversible
 - Set de pegatinas
+- Carátula reversible
 - Manual retro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
