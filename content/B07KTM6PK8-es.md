@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juego de cartas
 - Ofrece tiempo de diversión y entretenimiento
 - Material de calidad
 - Producto en castellano
+- Juego de cartas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
