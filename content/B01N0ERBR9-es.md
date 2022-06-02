@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colección 2013
-- Cierre: cordones.
 - Material: lino.
+- Cierre: cordones.
+- Colección 2013
 
 [🛒 Comprar!!!]({{< param buyurl >}})
