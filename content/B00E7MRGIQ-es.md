@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- TRANQUILIDAD: garantía de por vida limitada y mejorada
-- SEGURIDAD: 802.1X, analizador de puertos de switch (SPAN) y protección de unidades de datos de protocolo de puente (BPDU)
 - GESTIÓN DEL DISPOSITIVO: interfaz web, acceso por aire a través de Bluetooth, CLI (interfaz de línea de comandos), SNMP (protocolo simple de gestión de redes) y acceso a la consola RJ-45 o USB
-- POTENCIA: soporte de PoE+ con una asignación de energía de hasta 110 W y PoE perpetuo; máximo de 7 puertos PoE (o 3 puertos PoE+)
+- SEGURIDAD: 802.1X, analizador de puertos de switch (SPAN) y protección de unidades de datos de protocolo de puente (BPDU)
 - CONFIGURACIÓN DE PUERTOS ETHERNET: 24 puertos Gigabit Ethernet 10/100/1000, 2 puertos de enlace ascendente SFP de 10 G
+- TRANQUILIDAD: garantía de por vida limitada y mejorada
+- POTENCIA: soporte de PoE+ con una asignación de energía de hasta 110 W y PoE perpetuo; máximo de 7 puertos PoE (o 3 puertos PoE+)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

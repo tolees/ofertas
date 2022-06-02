@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Funda duradera
-- Estructura interna sólida de dos piezas
-- Incluye: Pelotas de fútbol, billar, fútbol americano, béisbol, baloncesto y tenis
 - Pelota de larga distancia
+- Funda duradera
+- Incluye: Pelotas de fútbol, billar, fútbol americano, béisbol, baloncesto y tenis
+- Estructura interna sólida de dos piezas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
