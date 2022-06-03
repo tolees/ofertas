@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fue compilado por la perfumista Patricia Bilodeau
-- Composición fresca y seductora de composición fragante
-- Es una ducha directa con agua, polvo, flores y acordes aromáticos cítricos en primer plano
 - Accesorio de fragancia asequible para los días de verano, primavera y otoño
 - Diseño moderno y limpio
+- Es una ducha directa con agua, polvo, flores y acordes aromáticos cítricos en primer plano
+- Composición fresca y seductora de composición fragante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
