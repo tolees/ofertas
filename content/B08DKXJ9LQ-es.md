@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estándar
 - Modelo: chaqueta Jjsure
+- Estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
