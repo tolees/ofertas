@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo de Icon proyecto en la mochila
 - Cremallera bidireccional
+- Logotipo de Icon proyecto en la mochila
 
 [🛒 Comprar!!!]({{< param buyurl >}})

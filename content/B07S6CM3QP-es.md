@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Crema Knorr Alicia 1L
-- Crema de verduras envasada en un brik de cartón de origen sostenible
 - Con un plato de esta crema tendrás 1 de las 5 raciones diarias de fruta y verdura recomendadas*
-- Deliciosa crema elaborada sin conservantes, sin colorantes, sin glutamato y apta para vegetarianos
-- Crema elaborada con verduras frescas procedentes de la agricultura sostenible
+- Crema de verduras envasada en un brik de cartón de origen sostenible
 - Crema 100% natural
+- Deliciosa crema elaborada sin conservantes, sin colorantes, sin glutamato y apta para vegetarianos
+- Crema Knorr Alicia 1L
+- Crema elaborada con verduras frescas procedentes de la agricultura sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

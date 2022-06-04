@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Primegreen
 - Cierre de cremallera y cuello alzado
+- Bolsillos con cremallera en la costura lateral
 - Tejido transpirable
 - Punto doble 100% poliéster reciclado
-- Bolsillos con cremallera en la costura lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})
