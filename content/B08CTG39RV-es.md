@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Size: 3.05 m x 76 cm (10 ft. x 30 in.)
-- Corrosion resistant steel frame is held together with our FrameLink System to provide remarkable strength and connection
 - Contents: 1 pool, 1 filter pump (compatible with Type I cartridge)
+- Size: 3.05 m x 76 cm (10 ft. x 30 in.)
 - Water Capacity (90%): 4,678 L (1,236 gal.)
+- Corrosion resistant steel frame is held together with our FrameLink System to provide remarkable strength and connection
 - DuraPlus enhanced 3-ply liner is durable and puncture-resistant
 
 [🛒 Comprar!!!]({{< param buyurl >}})
