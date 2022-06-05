@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Old El Paso Tortillas de Trigo Wrap  6 Unidades  350g'
-date: 2022-06-04 14:56:26
+date: 2022-06-05 19:38:49
 image: 'https://m.media-amazon.com/images/I/51hdzg5KCtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Las tortillas de Old El Paso se caracterizan por su magnífico sabor y calidad
 - Textura tierna y flexible para que puedas enrollarlas a tu gusto
 - La base de las recetas mexicanas más conocidas: fajitas y burritos
-- Las tortillas de Old El Paso se caracterizan por su magnífico sabor y calidad
 - Aptas para vegetarianos
 - Sin conservantes
 
