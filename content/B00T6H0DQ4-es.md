@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cristal mineral endurecido
-- Resistente al agua hasta 50 metros
 - Correa de acero PVD
+- Resistente al agua hasta 50 metros
 - Caja redonda chapada en acero inoxidable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

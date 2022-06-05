@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KWB GERMANY GMBH 118490 - Bit box con puntas de 32 piezas  acero al cromo-vanadio'
-date: 2022-06-03 17:02:31
+date: 2022-06-05 15:43:23
 image: 'https://m.media-amazon.com/images/I/41QB5LrKgtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'KWB GERMANY GMBH'
 buyurl: 'https://www.amazon.es/dp/B00FFVQXUK/?tag=tolees-21'
 descuento: '50.91'
-average: '7.89'
+average: '7.284'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Herramienta de calidad profesional
-- En caja de plástico de alta calidad
 - Ideal para uso intensivo
 - Peso del producto: 296 gramos
+- Herramienta de calidad profesional
+- En caja de plástico de alta calidad
 - Con clip para cinturón práctico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
