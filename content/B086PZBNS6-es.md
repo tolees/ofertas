@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deportiva
-- Cobertura total
 - Ultra transpirable
+- Cobertura total
+- Deportiva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

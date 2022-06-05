@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 400 gramos
-- 1 cabo color blanco
 - 240 metros
+- 1 cabo color blanco
+- 400 gramos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
