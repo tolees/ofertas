@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Annemarie Börlind Body Care manteca  250ml'
-date: 2022-06-03 15:01:47
+date: 2022-06-05 05:00:20
 image: 'https://m.media-amazon.com/images/I/31kgbMOUM+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07YZKFTKB-es Annemarie Börlind Body Care manteca 250ml'
 sku: 'B07YZKFTKB-es'
 tags: [ 'Cojines','Cojines y accesorios','Hogar y cocina','Textiles del hogar','annemarie börlind','🇪🇸', ]
-actualPrice: 17.56 EUR
+actualPrice: 17.06 EUR
 currency: EUR
-price: 17.56
+price: 17.06
 comparePrice: 27.88 EUR
 prodname: 'Annemarie Börlind Body Care manteca  250ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'ANNEMARIE BÖRLIND'
 buyurl: 'https://www.amazon.es/dp/B07YZKFTKB/?tag=tolees-21'
-descuento: '37.02'
-average: '17.56'
+descuento: '38.81'
+average: '17.31'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
