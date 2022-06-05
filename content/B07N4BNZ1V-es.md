@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material exterior: tela.
+- Cierre: cordón.
+- Material de la suela: goma.
 - Diámetro de la pantorrilla: normal.
 - Forro: tela.
-- Cierre: cordón.
-- Material exterior: tela.
-- Material de la suela: goma.
 - Tipo de tacón: tacón de bloqueo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
