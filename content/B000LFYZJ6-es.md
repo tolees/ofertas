@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cables planos
 - 6 mm cenador
+- Cables planos
 - Acero anudadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
