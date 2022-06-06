@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Classic Moc Toe.
-- Agressive Tread on Outsole for Increased Grip in Winter Conditions
 - Forro Sherpa.
+- Agressive Tread on Outsole for Increased Grip in Winter Conditions
 
 [🛒 Aquí!!!]({{< param buyurl >}})
