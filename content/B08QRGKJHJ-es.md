@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry T&F CREW  Sudadera Hombre  Pine Marl  S'
-date: 2022-06-04 17:32:28
+date: 2022-06-05 22:46:53
 image: 'https://m.media-amazon.com/images/I/41DOOs3AvBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08QRGKJHJ-es Superdry T&F CREW Sudadera Hombre Pine Marl S'
 sku: 'B08QRGKJHJ-es'
 tags: [ 'Jerséis para hombre','Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','superdry','🇪🇸', ]
-actualPrice: 20.63 EUR
+actualPrice: 43.79 EUR
 currency: EUR
-price: 20.63
+price: 43.79
 comparePrice: 69.99 EUR
 prodname: 'Superdry T&F CREW  Sudadera Hombre  Pine Marl  S'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B08QRGKJHJ/?tag=tolees-21'
-descuento: '70.52'
-average: '20.63'
+descuento: '37.43'
+average: '32.21'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
