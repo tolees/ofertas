@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Envío gratuito a particulares a partir de 29 €
-- ITALIAN GOURMET
 - GALLETAS MULINO BIANCO BARILLA MACINE 400 GR GALLETAS ITALIANO GOURMET
+- ITALIAN GOURMET
+- Envío gratuito a particulares a partir de 29 €
 
 [🛒 Aquí!!!]({{< param buyurl >}})

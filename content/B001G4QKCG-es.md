@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intenso Rainbow Line Memoria USB 2.0 16GB  Negro'
-date: 2022-06-05 15:04:51
+date: 2022-06-07 08:07:30
 image: 'https://m.media-amazon.com/images/I/31mKnq3H+DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Intenso'
 buyurl: 'https://www.amazon.es/dp/B001G4QKCG/?tag=tolees-21'
 descuento: '42.86'
-average: '4.58'
+average: '4.6'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Velocidad de lectura de 28 MB/s y escritura de 6.5 MB
+- Memoria USB 2.0 de 16 GB
 - Compatible con Windows 8/7/Vista/XP, Mac OS X 10.6 o superior y Linux 2.4
 - Hecho en plástico transparente
-- Memoria USB 2.0 de 16 GB
+- Velocidad de lectura de 28 MB/s y escritura de 6.5 MB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
