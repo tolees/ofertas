@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Power A - NSW Wired Controller Black Matte'
-date: 2022-06-06 15:51:01
+date: 2022-06-07 17:53:32
 image: 'https://m.media-amazon.com/images/I/31EW5VpKM+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Power A'
 buyurl: 'https://www.amazon.es/dp/B07PDJ45BT/?tag=tolees-21'
 descuento: '40.02'
-average: '16.24'
+average: '15.99'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Licencia oficial de Nintendo
 - Forma ergonómica del mando con cable con una disposición de botones estándar
-- Licencia oficial de Nintendo
 - Diseño negro mate
 - Cable USB de 3 m extraíble con correa de velcro
-- Cable USB de 3 m extraíble con correa de velcro
 - Forma ergonómica del mando con cable con una disposición de botones estándar
+- Cable USB de 3 m extraíble con correa de velcro
+- Licencia oficial de Nintendo
+- Licencia oficial de Nintendo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

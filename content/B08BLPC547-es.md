@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Revestimiento: Cuero
 - Material exterior: Cuero
+- Revestimiento: Cuero
 - Material de la suela: Caucho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

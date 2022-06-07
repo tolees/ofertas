@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El equipo para los aficionados y aficionadas al bricolaje se completa con el destornillador eléctrico Ixolino, que cuenta con movimiento en dos direcciones, luz y sonido y funciona con pilas.
-- El martillo, los alicates, la sierra, la llave inglesa y el destornillador están siempre a mano.
-- El cinturón de herramientas con diseño de Bosch viene repleto de útiles herramientas de juguete.
 - Medidas: 76 cm x 24 cm x 4,5 cm I Apto para niños a partir de tres años I Pilas necesarias: 2 x RO3-AAA - No incluidas en la entrega
 - Con esta robusta herramienta de alta calidad, los niños ejercitan la imaginación y la habilidades motoras en el juego de rol.
+- El martillo, los alicates, la sierra, la llave inglesa y el destornillador están siempre a mano.
+- El cinturón de herramientas con diseño de Bosch viene repleto de útiles herramientas de juguete.
+- El equipo para los aficionados y aficionadas al bricolaje se completa con el destornillador eléctrico Ixolino, que cuenta con movimiento en dos direcciones, luz y sonido y funciona con pilas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
