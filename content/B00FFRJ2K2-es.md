@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CLEOPATRE Cola  Cartera Unisex Infantil  Blanco  Blanco   20x15x6 cm  W x H x L '
-date: 2022-05-28 19:03:22
+date: 2022-06-07 06:32:28
 image: 'https://m.media-amazon.com/images/I/41MyttnCpCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CLEOPATRE'
 buyurl: 'https://www.amazon.es/dp/B00FFRJ2K2/?tag=tolees-21'
 descuento: '51.77'
-average: '4.77083333333333'
+average: '4.7734693877551'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecho en Francia
+- Contiene un frasco de 2 litros, cantidad para llenar los pequeños frascos
+- Adhesivo vinílico para usar con papel y cartón
 - Perfecta para hacer el Slime
 - Esta cola es ideal para las primeras actividades manuales de los pequeños niños de 3 años y más
+- Hecho en Francia
 - Sin solvente y sin acido
-- Adhesivo vinílico para usar con papel y cartón
-- Contiene un frasco de 2 litros, cantidad para llenar los pequeños frascos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

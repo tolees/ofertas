@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capacidad: 22 litros
-- Bolsillo frontal con organizador
 - Bolsillo lateral para botella de agua
+- Capacidad: 22 litros
 - Tamaño: 42 x 32 x 12 cm
+- Bolsillo frontal con organizador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

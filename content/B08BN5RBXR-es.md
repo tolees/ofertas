@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: sintética
 - New Balance Tenis para correr en carretera
+- Suela: sintética
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
