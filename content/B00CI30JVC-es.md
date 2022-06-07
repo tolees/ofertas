@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es una herramienta ideal para instaladores profesionales
-- Tenaza metálica de crimpar de calidad de carraca para conectores RJ10/RJ11/RJ12/RJ45 (4P+6P+8P)
 - Test de funcionamiento: 100% testado
+- Tenaza metálica de crimpar de calidad de carraca para conectores RJ10/RJ11/RJ12/RJ45 (4P+6P+8P)
+- Es una herramienta ideal para instaladores profesionales
 - Normativas: RoHS
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
