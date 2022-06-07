@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Texturas: Crema
-- Tipo de Piel: Todo Tipo de Pieles
 - Ingredientes: Aqua; Tipo de piel: madura
+- Tipo de Piel: Todo Tipo de Pieles
 - Género: Unisex Adulto
+- Texturas: Crema
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
