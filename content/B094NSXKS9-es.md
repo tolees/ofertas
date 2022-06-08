@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tipo de producto: sudadera con capucha
+- Ajuste regular
 - Tejido transpirable
 - Contenido del paquete: una unidad
-- Ajuste regular
-- Tipo de producto: sudadera con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
