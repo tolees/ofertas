@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se puede lavar a máquina
-- Cierre: sin cordones
 - Ribete: 95% algodón, 5% elastano. Cuerpo: 100% algodón, 100% algodón
+- Cierre: sin cordones
+- Se puede lavar a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
