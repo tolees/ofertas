@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ultra Go
-- Plantilla Goga Mat refrigerada por aire
-- Tenis cómodos para correr
-- Máxima amortiguación
 - Ortholite
+- Tenis cómodos para correr
+- Plantilla Goga Mat refrigerada por aire
+- Máxima amortiguación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
