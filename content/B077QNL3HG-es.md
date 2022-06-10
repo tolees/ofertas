@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Composición: Microfibra y malla
-- Material exterior: Cuero sintético
-- Tipo de tacón: Plano
-- Revestimiento: Tela
-- Anchura del zapato: Normal
-- Material de la suela: Sintético
 - Cierre: Cordones
+- Tipo de tacón: Plano
+- Material exterior: Cuero sintético
+- Composición: Microfibra y malla
+- Material de la suela: Sintético
+- Anchura del zapato: Normal
+- Revestimiento: Tela
 
 [🛒 Aquí!!!]({{< param buyurl >}})

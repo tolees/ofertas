@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SmartPoorer - ISKIP Hebilla para asiento de coche  hebilla de bloqueo fijo  cinturón de seguridad  arnés para el pecho para bebés  niños pequeños y niños'
-date: 2022-06-01 19:27:52
+date: 2022-06-10 03:14:52
 image: 'https://m.media-amazon.com/images/I/41f9vsq4KhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07MB1WS3K-es SmartPoorer - ISKIP Hebilla para asiento de coche hebilla...'
 sku: 'B07MB1WS3K-es'
 tags: [ 'Accesorios para sillas de coche','Bebé','Sillas de coche y accesorios','smartpoorer','🇪🇸', ]
-actualPrice: 8.22 EUR
+actualPrice: 8.2 EUR
 currency: EUR
-price: 8.22
+price: 8.2
 comparePrice: 15.99 EUR
 prodname: 'SmartPoorer - ISKIP Hebilla para asiento de coche  hebilla de bloqueo fijo  cinturón de seguridad  arnés para el pecho para bebés  niños pequeños y niños'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SmartPoorer'
 buyurl: 'https://www.amazon.es/dp/B07MB1WS3K/?tag=tolees-21'
-descuento: '48.59'
-average: '8.22'
+descuento: '48.72'
+average: '8.21'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

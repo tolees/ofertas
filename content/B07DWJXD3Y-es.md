@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Movimiento Cuarzo, Display Analogico
-- Diámetro caja: 48mm
 - Correa Material/color: Acero/plateado
 - Caja Material/color: Acero/plateado
+- Movimiento Cuarzo, Display Analogico
+- Diámetro caja: 48mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
