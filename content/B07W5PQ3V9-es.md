@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sennheiser Auriculares inalámbricos con cancelación de ruido Momentum 3 con encendido/apagado automático  función de pausa inteligente y aplicación de control inteligente - negro'
-date: 2022-05-31 07:18:07
+date: 2022-06-10 08:04:41
 image: 'https://m.media-amazon.com/images/I/41-FvYIlosL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sennheiser'
 buyurl: 'https://www.amazon.es/dp/B07W5PQ3V9/?tag=tolees-21'
 descuento: '38.65'
-average: '262.474545454546'
+average: '261.001666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
