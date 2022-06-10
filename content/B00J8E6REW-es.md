@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español - Aloe Vera Körpercreme - 400 ml - 100% natürliches Aloe Vera'
-date: 2022-06-07 19:53:41
+date: 2022-06-09 22:47:59
 image: 'https://m.media-amazon.com/images/I/314a8hqx+xS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B00J8E6REW/?tag=tolees-21'
 descuento: '40.20'
-average: '2.99666666666667'
+average: '2.996'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes: Aqua; Tipo de piel: madura
-- Tipo de Piel: Todo Tipo de Pieles
-- Género: Unisex Adulto
 - Texturas: Crema
+- Género: Unisex Adulto
+- Tipo de Piel: Todo Tipo de Pieles
+- Ingredientes: Aqua; Tipo de piel: madura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Folat B.V. - Confeti de números Folat'
-date: 2022-06-01 07:52:29
+date: 2022-06-09 23:41:26
 image: 'https://m.media-amazon.com/images/I/51LlkQMHPQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Artículos para fiestas','Confeti','Costura y manualidades','Decorados 
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96
-comparePrice: 6.22 EUR
+comparePrice: 9.01 EUR
 prodname: 'Folat B.V. - Confeti de números Folat'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Folat B.V.'
 buyurl: 'https://www.amazon.es/dp/B0042PB0GC/?tag=tolees-21'
-descuento: '36.33'
+descuento: '56.05'
 average: '3.96'
 ---
 

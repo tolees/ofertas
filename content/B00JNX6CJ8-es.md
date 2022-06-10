@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cacharel Anais Premier Delice Agua de Colonia  Afrutada  100 Mililitros'
-date: 2022-06-06 12:15:17
+date: 2022-06-09 22:58:45
 image: 'https://m.media-amazon.com/images/I/41RkzY2hsML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cacharel'
 buyurl: 'https://www.amazon.es/dp/B00JNX6CJ8/?tag=tolees-21'
 descuento: '36.16'
-average: '22.96'
+average: '21.9566666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

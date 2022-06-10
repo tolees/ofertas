@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beissier M109055 - Aguaplast express de 1 kg'
-date: 2022-06-01 08:25:47
+date: 2022-06-09 23:15:40
 image: 'https://m.media-amazon.com/images/I/41twzMfBkkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Beissier'
 buyurl: 'https://www.amazon.es/dp/B00K7Y7ROQ/?tag=tolees-21'
 descuento: '55.20'
-average: '3.59666666666667'
+average: '3.72'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

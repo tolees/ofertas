@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LG QP5 - Barra de Sonido compacta con 320W de Potencia y 3.1.2 Canales  Sonido Hi-Res Audio  Dolby Atmos  DTS:X y HDMI eARC'
-date: 2022-06-03 06:21:48
-image: 'https://m.media-amazon.com/images/I/118pngFxewL._SL500_._SL400_.jpg'
+title: 'Barra de Sonido compacta LG QP5 de 320W de Potencia 3.1.2 Canales Sonido Hi-Res Audio  Dolby Atmos  DTS:X y HDMI eARC'
+date: 2022-06-09 23:40:46
+image: 'https://m.media-amazon.com/images/I/21cUY7nUKGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B093TH8K1F-es LG QP5 - Barra de Sonido compacta con 320W de Potencia y...'
+slug: 'B093TH8K1F-es Barra de Sonido compacta LG QP5 de 320W de Potencia 3.1.2...'
 sku: 'B093TH8K1F-es'
 tags: [ 'Altavoces','Barras de sonido','Electrónica','Equipos de audio y Hi-Fi','lg','🇪🇸', ]
-actualPrice: 288.41 EUR
+actualPrice: 355.32 EUR
 currency: EUR
-price: 288.41
+price: 355.32
 comparePrice: 699.0 EUR
-prodname: 'LG QP5 - Barra de Sonido compacta con 320W de Potencia y 3.1.2 Canales  Sonido Hi-Res Audio  Dolby Atmos  DTS:X y HDMI eARC'
+prodname: 'Barra de Sonido compacta LG QP5 de 320W de Potencia 3.1.2 Canales Sonido Hi-Res Audio  Dolby Atmos  DTS:X y HDMI eARC'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B093TH8K1F/?tag=tolees-21'
-descuento: '58.74'
-average: '395.8'
+descuento: '49.17'
+average: '385.68'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El sonido se adapta al contenido AI Sound Pro
 - Hi-Res Audio 24bit/96kHz
 - Meridian Sound Music
-- Potencia Total: 320W, (82dB)
-- Sonido Envolvente con Dolby Atmos y dts:X
 - Amplia conectividad con HDMI eARC, Bluetooth 5.0, USB
-- El sonido se adapta al contenido AI Sound Pro
+- Sonido Envolvente con Dolby Atmos y dts:X
+- Potencia Total: 320W, (82dB)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

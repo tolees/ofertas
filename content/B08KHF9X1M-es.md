@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry W9110256A  Cali Bum Bag para Mujer  Azul  Einheitsgröße'
-date: 2022-06-03 08:37:14
+date: 2022-06-09 22:44:48
 image: 'https://m.media-amazon.com/images/I/31pvzbxRNFS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B08KHF9X1M/?tag=tolees-21'
 descuento: '61.21'
-average: '17.01'
+average: '17.8033333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
