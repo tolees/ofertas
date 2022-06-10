@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cronógrafo en acero inoxidable para hombre
 - Cuarzo
 - Wr 100mt
-- Azul y metálico
+- Cronógrafo en acero inoxidable para hombre
 - Casual
+- Azul y metálico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
