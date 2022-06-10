@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: amarillo pajizo oscuro. Nariz: Notas de peras, melones, jerez, especias, vainilla. Sabor: Afrutado, jerez, notas de jengibre, canela, bizcocho. Acabado: Larga duración, notas de especias, malta.
 - Perfecto como un regalo
+- Color: amarillo pajizo oscuro. Nariz: Notas de peras, melones, jerez, especias, vainilla. Sabor: Afrutado, jerez, notas de jengibre, canela, bizcocho. Acabado: Larga duración, notas de especias, malta.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

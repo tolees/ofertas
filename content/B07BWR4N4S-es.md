@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DE BASE ACUOSA, LIBRE DE FRAGANCIAS Y COLORANTES: abre el tapón, extrae unas gotas y aplícalas donde tú quieras; luego disfruta
-- DISEÑADO CON PH EQUILIBRADO Y PREBIÓTICOS: ayuda a mantener el balance de la flora vaginal
 - APTO PARA EL SEXO VAGINAL, ANAL Y ORAL: adecuado para el uso con preservativos de látex y preservativos de poliisopreno
-- ENTREGA DE FORMA DISCRETA: caja exterior de entrega con un diseño discreto sin ninguna indicación del contenido del interior
 - Lubricante íntimo 100% natural
+- DE BASE ACUOSA, LIBRE DE FRAGANCIAS Y COLORANTES: abre el tapón, extrae unas gotas y aplícalas donde tú quieras; luego disfruta
+- ENTREGA DE FORMA DISCRETA: caja exterior de entrega con un diseño discreto sin ninguna indicación del contenido del interior
+- DISEÑADO CON PH EQUILIBRADO Y PREBIÓTICOS: ayuda a mantener el balance de la flora vaginal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

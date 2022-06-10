@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda Nova MW3 Mesh - AC1200 Router Sistema WiFi de Red en Malla  Dual Banda  Seamless Roaming  Fast Ethernet  Control Parental   pack 2'
-date: 2022-06-06 09:37:36
+date: 2022-06-10 00:20:51
 image: 'https://m.media-amazon.com/images/I/21cEcQlf3zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tenda'
 buyurl: 'https://www.amazon.es/dp/B07CY9XT6P/?tag=tolees-21'
 descuento: '35.56'
-average: '50.6554166666665'
+average: '50.6301775147927'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

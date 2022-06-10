@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fermax 6201 - Kit portero automático  1 línea  color gris y negro'
-date: 2022-06-08 18:24:54
+date: 2022-06-10 01:17:13
 image: 'https://m.media-amazon.com/images/I/31k2FrtgNSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fermax'
 buyurl: 'https://www.amazon.es/dp/B00SWPC9OU/?tag=tolees-21'
 descuento: '64.74'
-average: '41.5314285714286'
+average: '42.4725'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño del producto embalado: 9x27x19,5 cm
 - Caja de empotrar S1: 115x114x45 cm
-- Dispone de múltiples anclajes para la instalación en pared
-- Panel S1: 130x128 cm
-- Hecho de aluminio anodizado resistente
 - Peso: 1,4525506 kg
 - Cuenta con protección ultravioleta
+- Dispone de múltiples anclajes para la instalación en pared
+- Hecho de aluminio anodizado resistente
+- Tamaño del producto embalado: 9x27x19,5 cm
 - Fuente de alimentación: 12Vac / 1A-DIN4
+- Panel S1: 130x128 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

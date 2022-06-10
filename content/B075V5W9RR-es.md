@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sera Manguera 16/22 Gris 25 m'
-date: 2022-06-04 12:06:47
+date: 2022-06-10 01:11:02
 image: 'https://m.media-amazon.com/images/I/61773mIWcWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Bombas y filtros para acuarios','Filtros para acuarios','Peces y mascot
 actualPrice: 20.85 EUR
 currency: EUR
 price: 20.85
-comparePrice: 52.65 EUR
+comparePrice: 41.14 EUR
 prodname: 'Sera Manguera 16/22 Gris 25 m'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sera'
 buyurl: 'https://www.amazon.es/dp/B075V5W9RR/?tag=tolees-21'
-descuento: '60.40'
+descuento: '49.32'
 average: '20.85'
 ---
 
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: gris.
 - Longitud: 25 m.
+- Manguera muy flexible 16/22.
 - Son adecuados para todo tipo de filtros y bombas con conexión correspondiente.
 - Libre de sustancias nocivas y especialmente elástico para una conexión segura al acuario.
-- Manguera muy flexible 16/22.
+- Color: gris.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

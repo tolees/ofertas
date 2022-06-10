@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Figura Dorbz Stranger Things Will'
-date: 2022-06-02 14:34:34
+date: 2022-06-10 00:13:01
 image: 'https://m.media-amazon.com/images/I/41BH4XckgLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Licencia oficial
 - Muy resistente
+- Licencia oficial
 - Alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

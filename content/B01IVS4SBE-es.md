@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell GE-LC 18/25 Li Kit - Motosierra a batería Power X-Change 18V  con batería de 3.0 Ah y cargador   velocidad de corte: 4.3 m/s  longitud de corte: 23 cm  cadena y espada Oregon  Color Rojo'
-date: 2022-06-08 09:07:09
+date: 2022-06-10 01:31:22
 image: 'https://m.media-amazon.com/images/I/41SVJeMSWIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Einhell'
 buyurl: 'https://www.amazon.es/dp/B01IVS4SBE/?tag=tolees-21'
 descuento: '37.07'
-average: '113.566153846154'
+average: '113.093571428572'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tiempo de carga de 1h
+- Protección de contragolpe con freno de cadena mecánica instantánea
+- Mango ergonómico
 - Indicador del nivel de carga de la batería con 3 LEDs
+- Velocidad de corte de cadena : 4,3 m/s
+- Peso del producto: 2.97 kg
 - Max. Longitud de corte: 230 mm
 - Sistema de batería Power X-Change
-- Protección de contragolpe con freno de cadena mecánica instantánea
-- Velocidad de corte de cadena : 4,3 m/s
-- Mango ergonómico
-- Peso del producto: 2.97 kg
-- Tiempo de carga de 1h
 
 [🛒 Comprar!!!]({{< param buyurl >}})
