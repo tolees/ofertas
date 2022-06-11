@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ligereza y comodidad, Controles deslizantes de acero ajustables y duradero
+- Compatibles con PS5, PS4, PS4 Pro y PC
 - Micrófono con cancelación de ruido, que se silencia con un simple giro
 - Prácticos controles de audio integrados
 - Conexión inalámbrica para jugadores, Audio de juego envolvente
-- Compatibles con PS5, PS4, PS4 Pro y PC
 
 [🛒 Aquí!!!]({{< param buyurl >}})
