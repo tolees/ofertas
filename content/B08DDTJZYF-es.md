@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Qualità Rossa Café Molido  250g'
-date: 2022-06-09 23:27:45
+date: 2022-06-11 07:54:26
 image: 'https://m.media-amazon.com/images/I/41bszF4kA3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lavazza'
 buyurl: 'https://www.amazon.es/dp/B08DDTJZYF/?tag=tolees-21'
 descuento: '45.32'
-average: '3.5525'
+average: '3.53444444444444'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un café rico, con sabor redondo y de gran cuerpo
 - Arábica y Robusta, tostado medio con delicada intensidad
 - Crema dorada y color cálido y con toques de chocolate
-- Apta para todo tipo de cafeteras
 - Con un aroma inconfundible que le da energía
+- Un café rico, con sabor redondo y de gran cuerpo
+- Apta para todo tipo de cafeteras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
