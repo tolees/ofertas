@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750 Cotmetw  Zapatillas Mujer  Rose Gold Matt  45 EU'
-date: 2022-05-30 06:47:34
+date: 2022-06-11 15:05:34
 image: 'https://m.media-amazon.com/images/I/41i41AEccgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07TS8WSSD-es Superga 2750 Cotmetw Zapatillas Mujer Rose Gold Matt 45 EU'
 sku: 'B07TS8WSSD-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','superga','🇪🇸', ]
-actualPrice: 18.08 EUR
+actualPrice: 17.82 EUR
 currency: EUR
-price: 18.08
+price: 17.82
 comparePrice: 69.0 EUR
 prodname: 'Superga 2750 Cotmetw  Zapatillas Mujer  Rose Gold Matt  45 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B07TS8WSSD/?tag=tolees-21'
-descuento: '73.80'
-average: '22.2266666666667'
+descuento: '74.17'
+average: '21.125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material suela: Caucho
-- Material exterior: raso
-- Forro: tejido
+- Cierre: Con cordones
+- Solé material: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
