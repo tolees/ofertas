@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital - WD Red 6 TB NAS 3.5 pulgadas  Disco duro interno Clase 5400 r.p.m  SATA 6 Gb/s  SMR  Caché 256MB'
-date: 2022-05-31 10:29:00
+date: 2022-06-11 22:35:09
 image: 'https://m.media-amazon.com/images/I/4149y2dF9hS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.es/dp/B00N4UVVGA/?tag=tolees-21'
 descuento: '36.75'
-average: '200.3515'
+average: '199.938780487805'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- RPM: IntelliPower
 - Capacidad: 6 TB
-- Caché: 64 MB
+- RPM: IntelliPower
 - Factor de forma: 3.5 pulgadas
+- Caché: 64 MB
 
 [🛒 Comprar!!!]({{< param buyurl >}})

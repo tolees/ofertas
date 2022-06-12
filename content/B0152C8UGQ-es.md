@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AVERY Zweckform - Avery 56095 decoración  rana sonriente  material de papel  2 hojas  32 Etiqueta'
-date: 2022-06-10 03:20:48
+date: 2022-06-11 23:43:39
 image: 'https://m.media-amazon.com/images/I/51kDJTs0pUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,5 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adhesivos decorativos
-- Pegatinas con motivos adorables
-- Ideal para una individual y decoración personal
-- Fabricadas de polietileno
 
 [🛒 Aquí!!!]({{< param buyurl >}})
