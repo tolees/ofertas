@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Legendary Regular Jeans  Azul  Nightshade   27W x 33L para Mujer'
-date: 2022-06-06 15:44:33
+date: 2022-06-12 16:13:39
 image: 'https://m.media-amazon.com/images/I/31iYoEVvQeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lee'
 buyurl: 'https://www.amazon.es/dp/B08DTQQR62/?tag=tolees-21'
 descuento: '60.12'
-average: '32.0685714285715'
+average: '30.5475000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

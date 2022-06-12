@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dell Vostro 3400 - Ordenador portátil de 14" Full HD  Intel Core I5-1135G7  8GB de RAM  512GB SSD  windows 10   Negro - Teclado QWERTY español'
-date: 2022-06-05 08:59:16
+date: 2022-06-12 16:13:43
 image: 'https://m.media-amazon.com/images/I/41iY597K1xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dell'
 buyurl: 'https://www.amazon.es/dp/B08TX36GGM/?tag=tolees-21'
 descuento: '36.07'
-average: '734.63'
+average: '736.845454545455'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Memoria interna: 8 GB DDR4-SDRAM
+- Resolución de la pantalla: 1920 x 1080 píxeles
 - Procesador Intel Core i5-1135G7
 - Diagonal de la pantalla: 35,6 cm (14")
-- Resolución de la pantalla: 1920 x 1080 píxeles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

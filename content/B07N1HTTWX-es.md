@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2730-COTROPEW  Zapatillas Mujer  Nero  Black 999   42.5 EU'
-date: 2022-06-09 06:49:29
+date: 2022-06-12 16:43:11
 image: 'https://m.media-amazon.com/images/I/41VHkURa6NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07N1HTTWX-es Superga 2730-COTROPEW Zapatillas Mujer Nero Black 999 42.5 EU'
 sku: 'B07N1HTTWX-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','superga','🇪🇸', ]
-actualPrice: 15.47 EUR
+actualPrice: 15.44 EUR
 currency: EUR
-price: 15.47
+price: 15.44
 comparePrice: 75.0 EUR
 prodname: 'Superga 2730-COTROPEW  Zapatillas Mujer  Nero  Black 999   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B07N1HTTWX/?tag=tolees-21'
-descuento: '79.37'
-average: '20.684'
+descuento: '79.41'
+average: '20.2072727272727'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
