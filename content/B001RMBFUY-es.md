@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Giotto Olio Maxi Pastel al Óleo  Estuche 12 Uds.'
-date: 2022-06-11 23:18:36
+date: 2022-06-13 11:33:59
 image: 'https://m.media-amazon.com/images/I/41QFKNV6iDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pastel al óleo redondo, de 7 cm de largo
+- Envueltos individualmente con papel protector
 - Colores vivos e intensos
 - Diámetro 11 mm
-- Envueltos individualmente con papel protector
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
