@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exterior de Cromargan aleación acero inoxidable 18/10 única de WMF; Es un material robusto, resistente, duradero y muy fácil de limpiar de un aspecto más elegante que el acero inoxidable; Neutro a los sabores y resistente a los ácidos de las comidas
-- Asa de goma antideslizante y termoaislante de tacto frío para la máxima comodidad y seguridad
+- Dimensiones del producto en mm: largo 203, ancho 178, alto 200
 - Hervidor de 2400 W de potencia y 1,2 L de capacidad; su exterior está hecho de Cromargan mate y tiene una resistencia de calentamiento de acero inoxidable integrado
 - Indicador luminoso del nivel del agua en el exterior
-- Dimensiones del producto en mm: largo 203, ancho 178, alto 200
+- Exterior de Cromargan aleación acero inoxidable 18/10 única de WMF; Es un material robusto, resistente, duradero y muy fácil de limpiar de un aspecto más elegante que el acero inoxidable; Neutro a los sabores y resistente a los ácidos de las comidas
 - Filtro antical extraíble para su limpieza
 - Tapa de fácil apertura mediante un botón, por lo que se puede hacer solo con una mano
+- Asa de goma antideslizante y termoaislante de tacto frío para la máxima comodidad y seguridad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

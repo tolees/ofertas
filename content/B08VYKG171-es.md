@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fabricado en Inglaterra
+- Vegano
+- Apto para todo tipo de pieles
+- Familia de fragancia: FLORAL
+- Espuma fragante
+- Sin parabenos ni ftalatos; sin crueldad animal
+- 300 ml
+- Gel translúcido con luz
 - gluten
 - Tuerca
-- Vegano
-- Gel translúcido con luz
-- Apto para todo tipo de pieles
-- Espuma fragante
-- Familia de fragancia: FLORAL
-- Sin parabenos ni ftalatos; sin crueldad animal
-- Fabricado en Inglaterra
-- 300 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
