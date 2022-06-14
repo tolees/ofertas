@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lotus - 18117/2 - Reloj Hombre - Cuarzo - Cronógrafo - Cronógrafo - Pulsera de Acero Inoxidable Plateado'
-date: 2022-06-06 16:04:50
+date: 2022-06-14 20:20:27
 image: 'https://m.media-amazon.com/images/I/41SYUschdaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lotus'
 buyurl: 'https://www.amazon.es/dp/B00XAWO0Y2/?tag=tolees-21'
 descuento: '42.15'
-average: '92.6033333333334'
+average: '90.8060000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
