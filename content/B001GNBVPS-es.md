@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Maquillaje en polvo de acabado mate y aterciopelado
-- Se puede utilizar como base ligera de maquillaje o sobre una base como polvos faciales
-- Alta Cobertura
-- Acabado mate aterciopelado y un sutil brillo gracias a sus partículas potenciadores de la luz
 - Consejo de aplicación: aplicar Crème Puff sobre la crema hidratante para un acabado ligero: sobre la base de maquillaje para un cabado perfecto
+- Acabado mate aterciopelado y un sutil brillo gracias a sus partículas potenciadores de la luz
+- Maquillaje en polvo de acabado mate y aterciopelado
+- Alta Cobertura
+- Se puede utilizar como base ligera de maquillaje o sobre una base como polvos faciales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
