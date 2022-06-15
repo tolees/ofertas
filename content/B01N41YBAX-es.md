@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mayor vida útil: su diseño en forma de diente consigue generar menos fricción y calentamiento
-- Resultados exactos: la punta centradora corta de la broca para fresar madera tiene dos filos principales y un filo periférico en forma de diente
 - Compatibilidad: apta para todos los taladros y taladros de columna con portabrocas de 8 mm
-- Alta calidad: fabricada conforme a DIN 7483G, con una dureza de filo de al menos 50 HRC
+- Mayor vida útil: su diseño en forma de diente consigue generar menos fricción y calentamiento
 - Aplicaciones: la broca para fresar madera es excelente para perforar madera blanda o dura, madera chapada y aglomerado no laminado
+- Alta calidad: fabricada conforme a DIN 7483G, con una dureza de filo de al menos 50 HRC
+- Resultados exactos: la punta centradora corta de la broca para fresar madera tiene dos filos principales y un filo periférico en forma de diente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
