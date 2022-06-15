@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lotus 18165/2 - Reloj de Pulsera Hombre  Color Gris'
-date: 2022-06-05 14:25:48
+date: 2022-06-15 17:52:52
 image: 'https://m.media-amazon.com/images/I/41SHQhQ7rjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye agujas luminiscentes
-- Cristal mineral endurecido
-- Correa de piel y textil azul con cierre de hebilla
-- Viene en una caja de regalo
-- Resistencia al agua 5 ATM
+- Black plated stainless steel round case
+- Water resistance to 50 meters
+- The watch has a water resistance of 5 bar (it is suitable for daily use, such as B. bathing, showering or washing
+- Leather strap with classic stainless steel buckle
+- Hardend mineral glass
+- Black woven leather strap with pin buckle
+- Black stainless steel case with a diameter of 42 mm
+- Black dial, line index, three separate dials, three rose gold hands with luminous function, Lotus logo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
