@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lotus Reloj de Vestir 18598/1'
-date: 2022-06-11 20:44:39
+date: 2022-06-15 01:11:05
 image: 'https://m.media-amazon.com/images/I/41uoAs5crEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
