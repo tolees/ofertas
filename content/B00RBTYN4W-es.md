@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caja de acero inoxidable.
-- Indicación de la fecha.
 - Pulsera de acero inoxidable con cierre de botón.
 - Cristal mineral endurecido-
+- Indicación de la fecha.
+- Caja de acero inoxidable.
 - Resistente al agua hasta 50 metros.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
