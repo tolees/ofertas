@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de alta calidad
-- Número de model W0247G3
 - Reloj de pulsera
-- Marca Guess
+- Producto de alta calidad
 - Color dark blue
+- Número de model W0247G3
+- Marca Guess
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
