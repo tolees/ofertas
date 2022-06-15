@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vetoquinol 434559 Flexadin Plus Min - 30 Comprimidos'
-date: 2022-06-12 20:58:37
+date: 2022-06-15 15:15:53
 image: 'https://m.media-amazon.com/images/I/41Mpr26gIiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Indicado para mascotas con artrosis, ya que mejora la movilidad y salud articular
-- Alimento complementario dietético
 - Para perros pequeños y gatos
+- Alimento complementario dietético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
