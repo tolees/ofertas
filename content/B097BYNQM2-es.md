@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calzado Azul de la marca Puma
-- Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Botas para practicar Tiempo libre y sportwear de Unisex Adulto
-- Calzado fabricada con materiales de calidad que se adaptan a cualquier actividad deportiva
 - Botas ST Runner v3 NL blue
+- Calzado fabricada con materiales de calidad que se adaptan a cualquier actividad deportiva
+- Calzado Azul de la marca Puma
+- Botas para practicar Tiempo libre y sportwear de Unisex Adulto
+- Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
