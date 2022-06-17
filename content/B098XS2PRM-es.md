@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bajo recto
+- Bordado de G-Star RAW en el pecho
+- Manga corta
 - Talle medio
 - Corte regular
-- Manga corta
-- Bordado de G-Star RAW en el pecho
+- Bajo recto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

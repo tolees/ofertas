@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cordones de zapatos
 - Suela de goma
+- Cordones de zapatos
 - Corte regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

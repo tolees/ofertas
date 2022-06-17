@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP HPFD222W-32 Memoria USB 2.0 HP v222w 32gb  Plata'
-date: 2022-06-15 18:52:24
+date: 2022-06-17 13:05:20
 image: 'https://m.media-amazon.com/images/I/41uulMdxEXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B01LXAKSRR/?tag=tolees-21'
 descuento: '41.43'
-average: '6.16666666666667'
+average: '5.8725'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Velocidad de escritura: 4 MB/s
 - Factor de forma: sin tapa
-- Interfaz del dispositivo: USB tipo A
 - Velocidad de lectura: 14 MB/s
+- Interfaz del dispositivo: USB tipo A
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
