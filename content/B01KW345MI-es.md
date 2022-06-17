@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho de la correa: 14 mm; circunferencia de la correa: 175 +/-5 mm
-- Se presenta en caja de regalo Emporio Armani
+- Grosor de la caja: 7 mm; tamaño de la caja: 32 mm
 - Material de la correa: piel
 - Resistente al agua: 3 ATM
-- Grosor de la caja: 7 mm; tamaño de la caja: 32 mm
+- Se presenta en caja de regalo Emporio Armani
+- Ancho de la correa: 14 mm; circunferencia de la correa: 175 +/-5 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

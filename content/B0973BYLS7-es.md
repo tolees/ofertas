@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste clásico
 - Espuma viscoelástica refrigerada por aire
-- Zapato cómodo
-- Goga Mat Arch
 - Ranura flexible
+- Zapato cómodo
+- Ajuste clásico
+- Goga Mat Arch
 
 [🛒 Visítala!!!]({{< param buyurl >}})
