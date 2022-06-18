@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Belkin base de carga inalámbrica portátil con MagSafe  carga rápida de hasta 15 W  soporte  compatible con iPhone 13  13 Pro Max y mini  fuente de alimentación no incluida   negro'
-date: 2022-06-17 16:59:43
+date: 2022-06-18 20:21:25
 image: 'https://m.media-amazon.com/images/I/21LKrkA3JvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
