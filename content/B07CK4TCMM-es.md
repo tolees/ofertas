@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Material de la caja: acero inoxidable y oro
-- Color de la esfera: negro con manecillas de oro rosa. Tipo de esfera: mineral
-- Diámetro de la caja: 42 mm
-- Material de la correa: piel negra
 - Sumergible: 3 bares
+- Material de la correa: piel negra
+- Diámetro de la caja: 42 mm
+- Color de la esfera: negro con manecillas de oro rosa. Tipo de esfera: mineral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

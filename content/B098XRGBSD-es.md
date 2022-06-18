@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte regular
-- Talle medio
-- Bajo recto
-- Estampado gráfico en el pecho
 - Manga corta
+- Talle medio
+- Estampado gráfico en el pecho
+- Bajo recto
+- Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
