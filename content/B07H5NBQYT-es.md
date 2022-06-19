@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- gimnasio ejercicios entrenar hockey voleibol zapatillas
 - bádminton deportes running jogging joggers lifestyle
-- exterior travel skate baloncesto caminar gimnasio
 - bajo hi alto top atleta ropa deportiva ropa activa
+- gimnasio ejercicios entrenar hockey voleibol zapatillas
+- exterior travel skate baloncesto caminar gimnasio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
