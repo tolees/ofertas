@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjepaulos Polo SS Noos  Lemon Drop Yellow  L para Hombre'
-date: 2022-06-17 18:07:54
+date: 2022-06-19 06:51:21
 image: 'https://m.media-amazon.com/images/I/31wuJKK6KxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B083ZSVN4C/?tag=tolees-21'
 descuento: '55.52'
-average: '12.72'
+average: '12.63'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
