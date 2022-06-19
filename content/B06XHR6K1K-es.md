@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ref: VA3B3UBKA
 - Zapatillas Vans modelo Old Skool Plafor en color negro
+- Ref: VA3B3UBKA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

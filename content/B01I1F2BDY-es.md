@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Negro
 - adulto
+- Negro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
