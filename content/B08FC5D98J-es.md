@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cremallera con cierre de botón
 - Estilo de cinco bolsillos
 - Desvanecimiento en las piernas
 - Mezclilla de algodón elástico
+- Cremallera con cierre de botón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
