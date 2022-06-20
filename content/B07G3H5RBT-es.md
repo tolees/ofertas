@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hasta 170 MB/s de velocidad de lectura y 90 MB/s de velocidad de escritura para disparar y transferir rápido
-- Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
 - Ideal para smartphones y tabletas Android, cámaras de acción y drones
-- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
 - Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas
+- Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
+- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Práctico capuchón para proteger el conector USB
 - Presilla de gran tamaño para unirla fácilmente al llavero
+- Práctico capuchón para proteger el conector USB
 - Múltiples opciones de colores por capacidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
