@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA City Rider Electric  Zapatillas Unisex Adulto  Black  44.5 EU'
-date: 2022-06-18 21:20:48
+date: 2022-06-20 00:26:48
 image: 'https://m.media-amazon.com/images/I/41odOstQehL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
