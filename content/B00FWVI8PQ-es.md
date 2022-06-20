@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Se presenta en caja de regalo Michael Kors
-- Resistente al agua: 10 ATM
 - Ancho de la correa: 12 mm; circunferencia de la correa: 190 +/- 5 mm
+- Resistente al agua: 10 ATM
 - Grosor de la caja: 10 mm; tamaño de la caja: 20 mm
 - Material de la correa: acero inoxidable
 
