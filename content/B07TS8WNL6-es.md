@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750-lamew  Zapatillas de Gimnasia  Blanco  Total White 956   35 EU'
-date: 2022-06-10 05:40:02
+date: 2022-06-20 05:34:43
 image: 'https://m.media-amazon.com/images/I/31rO6sx6iLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B07TS8WNL6/?tag=tolees-21'
 descuento: '47.92'
-average: '16.8822222222222'
+average: '18.944'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
