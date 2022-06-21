@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Graphic Crewneck tee HM Della Robbia GR Camiseta  S para Hombre'
-date: 2022-06-19 16:20:22
+date: 2022-06-21 00:06:59
 image: 'https://m.media-amazon.com/images/I/416p7BB8d5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con el emblemático logotipo Batwing de Levis
-- Elaborada en punto suave
 - Un clásico por excelencia que puedes combinar con todo
+- Elaborada en punto suave
+- Con el emblemático logotipo Batwing de Levis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
