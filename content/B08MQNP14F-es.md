@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Provoke XT FTR FM Utility  Zapatillas de Gimnasio Mujer  Brillo de Marfil  42.5 EU'
-date: 2022-06-07 10:11:58
+date: 2022-06-21 19:39:22
 image: 'https://m.media-amazon.com/images/I/31V3xDgr-1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08MQNP14F-es PUMA Provoke XT FTR FM Utility Zapatillas de Gimnasio...'
 sku: 'B08MQNP14F-es'
 tags: [ 'Calzado deportivo para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','puma','🇪🇸', ]
-actualPrice: 35.36 EUR
+actualPrice: 34.68 EUR
 currency: EUR
-price: 35.36
+price: 34.68
 comparePrice: 99.95 EUR
 prodname: 'PUMA Provoke XT FTR FM Utility  Zapatillas de Gimnasio Mujer  Brillo de Marfil  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B08MQNP14F/?tag=tolees-21'
-descuento: '64.62'
-average: '36.9566666666667'
+descuento: '65.30'
+average: '36.3875'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
