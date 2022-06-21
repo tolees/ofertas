@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Space Cowboys Yum Island-Español  Color  SCOYY01ES '
-date: 2022-06-09 22:34:22
+date: 2022-06-21 17:14:55
 image: 'https://m.media-amazon.com/images/I/51nqtpFn3yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B081BFKDF4-es Space Cowboys Yum Island-Español Color SCOYY01ES'
 sku: 'B081BFKDF4-es'
 tags: [ 'Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','space cowboys','🇪🇸', ]
-actualPrice: 14.85 EUR
+actualPrice: 14.03 EUR
 currency: EUR
-price: 14.85
+price: 14.03
 comparePrice: 24.99 EUR
 prodname: 'Space Cowboys Yum Island-Español  Color  SCOYY01ES '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Space Cowboys'
 buyurl: 'https://www.amazon.es/dp/B081BFKDF4/?tag=tolees-21'
-descuento: '40.58'
-average: '17.245'
+descuento: '43.86'
+average: '16.7857142857143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

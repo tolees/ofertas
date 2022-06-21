@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mad Catz R.A.T. 4+ - Ratón  mano derecha  Óptico  USB  7200 DPI  8000 pps  Negro '
-date: 2022-06-20 06:15:38
+date: 2022-06-21 15:56:39
 image: 'https://m.media-amazon.com/images/I/41-AUuFybTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mad Catz'
 buyurl: 'https://www.amazon.es/dp/B07HBDZ91C/?tag=tolees-21'
 descuento: '52.58'
-average: '44.0816666666667'
+average: '41.5185714285715'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
