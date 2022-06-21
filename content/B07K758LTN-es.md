@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Modelo casual
-- Con tacto suave de forro polar
 - Tiene estampado la marca Levis
+- Con tacto suave de forro polar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

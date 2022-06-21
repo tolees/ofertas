@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de tejido de punto suave.
-- Zapatilla acogedora.
 - Tacón de 1,9 cm.
+- Zapatilla acogedora.
+- Empeine de tejido de punto suave.
 - Diseño de zueco informal y cómodo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

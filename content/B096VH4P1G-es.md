@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polo de hombre Lacoste SPORT en piqué y malla con diseño color block
 - Piqué ultra-dry con tecnología refrescante y paneles de malla
+- Polo de hombre Lacoste SPORT en piqué y malla con diseño color block
 - Ribeteado de tejido ligero diamantado y parte inferior de la espalda redondeada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

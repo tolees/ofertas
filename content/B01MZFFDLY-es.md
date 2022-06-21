@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Camper Neuman  Zapatos Hombre  Black 1  39 EU'
-date: 2022-06-16 14:36:27
+title: 'Camper Neuman  Derby Hombre  Black 1  39 EU'
+date: 2022-06-21 01:12:49
 image: 'https://m.media-amazon.com/images/I/41tJJRQlh1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01MZFFDLY-es Camper Neuman Zapatos Hombre Black 1 39 EU'
+slug: 'B01MZFFDLY-es Camper Neuman Derby Hombre Black 1 39 EU'
 sku: 'B01MZFFDLY-es'
 tags: [ 'Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camper','🇪🇸', ]
-actualPrice: 70.16 EUR
+actualPrice: 64.76 EUR
 currency: EUR
-price: 70.16
+price: 64.76
 comparePrice: 110.0 EUR
-prodname: 'Camper Neuman  Zapatos Hombre  Black 1  39 EU'
+prodname: 'Camper Neuman  Derby Hombre  Black 1  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Camper'
 buyurl: 'https://www.amazon.es/dp/B01MZFFDLY/?tag=tolees-21'
-descuento: '36.22'
-average: '70.16'
+descuento: '41.13'
+average: '67.46'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suela/Características: EVA con cortes verticales y una ligereza extraordinaria
 - Empeine: Piel (Piel vacuna)
 - Forro:
-- EXTRALIGHT XL para una mayor ligereza y amortiguación
-- Suela/Características: EVA con cortes verticales y una ligereza extraordinaria
 - Color: Negro
+- EXTRALIGHT XL para una mayor ligereza y amortiguación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
