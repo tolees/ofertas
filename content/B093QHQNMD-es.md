@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones para un ajuste seguro; disponible en tamaños de ancho extendido
 - La amortiguación de la entresuela ENCAP combina espuma ligera con un borde de poliuretano duradero para ofrecer apoyo durante todo el día
+- Cierre de cordones para un ajuste seguro; disponible en tamaños de ancho extendido
 - Acolchado ligero de espuma EVA en la entresuela y el talón para aumentar la comodidad; la entresuela EVA contiene un 3% de espuma biológica
 - La parte superior cuenta con más del 50% de materiales preferidos por el medio ambiente; textil reciclado y parte superior
 - El proceso de fabricación de la entresuela reduce los residuos en un 65% del método anterior; suela de goma con 5% de goma reciclada
