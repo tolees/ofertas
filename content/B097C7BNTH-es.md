@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Smash V2  Zapatillas Unisex Adulto  Azul New Navy/Castlerock Team Gold  44.5 EU'
-date: 2022-06-20 14:44:38
+date: 2022-06-21 22:17:16
 image: 'https://m.media-amazon.com/images/I/310kDP29+nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No es resistente al agua
 - Tenis
+- No es resistente al agua
 - Punta redonda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
