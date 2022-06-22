@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEGA - Bayonetta & Vanquish - Edición 10th Anniversary Bundle Standard'
-date: 2022-06-17 12:05:48
+date: 2022-06-22 17:33:42
 image: 'https://m.media-amazon.com/images/I/517KuBwtObL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SEGA'
 buyurl: 'https://www.amazon.es/dp/B084HCCY8J/?tag=tolees-21'
 descuento: '75.12'
-average: '15.8488235294119'
+average: '15.5211111111112'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La seductora Bruja Umbra irrumpe desde las profundidades después de medio milenio de sueño sin pista de su misterioso pasado
-- De repente Providence es repentinamente atacada por un grupo de amotinados y su tecnología usada para devastar ciudades y llega el momento para una unidad especial de marines que reclamarán la colonia
-- Una Tierra superpoblada que se encuentra con recursos limitadísimos pide ayuda a Providence, una colonia espacial
-- Experimenta la génesis de la saga de Bayonetta con este juego de culto clásico
 - El shooter de ciencia ficción regresa
+- Una Tierra superpoblada que se encuentra con recursos limitadísimos pide ayuda a Providence, una colonia espacial
+- De repente Providence es repentinamente atacada por un grupo de amotinados y su tecnología usada para devastar ciudades y llega el momento para una unidad especial de marines que reclamarán la colonia
+- La seductora Bruja Umbra irrumpe desde las profundidades después de medio milenio de sueño sin pista de su misterioso pasado
+- Experimenta la génesis de la saga de Bayonetta con este juego de culto clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
