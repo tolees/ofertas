@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Guess Modelo Reloj GW0030L2
-- 8 milimetros calendario - -
 - Analógico para Unisex adulto
+- 8 milimetros calendario - -
+- Guess Modelo Reloj GW0030L2
 
 [🛒 Aquí!!!]({{< param buyurl >}})

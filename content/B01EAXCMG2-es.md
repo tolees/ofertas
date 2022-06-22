@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Material de la correa: acero inoxidable · Movimiento: Cuarzo
 - Incluye caja de regalo de Michael Kors
-- El diseño de las cajas de relojes Michael Kors se renueva en cada temporada
-- Ancho de la correa: 18 mm. Circunferencia de la correa: 175 +/- 5 mm
 - Diámetro de la caja: 33 mm. Grosor de la caja: 8 mm
+- Ancho de la correa: 18 mm. Circunferencia de la correa: 175 +/- 5 mm
+- El diseño de las cajas de relojes Michael Kors se renueva en cada temporada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
