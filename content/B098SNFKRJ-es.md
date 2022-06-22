@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 711 Skinny Rio Fate Jeans  28W x 30L para Mujer'
-date: 2022-06-20 15:49:48
+date: 2022-06-22 21:27:32
 image: 'https://m.media-amazon.com/images/I/31Io+P24aaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B098SNFKRJ-es Levi s 711 Skinny Rio Fate Jeans 28W x 30L para Mujer'
 sku: 'B098SNFKRJ-es'
 tags: [ 'Ropa','Ropa para mujer','Vaqueros para mujer','levis','🇪🇸', ]
-actualPrice: 39.6 EUR
+actualPrice: 37.77 EUR
 currency: EUR
-price: 39.6
+price: 37.77
 comparePrice: 120.0 EUR
 prodname: 'Levi s 711 Skinny Rio Fate Jeans  28W x 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B098SNFKRJ/?tag=tolees-21'
-descuento: '67.00'
-average: '41.66'
+descuento: '68.52'
+average: '40.882'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
