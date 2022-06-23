@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado gráfico en el pecho
-- Talle medio
-- Manga corta
 - Bajo recto
+- Talle medio
 - Corte regular
+- Manga corta
+- Estampado gráfico en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

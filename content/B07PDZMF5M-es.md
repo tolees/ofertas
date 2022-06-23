@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 30º - Secado natural
-- Tendrás afecto para tu peluche de polujón
-- Brioche et Pouchon
 - 100% poliéster
+- 30º - Secado natural
 - Desde el nacimiento
+- Brioche et Pouchon
+- Tendrás afecto para tu peluche de polujón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Confección con un tejido de punto de algodón supersuave
+- Nos encanta llevarlos por dentro o por fuera
 - Una prenda supersuave con cuello redondo clásico que combina bien con todo
 - Con la marca característica de Levis
-- Nos encanta llevarlos por dentro o por fuera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
