@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse All Star Hi Canvas Zapatillas Negras-UK 10'
-date: 2022-06-13 06:51:02
+date: 2022-06-23 06:42:56
 image: 'https://m.media-amazon.com/images/I/41YGfVxvsIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B000NRPV36/?tag=tolees-21'
 descuento: '42.92'
-average: '47.8485714285714'
+average: '46.86125'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
