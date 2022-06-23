@@ -31,7 +31,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - En caja de regalo Fossil
 - Sumergible: 5 atm
 - Material de la correa: piel
-- Ancho de la correa: 24 mm; circunferencia de la correa: 200 +/-5 mm
 - Grosor de la caja: 11 mm. Tamaño de la caja: 46 mm
+- Ancho de la correa: 24 mm; circunferencia de la correa: 200 +/-5 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
