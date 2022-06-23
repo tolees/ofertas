@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De moda
 - Mantiene la pantalla protegida
+- Diseñada para proteger
 - Ultrafina
 - Compatible con alpha glass
-- Diseñada para proteger
+- De moda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

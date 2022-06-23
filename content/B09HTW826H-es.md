@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Bajo recto
-- Cuello de polo y puños acanalados
-- Aberturas laterales
 - Corte ajustado
+- Aberturas laterales
+- Cuello de polo y puños acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - No polarizado. Protección 100% UV
+- Gafas de sol negras con montura cat-eye en metal
 - Lentes de policarbonato, filtro CE 3
 - Dimensiones (en mm):Ancho de la lente: 58 - Ancho del puente: 17.00 - Longitud de la varilla: 140 - Altura de la lente: 44.20
-- Gafas de sol negras con montura cat-eye en metal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
