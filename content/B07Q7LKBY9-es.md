@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatible con todas las serie de Roomba
 - ¿Por qué vendedores autorizados y accesorios auténticos? Cuando compras un producto iRobot, estás haciendo una inversión para tu hogar. Comprar productos iRobot auténticos a vendedores autorizados es la única manera de asegurarte de que lo que estás comprando sea digno de tu inversión. Los productos comprados a un vendedor no autorizado no estarán cubiertos ni serán reparados por iRobot.
 - Incluye: 1 rueda pivotante delantera
+- Compatible con todas las serie de Roomba
 - El mantenimiento habitual mantiene tu Robot Aspirador Roomba funcionando al máximo rendimiento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

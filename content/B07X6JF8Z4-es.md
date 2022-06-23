@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Varilla telescópica alojada en el mango
 - Portas-puntas tipo Kraftform con varilla de bayoneta y sistema de cambio rápido Rapidaptor
+- Mango Kraftform con sistema antirodamiento, multicomponente, con depósito de puntas integrado
 - En un bolso robusto
 - Puntas de 6x25 mm con sistema de búsqueda de herramienta "Take it easy": con marcas a color según el perfil y con sellos según el tamaño correspondiente, así como puntas de 6x89 mm
-- Mango Kraftform con sistema antirodamiento, multicomponente, con depósito de puntas integrado
-- Varilla telescópica alojada en el mango
 
 [🛒 Comprar!!!]({{< param buyurl >}})
