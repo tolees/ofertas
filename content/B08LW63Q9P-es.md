@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Robot Aspirador y Fregasuelos Conga 3890 Ultra. Láser  Potencia Succión 2300Pa  Gestión de estancias  Mapa Interactivo  Control App y Mando  Asistente Virtual  Tanque de sólidos y Mixto'
-date: 2022-06-16 06:42:30
+date: 2022-06-23 21:06:03
 image: 'https://m.media-amazon.com/images/I/41YOKPMOQcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08LW63Q9P-es Cecotec Robot Aspirador y Fregasuelos Conga 3890 Ultra....'
 sku: 'B08LW63Q9P-es'
 tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Hogar y cocina','Robots aspiradores','cecotec','🇪🇸', ]
-actualPrice: 199.0 EUR
+actualPrice: 193.2 EUR
 currency: EUR
-price: 199.0
+price: 193.2
 comparePrice: 309.9 EUR
 prodname: 'Cecotec Robot Aspirador y Fregasuelos Conga 3890 Ultra. Láser  Potencia Succión 2300Pa  Gestión de estancias  Mapa Interactivo  Control App y Mando  Asistente Virtual  Tanque de sólidos y Mixto'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Cecotec'
 buyurl: 'https://www.amazon.es/dp/B08LW63Q9P/?tag=tolees-21'
-descuento: '35.79'
-average: '234.273181818182'
+descuento: '37.66'
+average: '232.852608695652'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
