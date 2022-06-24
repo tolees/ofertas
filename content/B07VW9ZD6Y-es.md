@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adaptive Sync (G-Sync Compatible): Ofrece un rango de refresco variable (VRR) que produce una experiencia de juego sin defectos de imagen
-- Equipado con puertos DisplayPort 1.2 y HDMI (v1.4) para conectar todos tus dispositivos multimedia
 - La tecnología ASUS Extreme Low Motion Blur Sync (ELMB SYNC) ofrece un tiempo de respuesta de 1 ms y G-Sync, elimina defectos de imagen para una experiencia de juego fluida y frame rates altos
+- Adaptive Sync (G-Sync Compatible): Ofrece un rango de refresco variable (VRR) que produce una experiencia de juego sin defectos de imagen
 - Incorpora un soporte ergonómico que permite ajustar la inclinación, orientación, rotación y altura de la pantalla
+- Equipado con puertos DisplayPort 1.2 y HDMI (v1.4) para conectar todos tus dispositivos multimedia
 - Monitor gaming WQHD (2560x1440) de 27 con 165 Hz de refresco diseñado para brindar una experiencia de juego inmersiva a gamers profesionales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

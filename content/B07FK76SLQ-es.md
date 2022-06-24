@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Potencía de la carga: 500 mah
-- Contiene 4 pilas aaa precargadas
-- Energía duradera y recargable para los dispositivos que utiliza a diario
-- Aparatos de uso cotidiano, despertadores, mandos a distancia
-- Uso intensivo hasta 1000 ciclos de recarga
 - Universal: 2 veces más de duración de la carga cuando la necesitas
+- Uso intensivo hasta 1000 ciclos de recarga
+- Aparatos de uso cotidiano, despertadores, mandos a distancia
+- Contiene 4 pilas aaa precargadas
+- Potencía de la carga: 500 mah
+- Energía duradera y recargable para los dispositivos que utiliza a diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

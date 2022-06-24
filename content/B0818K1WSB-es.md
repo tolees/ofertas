@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sportware
 - Nike
+- Sportware
 - Training
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
