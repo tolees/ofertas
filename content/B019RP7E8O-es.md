@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - POP! Bobble - Star Wars: E7 TFA: Varmik'
-date: 2022-06-22 22:09:18
+date: 2022-06-24 00:30:51
 image: 'https://m.media-amazon.com/images/I/41zVA817z+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B019RP7E8O/?tag=tolees-21'
 descuento: '53.37'
-average: '8.92428571428572'
+average: '8.6825'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Varmik
 - Star Wars: E7 TFA
 - Funko POP
+- Varmik
 
 [🛒 Aquí!!!]({{< param buyurl >}})
