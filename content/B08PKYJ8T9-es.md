@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas SQ21 TR Top Pullover  Mens  Black/White  L'
-date: 2022-06-22 06:54:54
+date: 2022-06-24 16:33:42
 image: 'https://m.media-amazon.com/images/I/417ci0VqB7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08PKYJ8T9/?tag=tolees-21'
 descuento: '50.00'
-average: '26.99'
+average: '26.2133333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuenta con 3 rayas en las mangas
+- Ajuste regular
 - Ofrece comodidad y libertad de movimiento
 - Punto doble 100% poliéster reciclado
-- Ajuste regular
+- Cuenta con 3 rayas en las mangas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

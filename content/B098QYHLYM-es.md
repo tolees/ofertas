@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original HM tee Abyss Cinnamon Stick T-Shirt  M para Hombre'
-date: 2022-06-19 12:23:43
+date: 2022-06-24 17:52:41
 image: 'https://m.media-amazon.com/images/I/41hRtbiMHrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B098QYHLYM/?tag=tolees-21'
 descuento: '39.98'
-average: '18.49'
+average: '17.9083333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
