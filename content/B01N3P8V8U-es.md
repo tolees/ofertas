@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'M MAGEFESA - MAGEFESA Genova – La cafetera MAGEFESA Genova está Fabricada en Acero Inoxidable 18/10  Compatible con Todo Tipo de Cocina. Fácil Limpieza  6 Tazas '
-date: 2022-06-17 19:49:37
+date: 2022-06-25 14:05:14
 image: 'https://m.media-amazon.com/images/I/31QUajDGtUS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01N3P8V8U-es M MAGEFESA - MAGEFESA Genova – La cafetera MAGEFESA Genova...'
 sku: 'B01N3P8V8U-es'
 tags: [ 'Cafeteras italianas','Hogar y cocina','Utensilios para café y té','m magefesa','🇪🇸', ]
-actualPrice: 27.55 EUR
+actualPrice: 27.05 EUR
 currency: EUR
-price: 27.55
+price: 27.05
 comparePrice: 45.38 EUR
 prodname: 'M MAGEFESA - MAGEFESA Genova – La cafetera MAGEFESA Genova está Fabricada en Acero Inoxidable 18/10  Compatible con Todo Tipo de Cocina. Fácil Limpieza  6 Tazas '
 country: 'es'
 flag: '🇪🇸'
 brand: 'M MAGEFESA'
 buyurl: 'https://www.amazon.es/dp/B01N3P8V8U/?tag=tolees-21'
-descuento: '39.29'
-average: '26.4277777777778'
+descuento: '40.39'
+average: '26.4605263157895'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
