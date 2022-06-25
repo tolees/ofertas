@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Guess Analógico W1168G3'
-date: 2022-06-15 18:12:42
+date: 2022-06-25 16:55:03
 image: 'https://m.media-amazon.com/images/I/51AY9-R2MZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Guess'
 buyurl: 'https://www.amazon.es/dp/B07F3G5C1M/?tag=tolees-21'
 descuento: '50.25'
-average: '118.004'
+average: '118.153333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Guess Modelo Reloj W1168G3
-- 8 milimetros calendario Día y fecha correa ajustable
 - Analógico para Hombre
+- 8 milimetros calendario Día y fecha correa ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
