@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Advantage  Tennis Shoe Hombre  Core Black/Core Black/Cloud White  40 EU'
-date: 2022-06-26 15:55:11
+date: 2022-06-27 17:42:01
 image: 'https://m.media-amazon.com/images/I/31lcrsCcxVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B09HZD9ZYL/?tag=tolees-21'
 descuento: '50.00'
-average: '56.25'
+average: '50.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
