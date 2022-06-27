@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Olympia - Juego des fundas para plastificar  100 unidades varias'
-date: 2022-06-22 22:39:53
+date: 2022-06-27 13:27:39
 image: 'https://m.media-amazon.com/images/I/51yCn4tgk1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 20 x DIN A 4
 - 40 x Tarjeta de presentación
-- 20 x DIN A 5
 - 20 x DIN A 6
+- 20 x DIN A 4
+- 20 x DIN A 5
 
 [🛒 Comprar!!!]({{< param buyurl >}})
