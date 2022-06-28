@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 95% algodón, 5% elastano.
-- Planchado a una temperatura máxima de 110 °C.
 - No usar lejía.
+- Planchado a una temperatura máxima de 110 °C.
 - Lavado a máquina, temperatura máxima 60 °C, proceso normal.
 - Secado en tambor, temperatura moderada 50 °C.
 

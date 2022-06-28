@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Máxima calidad: este producto es sometido a frecuentes pruebas y cumple con los más altos estándares internacionales, incluidos los de HACCP y GMP
-- Altamente dosificado: cada cápsula contiene 1000 mg de aceite de pescado puro
-- Fabricado en Alemania en una fábrica acreditada
-- Respetuoso con el medio ambiente: nuestro aceite de pescado se extrae de anchoas recolectadas de forma sostenible
-- Con cápsulas de gelatina de pescado: a diferencia de la mayoría de los productos de la competencia, que utilizan gelatina de cerdo o de vaca, nuestras cápsulas están hechas exclusivamente de gelatina de pescado
 - 365 cápsulas de omega 3
+- Fabricado en Alemania en una fábrica acreditada
+- Máxima calidad: este producto es sometido a frecuentes pruebas y cumple con los más altos estándares internacionales, incluidos los de HACCP y GMP
+- Con cápsulas de gelatina de pescado: a diferencia de la mayoría de los productos de la competencia, que utilizan gelatina de cerdo o de vaca, nuestras cápsulas están hechas exclusivamente de gelatina de pescado
+- Altamente dosificado: cada cápsula contiene 1000 mg de aceite de pescado puro
+- Respetuoso con el medio ambiente: nuestro aceite de pescado se extrae de anchoas recolectadas de forma sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
