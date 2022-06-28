@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela de TPU e IMEVA
 - IMEVA: material de Puma para una sensación ligera y cómoda
+- Entresuela de TPU e IMEVA
 - Parte superior de piel sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})
