@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Festina Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable F20259/1'
-date: 2022-06-19 06:58:16
+date: 2022-06-29 07:06:39
 image: 'https://m.media-amazon.com/images/I/41EPXEAYe3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Festina'
 buyurl: 'https://www.amazon.es/dp/B01MQ2JU73/?tag=tolees-21'
 descuento: '55.28'
-average: '86.576170212766'
+average: '86.6266666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
