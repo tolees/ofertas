@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Protección solar Omni-Shade UPF 50
 - Tejido Omni-Wick
 - Cinta para mentón ajustable
-- Protección solar Omni-Shade UPF 50
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
