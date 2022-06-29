@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original HM tee Starlight Blue T-Shirt  M para Hombre'
-date: 2022-06-24 18:40:42
+date: 2022-06-29 12:05:09
 image: 'https://m.media-amazon.com/images/I/31O7+7BW0zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B098QWMJQB/?tag=tolees-21'
 descuento: '49.98'
-average: '18.725'
+average: '15.6125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
