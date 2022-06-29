@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Aerotwin AR502S limpiaparabrisas  Longitud 500 mm/450 mm  1 juego para el parabrisas  frontal  + Rear H341 limpiaparabrisas  Longitud 340 mm  para la ventana trasera'
-date: 2022-06-25 19:21:06
+date: 2022-06-29 20:44:01
 image: 'https://m.media-amazon.com/images/I/41ZCj3NmUwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
