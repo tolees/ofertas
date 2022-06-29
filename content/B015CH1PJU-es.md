@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Flair Memoria flash USB 3.0 de 128 GB  con carcasa de metal duradera y elegante y hasta 150 MB/s de velocidad de lectura  Color Silver'
-date: 2022-06-21 05:42:36
+date: 2022-06-29 10:27:19
 image: 'https://m.media-amazon.com/images/I/31jWumrsWyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B015CH1PJU-es SanDisk Ultra Flair Memoria flash USB 3.0 de 128 GB con...'
 sku: 'B015CH1PJU-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Memorias USB','sandisk','🇪🇸', ]
-actualPrice: 16.7 EUR
+actualPrice: 14.99 EUR
 currency: EUR
-price: 16.7
+price: 14.99
 comparePrice: 41.99 EUR
 prodname: 'SanDisk Ultra Flair Memoria flash USB 3.0 de 128 GB  con carcasa de metal duradera y elegante y hasta 150 MB/s de velocidad de lectura  Color Silver'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B015CH1PJU/?tag=tolees-21'
-descuento: '60.23'
-average: '16.3107818930038'
+descuento: '64.30'
+average: '16.3053688524587'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Hasta 15 veces más rápido que un USB 2.0 estándar
+- Mantén la privacidad de tus archivos privados con el software SanDisk SecureAccess (incluido)
 - Transfiere una película completa en menos de 30 segundos
 - Hasta 150 MB/s de velocidades de lectura
-- Mantén la privacidad de tus archivos privados con el software SanDisk SecureAccess (incluido)
-- Hasta 15 veces más rápido que un USB 2.0 estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
