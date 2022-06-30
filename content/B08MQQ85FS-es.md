@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior nueva para ampliar aún más la franquicia Provoke
 - Bota baja
 - Formas de TPU actualizadas en la entresuela
-- Parte superior nueva para ampliar aún más la franquicia Provoke
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
