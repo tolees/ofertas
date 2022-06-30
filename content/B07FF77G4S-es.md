@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapato Punta: redonda
 - Ajuste: normal.
-- Altura del tacón: 0 – 3 cm
 - Suela interior: textil, suave acolchado
+- Altura del tacón: 0 – 3 cm
 - Patrón: Uni
+- Zapato Punta: redonda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
