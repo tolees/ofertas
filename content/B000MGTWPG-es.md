@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para uso en pequeños electrodomésticos, juguetes,linternas
 - Sin mercurio ni cadmio
 - Larga duración
-- Para uso en pequeños electrodomésticos, juguetes,linternas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
