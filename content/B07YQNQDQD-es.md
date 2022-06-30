@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers GO RUN CONSISTENT  Zapatillas para Mujer  Navy Leather/Pink Textile  36 EU'
-date: 2022-06-27 06:58:57
+date: 2022-06-30 08:38:23
 image: 'https://m.media-amazon.com/images/I/41B+GcRY7dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07YQNQDQD/?tag=tolees-21'
 descuento: '39.31'
-average: '40.56'
+average: '41.19'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
