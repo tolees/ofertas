@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Goma Goodyear
-- Zapato cómodo
 - Ajuste elástico
-- Lavable a máquina
+- Goma Goodyear
 - Espuma viscoelástica
+- Lavable a máquina
+- Zapato cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
