@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Efecto lavado y arrugas
-- Diseño ajustado
-- Nueva versión con algodón de cultivo ecológico controlado
 - Cintura con trabillas, botón y cremallera oculta
+- Efecto lavado y arrugas
+- Nueva versión con algodón de cultivo ecológico controlado
+- Diseño ajustado
 - Vaqueros clásicos de 5 bolsillos con comodidad elástica en diferentes lavados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
