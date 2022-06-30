@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Remaches de tipo machihembrado de acero inoxidable, altamente resistentes a la corrosión
-- Mango: Sus formas clásicas y remate redondeado de gran belleza y solidez hacen de este cuchillo uno de los más demandados por profesionales
-- Hoja: El Acero Inoxidable Forjado Nitrum, exclusivo de ARCOS le confiere unas cualidades de dureza extraordinarias
-- Cachas de polioximetileno (POM), con un cuidado acabado, de gran dureza y resistencia a lejías
 - Tamaño Hoja: 140 mm
+- Cachas de polioximetileno (POM), con un cuidado acabado, de gran dureza y resistencia a lejías
+- Remaches de tipo machihembrado de acero inoxidable, altamente resistentes a la corrosión
+- Hoja: El Acero Inoxidable Forjado Nitrum, exclusivo de ARCOS le confiere unas cualidades de dureza extraordinarias
+- Mango: Sus formas clásicas y remate redondeado de gran belleza y solidez hacen de este cuchillo uno de los más demandados por profesionales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

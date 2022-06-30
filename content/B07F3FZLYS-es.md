@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Guess Analógico W1156L1'
-date: 2022-06-16 21:03:11
+date: 2022-06-30 20:09:17
 image: 'https://m.media-amazon.com/images/I/41QHEM-2QXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Guess'
 buyurl: 'https://www.amazon.es/dp/B07F3FZLYS/?tag=tolees-21'
 descuento: '42.34'
-average: '127.641578947369'
+average: '128.08380952381'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
