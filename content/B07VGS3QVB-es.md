@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuidado iónico.
-- Frecuencia 50-60 Hz. Ajuste de temperatura ThermoProtect.
-- Boquilla 9 mm. Voltaje 220 V.
 - Función de aire frío. Seis posiciones de calor y velocidad.
-- Accesorios : Difusor de volúmen.
-- Gancho para colgar. Longitud del cable 2 m.
 - Secador de Pelo, potente motor AC
+- Boquilla 9 mm. Voltaje 220 V.
 - Potencia 2200 W .
+- Cuidado iónico.
+- Gancho para colgar. Longitud del cable 2 m.
+- Frecuencia 50-60 Hz. Ajuste de temperatura ThermoProtect.
+- Accesorios : Difusor de volúmen.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

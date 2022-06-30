@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Squad 21 JSY Y T-Shirt  Boys  Black/White  1112'
-date: 2022-06-23 13:55:02
+date: 2022-06-30 15:45:32
 image: 'https://m.media-amazon.com/images/I/3109N5QmvxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08T1K5FKC/?tag=tolees-21'
 descuento: '50.28'
-average: '10.5633333333333'
+average: '10.16'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tecnología AEROREADY absorbente de humedad
-- Escote redondo
-- Una camiseta con cuello redondo para un rendimiento óptimo
 - Corte regular
+- Una camiseta con cuello redondo para un rendimiento óptimo
+- Escote redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

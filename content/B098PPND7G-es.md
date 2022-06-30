@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Color de la correa: dorado
 - Tamaño de la caja: mayor de 45 mm
-- Forma del reloj: redonda
-- Cierre de la correa: desplegable
 - Anchura de la correa: 22.0 millimeters; Diámetro de la caja: 48.0 millimeters
+- Cierre de la correa: desplegable
 - Color de la esfera: dorado
+- Forma del reloj: redonda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
