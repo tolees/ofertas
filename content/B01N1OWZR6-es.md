@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Basket Heart Patent Wn s  Zapatillas de Deporte  para Mujer  Blanco  Puma White-Puma White   40.5 EU'
-date: 2022-06-27 02:01:51
+date: 2022-06-30 11:58:51
 image: 'https://m.media-amazon.com/images/I/31KuHqCE5DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01N1OWZR6-es PUMA Basket Heart Patent Wn s Zapatillas de Deporte para...'
 sku: 'B01N1OWZR6-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','puma','🇪🇸', ]
-actualPrice: 37.5 EUR
+actualPrice: 37.22 EUR
 currency: EUR
-price: 37.5
+price: 37.22
 comparePrice: 89.95 EUR
 prodname: 'PUMA Basket Heart Patent Wn s  Zapatillas de Deporte  para Mujer  Blanco  Puma White-Puma White   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B01N1OWZR6/?tag=tolees-21'
-descuento: '58.31'
-average: '29.9691304347827'
+descuento: '58.62'
+average: '30.2712500000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

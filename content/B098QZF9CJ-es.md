@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original HM tee Nile T-Shirt  L para Hombre'
-date: 2022-06-24 18:40:18
+date: 2022-06-30 12:41:13
 image: 'https://m.media-amazon.com/images/I/31wuvBfqWhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La camiseta básica perfecta
 - Elaborada en punto suave
+- La camiseta básica perfecta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
