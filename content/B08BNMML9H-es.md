@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- INDICADORES LED: Visualiza la hora y los minutos de la mejor manera gracias a los 3 niveles de intensidad luz posibles para crear distintos ambientes.
 - DESPERTADOR DIGITAL DOBLE ALARMA: Programa 2 alarmas distintas mediante el Modo Snooze, según el día. Por ejemplo: una alarma fija para los días laborables y otra para el fin de semana.
 - ALTAVOZ BLUETOOTH Y RADIO FM: Se puede conectar a cualquier dispositivo con Bluetooth, como tu móvil, y obtener un potente altavoz de 6W. Gracias a esta tecnología, podrás controlar la reproducción de la música desde tu Smartphone, Tablet, etc. Además, sintoniza tus emisoras de radio favoritas y despiértate con ellas cada día, y con la mayor calidad de audio.
-- CARGA RÁPIDA QI: El despertador Alarm Clock 2 cuenta con un cargador inalámbrico de carga rápida inalámbrica (Apple y Android) que carga los dispositivos hasta 1,4 veces más rápido que una carga inalámbrica estándar. Es necesario tener un dispositivo con tecnología Qi, para conseguir la carga inalámbrica. Al cargar dispositivos compatibles con la carga inalámbrica Qi que no soportan la carga rápida, el cargador adaptará la carga a la velocidad estándar (5W).
 - BATERÍA AUTÓNOMA: Gracias a su puerto USB tipo A podrás cargar tu despertador cargador inalámbrico y llevártelo a cualquier parte para que puedas seguir utilizando tu altavoz Bluetooth.
+- INDICADORES LED: Visualiza la hora y los minutos de la mejor manera gracias a los 3 niveles de intensidad luz posibles para crear distintos ambientes.
+- CARGA RÁPIDA QI: El despertador Alarm Clock 2 cuenta con un cargador inalámbrico de carga rápida inalámbrica (Apple y Android) que carga los dispositivos hasta 1,4 veces más rápido que una carga inalámbrica estándar. Es necesario tener un dispositivo con tecnología Qi, para conseguir la carga inalámbrica. Al cargar dispositivos compatibles con la carga inalámbrica Qi que no soportan la carga rápida, el cargador adaptará la carga a la velocidad estándar (5W).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
