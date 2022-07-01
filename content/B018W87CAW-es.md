@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'Superga 2790-COTROPEW  Zapatillas Mujer  Azul  Marineblau   37.5 EU  4.5 UK '
+date: 2022-07-01 09:31:21
+image: 'https://m.media-amazon.com/images/I/51VO2TUDhGL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B018W87CAW-es Superga 2790-COTROPEW Zapatillas Mujer Azul Marineblau...'
+sku: 'B018W87CAW-es'
+tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','superga','🇪🇸', ]
+actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
+comparePrice: 79.0 EUR
+prodname: 'Superga 2790-COTROPEW  Zapatillas Mujer  Azul  Marineblau   37.5 EU  4.5 UK '
+country: 'es'
+flag: '🇪🇸'
+brand: 'Superga'
+buyurl: 'https://www.amazon.es/dp/B018W87CAW/?tag=tolees-21'
+descuento: '50.65'
+average: '32.26'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Solé material: Caucho
+- Cierre: Con cordones
+
+[🛒 Visítala!!!]({{< param buyurl >}})
