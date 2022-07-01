@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Maridaje: Para combinar con aperitivos de pescado y carnes blancas delicadas
 - Perfume: Varios
 - Color: blanco, rosa y rojo
+- Maridaje: Para combinar con aperitivos de pescado y carnes blancas delicadas
+- Uvas: Chardonnay-Barbera-Nebbiolo-Dolcetto
 - Sabor: Varios
 - Contenido de alcohol (alc/vol): 13.0 percent by volume; tipo de alcohol: Gift Baskets Wine; procedencia: Italy; como servir: Serve at 16-18 C
-- Uvas: Chardonnay-Barbera-Nebbiolo-Dolcetto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

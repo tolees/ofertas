@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original HM tee Surf Blue T-Shirt  L para Hombre'
-date: 2022-06-29 18:13:56
+date: 2022-07-01 16:12:50
 image: 'https://m.media-amazon.com/images/I/4150e2RVQkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elaborada en punto suave
 - La camiseta básica perfecta
+- Elaborada en punto suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
