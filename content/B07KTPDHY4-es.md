@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa de tela gris
 - Esfera gris
-- Movimiento de cuarzo de dos manecillas
-- 5 ATM de resistencia al agua; se puede utilizar en la ducha o para nadar, pero no para bucear en aguas profundas
 - Grosor de la caja de 11.05 mm; diámetro de la caja: 44 mm
+- Correa de tela gris
+- 5 ATM de resistencia al agua; se puede utilizar en la ducha o para nadar, pero no para bucear en aguas profundas
+- Movimiento de cuarzo de dos manecillas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
