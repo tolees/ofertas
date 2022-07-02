@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Versátil en diversos materiales: el taladro puede utilizarse para proyectos que requieren tornillos o taladrar en madera, metal y plástico.
-- Potencia y velocidad óptimas: Atornillado potente y taladrado rápido gracias a la caja de cambios de 8 velocidades con 20 niveles de par (Par de giro máx.: 40 Nm)
-- Cómodo manejo: con su forma ergonómica y su construcción ligera, este destornillador inalámbrico también es adecuado para tareas que requieren mucho tiempo.
 - Incluye: UniversalDrill 18 V, 1 batería de 1.5 Ah, cargador AL 1810 CV, punta doble, maletín
 - Las herramientas universales de Bosch: flexibles y potentes con soluciones inteligentes para diversos proyectos.
+- Cómodo manejo: con su forma ergonómica y su construcción ligera, este destornillador inalámbrico también es adecuado para tareas que requieren mucho tiempo.
+- Potencia y velocidad óptimas: Atornillado potente y taladrado rápido gracias a la caja de cambios de 8 velocidades con 20 niveles de par (Par de giro máx.: 40 Nm)
+- Versátil en diversos materiales: el taladro puede utilizarse para proyectos que requieren tornillos o taladrar en madera, metal y plástico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

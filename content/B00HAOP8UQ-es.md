@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La belleza más deasada a tu alcanze con los mejores productos del mercado al mejor
-- Productos de belleza e higiene personal para hombres y mujeres de todas las edades
 - Ck One Edt Vapo 100 Ml
+- Productos de belleza e higiene personal para hombres y mujeres de todas las edades
+- La belleza más deasada a tu alcanze con los mejores productos del mercado al mejor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

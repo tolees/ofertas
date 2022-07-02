@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 512 Slim Taper Money IN The Bag Jeans  32W x 32L para Hombre'
-date: 2022-07-01 09:44:50
+date: 2022-07-02 17:30:19
 image: 'https://m.media-amazon.com/images/I/415jKVRe11L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
