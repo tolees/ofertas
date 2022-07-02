@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 54977 POP Heroes WW 80th-WW  Black Lantern '
-date: 2022-07-01 19:29:41
+date: 2022-07-02 21:29:21
 image: 'https://m.media-amazon.com/images/I/41-DIjB7cmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B08P5YGJT9/?tag=tolees-21'
 descuento: '66.67'
-average: '8.86666666666667'
+average: '7.9'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La figura mide 9 cm y viene en una caja de exhibición de ventana
-- Mira las otras figuras de Funko dedicadas a esta colección
 - POP vinilo de Funko
+- Mira las otras figuras de Funko dedicadas a esta colección
 - Colecciónalos todos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
