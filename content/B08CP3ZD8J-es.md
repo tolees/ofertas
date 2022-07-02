@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UBI Soft - Far Cry 6 | Uncut - PC [Importación alemana]'
-date: 2022-06-30 22:23:51
+date: 2022-07-02 00:00:35
 image: 'https://m.media-amazon.com/images/I/51RnklcSlfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
