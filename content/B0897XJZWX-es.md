@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original HM tee Chisel Grey Heather T-Shirt  M para Hombre'
-date: 2022-06-30 09:26:56
+date: 2022-07-02 13:05:36
 image: 'https://m.media-amazon.com/images/I/416w9PXnpDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B0897XJZWX/?tag=tolees-21'
 descuento: '50.00'
-average: '18.0642857142857'
+average: '17.36875'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo pequeño de Levis en el pecho
-- Adecuada para el día a día
 - Modelo casual
+- Adecuada para el día a día
+- Logotipo pequeño de Levis en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

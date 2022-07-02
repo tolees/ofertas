@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Tango Rosario Balón  Unisex Adulto  Blanco/Negro  Talla Única'
-date: 2022-06-30 08:31:48
+date: 2022-07-02 11:19:48
 image: 'https://m.media-amazon.com/images/I/51-oNKB0OML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B000G5COZS/?tag=tolees-21'
 descuento: '58.43'
-average: '18.8133333333333'
+average: '17.2225'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

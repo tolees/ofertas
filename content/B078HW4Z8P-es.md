@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Silicona
 - Masturbador
-- Realista. Sin plastificantes
+- Silicona
 - Compresible
+- Realista. Sin plastificantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
