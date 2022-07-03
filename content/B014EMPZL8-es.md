@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Exterior: piel auténtica, textil
-- Suela: goma
-- Tipo de cierre: cordones
-- Tipo de tacón: ---
 - Interior: textil
+- Suela: goma
+- Tipo de tacón: ---
+- Exterior: piel auténtica, textil
+- Tipo de cierre: cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
