@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tamaño: 42 x 32 x 12 cm
+- Capacidad: 22 litros
+- Bolsillo frontal con organizador
 - Bolsillo lateral para botella de agua
 - Tipo de bandolera
-- Tamaño: 42 x 32 x 12 cm
-- Bolsillo frontal con organizador
-- Capacidad: 22 litros
 
 [🛒 Visítala!!!]({{< param buyurl >}})

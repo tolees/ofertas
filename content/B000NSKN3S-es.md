@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VANS UA Classic Slip-On  Zapatillas Unisex Adulto  Blk&WhtChckerbo  35 EU'
-date: 2022-06-21 14:59:58
+date: 2022-07-03 12:27:13
 image: 'https://m.media-amazon.com/images/I/31VkFAhbdxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B000NSKN3S/?tag=tolees-21'
 descuento: '38.54'
-average: '38.1083333333333'
+average: '38.3714285714285'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

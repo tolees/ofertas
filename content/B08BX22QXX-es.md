@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste normal
 - Suela robusta
+- Ajuste normal
 - Material duradero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

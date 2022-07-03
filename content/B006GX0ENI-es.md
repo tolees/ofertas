@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior de lona resistente
 - Suela waffle para un agarre más firme
 - Pespuntes clásicos
-- Parte superior de lona resistente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
