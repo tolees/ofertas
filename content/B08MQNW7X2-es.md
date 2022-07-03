@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capa superior de malla 100% reciclada
 - Plantilla sostenible que contiene 20% espuma reciclada y 5% material biológico
 - PUMA Logotipo de Cat
-- CMEVA: material EVA moldeado por compresión de Puma para un rendimiento ligero
 - Bota baja
+- Capa superior de malla 100% reciclada
+- CMEVA: material EVA moldeado por compresión de Puma para un rendimiento ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
