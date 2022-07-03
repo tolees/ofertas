@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Amortiguación ligera
-- Parte superior textil
 - Cierre con cordones
+- Parte superior textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Camiseta GS Raw  Negro  Dk Black 336-6484   M para Hombre'
-date: 2022-06-29 09:32:46
+date: 2022-07-03 20:43:57
 image: 'https://m.media-amazon.com/images/I/317pBWIFueL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Bajo recto
 - Cuello redondo acanalado
-- Gráfico de G-Star RAW estampado en el pecho
 - Corte regular
+- Gráfico de G-Star RAW estampado en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

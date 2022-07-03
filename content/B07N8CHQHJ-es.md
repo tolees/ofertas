@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- slim fit, 5-pocket jeans shorts
 - tight demin shorts with normal waist
+- slim fit, 5-pocket jeans shorts
 
 [🛒 Aquí!!!]({{< param buyurl >}})

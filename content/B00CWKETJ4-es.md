@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- USO: Máxima adherencia a todos los materiales. 100% impermeable y hermético. Pintable inmediatamente.
-- MODO DE EMPLEO: LIMPIAR y secar bien las superficies. CORTAR la boca del cartucho. COLOCAR el cartucho en la pistola y APLICAR.
-- SUPERFICIES APTAS: No ataca superficies delicadas.
-- CARACTERÍSTICAS: Ultraelástico 370%. Resistencia a tracción 300Kg/10cm2. 1h de secado. Sin disolventes. Sin ftalatos.
 - FORMATO: Cartucho 290 ML.
+- USO: Máxima adherencia a todos los materiales. 100% impermeable y hermético. Pintable inmediatamente.
+- CARACTERÍSTICAS: Ultraelástico 370%. Resistencia a tracción 300Kg/10cm2. 1h de secado. Sin disolventes. Sin ftalatos.
+- SUPERFICIES APTAS: No ataca superficies delicadas.
+- MODO DE EMPLEO: LIMPIAR y secar bien las superficies. CORTAR la boca del cartucho. COLOCAR el cartucho en la pistola y APLICAR.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

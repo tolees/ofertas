@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - FAIR4ALL: la iniciativa social del mismo nombre y fundada por nosotros garantiza que nuestros polos para hombre se fabrican y distribuyen en condiciones de trabajo justas.
-- Duradero: gracias a las aberturas laterales reforzadas, la banda de hombro a hombro, así como el tratamiento previo de encogimiento y antipilling de la camiseta polo para hombre ofrece una gran comodidad y una larga durabilidad. Lavable hasta 60 °C.
-- Camiseta de trabajo: gracias a las características robustas y fáciles de limpiar, las camisetas para hombre son ideales para uso en interiores y exteriores. El poliéster incluido asegura un ajuste duradero.
 - HRM – More Than A Lifestyle: garantizamos que nuestros productos de alta calidad se fabrican de forma absolutamente justa, respetuosa con el medio ambiente y sin contaminantes.
+- Duradero: gracias a las aberturas laterales reforzadas, la banda de hombro a hombro, así como el tratamiento previo de encogimiento y antipilling de la camiseta polo para hombre ofrece una gran comodidad y una larga durabilidad. Lavable hasta 60 °C.
 - Polo de manga corta para hombre: el polo de corte moderno para hombre se compone de un piqué especialmente robusto de 65% algodón y 35% elastano. La tira de 3 botones del mismo tono da a la camiseta polo un aspecto equilibrado.
+- Camiseta de trabajo: gracias a las características robustas y fáciles de limpiar, las camisetas para hombre son ideales para uso en interiores y exteriores. El poliéster incluido asegura un ajuste duradero.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
