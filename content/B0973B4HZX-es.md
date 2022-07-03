@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapato cómodo
 - Goma Goodyear
 - Espuma viscoelástica refrigerada por aire
+- Zapato cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
