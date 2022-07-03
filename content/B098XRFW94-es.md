@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW  hombres Polo Dunda Slim   Gris  nimbus cloud 5864-C960   XL'
-date: 2022-06-29 23:31:19
+date: 2022-07-03 08:43:49
 image: 'https://m.media-amazon.com/images/I/31AjAJv-h9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte ajustado
-- Cuello de polo y puños acanalados
-- Aberturas laterales
 - Bajo recto
+- Corte ajustado
+- Aberturas laterales
+- Cuello de polo y puños acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
