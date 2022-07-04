@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kappa Cammy Kids  Botas Unisex Adulto  Azul  Navy/Orange 6744   39 EU'
-date: 2022-07-03 08:18:09
+date: 2022-07-04 16:50:19
 image: 'https://m.media-amazon.com/images/I/41sHzzlkdVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
