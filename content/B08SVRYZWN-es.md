@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas W 3S SH TIG Leggings  Women s  Black/White  XS'
-date: 2022-06-20 09:04:03
+date: 2022-07-04 08:55:41
 image: 'https://m.media-amazon.com/images/I/31Z066WShaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tela impermeable
-- Corte entallado
-- Tejido transpirable
+- Material de calidad
+- Detalles distintivos de la marca
+- Ofrece comodidad y libertad de movimiento
+- Lavar a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})

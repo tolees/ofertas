@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantenga su sistema refrigerado: Ventilador controlado por PWM entre 450 y 2.000 RPM con compatibilidad con el modo Zero RPM, lo que ofrece un flujo de aire de hasta 58,1 CFM.
 - Ruido reducido y alto rendimiento: El aspa translúcida de 120 mm del ventilador gira silenciosamente incluso a la velocidad máxima y proporciona un elevado flujo de aire.
 - Rodamiento de levitación magnética: Reduce drásticamente la fricción, lo que genera menos ruido y aumenta el rendimiento y la durabilidad.
 - Ocho LED RGB direccionables individualmente: Cree una espectacular iluminación RGB con ocho LED alrededor de cada uno de los concentrador de ventiladores.
-- Tecnología CORSAIR AirGuide: Utiliza aspas antirremolinos para dirigir el flujo de aire concentrado y mejorar la refrigeración, ya sea de entrada.
 - Configuración bajo su control: Cree efectos de iluminación dinámicos con el potente software CORSAIR iCUE para dar vida a su sistema con la iluminación RGB dinámica y sincronizada.
+- Mantenga su sistema refrigerado: Ventilador controlado por PWM entre 450 y 2.000 RPM con compatibilidad con el modo Zero RPM, lo que ofrece un flujo de aire de hasta 58,1 CFM.
+- Tecnología CORSAIR AirGuide: Utiliza aspas antirremolinos para dirigir el flujo de aire concentrado y mejorar la refrigeración, ya sea de entrada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

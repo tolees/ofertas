@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corazón: flores de violeta, muguet y frambuesas
 - Fondo: Iris, esencia de cedro, almizcle blanco
 - Salida: pomelo rosa, pimienta rosa, mandarina Italia
+- Corazón: flores de violeta, muguet y frambuesas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

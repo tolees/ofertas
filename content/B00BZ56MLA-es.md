@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 velocidades y 2 temperaturas
-- Fácil transporte y almacenamiento
-- Funciones: golpe de aire frío
-- Filtro extraíble
 - Alta potencia en un secador plegable: 2200 W
+- Filtro extraíble
+- Fácil transporte y almacenamiento
+- 2 velocidades y 2 temperaturas
+- Funciones: golpe de aire frío
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
