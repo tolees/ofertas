@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taurus 900108000 Studio 2200  Secador de pelo  2200 W  mango plegable  2 velocidades y 3 temperaturas  color negro'
-date: 2022-06-30 17:30:21
+date: 2022-07-04 07:59:27
 image: 'https://m.media-amazon.com/images/I/31uvo8wbwpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00BZ56MLA-es Taurus 900108000 Studio 2200 Secador de pelo 2200 W mango...'
 sku: 'B00BZ56MLA-es'
 tags: [ 'Aparatos y utensilios de peluquería','Belleza','Cuidado del cabello','Secadores de pelo','Secadores y difusores de pelo','taurus','🇪🇸', ]
-actualPrice: 14.72 EUR
+actualPrice: 15.99 EUR
 currency: EUR
-price: 14.72
+price: 15.99
 comparePrice: 28.99 EUR
 prodname: 'Taurus 900108000 Studio 2200  Secador de pelo  2200 W  mango plegable  2 velocidades y 3 temperaturas  color negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Taurus'
 buyurl: 'https://www.amazon.es/dp/B00BZ56MLA/?tag=tolees-21'
-descuento: '49.22'
-average: '18.8500000000001'
+descuento: '44.84'
+average: '18.3984210526317'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Filtro extraíble
 - 2 velocidades y 2 temperaturas
 - Fácil transporte y almacenamiento
-- Alta potencia en un secador plegable: 2200 W
 - Funciones: golpe de aire frío
+- Filtro extraíble
+- Alta potencia en un secador plegable: 2200 W
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

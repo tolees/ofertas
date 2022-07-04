@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido transpirable
 - Amplia libertad de movimiento
-- Corte entallado
 - Cintura elástica
+- Tejido transpirable
+- Corte entallado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
