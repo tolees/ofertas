@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ventilador de 9,6 cm
-- Compatible con placa base: AM4
-- Disipador de calor de aluminio con base de núcleo de cobre. Pasta térmica preaplicada
 - Producto oficial de la marca AMD
 - Conector de alimentación de 4 pines (22,86 cm de longitud, aproximadamente)
+- Disipador de calor de aluminio con base de núcleo de cobre. Pasta térmica preaplicada
+- Ventilador de 9,6 cm
+- Compatible con placa base: AM4
 
 [🛒 Visítala!!!]({{< param buyurl >}})

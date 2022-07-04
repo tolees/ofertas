@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En este frenético juego de rompecabezas en tiempo real, dispones de 3 rondas para seleccionar las atracciones más emocionantes, deslizarlas y colocarlas en su lugar; elige con astucia, construye rápido y deja boquiabiertos a tus visitantes; al final de la partida, el jugador con más puntos gana
 - Vuelve la era de los dinosaurios, pero; esta vez tras un cristal de seguridad. El público está ansioso por echar un vistazo, y tu tarea es satisfacer su curiosidad construyendo el mejor zoo de dinosaurios
+- En este frenético juego de rompecabezas en tiempo real, dispones de 3 rondas para seleccionar las atracciones más emocionantes, deslizarlas y colocarlas en su lugar; elige con astucia, construye rápido y deja boquiabiertos a tus visitantes; al final de la partida, el jugador con más puntos gana
 
 [🛒 Comprar!!!]({{< param buyurl >}})
