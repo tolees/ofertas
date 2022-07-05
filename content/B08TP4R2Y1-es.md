@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skech-Knit
-- Bio-Dri
 - Lavable a máquina
+- Skech-Knit
 - Refrigerado por aire MF
+- Bio-Dri
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
