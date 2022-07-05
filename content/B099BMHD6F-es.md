@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devolver Digital - Gris - Switch'
-date: 2022-06-22 06:26:34
+date: 2022-07-05 11:35:30
 image: 'https://m.media-amazon.com/images/I/41bm0qq1m-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devolver Digital'
 buyurl: 'https://www.amazon.es/dp/B099BMHD6F/?tag=tolees-21'
 descuento: '42.87'
-average: '24.4299999999999'
+average: '24.1339999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - GRIS es una experiencia serena y evocadora, libre de peligros, frustración y muerte. Los jugadores explorarán un mundo diseñado meticulosamente que cobra vida gracias a unos gráficos delicados, una animación detallada y una elegante banda sonora original
-- Según las distintas partes del mundo de Gris se vuelvan accesibles, durante el juego se presentarán puzles sencillos, secuencias de plataformas y desafíos opcionales basados en la habilidad
 - La edición física incluye una portada de doble cara y un librito exclusivo de arte
+- Según las distintas partes del mundo de Gris se vuelvan accesibles, durante el juego se presentarán puzles sencillos, secuencias de plataformas y desafíos opcionales basados en la habilidad
 - GRIS es una experiencia casi sin texto, con simples recordatorios de los controles ilustrados a través de íconos universales. Cualquiera puede disfrutar del juego, independientemente de su idioma hablado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
