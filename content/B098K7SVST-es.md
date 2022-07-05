@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling City Pack S  Mochilas para Mujer  Soft Dot Yellow  One Size'
-date: 2022-07-01 21:21:05
+date: 2022-07-05 20:59:52
 image: 'https://m.media-amazon.com/images/I/51S45vqsVsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 0,47 kg
-- 100% poliamida
-- Mochila pequeña
 - 33,5 cm de alto x 27 cm de ancho x 19 cm de profundidad
+- 100% poliamida
+- 0,47 kg
 - Repele el agua
+- Mochila pequeña
 
 [🛒 Visítala!!!]({{< param buyurl >}})
