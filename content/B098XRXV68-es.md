@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW  hombres Camiseta Chest Graphic Slim  Blanco  white 336-110   S'
-date: 2022-07-04 06:46:00
+date: 2022-07-05 08:06:41
 image: 'https://m.media-amazon.com/images/I/31Yu-uXOAcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talle medio
 - Bajo recto
-- Gráfico de G-Star RAW en el pecho
-- Manga corta
 - Corte ajustado
+- Talle medio
+- Manga corta
+- Gráfico de G-Star RAW en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
