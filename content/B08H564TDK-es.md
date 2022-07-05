@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño flexible y transpirable
 - 100% poliéster reciclado
-- Corte clásico
-- Cuello redondo
 - Camiseta de running reflectante
+- Cuello redondo
+- Diseño flexible y transpirable
+- Corte clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
