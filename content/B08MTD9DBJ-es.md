@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapatillas Basket Classic XXI (374923-03)
-- Calzado deportivo de la marca Puma
 - Practica tu deporte favorito gracias a las Zapatillas de Puma. Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
+- Calzado deportivo de la marca Puma
+- Zapatillas Basket Classic XXI (374923-03)
 - Las Zapatillas de la marca Puma están diseñadas con la última tecnología y la mejor calidad para que se adapten perfectamente a tu pie sin dejar de la lado el estilo
 - Zapatillas ideales para Baloncesto de Niño
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MHC-V02 - Sistema de Audio de Alta Potencia  Bluetooth  Sonido de Graves de Largo Alcance Jet Bass Booster  luz Azul  Entrada de Guitarra y Karaoke  Negro'
-date: 2022-07-04 10:28:26
+date: 2022-07-05 13:26:28
 image: 'https://m.media-amazon.com/images/I/31LbtZ1h0gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07MBPRYC8/?tag=tolees-21'
 descuento: '35.22'
-average: '159.568500000001'
+average: '159.065238095239'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Sonido de graves de largo alcance con JET BASS BOOSTER
 - Asa para una elevación segura y una portabilidad sencilla
-- Luz del altavoz
 - Control de voz y luces de fiesta a través de Fiestable
-- Altavoz para fiesta de alta potencia
 - Compatible con trípode
+- Altavoz para fiesta de alta potencia
+- Luz del altavoz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
