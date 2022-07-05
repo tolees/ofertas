@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- WR 30mt
-- Moda
-- Negro y Metálico
-- Cuarzo
 - Analógico en Acero inoxidable para Mujer
+- Negro y Metálico
+- Moda
+- Cuarzo
+- WR 30mt
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
