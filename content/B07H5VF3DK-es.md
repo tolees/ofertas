@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro: tela
-- Cierre: encaje elástico sin cordones
-- Ajuste de ancho: ajuste relajado, diseñado para una comodidad espaciosa.
 - Código del fabricante: 12825
+- Cierre: encaje elástico sin cordones
 - Parte superior: tela
+- Forro: tela
+- Ajuste de ancho: ajuste relajado, diseñado para una comodidad espaciosa.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
