@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Handball Spezial  Zapatillas de Gimnasia Hombre  Negro  Core Black/FTWR White/gum5 Core Black/FTWR White/gum5   37 1/3 EU'
-date: 2022-06-23 22:28:19
+date: 2022-07-06 08:11:55
 image: 'https://m.media-amazon.com/images/I/31Mzt84PWnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cordones de zapatos
-- Corte regular
 - La parte superior de cuero de nubuck de cerdo
+- Corte regular
+- Cordones de zapatos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

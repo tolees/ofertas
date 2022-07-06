@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Origine III  Alpargatas Unisex Adulto  Black  42 EU'
-date: 2022-07-01 10:51:11
+date: 2022-07-06 09:19:43
 image: 'https://m.media-amazon.com/images/I/41KYQyVZPXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01L41C8MG-es Havaianas Origine III Alpargatas Unisex Adulto Black 42 EU'
 sku: 'B01L41C8MG-es'
 tags: [ 'Alpargatas para hombre','Alpargatas planas de mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos planos de mujer','Zapatos y complementos','havaianas','🇪🇸', ]
-actualPrice: 18.0 EUR
+actualPrice: 15.0 EUR
 currency: EUR
-price: 18.0
+price: 15.0
 comparePrice: 31.9 EUR
 prodname: 'Havaianas Origine III  Alpargatas Unisex Adulto  Black  42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B01L41C8MG/?tag=tolees-21'
-descuento: '43.57'
-average: '17.27'
+descuento: '52.98'
+average: '16.98625'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Brasilianische Größe auf dem Karton hervorgehoben
-- Außensohle ist sehr hitzebeständig
 - Hergestellt in Brasilien
+- Brasilianische Größe auf dem Karton hervorgehoben
 - Der Origine III Espadrilles für Damen und Herren von Havaianas ist der ideale Stoffschuh für den Sommer.
 - Anlass: Casual
+- Außensohle ist sehr hitzebeständig
 
 [🛒 Aquí!!!]({{< param buyurl >}})
