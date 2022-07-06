@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Z-man Games España- Mesozooic - Español  Color  ZM003ES '
-date: 2022-07-04 11:52:31
+date: 2022-07-06 19:44:53
 image: 'https://m.media-amazon.com/images/I/51bEQUq2F+S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Z-man Games España'
 buyurl: 'https://www.amazon.es/dp/B07HQY4NMB/?tag=tolees-21'
 descuento: '35.02'
-average: '15.8317647058824'
+average: '15.6738888888889'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vuelve la era de los dinosaurios, pero; esta vez tras un cristal de seguridad. El público está ansioso por echar un vistazo, y tu tarea es satisfacer su curiosidad construyendo el mejor zoo de dinosaurios
 - En este frenético juego de rompecabezas en tiempo real, dispones de 3 rondas para seleccionar las atracciones más emocionantes, deslizarlas y colocarlas en su lugar; elige con astucia, construye rápido y deja boquiabiertos a tus visitantes; al final de la partida, el jugador con más puntos gana
+- Vuelve la era de los dinosaurios, pero; esta vez tras un cristal de seguridad. El público está ansioso por echar un vistazo, y tu tarea es satisfacer su curiosidad construyendo el mejor zoo de dinosaurios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
