@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - Solimo Jabón de manos líquido - Antiolores Pack de 4  500ml x 4 '
-date: 2022-06-30 18:14:11
+date: 2022-07-06 05:19:16
 image: 'https://m.media-amazon.com/images/I/513nuv-efNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Solo para uso externo. En caso de contacto con los ojos, enjuagar cuidadosamente con agua
 - Neutralizador de olores
-- Fórmula de cuidado hidratante
 - Aplicar sobre las manos mojadas, hacer espuma y aclarar abundantemente
 - Dermatológicamente testado
+- Solo para uso externo. En caso de contacto con los ojos, enjuagar cuidadosamente con agua
+- Fórmula de cuidado hidratante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
