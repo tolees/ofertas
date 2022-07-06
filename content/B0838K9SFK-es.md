@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cordones de Zapatos
-- Importado
 - Suave de Llevar
+- Importado
 - Producto fabricado pensando en sus necesidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})
