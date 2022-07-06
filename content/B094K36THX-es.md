@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de fútbol del arsenal
-- Cuello redondo acanalado
 - Fabricada en material cómodo
-- Detalles distintivos de la marca
-- Camiseta de fútbol
+- Cuello redondo acanalado
 - Cuello redondo acanalado
 - Tecnología antihumedad Aeroready
+- Detalles distintivos de la marca
+- Camiseta de fútbol
+- Camiseta de fútbol del arsenal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
