@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Área de etiquetado: 55 x 35 mm
-- Color amarillo
 - Altura: 150 mm
+- Color amarillo
 - Material: plástico
+- Área de etiquetado: 55 x 35 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

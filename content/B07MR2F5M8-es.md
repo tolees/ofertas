@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diámetro (sin corona) en mm/pulgada 43/1.69
 - Material de la Pulsera Acero inoxdable (Milanesa)
 - Tipo de Pantalla Cronógrafo
-- Diámetro (sin corona) en mm/pulgada 43/1.69
 
 [🛒 Aquí!!!]({{< param buyurl >}})

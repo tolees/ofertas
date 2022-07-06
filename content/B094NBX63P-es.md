@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Malla atlética
 - Suela de refuerzo cosida
 - Suela de goma maciza
+- Malla atlética
 
 [🛒 Aquí!!!]({{< param buyurl >}})
