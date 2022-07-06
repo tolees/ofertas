@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans City Nylon Cap Tapa  Black  Talla única para Mujer'
-date: 2022-07-01 15:56:19
+date: 2022-07-06 18:07:11
 image: 'https://m.media-amazon.com/images/I/31BS1uHr4tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

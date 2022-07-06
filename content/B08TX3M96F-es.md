@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intel Core i5-11600K procesador 3 9 GHz 12 MB Smart Cache Caja'
-date: 2022-07-05 15:01:15
+date: 2022-07-06 18:32:14
 image: 'https://m.media-amazon.com/images/I/41i5sFv2DYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Intel'
 buyurl: 'https://www.amazon.es/dp/B08TX3M96F/?tag=tolees-21'
 descuento: '37.11'
-average: '238.19125'
+average: '236.442222222222'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

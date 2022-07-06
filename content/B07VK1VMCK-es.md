@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bolsa Adidas Lin Duffle S FL3693 Negro'
-date: 2022-07-02 21:20:50
+date: 2022-07-06 17:30:22
 image: 'https://m.media-amazon.com/images/I/41CrG3qsAlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07VK1VMCK/?tag=tolees-21'
 descuento: '49.90'
-average: '15.0'
+average: '14.375'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Small Bag
 - Large main Compartiment
 - Durable fabric
-- Small Bag
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
