@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste óptimo con gran comodidad
 - A 565-076
+- Ajuste óptimo con gran comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

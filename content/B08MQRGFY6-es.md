@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de malla mono en la lengüeta
 - Bota media
+- Material de malla mono en la lengüeta
 - Formas de TPU actualizadas en la entresuela para un aspecto diferente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
