@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids LVB SHORT SLEEVE GRAPHIC TEE S niños 2-8 años'
-date: 2022-07-06 08:45:58
+date: 2022-07-07 16:51:10
 image: 'https://m.media-amazon.com/images/I/319ueLQoLrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo acanalado y mangas cortas
-- Cuello sin etiqueta para un uso sin complicaciones
-- Un logotipo de Levis en el pecho
 - Hecho de jersey suave para comodidad casual durante todo el día
+- Cuello redondo acanalado y mangas cortas
+- Un logotipo de Levis en el pecho
+- Cuello sin etiqueta para un uso sin complicaciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
