@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJEAARON Knit Crew Neck Noos Suéter  Negro  S para Hombre'
-date: 2022-06-27 10:59:24
+date: 2022-07-07 09:17:48
 image: 'https://m.media-amazon.com/images/I/31VIUUMB8QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08BPFMV3L/?tag=tolees-21'
 descuento: '54.68'
-average: '19.03'
+average: '18.6414285714286'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,5 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Estándar
+- Modelo: Jjeaaron Knit Crew Neck Noos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

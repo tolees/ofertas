@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Flexibilidad
 - Agarre extraordinario
+- Flexibilidad
 - Sistema de amortiguación
 
 [🛒 Aquí!!!]({{< param buyurl >}})

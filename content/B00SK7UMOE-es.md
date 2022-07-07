@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Verbatim Store n Go - Disco Duro Externo de 2 TB  2.5"  USB 3.0  Color Plateado'
-date: 2022-07-02 18:19:28
+date: 2022-07-07 08:06:42
 image: 'https://m.media-amazon.com/images/I/41S9Bee7+FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Color plateado
 - USB 3.0
 - Capacidad de almacenaje: 2 TB
-- Color plateado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
