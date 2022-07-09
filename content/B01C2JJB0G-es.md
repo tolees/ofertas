@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Emtec Internal SSD X150 480 GB'
-date: 2022-07-07 18:51:50
+date: 2022-07-09 08:47:36
 image: 'https://m.media-amazon.com/images/I/41VKejs69WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EMTEC'
 buyurl: 'https://www.amazon.es/dp/B01C2JJB0G/?tag=tolees-21'
 descuento: '44.32'
-average: '44.1508823529412'
+average: '44.1034285714286'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

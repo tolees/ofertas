@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 PES JKT Chaqueta de Deporte  Hombre  Azul  Dark Blue/White   M'
-date: 2022-07-08 07:07:23
+date: 2022-07-09 09:05:27
 image: 'https://m.media-amazon.com/images/I/31wZNpDN1vS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMRYMC/?tag=tolees-21'
 descuento: '42.01'
-average: '19.4047499999998'
+average: '19.3556097560974'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
