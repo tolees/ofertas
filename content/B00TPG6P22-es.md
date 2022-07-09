@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PNY FD16GATT4-EF - Memoria USB 2.0 de 16 GB  Negro'
-date: 2022-07-07 18:55:32
+date: 2022-07-08 22:54:17
 image: 'https://m.media-amazon.com/images/I/41B8QztagcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PNY'
 buyurl: 'https://www.amazon.es/dp/B00TPG6P22/?tag=tolees-21'
 descuento: '40.52'
-average: '3.90743902439025'
+average: '3.92048192771085'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
