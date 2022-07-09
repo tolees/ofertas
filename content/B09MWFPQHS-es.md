@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sillin confort
-- Cuadro aluminio 6061
 - Freno mecanico Raceline
 - Cubiertas mixtas 29x2,10
+- Sillin confort
+- Cuadro aluminio 6061
 
 [🛒 Comprar!!!]({{< param buyurl >}})

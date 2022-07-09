@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apoyo de la iniciativa Better Cotton Cotton: somos miembros orgullosos de la "Better Cotton Initiative". Al comprar nuestros productos fabricados con algodón contribuyen a que el algodón se cultive de forma más sostenible. El algodón proviene de un sistema de balance en masas.
 - Chaqueta vaquera para hombre de la marca danesa Jack & Jones
+- Apoyo de la iniciativa Better Cotton Cotton: somos miembros orgullosos de la "Better Cotton Initiative". Al comprar nuestros productos fabricados con algodón contribuyen a que el algodón se cultive de forma más sostenible. El algodón proviene de un sistema de balance en masas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

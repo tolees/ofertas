@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aceite lubricante sintético válido para cualquier motor de altas prestaciones; su formulación lo hace insustituible en la lubricación de los motores TDI del grupo Seat-Audi-VW-Skoda que utilizan bomba de inyección unitaria
 - Por sus características es compatible con otros carburantes como el GLP (Gas Licuado del Petróleo) y el GNC (Gas Natural Comprimido), tan comunes en los vehículos de transporte público
 - Su reducido contenido en cenizas, compatibilidad con sistemas de tratamiento de gases de escape y particular viscosidad, contribuyen por un lado a minimizar los desgastes en las partes críticas del motor, y por otro a reducir las emisiones nocivas de partículas al medio ambiente
+- Aceite lubricante sintético válido para cualquier motor de altas prestaciones; su formulación lo hace insustituible en la lubricación de los motores TDI del grupo Seat-Audi-VW-Skoda que utilizan bomba de inyección unitaria
 
 [🛒 Comprar!!!]({{< param buyurl >}})
