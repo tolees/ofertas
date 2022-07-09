@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr.Wonderful - Taza take away térmica - The perfect moment is now'
-date: 2022-07-08 06:44:49
+date: 2022-07-09 16:46:07
 image: 'https://m.media-amazon.com/images/I/416anLeJmwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mr.Wonderful'
 buyurl: 'https://www.amazon.es/dp/B08QD3F75V/?tag=tolees-21'
 descuento: '65.01'
-average: '6.085'
+average: '6.03333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
