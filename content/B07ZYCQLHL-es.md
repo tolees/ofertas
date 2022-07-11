@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf- Fortnite GL-L  Hasbro E8910EU4 '
-date: 2022-07-04 20:06:11
+date: 2022-07-11 07:06:08
 image: 'https://m.media-amazon.com/images/I/41l3dnxmZeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07ZYCQLHL-es Nerf- Fortnite GL-L Hasbro E8910EU4'
 sku: 'B07ZYCQLHL-es'
 tags: [ 'Aire libre y deportes','Armas y proyectiles de juguete','Juguetes','Juguetes y juegos','Lanzadores de espuma de juguete','nerf','🇪🇸', ]
-actualPrice: 36.45 EUR
+actualPrice: 33.96 EUR
 currency: EUR
-price: 36.45
+price: 33.96
 comparePrice: 76.99 EUR
 prodname: 'Nerf- Fortnite GL-L  Hasbro E8910EU4 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B07ZYCQLHL/?tag=tolees-21'
-descuento: '52.66'
-average: '47.0833333333334'
+descuento: '55.89'
+average: '46.7286486486487'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
