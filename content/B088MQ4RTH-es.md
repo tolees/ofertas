@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Materiales: Cristal y silicona
-- Composición libre de BPA
-- Medidas producto: 20,3 x 7 x 7 cm
-- Esta botella apuesta por un color alegre y el formato que prefieren nuestros clientes, con tapón de rosca con asa y funda de silicona.
 - Peso: 300 gr
+- Materiales: Cristal y silicona
+- Esta botella apuesta por un color alegre y el formato que prefieren nuestros clientes, con tapón de rosca con asa y funda de silicona.
+- Medidas producto: 20,3 x 7 x 7 cm
+- Composición libre de BPA
 
 [🛒 Comprar!!!]({{< param buyurl >}})

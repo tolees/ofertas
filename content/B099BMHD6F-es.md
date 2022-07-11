@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devolver Digital - Gris - Switch'
-date: 2022-07-05 11:35:30
+date: 2022-07-11 20:12:26
 image: 'https://m.media-amazon.com/images/I/41bm0qq1m-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B099BMHD6F-es Devolver Digital - Gris - Switch'
 sku: 'B099BMHD6F-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','devolver digital','🇪🇸', ]
-actualPrice: 19.99 EUR
+actualPrice: 16.52 EUR
 currency: EUR
-price: 19.99
+price: 16.52
 comparePrice: 34.99 EUR
 prodname: 'Devolver Digital - Gris - Switch'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Devolver Digital'
 buyurl: 'https://www.amazon.es/dp/B099BMHD6F/?tag=tolees-21'
-descuento: '42.87'
-average: '24.1339999999999'
+descuento: '52.79'
+average: '23.6581249999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
