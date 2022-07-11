@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elaborada en punto suave
 - La camiseta básica perfecta
+- Elaborada en punto suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

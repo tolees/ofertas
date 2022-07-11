@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estuche plástico individual
 - Diámetro 30 mm
+- Estuche plástico individual
 - Largo total 63 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

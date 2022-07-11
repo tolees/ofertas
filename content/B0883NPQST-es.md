@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tacto base: 2,9 GHz; turboBoost: 4,0 GHz
 - Casquillo LGA1200
 - Chipset Intel 400 Series
+- Tacto base: 2,9 GHz; turboBoost: 4,0 GHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
