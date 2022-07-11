@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto nuevo y original. Somos un vendedor autorizado de Tommy Jeans.
-- Consulta la descripción del producto para más información.
 - Tommy Jeans Camiseta Gris Regular Corp Logo
+- Consulta la descripción del producto para más información.
+- Producto nuevo y original. Somos un vendedor autorizado de Tommy Jeans.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
