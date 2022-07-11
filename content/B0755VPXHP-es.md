@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Altura total del tacón: 5,7 cm.
-- Plantilla de lujo acolchada con espuma y contorno.
 - Suela flexible.
+- Plantilla de lujo acolchada con espuma y contorno.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
