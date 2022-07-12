@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanex Men Zero% Desodorante Spray  200ml'
-date: 2022-07-08 21:20:48
+date: 2022-07-11 21:07:48
 image: 'https://m.media-amazon.com/images/I/31HLYMwmHeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sanex'
 buyurl: 'https://www.amazon.es/dp/B01MDN9MPD/?tag=tolees-21'
 descuento: '52.81'
-average: '2.79'
+average: '2.77416666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Para hombres
 - Desodorante vaporizador
 - Testado dermatológicamente
-- Para hombres
 
 [🛒 Comprar!!!]({{< param buyurl >}})
