@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse All Star Ox Canvas Zapatillas Blancas- UK 8.5'
-date: 2022-07-01 04:45:16
+date: 2022-07-12 04:31:23
 image: 'https://m.media-amazon.com/images/I/31KoBZkRXZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B0000AFSWH/?tag=tolees-21'
 descuento: '39.07'
-average: '40.7233333333334'
+average: '40.6832142857143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Authorised Stockist
 - Genuine Product
+- Authorised Stockist
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
