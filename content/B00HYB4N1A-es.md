@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skeyndor Essential Wheat Germ Crema Hidratante - 50 ml'
-date: 2022-07-08 05:45:40
+date: 2022-07-12 09:45:37
 image: 'https://m.media-amazon.com/images/I/217B+t2VlTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
