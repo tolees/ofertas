@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Terrax 108230TX - Broca hueca HSS  vástago Weldon  profundidad de corte 30 mm  diámetro 32 mm  largo 63 mm'
-date: 2022-07-11 15:01:13
+date: 2022-07-12 15:05:13
 image: 'https://m.media-amazon.com/images/I/41+rUV6OgUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
