@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Shopper mediano de tela
 - Forro interior en azul bebé
-- Cierre y asas en denim
 - target gender: female
 - Estampado de inspiración japonesa
+- Shopper mediano de tela
+- Cierre y asas en denim
 - 24(l) x 18.8(an.) x 27(alt.)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

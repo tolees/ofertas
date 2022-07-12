@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material principal Sintético
 - Altura Tacón Alto (de 5 A 9 cm)
 - Material de la suela De goma
 - Tipo de tacón Plano
+- Material principal Sintético
 - Tipo de cierre Cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

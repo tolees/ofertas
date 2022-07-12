@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Duramo 10  Running Shoe Mujer  Blue Tint/Magic Grey Metallic/Altered Blue  36 2/3 EU'
-date: 2022-07-02 10:41:09
+date: 2022-07-12 17:21:59
 image: 'https://m.media-amazon.com/images/I/41ON8UmkKpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste regular
 - Parte superior con superposiciones textiles
+- Ajuste regular
 - Cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
