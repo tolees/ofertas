@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Duratool - Casio MS-120BM Escritorio Basic calculator - Calculadora  Escritorio  Basic calculator  Metal  De plástico  Botones  Batería/Solar '
-date: 2022-07-11 07:16:25
+date: 2022-07-12 07:25:45
 image: 'https://m.media-amazon.com/images/I/51nGud3nO1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Energía solar cuando la luz es suficiente, alimentada por batería cuando la luz es insuficiente
-- Calcule el costo, el precio de venta o el margen de beneficio de un artículo, dados los otros 2 valores
 - Cálculo automático de precio más impuestos, precio menos impuestos, descuento, precio de venta, cantidad de impuestos, cantidad de descuento y cantidad de margen
+- Calcule el costo, el precio de venta o el margen de beneficio de un artículo, dados los otros 2 valores
 - Producto fabricado de metal y plástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
