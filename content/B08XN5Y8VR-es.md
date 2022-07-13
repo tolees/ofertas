@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste de arco
+- Forro de piel sintética
 - Antiolor
 - Lavable a máquina
-- Forro de piel sintética
 - Cómoda sandalia
-- Ajuste de arco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
