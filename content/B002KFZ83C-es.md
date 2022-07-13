@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY 0-84-519 - Multiherramienta 12 en 1  incluye funda'
-date: 2022-07-04 14:00:08
+date: 2022-07-12 21:59:41
 image: 'https://m.media-amazon.com/images/I/31xpKSLLVqS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
