@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers ARCH FIT COMFY WAVE  Zapatillas para Mujer  Black Knit/Lavender Trim  36.5 EU'
-date: 2022-07-03 01:50:36
+date: 2022-07-13 02:10:09
 image: 'https://m.media-amazon.com/images/I/41VaqTGMJcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B082N4XHJG/?tag=tolees-21'
 descuento: '38.23'
-average: '55.4259999999999'
+average: '55.6274999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
