@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Vans Asher  Zapatillas Mujer  Negro  Canvas/Black/Black   40.5'
-date: 2022-07-02 12:42:04
+title: 'Vans Asher  Zapatillas Mujer  Negro  Canvas/Black/Black   40.5 EU'
+date: 2022-07-14 13:56:46
 image: 'https://m.media-amazon.com/images/I/217DrxUGggL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07VHWRZL6-es Vans Asher Zapatillas Mujer Negro Canvas/Black/Black 40.5'
+slug: 'B07VHWRZL6-es Vans Asher Zapatillas Mujer Negro Canvas/Black/Black 40.5 EU'
 sku: 'B07VHWRZL6-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','vans','🇪🇸', ]
-actualPrice: 22.93 EUR
+actualPrice: 21.37 EUR
 currency: EUR
-price: 22.93
+price: 21.37
 comparePrice: 60.0 EUR
-prodname: 'Vans Asher  Zapatillas Mujer  Negro  Canvas/Black/Black   40.5'
+prodname: 'Vans Asher  Zapatillas Mujer  Negro  Canvas/Black/Black   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B07VHWRZL6/?tag=tolees-21'
-descuento: '61.78'
-average: '23.0671428571428'
+descuento: '64.38'
+average: '22.8549999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Lona
-- Material de la suela: Caucho
 - Tipo de tacón: Plano
-- Revestimiento: Tela
+- Material de la suela: Caucho
 - Cierre: Sin cordones
+- Revestimiento: Tela
+- Material exterior: Lona
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
