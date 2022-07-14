@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Defy All Day  Zapatillas de Gimnasio Hombre  White/Midnight Navy-MTLC Silver  40 EU'
-date: 2022-07-11 07:03:29
+date: 2022-07-14 02:51:42
 image: 'https://m.media-amazon.com/images/I/31MJfdY0RVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Zapatillas deportivas
 - Empeine ligero
 - Amortiguación
-- Zapatillas deportivas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
