@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SENSE BRIDAL
 - LACE
 - PUSH UP BABYDOLL
 - PUSH UP
+- SENSE BRIDAL
 
 [🛒 Visítala!!!]({{< param buyurl >}})
