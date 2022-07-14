@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
-- Plantilla acolchada de espuma
-- Plantilla OrthoLite amortiguada
 - Forro de tela
+- Cierre de cordones
 - Parte superior de tela
+- Plantilla OrthoLite amortiguada
+- Plantilla acolchada de espuma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
