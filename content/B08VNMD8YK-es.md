@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjepaulos Polo SS Noos  Black  M para Hombre'
-date: 2022-07-11 16:14:48
+date: 2022-07-15 15:26:00
 image: 'https://m.media-amazon.com/images/I/31LdkxRlFcS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Polo de manga corta para hombre
 - Corte entallado, con contraste en el cuello y las mangas, gran comodidad gracias a su fabricación de 100% algodón
+- Polo de manga corta para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

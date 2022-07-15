@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Krups Nespresso Pixie XN304T - Cafetera monodosis de cápsulas Nespresso  Compacta  19 bares  Apagado automático  Color Gris Titanio  14 cápsulas interior'
-date: 2022-07-13 13:59:11
-image: 'https://m.media-amazon.com/images/I/41qyqsPJE1L._SL500_._SL400_.jpg'
+date: 2022-07-15 16:19:00
+image: 'https://m.media-amazon.com/images/I/51Qf9fJh3QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Krups'
 buyurl: 'https://www.amazon.es/dp/B07P6YDT5Z/?tag=tolees-21'
 descuento: '39.88'
-average: '122.485714285714'
+average: '119.42375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La cápsula desechada que se expulsa directamente con solo levantar la palanca ergonómica
-- Sistema nespresso de 19 bares de presión y thermoblock para un café caliente desde la primera taza
-- Función automática con botones iluminados para una fácil programación: café corto o largo (2 memorias personalizables)
-- Autoapagado: la función de ahorro automático de energía apaga la cafetera tras 9 minutos de inactividad consumiendo menos energía
 - Tamaño compacto de diseño elegante, innovador y práctico
+- La cápsula desechada que se expulsa directamente con solo levantar la palanca ergonómica
+- Función automática con botones iluminados para una fácil programación: café corto o largo (2 memorias personalizables)
+- Sistema nespresso de 19 bares de presión y thermoblock para un café caliente desde la primera taza
+- Autoapagado: la función de ahorro automático de energía apaga la cafetera tras 9 minutos de inactividad consumiendo menos energía
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
