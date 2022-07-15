@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Watches Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 1513676'
-date: 2022-07-02 02:39:12
+date: 2022-07-14 22:21:21
 image: 'https://m.media-amazon.com/images/I/41rnf4v+tbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07KTQPT5G-es BOSS Watches Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B07KTQPT5G-es'
 tags: [ 'Relojes','Relojes de pulsera para hombres','Relojes para hombre','boss','🇪🇸', ]
-actualPrice: 306.34 EUR
+actualPrice: 263.02 EUR
 currency: EUR
-price: 306.34
+price: 263.02
 comparePrice: 499.0 EUR
 prodname: 'BOSS Watches Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 1513676'
 country: 'es'
 flag: '🇪🇸'
 brand: 'BOSS'
 buyurl: 'https://www.amazon.es/dp/B07KTQPT5G/?tag=tolees-21'
-descuento: '38.61'
-average: '243.170689655174'
+descuento: '47.29'
+average: '243.832333333335'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Grosor de la caja de 10.5 mm
 - Movimiento cronógrafo
 - Esfera negra
+- Grosor de la caja de 10.5 mm
 - Pulsera con chapado iónico negro
 - 3 ATM de resistencia al agua; el agua del grifo o la lluvia no daña los relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
 

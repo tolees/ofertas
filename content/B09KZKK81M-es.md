@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Defy All Day  Zapatillas Hombre  White Midnight Navy Mtlc Silver  45.5 EU'
-date: 2022-07-11 07:51:26
+date: 2022-07-14 22:22:48
 image: 'https://m.media-amazon.com/images/I/31MJfdY0RVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatillas deportivas
 - Amortiguación
 - Empeine ligero
+- Zapatillas deportivas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
