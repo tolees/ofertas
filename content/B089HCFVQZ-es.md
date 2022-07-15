@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricada en algodón
 - Capucha con cordón para un ajuste óptimo
-- Detalles distintivos de la marca
 - Sudadera deportiva para entrenamiento o paseos
+- Detalles distintivos de la marca
+- Fabricada en algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

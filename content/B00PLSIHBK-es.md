@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'wolfcraft 3406301 Soporte de taladro con columna redonda + mordaza de regalo  160 x 230 x 500 mm PACK 1'
-date: 2022-07-03 08:01:14
+date: 2022-07-15 10:48:22
 image: 'https://m.media-amazon.com/images/I/31-ShruQI2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Wolfcraft'
 buyurl: 'https://www.amazon.es/dp/B00PLSIHBK/?tag=tolees-21'
 descuento: '48.89'
-average: '30.9675'
+average: '29.9655555555556'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Wolfcraft
-- Fácil de usar
-- Trabajo profesional preciso y una larga vida útil
 - Resistente y con diseño funcional
+- Trabajo profesional preciso y una larga vida útil
+- Fácil de usar
+- Marca: Wolfcraft
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
