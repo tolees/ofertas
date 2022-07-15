@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 67 % algodón / 28 % poliéster / 3 % elastán / 2 % nailon
-- Puños de canalé para evitar que los calcetines se bajen
 - Ideales para: entrenar
 - Cada pack incluye seis pares
+- Puños de canalé para evitar que los calcetines se bajen
 
 [🛒 Comprar!!!]({{< param buyurl >}})

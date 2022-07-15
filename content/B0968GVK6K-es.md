@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El diseño curvo te envuelve para que te sumerjas en la acción y vivas una experiencia de juego inmersiva, como si estuvieras sentado en un auténtico coche de carreras.
-- Una frecuencia de actualización de 165 Hz, más de dos veces el estándar de la industria (60 Hz), hace que los juegos funcionen como la seda. Haz realidad el potencial de tu tarjeta gráfica.
-- La experiencia de juego más fluida y sin tearing, sea cual sea la GPU que utilices. FreeSync Premium te ofrece una alta tasa de refresco de al menos 120 Hz y compensa el framerate bajo de las tarjetas gráficas AMD.
 - Con una resolución de 3440 x 1440, la pantalla Wide Quad HD (WQHD) ofrece una calidad superior de imagen e imágenes nítidas que muestran todos los detalles. La relación de aspecto de gran pantalla de 21:9 es perfecta para ver películas en un formato amplio o para sumergirte en el juego más novedoso, además de ofrecer más espacio cuando se tiene que trabajar.
 - Amplía tu visión con la configuración de múltiples monitores. El borde estrecho y el diseño sin marco minimizan al máximo la interrupción del bisel y logran un puesto de combate inmejorable.
+- La experiencia de juego más fluida y sin tearing, sea cual sea la GPU que utilices. FreeSync Premium te ofrece una alta tasa de refresco de al menos 120 Hz y compensa el framerate bajo de las tarjetas gráficas AMD.
+- Una frecuencia de actualización de 165 Hz, más de dos veces el estándar de la industria (60 Hz), hace que los juegos funcionen como la seda. Haz realidad el potencial de tu tarjeta gráfica.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
