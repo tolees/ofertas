@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Michael Kors Slim Runway Reloj para Hombre  Tamaño de Caja de 44 mm  Movimiento de Tres Manecillas  Correa de PVC  Negro  MK8908'
-date: 2022-07-06 03:32:42
+date: 2022-07-15 09:48:44
 image: 'https://m.media-amazon.com/images/I/41UAKYetJJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Michael Kors'
 buyurl: 'https://www.amazon.es/dp/B09DPKC81P/?tag=tolees-21'
 descuento: '45.66'
-average: '125.2'
+average: '123.133333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

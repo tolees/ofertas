@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Colección: chaqueta de nailon arrugada
 - Acabado repelente al agua
 - Capucha desmontable con cordón
 - Nailon suave arrugado
-- Colección: chaqueta de nailon arrugada
 - Este es un producto auténtico y original de Calvin Klein
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
