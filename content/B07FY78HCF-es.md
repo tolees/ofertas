@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OSRAM NIGHT BREAKER LASER H7  +150% más de luz  lámpara halógena para faros  64210NL  coche de 12 V  caja plegable  1 lámpara '
-date: 2022-07-07 08:50:08
+date: 2022-07-16 10:48:32
 image: 'https://m.media-amazon.com/images/I/51wIVpwu44L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07FY78HCF-es OSRAM NIGHT BREAKER LASER H7 +150% más de luz lámpara...'
 sku: 'B07FY78HCF-es'
 tags: [ 'Bombillas','Bombillas exteriores','Coche y moto','Luces, bombillas e indicadores','Piezas para coche','osram','🇪🇸', ]
-actualPrice: 13.96 EUR
+actualPrice: 14.48 EUR
 currency: EUR
-price: 13.96
+price: 14.48
 comparePrice: 34.49 EUR
 prodname: 'OSRAM NIGHT BREAKER LASER H7  +150% más de luz  lámpara halógena para faros  64210NL  coche de 12 V  caja plegable  1 lámpara '
 country: 'es'
 flag: '🇪🇸'
 brand: 'OSRAM'
 buyurl: 'https://www.amazon.es/dp/B07FY78HCF/?tag=tolees-21'
-descuento: '59.52'
-average: '13.96'
+descuento: '58.02'
+average: '14.0533333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hasta un 150% más de luz para su automóvil gracias a una innovadora tecnología de ablación láser
-- NIGHT BREAKER LASER: La potente lámpara de faro halógena H7 de OSRAM
 - Vea más lejos y reaccione más rápido con un potente faro halógeno
+- NIGHT BREAKER LASER: La potente lámpara de faro halógena H7 de OSRAM
 - Haz de luz hasta 150 m de largo para una mejor visibilidad y luz un 20% más blanca para un aspecto moderno
 - Calidad premium Made in Germany / USA: Disponible como H1, H3, H4, H7, H8, H11, HB3, HB4
+- Hasta un 150% más de luz para su automóvil gracias a una innovadora tecnología de ablación láser
 
 [🛒 Aquí!!!]({{< param buyurl >}})
