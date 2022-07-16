@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s - Banana Sling  Bolsos bandolera Hombre  Unisex adulto Pequeña Banana Sling Wordmark Negro'
-date: 2022-07-03 19:13:26
+date: 2022-07-16 13:40:22
 image: 'https://m.media-amazon.com/images/I/31PZRaZ12cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B082JDTCJQ/?tag=tolees-21'
 descuento: '40.00'
-average: '15.0575'
+average: '14.7177777777778'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
