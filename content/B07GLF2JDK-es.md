@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NAMCO - My Arcade - Pac-Man Pocket Player Portable Gaming System'
-date: 2022-07-05 12:56:20
+date: 2022-07-16 16:12:50
 image: 'https://m.media-amazon.com/images/I/51BelDUjXMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Built-in speaker with volume control
-- Pac-Man titles include Pac-Man, Pac-Man 2, Pac-Mania & Pac-Panic
-- Powered by either 4 AAA batteries or by any Micro-USB cable (not included)
 - Full color 2.75" screen
 - 3.5mm headphone jack to connect your headphones
+- Pac-Man titles include Pac-Man, Pac-Man 2, Pac-Mania & Pac-Panic
+- Built-in speaker with volume control
+- Powered by either 4 AAA batteries or by any Micro-USB cable (not included)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
