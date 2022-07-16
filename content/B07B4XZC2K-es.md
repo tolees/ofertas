@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cable de conexión de Antena CB PNI FC27 4 m  Incluye Conector PL259 y Soporte de Montaje para Antena CB con Tornillo Mariposa'
-date: 2022-07-14 04:03:19
+date: 2022-07-16 04:00:43
 image: 'https://m.media-amazon.com/images/I/41BLPI6XNSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
