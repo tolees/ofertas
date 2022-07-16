@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Art 1911  Botas Mujer  Brown  39 EU'
-date: 2022-07-13 11:22:58
+date: 2022-07-16 07:04:36
 image: 'https://m.media-amazon.com/images/I/31Wnn7u8FxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro Microfibra
+- Microfiber Lining
 
 [🛒 Comprar!!!]({{< param buyurl >}})
