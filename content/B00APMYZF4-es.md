@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich Gresca  Zapatillas Unisex Adulto  Black/Yellow  40 EU'
-date: 2022-07-14 10:22:58
+date: 2022-07-16 17:28:27
 image: 'https://m.media-amazon.com/images/I/41ZeTG+i3DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B00APMYZF4/?tag=tolees-21'
 descuento: '54.53'
-average: '61.465'
+average: '59.5330769230769'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Diseño funcional
 - Alta calidad
-- Sneakers, Munich, sport
 - Materiales resistentes
+- Sneakers, Munich, sport
 
 [🛒 Comprar!!!]({{< param buyurl >}})
