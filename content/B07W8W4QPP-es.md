@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Tommy Tipped Slim Polo  Polo Hombre  Gris  XL'
-date: 2022-07-11 14:00:31
+date: 2022-07-17 14:47:30
 image: 'https://m.media-amazon.com/images/I/41dImJDFG0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logo de Tommy Hilfiger bordado en el pecho
 - Costuras a contraste en los botones
+- Logo de Tommy Hilfiger bordado en el pecho
 - Cuello y mangas ribeteados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

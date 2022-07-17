@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Esprit Rundhals Basic T-Shirt  Deep Black  S para Hombre'
-date: 2022-07-15 08:45:51
+date: 2022-07-17 13:04:39
 image: 'https://m.media-amazon.com/images/I/31X9IPodeFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Algodón orgánico: algodón de cultivo ecológico
 - Cuello redondo ribeteado
-- Jersey fino acanalado de algodón puro, con algodón orgánico
 - 100% Good for you, 100% Good for the planet – gracias al algodón orgánico de alta calidad: camiseta con cuello redondo.
 - Corte ajustado que realza la figura
+- Jersey fino acanalado de algodón puro, con algodón orgánico
+- Algodón orgánico: algodón de cultivo ecológico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
