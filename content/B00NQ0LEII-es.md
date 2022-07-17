@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable CB0010-88E'
-date: 2022-07-16 14:17:09
+date: 2022-07-17 15:42:57
 image: 'https://m.media-amazon.com/images/I/51G2qPY4b5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
