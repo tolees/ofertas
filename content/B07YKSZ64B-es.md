@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Esprit 990EE1B302 Pantalones  350/Khaki Green  42W / 32L para Mujer'
-date: 2022-07-15 16:00:45
+date: 2022-07-16 21:21:55
 image: 'https://m.media-amazon.com/images/I/31pafNCZQML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene una cintura con trabillas
 - Pantalón chino con bolsillos
+- Tiene una cintura con trabillas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
