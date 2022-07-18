@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Barra de Sonido Inteligente LG SP9YA de 520W de potencia 5.1.2 canales'
-date: 2022-07-17 15:54:50
+date: 2022-07-18 17:02:33
 image: 'https://m.media-amazon.com/images/I/213Y8tHO8PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B093BW5QQL/?tag=tolees-21'
 descuento: '44.38'
-average: '584.148'
+average: '570.121666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sonido de alta resolución Hi-Res Audio 24bit/192kHz
 - Amplia conectividad con HDMI eARC, Bluetooth 5.0, USB
-- Meridian Sound Music
 - Potencia Total: 520W 5,1,2 canales
+- Sonido de alta resolución Hi-Res Audio 24bit/192kHz
 - Sonido Envolvente con Dolby Atmos y dts:X
+- Meridian Sound Music
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

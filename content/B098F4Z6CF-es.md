@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike W Metcon 7  Zapatillas de Gimnasio Mujer  Negro  Gris y Blanco  38.5 EU'
-date: 2022-07-11 10:13:54
+date: 2022-07-18 17:25:41
 image: 'https://m.media-amazon.com/images/I/41I7-ZmsfxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación
 - Zapatillas deportivas nike
 - Transpirable y ligera
+- Amortiguación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

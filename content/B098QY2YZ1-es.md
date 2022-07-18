@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original HM tee Surf Blue T-Shirt  XL para Hombre'
-date: 2022-07-11 07:51:07
+date: 2022-07-18 16:22:20
 image: 'https://m.media-amazon.com/images/I/4150e2RVQkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B098QY2YZ1/?tag=tolees-21'
 descuento: '50.00'
-average: '14.835'
+average: '14.368'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborada en punto suave
 - La camiseta básica perfecta
+- Elaborada en punto suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
