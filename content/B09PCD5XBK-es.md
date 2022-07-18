@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ST.TROPEZ - St. Tropez Loción Bronceadora Gradual Tan Classic Firmeza Cuerpo Light/Medium - 1 Unidad'
-date: 2022-07-16 17:08:54
+date: 2022-07-18 00:01:42
 image: 'https://m.media-amazon.com/images/I/31kPFHOPZpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ST.TROPEZ'
 buyurl: 'https://www.amazon.es/dp/B09PCD5XBK/?tag=tolees-21'
 descuento: '38.36'
-average: '22.63'
+average: '20.84'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
