@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Legendary Slim Jeans  Azul  Dark Worn-in   32W/30L para Hombre'
-date: 2022-07-16 13:25:41
+date: 2022-07-18 10:11:06
 image: 'https://m.media-amazon.com/images/I/41qLa6WRu6S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño delgado
-- Bolsillo espacial
 - Tejido vaquero elástico
+- Bolsillo espacial
+- Diseño delgado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

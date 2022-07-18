@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Art  Tote Bag Donna  Color Negro  20x44x27 cm'
-date: 2022-07-05 08:20:13
+date: 2022-07-18 10:56:50
 image: 'https://m.media-amazon.com/images/I/41GPoIdozLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
