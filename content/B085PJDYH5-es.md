@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RFEF - Réplica oficial minikit primera equipación rfef 2020'
-date: 2022-07-12 22:37:40
+date: 2022-07-21 14:45:53
 image: 'https://m.media-amazon.com/images/I/41+35OK2CXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B085PJDYH5-es RFEF - Réplica oficial minikit primera equipación rfef 2020'
 sku: 'B085PJDYH5-es'
 tags: [ 'Chándales para niño','Conjuntos deportivos para niño','Deportes y aire libre','Productos para fans','Ropa','Ropa deportiva para niño','Ropa para niño','rfef','🇪🇸', ]
-actualPrice: 23.21 EUR
+actualPrice: 24.9 EUR
 currency: EUR
-price: 23.21
+price: 24.9
 comparePrice: 39.95 EUR
 prodname: 'RFEF - Réplica oficial minikit primera equipación rfef 2020'
 country: 'es'
 flag: '🇪🇸'
 brand: 'RFEF'
 buyurl: 'https://www.amazon.es/dp/B085PJDYH5/?tag=tolees-21'
-descuento: '41.90'
-average: '25.991'
+descuento: '37.67'
+average: '25.9390476190476'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Escudo y estrella de campeones del mundo bordadas
 - Incluye camiseta, short y medias
 - Producto oficial Licenciado
-- Escudo y estrella de campeones del mundo bordadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
