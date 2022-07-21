@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dispara grapas tipo 80 de 4-16 mm
-- Funciona entre 60-100 PSI, por lo que sólo es necesario un pequeño compresor
 - Cuenta con una empuñadura de goma y un sistema ultrarrápido de recarga y liberación
 - Tremendamente ligero, ideal para un volumen de grapado alto
+- Dispara grapas tipo 80 de 4-16 mm
+- Funciona entre 60-100 PSI, por lo que sólo es necesario un pequeño compresor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

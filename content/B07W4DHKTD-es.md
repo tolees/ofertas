@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SIN CABLES. SIN LIMITES: La marca de accesorios inalámbricos para gaming más vendida del mundo - Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming inalámbricos en unidades
-- Sensor HERO 25K: Este ratón para gaming Pro cuenta con el sensor HERO para mayor precisión, rendimiento y eficiencia durante el juego. Supera los 400 IPS y ofrece un seguimiento de 25600 DPI
+- Deslizamiento suave: Los grandes pies de PTFE sin aditivos de este ratón para videojuegos Logitech G ofrecen un deslizamiento suave para una conexión pura y fluida durante el juego
 - LIGHTSPEED inalámbrico: Con un rendimiento inalámbrico USB de nivel profesional, LIGHTSPEED proporciona una conexión sólida y rápida con una velocidad de transmisión de 1 ms y sin cables
 - Ingeniería ultraligera: Con menos de 63 gramos, con un rediseño minismalista que logra una reducción de peso de casi un 25% en comparación con el ratón inalámbrico PRO estándar
-- Deslizamiento suave: Los grandes pies de PTFE sin aditivos de este ratón para videojuegos Logitech G ofrecen un deslizamiento suave para una conexión pura y fluida durante el juego
+- SIN CABLES. SIN LIMITES: La marca de accesorios inalámbricos para gaming más vendida del mundo - Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming inalámbricos en unidades
+- Sensor HERO 25K: Este ratón para gaming Pro cuenta con el sensor HERO para mayor precisión, rendimiento y eficiencia durante el juego. Supera los 400 IPS y ofrece un seguimiento de 25600 DPI
 - Hecho por y para jugadores profesionales: Diseñado con los principales profesionales de deportes electrónicos. Diseñado para ganar; la búsqueda del mayor nivel de rendimiento es nuestro objetivo
 - Disponible en 2 colores: Logitech G PRO X SUPERLIGHT Ratón inalámbrico para gaming está disponible en blanco y negro
 
