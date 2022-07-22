@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden Amoladora angular PWS 750-115 de Bosch  750 W  diámetro de disco: 115 mm  en caja '
-date: 2022-07-17 11:52:05
+date: 2022-07-22 16:26:58
 image: 'https://m.media-amazon.com/images/I/41IY1T0X3lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B08DP1H41R/?tag=tolees-21'
 descuento: '35.78'
-average: '47.3975'
+average: '47.1255555555556'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- incluye: PWS 750-115, en caja
 - Control del polvo durante el trabajo: La protección de ajuste rápido fácilmente regulable controla la dirección del polvo y de las chispas para una mayor comodidad al trabajar desde cualquier ángulo
 - Seguridad mejorada: La protección contra rearranque es una medida de seguridad que impide que la herramienta vuelva a ponerse en marcha automáticamente después de un corte de suministro o una pérdida de potencia accidental
-- incluye: PWS 750-115, en caja
-- Uso versátil en distintos materiales: La herramienta está concebida para amolar, cortar y cepillar en metal, piedra, bloques de hormigón y azulejos
 - Cambio del disco de la amoladora angular de forma rápida y fácil: solo hay que presionar el botón de bloqueo, sin necesidad de ningún equipamiento adicional. El husillo permanece bloqueado cuando la herramienta no está en uso
+- Uso versátil en distintos materiales: La herramienta está concebida para amolar, cortar y cepillar en metal, piedra, bloques de hormigón y azulejos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
