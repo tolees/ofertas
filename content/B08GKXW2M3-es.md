@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: nobuk
-- Material interior: piel
 - Cierre: cierre de velcro
+- Material exterior: nobuk
 - Suela: piel y goma
+- Material interior: piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
