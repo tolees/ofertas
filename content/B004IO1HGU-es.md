@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TFA Dostmann 30.5019 Cosy - Termómetro / hidrógrafo digital'
-date: 2022-07-22 17:01:59
+date: 2022-07-23 20:48:16
 image: 'https://m.media-amazon.com/images/I/41y0LIKDFUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TFA Dostmann'
 buyurl: 'https://www.amazon.es/dp/B004IO1HGU/?tag=tolees-21'
 descuento: '39.85'
-average: '18.7766666666667'
+average: '17.9775'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria máxima y mínima
 - Rango: 0+50ºC / 20-95% HR
 - Indicación del nivel de confort
+- Memoria máxima y mínima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
