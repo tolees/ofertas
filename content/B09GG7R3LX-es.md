@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MT HALTER LACE ND
-- SHORT NIGHTDRESS
-- MATERNITY 1
 - STRAPS SHORT NIGHTDRESS
+- MATERNITY 1
+- SHORT NIGHTDRESS
+- MT HALTER LACE ND
 
 [🛒 Aquí!!!]({{< param buyurl >}})

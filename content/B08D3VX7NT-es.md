@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Forro polar de algodón orgánico
 - Gran calidad
 - Rose Label
-- Forro polar de algodón orgánico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
