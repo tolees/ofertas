@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dockers - STRETCH OXFORD SHIRT'
-date: 2022-07-22 17:47:21
+date: 2022-07-24 20:55:02
 image: 'https://m.media-amazon.com/images/I/31WSWsmvH7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Stretch Oxford Shirt
 - BCI
+- Stretch Oxford Shirt
 
 [🛒 Visítala!!!]({{< param buyurl >}})
