@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jordome tee SS Crew Neck-Camiseta de Manga Corta  Cloud Dancer  L para Hombre'
-date: 2022-07-22 07:04:08
+date: 2022-07-25 08:15:01
 image: 'https://m.media-amazon.com/images/I/4113DICLwYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Impresión de pigmento
-- Camiseta
 - Composición: 100% algodón
+- Camiseta
 - Tejido de punto con tacto suave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
