@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance M520V7  Zapatillas para Correr de Carretera Hombre  Black Cb7  43 EU'
-date: 2022-07-23 22:07:34
+date: 2022-07-25 01:07:26
 image: 'https://m.media-amazon.com/images/I/41OFZFCxqQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B08MWSQZ3H/?tag=tolees-21'
 descuento: '53.40'
-average: '40.8466666666667'
+average: '39.3725'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
