@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich Barru  Zapatillas Unisex Adulto  Amarillo 114  35 EU'
-date: 2022-07-24 11:05:24
+date: 2022-07-25 12:52:25
 image: 'https://m.media-amazon.com/images/I/41l-k-8mtaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B09GH6JKHR/?tag=tolees-21'
 descuento: '40.00'
-average: '59.8'
+average: '58.2666666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

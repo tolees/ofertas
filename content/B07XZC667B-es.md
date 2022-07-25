@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Clutch GM30 - Ratón  USB 2.0  9 Efectos LED  Sensor óptico PAW-3327  Detalles con Dragon Center  Negro  Sólo Ratón'
-date: 2022-07-23 19:27:25
+date: 2022-07-25 11:42:45
 image: 'https://m.media-amazon.com/images/I/411SnSVb6wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B07XZC667B/?tag=tolees-21'
 descuento: '57.51'
-average: '24.59'
+average: '23.3233333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diseño simétrico, con agarres laterales; ajustes con Dragon Center
-- La iluminación de los bordes en forma de U con RGB Mystic Light muestra perfectamente millones de colores y más de 9 efectos
-- Increíblemente rápido y preciso, gracias al sensor óptico PixArt PAW3327, que soporta hasta 6200 DPI y 1000Hz de polling rate; combinado con unos switches OMRON que soportan hasta unos 20 millones de clics
 - Con el tamaño de media-mano, podrás utilizar tanto grip de palma como un grip de garra
 - Con un punto de salida elevado para el cable, el Clutch GM30 evita cualquier arrastre innecesario que el cable pueda causar en la alfombrilla
+- La iluminación de los bordes en forma de U con RGB Mystic Light muestra perfectamente millones de colores y más de 9 efectos
+- Increíblemente rápido y preciso, gracias al sensor óptico PixArt PAW3327, que soporta hasta 6200 DPI y 1000Hz de polling rate; combinado con unos switches OMRON que soportan hasta unos 20 millones de clics
 
 [🛒 Visítala!!!]({{< param buyurl >}})
