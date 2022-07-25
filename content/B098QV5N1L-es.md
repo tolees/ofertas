@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Clara Cove  Sandalia  para Mujer  Azul  Navy   37.5 EU'
-date: 2022-07-14 22:49:22
+date: 2022-07-24 22:19:41
 image: 'https://m.media-amazon.com/images/I/31wi631OeNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B098QV5N1L-es Clarks Clara Cove Sandalia para Mujer Azul Navy 37.5 EU'
 sku: 'B098QV5N1L-es'
 tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','clarks','🇪🇸', ]
-actualPrice: 27.45 EUR
+actualPrice: 19.45 EUR
 currency: EUR
-price: 27.45
+price: 19.45
 comparePrice: 69.95 EUR
 prodname: 'Clarks Clara Cove  Sandalia  para Mujer  Azul  Navy   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B098QV5N1L/?tag=tolees-21'
-descuento: '60.76'
-average: '27.45'
+descuento: '72.19'
+average: '23.9633333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Piel suave
 - Allday
 - Cama suave
-- Informal
 - Holiday
-- Piel suave
+- Informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

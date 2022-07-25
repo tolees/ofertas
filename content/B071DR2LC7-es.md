@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Artículo: aw0aw04281 Honey Large Wallet
 - Temporada: Otoño/Invierno
 - Diseñador: Tommy Hilfiger
-- Artículo: aw0aw04281 Honey Large Wallet
 
 [🛒 Visítala!!!]({{< param buyurl >}})

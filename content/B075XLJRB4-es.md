@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color del dial: negro
-- Resistencia al agua 5 ATM
-- Material de la caja: acero inoxidable
 - Pulsera de cuero
-- Cierre con botón pulsador
-- Color de la correa: negro
 - Acabado esmaltado
+- Resistencia al agua 5 ATM
+- Cierre con botón pulsador
+- Material de la caja: acero inoxidable
+- Color de la correa: negro
 - Mecanismo cuarzo cronógrafo
+- Color del dial: negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
