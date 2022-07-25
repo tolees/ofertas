@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18631/2'
-date: 2022-07-24 13:52:00
+date: 2022-07-25 19:55:46
 image: 'https://m.media-amazon.com/images/I/4150D-66IPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lotus'
 buyurl: 'https://www.amazon.es/dp/B07LB2ZW2T/?tag=tolees-21'
 descuento: '42.15'
-average: '63.0055555555556'
+average: '62.432'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

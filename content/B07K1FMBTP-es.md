@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las Llanuras Salvajes de Arcadia están amenazadas.
-- En esta expansión de campaña para Arcadia Quest o Arcadia Quest: Infierno, los jugadores defenderán la ciudad de Arcadia del malvado Malkhor y sus demenciales Llienas.
-- Se necesita el juego base Arcadia Quest o Arcadia Quest Inferno
-- Contiene 1 Libro de campaña, 1 bloc de Hojas de Campaña, 2 cartas de Héroe, 44 cartas de Mejora, 3 módulos de tablero de doble cara, 6 cartas de Montura, 4 tarjetas de Montura, 15 cartas de Gesta, 8 cartas de Monstruo, 15 miniaturas de plástico de gran calidad.
 - Esta expansión introduce una nueva mecánica de juego para Arcadia Quest en la forma de magníficas Monturas que pueden llevar a los Héroes sobre sus lomos de una punta a otra del tablero
+- Se necesita el juego base Arcadia Quest o Arcadia Quest Inferno
+- En esta expansión de campaña para Arcadia Quest o Arcadia Quest: Infierno, los jugadores defenderán la ciudad de Arcadia del malvado Malkhor y sus demenciales Llienas.
+- Las Llanuras Salvajes de Arcadia están amenazadas.
+- Contiene 1 Libro de campaña, 1 bloc de Hojas de Campaña, 2 cartas de Héroe, 44 cartas de Mejora, 3 módulos de tablero de doble cara, 6 cartas de Montura, 4 tarjetas de Montura, 15 cartas de Gesta, 8 cartas de Monstruo, 15 miniaturas de plástico de gran calidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

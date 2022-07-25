@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalla de 15,6", Full HD LED 1920 x 1080 pixeles, ComfyView
-- Almacenamiento de 128 GB SSD
-- Memoria RAM de 4 GB DDR4 SDRAM (Memoria máxima compatible 8 GB)
 - Tarjeta gráfica Intel UHD Graphics 600
+- Pantalla de 15,6", Full HD LED 1920 x 1080 pixeles, ComfyView
 - Procesador Intel Celeron N4020, 1,10 GHz, Dual-core (2 Core)
+- Memoria RAM de 4 GB DDR4 SDRAM (Memoria máxima compatible 8 GB)
+- Almacenamiento de 128 GB SSD
 - Sistema Operativo: Windows 10 Home S
 
 [🛒 Visítala!!!]({{< param buyurl >}})
