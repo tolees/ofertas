@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Plantilla de espuma viscoelástica refrigerada por aire
-- Bio dri
 - Resistente al agua
+- Bio dri
 
 [🛒 Aquí!!!]({{< param buyurl >}})
