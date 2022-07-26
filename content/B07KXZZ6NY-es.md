@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Triple Acción Extra Fresh Pasta de Dientes  75ml'
-date: 2022-07-18 18:06:45
+date: 2022-07-26 18:09:16
 image: 'https://m.media-amazon.com/images/I/41PiyYeRjbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colgate'
 buyurl: 'https://www.amazon.es/dp/B07KXZZ6NY/?tag=tolees-21'
 descuento: '69.90'
-average: '1.40437500000001'
+average: '1.38941176470589'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección anticaries probada
 - Pasta de dientes con una banda refrescante para una sensación extra de frescura
+- Protección anticaries probada
 - Elimina las manchas de la superficie
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

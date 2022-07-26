@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hurley M Evd WSH OAO Slashed SS'
-date: 2022-07-25 18:38:48
+date: 2022-07-26 19:07:07
 image: 'https://m.media-amazon.com/images/I/411ZtMnoBsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096SRTN7P-es Hurley M Evd WSH OAO Slashed SS'
 sku: 'B096SRTN7P-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','hurley','🇪🇸', ]
-actualPrice: 10.93 EUR
+actualPrice: 10.46 EUR
 currency: EUR
-price: 10.93
+price: 10.46
 comparePrice: 30.0 EUR
 prodname: 'Hurley M Evd WSH OAO Slashed SS'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Hurley'
 buyurl: 'https://www.amazon.es/dp/B096SRTN7P/?tag=tolees-21'
-descuento: '63.57'
-average: '11.66'
+descuento: '65.13'
+average: '11.26'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 100% algodón
 - Pre-encogido
+- Tejido de jersey de peso medio de 150 g / m2 con lavado en prenda
 - Gráfico personalizado en el interior del cuello
 - Construcción de costuras laterales
-- Tejido de jersey de peso medio de 150 g / m2 con lavado en prenda
-- 100% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
