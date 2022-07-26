@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Desigual Bols Tris Tras Venec  Across Body Bag para Mujer  Color Lila  Einheitsgröße'
-date: 2022-07-22 17:15:54
-image: 'https://m.media-amazon.com/images/I/214kX1mDLaL._SL500_._SL400_.jpg'
+date: 2022-07-26 08:04:25
+image: 'https://m.media-amazon.com/images/I/31RoXKOkfzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Liso en color lila con textura
-- Forro estampado
-- 3 compartimentos
-- Bandolera textura
 - 25,5(l) x 12,6 an.) x 15,8(alt.)
+- 3 compartimentos
+- Forro estampado
+- Bandolera textura
+- Liso en color lila con textura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

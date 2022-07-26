@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color fucsia lacado ultra-pigmentado
 - Su fórmula se derrite suavemente para una aplicación adictiva
+- Color fucsia lacado ultra-pigmentado
 - Brillo de alta intensidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

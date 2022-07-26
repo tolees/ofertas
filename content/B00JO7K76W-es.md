@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Confort durante todo el día
 - Sensación suave y textura cremosa
+- Confort durante todo el día
 - Barra de labios que ofrece un color intenso y brillante
 - Cuida tus labios ofreciendo una extraordinaria hidratación
 - Efecto larga duración

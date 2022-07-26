@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Algodón reciclado
 - Poliéster reciclado de botellas de PET
 - Hyperflex RE-USED
-- Tejido vaquero Hyperflex Stretch Denim de 300 g
-- Poliéster reciclado
 - Algodón reciclado
+- Poliéster reciclado
+- Tejido vaquero Hyperflex Stretch Denim de 300 g
 - Denim doble verde
+- Algodón reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

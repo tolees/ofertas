@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protective case included
 - Accesorio moderno y elegante
+- Protective case included
 - Gafas de sol
 - Protección segura de los rayos solares
 - Con un diseño original

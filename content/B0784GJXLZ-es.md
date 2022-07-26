@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Su fórmula se derrite suavemente para una aplicación adictiva
 - Color rojo lacado ultra-pigmentado
+- Su fórmula se derrite suavemente para una aplicación adictiva
 - Brillo de alta intensidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
