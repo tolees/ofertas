@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oreal Paris Make-up Designer - L’Óreal Paris Color Riche Shine Barra de Labios - Tono Fucsia 465 Trending'
-date: 2022-07-22 11:59:52
+date: 2022-07-26 07:06:53
 image: 'https://m.media-amazon.com/images/I/41PpWaWkFRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LOreal Paris Make-up Designer'
 buyurl: 'https://www.amazon.es/dp/B078BRFQZB/?tag=tolees-21'
 descuento: '45.59'
-average: '7.905'
+average: '7.8'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
