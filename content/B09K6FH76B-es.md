@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONECTIVIDAD CON CABLE: Force GC20 V2 está equipado con un cable micro-USB a USB 2.0 desmontable de 2 metros, lo que lo hace ideal para jugar sin parar
 - MOVIMIENTO MÁS FLUIDO Y MAYOR CONTROL: Este mando tiene palancas analógicas mejoradas para una respuesta más fluida; Los gatillos de precisión ofrecen 256 niveles de simulación de aceleración, ideal para mandos de acelerador y freno en juegos de carreras
+- SWITCHES DURABLES Y COVERS D-PAD INTERCAMBIABLES: Los mandos de la serie Force GC tienen botones robustos de 2 millones de clics c/u; Las cubiertas magnéticas d-pad intercambiables (en forma de cruz y heptagonal) ofrecen interfaz de control personalizada
 - FEEDBACK HÁPTICO Y EXCELENTE AGARRE: Los 2 motores de vibración mejoran la inmersión en el juego a través del feedback háptico proporcionando un juego que se siente más visceral; La goma texturizada en los lados del mando evita que se deslice bajo presión
 - MSI APP PLAYER: Desarrollado en colaboración con BlueStacks, MSI APP Player permite a los gamers jugar games para móviles a través del PC con todas las injustas ventajas de las más altas tasas de FPS, resolución a nivel monitor y control total del mando
-- SWITCHES DURABLES Y COVERS D-PAD INTERCAMBIABLES: Los mandos de la serie Force GC tienen botones robustos de 2 millones de clics c/u; Las cubiertas magnéticas d-pad intercambiables (en forma de cruz y heptagonal) ofrecen interfaz de control personalizada
+- CONECTIVIDAD CON CABLE: Force GC20 V2 está equipado con un cable micro-USB a USB 2.0 desmontable de 2 metros, lo que lo hace ideal para jugar sin parar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
