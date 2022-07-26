@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salter Báscula de Cocina Digital  precision  Plataforma de Vidrio  Capacidad 5kg  Función de Añadir y Pesar  Negro'
-date: 2022-07-12 06:05:59
+date: 2022-07-26 13:13:25
 image: 'https://m.media-amazon.com/images/I/31hJpdxfs+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B000ZNM51O-es Salter Báscula de Cocina Digital precision Plataforma de...'
 sku: 'B000ZNM51O-es'
 tags: [ 'Básculas de cocina','Hogar y cocina','Pequeño electrodoméstico','salter','🇪🇸', ]
-actualPrice: 9.75 EUR
+actualPrice: 9.98 EUR
 currency: EUR
-price: 9.75
+price: 9.98
 comparePrice: 29.9 EUR
 prodname: 'Salter Báscula de Cocina Digital  precision  Plataforma de Vidrio  Capacidad 5kg  Función de Añadir y Pesar  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Salter'
 buyurl: 'https://www.amazon.es/dp/B000ZNM51O/?tag=tolees-21'
-descuento: '67.39'
-average: '10.7942857142857'
+descuento: '66.62'
+average: '10.6925'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
