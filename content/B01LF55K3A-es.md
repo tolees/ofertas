@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 3 ATM de resistencia al agua; el agua del grifo o la lluvia no daña los relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
-- Correa negra de piel con estampado de cocodrilo
-- Esfera azul
 - Grosor de la caja de 9.5 mm; diámetro de la caja: 42 mm
 - Movimiento de cuarzo de tres manecillas y función de fecha
+- Esfera azul
+- 3 ATM de resistencia al agua; el agua del grifo o la lluvia no daña los relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
+- Correa negra de piel con estampado de cocodrilo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

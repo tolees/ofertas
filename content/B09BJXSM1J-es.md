@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Organic Cotton
-- Camisa manga larga
 - Lino cuello mao
+- Camisa manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

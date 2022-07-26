@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Floodgate - Holi: Festival de Colores  BGHOLIML '
-date: 2022-07-25 08:40:51
+date: 2022-07-26 10:05:45
 image: 'https://m.media-amazon.com/images/I/61tYlWU6EmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Edad recomendada: a partir de 13 años
-- Número de jugadores: 2-4
-- Juego de control de área en 3D que difunde color y alegría
 - Duración: 20-40 minutos
+- Juego de control de área en 3D que difunde color y alegría
+- Número de jugadores: 2-4
+- Edad recomendada: a partir de 13 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})

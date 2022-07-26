@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñadas con un corte ajustado y moderno
 - Dos camisetas básicas confeccionadas en punto suave 100 % algodón
+- Diseñadas con un corte ajustado y moderno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
