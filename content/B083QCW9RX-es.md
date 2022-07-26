@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Consulte la guía de tallas para encontrar la adecuada para usted
 - 104363-HGY-HEATHER GREY-S
+- Consulte la guía de tallas para encontrar la adecuada para usted
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% algodón
-- Pre-encogido
-- Tejido de jersey de peso medio de 150 g / m2 con lavado en prenda
 - Gráfico personalizado en el interior del cuello
+- Tejido de jersey de peso medio de 150 g / m2 con lavado en prenda
+- 100% algodón
 - Construcción de costuras laterales
+- Pre-encogido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

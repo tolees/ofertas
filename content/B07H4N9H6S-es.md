@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lente ultra gran angular de 120 grados grabación en bucle sin cortes detección de movimiento
 - Conexión con pc: mini usb 2.0 bateriìa: li-ion de 3.7v 110mah
 - Accesorios incluidos: cargador de coche, cable usb, ventosa, manual
 - Dimensiones: 6.5x4x5 cm y peso 36 g
 - Pantalla 2.0" hd lcd resolución hd 720p (1280720p) 30fps
+- Lente ultra gran angular de 120 grados grabación en bucle sin cortes detección de movimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
