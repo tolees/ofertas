@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ADATA 960GB SD600Q Unidad de Estado sólido USB 3.1 Externa - Negro'
-date: 2022-07-24 20:27:38
+date: 2022-07-27 16:57:03
 image: 'https://m.media-amazon.com/images/I/51+fDPEFnzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ADATA'
 buyurl: 'https://www.amazon.es/dp/B07Q4G77XJ/?tag=tolees-21'
 descuento: '42.50'
-average: '75.375'
+average: '73.25'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Admite consolas windows, mac os, android, xbox one, ps4
 - Velocidad de lectura / escritura de hasta 440/430 mb / s
-- Más ligero, más silencioso, resistente a los golpes y más duradero que los discos duros externos
-- Almacenamiento inteligente de caché slc y memoria caché dram
 - Con flash 3d nand
+- Almacenamiento inteligente de caché slc y memoria caché dram
+- Más ligero, más silencioso, resistente a los golpes y más duradero que los discos duros externos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

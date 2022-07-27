@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual CAM June Cami Shirt  Multicolor  XXL Mens'
-date: 2022-07-23 07:54:53
+date: 2022-07-27 16:40:43
 image: 'https://m.media-amazon.com/images/I/41lUS47yXOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Desigual'
 buyurl: 'https://www.amazon.es/dp/B09DTB9Q6Y/?tag=tolees-21'
 descuento: '50.01'
-average: '39.972'
+average: '39.9716666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

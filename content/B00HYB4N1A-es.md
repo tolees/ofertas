@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skeyndor Essential Wheat Germ Crema Hidratante - 50 ml'
-date: 2022-07-16 10:48:07
+date: 2022-07-27 17:45:09
 image: 'https://m.media-amazon.com/images/I/217B+t2VlTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de Piel: Seca
-- Tratamiento: Noche y Día
 - Producto de la marca Skeyndor
 - Edad: Entre 36 y 50 años /, Más de 50 años
+- Tipo de Piel: Seca
+- Tratamiento: Noche y Día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
