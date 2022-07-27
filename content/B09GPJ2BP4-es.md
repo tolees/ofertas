@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Caja redonda de acero inoxidable con esfera en color verde.
-- Caja de 44 mm, correa de 22 mm de ancho, cristal mineral, movimiento de cuarzo, pantalla analógica con cronógrafo, importado.
 - Correa verde de piel.
+- Caja de 44 mm, correa de 22 mm de ancho, cristal mineral, movimiento de cuarzo, pantalla analógica con cronógrafo, importado.
 - Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
