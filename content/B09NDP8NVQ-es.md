@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cintura elástica con cordones
 - El diseño otorga libertad a los movimientos
 - Abajo con puños
 - Tres bandas blancas icónicas
-- Cintura elástica con cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
