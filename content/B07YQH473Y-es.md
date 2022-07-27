@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descúbre otras figuras de la colección hobbs shaw y colecciónalas todas
 - De la colección hobbs shaw, shaw como figura de vinilo pop de funko
-- Funko pop. El juguete del año 2018
+- Descúbre otras figuras de la colección hobbs shaw y colecciónalas todas
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- Funko pop. El juguete del año 2018
 
 [🛒 Aquí!!!]({{< param buyurl >}})

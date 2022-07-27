@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desconocido 100% Speedtrap - Gafas de ciclismo unisex para adulto  color blanco mate y espejo azul'
-date: 2022-07-23 11:43:07
+date: 2022-07-27 19:41:55
 image: 'https://m.media-amazon.com/images/I/31X2tOerjKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -31,7 +31,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Lente cilíndrica de 5 bases para una mejor visión y protección de los dispositivos
 - Lentes de policarbonato resistentes a los impactos y ligeras
 - Tratamiento de lentes Hydro para repeler el agua, la suciedad y el aceite
-- Protección 100% UV
 - Marco Grilamid TR90 irrompible y ligero
+- Protección 100% UV
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
