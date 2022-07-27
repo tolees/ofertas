@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Star Wars – Interruptor de luz adhesivo, como se muestra en la imagen (ver descripción para más información)
+- Perfecto vinilo.
 - Dura muchos años
 - Fácil de poner y quitar.
-- Perfecto vinilo.
-- Star Wars – Interruptor de luz adhesivo, como se muestra en la imagen (ver descripción para más información)
 - Duradero y resistente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
