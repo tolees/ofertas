@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW  hombres Camiseta RAW Arrow  Verde  shadow olive 336-B230   XL'
-date: 2022-07-26 08:38:22
+date: 2022-07-27 09:13:21
 image: 'https://m.media-amazon.com/images/I/410TQoY97TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -31,7 +31,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Estampado RAW Arrow en el pecho
 - Corte regular
 - Bajo recto
-- Manga corta
 - Talle medio
+- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

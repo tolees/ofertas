@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Altura del tacón: 2.5 centímetros
+- Cierre: Velcro
 - Tipo de tacón: Plano
+- Altura del tacón: 2.5 centímetros
 - Material de la suela: Goma
 - Revestimiento: Malla
 - Material exterior: Cuero
-- Cierre: Velcro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

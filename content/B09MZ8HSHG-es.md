@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Blusa
 - Manga corta
-- RECONSIDER - BCI
+- Blusa
 - Swiss Reconsider
+- RECONSIDER - BCI
 
 [🛒 Aquí!!!]({{< param buyurl >}})

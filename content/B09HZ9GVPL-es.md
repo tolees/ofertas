@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Duramo 10  Road Running Shoe Hombre  Core Black/Cloud White/Core Black  40 EU'
-date: 2022-07-26 10:02:43
+date: 2022-07-27 10:43:32
 image: 'https://m.media-amazon.com/images/I/31tVG3io3uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior con superposiciones textiles
-- Cordones
 - Ajuste regular
+- Cordones
+- Parte superior con superposiciones textiles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
