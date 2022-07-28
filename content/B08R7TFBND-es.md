@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Camper Pelotas XLF-K100545  Zapatillas Hombre  Multicolor  024   39 EU'
-date: 2022-07-26 03:59:51
+date: 2022-07-28 04:09:43
 image: 'https://m.media-amazon.com/images/I/41xqR+R7pUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08R7TFBND-es Camper Pelotas XLF-K100545 Zapatillas Hombre Multicolor...'
 sku: 'B08R7TFBND-es'
 tags: [ 'Bolsos','Bolsos mochila para mujer','Bolsos para mujer','Zapatos y complementos','camper','🇪🇸', ]
-actualPrice: 56.47 EUR
+actualPrice: 52.23 EUR
 currency: EUR
-price: 56.47
+price: 52.23
 comparePrice: 99.0 EUR
 prodname: 'Camper Pelotas XLF-K100545  Zapatillas Hombre  Multicolor  024   39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Camper'
 buyurl: 'https://www.amazon.es/dp/B08R7TFBND/?tag=tolees-21'
-descuento: '42.96'
-average: '56.09'
+descuento: '47.24'
+average: '54.8033333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
