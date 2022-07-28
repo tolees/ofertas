@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PARFÉM - Banana Republic Banana Republic W EDP 125 ml W'
-date: 2022-07-24 07:26:09
+date: 2022-07-28 15:35:15
 image: 'https://m.media-amazon.com/images/I/31PO8b8IYOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Excelente calidad
-- Exclusiva fragancia
 - De máxima duración
+- Exclusiva fragancia
 - Con aroma muy agradable
+- Excelente calidad
 - Buen olor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
