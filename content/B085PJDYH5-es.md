@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RFEF - Réplica oficial minikit primera equipación rfef 2020'
-date: 2022-07-21 14:45:53
+date: 2022-07-28 15:00:54
 image: 'https://m.media-amazon.com/images/I/41+35OK2CXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'RFEF'
 buyurl: 'https://www.amazon.es/dp/B085PJDYH5/?tag=tolees-21'
 descuento: '37.67'
-average: '25.9390476190476'
+average: '25.8918181818182'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escudo y estrella de campeones del mundo bordadas
 - Incluye camiseta, short y medias
+- Escudo y estrella de campeones del mundo bordadas
 - Producto oficial Licenciado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
