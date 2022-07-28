@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contador manual hasta 9999
 - Peso ligero y carcasa de plástico resistente
 - Palanca de accionamiento
+- Contador manual hasta 9999
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech C615 Webcam Portátil  Full HD 1080p/30ims  Video-Llamadas en Pantalla Panorámica  Plegable  Corrección HD  Enfoque Automático  PC/Mac/Portátil/Macbook/Tablet'
-date: 2022-07-27 13:23:34
+date: 2022-07-28 21:00:31
 image: 'https://m.media-amazon.com/images/I/41jFy15-p+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capacidad de almacenamiento de memoria: 1.0; tipo de memoria del ordenador: ddr3 sdram; tipo de conectividad: USB
-- Corrección de Iluminación HD: Imágenes en alta definición luminosas en cualquier entorno
-- Enfoque Automático Rápido: la imagen se mantiene clara y nítida durante las videoconferencias, incluso en primeros planos hasta 10 cm
-- Rotación Completa de 360 ​​Grados: Flexible y ajustable, su diseño plegable permite realizar videoconferencias desde cualquier lugar
-- Videoconferencias Fluidas en Pantalla Panorámica: Siga la acción con total precisión en Full HD 1080p
-- Micrófono con Reducción de Ruido Integrado: Conversaciones claras en entornos bulliciosos, sin distracciones de fondo
+- 360-Degree Swivel Camera : The webcam rotates a full 360-degrees and tilts vertically, providing you with maximum flexibility and ease-of-use during your video calling and recording
+- Fold and Go Design : The portable and compact size enables you to make video calls from anywhere, while the lens is protected with a unique folding travel-design
+- Ideal for Laptop or Tablet : Compatible with Windows 10 or later, Windows 8, Windows 7, Mac OS 10.10 or later and Chrome OS via the USB port and streams over wifi with noise reducing mic
+- Fast autofocus : Your image stays sharp and clear during video calls or streaming, even in close-ups (up to 10 cm)
+- Full HD Widescreen Video Calling : Logitech C615 delivers fluid widescreen video calling in Full HD 1080p at 30fps; The glass lense with 78-degree field of view covers all of the action
+- HD Lighting Adjustment : Automatically improves the warmth and balance of your image for whatever setting you are in, so you look your best, even in dim environments
 
 [🛒 Aquí!!!]({{< param buyurl >}})
