@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nueva colección Kappa
-- Pantalón niño
-- Estilo y comodidad
 - Colección Otoño-Invierno 21
+- Pantalón niño
+- Nueva colección Kappa
+- Estilo y comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
