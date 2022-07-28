@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Powercolor RX 6600 8GB Fighter 8G minorista'
-date: 2022-07-26 08:17:17
+date: 2022-07-28 00:24:58
 image: 'https://m.media-amazon.com/images/I/41THzZ6QZQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Powercolor'
 buyurl: 'https://www.amazon.es/dp/B09H3PY14M/?tag=tolees-21'
 descuento: '44.67'
-average: '461.648571428571'
+average: '438.93'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bus Standard PCIE 4.0
-- Video Memory 8GB GDDR6
-- Stream Processor 1792 Units
-- AXRX 6600 8GBD6-3DH
-- Memory Interface 128-bit
 - Memory Clock 14.0 Gbps
 - Engine Clock(OC) up to 2044MHz(Game) up to 2491MHz(Boost)
+- AXRX 6600 8GBD6-3DH
+- Stream Processor 1792 Units
+- Bus Standard PCIE 4.0
+- Video Memory 8GB GDDR6
+- Memory Interface 128-bit
 - Standard Display Connectors 1 x HDMI 2.1 , 3 x DisplayPort 1.4
 
 [🛒 Comprar!!!]({{< param buyurl >}})
