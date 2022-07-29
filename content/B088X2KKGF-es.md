@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE CJ2158-010 W NSW ESSNTL Short FT HR Shorts Womens Black/White S'
-date: 2022-07-25 18:05:06
+date: 2022-07-28 21:49:44
 image: 'https://m.media-amazon.com/images/I/31MluyIm+HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B088X2KKGF/?tag=tolees-21'
 descuento: '50.15'
-average: '17.3957142857143'
+average: '17.09'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tiene detalles distintivos de la marca
+- Ajuste regular
 - Ofrece comodidad y libertad de movimiento
 - Tejido transpirable
-- Ajuste regular
-- Tiene detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

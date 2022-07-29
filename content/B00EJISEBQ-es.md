@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Esta modelo funciona con un movimiento de Cuarzo preciso
+- El Invicta 14878 tiene una caja de acero inoxidable de 45 millimetros con una esfera negro
 - Este modelo es parte de la colección Invicta Specialty
 - 2 años de garantía Invicta
 - Resistencia a la presión de aqua de 5 bares
-- El Invicta 14878 tiene una caja de acero inoxidable de 45 millimetros con una esfera negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

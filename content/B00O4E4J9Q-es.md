@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desarrolla la imaginación y la creatividad
 - Con dos pasajeros y capitán
-- Juguete educativo que fomenta el juego simbólico
 - El tejado del avión se puede quitar
+- Desarrolla la imaginación y la creatividad
+- Juguete educativo que fomenta el juego simbólico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
