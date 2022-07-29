@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Back Prisma Mombasa  Mochila Mediana para Mujer  Rojo  Talla única'
-date: 2022-07-27 11:51:19
+date: 2022-07-29 21:12:12
 image: 'https://m.media-amazon.com/images/I/31aUTbNE9kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- target gender: female
-- 30(l) x 14.5(an.) x 38.3(alt.)
 - Con mini monedero
+- 30(l) x 14.5(an.) x 38.3(alt.)
 - Compartimento acolchado para portátil
 - Mochila reciclada textura
 - Tejido acolchado con pespuntes que forman margaritas
+- target gender: female
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Abanu  Crossbody Mujer  Verde   moss  7.5x20x13.5 Cm LxWxH'
-date: 2022-07-25 11:56:05
+date: 2022-07-29 21:31:32
 image: 'https://m.media-amazon.com/images/I/31sAN4Ogt7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B083YD68DY-es Kipling Abanu Crossbody Mujer Verde moss 7.5x20x13.5 Cm LxWxH'
 sku: 'B083YD68DY-es'
 tags: [ 'Bolsos','Bolsos bandolera para mujer','Bolsos para mujer','Zapatos y complementos','kipling','🇪🇸', ]
-actualPrice: 36.84 EUR
+actualPrice: 39.99 EUR
 currency: EUR
-price: 36.84
+price: 39.99
 comparePrice: 69.9 EUR
 prodname: 'Kipling Abanu  Crossbody Mujer  Verde   moss  7.5x20x13.5 Cm LxWxH'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Kipling'
 buyurl: 'https://www.amazon.es/dp/B083YD68DY/?tag=tolees-21'
-descuento: '47.30'
-average: '36.61'
+descuento: '42.79'
+average: '37.0325'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
