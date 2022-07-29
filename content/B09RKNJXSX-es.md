@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming - Avalon Hill F3155105 Juego de Mesa en Español'
-date: 2022-07-27 09:10:25
+date: 2022-07-29 09:15:02
 image: 'https://m.media-amazon.com/images/I/514ZZg0+3vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hasbro Gaming'
 buyurl: 'https://www.amazon.es/dp/B09RKNJXSX/?tag=tolees-21'
 descuento: '43.01'
-average: '25.3028571428572'
+average: '25.2493333333334'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diplomacy es el juego de mesa de estrategia militar por antonomasia.
 - De 2 a 7 jugadores. A partir de 12 años.
 - Diplomacy permite la negociación entre los jugadores, negociaciones que luego no tienen por que cumplirse.
+- Diplomacy es el juego de mesa de estrategia militar por antonomasia.
 - El juego se desarrolla en la Europa de principios de siglo XX
 - Las unidades militares tienen todas la misma fuerza o poder de ataque, por lo que las ayudas (propias o de otros jugadores) se hacen imprescindibles.
 

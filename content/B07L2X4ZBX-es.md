@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair Harpoon RGB Wireless  Ratón Para Juegos Recargable  Tecnología Slipstream  Retroiluminación Led Rgb  10 000 Ppp  Óptico   RF inalámbrica + Bluetooth  Inalámbrico  Negro'
-date: 2022-07-26 21:28:36
+date: 2022-07-29 09:25:35
 image: 'https://m.media-amazon.com/images/I/31oRNVrb-WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Corsair'
 buyurl: 'https://www.amazon.es/dp/B07L2X4ZBX/?tag=tolees-21'
 descuento: '37.51'
-average: '44.0675862068966'
+average: '43.8483333333334'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Juegue con tecnología ultrarrápida, slipstream corsair wireless inferior a 1 ms, o conéctese con bluetooth de baja latencia o cableado usb
+- Diseño ultraligero de tan solo 99 g, para jugar más tiempo sin cansarse
 - Hasta 60 horas de juego inalámbrico continuado con alimentación de batería, o con conexión mediante cable para seguir jugando mientras se carga
 - El sencillo proceso de configuración permite empezar a jugar más rápidamente: basta con conectar el adaptador inalámbrico a un puerto usb y activar el ratón
 - La forma elegante y los laterales de goma brindan comodidad y fiabilidad a largo plazo en su agarre
-- Diseño ultraligero de tan solo 99 g, para jugar más tiempo sin cansarse
-- Juegue con tecnología ultrarrápida, slipstream corsair wireless inferior a 1 ms, o conéctese con bluetooth de baja latencia o cableado usb
 
 [🛒 Comprar!!!]({{< param buyurl >}})

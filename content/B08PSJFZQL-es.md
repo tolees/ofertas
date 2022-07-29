@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Flexibilidad
-- Ajuste fácil
 - Ligera
+- Ajuste fácil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
