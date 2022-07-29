@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original HM tee Silver Pink T-Shirt  M para Hombre'
-date: 2022-07-26 13:08:06
+date: 2022-07-29 08:43:26
 image: 'https://m.media-amazon.com/images/I/31xeB8JntmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B098QZNY3J/?tag=tolees-21'
 descuento: '50.00'
-average: '13.848'
+average: '13.6233333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scotch Brite - Scotch-Brite 836RS-56 - Rodillo para Pelusa  56 Hojas '
-date: 2022-07-27 21:37:28
+date: 2022-07-29 09:01:49
 image: 'https://m.media-amazon.com/images/I/416Kpn3ksxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Artículos de higiene para gatos','Artículos para gatos','Productos de
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93
-comparePrice: 11.77 EUR
+comparePrice: 19.39 EUR
 prodname: 'Scotch Brite - Scotch-Brite 836RS-56 - Rodillo para Pelusa  56 Hojas '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Scotch Brite'
 buyurl: 'https://www.amazon.es/dp/B008GVPBL8/?tag=tolees-21'
-descuento: '49.62'
+descuento: '69.42'
 average: '5.93'
 ---
 

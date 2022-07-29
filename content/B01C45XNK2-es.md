@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con cierre de doble corchete
-- Diseño elegante con detalle de tul transparente
 - Sujetador con aros altos para una sujeción óptima
+- Diseño elegante con detalle de tul transparente
+- Con cierre de doble corchete
 - Tiene tirantes ajustables
 
 [🛒 Visítala!!!]({{< param buyurl >}})
