@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Secado rápido
-- Ideal para la práctica de cualquier deporte
 - Camiseta de manga corta técnica, para deportistas que buscan el máximo rendimiento
+- Ideal para la práctica de cualquier deporte
 - Elástica y transpirable
+- Secado rápido
 - Fabricada en poliéster, para una mayor resistencia y un confort óptimo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
