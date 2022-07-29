@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PNY Memoria USB Attaché 4 3.1  Negro  512 GB'
-date: 2022-07-27 14:06:37
+date: 2022-07-29 18:57:10
 image: 'https://m.media-amazon.com/images/I/31rE+fKQjUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PNY'
 buyurl: 'https://www.amazon.es/dp/B07XTVGG99/?tag=tolees-21'
 descuento: '50.75'
-average: '34.5575'
+average: '34.446'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Compatible con ordenadores portátiles y de sobremesa pc y mac
 - Memoria usb 3.1, retrocompatible con usb 3.0 y usb 2.0
 - Diseño duradero, ligero y deslizante
-- Compatible con ordenadores portátiles y de sobremesa pc y mac
 - Hasta 10 veces más rápida que los pendrives usb 2.0 estándares
 
 [🛒 Comprar!!!]({{< param buyurl >}})
