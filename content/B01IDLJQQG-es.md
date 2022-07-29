@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Efecto inmediato y prolongado incluso en cucarachas
 - Insecticida doméstico elimina instantáneamente y con efecto prolongado cucarachas, hormigas y todo tipo de insectos rastreros (pulgas, pececillo de plata, chinches, escarabajos, arañas)
-- Formato Spray de 500ml
 - Con cánula de aplicación, ideal para grietas y rendijas
+- Formato Spray de 500ml
 - Eficaz y persistente
+- Efecto inmediato y prolongado incluso en cucarachas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

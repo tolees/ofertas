@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de fábrica: 100% Cotton
-- Corte: corte normal, clásico, cómodo
-- Tejido: Tejido terry francés de gramaje medio
-- Tejido interior: diseño sin forrar
-- Bolsillos: Bolsillo canguro amplio
 - Estampado en parte delantera
+- Corte: corte normal, clásico, cómodo
+- Tejido interior: diseño sin forrar
+- Tejido: Tejido terry francés de gramaje medio
+- Bolsillos: Bolsillo canguro amplio
+- Tipo de fábrica: 100% Cotton
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

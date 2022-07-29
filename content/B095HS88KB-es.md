@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Temporada 21/22
 - Equipación portero RC Deportivo de La Coruña
 - Deportivo de La Coruña x Kappa
+- Temporada 21/22
 - Comodidad máxima
 
 [🛒 Aquí!!!]({{< param buyurl >}})
