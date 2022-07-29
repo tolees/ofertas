@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JOYDIVISION - Aquaglide Lubricante intimo  200 ml'
-date: 2022-07-23 11:01:23
+date: 2022-07-29 16:01:47
 image: 'https://m.media-amazon.com/images/I/41V7SYkgN7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'JOYDIVISION'
 buyurl: 'https://www.amazon.es/dp/B001FSKOC0/?tag=tolees-21'
 descuento: '40.09'
-average: '9.24052631578947'
+average: '9.2275'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soluble en agua y libre de grasas
 - PH óptimo
 - 100% compatible con preservativos
+- Soluble en agua y libre de grasas
 - Ingredientes: Agua, Glicerina, Hidroxietil Celu
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
