@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye una figura, tiburón y carruaje
 - Contiene 19 piezas
 - Desarrolla la imaginación y la creatividad
 - Con perlas para coleccionar
+- Incluye una figura, tiburón y carruaje
 
 [🛒 Comprar!!!]({{< param buyurl >}})
