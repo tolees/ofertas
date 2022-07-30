@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logotipo "C" impreso en la manga izquierda
-- Logotipo pequeño clásico impreso en el pecho
 - Logotipo impreso en bandas jacquard laterales
+- Logotipo pequeño clásico impreso en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
