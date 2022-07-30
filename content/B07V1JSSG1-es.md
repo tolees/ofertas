@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OSRAM Breaker Next Gen + Lámpara halógena'
-date: 2022-07-25 20:44:12
+date: 2022-07-30 13:06:22
 image: 'https://m.media-amazon.com/images/I/41CXMCWlR4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

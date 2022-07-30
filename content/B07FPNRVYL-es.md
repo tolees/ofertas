@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición: Sintético
-- Cierre: Cordones
 - Revestimiento: Sintético
 - Material exterior: Sintético
 - Material de la suela: Goma
+- Cierre: Cordones
+- Composición: Sintético
 - Anchura del zapato: Normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
