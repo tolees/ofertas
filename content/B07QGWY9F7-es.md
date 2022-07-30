@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! Rocks: Iggy Pop - Iggy Figurina de Vinil  Multicolor  41240 '
-date: 2022-07-27 13:09:01
+date: 2022-07-30 08:53:18
 image: 'https://m.media-amazon.com/images/I/41BnRTpDJpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07QGWY9F7/?tag=tolees-21'
 descuento: '44.03'
-average: '8.43714285714286'
+average: '8.495'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Recomendado para niños a partir de 3 años
-- El producto se envía en una caja ilustrada con ventana
 - Figura de colección de la marca Funko
 - El artículo es adecuado para todos los fanáticos de Iggy Pop
+- El producto se envía en una caja ilustrada con ventana
+- Recomendado para niños a partir de 3 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})

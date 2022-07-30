@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein 2PK Shorty Bikini Estilo Ropa Interior  Ckrosepinkaop/Pvhblack  8 años para Niñas'
-date: 2022-07-25 17:38:00
+date: 2022-07-30 08:44:43
 image: 'https://m.media-amazon.com/images/I/41G34lMUErL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08T5YMB5J-es Calvin Klein 2PK Shorty Bikini Estilo Ropa Interior...'
 sku: 'B08T5YMB5J-es'
 tags: [ 'Braguitas para niña','Ropa','Ropa interior para niña','Ropa para niña','calvin klein','🇪🇸', ]
-actualPrice: 12.59 EUR
+actualPrice: 12.46 EUR
 currency: EUR
-price: 12.59
+price: 12.46
 comparePrice: 25.9 EUR
 prodname: 'Calvin Klein 2PK Shorty Bikini Estilo Ropa Interior  Ckrosepinkaop/Pvhblack  8 años para Niñas'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B08T5YMB5J/?tag=tolees-21'
-descuento: '51.39'
-average: '14.4016666666667'
+descuento: '51.89'
+average: '14.1242857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
