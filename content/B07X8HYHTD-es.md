@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 Sw Top Pullover  Mens  Yellow  XL'
-date: 2022-07-29 20:47:29
+date: 2022-07-30 21:15:20
 image: 'https://m.media-amazon.com/images/I/41XvwOGCj4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07X8HYHTD/?tag=tolees-21'
 descuento: '68.75'
-average: '28.4365420560747'
+average: '28.2889814814814'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

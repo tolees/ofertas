@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Nizza  Sneaker Hombre  Blanco Footwear White Core Black Footwear White 0  36 2/3 EU'
-date: 2022-07-24 16:03:34
+date: 2022-07-30 21:56:55
 image: 'https://m.media-amazon.com/images/I/31b9EhaIdUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
 - Parte superior de lona; puntera de goma
+- Ajuste regular
 - Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

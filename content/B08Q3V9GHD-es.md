@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Breaknet  Tennis Shoe  FTWR White FTWR White  40 EU'
-date: 2022-07-24 16:04:02
+date: 2022-07-30 21:57:21
 image: 'https://m.media-amazon.com/images/I/31lznpEFjUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de cuero sintético
 - Forro textil
+- Parte superior de cuero sintético
 - Zapatilla casual con un toque de tenis
 
 [🛒 Comprar!!!]({{< param buyurl >}})
