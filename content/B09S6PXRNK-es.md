@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop Marvel Spiderman Doppelganger #961 Metallic – Exclusive Special Edition'
-date: 2022-07-26 08:52:31
+date: 2022-07-30 17:52:21
 image: 'https://m.media-amazon.com/images/I/51SQZ7n4ZuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Special Edition sticker on box
-- Funko Pop Limited Edition
 - Spiderman Funko Pop
+- Funko Pop Limited Edition
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
