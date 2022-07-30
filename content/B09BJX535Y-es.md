@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Micro rayas
 - Reconsider: BCI & European Flax
+- Micro rayas
 - Camisa lino
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

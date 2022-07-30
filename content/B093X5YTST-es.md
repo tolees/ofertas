@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior de gamuza/malla
 - Entresuela ligera de espuma EVA moldeada por inyección que proporciona una amortiguación ligera
 - Suela de goma
 - Cierre de cordones para un ajuste seguro
-- Parte superior de gamuza/malla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
