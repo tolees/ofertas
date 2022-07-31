@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Springfield Polo Mao Pique para Hombre  Kaki Claro  M'
-date: 2022-07-31 10:03:41
-image: 'https://m.media-amazon.com/images/I/3116Y-IZvLL._SL500_._SL400_.jpg'
+title: 'Springfield Polo Mao Pique para Hombre  Azul Claro  M'
+date: 2022-07-31 10:06:00
+image: 'https://m.media-amazon.com/images/I/31PSyMoDxrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09MZ88YP6-es Springfield Polo Mao Pique para Hombre Kaki Claro M'
-sku: 'B09MZ88YP6-es'
+slug: 'B09MZ86CSW-es Springfield Polo Mao Pique para Hombre Azul Claro M'
+sku: 'B09MZ86CSW-es'
 tags: [ 'Camisetas, polos y camisas para hombre','Polos para hombre','Ropa','Ropa para hombre','springfield','🇪🇸', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
 comparePrice: 26.99 EUR
-prodname: 'Springfield Polo Mao Pique para Hombre  Kaki Claro  M'
+prodname: 'Springfield Polo Mao Pique para Hombre  Azul Claro  M'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Springfield'
-buyurl: 'https://www.amazon.es/dp/B09MZ88YP6/?tag=tolees-21'
+buyurl: 'https://www.amazon.es/dp/B09MZ86CSW/?tag=tolees-21'
 descuento: '40.76'
-average: '14.74'
+average: '15.99'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manga corta
-- Mao Pique
 - Polo
+- Mao Pique
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
