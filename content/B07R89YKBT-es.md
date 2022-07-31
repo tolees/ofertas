@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sl Prado T-Shirt (SHC07405)
-- Ropa deportiva Ellesse
 - Camiseta tiempo libre y sportwear hombre
+- Ropa deportiva Ellesse
+- Sl Prado T-Shirt (SHC07405)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
