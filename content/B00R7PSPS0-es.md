@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Citizen Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero CA4210-16E'
-date: 2022-07-28 03:11:32
+date: 2022-07-31 01:53:20
 image: 'https://m.media-amazon.com/images/I/51wqEI03GTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Citizen'
 buyurl: 'https://www.amazon.es/dp/B00R7PSPS0/?tag=tolees-21'
 descuento: '41.74'
-average: '133.075689655171'
+average: '132.785084745761'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- -
+- Dial del reloj Citizen CA4210-16E: caracasa de 40 mm: 49 mm (corona incluida) x 45 mm de ancho x 13 mm de espesor.
 - - -
+- -
 - Caja y embalaje: las cajas del reloj son originales, pero es para la región de Asia, podría ser diferente en la imagen que se muestra o diferente con la caja para los EE.UU. y mercado de la UE.
 - Incluye: manual Citizen (idioma español no garantizado) + caja Citizen (modelo de Asia).
-- Dial del reloj Citizen CA4210-16E: caracasa de 40 mm: 49 mm (corona incluida) x 45 mm de ancho x 13 mm de espesor.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
