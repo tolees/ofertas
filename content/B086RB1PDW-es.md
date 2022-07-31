@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Amplio depósito de agua extraíble (0.8 litros)
 - 15 bares de presión automática regulable, y sistema Thermoblock que permite un calentamiento muy rápido
 - Cafetera Piccolo XS y 3 packs de café incluidos (Espresso intenso, Café con leche y Cappuccino)
-- Amplio depósito de agua extraíble (0.8 litros)
-- Sistema de seguridad: sin el porta-cápsulas no cae agua
 - Recoge gotas ajustables con tapa de acero inoxidable para cualquier tipo de taza o vaso
+- Sistema de seguridad: sin el porta-cápsulas no cae agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
