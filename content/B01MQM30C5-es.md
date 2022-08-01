@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Basket Heart Patent Wn s  Zapatillas de Deporte  para Mujer  Negro  Puma Black-Puma Black   36 EU'
-date: 2022-07-31 14:20:17
+date: 2022-08-01 15:24:07
 image: 'https://m.media-amazon.com/images/I/31h+HpQN4NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B01MQM30C5/?tag=tolees-21'
 descuento: '66.63'
-average: '53.9942105263158'
+average: '52.7955'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material exterior: sintético
-- Cierre: cordones
 - Tipo de tacón: plano
+- Cierre: cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

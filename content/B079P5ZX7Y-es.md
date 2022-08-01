@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger 3D Puzzle ball Pokemon  72 Piezas  Edad Recomendada 6+  11785 7'
-date: 2022-07-31 09:43:40
+date: 2022-08-01 15:16:13
 image: 'https://m.media-amazon.com/images/I/51V5uKkSnUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ravensburger'
 buyurl: 'https://www.amazon.es/dp/B079P5ZX7Y/?tag=tolees-21'
 descuento: '48.42'
-average: '14.8155555555556'
+average: '14.363'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
