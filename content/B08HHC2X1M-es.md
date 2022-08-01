@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wiz - Bombilla Inteligente  Led E14  40 W  Wi-Fi Bluetooth  Luz Blanca Cálida a Frio Regulable  Compatible con Alexa y Google Home'
-date: 2022-07-25 11:24:42
+date: 2022-08-01 07:34:10
 image: 'https://m.media-amazon.com/images/I/41OAbp8CEFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Automatiza las luces con programas
 - Consigue luz inteligente, blanca cálida o fría difusa y regulable
 - Sencilla conexión Plug & Play
 - Descarga la App WiZ o usa el control de voz, para reducir y aumentar el brillo o para usar los modos de luz predefinidos
+- Automatiza las luces con programas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
