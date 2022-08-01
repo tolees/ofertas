@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gründl Cotton Fun  Hilo Suave 100% algodón  Certificado Oeko-Tex  g/115 m  tamaño de Aguja: 3-4  1 Ovillo de 50 g   Nougat  One Size  1150'
-date: 2022-07-31 16:38:56
+date: 2022-08-01 19:29:05
 image: 'https://m.media-amazon.com/images/I/51cieTWJFcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
