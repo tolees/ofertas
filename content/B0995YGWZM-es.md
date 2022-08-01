@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'San Ignacio Batería de cocina 8 piezas en aluminio prensado + Set 3pcs Utensilios de cocina en nylon  PK3373'
-date: 2022-07-27 18:46:46
+date: 2022-08-01 12:01:15
 image: 'https://m.media-amazon.com/images/I/41-hdgk7mrS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
