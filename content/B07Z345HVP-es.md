@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Un Rio Tie  Zapatillas  para Mujer  Negro  Black Leather   35.5 EU'
-date: 2022-07-26 22:36:47
+date: 2022-07-31 22:51:59
 image: 'https://m.media-amazon.com/images/I/31mRZxwWWDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07Z345HVP-es Clarks Un Rio Tie Zapatillas para Mujer Negro Black...'
 sku: 'B07Z345HVP-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','clarks','🇪🇸', ]
-actualPrice: 40.59 EUR
+actualPrice: 33.99 EUR
 currency: EUR
-price: 40.59
+price: 33.99
 comparePrice: 110.0 EUR
 prodname: 'Clarks Un Rio Tie  Zapatillas  para Mujer  Negro  Black Leather   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07Z345HVP/?tag=tolees-21'
-descuento: '63.10'
-average: '43.8733333333333'
+descuento: '69.10'
+average: '41.4025'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Con cordones.
-- Forro: Piel.
-- Empeine: Piel.
 - Suela: Goma.
+- Cierre: Con cordones.
 - Altura del tacón: 4,5 cm.
+- Empeine: Piel.
+- Forro: Piel.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
