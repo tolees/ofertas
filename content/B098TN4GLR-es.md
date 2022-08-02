@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Gorra BB Tapa  CK Black  Talla única para Mujer'
-date: 2022-08-01 02:49:39
+date: 2022-08-02 12:52:57
 image: 'https://m.media-amazon.com/images/I/31sIMoTjwjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
