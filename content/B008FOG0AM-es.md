@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toy Story- INTERCOMUNICADOR GALÁCTICO Juguete  Multicolor  Talla Unica  China 1 '
-date: 2022-07-29 07:38:20
+date: 2022-08-02 17:01:50
 image: 'https://m.media-amazon.com/images/I/41u2zgOEy1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B008FOG0AM-es Toy Story- INTERCOMUNICADOR GALÁCTICO Juguete Multicolor...'
 sku: 'B008FOG0AM-es'
 tags: [ 'Juguetes','Juguetes electrónicos','Juguetes y juegos','Walkie Talkies para niños','toy story','🇪🇸', ]
-actualPrice: 24.02 EUR
+actualPrice: 23.87 EUR
 currency: EUR
-price: 24.02
+price: 23.87
 comparePrice: 39.99 EUR
 prodname: 'Toy Story- INTERCOMUNICADOR GALÁCTICO Juguete  Multicolor  Talla Unica  China 1 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Toy Story'
 buyurl: 'https://www.amazon.es/dp/B008FOG0AM/?tag=tolees-21'
-descuento: '39.93'
-average: '26.5733333333333'
+descuento: '40.31'
+average: '26.1871428571428'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

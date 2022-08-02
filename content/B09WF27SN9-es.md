@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - DIMENSIONES DEL PRODUCTO: Al </b>31.5 cm,<b> An </b>42 cm, <b>P </b>12 cm<b>, ASAS: </b>60 cm<b> , CAÍDA :</b> 11 cm<b> , CORREA DE HOMBRO DESMONTABLE: </b>140 cm
 - BOLSO ENORME PARA PORTÁTIL ELABORADO A PARTIR DE GRANDES CANTIDADES DE PRECIOSO CUERO VINTAGE QUEBRADO, CON UN BRILLO ÚNICO ALTAMENTE REFLECTANTE Y ALGUNOS PLIEGUES DE DISEÑO.
-- INTERIORES: 1 compartimento con cremallera para el portátil + 2 compartimentos abiertos + 1 bolsillo interior lateral con cremallera + 1 bolsillo para el móvil con parte superior de cuero + 1 bolsillo para iPhone con parte superior de cuero + 3 ranuras para tarjetas de crédito + 2 portabolígrafos + 1 bolsillo para monedas con cremallera + 1 llavero + 1 bolsillo exterior posterior con cremallera
-- HERRAJES: Plateado.
 - INCLUIDO: Cada bolso viene con el icónico logo del gato en forma de colgante para el bolso, y viene con su propia funda antipolvo.
+- HERRAJES: Plateado.
+- INTERIORES: 1 compartimento con cremallera para el portátil + 2 compartimentos abiertos + 1 bolsillo interior lateral con cremallera + 1 bolsillo para el móvil con parte superior de cuero + 1 bolsillo para iPhone con parte superior de cuero + 3 ranuras para tarjetas de crédito + 2 portabolígrafos + 1 bolsillo para monedas con cremallera + 1 llavero + 1 bolsillo exterior posterior con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

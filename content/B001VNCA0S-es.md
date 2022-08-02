@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplica el cepillo más grande de lado a lado, desde la raíz hasta la punta, para duplicar el tamaño de tus pestañas
 - Adecuado para usuarios de lentes de contacto. Nota El fabricante no proporciona un sello.
-- Fórmula voluminizadora que no se apelmaza, descama ni mancha
 - Volumen, longitud y grosor llamativos con una definición perfecta
+- Aplica el cepillo más grande de lado a lado, desde la raíz hasta la punta, para duplicar el tamaño de tus pestañas
+- Fórmula voluminizadora que no se apelmaza, descama ni mancha
 - La fórmula patentada para pestañas líquida cubre las pestañas desde la raíz hasta las puntas
 - Pestañas completas y de aspecto más largo sin tener que usar pestañas postizas
 

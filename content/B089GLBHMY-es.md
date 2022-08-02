@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Amortiguación EVA
+- Amortiguación de gel
 - Material de malla con superposiciones sintéticas
 - Plantilla de EVA extraíble
-- Amortiguación de gel
-- Amortiguación EVA
 - Tecnología Trusstic
 
 [🛒 Comprar!!!]({{< param buyurl >}})

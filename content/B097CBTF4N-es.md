@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Calzado Negro de la marca Puma
 - Botas Graviton Pro black
 - Calzado fabricada con materiales de calidad que se adaptan a cualquier actividad deportiva
 - Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Calzado Negro de la marca Puma
 - Botas para practicar Tiempo libre y sportwear de Niño
 
 [🛒 Comprar!!!]({{< param buyurl >}})

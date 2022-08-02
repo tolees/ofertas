@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descúbre otras figuras de la colección rocks y colecciónalas todas
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - De la colección rocks, shania twain como figura de vinilo pop de funko
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Funko pop. El juguete del año 2018
+- Descúbre otras figuras de la colección rocks y colecciónalas todas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
