@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Continental 80 J  Zapatillas de Deporte Unisex Adulto  Cloud White Scarlet Collegiate Navy  38 2/3 EU'
-date: 2022-07-26 08:45:32
+date: 2022-08-02 11:45:32
 image: 'https://m.media-amazon.com/images/I/31UeVlUfIGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07HGPFTH4/?tag=tolees-21'
 descuento: '61.43'
-average: '28.995'
+average: '28.33'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo vintage
-- Zapatillas deportivas
 - Empeine de piel lisa
+- Zapatillas deportivas
+- Estilo vintage
 
 [🛒 Comprar!!!]({{< param buyurl >}})
