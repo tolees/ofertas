@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEVI S  Wallet Unisex  Brown  One Size'
-date: 2022-07-31 01:13:59
+date: 2022-08-02 03:54:15
 image: 'https://m.media-amazon.com/images/I/31qIWPK+AXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLSTYKJ/?tag=tolees-21'
 descuento: '45.67'
-average: '27.5485714285714'
+average: '27.3113333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
