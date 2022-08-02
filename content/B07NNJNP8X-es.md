@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Badland - Little Friends: Dogs & Cats'
-date: 2022-07-29 09:42:23
+date: 2022-08-02 19:05:14
 image: 'https://m.media-amazon.com/images/I/31Niinc0geL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Badland'
 buyurl: 'https://www.amazon.es/dp/B07NNJNP8X/?tag=tolees-21'
 descuento: '39.03'
-average: '43.73'
+average: '39.982'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
