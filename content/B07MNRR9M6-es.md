@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
-- Vaqueros para hombre
 - Estilo 5 bolsillos
+- Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

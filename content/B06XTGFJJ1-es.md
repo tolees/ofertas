@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Victorio & Lucchino Agua de Colonia  150ml'
-date: 2022-07-29 10:02:28
+date: 2022-08-01 21:51:10
 image: 'https://m.media-amazon.com/images/I/21AUjcUutfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Victorio & Lucchino'
 buyurl: 'https://www.amazon.es/dp/B06XTGFJJ1/?tag=tolees-21'
 descuento: '40.00'
-average: '9.845'
+average: '9.8725'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aguas Masculinas Victorio & Lucchino Nº2 Edt Vapo 150 Ml
 - Disfruta cuidando de tu belleza con los productos más exclusivos.
 - Los mejores productos de belleza y perfumería para sentirte guapa en todo momento.
+- Aguas Masculinas Victorio & Lucchino Nº2 Edt Vapo 150 Ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
