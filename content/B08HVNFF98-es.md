@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Calidad de audio superior con AAC, soporte de códec AptX, baja latencia AptX y una conectividad Bluetooth 5.0 insuperable.
-- La aplicación Smart Control permite una experiencia de audio personalizada con una función de ecualizador y un micrófono integrado para llamadas.
 - Duración de la batería de 25 horas y comodidad duradera gracias a la diadema acolchada y las almohadillas auriculares.
+- La aplicación Smart Control permite una experiencia de audio personalizada con una función de ecualizador y un micrófono integrado para llamadas.
 - Audífonos con una tecnología inalámbrica avanzada y sonido de alta calidad que incluye bajos dinámicos inspirados en DJ.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
