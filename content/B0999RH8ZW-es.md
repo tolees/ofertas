@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GANT Garold  Zapatillas Hombre  Marine  40 EU'
-date: 2022-07-23 21:52:01
+date: 2022-08-03 01:41:23
 image: 'https://m.media-amazon.com/images/I/41qLbFNqL5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GANT'
 buyurl: 'https://www.amazon.es/dp/B0999RH8ZW/?tag=tolees-21'
 descuento: '44.00'
-average: '63.265'
+average: '62.7'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
