@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rib en puños y bajo
 - Pantalón con cordones
-- Chaqueta con cremallera
 - Chándal de dos piezas formado por chaqueta con cuello alto y pantalón largo con bolsillos y cintura elástica ajustable. Logotipo estampado.
+- Chaqueta con cremallera
+- Rib en puños y bajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
