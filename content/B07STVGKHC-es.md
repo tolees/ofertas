@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- __Parte superior:__ parte superior en ante , nobuk o cuero (según el modelo)
 - Suela exterior de goma adherente y absorbente resistente a la abrasión
-- Suela DC con dibujo Pill Pattern de marca registrada
 - Tejido interior de malla
 - Plantilla EVA que aporta amortiguación
+- __Parte superior:__ parte superior en ante , nobuk o cuero (según el modelo)
+- Suela DC con dibujo Pill Pattern de marca registrada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
