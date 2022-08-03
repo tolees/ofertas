@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers SKECH-AIR DYNAMIGHT VENTURIK  Zapatillas de deporte para Hombre  Charcoal Synthetic/Textile/Trim  43 EU'
-date: 2022-08-02 14:42:50
+date: 2022-08-03 18:03:56
 image: 'https://m.media-amazon.com/images/I/41WoNTSnBoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Retropy F2  Sneaker Hombre  Orbit Green/Silver Metallic/Focus Olive  37 1/3 EU'
-date: 2022-07-30 08:45:19
+date: 2022-08-03 18:00:56
 image: 'https://m.media-amazon.com/images/I/41RtKJgfGFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forro textil
 - Parte superior textil con superposiciones de ante cosidas
 - Cordones
-- Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
