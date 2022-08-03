@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OSRAM Breaker Next Gen + Lámpara halógena'
-date: 2022-07-30 13:06:22
+date: 2022-08-03 21:59:08
 image: 'https://m.media-amazon.com/images/I/41CXMCWlR4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07V1JSSG1-es OSRAM Breaker Next Gen + Lámpara halógena'
 sku: 'B07V1JSSG1-es'
 tags: [ 'Bombillas','Bombillas exteriores','Coche y moto','Luces, bombillas e indicadores','Piezas para coche','osram','🇪🇸', ]
-actualPrice: 27.36 EUR
+actualPrice: 36.2 EUR
 currency: EUR
-price: 27.36
+price: 36.2
 comparePrice: 79.02 EUR
 prodname: 'OSRAM Breaker Next Gen + Lámpara halógena'
 country: 'es'
 flag: '🇪🇸'
 brand: 'OSRAM'
 buyurl: 'https://www.amazon.es/dp/B07V1JSSG1/?tag=tolees-21'
-descuento: '65.38'
-average: '27.36'
+descuento: '54.19'
+average: '30.3066666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hasta un 150% más de luz para su vehículo gracias a la innovadora tecnología de ablación láser.
-- OSRAM NIGHT BREAKER LASER la nueva generación: Las bombillas halógenas H7 más luminosas de OSRAM en el práctico duo box.
-- COOL BLUE INTENSE de OSRAM: Esta lámpara para faros de gran rendimiento proporciona hasta un 20 % más de luz (en comparación con las lámparas halógenas estándar).
 - La luz, de tonos blancos y azulados, es ideal para usar en faros de vidrio transparente y brinda un aspecto de xenón único.
+- Hasta un 150% más de luz para su vehículo gracias a la innovadora tecnología de ablación láser.
+- COOL BLUE INTENSE de OSRAM: Esta lámpara para faros de gran rendimiento proporciona hasta un 20 % más de luz (en comparación con las lámparas halógenas estándar).
+- OSRAM NIGHT BREAKER LASER la nueva generación: Las bombillas halógenas H7 más luminosas de OSRAM en el práctico duo box.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

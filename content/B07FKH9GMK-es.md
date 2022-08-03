@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Step Urban Mix  Zapatillas Hombre  Verde Khaki  43 EU'
-date: 2022-07-22 22:11:45
+date: 2022-08-03 20:28:14
 image: 'https://m.media-amazon.com/images/I/41n+c6VYNtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07FKH9GMK/?tag=tolees-21'
 descuento: '50.04'
-average: '43.0205263157894'
+average: '42.6169999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

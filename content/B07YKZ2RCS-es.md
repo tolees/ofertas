@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Champú sin sal, sulfato ni parabenos
-- Mantiene tus balayage con un color natural con champu azul
-- Mantiene tu cabello con un rubio natural. Ideal para cabellos grises, canos y con mechas
 - Terapia de color con pigmentos violeta-azul para tu cabello rubio
 - Limpia profundamente y aporta pigmentos Anti-Amarillo
+- Mantiene tu cabello con un rubio natural. Ideal para cabellos grises, canos y con mechas
+- Mantiene tus balayage con un color natural con champu azul
+- Champú sin sal, sulfato ni parabenos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
