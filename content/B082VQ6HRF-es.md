@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnson s Baby Champú Clásico  Pelo Suave  Brillante e Hidratado  300 ml'
-date: 2022-08-02 19:21:07
+date: 2022-08-03 20:06:40
 image: 'https://m.media-amazon.com/images/I/41OWIrfMokL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Johnsons Baby'
 buyurl: 'https://www.amazon.es/dp/B082VQ6HRF/?tag=tolees-21'
 descuento: '54.79'
-average: '1.52428571428571'
+average: '1.5'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Champú sin colorantes, ftalatos, sulfatos, alcohol y jabón
 - Champú probado por pediatras y dermatólogos
 - Ideal también para niños y adultos
-- Champú para bebés que deja el pelo suave, brillante e hidratado
 - Fórmula hipoalergénica y con pH equilibrado, ¡ideal para el cabello del bebé!
+- Champú para bebés que deja el pelo suave, brillante e hidratado
+- Champú sin colorantes, ftalatos, sulfatos, alcohol y jabón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

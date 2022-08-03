@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Skech-Air
 - Espuma viscoelástica
+- Skech-Air
 
 [🛒 Aquí!!!]({{< param buyurl >}})
