@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GUESS Brazalete Brazalete UBB79102-S UBB79102-S Marca'
-date: 2022-08-01 12:01:18
+date: 2022-08-03 12:48:13
 image: 'https://m.media-amazon.com/images/I/31nc0IZopTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GUESS'
 buyurl: 'https://www.amazon.es/dp/B083V24HLD/?tag=tolees-21'
 descuento: '48.72'
-average: '20.655'
+average: '20.4366666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

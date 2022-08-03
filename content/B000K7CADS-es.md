@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Classic Slip-On  Zapatillas Unisex Adulto  Blanco  True White   39 EU'
-date: 2022-08-02 12:00:48
+date: 2022-08-03 12:47:17
 image: 'https://m.media-amazon.com/images/I/31vJPUE8SML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B000K7CADS-es Vans Classic Slip-On Zapatillas Unisex Adulto Blanco True...'
 sku: 'B000K7CADS-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','vans','🇪🇸', ]
-actualPrice: 38.69 EUR
+actualPrice: 36.31 EUR
 currency: EUR
-price: 38.69
+price: 36.31
 comparePrice: 65.0 EUR
 prodname: 'Vans Classic Slip-On  Zapatillas Unisex Adulto  Blanco  True White   39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B000K7CADS/?tag=tolees-21'
-descuento: '40.48'
-average: '43.3029411764706'
+descuento: '44.14'
+average: '42.9144444444445'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
