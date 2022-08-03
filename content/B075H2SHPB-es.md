@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas VL Court 2.0 K  Zapatillas Unisex Adulto  Blanco  Footwear White/Core Black/Footwear White   38 2/3 EU'
-date: 2022-07-30 11:45:44
+date: 2022-08-03 13:29:04
 image: 'https://m.media-amazon.com/images/I/41CVwHJJCOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B075H2SHPB/?tag=tolees-21'
 descuento: '47.53'
-average: '27.79'
+average: '26.6566666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

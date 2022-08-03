@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Women secret Body Padded Lace Standard Black Body para Mujer  Negro  95B'
-date: 2022-07-25 15:46:25
+date: 2022-08-03 13:59:38
 image: 'https://m.media-amazon.com/images/I/41jEfLEy-IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BODY
 - LACE STANDARD BLACK
 - BODY PADDED
 - SENSE VALENTINE
+- BODY
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
