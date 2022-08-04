@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 8.41002E+12
-- Pastas de dientes licor del polo
 - Protección anticaries
+- Pastas de dientes licor del polo
+- 8.41002E+12
 
 [🛒 Visítala!!!]({{< param buyurl >}})

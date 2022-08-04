@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance W680V7  Zapatillas para Correr de Carretera Mujer  Black  35 EU'
-date: 2022-07-27 08:04:51
+date: 2022-08-04 07:34:44
 image: 'https://m.media-amazon.com/images/I/41xYbjuPYZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08MWV5J6Z-es New Balance W680V7 Zapatillas para Correr de Carretera...'
 sku: 'B08MWV5J6Z-es'
 tags: [ 'Calzado deportivo para mujer','Calzados de running para mujer','Calzados para correr en asfalto para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','new balance','🇪🇸', ]
-actualPrice: 40.68 EUR
+actualPrice: 40.54 EUR
 currency: EUR
-price: 40.68
+price: 40.54
 comparePrice: 90.0 EUR
 prodname: 'New Balance W680V7  Zapatillas para Correr de Carretera Mujer  Black  35 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B08MWV5J6Z/?tag=tolees-21'
-descuento: '54.80'
-average: '42.655'
+descuento: '54.96'
+average: '41.95'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
