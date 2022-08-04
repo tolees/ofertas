@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta Smiley
 - Estampado de efecto vintage
-- Logo Smiley en la manga
-- Sostenible: algodón BCI
 - Algodón BCI
+- Sostenible: algodón BCI
+- Logo Smiley en la manga
+- Camiseta Smiley
 
 [🛒 Comprar!!!]({{< param buyurl >}})
