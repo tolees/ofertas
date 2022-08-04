@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Atwood Canvas  Zapatillas Hombre  Azul/Blanco  Blue Canvas Navy/White   38.5 EU'
-date: 2022-07-24 12:50:15
+date: 2022-08-04 12:43:33
 image: 'https://m.media-amazon.com/images/I/41jSiAvcRfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B009S1YVM0-es Vans Atwood Canvas Zapatillas Hombre Azul/Blanco Blue...'
 sku: 'B009S1YVM0-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','vans','🇪🇸', ]
-actualPrice: 38.25 EUR
+actualPrice: 36.34 EUR
 currency: EUR
-price: 38.25
+price: 36.34
 comparePrice: 60.5 EUR
 prodname: 'Vans Atwood Canvas  Zapatillas Hombre  Azul/Blanco  Blue Canvas Navy/White   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B009S1YVM0/?tag=tolees-21'
-descuento: '36.78'
-average: '54.6892741935485'
+descuento: '39.93'
+average: '54.5424800000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
