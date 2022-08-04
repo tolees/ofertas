@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Napapijri - Napapjiri Burgee WINT 1 Sweatshirt  Whitecap Gray  Large Mens'
-date: 2022-07-30 16:49:19
+date: 2022-08-04 09:21:10
 image: 'https://m.media-amazon.com/images/I/419SWCZdIAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bolsillo frontal con cremallera cubierto por solapa de velcro
-- Capucha con cordón externo para ajuste.
 - Sudadera con un estilo inconfundible
+- Capucha con cordón externo para ajuste.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
