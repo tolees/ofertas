@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Goma Goodyear
 - Zapato cómodo
-- Espuma viscoelástica
-- Ajuste elástico
 - Lavable a máquina
+- Ajuste elástico
+- Espuma viscoelástica
+- Goma Goodyear
 
 [🛒 Aquí!!!]({{< param buyurl >}})
