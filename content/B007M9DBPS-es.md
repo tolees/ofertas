@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- hecha de material elástico impermeable
 - perfecto para la separación de césped y flores
 - utilizar: evita la hierba crezcan demasiado
 - se recomienda instalar el borde del césped a nivel del suelo
-- hecha de material elástico impermeable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

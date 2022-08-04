@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- This shoe having not water resistant
 - Round Toe
 - This shoe having solid pattern
-- This shoe having not water resistant
 
 [🛒 Comprar!!!]({{< param buyurl >}})

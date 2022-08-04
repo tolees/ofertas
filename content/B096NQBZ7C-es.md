@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Revestimiento: Sintético
-- Cierre: Cordones
 - Material de la suela: Caucho
+- Cierre: Cordones
+- Revestimiento: Sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Slopeside Peak Luxe  Botas de invierno para mujer'
-date: 2022-08-03 11:12:24
+date: 2022-08-04 18:12:58
 image: 'https://m.media-amazon.com/images/I/41Mm0JxtjlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B08MQQ3MFF/?tag=tolees-21'
 descuento: '75.68'
-average: '35.31'
+average: '34.0766666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Cordones
 - Solé material: Caucho
+- Cierre: Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
