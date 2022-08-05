@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heelys Propel 2.0  770506  - Zapatillas de deporte para niños unisex  Black/orange  32'
-date: 2022-07-31 14:16:25
+date: 2022-08-04 23:46:56
 image: 'https://m.media-amazon.com/images/I/41d6KQZ1FAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Patines Patinaje Niño
-- Material duro Heelys
 - De alta calidad y con diseño deportivo
+- Material duro Heelys
+- Patines Patinaje Niño
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
