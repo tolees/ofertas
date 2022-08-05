@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RFEF - Réplica oficial minikit primera equipación rfef 2020'
-date: 2022-07-28 15:00:54
+date: 2022-08-05 08:45:32
 image: 'https://m.media-amazon.com/images/I/41+35OK2CXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'RFEF'
 buyurl: 'https://www.amazon.es/dp/B085PJDYH5/?tag=tolees-21'
 descuento: '37.67'
-average: '25.8918181818182'
+average: '25.8486956521739'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

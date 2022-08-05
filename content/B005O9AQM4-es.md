@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brembo 09876010 Disco de Freno  Set de 2'
-date: 2022-07-31 16:38:13
+date: 2022-08-05 09:27:16
 image: 'https://m.media-amazon.com/images/I/316KsXnfz0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Brembo'
 buyurl: 'https://www.amazon.es/dp/B005O9AQM4/?tag=tolees-21'
 descuento: '45.77'
-average: '94.4'
+average: '93.9'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

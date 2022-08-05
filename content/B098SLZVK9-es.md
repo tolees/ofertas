@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 505 Regular Sunset Down Jeans  32W x 32L para Hombre'
-date: 2022-08-04 07:28:25
+date: 2022-08-05 08:36:15
 image: 'https://m.media-amazon.com/images/I/41nvSaN4YdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
