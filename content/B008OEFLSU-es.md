@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ceys - Total Tech - Pega Sella y Repara - Blanco - Tubo 125ml'
-date: 2022-08-04 12:26:44
+date: 2022-08-05 18:00:31
 image: 'https://m.media-amazon.com/images/I/31h6FvqpIlS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - SUPERFICIES APTAS: Pegado de gresite en piscinas, Carrocería industrial, Pegado de perfiles de aluminio, Pegado de espejos, Sellado y pegado de tuberías de PVC, etc.
-- MODO DE EMPLEO: LIMPIAR y secar bien las superficies. CORTAR la boca del cartucho o el tubo. COLOCAR el cartucho en la pistola y APLICAR. Limpiar los restos de producto.
 - FORMATO: Tubo 125 ML.
+- MODO DE EMPLEO: LIMPIAR y secar bien las superficies. CORTAR la boca del cartucho o el tubo. COLOCAR el cartucho en la pistola y APLICAR. Limpiar los restos de producto.
 - RENDIMIENTO: 30-35 metros lineales para una junta de 3x3mm.
 - CARACTERÍSTICAS: Gran poder de relleno. Ultraelástico 370%. Resistencia a tracción 300Kg/10cm2. Sin disolventes. No ataca superficies delicadas. Pega todo tipo de materiales.
 
