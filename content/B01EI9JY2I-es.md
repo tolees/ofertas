@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Negro Black  44 2/3 EU'
-date: 2022-08-03 22:45:55
-image: 'https://m.media-amazon.com/images/I/41mHYTQRgBL._SL500_._SL400_.jpg'
+date: 2022-08-05 23:06:33
+image: 'https://m.media-amazon.com/images/I/414I2if9QJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B01EI9JY2I/?tag=tolees-21'
 descuento: '35.16'
-average: '67.1705022831052'
+average: '67.1494117647061'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte regular
 - Cordones de zapatos
 - Suela de goma
+- Corte regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

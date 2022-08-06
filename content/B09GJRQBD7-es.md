@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich Road W  Zapatillas Mujer  Gris 18  41 EU'
-date: 2022-08-04 23:04:09
+date: 2022-08-05 23:11:44
 image: 'https://m.media-amazon.com/images/I/41B97eFuqVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B09GJRQBD7/?tag=tolees-21'
 descuento: '35.25'
-average: '68.49'
+average: '68.3233333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
