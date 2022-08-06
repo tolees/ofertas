@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich PADX Padel  Zapatillas deportivas para Unisex adulto  Blanco 20  42 EU'
-date: 2022-08-05 14:00:46
+date: 2022-08-06 14:55:36
 image: 'https://m.media-amazon.com/images/I/41faV-Rz3nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

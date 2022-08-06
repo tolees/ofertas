@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony KD50X80J - Smart TV de 50" con 4K Ultra HD  Google TV  Processor X1  Triluminos Pro  HDR  modelo 2021  color negro '
-date: 2022-08-05 12:35:16
+date: 2022-08-06 15:25:15
 image: 'https://m.media-amazon.com/images/I/41USV6YwN4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08XQVVPM9/?tag=tolees-21'
 descuento: '35.60'
-average: '679.855'
+average: '673.131333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Calidad de imagen: 4K HDR
-- Nuestra tecnología Ambient Optimization con sensor de luz ajusta automáticamente el sonido y la imagen a tu entorno
-- La tecnología Ambient Optimization con sensor de luz ajusta automáticamente el sonido y la imagen
-- Pídele a Google un título específico, busca por género o recibe recomendaciones a medida
 - Tamaño de pantalla: 50 pulgadas
+- Nuestra tecnología Ambient Optimization con sensor de luz ajusta automáticamente el sonido y la imagen a tu entorno
+- Pídele a Google un título específico, busca por género o recibe recomendaciones a medida
+- La tecnología Ambient Optimization con sensor de luz ajusta automáticamente el sonido y la imagen
 
 [🛒 Comprar!!!]({{< param buyurl >}})
