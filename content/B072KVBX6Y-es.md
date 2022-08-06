@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers GO WALK MAX EFFORT  Zapatillas Deportivas para Hombre  Navy Textile /Gray Trim  42.5 EU'
-date: 2022-08-01 07:06:55
+date: 2022-08-06 08:13:13
 image: 'https://m.media-amazon.com/images/I/41epMXZ+7eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B072KVBX6Y/?tag=tolees-21'
 descuento: '56.41'
-average: '29.95'
+average: '27.95'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

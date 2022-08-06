@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Respin SL  Zapatillas Unisex Adulto  Black  37 EU'
-date: 2022-08-03 11:44:14
+date: 2022-08-06 10:04:46
 image: 'https://m.media-amazon.com/images/I/41Kmij853IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B08MQYGZQC/?tag=tolees-21'
 descuento: '54.70'
-average: '33.66'
+average: '33.7566666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
