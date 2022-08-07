@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Hernandez  Zapatillas Hombre  Regular White  43 EU'
-date: 2022-08-06 06:42:31
+date: 2022-08-07 06:44:49
 image: 'https://m.media-amazon.com/images/I/31NrDRDD2JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hom
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0
-comparePrice: 32.95 EUR
+comparePrice: 29.99 EUR
 prodname: 'Levi s Hernandez  Zapatillas Hombre  Regular White  43 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLSZQPR/?tag=tolees-21'
-descuento: '45.37'
-average: '24.9941176470588'
+descuento: '39.98'
+average: '24.6055555555555'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

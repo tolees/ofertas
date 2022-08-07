@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers OG 85 GOLD N GURL  Zapatillas de deporte para Mujer  Black Suede/ Nylon/ Mesh/ Rose Gold Trim  38 EU'
-date: 2022-08-05 23:11:35
+date: 2022-08-07 06:58:28
 image: 'https://m.media-amazon.com/images/I/31wSXNw5m3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B014EMPU9A/?tag=tolees-21'
 descuento: '38.41'
-average: '42.5200000000001'
+average: '42.3261538461539'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
