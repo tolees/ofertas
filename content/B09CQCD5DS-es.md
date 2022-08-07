@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI MPG CORELIQUID K240 V2'
-date: 2022-08-03 16:52:43
+date: 2022-08-07 05:04:33
 image: 'https://m.media-amazon.com/images/I/41ZFh8zQDHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
