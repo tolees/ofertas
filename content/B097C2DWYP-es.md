@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Basket Classic XXI  Zapatillas Hombre  White Chili Oil  38 EU'
-date: 2022-08-03 11:13:40
+date: 2022-08-07 15:10:41
 image: 'https://m.media-amazon.com/images/I/31CqnQVBHNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B097C2DWYP-es PUMA Basket Classic XXI Zapatillas Hombre White Chili Oil...'
 sku: 'B097C2DWYP-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','puma','🇪🇸', ]
-actualPrice: 27.47 EUR
+actualPrice: 24.91 EUR
 currency: EUR
-price: 27.47
+price: 24.91
 comparePrice: 79.95 EUR
 prodname: 'PUMA Basket Classic XXI  Zapatillas Hombre  White Chili Oil  38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B097C2DWYP/?tag=tolees-21'
-descuento: '65.64'
-average: '27.47'
+descuento: '68.84'
+average: '26.19'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
