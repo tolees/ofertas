@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! J.J. Abrams - Figura de Vinilo J.J. Abrams'
-date: 2022-08-02 12:40:28
+date: 2022-08-06 21:38:40
 image: 'https://m.media-amazon.com/images/I/41+EwUd3YNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colección directores
-- Licencia oficial
+- Funko pop
 - Caja ilustrada con ventana
 - Nº 704
-- Funko pop
+- Licencia oficial
+- Colección directores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ansmann - Linterna hycell zoom flashlight 55 lumen incl. 3 p'
-date: 2022-08-01 11:50:23
+date: 2022-08-06 21:16:33
 image: 'https://m.media-amazon.com/images/I/21lTKXpdiHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Superficie de goma y anilla de color en el reflector de la carcasa
-- Práctico y versátil linterna con función de zoom
 - Incluye correa de mano
 - Incluye 3 pilas Micro AAA)
+- Superficie de goma y anilla de color en el reflector de la carcasa
+- Práctico y versátil linterna con función de zoom
 - LED con extrema durabilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
