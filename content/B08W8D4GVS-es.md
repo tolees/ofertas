@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GUESS Pendientes Star Is Born UBE70156'
-date: 2022-08-03 11:49:50
+date: 2022-08-07 19:14:39
 image: 'https://m.media-amazon.com/images/I/41u4wnLYpgS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Referencia UBE70156
 - Pendientes A Star Is Born UBE70156 marca Guess
+- Referencia UBE70156
 - Pendientes marca Guess
 
 [🛒 Comprar!!!]({{< param buyurl >}})
