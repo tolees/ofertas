@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Abanu  Crossbody Mujer  Verde   moss  7.5x20x13.5 Cm LxWxH'
-date: 2022-08-03 13:39:24
+date: 2022-08-07 21:23:54
 image: 'https://m.media-amazon.com/images/I/31sAN4Ogt7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kipling'
 buyurl: 'https://www.amazon.es/dp/B083YD68DY/?tag=tolees-21'
 descuento: '42.79'
-average: '37.3611111111111'
+average: '37.624'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Classics
 - Crossbody
+- Classics
 - Para mujer
 
 [🛒 Aquí!!!]({{< param buyurl >}})

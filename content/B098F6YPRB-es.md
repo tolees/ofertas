@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Nike Revolution 5  Zapatillas de Gimnasio  Midnight Navy White Orange  21 EU'
-date: 2022-07-29 21:36:21
-image: 'https://m.media-amazon.com/images/I/414nePA75tL._SL500_._SL400_.jpg'
+date: 2022-08-07 21:24:01
+image: 'https://m.media-amazon.com/images/I/412LlTvxbVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B098F6YPRB/?tag=tolees-21'
 descuento: '38.13'
-average: '22.99'
+average: '23.74'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Amortiguación
 - Zapatillas deportivas
 - Ligereza
-- Amortiguación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
