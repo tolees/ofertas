@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Air Zoom Pegasus 38  Zapatillas Mujer  Black Black Black Anthracite Volt  36.5 EU'
-date: 2022-07-30 21:47:34
+date: 2022-08-08 20:26:43
 image: 'https://m.media-amazon.com/images/I/31c1b0uJkKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Unidad Air Zoom en el antepié
 - Tecnología Nike React
+- Unidad Air Zoom en el antepié
 - Zapatillas de running
 
 [🛒 Aquí!!!]({{< param buyurl >}})

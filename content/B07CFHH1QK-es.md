@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Knit Crew Neck Noos Suéter  Gris  Dark Grey Mixed   S para Hombre'
-date: 2022-07-29 21:27:25
+date: 2022-08-08 19:32:47
 image: 'https://m.media-amazon.com/images/I/41pptR+BM+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07CFHH1QK/?tag=tolees-21'
 descuento: '39.98'
-average: '16.4120000000001'
+average: '16.3237500000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
