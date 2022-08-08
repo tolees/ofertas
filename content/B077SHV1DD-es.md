@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games-El Trono de Hierro: Las Guerras Venideras  Color  FFHBO16 '
-date: 2022-08-07 16:10:42
+date: 2022-08-08 17:34:08
 image: 'https://m.media-amazon.com/images/I/51Tr1fW+HkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fantasy Flight Games'
 buyurl: 'https://www.amazon.es/dp/B077SHV1DD/?tag=tolees-21'
 descuento: '36.08'
-average: '15.31'
+average: '15.5244444444444'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
