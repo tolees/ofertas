@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lavable a máquina
 - Vegano
+- Lavable a máquina
 - Zapato cómodo
 - Espuma viscoelástica refrigerada por aire
 

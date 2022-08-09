@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES PLUS Jjelogo 2 Col 21/22 Noos PS-Sudadera con Capucha  Black  3XL Grandes para Hombre'
-date: 2022-07-30 02:10:31
+date: 2022-08-09 02:23:04
 image: 'https://m.media-amazon.com/images/I/31laYJuO5mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'JACK & JONES PLUS'
 buyurl: 'https://www.amazon.es/dp/B099X4N4FF/?tag=tolees-21'
 descuento: '62.52'
-average: '16.865'
+average: '16.49'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
