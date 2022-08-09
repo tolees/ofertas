@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Bosch 2607000181 Bosch Aceite Biodegradable  Verde'
-date: 2022-08-05 09:27:33
+date: 2022-08-09 17:08:14
 image: 'https://m.media-amazon.com/images/I/31SpuDOHoqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B000Y1D6YM/?tag=tolees-21'
 descuento: '67.67'
-average: '9.09666666666666'
+average: '8.79461538461538'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

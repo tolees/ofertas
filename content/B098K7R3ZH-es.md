@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pepe Jeans Essentials
 - Logotipo impreso en los bolsillos
+- Pepe Jeans Essentials
 
 [🛒 Aquí!!!]({{< param buyurl >}})
