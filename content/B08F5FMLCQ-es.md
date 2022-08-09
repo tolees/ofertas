@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VERSACE EROS POUR HOMME EDP EDP VAPO 100 MLVERSACH'
-date: 2022-08-04 21:01:57
+date: 2022-08-09 12:16:14
 image: 'https://m.media-amazon.com/images/I/5182hTS4swL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Versace'
 buyurl: 'https://www.amazon.es/dp/B08F5FMLCQ/?tag=tolees-21'
 descuento: '53.14'
-average: '44.9666666666667'
+average: '45.675'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Versace eros epv 100 ml
 - Producto de alta calidad
+- Versace eros epv 100 ml
 - Para una sensación de bienestar
 - Un perfume con una fragancia inconfundible y elegante
 
