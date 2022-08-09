@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de gamuza y malla
-- Cierre de cordones para un ajuste seguro
 - La entresuela REVlite ofrece una amortiguación increíblemente ligera
+- Cierre de cordones para un ajuste seguro
+- Parte superior de gamuza y malla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

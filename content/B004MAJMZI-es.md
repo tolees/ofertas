@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'De Longhi Juego de 2 vasos premium para cappuccino  apto para lavavajillas  pared doble vidrio templado  transparente  190 ml'
-date: 2022-08-04 17:45:52
+date: 2022-08-09 08:51:22
 image: 'https://m.media-amazon.com/images/I/41L1TfxF24L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DeLonghi'
 buyurl: 'https://www.amazon.es/dp/B004MAJMZI/?tag=tolees-21'
 descuento: '50.05'
-average: '11.896'
+average: '11.5783333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 x pared doble vidrios termo
+- Apto para lavavajillas
+- capuchino
 - Cómodo para sostenerse
 - Mantiene las bebidas calientes o frías
-- Apto para lavavajillas
+- 2 x pared doble vidrios termo
 - capacidad de 190 ml
-- capuchino
 
 [🛒 Comprar!!!]({{< param buyurl >}})

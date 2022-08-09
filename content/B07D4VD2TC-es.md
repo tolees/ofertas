@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aroma: En nariz expresa recuerdos frutales en equilibrio con aromas terciarios de madera nueva de roble
-- Gusto: En boca es amplio, con profunda carga de suaves taninos, persistente y muy conjuntado en su estructura
-- Maridaje: Combina con codornices al vino tinto, jarrete de cordero sobre pure de patatas
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos servir entre 16ºC y 18ºC
+- Maridaje: Combina con codornices al vino tinto, jarrete de cordero sobre pure de patatas
+- Gusto: En boca es amplio, con profunda carga de suaves taninos, persistente y muy conjuntado en su estructura
 - Tipo de uva: Elaborado a base de uva Tinta del País; Su maceración es larga, de 25 a 30 días y con una estancia en barrica de 90 días
+- Aroma: En nariz expresa recuerdos frutales en equilibrio con aromas terciarios de madera nueva de roble
 - Apariencia: Vino tinto de color cereza intenso, mantiene un tono vivo y limpio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
