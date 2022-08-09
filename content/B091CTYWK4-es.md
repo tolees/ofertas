@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Serigrafía One and Only
 - 80% algodón / 20% poliéster
 - Tejido fleece cepillado cepillado de 240 g / m2
-- Serigrafía One and Only
 
 [🛒 Comprar!!!]({{< param buyurl >}})

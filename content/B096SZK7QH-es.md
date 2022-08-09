@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material: 80% algodón y 20% poliéster
 - Serigrafía One and Only
-- Tejido fleece cepillado de 240 g / m2
+- Material: 80% algodón y 20% poliéster
 - Material de calidad
+- Tejido fleece cepillado de 240 g / m2
 
 [🛒 Visítala!!!]({{< param buyurl >}})
