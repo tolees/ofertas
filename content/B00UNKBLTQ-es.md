@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18163/2'
+date: 2022-08-09 15:19:27
+image: 'https://m.media-amazon.com/images/I/41XyXuuoDiL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00UNKBLTQ-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B00UNKBLTQ-es'
+tags: [ 'Relojes','Relojes de pulsera para hombres','Relojes para hombre','lotus','🇪🇸', ]
+actualPrice: 74.63 EUR
+currency: EUR
+price: 74.63
+comparePrice: 129.0 EUR
+prodname: 'Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18163/2'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Lotus'
+buyurl: 'https://www.amazon.es/dp/B00UNKBLTQ/?tag=tolees-21'
+descuento: '42.15'
+average: '91.0565217391304'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Caja redonda de acero inoxidable chapada en azul
+- Pulsera de acero inoxidable con cierre de botón
+- Vidrio mineral duro
+- Resistencia al agua hasta 50 metros
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
