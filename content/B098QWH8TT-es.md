@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Amanda Ease  Sandalia  para Mujer  Negro  Black Combi   39 EU'
-date: 2022-08-07 23:00:53
+date: 2022-08-10 01:33:18
 image: 'https://m.media-amazon.com/images/I/41S4hvu2F4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B098QWH8TT-es Clarks Amanda Ease Sandalia para Mujer Negro Black Combi...'
 sku: 'B098QWH8TT-es'
 tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','clarks','🇪🇸', ]
-actualPrice: 22.11 EUR
+actualPrice: 21.0 EUR
 currency: EUR
-price: 22.11
+price: 21.0
 comparePrice: 69.95 EUR
 prodname: 'Clarks Amanda Ease  Sandalia  para Mujer  Negro  Black Combi   39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B098QWH8TT/?tag=tolees-21'
-descuento: '68.39'
-average: '22.11'
+descuento: '69.98'
+average: '21.555'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -31,7 +31,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Informal
 - Piel suave
 - Cama suave
-- Allday
 - Holiday
+- Allday
 
 [🛒 Aquí!!!]({{< param buyurl >}})
