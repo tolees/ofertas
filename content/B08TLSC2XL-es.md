@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es un regalo perfecto para niños a partir de 4 años, especialmente para fans de Jurassic World, los dinosaurios y los juegos de acción.
-- ¡Juega a lo GRANDE! ¡Esta gigantesca figura de dinosaurio mide 40,6CM DE ALTURA y 91CM DE LONGITUD! Su aspecto, textura y color son de lo más realistas.
-- Abre la compuerta de la barriga para liberar a las presas que se ha comido y empezar de nuevo.
-- ¡Abre el apetito de los más pequeños con la figura Carnotaurus Toro Supercolosal de Jurassic World inspirada en la serie animada Jurassic World: Campamento Cretácico!
 - Los niños sacarán su instinto más salvaje con esta colosal figura de Carnotaurus capaz de engullir a minifiguras de acción enteras.
+- ¡Abre el apetito de los más pequeños con la figura Carnotaurus Toro Supercolosal de Jurassic World inspirada en la serie animada Jurassic World: Campamento Cretácico!
+- Abre la compuerta de la barriga para liberar a las presas que se ha comido y empezar de nuevo.
+- ¡Juega a lo GRANDE! ¡Esta gigantesca figura de dinosaurio mide 40,6CM DE ALTURA y 91CM DE LONGITUD! Su aspecto, textura y color son de lo más realistas.
+- Es un regalo perfecto para niños a partir de 4 años, especialmente para fans de Jurassic World, los dinosaurios y los juegos de acción.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
