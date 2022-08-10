@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se colocan cubriendo los quemadores para evitar que la grasa caiga directamente ellos y se creen llamaradas
-- Reutilizables
-- Distribuyen de forma homogénea el calor
 - Mayor número de usos que las piedras de lava
+- Se colocan cubriendo los quemadores para evitar que la grasa caiga directamente ellos y se creen llamaradas
+- Distribuyen de forma homogénea el calor
+- Reutilizables
 
 [🛒 Visítala!!!]({{< param buyurl >}})
