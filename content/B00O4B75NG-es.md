@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'TRIXIE Bote Snack de Entrenamiento Mini Hearts  200 g  Perro'
-date: 2022-08-04 19:20:22
-image: 'https://m.media-amazon.com/images/I/51mfeKMZ66L._SL500_._SL400_.jpg'
+date: 2022-08-10 14:04:05
+image: 'https://m.media-amazon.com/images/I/51VzD5J8tUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
