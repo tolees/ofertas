@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Nest CAM de Interior  con Cable Cámara de Seguridad doméstica - Cámara de Seguridad Inteligente  Blanco  1 Unidad  Paquete de 1 '
-date: 2022-08-02 08:15:15
+date: 2022-08-11 12:08:35
 image: 'https://m.media-amazon.com/images/I/21GtVYFqZrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Google'
 buyurl: 'https://www.amazon.es/dp/B09MZLBDHX/?tag=tolees-21'
 descuento: '51.00'
-average: '73.29'
+average: '68.402'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Entérate de lo que ocurre las 24 horas. Puedes usar la aplicación Google Home para echar un vistazo estés donde estés gracias al vídeo de alta definición 1080p en directo. E HDR y la función Visión Nocturna ofrecen imágenes nítidas incluso a pleno sol o con poca luz.
 - Solo di "Hey Google, enséñame el salón". La cámara de seguridad Nest Cam te permite ver la transmisión en directo en tu pantalla inteligente Nest Hub.
-- Configúrala en cuestión de minutos. Nest Cam se conecta a la mayoría de enchufes domésticos. Descarga la aplicación Google Home y configura tu cámara en pocos pasos.
-- Retrocede en el tiempo. Puedes ver lo que ha pasado en la aplicación Google Home con 3 horas de historial de vídeo por eventos gratuito. También puedes añadir una suscripción a Nest Aware para conseguir hasta 60 días de historial de vídeo.
-- Diseñada para colocarse en cualquier lugar. El soporte para mesa integrado, el soporte de pared y la bisagra de ajuste multidireccional te ayudan a conseguir el ángulo perfecto, la pongas donde la pongas.
-- Diferentes alertas para distintas actividades. Nest Cam tiene funciones inteligentes integradas que le permiten distinguir a las personas de las mascotas, y envía alertas a la aplicación Google Home cuando se producen actividades importantes.
 - Tu privacidad es lo primero. Gracias a la verificación en dos pasos y el cifrado de vídeo, las cámaras de seguridad domésticas Nest Cam ofrecen protección segura para tu privacidad.
+- Entérate de lo que ocurre las 24 horas. Puedes usar la aplicación Google Home para echar un vistazo estés donde estés gracias al vídeo de alta definición 1080p en directo. E HDR y la función Visión Nocturna ofrecen imágenes nítidas incluso a pleno sol o con poca luz.
+- Retrocede en el tiempo. Puedes ver lo que ha pasado en la aplicación Google Home con 3 horas de historial de vídeo por eventos gratuito. También puedes añadir una suscripción a Nest Aware para conseguir hasta 60 días de historial de vídeo.
+- Configúrala en cuestión de minutos. Nest Cam se conecta a la mayoría de enchufes domésticos. Descarga la aplicación Google Home y configura tu cámara en pocos pasos.
+- Diseñada para colocarse en cualquier lugar. El soporte para mesa integrado, el soporte de pared y la bisagra de ajuste multidireccional te ayudan a conseguir el ángulo perfecto, la pongas donde la pongas.
 - Google Nest. Te damos la bienvenida al hogar que te ayuda. Transmite en streaming tus videos sin usar las manos a pantallas inteligentes y smart TVs compatibles con el Asistente de Google y Amazon Alexa.
+- Diferentes alertas para distintas actividades. Nest Cam tiene funciones inteligentes integradas que le permiten distinguir a las personas de las mascotas, y envía alertas a la aplicación Google Home cuando se producen actividades importantes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

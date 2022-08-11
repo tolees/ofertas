@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El magnesio contribuye a disminuir el cansancio y la fatiga y contribuye al equilibrio electrolítico, al metabolismo energético normal y al funcionamiento normal de sistema nervioso de y de los músculos.
-- Contenidos medios por dosis diaria de: 6 comprimidos (4.3 g): Colágeno 3.6 g, Magnesio 169 mg(VRN*) 9 comprimidos (6.5 g): Colágeno 5.4 g, Magnesio 254 mg(VRN*) *VRN: valores de referencia de nutrientes
-- Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales y a conservar y aumentar la masas muscular.
 - El colágeno es la proteína más abundante en el cuerpo humano siendo el constituyente esencial de los cartílagos, tendones, huesos y piel.
+- El magnesio contribuye a disminuir el cansancio y la fatiga y contribuye al equilibrio electrolítico, al metabolismo energético normal y al funcionamiento normal de sistema nervioso de y de los músculos.
+- Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales y a conservar y aumentar la masas muscular.
+- Contenidos medios por dosis diaria de: 6 comprimidos (4.3 g): Colágeno 3.6 g, Magnesio 169 mg(VRN*) 9 comprimidos (6.5 g): Colágeno 5.4 g, Magnesio 254 mg(VRN*) *VRN: valores de referencia de nutrientes
 - El magnesio contribuye a la sintesis proteica normal, al mantenimiento de los huesos en condiciones normales y al proceso de división celular.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
