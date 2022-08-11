@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gio de Giovanni - Skin Lights Iluminador en stick 03 Dark Gold'
-date: 2022-08-03 20:17:17
+date: 2022-08-11 19:50:42
 image: 'https://m.media-amazon.com/images/I/21jFrViooKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Utiliza este dúo para conseguir un maquillaje natural gracias a su agradable y fina textura
 - Aplícalo y mézclalo con las yemas de los dedos para que tus mejillas queden perfectamente esculpidas
-- Iluminador en barra con doble tono
 - Haz que tu piel tenga un destello instantáneo y radiante que durará todo el día
+- Iluminador en barra con doble tono
 
 [🛒 Comprar!!!]({{< param buyurl >}})
