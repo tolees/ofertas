@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Check out the other birds of prey figures from funko collect them all
-- This pop; comes with a 1 in 6 chance of receiving the rare special edition chase version
 - From birds of prey, roman sionis (white suit) w/chase, as a stylized pop vinyl from funko
 - Figure stands 9cm and comes in a window display box
 - Funko pop; is the 2018 toy of the year and peoples choice award winner
+- Check out the other birds of prey figures from funko collect them all
+- This pop; comes with a 1 in 6 chance of receiving the rare special edition chase version
 
 [🛒 Aquí!!!]({{< param buyurl >}})

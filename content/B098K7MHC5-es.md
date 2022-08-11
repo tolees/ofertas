@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Repele el agua
-- Bandolera pequeña con correa de hombro ajustable
-- 20,5 cm de alto x 14 cm de ancho x 2,5 cm de profundidad
-- 100% poliamida
 - 0,15 kg
+- Bandolera pequeña con correa de hombro ajustable
+- 100% poliamida
+- 20,5 cm de alto x 14 cm de ancho x 2,5 cm de profundidad
+- Repele el agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

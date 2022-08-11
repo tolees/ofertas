@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esenciales by The Drop
-- Las modelos miden 1,80 m y llevan una talla S y XXL.
-- Este cómodo jersey de manga acampanada con abertura en la espalda está confeccionado en punto acanalado y su aspecto es más chic que el de cualquier sudadera. El jersey perfecto para estar cómoda en casa y que podrás combinar con nuestro pantalón corto Faith.
 - Este jersey por la cadera mide 64 cm
+- Esenciales by The Drop
+- Este cómodo jersey de manga acampanada con abertura en la espalda está confeccionado en punto acanalado y su aspecto es más chic que el de cualquier sudadera. El jersey perfecto para estar cómoda en casa y que podrás combinar con nuestro pantalón corto Faith.
+- Las modelos miden 1,80 m y llevan una talla S y XXL.
 - Ajuste suelto: diseño cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

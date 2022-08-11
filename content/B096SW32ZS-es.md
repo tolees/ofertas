@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dos bolsillos de parche en el pecho con solapa abotonada
-- Pliegues en el canesú trasero
-- Etiqueta One and Only
-- Dobladillo festoneado
 - Franela 100% algodón de peso pesado con detalle de tafetán interior
+- Pliegues en el canesú trasero
+- Dobladillo festoneado
+- Dos bolsillos de parche en el pecho con solapa abotonada
+- Etiqueta One and Only
 
 [🛒 Visítala!!!]({{< param buyurl >}})

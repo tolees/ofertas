@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Muy estable con colchón de fibra de madera con un tamaño estándar de 60 x 120 cm
-- 2 ventanas con rejilla para una buena ventilación
 - Adecuada para viajes, con bolsa de transporte incluida
+- 2 ventanas con rejilla para una buena ventilación
+- Muy estable con colchón de fibra de madera con un tamaño estándar de 60 x 120 cm
 - Tiene un peso de 9.1 kg
 - Para niños desde los 0 meses hasta 3 años
 

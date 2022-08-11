@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color negro
-- Fabricado en material 100% cuero
-- Material exterior cuero
 - Adecuado para hombre
+- Material exterior cuero
 - Tamaño para 24 meses
+- Fabricado en material 100% cuero
+- Color negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

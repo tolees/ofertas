@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cien colores y skins para coleccionar y que tu pequeño compañero sea único.
 - Accesorios a la última: sombreros, gafas, lazos . Combinaciones infinitas de atuendos para vestirlos.
+- Cuida de 12 adorables criaturas como un panda volador o un unicornio arcoíris, con la ayuda del hada Aurea.
 - Bienvenido a Fantasy Friends, un mundo de magia y fantasía.
 - Mímalos, aliméntalos y juega con ellos en divertidos y entretenidos minijuegos.
-- Cien colores y skins para coleccionar y que tu pequeño compañero sea único.
-- Cuida de 12 adorables criaturas como un panda volador o un unicornio arcoíris, con la ayuda del hada Aurea.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

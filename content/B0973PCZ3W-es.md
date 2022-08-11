@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Mallas para practicar Tiempo libre y sportwear de niña
-- Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Ropa deportiva Gris de la marca Puma
 - Mallas ESS Logo Leggings G Light Gray He
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Ropa deportiva Gris de la marca Puma
+- Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

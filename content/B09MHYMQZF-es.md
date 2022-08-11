@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillo lateral para botella de agua
-- Tipo de correa: tirante para el hombro
-- Not water resistant
 - Tipo de bandolera
-- Capacidad: 22 litros
 - Bolsillo frontal con organizador
+- Not water resistant
 - Tamaño: 42 x 32 x 12 cm
+- Tipo de correa: tirante para el hombro
+- Bolsillo lateral para botella de agua
+- Capacidad: 22 litros
 
 [🛒 Comprar!!!]({{< param buyurl >}})

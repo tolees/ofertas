@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La broca fresadora plana SelfCut Speed perfora agujeros con rapidez extrema
+- Suministro: 6x Brocas Fresadoras Planas SelfCut Speed Ø 16/18/20/22/25/32 mm, 1x Prolongación 152 mm
 - En prueba de producto, esta broca realiza agujeros 10 veces más rápido que una broca fresadora plana convencional
 - Rápida eliminación de virutas y resultados rápidos gracias a la pala con forma diseñada específicamente
-- La broca fresadora plana SelfCut Speed perfora agujeros con rapidez extrema
 - La punta roscada autoperforante permite perforar a alta velocidad con poco esfuerzo
-- Suministro: 6x Brocas Fresadoras Planas SelfCut Speed Ø 16/18/20/22/25/32 mm, 1x Prolongación 152 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
