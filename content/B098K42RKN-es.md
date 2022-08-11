@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Wiser Wash
 - Pantalones vaqueros
+- Wiser Wash
 
 [🛒 Visítala!!!]({{< param buyurl >}})

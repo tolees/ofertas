@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este es un producto auténtico y original de Tommy Jeans
 - Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
+- Este es un producto auténtico y original de Tommy Jeans
 
 [🛒 Comprar!!!]({{< param buyurl >}})

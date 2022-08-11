@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con salmón
-- Fórmula sin azúcar
-- En una bolsa resaltable
 - Almohadas crujientes de cereales, cremosas rellenas
+- En una bolsa resaltable
+- Fórmula sin azúcar
+- Con salmón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
