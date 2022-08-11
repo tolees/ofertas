@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRUNNER - Vitakraft Salmón Crujiente para Gatos  Deliciosas y Crujientes - 60 g'
-date: 2022-08-04 10:01:31
+date: 2022-08-11 10:01:57
 image: 'https://m.media-amazon.com/images/I/41gGxAso6sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BRUNNER'
 buyurl: 'https://www.amazon.es/dp/B018N5GLAG/?tag=tolees-21'
 descuento: '35.57'
-average: '0.98'
+average: '0.973333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En una bolsa resaltable
-- Fórmula sin azúcar
-- Almohadas crujientes de cereales, cremosas rellenas
 - Con salmón
+- Fórmula sin azúcar
+- En una bolsa resaltable
+- Almohadas crujientes de cereales, cremosas rellenas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
