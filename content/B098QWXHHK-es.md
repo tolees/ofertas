@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Clarks Mira Sun  Sandalia  para Mujer  Negro  Black   41.5 EU'
-date: 2022-08-10 22:53:05
-image: 'https://m.media-amazon.com/images/I/31WSALGiIcL._SL500_._SL400_.jpg'
+title: 'Clarks Mira Tide  Sandalia  para Mujer  Negro  Black   41.5 EU'
+date: 2022-08-10 22:53:45
+image: 'https://m.media-amazon.com/images/I/31H0SH8KqTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B098QZNXYW-es Clarks Mira Sun Sandalia para Mujer Negro Black 41.5 EU'
-sku: 'B098QZNXYW-es'
+slug: 'B098QWXHHK-es Clarks Mira Tide Sandalia para Mujer Negro Black 41.5 EU'
+sku: 'B098QWXHHK-es'
 tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','clarks','🇪🇸', ]
-actualPrice: 26.45 EUR
+actualPrice: 29.97 EUR
 currency: EUR
-price: 26.45
+price: 29.97
 comparePrice: 59.95 EUR
-prodname: 'Clarks Mira Sun  Sandalia  para Mujer  Negro  Black   41.5 EU'
+prodname: 'Clarks Mira Tide  Sandalia  para Mujer  Negro  Black   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
-buyurl: 'https://www.amazon.es/dp/B098QZNXYW/?tag=tolees-21'
-descuento: '55.88'
-average: '25.47'
+buyurl: 'https://www.amazon.es/dp/B098QWXHHK/?tag=tolees-21'
+descuento: '50.01'
+average: '29.97'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cama suave
-- Allday
-- Piel suave
 - Holiday
+- Forro suave
+- Allday
 - Informal
+- Piel suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
