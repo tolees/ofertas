@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este estilo ha sido producido de forma sostenible
 - Blusa de nailon arrugado con capucha
+- Este estilo ha sido producido de forma sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
