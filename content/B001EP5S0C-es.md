@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Zapatos de verano de moda
-- Logotipo Superga en el lateral
 - Cómodo de llevar
+- Logotipo Superga en el lateral
 - Peso ligero
 - Suela de goma vulcanizada
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Authentic  Zapatillas Unisex Adulto  Negro  35 EU'
-date: 2022-08-10 13:23:34
+date: 2022-08-12 12:15:04
 image: 'https://m.media-amazon.com/images/I/51XzmBxxojL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B000UYCOJG-es Vans Authentic Zapatillas Unisex Adulto Negro 35 EU'
 sku: 'B000UYCOJG-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','vans','🇪🇸', ]
-actualPrice: 33.18 EUR
+actualPrice: 32.96 EUR
 currency: EUR
-price: 33.18
+price: 32.96
 comparePrice: 65.0 EUR
 prodname: 'Vans Authentic  Zapatillas Unisex Adulto  Negro  35 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B000UYCOJG/?tag=tolees-21'
-descuento: '48.95'
-average: '36.3885714285714'
+descuento: '49.29'
+average: '35.96'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: goma
-- Cierre: cordones
-- Material exterior: lona
 - Adecuado para: unisex (adultos)
+- Material de la suela: goma
 - La estación ideal: para todas las estaciones
+- Material exterior: lona
+- Cierre: cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

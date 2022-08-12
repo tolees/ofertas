@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cabezal flexible: No
 - Nr. de accesorios: 2
 - Autonomía [min]: 40 MIN
 - Nr.posiciones de corte
+- Cabezal flexible: No
 - Recargable: 16 H
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
