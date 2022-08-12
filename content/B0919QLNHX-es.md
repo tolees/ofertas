@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suela robusta
 - Ajuste normal
 - Material duradero
-- Suela robusta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

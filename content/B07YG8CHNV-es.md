@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño de manga corta.
-- Gráfico Reebok.
-- Corte ajustado.
 - Cuello redondo.
+- Corte ajustado.
+- Gráfico Reebok.
+- Diseño de manga corta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
