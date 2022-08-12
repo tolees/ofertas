@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Superga 2750-plus COTU  Zapatillas de Gimnasia Unisex Adulto  Blanco  White 901   39.5 EU'
-date: 2022-07-28 06:12:21
-image: 'https://m.media-amazon.com/images/I/418OJUSnJfL._SL500_._SL400_.jpg'
+title: 'Superga 2750-Plus COTU  Zapatillas Unisex Adulto  White  39.5 EU'
+date: 2022-08-12 06:19:20
+image: 'https://m.media-amazon.com/images/I/312jPOmuRSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B077PVJZD2-es Superga 2750-plus COTU Zapatillas de Gimnasia Unisex...'
+slug: 'B077PVJZD2-es Superga 2750-Plus COTU Zapatillas Unisex Adulto White 39.5 EU'
 sku: 'B077PVJZD2-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','superga','🇪🇸', ]
-actualPrice: 32.08 EUR
+actualPrice: 24.0 EUR
 currency: EUR
-price: 32.08
+price: 24.0
 comparePrice: 65.0 EUR
-prodname: 'Superga 2750-plus COTU  Zapatillas de Gimnasia Unisex Adulto  Blanco  White 901   39.5 EU'
+prodname: 'Superga 2750-Plus COTU  Zapatillas Unisex Adulto  White  39.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B077PVJZD2/?tag=tolees-21'
-descuento: '50.65'
-average: '32.08'
+descuento: '63.08'
+average: '28.04'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: Con cordones
 - Solé material: Caucho
+- Cierre: Con cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

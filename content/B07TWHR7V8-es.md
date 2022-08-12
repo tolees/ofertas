@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Con cordones
 - Solé material: Caucho
+- Cierre: Con cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

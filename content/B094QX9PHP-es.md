@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon Alphacross 3  Zapatillas de Running Hombre  Black/White  44 EU'
-date: 2022-08-11 06:33:40
+date: 2022-08-12 07:04:14
 image: 'https://m.media-amazon.com/images/I/31rQe4TkGLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SALOMON'
 buyurl: 'https://www.amazon.es/dp/B094QX9PHP/?tag=tolees-21'
 descuento: '50.06'
-average: '58.45'
+average: '55.75'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
