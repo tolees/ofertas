@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hasta 10 usuarios simultáneos y 5 horas de duración de batería
 - Botón WPS de sincronización rápida de dispositivos
 - Puedes usarlo mediante SIM de datos de cualquier operador 3G / 4G. Compatible con mini SIM o micro SIM mediante adaptador (no suministrado)
+- Hasta 10 usuarios simultáneos y 5 horas de duración de batería
 - Incorpora el estándar WiFi N de hasta 150 Mbps
 - 4G/LTE con velocidad máxima de descarga de 150 Mbps y 50 Mbps de subida; batería de 2000 mAh
 
