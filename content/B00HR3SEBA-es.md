@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Importante efecto calmante y suavizante
 - Especialmente indicado para labios secos y dañados
+- Importante efecto calmante y suavizante
 - Ofrece hidratación y lípidos gracias a sus agentes activos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

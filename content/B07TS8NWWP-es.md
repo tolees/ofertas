@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- From mortal kombat, liu kang, as a stylized pop vinyl from funko
 - Check out the other mortal kombat figures from funko collect them all
-- Figure stands 9cm and comes in a window display box
 - Funko pop is the 2018 toy of the year and peoples choice award winner
+- Figure stands 9cm and comes in a window display box
+- From mortal kombat, liu kang, as a stylized pop vinyl from funko
 
 [🛒 Aquí!!!]({{< param buyurl >}})
