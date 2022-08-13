@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sellante Adhesivo Elástico de Polímero Especial Piscinas
-- Resiste el agua clorada y salada, disolventes alifáticos, ácidos inorgánicos diluidos y álcalis, aceites y grasas
-- El sellador/adhesivo se puede pintar,el momento más idóneo para el pintado es inmediatamente después de la formación de piel del mismo, aproximadamente 15 minutos después de haber sido aplicado.
-- Sellador elástico de polímero de nueva generación MS: Cura por humedad. ESPECIAL PISCINAS
 - Especial para piscinas de obra, de poliéster y portátiles Pegado y sellado de gresites, azulejos, skimmers, fisuras y todo tipo de juntas y uniones
+- Sellador elástico de polímero de nueva generación MS: Cura por humedad. ESPECIAL PISCINAS
+- Sellante Adhesivo Elástico de Polímero Especial Piscinas
+- El sellador/adhesivo se puede pintar,el momento más idóneo para el pintado es inmediatamente después de la formación de piel del mismo, aproximadamente 15 minutos después de haber sido aplicado.
+- Resiste el agua clorada y salada, disolventes alifáticos, ácidos inorgánicos diluidos y álcalis, aceites y grasas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

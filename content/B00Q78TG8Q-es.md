@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PARA USO EN INTERIORES: Limpiar previamente la zona de aplicación sin lejía ni amoniaco. Aplicar solo en superficies no textiles.
 - BENEFICIOS: Su aplicación diaria disminuye y reduce los hábitos de orinar adquiridos en estos lugares por perros y gatos.
+- PARA USO EN INTERIORES: Limpiar previamente la zona de aplicación sin lejía ni amoniaco. Aplicar solo en superficies no textiles.
 - PARA USO EN EXTERIORES: Limpiar previamente la zona de aplicación sin lejía ni amoniaco y aplicar todos los días hasta conseguir el efecto deseado.
 - NO usar en plantas.
 - PRODUCTO EDUCADOR REPELENTE: El producto educador repelente anti-orines se utiliza para perros y gatos. Evita los orines no deseados en escaparates, fachadas, esquinas, ruedas de coches etc.

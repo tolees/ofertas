@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'edc by Esprit 991cc2i302  Negro  M  Pack de 2 '
-date: 2022-08-11 15:56:28
+date: 2022-08-13 12:35:32
 image: 'https://m.media-amazon.com/images/I/310g4eeovNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'edc by Esprit'
 buyurl: 'https://www.amazon.es/dp/B09DK2HQ8D/?tag=tolees-21'
 descuento: '62.52'
-average: '17.49'
+average: '16.6566666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

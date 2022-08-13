@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'edc by Esprit 991cc2i302  039/Medium Grey 5  XXL  Pack de 2 '
-date: 2022-08-11 15:56:09
+date: 2022-08-13 12:34:15
 image: 'https://m.media-amazon.com/images/I/41UzowcFSyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

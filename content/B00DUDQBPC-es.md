@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lamela 06002 - Libreta cuadriculada  30 hojas  2.5 x 2.5 mm'
-date: 2022-08-11 02:55:43
+date: 2022-08-13 12:30:30
 image: 'https://m.media-amazon.com/images/I/51-32r-UHcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00DUDQBPC-es Lamela 06002 - Libreta cuadriculada 30 hojas 2.5 x 2.5 mm'
 sku: 'B00DUDQBPC-es'
 tags: [ 'Blocs de recambio','Cuadernos, blocs de notas y diarios','Oficina y papelería','Productos de papel para oficina','lamela','🇪🇸', ]
-actualPrice: 5.96 EUR
+actualPrice: 5.95 EUR
 currency: EUR
-price: 5.96
+price: 5.95
 comparePrice: 10.95 EUR
 prodname: 'Lamela 06002 - Libreta cuadriculada  30 hojas  2.5 x 2.5 mm'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Lamela'
 buyurl: 'https://www.amazon.es/dp/B00DUDQBPC/?tag=tolees-21'
-descuento: '45.57'
-average: '6.50870370370372'
+descuento: '45.66'
+average: '6.49854545454547'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo - 06002
 - Libreta, 30 hojas, cuadrícula 2x2
 - Marca - Lamela
+- Modelo - 06002
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
