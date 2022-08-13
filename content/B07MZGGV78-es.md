@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ACTIVISION - Crash Team Racing Nitro Fueled'
-date: 2022-08-12 16:55:53
+date: 2022-08-13 21:10:29
 image: 'https://m.media-amazon.com/images/I/51SyG3SR7uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ACTIVISION'
 buyurl: 'https://www.amazon.es/dp/B07MZGGV78/?tag=tolees-21'
 descuento: '37.51'
-average: '29.2188679245284'
+average: '29.1405555555557'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
