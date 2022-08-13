@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 Sw Top Sudadera  Hombre  Rojo  Rojo/Blanco   XL'
-date: 2022-08-11 02:57:09
+date: 2022-08-12 22:34:00
 image: 'https://m.media-amazon.com/images/I/41qGBtmtUOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HPJJ69/?tag=tolees-21'
 descuento: '35.05'
-average: '27.8141803278684'
+average: '27.7992682926825'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mangas con ribetes en contraste
-- Puños y dobladillo de canalé
 - Presenta ajuste regular
+- Mangas con ribetes en contraste
 - Cuenta con un pequeño logotipo de Adidas bordado en el pecho
+- Puños y dobladillo de canalé
 
 [🛒 Comprar!!!]({{< param buyurl >}})
