@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FLOWER - Insecticida Hormigas Jeringa Flower 10 gr  14.5x2.5x23 cm  20529'
-date: 2022-08-07 13:10:49
+date: 2022-08-13 09:01:18
 image: 'https://m.media-amazon.com/images/I/51qqScesyML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 10gr
-- Fuente de alimentación: Con Alimentación de Batería
 - Práctico, eficaz, limpio y sin olor
 - Innovador sistema con jeringuilla
 - Definitivo: mata a la reina extinguiendo el hormiguero
+- Fuente de alimentación: Con Alimentación de Batería
+- 10gr
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
