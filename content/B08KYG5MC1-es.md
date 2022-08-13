@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjiclark Jjoriginal Jos 278 Noos Jeans  Azul Denim  33W x 36L para Hombre'
-date: 2022-08-10 07:12:16
+date: 2022-08-13 17:04:21
 image: 'https://m.media-amazon.com/images/I/412lyFbzWfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
