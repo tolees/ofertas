@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Bolsillo tipo canguro en la parte delantera
-- Puños y dobladillo con doble vuelta
-- Algodón orgánico/Tejido de rizo de poliéster de 320 g/m²
-- Items delivered: 1x Helly Hansen Junior - Jr HH Logo Hoodie 2.0 Apparel Lilatech 176/16
 - Capucha colgante
+- Algodón orgánico/Tejido de rizo de poliéster de 320 g/m²
+- Puños y dobladillo con doble vuelta
+- Items delivered: 1x Helly Hansen Junior - Jr HH Logo Hoodie 2.0 Apparel Lilatech 176/16
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

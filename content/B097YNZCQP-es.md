@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- POP! Rides (Deluxe) de vinilo de Funko
-- La figura mide 16 cm y viene en una caja de exhibición de ventana
 - Echa un vistazo a las otras figuras de Funko, Colecciónalas todas!
 - Funko POP! es el juguete del año 2018 Peoples Choice
+- POP! Rides (Deluxe) de vinilo de Funko
+- La figura mide 16 cm y viene en una caja de exhibición de ventana
 
 [🛒 Visítala!!!]({{< param buyurl >}})

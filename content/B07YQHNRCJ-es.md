@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Importado
 - Cordones de Zapatos
 - Suave de Llevar
-- Importado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

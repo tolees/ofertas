@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto practico
-- Producto de alta calidad
 - Fácil de usar
-- De la marca: MAD Beauty
+- Producto de alta calidad
+- Producto practico
 - Mascarilla facial Star Wars Yoda
+- De la marca: MAD Beauty
 
 [🛒 Comprar!!!]({{< param buyurl >}})

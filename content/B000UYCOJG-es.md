@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: cordones
-- Material exterior: lona
-- Material de la suela: goma
-- La estación ideal: para todas las estaciones
 - Adecuado para: unisex (adultos)
+- La estación ideal: para todas las estaciones
+- Cierre: cordones
+- Material de la suela: goma
+- Material exterior: lona
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

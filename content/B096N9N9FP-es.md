@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordones
-- Tacto suave
 - Parte superior de cuero y textil
+- Tacto suave
+- Cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

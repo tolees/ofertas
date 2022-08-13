@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La mejor oferta de productos para el cuidado de tu cara, cablleo, uñas y cuerpo
-- Agua fresca vetiver edt vapo 120 ml
 - Disfruta de una amplia gama de productos de maquillje, perfumería e higiene, tanto para hombres como mujeres.
+- Agua fresca vetiver edt vapo 120 ml
+- La mejor oferta de productos para el cuidado de tu cara, cablleo, uñas y cuerpo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

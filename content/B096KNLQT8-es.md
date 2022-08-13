@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ajuste de arco
+- Cómoda sandalia
 - Lavable a máquina
 - Doble densidad
 - Antiolor
-- Cómoda sandalia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

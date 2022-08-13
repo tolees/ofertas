@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto nuevo y original. Somos un vendedor autorizado de Vans.
 - Vans Zapatillas de lona Doheny negras
 - Consulta la descripción del producto para más información.
-- Producto nuevo y original. Somos un vendedor autorizado de Vans.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
