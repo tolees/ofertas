@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro: tela
 - Material de la suela: goma
+- Forro: tela
 - Material exterior: tela
 
 [🛒 Aquí!!!]({{< param buyurl >}})

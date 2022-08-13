@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimensiones: 40 x 29 x 12 cm
-- Acolchado: panel trasero acolchado
 - Tejido: poliéster 500D / 150D
 - Compartimentos/cierre: 1 compartimento principal con cremallera
+- Dimensiones: 40 x 29 x 12 cm
+- Acolchado: panel trasero acolchado
 - Correas: correas acolchadas ajustables
 
 [🛒 Visítala!!!]({{< param buyurl >}})
