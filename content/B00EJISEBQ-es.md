@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Invicta Specialty 14878 Reloj para Hombre Cuarzo - 45mm'
-date: 2022-07-30 14:40:58
+date: 2022-08-14 01:23:16
 image: 'https://m.media-amazon.com/images/I/51IqwerdihL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Relojes','Relojes de pulsera para hombres','Relojes para hombre','invic
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0
-comparePrice: 161.44 EUR
+comparePrice: 115.0 EUR
 prodname: 'Invicta Specialty 14878 Reloj para Hombre Cuarzo - 45mm'
 country: 'es'
 flag: '🇪🇸'
 brand: 'INVICTA'
 buyurl: 'https://www.amazon.es/dp/B00EJISEBQ/?tag=tolees-21'
-descuento: '59.74'
-average: '75.8262499999999'
+descuento: '43.48'
+average: '75.4981818181817'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 2 años de garantía Invicta
-- El Invicta 14878 tiene una caja de acero inoxidable de 45 millimetros con una esfera negro
 - Este modelo es parte de la colección Invicta Specialty
+- El Invicta 14878 tiene una caja de acero inoxidable de 45 millimetros con una esfera negro
 - Esta modelo funciona con un movimiento de Cuarzo preciso
 - Resistencia a la presión de aqua de 5 bares
 
