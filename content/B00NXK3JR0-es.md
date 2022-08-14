@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Polaroid Cube - Colgante'
-date: 2022-08-05 09:53:35
+date: 2022-08-14 17:10:45
 image: 'https://m.media-amazon.com/images/I/31FKG5hXg4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
