@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Z-man Games España- Mesozooic - Español  Color  ZM003ES '
-date: 2022-08-12 12:10:43
+date: 2022-08-14 08:33:52
 image: 'https://m.media-amazon.com/images/I/51bEQUq2F+S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Z-man Games España'
 buyurl: 'https://www.amazon.es/dp/B07HQY4NMB/?tag=tolees-21'
 descuento: '39.97'
-average: '15.356'
+average: '15.1961904761905'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
