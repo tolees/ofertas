@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjiclark Jjoriginal Jos 278 Noos Jeans  Azul Denim  34 para Hombre'
-date: 2022-08-10 06:05:19
+date: 2022-08-14 15:17:01
 image: 'https://m.media-amazon.com/images/I/412lyFbzWfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08JM6YVHW/?tag=tolees-21'
 descuento: '65.72'
-average: '25.99'
+average: '25.3233333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cintura media
 - Ajuste: normal
 - Estándar
-- Cintura media
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

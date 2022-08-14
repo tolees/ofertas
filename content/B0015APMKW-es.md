@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Schwarzkopf Professional Igora Royal Color & Care Developer 3% 10 Vol Tratamiento Capilar - 1000 ml'
-date: 2022-08-13 13:31:23
+date: 2022-08-14 15:03:33
 image: 'https://m.media-amazon.com/images/I/31AmmJmyC9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Schwarzkopf'
 buyurl: 'https://www.amazon.es/dp/B0015APMKW/?tag=tolees-21'
 descuento: '50.00'
-average: '7.245'
+average: '7.83'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para el cabello: normal
-- Tipo de piel: normal
 - Marca: Schwarzkopf
+- Para el cabello: normal
 - Tipo de producto: tratamiento capilar
+- Tipo de piel: normal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
