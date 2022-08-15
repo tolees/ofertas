@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Rojo/Blanco  Rojo   M'
-date: 2022-08-14 00:21:21
+date: 2022-08-15 05:29:42
 image: 'https://m.media-amazon.com/images/I/41rG8KJAvBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B016QAKAXE/?tag=tolees-21'
 descuento: '40.20'
-average: '10.8417647058824'
+average: '10.7377777777778'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
