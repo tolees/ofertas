@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Logos serigrafiados en laterales
-- Cintura elástica ajustable con cordón
 - Pantalón pitillo con bolsillos y aberturas laterales en el bajo con cremalleras
 - Ofrece comodidad y libertad de movimiento
+- Cintura elástica ajustable con cordón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
