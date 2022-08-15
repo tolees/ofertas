@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers DYNAMIGHT 2.0 FULL PACE  Zapatillas Deportivas Hombre  Gris  gry   42 EU'
-date: 2022-08-13 04:08:11
+date: 2022-08-15 12:00:14
 image: 'https://m.media-amazon.com/images/I/41W-DMnNjwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B08QCCDC5X/?tag=tolees-21'
 descuento: '40.03'
-average: '39.36'
+average: '39.2916666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
