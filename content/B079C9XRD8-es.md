@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjebasic Polo SS Noos  Black  XS para Hombre'
-date: 2022-08-04 06:37:13
+date: 2022-08-16 08:04:36
 image: 'https://m.media-amazon.com/images/I/21AdLt61nhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B079C9XRD8/?tag=tolees-21'
 descuento: '50.03'
-average: '9.86505952380971'
+average: '9.85988165680492'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
