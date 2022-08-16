@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Jyn ERSO Figura de Vinilo  colección de Pop  seria Star Wars Rogue One  Multicolor  10449 '
-date: 2022-08-11 13:46:18
+date: 2022-08-15 22:06:06
 image: 'https://m.media-amazon.com/images/I/41P7RIMv5PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B01KJKZ6GS/?tag=tolees-21'
 descuento: '59.97'
-average: '8.63333333333333'
+average: '7.975'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Jyn Erso de Rogue One en una figura POP de Funko
 - Colecciona todos los POP de Rogue One
 - Miden 9.5 cm de alto, perfectos para todos los fans de Rogue One
-- Jyn Erso de Rogue One en una figura POP de Funko
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
