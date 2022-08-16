@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Polaroid Cube - Colgante'
-date: 2022-08-14 17:10:45
+date: 2022-08-16 20:26:39
 image: 'https://m.media-amazon.com/images/I/31FKG5hXg4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funda de silicona
-- Cordón 90 cm y gancho de metal
 - Funda para llevar la cámara a la moda, que permite colgarla del cuello o en un cinturón, una mochila, un llavero
+- Cordón 90 cm y gancho de metal
+- Funda de silicona
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Havaianas Origine III  Alpargata Unisex Adulto  Negro  Black   36 EU'
-date: 2022-08-12 11:39:43
+title: 'Havaianas Origine III  Alpargata Unisex Adulto  Negro  Black   34 EU'
+date: 2022-08-16 21:00:15
 image: 'https://m.media-amazon.com/images/I/41KYQyVZPXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0
 comparePrice: 31.9 EUR
-prodname: 'Havaianas Origine III  Alpargata Unisex Adulto  Negro  Black   36 EU'
+prodname: 'Havaianas Origine III  Alpargata Unisex Adulto  Negro  Black   34 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B01L41C1YQ/?tag=tolees-21'
 descuento: '52.98'
-average: '21.485'
+average: '20.188'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Außensohle ist sehr hitzebeständig
-- Der Origine III Espadrilles für Damen und Herren von Havaianas ist der ideale Stoffschuh für den Sommer.
-- Hergestellt in Brasilien
-- Brasilianische Größe auf dem Karton hervorgehoben
-- Anlass: Casual
+- Hav origine iii white (4137014)
+- Alpargatas acampada y senderismo unisex adulto
+- Calzado havaianas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
