@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capacidad de 1.5 litros
-- Jarra de cristal (extraíble)
 - Práctica, compacta y robusta
-- Opción de hielo granizado
 - Potencia de 1000 W
+- Jarra de cristal (extraíble)
+- Opción de hielo granizado
+- Capacidad de 1.5 litros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
