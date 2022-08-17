@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapatilla de deporte con aire de fitness clásico
-- Cordones de los zapatos
 - Parte superior de poliéster reciclado con revestimiento de PU
+- Cordones de los zapatos
+- Zapatilla de deporte con aire de fitness clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

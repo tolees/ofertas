@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior con superposiciones textiles
 - Ajuste regular
+- Parte superior con superposiciones textiles
 - Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
