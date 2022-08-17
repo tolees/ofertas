@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Material de calidad
 - Material: 80% algodón y 20% poliéster
 - Serigrafía One and Only
 - Tejido fleece cepillado de 240 g / m2
-- Material de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

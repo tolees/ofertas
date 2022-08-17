@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'COSMUSIS - Auricular Bluetooth  Aptx Auricular inalámbrico único CVC8.0 Cancelación de Ruido  16Hrs Tiempo de conversación 160Hrs Auricular Manos Libres en Espera para Conducir/Negocios/Oficina'
-date: 2022-08-15 12:35:08
+date: 2022-08-17 08:02:12
 image: 'https://m.media-amazon.com/images/I/41HG2uI8SWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
