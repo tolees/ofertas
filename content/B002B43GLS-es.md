@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LiteOn iHAS324-17 - Grabadora de DVD interna  24x  SATA  DVD-RW   negro'
-date: 2022-08-16 07:37:26
+date: 2022-08-17 14:55:23
 image: 'https://m.media-amazon.com/images/I/51hp+ki6qPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LiteOn'
 buyurl: 'https://www.amazon.es/dp/B002B43GLS/?tag=tolees-21'
 descuento: '43.79'
-average: '21.4745283018868'
+average: '21.4655555555556'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
