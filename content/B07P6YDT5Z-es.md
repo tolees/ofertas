@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema nespresso de 19 bares de presión y thermoblock para un café caliente desde la primera taza
-- Tamaño compacto de diseño elegante, innovador y práctico
-- Función automática con botones iluminados para una fácil programación: café corto o largo (2 memorias personalizables)
-- La cápsula desechada que se expulsa directamente con solo levantar la palanca ergonómica
 - Autoapagado: la función de ahorro automático de energía apaga la cafetera tras 9 minutos de inactividad consumiendo menos energía
+- La cápsula desechada que se expulsa directamente con solo levantar la palanca ergonómica
+- Función automática con botones iluminados para una fácil programación: café corto o largo (2 memorias personalizables)
+- Tamaño compacto de diseño elegante, innovador y práctico
+- Sistema nespresso de 19 bares de presión y thermoblock para un café caliente desde la primera taza
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

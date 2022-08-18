@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intex 68609  Hinchador Eléctrico 220 240 V Con Boquilla De Aguja Elektrische Luftpumpe Fã R In Und Outdoor 230v 12v Mehrfarbig Negro  12.5 X 25.5 X 15.5 Cm'
-date: 2022-08-05 12:46:08
+date: 2022-08-18 18:47:24
 image: 'https://m.media-amazon.com/images/I/31ElSdhF2dS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hinchador eléctrico 220-240 V Intex, capacidad de hinchado 400 litros/minuto con manguera de acordeón
-- Medidas hinchador: 2 x 17 cm; medidas manguera acordeón 105 cm; medidas cable luz: 146 cm; medidas cable encendedor: 250 cm
 - Incluye protector térmico, interruptor de encendido/apagado y asa ergonómica para facilitar el transporte
+- Medidas hinchador: 2 x 17 cm; medidas manguera acordeón 105 cm; medidas cable luz: 146 cm; medidas cable encendedor: 250 cm
 - Con 3 boquillas adaptables a cualquier tipo de válvula, funciona con enchufe 220-240 V o con cargador de coche (incluidos)
 - El hinchador que necesitas para inflar y desinflar artículos de gran tamaño y balones deportivos de hasta 12 Psi en pocos minutos
+- Hinchador eléctrico 220-240 V Intex, capacidad de hinchado 400 litros/minuto con manguera de acordeón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

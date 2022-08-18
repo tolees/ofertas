@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento: Sintético
-- Material de la suela: Caucho
-- Anchura del zapato: Normal
-- Cierre: Cordones
 - Material exterior: Cuero
-- Composición: Cuero
-- Tipo de tacón: Plano
+- Cierre: Cordones
 - Altura del tacón: 1 centímetros
+- Material de la suela: Caucho
+- Tipo de tacón: Plano
+- Composición: Cuero
+- Revestimiento: Sintético
+- Anchura del zapato: Normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

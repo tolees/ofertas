@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mochila de 44 cm x 32 cm x 15 cm fabricada en Poliéster
+- Óptimo para llevar libros, libretas, carpetas y carpesanos de tamaño DIN A4; además puedes poner tus datos personales en un espacio específico que incorpora en el bolsillo frontal
 - Tirantes anchos, ergonómicos y acolchados que se adaptan adecuadamente a la espalda y posibilidad de incorporarle un carro opcional gracias a su banda trasera
 - Compartimento principal con un bolsillo acolchado específico para llevar un portátil de 15.6 pulgadas; 35.5 cm alto x 26 cm ancho x 3 cm profundo, y dos bolsillos; además también incorpora un bolsillo frontal para los accesorios
+- Mochila de 44 cm x 32 cm x 15 cm fabricada en Poliéster
 - De Joumma Bags
-- Óptimo para llevar libros, libretas, carpetas y carpesanos de tamaño DIN A4; además puedes poner tus datos personales en un espacio específico que incorpora en el bolsillo frontal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

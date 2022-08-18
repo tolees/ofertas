@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEDVANCE Bombilla LED inteligente de con ZigBee  E27  regulable  blanco cálido  2400K   forma de Edison dorada  filamento transparente  controlable con sistemas como Alexa  Google o Hue  paquete de 1'
-date: 2022-08-10 15:30:05
+date: 2022-08-18 18:42:20
 image: 'https://m.media-amazon.com/images/I/41OB9aCJzCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEDVANCE'
 buyurl: 'https://www.amazon.es/dp/B09F3DQVZY/?tag=tolees-21'
 descuento: '43.54'
-average: '15.1566666666666'
+average: '14.9892307692307'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Regulable
-- Protocolo de red: ZigBee
 - Lámpara Classic Edison con función smart lighting
+- Protocolo de red: ZigBee
 - Vida útil: hasta 15.000 h
 - Regulable a través de sistemas de smart home compatibles (gateway y app) o SMART+ Switch
 
