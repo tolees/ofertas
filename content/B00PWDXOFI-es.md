@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Woodburn II Chukka Waterproof Omni-Heat Botas de Senderismo para Hombre  Negro  Black  Goldenrod   42 EU'
-date: 2022-08-17 08:28:46
+date: 2022-08-18 15:56:13
 image: 'https://m.media-amazon.com/images/I/31h5gk7hQkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B00PWDXOFI/?tag=tolees-21'
 descuento: '54.21'
-average: '69.1014285714286'
+average: '68.6134482758621'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Cordones
-- Material exterior: Cuero
-- Tipo de tacón: Plano
-- Composición: Cuero
-- Material de la suela: Caucho
-- Revestimiento: Sintético
-- Anchura del zapato: Normal
 - Altura del tacón: 1 centímetros
+- Cierre: Cordones
+- Material de la suela: Caucho
+- Composición: Cuero
+- Tipo de tacón: Plano
+- Anchura del zapato: Normal
+- Material exterior: Cuero
+- Revestimiento: Sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Guess VIKKY LARGE TOTE'
-date: 2022-08-14 08:17:22
+date: 2022-08-18 17:03:55
 image: 'https://m.media-amazon.com/images/I/31Tr-XNRf-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Guess'
 buyurl: 'https://www.amazon.es/dp/B09NW3SXGP/?tag=tolees-21'
 descuento: '41.38'
-average: '87.18'
+average: '86.4533333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

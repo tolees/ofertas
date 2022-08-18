@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Soulrunner CB Wmn  Sneaker Mujer  Black-Purple Rose  38 EU'
-date: 2022-08-16 17:46:46
+date: 2022-08-18 16:40:06
 image: 'https://m.media-amazon.com/images/I/31XHOpasFML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096XRCZL9-es FILA Soulrunner CB Wmn Sneaker Mujer Black-Purple Rose 38 EU'
 sku: 'B096XRCZL9-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','fila','🇪🇸', ]
-actualPrice: 34.5 EUR
+actualPrice: 34.36 EUR
 currency: EUR
-price: 34.5
+price: 34.36
 comparePrice: 60.0 EUR
 prodname: 'FILA Soulrunner CB Wmn  Sneaker Mujer  Black-Purple Rose  38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B096XRCZL9/?tag=tolees-21'
-descuento: '42.50'
-average: '34.5'
+descuento: '42.73'
+average: '34.43'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
