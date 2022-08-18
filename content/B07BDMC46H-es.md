@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material de calidad
+- Temática histórica
 - Ofrece tiempo de diversión y entretenimiento
 - Juego de mesa
-- Temática histórica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
