@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich PADX Padel  Zapatillas deportivas para Unisex adulto  Negro 22  38 EU'
-date: 2022-08-08 10:37:37
+date: 2022-08-18 10:58:53
 image: 'https://m.media-amazon.com/images/I/41AoKY3JDFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B09GKNM749/?tag=tolees-21'
 descuento: '40.01'
-average: '48.5'
+average: '49.2125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
