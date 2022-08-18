@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bissell 2602N Icon-Aspiradora sin Cable Potente  0.4 litros  81 Decibelios  3 Velocidades + Bissell Cepillo motorizado Turbo'
-date: 2022-08-17 16:52:00
+date: 2022-08-18 19:11:26
 image: 'https://m.media-amazon.com/images/I/31PYgqFqUzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

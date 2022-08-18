@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuadro aluminio
 - Guardabarros y pata lateral
-- Sillín y puños ergonomicos
-- Parrilla
 - Cesta con soporte al cuadro
+- Sillín y puños ergonomicos
+- Cuadro aluminio
+- Parrilla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
