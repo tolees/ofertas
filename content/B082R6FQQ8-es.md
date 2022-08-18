@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de cierre: Cordones
 - Sole material: caucho
 - Closure: cordones
-- Outer material: sintético
 - Lining: synthetic
+- Tipo de cierre: Cordones
+- Outer material: sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

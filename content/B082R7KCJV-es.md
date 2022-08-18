@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Outer material: sintético
-- Closure: cordones
 - Lining: synthetic
 - Sole material: caucho
+- Closure: cordones
+- Outer material: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

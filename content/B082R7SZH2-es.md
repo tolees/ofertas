@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nombre de departamento: bebé-niños
-- Suave de llevar
 - Cordones de zapatos
 - Importado
+- Suave de llevar
 - Estilo más adecuado para: unisex
+- Nombre de departamento: bebé-niños
 
 [🛒 Visítala!!!]({{< param buyurl >}})

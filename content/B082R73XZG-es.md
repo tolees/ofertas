@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Nombre de departamento: bebé-niños
+- Importado
 - Suave de llevar
 - Cordones de zapatos
-- Importado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

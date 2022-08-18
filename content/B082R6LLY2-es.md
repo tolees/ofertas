@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suave de Llevar
-- Cordones de Zapatos
 - Nombre de departamento: Bebé-Niños
+- Cordones de Zapatos
 - Estilo más adecuado para: male
 - Importado
+- Suave de Llevar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

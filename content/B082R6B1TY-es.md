@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suave de Llevar
+- Importado
 - Diseño funcional
 - Cordones de Zapatos
-- Importado
+- Suave de Llevar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
