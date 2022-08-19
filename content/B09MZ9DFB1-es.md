@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Springfield Polo Pique  Polo  Hombre  Blanco  S'
-date: 2022-08-18 07:29:28
+date: 2022-08-19 08:39:54
 image: 'https://m.media-amazon.com/images/I/31y6He32sgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polo
-- Pique
 - Manga corta
+- Pique
+- Polo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
