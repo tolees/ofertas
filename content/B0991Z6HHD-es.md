@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto está fabricado con algodón orgánico; el algodón orgánico es grueso sin el uso de productos químicos dañinos; la granja de algodón orgánico protege los recursos y los granjeros naturales. Este producto está fabricado con poliéster reciclado; el poliéster reciclado ahorra recursos naturales y reduce la cantidad de tinta
 - JACORGANIC TRUNKS 3 PACK
+- Este producto está fabricado con algodón orgánico; el algodón orgánico es grueso sin el uso de productos químicos dañinos; la granja de algodón orgánico protege los recursos y los granjeros naturales. Este producto está fabricado con poliéster reciclado; el poliéster reciclado ahorra recursos naturales y reduce la cantidad de tinta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

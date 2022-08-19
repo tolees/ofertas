@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjecorp Logo tee SS Crew Neck Noos T-Shirt  Navy Blazer  L para Hombre'
-date: 2022-08-16 11:26:42
+date: 2022-08-19 14:14:20
 image: 'https://m.media-amazon.com/images/I/41K4gePoCZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B079BNC8DV/?tag=tolees-21'
 descuento: '38.49'
-average: '8.78773291925464'
+average: '8.78526315789472'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatibilidad: Corte entallado.
 - Escote: Cuello redondo.
-- Tipo de manga: Manga corta.
+- Compatibilidad: Corte entallado.
 - Jack & Jones - Camiseta de manga corta para hombre.
+- Tipo de manga: Manga corta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

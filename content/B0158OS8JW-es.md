@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goliath - La Alfombra mágica de Aladino  30773 '
-date: 2022-08-18 12:06:46
+date: 2022-08-19 14:12:22
 image: 'https://m.media-amazon.com/images/I/61UwJarAUpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juego divertido para 2 jugadores
-- Edad recomendada: desde 4 años
 - Fomenta el juego en grupo
+- Juego divertido para 2 jugadores
 - Juego de habilidad
+- Edad recomendada: desde 4 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
