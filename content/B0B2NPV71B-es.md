@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Computer Gear - Auriculares Inalámbricos  Auriculares Bluetooth HiFi Estéreo  Cascos inalambricos Bluetooth IPX5 Impermeables In-Ear Cascos Bluetooth Inalámbricos con Microfono Dual y Caja de Carga'
-date: 2022-08-17 11:01:52
+date: 2022-08-18 22:24:58
 image: 'https://m.media-amazon.com/images/I/31cXtG9StcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B2NPV71B-es Computer Gear - Auriculares Inalámbricos Auriculares...'
 sku: 'B0B2NPV71B-es'
 tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','computer gear','🇪🇸', ]
-actualPrice: 9.99 EUR
+actualPrice: 19.99 EUR
 currency: EUR
-price: 9.99
+price: 19.99
 comparePrice: 49.95 EUR
 prodname: 'Computer Gear - Auriculares Inalámbricos  Auriculares Bluetooth HiFi Estéreo  Cascos inalambricos Bluetooth IPX5 Impermeables In-Ear Cascos Bluetooth Inalámbricos con Microfono Dual y Caja de Carga'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Computer Gear'
 buyurl: 'https://www.amazon.es/dp/B0B2NPV71B/?tag=tolees-21'
-descuento: '80.00'
-average: '42.4566666666667'
+descuento: '59.98'
+average: '39.2471428571429'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

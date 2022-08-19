@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español Urea Reparaturcreme - 50 ml'
-date: 2022-08-16 14:02:22
+date: 2022-08-18 22:54:41
 image: 'https://m.media-amazon.com/images/I/3197+pgSl8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01FUP0ED2-es Instituto Español Urea Reparaturcreme - 50 ml'
 sku: 'B01FUP0ED2-es'
 tags: [ 'Belleza','Cremas corporales','Hidratantes corporales','Productos para el cuidado de la piel','Productos para el cuidado de la piel corporal','instituto español','🇪🇸', ]
-actualPrice: 0.8 EUR
+actualPrice: 0.95 EUR
 currency: EUR
-price: 0.8
+price: 0.95
 comparePrice: 2.7 EUR
 prodname: 'Instituto Español Urea Reparaturcreme - 50 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B01FUP0ED2/?tag=tolees-21'
-descuento: '70.37'
-average: '0.813513513513515'
+descuento: '64.81'
+average: '0.814429530201344'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Género: Unisex Adulto
-- Marca: Instituto Español
 - Tipo de producto: Tratamiento corporal
+- Marca: Instituto Español
+- Género: Unisex Adulto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
