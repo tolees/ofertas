@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich Clik  Zapatillas Unisex Adulto  Beige  39 EU'
-date: 2022-08-17 13:17:54
+date: 2022-08-19 10:45:39
 image: 'https://m.media-amazon.com/images/I/41jpMI3aK2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,5 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sneakers.Munich.Fashion
 
 [🛒 Visítala!!!]({{< param buyurl >}})

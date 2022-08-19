@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Royal Rewind Run  Zapatillas de Deporte Unisex bebé  Core Black/Core Black/Core Black  21.5 EU'
-date: 2022-08-14 18:04:33
+date: 2022-08-19 10:44:29
 image: 'https://m.media-amazon.com/images/I/415AprzefaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096HB7D1Z-es Reebok Royal Rewind Run Zapatillas de Deporte Unisex bebé...'
 sku: 'B096HB7D1Z-es'
 tags: [ 'Zapatos','Zapatos y complementos','reebok','🇪🇸', ]
-actualPrice: 12.61 EUR
+actualPrice: 12.6 EUR
 currency: EUR
-price: 12.61
+price: 12.6
 comparePrice: 25.0 EUR
 prodname: 'Reebok Royal Rewind Run  Zapatillas de Deporte Unisex bebé  Core Black/Core Black/Core Black  21.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B096HB7D1Z/?tag=tolees-21'
-descuento: '49.56'
-average: '12.61'
+descuento: '49.60'
+average: '12.6066666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

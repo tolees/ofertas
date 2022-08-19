@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Duramo 10  Zapatillas de Running Mujer  Casros/Malmar/Rojaci  36 2/3 EU'
-date: 2022-08-11 12:14:14
+date: 2022-08-19 11:35:02
 image: 'https://m.media-amazon.com/images/I/41f7yMYV9dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte superior de malla acolchada
-- Horma clásica
 - Talón suave
+- Horma clásica
 - Cierre de cordones
 - Refuerzos sin costuras para una mayor sujeción
 
