@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'FILA CROSSCOURT ALTEZZA A wmn  Zapatillas Mujer  Negro/Blanco  Black/White   36 EU'
-date: 2022-08-19 13:56:24
-image: 'https://m.media-amazon.com/images/I/41zAYpoLHoL._SL500_._SL400_.jpg'
+title: 'FILA RETRONIQUE 22 wmn  Zapatillas Mujer  Blanco/Verde  Marshmallow/Iceberg Green   36 EU'
+date: 2022-08-19 12:23:26
+image: 'https://m.media-amazon.com/images/I/41QwmMV7qEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B096XT8PRJ-es FILA CROSSCOURT ALTEZZA A wmn Zapatillas Mujer...'
-sku: 'B096XT8PRJ-es'
+slug: 'B096XSJ88Y-es FILA RETRONIQUE 22 wmn Zapatillas Mujer Blanco/Verde...'
+sku: 'B096XSJ88Y-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','fila','🇪🇸', ]
-actualPrice: 18.24 EUR
+actualPrice: 27.42 EUR
 currency: EUR
-price: 18.24
-comparePrice: 70.0 EUR
-prodname: 'FILA CROSSCOURT ALTEZZA A wmn  Zapatillas Mujer  Negro/Blanco  Black/White   36 EU'
+price: 27.42
+comparePrice: 80.0 EUR
+prodname: 'FILA RETRONIQUE 22 wmn  Zapatillas Mujer  Blanco/Verde  Marshmallow/Iceberg Green   36 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fila'
-buyurl: 'https://www.amazon.es/dp/B096XT8PRJ/?tag=tolees-21'
-descuento: '73.94'
-average: '21.998'
+buyurl: 'https://www.amazon.es/dp/B096XSJ88Y/?tag=tolees-21'
+descuento: '65.72'
+average: '27.42'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
