@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'BIC Kids Kid Couleur - Pack de 20 rotuladores de colorear para aprendizaje en caja metálica  multicolor'
+date: 2022-08-19 06:19:03
+image: 'https://m.media-amazon.com/images/I/41uu5QaSPMS._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00L34KWP0-es BIC Kids Kid Couleur - Pack de 20 rotuladores de colorear...'
+sku: 'B00L34KWP0-es'
+tags: [ 'Actividades creativas','Juguetes','Juguetes y juegos','Material de escritura y dibujo para niños','Rotuladores de colores para niños','bic','🇪🇸', ]
+actualPrice: 3.95 EUR
+currency: EUR
+price: 3.95
+comparePrice: 10.67 EUR
+prodname: 'BIC Kids Kid Couleur - Pack de 20 rotuladores de colorear para aprendizaje en caja metálica  multicolor'
+country: 'es'
+flag: '🇪🇸'
+brand: 'BIC'
+buyurl: 'https://www.amazon.es/dp/B00L34KWP0/?tag=tolees-21'
+descuento: '62.98'
+average: '7.44333333333333'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Denominación de tipo de producto: Bic Kids Kid Couleur Medium
+- Denominación de artículo: fibra pintor
+- Material de la caña: plástico
+- Color de la caña: en color de texto
+- Con clip: no.
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
