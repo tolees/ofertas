@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Inserciones de malla en la parte interior de las perneras.
-- Cintura elástica.
 - La tecnología Climalite aleja el sudor de la piel.
 - Logotipo de adidas con estampado metalizado.
+- Cintura elástica.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
