@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los zapatos contienen una puntera protectora diseñada para un uso intensivo
-- Producto de alta calidad
-- El zapato tiene una correa trasera que es una forma sencilla y práctica de poner y quitar los zapatos de su hijo
-- La tecnología utilizada para desarrollar este calzado está avalada por el Instituto de Biomecánica de Valencia
-- un producto practico
-- El talón y el lateral acolchados están diseñados para los movimientos intensos de un niño.
-- deportivo goma básico
-- Gracias a la zona de frenado se optimiza la prevención de caídas
 - fácil de usar
+- un producto practico
+- Gracias a la zona de frenado se optimiza la prevención de caídas
+- El zapato tiene una correa trasera que es una forma sencilla y práctica de poner y quitar los zapatos de su hijo
+- Los zapatos contienen una puntera protectora diseñada para un uso intensivo
+- El talón y el lateral acolchados están diseñados para los movimientos intensos de un niño.
+- Producto de alta calidad
+- deportivo goma básico
+- La tecnología utilizada para desarrollar este calzado está avalada por el Instituto de Biomecánica de Valencia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Debilita los Poseídos con la luz antes de acabar con ellos para siempre
-- Utiliza las luces del entorno cómo protección en un mundo donde la oscuridad es mortal
-- La historia se convierte en realidad cuando las escenas parecen estar describiendo lo que aún no ha ocurrido, sirviendo cómo advertencias para los próximos desafíos
 - Encuentra páginas de manuscritos de una novela que Wake no recuerda haber escrito
+- Debilita los Poseídos con la luz antes de acabar con ellos para siempre
+- La historia se convierte en realidad cuando las escenas parecen estar describiendo lo que aún no ha ocurrido, sirviendo cómo advertencias para los próximos desafíos
+- Utiliza las luces del entorno cómo protección en un mundo donde la oscuridad es mortal
 - Combate intenso, donde se necesitan más que balas para desterrar la oscuridad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
