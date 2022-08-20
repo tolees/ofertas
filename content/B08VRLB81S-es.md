@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas SQ21 SW Top Sweatshirt  Mens  Black  L'
-date: 2022-08-18 16:31:34
+date: 2022-08-20 01:48:40
 image: 'https://m.media-amazon.com/images/I/41NAvyRi-eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Felpa 70% Algodón, 30% Poliéster Reciclado
-- Puños y dobladillo de canalé
 - Las icónicas 3 rayas en las mangas le dan un aspecto deportivo
 - Cuello redondo
+- Felpa 70% Algodón, 30% Poliéster Reciclado
+- Puños y dobladillo de canalé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
