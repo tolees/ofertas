@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forro interior sin forro.
+- Suela de goma vulcanizada natural.
 - Placa Superga en el lado y el talón.
 - Con parte superior de algodón puro extrafuerte sin forro.
-- Suela de goma vulcanizada natural.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

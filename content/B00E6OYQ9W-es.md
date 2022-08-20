@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Llamentol S.L. - La sombra de los acusados [DVD]'
-date: 2022-08-16 07:53:31
+date: 2022-08-20 13:39:50
 image: 'https://m.media-amazon.com/images/I/51nJPxaI6oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

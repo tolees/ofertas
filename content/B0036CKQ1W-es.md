@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Authentic  Zapatillas de Tela Unisex  Gris  Pewter/Black   36.5 EU  Gris  Pewter/Black   36.5 EU'
-date: 2022-08-08 03:28:10
+date: 2022-08-20 13:29:56
 image: 'https://m.media-amazon.com/images/I/31Jh6mFl+aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B0036CKQ1W/?tag=tolees-21'
 descuento: '44.75'
-average: '40.65'
+average: '39.465'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suela waffle para un agarre más firme
 - Pespuntes clásicos
 - Parte superior de lona resistente
-- Suela waffle para un agarre más firme
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

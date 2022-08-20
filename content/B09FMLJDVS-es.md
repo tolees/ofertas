@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Epic Games - Alan Wake Remastered Ps5'
-date: 2022-08-19 13:14:00
+date: 2022-08-20 14:06:16
 image: 'https://m.media-amazon.com/images/I/41540RqsMhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Epic Games'
 buyurl: 'https://www.amazon.es/dp/B09FMLJDVS/?tag=tolees-21'
 descuento: '40.01'
-average: '21.3604545454546'
+average: '21.2139130434783'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
