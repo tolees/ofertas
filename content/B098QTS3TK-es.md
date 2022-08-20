@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Piel suave
-- Cama suave
 - Allday
+- Piel suave
 - Informal
 - Holiday
+- Cama suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
