@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Trailstorm Mid Waterproof  Botas de montaña impermeables para hombre'
-date: 2022-08-19 08:59:42
+date: 2022-08-20 09:17:03
 image: 'https://m.media-amazon.com/images/I/31bR0XLM13L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B089FCCFJC/?tag=tolees-21'
 descuento: '58.00'
-average: '53.1'
+average: '50.8'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Solé material: Caucho
 - Cierre: Cordones
+- Solé material: Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
