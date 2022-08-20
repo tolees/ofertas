@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera abierta con cremallera, incluye canalé en bajo y puños
 - Pantalón pitillo con bolsillos
-- Ofrece comodidad y libertad de movimiento
 - Chándal con detalle de cortes a contraste en mangas y piernas
+- Sudadera abierta con cremallera, incluye canalé en bajo y puños
+- Ofrece comodidad y libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

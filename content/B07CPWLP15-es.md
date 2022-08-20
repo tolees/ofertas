@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Chaqueta con piezas en hombro y mangas a contraste
-- Pantalón con cintura elástica ajustable con cordón
 - Rib en bajo y puños
 - Ofrece comodidad y libertad de movimiento
+- Pantalón con cintura elástica ajustable con cordón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

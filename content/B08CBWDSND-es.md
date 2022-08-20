@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chándal con detalle de cortes a contraste en mangas y piernas
-- Pantalón pitillo con bolsillos
-- Ofrece comodidad y libertad de movimiento
 - Sudadera abierta con cremallera, incluye canalé en bajo y puños
+- Chándal con detalle de cortes a contraste en mangas y piernas
+- Ofrece comodidad y libertad de movimiento
+- Pantalón pitillo con bolsillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
