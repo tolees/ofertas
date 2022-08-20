@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda N300 A9 Repetidor WiFi  Extensor de Red  Inalámbrico Ampliardor 300 Mbps  2 Antenas Externas  WPS Botón  Play y Plug  Indicador LED de Señal  Fácil Configuración  Compatible con Módem y Router'
-date: 2022-08-19 10:34:02
+date: 2022-08-20 20:05:36
 image: 'https://m.media-amazon.com/images/I/41JlmSU8UtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tenda'
 buyurl: 'https://www.amazon.es/dp/B06WWHJZF6/?tag=tolees-21'
 descuento: '35.31'
-average: '11.2317610062898'
+average: '11.2302500000005'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
