@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EVGA GeForce RTX 2060 SC  OVERCLOCKED  2.75 Slot Extreme Cool  70C Gaming  06G-P4-2062-KR  6GB GDDR6'
-date: 2022-08-12 10:30:23
+date: 2022-08-21 14:42:44
 image: 'https://m.media-amazon.com/images/I/41+fUxs3ebL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EVGA'
 buyurl: 'https://www.amazon.es/dp/B07MVNPKWN/?tag=tolees-21'
 descuento: '51.37'
-average: '376.995624999999'
+average: '369.466470588234'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Velocidad de reloj: 14000 MHz
-- Chipset: NVIDIA
-- Memoria: 6 GB, DDR6
-- Puertos: 1 puerto de pantalla, 1 HDMI
 - Interfaz PCI Express x16 2.1
+- Memoria: 6 GB, DDR6
+- Chipset: NVIDIA
+- Puertos: 1 puerto de pantalla, 1 HDMI
+- Velocidad de reloj: 14000 MHz
 
 [🛒 Visítala!!!]({{< param buyurl >}})

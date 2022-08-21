@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'fischer - masilla acrílica blanco para relleno de grietas  reparaciones en interiores  pintable  lavable con agua  gran adherencia multimaterial y de fácil aplicación  300ml'
-date: 2022-08-20 09:44:43
+date: 2022-08-21 15:05:14
 image: 'https://m.media-amazon.com/images/I/315jUapInGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'fischer'
 buyurl: 'https://www.amazon.es/dp/B01LXFK7M8/?tag=tolees-21'
 descuento: '68.17'
-average: '1.61133333333333'
+average: '1.6075'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicación: especial para rellenar huecos, grietas de paredes interiores y juntas, en la mayoría materiales de construcción, también en superficies húmedas, como hormigón, yeso, ladrillo, madera, cartón-yeso.
-- Principales ventajas: esta masilla adhesiva se alisa fácilmente, se puede pintar y, una vez seca completamente, es resistente al agua, además las herramientas se pueden limpiar simplemente con agua.
 - Modo de empleo: aplicar con pistola de silicona rellenando las grietas con la cantidad de producto necesario según la profundidad, para asegurar el pegado debe alisarse el producto con una espátula.
-- Tecnología: la masilla para pared puede ser aplicada tanto en espacios interiores como en espacios exteriores, es resistente a los cambios de temperatura y al incremento de humedad y su uso está indicado en materiales porosos.
 - Contenido: 1 x Masilla para pared Relleno de Grietas Blanco en tubo de 300 ml, sellador mono-componente, sella y rellena grietas y tapa agujeros en pared, pintable, color blanco, de fischer.
+- Principales ventajas: esta masilla adhesiva se alisa fácilmente, se puede pintar y, una vez seca completamente, es resistente al agua, además las herramientas se pueden limpiar simplemente con agua.
+- Tecnología: la masilla para pared puede ser aplicada tanto en espacios interiores como en espacios exteriores, es resistente a los cambios de temperatura y al incremento de humedad y su uso está indicado en materiales porosos.
+- Aplicación: especial para rellenar huecos, grietas de paredes interiores y juntas, en la mayoría materiales de construcción, también en superficies húmedas, como hormigón, yeso, ladrillo, madera, cartón-yeso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
