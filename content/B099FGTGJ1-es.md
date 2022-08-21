@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Espuma viscoelástica
-- Lavable a máquina
 - Zapato cómodo
+- Lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
