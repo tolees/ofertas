@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Polo de hombre Lacoste SPORT en otomán de mezcla de algodón
 - Tira abotonada de tafetán diamantado
 - Otomán de mezcla de algodón
+- Polo de hombre Lacoste SPORT en otomán de mezcla de algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
