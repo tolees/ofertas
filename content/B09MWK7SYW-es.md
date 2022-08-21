@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Parte superior de malla sándwich
-- Tacto ligero y transpirable
 - Corte regular
+- Tacto ligero y transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

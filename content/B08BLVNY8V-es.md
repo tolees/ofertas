@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Billy 2.0  Zapatillas Hombre  Azul Marino  45 EU'
-date: 2022-08-17 12:19:33
+date: 2022-08-21 12:01:39
 image: 'https://m.media-amazon.com/images/I/314FZb+DwAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLVNY8V/?tag=tolees-21'
 descuento: '42.52'
-average: '34.2866666666667'
+average: '32.9'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
