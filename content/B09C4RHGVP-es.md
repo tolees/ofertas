@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids LVG LONG SLEEVE GRAPHIC TEE SH niñas 2-8 años'
-date: 2022-08-18 18:45:47
+date: 2022-08-21 08:04:17
 image: 'https://m.media-amazon.com/images/I/21Jl5ElMuvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Hecho de jersey suave para comodidad diaria durante todo el día
 - Cuello sin etiqueta para un uso sin complicaciones
 - Logotipo de Levis en la parte delantera
-- Hecho de jersey suave para comodidad diaria durante todo el día
 - Cuello redondo y mangas largas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

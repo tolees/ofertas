@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Court Royale 2 Next Nature  Indoor Shoe Hombre  Black/White  43 EU'
-date: 2022-08-19 16:16:28
+date: 2022-08-21 08:01:54
 image: 'https://m.media-amazon.com/images/I/31ONctHd0PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B09KZPQFT5/?tag=tolees-21'
 descuento: '46.15'
-average: '38.01875'
+average: '37.6833333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

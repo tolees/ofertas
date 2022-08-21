@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SD Games- Números Locos  SDGNUMLOC01    color/modelo surtido'
-date: 2022-08-19 07:40:42
+date: 2022-08-21 08:07:44
 image: 'https://m.media-amazon.com/images/I/41HFyTx+aQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SD Games'
 buyurl: 'https://www.amazon.es/dp/B01LXT2XNU/?tag=tolees-21'
 descuento: '45.78'
-average: '19.2833333333333'
+average: '19.2'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - NUMEROS LOCOS
-- Juego para entrenar la memoria de forma "diferente"
 - Juego divertido y entretenido
-- Para toda la familia y amigos
 - NUMEROS LOCOS
+- Para toda la familia y amigos
+- Juego para entrenar la memoria de forma "diferente"
 
 [🛒 Visítala!!!]({{< param buyurl >}})

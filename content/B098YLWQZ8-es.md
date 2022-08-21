@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans CKJ  Sport Essentials BP43 INST-Esencial para Deportes para Hombre  Black  Medium'
-date: 2022-08-20 09:32:58
+date: 2022-08-21 10:02:46
 image: 'https://m.media-amazon.com/images/I/41gfJmKnH5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
