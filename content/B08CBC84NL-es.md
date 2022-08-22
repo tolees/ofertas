@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela: sintético
-- Material interior: sintético
-- Cierre: cierre de velcro
 - Material exterior: sintético
+- Suela: sintético
+- Cierre: cierre de velcro
+- Material interior: sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
