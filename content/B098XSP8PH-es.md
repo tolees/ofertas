@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Talle medio
-- Cintura elástica con cierre de cordón
 - Corte estrecho
 - Bolsillos en las costuras laterales y bolsillo con ribete sencillo en la parte trasera
+- Cintura elástica con cierre de cordón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
