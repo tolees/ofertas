@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Demi-étui piel
 - Demi-étui piel; fieltro de protección
+- Demi-étui piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

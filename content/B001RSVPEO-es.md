@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Classic Leather  Zapatillas de Running Niños  Blanco  White   36.5 EU'
-date: 2022-08-17 13:24:04
+date: 2022-08-21 21:31:37
 image: 'https://m.media-amazon.com/images/I/21usCFXTL-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B001RSVPEO/?tag=tolees-21'
 descuento: '37.11'
-average: '34.55375'
+average: '34.6388235294118'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
