@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Court Royale 2 Better Essential  Zapatillas de Gimnasia Hombre  Black/White  42 EU'
-date: 2022-08-18 20:13:51
+date: 2022-08-22 06:51:16
 image: 'https://m.media-amazon.com/images/I/31ONctHd0PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B09LXX68JF/?tag=tolees-21'
 descuento: '46.15'
-average: '33.833'
+average: '33.9390909090909'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

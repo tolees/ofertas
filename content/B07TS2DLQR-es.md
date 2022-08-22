@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - The Walking Dead: The Telltale Definitive Series'
-date: 2022-08-19 10:43:24
+date: 2022-08-22 06:03:16
 image: 'https://m.media-amazon.com/images/I/51vlr70S7HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B07TS2DLQR/?tag=tolees-21'
 descuento: '50.19'
-average: '29.2088888888888'
+average: '28.9821052631578'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
