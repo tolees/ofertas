@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto que combina tradición e innovación
+- Incluye 1 figura exclusiva
 - Playset parque de juegos
 - 3 modos de juego
-- Incluye 1 figura exclusiva
-- Producto que combina tradición e innovación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

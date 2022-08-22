@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CON22 MD SHO Shorts  Men s  Team Onix/Team Real Magenta  S'
-date: 2022-08-20 10:13:38
+date: 2022-08-22 18:34:10
 image: 'https://m.media-amazon.com/images/I/315LOg1OXVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El diseño otorga libertad a los movimientos
 - Logotipo de adidas
 - Pantalones cortos de fútbol
 - Tela suave
+- El diseño otorga libertad a los movimientos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

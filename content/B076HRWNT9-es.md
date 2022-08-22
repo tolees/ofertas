@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'adidas CORE18 SW PNT Pantalones de Deporte  Hombre  Gris  Gris/Negro   XL'
-date: 2022-08-17 21:59:22
-image: 'https://m.media-amazon.com/images/I/313naU1p3KL._SL500_._SL400_.jpg'
+date: 2022-08-22 18:01:44
+image: 'https://m.media-amazon.com/images/I/31eYWPrN44L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HRWNT9/?tag=tolees-21'
 descuento: '55.15'
-average: '24.3866666666667'
+average: '22.775'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Inserción de canalé en la entrepierna.
 - Cintura elástica con cordón ajustable.
-- Bolsillos de ojal en las costuras laterales.
 - Tienen dos bolsillos laterales
+- Inserción de canalé en la entrepierna.
+- Bolsillos de ojal en las costuras laterales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

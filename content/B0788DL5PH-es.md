@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cordón con rayas distintivas en los extremos
 - Dos bolsillos ribeteados en la cintura
 - Inscripción de Tommy Hilfiger en laterales
-- Cordón con rayas distintivas en los extremos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

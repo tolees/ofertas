@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con interruptor de cadena.
-- Bombilla (no incluida): E27 de 60 W. Compatible con bombillas normales.
-- Tamaño del artículo: altura: 180 cm, anchura: 25 cm, profundidad: 41 cm.
 - Lámpara Spari con brazo de lectura fabricada en aluminio y plástico de color plateado y blanco.
+- Tamaño del artículo: altura: 180 cm, anchura: 25 cm, profundidad: 41 cm.
+- Bombilla (no incluida): E27 de 60 W. Compatible con bombillas normales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

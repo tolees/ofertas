@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capucha forrada de punto
 - Items delivered: 1x Helly Hansen Mens - HH Logo Hoodie Apparel Endive XL
-- Bolsillo tipo canguro
-- Tipo de fábrica: 100% Organic Cotton
 - Logo de HH en el pecho
 - Suave rizo de algodón
+- Bolsillo tipo canguro
+- Capucha forrada de punto
+- Tipo de fábrica: 100% Organic Cotton
 
 [🛒 Visítala!!!]({{< param buyurl >}})

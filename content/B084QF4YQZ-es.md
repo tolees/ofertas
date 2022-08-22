@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ultraportátil con batería de hasta 2 horas
-- Disfruta de una pantalla de hasta 100”a tan solo 3. 3 metros de la pared, sin necesidad de soporte o instalación
 - Fuente LED con 20 años de vida útil (30. 000 horas), frente a los 3 años de la lámpara tradicional (6. 000 horas)
 - Apto para espacios oscuros, entorno cine o con baja luminosidad gracias a su nivel de brillo de 250 lúmenes
 - Proyecta contenido desde tu móvil u ordenador, por cable o inalámbricamente, gracias a ScreenShare
+- Disfruta de una pantalla de hasta 100”a tan solo 3. 3 metros de la pared, sin necesidad de soporte o instalación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
