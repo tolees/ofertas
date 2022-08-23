@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Algodón BCI
-- Dibujo de una cara y mensaje
 - Camiseta ilustración cara
-- Manga corta
+- Algodón BCI
 - Regular fit
+- Manga corta
+- Dibujo de una cara y mensaje
 
 [🛒 Comprar!!!]({{< param buyurl >}})
