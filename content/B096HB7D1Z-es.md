@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Royal Rewind Run  Zapatillas de Deporte Unisex bebé  Core Black/Core Black/Core Black  21.5 EU'
-date: 2022-08-19 10:44:29
+date: 2022-08-23 18:37:29
 image: 'https://m.media-amazon.com/images/I/415AprzefaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B096HB7D1Z/?tag=tolees-21'
 descuento: '49.60'
-average: '12.6066666666667'
+average: '12.605'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

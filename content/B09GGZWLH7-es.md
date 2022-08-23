@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich Volata  Zapatillas Unisex Adulto  Azul 26  36 EU'
-date: 2022-08-12 23:42:57
+date: 2022-08-23 17:54:18
 image: 'https://m.media-amazon.com/images/I/41vuExaEThL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B09GGZWLH7/?tag=tolees-21'
 descuento: '36.26'
-average: '52.6566666666667'
+average: '52.24'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
