@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vegano
-- Tecnología Skech Air
-- Espuma viscoelástica refrigerada por aire
-- Ajuste de cuña
 - Zapato cómodo
+- Ajuste de cuña
+- Espuma viscoelástica refrigerada por aire
+- Tecnología Skech Air
+- Vegano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
