@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece hidratación y lípidos gracias a sus agentes activos
 - Importante efecto calmante y suavizante
+- Ofrece hidratación y lípidos gracias a sus agentes activos
 - Especialmente indicado para labios secos y dañados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
