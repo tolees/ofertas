@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas VL Court 2.0 CMF I  Sneaker  Blanco FTWR White Core Black FTWR White FTWR White Core Black FTWR White  25 EU'
-date: 2022-08-20 18:01:55
+date: 2022-08-23 10:45:34
 image: 'https://m.media-amazon.com/images/I/31u6hECd0zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B075GPGYFM/?tag=tolees-21'
 descuento: '46.70'
-average: '16.3971428571429'
+average: '16.34625'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 3 rayas cosidas
 - Cómodo forro textil
 - Corte regular
-- 3 rayas cosidas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
