@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Revestimiento: Sin forro
-- Composición: Goma
-- Cierre: Sin cordones
 - Tipo de tacón: Plano
 - Material exterior: Goma
 - Material de la suela: Goma
+- Cierre: Sin cordones
+- Composición: Goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

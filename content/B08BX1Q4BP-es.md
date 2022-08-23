@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior sintética
-- Suela de goma
 - Forro textil
+- Suela de goma
+- Parte superior sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})
