@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Classics
-- Gris
 - Para mujer
 - Bolsillos/carcasas
 - Crossbody
+- Gris
+- Classics
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

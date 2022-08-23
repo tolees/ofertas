@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela cómoda
 - Tapa abierta
+- Suela cómoda
 
 [🛒 Aquí!!!]({{< param buyurl >}})

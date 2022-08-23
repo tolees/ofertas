@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Pulsera de acero inoxidable
+- Grosor de la caja de 7 mm; Diámetro de la caja: 36 mm
+- Dos manecillas
 - 3 ATM de resistencia al agua
 - Esfera azul con efecto de rayo de sol
-- Dos manecillas
-- Grosor de la caja de 7 mm; Diámetro de la caja: 36 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
