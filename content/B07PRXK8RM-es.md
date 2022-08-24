@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Cuenta con un sistema de transmisión de correa Silent+ para hacer compatible hogar y deporte
 - Dispone de diferentes niveles de resistencia para ajustar el nivel de dificultad del ejercicio
-- Equipada con un disco de inercia de 16 kg
-- Sillín y manillar acolchados y ajustables
 - Pulsómetro en el manillar para recibir información sobre la frecuencia cardíaca
+- Sillín y manillar acolchados y ajustables
+- Equipada con un disco de inercia de 16 kg
 
 [🛒 Aquí!!!]({{< param buyurl >}})

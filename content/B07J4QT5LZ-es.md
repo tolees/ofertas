@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRODUCTO: Altavoz Karaoke Bluetooth con radio FM. Cuenta con puerto USB y ranura TF.
-- USO: Un altavoz de toda la vida con formato actualizado, con Bluetooth Karaoke, radio FM, ranura USB/SD y microfono. Las horas de diversión y buena música aseguradas.
 - ACCESORIOS: Incluye un microfono con cable, aunque también es compatible con micrófonos inalámbricos de 201,6 MHz ó con jack de 6,35 mm
-- MEDIDAS: Dimensiones: 236x339x144 mm - Peso: 1,14 Kgs
 - CARACTERÍSTICAS: Bateria recargable, el tiempo de carga es de 4 a 8 horas. Cuenta con 1 conexión para microfono. Grabación de voz y también dispone de Display Led.
+- USO: Un altavoz de toda la vida con formato actualizado, con Bluetooth Karaoke, radio FM, ranura USB/SD y microfono. Las horas de diversión y buena música aseguradas.
+- MEDIDAS: Dimensiones: 236x339x144 mm - Peso: 1,14 Kgs
+- PRODUCTO: Altavoz Karaoke Bluetooth con radio FM. Cuenta con puerto USB y ranura TF.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
