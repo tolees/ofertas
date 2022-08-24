@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'metabo - TS 254 M - Ø 254 mm'
-date: 2022-08-23 12:27:54
+date: 2022-08-24 12:47:12
 image: 'https://m.media-amazon.com/images/I/41ncjAbn5jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08CTRNS82-es metabo - TS 254 M - Ø 254 mm'
 sku: 'B08CTRNS82-es'
 tags: [ 'Bricolaje y herramientas','Herramientas eléctricas','Herramientas manuales y eléctricas','Pirograbado','metabo','🇪🇸', ]
-actualPrice: 262.5 EUR
+actualPrice: 249.38 EUR
 currency: EUR
-price: 262.5
+price: 249.38
 comparePrice: 607.59 EUR
 prodname: 'metabo - TS 254 M - Ø 254 mm'
 country: 'es'
 flag: '🇪🇸'
 brand: 'metabo'
 buyurl: 'https://www.amazon.es/dp/B08CTRNS82/?tag=tolees-21'
-descuento: '56.80'
-average: '277.0075'
+descuento: '58.96'
+average: '271.482'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

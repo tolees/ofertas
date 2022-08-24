@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo informal
 - Puños elásticos y hem
+- Estilo informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

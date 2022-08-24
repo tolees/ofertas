@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior de cuero completo
 - Bota baja
 - Plantilla textil
-- Parte superior de cuero completo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
