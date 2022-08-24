@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Nike MD Valiant  TDV   Sneaker  Black/White  18.5 EU'
-date: 2022-08-21 14:55:06
-image: 'https://m.media-amazon.com/images/I/41Aq6QgsCdL._SL500_._SL400_.jpg'
+date: 2022-08-24 08:51:58
+image: 'https://m.media-amazon.com/images/I/41obSNfrniL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Closure: cordones
-- Outer material: sintético
 - Sole material: caucho
+- Outer material: sintético
 - Lining: synthetic
 
 [🛒 Visítala!!!]({{< param buyurl >}})
