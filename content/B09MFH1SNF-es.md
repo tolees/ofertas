@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NGS Wild Dub Zero - Altavoz portátil de 120W Compatible con Tecnología Bluetooth y True Wireless Stereo  Subwoofer 8” + Doble Tweeter 3" Micro SD/USB/AUX IN/   Ruedas  Color Negro'
-date: 2022-08-22 16:15:01
+date: 2022-08-24 16:03:35
 image: 'https://m.media-amazon.com/images/I/41VLAToqWUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Compatible con la tecnología Bluetooth, con entrada Aux, entrada de audio Micro SD y USB y compatible con la tecnología True Wireless Stereo, pudiendo emparejar de forma simultánea dos dispositivos de la familia Wild Dub a la vez.
 - Potente y enorme equipo de música de alta potencia para DJ para disfrutar de la fiesta a todo volumen, con 120 W de potencia máxima, un woofer de 8” y doble tweeter de 3”, equipado con una batería integrada de 11,1V/2,2 A que proporciona hasta 7 horas (al 50% de volumen) de reproducción.
-- Con salida de audio, con las luces de altavoces LED multicolores incorporadas, entrada de micrófono, una entrada de guitarra amplificada para sacar el artista que hay en ti y contiene la función karaoke que, una vez activado, reduce el sonido de la música cuando se detecta la señal de entrada del micrófono.
-- Función para grabar la señal de entrada del micrófono o la guitarra en una memoria USB o microSD conectada al altavoz, con 6 modos distintos de ecualización (Normal, Rock, Jazz, Clásico, Country y Pop), función Mega Bass para aumentar el sonido de los bajos a un nuevo y asombroso nivel y equipado con controles de volumen de micrófono y guitarra por separado.
 - Destaca por su facilidad de uso y conveniencia con su control remoto incluido y una pantalla LED que muestra información útil (Modo, tiempo de reproducción, etc.).
+- Función para grabar la señal de entrada del micrófono o la guitarra en una memoria USB o microSD conectada al altavoz, con 6 modos distintos de ecualización (Normal, Rock, Jazz, Clásico, Country y Pop), función Mega Bass para aumentar el sonido de los bajos a un nuevo y asombroso nivel y equipado con controles de volumen de micrófono y guitarra por separado.
+- Con salida de audio, con las luces de altavoces LED multicolores incorporadas, entrada de micrófono, una entrada de guitarra amplificada para sacar el artista que hay en ti y contiene la función karaoke que, una vez activado, reduce el sonido de la música cuando se detecta la señal de entrada del micrófono.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
