@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro Sherpa.
 - Classic Moc Toe.
 - Agressive Tread on Outsole for Increased Grip in Winter Conditions
+- Forro Sherpa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
