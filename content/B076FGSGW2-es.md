@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formato:500ml
 - Previene las estrías
+- Ingredientes respetuosos y de calidad
 - Fórmula no grasa de rápida absorción
 - Testado dermatológicamente
-- Ingredientes respetuosos y de calidad
+- Formato:500ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})

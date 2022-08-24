@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bajo recto
-- Estampado gráfico de G-Star RAW en la parte superior del pecho
-- Talle medio
 - Sin mangas, sisas ribeteadas
+- Talle medio
 - Corte ajustado
+- Estampado gráfico de G-Star RAW en la parte superior del pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
