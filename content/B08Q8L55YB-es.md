@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Blusa de alta calidad de la marca edc
 - I am sustainable: Lenzing Ecovero
+- Blusa de alta calidad de la marca edc
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

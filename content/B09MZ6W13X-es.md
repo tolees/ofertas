@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bordado Suizo
-- Manga corta
 - Camisa
+- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

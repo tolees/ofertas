@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bordado Suizo
 - Camisa
 - Manga corta
-- Bordado Suizo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

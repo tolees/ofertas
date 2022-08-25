@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tacón: Plano
-- Material exterior: Cuero
 - Composición: Empeine de malla/ante
-- Material de la suela: Sintético
-- Revestimiento: Tela
 - Cierre: Cordones
+- Material de la suela: Sintético
+- Tipo de tacón: Plano
+- Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Blusa halter tropical
+- Tirantes trenzados a tono
 - Tropical
 - Halter
 - Vuelo y largo muy favorecedores
-- Blusa halter tropical
-- Tirantes trenzados a tono
 
 [🛒 Comprar!!!]({{< param buyurl >}})

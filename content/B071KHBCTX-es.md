@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procedencia animal: no.
 - Material: 95% algodón, 5% elastano.
+- Procedencia animal: no.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
