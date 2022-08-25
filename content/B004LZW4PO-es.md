@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brilliant Spari - Lámpara de pie con brazo de luz de lectura  estructura plateada y plástico blanco '
-date: 2022-08-22 16:59:09
+date: 2022-08-25 18:28:12
 image: 'https://m.media-amazon.com/images/I/21kh3oiogaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Brilliant'
 buyurl: 'https://www.amazon.es/dp/B004LZW4PO/?tag=tolees-21'
 descuento: '42.22'
-average: '28.88'
+average: '29.0433333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bombilla (no incluida): E27 de 60 W. Compatible con bombillas normales.
 - Con interruptor de cadena.
 - Lámpara Spari con brazo de lectura fabricada en aluminio y plástico de color plateado y blanco.
 - Tamaño del artículo: altura: 180 cm, anchura: 25 cm, profundidad: 41 cm.
-- Bombilla (no incluida): E27 de 60 W. Compatible con bombillas normales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
