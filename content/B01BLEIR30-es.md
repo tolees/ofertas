@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UniqOne Revlon Professional - Tratamiento para el cabello  Coco  150 ml'
-date: 2022-08-21 21:31:48
+date: 2022-08-25 15:17:10
 image: 'https://m.media-amazon.com/images/I/31QVl2SdSHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'UniqOne'
 buyurl: 'https://www.amazon.es/dp/B01BLEIR30/?tag=tolees-21'
 descuento: '40.31'
-average: '6.64923076923077'
+average: '6.657'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
