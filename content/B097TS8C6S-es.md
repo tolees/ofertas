@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DC Shoes Manual  Zapatillas Hombre  Blanco  44 EU'
-date: 2022-08-20 05:50:49
+date: 2022-08-25 21:49:27
 image: 'https://m.media-amazon.com/images/I/31q8w1nHMNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B097TS8C6S-es DC Shoes Manual Zapatillas Hombre Blanco 44 EU'
 sku: 'B097TS8C6S-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','dc shoes','🇪🇸', ]
-actualPrice: 21.44 EUR
+actualPrice: 19.68 EUR
 currency: EUR
-price: 21.44
+price: 19.68
 comparePrice: 60.0 EUR
 prodname: 'DC Shoes Manual  Zapatillas Hombre  Blanco  44 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'DC Shoes'
 buyurl: 'https://www.amazon.es/dp/B097TS8C6S/?tag=tolees-21'
-descuento: '64.27'
-average: '21.44'
+descuento: '67.20'
+average: '20.56'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

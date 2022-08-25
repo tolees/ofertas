@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 💯【Herramientas de Dibujo Sencillas】: Este kit de tableros de rastreo ayuda a desarrollar la coordinación ojo-mano y las habilidades básicas de dibujo, sin dañar sus ojos. Puedes pintar en papel, ropa, bolsos, etc., adecuado para niños,estudiantes,principiantes, entusiastas de la pintura amateur,entusiastas del anime.
-- 💯【Aplicación Sólo para Proporcionar Gráficos】: Puede descargar la Aplicación /Dibujo a Lápiz/ u otro software relativo en su teléfono móvil o tableta,convertirlas en un dibujo, y luego puede comenzar a pintar.
-- 💯【Compatible con tabletas y teléfonos móviles】: Sencillos y rápidos de ensamblar,existen 2 métodos de empalme para el soporte,compatibles con la mayoría de los teléfonos móviles y tabletas.
 - 💯【Materiales Respetuosos con el Medio Ambiente】: La hoja de la lente está hecha de material de PC de alta calidad, buena resistencia, no es fácil de romper,ahorro de energía.
+- 💯【Compatible con tabletas y teléfonos móviles】: Sencillos y rápidos de ensamblar,existen 2 métodos de empalme para el soporte,compatibles con la mayoría de los teléfonos móviles y tabletas.
+- 💯【Aplicación Sólo para Proporcionar Gráficos】: Puede descargar la Aplicación /Dibujo a Lápiz/ u otro software relativo en su teléfono móvil o tableta,convertirlas en un dibujo, y luego puede comenzar a pintar.
 - 💯【Principios de la imagen óptica】: La imagen no se proyecta en el papel, a través de la hoja de la lente, puede ver que la imagen está grabada en el papel de dibujo. El tablero de rastreo tiene dos lados, el frente y el reverso, el efecto de proyección de los dos lados es diferente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
