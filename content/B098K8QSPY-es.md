@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste normal
 - Pantalones vaqueros sostenibles
+- Ajuste normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

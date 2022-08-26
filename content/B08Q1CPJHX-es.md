@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanex Natur Protect  Desodorante Hombre o Mujer  Desodorante Spray  Pack 6 Uds x 200 ml'
-date: 2022-08-20 10:02:39
+date: 2022-08-26 10:46:55
 image: 'https://m.media-amazon.com/images/I/51Xy8XWO35S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sanex'
 buyurl: 'https://www.amazon.es/dp/B08Q1CPJHX/?tag=tolees-21'
 descuento: '36.62'
-average: '13.1244444444444'
+average: '12.949'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Respeta la piel y respeta el planeta
 - Testado dermatológicamente
-- 24h de protección eficaz contra el mal olor
 - sin alérgenos, sin alcohol, sin colorantes
 - Contiene piedra de alumbre un ingrediente activo de origen natural
-- Respeta la piel y respeta el planeta
+- 24h de protección eficaz contra el mal olor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
