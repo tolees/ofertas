@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela: sintético
 - Material exterior: sintético
+- Suela: sintético
 - Material interior: sintético
 - Cierre: zapatillas
 

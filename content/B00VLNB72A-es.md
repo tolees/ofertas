@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cubitera perfecta para la presentación en la mesa
 - Compuesta de un doble fondo que conserva el frío y evita la condensación
-- Gran capacidad de almacenaje: 3 bandejas
 - Es posible desmoldar los cubitos de forma individual o a la vez, según se ejerza la presión. Al hacerlos en casa puedes controlar el agua con los que se realizan
+- Gran capacidad de almacenaje: 3 bandejas
 - Tapa de silicona resistente y fácil de manipular, realiza cubitos con forma orgánica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
