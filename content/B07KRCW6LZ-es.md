@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Archer T2U Nano - AC600 Adaptador Wi-Fi Nano USB  doble banda 2.4 GHz / 5 GHz  compatible con Windows y MacOS'
-date: 2022-08-25 10:12:05
+date: 2022-08-26 20:04:13
 image: 'https://m.media-amazon.com/images/I/41vJOq33DcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Adaptadores de red','Adaptadores de red USB','Dispositivos de red','Inf
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99
-comparePrice: 22.04 EUR
+comparePrice: 21.99 EUR
 prodname: 'TP-Link Archer T2U Nano - AC600 Adaptador Wi-Fi Nano USB  doble banda 2.4 GHz / 5 GHz  compatible con Windows y MacOS'
 country: 'es'
 flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07KRCW6LZ/?tag=tolees-21'
-descuento: '36.52'
-average: '13.5004255319149'
+descuento: '36.38'
+average: '13.510625'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con la tecnología 256QAM aumenta 2,4 GHz velocidad de datos de 150Mbps a 200Mbps de 33% de rendimiento más rápido
-- Alta velocidad Wi-Fi – hasta velocidades de 600Mbps con 200Mbps en 2.4GHz y 433 Mbps a 5GHz, actualiza tus dispositivos a velocidades más altas de AC WiFi
-- Seguridad avanzada, soporta 64/128-bit WEP, WPA/WPA2 y WPA-PSK/WPA2-PSK estándares de cifrado
-- Sistema operativo: soporta Windows 10/8.1/8/7/XP, Mac OS X
 - Nano diseño – diseño pequeño y discreto le permite conectar y olvidarse de que esta conectado el dispositivo
+- Sistema operativo: soporta Windows 10/8.1/8/7/XP, Mac OS X
+- Alta velocidad Wi-Fi – hasta velocidades de 600Mbps con 200Mbps en 2.4GHz y 433 Mbps a 5GHz, actualiza tus dispositivos a velocidades más altas de AC WiFi
 - Doble banda Inalámbrica– 2,4 GHz y 5GHz banda de conectividad flexibles, actualiza tus dispositivos para trabajar con el último router de WiFi de doble banda para mayor velocidad y rango extendido
+- Seguridad avanzada, soporta 64/128-bit WEP, WPA/WPA2 y WPA-PSK/WPA2-PSK estándares de cifrado
+- Compatible con la tecnología 256QAM aumenta 2,4 GHz velocidad de datos de 150Mbps a 200Mbps de 33% de rendimiento más rápido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

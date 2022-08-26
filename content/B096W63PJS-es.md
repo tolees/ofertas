@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kappa Biwor  Zapatillas Unisex Adulto  Negro y Gris  40 EU'
-date: 2022-08-25 19:59:20
+date: 2022-08-26 20:26:08
 image: 'https://m.media-amazon.com/images/I/31hhB4iqlGS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
