@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Parte superior sintética
 - Diseño deslizante
 - Ajuste regular
-- Parte superior sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})
