@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalon largo deportivo
 - Tejido transpirable
 - Tiene detalles distintivos de la marca
 - Ofrece comodidad y libertad de movimiento
+- Pantalon largo deportivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

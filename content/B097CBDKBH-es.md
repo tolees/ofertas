@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA SOFTRIDE SOPHIA BETTER WN S  Zapatillas para correr  Mujer  Gris  Lavender Fog/Puma White   37 EU'
-date: 2022-08-23 18:33:21
+date: 2022-08-26 13:01:52
 image: 'https://m.media-amazon.com/images/I/417NlW5oPAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B097CBDKBH/?tag=tolees-21'
 descuento: '50.04'
-average: '31.45'
+average: '32.6166666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
