@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers SUMMITS  Sneaker para Mujer  Navy Mesh/ Aqua Trim  39.5 EU'
-date: 2022-08-21 10:33:19
+date: 2022-08-26 18:15:32
 image: 'https://m.media-amazon.com/images/I/419B75d97EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El Peso Ligero
 - Suela Flexible
+- El Peso Ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
