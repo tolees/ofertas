@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Generico - Caramelos de dulce de azúcar con sabor Baileys Baileys en lata de metal | Fudge de caramelo salado | Caramelos Fudge - 250 Gramos | Caramelo Baileys'
-date: 2022-08-25 00:26:45
+date: 2022-08-26 07:12:18
 image: 'https://m.media-amazon.com/images/I/51bLy-9kC4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
