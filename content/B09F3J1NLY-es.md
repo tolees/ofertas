@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pikolinos Deportivos Barcelona W4p para Señora Color Nata'
-date: 2022-08-24 03:29:06
+date: 2022-08-26 02:55:53
 image: 'https://m.media-amazon.com/images/I/31gEnhgD06L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09F3J1NLY-es Pikolinos Deportivos Barcelona W4p para Señora Color Nata'
 sku: 'B09F3J1NLY-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','pikolinos','🇪🇸', ]
-actualPrice: 46.78 EUR
+actualPrice: 42.22 EUR
 currency: EUR
-price: 46.78
+price: 42.22
 comparePrice: 109.95 EUR
 prodname: 'Pikolinos Deportivos Barcelona W4p para Señora Color Nata'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pikolinos'
 buyurl: 'https://www.amazon.es/dp/B09F3J1NLY/?tag=tolees-21'
-descuento: '57.45'
-average: '46.78'
+descuento: '61.60'
+average: '44.5'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
