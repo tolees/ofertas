@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caja metálica con decoración de bailarinas
-- Los rotuladores Connector se enganchan entre sí siendo además un divertido juguete
-- Colores intensos y brillantes
 - Incluye 33 rotuladores Connector + 10 conectores + 2 plantillas para colorear
+- Colores intensos y brillantes
+- Los rotuladores Connector se enganchan entre sí siendo además un divertido juguete
 - Tinta a base de agua, lavable de la mayoría de los tejidos
+- Caja metálica con decoración de bailarinas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
