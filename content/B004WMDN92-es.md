@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología Castrol Trizone
-- Especificaciones: API SJ JASO MA2
 - Calidad premium desarrollado para la última generación de motores de 4 tiempos de motocicletas
+- Tecnología Castrol Trizone
 - Power Release Formula
+- Especificaciones: API SJ JASO MA2
 
 [🛒 Visítala!!!]({{< param buyurl >}})
