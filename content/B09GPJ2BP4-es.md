@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Emporio Armani - Reloj para Hombre de Armani Exchange de Acero Inoxidable en Color Negro con cronógrafo  AX1725'
-date: 2022-08-15 21:56:04
+date: 2022-08-27 09:10:21
 image: 'https://m.media-amazon.com/images/I/41H6zFx2qPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas.
 - Caja redonda de acero inoxidable con esfera en color verde.
-- Correa verde de piel.
 - Caja de 44 mm, correa de 22 mm de ancho, cristal mineral, movimiento de cuarzo, pantalla analógica con cronógrafo, importado.
+- Correa verde de piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

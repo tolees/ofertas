@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MUNDDY - Downlight LED Panel Superficie Redondo  iluminacion 6W 12W 20W 25W  marco blanco. [Clase de eficiencia energética A++] de Led  6000k Blanco Frío  12W '
-date: 2022-08-23 00:50:49
+date: 2022-08-27 08:59:46
 image: 'https://m.media-amazon.com/images/I/31hNVtE0EpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medidas producto: 170mm ,Grosor producto: H 32mm
-- POTENCIA:12W Lumen: 960Lm
-- Anulo apertura d la luz :120º Factor Potencia:0.9
 - MATERIAL: ALUMINIO/PC
+- Medidas producto: 170mm ,Grosor producto: H 32mm
+- Anulo apertura d la luz :120º Factor Potencia:0.9
+- POTENCIA:12W Lumen: 960Lm
 - Voltaje: 220-240v 50/60Hz ,Indice IP: IP25 , CRI:8
 
 [🛒 Comprar!!!]({{< param buyurl >}})

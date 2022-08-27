@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Damen Sneaker - calcetines para mujer  2 Pack  Negro'
-date: 2022-08-18 07:37:46
+date: 2022-08-27 07:59:34
 image: 'https://m.media-amazon.com/images/I/41oXR9eaLeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B00FOI4EK0/?tag=tolees-21'
 descuento: '50.00'
-average: '4.93375'
+average: '4.88555555555556'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
