@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mayor de Castilla Verdejo - Vino Blanco D.O Rueda - Caja de 6 Botellas x 750 ml'
-date: 2022-08-22 11:55:27
+date: 2022-08-27 17:25:39
 image: 'https://m.media-amazon.com/images/I/515HgE2D1uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mayor de Castilla'
 buyurl: 'https://www.amazon.es/dp/B00CDGQB0M/?tag=tolees-21'
 descuento: '36.00'
-average: '14.3745901639344'
+average: '14.4649206349206'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de uva: Elaborado con la selección de uvas Verdejo, una de las uvas blancas más reconocidas y que más gusta en nuestro país; la fermentación se hace en depósitos de acero inoxidable con un estricto control de temperatura entre 13 y 15 grados
-- Gusto: En boca es sabroso y refrescante, abierto en boca, con un final persistente y un retrogusto afrutado
-- Apariencia: Vino blanco color amarillo pálido y aspecto brillante con matices verdosos
 - Aroma: Destacan los aromas varietales frescos con alta intensidad de piña, melón y maracuyá sobre un fondo de anís
+- Apariencia: Vino blanco color amarillo pálido y aspecto brillante con matices verdosos
+- Tipo de uva: Elaborado con la selección de uvas Verdejo, una de las uvas blancas más reconocidas y que más gusta en nuestro país; la fermentación se hace en depósitos de acero inoxidable con un estricto control de temperatura entre 13 y 15 grados
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo entre los 6 y 8 ºC y conservarlo en en buenas condiciones de humedad
+- Gusto: En boca es sabroso y refrescante, abierto en boca, con un final persistente y un retrogusto afrutado
 - Maridaje: Este vino es adecuado para acompañar con platos ligeros como el marisco, pescado asado, sushi o anchoas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

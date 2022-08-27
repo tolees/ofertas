@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Domestic Appliances l Or Barista Sublime Cafetera de Cápsulas  Negro Piano  Reconocimiento de Cápsula Doble  1 o 2 Tazas  Bandeja de Goteo Ajustable   LM9012/60 '
-date: 2022-08-26 09:34:37
+date: 2022-08-27 17:48:53
 image: 'https://m.media-amazon.com/images/I/41BC5itzOuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips Domestic Appliances'
 buyurl: 'https://www.amazon.es/dp/B09B166BMD/?tag=tolees-21'
 descuento: '51.73'
-average: '55.0364999999999'
+average: '54.9438095238094'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Menú completo de cafés: cortado, espresso, largo y más
 - El reconocimiento de cápsula doble detecta automáticamente el tamaño de la cápsula
 - La cafetera LOR Barista está diseñada para funcionar con las exclusivas cápsulas doble espresso LOR Barista y las cápsulas individuales LOR Espresso
-- Menú completo de cafés: cortado, espresso, largo y más
-- Personaliza el volumen de tu café de 20 ml a 270 ml - Compatible con cápsulas LOR Espresso, LOR Barista y Nespresso
 - Prepara 2 cafés a la vez o 1 café doble en una taza - Hasta 19 bares de presión para un espresso perfecto
+- Personaliza el volumen de tu café de 20 ml a 270 ml - Compatible con cápsulas LOR Espresso, LOR Barista y Nespresso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

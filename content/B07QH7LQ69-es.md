@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sensor gamer óptico PixArt de 3200 Dpi
+- Diseño ergonómico con agarres antideslizantes en los laterales, práctico y cómodo
+- Iluminaci0on personalizada con 12 modos distintos
 - Dimensiones mínimas 125 x 75 x 40,5 mm y peso: 0,12 kg
 - Sistemas operativos compatibles: Windows 7 Windows 8 Windows 10
 - Cable extra largo de 2 metros
-- Diseño ergonómico con agarres antideslizantes en los laterales, práctico y cómodo
-- Iluminaci0on personalizada con 12 modos distintos
-- Sensor gamer óptico PixArt de 3200 Dpi
 
 [🛒 Comprar!!!]({{< param buyurl >}})

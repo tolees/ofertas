@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ellesse Bossini Pantalones Cortos  Hombre  Azul Marino  Small'
-date: 2022-08-19 15:12:18
+date: 2022-08-27 16:27:16
 image: 'https://m.media-amazon.com/images/I/311Q9wIb0TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bossini
 - Gris Marl
 - Corto.
-- Bossini
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un divertido dibujo
 - Cómoda sudadera de cuello redondo y forro polar
 - Un ajuste relajado y desenfadado
+- Con un divertido dibujo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
