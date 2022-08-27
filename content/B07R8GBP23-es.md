@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CARE OF by PUMA Zapatillas para mujer  Negro Black  37 EU'
-date: 2022-08-20 14:10:32
+date: 2022-08-27 02:19:39
 image: 'https://m.media-amazon.com/images/I/31RvzKf8j4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07R8GBP23-es CARE OF by PUMA Zapatillas para mujer Negro Black 37 EU'
 sku: 'B07R8GBP23-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','care of by puma','🇪🇸', ]
-actualPrice: 20.13 EUR
+actualPrice: 18.11 EUR
 currency: EUR
-price: 20.13
+price: 18.11
 comparePrice: 50.0 EUR
 prodname: 'CARE OF by PUMA Zapatillas para mujer  Negro Black  37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'CARE OF by PUMA'
 buyurl: 'https://www.amazon.es/dp/B07R8GBP23/?tag=tolees-21'
-descuento: '59.74'
-average: '27.9733333333333'
+descuento: '63.78'
+average: '27.6832352941176'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
