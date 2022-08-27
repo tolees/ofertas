@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatos de verano de moda
+- Peso ligero
+- Cómodo de llevar
 - Suela de goma vulcanizada
 - Superga Logotipo en el lateral
-- Cómodo de llevar
-- Peso ligero
+- Zapatos de verano de moda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
