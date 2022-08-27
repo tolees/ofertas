@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hurley M One and Only Summer Crew Sudadera  Hombre  Martian Sunrise  S'
-date: 2022-08-25 18:47:52
+date: 2022-08-27 18:22:44
 image: 'https://m.media-amazon.com/images/I/41y29WIeTHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B091CV1MM4-es Hurley M One and Only Summer Crew Sudadera Hombre Martian...'
 sku: 'B091CV1MM4-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','hurley','🇪🇸', ]
-actualPrice: 23.6 EUR
+actualPrice: 21.91 EUR
 currency: EUR
-price: 23.6
+price: 21.91
 comparePrice: 50.0 EUR
 prodname: 'Hurley M One and Only Summer Crew Sudadera  Hombre  Martian Sunrise  S'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Hurley'
 buyurl: 'https://www.amazon.es/dp/B091CV1MM4/?tag=tolees-21'
-descuento: '52.80'
-average: '24.6866666666667'
+descuento: '56.18'
+average: '23.9925'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
