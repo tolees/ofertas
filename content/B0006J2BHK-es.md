@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Victorinox V7.6073.3 PELADOR PELAPATATAS  Negro 7.6073.3  Acero Inoxidable  M'
-date: 2022-08-26 07:59:03
+date: 2022-08-28 09:28:20
 image: 'https://m.media-amazon.com/images/I/31+e9wNPg-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Victorinox'
 buyurl: 'https://www.amazon.es/dp/B0006J2BHK/?tag=tolees-21'
 descuento: '45.31'
-average: '3.315'
+average: '3.22428571428571'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

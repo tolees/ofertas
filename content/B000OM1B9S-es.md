@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - facil de usar
-- emillas de césped a la libre tirando
 - peso: 100 g
+- emillas de césped a la libre tirando
 - comida para gatos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

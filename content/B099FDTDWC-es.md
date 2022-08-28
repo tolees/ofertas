@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología Breeze
 - Transpirable
-- Skech Air
 - Zapato cómodo
+- Tecnología Breeze
 - Espuma viscoelástica refrigerada por aire
+- Skech Air
 
 [🛒 Comprar!!!]({{< param buyurl >}})
