@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Gorra negro Unica'
-date: 2022-08-21 07:55:18
+date: 2022-08-28 20:14:00
 image: 'https://m.media-amazon.com/images/I/31Lslda1fIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B016QM6OIC/?tag=tolees-21'
 descuento: '39.97'
-average: '21.8221428571429'
+average: '21.764'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Detalle de botón y ojales en la parte superior
-- Logo de Tommy Hilfiger en la parte trasera
 - Logo de Tommy Hilfiger bordado en la parte delantera
+- Logo de Tommy Hilfiger en la parte trasera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

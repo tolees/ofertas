@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger H2285ARLOW 1D  Zapatillas Hombre  Gris  Steel Grey 596   45 EU'
-date: 2022-08-27 14:17:37
+date: 2022-08-28 20:15:27
 image: 'https://m.media-amazon.com/images/I/31bwJeXV8hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B01NABI79M/?tag=tolees-21'
 descuento: '35.62'
-average: '41.6075675675675'
+average: '41.6968421052631'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers D LUX WALKER STAR STUNNER  Zapatillas para Mujer  Black Knit / Lt Blue Trim  38 EU'
-date: 2022-08-26 22:43:01
+date: 2022-08-28 19:04:06
 image: 'https://m.media-amazon.com/images/I/41pZFtJAkxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Refrigerado por aire MF
 - Vegano
+- Refrigerado por aire MF
 - Lavable a máquina
 - Ajuste relajado
 
