@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers SKECH-AIR DYNAMIGHT TUNED UP  Zapatillas de deporte para Hombre  Navy Engineered Mesh/Pu/Lime Trim  44 EU'
-date: 2022-08-16 08:10:03
+date: 2022-08-28 07:54:52
 image: 'https://m.media-amazon.com/images/I/31ZNavLMMFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

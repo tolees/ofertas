@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jersey de punto largo para mujer con mangas largas
 - Jersey de punto con cuello alto
+- Jersey de punto largo para mujer con mangas largas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
