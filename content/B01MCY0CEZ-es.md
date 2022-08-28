@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diámetro caja: 36mm
-- Resistente al agua: 30m
 - Movimiento Cuarzo
 - Brazalete Negro Piel de vaca
 - Caja Acero inoxidable, esfera Negro
+- Diámetro caja: 36mm
+- Resistente al agua: 30m
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

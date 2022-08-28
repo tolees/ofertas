@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricante Code: 51509
-- Cierre: Sin Cordones
-- Ajuste Ancho: Estándar
 - Empeines: Malla Textil
+- Cierre: Sin Cordones
 - Forro: Textil
+- Ajuste Ancho: Estándar
+- Fabricante Code: 51509
 
 [🛒 Comprar!!!]({{< param buyurl >}})
