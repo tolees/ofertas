@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Winning Moves-20009004134 IT Juegos DE Mesa  Color no Aplica  único  20009000003 '
-date: 2022-08-27 12:36:17
+date: 2022-08-28 15:49:52
 image: 'https://m.media-amazon.com/images/I/41CnpC6h56L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Winning Moves'
 buyurl: 'https://www.amazon.es/dp/B08DR94HZB/?tag=tolees-21'
 descuento: '65.46'
-average: '20.0596428571428'
+average: '19.8437931034482'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

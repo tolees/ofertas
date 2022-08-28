@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Super Gel Esmalte de Uñas Tono 54  12 ml'
-date: 2022-08-17 04:00:57
+date: 2022-08-28 14:30:43
 image: 'https://m.media-amazon.com/images/I/31NBJmSoQpS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se desmaquilla con un quitaesmalte con acetona
-- Esmalte de uñas de acabado gel
-- Aplicar 2 capas de color de Super Gel, seguido de la capa de Super Gel Top Coat para un acabado perfecto
-- Sistema de gel color patentado en dos pasos
-- Hasta 14 días de duración
-- Secado luz ambiental, no se precisa de lámpara de luz UV
+- Gel power goes French
+- Volume: 12ml (0.4 FL oz.)
+- Removes easily with regular nail polish remover without drying out your nails.
+- 4 simple steps to gel nails
+- No UV lamp needed
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

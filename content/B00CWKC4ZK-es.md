@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pattex Nural 34  masilla reconstructora de metales  color gris  50gr'
-date: 2022-08-26 17:17:52
+date: 2022-08-28 15:11:00
 image: 'https://m.media-amazon.com/images/I/41uquyh8c8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pattex'
 buyurl: 'https://www.amazon.es/dp/B00CWKC4ZK/?tag=tolees-21'
 descuento: '39.93'
-average: '5.425'
+average: '5.42'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistencia a tracción por cizalla (según norma EN 1465): 50 kg/cm2 (24 horas, 23ºC, acero)
-- De color gris
-- Resistencia a líquidos: resistente al agua, al aceite y a los disolventes usuales. También resiste a los ácidos y álcalis diluidos
 - Resistencia a la temperatura: desde -30ºC hasta +150ºC
+- Resistencia a tracción por cizalla (según norma EN 1465): 50 kg/cm2 (24 horas, 23ºC, acero)
 - No contiene disolventes y no altera su volumen al endurecer
+- Resistencia a líquidos: resistente al agua, al aceite y a los disolventes usuales. También resiste a los ácidos y álcalis diluidos
+- De color gris
 
 [🛒 Comprar!!!]({{< param buyurl >}})
