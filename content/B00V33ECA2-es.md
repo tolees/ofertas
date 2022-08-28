@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las capas se pueden construir sin aglomeración
+- Tiene una fórmula de tinta líquida, con un bajo recuento de cera
 - Las cerdas internas captan las más pequeñas pestañas
 - Las cerdas exteriores definen el aspecto de las pestañas largas
-- Tiene una fórmula de tinta líquida, con un bajo recuento de cera
+- Las capas se pueden construir sin aglomeración
 
 [🛒 Visítala!!!]({{< param buyurl >}})
