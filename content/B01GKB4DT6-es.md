@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vida útil de hasta: 30 000 horas
-- Cabezal de foco ajustable, compatible con la mayoría de los reguladores
 - Perfecta para relajarse y socializar
 - Fácil instalación en 4 pasos, sistema Click!FIX
 - Diseñada especialmente para salón y dormitorio
+- Vida útil de hasta: 30 000 horas
+- Cabezal de foco ajustable, compatible con la mayoría de los reguladores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
