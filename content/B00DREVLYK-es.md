@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con unas dimensiones de 27 x 40 x 100 mm
+- Autoadhesivo y giratorio
 - Tapa tu puerta de balanceo cerrado
 - Hecho en material de plástico transparente
-- Autoadhesivo y giratorio
-- Con unas dimensiones de 27 x 40 x 100 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
