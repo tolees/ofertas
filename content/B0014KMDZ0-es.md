@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY 66-344M - Destornillador 4 en 1'
-date: 2022-08-28 07:35:25
+date: 2022-08-29 07:42:25
 image: 'https://m.media-amazon.com/images/I/31Vm12fFyyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B0014KMDZ0/?tag=tolees-21'
 descuento: '42.69'
-average: '4.98538461538462'
+average: '4.86714285714286'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de material: plástico
-- Fuente de alimentación: eléctrica sin cable
 - Tiene un diseño ergonómico para ofrecer una precisión adecuada
+- Fuente de alimentación: eléctrica sin cable
+- Tipo de material: plástico
 - Sistema de medida: inch
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
