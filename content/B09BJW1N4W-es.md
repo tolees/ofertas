@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Basic
-- Polo manga corta
 - Algodón
+- Polo manga corta
+- Basic
 
 [🛒 Comprar!!!]({{< param buyurl >}})
