@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material externo: piel
 - Material interno: piel
+- Material externo: piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

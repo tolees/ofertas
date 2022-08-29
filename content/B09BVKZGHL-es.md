@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Da rienda suelta a tu teléfono con Ready For. Conéctate de forma inalámbrica a un televisor para jugar a juegos para móvil, hacer videollamadas y utilizar las aplicaciones del teléfono en una gran pantalla.
-- Tipo de conector: USB tipo C; Tamaño de pantalla: 6.7 inches; Tecnología de comunicación inalámbrica: Celular
-- Rendimiento 5G superrápido y revolucionario. Siente la potencia con las velocidades de datos más rápidas y la plataforma móvil Qualcomm Snapdragon 870.
-- Selfies de 32 MP de alta resolución. Saca siempre tu mejor versión con la máxima luminosidad, incluso de noche, con una sensibilidad a la luz 4 veces mayor.
 - Diseño elegante y moderno. Destaca gracias a sus menos de 8 mm de grosor con un diseño elegantemente curvado y un acabado mate de gran calidad.
 - 108 MP + superzoom de 50 aumentos. Captura el momento con cualquier luz con la tecnología Ultra Pixel y graba vídeos en 8K (o haz fotos increíblemente definidas desde lejos).
-- Más de 30 horas de batería. Disfruta de una batería de 4500 mAh de larga duración y obtén nueve horas de energía en tan solo 10 minutos con la carga TurboPower de 30 vatios.
+- Tipo de conector: USB tipo C; Tamaño de pantalla: 6.7 inches; Tecnología de comunicación inalámbrica: Celular
 - Pantalla ultrafluida de 144 Hz. Disfruta de mil millones de tonos de color en una pantalla OLED de 6,7" con HDR10+ con la velocidad de actualización más rápida en un smartphone.
+- Más de 30 horas de batería. Disfruta de una batería de 4500 mAh de larga duración y obtén nueve horas de energía en tan solo 10 minutos con la carga TurboPower de 30 vatios.
+- Selfies de 32 MP de alta resolución. Saca siempre tu mejor versión con la máxima luminosidad, incluso de noche, con una sensibilidad a la luz 4 veces mayor.
+- Rendimiento 5G superrápido y revolucionario. Siente la potencia con las velocidades de datos más rápidas y la plataforma móvil Qualcomm Snapdragon 870.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KangaROOS K-EVA Uno  Zapatillas Mujer  White Cream White  41 EU'
-date: 2022-08-26 19:41:20
+date: 2022-08-29 11:15:43
 image: 'https://m.media-amazon.com/images/I/31MtEbZGBuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

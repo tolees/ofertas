@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Material ligero – Estas flexibles mallas cortas han sido confeccionadas con el ligero tejido HeatGear, que ofrece la máxima protección.
 - Cómodo – Por su corte de compresión, el pantalón corto se ajusta como una segunda piel, y su tejido elástico multidireccional aporta mucha movilidad.
-- Más confort – Estas mallas ajustadas tienen unas suaves costuras planas y una cinturilla elástica media que proporciona un ajuste cómodo y sin roces.
 - Antiolor – Las mallas deportivas de compresión alejan el sudor del cuerpo y se secan rápido. La tecnología antiolor evita microbios y malos olores.
 - Material y forma – Mallas de mujer Under Armour HG Armour Mid Rise, mallas ligeras, forma: compresión, entrepierna: 7,6 cm, material: 87% de poliéster/13% de elastano
+- Más confort – Estas mallas ajustadas tienen unas suaves costuras planas y una cinturilla elástica media que proporciona un ajuste cómodo y sin roces.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
