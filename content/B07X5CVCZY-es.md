@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100 % aptas para veganos, sin lactosa, gluten ni OMG
-- Se elaboran siguiendo los más rigurosos estándares de calidad y buenas prácticas de fabricación; además, cuentan con el certificado de la norma de seguridad alimentaria IFS Food 6.1
+- Mezcla de las ocho vitaminas B para una salud de hierro
 - Dosis para 6 meses: 1 pastilla al día durante 180 días
 - Cada pastilla contiene: B6 (4,2 mg), B12 (7,5 mcg), B1 (3,3 mg), B2 (4,2 mg), biotina (150 mcg), ácido fólico (600 mcg), ácido pantoténico (18 mg) y niacina (48 mg)
-- Mezcla de las ocho vitaminas B para una salud de hierro
+- Se elaboran siguiendo los más rigurosos estándares de calidad y buenas prácticas de fabricación; además, cuentan con el certificado de la norma de seguridad alimentaria IFS Food 6.1
+- 100 % aptas para veganos, sin lactosa, gluten ni OMG
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
