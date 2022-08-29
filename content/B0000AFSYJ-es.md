@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse All Star Ox Canvas Zapatillas Azul Marino-UK 3'
-date: 2022-08-21 04:40:40
+date: 2022-08-29 04:46:42
 image: 'https://m.media-amazon.com/images/I/41PqOR+AMKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0000AFSYJ-es Converse All Star Ox Canvas Zapatillas Azul Marino-UK 3'
 sku: 'B0000AFSYJ-es'
 tags: [ 'Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','converse','🇪🇸', ]
-actualPrice: 39.0 EUR
+actualPrice: 35.99 EUR
 currency: EUR
-price: 39.0
+price: 35.99
 comparePrice: 64.95 EUR
 prodname: 'Converse All Star Ox Canvas Zapatillas Azul Marino-UK 3'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B0000AFSYJ/?tag=tolees-21'
-descuento: '39.95'
-average: '46.3113793103447'
+descuento: '44.59'
+average: '45.9673333333332'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
