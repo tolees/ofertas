@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Munich Dash  Zapatillas Unisex Adulto  White 127  39 EU'
-date: 2022-08-29 10:43:45
-image: 'https://m.media-amazon.com/images/I/31NZGlbwdZL._SL500_._SL400_.jpg'
+title: 'Munich Alpha  Zapatillas Unisex Adulto  Black 62  39 EU'
+date: 2022-08-29 09:15:07
+image: 'https://m.media-amazon.com/images/I/51QHpKOH2zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09GGX6X9N-es Munich Dash Zapatillas Unisex Adulto White 127 39 EU'
-sku: 'B09GGX6X9N-es'
+slug: 'B09GHFBZ29-es Munich Alpha Zapatillas Unisex Adulto Black 62 39 EU'
+sku: 'B09GHFBZ29-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','munich','🇪🇸', ]
-actualPrice: 34.47 EUR
+actualPrice: 33.44 EUR
 currency: EUR
-price: 34.47
-comparePrice: 68.0 EUR
-prodname: 'Munich Dash  Zapatillas Unisex Adulto  White 127  39 EU'
+price: 33.44
+comparePrice: 100.0 EUR
+prodname: 'Munich Alpha  Zapatillas Unisex Adulto  Black 62  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Munich'
-buyurl: 'https://www.amazon.es/dp/B09GGX6X9N/?tag=tolees-21'
-descuento: '49.31'
-average: '38.61'
+buyurl: 'https://www.amazon.es/dp/B09GHFBZ29/?tag=tolees-21'
+descuento: '66.56'
+average: '33.44'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

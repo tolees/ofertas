@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Munich Alpha  Zapatillas Unisex Adulto  White 61  39 EU'
-date: 2022-08-29 10:00:28
-image: 'https://m.media-amazon.com/images/I/315q87BJQWL._SL500_._SL400_.jpg'
+title: 'Munich Alpha  Zapatillas Unisex Adulto  Blue 66  42 EU'
+date: 2022-08-29 10:29:58
+image: 'https://m.media-amazon.com/images/I/41MnIz16DFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09GH6Q342-es Munich Alpha Zapatillas Unisex Adulto White 61 39 EU'
-sku: 'B09GH6Q342-es'
+slug: 'B09GH2X37Y-es Munich Alpha Zapatillas Unisex Adulto Blue 66 42 EU'
+sku: 'B09GH2X37Y-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','munich','🇪🇸', ]
-actualPrice: 29.75 EUR
+actualPrice: 41.72 EUR
 currency: EUR
-price: 29.75
+price: 41.72
 comparePrice: 100.0 EUR
-prodname: 'Munich Alpha  Zapatillas Unisex Adulto  White 61  39 EU'
+prodname: 'Munich Alpha  Zapatillas Unisex Adulto  Blue 66  42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Munich'
-buyurl: 'https://www.amazon.es/dp/B09GH6Q342/?tag=tolees-21'
-descuento: '70.25'
-average: '42.1212500000001'
+buyurl: 'https://www.amazon.es/dp/B09GH2X37Y/?tag=tolees-21'
+descuento: '58.28'
+average: '41.72'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
