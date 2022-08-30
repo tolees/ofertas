@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Winning Moves-20009004134 IT Juegos DE Mesa  Color no Aplica  único  20009000003 '
-date: 2022-08-28 15:49:52
+date: 2022-08-30 06:13:50
 image: 'https://m.media-amazon.com/images/I/41CnpC6h56L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08DR94HZB-es Winning Moves-20009004134 IT Juegos DE Mesa Color no...'
 sku: 'B08DR94HZB-es'
 tags: [ 'Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','winning moves','🇪🇸', ]
-actualPrice: 13.8 EUR
+actualPrice: 12.99 EUR
 currency: EUR
-price: 13.8
+price: 12.99
 comparePrice: 39.95 EUR
 prodname: 'Winning Moves-20009004134 IT Juegos DE Mesa  Color no Aplica  único  20009000003 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Winning Moves'
 buyurl: 'https://www.amazon.es/dp/B08DR94HZB/?tag=tolees-21'
-descuento: '65.46'
-average: '19.8437931034482'
+descuento: '67.48'
+average: '19.6153333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
