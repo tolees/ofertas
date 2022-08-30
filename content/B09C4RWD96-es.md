@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids LVG SHORT SLEEVE GRAPHIC TEE S niñas 2-8 años'
-date: 2022-08-21 18:46:25
+date: 2022-08-30 09:49:18
 image: 'https://m.media-amazon.com/images/I/115QF1lOmfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de jersey suave para sentirse agradable y acogedor
-- Logotipo de Levis en el pecho
 - Mangas cortas y cuello redondo
+- Logotipo de Levis en el pecho
+- Hecho de jersey suave para sentirse agradable y acogedor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

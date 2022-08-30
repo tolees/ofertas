@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hummel Thor Zapatillas  Unisex Adulto  Black Iris  41 EU'
-date: 2022-08-29 07:44:52
+date: 2022-08-30 09:48:36
 image: 'https://m.media-amazon.com/images/I/41bo5NW0FDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'hummel'
 buyurl: 'https://www.amazon.es/dp/B08CXKDHHX/?tag=tolees-21'
 descuento: '61.26'
-average: '25.555'
+average: '25.4233333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Material exterior: mesh / suede
 - Cierre: cordones
-- Suela: goma
 - Material interior: sintético
+- Suela: goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
