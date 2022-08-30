@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750 Cotu Classic Zapatillas Unisex Adulto  Verde  Mint   50 EU'
-date: 2022-08-28 20:05:25
+date: 2022-08-30 04:12:27
 image: 'https://m.media-amazon.com/images/I/41fCFNAGxML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01MCTH204-es Superga 2750 Cotu Classic Zapatillas Unisex Adulto Verde...'
 sku: 'B01MCTH204-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas casual para mujer','Zapatillas y calzado deportivo para hombre','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','superga','🇪🇸', ]
-actualPrice: 35.86 EUR
+actualPrice: 35.88 EUR
 currency: EUR
-price: 35.86
+price: 35.88
 comparePrice: 59.0 EUR
 prodname: 'Superga 2750 Cotu Classic Zapatillas Unisex Adulto  Verde  Mint   50 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B01MCTH204/?tag=tolees-21'
-descuento: '39.22'
-average: '37.2242857142856'
+descuento: '39.19'
+average: '37.1346666666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
