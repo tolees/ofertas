@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mangas cortas y cuello redondo
-- Logotipo de Levis en el pecho
 - Hecho de jersey suave para sentirse agradable y acogedor
+- Logotipo de Levis en el pecho
+- Mangas cortas y cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
