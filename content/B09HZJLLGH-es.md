@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Parte superior de adidas PRIMEKNIT
 - Ajuste regular
 - Cordones
-- Parte superior de adidas PRIMEKNIT
 
 [🛒 Comprar!!!]({{< param buyurl >}})

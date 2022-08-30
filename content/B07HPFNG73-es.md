@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Perforaciones para mayor transpirabilidad
 - Caña acolchada para mayor comodidad
 - Suela extraíble para un cambio individual de la plantilla
-- Perforaciones para mayor transpirabilidad
-- Goma elástica para ponérselo y quitárselo fácilmente
 - Talón reforzado para un buen agarre
+- Goma elástica para ponérselo y quitárselo fácilmente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

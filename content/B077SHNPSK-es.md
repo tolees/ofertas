@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Puños y dobladillos elásticos
 - Bolsillo delantero con acceso a bolsillo en la costura
 - Capucha con cordones
 - Felino de PUMA bordado en la parte derecha del pecho
-- Puños y dobladillos elásticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

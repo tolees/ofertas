@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CÓMO APLICARLO: Aplicar cada noche sobre todo el rostro, cuello y escote, con suaves masajes ascendentes, hasta su completa absorción. Recuerda complementar tu tratamiento con la crema de día, el Fluido solar SPF50+ y el Gel Exfoliante Aclarante.
+- EFICACIA: Marca cosmética 100% especializada en anti-manchas blancas y oscuras, cremas antiedad, despigmentantes y productos para pigmentar la piel en caso de hipopigmentación. Todos nuestros productos de Bella Aurora se han testado dermatológica y oftalmológicamente y han demostrado su eficacia bajo estudio multi-étnico.
 - ANTI-MANCHAS: Previene manchas, mitiga rojeces, calma, estimula la recuperación del tono y la luminosidad natural, para que la piel amanezca lisa, uniforme y luminosa, el cutis esté fresco y sin rastro de cansancio
 - ANTI-FATIGA: La piel estresada recupera su equilibrio, las defensas naturales se refuerzan y aumentan los niveles de energía celular para que, por la mañana, los rasgos de fatiga hayan desaparecido
+- CÓMO APLICARLO: Aplicar cada noche sobre todo el rostro, cuello y escote, con suaves masajes ascendentes, hasta su completa absorción. Recuerda complementar tu tratamiento con la crema de día, el Fluido solar SPF50+ y el Gel Exfoliante Aclarante.
 - La crema de noche Nigh Solution está formulada con una combinación de activos que proporciona una hidratación instantánea, nutre la piel, reduce arrugas y líneas de expresión y reafirma y mejora la elasticidad de la piel. Pensada para pieles que necesitan un tratamiento reparador de noche y para pieles con necesidad de nutrición.
-- EFICACIA: Marca cosmética 100% especializada en anti-manchas blancas y oscuras, cremas antiedad, despigmentantes y productos para pigmentar la piel en caso de hipopigmentación. Todos nuestros productos de Bella Aurora se han testado dermatológica y oftalmológicamente y han demostrado su eficacia bajo estudio multi-étnico.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

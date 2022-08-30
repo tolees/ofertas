@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Algodón BCI
-- Logo Desigual en el pecho y mensaje Life is awesome en la espalda
+- Full-print fotográfico también en la espalda
 - Camiseta surf
 - Sostenible: algodón BCI
-- Full-print fotográfico también en la espalda
+- Algodón BCI
+- Logo Desigual en el pecho y mensaje Life is awesome en la espalda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

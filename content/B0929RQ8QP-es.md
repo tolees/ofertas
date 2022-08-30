@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% algodón
-- Lavar a mano solamente
 - Cierre: cremallera
+- 100% algodón
 - Mango largo
+- Lavar a mano solamente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
