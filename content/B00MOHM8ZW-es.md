@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Libreta con luz retractilada
 - Con la imagen del Anillo
+- Libreta con luz retractilada
 - Ideal para los coleccionistas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

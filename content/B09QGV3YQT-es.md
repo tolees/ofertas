@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño elegante
 - Materiales de muy alta calidad
 - Marca: Tuc Tuc
+- Diseño elegante
 - VESTIDO PUNTO FLORES NIÑA BLANCO READY TO BLOOM
 
 [🛒 Aquí!!!]({{< param buyurl >}})

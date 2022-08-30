@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Advantage  Tennis Shoe Hombre  Core Black/Core Black/Cloud White  41 1/3 EU'
-date: 2022-08-29 14:30:08
+date: 2022-08-30 18:21:36
 image: 'https://m.media-amazon.com/images/I/314ZEIPx2FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B09HZ65Y9T/?tag=tolees-21'
 descuento: '66.67'
-average: '28.665'
+average: '27.4433333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de cuero sintético
 - Ajuste regular
 - Cordones
+- Parte superior de cuero sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

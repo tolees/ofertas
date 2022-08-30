@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinturilla regular
-- Bragueta de botones
-- Las perneras se estrechan en la rodilla
 - Corte recto
+- Bragueta de botones
+- Cinturilla regular
+- Las perneras se estrechan en la rodilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

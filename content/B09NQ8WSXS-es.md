@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido transpirable
 - Cintura alta elástica
-- Corte entallado
 - Amplia libertad de movimiento
+- Corte entallado
+- Tejido transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

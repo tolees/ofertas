@@ -29,13 +29,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Revestimiento: Sin forro
-- Anchura del zapato: Normal
-- Material de la suela: Goma
 - Material exterior: Goma
-- Tipo de tacón: Plano
-- Composición: Goma
-- 45/46 EU (43/44 Brazilian)
 - Altura del tacón: 2 centímetros
+- Anchura del zapato: Normal
+- 45/46 EU (43/44 Brazilian)
+- Composición: Goma
+- Material de la suela: Goma
+- Tipo de tacón: Plano
 - Cierre: Sin cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
