@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Originals Superstar  Zapatillas Deportivas Hombre  Core Black/Footwear White/Core Black  42 EU'
-date: 2022-08-18 09:52:14
+date: 2022-08-30 20:22:55
 image: 'https://m.media-amazon.com/images/I/41r2YC4jIfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B0813VQZRM/?tag=tolees-21'
 descuento: '40.95'
-average: '61.6011111111111'
+average: '61.936'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cordones de zapatos
 - Parte superior de cuero
 - Zapatilla clásica de cuero
-- Cordones de zapatos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
