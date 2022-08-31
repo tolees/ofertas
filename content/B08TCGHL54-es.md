@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de tacón: plano
-- Forro: piel
 - Parte superior: piel
+- Forro: piel
 - Material de la suela: elastómero termoplástico
+- Tipo de tacón: plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

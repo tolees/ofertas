@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: 50% poliéster, 50% algodón
-- Aspecto gráfico gracias al patrón diagonal
-- Corte regular para mayor comodidad
 - Detalle acanalado en el cuello
+- Composición: 50% poliéster, 50% algodón
+- Corte regular para mayor comodidad
+- Aspecto gráfico gracias al patrón diagonal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

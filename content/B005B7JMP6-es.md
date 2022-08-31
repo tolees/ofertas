@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta De Los Mejores Zapatos De La Marca: Camper
 - Si no sabes cuál es tu talla, te recomendamos: Selecciona tu talla habitual
-- Estación: Todo El Año
 - Composición Exterior: Nubuck
 - Composición Interior: Otros Materiales
+- Estación: Todo El Año
+- Disfruta De Los Mejores Zapatos De La Marca: Camper
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
