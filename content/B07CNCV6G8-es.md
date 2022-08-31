@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 10136/3'
-date: 2022-08-30 14:07:44
+date: 2022-08-31 21:19:24
 image: 'https://m.media-amazon.com/images/I/41edg81x5CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lotus'
 buyurl: 'https://www.amazon.es/dp/B07CNCV6G8/?tag=tolees-21'
 descuento: '42.15'
-average: '108.792'
+average: '106.738181818182'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
