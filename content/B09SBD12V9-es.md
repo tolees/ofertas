@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG SL4 - Barra de sonido con 300W de potencia y 2.1 canales  Sonido Dolby Digital  DTS Digital Surround  Bluetooth  USB y entrada óptica'
-date: 2022-08-29 09:58:54
+date: 2022-08-31 14:28:56
 image: 'https://m.media-amazon.com/images/I/11H++AviydL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B09SBD12V9/?tag=tolees-21'
 descuento: '44.90'
-average: '140.876'
+average: '135.671666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Entrada óptica
-- Bluetooth y USB
-- Digital Surround DTS
 - Dolby Digital
+- Digital Surround DTS
 - 300W de potencia 2.1 canales
+- Bluetooth y USB
+- Entrada óptica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
