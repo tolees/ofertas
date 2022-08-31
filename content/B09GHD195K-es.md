@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Munich Versus  Zapatillas Unisex Adulto  Blanco 17  37 EU'
-date: 2022-08-28 12:29:09
+date: 2022-08-31 09:56:21
 image: 'https://m.media-amazon.com/images/I/41-knBrM+DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09GHD195K-es Munich Versus Zapatillas Unisex Adulto Blanco 17 37 EU'
 sku: 'B09GHD195K-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','munich','🇪🇸', ]
-actualPrice: 33.08 EUR
+actualPrice: 31.08 EUR
 currency: EUR
-price: 33.08
+price: 31.08
 comparePrice: 73.5 EUR
 prodname: 'Munich Versus  Zapatillas Unisex Adulto  Blanco 17  37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B09GHD195K/?tag=tolees-21'
-descuento: '54.99'
-average: '33.69'
+descuento: '57.71'
+average: '32.82'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
