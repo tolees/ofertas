@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste DH2881 Polo  Negro  Black/Black   S para Hombre'
-date: 2022-08-20 20:54:27
+date: 2022-08-31 03:10:50
 image: 'https://m.media-amazon.com/images/I/31LMfJySekL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tira abotonada de tafetán diamantado
-- Otomán de mezcla de algodón
 - Polo de hombre Lacoste SPORT en otomán de mezcla de algodón
+- Otomán de mezcla de algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

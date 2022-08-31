@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Nature Three  Zapatos para Hombre  Navy Nubuck  39.5 EU'
-date: 2022-08-19 03:05:37
+date: 2022-08-31 02:52:15
 image: 'https://m.media-amazon.com/images/I/41ywUe4Od8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B08Q4BZP2W/?tag=tolees-21'
 descuento: '50.00'
-average: '53.085'
+average: '55.468'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
