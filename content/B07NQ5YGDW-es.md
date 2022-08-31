@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'TP-Link UB400 Nano - Adaptador Bluetooth 4.0 USB Dongle para ordenador  portátil  auriculares  altavoz  teclado  compatible con Windows 10  8  8.1 7  XP  Vista  Color Negro'
-date: 2022-08-29 13:51:16
-image: 'https://m.media-amazon.com/images/I/31yGD86aGaL._SL500_._SL400_.jpg'
+date: 2022-08-31 00:37:48
+image: 'https://m.media-amazon.com/images/I/41-yq-gC6uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07NQ5YGDW/?tag=tolees-21'
 descuento: '54.03'
-average: '10.2387652811749'
+average: '10.2360195360208'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

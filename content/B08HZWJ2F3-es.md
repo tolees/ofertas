@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Max Factor Colour Elixir Soft Matte - Barra de labios tono 15'
-date: 2022-08-29 07:21:58
+date: 2022-08-31 00:44:31
 image: 'https://m.media-amazon.com/images/I/21Jk4RK2v6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Max Factor'
 buyurl: 'https://www.amazon.es/dp/B08HZWJ2F3/?tag=tolees-21'
 descuento: '74.77'
-average: '4.04857142857143'
+average: '4.0875'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuida tus labios y los hidrata
+- Contiene escolano, vitaminas A,E y C, y proteínas de seda
+- Sensación ligera, como si no llevaras nada
 - Color impactante
 - Fórmula única con pigmentos finos y tecnología Flex
-- Sensación ligera, como si no llevaras nada
-- Contiene escolano, vitaminas A,E y C, y proteínas de seda
 
 [🛒 Aquí!!!]({{< param buyurl >}})

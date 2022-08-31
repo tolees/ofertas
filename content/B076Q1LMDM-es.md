@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers ULTRA FLEX FIRST TAKE  Zapatillas sin cordones para Mujer  Black Knit Mesh / Trim  36.5 EU'
-date: 2022-08-21 01:07:08
+date: 2022-08-31 01:15:20
 image: 'https://m.media-amazon.com/images/I/41i6Ng9nLeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B076Q1LMDM/?tag=tolees-21'
 descuento: '35.40'
-average: '43.6511111111111'
+average: '43.482'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

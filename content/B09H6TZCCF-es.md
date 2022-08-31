@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas ENT22 Hoody Sweatshirt  Team Power Red 2  S Men s'
-date: 2022-08-29 21:22:17
+date: 2022-08-31 00:28:06
 image: 'https://m.media-amazon.com/images/I/3141ZUaX9XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre'
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0
-comparePrice: 40.0 EUR
+comparePrice: 39.99 EUR
 prodname: 'adidas ENT22 Hoody Sweatshirt  Team Power Red 2  S Men s'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B09H6TZCCF/?tag=tolees-21'
-descuento: '40.00'
-average: '29.9925'
+descuento: '39.98'
+average: '29.3266666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
