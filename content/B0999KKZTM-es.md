@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gioseppo PLANIGA  Zapatillas Mujer  Multicolor  40 EU'
-date: 2022-08-21 14:09:38
+date: 2022-08-31 12:57:57
 image: 'https://m.media-amazon.com/images/I/413jP1eDOwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GIOSEPPO'
 buyurl: 'https://www.amazon.es/dp/B0999KKZTM/?tag=tolees-21'
 descuento: '37.56'
-average: '46.31'
+average: '45.4333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
