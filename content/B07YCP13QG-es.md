@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseño tradicional de 5 bolsillos
-- Cintura ajustable
 - El ajuste ajustado que conoces y amas, impregnado con elasticidad para libertad de movimiento y juego
+- Cintura ajustable
 - Cierre de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
