@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Light Crew 3PP Calcetines  Unisex Adulto  Medium Grey Heather/White/Black  XL'
-date: 2022-08-28 07:42:39
+date: 2022-09-01 16:55:03
 image: 'https://m.media-amazon.com/images/I/41oQVNR8oQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación específica
 - Tela suave
 - Diseño ligero que se adapta a la forma del pie
+- Amortiguación específica
 - Pack de tres pares
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

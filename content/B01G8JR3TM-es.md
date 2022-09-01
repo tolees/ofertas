@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic ER-GC71 - Cortador de barba / cabello con 39 configuraciones de longitud  para hombres  peinado y cuidado para cabello y barba'
-date: 2022-08-31 12:28:48
+date: 2022-09-01 15:31:46
 image: 'https://m.media-amazon.com/images/I/41gOlKfrsJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01G8JR3TM-es Panasonic ER-GC71 - Cortador de barba / cabello con 39...'
 sku: 'B01G8JR3TM-es'
 tags: [ 'Belleza','Cortapelos y accesorios','Cortapelos y barberos','Cuidado del cabello','Utensilios para corte de pelo','panasonic','🇪🇸', ]
-actualPrice: 22.99 EUR
+actualPrice: 30.99 EUR
 currency: EUR
-price: 22.99
-comparePrice: 37.99 EUR
+price: 30.99
+comparePrice: 65.0 EUR
 prodname: 'Panasonic ER-GC71 - Cortador de barba / cabello con 39 configuraciones de longitud  para hombres  peinado y cuidado para cabello y barba'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Panasonic'
 buyurl: 'https://www.amazon.es/dp/B01G8JR3TM/?tag=tolees-21'
-descuento: '39.48'
-average: '39.6018750000001'
+descuento: '52.32'
+average: '39.0952941176471'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

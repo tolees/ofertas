@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Springfield Top Algodón Botones para Mujer  Beige/Camel  M'
-date: 2022-08-30 14:50:26
+date: 2022-09-01 15:26:14
 image: 'https://m.media-amazon.com/images/I/41oTtwi1T8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Algodón
 - Botones
 - RECONSIDER - BCI
 - Top
-- Algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
