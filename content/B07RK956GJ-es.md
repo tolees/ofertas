@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garmin Forerunner 245 - Reloj con GPS para running con funciones de entrenamiento  burdeos'
-date: 2022-08-26 10:29:56
+date: 2022-09-01 06:28:09
 image: 'https://m.media-amazon.com/images/I/31ihQqJVZXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07RK956GJ-es Garmin Forerunner 245 - Reloj con GPS para running con...'
 sku: 'B07RK956GJ-es'
 tags: [ 'Deportes y aire libre','Dispositivos GPS deportivos','Electrónica y dispositivos para el deporte','GPS para carrera','garmin','🇪🇸', ]
-actualPrice: 166.92 EUR
+actualPrice: 164.31 EUR
 currency: EUR
-price: 166.92
+price: 164.31
 comparePrice: 299.99 EUR
 prodname: 'Garmin Forerunner 245 - Reloj con GPS para running con funciones de entrenamiento  burdeos'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Garmin'
 buyurl: 'https://www.amazon.es/dp/B07RK956GJ/?tag=tolees-21'
-descuento: '44.36'
-average: '222.291212121211'
+descuento: '45.23'
+average: '220.58588235294'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Garmin Coach ofrece orientación de expertos entrenadores y planes de entrenamiento que se adaptan a ti y a tus objetivos; las sesiones de entrenamiento se sincronizan con el reloj
+- El estado de entrenamiento evalúa tu historial reciente para ver si tu entreno es productivo, si has llegado a tu pico de forma o si estás realizando un sobreesfuerzo; incluye VO2 max. y pulsioxímetro
+- Hasta 7 días de autonomía en modo smartwatch y hasta 24 horas en modo GPS; tiene integrados los sensores GPS, GLONASS y Galileo; brújula, sensor de frecuencia cardíaca en la muñeca, acelerómetro y aclimatación por pulsioximetría
 - Aplicaciones deportivas integradas; cambia de sesión de entrenamiento con los perfiles para ciclismo, natación en piscina, carrera en pista, elíptica, escalada y muchos más
 - Comprueba cómo influyen tus entrenos en el desarrollo de la resistencia, la velocidad y la potencia con información de Training Effect aeróbico y anaeróbico; consulta la carga de entrenamiento de los últimos 7 días y tus niveles de energía con Body Battery
-- Garmin Coach ofrece orientación de expertos entrenadores y planes de entrenamiento que se adaptan a ti y a tus objetivos; las sesiones de entrenamiento se sincronizan con el reloj
-- Hasta 7 días de autonomía en modo smartwatch y hasta 24 horas en modo GPS; tiene integrados los sensores GPS, GLONASS y Galileo; brújula, sensor de frecuencia cardíaca en la muñeca, acelerómetro y aclimatación por pulsioximetría
-- El estado de entrenamiento evalúa tu historial reciente para ver si tu entreno es productivo, si has llegado a tu pico de forma o si estás realizando un sobreesfuerzo; incluye VO2 max. y pulsioxímetro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
