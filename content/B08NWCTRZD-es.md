@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sharp 32CB6E - TV 32 pulgadas 32"  resolución 1368 x 720  3X HDMI  2X USB  Color Negro'
-date: 2022-08-31 13:34:17
+date: 2022-09-01 17:38:10
 image: 'https://m.media-amazon.com/images/I/51AmCNAu-zS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sharp'
 buyurl: 'https://www.amazon.es/dp/B08NWCTRZD/?tag=tolees-21'
 descuento: '37.78'
-average: '177.318181818182'
+average: '174.2075'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

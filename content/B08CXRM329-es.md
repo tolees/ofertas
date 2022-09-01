@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela: goma
-- Material interior: sintético
-- Material exterior: mesh / suede
 - Cierre: cordones
+- Suela: goma
+- Material exterior: mesh / suede
+- Material interior: sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
