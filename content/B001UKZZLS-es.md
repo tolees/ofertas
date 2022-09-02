@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Vans U Old Skool - Zapatillas  Unisex Adulto  Negro  Nero  Schwarz/Black/Black    35'
-date: 2022-08-27 11:29:24
+title: 'Vans Ua Old Skool  Zapatillas Hombre  Negro  35 EU'
+date: 2022-09-02 11:25:21
 image: 'https://m.media-amazon.com/images/I/41avLoi1UxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B001UKZZLS-es Vans U Old Skool - Zapatillas Unisex Adulto Negro Nero...'
+slug: 'B001UKZZLS-es Vans Ua Old Skool Zapatillas Hombre Negro 35 EU'
 sku: 'B001UKZZLS-es'
 tags: [ 'Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','vans','🇪🇸', ]
-actualPrice: 43.15 EUR
+actualPrice: 38.05 EUR
 currency: EUR
-price: 43.15
+price: 38.05
 comparePrice: 75.0 EUR
-prodname: 'Vans U Old Skool - Zapatillas  Unisex Adulto  Negro  Nero  Schwarz/Black/Black    35'
+prodname: 'Vans Ua Old Skool  Zapatillas Hombre  Negro  35 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B001UKZZLS/?tag=tolees-21'
-descuento: '42.47'
-average: '47.18'
+descuento: '49.27'
+average: '46.5713333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela waffle para un agarre más firme
-- Puntera reforzada
 - Parte superior de lona resistente
+- Puntera reforzada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
