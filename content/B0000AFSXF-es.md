@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse All Star Ox Canvas Zapatillas Negras-UK 5'
-date: 2022-08-20 04:52:13
+date: 2022-09-02 06:57:26
 image: 'https://m.media-amazon.com/images/I/41vZWykDWBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B0000AFSXF/?tag=tolees-21'
 descuento: '38.41'
-average: '43.3036'
+average: '43.1765384615385'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
