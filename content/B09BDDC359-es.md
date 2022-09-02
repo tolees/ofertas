@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Napapjiri Rainforest Winter 2 Jacket  Blue French  M Mens'
-date: 2022-08-27 17:19:53
+date: 2022-09-02 21:45:31
 image: 'https://m.media-amazon.com/images/I/4107DsIioxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela otomana de poliéster totalmente impresa
-- Tipo de tejido: knit
 - Chaqueta anorak impermeable
+- Tipo de tejido: knit
+- Tela otomana de poliéster totalmente impresa
 - Capucha con sistema de regulación de última generación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
