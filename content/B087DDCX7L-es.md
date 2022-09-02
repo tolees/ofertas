@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diseño deslizante
-- Ajuste regular
 - Parte superior sintética
+- Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

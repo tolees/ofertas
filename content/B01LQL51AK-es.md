@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo chibi
-- Hucha
 - Licencia oficial
+- Estilo chibi
 - Dragon ball
+- Hucha
 - Material resistente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
