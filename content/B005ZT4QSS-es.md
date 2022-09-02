@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Eros Aqua es un lubricante de calidad médica a base de agua
-- Dermatológicamente comprobado
-- Permanece en la piel por mucho tiempo sin un ser pegajoso
-- Sin aceites y perfume, sin olor
 - Seguro con condones de látex
+- Permanece en la piel por mucho tiempo sin un ser pegajoso
+- Dermatológicamente comprobado
+- Sin aceites y perfume, sin olor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
