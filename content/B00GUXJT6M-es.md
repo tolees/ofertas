@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Woodburn 2 Waterproof  Impermeable  Zapatos de Senderismo Bajos Hombre  Marrón  Cordovan x Cinnamon   43 EU'
-date: 2022-08-31 00:13:44
+date: 2022-09-02 18:02:30
 image: 'https://m.media-amazon.com/images/I/41Zdjm96bXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B00GUXJT6M/?tag=tolees-21'
 descuento: '47.50'
-average: '61.3236842105263'
+average: '61.145'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Membrana interior del botín impermeable y transpirable Omni-Tech
 - Caucho antimarcas con tracción sobre mojado Omni-Grip
+- Membrana interior del botín impermeable y transpirable Omni-Tech
 - Mediasuela Techlite, amortiguación superior, alto retorno de la energía
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

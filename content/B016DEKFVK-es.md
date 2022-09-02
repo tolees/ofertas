@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban Rb2140 Gafas de Sol  Black  50 Unisex-Adulto'
-date: 2022-09-01 09:48:08
+date: 2022-09-02 18:02:43
 image: 'https://m.media-amazon.com/images/I/210n8B58xYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B016DEKFVK/?tag=tolees-21'
 descuento: '39.81'
-average: '96.7428571428572'
+average: '96.4625'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
