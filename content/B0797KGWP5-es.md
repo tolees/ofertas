@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caja material/color: Acero inoxidable / Plateado
-- Correa material/color: Acero / Plateado
 - Diámetro caja: 36MM
 - Movimiento: Cuarzo / Display: Analogico
+- Correa material/color: Acero / Plateado
+- Caja material/color: Acero inoxidable / Plateado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

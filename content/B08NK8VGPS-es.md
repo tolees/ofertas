@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tarjeta terrestre no incluida en el paquete.
+- Ninguna fuente de alimentación
+- Para recibir la señal digital terrestre sin suscripción con el satélite
 - Existe una aplicación para controlar el decodificador a través del teléfono en lugar del control remoto gracias al wifi integrado.
 - Novedad: accede a la pay TV del digital terrestre
 - Muchos canales nacionales e internacionales sin suscripción mensual
-- Para recibir la señal digital terrestre sin suscripción con el satélite
 - Botón WPS para conexión rápida
-- Ninguna fuente de alimentación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
