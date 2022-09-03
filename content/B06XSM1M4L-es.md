@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER BDCDC18K-QW - Taladro atornillador 18V + BLACK+DECKER BL1518-XJ - Batería de litio 18 V  1.5 Ah'
-date: 2022-09-02 11:06:28
+date: 2022-09-03 14:11:39
 image: 'https://m.media-amazon.com/images/I/41eavig6eBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Batería no descargable, mantiene su 100%
-- Adecuado para todas las operaciones de atornillado y taladrado en madera y metal y disparador de velocidad variable para mayor control
 - Compacto y ligero, para mayor maniobrabilidad, revestimiento de agarre y un LED incorporado para una mejor visibilidad
+- Adecuado para todas las operaciones de atornillado y taladrado en madera y metal y disparador de velocidad variable para mayor control
+- Batería no descargable, mantiene su 100%
 - La batería de litio proporciona mayor autonomía y constancia
 
 [🛒 Comprar!!!]({{< param buyurl >}})

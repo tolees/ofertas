@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Techland - Dying Light 2 Stay Human'
-date: 2022-08-28 15:23:41
+date: 2022-09-03 13:36:02
 image: 'https://m.media-amazon.com/images/I/51uBkZWzM6S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B097YNSXRV-es Techland - Dying Light 2 Stay Human'
 sku: 'B097YNSXRV-es'
 tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Juguetes','Juguetes electrónicos','Juguetes y juegos','Videojuegos','Videojuegos para niños','techland','🇪🇸', ]
-actualPrice: 39.99 EUR
+actualPrice: 34.98 EUR
 currency: EUR
-price: 39.99
+price: 34.98
 comparePrice: 69.99 EUR
 prodname: 'Techland - Dying Light 2 Stay Human'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Techland'
 buyurl: 'https://www.amazon.es/dp/B097YNSXRV/?tag=tolees-21'
-descuento: '42.86'
-average: '51.8566666666666'
+descuento: '50.02'
+average: '50.8018749999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aventura en una moderna edad oscura: adéntrate en una ciudad en decadencia, donde la humanidad ha vuelto a una edad oscura y las facciones luchan por poder y recursos; el nuevo orden mundial es violento y primordial, al igual que los supervivientes
-- Conviértete en el óptimo nightrunner: muévete por el enorme mundo abierto con libertad usando parkour y domina el brutal combate en primera persona a medida que te conviertes en un Nightrunner de gran poder, influencia y respeto
-- Decide el destino de la ciudad: toma decisiones difíciles y enfrenta sus consecuencias mientras decides el destino de la humanidad al borde de la extinción; en cada paso del camino, tus acciones darán forma al mundo que te rodea a una gran escala
-- Únete a otros supervivientes en cooperativo: juega toda la campaña en modo cooperativo de hasta 4 jugadores; únete a las partidas de otras personas para ver cómo sus decisiones se han desarrollado y cómo han dado forma a un mundo diferente al tuyo
 - Contra la infección en evolución: sobrevive a feroces encuentros con monstruos generados por el virus; la luz del sol los mantiene a raya dejando solo a otros supervivientes con los que debes tener cuidado, pero las noches pertenecen a los infectados
+- Únete a otros supervivientes en cooperativo: juega toda la campaña en modo cooperativo de hasta 4 jugadores; únete a las partidas de otras personas para ver cómo sus decisiones se han desarrollado y cómo han dado forma a un mundo diferente al tuyo
+- Decide el destino de la ciudad: toma decisiones difíciles y enfrenta sus consecuencias mientras decides el destino de la humanidad al borde de la extinción; en cada paso del camino, tus acciones darán forma al mundo que te rodea a una gran escala
+- Conviértete en el óptimo nightrunner: muévete por el enorme mundo abierto con libertad usando parkour y domina el brutal combate en primera persona a medida que te conviertes en un Nightrunner de gran poder, influencia y respeto
+- Aventura en una moderna edad oscura: adéntrate en una ciudad en decadencia, donde la humanidad ha vuelto a una edad oscura y las facciones luchan por poder y recursos; el nuevo orden mundial es violento y primordial, al igual que los supervivientes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

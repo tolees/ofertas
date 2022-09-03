@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Placas keratin infusion y extralargas 25 x 105 mm
-- Calentamiento 30 segundos
-- Sensor unitempt para una temperatura mas constante
 - Control digital de la temperatura entre 130- 220
+- Sensor unitempt para una temperatura mas constante
+- Calentamiento 30 segundos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
