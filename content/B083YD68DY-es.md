@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Crossbody
-- Classics
 - Para mujer
+- Classics
+- Crossbody
 
 [🛒 Aquí!!!]({{< param buyurl >}})

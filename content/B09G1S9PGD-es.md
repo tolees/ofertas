@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Hemos apostado por hacer un producto lo más natural posible, de ahí que hayamos elegido Tasteva, unos glucósidos de esteviol extraídos directamente de las hojas de Estevia, como edulcorante
 - Mezclar 30 g de polvo en 200 ml de leche semidesnatada o de agua. Este producto promueve el bienestar animal, así como un desarrollo sostenible
-- También contiene enzima Lactasa, ingrediente encargado de romper el enlace que contiene la lactosa para hacer un producto lo más digestivo posible y apto para intolerantes a la lactosa
 - Las proteínas de lactosuero, Whey, tienen una alta solubilidad, aportando de manera casi inmediata aminoácidos utilizados por los músculos en los procesos de recuperación, mantenimiento o aumento de la masa muscular
 - Concentrado de proteína de suero de leche cruda, por lo que no lleva ningún tratamiento térmico, manteniendo intactos todos sus nutrientes. La leche procede de vacas que pastan en campos al aire libre de los Alpes Franceses. Weider es una compañía global pionera en nutrición deportiva y especializada con más de 83 años ofreciendo calidad e innovación
-- Hemos apostado por hacer un producto lo más natural posible, de ahí que hayamos elegido Tasteva, unos glucósidos de esteviol extraídos directamente de las hojas de Estevia, como edulcorante
+- También contiene enzima Lactasa, ingrediente encargado de romper el enlace que contiene la lactosa para hacer un producto lo más digestivo posible y apto para intolerantes a la lactosa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

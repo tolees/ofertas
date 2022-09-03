@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cierre: Ponerse
 - Material de la suela: Sintético
-- Material exterior: Sintético
 - Material interior: Sintético
 - Tipo de tacón: Plano
-- Cierre: Ponerse
+- Material exterior: Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
