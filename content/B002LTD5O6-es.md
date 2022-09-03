@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Superga 2750 Cotu Classic Zapatillas Unisex Adulto  Azul  Navy   43 EU'
-date: 2022-08-30 04:10:36
+title: 'Superga 2750-Cotu Classic  Zapatillas Unisex Adulto  Navy  43 EU'
+date: 2022-09-03 11:12:16
 image: 'https://m.media-amazon.com/images/I/313QhKdh-ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B002LTD5O6-es Superga 2750 Cotu Classic Zapatillas Unisex Adulto Azul...'
+slug: 'B002LTD5O6-es Superga 2750-Cotu Classic Zapatillas Unisex Adulto Navy 43 EU'
 sku: 'B002LTD5O6-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','superga','🇪🇸', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0
 comparePrice: 59.0 EUR
-prodname: 'Superga 2750 Cotu Classic Zapatillas Unisex Adulto  Azul  Navy   43 EU'
+prodname: 'Superga 2750-Cotu Classic  Zapatillas Unisex Adulto  Navy  43 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B002LTD5O6/?tag=tolees-21'
 descuento: '59.32'
-average: '31.8881818181818'
+average: '31.5452173913043'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Superga Zapato de moda
-- Goma vulcanizada
 - Zapato con cordones
 - Suela de lona
+- Goma vulcanizada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
