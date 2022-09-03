@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CONVERSE - Chucks All Star HI M9613 Maroon  Tamaño:53 EU'
-date: 2022-08-23 05:13:47
+date: 2022-09-03 05:41:21
 image: 'https://m.media-amazon.com/images/I/319SI1N2tAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B00T3ZCK1U/?tag=tolees-21'
 descuento: '40.01'
-average: '47.10125'
+average: '46.5333333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

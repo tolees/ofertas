@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sigma – Objetivo 45mm-F/2.8  C  AF DG DN E-MOUNT'
-date: 2022-08-29 10:28:33
+date: 2022-09-03 05:40:12
 image: 'https://m.media-amazon.com/images/I/41ehTwGBTFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Serie de ópticas de alto rendimiento recientemente desarrollada para cámara s sin espejo de formato completo
+- Con el sigma 45mm f2.8 dg dn contemporary el bokeh es especialmente destacado; la aberración esférica se ha controlado para asegurar que el bokeh de la parte delantera y trasera del sujeto -incluido el bokeh trasero más cercano al área de foco- creen un gradiente a un desenfoque suave
 - Alta calidad de construcción y operatividad excepcional
 - Diseñado para ser utilizado con cámara s sin espejo full-frame relativamente pequeñas, este objetivo estándar ofrece un fácil manejo conciliando un tamaño compacto y un alto rendimiento óptico
-- Con el sigma 45mm f2.8 dg dn contemporary el bokeh es especialmente destacado; la aberración esférica se ha controlado para asegurar que el bokeh de la parte delantera y trasera del sujeto -incluido el bokeh trasero más cercano al área de foco- creen un gradiente a un desenfoque suave
-- Serie de ópticas de alto rendimiento recientemente desarrollada para cámara s sin espejo de formato completo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
