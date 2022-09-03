@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas para soporte de pared VESA: 200x100 | Medidas con peana (An x Al x P en mm): 730,0 x 469,5 x 179,0 | Medidas sin peana (An x Al x P en mm): 730,0 x 435,1 x 83,5 | Peso 4,6kg
-- Conexiones: 3x hdmi, 2x usb
 - Sintonizador dvb-t/t2/c/s/s2 (mpeg4 + hevc/h.265)
-- Pantalla de diagonal 32" con resolución 1368 x 720
+- Medidas para soporte de pared VESA: 200x100 | Medidas con peana (An x Al x P en mm): 730,0 x 469,5 x 179,0 | Medidas sin peana (An x Al x P en mm): 730,0 x 435,1 x 83,5 | Peso 4,6kg
 - Sonido harman/kardon
+- Pantalla de diagonal 32" con resolución 1368 x 720
+- Conexiones: 3x hdmi, 2x usb
 
 [🛒 Aquí!!!]({{< param buyurl >}})
