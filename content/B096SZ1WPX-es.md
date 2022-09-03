@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bordado Fastlane
+- Tecnología de calor
+- Paneles de malla para mayor transpirabilidad
 - Cremallera completa
 - 180 g / m2 100% poliéster
-- Tecnología de calor
-- Bordado Fastlane
-- Paneles de malla para mayor transpirabilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

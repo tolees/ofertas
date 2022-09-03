@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 80% algodón / 20% poliéster
-- Puños y bajos de canalé
 - Gráficos serigrafiados
+- Puños y bajos de canalé
 - Tejido fleece cepillado ligero de 240 g / m2
+- 80% algodón / 20% poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})

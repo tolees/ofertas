@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ZTE Watch GT   AMOLED 1 39"; 16 Modos Deportivos  GPS  5 ATM  hasta 23 días de autonomía  Negro'
-date: 2022-08-30 08:31:57
+date: 2022-09-03 20:04:20
 image: 'https://m.media-amazon.com/images/I/41kVTHQh+xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla AMOLED HD 1,39"
 - Chip GPS con 3 modos
+- Pantalla AMOLED HD 1,39"
 - 16 Modos deportivos
 - Resistencia al agua 5 ATM
 - Autonomía hasta 23 días
