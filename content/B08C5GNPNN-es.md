@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: sintético
 - Cierre: eclosión
-- Suela: sintético
 - Material interior: sintético
+- Suela: sintético
+- Material exterior: sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
