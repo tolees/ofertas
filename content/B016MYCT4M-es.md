@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CABELLO FUERTE Y SANO: Esta mascarilla fortalecedora regenera el cabello desde el interior, con lo cual se repara el daño y se previenen las puntas abiertas y la rotura
-- HIDRATACIÓN INSTANTÁNEA: Devuelve la vida al cabello dañado con las inigualables propiedades nutritivas e hidratantes de la mascarilla acondicionadora intensiva de UniqOne
 - BRILLO INTENSO: Consigue un brillo intenso durante todo el día gracias al poder de esta mascarilla reparadora para desencrespar y acondicionar el cabello
 - APLICACIÓN FÁCIL: Entre una y dos veces por semana, aplica la mascarilla acondicionadora profunda sobre el cabello mojado y deja que se actúe durante tres minutos antes de aclarar abundantemente
+- HIDRATACIÓN INSTANTÁNEA: Devuelve la vida al cabello dañado con las inigualables propiedades nutritivas e hidratantes de la mascarilla acondicionadora intensiva de UniqOne
 - REVLON PROFESSIONAL: Descubre los tratamientos para el cabello de nuestra gama multibeneficios UniqOne y devuelve la vida a tu cabello dañado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

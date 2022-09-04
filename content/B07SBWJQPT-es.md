@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Smash V2 L  Zapatillas Unisex Adulto  Blanco White/High Risk Red Team Gold  36 EU'
-date: 2022-08-24 07:34:58
+date: 2022-09-04 14:02:09
 image: 'https://m.media-amazon.com/images/I/31E-st-92sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B07SBWJQPT/?tag=tolees-21'
 descuento: '45.97'
-average: '38.5689041095888'
+average: '38.5162727272725'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: Cordones
 - Material de la suela: Caucho
+- Cierre: Cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
