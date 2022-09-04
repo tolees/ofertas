@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Eggo Long N T-Shirt  Hombre  Azul  Navy   S'
-date: 2022-09-02 17:42:54
+date: 2022-09-04 00:57:34
 image: 'https://m.media-amazon.com/images/I/31iiXCslMVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00EZ5IYUY/?tag=tolees-21'
 descuento: '47.59'
-average: '23.2970689655174'
+average: '23.1677966101696'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho con algodón 100% sostenible
 - Ajuste regular
+- Hecho con algodón 100% sostenible
 - Camiseta manga larga cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

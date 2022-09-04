@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Eggo Long N T-Shirt  Hombre  Gris  Grey Marl   S'
-date: 2022-09-02 17:42:34
+date: 2022-09-04 00:56:58
 image: 'https://m.media-amazon.com/images/I/41fTuMoX0SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B009R85FAG-es Pepe Jeans Eggo Long N T-Shirt Hombre Gris Grey Marl S'
 sku: 'B009R85FAG-es'
 tags: [ 'Camisetas de manga larga para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','pepe jeans','🇪🇸', ]
-actualPrice: 15.63 EUR
+actualPrice: 15.76 EUR
 currency: EUR
-price: 15.63
+price: 15.76
 comparePrice: 29.9 EUR
 prodname: 'Pepe Jeans Eggo Long N T-Shirt  Hombre  Gris  Grey Marl   S'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B009R85FAG/?tag=tolees-21'
-descuento: '47.73'
-average: '21.2676086956522'
+descuento: '47.29'
+average: '21.1504255319149'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
