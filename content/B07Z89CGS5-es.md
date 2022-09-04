@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PHILIPS AUDIO - Philips Over Ear PH805BK/00 Over-Ear  Bluetooth  Noice Cancellation  30 Horas de autonomía  Audio Hi-Res  micrófono  Asistente de Google  Color Negro'
-date: 2022-08-28 15:09:58
+date: 2022-09-04 08:11:03
 image: 'https://m.media-amazon.com/images/I/31Xc5rh-D4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07Z89CGS5-es PHILIPS AUDIO - Philips Over Ear PH805BK/00 Over-Ear...'
 sku: 'B07Z89CGS5-es'
 tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','philips audio','🇪🇸', ]
-actualPrice: 61.77 EUR
+actualPrice: 76.05 EUR
 currency: EUR
-price: 61.77
+price: 76.05
 comparePrice: 179.99 EUR
 prodname: 'PHILIPS AUDIO - Philips Over Ear PH805BK/00 Over-Ear  Bluetooth  Noice Cancellation  30 Horas de autonomía  Audio Hi-Res  micrófono  Asistente de Google  Color Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PHILIPS AUDIO'
 buyurl: 'https://www.amazon.es/dp/B07Z89CGS5/?tag=tolees-21'
-descuento: '65.68'
-average: '88.6322222222224'
+descuento: '57.75'
+average: '88.1828571428573'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estos auriculares over-ear llevan un micrófono integrado con supresión de eco para que puedas hablar cómodamente por teléfono con el mejor sonido sin el típico efecto molesto de eco
 - Contenido: auriculares circumaurales philips ph805bk/00 over-ear (bluetooth, cancelación activa de ruido, 30 horas de autonomía, audio hi-res, asistente de google), color negro, cable usb
-- Gracias a su función de carga rápida, estos auriculares philips over-ear pueden utilizarse rápidamente en cualquier momento, pues, con solo cargarlos durante 5 minutos, puedes disfrutar ya de hasta 2 horas de autonomía; y si los cargas durante 15 minutos, podrás disfrutar de hasta 6 horas de música sin cables
-- Estos auriculares circumaurales te garantizan hasta 25 horas de autonomía con la función de cancelación activa de ruido (anc) activada y hasta 30 horas de autonomía con esta desactivada
 - Disfruta de tu mejor música con la máxima comodidad que te ofrecen estos auriculares over-ear completamente sin cables y con bluetooth 5.0 para que puedas moverte a un radio máximo de 10 metros de la fuente de audio
+- Gracias a su función de carga rápida, estos auriculares philips over-ear pueden utilizarse rápidamente en cualquier momento, pues, con solo cargarlos durante 5 minutos, puedes disfrutar ya de hasta 2 horas de autonomía; y si los cargas durante 15 minutos, podrás disfrutar de hasta 6 horas de música sin cables
+- Estos auriculares over-ear llevan un micrófono integrado con supresión de eco para que puedas hablar cómodamente por teléfono con el mejor sonido sin el típico efecto molesto de eco
+- Estos auriculares circumaurales te garantizan hasta 25 horas de autonomía con la función de cancelación activa de ruido (anc) activada y hasta 30 horas de autonomía con esta desactivada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
