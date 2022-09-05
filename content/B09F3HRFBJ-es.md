@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pikolinos Deportivos Cantabria W4r para Señora Color Marfil-Ora'
-date: 2022-08-31 08:18:52
+date: 2022-09-05 01:30:29
 image: 'https://m.media-amazon.com/images/I/41pm8X3v3mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09F3HRFBJ-es Pikolinos Deportivos Cantabria W4r para Señora Color...'
 sku: 'B09F3HRFBJ-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','pikolinos','🇪🇸', ]
-actualPrice: 43.31 EUR
+actualPrice: 36.97 EUR
 currency: EUR
-price: 43.31
+price: 36.97
 comparePrice: 109.95 EUR
 prodname: 'Pikolinos Deportivos Cantabria W4r para Señora Color Marfil-Ora'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pikolinos'
 buyurl: 'https://www.amazon.es/dp/B09F3HRFBJ/?tag=tolees-21'
-descuento: '60.61'
-average: '43.31'
+descuento: '66.38'
+average: '40.14'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
