@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cat Footwear Colorado Boot  Botas Hombre  Black  42 EU'
-date: 2022-09-01 22:15:09
+date: 2022-09-05 11:38:49
 image: 'https://m.media-amazon.com/images/I/41HFA5xIwOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuero
+- Cordones
 - Caucho
 - Sintético
-- Cordones
-- Cuero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

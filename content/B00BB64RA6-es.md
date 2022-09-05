@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lékué - Recipiente para cocinar tortillas francesas en microondas  color rojo'
-date: 2022-09-02 18:43:42
+date: 2022-09-05 12:16:54
 image: 'https://m.media-amazon.com/images/I/31jELvG4V9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lékué'
 buyurl: 'https://www.amazon.es/dp/B00BB64RA6/?tag=tolees-21'
 descuento: '39.81'
-average: '11.126274509804'
+average: '11.0963461538462'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Capacidad: 250 ml
+- Contiene recetas
 - Silicona platino
 - Material antiadherente
-- Contiene recetas
-- Capacidad: 250 ml
-- Apto para microondas y lavavajillas
-- Color: Rojo
 - Rápida cocción
 - Cocina tortillas francesas en el microondas
+- Color: Rojo
+- Apto para microondas y lavavajillas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
