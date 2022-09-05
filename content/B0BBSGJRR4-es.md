@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK CROWN Anaconda Attack 2.0'
-date: 2022-09-03 10:03:16
+date: 2022-09-05 06:39:44
 image: 'https://m.media-amazon.com/images/I/41-fSknSqUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
