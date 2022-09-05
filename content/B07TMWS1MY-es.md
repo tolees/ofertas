@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color exacto: Cuero de Tan
 - Material de la suela: TPR
+- Color exacto: Cuero de Tan
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
