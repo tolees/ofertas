@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mannesmann M19652 Juego de 12 llaves combinadas 6 a 22 CV + Mannesmann M29066 - Caja de herramientas equipada con 155 piezas'
-date: 2022-09-05 07:11:43
+date: 2022-09-06 09:03:00
 image: 'https://m.media-amazon.com/images/I/41ZFkcOUY1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mannesmann'
 buyurl: 'https://www.amazon.es/dp/B01JMGX8B0/?tag=tolees-21'
 descuento: '36.01'
-average: '103.823333333333'
+average: '103.415'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TÜV / GS probado
 - Caja de herramientas equipada
-- 10 años de garantía
 - Preparado de chapa de acero estable
+- TÜV / GS probado
+- 10 años de garantía
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
