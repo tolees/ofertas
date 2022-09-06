@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Timberland Graydon Chukka NU  Botas Hombre  Dark Grey Nubuck  43 EU'
-date: 2022-09-06 06:17:01
-image: 'https://m.media-amazon.com/images/I/31JSmKJ2AzL._SL500_._SL400_.jpg'
+title: 'Timberland Graydon Chukka Basic Botas de Moda para Hombre  Marrón  Dark Brown Nubuck   43.5 EU'
+date: 2022-09-06 06:16:26
+image: 'https://m.media-amazon.com/images/I/31NXN3ghjhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08QW5Z7KG-es Timberland Graydon Chukka NU Botas Hombre Dark Grey Nubuck...'
-sku: 'B08QW5Z7KG-es'
+slug: 'B08QW3YYH7-es Timberland Graydon Chukka Basic Botas de Moda para Hombre...'
+sku: 'B08QW3YYH7-es'
 tags: [ 'Botas para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','timberland','🇪🇸', ]
-actualPrice: 62.7 EUR
+actualPrice: 63.39 EUR
 currency: EUR
-price: 62.7
+price: 63.39
 comparePrice: 120.0 EUR
-prodname: 'Timberland Graydon Chukka NU  Botas Hombre  Dark Grey Nubuck  43 EU'
+prodname: 'Timberland Graydon Chukka Basic Botas de Moda para Hombre  Marrón  Dark Brown Nubuck   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Timberland'
-buyurl: 'https://www.amazon.es/dp/B08QW5Z7KG/?tag=tolees-21'
-descuento: '47.75'
-average: '62.7'
+buyurl: 'https://www.amazon.es/dp/B08QW3YYH7/?tag=tolees-21'
+descuento: '47.17'
+average: '64.1925'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

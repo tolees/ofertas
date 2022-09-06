@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🌱 Vegano, sin gluten ni lactosa. Apto para pacientes con diabetes.
-- 🏅 Mayor calidad de vida. La diarrea recurrente, el dolor abdominal, la flatulencia o el estreñimiento pueden hacer que disminuya mucho la calidad de vida. Un reciente estudio clínico demuestra que Kijimea Colon Irritable PRO es capaz de mejorar significativamente la calidad de vida de los afectados.
-- 🩹Como un parche para el intestino. Las bifidobacterias B. bifidum HI-MIMBbb75 se adhieren a las zonas dañadas de la pared intestinal, como un parche. Bajo este parche puede regenerarse la pared intestinal. Las típicas molestias intestinales disminuyen.
 - 🔬 Sin efectos adversos conocidos. Kijimea Colon Irritable PRO tiene buena tolerabilidad y se desconocen efectos adversos o interacciones con otros medicamentos.
-- ✅ Ayuda eficaz. La eficacia de Kijimea Colon Irritable PRO para la diarrea recurrente, el dolor abdominal, la flatulencia y el estreñimiento fue demostrada por científicos alemanes en estudio de productos de venta libre del mundo sobre el síndrome del intestino irritable.
 - ☑ Kijimea Colon Irritable cumple con la normativa vigente sobre los productos sanitarios. Se requiere un primer diagnóstico médico del colon irritable; CPSP21080CAT
+- ✅ Ayuda eficaz. La eficacia de Kijimea Colon Irritable PRO para la diarrea recurrente, el dolor abdominal, la flatulencia y el estreñimiento fue demostrada por científicos alemanes en estudio de productos de venta libre del mundo sobre el síndrome del intestino irritable.
+- 🌱 Vegano, sin gluten ni lactosa. Apto para pacientes con diabetes.
+- 🩹Como un parche para el intestino. Las bifidobacterias B. bifidum HI-MIMBbb75 se adhieren a las zonas dañadas de la pared intestinal, como un parche. Bajo este parche puede regenerarse la pared intestinal. Las típicas molestias intestinales disminuyen.
+- 🏅 Mayor calidad de vida. La diarrea recurrente, el dolor abdominal, la flatulencia o el estreñimiento pueden hacer que disminuya mucho la calidad de vida. Un reciente estudio clínico demuestra que Kijimea Colon Irritable PRO es capaz de mejorar significativamente la calidad de vida de los afectados.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
