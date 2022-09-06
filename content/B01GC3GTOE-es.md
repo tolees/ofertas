@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Número de jugadores: 2
 - Décrivez, mimez et faites deviner un maximum de célébrités ou de films à votre partenaire en temps limité
+- Número de jugadores: 2
 - A partir de 8 años
 - De bons moments en famille ou entre amis garantis
 
