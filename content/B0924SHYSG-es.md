@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medidas: Ancho 220mm. Largo 100mm. Alto 270mm. Capacidad 6L. Peso 0,21 Kg
-- Ideal para niños de guardería. Mochila perfecta tanto para uso escolar como para uso diario, extraescolares y excursiones. Mochila Adaptable a carro Safta (Ultraligero y Ruedas PVC).
 - Safta Batman Bat-Tech Oficial mochila infantil escolar para niños en guardería. Ideal para niños de 2 a 5 años. 2 años de garantía.
 - Confeccionada con un material de poliéster muy resistente y cremalleras suaves. Fácil de lavar.
+- Medidas: Ancho 220mm. Largo 100mm. Alto 270mm. Capacidad 6L. Peso 0,21 Kg
 - Tiradores en los cursores para facilitar su apertura. Doble tirador en cremallera principal. Costuras reforzadas. Asa de mano en la parte superior y tarjeta de identificación personal.
+- Ideal para niños de guardería. Mochila perfecta tanto para uso escolar como para uso diario, extraescolares y excursiones. Mochila Adaptable a carro Safta (Ultraligero y Ruedas PVC).
 
 [🛒 Comprar!!!]({{< param buyurl >}})

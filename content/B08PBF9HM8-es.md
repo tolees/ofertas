@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Amortiguación con tecnología de gel
 - Zapatillas de asics
 - Empeine reforzado de malla
-- Amortiguación con tecnología de gel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
