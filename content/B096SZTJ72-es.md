@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Transferencia de calor de icono
 - Forro polar reforzado de 280 g / m2 y jersey pesado 55% algodón / 45% poliéster
 - Tecnología de calor
-- Transferencia de calor de icono
 - Sudadera de cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

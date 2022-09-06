@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Legrand 782406 Interruptor Luz  Pared  Doble  Blanco'
-date: 2022-09-03 11:35:00
+date: 2022-09-06 19:59:26
 image: 'https://m.media-amazon.com/images/I/313PmdTfbOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Legrand'
 buyurl: 'https://www.amazon.es/dp/B07FXZ3QFZ/?tag=tolees-21'
 descuento: '53.59'
-average: '3.48'
+average: '3.31'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Interruptor eléctrico: datos eléctricos: 10a, 230v. Ip21.
+- Interruptor de pared: módulo con 2 interruptores conmutador.
 - Seguridad: protección contra goteo de agua.
 - Interruptor empotrable: instalación en superficie.
 - Interruptor blanco: conmutador de la gama Forix en color blanco.
-- Interruptor de pared: módulo con 2 interruptores conmutador.
+- Interruptor eléctrico: datos eléctricos: 10a, 230v. Ip21.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

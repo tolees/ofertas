@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Zapatillas deportivas
-- Parte superior de piel.
 - Suela de plataforma que añade 3 cm de alto.
+- Parte superior de piel.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
