@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Materiales resistentes
 - Sneaker de color rojo con detalles en blanco y azul
-- Combinación de materiales en el corte
+- Materiales resistentes
 - Alta calidad
 - Zapatillas deportivas unisex de Munich con suela irregular
+- Combinación de materiales en el corte
 
 [🛒 Comprar!!!]({{< param buyurl >}})
