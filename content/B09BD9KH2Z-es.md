@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capucha con sistema de regulación de última generación
-- Tela otomana de poliéster totalmente impresa
 - Chaqueta anorak impermeable
+- Tela otomana de poliéster totalmente impresa
+- Capucha con sistema de regulación de última generación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
