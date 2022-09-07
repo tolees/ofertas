@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los comprimidos XL-S MEDICAL ORIGINAL cuentan con un complejo a base de fibras vegetales que absorben hasta un 28% de la grasa ingerida1 - ¡Pierde hasta 3 veces más peso que sólo haciendo dieta2!
+- Ingredientes de origen natural sin sales, colorantes o conservantes - Incluye vitaminas A, D y E - XL-S Medical Captagrasas contiene 180 comprimidos - Tratamiento de 1 mes
+- Reductor de apetito que ayuda a controlar las ansias de comer - Los comprimidos para perder peso producen un efecto saciante y reducen la absorción de grasa a nivel intestinal
 - Producto sanitario. Cumple con la normativa de productos sanitarios. Debe utilizarse con una dieta hipocalórica adecuada, actividad física y estilo de vida saludable. CPSP19162CAT
 - Activa ahora tu plan personalizado de 12 semanas con 3 sesiones de nutrición gratis en la web xlsmedical.es - descárgate la app en apple store o google play
 - Reductor de apetito que ayuda a controlar las ansias de comer - Los comprimidos son excelentes para el tratamiento y la prevención del exceso de peso así como el control general del peso
-- Ingredientes de origen natural sin sales, colorantes o conservantes - Incluye vitaminas A, D y E - XL-S Medical Captagrasas contiene 180 comprimidos - Tratamiento de 1 mes
-- Reductor de apetito que ayuda a controlar las ansias de comer - Los comprimidos para perder peso producen un efecto saciante y reducen la absorción de grasa a nivel intestinal
+- Los comprimidos XL-S MEDICAL ORIGINAL cuentan con un complejo a base de fibras vegetales que absorben hasta un 28% de la grasa ingerida1 - ¡Pierde hasta 3 veces más peso que sólo haciendo dieta2!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
