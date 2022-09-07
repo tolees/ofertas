@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 200 Pavilion Ratón Gaming  3200 PPP  5 Botones y Rueda Desplazable  Iluminación Personalizada  Cable USB de 2 mts  Windows 7 Windows 8 Windows 10   Color Negro y Verde'
-date: 2022-08-27 16:02:02
+date: 2022-09-07 11:42:27
 image: 'https://m.media-amazon.com/images/I/218+20IxpML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B07QH7LQ69/?tag=tolees-21'
 descuento: '36.26'
-average: '18.0053333333333'
+average: '18.154375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sensor gamer óptico PixArt de 3200 Dpi
-- Diseño ergonómico con agarres antideslizantes en los laterales, práctico y cómodo
 - Iluminaci0on personalizada con 12 modos distintos
-- Dimensiones mínimas 125 x 75 x 40,5 mm y peso: 0,12 kg
+- Diseño ergonómico con agarres antideslizantes en los laterales, práctico y cómodo
 - Sistemas operativos compatibles: Windows 7 Windows 8 Windows 10
+- Dimensiones mínimas 125 x 75 x 40,5 mm y peso: 0,12 kg
 - Cable extra largo de 2 metros
 
 [🛒 Comprar!!!]({{< param buyurl >}})

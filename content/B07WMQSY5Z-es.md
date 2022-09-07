@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlnanjing-Jersey  Talla L/S  Suéter  Bálsamo Verde  S para Mujer'
-date: 2022-09-05 13:17:51
+date: 2022-09-07 11:47:22
 image: 'https://m.media-amazon.com/images/I/51Y6WtfKY8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Jersey largo de punto
 - Composición: 77% poliacrílico, 19% poliéster, 4% elastano
 - Puños acanalados
-- Jersey largo de punto
 - Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

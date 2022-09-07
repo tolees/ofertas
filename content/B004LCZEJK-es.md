@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto útil y práctico
-- Calidad óptima para los requisitos del cliente
 - Ingredientes: Aqua, Alcohol Denat, Parfum. Diseño elegante y creativo
+- Calidad óptima para los requisitos del cliente
+- Producto útil y práctico
 - Hecho de material resistente para un uso prolongado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
