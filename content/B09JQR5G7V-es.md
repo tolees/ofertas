@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Robot Vacuum-Mop 2 Pro - Robot Aspirador y fregasuelos con Sistema láser  LDS   succión de 3000 Pa  fregado de 10 000 Vibraciones/min  5200 mAh  App Mi Home  Alexa & Google Assistant'
-date: 2022-09-06 08:34:05
+date: 2022-09-07 18:26:36
 image: 'https://m.media-amazon.com/images/I/31N5aGNx95L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09JQR5G7V/?tag=tolees-21'
 descuento: '40.45'
-average: '307.878888888889'
+average: '303.827'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
