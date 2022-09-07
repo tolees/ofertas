@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Piel suave
 - Cama suave
+- Piel suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
