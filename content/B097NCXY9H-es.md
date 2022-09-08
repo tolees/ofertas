@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología Impact-I DC con conos invertidos en la suela exterior para una mayor compresión y absorción de impactos
-- Logotipo de DC
 - Plantilla de EVA como amortiguación
+- Logotipo de DC
+- Tecnología Impact-I DC con conos invertidos en la suela exterior para una mayor compresión y absorción de impactos
 - Material exterior: exterior de ante o piel [dependiendo del color]
 - Cordones Ghillie
 

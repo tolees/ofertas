@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LG SP11RA Barra de Sonido de 770W de potencia 7.1.4 canales con calidad de Sonido Hi-Res Audio  Dolby Atmos  DTS:X y HDMI eARC. Compatible con Alexa. El Sonido Absoluto'
-date: 2022-08-26 07:27:01
+title: 'LG SP11RA Barra de Sonido de 770W de potencia 7.1.4 canales de Sonido Hi-Res Audio  Dolby Atmos  DTS:X y HDMI eARC. Compatible con Alexa. El Sonido Absoluto'
+date: 2022-09-08 05:12:13
 image: 'https://m.media-amazon.com/images/I/31X3xrKF09L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0
 comparePrice: 1299.0 EUR
-prodname: 'LG SP11RA Barra de Sonido de 770W de potencia 7.1.4 canales con calidad de Sonido Hi-Res Audio  Dolby Atmos  DTS:X y HDMI eARC. Compatible con Alexa. El Sonido Absoluto'
+prodname: 'LG SP11RA Barra de Sonido de 770W de potencia 7.1.4 canales de Sonido Hi-Res Audio  Dolby Atmos  DTS:X y HDMI eARC. Compatible con Alexa. El Sonido Absoluto'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LG'
 buyurl: 'https://www.amazon.es/dp/B093TKLD28/?tag=tolees-21'
 descuento: '42.34'
-average: '845.844285714286'
+average: '833.73875'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sonido de alta resolución Hi-Res Audio 24bit/192kHz
+- 770W 7.1.4 canales
 - Amplia conectividad con HDMI eARC, Bluetooth 5.0, USB
 - Meridian Sound Music
-- 770W 7.1.4 canales
-- Sonido de alta resolución Hi-Res Audio 24bit/192kHz
 - Sonido Envolvente con Dolby Atmos y dts:X
 
 [🛒 Aquí!!!]({{< param buyurl >}})
