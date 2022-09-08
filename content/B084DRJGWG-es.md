@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela: cuero y goma
-- Material interior: piel
 - Material exterior: piel lisa
+- Material interior: piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

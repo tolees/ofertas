@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Original y vintage
 - Superdry La ropa está hecha con el equilibrio adecuado entre estilo y comodidad. Recomendamos una talla más grande que tus marcas usual para una experiencia superseca.
+- Original y vintage
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

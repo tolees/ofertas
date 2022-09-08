@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - OSRAM NIGHT BREAKER LASER la nueva generación: Las bombillas halógenas H7 más luminosas de OSRAM en el práctico duo box.
-- COOL BLUE INTENSE de OSRAM: Esta lámpara para faros de gran rendimiento proporciona hasta un 20 % más de luz (en comparación con las lámparas halógenas estándar).
 - Hasta un 150% más de luz para su vehículo gracias a la innovadora tecnología de ablación láser.
+- COOL BLUE INTENSE de OSRAM: Esta lámpara para faros de gran rendimiento proporciona hasta un 20 % más de luz (en comparación con las lámparas halógenas estándar).
 - La luz, de tonos blancos y azulados, es ideal para usar en faros de vidrio transparente y brinda un aspecto de xenón único.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
