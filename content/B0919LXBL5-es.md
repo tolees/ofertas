@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Runfalcon 2.0  Road Running Shoe Hombre  Crew Navy/Cloud White/Legend Ink  43 1/3 EU'
-date: 2022-09-07 11:12:37
+date: 2022-09-08 21:33:30
 image: 'https://m.media-amazon.com/images/I/41AtG4rFriS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B0919LXBL5/?tag=tolees-21'
 descuento: '40.00'
-average: '33.6666666666667'
+average: '33.5'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material duradero
 - Ajuste normal
+- Material duradero
 - Suela robusta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

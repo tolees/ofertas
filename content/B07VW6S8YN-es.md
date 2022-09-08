@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga larga
-- Tipo de deporte: Athletic Sports Apparel
-- Pre-encogido
-- Jersey ligero 100% de algodón peruano orgánico
 - Logo serigrafiado con tacto suave
-- Tipo de fábrica: 100 % Algodón Organico
-- Cuello y puños acanalados
-- Elite
 - El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
 - 100% algodón organico, 100% algodón organico
+- Tipo de fábrica: 100 % Algodón Organico
+- Jersey ligero 100% de algodón peruano orgánico
+- Tipo de deporte: Athletic Sports Apparel
+- Elite
+- Manga larga
+- Pre-encogido
+- Cuello y puños acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

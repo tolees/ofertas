@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
-- Capucha ajustable con cordón; Los puños con orificio para el pulgar mantienen las mangas en su lugar
 - Bolsillos de canguro para calentar las manos; Port media en los bolsillos
-- Tejido de secado rápido y muy transpirable.
 - Tejido de felpa de poliéster francés cepillado
+- El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
+- Tejido de secado rápido y muy transpirable.
+- Capucha ajustable con cordón; Los puños con orificio para el pulgar mantienen las mangas en su lugar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

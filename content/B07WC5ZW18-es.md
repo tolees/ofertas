@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pre-encogido
-- 100% orgánico de algodón peruano, jersey ligero
 - Logotipos impresos en pantalla suave al tacto
+- Pre-encogido
 - Cuello acanalado
+- 100% orgánico de algodón peruano, jersey ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

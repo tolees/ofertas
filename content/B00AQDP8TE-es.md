@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oreal Paris Make-up Designer - L Oréal Paris Maquillaje Pintalabios Infallible Permanente 24H  Tono 111 Permanent Blush'
-date: 2022-09-07 15:30:16
+date: 2022-09-08 20:16:26
 image: 'https://m.media-amazon.com/images/I/21mI+8A5m6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LOreal Paris Make-up Designer'
 buyurl: 'https://www.amazon.es/dp/B00AQDP8TE/?tag=tolees-21'
 descuento: '41.71'
-average: '8.02'
+average: '8.27666666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
