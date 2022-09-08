@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Mens Track Top Ent22 Tk Jkt  Black  HB0573  L EU'
-date: 2022-09-06 21:49:49
+date: 2022-09-07 22:34:14
 image: 'https://m.media-amazon.com/images/I/312U2pFZ+QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B09T6SHQ14/?tag=tolees-21'
 descuento: '40.00'
-average: '22.2253571428572'
+average: '22.0796551724138'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

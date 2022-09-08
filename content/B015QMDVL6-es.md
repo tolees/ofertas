@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20th Century Fox Home Entertainment España  S.A. - Dragon Ball Z Battle Of Gods. Edición Extendida. [DVD]'
-date: 2022-09-02 17:41:08
+date: 2022-09-07 22:44:02
 image: 'https://m.media-amazon.com/images/I/511EgrTP07L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

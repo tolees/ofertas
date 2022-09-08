@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatillas de mujer Carnaby Evo BL en piel y material sintético
-- Empeine de piel y material sintético
 - Forro de tela
+- Empeine de piel y material sintético
+- Zapatillas de mujer Carnaby Evo BL en piel y material sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
