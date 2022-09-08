@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Volumen de suministro: 1x regleta de enchufes Eco-Line con 10 tomas de corriente - en la máxima calidad de brennenstuhl
+- Regleta de enchufes en color negro para el uso discreto en la casa y el uso seguro en interiores, con protección contra el contacto accidental
 - Regleta de enchufes con protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
 - Base de enchufe múltiple con 10 tomas de corriente con protección contra el contacto accidental, colocados en un disposición de 45° para un mejor acceso, cable extra largo de 3m (H05VV-F 3G1,5)
-- Regleta de enchufes en color negro para el uso discreto en la casa y el uso seguro en interiores, con protección contra el contacto accidental
 - Regleta enchufe múltiple para el uso en interiores con un interruptor de seguridad iluminado (indicador LED) para encendido y apagado todas las tomas de corriente (bipolar)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

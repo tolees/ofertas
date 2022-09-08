@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo N grande
 - Tecnología de entresuela ENCAP para una amortiguación suave y de apoyo
 - Aspecto y materiales de primera calidad
+- Logotipo N grande
 - Nuevo y genuino
 - Zapatilla flexible, cómoda y ligera
 
