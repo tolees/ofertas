@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cosecha puede variar
-- Ideal con las pastas con salsa de carne, tomate y verduras,la cocina oriental. Servir a 8-10ºC.
-- Color cereza. Notas perfumadas de ciruela, fresa, pomelo. Paladar de gran cuerpo y fina acidez. Elegante y sensual.
 - Origen: Central Valley Regions
 - Puede disfrutarlo desde ahora, bien conservado aguantará 2 años. Graduación: 13.5% vol.
+- Color cereza. Notas perfumadas de ciruela, fresa, pomelo. Paladar de gran cuerpo y fina acidez. Elegante y sensual.
+- Cosecha puede variar
+- Ideal con las pastas con salsa de carne, tomate y verduras,la cocina oriental. Servir a 8-10ºC.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

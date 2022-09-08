@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Springfield Polo Mao  Polo  Hombre  Blanco  L'
-date: 2022-09-07 08:11:55
+date: 2022-09-08 12:00:45
 image: 'https://m.media-amazon.com/images/I/31Z9nIhhbpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mao
 - Manga corta
+- Mao
 - Polo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

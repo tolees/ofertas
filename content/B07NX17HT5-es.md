@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics - Pilas AAA recargables de alta capacidad  850 mAh  paquete de 16   precargadas'
-date: 2022-09-06 16:12:39
+date: 2022-09-08 12:21:12
 image: 'https://m.media-amazon.com/images/I/510OrjRlpAS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazon Basics'
 buyurl: 'https://www.amazon.es/dp/B07NX17HT5/?tag=tolees-21'
 descuento: '36.67'
-average: '17.64875'
+average: '17.3055555555556'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pilas recargables pack de 16 unidades de alta capacidad
 - Precargadas con energía solar
-- Capacidad: 850 mAh (miliamperios-hora), mínimo: 800 mAh
 - Mantiene el 65% de la carga original después de permanecer guardadas durante 3 años
+- Capacidad: 850 mAh (miliamperios-hora), mínimo: 800 mAh
+- Pilas recargables pack de 16 unidades de alta capacidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
