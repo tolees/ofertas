@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de lona resistente
 - Puntera reforzada
 - Suela waffle para un agarre más firme
+- Parte superior de lona resistente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

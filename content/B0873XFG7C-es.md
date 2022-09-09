@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuello redondo
+- Diseño de punto tipo gofre
+- Corte estándar
 - 100% algodón
 - Jersey de punto
-- Cuello redondo
-- Corte estándar
-- Diseño de punto tipo gofre
 
 [🛒 Visítala!!!]({{< param buyurl >}})

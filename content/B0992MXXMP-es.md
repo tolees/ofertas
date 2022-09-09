@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- We are a proud member of the Better Cotton Initiative. El algodón Better está hecho mediante un sistema de equilibrio masivo
 - Jorsprays Sweat Crew Neck
+- We are a proud member of the Better Cotton Initiative. El algodón Better está hecho mediante un sistema de equilibrio masivo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

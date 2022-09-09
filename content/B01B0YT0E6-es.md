@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zona de Ebullición Rápida - Con indicador de 1/2/3 tazas
 - Doble Visor del Nivel de Agua - El hervidor cuenta con un doble visor del nivel de agua iluminado, tapa de apertura por presión, boquilla de precisión y base de 360° con recogecable
 - Potencia de 2400 W - Hierve una taza de agua en 50 segundos y ahorra hasta un 70% de electricidad
-- Capacidad de 1,7 Litros - Hervidor en plástico negro de alto brillo con capacidad para 1,7 litros, interruptor luminoso de encendido y apagado
+- Zona de Ebullición Rápida - Con indicador de 1/2/3 tazas
 - Filtro Extraíble - El filtro del hervidor es extraíble y lavable
+- Capacidad de 1,7 Litros - Hervidor en plástico negro de alto brillo con capacidad para 1,7 litros, interruptor luminoso de encendido y apagado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

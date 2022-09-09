@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte slim
-- Logo de Tommy Hilfiger bordado en el pecho
-- Cuello de pico
 - Cinta distintiva en el interior del cuello
 - Algodón elástico
+- Cuello de pico
+- Logo de Tommy Hilfiger bordado en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
