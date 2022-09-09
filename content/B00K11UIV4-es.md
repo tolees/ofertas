@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Archer T2U - Adaptador WiFi USB AC600 Mbps  Receptor WiFi para PC  Doble Banda 2.4GHz/5GHz  Mini Tamaño  USB 2.0  Seguridad avanzada  Color Negro'
-date: 2022-09-07 22:47:51
+date: 2022-09-08 23:23:56
 image: 'https://m.media-amazon.com/images/I/41o0TeuJK2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B00K11UIV4/?tag=tolees-21'
 descuento: '57.05'
-average: '14.9255932203393'
+average: '14.9258108108111'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Velocidad de transferencia de datos: 600 MB / s
 - Marca del producto: TP - Link
-- Doble banda 2.4 GHz / 5 GHz
 - Receptor WiFi para PC
+- Velocidad de transferencia de datos: 600 MB / s
+- Doble banda 2.4 GHz / 5 GHz
 
 [🛒 Comprar!!!]({{< param buyurl >}})

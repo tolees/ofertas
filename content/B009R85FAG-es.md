@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Eggo Long N T-Shirt  Hombre  Gris  Grey Marl   S'
-date: 2022-09-07 22:33:30
+date: 2022-09-08 23:05:48
 image: 'https://m.media-amazon.com/images/I/41fTuMoX0SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B009R85FAG/?tag=tolees-21'
 descuento: '37.59'
-average: '20.8878000000001'
+average: '20.8441176470589'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho con algodón 100% sostenible
 - Camiseta manga larga cuello redondo
+- Hecho con algodón 100% sostenible
 - Ajuste regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
