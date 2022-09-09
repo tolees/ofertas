@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sharp HT-SB100 Barra de Sonido 2.0 Bluetooth  HDMI ARC/CEC  USBPlayback y 75W de Potencia Total  80cm  Color Negro'
-date: 2022-09-07 05:27:52
+date: 2022-09-09 20:08:33
 image: 'https://m.media-amazon.com/images/I/11x2gVfC66L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ecualizador con tres ajustes predefinidos ajuste independiente de graves y agudos
+- Conexión HDMI ARC/CEC permite el control de la barra de sonido con el mando a distancia del televisor
 - HDMI ARC/CEC, Bluetooth 5.1, Entrada óptica digital para transmisión de audio superior Entrada auxiliar de 3,5 mm para conectar dispositivos estéreo analógicos externos, Reproducción USBcompatible con MP3 y WAV (admite unidades de hasta 32 GB)
 - BARRA DE SONIDO 2.0 con HDMI Y BLUETOOTH
+- Fuente de alimentación: Cable eléctrico
 - Mando a distancia con funcionalidad completa teclas de función en la barra de sonido
 - Potencia máxima total de salida de 75 W
 - Acabado en negro mate con rejilla metálica Montaje en pared o disposición en sobremesa
-- Ecualizador con tres ajustes predefinidos ajuste independiente de graves y agudos
-- Fuente de alimentación: Cable eléctrico
-- Conexión HDMI ARC/CEC permite el control de la barra de sonido con el mando a distancia del televisor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
