@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
 - Puerta Ethnic
 - Camiseta
 - RECONSIDER - BCI
+- Manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

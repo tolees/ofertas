@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pikolinos Cordones Y Mocasines Alicante M2u para Caballero Color Blue'
-date: 2022-08-26 00:00:10
+date: 2022-09-09 05:43:59
 image: 'https://m.media-amazon.com/images/I/31lXDTvRnhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09F3J4GRM-es Pikolinos Cordones Y Mocasines Alicante M2u para Caballero...'
 sku: 'B09F3J4GRM-es'
 tags: [ 'Mocasines para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','pikolinos','🇪🇸', ]
-actualPrice: 31.53 EUR
+actualPrice: 39.95 EUR
 currency: EUR
-price: 31.53
+price: 39.95
 comparePrice: 99.95 EUR
 prodname: 'Pikolinos Cordones Y Mocasines Alicante M2u para Caballero Color Blue'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pikolinos'
 buyurl: 'https://www.amazon.es/dp/B09F3J4GRM/?tag=tolees-21'
-descuento: '68.45'
-average: '40.4766666666667'
+descuento: '60.03'
+average: '40.345'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
