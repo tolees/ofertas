@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ACÉRCATE: Debido a que el bokeh es una de las funciones principales de este objetivo, se ha incorporado un anillo de macro que amplía el rango del objetivo en la zona de macro donde se puede utilizar el bokeh para lograr un efecto increíble
-- RÁPIDO Y PRECISO: Un sistema de accionamiento de enfoque de alta potencia DDSSM (Direct Drive SSM) proporciona la velocidad y precisión necesarias tanto para fotografías como para grabar vídeos
-- INCREÍBLEMENTE NÍTIDO: Con una compensación de distorsión esférica, cristal ED (dispersión ultrabaja) y elementos asféricos, este objetivo potencia la resolución y nitidez al extremo, que son la base de diseño óptico de G Master
 - CAPTURA TODO AL DETALLE: Nanorrevestimiento antirreflectante de Sony para eliminar los destellos e imágenes superpuestas
+- INCREÍBLEMENTE NÍTIDO: Con una compensación de distorsión esférica, cristal ED (dispersión ultrabaja) y elementos asféricos, este objetivo potencia la resolución y nitidez al extremo, que son la base de diseño óptico de G Master
+- ACÉRCATE: Debido a que el bokeh es una de las funciones principales de este objetivo, se ha incorporado un anillo de macro que amplía el rango del objetivo en la zona de macro donde se puede utilizar el bokeh para lograr un efecto increíble
 - BOKEH DE G MASTER: este objetivo cuenta con una apertura circular de 11 láminas de nuevo diseño y una distorsión mínima de las zonas luminosas en la periferia de la imagen. Cada objetivo se ajusta individualmente para garantizar que se cumplan los más altos estándares de G Master
+- RÁPIDO Y PRECISO: Un sistema de accionamiento de enfoque de alta potencia DDSSM (Direct Drive SSM) proporciona la velocidad y precisión necesarias tanto para fotografías como para grabar vídeos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
