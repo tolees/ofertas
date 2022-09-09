@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Acabado Grapado
 - Número de páginas: 96
+- Interior Liso
 - Cuaderno Age Bag A4 - 21 x 29,7 cm
 - Color: Negro
-- Interior Liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

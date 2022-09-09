@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Wiser Wash
 - Pantalones vaqueros
+- Wiser Wash
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
