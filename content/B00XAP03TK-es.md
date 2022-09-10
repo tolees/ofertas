@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo - Cocktail - Caramelos de goma - 1 kg'
-date: 2022-08-28 20:24:49
+date: 2022-09-10 08:01:47
 image: 'https://m.media-amazon.com/images/I/51PIYdWnywL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HARIBO'
 buyurl: 'https://www.amazon.es/dp/B00XAP03TK/?tag=tolees-21'
 descuento: '44.86'
-average: '4.61375'
+average: '4.42888888888889'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsa de 1 kg
-- Varias formas y sabores
-- Delicioso mix de diferentes piezas
 - Surtido de caramelos de goma
+- Delicioso mix de diferentes piezas
+- Varias formas y sabores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
