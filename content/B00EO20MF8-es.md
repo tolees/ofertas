@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estructura de forma oval para mejor sujeción
 - Salida "bass boosting" para refuerzo de graves
 - Potente sonido por medio del motor de 13.5 mm de neodimio
+- Estructura de forma oval para mejor sujeción
 - Estructura y cable del mismo color llamativo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

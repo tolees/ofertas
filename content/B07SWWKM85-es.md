@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Número de jugadores: 2+
 - Caja ilustrada
-- Licencia Oficial
-- Harry Potter
 - Snitch Dorada
 - Mundos Mágicos
+- Licencia Oficial
+- Harry Potter
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PAULA ECHEVARRIA X HAWKERS · MONDAINE · Gafas de sol para hombre y mujer · BIJOUX BLACK'
-date: 2022-08-29 06:02:28
+date: 2022-09-10 18:57:11
 image: 'https://m.media-amazon.com/images/I/31vKdL33w-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 - Lentes negras fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta.
-- Modelo Unisex. Frontal 14,4 cm, Alto 4,6 cm, Patillas 14,5cm.
-- Montura fabricada en acetato de Mazzucchelli de alta calidad que dota a las gafas de gran ligereza, flexibilidad y resistencia. Muy resistente a altas y bajas temperaturas.
+- Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 - Gafas de sol Paula Echevarría. Montura cuadrada negra en acabado brillante de estilo vintage oversize con tachuelas metálicas doradas y fabricada en acetato de Mazzucchelli. Sin duda, el carácter más chic de la colección Paula Echevarría 2019.
+- Montura fabricada en acetato de Mazzucchelli de alta calidad que dota a las gafas de gran ligereza, flexibilidad y resistencia. Muy resistente a altas y bajas temperaturas.
+- Modelo Unisex. Frontal 14,4 cm, Alto 4,6 cm, Patillas 14,5cm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
