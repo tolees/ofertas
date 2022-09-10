@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sudadera floral
-- Bolsillo canguro
+- Estampado macro floral multicolor
 - Oversize
 - Algodón BCI
-- Estampado macro floral multicolor
+- Bolsillo canguro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

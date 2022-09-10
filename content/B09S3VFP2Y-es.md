@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye 3 bolsas.
 - Pack de bolsas higiénicas compatibles con Base de autovaciado Conga Home 2.000.
-- Capacidad de la bolsa de 2L.
 - Bolsas higiénicas para no mancharte ni entrar en contacto directo con el polvo y la suciedad.
+- Capacidad de la bolsa de 2L.
 - Fácil introducción y extracción de la bolsa gracias al soporte de colocación.
+- Incluye 3 bolsas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
