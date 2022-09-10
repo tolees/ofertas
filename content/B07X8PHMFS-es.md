@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Al comprar productos de algodón de PUMA, apoyas un cultivo de algodón más sostenible. Más información en PUMA.COM/FOREVERBETTER
-- Cinturilla elástica
-- Largo completo
 - Pernera recta con parte inferior cónica
 - Bolsillos laterales
+- Al comprar productos de algodón de PUMA, apoyas un cultivo de algodón más sostenible. Más información en PUMA.COM/FOREVERBETTER
+- Largo completo
+- Cinturilla elástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
