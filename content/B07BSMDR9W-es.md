@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Evita la deformación
+- Conserva la elasticidad
 - Para lavar a mano las prendas más delicadas
 - No daña la piel de las manos
-- Conserva la elasticidad
-- Evita la deformación
 - Previene las bolitas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

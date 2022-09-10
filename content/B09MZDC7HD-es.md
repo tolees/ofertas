@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Corto
 - Vestido
 - Moss
-- Corto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

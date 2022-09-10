@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de suave algodón orgánico para comodidad durante todo el día, día
-- Cuello sin etiqueta para un uso sin complicaciones
 - Logotipo de Levis en la parte delantera
+- Hecho de suave algodón orgánico para comodidad durante todo el día, día
 - Cuello redondo y mangas cortas
+- Cuello sin etiqueta para un uso sin complicaciones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

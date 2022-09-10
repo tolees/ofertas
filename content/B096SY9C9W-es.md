@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gráficos serigrafiados
-- Material de calidad
 - Material: 80% algodón y 20% poliéster
+- Material de calidad
 - Tejido fleece cepillado de 240 g / m2
+- Gráficos serigrafiados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

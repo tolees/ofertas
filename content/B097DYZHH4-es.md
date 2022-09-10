@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Amortiguación con tecnología de gel
 - Zapatillas de asics
 - Botas GORE-Tex para mantener los pies secos
-- Amortiguación con tecnología de gel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

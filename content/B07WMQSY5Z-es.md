@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
-- Composición: 77% poliacrílico, 19% poliéster, 4% elastano
-- Puños acanalados
 - Jersey largo de punto
+- Puños acanalados
+- Composición: 77% poliacrílico, 19% poliéster, 4% elastano
+- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

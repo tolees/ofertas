@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo: Regular fit
 - Cuello redondo
+- Estilo: Regular fit
 - Logotipo en el pecho
 - Corte estándar
 

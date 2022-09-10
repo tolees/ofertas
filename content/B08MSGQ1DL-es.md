@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exterior de ante
 - Caña media
 - SoftFoam: La cómoda plantilla PUMA para una pisada instantánea y una comodidad duradera que proporciona una amortiguación suave a cada paso que das
+- Exterior de ante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
