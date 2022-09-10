@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Vl Court 2.0 Cmf C  Zapatillas de deporte Unisex Niños  Blanco  Ftwr White/Core Black/Ftwr White Ftwr White/Core Black/Ftwr White   28'
-date: 2022-09-08 18:36:00
+date: 2022-09-10 11:00:44
 image: 'https://m.media-amazon.com/images/I/31u6hECd0zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B078MDLB77/?tag=tolees-21'
 descuento: '55.74'
-average: '15.075'
+average: '15.158'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

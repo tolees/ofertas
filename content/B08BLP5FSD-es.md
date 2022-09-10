@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bizak- Estudio de Pulseras Estilo Total Juguete  35005029 '
-date: 2022-09-09 11:00:15
+date: 2022-09-10 11:19:22
 image: 'https://m.media-amazon.com/images/I/418im8Y-AGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bizak'
 buyurl: 'https://www.amazon.es/dp/B08BLP5FSD/?tag=tolees-21'
 descuento: '58.98'
-average: '9.24862068965515'
+average: '9.28199999999998'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
