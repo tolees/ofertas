@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Chándal Poly Suit cl  Peacoat  M'
-date: 2022-09-09 10:55:14
+date: 2022-09-11 05:35:27
 image: 'https://m.media-amazon.com/images/I/316rZXrejNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B0916B4TGS/?tag=tolees-21'
 descuento: '38.22'
-average: '43.4223214285715'
+average: '43.2561403508773'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
