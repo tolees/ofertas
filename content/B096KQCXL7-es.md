@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espuma viscoelástica refrigerada por aire
-- Lavable a máquina
-- Skech Knit
 - Zapato cómodo
 - Vegano
+- Espuma viscoelástica refrigerada por aire
+- Skech Knit
+- Lavable a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

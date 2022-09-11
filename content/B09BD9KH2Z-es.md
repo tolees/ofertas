@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Napapjiri Rainforest Winter 2 Jacket  Blue French  S Mens'
-date: 2022-09-08 15:10:02
+date: 2022-09-11 16:57:09
 image: 'https://m.media-amazon.com/images/I/4107DsIioxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Napapjiri'
 buyurl: 'https://www.amazon.es/dp/B09BD9KH2Z/?tag=tolees-21'
 descuento: '50.76'
-average: '94.5966666666667'
+average: '95.4425'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
