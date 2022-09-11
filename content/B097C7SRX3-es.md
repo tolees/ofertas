@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Planta moldeada
 - IMEVA: material de PUMA para una sensación cómoda y ligera
 - Tira acolchada de piel sintética con estampado gráfico
-- Planta moldeada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

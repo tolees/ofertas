@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tacto suave
-- GOOD GRIP
 - Flexible
 - Acolchado:
+- GOOD GRIP
+- Tacto suave
 - Etra Durable INGREDIENTS
 
 [🛒 Comprar!!!]({{< param buyurl >}})

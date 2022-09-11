@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca del producto: Tommy Hilfiger
 - Diseño atractivo
 - Diseño ligero
+- Marca del producto: Tommy Hilfiger
 - El material ofrece una comodidad óptima
 
 [🛒 Comprar!!!]({{< param buyurl >}})
