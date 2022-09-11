@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI MateBook 16 - Ordenador portátil 16" 2 5K  AMD Ryzen7 5800H  16GB RAM  512GB SSD  AMD Radeon Graphics  Windows 11 Home  Gris - Teclado QWERTY Español'
-date: 2022-09-10 09:41:19
+date: 2022-09-11 12:22:07
 image: 'https://m.media-amazon.com/images/I/41x3x1eLCXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B09VH8GSSH/?tag=tolees-21'
 descuento: '40.77'
-average: '849.0'
+average: '836.5'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En el paquete: HUAWEI MateBook 16, adaptador de corriente USB-C de HUAWEI, cable de carga USB-C, guía de inicio rápido, tarjeta de garantía
-- ocasiones de uso: en casa, en la oficina doméstica, en el trabajo, en la universidad, viajar
-- Cámara 720p FullHD
-- Almacenamiento de 512 GB NVMe PCIe SSD
 - Tarjeta gráfica AMD Radeon Graphics
-- Procesador AMD Ryzen 7 5800H, 3.2 GHz, 16 GB
-- Medidas: 351 x 254,9 mm x 17,8 mm (alto x ancho x grosor), peso: 1,99 kg
-- Pantalla de 16", 2K (2520 x 1680 pixeles), 60Hz, IPS 250 nits, ratio de aspecto 3:2 relación pantalla cuerpo 90%
+- ocasiones de uso: en casa, en la oficina doméstica, en el trabajo, en la universidad, viajar
+- En el paquete: HUAWEI MateBook 16, adaptador de corriente USB-C de HUAWEI, cable de carga USB-C, guía de inicio rápido, tarjeta de garantía
 - Sistema Operativo: ‎Windows 11 Home
 - Memoria RAM de 16 GB DDR4 Dual Channel
+- Pantalla de 16", 2K (2520 x 1680 pixeles), 60Hz, IPS 250 nits, ratio de aspecto 3:2 relación pantalla cuerpo 90%
+- Cámara 720p FullHD
+- Almacenamiento de 512 GB NVMe PCIe SSD
+- Medidas: 351 x 254,9 mm x 17,8 mm (alto x ancho x grosor), peso: 1,99 kg
+- Procesador AMD Ryzen 7 5800H, 3.2 GHz, 16 GB
 
 [🛒 Aquí!!!]({{< param buyurl >}})
