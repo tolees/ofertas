@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Chino slim
 - Microprint
 - Reconsider: Algodón BCI
-- Chino slim
 
 [🛒 Comprar!!!]({{< param buyurl >}})

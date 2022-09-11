@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela acolchada
 - Plantilla con soporte de arco
+- Suela acolchada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
