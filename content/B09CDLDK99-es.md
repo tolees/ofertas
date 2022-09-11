@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tirador personalizado y con decoración en cuerda
-- Asas de hombro regulables en PU
 - Materiales resistentes
+- Tirador personalizado y con decoración en cuerda
 - Bandolera fabricada en PU
 - Alta calidad
+- Asas de hombro regulables en PU
 
 [🛒 Comprar!!!]({{< param buyurl >}})
