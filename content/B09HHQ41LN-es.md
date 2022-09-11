@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Epic Games - Fortnite Pack de Leyendas de Menta - NSW'
-date: 2022-08-27 19:34:47
+date: 2022-09-11 07:35:21
 image: 'https://m.media-amazon.com/images/I/51ZBcTY+PgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Epic Games'
 buyurl: 'https://www.amazon.es/dp/B09HHQ41LN/?tag=tolees-21'
 descuento: '50.02'
-average: '19.5358333333335'
+average: '19.3540000000002'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye: Traje de Aura fresca, Accesorio mochilero Multimochila mentolada, Pico Montañista mentolado, Traje de Bombardera mentolada, Accesorio mochilero Macuto mentolado, Pico Rompefrescuras, Traje de Oro esquelementa, Accesorio mochilero Manto mentolado, Pico Cetro triplementa, Envoltorio Menta ardiente y 1000 paVos
-- Los paVos son la moneda del juego que puede utilizarse en Battle Royale de Fortnite, en el modo Creativo y en Salvar el mundo. En Battle Royale y en el modo Creativo, puedes comprar nuevos objetos de personalización, ¡como trajes, alas delta, picos, gestos y envoltorios! En Salvar el mundo, por su parte, puedes comprar llamas de rayos X que contienen esquemas de armas y trampas, ¡además de nuevos héroes y más!
 - Nota: el producto contiene solo el código para descargar. No se incluye ninguna tarjeta de juego.
+- Los paVos son la moneda del juego que puede utilizarse en Battle Royale de Fortnite, en el modo Creativo y en Salvar el mundo. En Battle Royale y en el modo Creativo, puedes comprar nuevos objetos de personalización, ¡como trajes, alas delta, picos, gestos y envoltorios! En Salvar el mundo, por su parte, puedes comprar llamas de rayos X que contienen esquemas de armas y trampas, ¡además de nuevos héroes y más!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mascarilla protectora anti-depósito que protege la fibra capilar de nuevos depósitos de partículas metálicas
-- 87% menos riesgo de rotura* y un resultado de color 100% optimizado, sin impacto en el poder de aclarado y con una absorción de color optimizada. * Test instrumental vs balayage clásico: pre-tratamiento Metal Detox + procedimiento técnico + champú + mascarilla
 - Aplicar uniformemente sobre el cabello lavado y secar con toalla.Dejar actuar de 1 a 15 minutos.Aclarar profundamente.
+- 87% menos riesgo de rotura* y un resultado de color 100% optimizado, sin impacto en el poder de aclarado y con una absorción de color optimizada. * Test instrumental vs balayage clásico: pre-tratamiento Metal Detox + procedimiento técnico + champú + mascarilla
+- Mascarilla protectora anti-depósito que protege la fibra capilar de nuevos depósitos de partículas metálicas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

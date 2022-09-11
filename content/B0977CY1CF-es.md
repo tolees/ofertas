@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Superligero y superconfortable, Jaysen es un abrigo de mujer hidrófugo y resistente al viento realizado con un tejido de nailon 20 denier de micro rayas. Con un corte acampanado y femenino, presenta botones en el fondo.
 - Capucha desmontable
+- Superligero y superconfortable, Jaysen es un abrigo de mujer hidrófugo y resistente al viento realizado con un tejido de nailon 20 denier de micro rayas. Con un corte acampanado y femenino, presenta botones en el fondo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
