@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Duramo 10  Running Shoe Mujer  Core Black/Core Black/Almost Lime  36 2/3 EU'
-date: 2022-09-01 13:07:55
+date: 2022-09-12 10:54:15
 image: 'https://m.media-amazon.com/images/I/31+LAVihJVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096NDBJ8H-es adidas Duramo 10 Running Shoe Mujer Core Black/Core...'
 sku: 'B096NDBJ8H-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','adidas','🇪🇸', ]
-actualPrice: 29.87 EUR
+actualPrice: 29.64 EUR
 currency: EUR
-price: 29.87
+price: 29.64
 comparePrice: 60.0 EUR
 prodname: 'adidas Duramo 10  Running Shoe Mujer  Core Black/Core Black/Almost Lime  36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B096NDBJ8H/?tag=tolees-21'
-descuento: '50.22'
-average: '31.995'
+descuento: '50.60'
+average: '30.8675'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cordones
-- Parte superior con superposiciones textiles
 - Ajuste regular
+- Parte superior con superposiciones textiles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
