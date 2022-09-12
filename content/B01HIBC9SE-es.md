@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Cocinado y limpieza】Exterior de acero inoxidable de alta calidad, tapa para evitar salpicaduras durante el cocinado. Recipiente antiadherente totalmente extraíble para facilitar el vaciado de aceite y su limpieza. Cesta de acero inoxidable con mango de toque frío y desmontable para una mejor sujección
 - 【Garantías de calidad】Si tiene alguna consulta sobre nuestros productos, siempre puede ponerse en contacto con nosotros y estaremos encantados de ayudarle.
+- 【Cocinado y limpieza】Exterior de acero inoxidable de alta calidad, tapa para evitar salpicaduras durante el cocinado. Recipiente antiadherente totalmente extraíble para facilitar el vaciado de aceite y su limpieza. Cesta de acero inoxidable con mango de toque frío y desmontable para una mejor sujección
+- 【Potencia y gran capacidad】Fríe rápidamente gracias a sus 2200 Watios de potencia, Capacidad de 3 litros de aceite, cocina los fritos que más te gusten de forma limpia y eficaz.
 - 【Características adicionales】Patas antideslizantes para mejorar la estabilidad y evitar accidentes, compartimento recogecables, piloto luminoso indicador de encendido y de que el aceite ha alcanzado la temperatura óptima.
 - 【Temperatura ajustable】El termostato interno controla la temperatura de forma precisa permitiendo un ajuste de entre 130°C y 190°C. Perfecto para freír pescados, patatas, pollo o lo que prefiera con un simple ajuste.
-- 【Potencia y gran capacidad】Fríe rápidamente gracias a sus 2200 Watios de potencia, Capacidad de 3 litros de aceite, cocina los fritos que más te gusten de forma limpia y eficaz.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
