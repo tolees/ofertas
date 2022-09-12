@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pikolinos Deportivos Jucar M4e para Caballero Color Espuma'
-date: 2022-09-06 22:12:39
+date: 2022-09-12 06:33:14
 image: 'https://m.media-amazon.com/images/I/31JJLoj-qzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09F3GCW79-es Pikolinos Deportivos Jucar M4e para Caballero Color Espuma'
 sku: 'B09F3GCW79-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','pikolinos','🇪🇸', ]
-actualPrice: 63.11 EUR
+actualPrice: 53.81 EUR
 currency: EUR
-price: 63.11
+price: 53.81
 comparePrice: 109.95 EUR
 prodname: 'Pikolinos Deportivos Jucar M4e para Caballero Color Espuma'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pikolinos'
 buyurl: 'https://www.amazon.es/dp/B09F3GCW79/?tag=tolees-21'
-descuento: '42.60'
-average: '60.675'
+descuento: '51.06'
+average: '58.3866666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

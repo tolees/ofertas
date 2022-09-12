@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alimentación: 1 pila de 3V (CR2032), Precisa de una pila tipo “botón” (incluida), Temperatura de funcionamiento: -10 °C a 50 °C
-- Precisa de una pila tipo “botón” (incluida)
 - Temperatura de funcionamiento: -10 °C a 50 °C, smart.
+- Precisa de una pila tipo “botón” (incluida)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Springfield Vestido Corto Moss para Mujer  Beige/Camel  38'
-date: 2022-09-10 18:56:06
+date: 2022-09-12 06:12:41
 image: 'https://m.media-amazon.com/images/I/41atAIokLPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corto
 - Vestido
+- Corto
 - Moss
 
 [🛒 Visítala!!!]({{< param buyurl >}})
