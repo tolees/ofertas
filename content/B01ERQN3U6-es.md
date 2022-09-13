@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma - Anorack Capucha Urban Royal para Hombre'
-date: 2022-09-10 18:28:44
+date: 2022-09-13 19:20:01
 image: 'https://m.media-amazon.com/images/I/41QycA1FS3S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha desmontable
-- Rib en puños y bajo para un ajuste óptimo
 - Resistente al viento y al agua
 - Ofrece comodidad y libertad de movimiento
+- Capucha desmontable
+- Rib en puños y bajo para un ajuste óptimo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Philips Lighting - Aplique de exterior  empotrado  casquillo gordo E27  bombilla no incluida  resistente a la intemperie  IP44  negro  19.5 cm'
-date: 2022-09-09 19:12:00
+title: 'Philips Lighting My Garden Creek - Lámpara de pared  1 x 60 W  220 V  color negro  915002790302 '
+date: 2022-09-13 20:49:24
 image: 'https://m.media-amazon.com/images/I/41++5DA+mgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00B45MGU2-es Philips Lighting - Aplique de exterior empotrado casquillo...'
+slug: 'B00B45MGU2-es Philips Lighting My Garden Creek - Lámpara de pared 1 x 60...'
 sku: 'B00B45MGU2-es'
 tags: [ 'Apliques de exterior','Iluminación','Iluminación de exterior','philips lighting','🇪🇸', ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79
 comparePrice: 27.15 EUR
-prodname: 'Philips Lighting - Aplique de exterior  empotrado  casquillo gordo E27  bombilla no incluida  resistente a la intemperie  IP44  negro  19.5 cm'
+prodname: 'Philips Lighting My Garden Creek - Lámpara de pared  1 x 60 W  220 V  color negro  915002790302 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Philips Lighting'
 buyurl: 'https://www.amazon.es/dp/B00B45MGU2/?tag=tolees-21'
 descuento: '49.21'
-average: '14.76625'
+average: '14.7088235294118'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Red eléctrica: rango 220 V - 240 V
-- IP44 - apto para exteriores
-- Vatios máximos de la bombilla de repuesto: 60 W
-- Casquillo: E27
+- Crea un encantador punto destacado en tu entrada con este aplique My Garden de Philips negro
+- Está fabricado con aluminio de alta calidad y proyecta una luz blanca cálida de bajo consumo
+- Voltaje: 240.0 volts
+- Todo lo que tienes que hacer es disfrutar de tu jardín
+- Fuente de alimentación: eléctrica con cable
+- Vataje (W): 3.0 watts
 
 [🛒 Visítala!!!]({{< param buyurl >}})
