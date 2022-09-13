@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Puma Smash V2 L  Zapatillas Unisex Adulto  Blanco White White  44 EU'
-date: 2022-08-29 21:27:34
+title: 'PUMA Smash V2 L  Zapatillas Unisex Adulto  Blanco  White/White   44 EU'
+date: 2022-09-13 06:20:27
 image: 'https://m.media-amazon.com/images/I/319OMlLblAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B077M8YXL2-es Puma Smash V2 L Zapatillas Unisex Adulto Blanco White...'
+slug: 'B077M8YXL2-es PUMA Smash V2 L Zapatillas Unisex Adulto Blanco...'
 sku: 'B077M8YXL2-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','puma','🇪🇸', ]
-actualPrice: 24.49 EUR
+actualPrice: 30.49 EUR
 currency: EUR
-price: 24.49
+price: 30.49
 comparePrice: 49.95 EUR
-prodname: 'Puma Smash V2 L  Zapatillas Unisex Adulto  Blanco White White  44 EU'
+prodname: 'PUMA Smash V2 L  Zapatillas Unisex Adulto  Blanco  White/White   44 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B077M8YXL2/?tag=tolees-21'
-descuento: '50.97'
-average: '34.8502857142857'
+descuento: '38.96'
+average: '35.2809523809524'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: Cordones
 - Material de la suela: Caucho
+- Cierre: Cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
