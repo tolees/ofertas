@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Tijuana  Zapatillas Mujer  Negro  R Black 59   39 EU'
-date: 2022-09-09 19:27:59
+date: 2022-09-13 14:54:30
 image: 'https://m.media-amazon.com/images/I/31hM-ZRKmNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07SFJBC72/?tag=tolees-21'
 descuento: '48.91'
-average: '24.99'
+average: '24.3233333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

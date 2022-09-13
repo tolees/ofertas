@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   M'
-date: 2022-09-09 11:14:38
+date: 2022-09-13 14:26:56
 image: 'https://m.media-amazon.com/images/I/31OcIAjyHkS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMSDR1/?tag=tolees-21'
 descuento: '40.12'
-average: '25.7901149425284'
+average: '25.7692045454542'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste regular
-- Lavar a la maquina
 - Capucha con cordón
+- Lavar a la maquina
 - Bolsillo canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
