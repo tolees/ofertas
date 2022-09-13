@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Creativity S  Pouches/Cases para Mujer  Grey Grau  4x14.5x9.5 cm  LxWxH '
-date: 2022-09-06 15:31:28
+date: 2022-09-13 02:49:11
 image: 'https://m.media-amazon.com/images/I/41NZwyq8zQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kipling'
 buyurl: 'https://www.amazon.es/dp/B083YD44HK/?tag=tolees-21'
 descuento: '39.80'
-average: '11.8266666666667'
+average: '12.2785714285715'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
