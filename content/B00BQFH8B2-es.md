@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Flexi - Correa giant L cinta 8 m'
-date: 2022-09-04 12:28:07
+date: 2022-09-13 17:18:48
 image: 'https://m.media-amazon.com/images/I/41RzbeBDo2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'FLEXI'
 buyurl: 'https://www.amazon.es/dp/B00BQFH8B2/?tag=tolees-21'
 descuento: '54.29'
-average: '29.2172727272727'
+average: '29.115'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para perros de hasta máx. 50 kg
+- Asa blanda robusta
 - Cinta robusta de color neón
 - Imprenta de color neón
-- Asa blanda robusta
+- Para perros de hasta máx. 50 kg
 - Correa de cinta de 8 m
 
 [🛒 Visítala!!!]({{< param buyurl >}})
