@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL WAVE 200TWS Auriculares inalámbricos intraaurales con sonido JBL Deep Bass  asistente de voz con control táctil y resistencia al agua IPX2 - hasta 20h de música'
-date: 2022-09-07 22:26:16
+date: 2022-09-14 10:21:24
 image: 'https://m.media-amazon.com/images/I/31OiVqIe1iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09HGGV5R5-es JBL WAVE 200TWS Auriculares inalámbricos intraaurales con...'
 sku: 'B09HGGV5R5-es'
 tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','jbl','🇪🇸', ]
-actualPrice: 42.5 EUR
+actualPrice: 41.47 EUR
 currency: EUR
-price: 42.5
+price: 41.47
 comparePrice: 79.99 EUR
 prodname: 'JBL WAVE 200TWS Auriculares inalámbricos intraaurales con sonido JBL Deep Bass  asistente de voz con control táctil y resistencia al agua IPX2 - hasta 20h de música'
 country: 'es'
 flag: '🇪🇸'
 brand: 'JBL'
 buyurl: 'https://www.amazon.es/dp/B09HGGV5R5/?tag=tolees-21'
-descuento: '46.87'
-average: '45.3345454545455'
+descuento: '48.16'
+average: '44.743076923077'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Auriculares sin cables con asistente de voz con control táctil; descubre la libertad de un estilo de vida inalámbrico mientras escuchas música, haces llamadas telefónicas o haces ejercicio
 - Con 5h en los auriculares y 15h en el estuche, el JBL Wave 200TWS se parará solo cuando tú lo decidas. Además, añade diversión a tu rutina con los graves profundos de los amplificadores de 8 mm
 - Contenido del envío: 1x JBL WAVE 200TWS Auriculares Inalámbricos Bluetooth, estuche de carga, cable de carga USB tipo C, 3x almohadillas en dif. tamaños para ajuste confortable
 - Con la opción de utilizar uno o ambos cascos: atiende llamadas o escucha música con cualquiera de los 2 auriculares (o ambos). Elige cuál utilizar y deja el otro en el estuche para ahorrar batería
+- Auriculares sin cables con asistente de voz con control táctil; descubre la libertad de un estilo de vida inalámbrico mientras escuchas música, haces llamadas telefónicas o haces ejercicio
 - JBL Wave 200TWS es ergonómico y se ajusta cómodamente a los oídos; para disfrutar de horas de placer sonoro. Tiene almohadillas en 3 tamaños, para un sellado de calidad y claridad de sonido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
