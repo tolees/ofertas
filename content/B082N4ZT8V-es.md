@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Refrigerado por aire
 - 0
 - Corte de arco
+- Refrigerado por aire
 
 [🛒 Aquí!!!]({{< param buyurl >}})
