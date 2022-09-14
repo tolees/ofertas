@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior de piel, nobuck o ante [dependiendo del color]
 - Perfil protegido de DC Pill con patrón de espiga para un máximo agarre
 - Cuello y lengüeta acolchados con espuma para mayor comodidad y apoyo
 - Suela de copa
+- Parte superior de piel, nobuck o ante [dependiendo del color]
 
 [🛒 Visítala!!!]({{< param buyurl >}})

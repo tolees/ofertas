@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr.Wonderful - Caja de Caramelos - Premio a la Persona Más Fantástica'
-date: 2022-09-10 22:57:55
+date: 2022-09-14 05:53:14
 image: 'https://m.media-amazon.com/images/I/31i-irY7XkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09KW15XKW-es Mr.Wonderful - Caja de Caramelos - Premio a la Persona Más...'
 sku: 'B09KW15XKW-es'
 tags: [ 'mr.wonderful','🇪🇸', ]
-actualPrice: 4.78 EUR
+actualPrice: 6.01 EUR
 currency: EUR
-price: 4.78
+price: 6.01
 comparePrice: 10.95 EUR
 prodname: 'Mr.Wonderful - Caja de Caramelos - Premio a la Persona Más Fantástica'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Mr.Wonderful'
 buyurl: 'https://www.amazon.es/dp/B09KW15XKW/?tag=tolees-21'
-descuento: '56.35'
-average: '5.12'
+descuento: '45.11'
+average: '5.41666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

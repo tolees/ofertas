@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Ward  Zapatillas Hombre  Negro  Suede/Canvas/Black/White   44 EU'
-date: 2022-09-13 06:24:22
+date: 2022-09-14 06:30:49
 image: 'https://m.media-amazon.com/images/I/419mi-PB0GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B06XHRXCGV/?tag=tolees-21'
 descuento: '41.20'
-average: '51.5817525773198'
+average: '51.4754081632655'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
