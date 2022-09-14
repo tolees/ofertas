@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Superga Mujer Gris 39.5 EU'
-date: 2022-08-31 06:23:36
-image: 'https://m.media-amazon.com/images/I/31IlinpW06L._SL500_._SL400_.jpg'
+date: 2022-09-14 05:02:52
+image: 'https://m.media-amazon.com/images/I/41fwp+E+wAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B00WRWUDJW/?tag=tolees-21'
 descuento: '58.33'
-average: '33.75'
+average: '32.5'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Solé material: Caucho
 - Cierre: Con cordones
+- Solé material: Caucho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
