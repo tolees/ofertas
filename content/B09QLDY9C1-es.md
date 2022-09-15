@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans New Virginia Ss N T-Shirt  Mujer  Azul  Navy   S'
-date: 2022-09-13 20:23:17
+date: 2022-09-15 12:19:18
 image: 'https://m.media-amazon.com/images/I/41VU796j-nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho con al menos un 70% de algodón sostenible
 - Nos asociamos con Better Cotton Initiative para el cultivo algodonero
 - Corte Slim
+- Hecho con al menos un 70% de algodón sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

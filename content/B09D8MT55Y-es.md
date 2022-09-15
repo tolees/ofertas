@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ACTIVISION - Call of Duty: Vanguard - Edición exclusiva Amazon'
-date: 2022-09-14 11:53:37
+date: 2022-09-15 12:20:07
 image: 'https://m.media-amazon.com/images/I/41g94LBAExL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ACTIVISION'
 buyurl: 'https://www.amazon.es/dp/B09D8MT55Y/?tag=tolees-21'
 descuento: '53.03'
-average: '55.105'
+average: '48.4766666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - A través de una cautivadora campaña para un solo jugador, un selecto grupo de soldados de diferentes países hacen frente a la mayor amenaza del mundo
-- La edición exclusiva de Amazon incluye Lote Tributo de honor de Call of Duty Endowment. El lote incluye 3 artículos temáticos de Call of Duty Endowment (C.O.D.E.) para el juego: una tarjeta de visita, un emblema y un espray.
-- Los jugadores también dejarán su huella en la característica experiencia multijugador de Call of Duty y en la nueva y trepidante experiencia de Zombis desarrollada por Treyarch
 - Call of Duty: Vanguard marcará el comienzo de una nueva integración con Call of Duty: Warzone tras el lanzamiento, y contará con progreso cruzado, partidas entre consolas de diferente generación y, además, un enorme calendario de contenido gratuito
 - La versión de PS4 incluye retrocompatibilidad en PS5. La versión de Xbox One incluye retrocompatibilidad en Xbox Series X
+- Los jugadores también dejarán su huella en la característica experiencia multijugador de Call of Duty y en la nueva y trepidante experiencia de Zombis desarrollada por Treyarch
+- La edición exclusiva de Amazon incluye Lote Tributo de honor de Call of Duty Endowment. El lote incluye 3 artículos temáticos de Call of Duty Endowment (C.O.D.E.) para el juego: una tarjeta de visita, un emblema y un espray.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
