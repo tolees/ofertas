@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Levis 168sf Low Cut 3p Calcetines  Negro  Jet Black 884   39/42  Talla del Fabricante: 039  para Hombre'
-date: 2022-09-12 07:30:24
+date: 2022-09-15 08:00:35
 image: 'https://m.media-amazon.com/images/I/31QRMVjJZxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07VSH4HGR/?tag=tolees-21'
 descuento: '35.94'
-average: '6.872'
+average: '6.79333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
