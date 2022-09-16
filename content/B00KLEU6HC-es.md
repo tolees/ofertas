@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '4711 Edc Original 200 ml'
-date: 2022-09-13 05:20:36
+date: 2022-09-16 20:12:14
 image: 'https://m.media-amazon.com/images/I/51AvtqQsrOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 4711 Original agua de colonia 200 ml vaporizador (52280)
-- Agua de colonia perfumería unisex adulto
 - Agua De Colonia 4711
+- Agua de colonia perfumería unisex adulto
+- 4711 Original agua de colonia 200 ml vaporizador (52280)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
