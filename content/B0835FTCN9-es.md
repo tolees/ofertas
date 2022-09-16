@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Interior envolvente EVA
-- logo de TPR moldeado en el panel lateral
 - Tejido interior de malla, mayor confort
+- logo de TPR moldeado en el panel lateral
 - Lengüeta y cuello acolchados con espuma para mayor confort y sujeción
 - Parte superior de cuero, nubuck, gamuza o malla
 

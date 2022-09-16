@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta cropped margaritas
-- Estampado de signo ...!! de la colección con diseño de margaritas
 - Sostenible: algodón BCI
+- Camiseta cropped margaritas
 - Lentejuelas bordadas en las margaritas
+- Estampado de signo ...!! de la colección con diseño de margaritas
 - Sostenible: algodón BCI
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

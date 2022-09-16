@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Gran decoración para tu piscina, jardín, patio, césped o porche
-- Se carga durante el día con la luz del sol, por la noche se iluminará aportando mucho color a tus fiestas en la piscina
-- Es un led que flota en el agua y va cambiando de color
-- Gran decoración para tu piscina, jardín, patio, césped o porche
 - Tiene un atonomía de hasta 8 horas
+- Se carga durante el día con la luz del sol, por la noche se iluminará aportando mucho color a tus fiestas en la piscina
+- Gran decoración para tu piscina, jardín, patio, césped o porche
+- Es un led que flota en el agua y va cambiando de color
 
 [🛒 Aquí!!!]({{< param buyurl >}})
