@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zygomatic-Combo Color Español Asmodée Juego de Conquista Estratégica  2-4 Jugadores  multicolor ZYGCOM01ESPT   color/modelo surtido'
-date: 2022-09-15 14:11:16
+date: 2022-09-16 15:10:44
 image: 'https://m.media-amazon.com/images/I/512uFoKSwBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07Y8Q7JQ4-es Zygomatic-Combo Color Español Asmodée Juego de Conquista...'
 sku: 'B07Y8Q7JQ4-es'
 tags: [ 'Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','zygomatic','🇪🇸', ]
-actualPrice: 14.7 EUR
+actualPrice: 9.5 EUR
 currency: EUR
-price: 14.7
+price: 9.5
 comparePrice: 24.99 EUR
 prodname: 'Zygomatic-Combo Color Español Asmodée Juego de Conquista Estratégica  2-4 Jugadores  multicolor ZYGCOM01ESPT   color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Zygomatic'
 buyurl: 'https://www.amazon.es/dp/B07Y8Q7JQ4/?tag=tolees-21'
-descuento: '41.18'
-average: '14.9699999999999'
+descuento: '61.98'
+average: '14.8180555555555'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

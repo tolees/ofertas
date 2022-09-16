@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema de cordones de velocidad: proporciona un ajuste seguro que se puede ajustar con facilidad.
-- Parte superior de malla: la parte superior transpirable fomenta que el aire frío circule y permite que el vapor de humedad se escape.
-- Soporte de talón integrado: aumenta la estabilidad sobre terrenos difíciles.
-- Superposiciones sintéticas: aumenta la durabilidad del zapato mientras aumenta el apoyo al medio pie.
 - Puntera duradera: protege contra golpes y rozaduras.
+- Superposiciones sintéticas: aumenta la durabilidad del zapato mientras aumenta el apoyo al medio pie.
+- Parte superior de malla: la parte superior transpirable fomenta que el aire frío circule y permite que el vapor de humedad se escape.
+- Sistema de cordones de velocidad: proporciona un ajuste seguro que se puede ajustar con facilidad.
+- Soporte de talón integrado: aumenta la estabilidad sobre terrenos difíciles.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

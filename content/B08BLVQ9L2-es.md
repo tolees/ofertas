@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Batwing Trifold Wallet  Accesorio de Viaje-Billetera Plegable Triple para Hombre  Black Normal  UN'
-date: 2022-09-08 00:45:34
+date: 2022-09-16 15:52:44
 image: 'https://m.media-amazon.com/images/I/51sjAQumk1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLVQ9L2/?tag=tolees-21'
 descuento: '47.06'
-average: '17.35'
+average: '17.1175'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Negro
+- negro
 - Cartera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
