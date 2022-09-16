@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Archer T2U Nano - AC600 Adaptador Wi-Fi Nano USB  doble banda 2.4 GHz / 5 GHz  compatible con Windows y MacOS'
-date: 2022-09-08 23:25:35
+date: 2022-09-16 00:36:54
 image: 'https://m.media-amazon.com/images/I/41vJOq33DcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B07KRCW6LZ/?tag=tolees-21'
 descuento: '36.38'
-average: '13.5204081632653'
+average: '13.5298'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nano diseño – diseño pequeño y discreto le permite conectar y olvidarse de que esta conectado el dispositivo
+- Alta velocidad Wi-Fi – hasta velocidades de 600Mbps con 200Mbps en 2.4GHz y 433 Mbps a 5GHz, actualiza tus dispositivos a velocidades más altas de AC WiFi
+- Seguridad avanzada, soporta 64/128-bit WEP, WPA/WPA2 y WPA-PSK/WPA2-PSK estándares de cifrado
 - Doble banda Inalámbrica– 2,4 GHz y 5GHz banda de conectividad flexibles, actualiza tus dispositivos para trabajar con el último router de WiFi de doble banda para mayor velocidad y rango extendido
 - Compatible con la tecnología 256QAM aumenta 2,4 GHz velocidad de datos de 150Mbps a 200Mbps de 33% de rendimiento más rápido
 - Sistema operativo: soporta Windows 10/8.1/8/7/XP, Mac OS X
-- Alta velocidad Wi-Fi – hasta velocidades de 600Mbps con 200Mbps en 2.4GHz y 433 Mbps a 5GHz, actualiza tus dispositivos a velocidades más altas de AC WiFi
-- Seguridad avanzada, soporta 64/128-bit WEP, WPA/WPA2 y WPA-PSK/WPA2-PSK estándares de cifrado
+- Nano diseño – diseño pequeño y discreto le permite conectar y olvidarse de que esta conectado el dispositivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
