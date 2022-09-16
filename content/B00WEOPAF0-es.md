@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MULTICENTRUM MUJER Vitaminas y Minerales Mujer 50+ 90 comprimidos'
-date: 2022-09-15 10:42:46
+date: 2022-09-16 12:14:31
 image: 'https://m.media-amazon.com/images/I/51dIulgxcLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MULTICENTRUM'
 buyurl: 'https://www.amazon.es/dp/B00WEOPAF0/?tag=tolees-21'
 descuento: '38.38'
-average: '20.2309999999998'
+average: '20.1493442622949'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contribuye al buen funcionamiento del sistema inmunitario, a mantener la salud de los huesos y a hacer frente a los cambios en las necesidades nutricionales tras la postmenopausia
 - Fórmula especialmente equilibrada con 13 vitaminas y 11 minerales, alto contenido en vitamina D, vitaminas B, biotina, ácido fólico, calcio, hierro y magnesio, entre otros
 - Multivitamínico para mujeres a partir de 50 años que ayuda a mantener una alimentación saludable, completando el aporte de micronutrientes y disminuyendo el cansancio y la fatiga
-- Contribuye al buen funcionamiento del sistema inmunitario, a mantener la salud de los huesos y a hacer frente a los cambios en las necesidades nutricionales tras la postmenopausia
-- Envase de 90 comprimidos
 - Multivitaminas sin gluten, lactosa, azúcar y fructosa
+- Envase de 90 comprimidos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
