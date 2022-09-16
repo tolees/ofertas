@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kativa Macadamia Champú Nutritivo 500 ml | Hidratación  Suavidad y brillo | Cabello Seco y Deshidratado | Champú Sin Sulfatos ni Parabenos | Omega 3 y 6 y Vitamina D'
-date: 2022-09-12 10:19:50
+date: 2022-09-16 17:07:47
 image: 'https://m.media-amazon.com/images/I/21Q-aQ58ZqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formulada con aceite de macadamia.
-- Hidrata las fibras capilares.
 - Libre de sal y sulfatos.
 - Nutre el cabello dañado por alisados, planchados o uso de la secadora.
+- Hidrata las fibras capilares.
 - Limpia profundamente el cabello.
+- Formulada con aceite de macadamia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

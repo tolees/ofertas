@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos laterales y trasero
-- Estilo formal contemporáneo
 - Trabilla para cinturón
+- Estilo formal contemporáneo
+- Bolsillos laterales y trasero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
