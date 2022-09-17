@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Carcasa de aluminio resistente
 - Comodidad característica de HyperX
+- DTS Headphone:X Spatial Audio
 - Micrófono desmontable con cancelación del ruido
 - Compatibles con PC, Xbox Series X|S y Xbox One
-- DTS Headphone:X Spatial Audio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
