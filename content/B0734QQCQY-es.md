@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cacharel Perfume 100 ml'
-date: 2022-09-15 07:25:15
+date: 2022-09-16 23:19:38
 image: 'https://m.media-amazon.com/images/I/31PuYzj2rhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perfumes y fragancias : Agua de tocador para mujeres
-- Peso del Producto: 100 Mililitros
 - Perfumeria Mujer
+- Peso del Producto: 100 Mililitros
+- Perfumes y fragancias : Agua de tocador para mujeres
 
 [🛒 Comprar!!!]({{< param buyurl >}})
