@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Después de haber creado looks con esta paleta, será difícil no gritar Mírame... (¡Amigos entusiastas, sabrán a qué nos referimos!).
 - Encerrada en un compacto cuadrado fácil y transportable, con el icónico sillón del apartamento de Joey y Chandler, esta paleta es un regalo perfecto para ti o para un fan de Friends.
 - Esta paleta presenta 9 tonos brillantes cálidos mate y brillante
+- Después de haber creado looks con esta paleta, será difícil no gritar Mírame... (¡Amigos entusiastas, sabrán a qué nos referimos!).
 - Vegano y Cruelty Free: No contiene ningún ingrediente derivado de animales. Aprobado por PETA como Animal Test Free.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

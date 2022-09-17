@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SteelSeries Rival 5 - Ratón gaming - Sensor óptico TrueMove Air de 18 000 CPI - 9 botones programables - 85 g de peso para competir'
-date: 2022-09-15 15:45:03
+date: 2022-09-17 09:07:59
 image: 'https://m.media-amazon.com/images/I/31iTKr+WSkS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SteelSeries'
 buyurl: 'https://www.amazon.es/dp/B093QD2KW4/?tag=tolees-21'
 descuento: '36.70'
-average: '50.1184615384615'
+average: '49.7521428571428'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sensor óptico gaming de precisión TrueMove Air con rastreo 1 a 1 auténtico
-- Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
-- Ligerísimos 85 g para competir y resistir
-- Interruptores Golden Micro IP54
 - Configuración ergonómica de 9 botones programables con 5 botones laterales de acción rápida
+- Interruptores Golden Micro IP54
+- Ligerísimos 85 g para competir y resistir
+- Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
+- Sensor óptico gaming de precisión TrueMove Air con rastreo 1 a 1 auténtico
 - Óptimo para los Battle Royale, FPS, MOBA, MMO y otros juegos de ritmo vertiginoso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Volumen flexible y gradual
+- La fórmula Lycra Technology hace que las pestañas se van voluptuosas al mismo tiempo que se mantienen flexibles
+- Hasta 24 horas de duración
 - Construye un volumen extremo con varias aplicaciones sin sensación de pesadez en las pestañas
 - El cepillo MaxDensity permite definir y dar volumen pestaña a pestaña sin esfuerzo
-- Hasta 24 horas de duración
-- La fórmula Lycra Technology hace que las pestañas se van voluptuosas al mismo tiempo que se mantienen flexibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
