@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Domestic Appliances l Or Barista Sublime Cafetera de Cápsulas  Negro Piano  Reconocimiento de Cápsula Doble  1 o 2 Tazas  Bandeja de Goteo Ajustable   LM9012/60 '
-date: 2022-09-09 21:01:38
+date: 2022-09-17 18:18:22
 image: 'https://m.media-amazon.com/images/I/41BC5itzOuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09B166BMD-es Philips Domestic Appliances l Or Barista Sublime Cafetera...'
 sku: 'B09B166BMD-es'
 tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','philips domestic appliances','🇪🇸', ]
-actualPrice: 53.09 EUR
+actualPrice: 55.72 EUR
 currency: EUR
-price: 53.09
+price: 55.72
 comparePrice: 109.99 EUR
 prodname: 'Philips Domestic Appliances l Or Barista Sublime Cafetera de Cápsulas  Negro Piano  Reconocimiento de Cápsula Doble  1 o 2 Tazas  Bandeja de Goteo Ajustable   LM9012/60 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Philips Domestic Appliances'
 buyurl: 'https://www.amazon.es/dp/B09B166BMD/?tag=tolees-21'
-descuento: '51.73'
-average: '54.3504166666665'
+descuento: '49.34'
+average: '54.4051999999998'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

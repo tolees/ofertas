@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se presenta en estuche de tela que facilita su transporte y posterior almacenaje de los utensilios
-- Incluye: cuchillo, tenazas, 6 pinchos, una espátula y un tenedor
 - Completo kit de accesorios para barbacoa
+- Incluye: cuchillo, tenazas, 6 pinchos, una espátula y un tenedor
+- Se presenta en estuche de tela que facilita su transporte y posterior almacenaje de los utensilios
 - Materiales: mangos de madera y cuerpo de acero inoxidable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
