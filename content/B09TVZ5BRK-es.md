@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fire Records - Ultraviolet Battle Hymns And True Confessions'
-date: 2022-09-16 12:02:55
+date: 2022-09-17 12:24:51
 image: 'https://m.media-amazon.com/images/I/51q4a7FgSTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

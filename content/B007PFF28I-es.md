@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Usb 2.0 Palillo De 32 Gb  Nieve Edición  Blanco  Gris'
-date: 2022-09-15 15:20:33
+date: 2022-09-17 13:17:20
 image: 'https://m.media-amazon.com/images/I/41trtJNdPKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B007PFF28I/?tag=tolees-21'
 descuento: '55.64'
-average: '4.76777777777778'
+average: '4.79'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
