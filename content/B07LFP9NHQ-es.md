@@ -31,7 +31,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Estructura segura y resistente; hecha de acero duradero y tela de algodón Oxford; color azul
 - Set de 2 sillas para exteriores acolchadas con gravedad cero para una máxima comodidad y relax al aire libre
 - Limpia las manchas con un paño húmedo; no la planches ni uses productos químicos fuertes para limpiarla
-- Reposacabezas extraíble y práctico sujetavasos en cada silla; sillas plegables para un almacenamiento compacto y un fácil transporte
 - Cada una mide 165 x 74,9 x 112 cm y pesa 9,81 kg
+- Reposacabezas extraíble y práctico sujetavasos en cada silla; sillas plegables para un almacenamiento compacto y un fácil transporte
 
 [🛒 Comprar!!!]({{< param buyurl >}})

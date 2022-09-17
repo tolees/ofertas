@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hi-Tec Jaguar  Zapatillas de Senderismo Hombre  Negro  Black/Picante 21   42 EU'
-date: 2022-09-16 13:52:28
+date: 2022-09-17 14:19:31
 image: 'https://m.media-amazon.com/images/I/41wBzsAEUOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hi-Tec'
 buyurl: 'https://www.amazon.es/dp/B07LCWYZGR/?tag=tolees-21'
 descuento: '50.32'
-average: '37.92'
+average: '36.2633333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
