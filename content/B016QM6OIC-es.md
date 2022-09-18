@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Detalle de botón y ojales en la parte superior
 - Logo de Tommy Hilfiger bordado en la parte delantera
 - Logo de Tommy Hilfiger en la parte trasera
-- Detalle de botón y ojales en la parte superior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

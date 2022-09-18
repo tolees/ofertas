@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brembo P 06 025 Pastillas de Frenos'
-date: 2022-09-09 23:09:18
+date: 2022-09-18 19:46:01
 image: 'https://m.media-amazon.com/images/I/31qUYyhbgGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Brembo'
 buyurl: 'https://www.amazon.es/dp/B00AJT9ASK/?tag=tolees-21'
 descuento: '59.43'
-average: '21.07'
+average: '20.1266666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
