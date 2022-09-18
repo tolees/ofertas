@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Resistente al viento y al agua
-- Capucha desmontable
 - Rib en puños y bajo para un ajuste óptimo
 - Ofrece comodidad y libertad de movimiento
+- Capucha desmontable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

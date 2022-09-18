@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura ajustable
-- Diseño tradicional de 5 bolsillos
 - Ajuste de pierna súper delgado
 - Mezclilla suave y elástica para un uso diario fácil y cómodo
+- Cintura ajustable
+- Diseño tradicional de 5 bolsillos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
