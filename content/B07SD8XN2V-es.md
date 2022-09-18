@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Ervik Jacke  Chaqueta Hombre  Rojo  L'
-date: 2022-09-08 22:23:33
+date: 2022-09-18 10:01:43
 image: 'https://m.media-amazon.com/images/I/41c+yA0qg-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de deporte: Outdoor Sports Apparel
-- Impermeable, cortavientos y transpirable
 - Diseño de 2 capas
-- Protección helly tech
-- Tipo de fábrica: 100 % poliéster
 - Totalmente sellado
+- Protección helly tech
 - Tratamiento repelente al agua duradero (dwr)
+- Tipo de fábrica: 100 % poliéster
+- Impermeable, cortavientos y transpirable
+- Tipo de deporte: Outdoor Sports Apparel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
