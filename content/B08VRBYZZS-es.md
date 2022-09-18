@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas SQ21 SW Top Sweatshirt  Mens  Team Navy Blue  L'
-date: 2022-09-15 19:49:22
+date: 2022-09-18 01:12:46
 image: 'https://m.media-amazon.com/images/I/41z5XVgoKPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08VRBYZZS/?tag=tolees-21'
 descuento: '35.12'
-average: '32.6533333333333'
+average: '32.6'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Felpa 70% Algodón, 30% Poliéster Reciclado
 - Las icónicas 3 rayas en los lados le dan un aspecto deportivo
 - Cuello redondo
-- Felpa 70% Algodón, 30% Poliéster Reciclado
 - Puños y dobladillo de canalé
 
 [🛒 Aquí!!!]({{< param buyurl >}})

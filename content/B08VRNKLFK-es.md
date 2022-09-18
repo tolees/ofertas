@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas SQ21 SW Top Sweatshirt  Mens  White  L'
-date: 2022-09-15 19:49:22
+date: 2022-09-18 01:12:50
 image: 'https://m.media-amazon.com/images/I/4135LHobolL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08VRNKLFK/?tag=tolees-21'
 descuento: '36.46'
-average: '36.7557142857143'
+average: '36.1325'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Las icónicas 3 rayas en las mangas le dan un aspecto deportivo
+- Felpa 70% Algodón, 30% Poliéster Reciclado
 - Cuello redondo
 - Puños y dobladillo de canalé
-- Felpa 70% Algodón, 30% Poliéster Reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
