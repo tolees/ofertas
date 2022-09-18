@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Nier Automata The End of YoRHa Edition'
-date: 2022-09-15 20:06:36
+date: 2022-09-18 12:34:52
 image: 'https://m.media-amazon.com/images/I/41-+lIcLHBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B0B5FDSPFN/?tag=tolees-21'
 descuento: '50.01'
-average: '52.2757142857143'
+average: '50.74'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye DLC 3C3C1D119440927 y trajes exclusivos.
 - Combates cargados de acción: Alterna entre ataques a corta y larga distancia al enfrentarte a hordas de enemigos y desafiantes jefes en múltiples mapas de mundo abierto.
+- Incluye DLC 3C3C1D119440927 y trajes exclusivos.
 - Los controles de combate son fáciles de dominar para los neófitos y a la vez ofrecen una profundidad formidable para los jugadores más avanzados. Podrás ejecutar ofensivas a gran velocidad combinando ataques ligeros y pesados, y probar todo tu arsenal de armas mientras esquivas enemigos ágilmente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

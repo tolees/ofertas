@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJIGORDON JJSHARK Noos Sweatpants AT PS Pantalones Deportivos  Light Grey Melange  40 para Hombre'
-date: 2022-09-17 07:24:56
+date: 2022-09-18 12:59:20
 image: 'https://m.media-amazon.com/images/I/41b4hNzg57L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08MFQM5SJ/?tag=tolees-21'
 descuento: '40.33'
-average: '19.1710526315789'
+average: '19.2565'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

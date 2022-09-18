@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema de limpieza Teka Hydroclean ECO
+- Programador mecánico de paro de cocción
 - Panel de acero inoxidable antihuella
 - Dimensiones Alto x Ancho x Profundo (cm): 59.5 x 59.5 x 53.7+22
 - 6 funciones de cocinado
-- Programador mecánico de paro de cocción
+- Sistema de limpieza Teka Hydroclean ECO
 
 [🛒 Comprar!!!]({{< param buyurl >}})

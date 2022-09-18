@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Macara Wonder Extension - Máscara de pestañas  11g  tono very black'
-date: 2022-09-09 10:36:31
+date: 2022-09-18 11:11:50
 image: 'https://m.media-amazon.com/images/I/31eq4qDbvtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rimmel London'
 buyurl: 'https://www.amazon.es/dp/B0977MGD5X/?tag=tolees-21'
 descuento: '50.60'
-average: '6.44'
+average: '6.60666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula con tecnología FULL STRETCH
 - A prueba de roces, fácil de quitar y sin grumos
-- Pestañas largas y definidas
 - Cepillo con forma para envolver todas las pestañas y dejalas definidas
+- Fórmula con tecnología FULL STRETCH
+- Pestañas largas y definidas
 - Efecto profesional de extensión de pestañas al instante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

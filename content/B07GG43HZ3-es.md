@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - PRÁCTICA Y FLEXIBLE Preparación sencilla y cómoda con 1 botón, depósito de agua móvil, así como expulsión automática de la cápsula y apertura y cierre eléctricos
 - RESULTADO SIEMPRE ÓPTIMO Crea tazas de café de calidad de barista con sólo pulsar un botón; Café recién hecho, con crema natural y con mucho cuerpo
 - CAFETERA AUTOMÁTICA VERSÁTIL Una máquina para 5 tamaños de café; Crea y personaliza tu bebida Largo, Taza, Gran Lungo, Doble Espresso y Espresso
-- DISEÑO Depósito de agua y contenedor de cápsulas más grandes; También tiene un tiempo de calentamiento rápido de 20 a 25 segundos y tiene un apagado automático después de 9 minutos
-- COMPATIBLIDAD: Cápsulas Vertuo
 - 3 DIFERENTES TAMAÑOS DE CÁPSULAS Elige diferentes tamaños de cápsulas; La cápsula grande para Alto y Taza, la mediana para el Gran Lungo y el Doble Espresso, y la pequeña para el Espresso
+- COMPATIBLIDAD: Cápsulas Vertuo
+- DISEÑO Depósito de agua y contenedor de cápsulas más grandes; También tiene un tiempo de calentamiento rápido de 20 a 25 segundos y tiene un apagado automático después de 9 minutos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
