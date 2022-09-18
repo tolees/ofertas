@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Gorra Negro  Flag Black 083  Talla única'
-date: 2022-09-17 15:59:43
+date: 2022-09-18 19:04:44
 image: 'https://m.media-amazon.com/images/I/31Lslda1fIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B016QM6OIC/?tag=tolees-21'
 descuento: '39.97'
-average: '21.4022222222221'
+average: '21.3860714285713'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logo de Tommy Hilfiger en la parte trasera
 - Logo de Tommy Hilfiger bordado en la parte delantera
+- Logo de Tommy Hilfiger en la parte trasera
 - Detalle de botón y ojales en la parte superior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

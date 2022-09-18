@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Composición del tejido: 100% algodón rejilla trasera 3D transpirable para facilitar la evaporación del sudor cubre arnés incluidos de regalo fabricación 100% española
 - La parte del cubre pies se le puede quitar el relleno para poder utilizar el saco En primavera cuando no hace tanto frío. Medidas: 90 x 55 cm
 - Saco universal para la silla de paseo del bebé, La tapa del cubrepiés se puede quitar por completo y el respaldo cuenta con velcros para poder extraer el arnés de la silla, en cualquier posición. Dispone de cintas superiores y gomas trasera para ajustar mejor a la silla.
-- Composición del tejido: 100% algodón rejilla trasera 3D transpirable para facilitar la evaporación del sudor cubre arnés incluidos de regalo fabricación 100% española
 
 [🛒 Comprar!!!]({{< param buyurl >}})
