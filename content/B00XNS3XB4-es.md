@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Venus Jeans  Mujer  Azul  Denim-M15   28W/30L'
-date: 2022-09-14 09:50:03
+date: 2022-09-18 15:25:22
 image: 'https://m.media-amazon.com/images/I/31HTLL1GF2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00XNS3XB4/?tag=tolees-21'
 descuento: '35.73'
-average: '48.345'
+average: '48.2966666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular
 - Cintura baja
 - Pierna recta
+- Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
