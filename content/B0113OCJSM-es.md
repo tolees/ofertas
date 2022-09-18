@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Tanjun  Zapatillas de Running para Mujer  Gris  Wolf Grey/White   38 EU'
-date: 2022-09-16 07:00:08
+date: 2022-09-17 22:26:35
 image: 'https://m.media-amazon.com/images/I/41wOD4KS3pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B0113OCJSM/?tag=tolees-21'
 descuento: '51.56'
-average: '43.9614285714286'
+average: '42.4625'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para Atletismo y running
 - Zapatillas de última generación
+- Ideal para Atletismo y running
 - Material oficial NIKE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
