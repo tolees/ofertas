@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Springfield Polo Tapeta Oculta  Polo  Hombre  Azul  Azul Oscuro   S'
-date: 2022-09-13 17:17:49
+date: 2022-09-19 18:32:31
 image: 'https://m.media-amazon.com/images/I/31k1Aqukk8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
 - Polo
+- Manga corta
 - Tapeta Oculta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
