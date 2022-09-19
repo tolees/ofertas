@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela: Material Sintético
 - Material exterior: Cuero
 - Revestimiento: Sintético
+- Material de la suela: Material Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

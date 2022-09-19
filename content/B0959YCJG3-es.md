@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido técnico de poliéster de punto doble
-- Contenido total mínimo del 50 % de material reciclado
 - Items delivered: 1x Helly Hansen Mens - HP 1/2 Zip PUllover Apparel Navy XL
-- Hilos con infusión de S.Café para controlar el olor
+- Tejido técnico de poliéster de punto doble
 - Cuello alto con cremallera YKK
+- Contenido total mínimo del 50 % de material reciclado
+- Hilos con infusión de S.Café para controlar el olor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
