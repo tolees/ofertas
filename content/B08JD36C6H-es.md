@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston DataTraveler Exodia DTX/32GB Flash Drive USB 3.2 Gen 1 - with Protective Cap and Keyring in Multiple Colours'
-date: 2022-09-17 09:09:58
+date: 2022-09-19 11:04:51
 image: 'https://m.media-amazon.com/images/I/21e4IoLXBFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B08JD36C6H/?tag=tolees-21'
 descuento: '42.92'
-average: '4.29999999999999'
+average: '4.29184210526315'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
