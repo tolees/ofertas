@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750-Cotu Classic Sneaker  Zapatillas Unisex Adulto  Full Black  44 EU'
-date: 2022-09-09 19:28:13
+date: 2022-09-19 06:50:09
 image: 'https://m.media-amazon.com/images/I/41uHC5lBs0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B002WGIY0I/?tag=tolees-21'
 descuento: '59.32'
-average: '31.9'
+average: '30.9125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de talla: talla estándar
-- Cierre: Cordones
-- Tipo de tacón: Plano
-- Revestimiento: Sin forro
-- Material de la suela: Goma
 - Material exterior: Lona
+- Tipo de tacón: Plano
+- Cierre: Cordones
+- Revestimiento: Sin forro
+- Tipo de talla: talla estándar
+- Material de la suela: Goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

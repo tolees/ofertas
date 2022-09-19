@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Hoa'
-date: 2022-09-17 08:55:12
+date: 2022-09-19 06:11:50
 image: 'https://m.media-amazon.com/images/I/41KYDP0yxJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09NQNQ25Q/?tag=tolees-21'
 descuento: '51.71'
-average: '25.48'
+average: '24.863'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
