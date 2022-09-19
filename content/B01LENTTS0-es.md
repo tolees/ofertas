@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Brief 3P Co/El Boxers  Black 001  M  Pack de 3  para Hombre'
-date: 2022-09-17 13:17:20
+date: 2022-09-19 09:03:17
 image: 'https://m.media-amazon.com/images/I/41o5lPivRHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuados para uso diario
-- Cintura elástica con el logotipo de la marca
-- Calzoncillos para hombre marca Hugo Boss
+- Pack of 3 briefs
+- Soft and stretchy cotton blend
+- Waistband with all-round woven Hugo Boss lettering
+- Double front section without fly
+- Elastic and comfortable waistband
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
