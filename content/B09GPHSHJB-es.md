@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caja redonda de acero inoxidable con esfera en color negro
 - Caja de 43 mm, correa de 22 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica con cronógrafo, importado
+- Caja redonda de acero inoxidable con esfera en color negro
 - Correa de piel en color negro
 - Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
 
