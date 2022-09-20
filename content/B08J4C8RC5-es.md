@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Skechers Flex Advantage 4.0 Tuscan  Zapatillas Hombre  Black Textile Trim  47.5 EU'
-date: 2022-09-06 00:10:00
+title: 'Skechers Flex Advantage 4.0 Tuscan  Slip on Hombre  Black  47.5 EU'
+date: 2022-09-20 00:03:26
 image: 'https://m.media-amazon.com/images/I/31PaOZnvdUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08J4C8RC5-es Skechers Flex Advantage 4.0 Tuscan Zapatillas Hombre Black...'
+slug: 'B08J4C8RC5-es Skechers Flex Advantage 4.0 Tuscan Slip on Hombre Black...'
 sku: 'B08J4C8RC5-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','skechers','🇪🇸', ]
-actualPrice: 38.79 EUR
+actualPrice: 41.73 EUR
 currency: EUR
-price: 38.79
+price: 41.73
 comparePrice: 64.95 EUR
-prodname: 'Skechers Flex Advantage 4.0 Tuscan  Zapatillas Hombre  Black Textile Trim  47.5 EU'
+prodname: 'Skechers Flex Advantage 4.0 Tuscan  Slip on Hombre  Black  47.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B08J4C8RC5/?tag=tolees-21'
-descuento: '40.28'
-average: '37.97'
+descuento: '35.75'
+average: '38.722'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
