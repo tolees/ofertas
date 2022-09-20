@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Zapato cómodo
-- Lavable a máquina
 - Espuma viscoelástica
+- Lavable a máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
