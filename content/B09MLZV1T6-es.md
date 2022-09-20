@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dockers Comfort Knit BT Chino Pantalones  Pembroke  XS para Hombre'
-date: 2022-09-15 21:04:29
+date: 2022-09-20 11:44:53
 image: 'https://m.media-amazon.com/images/I/31jLjRTf0zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

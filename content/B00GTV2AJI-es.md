@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apta para lavavajillas.
-- Tapón hermético.
 - Medidas: 21 x 15,4 x 14,8 cm.
-- Vidrio transparente.
 - Jarra agua frigoverre 2 litros.
+- Tapón hermético.
+- Apta para lavavajillas.
+- Vidrio transparente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

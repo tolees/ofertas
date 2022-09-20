@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Le permite administrar hasta 199 viviendas, 2 accesos de entrada y una unidad de protección central
 - En trabajos de reemplazo, el cambio de la entrada analógica al sistema de entrada de video se puede hacer aprovechando el cableado existente
-- La instalación se puede realizar con el siguiente tipo de cableado: UTP CAT5 / 5 hilos / 3 hilos + Coaxial (video)
-- La capacidad y la distancia del sistema dependerán del cableado de instalación
-- Distancia máxima desde el primer acceso a la última vivienda: 200 m
-- Sistema VDS
-- Monitor videoportero color
 - Pantalla TFT 3.5"
+- La capacidad y la distancia del sistema dependerán del cableado de instalación
+- Monitor videoportero color
+- Sistema VDS
+- Le permite administrar hasta 199 viviendas, 2 accesos de entrada y una unidad de protección central
+- La instalación se puede realizar con el siguiente tipo de cableado: UTP CAT5 / 5 hilos / 3 hilos + Coaxial (video)
+- Distancia máxima desde el primer acceso a la última vivienda: 200 m
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
