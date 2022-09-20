@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJIGORDON JJSHARK Noos Sweatpants AT PS Pantalones Deportivos  Light Grey Melange  40 para Hombre'
-date: 2022-09-18 12:59:20
+date: 2022-09-20 18:49:20
 image: 'https://m.media-amazon.com/images/I/41b4hNzg57L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodos puños anchos de punto en los tobillos, dos bolsillos inclinados, hechos de 100% algodón
-- Cintura elástica ancha y cordón, pequeño logotipo vintage a la izquierda
+- Cotton fabric for a soft and comfortable wear
+- Plus size sweatpants with ribbed cuffs
+- Logo print at side pocket
+- Elasticated waistband with drawstring
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

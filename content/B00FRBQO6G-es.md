@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CMP - Lampara Lectura C/Pinza Surtida'
-date: 2022-09-19 18:30:35
+date: 2022-09-20 19:28:55
 image: 'https://m.media-amazon.com/images/I/31NAjfuew9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CMP'
 buyurl: 'https://www.amazon.es/dp/B00FRBQO6G/?tag=tolees-21'
 descuento: '44.26'
-average: '4.805'
+average: '5.61666666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fíjela a su libro
 - ¡Este formato compacto puede llevarse a cualquier sitio! Detalles: Pilas incluidas
 - pulse el interruptor y oriente el brazo flexible hacia la dirección más confortable
-- Fíjela a su libro
 - Lea en la oscuridad con toda tranquilidad y sin molestar a las personas de su entorno con esta lámpara con pinza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
