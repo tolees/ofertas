@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Caramelos Ricola Equinácea, Miel y Limón
-- Modo de empleo: Dejar que se disuelva en la boca, consumir el caramelo cuando se desee.
-- Formato: Caja 50 g.
 - Efecto balsámico que refresca la garganta.
 - Caramelos Ricola Equinácea, Miel y Limón, elaborados a base de 13 hierbas suizas, proporcionan un suave efecto balsámico que refresca la garganta.
+- Formato: Caja 50 g.
+- Modo de empleo: Dejar que se disuelva en la boca, consumir el caramelo cuando se desee.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
