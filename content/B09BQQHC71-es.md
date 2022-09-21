@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo asimetrico Largo de espalda 28,5"
-- Lona tejida lavada en prenda 100% algodón
 - Forro 100% poliéster canalé de tafetán acolchado
-- Cuello acanalado
+- Lona tejida lavada en prenda 100% algodón
 - Clima: Costero
+- Cuello acanalado
+- Bajo asimetrico Largo de espalda 28,5"
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
