@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El lanzador expulsa los cartuchos este lanzador Nerf de bombeo expulsa automáticamente los cartuchos y guarda uno a la vez
-- Portacartuchos la culata tiene lugar para guardar 5 cartuchos para recargar rápido durante juegos Nerf
-- Viene con 3 cartuchos y 15 dardos este lanzador nerf n-strike elite incluye 5 cartuchos y 15 dardos oficiales nerf
 - Coloca dardos, carga cartuchos coloca 3 dardos en 1 cartucho, carga el cartucho en el lanzador y jala el gatillo para lanzar
+- Viene con 3 cartuchos y 15 dardos este lanzador nerf n-strike elite incluye 5 cartuchos y 15 dardos oficiales nerf
+- El lanzador expulsa los cartuchos este lanzador Nerf de bombeo expulsa automáticamente los cartuchos y guarda uno a la vez
 - Lanza 3 dardos; lanza dardos a la vez con cartuchos que salen expulsados del lanzador de juguete trilogy ds-15
+- Portacartuchos la culata tiene lugar para guardar 5 cartuchos para recargar rápido durante juegos Nerf
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

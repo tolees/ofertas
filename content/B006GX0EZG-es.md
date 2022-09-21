@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Authentic - Zapatillas de Tela  Unisex  color Borgoña  port royale/black   talla 38.5 EU'
-date: 2022-09-18 21:53:00
+date: 2022-09-21 12:03:16
 image: 'https://m.media-amazon.com/images/I/41gMRaf5D9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B006GX0EZG-es Vans Authentic - Zapatillas de Tela Unisex color Borgoña...'
 sku: 'B006GX0EZG-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','vans','🇪🇸', ]
-actualPrice: 23.84 EUR
+actualPrice: 22.94 EUR
 currency: EUR
-price: 23.84
+price: 22.94
 comparePrice: 65.0 EUR
 prodname: 'Vans Authentic - Zapatillas de Tela  Unisex  color Borgoña  port royale/black   talla 38.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B006GX0EZG/?tag=tolees-21'
-descuento: '63.32'
-average: '30.8066666666667'
+descuento: '64.71'
+average: '30.3926315789474'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material de la suela: Caucho
-- Cierre: Cordones
 - Material exterior: Lona
-- Revestimiento: Tela
 - Tipo de tacón: Plana
+- Revestimiento: Tela
+- Cierre: Cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
