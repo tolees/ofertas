@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Deva Mae  Bomba Mujer  Piel Rosa Dusty  38 EU'
-date: 2022-09-19 07:12:35
+date: 2022-09-21 08:02:45
 image: 'https://m.media-amazon.com/images/I/311F+nKOWqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08C5GPTT7-es Clarks Deva Mae Bomba Mujer Piel Rosa Dusty 38 EU'
 sku: 'B08C5GPTT7-es'
 tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','clarks','🇪🇸', ]
-actualPrice: 22.34 EUR
+actualPrice: 20.11 EUR
 currency: EUR
-price: 22.34
+price: 20.11
 comparePrice: 69.95 EUR
 prodname: 'Clarks Deva Mae  Bomba Mujer  Piel Rosa Dusty  38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B08C5GPTT7/?tag=tolees-21'
-descuento: '68.06'
-average: '27.7825'
+descuento: '71.25'
+average: '26.248'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
