@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Cordones
-- Material exterior: Tela
 - Anchura del zapato: Moyen
 - Tipo de tacón: Plano
+- Material exterior: Tela
+- Cierre: Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

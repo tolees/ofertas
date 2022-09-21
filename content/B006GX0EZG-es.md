@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: Caucho
 - Material exterior: Lona
-- Tipo de tacón: Plana
 - Revestimiento: Tela
 - Cierre: Cordones
+- Tipo de tacón: Plana
+- Material de la suela: Caucho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

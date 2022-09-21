@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatillas de última generación
 - Ideal para Atletismo y running
+- Zapatillas de última generación
 - Material oficial NIKE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
