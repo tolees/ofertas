@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Cierre: Cordones
-- Revestimiento: Malla
 - Material de la suela: Goma
-- Altura del tacón: 4 centímetros
-- Tipo de tacón: Plano
+- Revestimiento: Malla
 - Material exterior: Ante
+- Tipo de tacón: Plano
+- Cierre: Cordones
+- Altura del tacón: 4 centímetros
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
