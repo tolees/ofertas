@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics Silla Gravedad Cero  Beige'
-date: 2022-09-20 08:50:24
+date: 2022-09-22 10:18:15
 image: 'https://m.media-amazon.com/images/I/41SPSgp4V3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazon Basics'
 buyurl: 'https://www.amazon.es/dp/B0716DKHS1/?tag=tolees-21'
 descuento: '35.92'
-average: '42.3625'
+average: '41.9877777777778'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El sistema de sujeción de doble cinta elástica une de forma segura el tejido resistente a la intemperie Textilene al marco.
-- Mide 110 x 65 x 90 cm (LxAxA)
 - La silla de exterior de gravedad cero proporciona una sensación de ingravidez sin estrés para una relajación óptima.
 - Estructura de acero con recubrimiento de polvo para mayor resistencia y portabilidad ligera
 - Capacidad de carga de 136 kg; reposa-cabezas acolchado y apoyabrazos suavemente contorneados; Color beige
+- Mide 110 x 65 x 90 cm (LxAxA)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

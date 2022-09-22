@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Escenas de audio para una configuración de audio optimizada en cualquier situación de grabación
 - Memoria interna de 8 gb para hasta 88 días de grabación; batería de polímero de iones de litio recargable para una grabación extremadamente larga; gran pantalla a color para un manejo fácil e intuitivo
 - Plug and play en windows, mac os y linux; un dispositivo específico para grabaciones ininterrumpidas
 - Grabación inteligente y funciones de reproducción para obtener los mejores resultados de grabación
 - Dos micrófonos de alta fidelidad para la mayor claridad de voz; grabación estéreo en mp3 y pcm para una reproducción nítida y que permite compartir fácilmente los ficheros
+- Escenas de audio para una configuración de audio optimizada en cualquier situación de grabación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
