@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Accesorio adaptador Bar
 - Compatible con Robots de Cocina Kenwood Chef y Kmix
 - Material: Acero Inoxidable
+- Accesorio adaptador Bar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

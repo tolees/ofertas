@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Trípode Hama Star 05. Para cámaras digitales de hasta 2.5Kg
-- Zapata de liberación rápida que permite una transición más rápida entre fotografías. Además también dispone de un nivel burbuja.
-- Altura ajustable desde 36.5 cm hasta 106.5 cm. Gracias a sus tres patas de aluminio de liberación rápida podrás montar el trípode en cuestión de segundos a la altura deseada.
-- Los pies son de goma, además, tiene una pata central para aportar mayor estabilidad.
 - El trípode Hama Star 05 viene con una funda de transporte.
+- Zapata de liberación rápida que permite una transición más rápida entre fotografías. Además también dispone de un nivel burbuja.
+- Los pies son de goma, además, tiene una pata central para aportar mayor estabilidad.
+- Altura ajustable desde 36.5 cm hasta 106.5 cm. Gracias a sus tres patas de aluminio de liberación rápida podrás montar el trípode en cuestión de segundos a la altura deseada.
+- Trípode Hama Star 05. Para cámaras digitales de hasta 2.5Kg
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

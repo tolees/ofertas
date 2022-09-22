@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ferko F-039/10 - Guantes 88 PBS en piel flor de cerdo gamuza  dorso y manguito en algodón 100%. Espesor piel flor de 0 8-0 9 mm. Talla 10'
-date: 2022-09-20 19:50:52
+date: 2022-09-22 20:25:26
 image: 'https://m.media-amazon.com/images/I/51VbHZKMiFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'FERKO'
 buyurl: 'https://www.amazon.es/dp/B07Y5V21PT/?tag=tolees-21'
 descuento: '74.69'
-average: '0.595'
+average: '0.598'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ferko F-039/10 - Guantes 88 PBS en piel flor de cerdo gamuza, dorso y manguito en algodón 100%. Espesor piel flor de 0,8-0,9 mm. Talla 10
-- Grandes resistencias
 - Para trabajos duros
+- Grandes resistencias
+- Ferko F-039/10 - Guantes 88 PBS en piel flor de cerdo gamuza, dorso y manguito en algodón 100%. Espesor piel flor de 0,8-0,9 mm. Talla 10
 - Puño abierto para mas comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

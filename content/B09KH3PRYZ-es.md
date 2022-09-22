@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguación agradable
 - Diseño sencillo
 - Parte superior de malla transpirable
+- Amortiguación agradable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

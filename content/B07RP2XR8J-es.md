@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maxi-Cosi Kore Silla de Coche Grupo 2/3 isofix  Seguridad i-Size y Side Protection System SPS  para niños 4-12 años  100-150 cm  color Authentic Black'
-date: 2022-09-21 21:32:01
+date: 2022-09-22 21:50:54
 image: 'https://m.media-amazon.com/images/I/41lH5i-gcvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Silla de coche grupo 2/3 ISOFIX para niños desde 3.5 hasta 12 años, 15 - 36 kg; 100 - 150 cm, homologada bajo normativa ECE R129 i-Size
-- Seguridad: instalación ISOFIX y protecciones laterales SPS Plus con amortiguadores de fibra de vidrio y material absorbente de impactos
 - Confort: asiento cómodo con acolchado extra para la comodidad del niño
-- Funda lavable a máquina (30º) y funda de verano en algodón transpirable disponible vendo por separado
+- Silla de coche grupo 2/3 ISOFIX para niños desde 3.5 hasta 12 años, 15 - 36 kg; 100 - 150 cm, homologada bajo normativa ECE R129 i-Size
 - Crece con el niño: se ajusta tanto a la altura como al ancho para adaptarse a su crecimiento
+- Funda lavable a máquina (30º) y funda de verano en algodón transpirable disponible vendo por separado
+- Seguridad: instalación ISOFIX y protecciones laterales SPS Plus con amortiguadores de fibra de vidrio y material absorbente de impactos
 - Gracias al diseño abierto de la Kore i-Size, su pequeño puede coger y abrocharse el cinturón de seguridad en solo unos segundos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
