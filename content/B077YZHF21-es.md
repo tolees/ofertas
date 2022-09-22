@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cronómetro 1/100 segundos
-- Incluye función de despertador
 - Para iluminar la esfera del reloj se usa un diodo emisor de luz LED
+- Incluye función de despertador
+- Cronómetro 1/100 segundos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Interruptor eléctrico: datos eléctricos: 10a, 230v. Ip21.
+- Seguridad: protección contra goteo de agua.
 - Interruptor blanco: conmutador de la gama Forix en color blanco.
 - Interruptor empotrable: instalación en superficie.
 - Interruptor de pared: módulo con 2 interruptores conmutador.
-- Interruptor eléctrico: datos eléctricos: 10a, 230v. Ip21.
-- Seguridad: protección contra goteo de agua.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
