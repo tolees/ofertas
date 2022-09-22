@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Tijuana  Zapatillas Mujer  Negro  R Black 59   36 EU'
-date: 2022-09-20 23:58:54
+date: 2022-09-22 02:07:52
 image: 'https://m.media-amazon.com/images/I/31hM-ZRKmNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07SFJBP1Z-es Levi s Tijuana Zapatillas Mujer Negro R Black 59 36 EU'
 sku: 'B07SFJBP1Z-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','levis','🇪🇸', ]
-actualPrice: 22.99 EUR
+actualPrice: 21.99 EUR
 currency: EUR
-price: 22.99
+price: 21.99
 comparePrice: 45.0 EUR
 prodname: 'Levi s Tijuana  Zapatillas Mujer  Negro  R Black 59   36 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07SFJBP1Z/?tag=tolees-21'
-descuento: '48.91'
-average: '24.4925'
+descuento: '51.13'
+average: '24.3'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

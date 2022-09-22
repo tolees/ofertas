@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers ARCH FIT  Sneaker para Hombre  Black Textile/Synthetic/Red Trim  41.5 EU'
-date: 2022-09-18 19:17:04
+date: 2022-09-22 02:02:06
 image: 'https://m.media-amazon.com/images/I/31j2D6CsTfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro de tejido suave
-- Suela con tracción de goma flexible
+- Heel height: 2 cm
+- Arch fit
+- Leather: synthetic
+- Machine washable
+- Mid-top trainers
+- Not water resistant
 
 [🛒 Comprar!!!]({{< param buyurl >}})
