@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Play & Disply. Estas auténticas figuras intricate de tus marcas favoritas vienen en un único y flexible factor. Muestra todos los caracteres con el soporte incluido. Bendyfigs son divertidos para los niños y un coleccionista detallado para los fans de todas las edades
-- Exquistely crafetd by The Noble Collection
-- Producto oficial
 - Cada soporte mide aproximadamente 19 cm de altura.
+- Producto oficial
+- Exquistely crafetd by The Noble Collection
 
 [🛒 Visítala!!!]({{< param buyurl >}})
