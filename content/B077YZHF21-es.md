@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio Reloj Digital para Mujer de Cuarzo con Correa en Resina LA-20WH-4A1EF'
-date: 2022-09-18 17:32:43
+date: 2022-09-22 18:00:36
 image: 'https://m.media-amazon.com/images/I/31wSxz2pBtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Casio'
 buyurl: 'https://www.amazon.es/dp/B077YZHF21/?tag=tolees-21'
 descuento: '52.81'
-average: '23.8421428571429'
+average: '23.912'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
