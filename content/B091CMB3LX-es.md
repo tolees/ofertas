@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'San Ignacio Juego de sartenes  20/24 cm  Root de Aluminio Forjado aptas para induccion en Color Gris'
-date: 2022-09-16 20:07:35
+date: 2022-09-22 08:11:17
 image: 'https://m.media-amazon.com/images/I/31jAR2BweTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'San Ignacio'
 buyurl: 'https://www.amazon.es/dp/B091CMB3LX/?tag=tolees-21'
 descuento: '56.53'
-average: '23.3087500000001'
+average: '23.1135294117648'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

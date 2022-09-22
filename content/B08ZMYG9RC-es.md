@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- IDEALES PARA LA PIEL DE BEBÉS RECIÉN NACIDOS Y PREMATUROS: la piel más delicada se merece las toallitas más puras del mundo
 - TESTADAS CLÍNICAMENTE PARA PROTEGER LA PIEL SENSIBLE: las toallitas Originales sin fragancias artificiales ni alcohol añadido para bebés limpian y miman la piel con solo dos ingredientes: agua purificada (99;9 %) y una gota de extracto de fruta
-- TOALLITAS 100 % BIODEGRADABLES* Y SIN PLÁSTICO: ahora; nuestras toallitas Originales son mejores para el planeta; ya que usamos materiales compostables; vegetales y biodegradables. Además; se formulan sin perfume; fragancias ni colorantes artificiales
 - USO DIARIO: las toallitas WaterWipes son ideales para adultos y mascotas. Limpia manchas en la piel o la ropa; quítale al perro el barro de las patas o refréscate cara y manos. Llévalas al gimnasio o déjalas en el coche para tenerlas siempre cerca
+- TOALLITAS 100 % BIODEGRADABLES* Y SIN PLÁSTICO: ahora; nuestras toallitas Originales son mejores para el planeta; ya que usamos materiales compostables; vegetales y biodegradables. Además; se formulan sin perfume; fragancias ni colorantes artificiales
+- IDEALES PARA LA PIEL DE BEBÉS RECIÉN NACIDOS Y PREMATUROS: la piel más delicada se merece las toallitas más puras del mundo
 - LOS DERMATÓLOGOS CONFÍAN EN ELLAS: WaterWipes son aptas para pieles con eczema y alergias. Están aprobadas por la Asoc. Nac. de Eczema de EE. UU.; por las británicas Allergy UK; Skin Health Alliance y Vegan Society; y por la Asoc. Española de Matronas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
