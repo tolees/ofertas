@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Restaura el equilibrio natural del cabello a la vez que le da vitalidad y Agrega suavidad
-- Deja el cabello sedoso, brillante e irresistiblemente suave al tacto
-- Fórmula que desenreda y da al cabello húmedo una textura notable que perdura después de que el cabello se haya secado
-- La espuma cremosa limpia profunda pero suavemente y Textura gel que acondiciona profundamente
 - Aporta vitalidad al cabello y Mejora la textura del cabello
+- La espuma cremosa limpia profunda pero suavemente y Textura gel que acondiciona profundamente
+- Restaura el equilibrio natural del cabello a la vez que le da vitalidad y Agrega suavidad
+- Fórmula que desenreda y da al cabello húmedo una textura notable que perdura después de que el cabello se haya secado
+- Deja el cabello sedoso, brillante e irresistiblemente suave al tacto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

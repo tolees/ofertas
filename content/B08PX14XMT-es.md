@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Dales de comer a tus nuevos amigos para personalizarlos, pueden tener infinitas apariencias.
-- Explora cada bioma de la isla Snaktooth para encontrar y reunir a los habitantes de Snaxburg.
 - Descubre las pistas para aprender más sobre los misterios de la isla Snaktooth.
-- Encuentra, caza y captura 100 especies diferentes de Bugsnax con distintas vainas y cebos.
 - Incluye una guía de campo en miniatura en todo color.
+- Encuentra, caza y captura 100 especies diferentes de Bugsnax con distintas vainas y cebos.
+- Explora cada bioma de la isla Snaktooth para encontrar y reunir a los habitantes de Snaxburg.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

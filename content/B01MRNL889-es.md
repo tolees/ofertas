@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo de alta definición
-- Construcción vulcanizada para una mayor sensación de tablero y suela
 - Ojales metáli
+- Construcción vulcanizada para una mayor sensación de tablero y suela
+- Logotipo de alta definición
 - Parte superior de lona
 - Coloración asimétrica
 

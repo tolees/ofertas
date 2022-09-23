@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lona de primera calidad
-- Construcción vulcanizada para sentir mejor la tabla y la flexibilidad de la suela
-- Logo HD estampado
-- Historia de color asimétrica
 - Ojales de metal
+- Lona de primera calidad
+- Logo HD estampado
+- Construcción vulcanizada para sentir mejor la tabla y la flexibilidad de la suela
+- Historia de color asimétrica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
