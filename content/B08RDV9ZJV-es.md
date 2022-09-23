@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con estilo de 5 bolsillos con fácil lavado y aspecto desgastado
 - Vaqueros ajustados con cintura media de algodón sostenible
+- Con estilo de 5 bolsillos con fácil lavado y aspecto desgastado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

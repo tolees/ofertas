@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jimmy choo fever eau de perfume spray 100mljimmy choo
 - Jimmy choo fever eau de perfume spray 100ml
+- Jimmy choo fever eau de perfume spray 100mljimmy choo
 - Los mejores productos para tu cuidado personal, para tu bienestar, y para la higiene personal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
