@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fischer 512352 Cemento Express Gris Claro 310 Ml/  Cartucho'
-date: 2022-09-19 17:55:27
+date: 2022-09-23 06:02:08
 image: 'https://m.media-amazon.com/images/I/41bnZQInYcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'fischer'
 buyurl: 'https://www.amazon.es/dp/B00UCB1B5U/?tag=tolees-21'
 descuento: '47.14'
-average: '5.462'
+average: '5.39833333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'PUMA Smash V2 L  Zapatillas Unisex Adulto  Negro  Black/White   43 EU'
-date: 2022-09-08 04:50:34
+title: 'PUMA Smash V2 L  Zapatillas Unisex Adulto  Negro  Black/White   39 EU'
+date: 2022-09-23 05:27:20
 image: 'https://m.media-amazon.com/images/I/31-Y3mWA8QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B077MG7289-es PUMA Smash V2 L Zapatillas Unisex Adulto Negro Black/White...'
-sku: 'B077MG7289-es'
+slug: 'B077MG6H4F-es PUMA Smash V2 L Zapatillas Unisex Adulto Negro Black/White...'
+sku: 'B077MG6H4F-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','puma','🇪🇸', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0
 comparePrice: 49.95 EUR
-prodname: 'PUMA Smash V2 L  Zapatillas Unisex Adulto  Negro  Black/White   43 EU'
+prodname: 'PUMA Smash V2 L  Zapatillas Unisex Adulto  Negro  Black/White   39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PUMA'
-buyurl: 'https://www.amazon.es/dp/B077MG7289/?tag=tolees-21'
+buyurl: 'https://www.amazon.es/dp/B077MG6H4F/?tag=tolees-21'
 descuento: '43.94'
-average: '25.881'
+average: '26.5852'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: Cordones
 - Material de la suela: Caucho
+- Cierre: Cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

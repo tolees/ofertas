@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link RE190 AC750 - Repetidor de WiFi 750Mbps 5GHz/2.4GHz  Amplificador WiFi Extensor con Enchufe  Indicador de Señal  Antenas Internas  Blanco'
-date: 2022-09-22 01:52:25
+date: 2022-09-23 05:40:27
 image: 'https://m.media-amazon.com/images/I/31PCDLscNML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B081HFWWSV/?tag=tolees-21'
 descuento: '43.15'
-average: '22.0590625'
+average: '22.0517757009346'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Guía de Instalación rápida (PDF) disponible en el apartado de "Especificaciones Técnicas"
-- Importante: Es clave colocar el repetidor Wi- FI en un lugar intermedio de tu casa, busca un punto donde la cobertura sea adecuada para que puede repetir la señal de manera óptima.
-- Indicadores de señal: ayudan a encontrar la mejor ubicación para una cobertura wi-fi óptima mostrando la intensidad de señal
 - Tres antenas internas: señales más potentes de doble banda, la cobertura de wi-fi amplifica perfectamente hasta zonas donde no llegaban antes
+- Indicadores de señal: ayudan a encontrar la mejor ubicación para una cobertura wi-fi óptima mostrando la intensidad de señal
+- Importante: Es clave colocar el repetidor Wi- FI en un lugar intermedio de tu casa, busca un punto donde la cobertura sea adecuada para que puede repetir la señal de manera óptima.
 - Bajo consumo: consumo de energía súper bajo por solo 6.5w( sin puerto ethernet)
-- Velocidad super alta: banda dual hasta 750 mbps, 300mbps, 2.4 ghz, 433 mbps 5ghz
+- Guía de Instalación rápida (PDF) disponible en el apartado de "Especificaciones Técnicas"
 - Plug play: simplemente pulsando un botón, sin configuración adicional
+- Velocidad super alta: banda dual hasta 750 mbps, 300mbps, 2.4 ghz, 433 mbps 5ghz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

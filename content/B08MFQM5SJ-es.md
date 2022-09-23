@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJIGORDON JJSHARK Noos Sweatpants AT PS Pantalones Deportivos  Light Grey Melange  40 para Hombre'
-date: 2022-09-22 01:28:37
+date: 2022-09-23 05:23:21
 image: 'https://m.media-amazon.com/images/I/41b4hNzg57L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08MFQM5SJ-es Jack & Jones JJIGORDON JJSHARK Noos Sweatpants AT PS...'
 sku: 'B08MFQM5SJ-es'
 tags: [ 'Pantalones para hombre','Ropa','Ropa para hombre','jack & jones','🇪🇸', ]
-actualPrice: 19.3 EUR
+actualPrice: 19.31 EUR
 currency: EUR
-price: 19.3
+price: 19.31
 comparePrice: 34.99 EUR
 prodname: 'Jack & Jones JJIGORDON JJSHARK Noos Sweatpants AT PS Pantalones Deportivos  Light Grey Melange  40 para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08MFQM5SJ/?tag=tolees-21'
-descuento: '44.84'
-average: '19.2585714285714'
+descuento: '44.81'
+average: '19.2609090909091'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
