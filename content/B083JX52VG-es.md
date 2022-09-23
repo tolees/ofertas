@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EVGA GeForce RTX 2060 KO Ultra Gaming  06G-P4-2068-KR  6GB GDDR6  Dual Fans  Metal Backplate'
-date: 2022-09-21 15:05:19
+date: 2022-09-23 10:51:55
 image: 'https://m.media-amazon.com/images/I/51zEvmR2ZlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EVGA'
 buyurl: 'https://www.amazon.es/dp/B083JX52VG/?tag=tolees-21'
 descuento: '40.72'
-average: '310.195'
+average: '306.134'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- All-Metal Backplate, Pre-Installed
-- Game Ready Drivers
 - Built for EVGA Precision X1
-- Real-Time Ray Tracing
 - NVIDIA G-SYNC Compatible
+- Game Ready Drivers
+- Real-Time Ray Tracing
+- All-Metal Backplate, Pre-Installed
 
 [🛒 Visítala!!!]({{< param buyurl >}})
