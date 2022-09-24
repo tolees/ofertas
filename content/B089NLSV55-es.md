@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Pantalla  Multicolor  Talla Única'
-date: 2022-09-10 09:23:49
+date: 2022-09-24 01:46:53
 image: 'https://m.media-amazon.com/images/I/41i033HjqbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B089NLSV55/?tag=tolees-21'
 descuento: '39.95'
-average: '256.265714285714'
+average: '247.85625'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
