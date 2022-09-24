@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Atwood  Zapatillas Hombre  Canvas Oxblood/White  41 EU'
-date: 2022-09-18 19:05:42
+date: 2022-09-24 05:48:10
 image: 'https://m.media-amazon.com/images/I/31zrwT4FOoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B00CJWQV2I/?tag=tolees-21'
 descuento: '35.40'
-average: '42.9534090909093'
+average: '42.946165413534'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

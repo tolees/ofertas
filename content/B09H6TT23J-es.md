@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas ENT22 Hoody Sweatshirt  Men s  Black  S'
-date: 2022-09-23 05:32:04
+date: 2022-09-24 05:55:20
 image: 'https://m.media-amazon.com/images/I/3153iCWr31L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B09H6TT23J/?tag=tolees-21'
 descuento: '35.88'
-average: '29.7343999999999'
+average: '29.5773076923076'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
 - Tiene detalles distintivos de la marca
+- Ajuste regular
 - Detalles distintivos de la marca
 - Ortega liberdad de movimentos
 
