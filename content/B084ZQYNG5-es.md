@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CRAYOLA Laboratorio de Papel  Multicolor  74-7407 '
-date: 2022-09-23 12:53:59
+date: 2022-09-24 19:40:48
 image: 'https://m.media-amazon.com/images/I/51KJj0NKYPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B084ZQYNG5-es CRAYOLA Laboratorio de Papel Multicolor 74-7407'
 sku: 'B084ZQYNG5-es'
 tags: [ 'Actividades creativas','Juegos de manualidades','Juguetes','Juguetes educativos','Juguetes y juegos','Manualidades con papel','crayola','🇪🇸', ]
-actualPrice: 8.87 EUR
+actualPrice: 8.84 EUR
 currency: EUR
-price: 8.87
+price: 8.84
 comparePrice: 29.99 EUR
 prodname: 'CRAYOLA Laboratorio de Papel  Multicolor  74-7407 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Crayola'
 buyurl: 'https://www.amazon.es/dp/B084ZQYNG5/?tag=tolees-21'
-descuento: '70.42'
-average: '13.1033333333333'
+descuento: '70.52'
+average: '12.0375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

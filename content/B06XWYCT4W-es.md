@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo N grande
-- Zapatilla flexible, cómoda y ligera
 - Aspecto y materiales de primera calidad
 - Nuevo y genuino
+- Logotipo N grande
+- Zapatilla flexible, cómoda y ligera
 - Tecnología de entresuela ENCAP para una amortiguación suave y de apoyo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

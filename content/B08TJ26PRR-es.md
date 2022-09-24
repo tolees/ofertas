@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Temporizador para elegir el número de archivos que quiere escuchar antes de que se apague. 40 archivos incluidos en la unidad que incluyen: cuentos clásicos, poemas, fábulas, historias para dormir y canciones. Botón Diversión para escuchar bromas y datos curiosos. También se puede usar para grabar las propias historias.
 - Con StoriKid Pocket, el niño puede disfrutar escuchando bonitas historias, poemas, canciones o chistes. Los padres también pueden grabar su propio cuento o audios. Hasta 5 pistas de 10 minutos cada una.Contenido adicional para descargar gratis a través de Explora Park.
-- ✅ VERSIÓN ESPAÑOLA
+- Temporizador para elegir el número de archivos que quiere escuchar antes de que se apague. 40 archivos incluidos en la unidad que incluyen: cuentos clásicos, poemas, fábulas, historias para dormir y canciones. Botón Diversión para escuchar bromas y datos curiosos. También se puede usar para grabar las propias historias.
 - Entrada micro USB para descargar contenido (cable no incluido). Entrada de auriculares (no incluidos). Asa flexible para cogerlo con facilidad.
 - Categorías para elegir: 15 archivos de Historias. 15 Canciones y poemas. 10 archivos de ¡A dormir!.Grabaciones
+- ✅ VERSIÓN ESPAÑOLA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
