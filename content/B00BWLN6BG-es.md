@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Con cordones
 - Solé material: Caucho
+- Cierre: Con cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

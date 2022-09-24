@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Despreocúpate de la batería. Con la tecnología supervooc 2.0 de 65W tendrás tu teléfono cargado en unos minutos. También tendrás la opción de cargar tu teléfono de forma inalámbrica con la tecnología Airvooc de 30W. Además, su batería de 4500 mAh te garantizará horas de batería sin que tengas que cargar tu dispositivo.
 - Diseño futurista, diseño crater shape, sus suaves curvas se adaptarán perfectamente a tu mano, creando el agarre perfecto. Con certificación ip68, garantizan la máxima protección frente a las partículas y la humedad.
 - El Find X3 Pro cuenta con una pantalla Amoled de primerísimo nivel. Podrás disfrutar de un billón de colores en sus 6.7". Además, tendrás el panel de desbloqueo dactilar oculto en la propia pantalla y la 5ª generación protectora de corning gorilla glass, para que te despreocupes frente a los arañazos.
-- El mejor rendimiento en tu teléfono. El Find X3 Pro está equipado con un procesador de primer nivel, el Qualcomm Snapdragon 888, tecnología octa-core y compatible con red 5G.
 - La cuádruple cámara te permitirá capturar todo tipo de detalles. Con el doble sensor 50mpx, imx766super y su gran angular podrás realizar fotos con calidad profesional. Además, dispondrás de la tecnología micro para realizar fotografías con hasta 25 aumentos.
+- Despreocúpate de la batería. Con la tecnología supervooc 2.0 de 65W tendrás tu teléfono cargado en unos minutos. También tendrás la opción de cargar tu teléfono de forma inalámbrica con la tecnología Airvooc de 30W. Además, su batería de 4500 mAh te garantizará horas de batería sin que tengas que cargar tu dispositivo.
+- El mejor rendimiento en tu teléfono. El Find X3 Pro está equipado con un procesador de primer nivel, el Qualcomm Snapdragon 888, tecnología octa-core y compatible con red 5G.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
