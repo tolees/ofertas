@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Piel suave
 - Cama suave
+- Piel suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
