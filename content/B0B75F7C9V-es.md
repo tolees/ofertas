@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La certificación Forestal FSC garantiza que el papel Regina se produce con materias procedentes de bosques gestionados en modo responsable; eligiendo Regina estás respetando el medio ambiente
 - Las instalaciones de producción del papel Regina en España, se abastecen de electrizad de fuentes renovables
-- El papel higiénico Regina Camomila es suave y consistente; perfumado con aroma camomila
 - Envase elaborado con 50% de plástico reciclado post consumo, material que a su vez es reciclable
+- La certificación Forestal FSC garantiza que el papel Regina se produce con materias procedentes de bosques gestionados en modo responsable; eligiendo Regina estás respetando el medio ambiente
+- El papel higiénico Regina Camomila es suave y consistente; perfumado con aroma camomila
 - El paquete contiene 6 rollos de papel higiénico de 3 capas, cada rollo tiene 150 servicios
 
 [🛒 Comprar!!!]({{< param buyurl >}})

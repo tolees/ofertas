@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabados laterales elásticos
 - Suela waffle para un agarre más firme
+- Acabados laterales elásticos
 - Parte superior de lona resistente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

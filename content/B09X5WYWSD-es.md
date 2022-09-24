@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Aspire 3 A315-34 - Ordenador Portátil 15.6” Full HD LED  Laptop  Intel Celeron N4020  4 GB RAM  128 GB SSD  Intel UHD Graphics 600  Windows 11 Home S   PC Portátil Color Negro  Teclado Portugués'
-date: 2022-09-21 07:20:11
+date: 2022-09-24 14:55:10
 image: 'https://m.media-amazon.com/images/I/41EIZ0GhH1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Acer'
 buyurl: 'https://www.amazon.es/dp/B09X5WYWSD/?tag=tolees-21'
 descuento: '35.99'
-average: '269.0'
+average: '264.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
