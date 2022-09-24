@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Lighting - Philips myGarden Creek - Aplique de exterior  con brazo  luz blanca cálida  60 W  220 V  casquillo E27  bombilla no incluida  color negro'
-date: 2022-09-19 09:09:49
+date: 2022-09-24 18:00:27
 image: 'https://m.media-amazon.com/images/I/41csLLkenyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips Lighting'
 buyurl: 'https://www.amazon.es/dp/B00BFTFPZU/?tag=tolees-21'
 descuento: '41.77'
-average: '17.89'
+average: '17.87'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de un bonito jardín
 - Materiales de gran calidad
-- Diseña tu jardín con iluminación
+- Disfruta de un bonito jardín
 - Iluminación para exteriores decorativa
+- Diseña tu jardín con iluminación
 - Decídete por el estilo tradicional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
