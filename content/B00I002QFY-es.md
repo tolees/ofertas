@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cierre: Cordones
-- Tipo de tacón: Plano
 - Material de la suela: Caucho
 - Altura del tacón: 2.5 centímetros
-- Material exterior: Cuero
 - Revestimiento: Sintético
+- Material exterior: Cuero
+- Tipo de tacón: Plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma de gran tracción
 - Diseño de baloncesto retro
 - Cuero suave y duradero
+- Suela de goma de gran tracción
 
 [🛒 Comprar!!!]({{< param buyurl >}})
