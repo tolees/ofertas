@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Artemis w/chase
 - Funko pop! vinyl
+- Artemis Fowl
 - De la colección Artemis Fowl, Artemis w/chase como figura de vinilo pop de funko
 - Descúbre otras figuras de la colección disney y colecciónalas todas!
-- Artemis w/chase
-- Artemis Fowl
 
 [🛒 Visítala!!!]({{< param buyurl >}})
