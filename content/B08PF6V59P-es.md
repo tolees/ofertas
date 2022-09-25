@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vaqueros para mujer
 - Tienen un parche de cuero en la parte posterior de la cintura
+- Vaqueros para mujer
 - Con corte entallado en la cadera y el muslo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
