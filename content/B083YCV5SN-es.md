@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Unisex
-- Crossbody
 - Classics
+- Crossbody
+- Unisex
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
