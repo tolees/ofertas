@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 51469 POP Town Masters Of The Universe- Snake Mountain w/Skeletor'
-date: 2022-09-20 08:53:54
+date: 2022-09-25 13:54:17
 image: 'https://m.media-amazon.com/images/I/31ln9Zd2yCS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B08P5WRKDM/?tag=tolees-21'
 descuento: '43.75'
-average: '28.3944444444445'
+average: '27.805'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Figura de la colección Masters of the Universe, Snake Mountain con Skeletor
+- Viene embalado en una caja con ventanas ilustrada
 - La figura mide 15 cm y se envía en una caja ilustrada con ventana
 - Figura coleccionable
-- Viene embalado en una caja con ventanas ilustrada
-- Figura de la colección Masters of the Universe, Snake Mountain con Skeletor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
