@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color negro
 - Adecuado para hombre y mujer
-- Material interior poliéster
 - Tamaño S
+- Color negro
+- Material interior poliéster
 - Material exterior cuero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
