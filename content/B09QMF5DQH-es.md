@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Air Zoom Vomero 16  Zapatillas Hombre  Cool Grey/Black/Anthracite Kumquat  44 EU'
-date: 2022-09-21 11:30:46
+date: 2022-09-25 15:09:13
 image: 'https://m.media-amazon.com/images/I/51YDPCTs9tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B09QMF5DQH/?tag=tolees-21'
 descuento: '50.02'
-average: '74.97'
+average: '103.38'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

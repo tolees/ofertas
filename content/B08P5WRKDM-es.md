@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Figura de la colección Masters of the Universe, Snake Mountain con Skeletor
-- Viene embalado en una caja con ventanas ilustrada
-- La figura mide 15 cm y se envía en una caja ilustrada con ventana
 - Figura coleccionable
+- La figura mide 15 cm y se envía en una caja ilustrada con ventana
+- Viene embalado en una caja con ventanas ilustrada
+- Figura de la colección Masters of the Universe, Snake Mountain con Skeletor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

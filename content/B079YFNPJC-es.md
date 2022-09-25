@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descubre más sobre este y otros productos de Smint más abajo.
 - Ideal para llevar siempre contigo y para cualquier ocasión: antes de una cita o reunión, después de una comida o un café, en el coche o en su escritorio.
-- El envase práctico cabe en cualquier bolso o bolsillo del pantalón; fácil de usar y listo para darte ese golpe de frescor y sabor que necesitas.
-- Caramelo comprimido Smint Tabs sin azúcar con sabor a Frutas del Bosque. El producto contiene 12x8 gr. de caramelos comprimidos en un dispensador práctico e higiénico.
 - Si hay algo que caracteriza a Smint Tabs es el golpe de frescor inmediato de sus pequeños y potentes caramelos comprimidos.
+- Descubre más sobre este y otros productos de Smint más abajo.
+- Caramelo comprimido Smint Tabs sin azúcar con sabor a Frutas del Bosque. El producto contiene 12x8 gr. de caramelos comprimidos en un dispensador práctico e higiénico.
+- El envase práctico cabe en cualquier bolso o bolsillo del pantalón; fácil de usar y listo para darte ese golpe de frescor y sabor que necesitas.
 - Disfruta de un frescor inmediato con un delicioso sabor, en un dispensador con diseño exclusivo. Smint es un producto sin azúcar y sin gluten.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cintura elástica
-- Corte entallado
-- Amplia libertad de movimiento
 - Tejido transpirable
+- Amplia libertad de movimiento
+- Corte entallado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
