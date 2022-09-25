@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Gazelle  Zapatillas de Deporte Unisex Adulto  Collegiate Navy/White/Gold Metalic  44 2/3 EU'
-date: 2022-09-23 05:19:39
+date: 2022-09-25 07:28:47
 image: 'https://m.media-amazon.com/images/I/41WUyQ9DkFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B01EI9HKJC/?tag=tolees-21'
 descuento: '39.75'
-average: '77.2887499999999'
+average: '77.0853508771928'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material interior: tela
 - Adecuado para: unisex-adulto
-- Material de la suela: goma
-- Material exterior: cuero
 - Cierre: cordones
 - Talla: 44 2/3
+- Material de la suela: goma
+- Material interior: tela
+- Material exterior: cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
