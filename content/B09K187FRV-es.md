@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- producto 1: + 80 NUEVOS PERSONAJES – Hay más de 80 nuevas figuras para coleccionar, y cada una tiene un súper poder que la hace única. ¡Descubre a los héroes y villanos de Kaboom City!
+- producto 1: DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
 - producto 2: AUMENTA TU COLECCIÓN RÁPIDAMENTE – Amplía o empieza tu colección con este blíster de 10 SuperThings y asegúrate una figura dorada.
 - producto 1: CADA SUPERTHING TIENE SU RIVAL – Busca las parejas rivales ¡y forma tus equipos!
-- producto 1: DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
-- producto 2: DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
 - producto 2: CONSIGUE UNO DE LOS SÚPER LÍDERES DORADOS – Blíster con 10 SuperThings, contiene una figura dorada.
+- producto 1: + 80 NUEVOS PERSONAJES – Hay más de 80 nuevas figuras para coleccionar, y cada una tiene un súper poder que la hace única. ¡Descubre a los héroes y villanos de Kaboom City!
+- producto 2: DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
 - producto 2: VARIAS COMBINACIONES DE BLÍSTER – El envío es aleatorio.
 - producto 1: ¿ENCONTRARÁS LAS FIGURAS EXCLUSIVAS? – Descubre las figuras plateadas, doradas y al escurridizo Neon Blast, para no parar de crear historias.
 

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - DECORACIÓN PRÁCTICA: complete la decoración de su hogar en interiores, en la terraza y en el jardín. ¡La tapicería de los sofás de palets en colores y motivos de moda llama la atención!
 - ADECUADO PARA INTERIORES Y EXTERIORES: el cojín del asiento del palé se puede limpiar con un paño húmedo para eliminar la humedad, la suciedad y otros contaminantes. El cojín está asegurado desde abajo por una tela de barrera de vapor negra.
-- DIRECTAMENTE LISTOS PARA EL USO: los cojines para palés son adecuados para la sala de estar, el jardín, la gastronomía, así como para el camping y las caravanas. Los cojines de paleta garantizan un asiento especialmente cómodo y suave.
-- CUIDADO FÁCIL: la almohadilla se puede lavar a máquina a 30 °C. Secar al aire, no usar lejía.
 - POLIÉSTER CERTIFICADO POR OEKO-TEX: nuestros cojines para palets cuentan con la certificación Oeko-Tex Standard 100 (11.HCN.96881). Gracias al relleno, el cojín del asiento mantiene su forma durante mucho tiempo y además es muy cómodo y suave.
+- CUIDADO FÁCIL: la almohadilla se puede lavar a máquina a 30 °C. Secar al aire, no usar lejía.
+- DIRECTAMENTE LISTOS PARA EL USO: los cojines para palés son adecuados para la sala de estar, el jardín, la gastronomía, así como para el camping y las caravanas. Los cojines de paleta garantizan un asiento especialmente cómodo y suave.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

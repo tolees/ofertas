@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Greencut - GLM660X'
-date: 2022-09-19 20:01:37
+date: 2022-09-25 10:15:22
 image: 'https://m.media-amazon.com/images/I/41lZtlrFvmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Greencut'
 buyurl: 'https://www.amazon.es/dp/B01DDM7RV6/?tag=tolees-21'
 descuento: '38.81'
-average: '179.523333333333'
+average: '175.291428571428'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuchilla de doble filo de 390 mm de diámetro adecuado para jardines medianos y pequeños
-- Potente Motor de gasolina 4 tiempos OHV refrigerado por aire de 139cc y 5cv de tracción manual
 - Sistema de arranque fácil e-start y de encendido electrónico CDI
+- Potente Motor de gasolina 4 tiempos OHV refrigerado por aire de 139cc y 5cv de tracción manual
 - Altura corte 25-75 mm ajustable en 3 posiciones
+- Cuchilla de doble filo de 390 mm de diámetro adecuado para jardines medianos y pequeños
 - Saco de recogida de 35 litros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
