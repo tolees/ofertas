@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEVI S  Sneakers Hombre  Navy  40 EU'
-date: 2022-09-14 04:23:15
+date: 2022-09-25 01:15:36
 image: 'https://m.media-amazon.com/images/I/31t8it5Aj1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B096KQDWJ6/?tag=tolees-21'
 descuento: '40.10'
-average: '40.6566666666667'
+average: '40.115'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
