@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers SUMMITS  Zapatillas Deportivas Mujer  Azul  Navy Mesh/ White Trim   36 EU'
-date: 2022-09-24 12:56:36
+date: 2022-09-26 07:47:08
 image: 'https://m.media-amazon.com/images/I/41-SUGubQbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07N2MPYB4/?tag=tolees-21'
 descuento: '39.94'
-average: '32.6'
+average: '31.95'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
