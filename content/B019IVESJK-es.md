@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Timbre electromecánico con gran capacidad de resonancia y robustez
-- Tensión nominal: 120 / 230 Vc
 - Frecuencia nominal: 50-60 Hz
 - Sonido din-don: 90 dB
+- Tensión nominal: 120 / 230 Vc
 
 [🛒 Comprar!!!]({{< param buyurl >}})
