@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Tazon 6 FM  Zapatillas de Running Hombre  Multicolor Black Silver  42.5 EU'
-date: 2022-09-23 10:28:10
+date: 2022-09-26 00:42:44
 image: 'https://m.media-amazon.com/images/I/4190TDvrE4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B01H4CW6MQ/?tag=tolees-21'
 descuento: '38.28'
-average: '40.057619047619'
+average: '39.9186363636363'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
