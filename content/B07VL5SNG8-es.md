@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Viewsonic Elite XG270 Monitor Gaming 27" Full HD  Panel IPS  1 ms  240 Hz  FreeSync  iluminación RGB  Altura Ajustable  Negro'
-date: 2022-09-21 19:43:37
+date: 2022-09-27 15:27:30
 image: 'https://m.media-amazon.com/images/I/412AE4tyScL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ViewSonic'
 buyurl: 'https://www.amazon.es/dp/B07VL5SNG8/?tag=tolees-21'
 descuento: '43.89'
-average: '361.368571428572'
+average: '355.942666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

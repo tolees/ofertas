@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El clásico diseño LECHUZA
-- El sistema de riego de LECHUZA, en función del tamaño de la maceta, suministrará a sus plantas la cantidad de agua y nutrientes que necesitan para un crecimiento óptimo durante 12 semanas
 - Para plantar en el exterior, con tornillo en la base; cubeta de plantado abierta, intercambiable, de color neutro y con asas escamotearles
+- El sistema de riego de LECHUZA, en función del tamaño de la maceta, suministrará a sus plantas la cantidad de agua y nutrientes que necesitan para un crecimiento óptimo durante 12 semanas
+- El clásico diseño LECHUZA
 
 [🛒 Visítala!!!]({{< param buyurl >}})
