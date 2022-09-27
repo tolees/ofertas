@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse Chuck Taylor All Star Season Hi  Zapatillas Unisex infantil  Negro  Black Monochrome 006   37.5 EU'
-date: 2022-09-12 04:33:35
+date: 2022-09-27 04:42:55
 image: 'https://m.media-amazon.com/images/I/41L+2KpLO+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B000OLRWV0/?tag=tolees-21'
 descuento: '46.73'
-average: '52.1200000000001'
+average: '50.7677777777779'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
