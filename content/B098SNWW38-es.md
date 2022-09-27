@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 511 Slim Sequoia RT Jeans  29W x 30L para Hombre'
-date: 2022-09-25 12:31:48
+date: 2022-09-27 02:01:24
 image: 'https://m.media-amazon.com/images/I/41LcTJ4VytL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
