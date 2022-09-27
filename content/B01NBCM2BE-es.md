@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger H2285ARLOW 1D  Zapatillas Hombre  Negro  Black 990   45 EU'
-date: 2022-09-25 07:34:18
+date: 2022-09-27 09:07:29
 image: 'https://m.media-amazon.com/images/I/21WGf2Ldb3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B01NBCM2BE/?tag=tolees-21'
 descuento: '36.48'
-average: '40.9455172413794'
+average: '40.9624509803922'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
