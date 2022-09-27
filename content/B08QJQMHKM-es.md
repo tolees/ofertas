@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vegano
 - MF refrigerado por aire
+- Vegano
 - Lavable a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})

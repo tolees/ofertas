@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Guess Modelo Reloj W1049G5
 - 8 milimetros calendario - -
+- Guess Modelo Reloj W1049G5
 - Analógico para Unisex Adulto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
