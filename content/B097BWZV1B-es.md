@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'PUMA Graviton  Zapatillas Unisex Adulto  Multicolor Black White-Mykonos Blue-High Risk Red  44 EU'
+date: 2022-09-27 06:53:02
+image: 'https://m.media-amazon.com/images/I/31mRZSWLPtL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B097BWZV1B-es PUMA Graviton Zapatillas Unisex Adulto Multicolor Black...'
+sku: 'B097BWZV1B-es'
+tags: [ 'Zapatillas casual para hombre','Zapatillas casual para mujer','Zapatillas y calzado deportivo para hombre','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','puma','🇪🇸', ]
+actualPrice: 26.78 EUR
+currency: EUR
+price: 26.78
+comparePrice: 64.95 EUR
+prodname: 'PUMA Graviton  Zapatillas Unisex Adulto  Multicolor Black White-Mykonos Blue-High Risk Red  44 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: 'PUMA'
+buyurl: 'https://www.amazon.es/dp/B097BWZV1B/?tag=tolees-21'
+descuento: '58.77'
+average: '26.78'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- IMEVA: El material de PUMA para una sensación cómoda y ligera
+- Caña baja
+- SoftFoam: La cómoda plantilla PUMA para una pisada instantánea y una comodidad duradera que proporciona una amortiguación suave a cada paso que das
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
