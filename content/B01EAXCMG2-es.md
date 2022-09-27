@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Michael Kors Reloj para Mujer MINI SLIM RUNWAY  Caja de 33 mm  Movimiento de Tres Manecillas  Correa de Acero Inoxidable  Oro Rosa'
-date: 2022-09-25 20:39:54
+date: 2022-09-27 21:20:29
 image: 'https://m.media-amazon.com/images/I/41LHZgAEC6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01EAXCMG2-es Michael Kors Reloj para Mujer MINI SLIM RUNWAY Caja de 33...'
 sku: 'B01EAXCMG2-es'
 tags: [ 'Relojes','Relojes de pulsera para mujeres','Relojes para mujer','michael kors','🇪🇸', ]
-actualPrice: 122.78 EUR
+actualPrice: 122.73 EUR
 currency: EUR
-price: 122.78
+price: 122.73
 comparePrice: 199.0 EUR
 prodname: 'Michael Kors Reloj para Mujer MINI SLIM RUNWAY  Caja de 33 mm  Movimiento de Tres Manecillas  Correa de Acero Inoxidable  Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Michael Kors'
 buyurl: 'https://www.amazon.es/dp/B01EAXCMG2/?tag=tolees-21'
-descuento: '38.30'
-average: '121.851818181818'
+descuento: '38.33'
+average: '121.925'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
