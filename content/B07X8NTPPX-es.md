@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una camiseta clásica de manga larga con un logotipo distintivo de Housemark en tu pecho
-- Hecho de tela de punto suave para una comodidad diaria
-- Cuello redondo y puños acanalados para un ajuste acogedor
 - Cuello sin etiqueta para un uso sin complicaciones
+- Cuello redondo y puños acanalados para un ajuste acogedor
+- Hecho de tela de punto suave para una comodidad diaria
+- Una camiseta clásica de manga larga con un logotipo distintivo de Housemark en tu pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

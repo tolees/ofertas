@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'NIKE Court Borough Low  Zapatillas  Negro 51  35.5 EU'
-date: 2022-09-23 10:59:55
-image: 'https://m.media-amazon.com/images/I/316aEbmvmnL._SL500_._SL400_.jpg'
+date: 2022-09-27 17:37:57
+image: 'https://m.media-amazon.com/images/I/31h0x2hw4OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07VNGQZ8H/?tag=tolees-21'
 descuento: '44.44'
-average: '24.475'
+average: '24.65'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño de baloncesto retro
 - Cuero suave y duradero
 - Suela de goma de gran tracción
+- Diseño de baloncesto retro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
