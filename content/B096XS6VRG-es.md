@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA MSL Tennis wmn  Zapatillas Mujer  Blanco  42 EU'
-date: 2022-09-27 10:29:35
+date: 2022-09-28 11:13:49
 image: 'https://m.media-amazon.com/images/I/31oGboqwAbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096XS6VRG-es FILA MSL Tennis wmn Zapatillas Mujer Blanco 42 EU'
 sku: 'B096XS6VRG-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','fila','🇪🇸', ]
-actualPrice: 29.28 EUR
+actualPrice: 28.44 EUR
 currency: EUR
-price: 29.28
+price: 28.44
 comparePrice: 70.0 EUR
 prodname: 'FILA MSL Tennis wmn  Zapatillas Mujer  Blanco  42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B096XS6VRG/?tag=tolees-21'
-descuento: '58.17'
-average: '29.28'
+descuento: '59.37'
+average: '28.86'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
