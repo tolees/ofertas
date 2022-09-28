@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Hernandez  Zapatillas Hombre  White Normal  41 EU'
-date: 2022-09-13 21:10:38
+date: 2022-09-28 18:26:54
 image: 'https://m.media-amazon.com/images/I/31NrDRDD2JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08BLT8GXL-es Levi s Hernandez Zapatillas Hombre White Normal 41 EU'
 sku: 'B08BLT8GXL-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','levis','🇪🇸', ]
-actualPrice: 18.0 EUR
+actualPrice: 27.99 EUR
 currency: EUR
-price: 18.0
-comparePrice: 44.25 EUR
+price: 27.99
+comparePrice: 49.26 EUR
 prodname: 'Levi s Hernandez  Zapatillas Hombre  White Normal  41 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLT8GXL/?tag=tolees-21'
-descuento: '59.32'
-average: '26.5378787878787'
+descuento: '43.18'
+average: '26.580588235294'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

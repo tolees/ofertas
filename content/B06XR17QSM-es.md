@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden EasyImpact 550 - Taladro percutor  550 W  empuñadura adicional  tope de profundidad  maletín   Color Negro  Verde'
-date: 2022-09-27 15:27:48
+date: 2022-09-28 18:08:38
 image: 'https://m.media-amazon.com/images/I/41pPFVnwZzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B06XR17QSM/?tag=tolees-21'
 descuento: '36.30'
-average: '43.1584337349397'
+average: '43.1678571428571'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Potente y compacta herramienta que facilita los trabajos de perforación
+- Compatible con el Drill Assistant de Bosch para un trabajo aún más preciso: determinación sencilla de la profundidad de perforación y trabajo sin polvo (opcionalmente, disponible como accesorio)
 - Perforar nunca fue tan sencillo: gracias a su bajo peso y su compacto y ergonómico diseño, el manejo de la herramienta resulta especialmente cómodo y sencillo
 - Portabrocas de sujeción rápida de dos casquillos para cambio de herramienta sencillo
-- Potente y compacta herramienta que facilita los trabajos de perforación
 - Potencia de perforación elevada a pesar de la construcción compacta, con independencia del material, incluso en hormigón
-- Compatible con el Drill Assistant de Bosch para un trabajo aún más preciso: determinación sencilla de la profundidad de perforación y trabajo sin polvo (opcionalmente, disponible como accesorio)
 - Control electrónico del número de revoluciones Bosch: la «aceleración» de 50 al máximo con el pulsador de conmutación le permite trabajar de forma precisa, por ejemplo, al inicio de la perforación de superficies lisas o en trabajos de atornillado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
