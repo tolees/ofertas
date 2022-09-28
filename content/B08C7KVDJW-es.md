@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi NUN4126GL Monitor Temperatura y Humedad 2 Blanco  43 mm'
-date: 2022-09-22 21:04:20
+date: 2022-09-28 07:09:33
 image: 'https://m.media-amazon.com/images/I/312OHE3Y01L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08C7KVDJW-es Xiaomi NUN4126GL Monitor Temperatura y Humedad 2 Blanco 43 mm'
 sku: 'B08C7KVDJW-es'
 tags: [ 'Hogar y cocina','Jardín','Productos y utensilios de limpieza','Termómetros','Termómetros e instrumentos meteorológicos','xiaomi','🇪🇸', ]
-actualPrice: 4.59 EUR
+actualPrice: 4.79 EUR
 currency: EUR
-price: 4.59
+price: 4.79
 comparePrice: 9.99 EUR
 prodname: 'Xiaomi NUN4126GL Monitor Temperatura y Humedad 2 Blanco  43 mm'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08C7KVDJW/?tag=tolees-21'
-descuento: '54.05'
-average: '6.56285714285714'
+descuento: '52.05'
+average: '6.51361111111111'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
