@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SRS-XB13 - Altavoz Bluetooth Compacto  Duradero y Potente con EXTRA BASS  Resistente al agua  Inalámbrico  16h Autonomía   Negro'
-date: 2022-09-27 01:53:37
+date: 2022-09-28 20:22:42
 image: 'https://m.media-amazon.com/images/I/41hikeuWUVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08YF1T4SW/?tag=tolees-21'
 descuento: '36.56'
-average: '42.2156737588653'
+average: '42.185985915493'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Llévalo a cualquier parte sin preocupaciones; este altavoz portátil es resistente al agua y al polvo (IP67) y tiene hasta 16 horas de autonomía
-- El SRS-XB13 es compacto, ligero y fácil de transportar, y cuenta con una cómoda correa desmontable para llevar o colgar tu altavoz inalámbrico donde quieras; disponible en 6 divertidos colores
 - Permanece siempre conectado y disfruta de llamadas manos libres de óptima calidad con tu SRS-XB13
-- Disfruta un potente sonido surround, graves profundos y voces claras gracias al procesador Sound Diffusion con Extra Bass, un altavoz de rango completo y un radiador pasivo
 - Crea un sonido estéreo surround emparejando dos unidades del altavoz SRS-XB13 Extra Bass
 - Potencia (W): 5.0 watts
+- El SRS-XB13 es compacto, ligero y fácil de transportar, y cuenta con una cómoda correa desmontable para llevar o colgar tu altavoz inalámbrico donde quieras; disponible en 6 divertidos colores
+- Disfruta un potente sonido surround, graves profundos y voces claras gracias al procesador Sound Diffusion con Extra Bass, un altavoz de rango completo y un radiador pasivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

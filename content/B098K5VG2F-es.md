@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Wiser Grey Jeans
 - Ajustado
+- Wiser Grey Jeans
 
 [🛒 Visítala!!!]({{< param buyurl >}})
