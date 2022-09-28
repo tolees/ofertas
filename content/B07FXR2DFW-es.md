@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Revestimiento: Sin forro
+- Altura del tacón: 2 centímetros
 - Composición: Goma
 - Material de la suela: Goma
-- Altura del tacón: 2 centímetros
 - 43/44 EU (41/42 Brazilian)
-- Material exterior: Goma
-- Anchura del zapato: Normal
-- Tipo de tacón: Plano
 - Cierre: Sin cordones
+- Material exterior: Goma
+- Revestimiento: Sin forro
+- Tipo de tacón: Plano
+- Anchura del zapato: Normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

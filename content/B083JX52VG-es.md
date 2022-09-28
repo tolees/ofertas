@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Built for EVGA Precision X1
-- Game Ready Drivers
-- NVIDIA G-SYNC Compatible
 - Real-Time Ray Tracing
+- Built for EVGA Precision X1
+- NVIDIA G-SYNC Compatible
+- Game Ready Drivers
 - All-Metal Backplate, Pre-Installed
 
 [🛒 Visítala!!!]({{< param buyurl >}})
