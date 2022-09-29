@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio G-SHOCK Reloj Digital  Reloj radiocontrolado y solar  20 BAR  Negro  para Hombre  GW-7900B-1ER'
-date: 2022-09-24 13:37:21
+date: 2022-09-29 14:07:05
 image: 'https://m.media-amazon.com/images/I/51zECibTnGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Casio'
 buyurl: 'https://www.amazon.es/dp/B0039YOIH0/?tag=tolees-21'
 descuento: '43.93'
-average: '108.279090909091'
+average: '110.430833333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sumergible hasta 20 bares
+- Función de hora mundial
 - Muy resistente a golpes
 - Funcionamiento mediante energía solar
 - Cristal mineral
-- Función de hora mundial
-- Sumergible hasta 20 bares
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

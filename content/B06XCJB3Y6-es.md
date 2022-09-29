@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Altura del disparo ajustable gracias a las diferentes posiciones de las patas
-- Juego de acción y movimiento en el que los jugadores para ganar, con su canasta-cabeza, deberán atrapar las pelotas lanzadas aleatoriamente
 - Juego para 1 ó 2 jugadores
+- Juego de acción y movimiento en el que los jugadores para ganar, con su canasta-cabeza, deberán atrapar las pelotas lanzadas aleatoriamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 30106 Destiny 30106 Games Hawthorne with Hawk Pop Vinyl Figure  Multicolor'
-date: 2022-09-22 10:42:54
+date: 2022-09-29 13:27:48
 image: 'https://m.media-amazon.com/images/I/41Tm+qhtn5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B0797HNWWN/?tag=tolees-21'
 descuento: '53.96'
-average: '5.28125'
+average: '5.25666666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Games: Destiny
 - Hawthorne w/ Hawk
+- Games: Destiny
 - Diseño moderno
 
 [🛒 Visítala!!!]({{< param buyurl >}})

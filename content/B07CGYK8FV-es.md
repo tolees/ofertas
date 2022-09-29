@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Delinea un trazo a ras de las pestañas superiores terminando con el rabillo del ojo, No estires el párpado mientras lo aplicas
-- Delineado perfecto y de alta precisión sin esfuerzo, 24 horas de duración waterproof, No se corre, no se borra, no mancha
 - Contenido: 1 x Eyeliner mate de larga duración Hyper Precise All Day Maybelline New York, Negro mate, 1 ml
 - Eyeliner permanente líquido de acabado mate con fórmula de larga duración resistente al agua, Formato rotulador con punta ultra precisa y agarre estable
 - Punta precisa de 0,4 mm de grosor que permite una precisión absoluta para conseguir un trazo definido, Oftalmológicamente probado y adecuado para ojos sensibles y usuarios de lentes de contacto
+- Delinea un trazo a ras de las pestañas superiores terminando con el rabillo del ojo, No estires el párpado mientras lo aplicas
+- Delineado perfecto y de alta precisión sin esfuerzo, 24 horas de duración waterproof, No se corre, no se borra, no mancha
 
 [🛒 Aquí!!!]({{< param buyurl >}})
