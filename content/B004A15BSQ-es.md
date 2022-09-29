@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750 Lamew - Zapatillas unisex  color dorado  talla 35'
-date: 2022-09-19 06:16:15
+date: 2022-09-29 06:40:16
 image: 'https://m.media-amazon.com/images/I/41Ca8shgyDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B004A15BSQ/?tag=tolees-21'
 descuento: '47.92'
-average: '37.65'
+average: '37.6285714285714'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
