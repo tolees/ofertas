@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Sandblast C wmn  Zapatillas Mujer  Flamingo Pink  39 EU'
-date: 2022-09-28 13:15:48
+date: 2022-09-29 18:34:17
 image: 'https://m.media-amazon.com/images/I/31psfMu8hvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096XS35HH-es FILA Sandblast C wmn Zapatillas Mujer Flamingo Pink 39 EU'
 sku: 'B096XS35HH-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','fila','🇪🇸', ]
-actualPrice: 28.78 EUR
+actualPrice: 28.31 EUR
 currency: EUR
-price: 28.78
+price: 28.31
 comparePrice: 70.0 EUR
 prodname: 'FILA Sandblast C wmn  Zapatillas Mujer  Flamingo Pink  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B096XS35HH/?tag=tolees-21'
-descuento: '58.89'
-average: '28.78'
+descuento: '59.56'
+average: '28.545'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
