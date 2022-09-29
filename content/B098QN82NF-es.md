@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Amortiguación
 - Zapatillas deportivas
+- Amortiguación
 - Ligereza
 
 [🛒 Visítala!!!]({{< param buyurl >}})
