@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de malla tejida
 - Ajuste perfecto
 - Suela de goma
+- Parte superior de malla tejida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

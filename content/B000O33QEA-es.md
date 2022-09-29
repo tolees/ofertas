@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clatronic EM 3062 - Cuchillo eléctrico dentado de acero inoxidable  150 W  color blanco'
-date: 2022-09-28 12:51:17
+date: 2022-09-29 20:04:59
 image: 'https://m.media-amazon.com/images/I/21PIQrWPHnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

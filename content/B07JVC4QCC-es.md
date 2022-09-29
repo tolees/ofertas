@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Polo elástico – El tejido elástico multidireccional de calidad de esta prenda de ropa deportiva masculina ofrece una mayor movilidad
-- Corte ancho – Este polo transpirable tiene un corte ancho que aporta una gran comodidad a la vez que ofrece una gran libertad de movimiento
-- Material y forma – Polo de hombre transpirable Under Armour Playoff 20, forma – ancha, material – 96% de poliéster y 4% de elastano
 - Camisa ultraligera – El corte ancho y el material ultraligero de esta camisa transpirable para hombre garantizan una gran comodidad
+- Corte ancho – Este polo transpirable tiene un corte ancho que aporta una gran comodidad a la vez que ofrece una gran libertad de movimiento
 - Ligera y transpirable – Este polo de manga corta es ideal para jugar al golf porque es transpirable y muy cómodo, y se seca rápidamente
+- Material y forma – Polo de hombre transpirable Under Armour Playoff 20, forma – ancha, material – 96% de poliéster y 4% de elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
