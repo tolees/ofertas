@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Descripción de la cámara: Trasera
-- Dos años de garantía ante defectos de fábrica.
 - ePantalla táctil
-- Producto original de marca.
 - Marca: Xiaomi
+- Producto original de marca.
+- Dos años de garantía ante defectos de fábrica.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

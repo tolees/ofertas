@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Solac Solution BA5590 - Batidora amasadora de 300W  con 5 velocidades  función turbo  2 varillas batidoras y 2 amasadoras  fácil montaje y desmontaje  libre BPA'
-date: 2022-09-26 20:15:15
+date: 2022-09-30 15:57:51
 image: 'https://m.media-amazon.com/images/I/31HbBbveEAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

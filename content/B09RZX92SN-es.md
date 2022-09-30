@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descripción de la cámara: Trasera
 - Explora nuestra gama de productos y disfruta de tu estilo
-- Producto original de marca
-- Este producto fue creado con atención al detalle
 - Dos años de garantía ante defectos de fábrica
+- Descripción de la cámara: Trasera
+- Este producto fue creado con atención al detalle
+- Producto original de marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

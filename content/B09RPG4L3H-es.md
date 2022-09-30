@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Napapijri S-Turin Camiseta  Bright White 002  L Hombres'
-date: 2022-09-28 12:44:25
+date: 2022-09-30 16:43:32
 image: 'https://m.media-amazon.com/images/I/41DhWkCQw0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo
 - Estampado en el pecho
 - Corte regular
+- Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
