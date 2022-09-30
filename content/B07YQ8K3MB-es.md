@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseño tradicional de 5 bolsillos
-- Hecho de algodón BCI de origen sostenible
 - Cintura elástica de punto acanalado con la marca Levis en la parte delantera
+- Hecho de algodón BCI de origen sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
