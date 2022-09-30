@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJIGORDON JJSHARK Noos Sweatpants AT PS Pantalones Deportivos  Blazer Azul Marino  40 para Hombre'
-date: 2022-09-28 14:16:52
+date: 2022-09-30 02:52:50
 image: 'https://m.media-amazon.com/images/I/31J+N3Q6uqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08P7PQGZV/?tag=tolees-21'
 descuento: '41.67'
-average: '19.6613333333334'
+average: '19.6854838709678'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
