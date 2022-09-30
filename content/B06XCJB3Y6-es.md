@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAY FUN BY IMC TOYS Boom Ball | Juego divertido y de acción que consiste en Atrapar todas las pelotas posibles - Para niños +6 Años'
-date: 2022-09-29 13:01:22
+date: 2022-09-30 13:15:49
 image: 'https://m.media-amazon.com/images/I/51+9k3XZltL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAY FUN BY IMC TOYS'
 buyurl: 'https://www.amazon.es/dp/B06XCJB3Y6/?tag=tolees-21'
 descuento: '71.32'
-average: '18.1706666666666'
+average: '17.8593749999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura del disparo ajustable gracias a las diferentes posiciones de las patas
 - Juego para 1 ó 2 jugadores
 - Juego de acción y movimiento en el que los jugadores para ganar, con su canasta-cabeza, deberán atrapar las pelotas lanzadas aleatoriamente
+- Altura del disparo ajustable gracias a las diferentes posiciones de las patas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

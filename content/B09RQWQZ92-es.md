@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Libertad de movimiento
-- Colección primavera/verano 2022 de Kappa.
+- Omini Kappa
 - Diseño y confort
 - Camiseta para hombre
-- Omini Kappa
+- Colección primavera/verano 2022 de Kappa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

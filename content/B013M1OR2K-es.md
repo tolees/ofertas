@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LENOVO HD SSD CIFRADO 1 TB 2.5 SATA 6GB/S TCG Opal ENCRYPTION 2.0 para THINKSTATION P310  P410  Torre   P500  P510  P700  P900'
-date: 2022-09-27 20:28:20
+date: 2022-09-30 14:29:03
 image: 'https://m.media-amazon.com/images/I/41WamszeguL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B013M1OR2K-es LENOVO HD SSD CIFRADO 1 TB 2.5 SATA 6GB/S TCG Opal...'
 sku: 'B013M1OR2K-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos internos','Discos duros sólidos internos','Informática','lenovo','🇪🇸', ]
-actualPrice: 206.0 EUR
+actualPrice: 204.65 EUR
 currency: EUR
-price: 206.0
+price: 204.65
 comparePrice: 826.01 EUR
 prodname: 'LENOVO HD SSD CIFRADO 1 TB 2.5 SATA 6GB/S TCG Opal ENCRYPTION 2.0 para THINKSTATION P310  P410  Torre   P500  P510  P700  P900'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B013M1OR2K/?tag=tolees-21'
-descuento: '75.06'
-average: '206.0'
+descuento: '75.22'
+average: '205.325'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
