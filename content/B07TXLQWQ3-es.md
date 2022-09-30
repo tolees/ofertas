@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela: Caucho
 - Tipo de tacón: Plano
+- Material de la suela: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

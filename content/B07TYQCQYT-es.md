@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: Con cordones
 - Material de la suela: Caucho
+- Cierre: Con cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Puños y dobladillo de canalé
-- Presenta ajuste regular
 - Cuenta con un pequeño logotipo de Adidas bordado en el pecho
+- Presenta ajuste regular
 - Mangas con ribetes en contraste
 
 [🛒 Comprar!!!]({{< param buyurl >}})

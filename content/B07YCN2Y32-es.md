@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste de pierna súper delgado
 - Cintura ajustable
-- Diseño tradicional de 5 bolsillos
+- Ajuste de pierna súper delgado
 - Mezclilla suave y elástica para un uso diario fácil y cómodo
+- Diseño tradicional de 5 bolsillos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

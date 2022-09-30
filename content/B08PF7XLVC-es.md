@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El lienzo perfecto para la personalización y la expresión propia
-- Nuestro característico corte recto
 - Tejidos con un toque de elástico
 - Jeans azules originales desde 1873
+- El lienzo perfecto para la personalización y la expresión propia
+- Nuestro característico corte recto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
