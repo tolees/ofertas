@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Contenido: 1 bestron pizza-grill, propuestas de recetas, potencía : 1800 w, dimensiones: 37,5x31x16 cm, peso: 2,9 kg, material: metal, color: rojo, apz400
-- Pequeño horno de diseño italiano para crujientes pizzas caseras – ideal para celebraciones
 - Placer en pocos minutos: calor superior e inferior a la vez o por separado, ajuste manual de la temperatura (hasta 180°c)
 - Ventana y piloto indicador para controlar, estable gracias a la base antideslizante, longitud del cable: 77 cm
+- Pequeño horno de diseño italiano para crujientes pizzas caseras – ideal para celebraciones
 - Parrilla antiadherente con mango resistente al calor, adecuada también para pizza congelada, desplegable para convertirlo en barbacoa de mesa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

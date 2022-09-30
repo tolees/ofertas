@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oxford  Cuaderno A4  Folio  Cuadrícula 4x4. Tapa Plástico  80 Hojas. Color Rojo'
-date: 2022-09-17 16:44:37
+date: 2022-09-30 19:25:22
 image: 'https://m.media-amazon.com/images/I/51hu+crDKHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Oxford'
 buyurl: 'https://www.amazon.es/dp/B07C18VD5J/?tag=tolees-21'
 descuento: '42.05'
-average: '3.28'
+average: '3.31666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 80 hojas con cuadrícula 4mm x 4mm con margen
+- Tapa plástico, resistencia y ligereza en uno. Cantos romos para evitar que las tapas se deterioren
 - Espiral simple negra
 - Nuevo color
 - Formato Fº
-- Tapa plástico, resistencia y ligereza en uno. Cantos romos para evitar que las tapas se deterioren
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- modelo en liso, con una fina blonda tanto en la pierna como en la parte superior de la cintura.
 - 95% de algodón y un 5% de lycra.
-- Especialmente indicada para su uso diario, gracias a su comodidad y confort.
 - Color: blanco. Talla: M - G - EG.
+- modelo en liso, con una fina blonda tanto en la pierna como en la parte superior de la cintura.
+- Especialmente indicada para su uso diario, gracias a su comodidad y confort.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
