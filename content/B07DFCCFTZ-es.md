@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop! Game of Thrones - Yara Greyjoy #66 Vinyl Figure'
-date: 2022-09-23 10:53:52
+date: 2022-09-30 11:02:26
 image: 'https://m.media-amazon.com/images/I/31iJUJ9yQML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07DFCCFTZ/?tag=tolees-21'
 descuento: '39.25'
-average: '9.5719512195122'
+average: '9.57476190476191'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Licencia oficial
-- Para los Fans de Funko
 - Figura pop game of thrones: yara greyjoy
+- Para los Fans de Funko
+- Licencia oficial
 
 [🛒 Visítala!!!]({{< param buyurl >}})
