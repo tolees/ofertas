@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se estrechan del muslo al dobladillo
 - Bragueta de cremallera
-- Corte estrecho 3D
 - Cinturilla regular
+- Se estrechan del muslo al dobladillo
+- Corte estrecho 3D
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
