@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pikolinos Deportivos Alarcon M9t para Caballero Color Nata-Blue'
-date: 2022-09-20 17:57:59
+date: 2022-09-30 18:12:01
 image: 'https://m.media-amazon.com/images/I/314lykSRPhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pikolinos'
 buyurl: 'https://www.amazon.es/dp/B09F3GW3ZK/?tag=tolees-21'
 descuento: '56.68'
-average: '46.535'
+average: '45.888'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

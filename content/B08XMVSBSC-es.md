@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Batman, también conocido como Bruce Wayne para decidir luchar contra el crimen después de ver a sus padres muertos por un ladrón en una calle de Gotham City, la ciudad donde se desarrollan la mayoría de sus aventuras. Forma parte de la Justicia League DC Comics.
-- La figura de Batman mide 20 cm y tiene 14 puntos de articulación
-- Mego es una gama de figuras de coleccionista de los universos imprescindibles de música, TV y cine. Edición limitada
 - Descubre una colección de más de 20 figuras siempre renovadas. Los temas son muchos: horror, música, cinema, ciencia-ficción..
+- Batman, también conocido como Bruce Wayne para decidir luchar contra el crimen después de ver a sus padres muertos por un ladrón en una calle de Gotham City, la ciudad donde se desarrollan la mayoría de sus aventuras. Forma parte de la Justicia League DC Comics.
+- Mego es una gama de figuras de coleccionista de los universos imprescindibles de música, TV y cine. Edición limitada
 - A partir de 8 años.
+- La figura de Batman mide 20 cm y tiene 14 puntos de articulación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
