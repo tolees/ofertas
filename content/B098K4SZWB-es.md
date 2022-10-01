@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 5 bolsillos estilo
 - Ajustado
+- 5 bolsillos estilo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

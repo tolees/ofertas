@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de Cabello: Todo Tipo de Cabello
-- Marca: GHD
 - Género: Unisex Adultos
+- Marca: GHD
+- Tipo de Cabello: Todo Tipo de Cabello
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

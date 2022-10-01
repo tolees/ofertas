@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalones vaqueros sostenibles
 - 5 bolsillos estilo
+- Pantalones vaqueros sostenibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
