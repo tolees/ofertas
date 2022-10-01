@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- De alta calidad y con diseño deportivo
 - Material duro Heelys
 - Patines Patinaje Niño
-- De alta calidad y con diseño deportivo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

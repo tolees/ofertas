@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Watch GT2 Pro - Smartwatch Nebula Gray'
-date: 2022-09-25 09:19:34
+date: 2022-10-01 10:41:55
 image: 'https://m.media-amazon.com/images/I/519ptzwLNkS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B08GP5SF64/?tag=tolees-21'
 descuento: '46.79'
-average: '173.313'
+average: '171.102727272727'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

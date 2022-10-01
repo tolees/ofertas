@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido del envío: APC Surge Arrest Essential, 75.000€ protección del dispositivo, instrucciones (idioma español no garantizado).
-- Seguro para niños, indicador de función óptica.
 - Protección contra sobretensiones 615 julios, reducción de ruido EMI/RFI <40 db.
 - Óptima protección contra sobretensión para sus dispositivos eléctricos. Protege contra sobretensiones en caso de tormentas, provocadas por rayos y picos de tensión en la red eléctrica.
 - 5 tomas de salida, 2 salidas de carga USB (2,4 A), longitud de cable 1,50 metros, posibilidad de montaje en pared.
+- Seguro para niños, indicador de función óptica.
+- Contenido del envío: APC Surge Arrest Essential, 75.000€ protección del dispositivo, instrucciones (idioma español no garantizado).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

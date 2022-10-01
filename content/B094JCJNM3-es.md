@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 10 milimetros calendario Sin correa ajustable
 - Analógico para Mujer
+- 10 milimetros calendario Sin correa ajustable
 - Michael Kors Modelo Reloj Runway MK6911
 
 [🛒 Aquí!!!]({{< param buyurl >}})

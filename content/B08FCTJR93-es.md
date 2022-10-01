@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - No es resistente al agua
-- Punta redonda
 - Patrón sólido
+- Punta redonda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
