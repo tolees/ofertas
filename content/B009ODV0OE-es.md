@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wera 05073593001 950 SPKL/9 SM N Multicolour Juego de Llaves acodadas métricas  BlackLaser  9 Piezas  Set'
-date: 2022-09-19 12:01:57
+date: 2022-10-01 04:45:35
 image: 'https://m.media-amazon.com/images/I/41FuWdYsX5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Wera'
 buyurl: 'https://www.amazon.es/dp/B009ODV0OE/?tag=tolees-21'
 descuento: '53.38'
-average: '25.3871428571429'
+average: '25.08875'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

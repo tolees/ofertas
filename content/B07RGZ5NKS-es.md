@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOZO T6 Auriculares Bluetooth 5.3 Auriculares Inalámbricos Control Táctil con Estuche de Carga y micrófono Integrado  Sonido Premium con Graves Profundos para Correr y Hacer Deporte Negro'
-date: 2022-09-29 08:48:24
+date: 2022-10-01 04:04:33
 image: 'https://m.media-amazon.com/images/I/41Odw3dmbnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TOZO'
 buyurl: 'https://www.amazon.es/dp/B07RGZ5NKS/?tag=tolees-21'
 descuento: '45.46'
-average: '31.7027222222223'
+average: '31.6932596685084'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
