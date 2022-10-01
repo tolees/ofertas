@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✅Amplia gama de aplicaciones: bicicletas eléctricas, scooters eléctricos, coches de equilibrio, Patinaje sobre ruedas, bicicletas, etc
 - ✅Un botón que controla tres modos de iluminación: presione brevemente el botón del interruptor después de encenderlo para cambiar el modo de luz: modo de marea (detección de luz), modo de flash (detección de luz), modo estroboscópico (normalmente abierto)
-- ✅Larga duración de la batería: una vez cargada, la duración de la batería puede durar 36 horas, en espera 180 horas
 - ✅Iluminación inteligente: 7 luces de fondo LED de alto brillo Se iluminan automáticamente o se mantienen en espera de acuerdo con la intensidad de la luz, y la distancia visible finaliza 180 metros
+- ✅Larga duración de la batería: una vez cargada, la duración de la batería puede durar 36 horas, en espera 180 horas
 - ✅Seguridad: proceso de moldeo único, los Estados Unidos importan materiales de PC y EPS para hacer que los cascos sean más seguros
+- ✅Amplia gama de aplicaciones: bicicletas eléctricas, scooters eléctricos, coches de equilibrio, Patinaje sobre ruedas, bicicletas, etc
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

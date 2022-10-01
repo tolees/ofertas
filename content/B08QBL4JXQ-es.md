@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Correas de cuero de material suave y cómodo.
-- Entresuela de espuma de doble densidad para la amortiguación y la estabilidad.
 - Suela de caucho con patrón de tracción circular para el agarre y la durabilidad.
+- Entresuela de espuma de doble densidad para la amortiguación y la estabilidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

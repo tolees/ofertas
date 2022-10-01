@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjipaul Jjflake AKM 542 Black Noos Pantalones  32W / 32L para Hombre'
-date: 2022-09-30 09:53:50
+date: 2022-10-01 17:09:25
 image: 'https://m.media-amazon.com/images/I/31IHpifHtBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
