@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf Lanzador Totalmente motorizado Ultra Select  Lanza de Dos Formas  Incluye Clips y Dardos  Compatible únicamente con Dardos Ultra'
-date: 2022-09-27 18:45:25
+date: 2022-10-01 07:32:16
 image: 'https://m.media-amazon.com/images/I/41jGTV3DjDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08P2S8NQT-es Nerf Lanzador Totalmente motorizado Ultra Select Lanza de...'
 sku: 'B08P2S8NQT-es'
 tags: [ 'Aire libre y deportes','Armas y proyectiles de juguete','Juguetes','Juguetes y juegos','Lanzadores de espuma de juguete','nerf','🇪🇸', ]
-actualPrice: 49.8 EUR
+actualPrice: 53.31 EUR
 currency: EUR
-price: 49.8
+price: 53.31
 comparePrice: 84.99 EUR
 prodname: 'Nerf Lanzador Totalmente motorizado Ultra Select  Lanza de Dos Formas  Incluye Clips y Dardos  Compatible únicamente con Dardos Ultra'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B08P2S8NQT/?tag=tolees-21'
-descuento: '41.40'
-average: '46.3461538461538'
+descuento: '37.27'
+average: '46.8435714285714'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
