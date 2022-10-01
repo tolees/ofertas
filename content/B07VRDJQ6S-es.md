@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido de algodón suave.
 - Talón y puntera reforzados para mayor durabilidad.
+- Tejido de algodón suave.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- PANEL LATERAL DE VIDRIO TEMPLADO: El panel lateral de vidrio templado permite instalar, acceder y exhibir sistemas premium; Fácil de remover sin necesidad de herramientas (se puede usar un tornillo adicional para asegurar aún más el panel)
 - ILUMINACIÓN ARGB: El panel frontal ARGB Ether luce tiras de iluminación de inspiración automotriz y fachada DarkMirror integrada; la iluminación se asigna a través del software o el controlador ARGB incluido (Pre-enrutado al panel frontal RESET/ARGB)
 - ESPACIOSO: El interior de la MasterBox 540 admite placas base E-ATX (hasta 12"x10,7"), ATX, micro-ATX y mini-ITX; Refrigeración de CPU de hasta 165mm de altura; Tarjetas gráficas (GFX/GPU) de hasta 410mm de longitud; PSU ATX de hasta 180mm de longitud
-- REFRIGERACIÓN: Lleva un ventilador trasero Sickleflow 120mm preinstalado, en tanto que los paneles frontal y superior admiten hasta 3 ventiladores de 120mm, 2 ventiladores de 140mm o un radiador de 360mm; la cubierta de la PSU incluye ventilación superior
 - VERSÁTIL Y BIEN CONECTADO: El panel superior es removible para facilitar el acceso a los componentes durante el montaje/instalación de sistemas de refrigeración líquida de doble radiador; El panel frontal incluye un puerto USB 3.2 Gen2 Type-C (10Gbps)
-- PANEL LATERAL DE VIDRIO TEMPLADO: El panel lateral de vidrio templado permite instalar, acceder y exhibir sistemas premium; Fácil de remover sin necesidad de herramientas (se puede usar un tornillo adicional para asegurar aún más el panel)
+- REFRIGERACIÓN: Lleva un ventilador trasero Sickleflow 120mm preinstalado, en tanto que los paneles frontal y superior admiten hasta 3 ventiladores de 120mm, 2 ventiladores de 140mm o un radiador de 360mm; la cubierta de la PSU incluye ventilación superior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
