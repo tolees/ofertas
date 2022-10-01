@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cordones de zapatos
-- Zapatilla clásica de cuero
 - Parte superior de cuero
+- Zapatilla clásica de cuero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

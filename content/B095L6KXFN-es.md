@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello alto con cremallera YKK
+- Tejido técnico de poliéster de punto doble
+- Contenido total mínimo del 50 % de material reciclado
 - Hilos con infusión S.Café para controlar el olor
 - Items delivered: 1x Helly Hansen Womens - W Inshore Hoodie Apparel Navy S
-- Tejido técnico de poliéster de punto doble
-- Cuello alto con cremallera YKK
-- Contenido total mínimo del 50 % de material reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tejido Softshell elástico y cómodo con acabado DWR
 - Ajuste: regular, no es delgado ni demasiado grande, se puede llevar por capas intermedias más gruesas. Los pantalones tienen una costura interior estándar con un corte que se coloca directamente a través de la pierna.
-- Ideal para: vela de entrada, vela de barco hinchable, estilo de vida marino, camping y senderismo, ocio, desplazamiento
 - Características: cómodo tejido softshell elástico con superficie DWR, secado rápido, bolsillos laterales, cremallera frontal con botón HH, trabillas para cinturón, logotipo discreto HH
+- Ideal para: vela de entrada, vela de barco hinchable, estilo de vida marino, camping y senderismo, ocio, desplazamiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

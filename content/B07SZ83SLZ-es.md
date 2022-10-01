@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Push-up Jeans
 - 5-pocket stretch jeans
+- Push-up Jeans
 
 [🛒 Aquí!!!]({{< param buyurl >}})
