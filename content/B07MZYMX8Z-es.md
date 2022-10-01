@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- bajo hi alto top atleta ropa deportiva ropa activa
-- bádminton deportes running jogging joggers lifestyle
 - exterior travel skate baloncesto caminar gimnasio
 - gimnasio ejercicios entrenar hockey voleibol zapatillas
+- bajo hi alto top atleta ropa deportiva ropa activa
+- bádminton deportes running jogging joggers lifestyle
 
 [🛒 Aquí!!!]({{< param buyurl >}})
