@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material duradero
 - Fácil de usar
 - Producto de calidad
+- Material duradero
 - Producto creado tanto para aficionados como para profesionales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

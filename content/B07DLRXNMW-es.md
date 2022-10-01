@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Glitter Girls by Battat – Donut Delivery Scooter – Toy Car  Bike  and Vehicle Accessories for 14-inch Dolls  35.6 cm  – Ages 3 and Up'
-date: 2022-09-29 08:57:59
+date: 2022-10-01 06:32:28
 image: 'https://m.media-amazon.com/images/I/41WpNTtX08L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Glitter Girls'
 buyurl: 'https://www.amazon.es/dp/B07DLRXNMW/?tag=tolees-21'
 descuento: '57.65'
-average: '15.8666666666667'
+average: '15.8125'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

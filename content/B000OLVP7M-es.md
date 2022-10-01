@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Authorised Stockist
 - Genuine Product
+- Authorised Stockist
 
 [🛒 Visítala!!!]({{< param buyurl >}})
