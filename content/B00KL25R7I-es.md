@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca-Jovi
 - Bote de 9 pinceles
+- Marca-Jovi
 - Referencia-807
 
 [🛒 Visítala!!!]({{< param buyurl >}})

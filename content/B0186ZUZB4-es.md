@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Termómetro con ventosa
-- Mide la temperatura del agua
 - Práctico y fácil de usar.
+- Mide la temperatura del agua
+- Termómetro con ventosa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Originals Ozweego  Zapatillas Hombre  Core Black Core Black Grey  43 1/3 EU'
-date: 2022-09-27 21:10:09
+date: 2022-10-02 13:22:13
 image: 'https://m.media-amazon.com/images/I/31UrObTbXUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07YSQGS1K/?tag=tolees-21'
 descuento: '40.00'
-average: '79.293'
+average: '79.1754545454546'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
 - Parte superior de gran calidad y comodidad
 - Suela duradera
+- Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

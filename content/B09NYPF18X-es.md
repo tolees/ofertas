@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas B AR 3S Pant Pants  Boy s  Shadow Navy/Blue Rush  5-6A'
-date: 2022-10-01 10:38:47
+date: 2022-10-02 14:28:02
 image: 'https://m.media-amazon.com/images/I/319xp+1vqfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintura elástica
 - Pantalones deportivos
 - Adidas icónicas 3 bandas
+- Cintura elástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
