@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tamaño de 26x31x10cm
-- Producto licencia oficial
 - Producto de alta calidad
+- Producto licencia oficial
 
 [🛒 Comprar!!!]({{< param buyurl >}})
