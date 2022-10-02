@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FAMATEL – Caja empotrar universal para mecanismos | IP30 | 66 x 66 mm | Unidad | Fácil montaje'
-date: 2022-09-30 09:49:58
+date: 2022-10-02 10:37:09
 image: 'https://m.media-amazon.com/images/I/41UAcOwBeTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ESPECIFICACIONES: Caja empotrar universal para mecanismos | Estanqueidad IP30 | 66x66 mm | Unitaria | Negro
 - INSTALACIÓN: Aseguramos una instalación rápida de cada una de las cajas gracias a su configuración con entradas de fácil rotura.
+- ESPECIFICACIONES: Caja empotrar universal para mecanismos | Estanqueidad IP30 | 66x66 mm | Unitaria | Negro
 - ESTANQUEIDAD IP30: Este producto es perfecto para instalaciones en las que debemos garantizar grados elevados de protección al agua.
-- SEGURO: Destaca por su alta resistencia al impacto, su superficie libre de halógenos, su resistencia al fuego y su capacidad de no propagarlo en caso de incendio.
 - RECOMENDACIONES: Si no supiesen instalarlo, aconsejamos que contacten con un electricista certificado
+- SEGURO: Destaca por su alta resistencia al impacto, su superficie libre de halógenos, su resistencia al fuego y su capacidad de no propagarlo en caso de incendio.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
