@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Hombros cortados
 - Mangas superpuestas
 - Inserto de encaj
-- Hombros cortados
-- Sostenible
 - Camiseta
+- Sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

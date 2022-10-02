@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ESENCIA DURADERA: una fragancia cuya esencia persiste en la piel, una colonia de larga duración para que te acompañe en tu día a día
-- SUAVE Y EMBRIAGADOR: un perfume con el que podrás vivir un mundo lleno de sentimiento y luminosidad
 - PIRÁMIDE OLFATIVA: Notas de salida: bergamota, limón, nerolí, mandarina y petitgrain; Notas de corazón: flor de naranjo, jazmín, sambac y lirios del valle; Notas de fondo: ámbar, maderas preciosas y almizcle blanco
 - TENDENCIA OLFATIVA: una fragancia que resulta de una combinación ideal entre sus tonos
+- ESENCIA DURADERA: una fragancia cuya esencia persiste en la piel, una colonia de larga duración para que te acompañe en tu día a día
 - FRAGANCIA ÚNICA: una colonia que evoca un paseo por un jardín infinito repleto de sensaciones únicas
+- SUAVE Y EMBRIAGADOR: un perfume con el que podrás vivir un mundo lleno de sentimiento y luminosidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
