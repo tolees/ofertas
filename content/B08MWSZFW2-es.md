@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance M680V7  Zapatillas para Correr de Carretera Hombre  Black  43 EU'
-date: 2022-09-27 13:59:23
+date: 2022-10-02 07:19:48
 image: 'https://m.media-amazon.com/images/I/413+j2Cb2TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- New Balance Road Zapatillas para correr
+- Engineered mesh upper allows for breathability
+- Fresh Foam midsole cushioning is precision engineered to deliver an ultra-cushioned, lightweight ride
+- New Balance Road Running Shoe
 
 [🛒 Visítala!!!]({{< param buyurl >}})
