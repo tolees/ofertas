@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ancho de la correa: 20 mm
 - Movimiento de cuarzo Miyota
 - 3 ATM de resistencia al agua; el agua del grifo o la lluvia no daña los relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
 - Caja gris oscuro en acero inoxidable cepillado y esfera gris oscuro
 - Grosor de la caja de 7 mm / Diámetro de la caja: 40 mm
+- Ancho de la correa: 20 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
