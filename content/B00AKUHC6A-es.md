@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contenido de la caja: Transmisor estéreo RF TMR-RF855R, Adaptador de CA (12 V), Cable de conexión (minienchufe estéreo x 2) 1 m, Batería recargable de hidruro metálico de níquel BP-HP550-11 (550 mAh min), Tarjeta de garantía, Instrucciones de operación
 - No necesitas levantarte o moverte del sofá, sólo tienes que ajustar el volumen a través del control de volumen de los auriculares
+- Entradas de audio: 1 conector de patilla para entrada analógica (I/D), 1 mini conector estéreo para entrada analógica
+- Rango de frecuencia de 10 Hz a 22 kHz
 - Auriculares inalámbricos de tipo cerrado con baterías recargables, diafragma de neodimio de 40 mm y base de conexión
 - Diafragmas de neodimio de 40 mm
-- Rango de frecuencia de 10 Hz a 22 kHz
-- Entradas de audio: 1 conector de patilla para entrada analógica (I/D), 1 mini conector estéreo para entrada analógica
-- Contenido de la caja: Transmisor estéreo RF TMR-RF855R, Adaptador de CA (12 V), Cable de conexión (minienchufe estéreo x 2) 1 m, Batería recargable de hidruro metálico de níquel BP-HP550-11 (550 mAh min), Tarjeta de garantía, Instrucciones de operación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

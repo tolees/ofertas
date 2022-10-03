@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers FLEX APPEAL 4.0 BRILLIANT VIEW  Zapatillas para Mujer  Navy Mesh/Bluen Trim  37 EU'
-date: 2022-09-23 00:17:23
+date: 2022-10-03 00:26:01
 image: 'https://m.media-amazon.com/images/I/41l4OXsrnkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B08L3R1LTP/?tag=tolees-21'
 descuento: '37.10'
-average: '39.5'
+average: '41.0'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
