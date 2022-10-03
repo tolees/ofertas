@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden Taladro percutor eléctrico EasyImpact 600  600 W  en maletín de transporte   Color Verde'
-date: 2022-10-02 17:31:05
+date: 2022-10-03 18:13:50
 image: 'https://m.media-amazon.com/images/I/41xvWjYbWiS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B092ZNHV8K/?tag=tolees-21'
 descuento: '42.92'
-average: '46.2714285714286'
+average: '45.48125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las herramientas Easy de Bosch – una ayuda para pequeños proyectos
-- Control electrónico de velocidad de Bosch para regular la velocidad al taladrar con tan solo accionar un gatillo
 - Incluye: EasyImpact 600, maletín de transporte
+- Las herramientas Easy de Bosch – una ayuda para pequeños proyectos
 - Portabrocas de sujeción rápida de dos piezas para cambiar la herramienta de manera rápida y sencilla
 - Compacto, ligero y ergonómico para un manejo cómodo y para taladrar sin esfuerzo en mampostería de hasta 12 mm y madera de hasta 25 mm
+- Control electrónico de velocidad de Bosch para regular la velocidad al taladrar con tan solo accionar un gatillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

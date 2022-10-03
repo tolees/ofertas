@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bourjois Contour Edition Delineador de Labios Tono 09 Plum it up! -1.14 gr.'
-date: 2022-10-02 17:08:07
+date: 2022-10-03 19:33:27
 image: 'https://m.media-amazon.com/images/I/31YlsUcOinL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Textura suave y cremosa que se desliza fácilmente sobre los labios
-- Perfilador de Labios de larga duración con textura fundente y cremosa
 - Enriquecido con manteca de Karité y esencia de uva
-- Tonos fundentes y acordes a las barras de labios de Bourjois
+- Perfilador de Labios de larga duración con textura fundente y cremosa
+- Textura suave y cremosa que se desliza fácilmente sobre los labios
 - Hasta 12 horas de larga duración sin retoques
+- Tonos fundentes y acordes a las barras de labios de Bourjois
 
 [🛒 Visítala!!!]({{< param buyurl >}})
