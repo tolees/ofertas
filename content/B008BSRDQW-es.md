@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750-Plus Cotu  Zapatillas Unisex adulto  White  36 EU'
-date: 2022-09-23 06:03:48
+date: 2022-10-03 06:04:12
 image: 'https://m.media-amazon.com/images/I/418OJUSnJfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B008BSRDQW/?tag=tolees-21'
 descuento: '68.15'
-average: '29.2'
+average: '27.7833333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
