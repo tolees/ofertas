@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carioca- HB Pack de 4 lápices de Grafito con Goma de borrar  Multicolor  4 Unidad  Paquete de 1   A52705004 '
-date: 2022-10-01 18:14:01
+date: 2022-10-03 10:59:58
 image: 'https://m.media-amazon.com/images/I/41MV6QxlidL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colores brillantes
-- 5 mm
 - Facil de sacar punta
+- 5 mm
+- Colores brillantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

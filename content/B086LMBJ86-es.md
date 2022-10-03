@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WHCH710NL.CE7 - Auriculares Inalámbricos  Azul'
-date: 2022-09-21 08:56:38
+date: 2022-10-03 10:56:50
 image: 'https://m.media-amazon.com/images/I/21oA6k+S3bS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B086LMBJ86/?tag=tolees-21'
 descuento: '54.00'
-average: '92.5815384615384'
+average: '91.7081481481481'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hasta 35 h de batería
-- Noise Cancelling dual
 - Carga rápida (10 min. de carga equivalen a 90 min. de uso)
-- Diseño compacto
 - Opción de conexión por cable
+- Hasta 35 h de batería
+- Diseño compacto
+- Noise Cancelling dual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

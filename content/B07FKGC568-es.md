@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con mangos de limpieza de piscinas de 30 mm
-- Recogehojas robusta para una limpieza cómoda del agua de la piscina y del suelo
 - ¡Disfrute de su verano en una piscina limpia!
+- Recogehojas robusta para una limpieza cómoda del agua de la piscina y del suelo
+- Compatible con mangos de limpieza de piscinas de 30 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

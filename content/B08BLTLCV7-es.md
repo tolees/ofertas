@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEVI S  Sneakers Hombre  Marrón  42 EU'
-date: 2022-10-02 09:43:31
+date: 2022-10-03 10:29:28
 image: 'https://m.media-amazon.com/images/I/41qjoQJHP6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLTLCV7/?tag=tolees-21'
 descuento: '35.89'
-average: '37.8025'
+average: '37.8233333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
