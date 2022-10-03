@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
 - Composición: 77% poliacrílico, 19% poliéster, 4% elastano
+- Cuello redondo
 - Jersey largo de punto
 - Puños acanalados
 
