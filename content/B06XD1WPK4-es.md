@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Parte superior de malla transpirable
 - Refuerzo interno de la puntera para la estructura en la parte delantera del pie
 - Panel lateral en ante sintético
-- Parte superior de malla transpirable
 - Cordones elásticos para un diseño slip-on fácil de calzar
 - Construcción de pie entero para un ajuste seguro
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma del tacón:
-- Material interior: forro textil
 - Suela: sintético
+- Forma del tacón:
 - Parte superior: sintetica/piel de velor/textil
+- Material interior: forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
