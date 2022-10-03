@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone SE 2a Generación  64GB  Negro  Reacondicionado '
-date: 2022-10-02 10:36:41
+date: 2022-10-03 21:33:25
 image: 'https://m.media-amazon.com/images/I/41FUqDeVDxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08D39SX4M/?tag=tolees-21'
 descuento: '44.86'
-average: '240.05076923077'
+average: '238.618571428572'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pantalla Retina HD de 4,7 pulgadas
+- Cámara de 12 Mpx con gran angular, modo Retrato, Iluminación de Retratos, Control de Profundidad, HDR Inteligente de última generación y vídeo 4K
+- Resistencia al agua y al polvo (1 metro hasta 30 minutos, calificación IP67)
 - Touch ID para autenticarse de forma segura y usar Apple Pay
 - Cámara frontal de 7 Mpx con modo Retrato, Iluminación de Retratos y Control de Profundidad
-- Pantalla Retina HD de 4,7 pulgadas
-- Resistencia al agua y al polvo (1 metro hasta 30 minutos, calificación IP67)
-- Cámara de 12 Mpx con gran angular, modo Retrato, Iluminación de Retratos, Control de Profundidad, HDR Inteligente de última generación y vídeo 4K
 
 [🛒 Comprar!!!]({{< param buyurl >}})

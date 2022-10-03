@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Mediasuela Bounce
-- Parte superior de malla transpirable
-- Panel del tobillo acolchado con tecnología Geofit
 - Cierre de cordones
+- Mediasuela Bounce
+- Panel del tobillo acolchado con tecnología Geofit
+- Horma clásica
+- Parte superior de malla transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
