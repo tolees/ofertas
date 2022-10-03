@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Netgear GS605-400PES - Switch de red con 5 puertos Gigabit 10/100/1000 autosensing Base-T'
-date: 2022-10-02 06:35:34
+date: 2022-10-03 12:08:25
 image: 'https://m.media-amazon.com/images/I/31Sh8mOUtaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

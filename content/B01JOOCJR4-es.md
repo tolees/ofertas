@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Facil de sacar punta
 - 5 mm
+- Facil de sacar punta
 - Colores brillantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

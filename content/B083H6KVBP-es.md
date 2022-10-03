@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela de caucho
-- Suela de caucho para más durabilidad y tracción
-- Corte bajo
 - La plantilla de EVA proporciona una amortiguación cómoda y suave
+- Corte bajo
+- Suela de caucho para más durabilidad y tracción
+- Mediasuela de caucho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
