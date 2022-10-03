@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- fit type: Normal
 - Muy suave y cómoda; ropa de cama moderna para el día a día.
+- fit type: Normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

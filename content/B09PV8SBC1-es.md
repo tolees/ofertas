@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fabricado en metal fundido a presión con neumáticos de goma
+- Para niños y niñas a partir de 8 años
 - Con sistema de giro libre de ruedas, luces delanteras y traseras y apertura de puertas
 - Coche de metal Batmóvil, reproducción a escala 1:18 de la película "The Batman" de 2022
-- Fabricado en metal fundido a presión con neumáticos de goma
 - Incluye figura de metal a escala de Batman
-- Para niños y niñas a partir de 8 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

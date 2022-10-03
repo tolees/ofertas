@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espacio para un máximo de seis ventiladores de chasis, y compatible con radiadores de 360 mm, 280 mm 240 mm y 120 mm
-- Los accesorios incluidos con este chasis se encuentran en la bahía de disco duro del producto.
 - Tres ventiladores LED RGB SP120 incluidos y un controlador LED integrado
-- Cuatro paneles de cristal templado en la parte frontal, superior y lateral del chasis
-- Bandejas de ventilador extraíbles en las partes frontal y superior del chasis
-- Logotipo de CORSAIR con retroiluminación en LED blanco brillante en el panel frontal y la cubierta de la fuente de alimentación (extraíble)
 - Canales de enrutamiento de cables con abrazaderas de velcro para cables incluidas para conseguir una distribución limpia de los cables
+- Espacio para un máximo de seis ventiladores de chasis, y compatible con radiadores de 360 mm, 280 mm 240 mm y 120 mm
+- Logotipo de CORSAIR con retroiluminación en LED blanco brillante en el panel frontal y la cubierta de la fuente de alimentación (extraíble)
+- Bandejas de ventilador extraíbles en las partes frontal y superior del chasis
+- Cuatro paneles de cristal templado en la parte frontal, superior y lateral del chasis
+- Los accesorios incluidos con este chasis se encuentran en la bahía de disco duro del producto.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
