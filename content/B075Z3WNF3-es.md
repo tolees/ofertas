@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUPERSOAKER - Nerf Super Soaker Splash Mouth'
-date: 2022-09-28 15:20:48
+date: 2022-10-03 15:24:31
 image: 'https://m.media-amazon.com/images/I/51ovYVflx3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SUPERSOAKER'
 buyurl: 'https://www.amazon.es/dp/B075Z3WNF3/?tag=tolees-21'
 descuento: '43.34'
-average: '10.0211111111111'
+average: '9.88105263157894'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sumerge el lanzador en agua para llenar el depósito
 - Cambia de modo para lanzar o descargar agua
+- Sumerge el lanzador en agua para llenar el depósito
 - Lanza chorros de agua o descárgala de golpe
 - El depósito tiene una capacidad de 591 mililitros de agua
 

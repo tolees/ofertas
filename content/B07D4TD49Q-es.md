@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kappa Follow OC  Zapatillas Unisex adulto Rojo  Red/White 2010  45 EU 45 EU'
-date: 2022-09-30 14:23:02
+date: 2022-10-03 15:27:28
 image: 'https://m.media-amazon.com/images/I/41g4Fxm4xLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kappa'
 buyurl: 'https://www.amazon.es/dp/B07D4TD49Q/?tag=tolees-21'
 descuento: '56.62'
-average: '29.725'
+average: '26.3166666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

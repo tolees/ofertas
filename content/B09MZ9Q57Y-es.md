@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Springfield Polo Resort  Polo  Hombre  Blanco  L'
-date: 2022-10-02 10:05:42
+date: 2022-10-03 15:13:36
 image: 'https://m.media-amazon.com/images/I/312rpGzXLdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Polo Resort
-- Polo
 - Manga corta
+- Polo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
