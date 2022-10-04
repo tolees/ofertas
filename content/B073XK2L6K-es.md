@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Carcasa
 - Mecanismo
 - - Color de la caja: Plata
-- - Cristal: Cristal Mineral
-- Carcasa
 - - Material de la Carcasa: Acero inoxidable
+- - Cristal: Cristal Mineral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
