@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Base de Autovaciado Conga Home 10000. Vaciado Automático del Robot  Compatible con Las Series 8000 y 9000  Limpieza Higiénica  Limpieza de Filtro  Capacidad 2 5 L'
-date: 2022-10-03 05:21:03
+date: 2022-10-04 12:30:32
 image: 'https://m.media-amazon.com/images/I/31-QnndgePL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cecotec'
 buyurl: 'https://www.amazon.es/dp/B09H37L8XH/?tag=tolees-21'
 descuento: '72.29'
-average: '193.0'
+average: '172.333333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
