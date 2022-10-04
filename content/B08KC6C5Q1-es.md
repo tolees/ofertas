@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onllesly L/S Open Cardigan Knt Noos Suéter  Allure  M para Mujer'
-date: 2022-10-03 07:29:36
+date: 2022-10-04 09:50:17
 image: 'https://m.media-amazon.com/images/I/41qAI8fezGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta de punto
-- Corte estándar
-- Mangas largas con puños de punto
 - Mezcla de viscosa
+- Corte estándar
+- Chaqueta de punto
+- Mangas largas con puños de punto
 - Bolsillos de parche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
