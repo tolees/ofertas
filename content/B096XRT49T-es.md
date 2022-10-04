@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA MSL Tennis wmn  Zapatillas Mujer  White Purple Heather  37 EU'
-date: 2022-09-23 16:03:26
+date: 2022-10-04 19:01:00
 image: 'https://m.media-amazon.com/images/I/41pb6J2s06L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B096XRT49T/?tag=tolees-21'
 descuento: '57.76'
-average: '29.7733333333333'
+average: '29.7225'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: Cuero
 - Revestimiento: Sintético
+- Material exterior: Cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

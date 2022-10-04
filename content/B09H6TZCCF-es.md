@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas ENT22 Hoody Sweatshirt  Team Power Red 2  S Men s'
-date: 2022-10-02 09:28:58
+date: 2022-10-04 18:23:17
 image: 'https://m.media-amazon.com/images/I/31y7PCnsU2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B09H6TZCCF/?tag=tolees-21'
 descuento: '40.00'
-average: '29.2396875'
+average: '29.0809090909091'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
 - Sudadera
 - Tela Suave
+- Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

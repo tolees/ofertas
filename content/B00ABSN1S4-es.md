@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mandriles Conversar Azul M9697C Armada CT AS OX  Converse Schuhe Unisex Sizegroup 10:42'
-date: 2022-09-24 17:06:27
+date: 2022-10-04 18:45:21
 image: 'https://m.media-amazon.com/images/I/41mviIa3LWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B00ABSN1S4/?tag=tolees-21'
 descuento: '38.53'
-average: '43.6867999999999'
+average: '43.5430769230768'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

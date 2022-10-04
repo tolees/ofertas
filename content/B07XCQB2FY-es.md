@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 Sw Top Pullover  Mens  Yellow  XS'
-date: 2022-10-03 10:39:27
+date: 2022-10-04 18:24:30
 image: 'https://m.media-amazon.com/images/I/41XvwOGCj4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07XCQB2FY/?tag=tolees-21'
 descuento: '35.05'
-average: '31.8753225806449'
+average: '31.7817460317458'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 - Puños y dobladillo de canalé
+- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 - Presenta ajuste regular
 - Mangas con ribetes en contraste
 

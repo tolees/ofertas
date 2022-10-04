@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750-Cotu Classic  Zapatillas de Gimnasia Unisex Adulto  Naranja  Orange Melon   43 EU'
-date: 2022-10-03 10:36:49
+date: 2022-10-04 18:13:31
 image: 'https://m.media-amazon.com/images/I/41EjfJtjBSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B07TXLQWQ3/?tag=tolees-21'
 descuento: '38.98'
-average: '27.08'
+average: '27.4368'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
