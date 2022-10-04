@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 RN JKT Jacket  Hombre  Power Red/White  M'
-date: 2022-09-29 19:45:56
+date: 2022-10-04 01:31:25
 image: 'https://m.media-amazon.com/images/I/41yDgiDLg4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene dos bolsillos laterales para las manos
+- Tiene cierre completo con cremallera
 - Tiene el logotipo de Adidas en el pecho
 - Chubasquero con capucha para hombre
-- Tiene cierre completo con cremallera
+- Tiene dos bolsillos laterales para las manos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
