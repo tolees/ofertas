@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Bball 3s Cap CT Hat  Unisex Adulto  Black/White/White  Talla única'
-date: 2022-10-04 15:52:00
+date: 2022-10-06 19:48:11
 image: 'https://m.media-amazon.com/images/I/31NzCOHKcWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07ZNZNCTQ/?tag=tolees-21'
 descuento: '41.75'
-average: '13.2446153846153'
+average: '13.1855555555555'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Visera preformada
 - Correa ajustable
-- Comodidad de uso agradable
 - Logotipo en el frente
+- Comodidad de uso agradable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

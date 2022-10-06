@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bourjois 1 Seconde Eyeshadow Sombra de ojos efecto smokey Tono 002 Brun-ette a-doree  Gama Dorados  - 42 g'
-date: 2022-10-04 22:33:17
+date: 2022-10-06 20:35:20
 image: 'https://m.media-amazon.com/images/I/51UI5AQuK-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tecnología innovadora con pack compacto ideal para un smoky on the go
+- Efecto smoky eye con cobertura modulable en un instante
 - Fórmula satinada ultra suave e intensa de larga duración
 - Aplicador de esponja en forma de ojo para una fácil aplicación
 - Aplica una base de sombras antes para un acabado más definido
-- Efecto smoky eye con cobertura modulable en un instante
-- Tecnología innovadora con pack compacto ideal para un smoky on the go
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
