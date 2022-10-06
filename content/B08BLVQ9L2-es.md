@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Batwing Trifold Wallet  Accesorio de Viaje-Billetera Plegable Triple para Hombre  Black Normal  UN'
-date: 2022-09-29 22:04:16
+date: 2022-10-05 20:02:26
 image: 'https://m.media-amazon.com/images/I/51sjAQumk1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Accesorios','Carteras para hombre','Carteras y monederos para hombre','
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
-comparePrice: 29.26 EUR
+comparePrice: 25.0 EUR
 prodname: 'Levi s Batwing Trifold Wallet  Accesorio de Viaje-Billetera Plegable Triple para Hombre  Black Normal  UN'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLVQ9L2/?tag=tolees-21'
-descuento: '48.77'
-average: '16.4083333333333'
+descuento: '40.04'
+average: '16.2992307692307'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

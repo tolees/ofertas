@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable 18561/2'
-date: 2022-10-03 22:02:16
+date: 2022-10-05 22:04:58
 image: 'https://m.media-amazon.com/images/I/31tYTl3HYnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carcasa
 - Mecanismo
 - - Color de la caja: Plata
-- - Material de la Carcasa: Acero inoxidable
 - - Cristal: Cristal Mineral
+- - Material de la Carcasa: Acero inoxidable
+- Carcasa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
