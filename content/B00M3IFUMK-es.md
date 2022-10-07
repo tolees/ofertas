@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Perfume intenso para hombre Club De Nuit de Armaf  EDT  105 ml'
-date: 2022-10-02 18:40:59
+date: 2022-10-07 10:51:15
 image: 'https://m.media-amazon.com/images/I/31EQI8o8+VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ARMAF'
 buyurl: 'https://www.amazon.es/dp/B00M3IFUMK/?tag=tolees-21'
 descuento: '41.59'
-average: '36.638'
+average: '38.4581818181818'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Nota media: Rosa, abedul, jazmín.
 - Nota base: Almizcle, ámbar gris, pachuli, vainilla.
 - Perfume intenso para hombre Club De Nuit de Armaf.
 - 105 ml, para el hombre
 - Nota: Manzana, bergamota, grosella negra, piña, limón.
-- Nota media: Rosa, abedul, jazmín.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
