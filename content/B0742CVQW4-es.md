@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Rimmel London Scandaleyes Waterproof Khol Kajal Liners Tono 1 - 1.3 gr'
-date: 2022-10-02 14:00:43
+title: 'Rimmel London Scandaleyes Waterproof Khol Kajal Liners Tono 1  1.3g'
+date: 2022-10-07 09:00:08
 image: 'https://m.media-amazon.com/images/I/21UI5mY8rzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0
 comparePrice: 8.77 EUR
-prodname: 'Rimmel London Scandaleyes Waterproof Khol Kajal Liners Tono 1 - 1.3 gr'
+prodname: 'Rimmel London Scandaleyes Waterproof Khol Kajal Liners Tono 1  1.3g'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Rimmel London'
 buyurl: 'https://www.amazon.es/dp/B0742CVQW4/?tag=tolees-21'
 descuento: '65.79'
-average: '3.12'
+average: '3.11764705882353'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Dermatológicamente y oftalmológicamente probado
-- Resistente al agua
 - Fórmula suave y cremosa para una fácil aplicación
-- Color de alta intensidad para un impacto instantáneo
+- Resistente al agua
 - Dibuja una línea fina sobre el ojo para una mirada más intensa
+- Color de alta intensidad para un impacto instantáneo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
