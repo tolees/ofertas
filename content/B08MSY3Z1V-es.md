@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Puma Multiflex SL V Inf  Zapatillas deportivas  Unisex bebé  Puma Black-Puma White  24 EU'
-date: 2022-10-05 10:24:32
+date: 2022-10-07 02:29:21
 image: 'https://m.media-amazon.com/images/I/41l9vKJajZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B08MSY3Z1V/?tag=tolees-21'
 descuento: '44.89'
-average: '15.65'
+average: '15.0166666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
