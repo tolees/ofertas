@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Hernandez  Zapatillas Mujer  Regular White  44 EU'
-date: 2022-10-05 21:44:50
+date: 2022-10-06 22:12:21
 image: 'https://m.media-amazon.com/images/I/31NrDRDD2JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLVV2QS/?tag=tolees-21'
 descuento: '51.22'
-average: '23.0628571428571'
+average: '22.9886666666666'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
