@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA FLYER Runner Mesh  Zapatillas de running  para Unisex adulto  Negro  Puma Black-CASTLEROCK   40.5 EU'
-date: 2022-10-06 22:15:36
+date: 2022-10-07 23:01:37
 image: 'https://m.media-amazon.com/images/I/31NCqLC3ZEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
