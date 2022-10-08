@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TRIXIE Percha  forma de Y para Pájaros'
-date: 2022-10-03 01:50:19
+date: 2022-10-08 12:01:36
 image: 'https://m.media-amazon.com/images/I/21SWtAnGo6S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trixie'
 buyurl: 'https://www.amazon.es/dp/B000WFCEH0/?tag=tolees-21'
 descuento: '66.26'
-average: '2.35176470588236'
+average: '2.36428571428572'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

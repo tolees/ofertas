@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas G BTHIS3S SH TI Leggings  Girls  Black/White  4-5Y'
-date: 2022-09-26 14:45:58
+date: 2022-10-08 10:37:34
 image: 'https://m.media-amazon.com/images/I/31Nt-SurJlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096G9GMKH-es adidas G BTHIS3S SH TI Leggings Girls Black/White 4-5Y'
 sku: 'B096G9GMKH-es'
 tags: [ 'Pantalones cortos deportivos para niña','Ropa','Ropa deportiva para niña','Ropa para niña','adidas','🇪🇸', ]
-actualPrice: 12.4 EUR
+actualPrice: 11.27 EUR
 currency: EUR
-price: 12.4
+price: 11.27
 comparePrice: 30.0 EUR
 prodname: 'adidas G BTHIS3S SH TI Leggings  Girls  Black/White  4-5Y'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B096G9GMKH/?tag=tolees-21'
-descuento: '58.67'
-average: '12.5600000000001'
+descuento: '62.43'
+average: '12.4166666666668'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Amplia libertad de movimiento
-- Corte entallado
 - Bolsillo interior
+- Corte entallado
 - Tejido transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
