@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Caja: acero inoxidable plateado
-- Esfera blanca con números arábigos plateados
-- Diámetro de la caja: 23 mm
 - Pulsera: acero inoxidable plateado/esmalte blanco
+- Diámetro de la caja: 23 mm
+- Esfera blanca con números arábigos plateados
 - Sumergible: 5 bares
 
 [🛒 Comprar!!!]({{< param buyurl >}})

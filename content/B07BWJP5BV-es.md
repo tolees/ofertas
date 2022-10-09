@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juegos de mesa juegos de acción y reflejos FC Barcelona
 - Diseño funcional
 - Creado siguiendo los más altos estándares de la marca FCBARCELONA
+- Juegos de mesa juegos de acción y reflejos FC Barcelona
 - Cluedo fc Barcelona (63409)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
