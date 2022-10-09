@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Nuevo cepillo cónico para dar máxima densidad a tus pestañas
+- Fácil de desmaquillar con agua templada
+- Volumen instantáneo y duración extrema
 - Captura todas las pestañas para dar un volumen escandaloso
 - Hasta 24 horas de impacto
-- Volumen instantáneo y duración extrema
-- Fácil de desmaquillar con agua templada
-- Nuevo cepillo cónico para dar máxima densidad a tus pestañas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

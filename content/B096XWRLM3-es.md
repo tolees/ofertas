@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA EXOWAVE Race WMN  Zapatillas para Correr Mujer  Blanco  Verde neón  Negro  41 EU'
-date: 2022-10-03 15:34:50
+date: 2022-10-09 13:16:17
 image: 'https://m.media-amazon.com/images/I/41sVluiBsuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096XWRLM3-es FILA EXOWAVE Race WMN Zapatillas para Correr Mujer Blanco...'
 sku: 'B096XWRLM3-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','fila','🇪🇸', ]
-actualPrice: 33.04 EUR
+actualPrice: 31.68 EUR
 currency: EUR
-price: 33.04
+price: 31.68
 comparePrice: 80.0 EUR
 prodname: 'FILA EXOWAVE Race WMN  Zapatillas para Correr Mujer  Blanco  Verde neón  Negro  41 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B096XWRLM3/?tag=tolees-21'
-descuento: '58.70'
-average: '33.365'
+descuento: '60.40'
+average: '32.5475'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Practical cap protects the USB plug
 - Large loop easily attaches to key rings
 - Multiple colour options by capacity
-- Practical cap protects the USB plug
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
