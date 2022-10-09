@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy A12 - Smartphone 64GB  4GB RAM  Dual Sim  Blue'
-date: 2022-10-08 08:12:15
+date: 2022-10-09 10:01:44
 image: 'https://m.media-amazon.com/images/I/51waLiwB6XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B08Q8L3LZW/?tag=tolees-21'
 descuento: '41.06'
-average: '204.92'
+average: '204.261111111111'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

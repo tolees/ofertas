@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Scandaleyes Reloaded Máscara de Pestañas Tono 001 Black - 12 ml'
-date: 2022-09-30 14:00:01
+date: 2022-10-09 12:01:11
 image: 'https://m.media-amazon.com/images/I/31TMQt3AmwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rimmel London'
 buyurl: 'https://www.amazon.es/dp/B01J1A1KNK/?tag=tolees-21'
 descuento: '57.35'
-average: '3.74250000000001'
+average: '3.75484848484849'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Captura todas las pestañas para dar un volumen escandaloso
 - Hasta 24 horas de impacto
 - Volumen instantáneo y duración extrema
-- Captura todas las pestañas para dar un volumen escandaloso
 - Fácil de desmaquillar con agua templada
 - Nuevo cepillo cónico para dar máxima densidad a tus pestañas
 
