@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Ante
 - Revestimiento: Sintético
+- Material exterior: Ante
 
 [🛒 Aquí!!!]({{< param buyurl >}})

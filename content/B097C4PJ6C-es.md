@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Entresuela de IMEVA
-- Exterior de licra y malla con revestimientos de ante y material sintético
 - IMEVA: El material de PUMA para una sensación cómoda y ligera
+- Exterior de licra y malla con revestimientos de ante y material sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

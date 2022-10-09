@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo elegante
 - Suela de plástico
-- Plantilla agradable
 - Calzado clásico
+- Logotipo elegante
+- Plantilla agradable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

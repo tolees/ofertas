@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pata Negra Reserva - Vino Tinto D.O Rioja - Caja de 3 Botellas x 750 ml'
-date: 2022-10-07 11:12:26
+date: 2022-10-09 18:01:52
 image: 'https://m.media-amazon.com/images/I/41fJ3VY0q+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pata Negra'
 buyurl: 'https://www.amazon.es/dp/B00M6ON2ZI/?tag=tolees-21'
 descuento: '37.78'
-average: '17.3988888888889'
+average: '17.339'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gusto: En boca se ofrece armonioso, pleno y elegante, mostrando una óptima simbiosis entre el vino y el roble. Magnífica persistencia y largura, mostrando un tanino pulido.
-- Apariencia: Vino tinto de color granate profundo, cubierto y sin atisbos de evolución. Brillante y limpio.
 - Consumo: Para disfrutar de este vino recomendamos servirlo entre 16ºC y 18ºC.
 - Tipo de uva: Elaborado a partir de uvas Tempranillo, Graciano y Mazuelo. Es un vino fermentado en tanques de acero inoxidable que madura en barricas de roble americano y francés durante 27 meses.
+- Apariencia: Vino tinto de color granate profundo, cubierto y sin atisbos de evolución. Brillante y limpio.
+- Gusto: En boca se ofrece armonioso, pleno y elegante, mostrando una óptima simbiosis entre el vino y el roble. Magnífica persistencia y largura, mostrando un tanino pulido.
 - Maridaje: Óptimo para acompañar embutidos de caza o pinchos morunos.
 - Aroma: Presenta un perfil aromático con limpio y balsámico, con tonos especiados, a tabaco y frutos rojos maduros.
 
