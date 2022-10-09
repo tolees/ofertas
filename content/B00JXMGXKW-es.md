@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ghd Tail Comb Carbon Anti Static Peine - 100 gr'
-date: 2022-09-30 23:06:55
+date: 2022-10-09 01:48:45
 image: 'https://m.media-amazon.com/images/I/21yEZDuAz9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
