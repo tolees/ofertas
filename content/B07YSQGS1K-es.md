@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste regular
-- Suela duradera
 - Parte superior de gran calidad y comodidad
+- Suela duradera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuatro colores diferentes
-- Cuatro luces LED brillantes
-- Diámetro 16 x 10 cm (largo x alto)
-- Se puede utilizar dentro y fuera del agua
 - Siete diseños diferentes
 - Carcasa de acrílico impermeable
-- Diferentes efectos
+- Cuatro colores diferentes
+- Cuatro luces LED brillantes
 - Funciona con tres pilas AA (no incluidas)
+- Se puede utilizar dentro y fuera del agua
+- Diámetro 16 x 10 cm (largo x alto)
+- Diferentes efectos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

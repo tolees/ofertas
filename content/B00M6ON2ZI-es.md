@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Consumo: Para disfrutar de este vino recomendamos servirlo entre 16ºC y 18ºC.
-- Tipo de uva: Elaborado a partir de uvas Tempranillo, Graciano y Mazuelo. Es un vino fermentado en tanques de acero inoxidable que madura en barricas de roble americano y francés durante 27 meses.
-- Apariencia: Vino tinto de color granate profundo, cubierto y sin atisbos de evolución. Brillante y limpio.
 - Gusto: En boca se ofrece armonioso, pleno y elegante, mostrando una óptima simbiosis entre el vino y el roble. Magnífica persistencia y largura, mostrando un tanino pulido.
 - Maridaje: Óptimo para acompañar embutidos de caza o pinchos morunos.
+- Consumo: Para disfrutar de este vino recomendamos servirlo entre 16ºC y 18ºC.
+- Tipo de uva: Elaborado a partir de uvas Tempranillo, Graciano y Mazuelo. Es un vino fermentado en tanques de acero inoxidable que madura en barricas de roble americano y francés durante 27 meses.
 - Aroma: Presenta un perfil aromático con limpio y balsámico, con tonos especiados, a tabaco y frutos rojos maduros.
+- Apariencia: Vino tinto de color granate profundo, cubierto y sin atisbos de evolución. Brillante y limpio.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
