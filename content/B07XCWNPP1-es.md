@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GUESS Pendientes Pendientes UBE29029 UBE29029 Marca'
-date: 2022-10-02 23:54:28
+date: 2022-10-10 11:58:07
 image: 'https://m.media-amazon.com/images/I/41xrZor0+vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
