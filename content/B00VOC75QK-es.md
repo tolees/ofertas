@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 0
 - Bolsillo
 - Nike
-- 0
 - Black/Black/(White)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
