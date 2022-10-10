@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Classic BB Cap Gorra  Azul  Midnight 403   Talla Única para Hombre'
-date: 2022-10-08 11:52:49
+date: 2022-10-10 10:37:47
 image: 'https://m.media-amazon.com/images/I/31SfNrCA+DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B016QM6O9G/?tag=tolees-21'
 descuento: '39.97'
-average: '20.3284684684685'
+average: '20.3340178571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samyang DSLR - Objetivo fotográfico para MFT  Micro4/3   20 mm  F1.8 ED  AS UMC   Negro'
-date: 2022-09-30 11:27:23
+date: 2022-10-10 10:03:41
 image: 'https://m.media-amazon.com/images/I/51oj5aMI4aS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Enfoque manual
-- Con revestimiento UMC anti-reflectante
 - Angular para cámaras réflex digitales y compactas sin espejo con sensor APS-C
+- Enfoque manual
 - Incluye parasol extraíble
+- Con revestimiento UMC anti-reflectante
 - para MFT (Micro 4/3)
 - Objetivo fotográfico
 

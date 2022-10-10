@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Light Crew 3PP Calcetines  Unisex Adulto  Medium Grey Heather/White/Black  M'
-date: 2022-10-07 19:56:17
+date: 2022-10-10 09:37:31
 image: 'https://m.media-amazon.com/images/I/41oQVNR8oQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07SCMV6NB/?tag=tolees-21'
 descuento: '41.92'
-average: '9.00333333333333'
+average: '8.858'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Targeted cushioning
 - Pack of three pairs
 - Soft fabric
-- Targeted cushioning
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
