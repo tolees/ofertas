@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Allocacoc - POWERCUBE ORIGINAL USB'
-date: 2022-10-08 08:20:45
+date: 2022-10-10 07:50:29
 image: 'https://m.media-amazon.com/images/I/31D7x52gSeS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Allocacoc'
 buyurl: 'https://www.amazon.es/dp/B00FF8MKA0/?tag=tolees-21'
 descuento: '37.28'
-average: '13.7556521739131'
+average: '13.7819148936171'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

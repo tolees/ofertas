@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los mejores productos para el cuidado de tu mascota.
-- Zotal 1/2litro
 - Calidad y precio nunca antes tan irresistibles.
+- Zotal 1/2litro
+- Los mejores productos para el cuidado de tu mascota.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
