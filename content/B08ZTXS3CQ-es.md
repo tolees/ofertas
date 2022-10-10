@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Atlus Shin Megami Tensei 3'
-date: 2022-10-08 17:13:56
+date: 2022-10-10 05:36:08
 image: 'https://m.media-amazon.com/images/I/41cnE9qNDPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Atlus'
 buyurl: 'https://www.amazon.es/dp/B08ZTXS3CQ/?tag=tolees-21'
 descuento: '40.01'
-average: '35.5627777777777'
+average: '35.2694736842105'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Guardado en suspensión: ¡guarda cuando quieras
-- Ahora con selección de voz: elige entre voces en japonés o inglés
 - Este icónico e inclemente RPG está de vuelta, y ahora incluye: Modelos 3D y fondos remasterizados, nuevos niveles de dificultad adaptados a toda clase de jugadores
+- Ahora con selección de voz: elige entre voces en japonés o inglés
+- Guardado en suspensión: ¡guarda cuando quieras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
