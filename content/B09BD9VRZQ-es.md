@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha con sistema de regulación de última generación
 - Tela otomana de poliéster totalmente impresa
 - Chaqueta anorak impermeable
+- Capucha con sistema de regulación de última generación
 - Tipo de tejido: knit
 
 [🛒 Comprar!!!]({{< param buyurl >}})

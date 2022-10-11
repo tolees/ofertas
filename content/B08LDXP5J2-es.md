@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Harry Potter bendy figs
 - Official licesnsed product
-- Figures approx. 19cm tall
+- Harry Potter bendy figs
 - Created by the Noble Collection
 - More figures to collect
+- Figures approx. 19cm tall
 
 [🛒 Visítala!!!]({{< param buyurl >}})
