@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Advantage  Zapatillas Hombre  Blanco  42 2/3 EU'
-date: 2022-10-01 10:48:51
+date: 2022-10-11 14:01:14
 image: 'https://m.media-amazon.com/images/I/31ZlhqyP8xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08BX1XMQQ/?tag=tolees-21'
 descuento: '43.64'
-average: '42.765'
+average: '42.6'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela de goma
-- Forro textil
 - Parte superior sintética
+- Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

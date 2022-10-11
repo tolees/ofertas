@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Allocacoc - POWERCUBE ORIGINAL USB'
-date: 2022-10-10 07:50:29
+date: 2022-10-11 13:13:40
 image: 'https://m.media-amazon.com/images/I/31D7x52gSeS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Allocacoc'
 buyurl: 'https://www.amazon.es/dp/B00FF8MKA0/?tag=tolees-21'
 descuento: '37.28'
-average: '13.7819148936171'
+average: '13.8070833333334'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño compacto, enchufes con toma tierra y protección infantil
+- Adaptador de viaje y regleta de 4 salidas y 2 puertos USBCarga máxima: 3500 W (16 A)Diseño compacto, enchufes con toma tierra y protección infantil
 - Adaptador de viaje y regleta de 4 salidas y 2 puertos USB
 - Carga máxima 3500 W (16A)
-- Adaptador de viaje y regleta de 4 salidas y 2 puertos USBCarga máxima: 3500 W (16 A)Diseño compacto, enchufes con toma tierra y protección infantil
+- Diseño compacto, enchufes con toma tierra y protección infantil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
