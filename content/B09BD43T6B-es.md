@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Kaira - Auriculares para juegos para Xbox Series X|S + Xbox One + PC  Blanco'
-date: 2022-10-09 13:35:29
+date: 2022-10-11 07:33:46
 image: 'https://m.media-amazon.com/images/I/31BWzm6gpYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Razer'
 buyurl: 'https://www.amazon.es/dp/B09BD43T6B/?tag=tolees-21'
 descuento: '52.99'
-average: '36.426'
+average: '35.8383333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
