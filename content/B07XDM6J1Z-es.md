@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo canguro
-- Ajuste regular
-- Capucha con cordón ajustable
 - Puños y dobladillo de canalé
+- Capucha con cordón ajustable
+- Ajuste regular
+- Bolsillo canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ajuste interior de contraste
 - Bolsillo trasero con marca
 - Bolsillos laterales, bolsillos traseros de botón jet
-- Ajuste interior de contraste
 
 [🛒 Visítala!!!]({{< param buyurl >}})
