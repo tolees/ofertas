@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Algodón orgánico
 - Pantalones vaqueros sostenibles
+- Algodón orgánico
 - elástico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
