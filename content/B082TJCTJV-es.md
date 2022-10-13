@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Chaymon 0120 1 CMA  Zapatillas Hombre  Nvy/Blk  39.5 EU'
-date: 2022-10-03 20:45:53
+date: 2022-10-13 20:57:14
 image: 'https://m.media-amazon.com/images/I/41Fkn5zvW3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de la suela: goma
 - Forro: sintético
+- Material de la suela: goma
 - Parte superior: piel flexible
 - Ancho del zapato: medio
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G203 LIGHTSYNC Ratón Gaming con Iluminación RGB Personalizable  6 Botones Programables  Captor 8K para Gaming  Seguimiento de hasta 8 000 DPI  Ultra-ligero - Negro'
-date: 2022-10-12 17:38:49
+date: 2022-10-13 19:36:59
 image: 'https://m.media-amazon.com/images/I/41zEY42v1tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONFIGURACIÓN PERSONALIZABLE: Compatible con el software de juego Logitech G HUB con el que podrás personalizar tu configuración. Elige entre 200 y 8000 DPI para una precisión y agilidad jamás vistas
-- LIGHTSYNC RGB: Gracias a sus 16,8 millones de colores, tendrás el arco iris al alcance de la mano. Combina patrones y juega con efectos ópticos que se adaptan a todos tus estados de ánimo
-- RESISTENCIA MECÁNICA DEL RESORTE DEL BOTÓN: Los botones mecánicos se apoyan en resortes metálicos de lo más resistentes. Los clics son muy precisos y te ofrecen retroalimentación para adaptarse a ti
-- La marca de accesorios para gaming más vendida del mundo: Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming en unidades
-- SENSOR PARA GAMERS: Seguimiento ultrapreciso gracias al sensor de 8000 DPI. Alterna entre los 5 perfiles de configuración, así como el mapeo de pantalla con el G HUB, para un rendimiento más estable
-- DISEÑO PARA GAMERS: Su sencillo diseño de 6 botones ofrece una experiencia de juego única. Cómodo y resistente, facilita un control total. Además, permite programar tareas con botones configurables
+- World’s NO.1 Best Selling Gaming Gear Brand: Based on independent aggregated sales data (FEB ‘19 - FEB’20) of Gaming Keyboard, Mice, & PC Headset in units
+- Classic, gamer-tested design: Play comfortably and with total control. The simple 6-button layout and classic gaming shape form a comfortable, time-tested and loved design
+- Mechanical spring button tensioning: Primary buttons are mechanical and tensioned with durable metal springs for reliability, performance and an excellent feel
+- 8,000 DPI gaming-grade sensor responds precisely to movements: Customise your sensitivity settings to suit the sensitivity you like with Logitech G HUB gaming software and cycle easily through up to 5 DPI settings.
+- Colourful LIGHTSYNC RGB: Play in colour with our most vibrant LIGHTSYNC RGB featuring colour wave effects that are customisable across ~16.8 million colours
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

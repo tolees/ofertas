@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Dri-Fit Wrap Gorra Black/Silver One Size'
-date: 2022-10-12 20:23:46
+date: 2022-10-13 20:50:11
 image: 'https://m.media-amazon.com/images/I/41KzzrUrEWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gran accesorio para tus salidas
-- Sensación suave
 - La mejor calidad
+- Sensación suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
