@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Cali Sport Wn s  Zapatillas  Mujer  Blanco  Puma White/Puma White   36 EU'
-date: 2022-10-01 14:03:41
+date: 2022-10-13 10:10:00
 image: 'https://m.media-amazon.com/images/I/319B2s5-fEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B081QN1QTV/?tag=tolees-21'
 descuento: '55.03'
-average: '44.6666666666667'
+average: '44.7375'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de piel
 - Entresuela y suela de goma
+- Empeine de piel
 - Corte específico para mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
