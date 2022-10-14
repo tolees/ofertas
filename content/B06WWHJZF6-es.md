@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda N300 A9 Repetidor WiFi  Extensor de Red  Inalámbrico Ampliardor 300 Mbps  2 Antenas Externas  WPS Botón  Play y Plug  Indicador LED de Señal  Fácil Configuración  Compatible con Módem y Router'
-date: 2022-10-10 11:20:26
+date: 2022-10-14 10:02:09
 image: 'https://m.media-amazon.com/images/I/41JlmSU8UtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tenda'
 buyurl: 'https://www.amazon.es/dp/B06WWHJZF6/?tag=tolees-21'
 descuento: '35.31'
-average: '11.3428497409332'
+average: '11.3392307692313'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- AMPLIA COMPATIBILIDAD: Compatible con el 99% de los routers en el mercado. Idóneo para casas grandes, oficinas y pequeños negocios
+- COBERTURA SIN FISURAS: Reconexión automática a la señal Wi-Fi más intensa
 - 2 ANTENAS OMINIDIRECCIONALES: Las dos antenas externas de 3dBi proporcionan una buena intensidad en la señal Wi-Fi, más estable y más rápida
 - CONFIGURACIÓN RÁPIDA Y SENCILLA: Botón WPS, configuración rápida en 3 pasos mediante smartphone o tablet. Admite SSID oculto
-- AMPLIA COMPATIBILIDAD: Compatible con el 99% de los routers en el mercado. Idóneo para casas grandes, oficinas y pequeños negocios
 - Compatible con los routers inalámbricos estándar 802.11n de las principales marcas y el módem WiFi DSL
-- COBERTURA SIN FISURAS: Reconexión automática a la señal Wi-Fi más intensa
 - PORTÁTIL Y CÓMODO: Con un diseño simple y elegante, este repetidor es ligero, compacto y portátil. El LED indicador te ayuda a encontrar la ubicación para el dispositivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
