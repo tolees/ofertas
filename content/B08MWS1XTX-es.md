@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La amortiguación de la entresuela Fresh Foam está diseñada con precisión para ofrecer un paseo ultra acolchado y ligero
 - Parte superior de malla diseñada que permite transpirabilidad
 - New Balance Tenis para correr en carretera
+- La amortiguación de la entresuela Fresh Foam está diseñada con precisión para ofrecer un paseo ultra acolchado y ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

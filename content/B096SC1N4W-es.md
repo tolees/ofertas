@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalón de hombre New Classic slim fit en algodón stretch
+- Slim fit
 - Dos bolsillos italianos y un bolsillo delantero pequeño, dos bolsillos ribeteados en la parte trasera
 - Gabardina de algodón stretch ecológico
+- Pantalón de hombre New Classic slim fit en algodón stretch
 - Cierre frontal con cremallera y botón y trabillas
-- Slim fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})

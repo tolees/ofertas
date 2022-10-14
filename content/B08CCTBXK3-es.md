@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para turnarse entre Djs; Charge Essetial permite que se conecten de forma inlámbrica hasta dos smartphones o tabletas. Con diseño robusto y resistente para que sobreviva a cualquier fiesta
-- Que el ritmo no pare: disfruta hasta 20 horas seguidas de tu música favorita sin descanso y percibe sus graves alto y claro. Nitidez de sonido gracias a los radiadores pasivos duales de graves
+- El sol, la playa y tus altavoces impermeables: pásalo genial en la piscina o mientras te duchas, este altavoz resistente al agua IPX7 te lo hace todo mucho más fácil, mojarlo ya no es problema
 - Para que no te falte de nada, JBL Charge Essential viene con un banco de alimentación y un práctico puerto USB integrado que te permite cargar y poner en marcha todos tus diapositivos
 - Contenido del envío: 1x JBL Altavoz Charge Essential Portátil con Bluetooth resistente al agua IPX7, cable micro USB, hoja de seguridad, guía de inicio, color negro
-- El sol, la playa y tus altavoces impermeables: pásalo genial en la piscina o mientras te duchas, este altavoz resistente al agua IPX7 te lo hace todo mucho más fácil, mojarlo ya no es problema
+- Para turnarse entre Djs; Charge Essetial permite que se conecten de forma inlámbrica hasta dos smartphones o tabletas. Con diseño robusto y resistente para que sobreviva a cualquier fiesta
+- Que el ritmo no pare: disfruta hasta 20 horas seguidas de tu música favorita sin descanso y percibe sus graves alto y claro. Nitidez de sonido gracias a los radiadores pasivos duales de graves
 
 [🛒 Aquí!!!]({{< param buyurl >}})
