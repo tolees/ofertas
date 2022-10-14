@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Adilette Sandal  Slide Unisex Adulto  Core Black/Grey/Core Black  38 EU'
-date: 2022-10-03 23:35:35
+date: 2022-10-14 21:49:27
 image: 'https://m.media-amazon.com/images/I/31YOVOjHFyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre de velcro
-- Correas de nubuck sintético
 - Ajuste regulable
+- Correas de nubuck sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

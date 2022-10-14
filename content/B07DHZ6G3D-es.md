@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de tacón: Plano
+- Cierre: Cordones
+- Anchura del zapato: Normal
 - Material de la suela: Sintético
 - Tipo de talla: Los zapatos Geox son holgados
-- Altura del tacón: 3 centímetros
-- Cierre: Cordones
 - Revestimiento: Malla
-- Anchura del zapato: Normal
-- Material exterior: Cuero
 - Composición: Cuero
+- Tipo de tacón: Plano
+- Material exterior: Cuero
+- Altura del tacón: 3 centímetros
 
 [🛒 Aquí!!!]({{< param buyurl >}})

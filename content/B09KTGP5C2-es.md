@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Take Two Interactive Spain - Grand Theft Auto: The Trilogy – The Definitive Edition  PlayStation 4'
-date: 2022-10-13 16:04:52
+date: 2022-10-14 20:32:37
 image: 'https://m.media-amazon.com/images/I/51fCngrI6TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09KTGP5C2-es Take Two Interactive Spain - Grand Theft Auto: The Trilogy...'
 sku: 'B09KTGP5C2-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','take two interactive spain','🇪🇸', ]
-actualPrice: 18.99 EUR
+actualPrice: 32.65 EUR
 currency: EUR
-price: 18.99
+price: 32.65
 comparePrice: 59.9 EUR
 prodname: 'Take Two Interactive Spain - Grand Theft Auto: The Trilogy – The Definitive Edition  PlayStation 4'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Take Two Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B09KTGP5C2/?tag=tolees-21'
-descuento: '68.30'
-average: '32.85'
+descuento: '45.49'
+average: '32.8431034482759'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
