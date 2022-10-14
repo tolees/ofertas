@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BODEGA CUATRO RAYAS - Pampano. Vino Blanco Semi Dulce D.O. Rueda - 6 Botellas de 750 ml'
-date: 2022-10-12 06:55:03
+date: 2022-10-14 15:44:17
 image: 'https://m.media-amazon.com/images/I/51uEvVrLchL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gusto: En boca es untuoso y redondo con un final dulce y goloso.
 - Apariencia: Color amarillo pajizo verdoso, limpio y brillante.
-- Denominación de Origen Rueda.
+- Gusto: En boca es untuoso y redondo con un final dulce y goloso.
 - Aroma: En nariz es intenso y amplio, con notas cítricas.
 - Maridaje: aperitivos, postres, pastas, pescados, mariscos y foie.
+- Denominación de Origen Rueda.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
