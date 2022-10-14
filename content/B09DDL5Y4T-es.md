@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Calidad óptima para los requisitos del cliente
-- Diseño creativo
-- Creado para un uso prolongado
 - Producto por tu tiempo libre
+- Calidad óptima para los requisitos del cliente
+- Creado para un uso prolongado
+- Diseño creativo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
