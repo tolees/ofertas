@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- light blue washing and destoyed parts
 - skinny jeans with regular waist
+- light blue washing and destoyed parts
 
 [🛒 Visítala!!!]({{< param buyurl >}})

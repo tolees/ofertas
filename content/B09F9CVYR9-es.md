@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Libre de mercurio y de conformidad con RoHS
 - Vida útil: hasta 30.000 h
-- Alternativa LED para tubos fluorescentes T9 clásicas en luminarias ECC
 - Iluminación uniforme
 - Reemplazo rápido, simple y seguro sin recablear
+- Alternativa LED para tubos fluorescentes T9 clásicas en luminarias ECC
 
 [🛒 Comprar!!!]({{< param buyurl >}})
