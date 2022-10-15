@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OGADA 13W Bombillas LED  casquillo E27 Luz Blanca Cálida 3000K  1200 Lúmen  13W para Reemplazar 100W Incandescente  No regulable  Pack de 6'
-date: 2022-10-10 08:55:07
+date: 2022-10-15 13:20:40
 image: 'https://m.media-amazon.com/images/I/415Iu51xpKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fuente de alimentación: AC
-- Amplia aplicación: aplicable para interiores como cocinas, comedores, salones, tiendas, bares, mercados abiertos u otras bombillas cerradas.
+- Las luces LED eficientes y duraderas ahorran hasta un 90 % de energía y duran más que las lámparas halógenas o incandescentes.
 - La esfera mate le da un diseño limpio y moderno. Bombilla LED estándar casquillo E27.
 - La alta reproducción cromática (CRI > 80) proporciona un color vivo y natural con una reproducción cromática perfecta y sin parpadeo
-- Con una temperatura de color de 3000 Kelvin, proporciona una luz blanca cálida clara e intensa similar a las bombillas halógenas o incandescentes.
+- Amplia aplicación: aplicable para interiores como cocinas, comedores, salones, tiendas, bares, mercados abiertos u otras bombillas cerradas.
 - Eficiencia energética: F
-- Las luces LED eficientes y duraderas ahorran hasta un 90 % de energía y duran más que las lámparas halógenas o incandescentes.
+- Con una temperatura de color de 3000 Kelvin, proporciona una luz blanca cálida clara e intensa similar a las bombillas halógenas o incandescentes.
+- Fuente de alimentación: AC
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
