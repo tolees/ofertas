@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Max Factor Colour Elixir Lipliner Universal Perfilador de Labios Tono Universal - 6 gr'
-date: 2022-09-30 09:55:02
-image: 'https://m.media-amazon.com/images/I/21XPC3aaPRL._SL500_._SL400_.jpg'
+date: 2022-10-15 11:05:35
+image: 'https://m.media-amazon.com/images/I/21IVRolP6FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Max Factor'
 buyurl: 'https://www.amazon.es/dp/B01NCZ79JT/?tag=tolees-21'
 descuento: '47.89'
-average: '5.20666666666667'
+average: '5.0775'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula invisible con acondicionadores que hidratan
-- Perfilador de labios universal para definir tus labios
-- Lápiz fácil de aplicar
 - Se puede combinar con cualquier color de labial
+- Fórmula invisible con acondicionadores que hidratan
+- Lápiz fácil de aplicar
 - Mantiene el color de los labios en su lugar
+- Perfilador de labios universal para definir tus labios
 
 [🛒 Comprar!!!]({{< param buyurl >}})

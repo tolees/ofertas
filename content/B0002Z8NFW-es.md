@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Essie #384 - Esmalte de uñas  color mademoiselle  13 5 ml'
-date: 2022-10-03 13:30:31
+date: 2022-10-15 10:23:00
 image: 'https://m.media-amazon.com/images/I/31SswHu34rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'essie'
 buyurl: 'https://www.amazon.es/dp/B0002Z8NFW/?tag=tolees-21'
 descuento: '71.36'
-average: '3.55'
+average: '3.56'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Resistente
-- Larga duracion
 - Suave con las uñas
+- Larga duracion
 
 [🛒 Aquí!!!]({{< param buyurl >}})
