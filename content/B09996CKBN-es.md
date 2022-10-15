@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sandalias Cómodas y a la moda
 - Sandalia de piel
 - Temporada Primavera- Verano
+- Sandalias Cómodas y a la moda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
