@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko FUN5594 The Walking Dead 5594 "Vinyl Idolz Michonne Figure'
-date: 2022-10-09 21:00:48
+date: 2022-10-15 19:54:35
 image: 'https://m.media-amazon.com/images/I/414+QpD0+2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'The Walking Dead'
 buyurl: 'https://www.amazon.es/dp/B00VXLPZU0/?tag=tolees-21'
 descuento: '41.66'
-average: '20.49'
+average: '20.19'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para los fans de The Walking Dead
-- Figura perteneciente a la licencia de The Walking Dead
 - Producto oficial de The Walking Dead
+- Figura perteneciente a la licencia de The Walking Dead
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

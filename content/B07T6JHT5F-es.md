@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Nike Air MAX Excee U  Zapatillas Hombre  Black White Dark Grey  42 EU'
-date: 2022-10-10 12:15:46
-image: 'https://m.media-amazon.com/images/I/41ufEJdG86L._SL500_._SL400_.jpg'
+date: 2022-10-15 19:27:38
+image: 'https://m.media-amazon.com/images/I/41HIRmk74vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -12,14 +12,14 @@ tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hom
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97
-comparePrice: 120.0 EUR
+comparePrice: 109.99 EUR
 prodname: 'Nike Air MAX Excee U  Zapatillas Hombre  Black White Dark Grey  42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07T6JHT5F/?tag=tolees-21'
-descuento: '50.03'
-average: '66.8814285714285'
+descuento: '45.48'
+average: '66.0174999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
