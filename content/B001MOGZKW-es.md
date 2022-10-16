@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nuxe - Aceite seco multifuncion  rostro  cuerpo  cabello   100 ml'
-date: 2022-10-14 13:00:43
+date: 2022-10-15 23:29:35
 image: 'https://m.media-amazon.com/images/I/41aB4ZIbSAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Productos de belleza y cuidado personal
 - Peso / Volumen: 100 ml
 - Tipo de producto: Crema antiarrugas -Genero: Unisex
-- Productos de belleza y cuidado personal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

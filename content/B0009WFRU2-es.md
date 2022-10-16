@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun Multiquick 3 MPZ9 Exprimidor Eléctrico  Blanco y Transparente'
-date: 2022-10-14 20:40:10
+date: 2022-10-15 23:34:48
 image: 'https://m.media-amazon.com/images/I/41E-TAS-fRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Braun'
 buyurl: 'https://www.amazon.es/dp/B0009WFRU2/?tag=tolees-21'
 descuento: '54.15'
-average: '18.4966666666667'
+average: '18.4085714285715'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

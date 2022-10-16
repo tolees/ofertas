@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Max Factor Colour Elixir Honey Lacquer Gloss Brillo de Labios Tono 05 Nude - 28 gr'
-date: 2022-10-14 22:10:05
+date: 2022-10-15 23:31:39
 image: 'https://m.media-amazon.com/images/I/21jLwmlffdS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Max Factor'
 buyurl: 'https://www.amazon.es/dp/B073FWQRYK/?tag=tolees-21'
 descuento: '40.91'
-average: '5.18857142857143'
+average: '5.3525'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con acabado de alto brillo y ilusión de plenitud
-- Suave como un bálsamo labial
 - Disponible en varios colores
 - Color de un lápiz labial
+- Suave como un bálsamo labial
 
 [🛒 Aquí!!!]({{< param buyurl >}})

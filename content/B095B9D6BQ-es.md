@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Professionnel | Champú reparador e iluminador para pelo con mechas o rubio  Blondifier Gloss  SERIE EXPERT  500ml'
-date: 2022-10-14 20:35:56
+date: 2022-10-15 23:16:58
 image: 'https://m.media-amazon.com/images/I/319PnGdrICL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LOréal Professionnel'
 buyurl: 'https://www.amazon.es/dp/B095B9D6BQ/?tag=tolees-21'
 descuento: '36.38'
-average: '12.7166666666667'
+average: '13.975'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
