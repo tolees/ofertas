@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CASIO Digital GA-900SKE-8AER'
-date: 2022-10-07 23:31:48
+date: 2022-10-16 04:32:18
 image: 'https://m.media-amazon.com/images/I/51W8n-H+vaS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 12 milimetros calendario fecha, día y mes Hebilla
 - CASIO Modelo Reloj GA-900SKE-8AER
 - Digital para Unisex adulto
+- 12 milimetros calendario fecha, día y mes Hebilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
