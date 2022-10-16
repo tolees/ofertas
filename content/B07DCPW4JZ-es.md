@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adolfo Dominguez  Crema corporal - 500 ml.'
-date: 2022-10-01 05:36:22
+date: 2022-10-16 02:30:55
 image: 'https://m.media-amazon.com/images/I/21GO4nfdDZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Locion corporal ADOLFO DOMINGUEZ
-- ADOLFO DOMINGUEZ AGUA FRESCA DE AZAHAR LECHE 500ML (8410190621329)
 - Locion corporal Cuidado personal Mujer
+- ADOLFO DOMINGUEZ AGUA FRESCA DE AZAHAR LECHE 500ML (8410190621329)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
