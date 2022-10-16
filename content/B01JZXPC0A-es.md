@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pocket POP! Keychain - Naruto Shippuden: Naruto'
-date: 2022-10-15 13:29:33
+date: 2022-10-16 14:52:18
 image: 'https://m.media-amazon.com/images/I/31OuCjBjh+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B01JZXPC0A/?tag=tolees-21'
 descuento: '49.96'
-average: '10.4595454545454'
+average: '10.3091304347826'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material 100% vinilo
 - Viene embalado en una caja con ventanas ilustrada
+- Material 100% vinilo
 - Cada personaje mide alrededor de 5 cm de altura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
