@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Schleich- Figura dinosaurio Giganotosaurus  18 cm.'
-date: 2022-10-15 06:25:39
+date: 2022-10-16 10:00:39
 image: 'https://m.media-amazon.com/images/I/41QEIEQi8eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
