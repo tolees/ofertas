@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones NOS Jfwstellar Mesh Majolica Blue Noos  Zapatillas Hombre  43 EU'
-date: 2022-10-14 09:42:35
+date: 2022-10-16 11:38:24
 image: 'https://m.media-amazon.com/images/I/31T3d3r8pML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'JACK & JONES NOS'
 buyurl: 'https://www.amazon.es/dp/B07ZZN3F33/?tag=tolees-21'
 descuento: '42.02'
-average: '29.1011111111112'
+average: '29.0900000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

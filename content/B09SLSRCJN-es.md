@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Jordan MAX Aura 3  Zapatillas de Gimnasio Hombre  Negro Blanco Antracita  42 EU'
-date: 2022-10-12 16:09:42
+date: 2022-10-16 12:32:18
 image: 'https://m.media-amazon.com/images/I/41Ua0HevPEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B09SLSRCJN/?tag=tolees-21'
 descuento: '50.02'
-average: '79.9566666666667'
+average: '74.96'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Amortiguación
 - Ligereza
 - Zapatillas deportivas inspiradas en el baloncesto
-- Amortiguación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
