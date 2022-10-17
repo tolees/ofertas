@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logo de Tommy Hilfiger bordado en la manga
-- Cinta distintiva en el cuello
 - Logo de Tommy Hilfiger en el pecho
+- Cinta distintiva en el cuello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

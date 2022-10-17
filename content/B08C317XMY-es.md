@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Cambro Lace  Zapatillas Hombre  Nobuck Negro  42 EU'
-date: 2022-10-16 11:15:36
+date: 2022-10-17 12:29:24
 image: 'https://m.media-amazon.com/images/I/31ZfI9KepTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B08C317XMY/?tag=tolees-21'
 descuento: '49.99'
-average: '49.22'
+average: '48.296'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

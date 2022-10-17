@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop Star Wars: Book of Boba Fett- Boba Fett'
-date: 2022-10-16 11:32:55
+date: 2022-10-17 12:29:31
 image: 'https://m.media-amazon.com/images/I/31Xuu86xDlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B095HWPYNB/?tag=tolees-21'
 descuento: '43.33'
-average: '11.0742307692307'
+average: '10.9788888888888'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mira las otras figuras de Funko dedicadas a esta colección
 - POP! vinilo de Funko
-- Colecciónalos todos!
+- Mira las otras figuras de Funko dedicadas a esta colección
 - Funko POP! es el juguete del año 2018 Peoples Choice
+- Colecciónalos todos!
 - La figura mide 9 cm y viene en una caja de exhibición de ventana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

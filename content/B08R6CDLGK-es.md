@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Mens T-Shirt M Nk DF Park20 SS tee Hbr  University Red/White  Cw6936-657  S'
-date: 2022-10-16 11:32:57
+date: 2022-10-17 12:29:04
 image: 'https://m.media-amazon.com/images/I/41uI2ytm0JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tejido transpirable
 - Ajuste regular
-- Tiene detalles distintivos de la marca
 - Tela suave
+- Tiene detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
