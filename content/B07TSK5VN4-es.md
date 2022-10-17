@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Max Factor Lasting Kajal; Delinador de Ojos. Tono 090 - 1.3 gr'
-date: 2022-10-03 20:10:07
+date: 2022-10-17 19:20:07
 image: 'https://m.media-amazon.com/images/I/21wwOi7vjyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Max Factor'
 buyurl: 'https://www.amazon.es/dp/B07TSK5VN4/?tag=tolees-21'
 descuento: '56.46'
-average: '3.56333333333333'
+average: '3.675'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Delineador de larga duración y resistente al agua
 - No mancha, no se mueve y es fácil de difuminar
+- Ofrece un acabado
 - Ofrece una aplicación suave
 - Perfect Stay Waterproof & Long Lasting es un delineador de larga duración
-- Delineador de larga duración y resistente al agua
-- Ofrece un acabado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

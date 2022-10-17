@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJIGORDON JJSHARK Noos Sweatpants AT PS Pantalones Deportivos  Blazer Azul Marino  40 para Hombre'
-date: 2022-10-13 06:26:13
+date: 2022-10-17 19:13:16
 image: 'https://m.media-amazon.com/images/I/31J+N3Q6uqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Navy Blazer
+- Plus size sweatpants with ribbed cuffs
+- Elasticated waistband with drawstring
+- Cotton fabric for a soft and comfortable wear
+- Logo print at side pocket
 
 [🛒 Visítala!!!]({{< param buyurl >}})
