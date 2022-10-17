@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance M680V7  Zapatillas para Correr de Carretera Hombre  Black  42 EU'
-date: 2022-10-15 18:23:31
+date: 2022-10-17 16:33:41
 image: 'https://m.media-amazon.com/images/I/413+j2Cb2TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B08MWT4V2R/?tag=tolees-21'
 descuento: '50.00'
-average: '59.98'
+average: '56.235'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
