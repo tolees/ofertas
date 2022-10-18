@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse - Mandriles Conversar CT Hola 1U646 Blanco Mono Weiss  Größe Schuhe Damen:EUR 40'
-date: 2022-10-07 17:01:30
+date: 2022-10-18 06:26:09
 image: 'https://m.media-amazon.com/images/I/41AavtHQQ0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para muje
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0
-comparePrice: 70.0 EUR
+comparePrice: 75.0 EUR
 prodname: 'Converse - Mandriles Conversar CT Hola 1U646 Blanco Mono Weiss  Größe Schuhe Damen:EUR 40'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B001ID6LR4/?tag=tolees-21'
-descuento: '35.71'
-average: '48.95'
+descuento: '40.00'
+average: '47.6333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suela de caucho vulcanizado
 - La tapa de goma del dedo del pie
 - Parche con la estrella
-- Suela de caucho vulcanizado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

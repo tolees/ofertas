@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'SanDisk Unidad flash ultra de 128 GB Dual Drive m3.0 con conector doble para dispositivos móviles de hasta 130 MB/s'
-date: 2022-10-11 13:03:02
+title: 'SanDisk Unidad flash ultra de 128 GB Dual Drive m3.0 con conector doble para dispositivos móviles de hasta 150 MB/s'
+date: 2022-10-18 06:33:55
 image: 'https://m.media-amazon.com/images/I/41sAt4BZydL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01M0QR22B-es SanDisk Unidad flash ultra de 128 GB Dual Drive m3.0 con...'
 sku: 'B01M0QR22B-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Memorias USB','sandisk','🇪🇸', ]
-actualPrice: 12.53 EUR
+actualPrice: 16.9 EUR
 currency: EUR
-price: 12.53
+price: 16.9
 comparePrice: 31.99 EUR
-prodname: 'SanDisk Unidad flash ultra de 128 GB Dual Drive m3.0 con conector doble para dispositivos móviles de hasta 130 MB/s'
+prodname: 'SanDisk Unidad flash ultra de 128 GB Dual Drive m3.0 con conector doble para dispositivos móviles de hasta 150 MB/s'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B01M0QR22B/?tag=tolees-21'
-descuento: '60.83'
-average: '14.9607812499996'
+descuento: '47.17'
+average: '14.975813953488'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,14 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- A retractable design with dual micro-USB and USB 3.0 connections
-- High-speed USB 3.0 performance with file transfers of up to 130MB/s from stick to computer
-- Lapplication SanDisk Memory Zone (available on Google Play) allows you to easily manage your photos and videos
-- Windows 7, Windows 8, Windows 10, Mac OS X v10.9+ and above
-- Back up your photos, videos, and contacts
-- Note: This is not C-TYPE. Free up space on your Android OTG phone
-- Back up your photos, videos, and contacts
-- Password-protects and encrypts private files with SanDisk SecureAccess software
-- Automatically detected when connected to an OTG enabled smartphone or tablet. Requires an Android smartphone or tablet with On-The-Go (OTG) compatibility.
+- Libera espacio en tu teléfono Android con OTG
+- Haz copias de seguridad de las fotografías, vídeos y contactos
+- Diseño retráctil con conectores dobles micro USB y USB 3.44
+- La aplicación SanDisk Memory Zone (disponible en Google Play) te permite gestionar tus fotografías y vídeos fácilmente
+- Rendimiento USB 3.0 de alta velocidad con hasta 150 MB/s para transferir archivos de la memoria al ordenador
 
 [🛒 Visítala!!!]({{< param buyurl >}})

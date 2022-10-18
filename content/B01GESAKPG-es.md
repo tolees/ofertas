@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse Chuck Taylor CT As SP Hi  Zapatillas Unisex Adulto  Blanco White Monochrome 137  53 EU'
-date: 2022-10-07 17:15:36
+date: 2022-10-18 07:05:59
 image: 'https://m.media-amazon.com/images/I/31m-9F74XML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
