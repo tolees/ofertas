@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DeWalt DWE6423-QS - Lijadora Rotorbital 280W-Ø125mm-12.000 Opm Electrónica  280 W  230 V  Negro  Amarillo'
-date: 2022-10-15 10:33:30
+date: 2022-10-18 16:53:07
 image: 'https://m.media-amazon.com/images/I/41ugfndLTAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DeWalt'
 buyurl: 'https://www.amazon.es/dp/B01EYESJUA/?tag=tolees-21'
 descuento: '44.08'
-average: '90.2266666666667'
+average: '90.654'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Órbitas por minuto 8.000-12.000 opm
 - Peso 1.3 kg
 - Tamaño de órbita 2.6 mm
-- Tamaño de papel 125 mm
 - Potencia: 230 W
+- Órbitas por minuto 8.000-12.000 opm
+- Tamaño de papel 125 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOTUL - 101139/74 : Aceite de Suspension HIDRAULICOS Fork Oil Expert Medium 10W 1L'
-date: 2022-10-09 11:05:41
+date: 2022-10-18 16:00:33
 image: 'https://m.media-amazon.com/images/I/41ztRYW4R0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07DM78X9X-es MOTUL - 101139/74 : Aceite de Suspension HIDRAULICOS Fork...'
 sku: 'B07DM78X9X-es'
 tags: [ 'Aceites de motor para motos','Aceites para vehículos','Aceites y otros fluidos para vehículos','Coche y moto','motul','🇪🇸', ]
-actualPrice: 14.85 EUR
+actualPrice: 14.8 EUR
 currency: EUR
-price: 14.85
+price: 14.8
 comparePrice: 26.0 EUR
 prodname: 'MOTUL - 101139/74 : Aceite de Suspension HIDRAULICOS Fork Oil Expert Medium 10W 1L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'MOTUL'
 buyurl: 'https://www.amazon.es/dp/B07DM78X9X/?tag=tolees-21'
-descuento: '42.88'
-average: '14.85'
+descuento: '43.08'
+average: '14.8333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

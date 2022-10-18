@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'FILA Sandblast C wmn  Zapatillas Mujer  Negro  42 EU'
-date: 2022-10-16 17:34:04
+date: 2022-10-18 16:59:10
 image: 'https://m.media-amazon.com/images/I/41oZM+GgSUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B096XRPWM5-es FILA Sandblast C wmn Zapatillas Mujer Negro 42 EU'
 sku: 'B096XRPWM5-es'
-tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','fila','🇪🇸', ]
-actualPrice: 27.78 EUR
+tags: [ 'Moda','Moda Mujer','Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos para mujer','fila','🇪🇸', ]
+actualPrice: 27.0 EUR
 currency: EUR
-price: 27.78
+price: 27.0
 comparePrice: 70.0 EUR
 prodname: 'FILA Sandblast C wmn  Zapatillas Mujer  Negro  42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B096XRPWM5/?tag=tolees-21'
-descuento: '60.31'
-average: '32.35'
+descuento: '61.43'
+average: '31.4583333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Sintético
 - Revestimiento: Sintético
+- Material exterior: Sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
