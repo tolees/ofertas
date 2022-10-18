@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop. Disney: Artemis Fowl - Artemis. Chase!! This Pop! Figure Comes with a 1 in 6 Chance of Receiving The Special Addition Alternative Rare Chase Version  Styles May Vary '
-date: 2022-10-10 12:06:31
+date: 2022-10-18 09:34:18
 image: 'https://m.media-amazon.com/images/I/41BwReyCEFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07PCCGPLV-es Funko - Pop. Disney: Artemis Fowl - Artemis. Chase!! This...'
 sku: 'B07PCCGPLV-es'
 tags: [ 'Coleccionables','Figuras de muñecos chibi','Juguetes','Juguetes y juegos','Merchandising y estatuas y bustos','funko','🇪🇸', ]
-actualPrice: 3.95 EUR
+actualPrice: 9.0 EUR
 currency: EUR
-price: 3.95
-comparePrice: 9.0 EUR
+price: 9.0
+comparePrice: 15.0 EUR
 prodname: 'Funko - Pop. Disney: Artemis Fowl - Artemis. Chase!! This Pop! Figure Comes with a 1 in 6 Chance of Receiving The Special Addition Alternative Rare Chase Version  Styles May Vary '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07PCCGPLV/?tag=tolees-21'
-descuento: '56.11'
-average: '7.304'
+descuento: '40.00'
+average: '7.45818181818182'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Artemis Fowl
-- Artemis w/chase
 - De la colección Artemis Fowl, Artemis w/chase como figura de vinilo pop de funko
-- Funko pop! vinyl
 - Descúbre otras figuras de la colección disney y colecciónalas todas!
+- Artemis w/chase
+- Artemis Fowl
+- Funko pop! vinyl
 
 [🛒 Visítala!!!]({{< param buyurl >}})

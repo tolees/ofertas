@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Rotulador punta fina STABILO point 88 - Caja con 10 unidades - Color azul'
-date: 2022-10-10 02:09:30
-image: 'https://m.media-amazon.com/images/I/41WAfQAZ1HS._SL500_._SL400_.jpg'
+date: 2022-10-18 09:48:59
+image: 'https://m.media-amazon.com/images/I/212KKabowvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -12,14 +12,14 @@ tags: [ 'Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9
-comparePrice: 10.8 EUR
+comparePrice: 11.1 EUR
 prodname: 'Rotulador punta fina STABILO point 88 - Caja con 10 unidades - Color azul'
 country: 'es'
 flag: '🇪🇸'
 brand: 'STABILO'
 buyurl: 'https://www.amazon.es/dp/B000J6CWSS/?tag=tolees-21'
-descuento: '36.11'
-average: '6.615'
+descuento: '37.84'
+average: '6.71'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ideal para mandalas y arte terapia
 - Punta 0,4 mm de fibra con refuerzo de metal
 - Calidad alemana
 - Gama de 30 colores
 - Número 1 en Europa
-- Ideal para mandalas y arte terapia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

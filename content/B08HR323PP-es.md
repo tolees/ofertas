@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ROCCAT Burst Pro ratón para juegos  negro'
-date: 2022-10-12 08:03:06
+date: 2022-10-18 10:05:34
 image: 'https://m.media-amazon.com/images/I/41novI+GThL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Roccat'
 buyurl: 'https://www.amazon.es/dp/B08HR323PP/?tag=tolees-21'
 descuento: '50.41'
-average: '56.5858333333333'
+average: '55.0015384615384'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma simétrica y ergonómica que se ha rediseñado desde el principio, se siente mejor y funciona mejor.
-- Titan Switch Optical para una sensación mecánica con velocidad óptica.
 - El cable PhantomFlex desaparece casi por completo, no requiere soporte para cables.
 - Elementos deslizantes tratados térmicamente que proporcionan movimientos fluidos. Sensor óptico Roccat Owl-Eye de 16 K dpi basado en PMW3389 de PixArt.
+- Titan Switch Optical para una sensación mecánica con velocidad óptica.
 - Carcasa translúcida de panal de abeja con un peso extremadamente bajo de 68 g.
+- Forma simétrica y ergonómica que se ha rediseñado desde el principio, se siente mejor y funciona mejor.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
