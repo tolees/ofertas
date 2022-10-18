@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger H2285ARLOW 1D  Zapatillas Hombre  Blanco  White 596   45 EU'
-date: 2022-10-14 09:48:07
+date: 2022-10-17 22:05:00
 image: 'https://m.media-amazon.com/images/I/31mdyzBb1CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B07M5HX7VS/?tag=tolees-21'
 descuento: '35.69'
-average: '53.1894230769231'
+average: '53.033962264151'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
