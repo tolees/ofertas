@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Art Larissa  Sandalia Mujer  Sun Light  39 EU'
-date: 2022-10-06 02:26:30
+date: 2022-10-19 19:09:45
 image: 'https://m.media-amazon.com/images/I/31Tvs4fYtzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B099NLKKMK-es Art Larissa Sandalia Mujer Sun Light 39 EU'
 sku: 'B099NLKKMK-es'
-tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','art','🇪🇸', ]
-actualPrice: 31.33 EUR
+tags: [ 'Moda','Moda Mujer','Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos para mujer','art','🇪🇸', ]
+actualPrice: 21.79 EUR
 currency: EUR
-price: 31.33
+price: 21.79
 comparePrice: 89.95 EUR
 prodname: 'Art Larissa  Sandalia Mujer  Sun Light  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'ART'
 buyurl: 'https://www.amazon.es/dp/B099NLKKMK/?tag=tolees-21'
-descuento: '65.17'
-average: '31.33'
+descuento: '75.78'
+average: '26.56'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
