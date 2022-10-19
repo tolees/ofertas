@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Epic Games - Fortnite Pack de Leyendas de Menta - NSW'
-date: 2022-10-18 10:01:42
+date: 2022-10-19 10:54:08
 image: 'https://m.media-amazon.com/images/I/51ZBcTY+PgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Epic Games'
 buyurl: 'https://www.amazon.es/dp/B09HHQ41LN/?tag=tolees-21'
 descuento: '66.69'
-average: '18.6141379310347'
+average: '18.3266666666669'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

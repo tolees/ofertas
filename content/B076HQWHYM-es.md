@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'adidas Core18 Sw Top Sudadera  Hombre  Azul  Azul/Blanco   L'
-date: 2022-10-10 03:44:54
+date: 2022-10-19 11:01:27
 image: 'https://m.media-amazon.com/images/I/41tXMycABsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B076HQWHYM-es adidas Core18 Sw Top Sudadera Hombre Azul Azul/Blanco L'
 sku: 'B076HQWHYM-es'
-tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas','🇪🇸', ]
+tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Moda','Moda Hombre','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas','🇪🇸', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQWHYM/?tag=tolees-21'
 descuento: '40.12'
-average: '25.1691891891891'
+average: '25.1066666666666'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mangas con ribetes en contraste
+- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 - Presenta ajuste regular
 - Puños y dobladillo de canalé
-- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

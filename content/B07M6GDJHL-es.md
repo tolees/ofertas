@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Provocalips Labial Líquido  Tono 780 Shore Thing - 7 m'
-date: 2022-10-10 06:26:27
+date: 2022-10-19 10:57:32
 image: 'https://m.media-amazon.com/images/I/31mK32RMluL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rimmel London'
 buyurl: 'https://www.amazon.es/dp/B07M6GDJHL/?tag=tolees-21'
 descuento: '39.33'
-average: '4.485'
+average: '4.83142857142857'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aplicar top coat para sellar el color, hidratar y proporcionar brillo
-- Color intenso inalterable hasta 16 horas
+- Aplicar color y mantener los labios separados hasta su secado
 - Resistente a besos y roces ¡no deja rastro, ni mancha
 - Bálsamo hidratante que ofrece un acabado brillante y suave
-- Aplicar color y mantener los labios separados hasta su secado
+- Color intenso inalterable hasta 16 horas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

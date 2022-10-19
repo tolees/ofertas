@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Skechers FLEX APPEAL 4.0 BRILLIANT VIEW  Zapatillas para Mujer  Black Mesh/Trim  39 EU'
-date: 2022-10-14 15:07:39
+date: 2022-10-19 11:22:13
 image: 'https://m.media-amazon.com/images/I/41Y+83eVAWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08LR5KMYM-es Skechers FLEX APPEAL 4.0 BRILLIANT VIEW Zapatillas para...'
 sku: 'B08LR5KMYM-es'
-tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','skechers','🇪🇸', ]
+tags: [ 'Moda','Moda Mujer','Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos para mujer','skechers','🇪🇸', ]
 actualPrice: 39.92 EUR
 currency: EUR
 price: 39.92

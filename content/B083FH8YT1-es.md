@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Lacoste DH2881 Polo  Azul  Marine/Marine   M para Hombre'
-date: 2022-10-14 21:21:21
+date: 2022-10-19 10:57:15
 image: 'https://m.media-amazon.com/images/I/31YLuwzekbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B083FH8YT1-es Lacoste DH2881 Polo Azul Marine/Marine M para Hombre'
 sku: 'B083FH8YT1-es'
-tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','lacoste','🇪🇸', ]
+tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Moda','Moda Hombre','Ropa para hombre','lacoste','🇪🇸', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95
