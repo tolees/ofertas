@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finocam - Agenda 2022 2023 Secundaria Semana Vista Horizontal Septiembre 2022 - Junio 2023  curso lectivo  + Julio y Agosto resumidos Mejor Español'
-date: 2022-10-17 15:58:08
+date: 2022-10-19 00:01:44
 image: 'https://m.media-amazon.com/images/I/51By8GtOYUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Finocam'
 buyurl: 'https://www.amazon.es/dp/B09R1TLYRB/?tag=tolees-21'
 descuento: '59.15'
-average: '5.66'
+average: '5.0825'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
