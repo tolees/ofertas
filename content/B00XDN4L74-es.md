@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Axe Dark Temptation Desodorante - 150 ml'
-date: 2022-10-17 19:51:35
+date: 2022-10-19 05:33:17
 image: 'https://m.media-amazon.com/images/I/31dc3dURkoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este producto está indicado para hombres
-- Es dermatológicamente comprobado
 - Combinación de notas frutales de mandarina y de membrillo con aromas frescos
+- Es dermatológicamente comprobado
 - Fórmula sin alcohol y colorantes
+- Este producto está indicado para hombres
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Munich Barru  Zapatillas Mujer  Blanco 89  41 EU'
-date: 2022-10-17 18:40:05
+date: 2022-10-19 07:04:29
 image: 'https://m.media-amazon.com/images/I/41xtPZTg8OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09GJTGR6N-es Munich Barru Zapatillas Mujer Blanco 89 41 EU'
 sku: 'B09GJTGR6N-es'
-tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','munich','🇪🇸', ]
+tags: [ 'Moda','Moda Mujer','Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos para mujer','munich','🇪🇸', ]
 actualPrice: 40.74 EUR
 currency: EUR
 price: 40.74
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Munich'
 buyurl: 'https://www.amazon.es/dp/B09GJTGR6N/?tag=tolees-21'
 descuento: '61.20'
-average: '46.875'
+average: '44.83'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
