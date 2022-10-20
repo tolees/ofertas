@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Levi s Type 3 Sherpa Trucker  Trachtenjacken Hombre  Azul  Rockridge Trucker 0084   Medium'
-date: 2022-10-12 20:59:13
+date: 2022-10-19 21:22:36
 image: 'https://m.media-amazon.com/images/I/41wf5saMfCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07DVNYBLP-es Levi s Type 3 Sherpa Trucker Trachtenjacken Hombre Azul...'
 sku: 'B07DVNYBLP-es'
-tags: [ 'Chaquetas para hombre','Ropa','Ropa de abrigo para hombre','Ropa para hombre','levis','🇪🇸', ]
+tags: [ 'Chaquetas para hombre','Moda','Moda Hombre','Ropa de abrigo para hombre','Ropa para hombre','levis','🇪🇸', ]
 actualPrice: 78.95 EUR
 currency: EUR
 price: 78.95
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07DVNYBLP/?tag=tolees-21'
 descuento: '43.61'
-average: '84.878'
+average: '83.89'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bajo ajustable en el lateral
-- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Manga larga con cierre de botón en los puños
+- Bolsillos de parche en el pecho con solapa y cierre de botón automático
+- Bajo ajustable en el lateral
 
 [🛒 Visítala!!!]({{< param buyurl >}})

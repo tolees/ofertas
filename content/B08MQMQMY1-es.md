@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Columbia Slopeside Peak Luxe  Botas de invierno para mujer'
-date: 2022-10-10 11:26:03
+date: 2022-10-19 22:33:38
 image: 'https://m.media-amazon.com/images/I/31qoVi-vHmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08MQMQMY1-es Columbia Slopeside Peak Luxe Botas de invierno para mujer'
 sku: 'B08MQMQMY1-es'
-tags: [ 'Botas para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','columbia','🇪🇸', ]
+tags: [ 'Botas para mujer','Moda','Moda Mujer','Zapatos para mujer','columbia','🇪🇸', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Solé material: Caucho
 - Cierre: Cordones
+- Solé material: Caucho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

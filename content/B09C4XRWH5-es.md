@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Fly London Baji848Fly  Sandalia Mujer  Red  39 EU'
-date: 2022-10-09 16:20:31
+date: 2022-10-19 21:26:26
 image: 'https://m.media-amazon.com/images/I/31cJgncQboL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09C4XRWH5-es Fly London Baji848Fly Sandalia Mujer Red 39 EU'
 sku: 'B09C4XRWH5-es'
-tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','fly london','🇪🇸', ]
-actualPrice: 41.5 EUR
+tags: [ 'Moda','Moda Mujer','Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos para mujer','fly london','🇪🇸', ]
+actualPrice: 53.19 EUR
 currency: EUR
-price: 41.5
+price: 53.19
 comparePrice: 89.9 EUR
 prodname: 'Fly London Baji848Fly  Sandalia Mujer  Red  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fly London'
 buyurl: 'https://www.amazon.es/dp/B09C4XRWH5/?tag=tolees-21'
-descuento: '53.84'
-average: '41.5'
+descuento: '40.83'
+average: '47.345'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tacón: Plataforma
 - Material exterior: Cuero
+- Tipo de tacón: Plataforma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
