@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cordones
-- Ajuste regular
 - Parte superior de adidas PRIMEKNIT
+- Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Materiales resistentes
-- Diseño funcional
 - Alta calidad
 - Sneakers.Munich.Fashion
+- Diseño funcional
+- Materiales resistentes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
