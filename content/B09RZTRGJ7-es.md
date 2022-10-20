@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smartphone Xiaomi 12 8GB/ 256GB/ 6.28 / 5G/ Gris'
-date: 2022-10-19 08:52:30
+date: 2022-10-20 13:30:59
 image: 'https://m.media-amazon.com/images/I/21fDEAHFZ-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09RZTRGJ7/?tag=tolees-21'
 descuento: '42.55'
-average: '560.165'
+average: '556.240909090909'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto original de marca.
+- ePantalla táctil
+- Marca: Xiaomi
 - Dos años de garantía ante defectos de fábrica.
 - Descripción de la cámara: Trasera
-- Marca: Xiaomi
-- ePantalla táctil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
