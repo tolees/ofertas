@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans George Zip Suter  Gris  Grey Marl   L para Hombre'
-date: 2022-10-19 18:30:42
+date: 2022-10-20 20:47:43
 image: 'https://m.media-amazon.com/images/I/41hW5ZFmHCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,5 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elásticos y elásticos
-- Estilo informal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
