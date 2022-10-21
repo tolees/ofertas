@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CRAYOLA Laboratorio de Papel  Multicolor  74-7407 '
-date: 2022-10-14 17:00:32
+date: 2022-10-21 20:00:23
 image: 'https://m.media-amazon.com/images/I/51KJj0NKYPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crayola'
 buyurl: 'https://www.amazon.es/dp/B084ZQYNG5/?tag=tolees-21'
 descuento: '72.46'
-average: '11.282'
+average: '10.7783333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
