@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Skechers Arch Fit Big Appeal  Sneakers Mujer  Black/White  37 EU'
-date: 2022-10-11 01:14:14
+title: 'Skechers Arch Fit Big Appeal  Zapatillas Mujer  Black Mesh White Trim  37 EU'
+date: 2022-10-22 17:12:28
 image: 'https://m.media-amazon.com/images/I/31K2Z4DGFaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07WHF71KK-es Skechers Arch Fit Big Appeal Sneakers Mujer Black/White 37 EU'
+slug: 'B07WHF71KK-es Skechers Arch Fit Big Appeal Zapatillas Mujer Black Mesh...'
 sku: 'B07WHF71KK-es'
-tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','skechers','🇪🇸', ]
-actualPrice: 39.49 EUR
+tags: [ 'Moda','Moda Mujer','Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos para mujer','skechers','🇪🇸', ]
+actualPrice: 53.9 EUR
 currency: EUR
-price: 39.49
+price: 53.9
 comparePrice: 94.95 EUR
-prodname: 'Skechers Arch Fit Big Appeal  Sneakers Mujer  Black/White  37 EU'
+prodname: 'Skechers Arch Fit Big Appeal  Zapatillas Mujer  Black Mesh White Trim  37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07WHF71KK/?tag=tolees-21'
-descuento: '58.41'
-average: '44.0166666666667'
+descuento: '43.23'
+average: '46.4875'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
