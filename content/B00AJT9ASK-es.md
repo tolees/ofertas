@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brembo P 06 025 Pastillas de Frenos'
-date: 2022-10-19 11:40:31
+date: 2022-10-21 22:35:36
 image: 'https://m.media-amazon.com/images/I/31qUYyhbgGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00AJT9ASK-es Brembo P 06 025 Pastillas de Frenos'
 sku: 'B00AJT9ASK-es'
 tags: [ 'Coche y moto','Frenos para coche','Pastillas de frenos para coche','Piezas para coche','brembo','🇪🇸', ]
-actualPrice: 16.9 EUR
+actualPrice: 18.24 EUR
 currency: EUR
-price: 16.9
+price: 18.24
 comparePrice: 44.96 EUR
 prodname: 'Brembo P 06 025 Pastillas de Frenos'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Brembo'
 buyurl: 'https://www.amazon.es/dp/B00AJT9ASK/?tag=tolees-21'
-descuento: '62.41'
-average: '18.0228571428571'
+descuento: '59.43'
+average: '18.05'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
