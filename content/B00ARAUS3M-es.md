@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional 18V System batería GBA 18V 4.0Ah  en caja de cartón '
-date: 2022-10-20 08:01:29
+date: 2022-10-22 13:31:46
 image: 'https://m.media-amazon.com/images/I/41owEBiNPHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.es/dp/B00ARAUS3M/?tag=tolees-21'
 descuento: '43.18'
-average: '58.8'
+average: '58.4545454545455'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Batería de 4,0 Ah con más tiempo de autonomía en la categoría de 18 V
-- Compatible desde 2008: todas nuestras baterías son compatibles con las herramientas Bosch Professional de la misma gama de tensión, tanto nuevas como antiguas.
-- COOLPACK 1.0 mejora la disipación del calor desde el interior hasta el exterior de la batería, para ofrecer una vida útil y una autonomía más largas
 - Contenido de la caja: 1x batería GBA 18V 4.0Ah, caja de cartón
+- COOLPACK 1.0 mejora la disipación del calor desde el interior hasta el exterior de la batería, para ofrecer una vida útil y una autonomía más largas
+- Compatible desde 2008: todas nuestras baterías son compatibles con las herramientas Bosch Professional de la misma gama de tensión, tanto nuevas como antiguas.
+- Batería de 4,0 Ah con más tiempo de autonomía en la categoría de 18 V
 - AMPShare: Las baterías y cargadores son 100 % compatibles con el sistema Bosch Professional 18V System y con muchas otras herramientas de la alianza de batería multimarca AMPShare.
 - AMPShare: Las baterías y cargadores son 100 % compatibles con el sistema Bosch Professional 18V System y con muchas otras herramientas de la alianza de batería multimarca AMPShare.
 
