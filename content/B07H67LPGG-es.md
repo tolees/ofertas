@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Ultra Flex-Neon Star  Slingback Sandals Mujer  Black  Black Gore/Mitobuck Trim Blk   38 EU'
-date: 2022-10-22 13:24:19
+date: 2022-10-23 16:55:05
 image: 'https://m.media-amazon.com/images/I/41ZVmrGlYmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers BOBS SQUAD CHAOS RENEGADE PARADE  Zapatillas para Mujer  Black Engineered Knit/ Trim  37 EU'
-date: 2022-10-20 17:37:58
+date: 2022-10-23 16:59:39
 image: 'https://m.media-amazon.com/images/I/312ryeNdlBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
