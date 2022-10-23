@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Handheld Vacuum Cleaner Light - Mijia aspiradora de mano inalámbrica  aspiradora de escoba ligera con succión de17000 Pa  poco ruido  para el hogar y el coche  Color Blanco'
-date: 2022-10-19 14:58:18
+date: 2022-10-23 13:57:12
 image: 'https://m.media-amazon.com/images/I/11wceXXJB0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08V4Q8VJ1/?tag=tolees-21'
 descuento: '45.60'
-average: '86.0761999999998'
+average: '85.9882352941175'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
