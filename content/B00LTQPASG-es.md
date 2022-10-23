@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Pictures - Django Unchained [Italia] [DVD]'
-date: 2022-10-20 16:23:54
+date: 2022-10-22 22:15:52
 image: 'https://m.media-amazon.com/images/I/61usZubFUNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony Pictures'
 buyurl: 'https://www.amazon.es/dp/B00LTQPASG/?tag=tolees-21'
 descuento: '87.43'
-average: '6.61966666666666'
+average: '6.44677419354838'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
