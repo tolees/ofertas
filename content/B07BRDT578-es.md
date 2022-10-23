@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NYX PROFESSIONAL MAKEUP pintalabios mate larga duración Labial Poowder Puff Lippie Lip Cream Tono 7 Moody Color Cereza'
-date: 2022-10-16 09:41:05
+date: 2022-10-23 07:49:12
 image: 'https://m.media-amazon.com/images/I/31jQThkENWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
