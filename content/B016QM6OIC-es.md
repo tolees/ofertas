@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Gorra Negro  Flag Black 083  Talla única'
-date: 2022-10-17 16:38:54
+date: 2022-10-23 10:44:08
 image: 'https://m.media-amazon.com/images/I/31+VrdNqJ-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B016QM6OIC-es Tommy Hilfiger Gorra Negro Flag Black 083 Talla única'
 sku: 'B016QM6OIC-es'
-tags: [ 'Accesorios para hombre','Gorras de béisbol para hombre','Ropa','Ropa para hombre','Sombreros y gorras para hombre','tommy hilfiger','🇪🇸', ]
+tags: [ 'Accesorios para hombre','Gorras de béisbol para hombre','Moda','Moda Hombre','Ropa para hombre','Sombreros y gorras para hombre','tommy hilfiger','🇪🇸', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B016QM6OIC/?tag=tolees-21'
 descuento: '39.97'
-average: '21.9802272727271'
+average: '21.9144680851063'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalle de botón y ojales en la parte superior
 - Logo de Tommy Hilfiger en la parte trasera
+- Detalle de botón y ojales en la parte superior
 - Logo de Tommy Hilfiger bordado en la parte delantera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

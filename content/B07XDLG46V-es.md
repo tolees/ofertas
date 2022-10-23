@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'adidas Core18 Hoody Sudadera  Hombre  White  L'
-date: 2022-10-17 22:07:12
+date: 2022-10-23 10:48:15
 image: 'https://m.media-amazon.com/images/I/31kprK3XFNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07XDLG46V-es adidas Core18 Hoody Sudadera Hombre White L'
 sku: 'B07XDLG46V-es'
-tags: [ 'Deportes y aire libre','Jerséis para aficionados al deporte','Jerséis, cárdigans y sudaderas para hombre','Productos para fans','Ropa','Ropa para hombre','Ropa y accesorios para fans','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','🇪🇸', ]
+tags: [ 'Deportes y aire libre','Jerséis para aficionados al deporte','Jerséis, cárdigans y sudaderas para hombre','Moda','Moda Hombre','Productos para fans','Ropa para hombre','Ropa y accesorios para fans','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','🇪🇸', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07XDLG46V/?tag=tolees-21'
 descuento: '37.50'
-average: '30.5876119402984'
+average: '30.425652173913'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

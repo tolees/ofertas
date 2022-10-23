@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips OneBlade  recorta  peina y afeita  para cualquier longitud de pelo  3 accesorios de recorte acoplables  recargable  en seco o en húmedo  modelo QP2520/16 '
-date: 2022-10-20 06:00:32
+date: 2022-10-23 11:57:38
 image: 'https://m.media-amazon.com/images/I/513KaVhYQ4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

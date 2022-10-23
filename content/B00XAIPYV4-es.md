@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crema Hidratante Piel Atópica - Instituto Español - Tarro 50 ML.'
-date: 2022-10-18 22:41:08
+date: 2022-10-23 10:31:04
 image: 'https://m.media-amazon.com/images/I/41yzdPxkLPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B00XAIPYV4/?tag=tolees-21'
 descuento: '70.52'
-average: '1.02887931034482'
+average: '1.0344537815126'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Hipoalergénico
-- Especial piel atópica
-- Acción anti-sequedad
 - Calma el picor
+- Acción anti-sequedad
+- Especial piel atópica
 - Regenera progresivamente la piel
 - No irrita
 

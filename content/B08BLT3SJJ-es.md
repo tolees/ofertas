@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'LEVI S  Sneakers Hombre  Marrón  43 EU'
-date: 2022-10-14 09:38:23
+date: 2022-10-23 10:38:34
 image: 'https://m.media-amazon.com/images/I/41qjoQJHP6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08BLT3SJJ-es LEVI S Sneakers Hombre Marrón 43 EU'
 sku: 'B08BLT3SJJ-es'
-tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','levis','🇪🇸', ]
+tags: [ 'Moda','Moda Hombre','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos para hombre','levis','🇪🇸', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLT3SJJ/?tag=tolees-21'
 descuento: '35.89'
-average: '37.084'
+average: '37.235'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

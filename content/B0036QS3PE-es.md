@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Blanco  41/42 EU'
-date: 2022-10-17 21:45:23
+date: 2022-10-23 10:30:42
 image: 'https://m.media-amazon.com/images/I/31pchh0hHdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0036QS3PE-es Havaianas Brasil Logo Chanclas Unisex Adulto Blanco 41/42 EU'
 sku: 'B0036QS3PE-es'
-tags: [ 'Sandalias de dedo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','havaianas','🇪🇸', ]
+tags: [ 'Moda','Moda Hombre','Sandalias de dedo para hombre','Zapatos para hombre','havaianas','🇪🇸', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B0036QS3PE/?tag=tolees-21'
 descuento: '49.83'
-average: '14.1134615384614'
+average: '13.8937931034482'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Anchura del zapato: Normal
 - Material de la suela: Goma
-- Resistente al agua
 - Composición: Goma
+- Anchura del zapato: Normal
+- Tipo de tacón: Plano
 - Cierre: Sin cordones
 - Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
+- Resistente al agua
 - Material exterior: Caucho
-- Tipo de tacón: Plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
