@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ProFoam: la solución de entresuela ligera de PUMA de EVA de alto rebote, que proporciona una amortiguación instantánea y una adaptación constante al terreno
-- Perfil bajo
 - PUMAGRIP: compuesto de goma duradera de PUMA que proporciona tracción en todas las superficies
+- Perfil bajo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

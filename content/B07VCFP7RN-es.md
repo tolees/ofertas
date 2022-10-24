@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers ARCH FIT  Sneaker para Hombre  Taupe Textile/Synthetic/Trim  42 EU'
-date: 2022-10-20 17:01:11
+date: 2022-10-24 07:20:44
 image: 'https://m.media-amazon.com/images/I/41OPPHH-xdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
