@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Robot Aspirador y Fregasuelos Conga Eternal Laser X-Treme. Autonomía 110 min  Potencia de succión de 2200 Pa con 3 Niveles  Cepillo Multifunción  App  Asistente Virtual Alexa  2 Mopas'
-date: 2022-10-16 21:05:23
+date: 2022-10-25 20:22:38
 image: 'https://m.media-amazon.com/images/I/51EfBgOJooL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cecotec'
 buyurl: 'https://www.amazon.es/dp/B0B82YWN25/?tag=tolees-21'
 descuento: '47.20'
-average: '219.0'
+average: '199.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

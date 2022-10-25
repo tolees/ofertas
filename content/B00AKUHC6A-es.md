@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony RF MDR-RF855RK - Auriculares De Diadema Cerrados Para Television Sin Bluetooth  Color Negro'
-date: 2022-10-19 14:41:02
+date: 2022-10-25 21:06:37
 image: 'https://m.media-amazon.com/images/I/41wwZ+L5hoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00AKUHC6A/?tag=tolees-21'
 descuento: '50.11'
-average: '66.5014163090133'
+average: '66.409102564103'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido de la caja: Transmisor estéreo RF TMR-RF855R, Adaptador de CA (12 V), Cable de conexión (minienchufe estéreo x 2) 1 m, Batería recargable de hidruro metálico de níquel BP-HP550-11 (550 mAh min), Tarjeta de garantía, Instrucciones de operación
 - Rango de frecuencia de 10 Hz a 22 kHz
 - Auriculares inalámbricos de tipo cerrado con baterías recargables, diafragma de neodimio de 40 mm y base de conexión
-- No necesitas levantarte o moverte del sofá, sólo tienes que ajustar el volumen a través del control de volumen de los auriculares
-- Entradas de audio: 1 conector de patilla para entrada analógica (I/D), 1 mini conector estéreo para entrada analógica
 - Diafragmas de neodimio de 40 mm
+- Entradas de audio: 1 conector de patilla para entrada analógica (I/D), 1 mini conector estéreo para entrada analógica
+- No necesitas levantarte o moverte del sofá, sólo tienes que ajustar el volumen a través del control de volumen de los auriculares
+- Contenido de la caja: Transmisor estéreo RF TMR-RF855R, Adaptador de CA (12 V), Cable de conexión (minienchufe estéreo x 2) 1 m, Batería recargable de hidruro metálico de níquel BP-HP550-11 (550 mAh min), Tarjeta de garantía, Instrucciones de operación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
