@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers SUMMITS  Sneaker para Mujer  White Mesh/ Silver Trim  37 EU'
-date: 2022-10-23 12:00:13
+date: 2022-10-25 18:46:09
 image: 'https://m.media-amazon.com/images/I/31a2+2064HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B076THF92T/?tag=tolees-21'
 descuento: '39.94'
-average: '39.4413333333334'
+average: '38.8512500000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

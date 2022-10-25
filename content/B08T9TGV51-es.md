@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Teclado completo. Este teclado es lo que estás buscando!
+- Teclado mecánico con cable. Este teclado dispone del layout QWERTY español
 - Este teclado ligero es ideal para llevártelo a cualquier parte.
+- Teclado completo. Este teclado es lo que estás buscando!
+- Teclado con cable de fácil conexión. Solo enchufa el cable USB a tu ordenador o torre y ponte a escribir!
 - Teclado español. Este teclado tiene el sistema QWERTY español
 - Teclado silencioso. Las teclas son finas para que no hagan ruido a la hora de escribir.
-- Teclado con cable de fácil conexión. Solo enchufa el cable USB a tu ordenador o torre y ponte a escribir!
-- Teclado mecánico con cable. Este teclado dispone del layout QWERTY español
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
