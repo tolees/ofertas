@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750-Cotu Classic  Zapatillas de Gimnasia Unisex Adulto  Marrón  Brown Dusty   43 EU'
-date: 2022-10-23 10:47:24
+date: 2022-10-25 06:19:04
 image: 'https://m.media-amazon.com/images/I/41dY-Uldo7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B07TYQCQYT/?tag=tolees-21'
 descuento: '38.98'
-average: '39.5993939393938'
+average: '39.4935294117646'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
