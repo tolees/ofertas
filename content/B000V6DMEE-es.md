@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - apto tanto para interiores como exteriores
-- anudado
 - duradero y resistente a rayos UV
 - ancho de malla 3 × 3 cm
+- anudado
 - tejido con hilo de alambre, a prueba de mordiscos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

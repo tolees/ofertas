@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disco de oblea sin gluten, sin azúcares añadidos, sin lactosa y sin proteínas de leche | Sin E171 | Apto para vegetarianos
-- Oblea para tartas de 20 cm de diámetro
 - Una fantástica forma de decorar cualquier tarta casera o comprada con estas obleas personalizadas con los personajes favoritos de los más pequeños
-- Una forma sencilla para la decoración de tartas infantiles con esta oblea de papel comestible de Star Wars
+- Oblea para tartas de 20 cm de diámetro
 - Disco fácil y rápido de colocar con el que conseguir las mejores tartas de cumpleaños originales para niños - Saca el disco del sobre y colócalo sobre la superficie de cualquier tarta
+- Disco de oblea sin gluten, sin azúcares añadidos, sin lactosa y sin proteínas de leche | Sin E171 | Apto para vegetarianos
+- Una forma sencilla para la decoración de tartas infantiles con esta oblea de papel comestible de Star Wars
 
 [🛒 Visítala!!!]({{< param buyurl >}})

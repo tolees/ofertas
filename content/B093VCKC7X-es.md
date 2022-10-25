@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Android TV 9.0 con Google Assistant y acceso a Goolge Play Store, 1,5GB RAM, memoria interna 8GB
-- Sintonizador Triple HD para DVB-S2, DVB-C y DVB-T2
-- Mando a distancia Bluetooth con 2 micrófonos, botón de acceso directo a Prime Video y Netflix
-- Prime Video, Netflix, YouTube, Chromcast built-in,Hbbtv 2.0, ect
-- Tipo: HD LED TV - 32 Pulgada (80cm) Flat, 1,366 x 768 pixels (HD-ready/720p)
-- 3x HDMI 1.4, 2x USB 2.0, AV input, Ethernet LAN (RJ45) WLAN, salida de auriculares, CI + slot
-- Dimensiones, incluida la base (L. x An. x Al.): 733.נ180.נ479 mm, Dimensiones sin incluir la base (L. x An. x Al.): 733 × 80 × 435 mm
 - Potencia (W): 10.0 watts; Tamaño de pantalla: 32.0 inchesPotencia (W): 45.0 watts; Fuente de alimentación: Corded Electric; Tipo de altavoz: Incorporado; Tipo de pantalla: LCD
+- Dimensiones, incluida la base (L. x An. x Al.): 733.נ180.נ479 mm, Dimensiones sin incluir la base (L. x An. x Al.): 733 × 80 × 435 mm
+- Android TV 9.0 con Google Assistant y acceso a Goolge Play Store, 1,5GB RAM, memoria interna 8GB
+- 3x HDMI 1.4, 2x USB 2.0, AV input, Ethernet LAN (RJ45) WLAN, salida de auriculares, CI + slot
+- Sintonizador Triple HD para DVB-S2, DVB-C y DVB-T2
+- Prime Video, Netflix, YouTube, Chromcast built-in,Hbbtv 2.0, ect
+- Mando a distancia Bluetooth con 2 micrófonos, botón de acceso directo a Prime Video y Netflix
+- Tipo: HD LED TV - 32 Pulgada (80cm) Flat, 1,366 x 768 pixels (HD-ready/720p)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
