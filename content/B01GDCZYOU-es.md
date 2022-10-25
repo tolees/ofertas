@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Más flexibilidad, conexión por cable e inalámbrica
-- 12 botones programables, diseño optimizado para juegos MMO
-- Conectado por cable, proporciona 8200 DPI, 150 ips, 30 g de aceleración y 200 Hz de tasa de sondeo
-- Zócalos intercambiables para personalizar la resistencia al clic de los botones
-- Chasis de magnesio muy resistente
-- Efectos RGB personalizables en tres áreas
 - Interfaz ROG Armoury para personalizar los botones, rendimiento e iluminación
+- Efectos RGB personalizables en tres áreas
+- Chasis de magnesio muy resistente
+- Conectado por cable, proporciona 8200 DPI, 150 ips, 30 g de aceleración y 200 Hz de tasa de sondeo
+- Más flexibilidad, conexión por cable e inalámbrica
 - Memoria flash integrada para guardar tus perfiles
+- Zócalos intercambiables para personalizar la resistencia al clic de los botones
+- 12 botones programables, diseño optimizado para juegos MMO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

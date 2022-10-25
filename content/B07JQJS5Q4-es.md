@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Utilizar solamente difusores que funcionen en frío. Depositar entre 3 y 5 gotas para una habitación de entre 9 y 15 m² (Ver modo de empleo del difusor utilizado)
-- 100% aceites esenciales ecológicos* : Naranja dulce, Verbena exótica, Cedro del Atlas, Mandarin
 - Composición equilibrada y sutil con notas mezcladas de Naranja y de Cedro que aportan una dulce sensación relajante de bienestar. La sinergia Zen favorece la relajación y la tranquilidad gracias a un ambiente de calma
-- Mezcla para difusión - Zen
 - El abanico de cítricos deja su lugar a las notas calmantes y místicas del cedro
+- 100% aceites esenciales ecológicos* : Naranja dulce, Verbena exótica, Cedro del Atlas, Mandarin
+- Mezcla para difusión - Zen
 
 [🛒 Comprar!!!]({{< param buyurl >}})
