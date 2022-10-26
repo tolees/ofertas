@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Capucha con cordón externo para ajuste.
 - Sudadera con un estilo inconfundible
 - Bolsillo frontal con cremallera cubierto por solapa de velcro
-- Capucha con cordón externo para ajuste.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
