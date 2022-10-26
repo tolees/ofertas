@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tiritas en capa media.
 - Reparación de grietas y fisuras de hasta 5 mm de ancho.
 - WATERPLACE LLENA 1 KG 70059-003
-- Yesos en placas de porexpan.
 - Nivelación de superficies ligeramente irregulares.
+- Yesos en placas de porexpan.
 - Sobre materiales de trabajo de interior (hormigón, ladrillo, yeso, vieira, piedra, cartón-yeso, etc.).
-- Tiritas en capa media.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
