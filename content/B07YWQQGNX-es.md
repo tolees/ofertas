@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Limpia y perfuma con cada descarga
-- Mantiene el inodoro limpio y fresco
-- Limpia higiénicamente el inodoro
-- Combate los gérmenes que dejan manchas
 - Deja un agradable aroma a lima
+- Mantiene el inodoro limpio y fresco
+- Combate los gérmenes que dejan manchas
+- Limpia higiénicamente el inodoro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
