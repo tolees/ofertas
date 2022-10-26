@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 5 bolsillos estilo
 - Gymdigo
+- 5 bolsillos estilo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
