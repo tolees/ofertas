@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beissier M28044 - Yeso fino preparado rellenos 1 kg'
-date: 2022-10-18 14:05:26
+date: 2022-10-26 06:45:39
 image: 'https://m.media-amazon.com/images/I/41bfG6F9VlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Beissier'
 buyurl: 'https://www.amazon.es/dp/B00ID6W2P4/?tag=tolees-21'
 descuento: '64.62'
-average: '1.74'
+average: '1.74555555555556'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acabado fino de color blanco mate.
 - Resistencia a la flexotracción superior a 20 kg/cm2.
 - Peso: 1kg.
 - Muy fácil aplicación.
+- Acabado fino de color blanco mate.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
