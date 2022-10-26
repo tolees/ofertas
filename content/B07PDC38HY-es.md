@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Exclusiva fragancia
-- Con aroma muy agradable
-- Buen olor
 - Excelente calidad
 - De máxima duración
+- Con aroma muy agradable
+- Exclusiva fragancia
+- Buen olor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
