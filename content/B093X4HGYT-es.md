@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma
 - Parte superior de gamuza/malla
-- Cierre de cordones para un ajuste seguro
+- Suela de goma
 - Entresuela ligera de espuma EVA moldeada por inyección que proporciona una amortiguación ligera
+- Cierre de cordones para un ajuste seguro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
