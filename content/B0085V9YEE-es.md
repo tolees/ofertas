@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TRIXIE Pelota Snacks para Gatos'
-date: 2022-10-23 11:03:51
+date: 2022-10-27 18:52:19
 image: 'https://m.media-amazon.com/images/I/41Tu6ZGqRYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trixie'
 buyurl: 'https://www.amazon.es/dp/B0085V9YEE/?tag=tolees-21'
 descuento: '51.53'
-average: '5.52818181818182'
+average: '5.51666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- entrena las habilidades
-- los snacks caen al rodar
-- se puede llenar con snacks de premio
-- con apertura ajustable para regular la caída de snacks
 - plástico
+- los snacks caen al rodar
+- entrena las habilidades
+- con apertura ajustable para regular la caída de snacks
+- se puede llenar con snacks de premio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
