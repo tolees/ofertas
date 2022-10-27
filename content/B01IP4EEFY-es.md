@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Gazelle  Zapatillas de Deporte Hombre  Gris  DGH Solid Grey/White/Gold Metallic   44 2/3 EU'
-date: 2022-10-23 10:32:45
+date: 2022-10-27 00:25:21
 image: 'https://m.media-amazon.com/images/I/31WN0qR847L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B01IP4EEFY/?tag=tolees-21'
 descuento: '45.05'
-average: '81.4846666666666'
+average: '81.2653719008264'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un logotipo del trébol en relieve en la lengua
 - Piel de cerdo superior; Cómoda sintético Forro
+- Un logotipo del trébol en relieve en la lengua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
