@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geomag- Mechanics Construcciones magnéticas y juegos educativos  Multicolor  95 Piezas  771    color/modelo surtido'
-date: 2022-10-26 10:45:54
+date: 2022-10-27 12:09:02
 image: 'https://m.media-amazon.com/images/I/51UjOjrZrdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geomag'
 buyurl: 'https://www.amazon.es/dp/B07MS9F73L/?tag=tolees-21'
 descuento: '36.40'
-average: '16.8333333333333'
+average: '16.6'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Los productos Geomag pertenecen a la categoría STEM acrónimo de Ciencia, Tecnología, Ingeniería y Matemáticas, que define un enfoque de aprendizaje interdisciplinario
 - Las barras, a través de los imanes colocados en ambos extremos, se conectan a las esferas, lo que te permite construir todo lo que se te ocurra
 - La caja incluye esferas metálicas, barras magnéticas y elementos mecánicos de plástico para construir un cañón magnético
 - Todos los productos cumplen con las normas de seguridad europeas e internacionales más estrictas
 - Truco del cañón magnético: Las esferas dentro del circuito se ponen en movimiento mediante un cañón magnético, que convierte la fuerza de atracción del imán en aceleración
-- Los productos Geomag pertenecen a la categoría STEM acrónimo de Ciencia, Tecnología, Ingeniería y Matemáticas, que define un enfoque de aprendizaje interdisciplinario
 
 [🛒 Aquí!!!]({{< param buyurl >}})
