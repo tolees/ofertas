@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ventilador de refrigeración de 40 mm con ajuste de subida/bajada/apagado para mantener la temperatura del disco
-- Soporte ODD accionado por resorte para una rápida instalación y desmontaje
-- Compatibilidad con unidades de disco óptico Ultra Slim (9,5 mm) (unidad ODD)
 - Dos conectores de alimentación SATA separan la alimentación del ODD de la alimentación del HDD/SSD para obtener una alimentación estable
 - Adecuado para 6x SSD o HDD con una altura entre 5mm y 7mm
+- Compatibilidad con unidades de disco óptico Ultra Slim (9,5 mm) (unidad ODD)
+- Soporte ODD accionado por resorte para una rápida instalación y desmontaje
+- Ventilador de refrigeración de 40 mm con ajuste de subida/bajada/apagado para mantener la temperatura del disco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

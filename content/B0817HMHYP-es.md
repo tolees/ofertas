@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Óptimo ajuste gracias al material elástico y a la cintura parcialmente elástica, Cinturón extraíble integrado y piernas con cremallera para convertirlos en pantalones cortos
-- Adecuado para senderismo y otras actividades al aire libre, Apto para usar durante todo el año
-- Mayor protección para la piel en los días más soleados
 - Transpirable y de secado rápido gracias a la combinación de la tecnología Omni-Wick
+- Óptimo ajuste gracias al material elástico y a la cintura parcialmente elástica, Cinturón extraíble integrado y piernas con cremallera para convertirlos en pantalones cortos
+- Mayor protección para la piel en los días más soleados
+- Adecuado para senderismo y otras actividades al aire libre, Apto para usar durante todo el año
 - Contenido: 1x Columbia Silver Ridge II, Pantalones cargo para hombre, Fibra sintética, Gris (City Grey), W28/L32, Art. 1794901
 
 [🛒 Visítala!!!]({{< param buyurl >}})
