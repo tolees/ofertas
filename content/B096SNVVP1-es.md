@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cocodrilo verde
 - Dimensiones: 26 נ30 נ16 cm
 - Cierre de cremallera, asas de transporte y bolsa de transporte de plástico
 - Bolso shopper de mujer Jeanne en lona con asas de rayas
 - Bolsillo exterior de plástico y bolsillo interior con cremallera
-- Cocodrilo verde
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 SW PNT Pantalones de Deporte  Hombre  Azul  Azul/Blanco   2XL'
-date: 2022-10-26 17:57:18
+date: 2022-10-27 21:56:35
 image: 'https://m.media-amazon.com/images/I/31ajhBDEIiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMNBWD/?tag=tolees-21'
 descuento: '45.20'
-average: '26.2933333333333'
+average: '25.2'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica con cordón ajustable.
-- Tienen dos bolsillos laterales
 - Inserción de canalé en la entrepierna.
+- Tienen dos bolsillos laterales
+- Cintura elástica con cordón ajustable.
 - Bolsillos de ojal en las costuras laterales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

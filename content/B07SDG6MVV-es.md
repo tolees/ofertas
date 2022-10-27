@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Malibu Beach S  Zapatillas Mujer  B White 33  37 EU'
-date: 2022-10-26 20:42:18
+date: 2022-10-27 21:15:31
 image: 'https://m.media-amazon.com/images/I/31OsswIxJlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07SDG6MVV/?tag=tolees-21'
 descuento: '49.97'
-average: '23.1178571428571'
+average: '22.744'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
