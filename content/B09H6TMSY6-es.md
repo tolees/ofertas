@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela Suave
-- Ajuste regular
 - Sudadera
+- Ajuste regular
+- Tela Suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
