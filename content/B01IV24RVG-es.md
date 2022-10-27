@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iHome Star Wars BB-8 - Altavoz PC  Blanco'
-date: 2022-10-25 06:56:24
+date: 2022-10-27 16:26:16
 image: 'https://m.media-amazon.com/images/I/51zlhkADEVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bluetooth.
 - Fabricado en: China.
 - Reproducción fiel
-- Bluetooth.
 - Función manos libres.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
