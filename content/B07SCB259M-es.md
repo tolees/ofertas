@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Tijuana  Zapatillas Mujer  Blanco  B White 50   41 EU'
-date: 2022-10-23 16:56:22
+date: 2022-10-27 11:01:48
 image: 'https://m.media-amazon.com/images/I/31RiNU2KxFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07SCB259M/?tag=tolees-21'
 descuento: '58.58'
-average: '21.455'
+average: '20.5166666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
