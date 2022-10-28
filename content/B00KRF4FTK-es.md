@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Permite limpiar los ojos de forma suave y sin causar irritación
-- Volumen neto: 60 ml
 - Para gatos y perros
+- Volumen neto: 60 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

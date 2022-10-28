@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
-- Detalles
 - Cuello acanalado
+- Manga corta
 - Corte recto
+- Detalles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
