@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ropa deportiva fabricada con materiales de calidad que se adaptan a cualquier actividad deportiva
-- Medias Evoknit High-Waist 7/8 Tights black
-- Ropa deportiva Negro de la marca Puma
 - Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
+- Ropa deportiva fabricada con materiales de calidad que se adaptan a cualquier actividad deportiva
+- Ropa deportiva Negro de la marca Puma
+- Medias Evoknit High-Waist 7/8 Tights black
 - Medias para practicar Fútbol de Mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
