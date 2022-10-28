@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bic Cristal Original 8308621 Bolígrafo - surtidos  paquete de 4 '
-date: 2022-10-19 05:38:50
+date: 2022-10-28 18:13:39
 image: 'https://m.media-amazon.com/images/I/514OnRvbkVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
