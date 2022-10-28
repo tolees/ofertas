@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles superiores de malla
-- Detalles de la patente
-- Plantilla acolchada
-- Forro sintético/textil
 - Suela de goma texturizada
+- Detalles superiores de malla
+- Plantilla acolchada
+- Detalles de la patente
+- Forro sintético/textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
