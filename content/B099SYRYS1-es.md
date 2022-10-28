@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Algodón orgánico: algodón orgánico controlado
-- Escote submarino
-- Super en climas suaves: jersey de punto con cuello submarino y mangas de murciélago, de una mezcla de algodón orgánico de alta calidad con TENCEL Lyocell.
-- Punto de algodón orgánico y tencel lyocell: agradable al tacto, suave al tacto, alta transpirabilidad, caso de moda
 - Mangas largas de murciélago con puños acanalados
+- Super en climas suaves: jersey de punto con cuello submarino y mangas de murciélago, de una mezcla de algodón orgánico de alta calidad con TENCEL Lyocell.
+- Escote submarino
+- Punto de algodón orgánico y tencel lyocell: agradable al tacto, suave al tacto, alta transpirabilidad, caso de moda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
