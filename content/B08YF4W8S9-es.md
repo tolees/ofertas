@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Volkswagen 70827 VW Beetle - Edición Especial  A partir de 5 años'
-date: 2022-10-25 20:33:56
+date: 2022-10-28 11:04:16
 image: 'https://m.media-amazon.com/images/I/51xVkuKAz1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B08YF4W8S9/?tag=tolees-21'
 descuento: '40.01'
-average: '38.6720000000001'
+average: '38.5043750000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
