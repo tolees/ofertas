@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Juego de mesa
+- Basado en las dos primeras peliculas de Predator
+- Totalmente en castellano
 - De 1 a 5 jugadores
 - Ponte en la piel del Predator
-- Basado en las dos primeras peliculas de Predator
-- Juego de mesa
-- Totalmente en castellano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
