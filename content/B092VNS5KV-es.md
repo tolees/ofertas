@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Noble Collection DC-Superman Mini Bendyfig'
-date: 2022-10-25 19:00:24
+date: 2022-10-28 17:00:58
 image: 'https://m.media-amazon.com/images/I/41-v742lzHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Created by The Noble Collection
 - Detailed modeling
 - Officially licensed product
+- Created by The Noble Collection
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
