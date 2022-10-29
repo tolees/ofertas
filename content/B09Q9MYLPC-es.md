@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Chocobo GT'
-date: 2022-10-21 05:42:54
+date: 2022-10-29 20:16:24
 image: 'https://m.media-amazon.com/images/I/51pGC9VjctL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09Q9MYLPC/?tag=tolees-21'
 descuento: '49.96'
-average: '37.7742105263157'
+average: '37.1339999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cada jugador tiene sus propias habilidades y peculiaridades.
 - Arranca los motores y prepárate para un nuevo juego de carreras con un plantel que incluye decenas de tus personajes favoritos de la serie Chocobo.
+- Cada jugador tiene sus propias habilidades y peculiaridades.
 - Equipa magicitas para dejar atrás a la competencia y derrapa por circuitos bien conocidos en los modos multijugador local y en línea.
 - ¡Compite en torneos para hacerte con la victoria en el grand prix!
 

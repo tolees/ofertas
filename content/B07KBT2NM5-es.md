@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fácil de usar
+- Libre de fragancias y aditivos
 - Regulación de 3 pasos
 - Protección continua contra mosquitos, mosca
-- Libre de fragancias y aditivos
-- Fácil de usar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
