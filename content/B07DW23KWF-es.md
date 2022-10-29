@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bresser Wetterstation Funk mit Außensensor Wetter Center 5-in-1  Weiß'
-date: 2022-10-26 09:20:40
+date: 2022-10-29 17:42:51
 image: 'https://m.media-amazon.com/images/I/41zTPg5h6aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bresser'
 buyurl: 'https://www.amazon.es/dp/B07DW23KWF/?tag=tolees-21'
 descuento: '54.26'
-average: '64.2772727272726'
+average: '63.8374999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Humedad ambiental, probabilidad de precipitación, memoria histórica
-- Medida de temperatura, velocidad del aire, presión atmosférica,
-- 120x190x22 mm; 310g y 344x394x136 mm; 682 g
-- Estación meteorológica radio controlada con multisensor 5 en 1
 - Incluido: Estación base, multisensor y material de montaje
+- Medida de temperatura, velocidad del aire, presión atmosférica,
+- Estación meteorológica radio controlada con multisensor 5 en 1
+- 120x190x22 mm; 310g y 344x394x136 mm; 682 g
 
 [🛒 Aquí!!!]({{< param buyurl >}})

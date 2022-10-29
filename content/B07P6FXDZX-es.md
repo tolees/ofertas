@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla: piel.
+- Forro: sin forro.
+- Parte superior: otro cuero
 - Tipo de tacón: plano.
 - Material de la suela: piel.
-- Parte superior: otro cuero
-- Forro: sin forro.
+- Plantilla: piel.
 - Tamaño: Regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
