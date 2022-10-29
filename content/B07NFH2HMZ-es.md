@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pantalla de neón
 - Caja de resina
 - Clasificación de resistencia al agua (5 bar)
-- Pantalla de neón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

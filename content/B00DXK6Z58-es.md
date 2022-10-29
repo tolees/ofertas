@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TRIXIE Snack PREMIO Duckinos  Pato  80 g  Perro'
-date: 2022-10-14 16:37:51
+date: 2022-10-29 14:50:38
 image: 'https://m.media-amazon.com/images/I/51Di5BNn+8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trixie'
 buyurl: 'https://www.amazon.es/dp/B00DXK6Z58/?tag=tolees-21'
 descuento: '66.48'
-average: '2.21'
+average: '2.24'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
