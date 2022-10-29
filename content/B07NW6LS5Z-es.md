@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers BOBS SQUAD GLAM LEAGUE  Zapatillas para Mujer  Gray Engineered Knit/ Silver Trim  38 EU'
-date: 2022-10-28 11:30:12
+date: 2022-10-29 12:55:15
 image: 'https://m.media-amazon.com/images/I/41hzP+KOgTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07NW6LS5Z/?tag=tolees-21'
 descuento: '41.48'
-average: '28.155'
+average: '28.5133333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
