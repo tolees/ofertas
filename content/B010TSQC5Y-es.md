@@ -31,7 +31,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Material: hierro fundido
 - Peso del paquete: 5,58 kg
 - Manejo más fácil gracias a dos asas más pequeñas
-- Ranuras para barbacoa
 - Tamaño del paquete: 5,8 L x 48,8 H x 40,2 W (cm)
+- Ranuras para barbacoa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
