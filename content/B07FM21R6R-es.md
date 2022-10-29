@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jacsolid Woven Scarf Noos Bufanda  Negro  Black Black   Talla Única para Hombre'
-date: 2022-10-27 19:27:27
+date: 2022-10-29 06:42:13
 image: 'https://m.media-amazon.com/images/I/41I-ZKl6wVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07FM21R6R/?tag=tolees-21'
 descuento: '60.23'
-average: '9.63'
+average: '9.21'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Scarf with fringes
 - Knitted scarf
+- Scarf with fringes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
