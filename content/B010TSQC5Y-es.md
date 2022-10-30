@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAUB Rectangular Sartén con Dos Asas  Cuadrada  Gris Grafito  33 cm  Hierro Fundido'
-date: 2022-10-29 15:04:09
+date: 2022-10-30 19:45:26
 image: 'https://m.media-amazon.com/images/I/410gy9beoOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'STAUB'
 buyurl: 'https://www.amazon.es/dp/B010TSQC5Y/?tag=tolees-21'
 descuento: '51.28'
-average: '88.6533333333333'
+average: '88.4457142857142'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: hierro fundido
-- Peso del paquete: 5,58 kg
 - Manejo más fácil gracias a dos asas más pequeñas
+- Peso del paquete: 5,58 kg
+- Material: hierro fundido
 - Tamaño del paquete: 5,8 L x 48,8 H x 40,2 W (cm)
 - Ranuras para barbacoa
 

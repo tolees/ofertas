@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INSTITUTO ESPAÑOL gel de ducha piel sana botella 1250 ml'
-date: 2022-10-26 09:13:50
+date: 2022-10-30 19:40:21
 image: 'https://m.media-amazon.com/images/I/41SHoxho9fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B00XAIOXZW/?tag=tolees-21'
 descuento: '37.17'
-average: '2.38666666666667'
+average: '2.385'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
