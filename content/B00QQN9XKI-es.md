@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Esmalte al agua multisuperficie para decorar y proteger superficies de madera, hierro, yeso, cemento textil y melamina en interiores y exteriores
-- Secado rápido y sin olor.
-- Ultra lavable
 - No amarillea.
+- Secado rápido y sin olor.
 - Máxima resistencia a los golpes y rayado.
+- Ultra lavable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
