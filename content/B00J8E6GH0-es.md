@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español Crema Hidratante de Urea  400 Mililitros'
-date: 2022-10-28 09:05:19
+date: 2022-10-30 15:30:49
 image: 'https://m.media-amazon.com/images/I/41B6KuOVTAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Instituto Español'
 buyurl: 'https://www.amazon.es/dp/B00J8E6GH0/?tag=tolees-21'
 descuento: '38.18'
-average: '3.30142857142857'
+average: '3.31375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Brand: Instituto Español
-- Tipo de producto: Tratamiento corporal
-- Género: Unisex Adulto
 - Alta calidad
+- Género: Unisex Adulto
+- Tipo de producto: Tratamiento corporal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
