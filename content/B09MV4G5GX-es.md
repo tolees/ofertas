@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logo de Helly Hansen estampado en el hombro/la manga con sobrecapa de malla
-- Poliéster S.Café de punto simple 180G/M2
 - Items delivered: 1x Helly Hansen Junior - Jr Active Tech T-Shirt Apparel Navy 152/12
 - Cuello redondo del mismo tejido
+- Logo de Helly Hansen estampado en el hombro/la manga con sobrecapa de malla
+- Poliéster S.Café de punto simple 180G/M2
 - Dobladillo y puños con vuelta y pespunteado doble
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
