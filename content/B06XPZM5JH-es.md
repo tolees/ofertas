@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Compo 2195102011 - barreras de Insectos  Gel de citronella'
-date: 2022-10-30 18:19:32
+date: 2022-10-31 18:52:59
 image: 'https://m.media-amazon.com/images/I/41j4xJotAwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Compo'
 buyurl: 'https://www.amazon.es/dp/B06XPZM5JH/?tag=tolees-21'
 descuento: '42.69'
-average: '2.635'
+average: '2.42333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Modo de uso: simplemente destape el bote y colóquelo en la zona que desee proteger de los insectos, Tapar una vez que no se necesite
-- Se puede utilizar como ambientador en cualquier zona del hogar, incluida la terraza
 - Gel no tóxico hecho a base de esencias de citronela y geraniol que, además de proporcionar un fresco olor a limón, aleja a los insectos del hogar
+- Se puede utilizar como ambientador en cualquier zona del hogar, incluida la terraza
 - Contenido: 1x COMPO Barrera de Insectos Citronela, Perfuma durante semanas, Gel, 125g
 - Tanto el perfume como la repelencia a los insectos duran varias semanas, dependiendo de lsa condiciones ambientales
 

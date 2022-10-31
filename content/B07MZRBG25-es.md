@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spotted Zebra Disney | Marvel | Star Wars | Frozen | Princess Camisetas de Manga Corta Niño  Pack de 5  Negro/Verde/Azul  Monstruo del Skate  6-7 años'
-date: 2022-10-24 18:45:44
+date: 2022-10-31 17:26:03
 image: 'https://m.media-amazon.com/images/I/41-sjzVWAIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Spotted Zebra'
 buyurl: 'https://www.amazon.es/dp/B07MZRBG25/?tag=tolees-21'
 descuento: '49.98'
-average: '11.0266666666667'
+average: '11.27'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
