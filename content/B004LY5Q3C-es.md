@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dispone de 5 puntadas para decoraciones y 11 puntadas elásticas
-- Máquina automática con 30 diseños de costura
 - Cordoncillo para uniones y bordes y ojal automático en un tiempo
 - Con pespunte central de largo variable y pespunte central elástico
 - Por favor tenga en cuenta que las instrucciones son en Italiano
+- Máquina automática con 30 diseños de costura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
