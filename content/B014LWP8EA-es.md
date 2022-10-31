@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Profesional - Bosch Professional Set Tough Box con 30 hojas de sierra de calar Basic for Wood and Metal  para madera y metal  accesorios de sierra de calar '
-date: 2022-10-27 17:02:47
+date: 2022-10-31 12:02:37
 image: 'https://m.media-amazon.com/images/I/61lItCQ-3WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Profesional'
 buyurl: 'https://www.amazon.es/dp/B014LWP8EA/?tag=tolees-21'
 descuento: '49.32'
-average: '20.9546153846155'
+average: '20.9375000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
