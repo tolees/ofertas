@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger H2285ARLOW 1D  Zapatillas Hombre  Azul Midnight 596  45 EU'
-date: 2022-10-30 17:38:45
+date: 2022-11-01 00:10:26
 image: 'https://m.media-amazon.com/images/I/3127tHEqGQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B01MRONTOI/?tag=tolees-21'
 descuento: '39.93'
-average: '46.0493243243242'
+average: '45.9951999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
