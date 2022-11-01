@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Flower Fin Antihormigas Insecticida Jeringa  10 gr'
-date: 2022-10-26 18:32:40
+date: 2022-11-01 18:09:59
 image: 'https://m.media-amazon.com/images/I/51qqScesyML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Innovador sistema con jeringuilla
-- 10gr
 - Práctico, eficaz, limpio y sin olor
+- 10gr
 - Definitivo: mata a la reina extinguiendo el hormiguero
+- Innovador sistema con jeringuilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
