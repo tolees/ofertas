@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sensor óptico adecuado Razer 5G: Su sensor óptico de 18 000 PPP asegura que se registre hasta el movimiento más ínfimo del ratón, lo que te proporciona un nivel de precisión elevado a la hora de lanzar hechizos y activar habilidades
-- Diseño ergonómico de peso medio de 85 g: Sube tu juego de nivel con sus 12 botones programables y un diseño natural y cómodo al agarre y al uso, gracias a la posición de la cuadrícula de control programable y al perfil de su diseño ergonómico
 - Con tecnología Razer Chroma RGB: Con 16.8 millones de colores y una amplia gama de efectos, sincroniza el ratón con el resto de tu estación de combate y disfruta de una adecuada inversión, ya que puede reaccionar de manera dinámica a los más de 150 juegos integrados
-- 16 botones programables: Ya estés asignando lo básico o yendo a muerte con las macros adecuadas, ten todos los comandos que necesitas al alcance de la mano y disfruta de un grado de control ajustado a cada situación
 - Switch óptico para ratón Razer de 2-a generación: Cada click se acciona a 0.2 ms y sin desactivación de rebote para que tengas una ejecución rápida y limpia de hasta 70 millones de clicks, un diseño más resistente y rápido que elimina los problemas derivados de hacer doble click sin querer
+- Sensor óptico adecuado Razer 5G: Su sensor óptico de 18 000 PPP asegura que se registre hasta el movimiento más ínfimo del ratón, lo que te proporciona un nivel de precisión elevado a la hora de lanzar hechizos y activar habilidades
+- 16 botones programables: Ya estés asignando lo básico o yendo a muerte con las macros adecuadas, ten todos los comandos que necesitas al alcance de la mano y disfruta de un grado de control ajustado a cada situación
+- Diseño ergonómico de peso medio de 85 g: Sube tu juego de nivel con sus 12 botones programables y un diseño natural y cómodo al agarre y al uso, gracias a la posición de la cuadrícula de control programable y al perfil de su diseño ergonómico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
