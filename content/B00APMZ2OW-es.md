@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sneakers, Munich, sport
+- Alta calidad
 - Materiales resistentes
 - Diseño funcional
-- Alta calidad
-- Sneakers, Munich, sport
 
 [🛒 Visítala!!!]({{< param buyurl >}})

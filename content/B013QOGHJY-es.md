@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Max Factor Smokey Eye Drama Sombra de Ojos Tono 05 Magnet Jades - 1.5 gr'
-date: 2022-10-31 15:53:55
+date: 2022-11-01 21:33:28
 image: 'https://m.media-amazon.com/images/I/41y8sVHQBML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tipo de producto: sombra de ojos
 - Género : mujer
 - Marca : Max Factor
-- Tipo de producto: sombra de ojos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
