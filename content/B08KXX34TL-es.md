@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera con cremallera
-- Cárdigan deportivo con logotipo
 - Sudadera con capucha
-- Sudadera simple
 - Sudadera de un solo color
+- Sudadera simple
+- Cárdigan deportivo con logotipo
+- Sudadera con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
