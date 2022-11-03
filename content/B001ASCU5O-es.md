@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Formula de origen vegetal, no contiene gluten ni ninguno de los principales alérgenos
-- No mancha las manos y tiene gran plasticidad y consistencia; mantiene la forma sin deformarse
-- Pasta de modelar que no endurece al aire, podrás jugar con ella tantas veces como quieras
 - Caja de 15 pastillas de 150 gr colores básicos (3 pastillas x 5 colores)
+- No mancha las manos y tiene gran plasticidad y consistencia; mantiene la forma sin deformarse
 - Colores muy vivos mezclables entre sí
+- Pasta de modelar que no endurece al aire, podrás jugar con ella tantas veces como quieras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
