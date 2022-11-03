@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Green Spirit
-- Lt elástico
 - Bugatti SoftFit
+- Lt elástico
+- Green Spirit
 
 [🛒 Comprar!!!]({{< param buyurl >}})
