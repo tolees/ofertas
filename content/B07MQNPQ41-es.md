@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Dial - Herramienta para el proceso creativo'
-date: 2022-10-30 17:53:56
+date: 2022-11-03 18:49:49
 image: 'https://m.media-amazon.com/images/I/31ShBPMub0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Autonomía de la batería: 12 meses (con un uso de 4 horas diarias)
-- Connexion: Bluetooth 4.0 LE
 - Un herramienta diseñada para el proceso creativo, transforma el modo en el que perfeccionas tu trabajo
 - Compatible con Windows 10 Anniversary Update (Surface Pro 6, Surface Pro, Surface Pro 4, Surface Book, Surface Studio 2 ,Surface Laptop, Surface Laptop 2)
+- Connexion: Bluetooth 4.0 LE
+- Autonomía de la batería: 12 meses (con un uso de 4 horas diarias)
 - Optimizado para el uso de aplicaciones de diseño como Adobe Creative Cloud, Mental Canvas, Bluebeam y muchas más
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

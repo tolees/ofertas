@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas 3mc Vulc B22713  Zapatillas Hombre  Negro  Core Black/Core Black/Grey 0   43 1/3 EU'
-date: 2022-11-02 01:06:14
+date: 2022-11-03 18:38:17
 image: 'https://m.media-amazon.com/images/I/21-C7+jRvwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07HD7SK4F/?tag=tolees-21'
 descuento: '38.49'
-average: '45.29'
+average: '45.01125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
