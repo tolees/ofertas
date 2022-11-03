@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Súper resistentes.
 - Hiper cremosos para un deslizamiento muy fácil
 - 100% veganos y cruelty free
-- Aptos para sacapuntas
 - Una inyección de labios en forma de lápiz de labios
+- Aptos para sacapuntas
+- Súper resistentes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

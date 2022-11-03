@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
 - Polo
+- Manga corta
 - Pique
 
 [🛒 Aquí!!!]({{< param buyurl >}})
