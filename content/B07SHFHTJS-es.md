@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Frozen 2 - Muñeca Cantarina Anna  Hasbro E6853TG0 '
-date: 2022-10-23 07:23:22
+date: 2022-11-03 08:39:06
 image: 'https://m.media-amazon.com/images/I/41AWXk96rdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B07SHFHTJS/?tag=tolees-21'
 descuento: '61.91'
-average: '16.6554545454545'
+average: '16.3892307692308'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

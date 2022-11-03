@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash V2 L  Zapatillas Unisex Adulto  Blanco  White/Black   39 EU'
-date: 2022-11-02 00:54:48
+date: 2022-11-03 07:39:08
 image: 'https://m.media-amazon.com/images/I/317XR8ULtGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B077MLZ8BM/?tag=tolees-21'
 descuento: '38.04'
-average: '31.9236585365854'
+average: '31.9004761904762'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Cordones
 - Material de la suela: Caucho
+- Cierre: Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
