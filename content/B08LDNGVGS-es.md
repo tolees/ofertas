@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CK DEBE
-- Forro: sintético
 - CK debe
+- Forro: sintético
+- CK DEBE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
