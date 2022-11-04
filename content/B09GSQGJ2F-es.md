@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Gran Turismo 7 [PS5]'
-date: 2022-10-20 14:58:27
+date: 2022-11-04 10:51:45
 image: 'https://m.media-amazon.com/images/I/510s5VmqQ2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09GSQGJ2F-es Playstation - Gran Turismo 7 [PS5]'
 sku: 'B09GSQGJ2F-es'
 tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','playstation','🇪🇸', ]
-actualPrice: 48.9 EUR
+actualPrice: 43.0 EUR
 currency: EUR
-price: 48.9
+price: 43.0
 comparePrice: 79.99 EUR
 prodname: 'Playstation - Gran Turismo 7 [PS5]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B09GSQGJ2F/?tag=tolees-21'
-descuento: '38.87'
-average: '57.8675'
+descuento: '46.24'
+average: '56.7238461538462'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

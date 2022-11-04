@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Parte superior: piel nobuck
 - Cierre: cordones rápidos
-- Material interior: sintético
 - Suela: cuero y goma
+- Material interior: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
