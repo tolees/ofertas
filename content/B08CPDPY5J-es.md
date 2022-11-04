@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids LVB-BATWING CREWNECK SWEATSHIRT 8E9079  Sudadera Niños  Blanco  White Marshmallow   8 años'
-date: 2022-11-02 12:39:15
+date: 2022-11-04 13:29:41
 image: 'https://m.media-amazon.com/images/I/31fdd7m46TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

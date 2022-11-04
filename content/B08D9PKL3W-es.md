@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Hogar - BOSCH máquina multibebida TASSIMO STYLE  TAS1104  hasta 70 bebidas  OneTouch  servicio individual  tamaño compacto  INTELLIBREW  blanco'
-date: 2022-11-03 09:11:43
+date: 2022-11-04 13:29:17
 image: 'https://m.media-amazon.com/images/I/31k7K5Wk3QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Hogar'
 buyurl: 'https://www.amazon.es/dp/B08D9PKL3W/?tag=tolees-21'
 descuento: '71.91'
-average: '30.5497826086957'
+average: '30.4317021276596'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
