@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Deco E4  2-Pack  -AC1200 Repetidor de Wi-Fi  Mesh Wi-Fi Inteligente  Doble Banda hasta 260 m²  2xPuertos 100/10 Mbps  MU-MIMO  hasta 100 dispositivos  adecuado para Xiaomi Mi Box  Color Blanco'
-date: 2022-11-02 07:32:57
+date: 2022-11-04 08:39:05
 image: 'https://m.media-amazon.com/images/I/31kMkNjuwvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mesh Wifi: Innovadora solución inalámbrica con niveles máximos de confiabilidad: distribuye una conexión wi-fi rápida, estable e ininterrumpida de hasta 1167 mbps
-- Configuración fácil: Instale la aplicación Deco y siga las sencillas instrucciones en pantalla para configurar la red; Deco se encargará de todo, ofreciéndole el mejor rendimiento con total seguridad
-- QoS: A través de la aplicación Deco, puede asignar la prioridad correcta a cada aplicación, para mantener la fluidez incluso en caso de congestión o ralentización de la conexión a Internet
-- Control parental: La aplicación Deco también proporciona control parental, configuraciones avanzadas para la máxima seguridad de sus hijos
-- Roaming continuo: Deco creará una red unificada con un solo SSID, cuando se mueva por la casa, siempre se conectará la mejor unidad sin pérdida de señal; Deco E4 también es compatible con otros Deco
-- Cobertura escalable: Deco E4 proporciona un área de cobertura de hasta 260 m² (2-pack), para obtener más cobertura simplemente agregue una nueva unidad a su kit
-- Operación fácil: Operación fácil en la App Deco; ahora puede bloquear ciertos sitios web, suspender el acceso a Internet, programar el tiempo de navegación en Internet, solo con un toque de su dedo
+- Puissance de transmission: FCC:<30 dBm, CE:<20 dBm(2.4 GHz), <23 dBm(5 GHz)
+- RAPIDE ET STABLE MESH-ROAMING -TP-Link nouvelles technologies offrent des connexions WiFi Mesh en tri-bandes distinctes en utilisant un seul réseau, ultra-rapides et stables lorsque vous vous déplacez nimporte où dans votre maison, donc sans interrompre votre partie en ligne, votre série ou votre appels vidéo, même pour streaming 4K et gaming
+- FACILE À INSTALLER ET À GÉRER - Deco APP, suivi GDPR (Règlement général sur la protection des données), vous aide à configurer le Wifi en quelques minute et gérer tous les appareils sur votre smartphone facilement par les services et technologies: contrôle parental(surveiller et contrôler), QoS (régler et assigner les priorités de réseau pour vos appareils), etc
+- COMPATIBILITE AVEC TOUS BOX INTERNET DU MARCHE - Remplacez votre solution WiFi existante, compatible avec tous les fournisseurs daccès Internet quelle que soit la connexion (fibre optique, DSL, etc), adaptée aux débits jusquà 100Mbit/s box internet,2+2+2 port Ethernet
+- TECHNOLOGIES AVANCÉES - Un seul nom de réseau, WPA2, MU-MIMO, Beamforming, Firewall, IPV6, et plus encore
+- 100% COUVERTURE AVEC WIFI MESH -- Le pack de 3 boitiers Deco P9 offre une connexion Mesh WiFi haut débit de 1200 Mbit/s, possibilité de connecter + de 25 appareils dans votre foyer jusquà 180 ㎡ et sans zone morte, idéal pour toute la maison, surtout si murs épais grâce au CPL
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
