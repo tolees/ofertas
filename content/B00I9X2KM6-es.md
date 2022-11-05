@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DSC-WX350 - Cámara compacta de 18.2 Mp  pantalla de 3"  zoom óptico 20x  estabilizador  vídeo Full HD   rosado'
-date: 2022-11-01 07:13:27
+date: 2022-11-05 06:14:53
 image: 'https://m.media-amazon.com/images/I/41Ps7nDAX1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Controla y comparte con un solo toque con NFC y Wi-Fi
-- Cámara digital compacta con zoom óptico de 20x, sensor CMOS Exmor R de 18,2 MP, NFC y Wi-Fi
 - Sensor CMOS Exmor R
+- Controla y comparte con un solo toque con NFC y Wi-Fi
 - Lente G con zoom óptico de 20x
+- Cámara digital compacta con zoom óptico de 20x, sensor CMOS Exmor R de 18,2 MP, NFC y Wi-Fi
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
