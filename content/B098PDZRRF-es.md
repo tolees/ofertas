@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike W Revolution 6 NN  Zapatillas para Correr Mujer  Black Dk Beetroot Archaeo Pink Mtlc Mahogany White  36 EU'
-date: 2022-11-03 21:33:24
+date: 2022-11-05 12:41:08
 image: 'https://m.media-amazon.com/images/I/41AINKGUzoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatillas deportivas
 - Ligera
 - Amortiguación
+- Zapatillas deportivas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
