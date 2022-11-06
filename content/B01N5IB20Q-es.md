@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston A400 SSD Disco duro sólido interno 2.5" SATA Rev 3.0  240GB - SA400S37/240G'
-date: 2022-10-25 21:07:01
+date: 2022-11-06 05:02:48
 image: 'https://m.media-amazon.com/images/I/41UKoJx2tZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01N5IB20Q-es Kingston A400 SSD Disco duro sólido interno 2.5" SATA Rev...'
 sku: 'B01N5IB20Q-es'
 tags: [ 'Almacenamiento de datos','Almacenamiento de datos internos','Discos duros sólidos internos','Informática','kingston','🇪🇸', ]
-actualPrice: 23.56 EUR
+actualPrice: 23.49 EUR
 currency: EUR
-price: 23.56
+price: 23.49
 comparePrice: 44.99 EUR
 prodname: 'Kingston A400 SSD Disco duro sólido interno 2.5" SATA Rev 3.0  240GB - SA400S37/240G'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B01N5IB20Q/?tag=tolees-21'
-descuento: '47.63'
-average: '30.2791238670694'
+descuento: '47.79'
+average: '30.2586746987951'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rapidez en el arranque, la carga y la transferencia de archivos
-- Más fiable y resistente que un disco duro
 - Diversas capacidades, con suficiente espacio para aplicaciones o para sustituir un disco duro
+- Más fiable y resistente que un disco duro
+- Rapidez en el arranque, la carga y la transferencia de archivos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
