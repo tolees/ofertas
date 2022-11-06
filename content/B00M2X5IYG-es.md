@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intenso Slimline 64 GB USB-Stick USB 3.0 negro'
-date: 2022-11-01 13:45:54
+date: 2022-11-06 06:45:41
 image: 'https://m.media-amazon.com/images/I/411u6-KJRzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Intenso'
 buyurl: 'https://www.amazon.es/dp/B00M2X5IYG/?tag=tolees-21'
 descuento: '66.15'
-average: '8.94666666666667'
+average: '9.51'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Velocidad max. de transferencia 100 MB/S
-- Peso: ligero 2 g; Dimensiones: 20 x 15 x 7 mm.
+- Óptimo para la radio y el portátil del automóvil debido al tamaño mínimo
 - Volumen de suministro: memoria USB Intenso con cordón práctico
 - SuperSpeed USB 3.0 (compatible con versiones anteriores): la velocidad especificada solo es posible con una interfaz USB 3.0
-- Óptimo para la radio y el portátil del automóvil debido al tamaño mínimo
+- Peso: ligero 2 g; Dimensiones: 20 x 15 x 7 mm.
+- Velocidad max. de transferencia 100 MB/S
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
