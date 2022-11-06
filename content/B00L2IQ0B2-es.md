@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dintex Lámina Autoadhesiva Decorada  Vinilo  Blanco  45 cm x 1 5 m'
-date: 2022-10-23 09:00:26
+date: 2022-11-06 20:21:48
 image: 'https://m.media-amazon.com/images/I/31p8Qwok5UL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dintex'
 buyurl: 'https://www.amazon.es/dp/B00L2IQ0B2/?tag=tolees-21'
 descuento: '46.00'
-average: '4.33090909090909'
+average: '4.3525'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
