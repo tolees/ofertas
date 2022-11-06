@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger BB Cap Gorra  Blanco  Classic White 100   Talla Unica para Hombre'
-date: 2022-11-04 23:53:08
+date: 2022-11-06 00:24:58
 image: 'https://m.media-amazon.com/images/I/21IyOIdcY7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B016QM6OPK/?tag=tolees-21'
 descuento: '39.97'
-average: '27.404423076923'
+average: '27.2826415094339'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
