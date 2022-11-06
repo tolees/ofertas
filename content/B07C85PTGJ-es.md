@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuerpo: su cuerpo es de acero inoxidable lo que la hace muy atractiva e ideal para cualquier cocina
-- Jarra: la batidora BT797 lleva una jarra de cristal de 1,5 litros de capacidad; la jarra es desmontable para poder lavar fácilmente
-- Seguridad: lleva un sistema homologado de seguridad para evitar cualquier tipo de incidencia con el producto
-- Hielo: es capaz de picar hielo por lo que se pueden preparar unos riquísimos smoothies, batidos, granizados o mojitos
 - Cuchillas: en su interior cuenta con cuchillas dentadas de acero inoxidable
+- Seguridad: lleva un sistema homologado de seguridad para evitar cualquier tipo de incidencia con el producto
+- Jarra: la batidora BT797 lleva una jarra de cristal de 1,5 litros de capacidad; la jarra es desmontable para poder lavar fácilmente
+- Cuerpo: su cuerpo es de acero inoxidable lo que la hace muy atractiva e ideal para cualquier cocina
+- Hielo: es capaz de picar hielo por lo que se pueden preparar unos riquísimos smoothies, batidos, granizados o mojitos
 - Velocidades: lleva un regulador electrónico de 2 velocidades diferentes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Evita que las gafas se empañen
-- Innovador spray seguro para los ojos para renovar la película antivaho
 - Aplicación fácil, rápida y eficaz, sin necesidad de aclarado o espera
 - Contenido: 35.ml, suficiente para unas 150 aplicaciones
+- Evita que las gafas se empañen
+- Innovador spray seguro para los ojos para renovar la película antivaho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
