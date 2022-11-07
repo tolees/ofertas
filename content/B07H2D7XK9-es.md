@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC RASOIO TWIN LADY 6 PIEZAS USA Y GETTA'
-date: 2022-10-28 15:04:16
+date: 2022-11-07 16:09:11
 image: 'https://m.media-amazon.com/images/I/414bOGVviuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Número de pieza: FRCM071284
-- Punto de flash: 60.0
 - Componentes incluidos: desconocido
+- Punto de flash: 60.0
 - Dimensiones del embalaje: 2,0 x 20,0 x 9,0 cm
+- Número de pieza: FRCM071284
 
 [🛒 Comprar!!!]({{< param buyurl >}})
