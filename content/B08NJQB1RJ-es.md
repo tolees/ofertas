@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Courtright  Zapatillas Hombre  Navy Blue  42 EU'
-date: 2022-11-05 12:19:20
+date: 2022-11-07 01:37:13
 image: 'https://m.media-amazon.com/images/I/41MB7jXNUuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08NJQB1RJ/?tag=tolees-21'
 descuento: '38.20'
-average: '33.9390909090909'
+average: '33.9433333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
