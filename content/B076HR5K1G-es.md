@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 PES PNT Pantalones de Deporte  Hombre  Azul  Azul/Blanco   L'
-date: 2022-11-03 22:16:56
+date: 2022-11-07 21:35:38
 image: 'https://m.media-amazon.com/images/I/31unaOvoO7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HR5K1G/?tag=tolees-21'
 descuento: '35.89'
-average: '19.0636363636364'
+average: '18.9708333333334'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos delanteros
-- Corte cónico
 - Cintura elástica con lanyard
+- Corte cónico
+- Bolsillos delanteros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
