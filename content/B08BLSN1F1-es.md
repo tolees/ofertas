@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Hernandez  Zapatillas Hombre  Regular Black  43 EU'
-date: 2022-11-06 06:11:17
+date: 2022-11-07 13:44:50
 image: 'https://m.media-amazon.com/images/I/31eV7FAa6CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLSN1F1/?tag=tolees-21'
 descuento: '45.29'
-average: '33.3848275862068'
+average: '33.1703333333332'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
