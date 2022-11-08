@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'adidas Core18 Sw Top Pullover  Mens  Yellow  XS'
-date: 2022-11-06 00:22:23
+date: 2022-11-08 08:26:54
 image: 'https://m.media-amazon.com/images/I/416Bs7HIpYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07XCQB2FY-es adidas Core18 Sw Top Pullover Mens Yellow XS'
 sku: 'B07XCQB2FY-es'
-tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Moda','Moda Hombre','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas','🇪🇸', ]
+tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Moda','Moda Hombre','Ropa de hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas','🇪🇸', ]
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07XCQB2FY/?tag=tolees-21'
 descuento: '35.05'
-average: '30.110470588235'
+average: '30.015517241379'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños y dobladillo de canalé
 - Mangas con ribetes en contraste
-- Presenta ajuste regular
+- Puños y dobladillo de canalé
 - Cuenta con un pequeño logotipo de Adidas bordado en el pecho
+- Presenta ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

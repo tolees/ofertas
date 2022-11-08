@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'adidas Core18 Sw Top Sudadera  Hombre  Negro  Negro/Blanco   XL'
-date: 2022-10-28 07:27:34
+date: 2022-11-08 08:24:20
 image: 'https://m.media-amazon.com/images/I/51pUGISh5iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B076HR3BHS-es adidas Core18 Sw Top Sudadera Hombre Negro Negro/Blanco XL'
 sku: 'B076HR3BHS-es'
-tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Moda','Moda Hombre','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas','🇪🇸', ]
+tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Moda','Moda Hombre','Ropa de hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas','🇪🇸', ]
 actualPrice: 23.52 EUR
 currency: EUR
 price: 23.52
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HR3BHS/?tag=tolees-21'
 descuento: '41.20'
-average: '30.5351260504205'
+average: '30.2096875000002'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- adidas logo on the front
-- 3 stripes along the sleeves
-- The package dimension of the product is: 20"L x15"W x10"H
-- Regular fit
+- Presenta ajuste regular
+- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
+- Puños y dobladillo de canalé
+- Mangas con ribetes en contraste
 
 [🛒 Aquí!!!]({{< param buyurl >}})
