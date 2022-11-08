@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Polar M460HR - Ciclocomputador  sensor de frecuencia cardíaca H10 incluido  color negro  talla M'
-date: 2022-11-05 12:52:19
+date: 2022-11-08 11:08:54
 image: 'https://m.media-amazon.com/images/I/41PKldkke3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Polar'
 buyurl: 'https://www.amazon.es/dp/B06ZZJ8W28/?tag=tolees-21'
 descuento: '49.89'
-average: '147.864285714286'
+average: '143.7875'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Notificaciones del móvil
+- Incluye el sensor de frecuencia cardíaca Polar H10
 - GPS integrado y sensor barométrico
 - Strava Live Segments
-- Incluye el sensor de frecuencia cardíaca Polar H10
+- Notificaciones del móvil
 - Proporciona métricas de potencia avanzadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
