@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Hogar máquina multibebida TASSIMO STYLE  TAS1103  hasta 70 bebidas  OneTouch  servicio individual  tamaño compacto  INTELLIBREW  rojo'
-date: 2022-11-05 17:58:53
+date: 2022-11-09 09:20:57
 image: 'https://m.media-amazon.com/images/I/31R3-WM-vlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08D9PRP7S-es Bosch Hogar máquina multibebida TASSIMO STYLE TAS1103...'
 sku: 'B08D9PRP7S-es'
 tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','bosch hogar','🇪🇸', ]
-actualPrice: 25.0 EUR
+actualPrice: 24.0 EUR
 currency: EUR
-price: 25.0
+price: 24.0
 comparePrice: 38.99 EUR
 prodname: 'Bosch Hogar máquina multibebida TASSIMO STYLE  TAS1103  hasta 70 bebidas  OneTouch  servicio individual  tamaño compacto  INTELLIBREW  rojo'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Bosch Hogar'
 buyurl: 'https://www.amazon.es/dp/B08D9PRP7S/?tag=tolees-21'
-descuento: '35.88'
-average: '27.2121428571429'
+descuento: '38.45'
+average: '26.998'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
