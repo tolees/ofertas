@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Entresuela de espuma para una sensación de carrera suave
-- Parte superior de malla transpirable
 - Diseño sencillo
+- Parte superior de malla transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
