@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Disruptor kids  Zapatilla Unisex niños  Blanco  White   35 EU'
-date: 2022-11-06 11:00:50
+date: 2022-11-09 19:45:32
 image: 'https://m.media-amazon.com/images/I/41ECqPILMOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07HPCKRNN-es FILA Disruptor kids Zapatilla Unisex niños Blanco White 35 EU'
 sku: 'B07HPCKRNN-es'
 tags: [ 'Moda','Moda Niña','Zapatillas casual para niña','Zapatillas y calzado deportivo para niña','Zapatos de niña','fila','🇪🇸', ]
-actualPrice: 50.95 EUR
+actualPrice: 48.8 EUR
 currency: EUR
-price: 50.95
+price: 48.8
 comparePrice: 82.5 EUR
 prodname: 'FILA Disruptor kids  Zapatilla Unisex niños  Blanco  White   35 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B07HPCKRNN/?tag=tolees-21'
-descuento: '38.24'
-average: '55.8150000000001'
+descuento: '40.85'
+average: '55.6145714285715'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Altura del tacón: 10 milímetros
 - Forro: sintético
-- Composición del material: sintético
 - Cierre: encaje
+- Composición del material: sintético
 - Material de la suela: caucho
 - Material exterior: sintético
 
