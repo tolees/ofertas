@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Bosch Hogar - Bosch TAS1002N Tassimo Happy'
-date: 2022-10-30 09:45:25
-image: 'https://m.media-amazon.com/images/I/41xcQXX-TfL._SL500_._SL400_.jpg'
+date: 2022-11-09 12:08:58
+image: 'https://m.media-amazon.com/images/I/41ibkuD67IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09CT39KZG-es Bosch Hogar - Bosch TAS1002N Tassimo Happy'
 sku: 'B09CT39KZG-es'
 tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','bosch hogar','🇪🇸', ]
-actualPrice: 33.79 EUR
+actualPrice: 24.99 EUR
 currency: EUR
-price: 33.79
+price: 24.99
 comparePrice: 69.0 EUR
 prodname: 'Bosch Hogar - Bosch TAS1002N Tassimo Happy'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Bosch Hogar'
 buyurl: 'https://www.amazon.es/dp/B09CT39KZG/?tag=tolees-21'
-descuento: '51.03'
-average: '32.86'
+descuento: '63.78'
+average: '30.8925'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Óptima calidad de bebida gracias al Intellibrew
 - Diferentes especialidades de café preparadas individualmente
 - Apto para tazas y vasos de todos los tamaños con su reposa tazas ajustable
 - Preparación de bebidas sencilla, con un botón
+- Óptima calidad de bebida gracias al Intellibrew
 - Gran variedad de más de 40 bebidas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
