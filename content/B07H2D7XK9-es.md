@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dimensiones del embalaje: 2,0 x 20,0 x 9,0 cm
 - Componentes incluidos: desconocido
 - Número de pieza: FRCM071284
+- Dimensiones del embalaje: 2,0 x 20,0 x 9,0 cm
 - Punto de flash: 60.0
 
 [🛒 Comprar!!!]({{< param buyurl >}})
