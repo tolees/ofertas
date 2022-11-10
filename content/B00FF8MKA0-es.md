@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño compacto, enchufes con toma tierra y protección infantil
-- Adaptador de viaje y regleta de 4 salidas y 2 puertos USBCarga máxima: 3500 W (16 A)Diseño compacto, enchufes con toma tierra y protección infantil
-- Adaptador de viaje y regleta de 4 salidas y 2 puertos USB
 - Carga máxima 3500 W (16A)
+- Adaptador de viaje y regleta de 4 salidas y 2 puertos USB
+- Adaptador de viaje y regleta de 4 salidas y 2 puertos USBCarga máxima: 3500 W (16 A)Diseño compacto, enchufes con toma tierra y protección infantil
+- Diseño compacto, enchufes con toma tierra y protección infantil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
