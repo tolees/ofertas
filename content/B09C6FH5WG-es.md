@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - INCLUYEN 3 CARTAS con código QR que permiten desbloquear recompensas en la APP Lucky Bob
 - DESCUBRE LAS AVENTURAS de Lucky Bob en su canal de YouTube y conoce todos los chistes divertidos!
-- DIVERSIÓN & IMAGINACIÓN: horas de juego aseguradas con ese playset de Lucky Bob en su casa y sus multiples interacciones para recrear varias situaciones torpes del personaje
-- JUGUETES & REGALOS IDEALES para niños y niñas a partir de 3 años
 - 3 FIGURAS EXCLUSIVAS DE LUCKY BOB : divertidísimas figuras de Lucky Bob harán que los niños no paren de reírse mientras juegan con ellas
+- JUGUETES & REGALOS IDEALES para niños y niñas a partir de 3 años
+- DIVERSIÓN & IMAGINACIÓN: horas de juego aseguradas con ese playset de Lucky Bob en su casa y sus multiples interacciones para recrear varias situaciones torpes del personaje
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

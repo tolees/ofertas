@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sotya - Alcachofera 100 comprimidos'
-date: 2022-11-04 14:00:52
+date: 2022-11-10 15:12:46
 image: 'https://m.media-amazon.com/images/I/31ff0ZeVcML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sotya'
 buyurl: 'https://www.amazon.es/dp/B01FLZDW8U/?tag=tolees-21'
 descuento: '55.82'
-average: '2.46666666666667'
+average: '2.463'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Unidades: 100.0
-- De la marca sotya
 - Unidad de medida: unidad
-- Aumenta la secreción de bilis, ayudando en la digestión de grasas, ictericia e hígado perezoso
-- Diurética, reduce la urea en sangre y como depurativa
-- Reduce los niveles de colesterol, grasas y azúcar en sangre
-- Número de items: 1
 - Estimula la regeneración de las células del hígado
+- Número de items: 1
+- Aumenta la secreción de bilis, ayudando en la digestión de grasas, ictericia e hígado perezoso
+- De la marca sotya
+- Diurética, reduce la urea en sangre y como depurativa
+- Unidades: 100.0
+- Reduce los niveles de colesterol, grasas y azúcar en sangre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
