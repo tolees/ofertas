@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Materiales: 100% algodón hilado en anillo
 - Incluye una solapa oculta de 2,5 cm con abertura de cremallera
+- Materiales: 100% algodón hilado en anillo
 - Tejido: 125 GSM con tejido de satén para una sensación de mano robusta, suave y lujosa
-- Funda de edredón: 135 x 200 cm, Almohada: 50 x 80 cm x 1
 - Color: Azul oscuro
 - Fabricado en un tejido OEKO-TEX Standard 100, certificado de forma independiente para garantizar altos estándares de seguridad y medio ambiente
+- Funda de edredón: 135 x 200 cm, Almohada: 50 x 80 cm x 1
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

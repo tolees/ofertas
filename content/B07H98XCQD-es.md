@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: Gris a rayas texturizado
-- Materiales: 100% algodón hilado en anillo
 - Fabricado en un tejido OEKO-TEX Standard 100, certificado de forma independiente para garantizar altos estándares de seguridad y medio ambiente
-- Tejido: 125 GSM con tejido de satén para una sensación de mano robusta, suave y lujosa
-- Incluye una solapa oculta de 2,5 cm con abertura de cremallera
 - Funda de edredón: 155 x 200 cm, Almohada: 50 x 80 cm x 2
+- Materiales: 100% algodón hilado en anillo
+- Incluye una solapa oculta de 2,5 cm con abertura de cremallera
+- Tejido: 125 GSM con tejido de satén para una sensación de mano robusta, suave y lujosa
+- Color: Gris a rayas texturizado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

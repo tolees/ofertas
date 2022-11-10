@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho de tejido de poliéster 100 % resistente a los rayos UV, cuyo color es resistente a la decoloración. Tamaño y color a elegir.
-- El estor mide 60 por 130 cm
 - Se ajusta suave y uniformemente hacia arriba y hacia abajo para obtener la cantidad de cobertura deseada.
-- Clips para montaje incluidos; fácil de instalar y desinstalar; no requiere perforación.
 - Estor plisado para privacidad; bloquea la luz solar directa, aunque permite que pase algo de luz.
+- Clips para montaje incluidos; fácil de instalar y desinstalar; no requiere perforación.
+- El estor mide 60 por 130 cm
+- Hecho de tejido de poliéster 100 % resistente a los rayos UV, cuyo color es resistente a la decoloración. Tamaño y color a elegir.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

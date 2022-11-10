@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado en un tejido OEKO-TEX Standard 100, certificado de forma independiente para garantizar altos estándares de seguridad y medio ambiente
-- Materiales: 100% algodón hilado en anillo
-- Color: Gris oscuro
 - Tejido: 125 GSM con tejido de satén para una sensación de mano robusta, suave y lujosa
-- Funda de edredón: 140 x 200 cm, Almohada: 65 x 65 cm x 1
 - Incluye una solapa oculta de 2,5 cm con abertura de cremallera
+- Fabricado en un tejido OEKO-TEX Standard 100, certificado de forma independiente para garantizar altos estándares de seguridad y medio ambiente
+- Color: Gris oscuro
+- Funda de edredón: 140 x 200 cm, Almohada: 65 x 65 cm x 1
+- Materiales: 100% algodón hilado en anillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
