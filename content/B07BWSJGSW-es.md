@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con taladros para archivo reforzados
+- Hecho de alta calidad en nuestra fábrica en Dinamarca
+- Muy alta calidad y resistentes para proteger los DVD
 - Espacio para la carátula y solapa de cierre
 - Ahorra un 70% de espacio en tu colección DVD
-- Con taladros para archivo reforzados
-- Muy alta calidad y resistentes para proteger los DVD
-- Hecho de alta calidad en nuestra fábrica en Dinamarca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
