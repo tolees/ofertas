@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Audio de alta resolución certificado y compatible con Dolby Atmos y DTS: X
-- Potente y envolvente audio de alta resolución para películas, TV, música y juegos
 - Vataje (W): 150.0 watts
-- Bocina de alta fidelidad para cine en casa y estantería
-- Tecnología patentada Polk Power Port para bajos sin esfuerzo (< 44 Hz)
-- Postes de encuadernación chapados en oro, armario con amortiguación y rejilla antidifracción para un sonido puro
-- Altavoz de agudos terileno de alta resolución de 1 pulgada para frecuencias cristalinas de alta resolución (40 kHz+)
-- Woofer de polipropileno fortificado mica-fortificado para medios articulados, dinámicos y bajos
-- Polk Dynamic Balance - Array acústicas en cascada para un escenario de sonido espacioso y realista
 - Alta sensibilidad para compatibilidad con la mayoría de amplificadores y receptores AV (4Ω y 8Ω)
+- Woofer de polipropileno fortificado mica-fortificado para medios articulados, dinámicos y bajos
+- Potente y envolvente audio de alta resolución para películas, TV, música y juegos
+- Tecnología patentada Polk Power Port para bajos sin esfuerzo (< 44 Hz)
+- Bocina de alta fidelidad para cine en casa y estantería
+- Polk Dynamic Balance - Array acústicas en cascada para un escenario de sonido espacioso y realista
+- Audio de alta resolución certificado y compatible con Dolby Atmos y DTS: X
+- Altavoz de agudos terileno de alta resolución de 1 pulgada para frecuencias cristalinas de alta resolución (40 kHz+)
+- Postes de encuadernación chapados en oro, armario con amortiguación y rejilla antidifracción para un sonido puro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Krome Studios - Ty the Tasmanian Tiger Hd - Switch'
-date: 2022-11-08 21:11:27
+date: 2022-11-16 19:54:50
 image: 'https://m.media-amazon.com/images/I/51omPdGc-xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Krome Studios'
 buyurl: 'https://www.amazon.es/dp/B099BVNBTT/?tag=tolees-21'
 descuento: '42.87'
-average: '23.4541666666667'
+average: '23.1876923076923'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Explora los 17 niveles del interior de Australia en su vieja escuela de plataformas en 3D
 - Nuevo modo de juego llamado "Modo Hardcore"
-- Nuevo modo de juego llamado "Modo Hardcore"
 - Gráficos mejorados; incluyendo sombras actualizadas, reflejos, resoluciones de alta definición y 60 fps
+- Nuevo modo de juego llamado "Modo Hardcore"
 - 13 boomerangs diferentes, incluyendo Frostyrang, Flamerang y el potente Terrorang
 
 [🛒 Comprar!!!]({{< param buyurl >}})
