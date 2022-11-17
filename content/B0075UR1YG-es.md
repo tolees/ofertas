@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se recomienda hacer un tratamiento más intensivo en verano
 - Contiene Aloe Vera, un activo calmante y Achillea Millefolium, ingrediente que se emplea en cosmética por sus propiedades descongestivas y cicatrizantes
+- Se recomienda hacer un tratamiento más intensivo en verano
 - Gel de efecto frío especialmente formulado para aliviar la sensación de piernas y pies cansados
-- Tras su aplicación, notarás una sensación inmediata de alivio y bienestar de las piernas y pies fatigados
 - Aplicar sobre los pies limpios y secos, mañana y noche. Masajear suavemente hasta su completa absorción
+- Tras su aplicación, notarás una sensación inmediata de alivio y bienestar de las piernas y pies fatigados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
