@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 3 tiras en la parte superior
 - Suela de goma
 - Zapatos de entrenamiento en interiores y al aire libre
-- 3 tiras en la parte superior
 
 [🛒 Comprar!!!]({{< param buyurl >}})

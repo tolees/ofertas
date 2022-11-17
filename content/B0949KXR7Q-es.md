@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre con cordones
-- Suela de gofre invertida para mayor tracción
 - Marca Vans Sidestripe
+- Suela de gofre invertida para mayor tracción
 - VansGuard: ante resistente al agua
+- Cierre con cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
