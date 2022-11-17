@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Repara las grietas que aparecen por sequedad ambiental, heridas en los labios, calenturas
-- Protege e hidrata la delicada piel de los labios;
 - Suaviza y calma la piel de los labios durante la práctica de cualquier actividad al aire libre
+- Protege e hidrata la delicada piel de los labios;
 - Previene la aparición de fisuras, grietas, calenturas
+- Repara las grietas que aparecen por sequedad ambiental, heridas en los labios, calenturas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

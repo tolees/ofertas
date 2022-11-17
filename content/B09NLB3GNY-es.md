@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Arcade Paradise - PlayStation 5'
-date: 2022-11-16 12:12:25
+date: 2022-11-17 14:11:24
 image: 'https://m.media-amazon.com/images/I/41KefGZULIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09NLB3GNY/?tag=tolees-21'
 descuento: '40.02'
-average: '19.7042857142857'
+average: '19.115'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Banda sonora digital
 - Pegatinas
-- Póster
+- Banda sonora digital
 - Incluye:
+- Póster
 
 [🛒 Aquí!!!]({{< param buyurl >}})

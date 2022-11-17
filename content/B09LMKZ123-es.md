@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Composición del material: material exterior: 100% poliéster; forro: 100% poliéster; material de relleno: 100% poliéster; manga: 100% poliéster
-- Parka
-- Tejido pesado
 - Parte frontal con botones
+- Tejido pesado
+- Parka
 
 [🛒 Aquí!!!]({{< param buyurl >}})
