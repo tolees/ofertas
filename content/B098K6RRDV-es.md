@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Straight leg
 - Pantalones vaqueros sostenibles
+- Straight leg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

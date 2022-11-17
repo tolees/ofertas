@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica con cordón ajustable.
-- Bolsillos de ojal en las costuras laterales.
-- Inserción de canalé en la entrepierna.
 - Tienen dos bolsillos laterales
+- Inserción de canalé en la entrepierna.
+- Bolsillos de ojal en las costuras laterales.
+- Cintura elástica con cordón ajustable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

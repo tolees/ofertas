@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles del ciclista por encima de ambas rodillas.
 - Composición: 77% viscosa, 20% nailon, 3% elastano
-- Jeans Skinny recubiertos.
+- Detalles del ciclista por encima de ambas rodillas.
 - Cintura normal.
+- Jeans Skinny recubiertos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

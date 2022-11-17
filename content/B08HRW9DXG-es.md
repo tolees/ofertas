@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Analógico para Unisex adulto
 - 11 milimetros calendario Sin cierre a presion plegable
 - CASIO Modelo CASIO DATA BANK
-- Analógico para Unisex adulto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

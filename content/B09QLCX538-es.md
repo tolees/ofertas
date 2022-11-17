@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- HEAVY SOFT SWEAT
 - HEAVY SOFT HOODIE SWEATSHIRT. CUFFS AND BOTTOM FINISHED BY RIBS. BIG PRINTED LOGO AT CHEST. SMALL PRINTED FLAG AT SLEEVE. FRONT POCKETS.
+- HEAVY SOFT SWEAT
 
 [🛒 Aquí!!!]({{< param buyurl >}})
