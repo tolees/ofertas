@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Bobs Squad Tough Talk  Zapatillas Mujer  Red Engineered Knit/White Outsole  39 EU'
-date: 2022-11-17 09:45:29
+date: 2022-11-18 10:16:11
 image: 'https://m.media-amazon.com/images/I/41PrF46Bc5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento: Sintético
-- Material de la suela: Caucho
+- outer material: synthetic
+- ; Target gender: female
+- leather outsole
+- closure: lace-up
+- heel type: flat
+- lining: synthetic
+- memory foam
+- sole material: rubber
+- shoe width: medium
+- machine washable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
