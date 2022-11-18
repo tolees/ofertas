@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Mucho espacio para tus datos: capacidad de almacenamiento de hasta 64 GB para tus archivos más importantes que debes tener a mano.
 - Alto rendimiento: se puede copiar un archivo de 4 GB desde la unidad flash USB tipo-C a tu ordenador o portátil en aproximadamente 15 segundos.
 - Grandes prestaciones: memoria con velocidad de lectura de hasta 300 MB/s y velocidad de escritura de hasta 30 MB/s con interfaz USB 3.1 (compatible con USB 3.0 y 2.0).
-- Mucho espacio para tus datos: capacidad de almacenamiento de hasta 64 GB para tus archivos más importantes que debes tener a mano.
 - Fiabilidad comprobada gracias a la protección múltiple de la memoria USB: resistente al agua, a prueba de golpes, imanes, altas temperaturas y rayos X.
 - Máxima compatibilidad: Conexión USB tipo-C para uso en PCs, portátiles, smartphones y tablets.
 

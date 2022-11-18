@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Speed-Preselection de Bosch: preselección y control electrónicos del número de revoluciones mediante un pulsador de conmutación y rueda de ajuste para un trabajo adecuado al tipo de material y preciso, por ejemplo, al inicio de la perforación de superficies lisas o en trabajos de atornillado
 - Portabrocas de sujeción rápida con Auto-Lock de Bosch para un cambio de broca con la máxima rapidez y facilidad
-- El modelo Universal Impact 800 con la función Kickback Control de Bosch es versátil, potente y fácil de controlar
-- Resultados óptimos gracias a la Electrónica Constante de Bosch: el número de revoluciones se mantiene constante automáticamente, incluso bajo carga
-- Potencia de perforación elevada para una versatilidad sin parangón; gracias al potente motor de 800 vatios y al mecanismo de impacto dispondrá de la herramienta adecuada para cualquier trabajo que desee acometer, para todos los materiales, incluso hormigón
-- Gracias a la función Kickback Control de Bosch, el sensor integrado desconecta la máquina en caso de bloqueo y ofrece una elevada protección del usuario
 - Incluye: taladro de percusión Universal Impact 800, empuñadura adicional, tope de profundidad y maletín de transporte
+- Speed-Preselection de Bosch: preselección y control electrónicos del número de revoluciones mediante un pulsador de conmutación y rueda de ajuste para un trabajo adecuado al tipo de material y preciso, por ejemplo, al inicio de la perforación de superficies lisas o en trabajos de atornillado
+- Gracias a la función Kickback Control de Bosch, el sensor integrado desconecta la máquina en caso de bloqueo y ofrece una elevada protección del usuario
+- Potencia de perforación elevada para una versatilidad sin parangón; gracias al potente motor de 800 vatios y al mecanismo de impacto dispondrá de la herramienta adecuada para cualquier trabajo que desee acometer, para todos los materiales, incluso hormigón
+- Resultados óptimos gracias a la Electrónica Constante de Bosch: el número de revoluciones se mantiene constante automáticamente, incluso bajo carga
+- El modelo Universal Impact 800 con la función Kickback Control de Bosch es versátil, potente y fácil de controlar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
