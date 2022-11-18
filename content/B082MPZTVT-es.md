@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: Tuerca a presión.
-- Plata de Ley 925 contrastada en un Laboratorio Oficial en España.
 - Para las más guerreras. para las poderosas. el Pendiente Suelto Rayo va a convertirse en uno de tus Piercings imprescindibles. Hecho en Plata de Ley 925 es ideal para llevarlo como segundo pendiente en la oreja.
+- Cierre: Tuerca a presión.
 - Detalle: Rayo de 0.7 cm.
 - Baño de Rodio.
+- Plata de Ley 925 contrastada en un Laboratorio Oficial en España.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
