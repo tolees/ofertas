@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Square Enix Limited - Neo:The World Ends With You Switch ESP'
-date: 2022-11-18 19:37:55
+date: 2022-11-19 20:17:23
 image: 'https://m.media-amazon.com/images/I/51QlclYD1rS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Square Enix Limited'
 buyurl: 'https://www.amazon.es/dp/B093M1NZH8/?tag=tolees-21'
 descuento: '37.71'
-average: '46.0725'
+average: '45.5976923076923'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Obtendras mucha diversión
-- Excelentes gráficos
 - Una experiencia única
-- Personajes variados con una historia interesante
 - Accesible para todos
+- Personajes variados con una historia interesante
+- Excelentes gráficos
+- Obtendras mucha diversión
 
 [🛒 Aquí!!!]({{< param buyurl >}})
