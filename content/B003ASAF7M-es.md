@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Bosch PST 700 E - Sierra de calar con maletín  1 x hoja de sierra  500 W  500 – 3.100 cpm  1.7 Kg '
-date: 2022-11-18 11:54:42
+date: 2022-11-19 15:23:10
 image: 'https://m.media-amazon.com/images/I/41++N5gIFWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B003ASAF7M/?tag=tolees-21'
 descuento: '37.50'
-average: '60.1507142857143'
+average: '59.4733333333334'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con tamaño compacto, peso reducido y manejabilidad para un gran comodidad al usuario y un control máximo de la herramienta
 - Incluye: sierra de calar PST 700E y maletín de transporte
 - Con función de soplado de aire (conexión adicional) para una vista clara de la línea de corte en todo momento
 - Potente motor de 500 W y profundidad de corte de 70 mm en madera: permite realizar con facilidad incluso los trabajos más pesados
-- Precisión en todos los materiales gracias al probado control electrónico de Bosch: control del número de carreras mediante el pulsador de conmutación para un inicio sencillo del corte y para trabajar en función del tipo de material
-- Con tamaño compacto, peso reducido y manejabilidad para un gran comodidad al usuario y un control máximo de la herramienta
 - El SDS de Bosch facilita un cambio de la hoja de sierra seguro y sin esfuerzo en cuestión de segundos y sin herramientas
+- Precisión en todos los materiales gracias al probado control electrónico de Bosch: control del número de carreras mediante el pulsador de conmutación para un inicio sencillo del corte y para trabajar en función del tipo de material
 
 [🛒 Visítala!!!]({{< param buyurl >}})

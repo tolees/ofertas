@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG Strix XG43UQ - Monitor Gaming de 43" 4K UHD  3840x2160  VA  16:9  HDMI v2.1 x2  v2.0 x2  Display Port  USB 3.0 x2  144 Hz  1 ms MPRT  ELMB  AMD FreeSync Premium Pro  DisplayHDR 1000   Negro'
-date: 2022-11-17 14:49:14
+date: 2022-11-19 15:15:53
 image: 'https://m.media-amazon.com/images/I/41KvmRfeitS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B08XXS3M72/?tag=tolees-21'
 descuento: '39.96'
-average: '1112.392'
+average: '1076.99166666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FreeSync Premium Pro ofrece gráficos HDR fluidos con los ajustes más altos y una latencia baja.
-- Salida Full HD (1920x1080) a 120 Hz en PS5; salida Full HD y 1440P (2560x1440) a 120 Hz VRR en Xbox Series X/S
-- El panel mate antirreflejos reduce las distracciones mientras juegas o ves películas.
-- La tecnología ASUS Extreme Low Motion Blur Sync (ELMB Sync) combina ELMB y refresco variable para jugar con nitidez a frecuencias de cuadro más altas y eliminar los habituales defectos gráficos.
 - Monitor gaming de 43” con resolución 4K UHD (3840x2160 pixeles) para unas imágenes increíblemente nítidas y detalladas
 - Frecuencia de actualización de 144 Hz y tiempo de respuesta de 1 ms: elimine el desgarro de la pantalla y las velocidades de fotogramas entrecortadas, óptimo para disfrutar de los juegos con una experiencia fluida.
+- El panel mate antirreflejos reduce las distracciones mientras juegas o ves películas.
+- Salida Full HD (1920x1080) a 120 Hz en PS5; salida Full HD y 1440P (2560x1440) a 120 Hz VRR en Xbox Series X/S
+- La tecnología ASUS Extreme Low Motion Blur Sync (ELMB Sync) combina ELMB y refresco variable para jugar con nitidez a frecuencias de cuadro más altas y eliminar los habituales defectos gráficos.
+- FreeSync Premium Pro ofrece gráficos HDR fluidos con los ajustes más altos y una latencia baja.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
