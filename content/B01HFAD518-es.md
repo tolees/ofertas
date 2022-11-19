@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Merrell Moab 2 GTX  Zapatillas de Senderismo Hombre  Gris  Beluga   44 EU'
-date: 2022-11-17 03:25:19
+date: 2022-11-18 23:14:53
 image: 'https://m.media-amazon.com/images/I/31F94YD+g7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Merrell'
 buyurl: 'https://www.amazon.es/dp/B01HFAD518/?tag=tolees-21'
 descuento: '35.60'
-average: '75.81'
+average: '77.20125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela resistente y duradero
 - Diseño ligero
+- Material de la suela resistente y duradero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Potencia óptima para cada parte del cuerpo con la tecnología Skin pro (SensoAdaptTM), similar a la de un salón de belleza y que se adapta automática y continuamente al tono de tu piel
-- Varios cabezales para un tratamiento de pies a cabeza. Cabezal estándar para las axilas y la parte inferior de las piernas y cabezal de precisión para el rostro y la zona del bikini
 - Suave con la piel gracias al modo suave que reduce la intensidad de la luz para un tratamiento más suave en zonas sensibles como el rostro, las axilas o la zona del bikini
+- Varios cabezales para un tratamiento de pies a cabeza. Cabezal estándar para las axilas y la parte inferior de las piernas y cabezal de precisión para el rostro y la zona del bikini
 - Hasta 100 disparos por minuto para un tratamiento sin esfuerzo para que no te quedes con zonas por depilar
 - Reducción del vello visible en solo 3 meses (si se utiliza según los pasos recomendados; los resultados individuales pueden variar). Rápida, precisa y suave con la piel
 

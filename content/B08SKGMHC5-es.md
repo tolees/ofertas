@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El corte permite desarrollar actividades deportivas y su diseño otorga libertad a los movimientos
-- Tiene detalles distintivos de la marca
 - Ropa deportiva que se adapta a cualquier actividad deportiva
+- Tiene detalles distintivos de la marca
 - Diseño ligero que ofrece comodidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
