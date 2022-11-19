@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Huntsman Elite - Teclado Gaming  Rápido  Switches Optomecánicos De Razer  Retroiluminación RGB Chroma  Dial Digital Multifunción  Reposamuñecas Ergonómico  Teclado Español - Negro'
-date: 2022-11-18 00:51:32
+date: 2022-11-19 08:07:09
 image: 'https://m.media-amazon.com/images/I/41n94hJOzCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Razer'
 buyurl: 'https://www.amazon.es/dp/B07CZ6R7VK/?tag=tolees-21'
 descuento: '56.81'
-average: '148.712666666667'
+average: '145.08625'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Switches optomecánicos de Razer: Los switches optomecánicos de Razer emplean tecnología óptica, junto con un diseño de switches para ofrecer un accionamiento a la velocidad de la luz; además, gracias a un accionamiento óptico con menor contacto físico, obtendrás una durabilidad de hasta 100 millones de pulsaciones
-- Accionamiento óptico: Con un accionamiento óptico que permite un accionamiento y restablecimiento en el mismo punto exacto, acumularás más pulsaciones a una velocidad óptima muy útil adecuadamente para aquellos jugadores que necesitan pulsar teclas repetidamente
 - Barra estabilizadora de teclas: Una barra estabilizadora de teclas en la parte superior del switch asegura que el movimiento de la tecla se mantenga nivelado y consistente, independientemente de la parte de la tecla que presiones; disfruta de la respuesta táctil habitual de un teclado mecánico sin resistencia durante el accionamiento, lo que mantiene la ligereza y el equilibrio de cada pulsación
 - Dial digital multifunción: Razer Huntsman Elite ofrece una funcionalidad completa gracias a los controles del teclado: desde el brillo al volumen a través del dial digital multifunción programable con tres teclas multimedia táctiles; todo esto se puede programar y personalizar con Synapse 3
+- Accionamiento óptico: Con un accionamiento óptico que permite un accionamiento y restablecimiento en el mismo punto exacto, acumularás más pulsaciones a una velocidad óptima muy útil adecuadamente para aquellos jugadores que necesitan pulsar teclas repetidamente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

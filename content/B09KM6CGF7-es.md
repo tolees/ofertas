@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Ashwalkers Survivor’s Edition'
-date: 2022-11-16 19:50:08
+date: 2022-11-19 07:05:16
 image: 'https://m.media-amazon.com/images/I/41+n2YUEcGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09KM6CGF7/?tag=tolees-21'
 descuento: '40.01'
-average: '23.72'
+average: '22.765'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Discover new paths on each roughly 2 hour-long playthrough
-- Four distinct characters, 34 different endings depending on your choices
 - Find food, manage equipment and ration medication to keep the group from succumbing to madness and despair
-- Face complex moral dilemmas and make meaningful decisions
+- Four distinct characters, 34 different endings depending on your choices
 - Travel and learn about this hostile world destroyed by a volcanic apocalypse
+- Discover new paths on each roughly 2 hour-long playthrough
+- Face complex moral dilemmas and make meaningful decisions
 
 [🛒 Visítala!!!]({{< param buyurl >}})
