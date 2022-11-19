@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers DYNAMIGHT 2.0 FULL PACE  Zapatillas Deportivas Hombre  Negro  BKW   42 EU'
-date: 2022-11-18 10:16:59
+date: 2022-11-19 10:24:02
 image: 'https://m.media-amazon.com/images/I/31DTFkGKAHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B08QDC45MK/?tag=tolees-21'
 descuento: '37.81'
-average: '41.3314285714286'
+average: '41.6025'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

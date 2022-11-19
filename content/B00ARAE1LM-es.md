@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este elegante boli BIC destaca por su delicado diseño cónico y por el clip metálico que permite engancharlo a un cuaderno
-- Esta caja contiene 12 bolígrafos recargables BIC Atlantis Soft en azul
-- La escritura es mucho más fluida con el sistema de tinta Easy Glide y su bola media de 1,0 mm
-- Su suave grip de goma ofrece un hermoso agarre para tomar notas, subrayar y dibujar con facilidad
 - No vuelvas a perder el capuchón de tu boli con este BIC de punta retráctil en un solo clic
+- Esta caja contiene 12 bolígrafos recargables BIC Atlantis Soft en azul
+- Su suave grip de goma ofrece un hermoso agarre para tomar notas, subrayar y dibujar con facilidad
+- Este elegante boli BIC destaca por su delicado diseño cónico y por el clip metálico que permite engancharlo a un cuaderno
+- La escritura es mucho más fluida con el sistema de tinta Easy Glide y su bola media de 1,0 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
