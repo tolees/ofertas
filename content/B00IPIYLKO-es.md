@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Bosch PSM 200 AES - Multilijadora  2 hojas de lija  placa lijadora rectangular  maletín de transporte  200 W'
-date: 2022-11-18 01:09:01
+date: 2022-11-19 18:37:51
 image: 'https://m.media-amazon.com/images/I/41uFM68F4SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B00IPIYLKO/?tag=tolees-21'
 descuento: '54.27'
-average: '77.476'
+average: '74.395'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lijado eficiente de superficies grandes con la placa lijadora rectangular
-- Suministro de serie: PSM 200 AES, placa lijadora rectangular, hoja de lija K80 (con forma de plancha), hoja de multilija K80 (rectangular), maletín de transporte (3165140717946)
 - Idónea para trabajar en esquinas, cantos y superficies de tamaño medio con la placa lijadora triangular
-- Multilijadora PSM 200 AES: una todoterreno versátil y ligera
 - Cómodo trabajo en función del tipo de material mediante el preajuste de revoluciones progresivo y el motor de 200 W de vibración reducida
+- Suministro de serie: PSM 200 AES, placa lijadora rectangular, hoja de lija K80 (con forma de plancha), hoja de multilija K80 (rectangular), maletín de transporte (3165140717946)
+- Multilijadora PSM 200 AES: una todoterreno versátil y ligera
+- Lijado eficiente de superficies grandes con la placa lijadora rectangular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

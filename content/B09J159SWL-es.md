@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 980 Pro 1TB  hasta 7.000 MB/s  PCIe 4.0 NVMe M.2  2280   SSD Interno con disipador para Consola de Videojuegos  multicolour  MZ-V8P1T0 '
-date: 2022-11-17 17:49:47
+date: 2022-11-19 18:48:35
 image: 'https://m.media-amazon.com/images/I/31pfONwxcZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B09J159SWL/?tag=tolees-21'
 descuento: '46.02'
-average: '152.077647058824'
+average: '150.406111111112'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
