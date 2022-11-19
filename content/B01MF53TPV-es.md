@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo: zapatillas de running
-- Material de la suela: goma
 - Material interior: tela
-- Material exterior: material sintético
 - Cierre: cordones
+- Material exterior: material sintético
+- Material de la suela: goma
+- Estilo: zapatillas de running
 
 [🛒 Aquí!!!]({{< param buyurl >}})
