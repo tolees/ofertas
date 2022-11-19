@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Shuffle  Zapatillas Deportivas Unisex Adulto  White White Peacoat Team Gold  46 EU'
-date: 2022-11-17 18:02:54
+date: 2022-11-18 21:05:47
 image: 'https://m.media-amazon.com/images/I/31xGR1LlQYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B088RGNFDN/?tag=tolees-21'
 descuento: '39.96'
-average: '32.155'
+average: '32.4333333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
