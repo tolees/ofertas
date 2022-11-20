@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo PUMA en el costado y la lengüeta
 - Franja PUMA en el medio y los costados
 - Logotipo PUMA Cat en el talón
+- Logotipo PUMA en el costado y la lengüeta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fácil configuración en pocos minutos: la aplicación WiFi Tenda te ayuda a configurar y controlar el sistema Nova en poco tiempo. Se puede añadir una Nova Station adicional en solo tres pasos. El MW12 puede ampliarse hasta 12 estaciones (2200 m²).
-- Compatible con Amazon Alexa: controla tu red doméstica por voz y descubre las ventajas del control de voz de aplicaciones y dispositivos.
 - Disfruta de la mejor recepción Wi-Fi en cada rincón: el Nova MW12 es ideal para reemplazar tu repetidor WiFi o adaptador Powerline. El MW12 es una solución completa WiFi para tu hogar y es compatible con todos los proveedores de Internet. El MW12 (set de 2) cubre una superficie de 400 m² con WiFi.
 - Raoming sin interrupciones para todos: todas las estaciones Nova trabajan juntos para ofrecerte una experiencia inalámbrica sin problemas. El sistema Nova cambia automáticamente a la estación más densa cuando te mueves por la casa.
+- Compatible con Amazon Alexa: controla tu red doméstica por voz y descubre las ventajas del control de voz de aplicaciones y dispositivos.
 - Máximo rendimiento y plena flexibilidad: el Nova MW12 crea una red Wi-Fi grande y sin problemas para todos tus dispositivos, incluso más allá de los pisos. El MW12 admite hasta 100 dispositivos en la red al mismo tiempo. También disfruta de velocidades WiFi AC2100, ideal para la transmisión de vídeo 4K y juegos en línea exigentes.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
