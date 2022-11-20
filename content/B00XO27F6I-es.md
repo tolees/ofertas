@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contribuye a mantener y aumentar la masa muscular
-- El colágeno es la proteína más abundante en el cuerpo humano
 - El magnesio contribuye a disminuir el cansancio y la fatiga
+- El colágeno es la proteína más abundante en el cuerpo humano
 - El colágeno con magnesio interviene en la regeneración del tejido osteomuscular
 - El colágeno con magnesio contribuye a la salud del tejido conectivo como la piel, cabello y uñas.
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Omini Kappa bordado el pecho y Kappa impreso en la pierna izquierda
-- Proporciona libertad de movimiento
-- Ajuste óptimo
 - Elástico en la cintura y puños acanalados en las mangas
+- Omini Kappa bordado el pecho y Kappa impreso en la pierna izquierda
+- Ajuste óptimo
+- Proporciona libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

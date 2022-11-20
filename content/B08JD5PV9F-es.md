@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Large loop easily attaches to key rings
-- Practical cap protects the USB plug
 - Multiple colour options by capacity
+- Practical cap protects the USB plug
+- Large loop easily attaches to key rings
 
 [🛒 Comprar!!!]({{< param buyurl >}})

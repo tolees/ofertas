@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Rodamientos de bolas sellados para una rotación uniforme de la comba.
-- Comba de longitud ajustable para practicar ejercicio y velocidad.
 - La comba mide 3,2 m de longitud (como máximo) y se puede ajustar a cualquier longitud.
 - Mangos de plástico moldeados con cómoda empuñadura de espuma.
+- Comba de longitud ajustable para practicar ejercicio y velocidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
