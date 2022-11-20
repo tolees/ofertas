@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Showtheway 2.0  Zapatillas Unisex Adulto  FTWR White Chalk White Chalk White  37 1/3 EU'
-date: 2022-11-19 04:12:28
+date: 2022-11-20 05:01:24
 image: 'https://m.media-amazon.com/images/I/31d45AI7WWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B09NL3HKZ1/?tag=tolees-21'
 descuento: '42.73'
-average: '32.7714285714285'
+average: '32.6124999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

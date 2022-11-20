@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera frontal, bordes con banda elástica, pantalones con cintura elástica con cordón interior y bolsillos sin cremallera
-- Corte regular
 - Chándal de punto para hombre
 - Logotipo Omini en las mangas y texto Kappa en la parte delantera y en el lateral
+- Cremallera frontal, bordes con banda elástica, pantalones con cintura elástica con cordón interior y bolsillos sin cremallera
+- Corte regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
