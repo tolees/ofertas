@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G Driving Force Palanca de Cambio para Volantes de Carreras G29 y G920  6 Velocidades  Marcha Atrás a Presion  Acero y Cuero  PS4/Xbox One/PC/Mac - Negro'
-date: 2022-11-18 00:41:30
+date: 2022-11-20 11:13:22
 image: 'https://m.media-amazon.com/images/I/41xwa5tyvHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00ZWOUH4S-es Logitech G Driving Force Palanca de Cambio para Volantes...'
 sku: 'B00ZWOUH4S-es'
 tags: [ 'Accesorios para Juegos PC','Joysticks para PC','Juegos y Accesorios para PC','Mandos de juego para PC','Videojuegos','logitech g','🇪🇸', ]
-actualPrice: 29.99 EUR
+actualPrice: 29.98 EUR
 currency: EUR
-price: 29.99
+price: 29.98
 comparePrice: 59.99 EUR
 prodname: 'Logitech G Driving Force Palanca de Cambio para Volantes de Carreras G29 y G920  6 Velocidades  Marcha Atrás a Presion  Acero y Cuero  PS4/Xbox One/PC/Mac - Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Logitech G'
 buyurl: 'https://www.amazon.es/dp/B00ZWOUH4S/?tag=tolees-21'
-descuento: '50.01'
-average: '38.3708'
+descuento: '50.03'
+average: '38.2877227722772'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

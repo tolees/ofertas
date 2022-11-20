@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER KX1650-QS  Decapador Térmico 1.750 W hasta 600˚C 230 V  Caudal de 570 a 740 L/min  Cable de 2 m  Soporte Incluído'
-date: 2022-11-18 10:33:24
+date: 2022-11-20 11:17:32
 image: 'https://m.media-amazon.com/images/I/41sFM2+7dES._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Black+Decker'
 buyurl: 'https://www.amazon.es/dp/B004XZFZL2/?tag=tolees-21'
 descuento: '48.61'
-average: '27.054'
+average: '25.71'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Decapador de 1750w con cable de 2 metros de longitud
-- 2 ajustes de calor 450 - 600 °c y flujo de aire de 570-740 l/min para un mayor control en diferentes aplicaciones
 - Soporte incluido para aplicaciones manos libres
+- 2 ajustes de calor 450 - 600 °c y flujo de aire de 570-740 l/min para un mayor control en diferentes aplicaciones
 - Pistola de aire caliente ideal para la remoción de pintura, barnices y adhesivos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Micrófono de condensador con salida USB para grabación digital
+- Control Mix que permite mezclar la señal microfónica con audio pregrabado
 - Amplificador de auriculares interno de alto nivel de salida
 - Conversor A/D de alta calidad con resolución de 16 bit y frecuencia de muestreo de 44.1/48 kHz
-- Control Mix que permite mezclar la señal microfónica con audio pregrabado
-- Micrófono de condensador con salida USB para grabación digital
 
 [🛒 Comprar!!!]({{< param buyurl >}})
