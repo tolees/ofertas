@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 525 Core  Zapatillas Deportivas Hombre  Gris  Grey   36 EU'
-date: 2022-11-19 17:53:00
+date: 2022-11-20 18:30:13
 image: 'https://m.media-amazon.com/images/I/31srJPfVE9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B07BWK7JZH/?tag=tolees-21'
 descuento: '43.12'
-average: '48.358'
+average: '48.0981818181818'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material interior: tela
-- Cierre: cordones
 - Material exterior: material sintético
-- Estilo: zapatillas de running
+- Cierre: cordones
+- Material interior: tela
 - Material de la suela: goma
+- Estilo: zapatillas de running
 
 [🛒 Visítala!!!]({{< param buyurl >}})
