@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Blusa larga y de corte ancho para mujer
 - Blusa monocolor de manga larga con un cuello y una tira de botones en el centro delantero
+- Blusa larga y de corte ancho para mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})

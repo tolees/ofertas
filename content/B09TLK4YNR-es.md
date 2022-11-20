@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alta potencia de 700W con indicadores de funcionamiento y calentamiento que te mostraran la situación del proceso en todo momento.
-- Máxima seguridad gracias a su asa de toque frío y pies antideslizantes de gran estabilidad.
-- Sandwichera eléctrica con placas grill de 23 x 14.5 cm con recubrimiento antiadherente de fácil limpieza.
-- Tamaño compacto y cierre con bloqueo de placas apto para el almacenamiento vertical.
 - Su placa superior es auto ajustable para que se adapte a todo tipo de alimentos.
+- Máxima seguridad gracias a su asa de toque frío y pies antideslizantes de gran estabilidad.
+- Alta potencia de 700W con indicadores de funcionamiento y calentamiento que te mostraran la situación del proceso en todo momento.
+- Tamaño compacto y cierre con bloqueo de placas apto para el almacenamiento vertical.
+- Sandwichera eléctrica con placas grill de 23 x 14.5 cm con recubrimiento antiadherente de fácil limpieza.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

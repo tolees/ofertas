@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrecen un estilo deportivo
 - Con plantilla desmontable
+- Ofrecen un estilo deportivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

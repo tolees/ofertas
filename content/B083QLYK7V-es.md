@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Batería duradera hasta 450 cortes con una sola carga de batería gracias a la potente batería integrada
 - Cortes suaves y limpios utiliza las tijeras de jardín para obtener cortes limpios en ramas gruesas y delgadas a la vez que favorece el crecimiento saludable de las plantas gracias a las cuchillas de acero inoxidable
+- Batería duradera hasta 450 cortes con una sola carga de batería gracias a la potente batería integrada
 - Cortar y podar ramas sin esfuerzo con la función power-assisted corte sencillo de ramas de hasta 25. Mm gracias al motor eléctrico
 - Carga fácil utiliza el cable micro usbc para cargar la herramienta en cualquier lugar; una luz indicará el momento en que la batería se haya cargado por completo
 - Las herramientas easy de bosch para jardín una gran ayuda para pequeños proyectos

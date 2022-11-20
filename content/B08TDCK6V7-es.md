@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 100% Cacao de cultivo sostenible seleccionado a través de Nestle Cocoa Plan, certificado Rainforestt
+- Nestle Extrafino se produce desde 1966 en La Penilla, Cantabria siguiendo un proceso tradicional
+- Con auténtica galleta TOSTARICA
 - Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica
 - Delicioso chocolate con leche Nestle Extrafino con relleno cremoso y trocitos de galleta Tosta Rica
-- 100% Cacao de cultivo sostenible seleccionado a través de Nestle Cocoa Plan, certificado Rainforestt
-- Con auténtica galleta TOSTARICA
-- Nestle Extrafino se produce desde 1966 en La Penilla, Cantabria siguiendo un proceso tradicional
 
 [🛒 Visítala!!!]({{< param buyurl >}})
