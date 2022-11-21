@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones NOS Jfwstellar Mesh Noos  Zapatillas Hombre  Azul  Majolica Blue   43 EU'
-date: 2022-11-19 17:52:26
+date: 2022-11-20 22:53:43
 image: 'https://m.media-amazon.com/images/I/31T3d3r8pML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatillas monocromáticas para hombre con cordones
-- Zapatillas oscuras con suela de goma blanca plana
+- Dark trainers with a flat, white rubber sole
+- Plain mens trainers with laces
 
 [🛒 Aquí!!!]({{< param buyurl >}})

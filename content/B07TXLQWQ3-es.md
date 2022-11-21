@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Naranja  Orange Melon   43 EU'
-date: 2022-11-19 04:11:38
+date: 2022-11-20 22:56:31
 image: 'https://m.media-amazon.com/images/I/418RvYfoRQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07TXLQWQ3-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Naranja...'
 sku: 'B07TXLQWQ3-es'
 tags: [ 'Moda','Moda Mujer','Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos para mujer','superga','🇪🇸', ]
-actualPrice: 21.98 EUR
+actualPrice: 21.07 EUR
 currency: EUR
-price: 21.98
+price: 21.07
 comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Naranja  Orange Melon   43 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B07TXLQWQ3/?tag=tolees-21'
-descuento: '62.75'
-average: '26.1804347826086'
+descuento: '64.29'
+average: '26.0717021276595'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
