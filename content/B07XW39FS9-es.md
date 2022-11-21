@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Figura Hall of Armor Iron Man Mark IV 8 cm. Iron Man 3. Beast Kingdom Toys. Mini Egg Attack. con luz  MEA-015D '
-date: 2022-11-19 15:47:13
+date: 2022-11-21 19:16:46
 image: 'https://m.media-amazon.com/images/I/41ZyclwDMcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto con licencia oficial
-- Añade a tu colección Marvel, esta original figura de Iron Man
-- Inspirada en el superhéroe Iron Man
 - Fabricada en PVC, mide unos 8 cm
+- Añade a tu colección Marvel, esta original figura de Iron Man
+- Producto con licencia oficial
+- Inspirada en el superhéroe Iron Man
 
 [🛒 Comprar!!!]({{< param buyurl >}})

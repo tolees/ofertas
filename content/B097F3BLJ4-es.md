@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS · Gafas de sol TOX para hombre y mujer · DIAMOND BLACK · ROSE GOLD'
-date: 2022-11-20 13:40:40
+date: 2022-11-21 18:48:30
 image: 'https://m.media-amazon.com/images/I/31tOjsYJJbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - TOX - DIAMOND BLACK ROSE GOLD
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
-- Incluye: caja de cartón reciclada y reciclable, pegatinas y funda de microfibra
 - Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
 - Modelo Unisex. Medidas: Frontal 141 mm, Patillas 145 mm, Puente 21 mm, Diámetro de Lente 52 mm
+- Incluye: caja de cartón reciclada y reciclable, pegatinas y funda de microfibra
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
