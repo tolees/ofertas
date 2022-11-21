@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER A7063-QZ Kit de 77 herramientas para automóvil'
-date: 2022-11-18 21:25:54
+date: 2022-11-21 07:56:18
 image: 'https://m.media-amazon.com/images/I/41dyiNGk-uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Black+Decker'
 buyurl: 'https://www.amazon.es/dp/B003NE4USI/?tag=tolees-21'
 descuento: '50.65'
-average: '32.2846464646464'
+average: '32.2377386934673'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Reductor de 6.35 mm para llaves de vaso
-- Alicates largos con empuñadura engomada
-- Llaves fijas para tuercas de 8, 10, 12 y 13 mm
 - Llaves de vaso de 6, 8, 10, 11, 13, 15 y 17 mm
-- Llaves allen de 2 x 0.9, 2 x 1.27, 1.5, 2, 2.5, 3, 3.5, 4, 5 y 6 mm
+- Llaves fijas para tuercas de 8, 10, 12 y 13 mm
 - Uso: para todas las aplicaciones comunes de atornillado de bricolaje
+- Alicates largos con empuñadura engomada
+- Reductor de 6.35 mm para llaves de vaso
+- Llaves allen de 2 x 0.9, 2 x 1.27, 1.5, 2, 2.5, 3, 3.5, 4, 5 y 6 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
