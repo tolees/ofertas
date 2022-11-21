@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Horipad negro  Nintendo Switch '
-date: 2022-11-19 09:04:33
+date: 2022-11-21 08:31:18
 image: 'https://m.media-amazon.com/images/I/41zDuqoDvKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'hori'
 buyurl: 'https://www.amazon.es/dp/B01NAUATSM/?tag=tolees-21'
 descuento: '43.35'
-average: '16.7332258064516'
+average: '16.74125'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 - Diseño ergonómico y cuerpo extragrande para un agarre seguro
 - Cruceta extraíble para un control personalizado: escoge entre un pad direccional tradicional o tipo Joy-Con
-- Licencia oficial de Nintendo
 - Sin lag: conexión con cable de 3 m
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Licencia oficial de Nintendo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

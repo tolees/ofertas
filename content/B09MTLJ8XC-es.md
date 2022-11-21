@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protección Helly Tech
 - Detalles reflectantes
 - Impermeable y transpirable
-- Bolsillos para las manos
+- Protección Helly Tech
 - Contenido del envío: 1 chaqueta impermeable con capucha para hombre Sweet Lime M
+- Bolsillos para las manos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
