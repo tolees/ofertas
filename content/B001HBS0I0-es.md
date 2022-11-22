@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stanley 1-83-069 - Tornillo de Banco Multiángulos  Separación 75 mm  Capacidad de sujeción 25 kg  Cuerpo hierro fundido  Mordaza recubierta de goma  Acabado resistente a la corrosión  Negro/Amarillo'
-date: 2022-11-18 14:30:56
+date: 2022-11-22 11:02:07
 image: 'https://m.media-amazon.com/images/I/41D4XdHpH1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B001HBS0I0/?tag=tolees-21'
 descuento: '44.39'
-average: '23.1257142857143'
+average: '22.73375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Múltiples posiciones por conveniencia y facilidad de acceso
-- La mandíbula de goma extraíble cubre una amplia gama de aplicaciones para proteger acabados delicados
 - Fuerza de sujeción de 25 kg, paso de 75 mm
 - Tapas protectoras desmontables con superficies lisas y bien adheridas para la protección contra arañazos
+- Múltiples posiciones por conveniencia y facilidad de acceso
+- La mandíbula de goma extraíble cubre una amplia gama de aplicaciones para proteger acabados delicados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

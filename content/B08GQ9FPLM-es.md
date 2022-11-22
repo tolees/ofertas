@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Bosch Taladro percutor a batería EasyImpact 1200  1 batería  sistema de 12 V  en maletín '
-date: 2022-11-20 19:21:29
+date: 2022-11-22 11:55:26
 image: 'https://m.media-amazon.com/images/I/517+WYIC20L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B08GQ9FPLM/?tag=tolees-21'
 descuento: '45.77'
-average: '73.095'
+average: '71.7942857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicaciones versátiles en distintos materiales: Taladrar y atornillar en madera y metal o taladrar con percusión en mampostería
 - Trabajar en lugares oscuros o poco iluminados: Buena visibilidad incluso en cantos oscuros y lugares con iluminación deficiente gracias a la luz LED integrada en el taladro.
 - Potencia y velocidad óptimas: Atornillado potente y taladrado rápido, además de función de impacto, gracias a la caja de cambios de velocidades con 20 niveles de par.
-- Las herramientas Easy de Bosch – una gran ayuda para pequeños proyectos
 - Power for ALL 12 V: La batería incluida es compatible con todos los productos de la gama verde Bosch Home & Garden con sistema de 12 V
+- Aplicaciones versátiles en distintos materiales: Taladrar y atornillar en madera y metal o taladrar con percusión en mampostería
+- Las herramientas Easy de Bosch – una gran ayuda para pequeños proyectos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

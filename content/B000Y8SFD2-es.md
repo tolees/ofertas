@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stanley 5-16-421 - Kit de cinceles para madera  5 piezas  Dynagrip  Hoja de acero de carbono  Incluye piedra de afilar/aceite/maletín  Multicolor'
-date: 2022-11-19 16:01:07
+date: 2022-11-22 13:00:22
 image: 'https://m.media-amazon.com/images/I/51EfTxt1BsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B000Y8SFD2/?tag=tolees-21'
 descuento: '71.42'
-average: '24.4656250000001'
+average: '24.3300000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cabeza de golpeo de acero
-- Olistone, guía de afilado
 - Juego de cinceles Dynagrip
+- Olistone, guía de afilado
 - Incluye piedra de afilar y aceite
 - Hoja de acero al carbono para la durabilidad del filo de corte
 
