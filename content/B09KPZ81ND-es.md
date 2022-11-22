@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte estándar
 - Logotipo en el pecho
+- Corte estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
