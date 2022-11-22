@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dim Calcetines Ecodim Talón y puntas reforzadas   para Hombre'
-date: 2022-11-21 06:20:14
+date: 2022-11-22 09:51:10
 image: 'https://m.media-amazon.com/images/I/411H9wZPBKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dim'
 buyurl: 'https://www.amazon.es/dp/B01K5NBVCC/?tag=tolees-21'
 descuento: '40.00'
-average: '11.919294117647'
+average: '11.8686046511627'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
