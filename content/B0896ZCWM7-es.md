@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los ricos detalles y los logotipos muy visibles harán de este un clásico de Helly Hansen
-- Anchura: 40.0 centímetros
-- Altura: 40.0 centímetros
-- Tejido de protección Helly Tech (impermeable, resistente al viento y transpirable)
-- Longitud: 60.0 centímetros
-- Con capucha impermeable y transpirable con un acabado repelente al agua
 - Una chaqueta de invierno de corte recto, cálida, funcional y favorecedora, construida para soportar los inviernos Polares, pero igualmente en casa en los fríos entornos urbanos
+- Los ricos detalles y los logotipos muy visibles harán de este un clásico de Helly Hansen
+- Tejido de protección Helly Tech (impermeable, resistente al viento y transpirable)
+- Anchura: 40.0 centímetros
 - Grandes bolsillos exteriores con acceso lateral y superior, bolsillos altos para las manos y bolsillo interior en el pecho con cierre de cremallera
+- Con capucha impermeable y transpirable con un acabado repelente al agua
+- Altura: 40.0 centímetros
+- Longitud: 60.0 centímetros
 
 [🛒 Visítala!!!]({{< param buyurl >}})

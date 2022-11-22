@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 Hoody Sweat  Mens  Amarillo  XL'
-date: 2022-11-20 11:03:01
+date: 2022-11-22 05:21:45
 image: 'https://m.media-amazon.com/images/I/4128xnymMyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07XBM6FTP/?tag=tolees-21'
 descuento: '35.13'
-average: '26.9547457627118'
+average: '26.9379999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha con cordón ajustable
 - Bolsillo canguro
-- Ajuste regular
+- Capucha con cordón ajustable
 - Puños y dobladillo de canalé
+- Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

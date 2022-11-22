@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Hernandez  Zapatillas Hombre  White Normal  41 EU'
-date: 2022-11-19 17:53:15
+date: 2022-11-22 05:26:13
 image: 'https://m.media-amazon.com/images/I/31NrDRDD2JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLT8GXL/?tag=tolees-21'
 descuento: '53.23'
-average: '26.6079591836733'
+average: '26.5365999999998'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
