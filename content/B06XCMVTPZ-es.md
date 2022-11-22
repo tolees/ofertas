@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Bosch AdvancedOrbit 18 - Lijadora excéntrica a batería  sin batería  hoja lijadora  en caja de cartón  sistema 18 V '
-date: 2022-11-19 02:03:57
+date: 2022-11-22 02:48:33
 image: 'https://m.media-amazon.com/images/I/51m61VqFU-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B06XCMVTPZ/?tag=tolees-21'
 descuento: '41.75'
-average: '79.015'
+average: '75.21'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se puede emplear para lijar y pulir en diferentes materiales, p; ej; lijar madera, como marcos de puerta y muebles de madera, o pulir superficies de plástico o pintadas, como piezas de automóvil
-- Sistema de velcro para cambiar las hojas de lija de forma rápida y cómoda
-- Lijadora excéntrica a batería AdvancedOrbit 18: trabajo limpio con bajos niveles de polvo y con la máxima versatilidad para llevar a cabo cualquier trabajo sin esfuerzo
+- Manejo, control y funcionamiento excelentes para trabajar sin esfuerzo y de forma limpia en cualquier dirección (horizontal, vertical, por encima de la cabeza)
 - Libertad sin cables para cualquier proyecto
 - Incluye: Lijadora excéntrica a batería AdvancedOrbit 18 sin batería, hoja lijadora
-- Manejo, control y funcionamiento excelentes para trabajar sin esfuerzo y de forma limpia en cualquier dirección (horizontal, vertical, por encima de la cabeza)
+- Se puede emplear para lijar y pulir en diferentes materiales, p; ej; lijar madera, como marcos de puerta y muebles de madera, o pulir superficies de plástico o pintadas, como piezas de automóvil
 - Sistema electrónico de Bosch: preselección del número de revoluciones para trabajar en función del tipo de material
+- Lijadora excéntrica a batería AdvancedOrbit 18: trabajo limpio con bajos niveles de polvo y con la máxima versatilidad para llevar a cabo cualquier trabajo sin esfuerzo
+- Sistema de velcro para cambiar las hojas de lija de forma rápida y cómoda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
