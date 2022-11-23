@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi True Wireless Earphones 2 Pro – Auriculares inalámbricos con cancelación de ruido activa de amplio rango de frecuencias  llamadas nítidas  carga inalámbrica  batería de hasta 30 horas  Negro'
-date: 2022-11-21 15:27:42
+date: 2022-11-23 19:33:55
 image: 'https://m.media-amazon.com/images/I/31ejaGwkWnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B0998ZJCKF/?tag=tolees-21'
 descuento: '56.66'
-average: '48.1170588235294'
+average: '47.6105555555555'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cancelación activa de ruido: para hacer frente a los ruidos habituales, se utiliza un micrófono de pre alimentación y un micrófono de retroalimentación para lograr una atenuación híbrida de hasta 35 dB; en el caso de ruidos de alta frecuencia de 1000 a 3000 Hz, como llantos, ruidos de construcción y gritos, la cavidad de gran tamaño también puede proporcionar una sensación de silencio
-- El potente sonido proviene de aquí: el potente y completo sonido es el resultado de un diafragma compuesto LCP de alta rigidez y un gran diafragma dinámico de 12 mm; además, las tres amplias bandas de frecuencia y la respuesta transitoria sensible te proporcionan más detalles, para que puedas escuchar incluso la respiración del cantante
 - Sumérgete durante más tiempo: un solo auricular con ANC desactivada: 6 horas; duración total de la batería con ANC desactivada: 30 horas
-- Compatible con el modo de transparencia: cuando el modo de transparencia está activado, puedes oír claramente lo que sucede a tu alrededor, sin tener que quitarte los auriculares; el diseño intrauditivo reduce aún más la presión en el oído, lo que facilita la comunicación cara a cara incluso con los auriculares puestos
+- El potente sonido proviene de aquí: el potente y completo sonido es el resultado de un diafragma compuesto LCP de alta rigidez y un gran diafragma dinámico de 12 mm; además, las tres amplias bandas de frecuencia y la respuesta transitoria sensible te proporcionan más detalles, para que puedas escuchar incluso la respiración del cantante
 - Tres micrófonos en funcionamiento a la vez para llamadas más nítidas: un micrófono independiente dentro de la oreja proporciona un sonido preciso y puro dentro de esta, para que puedas escucharlo todo con claridad, incluso al realizar llamadas en exteriores
+- Cancelación activa de ruido: para hacer frente a los ruidos habituales, se utiliza un micrófono de pre alimentación y un micrófono de retroalimentación para lograr una atenuación híbrida de hasta 35 dB; en el caso de ruidos de alta frecuencia de 1000 a 3000 Hz, como llantos, ruidos de construcción y gritos, la cavidad de gran tamaño también puede proporcionar una sensación de silencio
+- Compatible con el modo de transparencia: cuando el modo de transparencia está activado, puedes oír claramente lo que sucede a tu alrededor, sin tener que quitarte los auriculares; el diseño intrauditivo reduce aún más la presión en el oído, lo que facilita la comunicación cara a cara incluso con los auriculares puestos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
