@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dickie Toys- Cars Coche Rayo MC Queen RC Single Drive  Control Remoto  Escala 1:32  Monocanal  para Niños a Partir de 3 Años'
-date: 2022-11-21 23:55:00
+date: 2022-11-23 00:15:07
 image: 'https://m.media-amazon.com/images/I/51oOOc3IXvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dickie Toys'
 buyurl: 'https://www.amazon.es/dp/B06XR2L6YB/?tag=tolees-21'
 descuento: '44.18'
-average: '15.69'
+average: '15.4'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se mueve hacia delante en línea recta, hacia atrás en curva
-- Coche Cars 3 Rayo McQueen Single Drive
-- Para niños a partir de 3 años
 - Longitud: 14cm
-- Coche de juguete RC de 1 canal (27 MHz)
+- Para niños a partir de 3 años
 - Pilas: no incluidas -
 - Escala 1:32
+- Se mueve hacia delante en línea recta, hacia atrás en curva
+- Coche de juguete RC de 1 canal (27 MHz)
+- Coche Cars 3 Rayo McQueen Single Drive
 - Pilas: 4x 1,5V LR6 (AA) (no incluidas)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
