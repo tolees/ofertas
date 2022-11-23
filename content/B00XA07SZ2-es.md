@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Durex Masaje 2 en 1 Gel Lubricante  Aloe Vera  200ml'
-date: 2022-11-19 08:46:03
+date: 2022-11-23 07:13:14
 image: 'https://m.media-amazon.com/images/I/31zVGdtscYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Durex'
 buyurl: 'https://www.amazon.es/dp/B00XA07SZ2/?tag=tolees-21'
 descuento: '48.46'
-average: '9.33396226415092'
+average: '9.33518518518516'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Agradable a la piel para un uso cómodo
+- El envase tiene un diseño ergonómico con aplicador ajustable
+- Lubricante a base de agua, no graso y fácil de lavar
 - Compatible con condones y juguetes sexuales
 - Gel 2 en 1 indicado para masajes sensuales
-- Agradable a la piel para un uso cómodo
-- Lubricante a base de agua, no graso y fácil de lavar
-- El envase tiene un diseño ergonómico con aplicador ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
