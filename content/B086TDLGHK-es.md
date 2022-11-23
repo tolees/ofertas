@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 411v2  Zapatillas de Running Mujer  Negro  35 EU'
-date: 2022-11-18 10:34:39
+date: 2022-11-23 02:39:45
 image: 'https://m.media-amazon.com/images/I/412wnHe-BVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B086TDLGHK/?tag=tolees-21'
 descuento: '42.60'
-average: '31.5111111111111'
+average: '31.23'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
