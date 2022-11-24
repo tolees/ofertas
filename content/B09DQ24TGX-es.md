@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi - Mi Wireless Outdoor Security Camera 1080p'
-date: 2022-11-21 22:11:06
+date: 2022-11-24 07:38:41
 image: 'https://m.media-amazon.com/images/I/31YeaowvYXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09DQ24TGX/?tag=tolees-21'
 descuento: '35.51'
-average: '63.978'
+average: '61.98'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Amplio ángulo de visión de 130°
 - Resistencia IP65 al polvo y al agua
 - Batería con una duración de 90 días
 - Detección de personas por medio de sensores infrarrojos pasivos
-- Amplio ángulo de visión de 130°
 
 [🛒 Comprar!!!]({{< param buyurl >}})
