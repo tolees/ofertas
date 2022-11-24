@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'HAWKERS ONE Gafas de sol para Unisex adulto  Negro  Negro Carbon Negro Oscuro   Talla única'
-date: 2022-11-19 22:51:12
+title: 'HAWKERS ONE  Gafas de sol  Negro Carbon · Negro Oscuro  Talla única'
+date: 2022-11-24 19:27:24
 image: 'https://m.media-amazon.com/images/I/317o5OLfXRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07QNYB2BX-es HAWKERS ONE Gafas de sol para Unisex adulto Negro Negro...'
+slug: 'B07QNYB2BX-es HAWKERS ONE Gafas de sol Negro Carbon · Negro Oscuro Talla...'
 sku: 'B07QNYB2BX-es'
 tags: [ 'Accesorios para hombre','Gafas de sol para hombre','Gafas y accesorios para hombre','Moda','Moda Hombre','Ropa de hombre','hawkers','🇪🇸', ]
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39
 comparePrice: 39.99 EUR
-prodname: 'HAWKERS ONE Gafas de sol para Unisex adulto  Negro  Negro Carbon Negro Oscuro   Talla única'
+prodname: 'HAWKERS ONE  Gafas de sol  Negro Carbon · Negro Oscuro  Talla única'
 country: 'es'
 flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B07QNYB2BX/?tag=tolees-21'
 descuento: '56.51'
-average: '22.8514473684209'
+average: '22.7805194805193'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sunglasses made from EMS🇨🇭TR90, considered the best nylon in the world for eyewear frames, providing more flexibility and resistance
-- Lenses of eastman US TR18, one of the World leaders in copolyester technology, respects the environment and gives a unique balance between clarity and resistance, category 3 lenses, antiglare protection
-- HAWKERS official product included: Case, personalized box and set of decorative stickers
-- Black frame in matt finish and black lenses in high optical performance TR18
-- Unisex sunglasses frame measuments: Front x height x temples = 140 x 50 x 140 mm
+- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
+- Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lente oscura
+- Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
+- Lente oscura fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
+- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
