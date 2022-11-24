@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG Strix G17 G713IC-HX011 - Portátil Gaming de 17.3" Full HD 144Hz  Ryzen 7 4800H  16GB RAM  1TB SSD  GeForce RTX 3050 4GB  Sin Sistema Operativo  Gris Eclipse - Teclado QWERTY español'
-date: 2022-11-19 15:28:27
+date: 2022-11-24 16:46:20
 image: 'https://m.media-amazon.com/images/I/41oHJTgJvmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B09G73XX5K/?tag=tolees-21'
 descuento: '35.74'
-average: '988.629090909094'
+average: '981.160000000003'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Procesador AMD Ryzen 7 4800H (8C/OctaCore 2.9 / 4.2GHz, 8MB)
-- Sin Sistema Operativo
-- Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
-- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
 - Pantalla de 17.3" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
+- Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
+- Sin Sistema Operativo
+- Procesador AMD Ryzen 7 4800H (8C/OctaCore 2.9 / 4.2GHz, 8MB)
+- Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

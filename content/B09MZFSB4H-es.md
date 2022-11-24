@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fular
 - Combinado
 - Patchwork flores
+- Fular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

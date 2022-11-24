@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 100 % poliéster
-- Estilo #: 1366202
-- Bolsillos seguros con cremallera
 - El material absorbe el sudor y se seca muy rápido
 - El tejido de punto texturizado es ligero, resistente y transpirable
+- Estilo #: 1366202
+- Bolsillos seguros con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

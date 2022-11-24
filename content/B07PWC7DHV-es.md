@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bufanda monocromática
-- Bufanda larga para mujer
-- Bufanda de punto de
 - Bufanda suave para mujer
+- Bufanda larga para mujer
 - bufanda larga con flecos en los extremos
+- Bufanda de punto de
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- A estrenar y genuina. somos un vendedor autorizado de levis.
 - Ver descripción del producto para obtener más información.
 - Levis negro logo bufanda
+- A estrenar y genuina. somos un vendedor autorizado de levis.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
