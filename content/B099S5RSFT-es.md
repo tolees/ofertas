@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Hombre Straight Fit Xm Jeans  Azul  Maddox   32W / 36L'
-date: 2022-11-20 10:00:13
+date: 2022-11-24 10:48:12
 image: 'https://m.media-amazon.com/images/I/41EqMX8Qx-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lee'
 buyurl: 'https://www.amazon.es/dp/B099S5RSFT/?tag=tolees-21'
 descuento: '69.65'
-average: '48.88'
+average: '40.1733333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura media
 - Longitud: hasta el tobillo
+- Cintura media
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
