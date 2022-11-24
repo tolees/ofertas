@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'PUMA Smash V2 L  Sneaker Unisex Adulto  Blanco  White/Black   39 EU'
-date: 2022-11-24 00:22:16
-image: 'https://m.media-amazon.com/images/I/317XR8ULtGL._SL500_._SL400_.jpg'
+title: 'PUMA Smash V2 L  Sneaker Unisex Adulto  Negro  39 EU'
+date: 2022-11-24 00:22:02
+image: 'https://m.media-amazon.com/images/I/311cQULRfXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B077MLZ8BM-es PUMA Smash V2 L Sneaker Unisex Adulto Blanco White/Black...'
-sku: 'B077MLZ8BM-es'
+slug: 'B0783QLKZN-es PUMA Smash V2 L Sneaker Unisex Adulto Negro 39 EU'
+sku: 'B0783QLKZN-es'
 tags: [ 'Moda','Moda Hombre','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos para hombre','puma','🇪🇸', ]
-actualPrice: 29.99 EUR
+actualPrice: 29.95 EUR
 currency: EUR
-price: 29.99
+price: 29.95
 comparePrice: 49.95 EUR
-prodname: 'PUMA Smash V2 L  Sneaker Unisex Adulto  Blanco  White/Black   39 EU'
+prodname: 'PUMA Smash V2 L  Sneaker Unisex Adulto  Negro  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PUMA'
-buyurl: 'https://www.amazon.es/dp/B077MLZ8BM/?tag=tolees-21'
-descuento: '39.96'
-average: '32.0119607843137'
+buyurl: 'https://www.amazon.es/dp/B0783QLKZN/?tag=tolees-21'
+descuento: '40.04'
+average: '39.1599999999998'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
