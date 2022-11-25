@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Bosch 0603977005 Bosch atornillador sin cable PSR Select  1.5 Ah  sistema de 3.6 voltios  con micro USB  en maletín   3.6 V'
-date: 2022-11-21 08:02:03
+date: 2022-11-25 08:34:16
 image: 'https://m.media-amazon.com/images/I/41uSc8mIhJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B07JGMVP2D/?tag=tolees-21'
 descuento: '46.35'
-average: '55.8415384615384'
+average: '54.9949999999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El mecanismo Bosch EasySelect con 12 brocas estándar integradas en una caja giratoria transparente: siempre la broca adecuada a mano con solo presionar un botón
-- El atornillador sin cable PSR Select es fácil de cargar gracias a la interfaz Micro USB
 - Incluye: PSR Select, cargador MicroUSB, juego de 12 bits (incluido bit IKEA), manual de usuario, estuche para manualidades
-- Cómodo gracias al indicador de nivel de batería y luz direccional.
 - Sorprendentemente potente y por lo tanto ideal para aplicaciones de bricolaje
+- Cómodo gracias al indicador de nivel de batería y luz direccional.
+- El atornillador sin cable PSR Select es fácil de cargar gracias a la interfaz Micro USB
 
 [🛒 Visítala!!!]({{< param buyurl >}})

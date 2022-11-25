@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología LIFA
-- UPF 50 húmedo y seco
 - Protección solar
 - Tejido exterior reciclado
+- Tecnología LIFA
 - Items delivered: 1x Helly Hansen Womens - W HH Lifa Active Solen Hoodie Apparel Navy XL
+- UPF 50 húmedo y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

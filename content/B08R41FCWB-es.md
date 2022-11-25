@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI MAG ARTYMIS 242C Monitor curvo gaming – 24”  16:9 FHD  1920x1080   1ms  1000R  panel VA  165Hz  visión nocturna  AMD Free-Sync Premium  reducción de la luz azul  VESA  Display Port  HDMI  HDMI CEC'
-date: 2022-11-22 01:42:34
+date: 2022-11-25 09:02:26
 image: 'https://m.media-amazon.com/images/I/41tsNkSQYBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B08R41FCWB/?tag=tolees-21'
 descuento: '38.83'
-average: '217.278333333334'
+average: '215.103076923078'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla curva perfecta 1000R - Se adapta perfectamente a la curvatura del ojo humano para que pueda ver toda la pantalla sin ningun esfuerzo.
 - Tecnología Anti-Flicker - La tecnología Anti-Flicker de MSI proporciona una experiencia de visualización muy cómoda al reducir la cantidad de parpadeo de la pantalla.
-- Diseño sin marcos: con un bisel superestrecho, disfrute de la mejor inmersión posible en los últimos juegos con una configuración multimonitor de 180 grados.
-- Reducción de la luz azul: los monitores Optix están optimizados para producir una menor cantidad de luz azul en el monitor, para que puedas jugar durante más tiempo sin que se te cansen los ojos.
-- Visión nocturna: tanto si toda la pantalla está oscura como si sólo unas pocas partes tienen fuertes sombras. Deja que el primer sintonizador negro inteligente del mundo saque detalles hasta de las zonas más oscuras.
 - HDMI CEC - El monitor utiliza la función HDMI CEC. Una vez que la tecnología HDMI CEC se conecta a los mandos de PlayStation o Switch, se pueden utilizar para activar la pantalla con diferentes modos.
 - Tecnología AMD FressSync Premium - MSI MAG ARTYMIS 242C con tecnología AMD FreeSync consiguiendo un rendimiento fluido y sin interferencias en prácticamente cualquier framerate.
+- Diseño sin marcos: con un bisel superestrecho, disfrute de la mejor inmersión posible en los últimos juegos con una configuración multimonitor de 180 grados.
+- Visión nocturna: tanto si toda la pantalla está oscura como si sólo unas pocas partes tienen fuertes sombras. Deja que el primer sintonizador negro inteligente del mundo saque detalles hasta de las zonas más oscuras.
+- Pantalla curva perfecta 1000R - Se adapta perfectamente a la curvatura del ojo humano para que pueda ver toda la pantalla sin ningun esfuerzo.
+- Reducción de la luz azul: los monitores Optix están optimizados para producir una menor cantidad de luz azul en el monitor, para que puedas jugar durante más tiempo sin que se te cansen los ojos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
