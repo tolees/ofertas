@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Teclado electrónico para un acceso fácil y rápido, con llave de repuesto para emergencias.
 - Estructura de acero de calibre 14, muy resistente y duradero; 5 tornillos grandes, de 1,9 cm, para alta seguridad.
+- Teclado electrónico para un acceso fácil y rápido, con llave de repuesto para emergencias.
 - El estante ajustable optimiza el espacio de almacenamiento.
 - Cumple con el estándar modificado UL 72 de pruebas de seguridad relativo a la resistencia al fuego de equipamiento de protección de documentos: 20 minutos a 650 grados Celsius, evaluado por Intertek.
 - Caja fuerte ignífuga de 60 litros para proteger aparatos digitales, documentos importantes y otros objetos de valor frente a robos e incendios.

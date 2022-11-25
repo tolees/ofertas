@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Lumea Advanced IPL - Dispositivo de depilación para cuerpo  cara y línea del bikini  modelo SC1999/00 '
-date: 2022-11-24 17:25:44
+date: 2022-11-25 18:24:12
 image: 'https://m.media-amazon.com/images/I/41qW8fZv8xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B017BP58KS/?tag=tolees-21'
 descuento: '50.00'
-average: '244.70022222222'
+average: '244.208901098899'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

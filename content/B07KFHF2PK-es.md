@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello de polo y puños acanalados
-- Corte ajustado
-- Bajo recto
 - Aberturas laterales
+- Corte ajustado
+- Cuello de polo y puños acanalados
+- Bajo recto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

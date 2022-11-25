@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Consigue el maquillaje aplicando el primer antes de la base de maquillaje
-- Primer hidratante y luminoso
-- Contiene vitaminas E, B5, B3
 - Incrementa un acabado de piel radiante y fresca a lo largo del día
+- Consigue el maquillaje aplicando el primer antes de la base de maquillaje
+- Contiene vitaminas E, B5, B3
+- Primer hidratante y luminoso
 - Proporciona un brillo natural, radiante y saludable para que el maquillaje quede luminoso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
