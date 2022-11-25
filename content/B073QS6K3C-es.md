@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Osram Lámpara LED clásica con base en forma de bombilla  plástico  blanco cálido  E27  8.5W  juego de 4'
-date: 2022-11-18 21:08:06
+date: 2022-11-24 23:46:46
 image: 'https://m.media-amazon.com/images/I/41ZSFUNKzdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Osram'
 buyurl: 'https://www.amazon.es/dp/B073QS6K3C/?tag=tolees-21'
 descuento: '53.95'
-average: '8.44'
+average: '7.89142857142857'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Encendido instantáneo, no necesita tiempo de calentamiento
 - La luz blanca cálida para la comodidad y la relajación, en el dormitorio o habitaciones de los niños
-- Consumo de energía 9 kWh/1000h y 806 lm
+- Encendido instantáneo, no necesita tiempo de calentamiento
 - Larga duración: hasta 10000 horas y hasta 100000 ciclos de encendido
+- Consumo de energía 9 kWh/1000h y 806 lm
 - Fácil sustitución de las lámparas, reemplazo optimo para una lámpara de 60 W, uso al aire libre sólo en luminarias adecuadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

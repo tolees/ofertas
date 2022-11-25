@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Take Two Interactive Spain - Grand Theft Auto: The Trilogy – The Definitive Edition  PlayStation 4'
-date: 2022-11-17 19:57:06
+date: 2022-11-24 22:52:27
 image: 'https://m.media-amazon.com/images/I/51fCngrI6TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Take Two Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B09KTGP5C2/?tag=tolees-21'
 descuento: '68.30'
-average: '31.1639393939394'
+average: '30.8058823529412'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
