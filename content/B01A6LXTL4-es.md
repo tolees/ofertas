@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Classic Slipper  Pantuflas Unisex Adulto  Nautical Navy/Oatmeal  43/44 EU'
-date: 2022-11-24 06:01:09
+date: 2022-11-25 13:25:29
 image: 'https://m.media-amazon.com/images/I/410r7qocltL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B01A6LXTL4/?tag=tolees-21'
 descuento: '36.98'
-average: '22.2666666666667'
+average: '21.7857142857143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Más información: CROCSONE
-- Estilo: Slipper
-- Color: azul marino
 - Número del fabricante: 203600-49U
+- Más información: CROCSONE
+- Color: azul marino
+- Estilo: Slipper
 - Material: Textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})

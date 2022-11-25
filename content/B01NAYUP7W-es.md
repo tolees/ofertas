@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda PH3 Adaptadores de Comunicación por Línea Eléctrica - PLC  Adaptador de Red Gigabit Powerline  1000Mbps  Ahorro de Energía  Plug y Play  2 Piezas '
-date: 2022-11-22 21:51:59
+date: 2022-11-25 14:04:34
 image: 'https://m.media-amazon.com/images/I/21XajL8BKbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tenda'
 buyurl: 'https://www.amazon.es/dp/B01NAYUP7W/?tag=tolees-21'
 descuento: '42.88'
-average: '29.3455555555556'
+average: '28.809'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ampliar la cobertura internet a todas las habitaciones
-- Plug and play: instalación sencilla, no require configuración
-- 1000mbps óptimo para streaming hd vídeos o vídeojuegos
-- Estándar y protocolo: HomePlug AV2, IEEE 802.3, IEEE 802.3u, IEEE 802.3ab
-- Homeplug av2: compatible con estándar homepluge av2, transmisión de datos powerline de hasta 1000 mbps
 - Interfaz: 1 x 10/100/1000 Mbit / s
+- Estándar y protocolo: HomePlug AV2, IEEE 802.3, IEEE 802.3u, IEEE 802.3ab
+- Ampliar la cobertura internet a todas las habitaciones
+- Homeplug av2: compatible con estándar homepluge av2, transmisión de datos powerline de hasta 1000 mbps
+- 1000mbps óptimo para streaming hd vídeos o vídeojuegos
+- Plug and play: instalación sencilla, no require configuración
 
 [🛒 Visítala!!!]({{< param buyurl >}})
