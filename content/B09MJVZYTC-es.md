@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suela de refuerzo cosida
 - Malla atlética
 - Suela de goma maciza
-- Suela de refuerzo cosida
 
 [🛒 Comprar!!!]({{< param buyurl >}})

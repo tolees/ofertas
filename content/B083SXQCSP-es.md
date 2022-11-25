@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Classic Nylon  Zapatillas Mujer  Black/Black/White  39 EU'
-date: 2022-11-23 00:35:41
+date: 2022-11-25 01:10:26
 image: 'https://m.media-amazon.com/images/I/31wBVEo6WlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B083SXQCSP/?tag=tolees-21'
 descuento: '38.67'
-average: '41.4400000000001'
+average: '41.4772500000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

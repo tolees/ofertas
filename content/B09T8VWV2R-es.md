@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Homologado por los principales fabricantes de placas base del mundo¹
 - Plug N Play
+- Homologado por los principales fabricantes de placas base del mundo¹
 - Disipador térmico de bajo perfil
 - Mejora de la estabilidad para sobreaceleración (overclocking)
 - Preparado y certificado para Intel XMP 3.3
