@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips MG7720/15 Recortadora 14 en 1 Maquina recortadora de barba y Cortapelos para hombre  óptima precisión  tecnología Dualcut  autonomía de 120 minutos  batería  Negro/Plata'
-date: 2022-11-23 21:14:29
+date: 2022-11-25 14:42:46
 image: 'https://m.media-amazon.com/images/I/41v-t1-i7CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B074WDYBS6/?tag=tolees-21'
 descuento: '50.78'
-average: '41.0486301369861'
+average: '40.926216216216'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
