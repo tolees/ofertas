@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech MX Master 2s Ratón inalámbrico  Versión 2020  Múltiples Dispositivos  Bluetooth o 2.4GHz  Receptor USB Unifying  4K DPI Seguimiento en Cualquier Superficie 7 Botones  PC/Mac/iPad OS  Grafito'
-date: 2022-11-23 09:12:22
+date: 2022-11-25 17:30:07
 image: 'https://m.media-amazon.com/images/I/3104ciV0phL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Logitech'
 buyurl: 'https://www.amazon.es/dp/B07W4DGVQF/?tag=tolees-21'
 descuento: '50.43'
-average: '63.279'
+average: '62.8890909090909'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Desplázate por documentos o páginas Web largos con mayor rapidez y facilidad gracias al botón rueda de velocidad adaptable que cambia automáticamente del desplazamiento clic a clic al superrápido
-- Disfruta de control impecable prácticamente en cualquier superficie, incluso sobre cristal, con hasta 4.000 dpi. Grosor mínimo de 4 mm
-- Basta con conectar MX Master 2S al ordenador con el cable de carga micro USB para recibir energía suficiente para un día completo de uso en sólo tres minutos. Una carga completa puede durar hasta 70 días. La duración de las pilas/baterías depende del uso
-- Control perfecto de hasta tres ordenadores con un ratón. Y copia y pegado de texto, imágenes y archivos entre ellos. Requiere software Logitech
 - La forma contorneada que se adapta a la mano te permite apoyar la mano y la muñeca en una posición cómoda y natural. Disfruta de un control preciso y una experiencia fluida gracias al perfecto posicionamiento de los botones y las ruedas. El molde del ratón se fabricó a partir de un diseño modelado a mano
+- Basta con conectar MX Master 2S al ordenador con el cable de carga micro USB para recibir energía suficiente para un día completo de uso en sólo tres minutos. Una carga completa puede durar hasta 70 días. La duración de las pilas/baterías depende del uso
+- Disfruta de control impecable prácticamente en cualquier superficie, incluso sobre cristal, con hasta 4.000 dpi. Grosor mínimo de 4 mm
+- Control perfecto de hasta tres ordenadores con un ratón. Y copia y pegado de texto, imágenes y archivos entre ellos. Requiere software Logitech
 
 [🛒 Comprar!!!]({{< param buyurl >}})

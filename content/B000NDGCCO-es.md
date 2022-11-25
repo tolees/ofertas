@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fabricada 100% en nailon para un acabado impecable
-- Compartimento principal con un bolsillo con cremallera en la parte de atrás para tarjetas y efectivo
-- Cinturón ajustable a la cintura para una mayor comodidad
 - Altura: 165 cm Ancho: 23 cm Fondo: 85 cm
+- Cinturón ajustable a la cintura para una mayor comodidad
+- Compartimento principal con un bolsillo con cremallera en la parte de atrás para tarjetas y efectivo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
