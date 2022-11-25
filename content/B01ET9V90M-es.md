@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pata Negra Roble - Vino Tinto D.O. Toro - Caja de 6 Botellas x 750 ml'
-date: 2022-11-23 21:11:18
+date: 2022-11-25 07:21:59
 image: 'https://m.media-amazon.com/images/I/51TnOdrqzlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pata Negra'
 buyurl: 'https://www.amazon.es/dp/B01ET9V90M/?tag=tolees-21'
 descuento: '44.47'
-average: '24.386923076923'
+average: '24.0728571428571'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Apariencia: Vino tinto de color rojo picota profundo, cubierto, con ribete púrpura y sin evolución
-- Maridaje: Es un vino adecuado para acompañar barbacoas, carnes rojas, comida mexicana e italiana
-- Aroma: En nariz es espléndida e intensa, claramente varietal, con notas de frutas rojas y negras del bosque, también balsámicas características de la variedad, mentolados, y elegantes tonos especiados
 - Tipo de uva: Elaborado a partir de una cuidada selección de uvas Tinta de Toro, la variedad de Tempranillo adaptada a la D.O.Toro en barricas seleccionadas de roble que durante 4 meses
-- Gusto: En boca se manifiesta como un vino complejo, largo y persistente, es equilibrado, pulido y con taninos “redondos”, tiene una alta percepción de fruta y una retronasal persistente y compleja
 - Consumo: Para disfrutar de sus cualidades óptimas recomendamos servirlo a 16ºC de temperatura y guardarlo en lugar fresco y seco
+- Aroma: En nariz es espléndida e intensa, claramente varietal, con notas de frutas rojas y negras del bosque, también balsámicas características de la variedad, mentolados, y elegantes tonos especiados
+- Maridaje: Es un vino adecuado para acompañar barbacoas, carnes rojas, comida mexicana e italiana
+- Gusto: En boca se manifiesta como un vino complejo, largo y persistente, es equilibrado, pulido y con taninos “redondos”, tiene una alta percepción de fruta y una retronasal persistente y compleja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

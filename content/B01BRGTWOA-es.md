@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics - Carpeta de 3 anillas  4 unidades  color blanco 2.54 cm'
-date: 2022-11-10 14:34:17
+date: 2022-11-25 07:21:08
 image: 'https://m.media-amazon.com/images/I/41+dWufgfaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazon Basics'
 buyurl: 'https://www.amazon.es/dp/B01BRGTWOA/?tag=tolees-21'
 descuento: '73.18'
-average: '5.585'
+average: '4.91333333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Los anillos de encuadernación son de 2,5 cm, no la columna vertebral.
 - Tapa delantera y trasera personalizada y lomo gracias a la capa de plástico transparente.
+- Carpeta de 3 anillas con anillas redondas de 2,5 cm que sostienen hasta 175 hojas de papel, todos los tamaños de carpeta se refieren al tamaño del anillo, no a la columna vertebral.
 - Capacidad para documentos de 8 1/2 x 28 cm; 2 bolsillos interiores para guardar sábanas sueltas.
 - Diseñado para uso diario, ideal para organizar proyectos, presentaciones y mucho más.
-- Carpeta de 3 anillas con anillas redondas de 2,5 cm que sostienen hasta 175 hojas de papel, todos los tamaños de carpeta se refieren al tamaño del anillo, no a la columna vertebral.
-- Los anillos de encuadernación son de 2,5 cm, no la columna vertebral.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash Wns v2 L  Zapatillas Bajas Mujer  Multicolor Black  37 EU'
-date: 2022-11-18 16:00:28
+date: 2022-11-25 08:00:53
 image: 'https://m.media-amazon.com/images/I/31FPJlwBKcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B077MMVJZQ/?tag=tolees-21'
 descuento: '52.37'
-average: '33.612'
+average: '31.975'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

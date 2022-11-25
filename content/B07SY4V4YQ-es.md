@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Energy Timeless Vision  Zapatillas Mujer  White/Red  38 EU'
-date: 2022-11-23 06:03:37
+date: 2022-11-25 07:11:07
 image: 'https://m.media-amazon.com/images/I/41O4I2RGB8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07SY4V4YQ/?tag=tolees-21'
 descuento: '41.02'
-average: '37.1095000000001'
+average: '37.3071428571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
