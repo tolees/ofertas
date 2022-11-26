@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Máquinas de afinación selladas fundidas a presión con ejes divididos: las máquinas de afinación selladas de fundición a presión tienen una acción suave para una afinación precisa, y los ejes divididos hacen que cambiar las cuerdas sea muy fácil.
-- Pastillas Telecaster de una sola bobina: con voz interna en Fender, estas pastillas Squier de una sola bobina producen un tono nítido y articulado para una amplia variedad de estilos.
+- Una excelente puerta de enlace a la familia Fender, el Squier Affinity Series Telecaster ofrece un diseño legendario y un tono por excelencia para el aspirante a héroe de guitarra de hoy.
 - Este Tele cuenta con varios refinamientos amigables con los jugadores, como un cuerpo delgado y ligero, un perfil de cuello en forma de "C", un puente de cuerda a través del cuerpo para una resonancia óptima del cuerpo y máquinas de afinación selladas con ejes divididos para una afinación suave y precisa y fácil restricción.
 - Cargado con pastillas Tele Squier de una sola bobina doble con conmutación de 3 vías para una variedad sónica que desafía el género, este modelo está listo para acompañar a cualquier jugador en cualquier etapa.
-- Una excelente puerta de enlace a la familia Fender, el Squier Affinity Series Telecaster ofrece un diseño legendario y un tono por excelencia para el aspirante a héroe de guitarra de hoy.
+- Pastillas Telecaster de una sola bobina: con voz interna en Fender, estas pastillas Squier de una sola bobina producen un tono nítido y articulado para una amplia variedad de estilos.
+- Máquinas de afinación selladas fundidas a presión con ejes divididos: las máquinas de afinación selladas de fundición a presión tienen una acción suave para una afinación precisa, y los ejes divididos hacen que cambiar las cuerdas sea muy fácil.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
