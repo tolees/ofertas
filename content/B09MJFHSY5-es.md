@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG Zephyrus G14 GA401QC - Ordenador Portátil Gaming de 14" Quad HD 120Hz  Ryzen 7 5800HS  16GB RAM  1TB SSD  RTX 3050 4GB  Sin Sistema Operativo  Gris Eclipse - Teclado QWERTY español'
-date: 2022-11-23 18:38:05
+date: 2022-11-26 00:27:05
 image: 'https://m.media-amazon.com/images/I/31cwEAz+JfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B09MJFHSY5/?tag=tolees-21'
 descuento: '35.74'
-average: '994.000000000004'
+average: '985.36363636364'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla de 14" Quad HD 2560 x 1440 pixeles, 120Hz, IPS 300 nits
+- Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
 - Sin Sistema Operativo
 - Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6
-- Almacenamiento de 1TB SSD M.2 NVMe PCIe
-- Memoria RAM de 16GB SO-DIMM DDR4 3200MHz
 - Procesador AMD Ryzen 7 5800HS (8C/OctaCore 2.8 / 4.4GHz, 16MB)
+- Pantalla de 14" Quad HD 2560 x 1440 pixeles, 120Hz, IPS 300 nits
+- Almacenamiento de 1TB SSD M.2 NVMe PCIe
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

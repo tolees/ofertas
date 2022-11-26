@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Medias para practicar Fútbol de Mujer
 - Ropa deportiva Morado de la marca Puma
-- Medias Evoknit High-Waist 7/8 Tights purple
+- Medias para practicar Fútbol de Mujer
 - Ropa deportiva fabricada con materiales de calidad que se adaptan a cualquier actividad deportiva
+- Medias Evoknit High-Waist 7/8 Tights purple
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Medición certificada clase ii, seguridad de precisión
 - Cliara colgar del cinturón y cinta para colgar, muy prácticas
 - Botón de freno práctico para rebobinado rápido, lento y parada
+- Medición certificada clase ii, seguridad de precisión
 - Caja antichoque con superficies propicias para un agarre muy efectivo
 - Cinta métrica en acero, resistencia y vida útil larga asegurada
 
