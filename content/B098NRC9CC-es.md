@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Slim Authentic Love Jeans  Azul  Auténtico Amor   38W x 34L para Mujer'
-date: 2022-11-24 15:59:33
+date: 2022-11-26 10:00:56
 image: 'https://m.media-amazon.com/images/I/314COjjCsPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B098NRC9CC-es Wrangler Slim Authentic Love Jeans Azul Auténtico Amor 38W...'
 sku: 'B098NRC9CC-es'
 tags: [ 'Moda','Moda Mujer','Ropa para mujer','Vaqueros para mujer','wrangler','🇪🇸', ]
-actualPrice: 17.83 EUR
+actualPrice: 17.19 EUR
 currency: EUR
-price: 17.83
+price: 17.19
 comparePrice: 89.95 EUR
 prodname: 'Wrangler Slim Authentic Love Jeans  Azul  Auténtico Amor   38W x 34L para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Wrangler'
 buyurl: 'https://www.amazon.es/dp/B098NRC9CC/?tag=tolees-21'
-descuento: '80.18'
-average: '18.485'
+descuento: '80.89'
+average: '18.0533333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
