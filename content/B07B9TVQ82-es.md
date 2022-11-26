@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HyperX Pulsefire Surge – Ratón de Gaming RGB'
-date: 2022-11-25 06:01:40
+date: 2022-11-26 21:03:18
 image: 'https://m.media-amazon.com/images/I/311q5PbHhlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HyperX'
 buyurl: 'https://www.amazon.es/dp/B07B9TVQ82/?tag=tolees-21'
 descuento: '57.29'
-average: '39.0109090909091'
+average: '38.4447826086957'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sensor Pixart 3389 con ajustes de PPP nativos de hasta 16000
 - Memoria integrada para almacenar las personalizaciones
 - Teclas fiables Omron para 50 millones de clics
-- Sensor Pixart 3389 con ajustes de PPP nativos de hasta 16000
 - El anillo de luz proporciona efectos RGB de 360° dinámicos
 - Fácil personalización gracias al software HyperX Ngenuity
 
