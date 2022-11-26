@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PANTALLA LED – muestra las funciones de los botones, PPP, el estado de conexión y lo que queda de batería
-- ERGONÓMICO – su diseño vertical reduce la tensión en el brazo y la muñeca, y permite trabajar cómodamente durante horas
 - PROGRAMABLE – personaliza tu experiencia con los botones programables
-- TÚ DECIDES – conéctate con el cable USB, el receptor USB o el Bluetooth: tú decides
+- ERGONÓMICO – su diseño vertical reduce la tensión en el brazo y la muñeca, y permite trabajar cómodamente durante horas
 - RECARGABLE – trabaja de una manera sostenible con una batería recargable y un interruptor on/off que ahorra energía
+- PANTALLA LED – muestra las funciones de los botones, PPP, el estado de conexión y lo que queda de batería
+- TÚ DECIDES – conéctate con el cable USB, el receptor USB o el Bluetooth: tú decides
 
 [🛒 Aquí!!!]({{< param buyurl >}})

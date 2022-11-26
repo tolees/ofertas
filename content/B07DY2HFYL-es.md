@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - VARIANTES DE PERSONAJES. Mortal Kombat X ofrece tres variantes para cada personaje, cada una de ellas con su propio estilo de lucha, movimientos especiales, habilidades y estrategias. La variante que cada jugador elija afectará al estilo y la manera de jugar
-- PERSONAJES CLÁSICOS Y NUEVOS. El juego cuenta con personajes clásicos como Scorpion, Sub-Zero, Raiden y Kano, pero también tiene personajes nuevos como Cassie Cage, Kotal Kahn, Ferra-Torr y DVorah
-- HISTORIA ORIGINAL. La nueva historia se sitúa 25 años después de los acontecimientos del Mortal Kombat de 2011. Además, aparecerán algunos nuevos personajes como Cassie Cage, hija de dos personajes clásicos como son Sonya Blade y Johnny Cage
 - "KOMBATE" VISCERAL: Mortal Kombat X supone una nueva evolución de los juegos de lucha, con el retorno de los Rayos-X y los fatalities, que harán de cada combate una batalla brutal gracias a los gráficos y las nuevas animaciones
+- HISTORIA ORIGINAL. La nueva historia se sitúa 25 años después de los acontecimientos del Mortal Kombat de 2011. Además, aparecerán algunos nuevos personajes como Cassie Cage, hija de dos personajes clásicos como son Sonya Blade y Johnny Cage
+- PERSONAJES CLÁSICOS Y NUEVOS. El juego cuenta con personajes clásicos como Scorpion, Sub-Zero, Raiden y Kano, pero también tiene personajes nuevos como Cassie Cage, Kotal Kahn, Ferra-Torr y DVorah
 
 [🛒 Visítala!!!]({{< param buyurl >}})

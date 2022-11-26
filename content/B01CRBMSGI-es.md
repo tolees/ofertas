@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Agua de colonia lavanda 750 ml
-- Color morado/rosa
 - Ligero y resistente
+- Color morado/rosa
+- Agua de colonia lavanda 750 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
