@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Classic fit, comodidad natural:<br/> un artículo diseñado para el movimiento.
+- Sudadera de hombre Lacoste con cuello redondo e inscripción
+- Cocodrilo bordado en la parte delantera:<br/> Lacoste atemporal.
 - Estampado de la fecha de creación de la marca en la parte trasera:<br/> detalles emblemáticos. Una marca legendaria.
 - Cuello redondo:<br/> un clásico de la sudadera.
-- Sudadera de hombre Lacoste con cuello redondo e inscripción
-- Classic fit, comodidad natural:<br/> un artículo diseñado para el movimiento.
-- Cocodrilo bordado en la parte delantera:<br/> Lacoste atemporal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

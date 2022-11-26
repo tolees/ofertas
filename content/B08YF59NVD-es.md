@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Muy transpirable
-- Corte elástico y cintura elástica
 - 92% poliéster, 8% elastano. Forro 100% algodón
+- Corte elástico y cintura elástica
 - Muy cómoda y muy buena sujeción
+- Muy transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sacacorchos eléctrico
 - Incluye cargador y cortacápsulas
-- Marca del producto: Arcos
 - Mando de ABS + Acero Inoxidable
+- Marca del producto: Arcos
+- Sacacorchos eléctrico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incluye un soporte universal magnético
+- Nota: al taladrar en metal, trabaje con líquido de refrigeración; por ejemplo, aceite para corte universal Bosch 2 607 001 409
+- Once brocas para metal de diámetro 1,5-6,5 mm con recubrimiento de nitruro de titanio, que se caracterizan por un avance de perforación rápido y una durabilidad especialmente larga (no utilizar para aluminio)
+- Diez puntas de atornillar extra duras para los tornillos más habituales, con cabeza Phillips, Pozidriv, Torx y de ranura longitudinal
 - Apropiado para todas las marcas de herramientas eléctricas
-- Cuatro brocas para piedra robustas y reforzadas con metal duro de diámetro 4-7 mm; convencen por su larga vida útil, el rápido arranque de material, la escasa generación de calor y la precisión
 - Aviso de seguridad: utilizar la protección necesaria según la aplicación: perforar metal: gafas protectoras; perforar madera: gafas protectoras y máscara contra el polvo; perforar piedra: gafas protectoras, máscara contra el polvo, orejeras y guantes
 - Cuatro brocas para madera afiladas de diámetro de 4-8 mm, con punta centradora y cortador escalonado para perforaciones precisas y sin roturas
-- Diez puntas de atornillar extra duras para los tornillos más habituales, con cabeza Phillips, Pozidriv, Torx y de ranura longitudinal
-- Nota: al taladrar en metal, trabaje con líquido de refrigeración; por ejemplo, aceite para corte universal Bosch 2 607 001 409
-- Incluye un soporte universal magnético
-- Once brocas para metal de diámetro 1,5-6,5 mm con recubrimiento de nitruro de titanio, que se caracterizan por un avance de perforación rápido y una durabilidad especialmente larga (no utilizar para aluminio)
+- Cuatro brocas para piedra robustas y reforzadas con metal duro de diámetro 4-7 mm; convencen por su larga vida útil, el rápido arranque de material, la escasa generación de calor y la precisión
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
