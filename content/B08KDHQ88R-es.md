@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ZÉFAL Bidón Isothermo Arctica 75  750ml  Unisex Adulto  Plateado y Negro  750 ml'
-date: 2022-11-22 22:43:14
+date: 2022-11-26 01:55:04
 image: 'https://m.media-amazon.com/images/I/41YC6NAp7RS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
