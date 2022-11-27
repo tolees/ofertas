@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pattex Silicona Casa grietas y fisuras  blanco  interior y exterior  280 ml'
-date: 2022-11-23 18:39:15
+date: 2022-11-27 06:30:32
 image: 'https://m.media-amazon.com/images/I/31j4IRroB2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para interiores y exteriores (no adecuado para sellar zonas expuestas a mucha agua o alta humedad)
-- Pintable
-- Inodoro
 - Fácil aplicación
+- Inodoro
 - Resistente a rayos UV
+- Pintable
+- Para interiores y exteriores (no adecuado para sellar zonas expuestas a mucha agua o alta humedad)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
