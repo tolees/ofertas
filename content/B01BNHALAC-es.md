@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch PST 700 E - Sierra de calar + Bosch 2 607 010 630 - Herramienta'
-date: 2022-11-26 14:10:59
+date: 2022-11-27 19:33:33
 image: 'https://m.media-amazon.com/images/I/4103Cd2TrUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
