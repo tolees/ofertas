@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox B New Flick Boy A  Sneakers para Bebé Niño  Multicolor  Lt Brown/Navy   27 EU'
-date: 2022-11-26 07:54:38
+date: 2022-11-27 12:51:18
 image: 'https://m.media-amazon.com/images/I/41WQUa451jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transpirable
 - Flexibilidad
+- Transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
