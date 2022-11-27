@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Royal Glide  Sneakers Hombre  Blanco  White/Steel   44 EU'
-date: 2022-11-26 13:50:08
+date: 2022-11-27 14:25:20
 image: 'https://m.media-amazon.com/images/I/21Mfx58hVLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B00Y3AIIWA/?tag=tolees-21'
 descuento: '47.05'
-average: '45.8837037037039'
+average: '45.7782568807341'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
