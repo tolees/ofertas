@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Anzarun Lite  Sneaker Unisex Adulto  Azul  Peacoat White   38 EU'
-date: 2022-11-18 00:09:35
+date: 2022-11-27 09:15:43
 image: 'https://m.media-amazon.com/images/I/41m9o1E-3gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B07S9S4QQV/?tag=tolees-21'
 descuento: '44.72'
-average: '42.305'
+average: '37.4066666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

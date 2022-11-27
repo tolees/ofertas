@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Excelente calidad de espresso gracias al ajuste preciso de temperatura y presión: la presión de 19 bares produce un espresso de excelente calidad con una crema extra. Elija un espresso simple o doble y deje que PrimaLatte II haga el resto. Puede cambiar la intensidad de su bebida con el botón "Espresso individual". Elija su marca de café favorita o monodosis ESE para preparar su café a su gusto.
-- Las opciones de control manual incluyen el regulador de fuerza de la espuma de leche y el modo exclusivo de espuma: crea la espuma perfecta para capuchinos y cafés con leche. Simplemente coloque el control giratorio en la posición deseada y el espumador de leche automático creará la espuma perfecta, ya sea a partir de leche o de alternativas a la leche. Si quieres un poco más de leche, ¡puedes añadir la que quepa en la taza gracias al dial ajustable!
-- Interfaz de usuario con botones e iluminación dedicados: los modos manual y programado son independientes y fácilmente identificables, incluido un icono dedicado e iluminado para el ciclo de limpieza.
-- Recipiente de leche extraíble grande: el recipiente es fácil de llenar y limpiar y es perfecto para almacenar residuos de leche en el refrigerador.
 - Programas preprogramados con solo presionar un botón: Espresso, Cappuccino y Latte: con solo presionar un botón puede preparar un espresso simple o doble, un capuchino simple o doble o un café con leche simple o doble.
+- Recipiente de leche extraíble grande: el recipiente es fácil de llenar y limpiar y es perfecto para almacenar residuos de leche en el refrigerador.
+- Excelente calidad de espresso gracias al ajuste preciso de temperatura y presión: la presión de 19 bares produce un espresso de excelente calidad con una crema extra. Elija un espresso simple o doble y deje que PrimaLatte II haga el resto. Puede cambiar la intensidad de su bebida con el botón "Espresso individual". Elija su marca de café favorita o monodosis ESE para preparar su café a su gusto.
+- Interfaz de usuario con botones e iluminación dedicados: los modos manual y programado son independientes y fácilmente identificables, incluido un icono dedicado e iluminado para el ciclo de limpieza.
+- Las opciones de control manual incluyen el regulador de fuerza de la espuma de leche y el modo exclusivo de espuma: crea la espuma perfecta para capuchinos y cafés con leche. Simplemente coloque el control giratorio en la posición deseada y el espumador de leche automático creará la espuma perfecta, ya sea a partir de leche o de alternativas a la leche. Si quieres un poco más de leche, ¡puedes añadir la que quepa en la taza gracias al dial ajustable!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

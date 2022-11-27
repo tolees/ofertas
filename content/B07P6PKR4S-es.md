@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Profesional - Bosch Professional 35x Set Pick and Click para taladrar y atornillar  Impact Control  Accesorios para Taladro Atornillador  - Amazon Edition'
-date: 2022-11-22 01:42:27
+date: 2022-11-27 09:03:26
 image: 'https://m.media-amazon.com/images/I/51eedXDMH8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Profesional'
 buyurl: 'https://www.amazon.es/dp/B07P6PKR4S/?tag=tolees-21'
 descuento: '48.56'
-average: '27.6133333333335'
+average: '27.1870588235296'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Todas las puntas tienen un vástago hexagonal exterior de ¼" y son compatibles con taladros atornilladores, taladros y atornilladores de batería
 - Sistema de un solo clic: acoplamiento seguro de los vástagos de las puntas en las ranuras de clic o una sencilla presión del pestillo de desbloqueo para retirarlas y cambiarlas
 - El set para taladrar y atornillar adaptable ofrece las herramientas correctas para el ámbito de trabajo correspondiente; se pueden sustituir las puntas según sea necesario para mezclar los sets y ajustarlos
-- Todas las puntas tienen un vástago hexagonal exterior de ¼" y son compatibles con taladros atornilladores, taladros y atornilladores de batería
-- Las brocas multiuso HEX-9 MultiConstruction permiten taladrar casi todos los materiales como hormigón, mampostería, cerámica blanda, madera, metal.; o materiales multicapa
 - Las puntas de impacto Impact Control son muy robustas y no se rompen, al disponer de una zona de torsión ampliada para resistir el uso con atornilladores potentes; las puntas de doble cara tienen a su vez dos cabezales que se pueden utilizar para perforar, es decir, duran el doble que las puntas convencionales
+- Las brocas multiuso HEX-9 MultiConstruction permiten taladrar casi todos los materiales como hormigón, mampostería, cerámica blanda, madera, metal.; o materiales multicapa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
