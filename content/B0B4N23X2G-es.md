@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Almohadón
 - Ligereza
 - Scape de correr
-- Almohadón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

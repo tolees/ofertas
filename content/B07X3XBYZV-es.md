@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eastpak Padded Pak r Mochila  40 cm  24 L  Rojo  Sailor Red '
-date: 2022-11-20 10:30:11
+date: 2022-11-28 11:00:11
 image: 'https://m.media-amazon.com/images/I/31wBnUBR8gS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EASTPAK'
 buyurl: 'https://www.amazon.es/dp/B07X3XBYZV/?tag=tolees-21'
 descuento: '42.33'
-average: '27.8625'
+average: '28.288'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correas acolchadas ajustables para hombros y panel trasero
-- Espacioso compartimento principal con nuestro emblemático bolsillo delantero
-- Compartimento principal espacioso con bolsillo delantero con cremallera
-- Fabricada con 60% nylon y 40% poliéster
-- Equipada con un panel acolchado en la parte trasera y correas para los hombros que se pueden ajustar para una mayor comodidad
+- 100 % nailon
+- Amplio compartimento principal y bolsillo delantero con cierre de cremallera
+- Alto: 40 cm Ancho: 30 cm Fondo: 18 cm
+- En nuestra tonalidad de temporada Sailor Red
+- Correas ajustables acolchadas para los hombros y panel trasero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

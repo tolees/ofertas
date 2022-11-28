@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Suave
 - sostenible
-- Elástico
 - Suéter
+- Elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

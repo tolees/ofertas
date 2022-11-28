@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Acompáñales en una increíble misión
-- Disfruta con tu familia y amistadaes
 - Es imprescindible el uso de Joy-Con para este juego (vendidos por separado en Nintendo Switch Lite). Juego no compatible con mando Nintendo Switch Pro.
 - Embárcate a un nuevo viaje legendario con los Rabbids
+- Disfruta con tu familia y amistadaes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

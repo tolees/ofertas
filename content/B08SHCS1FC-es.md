@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Profesional - Bosch Lijadora y pulidora a batería EasyCurvSander 12  1 batería  sistema de 12 V  en caja de cartón '
-date: 2022-11-27 02:37:00
+date: 2022-11-28 09:33:16
 image: 'https://m.media-amazon.com/images/I/51L6oKeV4JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Profesional'
 buyurl: 'https://www.amazon.es/dp/B08SHCS1FC/?tag=tolees-21'
 descuento: '44.19'
-average: '83.99'
+average: '79.99'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Las herramientas Easy de Bosch – una gran ayuda para pequeños proyectos
 - Con tres platos giratorios móviles para lijar y pulir superficies planas, curvas y redondas (madera dura, superficies pintadas, metal y cuero)
 - Power for ALL 12V: la batería incluida es compatible con todos los productos de la gama verde Bosch Home and Garden con sistema de 12 V
-- La preselección electrónica del número de revoluciones según la aplicación y el material
-- Las herramientas Easy de Bosch – una gran ayuda para pequeños proyectos
 - Malla de lijado duradera para una gran capacidad de eliminación de material y una excelente calidad de superficie
+- La preselección electrónica del número de revoluciones según la aplicación y el material
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

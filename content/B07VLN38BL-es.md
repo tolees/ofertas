@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Registra hasta 16 perfiles
-- Carcasa de ABS con superficie de vidrio
-- Mide solo el peso corporal, no la grasa corporal
 - Las balanzas Xiaomi son adecuadas para dispositivos iOS y Android.
+- Carcasa de ABS con superficie de vidrio
 - Prueba de equilibrio
+- Mide solo el peso corporal, no la grasa corporal
+- Registra hasta 16 perfiles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

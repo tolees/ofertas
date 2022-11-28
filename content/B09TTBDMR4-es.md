@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mochila preescolar con relieve frontal
 - Compartimento principal con cremallera
 - Dimensiones: 31 x 26 x 11cm
 - 2 bolsillos laterales de malla
+- Mochila preescolar con relieve frontal
 - Forro interior
 
 [🛒 Comprar!!!]({{< param buyurl >}})
