@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Ultra Flex 3.0  Zapatillas Mujer  Purple  39 EU'
-date: 2022-11-25 17:28:47
+date: 2022-11-28 18:32:12
 image: 'https://m.media-amazon.com/images/I/41hQiAAqApL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
