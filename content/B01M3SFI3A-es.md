@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Águila Roja - Serie Completa [DVD]'
-date: 2022-11-24 17:04:54
+date: 2022-11-28 14:45:25
 image: 'https://m.media-amazon.com/images/I/51C4HToxVXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3SFI3A/?tag=tolees-21'
 descuento: '39.98'
-average: '107.218'
+average: '101.848333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
