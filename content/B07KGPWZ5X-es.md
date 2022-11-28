@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ligero que ofrece comodidad
+- Cuello y puños de canalé con raya en otro color
 - Aberturas laterales
 - Tejido de secado rápido
-- Cuello y puños de canalé con raya en otro color
+- Diseño ligero que ofrece comodidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
