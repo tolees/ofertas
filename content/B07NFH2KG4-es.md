@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de neón
 - Clasificación de resistencia al agua (5 bar)
 - Caja de resina
+- Pantalla de neón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
