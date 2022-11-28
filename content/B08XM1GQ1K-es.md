@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger – Pokémon Labyrinth   Juegos de Mesa Laberinto  De 2 a 4 Jugadores  7+ Años'
-date: 2022-11-20 18:51:21
+date: 2022-11-28 08:51:45
 image: 'https://m.media-amazon.com/images/I/61HxVvTb6sS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ravensburger'
 buyurl: 'https://www.amazon.es/dp/B08XM1GQ1K/?tag=tolees-21'
 descuento: '43.24'
-average: '30.2616666666667'
+average: '29.2925000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SELECTA VISION - Dragon Ball Super. Box 6 [DVD]'
-date: 2022-11-26 13:45:21
+date: 2022-11-28 08:31:18
 image: 'https://m.media-amazon.com/images/I/61+N3jk9TNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SELECTA VISION'
 buyurl: 'https://www.amazon.es/dp/B07NNMNK6M/?tag=tolees-21'
 descuento: '42.29'
-average: '19.4170175438599'
+average: '19.3408620689658'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

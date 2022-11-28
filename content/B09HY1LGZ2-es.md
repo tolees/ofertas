@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Smart Band Pro – Pulsera de actividad con pantalla AMOLED de 1 47 ”  más de 110 modos de entrenamiento  monitoreo de frecuencia cardíaca  hasta 14 días de batería'
-date: 2022-11-24 19:54:52
+date: 2022-11-28 09:03:44
 image: 'https://m.media-amazon.com/images/I/3118DruYYOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09HY1LGZ2/?tag=tolees-21'
 descuento: '46.76'
-average: '37.9790384615386'
+average: '37.7339622641511'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

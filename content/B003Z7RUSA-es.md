@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Hombre Y La Tierra  Colección Completa + Libro  [DVD]'
-date: 2022-11-24 14:04:53
+date: 2022-11-28 07:41:07
 image: 'https://m.media-amazon.com/images/I/510WjKfXokL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B003Z7RUSA/?tag=tolees-21'
 descuento: '36.50'
-average: '54.5361375661377'
+average: '54.4596315789475'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
