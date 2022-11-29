@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stanley STHT0-62113 - Juego de 42 destornilladores con bolsa de nylon  Portapuntas + Puntas + Magnetizador  Punta del mango lisa  Destornillador de acero cromado  Anticorrosión  Recubrimiento SoftGrip'
-date: 2022-11-27 21:59:02
+date: 2022-11-29 15:01:35
 image: 'https://m.media-amazon.com/images/I/41yy7CgWxzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00CEWBL32-es Stanley STHT0-62113 - Juego de 42 destornilladores con...'
 sku: 'B00CEWBL32-es'
 tags: [ 'Bricolaje y herramientas','Destornilladores','Herramientas de mano','Herramientas manuales y eléctricas','Juegos de destornilladores','stanley','🇪🇸', ]
-actualPrice: 23.99 EUR
+actualPrice: 31.26 EUR
 currency: EUR
-price: 23.99
+price: 31.26
 comparePrice: 49.95 EUR
 prodname: 'Stanley STHT0-62113 - Juego de 42 destornilladores con bolsa de nylon  Portapuntas + Puntas + Magnetizador  Punta del mango lisa  Destornillador de acero cromado  Anticorrosión  Recubrimiento SoftGrip'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B00CEWBL32/?tag=tolees-21'
-descuento: '51.97'
-average: '23.1049999999999'
+descuento: '37.42'
+average: '23.3039024390243'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
