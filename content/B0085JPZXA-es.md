@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Watch Cap II - Gorro de Invierno Unisex  Color Azul  Talla única'
-date: 2022-11-21 15:50:36
+date: 2022-11-29 20:10:45
 image: 'https://m.media-amazon.com/images/I/41EP5lGJ2iS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B0085JPZXA/?tag=tolees-21'
 descuento: '35.05'
-average: '12.5225'
+average: '12.2826666666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
