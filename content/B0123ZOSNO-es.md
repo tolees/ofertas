@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Listo para uso con pistola, cordones o por puntos speradaos entre sí 15cm aprox. en soportes limpios, secos y sin polvo
-- Adhesivo elástico de agarre inmediato y elevada resistencia ideal para pegado vertical, en 3 segundos
-- Grandes propiedades adhesivas tanto en exterior como en interior incluso resistente al moho y a las bacterias
-- Se recomienda hacer previamente un test de adherencia y limpiar el producto con disolventes tipo acetona o isopropanol
 - Contenido: 1x Bostik Adhesivo de Agarre Inmediato, En 3 Segundos, MSP Turbo, Blanco, Cartucho 290 ml
+- Se recomienda hacer previamente un test de adherencia y limpiar el producto con disolventes tipo acetona o isopropanol
+- Grandes propiedades adhesivas tanto en exterior como en interior incluso resistente al moho y a las bacterias
+- Adhesivo elástico de agarre inmediato y elevada resistencia ideal para pegado vertical, en 3 segundos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

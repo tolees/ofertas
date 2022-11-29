@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sandalia
 - Correa ajustable
 - Plantilla de espuma
 - Suela cómoda
-- Sandalia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
