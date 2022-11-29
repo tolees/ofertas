@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Classic Nylon  Zapatillas Mujer  White/White/Light Grey  37 EU'
-date: 2022-11-28 02:23:36
+date: 2022-11-29 03:53:57
 image: 'https://m.media-amazon.com/images/I/31Ud0tnUI7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B087GZH4P3/?tag=tolees-21'
 descuento: '37.16'
-average: '39.6814285714286'
+average: '39.83'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

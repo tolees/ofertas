@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Reebok Royal Glide  Sneakers Hombre  Blanco  White/Steel   44 EU'
-date: 2022-11-27 14:25:20
+title: 'Reebok Royal Glide  Zapatillas Hombre  Blanco  White/Steel   44 EU'
+date: 2022-11-29 03:52:41
 image: 'https://m.media-amazon.com/images/I/21Mfx58hVLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00Y3AIIWA-es Reebok Royal Glide Sneakers Hombre Blanco White/Steel 44 EU'
+slug: 'B00Y3AIIWA-es Reebok Royal Glide Zapatillas Hombre Blanco White/Steel 44 EU'
 sku: 'B00Y3AIIWA-es'
 tags: [ 'Calzado deportivo para hombre','Calzados de running para hombre','Calzados para correr en asfalto para hombre','Moda','Moda Hombre','Zapatillas y calzado deportivo para hombre','Zapatos para hombre','reebok','🇪🇸', ]
-actualPrice: 34.39 EUR
+actualPrice: 36.0 EUR
 currency: EUR
-price: 34.39
+price: 36.0
 comparePrice: 64.95 EUR
-prodname: 'Reebok Royal Glide  Sneakers Hombre  Blanco  White/Steel   44 EU'
+prodname: 'Reebok Royal Glide  Zapatillas Hombre  Blanco  White/Steel   44 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B00Y3AIIWA/?tag=tolees-21'
-descuento: '47.05'
-average: '45.7782568807341'
+descuento: '44.57'
+average: '45.6893636363638'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

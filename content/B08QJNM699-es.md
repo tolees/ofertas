@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Billion Subtle Spots  Zapatillas Mujer  Off White Dura Leather White Leopard Trim  40 EU'
-date: 2022-11-28 02:25:04
+date: 2022-11-29 03:55:57
 image: 'https://m.media-amazon.com/images/I/41jFh2EUGrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B08QJNM699/?tag=tolees-21'
 descuento: '43.47'
-average: '52.465'
+average: '51.9336842105263'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
