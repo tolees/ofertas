@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El juego magnético de atracción de animales
-- Dependiendo de en qué parte del cuerpo se queden pegados consigues más o menos puntos
 - Gira los imanes y reta a tus rivales para ver quien gana
+- Dependiendo de en qué parte del cuerpo se queden pegados consigues más o menos puntos
 - Reta a tus amigos con los perros Butt Muts
+- El juego magnético de atracción de animales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

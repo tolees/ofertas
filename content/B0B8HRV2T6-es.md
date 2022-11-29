@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Práctica cafetera para 4 bebidas: café clásico (230 ml) y el equilibrado Gran Lungo (150 ml) hasta un intenso Espresso solo (40 ml) o doble (80 ml); Disfruta del mejor café recién hecho del campo a la taza
+- Extracción inteligente: reconoce el código impreso en el borde de cada cápsula Vertuo y ajusta los parámetros de preparación para que liberar el sabor de cada cápsula de café. No es necesario cambiar ningún ajuste. Solo pulsa el botón de la máquina y disfrutar
+- Bandeja de soporte antigoteo ajustable a 3 alturas distintas que se adapta a diferentes tamaños de tazas, desde las más pequeñas para espressos hasta cafés dobles; se puede extraer y hacer el café directamente en la taza
+- Gracias a su exclusiva tecnología Centrifusion permite extraer las propiedades de cada cápsula de forma precisa y a la máquina leer cada código de barras para calibrar sus parámetros, para hacer una infusión y extracción a tu medida y una crema deliciosa
 - Cafetera espresso de cápsulas Vertuo de Nespresso de diseño moderno y compacto; Su sistema elabora instantáneamente tazas de café grandes con espuma cremosa y natural así como espressos tradicionales; Está hecha en un 35 % con plástico reciclado
 - Disponible 3 tamaños de cápsulas diferentes: cápsula grande para alto y café; mediana para gran lungo y espresso doble; y pequeña para espresso; gracias a la expulsión automática de la cápsula tras la preparación para mayor limpieza
 - No compatible con las cápsulas de la gama original de Nespresso. Las cafeteras Vertuo NEXT, Vertuo PLUS y Vertuo POP de Nespresso cuentan con sus propias cápsulas para unos cafés deliciosos
-- Bandeja de soporte antigoteo ajustable a 3 alturas distintas que se adapta a diferentes tamaños de tazas, desde las más pequeñas para espressos hasta cafés dobles; se puede extraer y hacer el café directamente en la taza
-- Práctica cafetera para 4 bebidas: café clásico (230 ml) y el equilibrado Gran Lungo (150 ml) hasta un intenso Espresso solo (40 ml) o doble (80 ml); Disfruta del mejor café recién hecho del campo a la taza
-- Extracción inteligente: reconoce el código impreso en el borde de cada cápsula Vertuo y ajusta los parámetros de preparación para que liberar el sabor de cada cápsula de café. No es necesario cambiar ningún ajuste. Solo pulsa el botón de la máquina y disfrutar
-- Gracias a su exclusiva tecnología Centrifusion permite extraer las propiedades de cada cápsula de forma precisa y a la máquina leer cada código de barras para calibrar sus parámetros, para hacer una infusión y extracción a tu medida y una crema deliciosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

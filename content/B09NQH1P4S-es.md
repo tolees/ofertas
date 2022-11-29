@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York  Pintalabios efecto Vinilo Superstay Vinyl Ink  Vinilo fijo  Larga Duración  Tono 20 Coy'
-date: 2022-11-27 12:24:25
+date: 2022-11-28 22:24:09
 image: 'https://m.media-amazon.com/images/I/41JvShajN4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Maybelline New York'
 buyurl: 'https://www.amazon.es/dp/B09NQH1P4S/?tag=tolees-21'
 descuento: '41.70'
-average: '8.30526315789473'
+average: '8.23949999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
