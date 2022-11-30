@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '3L - Fundas para DVD con taladros para Archivo - 100 uds.'
-date: 2022-11-28 02:16:59
+date: 2022-11-30 05:07:52
 image: 'https://m.media-amazon.com/images/I/414fbwHffYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: '3L'
 buyurl: 'https://www.amazon.es/dp/B07BWSJGSW/?tag=tolees-21'
 descuento: '46.38'
-average: '22.8417910447763'
+average: '22.7449275362321'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
