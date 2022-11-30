@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Switch óptico para ratón Razer de 2a generación: La tasa de sondeo optimiza el potencial de los switches para que registren a una velocidad hasta 8 veces más rápida, ofreciendo así una ejecución limpia y veloz de hasta 70 millones de clicks sin dobles clicks involuntarios
-- Sensor óptico Razer Focus+ de 20 000 PPP: Con el uso de las funciones inteligentes, como la sincronización de movimiento y el rastreo asimétrico, nuestro sensor rastrea tu movimiento a la adecuación y sin retrasos, lo que te permite una respuesta adecuada y una precisión píxel a píxel
-- Memoria integrada adecuada: Estarás preparado para competir en cualquier sitio con hasta 5 perfiles almacenados que te ofrecen acceso a distribuciones asignadas óptimas, macros y el doble de entradas mediante la función Razer Hypershift
-- Diseño ligero de 71 g: Su diseño ágil es muy fácil de manejar y no pone en riesgo su resistencia, permitiendo así un control hábil que da la sensación de ser una extensión de tu mano
 - Tecnología Razer HyperPolling de 8000 Hz: Gracias a la tasa de sondeo de 8000 Hz reales, el ratón puede comunicar su posición y clicks al PC hasta 8000 veces por segundo, para una latencia de entrada insignificante y un nivel de velocidad adecuado
+- Sensor óptico Razer Focus+ de 20 000 PPP: Con el uso de las funciones inteligentes, como la sincronización de movimiento y el rastreo asimétrico, nuestro sensor rastrea tu movimiento a la adecuación y sin retrasos, lo que te permite una respuesta adecuada y una precisión píxel a píxel
+- Diseño ligero de 71 g: Su diseño ágil es muy fácil de manejar y no pone en riesgo su resistencia, permitiendo así un control hábil que da la sensación de ser una extensión de tu mano
+- Memoria integrada adecuada: Estarás preparado para competir en cualquier sitio con hasta 5 perfiles almacenados que te ofrecen acceso a distribuciones asignadas óptimas, macros y el doble de entradas mediante la función Razer Hypershift
+- Switch óptico para ratón Razer de 2a generación: La tasa de sondeo optimiza el potencial de los switches para que registren a una velocidad hasta 8 veces más rápida, ofreciendo así una ejecución limpia y veloz de hasta 70 millones de clicks sin dobles clicks involuntarios
 
 [🛒 Visítala!!!]({{< param buyurl >}})

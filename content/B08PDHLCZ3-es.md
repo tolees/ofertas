@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pensados para que los lleve cualquiera, en cualquier momento y lugar
+- Recomendamos que los hombres compren su talla y que las mujeres compren una talla menos
 - Sudadera premium con capucha y sin adornos
 - Acabada con un discreto logo en el pecho
 - Un corte más holgado con hombros ligeramente caídos
-- Recomendamos que los hombres compren su talla y que las mujeres compren una talla menos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

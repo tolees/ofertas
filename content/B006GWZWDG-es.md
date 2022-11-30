@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Presilla de ayuda para quitárselos en los dedos índice y corazón
-- Malla elástica en el dorso de la mano
-- Puño elástico y cierre de velcro para un ajuste individual en la muñeca
 - Guantes cortos de ciclismo con cuero de microfibra antideslizante y una inserción de gel
 - Ribete reflectante en el dorso de la mano para una visibilidad óptima
+- Puño elástico y cierre de velcro para un ajuste individual en la muñeca
+- Malla elástica en el dorso de la mano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
