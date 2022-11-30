@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene tacón plano
 - Cierre con cordones
+- Tiene tacón plano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

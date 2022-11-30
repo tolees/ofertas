@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte recto del muslo a los bajos
-- Cinturilla relajada
-- Corte holgado
 - Bragueta de cremallera
+- Corte holgado
+- Cinturilla relajada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
