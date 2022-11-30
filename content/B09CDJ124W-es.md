@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Es realmente fácil de usar
-- STABILO FREE está disponible en 3 modelos con colores brillantes; T100 y T300 con punta redonda optima para escribir, rotular, dibujar, trazar contornos; T800C con punta biselada optima para letras grandes en negrita, dibujar y colorear
-- Marcador acrílico de alta cobertura y tinta resistente a la luz; fabricado con más del 50% de plástico reciclado
-- Úsalo en papel, madera, vidrio, lona, ​​piel sintética, bicicletas, patinetas, zapatillas, paredes, mochilas y más
 - Una capa de color seco también se puede repintar o escribir con otros colores
+- Marcador acrílico de alta cobertura y tinta resistente a la luz; fabricado con más del 50% de plástico reciclado
+- STABILO FREE está disponible en 3 modelos con colores brillantes; T100 y T300 con punta redonda optima para escribir, rotular, dibujar, trazar contornos; T800C con punta biselada optima para letras grandes en negrita, dibujar y colorear
+- Úsalo en papel, madera, vidrio, lona, ​​piel sintética, bicicletas, patinetas, zapatillas, paredes, mochilas y más
+- Es realmente fácil de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
