@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sharkoon SGM1 - Ratón Gaming Óptico  10800 DPI  12 Botones  Negro'
-date: 2022-11-17 17:52:15
+date: 2022-11-30 01:53:59
 image: 'https://m.media-amazon.com/images/I/31w0MsH7kZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sharkoon'
 buyurl: 'https://www.amazon.es/dp/B01KTC3IXO/?tag=tolees-21'
 descuento: '37.09'
-average: '25.9333333333333'
+average: '25.425'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ratón para juego con iluminación RGB
-- Memoria integrada para perfiles de juego; switches omron en los botones izquierdo y derecho del ratón
 - Botones macro de rápido acceso, Rueda de desplazamiento de cuatro direcciones y sistema de ajuste de peso
-- Sensor óptico PixArt PMW 3336 con 10.800 DPI
+- Memoria integrada para perfiles de juego; switches omron en los botones izquierdo y derecho del ratón
 - Software para juego; 12 botones programables; cable textil trenzado (USB chapado en oro)
+- Ratón para juego con iluminación RGB
+- Sensor óptico PixArt PMW 3336 con 10.800 DPI
 
 [🛒 Aquí!!!]({{< param buyurl >}})
