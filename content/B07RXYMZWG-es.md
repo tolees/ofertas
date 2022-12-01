@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pack de tres pares
-- Amortiguación específica
-- Tela suave
 - Diseño ligero que se adapta a la forma del pie
+- Tela suave
+- Amortiguación específica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
