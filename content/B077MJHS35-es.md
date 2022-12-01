@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash V2 L  Sneaker Unisex Adulto  Blanco  39 EU'
-date: 2022-11-30 05:26:11
+date: 2022-12-01 10:50:54
 image: 'https://m.media-amazon.com/images/I/319OMlLblAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B077MJHS35/?tag=tolees-21'
 descuento: '50.05'
-average: '35.4420183486242'
+average: '35.3466363636367'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

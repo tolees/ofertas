@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'adidas Vs Pace  Zapatillas de Skateboard Hombre  Footwear White/Core Black/Team Royal Blue  44 EU'
-date: 2022-11-21 07:32:42
+title: 'adidas Vs Pace  Zapatillas Hombre  Blanco  White/Core Black/Team Royal Blue   44 EU'
+date: 2022-12-01 10:08:58
 image: 'https://m.media-amazon.com/images/I/413xyNWZKoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08BX4KLW2-es adidas Vs Pace Zapatillas de Skateboard Hombre Footwear...'
+slug: 'B08BX4KLW2-es adidas Vs Pace Zapatillas Hombre Blanco White/Core...'
 sku: 'B08BX4KLW2-es'
 tags: [ 'Moda','Moda Hombre','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos para hombre','adidas','🇪🇸', ]
-actualPrice: 32.99 EUR
+actualPrice: 28.99 EUR
 currency: EUR
-price: 32.99
+price: 28.99
 comparePrice: 55.0 EUR
-prodname: 'adidas Vs Pace  Zapatillas de Skateboard Hombre  Footwear White/Core Black/Team Royal Blue  44 EU'
+prodname: 'adidas Vs Pace  Zapatillas Hombre  Blanco  White/Core Black/Team Royal Blue   44 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08BX4KLW2/?tag=tolees-21'
-descuento: '40.02'
-average: '34.8233333333333'
+descuento: '47.29'
+average: '33.365'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior de cuero nobuck sintético
 - Cómodo forro textil
 - Suela de goma vulcanizada
+- Parte superior de cuero nobuck sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

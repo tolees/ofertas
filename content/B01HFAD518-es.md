@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Merrell Moab 2 GTX  Zapatillas de Senderismo Hombre  Gris  Beluga   44 EU'
-date: 2022-11-21 04:55:33
+date: 2022-12-01 10:49:03
 image: 'https://m.media-amazon.com/images/I/31F94YD+g7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01HFAD518-es Merrell Moab 2 GTX Zapatillas de Senderismo Hombre Gris...'
 sku: 'B01HFAD518-es'
 tags: [ 'Calzado de senderismo para hombre','Calzado deportivo para hombre','Moda','Moda Hombre','Zapatillas de senderismo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos para hombre','merrell','🇪🇸', ]
-actualPrice: 86.94 EUR
+actualPrice: 70.0 EUR
 currency: EUR
-price: 86.94
+price: 70.0
 comparePrice: 135.0 EUR
 prodname: 'Merrell Moab 2 GTX  Zapatillas de Senderismo Hombre  Gris  Beluga   44 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Merrell'
 buyurl: 'https://www.amazon.es/dp/B01HFAD518/?tag=tolees-21'
-descuento: '35.60'
-average: '78.2833333333333'
+descuento: '48.15'
+average: '78.1354545454546'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño ligero
 - Material de la suela resistente y duradero
+- Diseño ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
