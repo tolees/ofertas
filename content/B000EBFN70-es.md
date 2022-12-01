@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hama Star 05 - Trípode para cámaras foto/video  106.5 cm  aluminio  cabeza 3D  color dorado/negro  020509 '
-date: 2022-11-27 12:52:08
+date: 2022-12-01 16:10:24
 image: 'https://m.media-amazon.com/images/I/41zRHLTIiwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hama'
 buyurl: 'https://www.amazon.es/dp/B000EBFN70/?tag=tolees-21'
 descuento: '54.82'
-average: '11.04875'
+average: '11.0233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapata de liberación rápida que permite una transición más rápida entre fotografías. Además también dispone de un nivel burbuja.
+- El trípode Hama Star 05 viene con una funda de transporte.
 - Trípode Hama Star 05. Para cámaras digitales de hasta 2.5Kg
 - Altura ajustable desde 36.5 cm hasta 106.5 cm. Gracias a sus tres patas de aluminio de liberación rápida podrás montar el trípode en cuestión de segundos a la altura deseada.
 - Los pies son de goma, además, tiene una pata central para aportar mayor estabilidad.
-- El trípode Hama Star 05 viene con una funda de transporte.
+- Zapata de liberación rápida que permite una transición más rápida entre fotografías. Además también dispone de un nivel burbuja.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

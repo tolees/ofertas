@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas BBALLCAP LT Met Hat  Unisex-Adult  Black/Black/Black  OSFM'
-date: 2022-11-30 07:33:02
+date: 2022-12-01 16:34:24
 image: 'https://m.media-amazon.com/images/I/31Z-f1ZkhPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece protección solar
-- Correa ajustable
 - Gorra adidas
+- Correa ajustable
 - Visera preformada
+- Ofrece protección solar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
