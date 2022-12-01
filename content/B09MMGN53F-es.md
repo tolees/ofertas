@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Reebok Lavante Trail 2 Shoes  Sneakers Hombre  Negro  Core Black/Infused Lilac/Acid Yellow   39 1/3 EU'
+date: 2022-12-01 13:15:19
+image: 'https://m.media-amazon.com/images/I/41suPyBzesL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09MMGN53F-es Reebok Lavante Trail 2 Shoes Sneakers Hombre Negro Core...'
+sku: 'B09MMGN53F-es'
+tags: [ 'Moda','Moda Hombre','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos para hombre','reebok','🇪🇸', ]
+actualPrice: 45.6 EUR
+currency: EUR
+price: 45.6
+comparePrice: 80.0 EUR
+prodname: 'Reebok Lavante Trail 2 Shoes  Sneakers Hombre  Negro  Core Black/Infused Lilac/Acid Yellow   39 1/3 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Reebok'
+buyurl: 'https://www.amazon.es/dp/B09MMGN53F/?tag=tolees-21'
+descuento: '43.00'
+average: '45.6'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Practica tu deporte favorito gracias a las Zapatillas de Reebok. Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
+- [REE]CYCLED: hecha con al menos un 30 % de materiales reciclados o reutilizados.
+- Ajuste clásico.
+- Cierre de cordones.
+- Parte superior de malla.
+
+[🛒 Aquí!!!]({{< param buyurl >}})
