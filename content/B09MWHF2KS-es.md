@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste regular
 - MiDori: Fabricado con el tratamiento de acabado biológico miDori BioWick.
-- Contiene material reciclado: fabricado con fibras recicladas. Una de las respuestas de Puma para reducir nuestro impacto ambiental.
-- Cuello redondo
 - dryCELL: la designación de Puma para propiedades de absorción de humedad que te ayudan a mantenerte seco y cómodo
+- Cuello redondo
+- Contiene material reciclado: fabricado con fibras recicladas. Una de las respuestas de Puma para reducir nuestro impacto ambiental.
+- Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
