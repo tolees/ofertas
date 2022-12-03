@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers OG 85 GOLD N GURL  Zapatillas de deporte para Mujer  Burgundy Suede/ Nylon/ Mesh/ Rose Gold Trim  38 EU'
-date: 2022-12-01 10:59:43
+date: 2022-12-03 11:21:27
 image: 'https://m.media-amazon.com/images/I/31pLpsNRYfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Alpargatas planas de mujer','Moda','Moda Mujer','Zapatos para mujer','Z
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95
-comparePrice: 79.95 EUR
+comparePrice: 74.95 EUR
 prodname: 'Skechers OG 85 GOLD N GURL  Zapatillas de deporte para Mujer  Burgundy Suede/ Nylon/ Mesh/ Rose Gold Trim  38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B074JG3RGY/?tag=tolees-21'
-descuento: '47.53'
-average: '44.6353191489363'
+descuento: '44.03'
+average: '44.5793750000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
