@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Hasta 64GB de almacenamiento
 - Incluye la protección con contraseña sandisk secureaccess
 - Elegante diseño de metal fundido
-- Transfiere una película a la memoria en menos de 30 segundos
-- Hasta 64GB de almacenamiento
 - Usb 3.1 (gen. 1) con velocidades de hasta 150.mb/s
+- Transfiere una película a la memoria en menos de 30 segundos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

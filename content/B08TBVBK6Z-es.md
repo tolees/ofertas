@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Desigual Accesorios - Bolso bandolera bolsillos de color plano
-- Bolso bandolera liso con bolsillos de cremallera y asa bandolera con lettering Nueva colección Accesorios OI21 Desigual.
-- Do Not Wash
 - Atractivo color plano
+- Do Not Wash
+- Bolso bandolera liso con bolsillos de cremallera y asa bandolera con lettering Nueva colección Accesorios OI21 Desigual.
 - Llavero exterior en forma mini bolsillo en color negro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
