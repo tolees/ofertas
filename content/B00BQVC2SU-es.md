@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No pegajoso y sin látex
 - El lubricante tiene un efecto inhibitorio sobre la estimulación
+- No pegajoso y sin látex
 - Trae una sensación calmante y entumecimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
