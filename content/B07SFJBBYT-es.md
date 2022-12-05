@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Tijuana  Sneakers Mujer  Negro  R Black 59   38 EU'
-date: 2022-12-03 06:03:54
+date: 2022-12-04 23:24:37
 image: 'https://m.media-amazon.com/images/I/31hM-ZRKmNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07SFJBBYT/?tag=tolees-21'
 descuento: '40.00'
-average: '27.06625'
+average: '27.0588888888889'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
