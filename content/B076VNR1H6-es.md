@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Rovic Relaxed  Shorts  Hombre  Beige  dune 5126-239   34W'
-date: 2022-12-01 10:46:58
+date: 2022-12-05 11:29:56
 image: 'https://m.media-amazon.com/images/I/41RRVVpi30L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'G-STAR RAW'
 buyurl: 'https://www.amazon.es/dp/B076VNR1H6/?tag=tolees-21'
 descuento: '37.02'
-average: '58.1776923076923'
+average: '58.297'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
