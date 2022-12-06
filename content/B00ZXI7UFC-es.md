@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic Lumix DMC-G7KEC - Cámara EVIL de 16 MP  Pantalla 3"  Grabación de Vídeo en 4K  Wi-Fi  RAW  Cuerpo Ergonómico  Kit con Objetivo Lumix Vario 14 - 42 mm/F3.5 - 5.6  Color Negro'
-date: 2022-11-27 14:24:24
+date: 2022-12-06 18:30:25
 image: 'https://m.media-amazon.com/images/I/31nBayOR3aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Panasonic'
 buyurl: 'https://www.amazon.es/dp/B00ZXI7UFC/?tag=tolees-21'
 descuento: '50.01'
-average: '485.556756756758'
+average: '483.302631578949'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Todo en el lugar óptimo: con diseño sólido y compacto te permite acceder de inmediato a funciones clave, como la apertura frontal y el dial de velocidad del obturador
-- Modo autointeligente: La G7 se basa en la experiencia de generaciones de fotógrafos con detención de caras, configuración ISO, solo tienes que seleccionar el modo iA para capturar fotografías
-- Cámara sin espejo de objetivo único digital, EVIL, calidad de imagen, Fino, Estándar/MPO+Fine / MPO+Standard (con lente 3D en el sistema Micro Cuatro Tercios), función WiFi, modo de infraestructura
-- Utilice una tarjeta con SD Speed Class con "Class 4" o superior al grabar películas; el tiempo máximo para grabar películas continuamente con MP4 en 4K es 29 minutos y 59 segundos
 - Resolución 4K: un mundo de posibilidades gracias a la grabación 4K; grabar con una calidad de detalle asombrosa, también podrás volver sobre el metraje y seleccionar fotografías de 8 megapíxeles
+- Utilice una tarjeta con SD Speed Class con "Class 4" o superior al grabar películas; el tiempo máximo para grabar películas continuamente con MP4 en 4K es 29 minutos y 59 segundos
+- Cámara sin espejo de objetivo único digital, EVIL, calidad de imagen, Fino, Estándar/MPO+Fine / MPO+Standard (con lente 3D en el sistema Micro Cuatro Tercios), función WiFi, modo de infraestructura
+- Modo autointeligente: La G7 se basa en la experiencia de generaciones de fotógrafos con detención de caras, configuración ISO, solo tienes que seleccionar el modo iA para capturar fotografías
+- Todo en el lugar óptimo: con diseño sólido y compacto te permite acceder de inmediato a funciones clave, como la apertura frontal y el dial de velocidad del obturador
 - Céntrate en el momento: nitidez gracias a la tecnología DFD, que predice el punto de foco comparando dos imágenes con diferentes profundidades de campo para obtener mejores resultados en menos tiempo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

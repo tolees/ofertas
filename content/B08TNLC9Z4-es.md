@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Eficacia demostrada: Lumea IPL evita que el vello vuelva a crecer para disfrutar de hasta 3 meses de suavidad sin vello* y hasta un 85 % de reducción del vello en tan solo 3 sesiones**
-- Tratamiento rápido: Realice el tratamiento solo cada dos semanas durante las primeras 6 semanas (a diferencia de otras marcas, en las que es todas las semanas). Después, retoque mensualmente para mantener los resultados.
 - Con origen en los salones profesionales: Philips Lumea IPL se ha desarrollado junto con científicos expertos y dermatólogos y se ha probado en más de 3000 mujeres.
-- Adapte su tratamiento: Elige entre cinco ajustes de intensidad de luz para disfrutar de la experiencia más cómoda y deja que la aplicación gratuita de asesoramiento de Lumea te guiará paso a paso por tus sesiones.
+- Eficacia demostrada: Lumea IPL evita que el vello vuelva a crecer para disfrutar de hasta 3 meses de suavidad sin vello* y hasta un 85 % de reducción del vello en tan solo 3 sesiones**
 - 3 accesorios: Los cabezales para el cuerpo, la cara y la línea del bikini trabajan con velocidad y precisión. El accesorio para la cara dispone de un filtro de luz integrado para mayor seguridad. Incluye también una funda y un lápiz recortador Satin Compact.
+- Adapte su tratamiento: Elige entre cinco ajustes de intensidad de luz para disfrutar de la experiencia más cómoda y deja que la aplicación gratuita de asesoramiento de Lumea te guiará paso a paso por tus sesiones.
+- Tratamiento rápido: Realice el tratamiento solo cada dos semanas durante las primeras 6 semanas (a diferencia de otras marcas, en las que es todas las semanas). Después, retoque mensualmente para mantener los resultados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
