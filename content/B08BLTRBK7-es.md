@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Courtright  Zapatillas Hombre  Brown  40 EU'
-date: 2022-12-04 06:16:54
+date: 2022-12-06 19:37:03
 image: 'https://m.media-amazon.com/images/I/41qjoQJHP6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLTRBK7/?tag=tolees-21'
 descuento: '39.27'
-average: '38.32375'
+average: '38.0644444444444'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
