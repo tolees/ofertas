@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gestiona relaciones diplomáticas: decide con quien tener acuerdos con las diferentes facciones para reclamar la Tierra. Gana recompensas únicas por cooperar (y lucha por las consecuencias de la oposición)
-- Desarrollo profundo y extenso del soldado: personaliza tus soldados con habilidades únicas y un amplio despliegue de armas y equipo
-- Intentas batallas de brigada por turnos: despliega tu brigada de cuatro más soldados y drones en batallas tácticas por turnos;Toma el control de los tiros de tus soldados con un único sistema de puntería libre que deja apuntar a los puntos débiles de enemigos, sus armas y mas puntos de impacto
 - Descubre los secretos de la amenaza: experimenta una narrativa compleja con múltiples finales y aprende los orígenes de la crisis a través de la exploración, diplomacia e investigación
-- Optimizado para consolas: Interfaz y controles renovados para consolas
-- Defiende la Tierra de aliens mutantes: derrota a los aliens que se adaptan a tus tácticas constantemente desafiándote;Lucha en intensas batallas de jefes contra grandes monstruos con habilidades únicas que requieren un plan preciso
-- Actualización gratuita de siguiente generación: experimenta el juego a 4K y 60fps en Playstation 5 y Xbox Series X con una actualización gratis para los usuarios de Playstation 4 y Xbox One después del lanzamiento
 - Tecnología de nueva generación con linaje clásico: Phoenix Point fue diseñado por Julian Gollop, creador de X-COM en 1990; Integra el núcleo de X-COM mientras mejora lo visual, tecnología y sistema a los estándares modernos que hacen a Phoenix Point el mejor de su clase
+- Gestiona relaciones diplomáticas: decide con quien tener acuerdos con las diferentes facciones para reclamar la Tierra. Gana recompensas únicas por cooperar (y lucha por las consecuencias de la oposición)
+- Intentas batallas de brigada por turnos: despliega tu brigada de cuatro más soldados y drones en batallas tácticas por turnos;Toma el control de los tiros de tus soldados con un único sistema de puntería libre que deja apuntar a los puntos débiles de enemigos, sus armas y mas puntos de impacto
+- Optimizado para consolas: Interfaz y controles renovados para consolas
+- Actualización gratuita de siguiente generación: experimenta el juego a 4K y 60fps en Playstation 5 y Xbox Series X con una actualización gratis para los usuarios de Playstation 4 y Xbox One después del lanzamiento
+- Defiende la Tierra de aliens mutantes: derrota a los aliens que se adaptan a tus tácticas constantemente desafiándote;Lucha en intensas batallas de jefes contra grandes monstruos con habilidades únicas que requieren un plan preciso
+- Desarrollo profundo y extenso del soldado: personaliza tus soldados con habilidades únicas y un amplio despliegue de armas y equipo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
