@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAUS LABORATORIES By Lady Gaga: HAUS OF COLLECTIONS | Juego De Maquillaje Con Neceser  Sombra De Ojos Líquida  Perfilador De Labios Y Brillo Labial Disponible En 9 Combinaciones | Juego De 3 Unidades'
-date: 2022-12-03 12:13:24
+date: 2022-12-07 08:50:06
 image: 'https://m.media-amazon.com/images/I/41mwgs7bl7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Glam Attack: Para usar como color, aplicar en las áreas del rostro que se quieran amplificar
-- RIP Lip Liner: Para usarlo como delineador, dibujar dentro o fuera del contorno de los labios
 - Le Riot Lip Gloss: Para usarlo como brillo, usar el aplicador sobre los labios desnudos
+- RIP Lip Liner: Para usarlo como delineador, dibujar dentro o fuera del contorno de los labios
 - Tres productos mezclables diseñados para usarse solos, juntos o unos sobre otros
+- Glam Attack: Para usar como color, aplicar en las áreas del rostro que se quieran amplificar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

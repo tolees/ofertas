@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans UA Authentic  Zapatillas Unisex Adulto  Black  37 EU'
-date: 2022-12-06 08:30:43
+date: 2022-12-07 08:53:01
 image: 'https://m.media-amazon.com/images/I/31hyHqS-ZnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B001RQLGIG/?tag=tolees-21'
 descuento: '43.08'
-average: '43.8014285714286'
+average: '42.95'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: goma
 - Material exterior: lona
-- Adecuado para: unisex (adultos)
-- La estación ideal: para todas las estaciones
 - Cierre: cordones
+- La estación ideal: para todas las estaciones
+- Material de la suela: goma
+- Adecuado para: unisex (adultos)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
