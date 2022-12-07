@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ultrasport Garden Trampoline Jumper  juego completo de trampolín con colchoneta de salto  red de seguridad  poste de red acolchado y cubierta de borde  Jumper - ø 305 cm  máx. carga 160 kg  Azul'
-date: 2022-12-06 15:14:34
+date: 2022-12-07 20:28:18
 image: 'https://m.media-amazon.com/images/I/41YSfYdsfBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ultrasport'
 buyurl: 'https://www.amazon.es/dp/B002U0KB8E/?tag=tolees-21'
 descuento: '51.37'
-average: '185.99'
+average: '178.99'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
