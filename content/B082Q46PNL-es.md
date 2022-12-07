@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asics Classic CT  Zapatillas Hombre  Blanco  White/Midnight   39 EU'
-date: 2022-12-06 08:38:00
+date: 2022-12-07 13:02:20
 image: 'https://m.media-amazon.com/images/I/31fr1PLM0GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASICS'
 buyurl: 'https://www.amazon.es/dp/B082Q46PNL/?tag=tolees-21'
 descuento: '41.00'
-average: '28.7775'
+average: '30.102'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Piel sintética suave
 - Silueta minimalista
-- Plantilla Ortholite
 - Logotipo clásico
 - Durable
-- Piel sintética suave
+- Plantilla Ortholite
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
