@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20th Century Fox Home Entertainment España  S.A. - Dragon Ball Z Battle Of Gods. Edición Extendida. [DVD]'
-date: 2022-12-04 17:14:54
+date: 2022-12-07 13:44:29
 image: 'https://m.media-amazon.com/images/I/511EgrTP07L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ '20th century fox home entertainment españa, s.a.','Anime','DVD','Featu
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39
-comparePrice: 9.99 EUR
+comparePrice: 9.18 EUR
 prodname: '20th Century Fox Home Entertainment España  S.A. - Dragon Ball Z Battle Of Gods. Edición Extendida. [DVD]'
 country: 'es'
 flag: '🇪🇸'
 brand: '20th Century Fox Home Entertainment España, S.A.'
 buyurl: 'https://www.amazon.es/dp/B015QMDVL6/?tag=tolees-21'
-descuento: '46.05'
-average: '7.21'
+descuento: '41.29'
+average: '7.09625'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
