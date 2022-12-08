@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Además, la estación dispone de otras funciones como indicador de hora, alarma, memoria de valores máximos y mínimos y previsión meteorológica gráfica.
-- La estación meteorológica con pantalla multicolor ofrece numerosos datos como temperatura, humedad, presión atmosférica y las diferentes fases de la luna.
 - Memoria de los valores máximos y mínimos. Condiciones climáticas generales. Elementos operativos sencillos y claros
-- Dimensiones: 165 x 29 x 130 mm. Peso: 255 g. La estación puede funcionar tanto con el enchufe de alimentación incluido como con 3 pilas AA. El sensor necesita 2 pilas AA (no incluidas en el envío).
+- La estación meteorológica con pantalla multicolor ofrece numerosos datos como temperatura, humedad, presión atmosférica y las diferentes fases de la luna.
 - El sensor exterior calcula los valores externos de temperatura y humedad. Se pueden conectar hasta tres sensores a la estación.
+- Además, la estación dispone de otras funciones como indicador de hora, alarma, memoria de valores máximos y mínimos y previsión meteorológica gráfica.
+- Dimensiones: 165 x 29 x 130 mm. Peso: 255 g. La estación puede funcionar tanto con el enchufe de alimentación incluido como con 3 pilas AA. El sensor necesita 2 pilas AA (no incluidas en el envío).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
