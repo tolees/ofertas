@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Azul  Navy   43 EU'
-date: 2022-12-07 20:13:29
+date: 2022-12-08 23:11:11
 image: 'https://m.media-amazon.com/images/I/21IOnr1ppAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Moda','Moda Hombre','Zapatillas casual para hombre','Zapatillas y calza
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0
-comparePrice: 59.0 EUR
+comparePrice: 59.95 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Azul  Navy   43 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B002LTD5O6/?tag=tolees-21'
-descuento: '38.98'
-average: '35.4870930232559'
+descuento: '39.95'
+average: '35.4929885057472'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Zapato con cordones
+- Goma vulcanizada
 - Suela de lona
 - Superga Zapato de moda
-- Goma vulcanizada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
