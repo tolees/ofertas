@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Plastoy Dragon Ball Z Hucha Krillin  Multicolor  único  80061.0 '
-date: 2022-11-29 23:59:24
+date: 2022-12-09 16:11:48
 image: 'https://m.media-amazon.com/images/I/416+cddgMWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Decoración del hogar','Decoración infantil','Hogar y cocina','Huchas'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99
-comparePrice: 14.91 EUR
+comparePrice: 13.95 EUR
 prodname: 'Plastoy Dragon Ball Z Hucha Krillin  Multicolor  único  80061.0 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Plastoy'
 buyurl: 'https://www.amazon.es/dp/B01LQL51AK/?tag=tolees-21'
-descuento: '46.41'
-average: '8.74714285714285'
+descuento: '42.72'
+average: '8.65249999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo chibi
 - Material resistente
+- Estilo chibi
 - Hucha
-- Licencia oficial
 - Dragon ball
+- Licencia oficial
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
