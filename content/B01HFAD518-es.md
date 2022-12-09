@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño ligero
 - Material de la suela resistente y duradero
+- Diseño ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

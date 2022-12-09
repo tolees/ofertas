@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta calidad
 - Diseno funcional
-- Brand: Helly Hansen
 - Pinehurst Leather
+- Brand: Helly Hansen
+- Alta calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
