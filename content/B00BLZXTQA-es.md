@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell Amoladora angular TE-AG 125 CE  1100 W  disco Ø 125 mm  electrónica constante  capó de protección  llave en mango adicional ajustable  sin disco de corte '
-date: 2022-12-09 19:08:51
+date: 2022-12-10 20:03:14
 image: 'https://m.media-amazon.com/images/I/41id4bjsh2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Einhell'
 buyurl: 'https://www.amazon.es/dp/B00BLZXTQA/?tag=tolees-21'
 descuento: '53.03'
-average: '50.3714285714286'
+average: '49.0625'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cabezal de metal plano del engranaje
-- Protección del disco con ajuste rápido
-- Diseño estilizado
-- Llave de espigas en el asa auxiliar
-- Bloqueo del husillo
-- Mango auxiliar con empuñadura principal con agarre antideslizante
-- Electrónica constante
 - Indicador LED de funcionamiento
+- Llave de espigas en el asa auxiliar
+- Mango auxiliar con empuñadura principal con agarre antideslizante
+- Cabezal de metal plano del engranaje
+- Electrónica constante
 - Mango auxiliar que se puede montar en 3 posiciones
+- Diseño estilizado
+- Protección del disco con ajuste rápido
+- Bloqueo del husillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
