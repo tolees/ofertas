@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers DYNA-AIR  Zapatillas Hombre  Charcoal Mesh/Black Trim  43 EU'
-date: 2022-12-08 23:09:00
+date: 2022-12-10 01:06:43
 image: 'https://m.media-amazon.com/images/I/41RRdg-4zmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07NYTJSP4/?tag=tolees-21'
 descuento: '40.51'
-average: '46.7442857142857'
+average: '46.475'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
