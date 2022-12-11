@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Movimiento multifunción
 - Grosor de la caja de 9,6 mm
-- 5 ATM de resistencia al agua
+- Movimiento multifunción
 - Esfera azul marina
 - Pulsera chapado en oro amarillo
+- 5 ATM de resistencia al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
