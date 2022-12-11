@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talle medio
 - Largo hasta el tobillo con borde sin rematar
 - Prenda ajustada de arriba abajo
 - Corte pitillo
+- Talle medio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
