@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Almacena más de 36 horas de vídeo en HD, 67.600 fotos o 58.100 canciones
 - Incluye una tarjeta de alta velocidad de Clase 10 y un adaptador SD
 - Captura, almacena, reproduce y transfiere archivos multimedia rápidamente, incluso videos Full-HD en 1080p, 3D y 4K
+- Almacena más de 36 horas de vídeo en HD, 67.600 fotos o 58.100 canciones
 - Aprovecha la tecnología UHS-I para obtener una velocidad de transferencia de hasta 95 MB/s (633x)
 - Compatibles con las cámaras GoPro (32GB-256GB)
 
