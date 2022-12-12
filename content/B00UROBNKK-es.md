@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taquilla profesional desmontada 1 cuerpo 1 puerta con divisor dentro Gris/Gris Simonrack 1800x400x500 mms - Taquilla industrial - taquilla de vestuario'
-date: 2022-12-11 07:40:12
+date: 2022-12-12 08:16:23
 image: 'https://m.media-amazon.com/images/I/212430MjhpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

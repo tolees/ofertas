@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenamiento de 1TB SSD PCIe Gen4 NVMe actualizable 4TB + Open M.2 Slot (Supports 2-sided NVMe Drive)
-- Tipo de conectividad: Wi-Fi
-- Procesador Intel Core i7-11800H
-- Memoria Ram de 16 GB DDR4-3200MHz
-- Targeta gráfica NVIDIA GeForce RTX 3060, 6GB DDR6 VRAM
-- Pantalla de 17.3" QHD 2560 x 1440, 165Hz
 - Sistema Operativo: Windows 10
+- Pantalla de 17.3" QHD 2560 x 1440, 165Hz
+- Tipo de conectividad: Wi-Fi
+- Almacenamiento de 1TB SSD PCIe Gen4 NVMe actualizable 4TB + Open M.2 Slot (Supports 2-sided NVMe Drive)
+- Memoria Ram de 16 GB DDR4-3200MHz
+- Procesador Intel Core i7-11800H
+- Targeta gráfica NVIDIA GeForce RTX 3060, 6GB DDR6 VRAM
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
