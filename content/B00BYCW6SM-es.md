@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Real Madrid Set de Eau de Toilette para hombre y Spray de Cuerpo  para hombre'
-date: 2022-12-09 11:20:40
+date: 2022-12-12 14:45:22
 image: 'https://m.media-amazon.com/images/I/41G2dw-Q5PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Real Madrid'
 buyurl: 'https://www.amazon.es/dp/B00BYCW6SM/?tag=tolees-21'
 descuento: '43.64'
-average: '9.31666666666667'
+average: '9.27'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

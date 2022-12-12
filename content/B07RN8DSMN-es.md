@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! Games: Laguna Pop 1  Multicolor  Estándar'
-date: 2022-12-02 21:59:30
+date: 2022-12-12 14:31:50
 image: 'https://m.media-amazon.com/images/I/41l+dUQUJVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07RN8DSMN/?tag=tolees-21'
 descuento: '40.03'
-average: '8.48400000000001'
+average: '8.50809523809525'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Recomendado para niños a partir de 3 años
-- Figura de colección de la marca Funko
 - El artículo es adecuado para todos los fanáticos de Borderlands 3
+- Figura de colección de la marca Funko
 - El producto se envía en una caja ilustrada con ventana
 
 [🛒 Aquí!!!]({{< param buyurl >}})
