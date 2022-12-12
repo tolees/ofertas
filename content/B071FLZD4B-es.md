@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Far Cry 5'
-date: 2022-12-10 23:01:46
+date: 2022-12-12 07:48:42
 image: 'https://m.media-amazon.com/images/I/51lnfXzMMnS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B071FLZD4B/?tag=tolees-21'
 descuento: '56.69'
-average: '17.6917391304349'
+average: '17.4958333333334'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diseño elegante y creativo
 - Hecho de material resistente para un uso prolongado
 - Producto útil y práctico
 - Calidad óptima para los requisitos del cliente
-- Diseño elegante y creativo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
