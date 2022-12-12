@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers ESCAPE PLAN  Zapatillas para Hombre  Black  Black Leather/Mesh/Trim Bbk   41 EU'
-date: 2022-12-10 01:09:19
+date: 2022-12-12 01:27:28
 image: 'https://m.media-amazon.com/images/I/417woOXVO3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07HG6TFB3/?tag=tolees-21'
 descuento: '36.21'
-average: '64.5692592592591'
+average: '64.3124999999998'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
