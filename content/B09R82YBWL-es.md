@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Plantilla GioMemory Effect
-- Corte bota australiana
 - Planta y el forro es acolchado y transpirable
+- Corte bota australiana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
