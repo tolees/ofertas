@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Rotación automática
-- 2 combinaciones de flujo de aire/temperatura
-- Automatic Dry Style: gracias a la rotación automática de las cerdas suaves colocadas en forma de hélice y al flujo de aire caliente ajustable, define y fija la forma de cada mechón
-- Revestimiento de cerámica; neceser incluido
 - Doble sentido de rotación
+- 2 combinaciones de flujo de aire/temperatura
+- Revestimiento de cerámica; neceser incluido
+- Automatic Dry Style: gracias a la rotación automática de las cerdas suaves colocadas en forma de hélice y al flujo de aire caliente ajustable, define y fija la forma de cada mechón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
