@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: piel suave
 - Suela: sintética
-- Material interior: sintético
 - Cierre: cremallera
+- Material interior: sintético
+- Material exterior: piel suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

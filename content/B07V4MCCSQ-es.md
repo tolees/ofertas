@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Seoul  Pack Infantil Unisex Niño  Azul  marine Navy   Talla Única'
-date: 2022-12-10 09:51:44
+date: 2022-12-13 08:20:35
 image: 'https://m.media-amazon.com/images/I/41yDhv3+yKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kipling'
 buyurl: 'https://www.amazon.es/dp/B07V4MCCSQ/?tag=tolees-21'
 descuento: '53.96'
-average: '51.2766666666667'
+average: '49.955'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 44 cm de alto x 35 cm de ancho x 20,5 cm de profundidad
-- 0,65 kg de peso y 27 L de volumen
 - Mochila grande
+- 0,65 kg de peso y 27 L de volumen
+- 44 cm de alto x 35 cm de ancho x 20,5 cm de profundidad
 - 100 % poliéster
 - Repele el agua
 
