@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'HAWKERS · Gafas de sol WARWICK UPTOWN para hombre y mujer · TERRACOTA ROSEWOOD'
-date: 2022-12-05 13:56:31
+date: 2022-12-13 20:23:19
 image: 'https://m.media-amazon.com/images/I/31dfIx-6OwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B097F2J4NL-es HAWKERS · Gafas de sol WARWICK UPTOWN para hombre y mujer...'
 sku: 'B097F2J4NL-es'
-tags: [ 'Accesorios para mujer','Gafas de sol para mujer','Gafas y accesorios para mujer','Moda','Moda Mujer','Ropa para mujer','hawkers','🇪🇸', ]
+tags: [ 'Accesorios para mujer','Gafas de sol para mujer','Gafas y accesorios para mujer','Moda','Moda Mujer','Ropa de mujer','hawkers','🇪🇸', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo Unisex. Medidas: Frontal 141 mm, Patillas 145 mm, Puente 24 mm, Diámetro de Lente 47 mm
 - Montura en acetato ECO - material biodegradable resistente, versátil que puede descomponerse naturalmente en dióxido de carbono, agua y biomasa
 - WARWICK UPTOWN- TERRACOTA ROSEWOOD
-- Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
 - Incluye: caja de cartón reciclada y reciclable, pegatinas y funda de microfibra
+- Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
+- Modelo Unisex. Medidas: Frontal 141 mm, Patillas 145 mm, Puente 24 mm, Diámetro de Lente 47 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
