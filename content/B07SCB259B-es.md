@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Tijuana  Sneakers Mujer  Blanco  B White 50   38 EU'
-date: 2022-12-11 19:18:01
+date: 2022-12-13 19:45:51
 image: 'https://m.media-amazon.com/images/I/31RiNU2KxFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07SCB259B/?tag=tolees-21'
 descuento: '40.00'
-average: '26.9685365853659'
+average: '26.9700000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
