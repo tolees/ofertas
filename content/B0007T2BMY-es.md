@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tamaño: Talla normal
-- Plantilla: Piel
-- Material de suela: cuero
 - Parte superior: piel otro.
-- Tipo de tacón: plano
 - Forro: Forro: no.
+- Tipo de tacón: plano
+- Material de suela: cuero
+- Plantilla: Piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

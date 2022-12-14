@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Goma vulcanizada
 - Zapato con cordones
-- Suela de lona
+- Goma vulcanizada
 - Superga Zapato de moda
+- Suela de lona
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
