@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Interior: textil
-- Cierre: Lace Up
 - Material exterior: lona y poliuretano
 - Suela: sintética
+- Interior: textil
+- Cierre: Lace Up
 
 [🛒 Comprar!!!]({{< param buyurl >}})
