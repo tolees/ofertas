@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 56227 POP Movies: Space Jam : A New Legacy'
-date: 2022-12-02 22:02:44
+date: 2022-12-14 10:38:38
 image: 'https://m.media-amazon.com/images/I/31x6jy08UaS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Coleccionables','Figuras de muñecos chibi','Juguetes','Juguetes y jueg
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69
-comparePrice: 15.0 EUR
+comparePrice: 15.95 EUR
 prodname: 'Funko 56227 POP Movies: Space Jam : A New Legacy'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B08MQFNZNH/?tag=tolees-21'
-descuento: '35.40'
-average: '8.78666666666667'
+descuento: '39.25'
+average: '9.0125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- POP! vinilo de Funko
+- Colecciónalos todos
+- Mira las otras figuras de Funko dedicadas a esta colección
 - Funko POP! es el juguete del año 2018 Peoples Choice
 - La figura mide 9 cm y viene en una caja de exhibición de ventana
-- Colecciónalos todos
-- POP! vinilo de Funko
-- Mira las otras figuras de Funko dedicadas a esta colección
 
 [🛒 Aquí!!!]({{< param buyurl >}})
