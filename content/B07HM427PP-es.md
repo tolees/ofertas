@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El set viene en una bonita caja ilustrada
 - Set de regalo Gorjuss muñeca The Secret y joyero secreto con candado en tonos rosas
 - El joyero tiene candado con forma de corazón e incluye varios compartimentos para guardar tus joyas y secretos
 - La muñeca mide 27 cm y es muy suave y blandita. El vestido se puede poner y quitar. Lavable a mano y a máquina
+- El set viene en una bonita caja ilustrada
 - Producto oficial Santoro de la marca CYP Brands
 
 [🛒 Visítala!!!]({{< param buyurl >}})

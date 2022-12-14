@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Selecta Visión - Zoids Wild Blast Unleashed'
-date: 2022-12-07 12:50:17
+date: 2022-12-14 21:17:32
 image: 'https://m.media-amazon.com/images/I/51ScvHbNZxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Selecta Visión'
 buyurl: 'https://www.amazon.es/dp/B08JMYLZN8/?tag=tolees-21'
 descuento: '36.76'
-average: '21.808'
+average: '22.025625'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
