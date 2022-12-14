@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La exposición repetida puede provocar sequedad o formación de grietas en la piel
-- Con 1 o 2 pastillas podrás encender tu chimenea, estufa o barbacoa
-- Óptima llama y duración
 - 40 pastillas instantáneas
+- Con 1 o 2 pastillas podrás encender tu chimenea, estufa o barbacoa
+- La exposición repetida puede provocar sequedad o formación de grietas en la piel
+- Óptima llama y duración
 
 [🛒 Visítala!!!]({{< param buyurl >}})

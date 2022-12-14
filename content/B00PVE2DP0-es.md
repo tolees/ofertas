@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DHP-P601AV Kit de inicio de 2 adaptadores Powerline con enchufe directo  puerto Gigabit  AV1000  velocidad de hasta 1000 Mbps  blanco'
-date: 2022-12-09 12:22:36
+date: 2022-12-14 19:24:41
 image: 'https://m.media-amazon.com/images/I/41b-2imxgRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.es/dp/B00PVE2DP0/?tag=tolees-21'
 descuento: '49.26'
-average: '48.4258064516129'
+average: '47.9746875'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plug & Play: enchufar, emparejar y listo
-- Kit de dos PLCs con enchufe, a Gigabit (1000 Mbps PHY)
-- Ideal para transmisiones de video en alta velocidad
 - El enchufe incorporado en el propio dispositivo, permite seguir disponiendo de la toma de corriente
+- Kit de dos PLCs con enchufe, a Gigabit (1000 Mbps PHY)
+- Plug & Play: enchufar, emparejar y listo
+- Ideal para transmisiones de video en alta velocidad
 - Conecta este dispositivo a la toma de corriente de la pared y, a éste, tu regleta, de este modo evitarás las interferencias de la línea eléctrica
 - Compatible con estándar HomePlug AV2, que lo hace compatible con dispositivos de otros fabricantes
 - 1 puerto Gigabit LAN (10/100/1000 Mbps) en cada adaptador del kit
