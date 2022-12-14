@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Grosor de la caja: 7mm; Tamaño de la caja: 28mm
-- Resistente al agua: 3 ATM
-- Se presenta en lata Fossil ilustrada de coleccionista (varios diseños)
 - Material de la correa: Acero inoxidable
+- Se presenta en lata Fossil ilustrada de coleccionista (varios diseños)
+- Resistente al agua: 3 ATM
 - Ancho de la correa: 12mm; Circunferencia de la correa: 175+/- 5mm
+- Grosor de la caja: 7mm; Tamaño de la caja: 28mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})

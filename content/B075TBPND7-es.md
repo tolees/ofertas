@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre con cordones
 - Tiene tacón plano
+- Cierre con cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
