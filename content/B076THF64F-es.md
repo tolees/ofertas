@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers OG 85 OLD SCHOOL COOL  Zapatillas para Mujer  White Duraleather/ Silver Glitter Trim  38 EU'
-date: 2022-12-13 07:33:08
+date: 2022-12-15 01:54:09
 image: 'https://m.media-amazon.com/images/I/31jNt9fLPxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Moda','Moda Mujer','Zapatillas casual para mujer','Zapatillas y calzado
 actualPrice: 34.53 EUR
 currency: EUR
 price: 34.53
-comparePrice: 54.95 EUR
+comparePrice: 64.95 EUR
 prodname: 'Skechers OG 85 OLD SCHOOL COOL  Zapatillas para Mujer  White Duraleather/ Silver Glitter Trim  38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B076THF64F/?tag=tolees-21'
-descuento: '37.16'
-average: '41.7879411764705'
+descuento: '46.84'
+average: '41.5805714285713'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
