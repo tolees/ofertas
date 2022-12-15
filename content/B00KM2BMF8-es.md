@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De ciclo medio y pella de color violáceo. Escoger parcelas fértiles de textura media y que drenen bien
-- Condiciones de germinación: 6-10 Días Tempura suelo: 6ºC
 - Cosecha: a partir de 150 Días
 - Siembra: de Mayo a Agosto
 - Forma de cultivo: en semillero trasplantando cuando las plantas alcancen los 12 cm en un marco de 80x50 cm
+- Condiciones de germinación: 6-10 Días Tempura suelo: 6ºC
+- De ciclo medio y pella de color violáceo. Escoger parcelas fértiles de textura media y que drenen bien
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - El estuche de resina sin astillas también contiene 24 lápices de colores BIC Kids Evolution que destacan por la resistencia de su mina
 - Este estuche de pinturas contiene 12 rotuladores de colores BIC Kids Kid Couleur ultralavables con punta resistente a la presión
-- Gracias a sus 12 rotuladores borrables BIC Kids Magic y a las 2 gomas, los niños podrán colorear sin miedo a equivocarse
-- Superlimpias y ultrarresistentes, las 16 ceras para colorear BIC Kids Plastidecor son adecuadas incluso para los más pequeños
 - Diviértete con este estuche para colorear de BIC Kids con 24 lápices de colores, 24 rotuladores, 16 ceras y 36 adhesivos para colorear
+- Superlimpias y ultrarresistentes, las 16 ceras para colorear BIC Kids Plastidecor son adecuadas incluso para los más pequeños
+- Gracias a sus 12 rotuladores borrables BIC Kids Magic y a las 2 gomas, los niños podrán colorear sin miedo a equivocarse
 
 [🛒 Visítala!!!]({{< param buyurl >}})
