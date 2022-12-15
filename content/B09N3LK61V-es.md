@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma
 - Zapatos deportivos
+- Suela de goma
 - 3 tiras en la parte superior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

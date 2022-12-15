@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El color es blanco brillo, fácil de limpiar y mantener gracias a su textura lisa. (Grifería, sifón y válvula no incluidos).
+- Medidas del lavabo: 81,5 cm (Ancho) x 18 cm (Alto) x 46 cm (Fondo). Este tipo de lavabos deben quedar aproximadamente 1 cm, por cada lado, fuera del perímetro del mueble.
 - Este tipo de material tiene una superficie no porosa y muy resistente. Por lo tanto, es un mueble fácil y rápido de limpiar con un paño húmedo. Requiere montaje (incluye instrucciones y herrajes).
 - El lavamanos, tiene un diseño minimalista y de líneas rectas; así que puede sumarlo a cualquier estilo de mueble y estilo.
 - Pila de cerámica, un material muy resistente y duradero, capaz de resistir la mayoría de los productos químicos.
-- Medidas del lavabo: 81,5 cm (Ancho) x 18 cm (Alto) x 46 cm (Fondo). Este tipo de lavabos deben quedar aproximadamente 1 cm, por cada lado, fuera del perímetro del mueble.
-- El color es blanco brillo, fácil de limpiar y mantener gracias a su textura lisa. (Grifería, sifón y válvula no incluidos).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

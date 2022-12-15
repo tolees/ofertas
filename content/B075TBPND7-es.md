@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Royal Glide Ripple Clip AWD  Zapatillas Hombre  Negro  44.5 EU'
-date: 2022-12-14 07:48:41
+date: 2022-12-15 08:04:33
 image: 'https://m.media-amazon.com/images/I/41Tso0CtDqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B075TBPND7/?tag=tolees-21'
 descuento: '35.27'
-average: '52.7057142857143'
+average: '51.3725'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
