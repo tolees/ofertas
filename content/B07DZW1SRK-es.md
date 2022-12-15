@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Amazon Basics - Cama para mascotas - 0 73 m  gris en espiral'
-date: 2022-12-14 13:00:10
-image: 'https://m.media-amazon.com/images/I/31RJLwqW6YS._SL500_._SL400_.jpg'
+date: 2022-12-15 13:16:10
+image: 'https://m.media-amazon.com/images/I/3133hWQovfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazon Basics'
 buyurl: 'https://www.amazon.es/dp/B07DZW1SRK/?tag=tolees-21'
 descuento: '54.72'
-average: '16.4216666666667'
+average: '16.3457142857143'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfecta para perros y gatos pequeños
+- Cama de felpa ultrasuave con diseño en espiral para mascotas
 - Puede lavarse y secarse a máquina
 - La base antideslizante se mantiene sobre madera dura y otras superficies lisas
-- Cama de felpa ultrasuave con diseño en espiral para mascotas
 - El tono neutro y el diseño clásico combinan con la mayoría de tipos de decoración del hogar
+- Perfecta para perros y gatos pequeños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
