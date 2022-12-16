@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Freidora sin Aceite 2 5 L de Aire Caliente Cecofry Essential Rapid Dark. 1200 W  Dietética  Control Manual  Tecnología PerfectCook  Tiempo y Temperatura Regulable  Base Antideslizante'
-date: 2022-12-14 21:16:21
+date: 2022-12-16 15:27:52
 image: 'https://m.media-amazon.com/images/I/314C8SaZtkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cecotec'
 buyurl: 'https://www.amazon.es/dp/B0B943HVB1/?tag=tolees-21'
 descuento: '38.93'
-average: '61.9'
+average: '61.4625'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Freidora de diseño elegante y compacto con selector para controlar el funcionamiento.
 - Freidora dietética que permite cocinar con una sola cucharada de aceite, consiguiendo unos resultados más sanos.
 - Dispone de termostato para regular la temperatura desde 80ºC hasta 200 ºC. Tiempo ajustable de 0 a 30 minutos.
 - Con protección contra sobrecaliento. Luz indicadora de funcionamiento. Base antideslizante para favorecer su apoyo durante el funcionamiento. Carcasa y asa de tacto frío.
 - Cubeta de 2,5 L de capacidad para poder cocinar grandes cantidades de alimentos. 1200 W de potencia para cocinar de manera rápida todos los platos. Resultados excepcionales en todas las recetas gracias a la tecnología PerfectCook de aire caliente que circula por el interior y sale por los orificios traseros.
-- Freidora de diseño elegante y compacto con selector para controlar el funcionamiento.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
