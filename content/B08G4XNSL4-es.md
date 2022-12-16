@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula ligera con perfume floral. Fácil dosificación, siendo ideal para uso personal y en lugares públicos
+- Producto formulado con un 70% de alcohol, asegurando una correcta desinfección sin necesidad de enjuagarlas con agua
+- Spray de manos hidroalcohólico con algodón y Rosa Mosqueta, que protegen y cuidan la piel aportando hidratación y nutrientes
 - Mantén tus manos limpias en cualquier momento, protegiéndolas de factores externos
 - Aplicar sobre manos secas y extender durante 30 segundos. No es necesario enjuagar
-- Spray de manos hidroalcohólico con algodón y Rosa Mosqueta, que protegen y cuidan la piel aportando hidratación y nutrientes
-- Producto formulado con un 70% de alcohol, asegurando una correcta desinfección sin necesidad de enjuagarlas con agua
+- Fórmula ligera con perfume floral. Fácil dosificación, siendo ideal para uso personal y en lugares públicos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
