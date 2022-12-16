@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mantona trípode 21086 DSLM Viajes para el Sistema/DSLM cámara/Compacto  143 cm  56 3 Pulgadas   con Cabeza  Capacidad de Carga: 5 kg  Columna Central giratoria  Paquete Compacto  Azul'
-date: 2022-12-14 21:06:12
+date: 2022-12-15 22:39:12
 image: 'https://m.media-amazon.com/images/I/417th0eF8OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para cámaras de sistema y cámaras DSLR más pequeñas
-- Capacidad máxima de carga: aproximadamente 5kg, incluye bolsillo para trípode
 - Cabeza de bola con cascada panorámica y dos escalas de agua (niveles de burbuja), tamaño de embalaje compacto y peso ligero
 - También utilizable como un monopié, patas de trípode antideslizantes con pies de goma y espigas
+- Ideal para cámaras de sistema y cámaras DSLR más pequeñas
 - Trípode de viaje de aluminio compacto y ligero incluyendo cabezal de bola (cilíndrico)
+- Capacidad máxima de carga: aproximadamente 5kg, incluye bolsillo para trípode
 
 [🛒 Comprar!!!]({{< param buyurl >}})

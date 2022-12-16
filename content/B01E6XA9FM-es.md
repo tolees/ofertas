@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics FTD  Sábanas Ajustables  135 x 190 x 30 cm  Blanco Brillante'
-date: 2022-12-14 21:05:48
+date: 2022-12-15 23:37:14
 image: 'https://m.media-amazon.com/images/I/11zkPqWHTwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazon Basics'
 buyurl: 'https://www.amazon.es/dp/B01E6XA9FM/?tag=tolees-21'
 descuento: '51.02'
-average: '7.2325'
+average: '7.13'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricada en 100% microfibra de poliéster (85 g/m2).
-- Cama: Cama de 135, tamaño de la sábana: 135 x 190 x 30 cm
-- La sábana bajera ajustable dispone de una goma en el contorno para ajustarse perfectamente al colchón.
 - Incluye 1 sábana bajera ajustable.
 - Lavar en lavadora con colores similares (hasta 40 ⁰C).
+- La sábana bajera ajustable dispone de una goma en el contorno para ajustarse perfectamente al colchón.
+- Cama: Cama de 135, tamaño de la sábana: 135 x 190 x 30 cm
+- Fabricada en 100% microfibra de poliéster (85 g/m2).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
