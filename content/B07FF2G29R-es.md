@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peso ligero.
 - Suela flexible.
+- Peso ligero.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
