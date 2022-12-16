@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun Hogar Braun TexStyle 5 SI 5037 Vi-Plancha Suela FreeGlide 3D  Vertical  2700 W  Golpe de Vapor 200 g/min  depósito de Agua de 300 ml  Color Morado  50 W  5.3 tons'
-date: 2022-12-13 12:13:30
+date: 2022-12-16 08:27:20
 image: 'https://m.media-amazon.com/images/I/31wgesqALkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Braun'
 buyurl: 'https://www.amazon.es/dp/B08KQJQLJB/?tag=tolees-21'
 descuento: '52.74'
-average: '52.5'
+average: '51.2333333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 2700 W
 - 50 g/min
-- Apagado automático
 - Suela FreeGlide 3 D para planchar comodamente por encima de botones, con punta de precisión
 - Golpe de vapor de 200 g/min
+- Apagado automático
+- 2700 W
 
 [🛒 Aquí!!!]({{< param buyurl >}})
