@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Transcend MTS420S - SSD Disco Duro Solido de 240 GB M.2 2242 SATA III  3D TLC  hasta 560 MB/s'
-date: 2022-12-11 21:37:05
+date: 2022-12-16 00:56:15
 image: 'https://m.media-amazon.com/images/I/41dWIQvSoJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Transcend'
 buyurl: 'https://www.amazon.es/dp/B076PGM4Y5/?tag=tolees-21'
 descuento: '45.85'
-average: '43.4228571428572'
+average: '42.1846666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

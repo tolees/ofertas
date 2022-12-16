@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Clip Sport Go 32GB MP3 Player - Negro'
-date: 2022-12-09 07:11:58
+date: 2022-12-16 01:01:28
 image: 'https://m.media-amazon.com/images/I/41r79GZuGML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
