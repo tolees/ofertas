@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Verbatim Stick USB 3 de 256 GB  Tela a Rayas Negro Ampolla Al por Menor'
-date: 2022-12-15 08:53:09
+date: 2022-12-16 10:04:36
 image: 'https://m.media-amazon.com/images/I/31i0dfj3NMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Verbatim'
 buyurl: 'https://www.amazon.es/dp/B01DWNMGJY/?tag=tolees-21'
 descuento: '37.01'
-average: '24.1928571428571'
+average: '23.6625'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
