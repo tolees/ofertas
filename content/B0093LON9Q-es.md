@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Trino HD Webcam con Microfono  1280 x 720  Enfoque Fijo  Soporte Universal  USB 2.0  Camara Web soporte Windows  Mac  para Portátil  PC  Ordenador  Videoconferencias  Skype  Teams - Negro'
-date: 2022-12-16 15:26:12
+date: 2022-12-17 16:29:09
 image: 'https://m.media-amazon.com/images/I/31wX7mp1MJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trust'
 buyurl: 'https://www.amazon.es/dp/B0093LON9Q/?tag=tolees-21'
 descuento: '81.45'
-average: '16.6275'
+average: '15.8476923076923'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
