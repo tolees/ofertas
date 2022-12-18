@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: piel suave
 - Forma del tacón: gancho y bucle
 - Suela: goma
+- Material exterior: piel suave
 - Material interior: lona
 
 [🛒 Aquí!!!]({{< param buyurl >}})

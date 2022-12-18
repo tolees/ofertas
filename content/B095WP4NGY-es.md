@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DXRacer  el Original Prince P132 Silla Gaming  Polipiel  Negro-Rojo  hasta 185 cm'
-date: 2022-12-15 08:19:21
+date: 2022-12-18 11:15:58
 image: 'https://m.media-amazon.com/images/I/41W1ZXNU-TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estatura recomendada: < 185 cm. Capacidad máxima de elevación del gas: 150 kg.
-- Cojines lumbares y en el reposacabezas incluidos para un confort optimizado, te ayudan durante las largas sesiones delante de un PC y una consola
-- Galardonada silla gaming y de oficina premium diseñada para los eSport con la ergonomía en el punto de mira
-- Apoyabrazos 1D ajustables, respaldo reclinable, unidad de control convencional con función de balanceo y bloqueo
 - Sólida base de nailon, estructura de acero compacto, tapicería de espuma fría transpirable con funda de polipiel de alta calidad
+- Galardonada silla gaming y de oficina premium diseñada para los eSport con la ergonomía en el punto de mira
+- Cojines lumbares y en el reposacabezas incluidos para un confort optimizado, te ayudan durante las largas sesiones delante de un PC y una consola
+- Apoyabrazos 1D ajustables, respaldo reclinable, unidad de control convencional con función de balanceo y bloqueo
+- Estatura recomendada: < 185 cm. Capacidad máxima de elevación del gas: 150 kg.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
