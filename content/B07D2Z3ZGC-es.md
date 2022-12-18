@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Storia perfetta dell errore  Italian Edition '
-date: 2022-12-17 02:31:29
+date: 2022-12-18 02:54:50
 image: 'https://m.media-amazon.com/images/I/51aowlXjtuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D2Z3ZGC/?tag=tolees-21'
 descuento: '46.56'
-average: '7.82673469387754'
+average: '7.82783783783783'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
