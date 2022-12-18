@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Plastoy Dragon Ball Z Hucha Krillin  Multicolor  único  80061.0 '
-date: 2022-12-09 16:11:48
+date: 2022-12-18 15:45:05
 image: 'https://m.media-amazon.com/images/I/416+cddgMWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Plastoy'
 buyurl: 'https://www.amazon.es/dp/B01LQL51AK/?tag=tolees-21'
 descuento: '42.72'
-average: '8.65249999999999'
+average: '8.51999999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material resistente
 - Estilo chibi
-- Hucha
 - Dragon ball
+- Hucha
 - Licencia oficial
+- Material resistente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
