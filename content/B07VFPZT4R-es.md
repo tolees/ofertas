@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómodo y ligero
 - Adecuado para el estilo casual
+- Cómodo y ligero
 - Con cintura normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
