@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Negro  Black Ivory   43 EU'
-date: 2022-12-17 20:21:29
+date: 2022-12-19 09:03:58
 image: 'https://m.media-amazon.com/images/I/41je7OCfzXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B001PH3VWQ/?tag=tolees-21'
 descuento: '35.38'
-average: '40.2206779661015'
+average: '40.2503333333331'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

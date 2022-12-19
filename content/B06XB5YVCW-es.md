@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers ESCAPE PLAN  Zapatillas para Hombre  Blue  Navy/Orange   41 EU'
-date: 2022-12-18 02:37:15
+date: 2022-12-19 09:01:54
 image: 'https://m.media-amazon.com/images/I/410W8gnOOQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B06XB5YVCW/?tag=tolees-21'
 descuento: '42.28'
-average: '53.1905714285713'
+average: '53.1552777777777'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
