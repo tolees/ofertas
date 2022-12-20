@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas ENT22 Hoody Sweatshirt  Team Yellow/Black  S Men s'
-date: 2022-12-19 09:09:31
+date: 2022-12-20 09:20:03
 image: 'https://m.media-amazon.com/images/I/31-Mq3LFGmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B09H6TSGXP/?tag=tolees-21'
 descuento: '37.60'
-average: '32.7684210526316'
+average: '32.5682051282052'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sudadera
-- Ajuste regular
 - Tela Suave
+- Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
