@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El logotipo es bordado en la cadera izquierda
+- Tienen un corte clásico que se adapta al cuerpo cómodamente
 - El material es compuesto de 100% poliéster
 - Pantalones deportivos son adecuados para el fútbol
-- Tienen un corte clásico que se adapta al cuerpo cómodamente
 - Presentan puños elásticos y unas perneras que se estrechan a la altura del tobillo para ofrecer libertad de movimiento
 - Tiene una cintura elástica con cordón y dos bolsillos frontales
+- El logotipo es bordado en la cadera izquierda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
