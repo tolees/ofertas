@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Billy 2.0  Zapatillas Hombre  Brilliant White  42 EU'
-date: 2022-12-17 02:25:24
+date: 2022-12-20 16:39:05
 image: 'https://m.media-amazon.com/images/I/31Ahuu-+kdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLW1KH7/?tag=tolees-21'
 descuento: '37.52'
-average: '35.4960975609756'
+average: '35.5435714285714'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
