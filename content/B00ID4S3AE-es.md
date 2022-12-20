@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Siembra: Se puede realizar todo el año, aunque lo más apropiado es en Primavera, sembrar de asiento o a voleo, o incluso en macetas
 - Su germinación es lenta, necesita de 20 a 30 días. Es recomendable poner la semilla en remojo 24 horas antes de su siembra
 - Planta de tallos erguidos, hojas de gran tamaño, anchas onduladas de color verde oscuro, muy aromático y de acentuado sabor
 - Es conveniente poner la semilla a macerar durante 24 horas antes de la Siembra.
-- Siembra: Se puede realizar todo el año, aunque lo más apropiado es en Primavera, sembrar de asiento o a voleo, o incluso en macetas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
