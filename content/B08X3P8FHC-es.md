@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalones de chándal con puños acanalados
 - Cintura elástica con cordón de ajuste
-- Composición: 70% algodón, 30% poliéster
 - Tela de algodón para una comodidad suave y
+- Composición: 70% algodón, 30% poliéster
+- Pantalones de chándal con puños acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

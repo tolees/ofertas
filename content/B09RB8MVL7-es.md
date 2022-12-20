@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillo frontal
 - Corte estándar
 - Media cremallera
+- Bolsillo frontal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

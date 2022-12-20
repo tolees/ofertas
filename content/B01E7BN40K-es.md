@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De la marca sotya
-- Estimula el apetito
-- Aumenta la producción y eliminación de bilis
 - También tiene efectos laxantes
+- De la marca sotya
+- Aumenta la producción y eliminación de bilis
 - Ingredientes: Composición: Diente de león (Taraxacum officinale,330 mg raíz en polvo) diente de león extracto (Taraxacum officinale 4:1 raíz,55 mg) y excipientes
+- Estimula el apetito
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

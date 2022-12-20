@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolso de 27,5 cm x 19 cm x 4 cm fabricado en Piel Sintética.
-- Tres bolsillos interiores, uno de ellos con cremallera, para guardar los accesorios y efectos personales.
 - Incluye mini monedero decorativo enganchado.
+- Tres bolsillos interiores, uno de ellos con cremallera, para guardar los accesorios y efectos personales.
 - Asa ajustable para utilizarlo más corto como bolso de hombro o más largo como bandolera.
 - Compartimento principal con cierre de cremallera.
 

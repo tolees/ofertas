@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Cuero
+- Anchura del zapato: Normal
 - Tipo de tacón: Plano
-- Composición: Cuero
+- Material exterior: Cuero
 - Cierre: Cordones
 - Revestimiento: Tela
+- Composición: Cuero
 - Material de la suela: Goma
-- Anchura del zapato: Normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

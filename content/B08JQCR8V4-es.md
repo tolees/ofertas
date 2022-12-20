@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud: 20 cm
 - 1 conector Jack 3.5 hembra de 4 pines en un extremo
-- Ideal para conectar unos auriculares con micrófono que llevan 1 solo jack de 3.5 a un dispositivo con conexiones de audio para micrófonos y auriculares por separado
 - Fabricado con conductores de cobre de alta calidad
+- Ideal para conectar unos auriculares con micrófono que llevan 1 solo jack de 3.5 a un dispositivo con conexiones de audio para micrófonos y auriculares por separado
 - 2 conectores Jack 3.5 macho de 3 pinnes (micrófono y audio) en el otro extremo
+- Longitud: 20 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
