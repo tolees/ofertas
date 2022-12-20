@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Entrada 32 Camiseta de Fútbol para Hombre de Cuello Redondo en Contraste  Rojo  Power Red/White   XS'
-date: 2022-12-16 15:19:27
+date: 2022-12-20 03:04:28
 image: 'https://m.media-amazon.com/images/I/31lgMrMxd3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07JN58J8Q/?tag=tolees-21'
 descuento: '38.39'
-average: '15.7873684210526'
+average: '15.34'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entrada 18 Jsy (Cf1038)
 - Camisetas Fútbol Hombre
 - Ropa deportiva Adidas
 - Fácil de usar
+- Entrada 18 Jsy (Cf1038)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
