@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Slim fit, short sleeve, crew neck camiseta con estampado floral posicional en la frente. bci cotton.
 - BASIC JERSEY
 - Fabricado con algodón BCI
-- Slim fit, short sleeve, crew neck camiseta con estampado floral posicional en la frente. bci cotton.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
