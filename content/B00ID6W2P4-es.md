@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peso: 1kg.
-- Resistencia a la flexotracción superior a 20 kg/cm2.
 - Muy fácil aplicación.
+- Resistencia a la flexotracción superior a 20 kg/cm2.
+- Peso: 1kg.
 - Acabado fino de color blanco mate.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
