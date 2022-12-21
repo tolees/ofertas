@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Summits  Zapatillas Mujer  Azul Navy Mesh Aqua Trim  39 EU'
-date: 2022-12-20 03:03:16
+date: 2022-12-21 03:13:39
 image: 'https://m.media-amazon.com/images/I/419B75d97EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B076THVK3X/?tag=tolees-21'
 descuento: '37.47'
-average: '41.1185185185184'
+average: '41.2121428571427'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
