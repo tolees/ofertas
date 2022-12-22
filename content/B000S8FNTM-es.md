@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hama | Altavoces para pc portátiles  Altavoces para Ordenador con conexión Audio Jack 3.5mm  Altavoces PC con conexión USB  Rango frecuencia 140-20000Hz   Negro'
-date: 2022-12-19 22:41:28
+date: 2022-12-22 11:16:24
 image: 'https://m.media-amazon.com/images/I/41LDKcziyWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hama'
 buyurl: 'https://www.amazon.es/dp/B000S8FNTM/?tag=tolees-21'
 descuento: '42.34'
-average: '9.37283018867918'
+average: '9.3379629629629'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Estos altavoces disponen de una fuente de alimentación a través de puerto USB.
-- Onda sinusoidal de potencia de salida: 2 x 120 mW (distorsión armónica total < 8%).
 - Interruptor de encendido/apagado y control de volumen en el lateral.
-- Altavoces activos para ordenadores y portátiles. ¡Amplifica el volumen de tu ordenador y disfruta de tus videos o música con total comodidad.
 - Disponen en el lateral de un conector de jack 3.5 para conectar unos auriculares a los altavoces.
+- Altavoces activos para ordenadores y portátiles. ¡Amplifica el volumen de tu ordenador y disfruta de tus videos o música con total comodidad.
+- Onda sinusoidal de potencia de salida: 2 x 120 mW (distorsión armónica total < 8%).
 
 [🛒 Aquí!!!]({{< param buyurl >}})
