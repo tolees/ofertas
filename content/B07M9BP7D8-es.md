@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games- Twilight Imperium Cuarta Edición - Español  Color  FFTI07 '
-date: 2022-12-18 01:21:32
+date: 2022-12-22 09:22:09
 image: 'https://m.media-amazon.com/images/I/51FQjRGUUvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fantasy Flight Games'
 buyurl: 'https://www.amazon.es/dp/B07M9BP7D8/?tag=tolees-21'
 descuento: '35.50'
-average: '118.956562499999'
+average: '118.576666666666'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De 3 a 6 Jugadores a partir de 14 años
 - Ahora la galaxia se agita de nuevo, y las grandes razas están de nuevo lanzándose más allá de sus fronteras hacia las regiones más recónditas del espacio
+- De 3 a 6 Jugadores a partir de 14 años
 - ¿Quién podrá reclamar el trono? Ya sea mediante la pura dominación militar o la inteligente manipulación del Consejo Galáctico, las Grandes Razas se preparan para el amanecer de una nueva era.
 - En los días posteriores a las Guerras del Crepúsculo, las Grandes Razas del antiguo Imperio Lazax se retiraron a sus respectivos mundos de origen, durante un periodo de frágil tranquilidad
 - Mecatol Rex, la joya de la civilización galáctica, espera al osado capaz de ceñirse el manto de Emperador.
