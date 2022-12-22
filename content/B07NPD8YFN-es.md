@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Summits  Zapatillas Mujer  Azul Sage Mesh White Trim  39 EU'
-date: 2022-12-21 03:15:04
+date: 2022-12-22 03:22:43
 image: 'https://m.media-amazon.com/images/I/41TiOW00m+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07NPD8YFN/?tag=tolees-21'
 descuento: '52.88'
-average: '43.6676923076922'
+average: '43.271111111111'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

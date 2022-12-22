@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Country Of Release: NLD
-- A Perfect Circle- Thirteenth Step
 - Year Of Release: 2003
+- A Perfect Circle- Thirteenth Step
+- Country Of Release: NLD
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
