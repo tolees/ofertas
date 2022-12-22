@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Trixie Dog Activity Juego Interactivo - Juguete Para Perros Accesorios Para Perros Dog Activity Flip Board ø23x3 cm Niv 2'
-date: 2022-12-18 13:09:46
+title: 'Trixie Dog Activity Juego Interactivo - Juguete Para Perros Accesorios Para Perros Dog Flip Board ø23x3 cm Niv 2'
+date: 2022-12-22 18:01:40
 image: 'https://m.media-amazon.com/images/I/3126dIghGPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99
 comparePrice: 17.35 EUR
-prodname: 'Trixie Dog Activity Juego Interactivo - Juguete Para Perros Accesorios Para Perros Dog Activity Flip Board ø23x3 cm Niv 2'
+prodname: 'Trixie Dog Activity Juego Interactivo - Juguete Para Perros Accesorios Para Perros Dog Flip Board ø23x3 cm Niv 2'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Trixie'
 buyurl: 'https://www.amazon.es/dp/B0054Q9TMA/?tag=tolees-21'
 descuento: '53.95'
-average: '11.7707352941178'
+average: '11.7431386861315'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
