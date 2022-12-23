@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Parma 16 SHO Shorts  Hombre   Azul Claro/Blanco   M'
-date: 2022-12-15 08:08:37
+date: 2022-12-23 16:07:54
 image: 'https://m.media-amazon.com/images/I/410yU01scmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B016QALHKY/?tag=tolees-21'
 descuento: '52.72'
-average: '11.0935785953178'
+average: '11.0849666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
