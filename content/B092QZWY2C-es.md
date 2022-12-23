@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oppo Enco Air - Auriculares inálambricos  Cancelación de ruido  Bluetooth  Resistencia al agua IPX4 - Blanco'
-date: 2022-12-21 14:04:18
+date: 2022-12-23 07:07:29
 image: 'https://m.media-amazon.com/images/I/21UYAZxGNwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B092QZWY2C-es Oppo Enco Air - Auriculares inálambricos Cancelación de...'
 sku: 'B092QZWY2C-es'
 tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','oppo','🇪🇸', ]
-actualPrice: 44.9 EUR
+actualPrice: 49.99 EUR
 currency: EUR
-price: 44.9
+price: 49.99
 comparePrice: 79.0 EUR
 prodname: 'Oppo Enco Air - Auriculares inálambricos  Cancelación de ruido  Bluetooth  Resistencia al agua IPX4 - Blanco'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Oppo'
 buyurl: 'https://www.amazon.es/dp/B092QZWY2C/?tag=tolees-21'
-descuento: '43.16'
-average: '46.5325'
+descuento: '36.72'
+average: '47.224'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
