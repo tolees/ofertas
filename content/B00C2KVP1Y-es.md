@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ONLY Onlultimate King Reg Skinny Fit Jeans  Dark Blue Denim  L / 32 para Mujer'
-date: 2022-12-16 08:46:04
+date: 2022-12-23 20:13:05
 image: 'https://m.media-amazon.com/images/I/31GJyxNxaeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Piernas ajustadas con cintura regular.
 - Vaqueros elásticos.
-- Composición: 68% algodón, 31% poliéster, 1% elastano
 - Se cierra con cremallera y botón.
+- Composición: 68% algodón, 31% poliéster, 1% elastano
+- Piernas ajustadas con cintura regular.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

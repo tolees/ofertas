@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOLOCY - Smartwatch  1.69   Reloj Inteligente Hombre Mujer 25 Modos Deportes Pulsera Actividad Impermeable IP68 con Pulsómetro  Monitor de Sueño Podómetro Caloría Notificación de Mensajes para Android iOS'
-date: 2022-12-19 09:45:17
+date: 2022-12-23 20:31:10
 image: 'https://m.media-amazon.com/images/I/41q8b4pVn5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MOLOCY'
 buyurl: 'https://www.amazon.es/dp/B0BD51K2ZF/?tag=tolees-21'
 descuento: '40.01'
-average: '39.885'
+average: '37.906'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

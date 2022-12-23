@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Liz Claiborne Bora - 3.4 oz Edc Spray'
-date: 2022-12-13 11:45:26
+date: 2022-12-23 19:01:11
 image: 'https://m.media-amazon.com/images/I/41ki6LiHftL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Todos los tipos de piel
 - Se recomienda para uso casual
 - Fragancia de larga duración
-- Todos los tipos de piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

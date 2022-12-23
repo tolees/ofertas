@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bourjois Velvet The Pencil  Barra de labios  Tono 14 - 11 8g'
-date: 2022-12-20 17:43:53
+date: 2022-12-23 19:26:01
 image: 'https://m.media-amazon.com/images/I/31OIRjlEhLS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color intenso y alta cobertura en una sola pasada
-- Labial mate, intenso, preciso y de larga duración
 - Preciso como un perfilador
+- Labial mate, intenso, preciso y de larga duración
 - En formato jumbo, óptimo para perfilar tus labios
 - Confort extremo con su textura suave y aterciopelada
+- Color intenso y alta cobertura en una sola pasada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
