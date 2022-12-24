@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xbox Game - Minecraft Dungeons Ultimate Edition'
-date: 2022-12-15 23:48:04
+date: 2022-12-24 19:19:04
 image: 'https://m.media-amazon.com/images/I/51ghhRH53bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xbox Game'
 buyurl: 'https://www.amazon.es/dp/B09KMMN6Z9/?tag=tolees-21'
 descuento: '52.51'
-average: '21.7855555555556'
+average: '22.0841666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Obtendras mucha diversión
 - Una experiencia única
 - Personajes variados con una historia interesante
 - Excelentes gráficos
 - Accesible para todos
+- Obtendras mucha diversión
 
 [🛒 Comprar!!!]({{< param buyurl >}})
