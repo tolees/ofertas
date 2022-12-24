@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TDK T19825 DVD grabable - DVD-R caja 5 unidades'
-date: 2022-12-22 17:09:28
+date: 2022-12-23 22:29:04
 image: 'https://m.media-amazon.com/images/I/41GFwwsdASL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TDK'
 buyurl: 'https://www.amazon.es/dp/B0044AFXCW/?tag=tolees-21'
 descuento: '52.94'
-average: '1.975'
+average: '1.98'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack de 5
 - De colores
 - DVD-R
+- Pack de 5
 
 [🛒 Comprar!!!]({{< param buyurl >}})

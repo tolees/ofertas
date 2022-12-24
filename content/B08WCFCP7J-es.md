@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elgato Light Strip  Luces LED RGBWW  2000 lúmenes  16 millones de colores  blanco cálido/frío  control con app  iOS  Android  PC  Mac  integración con Stream Deck'
-date: 2022-12-20 07:11:16
+date: 2022-12-23 22:52:13
 image: 'https://m.media-amazon.com/images/I/414UzyUlEAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Elgato'
 buyurl: 'https://www.amazon.es/dp/B08WCFCP7J/?tag=tolees-21'
 descuento: '48.34'
-average: '35.91'
+average: '34.27'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 16 millones de colores y blancos cálidos a fríos
 - Luces LED RGBWW que ofrecen una óptima precisión de color
+- 16 millones de colores y blancos cálidos a fríos
 - Luz brillante de 2000 lúmenes, totalmente atenuable
-- Intensidad constante sin parpadeos
 - El diseño delgado permite distintas aplicaciones
 - Control con la app en Mac/Windows/iPhone/Android
+- Intensidad constante sin parpadeos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'yobola Auriculares Inalámbricos  Auriculares Bluetooth 5.1 HiFi Estéreo  Auriculares Inalambricos Bluetooth con Control Táctil  Micrófono Incorporado  IPX5  para Xiaomi Samsung iPhone Huawei'
-date: 2022-12-09 14:04:17
+date: 2022-12-23 22:31:42
 image: 'https://m.media-amazon.com/images/I/411nsy86PfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'yobola'
 buyurl: 'https://www.amazon.es/dp/B08YK2R5CV/?tag=tolees-21'
 descuento: '50.08'
-average: '17.725'
+average: '17.174'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
