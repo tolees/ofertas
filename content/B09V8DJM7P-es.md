@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Chromebook 314-1H - Ordenador Portátil 14" Full HD  Intel Celeron N4020  4GB RAM  64GB eMMc  Intel UHD Graphics  Sistema operativo Chrome  Color Plateado - Teclado QWERTY Español'
-date: 2022-12-20 03:33:45
+date: 2022-12-24 17:55:17
 image: 'https://m.media-amazon.com/images/I/41jPFg6LGzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sistema operativo Chrome
-- Almacenamiento de 64GB eMMc
 - Pantalla de 14" Full HD LED ‎(1920 x 1080 píxeles)
-- Memoria RAM de 4GB
-- Gráfica integrada Intel UHD Graphics
 - Procesador Intel Celeron N4020
+- Almacenamiento de 64GB eMMc
+- Gráfica integrada Intel UHD Graphics
+- Memoria RAM de 4GB
+- Sistema operativo Chrome
 
 [🛒 Visítala!!!]({{< param buyurl >}})
