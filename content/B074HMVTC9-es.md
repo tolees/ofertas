@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Blade Runner 2049-Funko Pop Blade Runner 2049 Figura de vinilo Sapper  Multicolor  Standard  Funko 21596    color/modelo surtido'
-date: 2022-12-22 17:43:26
+date: 2022-12-24 09:59:33
 image: 'https://m.media-amazon.com/images/I/31wEPHee43L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Blade Runner 2049'
 buyurl: 'https://www.amazon.es/dp/B074HMVTC9/?tag=tolees-21'
 descuento: '59.97'
-average: '5.20464285714286'
+average: '5.23206896551724'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El artículo es adecuado para todos los fanáticos de Blade Runner
 - Viene embalado en una caja ilustrada con ventana
 - Recomendado para niños a partir de 3 años
 - Figura de colección de la marca Funko
+- El artículo es adecuado para todos los fanáticos de Blade Runner
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Osram DULUX Lámpara Fluorescente compacta 2G11  24 W  Blanco Neutro'
-date: 2022-12-10 14:39:21
+date: 2022-12-24 09:08:24
 image: 'https://m.media-amazon.com/images/I/21hJdn1neQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Osram'
 buyurl: 'https://www.amazon.es/dp/B000O0ZWPE/?tag=tolees-21'
 descuento: '52.15'
-average: '7.04'
+average: '6.82857142857143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zócalo: G11
 - Vida útil media 15.000 horas
 - Color de luz: blanco neutro 840
+- Zócalo: G11
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

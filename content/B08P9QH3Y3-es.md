@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Noble Collection - DC-Batman Bendyfig  Comic '
-date: 2022-12-10 14:03:22
+date: 2022-12-24 10:10:37
 image: 'https://m.media-amazon.com/images/I/41LcCLPgVPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'The Noble Collection'
 buyurl: 'https://www.amazon.es/dp/B08P9QH3Y3/?tag=tolees-21'
 descuento: '56.73'
-average: '11.0'
+average: '10.3333333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Licencia Oficial
+- Licencia oficial
 - DC Comics
 - Liga de la Justicia
 - Batman
-- Licencia oficial
+- Licencia Oficial
 
 [🛒 Aquí!!!]({{< param buyurl >}})
