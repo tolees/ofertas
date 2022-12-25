@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El filamento Pla HD esta fabricado en España para impresoras 3D con tecnología FFF/FDM.
-- Los parámetros indicados son válidos para impresoras correctamente calibradas (PID, mecánica y fusor). Proceso de fabricación supervisado y probado (diámetro, color y bobinado) para garantizar la calidad de nuestro producto
-- Parámetros de impresión generales: Temperatura del nozzle (entre 190ºC y 230ºC). Temperatura de la cama (entre 50ºC y 70ºC). Excelente adherencia a la cama entre capas
 - El filamento PLA HD cuenta con un Diámetro de 1.75mm y una bobina de 1000gr
+- El filamento Pla HD esta fabricado en España para impresoras 3D con tecnología FFF/FDM.
+- Parámetros de impresión generales: Temperatura del nozzle (entre 190ºC y 230ºC). Temperatura de la cama (entre 50ºC y 70ºC). Excelente adherencia a la cama entre capas
+- Los parámetros indicados son válidos para impresoras correctamente calibradas (PID, mecánica y fusor). Proceso de fabricación supervisado y probado (diámetro, color y bobinado) para garantizar la calidad de nuestro producto
 - PLA HD supera en algunos aspectos al PLA 850. Tras el exhaustivo control de calidad, se garantiza un Diámetro constante en todo el bobinado, además nuestro proceso garantiza la ausencia de impurezas químicas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
