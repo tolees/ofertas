@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - The Witcher 3: Wild Hunt - Game Of The Year Edition'
-date: 2022-12-10 14:33:08
+date: 2022-12-25 14:15:20
 image: 'https://m.media-amazon.com/images/I/615oj3oeIBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B01J2K2OG6/?tag=tolees-21'
 descuento: '51.45'
-average: '20.5593150684931'
+average: '20.5429333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

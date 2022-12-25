@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asics Gel-Excite 9  Running Shoe Hombre  Black/New Leaf  44.5 EU'
-date: 2022-12-22 17:44:39
+date: 2022-12-25 15:57:39
 image: 'https://m.media-amazon.com/images/I/31aLegR437L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material superior de malla transpirable
 - Sistema de amortiguación con tecnología GEL.
+- Material superior de malla transpirable
 - Amortiguación E.V.A
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
