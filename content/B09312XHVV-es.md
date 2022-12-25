@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 58909 Pop TV: Witcher - Jaskier  Red Outfit '
-date: 2022-12-22 20:22:28
+date: 2022-12-25 21:15:25
 image: 'https://m.media-amazon.com/images/I/31T04gn7iDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B09312XHVV/?tag=tolees-21'
 descuento: '46.73'
-average: '10.15'
+average: '9.79'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Funko POP! es el juguete del año 2018 Peoples Choice
-- Colecciónalos todos
 - Funko 58909 POP TV: Witcher- Jaskier (Red Outfit)
-- La figura mide 9 cm y viene en una caja de exhibición de ventana
 - Mira las otras figuras de Funko dedicadas a esta colección
+- Funko POP! es el juguete del año 2018 Peoples Choice
+- La figura mide 9 cm y viene en una caja de exhibición de ventana
+- Colecciónalos todos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
