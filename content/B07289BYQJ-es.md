@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Interbaby 1703496031 - Minicuna Con Coordinado Textil  90042-31  Gris'
-date: 2022-12-16 20:28:54
+date: 2022-12-25 07:31:59
 image: 'https://m.media-amazon.com/images/I/41Jj2hYFm4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Interbaby'
 buyurl: 'https://www.amazon.es/dp/B07289BYQJ/?tag=tolees-21'
 descuento: '37.81'
-average: '73.075'
+average: '75.05'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Incluye: estructura de madera, cuatro ruedas con frenos, somier, colchón, vestidura, edredón desenfundable y funda de almohada con relleno
+- Tarjetas con ilustraciones exclusivas
 - Minicuna de madera blanca con patas en tijera y ruedas; minicuna star gris con textil incluido regalo tarjetas 3,2,1 sonríe
 - Minicuna homologada por aiju, cumple todas las certificaciones europeas de seguridad
-- Tarjetas con ilustraciones exclusivas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
