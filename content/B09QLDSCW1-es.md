@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Seth Camisetas  Azul  Dulwich   L para Hombre'
-date: 2022-12-23 19:25:29
+date: 2022-12-25 13:01:15
 image: 'https://m.media-amazon.com/images/I/31YnptPEUYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B09QLDSCW1/?tag=tolees-21'
 descuento: '40.00'
-average: '13.9833333333333'
+average: '14.2375'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
