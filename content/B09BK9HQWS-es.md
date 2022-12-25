@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L.O.L. Surprise! OMG Core Serie 1 Muñeca de Moda Lady Diva - con Ropa  Accesorios  Zapatos y más - Reedición Limitada para coleccionar - para niños a Partir de 4 años'
-date: 2022-12-23 19:14:15
+date: 2022-12-25 17:01:43
 image: 'https://m.media-amazon.com/images/I/51PSrdjdpKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'L.O.L. Surprise!'
 buyurl: 'https://www.amazon.es/dp/B09BK9HQWS/?tag=tolees-21'
 descuento: '40.90'
-average: '14.0271428571429'
+average: '14.2675'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
