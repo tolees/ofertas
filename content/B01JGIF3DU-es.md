@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell TC-ID 1000 Kit - Pack taladro percutor eléctrico con cable de 1010 W  230 V  3.000 RPM y 15 piezas de perforación  1 puntera  1 hoja de sierra  1 rascador  1 placa de lijado  1 bolsillo  Rojo'
-date: 2022-12-24 13:02:46
+date: 2022-12-26 20:54:23
 image: 'https://m.media-amazon.com/images/I/41kNQAsvb6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Einhell'
 buyurl: 'https://www.amazon.es/dp/B01JGIF3DU/?tag=tolees-21'
 descuento: '35.74'
-average: '40.4804444444443'
+average: '40.577608695652'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gran zona de empuñadura antideslizante ergonómica para trabajo agradable
 - Apropiado para la fijación en un soporte de perforación con cuello de sujeción de 13 mm
-- Asidero adicional fijado de forma segura mediante nervadura
-- Unidad electrónica para regular el número de revoluciones
 - Función perforación / taladro de percusión
+- Unidad electrónica para regular el número de revoluciones
+- Asidero adicional fijado de forma segura mediante nervadura
 - Tope de profundidad de perforación ajustable sin escalonamiento de metal macizo
+- Gran zona de empuñadura antideslizante ergonómica para trabajo agradable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
