@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CRAZY PAWN Narcos: Plata o Plomo Juegos DE Mesa  Multicolor  único  8436581780130 '
-date: 2022-12-23 16:27:30
+date: 2022-12-26 16:10:27
 image: 'https://m.media-amazon.com/images/I/51cd1DYyP4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CRAZY PAWN'
 buyurl: 'https://www.amazon.es/dp/B07SBZPDVG/?tag=tolees-21'
 descuento: '51.59'
-average: '22.2865384615385'
+average: '22.1774074074074'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
