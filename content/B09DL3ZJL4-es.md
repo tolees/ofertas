@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi K3S MI 11T Pro 8+256 Meteorite Gray'
-date: 2022-12-23 11:40:48
+date: 2022-12-25 23:06:02
 image: 'https://m.media-amazon.com/images/I/41gJz7lV2YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09DL3ZJL4/?tag=tolees-21'
 descuento: '42.87'
-average: '420.656666666667'
+average: '417.991428571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se puede utilizar durante mucho tiempo sin cambiar la naturaleza del producto
 - Fácil de usar
+- Se puede utilizar durante mucho tiempo sin cambiar la naturaleza del producto
 - Material resistente y duradero
 - Xiaomi K3S MI 11T Pro 8+256 Meteorite Gray
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yamaha - Altavoces Ns-P41 Negro 5.1 con Subwoofer Autoamplificado'
-date: 2022-12-23 19:17:37
+date: 2022-12-25 22:11:40
 image: 'https://m.media-amazon.com/images/I/31h7tplUvxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Yamaha'
 buyurl: 'https://www.amazon.es/dp/B07L16Y1XP/?tag=tolees-21'
 descuento: '41.81'
-average: '183.165'
+average: '181.855714285714'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
