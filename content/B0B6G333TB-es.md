@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon - Steelrising - Videojuego para PS5 [Versión Española]'
-date: 2022-12-25 09:37:46
+date: 2022-12-26 13:46:17
 image: 'https://m.media-amazon.com/images/I/414biO8AycL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nacon'
 buyurl: 'https://www.amazon.es/dp/B0B6G333TB/?tag=tolees-21'
 descuento: '55.01'
-average: '34.445'
+average: '32.954'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aliados y enemigos con motivaciones poco claras se cruzarán en tu camino, como María Antonieta, Lafayette y Robespierre
 - Una heroína única: Aegis, misteriosa y extraordinaria, se enfrenta sola a las fuerzas del rey para cambiar la historia
 - Diseñado para adaptarse a tu estilo de juego. Selecciona tus armas y objetos para intentar derrotar a cada enemigo. Cada combate pondrá a prueba tu coraje y exigirá de ti una inmensa disciplina
 - El dash -un sistema de impulsos que se activa en el momento más oportuno- también permite al jugador moverse de forma menos convencional y revelar otras facetas del París de 1789
+- Aliados y enemigos con motivaciones poco claras se cruzarán en tu camino, como María Antonieta, Lafayette y Robespierre
 - Un juego de rol de acción desafiante, centrado en peleas precisas y exigentes contra un ejército de autómatas y peleas épicas contra jefes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
