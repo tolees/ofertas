@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forma amplia
 - Zapatillas Nike
 - Cuello con amortiguación para mayor comodidad y suavidad
-- Forma amplia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
