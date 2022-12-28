@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Temperatura de color ajustable: Proporciona una temperatura de color ajustable de 3200K~5600K, conservando más de 95 CRI para reproducir todos los detalles. Su luz suficientemente brillante y regulable es ideal para una amplia gama de situaciones, desde la fotografía de naturaleza hasta el retrato.
-- Diseño único: la matriz de 18x8 LEDs produce una potente salida, y el filtro transparente especialmente diseñado para reducir la luz dura y proteger sus ojos
-- El kit incluye: 1 x Panel de luz PLV-380,1 x Adaptador de zapata fría,1 x Cargador con cable de carga Micro-USB,1 x Manual de usuario
 - Amplia compatibilidad: El adaptador de zapata fría hace que la luz sea compatible con casi todas las cámaras DSLR, videocámaras, trípodes y soportes de luz
+- Diseño único: la matriz de 18x8 LEDs produce una potente salida, y el filtro transparente especialmente diseñado para reducir la luz dura y proteger sus ojos
 - Diseño de doble alimentación: Adaptador de CA o alimentación de la batería: alimentado por el adaptador de entrada de 13-17V DC; batería aplicable: NP-F550 / NP-F750 / NP-F960 (por favor, tenga en cuenta: el adaptador de CC no está incluido)
+- El kit incluye: 1 x Panel de luz PLV-380,1 x Adaptador de zapata fría,1 x Cargador con cable de carga Micro-USB,1 x Manual de usuario
 
 [🛒 Comprar!!!]({{< param buyurl >}})

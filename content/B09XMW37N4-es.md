@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - MadIson Possessed Edition'
-date: 2022-12-13 16:53:27
+date: 2022-12-28 09:20:52
 image: 'https://m.media-amazon.com/images/I/41gI8Dko28L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09XMW37N4/?tag=tolees-21'
 descuento: '37.51'
-average: '35.682857142857'
+average: '35.196818181818'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Las cintas de sacerdote
+- La canción Blue Knees
+- Incluye contenido digital
 - Las 5 cartas de ritual
 - Fondos de pantalla oficiales
-- Incluye contenido digital
-- La canción Blue Knees
 
 [🛒 Comprar!!!]({{< param buyurl >}})
