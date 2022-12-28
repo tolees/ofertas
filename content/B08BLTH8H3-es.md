@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Hernandez S  Zapatillas Mujer  Regular Black  36 EU'
-date: 2022-12-27 11:34:30
+date: 2022-12-28 21:42:13
 image: 'https://m.media-amazon.com/images/I/31e9vtjIzdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLTH8H3/?tag=tolees-21'
 descuento: '46.69'
-average: '26.6566666666667'
+average: '26.2757142857143'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

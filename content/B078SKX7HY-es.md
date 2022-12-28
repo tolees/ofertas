@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reloj Diesel Overflow Chronograph para hombre  acero inoxidable'
-date: 2022-12-23 18:00:27
+date: 2022-12-28 20:56:26
 image: 'https://m.media-amazon.com/images/I/518L-39SxlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Diesel'
 buyurl: 'https://www.amazon.es/dp/B078SKX7HY/?tag=tolees-21'
 descuento: '51.47'
-average: '122.886111111111'
+average: '122.355641025641'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
