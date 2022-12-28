@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell destornillador inalámbrico - TH-CD 12-2 Li - 12V  1.3Ah  24Nm  parada rápida  agarre suave  caja de cambios de 2 velocidades  20 pasos de par  bloqueo del eje  estuche y cargador'
-date: 2022-12-18 19:09:59
+date: 2022-12-28 18:20:26
 image: 'https://m.media-amazon.com/images/I/41CYjRw6TzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Einhell'
 buyurl: 'https://www.amazon.es/dp/B00SY3SJ12/?tag=tolees-21'
 descuento: '35.04'
-average: '31.3383333333332'
+average: '31.3585454545453'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Motor de gran potencia y engranaje metálico para par de giro elevado
-- Mandril portabrocas de sujeción rápida de carcasa única con parada rápida
-- Bloqueo automático del husillo para cambio sencillo de herramientas
 - Acoplamiento a fricción de par contra el paso de rosca de tornillos; empuñadura antideslizante ergonómica
+- Motor de gran potencia y engranaje metálico para par de giro elevado
+- Engranaje de 2 velocidades para el atornillado potente y perforación rápida
+- Bloqueo automático del husillo para cambio sencillo de herramientas
 - Batería adecuada para varios equipos 12 V
 - Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo; batería de recambio integrada en el asa
-- Engranaje de 2 velocidades para el atornillado potente y perforación rápida
+- Mandril portabrocas de sujeción rápida de carcasa única con parada rápida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
