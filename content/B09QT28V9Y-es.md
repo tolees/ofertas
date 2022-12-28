@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Estampado all-over Mickey Mouse, el icónico personaje Disney
-- Corte skater
+- Cuello redondo
 - Tejido de tul
 - 93% Polyester 7% Elastane
-- Cuello redondo
+- Corte skater
 
 [🛒 Comprar!!!]({{< param buyurl >}})
