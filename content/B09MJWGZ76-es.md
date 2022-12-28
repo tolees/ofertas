@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASICS Gel-Kayano 29  Running Shoe Hombre  Black/White  42 EU'
-date: 2022-12-22 21:35:04
+date: 2022-12-28 07:14:57
 image: 'https://m.media-amazon.com/images/I/41-vO4ZQiQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

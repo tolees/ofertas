@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Domestic Appliances - Philips l Or Barista Sublime Cafetera de Cápsulas  Satin Blanc  Reconocimiento de Cápsula Doble  1 o 2 Tazas  Bandeja de Goteo Ajustable  LM9012/00'
-date: 2022-12-23 11:17:50
+date: 2022-12-28 07:14:28
 image: 'https://m.media-amazon.com/images/I/41lFzM3QwbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips Domestic Appliances'
 buyurl: 'https://www.amazon.es/dp/B09GPLRVN4/?tag=tolees-21'
 descuento: '40.99'
-average: '57.83'
+average: '57.8988235294118'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hasta 19 bares de presión para un espresso perfecto
 - Prepara 2 cafés a la vez o 1 café doble en una taza
-- Compatible con cápsulas LOR Espresso, LOR Barista y Nespresso
 - Menú completo de cafés: cortado, espresso, largo y más
+- Hasta 19 bares de presión para un espresso perfecto
 - Personaliza el volumen de tu café de 20 ml a 270 ml
+- Compatible con cápsulas LOR Espresso, LOR Barista y Nespresso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

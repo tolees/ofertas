@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OYU - Luz de Vídeo LED Regulable 3200-5600K  Luz de Video Camara  Lámpara de Luz Fotográfica Portátil para DSLR  Nikon  Canon  Pentax  Panasonic  Sony y Otras Cámaras con Batería  Cargador y Montura'
-date: 2022-12-21 09:19:19
+date: 2022-12-28 08:02:47
 image: 'https://m.media-amazon.com/images/I/41Mgma0uwvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'OYU'
 buyurl: 'https://www.amazon.es/dp/B0B18PD2C9/?tag=tolees-21'
 descuento: '53.50'
-average: '34.391'
+average: '33.0818181818182'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Temperatura de color ajustable: Proporciona una temperatura de color ajustable de 3200K~5600K, conservando más de 95 CRI para reproducir todos los detalles. Su luz suficientemente brillante y regulable es ideal para una amplia gama de situaciones, desde la fotografía de naturaleza hasta el retrato.
-- El kit incluye: 1 x Panel de luz PLV-380,1 x Adaptador de zapata fría,1 x Cargador con cable de carga Micro-USB,1 x Manual de usuario
 - Diseño único: la matriz de 18x8 LEDs produce una potente salida, y el filtro transparente especialmente diseñado para reducir la luz dura y proteger sus ojos
+- El kit incluye: 1 x Panel de luz PLV-380,1 x Adaptador de zapata fría,1 x Cargador con cable de carga Micro-USB,1 x Manual de usuario
 - Amplia compatibilidad: El adaptador de zapata fría hace que la luz sea compatible con casi todas las cámaras DSLR, videocámaras, trípodes y soportes de luz
 - Diseño de doble alimentación: Adaptador de CA o alimentación de la batería: alimentado por el adaptador de entrada de 13-17V DC; batería aplicable: NP-F550 / NP-F750 / NP-F960 (por favor, tenga en cuenta: el adaptador de CC no está incluido)
 
