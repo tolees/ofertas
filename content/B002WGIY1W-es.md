@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Gris  Gray Dk Sage   43 EU'
-date: 2022-12-28 07:06:37
+date: 2022-12-29 07:32:19
 image: 'https://m.media-amazon.com/images/I/41Fgr1v9+bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B002WGIY1W/?tag=tolees-21'
 descuento: '41.26'
-average: '39.729090909091'
+average: '39.3308333333334'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
