@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Draper 82399 - Juego de puntas y destornilladores de seguridad  45 piezas   color negro y plateado'
-date: 2022-12-29 14:28:11
+date: 2022-12-30 16:11:24
 image: 'https://m.media-amazon.com/images/I/51v9PzyHyxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado en acero al cromo vanadio
+- Modelo n.º 82399
 - Acabado Shot Blast
 - Se envía en una caja de almacenamiento resistente con incrustaciones de plástico para sujetar las brocas de forma segura
-- Modelo n.º 82399
 - Acabado de explosión de disparo
+- Fabricado en acero al cromo vanadio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
