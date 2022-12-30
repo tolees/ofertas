@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entresuela de EVA
 - Suela exterior de goma
+- Entresuela de EVA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

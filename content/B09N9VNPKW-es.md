@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: Goma
 - Tipo de tacón: Plano
-- Material: Sintético
-- Cordones elásticos con correa de velcro
+- Material de la suela: Goma
 - Mediasuela de EVA ligera
 - Parte superior de material sintético y tela
+- Material: Sintético
+- Cordones elásticos con correa de velcro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

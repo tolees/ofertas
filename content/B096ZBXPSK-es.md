@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material: Sintético
-- Parte superior de material sintético y tela
 - Material de la suela: Goma
-- Mediasuela de EVA ligera
+- Parte superior de material sintético y tela
 - Cordones elásticos con correa de velcro
+- Mediasuela de EVA ligera
 - Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
