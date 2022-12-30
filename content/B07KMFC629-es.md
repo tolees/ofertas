@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Traje de baño
-- Cintura elástica con cordón
-- Tejido resistente al cloro
 - Ofrece comodidad y libertad de movimiento
+- Traje de baño
+- Tejido resistente al cloro
+- Cintura elástica con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

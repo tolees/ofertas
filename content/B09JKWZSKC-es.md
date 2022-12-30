@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans - Calvin Klein Kw0kw01899 Bandeau  Corrib River Blue  L para Mujer'
-date: 2022-12-29 10:00:58
+date: 2022-12-30 10:23:59
 image: 'https://m.media-amazon.com/images/I/41NO5vw9yKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
