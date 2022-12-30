@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Freidora sin Aceite de 2 L de Aire Caliente Cecofry Compact 2000. 900 W  Dietética  Manual y Compacta  Tecnología PerfectCook  Termostato y Tiempo Regulable  Color Negro'
-date: 2022-12-24 19:00:35
+date: 2022-12-30 14:15:07
 image: 'https://m.media-amazon.com/images/I/41Q1DZ2z1hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Freidora dietética que permite cocinar con una sola cucharada de aceite, consiguiendo unos resultados más sanos.
-- Diseño moderno y compacto, con selector para controlar el funcionamiento. Dispone de termostato para regular la temperatura desde 80ºC hasta 200 ºC.
 - Resultados excepcionales en todas las recetas gracias a la tecnología PerfectCook de aire caliente que circula por el interior y sale por los orificios traseros.
-- Tiempo ajustable de 0 a 30 minutos. Protección contra sobrecalentamiento y luz indicadora de funcionamiento.
+- Freidora dietética que permite cocinar con una sola cucharada de aceite, consiguiendo unos resultados más sanos.
 - Recipiente de 2 L de capacidad para poder cocinar grandes cantidades de alimentos. 900 W de potencia para cocinar de manera rápida todos los platos.
+- Diseño moderno y compacto, con selector para controlar el funcionamiento. Dispone de termostato para regular la temperatura desde 80ºC hasta 200 ºC.
+- Tiempo ajustable de 0 a 30 minutos. Protección contra sobrecalentamiento y luz indicadora de funcionamiento.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
