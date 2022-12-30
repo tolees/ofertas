@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Levi s Billy 2.0  Zapatillas Hombre  coñac  42 EU'
-date: 2022-12-30 07:41:29
-image: 'https://m.media-amazon.com/images/I/41x31cqnmQL._SL500_._SL400_.jpg'
+title: 'Levi s Billy 2.0  Zapatillas Hombre  Black Normal  40 EU'
+date: 2022-12-30 07:41:35
+image: 'https://m.media-amazon.com/images/I/310WSZSnRFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08BLT6NHG-es Levi s Billy 2.0 Zapatillas Hombre coñac 42 EU'
-sku: 'B08BLT6NHG-es'
+slug: 'B08BLT6NHB-es Levi s Billy 2.0 Zapatillas Hombre Black Normal 40 EU'
+sku: 'B08BLT6NHB-es'
 tags: [ 'Moda','Moda Hombre','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos para hombre','levis','🇪🇸', ]
-actualPrice: 37.99 EUR
+actualPrice: 37.49 EUR
 currency: EUR
-price: 37.99
+price: 37.49
 comparePrice: 60.0 EUR
-prodname: 'Levi s Billy 2.0  Zapatillas Hombre  coñac  42 EU'
+prodname: 'Levi s Billy 2.0  Zapatillas Hombre  Black Normal  40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
-buyurl: 'https://www.amazon.es/dp/B08BLT6NHG/?tag=tolees-21'
-descuento: '36.68'
-average: '39.6853333333333'
+buyurl: 'https://www.amazon.es/dp/B08BLT6NHB/?tag=tolees-21'
+descuento: '37.52'
+average: '49.6973913043478'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
