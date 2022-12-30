@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caja de distribución de 42 elementos
-- Ip40, ik08
 - Tapa color blanco
-- 362 x 544 x 104 mm
+- Ip40, ik08
 - Posibilidad de suministrar con llave y cerradura metálica añadiendo al final de la referencia "L"
+- Caja de distribución de 42 elementos
+- 362 x 544 x 104 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con tecnología Odourclear que elimina los olores persistentes sin enmascararlos dejando una fragancia fresca y duradera
-- Fragancia Tatami Japonés olor fresco y duradero inspirado en el país del Sol naciente
-- Ambientador casa en spray que elimina los olores persistente sin enmascararlos
 - Propulsor 100% natural, no inflamable
 - Pack de 6 unidades
+- Ambientador casa en spray que elimina los olores persistente sin enmascararlos
+- Fragancia Tatami Japonés olor fresco y duradero inspirado en el país del Sol naciente
+- Con tecnología Odourclear que elimina los olores persistentes sin enmascararlos dejando una fragancia fresca y duradera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

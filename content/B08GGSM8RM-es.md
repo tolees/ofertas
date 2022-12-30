@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lagarto - Jabón natural - 400 g'
-date: 2022-12-28 18:44:36
+date: 2022-12-30 08:33:05
 image: 'https://m.media-amazon.com/images/I/412ZvU519DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lagarto'
 buyurl: 'https://www.amazon.es/dp/B08GGSM8RM/?tag=tolees-21'
 descuento: '48.56'
-average: '2.704'
+average: '2.55166666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pastilla de jabón natural
-- Respetuoso con el medio ambiente
-- Eficaz contra las manchas dificiles
 - Producto excepcional para pieles delicadas
+- Eficaz contra las manchas dificiles
+- Respetuoso con el medio ambiente
+- Pastilla de jabón natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})
