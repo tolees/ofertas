@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estimula el comportamiento reproductivo de los reptiles mediante luz ultravioleta "A"
-- Se puede combinar con Daytime Heat Lamp o Night Heat Lamp por un ciclo de 24 horas
 - Lámpara de amplio espectro para terrarios
 - Aumenta la temperatura del aire
 - Crea un área de calentamiento para la termo-regulación
+- Estimula el comportamiento reproductivo de los reptiles mediante luz ultravioleta "A"
+- Se puede combinar con Daytime Heat Lamp o Night Heat Lamp por un ciclo de 24 horas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
