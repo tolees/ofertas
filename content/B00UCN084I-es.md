@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FAMATEL – Caja estanca Minibox IP55 | Tapa a presión | 85x85x39 | Gris'
-date: 2022-12-30 09:00:31
+date: 2022-12-31 10:11:45
 image: 'https://m.media-amazon.com/images/I/41+NTvtoBIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SEGURIDAD: Fabricadas en material termoplástico de alta resistencia al impacto, a la protección de rayos ultravioletas y libre de halógenos
-- RECOMENDACIONES: Si no supiesen instalarlo, aconsejamos que contacten con un electricista certificado
-- INSTALACIÓN: Aseguramos una instalación rápida de cada una de las cajas gracias a su configuración con entradas de fácil rotura.
 - ESPECIFICACIONES: Caja estanca Minibox | Estanqueidad IP55 | 85x85x39 mm | Gris | Tapa a presión | Gris
 - ESTANQUEIDAD IP55: Este producto es perfecto para instalaciones en las que debemos garantizar grados elevados de protección al agua.
+- INSTALACIÓN: Aseguramos una instalación rápida de cada una de las cajas gracias a su configuración con entradas de fácil rotura.
+- SEGURIDAD: Fabricadas en material termoplástico de alta resistencia al impacto, a la protección de rayos ultravioletas y libre de halógenos
+- RECOMENDACIONES: Si no supiesen instalarlo, aconsejamos que contacten con un electricista certificado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
