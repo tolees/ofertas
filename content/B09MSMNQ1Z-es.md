@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop 63948 Disney: Lightyear - Buzz'
-date: 2022-12-29 09:31:30
+date: 2022-12-31 11:13:34
 image: 'https://m.media-amazon.com/images/I/41o7B64CAkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B09MSMNQ1Z/?tag=tolees-21'
 descuento: '43.78'
-average: '9.49'
+average: '9.32333333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mira las otras figuras de Funko dedicadas a esta colección
 - Colecciónalos todos!
+- POP! vinilo de Funko
+- Mira las otras figuras de Funko dedicadas a esta colección
 - Funko POP! es el juguete del año 2018 Peoples Choice
 - La figura mide 9 cm y viene en una caja de exhibición de ventana
-- POP! vinilo de Funko
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
