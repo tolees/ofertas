@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - The Last Of Us Parte I PS5'
-date: 2022-12-28 15:53:05
+date: 2022-12-30 21:29:44
 image: 'https://m.media-amazon.com/images/I/41ZcMVehIuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B0B3RZPMHY/?tag=tolees-21'
 descuento: '50.01'
-average: '59.7886363636363'
+average: '58.9278260869565'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
