@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mejora tus Beasties: Nuestros amigos, los Beasties, reciben placas de polvo primordial como botín tras ganar batallas. Con ellas podrás mejorar sus habilidades
-- Muchos Beasties se han adaptado al entorno, creando una variedad de tipos de Beastie
-- Exploración: Para recompensar la exploración, dentro del mundo habrá objetos ocultos y eventos aleatorios con botines especiales
-- Peleas de bestias: Nuestro sistema de combate por turnos es fácilmente accesible para los principiantes, pero ofrece suficiente profundidad y la posibilidad de planificar los movimientos con mucha antelación para los veteranos empedernidos.
 - Sofisticada mezcla de géneros de entrenador de monstruos y rompecabezas
+- Muchos Beasties se han adaptado al entorno, creando una variedad de tipos de Beastie
+- Peleas de bestias: Nuestro sistema de combate por turnos es fácilmente accesible para los principiantes, pero ofrece suficiente profundidad y la posibilidad de planificar los movimientos con mucha antelación para los veteranos empedernidos.
+- Exploración: Para recompensar la exploración, dentro del mundo habrá objetos ocultos y eventos aleatorios con botines especiales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

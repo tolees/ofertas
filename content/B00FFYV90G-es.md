@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El complejo vital previene los síntomas de deficiencia.
+- Estimula la inmunidad.
 - Diseñado para satisfacer las necesidades nutricionales de su ave.
 - Contiene vitaminas.
-- Estimula la inmunidad.
+- El complejo vital previene los síntomas de deficiencia.
 - Estimula el sistema cardiovascular.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
