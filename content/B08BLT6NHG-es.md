@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Billy 2.0  Zapatillas Hombre  coñac  42 EU'
-date: 2022-12-30 07:41:29
+date: 2022-12-31 07:59:13
 image: 'https://m.media-amazon.com/images/I/41x31cqnmQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLT6NHG/?tag=tolees-21'
 descuento: '36.68'
-average: '39.6853333333333'
+average: '39.6484782608695'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

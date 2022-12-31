@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Skechers Graceful Get Connected  Zapatillas Mujer  Gris Gray Mesh Coral Trim  39 EU'
-date: 2022-12-27 06:30:34
+title: 'Skechers Graceful Get Connected  Zapatillas Mujer  Gris  Gray Mesh/Coral Trim   39 EU'
+date: 2022-12-31 08:01:57
 image: 'https://m.media-amazon.com/images/I/31+3tBBVjFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 38.6 EUR
 currency: EUR
 price: 38.6
 comparePrice: 69.95 EUR
-prodname: 'Skechers Graceful Get Connected  Zapatillas Mujer  Gris Gray Mesh Coral Trim  39 EU'
+prodname: 'Skechers Graceful Get Connected  Zapatillas Mujer  Gris  Gray Mesh/Coral Trim   39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B076PXLLGF/?tag=tolees-21'
 descuento: '44.82'
-average: '40.6837096774193'
+average: '40.6506349206349'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
