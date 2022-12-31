@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance Classic Core Fleece Hoodie  Mujer'
-date: 2022-12-25 16:27:34
+date: 2022-12-31 18:52:30
 image: 'https://m.media-amazon.com/images/I/314v1Kfc5TS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

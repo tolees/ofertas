@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La figura mide 16 cm y se envía en una caja ilustrada con ventana
-- Descúbre otras figuras de la colección star wars y colecciónalas todas
 - Funko pop. El juguete del año 2018
+- Descúbre otras figuras de la colección star wars y colecciónalas todas
 - De la colección star wars, yodas hut como figura pop town de funko
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

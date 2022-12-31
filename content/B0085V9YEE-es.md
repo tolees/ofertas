@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- plástico
 - entrena las habilidades
 - con apertura ajustable para regular la caída de snacks
 - se puede llenar con snacks de premio
-- plástico
 - los snacks caen al rodar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
