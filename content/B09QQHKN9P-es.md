@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de optimo calidad
-- Sudadera con capucha cepillada
-- Sudadera con cremallera cepillada
 - Bolsillos frontales Patchwork en la parte delantera Bandera en la manga en la parte inferior
+- Producto de optimo calidad
+- Sudadera con cremallera cepillada
+- Sudadera con capucha cepillada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Baby Einstein
 - El botón grande activa varias melodías clásicas
 - Permite que los niños comiencen a apreciar la música
 - Adecuado a partir de 3 meses
+- Marca: Baby Einstein
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
