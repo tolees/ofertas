@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pocoyo - Supercircuito de Carreras Pocoyó'
-date: 2022-12-28 11:59:36
+date: 2023-01-01 12:15:33
 image: 'https://m.media-amazon.com/images/I/41qEtj1V+ES._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pocoyo'
 buyurl: 'https://www.amazon.es/dp/B097FCS6KJ/?tag=tolees-21'
 descuento: '54.74'
-average: '34.3225'
+average: '32.436'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Más de 1,5 metros de pista para construir y crear
 - Con trazado flexible para crear locos circuitos o bucles infinitos. Combina las piezas de colores
 - Además tienes muchos accesorios para crear locos y divertidos circuitos: dos puentes diferentes, una puerta (roca/madera), una pelota y un montón de señales
-- Más de 1,5 metros de pista para construir y crear
-- Crea tu propio circuito de carreras con Pocoyó
 - El coche de Pocoyo tiene movimiento, luces y música de la serie
+- Crea tu propio circuito de carreras con Pocoyó
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
