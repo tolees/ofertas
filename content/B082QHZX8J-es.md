@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Royal Classic Jogger 3  Sneaker Unisex Adulto  Black/White/Black  42 EU'
-date: 2022-12-30 21:08:00
+date: 2022-12-31 21:14:48
 image: 'https://m.media-amazon.com/images/I/31V5K+7QMeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B082QHZX8J/?tag=tolees-21'
 descuento: '38.20'
-average: '35.3684615384615'
+average: '35.27'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop Marvel: Doctor Strange in The Multiverse of Madness - Supreme Strange'
-date: 2022-12-30 21:36:22
+date: 2022-12-31 21:42:26
 image: 'https://m.media-amazon.com/images/I/4186Y12OAsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Funko POP! es el juguete del año 2018 Peoples Choice
-- Colecciónalos todos!
 - La figura mide 9 cm y viene en una caja de exhibición de ventana
 - POP! vinilo de Funko
 - Mira las otras figuras de Funko dedicadas a esta colección
+- Colecciónalos todos!
+- Funko POP! es el juguete del año 2018 Peoples Choice
 
 [🛒 Visítala!!!]({{< param buyurl >}})
