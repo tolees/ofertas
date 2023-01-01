@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Visera anti-arañazos integrada : No
 - Correa : Micro cierre de hebilla
-- Materia : Polycarbonato
 - Anti-rayaduras : Si
+- Visera anti-arañazos integrada : No
 - Anti-vaho : Si
+- Materia : Polycarbonato
 
 [🛒 Visítala!!!]({{< param buyurl >}})
