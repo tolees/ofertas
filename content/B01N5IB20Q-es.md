@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston A400 SSD Disco duro sólido interno 2.5" SATA Rev 3.0  240GB - SA400S37/240G'
-date: 2022-12-31 14:16:59
+date: 2023-01-01 14:43:01
 image: 'https://m.media-amazon.com/images/I/41UKoJx2tZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B01N5IB20Q/?tag=tolees-21'
 descuento: '55.57'
-average: '30.1223076923076'
+average: '30.092418879056'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

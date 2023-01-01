@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Summits  Zapatillas de Gimnasia Mujer  Black Trim  39 EU'
-date: 2022-12-30 13:57:11
+date: 2023-01-01 14:24:28
 image: 'https://m.media-amazon.com/images/I/41bSFX15FvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07LG8YX1R/?tag=tolees-21'
 descuento: '46.15'
-average: '38.3288888888888'
+average: '38.2942105263157'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas 3MC  Sneaker Unisex Adulto  Core Black/Core Black/Grey  35.5 EU'
-date: 2022-12-31 14:10:19
+date: 2023-01-01 14:28:57
 image: 'https://m.media-amazon.com/images/I/41XQB2kJE1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08265KYWL/?tag=tolees-21'
 descuento: '35.07'
-average: '52.2916666666668'
+average: '51.7653846153847'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte regular
-- Lona superior
 - Cordones de zapatos
+- Lona superior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
