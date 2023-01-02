@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oreal Paris Men Expert Hydra Energetic Roll-On Ojos Anti-Bolsas + Anti-Ojeras con 2 Vitaminas - 10 ml'
-date: 2022-12-31 11:56:11
+date: 2023-01-02 11:34:10
 image: 'https://m.media-amazon.com/images/I/317x7Nr2htL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LOreal Paris Men Expert'
 buyurl: 'https://www.amazon.es/dp/B00B7G3IV4/?tag=tolees-21'
 descuento: '43.50'
-average: '7.33907216494845'
+average: '7.33336734693877'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
