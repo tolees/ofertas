@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ergonómico
-- Incluye cinco hojas de recambio
-- Se trata de un cutter de 18 mm
 - Marca: Stanley
+- Diseño ergonómico
+- Se trata de un cutter de 18 mm
+- Incluye cinco hojas de recambio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

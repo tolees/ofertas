@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Crema reparadora para piel seca
 - Deja la piel suave
+- Crema reparadora para piel seca
 - Se puede usar en toto el cuerpo
 - Tiene una fórmula con 10% de urea
 - La piel se va a mantener hidratada durante más tiempo

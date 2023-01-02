@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conectividad Bluetooth perfecta: la última tecnología Bluetooth 5.2 brinda una conexión perfecta y muy estable para horas de escucha inalámbrica. El Bluetooth no se desconecta, incluso en trenes, autobuses o el metro.
-- Excelente Rendimiento de Llamadas: ComfoBuds 2 emplean 4 micrófonos ENC con un algoritmo avanzado que suprime el ruido ambiental y amplifica la voz, ofreciéndote una excelente experiencia de llamadas que se escuchan tan nítidamente como una conversación en persona.
-- 12 Preajustes de Ecualizador Profesional: sintonizados por un ingeniero de sonido 4 veces premiado con un Grammy con Sonarworks (una empresa de tecnología de audio profesional y galardonada), estos ecualizadores te permiten sumergirte completamente sea cual sea tu gusto, si prefieres música lírica, electrónica o ritmos emocionantes, encontrarás un ecualizador que haga brillar tu música.
 - Graves Profundos Que Te Sorprenderán: un driver dinámico ultragrande de 13.4mm produce graves potentes e intensos que infunden al sonido una pasión cautivadora. Además, la compatibilidad con el códec AAC te permite disfrutar de tus canciones favoritas en alta calidad en dispositivos Android y Apple.
 - Diseño Cómodo y Compacto: Diseño semi in-ear y almohadillas reemplazables de silicona suave para un ajuste cómodo, seguro y menos intrusivo, y con un peso de sólo 4.3g cada uno, apenas percibe los auriculares en los oídos. El estuche de bolsillo ayuda a llevar los ComfoBuds 2 a cualquier lugar.
+- 12 Preajustes de Ecualizador Profesional: sintonizados por un ingeniero de sonido 4 veces premiado con un Grammy con Sonarworks (una empresa de tecnología de audio profesional y galardonada), estos ecualizadores te permiten sumergirte completamente sea cual sea tu gusto, si prefieres música lírica, electrónica o ritmos emocionantes, encontrarás un ecualizador que haga brillar tu música.
+- Excelente Rendimiento de Llamadas: ComfoBuds 2 emplean 4 micrófonos ENC con un algoritmo avanzado que suprime el ruido ambiental y amplifica la voz, ofreciéndote una excelente experiencia de llamadas que se escuchan tan nítidamente como una conversación en persona.
+- Conectividad Bluetooth perfecta: la última tecnología Bluetooth 5.2 brinda una conexión perfecta y muy estable para horas de escucha inalámbrica. El Bluetooth no se desconecta, incluso en trenes, autobuses o el metro.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

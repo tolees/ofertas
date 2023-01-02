@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Comodidad y amortiguación
-- Logotipo de holograma
 - Sole con estructura de plataforma
+- Logotipo de holograma
+- Comodidad y amortiguación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
