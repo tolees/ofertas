@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tenga en cuenta que la etiqueta de talla ubicada en el interior del cuello de esta prenda corresponde a la talla de la marca / fabricante. Utilice la tabla de tallas en la página del producto para encontrar el tamaño equivalente.
 - Cintura elástica suave, ajuste mejorado
+- Tenga en cuenta que la etiqueta de talla ubicada en el interior del cuello de esta prenda corresponde a la talla de la marca / fabricante. Utilice la tabla de tallas en la página del producto para encontrar el tamaño equivalente.
 - Esta ropa interior transpirable y suave es ideal para el uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

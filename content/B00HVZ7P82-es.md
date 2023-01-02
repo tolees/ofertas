@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuado para su uso con todas las herramientas eléctricas y de jardín de iones de litio de 18 V de Black & Decker
-- Capacidad de la batería 2,0 Ah
 - Tipo de batería: litio; Fácil de instalar
+- Capacidad de la batería 2,0 Ah
+- Adecuado para su uso con todas las herramientas eléctricas y de jardín de iones de litio de 18 V de Black & Decker
 
 [🛒 Visítala!!!]({{< param buyurl >}})
