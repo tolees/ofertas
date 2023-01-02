@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatos para niños
 - Tela superior
+- Zapatos para niños
 - Almohadón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

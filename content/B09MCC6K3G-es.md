@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Controla la música con la voz: reproduce en streaming canciones en Amazon Music, Spotify, TuneIn y otros servicios.
 - Alexa tiene mucho que mostrarte: disfruta al máximo del contenido que te gusta gracias a la pantalla HD de 8", el ajuste adaptativo del color y los altavoces estéreo. Haz videollamadas con la cámara de 13 MP y mantente en el centro de la imagen gracias al encuadre automático.
 - Mantente en el centro de la imagen: haz videollamadas gracias a una nueva cámara que enfoca y te mantiene en el centro de manera automática. Solo pídele a Alexa que llame a tus contactos.
 - Te presentamos el Echo Dot: nuestro altavoz inteligente más popular. Viene con un diseño con acabado en tela que se ajusta perfectamente a cualquier espacio pequeño.
-- Controla la música con la voz: reproduce en streaming canciones en Amazon Music, Spotify, TuneIn y otros servicios.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
