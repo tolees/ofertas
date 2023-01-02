@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FAMATEL - Caja empotrar para mecanismos | Cuádruple | 67x45 mm | Naranja'
-date: 2022-12-31 18:00:20
+date: 2023-01-02 08:59:43
 image: 'https://m.media-amazon.com/images/I/31TtTCvPOZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FACILIDAD: Nuestras cajas de registro especiales para paredes de pladur aseguran un perfecto acabado y una instalación rápida, sencilla y segura.
 - ESPECIFICACIONES: Caja empotrar para mecanismos | 281x67x45 mm | Cuádruple
 - LIBRE DE HALÓGENOS: Su superficie destaca por ser libre de halógenos, por su resistencia al fuego y su capacidad para no propagarlo en caso de incendio.
-- SEGURIDAD: Cumplen la normativa para su aplicación en tablero hueco con una resistencia al hilo incandescente igual o superior a los 850ºC.
 - RECOMENDACIONES: Si no supiesen instalarlo, aconsejamos que contacten con un electricista certificado
+- FACILIDAD: Nuestras cajas de registro especiales para paredes de pladur aseguran un perfecto acabado y una instalación rápida, sencilla y segura.
+- SEGURIDAD: Cumplen la normativa para su aplicación en tablero hueco con una resistencia al hilo incandescente igual o superior a los 850ºC.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

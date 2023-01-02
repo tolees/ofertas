@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Air MAX Excee U  Zapatillas Hombre  Black White Dark Grey  45 EU'
-date: 2023-01-01 08:15:47
+date: 2023-01-02 08:21:51
 image: 'https://m.media-amazon.com/images/I/41HIRmk74vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07T7JT7XZ/?tag=tolees-21'
 descuento: '40.02'
-average: '76.7385'
+average: '76.6221951219512'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Zapatillas deportivas
 - Forma anatómica que se adapta a tus pies
 - Diseño ligero y flexible que ofrece comodidad
-- Zapatillas deportivas
 - Material de la suela resistente y duradero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

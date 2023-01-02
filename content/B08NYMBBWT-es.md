@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE CW6101-010 M NK DF ACD21 Top SS T-Shirt Men s Black/White/White/White M'
-date: 2022-12-27 12:49:58
+date: 2023-01-02 09:07:19
 image: 'https://m.media-amazon.com/images/I/31yinI2nD0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B08NYMBBWT/?tag=tolees-21'
 descuento: '40.24'
-average: '14.37'
+average: '13.1633333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ajuste regular
-- Tiene detalles distintivos de la marca
 - El diseño otorga libertad a los movimientos
+- Tiene detalles distintivos de la marca
 - Mantiene la piel fresca y seca en todo momento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
