@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Colour: 807/M9 BLACK
 - Model: Polaroid Pld 6076/s 807/M9 BLACK 60
 - Brand: Polaroid
-- Colour: 807/M9 BLACK
 - Protective Case Included
 - Calibre: 60 Millimeters
 
