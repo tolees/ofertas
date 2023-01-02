@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forma parte de la familia Black+Decker 18V de litio; una sola batería que es compatible con todas las herramientas Black+Decker 18V; No incluye batería ni cargador
-- Seguridad: Se incluye una carcasa de aluminio de alta resistencia en la amoladora para una disipación óptima del calor..; un interruptor de encendido/apagado permite un manejo cómodo con una o dos manos
 - Mango lateral ergonómico intercambiable y ajustable en 3 posiciones para facilitar su uso; esta amoladora es perfecta para los trabajos más exigentes
-- El disco de 125 mmde diámetro es el balance perfecto entre profundidad de corte y accesibilidad en el área de trabajo
+- Seguridad: Se incluye una carcasa de aluminio de alta resistencia en la amoladora para una disipación óptima del calor..; un interruptor de encendido/apagado permite un manejo cómodo con una o dos manos
 - Rendimiento: Una herramienta potente con su motor de 18V y una velocidad de 8000 rpm para aplicaciones óptimas
+- El disco de 125 mmde diámetro es el balance perfecto entre profundidad de corte y accesibilidad en el área de trabajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
