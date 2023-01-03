@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BaByliss 6719DE Italian Air Pro Secador de Pelo Iónico  2 Boquillas y Difusor  Aire Frío Bloqueable  Gris Antracita  2200W'
-date: 2023-01-01 17:34:24
+date: 2023-01-03 13:28:43
 image: 'https://m.media-amazon.com/images/I/41IXafK4SOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BaByliss'
 buyurl: 'https://www.amazon.es/dp/B098XSQC9H/?tag=tolees-21'
 descuento: '42.79'
-average: '47.39375'
+average: '46.5711111111111'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Potencia (W): 2200.0 watts
-- Secador iónico antiencrespamiento
-- 2 configuraciones de calor y 2 de velocidad + Ajuste de aire frío bloqueable
 - Secador con Motor AC Hecho en Italia y 2200W de potencia
 - Boquillas concentradoras ultraestrechas de 6x75 mm y 6x90mm + Difusor profesional
+- 2 configuraciones de calor y 2 de velocidad + Ajuste de aire frío bloqueable
+- Secador iónico antiencrespamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
