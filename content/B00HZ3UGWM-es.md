@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - País: Spain
-- size: 100
 - Marca: Calvin Klein
+- size: 100
 
 [🛒 Aquí!!!]({{< param buyurl >}})
