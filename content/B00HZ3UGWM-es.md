@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Beauty Edp Vapo 100 Ml - 100 ml'
-date: 2023-01-02 10:25:44
+date: 2023-01-03 18:02:29
 image: 'https://m.media-amazon.com/images/I/41wwhGVEoiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B00HZ3UGWM/?tag=tolees-21'
 descuento: '57.37'
-average: '34.64'
+average: '35.0483333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- País: Spain
 - size: 100
 - Marca: Calvin Klein
-- País: Spain
 
 [🛒 Aquí!!!]({{< param buyurl >}})

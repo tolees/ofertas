@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI AD80 - Monitor de 23 8” FullHD 60 Hz  1920x1080  Panel IPS antireflejos  HDMI  VGA  16:9  Flicker-Free  Low Blue Light  AMD FreeSync   Negro'
-date: 2023-01-02 07:04:15
+date: 2023-01-03 17:24:28
 image: 'https://m.media-amazon.com/images/I/61XXqj+UIJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- AMD FreeSync, contraste de 1000:1, gama de colores NTSC2 del 72%
+- Tecnología Flicker Free (anti parpadeo) y de filtro de luz azul para un mayor confort visual y la eliminación de los reflejos
+- Tamaño de monitor: 23.8 inches; Tecnología de monitor: IPS LCD
 - IPS anti reflejos, sin sombras incluso cuando se ve desde el lateral ratio de aspecto 16:9
 - Pantalla 23.8", FullHD 1080P (1920x1080 píxeles), 60 Hz, 16:9, brillo de 250 nits, ratio pantalla cuerpo 90%, marcos ultra estrechos, ángulo de visión de 178 grados
-- AMD FreeSync, contraste de 1000:1, gama de colores NTSC2 del 72%
-- Tamaño de monitor: 23.8 inches; Tecnología de monitor: IPS LCD
-- Tecnología Flicker Free (anti parpadeo) y de filtro de luz azul para un mayor confort visual y la eliminación de los reflejos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
