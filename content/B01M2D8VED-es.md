@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ONLY Onlcoral SL SK Jeans  Medium Blue Denim  28W / 32L para Mujer'
-date: 2023-01-02 07:30:51
+date: 2023-01-03 09:31:09
 image: 'https://m.media-amazon.com/images/I/31Wp4cby8lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Detalles destruidos
 - Composición del material: 54 % algodón, 22 % poliéster, 14 % lyocell, 9 % viscosa, 1 % elastano
 - Vaqueros ajustados
 - Talle bajo
-- Detalles destruidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
