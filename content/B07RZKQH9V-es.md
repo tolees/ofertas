@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnson s Baby Champú Camomila  ideal para toda la familia - 3 x 300 ml'
-date: 2023-01-02 08:06:26
+date: 2023-01-03 21:53:40
 image: 'https://m.media-amazon.com/images/I/51iCxRcC3oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Johnsons Baby'
 buyurl: 'https://www.amazon.es/dp/B07RZKQH9V/?tag=tolees-21'
 descuento: '42.92'
-average: '4.3396551724138'
+average: '4.32000000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Nuestra fórmula No Llores Más evita las lágrimas y es tan suave en los ojos como el agua más pura.
-- Champú de camomila hipoalergénico y con pH equilibrado
 - Ideal para toda la familia
-- Deja el pelo limpio y con aspecto saludable
 - Champú sin colorantes, ftalatos, sulfatos, alcohol ni jabón
+- Champú de camomila hipoalergénico y con pH equilibrado
+- Deja el pelo limpio y con aspecto saludable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
