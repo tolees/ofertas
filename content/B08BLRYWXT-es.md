@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Levis Cartera de piel negra Casual Classics
-- Nuevo y auténtico. Somos un vendedor autorizado de Levis.
 - Consulta la descripción del producto a continuación para más información.
+- Nuevo y auténtico. Somos un vendedor autorizado de Levis.
+- Levis Cartera de piel negra Casual Classics
 
 [🛒 Aquí!!!]({{< param buyurl >}})

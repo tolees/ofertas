@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tiro bajo
+- Vaqueros pitillo
 - Detalles rotos
 - Composición del material: 54% algodón, 22% poliéster, 14% lyocell, 9% viscosa, 1% elastano
-- Vaqueros pitillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
