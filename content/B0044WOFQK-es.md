@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oreal Paris - L´Oréal Paris Make Up Designer Volume Million Lashes Extra Black  Máscara Pestañas Negro - 10 7 ml'
-date: 2022-12-30 10:22:07
+date: 2023-01-04 07:36:43
 image: 'https://m.media-amazon.com/images/I/31rPJ6VeXtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LOreal Paris'
 buyurl: 'https://www.amazon.es/dp/B0044WOFQK/?tag=tolees-21'
 descuento: '54.99'
-average: '6.60944444444445'
+average: '6.6821052631579'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

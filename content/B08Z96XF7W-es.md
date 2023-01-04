@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Freixenet vino Blanco Selección Especial - Pack de 6 Botellas de 750 ml - Total: 4500 ml'
-date: 2023-01-01 14:43:16
+date: 2023-01-04 07:26:15
 image: 'https://m.media-amazon.com/images/I/41n+hdvEX-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Freixenet'
 buyurl: 'https://www.amazon.es/dp/B08Z96XF7W/?tag=tolees-21'
 descuento: '35.22'
-average: '22.1928571428571'
+average: '22.0425'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- En boca la entrada es agradable, con acidez refrescante, sedoso y con persistencia en el paladar. En el retrogusto aparecen aromas frutales muy intensos que hacen que el vino sea muy goloso y sápido
 - Aromas a fruta blanca y tropical con toques cítricos.
+- Vegano
 - Vino fresco con marcado carácter mediterráneo
 - Combinación ideal para aperitivos, ensaladas mediterráneas, ceviches, pescados magros, pulpo a la feira, mariscos y arroces.
-- Vegano
-- En boca la entrada es agradable, con acidez refrescante, sedoso y con persistencia en el paladar. En el retrogusto aparecen aromas frutales muy intensos que hacen que el vino sea muy goloso y sápido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

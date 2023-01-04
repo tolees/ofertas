@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Curve Digital - The Ascent  Standard Edition  - PS5'
-date: 2023-01-01 12:29:20
+date: 2023-01-04 07:34:36
 image: 'https://m.media-amazon.com/images/I/41DP7g0LnKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Curve Digital'
 buyurl: 'https://www.amazon.es/dp/B09TFRHRBL/?tag=tolees-21'
 descuento: '42.15'
-average: '18.4175'
+average: '18.204'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
