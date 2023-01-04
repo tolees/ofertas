@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KT1 Auriculares Inalambricos Deportivos  Auriculares Bluetooth 5.3  120H de Reproducción con Estuche de Carga  Ajuste Cómodo  Auriculares Impermeables IPX7  Graves Profundos  para Deportes'
-date: 2023-01-03 14:33:25
+date: 2023-01-04 14:44:17
 image: 'https://m.media-amazon.com/images/I/411qvNJAMpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

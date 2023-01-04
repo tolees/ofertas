@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Baterías suministradas (batería cr 2032 x 1)
+- Estilo: Universal
 - Visualización de la presión de los neumáticos en bar (0,35-> 7bar) con una precisión de lectura de 0,05 bar
 - Visualización de profundidad de las ranuras de los neumáticos en mm
 - Controlador de presión de nueva generación + medición de profundidad del neumático
-- Estilo: Universal
-- Baterías suministradas (batería cr 2032 x 1)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

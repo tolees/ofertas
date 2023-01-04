@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Bobs Squad Tough Talk  Zapatillas Mujer  Lt.Blue Engineered Knit  39 EU'
-date: 2023-01-02 14:32:52
+date: 2023-01-04 14:55:17
 image: 'https://m.media-amazon.com/images/I/41mL04SuZ4S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B08L3RNCCK/?tag=tolees-21'
 descuento: '45.04'
-average: '43.5439393939395'
+average: '43.5540000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
