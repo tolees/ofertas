@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrecen un ajuste cómodo
 - Cuentan con un estilo deportivo
+- Ofrecen un ajuste cómodo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Stock que apoya el talón
-- Zapatos para correr
 - Amortiguación resistente
+- Zapatos para correr
+- Stock que apoya el talón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
