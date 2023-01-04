@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel  Lasting Provocalips  Labial fijo  310 Pounting pink  Paso 1: 2 3mL  Paso2: 1 6g'
-date: 2022-12-29 14:43:59
+date: 2023-01-04 11:02:40
 image: 'https://m.media-amazon.com/images/I/212tmX-JUQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color e hidratación de optimo impacto
-- A prueba de roces, besos y cenas
-- Labios a prueba de todo en 2 pasos: paso 1, tinta líquida, paso 2, bálsamo hidratante
 - Hasta 16 horas de color inalterable
 - Brillo e hidratación para una sensación de confort en los labios
+- A prueba de roces, besos y cenas
+- Color e hidratación de optimo impacto
+- Labios a prueba de todo en 2 pasos: paso 1, tinta líquida, paso 2, bálsamo hidratante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
