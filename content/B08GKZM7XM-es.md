@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Versátil: Ideal para cortar metal, azulejos o ladrillos
-- Incluye: GWS 18V-7, 2 baterías 4,0 Ah, cargador GAL 18V-40, empuñadura adicional, brida de fijación, caperuza, tuerca de sujeción, llave de dos orificios, bandeja para L-BOXX, L-BOXX 136
-- Fácil manejo: Su diseño ergonómico, peso bajo y perímetro de agarre reducido garantizan un trabajo cómodo
-- Excelente rendimiento: El motor Brushless sin escobillas proporciona la misma potencia que una amoladora con cable de 700 W
 - Professional 18V System. Máximo rendimiento. Máxima libertad. Todas las baterías son compatibles con las herramientas nuevas o ya existentes Bosch Professional del mismo voltaje.
+- Fácil manejo: Su diseño ergonómico, peso bajo y perímetro de agarre reducido garantizan un trabajo cómodo
+- Incluye: GWS 18V-7, 2 baterías 4,0 Ah, cargador GAL 18V-40, empuñadura adicional, brida de fijación, caperuza, tuerca de sujeción, llave de dos orificios, bandeja para L-BOXX, L-BOXX 136
+- Versátil: Ideal para cortar metal, azulejos o ladrillos
+- Excelente rendimiento: El motor Brushless sin escobillas proporciona la misma potencia que una amoladora con cable de 700 W
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño moderno y compacto con un panel de control táctil multifunción para controlar el funcionamiento. Cestillo y rejilla aptos para lavavajillas.
-- Cubeta de 5,5 L de capacidad para poder cocinar grandes cantidades de alimentos. 1700 W de potencia para cocinar de manera rápida todos los platos. Resultados excepcionales en todas las recetas gracias a la tecnología PerfectCook de aire caliente que circula por el interior y sale por los orificios traseros.
-- 8 modos preconfigurados que establecen el tiempo y la temperatura necesarios para cocinar distintos tipos de alimentos. Dispone de termostato para regular la temperatura desde 80ºC hasta 200 ºC. Tiempo ajustable de 0 a 60 minutos. Báscula integrada para resultados perfectos y óptimos.
-- Con protección contra sobrecalentamiento. Luz indicadora de funcionamiento. Base antideslizante para favorecer su apoyo durante el funcionamiento. La longitud del cable de alimentación expuesto es de 65 cm.
 - Freidora dietética que permite cocinar con una sola cucharada de aceite, consiguiendo unos resultados más sanos.
+- Cubeta de 5,5 L de capacidad para poder cocinar grandes cantidades de alimentos. 1700 W de potencia para cocinar de manera rápida todos los platos. Resultados excepcionales en todas las recetas gracias a la tecnología PerfectCook de aire caliente que circula por el interior y sale por los orificios traseros.
+- Diseño moderno y compacto con un panel de control táctil multifunción para controlar el funcionamiento. Cestillo y rejilla aptos para lavavajillas.
+- Con protección contra sobrecalentamiento. Luz indicadora de funcionamiento. Base antideslizante para favorecer su apoyo durante el funcionamiento. La longitud del cable de alimentación expuesto es de 65 cm.
+- 8 modos preconfigurados que establecen el tiempo y la temperatura necesarios para cocinar distintos tipos de alimentos. Dispone de termostato para regular la temperatura desde 80ºC hasta 200 ºC. Tiempo ajustable de 0 a 60 minutos. Báscula integrada para resultados perfectos y óptimos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

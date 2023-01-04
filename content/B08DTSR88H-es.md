@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillo espacial
-- Recto
 - Tejido vaquero elástico
+- Recto
+- Bolsillo espacial
 
 [🛒 Aquí!!!]({{< param buyurl >}})

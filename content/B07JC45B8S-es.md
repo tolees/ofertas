@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Clasico botón tipo “donut”
-- Cintura flexible
 - Tejido elástico
+- Cintura flexible
+- Clasico botón tipo “donut”
 
 [🛒 Aquí!!!]({{< param buyurl >}})

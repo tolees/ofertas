@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Longitud: longitud normal
 - Tipo de cintura: cintura elástica con cordón
-- Corte: corte regular, corte clásico
-- Pijama de punto suave con puños acanalados en los extremos. Parte superior estilo Henley y pantalón con dos bolsillos laterales.
-- Forma de la pierna: pantalones con puños elásticos
-- Colección: Homewear
 - Lavar en ciclo normal a 40 °C, no usar lejía, secar en secadora a baja temperatura, planchar a máx. 150° (nivel 2), no limpiar en seco
-- Escote: botón de corte
+- Pijama de punto suave con puños acanalados en los extremos. Parte superior estilo Henley y pantalón con dos bolsillos laterales.
+- Colección: Homewear
 - Longitud de la manga: manga larga
+- Escote: botón de corte
+- Longitud: longitud normal
+- Forma de la pierna: pantalones con puños elásticos
+- Corte: corte regular, corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
