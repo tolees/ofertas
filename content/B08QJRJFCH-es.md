@@ -31,7 +31,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Sellar será más fácil – Impedir que el clima afecte a tu hogar es muy sencillo con este sellador blanco, que se aplica a juntas, grietas, paredes, fachadas y marcos.
 - Fácil de aplicar – La tecnología de este tapajuntas blanco hace que sea fácil de aplicar y alisar. No tiene un olor fuerte y ofrece resultados que duran años.
 - Envío – Pattex Exterior Sella, Pega & Repara, sellador impermeable para múltiples aplicaciones, apto para superficies húmedas y bajas temperaturas, pintable, blanco, 1 x 280 ml, cartucho
-- Alto rendimiento – Gracias a su tecnología, este sellador elástico se puede aplicar en superficies húmedas. Además, resiste altas y bajas temperaturas.
 - Todas las condiciones – La fórmula de calidad de este sellador adhesivo ofrece la resistencia del pegamento y resiste la lluvia, el frío, el calor y el sol durante años.
+- Alto rendimiento – Gracias a su tecnología, este sellador elástico se puede aplicar en superficies húmedas. Además, resiste altas y bajas temperaturas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

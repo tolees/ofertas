@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aceites progloss: este secador tiene la particularidad de mantener en su rejilla frontal ciertos aceites como queratina, argán y coco para lograr mucho más brillo y suavidad en cada peinado; generando un resultado de peluquería
-- Máximo brillo: gracias al exclusivo sistema iónico de progloss 3800 conseguirás peinados elegantes y un pelo brillante
 - Tu estilo a tu manera: el secador de pelo progloss quad ionic 3800 viene con tres configuraciones de calor y dos de velocidad; un concentrador y un difusor de volumen que te permitirán crear rizos definidos o un liso brillante
-- Estilo fijado: este secador de pelo viene con un botón para liberar un shock de aire frío para fijar tu peinado y que dure todo el día hasta la noche
+- Máximo brillo: gracias al exclusivo sistema iónico de progloss 3800 conseguirás peinados elegantes y un pelo brillante
+- Aceites progloss: este secador tiene la particularidad de mantener en su rejilla frontal ciertos aceites como queratina, argán y coco para lograr mucho más brillo y suavidad en cada peinado; generando un resultado de peluquería
 - Volumen: incluye dos accesorios, una boquilla suavizadora para estilos y acabado liso, y un difusor para aumentar el volumen; utiliza el sistema ionizador súper quad para agregar volumen y cuerpo a cada peinado
+- Estilo fijado: este secador de pelo viene con un botón para liberar un shock de aire frío para fijar tu peinado y que dure todo el día hasta la noche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

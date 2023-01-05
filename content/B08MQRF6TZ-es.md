@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre con cordones para un ajuste ceñido
-- Exterior de piel sintética
 - Caña baja
+- Exterior de piel sintética
+- Cierre con cordones para un ajuste ceñido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
