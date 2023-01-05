@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Barstow Western Standard Camisa Hombre Red Cast Stone  Azul  L'
-date: 2023-01-04 10:02:47
+date: 2023-01-05 10:12:45
 image: 'https://m.media-amazon.com/images/I/416HuSRdUuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07TMHHK3Y/?tag=tolees-21'
 descuento: '39.04'
-average: '47.78'
+average: '47.8561538461538'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

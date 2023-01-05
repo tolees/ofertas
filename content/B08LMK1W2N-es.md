@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Horrible Games - El Dilema del Rey  HGKD0001 '
-date: 2023-01-04 08:11:32
+date: 2023-01-05 11:11:16
 image: 'https://m.media-amazon.com/images/I/512e-AQxyvS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Horrible Games'
 buyurl: 'https://www.amazon.es/dp/B08LMK1W2N/?tag=tolees-21'
 descuento: '38.39'
-average: '47.3504347826086'
+average: '47.3024999999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De 3 a 5 jugadores
-- ¿Actuarás por el bien común o pensarás solo en ti?
 - A partir de 14 años de edad
-- El Dilema del Rey es una experiencia interactiva y narrativa con elementos legacy, una gran variedad de tramas entrelazadas con multitud de finales posibles y un mazo de cartas de Evento que evoluciona
 - Juego de mesa en español
+- De 3 a 5 jugadores
+- El Dilema del Rey es una experiencia interactiva y narrativa con elementos legacy, una gran variedad de tramas entrelazadas con multitud de finales posibles y un mazo de cartas de Evento que evoluciona
+- ¿Actuarás por el bien común o pensarás solo en ti?
 
 [🛒 Visítala!!!]({{< param buyurl >}})
