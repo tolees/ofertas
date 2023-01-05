@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- titular de la clave, bolígrafos, mango
 - La capacidad en litros aprox .: 1.120
+- titular de la clave, bolígrafos, mango
 - Tipo de Cierre: cremallera
 - Serie: Basic Plus
 - Características: soporte para teléfono móvil, compartimiento con cremallera
