@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Top Eyben Slim V-Neck Tops  dk Black  M Mujer'
-date: 2023-01-04 08:51:20
+date: 2023-01-05 15:30:20
 image: 'https://m.media-amazon.com/images/I/31mLriMH98L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bajo recto
-- Bordado de G-Star RAW en el pecho
 - Corte ajustado
+- Bajo recto
 - Cuello de pico acanalado
+- Bordado de G-Star RAW en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

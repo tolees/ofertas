@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para mayor comodidad y versatilidad, la boquilla de café ajustable es la solución óptima para servir sobre una amplia variedad tazas de diferentes tamaños y obtener unos resultados buenos
-- Molinillo con muelas cónicas de metal, diseñado para ofrecer un molido de nivel profesional, dispone de tres texturas diferentes, para conseguir unos ristrettos, espressos y cafés largos de calidad
-- Cafetera súper automática adecuada para preparar cafés y espressos deliciosos gracias a su sistema Thermoblock que permite capturar la esencia pura del verdadero café para ofrecerte unos resultados llenos de sabor y de aroma
-- Resultados óptimos desde ristretos hasta lungos; descubre un amplio abanico de sabores excepcionales y aromas intensos; diseño compacto que encaja en cualquier cocina y gran capacidad con depósito de café de 260 g y depósito de agua de 1,7 l
 - Con 15 bares de presión para unos resultados profesionales; botones grandes e intuitivos para preparar buenas cafés en casa y con luces led para ofrecerte una experiencia sencilla y de gran precisión
-- La boquilla de vapor, fácil de limpiar para una mayor higiene y funcionalidad, le aporta el toque final a una gran variedad de bebidas, para que puedas disfrutar en casa de un capuchino espumoso o calentar agua para tus infusiones
 - Las cafeteras Krups se someten de manera aleatoria a estrictos controles de calidad para asegurar su funcionamiento; las pruebas incluyen el llenado de agua y la preparación de café, por ello se pueden encontrar pequeños restos en la máquina
+- Para mayor comodidad y versatilidad, la boquilla de café ajustable es la solución óptima para servir sobre una amplia variedad tazas de diferentes tamaños y obtener unos resultados buenos
+- La boquilla de vapor, fácil de limpiar para una mayor higiene y funcionalidad, le aporta el toque final a una gran variedad de bebidas, para que puedas disfrutar en casa de un capuchino espumoso o calentar agua para tus infusiones
+- Resultados óptimos desde ristretos hasta lungos; descubre un amplio abanico de sabores excepcionales y aromas intensos; diseño compacto que encaja en cualquier cocina y gran capacidad con depósito de café de 260 g y depósito de agua de 1,7 l
+- Cafetera súper automática adecuada para preparar cafés y espressos deliciosos gracias a su sistema Thermoblock que permite capturar la esencia pura del verdadero café para ofrecerte unos resultados llenos de sabor y de aroma
+- Molinillo con muelas cónicas de metal, diseñado para ofrecer un molido de nivel profesional, dispone de tres texturas diferentes, para conseguir unos ristrettos, espressos y cafés largos de calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
