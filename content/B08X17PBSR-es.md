@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Babyliss E977E - Cortapelos'
-date: 2023-01-02 08:00:49
+date: 2023-01-05 18:15:50
 image: 'https://m.media-amazon.com/images/I/519fzxvp1UL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

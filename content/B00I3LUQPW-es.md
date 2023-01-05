@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-EX15LP Auriculares In-Ear  Negro  9 mm  1 Unidad  Paquete de 1 '
-date: 2023-01-02 15:15:47
+date: 2023-01-05 19:39:28
 image: 'https://m.media-amazon.com/images/I/212+ZBHACbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00I3LUQPW/?tag=tolees-21'
 descuento: '51.00'
-average: '5.9'
+average: '5.88989898989899'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cómodos tapones de auricular de silicona de ajuste seguro
-- Longitud del cable: 1.2
-- Diafragmas de neodimio de 9 mm para un sonido potente y equilibrado
 - Rango de frecuencia de 8 Hz hasta 22 kHz
-- Disponible en diversos colores
+- Diafragmas de neodimio de 9 mm para un sonido potente y equilibrado
+- Cómodos tapones de auricular de silicona de ajuste seguro
 - Color: negro
+- Disponible en diversos colores
+- Longitud del cable: 1.2
 
 [🛒 Aquí!!!]({{< param buyurl >}})

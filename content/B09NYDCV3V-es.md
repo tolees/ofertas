@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Suunto 5 Peak Reloj deportivo GPS ligero y compacto con 100 h de batería y medición de la frecuencia cardíaca en la muñeca'
-date: 2023-01-04 15:07:05
+date: 2023-01-05 19:11:18
 image: 'https://m.media-amazon.com/images/I/416Ndsg1nTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Suunto'
 buyurl: 'https://www.amazon.es/dp/B09NYDCV3V/?tag=tolees-21'
 descuento: '40.13'
-average: '198.114444444444'
+average: '196.203'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
