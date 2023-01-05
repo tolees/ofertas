@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Primero, aplicar el champú Absolut Repair, enjuagar y secar con una toalla. A continuación, aplicar la mascarilla Absolut Repair y dejar actuar entre 1 y 15 minutos para conseguir un cabello protegido, reparado y fortalecido. Añade el aceite para un resultado duradero.
 - Champú, Mascarilla y Aceite con efecto Reparador y fortalecedor de las áreas más dañadas del cabello y con proteína de quínoa dorada para cabello muy dañado y debilitado. El cabello queda instantáneamente reconstruido y transformado desde el interior.
 - Para un cabello fortalecido y reparado al instante. Repara y fortalece las áreas más dañadas del cabello.
-- Primero, aplicar el champú Absolut Repair, enjuagar y secar con una toalla. A continuación, aplicar la mascarilla Absolut Repair y dejar actuar entre 1 y 15 minutos para conseguir un cabello protegido, reparado y fortalecido. Añade el aceite para un resultado duradero.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño y calidad: El colchón viscoelástico Lite incorpora un núcleo de espuma ecosostenible Compact System con gran densidad y alta recuperación, que nos aporta firmeza, junto a su exclusivo acolchado compuesto por 2cm de viscoelástica + fibras hipoalergénicas + espuma súper suave en la cara de invierno y 2cm de fibras hipoalergénicas + espuma súper suave en la cara de verano. Colchón, elaborado con materiales 100% transpirables
 - Firmeza media-alta: Colchón exclusivo, firme pero confortable, mantiene la columna en su posición más óptima
+- Producto de confianza: fabricado de forma sostenible en españa, con certificados oeko-tex y certipur de ausencia de sustancias nocivas; la seguridad y bienestar de los tuyos son lo primero. Altura total 20cm (+/-)
 - Higiénico y duradero: Colchón con tratamiento Aloe Vera en el tejido y totalmente protegido de ácaros, bacterias y hongos, gracias al tratamiento Sanitized que incorpora en su tejido premium de alto gramaje, evitando la aparición de reacciones alérgicas y aportando un tacto suave y sedoso; en la cara inferior, la de verano, incorpora tejido malla 3d súper transpirable para una total ventilación y óptima aireación del colchón
 - Libertad de movimientos: independencia de lechos, de esa no notamos los movimientos del otro durmiente. Lateral del colchón con banda de tejido súper transpirable, aportando mayor aireación al colchón
-- Producto de confianza: fabricado de forma sostenible en españa, con certificados oeko-tex y certipur de ausencia de sustancias nocivas; la seguridad y bienestar de los tuyos son lo primero. Altura total 20cm (+/-)
+- Diseño y calidad: El colchón viscoelástico Lite incorpora un núcleo de espuma ecosostenible Compact System con gran densidad y alta recuperación, que nos aporta firmeza, junto a su exclusivo acolchado compuesto por 2cm de viscoelástica + fibras hipoalergénicas + espuma súper suave en la cara de invierno y 2cm de fibras hipoalergénicas + espuma súper suave en la cara de verano. Colchón, elaborado con materiales 100% transpirables
 
 [🛒 Comprar!!!]({{< param buyurl >}})
