@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Bloom Camisetas  Blanco  Off White   L para Mujer'
-date: 2022-12-30 17:36:51
+date: 2023-01-04 22:13:30
 image: 'https://m.media-amazon.com/images/I/41biUwNaFAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado con algodón BCI
-- Camiseta sin mangas, con logotipo de pepe en el pecho. algodón
 - BASIC JERSEY
+- Camiseta sin mangas, con logotipo de pepe en el pecho. algodón
+- Fabricado con algodón BCI
 
 [🛒 Comprar!!!]({{< param buyurl >}})

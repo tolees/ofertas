@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Billy 2.0  Zapatillas Hombre  Brilliant White  42 EU'
-date: 2023-01-03 21:37:03
+date: 2023-01-04 21:50:34
 image: 'https://m.media-amazon.com/images/I/31Ahuu-+kdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
