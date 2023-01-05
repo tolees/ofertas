@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Jersey jaspeado, con cordones, lavable a máquina, espuma viscoelástica refrigerada por aire, Bio-Dri
-- Lavable a máquina
 - MF refrigerado por aire
+- Lavable a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})

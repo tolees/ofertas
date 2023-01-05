@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forro de poliéster transpirable
 - Planta de piel transpirable acolchada
 - Bota piso track
-- Forro de poliéster transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

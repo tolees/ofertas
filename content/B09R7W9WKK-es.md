@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Planta de piel transpirable y acolchada
 - Planta de piel
 - Forro de poliéster transpirable
+- Planta de piel transpirable y acolchada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
