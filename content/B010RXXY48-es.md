@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link RE450 - Repetidor Wi-Fi AC1750  amplificador de red  velocidad doble banda  1 x puerto Gigabit  luz señal inteligente  modo AP  fácil configuración  Color Blanco'
-date: 2023-01-05 15:26:54
+date: 2023-01-06 15:28:10
 image: 'https://m.media-amazon.com/images/I/314bP9LAf8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B010RXXY48/?tag=tolees-21'
 descuento: '35.13'
-average: '55.0043522267208'
+average: '55.0142424242426'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- WiFi DUAL BANDA - 2,4 GHz y 1300 Mbps a 5 GHz
 - PUERTO GIGABIT ETHERNET
 - TRES ANTENAS EXTERNAS
+- WiFi DUAL BANDA - 2,4 GHz y 1300 Mbps a 5 GHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
