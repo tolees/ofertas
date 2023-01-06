@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Posición de aire frío bloqueable para fijar el modelado
+- Función iones integrada
+- Filtro de seguridad extraíble
 - 3 temperaturas y 2 velocidades, protector sobrecalentamiento automático
 - Con cable extraíble
-- Posición de aire frío bloqueable para fijar el modelado
-- Filtro de seguridad extraíble
-- Función iones integrada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

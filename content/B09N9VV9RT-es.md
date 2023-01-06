@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cocodrilo bordado en el pecho:<br/> elegancia exclusiva de Lacoste.
 - Cuello alto:<br/> un símbolo del armario de Lacoste.
 - Jersey de mujer Lacoste en lana con cuello alto
-- Cocodrilo bordado en el pecho:<br/> elegancia exclusiva de Lacoste.
-- Costuras a contraste en cuello y mangas:<br/> detalles finales que harán que destaque entre la multitud.
 - Lana respetuosa con el medioambiente en punto Santa Clara:<br/> suavidad. Ligereza. Un diseño respetuoso con el medioambiente
+- Costuras a contraste en cuello y mangas:<br/> detalles finales que harán que destaque entre la multitud.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
