@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - 100% POLYURETHANE
 - Monedero para auriculares
-- Color liso
 - Half logo en relieve
+- Color liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Konami - Teenage Mutant Ninja Turtles: The Cowabunga Collection - Switch'
-date: 2023-01-04 07:33:07
+date: 2023-01-06 20:33:12
 image: 'https://m.media-amazon.com/images/I/512POHn2kWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Konami'
 buyurl: 'https://www.amazon.es/dp/B0B5F629ZF/?tag=tolees-21'
 descuento: '42.51'
-average: '27.113076923077'
+average: '26.8185714285715'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

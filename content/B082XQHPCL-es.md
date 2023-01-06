@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Materiales duraderos: diseñado con polímero de calidad para incrementar su vida útil
-- Sensor óptico truemove core: seguimiento verdadero 1 a 1, 8.500 cpi, 300 ips, aceleración 35g
 - Iluminación prism brillante: la iluminación rediseñada proporciona 3 zonas de 16.8 millones de colores nítidos
+- Sensor óptico truemove core: seguimiento verdadero 1 a 1, 8.500 cpi, 300 ips, aceleración 35g
+- Materiales duraderos: diseñado con polímero de calidad para incrementar su vida útil
+- Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
 - Estructura ergonómica confortable: diseñado para brindar confort en sesiones intensas de juego
 - Switches mecánicos para 60 millones de clics: buenas sensaciones garantizadas desde el primer clic hasta el último
-- Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
 
 [🛒 Visítala!!!]({{< param buyurl >}})

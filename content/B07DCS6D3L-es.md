@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pata Negra Roble Vino Tinto D.O Ribera del Duero - Caja de 6 Botellas x 750 ml'
-date: 2023-01-05 13:25:08
+date: 2023-01-06 20:55:23
 image: 'https://m.media-amazon.com/images/I/511HkQnXbWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pata Negra'
 buyurl: 'https://www.amazon.es/dp/B07DCS6D3L/?tag=tolees-21'
 descuento: '35.86'
-average: '27.339'
+average: '27.3027272727273'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de uva: Elaborado con una selección de uvas Tempranillo; tiene una crianza en barrica de roble americano y francés durante 6 meses
 - Aroma: Perfil aromático intenso, con notas de frutos rojos y toques tostados notables provenientes de la madera
-- Gusto: En boca es intenso, sabroso y estructurado; los taninos de la fruta y la madera bien redondos y aterciopelados lo hacen un vino persistente
-- Apariencia: Vino tinto de color rojo cereza intenso, con ribete azulado; brillante y sin evolución
-- Maridaje: Este vino combina muy bien con carnes tanto en barbacoa como asados, pasta, comida picante y embutidos
 - Consumo: Para disfrutar de sus cualidades óptimas recomendamos servirlo entre 14ºC y 16ºC
+- Maridaje: Este vino combina muy bien con carnes tanto en barbacoa como asados, pasta, comida picante y embutidos
+- Apariencia: Vino tinto de color rojo cereza intenso, con ribete azulado; brillante y sin evolución
+- Tipo de uva: Elaborado con una selección de uvas Tempranillo; tiene una crianza en barrica de roble americano y francés durante 6 meses
+- Gusto: En boca es intenso, sabroso y estructurado; los taninos de la fruta y la madera bien redondos y aterciopelados lo hacen un vino persistente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
