@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El interior dispone de varios compartimentos con un compartimento trasero con cremallera
 - Confección en 100 % poliéster
 - Alto: 9,5 cm Ancho: 13,5 cm
 - Incluye llavero
+- El interior dispone de varios compartimentos con un compartimento trasero con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ONLY Onlultimate King Reg Skinny Fit Jeans  Dark Blue Denim  M / 34 para Mujer'
-date: 2023-01-05 11:26:06
+date: 2023-01-06 12:02:33
 image: 'https://m.media-amazon.com/images/I/31GJyxNxaeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fabricante: SOLO
-- Piernas ajustadas con cintura regular.
 - Marca: SOLO
+- Piernas ajustadas con cintura regular.
 - Se cierra con cremallera y botón.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
