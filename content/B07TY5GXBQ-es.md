@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Iris Ohyama  Armario de almacenaje/Armario con 2 baldas/Estante de almacenaje//Armario Lateral  Diseño Ajustable en Altura Cada 3 2 cm  Oficina  Casa - Space Saving Shelf - UB-6020 - Marrón Claro'
-date: 2022-12-31 17:55:15
+date: 2023-01-06 17:15:35
 image: 'https://m.media-amazon.com/images/I/313hXVBwTQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Montaje: instalación sencilla y segura; Incluye instrucciones para el montaje con ilustraciones, accesorios suficientes y piezas numeradas para que lo montes fácilmente;Necesitarás unos 10-20 minutos y herramientas como: un martillo, un metro, un taladro inalámbrico, un nivel y un destornillador, y después, ¡a seguir las instrucciones del manual!
-- Dimensiones: exterior: 19,7 x 29 x 59,4 cm (largo x ancho x alto) | estantes interiores: 12 x 27 cm (largo x ancho) | Altura ajustable, distancia vertical entre los orificios 3,2 cm
+- Contenido del paquete: 1 estantería con 2 estantes 1 manual de instrucciones 1 bolsa de accesorios (sin destornillador)
 - Uso: mueble auxiliar que encaja óptimomente en los espacios pequeños de tu casa; Saca el máximo partido a las esquinas de tu casa creando espacios de almacenamiento;Se incluyen elementos adhesivos para pegar varios modelos de esta gama y obtener una estabilidad óptimo
 - Capacidad: soporta una carga total de 20 kg | 10 kg de carga por balda | peso del producto: 4,65 kg
+- Montaje: instalación sencilla y segura; Incluye instrucciones para el montaje con ilustraciones, accesorios suficientes y piezas numeradas para que lo montes fácilmente;Necesitarás unos 10-20 minutos y herramientas como: un martillo, un metro, un taladro inalámbrico, un nivel y un destornillador, y después, ¡a seguir las instrucciones del manual!
 - Material: este mueble es un producto ecológico; está hecho con madera de bosques explotados de forma sostenible
-- Contenido del paquete: 1 estantería con 2 estantes 1 manual de instrucciones 1 bolsa de accesorios (sin destornillador)
+- Dimensiones: exterior: 19,7 x 29 x 59,4 cm (largo x ancho x alto) | estantes interiores: 12 x 27 cm (largo x ancho) | Altura ajustable, distancia vertical entre los orificios 3,2 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

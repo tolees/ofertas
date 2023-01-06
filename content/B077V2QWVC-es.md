@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Halls Menta Suave - Caramelo duro - Caja con 20 Sticks de 32 g'
-date: 2022-12-26 20:33:43
+date: 2023-01-06 17:26:43
 image: 'https://m.media-amazon.com/images/I/51+nrEWn8sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HALLS'
 buyurl: 'https://www.amazon.es/dp/B077V2QWVC/?tag=tolees-21'
 descuento: '40.00'
-average: '10.2036170212765'
+average: '10.1972916666666'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Caramelos duros refrescantes sin azúcar, con sabor a menta suave
-- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
-- Conservar en lugar fresco y seco
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
 - Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
+- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
+- Caramelos duros refrescantes sin azúcar, con sabor a menta suave
+- Conservar en lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
