@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Fortarun EL K  Sneaker  Core Black/Team Royal Blue/Impact Yellow  38 EU'
-date: 2022-12-31 12:47:20
+date: 2023-01-07 14:00:37
 image: 'https://m.media-amazon.com/images/I/31ZB-L7yXuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tela superior
 - Almohadón
 - Zapatos para niños
-- Tela superior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

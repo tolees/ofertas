@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La amortiguación de la entresuela ENCAP combina espuma suave con un borde de poliuretano duradero para ofrecer apoyo durante todo el día
-- Suela de goma con 5% de goma reciclada
 - El empeine, el cuello y la lengüeta son 100% poliéster reciclado
-- Disponible en tamaños de ancho extendido
+- Suela de goma con 5% de goma reciclada
 - La espuma de la entresuela utiliza aproximadamente un 3% de contenido biológico hecho de fuentes renovables para ayudar a reducir nuestra huella de carbono
+- Disponible en tamaños de ancho extendido
+- La amortiguación de la entresuela ENCAP combina espuma suave con un borde de poliuretano duradero para ofrecer apoyo durante todo el día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
