@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vestido de mujer con volantes de corte regular con lazo en la cintura
 - Material suave y ligero, cuello en V, corte asimétrico, detalles fruncidos en los dobladillos
+- Vestido de mujer con volantes de corte regular con lazo en la cintura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
