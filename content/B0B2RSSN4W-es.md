@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El Sargento García, Bernard, Tornado…..Están todos los personajes principales
-- Métete en la piel del Zorro o de su hermana Inés -18 niveles
-- Coloridos entornos de dibujos animados
 - Mecánicas de juego variadas inspiradas en los mejores juegos de aventuras que combinan acción, combate, sigilo y puzles. ¡Y no muere nadie!
+- Métete en la piel del Zorro o de su hermana Inés -18 niveles
 - 16 habilidades que desbloquear ¡Puedes trazar tu nombre de verdad con la punta de la espada!
+- Coloridos entornos de dibujos animados
+- El Sargento García, Bernard, Tornado…..Están todos los personajes principales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

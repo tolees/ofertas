@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puntas de destornillador
-- Brocas
-- Tacos
 - 300 piezas
+- Puntas de destornillador
+- Tacos
+- Brocas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
