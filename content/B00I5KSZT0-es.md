@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- - Material de la Carcasa: Acero Inoxidable (bruñido)
-- Carcasa
-- - Forma de la Carcasa: Redondo
 - - Color de la caja: Plata
 - - Luneta de: Acero Inoxidable (bruñido)
+- - Forma de la Carcasa: Redondo
+- - Material de la Carcasa: Acero Inoxidable (bruñido)
+- Carcasa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

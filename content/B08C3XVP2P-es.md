@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Respaldado por Micron, uno de los mayores fabricantes de almacenamiento flash del mundo
-- Funciona con Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4 y Xbox One con conectores USB-C 3.2 Gen2 y USB-A
-- Rendimiento óptimo con velocidades de lectura de hasta 1050 MB/s
-- Prueba de caída hasta 2 medida; temperatura extrema, a prueba de golpes y vibraciones
 - Diseño hermoso y duradero, con un núcleo unibody de aluminio anodizado
+- Respaldado por Micron, uno de los mayores fabricantes de almacenamiento flash del mundo
+- Prueba de caída hasta 2 medida; temperatura extrema, a prueba de golpes y vibraciones
+- Rendimiento óptimo con velocidades de lectura de hasta 1050 MB/s
+- Funciona con Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4 y Xbox One con conectores USB-C 3.2 Gen2 y USB-A
 
 [🛒 Visítala!!!]({{< param buyurl >}})

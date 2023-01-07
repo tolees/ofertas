@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5 POCKET
 - Tamaño del paquete: 419 L x 4219 H x 3188 W (cm)
 - recto
+- 5 POCKET
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
