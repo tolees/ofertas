@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de su intenso sabor a fresa con recubrimiento pica
-- Caramelos de goma
 - Deliciosas piezas con forma de la icónica fresa
+- Disfruta de su intenso sabor a fresa con recubrimiento pica
 - Conservar en lugar fresco y seco
+- Caramelos de goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

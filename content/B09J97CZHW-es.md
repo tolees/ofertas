@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bajo recto
 - Corte ajustado
 - Cuello de pico acanalado
-- Bajo recto
 - Bordado de G-Star RAW en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
