@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Skin Active Gel Limpiador con Hoja de Té Verde - 200 ml'
-date: 2022-12-28 16:45:53
+date: 2023-01-07 09:49:49
 image: 'https://m.media-amazon.com/images/I/31Mkl9R+tGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Para pieles mixtas
+- Testado dermatológicamente; sin silicona ni colorantes sintéticos
+- Enriquecido con Hoja de Té Verde
 - Gel Limpiador Botánico para desmaquillar, limpiar y purificar la piel
 - Contiene 96% ingredientes de origen natural, el 4% restante ofrece la sensorialidad y buena conservación de la fórmula
-- Testado dermatológicamente; sin silicona ni colorantes sintéticos
-- Para pieles mixtas
-- Enriquecido con Hoja de Té Verde
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell 49423090 SET DE BROCAS Y TACOS 300-Pcs  KX'
-date: 2023-01-01 12:30:11
+date: 2023-01-07 11:00:39
 image: 'https://m.media-amazon.com/images/I/41Jhgj2xePL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Einhell'
 buyurl: 'https://www.amazon.es/dp/B001BAUCEM/?tag=tolees-21'
 descuento: '40.83'
-average: '6.45'
+average: '8.82333333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 300 piezas
-- Tacos
 - Puntas de destornillador
 - Brocas
+- Tacos
+- 300 piezas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
