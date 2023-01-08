@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers BOBS SQUAD GLAM LEAGUE  Zapatillas para Mujer  Mauve Engineered Knit/ Rose Gold Trim  38 EU'
-date: 2023-01-06 15:20:40
+date: 2023-01-08 15:21:23
 image: 'https://m.media-amazon.com/images/I/41lkZYKGn7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento: Tela
-- Cierre: Cordones
+- Grey
+- 31347
 
 [🛒 Comprar!!!]({{< param buyurl >}})

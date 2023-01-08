@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers BOBS SQUAD TOTAL GLAM  Zapatillas para Mujer  Black And Multi Engineered Knit  38 EU'
-date: 2023-01-07 15:20:28
+date: 2023-01-08 15:21:52
 image: 'https://m.media-amazon.com/images/I/41U5jzqdFbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B077S5NXS8/?tag=tolees-21'
 descuento: '35.33'
-average: '38.7175'
+average: '38.8738095238095'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño mini, muy poderoso: un estilo diseñado para una precisión sin esfuerzo, con una forma minimalista para un teclado ergonómico portátil que te acompaña donde sea que trabajes
-- Varios Ordenadores, un solo Flujo: complementa este delgado teclado con el MX Master 3 para Mac o el MX Anywhere 3 para Mac y teclea en varios ordenadores o portátiles con total fluidez(1)
-- Diseño para Mac: Compatible con modelos Apple MacBook Pro, MacBook Air, iMac y iPad
 - Iluminación Inteligente: este teclado inalámbrico retroiluminado tiene teclas que se iluminan cuando acercas tus manos. La luz se ajusta automáticamente conforme a las condiciones lumínicas
-- Optimización para Mac: el MX Keys Mini para Mac está optimizado para macOS, iPadOS(2) e iOS(2). Además, posee un diseño para Mac, para una mayor productividad
-- Teclado con Teclas Inteligentes para Pulsaciones de Calidad (1): las teclas reflejan la forma de las yemas de tus dedos, dictado vocal a texto (4), Silencio y Sonido del Micrófono y teclas de Emojis
-- Recargable por USB-C: el teclado MX Keys Mini para Mac con Bluetooth conserva la energía hasta 10 días con una carga completa, o hasta 5 meses con la retroiluminación desactivada(3)
+- Diseño para Mac: Compatible con modelos Apple MacBook Pro, MacBook Air, iMac y iPad
 - Conectividad Multi Mac: conecta el teclado compacto MX Keys Mini para Mac con varios ordenadores Mac e iPads mediante Bluetooth Low Energy y cambia entre ellos fácilmente
+- Recargable por USB-C: el teclado MX Keys Mini para Mac con Bluetooth conserva la energía hasta 10 días con una carga completa, o hasta 5 meses con la retroiluminación desactivada(3)
+- Teclado con Teclas Inteligentes para Pulsaciones de Calidad (1): las teclas reflejan la forma de las yemas de tus dedos, dictado vocal a texto (4), Silencio y Sonido del Micrófono y teclas de Emojis
+- Varios Ordenadores, un solo Flujo: complementa este delgado teclado con el MX Master 3 para Mac o el MX Anywhere 3 para Mac y teclea en varios ordenadores o portátiles con total fluidez(1)
+- Optimización para Mac: el MX Keys Mini para Mac está optimizado para macOS, iPadOS(2) e iOS(2). Además, posee un diseño para Mac, para una mayor productividad
+- Tamaño mini, muy poderoso: un estilo diseñado para una precisión sin esfuerzo, con una forma minimalista para un teclado ergonómico portátil que te acompaña donde sea que trabajes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
