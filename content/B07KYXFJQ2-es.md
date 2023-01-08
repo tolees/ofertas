@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La parte superior se ha diseñado para crear unas reservas de agua de donde tu gato puede beber
 - Cuenta con una nueva luz nocturna LED
-- Luz nocturna para ayudar a tu gato a localizar la fuente durante la noche
+- La parte superior se ha diseñado para crear unas reservas de agua de donde tu gato puede beber
 - Marca del producto: Catit
+- Luz nocturna para ayudar a tu gato a localizar la fuente durante la noche
 
 [🛒 Visítala!!!]({{< param buyurl >}})
