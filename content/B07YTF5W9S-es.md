@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Big Bang Theory - Serie Completa Temporadas 1-12 [DVD]'
-date: 2023-01-06 21:45:24
+date: 2023-01-07 22:29:58
 image: 'https://m.media-amazon.com/images/I/41F4xWfwd1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YTF5W9S/?tag=tolees-21'
 descuento: '50.02'
-average: '60.978'
+average: '59.9733333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
