@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital - WD Sin discos My Cloud Pro PR4100 Pro Series 4-Bay Almacenamiento en red - NAS - WDBNFA0000NBK-EESN'
-date: 2023-01-06 15:38:29
+date: 2023-01-08 08:11:23
 image: 'https://m.media-amazon.com/images/I/51N3Di2pGBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Configuración fácil y sencilla con gestión avanzada del dispositivo mediante My Cloud OS 7
 - Procesador Intel Pentium N3710 de cuatro núcleos a 1,6 GHz con 4 GB de memoria DDR3L
 - Transcodificación de vídeo integrada para transmitir en alta definición mediante Plex
-- Configuración fácil y sencilla con gestión avanzada del dispositivo mediante My Cloud OS 7
 - Almacenamiento centralizado para organizar los contenidos multimedia y mejorar el flujo de trabajo
 - Completa seguridad gracias a la protección con contraseña y el cifrado de volúmenes con AES de 256 bits
 
