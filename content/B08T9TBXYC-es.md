@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Faldón
+- suelto
 - Vestido largo
 - Banda
-- suelto
-- Faldón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
