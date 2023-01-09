@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El asa grande y resistente facilita el transporte y el uso de la regadera, y la amplia abertura permite verter agua sin problemas.
-- Dimensiones: 35,2 (largo) x 10,2 (ancho) x 22,4 (alto) cm.
 - La regadera de la serie Zebra es la herramienta perfecta para el riego de jardines.
-- Capacidad: 2 litros.
+- El asa grande y resistente facilita el transporte y el uso de la regadera, y la amplia abertura permite verter agua sin problemas.
 - La regadera tiene un colador extraíble que facilita la dispensación del chorro de agua.
+- Capacidad: 2 litros.
+- Dimensiones: 35,2 (largo) x 10,2 (ancho) x 22,4 (alto) cm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

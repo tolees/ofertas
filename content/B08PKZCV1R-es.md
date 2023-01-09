@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas W 3S FT C PT Pants  Womens  Black/White  Medium'
-date: 2023-01-07 11:38:27
+date: 2023-01-09 19:48:22
 image: 'https://m.media-amazon.com/images/I/31EvLCEyXBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08PKZCV1R-es adidas W 3S FT C PT Pants Womens Black/White Medium'
 sku: 'B08PKZCV1R-es'
 tags: [ 'Moda','Moda Mujer','Pantalones de deporte para mujer','Pantalones deportivos para mujer','Ropa de mujer','Ropa deportiva para mujer','adidas','🇪🇸', ]
-actualPrice: 22.45 EUR
+actualPrice: 29.95 EUR
 currency: EUR
-price: 22.45
+price: 29.95
 comparePrice: 50.0 EUR
 prodname: 'adidas W 3S FT C PT Pants  Womens  Black/White  Medium'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08PKZCV1R/?tag=tolees-21'
-descuento: '55.10'
-average: '22.45'
+descuento: '40.10'
+average: '26.2'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
