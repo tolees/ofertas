@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Bolsa Ceñida Unisex League Bench Bag  Color Verde Azulado  Talla única'
-date: 2023-01-07 22:43:28
+date: 2023-01-09 10:26:06
 image: 'https://m.media-amazon.com/images/I/41VXevyKGPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B0B1VRGLWV/?tag=tolees-21'
 descuento: '40.00'
-average: '11.7'
+average: '11.4'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dimensiones: 44,5 x 34 cm
 - not_water_resistant
-- Dimensiones: 44,5 x 34 cm
 - Capacidad: 8 litros
-- 100% poliéster
 - Cierre de correa de hombro con cordón
-- Dimensiones: 44,5 x 34 cm
 - Capacidad: 8 litros
 - 100% poliéster
+- 100% poliéster
+- Dimensiones: 44,5 x 34 cm
 - Cierre de correa de hombro con cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

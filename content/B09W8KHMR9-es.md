@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 【Memory and Timer Function】Puede configurar los horarios, el temporizador y el reloj de alarma para encender y apagar automáticamente, puede reproducir música mientras la luz está encendida, una buena manera de despertarse
+- 【Dimmable】Puedes cambiar la luz blanca cálida/fría/+ RGB como quieras. El brillo y la temperatura del color, así como el volumen de la música también se pueden ajustar a voluntad
 - 【IP44 Waterproof】La lámpara de techo led es IP44 impermeable, adecuado para la cocina, sala de estar, oficina, dormitorio, también se puede utilizar para el baño
 - 【High Quality Speaker】Todo lo que tiene que hacer es encender el bluetooth de su smartphone y emparejarlo con la luz, reproducir sus canciones favoritas a través de su teléfono
 - 【3 Opciones de Control】Puede controlar libremente su luz de techo musical a través de la APP del teléfono móvil, el mando a distancia o el interruptor de pared, la luz de techo led satisface todas sus necesidades de iluminación
-- 【Dimmable】Puedes cambiar la luz blanca cálida/fría/+ RGB como quieras. El brillo y la temperatura del color, así como el volumen de la música también se pueden ajustar a voluntad
-- 【Memory and Timer Function】Puede configurar los horarios, el temporizador y el reloj de alarma para encender y apagar automáticamente, puede reproducir música mientras la luz está encendida, una buena manera de despertarse
 
 [🛒 Comprar!!!]({{< param buyurl >}})

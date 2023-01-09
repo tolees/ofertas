@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El reloj del fin del mundo está en marcha; conviértete en un piloto de Sentinel, personaliza tu mecha y lucha contra oleadas de kaiju en combate táctico en vista cenital
-- Una representación bella en el característico estilo visual pintado a mano de Vanillaware
-- Descubre una historia profunda a través de visiones del pasado y el futuro
 - Mejora tu arsenal con 26 nuevas habilidades que no estaban en el lanzamiento inicial
+- Descubre una historia profunda a través de visiones del pasado y el futuro
+- Una representación bella en el característico estilo visual pintado a mano de Vanillaware
+- El reloj del fin del mundo está en marcha; conviértete en un piloto de Sentinel, personaliza tu mecha y lucha contra oleadas de kaiju en combate táctico en vista cenital
 
 [🛒 Comprar!!!]({{< param buyurl >}})
