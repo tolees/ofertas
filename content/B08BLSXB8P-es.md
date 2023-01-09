@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Mini Crossbody Solid  Red Batwing   Hombre  Talla Única  Negro  Regular Black   Talla única'
-date: 2023-01-06 08:12:20
+date: 2023-01-09 17:43:56
 image: 'https://m.media-amazon.com/images/I/41W2NfSZ9KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLSXB8P/?tag=tolees-21'
 descuento: '35.05'
-average: '13.6186274509806'
+average: '13.6065384615387'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
