@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cintura elástica con cordón
-- Corte cónico
-- Ofrece comodidad y libertad de movimiento
 - Tecnología Dri-Fit
+- Ofrece comodidad y libertad de movimiento
+- Corte cónico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

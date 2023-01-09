@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ELEMENTOS DE ROL: Personaliza tu personaje con elementos cibernéticos que se adaptan a tu estilo de juego; asigna nuevos puntos de habilidad a medida que subes de nivel y prueba varias aumentaciones para derrotar a tus enemigos de nuevas formas creativas
 - SHOOTER EXPLOSIVO: Apunta alto o bajo, cambia de arma y equipa dispositivos letales, cúbrete y usa los entornos destructibles a tu favor y sigue ajustando tu táctica mientras te enfrentas a nuevos enemigos
 - UN MUNDO VIBRANTE DE CYBERPUNK: Conoce nuevos aliados y enemigos y encuentra botines mientras exploras el rebosante mundo de The Ascent y su amplia gama de distritos, desde los barrios marginales profundos hasta las esferas más lujosas
+- ELEMENTOS DE ROL: Personaliza tu personaje con elementos cibernéticos que se adaptan a tu estilo de juego; asigna nuevos puntos de habilidad a medida que subes de nivel y prueba varias aumentaciones para derrotar a tus enemigos de nuevas formas creativas
 - SOLO O CO-OP: Juega todo el juego solo o con hasta tres amigos en modo cooperativo local o en línea
 
 [🛒 Comprar!!!]({{< param buyurl >}})
