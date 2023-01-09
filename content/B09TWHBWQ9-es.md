@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEGA - 13 Sentinels: Aegis Rim'
-date: 2022-12-29 09:16:17
+date: 2023-01-09 09:53:43
 image: 'https://m.media-amazon.com/images/I/61EnZANqOJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SEGA'
 buyurl: 'https://www.amazon.es/dp/B09TWHBWQ9/?tag=tolees-21'
 descuento: '51.79'
-average: '43.5183333333334'
+average: '42.6442857142858'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descubre una historia profunda a través de visiones del pasado y el futuro
-- Una representación bella en el característico estilo visual pintado a mano de Vanillaware
 - El reloj del fin del mundo está en marcha; conviértete en un piloto de Sentinel, personaliza tu mecha y lucha contra oleadas de kaiju en combate táctico en vista cenital
+- Una representación bella en el característico estilo visual pintado a mano de Vanillaware
+- Descubre una historia profunda a través de visiones del pasado y el futuro
 - Mejora tu arsenal con 26 nuevas habilidades que no estaban en el lanzamiento inicial
 
 [🛒 Comprar!!!]({{< param buyurl >}})

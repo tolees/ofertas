@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Mujer Elsa Sudaderas Blanco   M'
-date: 2023-01-06 21:59:05
+date: 2023-01-09 08:32:12
 image: 'https://m.media-amazon.com/images/I/31DfBUd8pRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Carbon Bruhed Sweat
 - Fabricado con algodón BCI
 - Sudadera con cuello de pico y bordado en la parte delantera. Bci Algodón.
-- Carbon Bruhed Sweat
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal - Ex Machina  Ed. 2021  [Blu-ray]'
-date: 2023-01-06 21:45:09
+date: 2023-01-09 09:42:17
 image: 'https://m.media-amazon.com/images/I/51EQH53WOWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Universal'
 buyurl: 'https://www.amazon.es/dp/B09GWLWJD6/?tag=tolees-21'
 descuento: '45.86'
-average: '10.8811111111112'
+average: '10.3880000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

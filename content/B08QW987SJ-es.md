@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE M NK Dry ACD21 Pant KPZ Pants  Mens  Obsidian/White/White/White  L'
-date: 2023-01-06 17:50:15
+date: 2023-01-09 08:08:07
 image: 'https://m.media-amazon.com/images/I/310N-bl6IHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología Dri-Fit
-- Material resistente y duradero
-- Corte cónico
 - Cintura elástica con cordón
+- Material resistente y duradero
+- Tecnología Dri-Fit
+- Corte cónico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
