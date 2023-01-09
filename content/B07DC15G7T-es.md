@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA FLYER RUNNER  Zapatillas Deportivos  Unisex adulto  Black-Black-White  42 EU'
-date: 2022-12-30 11:41:38
+date: 2023-01-09 13:37:04
 image: 'https://m.media-amazon.com/images/I/31tlUttXCZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B07DC15G7T/?tag=tolees-21'
 descuento: '40.04'
-average: '32.031'
+average: '31.9319047619048'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

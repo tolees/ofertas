@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Talla: medida de la cintura o la cadera
 - Se mide desde la punta de la hebilla hasta el agujero del centro
+- Talla: medida de la cintura o la cadera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

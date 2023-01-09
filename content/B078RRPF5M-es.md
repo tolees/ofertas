@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment- Chez Geek: Piso compartido - Español  Color  EESJCG01 '
-date: 2023-01-08 10:40:22
+date: 2023-01-09 12:10:36
 image: 'https://m.media-amazon.com/images/I/61PnGFO3huL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B078RRPF5M-es Edge Entertainment- Chez Geek: Piso compartido - Español...'
 sku: 'B078RRPF5M-es'
 tags: [ 'Juego de mesa','Juegos de cartas','Juegos de cartas con baraja específica','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','edge entertainment','🇪🇸', ]
-actualPrice: 10.93 EUR
+actualPrice: 10.86 EUR
 currency: EUR
-price: 10.93
+price: 10.86
 comparePrice: 29.95 EUR
 prodname: 'Edge Entertainment- Chez Geek: Piso compartido - Español  Color  EESJCG01 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B078RRPF5M/?tag=tolees-21'
-descuento: '63.51'
-average: '14.6784000000001'
+descuento: '63.74'
+average: '14.5315384615386'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo: juego de cartas
+- De 2 a 5 jugadores
 - Duración aproximada del juego: 60 minutos
 - No recomendado para menores de 18 años
-- De 2 a 5 jugadores
+- Tipo: juego de cartas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido vaquero Power Stretch
-- Pernera recta
-- Bolsillo trasero con botón
 - Corte regular
+- Bolsillo trasero con botón
+- Pernera recta
+- Tejido vaquero Power Stretch
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
