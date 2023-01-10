@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Questar  Zapatillas de Running Hombre  Gricin Versol Negbás  44 2/3 EU'
-date: 2023-01-08 18:07:53
+date: 2023-01-10 13:17:35
 image: 'https://m.media-amazon.com/images/I/41nykL+oXaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B09N3LSJ3V/?tag=tolees-21'
 descuento: '47.12'
-average: '47.95'
+average: '47.2'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma
-- Zapatos deportivos
 - 3 tiras en la parte superior
+- Zapatos deportivos
+- Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
