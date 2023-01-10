@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ultima Nature Comida Húmeda para Gatos con Atún y Pescado del Océano  13 Multipacks de 4 x 85 g  Total: 4.4 kg'
-date: 2023-01-08 15:53:29
+date: 2023-01-10 08:11:07
 image: 'https://m.media-amazon.com/images/I/41iAySH4C8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07W5N5S8P-es Ultima Nature Comida Húmeda para Gatos con Atún y Pescado...'
 sku: 'B07W5N5S8P-es'
 tags: [ 'Artículos para gatos','Comida húmeda para gatos','Comida para gatos','Productos para mascotas','ultima nature','🇪🇸', ]
-actualPrice: 23.56 EUR
+actualPrice: 22.38 EUR
 currency: EUR
-price: 23.56
+price: 22.38
 comparePrice: 41.99 EUR
 prodname: 'Ultima Nature Comida Húmeda para Gatos con Atún y Pescado del Océano  13 Multipacks de 4 x 85 g  Total: 4.4 kg'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Ultima Nature'
 buyurl: 'https://www.amazon.es/dp/B07W5N5S8P/?tag=tolees-21'
-descuento: '43.89'
-average: '25.77'
+descuento: '46.70'
+average: '25.4618181818182'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con proteínas de alta calidad, verduras y frutas
 - 13 Multipacks compuestos por 4 bolsitas de 85 g
-- Alimento húmedo completo para gatos adultos
+- Con proteínas de alta calidad, verduras y frutas
 - Cada multipack contiene 2 bolsitas de 85 g con bocaditos de atún y 2 bolsitas de 85 g con bocaditos de pescado del océano
 - Sin colorantes, sin conservantes y sin aromas artificiales
+- Alimento húmedo completo para gatos adultos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

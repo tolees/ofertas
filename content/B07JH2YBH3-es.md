@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Carina L  Zapatillas Bajas Mujer  Blanco  Puma White/Puma White/Puma Silver   38 EU'
-date: 2023-01-09 09:25:16
+date: 2023-01-10 09:34:35
 image: 'https://m.media-amazon.com/images/I/21AKCCKWCmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B07JH2YBH3/?tag=tolees-21'
 descuento: '50.04'
-average: '37.938870967742'
+average: '37.8120634920636'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
