@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Flex Appeal 4.0 Brilliant View  Zapatillas Mujer  Slate/Pink  38 EU'
-date: 2023-01-09 03:27:51
+date: 2023-01-10 03:31:38
 image: 'https://m.media-amazon.com/images/I/41pFpu4q92L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B08FBLLMR8/?tag=tolees-21'
 descuento: '38.17'
-average: '52.8230281690142'
+average: '52.7776923076924'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
