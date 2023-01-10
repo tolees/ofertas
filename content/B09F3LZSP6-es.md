@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crosscall Core-M5 Smartphone Libre 4G+  Pantalla: 4.95 Pulgadas - 32 GB - Dual Nano-SIM - Android 11  Negro 1001011101114'
-date: 2023-01-08 22:31:31
+date: 2023-01-09 22:55:51
 image: 'https://m.media-amazon.com/images/I/31HeVFN6iUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería de larga duración: batería de 4000 mAh
-- Impermeable y resistente
-- Android 11
 - Estándar IP 68
 - Cámara frontal: 2 MP / Cámara trasera: 13 MP
+- Impermeable y resistente
+- Batería de larga duración: batería de 4000 mAh
+- Android 11
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

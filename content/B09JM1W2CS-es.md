@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Outline Scarf TH-Bufanda Micromodal con Contorno  Acc Desert Sky  Talla única para Mujer'
-date: 2023-01-07 22:34:36
+date: 2023-01-09 22:52:27
 image: 'https://m.media-amazon.com/images/I/41lNR5SlLpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
