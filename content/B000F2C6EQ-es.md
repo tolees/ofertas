@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Máx. Velocidad de escritura: 16x
 - Tipo: DVD-R
+- Máx. Velocidad de escritura: 16x
 - Cantidad de medios incluidos: 10
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

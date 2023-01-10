@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Billetero con 7 compartimentos para tarjetas de crédito o documentos de identidad
 - Compartimento central con cremallera para monedas y billetes
 - Dimensiones: 10 x 15.5 x 2.5 cm
-- Billetero con 7 compartimentos para tarjetas de crédito o documentos de identidad
 - Asa lateral extraible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

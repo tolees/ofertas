@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston DataTraveler Exodia DTX/128GB Flash Drive USB 3.2 Gen 1 - with Protective Cap and Keyring in Multiple Colours'
-date: 2022-12-30 17:16:04
+date: 2023-01-10 10:08:19
 image: 'https://m.media-amazon.com/images/I/31YMJX67p3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B08JD4TBM3/?tag=tolees-21'
 descuento: '42.13'
-average: '11.9462499999999'
+average: '11.8899999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tela transpirable
+- Ajuste apretado
 - Tela impermeable
 - Material resistente y duradero
-- Ajuste apretado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

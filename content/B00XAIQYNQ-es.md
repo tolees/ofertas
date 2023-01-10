@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gran durabilidad.
-- Aroma cítrico muy agradable y refrescante.
-- Precioso estuche, ideal para regalo.
 - El set contiene: Crema Hidratante Corporal 150 ml, Eau de Toilette 150 ml, Gel Exfoliante 150 ml.
+- Gran durabilidad.
 - Fragancia fresca, limpia y juvenil.
+- Precioso estuche, ideal para regalo.
+- Aroma cítrico muy agradable y refrescante.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

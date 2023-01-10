@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cordones elásticos
-- Parte superior de piel, nobuck y/o ante [dependiendo del color]
 - Cuello y lengüeta acolchados con espuma para mayor comodidad y apoyo
 - La inconfundible superficie de rodadura de las pastillas de DC
 - Forro de malla
+- Cordones elásticos
+- Parte superior de piel, nobuck y/o ante [dependiendo del color]
 
 [🛒 Visítala!!!]({{< param buyurl >}})

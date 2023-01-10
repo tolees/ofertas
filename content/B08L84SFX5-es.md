@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas W Lin Leg Leggings  Womens  Black/White  Medium'
-date: 2023-01-06 10:41:18
+date: 2023-01-10 10:29:14
 image: 'https://m.media-amazon.com/images/I/31CbCHjoT7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08L84SFX5/?tag=tolees-21'
 descuento: '50.17'
-average: '17.9916666666667'
+average: '17.23125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Corte ajustado
 - Ofrece libertad de movimiento
-- Tela transpirable
 - Cintura elástica de talle alto
+- Tela transpirable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

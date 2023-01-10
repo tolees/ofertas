@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Nike Legend Essential 2  Sneaker Hombre  Old Royal/Black-Racer Blue-DK Smoke Grey  41 EU'
-date: 2023-01-10 10:06:28
+title: 'Nike Legend Essential 2  Sneaker Hombre  Old Royal/Black-Racer Blue-DK Smoke Grey  40.5 EU'
+date: 2023-01-10 10:11:39
 image: 'https://m.media-amazon.com/images/I/41b9SEdPTcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0B6FTS72J-es Nike Legend Essential 2 Sneaker Hombre Old Royal/Black-...'
-sku: 'B0B6FTS72J-es'
+slug: 'B0B6FZRXM7-es Nike Legend Essential 2 Sneaker Hombre Old Royal/Black-...'
+sku: 'B0B6FZRXM7-es'
 tags: [ 'Moda','Moda Hombre','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos para hombre','nike','🇪🇸', ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95
 comparePrice: 59.99 EUR
-prodname: 'Nike Legend Essential 2  Sneaker Hombre  Old Royal/Black-Racer Blue-DK Smoke Grey  41 EU'
+prodname: 'Nike Legend Essential 2  Sneaker Hombre  Old Royal/Black-Racer Blue-DK Smoke Grey  40.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'NIKE'
-buyurl: 'https://www.amazon.es/dp/B0B6FTS72J/?tag=tolees-21'
+buyurl: 'https://www.amazon.es/dp/B0B6FZRXM7/?tag=tolees-21'
 descuento: '40.07'
 average: '35.95'
 ---
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Zapato deportivo Nike
 - Diseño envuelto
 - Flexibilidad y estabilidad
-- Zapato deportivo Nike
 
 [🛒 Visítala!!!]({{< param buyurl >}})
