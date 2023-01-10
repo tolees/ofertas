@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only ONLTAHOE Hood Jacket OTW Noos Chaqueta  Maritime Blue  S De Las Mujeres'
-date: 2022-12-29 21:20:50
+date: 2023-01-10 20:16:54
 image: 'https://m.media-amazon.com/images/I/41NSv6ds6qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cremallera frontal
 - Chaqueta ligera de mujer para entretiempo.
 - Capucha con cordón
-- Cremallera frontal
 - Bolsillos delanteros inclinados
 - Corte estándar
 
