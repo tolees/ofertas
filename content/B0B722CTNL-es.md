@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Sonicare DiamondClean Serie 9000 - Pack doble de cepillos de dientes eléctricos sónicos  dientes y encías más limpias  conectados con App  en negro y oro rosa  modelo HX9914/61 '
-date: 2023-01-01 19:01:36
+date: 2023-01-10 07:01:49
 image: 'https://m.media-amazon.com/images/I/412PqP4h1TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B0B722CTNL/?tag=tolees-21'
 descuento: '40.00'
-average: '202.49'
+average: '203.99'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
