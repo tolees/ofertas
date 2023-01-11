@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Continental 80  Zapatillas Hombre  White Scarlet Collegiate Navy Scarlet  44 EU'
-date: 2023-01-10 09:30:55
+date: 2023-01-11 09:36:28
 image: 'https://m.media-amazon.com/images/I/31K7AKKQr7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07K1NGYRG/?tag=tolees-21'
 descuento: '50.10'
-average: '50.7476'
+average: '50.7142307692308'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

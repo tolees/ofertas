@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Graceful Get Connected  Zapatillas Mujer  Gris  Gray Mesh/Coral Trim   38 EU'
-date: 2023-01-10 09:51:07
+date: 2023-01-11 09:55:27
 image: 'https://m.media-amazon.com/images/I/31+3tBBVjFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela flexible.
-- Peso ligero.
+- Lace up athletic sporty training sneaker - Heel panel overlay with pull on top loop
+- Open weave mesh fabric panels at toe and sides for cooling effect - Padded collar and tongue
+- Engineered mesh fabric with interwoven zigzag stripe designs - Lace up front
+- Skech Knit Mesh one piece fabric upper - Side S logo
+- Synthetic
 
 [🛒 Aquí!!!]({{< param buyurl >}})
