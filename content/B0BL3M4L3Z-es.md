@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JUMPER Ordenador Portátil de 14" Full HD  12GB RAM  256GB SSD  UHD Graphics  Intel Celeron  Windows 11 Home  Bluetooth 4.0  1920 * 1080P  256GB SSD Escalable  Teclado QWERTY Español'
-date: 2023-01-10 08:59:20
+date: 2023-01-11 18:39:35
 image: 'https://m.media-amazon.com/images/I/41xYGeF-DzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'JUMPER'
 buyurl: 'https://www.amazon.es/dp/B0BL3M4L3Z/?tag=tolees-21'
 descuento: '70.00'
-average: '584.98'
+average: '479.983333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
