@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 【BOMBILLAS DE PLÁSTICO PARA ASEGURAR LA SEGURIDAD】: filamento de goma flexible de alta resistencia de 48 pies, con 15 zócalos colgantes, cada zócalo tiene un pequeño anillo colgante arriba, lo que facilita la instalación. Las 16 bombillas de plástico LED de bajo consumo (1 vatio cada una, 1 bombilla de repuesto) son más seguras y duraderas en comparación con otras y no se romperán fácilmente si el viento las deja caer o las vuela.
-- 【GARANTÍA DE GARANTÍA】: Garantía de 1 año y, si tiene alguna pregunta, queremos asegurarnos de que esté completamente satisfecho con nuestros productos y servicios, le responderemos lo antes posible de inmediato.
-- 【LUCES CONEXIONABLES PARA CUERDA EXTERIOR】: La potencia máxima es de 600w. Nivel de impermeabilidad IP65, las capas de aislamiento protegen la hebra del calor del verano y del frío del invierno, así como de climas lluviosos, ventosos o húmedos.
 - 【ILUMINACIÓN DE AHORRO DE ENERGÍA】: las luces de cadena LED tienen una vida útil más larga que las luces de cadena incandescentes. Solo 1 vatio por bombilla, 15 vatios en total por luces de cadena. Nuestras luces LED están aprobadas para iluminación residencial y comercial y no se calientan incluso después de estar encendidas durante horas.
+- 【GARANTÍA DE GARANTÍA】: Garantía de 1 año y, si tiene alguna pregunta, queremos asegurarnos de que esté completamente satisfecho con nuestros productos y servicios, le responderemos lo antes posible de inmediato.
 - 【IDEAL PARA DECORACIÓN AL AIRE LIBRE E INTERIOR Bright: lo suficientemente brillante y resistente para su cena familiar al aire libre y bajo techo, barbacoa en la noche de verano, boda, fiesta de Halloween y Navidad. Estas luces de cadena de bombillas Edison vintage con filamentos expuestos emiten un brillo cálido y nostálgico para que pueda disfrutar de su propio retiro en casa después de un día ajetreado.
+- 【LUCES CONEXIONABLES PARA CUERDA EXTERIOR】: La potencia máxima es de 600w. Nivel de impermeabilidad IP65, las capas de aislamiento protegen la hebra del calor del verano y del frío del invierno, así como de climas lluviosos, ventosos o húmedos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

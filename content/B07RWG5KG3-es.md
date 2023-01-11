@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Targeted cushioning
-- Pack of three pairs
 - Soft fabric
+- Pack of three pairs
+- Targeted cushioning
 
 [🛒 Aquí!!!]({{< param buyurl >}})

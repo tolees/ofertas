@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintura elástica con cordón
 - Corte regular y pierna cónica
 - Logotipo de Lionel Messi
+- Cintura elástica con cordón
 - Estructura antihumidez
 
 [🛒 Aquí!!!]({{< param buyurl >}})

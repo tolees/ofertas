@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tecnología Rapidaptor para un cambio de puntas ultrarrápido
 - Puntas Impaktor de 50 mm para trabajos especialmente exigentes
-- Caja de material textil compacta, de gran robustez, que protege las superficies
-- Llaves acodadas con perfil Hex-Plus (evita el redondeo de tornillos de hexagonal interior)
 - Puntas BiTorsion de 25 mm de largo para una mayor longevidad
+- Llaves acodadas con perfil Hex-Plus (evita el redondeo de tornillos de hexagonal interior)
+- Caja de material textil compacta, de gran robustez, que protege las superficies
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

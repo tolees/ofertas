@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRESERVATIVOS EXTRA LUBRICADOS: Extra lubricación de silicona, para una experiencia más suave
-- PERÍMETRO ESTÁNDAR: Anchura nominal de 56 mm, talla adecuada para la mayoría de los hombres gracias a su diseño elástico
 - SENSITIVO SUAVE: Los preservativos Sensitivos de Durex son transparentes y de látex de caucho natural
 - EASY-ON: Preservativos de látex suaves con forma anatómica Easy-On con depósito
+- PRESERVATIVOS EXTRA LUBRICADOS: Extra lubricación de silicona, para una experiencia más suave
+- PERÍMETRO ESTÁNDAR: Anchura nominal de 56 mm, talla adecuada para la mayoría de los hombres gracias a su diseño elástico
 - MAYOR SENSIBILIDAD: Preservativos más finos para una sensación más suave en vuestras relaciones sexuales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

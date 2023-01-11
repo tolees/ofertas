@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - Mortal Kombat 11 - Standard Edition'
-date: 2023-01-09 20:33:19
+date: 2023-01-11 11:16:13
 image: 'https://m.media-amazon.com/images/I/515ZADXzTsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07LFWQ7MS/?tag=tolees-21'
 descuento: '49.92'
-average: '19.4908421052631'
+average: '19.3918749999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

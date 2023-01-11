@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 0
+- Color liso
 - Bandera bordada en el pecho
 - Polo de manga corta de algodón
-- Color liso
+- 0
 
 [🛒 Comprar!!!]({{< param buyurl >}})
