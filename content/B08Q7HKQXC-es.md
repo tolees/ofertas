@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Camiseta modelo 3-STRIPES TEE  color Blanco  talla M'
-date: 2023-01-10 18:23:03
+date: 2023-01-11 20:32:34
 image: 'https://m.media-amazon.com/images/I/31z464PQNjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08Q7HKQXC/?tag=tolees-21'
 descuento: '41.67'
-average: '21.8'
+average: '21.1625'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tiene detalles distintivos de la marca
 - Producto con ajuste regular
 - Tela suave
-- Tiene detalles distintivos de la marca
 - El diseño otorga libertad a los movimientos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Karactermania KARACTERMANIA  KARACTERMANIA Unisex-Adult  Rojo  16 cm'
-date: 2023-01-10 10:02:43
+date: 2023-01-11 21:02:26
 image: 'https://m.media-amazon.com/images/I/51zXHTt+rAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Billetero con 7 compartimentos para tarjetas de crédito o documentos de identidad
 - Compartimento central con cremallera para monedas y billetes
-- Dimensiones: 10 x 15.5 x 2.5 cm
 - Asa lateral extraible
+- Dimensiones: 10 x 15.5 x 2.5 cm
+- Billetero con 7 compartimentos para tarjetas de crédito o documentos de identidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
