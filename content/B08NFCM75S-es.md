@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Turner 2.0  Zapatillas Hombre  Brown  43 EU'
-date: 2023-01-09 16:59:32
+date: 2023-01-11 14:01:19
 image: 'https://m.media-amazon.com/images/I/31aQs8thqkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08NFCM75S/?tag=tolees-21'
 descuento: '47.47'
-average: '29.63'
+average: '29.445'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

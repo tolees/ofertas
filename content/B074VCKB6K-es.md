@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FOSSIL Cadena fósil para mujeres de acero inoxidable CZ JF02779998'
-date: 2022-12-28 15:13:53
+date: 2023-01-11 13:30:08
 image: 'https://m.media-amazon.com/images/I/31n2c3L6giL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fossil'
 buyurl: 'https://www.amazon.es/dp/B074VCKB6K/?tag=tolees-21'
 descuento: '37.31'
-average: '37.061111111111'
+average: '37.0539999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: cierre de mosquetón
-- Color: tritono, dorado, plateado, rosa dorado
-- Material: acero inoxidable y circonita
 - Fossil
+- Cierre: cierre de mosquetón
+- Material: acero inoxidable y circonita
+- Color: tritono, dorado, plateado, rosa dorado
 - Medidas: Largo: 18 cm + 19 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fundas para proteger tu agenda.
-- Material: rPET
 - Con cierre en clip.
-- Producto original Mr. Wonderful
 - Mensaje: Dream big and work hard
+- Producto original Mr. Wonderful
+- Material: rPET
+- Fundas para proteger tu agenda.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

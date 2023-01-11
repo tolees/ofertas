@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Navy Blue Detail 3  XXL para Hombre'
-date: 2022-12-31 14:01:10
+date: 2023-01-11 14:03:54
 image: 'https://m.media-amazon.com/images/I/319Dmz60zML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07V9NSPL8/?tag=tolees-21'
 descuento: '39.73'
-average: '19.1571428571429'
+average: '19.39875'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cotton mixture
 - Sweater with logo
+- Cotton mixture
 
 [🛒 Aquí!!!]({{< param buyurl >}})
