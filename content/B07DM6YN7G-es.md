@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Capcom - Resident Evil 2 - Edición Estándar'
-date: 2023-01-09 13:16:01
+date: 2023-01-11 07:12:09
 image: 'https://m.media-amazon.com/images/I/51qunDUuI-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Capcom'
 buyurl: 'https://www.amazon.es/dp/B07DM6YN7G/?tag=tolees-21'
 descuento: '76.60'
-average: '21.1302898550725'
+average: '21.029'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ponte en la piel de ambos héroes
-- Apartado visual terroríficamente realista
 - Una escalofriante reinvención de un clásico del horror
-- Enfréntate a hordas grotescas
 - Contempla a tus personajes favoritos bajo una perspectiva nueva
+- Apartado visual terroríficamente realista
+- Ponte en la piel de ambos héroes
+- Enfréntate a hordas grotescas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
