@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers STATUS 2.0 LORANO  Mocasines para Hombre  Taupe Canvas  43 EU'
-date: 2023-01-09 22:39:06
+date: 2023-01-10 22:52:12
 image: 'https://m.media-amazon.com/images/I/41rh+AdZ58L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07GPQ2QYD/?tag=tolees-21'
 descuento: '35.49'
-average: '51.9694871794872'
+average: '51.71775'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
