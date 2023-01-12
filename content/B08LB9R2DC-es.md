@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vivez lhistoire incroyable dun jeune homme frappé par la flèche de cupidon de lange patako et devenu lobjet de toutes les attentions de la part du sexe opposé !
 - Le problème à résoudre est de taille car vous naurez quune journée pour trouver véritablement votre promise véritable, ensuite le pouvoir obtenu disparaîtra !
+- Vivez lhistoire incroyable dun jeune homme frappé par la flèche de cupidon de lange patako et devenu lobjet de toutes les attentions de la part du sexe opposé !
 - Gal*gun, le célèbre jeu de shoot coquin arrive sur nintendo switch dans une version remastérisée du gal gun original et pour la première fois en occident
 
 [🛒 Visítala!!!]({{< param buyurl >}})
