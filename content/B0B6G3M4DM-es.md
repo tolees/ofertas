@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Downshifter 12  Sneaker Hombre  White/Pure Platinum-White  40 EU'
-date: 2023-01-01 22:10:15
+date: 2023-01-12 07:29:38
 image: 'https://m.media-amazon.com/images/I/41zYKHubIrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B6G3M4DM-es NIKE Downshifter 12 Sneaker Hombre White/Pure Platinum-...'
 sku: 'B0B6G3M4DM-es'
 tags: [ 'Calzado deportivo para hombre','Calzados de running para hombre','Calzados para correr en asfalto para hombre','Moda','Moda Hombre','Zapatillas y calzado deportivo para hombre','Zapatos para hombre','nike','🇪🇸', ]
-actualPrice: 37.55 EUR
+actualPrice: 36.41 EUR
 currency: EUR
-price: 37.55
+price: 36.41
 comparePrice: 64.99 EUR
 prodname: 'NIKE Downshifter 12  Sneaker Hombre  White/Pure Platinum-White  40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B0B6G3M4DM/?tag=tolees-21'
-descuento: '42.22'
-average: '37.55'
+descuento: '43.98'
+average: '36.98'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sole con ritmo
 - Malla ligera y transpirable
+- Sole con ritmo
 - Espuma suave debajo del pie
 
 [🛒 Comprar!!!]({{< param buyurl >}})
