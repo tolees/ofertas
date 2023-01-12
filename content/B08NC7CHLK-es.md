@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juego de Mesa Ilustres Ignorantes'
-date: 2023-01-11 21:11:39
+date: 2023-01-12 21:32:02
 image: 'https://m.media-amazon.com/images/I/51FcvF4iIKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ilustres Ignorantes'
 buyurl: 'https://www.amazon.es/dp/B08NC7CHLK/?tag=tolees-21'
 descuento: '50.06'
-average: '32.4575'
+average: '31.4953846153846'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Licencia Oficial
-- Ilustres Ignorantes
-- Juego de imaginación
-- 3-5 Jugadores
 - Basado en el programa de TV
+- Licencia Oficial
+- Juego de imaginación
+- Ilustres Ignorantes
+- 3-5 Jugadores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

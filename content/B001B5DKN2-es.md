@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Excelente para usar en puestas y medio de incubación.
-- Magnífico para usar en refugios humidificados.
 - 14 l: Paquete de 2 unidades de 7 l
+- Magnífico para usar en refugios humidificados.
 - Ideal para anfibios y reptiles de ambiente pantano.
+- Excelente para usar en puestas y medio de incubación.
 - Completamente natural (no colorante o químicos) musgo de bosque.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

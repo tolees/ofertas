@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans - Calvin Klein Sujetador para Mujer Bralette Unlined Triangle sin Aros  Blanco  White   M'
-date: 2023-01-11 21:01:50
+date: 2023-01-12 21:32:34
 image: 'https://m.media-amazon.com/images/I/41+w9E8w8qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
