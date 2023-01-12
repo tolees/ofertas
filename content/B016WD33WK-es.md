@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only onlGEENA XO L/S PULLOVER KNT NOOS  Suéter para Mujer  Negro  Black   M'
-date: 2023-01-10 07:40:30
+date: 2023-01-11 23:52:12
 image: 'https://m.media-amazon.com/images/I/41F3viQMdXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B016WD33WK/?tag=tolees-21'
 descuento: '49.95'
-average: '12.131'
+average: '12.0272727272727'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
