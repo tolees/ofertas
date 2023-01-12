@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Hasta 1 kg por clavo o 2 kg con 2 clavos
 - Altura ajustable para alinear
 - Reutilizable con una nueva tira
 - Para superficies delicadas como paredes pintadas o yeso en interiores
-- Hasta 1 kg por clavo o 2 kg con 2 clavos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
