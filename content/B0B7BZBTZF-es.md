@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Braguitas brasileñas de algodón
 - con mensajitos estampados
+- Braguitas brasileñas de algodón
 - Producto de alta calidad
 - Tonos tierra
 

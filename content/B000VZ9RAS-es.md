@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mangas desmontables, Espalda alargada, Bolsillo posterior de 3 compartimentos, Cuello alto
 - Práctica chaqueta 2 en 1 para hombre, Adecuada para todas las condiciones climáticas
-- GORE WEAR Phantom GORE-TEX INFINIUM Jacket Mens, Talla: S, Color: Verde oscuro/Negro, 100645
-- Talle recto para un ajuste ceñido y excelente movilidad, Corte específico para ciclismo
+- Mangas desmontables, Espalda alargada, Bolsillo posterior de 3 compartimentos, Cuello alto
 - GORE-TEX INFINIUM con tecnología WINDSTOPPER: cortaviento, altamente resistente al agua y extremadamente transpirable
+- Talle recto para un ajuste ceñido y excelente movilidad, Corte específico para ciclismo
+- GORE WEAR Phantom GORE-TEX INFINIUM Jacket Mens, Talla: S, Color: Verde oscuro/Negro, 100645
 
 [🛒 Comprar!!!]({{< param buyurl >}})
