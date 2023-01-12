@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jersey de hombre regular fit en tejido de punto de lana con estampado moteado
 - Cuello redondo:<br/> ideal para combinar con una camisa o un polo.
 - Regular fit, comodidad natural:<br/> realza su silueta.
+- Jersey de hombre regular fit en tejido de punto de lana con estampado moteado
 - Cocodrilo bordado cosido en el pecho:<br/> estilo característico.
 - Tejido de punto de lana respetuoso con el medioambiente:<br/> calidez y transpirabilidad.
 

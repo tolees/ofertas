@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Indicado para pieles sensibles.
 - Perfecto para después del sol.
 - Calma la irritación y picazón.
+- Indicado para pieles sensibles.
 - Con Pantenol, potente vitamina regeneradora.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

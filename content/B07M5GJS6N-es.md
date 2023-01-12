@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Bobs Squad Tough Talk  Zapatillas Mujer  Pink Engineered Knit  39 EU'
-date: 2023-01-10 15:43:58
+date: 2023-01-12 17:03:30
 image: 'https://m.media-amazon.com/images/I/41EYMFt7vaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07M5GJS6N-es Skechers Bobs Squad Tough Talk Zapatillas Mujer Pink...'
 sku: 'B07M5GJS6N-es'
 tags: [ 'Moda','Moda Mujer','Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos para mujer','skechers','🇪🇸', ]
-actualPrice: 38.71 EUR
+actualPrice: 38.06 EUR
 currency: EUR
-price: 38.71
+price: 38.06
 comparePrice: 59.95 EUR
 prodname: 'Skechers Bobs Squad Tough Talk  Zapatillas Mujer  Pink Engineered Knit  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07M5GJS6N/?tag=tolees-21'
-descuento: '35.43'
-average: '39.6081818181819'
+descuento: '36.51'
+average: '39.5208571428572'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

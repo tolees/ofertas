@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Summits  Zapatillas de Gimnasia Mujer  Navy Mesh/Aqua Trim  39 EU'
-date: 2023-01-11 16:50:11
+date: 2023-01-12 17:03:15
 image: 'https://m.media-amazon.com/images/I/419B75d97EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B076THVK3X/?tag=tolees-21'
 descuento: '40.03'
-average: '42.5709090909088'
+average: '42.5571111111108'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
