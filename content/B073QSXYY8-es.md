@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil sustitución de las lámparas, reemplazo adecuado para una lámpara de 100 W; uso al aire libre sólo en luminarias adecuadas
-- Consumo de energía 13 kWh/1000h y 1521 lm
-- La luz blanca cálida para la comodidad y la relajación, en el dormitorio o habitaciones de los niños
 - Larga duración: hasta 10000 horas y hasta 100000 ciclos de encendido
+- La luz blanca cálida para la comodidad y la relajación, en el dormitorio o habitaciones de los niños
+- Consumo de energía 13 kWh/1000h y 1521 lm
 - Encendido instantáneo, no necesita tiempo de calentamiento
+- Fácil sustitución de las lámparas, reemplazo adecuado para una lámpara de 100 W; uso al aire libre sólo en luminarias adecuadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

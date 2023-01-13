@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Potencia 25.9V Lithium Technonlogy. Batería de litio 2200mAh
-- 40 minutos de autonomía. Eternal Battery
-- Aspirador sin cable 2 en 1. Sistema EasyClick
 - 4 accesorios. All in One. Soporte mural y cargador. Boquilla plana 2 en 1. Boquilla larga.
 - Filtro HEPA. Elimina gérmenes y ácaros del ambiente y las superficies.
+- 40 minutos de autonomía. Eternal Battery
+- Potencia 25.9V Lithium Technonlogy. Batería de litio 2200mAh
+- Aspirador sin cable 2 en 1. Sistema EasyClick
 - Motor Digital Pro - Mayor potencia, vida útil y optmización de la energía.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

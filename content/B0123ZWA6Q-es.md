@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Asas de silicona termorresistente desmontables incluidas
-- Aluminio fundido
-- Apta para todo tipo de cocinas, incluido inducción
-- Capacidad: 2.3 litros
 - Fondo difusor uniforme de máxima eficiencia (Save energy system)
-- Recubrimiento antiadherente de calidad Teflon Innovations libre de PFOA
-- Diámetro base: 18. 6 mm
 - Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
+- Apta para todo tipo de cocinas, incluido inducción
+- Diámetro base: 18. 6 mm
+- Aluminio fundido
+- Capacidad: 2.3 litros
+- Asas de silicona termorresistente desmontables incluidas
+- Recubrimiento antiadherente de calidad Teflon Innovations libre de PFOA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
