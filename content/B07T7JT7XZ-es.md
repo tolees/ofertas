@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ligero y flexible que ofrece comodidad
 - Forma anatómica que se adapta a tus pies
 - Material de la suela resistente y duradero
 - Zapatillas deportivas
+- Diseño ligero y flexible que ofrece comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

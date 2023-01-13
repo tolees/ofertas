@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatilla de correr amortiguada
 - Entresuela de EVA y suela de goma
 - Zapatos ajustados con estilo para uso diario
+- Zapatilla de correr amortiguada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

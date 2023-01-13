@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los detalles inspirados en las Air Max 90 incluyen el elemento de goma trabajado alrededor del elemento Air y el logotipo Air Max en el talón.
 - Suela de goma flexible
 - El elemento Max Air y la suave amortiguación de espuma proporcionan una comodidad ligera.
+- Los detalles inspirados en las Air Max 90 incluyen el elemento de goma trabajado alrededor del elemento Air y el logotipo Air Max en el talón.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
