@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kappa Alfon Traje de baño  Amarillo/Azul Marino  XL para Hombre'
-date: 2023-01-11 20:27:09
+date: 2023-01-12 22:40:24
 image: 'https://m.media-amazon.com/images/I/41qrdk4Nz8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cremallera frontal, bordes con banda elástica, pantalones con cintura elástica con cordón interior y bolsillos sin cremallera
 - Logotipo Omini en las mangas y texto Kappa en la parte delantera y en el lateral
 - Chándal de punto para hombre
+- Cremallera frontal, bordes con banda elástica, pantalones con cintura elástica con cordón interior y bolsillos sin cremallera
 - Corte regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

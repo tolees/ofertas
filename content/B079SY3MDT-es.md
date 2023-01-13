@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kappa SALCITO TKS Chándal  Hombre  Azul Marino/Rojo  3XL'
-date: 2023-01-11 20:29:20
+date: 2023-01-12 22:16:45
 image: 'https://m.media-amazon.com/images/I/314+AM3bUUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Proporciona libertad de movimiento
 - Elástico en la cintura y puños acanalados en las mangas
-- Omini Kappa bordado el pecho y Kappa impreso en la pierna izquierda
 - Ajuste óptimo
+- Omini Kappa bordado el pecho y Kappa impreso en la pierna izquierda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
