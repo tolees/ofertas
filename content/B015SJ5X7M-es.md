@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Interruptor ON/OFF que reduce el consumo
-- Programador diario 24 horas PG 10 con potencia máxima soportada de 3500 W
 - Reduce el consumo eléctrico en el hogar
+- Interruptor ON/OFF que reduce el consumo
 - Permite la programación horaria de encendido y apagado a intervalos de 15 minutos
+- Programador diario 24 horas PG 10 con potencia máxima soportada de 3500 W
 - Permite conectar aparatos hasta 16 amperios
 
 [🛒 Visítala!!!]({{< param buyurl >}})
