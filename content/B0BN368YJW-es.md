@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop Marvel: Thor Love & Thunder - Mighty Thor  62422 & 52005 Pop Marvel Infinity Warps- Iron Hammer'
-date: 2023-01-11 10:11:41
+date: 2023-01-13 10:07:19
 image: 'https://m.media-amazon.com/images/I/41buDVZM-4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mira las otras figuras de Funko dedicadas a esta colección
-- Mira las otras figuras de Funko dedicadas a esta colección
-- La figura mide 9 cm y viene en una caja de exhibición de ventana
-- POP! vinilo de Funko
-- La figura mide 9 cm y viene en una caja de exhibición de ventana
 - Colecciónalos todos
 - POP! vinilo de Funko
+- Mira las otras figuras de Funko dedicadas a esta colección
+- La figura mide 9 cm y viene en una caja de exhibición de ventana
+- POP! vinilo de Funko
+- Mira las otras figuras de Funko dedicadas a esta colección
 - Colecciónalos todos!
+- La figura mide 9 cm y viene en una caja de exhibición de ventana
 
 [🛒 Aquí!!!]({{< param buyurl >}})

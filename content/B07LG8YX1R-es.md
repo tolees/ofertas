@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Summits  Zapatillas de Gimnasia Mujer  Black Trim  39 EU'
-date: 2023-01-09 15:39:35
+date: 2023-01-13 11:20:54
 image: 'https://m.media-amazon.com/images/I/41bSFX15FvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07LG8YX1R-es Skechers Summits Zapatillas de Gimnasia Mujer Black Trim...'
 sku: 'B07LG8YX1R-es'
 tags: [ 'Moda','Moda Mujer','Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos para mujer','skechers','🇪🇸', ]
-actualPrice: 40.9 EUR
+actualPrice: 39.85 EUR
 currency: EUR
-price: 40.9
+price: 39.85
 comparePrice: 69.95 EUR
 prodname: 'Skechers Summits  Zapatillas de Gimnasia Mujer  Black Trim  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07LG8YX1R/?tag=tolees-21'
-descuento: '41.53'
-average: '38.9138461538462'
+descuento: '43.03'
+average: '38.9485185185186'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
