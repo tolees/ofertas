@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Monopoly es el juego familiar favorito en el mundo que nos trae esta genial adaptación aprobada por la Selección Española de Fútbol.
-- Tres veces campeona de Europa (1964 en Madrid, 2008 en Viena y 2012 en Kiev) y campeona del Mundo en Suráfrica.
-- Elige tu peón favorito como por ejemplo el balón, el silbato o el trofeo y muévete alrededor del tablero comprando tantas propiedades como puedas. ¡Pero estate atento para no pagar impuestos o ir a la cárcel, ya que podrías acabar arruinado!
 - Invierte en casas y hoteles (Gradas y Estadios en esta edición) y consigue ganar la partida.
+- Elige tu peón favorito como por ejemplo el balón, el silbato o el trofeo y muévete alrededor del tablero comprando tantas propiedades como puedas. ¡Pero estate atento para no pagar impuestos o ir a la cárcel, ya que podrías acabar arruinado!
+- Tres veces campeona de Europa (1964 en Madrid, 2008 en Viena y 2012 en Kiev) y campeona del Mundo en Suráfrica.
 - El divertido juego para que toda la familia se divierta negociando con propiedades inmobiliarias
 
 [🛒 Visítala!!!]({{< param buyurl >}})

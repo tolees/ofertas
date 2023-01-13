@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Actividad relajante que ejercita la motricidad fina y la concentración, que una gran sensación de satisfacción a todos. Es óptimo para liberar el estrés después de una dura jornada, para introducirse en el mundo de la pintura y para disfrutar de un momento de relax.
 - Las pinturas a base de agua están listas para usar y no necesitan disolvente. Los botecitos se pueden volver a cerrar fácilmente para poder terminar la pintura en cualquier otro momento. El kit contiene también un pincel de doble punta para pintar las casillas más grandes y las más pequeñas.
-- Creart, el kit de pintar por números que permite a todos pintar y obtener unos resultados óptimos. Descubre toda la línea: imágenes de ciudades, animales y paisajes modernos para completar tu colección.
 - Todos pueden pintar con CreArt. La tabla ya está preimpresa y contiene un trazado de líneas que guía la actividad con casillas numeradas para rellenar con los colores correspondientes.
 - Los botecitos de pintura se pueden cerrar individualmente para evitar que se sequen. Para facilitar la actividad, se incluye una paleta de cartón para insertar los botecitos y evitar que se vuelquen.
+- Creart, el kit de pintar por números que permite a todos pintar y obtener unos resultados óptimos. Descubre toda la línea: imágenes de ciudades, animales y paisajes modernos para completar tu colección.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

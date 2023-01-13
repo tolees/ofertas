@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Top Roll-nk de canalé Modal Delgado Otras Camisetas de Punto  Negro  M para Mujer'
-date: 2023-01-12 10:20:49
+date: 2023-01-13 21:59:58
 image: 'https://m.media-amazon.com/images/I/41D6xokZveL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este estilo ha sido producido de forma sostenible
 - Camiseta de punto modal delgada Roll-NK
+- Este estilo ha sido producido de forma sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
