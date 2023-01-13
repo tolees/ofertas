@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo PG 02 Programador Diario 24 horas  Potencia Máxima 3500 W  Interruptor ON/OFF  Uso Interior  Programable'
-date: 2023-01-11 17:52:47
+date: 2023-01-13 18:00:16
 image: 'https://m.media-amazon.com/images/I/41vZyI21+0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Orbegozo'
 buyurl: 'https://www.amazon.es/dp/B015SJ5X7M/?tag=tolees-21'
 descuento: '39.65'
-average: '5.70066666666667'
+average: '5.7125'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Interruptor ON/OFF que reduce el consumo
-- Reduce el consumo eléctrico en el hogar
 - Programador diario 24 horas PG 10 con potencia máxima soportada de 3500 W
-- Permite conectar aparatos hasta 16 amperios
+- Reduce el consumo eléctrico en el hogar
 - Permite la programación horaria de encendido y apagado a intervalos de 15 minutos
+- Permite conectar aparatos hasta 16 amperios
 
 [🛒 Visítala!!!]({{< param buyurl >}})

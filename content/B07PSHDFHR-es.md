@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bruguer Masilla Flexible Blanco 330 gr'
-date: 2023-01-12 09:01:33
+date: 2023-01-13 16:11:13
 image: 'https://m.media-amazon.com/images/I/31xeUrAlXvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tiempo de secado al tacto 1 hora, completamente 24 horas
-- No se agrieta
+- Resistente al agua, pero no adecuando para zonas inmersas en agua permanentemente
 - Listo para usar. Con tapón dosificador
 - Pasta flexible indicada para juntas entre materiales diferentes que sufren pequeños cambios de temperatura y humedad
-- Resistente al agua, pero no adecuando para zonas inmersas en agua permanentemente
+- No se agrieta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
