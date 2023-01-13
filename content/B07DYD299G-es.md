@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Merrell Siren 3 GTX  Zapato para Caminar Mujer  Azul  Blue Smoke   38 EU'
-date: 2023-01-12 13:38:54
+date: 2023-01-13 15:52:12
 image: 'https://m.media-amazon.com/images/I/416dN2iKrGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
