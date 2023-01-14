@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ecus Kids Colchón Cuna Mimo con viscoelástica perfilada más Transpirable  Algodón  117x57x12'
-date: 2023-01-06 10:31:43
+date: 2023-01-14 10:37:06
 image: 'https://m.media-amazon.com/images/I/31lXQYeMXPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5 años de garantia ante defectos de fabricación | 30 noches de prueba | Sin costes de devolución
+- Acolchado exterior del colchón de cuna | Lavable
 - Prevención Plagiocefalia 7/10 | Prevención Asfixia 7/10
-- Colchón de cuna con tratamientos | Antibacterianos e Hipoalergénicos
-- Núcleo interior del colchón de cuna | Espuma Oxygen y Viscoelástica | Acolchado exterior del colchón de cuna | Feranice
 - Made in Spain | Europe | Todos los productos de Ecus Kids están desarrollados y fabricados íntegramente en España
 - Certificado Oeko Tex | Libre sustancias perjudiciales para salud | Nº Certificado 2017OK0745
-- Acolchado exterior del colchón de cuna | Lavable
+- 5 años de garantia ante defectos de fabricación | 30 noches de prueba | Sin costes de devolución
+- Colchón de cuna con tratamientos | Antibacterianos e Hipoalergénicos
+- Núcleo interior del colchón de cuna | Espuma Oxygen y Viscoelástica | Acolchado exterior del colchón de cuna | Feranice
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

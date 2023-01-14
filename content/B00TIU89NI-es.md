@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apto Frigorífico
-- 4 vasos 36 cl
 - Reciclable , Ecológico , Material 100% saludable , 100% higiénico , Libre de cadmio y plomo , No poroso , Larga duración
 - Apto lavavajillas
+- Apto Frigorífico
 - Fabricado en Francia , Facil de limpiar
+- 4 vasos 36 cl
 
 [🛒 Comprar!!!]({{< param buyurl >}})

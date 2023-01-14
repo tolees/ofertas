@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'tesa Powerstrips - Clavo Adhesivo Ajustable para Yeso y Pared Pintada - Fuerza de Fijación hasta 1 kg con Tecnología Easy-On / Easy-Off - Paquete de 2 Unidades - Blanco'
-date: 2023-01-12 18:00:34
+date: 2023-01-14 11:24:52
 image: 'https://m.media-amazon.com/images/I/51rKwB1hf5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'tesa'
 buyurl: 'https://www.amazon.es/dp/B01MA0WWJZ/?tag=tolees-21'
 descuento: '42.90'
-average: '6.06875'
+average: '6.08222222222222'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para superficies delicadas como paredes pintadas o yeso en interiores
 - Hasta 1 kg por clavo o 2 kg con 2 clavos
 - Altura ajustable para alinear
 - Reutilizable con una nueva tira
-- Para superficies delicadas como paredes pintadas o yeso en interiores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

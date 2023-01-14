@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Skinny stretch jeans
 - High waist jeans
+- Skinny stretch jeans
 
 [🛒 Visítala!!!]({{< param buyurl >}})

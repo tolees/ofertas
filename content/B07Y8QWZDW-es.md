@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Basilisk X HyperSpeed - Ratón Gaming inalámbrico para juegos  con tecnología Razer HyperSpeed  inalámbrico  sensor óptico avanzado 5G y 6 botones configurables libremente  Negro'
-date: 2023-01-13 09:01:19
+date: 2023-01-14 10:27:38
 image: 'https://m.media-amazon.com/images/I/21Od1qglIjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Razer'
 buyurl: 'https://www.amazon.es/dp/B07Y8QWZDW/?tag=tolees-21'
 descuento: '46.69'
-average: '41.601153846154'
+average: '41.570566037736'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido Phantom
 - Cintura elástica con cordón
+- Tejido Phantom
 - 53% Algodón / 32% Polyester reciclado / 9% Spandex
 - Presilla para gafas de sol en la cintura
 - Bolsillos laterales de rejilla, bolsillo traseros de ojal
