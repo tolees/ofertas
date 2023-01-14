@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte que confiere comodidad en todo momento
-- Cocodrilo bordado en verde termosellado
 - Lote de 3 bóxers cortos negros Casual
 - Cintura elástica con marca Lacoste
+- Cocodrilo bordado en verde termosellado
+- Corte que confiere comodidad en todo momento
 - No se aceptan cambios ni devoluciones en la ropa interior.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
