@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- WR 30mt
-- Analógico en Piel para Hombre
-- Gris y Marrón
-- Clâsico
 - Movimiento automático ORIENT 22 jewels F6T22
+- Analógico en Piel para Hombre
+- Clâsico
+- WR 30mt
+- Gris y Marrón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

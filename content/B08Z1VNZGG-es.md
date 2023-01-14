@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El pantalón cuenta con cintura elástica ajustable mediante cordones
-- La chaqueta abierta cuenta con bolsillos que incorpora rib en puños, cuello y bajo
 - El logotipo está bordado en el pantalón y támbien en la chaqueta
+- El pantalón cuenta con cintura elástica ajustable mediante cordones
 - Chándal de dos piezas
+- La chaqueta abierta cuenta con bolsillos que incorpora rib en puños, cuello y bajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
