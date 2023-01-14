@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Osram Bombilla LED E14 BASE Classic B 40 | 4 9 W - 40 W equivalente a incandescente  bombilla LED vela/mate  blanco cálido - 2700 K  paquete de 3'
-date: 2023-01-13 11:30:58
+date: 2023-01-14 13:11:18
 image: 'https://m.media-amazon.com/images/I/31Ia+pEJyBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Osram'
 buyurl: 'https://www.amazon.es/dp/B019QAU8W4/?tag=tolees-21'
 descuento: '59.58'
-average: '7.1'
+average: '6.7425'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Luz blanca cálida para un ambiente de relajación y bienestar, ideal en dormitorios o habitaciones infantiles
-- No podemos atenuar el brillo
 - Consumo de energía 5 kWh/1000 h a 470 lm
-- Sucede a las bombillas convencionales, reemplaza a una bombilla de 4,9 W (uso en exteriores solo con luminarias apropiadas)
+- Luz blanca cálida para un ambiente de relajación y bienestar, ideal en dormitorios o habitaciones infantiles
 - Larga vida útil: hasta 15 000 horas y 100 000 ciclos de conmutación
 - Encendido instantáneo, sin tiempo de calentamiento
+- No podemos atenuar el brillo
+- Sucede a las bombillas convencionales, reemplaza a una bombilla de 4,9 W (uso en exteriores solo con luminarias apropiadas)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

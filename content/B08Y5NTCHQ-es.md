@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE CW6110-451 M NK DF ACD21 Dril Top T-Shirt Men s Obsidian/White/White/White M'
-date: 2023-01-08 00:05:30
+date: 2023-01-14 12:18:03
 image: 'https://m.media-amazon.com/images/I/3173+G6nOyS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B08Y5NTCHQ/?tag=tolees-21'
 descuento: '50.11'
-average: '26.845'
+average: '25.466'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tecnología Dri-Fit
-- Mantiene la piel fresca y seca en todo momento
 - Detalles distintivos de la marca
 - El diseño otorga libertad a los movimientos
+- Mantiene la piel fresca y seca en todo momento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

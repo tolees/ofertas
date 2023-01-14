@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Programación del tiempo de cocción: apaga la zona de cocción seleccionada una vez transcurrido el tiempo establecido
 - Esta placa de inducción te ayuda a cocinar de forma rápida, limpia y segura consumiendo muy poca energía
-- Control TouchSelect: selecciona de la zona de cocción y ajusta fácilmente la potencia deseada
-- Función Sprint: hasta un 50 % más de potencia para calentar más rápido en tu placa de inducción
 - Seguridad para niños: bloquea el panel de mandos para impedir cambios accidentales de configuración
+- Programación del tiempo de cocción: apaga la zona de cocción seleccionada una vez transcurrido el tiempo establecido
+- Función Sprint: hasta un 50 % más de potencia para calentar más rápido en tu placa de inducción
+- Control TouchSelect: selecciona de la zona de cocción y ajusta fácilmente la potencia deseada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
