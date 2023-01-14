@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 511 Slim Vaqueros Hombre Harvest Gold Sueded Sateen  Amarillo  36W / 32L'
-date: 2023-01-12 17:20:01
+date: 2023-01-14 07:06:13
 image: 'https://m.media-amazon.com/images/I/31CIcttcuEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
