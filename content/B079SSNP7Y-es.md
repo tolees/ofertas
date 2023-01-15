@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kappa SALCITO TKS Chándal  Hombre  Negro/Amarillo  M'
-date: 2023-01-13 17:09:38
+date: 2023-01-15 17:29:45
 image: 'https://m.media-amazon.com/images/I/31dCefh5nPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kappa'
 buyurl: 'https://www.amazon.es/dp/B079SSNP7Y/?tag=tolees-21'
 descuento: '50.00'
-average: '25.7688888888889'
+average: '25.692'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Omini Kappa bordado el pecho y Kappa impreso en la pierna izquierda
 - Elástico en la cintura y puños acanalados en las mangas
 - Proporciona libertad de movimiento
 - Ajuste óptimo
+- Omini Kappa bordado el pecho y Kappa impreso en la pierna izquierda
 
 [🛒 Visítala!!!]({{< param buyurl >}})

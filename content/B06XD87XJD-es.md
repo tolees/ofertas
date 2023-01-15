@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ya! Pastillas Encendido  40 unidades'
-date: 2023-01-06 19:40:55
+date: 2023-01-15 18:02:36
 image: 'https://m.media-amazon.com/images/I/51S-NQt0gZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ya!'
 buyurl: 'https://www.amazon.es/dp/B06XD87XJD/?tag=tolees-21'
 descuento: '49.75'
-average: '1.30857142857143'
+average: '1.42066666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con 1 o 2 pastillas podrás encender tu chimenea, estufa o barbacoa
 - La exposición repetida puede provocar sequedad o formación de grietas en la piel
-- Óptima llama y duración
 - 40 pastillas instantáneas
+- Con 1 o 2 pastillas podrás encender tu chimenea, estufa o barbacoa
+- Óptima llama y duración
 
 [🛒 Visítala!!!]({{< param buyurl >}})

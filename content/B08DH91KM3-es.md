@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Media suela con absorción de impactos y suela con tracción
 - Tejido de color liso con detalle de textura en color arcoíris
+- Media suela con absorción de impactos y suela con tracción
 
 [🛒 Aquí!!!]({{< param buyurl >}})
