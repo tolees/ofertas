@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Óptimo precisión: sensor óptico pixart pmw3389 de 16000dpi, 7 configuraciones sensibilidad, mínimo lag y tracking óptimo, 400 ips, 1000 hz, <2 mm lift off, 50g de aceleración, con ajuste adicional de la superficie-alfombrilla a través de masterplus +
-- Iluminación rgb: efectos colores rueda y estructura ratón se pueden determinar utilizando modalidades preestablecidas en la rueda del ratón, on-the-fly, o mediante el software masterplus +, solo pc, personalización incluye macros y perfiles
 - El master claw: cooler master mm720 posee las características de diseño premiadas de los anteriormente populares mm710 y spawn en el reciente mouse para juegos profesional, liviano, 49 gramos, y ergonómico con sujeción tipo garra, usuarios diestros
-- Botones l/r de 70 millones de clic: el mm720 sobrepasa el mm710 con una estructura interna óptimo, sin botones sueltos, y conmutadores ópticos 70 millones de clics fabricados para ser resistentes, cuenta con resistencia ip58 al polvo y al agua
 - Ultradeslizante y sensible: emplea pies de ptfe de suave deslizamiento, estándar élite superficies de baja fricción, y se conecta a pc/mac a través de un cable trenzado usb-a ultraweave 1.8 m, sin-arrastre, flexible
+- Iluminación rgb: efectos colores rueda y estructura ratón se pueden determinar utilizando modalidades preestablecidas en la rueda del ratón, on-the-fly, o mediante el software masterplus +, solo pc, personalización incluye macros y perfiles
+- Botones l/r de 70 millones de clic: el mm720 sobrepasa el mm710 con una estructura interna óptimo, sin botones sueltos, y conmutadores ópticos 70 millones de clics fabricados para ser resistentes, cuenta con resistencia ip58 al polvo y al agua
+- Óptimo precisión: sensor óptico pixart pmw3389 de 16000dpi, 7 configuraciones sensibilidad, mínimo lag y tracking óptimo, 400 ips, 1000 hz, <2 mm lift off, 50g de aceleración, con ajuste adicional de la superficie-alfombrilla a través de masterplus +
 
 [🛒 Aquí!!!]({{< param buyurl >}})

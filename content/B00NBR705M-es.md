@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-ZX110 - Auriculares cerrados stereo  rosa'
-date: 2023-01-13 17:35:02
+date: 2023-01-14 22:24:22
 image: 'https://m.media-amazon.com/images/I/31IBIbif5wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00NBR705M/?tag=tolees-21'
 descuento: '46.07'
-average: '8.85333333333334'
+average: '8.83088235294118'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

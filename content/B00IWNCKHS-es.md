@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ONLY Onlultimate King Reg Skinny Fit Jeans  Dark Blue Denim  S / 30 para Mujer'
-date: 2023-01-13 17:34:06
+date: 2023-01-14 22:31:47
 image: 'https://m.media-amazon.com/images/I/31GJyxNxaeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se cierra con cremallera y botón.
 - Marca: SOLO
+- Se cierra con cremallera y botón.
 - Fabricante: SOLO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
