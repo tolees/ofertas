@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quiksilver - Words Remain Camiseta para Niño grande'
-date: 2023-01-07 15:46:17
+date: 2023-01-15 14:45:35
 image: 'https://m.media-amazon.com/images/I/31tnum-y60L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado a la tinta con relieve
 - Corte: corte normal, clásico, cómodo
-- Serigrafía estampada en el pecho
-- Cuello: cuello redondo
 - Tejido: punto jersey de algodón ligero
+- Estampado a la tinta con relieve
+- Cuello: cuello redondo
+- Serigrafía estampada en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
