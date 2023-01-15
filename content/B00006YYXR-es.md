@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de experimentos: 300
-- Advertencia : ¡Precaución! No apto para niños menores de 36 meses
-- Instrucciones de Idiomas : DE
 - Spiel Premio Gut : Sí
+- Sexo: las niñas y los niños
 - Duración : corto a 15 min
 - Grupo objetivo: la escuela primaria
-- Sexo: las niñas y los niños
+- Número de experimentos: 300
+- Instrucciones de Idiomas : DE
+- Advertencia : ¡Precaución! No apto para niños menores de 36 meses
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
