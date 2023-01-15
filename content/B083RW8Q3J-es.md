@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CMP Rigel Mid Trekking Shoe Wp  Botas de senderismo  Hombre  Negro  Antracite-Flash Orange   45 EU'
-date: 2023-01-11 11:20:25
+date: 2023-01-15 12:00:23
 image: 'https://m.media-amazon.com/images/I/41soHw-532L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
