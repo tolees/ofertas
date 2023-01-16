@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yamaha - Altavoces Ns-P41 Negro 5.1 con Subwoofer Autoamplificado'
-date: 2023-01-06 08:33:01
+date: 2023-01-16 13:21:39
 image: 'https://m.media-amazon.com/images/I/31h7tplUvxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -16,10 +16,10 @@ comparePrice: 299.0 EUR
 prodname: 'Yamaha - Altavoces Ns-P41 Negro 5.1 con Subwoofer Autoamplificado'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Yamaha'
+brand: 'YAMAHA'
 buyurl: 'https://www.amazon.es/dp/B07L16Y1XP/?tag=tolees-21'
 descuento: '41.81'
-average: '180.87375'
+average: '180.11'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Montable en la pared: frontal, central y envolvente
-- Equipo compacto de altavoces de cine en casa de 5.1 canales
 - El diseño tradicional es adecuado para cualquier habitación
+- Equipo compacto de altavoces de cine en casa de 5.1 canales
 - Potencia de entrada máxima: 100 W
+- Montable en la pared: frontal, central y envolvente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B07L16Y1XP{{</world>}}
