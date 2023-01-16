@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Licencia oficial de Nintendo
+- Diseño ergonómico y cuerpo extragrande para un agarre seguro
 - Sin lag: conexión con cable de 3 m
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 - Cruceta extraíble para un control personalizado: escoge entre un pad direccional tradicional o tipo Joy-Con
-- Diseño ergonómico y cuerpo extragrande para un agarre seguro
+- Licencia oficial de Nintendo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01NAUATSM{{</world>}}

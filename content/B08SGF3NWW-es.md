@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Plantilla Goga Mat refrigerada por aire
 - Cómodo entrenador para correr
-- Hyper Burst
 - Ortholite
+- Hyper Burst
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08SGF3NWW{{</world>}}
