@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fila NOVANINE  Zapatillas para Correr Hombre  Iron Gate Iceberg Green  42 EU'
-date: 2023-01-05 11:06:25
+date: 2023-01-16 18:02:05
 image: 'https://m.media-amazon.com/images/I/41a0Kh3MCoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B096XTVYC6/?tag=tolees-21'
 descuento: '57.13'
-average: '32.092'
+average: '31.745'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -32,3 +32,4 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Material exterior: Sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B096XTVYC6{{</world>}}

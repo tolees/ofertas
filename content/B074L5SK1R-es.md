@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Graceful Get Connected  Zapatillas Mujer  Azul  Navy Mesh/Hot Pink Trim   38 EU'
-date: 2023-01-15 17:42:28
+date: 2023-01-16 17:53:28
 image: 'https://m.media-amazon.com/images/I/51-xN+MeIcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B074L5SK1R/?tag=tolees-21'
 descuento: '48.06'
-average: '34.609090909091'
+average: '34.659705882353'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -31,3 +31,4 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Fabric
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B074L5SK1R{{</world>}}
