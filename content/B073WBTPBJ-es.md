@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Originals OG 85 Golden Girl  Zapatillas Mujer  Verde  Green Olive   38 EU'
-date: 2023-01-14 00:17:45
+date: 2023-01-16 11:35:39
 image: 'https://m.media-amazon.com/images/I/41CWhjoPNbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B073WBTPBJ/?tag=tolees-21'
 descuento: '39.96'
-average: '47.1171052631578'
+average: '47.0896103896103'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -31,3 +31,4 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Fabric
 
 [🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B073WBTPBJ{{</world>}}

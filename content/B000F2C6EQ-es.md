@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips DVD-R DM4S6B10F/00 - DVD+RW vírgenes  4 7 GB  DVD-R  120 min  16x '
-date: 2023-01-15 11:14:34
+date: 2023-01-16 11:37:59
 image: 'https://m.media-amazon.com/images/I/41cGt8GSFzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Philips'
 buyurl: 'https://www.amazon.es/dp/B000F2C6EQ/?tag=tolees-21'
 descuento: '40.10'
-average: '6.75209523809526'
+average: '6.74748815165879'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Máx. Velocidad de escritura: 16x
-- Cantidad de medios incluidos: 10
 - Tipo: DVD-R
+- Cantidad de medios incluidos: 10
+- Máx. Velocidad de escritura: 16x
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B000F2C6EQ{{</world>}}
