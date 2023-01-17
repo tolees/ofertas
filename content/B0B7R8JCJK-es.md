@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Jersey de manga larga caída con volumen
 - Rayas color block
 - Canalé en el cuello los puños y el bajo
+- Jersey de manga larga caída con volumen
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
