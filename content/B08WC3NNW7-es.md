@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quiksilver Travel Accessory- Money Belt  black'
-date: 2023-01-11 20:42:55
+date: 2023-01-17 21:28:07
 image: 'https://m.media-amazon.com/images/I/31pLMJNcL1S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Quiksilver'
 buyurl: 'https://www.amazon.es/dp/B08WC3NNW7/?tag=tolees-21'
 descuento: '49.98'
-average: '15.0475'
+average: '17.0566666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -31,3 +31,4 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - X
 
 [🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B08WC3NNW7{{</world>}}
