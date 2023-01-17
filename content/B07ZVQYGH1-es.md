@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 511 Slim Vaqueros Hombre Richmond Blue Black Od Adv  Negro  34 34'
-date: 2023-01-16 11:28:52
+date: 2023-01-17 18:31:08
 image: 'https://m.media-amazon.com/images/I/41zbPpj7VpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07ZVQYGH1/?tag=tolees-21'
 descuento: '38.35'
-average: '72.23'
+average: '72.58'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
