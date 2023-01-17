@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Royal Glide Ripple Clip  Zapatillas De Deporte Hombre  Chalk Rose Gold Chalk  38 EU'
-date: 2023-01-16 05:40:12
+date: 2023-01-17 06:19:33
 image: 'https://m.media-amazon.com/images/I/313rwpG8VDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B09MTCZ5CX/?tag=tolees-21'
 descuento: '53.49'
-average: '32.002'
+average: '31.7066666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

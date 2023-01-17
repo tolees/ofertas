@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Classic Leather Legacy AZ  Zapatillas Deportivas Hombre  Ftwr White Ftwr White Cold Grey 2 2  40.5 EU'
-date: 2023-01-15 01:28:37
+date: 2023-01-17 07:00:29
 image: 'https://m.media-amazon.com/images/I/31qduyrQnXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,9 +30,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Material: Sintético
 - Material de la suela: Goma
-- Parte superior de material sintético y tela
-- Mediasuela de EVA ligera
 - Tipo de tacón: Plano
 - Cordones elásticos con correa de velcro
+- Mediasuela de EVA ligera
+- Parte superior de material sintético y tela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B096ZDBYFH{{</world>}}
