@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sweater with logo
 - Cotton mixture
+- Sweater with logo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07V9NSPL8{{</world>}}

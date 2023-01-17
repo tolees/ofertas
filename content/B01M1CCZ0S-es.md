@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso ligero
 - Suela flexible
+- Peso ligero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M1CCZ0S{{</world>}}

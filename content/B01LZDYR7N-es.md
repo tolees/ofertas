@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Peso ligero.
 - Suela flexible.
+- Peso ligero.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01LZDYR7N{{</world>}}

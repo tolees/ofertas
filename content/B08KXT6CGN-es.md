@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Especialmente suave y cálida.
+- Composición del material: 70 % algodón, 30 % poliéster.
 - Con el clásico logotipo impreso.
 - Sudadera de corte regular.
-- Composición del material: 70 % algodón, 30 % poliéster.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08KXT6CGN{{</world>}}

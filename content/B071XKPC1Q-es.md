@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material exterior: Cuero
-- Tipo de tacón: Plano
 - Revestimiento: Tela
 - Material de la suela: Goma
 - Cierre: Cordones
+- Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071XKPC1Q{{</world>}}
