@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La temporada oficial 2021 de Monster Energy Supercross
-- Sistema de formar a tu corredor en el modo carrera
-- Más de 100 pilotos oficiales y pistas
 - Juego online entre generaciones; Juega con tus amigos amigos: modo pantalla dividida incluida
 - Sección de ritma, cascos y editor de pegatinas con plataforma cruzada UGC
+- La temporada oficial 2021 de Monster Energy Supercross
+- Más de 100 pilotos oficiales y pistas
+- Sistema de formar a tu corredor en el modo carrera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09ML7FNKN{{</world>}}
