@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Triple Action Pasta de Dientes - 75 ml'
-date: 2023-01-10 23:12:36
+date: 2023-01-16 23:35:55
 image: 'https://m.media-amazon.com/images/I/31cvd6nsawL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Colgate'
 buyurl: 'https://www.amazon.es/dp/B07H73SG2V/?tag=tolees-21'
 descuento: '55.13'
-average: '1.285'
+average: '1.238'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuida de tu boca, ayudando a mantenerla sana
 - Aliento fresco y protección anticaries
+- Cuida de tu boca, ayudando a mantenerla sana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B07H73SG2V{{</world>}}
