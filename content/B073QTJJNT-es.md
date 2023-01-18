@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Osram Lámpara LED Base Classic B  en forma de vela con casquillo E14  no regulable  reemplaza 40 vatios  estilo filement transparente  blanco cálido - 2700 Kelvin  paquete de 3'
-date: 2023-01-16 07:39:59
+date: 2023-01-18 09:33:40
 image: 'https://m.media-amazon.com/images/I/41c5LK7ZNXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Larga duración – hasta 15000 horas y hasta 100000 ciclos de encencido
+- Producto de calidad óptima
 - Consumo de energía 4 kWh/1000h para 470 lm
 - Diseño elegante, producto útil y práctico
 - Fácil de usar
-- Producto de calidad óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B073QTJJNT{{</world>}}
