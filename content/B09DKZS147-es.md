@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi K3S MI 11T Pro 8+256 Celestial Blue'
-date: 2023-01-12 21:26:53
+date: 2023-01-18 12:01:58
 image: 'https://m.media-amazon.com/images/I/41wjeLCnIfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09DKZS147-es Xiaomi K3S MI 11T Pro 8+256 Celestial Blue'
 sku: 'B09DKZS147-es'
 tags: [ 'Electrónica','xiaomi','🇪🇸', ]
-actualPrice: 399.99 EUR
+actualPrice: 398.0 EUR
 currency: EUR
-price: 399.99
+price: 398.0
 comparePrice: 760.72 EUR
 prodname: 'Xiaomi K3S MI 11T Pro 8+256 Celestial Blue'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B09DKZS147/?tag=tolees-21'
-descuento: '47.42'
-average: '440.485'
+descuento: '47.68'
+average: '435.764444444444'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Xiaomi K3S MI 11T Pro 8+256 Celestial Blue
-- Tipo de conector: jack de 3.5 mm
 - Material resistente y duradero
+- Xiaomi K3S MI 11T Pro 8+256 Celestial Blue
 - Fácil de usar
+- Tipo de conector: jack de 3.5 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B09DKZS147{{</world>}}
