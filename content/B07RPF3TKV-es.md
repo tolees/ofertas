@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conjunto de bikini para mujer
 - Diseño de espalda en forma de V
 - Material fino y suave
 - Tejido Infinitex Fitness Eco resistente al cloro
+- Conjunto de bikini para mujer
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07RPF3TKV{{</world>}}
