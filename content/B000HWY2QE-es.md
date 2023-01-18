@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alessi 9090/6 - Cafetera italiana de acero inoxidable brillo 18/10 con base magnética'
-date: 2023-01-07 13:05:13
+date: 2023-01-18 15:06:13
 image: 'https://m.media-amazon.com/images/I/31HzY6WfRhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Alessi'
 buyurl: 'https://www.amazon.es/dp/B000HWY2QE/?tag=tolees-21'
 descuento: '45.95'
-average: '112.9125'
+average: '112.152941176471'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color: Acero inoxidable
 - Altura: 205 mm; Profundidad: 125 mm
-- Apto para cocina de inducción
 - Tipo de café : Manuel ; Tipo de entrada de café: Café molido; Tipos de bebidas : café espresso
 - Diseño de caso: Autónoma
+- Color: Acero inoxidable
+- Apto para cocina de inducción
 
 [🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B000HWY2QE{{</world>}}
