@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Springfield Jeans Slim Cropped Reconsider  Jeans Mujer  Azul  Medium Blue   34'
-date: 2023-01-13 10:06:51
+date: 2023-01-19 15:44:45
 image: 'https://m.media-amazon.com/images/I/31K3kNeGtLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Springfield'
 buyurl: 'https://www.amazon.es/dp/B0B79XB1RX/?tag=tolees-21'
 descuento: '63.91'
-average: '12.99'
+average: '17.5966666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -31,3 +31,4 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Vaqueros con bolsillos en la parte delantera y trasera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0B79XB1RX{{</world>}}
