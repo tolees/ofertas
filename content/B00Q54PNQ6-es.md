@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Respeta el medio ambiente
-- Larga duración de encendido
 - Sin olores
 - Gran poder calorífico
+- Respeta el medio ambiente
+- Larga duración de encendido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00Q54PNQ6{{</world>}}
