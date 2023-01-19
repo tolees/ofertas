@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición: 95% algodón, 5% elastano
 - Cintura ajustable
+- Composición: 95% algodón, 5% elastano
 - Con una cinta para atar
 - Bolsillos laterales con cremallera
 

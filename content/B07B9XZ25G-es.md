@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics - Juego de funda nórdica de microfibra ligera de microfibra  135 x 200 cm  Azul celosía  Dusty Blue Trellis '
-date: 2023-01-18 10:06:26
+date: 2023-01-19 16:21:12
 image: 'https://m.media-amazon.com/images/I/41Nf7ShPtwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

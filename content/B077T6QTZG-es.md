@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden UniversalChain 18 Sierra de Cadena a Batería  con Batería y Cargador  18 V  Color Verde'
-date: 2023-01-18 13:02:35
+date: 2023-01-19 16:20:54
 image: 'https://m.media-amazon.com/images/I/51v4U2L8rXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B077T6QTZG/?tag=tolees-21'
 descuento: '39.74'
-average: '158.671666666666'
+average: '157.080769230769'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protector de cuchilla con dientes de agarre para realizar cortes limpios desde abajo con un daño mínimo en la rama
 - Serrado más sencillo gracias a los nuevos ganchos de retén para realizar cortes inferiores de forma limpia y fácil
 - Aerodinámico sistema SDS de Bosch para tensar y cambiar la cadena sin necesidad de herramientas
-- Su batería de larga duración, un tiempo de carga reducido y el práctico indicador del nivel de la batería permiten trabajar de manera eficiente
+- Protector de cuchilla con dientes de agarre para realizar cortes limpios desde abajo con un daño mínimo en la rama
 - La sierra de cadena compacta con batería UniversalChain 18 se maneja con comodidad gracias a su peso reducido de solo 3 kg incluyendo la batería
+- Su batería de larga duración, un tiempo de carga reducido y el práctico indicador del nivel de la batería permiten trabajar de manera eficiente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B077T6QTZG{{</world>}}

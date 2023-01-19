@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo canguro
 - Detalles distintivos de la marca
 - Los puños y el dobladillo tienen una construcción acanalada para un ajuste cómodo
+- Bolsillo canguro
 - Sudadera con capucha
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
