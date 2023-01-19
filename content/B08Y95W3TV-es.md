@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha ajustable
+- Items delivered: 1x Helly Hansen Mens - Rapide Windbreaker Jacket Apparel Alert Red XL
+- Tejido ligero de poliamida duradera
 - Bolsillo en la cadera para guardar cosas o plegar la chaqueta
 - Tratamiento DWR sin PFC
-- Tejido ligero de poliamida duradera
-- Items delivered: 1x Helly Hansen Mens - Rapide Windbreaker Jacket Apparel Alert Red XL
+- Capucha ajustable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Y95W3TV{{</world>}}
