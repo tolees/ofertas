@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden Hidrolimpiadora de Alta Presión UniversalAquatak 135  1900 W  135 Bares   Multicolor'
-date: 2023-01-16 19:24:11
+date: 2023-01-19 22:39:33
 image: 'https://m.media-amazon.com/images/I/51TI-21w84L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B06XRDTQFP/?tag=tolees-21'
 descuento: '39.73'
-average: '138.476363636363'
+average: '138.373823529411'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
