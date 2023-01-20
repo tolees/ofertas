@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Dragon Ball Xenoverse 2'
-date: 2023-01-18 12:01:39
+date: 2023-01-20 19:21:52
 image: 'https://m.media-amazon.com/images/I/51ygjzJeIYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B073SCR6VD/?tag=tolees-21'
 descuento: '41.31'
-average: '26.2453846153847'
+average: '26.272962962963'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Te esperan batallas frenéticas, 60 FPS y unos alucinantes gráficos en alta definición
 - Revive momentos emblemáticos de Dragon Ball
+- Te esperan batallas frenéticas, 60 FPS y unos alucinantes gráficos en alta definición
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B073SCR6VD{{</world>}}
