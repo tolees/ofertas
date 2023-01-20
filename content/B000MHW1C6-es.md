@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intenso 4311142 - Pack de 10 DVD+R  8x  8.5 GB'
-date: 2023-01-19 15:27:28
+date: 2023-01-20 21:17:26
 image: 'https://m.media-amazon.com/images/I/41c7bgW1d1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Intenso'
 buyurl: 'https://www.amazon.es/dp/B000MHW1C6/?tag=tolees-21'
 descuento: '38.34'
-average: '11.7146666666667'
+average: '11.68625'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
