@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Ward  Zapatillas Hombre  Canvas Black  42 EU'
-date: 2023-01-18 01:23:53
+date: 2023-01-20 04:23:02
 image: 'https://m.media-amazon.com/images/I/31vptU5cuyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B071XKPC1Q/?tag=tolees-21'
 descuento: '36.00'
-average: '52.1180952380953'
+average: '51.9309090909092'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revestimiento: Tela
-- Tipo de tacón: Plano
-- Material exterior: Cuero
 - Cierre: Cordones
+- Material exterior: Cuero
+- Tipo de tacón: Plano
+- Revestimiento: Tela
 - Material de la suela: Goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
