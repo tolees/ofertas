@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dotn - Auriculares Inalámbricos Deportivos  Auriculares Bluetooth 5.3 Inalámbricos con Micrófonos  2022 Cascos Inalambricos Bluetooth con HiFi Stereo  IP7 Impermeable  25H  Cancelación de Ruido  Pantalla LCD'
-date: 2023-01-20 04:10:20
+date: 2023-01-21 09:39:58
 image: 'https://m.media-amazon.com/images/I/51BIt9LzW+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'dotn'
 buyurl: 'https://www.amazon.es/dp/B0B6G9B1GL/?tag=tolees-21'
 descuento: '50.01'
-average: '29.6900000000001'
+average: '29.6996774193549'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

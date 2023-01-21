@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'devolo Magic 1 – 1200 WiFi ac Starter Kit: 2 adaptadores Powerline  función WiFi  adecuado para la Home Office  1200 Mbit/s  2 x conexiones Fast Ethernet LAN  malla  G.hn '
-date: 2023-01-17 01:09:42
+date: 2023-01-21 09:50:09
 image: 'https://m.media-amazon.com/images/I/41IbxfJT68L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07GTCH9JQ-es devolo Magic 1 – 1200 WiFi ac Starter Kit: 2 adaptadores...'
 sku: 'B07GTCH9JQ-es'
 tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','devolo','🇪🇸', ]
-actualPrice: 93.94 EUR
+actualPrice: 91.4 EUR
 currency: EUR
-price: 93.94
+price: 91.4
 comparePrice: 149.9 EUR
 prodname: 'devolo Magic 1 – 1200 WiFi ac Starter Kit: 2 adaptadores Powerline  función WiFi  adecuado para la Home Office  1200 Mbit/s  2 x conexiones Fast Ethernet LAN  malla  G.hn '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Devolo'
 buyurl: 'https://www.amazon.es/dp/B07GTCH9JQ/?tag=tolees-21'
-descuento: '37.33'
-average: '102.494148471617'
+descuento: '39.03'
+average: '102.560603448277'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

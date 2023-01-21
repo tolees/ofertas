@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dockers - NYLON LIGHTWEIGHT QUILTED JACKET'
-date: 2023-01-20 04:26:20
+date: 2023-01-21 10:05:16
 image: 'https://m.media-amazon.com/images/I/413dZFqS7BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dockers'
 buyurl: 'https://www.amazon.es/dp/B09L59D1SB/?tag=tolees-21'
 descuento: '58.45'
-average: '56.58'
+average: '54.895'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

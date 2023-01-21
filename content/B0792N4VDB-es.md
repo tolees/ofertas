@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming GXT 180 Kusan - Ratón Pro Gaming con Peso optimizado y Software avanzado  Gris'
-date: 2023-01-10 14:05:50
+date: 2023-01-21 10:41:11
 image: 'https://m.media-amazon.com/images/I/41Wwamj3ALL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trust Gaming'
 buyurl: 'https://www.amazon.es/dp/B0792N4VDB/?tag=tolees-21'
 descuento: '67.30'
-average: '13.2266666666667'
+average: '14.17'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desarrollado conjuntamente con profesionales de eSport de Épsilon eSports
-- Memoria integrada para almacenar 5 perfiles de juego. Iluminación RGB personalizable.
-- Sensor óptico de alta precisión de hasta 5.000 PPP. 6 botones programables y de respuesta.
 - Software avanzado para programar botones y luces
 - Diseño ergonómico y ligero
+- Memoria integrada para almacenar 5 perfiles de juego. Iluminación RGB personalizable.
+- Sensor óptico de alta precisión de hasta 5.000 PPP. 6 botones programables y de respuesta.
+- Desarrollado conjuntamente con profesionales de eSport de Épsilon eSports
 
 [🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0792N4VDB{{</world>}}
