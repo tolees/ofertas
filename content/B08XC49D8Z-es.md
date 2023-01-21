@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko-Pop Vinyl  Color Cranberry  Talla única  56734 '
-date: 2023-01-19 11:15:48
+date: 2023-01-21 07:47:03
 image: 'https://m.media-amazon.com/images/I/31eKb6YzLuS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B08XC49D8Z/?tag=tolees-21'
 descuento: '56.25'
-average: '9.51666666666667'
+average: '8.8875'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Funko POP! es el juguete del año 2018 Peoples Choice
+- POP! vinilo de Funko
 - La figura mide 9 cm y viene en una caja de exhibición de ventana
 - Colecciónalos todos
-- Funko POP! es el juguete del año 2018 Peoples Choice
 - Mira las otras figuras de Funko dedicadas a esta colección
-- POP! vinilo de Funko
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XC49D8Z{{</world>}}

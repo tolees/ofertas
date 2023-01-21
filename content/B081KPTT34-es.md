@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Ball Super Box 8 Episodios 91 A 104 [DVD]'
-date: 2023-01-19 09:53:07
+date: 2023-01-21 08:52:39
 image: 'https://m.media-amazon.com/images/I/51wO-MmZL5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B081KPTT34/?tag=tolees-21'
 descuento: '45.03'
-average: '23.9733333333333'
+average: '21.9614285714285'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
