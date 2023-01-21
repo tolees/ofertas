@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy M13  64 GB  Azul Claro – Teléfono Móvil libre Android  Smartphone con 4GB de RAM [Versión española]'
-date: 2023-01-16 10:26:18
+date: 2023-01-21 12:33:39
 image: 'https://m.media-amazon.com/images/I/41uUGYicDRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B0B1VDGS1K/?tag=tolees-21'
 descuento: '38.28'
-average: '151.593666666666'
+average: '150.1815625'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

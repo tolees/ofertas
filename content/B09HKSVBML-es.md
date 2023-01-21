@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas ENT22 SW PNT Pants  Men s  Black  S'
-date: 2023-01-18 13:47:05
+date: 2023-01-21 11:42:17
 image: 'https://m.media-amazon.com/images/I/21xOcmDiyiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido transpirable
-- Ofrece comodidad y libertad de movimiento
 - Tiene detalles distintivos de la marca
+- Ofrece comodidad y libertad de movimiento
+- Tejido transpirable
 - Tienen detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
