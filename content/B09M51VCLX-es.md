@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Head Flash W 2022 228272'
-date: 2023-01-12 22:00:32
+date: 2023-01-21 18:21:40
 image: 'https://m.media-amazon.com/images/I/41yVbMmEmPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HEAD'
 buyurl: 'https://www.amazon.es/dp/B09M51VCLX/?tag=tolees-21'
 descuento: '40.02'
-average: '60.4133333333333'
+average: '59.4942857142857'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -31,3 +31,4 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - FIBRA DE VIDRIO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B09M51VCLX{{</world>}}
