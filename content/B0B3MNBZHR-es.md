@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'C&A Leggings para mujer  ajustados  lisos  ropa térmica  Negro   L'
-date: 2023-01-18 10:32:56
+date: 2023-01-21 06:25:04
 image: 'https://m.media-amazon.com/images/I/314Qr5yUhtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Colección: moda de maternidad - C&A Mama
 - Forma de la pierna: ajustada, corte ajustado con abertura estrecha de la pierna
+- Mallas térmicas elásticas para maternidad de punto liso con cintura elástica superior. Forro polar cálido en el interior.
+- Longitud: longitud normal
 - Lavar en ciclo normal a 40 °C, no usar lejía, secar en secadora a baja temperatura, planchar a máx. 150° (nivel 2), no limpiar en seco
 - Tipo de cintura: cintura elástica
-- Colección: moda de maternidad - C&A Mama
-- Longitud: longitud normal
-- Mallas térmicas elásticas para maternidad de punto liso con cintura elástica superior. Forro polar cálido en el interior.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3MNBZHR{{</world>}}
