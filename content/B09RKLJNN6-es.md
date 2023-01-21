@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Esprit 092ea1q301 Bufanda de Moda  Terracota  Talla única para Mujer'
-date: 2023-01-19 21:27:06
+date: 2023-01-20 22:51:29
 image: 'https://m.media-amazon.com/images/I/31XONSWG2BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Esprit'
 buyurl: 'https://www.amazon.es/dp/B09RKLJNN6/?tag=tolees-21'
 descuento: '50.02'
-average: '14.97'
+average: '14.9766666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Flecos largos en los bordes cortos
 - Esta bufanda gruesa es inmejorablemente suave – sensación de peluche en todas partes.
+- Flecos largos en los bordes cortos
 - Denominación: bufanda gruesa con flecos
 - Marca: ESPRIT_Casual
 - Material con acabado suave
