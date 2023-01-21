@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Natura Siberica - Jabón Exfoliante Corporal Yuzu y Feijoa 110 ml'
-date: 2023-01-20 12:50:19
+date: 2023-01-21 14:39:18
 image: 'https://m.media-amazon.com/images/I/41uJhp4JpfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

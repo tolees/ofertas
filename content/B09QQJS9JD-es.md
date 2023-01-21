@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Short Sleeve Crew Neck
 - camiseta crew neck. short sleeve. estampado con logotipo de pepe vaquero. Ajuste normal
+- Short Sleeve Crew Neck
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QQJS9JD{{</world>}}

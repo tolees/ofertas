@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura alta, ajustada con doble banda en una banda elástica azul y negra, fabricada con materiales duraderos y reciclados
 - BLUE BLACK USED
+- Cintura alta, ajustada con doble banda en una banda elástica azul y negra, fabricada con materiales duraderos y reciclados
 - Fabricado con materiales sostenibles y reciclados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
