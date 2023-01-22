@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials Chaqueta Plumífero Resistente al Agua  Ligera y Plegable Hombre  Carbón Mezcla  M'
-date: 2023-01-20 14:52:09
+date: 2023-01-22 17:54:07
 image: 'https://m.media-amazon.com/images/I/41m8igHsvxS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
