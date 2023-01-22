@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Whirlibird Watch Cap Beanie - Gorro de Invierno Unisex  Color Azul  Talla única'
-date: 2023-01-19 09:28:33
+date: 2023-01-22 11:44:50
 image: 'https://m.media-amazon.com/images/I/41c6FUJ4dQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B00JL8HXT8/?tag=tolees-21'
 descuento: '40.33'
-average: '9.13'
+average: '9.085'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

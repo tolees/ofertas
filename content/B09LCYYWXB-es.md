@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 94% Polyester / 6% Spandex
 - Tejido elástico en cuatro direcciones con revestimiento DWR
 - Corte recto
+- 94% Polyester / 6% Spandex
 - Bolsillos laterales con malla y bolsillo trasero con cierre cierre de velcro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

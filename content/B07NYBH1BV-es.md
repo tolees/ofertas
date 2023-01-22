@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goodthreads Jersey de Algodón Suave con Cuello Redondo Hombre  Tigre  S'
-date: 2023-01-21 11:18:25
+date: 2023-01-22 11:26:51
 image: 'https://m.media-amazon.com/images/I/41zZVU4M4qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una marca de Amazon
-- Filato mediamente pesante in fibra naturale super morbido
 - Holgado en el pecho y entallado en la cintura
+- Filato mediamente pesante in fibra naturale super morbido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NYBH1BV{{</world>}}

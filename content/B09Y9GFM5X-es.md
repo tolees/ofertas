@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello redondo acanalado
+- Impresión G-Star RAW de alta calidad en el pecho
+- Gstar raw; G-star-raw; Hombre; Camisetas; Camisetas; Camisetas; Camisetas; Camiseta; Hombre; Camiseta; Camiseta larga; Deportiva; Hombre; Denim; Camiseta holgada; Corte holgado; Corte holgado; Ajuste holgado
 - Dobladillo redondeado
 - Manga corta, corte recto, dobladillo fijo
-- Cuello redondo acanalado
-- Gstar raw; G-star-raw; Hombre; Camisetas; Camisetas; Camisetas; Camisetas; Camiseta; Hombre; Camiseta; Camiseta larga; Deportiva; Hombre; Denim; Camiseta holgada; Corte holgado; Corte holgado; Ajuste holgado
-- Impresión G-Star RAW de alta calidad en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09Y9GFM5X{{</world>}}
