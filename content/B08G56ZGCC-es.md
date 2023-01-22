@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '3rd Avenue Pack de guitarra clásica española de tamaño estándar 4/4 con cuerdas de nylon para principiantes de 3rd Avenue  funda de transporte  cuerdas de repuesto y afinador digital  Negro'
-date: 2023-01-21 11:32:07
+date: 2023-01-22 15:20:26
 image: 'https://m.media-amazon.com/images/I/41j8YaLTaiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Chronos Before the Ashes - Switch'
-date: 2023-01-19 07:01:32
+date: 2023-01-22 14:13:29
 image: 'https://m.media-amazon.com/images/I/51LPNisHp0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaque fois que le héros meurt, il vieillit dun an. Vous devrez donc vous adapter au vieillissement du personnage à mesure de votre progression.
-- Combat avancé - un large choix darmes, de compétences et de pouvoirs est à disposition du joueur pour mener à bien sa quête.
-- Rpg daventure - un mélange rafraîchissant déléments de jeux daventure et de mécaniques de rpg.
+- unique aging mechanic - every time the player dies they Age one year. Players must adapt to their advancing Age as they progress their character
+- Adventure RPG - refreshing combination of adventure game elements and RPG mechanics
+- starting the game young, nimble and quick, and ending wise and more attuned to magic
+- deep combat - A variety of weapons, abilities and powers are available to the player in the pursuit of their quest
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P1BTCKR{{</world>}}
