@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Atwood  Zapatillas Hombre  Canvas Oxblood/White  43 EU'
-date: 2023-01-08 03:17:02
+date: 2023-01-22 21:50:19
 image: 'https://m.media-amazon.com/images/I/31zrwT4FOoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Moda','Moda Hombre','Zapatillas casual para hombre','Zapatillas y calza
 actualPrice: 40.79 EUR
 currency: EUR
 price: 40.79
-comparePrice: 69.95 EUR
+comparePrice: 65.0 EUR
 prodname: 'Vans Atwood  Zapatillas Hombre  Canvas Oxblood/White  43 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B00CJWQVJQ/?tag=tolees-21'
-descuento: '41.69'
-average: '49.052300884956'
+descuento: '37.25'
+average: '48.9225619834713'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -31,3 +31,4 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 27.95€
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B00CJWQVJQ{{</world>}}
