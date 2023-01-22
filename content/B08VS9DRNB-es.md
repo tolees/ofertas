@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas SQ21 DT SHO Y Shorts  Unisex Kids  Black/White  1112'
-date: 2023-01-09 10:00:11
+date: 2023-01-22 09:01:06
 image: 'https://m.media-amazon.com/images/I/31ixUpZZhQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido transpirable
 - Ofrece comodidad y libertad de movimiento
-- Tiene detalles distintivos de la marca
 - Ajuste regular
+- Tejido transpirable
+- Tiene detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B08VS9DRNB{{</world>}}

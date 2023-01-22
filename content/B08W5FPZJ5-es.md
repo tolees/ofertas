@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Colecciona los personajes de la saga y adéntrate en el mundo de Harry Potter
-- Modelos surtidos que se sirven de manera aleatoria
 - 24 figuras para coleccionar con doble uso (figura + sello)
 - Producto distribuido en España por Bizak; servicio atención al cliente disponible todo el año (sat@bizak.es)
+- Modelos surtidos que se sirven de manera aleatoria
 - Figuras edición coleccionista de Harry Potter
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
