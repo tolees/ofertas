@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ranura interna y solapa de identificación
-- Placa de metal
-- Exterior de piel sintética con interior de poliéster
 - Detalles de costura exterior
+- Exterior de piel sintética con interior de poliéster
+- Placa de metal
 - Diseño triple plegable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

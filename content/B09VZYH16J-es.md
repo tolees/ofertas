@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HEAD Tour Team Padel Monstercombi'
-date: 2023-01-20 22:36:26
+date: 2023-01-21 23:15:58
 image: 'https://m.media-amazon.com/images/I/413jaFAQS6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
