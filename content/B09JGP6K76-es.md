@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de encaje para un ajuste cómodo
 - Se utiliza como un casual
+- Cierre de encaje para un ajuste cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09JGP6K76{{</world>}}
