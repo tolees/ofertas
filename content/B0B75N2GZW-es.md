@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajustable en ángulo de inclinación
-- Conectividad multipuerto: USB Tipo-C multifunción, HDMI, DisplayPort y puerto de carga
-- Controlador joystick de 5 direcciones con 6 modos de visualización: P3, sRGB, HDR, Juego, eBook y personalizado
-- Certificación TÜV Rheinland Flicker Free (anti parpadeo) y de filtro de luz azul para un mayor confort visual y la eliminación de los reflejos y SGS antifatiga
-- Tecnolgía HDR, 16.7 milliones de colores, contraste de 1000:1 ángulo 178º, imágen de calidad cinematográfica 90% DCI-P3
 - Pantalla IPS de 23,8" de marcos reducidos, resolución FullHD (1920 x 1080 píxeles, 93 píxeles por pulgada (PPI)), 75 Hz, 5ms, AMD FreeSync, 16:9, brillo de 250 nits, 16:9, ratio pantalla cuerpo 92%
+- Conectividad multipuerto: USB Tipo-C multifunción, HDMI, DisplayPort y puerto de carga
+- Ajustable en ángulo de inclinación
+- Certificación TÜV Rheinland Flicker Free (anti parpadeo) y de filtro de luz azul para un mayor confort visual y la eliminación de los reflejos y SGS antifatiga
+- Controlador joystick de 5 direcciones con 6 modos de visualización: P3, sRGB, HDR, Juego, eBook y personalizado
+- Tecnolgía HDR, 16.7 milliones de colores, contraste de 1000:1 ángulo 178º, imágen de calidad cinematográfica 90% DCI-P3
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B75N2GZW{{</world>}}

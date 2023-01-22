@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston FURY Beast 16GB 3200MHz DDR4 CL16 Memoria para Ordenadores de sobremesa Módulo único KF432C16BB1/16'
-date: 2023-01-13 16:36:15
+date: 2023-01-22 12:21:01
 image: 'https://m.media-amazon.com/images/I/31HXLUm6oIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B097K2MRS3-es Kingston FURY Beast 16GB 3200MHz DDR4 CL16 Memoria para...'
 sku: 'B097K2MRS3-es'
 tags: [ 'Componentes','Dispositivos internos','Informática','Memoria principal','kingston','🇪🇸', ]
-actualPrice: 46.98 EUR
+actualPrice: 45.99 EUR
 currency: EUR
-price: 46.98
+price: 45.99
 comparePrice: 95.99 EUR
 prodname: 'Kingston FURY Beast 16GB 3200MHz DDR4 CL16 Memoria para Ordenadores de sobremesa Módulo único KF432C16BB1/16'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.es/dp/B097K2MRS3/?tag=tolees-21'
-descuento: '51.06'
-average: '61.7675'
+descuento: '52.09'
+average: '60.0144444444444'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -31,7 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Actualización de DDR4 rentable y de alto rendimiento
 - Compatible con XMP de Intel
 - Diseño de disipador de calor de perfil bajo
-- Funcionalidad Plug N Play
 - Compatible con AMD Ryzen
+- Funcionalidad Plug N Play
 
 [🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B097K2MRS3{{</world>}}
