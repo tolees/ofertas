@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'hummel HMLGO COTTON T-SHIRT S/S Color: BLACK Talla: XL'
-date: 2023-01-20 19:57:04
+date: 2023-01-23 05:54:00
 image: 'https://m.media-amazon.com/images/I/31vqC0j5oRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mangas deportivas
 - Logotipo impreso sutilmente
+- Mangas deportivas
 - Sensación suave
 - Hummel destaca por la ropa deportiva escandinava de alta calidad y se caracteriza por diseños deportivos y rectos en looks extravantes con combinaciones de colores llamativos
 
