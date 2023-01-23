@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SELECTA VISION - Dragon Ball Super. Box 6 [DVD]'
-date: 2023-01-19 22:11:43
+date: 2023-01-23 15:44:32
 image: 'https://m.media-amazon.com/images/I/61+N3jk9TNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Anime','Ciencia ficción','DVD','Featured Categories','Joyería y maqui
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2
-comparePrice: 17.99 EUR
+comparePrice: 16.49 EUR
 prodname: 'SELECTA VISION - Dragon Ball Super. Box 6 [DVD]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SELECTA VISION'
 buyurl: 'https://www.amazon.es/dp/B07NNMNK6M/?tag=tolees-21'
-descuento: '59.98'
-average: '18.817272727273'
+descuento: '56.34'
+average: '18.6438805970152'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
