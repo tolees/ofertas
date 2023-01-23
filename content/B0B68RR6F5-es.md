@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch - The DioField Chronicle'
-date: 2023-01-18 15:33:45
+date: 2023-01-23 02:06:37
 image: 'https://m.media-amazon.com/images/I/51WYSvahzcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B68RR6F5-es Koch - The DioField Chronicle'
 sku: 'B0B68RR6F5-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Videojuegos','koch','🇪🇸', ]
-actualPrice: 34.99 EUR
+actualPrice: 28.99 EUR
 currency: EUR
-price: 34.99
+price: 28.99
 comparePrice: 62.99 EUR
 prodname: 'Koch - The DioField Chronicle'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Koch'
 buyurl: 'https://www.amazon.es/dp/B0B68RR6F5/?tag=tolees-21'
-descuento: '44.45'
-average: '34.99'
+descuento: '53.98'
+average: '31.99'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
