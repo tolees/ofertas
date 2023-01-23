@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmverodona LS Jacket Noos Abrigo  Gris  Light Grey Melange Light Grey Melange   42  Talla del Fabricante: Large  para Mujer'
-date: 2023-01-17 06:19:46
+date: 2023-01-23 09:10:42
 image: 'https://m.media-amazon.com/images/I/41ktawTdEoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B079NFP78B-es Vero Moda Vmverodona LS Jacket Noos Abrigo Gris Light Grey...'
 sku: 'B079NFP78B-es'
 tags: [ 'Abrigos para mujer','Moda','Moda Mujer','Ropa de abrigo para mujer','Ropa de mujer','vero moda','🇪🇸', ]
-actualPrice: 35.19 EUR
+actualPrice: 27.69 EUR
 currency: EUR
-price: 35.19
+price: 27.69
 comparePrice: 59.99 EUR
 prodname: 'Vero Moda Vmverodona LS Jacket Noos Abrigo  Gris  Light Grey Melange Light Grey Melange   42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vero Moda'
 buyurl: 'https://www.amazon.es/dp/B079NFP78B/?tag=tolees-21'
-descuento: '41.34'
-average: '35.173076923077'
+descuento: '53.84'
+average: '34.6385714285715'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

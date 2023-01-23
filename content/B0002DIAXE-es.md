@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EXO TERRA Lámpara de Cerámica Calefactora de 60 W'
-date: 2023-01-19 17:02:54
+date: 2023-01-23 10:50:28
 image: 'https://m.media-amazon.com/images/I/51wV5jHUS8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Elemento cerámico sólido, adecuado para ambientes húmedos
 - 100% de eficiencia de calor
 - No emite luz, no interfiere con los períodos normales (día / noche)
-- Elemento cerámico sólido, adecuado para ambientes húmedos
 - Emite un calor infrarrojo "similar al sol" natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})

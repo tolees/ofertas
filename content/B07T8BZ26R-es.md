@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eleven Force Date First Dates The Game  12197   Multicolor'
-date: 2023-01-21 19:01:46
+date: 2023-01-23 10:54:55
 image: 'https://m.media-amazon.com/images/I/51xg5P6GjxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Eleven Force'
 buyurl: 'https://www.amazon.es/dp/B07T8BZ26R/?tag=tolees-21'
 descuento: '52.26'
-average: '9.02346938775516'
+average: '9.08120000000006'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Inspirado en el programa n°1 de tv
 - Party Game
-- First Dates The Game
-- Edad recomendada 18+. 4-10 jugadores; versión en castellano
 - Preguntas incómodas para citas inesperadas; prepárate para una cita que jamás olvidarás
+- Edad recomendada 18+. 4-10 jugadores; versión en castellano
+- Inspirado en el programa n°1 de tv
+- First Dates The Game
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07T8BZ26R{{</world>}}
