@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Graceful Get Connected  Zapatillas Mujer  Black Mesh Rose Gold Trim  39 EU'
-date: 2023-01-23 10:38:19
+date: 2023-01-24 10:46:38
 image: 'https://m.media-amazon.com/images/I/41r5tjWBnnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07SZFGQ18/?tag=tolees-21'
 descuento: '45.56'
-average: '46.1783333333333'
+average: '46.0758227848101'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
