@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE CW6122 M NK Dry ACD21 Pant KPZ Pants Mens Obsidian/White/White/White M'
-date: 2023-01-19 08:18:51
+date: 2023-01-24 17:01:15
 image: 'https://m.media-amazon.com/images/I/310N-bl6IHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B08QWCMC41/?tag=tolees-21'
 descuento: '50.13'
-average: '19.2'
+average: '18.6166666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte cónico
-- Material resistente y duradero
-- Tecnología Dri-Fit
 - Cintura elástica con cordón
+- Material resistente y duradero
+- Corte cónico
+- Tecnología Dri-Fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QWCMC41{{</world>}}

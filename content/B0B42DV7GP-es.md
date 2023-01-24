@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 2 unidades
 - Pack de 2 camisetas de manga corta para hombre, cuello redondo, tamaño grande
+- 2 unidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B42DV7GP{{</world>}}
