@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte de malla
 - Zapatos
 - Espuma plantilla da una sensación suave, felpa bajo el pie
-- Parte de malla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09L5HRTYT{{</world>}}
