@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Energy Sistem Auriculares inalámbricos Sport 6 True Wireless Navy  True Wireless Stereo  IPX 7  Secure fit+  Bluetooth '
-date: 2023-01-14 19:44:05
+date: 2023-01-24 14:34:38
 image: 'https://m.media-amazon.com/images/I/31xC1tR1XKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Energy Sistem'
 buyurl: 'https://www.amazon.es/dp/B0845CBC5M/?tag=tolees-21'
 descuento: '69.96'
-average: '37.132'
+average: '34.4433333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -31,3 +31,4 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Az
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0845CBC5M{{</world>}}
