@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Cecotec Purificador de Aire TotalPure 7500 Connected. 60 W  Bajo Consumo  600 CADR  3 Procesos de Filtración  Pantalla LED  4 Velocidades  Control por Wi-Fi  Cobertura 200 m3'
+date: 2023-01-24 08:10:37
+image: 'https://m.media-amazon.com/images/I/31EngJGeE9L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08B1RPKV3-es Cecotec Purificador de Aire TotalPure 7500 Connected. 60 W...'
+sku: 'B08B1RPKV3-es'
+tags: [ 'Climatización y calefacción','Hogar y cocina','Purificadores de aire','cecotec','🇪🇸', ]
+actualPrice: 99.97 EUR
+currency: EUR
+price: 99.97
+comparePrice: 249.9 EUR
+prodname: 'Cecotec Purificador de Aire TotalPure 7500 Connected. 60 W  Bajo Consumo  600 CADR  3 Procesos de Filtración  Pantalla LED  4 Velocidades  Control por Wi-Fi  Cobertura 200 m3'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Cecotec'
+buyurl: 'https://www.amazon.es/dp/B08B1RPKV3/?tag=tolees-21'
+descuento: '60.00'
+average: '99.97'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- El purificador cuenta con sensor PM 2,5, un sensor de concentración de partículas contaminantes y perjudiciales para la salud, principalmente de emisiones industriales. Con la información obtenida gracias a este sensor, el purificador muestra la calidad del aire mediante una escala de 4 colores, siendo azul el mejor y rojo el peor.
+- Sus 3 procesos de filtración a través del prefiltro, el filtro de carbono activo y el filtro de alta eficiencia, minimizan la cantidad de partículas nocivas para la salud existentes en el aire. Su motor DC maximiza la eficiencia durante el proceso de purificación y permite un mejor control de las velocidades y los modos. La potencia de 60 W es suficiente para garantizar un correcto funcionamiento del purificador además de un bajo consumo eléctrico.
+- Gran CADR capaz de filtrar y limpiar 600 m3/h de aire de la estancia en la cual se encuentra ubicado. Su gran volumen de cobertura de 200 m3 convierte a este purificador en el mejor aliado para eliminar las partículas nocivas del aire de una habitación o de un pequeño cuarto de estar.
+- Las distintas configuraciones de funcionamiento del purificador se realizan de manera táctil gracias al panel de control ubicado en su cara superior. Las 4 velocidades del purificador (Eco, Baja, Media y Alta) permiten adaptar su funcionamiento según la necesidad en cada situación.
+- Su control por Wi-Fi mediante un Smartphone y su aplicación EnergySilence, permiten seleccionar las distintas configuraciones de funcionamiento del purificador y conocer los datos que es capaz de medir. El modo Noche permite continuar purificando el aire reduciendo al mínimo la velocidad y los decibelios, por lo que se puede utilizar mientras se descansa.
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B08B1RPKV3{{</world>}}
