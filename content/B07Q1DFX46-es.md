@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials Abrigo Plumífero con Capucha de Alta Densidad Hombre estándar  Negro  M'
-date: 2023-01-24 19:01:46
+date: 2023-01-25 20:16:24
 image: 'https://m.media-amazon.com/images/I/41MdfqqJtfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazon Essentials'
 buyurl: 'https://www.amazon.es/dp/B07Q1DFX46/?tag=tolees-21'
 descuento: '49.99'
-average: '35.47'
+average: '30.8133333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
