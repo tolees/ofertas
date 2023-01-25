@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'C&A Chaqueta de punto para mujer  de forro polar  jaspeado  corte ajustado  Melange De Color Gris Claro  M'
-date: 2023-01-18 08:50:30
+date: 2023-01-25 19:21:17
 image: 'https://m.media-amazon.com/images/I/315MEr-nRnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre: cremallera
-- Forma del cuello: cuello alto
-- Chaqueta de forro polar suave con bolsillo canguro dividido.
-- Corte: corte entallado, corte delgado
 - Lavar en ciclo suave a 30 °C, no usar lejía, no secar en secadora, planchar a máx. 110° (nivel 1), no limpiar en seco
-- Colección: Colección Basic
-- Longitud de la manga: manga larga
 - Longitud: longitud normal
+- Colección: Colección Basic
+- Chaqueta de forro polar suave con bolsillo canguro dividido.
+- Longitud de la manga: manga larga
+- Forma del cuello: cuello alto
+- Corte: corte entallado, corte delgado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLSCD81F{{</world>}}
