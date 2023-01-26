@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - F.I.S.T Forged in Shadow Torch Limited Edition'
-date: 2023-01-12 07:06:58
+date: 2023-01-26 06:33:35
 image: 'https://m.media-amazon.com/images/I/51gh5v4jNGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09ZLRDQV4/?tag=tolees-21'
 descuento: '40.01'
-average: '30.1471428571428'
+average: '29.7524999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La estética dieselpunk basada en el motor virtual 4
 - Un sistema de combate arcade con cambio continuo entre tres armas
 - Mapas impecables llenos de desafíos para explorar
-- La estética dieselpunk basada en el motor virtual 4
 
 [🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B09ZLRDQV4{{</world>}}
