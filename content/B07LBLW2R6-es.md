@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kappa Lithium T Unisex Kids  Zapatillas Altas  Marrón  Brown/Navy 5067   38 EU'
-date: 2023-01-14 00:35:04
+date: 2023-01-26 19:24:10
 image: 'https://m.media-amazon.com/images/I/41xS42T-jjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kappa'
 buyurl: 'https://www.amazon.es/dp/B07LBLW2R6/?tag=tolees-21'
 descuento: '48.64'
-average: '21.4'
+average: '20.25'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,3 +30,4 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B07LBLW2R6{{</world>}}
