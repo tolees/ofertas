@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Babaria – Crema de manos con aceite de semilla de cannabis – 50 ml'
-date: 2023-01-25 13:51:00
+date: 2023-01-26 14:34:10
 image: 'https://m.media-amazon.com/images/I/41xRvfTfDmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Nutre e hidrata intensamente las manos
 - Crema de manos con aceite de cannabis
+- Absorción inmediata
 - Sensación de alivio, confort y bienestar sobre la piel
 - Absorción inmediata
-- Absorción inmediata
-- Nutre e hidrata intensamente las manos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07G6WPBWG{{</world>}}
