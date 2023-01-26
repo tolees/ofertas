@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Munich Tip  Zapatillas Hombre  Azul  40 EU'
-date: 2023-01-26 08:33:33
-image: 'https://m.media-amazon.com/images/I/31D9AryxOxL._SL500_._SL400_.jpg'
+title: 'Munich Legit  Zapatillas Unisex Adulto  Verde  41 EU'
+date: 2023-01-26 08:33:24
+image: 'https://m.media-amazon.com/images/I/31JxGOUoEkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07ZK5GDJG-es Munich Tip Zapatillas Hombre Azul 40 EU'
-sku: 'B07ZK5GDJG-es'
+slug: 'B07ZK4VQ5V-es Munich Legit Zapatillas Unisex Adulto Verde 41 EU'
+sku: 'B07ZK4VQ5V-es'
 tags: [ 'Moda','Moda Hombre','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos para hombre','munich','🇪🇸', ]
-actualPrice: 37.97 EUR
+actualPrice: 36.0 EUR
 currency: EUR
-price: 37.97
-comparePrice: 85.95 EUR
-prodname: 'Munich Tip  Zapatillas Hombre  Azul  40 EU'
+price: 36.0
+comparePrice: 72.0 EUR
+prodname: 'Munich Legit  Zapatillas Unisex Adulto  Verde  41 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Munich'
-buyurl: 'https://www.amazon.es/dp/B07ZK5GDJG/?tag=tolees-21'
-descuento: '55.82'
-average: '41.29'
+buyurl: 'https://www.amazon.es/dp/B07ZK4VQ5V/?tag=tolees-21'
+descuento: '50.00'
+average: '36.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -32,4 +32,4 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Diseño ligero y flexible que ofrece comodidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
-{{<world>}}B07ZK5GDJG{{</world>}}
+{{<world>}}B07ZK4VQ5V{{</world>}}
