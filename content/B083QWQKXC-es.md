@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AONOKA - Regleta 6 Enchufes USB Regletas Enchufes 6 Tomas 4 USB con Interruptor y Protección contra Sobrecargas Montable Pared Alargador Enchufes Multiples Para Bebes ladron Enchufes Modernos 1 5m Negro'
-date: 2023-01-15 18:02:52
+date: 2023-01-27 20:10:30
 image: 'https://m.media-amazon.com/images/I/41tGCW2Tq1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'AONOKA'
 buyurl: 'https://www.amazon.es/dp/B083QWQKXC/?tag=tolees-21'
 descuento: '35.46'
-average: '27.7753333333332'
+average: '27.6267213114753'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Protección de seguridad múltiple: la regleta de alimentación con puertos de carga USB cumple con las certificaciones CE/RoHS, también puede garantizar sobrecarga, sobrecorriente, cortocircuito, protección infantil y protección contra sobretemperatura para garantizar la seguridad de los dispositivos conectados. 100 % cobre puro y PC+ABS V0 clasificación de resistencia al fuego UL94 material ignífugo que elimina eficazmente los peligros ocultos.
 - Regletas enchufes con interruptor: regleta con interruptor de seguridad iluminado. Control de un botón, solo necesita presionar el interruptor para apagar la alimentación en los enchufes y puertos USB. Enchufes con conexión a tierra en disposición de 45°, diseño de montaje en pared y para brindarle un escritorio limpio y bien organizado.
 - Regleta enchufes proteccion sobretension: cada enchufe de la regleta de enchufes tiene una cubierta de seguridad para niños en el interior, mientras que las cubiertas de seguridad protegen a sus hijos y mascotas de cada enchufe no utilizado. La regleta con protección contra sobretensiones en color negro es ideal para conectar ordenadores, televisores, impresoras, etc. Garantía de 18 meses, es la garantía de confianza de calidad.
 - Función de carga USB inteligente: los 4 puertos USB son chips inteligentes integrados. Puede detectar automáticamente sus dispositivos y suministra la corriente de hasta 2,4 A máx. por conexión. Las 4 tomas de carga Smart USB también le ayudan a ahorrar ranuras.Conéctese de forma flexible en casa y en el taller.
 - Regletas enchufes con USB de 6 vías: regleta enchufes con 6 tomas (16A/4000W) y 4 puertos USB. Regleta de enchufes con cable de 1,5 m de longitud H05VV-F 3G1,5 mm² y protección aumentada contra contactos accidentales. ideal para el hogar, la oficina, el taller y mucho más.
-- Protección de seguridad múltiple: la regleta de alimentación con puertos de carga USB cumple con las certificaciones CE/RoHS, también puede garantizar sobrecarga, sobrecorriente, cortocircuito, protección infantil y protección contra sobretemperatura para garantizar la seguridad de los dispositivos conectados. 100 % cobre puro y PC+ABS V0 clasificación de resistencia al fuego UL94 material ignífugo que elimina eficazmente los peligros ocultos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B083QWQKXC{{</world>}}

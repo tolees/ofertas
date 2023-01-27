@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taurus Foodie-Robot de Cocina multifunción Recetas Incluido  31 Funciones  Báscula integrada  Libre de BPA  1500 W  3.5 litros  44 Decibeles  Acero Inoxidable  Negro INOX'
-date: 2023-01-21 17:33:36
+date: 2023-01-27 20:48:10
 image: 'https://m.media-amazon.com/images/I/41JnTMhCyaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08DS2J87F-es Taurus Foodie-Robot de Cocina multifunción Recetas...'
 sku: 'B08DS2J87F-es'
 tags: [ 'Batidoras, robots de cocina y minipicadoras','Hogar y cocina','Pequeño electrodoméstico','Robots de cocina','Robots de cocina y minipicadoras','taurus','🇪🇸', ]
-actualPrice: 189.0 EUR
+actualPrice: 197.51 EUR
 currency: EUR
-price: 189.0
+price: 197.51
 comparePrice: 379.0 EUR
 prodname: 'Taurus Foodie-Robot de Cocina multifunción Recetas Incluido  31 Funciones  Báscula integrada  Libre de BPA  1500 W  3.5 litros  44 Decibeles  Acero Inoxidable  Negro INOX'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Taurus'
 buyurl: 'https://www.amazon.es/dp/B08DS2J87F/?tag=tolees-21'
-descuento: '50.13'
-average: '219.580714285715'
+descuento: '47.89'
+average: '218.819655172414'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
