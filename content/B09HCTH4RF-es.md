@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Disputez de féroces combats tactiques tandis que vous menez Daryon et Sélène dans leur quête pour trouver un remède à limplacable Fièvre du Métal.
+- Désormais, une menace encore plus grande est apparue : Les envahisseurs ont libéré la Corrosion, une maladie mortelle transformant toute forme de vie en abominations difformes.
+- Explorez un monde gigantesque dans cette fable épique et captivante, un RPG de stratégie avec des combats dynamiques au tour par tour rassemblant les traditions japonaises et occidentales du RPG
 - Le monde dHeryon est déchiré, larrivée dune mystérieuse force extraterrestre a fini par plonger la planète dans une guerre cataclysmique sans fin, où magie et technologie se sont déchaînées
 - En ces temps désespérés, un jeune soldat devra affronter son destin et se lancer dans un voyage épique qui changera à jamais le destin dHeryon…
-- Explorez un monde gigantesque dans cette fable épique et captivante, un RPG de stratégie avec des combats dynamiques au tour par tour rassemblant les traditions japonaises et occidentales du RPG
-- Désormais, une menace encore plus grande est apparue : Les envahisseurs ont libéré la Corrosion, une maladie mortelle transformant toute forme de vie en abominations difformes.
-- Disputez de féroces combats tactiques tandis que vous menez Daryon et Sélène dans leur quête pour trouver un remède à limplacable Fièvre du Métal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HCTH4RF{{</world>}}
