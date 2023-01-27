@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vaqueros en color negro de la marca danesa Jack & Jones. Tamaño: estándar
 - Somos un miembro de la iniciativa Better Cotton Initiativa; el algodón Better Cotton se ha sourced via a un sistema de masa de equilibrio
+- Vaqueros en color negro de la marca danesa Jack & Jones. Tamaño: estándar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B099X6F8NR{{</world>}}

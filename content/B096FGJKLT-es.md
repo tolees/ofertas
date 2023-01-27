@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Mujer Zapatillas de senderismo  TRAILSTORM MID WATERPROOF'
-date: 2023-01-26 15:01:22
+date: 2023-01-27 15:11:23
 image: 'https://m.media-amazon.com/images/I/51mnZs4Q1wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
