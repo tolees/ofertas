@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Eggo Long N T-Shirt  Negro  Black   XXL para Hombre'
-date: 2023-01-23 11:28:54
+date: 2023-01-28 06:32:59
 image: 'https://m.media-amazon.com/images/I/31gzs9OGHLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00DJ81IR4/?tag=tolees-21'
 descuento: '44.01'
-average: '19.4325'
+average: '19.2741176470588'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular
 - Camiseta manga larga cuello redondo
+- Ajuste regular
 - Hecho con algodón 100% sostenible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
