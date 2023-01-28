@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EXO TERRA Lámpara de Cerámica Calefactora de 60 W'
-date: 2023-01-23 10:50:28
+date: 2023-01-28 13:04:28
 image: 'https://m.media-amazon.com/images/I/51wV5jHUS8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0002DIAXE-es EXO TERRA Lámpara de Cerámica Calefactora de 60 W'
 sku: 'B0002DIAXE-es'
 tags: [ 'Artículos para reptiles y anfibios','Focos para terrarios','Iluminación del hábitat','Productos para mascotas','exo terra','🇪🇸', ]
-actualPrice: 29.38 EUR
+actualPrice: 29.36 EUR
 currency: EUR
-price: 29.38
+price: 29.36
 comparePrice: 51.38 EUR
 prodname: 'EXO TERRA Lámpara de Cerámica Calefactora de 60 W'
 country: 'es'
 flag: '🇪🇸'
 brand: 'EXO TERRA'
 buyurl: 'https://www.amazon.es/dp/B0002DIAXE/?tag=tolees-21'
-descuento: '42.82'
-average: '29.38'
+descuento: '42.86'
+average: '29.3733333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elemento cerámico sólido, adecuado para ambientes húmedos
-- 100% de eficiencia de calor
-- No emite luz, no interfiere con los períodos normales (día / noche)
 - Emite un calor infrarrojo "similar al sol" natural
+- No emite luz, no interfiere con los períodos normales (día / noche)
+- 100% de eficiencia de calor
+- Elemento cerámico sólido, adecuado para ambientes húmedos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0002DIAXE{{</world>}}
