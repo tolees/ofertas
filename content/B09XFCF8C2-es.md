@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM de 16GB SO-DIMM LPDDR4x
+- Procesador Intel Core i5-1135G7 (4C/QuadCore 2.4 / 4.2GHz, 8MB)
 - Pantalla de 13.3" Full HD 1920 x 1080 pixeles OLED 400 nits
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Procesador Intel Core i5-1135G7 (4C/QuadCore 2.4 / 4.2GHz, 8MB)
-- Sin Sistema Operativo
+- Memoria RAM de 16GB SO-DIMM LPDDR4x
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Sin Sistema Operativo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09XFCF8C2{{</world>}}
