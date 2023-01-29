@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ozone Gaming Ground Level Pro M - OZGLPRO - Alfombrilla Gaming  Color Negro'
-date: 2023-01-28 13:40:38
+date: 2023-01-29 13:42:24
 image: 'https://m.media-amazon.com/images/I/21O50kpIegL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ozone Gaming'
 buyurl: 'https://www.amazon.es/dp/B079PN49YK/?tag=tolees-21'
 descuento: '49.37'
-average: '7.77'
+average: '7.86333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Borde cosido. Color negro
 - Base goma antideslizante. Dimensiones 450x400x4mm
 - Laterales reforzados. Superficie tela
+- Borde cosido. Color negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079PN49YK{{</world>}}

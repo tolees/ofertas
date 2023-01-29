@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston NV1 NVMe PCIe SSD 2000GB M.2 2280 - SNVS/2000G'
-date: 2023-01-28 12:24:49
+date: 2023-01-29 13:24:34
 image: 'https://m.media-amazon.com/images/I/414XGY7U3eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rendimiento del disco SSD PCIe NVMe
-- Adecuado para portátiles y equipos PC de pequeño factor de forma
-- Código de artículo: SNVS/2000G
-- Disponible en diversas capacidades
+- Multiple Capacities
+- NVMe PCIe SSD Performance
+- Part Number: SNVS/2000G
+- Ideal for laptops & small form factor PCs
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B091BG4HDW{{</world>}}

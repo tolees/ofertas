@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jorbrink tee SS Crew Neck-Camiseta de Manga Corta  2 Unidades   Navy Blazer/Pack:Navy Blazer+White  XL para Hombre'
-date: 2023-01-22 06:19:51
+date: 2023-01-29 14:20:30
 image: 'https://m.media-amazon.com/images/I/21fBrrcRvmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

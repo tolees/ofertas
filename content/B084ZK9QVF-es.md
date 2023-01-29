@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ADECUADO PARA SEXO ORAL, VAGINAL O ANAL: Gracias a su textura suave y ligera, podrás usarlo en cualquier ocasión
-- BASE AGUA: No es graso y puede lavarse fácilmente; para disfrutar de un sexo fluido
 - COMPATIBLE CON PRESERVATIVOS: Este lubricante puede usarse con preservativos de látex, poliisoporeno y poliuretano
-- ORIGINAL: Añade el lubricante H2O a tus relaciones para llevarlas a otra dimensión de manera natural
+- ADECUADO PARA SEXO ORAL, VAGINAL O ANAL: Gracias a su textura suave y ligera, podrás usarlo en cualquier ocasión
 - SUAVE Y LIGERO: Suaviza tus relaciones con este lubricante de base acuosa
+- BASE AGUA: No es graso y puede lavarse fácilmente; para disfrutar de un sexo fluido
+- ORIGINAL: Añade el lubricante H2O a tus relaciones para llevarlas a otra dimensión de manera natural
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084ZK9QVF{{</world>}}
