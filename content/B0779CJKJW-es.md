@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene un pequeño logotipo de Adidas impreso en el pecho
 - Esta hecha de 100% poliéster
+- Tiene un pequeño logotipo de Adidas impreso en el pecho
 - Con el cuello redondeado
 - Camiseta de futbol para hombres
 - Cuenta con mangas cortas
