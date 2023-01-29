@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'ASICS Patriot 13  Zapatilla Hombre  Metropolis/Cherry Tomato  45 EU'
-date: 2023-01-24 10:40:54
-image: 'https://m.media-amazon.com/images/I/41Hu5BRalUL._SL500_._SL400_.jpg'
+date: 2023-01-28 23:54:12
+image: 'https://m.media-amazon.com/images/I/41X5jPnnDML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASICS'
 buyurl: 'https://www.amazon.es/dp/B0B56TFKX8/?tag=tolees-21'
 descuento: '36.52'
-average: '42.2715384615385'
+average: '42.1992857142858'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Costuras reforzadas en los dedos del pie
-- Parte superior de malla
 - Amortiguación EVA
+- Parte superior de malla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B56TFKX8{{</world>}}

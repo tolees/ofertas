@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASICS Patriot 13  Zapatilla Hombre  Azure/White  45 EU'
-date: 2023-01-24 10:41:14
+date: 2023-01-28 23:52:12
 image: 'https://m.media-amazon.com/images/I/510wT1aXTZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma con forma
-- Amortiguación y rebote
-- Intersuola con tecnología EVA
+- Cushioning and rebound
+- Shaped rubber sole
+- Intersuola with Eva technology
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1YM1PXT{{</world>}}
