@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Courtright  Zapatillas Hombre  Regular Black  42 EU'
-date: 2023-01-28 19:33:22
+date: 2023-01-29 20:42:08
 image: 'https://m.media-amazon.com/images/I/41jXnx4XIKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BLRBRPB/?tag=tolees-21'
 descuento: '44.00'
-average: '36.3580952380952'
+average: '36.2288372093023'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
