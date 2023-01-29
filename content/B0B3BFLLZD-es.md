@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - The Callisto Protocol Day One Edition'
-date: 2023-01-27 14:17:38
+date: 2023-01-29 05:42:34
 image: 'https://m.media-amazon.com/images/I/41a4nRmPtIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B0B3BFLLZD/?tag=tolees-21'
 descuento: '41.08'
-average: '53.74'
+average: '52.49'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- COMBATE DESPIADADA Y ESTRATÉGICAMENTE
 - DESCUBRE LOS SECRETOS DE LA UNITED JUPITER COMPANY
 - UNA OBRA MAESTRA DEL TERROR
-- COMBATE DESPIADADA Y ESTRATÉGICAMENTE
 - SIENTE LO DESOLADA QUE ESTÁ LA LUNA MUERTA DE JÚPITER
 
 [🛒 Aquí!!!]({{< param buyurl >}})
