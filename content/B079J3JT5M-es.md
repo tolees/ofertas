@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalones de entrenamiento unisex niños
-- Con cintura elástica con cordón para ajuste
-- Ofrecen libertad de movimiento
 - Tienen dos bolsillos laterales con cremallera
+- Con cintura elástica con cordón para ajuste
+- Pantalones de entrenamiento unisex niños
+- Ofrecen libertad de movimiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B079J3JT5M{{</world>}}

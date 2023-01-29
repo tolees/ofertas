@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forma del talón: cordones
-- Parte superior: cuero
-- Material interior: sintético
 - Suela: goma
+- Parte superior: cuero
+- Forma del talón: cordones
+- Material interior: sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084DSFDV9{{</world>}}
