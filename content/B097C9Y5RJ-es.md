@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Twitch Runner  Botas  Unisex adulto  Negro  Puma Black/Asphalt   42 EU'
-date: 2023-01-27 19:20:50
+date: 2023-01-29 11:14:02
 image: 'https://m.media-amazon.com/images/I/31wfSdSEmGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B097C9Y5RJ/?tag=tolees-21'
 descuento: '52.54'
-average: '40.78'
+average: '37.6975'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

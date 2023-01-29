@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: nobuck impermeable, certificado LWG dorado
 - Secado rápido HH
+- Material exterior: nobuck impermeable, certificado LWG dorado
 - Costuras selladas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
