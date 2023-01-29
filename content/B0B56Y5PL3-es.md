@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sole con estructura de plataforma
 - Logotipo de holograma
+- Sole con estructura de plataforma
 - Comodidad y amortiguación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
