@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS · Gafas de sol F18 Unisex Adulto EMERALD FUSION'
-date: 2023-01-28 22:49:23
+date: 2023-01-30 08:38:10
 image: 'https://m.media-amazon.com/images/I/31DSVi-48LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafas de Sol F18, unisex, de diseño sportswear curvado envolvente de marcos rectangulares. Combina una montura bicolor vertical que va de transparente frosted a negro mate de dentro hacia fuera en el frente y del final de la patilla hacia el principio de la misma con lentes iridiscentes en tonos esmeralda, azules y lilas.
-- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
 - Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia. Muy resistente a altas y bajas temperaturas.
 - Lentes en tonos esmeralda, azules y lilas iridiscentes, fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta.
+- Gafas de Sol F18, unisex, de diseño sportswear curvado envolvente de marcos rectangulares. Combina una montura bicolor vertical que va de transparente frosted a negro mate de dentro hacia fuera en el frente y del final de la patilla hacia el principio de la misma con lentes iridiscentes en tonos esmeralda, azules y lilas.
 - Medidas: Frente: 14,4cm, Altura: 3,9cm, Diámetro de la lente: 6cm, Puente: 1,5cm; Varillas: 13,3cm
+- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B085FDPCNW{{</world>}}
