@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jcologan-Sudadera de Cuello Redondo  Azul Marino  M para Hombre'
-date: 2023-01-23 20:25:46
+date: 2023-01-30 02:41:13
 image: 'https://m.media-amazon.com/images/I/31FiyFaGfVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
