@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Hansgrohe 71103000 Logis grifo de lavabo 100 CoolStart sin vaciador automático  cromo'
+date: 2024-02-29 10:32:05
+image: 'https://m.media-amazon.com/images/I/31VN9mNr6QL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00NP2F1V8-es Hansgrohe 71103000 Logis grifo de lavabo 100 CoolStart sin...'
+sku: 'B00NP2F1V8-es'
+tags: [ 'Arborist Merchandising Root','Bricolaje y herramientas','Fontanería de baño','Grifos de lavabo','Grifos de lavabo de baño táctiles','Instalación de baño y cocina','Self Service','Special Features Stores','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_0','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_2001','hansgrohe','🇪🇸', ]
+actualPrice: 59.0 EUR
+currency: EUR
+price: 59.0
+comparePrice: 95.65 EUR
+prodname: 'Hansgrohe 71103000 Logis grifo de lavabo 100 CoolStart sin vaciador automático  cromo'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Hansgrohe'
+buyurl: 'https://www.amazon.es/dp/B00NP2F1V8/?tag=tolees-21'
+descuento: '38.32'
+average: '59.0'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Ecológico y de consumo reducido gracias al limitador de caudal automático a 5 l/min (EcoSmart)
+- Grifo de lavabo con una altura cómoda, para libertad de movimiento en el lavabo (ComfortZone 100)
+- Hansgrohe desde 1901, la marca de calidad para productos de cocina y baño de confianza
+- Ecológico y de consumo reducido gracias al limitador de caudal automático a 5 l/min (EcoSmart)
+- Incluye: cuerpo funcional, manecilla, flexos de conexión, aireador, limitador de temperatura, cartucho cerámico
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B00NP2F1V8{{</world>}}

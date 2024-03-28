@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Helly Hansen The Forester  Botas de senderismo Hombre  Rose Smoke Rose Gold  38 2/3 EU'
+date: 2024-03-23 12:26:14
+image: 'https://m.media-amazon.com/images/I/414G8WlmXmL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09NPZWYXH-es Helly Hansen The Forester Botas de senderismo Hombre Rose...'
+sku: 'B09NPZWYXH-es'
+tags: [ 'Arborist Merchandising Root','Botas para hombre','Moda','Moda Hombre','Self Service','Special Features Stores','Zapatos para hombre','c8538d25-3af9-48d3-aeff-5f3ce5572a36_0','c8538d25-3af9-48d3-aeff-5f3ce5572a36_4501','helly hansen','sharqnid_Helly Hansen','🇪🇸', ]
+actualPrice: 59.24 EUR
+currency: EUR
+price: 59.24
+comparePrice: 140.0 EUR
+prodname: 'Helly Hansen The Forester  Botas de senderismo Hombre  Rose Smoke Rose Gold  38 2/3 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Helly Hansen'
+buyurl: 'https://www.amazon.es/dp/B09NPZWYXH/?tag=tolees-21'
+descuento: '57.69'
+average: '59.24'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Refuerzo de la puntera y el talón.
+- Botas de invierno multifunción más vendidas combinan una estética increíble, piel protectora y herrajes metálicos excepcionales clásicos del senderismo.
+- Es fácil de poner y muy cómoda gracias a la entresuela de EVA.
+- Presenta un diseño atemporal de líneas depuradas e incorpora piel con un tratamiento repelente al agua duradero.
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B09NPZWYXH{{</world>}}

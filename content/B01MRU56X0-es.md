@@ -1,0 +1,41 @@
+---
+layout: post
+title: 'B+W XS-Pro - Filtro  Densidad Neutra ND 1.8 806  Nano  77 mm '
+date: 2024-03-05 14:27:18
+image: 'https://m.media-amazon.com/images/I/3172UP9FZBL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01MRU56X0-es B+W XS-Pro - Filtro Densidad Neutra ND 1.8 806 Nano 77 mm'
+sku: 'B01MRU56X0-es'
+tags: [ '749d7d8e-47fd-431e-8b51-348b70f767e2_0','749d7d8e-47fd-431e-8b51-348b70f767e2_5501','Accesorios de fotografía y videocámaras','Arborist Merchandising Root','Electrónica','Filtros ND fotográficos','Filtros fotográficos','Fotografía y videocámaras','Self Service','Special Features Stores','b+w','🇪🇸', ]
+actualPrice: 63.0 EUR
+currency: EUR
+price: 63.0
+comparePrice: 167.95 EUR
+prodname: 'B+W XS-Pro - Filtro  Densidad Neutra ND 1.8 806  Nano  77 mm '
+country: 'es'
+flag: '🇪🇸'
+brand: 'B+W'
+buyurl: 'https://www.amazon.es/dp/B01MRU56X0/?tag=tolees-21'
+descuento: '62.49'
+average: '66.6'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- capa exterior con tratamiento basado en nanotecnología que repele el agua y suciedad
+- ND puro
+- la absorción de la luz es muy equilibrada en toda el área visible, produciendo imágenes perfectas sin dominantes de color
+- Recubrimiento nano
+- Multitratado
+- manufacturados con un vidrio especial pulido, con efecto ND mejorado gracias a la combinación de 3 tratamientos usando una tecnología de laminado fino específica
+- Alta calidad
+- para evitar reflejos, el tratamiento incluye siete capas anti-reflectantes en cada lado del filtro
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B01MRU56X0{{</world>}}

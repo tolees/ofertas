@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Munich Dash Sky  Zapatillas Mujer  Negro 011  38 EU'
+date: 2024-03-22 00:22:32
+image: 'https://m.media-amazon.com/images/I/41wJgipMQWL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07ZK66S8T-es Munich Dash Sky Zapatillas Mujer Negro 011 38 EU'
+sku: 'B07ZK66S8T-es'
+tags: [ 'Arborist Merchandising Root','Moda','Moda Mujer','Self Service','Special Features Stores','Zapatillas casual para mujer','Zapatillas deportivas y de moda para mujer','Zapatos para mujer','bogdbrin_Camper_Munich','c8538d25-3af9-48d3-aeff-5f3ce5572a36_0','c8538d25-3af9-48d3-aeff-5f3ce5572a36_5201','munich','🇪🇸', ]
+actualPrice: 50.7 EUR
+currency: EUR
+price: 50.7
+comparePrice: 78.0 EUR
+prodname: 'Munich Dash Sky  Zapatillas Mujer  Negro 011  38 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Munich'
+buyurl: 'https://www.amazon.es/dp/B07ZK66S8T/?tag=tolees-21'
+descuento: '35.00'
+average: '50.7'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Tacón: Plano
+- Material exterior: Sintético
+- Tipo de cierre: Cordones
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B07ZK66S8T{{</world>}}

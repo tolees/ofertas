@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Disney Pixar Lightyear Hyperspeed Series Zurg s Mothership'
+date: 2024-03-26 15:21:31
+image: 'https://m.media-amazon.com/images/I/31eQiO6TUOL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09BW3SDB9-es Disney Pixar Lightyear Hyperspeed Series Zurg s Mothership'
+sku: 'B09BW3SDB9-es'
+tags: [ '3-4 años','Arborist Merchandising Root','Juguetes','Juguetes y juegos','Muñecos y figuras','Muñecos y figuras de acción','Self Service','Special Features Stores','b6d17eda-2c26-45ed-a098-453a9f96e839_0','b6d17eda-2c26-45ed-a098-453a9f96e839_1801','disney','🇪🇸', ]
+actualPrice: 16.73 EUR
+currency: EUR
+price: 16.73
+comparePrice: 69.99 EUR
+prodname: 'Disney Pixar Lightyear Hyperspeed Series Zurg s Mothership'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Disney'
+buyurl: 'https://www.amazon.es/dp/B09BW3SDB9/?tag=tolees-21'
+descuento: '76.10'
+average: '19.4982000000001'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Un regalo perfecto inspirado en la película para los fans del espacio y de Lightyear a partir de 4 años.
+- Vuelve a experimentar la emoción de la exploración espacial, los conflictos y el trabajo en equipo de Lightyear de Disney Pixar con este gran vehículo con detalles auténticos: la nave nodriza y centro de mando de Zurg, el principal enemigo de Buzz Lightyear.
+- Recrea escenas de la emocionante aventura de animación con esta nave espacial de unos 51cm de largo. Utiliza el asa de la parte superior para realizar maniobras de vuelo complicadas. Las luces traseras de color verde brillante y los sonidos del motor aportarán realismo cuando representes batallas.
+- Los fans querrán coleccionar todos los vehículos y pilotos de la serie Hipervelocidad de Lightyear para jugar y montar una exposición impresionante. ¡Completa la flota! Cada combinación de vehículo y figura se vende por separado y está sujeta a disponibilidad.
+- Vuela alto y lanza la cápsula de Zyclops. Cuando llegue al suelo, la puerta se abrirá y aparecerá la figura del robot Zyclops, listo para atacar por sorpresa. Dale la vuelta a la nave para recargarla.
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B09BW3SDB9{{</world>}}

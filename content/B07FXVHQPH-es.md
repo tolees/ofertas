@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Levi s 502 Taper  Jeans Hombre  Rock Cod  31W / 30L'
+date: 2024-03-07 22:51:28
+image: 'https://m.media-amazon.com/images/I/41blJ-osv6L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07FXVHQPH-es Levi s 502 Taper Jeans Hombre Rock Cod 31W / 30L'
+sku: 'B07FXVHQPH-es'
+tags: [ 'Arborist Merchandising Root','DD Levis','ES MTBB Group 4','Hasta 30% de descuento en ropa de Levis','Levis','Men Top Brands Bestsellers','Moda','Moda Hombre','Ropa de hombre','Self Service','Special Features Stores','Vaqueros para hombre','c8538d25-3af9-48d3-aeff-5f3ce5572a36_0','c8538d25-3af9-48d3-aeff-5f3ce5572a36_1301','c8538d25-3af9-48d3-aeff-5f3ce5572a36_232602','c8538d25-3af9-48d3-aeff-5f3ce5572a36_2601','c8538d25-3af9-48d3-aeff-5f3ce5572a36_4001','c8538d25-3af9-48d3-aeff-5f3ce5572a36_6601','c8538d25-3af9-48d3-aeff-5f3ce5572a36_701','levis','🇪🇸', ]
+actualPrice: 74.99 EUR
+currency: EUR
+price: 74.99
+comparePrice: 120.0 EUR
+prodname: 'Levi s 502 Taper  Jeans Hombre  Rock Cod  31W / 30L'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Levis'
+buyurl: 'https://www.amazon.es/dp/B07FXVHQPH/?tag=tolees-21'
+descuento: '37.51'
+average: '74.315'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Con ajuste estándar en el muslo
+- Modelo que se asienta debajo de la cintura
+- Este producto es original Levis
+- Diseño de cinco bolsillos
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B07FXVHQPH{{</world>}}

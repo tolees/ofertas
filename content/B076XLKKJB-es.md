@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'TOUS - Paraguas plegable Kaos New en color rosa'
+date: 2024-03-24 16:00:18
+image: 'https://m.media-amazon.com/images/I/41ypxJqLZEL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B076XLKKJB-es TOUS - Paraguas plegable Kaos New en color rosa'
+sku: 'B076XLKKJB-es'
+tags: [ 'Apparel','Arborist Merchandising Root','Black Friday','Buenos precios','Buenos precios en moda','Equipaje y accessorios de viaje','Moda','Paraguas','Paraguas plegables','Self Service','Special Features Stores','c8538d25-3af9-48d3-aeff-5f3ce5572a36_0','c8538d25-3af9-48d3-aeff-5f3ce5572a36_7601','c8538d25-3af9-48d3-aeff-5f3ce5572a36_8101','c8538d25-3af9-48d3-aeff-5f3ce5572a36_9301','tous','🇪🇸', ]
+actualPrice: 29.4 EUR
+currency: EUR
+price: 29.4
+comparePrice: 49.0 EUR
+prodname: 'TOUS - Paraguas plegable Kaos New en color rosa'
+country: 'es'
+flag: '🇪🇸'
+brand: 'TOUS'
+buyurl: 'https://www.amazon.es/dp/B076XLKKJB/?tag=tolees-21'
+descuento: '40.00'
+average: '28.6966666666667'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Cada artículo TOUS refleja ternura, diversión y juventud de espíritu, transmitiendo el alma de la compañía.
+- Color rosa
+- Paraguas plegable TOUS Kaos New de nylon hidrófugo
+- Certificado autenticidad TOUS
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B076XLKKJB{{</world>}}

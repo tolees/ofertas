@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Pata Negra Reserva Vino Tinto D.O Ribera del Duero - Pack de 3 Botellas x 750 ml'
+date: 2024-03-27 13:03:07
+image: 'https://m.media-amazon.com/images/I/41wEMc0UyAL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00M6ON2XK-es Pata Negra Reserva Vino Tinto D.O Ribera del Duero - Pack...'
+sku: 'B00M6ON2XK-es'
+tags: [ 'Alimentación y bebidas','Arborist Merchandising Root','Cervezas, vinos y licores','Custom Stores','Self Service','Special Features Stores','Vinos','Vinos Premium','Vinos de España: Vino y Cavas','Vinos tintos','cf3c1f9f-0231-4398-a079-2cb738e8fed5_0','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_0','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_201','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_8701','experiences','pata negra','🇪🇸', ]
+actualPrice: 23.4 EUR
+currency: EUR
+price: 23.4
+comparePrice: 36.0 EUR
+prodname: 'Pata Negra Reserva Vino Tinto D.O Ribera del Duero - Pack de 3 Botellas x 750 ml'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Pata Negra'
+buyurl: 'https://www.amazon.es/dp/B00M6ON2XK/?tag=tolees-21'
+descuento: '35.00'
+average: '22.7'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Gusto: En boca es redondo, sedoso y amplio, con un retrogusto afrutado, tiene un tanino dulce, elegante y persistente.
+- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos consumirlo entre los 16ºC y 18ºC.
+- Maridaje: Este vino combina muy bien con carnes rojas y asados.
+- Aroma: Perfil aromático limpio donde se perciben notas de frutos silvestres, toques de vainilla y torrefactos de una madera bien ensamblada.
+- Tipo de uva: Elaborado con uvas Tinta del País, Merlot y Cabernet Sauvignon, tras la maceración, la crianza se realiza en barricas de roble americano y francés durante 24 meses, posteriormente permanece 12 meses en botella.
+- Apariencia: Vino tinto de color intenso rojo picota de capa alta.
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B00M6ON2XK{{</world>}}

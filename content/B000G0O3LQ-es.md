@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'OKI 43381905 cartucho de tóner amarillo para C5600 / 5700'
+date: 2024-03-27 22:11:17
+image: 'https://m.media-amazon.com/images/I/41v4gWQbzjL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B000G0O3LQ-es OKI 43381905 cartucho de tóner amarillo para C5600 / 5700'
+sku: 'B000G0O3LQ-es'
+tags: [ '749d7d8e-47fd-431e-8b51-348b70f767e2_0','749d7d8e-47fd-431e-8b51-348b70f767e2_301','Accesorios para impresoras','Arborist Merchandising Root','Cartuchos de tóner para impresoras láser','Electrónica','Hogar y cocina','Impresoras y accesorios','Informática','Oficina y papelería','Oficina y papelería para empresas','Q100','Self Service','Special Features Stores','Tóners y tinta de impresora','ea2646c3-be00-45fe-8702-34c4f95305c9_0','ea2646c3-be00-45fe-8702-34c4f95305c9_2301','ea2646c3-be00-45fe-8702-34c4f95305c9_8001','oki','🇪🇸', ]
+actualPrice: 29.9 EUR
+currency: EUR
+price: 29.9
+comparePrice: 102.23 EUR
+prodname: 'OKI 43381905 cartucho de tóner amarillo para C5600 / 5700'
+country: 'es'
+flag: '🇪🇸'
+brand: 'OKI'
+buyurl: 'https://www.amazon.es/dp/B000G0O3LQ/?tag=tolees-21'
+descuento: '70.75'
+average: '27.4'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Producto de alto rendimiento
+- Colores vivos
+- Dispositivos compatibles: C5600
+- Alta calidad
+- Número de páginas impresas: 2000
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B000G0O3LQ{{</world>}}
