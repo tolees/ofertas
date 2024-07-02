@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'ASICS JOLT 4  Sneaker Hombre  Black/Antique Red  39.5 EU'
+date: 2024-06-20 10:30:34
+image: 'https://m.media-amazon.com/images/I/31ftYc21-DL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BN7K7FT1-es ASICS JOLT 4 Sneaker Hombre Black/Antique Red 39.5 EU'
+sku: 'B0BN7K7FT1-es'
+tags: [ 'Calzado deportivo para hombre','Calzados de running para hombre','Calzados para correr en asfalto para hombre','Moda','Moda Hombre','Zapatillas deportivas y de moda para hombre','Zapatos para hombre','asics','🇪🇸', ]
+actualPrice: 33.03 EUR
+currency: EUR
+price: 33.03
+comparePrice: 65.0 EUR
+prodname: 'ASICS JOLT 4  Sneaker Hombre  Black/Antique Red  39.5 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: 'ASICS'
+buyurl: 'https://www.amazon.es/dp/B0BN7K7FT1/?tag=tolees-21'
+descuento: '49.18'
+average: '33.03'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Zapatos para correr
+- Plantilla transpirable
+- protector de dedos,
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0BN7K7FT1{{</world>}}
