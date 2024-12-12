@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Bosch 34 uds. Set de puntas de atornillar y brocas X-Line  para madera  mampostería y metal  accesorios para taladro y destornillador '
+date: 2024-12-10 08:41:22
+image: 'https://m.media-amazon.com/images/I/51jb1Xso0uL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B002UHKARY-es Bosch 34 uds. Set de puntas de atornillar y brocas X-Line...'
+sku: 'B002UHKARY-es'
+tags: [ 'ACCESORIOS','Accesorios','Accesorios de herramientas eléctricas','Accessories','Arborist Merchandising Root','Bosch DIY Black Friday','Bosch Day - Bricolaje y Herramientas','Bosch Professional','Bosch accesorios','Bricolaje y herramientas','Descuentos en una amplia selección de herramientas Bosch','Herramientas Manuales & Accesorios','Herramientas manuales y eléctricas','Juegos de brocas','Las ofertas de Black Friday en la tienda de bricolaje','Ofertas en accesorios Bosch y Bosch Professional','Ofertas en packs de brocas Bosch','Self Service','Special Features Stores','accesorios','bosch','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_0','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_1901','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_2001','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_2501','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_2801','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_3401','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_3501','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_3901','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_4501','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_5701','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_6101','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_9101','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_9301','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_9601','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_9701','🇪🇸', ]
+actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
+comparePrice: 26.56 EUR
+prodname: 'Bosch 34 uds. Set de puntas de atornillar y brocas X-Line  para madera  mampostería y metal  accesorios para taladro y destornillador '
+country: 'es'
+flag: '🇪🇸'
+brand: 'Bosch'
+buyurl: 'https://www.amazon.es/dp/B002UHKARY/?tag=tolees-21'
+descuento: '51.09'
+average: '13.8389393939394'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- 13 puntas de atornillar para 3 tipos de tornillos diferentes y 3 llaves de vaso convencionales
+- Soporte universal magnético para un cambio rápido de puntas de atornillar
+- Incluye: 5 brocas para metal; 5 brocas para piedra, 5 brocas para madera, 13 puntas de atornillar, 3 llaves de vaso; 1 adaptador para llave de vaso; 1 portapuntas universal magnético y 1 avellanador
+- Práctico maletín que permite mantener en orden y en una buena disposición todos los contenidos
+- Apropiado para todas las marcas de herramientas eléctricas
+- Respectivamente 5 brocas de alta calidad y duraderas para múltiples aplicaciones
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B002UHKARY{{</world>}}
