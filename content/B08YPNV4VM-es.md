@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Control del peso
-- Nutrición adaptada para gatos esterilizados
-- 12 flowpacks de 4x85g
-- Alimento completo y equilibrado para gatos adultos esterilizados
 - 12x Atún, 12x Trucha, 12x Salmón y 12x Pescado del océano
+- Nutrición adaptada para gatos esterilizados
+- Control del peso
+- Alimento completo y equilibrado para gatos adultos esterilizados
+- 12 flowpacks de 4x85g
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08YPNV4VM{{</world>}}

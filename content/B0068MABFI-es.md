@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Longitud de 21 cm
-- Retrovisor exterior/interiror: convexo
-- Vehículo con dirección a la izquierda/derecha para vehiculo dirección izquierda
-- Ancho de 21 cm
 - Altura de 32 cm
+- Ancho de 21 cm
+- Vehículo con dirección a la izquierda/derecha para vehiculo dirección izquierda
+- Retrovisor exterior/interiror: convexo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0068MABFI{{</world>}}

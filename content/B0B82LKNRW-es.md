@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye 8 hojas de pegatinas para planificarte de una manera divertida, dos cintas de registro, un bolsillo portadocumentos, un balance de gastos, ingresos y ahorros, páginas para anotar tus contraseñas y 10 hojas de notas al final de tu agenda.
 - Tapa dura con esquinas protectoras en plata. Lleva anillas en plata y cuenta con goma de cierre para cerrar tu agenda.
+- Dietario: Español e inglés
+- Incluye 8 hojas de pegatinas para planificarte de una manera divertida, dos cintas de registro, un bolsillo portadocumentos, un balance de gastos, ingresos y ahorros, páginas para anotar tus contraseñas y 10 hojas de notas al final de tu agenda.
+- Tamaño A5: 15 x 21 cm. Sus medidas son ideales para organizarte cómodamente. Su papel es de alta calidad (100 gr)
 - Interior Día Página. Lleva un día por página con horas desde las 8:00 hasta las 20:00 horas para planificarte al detalle. El sábado y domingo comparten página. Está decorado con preciosos diseños florales pintados en acuarela. Además, al inicio de cada mes incluye palabras o frases especiales de un país distinto junto a su significado.
 - Agenda Anual 2023 Ariel. ¡Organiza tu rutina al completo con tu Agenda 2023 Ariel!
-- Dietario: Español e inglés
-- Tamaño A5: 15 x 21 cm. Sus medidas son ideales para organizarte cómodamente. Su papel es de alta calidad (100 gr)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B82LKNRW{{</world>}}

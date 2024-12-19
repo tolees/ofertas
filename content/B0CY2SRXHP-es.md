@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fotoprotector facial con Ácido Hialurónico
-- Textura fluida y rápida absorción. Resistente al agua
 - Testado dermatológicamente y oftalmológicamente, no pica en los ojos
 - Con Ácido Hialurónico y Vitamina E
+- Textura fluida y rápida absorción. Resistente al agua
+- Fotoprotector facial con Ácido Hialurónico
 - Protección muy alta. SPF 50+
 
 [🛒 Visítala!!!]({{< param buyurl >}})

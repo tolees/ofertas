@@ -29,14 +29,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Amplía un puerto USB-C a una potente docking station provista de un puerto HDMI, uno DisplayPort, uno VGA, tres USB-A, uno Gigabit Ethernet, dos lectores de tarjetas SD y MicroSD, un puerto de audio de 3,5 mm y un puerto USB-C PD.
+- *Esta base no es compatible con los MacBooks - M1 (2020).
 - La carga passthrough de hasta 100 W (descontando los 15 W que consume el dock) elimina la necesidad de tener que elegir entre expandir los puertos o cargar dispositivo.
 - Puerto Gigabit Ethernet para una conexión a internet por cable fiable y de baja latencia.
-- Otra característica a destacar de este hub usb c son los 5 Gbps de ancho de banda para transferencias rápidas de datos entre el ordenador y los periféricos.
-- Disfruta con este usb hub de hasta 4K de resolución en múltiples pantallas con los puertos HDMI, DisplayPort y VGA.
-- Su diseño compacto ubica los puertos en la parte trasera para reducir el desorden en el escritorio. Además, como también actúa como soporte para portátil ofrece al usuario la solución definitiva de adaptador USB y estación de trabajo.
-- *Esta base no es compatible con los MacBooks - M1 (2020).
-- Belkin es un fabricante reconocido y líder en el mercado de accesorios, con una trayectoria de más de 40 años creando soluciones de tecnología innovadoras y de alta calidad.
 - Este hub USB proporciona los puertos Ethernet y multimedia que han sido eliminados de los últimos modelos de portátiles de Apple y Windows.
+- Su diseño compacto ubica los puertos en la parte trasera para reducir el desorden en el escritorio. Además, como también actúa como soporte para portátil ofrece al usuario la solución definitiva de adaptador USB y estación de trabajo.
+- Belkin es un fabricante reconocido y líder en el mercado de accesorios, con una trayectoria de más de 40 años creando soluciones de tecnología innovadoras y de alta calidad.
+- Disfruta con este usb hub de hasta 4K de resolución en múltiples pantallas con los puertos HDMI, DisplayPort y VGA.
+- Otra característica a destacar de este hub usb c son los 5 Gbps de ancho de banda para transferencias rápidas de datos entre el ordenador y los periféricos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08PY4KLLT{{</world>}}

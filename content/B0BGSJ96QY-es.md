@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Una nueva vuelta de tuerca a Kingdom Builder que añade más estrategia y asmietría a tus partidas
 - Kingdom Builder es un juego fundamental, Spiel des Jahres de 2012
 - Del autor de Dominion
-- Una nueva vuelta de tuerca a Kingdom Builder que añade más estrategia y asmietría a tus partidas
 - El nuevo juego independiente basado en Kingdom Builder que incorpora nuevas mecánicas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Función estabilizador de vuelo y vuelta 360º; distancia 30 metros
-- Batería 3.7v 220mah, duración de vuelo 5 mins aprox (carga por usb durante 30 mins aprox.)
 - Dos drones y dos mando incluidos con caja para transporte del kit completo
+- Función estabilizador de vuelo y vuelta 360º; distancia 30 metros
 - Medidas: 6.5x6.5x3.0 cm
+- Batería 3.7v 220mah, duración de vuelo 5 mins aprox (carga por usb durante 30 mins aprox.)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07C5LKN9Y{{</world>}}

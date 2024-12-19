@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La potencia necesaria con el mínimo nivel de ruido: con capacidad de extracción de 611m3/h, 4 velocidades y 62dba a máxima potencia.
-- Cocina impecable y libre de olores: gracias a sus filtros de carbón y al panel de aluminio antigrasa de fácil extracción y limpieza (apto para lavavajillas).
-- Tamaño (alto x ancho x prof): 78 x 90 x 41,8cm.
-- Visibilidad óptima por led: iluminación perfecta en la zona de cocción para ayudarte a preparar tus alimentos. Bombillas duraderas con un consumo un 90% inferior que el de las bombillas tradicionales.
 - Campana extractora de diseño de cristal blanco, de 90cm de ancho: con controles táctiles intuitivos y tecnología avanzada.
+- Visibilidad óptima por led: iluminación perfecta en la zona de cocción para ayudarte a preparar tus alimentos. Bombillas duraderas con un consumo un 90% inferior que el de las bombillas tradicionales.
+- La potencia necesaria con el mínimo nivel de ruido: con capacidad de extracción de 611m3/h, 4 velocidades y 62dba a máxima potencia.
+- Tamaño (alto x ancho x prof): 78 x 90 x 41,8cm.
+- Cocina impecable y libre de olores: gracias a sus filtros de carbón y al panel de aluminio antigrasa de fácil extracción y limpieza (apto para lavavajillas).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N3LU26Q{{</world>}}

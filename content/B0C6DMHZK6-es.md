@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edad mínima del fabricante: 72,0
 - Ponte en el mejor estado de ánimo navideño construyendo y mostrando este bonito muñeco de nieve móvil.
-- Material: plástico
 - Número de piezas: 78
+- Material: plástico
+- Edad mínima del fabricante: 72,0
 - El muñeco de nieve lleva un sombrero rojo y una bufanda azul y sostiene una escoba.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

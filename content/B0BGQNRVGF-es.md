@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Textil
 - Cierre: Cordones
+- Material exterior: Textil
 - Material de la suela: EVA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte entallado
 - Cuello alzado y cremallera hasta el pecho
+- Corte entallado
 - Punto doble 100% poliéster reciclado
 - Bolsillos frontales con cremallera
 

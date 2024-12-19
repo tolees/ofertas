@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles de la marca PUMA en la parte superior, el talón y la etiqueta de la lengüeta.
-- Franja característica de PUMA en el costado
-- Entresuela de goma apilada
 - Suela de goma
+- Detalles de la marca PUMA en la parte superior, el talón y la etiqueta de la lengüeta.
+- Entresuela de goma apilada
+- Franja característica de PUMA en el costado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BLCRV1Q4{{</world>}}

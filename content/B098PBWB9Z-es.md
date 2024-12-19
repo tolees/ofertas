@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligero
 - Flexible
 - Sensación suave
+- Ligero
 - RECYCLED
 - Ajuste fácil
 

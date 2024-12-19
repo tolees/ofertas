@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La tecnología de reconocimiento de cápsulas detecta automáticamente el tamaño y tipo de cápsula y adapta el tipo de café.
-- 19 bares de presión para garantizar la extracción perfecta del café.
 - Personaliza tu café favorito con el menú de cafés: ristretto, espresso, lungo y más.
 - Prepara 2 cafés a la vez o 1 café doble en una taza.
 - La cafetera LOR Barista está diseñada para funcionar con las exclusivas cápsulas doble espresso LOR Barista y las cápsulas individuales.
+- La tecnología de reconocimiento de cápsulas detecta automáticamente el tamaño y tipo de cápsula y adapta el tipo de café.
+- 19 bares de presión para garantizar la extracción perfecta del café.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GPLRVN4{{</world>}}

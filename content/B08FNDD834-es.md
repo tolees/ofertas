@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Labial líquido con acabado mate
+- Aplicador único fino y preciso adecuado para perfilar
 - Formula duradera, no mancha ni transfiere el color
 - 19 tonos diferentes
-- Aplicador único fino y preciso adecuado para perfilar
+- Labial líquido con acabado mate
 - Color intenso y de larga duración
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - DISEÑO PREMIUM - Una placa superior metálica prepara tu teclado gaming para oponentes aguerridos - y da a tu set-up un aspecto elegante y profesional
-- TKL - Un diseño compacto y sin teclado numérico que ahorra espacio y reduce el desorden del escritorio, pero que ofrece una experiencia gaming a tamaño completo con 12 teclas multimedia
 - ¡LUCES Y ACCIÓN! - Las teclas multicolor retroiluminadas, con 20 colores y 6 modos de color, te permiten personalizar el teclado según tu estado de ánimo, tu estilo de juego o como más te guste
 - CONSTRUCCIÓN SÓLIDA - Los interruptores mecánicos y la placa superior metálica combinados preparan el teclado para enfrentarse a duros oponentes, sesiones gaming intensas y horas y horas de uso
 - JUGADOR INCANSABLE - Los interruptores lineales rojos mecánicos Outemu presentan una durabilidad de hasta 50 millones de pulsaciones y horas y horas de intensas sesiones gaming
+- TKL - Un diseño compacto y sin teclado numérico que ahorra espacio y reduce el desorden del escritorio, pero que ofrece una experiencia gaming a tamaño completo con 12 teclas multimedia
 - Tipo de conectividad: USB 2.0
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

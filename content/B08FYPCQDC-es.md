@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parte superior: goma
+- Cierre: Enhebrar
 - Forro: Caucho
 - Plantilla: sin
-- Cierre: Enhebrar
 - Tipo de tacón: Plano
 - Material de la suela: Caucho
-- Parte superior: goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FYPCQDC{{</world>}}

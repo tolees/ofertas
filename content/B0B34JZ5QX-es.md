@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El objetivo es encontrar QUÉ ha sido robado, DÓNDE se cometió el robo y QUIÉN es el ladrón.
-- Las cartas de acción ayudarán a los investigadores a moverse y encontrar pistas más rápido por el barrio.
 - La tienda indicará cuál ha sido la colección robada. Será aquella colección que haya salido repetida tres veces. Todas las partidas son diferentes.
 - Recomendado a partir de 8 años.
+- Las cartas de acción ayudarán a los investigadores a moverse y encontrar pistas más rápido por el barrio.
 - Los investigadores irán guardando sus pistas en el panel de descubrimientos.
 - Durante la partida los jugadores se desplazan por el tablero para ir a las distintas casas de barrio a ver: qué colección hay en aquella casa y quién ha pasado por allí últimamente.
+- El objetivo es encontrar QUÉ ha sido robado, DÓNDE se cometió el robo y QUIÉN es el ladrón.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B34JZ5QX{{</world>}}

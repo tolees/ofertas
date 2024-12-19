@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- algodón
 - Casual
+- algodón
 - Material exterior: vaquero
 - Ajuste: relajado
 

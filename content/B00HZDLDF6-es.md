@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pixma Print Solution: gracias a la exclusiva app de Canon imprime desde smartphones y tablets.
 - Impresora Canon empresarial: es una impresora ultracompacta, A3+ y de alto rendimiento.
-- Compatible con: Apple AirPrint, Google Cloud Print y PictBridge inalámbrico
-- Imprime más por menos: con las tintas opcionales de Canon en tamaño XL y XXL.
 - Impresiones de excelente calidad: sin residuos gracias al sistema de 6 tintas independientes, sustituibles individualmente.
+- Imprime más por menos: con las tintas opcionales de Canon en tamaño XL y XXL.
+- Compatible con: Apple AirPrint, Google Cloud Print y PictBridge inalámbrico
+- Pixma Print Solution: gracias a la exclusiva app de Canon imprime desde smartphones y tablets.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00HZDLDF6{{</world>}}

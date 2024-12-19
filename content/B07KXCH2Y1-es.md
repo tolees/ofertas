@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Favore el rendimiento intelectual, concentración y memoria
 - Indicada en adultos y niños mayores de 14 años
 - Para un aporte extra de energía
 - Con ingredientes de origen natural; sin gluten; sin lactosa. 0% azúcares añadidos
 - Contiene jalea real, 7 vitaminas, aminoácidos y ginkgo biloba
-- Favore el rendimiento intelectual, concentración y memoria
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KXCH2Y1{{</world>}}

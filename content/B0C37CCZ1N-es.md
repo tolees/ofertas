@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La ramificación de las misiones, las potenciaciones, la fabricación y el botín pondrán a prueba la resolución de incluso los jugadores más experimentados en mazmorras y zonas generadas dinámicamente
+- Se pueden desbloquear varios arquetipos durante el juego, así como subirlos de nivel y equiparlos juntos para disfrutar de varios estilos de juego
 - Nuevo progreso arquetípico: El sistema de arquetipos ampliado proporciona a los jugadores bonificaciones pasivas únicas y poderes asombrosos
 - Los jugadores pueden viajar solos o formando equipo con sus amigos a través de nuevos mundos, invadidos por criaturas míticas y enemigos mortíferos, mientras intentan mantenerse con vida
-- Se pueden desbloquear varios arquetipos durante el juego, así como subirlos de nivel y equiparlos juntos para disfrutar de varios estilos de juego
+- La ramificación de las misiones, las potenciaciones, la fabricación y el botín pondrán a prueba la resolución de incluso los jugadores más experimentados en mazmorras y zonas generadas dinámicamente
 - Experiencia intensa de combate de Remnant: Vuelve una mezcla de combate metódico y frenético tanto a distancia como cuerpo a cuerpo con enemigos astutos y batallas contra jefes a gran escala
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

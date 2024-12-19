@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Contenido: 1x Columbia Bora Bora Booney, Sombrero unisex, Color: Collegiate Navy, Talla: O/S, Art. No.: 1447091
 - Confección de nylon con banda de sudoración transpirable Omni-Wick
 - Una cobertura de cuello única y extensa para largos días bajo el sol
-- El cordón ajustable y la perilla en la parte posterior del sombrero para lograr un ajuste perfecto
-- Contenido: 1x Columbia Bora Bora Booney, Sombrero unisex, Color: Collegiate Navy, Talla: O/S, Art. No.: 1447091
 - Gorro de cachalote, de secado rápido, que cubre tanto la cabeza como el cuello
+- El cordón ajustable y la perilla en la parte posterior del sombrero para lograr un ajuste perfecto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B008FIFG7G{{</world>}}

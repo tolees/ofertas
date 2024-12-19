@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Conjunto compuesto por chaqueta y pantalón
+- Bolsillos sin cremallera
 - Chaqueta de cuello alto y banda elástica en mangas y bajo
 - 100% poliéster spandex
-- Conjunto compuesto por chaqueta y pantalón
 - Pantalones largos con cintura elástica ajustable mediante cordón y puños elásticos
-- Bolsillos sin cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09T6SCG2P{{</world>}}

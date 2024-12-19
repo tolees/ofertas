@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El modelo concreto de coche recibido puede variar y está sujeto a disponibilidad.
+- Solo tienes que tirar de los coches hacia atrás, soltarlos y ver cómo corren. ¡El potente motor de retrofricción funciona en el suelo y en moquetas!
+- Los coches están diseñados a escala 1:43 y cada uno incorpora una interesante función interactiva, como Rolomatics o puertas, capós y maleteros que se abren.
 - ¡Descubre quién es el más rápido con este conjunto de dos Pull-Back Speeders de Hot Wheels!
 - Los Pull-Back Speeders de Hot Wheels son un gran regalo para niños, niñas y coleccionistas a partir de 3 años.
-- Solo tienes que tirar de los coches hacia atrás, soltarlos y ver cómo corren. ¡El potente motor de retrofricción funciona en el suelo y en moquetas!
 - Diseñados con la precisión característica de Hot Wheels, estos coches con retrofricción son rápidos y bonitos, y presentan el diseño detallado que fascina tanto a niños y niñas como a coleccionistas.
-- Los coches están diseñados a escala 1:43 y cada uno incorpora una interesante función interactiva, como Rolomatics o puertas, capós y maleteros que se abren.
+- El modelo concreto de coche recibido puede variar y está sujeto a disponibilidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN16JHLT{{</world>}}

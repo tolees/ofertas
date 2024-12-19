@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PUMA Marca para el estilo
 - Ajuste regular para el uso diario
 - Tejido de algodón cómodo
 - Camiseta de manga corta con logotipo
+- PUMA Marca para el estilo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CL9LRD93{{</world>}}

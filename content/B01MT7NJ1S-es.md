@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Delgado
 - Informal. Cómodo. Hecho para durar
+- Delgado
 - Better Cotton Initiative (BCI). Fabricado con técnicas sin agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

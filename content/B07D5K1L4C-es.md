@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- No deja residuos
 - Fácil de peinar
 - Distribución equitativa
-- No deja residuos
 - Para estilos inmediatos y duraderos que necesitan un agarre fuerte
 
 [🛒 Comprar!!!]({{< param buyurl >}})

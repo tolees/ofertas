@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aporta a usted cuerpo los 5 electrolitos —sodio, cloruro, potasio, calcio y magnesio— que más se pierden al sudar
-- Sin aromas artificiales ni conservantes (según normativa vigente) y apto para vegetarianos
-- Las soluciones de electrolitos e hidratos de carbono aumentan la absorción de agua durante el ejercicio físico
-- 1320 g por frasco
 - C2MAX Dual Source Carb Mix
+- Aporta a usted cuerpo los 5 electrolitos —sodio, cloruro, potasio, calcio y magnesio— que más se pierden al sudar
+- Las soluciones de electrolitos e hidratos de carbono aumentan la absorción de agua durante el ejercicio físico
+- Sin aromas artificiales ni conservantes (según normativa vigente) y apto para vegetarianos
+- 1320 g por frasco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B078K1VM3M{{</world>}}

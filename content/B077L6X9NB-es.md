@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Su fórmula de secado al horno en su elaboración permite una calidad de difuminado y adherencia único
 - Con un sensual aroma a rosas
 - Resistente a romperse gracias al proceso de fabricación
 - Viene con una brocha y un espejo incorporado
-- Su fórmula de secado al horno en su elaboración permite una calidad de difuminado y adherencia único
 - Colorete en polvo con una textura ultrafina que se funde con la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

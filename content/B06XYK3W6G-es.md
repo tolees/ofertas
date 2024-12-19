@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Accesorios tono sobre tono
 - Interior forrado y organizado
+- Accesorios tono sobre tono
 - Bandolera de cinta ajustable
 - Logotipo frontal MD
 - Tejido de efecto cambiante

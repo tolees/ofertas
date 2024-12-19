@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ideal para todo tipo de pieles
-- Cobertura muy alta acabado suave e hidratado.
 - Ayuda a ocultar pigmentaciones, capilares rotos, manchas y pequeñas imperfecciones.
+- Cobertura muy alta acabado suave e hidratado.
 - Suaviza las líneas finas y las arrugas
 - Formato barra para una aplicación más rápida
 

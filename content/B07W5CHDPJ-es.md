@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Dragon Ball
 - Acción
-- Aventuras
 - Serie de animación japonesa
+- Aventuras
 - Shonen
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - JoggJeans
+- Coloreado
 - Cremallera
 - Medium treated
-- Coloreado
 - Tapered
 
 [🛒 Comprar!!!]({{< param buyurl >}})

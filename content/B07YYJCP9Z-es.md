@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 1000 w de potencía
 - Accesorios incluidos: minipicadora 350ml, varillas, vaso medidor de 600ml
+- 1000 w de potencía
 - Mini cuchilla adicional para batir con menos esfuerzo
 - Tecnología splash control: evita salpicaduras
 - Tecnología activeblade, con cuchilla desplazable

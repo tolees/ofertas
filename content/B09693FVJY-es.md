@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricante: Under Armour
 - País de origen: Alemania
+- Fabricante: Under Armour
 - Zapatillas de correr para hombre UA Charged Pursuit 3
 
 [🛒 Aquí!!!]({{< param buyurl >}})

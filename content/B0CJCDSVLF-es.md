@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Base de maquillaje que incorpora serum
 - Cobertura media para el rostro
+- Base de maquillaje que incorpora serum
 - Textura sedosa y jugosa
 - Tonifica la piel, restaura la flexibilidad, proporciona un brillo saludable y aumenta la hidratación
 - Compuesta por 82% de ingredientes naturales, con vitaminas C, E y B5 y extracto de arándonos rojos

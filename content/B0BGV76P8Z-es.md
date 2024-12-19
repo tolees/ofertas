@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño elegante
-- Ofrece libertad de movimiento
 - Cinturón elástico con cordón ajustable
 - Tiene un bolsillo lateral y un bolsillo trasero
+- Ofrece libertad de movimiento
+- Diseño elegante
 - Sportstyle Tricot Jogger de Under Armour, la fusión definitiva de comodidad, estilo y rendimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

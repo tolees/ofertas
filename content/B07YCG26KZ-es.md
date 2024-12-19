@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5 zonas de iluminacion
-- Raton optico
-- Ergonomico
 - Sensor hasta 16000 dpi
+- 5 zonas de iluminacion
+- Ergonomico
 - 23 botones
+- Raton optico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YCG26KZ{{</world>}}

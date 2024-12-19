@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Skydiver
 - 100%poliammide
+- Skydiver
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07L9QCBJ2{{</world>}}

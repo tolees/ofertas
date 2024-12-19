@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- W nsw tee essntl crp icn ftra (bv6175-010)
 - Material duradero
+- W nsw tee essntl crp icn ftra (bv6175-010)
 - Ropa deportiva nike
 - Camiseta tiempo libre y sportwear mujer
 

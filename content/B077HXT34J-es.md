@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte regular
-- Blazer Largo
 - Manga 3/4
+- Blazer Largo
 - Composición: 79% poliéster, 16% viscosa, 5% elastano, forro: 100% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})

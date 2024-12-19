@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido transpirable AEROREADY
-- Punto doble 100% poliéster reciclado
-- Corte entallado
 - Cierre de cremallera y cuello alzado
+- Tejido transpirable AEROREADY
+- Corte entallado
+- Punto doble 100% poliéster reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T6SSPWP{{</world>}}

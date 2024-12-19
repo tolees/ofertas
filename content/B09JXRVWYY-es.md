@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos más pequeños y más altos que proporcion una atractiva vista trasera
 - Jeans de estilo retro. Nuestros jeans acampados súper geniales
+- Bolsillos más pequeños y más altos que proporcion una atractiva vista trasera
 - Los productos internacionales tienen términos separados, se venden desde el extranjero y pueden diferir de los productos locales, incluyendo ajuste, calificaciones de edad e idioma del producto, etiquetado o instrucciones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

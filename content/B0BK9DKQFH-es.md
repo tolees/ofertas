@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PUMA Marca en el talón
 - Ojales de doble capa
+- PUMA Marca en el talón
 - Perforaciones en la puntera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

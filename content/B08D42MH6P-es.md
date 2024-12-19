@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mayor autonomía sin cable: con 6 celdas y 22 V de potencia, la batería de extracción fácil garantiza una limpieza potente y constante de hasta 35 minutos (puedes aumentar la autonomía hasta 1 h 10 min; con una batería adicional)
-- Óptimo filtración: ofrece higiene y filtración: filtra hasta el 99 % de las partículas con su filtro de alérgenos; captura todas las partículas, incluso las más finas, y libera un aire puro
 - Aspiradora inalámbrica con tubo flexible que llega hasta 4 veces más lejos debajo de los muebles, para limpiar en profundidad sin necesidad de agacharse y detectar hasta la última mota de polvo con su cabezal Power Led Vision con luces integradas
-- Mantenimiento fácil: depósito de 0.55 L, con capacidad suficiente para toda tu sesión de limpieza, de fácil acceso y vaciado, sin necesidad de retirar el tubo y 100 % lavable (tanto el depósito como el filtro EasyWash)
+- Libertad de movimiento: la posición Stop&Go te permite mantener en pie el tubo y el cabezal mientras usas el aspirador de mano
+- Óptimo filtración: ofrece higiene y filtración: filtra hasta el 99 % de las partículas con su filtro de alérgenos; captura todas las partículas, incluso las más finas, y libera un aire puro
 - Aspirador 3 En 1 sin cable función escoba, vertical y de mano para una limpieza rápida del suelo al techo; su sistema de visión Power Led permite mantener la misma potencia de aspiración en todo tipo de suelos con un único cabezal
 - Prácticos accesorios: una boquilla para ranuras oportuno para las zonas más inaccesibles, un cepillo para el sofá y la ropa de cama y dos cepillos integrados para limpiar sobre la marcha y con total facilidad hasta el más mínimo detalle
-- Libertad de movimiento: la posición Stop&Go te permite mantener en pie el tubo y el cabezal mientras usas el aspirador de mano
+- Mantenimiento fácil: depósito de 0.55 L, con capacidad suficiente para toda tu sesión de limpieza, de fácil acceso y vaciado, sin necesidad de retirar el tubo y 100 % lavable (tanto el depósito como el filtro EasyWash)
+- Mayor autonomía sin cable: con 6 celdas y 22 V de potencia, la batería de extracción fácil garantiza una limpieza potente y constante de hasta 35 minutos (puedes aumentar la autonomía hasta 1 h 10 min; con una batería adicional)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08D42MH6P{{</world>}}

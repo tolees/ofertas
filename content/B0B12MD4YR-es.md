@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juegos de habilidad
 - Para horas de diversión
+- Juegos de habilidad
 - Juego de mesa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

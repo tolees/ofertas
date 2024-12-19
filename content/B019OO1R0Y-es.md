@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reconstruye la estructura del cabello afectado mejorando su flexibilidad
-- Mascarilla fortalecedora para cabello opaco y seco; contiene keratina y complejo de proteínas de leche de cabra
 - Proporciona brillo y facilita el peinado
+- Reconstruye la estructura del cabello afectado mejorando su flexibilidad
 - Restaura la suavidad e hidratación
+- Mascarilla fortalecedora para cabello opaco y seco; contiene keratina y complejo de proteínas de leche de cabra
 - Ingredientes activos: complejo de proteínas de leche de cabra, keratina
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

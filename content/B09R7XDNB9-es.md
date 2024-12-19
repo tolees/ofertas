@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bota apta para el agua
 - Suela de caucho natural, resistente, impermeable y antideslizante
+- Bota apta para el agua
 - Planta acolchada y forro de poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})

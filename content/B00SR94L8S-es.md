@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Loción 100% sin perfume
+- Sentirás que tú piel está más suave y radiante
 - Exfolia la piel, sin secarla
 - Sometido a pruebas de alergia
 - No contiene alcohol
-- Sentirás que tú piel está más suave y radiante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00SR94L8S{{</world>}}

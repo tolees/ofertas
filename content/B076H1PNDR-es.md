@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Peso de 0,13 kg y volumen de 1 litro
-- 10 cm de alto x 23 cm de ancho x 7 cm de profundidad
-- Estuche para bolígrafo
 - Repele el agua
+- Estuche para bolígrafo
 - 100% poliamida
+- 10 cm de alto x 23 cm de ancho x 7 cm de profundidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076H1PNDR{{</world>}}

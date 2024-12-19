@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Mensajes de los separadores: Hoy puede ser un gran día // Estás muy muy muy cerca de conseguirlo // ¡Vamos a hacer algo genial! // Todo comienza con una gran idea // Echándole bien de alegría a cada día // Cumpliendo retos y montones de sueños // Pasito a pasito, ¡triunfaré lo que no está escrito! // Siempre a tope de sueños, retos y buenos momentos
 - Set de 8 separadores de cartón para poner en archivadores y ayudar a tener todos los papeles bien clasificados.
 - Con certificado FSC.
-- Cada uno de ellos cuenta con una frase motivacional divertida y un diseño distintos.
 - Incluye una hoja de pegatinas para identificar las asignaturas.
+- Cada uno de ellos cuenta con una frase motivacional divertida y un diseño distintos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B43ZNCHK{{</world>}}

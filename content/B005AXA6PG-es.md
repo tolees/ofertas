@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material exterior: piel
-- Forma del tacón: plano
 - Suela: acetato de vinilo de etileno
+- Forma del tacón: plano
 - Cierre: cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

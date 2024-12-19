@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bateria: batería de litio recargable con 12 horas de autonomía y conector de carga usb tipo c
-- Bluetooth & hands-free: conexión bluetooth 5.0 para reproducir música desde el smartphone, tablet o dispositivo inalámbrico; función manos libres para recibir llamadas
 - Tipo de conectividad: Auxiliar
 - True wireless stereo: 20 w de potencia y tecnología true wireless para conectar simultáneamente dos dispositivos y duplicar el sonido; integra doble membrana para el realce de graves
+- Bluetooth & hands-free: conexión bluetooth 5.0 para reproducir música desde el smartphone, tablet o dispositivo inalámbrico; función manos libres para recibir llamadas
 - Splashproof: altavoz portátil recubierto de tela resistente a salpicaduras, cinta para colgar y bolsa de transporte incluida para su protección
+- Bateria: batería de litio recargable con 12 horas de autonomía y conector de carga usb tipo c
 - Fm radio & usb/microsd mp3 player: cuenta con radio fm integrada, reproduce archivos mp3 desde tarjetas microsd y memorias usb con capacidad de hasta 64 gb y tiene entrada de audio de 3,5 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

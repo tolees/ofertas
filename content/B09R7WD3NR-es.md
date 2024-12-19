@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de caucho natural, resistente, impermeable y antideslizante
 - Planta acolchada y forro de poliéster
+- Suela de caucho natural, resistente, impermeable y antideslizante
 - Bota apta para el agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})

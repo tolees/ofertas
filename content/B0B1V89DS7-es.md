@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para jugar y coleccionar: el juego de 3 es un gran comienzo en el mundo de Monster Jam. 3 camiones de dragón compiten entre sí para ver quién puede hacer las acrobacias más geniales. El set se puede ampliar de muchas maneras con otros camiones Monster Jam y sets de juego
-- Diseño auténtico: la serie de moldeo por inyección a escala 1:64 ofrece más detalles y diseños realistas que nunca y trae la acción Monster Jam directamente a sus propias cuatro paredes
 - Las trapos oficiales de Monster Jam: con el paquete de 3 dragones "Charged Beasts" (moldeo por inyección, escala 1:64) te convertirás en la estrella de la Monster Jam Arena
 - 3 icónicos monstruos jam tracks: el set incluye los camiones Dragon, Octon8er y Ice Dragon
+- Para jugar y coleccionar: el juego de 3 es un gran comienzo en el mundo de Monster Jam. 3 camiones de dragón compiten entre sí para ver quién puede hacer las acrobacias más geniales. El set se puede ampliar de muchas maneras con otros camiones Monster Jam y sets de juego
+- Diseño auténtico: la serie de moldeo por inyección a escala 1:64 ofrece más detalles y diseños realistas que nunca y trae la acción Monster Jam directamente a sus propias cuatro paredes
 - Contenido: 3 camiones Monster Jam a escala 1:64
 
 [🛒 Visítala!!!]({{< param buyurl >}})

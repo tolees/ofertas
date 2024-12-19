@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 3 minimarcapáginas magnéticos
 - Kit para decorar la agenda, los apuntes o cualquier otra cosa
+- 1 stencil o plantilla con formas para dibujar
 - 4 hojas de pegatinas con relieve
 - estuche transparente
-- 3 minimarcapáginas magnéticos
-- 1 stencil o plantilla con formas para dibujar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B158NMFB{{</world>}}

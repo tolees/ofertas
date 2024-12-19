@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema de gel de color patentado en dos pasos
-- Top Coat para un acabado gel más duradero
-- Aplicar 2 capas de color de Super Gel, seguido de la capa de Super Gel Top Coat para un acabado perfecto
-- Se desmaquilla con un quitaesmalte con acetona
 - Secado luz ambiental, no se precisa de lámpara de luz UV. Hasta 14 días de duración
+- Aplicar 2 capas de color de Super Gel, seguido de la capa de Super Gel Top Coat para un acabado perfecto
+- Sistema de gel de color patentado en dos pasos
+- Se desmaquilla con un quitaesmalte con acetona
+- Top Coat para un acabado gel más duradero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BNK0VIG{{</world>}}

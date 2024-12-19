@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funciones: inicio retardado, temporizador hasta 95 minutos , descongelación automática, apagado del display, eliminación del sonido, express cooking, bloqueo infantil, 40 programas y "Cook in app"
 - Diseño fácil de usar y limpiar : display digital, botones y mandos giratorios intuitivos, puerta de cristal negro e interior de materiales no porosos
-- Microondas Candy de 22l de capacidad con accesorio para la cocción por vapor, plato giratorio de 25,5cm de diámetro y grill rack
-- Medidas externas (Alto x Ancho x Prof): 29x46,1x36,5cm
 - Microondas con grill con potencia de: 800W-1000W y 5 niveles de potencia
+- Microondas Candy de 22l de capacidad con accesorio para la cocción por vapor, plato giratorio de 25,5cm de diámetro y grill rack
+- Funciones: inicio retardado, temporizador hasta 95 minutos , descongelación automática, apagado del display, eliminación del sonido, express cooking, bloqueo infantil, 40 programas y "Cook in app"
+- Medidas externas (Alto x Ancho x Prof): 29x46,1x36,5cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HR24YV1{{</world>}}

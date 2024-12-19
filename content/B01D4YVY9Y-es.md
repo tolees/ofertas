@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Ventilador de pie oscilante SF 0156 de 60 W de potencia con el que refrescarte en épocas de calor
 - 3 aspas con diámetro de la hélice de 45 centímetros que aseguran un gran caudal de aire para disfrutar de una temperatura agradable
-- Cabezal oscilante de forma oval que cubre una mayor área al rotar horizontal y verticalmente distribuyendo el aire por toda la estancia
 - Motor con 3 velocidades de ventilación para que puedas seleccionar la que mejor se ajuste a tus necesidades en cada momento y temporizador de hasta 2 horas que permite ahorrar energía siempre que lo desees
+- Cabezal oscilante de forma oval que cubre una mayor área al rotar horizontal y verticalmente distribuyendo el aire por toda la estancia
 - Dispone de asa para transporte que facilita su desplazamiento, recogecables para poder guardarlo con mayor facilidad y su altura es regulable desde 134 centímetros a los 155 centímetros para que lo puedas adaptar a distintas superficies
 
 [🛒 Comprar!!!]({{< param buyurl >}})
