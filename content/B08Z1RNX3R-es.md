@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La chaqueta abierta cuenta con bolsillos que incorpora rib en puños, cuello y bajo
-- El pantalón cuenta con cintura elástica ajustable mediante cordones
 - El logotipo está bordado en el pantalón y támbien en la chaqueta
 - Chándal de dos piezas
+- El pantalón cuenta con cintura elástica ajustable mediante cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Z1RNX3R{{</world>}}

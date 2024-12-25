@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nota: el embalaje puede variar
-- Las fuentes naturales de omega 6 y omega 3 favorecen una piel sana y un pelaje brillante. Sistema de cuidado dental DentaDefense para dientes limpios y saludables/Sin colorantes ni sabores artificiales ni OGM
-- La mezcla de fibra hecha a medida de prebióticos (FOS) y pulpa de remolacha promueve una digestión saludable, los antioxidantes vitaminas E y C fortalecen el sistema inmunológico
 - Alimento de primera calidad para perros adultos de razas pequeñas (que pesen menos de 10 kg) de 1 a 8 años para mantener una condición corporal óptima
+- La mezcla de fibra hecha a medida de prebióticos (FOS) y pulpa de remolacha promueve una digestión saludable, los antioxidantes vitaminas E y C fortalecen el sistema inmunológico
+- Las fuentes naturales de omega 6 y omega 3 favorecen una piel sana y un pelaje brillante. Sistema de cuidado dental DentaDefense para dientes limpios y saludables/Sin colorantes ni sabores artificiales ni OGM
+- Nota: el embalaje puede variar
 - El pollo fresco que contiene no solo es particularmente sabroso, sino que también es fácil de digerir, y las proteínas animales de alta calidad promueven el mantenimiento de músculos fuertes y delgados
 - La fórmula con L-carnitina, que está diseñada para razas pequeñas, promueve el metabolismo de los lípidos y, por lo tanto, el mantenimiento del peso ideal para reducir el estrés articular
 

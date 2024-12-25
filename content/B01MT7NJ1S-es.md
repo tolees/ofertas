@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Informal. Cómodo. Hecho para durar
 - Better Cotton Initiative (BCI). Fabricado con técnicas sin agua
+- Informal. Cómodo. Hecho para durar
 - Delgado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

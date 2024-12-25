@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuerpo ultrafino de 7,64 mm. El realme C65 es el teléfono más fino de su categoría. Gracias a la optimización del grosor de la batería y los materiales estructurales internos, hemos conseguido reducir el grosor del teléfono a solo 7,64 mm, por lo que la sensación en la mano es mucho mejor.
-- Pantalla de 6,67 in con modo de comodidad ocular. Frecuencia de actualización de 90 Hz. Brillo mínimo de 1 nit. Brillo máximo de 625 nits
 - Gran batería de 5000 mAh. Cuatro años de uso sin retrasos. Calificación A de fluidez de TÜV SÜD
+- Cuerpo ultrafino de 7,64 mm. El realme C65 es el teléfono más fino de su categoría. Gracias a la optimización del grosor de la batería y los materiales estructurales internos, hemos conseguido reducir el grosor del teléfono a solo 7,64 mm, por lo que la sensación en la mano es mucho mejor.
 - Consigue tu mejor foto. El modo de 50 MP aumenta la claridad a lo grande, aportando textura y profundidad a las fotos más importantes.
 - Rendimiento de alta respuesta. Conjunto de chips Helio G85. El conjunto de chips de ocho núcleos MediaTek Helio G85 está equipado con una CPU muy potente que ofrece una velocidad de reloj de hasta 2,0 GHz, lo que equivale a una eficiencia de cómputo más rápida y un menor consumo de energía.
+- Pantalla de 6,67 in con modo de comodidad ocular. Frecuencia de actualización de 90 Hz. Brillo mínimo de 1 nit. Brillo máximo de 625 nits
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYJ219D5{{</world>}}

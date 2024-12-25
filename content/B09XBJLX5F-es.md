@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Peso del producto: 146 gramos
-- Dimensiones del producto: ‎12,1 x 8,3 x 3,9 cm
 - Ratón Gamer ideal para cualquier situación
 - Aporta una precisión superior en cada movimiento o disparo
+- Dimensiones del producto: ‎12,1 x 8,3 x 3,9 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XBJLX5F{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perforaciones en la puntera
-- PUMA Marca en el talón
 - Ojales de doble capa
+- PUMA Marca en el talón
+- Perforaciones en la puntera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BK9DKQFH{{</world>}}

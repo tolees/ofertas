@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- START/STOP AUTOMÁTICO: sin botones, fácil manejo simplemente presionando hacia abajo la fruta para accionar el exprimidor y dejar de presionar para parar
-- CANTIDAD DE PULPA AJUSTABLE: selecciona cuanta pulpa quieres en tu zumo, ajusta fácilmente la cantidad de pulpa que quieres girando la jarra a uno de los 5 niveles de pulpa
 - APTO PARA LAVAVAJILLAS: todas las partes del exprimidor son aptas para lavar en lavavajillas o a mano con agua y jabón
+- START/STOP AUTOMÁTICO: sin botones, fácil manejo simplemente presionando hacia abajo la fruta para accionar el exprimidor y dejar de presionar para parar
 - ROTACIÓN EN 2 SENTIDOS: rotación alternada del cono exprimidor disminuyendo la tensión y aumentando la cantidad de zumo extraído
+- CANTIDAD DE PULPA AJUSTABLE: selecciona cuanta pulpa quieres en tu zumo, ajusta fácilmente la cantidad de pulpa que quieres girando la jarra a uno de los 5 niveles de pulpa
 - BOL CALIBRADO DE 350 ml: muy práctico para la dosificación precisa para cualquier receta como cócteles de frutas, postres, etcétera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

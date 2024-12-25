@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sistema de tensión de botón mecánico: cada clic es más nítido y confiable gracias a un sistema de tensión mecánica con resortes y pivotes en los botones izquierdo y derecho.
-- Sensor de próxima generación: capaz de detectar movimiento submicrónico y rastrear el movimiento a menos de una millonésima de metro con una precisión excepcional.
-- LIGHTSYNC RGB: la tecnología LIGHTSYNC le brinda iluminación RGB totalmente personalizable, sincroniza animaciones y efectos de iluminación con sus otros dispositivos Logitech G. Aceleración máxima: > 40 G.
-- Sensor HERO 25K: la próxima generación del sensor óptico HERO brinda una nueva precisión a su mouse de hasta 25,600 DPI sin generar suavizado, filtrado ni aceleración. Tasa de informe USB: 1000 Hz (1 ms).
 - Peso ajustable: ajuste el deslizamiento de su mouse. cinco pesos de 3,6 g vienen con el mouse con cable G502 HERO para encontrar la configuración perfecta y optimizar su rendimiento de juego.
 - 11 botones programables y rueda de desplazamiento ultrarrápida de modo dual: el mouse para juegos con cable Logitech G le brinda una personalización completa de su configuración de juego.
+- Sensor HERO 25K: la próxima generación del sensor óptico HERO brinda una nueva precisión a su mouse de hasta 25,600 DPI sin generar suavizado, filtrado ni aceleración. Tasa de informe USB: 1000 Hz (1 ms).
+- LIGHTSYNC RGB: la tecnología LIGHTSYNC le brinda iluminación RGB totalmente personalizable, sincroniza animaciones y efectos de iluminación con sus otros dispositivos Logitech G. Aceleración máxima: > 40 G.
+- Sensor de próxima generación: capaz de detectar movimiento submicrónico y rastrear el movimiento a menos de una millonésima de metro con una precisión excepcional.
 - Periférico para juegos no. 1 del mundo: basado en datos agregados independientes (febrero de 2019 - febrero de 2020) de recuentos de unidades de periféricos para juegos (teclados, ratones y auriculares para PC).
 
 [🛒 Visítala!!!]({{< param buyurl >}})

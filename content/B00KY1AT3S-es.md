@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plataforma: PlayStation Vita
-- El nuevo control del jugador aumenta la capacidad de movimiento de los futbolistas, les da más control y personalidad con la pelota, lo que hace que los enfrentamientos cuerpo a cuerpo sean más satisfactorios que antes.
 - FIFA 15 recrea con todo detalle el deporte rey, para que los aficionados vivan su emoción desde el pitido inicial.
+- El nuevo control del jugador aumenta la capacidad de movimiento de los futbolistas, les da más control y personalidad con la pelota, lo que hace que los enfrentamientos cuerpo a cuerpo sean más satisfactorios que antes.
+- Plataforma: PlayStation Vita
 - Los nuevos efectos visuales ponen a los aficionados sobre campos auténticos con césped que se desgasta conforme avanza el partido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

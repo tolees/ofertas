@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
 - Tela suave
-- Tejido transpirable
 - Tiene detalles distintivos de la marca
+- Ajuste regular
+- Tejido transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08TCGZS3J{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
-- Horma clásica
 - Siente la comodidad
 - Diseño ligero y estable
+- Horma clásica
+- Cierre de cordones
 - Parte superior de monomalla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

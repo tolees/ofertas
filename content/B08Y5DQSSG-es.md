@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalón con cordones
-- Chándal de dos piezas formado por chaqueta con cuello alto y pantalón largo con bolsillos y cintura elástica ajustable; logotipo estampado
 - Chaqueta con cremallera
+- Pantalón con cordones
 - Rib en puños y bajo
+- Chándal de dos piezas formado por chaqueta con cuello alto y pantalón largo con bolsillos y cintura elástica ajustable; logotipo estampado
 - Tipo de fábrica: 100 % Poliéster; tipo de deporte: Multi-deportes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

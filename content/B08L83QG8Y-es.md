@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tela transpirable
-- Corte ajustado
 - Cintura elástica de talle alto
 - Ofrece libertad de movimiento
+- Corte ajustado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08L83QG8Y{{</world>}}

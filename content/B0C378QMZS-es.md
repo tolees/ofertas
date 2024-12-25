@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con 125 hojas de papel de 90 gr., con pautado a rayas.
 - Cuenta con certificado FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de forma responsable.
 - Con página inicial para apuntar los datos de contacto.
-- Con 125 hojas de papel de 90 gr., con pautado a rayas.
 - Libreta naranja de tamaño A5, con tapa dura y encuadernación en espiral.
 - Cuenta con una goma elástica en su esquina inferior derecha que funciona como cierre de la libreta.
 

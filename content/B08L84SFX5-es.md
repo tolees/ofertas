@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece libertad de movimiento
 - Tela transpirable
-- Corte ajustado
 - Cintura elástica de talle alto
+- Ofrece libertad de movimiento
+- Corte ajustado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08L84SFX5{{</world>}}

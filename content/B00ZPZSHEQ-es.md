@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado: cromado
 - Hecho en España
+- Acabado: cromado
 - Diámetro (mm): 80
 - Forma: circular
 

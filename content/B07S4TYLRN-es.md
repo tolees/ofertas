@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 30 de los mejores jugadores, incluidos Roger Federer, Angelique Kerber y otros
-- Un completo modo carrera: entrenamiento, torneos, compras de equipamiento. Una dimensión psicológica y táctica; elige tus habilidades y desarróllalas
+- Un juego pensado para la competición: clasificación mundial, torneos eSports
 - Una reproducción perfecta de los jugadores y sus movimientos
 - Todos los modos de Juego del tenis: exhibición, World Tour, local y online
-- Un juego pensado para la competición: clasificación mundial, torneos eSports
+- Un completo modo carrera: entrenamiento, torneos, compras de equipamiento. Una dimensión psicológica y táctica; elige tus habilidades y desarróllalas
+- 30 de los mejores jugadores, incluidos Roger Federer, Angelique Kerber y otros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07S4TYLRN{{</world>}}

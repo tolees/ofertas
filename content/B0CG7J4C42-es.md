@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fotos óptimas en cualquier lugar
-- Photoshop y Lightroom Classic no están incluidos
-- Edición desde cualquier lugar
 - McAfee Total Protection es una solución "todo en uno" que incluye antivirus, seguridad y protección de la privacidad y la identidad.
+- Fotos óptimas en cualquier lugar
+- Edición desde cualquier lugar
+- Photoshop y Lightroom Classic no están incluidos
 - Comprueba el estado de tu seguridad digital: nuestro innovador Nivel de protección identifica los puntos débiles y te guía para reforzar tus defensas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

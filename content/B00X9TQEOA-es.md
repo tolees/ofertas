@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desobstruye los poros el profundidad
 - Con fibras ultra suaves
-- Acción anti-marcas y anti-manchas
 - Extrae los puntos negros
+- Acción anti-marcas y anti-manchas
+- Desobstruye los poros el profundidad
 - Contiene 2% de ácido salicílico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

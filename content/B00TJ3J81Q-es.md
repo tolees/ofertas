@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El juego viene en una caja robusta de material textil
 - Incluye adaptador, llave de doble boca, destornillador y más
 - Mango porta-varillas Kraftform VDE aislado y varillas de cambio
+- El juego viene en una caja robusta de material textil
 - Paquete de 35 piezas, útil para trabajos de mantenimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño de capuchón móvil para proteger el conector USB
 - Práctica presilla para llavero
+- Diseño de capuchón móvil para proteger el conector USB
 - Múltiples opciones de colores por capacidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

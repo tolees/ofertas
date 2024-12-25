@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de calidad
 - Marca: Ibili
 - Apto para lavavajillas
+- Producto de calidad
 - Accesorio para hacer embutidos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Barbie está cómoda y calentita gracias a su adorable conjunto de pijama estampado y zapatillas de pelo suave. La aterciopelada bata rosa añade un toque extra de comodidad.
-- Los 15 accesorios de Barbie añaden detalles realistas: desde accesorios de estilismo, como una diadema y un antifaz, hasta artículos de decoración, como una lámpara y una planta.
-- Este conjunto de dormitorio de Barbie inspirará dulces historias por la mañana y por la noche. La muñeca Barbie viene con un gatito soñoliento y 20 coloridas piezas con temática de dormitorio.
 - Los muebles, como una cama, una mesita de noche y un tocador, ofrecen un escenario repleto de posibilidades de juego de imitación, ya sea preparándose para el nuevo día o relajándose por la noche con un chocolate caliente y una revista.
+- Barbie está cómoda y calentita gracias a su adorable conjunto de pijama estampado y zapatillas de pelo suave. La aterciopelada bata rosa añade un toque extra de comodidad.
+- Este conjunto de dormitorio de Barbie inspirará dulces historias por la mañana y por la noche. La muñeca Barbie viene con un gatito soñoliento y 20 coloridas piezas con temática de dormitorio.
+- Los 15 accesorios de Barbie añaden detalles realistas: desde accesorios de estilismo, como una diadema y un antifaz, hasta artículos de decoración, como una lámpara y una planta.
 - ¡Cuando los peques juegan con Barbie, imaginan todo lo que pueden llegar a ser! Las muñecas, juguetes y conjuntos de Barbie son regalos maravillosos para niños y niñas a partir de 3 años. Se venden por separado y están sujetos a disponibilidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

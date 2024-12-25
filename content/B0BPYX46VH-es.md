@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos depósitos. Un depósito de agua limpia de hasta 1, litros y un depósito de agua sucia de hasta 0,85 litros. 400 W de potencia máxima y gran poder de succión.
-- Aspirador de tapicerías con función 3 en 1. Pulveriza, limpia y aspira. Incluye un sistema de pulverización de agua en el cabezal para poder dosificar fácilmente el caudal de agua y adecuar la cantidad de agua al tipo de superficie.
-- Aspirador de tapicerías para aspirar tanto líquidos como sólidos. Compatible con líquido limpiador de baja espuma. La proporción a usar de jabón líquido es de 5 a 10 ml en el depósito de agua limpia.
-- Fácil extracción de los depósitos de agua para rellenar y para vaciar con comodidad. Gracias a la combinación entre el cable de 4 metros y la longitud de la manguera de 1,2 metros podrás llegar a cualquier sitio en un radio de hasta 5 metros.
 - Puede usarse con agua caliente. Gancho para almacenamiento de cable de alimentación. Asa para fácil desplazamiento del producto Incluye dos boquillas de aspiración de líquidos, una con cepillo, otra con cepillo de plástico y un cepillo 2 en 1 , para poder adaptarse a cualquier tipo de suciedad.
+- Aspirador de tapicerías para aspirar tanto líquidos como sólidos. Compatible con líquido limpiador de baja espuma. La proporción a usar de jabón líquido es de 5 a 10 ml en el depósito de agua limpia.
+- Dos depósitos. Un depósito de agua limpia de hasta 1, litros y un depósito de agua sucia de hasta 0,85 litros. 400 W de potencia máxima y gran poder de succión.
+- Fácil extracción de los depósitos de agua para rellenar y para vaciar con comodidad. Gracias a la combinación entre el cable de 4 metros y la longitud de la manguera de 1,2 metros podrás llegar a cualquier sitio en un radio de hasta 5 metros.
+- Aspirador de tapicerías con función 3 en 1. Pulveriza, limpia y aspira. Incluye un sistema de pulverización de agua en el cabezal para poder dosificar fácilmente el caudal de agua y adecuar la cantidad de agua al tipo de superficie.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPYX46VH{{</world>}}

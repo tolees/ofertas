@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Caña 3/4
-- Detalle del logo Batwing de Levis
-- Diseño atemporal para disfrutar todo el año
 - Algodón es un material suave
+- Diseño atemporal para disfrutar todo el año
+- Detalle del logo Batwing de Levis
 - Talla y puntera reforzados para durabilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

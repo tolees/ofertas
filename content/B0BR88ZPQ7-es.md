@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se envía una unidad de manera aleatoria
 - Se trata de un surtido
-- Se envía un modelo según disponibilidad
 - Productos y accesorios diseñados para satisfacer todas las necesidades
 - Cada capsula sorpresa contiene una figura aleatoria con hasta 7 accesorios y pistas para descubrir a tu personaje antes de abrirla.
+- Se envía un modelo según disponibilidad
+- Se envía una unidad de manera aleatoria
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BR88ZPQ7{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acción
-- Serie de animación japonesa
-- Aventuras
-- Dragon Ball
 - Shonen
+- Dragon Ball
+- Serie de animación japonesa
+- Acción
+- Aventuras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07W5CHDPJ{{</world>}}

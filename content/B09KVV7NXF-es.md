@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Una experiencia única
 - Accesible para todos
+- Excelentes gráficos
 - Obtendras mucha diversión
 - Personajes variados con una historia interesante
-- Excelentes gráficos
-- Una experiencia única
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09KVV7NXF{{</world>}}

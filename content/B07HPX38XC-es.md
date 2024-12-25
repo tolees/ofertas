@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Producto Samsung
-- Accesorio para ordenador
 - Material de calidad
+- Accesorio para ordenador
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07HPX38XC{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hidrata y acondiciona el cabello dejándolo suave, brillante y manejable
 - Para el cabello: Ondulado
 - Nuestra tecnología insta bounce te ayudará a definir las ondas y los rizos, aumentando la hidratación y el brillo en los cabellos con curvas u ondulados
 - Volumen 350 ml
+- Hidrata y acondiciona el cabello dejándolo suave, brillante y manejable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HZZMK53{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100% algodón individual punto jersey
 - Cuello redondo acanalado
 - Corte holgado
-- 100% algodón individual punto jersey
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C545WQLN{{</world>}}

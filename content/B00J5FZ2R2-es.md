@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con acción antiséptica reduce la colonización de bacterias e inhibe la fomación de biofilm oral
-- Colutorio de uso diario, que previene el sangrado y la inflamación de las encías por gingivitis
 - Acción prolongada gracias a su excipiente bioadhesivo
 - Eficacia clinicamente probada; Sin alcohol; Sin gluten
+- Colutorio de uso diario, que previene el sangrado y la inflamación de las encías por gingivitis
+- Con acción antiséptica reduce la colonización de bacterias e inhibe la fomación de biofilm oral
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00J5FZ2R2{{</world>}}

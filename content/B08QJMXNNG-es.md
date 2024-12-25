@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño transpirable
 - Corte regular
+- Diseño transpirable
 - Comodidad duradera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
