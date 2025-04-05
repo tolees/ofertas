@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Compartimento central con cremallera para monedas y billetes
-- Dimensiones: 10 x 15,5 x 2,5 cm
-- Asa lateral extraible
 - Billetero con 7 compartimentos para tarjetas de crédito o documentos de identidad
+- Asa lateral extraible
+- Dimensiones: 10 x 15,5 x 2,5 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0756ST9DM{{</world>}}

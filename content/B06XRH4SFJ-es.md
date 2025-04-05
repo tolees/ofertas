@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Volumen de suministro: 1x linterna de trabajo de mano portátil HL 500 A con batería recargable, incl. cable de carga USB - en la máxima calidad de brennenstuhl
 - Linterna de trabajo e inspección para a batería recargable (3,7V /2,5Ah) con un cargador USB, indicador de carga
 - Incluye dos ganchos giratorios de 360° y un imán que permite un uso flexible en zonas de trabajo de interiores con superficies de metal como automóvil, camión o máquina
-- Luz de trabajo compacto de 6 LEDs SMD super luminosos y una etapa de conmutación adicional para 1 LED SMD en la cabeza de la lámpara
 - Iluminación luminoso hasta 10 horas, luz regulable entre 100% e 50%, para zonas de trabajo en interiores (IP20) como el taller o además para el uso en la casa
+- Luz de trabajo compacto de 6 LEDs SMD super luminosos y una etapa de conmutación adicional para 1 LED SMD en la cabeza de la lámpara
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06XRH4SFJ{{</world>}}

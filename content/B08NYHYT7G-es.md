@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tipo de fábrica: 78 percent polyester, 22 percent elastane
 - Breathable fabric
 - Elastic waistband with lanyard
 - Regular fit
-- Tipo de fábrica: 78 percent polyester, 22 percent elastane
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08NYHYT7G{{</world>}}

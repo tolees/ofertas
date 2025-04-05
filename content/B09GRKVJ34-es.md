@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cierre: Pull-On
+- Material: 100% algodón
+- Camiseta de cuello redondo de ajuste regular con mangas cortas
 - Instrucciones de cuidado: lavar a máquina
 - Color: azul marino
-- Camiseta de cuello redondo de ajuste regular con mangas cortas
-- Material: 100% algodón
-- Cierre: Pull-On
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GRKVJ34{{</world>}}

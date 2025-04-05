@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recreacion perfecta de uno de los pokemon más poderosos.
 - Increible detalle y acabado. En una escala 1/10 y sus 33cm son perfectos para decorar la habitacion
-- Con increibles efectos de luces que recrean los ataques especiales de Lucario
 - Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
+- Con increibles efectos de luces que recrean los ataques especiales de Lucario
+- Recreacion perfecta de uno de los pokemon más poderosos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B31C5CMS{{</world>}}

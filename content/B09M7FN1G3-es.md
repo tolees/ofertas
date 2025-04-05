@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluido: cincel, pinceles, ¡y una bandeja para excavar sin ensuciarse!
+- Descubre 12 dinosaurios diferentes: Styracosaurus, Brachiosaurus, Triceratops, Spinosaurus, Ankylosaurus, Parasaurolophus, Stegosaurus, T-Rex, Plesiosaurus, Hypacrosaurus, Pteranodon y Saurolophus
+- Una caja con 12 huevos para desenterrar 12 pequeños dinosaurios
 - Edad recomendada: 6 años y +
 - ¡Un póster está incluido para decorar tu habitación!
-- Una caja con 12 huevos para desenterrar 12 pequeños dinosaurios
-- Descubre 12 dinosaurios diferentes: Styracosaurus, Brachiosaurus, Triceratops, Spinosaurus, Ankylosaurus, Parasaurolophus, Stegosaurus, T-Rex, Plesiosaurus, Hypacrosaurus, Pteranodon y Saurolophus
+- Incluido: cincel, pinceles, ¡y una bandeja para excavar sin ensuciarse!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09M7FN1G3{{</world>}}

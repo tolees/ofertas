@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Correas de velcro en los puños
 - Cuello alto
 - Dos bolsillos laterales con cremallera
+- Correas de velcro en los puños
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BSFT6P7G{{</world>}}

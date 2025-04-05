@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla moldeada
-- Parte superior sintética
-- Horma clásica
 - Fácil de poner y quitar
+- Plantilla moldeada
+- Horma clásica
+- Parte superior sintética
 - Mediasuela de EVA fabricada con un 17% de material vegetal derivado de la caña de azúcar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

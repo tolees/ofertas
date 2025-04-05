@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con puños acanalados en el dobladillo
 - Ajuste: corte regular
+- Instrucciones de lavado: no es posible limpiar en seco / no se puede secar en la secadora / No se permite blanquear / planchar a temperatura (200 °C) / lavado normal a máx 40 °C
 - Sudadera básica en colores lisos con logotipo redondo en el pecho
 - Con capucha en el cuello
-- Instrucciones de lavado: no es posible limpiar en seco / no se puede secar en la secadora / No se permite blanquear / planchar a temperatura (200 °C) / lavado normal a máx 40 °C
+- Con puños acanalados en el dobladillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B099XBR8TG{{</world>}}

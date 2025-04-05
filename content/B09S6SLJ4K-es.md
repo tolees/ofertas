@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dobladillo y mangas de canalé
 - Cordón de ajuste de bloques de color con extremos individuales transparentes
-- Capucha forrada
 - Ojal individual
+- Dobladillo y mangas de canalé
 - Banda para el cuello individual
+- Capucha forrada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09S6SLJ4K{{</world>}}

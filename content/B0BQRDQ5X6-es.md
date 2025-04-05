@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma
 - Parte textil con refuerzos de ante sintético
 - Horma clásica
+- Suela de goma
 - Mediasuela de EVA
 - Cierre de cordones
 

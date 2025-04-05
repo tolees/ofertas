@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Slim
-- Medium treated
-- Cierre con botón
 - Stretch
+- Cierre con botón
+- Medium treated
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B2KM12LY{{</world>}}

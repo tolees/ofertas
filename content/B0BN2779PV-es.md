@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Membrana GORE-TEX
 - Amortiguación FF BLAST
 - Parte superior de malla transpirable
+- Membrana GORE-TEX
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BN2779PV{{</world>}}

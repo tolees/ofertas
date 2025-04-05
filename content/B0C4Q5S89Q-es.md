@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Enviado con instrucciones e caja de presentación
-- Colleccion ICE chrono
 - Reloj para mujer con correa de silicona; chrono medium, 40 mm
+- Colleccion ICE chrono
 - Resistente hasta 10 ATM
 
 [🛒 Comprar!!!]({{< param buyurl >}})

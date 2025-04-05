@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Viaja alrededor del mundo: Con más de 170 ciudades para visitar y más de 400 viajes por realizar
 - Nuevo giro en el entorno establecido: Sumérgete en este universo steampunk totalmente reimaginado
-- Mundo narrativo simulado: Los NPC tienen sus propias agendas y recuerdan todo lo que ven y escuchan
-- Novela visual de nueva generación: Elige cada línea y cada acción. Ve donde quieras, cuando quieras
 - Incluye dos juegos: 80 Days y Overboard!
+- Novela visual de nueva generación: Elige cada línea y cada acción. Ve donde quieras, cuando quieras
+- Viaja alrededor del mundo: Con más de 170 ciudades para visitar y más de 400 viajes por realizar
+- Mundo narrativo simulado: Los NPC tienen sus propias agendas y recuerdan todo lo que ven y escuchan
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BCH3QKYD{{</world>}}

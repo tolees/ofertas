@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- con forro de felpa (poliéster) y superficie rascadora de sisal
-- con superficie rascadora de sisal
 - cueva completamente forrada de felpa (poliéster)
-- postes forrados con yute
+- con superficie rascadora de sisal
 - especialmente adecuada para gatos grandes
+- con forro de felpa (poliéster) y superficie rascadora de sisal
+- postes forrados con yute
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01N94Z7XQ{{</world>}}

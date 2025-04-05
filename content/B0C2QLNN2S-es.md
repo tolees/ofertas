@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Drop: 1 mm (talón: 33 mm / antepié: 23 mm)
-- Refuerzo alrededor de la suela
 - Cierre de cordones
-- Mediasuela Bounce
 - Parte de malla tejida
 - Horma clásica
+- Mediasuela Bounce
+- Refuerzo alrededor de la suela
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2QLNN2S{{</world>}}

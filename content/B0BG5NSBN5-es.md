@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre de cordones
-- Parte superior sintética y textil
 - Forro textil
+- Parte superior sintética y textil
 - Parte superior elegante y entresuela ligera de una sola pieza
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libera tu luz interior con la esencia del triunfo
 - BOSS Bottled Triumph Elixir es una fragancia para hombre verde ambarina altamente concentrada que presenta notas frescas de hoja de Violeta y esencias de Vetiver y Pachulí
+- Libera tu luz interior con la esencia del triunfo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRZD5QNF{{</world>}}

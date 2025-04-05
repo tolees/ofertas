@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Regleta con seis interruptores individuales y un interruptor general, los interruptores individuales apagar un dispositivo sin tener que apagar otros dispositivos conectados
-- Base de enchufe múltiple con 6 tomas de corriente y cable de 2m (H05VV-F 3G1.5) sirve como fuente de alimentación ideal en interiores
 - Regleta enchufe múltiple con 6 interruptores individuales y interruptor general, interruptores de seguridad iluminado para encendido y apagado (bipolar)
 - Regleta eléctrica con 6 enchufes colocados en un ángulo de 45° - la disposición de las tomas le permite conectar enchufes angulares
 - Regleta de enchufes con protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
+- Regleta con seis interruptores individuales y un interruptor general, los interruptores individuales apagar un dispositivo sin tener que apagar otros dispositivos conectados
+- Base de enchufe múltiple con 6 tomas de corriente y cable de 2m (H05VV-F 3G1.5) sirve como fuente de alimentación ideal en interiores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083QYZCDS{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñadas para uso diario con la frecuencia de sustitución indicada por el profesional de la visión
-- Para miopía o hipermetropía
-- Cada vez que las use, deberá limpiarlas, aclararlas y desinfectarlas antes de volver a ponérselas
 - Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión
+- Diseñadas para uso diario con la frecuencia de sustitución indicada por el profesional de la visión
+- Cada vez que las use, deberá limpiarlas, aclararlas y desinfectarlas antes de volver a ponérselas
+- Para miopía o hipermetropía
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004LHOGNK{{</world>}}

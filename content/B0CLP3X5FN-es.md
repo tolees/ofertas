@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MÚLTIPLES BENEFICIOS: Gracias a su alto contenido en fibra, vitaminas y minerales, los cereales te ayudarán a cuidar la flora intestinal, a mejorar la digestión y a regular el nivel de glucosa en sangre. Además, ejercen un fuerte efecto antioxidante.
+- INGREDIENTES NATURALES: copos de avena integral 45 %, azúcar de caña sin refinar, chocolate negro 10 % (pasta de cacao, azúcar de caña, manteca de cacao), arroz crujiente (harina de arroz), harina de avena 8%, copos de trigo 5%, salvado de avena 5%, aceite de girasol (aceite de girasol oleico, agentes antioxidantes: extractos ricos en tocoferoles), copos de coco, sal marina. Contiene gluten. Puede contener sésamo, soja, frutos de cáscara y leche y sus derivados.
 - KRUNCHY DE AVENA ECOLÓGICOS: Este Krunchy de avena natural con chocolate es un alimento que te proporcionará energía y un potente efecto saciante. Destaca por su alto valor nutritivo y por ser el acompañante perfecto para una dieta saludable.
 - SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
-- INGREDIENTES NATURALES: copos de avena integral 45 %, azúcar de caña sin refinar, chocolate negro 10 % (pasta de cacao, azúcar de caña, manteca de cacao), arroz crujiente (harina de arroz), harina de avena 8%, copos de trigo 5%, salvado de avena 5%, aceite de girasol (aceite de girasol oleico, agentes antioxidantes: extractos ricos en tocoferoles), copos de coco, sal marina. Contiene gluten. Puede contener sésamo, soja, frutos de cáscara y leche y sus derivados.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLP3X5FN{{</world>}}

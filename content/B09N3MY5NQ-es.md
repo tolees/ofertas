@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatos para correr
 - Malla superior
+- Zapatos para correr
 - Almohadón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

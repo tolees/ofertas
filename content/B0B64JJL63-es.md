@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta de cuello redondo sin mangas. Con logotipo en el pecho.
 - Fabricado con 100 % algodón sostenible
 - Camiseta básica
+- Camiseta de cuello redondo sin mangas. Con logotipo en el pecho.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B64JJL63{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabores disponibles: baya, cereza, mandarina, sandía y plátano
-- Formato bolsa de 59 gramos
+- Gominolas en forma de: lechuza, símbolo de las reliquias de la muerte, sombrero seleccionador, pociones y rayo
 - Gominolas de sabores surtidos aleatorios en forma de criaturas mágicas del mundo mágico de Harry Potter
 - Conservar en un lugar fresco y seco
-- Gominolas en forma de: lechuza, símbolo de las reliquias de la muerte, sombrero seleccionador, pociones y rayo
+- Sabores disponibles: baya, cereza, mandarina, sandía y plátano
+- Formato bolsa de 59 gramos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B083WDP51G{{</world>}}

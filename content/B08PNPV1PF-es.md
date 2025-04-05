@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte cónico
-- Tiene detalles distintivos de la marca
 - Cintura elástica con cordón
+- Tiene detalles distintivos de la marca
+- Corte cónico
 - Tela suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

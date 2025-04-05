@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- UA Charged Assert 10
 - Hombre
 - 3026175-004-11
+- UA Charged Assert 10
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09XBTK1M3{{</world>}}

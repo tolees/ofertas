@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Falda de tubo con acabado en costa plana. Juego de costas más finas en las caderas
 - 78% lana, 22% poliamida
+- Falda de tubo con acabado en costa plana. Juego de costas más finas en las caderas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNJM7492{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Apto lavavajillas
 - Antiadherente
 - Apto Horno
-- Apto lavavajillas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B017RAXQR4{{</world>}}

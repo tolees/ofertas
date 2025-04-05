@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin dejar efecto graso
-- Apta para pieles sensibles
-- Elimina todo tipo de maquillaje
 - El producto está testado oftalmológicamente
 - Viene en un pequeño y cómodo recipiente equipado con un dosificador
+- Elimina todo tipo de maquillaje
+- Apta para pieles sensibles
+- Sin dejar efecto graso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002XZLAWM{{</world>}}

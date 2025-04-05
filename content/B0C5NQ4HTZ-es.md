@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Horma clásica
+- Forro textil
 - Parte superior textil con refuerzos de ante sintético
 - Cierre de cordones
-- Forro textil
 - Inspiración deportiva y sostenibilidad
-- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5NQ4HTZ{{</world>}}

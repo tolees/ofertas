@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En caja de almacenaje
 - De acero para muelles
 - Fosfatado negro
-- Material: acero para muelles | tratamiento superficial: fosfatado, negro
 - Contenido de suministro: anillos de seguridad en e 30 x 1,5 mm | anillos de seguridad en e 30 x 3 mm | anillos de seguridad en e 40 x 5 mm | anillos de seguridad en e 50 x 6 mm | anillos de seguridad en e 50 x 10 mm | anillos de seguridad en e 40 x 12 mm | anillos de seguridad en e 20 x 15 mm | anillos de seguridad en e 20 x 19mm | anillos de seguridad en e 20 x 22 mm
+- Material: acero para muelles | tratamiento superficial: fosfatado, negro
+- En caja de almacenaje
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000PTZA1K{{</world>}}

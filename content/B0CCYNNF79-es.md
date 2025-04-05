@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Juega como Jara Rydek y Carter Diaz, dos oficiales de la Flota Estelar atrapados en un misterio que deben evitar que se desborde en un conflicto que abarque toda la galaxia.
-- Toma decisiones que darán forma al desenlace de tu historia.
-- Explora nuevos mundos, conoce nuevas especies alienígenas y enfrenta peligrosas amenazas.
 - Con la participación del Embajador Spock y el Capitán William T. Riker (con la voz de Jonathan Frakes).
+- Toma decisiones que darán forma al desenlace de tu historia.
 - Desarrollado por Dramatic Labs, un nuevo estudio compuesto por antiguos miembros de Telltale Games.
+- Explora nuevos mundos, conoce nuevas especies alienígenas y enfrenta peligrosas amenazas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CCYNNF79{{</world>}}

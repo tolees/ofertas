@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vegano
 - Espuma viscoelástica
-- Lavable a máquina
 - Zapato cómodo
 - Skech Air
+- Vegano
+- Lavable a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096KQ13MV{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tapa de plástico apta para alimentos, sin BPA ni ftalatos.
 - Capacidad: 370 ml
-- Taza de acero inoxidable con mensaje motivador.
 - Térmica, mantiene las bebidas calientes o frías durante 10h.
+- Tapa de plástico apta para alimentos, sin BPA ni ftalatos.
+- Taza de acero inoxidable con mensaje motivador.
 - Apta para el lavavajillas, pero no para el microondas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

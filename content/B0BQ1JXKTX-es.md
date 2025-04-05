@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Freidora de diseño elegante y compacto.
 - Recipiente de 2.5 L de capacidad para poder cocinar para dos personas perfectamente. 1200 W de potencia para cocinar de manera rápida todos los platos. Resultados excepcionales en todas las recetas gracias a la tecnología PerfectCook de aire caliente que circula por el interior y sale por los orificios traseros.
-- Tiempo ajustable de 0 a 30 minutos.
 - Con protección contra sobrecalentamiento. Luz indicadora de funcionamiento. Base antideslizante para favorecer su apoyo durante el funcionamiento. Carcasa y asa de tacto frío.
+- Tiempo ajustable de 0 a 30 minutos.
 - Freidora dietética que permite cocinar con una sola cucharada de aceite, consiguiendo unos resultados más sanos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

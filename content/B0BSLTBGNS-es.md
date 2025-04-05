@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto Oficial Hawkers, incluye funda en microfibra y caja
 - Modelo unisex, medidas: frontal 142 mm, patillas 140 mm, puente 20 mm, diámetro de lente 51.9 mm
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el óptimo Nylon para monturas del mundo que proporciona flexibilidad y resistencia
+- Producto Oficial Hawkers, incluye funda en microfibra y caja
 - Nuestro diseño Warwick, con sus lentes redondeadas, puente de ojo de cerradura y patillas delgadas, es uno de nuestros iconos
 - Gafas de sol polarizadas, otorga una visión sin reflejos y contraste natural de colores
 

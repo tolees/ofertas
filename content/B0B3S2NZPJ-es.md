@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Algodón ecológico: diseñado para respetar el medioambiente
-- Mangas de punto otomano: el toque contemporáneo
 - Regular fit, corte recto: clásico, básico, atemporal
 - Cocodrilo bordado cosido en la prenda: Lacoste por óptimidad
+- Algodón ecológico: diseñado para respetar el medioambiente
+- Mangas de punto otomano: el toque contemporáneo
 - Cuello polo acanalado: el detalle distintivo del modelo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

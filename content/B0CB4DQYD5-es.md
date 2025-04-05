@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pierna recta
-- Detalles de 5 bolsillos
 - Cintura alta
+- Detalles de 5 bolsillos
 - Pequeño destruye
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

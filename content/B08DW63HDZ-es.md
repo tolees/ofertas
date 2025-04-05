@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma flexible con tracción
 - Media suela ligera con amortiguación
+- Suela de goma flexible con tracción
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08DW63HDZ{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ancho del zapato: estrecho
 - Material exterior: ante
 - Grado de resistencia al agua: no impermeable
-- Ancho del zapato: estrecho
 - Forma del tacón: plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

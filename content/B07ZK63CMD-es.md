@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Sintético
-- Tipo de cierre: Cordones
 - Tacón: Plano
+- Tipo de cierre: Cordones
+- Material exterior: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07ZK63CMD{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con cuello alto
+- Chaqueta con aspecto de piel
 - Cremallera frontal
 - Composición: 50% poliuretano, 50% poliéster
-- Chaqueta con aspecto de piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B086H4PTTC{{</world>}}

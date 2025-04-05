@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Banda elástica en el pecho
-- Logotipo Hotel KARL en el pecho
 - Tejido Jersey
 - Tirantes ajustables
+- Logotipo Hotel KARL en el pecho
+- Banda elástica en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B677D8LF{{</world>}}

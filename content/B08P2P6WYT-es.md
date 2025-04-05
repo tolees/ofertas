@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cintura elástica
-- Lote de tres calzoncillos
 - Logotipo KARL en la cintura
 - Tejido Jersey
 - Sostenibilidad: Esta prenda está confeccionada con algodón orgánico certificado. Los agricultores implicados siguen prácticas de agricultura ecológica. Por lo tanto, no se han utilizado fertilizantes y pesticidas químicos ni semillas modificadas genéticamente.
+- Lote de tres calzoncillos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08P2P6WYT{{</world>}}

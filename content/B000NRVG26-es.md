@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Excelente calidad WELEDA: Con Extracto de Hojas de Abedul BIO y Extracto de Rusco.
-- Suavizante: El uso constante mediante el masaje previene y mejora el estado de la celulitis. Su fórmula con Germen de Trigo, Aceite de semilla de Abedul y Jojoba nutre, alisa y tonifica la piel.
-- Eficacia testada dermatológicamente: Piel más firme +35%. Piel más lisa +22%. Elasticidad de la piel +21%. Reducción del contorno del muslo de hasta: - 3,6 centímetros tras 28 días de aplicación.
-- Acción anticelulítica y reductora: Su avanzada fórmula con extractos biológicos de hojas jóvenes de Abedul, Romero y Rusco activa el metabolismo de la piel y los líquidos del organismo.
 - Contenido: 1 x WELEDA Aceite de Abedul para la Celulitis
+- Excelente calidad WELEDA: Con Extracto de Hojas de Abedul BIO y Extracto de Rusco.
+- Eficacia testada dermatológicamente: Piel más firme +35%. Piel más lisa +22%. Elasticidad de la piel +21%. Reducción del contorno del muslo de hasta: - 3,6 centímetros tras 28 días de aplicación.
+- Suavizante: El uso constante mediante el masaje previene y mejora el estado de la celulitis. Su fórmula con Germen de Trigo, Aceite de semilla de Abedul y Jojoba nutre, alisa y tonifica la piel.
+- Acción anticelulítica y reductora: Su avanzada fórmula con extractos biológicos de hojas jóvenes de Abedul, Romero y Rusco activa el metabolismo de la piel y los líquidos del organismo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000NRVG26{{</world>}}

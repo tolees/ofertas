@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología de convección
 - Freidora de aire Naturfry 3,5L - Potencia 1400W - Capacidad 3,5L
 - Calentamiento de forma uniforme - Fríe, hornea, rostiza, cocina y calienta
 - Control LED tactil - Regulador de temparatura 50º - 500º - Temporizadoras hasta 60 minutos - Avisador acústico
 - Cubeta antiadherente de 3,5L - Cubeta extraíble y apta para lalvavajillas - Diseño compacto
+- Tecnología de convección
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09X31QSGV{{</world>}}

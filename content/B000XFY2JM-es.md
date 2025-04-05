@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Material: acero inoxidable Cromargan 18/10, mate, inoxidable, apto para lavavajillas, fácil de limpiar, estable, higiénico, resistente a los ácidos
 - El jigger estrecho garantiza la cantidad correcta en el cóctel: como el jigger no siempre está lleno hasta el borde, falta una cierta cantidad de líquido en la bebida, y cuanto más estrecho es el jigger, menos licor falta
 - Contenido: 1x barra medidora con 2 unidades (altura 7,5 cm, para 2 cl y 4 cl) - número de artículo: 0600126030
-- El vaso medidor pequeño es ideal para medir y dosificar con precisión 2 cl y 4 cl para cócteles u otras bebidas mixtas
-- Material: acero inoxidable Cromargan 18/10, mate, inoxidable, apto para lavavajillas, fácil de limpiar, estable, higiénico, resistente a los ácidos
 - Ya sea en el bar o con invitados en casa: la medida de cóctel puede contribuir a crear bonitos cócteles tanto en casa como en restaurantes
+- El vaso medidor pequeño es ideal para medir y dosificar con precisión 2 cl y 4 cl para cócteles u otras bebidas mixtas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000XFY2JM{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Línea: Gant
-- Ajuste: ajuste cómodo
-- Gant Polo para hombre, media manga, cuello polo abotonado, logotipo bordado en el pecho, aberturas laterales, negro liso
 - Longitud de la manga: manga corta
 - Talla L
+- Ajuste: ajuste cómodo
+- Gant Polo para hombre, media manga, cuello polo abotonado, logotipo bordado en el pecho, aberturas laterales, negro liso
+- Línea: Gant
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TQH4TF6{{</world>}}

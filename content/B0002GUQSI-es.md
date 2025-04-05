@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Forjado de acero cromado
 - 190 mm, 9 dimensiones para cortar
 - Ennegrecido químicamente y endurecido correctamente
 - Dimensiones: 27.4 x 9.7 x 1.8 cm
-- Forjado de acero cromado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0002GUQSI{{</world>}}

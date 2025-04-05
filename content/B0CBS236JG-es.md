@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología Dri-Fit
-- Camiseta deportiva sin mangas
 - Amplia libertad de movimiento
+- Camiseta deportiva sin mangas
+- Tecnología Dri-Fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBS236JG{{</world>}}

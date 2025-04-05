@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Arenas de combate dinámicas: Todos los entornos están repletos de estructuras y dispositivos peligrosos que puedes aprovechar para darle un toque extra de creatividad a tus estrategias ofensivas.
 - Recorre un Japón neofeudal: Atraviesa una mítica tierra asiática imbuida de la magia y tecnología de los antiguos samuráis, ahora invadida por los yokai demoníacos del folclore japonés.
-- Líate a catanazos en los tiroteos: Orquesta una sinfonía letal en cada enfrentamiento con las hordas demoníacas combinando una potencia de fuego abrumadora con precisos y devastadores golpes de catana.
-- Muévete con destreza: Fluye con agilidad con técnicas de movimiento que te permiten realizar movimientos aéreos, saltos dobles y correr por la pared, y aprovecha un nuevo e impresionante gancho que multiplica tu potencial ofensivo y de movimiento en cada batalla.
 - Ejecuta y aniquila: Ejecuta espectaculares movimientos finales para apoderarte de fragmentos de los enemigos derrotados y desatar su poder contra la horda liberando una ráfaga de furia y magia imparables.
+- Muévete con destreza: Fluye con agilidad con técnicas de movimiento que te permiten realizar movimientos aéreos, saltos dobles y correr por la pared, y aprovecha un nuevo e impresionante gancho que multiplica tu potencial ofensivo y de movimiento en cada batalla.
+- Arenas de combate dinámicas: Todos los entornos están repletos de estructuras y dispositivos peligrosos que puedes aprovechar para darle un toque extra de creatividad a tus estrategias ofensivas.
+- Líate a catanazos en los tiroteos: Orquesta una sinfonía letal en cada enfrentamiento con las hordas demoníacas combinando una potencia de fuego abrumadora con precisos y devastadores golpes de catana.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTYYBQ56{{</world>}}

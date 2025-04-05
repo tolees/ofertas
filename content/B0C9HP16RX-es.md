@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Baskets
 - Semelle : caoutchouc
+- Baskets
 - Pointe ronde
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

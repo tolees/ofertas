@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- omnidireccional
-- No es compatible con dispositivos de teléfonos inteligentes
 - Frecuencia del micrófono: 90-10,000 Hz
+- Impedancia: 600 Ohm
 - Sensibilidad del micrófono: -73 dB
 - Tecnología de conexión: Con cable.
-- Impedancia: 600 Ohm
+- omnidireccional
+- No es compatible con dispositivos de teléfonos inteligentes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00006JDJU{{</world>}}

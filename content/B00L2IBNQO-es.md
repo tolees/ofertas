@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - CATÁLOGO VARIADO: Descubre en nuestro catálogo una gran variedad de productos adaptados a todas tus necesidades. Puedes encontrar desde productos de bricolaje como tornillos, tuercas, lonas, hasta soluciones para el control de plagas en el hogar.
-- SOBRE DICOAL: Somos parte de la familia Altuna, enfocada en la concepción y distribución de productos de bricolaje, ferretería y suministros industriales en general. ¿Tienes un trabajo a la vista? En Dicoal te ayudamos a llevarlo adelante.
-- PRODUCTOS DE CALIDAD: En Dicoal buscamos ofrecerte soluciones prácticas, resistentes y eficaces. Por eso, para elaborar todos nuestros productos recurrimos a materiales de calidad que aseguren la durabilidad de tus trabajos.
-- AFILADOR Y ACCESORIOS: Descubre nuestro afilador para cadenas de motosierra y el disco de recambio, elementos fundamentales si desear tener tus herramientas preparadas y en buenas condiciones. Con sistemas de seguridad, podrás manejarlos cómodamente.
 - USO PROFESIONAL Y DOMÉSTICO: Ya seas un manitas del bricolaje o un profesional de la construcción, en Dicoal encontrarás todo lo que necesitas para llevar tus trabajos a un nuevo nivel de calidad y excelencia.
+- SOBRE DICOAL: Somos parte de la familia Altuna, enfocada en la concepción y distribución de productos de bricolaje, ferretería y suministros industriales en general. ¿Tienes un trabajo a la vista? En Dicoal te ayudamos a llevarlo adelante.
+- AFILADOR Y ACCESORIOS: Descubre nuestro afilador para cadenas de motosierra y el disco de recambio, elementos fundamentales si desear tener tus herramientas preparadas y en buenas condiciones. Con sistemas de seguridad, podrás manejarlos cómodamente.
+- PRODUCTOS DE CALIDAD: En Dicoal buscamos ofrecerte soluciones prácticas, resistentes y eficaces. Por eso, para elaborar todos nuestros productos recurrimos a materiales de calidad que aseguren la durabilidad de tus trabajos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00L2IBNQO{{</world>}}

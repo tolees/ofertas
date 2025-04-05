@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Siente emociones fuertes, pon a prueba tu destreza y tu resistencia con actividades de montaña
-- Requiere Los Sims 4 y todas las actualizaciones del juego, para PC, consulta los requisitos mínimos del sistema para el pack, este juego sólo contiene contenido descargable, no incluye disco
 - Busca el zen, deja tus preocupaciones en las aguas termales naturales, degusta una cazuela caliente en el kotatsu o relaciónate mientras atraviesas bosques de bambú y terrenos nevados
 - Crea tu santuario, ya prefieras los detalles tradicionales o los toques modernos de la decoración de inspiración japonesa, podrás incorporar puertas, ventanas y biombos de estilo shoji, tatamis y otros elementos para diseñar una casa acorde con tu vida
 - Define tu estilo de vida, desbloquea nuevos efectos de personalidad y relación con los nuevos estilos de vida y sentimientos
+- Siente emociones fuertes, pon a prueba tu destreza y tu resistencia con actividades de montaña
+- Requiere Los Sims 4 y todas las actualizaciones del juego, para PC, consulta los requisitos mínimos del sistema para el pack, este juego sólo contiene contenido descargable, no incluye disco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08LT8DC59{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cordones
 - Horma clásica
 - Puntera reforzada
+- Cierre de cordones
 - Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

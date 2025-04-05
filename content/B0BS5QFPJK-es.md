@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Confort
 - Ajuste regular
 - Detalles de la marca
-- Confort
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS5QFPJK{{</world>}}

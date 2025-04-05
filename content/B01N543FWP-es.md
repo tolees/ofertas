@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Enriquecida con una mezcla de aceites multifuncionales y extracto de arándano (una poderosa fruta con efecto memorizador)
 - Aplicar novex mis rizos mascarilla y dejar actuar durante 10 minutos; enjuagar
 - Hidrata y define los rizos
-- Enriquecida con una mezcla de aceites multifuncionales y extracto de arándano (una poderosa fruta con efecto memorizador)
 - Controla el volume y reduce el frizz
 
 [🛒 Aquí!!!]({{< param buyurl >}})

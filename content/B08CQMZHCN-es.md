@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Skechers Detalle del logotipo
 - Entresuela ligera que absorbe los golpes
-- Plantilla acolchada y cómoda
+- Skechers Detalle del logotipo
 - Cordones elásticos con cierre de correa de velcro
+- Plantilla acolchada y cómoda
 - Parte superior sintética con ribete de contraste
 
 [🛒 Aquí!!!]({{< param buyurl >}})

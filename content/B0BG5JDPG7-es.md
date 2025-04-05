@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo impreso en el pecho
-- Totalmente forrado
 - Resistente al agua
+- Totalmente forrado
+- Logotipo impreso en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BG5JDPG7{{</world>}}

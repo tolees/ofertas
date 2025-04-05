@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Small logo print on the left chest
+- Crew neck
+- Jersey made from sustainable cotton
 - Regular fit
 - Express your style with this logo T-shirt. Thanks to its jersey fabric made of pure cotton, it is soft, lightweight and breathable. The refined logo print gives your outfit extra stylish flair.
-- Small logo print on the left chest
-- Jersey made from sustainable cotton
-- Crew neck
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BK25WM5X{{</world>}}

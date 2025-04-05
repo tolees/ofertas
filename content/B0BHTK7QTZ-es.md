@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos insertados con diseño de pespuntes
 - Talle medio
+- Bolsillos insertados con diseño de pespuntes
 - Bolsillos con un ribete en la parte trasera
-- Bragueta de cremallera
 - Bolsillo para monedas en la costura lateral
+- Bragueta de cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BHTK7QTZ{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Batalla Eterna: 25 jugadores compitiendo en línea, el último jugador en pie gana la partida. Los campeones pueden utilizar poderes especiales para tomar ventaja durante la partida.
-- 4 modos de juego:
 - Retro: Juega al juego original Arkanoid de 1986 en un gabinete Arcade de época
-- Versus: Modo multijugador local en el que pueden competir de 2 a 4 jugadores en la misma pantalla, basado en el modo Neo
 - Neo: El mismo modo de juego que el clásico Arkanoid con nuevos niveles, potenciadores y paredes espaciales.
+- Versus: Modo multijugador local en el que pueden competir de 2 a 4 jugadores en la misma pantalla, basado en el modo Neo
+- 4 modos de juego:
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3JVMDNG{{</world>}}

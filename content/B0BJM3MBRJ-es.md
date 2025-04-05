@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseño versátil de dos piezas: cubierta que protege el dispositivo por ambos lados y teclado extraíble.
+- Mecanismo de tijera de 1 mm de recorrido para escribir con comodidad.
 - Trackpad integrado compatible con los gestos Multi‑Touch y el cursor en iPadOS.
 - Soporte ajustable para elegir el mejor ángulo de visión.
-- Mecanismo de tijera de 1 mm de recorrido para escribir con comodidad.
-- Diseño versátil de dos piezas: cubierta que protege el dispositivo por ambos lados y teclado extraíble.
 - 14 teclas de función para acceder fácilmente a los atajos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

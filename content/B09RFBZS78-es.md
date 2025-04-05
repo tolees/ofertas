@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Sintético
-- Material de la suela: Material Sintético
 - Cierre: Sin Cordones
+- Material de la suela: Material Sintético
+- Material exterior: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RFBZS78{{</world>}}

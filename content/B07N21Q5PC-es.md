@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recomendado a partir de 6 años
 - Puzzles inspirados en selfie bajo el agua
+- Recomendado a partir de 6 años
 - Puzzles de 100 piezas , horas de diversión y entretenimiento; dimensiones aproximadas del puzzle montado: 40 x 28 cm
 - Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los más pequeños
 

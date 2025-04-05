@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punta redonda
-- Cierre de encaje
 - Confort
+- Cierre de encaje
+- Punta redonda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QBPK1LQ{{</world>}}

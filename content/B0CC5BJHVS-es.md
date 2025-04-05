@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicación ultrasuave y apta para ojos sensibles
-- Mega volumen
 - Longitud y definición máxima
+- Mega volumen
+- Aplicación ultrasuave y apta para ojos sensibles
 - Resistente al agua
 - Sensación ultraligera
 

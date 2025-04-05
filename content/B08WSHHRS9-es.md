@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PORTÁTIL - ¡Juega con nuestro castillo donde quiera que estés! Los niños pueden jugar en casa, con los amigos o incluso pueden llevárselo a la casa de la abuela
 - PARA 2 MUÑECAS DE MODA - En el castillo pueden caber la mayoría de las muñecas de moda de 29 cm. Las muñecas no están incluidas.
-- EDAD - El regalo perfecto que estimula la imaginación. Ideal para niños a partir de 3 años.
+- PORTÁTIL - ¡Juega con nuestro castillo donde quiera que estés! Los niños pueden jugar en casa, con los amigos o incluso pueden llevárselo a la casa de la abuela
 - 2 PISOS - Este castillo de dos pisos es perfecto para jugar en 360⁰. Puede albergar las hadas sorpresa de MGA y las muñecas de moda I AM de MGA. ¡Empieza a contar cuentos ya!
 - CAMA SORPRESA - En el segundo piso hay una cama plegable sorpresa. El castillo también tiene puertas, muebles y accesorios que funcionan de verdad
+- EDAD - El regalo perfecto que estimula la imaginación. Ideal para niños a partir de 3 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08WSHHRS9{{</world>}}

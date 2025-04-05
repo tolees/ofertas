@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Costuras de goma en la puntera para mejorar la resistencia
 - Suela de goma resistente
+- Costuras de goma en la puntera para mejorar la resistencia
 - Creado con forro diseñado específicamente para niños.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

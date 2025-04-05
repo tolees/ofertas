@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Derrocha estilo isleño, luce indumentaria tropical inspirada en el sol, la arena y las olas, o atavíate para actividades acuáticas como el buceo de superficie o la natación
-- Arrima el hombro o ayuda, hazte conservacionista, limpia las playas y observa el impacto de tus acciones por toda la isla
-- Reclínate y relájate, te damos la bienvenida a Sulani, donde el sol brilla con intensidad y las noches son refrescantes
 - Participa en la cultura local, Sulani tiene unas tradiciones muy arraigadas que te permitirán disfrutar de todo lo que ofrece este lugar
+- Arrima el hombro o ayuda, hazte conservacionista, limpia las playas y observa el impacto de tus acciones por toda la isla
 - Requiere Los Sims 4 y todas las actualizaciones del juego, para PC, consulta los requisitos mínimos del sistema para el pack, este juego sólo contiene contenido descargable, no incluye disco
+- Reclínate y relájate, te damos la bienvenida a Sulani, donde el sol brilla con intensidad y las noches son refrescantes
+- Derrocha estilo isleño, luce indumentaria tropical inspirada en el sol, la arena y las olas, o atavíate para actividades acuáticas como el buceo de superficie o la natación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07SVYRGP4{{</world>}}

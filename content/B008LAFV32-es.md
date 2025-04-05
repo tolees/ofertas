@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La tecnología de baterías de iones de litio DeWALT XR ofrece tiempo de ejecución prolongado y potencia optimizada para completar aplicaciones rápidamente
-- El diseño liviano proporciona 18 V de potencia para el equivalente de 12 V NiCd / NiMH paquete de peso
 - Compatible con todas las herramientas 18 V XR Li-Ion DEWALT
+- El diseño liviano proporciona 18 V de potencia para el equivalente de 12 V NiCd / NiMH paquete de peso
 - Sin efecto de memoria y virtualmente sin autodescarga para máxima productividad y menos tiempo de inactividad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

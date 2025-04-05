@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lavado ECO-WASH realizado Con lavadoras eficientes
 - Cierre bragueta Con cremallera
 - Con estas tecnologías sostenibles reducimos el consumo de agua, químicos y energía
+- Lavado ECO-WASH realizado Con lavadoras eficientes
 - Vaquero 5 bolsillos ajustado y elástico en fit skinny
 
 [🛒 Comprar!!!]({{< param buyurl >}})

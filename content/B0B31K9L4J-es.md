@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Boost Intersuola
 - Ajuste regular
 - Producto PrimeBlue
-- Boost Intersuola
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B31K9L4J{{</world>}}

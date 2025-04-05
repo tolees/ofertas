@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Base de enchufe múltiple con 8 tomas de corriente con toma a tierra y con 2,5m cable (H05VV-F 3G1,5)
 - Regleta de enchufes con protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
 - Protector sobretensión: Protege los aparatos eléctricos valiosos de sobretensiónes con una corriente de fuga máx. de hasta 13.500A (protección ante tormentas eléctricas, rayos, etc.)
-- Enchufe múltiple montable, instalación y fijación posible, con una carcasa estable y interruptor de seguridad iluminado para encendido/apagado (bipolar)
 - Regleta eléctrica Super-Solid con 14 enchufes colocados en un ángulo de 45° - la disposición de las tomas le permite conectar enchufes angulares
+- Base de enchufe múltiple con 8 tomas de corriente con toma a tierra y con 2,5m cable (H05VV-F 3G1,5)
+- Enchufe múltiple montable, instalación y fijación posible, con una carcasa estable y interruptor de seguridad iluminado para encendido/apagado (bipolar)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B007WVIBK6{{</world>}}

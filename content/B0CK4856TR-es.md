@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 30 cm de altura x 35.5 de ancho x 18.5 de profundidad
-- Repelente al agua
 - Bolsa mediana con correa de hombro ajustable
 - De poliamida
 - Peso 0.47 kg, volumen 13 l
+- Repelente al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CK4856TR{{</world>}}

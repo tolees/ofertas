@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología de renderizado y fotogrametría mejorada
 - Un nuevo sistema de armería que permite más personalización que nunca
+- Tecnología de renderizado y fotogrametría mejorada
 - Innovaciones revolucionarias para sentar las bases de la próxima generación de juegos.
 - Un sistema de IA reconstruido y avanzado
 

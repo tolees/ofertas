@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: cremallera
 - Material superior: cuero
+- Cierre: cremallera
 - Suela: goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

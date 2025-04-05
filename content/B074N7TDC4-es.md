@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Altura del tacón: 2,00 cm
 - Panama Jack Botas de cuero para hombre
-- Material principal: napa, material de revestimiento: piel natural / real de la salmuera de piel Material: TR Interior de la solera extraíble: No
 - Fabricado en España
+- Material principal: napa, material de revestimiento: piel natural / real de la salmuera de piel Material: TR Interior de la solera extraíble: No
+- Altura del tacón: 2,00 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074N7TDC4{{</world>}}

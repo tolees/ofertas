@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FLEXIBLE - Two welt pockets at the back and slanted front pockets each offer plenty of room.
 - MATERIAL - Stretch fabric made of 98% cotton and 2% elastane.
-- PERFECT- A super all-rounder for your daily look! JPSTMARCO JJBOWIE - 12150148 by Jack & Jones.
+- FLEXIBLE - Two welt pockets at the back and slanted front pockets each offer plenty of room.
 - COMFORT - Slim fit with tapered leg shape.
+- PERFECT- A super all-rounder for your daily look! JPSTMARCO JJBOWIE - 12150148 by Jack & Jones.
 - EL TAMAÑO DEL ARTÍCULO ES NORMAL
 
 [🛒 Visítala!!!]({{< param buyurl >}})

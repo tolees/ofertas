@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho con al menos un 70% de algodón sostenible
 - Nos asociamos con Better Cotton Initiative para el cultivo algodonero
+- Hecho con al menos un 70% de algodón sostenible
 - Corte Slim
 
 [🛒 Comprar!!!]({{< param buyurl >}})

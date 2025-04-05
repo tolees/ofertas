@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 12 accesorios en dotación
 - Caldera a presión con tapón de seguridad hasta 3 bar
 - El vapor de Polti Vaporetto mata y elimina el 99.99% * de virus, gérmenes y bacterias
 - Amplio compartimento para guardar los accesorios
+- 12 accesorios en dotación
 - Regulación vapor hasta 85 g/min
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma equipo para derrotar al mal
 - Armas, Hechizos y mucho más
+- Forma equipo para derrotar al mal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09T3Z8KKS{{</world>}}

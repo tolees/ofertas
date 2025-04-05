@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Espuma viscoelástica
-- Antideslizante
 - EN ISO 20347:2012
 - OB E FO SRC
+- Antideslizante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08P26ZZLX{{</world>}}

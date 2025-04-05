@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Transpirable
-- Malla textil lining
 - PU upper
 - TPR Outsole
+- Transpirable
+- Malla textil lining
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C24CWNJK{{</world>}}

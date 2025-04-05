@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Zapatilla de running neutra
-- Suela de goma ASICSGRIP
 - Placa de accionamiento Pebax
+- Suela de goma ASICSGRIP
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B56S4CNR{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso ligero
 - Flexible y flexible
 - Obtén el ajuste adecuado: Crocs va por tallas de EE. UU. en la suela. Asegúrate de estar a la altura de la conversión, consulta nuestra tabla de tallas a continuación
 - Elige el tamaño Crocs ideal: Crocs utiliza tallas de EE. UU. en la suela; las tallas del Reino Unido siguen una conversión de talla única (por ejemplo, US M5 | W7 corresponde a UK M4 | W5). Si normalmente usas media talla, te recomendamos pedir una talla más grande
+- Peso ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQRTH1MK{{</world>}}

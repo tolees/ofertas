@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Porducto con licencia oficial
 - 0
+- Porducto con licencia oficial
 - Puzzle 3D
 - Para pasar un buen rato en familia
 

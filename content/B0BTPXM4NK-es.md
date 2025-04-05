@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de cierre Cremallera
 - Altura Tacón Medio (de 3 A 5 cm)
-- Material principal Sintético
+- Tipo de cierre Cremallera
 - Material de la suela Caucho
+- Material principal Sintético
 - Tipo de tacón Plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

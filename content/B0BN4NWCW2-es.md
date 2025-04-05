@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BEBIDA VEGETAL BIO: Natural, ecológica, tropical y fresca como el coco, así es nuestra bebida vegetal. Te ofrecemos el sabor refrescante del coco en cada taza. ¡Se convertirá en el acompañante ideal para seguir una dieta saludable!
 - MÚLTIPLES BENEFICIOS: El coco es una rica fuente de vitaminas, magnesio, hierro, potasio, fibra, fósforo y otros minerales. Como resultado, es beneficioso para reforzar el sistema inmunitario, favorecer la digestión y controlar tu peso.
-- SOBRE NOSOTROS: Desde 2014 nuestra misión es conseguir que la alternativa vegetal sea la mejor opción. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
-- INGREDIENTES NATURALES: Elaborado a partir de agua, agua de coco de concentrado al 40%, leche de coco al 8%, estabilizantes: goma guar y goma xantana, aroma natural de coco y sal marina. Es apto para veganos y no contiene azúcar ni lactosa.
+- BEBIDA VEGETAL BIO: Natural, ecológica, tropical y fresca como el coco, así es nuestra bebida vegetal. Te ofrecemos el sabor refrescante del coco en cada taza. ¡Se convertirá en el acompañante ideal para seguir una dieta saludable!
 - MEZCLA Y DISFRUTA: Toma nuestra bebida vegetal en los desayunos, tanto fría como caliente. Puedes consumirla sola, en smoothies, con café, infusiones, cereales, mueslis o copos. Incluso en cremas o sopas. ¡Hay un sinfín de posibilidades!
+- INGREDIENTES NATURALES: Elaborado a partir de agua, agua de coco de concentrado al 40%, leche de coco al 8%, estabilizantes: goma guar y goma xantana, aroma natural de coco y sal marina. Es apto para veganos y no contiene azúcar ni lactosa.
+- SOBRE NOSOTROS: Desde 2014 nuestra misión es conseguir que la alternativa vegetal sea la mejor opción. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN4NWCW2{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Almacenaje y transporte: 1 práctica mesa lateral plegable y ruedas con seguro para almacenarla cuando no se use ,con bandeja integrada para colocar los condimentos
+- Potente y de alta calidad: Dos quemadores de hierro fundido de alto rendimiento (8,2 kW) + 1 quemador lateral (2,3 kW) para calentar salsas o guarniciones; piezo seguro para facilitar el encendido
+- Especificaciones: Tapa de acero con ventanilla y termómetro (ideal para asado indirecto); altura de cocina: 90 cm ; Consumo de gas 546 +167 g/h; peso 26 kg
 - Infinitas opciones para cocinar: Gran parrilla de hierro fundido (55 x 33 cm), parrilla de calentamiento cromada que se extiende por todo el ancho de la superficie del grill
 - Distribución uniforme del calor: barbacoa piedra volcanica que garantizan una distribución uniforme del calor en toda la superficie de la parrilla y ayudan a proteger los quemadores del goteo de grasa
-- Almacenaje y transporte: 1 práctica mesa lateral plegable y ruedas con seguro para almacenarla cuando no se use ,con bandeja integrada para colocar los condimentos
-- Especificaciones: Tapa de acero con ventanilla y termómetro (ideal para asado indirecto); altura de cocina: 90 cm ; Consumo de gas 546 +167 g/h; peso 26 kg
-- Potente y de alta calidad: Dos quemadores de hierro fundido de alto rendimiento (8,2 kW) + 1 quemador lateral (2,3 kW) para calentar salsas o guarniciones; piezo seguro para facilitar el encendido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IQ3Q0NE{{</world>}}

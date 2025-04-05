@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- BENEFICIOS: Ayuda a prevenir y controlar la otitis externa de tu mascota. Muy bien tolerada por los animales, gracias a su pH fisiológico, que tiene propiedades limpiadoras y reductoras del mal olor.
-- MODO DE EMPLEO: Aplicar con una toallita de papel suave en el conducto auricular externo. Repetir en la otra oreja empleando otra toallita limpia. Al final limpie ambos conductos auditivos.
-- PRODUCTO NATURAL: Limpiador natural para la limpieza del conducto auditivo externo de perros y gatos sin alcohol u otros ingredientes que pueden irritar la piel.
 - HIGIENE AURICULAR: En animales con grandes acúmulos de cerumen y suciedad, con mal olor, aplicar cada 24 horas durante 8 días consecutivos. pH fisiológico adaptado a la piel del perro.
+- BENEFICIOS: Ayuda a prevenir y controlar la otitis externa de tu mascota. Muy bien tolerada por los animales, gracias a su pH fisiológico, que tiene propiedades limpiadoras y reductoras del mal olor.
 - PREVENCIÓN DE OTITIS: Se recomienda aplicar cada 5 o 7 días de forma rutinaria, mente en razas de orejas grandes y caídas o con los canales auditivos muy peludos.
+- PRODUCTO NATURAL: Limpiador natural para la limpieza del conducto auditivo externo de perros y gatos sin alcohol u otros ingredientes que pueden irritar la piel.
+- MODO DE EMPLEO: Aplicar con una toallita de papel suave en el conducto auricular externo. Repetir en la otra oreja empleando otra toallita limpia. Al final limpie ambos conductos auditivos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00Q78SF3I{{</world>}}

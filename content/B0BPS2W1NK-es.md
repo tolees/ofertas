@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Presenta a la izquierda una página con los días para las citas de la semana y una página rayada a la derecha para tomar notas y organizar ideas
+- La agenda incluye las icónicas esquinas redondeadas, cierre elástico, marcapáginas de cinta y aviso de "en caso de pérdida" en la portada. Papel marfil sin ácido de 70 g/m²
 - Herramientas útiles: calendario, planificador de viajes, ideas y objetivos, páginas rayadas para notas. Incluye pegatinas para personalizar sus planes y pegatinas anuales para el lomo
 - Inicia el año con tu agenda semanal de 12 meses que cubre todo el año, de enero a diciembre 2035
-- La agenda incluye las icónicas esquinas redondeadas, cierre elástico, marcapáginas de cinta y aviso de "en caso de pérdida" en la portada. Papel marfil sin ácido de 70 g/m²
-- Presenta a la izquierda una página con los días para las citas de la semana y una página rayada a la derecha para tomar notas y organizar ideas
 - El paquete incluye una agenda Semanal con Espacio para Notas con Tapa Suave disponibile en el formato Pocket 9x14, Color Negro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

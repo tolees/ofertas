@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tejido de algodón orgánico
+- Cuello redondo acado
+- Puños acados
 - Fantástico suéter con efecto sorprendente, simplemente irresistible
 - Mangas ajustadas
-- Puños acados
-- Cuello redondo acado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B71MHHKT{{</world>}}

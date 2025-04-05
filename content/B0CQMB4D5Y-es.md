@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- bordado de logo árbol a Contraste
 - Camiseta manga larga de piqué Con cortes en el pecho y bordado de logo árbol a Contraste
+- bordado de logo árbol a Contraste
 - Con cortes en el pecho
 - Camiseta
 - Camiseta manga larga

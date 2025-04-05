@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caja redonda de acero inoxidable con esfera en color negro
-- Caja de 46 mm, pulsera de 22 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica con cronógrafo, importado
 - Correa de piel en color negro
+- Caja de 46 mm, pulsera de 22 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica con cronógrafo, importado
+- Caja redonda de acero inoxidable con esfera en color negro
 - Resistente al agua hasta 100 m: apto para bañarse, nadar o practicar esnórquel y buceo en aguas poco profundas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

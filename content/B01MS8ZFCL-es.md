@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Protección perfecta para la cabeza
-- Productor: HJC
 - Alta calidad
+- Productor: HJC
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01MS8ZFCL{{</world>}}

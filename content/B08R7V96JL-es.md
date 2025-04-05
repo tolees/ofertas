@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Flexibilidad
 - Durabilidad
 - Ligero
-- Flexibilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08R7V96JL{{</world>}}

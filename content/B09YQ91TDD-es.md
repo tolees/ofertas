@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica con cordón
 - Bolsillos laterales
+- Cintura elástica con cordón
 - Corte
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

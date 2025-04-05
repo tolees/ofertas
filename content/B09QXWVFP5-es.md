@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Longitud: hasta el tobillo
 - Ajuste: delgado
 - Cintura media
-- Longitud: hasta el tobillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QXWVFP5{{</world>}}

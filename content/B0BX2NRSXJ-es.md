@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- producto 2: decorada a mano
-- producto 1: Contenido del paquete: reproducción de la cueva, estatuas de la sagrada familia, buey, burro, tres reyes magos y dos ángeles
-- producto 1: Dimensiones cueva: altura 13.5, ancho 13 cm, longitud 16 cm, dimensiones figuras: diámetro 3 cm, altura 4.8 cm
-- producto 1: Material: porcelana decorada a mano
 - producto 2: h . 5 cm
-- producto 1: Designer: LPWK, Massimo Giacon
+- producto 2: decorada a mano
 - producto 2: Giacon Massimo , LPWK
 - producto 2: 4,5 cm de diámetro
+- producto 1: Contenido del paquete: reproducción de la cueva, estatuas de la sagrada familia, buey, burro, tres reyes magos y dos ángeles
+- producto 1: Material: porcelana decorada a mano
+- producto 1: Dimensiones cueva: altura 13.5, ancho 13 cm, longitud 16 cm, dimensiones figuras: diámetro 3 cm, altura 4.8 cm
+- producto 1: Designer: LPWK, Massimo Giacon
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BX2NRSXJ{{</world>}}

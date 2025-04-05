@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se pueden utilizar en herramienta rotativa para perforaciones sobre madera, laminados, aglomerado, madera contrachapada, tablero de fibra
 - TAMAÑOS DE BROCA: Diámetros de 3 mm, 4 mm, 5 mm y 6 mm
+- Se pueden utilizar en herramienta rotativa para perforaciones sobre madera, laminados, aglomerado, madera contrachapada, tablero de fibra
+- Este juego de 4 brocas Dremel (636) con punto de centrado es óptimo para perforar madera
 - MATERIALES: Adecuada para taladrar en materiales de madera como madera dura, madera blanda, aglomerado, tablero de fibra, contrachapado y laminados
 - Se adapta a todas las herramientas Dremel multiusos/rotativas u otras herramientas multiusos/rotativas con mandril de 3,2 mm
-- Este juego de 4 brocas Dremel (636) con punto de centrado es óptimo para perforar madera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0014GTIOS{{</world>}}

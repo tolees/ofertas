@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deportivo
 - Wr 200mt
-- Negro y metálico
-- Automático
+- Deportivo
 - Analógico en acero inoxidable para hombre
+- Automático
+- Negro y metálico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07JF61L6J{{</world>}}

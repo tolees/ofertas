@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Short con cintura elástica ajustable mediante cordón
 - Set de dos piezas
 - 100% poliéster interlock
-- Short con cintura elástica ajustable mediante cordón
 - Camiseta de manga corta con contraste de color en hombros y cuello
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

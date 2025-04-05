@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diseño tradicional de 5 bolsillos
-- Un básico limpio y delgado en el armario que es una óptima alternativa a los jeans ajustados
 - Mezclilla clásico impregnada con elástico para comodidad durante todo el día
+- Un básico limpio y delgado en el armario que es una óptima alternativa a los jeans ajustados
 - Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

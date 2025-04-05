@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Procesador Intel Core i5-10210U (4Cores/4.2GHz, 6MB)
-- Tarjeta gráfica Intel UHD
-- Memoria RAM de 8GB DDR4 2400MHz
 - Almacenamiento de 256 GB SSD PCIe NVMe
 - Sistema Operativo: Windows 10 Pro
 - Pantalla de 15", FullHD 1920 x 1080 pixeles, 60Hz, 220 nits
+- Memoria RAM de 8GB DDR4 2400MHz
+- Tarjeta gráfica Intel UHD
+- Procesador Intel Core i5-10210U (4Cores/4.2GHz, 6MB)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CBDPVGQ{{</world>}}

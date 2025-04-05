@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Confeccionado con suave tejido de punto sencillo
-- Manga corta y escote redondo, óptimo para primavera, otoño y verano
+- BE PART: Somos un miembro orgulloso de la Better Cotton Initiative (BCI) Con la compra de este artículo apoyas un cultivo de algodón más sostenible
 - Corte: corte relajado, largo de espalda en la talla L aproximadamente 74 cm
 - Instrucciones de lavado: no lavar en seco, no secar en secadora, no se permite lejía, planchar a alta temperatura (200°C), Lavar a máquina a un máximo de 40°C
+- Confeccionado con suave tejido de punto sencillo
 - Camiseta moderna en diferentes colores con diferentes motivos fotográficos impresos en la parte delantera o trasera
-- BE PART: Somos un miembro orgulloso de la Better Cotton Initiative (BCI) Con la compra de este artículo apoyas un cultivo de algodón más sostenible
+- Manga corta y escote redondo, óptimo para primavera, otoño y verano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSFZ3PMZ{{</world>}}

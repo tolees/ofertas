@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuello con capucha
 - Puños plegables
 - Un bolsillo grande
-- Cuello con capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09M7G77PZ{{</world>}}

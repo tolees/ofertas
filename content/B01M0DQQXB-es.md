@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con su correa, llévela a todas partes
 - Gracias a un mando a distancia para selfie, utilice el Mini XBoy para ayudar a tomar fotos
 - Batería cargada
+- Con su correa, llévela a todas partes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M0DQQXB{{</world>}}

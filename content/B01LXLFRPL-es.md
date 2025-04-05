@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- MODO DE USO: Aplicar una pequeña cantidad sobre rostro, cuello y escote con la piel limpia o después del serum, realizando un suave masaje hasta su completa absorción. Podemos utilizarla una vez a la semana como mascarilla
+- CREMA ANTIEDAD: Cuenta con extracto de Wakame que revitaliza la piel y reduce las líneas de expresión, aumentando su tersura, y con Tetrapeptide-26 que activa y ajusta el reloj circadiano y ayuda enel proceso de regeneración celular nocturna natural
 - CREMA ANTIMANCHAS: También cuenta con activos antimanchas como el Extracto de la flor de peonía del Monte Jiri que actúa como despigmentante inhibiendo la tirosinasa. Además tiene propiedades antioxidantes y calmante
 - A PARTIR DE 40 AÑOS: Para pieles normales-secas a partir de 40 años sometidas a un elevado nivel de estrés, debido a su exposición a contaminantes ambientales y a la radiación UV, responsables de la aparición de los signos de la edad
 - TEXTURA: La crema Bella Aurora tiene un tono rosado con destellos violetas, con una textura de gel en crema con memoria. Fresca y fundente, que forma una película ultra-ligera sobre la piel. Su fragancia combina notas florales
-- MODO DE USO: Aplicar una pequeña cantidad sobre rostro, cuello y escote con la piel limpia o después del serum, realizando un suave masaje hasta su completa absorción. Podemos utilizarla una vez a la semana como mascarilla
-- CREMA ANTIEDAD: Cuenta con extracto de Wakame que revitaliza la piel y reduce las líneas de expresión, aumentando su tersura, y con Tetrapeptide-26 que activa y ajusta el reloj circadiano y ayuda enel proceso de regeneración celular nocturna natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LXLFRPL{{</world>}}

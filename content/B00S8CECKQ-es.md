@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ALUMINIUM: Aleación de aluminio.
-- LIGHTWEIGHT: Auriculares ligeros y cómodos.
 - NEODYMIUM: Sonido más profundo y nítido.
+- LIGHTWEIGHT: Auriculares ligeros y cómodos.
 - IN-EAR: Intrauditivos, reducen el ruido exterior.
+- ALUMINIUM: Aleación de aluminio.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00S8CECKQ{{</world>}}

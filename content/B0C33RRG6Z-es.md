@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior baja
-- No es resistente al agua
 - PUMA Detalle de marca
+- No es resistente al agua
+- Parte superior baja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C33RRG6Z{{</world>}}

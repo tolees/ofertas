@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Trim detail inside the neck
-- Solid colour
-- PEPEJEANS logo printed on the chest over the Union Jack flag
 - Ribbed detail on the neck
+- PEPEJEANS logo printed on the chest over the Union Jack flag
+- Solid colour
+- Trim detail inside the neck
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09QLFTLC8{{</world>}}

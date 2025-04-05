@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Acondiciona el cabello. Contiene oro liquido para el pelo
-- Libre de sales ni sulfatos
 - Prolonga el efecto de los tratamientos de alisado y coloración
+- Libre de sales ni sulfatos
 - Para el cabello: Natural; Unidades: 1000.0
 - Fortalece el cabello
 - Evita la resequedad, protege, hidrata, nutre y aporta brillo y suavidad

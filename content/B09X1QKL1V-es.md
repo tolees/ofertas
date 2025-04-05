@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: sin cierre
 - estilo del cuello: cuello redondo.
 - Estilo: T-style: camisa set
+- Cierre: sin cierre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09X1QKL1V{{</world>}}

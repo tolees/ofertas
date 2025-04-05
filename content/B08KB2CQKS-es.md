@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sensor Power Adapt que se adapta a la densida de tu barba para conseguir un corte suave e uniforme
 - 120 minutos con 1h de carga. Funcion de carga rapida
 - Fácil de limpiar y usar dentro o fuera de la ducha y empuñadura ergonómica para un máximo control
-- Sensor Power Adapt que se adapta a la densida de tu barba para conseguir un corte suave e uniforme
 - Cuchillas completamente metalicas cortan con precision y sin tirones
 - 30 posiciones de longitud diferentes con una precisión de 0,2mm en cada paso
 

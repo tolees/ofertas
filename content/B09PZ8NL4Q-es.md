@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de tracción flexible
 - Amortiguación de entresuela ultraligera sensible
+- Suela de tracción flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09PZ8NL4Q{{</world>}}

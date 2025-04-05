@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Synthetic lining
-- Synthetic upper
-- Regular fit
 - Rubber outsole
+- Synthetic lining
+- Regular fit
+- Synthetic upper
 - Lace closure
 
 [🛒 Comprar!!!]({{< param buyurl >}})

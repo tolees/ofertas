@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
 - Fabricados en parte con materiales reciclados
+- Detalles distintivos de la marca
 - Calcetines cortos tobilleros
 - Producto adecuado para actividades deportivas
 

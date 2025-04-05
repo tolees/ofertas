@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Superficie con revestimiento suave al tacto Soft-Touch (cerámica engomada) en negro
 - Medidas (ancho x altura x profundidad) 9,5 x 18 x 9 cm
-- Dispensador de detergente o de jabón con almacenamiento integrado para las esponjas
-- Recargable, capacidad aprox. 380 ml
 - Bomba de plástico cromada de brillo intenso para dosificar porcionando el detergente
+- Recargable, capacidad aprox. 380 ml
+- Dispensador de detergente o de jabón con almacenamiento integrado para las esponjas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B007JU1KF8{{</world>}}

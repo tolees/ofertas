@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Apósito de poliuretano constituido por dos capas: la superficie externa es una membrana de poliuretano microporoso y la interna es una película acrílica adherente para facilitar su fijación a la piel
 - No contiene medicamentos; actúa mediante un mecanismo físico
 - El apósito se puede recortar para adaptar su tamaño a la zona deseada; reduce la altura y suaviza el color de la cicatriz. Reduce las molestias provocadas por la cicatriz
 - Reducción de cicatrices hipertróficas recientes, o antiguas, o queloides , producidas por quemaduras, cirugía general, cirugía estética o heridas traumáticas
-- Apósito de poliuretano constituido por dos capas: la superficie externa es una membrana de poliuretano microporoso y la interna es una película acrílica adherente para facilitar su fijación a la piel
 - El apósito protege las cicatrices de los rayos solares, es flexible y resistente al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})

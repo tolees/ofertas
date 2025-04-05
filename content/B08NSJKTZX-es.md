@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Estándar
 - Gorro de punto de color liso para hombre
 - Clásico gorro para hombre con un dobladillo levantado
-- Estándar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08NSJKTZX{{</world>}}

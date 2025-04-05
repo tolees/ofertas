@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 26 vatios 2 pines g24d-3
 - Tenga en cuenta el flujo luminoso nominal 1750 lm, el flujo luminoso a 25 °C 1800 lm, el flujo luminoso 1750 lm, el tono de luz (designación) LUMILUX blanco frío
 - Biax d dulux d y lince d
+- 26 vatios 2 pines g24d-3
 - Vida media nominal 10000 horas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

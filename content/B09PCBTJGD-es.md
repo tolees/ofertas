@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hidrata: Esta loción clásica after shave Floid para el cuidado barba hombre calma e hidrata la piel tras el afeitado, dejándola suave, nutrida y cuidada
-- Protección de la piel: Disfruta de la innovadora fórmula de cuidado facial hombre de Floid, con componentes vegetales que equilibran, tonifican e hidratan la piel
-- Fragancia inimitable: Este aftershave mezcla notas chispeantes y especiadas de cardamomo y cítricos con la frescura de la menta, dejando un intenso aroma
 - The Genuine desde 1932: En una barbería de la calle Condell en Barcelona, nace esta fórmula atemporal, presente hoy en la línea de productos para la barba de Floid, que te acompañará siempre
 - Reequilibra la piel: Experimenta una protección calmante tras el afeitado y consigue una agradable sensación de frescor con el after shave hombre locion Floid
+- Protección de la piel: Disfruta de la innovadora fórmula de cuidado facial hombre de Floid, con componentes vegetales que equilibran, tonifican e hidratan la piel
+- Hidrata: Esta loción clásica after shave Floid para el cuidado barba hombre calma e hidrata la piel tras el afeitado, dejándola suave, nutrida y cuidada
+- Fragancia inimitable: Este aftershave mezcla notas chispeantes y especiadas de cardamomo y cítricos con la frescura de la menta, dejando un intenso aroma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09PCBTJGD{{</world>}}

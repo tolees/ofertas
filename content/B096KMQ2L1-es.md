@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Rubber outsole
 - PU - SINTETIC SUEDE
-- Cuero sintético
 - Malla insole
+- Cuero sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096KMQ2L1{{</world>}}

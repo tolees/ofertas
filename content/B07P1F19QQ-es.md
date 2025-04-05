@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
 - JERSEY DE DIARIO: Esta rebeca fina es la prenda perfecta para esos días en los que empieza a refrescar. Póntela con una camiseta y unos vaqueros para conseguir un look desenfadado, o combínala con una camisa de cuello y unos chinos si te apetece arreglarte un poco más.
-- DETALLES: Cuello en “V” con tapeta central delantera con cierre de botones. Puños de las mangas y dobladillo inferior acanalados.
 - HILO DE ALGODÓN: Producto confeccionado en hilo de algodón 100 % de tacto suave y elasticidad natural.
+- DETALLES: Cuello en “V” con tapeta central delantera con cierre de botones. Puños de las mangas y dobladillo inferior acanalados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07P1F19QQ{{</world>}}

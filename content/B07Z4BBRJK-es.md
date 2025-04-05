@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estos jeans crudos G-Star ofrecen un ajuste delgado con una cintura media. Los dardos en la rodilla interna crean una forma 3D.
 - Los jeans ajustados arc 3d tienen un efecto de "sacacorchos", girando alrededor de la pierna a través de paneles insertados y costuras interiores y exteriores.
-- Prenda ajustada de arriba abajo
-- Mid waist
 - Cinturilla ajustada
+- Mid waist
+- Estos jeans crudos G-Star ofrecen un ajuste delgado con una cintura media. Los dardos en la rodilla interna crean una forma 3D.
+- Prenda ajustada de arriba abajo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07Z4BBRJK{{</world>}}

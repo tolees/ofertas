@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 60% algodón, 40% poliéster
 - Camiseta G/C M/L
+- 60% algodón, 40% poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMVVRK6W{{</world>}}

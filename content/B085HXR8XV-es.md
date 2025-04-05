@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aspecto clásico con bolsillos en el pecho y cuello
-- Con tira de botones frontal
-- Incluye cinturón para atar
 - Manga corta
+- Aspecto clásico con bolsillos en el pecho y cuello
+- Incluye cinturón para atar
 - Vestido largo de la marca de moda. ONLY
+- Con tira de botones frontal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B085HXR8XV{{</world>}}

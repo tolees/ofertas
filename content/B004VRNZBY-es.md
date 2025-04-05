@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- En bolsa de almacenaje con ojales de suspensión
 - 2 x granetes: 150 mm y 200 mm de largo
-- 3 x extractores: 4,5 x 250 - 6,5 x 180 - 8 x 250 mm
+- Acero al carbono forjado en estampa
 - 1 x punzón 9,7 x 200 mm
 - 6 x cortafríos diferentes: 14,5 mm x 145 mm hasta 19 mm x 250 mm
+- 3 x extractores: 4,5 x 250 - 6,5 x 180 - 8 x 250 mm
 - Versión reforzada con vástago hexagonal
-- Acero al carbono forjado en estampa
-- En bolsa de almacenaje con ojales de suspensión
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004VRNZBY{{</world>}}

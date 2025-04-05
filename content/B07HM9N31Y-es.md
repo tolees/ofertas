@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta calidad
-- Colección animales fantásticos
-- Caja ilustrada con ventana
 - Réplica exacta
+- Colección animales fantásticos
+- Alta calidad
+- Caja ilustrada con ventana
 - Licencia oficial
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

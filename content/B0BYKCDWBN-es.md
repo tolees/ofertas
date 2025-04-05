@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Control automático del brillo
 - Fácil de instalar
 - Diseño delgado y moderno
-- Control automático del brillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYKCDWBN{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Redescubre la naturaleza hasta el anochecer gracias a los prismáticos de techo de gran intensidad con cristal BaK-4 totalmente recubiertos por capas
 - Contenido del envío: prismáticos, tapas de protección contra el polvo, bolsa de transporte, correa, paño de limpieza para lentes, manual de instrucciones
+- Prismáticos compactos de techo con ampliación: 8x, diámetro del objetivo: 56 mm, enfoque central, enfoque cercano: 3 metros, campo de visión: 101 m (a 1000 m de distancia)
 - Gracias a la compensación de dioptrías (+/-4) y a los oculares de giro también es perfecto para los usuarios de gafas, cristal BaK-4 totalmente recubierto
 - Tamaño: 175 x 150 x 66 mm. Peso: 1072 g
-- Prismáticos compactos de techo con ampliación: 8x, diámetro del objetivo: 56 mm, enfoque central, enfoque cercano: 3 metros, campo de visión: 101 m (a 1000 m de distancia)
-- Redescubre la naturaleza hasta el anochecer gracias a los prismáticos de techo de gran intensidad con cristal BaK-4 totalmente recubiertos por capas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096SPSTTV{{</world>}}

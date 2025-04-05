@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de Tommy Hilfiger
 - Ofrece una comodidad óptima
+- Detalles distintivos de Tommy Hilfiger
 - Cuello barco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

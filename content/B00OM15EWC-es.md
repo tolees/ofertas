@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para interiores o exteriores: ideal para usar en toda la casa y el jardín, incluidos invernaderos, cobertizos, ventanas exteriores, puertas plegables y más
 - Modo de empleo: rocía la superficie moderadamente, limpia con un paño seco y limpio o una toalla de cocina y seca con una escobilla de goma si fuera necesario
+- Apto para interiores o exteriores: ideal para usar en toda la casa y el jardín, incluidos invernaderos, cobertizos, ventanas exteriores, puertas plegables y más
 - Limpiador de Cristales y Espejos: Elimina grasa, huellas dactilares, insectos y otras manchas de cristales y espejos de forma rápida y sencilla con el mínimo esfuerzo; secado rápido
 - Delicado con las superficies: especialmente formulado para eliminar con eficacia las manchas sin dañar el vidrio; recupera el brillo y transparencia natural del vidrio
 - Brillo sin marcas: apto para limpiar todo tipo de vidrios y espejos, incluidas ventanas, puertas, interiores de automóviles, mesas de cristal, mamparas de ducha y más

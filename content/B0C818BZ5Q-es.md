@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - construcción cómoda y duradera
-- cuero duro
 - 8 ojales
+- cuero duro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C818BZ5Q{{</world>}}

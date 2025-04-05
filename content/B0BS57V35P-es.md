@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente al agua
-- Cuello alto acolchado
-- Cremallera frontal
 - Bolsillos laterales ribeteados
+- Cremallera frontal
+- Cuello alto acolchado
+- Resistente al agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS57V35P{{</world>}}

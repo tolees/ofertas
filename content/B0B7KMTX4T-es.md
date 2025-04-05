@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Combate con clase: enfréntate a feroces adversarios y criaturas sobrenaturales con un sistema de combate optimizado basado en las armas tradicionales de los samuráis
-- Una historia mítica: vive una emocionante historia que narra la derrota de Hiroki frente a fuerzas malignas y su regreso heroico a fin de cumplir con la promesa incumplida de salvar a su pueblo
 - Presentación cinemática: los ángulos de cámara y los impactantes efectos visuales que evocan las películas clásicas de samuráis crean una verdadera experiencia cinemática en Trek to Yomi
+- Una historia mítica: vive una emocionante historia que narra la derrota de Hiroki frente a fuerzas malignas y su regreso heroico a fin de cumplir con la promesa incumplida de salvar a su pueblo
 - Una banda sonora fascinante: la acción trepidante y los momentos sombríos acompañan una música inolvidable diseñada para transportarte a la época del Japón feudal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

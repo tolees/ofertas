@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Repelente al agua
-- Tuff-Tech
 - Ligero
+- Tuff-Tech
+- Repelente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0992VNYDN{{</world>}}

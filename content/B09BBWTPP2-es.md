@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- - Dos bandas sonoras digitales
 - - Un juego de 6 tarjetas de arte
-- Materiales de alto rendimiento
 - Productos y accesorios diseñados para satisfacer todas las necesidades
+- Materiales de alto rendimiento
 - Cada juego viene con artículos de coleccionista exclusivos:
+- - Dos bandas sonoras digitales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09BBWTPP2{{</world>}}

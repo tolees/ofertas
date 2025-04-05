@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta básica de manga corta con cuello redondo y logotipo en la parte delantera.
 - Fabricado con al menos un 70% de algodón sostenible
+- Camiseta básica de manga corta con cuello redondo y logotipo en la parte delantera.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS5BW9PF{{</world>}}

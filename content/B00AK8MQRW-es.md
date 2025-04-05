@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Unlined
-- Logo-printed backheel and insole
 - Breathable cotton canvas upper
 - Two-tone jacquard logo tag on the side
+- Logo-printed backheel and insole
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00AK8MQRW{{</world>}}

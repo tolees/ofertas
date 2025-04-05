@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de cierre: Cordones
-- Tacón: Plataforma
 - Material exterior: Sintético
+- Tacón: Plataforma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZK5TLDF{{</world>}}

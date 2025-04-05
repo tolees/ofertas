@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Siembra: De Mayo a Julio en semillero, trasplantar a semillero de nuevo cuando las plantas tengan 4 hojas, distanciándolas a 15-20 cm, trasplantarla a lugar definitivo en Otoño o Primavera, separándolas unos 50-60 cm
-- Floración: Durante todo el Verano del año siguiente.
 - Bianual-Vivaz. Altura: De 2 a 2,50 metros. Empleo: Para grandes jardines
+- Floración: Durante todo el Verano del año siguiente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00WI64SNY{{</world>}}

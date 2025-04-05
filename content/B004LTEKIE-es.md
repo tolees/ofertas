@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estante perfecto para platos
 - 2 plantas
-- Ahorrador de espacio práctico y que ahorra espacio para la cocina
-- Nota El peso total cargado por el producto es de hasta 7 kg.
 - Medidas 25 x 25 x 19 cm
+- Nota El peso total cargado por el producto es de hasta 7 kg.
 - Hecho de alambre con revestimiento fuerte
+- Estante perfecto para platos
+- Ahorrador de espacio práctico y que ahorra espacio para la cocina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004LTEKIE{{</world>}}

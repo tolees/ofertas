@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - AEROREADY
-- Escote redondo
 - Punto 88% poliéster reciclado / 12% elastán
-- Corte entallado
 - Rendimiento y estilo
+- Escote redondo
+- Corte entallado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQWGZ1RJ{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo complementario / información complementaria 2: con rodamiento de bolas
 - Lado de montaje:
 - Número de piezas necesarias: 2
+- Artículo complementario / información complementaria 2: con rodamiento de bolas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DZOHK6A{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Calidad garantizada por la marca Nike
-- Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
 - Diseño funcional
+- Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
 - Tipo de fábrica: 100% Cotton
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

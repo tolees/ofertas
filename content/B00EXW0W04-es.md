@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EL AROMA ULTRAFEMENINO: Still de Jennifer Lopez es un aroma sensual, vivaz y femenino. Es la celebración de una mujer que vuelve a ser ella misma y captura cómo se siente una mujer cuando se descubre a sí misma y sabe de verdad quién es
-- DELICADO, SOFISTICADO Y FLORAL: luminosas notas de cabeza de mandarina y fresia sobre notas de corazón de jazmín y rosa, mientras que la madera de sándalo, el melocotón y los musgos completan la fragancia, dándole un fondo cálido y sensual
 - BOTELLA EN FORMA DE JOYA EN FORMA DE PRISMA: una botella de color champán con ligero tono rosado con un acabado reflectante sutil que evoca a un espejo para resaltar que, a fin de cuentas, sigues siendo tú misma
 - UN REGALO IDEAL PARA UNA SEGUIDORA DE JLO: la filosofía de Jennifer es vivir la vida al máximo, ser quien quieres ser y serte fiel a ti misma. Still encarna la personalidad inspiradora y sofisticada de JLo
+- EL AROMA ULTRAFEMENINO: Still de Jennifer Lopez es un aroma sensual, vivaz y femenino. Es la celebración de una mujer que vuelve a ser ella misma y captura cómo se siente una mujer cuando se descubre a sí misma y sabe de verdad quién es
+- DELICADO, SOFISTICADO Y FLORAL: luminosas notas de cabeza de mandarina y fresia sobre notas de corazón de jazmín y rosa, mientras que la madera de sándalo, el melocotón y los musgos completan la fragancia, dándole un fondo cálido y sensual
 - Sensual, femenina y floral: unas destacadas notas de cabeza a mandarina y fresia realzan unas sensuales notas medias a jazmín y rosa, mientras que la madera de sándalo, el melocotón y los musgos completan esta fragancia aportándole un fondo cálido y sensual
 
 [🛒 Comprar!!!]({{< param buyurl >}})

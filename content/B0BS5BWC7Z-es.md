@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta acolchada en nailon suave reciclado con parche de goma en la manga
 - Fabricado con tela 100% reciclada
+- Chaqueta acolchada en nailon suave reciclado con parche de goma en la manga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS5BWC7Z{{</world>}}

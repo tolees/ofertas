@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Analógico para unisex adulto
 - VICEROY Modelo VICEROY KIDS Mod. 401093-05
+- Analógico para unisex adulto
 - 11 milimetros calendario Sin cierre a presion plegable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

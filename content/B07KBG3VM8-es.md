@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TOKYO GHOUL - BLOODY MASQUERADE
+- Juego diseñado por Florian Grenier
+- Juego de mesa de engaños y deducciones
 - Juego de rol
 - TOKYO GHOUL - BLOODY MASQUERADE
-- Juego de mesa de engaños y deducciones
-- Juego diseñado por Florian Grenier
+- TOKYO GHOUL - BLOODY MASQUERADE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KBG3VM8{{</world>}}

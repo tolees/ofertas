@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punta redonda
 - Resistente al agua
+- Punta redonda
 - Peso ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

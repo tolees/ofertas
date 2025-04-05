@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte clásico
-- Tejido AEROREADY que mantiene la piel seca
 - Punto 100% poliéster reciclado
+- Tejido AEROREADY que mantiene la piel seca
+- Corte clásico
 - Camiseta de training estampada
 - Cuello redondo
 

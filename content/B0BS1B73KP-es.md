@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- una mirada original
 - Proporciona comodidad
+- una mirada original
 - Un ajuste cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

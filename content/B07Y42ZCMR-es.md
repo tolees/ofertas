@@ -31,9 +31,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Transfiere datos a velocidades de transferencias ultrarrápidas de hasta 40 Gbps (Thunderbolt 3) y conecta dos pantallas 4K UHD a 60 Hz
 - Compatible con portátiles con USB-C y macOS* o Windows
 - Conecta tu portátil a internet o añádele múltiples periféricos, como monitores, discos duros, ratones o teclados entre otros, todo ello usando una sola base dock
+- La carga de salida de 60 W te permite cargar un portátil por la base dock
 - La diferencia de Belkin: liderando tecnología e innovación durante más de 35 años
 - Puertos: 1 Thunderbolt 3, 2 USB-C 3.1 (2.ª generación), 2 DisplayPort 1.4, 1 de USB-A 3.1 (2.ª generación), 2 USB-A 3.1, 1 de entrada/salida de audio, 1 Gigabit Ethernet, 1 entrada de corriente CC (125 W)
-- La carga de salida de 60 W te permite cargar un portátil por la base dock
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07Y42ZCMR{{</world>}}

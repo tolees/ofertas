@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material exterior: Algodón
 - Material de la suela: Caucho
 - Cierre: Cordones
-- Material exterior: Algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B007CFMH8E{{</world>}}

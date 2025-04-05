@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CALIDAD GARANTIZADA – Laboratorio Fersa Ibérica garantiza la máxima calidad en sus productos, fabricados todos en nuestra planta en España con certificación GMP, ISO 9001 e ISO 9002.
-- POTENTE BLOQUEADOR DE CARBOHIDRATOS Y GRASAS – Adiós Calorías es un potente bloqueador de grasas y carbohidratos que bloquea hasta en un 95% de todas las grasas y carbohidratos ingeridos.
 - POTENTE REDUCTOR DE CALORÍAS - Adiós Calorías actúa de forma directa encapsulado la grasa y los carbohidratos convirtiéndolos en no asimilables por el organismo.
+- POTENTE BLOQUEADOR DE CARBOHIDRATOS Y GRASAS – Adiós Calorías es un potente bloqueador de grasas y carbohidratos que bloquea hasta en un 95% de todas las grasas y carbohidratos ingeridos.
+- CALIDAD GARANTIZADA – Laboratorio Fersa Ibérica garantiza la máxima calidad en sus productos, fabricados todos en nuestra planta en España con certificación GMP, ISO 9001 e ISO 9002.
 - ADELGAZA CON MENOS RESTRICCIONES – Adiós Calorías es el aliado perfecto para personas que deseen saltarse puntualmente la dieta sin que ello signifique aumentar de peso.
 - BLOQUEADOR DE AZÚCARES – Adiós Calorías contiene SugarLock, el cual es el bloqueador de azúcares simples y complejas más potente del mercado, reduciendo hasta un 85% su asimilación
 

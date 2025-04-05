@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resident Evil 4 mantiene la esencia del original mientras usa el motor gráfico RE Engine para modernizar la jugabilidad, una historia reescrita y gráficos de última generación.
-- Carátula no oficial
 - Resident Evil 4 es un remake del juego original lanzado en 2005. El cual, vuelve en 2023.
 - Han pasado seis años desde la catástrofe biológica de Raccoon City. Leon S. Kennedy, uno de los supervivientes, ha sido asignado como agente especial del gobierno al presidente de los Estados Unidos. Con la experiencia de múltiples misiones a sus espaldas, Leon es enviado a rescatar a la hija del presidente, la cual ha sido secuestrada. Sus pesquisas le llevan a un aislado pueblo europeo, en donde algo muy extraño está pasando con sus habitantes...
+- Resident Evil 4 mantiene la esencia del original mientras usa el motor gráfico RE Engine para modernizar la jugabilidad, una historia reescrita y gráficos de última generación.
+- Carátula no oficial
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B4KLQX3R{{</world>}}

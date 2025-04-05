@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Uso diario: Después del lavado del cabello, aplicar una cantidad moderada sobre el cabello húmedo o seco desde la mitad del cabello hasta las putnas, peinar y dejar secar al aire libre.
 - Descubre One United, el Tratamiento en Spray reparador que aporta hasta 25 beneficios en una sola botella, incluso protección térmica, para todo tipo de cabellos
+- Uso diario: Después del lavado del cabello, aplicar una cantidad moderada sobre el cabello húmedo o seco desde la mitad del cabello hasta las putnas, peinar y dejar secar al aire libre.
 - Protege el cabello, suaviza y fortalece, ayuda a prevenir la rotura, aporta brillo y suavidad, aporta protección térmica, facilita el desenredado…
 
 [🛒 Comprar!!!]({{< param buyurl >}})

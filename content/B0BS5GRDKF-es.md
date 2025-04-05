@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con al menos un 50% de algodón sostenible
 - Sudadera con capucha con marca bordada y toalla de pecho
+- Fabricado con al menos un 50% de algodón sostenible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS5GRDKF{{</world>}}

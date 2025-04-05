@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de aplicar.​
-- Para evitar rayas, manchas o imperfecciones, aplica el producto en tus manos, usando guantes para extenderlo por toda tu piel de forma fácil y uniforme. Aclarar en 1-3 horas, dependiendo del tono que desees.
-- Fórmula transparente y ultra ligera con Vitamina E.
-- Aroma tropical.
 - Este pack contiene un bote de 190 mililitros de agua bronceadora.
-- Tono medio.
-- Agua hidratante y auto bronceadora. ​
-- Lava tus manos después de la aplicación para evitar que se oscurezcan.
+- Fácil de aplicar.​
 - No transfiere, dejándote con un brillo natural impecable. ​
+- Aroma tropical.
+- Agua hidratante y auto bronceadora. ​
+- Tono medio.
+- Para evitar rayas, manchas o imperfecciones, aplica el producto en tus manos, usando guantes para extenderlo por toda tu piel de forma fácil y uniforme. Aclarar en 1-3 horas, dependiendo del tono que desees.
+- Lava tus manos después de la aplicación para evitar que se oscurezcan.
+- Fórmula transparente y ultra ligera con Vitamina E.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09S3ZFC5Y{{</world>}}

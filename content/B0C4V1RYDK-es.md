@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Empeine: piel con puntera perforada
-- Suela de goma acanalada
-- Lengüeta con la cita de René Lacoste
-- Entresuela Ortholite que absorbe los impactos
 - Cocodrilo en el lateral
+- Lengüeta con la cita de René Lacoste
+- Suela de goma acanalada
+- Entresuela Ortholite que absorbe los impactos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4V1RYDK{{</world>}}

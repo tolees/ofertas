@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Cierre de cordones
-- Parte superior de malla
 - Confort y estilo para jugar todo el día
+- Horma clásica
 - Mediasuela Cloudfoam
+- Parte superior de malla
+- Cierre de cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5NN4B5G{{</world>}}

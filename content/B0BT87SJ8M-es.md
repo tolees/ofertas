@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fibras sostenibles: poliéster reciclado
-- Cuello de solapa
 - Cierre de botón de doble botonadura
-- Manga larga
+- Fibras sostenibles: poliéster reciclado
 - Dos bolsillos
+- Cuello de solapa
+- Manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BT87SJ8M{{</world>}}

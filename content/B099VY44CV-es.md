@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🍃【Fórmula orgánica natural】 Nuestra máscara de té verde utiliza ingredientes orgánicos súper naturales, como matcha, aloe, aceite de semilla de jojoba, lodo volcánico y aceite de árbol de té. Todos los ingredientes naturales son excelentes para una piel más brillante, más suave y más joven.
-- 🍃【Mascarilla facial de té verde】 La mascarilla facial de limpieza sólida de té verde agrega una variedad de extractos de plantas que pueden limpiar eficazmente los poros de la piel, limpiar profundamente la suciedad de la piel, ajustar el equilibrio de agua y aceite de la piel, reponer la humedad de la piel y nutrir la piel. Mejora la condición de la piel. Mantén una piel sana.
-- 🍃【Consejos】Para pieles grasas, recomendamos usar 2-3 veces por semana; Para pieles secas, recomendamos usar 1-2 veces por semana; Para pieles mixtas, le recomendamos que use 2-3 veces por semana para la zona T y 1-2 veces por semana para la zona U. Si tiene alguna pregunta, no dude en contactarnos, le daremos una respuesta satisfactoria.
 - 🍃【Fácil de llevar y usar】El producto adopta el diseño de cabeza giratoria, que es más conveniente de usar y no es fácil de ensuciar las manos. La máscara de té verde es pequeña y liviana, fácil de llevar. Después de limpiar la cara, simplemente aplique la máscara de té verde para limpiar, secar la piel y dejar actuar durante 8-10 minutos antes de enjuagar con agua tibia para el cuidado diario de la piel.
+- 🍃【Mascarilla facial de té verde】 La mascarilla facial de limpieza sólida de té verde agrega una variedad de extractos de plantas que pueden limpiar eficazmente los poros de la piel, limpiar profundamente la suciedad de la piel, ajustar el equilibrio de agua y aceite de la piel, reponer la humedad de la piel y nutrir la piel. Mejora la condición de la piel. Mantén una piel sana.
 - 🍃 【Limpieza e hidratación】 La mascarilla facial de té verde contiene rica agua de glaciar, que penetra rápidamente en las capas profundas de la piel, reponiendo la piel con nutrición de humedad natural. Puede reducir eficazmente los puntos negros, controlar el aceite, mejorar la opacidad facial y aclarar tono de piel.
+- 🍃【Fórmula orgánica natural】 Nuestra máscara de té verde utiliza ingredientes orgánicos súper naturales, como matcha, aloe, aceite de semilla de jojoba, lodo volcánico y aceite de árbol de té. Todos los ingredientes naturales son excelentes para una piel más brillante, más suave y más joven.
+- 🍃【Consejos】Para pieles grasas, recomendamos usar 2-3 veces por semana; Para pieles secas, recomendamos usar 1-2 veces por semana; Para pieles mixtas, le recomendamos que use 2-3 veces por semana para la zona T y 1-2 veces por semana para la zona U. Si tiene alguna pregunta, no dude en contactarnos, le daremos una respuesta satisfactoria.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099VY44CV{{</world>}}

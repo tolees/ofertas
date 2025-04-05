@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Confort y ligereza para sus pies
-- Cierre de cordones
-- Horma clásica
 - Parte superior de malla acolchada
+- Horma clásica
+- Cierre de cordones
+- Confort y ligereza para sus pies
 - Amortiguación LIGHTMOTION
 
 [🛒 Visítala!!!]({{< param buyurl >}})

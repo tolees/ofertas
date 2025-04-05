@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Panel con forma en la parte superior trasera
+- Bolsillos con solapa y cierre a presión en el pecho
 - Cuello de camisa
 - Bajo ligeramente redondeado
-- Bolsillos con solapa y cierre a presión en el pecho
 - Manga larga con puños, cierre de botón a presión
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adjustable temperature controlled by a thermostat. Smooth temperature control.
 - Very easy to clean. The control lamp indicates operation of the device.
+- Adjustable temperature controlled by a thermostat. Smooth temperature control.
 - Depth: 29 cm. Height: 7. 7 cm
 - Power: 2500 W. Width: 46 cm.
 - High power guarantees quick heating of the plate. Five-stage temperature controller.

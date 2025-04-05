@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Algodón de apoyo de cama: somos una proud de la iniciativa de algodón Better Cotton; por comprar productos de algodón de EE.UU., te ayudarán a ganar más sustainable algodón; Better Cotton is sourced mediante un sistema de masa de equilibrio
 - Chaqueta vaquera sostenible
+- Algodón de apoyo de cama: somos una proud de la iniciativa de algodón Better Cotton; por comprar productos de algodón de EE.UU., te ayudarán a ganar más sustainable algodón; Better Cotton is sourced mediante un sistema de masa de equilibrio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09F6WHJN2{{</world>}}

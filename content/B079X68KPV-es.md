@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Protección antibacteriana hasta 24 horas
+- Fragancia fresca
+- Elimina el 99,9% de las bacterias
 - Elimina los malares olores y manchas provenientes de tu mascota
 - Optimo para textiles
-- Fragancia fresca
-- Protección antibacteriana hasta 24 horas
-- Elimina el 99,9% de las bacterias
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079X68KPV{{</world>}}

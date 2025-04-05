@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con el nuevo logo de Calvin Klein Jeans estampado (2022)
 - Camiseta hombre Calvin Klein
+- Con el nuevo logo de Calvin Klein Jeans estampado (2022)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09R2DVWX9{{</world>}}

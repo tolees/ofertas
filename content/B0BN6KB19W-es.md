@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
-- Tejido ultra-light powerblend fleece afelpado (240 g)
 - La talla L es adecuada para niños de 11 a 12 años
+- Tejido ultra-light powerblend fleece afelpado (240 g)
 - Logotipo bordado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Confort
 - Bolsillos canguro
 - Manga larga
+- Confort
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS5WT86F{{</world>}}

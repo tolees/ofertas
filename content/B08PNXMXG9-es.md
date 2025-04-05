@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Punto doble 100% poliéster reciclado
-- Bolsillos frontales con cremallera
-- Corte ajustado
 - Cintura elástica con cordón
+- Punto doble 100% poliéster reciclado
+- Corte ajustado
+- Bolsillos frontales con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08PNXMXG9{{</world>}}

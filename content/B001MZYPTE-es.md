@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EVERY DAY - Recomendado por los veterinarios para la alimentación diaria de todos los gatos
-- VOLUMEN DE ENTREGA: 1 tubo 100g GimCat Malt-Soft Extra, pasta, snack para gatos para una digestión totalmente saludable - Made in Germany
 - RECETA - Con ingredientes de alta calidad y sin colorantes, conservantes ni aromatizantes artificiales, así como sin azúcar añadido
 - ANTI-HAIRBALL COMPLEX - Malta, aceites y fibras que favorecen la excreción de pelos ingeridos y reducen la nueva formación de bolas de pelo
+- EVERY DAY - Recomendado por los veterinarios para la alimentación diaria de todos los gatos
+- VOLUMEN DE ENTREGA: 1 tubo 100g GimCat Malt-Soft Extra, pasta, snack para gatos para una digestión totalmente saludable - Made in Germany
 - COMPOSICIÓN - Subproductos de origen vegetal (extractos de malta 43,7%, celulosa 4%), aceites y grasas (31%), levaduras (contiene de 1% beta-glucano)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

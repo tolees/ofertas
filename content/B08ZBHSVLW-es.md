@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material: Polyester
 - Número del fabricante: 232298 NVGY
-- Estilo: Sneaker Med
+- Material: Polyester
 - Color: azul
+- Estilo: Sneaker Med
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08ZBHSVLW{{</world>}}

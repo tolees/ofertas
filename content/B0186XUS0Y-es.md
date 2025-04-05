@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de utilizar: Curso de Costura Online gratuito y más de 100 tutoriales de costura en la web de ALFA.
-- 19 tipos de puntadas con las que coser de todo: Ojal automático en 4 pasos, Básicas, Decorativas, Festones, Zig-zag, lycra, lencería, etc.
 - Incluye accesorios: pedal, cable de alimentación, protector de tela, 3 agujas nº90, 3 canillas, prensatelas (universal, para cremalleras, para ojales, para botones), abreojales/cepillo, destornillador en L, aceitera, guía para bordar/acolchar, placa de zurcir y fieltro
 - ALFA te regala un año extra de garantía si registras la máquina en su web.
-- Cose vaqueros, tejidos gruesos y elásticos: podrás coser el bajo de un vaquero, camisetas, neceser, bolsos con cremallera, fieltro, botones, lycra, lencería, etc.
-- Opcional: Funda para proteger la máquina y transportarla. Funda Next to U o Style to U.
-- Largo variable en todas las puntadas (0 - 4,5 mm), ancho variable en puntada zig-zag (0 - 5 mm) y posibilidad de coser con aguja doble (no incluida)
-- Máquina robusta y duradera: estructura metálica de gran rigidez, luz blanca led, portacarretes metálico, enmangue de prénsatelas metálico
+- Fácil de utilizar: Curso de Costura Online gratuito y más de 100 tutoriales de costura en la web de ALFA.
 - Todas las comodidades: Cortador de hilo incorporado, Devanador de canilla automático, Indicador de puntada analógico, luz blanca LED
+- 19 tipos de puntadas con las que coser de todo: Ojal automático en 4 pasos, Básicas, Decorativas, Festones, Zig-zag, lycra, lencería, etc.
+- Máquina robusta y duradera: estructura metálica de gran rigidez, luz blanca led, portacarretes metálico, enmangue de prénsatelas metálico
 - ¿Buscas enhebrador automático? Consulta nuestra gama ALFA Practik.
+- Cose vaqueros, tejidos gruesos y elásticos: podrás coser el bajo de un vaquero, camisetas, neceser, bolsos con cremallera, fieltro, botones, lycra, lencería, etc.
+- Largo variable en todas las puntadas (0 - 4,5 mm), ancho variable en puntada zig-zag (0 - 5 mm) y posibilidad de coser con aguja doble (no incluida)
+- Opcional: Funda para proteger la máquina y transportarla. Funda Next to U o Style to U.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0186XUS0Y{{</world>}}

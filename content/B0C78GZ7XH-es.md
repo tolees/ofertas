@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
+- Cierre de cordones
+- El arte de la comodidad
 - Mediasuela Bounce
 - Parte superior textil con refuerzos sintéticos y detalles de ante sintético
-- El arte de la comodidad
-- Cierre de cordones
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C78GZ7XH{{</world>}}

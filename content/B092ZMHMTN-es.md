@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jersey pesado
 - Puños de punto acanalado
-- Cuello redondo de punto acanalado
+- Jersey pesado
 - Corte relajado
 - Manga larga
+- Cuello redondo de punto acanalado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B092ZMHMTN{{</world>}}

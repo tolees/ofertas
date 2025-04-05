@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Denim
 - Este producto es original Levis
-- Bragueta de botón
 - Estilo de 5 bolsillos
+- Denim
+- Bragueta de botón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09MWRCR8Q{{</world>}}

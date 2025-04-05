@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✿ Agenda Ohana 2024 (desde enero 2024 a diciembre 2024) con funda incluida. Nuestra agenda anual 2024 Ohana es ideal para comenzar un año nuevo lleno de inspiración y motivación. Ohana te enamorará a primera vista gracias a sus flores pintadas en acuarela y su tapa acabada en tela.
 - ⭑ Tapa elegante y sofisticada gracias a su acabado en tela. ¡El complemento ideal para llevar contigo!
+- ✓ Tamaño compacto (13,5 x 18,5 cm) En el punto medio está la virtud. Las agendas Manoa de tamaño compacto no son ni excesivamente grandes ni pequeñas. ¡Te encantará este formato de agenda A6 plus!
+- ✿ Agenda Ohana 2024 (desde enero 2024 a diciembre 2024) con funda incluida. Nuestra agenda anual 2024 Ohana es ideal para comenzar un año nuevo lleno de inspiración y motivación. Ohana te enamorará a primera vista gracias a sus flores pintadas en acuarela y su tapa acabada en tela.
+- ✎ El interior de las agendas anuales Manoa cuenta con 186 páginas con vista semanal y con disposición de sus días en horizontal. El interior de nuestra agenda semana vista incluye páginas de notas, planning mensual, calendario mensual, calendario 2024, control financiero, horario, contraseñas, contactos, control mensual y, ¡mucho más!
 - ☺Todas las agendas anuales 2024 Manoa incluyen bolsillo portadocumentos, cinta de registro, stickers y pestañas separadoras
 - ♥ Productos diseñados con kilos de pasión, montones de dedicación y mucho pero mucho AMOR para México, para España y para el mundo!
-- ✎ El interior de las agendas anuales Manoa cuenta con 186 páginas con vista semanal y con disposición de sus días en horizontal. El interior de nuestra agenda semana vista incluye páginas de notas, planning mensual, calendario mensual, calendario 2024, control financiero, horario, contraseñas, contactos, control mensual y, ¡mucho más!
-- ✓ Tamaño compacto (13,5 x 18,5 cm) En el punto medio está la virtud. Las agendas Manoa de tamaño compacto no son ni excesivamente grandes ni pequeñas. ¡Te encantará este formato de agenda A6 plus!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C7L9C6NR{{</world>}}

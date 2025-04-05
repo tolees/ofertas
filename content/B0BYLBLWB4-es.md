@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Masculino
 - 237303/PBBK
 - Max Protect
 - senderismo
-- Masculino
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BYLBLWB4{{</world>}}

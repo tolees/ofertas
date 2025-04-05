@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo: Regular fit
-- Cuello redondo
-- Logotipo en el pecho
-- Corte estándar
 - Alta calidad
+- Logotipo en el pecho
+- Cuello redondo
+- Corte estándar
+- Estilo: Regular fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YVPLTHV{{</world>}}

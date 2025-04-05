@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalón corto con cintura elastica ajustable
 - Camiseta de manga corta
+- Pantalón corto con cintura elastica ajustable
 - Set de dos piezas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

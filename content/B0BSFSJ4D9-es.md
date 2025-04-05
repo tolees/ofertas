@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño de bloques de color
 - Cuello alto
+- Diseño de bloques de color
 - Dos bolsillos laterales con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

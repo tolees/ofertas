@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Base metálica pintada
-- Regulable en altura con movimiento telescópico
 - 9 W
+- Regulable en altura con movimiento telescópico
+- Base metálica pintada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00FMRRZA4{{</world>}}

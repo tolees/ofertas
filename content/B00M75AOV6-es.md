@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - TRANSPARENTE - Apósito discreto y transparente
-- 20 UNIDADES – Salvelox transparente Aloe Vera contiene 20 tiritas
-- CON ALOE VERA - La compresa para la herida contiene aloe vera, que es ampliamente conocida por sus propiedades beneficiosas
-- RESISTENTE AL AGUA – Permite la transpiración de la piel y es resistente al agua y a la suciedad
 - IMPORTANTE - Limpie la herida, asegúrese de que no esté infectada y cambie el apósito diariamente
+- 20 UNIDADES – Salvelox transparente Aloe Vera contiene 20 tiritas
+- RESISTENTE AL AGUA – Permite la transpiración de la piel y es resistente al agua y a la suciedad
+- CON ALOE VERA - La compresa para la herida contiene aloe vera, que es ampliamente conocida por sus propiedades beneficiosas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00M75AOV6{{</world>}}

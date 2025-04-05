@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Acabado de nogal, barniz blanco, algas marinas
-- El V-HIGH BASE atrae todas las miradas debido a sus colores cálidos y naturales
 - Los altos y delgados postes rascadores recubiertos con algas marinas, estimulan a los gatos para rascar en una postura alargada; el cubo cueva con salida trasera ofrece el espacio para una siesta
+- El V-HIGH BASE atrae todas las miradas debido a sus colores cálidos y naturales
 - Compacto y versátil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

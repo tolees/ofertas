@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La camiseta básica óptima
 - Con un discreto logotipo en el pecho
 - Elaborada en punto suave
-- La camiseta básica óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ND6YGBM{{</world>}}

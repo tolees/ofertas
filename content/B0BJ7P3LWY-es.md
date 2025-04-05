@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte recto
-- Parche con logotipo tonal
 - BOSS Manga Larga de Punto Medio
+- Parche con logotipo tonal
+- Corte recto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BJ7P3LWY{{</world>}}

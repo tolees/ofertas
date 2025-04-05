@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Sin Sistema Operativo
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
-- Memoria RAM de 16GB SO-DIMM DDR4 2933MHz
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles, 144Hz, IPS 250 nits
 - Procesador Intel Core i5-10300H (4C/QuadCore 2.5 / 4.5GHz, 8MB)
+- Memoria RAM de 16GB SO-DIMM DDR4 2933MHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09TRDT8DC{{</world>}}

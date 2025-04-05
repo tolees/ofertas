@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pero cuidado, que no todas las casillas son buenas: un jugador podrá encontrarse también con una de volver para atrás, volver a la casilla de salida etc.
-- Esta oca… Está loca Dónde se habrá metido? Mira, busca y gana Juego de agudeza visual donde los jugadores tendrán que encontrar la oca que indique la ruleta.
-- De 2 a 4 jugadores y a partir de 6 años.
-- Sé el más veloz y localiza rápidamente la oca en el tablero para poder avanzar por el juego de la Oca y llegar a la casilla final.
 - 2 dinámicas: con tiempo y por turnos y todos jugando a la vez.
+- De 2 a 4 jugadores y a partir de 6 años.
+- Pero cuidado, que no todas las casillas son buenas: un jugador podrá encontrarse también con una de volver para atrás, volver a la casilla de salida etc.
+- Sé el más veloz y localiza rápidamente la oca en el tablero para poder avanzar por el juego de la Oca y llegar a la casilla final.
+- Esta oca… Está loca Dónde se habrá metido? Mira, busca y gana Juego de agudeza visual donde los jugadores tendrán que encontrar la oca que indique la ruleta.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XRDBSZ4{{</world>}}

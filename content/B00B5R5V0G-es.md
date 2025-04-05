@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instalación para el suministro de agua desde el suelo o en la pared
-- Se instala en el radiador de un sistema de calefacción
-- Adecuado para todos los radiadores 15/21
-- La válvula es de auto-sellado gracias a una junta tórica
 - ROB.RAD.SR EQ.NICK. STANDARD 1/2
+- Adecuado para todos los radiadores 15/21
+- Instalación para el suministro de agua desde el suelo o en la pared
+- La válvula es de auto-sellado gracias a una junta tórica
+- Se instala en el radiador de un sistema de calefacción
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00B5R5V0G{{</world>}}

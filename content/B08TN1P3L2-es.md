@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de tracción de goma flexible
-- Skechers detalles del logotipo
 - Peso ligero
 - Con cordones deportivos
+- Suela de tracción de goma flexible
+- Skechers detalles del logotipo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08TN1P3L2{{</world>}}

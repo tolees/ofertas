@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste regular
 - Cuello redondo
 - Tecnología Dri-Fit
-- Ajuste regular
 - El diseño otorga libertad a los movimientos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

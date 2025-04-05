@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tacón: Plano
+- Anchura del zapato: Normal
 - Cierre: Cordones
 - Composición: Lona
-- Anchura del zapato: Normal
+- Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DSJ91QY{{</world>}}

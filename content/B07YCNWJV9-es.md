@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Los bordes de las perneras se mantienen en su sitio
 - Cinturilla elástico cómoda
 - Ajuste regular
-- Los bordes de las perneras se mantienen en su sitio
 - Confeccionados con algodón orgánico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

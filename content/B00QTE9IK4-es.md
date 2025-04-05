@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Rápida y eficaz
 - Espuma de 2 litros
 - Bajos danos indirectos
-- Rápida y eficaz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00QTE9IK4{{</world>}}

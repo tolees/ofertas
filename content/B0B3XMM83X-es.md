@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Classic fit: estilo y libertad de movimiento
 - Cocodrilo estampado y marca en dégradé: fresco y moderno
 - Felpa de algodón sin cepillar: óptima suavidad
-- Cuello redondo con ribete acanalado, cintura y puños: Acabados con detalles elegantes
-- Classic fit: estilo y libertad de movimiento
 - Cocodrilo verde en el dobladillo: nuestra firma clásica
+- Cuello redondo con ribete acanalado, cintura y puños: Acabados con detalles elegantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3XMM83X{{</world>}}

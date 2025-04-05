@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga cortaCuello redondo
-- Estilo del cuello: Cuello de una pieza
-- Cierre: Pull on
-- 100% Poliéster
 - Propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
-- Contiene material reciclado: Producto elaborado con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
-- Costura lateral orientada hacia delante para embellecer la silueta
+- Manga cortaCuello redondo
 - Lavar a máquina
+- Costura lateral orientada hacia delante para embellecer la silueta
+- Estilo del cuello: Cuello de una pieza
 - Panel con inserción de malla cortada y cosida
+- Contiene material reciclado: Producto elaborado con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
+- 100% Poliéster
+- Cierre: Pull on
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09168SJFP{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura: cintura alta
-- Longitud-tamaño: corto
 - Ajuste: corte normal
+- Longitud-tamaño: corto
+- Cintura: cintura alta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B1VS4SHV{{</world>}}

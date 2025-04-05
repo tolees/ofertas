@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste ancho
-- Cintura alta
 - Mezcla sostenible
+- Cintura alta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QNKDVNW{{</world>}}

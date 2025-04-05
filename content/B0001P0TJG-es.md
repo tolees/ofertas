@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Topes plásticos en los extremos para absorber impactos y proteger el perfil y base de nivelación; extraíbles y antideslizantes
+- Perfil rectangular de aluminio de 61 cm; con nervios de refuerzo, extremadamente resistente; con una burbuja horizontal y dos verticales y con asas de agarre
 - Precisión: +/-0,5 mm/m en posición normal e inversa
 - Dos superficies de nivelación con rectificado de precisión
-- Perfil rectangular de aluminio de 61 cm; con nervios de refuerzo, extremadamente resistente; con una burbuja horizontal y dos verticales y con asas de agarre
-- Topes plásticos en los extremos para absorber impactos y proteger el perfil y base de nivelación; extraíbles y antideslizantes
 - La tecnología de montaje Stabila asegura precisión a largo plazo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

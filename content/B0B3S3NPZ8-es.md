@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mini piqué de algodón: simplemente emblemático Cómodo
 - Regular fit, straight cut: combina con todo
-- Cocodrilo bordado y estampado en dégradé: estilo creativo de Lacoste
-- Dos botones suaves: la elegancia está en los detalles
 - Cuello y puños acanalados: acabado clásico
+- Dos botones suaves: la elegancia está en los detalles
+- Mini piqué de algodón: simplemente emblemático Cómodo
+- Cocodrilo bordado y estampado en dégradé: estilo creativo de Lacoste
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3S3NPZ8{{</world>}}

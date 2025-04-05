@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conversión sencilla de unidades: g, ib, oz, ml, fl’oz
-- Pantalla LCD para leer los resultados
-- Pesar frutas, granos, carnes de 1 g a 5 kg
-- 2 Pilas incluidas 1.5V (AA/AAA)
-- Indicador de batería baja
 - Sensor de alta precisión
 - Indicador de peso superior
+- 2 Pilas incluidas 1.5V (AA/AAA)
+- Indicador de batería baja
+- Pantalla LCD para leer los resultados
+- Pesar frutas, granos, carnes de 1 g a 5 kg
+- Conversión sencilla de unidades: g, ib, oz, ml, fl’oz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMVZHXGW{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Ultrafino y ligero --- El diseño de tapa dura ultrafino y ligero ocupa un espacio mínimo y ofrece una gran protección a su dispositivo.
 - Imán fuerte: el imán incorporado controla la función de reposo/activación y mantiene la tapa frontal firmemente en su iPad cuando la funda está cerrada.
-- Compatibilidad --- Compatible exclusivamente con iPad Air 5 Generation 10.9 pulgadas 2022/iPad Air 4th Generation 10.9 pulgadas 2020 (Número de modelo: A2324/ A2072/ A2316/ A2325). No funciona para otros modelos. Confirme el número de modelo en la parte posterior de su iPad antes de comprar.
 - Soporte de doble posición: se puede plegar fácilmente y también obtiene un soporte delgado y liviano, que es conveniente para ver películas o escribir.
+- Compatibilidad --- Compatible exclusivamente con iPad Air 5 Generation 10.9 pulgadas 2022/iPad Air 4th Generation 10.9 pulgadas 2020 (Número de modelo: A2324/ A2072/ A2316/ A2325). No funciona para otros modelos. Confirme el número de modelo en la parte posterior de su iPad antes de comprar.
 - Material: cubierta frontal de cuero PU y parte trasera esmerilada translúcida de policarbonato duro. El icono de Apple se puede ver en tu color favorito mientras protege tu dispositivo de huellas dactilares y arañazos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

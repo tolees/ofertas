@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: Caucho
 - Revestimiento: Sintético
+- Material de la suela: Caucho
 - Material exterior: Cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

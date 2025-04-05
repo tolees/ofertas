@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo bordado HH en el pecho
-- Solapa frontal abotonada
-- Cuello y puños acanalados
-- División lateral
 - Piqué de algodón cómodo de 230 gm²
+- Cuello y puños acanalados
+- Solapa frontal abotonada
+- División lateral
+- Logotipo bordado HH en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B073RPXM5J{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Topes de plástico en los extremos para proteger el perfil y la base de nivelación
+- La tecnología de montaje Stabila asegura precisión a largo plazo
 - Fácil limpieza gracias a las superficies laterales lisas y al revestimiento de polvo electrostático
 - Perfil rectangular de aluminio de 90 cm; con una burbuja horizontal y dos verticales
-- La tecnología de montaje Stabila asegura precisión a largo plazo
+- Topes de plástico en los extremos para proteger el perfil y la base de nivelación
 - Precisión en posición normal de ± 0,5 mm/m
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

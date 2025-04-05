@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Stanley
-- De boca ajustable
-- El diseño permite realizar trabajos mesurados
 - Mide 250 x 33 mm
+- El diseño permite realizar trabajos mesurados
+- De boca ajustable
+- Marca: Stanley
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004OTQKPC{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisetas deportivas
 - Atajo
 - línea adherente
+- Camisetas deportivas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4B3NL4D{{</world>}}

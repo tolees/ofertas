@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Demuestra tus habilidades para gestionar tus cosechas y trabajadores
 - RIVERBOAT
 - RIVERBOAT
 - Juego de tablero
+- Demuestra tus habilidades para gestionar tus cosechas y trabajadores
 - Juego de mesa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

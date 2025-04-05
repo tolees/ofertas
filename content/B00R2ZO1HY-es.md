@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Requiere ensamblaje
 - Producto de calidad
 - Modelo: 79266
-- Requiere ensamblaje
 - Fácil de limpiar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

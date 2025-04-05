@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Los 3 modos de grabación (grabación de MIC+grabación de bass sonido+grabación de radio) permiten grabar lo que usted quiera decir /la música o radio que se está reproduciendo; 3 calidad de grabación es 64kbps simples/96kbps de calidad/super 128kbps;también puede seleccionar rápidamente una radio / canción ingresando la frecuencia de emisora o el número de canción
 - 3 idiomas opcional(chino/inglés/español );inglés predeterminado; Se pueden guardar 100 presintonías de radio de forma automática o manual; las estaciones guardadas manualmente se pueden clasificar según sus propios deseos; Retroiluminación de pantalla ajustable satisface sus necesidades en diferentes condiciones
-- Esta radio portátil no tiene despertador y solo tiene un temporizador de apagado (0-90 minutos); Si aún no puede apagar el altavoz cuando conecta el auricular; por favor usa el auricular sin micrófono o saque el pin del auricular un poco de la toma del auricular
 - La radio de banda mundial con Mp3 reproductor puede insertar una 32 GB TF tarjeta (no incluida); la toma de auriculares de 3,5 mm le permite escuchar la radio en diferentes entornos; Equipado con una batería de litio NOKIA recargable de 1000mAh;solo necesita un cable USB; se puede conectar a la computadora o al adaptador de carga de un teléfono móvil de 5V 2A para cargar la radio
+- Esta radio portátil no tiene despertador y solo tiene un temporizador de apagado (0-90 minutos); Si aún no puede apagar el altavoz cuando conecta el auricular; por favor usa el auricular sin micrófono o saque el pin del auricular un poco de la toma del auricular
 - La radio portátil es compacta de solo 4,7x3,1x0,9 pulgadas; Material ABS; textura compacta; Fácil de llevar; puede guardarlo en su bolsillo; Escuche la radio para conocer las condiciones climáticas;Regalo de Navidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

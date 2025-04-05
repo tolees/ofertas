@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello alto con interior de aspecto de piel. Capucha extraíble con borde extraíble en imitación de piel
 - Desigual
-- Largo
 - Corte regular
+- Cuello alto con interior de aspecto de piel. Capucha extraíble con borde extraíble en imitación de piel
+- Largo
 - Tejido acolchado liso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

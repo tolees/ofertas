@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto para tu cuidado personal, marca: Instituto Español
 - Sensación suave y textura cremosa
+- Producto para tu cuidado personal, marca: Instituto Español
 - Cuida tu cabello ofreciendo una extraordinaria hidratación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

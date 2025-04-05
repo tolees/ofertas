@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Juego completo de maletas: Este set de Don Algodon incluye una maleta de cabina y una maleta mediana de 4 ruedas, brindándote la solución de viaje completa y perfecta para cada ocasión
 - Valor excepcional: Este juego de maletas están todas fabricadas con Polipropileno más resistentes que otras maletas de viaje o maletas cabina que son de ABS, incorpora candado para mayor seguridad.
-- Movilidad optimizada: Ambas maletas están equipadas con 4 ruedas giratorias 360º para un transporte suave y sin esfuerzo, haciendo que tu viaje sea lo más cómodo posible.
-- Medidas y tamaño: Maleta mediana: Total 65x44x24 cm. Cuerpo: 57x40x22 cm. Capacidad: 50L. Peso: 3,40 kg Maleta cabina: Total 55x40x20. Cuerpo: 51x36x20. Capacidad: 36L. Peso: 3,30kg.
 - Tamaño perfecto para cada viaje: Nuestra maleta de cabina cumple con las medidas estándar de 55x40x20 cm, ideal para vuelos y viajes cortos, mientras que la maleta mediana es perfecta para estancias más largas.
+- Medidas y tamaño: Maleta mediana: Total 65x44x24 cm. Cuerpo: 57x40x22 cm. Capacidad: 50L. Peso: 3,40 kg Maleta cabina: Total 55x40x20. Cuerpo: 51x36x20. Capacidad: 36L. Peso: 3,30kg.
+- Movilidad optimizada: Ambas maletas están equipadas con 4 ruedas giratorias 360º para un transporte suave y sin esfuerzo, haciendo que tu viaje sea lo más cómodo posible.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL4YYFLT{{</world>}}

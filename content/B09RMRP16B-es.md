@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Un compartimento principal
 - Bolsillo con cremallera en la parte delantera
 - La MOCHILA ELITE ahora está disponible en una selección de colores modernos y es óptima para un viaje rápido a la cancha de tenis
-- Un compartimento principal
 - Compartimento acolchado para raquetas para hasta dos raquetas
 - Compartimento para zapatos integrado
 

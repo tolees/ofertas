@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Con 2 brazos giratorios
 - Material: metal
 - Fijación oculta
-- Starlight acabado cromado
 - Longitud de 449 mm
+- Starlight acabado cromado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B013SJOVGI{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Algodón elástico
 - Pantalones vaqueros ajustados
+- Algodón elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089MKMYRX{{</world>}}

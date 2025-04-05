@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cepillo Cónico y flexible que alcanza todas tus pestañas, hasta las más cortas
-- Máscara de pestañas Marrón Lash Sensational Sky High para unas Pestañas con Altura con un resultado más natural
 - Aplica la máscara desde la raíz hasta las puntas con movimientos ascendentes en zig-zag para repartir la fórmula en todas las pestañas; para conseguir más volumen aplica una segunda o tercera capa
-- Fórmula infusionada con extracto de bambú
 - El resultado: pestañas con una longitud sin límites y volumen redefinido
+- Máscara de pestañas Marrón Lash Sensational Sky High para unas Pestañas con Altura con un resultado más natural
+- Cepillo Cónico y flexible que alcanza todas tus pestañas, hasta las más cortas
+- Fórmula infusionada con extracto de bambú
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNJ6XS8Y{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Micrófono omnidireccional con calidad de transmisión: Capta la voz con una nitidez excepcional, con una función de silenciado y un indicador LED de silenciado integrado.
-- Sonido envolvente Dolby Audio 7.1 Dé vida a su juego, situándose directamente en el centro de la acción.
 - Horas de comodidad: Equipado con almohadillas de espuma viscoelástica con exterior de microfibra transpirable y una diadema flotante ajustable sin presión.
+- Sonido envolvente Dolby Audio 7.1 Dé vida a su juego, situándose directamente en el centro de la acción.
 - Disfrute del juego: El HS80 RGB USB fusiona el emblemático diseño de CORSAIR, un sonido excelente y una calidad de fabricación de confianza.
 - Capte todos los sonidos: Desde un débil susurro hasta una explosión estruendosa, un par de transductores de audio de neodimio de alta densidad de 50 mm transmiten el sonido con todo detalle.
 

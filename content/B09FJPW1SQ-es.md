@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mascarilla de keratina para pelo frágil y dañado
 - Edición limitada
 - Tratamiento intensivo que ayuda a combatir los signos de daños causados por el peinado, en 1 solo uso
 - Testado por el Swiss Vitamin Institute
+- Mascarilla de keratina para pelo frágil y dañado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09FJPW1SQ{{</world>}}

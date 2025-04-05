@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Premium
 - Tamaño 39 x 39 cm abierta
 - 2 Capas
+- Premium
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0746R5YKF{{</world>}}

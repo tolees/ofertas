@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material interior: 80 % tela textil, poliéster, 20 % poliuretano sintético
-- Cierre: 100% algodón
-- Forma del talón: plano
 - Material exterior: sintético
+- Forma del talón: plano
+- Cierre: 100% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B29C2RK7{{</world>}}

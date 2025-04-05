@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Super stretch powerflex
+- Distressed effect
 - Straight leg
 - Relaxed fit
-- Distressed effect
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09KH6QH1F{{</world>}}

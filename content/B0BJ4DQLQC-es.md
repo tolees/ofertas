@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca Calvin Klein
 - Cierre de cordones
+- Marca Calvin Klein
 - Peso ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

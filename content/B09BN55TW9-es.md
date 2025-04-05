@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Función de retroiluminación ajustable con 3 niveles diferentes
-- Incluye un juego de tapas de mini-stick convexas de repuesto
 - Software para gamers de Xbox y PC, para configurar todos los ajustes importantes del gamepad (ajustes preestablecidos de juego, reasignación, sensibilidad, vibraciones)
 - Módulos y botones de acción precisos, con tiempos de respuesta mínimos
+- Función de retroiluminación ajustable con 3 niveles diferentes
 - Mini-sticks de generación NXG, resistentes y precisos
 - La tecnología T-MOD y la función de intercambio en caliente te permiten intercambiar un módulo por otro, en cualquier momento del juego
+- Incluye un juego de tapas de mini-stick convexas de repuesto
 - Gatillos curvos azules con agarre texturizado profesional
 
 [🛒 Comprar!!!]({{< param buyurl >}})

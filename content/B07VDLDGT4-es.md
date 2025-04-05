@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vans Bandera de la marca al lado
-- Con cordones
 - Cuello acolchado para mayor comodidad
+- Con cordones
+- Vans Bandera de la marca al lado
 - Parte superior de lona y suela de goma
 - Vans Logotipo de la pared en el talón
 

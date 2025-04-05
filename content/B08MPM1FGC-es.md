@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Copas para helado - Cuencos y tazones BOL 300CC PICASSO 12CM Multicolor
 - Fabricada con materiales de primera calidad.
+- Copas para helado - Cuencos y tazones BOL 300CC PICASSO 12CM Multicolor
 - Multicolor de la marca DEM
 - Copas para helado - Cuencos y tazonesUnisex Adulto
 

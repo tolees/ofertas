@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: DUREX
 - Durex duplo conservantes sensitivo contacto total 12x2 unidades
+- Marca: DUREX
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01EHSNCXW{{</world>}}

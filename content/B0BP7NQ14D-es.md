@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
 - Maximiza tu entrenamiento
+- Cuello redondo
 - Corte clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

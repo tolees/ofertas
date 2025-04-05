@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto fabricado por Alpina
 - Gafas de sol de forma cuadrada
+- Producto fabricado por Alpina
 - El diseño se caracteriza por lentes espejadas
 - Montura de calidad
 

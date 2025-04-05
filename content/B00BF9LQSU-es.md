@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Up to 100 % more light (en comparación con las lámparas estándar)
 - Ideal para usar en faros de vidrio transparente
+- Up to 100 % more light (en comparación con las lámparas estándar)
 - Excelente relación precio-rendimiento
 - Luminosidad impresionante y tiempo de vida confiable
 

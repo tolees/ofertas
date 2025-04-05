@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alta transpirabilidad
-- Cómodo de llevar
 - Corte regular
+- Cómodo de llevar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C36QCQVF{{</world>}}

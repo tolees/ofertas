@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Bolsillos: bolsillos cargo
-- Cintura: Media
 - Detalles: trabillas para cinturón
+- Cintura: Media
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NJN985K{{</world>}}

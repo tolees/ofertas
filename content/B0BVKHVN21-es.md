@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño: 60
-- Color: Transparente
 - Color de la lente: azul y dorado
-- Material: acetato
 - Forma: CUADRADO
+- Material: acetato
+- Color: Transparente
+- Tamaño: 60
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVKHVN21{{</world>}}

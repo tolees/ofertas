@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Pantalón de hombre New Classic slim fit en algodón stretch
-- Cierre frontal con cremallera y botón y trabillas
-- Slim fit
 - Gabardina de algodón stretch ecológico
+- Cierre frontal con cremallera y botón y trabillas
 - Dos bolsillos italianos y un bolsillo delantero pequeño, dos bolsillos ribeteados en la parte trasera
+- Slim fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NBSTYPK{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo bordado y joma serigrafiado
 - Cuenta con bolsillos laterales y cremallera en el bajo
+- Logotipo bordado y joma serigrafiado
 - Pantalón largo con corte skinny con cintura elástica ajustable mediante cordón
 - Ajuste cómodo que ofrece flexibilidad
 

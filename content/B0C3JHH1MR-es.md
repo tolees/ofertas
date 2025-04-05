@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte de monomalla técnica
-- Mediasuela Dreamstrike
 - Forro textil
+- Mediasuela Dreamstrike
 - Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

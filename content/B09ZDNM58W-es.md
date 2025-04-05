@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Marcas: Levi´s
 - sombrero de tela, sombrero de pescador, sombrero de sol, sombrero de verano,
 - Ancho del ala: aprox. 6 cm,Altura de la cabeza: aprox. 10 cm
-- Marcas: Levi´s
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09ZDNM58W{{</world>}}

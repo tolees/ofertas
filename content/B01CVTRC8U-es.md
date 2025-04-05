@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ingredientes activos: complejo de proteínas de leche de cabra, keratina
 - Limpia suavemente el cabello y el cuero cabelludo
-- Reconstruye la estructura del cabello afectado mejorando su flexibilidad
+- Ingredientes activos: complejo de proteínas de leche de cabra, keratina
 - Proporciona volumen natural y brillo al cabello facilitando el peinado; deja el cabello suave y liso
+- Reconstruye la estructura del cabello afectado mejorando su flexibilidad
 - Champú de leche de cabra para el fortalecer el cabello opaco y seco; contiene keratina y proteínas de leche de cabra
 
 [🛒 Aquí!!!]({{< param buyurl >}})

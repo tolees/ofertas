@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Termómetro para uso oral, axilar o rectal
+- Las mediciones se muestran en Celsius o Fahrenheit
 - Apagado automático para ahorrar pila
 - Contenido: 1 termómetro OMRON EcoTemp Basic y manual de instrucciones
-- Las mediciones se muestran en Celsius o Fahrenheit
+- Termómetro para uso oral, axilar o rectal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B003X5WLVU{{</world>}}

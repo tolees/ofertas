@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DIMENSIONES: 29,5 x 21,4 x h5,2cm
-- El aperitivo se divide en tres recipientes en los que caben desde cacahuetes hasta aceitunas, desde verduras frescas en juliana hasta deliciosos trozos de queso
-- FÁCIL DE LIMPIAR: Apto para lavavajillas con lavado ECO-Cycle o con lavado MAX 55°C - rejilla superior
 - MULTIUSOS: Las formas son sinuosas y cautivadoras, la funcionalidad está garantizada
+- FÁCIL DE LIMPIAR: Apto para lavavajillas con lavado ECO-Cycle o con lavado MAX 55°C - rejilla superior
+- El aperitivo se divide en tres recipientes en los que caben desde cacahuetes hasta aceitunas, desde verduras frescas en juliana hasta deliciosos trozos de queso
+- DIMENSIONES: 29,5 x 21,4 x h5,2cm
 - MATERIAL: El plato aperitivo TIERRA está elaborado con plástico procedente de botellas o frascos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

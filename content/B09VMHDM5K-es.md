@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo casual: un diseño discreto salpicado con colores de tendencia y un atrevido logotipo bordado en 3D
-- BLACK, XS
 - Ajuste adaptado: fácil de poner y ajustar, esta gorra no se mueve del sitio
 - Ligereza y comodidad: el algodón es ligero y fácil de llevar, allá donde vayas
 - La gorra clásica de Salomon
+- Estilo casual: un diseño discreto salpicado con colores de tendencia y un atrevido logotipo bordado en 3D
+- BLACK, XS
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09VMHDM5K{{</world>}}

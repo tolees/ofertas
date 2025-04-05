@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sistema de bobina vertical con anchos de hasta 5 mm
 - Dispone de ojalador en un paso y palanca de retroceso
 - Con devanador automático y selector de largo de puntada
-- Sistema de bobina vertical con anchos de hasta 5 mm
 - Ajuste de presión del prénsatelas automática y 2 posiciones de aguja
 - Máquina mecánica portátil de brazo libre con 32 puntadas utilitarias, flexibles y decorativas
 

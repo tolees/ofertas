@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- No necesita pilas
 - Partidas rápidas, fácil de aprender pero con profundidad estratégica
 - Componentes de baquelita atractivos que generan una experiencia de juego agradable
 - Un juego de la línea para 2 jugadores de Kosmos
-- No necesita pilas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B53FWNSJ{{</world>}}

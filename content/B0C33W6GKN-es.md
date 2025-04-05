@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: cordones
 - Suela: sintética
+- Cierre: cordones
 - Material exterior: sustancia
-- Tipo de tacón: plano
 - Material interior: textil
+- Tipo de tacón: plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C33W6GKN{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La taglia XL è adatta per bambini dai 13 ai 14 anni
-- Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
 - Tejido ultra-light powerblend fleece afelpado (240 g)
+- Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
 - Logotipo bordado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

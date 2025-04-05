@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Officially licensed by The Pokémon Company International
+- La figura mide 12,7cm de alto, ideal para el escritorio o la mesita de noche
+- Figura de Golbat construible con botón oculto para activar la acción de movimiento
 - Ideal para constructores adultos, esta figura de coleccionista se puede combinar con otros conjuntos de construcción de Pokémon en movimiento
 - Pulsa el botón oculto para activar el movimiento de alas de Golbat
-- Figura de Golbat construible con botón oculto para activar la acción de movimiento
-- La figura mide 12,7cm de alto, ideal para el escritorio o la mesita de noche
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB6JK37M{{</world>}}

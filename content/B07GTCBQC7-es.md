@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sistema simple SNAP-ON para facilitar la conexión/separación, Compatible con Mavic 2 Pro Drone
-- Freewell Gear Día brillante filtro Kit incluye filtros ND8/PL, ND16/PL, ND32/PL y ND64/PL
-- 16 capas de filtros de lente de vidrio óptico multicapa aseguran la claridad del cristal en las imágenes capturadas
 - Cristal óptico Razor Sharp utilizado para garantizar imágenes aéreas de calidad óptima
 - El anillo CNC superligero utilizado en la construcción evita los efectos adversos en el cardán
+- 16 capas de filtros de lente de vidrio óptico multicapa aseguran la claridad del cristal en las imágenes capturadas
+- Freewell Gear Día brillante filtro Kit incluye filtros ND8/PL, ND16/PL, ND32/PL y ND64/PL
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07GTCBQC7{{</world>}}

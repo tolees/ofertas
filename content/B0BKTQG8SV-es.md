@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla de 15.6" FHD (1920*1080), 60Hz 45%NTSC IPS-Level
+- Memoria RAM de 16GB Onboard DDR IV (3200MHz)
 - Almacenamiento de 1TB NVMe PCIe Gen3x4 SSD
 - Procesador Alder Lake i7-1255U
-- Memoria RAM de 16GB Onboard DDR IV (3200MHz)
 - Tarjeta gráfica Iris Xe Graphics
+- Pantalla de 15.6" FHD (1920*1080), 60Hz 45%NTSC IPS-Level
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BKTQG8SV{{</world>}}

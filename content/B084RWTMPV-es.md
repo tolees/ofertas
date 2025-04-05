@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modo de empleo saca el disco del sobre, retira el plástico protector y coloca sobre la superficie de la tarta
 - Personaliza todos tus cupcakes, bizcochos o tartas de cumpleaños infantiles de forma rápida y sencilla con este disco comestible de dinosaurios para los más aventureros de la casa
-- Disco de papel comestible perfecto para decorar el pastel de cumpleaños con el dibujo de un dinosaurio
 - Este disco de decoracion para tartas es sin gluten, sin lactosa y apto para veganos No contiene azúcar ni aceite de palma ni conservante E171 Alérgenos y derivados frutos secos y sulfitos
+- Modo de empleo saca el disco del sobre, retira el plástico protector y coloca sobre la superficie de la tarta
+- Disco de papel comestible perfecto para decorar el pastel de cumpleaños con el dibujo de un dinosaurio
 - Disco para tartas infantiles fácil de usar Tamaño - 16 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

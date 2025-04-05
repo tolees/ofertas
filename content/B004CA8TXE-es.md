@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Resultados profesionales
-- Aplicación fácil
 - Esmalte de uñas resistente a roturas
 - Tono blanco
 - Utiliza tu tono favorito con el Base Coat y Top Coat OPI Nail Lacquer
-- Acabado brillante y uniforme
 - Manicura con hasta 7 días de duración
+- Aplicación fácil
+- Acabado brillante y uniforme
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B004CA8TXE{{</world>}}

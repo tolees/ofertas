@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Inserciones de malla en los laterales para una óptima transpirabilidad
-- Cuello redondo de canalé
-- Puños
-- Cinta de cuello de marcas HEAD
 - Inserciones de malla en la parte trasera para una óptima transpirabilidad
+- Puños
+- Cuello redondo de canalé
+- Cinta de cuello de marcas HEAD
+- Inserciones de malla en los laterales para una óptima transpirabilidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09SCQB7JP{{</world>}}

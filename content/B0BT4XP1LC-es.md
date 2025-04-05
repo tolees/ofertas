@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Breve
 - Punta
 - Sin relleno
+- Breve
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT4XP1LC{{</world>}}

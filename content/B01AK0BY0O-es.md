@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Función de sierra: los dientes de la parte delantera de la cuchilla cortan sin problemas ramas largas de hasta 25 mm de diámetro
 - La protección de las cuchillas permite cortar a lo largo de muros y suelos
 - Corte sin interrupciones gracias al sistema antibloqueo
+- Función de sierra: los dientes de la parte delantera de la cuchilla cortan sin problemas ramas largas de hasta 25 mm de diámetro
 - Tijeras cortasetos con batería AHS 50-20 LI para un corte de setos rápido y con gran movilidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

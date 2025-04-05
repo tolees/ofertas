@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Unite with or compete against in-game factionsChoose your origin story to create a unique riderEarn splinters to upgrade your Falcon through weapons, armour, cosmetics and mutagensFully Voiced: An incredible voice cast brings to life the world within the FalconeerFeaturing stunning original music from award-winning composer Benedict Nichols
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - Explore the Great ursee
-- Experience fast and brutal aerial combat
+- Unite with or compete against in-game factionsChoose your origin story to create a unique riderEarn splinters to upgrade your Falcon through weapons, armour, cosmetics and mutagensFully Voiced: An incredible voice cast brings to life the world within the FalconeerFeaturing stunning original music from award-winning composer Benedict Nichols
 - Discover lofty heights or mysterious underwater locations
+- Experience fast and brutal aerial combat
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08GQYKSPG{{</world>}}

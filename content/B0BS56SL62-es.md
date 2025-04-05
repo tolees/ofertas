@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un pantalón suelto con cordón y pierna recta, fabricado en una mezclilla drapeada de espiga
 - Fabricado con al menos un 50% de algodón sostenible
+- Un pantalón suelto con cordón y pierna recta, fabricado en una mezclilla drapeada de espiga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS56SL62{{</world>}}

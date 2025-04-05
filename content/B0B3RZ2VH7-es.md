@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Logo de la marca: detalles emblemáticos
-- Cintura ajustable: caída óptima
-- Cocodrilo de silicona: Lacoste, a tu servicio
 - Regular fit, straight cut: para moverte a tu aire
+- Cocodrilo de silicona: Lacoste, a tu servicio
+- Cintura ajustable: caída óptima
 - Tejido piqué antidesgarro de poliéster reciclado: evita el uso de nuevos materiales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

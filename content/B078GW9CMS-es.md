@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marco duradero y flexible
-- 100% Protección UV
 - Cressi es una empresa familiar, que desde 1946 produce productos de alta calidad
-- Gafas de sol con cristales polarizados y ultraflexibles
+- Marco duradero y flexible
 - Caja rígida de embalaje
+- Gafas de sol con cristales polarizados y ultraflexibles
+- 100% Protección UV
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B078GW9CMS{{</world>}}

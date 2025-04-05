@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los mejores productos para el cuidado y la salud personal.
 - Liquid Camouflage High Coverage Concealer #020-Light Beige
+- Los mejores productos para el cuidado y la salud personal.
 - Sentirse bien con uno mismo nunca había sido tan fácil.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

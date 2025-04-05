@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tirador de cremallera con logo Lacoste
 - Exterior de PVC
-- 1 bolsillo interno de malla con cremallera y gancho
+- Tirador de cremallera con logo Lacoste
 - Cocodrilo verde bordado
 - Dimensiones 35 x 3 x 14 cm
+- 1 bolsillo interno de malla con cremallera y gancho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01M7R98IY{{</world>}}

@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Está fabricado con tableros de melamina de 16 mm de grosor, en su mayoría, a base de madera reciclada
-- Es compatible con los espacios pequeños, y el diseño angular optimiza el uso del espacio. El escritorio tiene un ángulo de 94 x 94 cm.
-- Cuidados: fácil de limpiar con un paño ligeramente mojado.
-- Diseño sencillo, moderno y elegante.
 - Se envía en forma de kit con instrucciones de montaje (idioma español no garantizado) y embalaje reforzado.
-- Posee una superficie principal de trabajo, 1 estante elevado para colocar una pantalla y almacenamiento en forma de 3 bloques de 2 nichos en la parte inferior.
-- Producto ecorresponsable
-- Uso: para interiores
 - Producto fabricado en Francia
+- Uso: para interiores
+- Es compatible con los espacios pequeños, y el diseño angular optimiza el uso del espacio. El escritorio tiene un ángulo de 94 x 94 cm.
+- Diseño sencillo, moderno y elegante.
+- Producto ecorresponsable
+- Está fabricado con tableros de melamina de 16 mm de grosor, en su mayoría, a base de madera reciclada
+- Cuidados: fácil de limpiar con un paño ligeramente mojado.
+- Posee una superficie principal de trabajo, 1 estante elevado para colocar una pantalla y almacenamiento en forma de 3 bloques de 2 nichos en la parte inferior.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AMYTY06{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenidos del paquete: 1 x pgbk 580 canon ink, 1 x pb 581xxl negro, 1 x canon cartucho tinta 580 xxl cian, 1 x canon cli-581xxl magenta, 1 x canon 580xxl amarillo (5 paquetes)
-- Rendimiento estimado de página: 4,590 páginas por canon 581 Negro; 600 páginas por canon pgi 580 581 pgbk; 830 páginas por canon cli 581 Cian, Magenta, Amarillo (con una copertura del 5 per centodi A4)
-- Modelos de impresora compatibles(Necesita utilizar un cartucho de tinta Photo Blue adicional): Compatible Tinta 580/581 xxl para Canon PIXMA TS-8150 TS-8151 TS-8152 TS-8250 TS-8251 TS-8252 TS-8350 TS-8351 TS-8352 TS-9150 TS-9155 impresora.
 - Modelos de impresora compatibles: Cartuchos Tinta Compatible Canon PIXMA TS-8350 TS-705 TS-6350 TS-6351 TS-6151 TS-6150 TR-8550 TS-9550 TS-6250 TS-6100 TS-6200 TS-6251 TS-6300 TR-7550 TS-8100 TS-8150 TS-8151 TS-8152 TS-8250 TS-8251 TS-8252 TS-8351 TS-8352 TS-9100 TS-9150 TS-9155 TS-9551C impresora.
+- Rendimiento estimado de página: 4,590 páginas por canon 581 Negro; 600 páginas por canon pgi 580 581 pgbk; 830 páginas por canon cli 581 Cian, Magenta, Amarillo (con una copertura del 5 per centodi A4)
 - Ventajas: Los cartuchos compatibles con MOOHO se comprometen a proporcionarle una mejor experiencia de impresión, al tiempo que garantizan que cada cartucho de tinta sea perfectamente compatible con su impresora.
+- Modelos de impresora compatibles(Necesita utilizar un cartucho de tinta Photo Blue adicional): Compatible Tinta 580/581 xxl para Canon PIXMA TS-8150 TS-8151 TS-8152 TS-8250 TS-8251 TS-8252 TS-8350 TS-8351 TS-8352 TS-9150 TS-9155 impresora.
+- Contenidos del paquete: 1 x pgbk 580 canon ink, 1 x pb 581xxl negro, 1 x canon cartucho tinta 580 xxl cian, 1 x canon cli-581xxl magenta, 1 x canon 580xxl amarillo (5 paquetes)
 - Modelo de cartucho: Canon tinta 580 PGI-580XXL CLI-581XXL reemplazo de cartucho de tinta compatible para Canon PGI-580 CLI-581 multipaquete (No Original)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Programa ajustable para regar todos los días, cada 2 días, 3 días, 5 días o 7 días
 - Funciona con 2 pilas AA (no incluidas)
 - Riegue una o dos veces al día, ya sea al amanecer, al atardecer o al amanecer y al atardecer
 - Proporciona riego automático todos los días al amanecer y al atardecer, el mejor momento para regar el jardín
-- Programa ajustable para regar todos los días, cada 2 días, 3 días, 5 días o 7 días
-- Un controlador de riego montado en un grifo que suministra agua automáticamente al amanecer y al anochecer
+- Se puede utilizar con pulverizadores de jardín (hasta 10 bar), microirrigación a baja presión (1,5 bar) o barriles de lluvia (0,1 bar)
 - Controlador de riego montado en grúa
 - Botón de agua manual durante 10, 30 o 60 minutos para regar en cualquier momento
 - Programa ajustable para regar todos los días, cada 2 días, 3 días, 5 días o 7 días
 - Botón de agua manual durante 10, 30 o 60 minutos para regar en cualquier momento
-- Se puede utilizar con pulverizadores de jardín (hasta 10 bar), microirrigación a baja presión (1,5 bar) o barriles de lluvia (0,1 bar)
+- Un controlador de riego montado en un grifo que suministra agua automáticamente al amanecer y al anochecer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01A9A2PYO{{</world>}}

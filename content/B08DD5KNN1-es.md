@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descubre un arco en la historia nunca visto
-- Explora Tokio y las nuevas zonas
 - Escenas nuevas y finales alternativos
 - Nuevo semestre escolar
+- Explora Tokio y las nuevas zonas
+- Descubre un arco en la historia nunca visto
 - Nuevos Persona desbloqueables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

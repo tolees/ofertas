@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin alcohol, Sin Lactosa, Sin Gluten, Sin colorantes artiﬁciales, Sin organismo modiﬁcados genéticamente
-- Cada 15 ml de Bronchotos Pediátrico contienen: 143 mg de extracto seco de Malvavisco, 750mg de Miel
 - Para cualquier tos asociada al resfriado, tanto tos seca como tos productiva
 - Niños a partir de 1 año
+- Cada 15 ml de Bronchotos Pediátrico contienen: 143 mg de extracto seco de Malvavisco, 750mg de Miel
 - Con miel natural y extracto seco de malvavisco
+- Sin alcohol, Sin Lactosa, Sin Gluten, Sin colorantes artiﬁciales, Sin organismo modiﬁcados genéticamente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07KXBXFKR{{</world>}}

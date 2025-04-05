@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles distintivos de la marca
 - Material elástico
 - Ofrece comodidad y libertad de movimiento
+- Detalles distintivos de la marca
 - Sudadera con capucha para mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})

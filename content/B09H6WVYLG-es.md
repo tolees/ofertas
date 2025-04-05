@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela suave
 - Ajuste regular
-- Sudadera de manga larga
+- Tela suave
 - Detalles distintivos de la marca
+- Sudadera de manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09H6WVYLG{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta de manga larga para ninos con logotipo serigrafiado en el pecho
 - 100% algodón
+- Camiseta de manga larga para ninos con logotipo serigrafiado en el pecho
 - Ajustada clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

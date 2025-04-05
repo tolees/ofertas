@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseñados con nuestro ajuste entallado: nuestro corte más ajustado y delgado
 - Añade un poco de estilo extra
 - Cargo
-- Diseñados con nuestro ajuste entallado: nuestro corte más ajustado y delgado
 - Pantalones versátiles construidos con un estilo sin esfuerzo, un toque de elasticidad y un tejido cómodo, perfectos para citas casuales o para complementar un blazer en una fiesta de oficina
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

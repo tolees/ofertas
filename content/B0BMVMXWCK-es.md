@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Despierta el poder interior. Derrota a enemigos mortales para elevar la moral y despertar el poder interior. Supera la adversidad a través de nuevas estrategias únicas, incluyendo estilos de batalla basados en las "Cinco Fases".
 - Vive con la espada. Conocidos por sus despiadados golpes que pueden cambiar el rumbo de la batalla en un instante, los practicantes de la espada de las artes marciales chinas cambian de ritmo con gracia al pasar de las maniobras ofensivas a las defensivas. Abruma a tus oponentes con una ráfaga de fuerza en una serie de intensas y sangrientas batallas mientras aprendes la precisión y la habilidad necesarias para convertirte en un verdadero maestro de la espada.
+- Despierta el poder interior. Derrota a enemigos mortales para elevar la moral y despertar el poder interior. Supera la adversidad a través de nuevas estrategias únicas, incluyendo estilos de batalla basados en las "Cinco Fases".
 - Demonios en el Reino. Una fantasía oscura ambientada en el caótico periodo de los Tres Reinos, la narración cuenta la extenuante lucha de un soldado de la milicia por sobrevivir durante la Dinastía Han Posterior infestada de demonios. Una locura en los Tres Reinos como nunca antes.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

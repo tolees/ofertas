@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fit: Slim
-- Cuello camisero
 - Manga larga
+- Cuello camisero
 - Largo: Corto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

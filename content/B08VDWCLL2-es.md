@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Faldón
-- Cuello de pico
 - Vestido sostenible
+- Cuello de pico
+- Faldón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08VDWCLL2{{</world>}}

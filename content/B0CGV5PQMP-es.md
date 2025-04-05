@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para ir al estadio
 - Producto oficial AS Roma
-- Para manifestar su fe futbolística
 - Camiseta de fútbol con número y nombre de Romelu Lukaku
+- Ideal para ir al estadio
+- Para manifestar su fe futbolística
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGV5PQMP{{</world>}}

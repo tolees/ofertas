@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Enchufe múltiple para uso en interiores con interruptor de seguridad iluminado para encendido y apagado (bipolar)
-- Regleta de enchufes para montaje, instalación y fijación posible, montable por ejemplo en pared o en la mesa, instalación rápida y fácil con tornillos
 - Base de enchufe múltiple con 5 tomas de corriente y 2 unidades de carga USB para cargar rápidamente los dispositivos conectados
 - Regleta de enchufes con un soporte de 4 puntos para un montaje óptimo, por ejemplo, en la pared - Ideal para enchufes acodados y el funcionamiento de fuentes de alimentación gracias a la disposición en ángulo de 90° de la toma de corriente
+- Enchufe múltiple para uso en interiores con interruptor de seguridad iluminado para encendido y apagado (bipolar)
+- Regleta de enchufes para montaje, instalación y fijación posible, montable por ejemplo en pared o en la mesa, instalación rápida y fácil con tornillos
 - Regleta de enchufes con dos puertos de carga USB con un corriente de carga total máx. 2100 mA para cargar rápidamente tus dispositivos (por ejemplo, smartphone)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

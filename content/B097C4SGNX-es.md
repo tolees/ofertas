@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Franja característica de PUMA en los lados medial y lateral
-- Cierre de encaje
-- Suela de goma
 - entresuela de EVA
+- Cierre de encaje
+- Franja característica de PUMA en los lados medial y lateral
+- Suela de goma
 - Parte superior hecha de materiales mixtos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Recolección: Se efectúa por corte de sus tallos, que se reproducen numerosas veces. Su nascencia es en algunos casos bastante lenta, ya que según clima y época tarda de 20 a 30 días
-- Siembra: todo el año Cosecha: a partir de 3 meses
-- Forma de cultivo: Se siembra todo el año únicamente de asiento a voleo o en líneas espaciadas de 25 a 30 cm
 - Planta de tallos erguidos y hojas extremadamente rizadas, bastante aromáticas, utilizadas como condimento, aderezo y adorno de algunos platos culinarios
+- Forma de cultivo: Se siembra todo el año únicamente de asiento a voleo o en líneas espaciadas de 25 a 30 cm
+- Siembra: todo el año Cosecha: a partir de 3 meses
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ID4U1JK{{</world>}}

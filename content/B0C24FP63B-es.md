@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Malla textil lining
 - PU Upper
-- TPR Outsole
 - Transpirable
+- Malla textil lining
+- TPR Outsole
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C24FP63B{{</world>}}

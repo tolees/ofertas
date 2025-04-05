@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color blanco
 - Corte ajustado
 - Camiseta manga corta
+- Color blanco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082R77CZY{{</world>}}

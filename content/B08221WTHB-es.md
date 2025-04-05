@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Larga vida útil: apagado del motor en caso de sobrecarga, sobrecalentamiento o bloqueo gracias a la protección electrónica del motor
 - Robusto: portabrocas 13 mm röhm de metal, y caja de engranaje de metal dos velocidades
 - Professional 18v system: máximo rendimiento, máxima libertad; todas nuestras baterías son compatibles con las herramientas nuevas o ya existentes de bosch professional del mismo voltaje
 - Potente: el atornillador permite trabajar de forma eficiente con madera y acero gracias a un par de giro de 55 nm y 1.750 min-1
 - Incluye: gsr 18v-55, 2 baterías 18v x 4.0 ah, cargador rápido, maletín l-boxx 136
+- Larga vida útil: apagado del motor en caso de sobrecarga, sobrecalentamiento o bloqueo gracias a la protección electrónica del motor
 - AMPShare: Las baterías y cargadores son 100 % compatibles con el sistema Bosch Professional 18V System y con muchas otras herramientas de la alianza de batería multimarca AMPShare.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

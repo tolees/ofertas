@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empuñadura de corcho transpirable
 - Alfombrilla reposa plancha con insertos de silicona
+- Empuñadura de corcho transpirable
 - Suela de aluminio
 
 [🛒 Comprar!!!]({{< param buyurl >}})

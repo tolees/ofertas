@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Soporta audio (MP3, …), vídeo (AMV, …) e imagen (JPG, …)
-- Podómetro, lyrics display, ecualizador (7 modos) y grabadora de radio y de voz
-- Batería recargable (8h de autonomía) vía micro USB
 - Reproductor MP4 Bluetooth con radio FM y 8 GB (ampliable vía microSD)
+- Batería recargable (8h de autonomía) vía micro USB
+- Soporta audio (MP3, …), vídeo (AMV, …) e imagen (JPG, …)
 - Pantalla de 1.8" (4,57cm) con resolución 128 x 160 px e incluye auriculares y cable USB
+- Podómetro, lyrics display, ecualizador (7 modos) y grabadora de radio y de voz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B075GQXL4Q{{</world>}}

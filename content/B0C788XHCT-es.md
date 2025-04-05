@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
-- Ideal para tu día a día
 - Horma clásica
-- Parte superior de piel
 - Forro textil
+- Ideal para tu día a día
+- Cierre de cordones
+- Parte superior de piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C788XHCT{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Shorts deportivos
-- Tejido transpirable
 - Cómodo y ligero
+- Tejido transpirable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09P1RTF5B{{</world>}}

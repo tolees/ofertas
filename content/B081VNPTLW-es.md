@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de piel y tela
 - Indicadas para: caminar
+- Parte superior de piel y tela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081VNPTLW{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Compartimento inferior para guardar el cable enrollado y pies antideslizantes cítricos más fácil de guardar
 - Dimensiones ultrareducidas y 25 w de potencia para una máxima eficiencia
 - Jarra, cono de plástico y la cubierta protectora aptos para limpiarse en el lavavajillas
-- Compartimento inferior para guardar el cable enrollado y pies antideslizantes cítricos más fácil de guardar
 - Cono de rotación en 2 sentidos se pone en marcha al apretar sobre él, asegura una mayor cantidad de zumo
 - Jarra transparente y desmontable con capacidad de 0,45 Litros
 

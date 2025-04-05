@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Neceser con gancho para poderlo colgar
-- No usar lejía; no meter en la secadora; no planchar
 - Realizado en poliéster
+- No usar lejía; no meter en la secadora; no planchar
 - Cuidados: no lavar las manchas pueden eliminarse frotando suavemente con un paño húmedo
+- Neceser con gancho para poderlo colgar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB1MC7L8{{</world>}}

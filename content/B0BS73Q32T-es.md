@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Paneles laterales elásticos
 - Forro de algodón orgánico
+- Paneles laterales elásticos
 - Lazo para tirar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

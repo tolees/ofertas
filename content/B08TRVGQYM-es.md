@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo cotidiano mejorado: escuchamos los comentarios de los clientes y ajustamos cada detalle para garantizar la calidad, el ajuste y la comodidad
 - Tenga en cuenta que la talla que se encuentra en la etiqueta de cuidado de esta prenda corresponde al tamaño de EE. UU. Utilice las tablas de tallas que se encuentran en la página de detalles del producto para encontrar el tamaño equivalente.
+- Estilo cotidiano mejorado: escuchamos los comentarios de los clientes y ajustamos cada detalle para garantizar la calidad, el ajuste y la comodidad
 - Duerme con estilo y comodidad acogedora con estos pijamas clásicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

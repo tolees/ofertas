@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma duradera
 - Lavable a máquina
+- Suela de goma duradera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08656GGCQ{{</world>}}

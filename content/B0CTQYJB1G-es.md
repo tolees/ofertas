@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INGREDIENTES NATURALES: Su fórmula contiene extractos de Saw Palmetto, Bardana, Ginseng, Complejo Fitoactivo, obtenido de semillas de Trigo y Soja, y cafeína. Es libre de parabenos, colorantes, siliconas, aceites minerales y ftalatos
 - EFECTIVO: La cafeína permite activar la microcirculación del cuero cabelludo, permitiendo que los principios activos se absorban con más facilidad
-- BENEFICIOS: Nutre, fortalece y regula el equilibrio lipídico de los cabellos grasos. Tonifica e hidrata el pelo, dejándolo suave y brilloso
 - MODO DE USO: Aplicar sobre el cabello húmedo dando un ligero masaje. Dejar actuar unos minutos y enjuagar con abundante agua. Para una mayor efectividad anticaída recomendamos el uso del tratamiento capilar anticaída NaturVital
+- INGREDIENTES NATURALES: Su fórmula contiene extractos de Saw Palmetto, Bardana, Ginseng, Complejo Fitoactivo, obtenido de semillas de Trigo y Soja, y cafeína. Es libre de parabenos, colorantes, siliconas, aceites minerales y ftalatos
+- BENEFICIOS: Nutre, fortalece y regula el equilibrio lipídico de los cabellos grasos. Tonifica e hidrata el pelo, dejándolo suave y brilloso
 - CHAMPÚ ANTICAÍDA: Previene la caída del cabello, nutriendo, fortaleciendo y regulando la secreción sebácea del cuero cabelludo. Ideal para hombres y mujeres con pelo graso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

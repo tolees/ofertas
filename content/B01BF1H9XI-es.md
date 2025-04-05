@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mango desmontable rojo
 - Apta para todo tipo de cocinas
+- Mango desmontable rojo
 - Antiadherente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

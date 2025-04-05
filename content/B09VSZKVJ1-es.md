@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
-- Horma clásica
 - Plantilla de EVA
+- Horma clásica
+- Forro textil
 - Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

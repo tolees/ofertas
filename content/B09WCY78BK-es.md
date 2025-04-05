@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Boys
-- 1376708-400-YMD/YLG
 - Boys UA Blitzing
+- 1376708-400-YMD/YLG
+- Boys
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09WCY78BK{{</world>}}

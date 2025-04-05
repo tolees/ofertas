@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gran calidad
 - Ajuste cómodo
+- Gran calidad
 - Fácil de llevar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

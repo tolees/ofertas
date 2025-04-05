@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Omini Kappa
-- Ideal para partidos y entrenamientos
 - Camiseta tenis y running
+- Omini Kappa
 - Óptima evacuación del sudor
+- Ideal para partidos y entrenamientos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P6JVRCP{{</world>}}

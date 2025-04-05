@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Prendas infantiles básicas sencillas
 - Icónica bandera de Tommy Hilfiger tejida
-- Costura de la puntera acabada a máquina para evitar molestias
 - Ajuste cómodo
 - Lote múltiple de calcetines para niños y niñas
-- Prendas infantiles básicas sencillas
+- Costura de la puntera acabada a máquina para evitar molestias
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09QQ8DZ3Y{{</world>}}

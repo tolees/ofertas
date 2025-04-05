@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Logotipo The North Face bordado en el pecho
-- Para hombre
 - Polo de manga corta
+- Para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00J4Q2HX4{{</world>}}

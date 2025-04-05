@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los productos Olay se crean en colaboración con más de 8000 mujeres al año
-- Pensada específicamente para el contorno del ojo, la zona más delicada del rostro
-- Apta para piel normal, seca y grasa
-- Fórmula refrescante con ácido hialurónico, extracto de pepino y hamamelis, vitamina B3 (niacinamida) y péptidos
-- Dale a tu mirada una dosis inmediata de hidratación, textura y frescor
 - Hidrata y refresca el contorno del ojo de inmediato, tratando los signos visibles de fatiga
 - Prueba Olay a diario durante 28 días. Experimenta una transformación real de la piel
+- Dale a tu mirada una dosis inmediata de hidratación, textura y frescor
+- Pensada específicamente para el contorno del ojo, la zona más delicada del rostro
+- Fórmula refrescante con ácido hialurónico, extracto de pepino y hamamelis, vitamina B3 (niacinamida) y péptidos
+- Apta para piel normal, seca y grasa
+- Los productos Olay se crean en colaboración con más de 8000 mujeres al año
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07TLX99BG{{</world>}}

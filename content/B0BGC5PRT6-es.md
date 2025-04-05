@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [REE]CYCLED: Pieza elaborada con al menos un 30 % de materiales reciclados o reutilizados
 - Ajuste regular
+- [REE]CYCLED: Pieza elaborada con al menos un 30 % de materiales reciclados o reutilizados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGC5PRT6{{</world>}}

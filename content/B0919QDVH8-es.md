@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Forro textil
 - Cierre de cordones
+- Horma clásica
 - Tacto suave
+- Forro textil
 - Plantilla Cloudfoam Comfort para adecuado comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

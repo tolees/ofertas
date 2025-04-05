@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Camiseta de algodón de manga corta con estampado de bandera en el pecho.
-- LONDRES INDIVIDUAL JERSEY
 - Fabricado con 100% algodón sostenible
+- LONDRES INDIVIDUAL JERSEY
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B64QVWXY{{</world>}}

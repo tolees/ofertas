@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Espuma viscoelástica refrigerada por aire
 - Plantilla cómoda
+- Espuma viscoelástica refrigerada por aire
 - Suela de tracción flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

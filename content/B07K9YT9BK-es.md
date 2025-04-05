@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tiene un efecto hidratante
-- Sin conservantes
-- Se puede usalizar con lentillas
-- Especialmente diseñado para ojos con picazón
 - Lubricar los ojos para que se sienta una mejoría inmediata
+- Se puede usalizar con lentillas
+- Sin conservantes
+- Especialmente diseñado para ojos con picazón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07K9YT9BK{{</world>}}

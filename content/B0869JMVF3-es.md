@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Color intenso y duradero
-- Fácil de aplicar
 - Textura suave
+- Fácil de aplicar
 - Marca: LOreal Paris
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 【Auto Wake/Sleep】Se abre como un libro. despertarlo cuando está abierto y ponerlo a dormir cuando está cerrado. Ahorre más energía de la batería para extender el tiempo de espera.
 - 【Cuero de PU duradero】Proteja su pantalla de rayones con telas de cuero de alta calidad. Tecnología impresa avanzada, hace que el patrón sea más brillante y no se desvanezca fácilmente.
-- 【Ajuste perfecto】 El corte perfecto y el diseño delgado le permiten maximizar la funcionalidad de su e-reader; Todos los botones de control son totalmente accesibles sin quitar la funda.
 - 【Delgado y liviano】 Proteja su dispositivo sin agregar volumen o peso innecesarios, conveniente para transportar.
 - 【Compatibilidad】 SOLO se adapta perfectamente al nuevo Kindle básico de 6 pulgadas de 11.ª generación 2022, modelo n.º: C2V2L3 (verifíquelo en la parte posterior del dispositivo); No se ajustará a otra versión.
+- 【Ajuste perfecto】 El corte perfecto y el diseño delgado le permiten maximizar la funcionalidad de su e-reader; Todos los botones de control son totalmente accesibles sin quitar la funda.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGHXMNWZ{{</world>}}

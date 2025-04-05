@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Agenda semanal de 12 meses, tamaño mediano (A5) con tapa dura, en inglés
 - Con resumen de 3 años (2023, 2024, 2025), planificador de proyectos, fases lunares
-- Cada página tiene una página con la semana del calendario a la izquierda y una página de cuaderno a rayas en el lado derecho.
 - Con cierre de goma y 2 marcapáginas, bolsillo plegable en la cubierta y etiquetas de título y lomo para escribir y archivar. Dimensiones: 145 x 210 mm
 - Papel sin ácidos de 80 g/m², alta compatibilidad con la tinta
+- Cada página tiene una página con la semana del calendario a la izquierda y una página de cuaderno a rayas en el lado derecho.
+- Agenda semanal de 12 meses, tamaño mediano (A5) con tapa dura, en inglés
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7HFPGWR{{</world>}}

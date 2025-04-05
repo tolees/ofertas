@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
-- El estilo del running que va contigo
 - Parte superior de malla
 - Mediasuela Bounce
+- El estilo del running que va contigo
+- Cierre de cordones
 - Forro textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

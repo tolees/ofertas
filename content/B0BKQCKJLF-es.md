@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte regular
-- Camiseta fabricada en tejido de punto suave
 - Logotipo de Maxi PEPEJEANS impreso en la parte delantera
+- Camiseta fabricada en tejido de punto suave
 - Manga corta
 - Cuello redondo
+- Corte regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKQCKJLF{{</world>}}

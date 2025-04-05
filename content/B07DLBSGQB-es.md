@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- libre bpa
 - producto de plástico
-- Dimensiones aprox. 43x29 cms
+- libre bpa
 - Mantel individual Iron Man
+- Dimensiones aprox. 43x29 cms
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DLBSGQB{{</world>}}

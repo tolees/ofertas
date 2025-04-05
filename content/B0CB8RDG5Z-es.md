@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Características: Zapatillas de entrenamiento inspiradas en las leyendas del crossfit
 - Parte superior en materiales prémium para soportar las sesiones más duras
+- Características: Zapatillas de entrenamiento inspiradas en las leyendas del crossfit
 - Recomendadas para: Entrenamiento
 - Construcción en forma de bota para un ajuste o
 

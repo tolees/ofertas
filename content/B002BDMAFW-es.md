@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Escribe en la mayoría de superficies
 - Adecuado para fabricación de la tarjeta
 - Línea del marcador de punta redonda fina, de 0.7 mm
+- Escribe en la mayoría de superficies
 - Marcador de pintura a base de agua no tóxico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

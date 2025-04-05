@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte recto
-- Regular
-- Patrón de rayas
 - Cuello redondo
+- Patrón de rayas
+- Regular
+- Corte recto
 - Bordes acanalados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

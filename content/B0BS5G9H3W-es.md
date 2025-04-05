@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fabricado con 100% algodón sostenible
 - Jersey individual
 - Camiseta de cuello redondo
-- Fabricado con 100% algodón sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS5G9H3W{{</world>}}

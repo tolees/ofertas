@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ortholite, tecnología Goga Mat
 - Plantilla Goga refrigerada por aire
 - Amortiguación ultraligera
-- Zapatillas para correr
 - No es resistente al agua
+- Ortholite, tecnología Goga Mat
+- Zapatillas para correr
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07WC2XDVK{{</world>}}

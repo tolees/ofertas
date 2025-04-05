@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cinta distintiva dentro del cuello
-- Tejido de mezcla de algodón
-- Calvin Klein Bordado en el pecho
 - Cuello redondo
 - Manga corta
+- Tejido de mezcla de algodón
+- Calvin Klein Bordado en el pecho
+- Cinta distintiva dentro del cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BF59RF39{{</world>}}

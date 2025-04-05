@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello redondo
-- Marca centrada en el pecho
 - Ajuste regular
+- Marca centrada en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2J7ZGHG{{</world>}}

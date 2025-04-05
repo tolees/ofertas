@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Classic fit
+- Bolsillo tipo canguro, bolsillo con cremallera en la manga, mangas raglán, acabados acanalados en los puños con agujero para el pulgar
 - Cuello alto y cierre de cremallera a contraste
 - Mezcla de algodón stretch de doble capa
+- Classic fit
 - Cocodrilo de silicona en el pecho
-- Bolsillo tipo canguro, bolsillo con cremallera en la manga, mangas raglán, acabados acanalados en los puños con agujero para el pulgar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3XQSCJL{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Regular fit, straight cut: sencillez y elegancia a partes iguales Pura sofisticación
-- Cuello y puños acanalados: un auténtico clásico
-- Algodón ecológico: cultivado sin OGM ni sustancias químicas
 - Cocodrilo en el pecho: simplemente Lacoste
+- Algodón ecológico: cultivado sin OGM ni sustancias químicas
 - Dos botones a tono: practicidad Sutileza
+- Cuello y puños acanalados: un auténtico clásico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3S44LR5{{</world>}}

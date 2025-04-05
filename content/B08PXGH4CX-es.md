@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parece recién aplicado desde el inicio hasta al final del día
-- Con pigmentos altamente reflectantes y molidos finamente para aportar una textura suave
-- Su fórmula atrapa la luz y aporta un brillo luminoso
 - Consigue un resplandor irresistible, brillante y homogéneo
+- Con pigmentos altamente reflectantes y molidos finamente para aportar una textura suave
+- Parece recién aplicado desde el inicio hasta al final del día
+- Su fórmula atrapa la luz y aporta un brillo luminoso
 - Iluminador que ofrece reflejos ligeros y radiantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

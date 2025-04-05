@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición del material: 100% algodón
 - Mom Jeans
 - Cintura alta
+- Composición del material: 100% algodón
 - Zip fly
 
 [🛒 Visítala!!!]({{< param buyurl >}})

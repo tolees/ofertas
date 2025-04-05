@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Insignia de brazo
 - Insignia translúcida
+- Insignia de brazo
 - 100% poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})

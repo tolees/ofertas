@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parrillas individuales de hierro fundido: diseño Profesional
-- Dimensiones (Ancho x Alto x Profundo mm): 288 x 45 x 522
-- Centro: Wok de doble llama de 4 kW
 - Seguridad GasStop: incorpora un sistema electromecánico de corte de gas en caso de que la llama se apague accidentalmente
+- Parrillas individuales de hierro fundido: diseño Profesional
+- Centro: Wok de doble llama de 4 kW
 - Regula la intensidad del fuego de forma exacta, gracias al Control Preciso de la Llama en 9 niveles
+- Dimensiones (Ancho x Alto x Profundo mm): 288 x 45 x 522
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01LW6UM39{{</world>}}

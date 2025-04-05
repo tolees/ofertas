@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: cordón
 - Parte superior: sintético
-- Forro: sintético
 - Tipo de tacón: plano
 - Ancho del zapato: medio
+- Cierre: cordón
+- Forro: sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08NFB7S4N{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reversibles.
-- Entre ejes de 72 mm.
 - Picaporte de acero sinterizado: soporta temperaturas superiores a los 900º.
 - Entrada de 65 mm.
 - Nueca de 9 x 9 mm.
+- Reversibles.
+- Entre ejes de 72 mm.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008EUNW6M{{</world>}}

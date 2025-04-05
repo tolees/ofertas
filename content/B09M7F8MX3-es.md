@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseño atemporal para disfrutar todo el año
-- Ajuste regular
 - Material sintético
+- Ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09M7F8MX3{{</world>}}

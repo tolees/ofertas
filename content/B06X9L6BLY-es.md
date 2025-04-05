@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - > La espuma icónica de los dardos presentada en pequeños coches que se disparan.
-- La potencia de Nerf se descarga en el estante del coche.
 - Disfruta aventuras a fondo y multiplica las acrobacias más locas.
+- La potencia de Nerf se descarga en el estante del coche.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06X9L6BLY{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tuff-Tech
 - Ligero y ligero
+- Tuff-Tech
 - Repelente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

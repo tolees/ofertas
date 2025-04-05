@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ropa de baño inferior
-- Fácil de usar
 - Pantalones deportivos cortos
+- Fácil de usar
 - boxers
 
 [🛒 Comprar!!!]({{< param buyurl >}})

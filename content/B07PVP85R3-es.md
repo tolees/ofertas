@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La carpeta de plástico Oxford consta de un panel trasero de color verde claro y una tapa transparente
-- En el lado izquierdo de la tapa, las carpetas tienen una tira de cartón blanco alrededor de la cual se puede sacar para etiquetar
-- Las carpetas de plástico ofrecen una forma rápida y sencilla para archivar todas las hojas hasta formato DIN A4
 - Dimensiones (ancho x alto): 22,8 x 31 cm, recibirás 10 carpetas en color verde claro
+- En el lado izquierdo de la tapa, las carpetas tienen una tira de cartón blanco alrededor de la cual se puede sacar para etiquetar
+- La carpeta de plástico Oxford consta de un panel trasero de color verde claro y una tapa transparente
+- Las carpetas de plástico ofrecen una forma rápida y sencilla para archivar todas las hojas hasta formato DIN A4
 - Gracias al plástico elástico y duradero, las carpetas también se pueden doblar sin dañar el contenido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

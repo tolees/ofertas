@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con sifón AC 540, junta de goma y orificio para grifo
+- Diseño compacto con dimensiones de montaje: 405 mm de ancho x 355 mm de profundidad
+- Peso: 2,9 kg
 - Tapa de cristal de seguridad resistente al calor cuando está cerrada como superficie de trabajo
 - Acero inoxidable resistente para una larga vida útil
-- Diseño compacto con dimensiones de montaje: 405 mm de ancho x 355 mm de profundidad
-- Con sifón AC 540, junta de goma y orificio para grifo
-- Peso: 2,9 kg
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093TCWFFV{{</world>}}

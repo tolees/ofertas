@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pierna recta
 - Ajuste regular
+- Pierna recta
 - Cintura baja
 
 [🛒 Visítala!!!]({{< param buyurl >}})

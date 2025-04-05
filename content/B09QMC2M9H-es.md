@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un discreto logo en la parte izquierda del pecho
 - Adecuada para un look relajado
+- Con un discreto logo en la parte izquierda del pecho
 - Camiseta de manga corta
 - Cuello redondo
 

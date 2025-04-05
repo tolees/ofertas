@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dos bolsillos con botón en el pecho
+- Modelo casual
 - Este producto es original Levis
 - Camisa denim clásica de manga larga Western Shirt
-- Modelo casual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TPPWK6F{{</world>}}

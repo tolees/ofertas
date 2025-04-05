@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vaqueros: 80% algodón, 19% poliéster, 1% elastano, camiseta y chaqueta: 60% algodón, 40% poliéster
-- Estampado gráfico
 - Sudadera con capucha y cremallera frontal
+- Vaqueros: 80% algodón, 19% poliéster, 1% elastano, camiseta y chaqueta: 60% algodón, 40% poliéster
 - Camiseta de punto de manga corta
 - Pantalón vaquero elástico
+- Estampado gráfico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSNMXKF1{{</world>}}

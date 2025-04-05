@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Estructura metálica resistente: piezas tubulares de acero con acabado epoxi con conexión de polímero en T y tapón de vaciado con conexión a manguera de jardín
 - Lona triple capa, la pared interior es de color azul y simula el gresite, la pared exterior es de color gris claro
-- Se recomienda el uso de la piscina a partir de los 6 años de edad, tiempo estimado de montaje: 45 minutos
 - Incluye depuradora de cartucho A con capacidad de filtración de 3.785 l/h (conexión de 32 mm), escalera de seguridad, tapiz y cobertor
 - Piscina desmontable redonda INTEX Prisma Frame, línea Greywood con diseño efecto madera en gris, medidas: 457x122 cm y capacidad: 16.805 litros
+- Se recomienda el uso de la piscina a partir de los 6 años de edad, tiempo estimado de montaje: 45 minutos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B083DYNND7{{</world>}}

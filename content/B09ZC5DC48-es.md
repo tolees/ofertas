@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Producto de la marca Puma
 - Ropa deportiva cómoda de llevar
 - Material de calidad
-- Producto de la marca Puma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09ZC5DC48{{</world>}}

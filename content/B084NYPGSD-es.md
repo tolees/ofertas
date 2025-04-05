@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela elástica
-- Diseño de cremallera integral de tecnología en el bolsillo trasero
-- Detalles de la marca PUMA
 - De secado rápido
+- Diseño de cremallera integral de tecnología en el bolsillo trasero
 - Hecho con tela reciclada
+- Tela elástica
+- Detalles de la marca PUMA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084NYPGSD{{</world>}}

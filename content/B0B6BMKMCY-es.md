@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiro bajo
 - CAMISETA INDIVIDUAL
+- Tiro bajo
 - Traje de baño de talle bajo con una cobertura de pierna corta, cintura suave de 40 mm, cosido en el lateral, información de cuidado impresa en el interior de la parte posterior para evitar etiquetas raspadas, punto de cruz plano en la entrepierna, cuerda de doble aguja en la puntada
 - Ropa interior para hombre
 

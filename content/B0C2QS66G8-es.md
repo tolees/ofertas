@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
 - Mediasuela Cloudfoam y plantilla de espuma con memoria
-- Parte textil
-- Horma clásica
 - Cierre de cordones
+- Forro textil
+- Horma clásica
+- Parte textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2QS66G8{{</world>}}

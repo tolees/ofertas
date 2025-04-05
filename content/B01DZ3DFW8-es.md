@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Base de maquillaje fluida iluminadora. Aporta luminosidad, uniformiza el tono y minimiza los signos de fatiga y arrugas.
-- Textura ligera y Acabado sedoso, ultra natural. Cobertura y duración media (6-8 horas)
 - Con protección solar SPF15
-- Hidrata y minimiza las arrugas
 - Todo tipo de pieles, no sólo mixtas. Ideal pieles jóvenes que necesitan poca cobertura
+- Hidrata y minimiza las arrugas
+- Textura ligera y Acabado sedoso, ultra natural. Cobertura y duración media (6-8 horas)
+- Base de maquillaje fluida iluminadora. Aporta luminosidad, uniformiza el tono y minimiza los signos de fatiga y arrugas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01DZ3DFW8{{</world>}}

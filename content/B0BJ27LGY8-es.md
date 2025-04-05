@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Elegante y listo para el invierno
-- Todo el emphasis está en la unidad de solera elevada
 - A Fashion Take on the Classic FILA Boot
+- Todo el emphasis está en la unidad de solera elevada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BJ27LGY8{{</world>}}

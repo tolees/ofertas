@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha fija con pelo sinténtico desmontable
 - Impermeable y térmica
+- Capucha fija con pelo sinténtico desmontable
 - Chaqueta tipo canguro
 - Tejido impermeable
 

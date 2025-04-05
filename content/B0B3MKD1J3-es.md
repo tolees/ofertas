@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Skechers y Arch Fit detalles del logotipo
-- Entresuela de plataforma de apoyo bien acolchada
 - 2 pulgadas de altura
+- Entresuela de plataforma de apoyo bien acolchada
+- Skechers y Arch Fit detalles del logotipo
 - Suela de tracción flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

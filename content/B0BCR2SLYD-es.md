@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color liso
 - Composición: 64% viscosa; 31% poliéster; 5% elastano
 - Cierre delantero
+- Color liso
 - Pantalones clásicos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

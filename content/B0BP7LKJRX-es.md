@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte
 - Tripulación
+- Corte
 - Camiseta de 3 tiendas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

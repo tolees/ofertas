@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de caucho de resistencia a la abrasión para una adecuada durabilidad
 - Mediasuela de EVA para la absorción de impactos
+- Suela de caucho de resistencia a la abrasión para una adecuada durabilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IY4F6AW{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre: mariposa
 - Pendientes de pasador de Tommy Hilfiger
 - Material: Acero inoxidable con chapado iónico oro amarillo
-- Cierre: mariposa
 - Adornado con un cristal
 - Detalle "Hilfiger" grabado en ambos pendientes
 

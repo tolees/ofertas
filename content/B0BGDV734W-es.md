@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular
-- Inspirado en los modelos de skate
 - Lightmotion+ amortiguación
+- Inspirado en los modelos de skate
+- Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGDV734W{{</world>}}

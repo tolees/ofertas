@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo de Adidas
-- Bolsa deportiva
 - Cierre de coulisse ajustable
+- Bolsa deportiva
+- Logotipo de Adidas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQJPH77B{{</world>}}

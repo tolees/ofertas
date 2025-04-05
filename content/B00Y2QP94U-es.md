@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Protección IP67
 - Dimensión externa :585 x 361 x 238 mm.
 - Dura, fuerte y rígida
-- Dimensión interna: 520 x 290 x 200 mm.
-- Protección IP67
 - Mango extensible
+- Dimensión interna: 520 x 290 x 200 mm.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00Y2QP94U{{</world>}}

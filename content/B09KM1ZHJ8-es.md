@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Juegos de 10 minutos para 2 a 4 jugadores
-- 4 juegos en 1: Snap, Parejas, familias y juego de afilicion
-- Baraja de cartas de 33 naipes con ilustaciones de los personajes de Patrulla Canina
-- Baraja de cartas infantil de la serie de televisión
 - Impreso en papel 100% reciclado
+- 4 juegos en 1: Snap, Parejas, familias y juego de afilicion
+- Baraja de cartas infantil de la serie de televisión
+- Baraja de cartas de 33 naipes con ilustaciones de los personajes de Patrulla Canina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09KM1ZHJ8{{</world>}}

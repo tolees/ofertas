@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MONITORIZACIÓN CONTINUA DEL RITMO CARDIACO: Utiliza la monitorización continua del ritmo cardiaco para controlar mejor la quema de calorías, optimizar los entrenamientos y conocer tus tendencias, lo que te inspirará a avanzar en tus objetivos de salud y forma física.
 - DURACIÓN DE LA BATERÍA: Hasta 7
+- COMPATIBILIDAD: Compatible con iOS 15 & Android OS 9.0
 - FASES Y PUNTUACIÓN DEL SUEÑO: Charge 4 registra el tiempo que pasas en las fases de sueño ligero, profundo y REM y ofrece una Puntuación del sueño en la aplicación de Fitbit. Así podrás entender mejor tu sueño y mejorar tu descanso.
 - GPS INTEGRADO: Con el GPS integrado, no te hará falta llevar encima el móvil cuando quieras hacer ejercicio al aire libre, dado que podrás ver el ritmo seguido y la distancia recorrida en tu pulsera de actividad en tiempo real. Además, cuando termines, podrás consultar en la aplicación un mapa de intensidad del entrenamiento que te mostrará la ruta y el esfuerzo realizado.
-- COMPATIBILIDAD: Compatible con iOS 15 & Android OS 9.0
+- MONITORIZACIÓN CONTINUA DEL RITMO CARDIACO: Utiliza la monitorización continua del ritmo cardiaco para controlar mejor la quema de calorías, optimizar los entrenamientos y conocer tus tendencias, lo que te inspirará a avanzar en tus objetivos de salud y forma física.
 - APLICACIONES Y NOTIFICACIONES: Mantente conectado con las notificaciones de llamadas, mensajes de texto, aplicaciones móviles, agenda, y prácticas apps como El Tiempo y el temporizador. Además, envía respuestas rápidas a mensajes (solo con Android). Función disponible cuando el móvil está cerca.
 - MINUTOS EN ZONA ACTIVA: Esta función te avisa en qué zona de ritmo cardiaco te encuentras para que veas si te estás esforzando lo suficiente para alcanzar tus objetivos.
 

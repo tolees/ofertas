@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte estándar
 - Cuello redondo
 - Nombre: camiseta de manga larga de jersey, 100% algodón
 - Suave jersey de algodón 100% sostenible
+- Corte estándar
 - Esta camiseta de manga larga hecha de algodón puro y sostenible es el complemento perfecto para tu look diario.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tonifica la piel, restaura la flexibilidad, proporciona un brillo saludable y aumenta la hidratación
-- Base de maquillaje que incorpora serum
-- Cobertura media para el rostro
 - Textura sedosa y jugosa
 - Compuesta por 82% de ingredientes naturales, con vitaminas C, E y B5 y extracto de arándonos rojos
+- Cobertura media para el rostro
+- Base de maquillaje que incorpora serum
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJCDSVLF{{</world>}}

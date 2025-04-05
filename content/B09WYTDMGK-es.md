@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Testada por el Swiss Vitamin Institute
 - Hasta 72 horas de brillo y suavidad en el pelo con un solo uso
 - Cura intensiva para controlar el encrespamiento y lucir un pelo suave y sedoso
+- Testada por el Swiss Vitamin Institute
 - Mascarilla capilar para pelo apagado y encrespado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

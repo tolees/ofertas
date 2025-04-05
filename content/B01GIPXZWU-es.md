@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Óptimo para el uso diario y disponible en una variedad de colores
-- Repele el agua y las manchas gracias a la tecnología Omni-Shield
-- 4 bolsillos para acceso rápido a pertenencias importantes, 1 bolsillo de seguridad con cremallera para pertenencias importantes
 - Pantalón hasta la rodilla de mujer para excursionismo, running o trail running, Ajuste activo
+- Repele el agua y las manchas gracias a la tecnología Omni-Shield
+- Óptimo para el uso diario y disponible en una variedad de colores
+- 4 bolsillos para acceso rápido a pertenencias importantes, 1 bolsillo de seguridad con cremallera para pertenencias importantes
 - Contenido: 1 x Columbia Saturday Trail, Shorts largos de senderismo, Mujer, Material: Omni-Shield Summiteer Lite 96% nylon / 4% elastano, Color: Beige (British Tan), Talla: W8/L12, Art.No. 1579881
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

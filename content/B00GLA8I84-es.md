@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TODA UNA GALAXIA DE FIGURAS: Colecciona otras figuras de Star Wars The Black Series inspiradas en la ficción y crea tu propia galaxia de Star Wars (Se venden por separado. Sujeto a disponibilidad)
-- ARTICULACIÓN Y DISEÑO PREMIUM: Los fans y coleccionistas de Star Wars pueden exhibir en su colección esta figura de 15 cm fácilmente articulable (cabeza, brazos y piernas) con diseño premium
 - LUKE SKYWALKER (CABALLERO JEDI): ¡Conmemora el 40.º aniversario de Star Wars: El Retorno del Jedi con figuras de la línea The Black Series, las cuales cuentan con diseño y embalaje clásicos!
-- ACCESORIO INSPIRADO EN EL PERSONAJE: Esta figura de acción Star Wars The Black Series incluye un sable de luz
+- ARTICULACIÓN Y DISEÑO PREMIUM: Los fans y coleccionistas de Star Wars pueden exhibir en su colección esta figura de 15 cm fácilmente articulable (cabeza, brazos y piernas) con diseño premium
 - STAR WARS: EL RETORNO DEL JEDI: Esta figura de Luke Skywalker (Caballero Jedi), inspirada en el personaje de Star Wars: El Retorno del Jedi, es un regalo fantástico para todo coleccionista o fan de Star Wars a partir de 4 años
+- ACCESORIO INSPIRADO EN EL PERSONAJE: Esta figura de acción Star Wars The Black Series incluye un sable de luz
+- TODA UNA GALAXIA DE FIGURAS: Colecciona otras figuras de Star Wars The Black Series inspiradas en la ficción y crea tu propia galaxia de Star Wars (Se venden por separado. Sujeto a disponibilidad)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00GLA8I84{{</world>}}

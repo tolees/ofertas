@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Volumen útil de 13.5 Litros
-- Caja de herramientas TSTAK II con asa bimaterial en la unidad superior para levantarla de forma fácil y cómoda
 - Superficie superior interior plana con espuma pre-cortada adecuda para el almacenaje de herramientas eléctricas
+- Caja de herramientas TSTAK II con asa bimaterial en la unidad superior para levantarla de forma fácil y cómoda
+- Volumen útil de 13.5 Litros
 - Dimensiones: 44 x 18.5 x 33 cm
 - Diseño apilable gracias a los cierres laterales resistentes que aseguran que las unidades queden bien sujetas, es compatible con toda la gama de almacenamiento modular TSTAK de Stanley
 

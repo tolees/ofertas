@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste cómodo
 - Transpirabilidad
+- Ajuste cómodo
 - El material absorbe el sudor y se seca muy rápido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

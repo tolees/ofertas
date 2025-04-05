@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfora hasta la victoria
-- Modos de batalla multijugador
 - Vuelve Mr; driller
+- Modos de batalla multijugador
+- Perfora hasta la victoria
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GMR6QHR{{</world>}}

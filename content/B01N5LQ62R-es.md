@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Funda reforzada
-- Puntos de anclaje extensibles y reemplazables
 - Cremallera con solapa anti captura
 - Solución de vestíbulo extensible
+- Puntos de anclaje extensibles y reemplazables
+- Funda reforzada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01N5LQ62R{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es de estilo informal y sencillo
 - Esta bandolera básica tiene todo lo que necesitas para organizar tus cosas
+- Es de estilo informal y sencillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082JDTCJQ{{</world>}}

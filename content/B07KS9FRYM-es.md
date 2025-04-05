@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómodo y suave material de algodón
-- Forro de malla fría
 - Cuello alto con cordón
-- Sudadera básica con capucha para deporte y ocio
 - Hombreras delgadas
+- Sudadera básica con capucha para deporte y ocio
+- Forro de malla fría
+- Cómodo y suave material de algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KS9FRYM{{</world>}}

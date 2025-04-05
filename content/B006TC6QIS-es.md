@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aberturas laterales en la costura del dobladillo
-- Piqué
-- Cuello en punto de canalé que no se enrolla
-- Bolsillo de trabajo en el lado izquierdo del pecho
 - Manga corta
 - Loose Fit
 - Cierre frontal de 3 botones
+- Cuello en punto de canalé que no se enrolla
+- Bolsillo de trabajo en el lado izquierdo del pecho
+- Aberturas laterales en la costura del dobladillo
+- Piqué
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B006TC6QIS{{</world>}}

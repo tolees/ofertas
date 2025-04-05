@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 30 minutos de resistencia al fuego hasta 1093 grados Celsius
-- Capacidad: 5,6 litros
 - Construcción de doble pared para protección contra la remoción y el fuego
+- Capacidad: 5,6 litros
 - Incluye 2 llaves
 - Preparado para el anclaje al suelo para tornillos de hasta un máximo de 6 mm
 - La caja puede guardar documentos de tamaño A4 para guardarlos de forma segura
+- 30 minutos de resistencia al fuego hasta 1093 grados Celsius
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RNGPQMR{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de la marca
 - Suela de goma
+- Logotipo de la marca
 - Confort
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

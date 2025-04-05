@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Repelente al agua
 - 17 cm de alto x 11 cm de ancho x 2 cm de profundidad
 - Bolsa de teléfono
 - O bolsillo para teléfono móvil
 - De poliamida
+- Repelente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CK4CY44Y{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo de Kipling redondo
-- Compartimento principal con cremallera con 2 bolsillos frontales con cremallera
 - 3 bolsillos interiores: 1 con cremallera y 2 abiertos
+- Compartimento principal con cremallera con 2 bolsillos frontales con cremallera
+- Logotipo de Kipling redondo
 - Repelente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

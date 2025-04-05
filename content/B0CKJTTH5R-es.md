@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Punta redonda
-- Suela de goma
 - Utilizado como casual
+- Suela de goma
 - Plantilla SOFTFOAM+
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

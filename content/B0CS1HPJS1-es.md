@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Converse
-- Talla: 37
-- Artículo: A07210C
 - Material: tela
+- Talla: 37
 - Color: MARRONE
+- Marca: Converse
+- Artículo: A07210C
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CS1HPJS1{{</world>}}

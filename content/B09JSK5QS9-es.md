@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 👾 【NEWSKILL GAMING】Es una empresa fabricante líder de periféricos gaming para PC y consolas, que ofrece la mejor calidad y confianza a sus clientes con más de 6 años de experiencia. Para ver su catálogo completo, haga clic en Visita la Store de NEWSKILL, en la parte inferior del título de cada producto.
 - ⭐【 SUPERFICIE DE TEJIDO CORDURA】Esta alfombrilla para ratón, está fabricada en tejido Cordura de gran calidad. Gracias a este tejido, deslizarás tu ratón más fácilmente, pero con total control y precisión. Con Themis Pro, tendrás lo movimientos más rápidos, evitando el desgaste y la abrasión y, además, su superficie es impermeable, para una resistencia y durabilidad extraordinarias.
-- ⭐【BASE ANTIDESLIZANTE DE CAUCHO NATURAL】Además de una superficie con las mejoras características gaming, Themis Pro cuenta con una base de caucho natural antideslizante. Este aspecto es una ventaja a tener en cuenta, ya que evitarás indeseados movimientos de la alfombrilla del mouse, cuando estés concentrado en tus partidas.
 - ⭐【ALFOMBRILLA DE RATÓN GAMING L RGB 】La superficie de Themis Pro L mide 46x40x0.4cm, para adaptarse a cualquier mesa o escritorio, y darte todo el apoyo que necesitas, para que tus movimientos de ratón no tengan límites. Disfruta de una alfombrilla gamer, que te proporcionará la libertad de movimiento que buscas.
 - ⭐【 PERFIL RGB PERSONALIZABLE】Themis Pro destaca por sus materiales, pero también por sus acabados. El borde de sus 4mm de grosor, dispone de iluminación RGB, configurable fácilmente vía software, desde tu PC. Para disfrutar de su iluminación, en diferentes modos y colores, simplemente tendrás que conectarla mediante su USB tipo C, y listo.
+- ⭐【BASE ANTIDESLIZANTE DE CAUCHO NATURAL】Además de una superficie con las mejoras características gaming, Themis Pro cuenta con una base de caucho natural antideslizante. Este aspecto es una ventaja a tener en cuenta, ya que evitarás indeseados movimientos de la alfombrilla del mouse, cuando estés concentrado en tus partidas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JSK5QS9{{</world>}}

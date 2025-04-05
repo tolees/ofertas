@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apoyo de la iniciativa Better Cotton: somos miembros orgullosos de la iniciativa «Better Cotton Initiative». Al comprar nuestros productos fabricados con algodón, contribuyen a un cultivo más sostenible del algodón. El algodón proviene de un sistema de balance en masa
 - Pantalones de chándal para niño en el estándar de la marca danesa JACK&JONES Junior
+- Apoyo de la iniciativa Better Cotton: somos miembros orgullosos de la iniciativa «Better Cotton Initiative». Al comprar nuestros productos fabricados con algodón, contribuyen a un cultivo más sostenible del algodón. El algodón proviene de un sistema de balance en masa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JSPDZPX{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Los caramelos están envueltos individualmente y, por lo tanto, son ideales para llevarlos a cualquier lugar y guardarlos en el bolso, para picar y para compartir con la familia y los amigos
-- Contiene dos sabores; naranja y limón
-- Con Vitaminas para toda la familia
 - nimm2: Caramelos duros con un delicioso relleno de zumo de frutas y vitaminas
 - No contienen gluten
+- Con Vitaminas para toda la familia
+- Contiene dos sabores; naranja y limón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00I1HRCD2{{</world>}}

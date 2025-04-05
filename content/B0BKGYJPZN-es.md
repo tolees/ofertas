@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logotipo de Aston Marting Racing en el pecho
-- Estilo deportivo
 - Polo ajustado
+- Estilo deportivo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKGYJPZN{{</world>}}

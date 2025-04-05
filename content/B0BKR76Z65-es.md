@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tinte para prendas
-- Solapa de dos botones
 - Detalle acanalado en cuello y mangas
+- Solapa de dos botones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKR76Z65{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Acabado madera maciza pino encerado
-- Medidas mesitas: 45 x 45 x 2 cm
-- El cabecero y mesitas vienen preparados para colgar en la pared
 - Medidas cabezal: 155 x 60 x 2 cm
+- El cabecero y mesitas vienen preparados para colgar en la pared
+- Medidas mesitas: 45 x 45 x 2 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B077L26CNT{{</world>}}

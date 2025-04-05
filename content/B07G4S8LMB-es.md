@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Care Label:
-- Long Sleeves
-- Faux leather jacket
 - Polyester lining for a comfortable feel
+- Faux leather jacket
+- Long Sleeves
+- Care Label:
 - materialFabricComposition: Outer: 85% Polyester, 13% Cotton, 2% Viscose; Lining: 100% Polyester
 
 [🛒 Aquí!!!]({{< param buyurl >}})

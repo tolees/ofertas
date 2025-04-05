@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
 - Modelo de ejecución
+- Ajuste regular
 - Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

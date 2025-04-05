@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una vez abierta, mide 30 cm
 - Optimo para la vuelta al col
-- Regla desplegable
 - Mensaje “Happiness looks good on you”impreso en ella
+- Regla desplegable
+- Una vez abierta, mide 30 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C62LPLM4{{</world>}}

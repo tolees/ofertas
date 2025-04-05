@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- GATOS MAYORES DE 3 MESES: Este producto es apto para usar en gatos mayores de 3 meses.
 - EL GERANIOL Y EL LAVANDINO: Son repelentes naturales que proporcionan una protección adicional repeliendo todo tipo de insectos voladores (moscas, tábanos, avispas).
+- MEDIDA: 30 cm.
 - La MARGOSA (NEEM) es un insecticida natural que elimina todo tipo de insectos presentes en la piel o el pelaje (pulgas, garrapatas, chinches, ácaros).
 - MODO DE EMPLEO: Coloque el collar en el cuello del animal de manera que permita pasar dos dedos por debajo. Cortar la parte sobrante del collar. Reemplazar el collar después de tres meses de utilización o en caso de reinfestación de parásitos.
-- MEDIDA: 30 cm.
 - ESTÁ TESTADO CIENTÍFICAMENTE: Ha superado estudios de eficacia que certifican que protege durante 4 meses a tu mascota contra los ataques de mosquitos, pulgas y garrapatas.
 - CONTIENE 3 ACTIVOS REPELENTES NATURALES: Collares para gatos que protegen de las infestaciones de parásitos externos como pulgas, garrapatas, piojos, ácaros y también de las picaduras de mosquitos. Con 3 activos 100% naturales: margosa, geraniol y lavandino.
-- GATOS MAYORES DE 3 MESES: Este producto es apto para usar en gatos mayores de 3 meses.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B38V3DBL{{</world>}}

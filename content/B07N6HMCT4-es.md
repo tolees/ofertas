@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñados para favorecer, sujetar y realzar
 - Este producto es original Levis
+- Diseñados para favorecer, sujetar y realzar
 - Estos vaqueros modelan tus muslos mientras que alisan el vientre
 - Proporciona comodidad y libertad de movimiento
 

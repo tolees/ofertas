@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contiene un 90% de ingredientes de origen natural incluyendo agua
-- Aplicación: agitar antes de usar. Aplicar después de cada lavado sobre el cabello seco o húmedo secado con una toalla. No aclarar
-- El acondicionador Ultimate Repair de Gliss es adecuado para cabello muy dañado
 - Gama Ultra Reparación con keratina líquida + sérum de perla, devuelve la Keratina perdida y repara intensamente la estructura del cabello
+- El acondicionador Ultimate Repair de Gliss es adecuado para cabello muy dañado
+- Aplicación: agitar antes de usar. Aplicar después de cada lavado sobre el cabello seco o húmedo secado con una toalla. No aclarar
 - Reconstrucción de la estructura del cabello con Keratina. Hasta un 90% más de resistencia y brillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Díametro: 25 cm.
 - Color blanco.
-- Ideal para colocar en oficianas, cocinas, salones, patios, terrazas, salones, etc.
-- Funcionamiento con 1 bateria AA (no incluida)
 - Marco y protector frontal realizado en plastico.
+- Funcionamiento con 1 bateria AA (no incluida)
+- Díametro: 25 cm.
+- Ideal para colocar en oficianas, cocinas, salones, patios, terrazas, salones, etc.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KGGKG7N{{</world>}}

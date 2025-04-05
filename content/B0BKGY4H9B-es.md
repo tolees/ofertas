@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga corta
 - Logotipo de Aston Marting Racing en el pecho
+- Manga corta
 - Polo de ajuste clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

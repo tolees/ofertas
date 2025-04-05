@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - BLANCO
-- SINTETICO
 - Zapatillas casual para niño
+- SINTETICO
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZKJHN2R{{</world>}}

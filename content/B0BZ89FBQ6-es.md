@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
 - Parte de malla acolchada
+- Horma clásica
+- Forro textil
 - Amortiguación LIGHTMOTION
 - Cierre de cordones
-- Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZ89FBQ6{{</world>}}

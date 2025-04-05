@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Banda protectora fabricada en tejido antiabrasión
-- Sistema de soporte en el tobillo
 - Plantilla Ortholite con refuerzo de EVA
 - Membrana impermeable ClimaPROTECT
+- Sistema de soporte en el tobillo
 - Inserción trasera de TPU en entresuela para óptima estabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

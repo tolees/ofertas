@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Combina un potente equipo con una amplia variedad de habilidades: Personaliza la progresión del grupo con una amplia selección de habilidades, como cocina, arte, alquimia y muchas más; alcanza niveles de especialidad
 - Vive una historia con doble protagonista: Comienza tu viaje con Claude o con Rena; en función de tu elección, las perspectivas y los aliados que puedes reclutar serán distintos
-- Emocionantes batallas visualmente explosivas: Disfruta de combates trepidantes y utiliza mecánicas para derrotar estratégicamente a los enemigos
 - Desde peligrosas mazmorras a bulliciosas ciudades, el mundo de STAR OCEAN THE SECOND STORY R está generado con un asombroso estilo 2.5D que combina hermosos gráficos 3D con nostálgicos personajes en píxeles 2D
+- Emocionantes batallas visualmente explosivas: Disfruta de combates trepidantes y utiliza mecánicas para derrotar estratégicamente a los enemigos
+- Combina un potente equipo con una amplia variedad de habilidades: Personaliza la progresión del grupo con una amplia selección de habilidades, como cocina, arte, alquimia y muchas más; alcanza niveles de especialidad
 - Una mítica banda sonora remasterizada por Motoi Sakuraba: Se han vuelto a componer todos los temas, incluida la interpretación orquestal e instrumentos de cuerda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

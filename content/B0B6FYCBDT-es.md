@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Red técnica ligera y transpirable
 - Intersuola para una absorción de impacto óptima
+- Red técnica ligera y transpirable
 - Cables de Flywire
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

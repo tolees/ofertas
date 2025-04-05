@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido técnico 100% poliéster reciclado
-- Compartimento inferior rígido
 - Bolsillo lateral de malla
 - Capacidad: 40,75 l
+- Compartimento inferior rígido
+- Tejido técnico 100% poliéster reciclado
 - Dimensiones: 29 cm x 58 cm x 30 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

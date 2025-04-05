@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Profundidad: 68 mm
-- Número de polos: 4P
 - Altura: 81 mm
-- Anchura: 72 mm
+- Número de polos: 4P
 - Corriente nominal: 40 A
+- Profundidad: 68 mm
+- Anchura: 72 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LFNEPJM{{</world>}}

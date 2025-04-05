@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido elástico
-- Secado rápido
 - Estampado integral de Puma
+- Tejido elástico
 - Lazo para llaves práctico y con estilo
+- Secado rápido
 - Confeccionado con materiales reciclados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

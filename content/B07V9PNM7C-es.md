@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Apta para utilizar con ollas antiadherentes
+- Si se utiliza una tapa, la olla debe tener al menos 10.5 cm de profundidad
 - Patas y aletas de silicona resistentes al calor
 - Gancho para tenedor de fácil extracción
-- Si se utiliza una tapa, la olla debe tener al menos 10.5 cm de profundidad
 - Su diseño autoajustable se adapta a diversos tamaños de olla, de un mínimo de 18 cm
 - Se pliega para lograr un almacenaje compacto
 

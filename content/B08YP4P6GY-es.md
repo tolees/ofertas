@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deliciosos rollos de oblea con relleno de crema
-- Perfecto con té, café y helado
-- Ideal para compartir con amigos y familiares
 - Un lujo para el día especial de su ser querido
 - Elaborado con ingredientes de alta calidad
+- Deliciosos rollos de oblea con relleno de crema
+- Ideal para compartir con amigos y familiares
+- Perfecto con té, café y helado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08YP4P6GY{{</world>}}

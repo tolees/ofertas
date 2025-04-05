@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Marca PUMA en los costados
-- Entresuela ligera de EVA
 - Suela de goma
+- Entresuela ligera de EVA
 - Superposición de sillín
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

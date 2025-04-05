@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un bajo de acabado limpio
 - Queda por encima de la rodilla
-- Fabricados con el cómodo elástico que cuenta con ese toque de elasticidad para ir cómodamente durante todo el día
 - Desgastado, con un ligero lavado índigo
+- Con un bajo de acabado limpio
+- Fabricados con el cómodo elástico que cuenta con ese toque de elasticidad para ir cómodamente durante todo el día
 - Este producto es original Levis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

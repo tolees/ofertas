@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pieza acanalada insertada en la parte delantera de la manga
-- Las mangas continúan hasta formar un panel en los hombros
 - Manga corta raglán
-- Cuello redondo acanalado
+- Las mangas continúan hasta formar un panel en los hombros
+- Pieza acanalada insertada en la parte delantera de la manga
 - Bajo recto
+- Cuello redondo acanalado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6CV58ZG{{</world>}}

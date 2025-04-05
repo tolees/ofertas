@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El adaptador de Thunderbolt a Gigabit Ethernet de Apple te permite conectarte fácilmente a una red Gigabit Ethernet de alto rendimiento.
-- Compatibilidad modelos de MacBook: MacBook Air (13 pulgadas, principios de 2015‐2017), MacBook Air (11 pulgadas, principios de 2015), MacBook Pro (Retina de 13 pulgadas, finales de 2012‐2015), MacBook Pro (Retina de 15 pulgadas, mediados de 2012‐2015)
-- Requisitos del sistema: OS X 10.7.4 o posterior, Ordenador Mac con Thunderbolt
-- Es pequeño y compacto, se conecta al puerto Thunderbolt de tu Mac y proporciona un puerto RJ-45 compatible con redes 10/100/1000BASE-T.
 - Compatibilidad modelos de Mac: iMac (Retina 4K de 21,5 pulgadas, finales de 2015), iMac (Retina 5K de 27 pulgadas, finales de 2014-2015), Mac Pro (finales de 2013), Mac mini (finales de 2014)
+- El adaptador de Thunderbolt a Gigabit Ethernet de Apple te permite conectarte fácilmente a una red Gigabit Ethernet de alto rendimiento.
+- Requisitos del sistema: OS X 10.7.4 o posterior, Ordenador Mac con Thunderbolt
+- Compatibilidad modelos de MacBook: MacBook Air (13 pulgadas, principios de 2015‐2017), MacBook Air (11 pulgadas, principios de 2015), MacBook Pro (Retina de 13 pulgadas, finales de 2012‐2015), MacBook Pro (Retina de 15 pulgadas, mediados de 2012‐2015)
+- Es pequeño y compacto, se conecta al puerto Thunderbolt de tu Mac y proporciona un puerto RJ-45 compatible con redes 10/100/1000BASE-T.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008ALA6DW{{</world>}}

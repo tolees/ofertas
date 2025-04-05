@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa ajustable para adaptártela mejor a la cintura
-- Dos bolsillos frontales de cremallera para guardar accesorios pequeños
 - Riñonera de 27 cm x 12 cm x 8 cm fabricada en poliéster
+- Dos bolsillos frontales de cremallera para guardar accesorios pequeños
+- Correa ajustable para adaptártela mejor a la cintura
 - De joumma bags
 
 [🛒 Comprar!!!]({{< param buyurl >}})

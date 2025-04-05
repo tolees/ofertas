@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseñados para unisex
-- Acolchado de 95% PU y 5% PVC
 - Hechos de material de poliuretano
 - Adecuados para los trenes con la frecuencia moderada
+- Diseñados para unisex
+- Acolchado de 95% PU y 5% PVC
 - Con cierre de velcro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

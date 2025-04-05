@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con primer integrado para el párpado
-- Para un color construible que puedas controlar
 - Una textura suave que difumina como un sueño
+- Con primer integrado para el párpado
 - No cuartea ni pliega en todo el día
 - Sombra de ojos suave que no cuartea
+- Para un color construible que puedas controlar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PX24XZ8{{</world>}}

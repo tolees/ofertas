@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 15,6", FullHD 1920 x 1080 pixeles
-- Memoria RAM de 4GB DDR4 SDRAM
 - Procesador Intel Celeron N4020 (2C/DualCore 1.10GHz)
-- Sin Sistema Operativo
 - Almacenamiento de 256GB SSD
+- Pantalla de 15,6", FullHD 1920 x 1080 pixeles
+- Sin Sistema Operativo
+- Memoria RAM de 4GB DDR4 SDRAM
 - Tarjeta gráfica Intel UHD Graphics 600
 
 [🛒 Comprar!!!]({{< param buyurl >}})

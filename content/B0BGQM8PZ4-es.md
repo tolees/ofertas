@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: EVA
 - Revestimiento: Sintético
+- Material de la suela: EVA
 - Cierre: Cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

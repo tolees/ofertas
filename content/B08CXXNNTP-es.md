@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Crystal Clear
-- DENIM STRETCH
 - SKINNY
+- DENIM STRETCH
+- Crystal Clear
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CXXNNTP{{</world>}}

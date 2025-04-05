@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material superior: sintético
-- Forma del tacón: plano
 - Material interior: textil
+- Material superior: sintético
 - Cierre: goma
+- Forma del tacón: plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096MXSF1Z{{</world>}}

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Requisitos del sistema: Microsoft Windows 98SE, NT, 2000, XP, Vista o Windows 7, MAC OS, NetWare, UNIX o Linux
+- Wi-Fi con velocidad hasta 300 Mbps
+- Conecte un módem USB 3G/4G para compartir sus conexiones Wi-Fi, la compatibilidad está asegurada a través de años de pruebas de campo
+- Se envía en un embalaje certificado
+- El TL-MR3020 le permite estar conectado a Internet permanentemente gracias a su modo de conexión redundante 3G/4G y WAN
 - Funciona de tres formas diferentes según la situación: como router 3G/4G, router cliente WISP y router de viaje (AP Modelo)
 - Sim-unlocked, comparte su conexión 3G/4G modem, compatible con múltiples módems USB 3G/4G UMTS/HSPA+/HSPA/EVDO probados en condiciones reales
 - El tamaño y peso del TL-MR3020 lo convierten en el equipo ideal para llevárselo de viaje y compartir su conexión móvil en cualquier lugar con cobertura 3G/4G
-- Wi-Fi con velocidad hasta 300 Mbps
-- Se envía en un embalaje certificado
-- El TL-MR3020 le permite estar conectado a Internet permanentemente gracias a su modo de conexión redundante 3G/4G y WAN
-- Conecte un módem USB 3G/4G para compartir sus conexiones Wi-Fi, la compatibilidad está asegurada a través de años de pruebas de campo
-- Requisitos del sistema: Microsoft Windows 98SE, NT, 2000, XP, Vista o Windows 7, MAC OS, NetWare, UNIX o Linux
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00634PLTW{{</world>}}

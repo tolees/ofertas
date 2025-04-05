@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: goma
+- Material superior: sintético
 - Material interior: sintético
+- Suela: goma
 - Forma del tacón: tacón de bloque
 - Cierre: cremallera
-- Material superior: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN68YTC6{{</world>}}

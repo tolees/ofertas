@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicación es on-the-go y sin roturas
+- Nuevos seis tonos de colores vibrantes
 - Los esmaltes Masterpiece Xpress de Max Factor aportan color
 - Su fórmula es de secado rápido en 60 segundos
-- Nuevos seis tonos de colores vibrantes
+- Aplicación es on-the-go y sin roturas
 - Efecto brillo, una pasada, top coat y acabado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

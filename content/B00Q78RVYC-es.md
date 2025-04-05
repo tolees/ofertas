@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MENFORSAN: En Menforsan nos preocupamos por la salud de los animales y el cuidado del planeta, por lo que creamos productos naturales vegan friendly de la mejor calidad.
-- CRECIMIENTO DEL PELAJE: Champú de máxima calidad para chachorros que no irrita los ojos ni las mucosas. Es rico en Vitamina E y además tiene fuertes propiedades antioxidantes que ayudan a estimular el crecimiento del pelaje.
 - ELASTICIDAD DEL PELAJE: Producto con germen de trigo que aporta gran cantidad de nutrientes que contribuyen a mantener y recuperar la elasticidad del pelaje
+- CRECIMIENTO DEL PELAJE: Champú de máxima calidad para chachorros que no irrita los ojos ni las mucosas. Es rico en Vitamina E y además tiene fuertes propiedades antioxidantes que ayudan a estimular el crecimiento del pelaje.
 - MODO DE EMPLEO: Humedecer el pelaje con abundante agua tibia. Aplicar el champú en cuello, lomo, manos y patas. Masajear hasta conseguir una abundante y cremosa espuma y dejar actuar unos instantes. Aclarar y dejar que el perro se sacuda. Secar con toalla.
+- MENFORSAN: En Menforsan nos preocupamos por la salud de los animales y el cuidado del planeta, por lo que creamos productos naturales vegan friendly de la mejor calidad.
 - APTO PARA USO FRECUENTE: Un cosmético que mejora y mantiene la hidratación natural, permitiendo un uso frecuente sin alterar las propiedades protectoras de la piel. pH adaptado al pelaje.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

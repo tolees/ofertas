@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cordones
-- Parte textil
 - Forro textil
 - Horma clásica
+- Parte textil
+- Cierre de cordones
 - Mediasuela Cloudfoam y plantilla de espuma con memoria
 
 [🛒 Visítala!!!]({{< param buyurl >}})

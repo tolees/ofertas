@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Para todo el año
-- 12615 CCGR
 - Femenino
 - Graceful Get Connected
 - Baja
+- 12615 CCGR
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01LWSCK7Z{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Action RPG meets Tower defence - Control powerful heroes, unleash devastating abilities and deploy strategic defensive units in this brand new sub-genre title
-- epic encounters - Battle demonic monsters: from the small and numerous to the epic and towering. Every Agent of Hell is out to stop you!
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
-- build your defences - Set up archers, Knights, mages and catapults - Choose their position, upgrade their abilities and create the strongest resistance possible.
 - 4 player online co-op - combine forces with up to four players and battle the legions of evil! Hell warders supports co-operative play with friends and online matchmaking.
+- Action RPG meets Tower defence - Control powerful heroes, unleash devastating abilities and deploy strategic defensive units in this brand new sub-genre title
+- build your defences - Set up archers, Knights, mages and catapults - Choose their position, upgrade their abilities and create the strongest resistance possible.
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
+- epic encounters - Battle demonic monsters: from the small and numerous to the epic and towering. Every Agent of Hell is out to stop you!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07TXC3YGN{{</world>}}

@@ -31,9 +31,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - MEDIDAS: Sus dimensiones compactas de 605 x 340 x 340 mm lo hacen ideal para espacios reducidos.
 - SUPERAISLAMIENTO: Además, este termo cuenta con un superaislamiento de poliuretano expanso sin CFC y sin HCFC, manguitos aislantes, válvula de seguridad con dispositivo de vaciado y un exterior con recubrimiento de pintura poliéster.
 - GRAN POTENCIA: Con una potencia total de 1.500 W y una alimentación de 220/240 V - 50/60 Hz, el termo eléctrico CTR-30 M es la elección perfecta para disfrutar de agua caliente en tu hogar de forma segura, eficiente y duradera.
-- DURABILIDAD: Este termo cuenta con una resistencia sumergida y una cuba de acero con esmalte al titanio vitrificado a 850° C, garantizando durabilidad y resistencia a la corrosión.
 - CAPACIDAD E INSTALACIÓN: El termo eléctrico CTR-30 M es la solución perfecta para contar con agua caliente en tu hogar de forma eficiente y segura. Con una capacidad de 30 litros y una instalación vertical, es ideal para tu hogar.
 - DISPLAY MECÁNICO Y MODO ECO: Su display mecánico te permite controlar la temperatura de forma sencilla, además de contar con un modo ECO inteligente que te ayuda a ahorrar energía. Incorpora un ánodo de magnesio para proteger la cuba de posibles daños.
+- DURABILIDAD: Este termo cuenta con una resistencia sumergida y una cuba de acero con esmalte al titanio vitrificado a 850° C, garantizando durabilidad y resistencia a la corrosión.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RWPX5HM{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La Casa Cuenta con 6 FUNCIONES: Luz, Sonido y Música e Incluye la Función PASO Y SORPRESA
-- Incluye: 1 Casa Mágica Madrigal, 1 Muñeca Mirabel, 1 Escalera, 1 Pieza de Comida, 1 Platillo de Té, 1 Taza de Té, 1 Tetera, 1 Mecedora, 1 Mesa de Exterior, 1 Banco, 1 Mesa Dinging, 2 Sillas de Comedor, 1 Bañera, 1 Cama Mirabel, 1 Cama Pepa, 1 Taburete, 1 Hoja de Etiquetas
-- Playset Casa Madrigal: La casa de Muñecas Tiene una ALTURA de unos 40 cm, Tiene 3 Pisos, 7 HABITACIONES e Incluye 1 Muñeca Mirabel y 15 ACCESORIOS para la Casa Madrigal
 - Requiere 3 pilas AA (no incluidas). Sugerido para mayores de 3 años (piezas pequeñas)
+- La Casa Cuenta con 6 FUNCIONES: Luz, Sonido y Música e Incluye la Función PASO Y SORPRESA
 - Sube y Baja el Ascensor de la Tía Pepa, La Escalera se CONVIERTE en un TOBOGÁN. La habitación de Mirabel Reproduce Música y Cuenta con un ESPECTÁCULO de LUCES
+- Playset Casa Madrigal: La casa de Muñecas Tiene una ALTURA de unos 40 cm, Tiene 3 Pisos, 7 HABITACIONES e Incluye 1 Muñeca Mirabel y 15 ACCESORIOS para la Casa Madrigal
+- Incluye: 1 Casa Mágica Madrigal, 1 Muñeca Mirabel, 1 Escalera, 1 Pieza de Comida, 1 Platillo de Té, 1 Taza de Té, 1 Tetera, 1 Mecedora, 1 Mesa de Exterior, 1 Banco, 1 Mesa Dinging, 2 Sillas de Comedor, 1 Bañera, 1 Cama Mirabel, 1 Cama Pepa, 1 Taburete, 1 Hoja de Etiquetas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07KW6NM62{{</world>}}

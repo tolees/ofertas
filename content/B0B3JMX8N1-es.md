@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para niños y niñas a partir de 5 años
-- Pilas requeridas; 4 x AA para el vehículo incluidas y 2 x AAA para el mando, pilas no incluidas
 - El radiocontrol Off Road Go es toda la diversión todoterreno; dirígelo con su mando y supera todos los obstáculos gracias a sus enormes ruedas
-- Transmisor de 2.4 GHz con rango de control de 35 metros; la distancia de control lejano permite que puedan jugar y competir al mismo tiempo hasta 4 jugadores
+- Para niños y niñas a partir de 5 años
 - Con suspensión articulada giratoria delantera y trasera puedes realizar giros extremos
+- Pilas requeridas; 4 x AA para el vehículo incluidas y 2 x AAA para el mando, pilas no incluidas
+- Transmisor de 2.4 GHz con rango de control de 35 metros; la distancia de control lejano permite que puedan jugar y competir al mismo tiempo hasta 4 jugadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3JMX8N1{{</world>}}

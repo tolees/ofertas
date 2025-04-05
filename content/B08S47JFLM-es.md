@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte encima de tela y material sintético
 - Plantilla de EVA para confort
+- Parte encima de tela y material sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08S47JFLM{{</world>}}

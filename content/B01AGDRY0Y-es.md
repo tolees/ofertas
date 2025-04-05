@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se recomienda tomar Nordés en gin tonic, con tónica neutra y decorado con una brocheta de uva blanca para resaltar los aromas propios de la ginebra
-- Nordés es una ginebra gallega que, como el viento que inspira su nombre, viene a refrescar el mundo de las ginebras
 - Nordés gin tiene un sabor diferente que despierta los sentidos; su característico sabor combina matices afrutados con ligeros toques balsámicos
-- Esta ginebra es una buena idea para regalo, para celebraciones especiales, o para disfrutar de una copa agradable en buena compañía
 - Su receta, utiliza además 11 botánicos naturales, 6 de ellos gallegos: salvia, salicornia, hierbaluisa, laurel, eucalipto y menta, que le otorgan su carácter fresco y equilibrado
+- Se recomienda tomar Nordés en gin tonic, con tónica neutra y decorado con una brocheta de uva blanca para resaltar los aromas propios de la ginebra
+- Esta ginebra es una buena idea para regalo, para celebraciones especiales, o para disfrutar de una copa agradable en buena compañía
 - Uno de los secretos de Nordés reside en la uva Albariño, corazón y alma de su destilado
+- Nordés es una ginebra gallega que, como el viento que inspira su nombre, viene a refrescar el mundo de las ginebras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01AGDRY0Y{{</world>}}

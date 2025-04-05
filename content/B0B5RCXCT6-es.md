@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Referencia: S05111977
 - Medidas: 2,5 x 2,5 x 6 centímetros
 - Bronceador de la marca Essence
 - ¡Si te gusta lucir lo último en moda y complementos y los accesorios son vitales para el conjunto de tu imagen!
+- Referencia: S05111977
 - Color: multicolor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

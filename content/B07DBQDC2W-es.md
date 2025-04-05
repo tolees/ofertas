@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Marco resistente a los impactos
 - Cable: 115mm - Cantidad de LEDS: 2
 - Color bastidor: negro - Funciones iluminación: 1 - Con lámpara de lectura
 - Marco en negro, blanco o plata
-- Marco resistente a los impactos
 - Longitud: 545mm
 - Óptimo rendimiento lumínico gracias al LED de potencia y al reflector de precisión
 

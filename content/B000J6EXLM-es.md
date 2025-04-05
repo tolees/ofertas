@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Grosor del papel de 80 g/m²
-- Con margen, 5 separadores y cierre elástico
-- Diseño verde metalizado
 - Paquete de 3 unidades
-- Contiene 200 hojas microperforadas
-- De espiral doble
 - Tamaño: A4, raya de 8 mm
+- De espiral doble
+- Grosor del papel de 80 g/m²
+- Diseño verde metalizado
+- Con margen, 5 separadores y cierre elástico
+- Contiene 200 hojas microperforadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000J6EXLM{{</world>}}

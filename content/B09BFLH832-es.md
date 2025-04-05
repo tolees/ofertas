@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - De Joumma Bags.
 - Perfecto para organizar y llevar recogido el material imprescindible.
-- Tamaño ideal para llevarlo en la mochila o en el carterón.
 - Estuche de 19 cm x 5 cm x 3,5 cm fabricado en Poliéster.
+- Tamaño ideal para llevarlo en la mochila o en el carterón.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09BFLH832{{</world>}}

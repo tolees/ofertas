@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cremalleras de perfil bajo
-- Chaqueta acolchada
-- Capucha ajustable con cremallera
 - Dobladillo con cordón y puños elásticos
+- Chaqueta acolchada
+- Cremalleras de perfil bajo
+- Capucha ajustable con cremallera
 - Tres bolsillos con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

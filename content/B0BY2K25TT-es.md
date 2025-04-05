@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGOS DE STEM DE PREESCOLAR: Enseña a tu hijo las maravillas de la ciencia con nuestro realista equipo de laboratorio de alta calidad, igual que el que han visto en laboratorios de verdad y fabricado especialmente para niños.
+- EDADES Y ETAPAS: Este kit de experimentos científicos para niños con 10 experimentos es perfecto para que los niños de 3 años en adelante aprendan STEM de nivel preescolar.
+- INCLUYE: matraz, lupa, embudo, cuentagotas, vasija, pinzas, gafas de laboratorio, tubos de ensayo grandes y pequeños con tapas y soporte, y 10 tarjetas de actividades con experimentos científicos.
 - LOS MATRACES, LA PIPETA, LOS TUBOS DE ENSAYO y el resto de componentes están fabricados con materiales resistentes seguros para niños, son gruesos y fáciles de usar para las pequeñas manos de los niños y se limpian fácilmente cuando terminan de divertirse con las ciencias.
 - KIT DE EXPERIMENTOS CIENTÍFICOS PARA NIÑOS: Los jóvenes científicos pueden montar su propio laboratorio. Los 10 experimentos incluidos en las tarjetas de actividades son fáciles de hacer en casa o en el aula.
-- INCLUYE: matraz, lupa, embudo, cuentagotas, vasija, pinzas, gafas de laboratorio, tubos de ensayo grandes y pequeños con tapas y soporte, y 10 tarjetas de actividades con experimentos científicos.
-- EDADES Y ETAPAS: Este kit de experimentos científicos para niños con 10 experimentos es perfecto para que los niños de 3 años en adelante aprendan STEM de nivel preescolar.
+- JUEGOS DE STEM DE PREESCOLAR: Enseña a tu hijo las maravillas de la ciencia con nuestro realista equipo de laboratorio de alta calidad, igual que el que han visto en laboratorios de verdad y fabricado especialmente para niños.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BY2K25TT{{</world>}}

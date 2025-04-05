@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Largo: normal
-- Leggings térmicos de punto elástico. Dos modelos con dibujos de Minnie Mouse y uno estampado.
-- Lavar en ciclo de lavado suave a 30°, No usar lejía, No secar en la secadora, Planchar a un máx. 110° (Nivel 1), No limpiar en seco
 - Producto con licencia de Disney
+- Lavar en ciclo de lavado suave a 30°, No usar lejía, No secar en la secadora, Planchar a un máx. 110° (Nivel 1), No limpiar en seco
+- Largo: normal
 - Personaje: de la colección Minnie Mouse
+- Leggings térmicos de punto elástico. Dos modelos con dibujos de Minnie Mouse y uno estampado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9QL1C4T{{</world>}}

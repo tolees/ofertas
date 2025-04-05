@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pernera: Skinny, corte ceñido con la pernera estrecha
-- Largo: normal
-- Lavar en ciclo de lavado normal a 40°, No usar lejía, Secar en la secadora a temperatura baja, Planchar a un máx. 150° (Nivel 2), No limpiar en seco
 - Leggings suaves de punto elástico con remates con pespunte doble.
+- Lavar en ciclo de lavado normal a 40°, No usar lejía, Secar en la secadora a temperatura baja, Planchar a un máx. 150° (Nivel 2), No limpiar en seco
+- Largo: normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRT1SN3S{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello en V y mangas cortas de mariposa
 - Ajuste regular
+- Cuello en V y mangas cortas de mariposa
 - Solapa de botones en la parte delantera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

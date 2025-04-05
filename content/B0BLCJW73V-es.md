@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela de goma apilada
 - Detalles de la marca PUMA en la parte superior, el talón y la etiqueta de la lengüeta.
+- Entresuela de goma apilada
 - Franja característica de PUMA en el costado
 - Suela de goma
 

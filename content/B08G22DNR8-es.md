@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logo de la marca
-- Elástica en cintura
 - Bolsillos laterales
+- Logo de la marca
 - Cordón de ajuste
+- Elástica en cintura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08G22DNR8{{</world>}}

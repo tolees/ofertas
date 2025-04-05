@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Paqueteage Weight: 11.5 kilograms
 - Paqueteage Dimensiones: 11.0 L x 70.0 H x 65.0 W (centimeters)
+- Paqueteage Weight: 11.5 kilograms
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B089PYGX98{{</world>}}

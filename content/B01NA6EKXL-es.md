@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad
-- Capacidad: 500 ml
 - Hecho de acero inoxidable
 - Marca: Ibili
+- Capacidad: 500 ml
+- Producto de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01NA6EKXL{{</world>}}

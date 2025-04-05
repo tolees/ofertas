@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Goga Mat Arch
-- Ajuste clásico
 - MF refrigerado por aire
+- Ajuste clásico
+- Goga Mat Arch
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08L8JDBWJ{{</world>}}

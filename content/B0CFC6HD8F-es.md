@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapato alto con plataforma y parte superior de lona de algodón.
 - Amortiguación OrthoLite
 - Ojales estampados en carey para darle un toque adicional
+- Zapato alto con plataforma y parte superior de lona de algodón.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CFC6HD8F{{</world>}}

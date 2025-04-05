@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología cerámica: incorpora una cámara cerámica que respeta el cabello y crea rizos suaves
 - Temperatura (190ºC, 210ºC, 230ºC), tiempo (8s, 10s, 12s) y dirección del rizo (derecha, izquierda o alterno) regulables
 - Sistema de calentamiento rápido y de recuperación de la temperatura instantáneo
+- Tecnología cerámica: incorpora una cámara cerámica que respeta el cabello y crea rizos suaves
 - Modo de hibernación tras 20 minutos y apagado automático tras 60 minutos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

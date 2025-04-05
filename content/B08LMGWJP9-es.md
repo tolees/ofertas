@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 4 tamaños disponibles, adecuado para perros de 2 a 10 kg.
 - Solo se incluye el jersey para mascotas. El resto de los accesorios no están incluidos.
 - Ideal para uso diario, en la calle, en el hogar, etc.
+- 4 tamaños disponibles, adecuado para perros de 2 a 10 kg.
 - Hecho de material de fibras acrílicas de calidad, transpirable y suave. Buena elasticidad para ofrecer un ajuste cómodo.
 - Dale a tu mascota estilo y carácter mientras le aportas calidez en los días fríos.
 

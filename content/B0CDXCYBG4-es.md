@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CÓMODA Y LIGERA: Su tamaño mediano de 15x21 centímetros (formato A5) la convierte en una agenda fácil de guardar y transportar.
-- MÁXIMO ESPACIO: Su formato en Día Página te permite tener todo el espacio que necesites para tus eventos, tareas, notas y mucho más. Sábado y domingo en la misma página. Cuenta con líneas horizontales para que la escritura sea completamente lineal y ordenada.
-- RESISTENTE Y SUAVE: Diseñada para resistir golpes y caídas. Cubierta fabricada en cartón duro almohadillado de primera calidad y en polipiel.
 - RESPETUOSA CON EL MEDIOAMBIENTE: Cuenta con certificado FSC Mixto. La Certificación Forestal Sostenible es un sistema en el que organizaciones ambientales y de derechos humanos se preocupan por la degradación de los bosques.
+- RESISTENTE Y SUAVE: Diseñada para resistir golpes y caídas. Cubierta fabricada en cartón duro almohadillado de primera calidad y en polipiel.
+- MÁXIMO ESPACIO: Su formato en Día Página te permite tener todo el espacio que necesites para tus eventos, tareas, notas y mucho más. Sábado y domingo en la misma página. Cuenta con líneas horizontales para que la escritura sea completamente lineal y ordenada.
 - AGENDA 2024 MUY COMPLETA: 336 páginas. Incluye página de datos personales, calendario 2023, 2024 y 2025, planning, contactos, notas e incluso mapa de carreteras de España y Portugal. Además, cinta de registro en color burdeos que te permitirá encontrar fácilmente la página que buscas. Todo lo necesario para que no te pierdas nada del 2024.
+- CÓMODA Y LIGERA: Su tamaño mediano de 15x21 centímetros (formato A5) la convierte en una agenda fácil de guardar y transportar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CDXCYBG4{{</world>}}

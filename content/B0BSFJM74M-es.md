@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómodo de llevar
 - Rayas de colores contrastantes y bolsillos con ribetes pegados
+- Cómodo de llevar
 - Corte recto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

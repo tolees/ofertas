@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Collar de cuerda
 - DENIM STRETCH
+- Collar de cuerda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08MQ5CQSR{{</world>}}

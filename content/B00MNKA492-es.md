@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Funcionamiento a pilas: requiere de tres pilas alcalinas AAA (micro, 1,5V).
-- La T2 es una pequeña linterna táctica de 115 cm que pesa solo 98 g con sus baterías y tiene un alcance máximo de 180 m con sus 240 lúmenes. Su sólido cuerpo de aluminio, gracias a su superficie rayada con pequeños diamantes, es fácil de sostener y muestra una gran resistencia a los golpes y salpicaduras de agua, lo que lo hace apto para todo tipo de misiones tácticas. La lámpara es fácil de operar con una mano gracias a su punta de interruptor. La energía alcanza los 25 lm Max. 25 h El volumen de suministro incluye: juego de lámparas pilas (3 pilas micro AAA) correa de mano clase de protección IPX6.
 - Protegida frente a salpicaduras: IPX6.
+- La T2 es una pequeña linterna táctica de 115 cm que pesa solo 98 g con sus baterías y tiene un alcance máximo de 180 m con sus 240 lúmenes. Su sólido cuerpo de aluminio, gracias a su superficie rayada con pequeños diamantes, es fácil de sostener y muestra una gran resistencia a los golpes y salpicaduras de agua, lo que lo hace apto para todo tipo de misiones tácticas. La lámpara es fácil de operar con una mano gracias a su punta de interruptor. La energía alcanza los 25 lm Max. 25 h El volumen de suministro incluye: juego de lámparas pilas (3 pilas micro AAA) correa de mano clase de protección IPX6.
 - Manejable: 115 milímetros de longitud con 98 gramos de peso y un diámetro del cabezal de 25 milímetros.
 - Óptima calidad de luz Ledlenser: luminosidad, alcance y duración de iluminación adecuadoes y adaptados a la fuente de energía.
+- Funcionamiento a pilas: requiere de tres pilas alcalinas AAA (micro, 1,5V).
 - Buena potencia lumínica: hasta 240 lúmenes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

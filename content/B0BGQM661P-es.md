@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Textil
 - Material de la suela: EVA
 - Cierre: Cordones
+- Material exterior: Textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGQM661P{{</world>}}

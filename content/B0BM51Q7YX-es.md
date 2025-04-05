@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: etilvinilacetato
-- Parte superior: cuero
 - Forma del tacón: sin tacón
+- Parte superior: cuero
+- Cierre: etilvinilacetato
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BM51Q7YX{{</world>}}

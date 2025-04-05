@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
 - Pepe Jeans Logotipo destacado
+- Ajuste regular
 - Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chanclas
-- Con logotipo de metal
 - Tacón bajo
+- Con logotipo de metal
+- Chanclas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT4XV7L1{{</world>}}

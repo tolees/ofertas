@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ropa interior para hombre
 - Camiseta individual
 - Ajuste regular
-- Ropa interior para hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B6BM97KT{{</world>}}

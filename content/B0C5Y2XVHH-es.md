@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología GEL
 - Empeine de malla jacquard
+- Tecnología GEL
 - Talón AHARPLUS
 
 [🛒 Visítala!!!]({{< param buyurl >}})

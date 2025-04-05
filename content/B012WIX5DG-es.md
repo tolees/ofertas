@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- EAN: 8001410070043
 - Paqueteage Dimensiones: 2.2 L x 32.0 H x 18.5 W (centimeters)
 - Paqueteage Weight: 6.5 grams
 - 0
-- EAN: 8001410070043
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B012WIX5DG{{</world>}}

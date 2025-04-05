@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Blusa en 100 Negro talla L
-- Minus Moda: Blusa en 82% Viscosa (Eco Vero), 18% Elastano
 - El Raka knit collar de Minus es un elegante y sencillo top sin mangas con cuello alto
+- Minus Moda: Blusa en 82% Viscosa (Eco Vero), 18% Elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GPS9XZL{{</world>}}

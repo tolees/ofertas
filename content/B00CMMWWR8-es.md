@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca-JOVI
-- Marca JOVI MAQUILLAJE EN BARRA HIPOALERGENICO 6 STICKS 191
-- Maquillaje
-- Retráctil
-- De colores
 - Fácil de usar
-- Maquillaje
 - Retráctil
+- Maquillaje
+- De colores
+- Maquillaje
+- Marca-JOVI
+- Retráctil
+- Marca JOVI MAQUILLAJE EN BARRA HIPOALERGENICO 6 STICKS 191
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00CMMWWR8{{</world>}}

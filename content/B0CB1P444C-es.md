@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regla de plástico interior, 8 hojas de pegatinas, Juegos y extras entretenidísimos, Horarios y calendarios 2024-2025
 - Planificador mensual al inicio de cada mes, Frases mensuales divertidas
+- Regla de plástico interior, 8 hojas de pegatinas, Juegos y extras entretenidísimos, Horarios y calendarios 2024-2025
 - 160 páginas, Papel de 100 gr con la certificación FSC, Frases diarias motivacionales, Separadores con pestaña para cada mes, Bolsillo interior de cartón
 - Agenda estilo Festival de Mr; wonderful, un tipo de diseño que presentamos en la pasada edición y que es acorde con una estética juvenil y festivalera, por lo que encantará al público más adolescente, aunque no de forma
 

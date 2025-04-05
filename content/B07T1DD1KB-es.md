@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho del zapato: Normal
-- Cierre: con cordones
 - Material de la suela: goma
+- Cierre: con cordones
+- Tipo de tacón: Sin tacón
+- Ancho del zapato: Normal
 - Material exterior: Cuero
 - Forro: Tela
-- Tipo de tacón: Sin tacón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07T1DD1KB{{</world>}}

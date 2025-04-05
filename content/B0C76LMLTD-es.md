@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Peso ligero
-- Skechers Espuma viscoelástica refrigerada por aire
 - Skechers Detalle del logotipo
+- Skechers Espuma viscoelástica refrigerada por aire
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C76LMLTD{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con botones en el delantero
-- Blusa de manga larga
-- Con cuello camisero
-- Con volantes en los puños
 - Con mini volantes en el canesú
+- Con volantes en los puños
+- Blusa de manga larga
+- Con botones en el delantero
+- Con cuello camisero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCSLPN6V{{</world>}}

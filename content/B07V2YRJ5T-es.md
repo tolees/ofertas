@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Composición del material: 100% algodón
-- Contenido elástico para óptima comodidad
-- Cuello redondo con estructura
 - Hecho de algodón cómodo
+- Cuello redondo con estructura
+- Contenido elástico para óptima comodidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07V2YRJ5T{{</world>}}

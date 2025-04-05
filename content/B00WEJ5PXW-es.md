@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Multivitaminas con vitaminas del tipo B, B12, que contribuyen al metabolismo energético normal. También contribuye al funcionamiento normal del sistema inmunitario gracias a su contenido en vitamina C
+- Contiene vitamina A, que contribuye al mantenimiento de la visión en condiciones normales, y vitamina D, que ayuda al mantenimiento de los huesos en condiciones normales
+- Multicentrum Select 50+ es un omplemento alimenticio completo, con vitaminas y minerales, en una fórmula especialmente equilibrada para adultos, hombre y mujer, a partir de 50 años.
+- Después de cada uso, asegúrese de que el bote se encuentra cerrado y guardado dentro de su caja, en un lugar seco y a una temperatura inferior a 25ºC
 - Envase de 90 comprimidos de Multicentrum Select 50+ multivitamí­nico para adultos. Para 3 meses de uso. Los complementos alimenticios no deben ser usados como sustitutos de una dieta equilibrada
 - Multivitaminas Multicentrum select 50+ es sin gluten, lactosa, azúcar y fructosa
-- Después de cada uso, asegúrese de que el bote se encuentra cerrado y guardado dentro de su caja, en un lugar seco y a una temperatura inferior a 25ºC
-- Multicentrum Select 50+ es un omplemento alimenticio completo, con vitaminas y minerales, en una fórmula especialmente equilibrada para adultos, hombre y mujer, a partir de 50 años.
-- Contiene vitamina A, que contribuye al mantenimiento de la visión en condiciones normales, y vitamina D, que ayuda al mantenimiento de los huesos en condiciones normales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WEJ5PXW{{</world>}}

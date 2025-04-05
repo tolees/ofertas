@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Robot limpia piscinas autónomo Diseño sin cables para un rango de movimientos completo. Batería de litio recargable de larga duración: 40 minutos en ciclo de funcionamiento. El filtro estándar atrapa hasta 2.2 L. de residuos.
-- Sensor automático de encendido / apagado Interruptor magnético a prueba de agua Luz LED de encendido / apagado Kit de recuperación Clips de bloqueo Aleta de bloqueo de la cabeza para giros de 180 grados Filtro estándar 2.2 L / 0.58 gal.
 - Tiempo de recarga: 5-6 horas Los sensores de agua incorporados activan el dispositivo cuando están completamente sumergidos y se desactivan cuando están fuera del agua para proteger el motor.
+- Sensor automático de encendido / apagado Interruptor magnético a prueba de agua Luz LED de encendido / apagado Kit de recuperación Clips de bloqueo Aleta de bloqueo de la cabeza para giros de 180 grados Filtro estándar 2.2 L / 0.58 gal.
 - El sistema patentado de chorro direccional proporciona una limpieza eficiente ya que el robot cambiará de dirección cuando se encuentre con paredes u obstáculos. Incluye un kit de descenso y recuperación para localizar y quitar fácilmente el robot.
 - Recomendado para piscinas de fondo plano. Ideal para piscinas redondas de hasta Ø 488 cm. de diámetro o 20 m² de área total y piscinas rectangulares de hasta 640 cm de largo o 20 m² de área total.
 

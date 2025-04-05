@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para los siguientes sistemas de pintura en pulverizador de Wood&Metal: W 100, W 150, W 200, W 300
-- Para almacenar residuos de pintura (barnices y esmaltes)
-- Adecuado para los siguientes accesorios de pulverizador Wood&Metal Extra: Standard, Large, Brilliant, Corner&Reach, Detail
-- Con la tapadera removible
-- Capacidad del depósito: 1400 ml
 - Adecuado para los siguientes sistemas de pintura FLEXiO: W 570, W 575, W 590, W 690, W 890, W 950, W 990
+- Con la tapadera removible
+- Adecuado para los siguientes accesorios de pulverizador Wood&Metal Extra: Standard, Large, Brilliant, Corner&Reach, Detail
+- Adecuado para los siguientes sistemas de pintura en pulverizador de Wood&Metal: W 100, W 150, W 200, W 300
+- Capacidad del depósito: 1400 ml
+- Para almacenar residuos de pintura (barnices y esmaltes)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00IJ0WD8K{{</world>}}

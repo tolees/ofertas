@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- País de origen: España
 - No contiene alérgenos
 - Contiene 30 sobres de 4g cada sobre
-- País de origen: España
 - Ingredientes: Ajo, sal (25%), pimentón, harina de maíz, colorante (E-102), pimienta, clavo y azafrán (2,5%)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

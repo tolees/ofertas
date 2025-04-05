@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con logotipo de metal
 - Chanclas
+- Con logotipo de metal
 - Tacón bajo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Up to three HDDs and six SSDs (or two HDDs and five SSDs with one optical bay in use)
-- Easily mounted tempered glass side panel lets you showcase your components (TG models only)
-- Comes with three of our 120 mm Aspect 12 RGB (Pop Air RGB TG) fans (and supports two more for a total of five)
 - Vividly colored motherboard plate, drive trays and exterior accents (Pop Air RGB TG Cyan/Magenta/Green/Orange Core)
+- Comes with three of our 120 mm Aspect 12 RGB (Pop Air RGB TG) fans (and supports two more for a total of five)
 - Accommodates ATX / mATX / Mini ITX Motherboards
+- Easily mounted tempered glass side panel lets you showcase your components (TG models only)
+- Up to three HDDs and six SSDs (or two HDDs and five SSDs with one optical bay in use)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08T1GB8D8{{</world>}}

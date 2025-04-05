@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso ligero
 - Fácil de limpiar y de secado rápido
-- Transpirabilidad
 - Flexible y flexible
+- Peso ligero
+- Transpirabilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS46XCZQ{{</world>}}

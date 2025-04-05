@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Colección de carreras Aston Martin
 - Cierre central con cremallera
 - Blusa de estilo deportivo
-- Colección de carreras Aston Martin
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BKH7TLG3{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguación de aire de Nike
-- Ligereza
 - Zapatos deportivos
+- Ligereza
+- Amortiguación de aire de Nike
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B94C5DG3{{</world>}}

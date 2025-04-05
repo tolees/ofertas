@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Raqueta de tenis Wilson Pro Staff 25 para las estrellas del tenis del mañana que buscan el máximo control
-- Máxima precisión y un tacto clásico para explotar todo el potencial, equilibrio con agarre
-- Grafito trenzado para una estructura robusta que amortigua las vibraciones y un control óptimo
-- Diseño al estilo de los modelos clásicos Pro Staff con rayas rojas y amarillas a lo largo del mango
 - Contenido: 1x Wilson Pro Staff 25 V13.0 Raqueta de tenis, Fibra de carbono, Tamaño de la cabeza: 645 cm², Longitud: 63,5 cm, Peso (sin encordar): 235 g, Tamaño de la empuñadura: 3 3/4, Negro, WR050310U
+- Máxima precisión y un tacto clásico para explotar todo el potencial, equilibrio con agarre
+- Diseño al estilo de los modelos clásicos Pro Staff con rayas rojas y amarillas a lo largo del mango
+- Raqueta de tenis Wilson Pro Staff 25 para las estrellas del tenis del mañana que buscan el máximo control
+- Grafito trenzado para una estructura robusta que amortigua las vibraciones y un control óptimo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LB1KCRW{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro de tela
-- Subsidios de tela
 - Michael Michael Sneakers
+- Subsidios de tela
+- Forro de tela
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01DQAZU8W{{</world>}}

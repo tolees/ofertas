@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Uso flexible gracias al mandril de 13 mm y a la luz LED para iluminar áreas de trabajo oscuras
 - Incluye: GSB 18V-21, en caja (batería y cargador no incluidos)
-- Modelo estándar con escobillas de carbón sustituibles y engranaje totalmente metálico para taladrar, percutir y atornillar
-- El taladro a batería GSB 18V-21 ofrece un rendimiento profesional gracias a su par de apriete de 55 Nm
 - Professional 18V System. Máximo rendimiento. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o existentes Bosch Professional de la misma tensión
+- El taladro a batería GSB 18V-21 ofrece un rendimiento profesional gracias a su par de apriete de 55 Nm
+- Uso flexible gracias al mandril de 13 mm y a la luz LED para iluminar áreas de trabajo oscuras
+- Modelo estándar con escobillas de carbón sustituibles y engranaje totalmente metálico para taladrar, percutir y atornillar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083QMKTKQ{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cada partida es diferente.
-- Montones de combinaciones posibles.
 - Púlsalo y se el primero en monte la cupcake gana.
-- Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
+- Montones de combinaciones posibles.
 - Comienza el juego, ¿estás preparado?
+- Cada partida es diferente.
+- Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BSNKPW9Q{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entresuela de amortiguación cargada de doble densidad para la máxima mezcla de comodidad y retorno de energía explosivo
-- Plantilla de espuma extraíble de lujo para máxima comodidad y amortiguación
 - Suela de goma sólida con cápsulas estratégicamente colocadas para mayor durabilidad en zonas de alta abrasión
+- Plantilla de espuma extraíble de lujo para máxima comodidad y amortiguación
+- Entresuela de amortiguación cargada de doble densidad para la máxima mezcla de comodidad y retorno de energía explosivo
 - Neutral: para corredores que necesitan un equilibrio de flexibilidad y amortiguación
 - Parte superior de malla ligera con detalles de superposición texturizada que ofrecen una transpirabilidad completa
 

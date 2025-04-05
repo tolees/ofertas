@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pierna recta
 - Tiro medio
+- Pierna recta
 - Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

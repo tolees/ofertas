@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Función Sprint: reduce el tiempo de calentamiento de grandes cantidades de agua y otros líquidos hasta en un 50%.
-- Seguridad para niños: bloquea el panel de mandos para impedir cambios accidentales de configuración.
-- Control DirectSelect: selecciona fácilmente la zona de cocción, su potencia y otras funciones.
-- Placa CombiInducción: permite utilizar recipientes ovalados o rectangulares de gran tamaño uniendo dos zonas de cocción.
 - Programación del tiempo de cocción: apaga la zona de cocción seleccionada una vez transcurrido el tiempo establecido.
+- Placa CombiInducción: permite utilizar recipientes ovalados o rectangulares de gran tamaño uniendo dos zonas de cocción.
+- Seguridad para niños: bloquea el panel de mandos para impedir cambios accidentales de configuración.
 - Dimensiones del producto: 51 mm (alto) x 592 mm (ancho) x 520 mm (profundo)
+- Función Sprint: reduce el tiempo de calentamiento de grandes cantidades de agua y otros líquidos hasta en un 50%.
+- Control DirectSelect: selecciona fácilmente la zona de cocción, su potencia y otras funciones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01E1GUO4K{{</world>}}

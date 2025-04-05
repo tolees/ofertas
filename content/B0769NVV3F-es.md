@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Slim Fit
-- Coatigan
-- Spread Collar
-- materialFabricComposition: 85% Polyester, 15% Cotton
 - Care Label:
+- Spread Collar
+- Coatigan
+- Slim Fit
+- materialFabricComposition: 85% Polyester, 15% Cotton
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0769NVV3F{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin gluten; sin colorantes ni conservantes; sin Aceite de Palma
 - Elaborado en Italia según la regla del «Buono Buonissimo» (ingredientes seleccionados, con menos azúcares y sin aditivos artificiales)
-- ¡La verdadera sorpresa es el chocolate Venchi!
+- Sin gluten; sin colorantes ni conservantes; sin Aceite de Palma
 - El emblemático bombón Nougatine en versión huevo de Pascua formato miniatura
+- ¡La verdadera sorpresa es el chocolate Venchi!
 - Agradable chocolate negro 60 % con Avellanas del Piamonte IGP trituradas y caramelizadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Nota! Esta lona está pensada para los meses de invierno y se usa para cubrir la piscina para evitar la contaminación.
-- Peso: 1,0 kg.
 - Medidas cobertor: 396x185 cm.
+- Peso: 1,0 kg.
+- ¡Nota! Esta lona está pensada para los meses de invierno y se usa para cubrir la piscina para evitar la contaminación.
 - Medidas cobertor: 396x185 cm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

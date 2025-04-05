@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Paleta wonderland: pierde-te en el país de las maravillas con esta paleta que presenta 15 tonos hiperpigmentados
-- Aspecto: crea looks con una mezcla de mates suaves como la mantequilla, brillos chispeantes, satenes relucientes y brillos multidimensionales
-- Colección Alicia en el país de las maravillas: entra en la madriguera del conejo y descubre un mundo de color, la colección presenta productos de maquillaje y accesorios que se vuelven cada vez más curiosos
 - Es el destino de belleza para amantes de la belleza de todas las edades, etnias y estatus económicos; no importa quién seas o dónde estés en la vida, tener un producto para ti
+- Colección Alicia en el país de las maravillas: entra en la madriguera del conejo y descubre un mundo de color, la colección presenta productos de maquillaje y accesorios que se vuelven cada vez más curiosos
+- Aspecto: crea looks con una mezcla de mates suaves como la mantequilla, brillos chispeantes, satenes relucientes y brillos multidimensionales
 - Pigmentado: disfruta de una intensa entrega de color con los tonos hiperpigmentados que resaltarán tus ojos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cremallera oculta bajo la tapeta con cierre de Velcro en la parte central delantera
-- Forro del protector de la barbilla y del cuello en tejido de punto cepillado
-- Malla: forro del cuerpo en tejido tafetán
 - Dos bolsillos para las manos cubiertos con cierre de cremallera seguro
+- Forro del protector de la barbilla y del cuello en tejido de punto cepillado
+- Cremallera oculta bajo la tapeta con cierre de Velcro en la parte central delantera
+- Malla: forro del cuerpo en tejido tafetán
 - Tejido DryVent de dos capas, impermeable, transpirable y con todas las costuras selladas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Modelo: CW6110
-- Tecnología Dri-Fit
 - Ajuste regular
+- Tecnología Dri-Fit
 - Los orificios ocultos para los pulgares ayudan a mantener las mangas en su lugar mientras se mueve
 
 [🛒 Comprar!!!]({{< param buyurl >}})

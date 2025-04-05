@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo casual
-- Con faldón curvado
 - Este producto es original Levis
+- Con faldón curvado
+- Modelo casual
 - Minilogotipo de Levis en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

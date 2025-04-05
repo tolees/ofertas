@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Regular
-- 100% poliamida
-- Vero Moda Henna Vestido de manga corta con volantes
 - Reciclado
+- Vero Moda Henna Vestido de manga corta con volantes
+- 100% poliamida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VVV41L3{{</world>}}

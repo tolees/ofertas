@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cierre: Cordones
 - Material exterior: Sintético
 - Revestimiento: Sintético
-- Cierre: Cordones
 - Material de la suela: Goma
 - Composición: Sintético
 

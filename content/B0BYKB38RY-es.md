@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene vitamina C y E, manteca de karité y ácido hialurónico
 - Te sorprenderá su aroma óptima
-- Compuesta por un 90 por Cientode ingredientes de origen natural
 - Fórmula clean y vegana
+- Contiene vitamina C y E, manteca de karité y ácido hialurónico
+- Compuesta por un 90 por Cientode ingredientes de origen natural
 - Óptimo bálsamo con color
 
 [🛒 Aquí!!!]({{< param buyurl >}})

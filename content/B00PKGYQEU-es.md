@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Composición: Goma
+- Revestimiento: Sin forro
 - Material exterior: Goma
 - Cierre: Sin cordones
-- Revestimiento: Sin forro
-- Tipo de tacón: Plano
-- 25/26 EU (23/24 Brazilian)
-- Material de la suela: Goma
-- Composición: Goma
-- Altura del tacón: 1 centímetros
 - Anchura del zapato: Normal
+- Altura del tacón: 1 centímetros
+- Material de la suela: Goma
+- 25/26 EU (23/24 Brazilian)
+- Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00PKGYQEU{{</world>}}

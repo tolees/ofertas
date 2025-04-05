@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modos de juego: flee flight, time attack y multijugador online (hasta 30 jugadores)
 - DCL The Game se basa en el comportamiento de vuelo de los drones de la vida real, tan cerca que los pilotos con mejor desempeño en el juego pueden competir en la Selección de Draft de DCL, donde los pilotos serán reclutados para equipos de carreras de la vida real
+- Presets físicos: elija entre tres presets físicos únicos para su dron: ligero, estándar DC19 y pesado para un comportamiento de vuelo muy diferente; la física de vuelo es muy realista en estas tres configuraciones mantiene la competición equilibrada
 - Escoge entre 27 pistas distintas desde Torino (Italia), Simatai (China), Laax (Suiza) u otras muchas localizaciones de carrera reales con fantásticas pistas
 - Cuatro modos de vuelo distintos: el modo Arcade, el modo GPS con cámara estándar, modo Ángulo, el Modo Acro le da al piloto más control, como en las verdaderas carreras de drones
-- Presets físicos: elija entre tres presets físicos únicos para su dron: ligero, estándar DC19 y pesado para un comportamiento de vuelo muy diferente; la física de vuelo es muy realista en estas tres configuraciones mantiene la competición equilibrada
+- Modos de juego: flee flight, time attack y multijugador online (hasta 30 jugadores)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XDCGLJY{{</world>}}

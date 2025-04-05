@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resultados extraordinarios en tiempo récord: gracias a la tecnología Mix Power System+, patentada por Candy, que inyecta directamente el agua y el detergente sobre los tejidos.
-- Comodidad en todas tus coladas: carga superior a 85cm de altura y configuración fácil e intuitiva con panel de mandos táctil y mando giratorio selector de los ciclos de lavado.
-- Atención personalizada, con conectividad por NFC: descárgate la App simply-Fi y accede a consejos de lavado, mantenimiento, descarga de ciclos adicionales y asistente por voz.
-- Ahorra tiempo y reduce el consumo: con funciones tan prácticas como el detector de kgs, el inicio retrasado y programas dedicados para todos tus tejidos.
 - Tamaño (alto x ancho x prof): 85 x 40 x 60cm.
+- Ahorra tiempo y reduce el consumo: con funciones tan prácticas como el detector de kgs, el inicio retrasado y programas dedicados para todos tus tejidos.
+- Atención personalizada, con conectividad por NFC: descárgate la App simply-Fi y accede a consejos de lavado, mantenimiento, descarga de ciclos adicionales y asistente por voz.
+- Comodidad en todas tus coladas: carga superior a 85cm de altura y configuración fácil e intuitiva con panel de mandos táctil y mando giratorio selector de los ciclos de lavado.
+- Resultados extraordinarios en tiempo récord: gracias a la tecnología Mix Power System+, patentada por Candy, que inyecta directamente el agua y el detergente sobre los tejidos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09F9FMX3T{{</world>}}

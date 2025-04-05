@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conversar energía para crear reacciones en cadena y reventar bumeranes
-- Usar líquidos para mover un ascensor o un brazo mecânico
-- ¡Haz una bomba de papel y dispara una catapulta!
 - Libro educativo con 36 páginas, totalmente detallado para que puedan hacer todos los experimentos
+- Usar líquidos para mover un ascensor o un brazo mecânico
+- Conversar energía para crear reacciones en cadena y reventar bumeranes
+- ¡Haz una bomba de papel y dispara una catapulta!
 - ¡Conviértete en un ingeniero fantástico mientras construyes tus propios inventos!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

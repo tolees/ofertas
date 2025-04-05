@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lavable a máquina
 - Diseño estándar de cinco bolsillos
 - Bragueta de botón
 - Corte entallado
-- Lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XSDLTQK{{</world>}}

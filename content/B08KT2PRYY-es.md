@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Malla transpirable y parte superior sintética.
 - La suela de goma es flexible y duradera
+- Malla transpirable y parte superior sintética.
 - Suela de goma para una mayor tracción
 
 [🛒 Visítala!!!]({{< param buyurl >}})

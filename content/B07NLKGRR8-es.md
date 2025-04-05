@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Usa la IA generativa con versiones completas de Lightroom (sobremesa y móvil), Photoshop (sobremesa e iPad) y Lightroom Classic (sobremesa).
-- Diseña gráficos y más. Usa las herramientas de Photoshop para personalizar texto, color e imágenes.
-- Usa las funciones de Relleno y Ampliación de IA generativa para añadir, eliminar o ampliar contenido.
-- 20 GB de almacenamiento en la nube y sincronización entre dispositivos.
-- Consigue las últimas funcionalidades con actualizaciones frecuentes.
-- Crea con instrucciones de texto. 500 créditos mensuales de IA generativa con la suscripción.
 - Edita fotografías en Lightroom y borra con la herramienta de eliminación de IA generativa. Transfórmalas en Photoshop la IA generativa de Adobe Firefly.
-- Crea un efecto retrato con Desenfoque de lente con IA.
+- Usa las funciones de Relleno y Ampliación de IA generativa para añadir, eliminar o ampliar contenido.
 - Ajusta la luz y el color, añade ajustes preestablecidos y efectos, recorta imágenes... Aplica cambios a toda la imagen o en puntos específicos.
+- Consigue las últimas funcionalidades con actualizaciones frecuentes.
+- Diseña gráficos y más. Usa las herramientas de Photoshop para personalizar texto, color e imágenes.
+- Crea un efecto retrato con Desenfoque de lente con IA.
+- 20 GB de almacenamiento en la nube y sincronización entre dispositivos.
+- Usa la IA generativa con versiones completas de Lightroom (sobremesa y móvil), Photoshop (sobremesa e iPad) y Lightroom Classic (sobremesa).
+- Crea con instrucciones de texto. 500 créditos mensuales de IA generativa con la suscripción.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07NLKGRR8{{</world>}}

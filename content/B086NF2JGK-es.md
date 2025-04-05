@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Arte desplegable que forma un mapa
 - Carátula reversible
+- Funda especial para la caja
 - Imagen lenticular 3D
 - Banda Sonora Digital
-- Funda especial para la caja
-- Arte desplegable que forma un mapa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B086NF2JGK{{</world>}}

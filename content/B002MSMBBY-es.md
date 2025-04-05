@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Edad: 6+
 - Diseñado en Francia
 - Medidas: embalaje 10,16 x 12,7 x 2,54 cm
-- Peso: 0.45 libras
 - Materiales: cartón
-- Edad: 6+
+- Peso: 0.45 libras
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002MSMBBY{{</world>}}

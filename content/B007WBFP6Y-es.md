@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dimensiones: 353mm (an) x 353mm (al) x 299/407mm (f)
-- Potencía rms: 150w
-- Potencía máxima: 500W
 - Panel extraíble para funcionamiento en modo caja cerrada o bass réflex
+- Potencía máxima: 500W
+- Potencía rms: 150w
 - Subwoofer de 10"; type-e
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

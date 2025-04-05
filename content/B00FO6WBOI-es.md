@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cuenta con una estructura con 2 anillos iguales que dan estaibilidad
 - Está fabricada en vinilo resistente probado en color azul
-- Tiene válvula de drenaje para vaciarla de forma sencilla y rápida
 - Se infla y desinfla de forma sencilla para que puedas almacenarla cuando acabe el verano
+- Tiene válvula de drenaje para vaciarla de forma sencilla y rápida
 - Está fabricada en vinilo resistente probado en color azul
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

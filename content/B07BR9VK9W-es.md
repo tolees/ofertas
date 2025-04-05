@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se presenta en un práctico envase roll-on, que se puede llevar a todas partes, facilita la penetración del producto y deja la piel suave, sin engrasarla - Práctico y de fácil empleo - Uso familiar - Olor agradable - No reseca la piel - No fotosensibilizante
-- El Roll-on corporal Citronela+ de la gama AROMAPIC de Pranarôm es una leche corporal con agradable olor que protege la piel de posibles agresiones tipicas en verano
-- Su fórmula contiene aceites esenciales de citronela, geranio, lavanda, eucalipto citriodora y Citriodiol, todos ellos ingredientes de reconocido poder antiinsectos
 - Niños de 30 meses a 6 años : aplicar únicamente en brazos y piernas, 1 a 2 veces por día. Adultos y niños a partir de 7 años : aplicar sobre las zonas corporales expuestas y extender la leche hasta que penetre por completo
+- El Roll-on corporal Citronela+ de la gama AROMAPIC de Pranarôm es una leche corporal con agradable olor que protege la piel de posibles agresiones tipicas en verano
 - Con aceites esenciales 100% ecológicos : Eucalipto azul, Palmarosa, Lemongrass, Citronela de Madagascar,Geranio, Clavo de especias, Jengibre + Citriodiol
+- Se presenta en un práctico envase roll-on, que se puede llevar a todas partes, facilita la penetración del producto y deja la piel suave, sin engrasarla - Práctico y de fácil empleo - Uso familiar - Olor agradable - No reseca la piel - No fotosensibilizante
+- Su fórmula contiene aceites esenciales de citronela, geranio, lavanda, eucalipto citriodora y Citriodiol, todos ellos ingredientes de reconocido poder antiinsectos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BR9VK9W{{</world>}}

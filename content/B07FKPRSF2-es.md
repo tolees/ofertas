@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Resto textil
 - Berna capucha marino
+- Resto textil
 - Chaquetas
 - Tipo de fábrica: Poliéster
 

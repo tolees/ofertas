@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema flexible de la batería: funciona con todas las baterías Milwaukee M18
 - Solución inalámbrica versátil para el corte y eliminación de aplicaciones
+- Sistema flexible de la batería: funciona con todas las baterías Milwaukee M18
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00IS5VKZ8{{</world>}}

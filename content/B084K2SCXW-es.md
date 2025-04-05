@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Textura ultra ligera para una sensación de labios desnudos, como no si llevases labial puesto
-- Tan ligero que no notarás que lo llevas puesto
-- Pintalabios líquido de acabado brillo duradero
-- Disponible en 9 tonos brillantes
 - Pigmentos vibrantes de acabado mate para unos labios de impacto durante todo el día
+- Tan ligero que no notarás que lo llevas puesto
+- Disponible en 9 tonos brillantes
+- Pintalabios líquido de acabado brillo duradero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B084K2SCXW{{</world>}}

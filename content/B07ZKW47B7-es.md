@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre elástico que ofrece protección
 - Para el iPad 10.2" y iPad Pro de 10.5"
 - Material: termoplástico de poliuretano
+- Cierre elástico que ofrece protección
 - Ofrece acceso a los botones, los puertos y los objetivos de la cámara
 
 [🛒 Visítala!!!]({{< param buyurl >}})

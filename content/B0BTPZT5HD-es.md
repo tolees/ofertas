@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de cierre Cremallera
-- Tipo de tacón Bloque
-- Material de la suela Sintética
-- Material principal Textil
 - Altura Tacón Alto (de 5 A 9 cm)
+- Tipo de tacón Bloque
+- Tipo de cierre Cremallera
+- Material principal Textil
+- Material de la suela Sintética
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTPZT5HD{{</world>}}

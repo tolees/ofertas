@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste relajado, ajuste de arco, refrigerado por aire
 - Rf Qtr - Malla con cordones y refrigerado por aire
+- Ajuste relajado, ajuste de arco, refrigerado por aire
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3MHSC4S{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera de 1 vía delantera en el centro
-- Insertos laterales de malla para una mayor transpirabilidad
 - 2 bolsillos con cremallera
+- Cremallera de 1 vía delantera en el centro
 - Ribetes de color block
 - Protector de barbilla
+- Insertos laterales de malla para una mayor transpirabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NZQK9QW{{</world>}}

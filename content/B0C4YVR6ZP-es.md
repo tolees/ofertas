@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica
-- corte normal
 - Chandal
+- corte normal
+- Cintura elástica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4YVR6ZP{{</world>}}

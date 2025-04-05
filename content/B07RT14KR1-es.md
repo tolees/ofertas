@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRE-DOSIFICADAS, SIN SABOR NI OLOR: Estas cápsulas son fáciles de ingerir gracias a su ausencia de sabor y olor, haciendo que la aromaterapia sea accesible y práctica en la vida diaria
-- ATENCIÓN NATURAL PARA LAS VÍAS URINARIAS: Las cápsulas Pranarom Confort Vias Urinarias Bio ofrecen una solución natural para el mantenimiento de la salud de las vías urinarias
-- ALIVIO DEL INCOMODIDAD URINARIO: Diseñadas para ayudar a aliviar las molestias relacionadas con las vías urinarias, estas cápsulas contribuyen a mejorar la comodidad diaria
 - FORMULADAS CON ACEITE ESENCIAL DE MENTA PIPERITA: Estas cápsulas contienen Aceite Esencial de Menta Piperita 100% puro, natural e integral, reconocido por sus efectos beneficiosos en las vías urinarias
+- PRE-DOSIFICADAS, SIN SABOR NI OLOR: Estas cápsulas son fáciles de ingerir gracias a su ausencia de sabor y olor, haciendo que la aromaterapia sea accesible y práctica en la vida diaria
+- ALIVIO DEL INCOMODIDAD URINARIO: Diseñadas para ayudar a aliviar las molestias relacionadas con las vías urinarias, estas cápsulas contribuyen a mejorar la comodidad diaria
+- ATENCIÓN NATURAL PARA LAS VÍAS URINARIAS: Las cápsulas Pranarom Confort Vias Urinarias Bio ofrecen una solución natural para el mantenimiento de la salud de las vías urinarias
 - PRANARÔM, LA CIENCIA DE LOS ACEITES ESENCIALES: El laboratorio Pranarôm, experto en Aceites Esenciales, ofrece soluciones innovadoras y naturales diseñadas a partir de Aceites Esenciales quimiotipados 100% puros, integrales y orgánicos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con los divertidos accesorios que incluye el conjunto, como una invitación y un regalo, la familia está lista para asistir al baile real
+- Cada una de las figuras de dragón tiene su propio diseño fiero y adorable
 - Vive fantásticas aventuras con esta familia de dragones de royals enchantals
 - Incluye una muñeca deanna dragon (15,2.cm) 3 figuras de dragones y 4 accesorios
-- Cada una de las figuras de dragón tiene su propio diseño fiero y adorable
-- Con los divertidos accesorios que incluye el conjunto, como una invitación y un regalo, la familia está lista para asistir al baile real
 - Con un atuendo digno de la realeza, la muñeca deanna dragon luce una corona dorada, una esponjosa falda y unos zapatos que se pueden quitar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

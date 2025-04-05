@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca termosellada en el forro del cuello
 - Punto liso de algodón Pima
-- Cocodrilo verde bordado en el pecho
+- Marca termosellada en el forro del cuello
 - Cuello redondo
 - Regular fit
+- Cocodrilo verde bordado en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01M3VFI8E{{</world>}}

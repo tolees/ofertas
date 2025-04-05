@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AMPLIA AUTONOMÍA: Duración de la batería de 6 Ah. Llega hasta 25 km según el peso y las condiciones de la carretera, se recarga en solo 4 horas.
 - MAXIMA SEGURIDAD: con freno de disco trasero y e-brake, reflectores laterales, delanteros y traseros.
 - FIRMADO APRILIA: Diseño original de Aprilia con inserciones de carreras.
 - NEUMÁTICOS: Neumáticos antideslizantes con cámara de aire de 8,5".
+- AMPLIA AUTONOMÍA: Duración de la batería de 6 Ah. Llega hasta 25 km según el peso y las condiciones de la carretera, se recarga en solo 4 horas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09WRWHR1X{{</world>}}

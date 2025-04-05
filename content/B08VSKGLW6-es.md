@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Felpa 70% algodón / 30% poliéster reciclado
-- Bolsillos frontales con cremallera
 - Corte clásico con pernera más ajustada en el puño
+- Bolsillos frontales con cremallera
 - Cintura elástica con cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

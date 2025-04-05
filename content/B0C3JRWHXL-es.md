@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parte textil
+- Suela de goma para todo tipo de ficies
 - Forro textil
 - Cierre de cordones
 - Horma clásica
-- Suela de goma para todo tipo de ficies
-- Parte textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3JRWHXL{{</world>}}

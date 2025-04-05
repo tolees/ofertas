@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Productos de calidad a precio reducido
 - Marca Nº1 en Europa
+- Productos de calidad a precio reducido
 - Innovadora, juvenil y llena de vida
 
 [🛒 Comprar!!!]({{< param buyurl >}})

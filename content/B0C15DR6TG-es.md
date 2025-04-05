@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura del tacón de 1,27 cm
-- Suela de tracción duradera de doble densidad para mayor estabilidad
 - Lavable a máquina
+- Suela de tracción duradera de doble densidad para mayor estabilidad
+- Altura del tacón de 1,27 cm
 - Cordones para caminar con una parte superior de malla atlética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuello en V
 - Mezcla de algodón orgánico elástico
 - Parche de bandera Tommy Jeans en el pecho
-- Cuello en V
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BCV7RX7F{{</world>}}

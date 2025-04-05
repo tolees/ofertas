@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✅ El Rollei Compact Traveler No.1 es el trípode de viaje ideal para viajar. Con de tamaño de sólo 31,5 cm, cabe en casi todas las bolsas de fotos
-- ✅ El Rollei Compact Traveler No.1 es adecuado para la fotografía de viajes y al aire libre, con una carga de 5kg para cámaras DSLR
 - ✅ Productos incluidos: Rollei Compact Traveler No.1 Aluminio con rótula de bola, placa Arca Swiss, bolsa de transporte e instrucciones de uso
+- ✅ El Rollei Compact Traveler No.1 es el trípode de viaje ideal para viajar. Con de tamaño de sólo 31,5 cm, cabe en casi todas las bolsas de fotos
 - ✅ 1170g de peso, incluida rótula de bola panorámica con placa de liberación rápida compatible Arca Swiss ideales para cualquier viaje
 - ✅ Con una altura máxima de 134cm y una altura mínima de 32cm, la fotografía de paisajes es tan fácil como la fotografía macro
+- ✅ El Rollei Compact Traveler No.1 es adecuado para la fotografía de viajes y al aire libre, con una carga de 5kg para cámaras DSLR
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00B70OQXY{{</world>}}

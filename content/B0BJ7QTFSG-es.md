@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Polo BOSS de corte ajustado
 - El polo suave está hecho de piqué de algodón elástico
+- Polo BOSS de corte ajustado
 - En el pecho hay un parche con logotipo tonal.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

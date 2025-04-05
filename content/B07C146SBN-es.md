@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ELIGE CATA, ELIGE PROFESIONALIDAD, ELIGE AHORRO ENERGÉTICO: En CATA estamos comprometidos con el medio ambiente y pensamos que su casa puede ser un ejemplo de eficiencia energética. Nos esforzamos, es una obligación y una meta poder ofrecer productos que contribuyen a crear un mundo mucho más sostenible, limpio y acogedor.
 - TIRA LED PARA MÁXIMA VISIBILIDAD Y MÁS CARACTERÍSTICAS: Cuenta con iluminación de alta eficiencia mediante LEDs, lo que proporciona una mayor claridad en la cocina. Además, sus filtros son lavables en lavavajillas, lo que facilita su mantenimiento. Su presión máxima es de 450 R y de 470 Pa en modo TURBO y La descarga es de 150/125 mm.
 - MÁXIMA CAPACIDAD DE EXTRACCIÓN Y MOTOR EXTRA SILENCIOSO: Su capacidad de extracción máxima es de 820m3/h y tiene un nivel sonoro de 50 dB(A). Además, su motor BT3 es extra silencioso y tiene un consumo máximo de energía de 280W.
 - ACABADO EN CRISTAL NEGRO, SISTEMA DE FÁCIL INSTALACIÓN Y CLASE ENERGÉTICA A: Esta campana cuenta con un sistema de fácil instalación que proporciona una mayor comodidad al instalarlo. Su acabado es de cristal negro y tiene una clasificación de eficiencia energética A, lo que la convierte en una opción eficiente y funcional para tu cocina.
 - CAMPANA EFICIENTE CON 3 NIVELES DE EXTRACCIÓN: La campana extractora GC DUAL 45 BK tiene una extracción perimetral con panel abatible dual y 4 niveles de extracción, incluyendo 1 nivel TURBO. Además, cuenta con un panel de control táctil que dispone de un temporizador de desconexión automática e indicador de limpieza de filtros, lo que garantiza un funcionamiento eficiente.
-- ELIGE CATA, ELIGE PROFESIONALIDAD, ELIGE AHORRO ENERGÉTICO: En CATA estamos comprometidos con el medio ambiente y pensamos que su casa puede ser un ejemplo de eficiencia energética. Nos esforzamos, es una obligación y una meta poder ofrecer productos que contribuyen a crear un mundo mucho más sostenible, limpio y acogedor.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C146SBN{{</world>}}

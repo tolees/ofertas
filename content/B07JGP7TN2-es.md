@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Franja PUMA en el medio y los costados
 - Logotipo PUMA en el costado y la lengüeta
 - Logotipo PUMA Cat en el talón
-- Franja PUMA en el medio y los costados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JGP7TN2{{</world>}}

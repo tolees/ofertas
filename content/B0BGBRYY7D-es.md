@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Peso ligero
 - Detalle del logotipo
 - Cierre de cordones
-- Peso ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGBRYY7D{{</world>}}

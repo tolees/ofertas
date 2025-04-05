@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las ricas notas de bergamota, jazmín y notas de madera lo convierten en un aroma terroso
 - Viene en una lata de cigarros
-- Viene en una botella modelada a partir de un cigarro
 - Cuba Brown For Men de Cuba Paris es una fragancia de musgo y madera
+- Viene en una botella modelada a partir de un cigarro
+- Las ricas notas de bergamota, jazmín y notas de madera lo convierten en un aroma terroso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B002XQ1R6U{{</world>}}

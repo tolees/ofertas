@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revestimiento: Cuero
-- Material exterior: Cuero
 - Cierre: Velcro
+- Material exterior: Cuero
+- Revestimiento: Cuero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09KMZZS56{{</world>}}

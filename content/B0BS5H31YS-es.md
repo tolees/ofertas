@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bolsillos en la cintura
 - Con cremallera
 - Manga larga
-- Bolsillos en la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS5H31YS{{</world>}}

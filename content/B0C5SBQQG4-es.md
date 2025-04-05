@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CREMALLERA
-- billetera mujer
 - Piezas de metal de color dorado.
+- billetera mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5SBQQG4{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria RAM de 8GB DDR4
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Procesador Intel Core i3-12100 (4C/QuadCore 3.3 / 4.3GHz, 12MB)
 - Tarjeta gráfica integrada Intel UHD Graphics 730
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Sin Sistema Operativo
+- Memoria RAM de 8GB DDR4
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTJ4DPNL{{</world>}}

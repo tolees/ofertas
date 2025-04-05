@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Botella de 260 ml
 - Apto para lavavajillas y para su uso en el microondas
 - Dispone de tetinas anti-cólico
 - Hecho de plástico resistente con buena retención de calor
-- Botella de 260 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B016APOBS0{{</world>}}

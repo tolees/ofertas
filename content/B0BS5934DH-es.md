@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo impreso en la manga
 - Cuello redondo
 - Logotipo frontal bordado
+- Logotipo impreso en la manga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS5934DH{{</world>}}

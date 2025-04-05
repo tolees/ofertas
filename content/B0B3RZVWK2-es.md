@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de cuello: Kent/inglés
-- Largo de manga: larga
 - Característica: de planchado fácil
 - Lavar en ciclo de lavado normal a 40°, No usar lejía, No secar en la secadora, Planchar a un máx. 200° (Nivel 3), Limpieza en seco con percloroetileno
-- Corte: Slim Fit
 - Camisa de material de fácil planchado y estructura fina. Puños con abertura y dos botones y bajo redondeado.
+- Tipo de cuello: Kent/inglés
+- Corte: Slim Fit
+- Largo de manga: larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B3RZVWK2{{</world>}}

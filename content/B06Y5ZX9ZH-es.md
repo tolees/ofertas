@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tipo de Interior: D.O.T.S
-- Goalbook RHODIARAMA - Cuaderno de organización personalizable para aficionados al "Bullet Journaling"
 - Papel de 90g/m2, Encuadernación cosida, Cubierta de simil-piel Italiana, Cierre con goma, Marca página y Bolsillo
-- Tamaño: A4+/220 x 297 mm - 240 páginas númerotadas, 6 páginas de índice y Calendarios perpetúales
+- Goalbook RHODIARAMA - Cuaderno de organización personalizable para aficionados al "Bullet Journaling"
 - Color: Naranja
+- Tamaño: A4+/220 x 297 mm - 240 páginas númerotadas, 6 páginas de índice y Calendarios perpetúales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06Y5ZX9ZH{{</world>}}

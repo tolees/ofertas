@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sistema de protección contra corrientes de aire
 - Indicada para perros de talla media y gatos de talla grande, dotada con túnel
 - Se adapta a cualquier tipo puerta: madera, metal, cristal o de obra
 - Sistema de cierre de cuatro vías
+- Sistema de protección contra corrientes de aire
 - Dimensiones de la abertura: 21,8 cm de longitud x 25,5 cm de altura
 
 [🛒 Visítala!!!]({{< param buyurl >}})

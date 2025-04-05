@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【LED de alto rendimiento】 Iluminación LED azul y blanca de bajo voltaje equipado con enchufe; Ahorro de energía, iluminación y protección del medio ambiente.
-- 【Sistema de filtro ecológico】 Tanque con filtro incorporado de algodón de alta eficiencia. Ubicado en la parte superior puede filtrar impurezas finas y purificar la calidad del agua.
 - 【Capacidad y dimensiones】 Volumen de 7 litros; (23 * 16 * 27.5) cm / (9 * 6.3 * 10.8)  (Largo * Ancho *Alto).
-- 【Visión clara】Altamente transparente cristal curvado borde frontal proporciona una vista panoramica de tu tanque y sus habitantes.
 - 【Bomba de filtro】 Bombeo y oxigenación; Bomba de 250 l / h con tubo de aire.
+- 【Visión clara】Altamente transparente cristal curvado borde frontal proporciona una vista panoramica de tu tanque y sus habitantes.
+- 【Sistema de filtro ecológico】 Tanque con filtro incorporado de algodón de alta eficiencia. Ubicado en la parte superior puede filtrar impurezas finas y purificar la calidad del agua.
+- 【LED de alto rendimiento】 Iluminación LED azul y blanca de bajo voltaje equipado con enchufe; Ahorro de energía, iluminación y protección del medio ambiente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074DWKSSG{{</world>}}

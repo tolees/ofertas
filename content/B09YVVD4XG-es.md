@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suela de goma
+- Marca PUMA en los costados
 - Entresuela ligera de EVA
 - Superposición de sillín
-- Marca PUMA en los costados
-- Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YVVD4XG{{</world>}}

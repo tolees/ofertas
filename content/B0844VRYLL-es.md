@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tu hijo celebra su cumpleaños y no sabes cómo diseñar la mesa. Entonces este mantel amscan es para ti
 - Las dimensiones del mantel son 120 x 180 cm
-- En nuestra tienda encontrará otros bonitos artículos decorativos y accesorios de fiesta. Haz clic en el nombre de la marca amscan debajo del título del producto
 - A los niños les gustará el mantel y tu mesa estará perfectamente protegida de manchas
+- Tu hijo celebra su cumpleaños y no sabes cómo diseñar la mesa. Entonces este mantel amscan es para ti
+- En nuestra tienda encontrará otros bonitos artículos decorativos y accesorios de fiesta. Haz clic en el nombre de la marca amscan debajo del título del producto
 - Está decorado con confeti colorido y varios motivos de la serie Peppa Pig
 
 [🛒 Comprar!!!]({{< param buyurl >}})

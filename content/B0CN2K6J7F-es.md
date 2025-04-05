@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las notas herbales y aromáticas de Martini Rosso & Tonic maridan con aperitivos salados, como el queso Parmesano
 - El Martini nació del privilegiado olfato de Luigi Rossi, desde los luminosos días de 1863, su esencia se compone de una selección de hierbas regionales y de un toque de caramelo natural que le otorga su tono escarlata, todo un icono italiano
+- Las notas herbales y aromáticas de Martini Rosso & Tonic maridan con aperitivos salados, como el queso Parmesano
+- Servir corto con hielo y una rodaja de naranja, o combinado con Tónica (mitad/mitad)
 - Rosso se expresa con una mezcla secreta de botánicos de tierras nativas y lejanas, la artemisa es un ingrediente crucial y continúa cultivándose y recolectándose a pocos kilómetros de nuestro hogar en Pessione
 - Carácter especiado y naturaleza dulcemente perfumada, gusto agridulce pronunciado pero equilibrado
-- Servir corto con hielo y una rodaja de naranja, o combinado con Tónica (mitad/mitad)
 - La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Visítala!!!]({{< param buyurl >}})

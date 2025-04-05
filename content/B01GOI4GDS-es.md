@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Nuove tecniche di attacco
-- Calci piazzati rinnovati.Modalità Carriera
 - Rivoluzione del gioco fisico
-- Sistema di intelligenza artificiale attivo
+- Calci piazzati rinnovati.Modalità Carriera
 - Modalità: Il Viaggio, vivi la tua storia dentro e fuori dal campo vestendo i panni di Alex Hunter
+- Sistema di intelligenza artificiale attivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01GOI4GDS{{</world>}}

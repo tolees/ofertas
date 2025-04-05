@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Uso : 1 uso
 - Marca : q-connect
+- Uso : 1 uso
 - Deposito : no
 - Material : metálico
 

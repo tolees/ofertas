@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cintura elástica
-- pantalones cortos deportivos
 - corte normal
+- pantalones cortos deportivos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQWWG8VF{{</world>}}

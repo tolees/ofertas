@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Trasero más largo
-- Puños plegados
 - Para un aspecto tridimensional
+- Puños plegados
+- Trasero más largo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DC1QH4D{{</world>}}

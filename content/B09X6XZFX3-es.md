@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Windows 10 Pro 64
-- Marca: Lenovo
 - De color negro
+- Marca: Lenovo
+- Windows 10 Pro 64
 - Procesador AMD Ryzen 7 PRO 5750G
 
 [🛒 Aquí!!!]({{< param buyurl >}})

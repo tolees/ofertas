@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color de los paneles: verde, celeste
 - Sistema de construcción magnético
-- Infinitas posibilidades de construcción
-- Esferas metálicas (no magnéticas)
 - Color de las barras: verde
+- Infinitas posibilidades de construcción
+- Color de los paneles: verde, celeste
+- Esferas metálicas (no magnéticas)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01MU59UL3{{</world>}}

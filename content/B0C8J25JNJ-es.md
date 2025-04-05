@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puleva Proteína Extra Pro
 - Puleva proteina en formato slim 1 litro
 - La Puleva proteina es sin lactosa, fácil de digerir y desnatada, para controlar la ingesta de grasa
 - Puleva bienestar para disfrutar de la vida
-- Puleva Proteína Extra Pro
 - La Puleva proteina, te ayuda a conseguir una nutrición equilibrada ya que cada vaso de 330 ml te aporta un tercio de la catidad recomendada al día
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

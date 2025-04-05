@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De la marca Pilot
-- Color de la tinta: rojo
 - Adecuados para uso profesional o personal
+- Color de la tinta: rojo
+- De la marca Pilot
 - Tipo de producto: juego de tres recambios para bolígrafo de gel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

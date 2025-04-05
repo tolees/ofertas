@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología transpirable HEAT.RDY que favorece la ventilación
-- Corte clásico
 - Punto doble 100% poliéster reciclado
 - Cuello redondo
+- Tecnología transpirable HEAT.RDY que favorece la ventilación
 - Camiseta transpirable para entrenar
+- Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08BVHJ2Q2{{</world>}}

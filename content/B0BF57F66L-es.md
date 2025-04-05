@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Jersey de mezcla de algodón
+- Cinta distintiva dentro del cuello
 - Cuello redondo
 - Calvin Klein Bordado en el pecho
-- Cinta distintiva dentro del cuello
 - Mangas cortas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Un indicador de afecto para recuperar a los animales que aumenta cuando los alimentas y acaricias, con pequeñas recompensas en cada nivel
 - ¡Gestiona un hospital veterinario y cuida de tus adorables pacientes en este videojuego para amantes de los animales!
-- Gran variedad de especies distintas: gatos, perros, pandas, zorros, lobos, koalas, mapaches... ¡e incluso unicornios! El único juego de veterinarios con animales domésticos, exóticos y mágicos populares de todo el mundo
 - Una mecánica de juego accesible para los niños pequeños con una historia sencilla y adorable
 - Muchas herramientas y equipo distinto para examinar y tratar a los pacientes en minijuegos diversos
-- Un indicador de afecto para recuperar a los animales que aumenta cuando los alimentas y acaricias, con pequeñas recompensas en cada nivel
+- Gran variedad de especies distintas: gatos, perros, pandas, zorros, lobos, koalas, mapaches... ¡e incluso unicornios! El único juego de veterinarios con animales domésticos, exóticos y mágicos populares de todo el mundo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CG5Z97D2{{</world>}}

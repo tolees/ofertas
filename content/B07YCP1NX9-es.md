@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalón de chandal
-- 40% poliéster
 - Bajos elásticos
+- Pantalón de chandal
 - 60% algodón
 - Dos bolsillos
 - Cintura elástico con cordones de ajuste
+- 40% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07YCP1NX9{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CHAMPÚ: Fija el tinte y potencia el brillo de las fibras capilares de tu cabello con este champú protector de Wella que intensifica el color -formulado para pelos teñidos, secos y dañados -especialmente para cabellos finos y normales
-- BRILLO: Enriquecido con antioxidantes para proteger las fibras capilares del cabello de la decoloración y de los daños del ambiente - mantiene el cabello vivo y brillante
 - PROTECCIÓN DEL TINTE: Su fórmula de bajo pH cierra la cutícula despúes de la coloración para fijar el color y mantener las fibras capilares del cabello vivas y brillantes
+- BRILLO: Enriquecido con antioxidantes para proteger las fibras capilares del cabello de la decoloración y de los daños del ambiente - mantiene el cabello vivo y brillante
 - COLOR INTENSO: El purificador de metales protege el cabello de los metales nocivos presentes en el agua y ayuda a mantener su vitalidad
+- CHAMPÚ: Fija el tinte y potencia el brillo de las fibras capilares de tu cabello con este champú protector de Wella que intensifica el color -formulado para pelos teñidos, secos y dañados -especialmente para cabellos finos y normales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB6STP7G{{</world>}}

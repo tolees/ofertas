@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rediseñado en colaboración según las especificaciones de Shroud y diseñado para ofrecer un rendimiento elevado, el nuevo G303 es un ratón diseñado para apuntar.
 - Resolución 100 — 25.000 ppp, aceleración máx. >40 g (1,41 oz) 1Probado en alfombrilla de ratón Logitech G240 para juegos, velocidad máx. de >400 IPS 2Probado en alfombrilla de ratón para juegos Logitech G240, sin suavizado/aceleración/filtrado
 - Sin sacrificar energía, el sensor HERO 25K aporta una precisión, velocidad y eficiencia inigualables al campo de juego
+- Con LIGHTSPEED, nuestra tecnología inalámbrica profesional que ofrece latencia ultrabaja y lo último en rendimiento confiable
 - Disponible en negro
 - Con 75 gramos, el G303 de Shroud es ligero y robusto. Se combina bien con la configuración de DPI de baja sensibilidad y permite una focalización más rápida
-- Con LIGHTSPEED, nuestra tecnología inalámbrica profesional que ofrece latencia ultrabaja y lo último en rendimiento confiable
+- Rediseñado en colaboración según las especificaciones de Shroud y diseñado para ofrecer un rendimiento elevado, el nuevo G303 es un ratón diseñado para apuntar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W8P4PD9{{</world>}}

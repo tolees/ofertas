@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte textil y de ante
-- Horma clásica
 - Cierre de cordones
+- Horma clásica
+- Parte textil y de ante
 - Forro textil
 - Suela de goma
 

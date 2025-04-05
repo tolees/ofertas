@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 😋 SABOR DOBLE CHOCOLATE: Nuestra proteína concentrada tiene un sabor de Doble Chocolate para que disfrutes de un delicioso batido de proteinas. También puedes probar nuestra proteína concentrada en otros sabores como capuchino, yogur fresa, chocolate blanco, vainilla, neutra y cookies and cream ¡Elige tu sabor favorito para disfrutar de un batido de proteínas únicos!
-- 🏋🏻‍♂️ PROTEINA CONCENTRADA: Proporciona un mayor crecimiento y recuperación muscular, además que reduce el tiempo de recuperación tras el ejercicio. Tomando la proteína concentrada de Sport Live puedes ayudar a mejorar tu masa muscular y además, tu eliges; pre entreno, intra entreno o post entreno
 - ⚡️PROTEINA CON L-GLUTAMINA Y L-LEUCINA: La L-Glutamina tiene una misión importante en los procesos inmunológicos, en el transporte de nitrógeno por el cuerpo y otras misiones. Mientras que la L-Leucina ayuda a manteer los niveles de azúcar en sangre, a lo que hay que sumar el hecho de que contribuye a incrementar la producción de la hormona del crecimiento
-- 👍 SIN AZÚCAR: La proteina concentrada de Drasanvi no contiene azúcares, por lo que esta enriquecida con aromas y sucralosa para que disfrutes del mejor sabor y dulzor en tus batidos diarios después de un duro entrenamiento
-- 🧃 MODO DE USO: Te recomendamos tomar tu Whey Protein Sport Live 30 g. (3/4 del cacito dosificador) disueltos en 250 - 300 ml de agua, leche semidesnatada o vegetal despues del ejercicio
 - 💪 ¿POR QUÉ SUPLEMENTARTE CON PROTEINA? Las proteínas desempeñan funciones críticas en el cuerpo, como la regulación de tejidos y órganos del cuerpo. Ayudan a mantener y fortalecer los huesos, los músculos y la piel. Además de mantener la masa muscular frenar su degradación o aumentarla
+- 👍 SIN AZÚCAR: La proteina concentrada de Drasanvi no contiene azúcares, por lo que esta enriquecida con aromas y sucralosa para que disfrutes del mejor sabor y dulzor en tus batidos diarios después de un duro entrenamiento
+- 🏋🏻‍♂️ PROTEINA CONCENTRADA: Proporciona un mayor crecimiento y recuperación muscular, además que reduce el tiempo de recuperación tras el ejercicio. Tomando la proteína concentrada de Sport Live puedes ayudar a mejorar tu masa muscular y además, tu eliges; pre entreno, intra entreno o post entreno
+- 🧃 MODO DE USO: Te recomendamos tomar tu Whey Protein Sport Live 30 g. (3/4 del cacito dosificador) disueltos en 250 - 300 ml de agua, leche semidesnatada o vegetal despues del ejercicio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFLP6RDV{{</world>}}

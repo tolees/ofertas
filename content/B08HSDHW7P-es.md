@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Tecnología Brushless (sin escobillas): 50% más de autonomía, 25% más de potencia, 10 veces mayor vida del motor
 - Tamaño del disco: 115 mm
+- No incluye batería ni cargador
 - Muy compacta para un manejo óptimo
 - Plataforma powershare: batería extraíble e intercambiable con todas las herramientas eléctricas y de jardín de la gama 20v de worx
-- No incluye batería ni cargador
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08HSDHW7P{{</world>}}

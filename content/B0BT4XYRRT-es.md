@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Punta
 - Breve
 - Sin relleno
-- Punta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT4XYRRT{{</world>}}

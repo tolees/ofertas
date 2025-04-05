@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Impermeable, cortaviento y con forro polar, el Crew es un ganador en todos los sentidos
-- Cálido Medio Capa
-- Helly Techa Tela
-- Exterior: 100% poliéster - Forro: 100% poliéster (reciclado) - Forro 2: 100% poliéster
 - Resistente al agua ya prueba de viento
-- Respirable
-- Fleece Lined
 - Si te llevas una chaqueta a tu viaje en velero, elige nuestra capa intermedia marina favorita; diseñada con nuestro tejido patentado HELLY TECH Protection, además de forro polar, la polivalente Crew es transpirable a la vez que te mantiene caliente y seco; la hemos aumentado con los pequeños detalles que cuentan: cuello cálido, puños ajustables y bolsillos dobles para las manos con forro cepillado
+- Cálido Medio Capa
+- Respirable
+- Impermeable, cortaviento y con forro polar, el Crew es un ganador en todos los sentidos
 - Artículos entregados: 1x Helly Hansen Hombre Chaqueta Crew Midlayer,M,Negro
+- Exterior: 100% poliéster - Forro: 100% poliéster (reciclado) - Forro 2: 100% poliéster
+- Helly Techa Tela
+- Fleece Lined
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B006ZML8FI{{</world>}}

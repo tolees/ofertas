@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
-- Plantilla Cloudfoam
 - Horma clásica
 - Suela de goma
+- Cierre de cordones
+- Plantilla Cloudfoam
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5NLN98L{{</world>}}

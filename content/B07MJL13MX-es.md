@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Composición: 79% poliéster, 16% viscosa, 5% elastano, forro: 100% poliéster
 - Blazer Largo
+- Composición: 79% poliéster, 16% viscosa, 5% elastano, forro: 100% poliéster
 - Manga 3/4
 - Corte regular
 

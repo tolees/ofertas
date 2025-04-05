@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vienen con aberturas de ventilación
-- Ideal para actividades al aire libre, Puede ser usado todo el año
-- Tienen cintura exterior ajustable
 - Contenido: 1x Columbia Silver Ridge II Capri, Pantalón Capri, Hombre, Beige (Fossil), Talla: 34
+- Tienen cintura exterior ajustable
 - Incluyen bolsillo de seguridad con cremallera
+- Ideal para actividades al aire libre, Puede ser usado todo el año
+- Vienen con aberturas de ventilación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0771W1VCX{{</world>}}

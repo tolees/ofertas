@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ligero
 - Buen agarre
 - Tapicería:
+- Ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07P8T9K3R{{</world>}}

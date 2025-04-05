@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo impreso en contraste en el pecho
-- Fabricado con 100% algodón sostenible
 - Ajuste regular
+- Fabricado con 100% algodón sostenible
+- Logotipo impreso en contraste en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS5WTZSY{{</world>}}

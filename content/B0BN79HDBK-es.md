@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Zapatos para correr
-- protector de dedos,
 - Plantilla transpirable
+- protector de dedos,
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BN79HDBK{{</world>}}

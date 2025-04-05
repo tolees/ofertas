@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Movimiento: cuarzo, display: analógico
 - Aurora
+- Movimiento: cuarzo, display: analógico
+- Material caja: acero, color: rosado
+- Diámetro de la caja: 36.5 millimeters
+- Tipo de cristal del dial: Mineral
 - Tipo de cierre: Cierre desplegable
 - Tamaño: 36,5mm
-- Color de la correa: Rosa; Anchura de la correa: 18.0
-- Material caja: acero, color: rosado
-- Material correa: acero, color: rosado
-- Diámetro de la caja: 36.5 millimeters
 - Forma: Redondo
-- Tipo de cristal del dial: Mineral
+- Material correa: acero, color: rosado
+- Color de la correa: Rosa; Anchura de la correa: 18.0
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07VR1DN3C{{</world>}}

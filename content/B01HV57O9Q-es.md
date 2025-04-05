@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Remallado a Mano
+- Ideal tanto para niña como para niño
 - Algodón liso infantil
 - Cintura Especial Antipresión
-- Ideal tanto para niña como para niño
 - Composición: 80% Algodón 15% Poliester 5% Elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

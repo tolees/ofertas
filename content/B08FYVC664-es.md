@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dimensiones totales (Largo/Profundo/Altura): L.16,3 x P.15 x A.20,3 cm
 - Jardín Zen con cajón
 - Rastrillo: L. 12,7 x l. 1,7 x H. 3,7 cm Buda: L.6 x l. 3,2 x A.6,8 cm Gong: P.7,3 cm Vela: P.4,5 x A.2,5 cm
+- Dimensiones totales (Largo/Profundo/Altura): L.16,3 x P.15 x A.20,3 cm
 - Tal y como se ve en la imagen; el set incluye: PIEDRAS, 1 PORTA VELAS, 1 GONG, ARENA
 
 [🛒 Comprar!!!]({{< param buyurl >}})

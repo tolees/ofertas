@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Super Skinny con Low Rise
-- Bragueta con botones
 - Con detalles clásicos de cinco bolsillos
+- Bragueta con botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B094NFX6WR{{</world>}}

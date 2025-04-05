@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DIVERSIÓN A TAMAÑO COMPLETO – Todo lo necesario, al alcance de la mano. El formato del teclado y las 12 teclas multimedia te permiten jugar —¡o lo que quieras!— con total facilidad
-- TU AMBIENTE GAMING – Juega como más te guste con los 3 modos de color de los LED y el brillo ajustable. Elige un tono sutil u otro más atrevido. El teclado Azor no dejará de sorprenderte
-- SIN MIEDO A LOS FANTASMAS – La función anti-ghosting de este teclado registra 8 pulsaciones de tecla simultáneamente. Para que se cumplan todas tus órdenes al instante
-- ¡FIRMEEES! – Los pies de goma antideslizantes con 2 alturas ajustables permiten encontrar el ángulo perfecto (¡y mantenerlo!) independientemente de la intensidad del gameplay
 - SIEMPRE EN EL JUEGO – Nadie quiere salir del juego en el mejor momento. El teclado Azor tiene un práctico interruptor de «modo gaming» que desactiva la tecla Windows para permanecer en el juego
+- ¡FIRMEEES! – Los pies de goma antideslizantes con 2 alturas ajustables permiten encontrar el ángulo perfecto (¡y mantenerlo!) independientemente de la intensidad del gameplay
+- TU AMBIENTE GAMING – Juega como más te guste con los 3 modos de color de los LED y el brillo ajustable. Elige un tono sutil u otro más atrevido. El teclado Azor no dejará de sorprenderte
+- DIVERSIÓN A TAMAÑO COMPLETO – Todo lo necesario, al alcance de la mano. El formato del teclado y las 12 teclas multimedia te permiten jugar —¡o lo que quieras!— con total facilidad
+- SIN MIEDO A LOS FANTASMAS – La función anti-ghosting de este teclado registra 8 pulsaciones de tecla simultáneamente. Para que se cumplan todas tus órdenes al instante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08DDDVWWW{{</world>}}

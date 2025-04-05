@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
-- Drop: 1 mm (talón: 22 mm / antepié: 12 mm)
-- Forro textil
-- Cierre de cordones
-- Mediasuela BOOST
 - Parte de malla técnica
+- Mediasuela BOOST
+- Drop: 1 mm (talón: 22 mm / antepié: 12 mm)
+- Cierre de cordones
+- Horma clásica
+- Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZ8B7BLV{{</world>}}

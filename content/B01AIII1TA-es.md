@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- PIXEL 001 SET 4 FIGURAS 7 CM THE BIG BANG THEORY
+- Producto oficial The Big Bang Theory
 - Figura Pixel plastico
 - Para los fans de The Big Bang Theory
 - PIXEL 001 SET 4 FIGURAS 7 CM THE BIG BANG THEORY
-- PIXEL 001 SET 4 FIGURAS 7 CM THE BIG BANG THEORY
-- Producto oficial The Big Bang Theory
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01AIII1TA{{</world>}}

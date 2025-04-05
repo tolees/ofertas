@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para mujer
 - Blazer que realza la figura
+- Para mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09M9RRGVL{{</world>}}

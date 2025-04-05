@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material: Polyester
-- Número del fabricante: 52556 NVY
-- Color: azul
 - Estilo: Sneaker Med
+- Número del fabricante: 52556 NVY
+- Material: Polyester
+- Color: azul
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NYTFXYK{{</world>}}

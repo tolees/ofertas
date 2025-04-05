@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Calzoncillo integrado: 100% poliéster (reciclado)
+- AEROREADY
+- Exterior: 100% poliéster (reciclado)
 - Bolsillos laterales
 - Cintura elástica con cordón ajustable
-- Exterior: 100% poliéster (reciclado)
-- AEROREADY
 - Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

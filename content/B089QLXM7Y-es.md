@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajustado
 - Cintura alta
 - Vaqueros revesti
+- Ajustado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B089QLXM7Y{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ESTRUCTURA RESISTENTE: Sombrilla de jardín exterior con poste metálico de aluminio con 8 varillas con recubrimiento en polvo para mayor resistencia a la intemperie y a la corrosión. La cubierta de poliéster de 180 g/m², filtra los rayos dañinos del sol y mantiene tu área sombreada de manera efectiva
-- POSTE CON ÁNGULO REGULABLE Y DESMONTABLE: El poste de 38 mm de diámetro de esta sombrilla de terraza exterior es desmontable en 2 partes y es reclinable, para que puedas ajustar el toldo según la incidencia de los rayos del sol
-- MEDIDAS TOTALES: Ø295x250 cm (DxAL). Diámetro del mástil: Ø3,8 cm. La base de la sombrilla NO está incluida. NOTA: No usar en condiciones climáticas adversas como lluvia o vientos fuertes. Se recomienda retirar el producto.
-- APERTURA Y CIERRE CON MANIVELA: Parasol de terraza octogonal de medidas considerables que se abre y cierra fácilmente mediante la manivela que tiene en el propio mástil
 - VERSÁTIL: Sombrilla de jardín de grandes dimensiones que proporcionará una gran área de sombra en cualquier espacio. Ideal para tener en el jardín, junto a la piscina, en la terraza o en cualquier otro espacio al aire libre
+- APERTURA Y CIERRE CON MANIVELA: Parasol de terraza octogonal de medidas considerables que se abre y cierra fácilmente mediante la manivela que tiene en el propio mástil
+- MEDIDAS TOTALES: Ø295x250 cm (DxAL). Diámetro del mástil: Ø3,8 cm. La base de la sombrilla NO está incluida. NOTA: No usar en condiciones climáticas adversas como lluvia o vientos fuertes. Se recomienda retirar el producto.
+- POSTE CON ÁNGULO REGULABLE Y DESMONTABLE: El poste de 38 mm de diámetro de esta sombrilla de terraza exterior es desmontable en 2 partes y es reclinable, para que puedas ajustar el toldo según la incidencia de los rayos del sol
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B084RZR51G{{</world>}}

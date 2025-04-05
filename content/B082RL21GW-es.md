@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo acanalado
-- Corte normal
 - Logotipo del PUMA bordado en la parte derecha del pecho
 - Algodón 100 %
+- Corte normal
+- Cuello redondo acanalado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082RL21GW{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una historia original sobre la obsesión, la manipulación y la locura, inspirada en la obra maestra Vértigo de Alfred Hitchcock.
 - Una poderosa experiencia narrativa que rinde homenaje a las técnicas visuales y narrativas del género del thriller
-- Diálogos interactivos que darán forma a las relaciones entre los personajes
+- Una historia original sobre la obsesión, la manipulación y la locura, inspirada en la obra maestra Vértigo de Alfred Hitchcock.
 - Varias líneas temporales para explorar que te permitirán solapar los acontecimientos y distinguir la realidad de los recuerdos engañosos.
 - Cuatro personajes jugables que tienen cada uno una historia diferente que contar
+- Diálogos interactivos que darán forma a las relaciones entre los personajes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4NV4VFW{{</world>}}

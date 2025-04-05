@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatillas deportivas
 - Parte superior de malla transpirable
+- Zapatillas deportivas
 - Estilo de running de los años 90
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre de cordones
-- Parte de piel sintética
-- Forro textil
-- Plantilla de EVA
 - Horma clásica
+- Forro textil
+- Parte de piel sintética
+- Plantilla de EVA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPF1KTYY{{</world>}}

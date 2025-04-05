@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PORTOBELLO ORGÁNICO
 - CAMISETA DE ALGODÓN LAVADO DE MANGA CORTA CON LOGO IMPRESO EN EL PECHO.
 - Fabricado con 100% algodón sostenible
+- PORTOBELLO ORGÁNICO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B64FJJH9{{</world>}}

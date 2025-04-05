@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regular fit
 - Cinturilla elástica con cordones ajustables ocultos
 - Mezcla de piqué de algodón de doble capa
+- Regular fit
 - Bolsillos laterales y tobillos elásticos
 - Cocodrilo bordado a tono
 

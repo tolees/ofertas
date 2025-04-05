@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 0,393700787 pulgadas
 - Cuero: Cuero
 - Cierre: goma
+- 0,393700787 pulgadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNQ8JKKW{{</world>}}

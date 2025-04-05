@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de tirantes confeccionada en tejido traspirable, elástico y ligero
 - Tiene detalles distintivos de la marca
+- Camiseta de tirantes confeccionada en tejido traspirable, elástico y ligero
 - Material resistente y duradero
 - Ajuste cómodo que ofrece flexibilidad
 

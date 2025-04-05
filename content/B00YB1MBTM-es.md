@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Algodón elástico
+- Paquete de 3 calzoncillos slip de tiro bajo
 - Multicolor
 - Pretina con logotipo clásico de Tommy Hilfiger
-- Paquete de 3 calzoncillos slip de tiro bajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00YB1MBTM{{</world>}}

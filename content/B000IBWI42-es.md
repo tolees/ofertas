@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Capacidad de conservación: 1 Día Dimensiones interiores cm: 22 x 16 x 13 Dimensiones exteriores cm: 27 x 20 x 18
 - La caja es adecuada para almacenar 6 latas pequeñas
 - Capacidad Litros: 4 L Peso del producto: 0, 7 kg Material de aislamiento: Poliuretano PU, funda exterior material del forro interior: Polietileno de alta densidad,HDPE
-- Capacidad de conservación: 1 Día Dimensiones interiores cm: 22 x 16 x 13 Dimensiones exteriores cm: 27 x 20 x 18
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000IBWI42{{</world>}}

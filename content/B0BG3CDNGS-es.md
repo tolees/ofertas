@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caja dorada de 34 mm
 - Resistente al agua hasta 30 metros
+- Caja dorada de 34 mm
 - Correa de 7.5 pulgadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

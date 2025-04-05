@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillo frontal tipo canguro
-- Capucha para óptimo calidez y cobertura
-- Dobladillo y puños acanalados
 - Ajuste regular
+- Capucha para óptimo calidez y cobertura
+- Bolsillo frontal tipo canguro
+- Dobladillo y puños acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSNPBP8N{{</world>}}

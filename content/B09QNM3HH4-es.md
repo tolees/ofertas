@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Combina con un suéter o camiseta metida para lucir genial durante todo el año
 - Con la cintura favorecedora de corte alto y la cadera delgada, hace una auténtica pierna recta desde el muslo hasta el tobillo, con longitud recortada
+- Combina con un suéter o camiseta metida para lucir genial durante todo el año
 - El acabado súper ligero es súper contemporáneo con un toque de rebelión subcultural en las costuras
 
 [🛒 Comprar!!!]({{< param buyurl >}})

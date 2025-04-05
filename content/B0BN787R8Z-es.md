@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatos para correr
 - Plantilla transpirable
+- Zapatos para correr
 - protector de dedos,
 
 [🛒 Aquí!!!]({{< param buyurl >}})

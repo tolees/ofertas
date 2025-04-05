@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - AEROREADY
+- Corte clásico
 - Entrena con compromiso y regularidad
 - Punto 76% poliéster reciclado / 12% algodón / 12% viscosa
 - Cuello redondo
-- Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQW4ZN3V{{</world>}}

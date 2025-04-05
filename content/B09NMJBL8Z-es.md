@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La suela de goma con el motivo de waffle ofrece tracción, resistencia y un estilo inspirado en la tradición.
 - Swoosh en el talón forma una lengua que da una estética buscada a la máxima practicidad.
+- La suela de goma con el motivo de waffle ofrece tracción, resistencia y un estilo inspirado en la tradición.
 - Zapato deportivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

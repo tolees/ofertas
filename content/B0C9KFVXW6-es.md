@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Solo una pareja puede salir victoriosa del Ritual; Únete a la feroz batalla en Edo desde la perspectiva de Miyamoto Iori, un ronin, y su Servant Saber que apareció de repente ante él; un juego de rol de acción donde puedes explorar las ciudades de Edo
-- Siente la atmósfera bulliciosa de Edo donde se pueden ver casas tradicionales, residencias de samuráis y burdeles; progresa a través de la historia centrada en el Ritual de la Luna Creciente, conoce a varios personajes
-- Dé rienda suelta a los golpes de enlace y las técnicas de afinidad para cambiar el rumbo de la batalla y sobrevivir al ritual
 - El maestro y el sirviente luchan como uno; cambia entre el control de un Maestro y un Sirviente para luchar contra Sirvientes enemigos y monstruos gigantes
 - Un destino completamente nuevo ambientado en Edo, Japón de mediados del siglo XVII; en el Ritual de la Luna Creciente, siete pares de Maestros y Sirvientes, Espíritus Heroicos históricos que poseen un poder abrumador
+- Siente la atmósfera bulliciosa de Edo donde se pueden ver casas tradicionales, residencias de samuráis y burdeles; progresa a través de la historia centrada en el Ritual de la Luna Creciente, conoce a varios personajes
+- Dé rienda suelta a los golpes de enlace y las técnicas de afinidad para cambiar el rumbo de la batalla y sobrevivir al ritual
+- Solo una pareja puede salir victoriosa del Ritual; Únete a la feroz batalla en Edo desde la perspectiva de Miyamoto Iori, un ronin, y su Servant Saber que apareció de repente ante él; un juego de rol de acción donde puedes explorar las ciudades de Edo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9KFVXW6{{</world>}}

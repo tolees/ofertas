@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La batería es 100% nueva y no se recicla
-- Tipo 4 x 18650. Con enchufe. Ideal para proyectores de construcción Velamp DE TODOS LOS 867
 - Sin efecto memoria; capacidad de 4400 mAh
-- Ideal para linternas recargables, postes solares de jardín, cigarrillos electrónicos y muchos otros usos
 - Nota: La batería debe recargarse cada 3/6 meses.
+- Tipo 4 x 18650. Con enchufe. Ideal para proyectores de construcción Velamp DE TODOS LOS 867
+- La batería es 100% nueva y no se recicla
+- Ideal para linternas recargables, postes solares de jardín, cigarrillos electrónicos y muchos otros usos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0879HLBTT{{</world>}}

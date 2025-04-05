@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este artículo ha sido fabricado respetando las normas de producción
-- Cuidado de la piel: tratamiento corporal
 - Textura ligera
 - Contenido: 40 ml
+- Cuidado de la piel: tratamiento corporal
+- Este artículo ha sido fabricado respetando las normas de producción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07HWF5M1H{{</world>}}

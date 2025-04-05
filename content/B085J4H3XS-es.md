@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Command - Choose from four commanders, each representing a different faction and bringing with them their own unique power, traits and play style
-- deploy - Call in reinforcements from orbit by picking from a range of mass-produced units with differing combat roles
-- advance - push forward and secure your supremacy on a Battlefield of hexagonal area Tiles, formed with a variety of terrain types
-- campaign - Set during a time of War and political uncertainty, the story of warborn unfolds from the eyes of four different commanders across a story-driven campaign featuring over 40 missions.Skirmish and multiplayer - configure your own match parameters in Skirmish mode, or take the battle online to outwit rival commanders across the world in tense one-on-one matches.
 - battle - Engage the enemy with tactical attack options inflict status effects, plant traps and support allies using unique unit skills
+- advance - push forward and secure your supremacy on a Battlefield of hexagonal area Tiles, formed with a variety of terrain types
+- deploy - Call in reinforcements from orbit by picking from a range of mass-produced units with differing combat roles
+- campaign - Set during a time of War and political uncertainty, the story of warborn unfolds from the eyes of four different commanders across a story-driven campaign featuring over 40 missions.Skirmish and multiplayer - configure your own match parameters in Skirmish mode, or take the battle online to outwit rival commanders across the world in tense one-on-one matches.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B085J4H3XS{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Capucha con cordón.
 - Escudo Gant en el pecho
 - Bolsillo canguro.
-- Capucha con cordón.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01FU4T10K{{</world>}}

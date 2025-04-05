@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Producto pensado para cualquier persona, ya sea hombre o mujer,
-- La siguiente información se aplica a cada unidad del paquete
 - Marca - La Roche Posay
 - Tipo de producto - Limpiador
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CH2P79LJ{{</world>}}

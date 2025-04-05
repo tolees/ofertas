@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- RICO Y PROFUNDAMENTE PIGMENTADO: Estos tonos altamente pigmentados le darán looks de maquillaje duraderos y sin arrugas. Crea looks impresionantes, profesionales y de alta gama, todo a un precio asequible
 - EXTREMADAMENTE MEZCLABLES: Los tonos de esta paleta tienen efectos duraderos y son mezclables, creando una multitud de looks magníficos que duran todo el día.
 - CÓMO UTILIZAR: Aplicar y mezclar las sombras elegidas sobre la tapa. Rocíe su pincel de maquillaje con Revolution Hyaluronic Spray fijador para intensificar el pigmento
+- RICO Y PROFUNDAMENTE PIGMENTADO: Estos tonos altamente pigmentados le darán looks de maquillaje duraderos y sin arrugas. Crea looks impresionantes, profesionales y de alta gama, todo a un precio asequible
 - LIBRE DE CRUELDAD: Los productos de Revolution Beauty son libres de crueldad y siempre lo han sido. Estamos certificados por PETA y nunca permitimos pruebas en animales en ninguna etapa de desarrollo tanto para ingredientes como para productos finales.
 - INCLUYE 15 TONOS: Con una hermosa mezcla de suaves brillos rosas y dorados, esta paleta es el sueño de todas las niñas!
 

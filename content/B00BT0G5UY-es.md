@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carraca de puntas de 1/4" y puntas duras y resistentes
-- Ideal en situaciones de trabajo estrechas
-- Con el adaptador 870/1 de Wera también es posible utilizar vasos de 1/4"
 - Puntas duras y resistentes, especialmente adecuadas para atornillar materiales duros como chapas o metales
+- Carraca de puntas de 1/4" y puntas duras y resistentes
+- Con el adaptador 870/1 de Wera también es posible utilizar vasos de 1/4"
+- Ideal en situaciones de trabajo estrechas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BT0G5UY{{</world>}}

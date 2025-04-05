@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No limpiar con sustancias abrasivas, usar solamente agua y el jabón. Apta para lavavajillas.
-- Capacidad: 500 ml.
-- Botella plegable realizada en silicona y con mensaje en inglés. El mensaje se encuentra en el tapón.
-- Indicaciones: evitar el contacto directo con objetos afilados.
 - Cuenta con un mosquetón, lo que la hace más práctica todavía.
+- Indicaciones: evitar el contacto directo con objetos afilados.
+- Capacidad: 500 ml.
+- No limpiar con sustancias abrasivas, usar solamente agua y el jabón. Apta para lavavajillas.
+- Botella plegable realizada en silicona y con mensaje en inglés. El mensaje se encuentra en el tapón.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTZ8BWQ3{{</world>}}

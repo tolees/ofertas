@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Mensaje “Full of great ideas” impreso en él
+- Bolígrafo metálico
 - Color de la tinta: azul
 - Optimo para la vuelta al col
-- Bolígrafo metálico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C62KY2NP{{</world>}}

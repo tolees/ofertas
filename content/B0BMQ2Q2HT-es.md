@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta ligera que bloquea el viento
 - Cremallera completa
 - Tela con acabado opaco
+- Chaqueta ligera que bloquea el viento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BMQ2Q2HT{{</world>}}

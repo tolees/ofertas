@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatibles con Lumare LED planos: Lumare ULD-PA-1, Ebrom EB-LED-5-150, EcoDim -04, Proventa Uni, Busch-Jäger 6523 U-102, Kopp 8002, 8428, 8455. Ajuste el brillo según sus necesidades.
+- Fácil conexión: 230V posible gracias a transformador integrado. Conexión sencilla con terminal en foco extraplano Lumare, 27mm de montaje y 85mm de diámetro.
 - Calidad insuperable: Lumare crea focos empotrables LED regulables excepcionales bajo rigurosos estándares de calidad. Garantizamos tu satisfacción. Contáctanos para consultas.
 - Larga Vida Útil: Lumare 4W dura 25,000h, es duradera, ahorra energía. Ángulo: 120°, IRC>80, colores vivos e iluminación natural en habitación.
 - Ahorro energético: Lumare 4W brinda luz cálida sin parpadeos y reduce el consumo. Apto para lugares húmedos con IP44. Fácil reemplazo de la bombilla para mayor durabilidad.
-- Fácil conexión: 230V posible gracias a transformador integrado. Conexión sencilla con terminal en foco extraplano Lumare, 27mm de montaje y 85mm de diámetro.
+- Compatibles con Lumare LED planos: Lumare ULD-PA-1, Ebrom EB-LED-5-150, EcoDim -04, Proventa Uni, Busch-Jäger 6523 U-102, Kopp 8002, 8428, 8455. Ajuste el brillo según sus necesidades.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09LHSNW7R{{</world>}}

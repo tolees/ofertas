@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de PUMA N° 1 en la correa
 - Suela de EVA inyectada para mayor suavidad y amortiguación.
+- Logotipo de PUMA N° 1 en la correa
 - Correa sintética acolchada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

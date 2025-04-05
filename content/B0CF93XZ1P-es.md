@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CALZADO DEPORTIVO: Desde la ciudad hasta la montaña y pasando por el agua, nuestras zapatillas deportivas están diseñadas y creadas pensando en ti y en tus necesidades. Descubre en nuestro catálogo las que mejor se adaptan a ti y a tus actividades favoritas.
+- ZAPATILLAS SHUN: Con cierre de cordones y plantilla interior de EVA, estas zapatillas están elaboradas en poliéster mesh y TPU, aportándote libertad de movimiento, comodidad y protección, todo lo necesario para practicar actividades como senderismo o trekking.
+- ¿QUIÉNES SOMOS?: En Izas nos encantan el deporte y las actividades al aire libre y en la montaña, por eso diseñamos y fabricamos ropa deportiva que se ajusta a las necesidades de los deportistas más exigentes. Utilizamos los mejores materiales para ofrecer la mayor comodidad posible durante la práctica deportiva. ¡Sal, disfruta y haz deporte, del resto nos encargamos nosotros!
 - CÓMODAS Y PRÁCTICAS: Sabemos lo importante que es sentirse cómodo y seguro durante una jornada en la naturaleza, por ello, nuestro calzado está preparado para ofrecerte todo el confort, libertad de movimiento y seguridad que necesitas durante tu caminatas.
 - EN LA MONTAÑA Y EN LA CIUDAD: Gracias a su suela alta y a su puntera y talonera reforzadas, estas zapatillas de deporte te aportarán toda la seguridad y el confort que necesitas para disfrutar de todas tu actividades. Disfruta y sácale el máximo partido a cada paso.
-- ¿QUIÉNES SOMOS?: En Izas nos encantan el deporte y las actividades al aire libre y en la montaña, por eso diseñamos y fabricamos ropa deportiva que se ajusta a las necesidades de los deportistas más exigentes. Utilizamos los mejores materiales para ofrecer la mayor comodidad posible durante la práctica deportiva. ¡Sal, disfruta y haz deporte, del resto nos encargamos nosotros!
-- ZAPATILLAS SHUN: Con cierre de cordones y plantilla interior de EVA, estas zapatillas están elaboradas en poliéster mesh y TPU, aportándote libertad de movimiento, comodidad y protección, todo lo necesario para practicar actividades como senderismo o trekking.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CF93XZ1P{{</world>}}

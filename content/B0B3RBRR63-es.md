@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro: sintético
 - Material exterior: sintético
 - Cierre: Cordones
+- Forro: sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3RBRR63{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento interno SSD PCIe NVMe TLC M.2 de 512 GB
-- Gráficos Discreto: GPU de portátil NVIDIA GeForce RTX 3070 Ti (GDDR6 de 8 GB dedicada) tecnología NVIDIA Max-Q, con tecnología de la arquitectura NVIDIA Ampere
+- Memoria 16 GB de RAM DDR5-4800 Mhz (2 x 8 GB)
 - Sistema operativo FreeDOS
 - Pantalla QHD (2560 x 1440) de 16,1" (40,9 cm), 165 Hz, tiempo de respuesta de 3 ms, IPS, microborde, antirreflectante, 300 nits, 100% sRGB
-- Memoria 16 GB de RAM DDR5-4800 Mhz (2 x 8 GB)
+- Gráficos Discreto: GPU de portátil NVIDIA GeForce RTX 3070 Ti (GDDR6 de 8 GB dedicada) tecnología NVIDIA Max-Q, con tecnología de la arquitectura NVIDIA Ampere
+- Almacenamiento interno SSD PCIe NVMe TLC M.2 de 512 GB
 - Procesador Intel Core i7-12700H (hasta 4,7 GHz con tecnología Intel Turbo Boost, 24 MB de caché L3, 14 núcleos, 20 subprocesos)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

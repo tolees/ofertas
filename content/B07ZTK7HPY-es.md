@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca: Tescoma.
 - Tapa sólida de cristal / acero inoxidable con una apertura para el vapor, asas de acero inoxidable a prueba de agua y fondo para inducción.
+- Marca: Tescoma.
 - Apta para todo tipo de cocinas y hornos (hasta 200 °C con la tapa aplicada).
 
 [🛒 Visítala!!!]({{< param buyurl >}})

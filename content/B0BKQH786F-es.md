@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con prácticas y materiales sostenibles
 - Ajuste relajado
+- Fabricado con prácticas y materiales sostenibles
 - Inspirado en los años 90
 - Pierna recta
 

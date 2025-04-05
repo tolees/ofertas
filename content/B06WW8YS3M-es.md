@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Iluminación LED
-- Índice de protección IP 44
-- Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen. Este producto contiene una fuente luminosa de rating F.
 - Antracita
+- Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen. Este producto contiene una fuente luminosa de rating F.
 - 7,6 x 6 x 42 cm
+- Índice de protección IP 44
 - Fácil instalación
 
 [🛒 Aquí!!!]({{< param buyurl >}})

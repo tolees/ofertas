@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Duerme cómodamente
-- Saco de dormir
 - Práctico para viajes
+- Saco de dormir
+- Duerme cómodamente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07QP5ZRM7{{</world>}}

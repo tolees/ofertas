@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Otras funciones: admite retención de datos, zumbador de continuidad, prueba de voltaje sin contacto, función en vivo con alarma de sonido y luz. Fluctuaciones mínimas/máximas de la señal registrada.
 - Amplia gama de aplicaciones: los multímetros digitales están diseñados para ser seguros y precisos, y se pueden usar fácilmente en tomas de corriente domésticas, fusibles, baterías (incluidos los vehículos), solución de problemas de circuitos automotrices, sistemas de carga, pruebas electrónicas automotrices y más.
 - Conveniente y Seguro: diseño práctico con pantalla retroiluminada, ranura trasera para bolígrafo e imanes colgantes. Los fusibles dobles pueden proteger eficazmente el multímetro y su seguridad, con protección contra quemaduras y sobrecarga.
-- Servicio al cliente: Este multímetro digital contiene el multímetro, los cables de prueba, el termopar, la batería, el fusible y el manual del usuario.
 - Multímetro digital multifunción: el multímetro digital puede medir hasta 750 V de voltaje de CA, 1000 V de voltaje de CC, 20 A de corriente CA/CC y 60 MΩ de resistencia, el probador eléctrico también puede probar temperatura, capacitancia, frecuencia, ciclo de trabajo, conmutación de cables y diodos de prueba y continuidad.
+- Servicio al cliente: Este multímetro digital contiene el multímetro, los cables de prueba, el termopar, la batería, el fusible y el manual del usuario.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B2BT7SQS{{</world>}}

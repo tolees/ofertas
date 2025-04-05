@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Forma del tacón: plano
-- Resistencia al agua: no impermeable
-- Ancho del zapato: medio
 - Material interior: sintético
+- Ancho del zapato: medio
+- Resistencia al agua: no impermeable
 - Material exterior: sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

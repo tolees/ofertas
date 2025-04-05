@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El producto está destinado a uso doméstico
-- Función rotatoria y asiento ajustable en altura que incluye una palanca para elevación con inyección de gas manual
-- Material: Asiento de acolchado ligero con piel artificial negra realista y puntadas verticales. Base móvil en metal cromado con 5 ruedas con frenos
-- Dimensiones: 90 x 45 x 56 cm (altura x anchura x profundidad) | Altura del asiento: 42-52 cm. Altura de los reposabrazos: 20 cm
 - Cumple el estándar de resistencia a la combustión de EN 1021-1
+- Función rotatoria y asiento ajustable en altura que incluye una palanca para elevación con inyección de gas manual
+- El producto está destinado a uso doméstico
 - Diseño moderno y elegante ideal para el ocio
+- Dimensiones: 90 x 45 x 56 cm (altura x anchura x profundidad) | Altura del asiento: 42-52 cm. Altura de los reposabrazos: 20 cm
+- Material: Asiento de acolchado ligero con piel artificial negra realista y puntadas verticales. Base móvil en metal cromado con 5 ruedas con frenos
 - Requiere un montaje mínimo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FUERZA DE EMPUJE | Son monofilamentos y es el material de menor fuerza de empuje. En las distancias mayores de 20m sus prestaciones son críticas. Frente a un obstáculo importante serpenteará ocupando todo el tubo.
-- ROZAMIENTO | Es el material de mayor efecto memoria, por tanto el que presenta más puntos de rozamiento.
-- AGILIZA TU OBRA | Es el complemento ideal para el trabajo del instalador facilitando la introducción y dirección del cableado electrico. Tanto para uso doméstico como profesional.
-- FUERZA DE TORSIÓN | El material presenta una forma original curva y su comportamiento en espiral es acentuado. Al ejercer torsión por un lado se consigue un ligero movimiento de giro en el otro extremo
 - APLICACIONES | Herramienta perfecta para obras de telecomunicaciones, cables electricos, paredes, conductos de suelo y cualquier otra instalación de cableado.
+- ROZAMIENTO | Es el material de mayor efecto memoria, por tanto el que presenta más puntos de rozamiento.
+- FUERZA DE TORSIÓN | El material presenta una forma original curva y su comportamiento en espiral es acentuado. Al ejercer torsión por un lado se consigue un ligero movimiento de giro en el otro extremo
+- AGILIZA TU OBRA | Es el complemento ideal para el trabajo del instalador facilitando la introducción y dirección del cableado electrico. Tanto para uso doméstico como profesional.
+- FUERZA DE EMPUJE | Son monofilamentos y es el material de menor fuerza de empuje. En las distancias mayores de 20m sus prestaciones son críticas. Frente a un obstáculo importante serpenteará ocupando todo el tubo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01NAZMW8O{{</world>}}

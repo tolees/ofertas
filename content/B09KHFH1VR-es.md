@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado óptimo Nylon para monturas del mundo que proporciona flexibilidad y resistencia.
-- Lentes categoría 3 y protección UV400 que ofrecen una protección antideslumbrante, lentes de TR18 con el sello de Eastman
-- Producto Oficial Hawkers, incluye funda en microfibra y caja.
 - Presentamos RAW, nuestra primera colección con sello de calidad Made In Spain, este modelo cuenta con un brillo intenso, montura negra y lentes oscuras.
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado óptimo Nylon para monturas del mundo que proporciona flexibilidad y resistencia.
+- Producto Oficial Hawkers, incluye funda en microfibra y caja.
+- Lentes categoría 3 y protección UV400 que ofrecen una protección antideslumbrante, lentes de TR18 con el sello de Eastman
 - Modelo unisex, medidas: frontal 141 mm, patillas 140 mm, puente 17 mm, diámetro de lente 55.7 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

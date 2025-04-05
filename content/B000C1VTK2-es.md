@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene 100 ml.
-- Este producto está indicado para hombres.
 - De la marca Calvin Klein.
+- Este producto está indicado para hombres.
+- Contiene 100 ml.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000C1VTK2{{</world>}}

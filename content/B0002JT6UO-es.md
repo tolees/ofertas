@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta calidad
 - Producto fabricado con materiales duraderos
+- Alta calidad
 - Se adapta a sierras de corona de 32 hasta 210mm de diámetro
 - Resistente al uso
 

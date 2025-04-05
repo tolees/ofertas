@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Zapatos deportivos
-- Estilo simple
 - Ajuste regular
+- Estilo simple
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B3LG2DJJ{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Embalado con cosas naturales
+- Apto para veganos
 - 100% aceites esenciales
 - Aroma a menta y árbol de té
-- Apto para veganos
-- Embalado con cosas naturales
 - Fragancias naturales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología Omni-Wick, Cinta elástica vista, Gran logo Columbia sobre el dobladillo de la pierna derecha
-- Contenido: 1x Columbia Mujer Mallas Hike, XL/R, Nocturnal (Azul)
-- Tejido ligero y suave, Lavable a máquina, Disponible en varios colores
 - Confeccionada en un cómodo tejido elástico que se adapta y se mueve contigo
 - De cintura media y ajustados, los leggings están pensados para un rendimiento activo
+- Contenido: 1x Columbia Mujer Mallas Hike, XL/R, Nocturnal (Azul)
+- Tecnología Omni-Wick, Cinta elástica vista, Gran logo Columbia sobre el dobladillo de la pierna derecha
+- Tejido ligero y suave, Lavable a máquina, Disponible en varios colores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09KMZP842{{</world>}}

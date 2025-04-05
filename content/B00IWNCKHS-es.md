@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se cierra con cremallera y botón.
-- Fabricante: SOLO
 - Marca: SOLO
+- Fabricante: SOLO
+- Se cierra con cremallera y botón.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IWNCKHS{{</world>}}

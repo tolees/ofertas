@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura ajustable
 - Pierna ligeramente cónica
+- Cintura ajustable
 - Diseño tradicional de cinco bolsillos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

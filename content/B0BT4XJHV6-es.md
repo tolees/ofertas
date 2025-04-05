@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Punta
 - Suela de goma
 - Zapato de mujer
-- Punta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT4XJHV6{{</world>}}

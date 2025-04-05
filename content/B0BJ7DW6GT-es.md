@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido del envío – NIVEA Derma Skin Clear Peeling Exfoliante de Noche, exfoliante de textura no grasa y rápida absorción, compatibilidad con la piel dermatológicamente comprobada, 1 x 40 ml
 - Piel limpia – Este exfoliante de cuidado facial desobstruye los poros y reduce las machas, perfeccionando el aspecto de la piel. Dermatológicamente comprobado.
 - Clear Skin – La fórmula de crema exfoliante para pieles con imperfecciones contiene niacinamida y una alta concentración de ácido salicílico y glicólico (8%)
 - Regenerador facial – Este peeling facial exfoliante de NIVEA favorece el proceso natural de renovación de la piel y mejora su aspecto en tan solo 7 días
+- Contenido del envío – NIVEA Derma Skin Clear Peeling Exfoliante de Noche, exfoliante de textura no grasa y rápida absorción, compatibilidad con la piel dermatológicamente comprobada, 1 x 40 ml
 - Reduce las manchas – Esta crema de noche exfoliante está específicamente formulada para reducir las manchas de manera visible y prevenir su reaparición
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de tracción de apoyo
 - Diseño de sandalia de pescador con nube arcoíris iluminada
 - Plantilla acolchada y cómoda
+- Suela de tracción de apoyo
 - Parte superior sintética con estampado de nubes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

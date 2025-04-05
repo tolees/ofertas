@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello redondo
-- Camiseta de manga corta
 - corte normal
+- Camiseta de manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQ2G5K7H{{</world>}}

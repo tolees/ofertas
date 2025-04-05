@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo impreso en el pecho
 - Corte normal
 - Lavar con colores similares
+- Logotipo impreso en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B4X7M8FJ{{</world>}}

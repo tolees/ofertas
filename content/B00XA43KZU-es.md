@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una fragancia suave y cálida inspirada en el frescor que el suavizante FLOR deja en tu ropa recién lavanda
 - Elije tres niveles de intensidad para conseguir tu nivel de fragancia ideal
+- Una fragancia suave y cálida inspirada en el frescor que el suavizante FLOR deja en tu ropa recién lavanda
 - Neutraliza olores y perfuma tu hogar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

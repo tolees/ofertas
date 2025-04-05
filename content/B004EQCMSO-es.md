@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 260 gramos
 - Ancho: 26 x Alto: 1,2 x Largo: 32 cm
 - Carpetas para archivo - Carpetas
+- 260 gramos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004EQCMSO{{</world>}}

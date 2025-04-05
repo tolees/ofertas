@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Official Guzzini Product – Fabricado en Italia desde 1912
 - Dimensiones: 25,5 x 25,5 x h11,5 cm
+- Official Guzzini Product – Fabricado en Italia desde 1912
 - Colección: Gocce - Designer: Elisabeth Vidal
 - Producto de optimo calidad
 

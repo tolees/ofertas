@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo del felino PUMA en la pernera izquierda
-- Bolsillos laterales
-- Largo por encima de la rodilla
-- Parte inferior abierta
 - Cinturilla elástica
+- Bolsillos laterales
+- Parte inferior abierta
+- Logotipo del felino PUMA en la pernera izquierda
+- Largo por encima de la rodilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07X8PG8YH{{</world>}}

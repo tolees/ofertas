@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chaqueta de punto de corte largo
-- Mezcla de viscosa
-- Patrón de rayas
 - Dos bolsillos delanteros
+- Patrón de rayas
 - Mangas largas con puños de punto
+- Mezcla de viscosa
+- Chaqueta de punto de corte largo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KYFFCSW{{</world>}}

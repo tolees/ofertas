@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligero y cómodo
 - Corte
+- Ligero y cómodo
 - Manga corta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

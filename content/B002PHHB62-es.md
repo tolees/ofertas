@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 125 gr/m: La versión más ligera de nuestra gama merino, ideal para tiempo suave.
-- Perfecto para andar o prácticas deportivas de intensidad moderada.
 - Fabricado en lana merino 100% natural para proteger con máxima comodidad.
 - La opción ecológica: lana merino 100% natural.
+- 125 gr/m: La versión más ligera de nuestra gama merino, ideal para tiempo suave.
+- Perfecto para andar o prácticas deportivas de intensidad moderada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002PHHB62{{</world>}}

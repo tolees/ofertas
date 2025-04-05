@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Reúnete con tus amigos y forma el mejor grupo para crear el más grande y espectacular parque de dinosaurios del mundo!
-- Número de jugadores: de 2 a 6 jugadores
-- Cada jugador deberá asumir un rol y planear las excavaciones de fósiles, trabajar en el laboratorio de ADN, construir jaulas para dinosaurios, y administrar las finanzas del parque.
 - Edad Recomendada: +12 años.
 - ¿Estás preparado para estar a cargo de un parque repleto de feroces e increíbles dinosaurios?
+- Cada jugador deberá asumir un rol y planear las excavaciones de fósiles, trabajar en el laboratorio de ADN, construir jaulas para dinosaurios, y administrar las finanzas del parque.
+- Número de jugadores: de 2 a 6 jugadores
+- ¡Reúnete con tus amigos y forma el mejor grupo para crear el más grande y espectacular parque de dinosaurios del mundo!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08M3KX39T{{</world>}}

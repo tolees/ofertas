@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatos para correr
-- Suela interna transpirable
 - Punta Protection,
+- Suela interna transpirable
+- Zapatos para correr
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B27TBJR3{{</world>}}

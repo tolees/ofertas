@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado con tela 100% reciclada
 - Chaqueta acolchada corta esencial, con capucha desmontable
 - Logotipo de parche de goma en la manga con cremallera frontal central con tirador adicional con bolsillo de parche en la manga
+- Fabricado con tela 100% reciclada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS56TZZ9{{</world>}}

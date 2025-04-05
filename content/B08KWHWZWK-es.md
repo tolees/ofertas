@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gráfico estampado de caucho en el pecho
 - Cuello redondo acanalado
-- Manga corta
-- Bajo recto
 - Etiqueta tejida en la parte inferior delantera
+- Gráfico estampado de caucho en el pecho
+- Bajo recto
+- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KWHWZWK{{</world>}}

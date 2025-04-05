@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ergonómico y delgado para un fácil manejo
 - Incluye taladro atornillador, atornillador impacto, maletín y 2 baterías
+- Diseño ergonómico y delgado para un fácil manejo
 - Para uso profesional y doméstico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de modelo: 079529
 - PUMA Challenger Bolsa de lona XS
+- Número de modelo: 079529
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1VT6CKG{{</world>}}

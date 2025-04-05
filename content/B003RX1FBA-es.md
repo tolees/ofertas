@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: Textil
-- Cierre: Cordones
 - Anchura del zapato: Normal
-- Tipo de talla: Talla estándar
 - Tipo de tacón: Plano
+- Cierre: Cordones
+- Tipo de talla: Talla estándar
+- Composición: Textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B003RX1FBA{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No meter en la secadora; no planchar; no lavar en seco
 - Peluche reversible: por un lado es un tipo de sushi y al darle la vuelta aparece otro
-- Óptimo para regalar
 - Cuidados: lavar a mano; no usar lejía
+- No meter en la secadora; no planchar; no lavar en seco
+- Óptimo para regalar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB1NRWJ9{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protege contra las caries, la placa, los problemas de encías, la sensibilidad, las manchas, el mal aliento, el sarro y la erosión del esmalte
 - Protección 24 horas frente a la placa si se usa dos veces al día
-- Suave, sin sensación de ardor
 - Intenso sabor a menta fresca
-- Probado cínicamente
+- Protege contra las caries, la placa, los problemas de encías, la sensibilidad, las manchas, el mal aliento, el sarro y la erosión del esmalte
 - Sabor menta fresca
+- Suave, sin sensación de ardor
+- Probado cínicamente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00J5G43XU{{</world>}}

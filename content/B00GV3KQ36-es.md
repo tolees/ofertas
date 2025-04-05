@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disponible en diferentes colores
 - Prenda extremadamente elástica
-- Apertura con cremallera y botón, trabillas en la cintura, cinturón ajustable integrado, dos bolsillos laterales con cremallera y uno en la parte posterior, logotipo CMP en la parte inferior y en la parte posterior
 - Bermudas idóneas para acompañar todas tus experiencias al aire libre
+- Disponible en diferentes colores
+- Apertura con cremallera y botón, trabillas en la cintura, cinturón ajustable integrado, dos bolsillos laterales con cremallera y uno en la parte posterior, logotipo CMP en la parte inferior y en la parte posterior
 - La tecnología CMP Dry Function permite que el cuerpo permanezca seco y en total bienestar incluso durante la actividad deportiva intensa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

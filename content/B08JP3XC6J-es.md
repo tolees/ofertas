@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hace que el pelo tenga un aspecto más saludable y flexible
 - Tratamiento acondicionador intensivo
-- El extracto de pomelo aporta una potente mezcla antioxidante
-- Mascarillas capilares inspiradas en las rutinas de belleza coreanas
-- Como una mascarilla facial pero para el pelo
-- Gorro de ducha ridículamente adorable
-- Mascarilla capilar Bear Fruits para un tratamiento capilar de hasta 30 minutos
 - Ingredientes: Aqua, Stearyl Alcohol, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Benzyl Alcohol, Parfum, Dicetyldimonium Chloride, Glutamic Acid, PEG-2M, Limonene, Propylene Glycol, Disodium EDTA, Bis-Aminopropyl Dimethicone, Citric Acid, Linalool, Histidine, Citronellol, Mentha Piperita Oil, Menthol, Mentha Arvensis Leaf Oil, Butylene Glycol, Magnesium Nitrate, Silica, Aloe Barbadensis Leaf Juice, Ecklonia Radiata Extract, Verbena Officinalis Leaf Extract, Citrus Grandis Fruit Extract, Citrus Aurantium Bergamia Fruit Extract, Alcohol Denaturated, Triacetin, Metchyloroisothiazolinone, Magnesium Chloride, BHT, Methylisothiazolinone
+- Gorro de ducha ridículamente adorable
+- Mascarillas capilares inspiradas en las rutinas de belleza coreanas
+- El extracto de pomelo aporta una potente mezcla antioxidante
+- Hace que el pelo tenga un aspecto más saludable y flexible
+- Como una mascarilla facial pero para el pelo
+- Mascarilla capilar Bear Fruits para un tratamiento capilar de hasta 30 minutos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08JP3XC6J{{</world>}}

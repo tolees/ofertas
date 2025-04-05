@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parte superior textil recubierta
+- Corte regular
 - Suela firme
 - Construcción sin cordones
-- Corte regular
-- Parte superior textil recubierta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3WHDLQL{{</world>}}

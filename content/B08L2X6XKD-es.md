@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes seleccionados
-- Alta calidad
 - Brand: KATIVA
+- Alta calidad
 - KERATIN POST ALISADO EXPRESS LOTE 2 pz
+- Ingredientes seleccionados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08L2X6XKD{{</world>}}

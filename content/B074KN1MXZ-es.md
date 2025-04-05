@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sandalia naranja transparente apta tanto para niñas como para niños
 - Sandalia apta tanto para el mar como para la piscina
+- Sandalia naranja transparente apta tanto para niñas como para niños
 - Sandalia semicerrada Chicco con cierre ajustable en el tobillo
 - La talla 25 corresponde a una longitud de pie de 156 mm
 - Sandalia de PVC. Los zapatos Chicco son cómodos, flexibles, ligeros, transpirables y prácticos

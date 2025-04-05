@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - IRWIN, 133 years of ingenuity and excellence
-- De la marca Irwin
 - Modelo IW10505705
+- De la marca Irwin
 - Producto de alta calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

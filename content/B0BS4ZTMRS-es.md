@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chino de ajuste holgado con entrepierna caída y pierna recta
 - Fabricado con al menos 70% algodón sostenible
+- Chino de ajuste holgado con entrepierna caída y pierna recta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS4ZTMRS{{</world>}}

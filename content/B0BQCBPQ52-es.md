@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Marca: Quiksilver
-- Tela suave
 - Ajuste regular
+- Tela suave
 - Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

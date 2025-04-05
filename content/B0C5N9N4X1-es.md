@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - POKEMON ESPECIAL: El paquete incluye una combinación de 24 SORPRESAS con figuras y accesorios
-- SORPRESAS DIARIAS: llevate una sorpresa POKEMON cada dia
 - CALENDARIO DE ADVIENTO: Celebre la temporada festiva con el calendario de Pokémon
 - PRODUCTO OFICIAL: Producto Pokémon con licencia oficial
+- SORPRESAS DIARIAS: llevate una sorpresa POKEMON cada dia
 - ACABADO NACARADO: Todas las figuras incluidas tienen un acabado nacarado para celebrar la temporada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

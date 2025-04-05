@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula perfumada, hipoalergénica, no comedogénica, sin secado, libre de parabenos, sin jabón y libre de agentes colorantes
-- Limpia y purifica suavemente
-- Limita la formación de imperfecciones gracias al complejo sebo-correctivo Fluidactiv, que regula biológicamente la calidad del sebo
 - Enriquecido con agentes purificadores, sulfato de cinc y sulfato de cobre
+- Limpia y purifica suavemente
+- Fórmula perfumada, hipoalergénica, no comedogénica, sin secado, libre de parabenos, sin jabón y libre de agentes colorantes
+- Limita la formación de imperfecciones gracias al complejo sebo-correctivo Fluidactiv, que regula biológicamente la calidad del sebo
 - Ingredientes: Agua
 - Purifica la piel y limita la secreción sebácea
 

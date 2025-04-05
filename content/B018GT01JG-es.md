@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Permite el ajuste de la carrera pendular de 4 niveles, regulación del número de carreras, agarre suave Softgrip
-- Incluye: GST 8000 E, protección antiastillado, hoja de sierra T 144 D Speed for Wood, en caja de cartón
 - Sierra de calar Bosch Professional con una excelente relación calidad-precio
+- Incluye: GST 8000 E, protección antiastillado, hoja de sierra T 144 D Speed for Wood, en caja de cartón
 - Manejo sencillo gracias al cambio de la hoja de sierra SDS sin herramientas y con una sola mano
+- Permite el ajuste de la carrera pendular de 4 niveles, regulación del número de carreras, agarre suave Softgrip
 - Motor potente de 710 W para agilizar el avance de la sierra y una alta capacidad de corte
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

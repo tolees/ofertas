@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con cuello redondo
 - Con rayas en varios tonos
+- Con Detalle de botones en los puños
 - JerseY ajustado De manga larga
 - Con frunces en los hombros
-- Con Detalle de botones en los puños
-- Con cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCSR78HY{{</world>}}

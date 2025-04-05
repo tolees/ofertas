@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caja registradora con escáner de código de barras, teléfono y micrófono. Hasta 31 accesorios
-- Adecuado a partir de 18 meses
-- Fabricado en Francia
 - Incluye una cesta, una tarjeta de crédito, un micrófono, un escáner, un terminal de pago, una balanza para frutas y verduras y una cesta de la compra
+- Adecuado a partir de 18 meses
 - 3-en-1: cesta de la compra, mostrador de supermercado y caja "check out"
+- Fabricado en Francia
+- Caja registradora con escáner de código de barras, teléfono y micrófono. Hasta 31 accesorios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09W9P31XD{{</world>}}

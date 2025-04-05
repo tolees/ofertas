@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Ligera & Cómoda】 Esta aspiradora pesa solo 1.9 KG, por lo que es fácil de manejar y transportar de una estancia a otra. El cable es de 5 metros y el cuerpo cuenta con un tubo telescópico lo que permite aspirar cómodamente estancias de cualquier tamaño.
-- 【Práctica】Aspire en cualquier momento el ruido de la aspiradora es inferior a 70 dB por lo que no es tan molesto como otros aspiradores, además su depósito de polvo es de 1 litro por lo que no tiene que vaciarlo de forma continua y puede almacenarla colgándola de la pared por lo que ocupa muy poco espacio.
 - 【Sistema de filtración dual HEPA】 El aspirador cuenta con un sistema de filtración HEPA que absorbe hasta las más minúsculas partículas de polvo y reduce el contenido de partículas alérgicas del ambiente lo que mejora la calidad de aire de su hogar.
 - 【2 en 1 Aspirador vertical y de mano】 Disfrute de la comodidad de tener 2 aparatos en 1, solo necesita un paso: quitar el tubo telescópico y cambiar el cepillo para pasar de aspirador vertical a aspirador de mano y así realizar una aspiración completa con un solo aparato.
+- 【Práctica】Aspire en cualquier momento el ruido de la aspiradora es inferior a 70 dB por lo que no es tan molesto como otros aspiradores, además su depósito de polvo es de 1 litro por lo que no tiene que vaciarlo de forma continua y puede almacenarla colgándola de la pared por lo que ocupa muy poco espacio.
 - 【Gran capacidad de succión】 El aspirador de mano y vertical tiene una potencia de 600 W ,que le permitirá aspirar hasta la suciedad y el polvo fino más resistente en cualquier tipo de superficie.
+- 【Ligera & Cómoda】 Esta aspiradora pesa solo 1.9 KG, por lo que es fácil de manejar y transportar de una estancia a otra. El cable es de 5 metros y el cuerpo cuenta con un tubo telescópico lo que permite aspirar cómodamente estancias de cualquier tamaño.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091XXXMND{{</world>}}

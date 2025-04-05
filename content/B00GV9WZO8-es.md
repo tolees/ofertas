@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 10 punta, hexágono interior 1/16" - 1/4" | 6 punta, hexágono interior con perforación 2 - 6 mm | 6 punta, hexágono interior con perforación 2/16" - 5/32" | 4 punta, 2 clavijas tamaño 4 - 10 | 3 punta, perfil en doble v tamaño 1 - 3 | 3 punta, estrella especial tamaño 6 - 10 | 3 punta, dentado múltiple interior (para xzn) m5 - m8 | 4 punta, cuadrado tamaño 0 - 3 | 4 punta, 3 clavijas tamaño 1 - 4
 - Contenido de suministro: adaptador cuadrado 6,3 mm (1/4"), longitud 25 mm / 50 mm | portapuntas, longitud 60 mm | punta para ganchos roscados | 10 llaves de vaso hexagonal 4 - 13 mm | 10 x llave de vaso hexagonal 5/32" - 1/2" | 9 punta, plano 3 - 8 mm | 8 punta, cruzph0 - ph3 | 8 punta, cruz pz0 - pz3 | 10 punta, perfil en t (para torx) t8 - t45 | 10 punta, perfil en t (para torx) con perforación t8 - t40 | 9 punta, hexágono interior 1,5 - 8 mm
+- 10 punta, hexágono interior 1/16" - 1/4" | 6 punta, hexágono interior con perforación 2 - 6 mm | 6 punta, hexágono interior con perforación 2/16" - 5/32" | 4 punta, 2 clavijas tamaño 4 - 10 | 3 punta, perfil en doble v tamaño 1 - 3 | 3 punta, estrella especial tamaño 6 - 10 | 3 punta, dentado múltiple interior (para xzn) m5 - m8 | 4 punta, cuadrado tamaño 0 - 3 | 4 punta, 3 clavijas tamaño 1 - 4
 - Hecho de acero al cromo vanadio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

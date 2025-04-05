@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de la suela: caucho
 - Cierre: cordones
+- Material de la suela: caucho
 - Zapatillas de la marca Asics
 
 [🛒 Visítala!!!]({{< param buyurl >}})

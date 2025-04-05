@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- metallabdeckung, aluminiumabdeckung
 - 7 Tasten gegen ghosting
+- metallabdeckung, aluminiumabdeckung
 - Super schlanke federung gaming-tastatur
 - Hintergrundbeleuchtung mit 7 Farben
 

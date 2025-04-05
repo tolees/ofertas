@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine de malla jacquard
 - Talón AHARPLUS
+- Empeine de malla jacquard
 - Tecnología GEL
 
 [🛒 Comprar!!!]({{< param buyurl >}})

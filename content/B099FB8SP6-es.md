@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Vegano
 - Lavable a máquina
 - MF refrigerado por aire
-- Vegano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B099FB8SP6{{</world>}}

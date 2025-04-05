@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bolsillos laterales ribeteados
-- Cuello alto acolchado
-- Cremallera frontal
 - Resistente al agua
+- Cremallera frontal
+- Cuello alto acolchado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS55VYW4{{</world>}}

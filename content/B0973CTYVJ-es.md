@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Funda de juego con licencia oficial para Nintendo Switch y Nintendo Switch Lite Moldeado interior con forro de felpa y rejilla de almacenamiento con cremallera ideal para ambos sistemas
 - Funda de transporte de Nintendo Switch con garantía limitada de 2 años
+- Funda de juego con licencia oficial para Nintendo Switch y Nintendo Switch Lite Moldeado interior con forro de felpa y rejilla de almacenamiento con cremallera ideal para ambos sistemas
 - Funda exterior sólida con asa de caucho y cremalleras dobles resistentes
 - La solapa protectora de pantalla acolchada integrada incluye almacenamiento de juegos para seis tarjetas de juego
 

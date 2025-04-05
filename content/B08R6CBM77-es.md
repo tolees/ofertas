@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Visita la tienda urban classics: un clic en el enlace te llevará a la tienda urban classics brand store y aún más elegante ropa de calle para hombre y mujer
-- Camisa de manga corta para hombre con estampado floral
-- De viscosa, corte estándar
 - Cuello vuelto
 - Tira de botones
+- Visita la tienda urban classics: un clic en el enlace te llevará a la tienda urban classics brand store y aún más elegante ropa de calle para hombre y mujer
+- De viscosa, corte estándar
+- Camisa de manga corta para hombre con estampado floral
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08R6CBM77{{</world>}}

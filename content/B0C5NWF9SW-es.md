@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mediasuela Cloudfoam
 - Cierre de cordones
+- Mediasuela Cloudfoam
 - Suela de goma
 - Horma clásica
 

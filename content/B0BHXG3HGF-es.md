@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con cuello acado fino
-- Corte regular
 - Elástico natural
+- Corte regular
+- Con cuello acado fino
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BHXG3HGF{{</world>}}

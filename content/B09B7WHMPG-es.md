@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de caucho con reciclado EVA
 - Sandalia plana de cuero para mujer
 - Horma Confort
+- Suela de caucho con reciclado EVA
 - Chrome Free Interior
 
 [🛒 Visítala!!!]({{< param buyurl >}})

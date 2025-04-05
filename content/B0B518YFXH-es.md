@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela exterior: __ Suela de EVA con detalle ROXY
 - __ Plantilla: __ Plantilla de EVA de doble densidad con gráficos
+- Suela exterior: __ Suela de EVA con detalle ROXY
 - Material exterior: bandas suaves de dos colores TPR con logotipo de corazón ROXY
 
 [🛒 Aquí!!!]({{< param buyurl >}})

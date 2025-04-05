@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Bolígrafo con tinta borrable
+- Margarita de caucho
 - Color de la tinta: negro
 - Optimo para la vuelta al col
-- Margarita de caucho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C62KTZH6{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- No mancha
 - Soluble en agua y libre de grasas
-- Ingredientes: agua, glicerina, hidroxietil celulosa, metil-paraben
 - 100% compatible con preservativos
 - Ph óptimo
-- No mancha
+- Ingredientes: agua, glicerina, hidroxietil celulosa, metil-paraben
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001FRZX54{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El juego en Nintendo Switch viene en un código para descargar
 - EL MUNDO ES TU LIENZO: Crea arte mientras limpias a tu gusto; tus boquillas son tus pinceles, el barrio es tu lienzo; da rienda suelta a tu creatividad y transforma la suciedad común y corriente en una obra de arte; comparte tu técnica y saca a relucir tu talento con la hidro limpiadora y tus obras maestras
+- DIVERSIÓN PURA Y DURA: Pintadas, mugre, musgo, moho; no hay suciedad que sobreviva a tu arsenal de limpiadoras, boquillas, líquidos limpiadores y extensiones; hay tipos de suciedad que son más resistentes que otros, por eso debes usar tu equipo de forma táctica
 - ESTE BARRIO NECESITA UN LAVADO DE CARA: Crea tu negocio en el Modo carrera y completa una serie de trabajillos en la mugrienta ciudad de Muckingham; no lo puedes hacer ni bien ni mal, no hay límites de tiempo ni puntuaciones finales, solo estás tú y la mejor herramienta para liberar tensiones; si prefieres hacer borrón y cuenta, relájate volviendo a jugar tus trabajos favoritos en Partida libre
 - ACABA CON LA SUCIEDAD Y RELÁJATE: Relájate con tus amigos en el cooperativo en línea; échale una mano a un colega en el modo Carrera o salpícalo todo en grupos de hasta 6 amigos en el modo libre, en los trabajos que el anfitrión ya haya completado
-- DIVERSIÓN PURA Y DURA: Pintadas, mugre, musgo, moho; no hay suciedad que sobreviva a tu arsenal de limpiadoras, boquillas, líquidos limpiadores y extensiones; hay tipos de suciedad que son más resistentes que otros, por eso debes usar tu equipo de forma táctica
-- El juego en Nintendo Switch viene en un código para descargar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2DGS1ST{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de malla transpirable
-- Zapatillas deportivas
 - Estilo de running de los años 90
+- Zapatillas deportivas
+- Parte superior de malla transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HHQJPPP{{</world>}}

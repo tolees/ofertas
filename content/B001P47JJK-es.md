@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protector sobretensión para la toma de corriente: Protección contra sobretensiones para los aparatos eléctricos conectados, indicador luminoso de protección activa
-- Volumen de suministro: 1x adaptador de enchufe Primera-Line para la toma de corriente con protección contra sobretensiones - en la calidad de Brennenstuhl
 - Adaptador de enchufe de toma tierra con protección antirayos para dispositivos eléctricos, enchufe con protección contra el contacto accidental
+- Volumen de suministro: 1x adaptador de enchufe Primera-Line para la toma de corriente con protección contra sobretensiones - en la calidad de Brennenstuhl
+- Protector sobretensión para la toma de corriente: Protección contra sobretensiones para los aparatos eléctricos conectados, indicador luminoso de protección activa
 - El enchufe protección protege los dispositivos valiosos contra sobretensiones con una corriente de fuga máxima de hasta 13.500 A (protección durante tormentas eléctricas, rayos, etc.)
 - Potente protección contra sobretensiones compuesta por descargadores de gas y varistores de óxido metálico con protección térmica
 

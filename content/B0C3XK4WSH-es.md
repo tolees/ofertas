@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Escote: redondo
 - Camiseta de rayas en punto suave.
 - Largo de manga: corta
-- Lavar en ciclo de lavado suave a 30°, No usar lejía, No secar en la secadora, Planchar a un máx. 110° (Nivel 1), No limpiar en seco
+- Escote: redondo
 - Nota: la prenda posee un corte más entallado y queda un poco más ajustada.
+- Lavar en ciclo de lavado suave a 30°, No usar lejía, No secar en la secadora, Planchar a un máx. 110° (Nivel 1), No limpiar en seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C3XK4WSH{{</world>}}

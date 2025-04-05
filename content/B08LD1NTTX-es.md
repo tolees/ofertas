@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compra una talla más grande
-- Manga corta
 - Corte entallado
-- 100% algodón
 - Cuello redondo
+- Manga corta
+- 100% algodón
+- Compra una talla más grande
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LD1NTTX{{</world>}}

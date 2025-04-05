@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Largo: normal
-- Straight jeans de denim elástico con arrugas suaves y efectos deslavados.
-- Altura de la cintura: alta/high rise/high cut/high waist
 - Lavar en ciclo de lavado normal a 40°, No usar lejía, Secar en la secadora a temperatura baja, Planchar a un máx. 150° (Nivel 2), Limpieza en seco con percloroetileno
 - Pernera: Straight, diseño recto con la pernera ancha
+- Altura de la cintura: alta/high rise/high cut/high waist
 - Cierre: con botones y cremallera
+- Straight jeans de denim elástico con arrugas suaves y efectos deslavados.
+- Largo: normal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWTNPPNK{{</world>}}

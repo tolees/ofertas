@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AJUSTE CLÁSICO: Ajuste holgado y cómodo en todo el cuerpo
-- DETALLES: Detalle de canalé en el cuello, los puños de las mangas y el dobladillo inferior.
 - ESTILO PARA EL DÍA A DÍA: Este ligero jersey de cuello redondo es de tacto suave y es ideal tanto para llevar varias capas de ropa como para ponértelo solo.
+- DETALLES: Detalle de canalé en el cuello, los puños de las mangas y el dobladillo inferior.
+- AJUSTE CLÁSICO: Ajuste holgado y cómodo en todo el cuerpo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08TXR6THJ{{</world>}}

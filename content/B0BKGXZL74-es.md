@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lavado clásico de enjuague
 - Jeans de ajuste regular
+- Lavado clásico de enjuague
 - Remaches y vástagos de marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

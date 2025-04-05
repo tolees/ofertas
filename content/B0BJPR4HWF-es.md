@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bolsillos de solapa en el pecho, bolsillos en las costuras laterales
+- Cierre de polo alargado con botones
 - Manga semicorta con borde con vuelta
 - Cintura con cordón en la parte posterior
-- Cierre de polo alargado con botones
 - Cuello de camisa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

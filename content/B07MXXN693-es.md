@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Movimiento: cuarzo preciso
 - Caja: caja de acero inoxidable pulido plata, corona estriada, diámetro de 43 mm
 - Pulsera: plata milanesa con cierre desplegable, intercambiable
 - Resistencia al agua: 5 bar/50 m a prueba de salpicaduras, cristal mineral
+- Movimiento: cuarzo preciso
 - Esfera: índice de líneas, manecillas plateadas, manecillas luminosas, función de parada con 1/10 segundos hasta 30 minutos, indicador de fecha, tres esferas separadas, texto Calvin Klein
 
 [🛒 Aquí!!!]({{< param buyurl >}})

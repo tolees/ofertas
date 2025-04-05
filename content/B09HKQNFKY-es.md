@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ofrece comodidad y libertad de movimiento
-- Tiene detalles distintivos de la marca
 - Tienen detalles distintivos de la marca
+- Tiene detalles distintivos de la marca
 - Tejido transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

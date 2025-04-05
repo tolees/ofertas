@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cepillos cónicos con alambre trenzado
 - Diámetro mm: 100
-- Para amoladoras angulares y amoladoras rectas
 - Fácil de usar
+- Para amoladoras angulares y amoladoras rectas
+- Cepillos cónicos con alambre trenzado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0053PVZ2E{{</world>}}

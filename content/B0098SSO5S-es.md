@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El diámetro de 142 cm asegura una óptima ventilación incluso en las habitaciones más grandes
-- 142 cm de diámetro para habitaciónes y salas grandes. Apto para techos inclinados gracias a una rotula. Se puede montar directamente en el techo (más plano). Barra de prolonación disponible.
-- diseño moderno y simple - óptimo para cada habitación
 - Operación de verano y operación de invierno para la recuperación de calor (en invierno hasta un 30% de ahorro en costos de calefacción)
+- 142 cm de diámetro para habitaciónes y salas grandes. Apto para techos inclinados gracias a una rotula. Se puede montar directamente en el techo (más plano). Barra de prolonación disponible.
+- El diámetro de 142 cm asegura una óptima ventilación incluso en las habitaciones más grandes
+- diseño moderno y simple - óptimo para cada habitación
 - sin iluminación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

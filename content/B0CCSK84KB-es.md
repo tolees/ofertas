@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Blusa entallada de manga larga
 - Con botones en el delantero y en los puños
-- Con cuello mao Con abertura en el escote
 - Con logo bordado en el lateral
+- Con cuello mao Con abertura en el escote
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CCSK84KB{{</world>}}

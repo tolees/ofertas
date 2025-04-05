@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Usurper se desarrolla en una línea de tiempo alternativa de 1898 en Londres. La ciudad ha sido invadida por la inexplicable Ciudadela, lo que ha causado pánico masivo y ha liberado la enloquecedora Niebla
 - Waltham, el líder de los Veimar, utiliza sus propias fuerzas para ascender a la Ciudadela y desafiar al Navegante por sus propios propósitos
-- La recién coronada Emperatriz Eleanor ha reunido a las fuerzas reales y a sus cuatro Caballeros más leales para ingresar a la Ciudadela, con la esperanza de obtener más información y encontrar una forma de liberar a Londres de este terror
 - Juego de metroidvania, aventura y acción-RPG (Role playing Game) para Nintendo Switch
+- La recién coronada Emperatriz Eleanor ha reunido a las fuerzas reales y a sus cuatro Caballeros más leales para ingresar a la Ciudadela, con la esperanza de obtener más información y encontrar una forma de liberar a Londres de este terror
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C47JTQKM{{</world>}}

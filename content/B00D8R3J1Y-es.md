@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La base con ruedas se ha desarrollado especialmente para usarla con CLASSICO, CANTO, PURO, QUADRO, CURSIVO, HAVALO 60 y CUBE y está perfeccionada para las macetas LECHUZA
 - Base con ruedas para CLASSICO 43, CANTO Wide, QUADRO 43, PURO 50, CUBE Zero 40
 - Práctica base con ruedas para mover fácilmente macetas pesadas, adecuada para reorganizar o ordenar rápidamente situaciones de vivienda
-- La base con ruedas se ha desarrollado especialmente para usarla con CLASSICO, CANTO, PURO, QUADRO, CURSIVO, HAVALO 60 y CUBE y está perfeccionada para las macetas LECHUZA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00D8R3J1Y{{</world>}}

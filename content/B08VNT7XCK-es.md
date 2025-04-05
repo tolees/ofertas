@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Polo de manga corta para hombre
 - Corte entallado, con contraste en el cuello y las mangas, gran comodidad gracias a su fabricación de 100% algodón
+- Polo de manga corta para hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08VNT7XCK{{</world>}}

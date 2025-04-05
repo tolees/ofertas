@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- POLI BÁSICO
 - Chaleco esencial en construcción de sándwich. Logotipo de parche de goma en el pecho. Cremallera frontal central. Construcción de tuberías de cable interior. Bolsa plegable. Carcasa de poliéster 100 % reciclada.
+- POLI BÁSICO
 - Fabricado con tela 100% reciclada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

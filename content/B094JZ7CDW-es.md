@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MODO DE EMPLEO: Humedecer el pelaje con abundante agua tibia. Aplicar el champú en cuello, lomo, manos y patas. Masajear hasta conseguir una abundante y cremosa espuma y dejar actuar unos instantes. Aclarar y dejar que el perro se sacuda. Secar con toalla.
-- INTENSIFICA Y REALZA EL BRILLO: El colágeno de su fórmula revitaliza, hidrata y recupera el aspecto sano y natural del pelaje
-- APTO PARA USO FRECUENTE: Un cosmético que mejora y mantiene la hidratación natural, permitiendo un uso frecuente sin alterar las propiedades protectoras de la piel. pH adaptado al pelaje
 - MENFORSAN: En Menforsan nos preocupamos por la salud de los animales y el cuidado del planeta, por lo que creamos productos naturales vegan friendly de la mejor calidad.
 - PERROS MARRONES: Champú de calidad para perros con pelajes de tonos y colores marrones (Border Collie, Braco, Dachsund, Caniche toy)
+- MODO DE EMPLEO: Humedecer el pelaje con abundante agua tibia. Aplicar el champú en cuello, lomo, manos y patas. Masajear hasta conseguir una abundante y cremosa espuma y dejar actuar unos instantes. Aclarar y dejar que el perro se sacuda. Secar con toalla.
+- APTO PARA USO FRECUENTE: Un cosmético que mejora y mantiene la hidratación natural, permitiendo un uso frecuente sin alterar las propiedades protectoras de la piel. pH adaptado al pelaje
+- INTENSIFICA Y REALZA EL BRILLO: El colágeno de su fórmula revitaliza, hidrata y recupera el aspecto sano y natural del pelaje
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B094JZ7CDW{{</world>}}

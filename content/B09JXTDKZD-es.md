@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Model : L70WIAC19
-- Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Model : L70WIAC19
 - Estilo cinco bolsillos
+- Vaqueros para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JXTDKZD{{</world>}}

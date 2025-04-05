@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto distribuido oficialmente en España por BIZAK
 - Figuras del nuevo mapa nave espacial
-- Pack deluxe con 8 figuras y cada figura lleva un divertido disfraz
+- Producto distribuido oficialmente en España por BIZAK
 - Figuras altamente detalladas; colecciónalas todas
+- Pack deluxe con 8 figuras y cada figura lleva un divertido disfraz
 - Incluye 8 figuras (2 figuras sorpresa) y 5 accesorios extras
 
 [🛒 Visítala!!!]({{< param buyurl >}})

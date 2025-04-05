@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte textil y de ante
-- Horma clásica
-- Suela de goma
 - Forro textil
+- Suela de goma
+- Horma clásica
 - Cierre de cordones
+- Parte textil y de ante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09HZ5Z8LL{{</world>}}

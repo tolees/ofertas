@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Superhéroe en jefe – salta edificios; mata con la mente; atraviesa tanques; estos son solo algunos de los poderes que podrás utilizar en tu aventura
 - Dúo dinámico: el multijugador estándar de Saints Row, con entradas y salidas sin interrupciones, mejorado; lo único mejor que un presidente malvado con superpoderes son dos
 - Juguetes de destrucción alienígena – esgrime una impresionante cantidad de vehículos y armas alienígenas; podrás utilizar el rayo inflador, el polarizador, el desintegrador y muchas más
-- Armas personalizadas, caos personalizado: ahora tienes disponible un profundo sistema de personalización de armas
 - El sueño americano – juega con el presidente de los Estados Unidos en una disparatada historia que cruza fronteras, el espacio y el tiempo; tú serás quien tenga que liberar el mundo, por primera vez en Nintendo Switch
-- Superhéroe en jefe – salta edificios; mata con la mente; atraviesa tanques; estos son solo algunos de los poderes que podrás utilizar en tu aventura
+- Armas personalizadas, caos personalizado: ahora tienes disponible un profundo sistema de personalización de armas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084HBSK9L{{</world>}}

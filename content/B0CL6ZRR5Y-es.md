@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso ligero
 - Suela de tracción flexible
+- Peso ligero
 - Plantilla acolchada y cómoda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

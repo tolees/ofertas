@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nuevo y auténtico. Somos un vendedor autorizado de Calvin Klein.
 - Calvin Klein Negro Camiseta de salón con logotipo de la caja
+- Nuevo y auténtico. Somos un vendedor autorizado de Calvin Klein.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BX9N22G7{{</world>}}

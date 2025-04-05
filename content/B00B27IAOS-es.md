@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ropa casual
 - Informal
 - Ajuste regular
+- Ropa casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00B27IAOS{{</world>}}

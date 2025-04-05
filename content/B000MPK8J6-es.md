@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Punta biselada y Colores intensos
 - Punta en cuña duradera
 - 4 anchos distintos de 1, 2 y 5 mm
 - Ideal para papel convencional
-- Punta biselada y Colores intensos
 - Tinta con base al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

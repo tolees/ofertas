@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños ajustables
-- Corte entallado
-- Cuello inglés
 - Estampado de microrayas
+- Puños ajustables
+- Cuello inglés
+- Corte entallado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5V5DFNX{{</world>}}

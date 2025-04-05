@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Increíble figura de acción de BRAWL STARS Recrea las escenas de aventuras del juego con esta fantástica figura de gran nivel de detalle.
-- Es articulada y mide 11 cm de altura
 - Producto distribuido en España por BIZAK.
 - Incluye 1 figura de Leon y un accesorio.
+- Es articulada y mide 11 cm de altura
 - Ya están aquí las figuras de los personajes del juego multijugador de combate, Brawl Stars
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

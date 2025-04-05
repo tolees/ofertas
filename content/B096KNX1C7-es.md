@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Skechers Detalles del logotipo
 - Skechers Espuma viscoelástica refrigerada por aire
 - Diseño deportivo de moda con cordones
-- Skechers Detalles del logotipo
 - Entresuela ligera que absorbe los golpes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones A x a x P exteriores 46.2 x 27.9 x 31.8 cm; interiores 32.5 x 22.6 x 24.5 cm
-- Temporizador de hasta 120 min y termostato regulable hasta 240
-- Horno de 1380 W con 19 L de capacidad de diseño elegante con acabados en acero inoxidable; horno eléctrico con múltiples modos de cocina por convección con grill, de la cocción tradicional de la descongelación
 - Regulador de temperatura de 100 a 240 grados, con luz termostato que se apaga cuando el horno alcanza la temperatura indicada
 - Accesorios: rejillas reversibles con 6 niveles diferentes y bandeja de horneado
+- Horno de 1380 W con 19 L de capacidad de diseño elegante con acabados en acero inoxidable; horno eléctrico con múltiples modos de cocina por convección con grill, de la cocción tradicional de la descongelación
 - 6 modos de cocción: convección, convencional, parrilla, repostería, baño maría y función de descongelación
+- Temporizador de hasta 120 min y termostato regulable hasta 240
+- Dimensiones A x a x P exteriores 46.2 x 27.9 x 31.8 cm; interiores 32.5 x 22.6 x 24.5 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CI2JX5U{{</world>}}

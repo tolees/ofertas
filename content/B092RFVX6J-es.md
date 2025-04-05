@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad óptima
-- Diseño moderno
 - Conjunto de cama compacta con 2 camas, 1 cajón y estantería
+- Diseño moderno
+- Producto de calidad óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B092RFVX6J{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Extra resistente
 - Recomendado lavar a mano
+- Extra resistente
 - Asas/Mango Acero
 - piedra asar, 2 quemadores
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye mando a distancia para cambio de colores
-- Ilumina su piscina con un bajo consumo, ayudando al medio ambiente
 - Material poliamida y ABS para garantizar su resistencia y durabilidad bajo el agua
 - Proyector LED color para piscinas enterradas y elevadas
+- Ilumina su piscina con un bajo consumo, ayudando al medio ambiente
 - Se recomienda un proyector por cada 20 m2 de superficie de piscina
+- Incluye mando a distancia para cambio de colores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01CGK2GUS{{</world>}}

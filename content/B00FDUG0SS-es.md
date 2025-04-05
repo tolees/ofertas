@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los accesorios se conectan de forma sencilla a la pértiga de 174 cm de longitud para llegar bien a todos los rincones de la piscina
-- Está indicado para piscinas de 396 cm de diámetro como máximo
 - El limpiafondos se debe conectar a la manguera del jardín para que se produzca la succión
+- Está indicado para piscinas de 396 cm de diámetro como máximo
 - El recogehojas tiene una red duradera para retirar hojas y suciedad en la superficie del agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado en material de plástico
 - Para niños a partir de 6 años
-- Coche Audi RS 5 DTM
 - El vehículo viene a una escala de 1:43
+- Fabricado en material de plástico
+- Coche Audi RS 5 DTM
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PTVXHWM{{</world>}}

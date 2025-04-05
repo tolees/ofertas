@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo grande en la parte interior
-- Bolsillos laterales con cremallera
 - Cierre con cremallera
 - Logotipo "C" pequeño impreso en la manga izquierda
+- Logotipo grande en la parte interior
+- Bolsillos laterales con cremallera
 - Logotipo pequeño impreso en el lado del corazón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

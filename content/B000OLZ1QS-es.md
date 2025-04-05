@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La estación ideal: otoño/invierno
-- Talla: 40
-- Material de la suela: goma
-- Adecuado para: hombre
 - Composición del material: cuero
 - Cierre: cordones
+- La estación ideal: otoño/invierno
+- Material de la suela: goma
 - Material interior: tela
 - Material exterior: cuero
+- Adecuado para: hombre
+- Talla: 40
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000OLZ1QS{{</world>}}

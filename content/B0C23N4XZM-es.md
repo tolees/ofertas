@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Consiguiendo que la prenda sea cómoda
-- Custom fit
 - Camisa de manga larga
+- Custom fit
+- Consiguiendo que la prenda sea cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C23N4XZM{{</world>}}

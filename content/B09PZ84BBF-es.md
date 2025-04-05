@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño de cordones
 - Entresuela que absorbe los golpes
+- Diseño de cordones
 - Plantilla extraíble que ayuda a moldearse a tu pie para reducir los golpes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

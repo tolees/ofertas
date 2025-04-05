@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disfruta de un momento de relax con nuestros productos de higiene personal para el día a día.
-- Ayuda que se relajen los músculos adiós al estrés.
-- El contacto del cuerpo con el agua caliente y los minerales de la sal marina hace que se liberen toxinas
 - Ayuda a disminuir el acné
+- Ayuda que se relajen los músculos adiós al estrés.
 - Los baños de sal son muy relajantes.
+- El contacto del cuerpo con el agua caliente y los minerales de la sal marina hace que se liberen toxinas
+- Disfruta de un momento de relax con nuestros productos de higiene personal para el día a día.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07TKMTJM9{{</world>}}

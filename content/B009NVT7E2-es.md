@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pega materiales porosos y no porosos así como todo tipo de materiales.
 - Medida: 25 ml. Adhesivo de tipo Epoxi en Jeringa de 2 componentes.
-- Pegamento ideal para: Metal, cristal, espejos, plásticos, mármol, embarcaciones, madera, piel, etc.
 - Gran capacidad de relleno para fisuras y agujeros.
+- Pega materiales porosos y no porosos así como todo tipo de materiales.
 - Es un adhesivo fuerte y duradero, de secado rápido y acabado transparente.
+- Pegamento ideal para: Metal, cristal, espejos, plásticos, mármol, embarcaciones, madera, piel, etc.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B009NVT7E2{{</world>}}

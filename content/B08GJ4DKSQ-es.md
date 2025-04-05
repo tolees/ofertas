@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Confort y durabilidad
 - Estilo y comodidad
 - Omini Kappa
 - Kappa: innovación, estilo y deporte
 - Ideal para la práctica deportiva y lifestyle
-- Confort y durabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08GJ4DKSQ{{</world>}}

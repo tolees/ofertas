@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera corta
 - Sudaderas de rizo de algodón para mujer
+- Sudadera corta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKQDVSLX{{</world>}}

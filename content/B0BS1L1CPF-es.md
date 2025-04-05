@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sensibilidad ajustable a través de la aplicación THRUSTMAPPERX
-- Versátil: 3 posiciones posibles
-- Revestimiento antideslizante: mantén el control en todo momento
-- Compatible con Xbox One y Xbox Series X|S y PC
-- Inmersión máxima: módulo de volante con sistema de recentrado
 - Ángulo de rotación de 95 para un mejor control de giros y derrapes
+- Inmersión máxima: módulo de volante con sistema de recentrado
+- Compatible con Xbox One y Xbox Series X|S y PC
+- Revestimiento antideslizante: mantén el control en todo momento
+- Versátil: 3 posiciones posibles
+- Sensibilidad ajustable a través de la aplicación THRUSTMAPPERX
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS1L1CPF{{</world>}}

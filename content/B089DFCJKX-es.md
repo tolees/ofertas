@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - FOTOPROTECCIÓN ORAL: con alto contenido de Fernblock(R)+ y con activos antioxidantes, aumenta la resistencia de la piel al sol y repara el daño solar PIELES con MAYOR SENSIBILIDAD: ideales para pieles muy claras, sensibles, alérgicas al sol o para personas con déficit de vitamina D PROTECCIÓN AVANZADA EXTRA: máxima concentración de activos, para reforzar la protección durante para periodos de mayor exposición solar, con vitaminas D, E y niacinamida EFICACIA INMEDIATA DEMOSTRADA: cápsulas de fotoprotección desde el interior eficaz desde la primera toma, consigue una protección homogénea
-- APTO para TI: indicada para todo tipo de pieles, sin gluten, combínala siempre con fotoprotección tópica y ¡disfruta del sol sin preocupaciones! Tipo de piel: todo tipo de pieles
 - Niacina_ |16mg NE |2618,7mg 100% VitaminaE_ |12mg a-TE |1964mg |100% VitaminaD — |5ug — |818,33ug |100%
+- APTO para TI: indicada para todo tipo de pieles, sin gluten, combínala siempre con fotoprotección tópica y ¡disfruta del sol sin preocupaciones! Tipo de piel: todo tipo de pieles
 - INDUSTRIAL FARMACÉUTICA CANTABRIA, S.A., C/ Pirita, 9, 28850 Madrid (Spain)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

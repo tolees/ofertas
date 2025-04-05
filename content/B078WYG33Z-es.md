@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- aislante y repele la suciedad
 - cojín: lavable a mano
 - cojín con funda (poliéster) de felpa y relleno de fibra de poliéster, acolchado
 - con forma estable gracias al borde reforzado
 - fieltro (poliéster)
-- aislante y repele la suciedad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B078WYG33Z{{</world>}}

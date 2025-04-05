@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Baldas de Cristal de Seguridad Resistentes
-- Iluminación LED, aporta menos calor, más brillo y ahorro energético
 - Frigorífico table top, acabado lineal con bisagra oculta y tirador integrado
 - Dimensaiones Producto: Ancho 48 Cm; Profundo 45 Cm; Alto 87 Cm
+- Baldas de Cristal de Seguridad Resistentes
+- Iluminación LED, aporta menos calor, más brillo y ahorro energético
 - Práctica zona de congelación que permite almacenar productos por un largo periodo de tiempo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

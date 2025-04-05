@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Quemadores de gas sobre placa de vidrio
-- Encimera - Gas - 3 Zonas
 - Control Mecánico
-- 1 triple quemador
 - Rejillas de hierro fundido
+- 1 triple quemador
+- Encimera - Gas - 3 Zonas
+- Quemadores de gas sobre placa de vidrio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08TPDT2CP{{</world>}}

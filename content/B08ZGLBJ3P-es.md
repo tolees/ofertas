@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Domina tu consumo de energía y ahorra dinero utilizando el programa de coaching personalizado
-- Controla tu termostato por voz usando los asistentes de voz de Amazon Alexa y el Asistente de Google
-- Nueva versión del termostato conectado Somfy con una rueda táctil que facilita el cambio de temperatura desde el termostato
 - Compatible con la mayoría de los sistemas de calefacción: calderas de gas, fuelóleo, madera, bombas de calor, estufas de pellets pero también pisos calefactores y globos de agua caliente
-- Controla tu calefacción desde casa con el termostato o de forma remota usando la aplicación móvil dedicada: aumenta o baja la temperatura de tu alojamiento donde quiera que estés
-- Incluido en el kit: receptor de radio io, pasarela internet, guía (inicio rápido), adhesivos, destornilladores, instrucciones de seguridad y 2 pilas AA
-- Aumente su comodidad: gracias a la regulación de autoaprendizaje que tiene en cuenta la temperatura y la humedad de su vivienda
 - Programación personalizada: para realizar mediante el cuestionario en la instalación
+- Controla tu calefacción desde casa con el termostato o de forma remota usando la aplicación móvil dedicada: aumenta o baja la temperatura de tu alojamiento donde quiera que estés
+- Controla tu termostato por voz usando los asistentes de voz de Amazon Alexa y el Asistente de Google
 - Compatible con el control inteligente TaHoma (switch) para combinar su termostato con otros equipos conectados Somfy; Por ejemplo, cuando salgo de mi casa, la calefacción entra en modo eco y las persianas enrollables se cierran
+- Nueva versión del termostato conectado Somfy con una rueda táctil que facilita el cambio de temperatura desde el termostato
+- Domina tu consumo de energía y ahorra dinero utilizando el programa de coaching personalizado
+- Aumente su comodidad: gracias a la regulación de autoaprendizaje que tiene en cuenta la temperatura y la humedad de su vivienda
 - Fácil instalación gracias a la aplicación móvil
+- Incluido en el kit: receptor de radio io, pasarela internet, guía (inicio rápido), adhesivos, destornilladores, instrucciones de seguridad y 2 pilas AA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08ZGLBJ3P{{</world>}}

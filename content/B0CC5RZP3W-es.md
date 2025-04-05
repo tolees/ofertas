@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- PREVÉ EL FUTURO: consulta las previsiones meteorológicas de 7 días para adaptar tu vestimenta y tus actividades en el exterior
 - CONTROLA EN TIEMPO REAL TU AMBIENTE INTERIOR Y EXTERIOR: temperatura, humedad y calidad del aire al interior y exterior, nivel del ruido interior, presión barométrica, etc
 - ANALIZA EL PASADO: accede el histórial de tus datos para observar lo que sucede cuando no estás o analiza los gráficos para entender las tendencias meteorológicas
-- FÁCIL INSTALACIÓN Y APLICACIÓN GRATUITA: la instalación de tu Estación Meteorológica wifi es fácil y la aplicación es gratuita para siempre
+- NETATMO ASISTENCIA: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com<mailto:contact-amazon@netatmo.com>
 - RECIBE ALERTAS EN TIEMPO REAL: con nuestra Estación Meteorológica, configura alertas interiores y exteriores y recibe notificaciones en tu smartphone; sabrás cuando hay que ventilar con la alerta de ventilación
 - APUESTA POR UNA CONCEPCIÓN FRANCESA Y UN DISEÑO ELEGANTE: se acabaron las estaciones meteorológicas poco estéticas, la Estación Meteorológica Interior Exterior Netatmo se integra adecuadamente en tu casa
-- NETATMO ASISTENCIA: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com<mailto:contact-amazon@netatmo.com>
+- FÁCIL INSTALACIÓN Y APLICACIÓN GRATUITA: la instalación de tu Estación Meteorológica wifi es fácil y la aplicación es gratuita para siempre
 - ACCEDE A TUS DATOS A DISTANCIA Y CON TU VOZ: accede con total facilidad y en todo momento a tus mediciones meteorológicas desde tu smartphone, tableta u ordenador, o utilizando tu voz para interactuar con Alexa en Amazon Echo, el Asistente de Google en Google Home o Siri gracias a la compatibilidad con la Casa de Apple
-- PREVÉ EL FUTURO: consulta las previsiones meteorológicas de 7 días para adaptar tu vestimenta y tus actividades en el exterior
 - SOPORTE MURAL PARA TU ESTACIÓN METEOROLÓGICA INCLUIDO: ubica perfectamente tu Estación Meteorológica donde quieras con el Soporte Mural diseñado específicamente para tu Estación Meteorológica
 - ÚNETE A LA COMUNIDAD NETATMO: comparte tus datos meteorológicos con tus amigos y consulta nuestro Weathermap para comparar tus datos con los de nuestra comunidad de estaciones meteorológicas
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte recto
-- Camisa Oxford de algodón azul claro
-- Botones blancos en la parte delantera de la tapeta
 - Cuello abotonado, 2 botones en los puños
+- Botones blancos en la parte delantera de la tapeta
 - Camisa Oxford azul multicolor Cavalier de Polo Ralph Lauren
+- Camisa Oxford de algodón azul claro
+- Corte recto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GRWVXRO{{</world>}}

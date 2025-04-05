@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Miden 18 cm
 - Producto distribuido en España por Bizak.
+- Miden 18 cm
 - Peluche edición coleccionista del famoso Monopoly
 - El personaje del juego esta inspirado en el conocido hombre de negocios J.P Morgan. Peluche con el atuendo clásico del personaje
 - Realizado con materiales de alta calidad y con Licencia oficial

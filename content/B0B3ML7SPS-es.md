@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de tracción de goma flexible
 - Detalle del logotipo de Skechers
+- Suela de tracción de goma flexible
 - Entresuela contorneada que absorbe los golpes
 - Parte superior de punto atlética con cordones y superposiciones sintéticas
 

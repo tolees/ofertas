@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Certificado con VPA/GS
-- Acero al CV
-- En cartucho de plástico
 - Garantía de 10 años
+- Acero al CV
+- Certificado con VPA/GS
+- En cartucho de plástico
 - Juego de llaves de vaso de 65 piezas de 1/4" - 6,3 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

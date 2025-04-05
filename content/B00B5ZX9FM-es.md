@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Amplificador de auriculares interno de alto nivel de salida
+- Control Mix que permite mezclar la señal microfónica con audio pregrabado
 - Conversor A/D de alta calidad con resolución de 16 bit y frecuencia de muestreo de 44.1/48 kHz
 - Micrófono de condensador con salida USB para grabación digital
-- Control Mix que permite mezclar la señal microfónica con audio pregrabado
-- Amplificador de auriculares interno de alto nivel de salida
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00B5ZX9FM{{</world>}}

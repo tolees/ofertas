@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Frente con escala métrica, trasera con escala en pulgadas
-- Cinta métrica de 13 mm de anchura
-- Con bastidor en forma de cruz de plástico azul y manivela plegable
 - Resistente a la suciedad e impermeable
 - Longitud: 50 m
+- Con bastidor en forma de cruz de plástico azul y manivela plegable
+- Frente con escala métrica, trasera con escala en pulgadas
+- Cinta métrica de 13 mm de anchura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003C43WLA{{</world>}}

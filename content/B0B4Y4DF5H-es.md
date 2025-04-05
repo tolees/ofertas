@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lifaloft
 - Confección en fibra y tejido resistente a plumón
 - Tejido resistente al agua y cortavientos
-- Lifaloft
 - Artículos entregados: 1x helly hansen mens lifaloft insulator jacket - insulator darkest spr s
 - Aislamiento lifaloftde primaloft
 

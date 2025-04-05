@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene una cintura elástica
-- Ideal para la práctica de deporte a nivel profesional
 - Cuenta con la tecnología DRY Mix que aleja el sudor de la piel
+- Ideal para la práctica de deporte a nivel profesional
+- Tiene una cintura elástica
 - Fabricados de poliéster 100%
 - Presenta los dos lados del pantalón, interior y exterior, con el mismo tejido
 

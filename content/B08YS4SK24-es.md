@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A juego con el recambio de 5 colores de banda pastel
+- Pestañas reforzadas fácilmente personalizables a mano
 - Fabricados en cartulina 200 gr para un uso regular
+- A juego con el recambio de 5 colores de banda pastel
 - Separadores de 5 colores diferentes (5 de cada color) para los que organizan por color
 - Separadores de cartulina
-- Pestañas reforzadas fácilmente personalizables a mano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08YS4SK24{{</world>}}

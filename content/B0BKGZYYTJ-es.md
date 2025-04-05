@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logotipo de Aston Martin impreso en el pecho
-- Camiseta de ajuste clásico
 - Cuello redondo
+- Camiseta de ajuste clásico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKGZYYTJ{{</world>}}

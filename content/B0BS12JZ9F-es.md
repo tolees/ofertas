@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Breve
 - Punta
+- Breve
 - Sin relleno
 
 [🛒 Comprar!!!]({{< param buyurl >}})

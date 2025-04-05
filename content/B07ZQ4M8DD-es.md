@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla de espuma MemoryTech para una amortiguación reactiva
 - Parte superior de cuero y material sintético
+- Plantilla de espuma MemoryTech para una amortiguación reactiva
 - Suela intermedia de espuma "DMX Ride+" duradera y acolchada para ayudarle a rodar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

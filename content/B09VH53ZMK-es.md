@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 70 páginas por minuto a doble cara
-- Compatibilidad con TWAIN (Win, macOS), WIA, ICA, Linux SANE
-- Alimentador automático de documentos (ADF) para 60 hojas
-- Gramaje del papel 40 - 200g/m2
 - Conexión USB 3.0
+- 70 páginas por minuto a doble cara
+- Gramaje del papel 40 - 200g/m2
+- Alimentador automático de documentos (ADF) para 60 hojas
+- Compatibilidad con TWAIN (Win, macOS), WIA, ICA, Linux SANE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09VH53ZMK{{</world>}}

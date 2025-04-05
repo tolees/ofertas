@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una actividad que favorece la habilidad manual y desarrolla la atención y la concentración.
-- Producto no estacional, se podrá jugar durante todo el año.
-- Construye, con piezas de cartón a todo color, un maravilloso y extraordinario mundo donde cultivar tu jardín en casa.
 - No apto para menores de 3 años. Utilizar sólo bajo supervisión de un adulto.
+- Construye, con piezas de cartón a todo color, un maravilloso y extraordinario mundo donde cultivar tu jardín en casa.
+- Producto no estacional, se podrá jugar durante todo el año.
 - Contiene todo lo necesario para el crecimiento de un pequeño jardín propio de interior, con el que se puede crear e inventar historias mientras los pequeños ven crecer su jardín.
+- Una actividad que favorece la habilidad manual y desarrolla la atención y la concentración.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B34KCJZL{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de poliéster y terileno, con forro de tafetán
 - Chaqueta acolchada para hombre ligeramente acolchada con botones grandes
 - Cuello vuelto y puños acanalados
+- Hecho de poliéster y terileno, con forro de tafetán
 - Ajuste regular, bolsillos laterales y bolsillo interior
 - Un clic en el nombre de la marca lleva a la tienda de la marca Urban Classics y aún más ropa urbana de moda
 

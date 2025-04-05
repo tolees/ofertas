@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - con capucha impermeable
 - de goma EVA sólida
-- correa corta integrada previene que la mascota salte fuera
 - fácil de desmontar gracias al cierre rápido y puede usarse como bolsa de transporte
+- correa corta integrada previene que la mascota salte fuera
 - la malla ofrece una protección óptima, especialmente para mascotas activas, y una buena circulación del aire
 
 [🛒 Comprar!!!]({{< param buyurl >}})

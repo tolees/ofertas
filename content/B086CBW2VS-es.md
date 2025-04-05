@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nutribén Potitos Menestra de verduras con ternera cumple con los estándares de composición establecidos por la FAO (ONU) en el Codex Alimentarius para preparados alimenticios complementarios para lactantes de más edad y niños pequeños
-- Conservación: El envase se debe guardar en lugar fresco y seco. Una vez abierto el envase, se conserva 24 horas en el frigorífico. La calidad de este potito se garantiza durante los 3 años posteriores desde la fecha de producción siempre y cuando el almacenaje sea correcto
-- Intrucciones: Abrir el potito y calentarlo al baño maría o al microondas sin tapa, removiendo posteriormente con una cuchara para conseguir una temperatura uniforme en todo el producto. Comprobar la temperatura antes de dársela al niño. No añadir sal o azúcar
 - Ingredientes: Agua de cocción, Judías verdes 11%, Tomates 10%, Ternera 8%, Arroz 8,3%, Zanahorias 7,9 %, Guisantes 3%, Aceite de oliva virgen extra 2 % y Cebolla.
+- Intrucciones: Abrir el potito y calentarlo al baño maría o al microondas sin tapa, removiendo posteriormente con una cuchara para conseguir una temperatura uniforme en todo el producto. Comprobar la temperatura antes de dársela al niño. No añadir sal o azúcar
+- Conservación: El envase se debe guardar en lugar fresco y seco. Una vez abierto el envase, se conserva 24 horas en el frigorífico. La calidad de este potito se garantiza durante los 3 años posteriores desde la fecha de producción siempre y cuando el almacenaje sea correcto
+- Nutribén Potitos Menestra de verduras con ternera cumple con los estándares de composición establecidos por la FAO (ONU) en el Codex Alimentarius para preparados alimenticios complementarios para lactantes de más edad y niños pequeños
 - Nutribén Potitos Menestra de verduras con ternera es un alimento infantil destinado a niños a partir del 4º mes de edad. Fabricado por Alter Farmacia S.A., Mateo Inurria 30, 28036 Madrid (España).
 
 [🛒 Visítala!!!]({{< param buyurl >}})

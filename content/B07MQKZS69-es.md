@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Eine Welt für Veteranen und Neueinsteiger
 - Vorteile im Kampf durch das Link-System
+- Eine Welt für Veteranen und Neueinsteiger
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07MQKZS69{{</world>}}

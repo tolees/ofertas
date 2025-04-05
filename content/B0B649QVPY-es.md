@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta individual de Londres
 - Camiseta de algodón de manga corta con estampado de bandera en el pecho.
 - Fabricado con 100% algodón sostenible
+- Camiseta individual de Londres
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B649QVPY{{</world>}}

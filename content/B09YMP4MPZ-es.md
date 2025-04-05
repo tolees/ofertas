@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido atletismo de malla (180 g)
 - Con logotipo lateral
+- Tejido atletismo de malla (180 g)
 - Logotipo "C" impreso en el lateral
 - Cierre con cordón y bolsillos ajustables
 

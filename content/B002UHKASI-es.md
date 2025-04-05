@@ -30,13 +30,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Nota: al perforar metal se recomienda la utilización de líquido de refrigeración como, por ejemplo, aceite para corte universal Bosch 2 607 001 409
 - Soporte universal magnético para un cambio rápido de las puntas de atornillar y una buena sujeción del tornillo en la punta
-- Apropiado para todas las marcas de herramientas eléctricas
-- Práctico destornillador "de bolsillo" con función de carraca
-- Práctico maletín X-Line que permite mantener en orden y en una buena disposición todos los contenidos
 - Aviso de seguridad: utilizar la protección necesaria según la aplicación: perforar metal: gafas protectoras; perforar madera: gafas protectoras y máscara contra el polvo; perforar piedra: gafas protectoras, máscara contra el polvo, orejeras y guantes
-- Preparado para las tareas más versátiles gracias a sus 6 brocas para metal, 5 brocas para madera y otras 5 para piedra
+- Práctico destornillador "de bolsillo" con función de carraca
 - Nota: al perforar metal se recomienda la utilización de líquido de refrigeración como, por ejemplo, aceite para corte universal Bosch 2 607 001 409
+- Práctico maletín X-Line que permite mantener en orden y en una buena disposición todos los contenidos
+- Apropiado para todas las marcas de herramientas eléctricas
 - Treinta y seis puntas de atornillar de 25 y 50 mm para 5 tipos de cabezas de tornillo
+- Preparado para las tareas más versátiles gracias a sus 6 brocas para metal, 5 brocas para madera y otras 5 para piedra
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002UHKASI{{</world>}}

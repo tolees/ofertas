@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forma del tacón: plano
 - Grado de resistencia al agua: no impermeable
 - Talla del zapato: Medium
+- Forma del tacón: plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN6MDQ7C{{</world>}}

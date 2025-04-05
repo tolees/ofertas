@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Arriésgalo todo en zonas de contención impredecibles
 - Lucha contra una amenaza alienígena letal y en constante evolució
 - Lidera a agentes de élite de Rainbow Six en modo cooperativo o en solitario
+- Arriésgalo todo en zonas de contención impredecibles
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B096Y2PZR7{{</world>}}

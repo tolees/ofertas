@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Piqué de algodón orgánico
-- Ojales transpirables
 - Pespuntes decorativos
 - Cocodrilo a tono bordado en el lateral
+- Ojales transpirables
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08B3RXWKB{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
-- Cinta distintiva dentro del cuello
-- Jersey de mezcla de algodón
 - Calvin Klein Bordado en el pecho
+- Cinta distintiva dentro del cuello
 - Mangas cortas
+- Cuello redondo
+- Jersey de mezcla de algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BF57LTMG{{</world>}}

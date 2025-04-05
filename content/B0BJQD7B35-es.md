@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa ajustable para que se adapte mejor a la cintura.
 - De Next Door.
 - Riñonera de 27 cm x 11 cm x 6,5 cm fabricada en microfibra.
+- Correa ajustable para que se adapte mejor a la cintura.
 - Ideal para llevar monedas, tarjetas y accesorios pequeños.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

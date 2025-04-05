@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FORTALECE EL MICROBIOMA: Enriquecido con Alpha Glucan Oligosaccharide, que ayuda a proteger el microbioma recuperando su equilibrio natural; día a día, la piel y las mucosas redescubren cómo protegerse a sí mismas, neutralizando los picores y rojeces
-- El Bálsamo de manos reparador de Dr.Tree es una emulsión hidratante y reparadora para las pieles sensibles que nutre e hidrata profundamente; actúa reduciendo rojeces y picores, calma y protege restaurando la barrera cutánea
-- HITRADA, NUTRE Y PROTEGE: Su base dermoreparadora con extracto de Margarita Azul y aceite de semillas de Chía ejerce una acción calmante, antiirritante y antioxidante, contribuyendo a calmar la piel sensible y a restaurar la barrera cutánea; además, las mantecas de Jojoba, Mimosa y Girasol aportan una máxima suavidad a la piel
-- INDICADO PARA PIEL SENSIBLE: 99% ingredientes naturales, Cosmética natural éticamente certificada COSMOS ECOCERT, Apto para veganos, Hipoalergénico, Envase airless reciclable, CRUELTY FREE, Fórmula multiactiva de eficacia sin parabenos, siliconas, sulfatos, sal, fenoxietanol ni aceites minerales, Dermatológicamente testado
 - MODO DE USO: Toma una pequeña cantidad de bálsamo de manos, aproximadamente del tamaño de una moneda de 1 euro, en la palma de tu mano; masajea suavemente el bálsamo en tus manos, hasta que se absorba por completo, asegúrate de cubrir todas las áreas
+- HITRADA, NUTRE Y PROTEGE: Su base dermoreparadora con extracto de Margarita Azul y aceite de semillas de Chía ejerce una acción calmante, antiirritante y antioxidante, contribuyendo a calmar la piel sensible y a restaurar la barrera cutánea; además, las mantecas de Jojoba, Mimosa y Girasol aportan una máxima suavidad a la piel
+- FORTALECE EL MICROBIOMA: Enriquecido con Alpha Glucan Oligosaccharide, que ayuda a proteger el microbioma recuperando su equilibrio natural; día a día, la piel y las mucosas redescubren cómo protegerse a sí mismas, neutralizando los picores y rojeces
+- INDICADO PARA PIEL SENSIBLE: 99% ingredientes naturales, Cosmética natural éticamente certificada COSMOS ECOCERT, Apto para veganos, Hipoalergénico, Envase airless reciclable, CRUELTY FREE, Fórmula multiactiva de eficacia sin parabenos, siliconas, sulfatos, sal, fenoxietanol ni aceites minerales, Dermatológicamente testado
+- El Bálsamo de manos reparador de Dr.Tree es una emulsión hidratante y reparadora para las pieles sensibles que nutre e hidrata profundamente; actúa reduciendo rojeces y picores, calma y protege restaurando la barrera cutánea
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B097YN9QTR{{</world>}}

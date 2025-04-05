@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protector de piso
 - Dimensions: 2,06 x 1,16 m
+- Protector de piso
 - Prolongará la vida de tu tienda
 
 [🛒 Aquí!!!]({{< param buyurl >}})

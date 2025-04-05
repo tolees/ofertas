@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cada bocado ofrece una combinación perfecta de crujiente granola, trozos de chocolate y trozos de plátano deshidratado
 - Barritas de cereales con un auténtico y delicioso sabor a chocolate y plátano, sin aceite de palma ni conservantes
+- Cada bocado ofrece una combinación perfecta de crujiente granola, trozos de chocolate y trozos de plátano deshidratado
 - Es el snack perfecto para llevar contigo a todas partes, ya sea como un tentempié entre comidas o como una opción de merienda saludable, satisfaciendo tus antojos de chocolate de forma deliciosa
 - Descubre la gama de barritas Corny, elaboradas con una combinación de cereales, chocolate, avena, frutos secos y/o fruta. Están diseñadas para proporcionar energía, siendo una excelente opción para aquellos que buscan una merienda rápida y deliciosa
 

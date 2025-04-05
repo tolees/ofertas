@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Casual
-- Estilo de moda
 - Cómodo
 - Lavable a máquina
 - Ligero
+- Estilo de moda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B093LSZMC5{{</world>}}

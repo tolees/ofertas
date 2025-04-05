@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El alcance inalámbrico se realiza mediante la radiofrecuencia en la banda de los 868 MHz.
-- El sensor exterior determina datos detallados sobre la medición de la lluvia y los valores exteriores como la temperatura y la humedad. Las precipitaciones se pueden mostrar cada hora, diaria, semanal, mensual y como valor anual.
 - Componentes incluidos: pluviómetro; estación base; soporte extraíble; material de montaje
 - Dimensiones: 95 x 23 x 154 mm. Peso: 198 g (estaciona); 109 x 109 x 200 mm. Peso: 375 g (pluviómetro); para el funcionamiento se requieren 6 pilas AA (no incluidas).
-- Otras funciones son la advertencia de heladas y de hielo, el almacenamiento de los valores máximos y máximos, la función de despertador con repetición de alarma, la luz de fondo y la hora se actualiza mediante señal DCF.
 - El pluviómetro de alta calidad con sensor exterior profesional para medición de precipitaciones y temperatura tiene una gran pantalla con datos de temperatura, humedad, hora y un histograma gráfico.
+- Otras funciones son la advertencia de heladas y de hielo, el almacenamiento de los valores máximos y máximos, la función de despertador con repetición de alarma, la luz de fondo y la hora se actualiza mediante señal DCF.
+- El sensor exterior determina datos detallados sobre la medición de la lluvia y los valores exteriores como la temperatura y la humedad. Las precipitaciones se pueden mostrar cada hora, diaria, semanal, mensual y como valor anual.
+- El alcance inalámbrico se realiza mediante la radiofrecuencia en la banda de los 868 MHz.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0758FSGB4{{</world>}}

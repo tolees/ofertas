@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 👨‍👧‍👦PARA NIÑOS Y ADULTOS: Este juego está diseñado para edades comprendidas entre los 8 y 99 años. Esto lo convierte en un elemento ideal para todo tipo de hogares. Los juegos de mesa son clásicos atemporales que nos unen, estimulan y entretienen.
-- 🧠 INTELIGENCIAS MÚLTIPLES: Gracias al uso de este juego, podrás estimular una serie de aspectos psicomotrices básicos: lógica matemática, habilidades intrapersonales e interpersonales y coordinación visual-espacial.
-- 👥 CÓMO JUGAR: Podéis jugar un mínimo de 2 personas y máximo 4. Se reparten 14 piezas y comienza quien saca la ficha más grande de la bolsa. Cread conjuntos de números iguales hasta que gane la partida el jugador que se quede sin fichas primero.
 - ⚙️ ESPECIFICACIONES TÉCNICAS: El juego incluye 1 maletín de madera para guardar las fichas y los soportes (36 x 23,5 x 6 cm), fichas para rummi en 4 colores diferentes y 4 soportes de madera para fichas.
+- 🧠 INTELIGENCIAS MÚLTIPLES: Gracias al uso de este juego, podrás estimular una serie de aspectos psicomotrices básicos: lógica matemática, habilidades intrapersonales e interpersonales y coordinación visual-espacial.
 - 🎲 RUMMI CLASIC: Este imprescindible juego de mesa es garantía asegurada de diversión para toda tu familia y amigos. Disfruta de increíbles tardes jugando con los tuyos, fortaleciendo vuestros vínculos emocionales a la vez que lo pasáis genial.
+- 👥 CÓMO JUGAR: Podéis jugar un mínimo de 2 personas y máximo 4. Se reparten 14 piezas y comienza quien saca la ficha más grande de la bolsa. Cread conjuntos de números iguales hasta que gane la partida el jugador que se quede sin fichas primero.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FGR2E6K{{</world>}}

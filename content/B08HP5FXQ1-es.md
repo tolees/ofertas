@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✅ Mantente siempre a salvo con la luz de emergencia para coches de Goodyear, homologada para todo tipo de vehículos con un alcance de visión de 1 km
-- ✅Especialmente diseñado para cohces y motos. Se conecta facilmente sin la necesidad de cables , con un potente imán para colocar en tu coche.
-- ✅ Safety Light de Goodyear, está fabricado según la normativa vigente de Seguridad Vial.
 - ✅ Cuenta con una autonomía de luz interminente de 6 horas y 5 horas en modo linterna. Incluyendo un avanzado sistema del estado de la bataría por colores.
+- ✅ Safety Light de Goodyear, está fabricado según la normativa vigente de Seguridad Vial.
+- ✅Especialmente diseñado para cohces y motos. Se conecta facilmente sin la necesidad de cables , con un potente imán para colocar en tu coche.
+- ✅ Mantente siempre a salvo con la luz de emergencia para coches de Goodyear, homologada para todo tipo de vehículos con un alcance de visión de 1 km
 - ✅ Además , gracias a su potente luz blanca, contarás siempre con una linterna en tu coche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

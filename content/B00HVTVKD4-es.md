@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: lino.
 - Colección: 2013.
 - Cierre con cordones.
+- Material: lino.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00HVTVKD4{{</world>}}

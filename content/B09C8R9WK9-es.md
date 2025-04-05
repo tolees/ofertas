@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medios para cologar: La cortina terciopelo WOLTU adopta un diseño novedoso de cordón de seda transparente, que es más moderno y hermoso que el cordón tradicional. Tiene 8 ollaos, con los que se puede colgar en la barra de la cortina directamente.
-- Contenido del Paquete: 2 piezas de cortinas de 140 x 225 cm. También ofrecemos varios colores y distintos medidas de alto (225/245/270cm) para elegir. Debido a las características de la tela y al plegado en el empaque, la cortina recién recibida puede presentar algunas arrugas, las cuales pueden eliminarse colgando por un período de tiempo o planchándolo a baja temperatura.
-- Tejido Doble de Alta Calidad: Cortinas opacas Woltu tiene doble tejido: el tericiopelo de grado A y tela de hilos negros. El material es fuerte y aislante porque tiene una densidad aproximatamente de 300g/m², también es suave y cómodo al tacto. La cortina de alta calidad es única y extraordinaria, lo que da a la habitación una elegancia y un encanto únicos.
 - Blackout y Aislación: La tela de la cortina térmica es gordita y suficiente gruesa, tiene buena caída. Tanto en invierno como en verano aisla mucho de la temperatura exterior. Gracias a la tela oscura por detrás, no permite pasar la luz y protege bastante bien su intimidad.
 - Mantenimiento y Cuidado: Cortinas para ventana se pueden lavar a mano en agua de baja temperatura (menos de 40 °C). La temperatura más alta parar plancharlo es de 100 °C. No blanquear ni usar secadora. Secarlo colgando. No ponerlo en contacto con sustancias ácidas para evitar daños.
+- Contenido del Paquete: 2 piezas de cortinas de 140 x 225 cm. También ofrecemos varios colores y distintos medidas de alto (225/245/270cm) para elegir. Debido a las características de la tela y al plegado en el empaque, la cortina recién recibida puede presentar algunas arrugas, las cuales pueden eliminarse colgando por un período de tiempo o planchándolo a baja temperatura.
+- Tejido Doble de Alta Calidad: Cortinas opacas Woltu tiene doble tejido: el tericiopelo de grado A y tela de hilos negros. El material es fuerte y aislante porque tiene una densidad aproximatamente de 300g/m², también es suave y cómodo al tacto. La cortina de alta calidad es única y extraordinaria, lo que da a la habitación una elegancia y un encanto únicos.
+- Medios para cologar: La cortina terciopelo WOLTU adopta un diseño novedoso de cordón de seda transparente, que es más moderno y hermoso que el cordón tradicional. Tiene 8 ollaos, con los que se puede colgar en la barra de la cortina directamente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09C8R9WK9{{</world>}}

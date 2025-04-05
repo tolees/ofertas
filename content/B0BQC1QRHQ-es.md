@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Zapatillas de plataforma de alto lienzo
-- Plataforma suela elevada para mayor altura
 - Modelo con cordones para un ajuste ajustable
+- Plataforma suela elevada para mayor altura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQC1QRHQ{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cinturilla elástica con cordón ceñidor
-- Algodón orgánico/Tejido de rizo de poliéster de 320 g/m²
-- Items delivered: 1x Helly Hansen Kids - K HH Logo Pant 2.0 Apparel Navy 86/1
-- Bolsillos
 - Puños con doble vuelta en los bajos
+- Items delivered: 1x Helly Hansen Kids - K HH Logo Pant 2.0 Apparel Navy 86/1
+- Algodón orgánico/Tejido de rizo de poliéster de 320 g/m²
+- Bolsillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09MW8GWFD{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Haz tu propio Slime anti bacterias con este laboratorio y sus accesorios incluidos; mezcla colores y decoraciones para obtener tu Slime antibacteriano con texturas increíbles, colores brillantes y galácticos
 - Dimensiones: 30 x 8 x 25 cm; a partir de los 6 años de edad; polvo de Slime no tóxico conforme a las normas de juguetes.
-- Contenido: 1 Laboratorio 3 Agitadores 5 bolsas de Slime 3 Tubos 3 Botes 1 Embudo 3 Bolsas de confetti 5 Bolsas de glitter 1 herramienta 1 hoja de pegatinas
 - Elimina el 99.9% de los gérmenes. Gelificante de origen natural a base de algas
+- Haz tu propio Slime anti bacterias con este laboratorio y sus accesorios incluidos; mezcla colores y decoraciones para obtener tu Slime antibacteriano con texturas increíbles, colores brillantes y galácticos
+- Contenido: 1 Laboratorio 3 Agitadores 5 bolsas de Slime 3 Tubos 3 Botes 1 Embudo 3 Bolsas de confetti 5 Bolsas de glitter 1 herramienta 1 hoja de pegatinas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B46Q7MR6{{</world>}}

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Temporizador hasta 30 minutos y avisador de final de cocción
 - 5 niveles de potencia y modo de descongelación uniforme
-- Microondas con Grill compacto con mandos giratorios mecánicos y 700 W de potencia
 - Dimensiones Producto (Ancho x Alt x Prof) (Cm) 45,5 x 26,1 x 32,6
+- Microondas con Grill compacto con mandos giratorios mecánicos y 700 W de potencia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRKYR8HD{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tip del producto: perfumes
 - Be eau de toilette vapo
+- Tip del producto: perfumes
 - Marca: Calvin Klein
 
 [🛒 Comprar!!!]({{< param buyurl >}})

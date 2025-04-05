@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste relajado
-- Cuello redondo clásico
 - Wrangler Etiqueta del logotipo en la bolsa
+- Cuello redondo clásico
+- Ajuste relajado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07X7VTDP9{{</world>}}

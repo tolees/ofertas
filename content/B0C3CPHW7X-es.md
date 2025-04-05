@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Suela de goma
-- Puntera de goma y costuras en los dedos
 - Empeine de malla
+- Puntera de goma y costuras en los dedos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C3CPHW7X{{</world>}}

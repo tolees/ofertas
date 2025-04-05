@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Costuras selladas
 - Cintura elástica
-- Indice de transpirabilidad 5.000g/m2/24 hr
 - Tejido en poliamida muy ligero, impermeable y transpirable Isolite 5.000
+- Costuras selladas
+- Indice de transpirabilidad 5.000g/m2/24 hr
 - Acabado hidrófugo duradero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

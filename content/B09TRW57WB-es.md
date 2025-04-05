@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Duración de la batería de hasta 300 horas*
-- Comodidad y durabilidad, Controles de audio integrados
-- DTS Headphone:X** Spatial Audio****, Controladores de doble cámara de HyperX
 - Compatible con PC
+- Comodidad y durabilidad, Controles de audio integrados
+- Duración de la batería de hasta 300 horas*
+- DTS Headphone:X** Spatial Audio****, Controladores de doble cámara de HyperX
 - Micrófono desmontable con cancelación del ruido con indicador LED, Compatible con el software Ngenuity
 
 [🛒 Visítala!!!]({{< param buyurl >}})

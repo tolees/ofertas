@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zona de Cocción: Placa de inducción de 60 cm con 3 Zonas. Sin marco y calentamiento automático
-- Función PowerBoost: Permite hervir agua con extraordinaria rapidez (en menos de 90 segundos)
 - Conecta y activa automáticamente tu campana extractora Zanussi con la tecnología Hob2Hood
 - Bloqueo de seguridad infantil + Apagado automático
-- Función de Temporizador: cuando se acaba el tiempo del temporizador, la superficie de la placa para la que lo habías seleccionado se apaga. Se puede programar hasta un máximo de 1,5 horas
+- Zona de Cocción: Placa de inducción de 60 cm con 3 Zonas. Sin marco y calentamiento automático
 - Dimensiones (ancho x largo x altura): 590mm x 520mm x 44mm. Tamaño: 60cm. No dispone de enchufe macho. La instalación es mediante cableado y, por su seguridad, tiene que realizarla un profesional.
+- Función PowerBoost: Permite hervir agua con extraordinaria rapidez (en menos de 90 segundos)
 - Control táctil: especifica los niveles de cocción, ajusta el tiempo y la temperatura
+- Función de Temporizador: cuando se acaba el tiempo del temporizador, la superficie de la placa para la que lo habías seleccionado se apaga. Se puede programar hasta un máximo de 1,5 horas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08F5DM7WX{{</world>}}

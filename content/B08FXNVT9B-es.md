@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño deportivo
 - Logo de la marca
-- Media cremallera
+- Diseño deportivo
 - Capucha ajustable
+- Media cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08FXNVT9B{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 45 minutos de autonomía. Eternal Battery.
-- Potencia 22.2V Lithium Technonlogy.
 - Motor Digital Pro - Mayor potencia, vida útil y optmización de la energía.
 - Aspirador sin cable 2 en 1. Sistema EasyClick.
+- Potencia 22.2V Lithium Technonlogy.
 - Filtro HEPA. Elimina gérmenes y ácaros del ambiente y las superficies.
 - 5 accesorios. All in One - Soporte de pared y cargador. Tubo flexible. Cepillo para muebles. Boquilla plana 2 en 1. Cepillo para mascotas.
 

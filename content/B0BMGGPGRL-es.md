@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Stoppers con elástico ajustables en la cintura.
-- Presenta un cierre frontal con cremallera metálica dorada con tirador personalizado Polo Club, dos bolsillos laterales y un bolsillo interior con cierre de cremallera. Sisas con terminaciones elásticas, personalizadas con el logo de la marca para mayor adaptabilidad.
-- Etiqueta textil Polo Club de alta definición remallada a la prenda.
 - Es resistente al agua, cálido y muy ligero gracias a su relleno, que además protege y cuida nuestro medio ambiente.
 - El chaleco Pavel pertenece a nuestra colección ultralight.
+- Presenta un cierre frontal con cremallera metálica dorada con tirador personalizado Polo Club, dos bolsillos laterales y un bolsillo interior con cierre de cremallera. Sisas con terminaciones elásticas, personalizadas con el logo de la marca para mayor adaptabilidad.
+- Etiqueta textil Polo Club de alta definición remallada a la prenda.
+- Stoppers con elástico ajustables en la cintura.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMGGPGRL{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aporta volumen y brillo
 - Champú reparador del cabello: fortalece y nutre el cabello
-- Enriquecido con agua frutal de limón y extracto de lino
 - 96,2% ingredientes naturales
+- Aporta volumen y brillo
+- Enriquecido con agua frutal de limón y extracto de lino
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07R48GSGP{{</world>}}

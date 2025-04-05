@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MÁS DE 50 COMBINACIONES: El poni interactivo cuenta con más de 50 combinaciones de sonidos, luces y movimientos para que imagines aventuras e historias con el personaje de la película
 - JUEGA DE MANERA INTERACTIVA: Baila al ritmo de la música o juega a "Sunny Stop" utilizando el micrófono como herramienta. Este juguete es un regalo ideal. Edad recomendada: a partir de 5 años
-- MÚSICA INSPIRADA EN LA PELÍCULA: El juguete dice frases de la película My Little Pony: A New Generation y canta partes de la canción "Gonna Be My Day". Canta con el micrófono inalámbrico y acompaña a Sunny
 - ALICORNIOSPERSONALIZABLES: Decora la figura con los adhesivos incluidos y dale una apariencia única. La figura tiene una suave melena rosada, un cuerno de alicorno que se ilumina y unas alas móviles inspiradas en la película
+- MÚSICA INSPIRADA EN LA PELÍCULA: El juguete dice frases de la película My Little Pony: A New Generation y canta partes de la canción "Gonna Be My Day". Canta con el micrófono inalámbrico y acompaña a Sunny
+- MÁS DE 50 COMBINACIONES: El poni interactivo cuenta con más de 50 combinaciones de sonidos, luces y movimientos para que imagines aventuras e historias con el personaje de la película
 - HAZ PATINAR A SUNNY STARSCOUT CON EL CONTROL REMOTO: Utiliza el micrófono incluido como control remoto para hacer que la figura de Sunny Starscout patine hacia delante o gire en círculos. La figura mide 22,5 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

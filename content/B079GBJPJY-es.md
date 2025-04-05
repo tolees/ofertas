@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- APTO PARA VEGANOS: Nuestro complemento alimenticio es apto para el consumo vegano y no contienen ni leche ni lactosa ni azúcares añadidos. Ideal para deporte por su alto contenido en aminoácidos.
+- MODO DE EMPLEO: Se recomienda consumir una ración de 10 g (dos cucharadas de café) al día. Puede disolverse en bebidas o espolvorearse sobre recetas, sopas o cremas.
 - INGREDIENTES NATURALES: Este complemento alimenticio está elaborado a partir de semilla de psyllium molida. De cultivo ecológico.
 - MÚLTIPLES BENEFICIOS: Su alto contenido en fibra ayuda a mejorar el tránsito intestinal. Además, su poder saciante es ideal para controlar el apetito. Recomendado para vegetarianos, veganos o personas con dietas insuficientes o escasas en fibra.
-- MODO DE EMPLEO: Se recomienda consumir una ración de 10 g (dos cucharadas de café) al día. Puede disolverse en bebidas o espolvorearse sobre recetas, sopas o cremas.
-- APTO PARA VEGANOS: Nuestro complemento alimenticio es apto para el consumo vegano y no contienen ni leche ni lactosa ni azúcares añadidos. Ideal para deporte por su alto contenido en aminoácidos.
-- SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 - Biogran, Parque Empresarial Omega, Av. de la Transición Española 36, planta B28108, Alcobendas Madrid
+- SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079GBJPJY{{</world>}}

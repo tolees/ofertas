@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Queda justo por debajo de la cintura
 - Tiene bragueta con cremallera
+- Queda justo por debajo de la cintura
 - Confeccionado con técnicas Water<Less, que reducen el consumo de agua durante el proceso de acabado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

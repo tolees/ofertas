@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bufanda de tubo
 - Impresión de pigmentos para una impresión suave en ropa ligera
 - Camiseta ideal para el uso diario
-- Bufanda de tubo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BHXHJ752{{</world>}}

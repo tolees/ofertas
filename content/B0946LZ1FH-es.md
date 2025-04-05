@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular en la cintura
 - Lavado a maquina
-- Material sostenible
+- Ajuste regular en la cintura
 - Vaqueros acampanados
+- Material sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0946LZ1FH{{</world>}}

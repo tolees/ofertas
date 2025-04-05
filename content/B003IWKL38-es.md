@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin aspartame (según normativa vigente)
-- Proteinas: caseína y proteínas de suero de leche (whey)
-- Vegetariana, sin colágeno
 - Alto contenido en proteinas
+- Vegetariana, sin colágeno
+- Proteinas: caseína y proteínas de suero de leche (whey)
+- Sin aspartame (según normativa vigente)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003IWKL38{{</world>}}

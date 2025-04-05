@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos con solapa y cierre a presión en el pecho y en la cintura
 - Manga larga
-- Cinturón con hebilla deslizante
 - Cuello plano, trabilla en el interior
+- Cinturón con hebilla deslizante
+- Bolsillos con solapa y cierre a presión en el pecho y en la cintura
 - Cierre de botones a presión oculto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

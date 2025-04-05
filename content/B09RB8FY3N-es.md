@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Media cremallera
 - Bolsillo frontal
+- Media cremallera
 - Corte estándar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

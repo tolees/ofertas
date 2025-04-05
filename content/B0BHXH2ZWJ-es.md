@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
 - Impresión de pigmento para una impresión suave en ropa ligera
+- Cuello redondo
 - Camiseta de alta calidad para uso diario
 - Bufanda de tubo
 

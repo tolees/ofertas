@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de cuero
-- Tommy Jeans Marca
 - Suela de goma termoplástica
+- Parte superior de cuero
 - Forro de poliéster
+- Tommy Jeans Marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS71ZMVW{{</world>}}

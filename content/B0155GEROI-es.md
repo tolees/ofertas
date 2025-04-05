@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mango ergonómico para una mayor comodidad de goma, cómoda rueda superior para regular la velocidad con una mano
 - Batidora de varilla semiprofesional con un potente motor de 1000W y varilla de acero inoxidable desmontable extralarga de 27cm
 - Interruptor iluminado en color azul
+- Mango ergonómico para una mayor comodidad de goma, cómoda rueda superior para regular la velocidad con una mano
 - Batidora desmontable, apta para lavavajillas
 - Aspa con 4 cuchillas para una mejor mezcla y picado
 

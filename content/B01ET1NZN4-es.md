@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peso: 0,15 Kg
-- Enchufe programable que cuenta con protección infantil
-- Programador analógico de uso interior
 - Servicio de Atención al cliente en Español e Ingles para poder ayudarte de forma rápida y sencilla en caso de problemas con la instalación. (Ver información de contacto en el interior de la caja)
+- Enchufe programable que cuenta con protección infantil
+- Conecta cualquier producto y controla su programación
+- Garantía 2 años
+- Con un diseño explanado y sencillo
+- Medidas: 7.4 x 4 x 11.5 centímetros
 - Diseño compacto
 - Programación 24 horas: Conmutación cada 15 minutos
-- Garantía 2 años
-- Medidas: 7.4 x 4 x 11.5 centímetros
-- Con un diseño explanado y sencillo
-- Conecta cualquier producto y controla su programación
+- Programador analógico de uso interior
+- Peso: 0,15 Kg
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01ET1NZN4{{</world>}}

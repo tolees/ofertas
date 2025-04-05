@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuidados: apta para lavavajillas.
-- Copa de balón realizada en vidrio y fabricada en Francia.
 - Cuenta con un mensaje que ya habíamos utilizado en una copa anterior y que es un auténtico éxito, por lo que hemos decidido rediseñarla y darle un nuevo aire.
+- Copa de balón realizada en vidrio y fabricada en Francia.
 - Capacidad: 70 cl.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

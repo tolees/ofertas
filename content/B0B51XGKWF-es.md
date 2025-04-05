@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reúne recursos, conoce nuevos amigos y completa misiones para salvar el legado de tu familia
 - Cría los mejores caballos según sus estadísticas, características y colores
-- Personaliza tu rancho: construye, mejora y personaliza tu rancho en ruinas con una gran variedad de edificios y decoraciones
 - Una aventura a caballo en un cautivador mundo abierto
+- Personaliza tu rancho: construye, mejora y personaliza tu rancho en ruinas con una gran variedad de edificios y decoraciones
+- Reúne recursos, conoce nuevos amigos y completa misiones para salvar el legado de tu familia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B51XGKWF{{</world>}}

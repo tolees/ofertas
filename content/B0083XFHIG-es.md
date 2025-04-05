@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Resistente al agua hasta 10 bar / 100 metros
 - La luz de fondo ofrece visibilidad en condiciones de poca luz
 - Protector de cristal resistente a arañazos
-- Resistente al agua hasta 10 bar / 100 metros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0083XFHIG{{</world>}}

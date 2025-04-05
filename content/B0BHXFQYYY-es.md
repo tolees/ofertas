@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta de alta calidad para uso diario
-- Cuello redondo
 - Impresión de pigmento para u impresión suave en ropa ligera
+- Cuello redondo
 - Bufanda de tubo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

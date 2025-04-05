@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo KARL en la cintura
-- Tejido Jersey
 - Cintura elástica
+- Tejido Jersey
 - Sostenibilidad: Esta prenda está confeccionada con algodón orgánico certificado. Los agricultores implicados siguen prácticas de agricultura ecológica. Por lo tanto, no se han utilizado fertilizantes y pesticidas químicos ni semillas modificadas genéticamente.
+- Logotipo KARL en la cintura
 - Juego de tres bañadores
 
 [🛒 Aquí!!!]({{< param buyurl >}})

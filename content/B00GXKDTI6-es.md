@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 10gr
+- Práctico, eficaz, limpio y sin olor
 - Definitivo: mata a la reina extinguiendo el hormiguero
 - Fuente de alimentación: Con Alimentación de Batería
 - Innovador sistema con jeringuilla
-- 10gr
-- Práctico, eficaz, limpio y sin olor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GXKDTI6{{</world>}}

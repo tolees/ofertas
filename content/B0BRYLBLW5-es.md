@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Prenda ajustada de arriba abajo
-- Talle medio
-- Bolsillo para monedas en el interior de la cintura
 - Cinco bolsillos con remaches de refuerzo
 - Bragueta de cremallera
+- Bolsillo para monedas en el interior de la cintura
+- Talle medio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRYLBLW5{{</world>}}

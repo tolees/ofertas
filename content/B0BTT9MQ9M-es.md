@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Altura del tacón 5 cm
 - Forro de microfibra 80% piel 20%
+- Cierre elástico
+- Altura del tacón 5 cm
 - Construcción: Cosido 360º
 - Plantilla extraíble
-- Cierre elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTT9MQ9M{{</world>}}

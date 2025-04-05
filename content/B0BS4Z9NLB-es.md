@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa de manga larga de ajuste delgado, con cuello casual y logotipo bordado en el pecho, en base de popelina a cuadros de tinte de hilo
 - Fabricado con al menos 70% algodón sostenible
+- Camisa de manga larga de ajuste delgado, con cuello casual y logotipo bordado en el pecho, en base de popelina a cuadros de tinte de hilo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS4Z9NLB{{</world>}}

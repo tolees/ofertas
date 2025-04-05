@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Une fuerzas con Batman, Linterna Verde, Hawkgirl y Wonder Woman reclutando poderosos personajes de DC que formen una alianza contra el mal
 - Se ha abierto un portal a un Multiverso Oscuro en la ciudad de Gotham, proporcionando una vía de entrada a los Villanos más peligrosos, Los Caballeros Oscuros
-- En este juego cooperativo, los jugadores deben trabajar juntos para derrotar a Los Caballeros Oscuros y El Batman que Ríe antes de que todo se pierda en la oscuridad
-- Tiempo de juego: 60 minutos aproximadamente. De 1-4 jugadores. Edad 15+.
 - Super villanos liderados por El Batman que Ríe, un demoníaco hibrido del Joker y Batman, buscan un camino hacia nuestro universo para destruirlo
+- En este juego cooperativo, los jugadores deben trabajar juntos para derrotar a Los Caballeros Oscuros y El Batman que Ríe antes de que todo se pierda en la oscuridad
+- Une fuerzas con Batman, Linterna Verde, Hawkgirl y Wonder Woman reclutando poderosos personajes de DC que formen una alianza contra el mal
+- Tiempo de juego: 60 minutos aproximadamente. De 1-4 jugadores. Edad 15+.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1JDRYTK{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste regular
-- dryCELL: designación de PUMA para propiedades que absorben la humedad y ayudan a mantenerte seco y cómodo
 - Felino PUMA en la pernera izquierda
+- dryCELL: designación de PUMA para propiedades que absorben la humedad y ayudan a mantenerte seco y cómodo
+- Ajuste regular
 - Silueta de pantalón de entrenamiento clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

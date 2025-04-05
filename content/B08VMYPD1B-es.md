@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma del cuello: cuello abotonado
-- manga corta
 - 100% algodón
 - Cierre: botón
+- manga corta
+- Forma del cuello: cuello abotonado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08VMYPD1B{{</world>}}

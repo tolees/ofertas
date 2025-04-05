@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela exterior: suela de goma
 - Material superior: __ Parte superior multicolor con degradado y pin ROXY
 - Plantilla de goma texturizada
+- Suela exterior: suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B516QZGQ{{</world>}}

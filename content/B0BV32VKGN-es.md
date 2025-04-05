@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Power: 16A/230V; Medidas ver más abajo en detalle de producto
+- Gama Niloé Monoblock de Legrand, que es una combinación entre respeto por el #medioambiente e #innovación
+- Color blanco
 - Pack de 5 unidades de Enchufe 2P+T de pared de la marca Legrand. Empotrable
 - Mecanismo completo. Esto es una gran ventaja porque es muy rápido y facil de instalar
-- Gama Niloé Monoblock de Legrand, que es una combinación entre respeto por el #medioambiente e #innovación
-- Power: 16A/230V; Medidas ver más abajo en detalle de producto
-- Color blanco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BV32VKGN{{</world>}}

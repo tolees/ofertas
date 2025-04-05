@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Nuevo producto
-- Modelo/Código del fabricante: FC502
 - Producto de calidad
+- Modelo/Código del fabricante: FC502
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DZM951K{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: sintético
-- Material interior: 80 % tela textil, poliéster, 20 % poliuretano sintético
 - Cierre: 60 por ciento IPEVA -40 por ciento de goma
+- Material interior: 80 % tela textil, poliéster, 20 % poliuretano sintético
+- Material exterior: sintético
 - Forma del tacón: plataforma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

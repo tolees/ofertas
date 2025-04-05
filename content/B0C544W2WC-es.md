@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- TRATAMIENTO DE MANCHAS Y POROS ABIERTOS: Utilizando dos ingredientes respetuosos con la piel, la niacinamida y el zinc, este sérum ligero y suave ayuda a combatir las manchas y a minimizar el aspecto de los poros dilatados
-- SIN CRUELDAD: Los productos de Revolution Beauty son libres de crueldad y siempre lo han sido. Contamos con la certificación de PETA y nunca permitimos que se realicen pruebas en animales en ninguna etapa del desarrollo, tanto de los ingredientes como de los productos finales.
-- SÉRUM DE NIACINAMIDA Y ZINC: Los ingredientes de este sérum regulan la producción natural de grasa de la piel para ayudar a prevenir una mayor congestión, mientras que el zinc tiene propiedades calmantes y suavizantes, lo que reduce la aparición de manchas activas
-- MODO DE EMPLEO: Agitar bien antes de usar. Aplicar unas gotas sobre la piel limpia y seca. Utilizar por la mañana y por la noche para obtener los mejores resultados
 - VEGANO: Este sérum no contiene ningún ingrediente de origen animal
+- MODO DE EMPLEO: Agitar bien antes de usar. Aplicar unas gotas sobre la piel limpia y seca. Utilizar por la mañana y por la noche para obtener los mejores resultados
+- SIN CRUELDAD: Los productos de Revolution Beauty son libres de crueldad y siempre lo han sido. Contamos con la certificación de PETA y nunca permitimos que se realicen pruebas en animales en ninguna etapa del desarrollo, tanto de los ingredientes como de los productos finales.
+- TRATAMIENTO DE MANCHAS Y POROS ABIERTOS: Utilizando dos ingredientes respetuosos con la piel, la niacinamida y el zinc, este sérum ligero y suave ayuda a combatir las manchas y a minimizar el aspecto de los poros dilatados
+- SÉRUM DE NIACINAMIDA Y ZINC: Los ingredientes de este sérum regulan la producción natural de grasa de la piel para ayudar a prevenir una mayor congestión, mientras que el zinc tiene propiedades calmantes y suavizantes, lo que reduce la aparición de manchas activas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C544W2WC{{</world>}}

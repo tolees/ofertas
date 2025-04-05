@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de PUMA en el costado
-- Tipo de tacón: Plano
-- Cierre: Cordones
-- Suela de goma resistente
 - Material de la suela: Caucho
+- Tipo de tacón: Plano
+- Suela de goma resistente
+- Logotipo de PUMA en el costado
+- Cierre: Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C33RBJ63{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ortholite
 - Plantilla Goga Mat refrigerada por aire
-- Cómodo entrenador para correr
 - Hyper Burst
+- Ortholite
+- Cómodo entrenador para correr
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096KN1MPJ{{</world>}}

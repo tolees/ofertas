@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ropa interior para hombre
 - Corte regular
 - CAMISETA INDIVIDUAL
+- Ropa interior para hombre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS5D25FX{{</world>}}

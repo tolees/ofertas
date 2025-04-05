@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Capacidad de ocho tazas: ideal para compartir, hace 8 tazas pequeñas o alrededor de 3 tazas generosas
+- Soporte de plástico: el marco de polipropileno tiene un acabado negro inteligente y mango integrado en forma de comodidad
 - Jarra de cristal: es el mismo vidrio de borosilicato de alta calidad y resistente al calor que esperas de La Cafetière
 - Información útil: la jarra y el soporte son aptos para lavavajillas; viene en caja de regalo con una garantía de 5 años
-- Soporte de plástico: el marco de polipropileno tiene un acabado negro inteligente y mango integrado en forma de comodidad
-- Capacidad de ocho tazas: ideal para compartir, hace 8 tazas pequeñas o alrededor de 3 tazas generosas
 - Simple y fiable: esta cafetera mantiene las cosas simples, con un diseño resistente y resultados de gran sabor
 
 [🛒 Visítala!!!]({{< param buyurl >}})

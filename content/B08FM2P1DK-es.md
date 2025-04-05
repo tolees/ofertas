@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pyramid International, Taza desayuno Animal Crossing Lineup
+- 0,3 l
+- Blanco
 - Animal Crossing Tazas Lineup para Unisex
 - cerámica
-- 0,3 l
-- Pyramid International, Taza desayuno Animal Crossing Lineup
-- Blanco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08FM2P1DK{{</world>}}

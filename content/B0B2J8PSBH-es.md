@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- BOLSA - bolsos
+- Cintura elástica
+- Artículos entregados: 1x Helly Hansen Womens W Thalia Pant 2.0 - Pantalón Negro XS
 - 0
 - ILUSTRACIONES - IMPRIMIR el logotipo de HH
-- BOLSA - bolsos
-- Artículos entregados: 1x Helly Hansen Womens W Thalia Pant 2.0 - Pantalón Negro XS
-- Cintura elástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B2J8PSBH{{</world>}}

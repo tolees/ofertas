@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sin mangas
-- Cuello alto
 - Ajuste relajado
+- Cuello alto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09LRDLW2N{{</world>}}

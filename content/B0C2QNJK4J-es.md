@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Sistema de lazada rápida
+- Horma clásica
 - Mediasuela de EVA y plantilla OrthoLite
 - Parte de ripstop y puntera moldeada
 

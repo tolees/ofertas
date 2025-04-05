@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Explora durante horas y experimenta cuatro estaciones en la enorme isla del monte Fugu.
-- Resuelve puzles, evita a agentes entrometidos y cuélate en zonas cerradas con varios disfraces.
-- Juega y compite en las variadas actividades del mercado nocturno, como desfiles temáticos,carreras de gatos y actuaciones en escenario.
 - Fabrica objetos peculiares con los recursos que encuentres por el mundo mediante distintosminijuegos de mesa de trabajo.
 - Traba amistad y negocia con decenas de vecinos en el mercado nocturno semanal para vender casi todo lo que fabriques y encuentres.
+- Resuelve puzles, evita a agentes entrometidos y cuélate en zonas cerradas con varios disfraces.
+- Juega y compite en las variadas actividades del mercado nocturno, como desfiles temáticos,carreras de gatos y actuaciones en escenario.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9QP9KZL{{</world>}}

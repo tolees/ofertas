@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fuente natural de proteínas y rico en ácidos grasos de Omega 3 que ayudan a controlar los niveles de colesterol y a mantener un buen estado de salud cardiovascular.
-- Listo para tomar, se puede emplear en ensaladas, pastas, arroces y otras muchas recetas.
-- Atún Claro en Aceite de Girasol con abrefácil en pack de 3x80g.
 - Líquido de cobertura a base de aceite de girasol que aporta beneficios para el sistema inmune, la piel y el control del colesterol, además de complementar las propiedades del atún. También puede utilizarse para aderezar platos y darles un sabor más intenso.
 - Ingredientes: Atún Claro, Aceite de Girasol y Sal
+- Atún Claro en Aceite de Girasol con abrefácil en pack de 3x80g.
+- Listo para tomar, se puede emplear en ensaladas, pastas, arroces y otras muchas recetas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01H3V1KUM{{</world>}}

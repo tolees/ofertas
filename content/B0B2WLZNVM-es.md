@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- A partir de 10 años.
-- Duración del juego: aproximadamente 3 horas.
 - Puzzle de 1000 piezas que marca el inicio de Naruto Shippuden.
 - Dimensiones: 665 x 500 mm.
+- Duración del juego: aproximadamente 3 horas.
+- A partir de 10 años.
 - Contenido: 1 puzzle de 1000 piezas y 1 póster a escala del puzzle.
 - ¡Vuelve a la tierra de Naruto Uzumaki!
 

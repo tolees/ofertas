@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Un grande bolsillo canguro
-- Cuello con capucha
 - Puños acanalados
+- Cuello con capucha
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09C4RY5MD{{</world>}}

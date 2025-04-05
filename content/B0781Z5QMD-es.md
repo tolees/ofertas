@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cintura elástica con cordón de ajuste
 - Modelo adecuado para hombres
-- dryCELL: los materiales altamente funcionales que absorben el sudor de tu piel y te ayudan a mantenerte seco y cómodo durante el ejercicio
 - Pantalones de deporte
+- dryCELL: los materiales altamente funcionales que absorben el sudor de tu piel y te ayudan a mantenerte seco y cómodo durante el ejercicio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0781Z5QMD{{</world>}}

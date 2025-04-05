@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - El huevo mide 9 cm y hay 8 modelos diferentes para coleccionar
 - Presiona el botón de la cabeza y mira como mueve la mandíbula, con luces y sonidos
-- Producto distribuido en España por BIZAK; Servicio atención al cliente disponible todo el año (sat bizak )
-- Abre el huevo y construye tu propia criatura electrónica
 - al agitarlo emite diferentes sonidos
+- Abre el huevo y construye tu propia criatura electrónica
+- Producto distribuido en España por BIZAK; Servicio atención al cliente disponible todo el año (sat bizak )
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RQ2WHNM{{</world>}}

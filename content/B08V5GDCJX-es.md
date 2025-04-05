@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Biodegradable, bajo punto de fusión, olor neutro
-- Filamento PLA para impresora 3D Silk
 - Longitud aprox. : 170 m. Peso: 500 g. Diámetro: 1,75 mm
+- Biodegradable, bajo punto de fusión, olor neutro
 - Contenido del envío: filamento PLA, 0,5 kg
+- Filamento PLA para impresora 3D Silk
 - Para el procesamiento óptimo del material SILK PLA durante la impresión, recomendamos una temperatura de procesamiento de extrusora entre 200 y 250 grados. La velocidad de impresión óptima se sitúa entre 60 y 90 mm/s
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- TEXTURA: Fluida con microgotas en aceite y acabado sedoso con un tono malva natural. Intensidad aromática suave y floral gracias a la rosa y fresia y con un punto de dulzura al final
 - EFECTO LIFTING: Tensa y reafirma la cara. Actúa sobre los 10 signos de envejecimiento de la piel. El aceite de Camelia tiene efecto restaurador y rejuvenecedor de la piel. Tiene un booster de colágeno que reduce arrugas y líneas de expresión
+- MODO DE USO: Aplicar una pequeña cantidad sobre rostro, cuello y escote con la piel limpia o después del serum, realizando un suave masaje hasta su completa absorción
 - A PARTIR DE 50 AÑOS: Para pieles a partir de 50 años preocupadas por las arrugas, líneas de expresión y del envejecimiento cutáneo que no depende únicamente de la herencia genética, sino de otros factores como el sol. ¡Recupera la luminosidad y juventud!
 - REGENERA Y REDENSIFICA: Con ácido glicólico que tiene un potente efecto regenerador y redensificante. Aumenta el grosor de la piel estimulando la síntesis de colágeno y elastina. Su uso continuado reestablece el proceso de renovación celular diario
-- MODO DE USO: Aplicar una pequeña cantidad sobre rostro, cuello y escote con la piel limpia o después del serum, realizando un suave masaje hasta su completa absorción
-- TEXTURA: Fluida con microgotas en aceite y acabado sedoso con un tono malva natural. Intensidad aromática suave y floral gracias a la rosa y fresia y con un punto de dulzura al final
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B009K0GGXQ{{</world>}}

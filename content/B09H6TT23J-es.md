@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ortega liberdad de movimentos
 - Ajuste regular
+- Ortega liberdad de movimentos
 - Tiene detalles distintivos de la marca
 - Detalles distintivos de la marca
 

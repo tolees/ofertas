@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste y sensación sin esfuerzo
-- Logotipo de monograma bordado
 - Lavar a máquina
+- Logotipo de monograma bordado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0992CNH6V{{</world>}}

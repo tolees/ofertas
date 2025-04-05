@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rayas de manga
 - Gorilla wear
+- Rayas de manga
 - Cadenas detalladas
 - Adaptación de gran tamaño
 - Logotipo de GW Signature

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste global y tamaño medio con varillas ajustables
-- La montura RXable permite el uso de lentes graduadas
 - Lentes ligeras y resistentes a los arañazos que proporcionan una protección UV del 100%
-- GAFAS DE SOL KARL LAGERFELD KL6105S BLACK PARA MUJER TALLA 54/17/140
 - Forma «cat-eye» extrema para un look elegante y a la moda
+- Ajuste global y tamaño medio con varillas ajustables
+- GAFAS DE SOL KARL LAGERFELD KL6105S BLACK PARA MUJER TALLA 54/17/140
+- La montura RXable permite el uso de lentes graduadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRNQPHMS{{</world>}}

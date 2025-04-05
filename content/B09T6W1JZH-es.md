@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mangas largas
 - Cuello con cremallera
-- Puños ajustados
+- Mangas largas
 - Logo de la marca en el frente
+- Puños ajustados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T6W1JZH{{</world>}}

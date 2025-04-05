@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con una sudadera con capucha
-- Bordado en el pecho
 - Puños y dobladillo de punto acanalado
+- Bordado en el pecho
+- Con una sudadera con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKQD9CGL{{</world>}}

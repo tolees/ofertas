@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es bicolor
 - Compatibles con todo tipo de vehículos de ésta medida
+- Es bicolor
 - Tapacubos Sparco de 14 pulgadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 24.5" con resolución FHD (1920x1080 pixeles), 400 nits, panel IPS, con una una precisión del color sRGB al 99%, antirreflejos
-- Puertos 2xHDMI 2.0, 4x USB 3.2 Gen 1, 1xDP; cables DP y USB-A a USB-B incluidos en la caja
-- Tiempo de respuesta de 1ms (0.5 MPRT) y frecuencia de actualización de 240Hz
 - La tecnología AMD Radeon FreeSync permite la visualización fluida y constante de imágenes de juegos de calidad
+- Pantalla de 24.5" con resolución FHD (1920x1080 pixeles), 400 nits, panel IPS, con una una precisión del color sRGB al 99%, antirreflejos
+- Tiempo de respuesta de 1ms (0.5 MPRT) y frecuencia de actualización de 240Hz
 - Relación de aspecto 16:9 y relación de contraste 1000:1
+- Puertos 2xHDMI 2.0, 4x USB 3.2 Gen 1, 1xDP; cables DP y USB-A a USB-B incluidos en la caja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4SJYT4K{{</world>}}

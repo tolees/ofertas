@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EQUIPAMIENTO: El extractor para cocinas de Cata está equipado de un filtro metálico apto para lavavajillas y una bandeja recoge grasas, muy fácil de limpiar. Además, cuenta con un sistema de fácil instalación para ayudar al montaje del aparato.
 - DISEÑO RESISTENTE: Cuenta con un diseño de estructura resistente de acero inoxidable y una turbina de plástico. Con un ancho de 35,6 cm la campana extractora de pared es ideal para encimeras pequeñas y medianas y no precisa demasiado espacio.
+- EQUIPAMIENTO: El extractor para cocinas de Cata está equipado de un filtro metálico apto para lavavajillas y una bandeja recoge grasas, muy fácil de limpiar. Además, cuenta con un sistema de fácil instalación para ayudar al montaje del aparato.
+- ELEGANTE Y PRÁCTICO: El extractor de humos Professional de Cata se encarga de mantener a raya el humo y vapores al cocinar y cuenta con una estructura elegante de acero inoxidable.
 - POTENTE: olvídate de los humos y olores porque el extractor profesional de Cata puede extraer hasta 600 m³/h. El ruido de funcionamiento de este extractor de cocina es muy bajo: menos de 50 dB y el consumo máximo de energía del aparato es de 119W.
 - ILUMINACIÓN: Dispone de una potente luz LED E-14 para iluminar los fogones de la cocina mientras lo estás utilizando.
-- ELEGANTE Y PRÁCTICO: El extractor de humos Professional de Cata se encarga de mantener a raya el humo y vapores al cocinar y cuenta con una estructura elegante de acero inoxidable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B007PRCW16{{</world>}}

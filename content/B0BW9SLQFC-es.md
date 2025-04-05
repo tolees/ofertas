@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mahou Mixta, la cerveza limón, es una cerveza española refrescante que combina cerveza con limón, la alternativa de la cerveza, la radler sin Alcohol de Mahou: la Mixta de siempre
-- Aroma: cerveza Mixta tiene esencia frutal con predominio cítrico de limón
-- Apariencia: Cerveza lata Mahou mixta de color dorado pálido, brillante y de espuma ligera
 - Sabor: cerveza sabor limón. En boca destaca un gusto dulce ligero que deja paso a un amargor muy sutil con un toque ácido. El cuerpo es tenue y la sensación final de una bebida refrescante
+- Mahou Mixta, la cerveza limón, es una cerveza española refrescante que combina cerveza con limón, la alternativa de la cerveza, la radler sin Alcohol de Mahou: la Mixta de siempre
+- Apariencia: Cerveza lata Mahou mixta de color dorado pálido, brillante y de espuma ligera
+- Aroma: cerveza Mixta tiene esencia frutal con predominio cítrico de limón
 - Pack de cerveza Mahou Mixta de 24 latas de 33 cl, con 0,9% de alcohol. Mixta es la cerveza combinación de 16% de cerveza Mahou 5 Estrellas, en la que destaca el cuidado en la selección de las cebadas y su malteo, así como la combinación de variedades de lúpulo amargas y semiaromáticas de origen europeo; y 84% de refresco de limón, que le aporta los aromas cítricos y el dulzor. Para un mayor disfrute se recomienda consumir entre 4º y 6º C
 
 [🛒 Comprar!!!]({{< param buyurl >}})

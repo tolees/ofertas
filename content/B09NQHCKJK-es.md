@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para obtener los mejores resultados: 1) Riza las pestañas con un rizador de pestañas. 2) Aplica una imprimación para pestañas. 3) Aplica la máscara en la parte inferior de las pestañas y barre desde la raíz hasta la punta en movimiento en zig-zag
+- Contenido: 1 máscara de pestañas Maybelline New York, Sensational Sky, para pestañas largas, sombra: negro cósmico, volumen: 7,2 ml
 - El cepillo flexible Flex Tower para rímel llega de forma flexible a cada pestaña para una cobertura completa de las pestañas, probado por oftalmólogos, adecuado para ojos sensibles y usuarios de lentes de contacto
 - Para un volumen de alargamiento ilimitado desde cualquier ángulo, cuerpo ligero sin peso, color ricamente pigmentado sin escamas, efecto definitorio, rizado y multiplicador de pestañas
-- Contenido: 1 máscara de pestañas Maybelline New York, Sensational Sky, para pestañas largas, sombra: negro cósmico, volumen: 7,2 ml
+- Para obtener los mejores resultados: 1) Riza las pestañas con un rizador de pestañas. 2) Aplica una imprimación para pestañas. 3) Aplica la máscara en la parte inferior de las pestañas y barre desde la raíz hasta la punta en movimiento en zig-zag
 - Máscara de pestañas voluminizadora y alargadora lavable para pestañas altas, fórmula edificable con extracto de bambú nutritivo y fibras para pestañas más completas y largas, adecuada para todas las pestañas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

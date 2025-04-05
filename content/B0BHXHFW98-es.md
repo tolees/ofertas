@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalón chino
 - Cintura normal
+- Pantalón chino
 - Pantalón chino para hombre de la marca danesa Jack & Jones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

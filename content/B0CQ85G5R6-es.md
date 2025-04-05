@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una alternativa sabrosa para el aperitivo
-- Una exquisita mezcla de pera, piña, ciruela, albaricoque y manzana deshidratados
-- La siguiente información se aplica a cada unidad del paquete
-- Apto para dietas vegetarianas y veganas
-- El embalaje puede variar de las imágenes mostradas. Este producto era anteriormente un producto de Happy Belly. Ahora es parte de la marca by Amazon. El producto tiene exactamente las mismas formulaciones, tamaño y calidad
-- Ingredientes: pera deshidratada, piña deshidratada, ciruela deshidratada, albaricoque deshidratado, manzana deshidratada, agente conservante (dióxido de azufre, sorbato potásico), regulador de acidez: ácido cítrico
 - Bajo en grasas
+- Ingredientes: pera deshidratada, piña deshidratada, ciruela deshidratada, albaricoque deshidratado, manzana deshidratada, agente conservante (dióxido de azufre, sorbato potásico), regulador de acidez: ácido cítrico
+- Una exquisita mezcla de pera, piña, ciruela, albaricoque y manzana deshidratados
+- Una alternativa sabrosa para el aperitivo
+- El embalaje puede variar de las imágenes mostradas. Este producto era anteriormente un producto de Happy Belly. Ahora es parte de la marca by Amazon. El producto tiene exactamente las mismas formulaciones, tamaño y calidad
+- Apto para dietas vegetarianas y veganas
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQ85G5R6{{</world>}}

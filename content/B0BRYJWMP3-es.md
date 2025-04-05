@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bragueta de cremallera
-- Cinco bolsillos
 - Etiqueta de G-Star RAW de piel de vacuno en la parte posterior de la cintura
 - Prenda ajustada de arriba abajo
+- Bragueta de cremallera
 - Talle alto
+- Cinco bolsillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRYJWMP3{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido transpirable
 - Ajuste regular
 - Cintura elástica
+- Tejido transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NYLZM9W{{</world>}}

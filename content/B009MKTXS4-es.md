@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Superficie cromada Grohe StarLight
-- Juego de montaje final sin cuerpo de empotrar
 - Montaje vertical u horizontal
+- Juego de montaje final sin cuerpo de empotrar
 - Intrínsecamente seguro contra el reflujo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

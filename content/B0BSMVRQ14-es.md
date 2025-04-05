@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de tracción flexible
 - Ajuste elástico
 - Skechers y detalles del logotipo Arch Fit
+- Suela de tracción flexible
 - Parte superior de punto diseñada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

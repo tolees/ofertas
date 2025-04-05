@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Rendimiento: 0,5 m² de pared
 - Secado al tacto 30min.
 - Prueba el color antes de pintar.
-- Rendimiento: 0,5 m² de pared
 - Este color pertenece a la colección Colores del Mundo. Pintura monocapa. Ecológica.
 - Tester de pintura plástica interior para paredes y techos, a base de agua. La muestra incluye un mini-rodillo aplicador que permiten hacer pruebas directamente sobre la pared de tu casa.
 

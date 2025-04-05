@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dual density charged cushioning midsole for the ultimate blend of comfort and explosive energy return
 - Removable, deluxe foam sockliner for ultimate step-in comfort and cushioning
-- Lightweight mesh upper with textured overlay details delivers complete breathability
-- Solid rubber outsole with strategically placed pods for added durability in high-abrasion areas​
+- Dual density charged cushioning midsole for the ultimate blend of comfort and explosive energy return
 - NEUTRAL: for runners who need a balance of flexibility and cushioning
+- Solid rubber outsole with strategically placed pods for added durability in high-abrasion areas​
+- Lightweight mesh upper with textured overlay details delivers complete breathability
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BGQMGP3C{{</world>}}

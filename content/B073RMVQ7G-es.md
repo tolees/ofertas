@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta REEBOK REEBOK CAMISETA G ES LS TEE AUBERG
-- Productos de entrenamiento -, Perfil: NIÑA, Material:, Color: AUBERG
 - Model: G Es Ls Tee Xxs
+- Productos de entrenamiento -, Perfil: NIÑA, Material:, Color: AUBERG
+- Camiseta REEBOK REEBOK CAMISETA G ES LS TEE AUBERG
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B073RMVQ7G{{</world>}}

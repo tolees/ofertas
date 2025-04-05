@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 40% poliéster
-- 1% elastano
-- 20% poliéster
 - Camiseta y chaqueta: 60% algodón
 - Vaqueros: 79% algodón
+- 40% poliéster
+- 20% poliéster
+- 1% elastano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YCP5Y5L{{</world>}}

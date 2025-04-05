@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
-- Horma clásica
 - Diseño acolchado
 - Forro textil
+- Cierre de cordones
+- Horma clásica
 - Parte superior de piel sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})

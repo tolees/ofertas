@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho del zapato: estrecho
-- Forma redonda
-- Material interior: 80% tejido textil
 - Forma del talón: plano
+- Material interior: 80% tejido textil
+- Ancho del zapato: estrecho
 - Piel: charol
 - Correa: Toe Strap
+- Forma redonda
 - Material exterior: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

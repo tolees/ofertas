@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
 - Tonos oscuros
+- Cuello redondo
 - Sudadera de ajuste clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

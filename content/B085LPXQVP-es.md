@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Elástico
 - Dos bolsillos laterales
 - Cintura elástica con cordón
-- Elástico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B085LPXQVP{{</world>}}

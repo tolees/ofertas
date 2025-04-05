@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavado vintage azul fresco
-- Silueta cruzada
 - Detalles plisados
 - Falda asimétrica
+- Lavado vintage azul fresco
+- Silueta cruzada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKQFHGZD{{</world>}}

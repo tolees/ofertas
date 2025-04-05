@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capacidad máxima de carga de la silla de paseo 34 kg
-- cinturón de seguridad A 5 puntos; niños 1
 - Dimensiones plegada 87 x 65 x 37,5 cm; peso 11,7 kg
+- cinturón de seguridad A 5 puntos; niños 1
+- Capacidad máxima de carga de la silla de paseo 34 kg
 - Peso máximo del niño: 22 kg
 - Anchura de los hombros 36,5 cm; altura del asiento 68 cm; a través de la puerta 65 cm
 

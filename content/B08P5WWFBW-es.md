@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LED effects: tecnología de retroiluminación con luces LED efecto rainbow con brillo ajustable
-- Anti-ghosting (19 keys): teclado de membrana con función anti-ghosting para evitar que presiones cualquier tecla y desconectes de la partida
-- Smooth and optimal typing: teclado de membrana con pulsación suave y optimizada para una mayor durabilidad
 - Brand: Energy Sistem
+- LED effects: tecnología de retroiluminación con luces LED efecto rainbow con brillo ajustable
+- Smooth and optimal typing: teclado de membrana con pulsación suave y optimizada para una mayor durabilidad
+- Anti-ghosting (19 keys): teclado de membrana con función anti-ghosting para evitar que presiones cualquier tecla y desconectes de la partida
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08P5WWFBW{{</world>}}

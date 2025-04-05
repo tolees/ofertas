@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfume suave y discreto
-- Con lactoserum revitalizante
 - Proporciona una sensación refrescante y nutritiva
+- Con lactoserum revitalizante
+- Perfume suave y discreto
 - Formulado con ácido l-láctico biológico
 - Suavidad demostrada clínicamente
 

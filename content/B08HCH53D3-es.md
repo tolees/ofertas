@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- JARRA. De cristal con capacidad de 1.8L, ideal para raciones tanto individuales como de grupo
 - VELOCIDADES. Control electrónico de velocidad con luz LED con 3 configuraciones pre-programadas: Smoothie, Ice crush & Pulse para golpes de potencia máxima
 - SEGURIDAD. Cuenta con una tapa con cierre hermético y apertura superior que permite introducir los alimentos sin necesidad de retirar la tapa. Además de un bloqueo de seguridad para que el motor funcione sólo si la jarra está colocada de forma correcta
 - CUCHILLAS. Sus 6 cuchillas de titanio la hacen resistente y eficaz ante cualquier alimento y es además apta para picar hielo. Los acabados del cuerpo son de acero inoxidable
+- JARRA. De cristal con capacidad de 1.8L, ideal para raciones tanto individuales como de grupo
 - POTENCIA. Batidora de vaso multifunción de 2100W de potencia para picar, mezclar, triturar, licuar, batir y preparar tus recetas favoritas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

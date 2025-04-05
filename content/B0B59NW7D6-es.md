@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga larga
-- Lavar a mano
 - 100% Compuesto
+- Lavar a mano
+- Manga larga
 - Cierre de Cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

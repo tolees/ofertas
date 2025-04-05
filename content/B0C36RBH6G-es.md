@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos bolsillos delanteros con bolsillo para monedas
 - Dos bolsillos traseros
+- Dos bolsillos delanteros con bolsillo para monedas
 - Cintura con trabillas para cinturón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punta redonda
 - Tommy Hilfiger Marca:
+- Punta redonda
 - Plantilla extraíble de goma termoplástica reciclada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto de la marca artemisbio
 - Elaborado con productos naturales
 - El mejor producto para el cuidado y bienestar de tu cuerpo
-- Producto de la marca artemisbio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DN9P0LO{{</world>}}

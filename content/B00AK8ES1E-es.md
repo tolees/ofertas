@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disponibles en 300mm (18, 24 y 32 tpi)
-- Marca: Stanley
 - Hojas de metal ultraflexibles y resistentes
+- Marca: Stanley
 - Puede rasgar el plástico duro
+- Disponibles en 300mm (18, 24 y 32 tpi)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AK8ES1E{{</world>}}

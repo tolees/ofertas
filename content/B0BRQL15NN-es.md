@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: papel FSC
 - Incluye 1 hoja de pegatinas y un laminado antirrayaduras en la portada.
+- Material: papel FSC
+- Cuenta con el certificado FSC, lo que garantiza que ha sido realizada con papel proveniente de bosques gestionados de forma sostenible.
 - Medidas: 15 x 1,6 x 21 cm
 - Libreta de tamaño A5 con encuadernación en espiral y 160 páginas cuadriculadas en su interior.
-- Cuenta con el certificado FSC, lo que garantiza que ha sido realizada con papel proveniente de bosques gestionados de forma sostenible.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRQL15NN{{</world>}}

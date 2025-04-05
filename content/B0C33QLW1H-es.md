@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
 - Suela de goma
+- Cierre de cordones
 - Práctico y cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El ángulo de retorno mínimo dentro de la boca "agarra" el tornillo cada 15°
-- El lado anular es delgado y está doblado en un ángulo de 15°
-- Especialmente adecuado para espacios de montaje muy estrechos
 - Adecuada para la conexión con el sistema wera 2go
+- Especialmente adecuado para espacios de montaje muy estrechos
 - La geometría especial de la boca amplía las posibilidades de posicionamiento de la herramienta
+- El lado anular es delgado y está doblado en un ángulo de 15°
+- El ángulo de retorno mínimo dentro de la boca "agarra" el tornillo cada 15°
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B085CSMQJ6{{</world>}}

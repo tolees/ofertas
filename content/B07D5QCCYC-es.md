@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Checked shirt
 - Casual shirt made of cotton
+- Checked shirt
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07D5QCCYC{{</world>}}

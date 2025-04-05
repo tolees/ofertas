@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de piel: Normal
-- Diseño funcional
 - Diseñado para ofrecer una excelente experiencia al cliente
+- Tipo de piel: Normal
 - Creado siguiendo los más altos estándares de la marca Max Factor
+- Diseño funcional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001GNBVS0{{</world>}}

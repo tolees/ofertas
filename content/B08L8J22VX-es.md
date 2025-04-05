@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de tracción flexible
 - Tejido de malla ligero y parte superior sintética con ribete de superposición perforado
+- Suela de tracción flexible
 - Diseño casual de tenis Oxford con cordones elásticos en la parte delantera
 - Plantilla transpirable con amortiguación de alto rebote
 - Entresuela flexible que absorbe los golpes

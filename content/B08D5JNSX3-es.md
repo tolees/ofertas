@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: CRICUT
-- Fabricado con adhesivo duradero a base de agua
 - Adecuado para vinilo, plancha, cartulina gruesa, cartulina
+- Fabricado con adhesivo duradero a base de agua
+- Marca: CRICUT
 - Alfombrilla de corte adhesiva reutilizable para Maker + Explore
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto es original Levis
-- Confeccionada con un toque único característico de los 90 y un diseño de dos bolsillos con solapa
-- El desgaste natural hace que mejore con el tiempo
 - Un homenaje a la emblemática chaqueta Levis Trucker
+- Confeccionada con un toque único característico de los 90 y un diseño de dos bolsillos con solapa
+- Este producto es original Levis
 - Un lienzo en blanco para la expresión propia que se puede heredar durante generaciones
+- El desgaste natural hace que mejore con el tiempo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B27XHVCC{{</world>}}

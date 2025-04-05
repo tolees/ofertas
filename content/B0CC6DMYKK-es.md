@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Encuentra el accesorio a juego y combínalo ¡Consigue tu conjunto!
 - Diseño tricot con estilo inconfundible y protección contra el frío
+- Encuentra el accesorio a juego y combínalo ¡Consigue tu conjunto!
 - Tejido de punto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

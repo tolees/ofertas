@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suaviza, hidrata y reafirma la piel; tonifica y tensa ligeramente la piel
 - Gel antibolsas para el contorno de ojos con Salvia; recomendado para el cuidado diario, apto para todas las edades
 - Adecuado para usuarios de lentes de contacto; testado dermatológica y oftalmológicamente; sin Perfumes
 - Gel antibolsas para el contorno de ojos con Salvia; recomendado para el cuidado diario, apto para todas las edades
+- Suaviza, hidrata y reafirma la piel; tonifica y tensa ligeramente la piel
 - Ingredientes activos: Extracto de salvia, Provitamina B5 (D-Panthenol)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

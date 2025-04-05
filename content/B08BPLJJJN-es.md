@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ESTÁ TESTADO CIENTÍFICAMENTE: ha superado estudios de eficacia que certifican que protege durante 3 meses a tu mascota contra los ataques de mosquitos, pulgas y garrapatas.
-- MODO DE EMPLEO: Coloque el collar en el cuello del animal de manera que permita pasar dos dedos por debajo. Cortar la parte sobrante del collar. Reemplazar el collar después de tres meses de utilización o en caso de reinfestación de parásitos.
-- La MARGOSA (NEEM) es un insecticida natural que elimina todo tipo de insectos presentes en la piel o el pelaje (pulgas, garrapatas, chinches, ácaros). El GERANIOL Y EL LAVANDINO, repelentes naturales, proporcionan una protección adicional repeliendo todo tipo de insectos voladores (moscas, tábanos, avispas).
-- Resistente al agua
-- Para gatos mayores de 3 meses
 - CONTIENE 3 ACTIVOS REPELENTES NATURALES: MARGOSA, GERANIOL Y LAVANDINO que protegen de las infestaciones de parásitos externos como pulgas, garrapatas, piojos, ácaros y también de las picaduras de mosquitos.
+- MODO DE EMPLEO: Coloque el collar en el cuello del animal de manera que permita pasar dos dedos por debajo. Cortar la parte sobrante del collar. Reemplazar el collar después de tres meses de utilización o en caso de reinfestación de parásitos.
+- Resistente al agua
+- La MARGOSA (NEEM) es un insecticida natural que elimina todo tipo de insectos presentes en la piel o el pelaje (pulgas, garrapatas, chinches, ácaros). El GERANIOL Y EL LAVANDINO, repelentes naturales, proporcionan una protección adicional repeliendo todo tipo de insectos voladores (moscas, tábanos, avispas).
 - Rango de edad: Todas las etapas de la vida
+- Para gatos mayores de 3 meses
+- ESTÁ TESTADO CIENTÍFICAMENTE: ha superado estudios de eficacia que certifican que protege durante 3 meses a tu mascota contra los ataques de mosquitos, pulgas y garrapatas.
 - MEDIDA: 30 cm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

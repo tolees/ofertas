@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatillas para correr
-- Network de malla 3D abierta para la máxima transpirabilidad
 - Espuma EVA de gran rendimiento
+- Network de malla 3D abierta para la máxima transpirabilidad
+- Zapatillas para correr
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0983YGJQ8{{</world>}}

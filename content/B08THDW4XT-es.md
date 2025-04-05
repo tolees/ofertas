@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuados para deporte o para uso diario
 - Diseño con tres rayas y logotipo de adidas en la cadera
 - Corte entallado
+- Adecuados para deporte o para uso diario
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

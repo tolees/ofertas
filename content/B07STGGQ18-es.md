@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tipo de memoria: DDR4
 - Versión de PCI Express: PCIe 4.0 x16
+- Reloj de aumento máx.: Hasta 4.2GHz
 - Solución térmica (MPK): Wraith Stealth
 - Numero de núcleos de cpu: 6
-- Reloj de aumento máx.: Hasta 4.2GHz
 - TDP/TDP predeterminado: 65W
 - Plataforma: Computadora de escritorio
-- Tipo de memoria: DDR4
 - Velocidad máxima de memoria: 3200MHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})

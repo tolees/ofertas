@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Algodón
 - Instrucciones de cuidado: Lavar a máquina en frío (30 máx.)
+- Material exterior: Algodón
 - Tipo de tela: 93% algodón, 7% elastano
 - Estilo de la cintura: Regular
 

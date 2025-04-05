@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estándar
 - Tamaño del paquete: 2,6 x 28,19 x 22,0 cm
+- Estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PCJTC1D{{</world>}}

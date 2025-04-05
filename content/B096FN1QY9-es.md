@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Natureline Games para juegos sostenibles
-- Embalaje 100% libre de plástico sin película de papel reciclado
 - Excelente juego de cartas más vendido nominado a Juego del Año
+- Embalaje 100% libre de plástico sin película de papel reciclado
 - Tipo especial de experiencia grupal sostenible
+- Natureline Games para juegos sostenibles
 - Barajas de papel 100% certificadas por el FSC
 
 [🛒 Comprar!!!]({{< param buyurl >}})

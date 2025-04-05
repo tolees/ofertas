@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste adherente
 - Cerrar con cordones.
 - Zapatos deportivos
+- Ajuste adherente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGGV2M7N{{</world>}}

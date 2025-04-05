@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Saludable, prepara palomitas sin aceites, sin saborizantes artificiales, grasas saturadas, conservadores o sales - una opción de palomitas saludables gracias a su sistema de cocción por aire caliente
-- Gran capacidad de palomitas
 - Un piloto luminoso de conexión
+- Gran capacidad de palomitas
+- Saludable, prepara palomitas sin aceites, sin saborizantes artificiales, grasas saturadas, conservadores o sales - una opción de palomitas saludables gracias a su sistema de cocción por aire caliente
 - Fácil y rápido, tus palomitas listas en 3 minutos dejándolas caer
 
 [🛒 Comprar!!!]({{< param buyurl >}})

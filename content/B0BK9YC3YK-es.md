@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ANKORA LOST DAYS Usa el martillo para construir estructuras, la pala para cavar y modificar el terreno y otras herramientas para sortear los diferentes obstáculos. Usa el arco y la lanza para sobrevivir a los diferentes biomas y peligros de Ankora
 - Descubre cómo cambia tu planeta a través de las diferentes estaciones. Con cultivos diferentes según sea primavera, verano, otoño o invierno
+- ANKORA LOST DAYS Usa el martillo para construir estructuras, la pala para cavar y modificar el terreno y otras herramientas para sortear los diferentes obstáculos. Usa el arco y la lanza para sobrevivir a los diferentes biomas y peligros de Ankora
 - DEILAND POCKET PLANET Crea el planeta de tus sueños, con diferentes plantas, cultivos y estructuras
-- Hay 6 biomas diferentes en Ankora: bosque, desierto, prados, montañas nevadas, etc. y más de 100 niveles con diferentes localizaciones y lugares secretos por descubrir
 - Incluye Dos Juegos, Ankora: Lost Days y Deiland: Pocket Planet
+- Hay 6 biomas diferentes en Ankora: bosque, desierto, prados, montañas nevadas, etc. y más de 100 niveles con diferentes localizaciones y lugares secretos por descubrir
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BK9YC3YK{{</world>}}

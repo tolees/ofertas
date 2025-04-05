@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compra una talla más grande
 - Mediasuela Cloudfoam
+- Compra una talla más grande
 - Plantilla OrthoLite
 
 [🛒 Visítala!!!]({{< param buyurl >}})

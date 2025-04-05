@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- porcentaje de elastano
 - Bolsillos en las piernas con cierre de botones
 - Algodón orgánico
-- porcentaje de elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C29WD1G{{</world>}}

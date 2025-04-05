@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Todas las medidas importantes claramente clasificadas
+- En caja de almacenaje
+- Métricos
 - 4 pasadores huecos/pasadores de resorte 7 x 70 mm | 3 pasadores huecos/pasadores de resorte 8 x 80 mm | 4 pasadores huecos/pasadores de resorte 8 x 50 mm | 2 pasadores huecos/pasadores de resorte 10 x 80 mm | 6 pasadores huecos/pasadores de resorte 10 x 40 mm | 8 pasadores huecos/pasadores de resorte 8 x 40 mm | 20 pasadores huecos/pasadores de resorte 6 x 40 mm | 80 pasadores huecos/pasadores de resorte 3 x 30 mm | 150 pasadores huecos/pasadores de resorte 2 x 20 mm
 - Contenido de suministro: 30 pasadores huecos/pasadores de resorte 3 x 40 mm | 40 pasadores huecos/pasadores de resorte 4 x 30 mm | 20 pasadores huecos/pasadores de resorte4 x 40 mm | 30 pasadores huecos/pasadores de resorte 5 x 40 mm | 30 pasadores huecos/pasadores de resorte 4 x 50 mm | 5 pasadores huecos/pasadores de resorte 5 x 50 mm | 5 pasadores huecos/pasadores de resorte 6 x 50 mm | 5 pasadores huecos/pasadores de resorte 5 x 60 mm | 4 pasadores huecos/pasadores de resorte 6 x 60 mm | 4 pasadores huecos/pasadores de resorte 8 x 60 mm
-- Métricos
-- En caja de almacenaje
+- Todas las medidas importantes claramente clasificadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000PTO5HU{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma
 - Compra una talla más grande
+- Cierre de cordones
 - Parte superior de piel
 - Mediasuela Cloudfoam
-- Cierre de cordones
 - Horma clásica
+- Suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5NY4L6K{{</world>}}

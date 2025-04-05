@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jalisco Brush: cepillo para suelos duros que con su tecnología de microfibras captura el polvo, arena, ácaros, pelusa… de forma eficiente, ya que aspira el triple de suciedad en una sóla pasada*. *Pruebas en laboratorio realizadas con arena dolomítica de acuerdo con el estándar IEC 60312-1:2010. APP Control: controla desde tu smartphone programas, potencia, fregado, historial…
-- Alexa & Google Assistant: compatible con tu asistente virtual por voz. iWater: fregado inteligente con 3 niveles de caudal de agua (High, Medium y Low).
-- 10 Programas: Auto, Random, Bordes, Fregado intensivo, Habitación, Espiral, Manual y Vuelta a casa. Memory Control: memoriza el recorrido, define la ruta más rápida, limpia la totalidad de la superficie recorrida y vuelve directo a la base de carga.
-- iTech SmartGyro 4.0: navegación ordenada para una limpieza más eficiente gracias a sus sensores giroscópicos, de proximidad, antichoque y anticaída. 4 IN 1: robot aspirador que barre, aspira, pasa la mopa y friega. ForceClean 2100 Pa: gran potencia de succión para una limpieza profunda.
 - Total Surface: se recarga y vuelve al punto donde se quedó hasta limpiar la totalidad de la superficie recorrida. Virtual Map: visualiza el mapa de tu hogar desde su aplicación para smartphone.
+- Jalisco Brush: cepillo para suelos duros que con su tecnología de microfibras captura el polvo, arena, ácaros, pelusa… de forma eficiente, ya que aspira el triple de suciedad en una sóla pasada*. *Pruebas en laboratorio realizadas con arena dolomítica de acuerdo con el estándar IEC 60312-1:2010. APP Control: controla desde tu smartphone programas, potencia, fregado, historial…
+- 10 Programas: Auto, Random, Bordes, Fregado intensivo, Habitación, Espiral, Manual y Vuelta a casa. Memory Control: memoriza el recorrido, define la ruta más rápida, limpia la totalidad de la superficie recorrida y vuelve directo a la base de carga.
+- Alexa & Google Assistant: compatible con tu asistente virtual por voz. iWater: fregado inteligente con 3 niveles de caudal de agua (High, Medium y Low).
+- iTech SmartGyro 4.0: navegación ordenada para una limpieza más eficiente gracias a sus sensores giroscópicos, de proximidad, antichoque y anticaída. 4 IN 1: robot aspirador que barre, aspira, pasa la mopa y friega. ForceClean 2100 Pa: gran potencia de succión para una limpieza profunda.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGQ4LKD5{{</world>}}

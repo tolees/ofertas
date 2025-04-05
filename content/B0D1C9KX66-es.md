@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La naturaleza como mecánica de juego
+- Edición Coleccionista NSW
+- Sin texto - Sin HUD Sólo inmersión
 - Puzzles de resolución mental
 - Narración silenciosa
-- La naturaleza como mecánica de juego
-- Sin texto - Sin HUD Sólo inmersión
-- Edición Coleccionista NSW
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1C9KX66{{</world>}}

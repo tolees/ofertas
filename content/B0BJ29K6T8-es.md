@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Toda la enfasis está en la unidad de suela exterior elevada
 - A fashion take on the classic FILA boot
 - Elegante y listo para el invierno
-- Toda la enfasis está en la unidad de suela exterior elevada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BJ29K6T8{{</world>}}

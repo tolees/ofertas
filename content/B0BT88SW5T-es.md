@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corto
 - Cuello Mao
+- Manga larga
 - monocolor
 - Corte ajustado
 - Desigual
-- Manga larga
-- Corto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT88SW5T{{</world>}}

@@ -28,17 +28,17 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parada de percusión para taladrar en metal y madera
-- Mecanismo de percusión neumático con una fuerza de percusión de 1,7 julios
-- Incluye: martillo percutor PBH 2100 RE, empuñadura adicional, tope de profundidad y maletín de transporte
-- Percusión sin esfuerzos en hormigón y mampostería, cincelado, taladrado y atornillado
-- Parada de percusión para taladrar en metal y madera
 - SDS-plus de Bosch: cambio rápido y sin herramienta del útil de inserción
+- Percusión sin esfuerzos en hormigón y mampostería, cincelado, taladrado y atornillado
 - Función integrada de cincelado con Vario-Lock: libre elección de la posición de trabajo del cincel
-- SDS-plus: cambio rápido y sin herramienta del útil de inserción
+- Incluye: martillo percutor PBH 2100 RE, empuñadura adicional, tope de profundidad y maletín de transporte
 - Control electrónico del número de revoluciones Bosch: "aceleración" de 0 a máx. desde el pulsador de conmutación
-- Función integrada de cincelado con Vario-Lock: libre elección de la posición de trabajo del cincel
+- Parada de percusión para taladrar en metal y madera
+- Parada de percusión para taladrar en metal y madera
 - Peso de trabajo reducido y diseño Slimline compacto con empuñadura antivibraciones Softgrip
+- Mecanismo de percusión neumático con una fuerza de percusión de 1,7 julios
+- SDS-plus: cambio rápido y sin herramienta del útil de inserción
+- Función integrada de cincelado con Vario-Lock: libre elección de la posición de trabajo del cincel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0064KFLRC{{</world>}}

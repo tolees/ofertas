@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Conectividad: entrada combinada XLR y TRS de 6,35 mm, 1 entrada de 6,35 mm para instrumentos, salidas estéreo de 6,35 mm y salida de auriculares de 6,35 mm con control de nivel independiente
-- Captura nítida con calidad de estudio: preamplificadores Crystal transparentes y conversores analógico-digitales ultranítidos para ofrecer una calidad de grabación de audio sin igual
-- Baja latencia: circuitería USB y USB-C de alta velocidad que ofrece la conexión más rápida con una inmejorable latencia de ida y vuelta de 2,59 ms* (cables USB y USB-C incluidos)
-- Captura todos los detalles: selección de componentes de primera categoría y resolución de 24 bits y 192 kHz para monitorización y grabación profesional con Mac u ordenador
 - Interfaz de audio repleta de funcionalidades: estructura metálica robusta, gran control de volumen central, vúmetros LED y regulador de salida directa USB para monitorizar con una latencia nula
+- Captura nítida con calidad de estudio: preamplificadores Crystal transparentes y conversores analógico-digitales ultranítidos para ofrecer una calidad de grabación de audio sin igual
 - Paquete de grabación completo: tarjeta de sonido externa / interfaz audio USB 24/192 con 2 entradas y 2 salidas, micrófono de condensador Nova Black, soporte amortiguado, cable XLR y auriculares HDH40
+- Captura todos los detalles: selección de componentes de primera categoría y resolución de 24 bits y 192 kHz para monitorización y grabación profesional con Mac u ordenador
+- Baja latencia: circuitería USB y USB-C de alta velocidad que ofrece la conexión más rápida con una inmejorable latencia de ida y vuelta de 2,59 ms* (cables USB y USB-C incluidos)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YZMGWXH{{</world>}}

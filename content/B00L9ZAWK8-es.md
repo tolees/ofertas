@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 1 unidad
 - Escobilla de flauta
 - Brand: Pryse
 - Color negro y verde
-- 1 unidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00L9ZAWK8{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha con parte delantera cruzada y triángulo acanalado – Cordón
-- Bolsillo canguro
-- Inserciones laterales, puños y dobladillo en diseño acanalado
 - Mangas largas, insertadas rectas, bordes redondeados
+- Bolsillo canguro
+- Capucha con parte delantera cruzada y triángulo acanalado – Cordón
+- Inserciones laterales, puños y dobladillo en diseño acanalado
 - G-Star RAW Bordado en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

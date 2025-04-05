@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con filtros de 67mm
-- Para cámaras compactas sin espejo con sensor APS-C
 - Parasol extraíble
 - Enfoque manual
-- Con revestimiento UMC anti-reflectante
 - Montura para Sony E
+- Para cámaras compactas sin espejo con sensor APS-C
+- Con revestimiento UMC anti-reflectante
+- Compatible con filtros de 67mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MHI0IGY{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Conjunto deportivo infantil
-- Logo de la marca en el frente
 - Chaqueta con cremallera
 - Pantalón largo con puños elásticos
+- Logo de la marca en el frente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XDQ3VJ4{{</world>}}

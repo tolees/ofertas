@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% vegano - animal frtiendly
 - CO-WASH: Con el cabello mojado, aplicar el producto por todo el cuero cabelludo y masajaer con las llemas de los dedos. Después añadir producto a medios y puntas, desenredar con los dedos y enjuagar. Repetir si se necesita mayor limpieza en el cuero cabelludo.
-- Puedes usarla como crema acondicionadora, co-wash o crema de peinado.
 - La línea SKALA EXPERT está diseñada para un cuidado eficaz e innovador para diferentes tipos de cabello.
-- Mascarilla acondicionadora con aceites vegetales que elimina el encrespamiento, hidrata y aporta volumen y brillo al cabello opaco sin dejar residuos.
+- Puedes usarla como crema acondicionadora, co-wash o crema de peinado.
+- 100% vegano - animal frtiendly
 - ACONDICIONADOR O MASCARILLA: Aplicar con el cabello limpio mechón a mechón durante 3 minutos y enjuagar. Para un tratamiento más intesivo, utilizar un gorro térmico durante 15 minutos y enjuagar.
 - CREMA PARA PEINAR: Aplicar con el cabello húmedo mechón a mechón y esparcirlo bien. NO ENJUAGAR y peinar como se desee.
+- Mascarilla acondicionadora con aceites vegetales que elimina el encrespamiento, hidrata y aporta volumen y brillo al cabello opaco sin dejar residuos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09SPD17XJ{{</world>}}

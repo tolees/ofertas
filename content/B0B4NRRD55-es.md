@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta del remake del icónico FPS de 2003 lanzado inicialmente en PC, PlayStation 2, Xbox y Nintendo Gamecube.
-- Juega a los modos multijugador (Deathmatch / Team Deathmatch / XIII Kills)
-- Encuentra muchas referencias del cómic homónimo: onomatopeyas, globos de diálogo, cajas de cómic...
 - Prueba un brutal arsenal de 15 armas para recuperar la memoria perdida.
+- Disfruta del remake del icónico FPS de 2003 lanzado inicialmente en PC, PlayStation 2, Xbox y Nintendo Gamecube.
 - Una nueva dirección artística que respeta la obra original y su emblemático diseño cel-shading.
+- Encuentra muchas referencias del cómic homónimo: onomatopeyas, globos de diálogo, cajas de cómic...
+- Juega a los modos multijugador (Deathmatch / Team Deathmatch / XIII Kills)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B4NRRD55{{</world>}}

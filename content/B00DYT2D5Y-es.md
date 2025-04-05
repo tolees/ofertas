@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño de plástico ergonómico y resistente
 - Contiene medidor
+- Diseño de plástico ergonómico y resistente
 - Material libre de BpA
 - Cubo de fregar con capacidad para 12 litros
 

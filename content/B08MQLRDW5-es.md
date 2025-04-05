@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: 95% Bci Algodón - 3% Elastimuliester - 2% Elastáne
-- Tela Estrecho: Tiro bajo
 - Silueta: Straight Fit
-- Instrucciones de cuidado: Lavado a máquina
 - Cierre: Cremallera y botón
+- Composición: 95% Bci Algodón - 3% Elastimuliester - 2% Elastáne
 - Pantalón vaquero, largo
+- Instrucciones de cuidado: Lavado a máquina
+- Tela Estrecho: Tiro bajo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08MQLRDW5{{</world>}}

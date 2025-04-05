@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: piel
-- Cierre: cordones
 - Material de la suela: elastómeros termoplásticos
+- Cierre: cordones
+- Material exterior: piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCXD376T{{</world>}}

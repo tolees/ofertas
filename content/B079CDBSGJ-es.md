@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% algodón
-- Contraste inclinando a las mangas y collar.
-- Punto de pique
 - Ajustado
 - Tapeta de 3 botones
+- Contraste inclinando a las mangas y collar.
+- Punto de pique
+- 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079CDBSGJ{{</world>}}

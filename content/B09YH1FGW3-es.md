@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Datos de tamaño】 Chasis de la lámpara: 12CM. Diámetro: 50CM. La altura de toda la lámpara de techo de madera es de 70-80 cm. Atención: la altura de la Lámpara Colgante Vintage se ajusta en dos partes.
-- 【Fuente de luz】La lamparas de techo de madera necesita 3 bombillas E27 (25W cada una) para encenderse, las bombillas no están incluidas en el producto. Tenga en cuenta esto antes de comprar.
-- 【Ajustable】 Ajuste el cable de alambre colgante de la lámpara techo colgantes de madera para que la lámpara cuelgue a diferentes alturas. O ajuste la barra telescópica a la altura que desee.
 - 【Material de madera】Todas las lámparas de techo están hechas de hierro con madera que le dan una sensación rústica, y se pueden mostrar otras formas de acuerdo con el aspecto de iluminación deseado. Excelente artesanía. No hay necesidad de preocuparse por la decoloración, la oxidación o la corrosión.
+- 【Datos de tamaño】 Chasis de la lámpara: 12CM. Diámetro: 50CM. La altura de toda la lámpara de techo de madera es de 70-80 cm. Atención: la altura de la Lámpara Colgante Vintage se ajusta en dos partes.
 - 【Amplia aplicación】la lámpara colgante vintage es adecuada para cualquier habitación interior, como pasillos, dormitorios, salas de estar, cocinas, comedores, balcones, etc.
+- 【Ajustable】 Ajuste el cable de alambre colgante de la lámpara techo colgantes de madera para que la lámpara cuelgue a diferentes alturas. O ajuste la barra telescópica a la altura que desee.
+- 【Fuente de luz】La lamparas de techo de madera necesita 3 bombillas E27 (25W cada una) para encenderse, las bombillas no están incluidas en el producto. Tenga en cuenta esto antes de comprar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09YH1FGW3{{</world>}}

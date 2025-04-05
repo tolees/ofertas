@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marcador electrónico con indicaciones de: Tiempo, Velocidad, Distancia, RPM, ODO y Calorías
 - Volante de inercia equivalente a 18 kg.
 - Transmisión por correa (PK5).
 - Manillar regulable verticalmente con indicador de posición en el tubo
+- Marcador electrónico con indicaciones de: Tiempo, Velocidad, Distancia, RPM, ODO y Calorías
 - Freno magnético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

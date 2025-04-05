@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Elegante
-- Fuerte
 - Estilizado
+- Fuerte
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C287L4CS{{</world>}}

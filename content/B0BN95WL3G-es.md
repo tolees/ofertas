@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- PU Superior
+- Malla textil lining
 - Rubber outsole
 - Normal Insole
-- Malla textil lining
-- PU Superior
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN95WL3G{{</world>}}

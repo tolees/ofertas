@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gracias a todas las opciones que ofrece, puedes preparar una gran ración de patatas fritas en poco tiempo gracias a la práctica cesta para freír, y permite asar verduras o muslos de pollo al horno cómodamente mediante las rejillas de la parrilla. Usando su asa, puedes sacar fácilmente la cesta de patatas fritas y las parrillas del horno sin quemarte.
 - Este horno freidora es muy fácil de limpiar, especialmente porque su puerta además es extraíble
-- Con su capacidad de 10 litros (0,9 kg de patatas) y su potencia de 1800 W, podrás cocinar para toda la familia sin problemas; la convección de aire de alta velocidad ofrece una cocción más homogénea y rápida
-- Su pantalla digital es muy fácil de usar: elige el programa que necesites o configura manualmente el temporizador (1-60 minutos) y la temperatura (80-200 °C)
-- Gracias a sus 10 programas preinstalados, este horno multifunción de Tristar FR-6964 te permite preparar todo tipo de platos: carne, pescado, pan, verduras a la parrilla, pizzas, tartas y patatas fritas
+- Gracias a todas las opciones que ofrece, puedes preparar una gran ración de patatas fritas en poco tiempo gracias a la práctica cesta para freír, y permite asar verduras o muslos de pollo al horno cómodamente mediante las rejillas de la parrilla. Usando su asa, puedes sacar fácilmente la cesta de patatas fritas y las parrillas del horno sin quemarte.
 - Se incluyen accesorios: cesta para patatas fritas con su asa fría al tacto, 2 rejillas y bandeja recoge migas
+- Gracias a sus 10 programas preinstalados, este horno multifunción de Tristar FR-6964 te permite preparar todo tipo de platos: carne, pescado, pan, verduras a la parrilla, pizzas, tartas y patatas fritas
+- Su pantalla digital es muy fácil de usar: elige el programa que necesites o configura manualmente el temporizador (1-60 minutos) y la temperatura (80-200 °C)
 - Ahorra hasta un 60% de energía en tu hogar cuando usas esta freidora de aire Princess. El cálculo está basado en la comparación de un horno convencional de 3300W versus nuestra freidora de aire. No solo el uso de energía será menor, sino que tus alimentos se cocinarán mucho más rápido
+- Con su capacidad de 10 litros (0,9 kg de patatas) y su potencia de 1800 W, podrás cocinar para toda la familia sin problemas; la convección de aire de alta velocidad ofrece una cocción más homogénea y rápida
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08B699FVK{{</world>}}

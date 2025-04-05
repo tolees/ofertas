@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta individual
-- Ropa interior para mujer
 - Gran comodidad
+- Ropa interior para mujer
+- Camiseta individual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6BKX9T4{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este producto es original Levis
-- Abertura de pierna evasé diseñada para estilizar las piernas
-- Confeccionado de forma sostenible con algodón reciclado
 - Tiro alto de 25 cm
+- Confeccionado de forma sostenible con algodón reciclado
+- Este producto es original Levis
 - Fit de inspiración vintage ochentera
+- Abertura de pierna evasé diseñada para estilizar las piernas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B29L8NBF{{</world>}}

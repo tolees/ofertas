@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Logotipo impreso en contraste en el pecho
 - Fabricado con 100% algodón sostenible
 - Ajuste regular
-- Logotipo impreso en contraste en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS524LR7{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con forro suave de felpa
 - Bandas tubulares reflectantes y estampado de huellas
+- Con forro suave de felpa
 - Cintas elásticas para las patas traseras
 
 [🛒 Aquí!!!]({{< param buyurl >}})

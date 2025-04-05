@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Etiqueta tejida en la parte inferior delantera
-- Cuello redondo acanalado
-- Gráfico estampado de caucho en el pecho
-- Manga corta
 - Bajo recto
+- Cuello redondo acanalado
+- Manga corta
+- Gráfico estampado de caucho en el pecho
+- Etiqueta tejida en la parte inferior delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KWJG1B4{{</world>}}

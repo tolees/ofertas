@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Material interior: sintético
 - Cierre: goma
 - Material superior: cuero
-- Material interior: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN78YXJ2{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Bajo recto
-- Cuello redondo acanalado
 - Manga corta
+- Cuello redondo acanalado
 - Bordado de G-Star RAW en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

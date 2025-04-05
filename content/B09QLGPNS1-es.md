@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello, puños y dobladillo acanalados
 - Confección con 100 % algodón reciclado
 - Logotipo en relieve en la parte delantera
-- Cuello, puños y dobladillo acanalados
 - Sudadera de cuello redondo tejido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Juega más fácilmente con tus amigos gracias a la introducción de "Las Redes"
-- Más opciones de multijugador: seis titanes completamente nuevos, pilotos con nuevas habilidades, sistema de personalización aumentado, nuevos modos de juego y mucho más
 - Campaña de un jugador: adéntrate en la frontera como un fusilero miliciano que aspira a convertirse en piloto
+- Más opciones de multijugador: seis titanes completamente nuevos, pilotos con nuevas habilidades, sistema de personalización aumentado, nuevos modos de juego y mucho más
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01H0CBMXO{{</world>}}

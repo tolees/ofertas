@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Tienen un capuchón de color para que los pueda identificar de manera rápida y sencilla
 - Rotuladores creativos y versátiles de una amplia variedad de colores intensos y brillantes que harán destacar sus trabajos
-- La tinta no traspasa el papel, por lo que sus creaciones artísticas se mantendrán limpias y podrá dibujar y colorear con nitidez
 - Son ideales para tomar notas, subrayar, resaltar, dibujar y mucho más
+- La tinta no traspasa el papel, por lo que sus creaciones artísticas se mantendrán limpias y podrá dibujar y colorear con nitidez
 - Su punta biselada dos en uno permite cambiar rápidamente de líneas precisas a otras más anchas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

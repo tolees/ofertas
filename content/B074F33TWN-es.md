@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Información de alérgenos: almonds_free; Instrucciones para su uso adecuado: Poner una bolsita en una taza, añadir 200 ml de agua hirviendo y dejar reposar 5 minutos; Ingredientes: Ingredientes: Té Kukicha procedentes de la agricultura ecológica.; Advertencia de seguridad: No es apropiado para menores de 3 años; Especialidad: Orgánico; Unidades: 20.0
-- Procedente de la agricultura ecológica
-- Mantener en un lugar fresco y seco
 - Ingredientes: Té Kukicha
+- Mantener en un lugar fresco y seco
+- Procedente de la agricultura ecológica
 - Envasado en España
+- Información de alérgenos: almonds_free; Instrucciones para su uso adecuado: Poner una bolsita en una taza, añadir 200 ml de agua hirviendo y dejar reposar 5 minutos; Ingredientes: Ingredientes: Té Kukicha procedentes de la agricultura ecológica.; Advertencia de seguridad: No es apropiado para menores de 3 años; Especialidad: Orgánico; Unidades: 20.0
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B074F33TWN{{</world>}}

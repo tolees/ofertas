@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Mangas largas transparentes
 - Con cintura de panel ahumado
-- Volantes en falda y cuello
 - Cerrado por siete botones en la parte delantera
+- Volantes en falda y cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QLCWG9Y{{</world>}}

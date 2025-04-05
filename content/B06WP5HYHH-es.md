@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con certificado FSC. Garantiza que los productos proceden de fuentes responsables.
 - Color violeta
-- Paquete de 50 cartulinas tamaño A3 (420 x 297 mm)
+- Con certificado FSC. Garantiza que los productos proceden de fuentes responsables.
 - Fixo Paper es una marca que pertenece a Grafoplás
+- Paquete de 50 cartulinas tamaño A3 (420 x 297 mm)
 - Cartulina de 180g/m²
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

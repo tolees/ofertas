@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ajuste entallado
-- Pierna recta
 - Tiro medio
+- Pierna recta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2J9HND7{{</world>}}

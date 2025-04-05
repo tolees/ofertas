@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Este juego trae un modo de juego específico
-- Un luchador para una otra generación
 - Juego de otra rivalidad
+- Un luchador para una otra generación
 - Arcade Quest
 
 [🛒 Visítala!!!]({{< param buyurl >}})

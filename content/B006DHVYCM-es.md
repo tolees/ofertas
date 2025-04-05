@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho [mm]: 114,9
-- Espesor/grosor 1 [mm]: 17
-- Contacto avisador de desgaste: con contacto avisador de desgaste
 - Altura [mm]: 54,8
+- Contacto avisador de desgaste: con contacto avisador de desgaste
+- Ancho [mm]: 114,9
 - Lado de montaje: Eje delantero
+- Espesor/grosor 1 [mm]: 17
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B006DHVYCM{{</world>}}

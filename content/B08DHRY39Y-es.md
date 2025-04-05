@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Carcasa de acero inoxidable
-- Resistente al agua hasta 100 metros
 - Correa de silicona y hebilla
 - Cristal mineral
+- Carcasa de acero inoxidable
+- Resistente al agua hasta 100 metros
 - 42,0 mm de diámetro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lona
-- Casual
 - Plano
+- Lona
 - Cordón
+- Casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQJR8S82{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte regular
-- Ofrece una comodidad óptima
 - Logo de Tommy Hilfiger bordado en el pecho
+- Ofrece una comodidad óptima
+- Corte regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07DX499CY{{</world>}}

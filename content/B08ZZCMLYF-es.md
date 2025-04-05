@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El spray contiene aceite de lavanda y geraniol para ofrecer hasta 9 horas de protección, ideal para condiciones extremas.
 - Pack Relec antimosquitos incluye un spray extra fuerte y un roll-on post-picaduras, proporcionando protección completa contra los mosquitos.
 - Fácil de aplicar y utilizar, estos productos son elementos esenciales para cualquier aventura al aire libre o viaje.
-- El roll-on post-picaduras, con glicerina, extracto de rooibos y mentol, alivia el picor, refresca y calma la piel tras las picaduras.
-- El spray contiene aceite de lavanda y geraniol para ofrecer hasta 9 horas de protección, ideal para condiciones extremas.
 - Prácticamente empaquetados, estos productos son fáciles de llevar a cualquier parte, garantizando siempre la protección contra los mosquitos.
+- El roll-on post-picaduras, con glicerina, extracto de rooibos y mentol, alivia el picor, refresca y calma la piel tras las picaduras.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08ZZCMLYF{{</world>}}

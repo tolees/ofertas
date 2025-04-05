@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de usar
 - Material duradero
 - Producto creado tanto para aficionados como para profesionales
+- Fácil de usar
 - Producto de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

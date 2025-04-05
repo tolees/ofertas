@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Confort
-- Logotipo en el pecho
 - Cuello redondo
+- Logotipo en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2HS8CPD{{</world>}}

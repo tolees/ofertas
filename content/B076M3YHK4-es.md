@@ -30,12 +30,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Con seguridad toma tierra
 - Certificado ce y marcas s y gs
+- 50 metros de longitud 3x1. 5; potencía máxima 3000w
 - Índice de protección al polvo y a la humedad ip20
 - Con termostato; sistema de seguridad que corta la corriente cuando se supera la potencía límite
 - Cable h05vv-f 3g1.5, 3000 w, 230 v~ 13 a
-- 50 metros de longitud 3x1. 5; potencía máxima 3000w
-- Con 4 tomas de corriente tipo schuko
 - Con protección infantil
+- Con 4 tomas de corriente tipo schuko
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B076M3YHK4{{</world>}}

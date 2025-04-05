@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste regular con un poco más de facilidad alrededor del cuerpo
-- Informal
 - Jersey de algodón suave
+- Informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRYK1XNH{{</world>}}

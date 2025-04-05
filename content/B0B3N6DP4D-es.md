@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla de malla normal
 - sintético de ante y reciclable
 - Recycled poliéster
 - Eva and Rubber Outsole
+- Plantilla de malla normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3N6DP4D{{</world>}}

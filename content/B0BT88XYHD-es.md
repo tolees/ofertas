@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello alto
+- Corto
 - Desigual
 - Capucha extraíble
 - Corte estándar
-- Cuello alto
 - Textura arrugada como pintada
-- Corto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BT88XYHD{{</world>}}

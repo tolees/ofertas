@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pierna recta
 - Ajuste relajado
 - Fabricado con prácticas y materiales sostenibles
-- Pierna recta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKQHP7NT{{</world>}}

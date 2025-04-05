@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema Operativo: Windows 11
 - Procesador Intel Core i5-1135G7 (hasta 4,2 GHz con tecnología Intel Turbo Boost)
+- Sistema Operativo: Windows 11
 - Almacenamiento de datos SSD de 512 GB PCIe NVMe M.2
-- Pantalla táctil Convertible de 13,3 Full HD 1920 x 1080 píxeles
 - Memoria RAM DDR4-2400 MHz 8 GB (1 x 8 GB)
+- Pantalla táctil Convertible de 13,3 Full HD 1920 x 1080 píxeles
 - Gráficos integrados Intel Iris Xe
 
 [🛒 Comprar!!!]({{< param buyurl >}})

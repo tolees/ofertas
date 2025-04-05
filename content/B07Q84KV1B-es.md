@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes seleccionados
-- Los mejores productos para el cuidado y la salud personal
 - Sentirse bien con uno mismo nunca había sido tan fácil
+- Ingredientes seleccionados
 - Liquid Camouflage High Coverage Concealer #036-Hazelnut
+- Los mejores productos para el cuidado y la salud personal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Q84KV1B{{</world>}}

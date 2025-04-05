@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Procesador AMD Ryzen 7 5800H
+- Sin sistema operativo
+- Pantalla de 15,6 inch FullHD, 1920 x 1080 píxeles, TN, 250 nits, Anti-glare
 - Memoria RAM de 16 GB (2x 8 GB SO-DI mm DDR4-3200)
 - Almacenamiento de 1TB SSD
-- Pantalla de 15,6 inch FullHD, 1920 x 1080 píxeles, TN, 250 nits, Anti-glare
-- Sin sistema operativo
 - Tarjeta gráfica NVIDIA GeForce RTX 3070 8 GB GDDR6
-- Procesador AMD Ryzen 7 5800H
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09Y9K9DX4{{</world>}}

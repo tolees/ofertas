@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bragueta con cremallera
-- Bolsillos insertados, costuras decorativas
 - Bolsillo para monedas en la costura lateral
-- Bolsillos traseros con ribetes simples
 - Cintura mediana
+- Bolsillos insertados, costuras decorativas
+- Bolsillos traseros con ribetes simples
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2ZVM4QJ{{</world>}}

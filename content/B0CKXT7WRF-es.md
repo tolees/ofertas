@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Mediasuela Cloudfoam
-- Cierre de cordones
-- Horma clásica
 - Forro textil
+- Horma clásica
+- Cierre de cordones
 - Empeine textil
 - Suela de TPU
 

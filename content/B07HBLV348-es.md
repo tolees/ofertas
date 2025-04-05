@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto practico
 - Fácil de usar
 - Producto de alta calidad
+- Producto practico
 - Pc para juegos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

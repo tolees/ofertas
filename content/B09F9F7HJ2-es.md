@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Consumo de energía muy bajo
-- No regulable
-- No regulable
-- LED lámparas profesionales para tensión en línea
-- Lámparas libres de mercurio
-- Consumo de energía muy bajo
 - Casquillo: E27, B22d
+- No regulable
+- Lámparas libres de mercurio
 - LED lámparas profesionales para tensión en línea
 - Casquillo: E27, B22d
+- Consumo de energía muy bajo
+- Consumo de energía muy bajo
+- No regulable
 - Lámparas libres de mercurio
+- LED lámparas profesionales para tensión en línea
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09F9F7HJ2{{</world>}}

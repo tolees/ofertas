@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud de la manga: Manga corta. Estilo del cuello: Polo. Tela: Algodón. Patrón: liso. Cierre: Botón de cierre. Instrucciones de cuidado: Sigue las instrucciones de cuidado
-- Tipo de ajuste: Regular Fit
-- Actividad asociada: Lifestyle
-- Longitud: Regular
 - Estilo: Polo. Longitud: Regular
+- Longitud: Regular
+- Actividad asociada: Lifestyle
+- Tipo de ajuste: Regular Fit
+- Longitud de la manga: Manga corta. Estilo del cuello: Polo. Tela: Algodón. Patrón: liso. Cierre: Botón de cierre. Instrucciones de cuidado: Sigue las instrucciones de cuidado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00F5OUIEY{{</world>}}

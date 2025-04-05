@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior: ante
 - Cierre: 100% IPEVA
+- Parte superior: ante
 - Material interior: 70 % tela textil, poliéster, 30 % poliuretano sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Garantía de 2 años * OSRAM: Las medidas sistemáticas de aseguramiento de la calidad son la base de la calidad y la funcionalidad de nuestros productos. La tecnología innovadora y la excelente calidad realmente pagan dividendos para nuestros clientes
-- Luz LED blanca brillante y distribución uniforme de la luz.
 - Interruptor de atenuación: niveles de brillo ajustables individualmente hasta 1000 lm
-- Emisión de luz de múltiples ángulos: alta flexibilidad gracias al ajuste individual del haz de luz
 - Lámparas de inspección LED
+- Garantía de 2 años * OSRAM: Las medidas sistemáticas de aseguramiento de la calidad son la base de la calidad y la funcionalidad de nuestros productos. La tecnología innovadora y la excelente calidad realmente pagan dividendos para nuestros clientes
+- Emisión de luz de múltiples ángulos: alta flexibilidad gracias al ajuste individual del haz de luz
+- Luz LED blanca brillante y distribución uniforme de la luz.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B098FBSVP2{{</world>}}

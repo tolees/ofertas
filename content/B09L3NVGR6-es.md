@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Primaloft black eco
-- Artículos entregados: 1x helly hansen mens rigging ins rain coat - rain coat navy s
 - Cremallera bidireccional ykk
+- Artículos entregados: 1x helly hansen mens rigging ins rain coat - rain coat navy s
+- Primaloft black eco
 - Helly tech protection
 - Hilos amann: calidad alemana
 

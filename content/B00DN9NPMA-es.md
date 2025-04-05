@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alta calidad
-- Sin perfume, parabenos y colorantes artificiales
-- Ingredientes seleccionados
 - Brand: Drasanvi
+- Ingredientes seleccionados
+- Sin perfume, parabenos y colorantes artificiales
+- Alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DN9NPMA{{</world>}}

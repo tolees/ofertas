@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parte de piel
+- Mediasuela con amortiguación
 - Forma clásica
 - Forro textil
-- Mediasuela con amortiguación
-- Parte de piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C53WFTJC{{</world>}}

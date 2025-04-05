@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Da rienda suelta a la imaginación! Sólo para máquinas Cricut Maker
 - Hoja de perforación Cricut, crea diseños de cortes discontinuos, listos para arrancar
 - Perfecta para diseños de folletos, tickets
+- ¡Da rienda suelta a la imaginación! Sólo para máquinas Cricut Maker
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KHR74G7{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Confort
 - Cierre de encaje
 - Logotipo de la marca
-- Confort
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C33Q5QFR{{</world>}}

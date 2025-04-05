@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Suela de goma
+- Parte textil y de ante
 - Forro textil
 - Horma clásica
-- Parte textil y de ante
-- Suela de goma
 - Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

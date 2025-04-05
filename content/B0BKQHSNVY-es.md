@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte de pierna acampanada
-- Cintura alta
 - Mezclilla elástica
+- Cintura alta
+- Corte de pierna acampanada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKQHSNVY{{</world>}}

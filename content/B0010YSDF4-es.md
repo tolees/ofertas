@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Presión acústica: 128 dB (máx.).
 - Caja pasiva PR:O 15 de HK-Audio.
-- Potencia: 400 W rms a 8 ohmios.
-- Instalación: 15 pulgadas + 60 ° x 40 ° 1 pulgada.
 - Respuesta de frecuencia: 53 Hz - 19 kHz.
+- Instalación: 15 pulgadas + 60 ° x 40 ° 1 pulgada.
+- Potencia: 400 W rms a 8 ohmios.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0010YSDF4{{</world>}}

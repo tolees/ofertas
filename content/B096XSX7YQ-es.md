@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica
 - Cómodo
+- Cintura elástica
 - Pantalones sostenibles
 
 [🛒 Visítala!!!]({{< param buyurl >}})

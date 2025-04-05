@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- No apelmaza, no se cuartea, a prueba de besos, a prueba de roces y resistente al agua
 - Pigmentos flexibles que se adaptan a tus labios para un acabado mate optimo inalterable durante 16 horas
 - Labios a prueba de todo
 - Fórmula mega hidratante y vegana
-- No apelmaza, no se cuartea, a prueba de besos, a prueba de roces y resistente al agua
 - Aplicador de alta presición que garantiza la cantidad exacta para una cobertura óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})

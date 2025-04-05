@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo atlético con cordones con un tejido diseñado y parte superior sintética
 - 1 1/4 pulgadas de altura
+- Estilo atlético con cordones con un tejido diseñado y parte superior sintética
 - Skechers y detalles del logotipo Arch Fit
 - Suela de tracción flexible
 

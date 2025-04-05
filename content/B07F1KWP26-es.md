@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud del paquete - 24.64 centímetros
-- Altura del paquete - 78.99 centímetros
 - Ancho del paquete - 58.93 centímetros
+- Longitud del paquete - 24.64 centímetros
 - Material: metal
+- Altura del paquete - 78.99 centímetros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07F1KWP26{{</world>}}

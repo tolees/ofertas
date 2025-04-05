@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tejido: 100 % micropoliéster
-- Insignias bordadas de Semi Palla y ellesse en el pecho
 - Paneles acolchados con dos bolsillos laterales ocultos
+- Insignias bordadas de Semi Palla y ellesse en el pecho
 - Pestaña tejida en el dobladillo y cremallera completa de la marca
 - Te proporciona toda la cobertura que necesitas
 

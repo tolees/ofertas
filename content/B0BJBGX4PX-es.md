@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Parafarmacia
 - Cosmética Facial
 - 0
-- Parafarmacia
 - Lift integral crema regeneradora de noche 50 ml de crema
 
 [🛒 Comprar!!!]({{< param buyurl >}})

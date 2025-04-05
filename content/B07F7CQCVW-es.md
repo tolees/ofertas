@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Fácil de usar
 - Marca: Fischer
-- Tipo de producto: broca para hormigón
 - Ofrece una perforación óptima
+- Tipo de producto: broca para hormigón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07F7CQCVW{{</world>}}

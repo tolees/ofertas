@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Aplicar exteriormente sobre las zonas o entornos infestados, repitiendo si fuera necesario cada 7 días.
-- Insecticida acaricida contra parásitos exteriores.
 - Este producto es apto para uso por el público en general. Número de registro zoosanitario: : 0372-P. Utilice los biocidas de forma segura. Lea siempre la etiqueta y la información sobre el biocida antes de usarlo
 - Utilizar el producto puro, por pulverización, siendo recomendable comenzar el tratamiento de dentro a fuera del lugar de aplicación.
+- Insecticida acaricida contra parásitos exteriores.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MY0JK9U{{</world>}}

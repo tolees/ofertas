@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para esos días en que los jeans ajustados no do
-- Acabado con una pierna acampanada
-- Cuenta con un talle alto que corta la cintura
 - Este producto es original Levis
+- Cuenta con un talle alto que corta la cintura
+- Acabado con una pierna acampanada
+- Para esos días en que los jeans ajustados no do
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09MXBHQG3{{</world>}}

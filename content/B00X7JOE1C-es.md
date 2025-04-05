@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con una sabrosa combinación de galleta de textura crocante, el cremoso sabor de la capa del leche y la cobertura del chocolate con leche Milka más suave, hacen de estas galletas el descanso más tierno y dulce del día. Atrévete y experimenta con las galletas Milka Choco Mini Stars también en múltiples recetas de repostería o acompañando a tus postres favoritos.
 - Las galletas en forma de estrella Milka Mini Starts con delicioso relleno de leche y suave cobertura de chocolate con leche, son ideales tentempiés y perfectas para servir solas o con leche, o para acompañar al café o té. Su práctico formato individual y de bolsillo te permite llevarlas a cualquier parte y disfrutar de un delicioso capricho en cualquier momento y lugar.
-- Milka es un producto tradicional. Por ello, desde hace más de 100 años utilizamos exclusivamente leche de la región de los Alpes para nuestro chocolate. Comprobamos cada litro de leche que recibimos de nuestros proveedores para aseguramos de que proviene al 100% de los valles y altos valles de los Alpes y la región subalpina.
-- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
 - Los divertidas galletas Milka Choco Mini Starts en forma de estrella con crujiente galleta, cremoso relleno de leche y tierno chocolate con leche de los Alpes, son excelentes para disfrutar y compartir con familia y amigos, en desayunos, postres, para picar como snack o en meriendas escolares para los niños.
+- Milka es un producto tradicional. Por ello, desde hace más de 100 años utilizamos exclusivamente leche de la región de los Alpes para nuestro chocolate. Comprobamos cada litro de leche que recibimos de nuestros proveedores para aseguramos de que proviene al 100% de los valles y altos valles de los Alpes y la región subalpina.
+- Con una sabrosa combinación de galleta de textura crocante, el cremoso sabor de la capa del leche y la cobertura del chocolate con leche Milka más suave, hacen de estas galletas el descanso más tierno y dulce del día. Atrévete y experimenta con las galletas Milka Choco Mini Stars también en múltiples recetas de repostería o acompañando a tus postres favoritos.
+- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00X7JOE1C{{</world>}}

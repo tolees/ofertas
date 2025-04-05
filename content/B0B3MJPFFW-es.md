@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de tracción todo terreno
-- 1 Tacón de 1/4 pulgadas
 - Parte superior de cuero y malla con cordones frontal
+- 1 Tacón de 1/4 pulgadas
+- Suela de tracción todo terreno
 - Detalle del logotipo de Skechers
 
 [🛒 Aquí!!!]({{< param buyurl >}})

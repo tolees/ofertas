@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: Cuero
 - Cierre: Cordones
-- Tipo de tacón: Plano
 - Material de la suela: Caucho
-- Revestimiento: Sintético
+- Tipo de tacón: Plano
 - Altura del tacón: 2.5 centímetros
+- Revestimiento: Sintético
+- Material exterior: Cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009RJURDK{{</world>}}

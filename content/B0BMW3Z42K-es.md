@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% algodón
 - Polo de manga larga de algodón piqué orgánico, cuello de dos botones, puños de canalé, bordado con logotipo en el punto de corazón, slim fit
+- 100% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BMW3Z42K{{</world>}}

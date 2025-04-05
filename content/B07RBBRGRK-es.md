@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Slim-fit Jeans
 - Dark blue denim pants
+- Slim-fit Jeans
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RBBRGRK{{</world>}}

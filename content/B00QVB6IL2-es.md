@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Age range: 8 and up / Number of players: 2 to 4 / Play time: 30
 - Manufacturer: Schmidt Spiele
+- Age range: 8 and up / Number of players: 2 to 4 / Play time: 30
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00QVB6IL2{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consumir frío (entra 6°- 8°C). Si es necesario, enfriar durante un par de horas en una cubitera con agua. sal y hielo. Evitar enfriamientos bruscos en el congelador. Se puede almacenar verticalmente.
-- Nota de cata (nariz): Predominan los aromas afrutados propios de las variedades tradicionales: fruta blanca (manzana, pera), cítricos y notas de flor blanca.
-- Nota de cata (vista): Color amarillo pajizo muy pálido. Burbuja fina y elegante.
-- Nota de cata (boca): Expresivo, cremoso, fresco y equilibrado.
 - Varietales: Macabeo-Xarel·lo-Parellada
+- Consumir frío (entra 6°- 8°C). Si es necesario, enfriar durante un par de horas en una cubitera con agua. sal y hielo. Evitar enfriamientos bruscos en el congelador. Se puede almacenar verticalmente.
+- Nota de cata (vista): Color amarillo pajizo muy pálido. Burbuja fina y elegante.
+- Nota de cata (nariz): Predominan los aromas afrutados propios de las variedades tradicionales: fruta blanca (manzana, pera), cítricos y notas de flor blanca.
+- Nota de cata (boca): Expresivo, cremoso, fresco y equilibrado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DWBYIXI{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Minivestido patinador. Diseño de cuerpo cruzado con bolsillos en los lados. Cremallera oculta en la costura lateral.
 - VISCOSA
 - Fabricado con materiales sostenibles
-- Minivestido patinador. Diseño de cuerpo cruzado con bolsillos en los lados. Cremallera oculta en la costura lateral.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B64B1CZB{{</world>}}

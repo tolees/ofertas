@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Caja de 4 colores de 35 mililitros: amarillo, rosa, azul y verde.
 - Su fluidez ayuda a una mejor aplicación del producto. Se adhiere con facilidad en la mayoría de superficies.
 - Témpera para uso escolar y para usar en casa para hacer todo tipo de manualidades
-- Témpera líquida base agua con purpurina, lista para usar, con particulas de purpurina. Excelente rendimiento y secado rápido.
-- Caja de 4 colores de 35 mililitros: amarillo, rosa, azul y verde.
 - Diseñado y fabricado en Barcelona. A base de ingredientes naturales y libre de los principales alérgenos.
+- Témpera líquida base agua con purpurina, lista para usar, con particulas de purpurina. Excelente rendimiento y secado rápido.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DQMLM4C{{</world>}}

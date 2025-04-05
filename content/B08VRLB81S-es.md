@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños y dobladillo de canalé
-- Cuello redondo
-- Las icónicas 3 rayas en las mangas le dan un aspecto deportivo
 - Felpa 70% Algodón, 30% Poliéster Reciclado
+- Puños y dobladillo de canalé
+- Las icónicas 3 rayas en las mangas le dan un aspecto deportivo
+- Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08VRLB81S{{</world>}}

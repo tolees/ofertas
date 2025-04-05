@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera trasera
 - Entresuela bicolor y ultraligera de goma eva
+- Cremallera trasera
 - Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})

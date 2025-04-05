@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MANEJO SENCILLO: activa y frena la centrifugadora con una sola mano gracias a su práctico girador situado en el centro
-- CONFORME A LA POLITICA DE OXO: Si ha tenido algun problema con su producto, contacte con nosotros para repararlo o sustituirlo. Le agradecemos su confianza y que nos dé la oportunidad de mejorar día a día
-- COMODIDAD: el girador es antideslizante y con su posición de bajada, guardarás la centrifugadora más cómodamente
-- GRAN CAPACIDAD: la centrifugadora consiste en un cuenco de 6 litros de capacidad y una cesta separable de 4,68 litros de capacidad, donde podrás introducir desde ensaladas hasta verduras
-- FÁCIL LIMPIEZA: la tapa de plástico transparente te permite ver el interior; Además, es fácilmente desmontable y apta para el lavavajillas
 - ANTIDESLIZANTE: la base antideslizante aporta estabilidad a la centrifugadora cuando se pone sobre la encimera
+- CONFORME A LA POLITICA DE OXO: Si ha tenido algun problema con su producto, contacte con nosotros para repararlo o sustituirlo. Le agradecemos su confianza y que nos dé la oportunidad de mejorar día a día
+- GRAN CAPACIDAD: la centrifugadora consiste en un cuenco de 6 litros de capacidad y una cesta separable de 4,68 litros de capacidad, donde podrás introducir desde ensaladas hasta verduras
+- MANEJO SENCILLO: activa y frena la centrifugadora con una sola mano gracias a su práctico girador situado en el centro
+- FÁCIL LIMPIEZA: la tapa de plástico transparente te permite ver el interior; Además, es fácilmente desmontable y apta para el lavavajillas
+- COMODIDAD: el girador es antideslizante y con su posición de bajada, guardarás la centrifugadora más cómodamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000ND5C9I{{</world>}}

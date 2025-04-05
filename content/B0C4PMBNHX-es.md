@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuello redondo acanalado
 - Corte regular
 - Impresión de goma de la marca PUMA
-- Cuello redondo acanalado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4PMBNHX{{</world>}}

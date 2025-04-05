@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cierre delantero
 - Capucha con cordón ajustable en la espalda
 - Composición del material: material exterior: 92% poliéster, 8% nailon; forro: 100% poliéster
-- Cierre delantero
 - Chaqueta lisa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

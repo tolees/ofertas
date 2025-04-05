@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello puntiagudo
 - Bolsillos con abertura en la cintura
 - Bolsillos en el pecho con solapa
-- Cuello puntiagudo
 - Logotipo de Calvin Klein en el bolsillo del pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

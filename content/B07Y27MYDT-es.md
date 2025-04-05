@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zapatillas deportivas unisex de corte bajo
-- Parte superior sintética y suela de goma
 - Logotipo de Omini Kappa en la cadera y en la parte posterior, logotipo de Omini Kappa en la lengüeta, logotipo de Kappa en la plantilla
+- Parte superior sintética y suela de goma
+- Zapatillas deportivas unisex de corte bajo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07Y27MYDT{{</world>}}

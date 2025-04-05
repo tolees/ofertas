@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Olay Collagen Peptide24 Sérum de día, la mayor concentración de péptidos de colágeno de Olay
 - Hidratante de día con vitamina C, AHA y Niacinamida
-- Piel claramente luminosa en 1 día y un tono de piel más uniforme en 14 días
+- Olay Collagen Peptide24 Sérum de día, la mayor concentración de péptidos de colágeno de Olay
 - Penetra hasta 10 capas bajo la superficie de la piel para lograr una eficacia óptima
+- Piel claramente luminosa en 1 día y un tono de piel más uniforme en 14 días
 - Olay Collagen Peptide24 Sérum de día revela una piel fuerte y radiante en 14 días
 - Fórmula con péptidos de colágeno y vitamina B3
 

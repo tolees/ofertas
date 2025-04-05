@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Seleccionar los programas de tu Secadora 8 kg es tarea fácil gracias al Display LED de fácil uso, que te recordará el programa seleccionado y el tiempo restante para que el ciclo finalice
-- La Secadora Bosch es de Eficiencia Energética A++. Podrás secar tu ropa #LikeABosch con las tecnologías más novedosas que supondrán un ahorro en tu consumo energético
 - La secadora eficiente tiene unas dimensiones de 84,2 x 59,8 x 59,9 cm (alto x ancho x fondo)
 - Para los días más ajetreados, la Secadora tiene Programa Rápido. De esta forma, tendrás tu ropa seca en el menor tiempo posible, pudiendo dedicar tu tiempo a tareas más importantes
+- Seleccionar los programas de tu Secadora 8 kg es tarea fácil gracias al Display LED de fácil uso, que te recordará el programa seleccionado y el tiempo restante para que el ciclo finalice
+- La Secadora Bosch es de Eficiencia Energética A++. Podrás secar tu ropa #LikeABosch con las tecnologías más novedosas que supondrán un ahorro en tu consumo energético
 - AutoDry te permite seleccionar el grado de secado en cada ciclo de la Secadora. Una vez detectada la humedad deseada, el programa finalizará. Así las prendas no estarán sometidas a altas temperaturas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

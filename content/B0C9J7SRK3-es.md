@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Proyecto RECONSIDER
-- Cierre de botón en cinturilla y cremallera en bragueta
 - Chino comfort en tejido tipo punto Con cinturilla semi elástica y cordón interior para dar adecuado confortabilidad
+- Cierre de botón en cinturilla y cremallera en bragueta
+- Proyecto RECONSIDER
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9J7SRK3{{</world>}}

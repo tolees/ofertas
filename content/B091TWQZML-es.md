@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manga larga.ACK & JONES ESSENTIALS.Exterior: 100% Poliéster; Forro: 100% Poliéster; Relleno: 100% Poliéster.Lavar a máquina, media carga, ciclo de centrifugado corto a 40 C.No usar lejía.No secar en secadora
-- Chaqueta ligera para detener el viento
-- Totalmente forrado con forro de poliéster 100% reciclado
 - Chaqueta exterior - Tejido de superficie opaca - Cierre totalmente con cremallera - Bolsillos frontales con cierre de botón - Bolsillo interior - Puños de punto acado
+- Totalmente forrado con forro de poliéster 100% reciclado
 - Repele el agua
+- Chaqueta ligera para detener el viento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091TWQZML{{</world>}}

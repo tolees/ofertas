@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - de 29 &#x20AC
 - Con un valor de compra de al menos € 50.00 Los productos calificados pueden ahorrar un 10% en cualquiera de los productos designados.
-- SALE ! hasta -70%
 - Cuero
+- SALE ! hasta -70%
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00BJK6XJ2{{</world>}}

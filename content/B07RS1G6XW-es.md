@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El disipador de calor hecho de aluminio para una disipación de calor silenciosa
 - El PCB de rendimiento personalizado ayuda a controlar el calor
 - Tipo de memoria: DDR4 SDRAM
 - Diseñado para overclocking de rendimiento óptimo
-- El disipador de calor hecho de aluminio para una disipación de calor silenciosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RS1G6XW{{</world>}}

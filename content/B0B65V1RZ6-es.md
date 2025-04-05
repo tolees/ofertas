@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Atraviesa las paredes y crea tu propio camino mientras luchas por tu vida en las profundidades de Yomi.
 - La prueba definitiva para sobrevivir se encuentra en el laberinto. Monstruos aterradores acechan en las sombras. Criminales con misteriosos poderes quieren frustrar tus esfuerzos.
+- Atraviesa las paredes y crea tu propio camino mientras luchas por tu vida en las profundidades de Yomi.
 - Una nueva generación de exploradores acude a la colosal superestructura Yomi con la esperanza de encontrar la "veta madre".
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Impermeable, resistente al viento y transpirable
-- Aislamiento Primaloft Negro 100gr
 - HELLY TECH PROTECCIÓN
 - capucha fija
 - Chaqueta de invierno largo Belfast Helly Hansen de la Mujer
+- Aislamiento Primaloft Negro 100gr
+- Impermeable, resistente al viento y transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01AK68WVM{{</world>}}

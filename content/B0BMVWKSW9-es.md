@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diseño moderno
-- Hecho de material duradero
 - Ligero y cómodo
+- Hecho de material duradero
 - Artículo de la marca United Colors of Benetton
 
 [🛒 Comprar!!!]({{< param buyurl >}})

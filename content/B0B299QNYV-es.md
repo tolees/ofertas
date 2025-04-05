@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Material exterior: sintético
-- Material interior: poliéster de malla textil
-- Cuero: Gamuza
 - Forma del talón: plano
+- Cuero: Gamuza
+- Material interior: poliéster de malla textil
 - Ancho del zapato: medio
 
 [🛒 Comprar!!!]({{< param buyurl >}})

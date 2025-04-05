@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descubre la colección de sabores de lujo Excellence: chocolate con leche, chocolate negro, chocolate con almendras, chocolate con sal y con caramelo salado
-- Elaborado con ingredientes cuidadosamente seleccionados, como las habas de cacao puro procedentes de fuentes sostenibles a la altura de nuestro compromiso de sostenibilidad a lo largo de toda la cadena de valor
-- Delicioso surtido Lindt Excellence de mini tabletas de chocolate de alta calidad de sabores variados envueltas individualmente
-- Cada uno de nuestros chocolates se elabora por la pasión de nuestros maestros chocolateros Lindt para hacer creaciones de chocolate de alta calidad desde 1845
 - Sabores increíblemente suaves con claras notas de nata, vainilla y miel. Ideal para consumir junto a café, vino o bebidas intensas que mariden con su aroma y sabor
+- Elaborado con ingredientes cuidadosamente seleccionados, como las habas de cacao puro procedentes de fuentes sostenibles a la altura de nuestro compromiso de sostenibilidad a lo largo de toda la cadena de valor
 - Excellence está disponible en más de cuarenta y dos recetas divididas en altos porcentajes de cacao y sabores únicos y diferenciados
+- Cada uno de nuestros chocolates se elabora por la pasión de nuestros maestros chocolateros Lindt para hacer creaciones de chocolate de alta calidad desde 1845
+- Delicioso surtido Lindt Excellence de mini tabletas de chocolate de alta calidad de sabores variados envueltas individualmente
 - El surtido incluye 75 tabletas de 10gr, aproximadamente15 unidades para cada sabor, siendo el total de 750gr de delicioso chocolate Lindt Excellence
+- Descubre la colección de sabores de lujo Excellence: chocolate con leche, chocolate negro, chocolate con almendras, chocolate con sal y con caramelo salado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B7B2LG8G{{</world>}}

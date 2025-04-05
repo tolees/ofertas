@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nota: el patrón es el mismo pero las flores se colocan al azar en el artículo.
-- Parte superior de corte holgado para mujer con cuello redondo
-- Parte superior de corte holgado para mujer con cuello redondo
 - Camiseta con mangas 4/5
+- Parte superior de corte holgado para mujer con cuello redondo
+- Parte superior de corte holgado para mujer con cuello redondo
+- Nota: el patrón es el mismo pero las flores se colocan al azar en el artículo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08XJW4CSZ{{</world>}}

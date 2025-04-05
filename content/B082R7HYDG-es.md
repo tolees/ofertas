@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalón corto fitness y ejercicio 01
-- Wor comm woven short fp9089
 - Ropa deportiva reebok
+- Wor comm woven short fp9089
+- Pantalón corto fitness y ejercicio 01
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082R7HYDG{{</world>}}

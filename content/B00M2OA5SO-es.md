@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Silla de coche de calidad duradera y diseño moderno para niños desde los 3 hasta los 12 años aprox. (15 36 kg), apta para coches sin y con ISOFIX
+- Contenido: 1 silla para coche solution x2 fix scuderia ferrari con sistema ISOFIX connect (anclaje ISOFIX) e instrucciones en español, material funda: 100% poliéster, dimensiones (lxpxa): 41 x 55 x 64 cm, peso: 7 kg
+- Fácil de fijar al asiento del coche con el cinturón de seguridad y con el sistema ISOFIX (opcional) para una mayor estabilidad, funda lavable a máquina (30°c), accesorios disponibles no incluidos: funda de verano, portavasos
 - Reposacabezas ajustable en altura con 11 posiciones, respaldo reclinable, comodidad en el asiento
 - Máxima seguridad protección integrada contra impactos laterales (sistema l.s.p.), reposacabezas reclinable en 3 posiciones
-- Fácil de fijar al asiento del coche con el cinturón de seguridad y con el sistema ISOFIX (opcional) para una mayor estabilidad, funda lavable a máquina (30°c), accesorios disponibles no incluidos: funda de verano, portavasos
-- Contenido: 1 silla para coche solution x2 fix scuderia ferrari con sistema ISOFIX connect (anclaje ISOFIX) e instrucciones en español, material funda: 100% poliéster, dimensiones (lxpxa): 41 x 55 x 64 cm, peso: 7 kg
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00M2OA5SO{{</world>}}

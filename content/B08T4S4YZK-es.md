@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para el ejercicio físico
 - Producto deportivo
+- Adecuado para el ejercicio físico
 - Cómodo de llevar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

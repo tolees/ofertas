@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del tejido: 100% Poliéster - Fácil limpieza con un trapo ligeramente húmedo
-- El mecanismo a cadena puede colocarse en el lado derecho o izquierdo. La instalación se puede realizar a pared o a techo. Se incluyen soportes, tacos y tornillos así como sistema de seguridad infantil. El mecanismo es de color aluminio. La cadena se puede instalar del lado derecho o izquierdo y la instalación puede realizarse a pared o a techo.
-- FABRICADO EN ESPAÑA: Bajo las normas ISO 9001 / 14001 / 45001 / 50001 y 5 años de Garantía. En cumplimiento de la norma europa EN 13120 en material de seguridad infantil, la altura de la cadena es de 100cm. En caso de necesitar una cadena más larga, ésta puede adquirirse como un accesorio adicional.
-- Estor enrollable traslúcido fabricado con un tejido clásico que se adapta a cualquier estancia y cuya composición es 100% poliéster.
 - Medida 90cm de ancho x 250cm de alto. La medida de ancho es de soporte a soporte, el tejido mide 3cm menos
+- Composición del tejido: 100% Poliéster - Fácil limpieza con un trapo ligeramente húmedo
+- FABRICADO EN ESPAÑA: Bajo las normas ISO 9001 / 14001 / 45001 / 50001 y 5 años de Garantía. En cumplimiento de la norma europa EN 13120 en material de seguridad infantil, la altura de la cadena es de 100cm. En caso de necesitar una cadena más larga, ésta puede adquirirse como un accesorio adicional.
+- El mecanismo a cadena puede colocarse en el lado derecho o izquierdo. La instalación se puede realizar a pared o a techo. Se incluyen soportes, tacos y tornillos así como sistema de seguridad infantil. El mecanismo es de color aluminio. La cadena se puede instalar del lado derecho o izquierdo y la instalación puede realizarse a pared o a techo.
+- Estor enrollable traslúcido fabricado con un tejido clásico que se adapta a cualquier estancia y cuya composición es 100% poliéster.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08SR8TQ6Q{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sistema Operativo: Windows 11 Home
-- Procesador AMD Ryzen 5 3500U (4C/QuadCore 2.10GHz)
-- Memoria RAM de 16GB DDR4 SDRAM
 - Pantalla de 15,6", FullHD 1920 x 1080 pixeles
-- Tarjeta gráfica AMD Radeon Vega 8
+- Procesador AMD Ryzen 5 3500U (4C/QuadCore 2.10GHz)
 - Almacenamiento de 1TB SSD
+- Sistema Operativo: Windows 11 Home
+- Tarjeta gráfica AMD Radeon Vega 8
+- Memoria RAM de 16GB DDR4 SDRAM
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B2SCRQXS{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño: 26 x 20 x 26 cm
-- Elegante cafetera expreso con boquilla en V que bloquea perfectamente las gotas de café
 - Materiales: fundición de aluminio, mango y pomo de PA
+- Tamaño: 26 x 20 x 26 cm
 - Colores disponibles: rojo, negro y en versión de 1 y 3 tazas
 - Diseñador: Michele de Lucchi
+- Elegante cafetera expreso con boquilla en V que bloquea perfectamente las gotas de café
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B014HJ76EC{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dobladillo curvado
-- Tirante central en la espalda
 - Tejido transpirable expulsa rápidamente el sudor de la piel
+- Tirante central en la espalda
+- Dobladillo curvado
 - Escote alto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

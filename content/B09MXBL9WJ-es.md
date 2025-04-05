@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este producto es original Levis
 - Un básico veraniego
+- Este producto es original Levis
 - Pierna recta
 - Ofrecen una comodidad óptima
 

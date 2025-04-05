@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Plantilla moldeada para confort
-- Logo de archivo y logotipo enmarcado
 - Parte encima de piel suave
+- Logo de archivo y logotipo enmarcado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B072JMXCKT{{</world>}}

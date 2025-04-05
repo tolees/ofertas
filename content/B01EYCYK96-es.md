@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lac m astor 610 perfect stay* (3607343163255)
 - Diseños para uñas Astor
 - Esmalte de uñas Manicura y pedicura Mujer
+- Lac m astor 610 perfect stay* (3607343163255)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01EYCYK96{{</world>}}

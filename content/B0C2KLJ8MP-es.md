@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ✨【Capacidad masiva de 30000 mAh power bank】Con un total de 30000 mAh, puede cargar completamente un iPhone 8-14 series 5-8 veces, para Samsung Galaxy series 4-6 veces y un iPad Air 2 veces, el banco de energía de 30000 mAh cumple 5-7 días de duración de la batería, adecuado para viajes, viajes de negocios u otras actividades al aire libre.
-- 💖【Carga rápida 20 W】:The powerful 20W PD and QC 3.0 output enables the battery to provide 20W charging to the device, speeding up the charge, powering a 3500mAh phone from 0-60% in 30 minutes. 4 times faster than ordinary power banks. This is a technical level that is difficult to achieve with ordinary mobile power supplies.
 - ✨【Bateria portatil USB C】La conexión bidireccional tipo C funciona como entrada y salida. Puede cargar sus dispositivos USB C o recargar el banco de energía solo a través de un puerto simple.
+- 💖【Carga rápida 20 W】:The powerful 20W PD and QC 3.0 output enables the battery to provide 20W charging to the device, speeding up the charge, powering a 3500mAh phone from 0-60% in 30 minutes. 4 times faster than ordinary power banks. This is a technical level that is difficult to achieve with ordinary mobile power supplies.
 - ✨【Pantalla LED precisa】Pantalla clara que lo mantiene informado sobre la capacidad restante en tiempo real y el estado de carga actual. Le permite recargar a tiempo y evitar preocupaciones de viaje.
-- ✨【2 Entradas y 4 Salidas】Está equipado con 2 tipos de puertos de entrada (Micro USB+USB C (Tipo-C), puede elegir cualquiera de ellos para recargar el banco de energía. El USB C se puede usar como puerto de entrada y salida, 3 USB-A y 1 puerto USB C de salida, puede cargar rápidamente 4 dispositivos al mismo tiempo sin preocuparse por sacrificar la velocidad.
 - ✨【Contenidos del paquete】1 banco de energía universal de 30000 mAh; 1 cable USB A a micro USB; 1 manual de usuario; 1 bolsa de malla.
+- ✨【2 Entradas y 4 Salidas】Está equipado con 2 tipos de puertos de entrada (Micro USB+USB C (Tipo-C), puede elegir cualquiera de ellos para recargar el banco de energía. El USB C se puede usar como puerto de entrada y salida, 3 USB-A y 1 puerto USB C de salida, puede cargar rápidamente 4 dispositivos al mismo tiempo sin preocuparse por sacrificar la velocidad.
+- ✨【Capacidad masiva de 30000 mAh power bank】Con un total de 30000 mAh, puede cargar completamente un iPhone 8-14 series 5-8 veces, para Samsung Galaxy series 4-6 veces y un iPad Air 2 veces, el banco de energía de 30000 mAh cumple 5-7 días de duración de la batería, adecuado para viajes, viajes de negocios u otras actividades al aire libre.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2KLJ8MP{{</world>}}

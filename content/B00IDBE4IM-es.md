@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho para pedir diferentes tipos de suministros de oficina
 - Marca: Zande Phondex
+- Hecho para pedir diferentes tipos de suministros de oficina
 - El producto es estable y tiene una vida útil de uso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

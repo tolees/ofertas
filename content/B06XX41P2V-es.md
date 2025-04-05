@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Informacion nutricional por 1 capsula (%VRN): Vitamina C 40mg (50%); Vitamina E 12mg (100%); Vitamina D 5mcg (100%); Vitamina A 800mcg (100%); Selenio 41,5mcg (75%); Licopeno 8mg; Luteina 8mg; Te Verde 50mg; hoja de Polypodium 60 mg; extracto de uva 10,1mg.
-- Isdin SA. Provençals 33, Barcelona 08019, Espana.
+- SunISDIN es un complemento alimenticio
 - Combinación de ingredientes naturales, minerales y extractos de plantas
 - Contiene antioxidantes, carotenoides y vitamina D
-- SunISDIN es un complemento alimenticio
+- Isdin SA. Provençals 33, Barcelona 08019, Espana.
+- Informacion nutricional por 1 capsula (%VRN): Vitamina C 40mg (50%); Vitamina E 12mg (100%); Vitamina D 5mcg (100%); Vitamina A 800mcg (100%); Selenio 41,5mcg (75%); Licopeno 8mg; Luteina 8mg; Te Verde 50mg; hoja de Polypodium 60 mg; extracto de uva 10,1mg.
 - Contribuye a preparar la piel para la exposición solar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

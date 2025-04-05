@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pasta mate texturizante profesional con fijación ligera; mejorada con cera de camaúba de Brasil
 - Frota una pequeña cantidad de la pasta EIMI Bold Move en las manos.Aplícala en el cabello seco para diseñar tu estilo
+- Pasta mate texturizante profesional con fijación ligera; mejorada con cera de camaúba de Brasil
 - Crea un estilo con textura casual con Eimi Bold Move; formulada con cera de carnauba de Brasil, esta pasta profesional de textura te ayuda a conseguir un look casual mate
 
 [🛒 Comprar!!!]({{< param buyurl >}})

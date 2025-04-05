@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de tela: algodón 100%
-- Tipo de tamaño especial: estándar
-- Ajuste: clásico
 - Auténtico
+- Ajuste: clásico
+- Tipo de tamaño especial: estándar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PT1MK5Y{{</world>}}

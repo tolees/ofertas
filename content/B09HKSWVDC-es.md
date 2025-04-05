@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños acanalados
-- Ajuste regular
 - Detalles distintivos de la marca
+- Ajuste regular
+- Puños acanalados
 - Cintura elástica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

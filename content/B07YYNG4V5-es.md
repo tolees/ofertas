@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El ventilador de techo de 117 cm para interiores con luz led y mando es ideal para las habitaciones grandes de hasta 20 m2
 - No es posible instalarlo con una varilla de extensión; manual de instrucciones ilustrado incluido, 10 años de garantía limitada del motor, con las certificaciones ce/rohs/gs
-- Este producto es un producto continente; los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen
-- El motor de gran calidad y rendimiento silencioso genera un potente movimiento de aire; este ventilador de techo con mando, de 3 velocidades, control de encendido y apagado, y atenuador de luz led es muy fácil de operar.
-- Rendimiento del ventilador consumo de electricidad/año: 16, 9 kwh /a r. P. M.: 174/134/101 voltaje: 51/32/19 flujo de aire máximo: 169m3/minima nivel sonoro: 40db(a)
 - Ventilador blanco con aspas acabadas en blanco; kit de luz led regulable de 17 vatios integrado con pantalla de cristal de ópalo esmerilado.
+- El ventilador de techo de 117 cm para interiores con luz led y mando es ideal para las habitaciones grandes de hasta 20 m2
+- El motor de gran calidad y rendimiento silencioso genera un potente movimiento de aire; este ventilador de techo con mando, de 3 velocidades, control de encendido y apagado, y atenuador de luz led es muy fácil de operar.
+- Este producto es un producto continente; los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen
+- Rendimiento del ventilador consumo de electricidad/año: 16, 9 kwh /a r. P. M.: 174/134/101 voltaje: 51/32/19 flujo de aire máximo: 169m3/minima nivel sonoro: 40db(a)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YYNG4V5{{</world>}}

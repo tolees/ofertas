@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla EVA para amortiguación
-- Parte superior de piel de alta calidad
 - Suela exterior elevada
 - Inspirado en los 90s
+- Plantilla EVA para amortiguación
+- Parte superior de piel de alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07BTGXDLR{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Equipada con niveladores que se ajustan al suelo y mantienen el escritorio estable.
-- Fabricado en acero con acabado pintado negro. Tablero no incluido.
 - Diferentes posiciones de 1.120 a 1.520 mm para utilizar con diferentes longitudes de tablero.
+- Fabricado en acero con acabado pintado negro. Tablero no incluido.
 - Estructura para mesa motorizada con regulación eléctrica para trabajar sentado o de pie.
+- Equipada con niveladores que se ajustan al suelo y mantienen el escritorio estable.
 - Regulable en altura de 660 a 1170 mm y carga máxima de 55 kg.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

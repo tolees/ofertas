@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Repelente al agua
 - 0,31 kg
+- Repelente al agua
 - 26 cm de alto x 29 cm de ancho x 4 cm de profundidad
-- Medium cruzado
 - 60% poliamida, 40% poliamida reciclada
+- Medium cruzado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B82VP4MV{{</world>}}

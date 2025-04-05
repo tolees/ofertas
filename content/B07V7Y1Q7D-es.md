@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Formulada con aceites, queratina y vitaminas
+- Labios visiblemente optimizados en 7 días
 - Labios hidratados de larga duración
 - Barra de labios de Max Factor
-- Labios visiblemente optimizados en 7 días
-- Formulada con aceites, queratina y vitaminas
 - Efecto mate de sensación aterciopelada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

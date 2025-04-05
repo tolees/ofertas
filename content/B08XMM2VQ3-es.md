@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Empeine de tela y plantilla de microfibra
 - Cordones Fast Lace
-- Puntal cerrado para la protección de los dedos
 - Suela de TPR, peso 170 g (31),
+- Puntal cerrado para la protección de los dedos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XMM2VQ3{{</world>}}

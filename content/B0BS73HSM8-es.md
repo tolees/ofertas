@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calvin Klein Marca en el lateral
-- Calvin Klein Lengüeta de marca, talón y lengüeta de tracción
 - Parte superior de cuero granulado
+- Calvin Klein Lengüeta de marca, talón y lengüeta de tracción
+- Calvin Klein Marca en el lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS73HSM8{{</world>}}

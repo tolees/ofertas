@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correa trasera ajustable
 - curvo
+- Correa trasera ajustable
 - Sarga, 100% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

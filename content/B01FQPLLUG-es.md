@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caja con cierre y clip para el cinturón
 - Puntas, hexágono interior 2 - 3 - 4 - 5 - 6 - 7 - 8 mm
-- Hecho de acero al cromo vanadio
 - Portapuntas, magnético, salida de hexágono interior 6,3 mm (1/4")
-- Puntas, perfil en t (para torx)
 - T10 - t15 - t20 - t25 - t27 - t30 - t35 - t40
 - Puntas, plano 2 - 3 - 4 - 5 - 6 mm
-- Puntas, cruz pz0 - pz1 - pz2 - pz2 - pz3
+- Caja con cierre y clip para el cinturón
 - Puntas, cruzph0 - ph1 - ph2 - ph2 - ph3
+- Hecho de acero al cromo vanadio
+- Puntas, perfil en t (para torx)
+- Puntas, cruz pz0 - pz1 - pz2 - pz2 - pz3
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01FQPLLUG{{</world>}}

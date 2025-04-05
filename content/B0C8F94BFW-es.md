@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Instrucciones de cuidado: lavar a máquina
 - Tipo de cierre: tire
 - Composición del material: modal (93%), elastano (7%)
+- Instrucciones de cuidado: lavar a máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8F94BFW{{</world>}}

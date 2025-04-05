@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Punta gruesa de 1-3mm
 - Punta con tecnología antisecado
 - Tinta permanente resistente al agua y la luz
-- Punta gruesa de 1-3mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001JYQNBQ{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- zapatillas inspiradas en los años 8
 - entresuela texturizada
+- zapatillas inspiradas en los años 8
 - Antepié perforado, líneas largas y limpias.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema de cierre de cuatro vías
-- Dimensiones de la abertura: 29,7 cm de longitud x 34,5 cm de altura
-- Indicada para perros y gatos de talla grande, dotada con túnel
 - Se adapta a cualquier tipo puerta: madera, metal, cristal o de obra
+- Dimensiones de la abertura: 29,7 cm de longitud x 34,5 cm de altura
 - Sistema de protección contra corrientes de aire
+- Sistema de cierre de cuatro vías
+- Indicada para perros y gatos de talla grande, dotada con túnel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001MZYFCQ{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diámetro de la caja: 38 mm
 - Movimiento de cuarzo japonés de tres manecillas
+- Logotipo grabado con mimo en el reverso de la caja y en el cierre de la correa
 - Esfera con efecto arenado y estampado abstracto con detalles florales en oro rosado
 - Caja chapada en oro rosa y pulsera de malla
-- Logotipo grabado con mimo en el reverso de la caja y en el cierre de la correa
+- Diámetro de la caja: 38 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07HQZ3FDY{{</world>}}

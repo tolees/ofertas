@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - V-Neck
-- Cardigan
 - Long Sleeves
 - materialFabricComposition: 50% Viscose, 27% Nylon, 23% Polyester
 - Care Label:
+- Cardigan
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XVSLZMW{{</world>}}

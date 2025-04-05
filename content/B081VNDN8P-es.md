@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de tacón: Sin tacón
 - Material exterior: Sintético
+- Tipo de tacón: Sin tacón
+- Material de la suela: Sintético
 - Cierre: Cordones
 - Material interior: Sintético
-- Material de la suela: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B081VNDN8P{{</world>}}

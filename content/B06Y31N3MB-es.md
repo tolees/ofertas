@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bajo regulable con cordón de ajuste.
-- Tecnología Dry MX.
-- Bolsillo interior.
 - Bermudas de surf.
 - Corte láser en la parte de abajo.
+- Tecnología Dry MX.
+- Bolsillo interior.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06Y31N3MB{{</world>}}

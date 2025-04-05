@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Corriente de cortocircuito de la red: 1 kA
+- Corriente de salida en continuo: 4.2 A en 4 kHz
+- Frecuencia de conmutación nominal: 4 kHz
 - Rango de frecuencias de salida: 0.5...400 Hz
 - Máxima corriente transitoria: 6.3 A para 60 s
-- Frecuencia de conmutación nominal: 4 kHz
-- Corriente de salida en continuo: 4.2 A en 4 kHz
-- Corriente de cortocircuito de la red: 1 kA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B002ICHA4M{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dermatológicamente comprobada: Esta rutina de limpieza facial diaria actúa sobre el 100% de las toxinas y contaminantes diarios y su fórmula ha sido comprobada por dermatólogos
-- Mascarilla Skin Detox: Gracias a su fórmula 2en1, puede usarse como limpiador facial o mascarilla detoxificante para limpiar los poros y conseguir un cutis radiante
-- Agua Micelar Skin Detox: Con su triple acción, esta agua micelar no solo actúa como desmaquillante, sino que también purifica profundamente y suaviza la piel del rostro
 - Detalles del envío: Neutrogena Skin Detox, pack con exfoliante (150 ml), agua micelar (400 ml) y mascarilla facial (150 ml), 3 productos de uso diario para la limpieza facial
 - Gel exfoliante Skin Detox: La fórmula de este gel refrescante, enriquecida con ácido glicólico, mantiene la hidratación esencial de la piel y elimina con suavidad la suciedad
+- Mascarilla Skin Detox: Gracias a su fórmula 2en1, puede usarse como limpiador facial o mascarilla detoxificante para limpiar los poros y conseguir un cutis radiante
+- Agua Micelar Skin Detox: Con su triple acción, esta agua micelar no solo actúa como desmaquillante, sino que también purifica profundamente y suaviza la piel del rostro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09FFLM1LP{{</world>}}

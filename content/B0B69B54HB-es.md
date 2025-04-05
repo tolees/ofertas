@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Punta redonda
 - Cierre de cordones que garantiza un ajuste seguro
 - Ropa informal
-- Punta redonda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B69B54HB{{</world>}}

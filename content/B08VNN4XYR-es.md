@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Lucir deportiva incluso cuando no estás en el gimnasio
 - Pantalones cortos deportivos de felpa francesa suave
 - Corte ajustado
 - Cordón de ajuste en cintura elástica
-- Lucir deportiva incluso cuando no estás en el gimnasio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08VNN4XYR{{</world>}}

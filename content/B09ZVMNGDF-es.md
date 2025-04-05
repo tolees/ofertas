@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material exterior: piel
 - Talla del zapato: Medium
 - Grado de resistencia al agua: no impermeable
 - Forma del tacón: plano
-- Material exterior: piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZVMNGDF{{</world>}}

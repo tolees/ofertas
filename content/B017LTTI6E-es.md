@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca de Lacor
 - Apto para lavado en lavavajillas
 - Utensilio de cocina
+- Marca de Lacor
 - Hecho de acero inoxidable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

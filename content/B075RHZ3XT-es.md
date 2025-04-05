@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Base de enchufe múltiple con 6 tomas de corriente con protección contra el contacto accidental, colocados en un disposición de 45°, cable de 1,5m (H05VV-F 3G1,5)
 - Regleta de enchufes bonita en colores atractivos con un diseño decorativo y una calidad excepcional, ideal para un uso práctico y compacto en el ámbito interior
-- Enchufe múltiple para uso en interiores con interruptor de seguridad iluminado para encendido y apagado (bipolar)
-- Volumen de suministro: 1x regleta de enchufes Ecolor en color blanco, con 6 tomas de corriente - en la máxima calidad de brennenstuhl
+- Base de enchufe múltiple con 6 tomas de corriente con protección contra el contacto accidental, colocados en un disposición de 45°, cable de 1,5m (H05VV-F 3G1,5)
 - Regleta de enchufes con protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
+- Volumen de suministro: 1x regleta de enchufes Ecolor en color blanco, con 6 tomas de corriente - en la máxima calidad de brennenstuhl
+- Enchufe múltiple para uso en interiores con interruptor de seguridad iluminado para encendido y apagado (bipolar)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B075RHZ3XT{{</world>}}

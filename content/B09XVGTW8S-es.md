@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Corte regular
-- Casual
 - Suave
+- Casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09XVGTW8S{{</world>}}

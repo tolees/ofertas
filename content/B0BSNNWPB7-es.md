@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste regular
 - Cintura ajustable
+- Ajuste regular
 - Mezclilla material suave y elástico hecha de algodón BCI de origen sostenible para una comodidad diaria
 - Diseño tradicional de 5 bolsillos
 

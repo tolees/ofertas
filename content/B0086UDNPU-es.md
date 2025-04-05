@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DIMENSIONES: 19x6,5cm
-- PRÁCTICO: mango antideslizante y ergonómico; diseño elegante y diferente que decorará nuestra cocina
 - APLICACIÓN: adecuado para abrir latas de todos los tamaños; filo cortante y seguro, abre las latas enseguida y sin esfuerzo
 - MATERIAL: polipropileno, elastómero, acero cromado, abs lavar a mano
+- DIMENSIONES: 19x6,5cm
+- PRÁCTICO: mango antideslizante y ergonómico; diseño elegante y diferente que decorará nuestra cocina
 - INCLUYE: 1 x abrelatas 2 mangos - Calidad Fackelmann
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

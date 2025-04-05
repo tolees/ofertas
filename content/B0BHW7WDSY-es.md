@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Kit para hacer cócteles, compuesto por:
+- Cuidados: la copa es apta para lavavajillas.
 - 1 Recetario de cócteles, con y sin alcohol, con 24 recetas distintas.
 - 1 Medidor metálico de 15-30 ml. - 1 Cuchara mezcladora de acero inoxidable.
 - 1 Copa de cóctel de vidrio con mensaje. Capacidad: 175 ml - 1 Coctelera metálica con mensaje. Capacidad: 550 ml.
-- Cuidados: la copa es apta para lavavajillas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BHW7WDSY{{</world>}}

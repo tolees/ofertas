@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de piel: Normal
-- Agua de colonia agua fresca verbena vapo 300 ml
-- Tu imagen nos importa, por eso te ofrecemos los mejores productos
 - Para que cada dia te sientas unica
+- Tu imagen nos importa, por eso te ofrecemos los mejores productos
+- Agua de colonia agua fresca verbena vapo 300 ml
+- Tipo de piel: Normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SSH6LJC{{</world>}}

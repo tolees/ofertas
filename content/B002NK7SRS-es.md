@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capucha extraíble
 - Ajuste: ajuste estándar
+- Capucha extraíble
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002NK7SRS{{</world>}}

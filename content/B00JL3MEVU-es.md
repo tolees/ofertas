@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolas squash
 - Unisex
 - Blister 3 unidades
+- Bolas squash
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00JL3MEVU{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene material reciclado: Producto hecho con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
-- Cremalleras en las piernas
-- Malla en contraste
 - dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
+- Cremalleras en las piernas
 - Bolsillo con cremallera
+- Contiene material reciclado: Producto hecho con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
+- Malla en contraste
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08XBRBT1K{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Jersey sencillo de algodón
-- Algodon organico
 - Logotipo de Helly Hansen en el pecho
+- Algodon organico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKLSDWVZ{{</world>}}

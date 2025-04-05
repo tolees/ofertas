@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Girogam mediano
 - Junior químico
+- Girogam mediano
 - Agarre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

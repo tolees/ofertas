@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con capucha
-- Bolsillo central
-- Sudadera deportiva
 - Tiene detalles distintivos de la marca
+- Sudadera deportiva
+- Bolsillo central
+- Con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQCB9ZRN{{</world>}}

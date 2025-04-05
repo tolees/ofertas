@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Material principal Sintético
-- Altura Tacón SIN ALTURA
 - Tipo de cierre Cremallera
 - Material del interior Textil
+- Altura Tacón SIN ALTURA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BW8Y4B3L{{</world>}}

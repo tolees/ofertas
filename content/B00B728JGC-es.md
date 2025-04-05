@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene extracto de flor de algodón con propiedades hidratantes y anti-brillo
 - Corrige todas las imperfecciones gracias a 3 tipos de pigmentos: verde que neutraliza el enrojecimiento, amarillo que oculta las ojeras y malva que corrige el aspecto fatigado
+- Contiene extracto de flor de algodón con propiedades hidratantes y anti-brillo
 - Fondo de maquillaje corrector de cobertura media que dura hasta 16 horas
 - Apto para todo tipo de pieles, incluso pieles mixtas
 - SPF 10 UV que protege la piel de los rayos UVA y UVB

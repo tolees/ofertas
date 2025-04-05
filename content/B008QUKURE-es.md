@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye kit de parches para reparar pequeños poros y pinchazos
 - La piscina está diseñada para que sea utilizada por niños a partir de 2 años de edad; en la piscina caben 3 niños
+- Incluye kit de parches para reparar pequeños poros y pinchazos
+- La piscina tiene una capacidad de agua de 581 litros
 - Piscina hinchable Intex infantil de medidas 168x38 cm
 - Fabricada de vinilo resistente tiene 3 aros, de color azul, para mayor estabilidad de la piscina
-- La piscina tiene una capacidad de agua de 581 litros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008QUKURE{{</world>}}

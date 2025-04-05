@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Súper suave y cálido
 - Logotipo clásico
 - 70% algodón, 30% poliéster.
-- Súper suave y cálido
 - Bolsillo de canguro
 - Ajuste regular
 

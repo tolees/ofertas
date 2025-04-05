@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material tratado para absorber la humedad
+- Omini Kappa impreso en cada lateral y letra Kappa impresa en la pierna izquierda
 - Pantalón corto de equipación
 - Cintura elástica ajustable con cordón interior
-- Omini Kappa impreso en cada lateral y letra Kappa impresa en la pierna izquierda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B079SWTP12{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de usar
 - Consumo de energía 7 kWh/1000h para 806 lm
 - Larga duración – hasta 15000 horas y hasta 100000 ciclos de encencido
+- Fácil de usar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071JVPV56{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene un diseño casual
 - Presentan talla elástica
+- Tiene un diseño casual
 - Ofrece una comodidad optima
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sudadera clásica
-- Composición del material: 61% poliéster, 39% algodón
 - Ajuste regular y relajado
+- Composición del material: 61% poliéster, 39% algodón
 - Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

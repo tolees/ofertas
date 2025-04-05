@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con una fragancia duradera
 - Estimulante
+- Con una fragancia duradera
 - Partes de plantas molidas de Nepeta cataria
 
 [🛒 Aquí!!!]({{< param buyurl >}})

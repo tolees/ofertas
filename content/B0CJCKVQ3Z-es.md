@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descubre la gama de barritas Corny, elaboradas con una combinación de ingredientes naturales, como avena, frutas secas, frutos secos y otros cereales; están diseñadas para proporcionar energía, siendo una opción para aquellos que buscan una merienda rápida y nutritiva
 - Gracias a su práctico formato de barrita, puedes llevarla contigo a cualquier lugar, siendo óptima para disfrutar en el trabajo o en la escuela
+- Descubre la gama de barritas Corny, elaboradas con una combinación de ingredientes naturales, como avena, frutas secas, frutos secos y otros cereales; están diseñadas para proporcionar energía, siendo una opción para aquellos que buscan una merienda rápida y nutritiva
 - Disfruta de un placer saludable, de una fusión de frutos secos, chocolate y Sin Azúcares Añadidos
 - Disfruta de un placer saludable
 

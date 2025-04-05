@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cazadora de manga larga de color azul marino. Cierre con cremallera. Tres bolsillos.
-- Marca: Jack&Jones
 - Modelo: 12165203 JJERUSH BOMBER NOOS NAVY BLAZER
+- Marca: Jack&Jones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0835QQW2S{{</world>}}

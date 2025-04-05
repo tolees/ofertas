@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Aproximadamente 30 horas de uso continuo
 - El oxímetro de pulso es un dispositivo no invasivo destinado a verificar la saturación de oxígeno de la hemoglobina arterial (SpO2) y la frecuencia del pulso
+- Operación de un botón con manguito de 22-32 cm
 - 30 memorias y función de lectura promedio
 - Clínicamente validado para la precisión - Sociedad Europea de Hipertensión (ESH)
 - SPO2 y visualización de frecuencia de pulso, visualización de gráficos de barras
-- Operación de un botón con manguito de 22-32 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9DQ39CR{{</world>}}

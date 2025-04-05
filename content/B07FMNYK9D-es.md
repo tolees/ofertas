@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene tres modos de iluminación distintos para alegrar tus fiestas en el jardín
 - Todo se realiza a través de un panel de control fácil de usar, con tan solo pulsar un botón
-- La fuente propulsa agua a más de 1 metro de altura y cuenta con dos opciones de rociado
+- Tiene tres modos de iluminación distintos para alegrar tus fiestas en el jardín
 - Las luces van cambiando de color a rojo, verde y azul
+- La fuente propulsa agua a más de 1 metro de altura y cuenta con dos opciones de rociado
 - Todo se realiza a través de un panel de control fácil de usar, con tan solo pulsar un botón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A partir de 9 meses
 - Accesorio para bebé con bandeja de juguetes de actividad
+- A partir de 9 meses
 - Línea más vendida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

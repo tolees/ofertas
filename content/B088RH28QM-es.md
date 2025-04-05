@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Exterior de cuero suave
 - Inspiradas en el tenis Comodidad elegante para el uso diario
 - Zapatillas PUMA Smash
+- Exterior de cuero suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088RH28QM{{</world>}}

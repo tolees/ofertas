@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuenta con un diseño ligero
 - Dispone de 5 bolsillos
 - Tiene detalles distintivos de la marca
-- Cuenta con un diseño ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LWYV16J{{</world>}}

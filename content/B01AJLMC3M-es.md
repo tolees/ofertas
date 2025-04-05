@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Altura 96cm y para 10 comensales
-- Esmalte refractario y resistente a los golpes; sistema QuickStart y QuickStop para encendido y apagado rapidos
 - Parrilla cromada Ø 47,5 cm - 3 posiciones
+- Esmalte refractario y resistente a los golpes; sistema QuickStart y QuickStop para encendido y apagado rapidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01AJLMC3M{{</world>}}

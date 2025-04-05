@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafas de Sol
-- Gafas de Sol Curazao Negro Hanukeii para hombre y mujer
 - Curazao Black / Black
+- Gafas de Sol Curazao Negro Hanukeii para hombre y mujer
+- Gafas de Sol
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZZMHNXL{{</world>}}

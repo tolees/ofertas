@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño ergonómico gaming fabricado en polipiel de primera calidad con espuma de alta densidad y cojines lumbares y cervicales incluidos
-- Incluye reposabrazos 2D regulables tanto en rotación hacia arriba y hacia abajo. Mecanismo de equilibrio en la base del asiento, más respaldo reclinable hasta 180 grados
-- Base de nylon de 350 mm con pistón de clase 3 y ruedas de 50 mm
-- Soporta hasta 120kg de peso
 - Disponible en 8 colores: Negro, Azul, Gris, Morado, Rojo, Verde, Blanco y Naranja
+- Base de nylon de 350 mm con pistón de clase 3 y ruedas de 50 mm
+- Incluye reposabrazos 2D regulables tanto en rotación hacia arriba y hacia abajo. Mecanismo de equilibrio en la base del asiento, más respaldo reclinable hasta 180 grados
+- Diseño ergonómico gaming fabricado en polipiel de primera calidad con espuma de alta densidad y cojines lumbares y cervicales incluidos
+- Soporta hasta 120kg de peso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083SXV3XV{{</world>}}

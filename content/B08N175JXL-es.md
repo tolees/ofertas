@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GIRO DE 360°: Caño giratorio de 360° de la torneira cozinha permite una gran libertad en su encimera, adecuado para todos los fregaderos, utensilios de cocina fáciles de lavar.
 - FÁCIL DE MONTAR: El paquete incluye instrucciones de montaje detalladas y en la página del producto encontrará un vídeo de montaje detallado, lo que hace que la instalación sea más fácil para usted.
+- GIRO DE 360°: Caño giratorio de 360° de la torneira cozinha permite una gran libertad en su encimera, adecuado para todos los fregaderos, utensilios de cocina fáciles de lavar.
 - PULVERIZADOR DE AIRE FÁCIL DE DESMONTAR: Con la ayuda de un paño seco o una llave inglesa, puede quitar el perlator del grifo cocina negro plegable en cualquier momento para eliminar la cal y la contaminación.
 - CALIDAD CONFIABLE: El grifo cocina fregadero bajo ventana de acero inoxidable SUS304 de alta calidad, con acabado negro mate. Sin plomo, sin olor peculiar, preste atención a su salud.
 - GRIFO COCINA ABATIBLE: Se puede plegar 90° hacia el fregadero y también el mango. La altura de plegado del grifo de fregadero es de 6,3 cm. No te preocupes por no poder abrir la ventana.

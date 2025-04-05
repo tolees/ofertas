@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No lavar, No usar lejía, No secar en la secadora, No planchar, No limpiar en seco
 - Gorra estilo trucker con parte de tela ligeramente acolchada y detalle de malla detrás. Bordado de 2Pac y trabilla de plástico ajustable con topes.
+- No lavar, No usar lejía, No secar en la secadora, No planchar, No limpiar en seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C96CK12F{{</world>}}

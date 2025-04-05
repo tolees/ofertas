@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lace Up
-- Pastel Durabuck
 - Espuma viscoelástica refrigerada por aire
+- Pastel Durabuck
+- Lace Up
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07QFYRP8T{{</world>}}

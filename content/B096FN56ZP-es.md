@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HH Max-Grip
-- HH Quick Dry
 - HH Max-Vent
+- HH Max-Grip
 - Underfoot EVA Comfort insole insert
+- HH Quick Dry
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096FN56ZP{{</world>}}

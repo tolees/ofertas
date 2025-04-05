@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte Normal
-- Camiseta Adidas
 - Mangas cortas
+- Camiseta Adidas
+- Corte Normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VSCWXXV{{</world>}}

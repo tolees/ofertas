@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ponte los cráneos de tus enemigos: Acaba con los jefes y róbales el cráneo para obtener nuevas habilidades que te permitirán moverte por el mundo de formas nuevas y emocionantes, y que además te ayudarán a acabar con tus oponentes.
 - Colecciona viñetas de cómic: Cuando te pongas los cráneos de tus enemigos, podrás acceder a sus recuerdos y desbloquear viñetas de cómic que representan acontecimientos clave de su vida. De hecho, los cráneos incluso te hablarán durante tu aventura.
-- Conquista seis biomas, cada uno con sus enemigos, jefes y trasfondo.
 - Explora el mundo: Te espera un mundo extenso, peligroso e interconectado. Estás solo así que, para descubrir cada bioma, tendrás que reunir los cráneos de quienes lo habitaban para guiarte.
+- Conquista seis biomas, cada uno con sus enemigos, jefes y trasfondo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3XM5TXW{{</world>}}

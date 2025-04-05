@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- lindo mini vestido de la marca Only
-- Mini – corte muy corto
 - Manga larga
-- Perfecto para muchas ocasiones
+- lindo mini vestido de la marca Only
 - Cuello pequeño con tira de botones
+- Perfecto para muchas ocasiones
+- Mini – corte muy corto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08B61PG9Z{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3 tiras en la parte superior
 - Suela de goma
+- 3 tiras en la parte superior
 - Una versión de bajo costo de una silueta inspirada en zapatos de baloncesto.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

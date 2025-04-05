@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El lápiz de ojos Tatto Liner dura hasta 36H sin borrarse proporcionando un delineado de larga duración, resistente a roces y al sudor durante todo el día
-- Aplicar tanto en la línea de agua como en la línea de las pestañas y dejar secar 30 segundos para una mayor fijación.
-- Contenido: 1x Maybelline New York, Lápiz de ojos Tattoo Liner efecto tatuaje semi-permanente, Tono 900 Deep Onyx Negro, 1.3 gr
 - Su textura cremosa en gel permite una fácil aplicación, Formato en lápiz de madera requiere sacar la punta y limpiar con agua micelar
 - El resultado: trazo con intensidad efecto tatuaje semi-permanente, no se mueve, no se borra y es waterproof
+- Contenido: 1x Maybelline New York, Lápiz de ojos Tattoo Liner efecto tatuaje semi-permanente, Tono 900 Deep Onyx Negro, 1.3 gr
+- El lápiz de ojos Tatto Liner dura hasta 36H sin borrarse proporcionando un delineado de larga duración, resistente a roces y al sudor durante todo el día
+- Aplicar tanto en la línea de agua como en la línea de las pestañas y dejar secar 30 segundos para una mayor fijación.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KGT94LB{{</world>}}

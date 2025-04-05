@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exterior e interior en piel
-- Cocodrilo de metal pulido
-- Seis ranuras para tarjetas en el interior
-- Forro de algodón
 - Dimensiones: 11,5 x 9,5 x 2 cm
+- Cocodrilo de metal pulido
+- Exterior e interior en piel
+- Forro de algodón
+- Seis ranuras para tarjetas en el interior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N5FLIFP{{</world>}}

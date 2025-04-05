@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
 - Logotipo impreso en el pecho
+- Cuello redondo
 - Camiseta de ajuste clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

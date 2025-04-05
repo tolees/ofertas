@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Desafía a los "Rivales del Crepúsculo" en un nuevo contenido de la historia
 - Banda sonora original de Eurobeats
 - Multijugador local y online
-- Resolución 4K, rendimiento de juego de 120 fotogramas por segundo
-- Desafía a los "Rivales del Crepúsculo" en un nuevo contenido de la historia
-- Controles únicos de doble stick para un derrape preciso en un país de maravillas retrofuturista
 - 24 coches individuales
+- Resolución 4K, rendimiento de juego de 120 fotogramas por segundo
+- Controles únicos de doble stick para un derrape preciso en un país de maravillas retrofuturista
 - 28 exigentes circuitos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

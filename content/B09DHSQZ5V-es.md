@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La figura viene en Pack Deluxe.
 - Con múltiples accesorios, complementos y bases.
-- ¡Colecciona todas las figuras de acción del Multiverso DC!
-- Figuras de escala increíblemente detalladas de 7 pulgadas basadas en el multiverso DC
 - Figuras de acción totalmente articuladas con 22 puntos de articulacion y grandísimo nivel de detalle.
+- Figuras de escala increíblemente detalladas de 7 pulgadas basadas en el multiverso DC
+- ¡Colecciona todas las figuras de acción del Multiverso DC!
+- La figura viene en Pack Deluxe.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09DHSQZ5V{{</world>}}

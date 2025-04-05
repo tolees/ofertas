@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tipo de tacón: Plano
 - Revestimiento: Sin forro
 - Material de la suela: Goma
-- Tipo de tacón: Plano
 - Material exterior: Caucho
 - Cierre: Sin cordones
 

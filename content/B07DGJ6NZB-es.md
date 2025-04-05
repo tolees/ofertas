@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elimina más placa que un cepillo manual normal
-- Echa un vistazo a la versión actualizada, Vitality PRO, de nuestro cepillo de dientes Vitality
 - Contenido: 1 mango de cepillo de dientes, 1 cabezal de recambio
+- Echa un vistazo a la versión actualizada, Vitality PRO, de nuestro cepillo de dientes Vitality
 - Vibra cada 30 segundos para avisarte de que cambies la zona que te estás cepillando
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Resultados: Acabado mate natural y brillo controlado durante 32 horas*, Alisa visiblemente la piel con el paso del tiempo, Efecto segunda piel, 20% de tez más uniforme en 4 semanas
-- Base de maquillaje matificante de alta cobertura con una duración de 32 horas* para cubrir las imperfecciones (rojeces, acné, hiperpigmentación y cicatrices) e igualar la tez, apta para todo tipo de pieles, incluso las más sensibles
-- Agitar el frasco y aplicar una pizca en las mejillas, la nariz, la barbilla y la frente y, a continuación, extender la base de maquillaje con los dedos, una brocha o una esponja de maquillaje desde la parte superior a la inferior del rostro
-- Fórmula enriquecida con un 4% de Niacinamida, alisa visiblemente la piel con el paso del tiempo, Calma, No se transfiere, Resiste al agua, a la transpiración y al calor, Textura ultra fluida, No comedogénica y dermatológicamente probada
 - Contenido: 1x LOréal Paris Infaillible Matte Cover 32H, Base de maquillaje mate de alta cobertura , Tono: 200 Neutro, 30 ml
+- Agitar el frasco y aplicar una pizca en las mejillas, la nariz, la barbilla y la frente y, a continuación, extender la base de maquillaje con los dedos, una brocha o una esponja de maquillaje desde la parte superior a la inferior del rostro
+- Base de maquillaje matificante de alta cobertura con una duración de 32 horas* para cubrir las imperfecciones (rojeces, acné, hiperpigmentación y cicatrices) e igualar la tez, apta para todo tipo de pieles, incluso las más sensibles
+- Fórmula enriquecida con un 4% de Niacinamida, alisa visiblemente la piel con el paso del tiempo, Calma, No se transfiere, Resiste al agua, a la transpiración y al calor, Textura ultra fluida, No comedogénica y dermatológicamente probada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DLZY13P{{</world>}}

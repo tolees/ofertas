@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Grut: Personalizable
 - Material exterior: lona
 - Material interior: poliéster
-- Grut: Personalizable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B74R7NJM{{</world>}}

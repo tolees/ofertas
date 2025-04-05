@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos cargo en los muslos
 - Dos bolsillos laterales
+- Bolsillos cargo en los muslos
 - Cintura elástica con cordón
 - Dos bolsillos traseros integrados con solapa
 

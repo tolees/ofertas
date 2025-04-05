@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido con patrones de efecto de punto especial
 - Elegante punto para la temporada navideña
+- Tejido con patrones de efecto de punto especial
 - Cuello alto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

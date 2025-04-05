@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consulta la velocidad y la dirección del viento en tiempo real en tu smartphone
-- Netatmo asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
-- Consulta tu historial para conocer la evolución del viento
 - Recibe una alerta en tu smartphone cuando aumente la intensidad del viento
+- Consulta tu historial para conocer la evolución del viento
 - Mejora tu vida diaria adaptándola al estado del viento
 - Colócalo en exteriores, a una distancia máxima de 100 metros del módulo interior de la Estación Meteorológica Inteligente
+- Consulta la velocidad y la dirección del viento en tiempo real en tu smartphone
 - Accesorio de la Estación Meteorológica Netatmo (no incluida)
+- Netatmo asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B016OHME1A{{</world>}}

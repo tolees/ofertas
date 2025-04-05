@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de calidad
-- Marca: New Balance
 - Camiseta de manga corta del FC Porto
+- Producto de calidad
 - Temporada 2022/23
+- Marca: New Balance
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HN21SD4{{</world>}}

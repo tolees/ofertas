@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una única trabilla
-- Marca estampada
 - Hebilla de metal fundido
 - Gruesa correa de piel
+- Una única trabilla
+- Marca estampada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HY5V7SL{{</world>}}

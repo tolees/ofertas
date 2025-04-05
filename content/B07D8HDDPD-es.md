@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto sous licencia Marshall
-- Incluye 1 kit de montaje en pared
 - Viene con 4 llaveros de enchufe de guitarra
 - Transparencia de marca aprobada
+- Producto sous licencia Marshall
+- Incluye 1 kit de montaje en pared
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07D8HDDPD{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin cierre
-- textil
 - Caucho
+- textil
+- Sin cierre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X1B39BM{{</world>}}

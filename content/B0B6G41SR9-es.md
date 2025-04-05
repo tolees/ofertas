@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alimento para perros con muchos ingredientes naturales, vitaminas y minerales, para apoyar el sistema inmunológico.
+- Somos solidarios: donamos para acabar con el sufrimiento de perros y gatos en todo el mundo.
 - ¡Embalaje respetuoso con el planeta! Usamos bolsas de papel para nuestra gama de productos secos y nuestras latas y vasos para alimentos secos son completamente reciclables.
-- Comida húmeda natural para perros, repleta de salmón fresco y pavo. Sin carne ultra procesada o secada.
 - Adecuado para todos los perros adultos y mayores: razas pequeñas y grandes, perros esterilizados y activos.
 - Alimento húmedo para perros hipoalergénico y sin cereales con prebióticos para facilitar la digestión y la salud intestinal.
-- Somos solidarios: donamos para acabar con el sufrimiento de perros y gatos en todo el mundo.
+- Alimento para perros con muchos ingredientes naturales, vitaminas y minerales, para apoyar el sistema inmunológico.
+- Comida húmeda natural para perros, repleta de salmón fresco y pavo. Sin carne ultra procesada o secada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6G41SR9{{</world>}}

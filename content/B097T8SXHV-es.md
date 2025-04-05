@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forma del talón: plano
-- Cierre: goma
-- Material exterior: lona
-- Material interior: textil
 - Cuero
+- Material interior: textil
 - Ancho del zapato: medio
+- Material exterior: lona
 - No es resistente al agua
+- Cierre: goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B097T8SXHV{{</world>}}

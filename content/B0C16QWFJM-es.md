@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Largo: mini/corto
+- Lavar en ciclo de lavado normal a 40°, No usar lejía, No secar en la secadora, No planchar, No limpiar en seco
 - Pernera: Regular, corte cómodo y atemporal con la pernera recta
 - Moda de baño
-- Bañador de material tejido ligero con estampado de hojas, cordón en la cintura, bolsillos interiores a los lados y bolsillo con velcro por detrás. Slip de malla por dentro.
-- Lavar en ciclo de lavado normal a 40°, No usar lejía, No secar en la secadora, No planchar, No limpiar en seco
+- Largo: mini/corto
 - Nota: la prenda posee un corte más entallado y queda un poco más ajustada.
+- Bañador de material tejido ligero con estampado de hojas, cordón en la cintura, bolsillos interiores a los lados y bolsillo con velcro por detrás. Slip de malla por dentro.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C16QWFJM{{</world>}}

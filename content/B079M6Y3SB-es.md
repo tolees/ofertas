@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Arte popular inspirado con colores vivos
-- Producto adecuado para regalar, decorar o coleccionar
-- Colores resistentes al agua
 - Diseñado por Jim Shore
+- Colores resistentes al agua
+- Arte popular inspirado con colores vivos
 - Material: resina
+- Producto adecuado para regalar, decorar o coleccionar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079M6Y3SB{{</world>}}

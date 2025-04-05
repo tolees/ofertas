@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine de piel sintética
 - SoftFoam: La cómoda plantilla PUMA para una pisada instantánea y una comodidad duradera que proporciona una amortiguación suave a cada paso que das
+- Empeine de piel sintética
 - Silueta de caña baja
 
 [🛒 Comprar!!!]({{< param buyurl >}})

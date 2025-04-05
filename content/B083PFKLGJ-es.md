@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Llavero
-- 6 compartimentos funcionales: 1 portabilletes, 1 ranura transparente para tarjetas y 4 ranuras para tarjetas
 - Logotipo redondo de Kipling
 - 2 compartimentos principales: 1 botón y 1 con cremallera
+- Llavero
+- 6 compartimentos funcionales: 1 portabilletes, 1 ranura transparente para tarjetas y 4 ranuras para tarjetas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083PFKLGJ{{</world>}}

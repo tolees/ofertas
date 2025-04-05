@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fuente de alimentación: 12 V, conexión para encendedores de cigarrillos.
-- 3 adaptadores adicionales (adaptadores para una bola del agua, un colchón de aire y una bola).
-- Manómetro 0-18 bar.
-- Manguera de presión con el conector de la válvula de los neumáticos de coche (válvula Schrader).
 - Cable de conexión extra larga: 2.9 m.
+- Manómetro 0-18 bar.
+- Fuente de alimentación: 12 V, conexión para encendedores de cigarrillos.
+- Manguera de presión con el conector de la válvula de los neumáticos de coche (válvula Schrader).
+- 3 adaptadores adicionales (adaptadores para una bola del agua, un colchón de aire y una bola).
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01KJTA3GW{{</world>}}

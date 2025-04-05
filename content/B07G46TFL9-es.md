@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disponible en una VARIEDAD DE TAMAÑOS y SABORES: double rich chocolate, crema de banana, helado de vainilla, proteína en polvo sin sabor y más
-- Proteína whey de RÁPIDA ABSORCIÓN con aislado de proteína de suero como ingrediente principal que ayuda a ganar músculo y favorece la recuperación* después de cada sesión de entrenamiento
+- La fórmula de proteína whey ON está certificada por Informed Choice, contiene BCAA y GLUTAMINA naturales y es BAJA EN AZÚCAR y grasa
 - ** Fuente EFSA Journal 2010;8(10):1811; 2011;9(6):2203
 - Gold Standard 100% WHEY de Optimum Nutrition es la proteína en polvo más vendida del mundo* diseñada para respaldar tu proceso de transformación física desde el día uno
-- *Fuente: Euromonitor International Limited; Consumer Health edición 2023, categoría Sports Protein Powder, % de acciones de minorista, datos de 2022
-- La fórmula de proteína whey ON está certificada por Informed Choice, contiene BCAA y GLUTAMINA naturales y es BAJA EN AZÚCAR y grasa
+- Proteína whey de RÁPIDA ABSORCIÓN con aislado de proteína de suero como ingrediente principal que ayuda a ganar músculo y favorece la recuperación* después de cada sesión de entrenamiento
 - FÁCIL Y CONVENIENTE: mezcla una cucharada de cazo en 180-240 ml de agua fría; tómala por la mañana y/o durante los 30 minutos previos del entrenamiento o justo después de finalizarlo
+- Disponible en una VARIEDAD DE TAMAÑOS y SABORES: double rich chocolate, crema de banana, helado de vainilla, proteína en polvo sin sabor y más
+- *Fuente: Euromonitor International Limited; Consumer Health edición 2023, categoría Sports Protein Powder, % de acciones de minorista, datos de 2022
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07G46TFL9{{</world>}}

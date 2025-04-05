@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalón vaquero elástico
-- Camiseta de punto de manga corta
-- Estampado gráfico
 - Sudadera con capucha y cremallera frontal
 - Vaqueros: 80% algodón, 19% poliéster, 1% elastano, camiseta y chaqueta: 60% algodón, 40% poliéster
+- Camiseta de punto de manga corta
+- Estampado gráfico
+- Pantalón vaquero elástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSNPKX3R{{</world>}}

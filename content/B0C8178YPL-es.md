@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - construcción cómoda y duradera
-- cuero duro
 - 8 ojales
+- cuero duro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8178YPL{{</world>}}

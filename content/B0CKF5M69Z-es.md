@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 8432406180222
 - ES9180220B
+- 8432406180222
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKF5M69Z{{</world>}}

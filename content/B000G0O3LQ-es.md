@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Número de páginas impresas: 2000
 - Alta calidad
-- Colores vivos
 - Dispositivos compatibles: C5600
 - Producto de alto rendimiento
-- Número de páginas impresas: 2000
+- Colores vivos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000G0O3LQ{{</world>}}

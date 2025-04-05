@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - INSTALACIÓN FLEXIBLE: Coloca la Cámara interior Ring (2.ª gen.) en una superficie plana o fíjala a cualquier pared con el soporte de montaje versátil.
-- CONFIGURACIÓN SENCILLA: La Cámara interior Ring (2.ª gen.) es fácil de instalar, ya que solo tienes que enchufarla a cualquier toma eléctrica estándar y conectarla a la red wifi de tu domicilio.
-- CUBIERTA DE PRIVACIDAD EXTRAÍBLE: Gira la cubierta de privacidad si quieres tapar la cámara y apagar el micrófono para mantener el control de todo lo que ve, oye y graba la Cámara interior Ring (2.ª gen.).
-- VÍDEO EN DIRECTO Y COMUNICACIÓN BIDIRECCIONAL: Una mini cámara de vigilancia para interiores con enchufe que te permite vigilar a tus mascotas y saludarlas estés donde estés gracias al vídeo en directo HD y la comunicación bidireccional.
-- VINCULA TUS DISPOSITIVOS: La app de Ring te permite conectar por wifi todos tus dispositivos, ajustar su configuración y utilizar los diferentes modos para armarlos o desarmarlos en tu domicilio desde cualquier lugar. Se requiere una suscripción a Ring Home (a la venta por separado).
 - VÍDEO HD 1080p: Vigila a tus mascotas estés donde estés gracias al vídeo en directo con resolución HD 1080p.
+- VINCULA TUS DISPOSITIVOS: La app de Ring te permite conectar por wifi todos tus dispositivos, ajustar su configuración y utilizar los diferentes modos para armarlos o desarmarlos en tu domicilio desde cualquier lugar. Se requiere una suscripción a Ring Home (a la venta por separado).
+- VÍDEO EN DIRECTO Y COMUNICACIÓN BIDIRECCIONAL: Una mini cámara de vigilancia para interiores con enchufe que te permite vigilar a tus mascotas y saludarlas estés donde estés gracias al vídeo en directo HD y la comunicación bidireccional.
+- CUBIERTA DE PRIVACIDAD EXTRAÍBLE: Gira la cubierta de privacidad si quieres tapar la cámara y apagar el micrófono para mantener el control de todo lo que ve, oye y graba la Cámara interior Ring (2.ª gen.).
+- CONFIGURACIÓN SENCILLA: La Cámara interior Ring (2.ª gen.) es fácil de instalar, ya que solo tienes que enchufarla a cualquier toma eléctrica estándar y conectarla a la red wifi de tu domicilio.
 - MÁS VISIÓN, MÁS INFORMACIÓN Y MÁS PROTECCIÓN: con una suscripción a Ring Home compatible (a la venta por separado), puedes grabar de forma ininterrumpida en dispositivos compatibles, retroceder en tu cronología para volver a ver lo que te has perdido, recibir alertas de personas y mucho más*.
 - COMUNICACIÓN BIDIRECCIONAL: Habla a tus mascotas y hazles saber que estás pendiente de ellas a través de la comunicación bidireccional.
 - ALERTAS POR TODA LA CASA: Emparéjala por wifi con Ring Chime o con un dispositivo compatible con Alexa para escuchar notificaciones por todo el interior de tu hogar.

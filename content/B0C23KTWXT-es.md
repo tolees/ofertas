@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con estructura estilo canalé
-- Con cuello redondo
-- JerseY De manga caída Con volumen
-- Con Detalles trenzados Y relieve en el delantero
 - Con hilo Con mezcla de lurex
+- Con estructura estilo canalé
+- Con Detalles trenzados Y relieve en el delantero
+- JerseY De manga caída Con volumen
+- Con cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C23KTWXT{{</world>}}

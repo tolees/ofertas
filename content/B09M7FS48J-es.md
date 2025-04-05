@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MOON PHASES marca Guess
 - Pendientes marca Guess
+- MOON PHASES marca Guess
 - Referencia JUBE01194JWRHT-U
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar cada mañana (al menos ½ pipeta) sobre la piel limpia y seca de la cara como último paso de tu rutina de cuidado de la piel. Aplicar inmediatamente después de la crema hidratante diaria y antes del maquillaje. Usar solo o mezclado con una crema hidratante o base.
 - Fórmula ligera y sin fragancia, vegana y cruelty free. Contiene vitamina C y carnosina.
 - Factor de protección solar spf 45 de amplio espectro contra los rayos UVA/ UVB. Protege contra la luz azul, la contaminación y los infrarrojos.
-- Respetuoso con el planeta. Packaging reciclable.
 - Adecuada para todo tipo de piel, incluida la piel sensible. Hipoalergénico, dermatológicamente probado, no comedogénico, con fórmulas sin parabenos.
+- Respetuoso con el planeta. Packaging reciclable.
+- Aplicar cada mañana (al menos ½ pipeta) sobre la piel limpia y seca de la cara como último paso de tu rutina de cuidado de la piel. Aplicar inmediatamente después de la crema hidratante diaria y antes del maquillaje. Usar solo o mezclado con una crema hidratante o base.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091DXMCQP{{</world>}}

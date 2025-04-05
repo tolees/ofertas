@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine de malla
-- Amortiguación EVA
 - Suela robusta
+- Amortiguación EVA
+- Empeine de malla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5Y6XZG9{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Plantilla de EVA
-- Parte superior de piel sintética
-- Forro textil
 - Cierre de cordones
+- Forro textil
+- Parte superior de piel sintética
 - Diseño acolchado
 - Horma clásica
 

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Chaqueta lisa
-- Capucha con cordón ajustable en la espalda
-- Cierre delantero
 - Composición del material: material exterior: 92% poliéster, 8% nailon; forro: 100% poliéster
+- Cierre delantero
+- Capucha con cordón ajustable en la espalda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NVSYWK6{{</world>}}

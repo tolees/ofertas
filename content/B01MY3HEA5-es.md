@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ventilación gracias a las amplias ranuras de ventilación y canales interiores
 - Resistencia a múltiples impactos
-- Acolchado fácil de cuidar, extraíble y lavable
 - Rueda de ajuste para un ajuste fácil y rápido del casco
+- Acolchado fácil de cuidar, extraíble y lavable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MY3HEA5{{</world>}}

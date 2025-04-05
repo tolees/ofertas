@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Mango extraíble Ingenio que permite llevar las sartenes o cazos de la cocina al horno, del horno a la mesa, de la nevera al lavavajillas
-- Fabricado en Francia; Sus dimensiones son 18.3 x 4.6 x 4.6 cm
 - Soporta hasta 10 kg de carga y está hecho para durar; puede soportar los usos más intensos
+- Fabricado en Francia; Sus dimensiones son 18.3 x 4.6 x 4.6 cm
 - El mango extraíble solo funciona con menaje Ingenio de Tefal para una óptima experiencia de uso
 - Mango robusto y seguro con su sistema de fijación de 3 puntos; el mango patentado de Ingenio garantiza una mayor seguridad y una tranquilidad total
 

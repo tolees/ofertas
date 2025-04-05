@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Parte superior de malla con refuerzos sellados
-- Panel acolchado alrededor del tobillo
 - Diseñada por y para mujeres
+- Parte superior de malla con refuerzos sellados
 - Cierre de cordones
+- Horma clásica
+- Panel acolchado alrededor del tobillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C78DC74S{{</world>}}

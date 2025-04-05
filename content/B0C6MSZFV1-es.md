@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cocodrilo a tono
-- Dimensiones: 22,5 נ13,5 נ11 cm
 - Correa ajustable: 141-90 cm
+- Dimensiones: 22,5 נ13,5 נ11 cm
+- Cocodrilo a tono
 - Parte externa de piel de becerro
 - Bolsillo de parche y bolsillo con cremallera en interior
 

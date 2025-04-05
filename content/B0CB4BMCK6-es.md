@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte normal
 - Logotipo de la temporada
+- Corte normal
 - Redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

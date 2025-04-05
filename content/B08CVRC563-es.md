@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un diseño de 5 bolsillos
 - Tienen un parche con el logo de la marca en la parte trasera de la cintura
+- Con un diseño de 5 bolsillos
 - Vaqueros de pernera recta para mujer
 
 [🛒 Aquí!!!]({{< param buyurl >}})

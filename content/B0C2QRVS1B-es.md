@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla Cloudfoam Comfort para adecuado comodidad
 - Horma clásica
+- Plantilla Cloudfoam Comfort para adecuado comodidad
 - Forro textil
 - Cierre de cordones
 

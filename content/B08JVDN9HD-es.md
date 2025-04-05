@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Puños acanalados
-- Tejido de punto estructural
-- Composición: 80% algodón reciclado, 20% poliéster
 - Jersey de punto
+- Composición: 80% algodón reciclado, 20% poliéster
+- Tejido de punto estructural
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JVDN9HD{{</world>}}

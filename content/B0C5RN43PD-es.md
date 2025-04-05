@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 5 AÑOS DE GARANTÍA: 2 años para las baterías. Previo registro en Shark
-- INCLUYE: Aspiradora sin cable Shark Stratos, 1 batería, base de carga, cepillo multisuperficie, cepillo antialergias, boquilla estrecha y bolsa para accesorios. Peso: 3,97 kg. Color: rosa dorado y gris oscuro.
-- HASTA 60 MINUTOS DE AUTONOMÍA*: Carga la batería extraíble en cualquier lugar, conectada a la aspiradora o por separado. Las luces LED iluminan el polvo oculto. Modos para alfombras y suelos duros. (*En modo de energía ECO, con accesorio no motorizado)
 - LIMPIEZA PORTÁTIL: Transfórmala en una aspiradora de mano con solo tocar un botón, perfecta para limpiar escaleras, tapicería, el coche y más con los accesorios incluidos.
+- HASTA 60 MINUTOS DE AUTONOMÍA*: Carga la batería extraíble en cualquier lugar, conectada a la aspiradora o por separado. Las luces LED iluminan el polvo oculto. Modos para alfombras y suelos duros. (*En modo de energía ECO, con accesorio no motorizado)
 - TECNOLOGÍA CLEAN SENSE IQ: Detecta la suciedad que no puedes ver y ajusta automáticamente la potencia de limpieza para recoger hasta un 50% más de suciedad (en comparación con Shark IZ400EU en modo ECO).
+- INCLUYE: Aspiradora sin cable Shark Stratos, 1 batería, base de carga, cepillo multisuperficie, cepillo antialergias, boquilla estrecha y bolsa para accesorios. Peso: 3,97 kg. Color: rosa dorado y gris oscuro.
 - DUOCLEAN + POWERFINS PLUS: Esta aspiradora sin cable es el que mejor recoge el pelo de toda la gama de Shark. La tecnología Anti Hair Wrap elimina el pelo del cepillo giratorio mientras limpias. Se desliza por todo tipo de suelos, desde alfombras hasta suelos duros.
+- 5 AÑOS DE GARANTÍA: 2 años para las baterías. Previo registro en Shark
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5RN43PD{{</world>}}

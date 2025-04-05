@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pierna recta
 - Cintura alta
 - Disponible en colores de esta temporada
 - Detalles de 5 bolsillos
+- Pierna recta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4BXQ9B{{</world>}}

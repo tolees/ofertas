@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Arriba las Copas con la bebida mágica de Harry Potter más icónica!
 - Formato bolsa de 59g. Conservar en un lugar fresco y seco.
 - Las gominolas sabor a cerveza de mantequilla (butterbeer) no contienen alcohol
 - Dulces creados por Jelly Belly inspirados en el mundo Harry Potter, con el mismo sabor que las servidas en Las Tres Escobas (Three Brroomsticks TM).
+- ¡Arriba las Copas con la bebida mágica de Harry Potter más icónica!
 - Caramelos masticables de cerveza de mantequilla, la bebida más querida del mundo mágico, ¡en forma de jarra!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

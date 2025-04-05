@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una solapa con tres botones complementa al cuello, que puede ser abierto en caso de que el sol apriete
-- Diseño orientado a la movilidad gracias a la estructura de ajuste activo y a los detalles cortados con láser
-- Polo técnico de estilo clásico, diseñado para días calurosos en las colinas o en la ciudad
-- La tecnología Omni-Wick para las mejores combinaciones de gestión de la transpiración y la humedad
 - 1x Columbia Triple Canyon, Polo técnico, Hombre, Fibra sintética, Negro (Shark), S, Art. 1711661
+- Diseño orientado a la movilidad gracias a la estructura de ajuste activo y a los detalles cortados con láser
+- La tecnología Omni-Wick para las mejores combinaciones de gestión de la transpiración y la humedad
+- Polo técnico de estilo clásico, diseñado para días calurosos en las colinas o en la ciudad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0817HSYX1{{</world>}}

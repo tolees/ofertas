@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 84% Poliéster - 16% Elastano
 - características: Logotipo aplicado - agujero ventilar - Logotipo impreso - Mangas raglán - Escote redondo - Cuello alzado - Costuras decorativas
+- 84% Poliéster - 16% Elastano
 - Hombres - Camiseta de manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})

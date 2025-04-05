@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los jóvenes pueden jugar con velocidad y control con la ligera IG SPEED 26; es la primera raqueta óptima para 9 a 1
-- Tecnología: Innegra, Damp+
-- Patrón de pantalla: 16/19
-- Tamaño de Cabeza: 645 cm²
 - Peso: 250 G
+- Los jóvenes pueden jugar con velocidad y control con la ligera IG SPEED 26; es la primera raqueta óptima para 9 a 1
+- Patrón de pantalla: 16/19
+- Tecnología: Innegra, Damp+
+- Tamaño de Cabeza: 645 cm²
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09T71XRR8{{</world>}}

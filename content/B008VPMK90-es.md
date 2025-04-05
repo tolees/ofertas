@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tejido Canalé 1x1
 - Cuello redondo
 - Camiseta de algodón 100%
-- Tejido Canalé 1x1
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B008VPMK90{{</world>}}

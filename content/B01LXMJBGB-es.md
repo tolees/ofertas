@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con set de inicio Star Wars X-Wing
 - Cartas resistentes y de calidad
-- Los componentes són de fácil montaje
 - El modelo es de plástico duro y se incluye pintado
+- Compatible con set de inicio Star Wars X-Wing
+- Los componentes són de fácil montaje
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LXMJBGB{{</world>}}

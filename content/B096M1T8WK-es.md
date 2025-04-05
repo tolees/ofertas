@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de fuente de alimentación: Funciona a mano
-- DEWALT DCS386NT-XJ - Sierra Sable sin escobillas XR 18V XRP FV Advantage
 - Material duradero
 - DCS386NT-XJ
+- Tipo de fuente de alimentación: Funciona a mano
+- DEWALT DCS386NT-XJ - Sierra Sable sin escobillas XR 18V XRP FV Advantage
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096M1T8WK{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cinta de contraste dentro del cuello
-- Algodón orgánico elástico
 - Cuello polo
 - Solapa de dos botones
+- Algodón orgánico elástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2HQWLLD{{</world>}}

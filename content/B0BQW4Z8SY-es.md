@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta de manga corta
 - corte normal
+- Camiseta de manga corta
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

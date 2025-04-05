@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiempo de carga 75 minutos
-- La seguridad más avanzada: control permanente de todos los parámetros mediante un microprocesador
-- Sistema de carga inteligente para una batería de larga duración
-- LED de nivel de carga de batería de 3 posiciones
-- Adecuado para el uso del TWIN-PACK en aplicaciones que requieren una alimentación de 36 V
 - Las celdas de iones de litio de alta gama prácticamente no se autodescargan
+- La seguridad más avanzada: control permanente de todos los parámetros mediante un microprocesador
 - Indicador de nivel de carga de 6 posiciones
+- Adecuado para el uso del TWIN-PACK en aplicaciones que requieren una alimentación de 36 V
+- LED de nivel de carga de batería de 3 posiciones
+- Sistema de carga inteligente para una batería de larga duración
+- Tiempo de carga 75 minutos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01M3SPEZF{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bolsillo interior y exterior
 - target gender: female
 - 27.2(l) x 5(an.) x 17.5(alt.)
 - Bordado étnico con espejitos y cuentas
-- Bolsillo interior y exterior
-- Tejido jacquard en algodón blanco y negro
 - Bandolera étnica bordada
+- Tejido jacquard en algodón blanco y negro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098YDWRPM{{</world>}}

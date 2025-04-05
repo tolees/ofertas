@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Colección Authentic FW22
-- Ofrece comodidad y libertad de movimiento
 - Material: 60% Algodón, 40% Poliéster
+- Ofrece comodidad y libertad de movimiento
 - Contiene detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Talle alto
-- Prenda ajustada de arriba abajo
-- Costuras con forma en la parte posterior
 - Bolsillos con solapa y botón a presión oculto en la parte posterior
 - Bolsillos insertados
+- Costuras con forma en la parte posterior
+- Prenda ajustada de arriba abajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BHTMBWM8{{</world>}}

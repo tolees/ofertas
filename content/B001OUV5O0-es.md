@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paquete de 12 rotuladores con capuchón ventilado
-- Son fácilmente lavable en la mayoría de los textiles
 - Línea de 2 mm de espesor
+- Son fácilmente lavable en la mayoría de los textiles
+- Paquete de 12 rotuladores con capuchón ventilado
 - Rotuladores del fieltro para niños en 12 brillantes colores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

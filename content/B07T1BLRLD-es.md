@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los 3 juegos originales remasterizados por completo
-- Descarga necesaria a través de internet; el juego completo requiere una descarga de al menos 10 GB; se necesita conexión a Internet
-- Con nuevos e impresionantes gráficos y animaciones
-- Disfruta de desafíos épicos y vuelve a encontrarte con increíbles personajes
 - 3 juegos y más de 100 niveles para explorar
+- Descarga necesaria a través de internet; el juego completo requiere una descarga de al menos 10 GB; se necesita conexión a Internet
+- Disfruta de desafíos épicos y vuelve a encontrarte con increíbles personajes
+- Con nuevos e impresionantes gráficos y animaciones
+- Los 3 juegos originales remasterizados por completo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07T1BLRLD{{</world>}}

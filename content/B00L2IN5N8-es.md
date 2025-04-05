@@ -30,10 +30,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Fabricada en PVC Glasspack de 0,7 mm de grosor, luminiscente clase B (normativa RICPI RD 513/2017) apta para locales comerciales, naves, oficinas, edificios, etc. (resto de instalaciones que no requieran clase A)
 - Incluye mes/año de fabricación y nº de lote con su respectivo ensayo de luminiscencia
-- Señal Extintor de calidad y fácil instalación. Alta resistencia a condiciones climatológicas
-- Las señales Normaluz se fabrican con sistema de gestión de calidad certificada UNE-EN ISO 9001
-- Señal de Extinción Homologada que contiene Pictograma de Extintor y texto (norma UNE 23033/1:2019)
 - Normaluz: empresa lider en diseño, fabricación y comercialización de señales, señales luminiscentes y adhesivos serigrafiados
+- Señal Extintor de calidad y fácil instalación. Alta resistencia a condiciones climatológicas
+- Señal de Extinción Homologada que contiene Pictograma de Extintor y texto (norma UNE 23033/1:2019)
+- Las señales Normaluz se fabrican con sistema de gestión de calidad certificada UNE-EN ISO 9001
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00L2IN5N8{{</world>}}

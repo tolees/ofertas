@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puffer básico esencial en construcción de sándwich. Detalles del parche de goma. Cremallera frontal central. Bolsillos delanteros. Bolsa plegable. Carcasa de poliéster 100% reciclado.
 - POLI BÁSICO
 - Fabricado con tela 100% reciclada
+- Puffer básico esencial en construcción de sándwich. Detalles del parche de goma. Cremallera frontal central. Bolsillos delanteros. Bolsa plegable. Carcasa de poliéster 100% reciclado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B64DB8BM{{</world>}}

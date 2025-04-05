@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Piel: ante
-- No es resistente al agua
 - B920FB05014
+- No es resistente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08BLP7PLK{{</world>}}

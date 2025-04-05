@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 Player online co-op mode
-- Rage skills: Unique character abilities that get more powerful over the course of the battle
 - Strong character personalities with own skills, desires and personal conflicts
 - Deep turn-based tactical gameplay mixed with adventure elements
+- 2 Player online co-op mode
 - Choose a variety of tactics ranging from stealth to brute force
+- Rage skills: Unique character abilities that get more powerful over the course of the battle
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07GFJRJ24{{</world>}}

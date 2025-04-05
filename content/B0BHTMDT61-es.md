@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo recto
 - Manga corta
-- Gráfico RAW en la espalda
 - Cuello redondo
+- Bajo recto
+- Gráfico RAW en la espalda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHTMDT61{{</world>}}

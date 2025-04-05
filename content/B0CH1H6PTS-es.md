@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sumérgete en un viaje apasionante y emotivo con escenas inéditas, nuevas interacciones entre los personajes, una locución adicional y una banda sonora renovada.
-- Elige entre diferentes actividades para que cada día sea único, desde explorar la isla Puerto
 - Forma el mejor equipo para derrotar a las sombras de otro mundo y estar un paso más cerca de la verdad
+- Elige entre diferentes actividades para que cada día sea único, desde explorar la isla Puerto
 - Disfruta de un título fundamental de la saga Persona, que vuelve con los gráficos más avanzados, funciones modernizadas y una interfaz de usuario elegante.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

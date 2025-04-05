@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Luz LED interior: Se apagará después de 10 segundos encendida. Podrás ver mejor el interior de la bodega puesta a temperatura. Bloqueo automático.
 - Muy silencioso:26 dB. Muy silencioso y sin vibraciones. Olvídate de ruidos molestos que interfieran en tu descanso o tranquilidad. Temperatura regulable: 11-18 ºC según preferencias.Se adapta a tus necesidades y preferencias en los vinos.
-- Auto defrost. Environmental friendly: Gas no nocivo con el medio ambiente.
 - Panel de control táctil: Regula la temperatura, enciende o apaga la luz, elige ºF o ºC y desbloquea. Sencillo de controlar. Display : para la visualización de temperatura Para poder ver a la temperatura que se encuentra la bodega puesta a temperatura y elegir la temperatura cuando la regulan.
+- Luz LED interior: Se apagará después de 10 segundos encendida. Podrás ver mejor el interior de la bodega puesta a temperatura. Bloqueo automático.
+- Auto defrost. Environmental friendly: Gas no nocivo con el medio ambiente.
 - Espacio interior: 12 botellas Termoeléctrica. Bajo nivel sonoro y alto rendimiento. Enfría mejor y más rápido, y no te preocupes por ruidos molestos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

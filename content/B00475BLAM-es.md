@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las imágenes pueden ser de diferentes tamaños colocados en cualquier parte de la tarjeta, lo cual es difícil de detectar
-- Hecho de material de carton
-- De 2 a 8 jugadores - los jugadores compiten para encontrar la imagen de una correspondencia entre una tarjeta y otra
 - Las cartas circulares cuentan con una variedad de imágenes coloridas de artículos de uso diario
+- Hecho de material de carton
 - Cada tarjeta es única y tiene sólo una foto en común con todas las otras cartas de la baraja
+- De 2 a 8 jugadores - los jugadores compiten para encontrar la imagen de una correspondencia entre una tarjeta y otra
+- Las imágenes pueden ser de diferentes tamaños colocados en cualquier parte de la tarjeta, lo cual es difícil de detectar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00475BLAM{{</world>}}

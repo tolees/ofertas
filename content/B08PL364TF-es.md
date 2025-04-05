@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuidado intensivo y protección para todo tipo de pieles
+- Crema corporal y facial sin conservantes
 - Crema universal, ideal para la vida cotidiana en cualquier situación en la que la piel lo necesite
 - Crema hidratante para toda la familia
 - Compatibilidad con la piel dermatológicamente probada
-- Crema corporal y facial sin conservantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08PL364TF{{</world>}}

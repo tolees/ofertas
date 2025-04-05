@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido Omni-Wick
 - Protección solar Omni-Shade UPF 50
 - Cordón ajustable con fiador en la parte posterior
+- Tejido Omni-Wick
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0058YRY0M{{</world>}}

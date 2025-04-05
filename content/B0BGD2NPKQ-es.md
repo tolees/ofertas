@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entresuela EVA
 - Peso ligero
+- Entresuela EVA
 - Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

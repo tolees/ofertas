@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Extrusionado
 - Alimento
 - Cobayas
+- Extrusionado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00OTXYVZ4{{</world>}}

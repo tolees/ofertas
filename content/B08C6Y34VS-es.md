@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta para practicar Tiempo libre y sportwear de Mujer
-- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 - Ropa deportiva Multicolor de la marca Adidas
+- Camiseta para practicar Tiempo libre y sportwear de Mujer
+- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 - Camiseta W TECH BOS T AZUREA/BLANCO
 
 [🛒 Comprar!!!]({{< param buyurl >}})

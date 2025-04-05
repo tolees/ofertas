@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Forma del talón: plano
 - Parte superior: cuero
+- Material interior: sintético
 - Suela: Caucho
 - Cierre: cordones
-- Material interior: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C69M2T1S{{</world>}}

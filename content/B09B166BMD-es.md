@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Personaliza tu café favorito con el menú de cafés: ristretto, espresso, lungo y más.
-- La cafetera LOR Barista está diseñada para funcionar con las exclusivas cápsulas doble espresso LOR Barista y las cápsulas individuales.
-- La tecnología de reconocimiento de cápsulas detecta automáticamente el tamaño y tipo de cápsula y adapta el tipo de café.
-- Prepara 2 cafés a la vez o 1 café doble en una taza.
 - 19 bares de presión para garantizar la extracción perfecta del café.
+- La tecnología de reconocimiento de cápsulas detecta automáticamente el tamaño y tipo de cápsula y adapta el tipo de café.
+- La cafetera LOR Barista está diseñada para funcionar con las exclusivas cápsulas doble espresso LOR Barista y las cápsulas individuales.
+- Personaliza tu café favorito con el menú de cafés: ristretto, espresso, lungo y más.
+- Prepara 2 cafés a la vez o 1 café doble en una taza.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09B166BMD{{</world>}}

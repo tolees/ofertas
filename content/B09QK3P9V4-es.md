@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalón vaquero, largo
+- Tela Estrecho: Tiro medio
 - Composición: 95% Bci Algodón - 3% Elastimuliester - 2% Elastáne
+- Instrucciones de cuidado: Lavado a máquina
+- Pantalón vaquero, largo
 - Cierre: Cremallera y botón
 - Silueta: Straight Fit
-- Tela Estrecho: Tiro medio
-- Instrucciones de cuidado: Lavado a máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QK3P9V4{{</world>}}

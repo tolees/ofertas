@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de impresión: impresión de goma suave
 - Mangas cortas con volantes
+- Tipo de impresión: impresión de goma suave
 - Camiseta para niño de la marca danesa ME IT
 
 [🛒 Aquí!!!]({{< param buyurl >}})

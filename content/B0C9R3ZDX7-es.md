@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología Dri-FIT
-- Escote redondo
 - protección UV
+- Escote redondo
+- Tecnología Dri-FIT
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C9R3ZDX7{{</world>}}

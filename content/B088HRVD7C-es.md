@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Amplía tu conocimiento de Juego de Tronos con contenido y preguntas adicionales sobre las cuatro últimas temporadas de la serie de HBO
+- 225 cartas y 9 marcadores de color púrpura
 - Nuevos componentes para añadir un quinto jugador
 - Para jugar es necesario disponer de la caja básica de Juego de Tronos Trivia
-- 225 cartas y 9 marcadores de color púrpura
-- Amplía tu conocimiento de Juego de Tronos con contenido y preguntas adicionales sobre las cuatro últimas temporadas de la serie de HBO
 - Incluye más de 1200 nuevas preguntas, con contenido de las temporadas 5-8
 
 [🛒 Visítala!!!]({{< param buyurl >}})

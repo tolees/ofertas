@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Slim fit
 - Fácil de usar
 - Soft fabric
 - Elastic waistband
-- Slim fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08NX6BRDV{{</world>}}

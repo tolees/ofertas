@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bloqueo de seguridad e Indicador de calor residual.
 - 9 niveles de potencia regulables.
 - Placa vitrocerámica de 59cm con 3 zonas de cocción High Light. Delantera derecha: 1 zona de ø180mm de 1,8kW. Trasera derecha: 1 zona de ø140mm de 1,2kW. Izquierda: 1 zona gigante doble de ø270/210mm de 2,4/1,5kW.
 - Desconexión automática de seguridad con Potencia total de 5,4kW
-- Bloqueo de seguridad e Indicador de calor residual.
 - Control táctil con avisador acústico.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

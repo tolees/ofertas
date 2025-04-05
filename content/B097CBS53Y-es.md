@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela: EVA
 - Zapatillas óptimales para Fitness y ejercicio de Hombre
+- Material de la suela: EVA
 - Calzado deportivo de la marca Puma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

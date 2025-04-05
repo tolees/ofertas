@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Especialmente diseñada para trabajos artesanos con madera
+- Tamaño de la cuchilla 20 x 1,2 mm
 - Cuchillas adaptables: CKB-2
 - Cuchilla y mango de acero inoxidable
-- Tamaño de la cuchilla 20 x 1,2 mm
+- Especialmente diseñada para trabajos artesanos con madera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00AJO3FLS{{</world>}}

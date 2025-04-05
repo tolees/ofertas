@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Viene embalado en una caja con ventanas ilustrada
+- Figura de vinilo
 - 9 cm de altura
 - Producto de calidad
-- Figura de vinilo
+- Viene embalado en una caja con ventanas ilustrada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0713YYVX4{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- - Vitamina E.
-- - Aloe Vera.
 - - Protege la piel.
+- - Aloe Vera.
+- - Vitamina E.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07QRT49BQ{{</world>}}

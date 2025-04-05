@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Nota Si las temperaturas caen por debajo del punto de congelación, las baterías del sensor externo también se pueden congelar y su voltaje y vida se reducirán. Ambos dispositivos están ubicados dentro del área de recepción y no hay interferencias ni obstáculos en el área de recepción. Si es necesario, reduzca la distancia entre las luminarias. En el modo de funcionamiento normal, pulse el botón SNOOZE/LIGHT para activar la retroiluminación durante 20 segundos. Asegúrese de haber configurado el canal correcto para el sensor deseado.
 - Contenido de la caja Estación base, sensor externo, instrucciones
 - Previsión meteorológica para las próximas 6 horas
-- Nota Si las temperaturas caen por debajo del punto de congelación, las baterías del sensor externo también se pueden congelar y su voltaje y vida se reducirán. Ambos dispositivos están ubicados dentro del área de recepción y no hay interferencias ni obstáculos en el área de recepción. Si es necesario, reduzca la distancia entre las luminarias. En el modo de funcionamiento normal, pulse el botón SNOOZE/LIGHT para activar la retroiluminación durante 20 segundos. Asegúrese de haber configurado el canal correcto para el sensor deseado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MYGSRVQ{{</world>}}

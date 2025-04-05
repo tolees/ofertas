@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles distintivos de Tommy Hilfiger
 - Ofrece una comodidad óptima
+- Detalles distintivos de Tommy Hilfiger
 - Cuenta con un estilo casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})

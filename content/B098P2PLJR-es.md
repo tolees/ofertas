@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligero
 - 0
+- Ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B098P2PLJR{{</world>}}

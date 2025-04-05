@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Vestido largo sostenible
 - Estampado
-- Cuello
 - Tira de botones
 - Cinturón
+- Cuello
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08XBLXYK2{{</world>}}

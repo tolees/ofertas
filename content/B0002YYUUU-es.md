@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Brand: Wolfcraft
-- High quality
 - Functional design
+- High quality
 - Welcome to wolfcraft, a manufacturer of innovative tools and trusted supplier of power tool accessories
 
 [🛒 Visítala!!!]({{< param buyurl >}})

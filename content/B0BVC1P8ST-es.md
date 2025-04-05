@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una historia digna de la gran pantalla: una colaboración entre el guionista y director Jörg Tittel (The White King, Ricky Rouse Has a Gun) y los pioneros de RV Wolf & Wood (A Chair in a Room: Greenwater, The Exorcist: Legion, Hotel R’n’R).
-- El jugador elige: hay varios finales según las decisiones de dilemas morales épicos.
-- Un reparto de primera: personajes singulares interpretados por un elenco de estrellas en una historia cargada de dramatismo sincero, sátira mordaz y acción intensa.
 - Un montón de diversión: muchas horas de historia y una jugabilidad inmersiva en un entorno creado a mano.
+- El jugador elige: hay varios finales según las decisiones de dilemas morales épicos.
+- Una historia digna de la gran pantalla: una colaboración entre el guionista y director Jörg Tittel (The White King, Ricky Rouse Has a Gun) y los pioneros de RV Wolf & Wood (A Chair in a Room: Greenwater, The Exorcist: Legion, Hotel R’n’R).
+- Un reparto de primera: personajes singulares interpretados por un elenco de estrellas en una historia cargada de dramatismo sincero, sátira mordaz y acción intensa.
 - Original como él solo: las mecánicas de jugabilidad únicas se mezclan con una narrativa única.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

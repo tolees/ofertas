@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Material de las lentes: Policarbonato
+- Uso: A la intensa luz solar
+- Filtro UV: 100% UV400 / UVA - UVB
 - Incluye: Bolsa de gafas de microfibra KOOLSUN
 - Filtro de luz: CE-categoría 3
-- Filtro UV: 100% UV400 / UVA - UVB
-- Uso: A la intensa luz solar
 - Material de la montura: TPE de plástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

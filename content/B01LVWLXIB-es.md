@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Preparada para gas butano/biometano. Inyectores de gas natural/biometano incluidos para este modelo.
-- Dimensiones del producto: 45 mm (alto) x 752 mm (ancho) x 520 mm (profundo)
-- El sistema GasStop cierra el paso del gas automáticamente cuando no detecta ninguna llama.
-- Su quemador wok permite regular el fuego para cocinar desde una salsa de chocolate hasta una carne a la plancha.
-- Esta placa está fabricada con cristal templado negro de alta resistencia, y su facilidad de limpieza sorprende a todos.
-- Enciende la placa de la manera más cómoda y segura con un botón para autoencendido integrado en los mandos.
 - Ese toque tradicional de la cocina de gas junto con un aporte de innovación y estética, es el sueño de cualquier cocinero.
+- El sistema GasStop cierra el paso del gas automáticamente cuando no detecta ninguna llama.
+- Enciende la placa de la manera más cómoda y segura con un botón para autoencendido integrado en los mandos.
+- Esta placa está fabricada con cristal templado negro de alta resistencia, y su facilidad de limpieza sorprende a todos.
+- Dimensiones del producto: 45 mm (alto) x 752 mm (ancho) x 520 mm (profundo)
+- Su quemador wok permite regular el fuego para cocinar desde una salsa de chocolate hasta una carne a la plancha.
+- Preparada para gas butano/biometano. Inyectores de gas natural/biometano incluidos para este modelo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LVWLXIB{{</world>}}

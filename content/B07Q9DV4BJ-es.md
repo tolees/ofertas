@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bluetooth con aptx hd
 - 5 hz - 50 khz
 - Controlador free edge de 40 mm
 - Hasta 25 horas de funcionamiento
+- Bluetooth con aptx hd
 - 3 modos de cancelación de ruido digital
 
 [🛒 Comprar!!!]({{< param buyurl >}})

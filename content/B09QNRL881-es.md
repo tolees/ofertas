@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Líneas arrugadas en estilo bigote
-- Pierna ajustada
 - Tinte transparente respetuoso con el medio ambiente
+- Pierna ajustada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QNRL881{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tipo H4 8000K
 - Kit Xenon
 - Alta Calidad y Resistente
-- Tipo H4 8000K
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B072BQSCGR{{</world>}}

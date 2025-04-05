@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Color:Negro
+- Material:Nylon, poliéster
+- Altura:19 cm
 - Profundidad:22 cm
 - Anchura:36 cm
-- Altura:19 cm
-- Material:Nylon, poliéster
-- Color:Negro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00F2BBHEU{{</world>}}

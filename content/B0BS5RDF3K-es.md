@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fabricado con 100% algodón sostenible
-- Logotipo en la parte delantera
 - Camiseta de manga corta con cuello redondeado
+- Logotipo en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS5RDF3K{{</world>}}

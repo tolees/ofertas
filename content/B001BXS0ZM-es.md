@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sumergible hasta 200 metros.
-- Alarma personalizable.
 - Reloj resistente a los golpes.
-- Esfera con iluminación Indiglo.
 - Temporizador con cuenta atrás.
+- Alarma personalizable.
+- Sumergible hasta 200 metros.
+- Esfera con iluminación Indiglo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001BXS0ZM{{</world>}}

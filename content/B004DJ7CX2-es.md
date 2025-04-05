@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Negro
 - Epson
 - Número de páginas impresas: 36000
 - Contenedor de tóner residual
 - Amazon Dash Replenishment es la manera fácil de imprimir; tu impresora detecta cuando necesitas tinta y solicita un pedido de forma inteligente a Amazon; regístrate para disfrutar del servicio
 - Dispositivos compatibles: P4014
+- Negro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B004DJ7CX2{{</world>}}

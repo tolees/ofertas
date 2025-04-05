@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica
 - Pantalones largos deportivos
+- Cintura elástica
 - Fabricados en material cómodo
 - Tela suave
 

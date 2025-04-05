@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de Levis bordado
 - Punto de canalé suave
 - Este producto es original Levis
+- Logotipo de Levis bordado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B098R1Z5BW{{</world>}}

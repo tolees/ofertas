@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✔️ TUS DEFENSAS A PUNTO. MARNYS Propolvit Defens es un complemento alimenticio para afrontar los cambios estacionales que combina vitamina B6, Jalea Real, Propóleo, Calostro, Reishi y Shiitake, en cómodos viales bebibles. Sus ingredientes proporcionan un buen equilibrio entre función inmune y energía.
-- ✔️ REISHI, SHIITAKE, CALOSTRO, JALEA REAL Y PROPÓLEO. El Reishi es de utilidad en la contribución de las defensas naturales del cuerpo. El Calostro (contenido mínimo 20% inmunoglobulinas) de MARNYS Propolvit Defens aporta 1.000 mg de Calostro líquido. La Jalea Real se caracteriza por su relación de ácidos grasos insaturados que intervienen en el metabolismo energético. Propóleo purificado, equivalente a 100 mg de propóleo bruto.
 - ✔️ CÓMODOS VIALES BEBIBLES. La presentación en forma líquida de MARNYS Propolvit Defens en monodosis bebibles lo hace perfecto para una toma cómoda, fácil y rápida. Su práctico formato vial es ideal para transportar en un bolso, mochila, etc. Adecuado para personas con inconvenientes para tragar cápsulas.
 - ✔️ REDUCCIÓN DE CANSANCIO Y FATIGA. Contiene Vitamina B6, es una vitamina hidrosoluble que contribuye al normal funcionamiento del sistema inmune, del metabolismo energético y la reducción del cansancio y la fatiga
+- ✔️ REISHI, SHIITAKE, CALOSTRO, JALEA REAL Y PROPÓLEO. El Reishi es de utilidad en la contribución de las defensas naturales del cuerpo. El Calostro (contenido mínimo 20% inmunoglobulinas) de MARNYS Propolvit Defens aporta 1.000 mg de Calostro líquido. La Jalea Real se caracteriza por su relación de ácidos grasos insaturados que intervienen en el metabolismo energético. Propóleo purificado, equivalente a 100 mg de propóleo bruto.
+- ✔️ TUS DEFENSAS A PUNTO. MARNYS Propolvit Defens es un complemento alimenticio para afrontar los cambios estacionales que combina vitamina B6, Jalea Real, Propóleo, Calostro, Reishi y Shiitake, en cómodos viales bebibles. Sus ingredientes proporcionan un buen equilibrio entre función inmune y energía.
 - ✔️ AFRONTA EL CAMBIO DE ESTACIÓN. Se recomienda MARNYS Propolvit Defens para toda la familia de cara a afrontar los cambios de estación, facilitando equilibrio entre energía e inmunidad gracias a las propiedades de sus ingredientes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

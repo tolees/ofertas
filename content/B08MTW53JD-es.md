@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla de tejido
 - Caña baja
 - Empeine hecho completamente de piel
+- Plantilla de tejido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08MTW53JD{{</world>}}

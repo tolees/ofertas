@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RESISTENTE Y ELGANTE: La campana extractora de humos TFH de Cata es una campana muy atractiva ya que tiene un acabado en acero inoxidable. Además, el interior del aparato es blindado, lo que facilita la limpieza Absorbe los olores y el vapor y se encarga de que el entorno de la cocina sea cómodo mientras se cocina.
-- OPERACION SENCILLA: Permite prender sus dos lámparas LED de alta potencia para iluminar su cocina. Su panel de control mecánico complementa el equipo para regular sencillamente la potencia de succión.
-- POTENTE: La campana extractora TF 2003 DURALUM un motor Brushless extra silencioso que consumo un máximo de energía 135W. El ruido de funcionamiento de esta campana de cocina es muy bajo: menos de 60 dB a potencia máxima.
-- AHORRA ESPACIO. Esta campana extractora puede integrarse perfectamente bajo su gabinete o armario de cocina, lo que hace que sea más elegante y adecuado para toda la cocina.
 - GRAN POTENCIA: La campana de cocina TF 2003 DURALUM de Cata destaca por su gran capacidad de filtrado de hasta 390 m3 de aire por hora. Según se necesite se puede ajustar la capacidad de absorción de la campana con sus 2 niveles de potencia, la campana está preparada para cualquier densidad de humo.
+- OPERACION SENCILLA: Permite prender sus dos lámparas LED de alta potencia para iluminar su cocina. Su panel de control mecánico complementa el equipo para regular sencillamente la potencia de succión.
+- AHORRA ESPACIO. Esta campana extractora puede integrarse perfectamente bajo su gabinete o armario de cocina, lo que hace que sea más elegante y adecuado para toda la cocina.
+- POTENTE: La campana extractora TF 2003 DURALUM un motor Brushless extra silencioso que consumo un máximo de energía 135W. El ruido de funcionamiento de esta campana de cocina es muy bajo: menos de 60 dB a potencia máxima.
+- RESISTENTE Y ELGANTE: La campana extractora de humos TFH de Cata es una campana muy atractiva ya que tiene un acabado en acero inoxidable. Además, el interior del aparato es blindado, lo que facilita la limpieza Absorbe los olores y el vapor y se encarga de que el entorno de la cocina sea cómodo mientras se cocina.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WI32CC6{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Regular fit
 - Estampado en densidad
+- Regular fit
 - Con aspecto de relieve
 - Camiseta de manga corta
 

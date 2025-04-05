@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bajo recto
 - Manga corta recta insertada
-- Cuello de polo y puños acanalados
 - Aberturas laterales
+- Cuello de polo y puños acanalados
 - Bordado de G-Star RAW en el pecho
+- Bajo recto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07KFHV67J{{</world>}}

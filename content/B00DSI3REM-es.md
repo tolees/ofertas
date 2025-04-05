@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo - 05004
 - Marca - Lamela
+- Modelo - 05004
 - Libreta, 16 hojas, cuadrícula 4x4
 
 [🛒 Aquí!!!]({{< param buyurl >}})

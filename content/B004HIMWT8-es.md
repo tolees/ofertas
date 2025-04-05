@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La piel queda bien limpia, húmeda y flexible
 - Pruébala e incorpórala a tu ritual de limpieza diario
-- Cuidarse y sentirse bien nunca había sido tan fácil
+- La piel queda bien limpia, húmeda y flexible
 - Elimina suavemente el maquillaje y las impurezas
+- Cuidarse y sentirse bien nunca había sido tan fácil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B004HIMWT8{{</world>}}

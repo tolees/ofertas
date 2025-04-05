@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caja de 36 mm, pulsera de 18 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica con tres agujas, importado
 - Resistente al agua hasta 50 m: se puede usar para nadar en aguas poco profundas
 - Correa de poliuretano de color blanco
+- Caja de 36 mm, pulsera de 18 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica con tres agujas, importado
 - Caja redonda de policarbonato con esfera blanca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

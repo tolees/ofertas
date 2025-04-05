@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de detalle: polo. Tejido: tejido de punto con tacto seco. Ocasión: estilo clásico. Camiseta lisa
 - brand: Jack & Jones
+- Tipo de detalle: polo. Tejido: tejido de punto con tacto seco. Ocasión: estilo clásico. Camiseta lisa
 - manufacturer: Bestseller A/S
 
 [🛒 Aquí!!!]({{< param buyurl >}})

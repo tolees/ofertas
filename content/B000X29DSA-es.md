@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego de cinceles de albañil de 3 piezas
-- 1 Pieza 3/8 pulgadas (10 mm)
 - 1 Pieza 5/8 pulgadas (16 mm)
+- 1 Pieza 3/8 pulgadas (10 mm)
+- Juego de cinceles de albañil de 3 piezas
 - 1 Pieza de 1/2 pulgadas (12 mm)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

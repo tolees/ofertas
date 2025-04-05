@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Laterales en el bajo a Contraste
 - Polo piqué Regular fit Con hilatura fantasía
 - Logo árbol bordado en el pecho
-- Laterales en el bajo a Contraste
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCPPTBDC{{</world>}}

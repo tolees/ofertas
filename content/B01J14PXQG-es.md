@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Materiales de calidad
 - Resistente a la intemperie
-- Efectos de luz de calidad
 - Estilo vintage
+- Efectos de luz de calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01J14PXQG{{</world>}}

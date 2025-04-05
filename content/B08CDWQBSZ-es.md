@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsillos laterales
-- Sarga 100% poliéster reciclado
-- Cintura elástica con cordón interior
 - Bañador perfecto para la playa o la piscina
 - Tejido suave de secado rápido muy resistente al desgaste
+- Cintura elástica con cordón interior
+- Sarga 100% poliéster reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CDWQBSZ{{</world>}}

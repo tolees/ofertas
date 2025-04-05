@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fabricado en material resistente
 - Filtro lavable
 - El filtro permite capturar los alérgenos y las bacterias
-- Fabricado en material resistente
 - Set de 6 bolsas + 1 filtro para aspiradora
 
 [🛒 Comprar!!!]({{< param buyurl >}})

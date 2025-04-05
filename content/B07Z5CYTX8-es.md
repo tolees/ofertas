@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga larga recta insertada con puño
+- Bajo ligeramente redondeado
 - Cuello de camisa
 - Costuras con forma en el panel trasero
 - Cierre de botones
-- Bajo ligeramente redondeado
+- Manga larga recta insertada con puño
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07Z5CYTX8{{</world>}}

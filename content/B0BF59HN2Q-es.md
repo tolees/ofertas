@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Peinados a tu estilo: Da forma a tu cabello como a ti te gusta con unos ajustes flexibles de calor y velocidad combinados con placas cerámicas con aceite de argán para lograr un cabello suave, ondulado o brillante
 - El kit incluye: 1 moldeador Philips Series 5000 Air Styler, 1 boquilla, 1 cepillo de púas retráctiles, 1 cepillo plano para alisar, 1 plancha para dar volumen y 1 cepillo térmico de 38 mm
+- Peinados a tu estilo: Da forma a tu cabello como a ti te gusta con unos ajustes flexibles de calor y velocidad combinados con placas cerámicas con aceite de argán para lograr un cabello suave, ondulado o brillante
 - Menos daños en el cabello: La tecnología de distribución uniforme del calor protege al máximo el cabello contra el sobrecalentamiento y, por tanto, ayuda a mantenerlo sano y brillante
 - Cuidado iónico avanzado: Intensifica el brillo del cabello con el ionizador gracias a los iones con carga negativa que eliminan la electricidad estática y dejan el cabello brillante y sin encrespado
 - Varios peinados: Péinate a diario de forma sencilla con el moldeador Philips Series 5000 Air Styler, que incluye 5 accesorios para alisar el pelo, añadir volumen o crear ondas

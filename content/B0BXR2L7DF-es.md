@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- This duo comes ready to warp the battlefield into a far stranger place to play.
-- 1 Gwenpool Miniature - 1 Squirrel Girl Miniature
-- Equipped with Team Tactic Cards that make them perfect tank-busters.
-- Players will turn the laws of reality into an open negotiation with the Squirrel Girl and Gwenpool Character Pack.
 - This duo of fourth-wall-breakers will suspend disbelief as they bend the usual flow of gameplay to suit their own unique playstyles.
+- Players will turn the laws of reality into an open negotiation with the Squirrel Girl and Gwenpool Character Pack.
+- 1 Gwenpool Miniature - 1 Squirrel Girl Miniature
+- This duo comes ready to warp the battlefield into a far stranger place to play.
+- Equipped with Team Tactic Cards that make them perfect tank-busters.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BXR2L7DF{{</world>}}

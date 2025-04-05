@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juegos de cartas Juegos de cartas
+- Diseño colorido y atractivo
 - Se recomienda la vigilancia de un adulto
 - Se puede dar como regalo
-- Diseño colorido y atractivo
+- Juegos de cartas Juegos de cartas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00OXJ78XQ{{</world>}}

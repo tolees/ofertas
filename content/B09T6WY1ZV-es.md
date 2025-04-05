@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Size: 53 Millimetres
-- Protective case Included
 - Model: L609SND L609SND
+- Protective case Included
 - Colour: 214 HAVANA
 - Brand: Lacoste
 

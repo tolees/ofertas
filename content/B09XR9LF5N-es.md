@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Eleve el flujo de aire sin elevar los decibelios: La silenciosa aspa de ventilador de 120 mm gira con un nivel sonoro de tan solo 31,5 dBA.
 - Rodamiento dinámico por líquido: El lubricante entre el eje y el rodamiento reduce enormemente la fricción, lo que garantiza una durabilidad excepcional y el mínimo ruido.
-- Compatibilidad con el modo Zero RPM: Detiene el ventilador por completo cuando se envía una señal PWM de 0 RPM, eliminando todo el ruido del ventilador.
 - Mantenga su sistema refrigerado: Potentes velocidades de ventilador controladas por PWM desde 400 RPM hasta 1.850 RPM, lo que ofrece un flujo de aire de hasta 59,1 CFM.
 - Tecnología CORSAIR AirGuide: Utiliza aspas antirremolinos para dirigir el flujo de aire concentrado y mejorar la refrigeración, ya sea de entrada, salida o instalada en radiador o disipador.
-- Eleve el flujo de aire sin elevar los decibelios: La silenciosa aspa de ventilador de 120 mm gira con un nivel sonoro de tan solo 31,5 dBA.
+- Compatibilidad con el modo Zero RPM: Detiene el ventilador por completo cuando se envía una señal PWM de 0 RPM, eliminando todo el ruido del ventilador.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XR9LF5N{{</world>}}

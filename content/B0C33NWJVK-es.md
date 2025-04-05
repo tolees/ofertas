@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de encaje
-- Confort
 - Logotipo de la marca
+- Confort
+- Cierre de encaje
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C33NWJVK{{</world>}}

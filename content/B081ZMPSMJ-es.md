@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Base de enchufe múltiple con 8 tomas de corriente y 2m cable (H05VV-F 3G1,5) para la instalación en armarios rack de formato de 19"
-- Regleta con protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
-- Regleta eléctrica Alu-Line con 8 enchufes colocados en un ángulo de 45° - la disposición de las tomas le permite conectar enchufes angulares
 - La regleta enchufes en formato 19" es una unidad de distribución para la montaje en el armario rack en formato 19", fabricada de aluminio, con protección contra subidas de tensión hasta 19.500A
 - Regleta de enchufes con carcasa de aluminio elegante, atemporal y resistente
+- Regleta con protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
+- Regleta eléctrica Alu-Line con 8 enchufes colocados en un ángulo de 45° - la disposición de las tomas le permite conectar enchufes angulares
+- Base de enchufe múltiple con 8 tomas de corriente y 2m cable (H05VV-F 3G1,5) para la instalación en armarios rack de formato de 19"
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081ZMPSMJ{{</world>}}

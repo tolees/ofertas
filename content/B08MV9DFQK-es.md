@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Batería de muy larga duración, Hasta 25 horas de reproducción de música con una sola carga. Casi 5 cargas en el estuche y 44 mAh en cada auricular.
-- Los auriculares Enco X ofrecen un renovado marco de anillo de estrella metálico, diseñado para encajar perfectamente en la palma de tu mano.
-- Cancelación de ruido de llamada con triple micrófono. Algoritmo de cancelación de ruido de triple micrófono, filtro adaptativo y detección de viento.
-- Triple micrófono para máxima calidad de llamada.
 - Resistencia al polvo y agua IP54. Soportan fuertes vientos, lluvia o situaciones extremas.
+- Batería de muy larga duración, Hasta 25 horas de reproducción de música con una sola carga. Casi 5 cargas en el estuche y 44 mAh en cada auricular.
+- Triple micrófono para máxima calidad de llamada.
+- Cancelación de ruido de llamada con triple micrófono. Algoritmo de cancelación de ruido de triple micrófono, filtro adaptativo y detección de viento.
+- Los auriculares Enco X ofrecen un renovado marco de anillo de estrella metálico, diseñado para encajar perfectamente en la palma de tu mano.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08MV9DFQK{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Práctico: montaje Lässig horizontal y vertical
 - Vidrio: vidrio espejado, marco: poliuretano, fondo: tablero de fibra natural de densidad media, 2 ganchos para montaje en pared horizontal y vertical
 - Diseño destacado que no todos tienen
-- Práctico: montaje Lässig horizontal y vertical
 - En color dorado mate
 - Forma orgánica
 

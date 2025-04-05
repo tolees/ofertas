@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Instrucciones de cuidado: Lavado a máquina
+- Correa de esternón ajustable con silbato
+- Mochila de carga de paneles
+- Punto de fijación de correas reflectantes para una luz de bicicleta
 - Cremalera YKK
 - Artículos entregados: 1x Helly Hansen Unisex Generator Backpack - Backpack nero STD
-- Punto de fijación de correas reflectantes para una luz de bicicleta
-- Instrucciones de cuidado: Lavado a máquina
-- Mochila de carga de paneles
-- Correa de esternón ajustable con silbato
 - not_water_resistant
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

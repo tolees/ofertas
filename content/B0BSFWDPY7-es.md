@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diseño de bloques de color
-- Dos bolsillos laterales con cremallera
 - Cuello alto
+- Dos bolsillos laterales con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BSFWDPY7{{</world>}}

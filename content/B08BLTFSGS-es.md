@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
 - Logotipo de Levis en el pecho
+- Ajuste regular
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

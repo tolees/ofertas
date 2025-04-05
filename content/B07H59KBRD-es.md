@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material principal: napa resistente al agua, material del revestimiento: natural fur/material de la suela de piel real: caucho natural interior de la suela extraíble Inserto: sí
-- Fabricado en España
 - Altura del tacón: 3,00 cm
+- Fabricado en España
+- Material principal: napa resistente al agua, material del revestimiento: natural fur/material de la suela de piel real: caucho natural interior de la suela extraíble Inserto: sí
 - Panama Jack Botas de motorista para mujer, color negro y negro
 - Resistente al agua
 

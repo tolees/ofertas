@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Longitud de trabajo (L1) mm: 50
+- Diámetro (D) mm: 3,50
 - Longitud total (L2) mm: 110
 - Fácil de usar
-- Diámetro (D) mm: 3,50
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000XIZORI{{</world>}}

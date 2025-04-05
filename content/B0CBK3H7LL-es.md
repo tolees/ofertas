@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto de calidad óptima
-- Juego de entretenimiento
 - Gráficos óptimos
+- Juego de entretenimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CBK3H7LL{{</world>}}

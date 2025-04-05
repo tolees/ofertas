@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pegatinas
 - 2 soportes de personajes
+- Pegatinas
 - Caja exclusiva con lenticular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

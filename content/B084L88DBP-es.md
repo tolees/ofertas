@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lente fotocromática Lumiris. Protección UV400nm 100%UV
-- Gafas deportivas de ciclismo de geometría envolvente
-- Montura de doble inyección con grilamid y goma antideslizante rubber xt
-- Ideales para días cambiantes gracias a sus lentes sensibles a la luz
 - Estuche protector rígido y funda especial de microfibra
+- Gafas deportivas de ciclismo de geometría envolvente
+- Ideales para días cambiantes gracias a sus lentes sensibles a la luz
+- Montura de doble inyección con grilamid y goma antideslizante rubber xt
+- Lente fotocromática Lumiris. Protección UV400nm 100%UV
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B084L88DBP{{</world>}}

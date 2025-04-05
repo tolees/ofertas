@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jeans ajustados de cintura alta
-- Fabricado con prácticas y materiales sostenibles
 - En un lavado azul muy bonito y limpio con algún efecto de uso
+- Fabricado con prácticas y materiales sostenibles
+- Jeans ajustados de cintura alta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS5KPZBQ{{</world>}}

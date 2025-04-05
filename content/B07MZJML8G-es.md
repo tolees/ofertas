@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Uso necesario de portacebos (ver descripción producto). Utilice los biocidas de forma segura. Lea siempre la etiqueta y la información sobre el biocida antes de usarlo
 - Altamente atrayente para ratas y ratones
-- Ingrediente activo Brodifacum
 - Fórmula con efecto letal en una sola ingestión
 - Formato en bloques de 20g, indicado para zonas húmedas (alta resistencia a la humedad)
+- Ingrediente activo Brodifacum
+- Uso necesario de portacebos (ver descripción producto). Utilice los biocidas de forma segura. Lea siempre la etiqueta y la información sobre el biocida antes de usarlo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07MZJML8G{{</world>}}

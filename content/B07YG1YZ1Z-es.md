@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño transpirable
-- Regular Fit
 - Long Lasting Comfort
+- Regular Fit
+- Diseño transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YG1YZ1Z{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Larga vida útil gracias a la Electronic Cell Protection (ECP, protección electrónica de celdas) de Bosch que protege la batería de sobrecarga, sobrecalentamiento y descarga total
-- No presenta efecto memoria con frecuentes descargas parciales: la batería siempre suministra la cantidad de energía original
-- La batería de sustitución PBA de 12 V está siempre lista para usar gracias a su tecnología de iones de litio
 - La batería puede utilizarse para todas las herramientas de 12 V de Bosch Home & Garden
+- No presenta efecto memoria con frecuentes descargas parciales: la batería siempre suministra la cantidad de energía original
 - Incluye: 1 batería de 12 V y 2,0 Ah, embalaje de cartón
+- La batería de sustitución PBA de 12 V está siempre lista para usar gracias a su tecnología de iones de litio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNN7KYLL{{</world>}}

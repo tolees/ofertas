@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Anchura telescópica 450-600mm adaptable a las dimensiones del hueco interno del armario.
-- Acabado cromado.
-- Para montaje sobre los tableros laterales del mueble/armario.
 - Carga máxima: 12kg.
 - En caso de instalación sobre un armario de puertas abisagradas se recomienda el montaje junto con el suplemento lateral (no incluido).
+- Para montaje sobre los tableros laterales del mueble/armario.
+- Acabado cromado.
+- Anchura telescópica 450-600mm adaptable a las dimensiones del hueco interno del armario.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XKV5CS6{{</world>}}

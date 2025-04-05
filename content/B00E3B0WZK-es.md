@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Macho para juego de reparación de rosca del tapón del cárter bgs 126
 - Para rosca/inclinación: m17 x 1,5
+- Macho para juego de reparación de rosca del tapón del cárter bgs 126
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00E3B0WZK{{</world>}}

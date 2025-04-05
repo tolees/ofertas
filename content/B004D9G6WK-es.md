@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: cordones
 - Material: lona.
+- Cierre: cordones
 - Colección: 2013.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recomendado a Partir de 14 Años de Edad
 - Juego de Miniaturas en Español
-- Juego para 2 Jugadores
 - Contiene: 1 miniatura de plástico, 1 carta de Unidad, 5 cartas de Mejora, 14 fichas diversas y 1 hoja de reglas.
+- Juego para 2 Jugadores
+- Recomendado a Partir de 14 Años de Edad
 - Con una duración de 1-2 Horas por partida
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

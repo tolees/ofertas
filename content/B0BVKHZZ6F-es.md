@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Color de lente: Marrón degradado
+- Talla: 62
+- Beige
 - Material: acetato
 - Forma: CUADRADO
-- Color de lente: Marrón degradado
-- Beige
-- Talla: 62
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVKHZZ6F{{</world>}}

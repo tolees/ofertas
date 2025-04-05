@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - INCLUYE: medidor de distancia GLM 40 de Bosch Professional, 2 pilas de 1,5 V LR03 (AAA), estuche de protección
 - DATOS TÉCNICOS: IP 54, resistencia a los impactos 1 m, margen de medición de hasta 40 m, clase de láser 2, exactitud de la medición ± 1,5 mm
-- MÚLTIPLES FUNCIONES: medición intuitiva de longitudes, medición indirecta de alturas, medición de superficies y cálculo de volúmenes con memoria de las últimas diez mediciones
 - USO PROFESIONAL: exactitud de medición optimizada y certificación ISO
+- MÚLTIPLES FUNCIONES: medición intuitiva de longitudes, medición indirecta de alturas, medición de superficies y cálculo de volúmenes con memoria de las últimas diez mediciones
 - COMPACTO Y ROBUSTO: Diseño compacto y carcasa robusta y resistente a los impactos para el trabajo diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})

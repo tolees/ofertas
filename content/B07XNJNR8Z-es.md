@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Calidad de sonido Denon.
-- 6 teclas de acceso rápido para tus emisoras favoritas.
 - Altavoz inalámbrico para sonido grande
+- 6 teclas de acceso rápido para tus emisoras favoritas.
 - Disfrute de la transmisión
 
 [🛒 Aquí!!!]({{< param buyurl >}})

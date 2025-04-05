@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado con 100% algodón sostenible
 - Cuello acanalado
 - Logotipo en la parte delantera
+- Fabricado con 100% algodón sostenible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS59GPDP{{</world>}}

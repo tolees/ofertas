@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Un bolsillo en pecho
 - Proyecto RECONSIDER
 - Cuello Con botonadura oculta
-- Un bolsillo en pecho
 - Color lavado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

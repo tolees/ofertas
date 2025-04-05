@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Forro textil
 - Cocodrilo en el lado
-- Sneakers Lerond Pro hombre Lacoste de piel
 - Parte superior de cuero
+- Sneakers Lerond Pro hombre Lacoste de piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQJNCC5C{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Especialmente compactado para ocupar el mínimo espacio y poder ponerlo en cualquier lugar en el que lo necesites sin perfer eficiencia.
 - La HAEGER HEAT de 2000 W de potencia ofrece más potencia por menos espacio.
-- Termostato regulable con Botón de selección (OFF, FAN - Ventilador, I - 1000W, II - 2000W)
 - Es ideal para calentar de forma rápida cualquier habitación en los inviernos más fríos.
+- Especialmente compactado para ocupar el mínimo espacio y poder ponerlo en cualquier lugar en el que lo necesites sin perfer eficiencia.
+- Termostato regulable con Botón de selección (OFF, FAN - Ventilador, I - 1000W, II - 2000W)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07J56D6LN{{</world>}}

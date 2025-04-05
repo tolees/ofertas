@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Licencia oficial
-- Pack contiene 5 peluches: Epi, Blas Elmo, Triki y Óscar
 - Medidas: Epi (24cm) + Blas (25cm) Elmo (24cm) + Triki (22cm) + Oscar (18cm)
+- Pack contiene 5 peluches: Epi, Blas Elmo, Triki y Óscar
 - Para todas las edades: +0 meses
+- Licencia oficial
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN9DXQ3C{{</world>}}

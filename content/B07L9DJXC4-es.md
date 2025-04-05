@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Traducido al español
-- Tendrán que indagar en los sucesos basados en los relatos El diario de Alonzo Typer y El horror oculto
-- Los jugadores se pondrán en la piel del investigador privado Howard Lovecraft
 - Marca: Ludonova
+- Los jugadores se pondrán en la piel del investigador privado Howard Lovecraft
+- Tendrán que indagar en los sucesos basados en los relatos El diario de Alonzo Typer y El horror oculto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07L9DJXC4{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cremallera frontal
+- Composición: 50% poliuretano, 50% poliéster
 - Cuello alto con cierre de botón
 - Chaqueta con aspecto de piel
-- Composición: 50% poliuretano, 50% poliéster
+- Cremallera frontal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07G4D1Q7V{{</world>}}

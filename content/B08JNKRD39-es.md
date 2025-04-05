@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tratamiento acondicionador intensivo
-- El extracto de coco hidrata en profundidad el pelo
-- Gorro de ducha ridículamente adorable
-- Mascarillas capilares inspiradas en las rutinas de belleza coreanas
-- Óptima esencia de coco
 - Mascarilla capilar Bear Fruits para un tratamiento capilar de hasta 30 minutos
 - Como una mascarilla facial pero para el pelo
+- Óptima esencia de coco
+- Gorro de ducha ridículamente adorable
+- El extracto de coco hidrata en profundidad el pelo
+- Tratamiento acondicionador intensivo
+- Mascarillas capilares inspiradas en las rutinas de belleza coreanas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JNKRD39{{</world>}}

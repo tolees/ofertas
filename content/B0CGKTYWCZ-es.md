@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lavable a máquina
 - Ideal para uso diario
 - Sudadera de mezcla de algodón con un ajuste cómodo
-- Lavable a máquina
 - Equilibrio perfecto entre casual y formal
 - Corte regular
 

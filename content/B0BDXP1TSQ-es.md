@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El bote de este champú está fabricado con un 40 % de plástico reciclado, excluyendo el tapón
-- Ayuda a reforzar la barrera natural de la piel y restablece el equilibrio natural del cuero cabelludo
-- Desarrollado por expertos y dermatológicamente testado
-- Contiene ingredientes para el cuidado de la piel: aloe activo, vitamina E y extracto de cactus
-- Champú anticaspa hidratante
-- Alivia el cuero cabelludo para ayudar a prevenir la sequedad, el picor** y la caspa* * Caspa visible, con un uso regular ** Picor relacionado con la caspa
 - Con un ingrediente activo clínicamente probado: la piroctona olamina
+- Ayuda a reforzar la barrera natural de la piel y restablece el equilibrio natural del cuero cabelludo
+- Contiene ingredientes para el cuidado de la piel: aloe activo, vitamina E y extracto de cactus
+- Desarrollado por expertos y dermatológicamente testado
+- Champú anticaspa hidratante
+- El bote de este champú está fabricado con un 40 % de plástico reciclado, excluyendo el tapón
+- Alivia el cuero cabelludo para ayudar a prevenir la sequedad, el picor** y la caspa* * Caspa visible, con un uso regular ** Picor relacionado con la caspa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BDXP1TSQ{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Armario Escobero Exterior: ideal para utilizar en tu jardín o terraza.
-- Armario Escobero Interior: apto también para utilizar en tu trastero, taller o garaje.
-- Capacidad de carga: 60kg: 4 baldas laterales soportan 10 kg cada una, la superior hasta 20 kg.
 - Uso: armario de almacenaje de escoba, productos de limpieza, cajas de herramientas, botes...
 - Materiales: armario de resina color gris y negro en su interior.
+- Capacidad de carga: 60kg: 4 baldas laterales soportan 10 kg cada una, la superior hasta 20 kg.
+- Armario Escobero Interior: apto también para utilizar en tu trastero, taller o garaje.
+- Armario Escobero Exterior: ideal para utilizar en tu jardín o terraza.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B085TNM9C8{{</world>}}

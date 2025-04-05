@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dentado de precisión con 72 dientes
-- Con palanca de conmutación
-- Cromo vanadio
-- Forma recta
-- Cuatro anchos de llave diferentes
 - Perfil FlankTraction
+- Con palanca de conmutación
 - Satinado muy fino
+- Dentado de precisión con 72 dientes
+- Cromo vanadio
+- Cuatro anchos de llave diferentes
+- Forma recta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B001NYUVX8{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Indicadores Led De Enlace,Actividad Y Detección De Gigabit
 - Un Único Puerto Ethernet 10,100,1000 Mbps Compatible Con Rj45
 - Totalmente Conforme Con Las Normas Ieee 802.3, Ieee 802.3U, Ieee 802.3X Y Ieee 802.3Ab
+- Indicadores Led De Enlace,Actividad Y Detección De Gigabit
 - Conforme Con Las Normas Ieee 802.1Q Sobre El Etiquetado Vlan, Ieee 802.1P Sobre La Codificación De Prioridad De Capa 2 Y Ieee 802.3X Sobre El Control De Flujo De Dúplex Completo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

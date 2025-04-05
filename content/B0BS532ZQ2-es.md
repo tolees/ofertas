@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cierre frontal abotonado
 - Dos bolsillos en el pecho con solapa y botón
 - Dobladillo ajustable con botones
-- Cierre frontal abotonado
 - Chaqueta de tela no elástica
 - Forro y cuello Borg
 

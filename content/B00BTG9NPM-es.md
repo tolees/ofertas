@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El sistema DentalCare ayuda a mantener los dientes limpios y sanos a la vez que reduce la acumulación de sarro
-- La mezcla de antioxidantes con vitamina E apoya el sistema inmune
 - IAMS alimento seco con pollo fresco para perros adultos es 100 % completo y equilibrado; contiene un 82 % de proteína animal (del total de proteínas)
+- La mezcla de antioxidantes con vitamina E apoya el sistema inmune
 - La fórmula contiene omega 3 y 6 para una piel sana y un pelo brillante, incluye nutrientes clave que ayudan a nutrir el corazón para tener un músculo cardíaco fuerte
 - Alimento seco sin trigo (elaborado en una planta que procesa trigo); sin saborizantes artificiales, sin colorantes, sin OGM ni ingredientes de relleno
 

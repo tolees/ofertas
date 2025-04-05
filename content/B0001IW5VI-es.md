@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bloqueo de la hoja en la parte posterior
 - Mini sierra de diseño patentado especial para zonas difíciles
 - Capacidad de corte de más de 35 mm
+- Bloqueo de la hoja en la parte posterior
 - Amplia superficie de apoyo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

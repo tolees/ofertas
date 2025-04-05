@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Choose your own path - Your decisions shape the world around you with over 30 hours of choice dialogue and multiple game endings
-- Fight epic battles - Demonstrate your extraordinary warrior abilities and shift the tides of battle during the Peloponnesian War
 - A Land of myths & legends – Discover a world rich with myths and legends. From ancient rituals to famed statues, come face-to-face with Greece’s legendary figures.
+- Fight epic battles - Demonstrate your extraordinary warrior abilities and shift the tides of battle during the Peloponnesian War
+- Choose your own path - Your decisions shape the world around you with over 30 hours of choice dialogue and multiple game endings
 - Sail across the Aegean sea - Find uncharted locations, uncover hidden treasures or cleave your way through entire fleets in naval battles
 - Become a legendary Greek hero - In a first for the Assassins Creed franchise, you can choose which hero to embody throughout this epic journey, Alexios or Kassandra
 

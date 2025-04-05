@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello de canalé con escote redondo
 - Mezcla técnica de poliéster y algodón para una óptima absorción de la humedad
 - Estampado Wishbone
+- Cuello de canalé con escote redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07N4MJSR3{{</world>}}

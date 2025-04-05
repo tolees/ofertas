@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ARTICULACIÓN Y DISEÑO PREMIUM: Los fans y coleccionistas de Star Wars pueden exhibir en su colección esta figura de 15 cm fácilmente articulable (cabeza, brazos y piernas) con diseño premium
-- AHSOKA TANO (PADAWAN): Ahsoka Tano, una joven togruta, fue aprendiz Padawan de Anakin Skywalker y heroína de la Guerra de los Clones
 - TODA UNA GALAXIA DE FIGURAS: Colecciona las figuras de Star Wars The Black Series inspiradas en la ficción, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
-- ACCESORIOS INSPIRADOS EN EL PERSONAJE: Esta figura de colección de Star Wars The Black Series viene con sus 2 sables de luz distintivos
 - STAR WARS: THE CLONE WARS: Esta figura de Ahsoka Tano (Padawan) está inspirada en la serie animada Star Wars: The Clone Wars y es un gran regalo para coleccionistas y fans a partir de 4 años
+- AHSOKA TANO (PADAWAN): Ahsoka Tano, una joven togruta, fue aprendiz Padawan de Anakin Skywalker y heroína de la Guerra de los Clones
+- ACCESORIOS INSPIRADOS EN EL PERSONAJE: Esta figura de colección de Star Wars The Black Series viene con sus 2 sables de luz distintivos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BDHQ2NKZ{{</world>}}

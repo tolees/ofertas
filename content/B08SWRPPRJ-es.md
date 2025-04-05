@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formulado con manteca de karité al 5%, schizandra chinensis, aceite de argán y vitamina E, activos con acción hidratante, antioxidante, nutritiva, reafirmante y protectora
 - Ayuda a combatir la sequedad de los labios deshidratados, secos y agrietados
-- Bálsamo labial hidratante y reparador, que devuelve la elasticidad y la suavidad de los labios agrietados
 - Hipoalergénico, Sin conservantes ni derivados del trigo, Clínica y dermatológicamente testados
+- Formulado con manteca de karité al 5%, schizandra chinensis, aceite de argán y vitamina E, activos con acción hidratante, antioxidante, nutritiva, reafirmante y protectora
+- Bálsamo labial hidratante y reparador, que devuelve la elasticidad y la suavidad de los labios agrietados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08SWRPPRJ{{</world>}}

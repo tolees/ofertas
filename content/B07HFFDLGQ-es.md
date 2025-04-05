@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 4G, Dual SIM, Android 8.1 Oreo + MIUI 9.5
-- 64GB de memoria interna, 6GB de memoria RAM
 - Procesador Snapdragon 845 Octa-Core a 2.8GHz
 - Pantalla de 6.21" Super AMOLED Full HD+, 2248 x 1080 píxeles
+- 64GB de memoria interna, 6GB de memoria RAM
 - Cámara dual de 12MP+12MP con OIS y asistida por IA
 
 [🛒 Visítala!!!]({{< param buyurl >}})

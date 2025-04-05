@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forma del tacón: plano
 - Cierre: cordones
 - Material superior: sintético
-- Material interior: sintético
-- Forma del tacón: plano
 - Suela: goma
+- Material interior: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN6MCGDF{{</world>}}

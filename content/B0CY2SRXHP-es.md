@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Protección muy alta. SPF 50+
 - Con Ácido Hialurónico y Vitamina E
 - Testado dermatológicamente y oftalmológicamente, no pica en los ojos
 - Fotoprotector facial con Ácido Hialurónico
-- Protección muy alta. SPF 50+
 - Textura fluida y rápida absorción. Resistente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ajuste regular
 - Logotipo en la parte delantera
 - Tejido antihumedad Climalite
-- Ajuste regular
 - Ropa deportiva
 
 [🛒 Visítala!!!]({{< param buyurl >}})

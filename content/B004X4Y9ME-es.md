@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa de cuero marrón miel con cierre de hebilla
 - Resistente al agua hasta 30 m
+- Correa de cuero marrón miel con cierre de hebilla
 - Lente de cristal mineral ligeramente abovedada
 - Esfera con efecto rayos del sol en color champán con manecillas e índices en tono dorado; escala de minutos interior en negro
 

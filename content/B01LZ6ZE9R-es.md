@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Grapas galvanizadas 22/6 - 24/6 con acabado plata brillante
 - Capacidad aproximada de grapado (para papel de 80 g/m²): 20 hojas
+- Grapas galvanizadas 22/6 - 24/6 con acabado plata brillante
 - Contenido del paquete: 1.000 grapas
 - Extremos afilados, para un grapado preciso, resistente y duradero
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca en la pierna
 - Pantalones cortos holgados para correr
+- Marca en la pierna
 - Cintura elástica y cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

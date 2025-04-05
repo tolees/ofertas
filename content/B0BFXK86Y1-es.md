@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ILUMINACIÓN DE AMBIENTE PERSONALIZABLE. Sus luces laterales y su luz de escenario trasera crea un espectáculo de colores que combinan con el ritmo de la música. Vincula canciones y elige entre 16,8 millones de colores con la app XBOOM (3).
-- AUMENTA LA DIVERSIÓN. Sound Boost amplifica la potencia de sonido y amplía su campo. Pulsa el botón para levantar el ánimo de la fiesta.
-- QUE NADA TE PARE. Su batería de hasta 24 horas(1) y su resistencia al agua y polvo IP67 (2) te permite disfrutar de la música en cualquier lugar durante más tiempo.
-- AMPLIA CONECTIVIDAD: Conéctalo a través de Bluetooth 5.1, USB con capacidad de cargar el móvil, entrada auxiliar y contrólalo a través de la App XBOOM. Además, puedes contestar a tus llamadas en manos libres y emparejar hasta 10 altavoces.
 - PRODUCTO ECO SMART GREEN QUE CUIDA DEL PLANETA. Desde la forma en la que producimos hasta en la que enviamos, cuenta con certificación ecológica (Certificados: UL/SGS/EnergyStar).
 - SONIDO POTENTE Y NÍTIDO. Con 80W de potencia, sus 2 woofers de 4,5 pulgadas produce graves profundos y el tweeter está diseñado para crear un sonido nítido mejorando la respuesta en alta frecuencia.
+- ILUMINACIÓN DE AMBIENTE PERSONALIZABLE. Sus luces laterales y su luz de escenario trasera crea un espectáculo de colores que combinan con el ritmo de la música. Vincula canciones y elige entre 16,8 millones de colores con la app XBOOM (3).
+- AMPLIA CONECTIVIDAD: Conéctalo a través de Bluetooth 5.1, USB con capacidad de cargar el móvil, entrada auxiliar y contrólalo a través de la App XBOOM. Además, puedes contestar a tus llamadas en manos libres y emparejar hasta 10 altavoces.
+- AUMENTA LA DIVERSIÓN. Sound Boost amplifica la potencia de sonido y amplía su campo. Pulsa el botón para levantar el ánimo de la fiesta.
+- QUE NADA TE PARE. Su batería de hasta 24 horas(1) y su resistencia al agua y polvo IP67 (2) te permite disfrutar de la música en cualquier lugar durante más tiempo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BFXK86Y1{{</world>}}

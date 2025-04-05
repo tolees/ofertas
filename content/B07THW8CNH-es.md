@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
-- Boy fit
-- Tejido de punto de algodón suave
-- Cocodrilo verde bordado en el pecho
 - Cuello redondo
+- Tejido de punto de algodón suave
+- Boy fit
+- Cocodrilo verde bordado en el pecho
+- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07THW8CNH{{</world>}}

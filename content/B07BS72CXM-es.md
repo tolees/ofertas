@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Limpiafondos eléctrico autónomo ligero y fácil de manejar con 90 minutos de autonomía
-- Con capacidad de succión de 90 litros por hora a 36 W de potencia
-- Sin cables, incluye 3 baterías recargables (4000 mah / 11,1 V)
 - Adaptado para piscinas de hasta 3 m de profundidad
+- Con capacidad de succión de 90 litros por hora a 36 W de potencia
 - Para fondos inclinados o planos
+- Sin cables, incluye 3 baterías recargables (4000 mah / 11,1 V)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07BS72CXM{{</world>}}

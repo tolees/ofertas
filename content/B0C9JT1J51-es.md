@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pantalón chino slim de vestir en tejido de estructura tipo ojo de perdiz bicolor
 - Cierre de botón en cinturilla y cremallera en bragueta
 - Placa metálica grabada
-- Pantalón chino slim de vestir en tejido de estructura tipo ojo de perdiz bicolor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9JT1J51{{</world>}}

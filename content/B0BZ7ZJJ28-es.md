@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
-- Parte superior textil con refuerzos de ante sintético
-- Inspiración deportiva y sostenibilidad
 - Forro textil
+- Parte superior textil con refuerzos de ante sintético
+- Cierre de cordones
+- Inspiración deportiva y sostenibilidad
 - Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

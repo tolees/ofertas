@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo canguro
-- Puños acanalados para un ajuste cómodo
 - Cuello redondo y mangas enrolladas
 - Hecho de jersey ligero y acogedor
+- Puños acanalados para un ajuste cómodo
+- Bolsillo canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YBDW1NS{{</world>}}

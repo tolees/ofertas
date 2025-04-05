@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Marca: Reebok
-- Tamaño del calzado: 34.5
 - Tipo de calzado: zapatillas deportivas
+- Tamaño del calzado: 34.5
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TSS7HFQ{{</world>}}

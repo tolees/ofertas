@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema de amortiguación
 - Ligera
+- Sistema de amortiguación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07P6M9CB4{{</world>}}

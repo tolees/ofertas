@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Acabado mate
 - Chaqueta de alta calidad para todos los días
 - Cinturón, prácticos bolsillos laterales
-- Acabado mate
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09NDTSXC2{{</world>}}

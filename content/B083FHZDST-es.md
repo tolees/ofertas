@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cocodrilo verde termosellado en el lateral
-- Pespuntes decorativos
 - Tafetán: tejido suave y ligero con un acabado delicadamente brillante
+- Cocodrilo verde termosellado en el lateral
 - Correa ajustable
 - Ojales transpirables
+- Pespuntes decorativos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083FHZDST{{</world>}}

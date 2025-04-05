@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece una comodidad óptima
-- Tiene botones
 - Este producto es original Levis
+- Tiene botones
+- Ofrece una comodidad óptima
 - Presenta el logotipo de la marca en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

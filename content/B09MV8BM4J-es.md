@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
-- Suela de EVA de una sola pieza
-- Ojales reforzados
 - Horma clásica
+- Suela de EVA de una sola pieza
+- Cierre de cordones
+- Ojales reforzados
 - Parte con paneles de malla
 
 [🛒 Comprar!!!]({{< param buyurl >}})

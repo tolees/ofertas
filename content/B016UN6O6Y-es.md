@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Placa exterior metálica con soporte de montaje
-- Funcionamiento nocturno de la cámara gracias a los led de iluminación
 - Funciona con una cerradura eléctrica
+- Funcionamiento nocturno de la cámara gracias a los led de iluminación
 - Pantalla ultraplana con diseño muy sobrio y elegante
+- Placa exterior metálica con soporte de montaje
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B016UN6O6Y{{</world>}}

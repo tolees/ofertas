@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hemos hecho un relanzamiento de la gama de chocolate negro y ha dejado de ser “Nestlé Extrafino” para pasar a ser “Nestlé Dark”, por lo que podrías recibir una versión diferente a la visible en las imágenes. El contenido es igual, solamente cambia el packaging
-- Chocolate negro nestlé extrafino
-- Compramos cacao de cultivo sostenible para su elaboración
 - Un chocolate cremoso, suave y dulce, hecho con leche fresca recogida de cantabria que garantiza su sabor único e inconfundible
+- Compramos cacao de cultivo sostenible para su elaboración
+- Chocolate negro nestlé extrafino
+- Hemos hecho un relanzamiento de la gama de chocolate negro y ha dejado de ser “Nestlé Extrafino” para pasar a ser “Nestlé Dark”, por lo que podrías recibir una versión diferente a la visible en las imágenes. El contenido es igual, solamente cambia el packaging
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079ZYW9N3{{</world>}}

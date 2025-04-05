@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Detalle de la marca Tommy Jeans
-- Dobladillo recto
 - Cuello redondo
+- Dobladillo recto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8Z6VJBT{{</world>}}

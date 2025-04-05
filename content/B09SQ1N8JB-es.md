@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye:
 - Una pegatina
 - Cartas colecionables
+- Incluye:
 - Banda sonora
 
 [🛒 Aquí!!!]({{< param buyurl >}})

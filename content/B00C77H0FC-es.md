@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desarrolla habilidades creativas
-- Material de madera y metal
 - 8 notas
+- Material de madera y metal
+- Desarrolla habilidades creativas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00C77H0FC{{</world>}}

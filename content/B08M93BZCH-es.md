@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Básicos, Ropa casual, Ropa de Calle
-- Descubre todas las marcas de EMP
 - Medidas: tamaño estándar
+- Básicos, Ropa casual, Ropa de Calle
 - Tejanos con las siguientes características:
 - Vaqueros || Merch para fans y divertido || Patrón: Liso
+- Descubre todas las marcas de EMP
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08M93BZCH{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello abotonado
 - Corte entallado
+- Cuello abotonado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB4H27BV{{</world>}}

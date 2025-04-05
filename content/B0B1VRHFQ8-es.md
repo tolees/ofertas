@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de producto: Snood
 - Longitud/tamaño: normal
+- Tipo de producto: Snood
 - Ajuste: corte normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

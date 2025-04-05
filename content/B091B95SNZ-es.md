@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre de cordones
 - Horma clásica
 - Plantilla Cloudfoam Comfort para adecuado comodidad
 - Tacto suave
-- Cierre de cordones
 - Forro textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

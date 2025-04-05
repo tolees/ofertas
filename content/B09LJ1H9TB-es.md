@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Confort
 - Manga larga
+- Confort
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09LJ1H9TB{{</world>}}

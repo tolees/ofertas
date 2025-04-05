@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Configuración sencilla
 - Teclas grandes e intuitivas
-- Tecla de teletexto dedicada
+- Configuración sencilla
 - Led luminoso
+- Tecla de teletexto dedicada
 - Equipado exclusivamente con las funciones principales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

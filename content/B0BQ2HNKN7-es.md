@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- corte normal
 - logotipo de adidas
 - Pantalón deportivo
+- corte normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQ2HNKN7{{</world>}}

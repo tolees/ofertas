@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Caucho
 - Paseo
+- Sin tacón
 - Medio
 - Sintético
-- Sin tacón
-- Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3N4TRK8{{</world>}}

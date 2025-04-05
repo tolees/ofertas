@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ideal para la práctica deportiva y lifestyle
+- Kappa: innovación, estilo y deporte
 - Confort y durabilidad
 - Pantalón deportivo
-- Kappa: innovación, estilo y deporte
-- Ideal para la práctica deportiva y lifestyle
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08J49G1DT{{</world>}}

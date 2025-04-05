@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cableado sencillo de la alimentación por medio del embarrado posterior.
-- Pequeño interruptor automático SENTRON 5SL para la protección segura contra sobrecarga y cortocircuito para aplicaciones estándar en edificios residenciales y terciarios.
-- Los automáticos magnetotérmicos 5SJ están disponibles en versiones de 1, 2, 3, 4, 1 + N y 3 + N polos, así como en otros tipos especiales.
 - La amplia gama de accesorios, como los bloques de contactos auxiliares, permite ampliar las funciones de formas muy diversas.
+- Pequeño interruptor automático SENTRON 5SL para la protección segura contra sobrecarga y cortocircuito para aplicaciones estándar en edificios residenciales y terciarios.
+- Cableado sencillo de la alimentación por medio del embarrado posterior.
+- Los automáticos magnetotérmicos 5SJ están disponibles en versiones de 1, 2, 3, 4, 1 + N y 3 + N polos, así como en otros tipos especiales.
 - Montaje y desmontaje sin herramientas del aparato.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

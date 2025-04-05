@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CONFIGURABLE: El molinillo cónico tiene 5 grados de molienda. El café hasta 3 niveles de intensidad.
-- LIMPIEZA: Programas automáticos de descalcificación y limpieza cada 200 cafés.
-- INTUITIVA: Personaliza tu bebida y prepara tu taza de café ya programada con un sólo toque.
 - COMPACTA: La cafetera eléctrica prepara un magnífico café en sólo 20 centímetros de ancho.
+- CONFIGURABLE: El molinillo cónico tiene 5 grados de molienda. El café hasta 3 niveles de intensidad.
+- INTUITIVA: Personaliza tu bebida y prepara tu taza de café ya programada con un sólo toque.
+- LIMPIEZA: Programas automáticos de descalcificación y limpieza cada 200 cafés.
 - CAFÉ EN GRANO: Disfruta del aroma del café 100% natural recién molido en tu Solo E950-203
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Enriquecido con aceites naturales
 - Elimina fácilmente los restos de maquillaje sin dejar una película grasa
+- Enriquecido con aceites naturales
 - Desmaquillador para limpieza de maquillaje resistente al agua y de larga duración
 - Apto para usuarios de lentes de contacto
 

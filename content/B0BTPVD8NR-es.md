@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Altura Tacón Medio (de 3 A 5 cm)
-- Tipo de cierre Cordones
 - Tipo de tacón Plataforma
+- Tipo de cierre Cordones
 - Material principal Sintético
 - Material de la suela De goma
 

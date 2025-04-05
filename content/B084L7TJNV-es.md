@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Todos los tejidos empleados en su confección (Membrana y laterales) son bielásticos
-- Patrón ajustado que permite una excelente libertad de movimientos y una excelente aerodinámica
 - El diseño de paneles prioriza la protección en las zonas más expuestas y permite optimizar la evacuación de la humedad de la transpiración
+- Todos los tejidos empleados en su confección (Membrana y laterales) son bielásticos
 - Chaqueta de membrana de 2,5 capas con amplios paneles en lycra de entretiempo
+- Patrón ajustado que permite una excelente libertad de movimientos y una excelente aerodinámica
 - Tres bolsillos exteriores y elementos reflectantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

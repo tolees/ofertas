@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de configurar: gracias a la pantalla OLED de 1,44" la configuración de la impresora resulta muy sencilla. Podrás conectar tus dispositivos con solo pulsar un botón.
-- Impresora Canon multifunción 3 en 1: inteligente y minimalista. Ideal para un uso doméstico con funciones como impresión, copia y escaneo de alta calidad.
+- Impresora conectada: gracias a la app Canon PRINT podrás controlar las funciones de la impresora e imprimir directamente con AirPrint (iOS) y Mopria (Android).
 - Saca tu lado creativo: gracias a la app Creative Park y Easy PhotoPrint Editor podrás diseñar tarjetas, calendarios y muchos más artículos con tus fotografías.
 - Compatible con PIXMA Print Plan: suscripción mensual para recibir tintas de forma automática antes de que se te agoten, con diferentes tarifas disponibles para adaptarse a tu uso.
-- Impresora conectada: gracias a la app Canon PRINT podrás controlar las funciones de la impresora e imprimir directamente con AirPrint (iOS) y Mopria (Android).
+- Impresora Canon multifunción 3 en 1: inteligente y minimalista. Ideal para un uso doméstico con funciones como impresión, copia y escaneo de alta calidad.
+- Fácil de configurar: gracias a la pantalla OLED de 1,44" la configuración de la impresora resulta muy sencilla. Podrás conectar tus dispositivos con solo pulsar un botón.
 - Fotos perfectas: con hasta 100 años de duración gracias a los cartuchos Fine de Canon.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

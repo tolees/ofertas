@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puños y dobladillo acanalados
 - Bolsillo canguro
-- Ajuste regular
+- Puños y dobladillo acanalados
 - Capucha forrada de jersey con cordón para un ajuste ajustable
+- Ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08TMNX598{{</world>}}

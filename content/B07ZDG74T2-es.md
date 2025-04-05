@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calidad texturizada de Pique
-- 80% algodón, 20% poliéster.
-- Ajuste regular
 - Detalles de contraste sobre collar, puños y pecho.
+- Calidad texturizada de Pique
 - Lavar a máquina a máx. 40 ° C bajo un programa de lavado suave
+- Ajuste regular
+- 80% algodón, 20% poliéster.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZDG74T2{{</world>}}

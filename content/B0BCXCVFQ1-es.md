@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 4 figuras esculpidas y arte original que representan a los queridos personajes, escenas emocionantes y serpientes temibles de las películas de Indiana Jones
-- Configuración de variables y poderes de personajes únicos cambian el juego cada vez que juegas! Para mayores de 8 años, 2-4 jugadores, 45 minutos de juego
-- Depende de Indiana Jones y sus amigos encontrar el arca del pacto antes de que caiga en las manos equivocadas! Gire a los antiguos Tanis para encontrar la reliquia esquiva mientras aumenta su fuerza y ​​recursos. Pero ten cuidado: si el antiguo temporizador de arena de Anubis se balancea repentinamente, ¡es una carrera para sobrevivir mientras luchas contra el esquema coronel Dietrich, el desdeciente Arnold Todt o el despiadado Dr. Rene Belloq!
-- Carrera contra la arena en un juego de suspenso y cooperativo
 - Incluye un temporizador de arena oscilante que voltea cuando se llena de gemas!
+- Carrera contra la arena en un juego de suspenso y cooperativo
+- 4 figuras esculpidas y arte original que representan a los queridos personajes, escenas emocionantes y serpientes temibles de las películas de Indiana Jones
+- Depende de Indiana Jones y sus amigos encontrar el arca del pacto antes de que caiga en las manos equivocadas! Gire a los antiguos Tanis para encontrar la reliquia esquiva mientras aumenta su fuerza y ​​recursos. Pero ten cuidado: si el antiguo temporizador de arena de Anubis se balancea repentinamente, ¡es una carrera para sobrevivir mientras luchas contra el esquema coronel Dietrich, el desdeciente Arnold Todt o el despiadado Dr. Rene Belloq!
+- Configuración de variables y poderes de personajes únicos cambian el juego cada vez que juegas! Para mayores de 8 años, 2-4 jugadores, 45 minutos de juego
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCXCVFQ1{{</world>}}

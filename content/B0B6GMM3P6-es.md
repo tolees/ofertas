@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Epic environments with massive scale to explore by going into the world, rather than being limited to the traditional side scrolling platformer sense.
 - You play as Abe, the reluctant Mudokon hero who inadvertently sparked an uprising and now must lead his fellow Mudokons in their fight for freedom against the planet’s leaders.
-- Oddworld: Soulstorm is the bigger, badder, bolder action-adventure platformer sequel of the renowned video game series, and the explosive second installment in the quintology after Oddworld: New ‘n’ Tasty .
 - A dark storyline with a twisted sense of humor that shines a light on the ironies that exist in the human condition.
 - The Oddworld Soulstorm Collectors Oddition includes the base game, an exclusive collectors box, an embossed metal case with 24 cartridge slots, an exclusive silver hero figure, a mining company keychain, Abes hand tattoo, tribal stickers, 3 art prints and a premium 160 page harcover artbook
-- Epic environments with massive scale to explore by going into the world, rather than being limited to the traditional side scrolling platformer sense.
+- Oddworld: Soulstorm is the bigger, badder, bolder action-adventure platformer sequel of the renowned video game series, and the explosive second installment in the quintology after Oddworld: New ‘n’ Tasty .
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6GMM3P6{{</world>}}

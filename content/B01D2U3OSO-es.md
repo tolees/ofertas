@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El Gordolobo se usa para tratar enfermedades respiratorias
 - El mejor producto para el cuidado y bienestar de tu cuerpo
-- Es uno de los remedios caseros más utilizados en las épocas invernales para el tratamiento de la gripe
+- El Gordolobo se usa para tratar enfermedades respiratorias
 - Capacidad para disminuir y controlar la congestión
 - 1 x Botanicum - Gordolobo - 40g
+- Es uno de los remedios caseros más utilizados en las épocas invernales para el tratamiento de la gripe
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01D2U3OSO{{</world>}}

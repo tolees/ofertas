@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Caucho
 - Sin tacón
 - Medio
-- Sintético
-- Caucho
 - Paseo
+- Sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B3N7HRND{{</world>}}

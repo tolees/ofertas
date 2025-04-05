@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- With Power Cell technology: the lock offers high theft protection against impact and attempts to break the lock
-- For the highest possible security: Hardened 13 mm square shaft parabolic shackle - Housing, bracket and supporting parts of the locking mechanism are made of specially tempered steel
-- Robust and resistant against lock-picking: U-lock with ABUS XPlus cylinder to protect against tampering such as picking - lock and unlock with key - in combination with a transport bracket
 - Reliable lock for high-quality bicycles and e-bikes: Granit Xplus 540/160HB230 - Diameter 13 mm, weight 1650 g, height 230 mm, ABUS Security Level 15
+- For the highest possible security: Hardened 13 mm square shaft parabolic shackle - Housing, bracket and supporting parts of the locking mechanism are made of specially tempered steel
+- With Power Cell technology: the lock offers high theft protection against impact and attempts to break the lock
+- Robust and resistant against lock-picking: U-lock with ABUS XPlus cylinder to protect against tampering such as picking - lock and unlock with key - in combination with a transport bracket
 - Safe, reliable and stable. That is what the name ABUS stands for. Whether it is protection at home, object security or mobile security: ABUS sets the standards.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

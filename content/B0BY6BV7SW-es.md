@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello de tripulación de costilla
 - Costura del hombro colocada hacia adelante
 - HEAD Banda para el cuello de marca
-- Aberturas laterales
+- Cuello de tripulación de costilla
 - Parte trasera de malla para mayor transpirabilidad
+- Aberturas laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BY6BV7SW{{</world>}}

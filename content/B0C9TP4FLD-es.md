@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cremallera completa
 - Chaqueta con capucha
 - logotipo de Nike
-- Cremallera completa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9TP4FLD{{</world>}}

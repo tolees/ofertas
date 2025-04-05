@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Golpe de vapor de 200 g/min
-- 2700 W
-- Suela FreeGlide 3 D para planchar comodamente por encima de botones, con punta de precisión
 - 50 g/min
 - Apagado automático
+- 2700 W
+- Suela FreeGlide 3 D para planchar comodamente por encima de botones, con punta de precisión
+- Golpe de vapor de 200 g/min
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KQJQLJB{{</world>}}

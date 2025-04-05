@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 10 pegatinas autoadhesivas
+- 10 gomas elásticas
 - 10 tarjetas de felicitación con agujero
+- 10 manteles de algodón con borde curvado
 - Set completo para decoración con cariño de tarros de mermelada
 - Cordel de fibra natural que puede cortarse
-- 10 gomas elásticas
-- 10 manteles de algodón con borde curvado
+- 10 pegatinas autoadhesivas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00U8MBETQ{{</world>}}

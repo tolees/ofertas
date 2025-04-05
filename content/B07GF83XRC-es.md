@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Relaxed Fit
 - Kick panels, tobilleras reforzadas
-- Bolsillo interior en el bolsillo frontal derecho
 - Dos bolsillos exteriores reforzados en la parte delantera
 - Soft Duck
 - Bolsillo multicompartimento tipo peto con cremallera de seguridad
+- Relaxed Fit
+- Bolsillo interior en el bolsillo frontal derecho
 - Pantalones largos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

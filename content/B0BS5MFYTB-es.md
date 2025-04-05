@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pepe jeans logo embroidered on the front
-- Ribbed detail on cuffs and hem
-- Decorative ribbon with logo inside the neck.Triangular detail below the neck
 - Melange cotton sweatshirt
+- Decorative ribbon with logo inside the neck.Triangular detail below the neck
+- Ribbed detail on cuffs and hem
 - Adjustable hood with drawstring
+- Pepe jeans logo embroidered on the front
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS5MFYTB{{</world>}}

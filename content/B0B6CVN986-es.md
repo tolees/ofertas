@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampados gráficos de G-Star RAW en el lateral
 - Bajo recto
-- Cuello redondo con ribete acanalado
 - Manga corta
+- Estampados gráficos de G-Star RAW en el lateral
+- Cuello redondo con ribete acanalado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6CVN986{{</world>}}

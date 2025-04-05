@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cremallera y cuello alzado
-- Tecnología transpirable AEROREADY
-- Punto doble 100% poliéster reciclado
 - Corte entallado
+- Tecnología transpirable AEROREADY
+- Cierre de cremallera y cuello alzado
+- Punto doble 100% poliéster reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BV2TPD8V{{</world>}}

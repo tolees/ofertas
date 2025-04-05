@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular
 - Logotipo bordado en el pecho
+- Ajuste regular
 - Fabricado con 100% algodón sostenible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 94% algodón, 6% elastano
 - Leggings ciclista sobre la rodilla con logotipo bordado a juego.
+- 94% algodón, 6% elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJYFD98D{{</world>}}

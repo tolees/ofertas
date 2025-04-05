@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brand: Pranarom
 - Producto de alta calidad
+- Brand: Pranarom
 - Perfecto para tu salud y cuidado personal
 - Productos para tu cuidado personal, para tu dieta, para tu salud y para la higiene personal.
 

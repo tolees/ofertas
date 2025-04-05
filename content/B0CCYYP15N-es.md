@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso ligero
-- Suela de agarre
 - Amortiguación adecuada
+- Suela de agarre
+- Peso ligero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCYYP15N{{</world>}}

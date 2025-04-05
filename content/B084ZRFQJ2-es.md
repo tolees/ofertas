@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ONLY Mini WRAP DRESS
 - Regular
+- ONLY Mini WRAP DRESS
 - 97% poliamida, 3% elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

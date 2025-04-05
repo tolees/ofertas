@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
 - Suela original Waffle
 - Vans Marca Sidestripe
+- Cierre de cordones
 - Construcción vulcanizada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tenis de piano con correa superior con sonido
 - Temático, activado por sonido
+- Tenis de piano con correa superior con sonido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BZJLDV3L{{</world>}}

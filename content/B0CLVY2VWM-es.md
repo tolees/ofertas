@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta de fútbol con número y nombre de Paulo Dybala
 - Para manifestar su fe futbolística
-- Ideal para ir al estadio
 - Producto oficial AS Roma
+- Ideal para ir al estadio
+- Camiseta de fútbol con número y nombre de Paulo Dybala
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLVY2VWM{{</world>}}

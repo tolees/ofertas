@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De la marca: NIKE
-- soft fabric
 - regular fit
 - elastic waistband with lanyard
+- De la marca: NIKE
+- soft fabric
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KD91JYN{{</world>}}

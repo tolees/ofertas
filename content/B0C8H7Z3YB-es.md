@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- producto 2: Contorno de ojos antiojeras con aciano; recomendado para el cuidado diario, apto para todas las edades
-- producto 2: Reduce las ojeras; hidrata, tonifica y tensa ligeramente la epidermis
 - producto 1: Gel limpiador purificante para pieles grasas y mixtas.
+- producto 2: Contorno de ojos antiojeras con aciano; recomendado para el cuidado diario, apto para todas las edades
 - producto 2: Nutre y reafirma la piel; alisa pequeñas arrugas
 - producto 2: Adecuado para usuarios de lentes de contacto; testado dermatológica y oftalmológicamente; sin perfumes
+- producto 2: Reduce las ojeras; hidrata, tonifica y tensa ligeramente la epidermis
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8H7Z3YB{{</world>}}

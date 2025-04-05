@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con primer integrado para el párpado
-- Una textura suave que difumina como un sueño
-- No cuartea ni pliega en todo el día
-- Sombra de ojos suave que no cuartea
 - Para un color construible que puedas controlar
+- Sombra de ojos suave que no cuartea
+- No cuartea ni pliega en todo el día
+- Una textura suave que difumina como un sueño
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PX3KYPS{{</world>}}

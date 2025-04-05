@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura elástica con cordón
-- Ajuste regular
 - Tiene detalles distintivos de la marca
+- Ajuste regular
+- Cintura elástica con cordón
 - Tejido Climalite que absorbe la humedad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

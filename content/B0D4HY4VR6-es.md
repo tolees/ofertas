@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin adaptadores LED adicionales y solo instalación plug-and-play
-- ☢☢☢No se puede instalar en el coche con el sistema CANbus, de lo contrario: muestra el código de error de falla o la luz LED parpadea
 - El patrón de haz correcto es una buena opción para los faros parabólicos
 - La bombilla LED H7 con 20000 lúmenes aporta +300% de brillo comparativamente
+- ☢☢☢No se puede instalar en el coche con el sistema CANbus, de lo contrario: muestra el código de error de falla o la luz LED parpadea
+- Sin adaptadores LED adicionales y solo instalación plug-and-play
 - El tamaño de réplica 1:1 permite reemplazar directamente las bombillas halógenas de los faros delanteros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

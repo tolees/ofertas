@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Temporizador digital semanal incl. pila NiMH - debido a la combinación interruptor-enchufe, el interruptor de la luz no queda cubierto por la carcasa del temporizador
 - Incluye 10 programas de encendido y apagado con ajustes de días, horas y minutos de la semana
+- El intervalo mínimo de conmutación del temporizador semanal es de 1 minuto
+- Temporizador digital semanal incl. pila NiMH - debido a la combinación interruptor-enchufe, el interruptor de la luz no queda cubierto por la carcasa del temporizador
 - Interruptor horario digital con pantalla LCD, conmutación aleatoria para el período de vacaciones y mayor protección contra el contacto accidental
 - Con almacenamiento de datos en caso de corte de energía y función de encendido/apagado manual
-- El intervalo mínimo de conmutación del temporizador semanal es de 1 minuto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DPZF8WC{{</world>}}

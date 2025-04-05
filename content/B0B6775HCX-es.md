@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tirantes ajustables
 - Logotipo Hotel KARL en el pecho
-- Banda elástica en el pecho
 - Tejido Jersey
+- Banda elástica en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6775HCX{{</world>}}

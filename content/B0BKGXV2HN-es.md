@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Hecho de la mejor sarga
 - 5 bolsillos
 - Pantalón casual
-- Hecho de la mejor sarga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKGXV2HN{{</world>}}

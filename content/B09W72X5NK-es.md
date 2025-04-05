@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material superior:
 - Forma del tacón: plano
-- Cierre: sigue
 - Material interior:
+- Material superior:
+- Cierre: sigue
 - Ancho del zapato: estrecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

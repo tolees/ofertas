@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pack 12 latas Coca Cola Vainilla
 - Refresco americano
 - Sabor Vainilla
-- Pack 12 latas Coca Cola Vainilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000T9SZ3Q{{</world>}}

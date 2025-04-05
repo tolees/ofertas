@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
-- Forro textil
-- Horma clásica
 - Inspiración deportiva y sostenibilidad
+- Cierre de cordones
+- Horma clásica
+- Forro textil
 - Parte superior textil con refuerzos de ante sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

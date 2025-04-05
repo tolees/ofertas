@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Requiere colocación
-- Elemento de luminaria
 - Incluye accesorios
+- Elemento de luminaria
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0913DWQ9V{{</world>}}

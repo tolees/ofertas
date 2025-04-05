@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Parte de malla técnica
-- Forro textil
-- Mediasuela BOOST
 - Drop: 1 mm (talón: 22 mm / antepié: 12 mm)
+- Parte de malla técnica
 - Cierre de cordones
+- Horma clásica
+- Mediasuela BOOST
+- Forro textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5NWW35W{{</world>}}

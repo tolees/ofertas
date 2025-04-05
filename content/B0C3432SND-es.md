@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con cordones
 - Puntera cerrada
 - No es resistente al agua
+- Con cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C3432SND{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BRILLO: Enriquecida con Aloe Vera para un cuidado suave y Esencia de Oliva para suavidad y brillo
-- PROTECTOR: Con Vitamina E y antioxidantes para proteger el cabello de los daños causados por los radicales libres
 - SUAVE PARA LA PIEL: Formulado con ingredientes de origen natural - adecuado para pieles y cueros cabelludos sensibles
+- BRILLO: Enriquecida con Aloe Vera para un cuidado suave y Esencia de Oliva para suavidad y brillo
 - MASCARILLA CAPILAR: Mascarilla de pelo que re, desenreda y potencia la hidratación - un tratamiento hidratante -formulado sin siliconas
+- PROTECTOR: Con Vitamina E y antioxidantes para proteger el cabello de los daños causados por los radicales libres
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07H7L6N7B{{</world>}}

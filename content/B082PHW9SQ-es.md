@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Heel type: plano
+- Estilo más adecuado para: male
 - Closure: cordones
 - Heel height: 2 centimeters
-- Sole material: caucho
-- Lining: synthetic
-- Estilo más adecuado para: male
-- Heel type: plano
 - Outer material: sintético
+- Lining: synthetic
+- Sole material: caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B082PHW9SQ{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El gel lubricante control es hidratante y no tiene ni azúcar ni gluten
-- Botella de 75 ml para un más uso
-- El contacto oral con el lubricante no supone un riesgo
-- El Lubricante Control Infinity 75 ml ha sido desarrollado para facilitar la penetración, permitiendo un más placer e intensidad durante tus relaciones sexuales
-- No es graso, no mancha y es fácil de eliminar con agua
 - Gel lubricante Control Infinity íntimo de base silicona para la sequedad vaginal y genital
 - Compatible con el uso del preservativo, pero no debe emplearse con juguetes de silicona
+- Botella de 75 ml para un más uso
+- El contacto oral con el lubricante no supone un riesgo
+- No es graso, no mancha y es fácil de eliminar con agua
+- El gel lubricante control es hidratante y no tiene ni azúcar ni gluten
+- El Lubricante Control Infinity 75 ml ha sido desarrollado para facilitar la penetración, permitiendo un más placer e intensidad durante tus relaciones sexuales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KSG2Z9W{{</world>}}

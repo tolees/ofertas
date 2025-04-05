@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Lleva a Kong a nuevas alturas a través de eventos especiales y una variedad de combates contra jefes que desbloquean todo su potencial de combate.
-- Desata la furia de Kong en combate para asestar devastadores combos con los que dominar a los feroces esbirros de Gaw y desata tácticamente el modo furia para aumentar el impacto de tus ataques contra los gigantescos habitantes subterráneos de la isla.
 - Descubre el mito de la Isla Calavera mientras desentierras objetos coleccionables, desbloqueas zonas misteriosas de la isla y conoces la historia de los isleños, la exótica flora y fauna y la rica historia de los Kongs.
-- Haz que tus enemigos huyan a toda velocidad mientras desatas el escalofriante rugido de Kong y les das el golpe de gracia con ataques finales únicos.
 - Experimenta los orígenes del huérfano Kong a medida que se metamorfosea de un joven Kong al maduro Rey de la Isla Calavera.
+- Haz que tus enemigos huyan a toda velocidad mientras desatas el escalofriante rugido de Kong y les das el golpe de gracia con ataques finales únicos.
+- Desata la furia de Kong en combate para asestar devastadores combos con los que dominar a los feroces esbirros de Gaw y desata tácticamente el modo furia para aumentar el impacto de tus ataques contra los gigantescos habitantes subterráneos de la isla.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCBHDYCK{{</world>}}

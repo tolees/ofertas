@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de talla: Tamaño real
-- Composición: Caucho
-- Tipo de tacón: Plano
-- Cierre: Sin cordones
 - Material de la suela: Caucho
-- Material exterior: Caucho
 - Revestimiento: Caucho
+- Tipo de talla: Tamaño real
+- Cierre: Sin cordones
+- Material exterior: Caucho
+- Tipo de tacón: Plano
+- Composición: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FYP91F8{{</world>}}

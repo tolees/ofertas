@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Garantía internacional de 2 años
 - Gold Havana/Black Brown Shaded
-- Sin Polarizar
 - Talla 65/12/145
+- Garantía internacional de 2 años
+- Sin Polarizar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSCDT6PK{{</world>}}

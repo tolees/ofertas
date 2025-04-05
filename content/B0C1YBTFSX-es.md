@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 2: Proporciona volumen natural y brillo al cabello facilitando el peinado; deja el cabello suave y liso
-- producto 1: Restaura la suavidad e hidratación
-- producto 1: Proporciona brillo y facilita el peinado
-- producto 1: Mascarilla fortalecedora para cabello opaco y seco; contiene keratina y complejo de proteínas de leche de cabra
 - producto 2: Reconstruye la estructura del cabello afectado mejorando su flexibilidad
+- producto 1: Restaura la suavidad e hidratación
+- producto 1: Mascarilla fortalecedora para cabello opaco y seco; contiene keratina y complejo de proteínas de leche de cabra
 - producto 1: Reconstruye la estructura del cabello afectado mejorando su flexibilidad
-- producto 2: Champú de leche de cabra para el fortalecer el cabello opaco y seco; contiene keratina y proteínas de leche de cabra
+- producto 1: Proporciona brillo y facilita el peinado
+- producto 2: Proporciona volumen natural y brillo al cabello facilitando el peinado; deja el cabello suave y liso
 - producto 2: Limpia suavemente el cabello y el cuero cabelludo
+- producto 2: Champú de leche de cabra para el fortalecer el cabello opaco y seco; contiene keratina y proteínas de leche de cabra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1YBTFSX{{</world>}}

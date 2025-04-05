@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección efectiva y de larga duración en diversas situaciones: clima templado, costa, zonas húmedas; ya sea dentro o fuera de casa, ofreciendo hasta 6 horas de protección.
-- Evita las picaduras de mosquitos, incluyendo el Aedes Albopictus o mosquito tigre. No aplicar en zonas con riesgo de enfermedades transmitidas por mosquitos.
-- Fácil de usar, se aplica en la piel expuesta que se desee proteger. No aplicar directamente en la cara. Lavar las manos y la zona aplicada tras el tiempo de protección.
 - Relec Infantil Spray Antimosquitos para niños a partir de 6 meses en presentación de 100 ml, una opción segura y efectiva para proteger a los más pequeños de las picaduras.
 - Especialmente formulado para ser amigable con la piel de bebés y niños, Relec Infantil Spray Antimosquitos ha sido dermatológicamente probado en pieles sensibles, sin alcohol ni colorantes.
+- Evita las picaduras de mosquitos, incluyendo el Aedes Albopictus o mosquito tigre. No aplicar en zonas con riesgo de enfermedades transmitidas por mosquitos.
+- Protección efectiva y de larga duración en diversas situaciones: clima templado, costa, zonas húmedas; ya sea dentro o fuera de casa, ofreciendo hasta 6 horas de protección.
+- Fácil de usar, se aplica en la piel expuesta que se desee proteger. No aplicar directamente en la cara. Lavar las manos y la zona aplicada tras el tiempo de protección.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CGES96Y{{</world>}}

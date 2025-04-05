@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suave y ligera
-- 100% espuma de poliuretano
 - Suave y ligera
+- 100% espuma de poliuretano
 - Fácil de apretar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

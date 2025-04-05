@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puntas para atornillar: 3 puntas high perf serie 1 para tornillos cruciformes pozidriv, 5 puntas estándar serie 1 para tornillos hexagonales huecos métrico, 3 puntas high perf serie 1 para tornillos cruciformes phillips, 3 puntas high perf serie 1 para tornillos ranura dos, 7 puntas estándar serie 1 para tornillos resistorx
-- Set de 38 piezas de vasos y puntas con caja de almacenamiento resistente y ligera
-- También contiene alargadera de 1/4" estándar l 100 mm y l 55 mm
-- Trinquete 1/4” y 10 vasos de 1/4" (5.5 mm, 6 mm, 7 mm, 8 mm, 9 mm, 10 mm, 11 mm, 12 mm, 13 mm y 14 mm)
 - Punta porta-vasos 1/4" - 1/4" - ecr y vaso de 1/4" portapuntas con arandela de retención estándar - r 235
+- También contiene alargadera de 1/4" estándar l 100 mm y l 55 mm
+- Set de 38 piezas de vasos y puntas con caja de almacenamiento resistente y ligera
+- Puntas para atornillar: 3 puntas high perf serie 1 para tornillos cruciformes pozidriv, 5 puntas estándar serie 1 para tornillos hexagonales huecos métrico, 3 puntas high perf serie 1 para tornillos cruciformes phillips, 3 puntas high perf serie 1 para tornillos ranura dos, 7 puntas estándar serie 1 para tornillos resistorx
+- Trinquete 1/4” y 10 vasos de 1/4" (5.5 mm, 6 mm, 7 mm, 8 mm, 9 mm, 10 mm, 11 mm, 12 mm, 13 mm y 14 mm)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0043C7FQI{{</world>}}

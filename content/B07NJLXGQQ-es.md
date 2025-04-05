@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Campañas cooperativas narrativas: sobrevive por todo el mundo y descubre historias de perseverancia
+- Cuando se te canse el brazo, saca tu fusil de asalto, tu subfusil y pistola dorados para acabar con los últimos infectados con el DLC Lobo
 - Hazte más fuerte: desbloquea armas poderosas y sube de nivel a 6 clases de personajes para enfrentarte a más desafíos
 - Enfréntate a otros jugadores para sobrevivir: diversos modos jugador complementan las campañas cooperativas
-- Cuando se te canse el brazo, saca tu fusil de asalto, tu subfusil y pistola dorados para acabar con los últimos infectados con el DLC Lobo
-- DLC Lobo: Incluye el arma Lobo y 3 skins doradas para armas
 - Lucha contra cientos de zombis: Swarm Engine crea hordas en tiroteos alucinantes. Los sistemas avanzados de violencia garantizan una acción brutal
+- DLC Lobo: Incluye el arma Lobo y 3 skins doradas para armas
+- Campañas cooperativas narrativas: sobrevive por todo el mundo y descubre historias de perseverancia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NJLXGQQ{{</world>}}

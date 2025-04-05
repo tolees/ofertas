@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para épocas frías
-- Disponible en varios colores
 - Producto adecuado para múltiples ocasiones
+- Disponible en varios colores
+- Para épocas frías
 - Tiene detalles distintivos de la marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

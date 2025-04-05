@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsillos de parche con solapa y cierre a presión en los muslos
+- Talle alto
 - Prenda ajustada de arriba abajo
 - Bolsillo con cremallera en la parte trasera
 - Cierre de botones y cremallera
-- Talle alto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CHL2SN3{{</world>}}

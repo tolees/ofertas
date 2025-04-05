@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - bordado de logo árbol a Contraste
-- Con cortes en el pecho
 - Camiseta
+- Con cortes en el pecho
 - Camiseta manga larga
 - Camiseta manga larga de piqué Con cortes en el pecho y bordado de logo árbol a Contraste
 

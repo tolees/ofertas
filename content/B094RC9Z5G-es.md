@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 72 % algodón, 26 % poliéster, 2 % elastano
 - Diseño danés
+- 72 % algodón, 26 % poliéster, 2 % elastano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B094RC9Z5G{{</world>}}

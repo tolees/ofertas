@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste: corte recto Aedan: cintura baja, pernera recta, abertura normal en la pierna, longitud de la entrepierna a 30 L aproximadamente 76 cm, 32 L aproximadamente 81 cm, a 34 L aproximadamente 85 cm, a 36 L aproximadamente 90 cm
-- Consejos de lavado: no se puede lavar en seco, no se puede secar en secadora, no se permite usar lejía, planchar a baja temperatura (110 °C), lavar en condiciones normales a un máximo de 40 °C
 - Con trabillas y logotipo en la parte trasera de la cintura
 - Con elástico para un ajuste cómodo y más libertad de movimiento
 - Vaqueros clásicos de cinco bolsillos con bolsillos laterales y bolsillos traseros
+- Consejos de lavado: no se puede lavar en seco, no se puede secar en secadora, no se permite usar lejía, planchar a baja temperatura (110 °C), lavar en condiciones normales a un máximo de 40 °C
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01FZBF9GS{{</world>}}

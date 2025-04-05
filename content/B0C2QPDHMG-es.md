@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
-- Plantilla OrthoLite
-- Parte de lona
 - Zapatilla de skate para uso diario
+- Parte de lona
+- Plantilla OrthoLite
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2QPDHMG{{</world>}}

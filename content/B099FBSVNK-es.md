@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ajuste de arco
 - Tecnología Comfort Pillar
 - Ultra Go
-- Ajuste de arco
 - Ajuste elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

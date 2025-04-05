@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- POLI BÁSICO
 - Fabricado con tela 100% reciclada
+- POLI BÁSICO
 - Puff básico esencial en construcción de sándwich. Detalles del parche de goma. Cremallera frontal central. Bolsillos delanteros. Bolsa plegable. Carcasa de poliéster 100 % reciclada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

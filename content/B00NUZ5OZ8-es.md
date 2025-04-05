@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ajuste regular
-- Pierna recta
 - Cintura baja
+- Pierna recta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00NUZ5OZ8{{</world>}}

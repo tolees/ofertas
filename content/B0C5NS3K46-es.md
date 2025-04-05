@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suela de goma
 - Plantilla Cloudfoam
 - Horma clásica
-- Suela de goma
 - Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

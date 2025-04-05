@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para pies suaves y tersos
 - Sin dolor y fácil de usar
+- Para pies suaves y tersos
 - Eliminador de callos eléctrico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

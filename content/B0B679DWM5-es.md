@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de corchetes ajustable en la espalda y banda elástica en el pecho
-- Bordado KARL Signature en la copa izquierda
 - Copas acolchadas
+- Cierre de corchetes ajustable en la espalda y banda elástica en el pecho
 - Tirantes ajustables
+- Bordado KARL Signature en la copa izquierda
 - Tejido Tejido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

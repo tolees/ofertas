@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Adecuada para día o noche
-- Olor intenso y duradero
 - Fragancia floral-frutal con un toque oriental
+- Olor intenso y duradero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BOJV2I0{{</world>}}

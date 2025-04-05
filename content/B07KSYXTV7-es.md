@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Revestimiento: Sin forro
 - Material exterior: Caucho
+- Revestimiento: Sin forro
 - Material de la suela: Goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

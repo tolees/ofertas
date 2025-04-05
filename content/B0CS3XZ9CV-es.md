@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- CUIDADO INTENSIVO: Sabemos que le encantarán nuestros productos, pero si no está satisfecho por cualquier motivo, le reembolsaremos su compra con un cupón del mismo valor (se aplican los términos y condiciones). Visite nuestro sitio web para hacer un reclamo y obtener más información
 - Cuidado de la piel: la crema de manos OKeeffes Working Hands está diseñada para hidratar y cuidar los pies extremadamente secos y agrietados, para resultados duraderos
 - Capa protectora: crea una capa protectora en la superficie de la piel que evita una mayor pérdida de humedad y retiene la humedad
-- CUIDADO INTENSIVO: Sabemos que le encantarán nuestros productos, pero si no está satisfecho por cualquier motivo, le reembolsaremos su compra con un cupón del mismo valor (se aplican los términos y condiciones). Visite nuestro sitio web para hacer un reclamo y obtener más información
 - Con glicerina: nuestra crema de manos contiene ingredientes eficaces como glicerina, que hidratan la piel y forman una barrera protectora en la superficie de la piel
 - Humedad instantánea: OKeeffes Working Hands aumenta inmediatamente el contenido de humedad y atrapa la humedad, por lo que tus manos se ven y se sienten bien durante más tiempo
 

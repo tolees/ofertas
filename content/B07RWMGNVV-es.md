@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Open, closure style
 - Ladies Cardigan in soft fine knit quality
+- Open, closure style
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RWMGNVV{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómodo forro textil
 - Parte superior de cuero nobuck sintético
+- Cómodo forro textil
 - Suela de goma vulcanizada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con cuello camisero
-- Con botones en el delantero
 - Con volantes en los puños
+- Con botones en el delantero
+- Con cuello camisero
 - Blusa de manga larga
 - Con mini volantes en el canesú
 

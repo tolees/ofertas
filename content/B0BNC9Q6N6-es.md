@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 100 % algodón
-- Ajuste cómodo
 - Camiseta de cuello barco, en hilo acanalado teñido de fibra larga acanalada, compacta bordada en la parte inferior en tono
+- Ajuste cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNC9Q6N6{{</world>}}

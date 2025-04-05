@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tamaño 201 x 150 x 51 cm
 - Capacidad de agua 450 litros, válvula de desagüe
 - PVC duradero
 - Contenido 1 piscina familiar, 1 parche de reparación
+- Tamaño 201 x 150 x 51 cm
 - Paredes laterales extra anchas, 2 anillos de aire
 
 [🛒 Visítala!!!]({{< param buyurl >}})

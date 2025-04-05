@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Talle recto para un ajuste ceñido y excelente movilidad/Corte específico para ciclismo
-- GORE-TEX INFINIUM con tecnología WINDSTOPPER: cortaviento, altamente resistente al agua y extremadamente transpirable
 - GORE C3 Chaqueta térmica GORE-TEX INFINIUM, Talla: M, Color: Negro, 100644
+- GORE-TEX INFINIUM con tecnología WINDSTOPPER: cortaviento, altamente resistente al agua y extremadamente transpirable
+- Talle recto para un ajuste ceñido y excelente movilidad/Corte específico para ciclismo
 - Cálida chaqueta de hombre, Ideal para condiciones climáticas frías
 - Bolsillo posterior de 3 compartimentos antisalpicaduras, Parte posterior alargada, Forro polar para mantener el calor
 

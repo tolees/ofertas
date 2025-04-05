@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Low waist
+- materialFabricComposition: 70% Cotton, 28% Polyester, 2% Elastane
 - Skinny fit jeans
 - Skinny Fit
-- materialFabricComposition: 70% Cotton, 28% Polyester, 2% Elastane
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YZPWVGK{{</world>}}

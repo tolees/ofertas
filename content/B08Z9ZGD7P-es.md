@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseñado pensando en la calidad y la comodidad
 - Plantilla de espuma viscoelástica
+- Diseñado pensando en la calidad y la comodidad
 - Lavable a máquina
 - Gran mezcla de atlética y comodidad para tu entrenamiento
 

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Confort
 - Peso ligero
 - Punta redonda
-- Confort
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3MJK1BS{{</world>}}

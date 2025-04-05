@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte cónico
-- Cintura elástica con cordón
 - Tecnología Dri-Fit
+- Cintura elástica con cordón
+- Corte cónico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08R3TQ4ZX{{</world>}}

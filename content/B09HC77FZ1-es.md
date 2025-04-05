@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo canguro
 - Sudadera con capucha Essentials Fleece
+- Bolsillo canguro
 - Felpa 70% algodón / 30% poliéster reciclado
 - Corte clásico
 - Capucha con cordón ajustable

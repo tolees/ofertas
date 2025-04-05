@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puntas de vaso, entrada 6,3 mm (1/4"), perfil en t (para torx)
-- Puntas de vaso, entrada 6,3 mm (1/4"), salida de hexágono interior
-- Puntas de vaso, entrada 6,3 mm (1/4"), salida de estrella
-- Carraca de dentado fino, 72 dientes
 - Llaves de vaso, entrada 6,3 mm (1/4") 4 - 13
+- Hecho de acero al cromo vanadio
+- Puntas de vaso, entrada 6,3 mm (1/4"), salida de estrella
+- Puntas de vaso, entrada 6,3 mm (1/4"), salida plana
+- Puntas de vaso, entrada 6,3 mm (1/4"), perfil en t (para torx)
+- Carraca de dentado fino, 72 dientes
+- Puntas de vaso, entrada 6,3 mm (1/4"), salida de hexágono interior
+- Tratamiento superficial: cromado, mate
 - Carraca, salida de cuadrado exterior 6,3 mm (1/4")
 - Salida: super lock (perfil ondulado)
-- Puntas de vaso, entrada 6,3 mm (1/4"), salida plana
-- Hecho de acero al cromo vanadio
-- Tratamiento superficial: cromado, mate
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B003P9KB6G{{</world>}}

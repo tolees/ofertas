@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tecnología Dry MX
-- Permite una circulación completa del aire, secando el sudor de forma rápida y evitando enfriamientos
 - Composición textil 100% poliéster
+- Permite una circulación completa del aire, secando el sudor de forma rápida y evitando enfriamientos
 - Se adapta perfectamente a tus movimientos, otorgándote un plus de comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

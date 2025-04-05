@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Acabado en tonos inspirados en los meteoritos
 - Un polo refinado con estilo, versátil y todo menos aburrido
+- Textura de piqué clásico
 - Este producto es original Levis
 - Fit ajustado para un look informal y desenfadado
-- Textura de piqué clásico
-- Acabado en tonos inspirados en los meteoritos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BMLL592J{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: Sintético
 - Material de la suela: Caucho
+- Material exterior: Sintético
 - Cierre: Gancho y bucle
 
 [🛒 Comprar!!!]({{< param buyurl >}})

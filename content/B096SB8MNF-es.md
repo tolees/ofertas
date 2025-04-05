@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dos bolsillos italianos y un bolsillo delantero pequeño; dos bolsillos ribeteados en la parte trasera
 - Gabardina de algodón stretch ecológico
 - Slim fit
-- Cierre frontal con cremallera y botón y trabillas
 - Etiqueta de cocodrilo en el bolsillo trasero
+- Dos bolsillos italianos y un bolsillo delantero pequeño; dos bolsillos ribeteados en la parte trasera
+- Cierre frontal con cremallera y botón y trabillas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096SB8MNF{{</world>}}

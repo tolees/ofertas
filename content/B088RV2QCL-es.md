@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pre-filtro
 - Combinación de filtros: filtro HEPA H13 (rendimiento del filtrado del 99.95 %) y filtro de carbón activo
 - Para espacios cerrados de hasta 106 m2
+- Pre-filtro
 - Set de 2 piezas
 - Limpieza del aire mediante un sistema de filtrado de 3 capas
 

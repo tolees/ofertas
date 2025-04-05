@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Disfruta viendo la casa de papel, mientras te tomas un café en esta taza inspirada en la serie
 - Son aptas para lavavajillas; se envían en su caja protectora para asegurarnos que llegan en perfecto estado
 - Fabricada en cerámica con un tamaño de 9, 5 x 8 cm y tiene una capacidad de 330 ml
-- Disfruta viendo la casa de papel, mientras te tomas un café en esta taza inspirada en la serie
 - Erikespecializados en papelería, merchandising y pósteres con las licencias más actuales del mercado; calidad y diseño es lo que nos caracteriza
 - Regalo ideal para todos los públicos con un diseño único
 

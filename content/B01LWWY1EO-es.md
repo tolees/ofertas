@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se conecta directamente a la batería o fuente de 12 V, no requiere interruptor
-- Brilla Color posterior en la superficie del reflector de su faro delantero sin cambiar el color del haz de luz
-- App gratuita Osram ledambient Connect controla el color y el modo de múltiples productos
 - Diseñado para uso exterior, pero se puede utilizar también en el interior
 - Nota: Este producto no está aprobado para uso en carreteras públicas. para usar en la vía pública conduce a la pérdida de cancelación de licencia y cobertura de seguro.
+- Brilla Color posterior en la superficie del reflector de su faro delantero sin cambiar el color del haz de luz
+- Se conecta directamente a la batería o fuente de 12 V, no requiere interruptor
+- App gratuita Osram ledambient Connect controla el color y el modo de múltiples productos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LWWY1EO{{</world>}}

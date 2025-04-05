@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tapón en forma margarita Mr Wonderful en el extremo
 - Set de 4 subrayadores en tonos pastel
-- Colores de los subrayadores: azul, naranja, lila y mint
 - Optimo para la vuelta al col
+- Tapón en forma margarita Mr Wonderful en el extremo
+- Colores de los subrayadores: azul, naranja, lila y mint
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C62KJ6XX{{</world>}}

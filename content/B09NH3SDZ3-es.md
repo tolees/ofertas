@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: Natuiahan
-- Tamaño: talla única
 - Tipo de producto: ROPA CUBRECUELLO CABEZA
+- Marca: Natuiahan
 - Natuiahan Pack 4 Bragas para el Cuello y la Cabeza. Bandanas Unisex, Multifuncionales y Extra Suaves. Con cierre de cordón para ajuste. Fucsia, Rojo, Verde y Naranja
+- Tamaño: talla única
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09NH3SDZ3{{</world>}}

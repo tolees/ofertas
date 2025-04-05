@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Seguridad dermatológica - Hipoalergénico, no comedogénico, sin colorantes ni derivados del trigo, testado en 5 metales pesados (Níquel, Cobalto, Cromo, Paladio y Mercurio).
 - Emulsión fluida de muy altra fotoprotección para pieles propensas al eritema y a la formación de manchas. Crema solar anti-imperfecciones para pieles con brillos y tendencia acneica.
 - Fotoprotección específica - Con vitamina E, Niacinamida, Extracto de te verde, Alfa Bisabolol, DNA Repair Complex para una acción antioxidante y un sistema filtrante que ofrece un espectro de protección UVB-UVA
 - Textura ligera - Fotoprotector hidratante y resistente al agua, garantiza una máxima ligerecia y cosmeticidad que se absorbe rápidamente
-- Seguridad dermatológica - Hipoalergénico, no comedogénico, sin colorantes ni derivados del trigo, testado en 5 metales pesados (Níquel, Cobalto, Cromo, Paladio y Mercurio).
 - Eco-responsable - Protector solar respetuoso con la piel y con el planeta. Envase biobasado, provinente de la caña de azúcar de origen sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

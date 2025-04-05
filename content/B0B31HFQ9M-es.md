@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte sintética
-- Suela de goma
 - Horma clásica
 - Forro textil
+- Suela de goma
+- Parte sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B31HFQ9M{{</world>}}

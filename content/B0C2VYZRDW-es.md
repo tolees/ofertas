@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BLANCO
 - 90% LEATHER 10% SYNT
 - Zapatillas casual para hombre
+- BLANCO
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2VYZRDW{{</world>}}

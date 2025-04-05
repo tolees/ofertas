@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perkins wool spongy collar Sweater. Ajuste relajado y sropped tirantes Detalles en seams. collar, cuffs y botones acabados de Ribs
 - WOOL SPONGY KNIT
+- Perkins wool spongy collar Sweater. Ajuste relajado y sropped tirantes Detalles en seams. collar, cuffs y botones acabados de Ribs
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QLBJS2R{{</world>}}

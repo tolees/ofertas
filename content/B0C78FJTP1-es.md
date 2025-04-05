@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tejido adidas PRIMEKNIT en la zona del tobillo
-- Horma clásica
-- Cierre de cordones
 - Parte superior Aeropacity Speedskin
+- Cierre de cordones
+- Horma clásica
 - Ganar es el trato
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

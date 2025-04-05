@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado
 - Camiseta
 - Cómodo
 - Algodón
+- Estampado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08X3NZ3NR{{</world>}}

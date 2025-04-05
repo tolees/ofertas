@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- material:algodón
+- color:malva
 - tamaño:75 x 150 cm
 - marca:secaneta
-- color:malva
+- material:algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P6DDLLV{{</world>}}

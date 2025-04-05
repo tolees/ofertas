@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No es resistente al agua
 - Peso ligero
+- No es resistente al agua
 - Punta redonda
 
 [🛒 Aquí!!!]({{< param buyurl >}})

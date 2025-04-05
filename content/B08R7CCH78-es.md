@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - mujeres de los cortocircuitos
-- cortocircuitos del deporte
 - Icónicas tres rayas de Adidas
+- cortocircuitos del deporte
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08R7CCH78{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 20 años de garantía / fabricado en Francia
+- Diámetro compatible con cualquier conector universal de 15 mm
 - Manguera de suave tacto, gran flexibilidad y alta resistencia.
 - Resistente a los rayor UV
-- Diámetro compatible con cualquier conector universal de 15 mm
 - Manguera compuesta por 5 capas de pvc y textil tricotado
-- 20 años de garantía / fabricado en Francia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B010DASMMY{{</world>}}

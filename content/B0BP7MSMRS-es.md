@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tripulación
-- Corte
 - Logotipo icónico
+- Corte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BP7MSMRS{{</world>}}

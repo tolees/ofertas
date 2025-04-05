@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- SKECHERS modelo TRACK FRONT RUNNER BBK T. 44
 - SKECHERS
 - NEGRO
-- SKECHERS modelo TRACK FRONT RUNNER BBK T. 44
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08ZB2N1L3{{</world>}}

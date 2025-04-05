@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Paleta de contouring que viene con seis tonos de polvos y dos iluminadores
 - Cuenta con un gran espejo
 - Con una textura suave e un brillo de larga duración
+- Paleta de contouring que viene con seis tonos de polvos y dos iluminadores
 - Útil para modelar e aumentar rasgos faciales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

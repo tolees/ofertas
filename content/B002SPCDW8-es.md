@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cortadora portátil, ideal para acabados y reformas. Para el corte de baldosa cerámica, ideal para azulejo y gres
-- Refrigeración del disco por inmersión. Con plataforma abatible para ingletes. Tope lateral para cortes repetitivos. Guía para cortes a 45º
 - Con protector térmico de seguridad. Cable eléctrico: 1,5 m. Modelo con maleta, servido con 2 discos de Ø 180 mm
+- Refrigeración del disco por inmersión. Con plataforma abatible para ingletes. Tope lateral para cortes repetitivos. Guía para cortes a 45º
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B002SPCDW8{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ajuste estándar
 - Sudadera deportiva
 - Deportes: Ocio
-- Ajuste estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5X6K8D7{{</world>}}

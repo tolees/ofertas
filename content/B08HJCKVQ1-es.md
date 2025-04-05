@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La longitud de la hoja de la sierra es de 300mm lo que nos permite cortar zonas más grandes. Gracias a su sistema de enganche rápido es muy fácil cambiar la hoja cuando lo requieras.
-- Para una mayor facilidad a la hora de cortar se le ha incluido un bastidor ligero pero robusto. Fabricado en metal y plástico es una herramienta ideal para poder usarla con ambas manos.
-- Arco de sierra con empuñadura de plástico y diseño ergonómico de gran robustez que proporciona un correcto agarre. Máxima seguridad en tus trabajos de carpintería, fontanería, etc.
 - La hoja de sierra está diseñada para cortar la mayoría de materiales como metales y plásticos con gran facilidad. Puede usarse hasta en un ángulo de 45º sin que esta pierda filo.
+- Arco de sierra con empuñadura de plástico y diseño ergonómico de gran robustez que proporciona un correcto agarre. Máxima seguridad en tus trabajos de carpintería, fontanería, etc.
+- Para una mayor facilidad a la hora de cortar se le ha incluido un bastidor ligero pero robusto. Fabricado en metal y plástico es una herramienta ideal para poder usarla con ambas manos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HJCKVQ1{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pantalón con cordones
-- Rib en puños y bajo
-- Chaqueta con cremallera
 - Tipo de fábrica: 100 % Poliéster
+- Chaqueta con cremallera
+- Rib en puños y bajo
 - Chándal de dos piezas formado por chaqueta con cuello alto y pantalón largo con bolsillos y cintura elástica ajustable. Logotipo estampado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

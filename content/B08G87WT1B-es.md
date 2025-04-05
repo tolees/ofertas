@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- sandalias
 - Colorfull Sock
 - Trek
+- sandalias
 - Elástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Número máximo de personas: un adulto
-- Tamaño desinflado: 152 x 99 cm. Tamaño inflado: 124 x 95 x 30 cm
-- Peso máximo soportado: 90 kg
-- Nota: Este producto viene de fábrica en variado surtido de modelos y/o colores. Nos es imposible ofrecerte uno de estos modelos y/o colores en concreto, por lo que recibirás uno de ellos al azar (sujeto a disponibilidad).
 - Hecho de vinilo resistente de 0,23 mm, incluye parche de reparación autoadhesivo, dos colores surtidos, por desgracia, no es posible elegir
 - Dos asas, dos soportes para bebidas, dos cámaras de aire
+- Peso máximo soportado: 90 kg
+- Tamaño desinflado: 152 x 99 cm. Tamaño inflado: 124 x 95 x 30 cm
+- Nota: Este producto viene de fábrica en variado surtido de modelos y/o colores. Nos es imposible ofrecerte uno de estos modelos y/o colores en concreto, por lo que recibirás uno de ellos al azar (sujeto a disponibilidad).
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FKG9W8S{{</world>}}

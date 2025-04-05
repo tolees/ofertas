@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Los básicos por naturaleza
 - Cinturilla cómoda
 - Comodidad para el día a día
 - La base perfecta para cualquier look
-- Los básicos por naturaleza
 - Tela de tacto suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

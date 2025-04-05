@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular
 - Nuevo portador de logotipo en color de contraste
+- Ajuste regular
 - Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

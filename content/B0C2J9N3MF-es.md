@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pierna recta
 - Tiro medio
 - Ajuste entallado
+- Pierna recta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2J9N3MF{{</world>}}

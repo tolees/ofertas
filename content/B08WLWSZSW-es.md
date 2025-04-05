@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 3.83111E+12
 - Alta calidad
 - Diseño funcional
-- 3.83111E+12
 - Brand: EK Water Blocks
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa trasera con logotipo de AirWair
 - Costuras visibles
+- Correa trasera con logotipo de AirWair
 - 8 ojales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

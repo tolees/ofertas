@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: Caucho
 - Cierre: Sin Cordones
+- Material de la suela: Caucho
 - Material exterior: Lana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

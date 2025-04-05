@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla acolchada de espuma viscoelástica
-- Detalle de diseño del logotipo de Skechers
-- Diseño deportivo cómodo con cordones
 - Forro de tela suave para zapatos
+- Plantilla acolchada de espuma viscoelástica
+- Diseño deportivo cómodo con cordones
+- Detalle de diseño del logotipo de Skechers
 - Parte superior de tela de malla atlética suave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

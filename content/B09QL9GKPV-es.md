@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vestido con estampado boho
 - Panel fruncido en la cintura y los puños
 - Cuello en pico y mangas transparentes
 - Detalle de volantes en el dobladillo y anudado en la parte delantera y trasera
+- Vestido con estampado boho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QL9GKPV{{</world>}}

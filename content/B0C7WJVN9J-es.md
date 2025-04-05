@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Garnier Delial Bruma Corporal solar Sensitive Advanced SPF50+, especialmente indicada para pieles claras, sensibles e intolerantes al sol. Protección muy alta contra los rayos UVB y UVA incluso largos, los rayos UV más numerosos y penetrantes. Formulada con Ceramidas para ayudar a reparar y proteger la barrera cutánea. Textura seca no pegajosa y muy ligera que deja una sensación de piel desnuda y evita que la arena se pegue a tu piel.
 - Garnier Delial Bruma Facial solar SPF50, muy alta protección facial contra los efectos dañinos de los rayos UVA, UVB y UVA largos; protege contra los efectos de los infrarrojos. Formulada con Ácido Hialurónico, hidrata tu piel hasta 24 horas sin dejar efecto graso protegiendo el rostro de la contaminación. Se puede aplicar sobre el maquillaje.
 - Aplica la bruma facial en el rostro todos los días con independencia de la exposición directa al sol. Para complementar la protección facial, agita y aplica la bruma de cuerpo antes de la exposición solar. Reaplicar ambos productos para mantener la protección.
+- Garnier Delial Bruma Corporal solar Sensitive Advanced SPF50+, especialmente indicada para pieles claras, sensibles e intolerantes al sol. Protección muy alta contra los rayos UVB y UVA incluso largos, los rayos UV más numerosos y penetrantes. Formulada con Ceramidas para ayudar a reparar y proteger la barrera cutánea. Textura seca no pegajosa y muy ligera que deja una sensación de piel desnuda y evita que la arena se pegue a tu piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C7WJVN9J{{</world>}}

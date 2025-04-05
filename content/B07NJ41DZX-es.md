@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vaqueros slim fit con piernas cónicas y talle bajo
-- Con detalles del estilo de cinco bolsillos clic
 - 70% Algodón, 28% Poliéster, 2% Elastano
 - Cierre: Botones
+- Vaqueros slim fit con piernas cónicas y talle bajo
+- Con detalles del estilo de cinco bolsillos clic
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NJ41DZX{{</world>}}

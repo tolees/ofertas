@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta
 - Bolsillo en
-- Manga larga
-- Cuello redondo de punto acanalado
+- Camiseta
 - Puños acanalados
+- Cuello redondo de punto acanalado
+- Manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJW36Q14{{</world>}}

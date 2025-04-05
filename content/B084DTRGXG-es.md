@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera
+- Tapered
 - Medium treated
 - JoggJeans
-- Tapered
 - Coloreado
+- Cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084DTRGXG{{</world>}}

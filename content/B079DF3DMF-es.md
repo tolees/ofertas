@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Especificaciones: superficie de cocción 2,100 cm²; altura de cocción: 87 cm; consumo de gas 546 g/h; peso 33kg
-- Asado indirecto: Tapa de acero con termómetro, el asa grande hace fácil el abrir y cerrar de la tapadera
-- Alta calidad y potente: 2 quemadores de tubo de acero aluminizado de alto rendimiento (7.5kw); parrilla con confiable encendido piezo para un fácil encendido
 - Opciones infinitas: 2 partes (plancha y parrilla) grandes con esmaltado de acero estampado (60 x 35); rejilla para calentado que se extiende por todo el ancho de la superficie de cocción
 - Almacenamiento y transporte: 2 bandejas laterales plegables y ruedas de bloqueo para guardar la parrilla cuando no esté en uso; frente de acero con estante integrado para guardar condimentos
+- Alta calidad y potente: 2 quemadores de tubo de acero aluminizado de alto rendimiento (7.5kw); parrilla con confiable encendido piezo para un fácil encendido
+- Especificaciones: superficie de cocción 2,100 cm²; altura de cocción: 87 cm; consumo de gas 546 g/h; peso 33kg
+- Asado indirecto: Tapa de acero con termómetro, el asa grande hace fácil el abrir y cerrar de la tapadera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079DF3DMF{{</world>}}

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Como una mascarilla facial pero para el pelo
-- Tratamiento acondicionador intensivo
-- Mascarilla capilar bear fruits para un tratamiento capilar de hasta 30 minutos
-- El extracto de piña desintoxica y revitaliza el pelo
-- Aroma cítrico óptima y estimulante
-- Mascarillas capilares inspiradas en las rutinas de belleza coreanas
 - Ingredientes: Aqua, Cetearyl Alcohol, ButyrospermumParkii Butter, Stearamidopropyl Dimethylamine, Glycerin, Betaine, Citric Acid, BehentrimoniumChloride, Parfum, PalmitamidopropyltrimoniumChloride, Dicaprylyl Ether, Cetrimonium Chloride, Panthenol, Lauryl Alcohol, Propylene Glycol, Dipropylene Glycol, Sodium Benzoate, Guar HydroxypropyltrimoniumChloride, PEG-90M, Limonene, Linalool, Trisodium Ethylenediamine Disuccinate, Silica, Calcium Carbonate, Benzyl Benzoate, Ananas Sativus Fruit Extract, Sodium Chloride, SodiumSulfate, Tocopherol, CI 19140
+- Mascarilla capilar bear fruits para un tratamiento capilar de hasta 30 minutos
+- Como una mascarilla facial pero para el pelo
+- Mascarillas capilares inspiradas en las rutinas de belleza coreanas
+- Aroma cítrico óptima y estimulante
 - Gorro de ducha ridículamente adorable
+- Tratamiento acondicionador intensivo
+- El extracto de piña desintoxica y revitaliza el pelo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JNW4PXR{{</world>}}

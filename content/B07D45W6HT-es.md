@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Productos para tu cuidado personal, para tu bienestar y para la higiene personal
 - Material de calidad
-- Colorete facial
 - Sencillo de aplicar
+- Colorete facial
+- Productos para tu cuidado personal, para tu bienestar y para la higiene personal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07D45W6HT{{</world>}}

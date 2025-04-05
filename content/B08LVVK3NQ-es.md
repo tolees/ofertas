@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento de valores min/máx; de las últimas 24 horas con función de funcionamiento automático
-- Sensor de gas infrarrojo no dispersivo (NDIR) con rango de medición de CO2 de hasta 5000 ppm
-- Función de calibración para CO2, temperatura y humedad
-- Memoria ROM integrada para proteger los ajustes
-- Recomendación de ventilación a base del contenido de CO2 en el aire
-- Sensor de calidad de aire para controlar la calidad del aire de la habitación
 - Indicador de temperatura interior e indicador de humedad interior
-- Indicador del extremo de la batería
-- Retroiluminación con niveles de brillo ajustables; fuente de alimentación: Funciona con batería
+- Almacenamiento de valores min/máx; de las últimas 24 horas con función de funcionamiento automático
+- Recomendación de ventilación a base del contenido de CO2 en el aire
 - Alertas ajustables para límite superior e inferior de temperatura y humedad
+- Indicador del extremo de la batería
+- Sensor de calidad de aire para controlar la calidad del aire de la habitación
+- Retroiluminación con niveles de brillo ajustables; fuente de alimentación: Funciona con batería
+- Sensor de gas infrarrojo no dispersivo (NDIR) con rango de medición de CO2 de hasta 5000 ppm
+- Memoria ROM integrada para proteger los ajustes
+- Función de calibración para CO2, temperatura y humedad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LVVK3NQ{{</world>}}

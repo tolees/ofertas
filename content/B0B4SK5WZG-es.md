@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AMD FreeSync: La tecnología AMD FreeSync permite la visualización fluida y constante de imágenes de juegos de calidad
 - Puertos: 1x HDMI 1.4, 1x DP 1.4
+- Relación de aspecto 16:9 y relación de contraste 1000:1
+- AMD FreeSync: La tecnología AMD FreeSync permite la visualización fluida y constante de imágenes de juegos de calidad
 - Pantalla de 27" con resolución QHD (2560x1440 pixeles), 250 nits, panel VA, antirreflejos
 - Tiempo de respuesta de 4ms y frecuencia de actualización de 60 Hz
-- Relación de aspecto 16:9 y relación de contraste 1000:1
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B4SK5WZG{{</world>}}

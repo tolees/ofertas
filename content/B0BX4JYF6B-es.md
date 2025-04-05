@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: Puma negro-puma blanco
-- Número de modelo: 523846
 - PUMA Camiseta sin mangas Fit Fashion Ultrabreathe
+- Número de modelo: 523846
+- Color: Puma negro-puma blanco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BX4JYF6B{{</world>}}

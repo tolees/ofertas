@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La base adecuado para look
-- Hecho con tela reciclada
 - Tela elástica
+- Hecho con tela reciclada
+- La base adecuado para look
 - Comodidad para el día a día
 - De secado rápido
 

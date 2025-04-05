@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha con cordón
-- Con forro de malla
-- Logotipo de hummel impreso en el pecho
 - Tejido de sudadera
 - Insignias en las mangas
+- Con forro de malla
+- Capucha con cordón
+- Logotipo de hummel impreso en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KS1P3Y8{{</world>}}

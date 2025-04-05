@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cobertura excepcional
 - Colores individuales en bote de plástico de 100 ml o botella de plástico de 750 ml con cierre antisecado
 - Cumple con la norma EN71, parte 8
-- Colores brillantes y resistentes a la luminosidad, con cierre antisecado
 - Secado rápido sobre papel, cartulina, madera y cristal
+- Colores brillantes y resistentes a la luminosidad, con cierre antisecado
+- Cobertura excepcional
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0002VLCIQ{{</world>}}

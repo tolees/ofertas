@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La única forma de conseguir a los personajes principales de Pokemon Generacion IX Escarlata y Violeta.
-- Figuras de 5 cm. de alto que incluyen todos los detalles.
 - Producto distribuido oficialmente en España por Bizak. Servicio de atención al cliente todo el año (sat@bizak.es)
 - Pack que incluye 2 figuras altamente detalladas de Pokemon, una de las cuales es Pikachu en diferentes poses de ataque y la otra es Quaxley, personaje principal de los juegos de Pokemon Generación IX.
+- La única forma de conseguir a los personajes principales de Pokemon Generacion IX Escarlata y Violeta.
+- Figuras de 5 cm. de alto que incluyen todos los detalles.
 - Coleccionalas todas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

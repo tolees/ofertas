@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello alto
 - Dos lados reversibles con diferentes estampados
-- Capucha acogedora para cubrirte de la lluvia y el viento
+- Cuello alto
 - Ajuste regular
+- Capucha acogedora para cubrirte de la lluvia y el viento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07LFGTY21{{</world>}}

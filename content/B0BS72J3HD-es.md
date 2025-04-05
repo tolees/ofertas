@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Logotipo en relieve
 - Cuello redondo
-- Ajuste clásico
 - Detalle acado en el cuello
+- Ajuste clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS72J3HD{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Caja de 46 mm, pulsera de 22 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica, importado
 - Caja redonda de acero inoxidable con esfera en color negro
-- Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
 - Correa de acero inoxidable en tono plateado
+- Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0192KDGJA{{</world>}}

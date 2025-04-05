@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Corte moderno
 - Libertad absoluta de movimiento
 - Alta calidad
-- Marca: Nike
 - Mayor comodidad de uso
+- Marca: Nike
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BRYG984V{{</world>}}

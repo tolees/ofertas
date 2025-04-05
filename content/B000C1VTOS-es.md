@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La botella es contemporáneamente simple pero abstracta con estilo
-- Continúa con las notas medias de flor del mandarín y naranja
 - Comienza con una mezcla aromática de rosa búlgara y freesia rojo
 - Dispone de las notas de fondo de vainilla y almizcle blanco
+- La botella es contemporáneamente simple pero abstracta con estilo
+- Continúa con las notas medias de flor del mandarín y naranja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000C1VTOS{{</world>}}

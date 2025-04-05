@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Para uso profesional y doméstico
 - Velocidad de ralentí 3.300 min-1
 - Consumo de energía 1600 vatios
-- Para uso profesional y doméstico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B005EQ2RRE{{</world>}}

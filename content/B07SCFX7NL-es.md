@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Regular fit
 - Elastic waistband
+- Regular fit
 - Breathable fabric
 
 [🛒 Visítala!!!]({{< param buyurl >}})

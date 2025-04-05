@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: cordones
-- Material exterior: malla
-- Suela: goma
 - Material interior: sintético
+- Material exterior: malla
+- Cierre: cordones
+- Suela: goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CXL1YFX{{</world>}}

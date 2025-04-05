@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sencillo de aplicar
-- Cantidad: 30 ml
-- Producto de maquillaje de la marca Max Factor
 - Material de calidad
+- Producto de maquillaje de la marca Max Factor
+- Cantidad: 30 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079L18WKN{{</world>}}

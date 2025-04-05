@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma y compuesto biológico
-- Diseño de bloques de color
-- Plantilla íble de poliuretano, poliuretano reciclado y goma termoplástica reciclada
 - Poliuretano y viscosa de base biológica
+- Plantilla íble de poliuretano, poliuretano reciclado y goma termoplástica reciclada
+- Diseño de bloques de color
+- Suela de goma y compuesto biológico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2HY1K9C{{</world>}}

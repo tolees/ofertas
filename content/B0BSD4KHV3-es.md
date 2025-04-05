@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No lavar, No usar lejía, No secar en la secadora, No planchar, No limpiar en seco
 - Gorra de tejido firme con parte elástica por detrás y forro de tela con desudador por dentro.
+- No lavar, No usar lejía, No secar en la secadora, No planchar, No limpiar en seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSD4KHV3{{</world>}}

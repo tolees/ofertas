@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fase 1’ 300l / min 2 rangos de temperatura conmutables a 350 ° C y Nivel 2 ‘500 l / min a 550 ° C
-- Pistola de aire caliente con 2000 watts
-- Inclusive gama de accesorios : 1 x boquilla terreno, 1 x boquilla de deflexión, boquilla ancha y 1 x 1 x Kantenschutzdüse
 - Dimensiones del producto 19 x 24.5 x 7 cm
+- Pistola de aire caliente con 2000 watts
+- Fase 1’ 300l / min 2 rangos de temperatura conmutables a 350 ° C y Nivel 2 ‘500 l / min a 550 ° C
+- Inclusive gama de accesorios : 1 x boquilla terreno, 1 x boquilla de deflexión, boquilla ancha y 1 x 1 x Kantenschutzdüse
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000B9RK9O{{</world>}}

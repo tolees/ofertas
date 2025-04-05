@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FRESCOR, COSQUILLEO Y DIVERSIÓN: Durex lubricante Frescor, Cosquilleo y Diversión
-- APTO PARA SEXO VAGINAL, ANAL Y ORAL: lubricante apto para sexo vaginal, anal y oral
 - ¿CÓMO USARLO?: abrir el tapón y apretar suavemente para aplicarlo
 - COMPATIBLE CON PRESERVATIVOS DE LÁTEX: únicamente compatible con preservativos de látex de caucho natural y poliisopreno
 - ALIVIAR LA SEQUEDAD VAGINAL: Destinado para aliviar la sequedad vaginal y las molestias íntimas
+- FRESCOR, COSQUILLEO Y DIVERSIÓN: Durex lubricante Frescor, Cosquilleo y Diversión
+- APTO PARA SEXO VAGINAL, ANAL Y ORAL: lubricante apto para sexo vaginal, anal y oral
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00RDFFBHW{{</world>}}

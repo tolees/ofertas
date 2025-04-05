@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Piel perfecta durante todo el día
 - Pasa de sólida a líquida al contacto con la piel
-- Fórmula con ácido hialurónico y SPF 30
 - Utiliza el Mastertouch concealer para conseguir una piel sin imperfecciones
 - Proporciona un suave acabado mate
+- Fórmula con ácido hialurónico y SPF 30
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JGSGXZW{{</world>}}

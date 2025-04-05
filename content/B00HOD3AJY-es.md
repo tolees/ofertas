@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 0088381654722
 - DHR243Z
+- 0088381654722
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00HOD3AJY{{</world>}}

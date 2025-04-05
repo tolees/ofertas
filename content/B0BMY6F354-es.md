@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HJC te ofrece su casco integral REPLICA de Moto GP RPHA 1 - BEN SPIES SILVERSTAR : Seguridad : En Matrix / PIM Plus, mezcla de fibras de Carbono y fibras de vidrio que ofrece una mejor resistencia al impacto y un peso ligero de 1500+/-50* Kit de emergencia, sistema de liberación rápida de almohadillas para las mejillas por parte del personal médico El cierre de barboquejo Double-D más seguro del mercado
 - Homologado ECE 22.06 y FIM Racing .
+- HJC te ofrece su casco integral REPLICA de Moto GP RPHA 1 - BEN SPIES SILVERSTAR : Seguridad : En Matrix / PIM Plus, mezcla de fibras de Carbono y fibras de vidrio que ofrece una mejor resistencia al impacto y un peso ligero de 1500+/-50* Kit de emergencia, sistema de liberación rápida de almohadillas para las mejillas por parte del personal médico El cierre de barboquejo Double-D más seguro del mercado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BMY6F354{{</world>}}

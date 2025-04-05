@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crea un peinado agradable al tacto y con movimiento
+- Fijación ligera
+- Combínalo con la gama de cuidados para el cabello, champús, acondicionadores y mascarillas de Sebastian Professionals
 - Laca para el cabello
 - Proporciona un control ligero
-- Combínalo con la gama de cuidados para el cabello, champús, acondicionadores y mascarillas de Sebastian Professionals
-- Fijación ligera
-- Todo tipo de cabello
+- Crea un peinado agradable al tacto y con movimiento
 - Spray cepillable de secado rápido
+- Todo tipo de cabello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01JPRYPGI{{</world>}}

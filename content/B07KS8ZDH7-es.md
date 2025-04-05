@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Logotipo impreso en el pecho
-- Mangas deportivas
 - Hummel es sinónimo de ropa deportiva escandinava de alta calidad y se caracteriza por diseños deportivos y rectos en looks extravanten con combinaciones de colores vibrantes
-- Cuello de botón
 - Polo de estilo clásico
+- Cuello de botón
+- Mangas deportivas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07KS8ZDH7{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela de goma para mayor durabilidad y tracción.
-- El empeine de ante y malla ofrece un ajuste cómodo y un aspecto deportivo.
 - Cierre con cordones ajustable para un ajuste personalizado.
+- El empeine de ante y malla ofrece un ajuste cómodo y un aspecto deportivo.
 - Diseño inspirado en las zapatillas de correr de los años 70, para un toque vintage y un estilo elegante.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

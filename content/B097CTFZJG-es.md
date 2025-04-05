@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómodo entrenador para correr
 - Tecnología Hyper Pilar
+- Cómodo entrenador para correr
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B097CTFZJG{{</world>}}

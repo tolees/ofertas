@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La protección efectiva contra accidentes con la corriente eléctrica
-- Apagado trenzado
-- Tensión nominal: 230 V
 - Corriente nominal: 16 A
+- Apagado trenzado
+- La protección efectiva contra accidentes con la corriente eléctrica
 - Tipo de corriente diferencial: Tipo A
+- Tensión nominal: 230 V
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N9NP1CV{{</world>}}

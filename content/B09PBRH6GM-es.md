@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Atención investigadores y detectives: con la ayuda de pistas, secretos, fórmulas matemáticas y rompecabezas, el objetivo es descubrir los secretos de Londres y sobrevivir a la misteriosa aventura
-- Incluye: 1 juego de escape de Aventuras en Londres, juguete educativo para niños a partir de 8 años de Clementoni, versión en alemán
 - Escape room para casa: sumergiros juntos en historias centenarias y aventuras para resolver los complicados rompecabezas y poder escapar, las cartas de acertijos y los objetos útiles os darán pistas
-- Diversión didáctica para grandes y pequeños: el juego sigue las tendencias actuales del Escape room y entusiasmará a adultos y niños por igual
 - Desafío fascinante: descubre los secretos paso a paso y déjate cautivar por el juego, entrena tu mente, el pensamiento en diferentes direcciones y las habilidades lógicas
+- Diversión didáctica para grandes y pequeños: el juego sigue las tendencias actuales del Escape room y entusiasmará a adultos y niños por igual
+- Incluye: 1 juego de escape de Aventuras en Londres, juguete educativo para niños a partir de 8 años de Clementoni, versión en alemán
+- Atención investigadores y detectives: con la ayuda de pistas, secretos, fórmulas matemáticas y rompecabezas, el objetivo es descubrir los secretos de Londres y sobrevivir a la misteriosa aventura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09PBRH6GM{{</world>}}

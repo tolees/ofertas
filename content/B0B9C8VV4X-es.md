@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 0
-- 0
-- 0
 - LG 27UP850N-W 27" UHD IPS HAS HDMI/DP/USB-C PD 90W
+- 0
+- 0
+- 0
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B9C8VV4X{{</world>}}

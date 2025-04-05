@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Supralit
 - Compatible con: 34239S..0 Inodoro monobloque de porcelana con salida horizontal; 342394..0 Inodoro monobloque de porcelana con salida vertical; 342395..0 Inodoro monobloque de porcelana con salida horizontal; 346303..S Inodoro suspendido de porcelana con salida horizontal; 344397..0 WC individual de pie con salida horizontal; 344398..0 Inodoro simple de pie con salida vertical
 - Caída amortiguada
-- Supralit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CGZSYGY{{</world>}}

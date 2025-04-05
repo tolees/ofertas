@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La pieza es ideal para días cálidos de verano
 - Máxima comodidad gracias al material de alta calidad y a su buen acabado
+- La pieza es ideal para días cálidos de verano
 - Perfecto para combinar con todos tus atuendos favoritos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

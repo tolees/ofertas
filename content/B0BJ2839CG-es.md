@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Toda la enfasis está en la unidad de suela exterior elevada
-- Elegante y listo para el invierno
 - A fashion take on the classic FILA boot
+- Elegante y listo para el invierno
+- Toda la enfasis está en la unidad de suela exterior elevada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJ2839CG{{</world>}}

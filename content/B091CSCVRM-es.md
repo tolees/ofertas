@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Inalámbrico y Fácil de Instalar】: No se necesitan cables ni habilidades profesionales. Monte fácilmente SEZAC luz solar exterior en la pared con tornillos o cinta de 3M que vienen con el paquete. Estas luces solares led exterior son ideales para decorar sus puertas exteriores, terrazas, entradas, cercas, porches, jardines y garajes.
+- 【Actualización de las SEZAC Luces Solares Led Exterior Jardin】: El paquete incluye 6 unidades. Equipado con 218 perlas de LED, 3 superficies de iluminación, 3 modo de trabajo inteligente y 270 ° de ángulo de iluminación amplio, las focos led exterior proporcionan un excelente brillo y cobertura para su área de jardín al aire libre.
 - 【Gran Capacidad de Almacenamiento de Energía】: SEZAC luz solar exterior incorporado batería recargable de iones de capacidad de la batería es más grande que otra focos led exterior al aire libre. Nuestra luz solar exterior puede durar más de 8 a 10 horas en la noche cuando está completamente cargada durante el día (absorbe suficiente luz solar). Ahorre en las facturas de energía y déjela sola después de la primera instalación.
 - 【Listo para Todo Clima】: Las luz solar exterior Sezac adoptan un diseño a prueba de agua IP65, hecho de material ABS de alta resistencia al impacto, estas luces solares led exterior pueden resistir todo tipo de climas terribles, como los días de lluvia, los días nublados, los días de nieve, etc.
 - 【3 modos de trabajo inteligentes】: estas focos led exterior diseñadas con 3 modos de trabajo, es decir, modo de iluminación tenue constante, modo de sensor de luz fuerte y modo de sensor de movimiento. Antes de instalar, puede elegir el modo de trabajo según sus necesidades.
 - 【Sensor PIR + Sensor nocturno CDS】: 2 sensores ayudan a que las focos led exterior detecten el movimiento de humanos / mascotas / automóviles de manera más nítida y rápida que otras luces solares. Una vez que detecta movimiento, las luces de movimiento solar se activarán, y se apaga automáticamente después de 15 s.
-- 【Actualización de las SEZAC Luces Solares Led Exterior Jardin】: El paquete incluye 6 unidades. Equipado con 218 perlas de LED, 3 superficies de iluminación, 3 modo de trabajo inteligente y 270 ° de ángulo de iluminación amplio, las focos led exterior proporcionan un excelente brillo y cobertura para su área de jardín al aire libre.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091CSCVRM{{</world>}}

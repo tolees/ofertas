@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Cordones elásticos y cierre ajustable
-- Mediasuela con amortiguación para una pisada cómoda
 - Forro sintético
+- Cordones elásticos y cierre ajustable
+- Horma clásica
+- Mediasuela con amortiguación para una pisada cómoda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPFX71N6{{</world>}}

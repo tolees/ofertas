@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DETECCIÓN DE ARRITMIAS: La detección automática de arritmias, le avisa de posibles arritmias cardíacas y la escala de colores, le ayuda a clasificar los valores de presión arterial
 - 4 MEMORIAS DE USUARIO: El tensiómetro dispone de 4 x 30 disposiciones de memoria, posibilitandole grabar y comparar sus lecturas, sin riesgo de confundir sus resultados con los de otros usuarios
 - COMPROBACIÓN DE AJUSTE: Para una mayor seguridad durante la medición y unos valores de tensión arterial fiables, la marca de verificación le avisa si el brazalete está demasiado suelto o apretado
 - BRAZALETE UNIVERSAL: El manguito se ajusta individualmente a la parte superior del brazo y cuenta con una circunferencia de 22 a 42 cm
 - FÁCIL LECTURA: Nuestro tensiómetro de brazo, le brinda una medición de la presión arterial y el pulso totalmente automática; la pantalla de fácil lectura permite una visión perfecta de los valores
+- DETECCIÓN DE ARRITMIAS: La detección automática de arritmias, le avisa de posibles arritmias cardíacas y la escala de colores, le ayuda a clasificar los valores de presión arterial
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01B4PKQL2{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: Tratamiento corporal
-- Alta calidad
 - Brand: Instituto Español
 - Género: Unisex Adulto
+- Alta calidad
+- Tipo de producto: Tratamiento corporal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00J8E6GH0{{</world>}}

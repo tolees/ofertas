@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cableguys: exquisita gama de figuras de apoyo altamente detalladas de los mundos de dc comics, disney, marvel o los videojuegos, diseñadas y fabricadas por un equipo de fanáticos y jugadores apasionados
-- Licencia : figura con licencia de lucasfilm que representa el icónico logotipo de star wars
-- Soporte: tu práctico asistente para mostrar y sujetar el mando (nintendo switch, playstation o xbox), el smartphone o el mando a distancia de forma atractiva
-- Carga: esta era de soportes de carga iluminados incluye un cable micro-usb de 1,2 m y 4 pies y 2 puertos de carga rápida para que puedas cargar tu mando o smartphone al mismo tiempo que lo ves o juegas
 - Hace algún tiempo, en una galaxia no muy lejana, se contó una historia que marcó los corazones y la imaginación de varias generaciones; los star wars ikon light iluminará tus mandos y smartphones como estrellas en el espacio
+- Licencia : figura con licencia de lucasfilm que representa el icónico logotipo de star wars
+- Cableguys: exquisita gama de figuras de apoyo altamente detalladas de los mundos de dc comics, disney, marvel o los videojuegos, diseñadas y fabricadas por un equipo de fanáticos y jugadores apasionados
+- Carga: esta era de soportes de carga iluminados incluye un cable micro-usb de 1,2 m y 4 pies y 2 puertos de carga rápida para que puedas cargar tu mando o smartphone al mismo tiempo que lo ves o juegas
+- Soporte: tu práctico asistente para mostrar y sujetar el mando (nintendo switch, playstation o xbox), el smartphone o el mando a distancia de forma atractiva
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09ZV8BLM5{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa EVA ajustable en anchura con cierre de velcro
 - En forma normal.
+- Correa EVA ajustable en anchura con cierre de velcro
 - Construcción deslizante; Correa con cierre de velcro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

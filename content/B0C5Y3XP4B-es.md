@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine de malla jacquard para mayor transpirabilidad
-- Amortiguación FF BLAST PLUS
 - Suela AHAR
+- Amortiguación FF BLAST PLUS
+- Empeine de malla jacquard para mayor transpirabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5Y3XP4B{{</world>}}

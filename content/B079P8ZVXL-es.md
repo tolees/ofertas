@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los humanos son muertos vivientes andantes; nosotros somos supervivientes
-- Hace tiempo que dejamos de ser humanos
-- Number of players: 2-5
 - Dead of Winter: Colonias en Guerra amplía tanto Dead of Winter como Dead of Winter: La Larga Noche
+- Los humanos son muertos vivientes andantes; nosotros somos supervivientes
+- Number of players: 2-5
+- Hace tiempo que dejamos de ser humanos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079P8ZVXL{{</world>}}

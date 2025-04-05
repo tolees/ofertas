@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - manual de instrucciones e ideas creativas
+- 3 pitt artist pen
 - 1 goma blanca y maniquí
 - PITT ARTIST PEN MANGA STARTER SET
-- 3 pitt artist pen
 - 1 lápiz grip
 
 [🛒 Visítala!!!]({{< param buyurl >}})

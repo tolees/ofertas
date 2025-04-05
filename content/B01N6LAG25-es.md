@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 7+
 - PS4
+- 7+
 - ESTRATEGIA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

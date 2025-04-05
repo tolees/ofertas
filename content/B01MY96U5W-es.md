@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bálsamo de labios para todo tipo de pieles
-- Ingredientes activos: manteca de cacao, aceite de canola, lanolina y vitamina E
-- Hidrata perfectamente, previene la sequedad y los labios agrietados, proporcionando a tus labios un delicado brillo
 - No tiene conservantes
+- Ingredientes activos: manteca de cacao, aceite de canola, lanolina y vitamina E
+- Bálsamo de labios para todo tipo de pieles
+- Hidrata perfectamente, previene la sequedad y los labios agrietados, proporcionando a tus labios un delicado brillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MY96U5W{{</world>}}

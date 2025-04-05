@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Contiene 30 ml.
 - De la marca Guy Laroche.
-- Las notas olfativas principales de este producto son especiado y cítrico.
 - Este producto está indicado para hSombras.
+- Las notas olfativas principales de este producto son especiado y cítrico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000VXRMBQ{{</world>}}

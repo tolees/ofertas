@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Accesorios Intercambiables - Accesorios para pelo y barba, 4 cabezales y 2 peines: cabezal grande para contornos, cortador de precisión para un corte apurado (0,2 mm), mini afeitadora de láminas, cabezal para nariz y orejas, 1 peine para el cabello y barbas muy largas (14-24 mm) y 1 peine especial para barbas muy cortas (0.5-12 mm)
 - Cuchillas de Acero Inoxidable - Cuchillas autoafilables y acabado antideslizante
-- Cabezales lavables - Para una limpieza fácil
-- Inalámbrico - Recargable, hasta 40 min de autonomía y tiempo de carga completa de 16 horas
 - Piloto Indicador - Base y piloto indicador de carga
+- Accesorios Intercambiables - Accesorios para pelo y barba, 4 cabezales y 2 peines: cabezal grande para contornos, cortador de precisión para un corte apurado (0,2 mm), mini afeitadora de láminas, cabezal para nariz y orejas, 1 peine para el cabello y barbas muy largas (14-24 mm) y 1 peine especial para barbas muy cortas (0.5-12 mm)
+- Inalámbrico - Recargable, hasta 40 min de autonomía y tiempo de carga completa de 16 horas
+- Cabezales lavables - Para una limpieza fácil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0076Z6PLA{{</world>}}

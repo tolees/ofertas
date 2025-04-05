@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello de pico acanalado
+- Estampado de G-Star RAW en el pecho
+- Manga corta
 - Etiqueta de G-Star RAW tejida en la costura lateral inferior
 - Bajo recto
-- Estampado de G-Star RAW en el pecho
-- Cuello de pico acanalado
-- Manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3Y4Y6RG{{</world>}}

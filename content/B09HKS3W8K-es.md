@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tecnología transpirable AEROREADY
 - Cintura elástica con cordón
 - Tejido técnico 100% poliéster reciclado
-- Tecnología transpirable AEROREADY
 - Corte clásico con cintura de talle medio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

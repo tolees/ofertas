@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Negro-Blanco
-- Tipo de fábrica: Poliéster
 - Equipacion deportiva
 - Camisetas equip; m/c
+- Tipo de fábrica: Poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07BZV3WLP{{</world>}}

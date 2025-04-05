@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dar vueltas
-- Billetera
 - Cartera
+- Billetera
+- Dar vueltas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BP2TXZ3F{{</world>}}

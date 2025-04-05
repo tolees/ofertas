@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tacón Plano
-- Tipo de cierre Cordones
 - Material principal Sintético
-- Altura Tacón Bajo (de 1 A 3 cm)
+- Tipo de cierre Cordones
+- Tipo de tacón Plano
 - Material de la suela De goma
+- Altura Tacón Bajo (de 1 A 3 cm)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTPXZ5F5{{</world>}}

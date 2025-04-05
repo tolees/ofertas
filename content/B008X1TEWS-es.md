@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 💕Sujetador deportivo de color negro.
-- 💕 Cierre de corchetes en la espalda.
 - 💕 Tejido transpirable con gran porcentaje de algodón.
-- 💕 Tirantes regulables.
 - 💕 Copa preformada sin aros.
+- 💕 Cierre de corchetes en la espalda.
+- 💕Sujetador deportivo de color negro.
+- 💕 Tirantes regulables.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008X1TEWS{{</world>}}

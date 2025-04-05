@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de EVA "adherente" de contacto con el suelo
-- Etiqueta con la marca PUMA en la parte superior
 - Bota baja
+- Suela de EVA "adherente" de contacto con el suelo
 - Parte superior de malla
+- Etiqueta con la marca PUMA en la parte superior
 - Logotipo de gato en la entresuela lateral
 
 [🛒 Visítala!!!]({{< param buyurl >}})

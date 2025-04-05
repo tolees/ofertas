@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sistema de soporte en el tobillo
+- Cordones Fast Lace y Bolsillo para cordones
 - Membrana impermeable ClimaPROTECT
 - Banda protectora fabricada en tejido antiabrasión
-- Cordones Fast Lace y Bolsillo para cordones
-- Sistema de soporte en el tobillo
 - Banda de rodadura con inserciones de TPR para mejor grip
 
 [🛒 Aquí!!!]({{< param buyurl >}})

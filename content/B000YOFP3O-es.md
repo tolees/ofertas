@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Posee aceite de sésamo y extractos de caléndula BIO que calman, alivian, nutren y previenen la sequedad cutánea
-- Esta leche corporal se encarga de favorecer las funciones protectoras naturales de la piel del bebé
 - Después del baño, aplicar la leche corporal por todo el cuerpo del bebé dando un suave masaje hasta su total absorción
 - Es de textura ligera y rápida absorción, por lo que penetra fácilmente sin dejar una capa aceitosa
+- Esta leche corporal se encarga de favorecer las funciones protectoras naturales de la piel del bebé
+- Posee aceite de sésamo y extractos de caléndula BIO que calman, alivian, nutren y previenen la sequedad cutánea
 - Suave leche corporal 100% natural que hidrata, nutre, suaviza y calma la delicada piel del bebé
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Camiseta
 - Cuello redondo
 - Logo Gant
-- Camiseta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HMTH299{{</world>}}

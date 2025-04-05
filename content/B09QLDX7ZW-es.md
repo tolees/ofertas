@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nos asociamos con Better Cotton Initiative para el cultivo algodonero
 - Corte Slim
+- Nos asociamos con Better Cotton Initiative para el cultivo algodonero
 - Hecho con al menos un 70% de algodón sostenible
 
 [🛒 Visítala!!!]({{< param buyurl >}})

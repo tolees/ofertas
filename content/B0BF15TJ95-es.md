@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido termorregulador en ambas caras, por lo que podemos descansar en la que prefiramos, sin importar en qué época del año estamos. Lateral del colchón con banda de tejido con un atractivo diseño, muy transpirable, aportando mayor aireación al colchón
-- Producto de confianza: Fabricado de forma sostenible en españa, con certificados oeko-tex y certipur de ausencia de sustancias nocivas durante todo su proceso de elaboración; la seguridad y bienestar de los tuyos son lo primero. Altura total 21cm (+/-)
-- Firmeza media-alta: Colchón firme pero confortable, mantiene la columna en su posición más óptima, con la dureza óptima para un buen descanso, mucho más transpirable que los colchones de espuma convencional
 - 7 Capas de confort. Núcleo de espuma eco sostenible ECO FOAM con gran densidad (35kg/m3) y alta recuperación, junto a su exclusivo acolchado compuesto por 2cm de viscoelástica + fibras hipoalergénicas + espuma súper suave en ambas caras. Colchón, elaborado con materiales 100% transpirables
+- Firmeza media-alta: Colchón firme pero confortable, mantiene la columna en su posición más óptima, con la dureza óptima para un buen descanso, mucho más transpirable que los colchones de espuma convencional
+- Producto de confianza: Fabricado de forma sostenible en españa, con certificados oeko-tex y certipur de ausencia de sustancias nocivas durante todo su proceso de elaboración; la seguridad y bienestar de los tuyos son lo primero. Altura total 21cm (+/-)
+- Tejido termorregulador en ambas caras, por lo que podemos descansar en la que prefiramos, sin importar en qué época del año estamos. Lateral del colchón con banda de tejido con un atractivo diseño, muy transpirable, aportando mayor aireación al colchón
 - Colchón con tratamiento Aloe Vera en el tejido y totalmente protegido de ácaros, bacterias y hongos, gracias al tratamiento Sanitized que incorpora en ambas caras, evitando la aparición de reacciones alérgicas y aportando un tacto suave y sedoso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Formulado para ser rico y cremoso con un acabado de terciopelo
 - Perfecto para combinar con nuestros Satin Kiss Lipliners
-- Icono – desnudo en tonos naranjas
 - Vegano y libre de crueldad
+- Icono – desnudo en tonos naranjas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B087S8LC5M{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Decórate como quieras con las plantillas de formas, las cintas y pegatinas adhesivas de diferentes tamaños, gafas, etc. ... que lleva incluido el set
-- Coloca la luz LED con forma de estrella en la cámara del dispositivo que uses: móvil, Tablet u ordenador, para que comience a reflectar en la oscuridad los accesorios que has usado
 - Te sentirás todo un influencer y creador de contenido con este kit para usar en vídeos y fotos de Instagram, TikTok y YouTube
+- Decórate como quieras con las plantillas de formas, las cintas y pegatinas adhesivas de diferentes tamaños, gafas, etc. ... que lleva incluido el set
 - Además, contiene un mando con el que puedes cambiar la luz ¡hay hasta 15 colores diferentes! (Incluye un cable de carga)
+- Coloca la luz LED con forma de estrella en la cámara del dispositivo que uses: móvil, Tablet u ordenador, para que comience a reflectar en la oscuridad los accesorios que has usado
 - Paquete de accesorios de material reflectante para crear y customizar objetos, ropa y pelo; y hacer que brillen en la oscuridad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

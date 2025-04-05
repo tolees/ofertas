@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Llavero
-- Compartimento principal con cremallera
-- Anillo D
 - Mono robot de metal
+- Anillo D
+- Llavero
 - Logotipo redondo de Kipling
+- Compartimento principal con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CBWNZ4FK{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 30-200 °C de temperatura en incrementos de 5 °C; cable de 90 cm.
 - El indicador para añadir alimentos le ayuda a establecer tiempos de cocción distintos para cada compartimento: el ciclo detendrá la cocción en el primer compartimento en el momento oportuno y le indicará que añada comida en el segundo antes de continuar con la cocción hasta completarla; 8 programas preconfigurados: patatas fritas, pescado, huevos, pollo, horneado, filete, deshidratado, verduras
-- Los cestos antiadherentes y las bandejas para un acabado crujiente son aptos para el lavavajillas; 4,25 l por cesto: 8,5 L si se usan juntos
 - Alarma opcional para remover o voltear la comida cuando sea necesario; visor táctil digital con LED blanco
-- Los cestos regulables se usan por separado para cocinar dos platos distintos al mismo tiempo; Los tiempos de cocción se pueden sincronizar para que las cocciones de ambos cestos acaben a la vez aunque tengan distinta duración
+- Los cestos antiadherentes y las bandejas para un acabado crujiente son aptos para el lavavajillas; 4,25 l por cesto: 8,5 L si se usan juntos
 - Tamaño compacto de solo 32,2 cm manteniendo una máxima capacidad.
+- Los cestos regulables se usan por separado para cocinar dos platos distintos al mismo tiempo; Los tiempos de cocción se pueden sincronizar para que las cocciones de ambos cestos acaben a la vez aunque tengan distinta duración
+- 30-200 °C de temperatura en incrementos de 5 °C; cable de 90 cm.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZDYB46Q{{</world>}}

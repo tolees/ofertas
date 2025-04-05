@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sensación: sensual, adictiva, inolvidable
 - Aromas: acorde de Orquídea flambé
+- Sensación: sensual, adictiva, inolvidable
 - Esencia de brotes de grosella y guayaba
 
 [🛒 Visítala!!!]({{< param buyurl >}})

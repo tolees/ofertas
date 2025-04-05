@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido DryVent de dos capas, impermeable, transpirable y con todas las costuras selladas
 - Malla: forro del cuerpo en tejido tafetán
-- Dos bolsillos para las manos cubiertos con cierre de cremallera seguro
 - Forro del protector de la barbilla y del cuello en tejido de punto cepillado
+- Dos bolsillos para las manos cubiertos con cierre de cremallera seguro
+- Tejido DryVent de dos capas, impermeable, transpirable y con todas las costuras selladas
 - Cremallera oculta bajo la tapeta con cierre de Velcro en la parte central delantera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

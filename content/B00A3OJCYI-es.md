@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Chaqueta versátil, impermeable y cortavientos
+- Dobladillo ajustable con cordón
 - Bolsillos con cremallera
 - Costuras totalmente selladas
-- Dobladillo ajustable con cordón
-- Chaqueta versátil, impermeable y cortavientos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00A3OJCYI{{</world>}}

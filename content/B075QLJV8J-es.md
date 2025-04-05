@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste óptimo gracias a su parte trasera elástica
-- Gorra unisex impermeable para cualquier condición meteorológica
 - Alta visibilidad gracias a los elementos reflectantes en los laterales y frente
 - Tecnología GORE-TEX Active: Impermeable, cortaviento y extremadamente transpirable
+- Ajuste óptimo gracias a su parte trasera elástica
+- Gorra unisex impermeable para cualquier condición meteorológica
 - GORE M GORE-TEX Gorra, Talla: única, Color: negro, 100002
 
 [🛒 Aquí!!!]({{< param buyurl >}})

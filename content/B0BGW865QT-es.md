@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños y dobladillo inferior acanalados
 - Eso significa que si uno establece un objetivo, ayudaremos a aplastarlo
+- Puños y dobladillo inferior acanalados
 - Productos de excelente calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Apto tanto para nuevos jugadores como para jugadores veteranos
 - Cada mazo es único, no existen dos copias iguales en el mundo
 - Con una compra mínima puedes jugar competitivamente.
 - Richard Garfield: Un nombre, una garantía
-- Apto tanto para nuevos jugadores como para jugadores veteranos
 - Más rápido y dinámico que otros juegos de cartas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

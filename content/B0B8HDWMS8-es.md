@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre: Sin Cordones
-- Material exterior: Lana
 - Material de la suela: Caucho
+- Material exterior: Lana
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B8HDWMS8{{</world>}}

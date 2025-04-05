@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Referencia OEM: 410605612R
-- Pastillas de freno de marca Brembo
 - Artículo P68059
+- Pastillas de freno de marca Brembo
+- Referencia OEM: 410605612R
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B016A64MKQ{{</world>}}

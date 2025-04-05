@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Entrez dans une peinture vivante au fil dune narration captivante et chargée démotion, la partition musicale exceptionnelle et originale de Hoa donne vie à un monde envoutant
-- HOA est un magnifique jeu de plateforme/puzzle qui propose des illustrations peintes à la main à couper le souffle, une musique envoûtante et une atmosphère paisible et relaxante
-- Naviguez avec votre il vif et résolvez des énigmes basées sur lexploration. Détendez-vous au rythme organique de la narration subtile, soyez captivé par les merveilles qui soffrent à vous
-- Gardez un il sur les délicieuses créatures magiques en cours de route. La plupart dentre elles veulent devenir vos amis, certaines pourraient même vous raconter une ou deux petites histoires.
 - Découvrez la magie de la nature et de limagination en jouant le personnage principal, Hoa, lors de son voyage à travers des environnements spectaculaires, là où tout a commencé.
+- Gardez un il sur les délicieuses créatures magiques en cours de route. La plupart dentre elles veulent devenir vos amis, certaines pourraient même vous raconter une ou deux petites histoires.
+- Naviguez avec votre il vif et résolvez des énigmes basées sur lexploration. Détendez-vous au rythme organique de la narration subtile, soyez captivé par les merveilles qui soffrent à vous
+- HOA est un magnifique jeu de plateforme/puzzle qui propose des illustrations peintes à la main à couper le souffle, une musique envoûtante et une atmosphère paisible et relaxante
+- Entrez dans une peinture vivante au fil dune narration captivante et chargée démotion, la partition musicale exceptionnelle et originale de Hoa donne vie à un monde envoutant
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NQP319Z{{</world>}}

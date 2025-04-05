@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PANTALÓN CHINO DE COLOR CAQUI: Estos clásicos pantalones chinos de color caqui están confeccionados en un ligero tejido lavado y se convertirán en un básico de tu armario. Una prenda muy versátil, que puedes ponerte a diario o para conseguir un outfit arreglado pero informal para ir a trabajar.
-- AJUSTE CEÑIDO: Entallado en la cadera y el muslo, con pierna ajustada. Queda por debajo de la cintura.
 - DETALLES: Presenta bragueta con cremallera y cierre de botón, bolsillos delanteros oblicuos, pequeño bolsillo en la cintura y bolsillos traseros clásicos de ojal con botón.
+- AJUSTE CEÑIDO: Entallado en la cadera y el muslo, con pierna ajustada. Queda por debajo de la cintura.
 - ABERTURA DE LA PIERNA: La talla 42 mide 19 cm.
+- PANTALÓN CHINO DE COLOR CAQUI: Estos clásicos pantalones chinos de color caqui están confeccionados en un ligero tejido lavado y se convertirán en un básico de tu armario. Una prenda muy versátil, que puedes ponerte a diario o para conseguir un outfit arreglado pero informal para ir a trabajar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BJKR389{{</world>}}

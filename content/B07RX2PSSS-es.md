@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Dri-fit Technology
-- Medium Support
 - Tipo de fábrica: 88% Polyester (Chemically Recycled) 12% Elastane
+- Medium Support
 - Crossover design of the straps
 
 [🛒 Visítala!!!]({{< param buyurl >}})

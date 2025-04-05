@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuenta con un diseño ligero para una óptima comodidad
 - Tiene cintura de talle medio
+- Cuenta con un diseño ligero para una óptima comodidad
 - Tiene detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

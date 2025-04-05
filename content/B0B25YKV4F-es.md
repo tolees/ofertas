@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pernera: Slim, diseño ceñido. El equilibrio perfecto entre Straight y Skinny Fit
-- Largo: normal
 - Cierre: con botones y cremallera
-- Nota: la prenda posee un corte más entallado y queda un poco más ajustada.
-- Slim jeans de tejido elástico con efectos deslavados.
 - Lavar en ciclo de lavado normal a 40°, No usar lejía, Secar en la secadora a temperatura baja, Planchar a un máx. 150° (Nivel 2), Limpieza en seco con percloroetileno
+- Pernera: Slim, diseño ceñido. El equilibrio perfecto entre Straight y Skinny Fit
+- Nota: la prenda posee un corte más entallado y queda un poco más ajustada.
+- Largo: normal
+- Slim jeans de tejido elástico con efectos deslavados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B25YKV4F{{</world>}}

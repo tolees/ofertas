@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La placa de refrigeración de cobre niquelado mecanizado con precisión y las más de 70 microaletas altamente eficientes del XC9 alejan eficazmente el calor de su procesador, reduciendo la temperatura y permitiendo obtener las máximas frecuencias de reloj.
-- Incluye adaptador para placa base ARGB de 5 V para controlar la iluminación mediante una placa base compatible
 - Fácil instalación en los enchufes Intel LGA 2066 o AMD STRX4 gracias a los tornillos de montaje preinstalados y al material térmico preaplicado
 - El acabado de aluminio esmerilado premium y la cámara de circulación del flujo transparente combinan con todos los sistemas de vanguardia y resaltan tu líquido de refrigeración
+- Incluye adaptador para placa base ARGB de 5 V para controlar la iluminación mediante una placa base compatible
 - 16 LED RGB configurables individualmente proporcionan reflejos efectos de iluminación RGB de 360°. Añade un controlador CORSAIR iCUE (se vende por separado) y el potente software CORSAIR iCUE para personalizar y sincronizar la iluminación RGB de todos tus productos compatibles iCUE, incluidos waterblocks, ventiladores, teclado y mucho más
+- La placa de refrigeración de cobre niquelado mecanizado con precisión y las más de 70 microaletas altamente eficientes del XC9 alejan eficazmente el calor de su procesador, reduciendo la temperatura y permitiendo obtener las máximas frecuencias de reloj.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08HSPYZ4X{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo casual y deportivo
 - Tejido transpirable
+- Estilo casual y deportivo
 - Zapatillas de la marca Asics
 
 [🛒 Visítala!!!]({{< param buyurl >}})

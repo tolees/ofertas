@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DETALLES: Presenta clásicos bolsillos delanteros y traseros con un quinto bolsillo para tees, marcadores o monedas.
 - PRACTICA GOLF CON ESTILO: Diseñados para ofrecer un rendimiento y una comodidad óptimos durante todo el día dentro o fuera del campo. La cintura del pantalón garantiza que la camiseta quede bien remetida por dentro y no se salga.
+- DETALLES: Presenta clásicos bolsillos delanteros y traseros con un quinto bolsillo para tees, marcadores o monedas.
 - ABERTURA DE LA PIERNA: La talla 42 mide 20,3 cm.
 - AJUSTE RECTO: Con ligera holgura en la cadera y el muslo, y la pierna recta. Queda por la cintura.
 - TEJIDO PERFORMANCE: Entrena con confianza con estos ligeros pantalones de golf confeccionados en un tejido que absorbe la humedad, además de ser ligeramente elástico y antiarrugas.

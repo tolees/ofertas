@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- pantalones cortos deportivos
 - Cintura elástica
 - corte normal
-- pantalones cortos deportivos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQWZM2V7{{</world>}}

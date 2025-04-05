@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela De goma
-- Tipo de cierre Cordones
 - Material principal Sintético
-- Tipo de tacón Plano
+- Tipo de cierre Cordones
+- Material de la suela De goma
 - Altura Tacón Medio (de 3 A 5 cm)
+- Tipo de tacón Plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTPV2H43{{</world>}}

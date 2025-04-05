@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Largo de manga: larga
-- Lavar en ciclo de lavado suave a 40°, No usar lejía, Secar en la secadora a temperatura baja, No planchar, No limpiar en seco
 - Nota: Tiene un corte holgado. Recomendamos pedir una talla menos (p. ej., 38 en vez de 40)
+- Lavar en ciclo de lavado suave a 40°, No usar lejía, Secar en la secadora a temperatura baja, No planchar, No limpiar en seco
 - Cierre: con cremallera
 - Chaqueta acolchada muy ligera de tejido liso. Capucha, dos bolsillos al bies y forro fino.
+- Largo de manga: larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C98YT7ZY{{</world>}}

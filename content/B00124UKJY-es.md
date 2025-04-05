@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puede deslizar 140 mm hacia adelante y 90 mm hacia atrás, por lo que el control deslizante del asiento tiene un alcance de 230 mm. No tiene que abandonar la silla para ajustar su posición.
-- Botones en el lateral para deslizar y bloquear
 - Entrar y salir del asiento de carreras Playseat es más fácil cuando se crea más espacio deslizando hacia atrás.
+- Botones en el lateral para deslizar y bloquear
+- Puede deslizar 140 mm hacia adelante y 90 mm hacia atrás, por lo que el control deslizante del asiento tiene un alcance de 230 mm. No tiene que abandonar la silla para ajustar su posición.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00124UKJY{{</world>}}

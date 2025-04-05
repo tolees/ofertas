@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cabezal de tipo torx
-- Mango en forma de pera
 - Marca: Stanley
 - Hechos de acero al cromo vanadio
+- Cabezal de tipo torx
+- Mango en forma de pera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B002V4Y8CO{{</world>}}

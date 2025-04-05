@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Brand: Polaroid
-- Protective Case Included
-- Calibre: 47 Millimeters
-- Model: Polaroid Pld 2086/s 003/C3 MATT BLACK 47
 - Colour: 003/C3 MATT BLACK
+- Protective Case Included
+- Model: Polaroid Pld 2086/s 003/C3 MATT BLACK 47
+- Calibre: 47 Millimeters
+- Brand: Polaroid
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07XQ9GSRZ{{</world>}}

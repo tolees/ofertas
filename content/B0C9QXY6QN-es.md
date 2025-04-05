@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cómoda de llevar
-- Camiseta de manga corta para hombre
 - Material de calidad
+- Camiseta de manga corta para hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9QXY6QN{{</world>}}

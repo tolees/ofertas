@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se puede utilizar con prioridad de apertura y ajuste manual de la exposición
-- Teleobjetivo adecuado para cámaras Sigma
 - Con la ayuda del soporte de montaje de trípode estable la lente se puede fijar a un trípode en un punto de equilibrio ideal
-- Incluye bolsa de almacenamiento y tapa de lente
 - Con conexión a T2, apto para la fotografía de animales
+- Incluye bolsa de almacenamiento y tapa de lente
+- Teleobjetivo adecuado para cámaras Sigma
+- Se puede utilizar con prioridad de apertura y ajuste manual de la exposición
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B003Y3LYN2{{</world>}}

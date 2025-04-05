@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PH FISIOLÓGICO: tiene pH fisiológico, está dermatológicamente testado y no contiene fragancias artificiales ni colorantes.
-- FÁCIL DE USAR: abrir el tapón y apretar suavemente para aplicarlo
-- APTO PARA SEXO VAGINAL, ANAL Y ORAL: lubricante apto para sexo vaginal, anal y oral
 - INGREDIENTES 100% NATURALES: lubricante hidratante de larga duración elaborado con ingredientes 100% naturales
+- PH FISIOLÓGICO: tiene pH fisiológico, está dermatológicamente testado y no contiene fragancias artificiales ni colorantes.
+- APTO PARA SEXO VAGINAL, ANAL Y ORAL: lubricante apto para sexo vaginal, anal y oral
+- FÁCIL DE USAR: abrir el tapón y apretar suavemente para aplicarlo
 - ÁCIDO HIALURÓNICO: lubricante elaborado con ácido hialurónico natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})

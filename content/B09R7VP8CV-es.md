@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Botas confortables
-- Para todo tipo de ocasiones
-- Glamurosas y cómodas
 - Botas Gioseppo
+- Botas confortables
+- Glamurosas y cómodas
+- Para todo tipo de ocasiones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09R7VP8CV{{</world>}}

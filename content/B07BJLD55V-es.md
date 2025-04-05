@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PANTALÓN DE DORMIR BÁSICO: El pantalón de dormir perfecto para descansar y relajarse, que se puede utilizar tanto para dormir como para estar por casa. Combina este producto con unas zapatillas de casa de Amazon Essentials para hombre y mantén tus pies cómodos y calentitos.
 - TIRO DEL PANTALÓN: La talla M mide 77,5 cm.
+- PANTALÓN DE DORMIR BÁSICO: El pantalón de dormir perfecto para descansar y relajarse, que se puede utilizar tanto para dormir como para estar por casa. Combina este producto con unas zapatillas de casa de Amazon Essentials para hombre y mantén tus pies cómodos y calentitos.
 - AJUSTE HOLGADO: Nuestros pantalones más amplios, holgados en la cadera, el muslo y la pierna para mayor comodidad al dormir. Queda por debajo de la cintura.
 - DETALLES: Presenta cintura elástica con cordón para ofrecerte mayor comodidad y confort. Cierre con bragueta de botones y bolsillos laterales para guardar pequeños objetos.
 

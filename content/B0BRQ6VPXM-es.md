@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo minimalista impreso en el pecho
-- Ajuste regular
 - Capucha acogedora para óptimo cobertura
 - Puños ajustados para un ajuste cómodo
+- Ajuste regular
+- Logotipo minimalista impreso en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRQ6VPXM{{</world>}}

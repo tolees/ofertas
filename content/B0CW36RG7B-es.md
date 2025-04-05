@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No contiene gluten, apto para dietas VEGANAS y vegetarianas. Libre de alérgenos y GMO free, libre de organismos genéticamente modificados.
-- Alternativa SIN ALCOHOL que proporciona todo el intenso aroma y sabor a fresas naturales, enebro y toques de regaliz capturando así la esencia de Gin Puerto de Indias Strawberry.
 - DISFRUTA de Puerto de Indias Strawberry 0,0% sin Alcohol como tu Puerto Fresa de siempre. Coloca en una copa con mucho hielo, 50ml de Puerto de Indias Strawberry 0.0% con tu refresco de lima-limón o tónica y decora con unas rodajas de fresas naturales.
-- Puerto de Indias Strawberry 0.0% es una bebida SIN ALCOHOL elaborada con la misma base de FRESAS NATURALES, enebro y botánicos que se utilizan en la producción de Gin Puerto de Indias Strawberry.
 - Puerto de Indias Strawberry 0.0% sin Alcohol NO tiene AZUCARES AÑADIDOS.
+- No contiene gluten, apto para dietas VEGANAS y vegetarianas. Libre de alérgenos y GMO free, libre de organismos genéticamente modificados.
+- Puerto de Indias Strawberry 0.0% es una bebida SIN ALCOHOL elaborada con la misma base de FRESAS NATURALES, enebro y botánicos que se utilizan en la producción de Gin Puerto de Indias Strawberry.
+- Alternativa SIN ALCOHOL que proporciona todo el intenso aroma y sabor a fresas naturales, enebro y toques de regaliz capturando así la esencia de Gin Puerto de Indias Strawberry.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CW36RG7B{{</world>}}

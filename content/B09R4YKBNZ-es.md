@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ciclo día y noche que tiene afecto en el mundo con eventos climáticos
+- Más de 300 misiones para hacer de Mara un lugar mejor
 - Más de 25 personajes a los que conocer y ayudar
 - Un océano abierto con más de 20 islas que explorar.
+- Ciclo día y noche que tiene afecto en el mundo con eventos climáticos
 - Personaliza tu isla con edificios, campos de cultivo y animales de granja.
-- Más de 300 misiones para hacer de Mara un lugar mejor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09R4YKBNZ{{</world>}}

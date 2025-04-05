@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca Calvin Klein en el pecho
 - Cuello redondo
 - Jersey de algodón
+- Marca Calvin Klein en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTDX31Y3{{</world>}}

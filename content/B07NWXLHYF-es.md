@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido: Microfibra 95% Poliéster; 5% Elastán
-- Pantalón corto de trail
 - Ajuste doble: elástico y cordón
-- Multibolsillos en la cintura
+- Pantalón corto de trail
 - Logotipo serigrafiado reflectante
+- Tejido: Microfibra 95% Poliéster; 5% Elastán
+- Multibolsillos en la cintura
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NWXLHYF{{</world>}}

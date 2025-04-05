@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fabricado en Suiza
-- Ahorro de tiempo: el sistema de enganche Starlock permite un cambio rápido de la hoja en solo tres segundos y sin tocarla
-- Más duraderas: La tecnología con carburo proporciona a las hojas de sierra una vida útil 30 veces superior
-- Resultados óptimos: el robusto sistema de enganche Starlock reduce la vibración lateral y permite realizar cortes sin astillas
-- Uso universal: apto para todas las herramientas eléctricas de los tipos Starlock, Starlock Plus y Starlock Max, así como para todas las multiherramientas de uso corriente
 - Contenido: 1 hoja para corte de inmersión en madera dura (BIM Hard Wood AIZ 32 BSPB), 1 hoja para corte de inmersión en madera y metal (BIM Wood and Metal AIZ 32 APB), 1 hoja de sierra segmentada para madera y metal (BIM Wood and Metal ACZ 85 EB), 1 hoja para corte de inmersión en metal con carburo (Metal AIZ 32 AT), 1 hoja para corte de inmersión en madera y metal (BIM Wood and Metal AII 65 APB)
+- Uso universal: apto para todas las herramientas eléctricas de los tipos Starlock, Starlock Plus y Starlock Max, así como para todas las multiherramientas de uso corriente
+- Ahorro de tiempo: el sistema de enganche Starlock permite un cambio rápido de la hoja en solo tres segundos y sin tocarla
+- Resultados óptimos: el robusto sistema de enganche Starlock reduce la vibración lateral y permite realizar cortes sin astillas
+- Más duraderas: La tecnología con carburo proporciona a las hojas de sierra una vida útil 30 veces superior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N6Y1CBC{{</world>}}

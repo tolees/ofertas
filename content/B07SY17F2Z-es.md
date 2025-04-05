@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formulado con ingredientes activos que actúan en sinergia para una hidratación duradera.
 - Tiene una textura de gel acuoso fresco que se absorbe rápidamente.
-- Matifica, ilumina y refresca.
+- Formulado con ingredientes activos que actúan en sinergia para una hidratación duradera.
 - Ideal para pieles sensibles y deshidratadas.
+- Matifica, ilumina y refresca.
 - Cuidado 3 en 1: hidrata, suaviza y desintoxica.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

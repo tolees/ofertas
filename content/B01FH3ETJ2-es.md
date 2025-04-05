@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cable de alimentación largo 1,5 metros con Schuko, cable: H05VV-F 3 G 1.0 mm2
-- 2 puertos de carga USB (2,1 a) para cargar incluso más dispositivos en el mismo tiempo, como smartphone, tableta, auriculares Bluetooth, altavoces Bluetooth
 - 5 enchufes schuko de eléctricas disponen de agujeros con protección para niños, para alimentar ordenadores, televisores, monitores, lámparas, estéreo para la casa o la oficina
+- 2 puertos de carga USB (2,1 a) para cargar incluso más dispositivos en el mismo tiempo, como smartphone, tableta, auriculares Bluetooth, altavoces Bluetooth
+- Cable de alimentación largo 1,5 metros con Schuko, cable: H05VV-F 3 G 1.0 mm2
 - Completa de interruptor luminoso y dispone de orificios para la fijación a pared/pared/mesa
 - Garantía de 2 años EWENT en el producto
 

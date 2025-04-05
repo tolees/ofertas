@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Utilisez des alter explosifs avec vos personnages préférés
 - Revivez les scènes les plus iconiques de l’anime
-- Construisez votre équipe ultime avec les tout nouveaux personnages jouables
 - Basé sur l’anime à succès my hero academia, le jeu inclut les personnages favoris des fans tel que deku, all might et shigaraki
+- Construisez votre équipe ultime avec les tout nouveaux personnages jouables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082T7RXL1{{</world>}}

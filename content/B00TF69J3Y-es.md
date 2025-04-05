@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resistente al calor: apto para microondas
 - 2 vasos ligeros con doble pared de vidrio borosilicatado para servir café expreso u otro tipo de bebida, capacidad de 80 ml
-- Limpieza fácil: apto para lavavajillas
+- Resistente al calor: apto para microondas
 - Café caliente durante más tiempo, no quema las manos gracias a la doble pared aislante
+- Limpieza fácil: apto para lavavajillas
 - Contenido: 2 vasos de expreso melitta, pour over, dimensiones (anxalxp): 13,7 x 9,2 x 7 cm, peso: 169 g
 
 [🛒 Aquí!!!]({{< param buyurl >}})

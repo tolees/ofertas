@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Regalo Mr.Wonderful
 - Cuidados: apta para microondas y lavavajillas.
-- Capacidad: 33 cl.
+- Regalo Mr.Wonderful
 - Taza de cerámica con mensaje dirigido a padres.
+- Capacidad: 33 cl.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BTZ7QYQG{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punto 70% poliéster reciclado / 30% algodón
-- Corte ajustado
-- Cuello redondo
 - AEROREADY
+- Corte ajustado
 - Rinde al máximo
+- Cuello redondo
+- Punto 70% poliéster reciclado / 30% algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQWWG5GN{{</world>}}

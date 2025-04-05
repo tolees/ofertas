@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Casco met rivale mips negro mate brillo t.m 56-58
-- Diseno funcional
-- Alta calidad
 - Brand: MET
+- Casco met rivale mips negro mate brillo t.m 56-58
+- Alta calidad
+- Diseno funcional
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HJXSL1H{{</world>}}

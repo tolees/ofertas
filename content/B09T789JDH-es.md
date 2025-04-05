@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% poliéster tricot dull
-- Chándal compuesto por chaqueta y pantalón
-- Chaqueta de cuello alto con rib en las mangas y el bajo
-- Pantalón largo con rib en los bajos y cintura elástica ajustable mediante cordón interior plano
 - Bolsillos laterales sin cremallera
+- 100% poliéster tricot dull
+- Chaqueta de cuello alto con rib en las mangas y el bajo
+- Chándal compuesto por chaqueta y pantalón
+- Pantalón largo con rib en los bajos y cintura elástica ajustable mediante cordón interior plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09T789JDH{{</world>}}

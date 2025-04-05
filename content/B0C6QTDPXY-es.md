@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Más de 50 eventos aleatorios que presentan escenarios de riesgo-recompensa
 - Ocho clases de personajes, cada una equipada con habilidades únicas predeterminadas y especiales.
 - La progresión roguelite significa que no habrá dos carreras iguales, pero podrás mejorar permanentemente estadísticas como el tamaño del grupo y la velocidad de acumulación de recursos, lo que significa que cada carrera te acercará más a tu objetivo.
-- Más de 50 eventos aleatorios que presentan escenarios de riesgo-recompensa
-- Una docena de enemigos, desde el arquetípico zombi hasta mortíferos asaltantes, pasando por monstruosidades explosivas y dos combates contra jefes sorprendentemente brutales.
 - Preciosas animaciones dibujadas a mano que dan vida a la peculiar visión del post apocalipsis.
+- Una docena de enemigos, desde el arquetípico zombi hasta mortíferos asaltantes, pasando por monstruosidades explosivas y dos combates contra jefes sorprendentemente brutales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6QTDPXY{{</world>}}

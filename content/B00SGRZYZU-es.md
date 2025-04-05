@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El diseño sin junta de las gafas reduce el arrastre, proporciona un ajuste óptimo
-- Correa de cabeza doble con ajuste de hebilla trasera
 - Dispone de un puente nariz de tipo sueco
+- Correa de cabeza doble con ajuste de hebilla trasera
+- El diseño sin junta de las gafas reduce el arrastre, proporciona un ajuste óptimo
 - Tiene una lente dividida, protección UV y revestimiento anti-niebla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

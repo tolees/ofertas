@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología GEL
 - Parte superior de malla elástica
 - Suela exterior con un patrón específico para el trail running
+- Tecnología GEL
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5Y51RPH{{</world>}}

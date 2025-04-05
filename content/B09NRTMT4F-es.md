@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Costuras a juego y botones y tachuelas plateadas para un efecto fresco
-- Dos bolsillos en la parte delantera y dos bolsillos en la parte trasera
 - Corte ajustado en el muslo y se estrecha hacia abajo
+- Dos bolsillos en la parte delantera y dos bolsillos en la parte trasera
 - Cierre: cremallera con botón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

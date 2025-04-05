@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Conexión Bluetooth v4.0
-- Auriculares Bluetooth con Cancelación de Ruido ANC
 - Peso ligero
+- Auriculares Bluetooth con Cancelación de Ruido ANC
 - Batería recargable
 - Ideal para viajes en transporte público y en avión
 - Uso inalámbrico o por cable

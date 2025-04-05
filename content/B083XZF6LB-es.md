@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dos bolsillos laterales en la chaqueta
+- Pantalón con cintura elástica y cordón
+- Chaqueta con cuello alto y cremallera frontal
 - Material: poliéster
 - Dos bolsillos laterales en los pantalones
-- Chaqueta con cuello alto y cremallera frontal
-- Pantalón con cintura elástica y cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B083XZF6LB{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bolsillo canguro para calentar las manos frías
+- Composición del material: 70% algodón, 30% poliéster
 - Sudadera con capucha con logotipo estampado minimalista
 - Suave y cálida calidad loopback
-- Composición del material: 70% algodón, 30% poliéster
-- Bolsillo canguro para calentar las manos frías
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBS9Z45H{{</world>}}

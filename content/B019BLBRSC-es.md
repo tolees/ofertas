@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ENTRENA TUS HABILIDADES. El exclusivo tutorial desplegable te permite conocer el mundo de la pintura acrílica mediante la recreación de la fantástica ilustración de la vidriera de la tapa de la caja en cinco sencillos pasos.
 - TODO LO QUE NECESITAS PARA EMPEZAR. Los doce tonos esenciales de calidad artística se organizan por familias de colores para poder elegirlos fácilmente: una invitación que no podrás rechazar para lanzarte al mundo de la pintura acrílica.
 - DISEÑADOS PARA FACILITARTE LA VIDA. Proyecta la pintura directamente para un mayor impacto o simplemente dilúyela en agua para conseguir el mínimo detalle; tubos resistentes, que no se secan ni agrietan, perfectamente organizados en una fina caja de presentación.
-- ENTRENA TUS HABILIDADES. El exclusivo tutorial desplegable te permite conocer el mundo de la pintura acrílica mediante la recreación de la fantástica ilustración de la vidriera de la tapa de la caja en cinco sencillos pasos.
 - PROBADOS, FIABLES Y GARANTIZADOS. Probados por los expertos de nuestro estudio para superar a la competencia. Los críticos más expertos confían en ellos: contamos con 2,5 millones de clientes en todo el mundo y, si no te convencen, te devolvemos el dinero.
 - UN PLACER USARLOS. Disfruta de la sensación de plasmar pigmentos intensos y puros con un pincel o una espátula. Como se secan rápido, puedes disponer capas sin emborronarlo todo y conseguir unos resultados impresionantes sobre papel, lienzo o madera, entre otros.
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma
 - Puntera de goma y costuras en los dedos
+- Suela de goma
 - Empeine de malla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

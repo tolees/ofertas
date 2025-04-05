@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuenta con un indicador luminoso de calentamiento que se apaga una vez ha llegado a la temperatura y de sistema anti goteo que evita manchar las prendas.
 - Plancha eficaz con depósito de 290ml de capacidad, punta de precisión, función spray y vapor continuo de 45g/min.
+- Cuenta con un indicador luminoso de calentamiento que se apaga una vez ha llegado a la temperatura y de sistema anti goteo que evita manchar las prendas.
 - Plancha de vapor potente de 3000W con golpe de vapor intenso de 200g/min a la que no se le resiste ninguna arruga. Ajusta el vapor y la temperatura que necesitas acorde con cada tipo de prenda, gracias a su rueda reguladora.
 - Para un óptimo mantenimiento, dispone de doble sistema anti cal y sistema de auto limpieza.
 - Suela de cerámica de gran deslizamiento ideal para planchar de forma uniforme todo tipo de prendas. Su gran vapor permite un óptimo planchado vertical.

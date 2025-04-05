@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Skechers logo detail
 - Classic lace-up fashion sneaker design
 - Flexible rubber traction outsole
+- Skechers logo detail
 - Lightweight midsole with 2 inch wedge heel height
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello redondo
 - Detalle acanalado en el cuello, puños y dobladillo
 - Pepe Jeans Logotipo impreso en la parte delantera
-- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS55MDZC{{</world>}}

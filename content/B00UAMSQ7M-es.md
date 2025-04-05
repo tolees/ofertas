@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de calidad
 - Nuevo producto
+- Producto de calidad
 - Contacto avisador de desgaste: excl. Contacto de avisador de desgaste
 - Altura 1 [mm]: 61.2
 

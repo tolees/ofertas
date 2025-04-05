@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla de EVA
 - Horma clásica
 - Forro textil
+- Plantilla de EVA
 - Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

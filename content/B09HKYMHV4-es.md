@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La chimenea tiene una dimensión de 26 pulgadas lo que facilita su ubicación en el interior de la casa en la estancia deseada. Su diseño plano crea un ambiente sofisticado y potencia su elegancia. Además, el soporte proporciona una gran versatilidad al usuario para poder ubicar la chimenea en el lugar deseado.
-- Gran potencia máxima de 2000 W que permite calentar toda una habitación y mantener el calor en la misma. Además también poseé una segunda potencia de 1000 W para reducir el consumo y adaptarlo a las necesidades de cada momento. Es capaz de calentar una estancia de 25 m2 en un breve periodo de tiempo.
-- Incluye mando a distancia lo que facilita tanto su puesta en marcha como su control durante el funcionamiento y el apagado.
 - Programador semanal y diario que permite seleccionar los tramos horarios y los días de funcionamiento de la chimenea.
+- Incluye mando a distancia lo que facilita tanto su puesta en marcha como su control durante el funcionamiento y el apagado.
+- Gran potencia máxima de 2000 W que permite calentar toda una habitación y mantener el calor en la misma. Además también poseé una segunda potencia de 1000 W para reducir el consumo y adaptarlo a las necesidades de cada momento. Es capaz de calentar una estancia de 25 m2 en un breve periodo de tiempo.
+- La chimenea tiene una dimensión de 26 pulgadas lo que facilita su ubicación en el interior de la casa en la estancia deseada. Su diseño plano crea un ambiente sofisticado y potencia su elegancia. Además, el soporte proporciona una gran versatilidad al usuario para poder ubicar la chimenea en el lugar deseado.
 - Efecto fuego de gran realismo que crea un ambiente acogedor e ideal en el hogar de forma limpia y segura, sin necesidad de chispas, combustión, humo ni residuos. Las llamas poseen 2 luces LED en su interior que además pueden ser reguladas en dos intensidades, una más potente y otra menos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

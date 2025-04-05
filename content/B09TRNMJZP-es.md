@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Determina el resultado de un peloteo eligiendo la técnica adecuada: golpe liftado, cortado, plano o globo
-- Cada pista tiene sus particularidades; estúdialas y adapta tu juego a la hierba, tierra batida o cemento
 - Desde la raqueta hasta ropa, el juego ofrece las mejores marcas de tenis como UNIQLO, HEAD y muchas más; desbloquea equipación especial al ganar partidos competitivos
 - En Matchpoint - Tennis Championships encontrarás a 16 estrellas internacionales reales, como Nick Kyrgios, Kei Nishikori y Amanda Anisimova
+- Cada pista tiene sus particularidades; estúdialas y adapta tu juego a la hierba, tierra batida o cemento
 - Juega contra una IA o enfréntate a tus amistades y rivales en sesiones locales y juego multiplataforma en línea
 
 [🛒 Comprar!!!]({{< param buyurl >}})

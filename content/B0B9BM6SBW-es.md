@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de malla cerrada con detalles de superposición termofusible
 - Moda deportiva con cordones
 - Altura del tacón: 1 3/4 pulgadas
+- Parte superior de malla cerrada con detalles de superposición termofusible
 - Suela de tracción flexible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

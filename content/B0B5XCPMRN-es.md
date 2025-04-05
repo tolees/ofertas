@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Compatible con VESA: 75x75, 100x100, 100x150, 100x200, 150x100, 150x150, 200x100, 200x200, 200x300, 300x200, 200x400, 300x400, 300x300, 400x200, 400x300, 400x400
+- Color: Negro
 - Distancia de pared: 20 mm
 - Pantallas soportadas: 32"-70"
-- Color: Negro
-- Compatible con VESA: 75x75, 100x100, 100x150, 100x200, 150x100, 150x150, 200x100, 200x200, 200x300, 300x200, 200x400, 300x400, 300x300, 400x200, 400x300, 400x400
 - Peso máximo soportado de pantalla: 45 kg
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

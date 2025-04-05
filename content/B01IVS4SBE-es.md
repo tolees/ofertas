@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Velocidad de corte de cadena : 4,3 m/s
-- Mango ergonómico
-- Sistema de batería Power X-Change
 - Indicador del nivel de carga de la batería con 3 LEDs
-- Protección de contragolpe con freno de cadena mecánica instantánea
 - Tiempo de carga de 1h
+- Mango ergonómico
+- Protección de contragolpe con freno de cadena mecánica instantánea
 - Peso del producto: 2.97 kg
+- Velocidad de corte de cadena : 4,3 m/s
+- Sistema de batería Power X-Change
 - Max. Longitud de corte: 230 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

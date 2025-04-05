@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo impreso en posición en la parte delantera
 - Fabricado con al menos un 70 % de algodón sostenible
-- Corte entallado
 - Material sostenible
+- Corte entallado
+- Logotipo impreso en posición en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QLF4P9N{{</world>}}

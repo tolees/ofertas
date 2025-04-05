@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Personaliza el meca a tu estilo de juego
-- Emocionantes batallas contra jefes
 - Batallas dinámicas y omnidireccionales
+- Emocionantes batallas contra jefes
+- Personaliza el meca a tu estilo de juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3RVJYTY{{</world>}}

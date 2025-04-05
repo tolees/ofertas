@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con licencia oficial de Xbox para Xbox Series X|S y compatible con Xbox One
-- Garantía limitada de dos años, visita PowerA.com/Support
 - LED indican el estado de la carga
-- Se carga con un adaptador de CA, mantiene los puertos USB libres Las luces
-- Incluye 4 baterías con tapa recargables (2 para Xbox X|S, 2 para Xbox One)
+- Garantía limitada de dos años, visita PowerA.com/Support
+- Con licencia oficial de Xbox para Xbox Series X|S y compatible con Xbox One
 - Incluye 2 baterías recargables
+- Incluye 4 baterías con tapa recargables (2 para Xbox X|S, 2 para Xbox One)
+- Se carga con un adaptador de CA, mantiene los puertos USB libres Las luces
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B7S63GFT{{</world>}}

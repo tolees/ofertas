@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro: forro de capucha del mismo material
 - Ajuste: corte holgado
 - Bolsillos: bolsillo tipo canguro
+- Forro: forro de capucha del mismo material
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C36QV2WX{{</world>}}

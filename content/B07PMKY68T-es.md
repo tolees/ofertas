@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Incluye una nano figura de metal de Harry Potter
-- Adecuado a partir de 8 años
-- Para los fans de Harry Potter llega el Ford Anglia de 1959 propiedad de los Weasley que aparece en la película
-- Medida del coche: escala 1:24, 18 cm
 - Con mecanismo de rueda libre; está fabricado en metal fundido a presión (die-cast), y sus puertas se abren
+- Medida del coche: escala 1:24, 18 cm
+- Para los fans de Harry Potter llega el Ford Anglia de 1959 propiedad de los Weasley que aparece en la película
+- Adecuado a partir de 8 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07PMKY68T{{</world>}}

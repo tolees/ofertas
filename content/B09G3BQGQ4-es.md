@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sencillo
 - Suave
 - Interior de piel
+- Sencillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09G3BQGQ4{{</world>}}

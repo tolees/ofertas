@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Control por voz: gestiona tus focos inteligentes con comandos de voz a través de Amazon Alexa o el Asistente de Google.
-- Ahorro de energía: reduzca el consumo de energía al operar con ahorros de energía, sin perder brillo ni calidad.
-- Agrupación: controle todos los focos inteligentes Tapo con un solo clic en la aplicación.
-- Control remoto: enciende/apaga instantáneamente los reflectores dondequiera que estés a través de la aplicación Tapo
-- Programación: preestablezca un horario fijo para administrar automáticamente sus dispositivos inteligentes
 - Base de lámpara GU10: compatible con cualquier aparato GU10. Sin cargo adicional por el primer intento.
 - Blanco ajustable: ajusta la temperatura del color de 2200 K a 6500 K según tus necesidades cambiantes.
+- Control remoto: enciende/apaga instantáneamente los reflectores dondequiera que estés a través de la aplicación Tapo
+- Control por voz: gestiona tus focos inteligentes con comandos de voz a través de Amazon Alexa o el Asistente de Google.
+- Agrupación: controle todos los focos inteligentes Tapo con un solo clic en la aplicación.
+- Ahorro de energía: reduzca el consumo de energía al operar con ahorros de energía, sin perder brillo ni calidad.
+- Programación: preestablezca un horario fijo para administrar automáticamente sus dispositivos inteligentes
 - 16 millones de colores: dé forma a la extraordinaria atmósfera eligiendo luces de una amplia gama de colores, incluso atenuándolas hasta obtener el brillo que desee para crear la atmósfera perfecta.
 - Alto lumen y regulable: emite una luz de 350 lm lo suficientemente brillante como para iluminar cualquier objeto y se puede atenuar del 1% al 100%.
 - Temporizador: cree listas de temporizadores de cuenta regresiva para un control del tiempo más preciso

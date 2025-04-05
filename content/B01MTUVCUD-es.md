@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Estas brochas se limpian fácilmente, son duraderas y con ellas obtendrás resultados adecuados
+- Un juego básico de brochas con las que podrás crear una base con resultados adecuados
 - Incluye una brocha para contorneado facial, una brocha cuadrada para base de maquillaje, una brocha de precisión y una brocha para base
 - El color del embalaje y de las brochas puede ser diferente
-- Un juego básico de brochas con las que podrás crear una base con resultados adecuados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MTUVCUD{{</world>}}

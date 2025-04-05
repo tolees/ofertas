@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PRODUCTO | Caja exclusiva con los vinos que se han convertido en iconos de Masi a nivel internacional: Amarone Classico DOCG Costasera (15%), Rosso di Verona IGT Campofiorin (13%), Valpolicella Classico DOC Bonacosta (12%)
-- MASI | Perteneciente a la denominación Valpolicella Classica, produce y distribuye Amarone y otros vinos de calidad inspirados en los valores de la zona de Venecia.
 - VARIEDADES DE UVA | La zona de Veronese cuenta con un extraordinario patrimonio rico en variedades de uva. Con el tiempo, tres de ellas han desempeñado un papel importante en la elaboración de los vinos de Valpolicella: Corvina, Rondinella y Molinara.
+- MASI | Perteneciente a la denominación Valpolicella Classica, produce y distribuye Amarone y otros vinos de calidad inspirados en los valores de la zona de Venecia.
 - TÉCNICA | El símbolo Masi Expertise Appaxximento certifica en la etiqueta la especialización de Masi en las técnicas de secado, el proceso de deshidratación parcial natural de la uva para obtener una mayor concentración de colores, aromas y sabores en el vino.
+- PRODUCTO | Caja exclusiva con los vinos que se han convertido en iconos de Masi a nivel internacional: Amarone Classico DOCG Costasera (15%), Rosso di Verona IGT Campofiorin (13%), Valpolicella Classico DOC Bonacosta (12%)
 - IDEA DE REGALO | Detrás de una botella de vino se ocultan los secretos de un territorio, de una tradición, de una historia que contar. Regalar un buen vino significa regalar la experiencia de descubrir un mundo de pasión y cultura.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

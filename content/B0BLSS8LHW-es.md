@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alto nivel de estrategia gracias a los indicadores de ataque y defensa.
 - Elegantes efectos visuales.
+- Alto nivel de estrategia gracias a los indicadores de ataque y defensa.
 - Compatibilidad con pantalla panorámica 16:9 y modo galería
 - Versus online, modo entrenamiento con IA.
 

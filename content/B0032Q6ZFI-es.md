@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [Genuine Compatible] 60690113, 60699862, 50514912, 50514913, 50514912, 50514913, 60690113, 60699862
-- [Compatible models] Alfa Romeo: 159 / Brera / Spider [939]
+- For left-hand drive vehicles only
 - Aerodynamic design: Stops lifting and vibrations through reduced windage for improved driver comfort and high speed.Quick and easy installation due to pre assembled adapter
 - Silent operation on both wet and semi-dry windscreens
 - Aerodynamic design: Stops lifting and vibrations through reduced windage for improved driver comfort and high speed.Quick and easy installation due to pre-assembled adapter
+- [Compatible models] Alfa Romeo: 159 / Brera / Spider [939]
+- [Genuine Compatible] 60690113, 60699862, 50514912, 50514913, 50514912, 50514913, 60690113, 60699862
 - Increased service life due to Power Protection Plus
-- For left-hand drive vehicles only
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0032Q6ZFI{{</world>}}

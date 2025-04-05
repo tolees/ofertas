@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Color: gris, negro, verde, plateado
 - Ultraligeras, mecanizadas por cnc
 - Dimensiones: 72 mm
-- Color: gris, negro, verde, plateado
 - Disponibles en juegos de 4 unidades
 - Compatibles con sistema de cartucho, para frenos en v
 

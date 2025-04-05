@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Accesorio para el Kit de Inicio de tado°: añade Cabezales Termostáticos Inteligentes y controla varios radiadores y zonas diferentes
 - Controla la calefacción desde cualquier lado con la app de tado°, reduce tu consumo energético y ahorra dinero con las funciones inteligentes de tado°
+- Accesorio para el Kit de Inicio de tado°: añade Cabezales Termostáticos Inteligentes y controla varios radiadores y zonas diferentes
 - Si la casa está vacía o se detectan ventanas abiertas, la app de tado° te enviará una notificación push para que bajes la calefacción
 - Controla todas las habitaciones con una sola app para gestionar la temperatura con total precisión; más confort y más ahorro energético
 

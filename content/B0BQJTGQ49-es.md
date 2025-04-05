@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistemas de combate de IA evolucionado
-- Cuida de los digimon
 - Construye una ciudad próspera
+- Cuida de los digimon
+- Sistemas de combate de IA evolucionado
 - Diversión sin fin
 
 [🛒 Comprar!!!]({{< param buyurl >}})

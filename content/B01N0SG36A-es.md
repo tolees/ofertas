@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Compatible con tecnología Apple HomeKit
 - Alimentación: 1x batería (CR123A)
 - Detecta movimiento un sensor pasivo de infrarrojos, así como manipulación gracias a su acelerómetro
-- Fácil de instalar en pared o superficie
 - Mide la temperatura ambiente y la intensidad de la luz
-- Compatible con tecnología Apple HomeKit
+- Fácil de instalar en pared o superficie
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N0SG36A{{</world>}}

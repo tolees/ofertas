@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La equinácea ayuda a las defensas
-- Con ingredientes de origen natural; sin gluten; sin lactosa. 0% azúcares añadidos
-- Tomar 1 cápsula al día. Indicada en adultos y niños mayores de 12 años
-- Mantiene y refuerza las defensas
 - Ingredientes: Jalea Real 200 mg, vitamina C, zinc, equinácea, reishi y shitake para una máxima eficacia
+- Mantiene y refuerza las defensas
 - El zinc y la vitamina C contribuyen al funcionamiento normal de sistema inmunitario
+- Con ingredientes de origen natural; sin gluten; sin lactosa. 0% azúcares añadidos
+- La equinácea ayuda a las defensas
+- Tomar 1 cápsula al día. Indicada en adultos y niños mayores de 12 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07KXC7RBD{{</world>}}

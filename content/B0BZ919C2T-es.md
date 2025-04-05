@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Goga Mat Arch, carbón MF, refrigeración por aire, ajuste relajado
 - Puntera redonda con cordones y cuello acolchado
+- Goga Mat Arch, carbón MF, refrigeración por aire, ajuste relajado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZ919C2T{{</world>}}

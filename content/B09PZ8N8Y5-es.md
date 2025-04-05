@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entresuela Airbag
 - Suela de tracción flexible
+- Entresuela Airbag
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09PZ8N8Y5{{</world>}}

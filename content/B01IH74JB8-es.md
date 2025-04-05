@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capacidad para 9 tazas de café - 450 ml
-- Mango fabricado en baquelita termo-resistente con formato ergonómico
-- Apta para todo tipo de encimeras, excepto inducción
 - Exterior súper resistente
+- Apta para todo tipo de encimeras, excepto inducción
+- Mango fabricado en baquelita termo-resistente con formato ergonómico
+- Capacidad para 9 tazas de café - 450 ml
 - Acabado Esmaltado brillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

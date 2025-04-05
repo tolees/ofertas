@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forma del tacón: plataforma
+- Cierre: 60 por ciento IPEVA -40 por ciento de goma
 - Material interior: 80 % tela textil, poliéster, 20 % poliuretano sintético
 - Material exterior: sintético
-- Cierre: 60 por ciento IPEVA -40 por ciento de goma
-- Forma del tacón: plataforma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B293R6BP{{</world>}}

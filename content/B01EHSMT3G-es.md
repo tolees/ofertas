@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Contiene 13 hierbas suizas: marrubio, pimpinela, verónica, malvavisco, pie de león, flor de saúco, malva, menta, salvia, milenrama, prímula, llantén y tomillo
 - Además de sus 13 hierbas, incluye aceites esenciales de menta y mentol
 - Ricola Hierbas Suizas Original es un caramelo sabor tradicional de Ricola, que alivia la garganta y las vías respiratorias, además de proporcionar un aliento fresco
-- Contiene 13 hierbas suizas: marrubio, pimpinela, verónica, malvavisco, pie de león, flor de saúco, malva, menta, salvia, milenrama, prímula, llantén y tomillo
-- Es ideal para consumir en cualquier momento y experimentar la sensación duradera y deliciosa. No contiene azúcar y es apto para vegetarianos. Contiene edulcorantes. Un consumo excesivo puede tener un efecto laxante
 - Plantas cultivadas utilizando métodos naturales. Los caramelos solo contienen colorantes y saborizantes naturales, además no tienen gluten ni lactosa
+- Es ideal para consumir en cualquier momento y experimentar la sensación duradera y deliciosa. No contiene azúcar y es apto para vegetarianos. Contiene edulcorantes. Un consumo excesivo puede tener un efecto laxante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01EHSMT3G{{</world>}}

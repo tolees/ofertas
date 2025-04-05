@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- not water resistant
-- Fabric
 - water resistance level: not water resistant
+- Fabric
+- not water resistant
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09691LNLP{{</world>}}

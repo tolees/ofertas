@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una silenciosa aspa de ventilador de 120 mm gira con un nivel sonoro de tan solo 27,5 dBA, con compatibilidad con el modo Zero RPM que detiene el ventilador por completo, eliminando del todo el ruido del ventilador.
-- Ocho LED RGB direccionables individualmente iluminan su PC con intensos efectos de luz. (Requiere el controlador de iluminación iCUE RGB, de venta por separado).
-- El perfil delgado de 120 x 15 mm de la AF120 RGB SLIM encaja en chasis de pequeño formato y Mini-ITX, o en cualquier soporte de ventilador estándar de 120 mm.
-- El lubricante entre el eje y el rodamiento reduce enormemente la fricción, lo que garantiza una durabilidad excepcional y el mínimo ruido.
 - Velocidades de ventilador controladas por PWM desde 600 RPM hasta 2.000 RPM, lo que ofrece un flujo de aire de hasta 56,3 CFM con una presión estática de 1,9 mm-H2O de presión estática.
+- El perfil delgado de 120 x 15 mm de la AF120 RGB SLIM encaja en chasis de pequeño formato y Mini-ITX, o en cualquier soporte de ventilador estándar de 120 mm.
+- Ocho LED RGB direccionables individualmente iluminan su PC con intensos efectos de luz. (Requiere el controlador de iluminación iCUE RGB, de venta por separado).
+- El lubricante entre el eje y el rodamiento reduce enormemente la fricción, lo que garantiza una durabilidad excepcional y el mínimo ruido.
+- Una silenciosa aspa de ventilador de 120 mm gira con un nivel sonoro de tan solo 27,5 dBA, con compatibilidad con el modo Zero RPM que detiene el ventilador por completo, eliminando del todo el ruido del ventilador.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C18WSVTT{{</world>}}

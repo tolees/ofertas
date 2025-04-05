@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado tropical de hojas efecto pintado con rotulador
 - Cintura regular
+- Estampado tropical de hojas efecto pintado con rotulador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B849BR6F{{</world>}}

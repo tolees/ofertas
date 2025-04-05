@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiro regular y pierna ajustada
 - Estilo jogger
+- Tiro regular y pierna ajustada
 - Fabricado con prácticas y materiales sostenibles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

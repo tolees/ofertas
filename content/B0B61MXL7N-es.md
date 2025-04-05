@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los productos deportivos de la marca Le Coq Sportif están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 - Sudadera N°2 TRAINING FZ Sweat M black
 - Ropa deportiva Negro de la marca Le Coq Sportif
-- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 - N°2 TRAINING FZ Sweat M blackLE COQ SPORTIF HOMBRE TALLA XS
+- Los productos deportivos de la marca Le Coq Sportif están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B61MXL7N{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lector de tarjetas micro SD y SD, compatibles SDHC y SDXC (UHS-I)
 - No necesita instalación de ningún tipo, enchufar y listo, compatible con Windows 10, Mac OS y Chrome OS
+- Puerto de red Gigabit RJ45 (10/100/1000 Mbps, megabits por segundo)
 - Puerto HDMI 4K (resolución 3840 x 2160), 1080p, y 4096 x 2160 a 30 Hz
 - Puerto USB-C adicional para datos, con posibilidad de conectar la fuente de alimentación del dispositivo (portátil, tableta, etc.) para carga simultánea con el uso del hub, con capacidad de hasta 20V y 5A (100W)
 - Hub USB-C con 2 puertos USB 3.0 compatibles con USB 2.0 y USB 1.1, con carcasa de aluminio y cable de 15 cm
-- Lector de tarjetas micro SD y SD, compatibles SDHC y SDXC (UHS-I)
-- Puerto de red Gigabit RJ45 (10/100/1000 Mbps, megabits por segundo)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07XQB8TY5{{</world>}}

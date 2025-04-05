@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema de construcción magnético
-- Esferas metálicas (no magnéticas)
 - Color de los paneles: naranja, rojo
 - Color de las barras: amarillo
+- Sistema de construcción magnético
+- Esferas metálicas (no magnéticas)
 - Infinitas posibilidades de construcción
 
 [🛒 Comprar!!!]({{< param buyurl >}})

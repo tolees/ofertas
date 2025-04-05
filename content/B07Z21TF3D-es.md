@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diámetro de la caja: 30 mm / grosor de la caja de 11,4 mm
-- Correa de piel gris
-- Esfera blanca con números romanos
-- Movimiento de cuarzo japonés de tres manecillas
 - Su reloj tiene una clasificación de resistencia al agua de 1 atm o 10 m (1 bar), para que sea apto para el uso cotidiano y resistente a salpicaduras moderadas de agua/lluvia
+- Diámetro de la caja: 30 mm / grosor de la caja de 11,4 mm
+- Movimiento de cuarzo japonés de tres manecillas
+- Esfera blanca con números romanos
+- Correa de piel gris
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07Z21TF3D{{</world>}}

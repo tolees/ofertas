@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - No resistente al agua
-- Parte superior: cuero
 - Forma del talón: plano
+- Parte superior: cuero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BM51WLTT{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los calcetines para hombre están hechos de una mezcla elástica de algodón peinado
 - Ambos pares son de color liso y se pueden combinar de forma versátil
+- Los calcetines para hombre están hechos de una mezcla elástica de algodón peinado
 - Dos pares de calcetines Boss de longitud hasta el tobillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

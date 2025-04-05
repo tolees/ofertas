@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles de bolsillo
 - Solapa frontal con botones
 - Lavable a máquina
+- Detalles de bolsillo
 - Calidad de confianza Carter, precios bajos todos los días y embalaje sin etiquetas sin complicaciones, exclusivo para miembros de Amazon
 
 [🛒 Visítala!!!]({{< param buyurl >}})

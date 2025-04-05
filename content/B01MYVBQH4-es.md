@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BASE ENCHUFE: Dimensiones: 4, 7 x 4, 7 x 6, 2 cm, peso: 40, 8 gr
-- ENCHUFE LEGRAND: Toma Schuko, dispone de toma de tierra para una mayor seguridad, color Negro
-- ENCHUFE SCHUKO: con abrazadera sujeta cables interna, dispone de protección infantil
 - DATOS ELECTRICOS: 2 polos + toma de tierra, 16A, 230V
+- ENCHUFE SCHUKO: con abrazadera sujeta cables interna, dispone de protección infantil
+- ENCHUFE LEGRAND: Toma Schuko, dispone de toma de tierra para una mayor seguridad, color Negro
 - CLAVIJA HEMBRA SCHUKO: Capacidad móvil para poder orientar la clavija
+- BASE ENCHUFE: Dimensiones: 4, 7 x 4, 7 x 6, 2 cm, peso: 40, 8 gr
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MYVBQH4{{</world>}}

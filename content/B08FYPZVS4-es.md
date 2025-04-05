@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómoda
 - Informal
+- Cómoda
 - Peso ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

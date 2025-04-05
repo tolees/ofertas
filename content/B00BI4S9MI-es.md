@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acabado azul satinado
 - Clavijero de engranajes
-- Cuerdas aquila nylgut
-- Diapasón y puente de palisandro
 - Cuerpo y mástil de caoba
+- Acabado azul satinado
+- Diapasón y puente de palisandro
+- Cuerdas aquila nylgut
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00BI4S9MI{{</world>}}

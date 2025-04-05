@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene 4 anillas, 6 separadores de colores y 50 hojas con cuadrícula de 5mm
 - Dimensiones: 32 x 28 x 3,5cm
+- Contiene 4 anillas, 6 separadores de colores y 50 hojas con cuadrícula de 5mm
 - Carpeta de anillas para hojas tamaño din a4
 - Cierre con banda elástica
 

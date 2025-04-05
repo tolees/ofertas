@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido: 1 x Silicona Puertas y Ventanas Blanco en tubo de 300 ml, ideal para pegar y sellar juntas de carpintería a obra y para el proceso de acristalamiento, transparente, de fischer.
 - Modo de empleo: en juntas grandes utilizar fondos de juntas (espuma de polietileno) y alisar asegurando un contacto total con la superficie a sellar (con una espátula antes de la formación de piel); aplicar con pistola de silicona.
 - Principales ventajas: silicona neutra de excelente adhesión, gran resistencia a los productos de limpieza, buen comportamiento frente a agentes externos, aplicable sobre materiales porosos y no porosos sin imprimación­­­­­.
-- Tecnología: el elastómero de silicona mono-componente reticula al entrar en contacto con la humedad, transformándose en una masa elástica de muy buenas propiedades mecánicas y excelente resistencia.
 - Aplicación: recomendado para el sellado de juntas de carpintería a obra, en materiales de construcción como vidrio, cerámica, madera, aluminio pulido o sin pulir, acero inoxidable, PVC rígido y hormigón.
+- Contenido: 1 x Silicona Puertas y Ventanas Blanco en tubo de 300 ml, ideal para pegar y sellar juntas de carpintería a obra y para el proceso de acristalamiento, transparente, de fischer.
+- Tecnología: el elastómero de silicona mono-componente reticula al entrar en contacto con la humedad, transformándose en una masa elástica de muy buenas propiedades mecánicas y excelente resistencia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MSW6O4T{{</world>}}

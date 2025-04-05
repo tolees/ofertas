@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Categoria *3, Antirreflejos
-- Color: Shiny Total Rose Gold
 - Material: Metal
+- Color: Shiny Total Rose Gold
 - Tamaño: 53/19/140
+- Categoria *3, Antirreflejos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CMCKJXP{{</world>}}

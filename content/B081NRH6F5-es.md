@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colores intensos
 - Forma de borde clásica con acabado mate
-- Disponible en 24 colores
 - Diámetro de la mina: 3 mm
+- Disponible en 24 colores
+- Colores intensos
 - Lápices de color de madera 100% estrictamente controlada con certificación FSC
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

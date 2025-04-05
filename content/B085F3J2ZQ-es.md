@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Práctico cierre de velcro
+- Somos miembros del Leather Working Group
 - Suela cómoda HoverLite
 - Plantilla de espuma viscoelástica
-- Somos miembros del Leather Working Group
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B085F3J2ZQ{{</world>}}

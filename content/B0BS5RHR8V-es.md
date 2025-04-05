@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo en la manga
-- Logotipo circular en la parte delantera
 - Cuello, puños y dobladillo acanalados
 - Suave, cómodo, transpirable, ligero
+- Logotipo en la manga
+- Logotipo circular en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS5RHR8V{{</world>}}

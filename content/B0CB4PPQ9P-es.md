@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalle decorativo de cuentas en la parte central delantera
 - Correas ajustables
+- Detalle decorativo de cuentas en la parte central delantera
 - Estampado de hibisco
 - Acolchado extraíble
 

@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Arte dinámico - Escenas emocionantes con arte audaz que captura momentos vitales.
-- Hitos clave- Jefes y momentos vívidos que hacen avanzar la historia.
 - Flashbacks- Mira el pasado como fue una vez y cómo los recuerdos controlan el futuro de un personaje.
-- Momentos de elección - muchas opciones para elegir, ¡pero ten cuidado con los malos finales!
 - Una novela visual postapocalíptica que se enfrenta a misteriosos acontecimientos en un mundo virtual.
 - Perspectivas - Ten la oportunidad de ver las ideas y emociones de otros personajes.
+- Momentos de elección - muchas opciones para elegir, ¡pero ten cuidado con los malos finales!
+- Hitos clave- Jefes y momentos vívidos que hacen avanzar la historia.
 - Novela visual rica en historia: ¡horas de historia, con 8 capítulos enteros!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

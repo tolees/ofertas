@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma
 - Marca PUMA en los costados
+- Suela de goma
 - Superposición de sillín
 - Entresuela ligera de EVA
 

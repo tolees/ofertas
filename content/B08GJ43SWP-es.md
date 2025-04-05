@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Omini Kappa
+- Ideal para la práctica deportiva y lifestyle
 - Kappa: innovación, estilo y deporte
 - Estilo y comodidad
-- Ideal para la práctica deportiva y lifestyle
-- Omini Kappa
 - Confort y durabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

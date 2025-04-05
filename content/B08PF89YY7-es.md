@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diseño de cinco bolsillos
-- Este producto es original Levis
 - Corte ceñido desde el trasero hasta el muslo
+- Este producto es original Levis
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08PF89YY7{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El controlador de velocidad de los ventiladores e iluminación RGB iCUE COMMANDER CORE le brinda un control preciso de la velocidad e iluminación de hasta seis ventiladores RGB de CORSAIR.
-- Ajuste las velocidades exactas para los ventiladores, hasta 2.100 RPM, con el control PWM, tan silencioso que solo llega a 34.1 dBa, además de la compatibilidad con las señales PWM de 0 RPM que permiten detener los ventiladores por completo cuando la temperatura es baja, eliminando así cualquier ruido por parte del ventilador.
-- Ilumine su sistema con 33 LED CAPELLIX ultrabrillantes en el cabezal de la bomba y 24 LED RGB de ventilador para conseguir efectos de iluminación personalizables y fascinantes.
 - Refrigere las CPU más actuales de Intel o AMD con un radiador de 360 mm, 3 ventiladores de 120 mm, una placa refrigerante de cobre y un cabezal de bomba eficiente lleno de llamativos LED CAPELLIX.
+- Ajuste las velocidades exactas para los ventiladores, hasta 2.100 RPM, con el control PWM, tan silencioso que solo llega a 34.1 dBa, además de la compatibilidad con las señales PWM de 0 RPM que permiten detener los ventiladores por completo cuando la temperatura es baja, eliminando así cualquier ruido por parte del ventilador.
+- El controlador de velocidad de los ventiladores e iluminación RGB iCUE COMMANDER CORE le brinda un control preciso de la velocidad e iluminación de hasta seis ventiladores RGB de CORSAIR.
 - Los ventiladores PWM CORSAIR AF120 RGB ELITE ofrecen un flujo de aire masivo y silencioso con la tecnología AirGuide, para disfrutar de un rendimiento de refrigeración de CPU extremo.
+- Ilumine su sistema con 33 LED CAPELLIX ultrabrillantes en el cabezal de la bomba y 24 LED RGB de ventilador para conseguir efectos de iluminación personalizables y fascinantes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQJ44PGK{{</world>}}

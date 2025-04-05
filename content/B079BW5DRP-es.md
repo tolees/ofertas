@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 5 minijuegos para reforzar el aprendizaje de diferentes contenidos
+- Enseña números, a contar, sumas y las formas geométricas
+- Enseña números, a contar, sumas y las formas geométricas
+- 5 minijuegos para reforzar el aprendizaje de diferentes contenidos
+- Muestra la hora e incluye alarma, cronometro y función de cueta atrás
+- Muestra la hora e incluye alarma, cronometro y función de cueta atrás
 - Versión española
-- 5 minijuegos para reforzar el aprendizaje de diferentes contenidos
-- Muestra la hora e incluye alarma, cronometro y función de cueta atrás
-- 5 minijuegos para reforzar el aprendizaje de diferentes contenidos
-- Enseña números, a contar, sumas y las formas geométricas
-- Enseña números, a contar, sumas y las formas geométricas
-- Muestra la hora e incluye alarma, cronometro y función de cueta atrás
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B079BW5DRP{{</world>}}

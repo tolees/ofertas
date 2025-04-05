@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para el cabello: normal
 - Marca: Schwarzkopf
 - Tipo de piel: normal
-- Para el cabello: normal
 - Tipo de producto: tratamiento capilar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

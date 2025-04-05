@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 🌿 VITAMINA C ACTIVA LAS DEFENSAS DE LA PIEL: Los extractos naturales de melocotón, pomelo y la vitamina C presentes en este jabón de cuerpo proporcionan numerosos beneficios para la piel y ayudan a mantenerla elástica y en forma
+- 🌺 AROMA DELICIOSO: Con nuestro gel de ducha disfruta de un aroma delicioso a frutas cítricas y melocotón durante tu rutina de baño. Mantén alejados los malos olores durante todo el día
 - 🍃 FÓRMULA REFRESCANTE: La fórmula refrescante de este gel de baño con extracto de frutas cítricas y melocotón deja una duradera sensación de frescor en la piel Además, de una hidratación intensa que dejará tu piel suave y nutrida
 - 🍊 GEL DE BAÑO NUTRITIVO CON EXTRACTO DE FRUTAS CÍTRICAS: Este gel de ducha contiene extractos de frutas cítricas y melocotón, aportando un gran nivel de hidratación y nutrición para el cuidado de tu piel
-- 🌺 AROMA DELICIOSO: Con nuestro gel de ducha disfruta de un aroma delicioso a frutas cítricas y melocotón durante tu rutina de baño. Mantén alejados los malos olores durante todo el día
 - 🐶 CRUELTY FREE: Con ingredientes naturales, este gel de baño no ha sido testado en animales y proporciona un cuidado completo y duradero para tu piel respetando al medio ambiente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

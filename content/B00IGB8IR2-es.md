@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las notas olfativas principales de este producto son especiado, fresco acuático y cítrico.
-- Contiene 45 ml.
 - De la marca Lagerfeld.
 - Este producto está indicado para mujeres.
+- Contiene 45 ml.
+- Las notas olfativas principales de este producto son especiado, fresco acuático y cítrico.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00IGB8IR2{{</world>}}

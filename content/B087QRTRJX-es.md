@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - CHOPPER CHIBI HUCHA 16 CM PVC ONE PIECE
 - CHOPPER CHIBI HUCHA 16 CM PVC ONE PIECE
+- CHOPPER CHIBI HUCHA 16 CM PVC ONE PIECE
+- CHOPPER CHIBI HUCHA 16 CM PVC ONE PIECE
 - HUCHA CHOPPER 18CM
-- CHOPPER CHIBI HUCHA 16 CM PVC ONE PIECE
-- CHOPPER CHIBI HUCHA 16 CM PVC ONE PIECE
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B087QRTRJX{{</world>}}

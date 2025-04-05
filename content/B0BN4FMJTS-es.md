@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Talla del zapato: Medium
 - No resistente al agua
 - Forma del talón: plano
+- Talla del zapato: Medium
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BN4FMJTS{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botin de caballero hecho en Espana
-- Botin para hombre inv 20 piel y forrado
 - Botines Desert Planos con cordones
+- Botin para hombre inv 20 piel y forrado
+- Botin de caballero hecho en Espana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RGFXSK1{{</world>}}

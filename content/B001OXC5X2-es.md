@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Testado individualmente a 10.000v
 - Conforme a norma en60900, iec/cei900, vde0692
 - Caja de 1
-- Testado individualmente a 10.000v
 - Acabado: fosfato
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sport; KOMBAT Zapatillas de entrenamiento unisex de corte bajo
 - Empeine de malla de poliéster y materiales termosellados con calor, suela de goma y entresuela de material sintético Phylon
 - Logotipo de Omini en la parte posterior y KOMBAT System Pro Label en la lengüeta
+- Sport; KOMBAT Zapatillas de entrenamiento unisex de corte bajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5RNN6XN{{</world>}}

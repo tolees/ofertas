@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - REDUCE LA IRRITACIÓN Y ROJEZ | Gracias a la combinación de Symcalmin y ácido hialurónico MicroHA (AH producido con una tecnología patentada de degradación enzimática con excelente actividad biológica).
-- HIDRATA Y REPARA LA PIEL | Gracias a la combinación de ácido hialurónico MicroHA y Fucocert (polisacárido aniónico obtenido por bacterias fermentación a partir de sustratos vegetales no transgénicos).
 - ADVERTENCIAS | Uso externo, evitar el contacto con los ojos, mantener fuera del alcance de los niños.
-- CÓMO USAR | Tras lavarte las manos, pulsa una pequeña cantidad de producto en la yema del dedo (del tamaño de un garbanzo) y aplica con un suave masaje por el pabellón auditivo. No utilizar cánulas u otros elementos para su aplicación. Aplicar cuando sea necesario, al menos 2 veces al día.
+- HIDRATA Y REPARA LA PIEL | Gracias a la combinación de ácido hialurónico MicroHA y Fucocert (polisacárido aniónico obtenido por bacterias fermentación a partir de sustratos vegetales no transgénicos).
 - CALMA EL PICOR | La espuma ótica de Picoren, ayuda a calmar el picor por su contenido en Symcalmin, formulado a base de avenantramidas de la avena (5%), en concreto la Dihidroavenantramida D.
+- CÓMO USAR | Tras lavarte las manos, pulsa una pequeña cantidad de producto en la yema del dedo (del tamaño de un garbanzo) y aplica con un suave masaje por el pabellón auditivo. No utilizar cánulas u otros elementos para su aplicación. Aplicar cuando sea necesario, al menos 2 veces al día.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C46YHJZM{{</world>}}

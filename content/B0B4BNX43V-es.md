@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tres calzoncillos BOSS ajustados de algodón elástico
 - Logotipo característico en la cintura
+- Tres calzoncillos BOSS ajustados de algodón elástico
 - Cintura media
 
 [🛒 Aquí!!!]({{< param buyurl >}})

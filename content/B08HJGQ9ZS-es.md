@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dispara como un profesional con el sistema de cámaras cuádruple y la cámara frontal de 16 MP del OnePlus 8T Sensor trasero primario de 48 MP con estabilización óptica de imagen (OIS) + gran angular de 16 MP, macro de 5 MP y lente monocromática de 2 MP
 - Carga con Warp Charge a 65W. Energía suficiente pare un día de uso en solo 15 minutos | Batería de 4500 mAh
-- OxygenOS 11 potencia experiencias inmersivas
+- Dispara como un profesional con el sistema de cámaras cuádruple y la cámara frontal de 16 MP del OnePlus 8T Sensor trasero primario de 48 MP con estabilización óptica de imagen (OIS) + gran angular de 16 MP, macro de 5 MP y lente monocromática de 2 MP
 - Pantalla fluida de 6.55" a 120HzOnePlus 8T funciona con su pantalla fluida de 120 Hz que hace que los juegos, el deslizamiento y el desplazamiento sean más fluidos que nunca. Experimenta colores vibrantes y detalles asombrosos con una pantalla optimizada para contenido HDR10+
+- OxygenOS 11 potencia experiencias inmersivas
 - 8 GB de RAM + 128 GB de almacenamiento interno con tecnología de la plataforma móvil Qualcomm Snapdragon 865 5G para un rendimiento potente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

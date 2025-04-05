@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puede disfrutarlo desde ahora, bien conservado aguantará 3-5 años.
-- Para recetas con carnes, cordero asado, todo tipo de aves, estofados y guisos. Servir entre 14-16ºC.
-- Graduación: 13,5% vol.
 - Origen: DO Ribera del Duero
+- Puede disfrutarlo desde ahora, bien conservado aguantará 3-5 años.
+- Graduación: 13,5% vol.
+- Para recetas con carnes, cordero asado, todo tipo de aves, estofados y guisos. Servir entre 14-16ºC.
 - Color cereza oscuro y bien cubierto. Intenso aroma de frutos negros (cerezas), con un fino matiz ahumado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

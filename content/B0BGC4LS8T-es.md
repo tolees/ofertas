@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma
 - Confort
+- Suela de goma
 - Logotipo de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- VENTILACIÓN: Todo el tejido es un panel perforado, además de disponer de amplias rejillas en los laterales que le aporta una gran ventilación.
 - VISERA: Endurecida con material plástico para evitar deformaciones. Su forma tridimensional en pico no bloquea la visión y protege de forma efectiva de los rayos de sol horizontales, evitando deslumbramientos por brillos y destellos indeseados.
 - MATERIALES: Tejido suave transpirable muy ligero (pesa solo 50 gramos) y de gran resistencia al desgaste. El tratamiento hidrófugo lo hace resistente a la humedad y a la suciedad.
-- VENTILACIÓN: Todo el tejido es un panel perforado, además de disponer de amplias rejillas en los laterales que le aporta una gran ventilación.
 - DISEÑO: Su diseño versátil permite ser utilizado en todo tipo de actividades y estaciones, tanto para moda urbana como para todo tipo de actividades. Consulta más modelos en el link de nuestra tienda amazon.es/ivedin
 - REGULABLE: La discreta hebilla trasera en material plástico, con cierre tipo clip, permite una regulación perfecta para todo tipo de tallas.
 

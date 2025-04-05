@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Super skinny black jeans
 - 5-pocket jeans
+- Super skinny black jeans
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07QYVSKZM{{</world>}}

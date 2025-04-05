@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
-- Skechers Detalle del logotipo
 - Parte superior de malla con panel frontal de encaje elástico
+- Skechers Detalle del logotipo
 - Skechers Manos libres para un ajuste fácil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

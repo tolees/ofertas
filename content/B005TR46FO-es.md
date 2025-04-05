@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para colorear mandalas y arte terapia
-- Gran diversidad de estuches
-- Hasta 24 horas destapado sin secarse
-- Calidad Alemana
 - Gama de 46 colores
+- Hasta 24 horas destapado sin secarse
+- Ideal para colorear mandalas y arte terapia
+- Calidad Alemana
+- Gran diversidad de estuches
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B005TR46FO{{</world>}}

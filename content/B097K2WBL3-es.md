@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con XMP de Intel
-- Funcionalidad Plug N Play
-- Actualización de DDR4 rentable y de alto rendimiento
-- Compatible con AMD Ryzen
 - Diseño de disipador de calor de perfil bajo
+- Compatible con AMD Ryzen
+- Compatible con XMP de Intel
+- Actualización de DDR4 rentable y de alto rendimiento
+- Funcionalidad Plug N Play
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B097K2WBL3{{</world>}}

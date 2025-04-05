@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Longitud del borde desde abajo hasta arriba: 56,8 mm | longitud del borde en la parte inferior: 60 mm | capacidad máx.: 90 kg
 - Utilice las pinzas de cierre para unirlas de forma segura cuando trabaje con piezas pequeñas. | las piezas de trabajo se tocan mínimamente en la parte inferior solo en las puntas de las pirámides
 - Una herramienta resistente y versátil que levanta de forma segura la pieza de trabajo de la base y la superficie de trabajo para pintar y hacer manualidades
 - Protege los bordes recién pintados
 - Ahorra tiempo y esfuerzo | apilable
-- Longitud del borde desde abajo hasta arriba: 56,8 mm | longitud del borde en la parte inferior: 60 mm | capacidad máx.: 90 kg
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VR8MWPP{{</world>}}

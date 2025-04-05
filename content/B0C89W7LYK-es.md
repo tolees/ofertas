@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ricos en calcio, hierro, zinc y vitamina B1.
+- Sin colorantes ni conservantes, según la legislación vigente
 - Sin aceite de palma.
 - Delicioso snack de maíz y fresa.
-- Sin colorantes ni conservantes, según la legislación vigente
-- Ricos en calcio, hierro, zinc y vitamina B1.
 - Sin sal ni azúcares añadidos, contiene azúcares naturalmente presentes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

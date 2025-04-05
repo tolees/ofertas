@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Jersey de punto para mujer con detalle de encaje
-- Cuello redondo
 - Manga larga, detalle en la espalda
+- Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B089YS16XM{{</world>}}

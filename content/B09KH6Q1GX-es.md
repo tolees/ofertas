@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste relajado
 - Powerflex súper elástico
 - Pierna recta
+- Ajuste relajado
 - Efecto envejecido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

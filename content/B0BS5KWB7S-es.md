@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dos bolsillos en el pecho con solapa y botón
 - Forro y cuello Borg
-- Dobladillo ajustable con botones
 - Chaqueta de tela no elástica
+- Dos bolsillos en el pecho con solapa y botón
+- Dobladillo ajustable con botones
 - Cierre frontal abotonado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EMBALAJE ESTILO KENNER: Los artículos de la colección Vintage de Star Wars vienen en embalajes con el logotipo de Kenner y con diseños que reproducen la apariencia de los juguetes Star Wars originales de la década de los 70
 - BÚNKER DE ENDOR: Situado en un puesto imperial en la Luna Boscosa de Endor, el búnker de Endor albergaba el generador de escudo que protegería a la segunda Estrella de la Muerte. Para derribar sus muros, los Rebeldes idearon un plan
-- COMANDO REBELDE DE ENDOR (DISFRAZ DE SOLDADO EXPLORADOR): La figura de Comando Rebelde de Endor (disfraz de soldado explorador) viene en un empaque de Star Wars: El retorno del Jedi. Es un gran regalo para cualquier fan de Star Wars
 - RECREA ESCENAS EMBLEMÁTICAS: Este set de juego de la colección Vintage de Star Wars se puede combinar con otros sets para recrear escenas completas inspiradas en Star Wars: El retorno del Jedi.
+- EMBALAJE ESTILO KENNER: Los artículos de la colección Vintage de Star Wars vienen en embalajes con el logotipo de Kenner y con diseños que reproducen la apariencia de los juguetes Star Wars originales de la década de los 70
 - ARTICULACIÓN PREMIUM: Con su cabeza, piernas y brazos articulados, la figura incluida de Comando Rebelde de Endor (disfraz de soldado explorador) es una gran adición a toda colección
+- COMANDO REBELDE DE ENDOR (DISFRAZ DE SOLDADO EXPLORADOR): La figura de Comando Rebelde de Endor (disfraz de soldado explorador) viene en un empaque de Star Wars: El retorno del Jedi. Es un gran regalo para cualquier fan de Star Wars
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BH6B7J6J{{</world>}}

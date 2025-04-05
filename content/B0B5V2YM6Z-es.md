@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinturón en la cintura
-- Corte normal
 - Por encima de la rodilla
+- Corte normal
+- Cinturón en la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5V2YM6Z{{</world>}}

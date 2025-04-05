@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Garantía de 2 años
-- Muy fácil y cómoda de transportar
-- Compatible con las campanas de ahumado (ref. 61813, 61815, 61816 y 61817) y bolsas de serrín de Lacor (ref. 69550, 69551, 69552 y 69553)
-- Perfecto para presentar y terminar platos delante del cliente, y dejarlo con la boca abierta
 - Otorga a los platos aromas especiales y personalizados
 - No es apto para el lavavajillas
-- Ideal para ahumar todo tipo de alimentos (carnes, pescados, quesos, etc.) y cócteles
-- Incluye un set de filtros de recambio y una bolsa de serrín de olivo (100 g)
+- Garantía de 2 años
 - Pilas no incluidas (2 pilas AA)
+- Compatible con las campanas de ahumado (ref. 61813, 61815, 61816 y 61817) y bolsas de serrín de Lacor (ref. 69550, 69551, 69552 y 69553)
+- Perfecto para presentar y terminar platos delante del cliente, y dejarlo con la boca abierta
+- Incluye un set de filtros de recambio y una bolsa de serrín de olivo (100 g)
+- Muy fácil y cómoda de transportar
+- Ideal para ahumar todo tipo de alimentos (carnes, pescados, quesos, etc.) y cócteles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NF4YGCD{{</world>}}

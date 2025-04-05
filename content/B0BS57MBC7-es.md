@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido de punto combinado
-- Corte recortado
-- Hombros caídos
 - Estampado de diseño jacquard completo
 - Detalle acanalado en cuello, puños y dobladillo
+- Corte recortado
+- Tejido de punto combinado
+- Hombros caídos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS57MBC7{{</world>}}

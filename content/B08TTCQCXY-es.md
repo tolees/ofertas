@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillo canguro
-- Algodón y poliéster reciclado
 - Puños y cintura acanalados
+- Algodón y poliéster reciclado
+- Bolsillo canguro
 - Capucha forrada en jersey
 - Ajuste regular
 

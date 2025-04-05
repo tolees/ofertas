@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela/Características: goma para un agarre extraordinario
-- Plantilla: OrthoLite para amortiguación
-- Parte superior: piel de becerro
 - Color: negro
+- Plantilla: OrthoLite para amortiguación
+- Suela/Características: goma para un agarre extraordinario
+- Parte superior: piel de becerro
 - Forro: 58% Algodón 22% Poliéster 20% Tela (60% Nylon - 40% Poliuretano)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- iTech laser eye: navegación inteligente con sensor láser que mapea tu hogar para planificar una ruta precisa y ordenada. Además está siempre orientada gracias a sus sensores ópticos. iWater: fregado inteligente con 3 niveles de caudal de agua (high, medium y low). Scrubbing: movimiento vaivén que simula el gesto humano de fregar
+- Interactive multimap: mapea tu casa para una limpieza inteligente por áreas, puntos exactos, restringir zonas memoriza hasta 5 mapas. App control: controla desde tu smartphone: programas, potencia, fregado e historial. Virtualmap: visualiza el mapa de tu hogar desde su aplicación para smartphone
 - 4in 1: robot aspirador que barre, aspira, pasa la mopa y friega. Total surface 2.0: se recarga y vuelve al punto exacto donde se quedó hasta limpiar la totalidad de la superficie recorrida. Force clean 2700 pa: gran potencia de succión para una limpieza profunda
 - Cepillo jalisco para eliminar la suciedad más imperceptible. Gracias a este nuevo cepillo podrás aspirar hasta la suciedad que no se aprecia a primera vista
+- iTech laser eye: navegación inteligente con sensor láser que mapea tu hogar para planificar una ruta precisa y ordenada. Además está siempre orientada gracias a sus sensores ópticos. iWater: fregado inteligente con 3 niveles de caudal de agua (high, medium y low). Scrubbing: movimiento vaivén que simula el gesto humano de fregar
 - Room plan 2.0: gestión por habitaciones. Selecciona el orden y el modo de limpieza para cada una de las estancias. Ahora, más eficiente y rápida. Alexa google assistant: compatible con tu asistente virtual por voz. 3 niveles de aspiración y 10 modos de limpieza
-- Interactive multimap: mapea tu casa para una limpieza inteligente por áreas, puntos exactos, restringir zonas memoriza hasta 5 mapas. App control: controla desde tu smartphone: programas, potencia, fregado e historial. Virtualmap: visualiza el mapa de tu hogar desde su aplicación para smartphone
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08LW4RBZJ{{</world>}}

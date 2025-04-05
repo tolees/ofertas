@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- En este nuevo mapa, los jugadores deberán encontrar nuevas rutas donde desarrollar su estrategia. Se usa exactamente de la misma manera que el original, sin ninguna alteración de reglas ni excepciones.
 - La diferencia que aporta con respecto al mapa original reside en el entramado de conexiones, que aquí es distinto y algo más complejo
 - De 2 a 4 Jugadores
-- En este nuevo mapa, los jugadores deberán encontrar nuevas rutas donde desarrollar su estrategia. Se usa exactamente de la misma manera que el original, sin ninguna alteración de reglas ni excepciones.
-- A partir de 14 Años de Edad
 - Este mapa está diseñado como alternativa al mapa del juego base.
+- A partir de 14 Años de Edad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LDVM48W{{</world>}}

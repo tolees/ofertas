@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1/4 de largo
 - logotipo de adidas
 - Pantalones cortos deportivos
+- 1/4 de largo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4BC88X3{{</world>}}

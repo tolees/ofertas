@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto distribuido oficialmente en España por BIZAK.
-- Te invitan a ser parte de sus aventuras para que aprendan jugando y resolviendo problemas juntos
-- Los personajes más queridos de la serie
-- Fantástico pack que incluye 4 figuras de 8cm
-- ¡Son articuladas!
 - Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Los personajes más queridos de la serie
+- ¡Son articuladas!
+- Fantástico pack que incluye 4 figuras de 8cm
 - Crea e imagina historias y aventuras emocionantes y divertidas con estas fantásticas figuras
+- Te invitan a ser parte de sus aventuras para que aprendan jugando y resolviendo problemas juntos
+- Producto distribuido oficialmente en España por BIZAK.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08WPCK69J{{</world>}}

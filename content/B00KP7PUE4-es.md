@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lice treatments: shampoos & rinses
 - Beauty products
+- Lice treatments: shampoos & rinses
 - Products by Paranix
 
 [🛒 Comprar!!!]({{< param buyurl >}})

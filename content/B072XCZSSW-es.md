@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 0
+- 0
+- 0
 - Benq GW2480T 60,5 cm (23.8") 1920 x 1080 Pixeles LED Negro
-- 0
-- 0
-- 0
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B072XCZSSW{{</world>}}

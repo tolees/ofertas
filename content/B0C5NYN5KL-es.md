@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: Material Sintético
-- Tipo de tacón: Plano
 - Cierre: Velcro
+- Tipo de tacón: Plano
+- Material de la suela: Material Sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5NYN5KL{{</world>}}

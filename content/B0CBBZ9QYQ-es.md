@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaqueta acolchada
-- Tejido: 100% poliéster
 - Cierre de cremallera
 - ellesse insignias bordadas
+- Tejido: 100% poliéster
+- Chaqueta acolchada
 - Bolsillos laterales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

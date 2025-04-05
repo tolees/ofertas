@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DISEÑADA POR EXPERTOS: Nuestra fórmula única e innovadora es el resultado de 75 años de investigación científica en Pro-V. Ha sido certificada por el Instituto Vitamínico Suizo, un organismo de renombre mundial en eficacia vitamínica
-- FÓRMULA CONCENTRADA: Nuestra fórmula contiene una mayor concentración de ingredientes y está enriquecida con biotina y 3 veces más Pro-V
-- PROTEGE LOS ENLACES CAPILARES DAÑADOS: Formulado para proteger los enlaces capilares a nivel molecular, dejando el pelo visiblemente más sano y reparado de los daños a su superficie (daños causados por el peinado, la decoloración, el secador ...)
 - BOTELLA CON DISPENSADOR: Obtén más cantidad del champú que tanto te gusta gracias a nuestras botellas de 1 L, cómodas y sostenibles. Basta con tirar del tapón para abrir el dispensador y disfrutar del producto de forma más duradera
+- DISEÑADA POR EXPERTOS: Nuestra fórmula única e innovadora es el resultado de 75 años de investigación científica en Pro-V. Ha sido certificada por el Instituto Vitamínico Suizo, un organismo de renombre mundial en eficacia vitamínica
+- PROTEGE LOS ENLACES CAPILARES DAÑADOS: Formulado para proteger los enlaces capilares a nivel molecular, dejando el pelo visiblemente más sano y reparado de los daños a su superficie (daños causados por el peinado, la decoloración, el secador ...)
+- FÓRMULA CONCENTRADA: Nuestra fórmula contiene una mayor concentración de ingredientes y está enriquecida con biotina y 3 veces más Pro-V
 - CREA UNA RUTINA PARA LA FIJACIÓN MOLECULAR: Para obtener los mejores resultados, usa todos nuestros productos de la línea Molecular Bond Repair, que incluyen: champú, acondicionador, mascarilla capilar y tratamiento intensivo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

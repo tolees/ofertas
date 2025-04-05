@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MODO DE USO: Puedes consumirlas crudas, bien molidas o enteras, añadidas a tus recetas de repostería, en panes, bizcochos, galletas...También puedes incluirlas en ensaladas, barritas o batidos o combinarlas con la leche, zumo o la bebida vegetal que prefieras en tus desayunos. Por otro lado, puedes tomarlas dejándolas macerar en agua toda la noche. Toma tres cucharadas soperas del macerado durante las siguientes 12 horas en tres o cuatro dosis con abundante agua
-- BENEFICIOS: Ayudan a regular el tránsito intestinal y eliminar toxinas del cuerpo
-- Las semillas de lino marrón, más conocidas como linaza, son una de las principales fuentes de Omega 3 y destacan por su contenido en fibra, por lo que son una gran ayuda para regular el tránsito intestinal
-- ETIQUETAS: Este producto es apto para veganos y celíacos. Además, no contiene colorantes ni conservantes
-- PROPIEDADES: Las semillas de lino marrón Bio de ECOSANA proceden de cultivos 100% ecológicos, por lo que conservan todas sus propiedades intactas, contribuyendo también con el cuidado al medioambiente
 - ALIMENTACIÓN, SEMILLAS ENTERAS. Semillas de lino marrón procedentes de Agricultura Ecológica. Sin conservantes ni colorantes
+- MODO DE USO: Puedes consumirlas crudas, bien molidas o enteras, añadidas a tus recetas de repostería, en panes, bizcochos, galletas...También puedes incluirlas en ensaladas, barritas o batidos o combinarlas con la leche, zumo o la bebida vegetal que prefieras en tus desayunos. Por otro lado, puedes tomarlas dejándolas macerar en agua toda la noche. Toma tres cucharadas soperas del macerado durante las siguientes 12 horas en tres o cuatro dosis con abundante agua
+- PROPIEDADES: Las semillas de lino marrón Bio de ECOSANA proceden de cultivos 100% ecológicos, por lo que conservan todas sus propiedades intactas, contribuyendo también con el cuidado al medioambiente
+- ETIQUETAS: Este producto es apto para veganos y celíacos. Además, no contiene colorantes ni conservantes
+- Las semillas de lino marrón, más conocidas como linaza, son una de las principales fuentes de Omega 3 y destacan por su contenido en fibra, por lo que son una gran ayuda para regular el tránsito intestinal
+- BENEFICIOS: Ayudan a regular el tránsito intestinal y eliminar toxinas del cuerpo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YXHVXXR{{</world>}}

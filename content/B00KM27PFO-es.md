@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Siembra: En Primavera necesita suelos medianamente compactos, permeables
-- Planta anual. Se utiliza como condimento en las conservas de hortalizas y en diversos platos. Las semillas madras resultan bastante aromáticas. Favorece la digestión y elimina los gases
 - Cosecha: A finales de Agosto. Utilización: de hojas frescas al igual que las semillas maduras.
+- Planta anual. Se utiliza como condimento en las conservas de hortalizas y en diversos platos. Las semillas madras resultan bastante aromáticas. Favorece la digestión y elimina los gases
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00KM27PFO{{</world>}}

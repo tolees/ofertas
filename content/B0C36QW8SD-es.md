@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Detalles: cintura elástica
 - Pantalones cortos de natación bien cortados
 - Ajuste: cintura media
-- Detalles: cintura elástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C36QW8SD{{</world>}}

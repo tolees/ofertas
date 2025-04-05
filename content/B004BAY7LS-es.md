@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los mejores productos para tu cuidado personal
 - Maja Jabon Ovalado 3 X 50 Gr Sets
 - Calidad y precio nunca antes tan irresistibles
+- Los mejores productos para tu cuidado personal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B004BAY7LS{{</world>}}

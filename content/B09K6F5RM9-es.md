@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Es el protagonista del Mandalorian
 - Mide aproximadamente 13,7
 - Lampara fabricada en ABS
+- Es el protagonista del Mandalorian
 - Marca: Paladone
 
 [🛒 Comprar!!!]({{< param buyurl >}})

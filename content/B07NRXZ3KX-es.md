@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ✔ We Love Basics: atemporal y sencillo, simplemente sin cambios. Un par de jeans en los que siempre puedes confiar.
 - ✔ Material: 70% algodón, 28% poliéster, 2% elastano.
-- ✔ Calidad – Sólida alta calidad gracias a su alto rendimiento.
 - ✔ Ajuste – Gracias al corte ajustado y al elastano se garantiza una sensación cómoda.
+- ✔ We Love Basics: atemporal y sencillo, simplemente sin cambios. Un par de jeans en los que siempre puedes confiar.
+- ✔ Calidad – Sólida alta calidad gracias a su alto rendimiento.
 - ✔ Tu estilo – Gracias al diseño clásico, los vaqueros Glenn Slim Fit se pueden combinar perfectamente con tu estilo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

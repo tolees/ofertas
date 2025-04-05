@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Barritas proteicas nutricionales y sanas: las barritas proteicas, además de ser altas en nutrientes, son bastante sanas, están hechas sin aceite de palma y son ideales para tomar antes, durante y después del entrenamiento
+- Importante: Para ver la Fecha de Caducidad, por favor consultela impresa en el exterior del envase.
+- Snacks ricos en proteínas: las barras proteína nutricionales aportan 21 gr de proteínas por porción para disfrutar de deliciosos snacks proteicos y complementar tu dieta en cualquier momento del día o del entrenamiento
 - Barras proteína brownie de caramelo salteado: incluye un paquete de 12 barras de proteína PhD Nutrition Smart Bar, cada barra de 64 gr sabor brownie de caramelo salteado aporta 21 gr de proteína por porción
 - Barras de proteína bajas en azúcar: estos sabrosos snacks proteicos tienen menos de 1 gr de azúcar por barrita, un snack alto en proteínas que el cuerpo asimila con mayor facilidad procesando energía al instante
-- Snacks ricos en proteínas: las barras proteína nutricionales aportan 21 gr de proteínas por porción para disfrutar de deliciosos snacks proteicos y complementar tu dieta en cualquier momento del día o del entrenamiento
-- Importante: Para ver la Fecha de Caducidad, por favor consultela impresa en el exterior del envase.
+- Barritas proteicas nutricionales y sanas: las barritas proteicas, además de ser altas en nutrientes, son bastante sanas, están hechas sin aceite de palma y son ideales para tomar antes, durante y después del entrenamiento
 - Barras de proteína con el mejor sabor: las deliciosas barritas proteicas súper blandas con un centro de proteínas de caramelo son crujientes pero suaves a la mordida tienen cobertura de chocolate y delicioso sabor a frambuesa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

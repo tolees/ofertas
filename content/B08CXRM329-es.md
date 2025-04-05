@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela: goma
-- Cierre: cordones
 - Material exterior: mesh / suede
 - Material interior: sintético
+- Suela: goma
+- Cierre: cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08CXRM329{{</world>}}

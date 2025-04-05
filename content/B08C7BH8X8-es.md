@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Hombros con la costura caída
 - Felpa 52% algodón / 48% poliéster reciclado
+- Cuello redondo
 - Corte holgado
 - Sudadera más corta de lo habitual
-- Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08C7BH8X8{{</world>}}

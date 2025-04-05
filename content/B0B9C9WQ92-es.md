@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Suave y ligera
 - Transpirable Matlite Motion Uppers
 - Suela de goma para tracción
-- Suave y ligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B9C9WQ92{{</world>}}

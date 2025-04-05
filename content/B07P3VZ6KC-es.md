@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela flexible.
 - Ligeras.
+- Suela flexible.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P3VZ6KC{{</world>}}

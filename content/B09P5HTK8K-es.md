@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Las modelos miden 1,80 m y llevan una talla S y XXL.
-- Un pantalón de rizo francés elástico súper suave, con detalle de marca bordado en la cintura trasera y una silueta de talle medio. Entrepierna de 27 cm
 - Esenciales by The Drop
+- Un pantalón de rizo francés elástico súper suave, con detalle de marca bordado en la cintura trasera y una silueta de talle medio. Entrepierna de 27 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09P5HTK8K{{</world>}}

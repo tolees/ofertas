@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un parfum, en la que la intensidad de sus notas olfativas refleja la intensidad de la piedra preciosa en la que se inspira el Onyx Negro
-- Perfume con fragancia floriental afrutado para mujeres marca Tous
 - Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
+- Un parfum, en la que la intensidad de sus notas olfativas refleja la intensidad de la piedra preciosa en la que se inspira el Onyx Negro
 - Su pirámide olfativa comienza por avellana, pomelo y peonía. En su corazón, orquídea negra y heliotropo que finaliza en vainilla, vetiver y sándalo
+- Perfume con fragancia floriental afrutado para mujeres marca Tous
 - Vaporizador de 30ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

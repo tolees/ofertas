@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El estilo del running para su día a día
+- Horma clásica
+- Cierre de cordones
 - Forro textil
 - Parte superior textil
-- Cierre de cordones
-- Horma clásica
-- El estilo del running para su día a día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5NF6J33{{</world>}}

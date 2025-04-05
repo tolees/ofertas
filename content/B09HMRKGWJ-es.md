@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo de GANT impreso en el pecho
-- Cuello redondo
 - Corte regular
+- Cuello redondo
+- Logotipo de GANT impreso en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HMRKGWJ{{</world>}}

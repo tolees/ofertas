@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🐹MEDIDAS TOTALES - L23*W17*H24CM
-- 🐹FÁCIL DE USAR - Tiene un asa en la parte superior para que puedas mover la jaula fácilmente. El tamaño de la puerta principal permite que la mano entre con facilidad para poder maniobrar desde el exterior sin necesidad de desmontar siempre la jaula.
-- 🐹ACCESORIOS INCLUIDOS - Esta jaula para pequeños roedores viene con todos los accesorios incluidos. Incluye caseta para dormir, escalera, bebedero, comedero, rueca. Todos estos accesorios contribuyen al bienestar de tu mascota. Añade más diversión y permite que tu mascota se mueva libremente.
 - 🐹JAULA DE 2 PISOS - esta jaula para hámster de 2 pisos brinda un amplio espacio para que sus mascotas hagan ejercicio, jueguen y descansen. Adecuado para mascotas pequeñas como hámsteres, ratones, jerbos, etc.
 - 🐹BANDEJA INFERIOR ALTA - La bandeja inferior es lo suficientemente alta como para poner arena absorbente en su interior para que tus mascotas no la tiren al mínimo movimiento.
+- 🐹ACCESORIOS INCLUIDOS - Esta jaula para pequeños roedores viene con todos los accesorios incluidos. Incluye caseta para dormir, escalera, bebedero, comedero, rueca. Todos estos accesorios contribuyen al bienestar de tu mascota. Añade más diversión y permite que tu mascota se mueva libremente.
+- 🐹MEDIDAS TOTALES - L23*W17*H24CM
+- 🐹FÁCIL DE USAR - Tiene un asa en la parte superior para que puedas mover la jaula fácilmente. El tamaño de la puerta principal permite que la mano entre con facilidad para poder maniobrar desde el exterior sin necesidad de desmontar siempre la jaula.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09BZ6KHS3{{</world>}}

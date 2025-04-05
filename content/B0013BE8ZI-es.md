@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cerdas largas para peinar a través de las pestañas para un acabado uniforme
 - El cepillo antiaglomerado te da un volumen increíble al instante sin aglutinar
 - Fórmula duradera
-- Cerdas largas para peinar a través de las pestañas para un acabado uniforme
 - Cerdas cortas para un volumen máximo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - protector de dedos,
-- Plantilla transpirable
 - Zapatos para correr
+- Plantilla transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN78BQYX{{</world>}}

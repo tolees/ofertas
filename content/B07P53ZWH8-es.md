@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas: altura 30 cm, diámetro parte alta 35 cm y diámetro fondo 25 cm.
 - Capacidad: 26 litros.
+- Medidas: altura 30 cm, diámetro parte alta 35 cm y diámetro fondo 25 cm.
 - Color: negro.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

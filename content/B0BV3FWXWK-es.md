@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Largo: normal
 - Lavar en ciclo de lavado normal a 40°, No usar lejía, No secar en la secadora, Planchar a un máx. 150° (Nivel 2), Limpieza en seco con percloroetileno
 - Vaqueros jegging premamá elásticos de denim ligero con cinta cómoda que cubre la barriga y bolsillos de adorno.
-- Largo: normal
 - Pernera: Jegging, corte muy estrecho de la cadera al tobillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

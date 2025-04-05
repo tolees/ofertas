@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un pequeño formato para una gran imaginación La caja incluye 13 barras en diferentes colores con purpurina, 16 esferas y una base cuadrada con purpurina
-- Garantía de calidad Swiss Made; todos los productos se ajustan a las más estrictas normas de seguridad europeas e internacionales
-- Los productos Geomag están clasificados en la categoría STEM (acrónimo de Science, Technology, Engineering and Mathematics), que indica un enfoque interdisciplinar del aprendizaje
 - Las barras, mediante los imanes situados en ambos extremos, se conectan a las esferas, permitiéndote construir todo lo que se te ocurra
 - Geomag es el juego de construcción magnético más famoso del mundo, compuesto por barras magnéticas y esferas metálicas
+- Un pequeño formato para una gran imaginación La caja incluye 13 barras en diferentes colores con purpurina, 16 esferas y una base cuadrada con purpurina
+- Los productos Geomag están clasificados en la categoría STEM (acrónimo de Science, Technology, Engineering and Mathematics), que indica un enfoque interdisciplinar del aprendizaje
+- Garantía de calidad Swiss Made; todos los productos se ajustan a las más estrictas normas de seguridad europeas e internacionales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BKNCOKK{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de una mezcla de granos de cacahuete tostados
-- Es rico en fibra y contiene vitamina E y magnesio para ayudar al cuerpo
-- No contiene sal, azúcar ni aceite de palma
 - Mantequilla de maní natural MyProtein (1000g)
 - La mantequilla de maní MyProtein es una fuente de proteínas para apoyar la masa muscular
+- No contiene sal, azúcar ni aceite de palma
+- Hecho de una mezcla de granos de cacahuete tostados
+- Es rico en fibra y contiene vitamina E y magnesio para ayudar al cuerpo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00LKE1RWU{{</world>}}

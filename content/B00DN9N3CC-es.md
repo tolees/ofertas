@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se aconseja tomar 1 vial de jalea al día, en ayunas, preferiblemente diluida en agua, leche o zumo de fruta
-- No se debe superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta equilibrada. Es importante seguir una dieta variada y equilibrada y un estilo de vida saludable. Mantener fuera del alcance de los niños más pequeños Se recomienda beber 2 L de agua al día
-- Contiene extracto de Avena sativa, con propiedades vitalizantes, estimulantes y fortificantes. También extracto seco de Acerola, fuente natural de vitamina C esencial para el buen funcionamiento del sistema inmunitario así como para la lucha contra la oxidación
 - Contiene Jalea real, considerada una de las sustancias naturales más completas, que actúa tonificando y reforzando el organismo. Proporciona una acción renovadora sobre las esferas física y psíquica, contribuyendo a la desaparición de la fatiga
+- Se aconseja tomar 1 vial de jalea al día, en ayunas, preferiblemente diluida en agua, leche o zumo de fruta
 - Complemento alimenticio a base de Jalea real y otros ingredientes que aportan energía y colaboran en el mantenimiento del tono vital
+- Contiene extracto de Avena sativa, con propiedades vitalizantes, estimulantes y fortificantes. También extracto seco de Acerola, fuente natural de vitamina C esencial para el buen funcionamiento del sistema inmunitario así como para la lucha contra la oxidación
+- No se debe superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta equilibrada. Es importante seguir una dieta variada y equilibrada y un estilo de vida saludable. Mantener fuera del alcance de los niños más pequeños Se recomienda beber 2 L de agua al día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00DN9N3CC{{</world>}}

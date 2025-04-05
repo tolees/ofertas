@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cocodrilo en el pecho: el toque elegante
-- Cuello de pico: un look clásico Con estilo
 - Relaxed fit; corte amplio; hombros caídos amplitud; comodidad
+- Cuello de pico: un look clásico Con estilo
+- Cocodrilo en el pecho: el toque elegante
 - Lana respetuosa con el medioambiente: para no pasar frío y respetar a los animales
 - Botones a tono: detalles óptimos
 

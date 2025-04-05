@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diversión para toda la familia.
-- Rápido, táctico, cautivador.
-- Nominado a Juego del Año 2014.
 - De 2 a 4 jugadores, a partir de 10 años.
+- Diversión para toda la familia.
+- Nominado a Juego del Año 2014.
 - Fichas de casino de lujo de alta calidad.
+- Rápido, táctico, cautivador.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00J0VGJXC{{</world>}}

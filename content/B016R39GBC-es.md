@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cordón de tracción en la cintura elástica
-- Clima Tejido suave y ligero
 - Para un control de la humedad
+- Clima Tejido suave y ligero
 - Tela climática barre el sudor de la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

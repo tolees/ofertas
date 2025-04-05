@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aroma intenso, sabor decidido
 - Fabricado en Italia
 - Marca: Kimbo
+- Aroma intenso, sabor decidido
 - 100 cápsulas monodosis de 7,3 g empaquetadas individualmente en atmósfera protectora
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

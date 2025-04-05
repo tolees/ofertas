@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bolsito portamóvil logo
 - 10 (l) x 1.8 (an.) x 17 (alt.)
 - Compartimento central y bolsillo lateral con cremallera
-- Bolsito portamóvil logo
-- Ajuste de la correa a contraste
 - Forro a tono
+- Ajuste de la correa a contraste
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098YGF1CH{{</world>}}

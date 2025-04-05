@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla acolchada y cómoda
 - Skechers Detalle del logotipo
+- Plantilla acolchada y cómoda
 - Suela de tracción flexible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

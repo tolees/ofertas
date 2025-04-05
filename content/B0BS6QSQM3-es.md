@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Troncos de altura regular
-- Jersey elástico
 - Cinturillas con logo
+- Jersey elástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS6QSQM3{{</world>}}

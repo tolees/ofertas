@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Montura para Micro Cuatro Tercios
-- Ultra gran angular para cámaras réflex digitales y compactas sin espejo con sensor APS-C
 - Incluye parasol extraíble
+- Ultra gran angular para cámaras réflex digitales y compactas sin espejo con sensor APS-C
 - Enfoque manual
 - Con revestimiento UMC anti-reflectante
+- Montura para Micro Cuatro Tercios
 - Compatible con filtros de 77mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

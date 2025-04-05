@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Torque blando / duro: 17/34 Nm
-- Capacidad de sujeción: 1 10 mm
-- Ralentí: 0-360 / 0-1400 / min
-- Batería: Li-Ion 10,8 V / 2,0 Ah
 - Capacidad de taladrado en acero: 10 mm de madera: 22 mm
+- Torque blando / duro: 17/34 Nm
+- Batería: Li-Ion 10,8 V / 2,0 Ah
+- Ralentí: 0-360 / 0-1400 / min
+- Capacidad de sujeción: 1 10 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ITPNYGA{{</world>}}

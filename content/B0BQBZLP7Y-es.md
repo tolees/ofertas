@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Classic All Star Patch en el tobillo.
-- Patch Chuck Taylor icónico en el tobillo.
 - La única suela agarrada de alto agarre aumenta la tracción.
+- Patch Chuck Taylor icónico en el tobillo.
+- Classic All Star Patch en el tobillo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQBZLP7Y{{</world>}}

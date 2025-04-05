@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Recubrimientos de poliuretano, capas inferiores de malla
 - Suela exterior detallada con caña
+- Recubrimientos de poliuretano, capas inferiores de malla
 - Nuevo diseño con una sensación nostálgica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye una hoja de pegatinas
 - Cada una de ellas lleva un mensaje en inglés en su portada
-- Con tapa dura y 80 hojas de papel de 80 gr.
+- Incluye una hoja de pegatinas
 - Set de 3 libretas A4, con encuadernación en espiral
+- Con tapa dura y 80 hojas de papel de 80 gr.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C62MV6Z4{{</world>}}

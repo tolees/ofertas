@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología GEL
-- Suela ASICSGRIP
 - Membrana GORE-TEX
+- Suela ASICSGRIP
+- Tecnología GEL
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B1LSY2NP{{</world>}}

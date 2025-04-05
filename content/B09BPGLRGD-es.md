@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Incluye las aplicaciones clásicas de Office: Word, Excel, PowerPoint
+- Es una compra de pago único
 - Soporte técnico: incluye instalación y está incluido durante 60 días sin costo adicional
 - Office Hogar & Estudiantes está diseñado para las personas que buscan herramientas de productividad para su hogar o en la escuela
 - Para 1 PC o Mac
 - 1 licencia para uso personal
-- Es una compra de pago único
-- Incluye las aplicaciones clásicas de Office: Word, Excel, PowerPoint
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BPGLRGD{{</world>}}

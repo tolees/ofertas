@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de madera maciza
 - Cara superior e inferior de latón
+- Profundidad y anchura del fondo 48 x 18.0 ± 0.5mm
 - Longitud de la base: 120 ± 1mm
+- Material de madera maciza
 - Herramienta esencial para trabajos de madera y carpintería
 - Cuchilla de acero para resortes
 - Grosor del eje de metal: 3 mm
-- Profundidad y anchura del fondo 48 x 18.0 ± 0.5mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07KWWFT82{{</world>}}

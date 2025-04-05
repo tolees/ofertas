@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos con abertura
 - Forro de malla
+- Bolsillos con abertura
 - Cintura elástica con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

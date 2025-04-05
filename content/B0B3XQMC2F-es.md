@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capucha con cordón ajustable con la marca: protección ajustable
+- Classic fit: favorece todo tipo de cuerpos
 - Cinturilla y puños acanalados: no le falta ni un detalle
 - Cocodrilo estampado y marca en dégradé: el cocodrilo se renueva
 - Cocodrilo verde en la manga: tu estilo, de la mano de Lacoste
-- Classic fit: favorece todo tipo de cuerpos
+- Capucha con cordón ajustable con la marca: protección ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B3XQMC2F{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Desarmado en piezas en el cartón de presentación
 - Plegable y ahorrador de espacio
+- Desarmado en piezas en el cartón de presentación
 - Caballete
 
 [🛒 Visítala!!!]({{< param buyurl >}})

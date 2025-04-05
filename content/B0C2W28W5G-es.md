@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatillas casual para hombre
 - 90% LEATHER 10% SYNT
+- Zapatillas casual para hombre
 - MARRON
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Materiales de alta calidad
 - Accesorios compatibles con todos los productos Brio
-- Producto probado y seguro para su bebé
 - Apoya y estimula la motricidad global, como aprender a caminar y el control de equilibrio
+- Materiales de alta calidad
+- Producto probado y seguro para su bebé
 - Desarrolla la capacidad narrativa y las habilidades sociales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

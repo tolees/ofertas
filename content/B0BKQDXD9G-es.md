@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura y puños elásticos
-- Bomber de corte corto
 - Tela cómoda
+- Bomber de corte corto
+- Cintura y puños elásticos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKQDXD9G{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre con cordón
 - Compartimento con cierre magnético
+- Cierre con cordón
 - Llaveros 2D de mono y conejito
 - Logotipo de Kipling
 

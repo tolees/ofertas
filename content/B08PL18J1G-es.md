@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con 1/4 cremallera
+- Detalles distintivos de la marca
 - Con rayas a lo largo de las mangas
 - Diseño de ajuste regular
-- Detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PL18J1G{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Set de 6 Vaso de vidrio Verde 26 cl Flora de Bormioli Rocco
 - Se puede lavar en el lavavajillas
 - Completamente libre de cadmio o plomo
-- Set de 6 Vaso de vidrio Verde 26 cl Flora de Bormioli Rocco
 - Para agua, zumos, refrescos, batidos e incluso para la presentación de postres
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

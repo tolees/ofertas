@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseño elástico y ligero para facilitar el movimiento y una mejor comodidad
-- Camisa hecha por Tommy Hilfiger
 - Adecuado para: clima cálido
+- Camisa hecha por Tommy Hilfiger
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093Q4F3XF{{</world>}}

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tom Ford unisex Parfum Black orchid 100 ml
 - Tom Ford unisex Parfum Black orchid 100 ml
-- Tom Ford unisex Parfum Black orchid 100 ml
-- Tom Ford unisex Parfum Black orchid 100 ml
 - Tipo de piel: All
+- Tom Ford unisex Parfum Black orchid 100 ml
+- Tom Ford unisex Parfum Black orchid 100 ml
 - Tom Ford unisex Parfum Black orchid 100 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

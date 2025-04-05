@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- GAFAS DE SOL KARL LAGERFELD KL6090S WHITE PARA UNISEX ADULTO TALLA 52/21/145
+- Disponible en el color típico de Karl de blanco y negro, así como en azul y negro mate con patillas personalizadas con patrón de monograma KL
 - Este estilo es de talla L
 - El logotipo impreso de Rue St. Guillaume se coloca en las patillas anchas, presentadas en blanco o negro, para contrastar con la sien del marco
-- GAFAS DE SOL KARL LAGERFELD KL6090S WHITE PARA UNISEX ADULTO TALLA 52/21/145
 - Todas las lentes son sólidas también con efecto espejo en azul y negro mate
-- Disponible en el color típico de Karl de blanco y negro, así como en azul y negro mate con patillas personalizadas con patrón de monograma KL
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BDPB47LZ{{</world>}}

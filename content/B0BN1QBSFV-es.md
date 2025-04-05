@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exterior: 55 % poliamida, 45 % poliéster. Forro: 100 % poliéster. Relleno: 100 % poliéster
 - Chaleco acolchado de poliéster con capucha, cierre con cremallera, bolsillos en la parte delantera, interior de la capucha, fantasía óptica, Over Fit
+- Exterior: 55 % poliamida, 45 % poliéster. Forro: 100 % poliéster. Relleno: 100 % poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN1QBSFV{{</world>}}

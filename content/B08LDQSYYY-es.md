@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pijama 2 piezas niños - fabricado en algodón 100% con firbas de 180 gramos que garantizan la suavidad y calidad del pijama 8 años
-- Tipo de tejido: Tejido
 - Pijama de regalo - caja con detalles de la licencia ¡para que sea el regalo perfecto!
+- Pijama 2 piezas niños - fabricado en algodón 100% con firbas de 180 gramos que garantizan la suavidad y calidad del pijama 8 años
 - Pijamas elásticos - elásticos en los tobillos para que no se te dé la vuelta mientras duermes
 - Pijama The Mandalorian - estampado al agua en la camiseta para garantizar el brillo y luminosidad de los colores y estampado completo del personaje en el pantalón
+- Tipo de tejido: Tejido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LDQSYYY{{</world>}}

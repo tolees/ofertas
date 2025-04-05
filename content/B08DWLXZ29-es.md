@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No es resistente al agua
 - Piel: sintético
+- No es resistente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08DWLXZ29{{</world>}}

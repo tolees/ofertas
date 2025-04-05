@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Detalles de las PUMA California originales
-- Marca PUMA en talón
 - Parte superior con perforaciones
+- Marca PUMA en talón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DBWXTTV{{</world>}}

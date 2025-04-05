@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Color de la tinta: negro
-- Bolígrafo metálico
 - Mensaje “Va a salir superbién” impreso en él
+- Bolígrafo metálico
 - Optimo para la vuelta al col
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

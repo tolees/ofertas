@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con goma en la cintura y en los puños
+- Con volantes en los hombros
 - Vestido midi de manga larga Con volumen
 - Con estampado de flores y Con cenefa en el bajo de la falda
-- Con goma en la cintura y en los puños
 - Con cuello redondo Con abertura en el escote Con lazo Con borlas
-- Con volantes en los hombros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C23JFLFT{{</world>}}

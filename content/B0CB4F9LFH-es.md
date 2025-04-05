@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste regular
-- Logotipo frontal impreso
 - Cuello redondo
+- Logotipo frontal impreso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4F9LFH{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Ajuste delgado
 - Tela suave
-- Tejido elástico
 - Ofrece comodidad y libertad de movimiento
+- Tejido elástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08NX5PC2M{{</world>}}

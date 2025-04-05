@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Efecto espejo
 - Nivel de protección: S3
 - Lentes cerámicas
+- Efecto espejo
 - Protección UV
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye el juicio de las seis pruebas, una aventura de Pathfinder para personajes de tercer nivel
+- Permite realizar una exploración de la fe de Iomedae la Heredera, diosa del valor, por Sean K Reynolds
 - Tipo de producto: juego de rol
 - Este volumen de las Sendas de aventuras Pathfinder continúa la Senda de aventuras Concejo de ladrones
-- Permite realizar una exploración de la fe de Iomedae la Heredera, diosa del valor, por Sean K Reynolds
+- Incluye el juicio de las seis pruebas, una aventura de Pathfinder para personajes de tercer nivel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B018R6L4NU{{</world>}}

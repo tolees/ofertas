@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye 30 mini bolsitas de 40g de productos TOP HARIBO: Ositos de Oro, Chispa Cola, Fresones, Ladrillos Fresa Pica y Melocotones.
-- Disfruta de este surtido de varios sabores con tus invitados y deja que la magia HARIBO haga el resto
 - Muy buena calidad
+- Disfruta de este surtido de varios sabores con tus invitados y deja que la magia HARIBO haga el resto
 - Móntate tu Mega Party donde quieras y con quien quieras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

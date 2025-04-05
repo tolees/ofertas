@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fibras sostenibles: Lenzing Ecovero
-- Estampado abstracto creado por M. Christian Lacroix
-- Cierre de botones
-- 100% Viscose
 - Cuello pico
+- Fibras sostenibles: Lenzing Ecovero
+- 100% Viscose
+- Cierre de botones
+- Estampado abstracto creado por M. Christian Lacroix
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09R7XQC18{{</world>}}

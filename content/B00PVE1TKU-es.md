@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño compacto y práctico
 - Velocidades WiFi de hasta 300 Mbps
+- Diseño compacto y práctico
 - Conexiones de doble banda para mayor flexibilidad y menos interferencias
 - Cifrado WPA2/WPA para proteger tus conexiones inalámbricas
 - Fácil configuración, fácil operación

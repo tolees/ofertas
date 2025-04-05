@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera con capucha
 - Ajuste regular
+- Bolsillo tipo canguro
+- Sudadera con capucha
 - Sudadera con capucha
 - Aplicaciones de la marca en mangas y capucha
 - 40% poliéster
-- Bolsillo tipo canguro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BSNPBGJ9{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Palanca de 4 bulones de acero; dos vueltas de cierre
+- Hierro niquelado
 - Sistema antipalanca y sin picaporte
 - Cilindro por ambos lados
-- Hierro niquelado
-- Palanca de 4 bulones de acero; dos vueltas de cierre
 - Cilindro exterior forjado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

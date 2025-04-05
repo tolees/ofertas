@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Metálico
-- Longitud total: 2.700 mm
 - Alto: 800 mm
-- Ancho: 500 mm
+- Longitud total: 2.700 mm
+- Metálico
 - Peso en vacío: 30 Kg
+- Ancho: 500 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CFL5E0S{{</world>}}

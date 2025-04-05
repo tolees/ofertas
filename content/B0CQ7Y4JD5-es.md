@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en un lugar fresco y seco. Una vez abierto, conservar en un recipiente hermético
-- Alto contenido de fibra - Apto para dietas vegetarianas y veganas
-- El paquete contiene 8 porciones
-- Producto de Estados Unidos
-- La siguiente información se aplica a cada unidad del paquete
-- Perfecto para hornear
 - No apto para alérgicos a otros frutos de cáscara debido al método de producción
 - El embalaje puede variar de las imágenes mostradas. Este producto era anteriormente un producto de Happy Belly. Ahora es parte de la marca by Amazon. El producto tiene exactamente las mismas formulaciones, tamaño y calidad
-- 1 kg. 1 paquete: 1 x 200g
+- La siguiente información se aplica a cada unidad del paquete
+- Conservar en un lugar fresco y seco. Una vez abierto, conservar en un recipiente hermético
+- El paquete contiene 8 porciones
+- Producto de Estados Unidos
+- Alto contenido de fibra - Apto para dietas vegetarianas y veganas
+- Perfecto para hornear
 - Nutrición (por 100g): Valor energético 619kcal; Grasas 53g; Hidratos de carbono 5,7g; Proteínas 24g; Fibra alimentaria 11,4g
+- 1 kg. 1 paquete: 1 x 200g
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQ7Y4JD5{{</world>}}

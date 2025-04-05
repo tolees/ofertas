@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fader maestro de 60 mm duradero
+- 16 botones iluminados aparte (con control de transporte) para un acceso directo a las funciones de las teclas
 - 8 controles giratorios con bases LED para ajustes sobre la marcha de tus parámetros favoritos
 - Modo de doble capa para un cambio rápido entre el DAW y el control del instrumento
-- 16 botones iluminados aparte (con control de transporte) para un acceso directo a las funciones de las teclas
+- Fader maestro de 60 mm duradero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B012CSKTYY{{</world>}}

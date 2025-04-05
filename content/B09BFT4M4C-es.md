@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Efecto Rainbow RGB LED
 - Auriculares de 50 mm de gran calidad de sonido
+- Compatible con PC
 - Tipo de conectividad: alámbrico
 - Control de volumen en el auricular - Diadema ajustable y ligera para una mayor comodidad
-- Compatible con PC
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BFT4M4C{{</world>}}

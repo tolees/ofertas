@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ojales en la corona
-- Correa de cuero ajustable en la parte posterior
 - Información de tallas del sombrero: ajustable: la correa en la parte posterior permite que la mayoría de tamaños de hasta 60 cm se ajusten cómodamente
-- Corona estructurada de 6 paneles
+- Ojales en la corona
 - Etiqueta roja con tapa
+- Corona estructurada de 6 paneles
+- Correa de cuero ajustable en la parte posterior
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C74MCG3S{{</world>}}

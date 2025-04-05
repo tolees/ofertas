@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marleylámpara de techo (4 focos, metal), color negro mate
 - La lámpara tiene una anchura de 75 cm y una altura total de 150 cm
-- Bombilla exclusiva bombilla recomendada 4 x gu10 máx 35 w
 - Sin bombilla
+- Bombilla exclusiva bombilla recomendada 4 x gu10 máx 35 w
+- Marleylámpara de techo (4 focos, metal), color negro mate
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07P6YC9YW{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 bolsillos delanteros y un bolsillo para monedas
 - Vaqueros Ajustados
+- 2 bolsillos delanteros y un bolsillo para monedas
 - Composición: 75% algodón, 24% poliéster, 1% elastano
 - Cierre delantero
 

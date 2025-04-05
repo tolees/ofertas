@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reto Mutación: añade una quinta enfermedad (violeta) que se comporta de forma diferente a las cuatro originales.
 - Esta expansión añade 8 cartas de Personaje, 11 cartas de Evento y 2 retos para Pandemic: La cura.
-- Para empezar, juega al juego básico con los nuevos Personajes y Eventos. Más adelante puedes añadir un reto para que la partida sea un poco más diferente. Te sugerimos que pruebes los retos en este orden:
 - Ambos retos pueden jugarse juntos o por separado. Si decides introducir ambos retos a la vez, te sugerimos que juegues con el nivel Fácil (I). ¡Buena suerte!
+- Reto Mutación: añade una quinta enfermedad (violeta) que se comporta de forma diferente a las cuatro originales.
+- Para empezar, juega al juego básico con los nuevos Personajes y Eventos. Más adelante puedes añadir un reto para que la partida sea un poco más diferente. Te sugerimos que pruebes los retos en este orden:
 - Reto Zonas de riesgo: diferentes regiones del mundo se ven afectadas cada vez que hay una epidemia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

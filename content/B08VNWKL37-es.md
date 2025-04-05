@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Bolsillo canguro
 - Puños y dobladillo de canalé
-- Capucha con cordón ajustable
 - Fabricada en material cómodo
+- Capucha con cordón ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08VNWKL37{{</world>}}

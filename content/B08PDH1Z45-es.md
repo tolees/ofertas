@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de tela de forro polar acogedora
 - Puños y dobladillo acanalados
-- Ajuste regular
 - Cuello redondo
 - Con el clásico logotipo de Housemark en la parte delantera
+- Hecho de tela de forro polar acogedora
+- Ajuste regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PDH1Z45{{</world>}}

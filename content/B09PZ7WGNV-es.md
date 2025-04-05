@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligero y ligero
 - Amortiguación de entresuela ultraligera sensible
+- Ligero y ligero
 - Suela de tracción flexible
 
 [🛒 Visítala!!!]({{< param buyurl >}})

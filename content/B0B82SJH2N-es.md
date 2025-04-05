@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material superior: goma
-- Cierre: cordones
-- Material interior: sintético
-- Suela: caucho sintético
 - Forma del tacón: sin tacón
+- Suela: caucho sintético
+- Material superior: goma
+- Material interior: sintético
+- Cierre: cordones
 - Resistente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Valores: desarrolla la habilidad manual, ejercita el pensamiento lógico y favorece el aprendizaje
 - Descubre el mundo de los animales y sus diferentes hábitats con el juego de clasificación Montessori Lisciani
-- Incluye: 1 expositor de cartón para montar con casillas, 57 figuras de animales agrupados por hábitat e instrucciones
 - Método Montessori: juguete diseñado para fomentar la exploración, la independencia y el aprendizaje autodirigido de los niños a través del uso de los sentidos
+- Incluye: 1 expositor de cartón para montar con casillas, 57 figuras de animales agrupados por hábitat e instrucciones
 - Edad: recomendado a partir de 12 meses
 
 [🛒 Comprar!!!]({{< param buyurl >}})

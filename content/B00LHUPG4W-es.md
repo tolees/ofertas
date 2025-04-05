@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Un indicador LED informa al usuario cuando la regleta no tiene toma de tierra
+- Dos puertos USB integrados de 2.4 A
 - Las tapas deslizantes de seguridad ayudan a prevenir accidentes con niños
 - Consumo de energía: 306 J
 - La carcasa protege contra el daño producido por el fuego las tapas deslizantes de seguridad ayudan a prevenir accidentes con niños
-- Un indicador LED informa al usuario cuando la regleta no tiene toma de tierra
-- Dos puertos USB integrados de 2.4 A
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00LHUPG4W{{</world>}}

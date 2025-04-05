@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo de la marca
 - Cuello redondo acanalado
 - Manga larga
+- Logotipo de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS5QC2FP{{</world>}}

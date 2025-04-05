@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TAMAÑO - formato B4: 250 x 353 mm (formato para insertar sobre C4)
-- CANTIDAD - 50 piezass por paquete
-- PAPEL - 100 g/m² de color blanco con impresión interior gris (la impresión interior evita que el contenido se transparente)
 - CIERRE - solapa recta en el lado corto, adhesivo con tiras despegables
+- PAPEL - 100 g/m² de color blanco con impresión interior gris (la impresión interior evita que el contenido se transparente)
+- TAMAÑO - formato B4: 250 x 353 mm (formato para insertar sobre C4)
 - USO - para el envío de documentos importantes como cartas, facturas o contratos, correspondencia de negocios
+- CANTIDAD - 50 piezass por paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B091RM9WZY{{</world>}}

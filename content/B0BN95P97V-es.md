@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- PU Superior
 - Malla textil lining
 - TPR Outsole
-- PU Superior
 - Insole reciclado y transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

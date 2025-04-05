@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protector de mentón
-- Aislamiento Thermarator
 - Bolsillos laterales con cremallera
+- Aislamiento Thermarator
+- Protector de mentón
 - Tejido deperlante al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

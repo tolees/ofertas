@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes. Terminal de la patilla en TR90, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Más ancho para mejorar la ergonomía y confort. Almohadillas de silicona antideslizantes y anti-alérgicas.
 - Medidas: Frontal 145 mm; Patillas 145 mm ; Puente 12 mm ; Alto 50 mm. Modelo Unisex
+- La variedad de detalles, grabados y líneas en volumen a la altura del puente son la esencia de este modelo unisex. Diseño con montura estilizada de acero inoxidable dorado y rasgos marcados en forma angular con lentes color rosewood.
+- Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes. Terminal de la patilla en TR90, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Más ancho para mejorar la ergonomía y confort. Almohadillas de silicona antideslizantes y anti-alérgicas.
 - Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja.
-- La variedad de detalles, grabados y líneas en volumen a la altura del puente son la esencia de este modelo unisex. Diseño con montura estilizada de acero inoxidable dorado y rasgos marcados en forma angular con lentes color rosewood.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BFX5V2D2{{</world>}}

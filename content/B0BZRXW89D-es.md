@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Amortiguación LIGHTMOTION
-- Drop: 9,5 mm (talón: 33 mm / antepié: 23,5 mm)
-- Parte de monomalla
-- Horma clásica
-- Cierre de cordones
 - Forro textil
+- Parte de monomalla
+- Cierre de cordones
+- Drop: 9,5 mm (talón: 33 mm / antepié: 23,5 mm)
+- Horma clásica
+- Amortiguación LIGHTMOTION
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZRXW89D{{</world>}}

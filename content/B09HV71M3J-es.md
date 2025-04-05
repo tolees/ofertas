@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - RESISTENTE: Vidrio extra resistente: no se deteriora con el tiempo, resiste el calor, los choques térmicos, se puede congelar, esterilizar, etc.
-- HERMÉTICO: Tapa de silicona flexible fácil de utilizar: cierre hermético para conservar los sabores y aromas
-- CAPACIDAD: Capacidad de conservación de los tarros 150 ml / 250 ml
-- GRADUACIÓN: Graduación visible en ml/oz
 - FABRICADO EN FRANCIA: 100% Fabricado en Francia
+- HERMÉTICO: Tapa de silicona flexible fácil de utilizar: cierre hermético para conservar los sabores y aromas
+- GRADUACIÓN: Graduación visible en ml/oz
+- CAPACIDAD: Capacidad de conservación de los tarros 150 ml / 250 ml
 - MANTENIMIENTO: lavar a mano o en el lavavajillas
 - GARANTIZADO SIN BPA* (de acuerdo con la normativa vigente)
 

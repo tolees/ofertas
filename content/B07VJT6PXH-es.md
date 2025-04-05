@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: lona
-- Tipo de tacón: plano. Ancho del zapato: mediano
-- Material interior: textil
-- Cierre: cordón-Up
 - Suela: goma
+- Tipo de tacón: plano. Ancho del zapato: mediano
+- Cierre: cordón-Up
+- Material interior: textil
+- Material exterior: lona
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VJT6PXH{{</world>}}

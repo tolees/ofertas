@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cama tapizada
 - Invierno 22
+- Cama tapizada
 - Gioseppo Zapatillas deportivas
 - Materiales reciclados
 

@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Dispone del inversor de corriente de 12 V a 220 V que cambia el voltaje de corriente continua a corriente alterna, lo que permite que puedas utilizar la nevera en tu vehículo sin problemas.
 - Regula la temperatura de la nevera desde 5 ºC hasta los 65 ºC.
-- Función enfriamiento y función calentamiento para que elijas la opción que más se adapte a tus necesidades.
 - Llévate la nevera a todas partes y mantén tus bebidas y productos fríos en todos tus viajes gracias a su compatibilidad con coches y caravanas.
 - Capacidad de 4 litros para que almacenes bebidas, alimentos o aquello que desees.
+- Función enfriamiento y función calentamiento para que elijas la opción que más se adapte a tus necesidades.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CF25M8YF{{</world>}}

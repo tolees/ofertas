@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo.
-- Gráfico Reebok.
-- Diseño de manga corta.
 - Corte ajustado.
+- Diseño de manga corta.
+- Gráfico Reebok.
+- Cuello redondo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08S46MYJ5{{</world>}}

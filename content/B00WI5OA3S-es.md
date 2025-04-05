@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Su carne es fina, blanca y de agradable sabor. Rústico y resistente al frío. Prolongada conservación
 - Siembra: de Junio a Agosto
+- Su carne es fina, blanca y de agradable sabor. Rústico y resistente al frío. Prolongada conservación
 - Forma de cultivo: En semillero, cuando las plantas tengan de 3 a 4 hojas trasplantar al marco de 50x80 cm
-- Cosecha: a partir de 90 Días
 - Variedad temprana y de buen desarrollo, sus hojas son tiernas y de agradable sabor
+- Cosecha: a partir de 90 Días
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00WI5OA3S{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Banda
 - suelto
 - Faldón
-- Banda
 - Vestido largo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

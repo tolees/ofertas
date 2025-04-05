@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NUEVO PACKAGING, MISMA FÓRMULA | El cambio de packaging no comporta ningún cambio a nivel de fórmula ni composición. Sin Grasas, Sin Azúcares, Sin Gluten | Colágeno Natural en polvo con proteínas, Vitamina C, Magnesio y Ácido Hialurónico.
-- MODO DE EMPLEO | Tomar 11 gramos diarios de Colágeno (el contenido entero del dosificador). Disolver en un mínimo de 150 ml de- agua, leche (sola o con café, cacao…), bebidas vegetales y otros líquidos, o yogur.
-- CONTENIDO DEL BOTE | El bote contiene 330 gramos de Proteína de Colágeno Hidrolizada en Polvo. Envase para 30 días. Se aconseja no sobrepasar la dosis diaria recomendada, mantener fuera del alcance de los niños.
-- ¿PARA QUIÉN? | Colnatur Complex es ideal para personas que quieran cuidar sus Músculos, Huesos, Articulaciones, Encías, Dientes y Piel. Especialmente personas que realicen ejercicio físico moderado o que se sientan cansadas o fatigadas. No apto para fenilcetonúricos ni intolerantes al magnesio.
 - BENEFICIOS | Indicado para la regeneración muscular, gracias a la Vitamina C, que participa en la producción de colágeno. Además, las proteínas contribuyen a conservar la masa muscular y al mantenimiento de los huesos y articulaciones.
+- NUEVO PACKAGING, MISMA FÓRMULA | El cambio de packaging no comporta ningún cambio a nivel de fórmula ni composición. Sin Grasas, Sin Azúcares, Sin Gluten | Colágeno Natural en polvo con proteínas, Vitamina C, Magnesio y Ácido Hialurónico.
+- ¿PARA QUIÉN? | Colnatur Complex es ideal para personas que quieran cuidar sus Músculos, Huesos, Articulaciones, Encías, Dientes y Piel. Especialmente personas que realicen ejercicio físico moderado o que se sientan cansadas o fatigadas. No apto para fenilcetonúricos ni intolerantes al magnesio.
+- CONTENIDO DEL BOTE | El bote contiene 330 gramos de Proteína de Colágeno Hidrolizada en Polvo. Envase para 30 días. Se aconseja no sobrepasar la dosis diaria recomendada, mantener fuera del alcance de los niños.
+- MODO DE EMPLEO | Tomar 11 gramos diarios de Colágeno (el contenido entero del dosificador). Disolver en un mínimo de 150 ml de- agua, leche (sola o con café, cacao…), bebidas vegetales y otros líquidos, o yogur.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B015KGWSNK{{</world>}}

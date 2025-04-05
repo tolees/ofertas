@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Movimiento multifunción de cuarzo con tres subesferas
 - Esfera gris mate con efecto de rayo de sol con detalles de oro rosa
-- Pulsera de acero inoxidable con chapado iónico gris oscuro
 - Grosor de la caja de 11,5 mm / Diámetro de la caja: 46 mm
+- Pulsera de acero inoxidable con chapado iónico gris oscuro
 - 5 ATM de resistencia al agua se puede utilizar en la ducha o para nadar, pero no para bucear en aguas profundas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

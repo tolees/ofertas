@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiro medio
-- Bolsillos delanteros
-- Corte regular
-- Cintura elástica con cordón
 - 78 % algodón, 22 % forro polar de poliéster reciclado
+- Bolsillos delanteros
+- Cintura elástica con cordón
+- Corte regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C45YYLRR{{</world>}}

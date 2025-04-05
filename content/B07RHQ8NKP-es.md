@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene tacón plano
 - Cierre con cordones
+- Tiene tacón plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07RHQ8NKP{{</world>}}

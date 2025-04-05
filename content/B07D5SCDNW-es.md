@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo acanalado
 - Para uso diario o entrenamiento
+- Cuello redondo acanalado
 - Corte recto
 - Logotipo del felino de PUMA estampado
 

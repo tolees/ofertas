@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
-- 40% poliéster
-- Impresión de oso pixelado en el pecho
-- Manga larga
 - Puños de canalado elástico
+- Ajuste regular
+- Impresión de oso pixelado en el pecho
+- 40% poliéster
+- Manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRQ71SJW{{</world>}}

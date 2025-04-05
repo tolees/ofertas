@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte entallado
-- Punto doble 100% poliéster reciclado
-- Tejido transpirable AEROREADY
-- Cierre de cremallera y cuello alzado
 - Bolsillos frontales de ojal
+- Corte entallado
+- Cierre de cremallera y cuello alzado
+- Tejido transpirable AEROREADY
+- Punto doble 100% poliéster reciclado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09P45GCQS{{</world>}}

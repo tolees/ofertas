@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punto doble 100% poliéster reciclado
+- Tejido transpirable
+- Capucha con cordón ajustable
 - Bolsillo canguro
 - Puños y dobladillo de canalé
-- Capucha con cordón ajustable
-- Tejido transpirable
+- Punto doble 100% poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08VRVVQV2{{</world>}}

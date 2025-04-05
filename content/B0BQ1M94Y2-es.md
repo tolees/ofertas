@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Motor de succión 7000 Pa, modo turbo automático para la limpieza de alfombras y fregado inteligente con 3 niveles de caudal de agua. Bolsa 3 litros: cambia su bolsa sólo 4 veces al año y disfruta de tu casa limpia a diario. Además, cuenta con un sistema de detección de seguridad de las bolsas para evitar que se vacíe cuando la base no tiene la bolsa puesta.
-- Autonomía de hasta 280 minutos para cubrir 280 m2 y con la tecnología Total Surface que lleva al robot a su base cuando no le queda batería para recargarse y retomar la limpieza en el punto donde se quedó.
-- Cuenta con un cepillo lateral y un cepillo multifunción, diseñado con cerdas y silicona de goma, para desincrustar todo tipo de suciedad que pueda haber en tu hogar. 4 niveles de potencia (Off, Eco, Normal y Turbo) y de fregado (Off, Bajo, Medio y Alto)
-- Room Plan: permite definir, planificar y programar la limpieza de tu vivienda completa o de estancias concretas gracias al mapa generado. 10 modos: elige el que más se adapte a cada momento y disfruta de una limpieza a medida de la forma más cómoda.
 - Control mediante APP CECOTEC con la que podrás seleccionar los diferentes modos, la programación, el nivel de succión o el nivel de fregado, además de observar el historial de limpieza. Es compatible con asistentes virtuales.
+- Cuenta con un cepillo lateral y un cepillo multifunción, diseñado con cerdas y silicona de goma, para desincrustar todo tipo de suciedad que pueda haber en tu hogar. 4 niveles de potencia (Off, Eco, Normal y Turbo) y de fregado (Off, Bajo, Medio y Alto)
+- Autonomía de hasta 280 minutos para cubrir 280 m2 y con la tecnología Total Surface que lleva al robot a su base cuando no le queda batería para recargarse y retomar la limpieza en el punto donde se quedó.
+- Room Plan: permite definir, planificar y programar la limpieza de tu vivienda completa o de estancias concretas gracias al mapa generado. 10 modos: elige el que más se adapte a cada momento y disfruta de una limpieza a medida de la forma más cómoda.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQ1M94Y2{{</world>}}

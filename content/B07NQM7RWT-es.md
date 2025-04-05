@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Prodcuto con licencia oficial harry potter
-- Número de jugadores: 1
-- Caja ilustrada con ventana
 - Alta calidad
-- Colección harry potter
+- Prodcuto con licencia oficial harry potter
 - Réplica exacta de la varita de hermione
+- Colección harry potter
+- Caja ilustrada con ventana
+- Número de jugadores: 1
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NQM7RWT{{</world>}}

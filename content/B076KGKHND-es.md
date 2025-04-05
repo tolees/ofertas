@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clase 10 UHS-1 U1
-- La solución ideal para hacerle fotos mejores y eccelenti vídeo en Full HD
 - Capacidad: 128 GB
 - Velocidad de transferencia min: 100 MB/s
+- Clase 10 UHS-1 U1
+- La solución ideal para hacerle fotos mejores y eccelenti vídeo en Full HD
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076KGKHND{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Construcción de cuello redondo
 - Costuras decorativas en la parte delantera central
 - Espalda de corredor
+- Construcción de cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00KQD7EVO{{</world>}}

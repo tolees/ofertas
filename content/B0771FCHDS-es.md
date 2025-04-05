@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre de dos botones
 - Un ajuste cómodo
 - Puños y cuello en punto plano
-- Cierre de dos botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0771FCHDS{{</world>}}

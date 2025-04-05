@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mandos ergonómicos para un manejo sencillo y preciso
-- Inyectores opcionales para gas butano incluidos
 - Autoencendido integrado en el mando
 - Parrillas continuas de hierro fundido: diseño Profesional
-- Sistema de seguridad Gas Stop
 - Preparada para gas natural
+- Mandos ergonómicos para un manejo sencillo y preciso
+- Sistema de seguridad Gas Stop
 - Dimensiones del aparato: 45 mm (alto) x 582 mm (ancho) x 520 mm (profundo)
+- Inyectores opcionales para gas butano incluidos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07QQN6SPC{{</world>}}

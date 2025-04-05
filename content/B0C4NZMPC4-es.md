@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🟠 CONTENIDO - En nuestro planificador semanal bolsillo podrás encontrar un calendario anual 2023/2024, un planificador mensual, un apartado para cumpleaños, horarios, lista de tareas pendientes, un mapa donde anotar los países que has visitado y páginas para notas ¡Los días festivos están anotados en su interior!
-- 🟠 GRUPO ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y póster con las licencias oficiales más actuales del mercado
-- 🟠 AGENDA DRAGON BALL Z - Goku ya tiene su agenda A6 para comenzar su curso con muchas ganas. Gracias a ser una agenda pequeña la podrás llevar en tu bolso o bolsillo cómodamente ¿A qué esperas para tener tu agenda Goku?
-- 🟠 AGENDA SEMANA VISTA - Posee un formato semana vista lo que te permitirán conseguir una organización más visual y acotada ¡Controlarás todas tus tareas de un único vistazo! Sus páginas son lisas para garantizar una cómoda escritura y están editadas en inglés
-- 🟠 DISEÑO Y CALIDAD - Gracias a sus medidas 11,3x16,2 cm cm se hace muy cómodo llevártela a cualquier lugar. Su cubierta es resistente, posee una encuadernación cosida y un marcapáginas de tela. Sus páginas son de 100 grs y cuentan con certificado FSC
 - 🟠 AGENDA 17 MESES - Nuestra agenda escolar 2023-2024 va desde agosto 2023 a diciembre de 2024, siendo perfecta para que planifiques tu nuevo curso escolar al completo. Una agenda semanal donde hemos cuidado cada detalle personalizando con todo lujo de detalle cada unas de sus páginas
+- 🟠 CONTENIDO - En nuestro planificador semanal bolsillo podrás encontrar un calendario anual 2023/2024, un planificador mensual, un apartado para cumpleaños, horarios, lista de tareas pendientes, un mapa donde anotar los países que has visitado y páginas para notas ¡Los días festivos están anotados en su interior!
+- 🟠 AGENDA DRAGON BALL Z - Goku ya tiene su agenda A6 para comenzar su curso con muchas ganas. Gracias a ser una agenda pequeña la podrás llevar en tu bolso o bolsillo cómodamente ¿A qué esperas para tener tu agenda Goku?
+- 🟠 GRUPO ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y póster con las licencias oficiales más actuales del mercado
+- 🟠 DISEÑO Y CALIDAD - Gracias a sus medidas 11,3x16,2 cm cm se hace muy cómodo llevártela a cualquier lugar. Su cubierta es resistente, posee una encuadernación cosida y un marcapáginas de tela. Sus páginas son de 100 grs y cuentan con certificado FSC
+- 🟠 AGENDA SEMANA VISTA - Posee un formato semana vista lo que te permitirán conseguir una organización más visual y acotada ¡Controlarás todas tus tareas de un único vistazo! Sus páginas son lisas para garantizar una cómoda escritura y están editadas en inglés
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4NZMPC4{{</world>}}

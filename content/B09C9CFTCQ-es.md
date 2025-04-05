@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Set de Pegatinas
-- Carátula Reversible
-- Poster
 - Cartas Coleccionables
+- Carátula Reversible
+- Set de Pegatinas
 - Caja Coleccionista
+- Poster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09C9CFTCQ{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Professional 12V System. Rendimiento con diseño compacto. Máxima libertad. Todas las baterías son compatibles con herramientas Bosch Professional nuevas y ya existentes del mismo voltaje.
-- Incluye: GBA 12V 2.0Ah
-- Batería compacta de 12 voltios con 2,0 Ah: la batería más pequeña y ligera de su clase
-- Peso ligero para un trabajo aún más cómodo, especialmente en aplicaciones por encima de la cabeza
 - 100 % compatible con todos los dispositivos de Bosch de 12 V gracias al Flexible Power System
+- Peso ligero para un trabajo aún más cómodo, especialmente en aplicaciones por encima de la cabeza
+- Batería compacta de 12 voltios con 2,0 Ah: la batería más pequeña y ligera de su clase
+- Incluye: GBA 12V 2.0Ah
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00B1RH3KG{{</world>}}

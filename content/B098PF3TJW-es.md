@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Marca: Nike
 - Ideal para correr
 - Con una marca llamativa
-- Aspecto clásico
 - Mejor flexibilidad
+- Aspecto clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098PF3TJW{{</world>}}

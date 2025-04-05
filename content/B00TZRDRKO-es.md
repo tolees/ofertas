@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Azul
 - Tinta sin aceite y secado rápido de color intenso
 - Para entintado y recarga de tampones de sellado
-- Azul
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TZRDRKO{{</world>}}

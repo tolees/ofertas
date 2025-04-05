@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aislamiento PrimaLoft Black de 133 g/m2 en el cuerpo Tratamiento DWR
 - Logotipo de Helly Hansen estampado en la parte trasera del cuello - Canesú con detalle de cinta en otro color
 - Tejido impermeable y cortaviento de poliéster - Dibujo de Helly Hansen en tapeta interior - Varios logotipos de HH impresos
-- Ribete en otro color alrededor del cuello y en el bolsillo del pecho - Bolsillo en el pecho y para las manos con cierre de cremallera YKK - Metaluxe
 - Cremallera delantera YKK Metaluxe - Aislamiento PrimaLoft Black de 100 g/m2 en las mangas
+- Aislamiento PrimaLoft Black de 133 g/m2 en el cuerpo Tratamiento DWR
+- Ribete en otro color alrededor del cuello y en el bolsillo del pecho - Bolsillo en el pecho y para las manos con cierre de cremallera YKK - Metaluxe
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B018KKIZQC{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Menor disipación de calor (en comparación con el producto de referencia estándar).
-- Encendido instantáneo, no necesita tiempo de calentamiento. Fácil sustitución de las lámparas, reemplazo ideal para una lámpara de 40 W ( uso al aire libre sólo en luminarias adecuadas )
-- Consumo de energía 6 kWh/1000h y 470 lm
 - Larga duración - hasta 15000 horas y hasta 100000 ciclos de encendido. La luz blanca cálida para la comodidad y la relajación, en el dormitorio o habitaciones de los niños
+- Encendido instantáneo, no necesita tiempo de calentamiento. Fácil sustitución de las lámparas, reemplazo ideal para una lámpara de 40 W ( uso al aire libre sólo en luminarias adecuadas )
+- Menor disipación de calor (en comparación con el producto de referencia estándar).
+- Consumo de energía 6 kWh/1000h y 470 lm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08BZY4HJC{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hogwarts Battle: Das Harry Potter Spiel für 2 4 Spieler
+- Kartenspiel für Erwachsene und Kinder ab 11 Jahren
 - Mit tollen Spielkarten und sch ner Ausstattung für eine stimmungsvolle Atmosph re wie in Hogwarts
 - Must have und besonderes Geschenk für jeden Harry Potter Fan
 - Langerwartetes Gesellschaftsspiel: In 7 Etappen die Story der erfolgreichen Harry Potter Kinofilme erleben
-- Kartenspiel für Erwachsene und Kinder ab 11 Jahren
+- Hogwarts Battle: Das Harry Potter Spiel für 2 4 Spieler
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07MCW81MW{{</world>}}

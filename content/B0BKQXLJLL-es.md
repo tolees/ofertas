@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiradores integrados verticales: línea continua de diseño que facilita la limpieza.
 - Dimensiones del frigorífico: 201 cm (altura) x 60 cm (anchura) x 66 cm (profundidad)
+- Tiradores integrados verticales: línea continua de diseño que facilita la limpieza.
 - Diseño con puerta de cristal e instalación sin restricciones con la que aprovecharás al máximo el espacio de tu cocina
 - Práctico botellero cromado
 - Tecnología de conservación ExtraFresh: mejor conservación de frutas y verduras

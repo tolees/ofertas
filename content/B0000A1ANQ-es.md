@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca
 - Diseño ligero que ofrece comodidad
-- Gorra con visera semicurva
 - Tejido ligero
+- Tiene detalles distintivos de la marca
+- Gorra con visera semicurva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0000A1ANQ{{</world>}}

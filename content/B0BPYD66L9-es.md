@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Máxima comodidad
 - Respirable
+- Máxima comodidad
 - Zapatos para correr
 
 [🛒 Comprar!!!]({{< param buyurl >}})

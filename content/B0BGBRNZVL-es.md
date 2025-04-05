@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Detalle del logotipo
 - Peso ligero
 - Cierre de cordones
-- Detalle del logotipo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGBRNZVL{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Punta de goma
 - Cordones elásticos
 - Entresuela de espuma
-- Punta de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8TJ2ZPB{{</world>}}

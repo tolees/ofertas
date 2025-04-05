@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplica la máscara desde la raíz hasta las puntas con movimientos ascendentes en zig-zag para repartir la fórmula en todas las pestañas; para conseguir más volumen aplica una segunda o tercera capa
+- Cepillo Cónico y flexible que alcanza todas tus pestañas, hasta las más cortas
+- Fórmula infusionada con extracto de bambú
 - Máscara de pestañas Lash Sensational Sky High para unas Pestañas con Altura desde cada ángulo
+- Aplica la máscara desde la raíz hasta las puntas con movimientos ascendentes en zig-zag para repartir la fórmula en todas las pestañas; para conseguir más volumen aplica una segunda o tercera capa
 - El resultado: pestañas con una longitud sin límites y volumen redefinido
 - La siguiente información se aplica a cada unidad del paquete
-- Fórmula infusionada con extracto de bambú
-- Cepillo Cónico y flexible que alcanza todas tus pestañas, hasta las más cortas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CN2N33SX{{</world>}}

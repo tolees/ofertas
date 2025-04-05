@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: Con cordones
 - Revestimiento: Tela
+- Cierre: Con cordones
 - Material exterior: Sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

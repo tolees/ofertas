@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Inclinación de 30°
-- Soporte hasta 7.3 kg
-- Soporte VESA MIS-D para pantalla de 24"
 - Rotación de 360°
+- Soporte hasta 7.3 kg
 - Asegura una elevación de la pantalla de 13 cm
+- Soporte VESA MIS-D para pantalla de 24"
+- Inclinación de 30°
 - Movimiento lateral de 270°
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

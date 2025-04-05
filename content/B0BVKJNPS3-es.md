@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material: acetato
 - Color de lente: Marrón y azul
-- Color: Negro y beige
-- Talla: 62
 - Forma: CUADRADO
+- Talla: 62
+- Color: Negro y beige
+- Material: acetato
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BVKJNPS3{{</world>}}

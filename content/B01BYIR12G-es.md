@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fragancia Flor, inspirada en aceites esenciales naturales, un aroma que te recordará a la sensación de la ropa limpia y fresca
+- Descubre el resto de fragancias Air Wick Freshmatic
 - Elige entre tres niveles de intensidad para conseguir tu nivel de fragancia deseada
 - Hasta 70 días de frescor, disfruta de un aroma duradero y consistente para tu hogar
-- Descubre el resto de fragancias Air Wick Freshmatic
+- Fragancia Flor, inspirada en aceites esenciales naturales, un aroma que te recordará a la sensación de la ropa limpia y fresca
 - Recambio para ambientador spray automático Air Wick Freshmatic
 
 [🛒 Visítala!!!]({{< param buyurl >}})

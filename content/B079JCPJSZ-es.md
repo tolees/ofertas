@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - El bluetooth permite conectar la tableta al pc fácilmente y los 4 Expresskeys configurables así como su área de dibujo de 216x135 mm, la hacen el dispositivo ideal para exprimir su creatividad
 - Contenido del envío: Wacom Intuos M Tableta gráfica / Lápiz digital sin pilas con 3 puntas estándar adicionales/ Cable USB / Herramienta de extracción de puntas / Guía rápida/ Color pistacho
+- Wacom Intuos M es una tableta gráfica ideal para dibujar, pintar y editar las fotografías gracias a su área activa de 10" y al lápiz digital ultrapreciso y ligero con 4096 niveles de presión
 - El lápiz digital incluido tiene una precisión de 0,25 mm de tolerancia digital, 7 mm de altura de lectura, dos botones configurables, puntas reemplazables y diseño ergonómico / Sin pilas
 - Junto a la potencia del lápiz, las aplicaciones para Intuos S como Coral Painter Essential 7, Corel Aftershot Pro 3 (licencia por 90 días) y Clip Studio Paint Pro (licencia de dos años) a permiten alcanzar niveles artísticos altos
-- Wacom Intuos M es una tableta gráfica ideal para dibujar, pintar y editar las fotografías gracias a su área activa de 10" y al lápiz digital ultrapreciso y ligero con 4096 niveles de presión
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079JCPJSZ{{</world>}}

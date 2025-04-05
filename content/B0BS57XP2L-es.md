@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sudadera suave
+- Detalles acados en cuello, puños y dobladillo
 - Logotipo maxi en la parte delantera bordado en tono
 - Cuello redondo
-- Detalles acados en cuello, puños y dobladillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS57XP2L{{</world>}}

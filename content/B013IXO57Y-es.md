@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla de espuma viscoelástica con infusión de gel
 - Suela exterior que no deja marcas
+- Plantilla de espuma viscoelástica con infusión de gel
 - Amortiguación de respuesta Dual-Lite
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amplio surtido de brocas: el taladro con percutor puede usarse con brocas hexagonales de ¼" y SDS Quick; para brocas redondas, use el adaptador de vástago redondo incluido
 - Cambio de accesorio con un solo clic: cambio de accesorios rápido y sin herramientas en solo unos segundos gracias al sistema SDS Quick
 - Uso en distintos materiales: utilice el modo de martillo con percusión neumática para percutir en hormigón y mampostería, o use la herramienta para atornillar y taladrar en madera, metal y plástico con el mecanismo de percusión desconectado
-- Herramienta 3 en 1: cambie entre taladrado con percusión a taladrado o atornillado/desatornillado cambiando tan solo el interruptor de un icono a otro
+- Amplio surtido de brocas: el taladro con percutor puede usarse con brocas hexagonales de ¼" y SDS Quick; para brocas redondas, use el adaptador de vástago redondo incluido
 - Power for ALL 18 V: la batería disponible de forma adicional es compatible con todos los productos de la gama verde Bosch Home & Garden con sistema de 18 V y con los aspiradores Bosch Unlimited
+- Herramienta 3 en 1: cambie entre taladrado con percusión a taladrado o atornillado/desatornillado cambiando tan solo el interruptor de un icono a otro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N6XJ7M1{{</world>}}

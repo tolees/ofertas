@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Media cremallera
 - Bolsillo frontal
+- Media cremallera
 - Corte estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

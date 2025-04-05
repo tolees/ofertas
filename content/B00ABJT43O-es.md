@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Práctica confección en sobre, adhesivos extra resistentes
+- Perfectas para identificar, marcar precios, señalizar, clasificar
 - Fabricado de papel certificado FSC de bosques gestionados de manera responsable
 - total 100 etiquetas por sobre
 - 10 etiquetas por hoja
-- Perfectas para identificar, marcar precios, señalizar, clasificar
-- Práctica confección en sobre, adhesivos extra resistentes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00ABJT43O{{</world>}}

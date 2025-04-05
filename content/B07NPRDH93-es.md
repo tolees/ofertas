@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Logotipo bordado en la lengüeta y la lata
-- Forro: sintético
-- Material exterior: sintético
 - Cierre: con cordones
+- Material exterior: sintético
+- Forro: sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07NPRDH93{{</world>}}

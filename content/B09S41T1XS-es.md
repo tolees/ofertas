@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hay 11 figuras para coleccionar
-- Producto distribuido oficialmente en España por BIZAK
-- Exclusivo Crash Metálico, Bronce, Plata, Oro
-- Caja sorpresa con una figura Crash Bandicoot en su interior
 - Rompe la caja y descrubre el personaje que hay en su interior; cuando terminas de jugar, puedes volver a montar la caja para exponer la figura
+- Caja sorpresa con una figura Crash Bandicoot en su interior
+- Hay 11 figuras para coleccionar
+- Exclusivo Crash Metálico, Bronce, Plata, Oro
+- Producto distribuido oficialmente en España por BIZAK
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09S41T1XS{{</world>}}

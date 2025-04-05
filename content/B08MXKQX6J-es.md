@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Coches exóticos con armas
-- Multijugador con plataforma cruzada y autolog
-- Imágenes mejoradas
 - Persigue y escapa
+- Coches exóticos con armas
+- Imágenes mejoradas
 - Incluido el DLC principal y más actualizaciones
+- Multijugador con plataforma cruzada y autolog
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08MXKQX6J{{</world>}}

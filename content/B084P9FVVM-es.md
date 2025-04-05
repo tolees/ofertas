@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Coloca la sombrilla de forma rápida y evita que se vuele con vientos fuertes con nuestro soporte de plástico, el color del pincho soporte de plástico puede variar en función de la disponibilidad.
-- Tela polyester Ø2m con protección UPF50.
-- Tubos de aluminio 22/25. Varillas FDV 5mm
-- Reclinable. Con ventana para el viento en la parte superior.
-- 8 Varillas elásticas y resistentes (fibra de vidrio de 5mm de grosor). Protección solar UPF50+ (bloquea 99% de rayos UV). Muy ligera 1,5 kg – tubo de aluminio.
 - Sombrilla aluminio 8 varillas de fibra de vidrio, de gran tamaño de 2m de diámetro ideal para 4 personas. Resistente a vientos de hasta 35 km/h, gracias a: Ventana superior.
+- Tubos de aluminio 22/25. Varillas FDV 5mm
+- 8 Varillas elásticas y resistentes (fibra de vidrio de 5mm de grosor). Protección solar UPF50+ (bloquea 99% de rayos UV). Muy ligera 1,5 kg – tubo de aluminio.
+- Tela polyester Ø2m con protección UPF50.
+- Reclinable. Con ventana para el viento en la parte superior.
+- Coloca la sombrilla de forma rápida y evita que se vuele con vientos fuertes con nuestro soporte de plástico, el color del pincho soporte de plástico puede variar en función de la disponibilidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084P9FVVM{{</world>}}

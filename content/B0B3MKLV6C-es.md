@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste relajado, ajuste de arco, vegano, lavable a máquina, refrigerado por aire
 - Malla con cordones de ajuste en arco
+- Ajuste relajado, ajuste de arco, vegano, lavable a máquina, refrigerado por aire
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3MKLV6C{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un sistema de protección contra choques, lánzalo y atrápalo
+- Producto distribuido oficialmente en España por BIZAK.
+- Incluye: 1 loco spin, 1 cable USB y 1 punta de peonza
 - Con asombrosos efectos de luz LED y trucos, está disponible en 2 colores
 - Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - Loco Spin es un disco volador con infinitas posibilidades
-- Producto distribuido oficialmente en España por BIZAK.
 - Dos modos de juego: Trucos acrobáticos o Modo Pelea de peonzas, conviértete en el “jugador máster”
-- Incluye: 1 loco spin, 1 cable USB y 1 punta de peonza
+- Con un sistema de protección contra choques, lánzalo y atrápalo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096XMXHWH{{</world>}}

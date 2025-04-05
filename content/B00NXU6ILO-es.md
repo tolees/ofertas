@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Selene Mariluz Sujetador con Aros para Mujer, Negro, 42DD UK (95E España)
+- Color: 36C
 - Marca: Selene
+- Selene Mariluz Sujetador con Aros para Mujer, Negro, 42DD UK (95E España)
 - Selene Mariluz Sujetador con Aros Sin Relleno para Mujer, Azul Marino, 36C
 - Tamaño: 36C
-- Color: 36C
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00NXU6ILO{{</world>}}

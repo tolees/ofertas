@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con rayas Y Con combinación de Tejido en el Bajo
-- JerseY De manga larga
 - Con cuello redondo
+- JerseY De manga larga
 - Con detalle de botones en el hombro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

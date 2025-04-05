@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Reproduce alrededor de 30 sonidos y frases
+- Articulaciones en piernas y brazos
 - Muñeco Buzz Lightyear de Pixar
 - Incluye espada láser
-- Articulaciones en piernas y brazos
+- Reproduce alrededor de 30 sonidos y frases
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BW2J29L{{</world>}}

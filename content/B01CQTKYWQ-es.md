@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En total existen 12 modelos.
 - Inside3 es un laberinto escondido en el interior de un cubo. Jugamos a ciegas con la ayuda del mapa grabado en la superficie.
 - Este modelo contiene una segunda bolita cerrada en una zona secreta (Phantom) que complica la tarea de jugar difuminando las referencias auditivas.
 - Nivel de dificultad de este modelo: 7/12
+- En total existen 12 modelos.
 - Este modelo es desmontable: por lo que podemos encontrar la bolita cuando esté perdida y ver las entrañas de la bestia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

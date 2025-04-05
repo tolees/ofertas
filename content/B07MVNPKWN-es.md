@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El producto cumplirá con las expectativas de los jugadores, pero también de los entusiastas de la informática. Máximo digital: 7680x4320
 - Nota La tarjeta gráfica GeForce RTX 2060 SUPER es una tarjeta gráfica PCI Express 3.0 × 16. Es posible que su equipo ya tenga una tarjeta gráfica instalada en la ranura PCI Express. Si ese es el caso, tendrás que quitar esta tarjeta gráfica y sustituirla por la tarjeta gráfica GeForce RTX 2060 SUPER. Si no tienes una tarjeta gráfica, significa que tu placa base tiene una tarjeta gráfica (hay un chip gráfico instalado en tu
 - El producto cumplirá con las expectativas de los jugadores, pero también de los entusiastas de la informática.
+- El producto cumplirá con las expectativas de los jugadores, pero también de los entusiastas de la informática. Máximo digital: 7680x4320
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MVNPKWN{{</world>}}

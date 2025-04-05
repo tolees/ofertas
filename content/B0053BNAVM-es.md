@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perfecto para figuras, proyectos escolares, decoración del hogar y artís de temporada.
-- Fácil de usar.
-- Se puede lijar, tallar y perforar después de hornear. Paletas de colores de artista para u mezcla precisa de colores. Pigmentos puros para colores densamente saturados. Mantiene detalles finos, mantiene líneas nítidas y no sangra
 - Cura a un acabado similar a la bisque.
+- Perfecto para figuras, proyectos escolares, decoración del hogar y artís de temporada.
+- Se puede lijar, tallar y perforar después de hornear. Paletas de colores de artista para u mezcla precisa de colores. Pigmentos puros para colores densamente saturados. Mantiene detalles finos, mantiene líneas nítidas y no sangra
 - No se seca. Permanece suave hasta que se hornea.
+- Fácil de usar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0053BNAVM{{</world>}}

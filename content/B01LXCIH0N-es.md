@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRODUCTO SEGURO: Este cable viene provisto de disyuntor térmico que bloquea el paso de corriente en el caso de un sobrecalentamiento del cable conductor
-- COMPATIBILIDAD CON TODOS LOS DISPOSITIVOS: El Roller puede cargar teléfonos móviles, iPads, tabletas, ordenadores, electrodomésticos y otros dispositivos de forma simultánea.
 - EN CUALQUIER LUGAR: Práctico para uso doméstico y de oficina, pero a su vez genial para viajar, gracias a su gran diseño, se puede almacenar fácilmente este cargador en una mochila, maletín o equipaje.
 - EVITE LOS CABLES ENREDADOS: Con las elegantes fundas de caucho elastómero podrá sostener 2 metros de cable de extensión de forma compacta y organizada
+- PRODUCTO SEGURO: Este cable viene provisto de disyuntor térmico que bloquea el paso de corriente en el caso de un sobrecalentamiento del cable conductor
+- COMPATIBILIDAD CON TODOS LOS DISPOSITIVOS: El Roller puede cargar teléfonos móviles, iPads, tabletas, ordenadores, electrodomésticos y otros dispositivos de forma simultánea.
 - ESPECIFICACIONES: Roller 2 tomas | 10A | 250V | Cable 3m 2x1,5 mm2 | Verde
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

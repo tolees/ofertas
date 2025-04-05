@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La Blink Outdoor tiene una autonomía de hasta dos años con dos pilas AA de litio (incluidas).
-- La Blink Outdoor es una cámara de seguridad HD inalámbrica que funciona con pilas con la que podrás vigilar tu casa de día y también de noche gracias a su visión nocturna por infrarrojos.
 - Orienta la cámara a la izquierda o a la derecha e inclínala hacia arriba o hacia abajo desde la app de Blink para visualizar más zonas de tu casa tanto con la vista diurna en HD como con la vista nocturna por infrarrojos.
+- La Blink Outdoor es una cámara de seguridad HD inalámbrica que funciona con pilas con la que podrás vigilar tu casa de día y también de noche gracias a su visión nocturna por infrarrojos.
 - Ve lo que ocurre en cualquier habitación, de esquina a esquina con una cobertura de 360°, desde tu móvil, tablet o dispositivo Alexa compatible.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

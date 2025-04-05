@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cientos de horas de juego RPG te esperan! ¡Recorre la ciudad de Rathir, la región de Dalentarth y las mazmorras de las Cuevas del Pabellón de los Bandidos mientras descubres los secretos de Amalur
 - Crea al personaje ideal para el combate más intenso, eligiendo entre un sinfín de combinaciones de habilidades, destrezas, armas y piezas de armadura
+- El revolucionario sistema Destino te permite evolucionar continuamente la clase de tu personaje según tu estilo de juego
 - Amplía tu experiencia en Amalur con todos los contenidos descargables correspondientes al lanzamiento original, desde los Dientes de Naros hasta la Leyenda de Kel el Muerto y muchos más
 - Integra a la perfección los ataques mágicos y cuerpo a cuerpo mientras te enfrentas a hordas de enemigos en memorables secuencias de combate y ejecutas una brutal Fatalidad para rematarlos
-- Cientos de horas de juego RPG te esperan! ¡Recorre la ciudad de Rathir, la región de Dalentarth y las mazmorras de las Cuevas del Pabellón de los Bandidos mientras descubres los secretos de Amalur
-- El revolucionario sistema Destino te permite evolucionar continuamente la clase de tu personaje según tu estilo de juego
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08BXM1Q7G{{</world>}}

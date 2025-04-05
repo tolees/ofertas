@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera para hombre
 - Tiene detalles distintivos de la marca
 - Tela suave
+- Sudadera para hombre
 - Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

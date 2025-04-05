@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No testado en animales. Vegano. Fabricación íntegra en España
-- Delicada y suave fragancia
-- Libre de Parabenos. Dermatológicamente testado. Crea mucha espuma
-- Deja la piel más suave y cuidada
-- Género; Unisex. Adulto e infantil
 - Gel de baño y ducha hidratante, limpia suavemente tu piel y la nutre profundamente combatiendo la sequedad y durezas de la piel
+- Género; Unisex. Adulto e infantil
+- Deja la piel más suave y cuidada
+- Libre de Parabenos. Dermatológicamente testado. Crea mucha espuma
+- Delicada y suave fragancia
+- No testado en animales. Vegano. Fabricación íntegra en España
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B017WK9SSK{{</world>}}

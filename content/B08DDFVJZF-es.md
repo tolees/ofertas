@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este champú tiene un 0% de parafinas, colorantes y siliconas
 - PH equilibrado y seguro para cabellos teñidos
 - CERTIFICADO por el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
-- Esta mascarilla tiene un 0% de colorantes y parafinas
-- 90% DE ORIGEN NATURAL: agua purificada y materiales con ingredientes de origen natural poco procesados
 - ACEITE DE ARGÁN Pack Reparación con champús y una mascarilla capilar para recuperar la suavidad
+- 90% DE ORIGEN NATURAL: agua purificada y materiales con ingredientes de origen natural poco procesados
+- Esta mascarilla tiene un 0% de colorantes y parafinas
+- Este champú tiene un 0% de parafinas, colorantes y siliconas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08DDFVJZF{{</world>}}

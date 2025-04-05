@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cierre: cremallera
 - Forma del tacón: plano
-- Suela: goma
 - Material interior: sintético
 - Material superior: sintético
+- Suela: goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN6QSFZN{{</world>}}

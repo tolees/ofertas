@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Peppercorn Moda: Sudadera en 75% Viscosa (Eco Vero), 25% Nailon
-- Sudadera en 4458 Rosa Ceniza talla S
 - El suéter Tana está confeccionado con una mezcla de Eco Vero, una alternativa sostenible al viscosa, y nylon, lo que lo hace suave y cómodo de llevar
+- Sudadera en 4458 Rosa Ceniza talla S
+- Peppercorn Moda: Sudadera en 75% Viscosa (Eco Vero), 25% Nailon
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09MS4TSM8{{</world>}}

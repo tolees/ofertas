@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuenta con 200 páginas de papel de 90 gramos.
 - Planificador alargado naranja con organización de día por página. Sin fecha, para poder empezar a usarlo en cualquier momento.
+- Cuenta con 200 páginas de papel de 90 gramos.
 - Incluye 1 hoja de pegatinas.
 - Con certificado FSC, lo que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de forma responsable.
 

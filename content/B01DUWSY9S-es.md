@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en un lugar fresco y seco
 - Sin conservantes ni colorantes
 - Ideales como snack
+- Conservar en un lugar fresco y seco
 - No contienen gluten
 - Elaborados a base a sémola de maíz y aceite de girasol
 

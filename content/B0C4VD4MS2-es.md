@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cada acrobacia, cada giro, cada voltereta es especial gracias a los efectos de luz de la carrocería
 - Una perfecta relación peso/potencia que permite movimientos potentes y una agilidad increíble
-- Increíble RC Gyro Loop – X; con control de 2.4Ghz, este emblemático coche acrobático se abre paso con neumáticos de amortiguación extrema fabricados con material de espuma, no sólo absorben los impactos, sino que también son súper ligeros
 - Puede conducirse por ambos lados e incluye una elegante carcasa protectora para las acciones rodantes
+- Increíble RC Gyro Loop – X; con control de 2.4Ghz, este emblemático coche acrobático se abre paso con neumáticos de amortiguación extrema fabricados con material de espuma, no sólo absorben los impactos, sino que también son súper ligeros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C4VD4MS2{{</world>}}

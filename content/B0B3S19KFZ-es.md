@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vans Marca lateral
-- Construcción vulcanizada
 - not_water_resistant
 - Altura de la plataforma
+- Vans Marca lateral
+- Construcción vulcanizada
 - Suela original de gofre
 
 [🛒 Comprar!!!]({{< param buyurl >}})

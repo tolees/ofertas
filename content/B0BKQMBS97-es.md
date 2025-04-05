@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con numerosas herramientas, carta para coleccionar y pegatinas
 - De la marca Playmobil
+- Con numerosas herramientas, carta para coleccionar y pegatinas
 - Se trata de Darío el inventor de Novelmore
 
 [🛒 Visítala!!!]({{< param buyurl >}})

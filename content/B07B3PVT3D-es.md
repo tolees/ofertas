@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tamaño: Alto 30cm, diámetro superior 35cm, diámetro inferior 26,5cm
-- 26 litros de capacidad
 - Asas extragrandes reforzadas
+- 26 litros de capacidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07B3PVT3D{{</world>}}

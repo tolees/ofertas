@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Gráficos Iris Xe de nueva generación
+- Memoria RAM de 8GB LPDDR4x, 4266MHz
 - Sistema operativo Windows 11
 - Almacenamiento de 512GB SSD NVMe
 - Ultraligero, ultraportátil, con un peso de 1,37 kg y un grosor de 14,9 mm
 - Pantalla de 14" Full Vision 2K (2560 x1440) y gama de colores sRGB al 100 %
-- Memoria RAM de 8GB LPDDR4x, 4266MHz
 - Procesador intel Core i5-11320H, Smart Cache Size 8MB, 3.2GHz con Turbo Boost Upto 4.5 GHz（4 cores)
-- Gráficos Iris Xe de nueva generación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09QM873KF{{</world>}}

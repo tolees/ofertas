@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera Con capucha Regular fit
-- Y estampado Con relieve a Contraste en el pecho
 - Con cordones al tono
+- Y estampado Con relieve a Contraste en el pecho
+- Sudadera Con capucha Regular fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCPPDPLH{{</world>}}

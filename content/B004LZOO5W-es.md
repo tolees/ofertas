@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Regulable cuando se utilizan lámparas adecuadas
 - Brazos giratorios / cabezales giratorios
 - Apto para lámparas LED
 - Essentials: iluminación adecuada para cada apartamento
-- Regulable cuando se utilizan lámparas adecuadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B004LZOO5W{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chanclas
-- Con logotipo de metal
 - Tacón bajo
+- Con logotipo de metal
+- Chanclas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BT4ZB8H3{{</world>}}

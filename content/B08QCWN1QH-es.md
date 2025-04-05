@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta de hombre
-- pelo destomtable
 - Capucha
+- pelo destomtable
+- Chaqueta de hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QCWN1QH{{</world>}}

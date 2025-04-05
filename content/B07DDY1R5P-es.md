@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta de punto de corte largo
+- Mezcla de viscosa
 - Dos bolsillos delanteros
 - Patrón de rayas
+- Chaqueta de punto de corte largo
 - Mangas largas con puños de punto
-- Mezcla de viscosa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DDY1R5P{{</world>}}

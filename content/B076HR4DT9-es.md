@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Climalite anti-humidity fabric
-- 1/4 zip
 - Regular fit
+- 1/4 zip
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B076HR4DT9{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño de ajuste regular
 - Detalles distintivos de la marca
-- Con 1/4 cremallera
+- Diseño de ajuste regular
 - Con rayas a lo largo de las mangas
+- Con 1/4 cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PL4Z8FC{{</world>}}

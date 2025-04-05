@@ -31,9 +31,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Dirección del rizo alterna para resultados más naturales
 - Doble calentador cerámico para hacer rizos duraderos
 - 2 ajustes de temperatura 185°C y 205°C
-- Tiempo de marcado 12 segundos
-- Fuente de alimentación: eléctrico con cable
 - Rizador de pelo automático
+- Fuente de alimentación: eléctrico con cable
+- Tiempo de marcado 12 segundos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07Z64Z7VV{{</world>}}

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Gestione pasos estrechos: adecuado para pasos de solo 75 cm de ancho entre cables (no se requiere cable guía). Tiempo de carga de la batería: 60 minutos.
 - Con Amazon Alexa o Google Assistant, control por voz del Indego y con IFTTT puedes conectar el Indego a otros dispositivos inteligentes en el hogar.
 - Contenido del envío: Indego S+ 500, batería 18 V 2,5 Ah, estación de carga y tornillos de fijación, fuente de alimentación con cable de 7 m, cable delimitador de 150 m, conector de cable, 200 soportes de montaje, cartón.
-- Gestione pasos estrechos: adecuado para pasos de solo 75 cm de ancho entre cables (no se requiere cable guía). Tiempo de carga de la batería: 60 minutos.
-- Sistemático y rápido: la tecnología LogiCut mapea el césped y permite cortar en trayectorias paralelas eficientes, para que el césped se termine más rápido.
-- Nota: Pulse el botón de confirmación de la pantalla para iluminar la pantalla o coloque el cortacésped en la estación de carga. El cortacésped funcionará cuando la temperatura de la batería interna esté entre 5 y 45 grados. Deje que el cortacésped se enfríe/caliente. Si el error ocurre con más frecuencia, debe colocar la estación de carga a la sombra.
-- BorderCut para bordes limpios: el Indego inicia cada proceso de corte completo con BorderCut y, por lo tanto, garantiza bordes de césped limpios.
 - SmartMowing: el Indego S+ 500 analiza el jardín, el clima local y las preferencias personales para optimizar el plan de corte.
+- Sistemático y rápido: la tecnología LogiCut mapea el césped y permite cortar en trayectorias paralelas eficientes, para que el césped se termine más rápido.
+- BorderCut para bordes limpios: el Indego inicia cada proceso de corte completo con BorderCut y, por lo tanto, garantiza bordes de césped limpios.
+- Nota: Pulse el botón de confirmación de la pantalla para iluminar la pantalla o coloque el cortacésped en la estación de carga. El cortacésped funcionará cuando la temperatura de la batería interna esté entre 5 y 45 grados. Deje que el cortacésped se enfríe/caliente. Si el error ocurre con más frecuencia, debe colocar la estación de carga a la sombra.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VJJKFBX{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Model number: L34DTXFP
 - Forma Skinny
+- Model number: L34DTXFP
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08T9VWKMC{{</world>}}

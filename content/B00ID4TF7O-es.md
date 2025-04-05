@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Variedad rústica de gran tamaño, tallos largos gruesos y muy blancos. Hojas anchas de color verde azulado. Es la más conocida y apreciada en el mercado. Rendimiento y calidad superior
-- Forma de cultivo: Puede sembrarse durante todo el año pero con preferencia en primavera y otoño, de asiento o en semillero
-- Cuando las plantas alcanzan el grosor de un lápiz se aclaran o trasplantan, según el sistema de cultivo adoptado al marco de 20 x 20 cm
 - Si la Siembra o plantación es a líneas el marco será entonces de 40 x 10 cm. Recolección: A los 5 meses de su Siembra
+- Variedad rústica de gran tamaño, tallos largos gruesos y muy blancos. Hojas anchas de color verde azulado. Es la más conocida y apreciada en el mercado. Rendimiento y calidad superior
+- Cuando las plantas alcanzan el grosor de un lápiz se aclaran o trasplantan, según el sistema de cultivo adoptado al marco de 20 x 20 cm
+- Forma de cultivo: Puede sembrarse durante todo el año pero con preferencia en primavera y otoño, de asiento o en semillero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00ID4TF7O{{</world>}}

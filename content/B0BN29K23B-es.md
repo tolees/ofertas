@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología LITETRUSS
 - Parte superior de malla transpirable
+- Tecnología LITETRUSS
 - Amortiguación FF BLAST
 
 [🛒 Aquí!!!]({{< param buyurl >}})

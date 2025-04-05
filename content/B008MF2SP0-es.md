@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de alta calidad
 - Marca: Ralph Lauren
+- Producto de alta calidad
 - Fabricado en Italia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

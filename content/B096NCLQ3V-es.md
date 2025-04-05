@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Refuerzo de TPU moldeado en el talón
-- Amortiguación Lightmotion
 - Cierre de cordones
-- Forro textil
+- Horma clásica
 - Parte de malla de dos materiales
+- Forro textil
+- Amortiguación Lightmotion
+- Refuerzo de TPU moldeado en el talón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096NCLQ3V{{</world>}}

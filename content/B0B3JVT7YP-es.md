@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Retro: Juega al juego original Arkanoid de 1986 en un gabinete Arcade de época
 - 4 modos de juego
 - Neo: El mismo modo de juego que el clásico Arkanoid con nuevos niveles, potenciadores y paredes espaciales.
-- Versus: Modo multijugador local en el que pueden competir de 2 a 4 jugadores en la misma pantalla, basado en el modo Neo
 - Batalla Eterna: 25 jugadores compitiendo en línea, el último jugador en pie gana la partida. Los campeones pueden utilizar poderes especiales para tomar ventaja durante la partida.
+- Retro: Juega al juego original Arkanoid de 1986 en un gabinete Arcade de época
+- Versus: Modo multijugador local en el que pueden competir de 2 a 4 jugadores en la misma pantalla, basado en el modo Neo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B3JVT7YP{{</world>}}

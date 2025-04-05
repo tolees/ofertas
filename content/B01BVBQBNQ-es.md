@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INTERRUPTOR INTEGRADO: Evite el consumo fantasma de sus electrodomésticos durante las noches o periodos de ausencia.
+- ESPECIFICACIONES: Base 5 tomas con Interruptor | Toma de Tierra (TT) | 16A | 250V | Cable 3 m | 3x1,5 mm2 | Blanco
 - MATERIAL RECICLADO: El 30% de la materia prima plástica empleada en su fabricación es procedente de reciclaje. Respetamos el medio ambiente y cuidamos el entorno
+- INTERRUPTOR INTEGRADO: Evite el consumo fantasma de sus electrodomésticos durante las noches o periodos de ausencia.
 - ENCHUFES COLOCADOS EN 45º: Con enchufes colocados en un ángulo de 45°, evitando la interferencia entre las tomas de corriente.
 - ALTA SEGURIDAD: Posee protección electrónica contra cortocircuitos y protección con dispositivo de seguridad infantil.
-- ESPECIFICACIONES: Base 5 tomas con Interruptor | Toma de Tierra (TT) | 16A | 250V | Cable 3 m | 3x1,5 mm2 | Blanco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BVBQBNQ{{</world>}}

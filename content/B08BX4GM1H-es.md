@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
 - Parte superior de EVA moldeada en una sola pieza
+- Ajuste regular
 - Construcción deslizante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

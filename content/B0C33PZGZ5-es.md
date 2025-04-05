@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puma Detalle del logotipo de la marca
-- Punta redonda
 - No es resistente al agua
+- Punta redonda
+- Puma Detalle del logotipo de la marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C33PZGZ5{{</world>}}

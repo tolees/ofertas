@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- pH equilibrado y seguro para cabellos teñidos
-- 90.% de ingredientes de origen natural (.agua purificada y materiales con ingredientes de origen natural poco procesados)
 - la mascarilla con leche de coco ayuda a hidratar el cabello
-- Esta mascarilla tiene un 0.% de colorantes y parafinas
 - En asociación con El Real Jardín Botánico de Kew, una autoridad mundial líder en botánica que avala los productos realmente vegetales
+- Esta mascarilla tiene un 0.% de colorantes y parafinas
+- 90.% de ingredientes de origen natural (.agua purificada y materiales con ingredientes de origen natural poco procesados)
+- pH equilibrado y seguro para cabellos teñidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07RMJ7W63{{</world>}}

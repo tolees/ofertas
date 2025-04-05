@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Look clásico y elegante para toda ocasión.
 - Orificios de ventilación para óptima ventilación de la cabeza.
+- Look clásico y elegante para toda ocasión.
 - Parte frontal no rígida (sin estructura), lo que le concede extra profundidad.
 - Sencilla gorra con cierre de latón antiguo.
 - Cara inferior de la visera a tono.

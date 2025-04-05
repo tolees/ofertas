@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ángulo de oscilación: 1,4° peso incl. batería: 1,6 kg
-- Professional 18V System. Máximo rendimiento. Máxima libertad. Todas las baterías son compatibles con herramientas Bosch Professional nuevas y ya existentes del mismo voltaje.
-- Portaherramientas 3D Starlock para la transmisión de potencia con pocas pérdidas desde el equipo hasta los accesorios
-- Incluye: GOP 18V-28, maletín L-BOXX 136 (batería y cargador no incluidos)
 - Con luz LED integrada para una visibilidad óptima
+- Portaherramientas 3D Starlock para la transmisión de potencia con pocas pérdidas desde el equipo hasta los accesorios
+- Professional 18V System. Máximo rendimiento. Máxima libertad. Todas las baterías son compatibles con herramientas Bosch Professional nuevas y ya existentes del mismo voltaje.
+- Ángulo de oscilación: 1,4° peso incl. batería: 1,6 kg
+- Incluye: GOP 18V-28, maletín L-BOXX 136 (batería y cargador no incluidos)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B018YP97DI{{</world>}}

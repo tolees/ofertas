@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las velas Bolsius Essentials en acabado liso son imprescindibles en cualquier interior. Se pueden combinar varios tamaños y tonos para adaptarse a sus preferencias personales. ¡Elegante y sutil! Elaborado con pasión por las personas y el planeta, utilizando cera vegana natural hecha de aceite de oliva, aceite de girasol o aceite de colza, y sin aceite de palma. Cada temporada, introducimos nuevos colores de tendencia, para que puedas mantener tu interior actualizado.
-- Elegante rojo burdeos tan rico como el terciopelo y que recuerda al color de la remolacha oscura. Velvet Red es un hermoso rojo intenso mate que aporta calidez a tu hogar.
 - Desde 1870, Bolsius fabrica productos de calidad para crear un ambiente acogedor y cálido en su hogar. Lo hacemos con pasión, mano de obra experta y amor por las personas y el planeta. Bolsius inspira, conecta y calienta a las personas con la magia de la luz de las velas y las fragancias que hacen cosquillas a los sentidos. Así es como puedes hacer que cada momento sea especial. Para ti y para todos los que te rodean.
+- Elegante rojo burdeos tan rico como el terciopelo y que recuerda al color de la remolacha oscura. Velvet Red es un hermoso rojo intenso mate que aporta calidez a tu hogar.
+- Las velas Bolsius Essentials en acabado liso son imprescindibles en cualquier interior. Se pueden combinar varios tamaños y tonos para adaptarse a sus preferencias personales. ¡Elegante y sutil! Elaborado con pasión por las personas y el planeta, utilizando cera vegana natural hecha de aceite de oliva, aceite de girasol o aceite de colza, y sin aceite de palma. Cada temporada, introducimos nuevos colores de tendencia, para que puedas mantener tu interior actualizado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C6TSPS4V{{</world>}}

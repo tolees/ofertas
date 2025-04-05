@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello alto
-- Bolsillos con cremallera en la cintura
 - Capucha con cordón
+- Bolsillos con cremallera en la cintura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTDXJCSR{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El deporte inspira la moda
 - Horma clásica
+- El deporte inspira la moda
 - Cierre de cordones
 - Mediasuela Cloudfoam
 - Parte superior textil sin costuras

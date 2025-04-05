@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ergonomico
 - 23 botones
 - Sensor hasta 16000 dpi
+- Ergonomico
 - Raton optico
 - 5 zonas de iluminacion
 

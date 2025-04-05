@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Impresión frontal en relieve
+- 80% algodon, 20% poliéster
 - Mangas raglán
 - Puños y cintura acanalados
-- 80% algodon, 20% poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083XZDFFN{{</world>}}

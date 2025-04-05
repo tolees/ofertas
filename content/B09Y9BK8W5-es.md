@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paquete de 2 calzoncillos hipster
 - Corte de pierna ancha con cobertura completa en la parte inferior
+- Paquete de 2 calzoncillos hipster
 - Algodón orgánico suave y acanalado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

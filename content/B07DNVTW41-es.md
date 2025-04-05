@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Levi McCray es un temerario de la costa oeste, un atleta de deportes extremos y una estrella de internet
 - No tiene límites y siempre busca ser el centro de atención. Estando en la Tierra se coló en la Equinox para buscar fama, sin darse cuenta de hasta donde le llevaría esa decisión
 - Mejora tu aventura y alcanza la victoria con el pack del piloto Levi McCray y su habilidad de piloto Danger Zone
-- Conviértete en alguien invencible durante un tiempo limitado gracias a este luchador temerario
 - Conecta los juguetes modulares al soporte y verás al instante cómo cobran vida en el juego. Diseña tu propia nave a partir de tu arsenal de alas, cascos, armas y pilotos, y adáptate a cualquier desafío al que te enfrentes en tiempo real
+- Conviértete en alguien invencible durante un tiempo limitado gracias a este luchador temerario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DNVTW41{{</world>}}

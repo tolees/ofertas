@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disponible en varios tonos, desde clásicos atemporales hasta los más trendy con efectos particulares
-- Color intenso y brillante
-- Fórmula de secado rápido y de larga duración
 - El pincel se adapta a cada tamaño de uña, aplicación fácil y optima
+- Color intenso y brillante
 - Esmalte de uñas
+- Fórmula de secado rápido y de larga duración
+- Disponible en varios tonos, desde clásicos atemporales hasta los más trendy con efectos particulares
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09L6MMV87{{</world>}}

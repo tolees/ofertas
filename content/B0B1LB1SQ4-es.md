@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La prenda se ha confeccionado con nuestro tejido éxito en ventas y mundialmente conocido Smart 360 Flex Smart 360 Flex se estira de manera vertical y horizontal para aportar la máxima flexibilidad y movimiento
-- Fit: Corte ajustado Nuestro fit skinny presenta un ajuste ceñido y ajustado
 - Bolsillo cosido de pala
+- Fit: Corte ajustado Nuestro fit skinny presenta un ajuste ceñido y ajustado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B1LB1SQ4{{</world>}}

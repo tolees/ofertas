@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: goma
 - 12,4015747905 pulgadas
+- Cierre: goma
 - Piel: charol
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

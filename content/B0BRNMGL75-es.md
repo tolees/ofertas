@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - GAFAS DE SOL CALVIN KLEIN CK23501S BROWN HAVANA PARA UNISEX ADULTO TALLA 51/21/145
-- La montura RXable permite montar lentes graduadas
 - Tamaño pequeño y ajuste global
-- Lentes resistentes a los arañazos que garantizan una protección UV del 100%.
 - Forma redonda realzada por detalles firmados en un diseño elegante y distintivo
+- Lentes resistentes a los arañazos que garantizan una protección UV del 100%.
+- La montura RXable permite montar lentes graduadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRNMGL75{{</world>}}

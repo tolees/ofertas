@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- long shorts
 - cotton blend
+- long shorts
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PS84NL1{{</world>}}

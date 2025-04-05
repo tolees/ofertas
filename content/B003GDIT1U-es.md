@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con sistema anti-rodamiento hexagonal para evitar que la herramienta ruede
-- Mango multicomponente Kraftform para un trabajo rápido y ergonómico
 - Destornillador porta-puntas con varilla flexible y sistema de cambio rápido
+- Mango multicomponente Kraftform para un trabajo rápido y ergonómico
+- Con sistema anti-rodamiento hexagonal para evitar que la herramienta ruede
 - Con varilla redonda flexible
 - Para puntas hexagonales de 1/4"
 

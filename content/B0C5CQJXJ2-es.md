@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Si el escorpión te pica ¡Oh no! Aparecerá un punto rojo en tu mano y cambiarás de turno
-- Divertido juego de acción donde los reflejos son clave para ganar
-- Se el primero en acumular 10 monedas para ganar; no necesita pilas
 - 2 jugadores
 - Tira el dado e intenta girar el dial según lo que te indique, sin que el escopión te pique
+- Divertido juego de acción donde los reflejos son clave para ganar
+- Se el primero en acumular 10 monedas para ganar; no necesita pilas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5CQJXJ2{{</world>}}

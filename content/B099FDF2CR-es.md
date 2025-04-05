@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zapato cómodo
-- Suela de doble densidad
-- Ultra Go
 - Plantilla Goga Mat refrigerada por aire
+- Suela de doble densidad
+- Zapato cómodo
+- Ultra Go
 - Ortholite
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control optimo , posibilidades indeterminadas : cree cativantes efectos de iluminación animados con el potente software CORSAIR iCUE para dar vida a su sistema con la iluminación RGB dinámica
-- 34 LED RGB direccionables individualmente: completamente equipado con 34 LED RGB en cuatro zonas de iluminación para optimizar el sistema con refrigeración CORSAIR QL RGB
 - Hoja de ventilador silenciosa de 140 mm: una hoja de ventilador semitransparente, diseñada para lograr un funcionamiento silencioso mientras brilla la iluminación RGB
 - Carcasa blanca adecuada : refleja la luz y ofrece una iluminación intensa que hará juego con el aspecto depurado y elegante de otros productos CORSAIR blancos de su instalación
-- Reduzca la temperatura del sistema: potentes velocidades de ventilador de hasta 1250 RPM, lo que ofrece un flujo de aire de hasta 50,2 CFM
 - Kit de extensión: este producto es una extensión del kit de ventilador QL140 RGB LED 2 con nodo de iluminación CORE CO-9050100-WW
+- Reduzca la temperatura del sistema: potentes velocidades de ventilador de hasta 1250 RPM, lo que ofrece un flujo de aire de hasta 50,2 CFM
+- 34 LED RGB direccionables individualmente: completamente equipado con 34 LED RGB en cuatro zonas de iluminación para optimizar el sistema con refrigeración CORSAIR QL RGB
+- Control optimo , posibilidades indeterminadas : cree cativantes efectos de iluminación animados con el potente software CORSAIR iCUE para dar vida a su sistema con la iluminación RGB dinámica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B083X4Y1JM{{</world>}}

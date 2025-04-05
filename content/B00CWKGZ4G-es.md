@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- VERSÁTIL: Su peso ligero permite que sea utilizada por niños para hacer manualidades en el colegio, aunque también es ideal para que adultos realicen pequeñas reparaciones o creen proyectos DIY más profesionales. ¡Da rienda suelta a la creatividad!
-- DISEÑO: La pistola encoladora cuenta con un soporte que permite mantener la herramienta en posición vertical durante su uso y evita dañar la superficie de trabajo. La empuñadura que se adapta a cualquier mano gracias a su forma ergonómica. El gatillo y la boquilla están diseñados para ofrecer gran precisión y evitar el goteo.
 - CARACTERÍSTICAS TÉCNICAS: Potencia de 60W, 240v. Pistola eléctrica con cable y enchufe europeo. Compatible con pegamentos universales de diámetro de 11,5 y 12mm aunque se recomienda utilizar los consumibles de la marca SALKI para mejores resultados.
-- USO: Máxima rapidez y facilidad, enchufar, esperar de 2 a 5 minutos a que se caliente y el tubo de pegamento se derretirá instantáneamente al apretar la palanca. La herramienta termo encoladora ofrece gran seguridad gracias a un regulador que mantiene la temperatura constante (200º) e impide el sobrecalentamiento.
+- VERSÁTIL: Su peso ligero permite que sea utilizada por niños para hacer manualidades en el colegio, aunque también es ideal para que adultos realicen pequeñas reparaciones o creen proyectos DIY más profesionales. ¡Da rienda suelta a la creatividad!
 - CALIDAD: Fabricada a partir de plástico y metal, materiales que le aportan mucha resistencia. El kit incluye un encolador eléctrico de tamaño pequeño y compacto y dos barras de silicona de SALKI, marca de renombre en el sector centrada en ofrecer productos de calidad y duraderos.
+- DISEÑO: La pistola encoladora cuenta con un soporte que permite mantener la herramienta en posición vertical durante su uso y evita dañar la superficie de trabajo. La empuñadura que se adapta a cualquier mano gracias a su forma ergonómica. El gatillo y la boquilla están diseñados para ofrecer gran precisión y evitar el goteo.
+- USO: Máxima rapidez y facilidad, enchufar, esperar de 2 a 5 minutos a que se caliente y el tubo de pegamento se derretirá instantáneamente al apretar la palanca. La herramienta termo encoladora ofrece gran seguridad gracias a un regulador que mantiene la temperatura constante (200º) e impide el sobrecalentamiento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00CWKGZ4G{{</world>}}

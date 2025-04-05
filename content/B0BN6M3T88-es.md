@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tejido ultra-light powerblend fleece afelpado (240 g)
-- Logotipo bordado
 - Custom fit: una mix di vestibilità stagionale
+- Logotipo bordado
 - La taglia XL è adatta per bambine dai 13 ai 14 anni
 
 [🛒 Aquí!!!]({{< param buyurl >}})

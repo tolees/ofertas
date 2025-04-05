@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un clásico que no debe faltar en tu armario
 - Punto 100% algodón
-- Cuello redondo
-- Corte entallado
 - Manga corta
+- Cuello redondo
+- Un clásico que no debe faltar en tu armario
+- Corte entallado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08SKWJV8K{{</world>}}

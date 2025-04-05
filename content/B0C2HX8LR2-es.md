@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Amortiguación
-- Logotipo de la marca
 - Punta redonda
+- Logotipo de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2HX8LR2{{</world>}}

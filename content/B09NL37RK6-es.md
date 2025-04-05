@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cordones
 - Parte superior textil con superposiciones de ante cosidas
 - Entresuela Boost
-- Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NL37RK6{{</world>}}

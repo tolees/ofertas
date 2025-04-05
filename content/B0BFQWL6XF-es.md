@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una recámara para puntas pivotante y fijamente montada para que no se pierda, que permite extraer las puntas fácilmente y almacenarlas de forma segura
-- Una carraca Zyklop compacta con recámara de puntas integrada
-- Carraca de conmutación de dentado fino (72 dientes) para un ángulo de retorno de tan solo 5°
-- Cabeza de carraca libremente giratoria con 5 posiciones definidas
 - La toma magnética directa convierte la carraca de 3/8" al mismo tiempo en un destornillador-carraca de puntas con toma de puntas de 1/4"
+- Una recámara para puntas pivotante y fijamente montada para que no se pierda, que permite extraer las puntas fácilmente y almacenarlas de forma segura
+- Carraca de conmutación de dentado fino (72 dientes) para un ángulo de retorno de tan solo 5°
+- Una carraca Zyklop compacta con recámara de puntas integrada
+- Cabeza de carraca libremente giratoria con 5 posiciones definidas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BFQWL6XF{{</world>}}

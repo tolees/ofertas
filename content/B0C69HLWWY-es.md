@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Potencia: 800 W
 - Capacidad: 23 L
+- Potencia: 800 W
 - Número de programas: 9
 
 [🛒 Comprar!!!]({{< param buyurl >}})

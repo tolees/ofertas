@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Talla: 59
 - Forma: PLANA
-- Color de lente: Gris degradado polarizado
+- Talla: 59
 - Material: acetato
+- Color de lente: Gris degradado polarizado
 - Color: Negro mate
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Compatible con cámara IP exterior para videovigilancia
+- Kit de videoportero ideal para viviendas unifamiliares o bifamiliares, compuesto por una unidad externa o placa de calle y pantalla o monitor interno a color de 4,3 manos libres
+- Intercomunicación de audio
 - IP 54
-- Ampliable en unidades interiores y cámara de seguridad
 - Instalación simple de 2 cables
 - Instalación hasta 3 monitores
-- Compatible con cámara IP exterior para videovigilancia
-- Intercomunicación de audio
+- Ampliable en unidades interiores y cámara de seguridad
 - La pantalla adicional para dos viviendas puede ser de 4,3 (código de artículo 369115) o 7(código de artículo 369225)
-- Kit de videoportero ideal para viviendas unifamiliares o bifamiliares, compuesto por una unidad externa o placa de calle y pantalla o monitor interno a color de 4,3 manos libres
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B018PBC8Q4{{</world>}}

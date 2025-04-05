@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuello alto con cremallera:<br/> comodidad en cualquier tipo de clima.
-- Cocodrilo bordado cosido en la nuca:<br/> exclusividad Lacoste.
-- Sudadera unisex en algodón ecológico con cuello alto y cremallera
 - Loose fit, corte amplio, hombros caídos:<br/> estilo contemporáneo. Urbano.
 - Cocodrilo de gran tamaño en el pecho:<br/> estilo emblemático.
+- Cocodrilo bordado cosido en la nuca:<br/> exclusividad Lacoste.
+- Sudadera unisex en algodón ecológico con cuello alto y cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09N9WQZL4{{</world>}}

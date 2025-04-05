@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Salida: hexágono interior
-- Hecho de acero al cromo vanadio
-- En rail metálico
 - Estriado
+- Salida: hexágono interior
+- En rail metálico
 - Puntas de vaso, entrada 10 mm (3/8"), hexágono interior 3 - 4 - 5 - 6 - 7 - 8 - 10 mm
+- Hecho de acero al cromo vanadio
 - Tratamiento superficial: cromado, mate
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin colorantes artificiales
-- Caramelos masticables con sabor de frutas
 - Conservar en lugar fresco y seco
-- No contienen gluten
+- Caramelos masticables con sabor de frutas
+- Sin colorantes artificiales
 - Elaborados con zumo fruta concentrado
+- No contienen gluten
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00X9ZIB3G{{</world>}}

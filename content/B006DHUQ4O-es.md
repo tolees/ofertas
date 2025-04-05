@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pintura: negro
 - Material: Chapa de acero
+- Pintura: negro
 - Número de piezas necesarias: 1
 
 [🛒 Comprar!!!]({{< param buyurl >}})

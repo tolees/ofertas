@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuello en v
+- Aspecto clásico
 - Hecho de algodón cómodo
 - 100% algodón
-- Cuello en v
 - Punto de ajuste regular
-- Aspecto clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07C27SMPD{{</world>}}

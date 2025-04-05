@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fabricado en plástico resistente a los impactos
-- Ideal para su uso en el taller o en el hogar
 - Con 12 cajones
 - Con agujeros ranurados en el gabinete para facilitar el montaje en la pared
+- Ideal para su uso en el taller o en el hogar
 - Tiene unas dimensiones de 260 x 160 x 230 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

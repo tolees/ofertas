@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Flaco
-- Hasta el tobillo
 - Cintura media
+- Hasta el tobillo
+- Flaco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099NVLVHP{{</world>}}

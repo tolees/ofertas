@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zapatillas deportivas
-- 8719477075245
-- Fila
 - Sintético
+- Fila
+- 8719477075245
+- Zapatillas deportivas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HPC997D{{</world>}}

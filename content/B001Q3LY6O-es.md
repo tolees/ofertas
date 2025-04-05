@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dientes corte HSS. Cuerpo de acero especial. Dentado variable. Corte a derecha
-- Profundidad de corte máxima 38 mm
-- Recomendada para acero no aleado (hasta 700N/mm2 de dureza), metales ligeros y no-férricos, plásticos, tableros ligeros y de fibra, contrachapados y madera
 - Diámetro 63 mm; Pulgadas -; Soporte A2/A6/A7
 - Se suministran sin vástago soporte
+- Recomendada para acero no aleado (hasta 700N/mm2 de dureza), metales ligeros y no-férricos, plásticos, tableros ligeros y de fibra, contrachapados y madera
+- Dientes corte HSS. Cuerpo de acero especial. Dentado variable. Corte a derecha
+- Profundidad de corte máxima 38 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001Q3LY6O{{</world>}}

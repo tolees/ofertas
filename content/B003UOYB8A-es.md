@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - GARANTÍA DE HASTA 10 AÑOS EN SU EMBALAJE: Nuestras tecnologías mantienen las pilas no utilizadas como nuevas hasta 10 años en su embalaje
-- HASTA UN 70 % EXTRA DURACIÓN*
-- *Respecto a la duración media mínima de la prueba estándar de la IEC para pilas de botón de litio 2032. Los resultados pueden variar según el dispositivo y el tipo de uso. **Las pilas Duracell 2032, 2025 y 2016 cuentan con un doble sistema de seguridad: embalaje seguro con doble blíster y sabor amargo para disuadir a los niños de ingerirlas accidentalmente.
 - El embalaje puede variar
 - EMBALAJE BABY SECURE: Con doble blíster difícil de abrir sin tijeras
+- *Respecto a la duración media mínima de la prueba estándar de la IEC para pilas de botón de litio 2032. Los resultados pueden variar según el dispositivo y el tipo de uso. **Las pilas Duracell 2032, 2025 y 2016 cuentan con un doble sistema de seguridad: embalaje seguro con doble blíster y sabor amargo para disuadir a los niños de ingerirlas accidentalmente.
+- HASTA UN 70 % EXTRA DURACIÓN*
 - Las PILAS DE BOTÓN DE LITIO DURACELL CR2032 son las RECOMENDADAS para APPLE AIRTAG y se pueden usar en otros dispositivos como llaves de control remoto, dispositivos domésticos y accesorios deportivos y médicos.
 - LA MARCA DE PILAS NÚMERO 1 CON ELEMENTOS DE SEGURIDAD INFANTIL** en colaboración con la Asociación Europea de Pediatría, TECNOLOGÍA BABY SECURE: Incorpora una capa no tóxica de sabor amargo en forma de anillo con Bitrex, aplicada en la parte posterior de la pila para disuadir a niños y bebés de ingerir el producto.
 

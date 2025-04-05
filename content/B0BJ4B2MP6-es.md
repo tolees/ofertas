@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior con paneles con logotipo
 - Cordones centrales
 - Puntera redonda
-- Parte superior con paneles con logotipo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJ4B2MP6{{</world>}}

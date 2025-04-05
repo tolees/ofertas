@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Unidad electrónica de precisión para regular el número de revoluciones para trabajos delicados
-- Forma constructiva esbelta con superficies ergonómicas de la empuñadura antideslizante
-- Incluye práctico soporte magnético de tornillos en el aparato
-- Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo
-- Motor de gran potencia y engranaje metálico para par de giro elevado
 - Acoplamiento a fricción de par contra el paso de rosca de tornillos
 - Mandril portabrocas de sujeción rápida + parada rápida para cambio de herramientas sencillo
+- Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo
+- Forma constructiva esbelta con superficies ergonómicas de la empuñadura antideslizante
+- Incluye práctico soporte magnético de tornillos en el aparato
+- Motor de gran potencia y engranaje metálico para par de giro elevado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00LHX6LS4{{</world>}}

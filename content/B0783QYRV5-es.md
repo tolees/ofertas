@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SONIDO BRILLANTE Y AUDAZ: El cable envolvente de bronce 80/20 proporciona un sonido acústico brillante y audaz, con una proyección nítida que llena la habitación
-- GANE PUNTOS DE RECOMPENSA - Nuestras cuerdas 80/20 Bronze para guitarra acústica vienen con un código en la bolsa VCI reciclable, que puede registrar para ganar puntos Players Circle
+- LA CUERDA ACÚSTICA ORIGINAL - 80/20 Bronze fue creada originalmente por John DAddario Sr. y el renombrado fabricante de guitarras John DAngelico en la década de 1930
 - MADE IN THE USA - Las cuerdas DAddario 80/20 Bronze se fabrican en EE.UU. siguiendo nuestras exigentes especificaciones en nuestras instalaciones de producción de Nueva York
 - ENROLLADO DE PRECISIÓN - Las cuerdas de guitarra acústica DAddario 80/20 Bronze están enrolladas con precisión sobre un núcleo hexagonal de acero de alto carbono
-- LA CUERDA ACÚSTICA ORIGINAL - 80/20 Bronze fue creada originalmente por John DAddario Sr. y el renombrado fabricante de guitarras John DAngelico en la década de 1930
+- SONIDO BRILLANTE Y AUDAZ: El cable envolvente de bronce 80/20 proporciona un sonido acústico brillante y audaz, con una proyección nítida que llena la habitación
+- GANE PUNTOS DE RECOMPENSA - Nuestras cuerdas 80/20 Bronze para guitarra acústica vienen con un código en la bolsa VCI reciclable, que puede registrar para ganar puntos Players Circle
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0783QYRV5{{</world>}}

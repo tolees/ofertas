@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tecnología de impresión: pintar por sublimación
-- Resolución máxima: 287 x 287 DPI
 - Conector USB: microUSB tipo B
+- Resolución máxima: 287 x 287 DPI
 - Compatible con papel fotográfico de 2.7 x 2.7 pulgadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

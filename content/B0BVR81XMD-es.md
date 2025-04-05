@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Edad: 2 años / Juego de lógica / Piezas de madera
 - APRENDE JUGANDO: ¡Monta el tren siguiendo las cartas de desafío con dificultad progresiva!
 - JUEGO DE LÓGICA: ¡Aprendizaje y diversión para los más pequeños!
 - DESARROLLO ESPECIAL PARA NIÑOS: Fomenta la orientación espacial y la percepción visual.
-- Edad: 2 años / Juego de lógica / Piezas de madera
 - CONTENIDO: 1 vagón de tren, 2 ejes con ruedas, 3 personajes de madera y 12 cartas con 24 desafíos progresivos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

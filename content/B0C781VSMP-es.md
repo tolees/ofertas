@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Plantilla OrthoLite
+- Entresuela ligera Suela exterior de EVA
+- Logotipo en la lengüeta y en un lateral
 - Artículo de marca Reebok
 - Parte superior en tejido y material sintético
-- Entresuela ligera Suela exterior de EVA
-- Plantilla OrthoLite
-- Logotipo en la lengüeta y en un lateral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C781VSMP{{</world>}}

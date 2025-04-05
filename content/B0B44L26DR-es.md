@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Original Mr. Wonderful
+- IDEAL FOR SCHOOL
 - Ballpoint pen with Wonder Heart at the end and light.
+- Original Mr. Wonderful
 - PVC and PET
 - Back to School collection
-- IDEAL FOR SCHOOL
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B44L26DR{{</world>}}

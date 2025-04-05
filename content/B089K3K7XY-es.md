@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cremallera
-- PVC
-- Correa tejida ajustable con gancho
 - Dimensiones 41,7 x 9,7 x 5,6 cm
 - Cocodrilo verde bordado
+- Correa tejida ajustable con gancho
+- PVC
+- Cierre de cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B089K3K7XY{{</world>}}

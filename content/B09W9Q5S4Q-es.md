@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La gama Vert Azur se ha creado a partir de los residuos de la producción de juguetes Ecoiffier, cuyos envases son 100% reciclados
 - El juguete da la oportunidad de jugar a los juegos de rol y ayuda al desarrollo emocional y social del niño.
-- La primera cocina para niños a partir de 18 meses con horno, fregadero, placa y muchos accesorios.
-- La cocina dispone de: cocina, horno, máquina de zumos, estanterías de almacenamiento y accesorios de cocina y alimentación. 60cm de altura
 - Adecuado a partir de 18 meses
+- La gama Vert Azur se ha creado a partir de los residuos de la producción de juguetes Ecoiffier, cuyos envases son 100% reciclados
+- La cocina dispone de: cocina, horno, máquina de zumos, estanterías de almacenamiento y accesorios de cocina y alimentación. 60cm de altura
+- La primera cocina para niños a partir de 18 meses con horno, fregadero, placa y muchos accesorios.
 - Fabricado en Francia
 
 [🛒 Comprar!!!]({{< param buyurl >}})

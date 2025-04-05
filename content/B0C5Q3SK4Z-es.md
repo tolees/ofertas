@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
-- Parte superior textil con varias capas
 - Horma clásica
 - Textura en relieve para un toque más suave
+- Parte superior textil con varias capas
+- Cierre de cordones
 - Ganar es el trato
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es suave con la piel
 - Evita los olores desagradables
 - Ofrece protección contra la transpiración por hasta 48 horas
+- Es suave con la piel
 - Tiene una fragancia fresca y energizante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

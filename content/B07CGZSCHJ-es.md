@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Medidas: longitud: 446 mm; ancho: 360 mm; altura: 48 mm
 - Bisagras acetálicas
-- Alta calidad
 - Brand: Roca
+- Alta calidad
+- Medidas: longitud: 446 mm; ancho: 360 mm; altura: 48 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CGZSCHJ{{</world>}}

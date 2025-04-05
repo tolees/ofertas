@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Espuma viscoelástica refrigerada por aire
-- Corona dorada
 - Entrenador cómodo
+- Corona dorada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B094CQ38VC{{</world>}}
