@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'SALOMON Mujer Sense Ride Zapatillas  Sense Ride 4 Delphinium Blue Mallard Blue Lavender  40 EU'
+date: 2024-02-16 19:13:55
+image: 'https://m.media-amazon.com/images/I/41gGxHEitRL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08P6WLPCQ-es SALOMON Mujer Sense Ride Zapatillas Sense Ride 4...'
+sku: 'B08P6WLPCQ-es'
+tags: [ '🇪🇸', ]
+actualPrice: 47.95 EUR
+currency: EUR
+price: 47.95
+comparePrice: 130.0 EUR
+prodname: 'SALOMON Mujer Sense Ride Zapatillas  Sense Ride 4 Delphinium Blue Mallard Blue Lavender  40 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B08P6WLPCQ/?tag=tolees-21'
+descuento: '63.12'
+average: '53.97'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Colores: Delphinium Blue, Mallard Blue, Lavender; zapatillas Mujer; talla ES (EUR): 40
+- Con la cantidad exacta de amortiguación y espuma Optivibe para absorber las vibraciones y reducir la fatiga muscular sin añadir peso de más
+- Consigue agarre en cualquier sendero con una suela Contagrip completamente de goma y Profeel Film que protege tus pies de objetos puntiagudos
+- La pala combina una sujeción del pie precisa, especialmente alrededor del talón, tejidos resistentes y malla antipartículas
+- La zapatilla adecuada para el sendero para todas tus aventuras
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B08P6WLPCQ{{</world>}}
