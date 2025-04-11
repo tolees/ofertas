@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'adidas Entrada 22 Training Shorts  Hombre  Black  S'
+date: 2025-03-31 22:34:08
+image: 'https://m.media-amazon.com/images/I/219aBh9i3tL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09NDPCVLJ-es adidas Entrada 22 Training Shorts Hombre Black S'
+sku: 'B09NDPCVLJ-es'
+tags: [ 'Moda','Moda Hombre','Pantalones cortos deportivos para hombre','Ropa de hombre','Ropa deportiva para hombre','adidas','🇪🇸', ]
+actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
+comparePrice: 23.0 EUR
+prodname: 'adidas Entrada 22 Training Shorts  Hombre  Black  S'
+country: 'es'
+flag: '🇪🇸'
+brand: 'adidas'
+buyurl: 'https://www.amazon.es/dp/B09NDPCVLJ/?tag=tolees-21'
+descuento: '47.87'
+average: '11.9860714285714'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Bolsillos en las costuras laterales
+- Tecnología transpirable AEROREADY
+- Cintura elástica con cordón
+- Interlock 100% poliéster reciclado
+- Corte clásico
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B09NDPCVLJ{{</world>}}

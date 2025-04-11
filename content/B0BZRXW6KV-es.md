@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'adidas Duramo Sl Shoes  Zapatillas Hombre  Core Black Core Black Ftwr White  44 2/3 EU'
+date: 2024-05-01 16:51:29
+image: 'https://m.media-amazon.com/images/I/31qWjfZKXsL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BZRXW6KV-es adidas Duramo Sl Shoes Zapatillas Hombre Core Black Core...'
+sku: 'B0BZRXW6KV-es'
+tags: [ '🇪🇸', ]
+actualPrice: 37.95 EUR
+currency: EUR
+price: 37.95
+comparePrice: 65.0 EUR
+prodname: 'adidas Duramo Sl Shoes  Zapatillas Hombre  Core Black Core Black Ftwr White  44 2/3 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0BZRXW6KV/?tag=tolees-21'
+descuento: '41.62'
+average: '37.95'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Forro textil
+- Amortiguación LIGHTMOTION
+- Drop: 9,5 mm (talón: 33 mm / antepié: 23,5 mm)
+- Cierre de cordones
+- Horma clásica
+- Parte de monomalla
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0BZRXW6KV{{</world>}}

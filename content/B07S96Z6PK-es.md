@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'TENAX Treplas 0 50x2 m Marrón  Enrejado Extensible en PVC para la Sujeción de Plantas Trepadoras y Decorar Paredes  Balcones y Terrazas'
+date: 2024-04-06 19:00:14
+image: 'https://m.media-amazon.com/images/I/51hlCLlET+L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07S96Z6PK-es TENAX Treplas 0 50x2 m Marrón Enrejado Extensible en PVC...'
+sku: 'B07S96Z6PK-es'
+tags: [ '🇪🇸', ]
+actualPrice: 7.32 EUR
+currency: EUR
+price: 7.32
+comparePrice: 16.05 EUR
+prodname: 'TENAX Treplas 0 50x2 m Marrón  Enrejado Extensible en PVC para la Sujeción de Plantas Trepadoras y Decorar Paredes  Balcones y Terrazas'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07S96Z6PK/?tag=tolees-21'
+descuento: '54.39'
+average: '7.32'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Enrejado extensible decorativo compuesto de listones de PVC para sujetar flores trepadoras en las paredes, ideal también para crear divisores en balcones y terrazas
+- Ligero para transportar pero resistente, se instala en un momento y no necesita mantenimiento
+- El enrejado extendido mide 0,50x2 m hasta que el ángulo de la malla sea de 90°
+- Realizado en PVC, no se deteriora, a diferencia de las celosías de madera natural. Estabilizado a los rayos UV para mantener el color inalterado en el tiempo
+- Las celosías son extensibles, se abren y se cierran en acordeón y se adaptan a espacios diferentes
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B07S96Z6PK{{</world>}}
