@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- joggen.
 - Sola Flexível.
-- Sola Leve., tela, Skechers.
 - Elástico.
 - Traagschuim.
-- joggen.
+- Sola Leve., tela, Skechers.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07LG9BRCF{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes: Mosto concentrado de uvas blancas y vinagre de vino blanco.
 - El condimento Blanco de Giusti nace de un prensado suave de las uvas Trebbiano.
-- Capacidad: 250 mililitros
 - Envejecimiento: Barriles de roble y fresno.
+- Ingredientes: Mosto concentrado de uvas blancas y vinagre de vino blanco.
 - Fresco y equilibrado, es extremadamente versátil y fácil de usar.
+- Capacidad: 250 mililitros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01E02WFA6{{</world>}}

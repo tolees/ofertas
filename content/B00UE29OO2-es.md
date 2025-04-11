@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Fortalece el cabello.
 - Prolonga el efecto de los tratamientos de alisado y coloración.
-- Acondiciona el cabello. Contiene oro líquido para el pelo.
 - Libre de sales ni sulfatos.
+- Acondiciona el cabello. Contiene oro líquido para el pelo.
 - Evita la resequedad, protege, hidrata, nutre y aporta brillo y suavidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 5 aspas reversibles y hélice de 105 cm de diámetro y distinto color por cada lado que garantizan un gran caudal de aire para que puedas disfrutar de una temperatura agradable
+- Iluminación mediante 3 lámparas tipo E27, máximo 60W (no incluidas)
 - 3 velocidades de ventilación reversibles con accionamiento por cadena para que puedas seleccionar la que mejor se ajuste a tus necesidades en cada momento
 - Motor con potencia de 55 W y muy silencioso para un descanso sin interrupciones
-- Iluminación mediante 3 lámparas tipo E27, máximo 60W (no incluidas)
-- 5 aspas reversibles y hélice de 105 cm de diámetro y distinto color por cada lado que garantizan un gran caudal de aire para que puedas disfrutar de una temperatura agradable
 - Ventilador de techo con luz CT 12105 de Orbegozo con luz y de 46 cm de altura con el que refrescarte en épocas de calor
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 6% elastano
 - Ajuste regular
+- 6% elastano
 - 44% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})

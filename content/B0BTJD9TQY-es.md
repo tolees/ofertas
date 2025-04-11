@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Código: 61103099000
+- Marca: ESPRIT_Collection
 - CountryOfOrigin: China
 - Cuadrícula de tamaños: XXS - 6XL
 - Marca: Esprit
-- Marca: ESPRIT_Collection
-- Código: 61103099000
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTJD9TQY{{</world>}}

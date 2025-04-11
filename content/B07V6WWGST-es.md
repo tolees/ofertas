@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ergonomía gladius con botones principales independientes, un diseño ligero y agarres antideslizantes decorados con el logotipo de rog
+- Sensor óptico de gaming paw3327 (hasta 6200 ppp) para un seguimiento preciso y rápido
 - El programa asus armoury ii permite personalizar los botones, el rendimiento y la iluminación de forma sencilla
 - Interruptores desmontables para ajustar la resistencia al clic y prolongar la vida útil del ratón
-- Sensor óptico de gaming paw3327 (hasta 6200 ppp) para un seguimiento preciso y rápido
-- Ergonomía gladius con botones principales independientes, un diseño ligero y agarres antideslizantes decorados con el logotipo de rog
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07V6WWGST{{</world>}}

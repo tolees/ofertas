@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Coccion indirecta (similiar a asar al horno): barbacoa con tapa de acero con ventanilla, termómetro y una gran asa para una fácil apertura
 - Alta calidad y potente: Dos quemadores de acero inoxidable de alto rendimiento (7 kW) + 1 quemador lateral (1,6 kW) para calentar salsas o guarniciones; parrilla barbacoa con piezo seguro
-- Almacenaje y transporte: 1 práctica mesa lateral plegable y ruedas con seguro para almacenarla cuando no se use ,frontal de acero con bandeja integrada para colocar los condimentos
 - Distribución uniforme del calor: 2 amplias parrillas de acero esmaltado estampado (50 x 30 cm) con una rejilla de calentamiento que ocupa toda la superficie
+- Almacenaje y transporte: 1 práctica mesa lateral plegable y ruedas con seguro para almacenarla cuando no se use ,frontal de acero con bandeja integrada para colocar los condimentos
+- Coccion indirecta (similiar a asar al horno): barbacoa con tapa de acero con ventanilla, termómetro y una gran asa para una fácil apertura
 - Especificaciones: superficie de cocción de 1.500 cm²; altura de la cocina: 90 cm ; consumo de gas 510 +123 g/h; peso 23 kg
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

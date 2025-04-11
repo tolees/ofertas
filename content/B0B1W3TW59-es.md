@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño ultrapequeño en metal de alta calidad
 - Altas velocidades de transferencia de datos de hasta 200 MB/s¹ de lectura
+- Diseño ultrapequeño en metal de alta calidad
 - Almacenamiento de alta capacidad de hasta 256 GB²
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cómodo
-- 98% Algodón, 2% Elastano,
-- Pierna recta
-- Apoya la iniciativa Better Cotton
 - Pantalón
+- 98% Algodón, 2% Elastano,
+- Apoya la iniciativa Better Cotton
+- Pierna recta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B093H5GR5X{{</world>}}

@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Sin fragancias
 - Duración hasta 5 días
 - Envase fabricado con materiales reciclados
-- Fórmula con propiedades fortalecedoras y que protege tu uña de las agresiones formulada con algas
 - Elaborado con un 77% de ingredientes de origen natural (patata y maíz) y un 75% de ingredientes de origen bio
+- Fórmula con propiedades fortalecedoras y que protege tu uña de las agresiones formulada con algas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09JV3Y73G{{</world>}}

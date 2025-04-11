@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compartimento para celular
-- Logotipo básico 4G
 - Cuero falso
+- Logotipo básico 4G
+- Compartimento para celular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C48MZQNY{{</world>}}

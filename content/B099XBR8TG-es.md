@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Sudadera básica en colores lisos con logotipo redondo en el pecho
 - Ajuste: corte regular
-- Instrucciones de lavado: no es posible limpiar en seco / no se puede secar en la secadora / No se permite blanquear / planchar a temperatura (200 °C) / lavado normal a máx 40 °C
-- Con puños acanalados en el dobladillo
 - Con capucha en el cuello
+- Con puños acanalados en el dobladillo
+- Instrucciones de lavado: no es posible limpiar en seco / no se puede secar en la secadora / No se permite blanquear / planchar a temperatura (200 °C) / lavado normal a máx 40 °C
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B099XBR8TG{{</world>}}

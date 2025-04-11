@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 24 H De Color Impactante
+- Labial de larga duración que incluye una fórmula con una base flexible
 - Formula diseñada a prueba de contacto y besos
 - Formula permanente anti descamación
-- Labial de larga duración que incluye una fórmula con una base flexible
-- 24 H De Color Impactante
 - Dos pasos para un color de labios óptimo; labial líquido de larga duración, bálsamo hidratante labial
 
 [🛒 Aquí!!!]({{< param buyurl >}})

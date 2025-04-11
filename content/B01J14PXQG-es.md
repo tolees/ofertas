@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Efectos de luz de calidad
 - Resistente a la intemperie
+- Efectos de luz de calidad
 - Estilo vintage
 - Materiales de calidad
 

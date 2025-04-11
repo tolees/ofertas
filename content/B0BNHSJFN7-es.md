@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello en V especialmente favorecedor
-- Este producto es original Levis
 - Se centra en la comodidad, estilo casual y diversidad
+- Cuello en V especialmente favorecedor
 - Combínalo con unos vaqueros Levis para un look clásico e informal
+- Este producto es original Levis
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNHSJFN7{{</world>}}

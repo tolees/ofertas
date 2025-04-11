@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste regular
 - Logotipo impreso en contraste en el pecho
+- Ajuste regular
 - Fabricado con 100% algodón sostenible
 
 [🛒 Visítala!!!]({{< param buyurl >}})

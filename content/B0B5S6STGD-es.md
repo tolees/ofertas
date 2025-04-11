@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Impresión de 3 artes
 - Esta edición incluye:
 - Estuche metálico en relieve con 24 ranuras para cartuchos
-- Impresión de 3 artes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5S6STGD{{</world>}}

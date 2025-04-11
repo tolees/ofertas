@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incluye 6 figuras y 2 figuras de sorpresa.
 - Hay 24 modelos para coleccionar
-- Producto distribuido en España por BIZAK.
 - Ya están aquí las figuras de los personajes del juego multijugador de combate, Brawl Stars
 - Fantásticas figuras con detalles precisos y de gran calidad. Cada figura mide 4 -5 cm de altura.
-- Incluye 6 figuras y 2 figuras de sorpresa.
+- Producto distribuido en España por BIZAK.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B2X63GZ6{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corto
-- Cuello alto. Capucha extraíble
-- Desigual
-- Textura arrugada como pintado
 - Corte regular
+- Cuello alto. Capucha extraíble
+- Textura arrugada como pintado
+- Desigual
+- Corto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT89P2Z1{{</world>}}

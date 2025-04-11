@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fabricado en vidrio al boro
 - Perfecto para transporte, el frigorífico o la congelación
 - Producto de la marca Pyrex
 - Recipiente con tapa
-- Fabricado en vidrio al boro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AI2XQ56{{</world>}}

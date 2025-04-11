@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Goma vulcanizada
-- Cuero
-- Cinturón de espalda
-- Color liso
 - Plano
 - Correa en T
+- Cuero
+- Color liso
+- Cinturón de espalda
+- Goma vulcanizada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08VWZMYM5{{</world>}}

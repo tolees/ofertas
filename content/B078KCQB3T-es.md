@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cierre: Cordones
 - Material de la suela: Goma
 - Revestimiento: Sintético
-- Cierre: Cordones
 - Composición: Sintético
 - Material exterior: Sintético
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela Waffle
+- Construcción vulcanizada
 - Cierre de cordones
 - Vans Marca Sidestripe
-- Construcción vulcanizada
+- Suela Waffle
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07C8XMDNP{{</world>}}

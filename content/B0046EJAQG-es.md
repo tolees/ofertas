@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye: Cable de configuración RS-232, Manual del usuario
-- Admite todos los SAI de APC compatibles con SmartSlot
 - Comunicaciones USB de APC - Permite la comunicación con Smart-UPS RTD, SMX y SMT mediante las históricas aplicaciones USB registradas de APC
 - Acceso de sólo lectura - La opciones de sólo lectura para usuarios le permiten compartir acceso sin arriesgarse a que otros usuarios realicen cambios de configuración no autorizados en los sistemas
+- Incluye: Cable de configuración RS-232, Manual del usuario
+- Admite todos los SAI de APC compatibles con SmartSlot
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0046EJAQG{{</world>}}

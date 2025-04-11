@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pernera enrollable
-- Gorro de punto
 - Gorro cálido
+- Gorro de punto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00HEUOY1K{{</world>}}

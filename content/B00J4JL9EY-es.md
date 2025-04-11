@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Indispensable para las grilladas del verano
 - Puede utilizar leña y carbón vegetal
-- Dimensiones: 88 x 68 x 40 cm
 - Barbacoa de alta calidad
+- Dimensiones: 88 x 68 x 40 cm
+- Indispensable para las grilladas del verano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00J4JL9EY{{</world>}}

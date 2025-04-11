@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pulveriza en los puntos de pulso y en las áreas cálidas: muñecas, cuello y escote
 - Notas de salida de bergamota, lirio blanco y rosa blanca que finalizan con notas picantes de madera de sándalo
+- Pulveriza en los puntos de pulso y en las áreas cálidas: muñecas, cuello y escote
 - Especiada y floral, una fragancia cálida y romántica que emana una elegancia atemporal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

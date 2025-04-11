@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo.
-- Punto liso, 93 % algodón / 7 % elastán.
 - Ajuste ceñido.
-- Espalda de nadadora.
+- Cuello redondo.
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Punto liso, 93 % algodón / 7 % elastán.
+- Espalda de nadadora.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B096FSMQC5{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo con línea de confort en la espalda del cuello
 - Logo umbro grande al frente de la camiseta de 100% algodón
+- Cuello redondo con línea de confort en la espalda del cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NTP5RD4{{</world>}}

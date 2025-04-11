@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No es compatible con dispositivos de teléfonos inteligentes
+- Sensibilidad del micrófono: -73 dB
 - Impedancia: 600 Ohm
 - Frecuencia del micrófono: 90-10,000 Hz
-- Sensibilidad del micrófono: -73 dB
+- No es compatible con dispositivos de teléfonos inteligentes
 - omnidireccional
 - Tecnología de conexión: Con cable.
 

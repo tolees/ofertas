@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un clásico para diferentes looks. Esta bandana clásica de Levi’s ofrece múltiples posibilidades.
-- Medidas: aprox. 53 cm x 53 cm,
 - Marcas: Levi´s
 - pañuelo bandana, pañuelo para cabeza,
+- Medidas: aprox. 53 cm x 53 cm,
+- Un clásico para diferentes looks. Esta bandana clásica de Levi’s ofrece múltiples posibilidades.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FOI1TZI{{</world>}}

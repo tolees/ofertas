@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Durable de secado rápido elástico ripstop poliamida, 140 g/m – UPF 40
+- Logotipo de HH impreso en el muslo bolsillo con solapa
 - Bolsillos con forro de malla, Slant bolsillos de cadera, 2 bolsillos tipo cargo con cierre escondido, cierre bolsillo posterior con cremallera YKK.
 - Entrepierna 11 " – entrepierna reforzada para mayor libertad de movimiento.
-- Logotipo de HH impreso en el muslo bolsillo con solapa
+- Durable de secado rápido elástico ripstop poliamida, 140 g/m – UPF 40
 - Zip volar con cierre de botón único soporte de cintura para volumen mínimo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

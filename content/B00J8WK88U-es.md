@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bombilla necesaria 230 V, casquillo E27, número de bombillas 1, máx. 60 vatios, bombillas no incluidas
 - Pantalla beige con cubierta de algodón puro para una luz discreta e indirecta
-- Diseño creativo con base de lámpara de madera maciza de acacia natural
-- Lámpara de pie de madera, 150 x 55 x 55 centímetros
 - Gracias al uso de material natural, cada lámpara es única, son posibles ligeras desviaciones de la ilustración
+- Lámpara de pie de madera, 150 x 55 x 55 centímetros
+- Bombilla necesaria 230 V, casquillo E27, número de bombillas 1, máx. 60 vatios, bombillas no incluidas
+- Diseño creativo con base de lámpara de madera maciza de acacia natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00J8WK88U{{</world>}}

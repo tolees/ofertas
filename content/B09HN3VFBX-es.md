@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Marca: New Balance
 - temporada 2022/27
-- Camiseta Lille OSC de manga corta del FC Porto
 - Producto de calidad
+- Camiseta Lille OSC de manga corta del FC Porto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09HN3VFBX{{</world>}}

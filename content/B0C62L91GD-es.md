@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color de la tinta: negro
-- Bolígrafo metálico
 - Optimo para la vuelta al col
+- Color de la tinta: negro
 - Mensaje “Va a salir superbién” impreso en él
+- Bolígrafo metálico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C62L91GD{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Algodón
 - Casual
-- Material exterior: vaquero
 - Ajuste: relajado
+- Algodón
+- Material exterior: vaquero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QK3SNR7{{</world>}}

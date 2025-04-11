@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de copa modificada
 - Basado en el original de 1983
 - Diseño atemporal
+- Suela de copa modificada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MK3L4NS{{</world>}}

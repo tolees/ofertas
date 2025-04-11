@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descubre cientos de especies únicas vagando por distintas tierras y aprende como domesticarlas o acabar con ellas; completa tu colección de notas y dosieres de antiguos exploradores para aprender la historia de ARK
 - ARK: The Ultimate Survivor Edition incluye ARK: Survival Evolved y sus tres packs de expansiones: Scorched Earth, Aberration, Extinction y Genesis Part 1 y 2
 - ARK: The Ultimate Survivor Edition incluye ARK: Survival Evolved y sus tres packs de expansiones: Scorched Earth, Aberration, Extinction y Genesis Part 1 y 2
 - Pon a prueba a tu tribu y tus bestias en batallas desafiantes contra cada jefe de la franquicia
+- Descubre cientos de especies únicas vagando por distintas tierras y aprende como domesticarlas o acabar con ellas; completa tu colección de notas y dosieres de antiguos exploradores para aprender la historia de ARK
 - ARK: The Ultimate Survivor Edition incluye ARK: Survival Evolved y sus tres packs de expansiones: Scorched Earth, Aberration, Extinction y Genesis Part 1 y 2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

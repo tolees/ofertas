@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Ancho del zapato: medio
 - Forma del talón: plano
-- Material exterior: sintético
 - Cuero: Gamuza
+- Material exterior: sintético
 - Material interior: poliéster de malla textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillo frontal
-- Manga larga
 - Cuello de camisa
+- Manga larga
+- Bolsillo frontal
 - Al comprar productos de algodón de Desigual, estás apoyando nuestra inversión en Better Cotton. Este producto se obtiene a través de un sistema de equilibrio de masa y puede no contener Better Cotton. bettercotton.org/massbalance
 - Cierre con botones
 

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Elementos de diseño exclusivos de PUMA.
-- Detalles de la marca PUMA
 - Estilo cómodo de PUMA
+- Detalles de la marca PUMA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B081QJXD8B{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma con tacos
-- Parte superior de gamuza
 - Paneles de textura mixta en contraste
+- Parte superior de gamuza
+- Suela de goma con tacos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8K9WC4V{{</world>}}

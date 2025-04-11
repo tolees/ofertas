@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Duración : corto a 15 min
-- Advertencia : ¡Precaución! No apto para niños menores de 36 meses
 - pequeña bandeja de madera
 - Autor Juegos : Miltenberger , Klaus
 - Instrucciones de Idiomas : DE
+- Duración : corto a 15 min
+- Advertencia : ¡Precaución! No apto para niños menores de 36 meses
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0007VNCQ6{{</world>}}

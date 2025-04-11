@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- REUTILIZABLE: solo tienes que lavar la piedra periódicamente. Para limpiarlo: desenrosca la anilla superior en el sentido contrario a las agujas del reloj y lava la piedra con agua caliente y jabón, dejarla secar.
 - PRÁCTICO: perfecto para llevarlo siempre contigo y matifica al momento las áreas del rostro con tendencia a brillar.
+- REUTILIZABLE: solo tienes que lavar la piedra periódicamente. Para limpiarlo: desenrosca la anilla superior en el sentido contrario a las agujas del reloj y lava la piedra con agua caliente y jabón, dejarla secar.
 - CAFÉ COMO PROTAGONISTA: Hemos incorporado café molido reciclado en productos que habitualmente suelen ser solo de plástico. Un ingrediente sostenible que minimiza el uso de plástico y contribuye a preservar el medioambiente al reutilizar un residuo orgánico.
-- ELIMINA LOS BRILLOS: base fabricada con café molido y plástico reciclado que sujeta una piedra volcánica natural. Elimina los brillos de manera instantánea absorbiendo el exceso de sebo.
 - SOBRE BETER: empresa familiar española con más de 85 años de historia, líder en accesorios de belleza y cuidado personal gracias a la innovación constante y compromiso medioambiental.
+- ELIMINA LOS BRILLOS: base fabricada con café molido y plástico reciclado que sujeta una piedra volcánica natural. Elimina los brillos de manera instantánea absorbiendo el exceso de sebo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTC86V54{{</world>}}

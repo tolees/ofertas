@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha forrada de jersey con cordón para un ajuste ajustable
 - Bolsillo canguro
 - Puños y dobladillo acanalados
 - Ajuste regular
+- Capucha forrada de jersey con cordón para un ajuste ajustable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08TMNX598{{</world>}}

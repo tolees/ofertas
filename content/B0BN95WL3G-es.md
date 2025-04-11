@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Malla textil lining
 - Rubber outsole
 - Normal Insole
+- Malla textil lining
 - PU Superior
 
 [🛒 Aquí!!!]({{< param buyurl >}})

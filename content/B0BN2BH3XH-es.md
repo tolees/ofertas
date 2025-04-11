@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Leggins de felpa Stretch Carbon Brush bordado, logotipo en tono en la cintura
 - 94% algodón, 6% elastano
+- Leggins de felpa Stretch Carbon Brush bordado, logotipo en tono en la cintura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN2BH3XH{{</world>}}

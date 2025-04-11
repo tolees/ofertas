@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con detalles de encaje en la parte delantera
 - Cómodos laterales anchos que ofrecen sujeción adicional
 - Sujetador sin aros que ofrece un ajuste óptimo
-- Con detalles de encaje en la parte delantera
 - Bordes de encaje delicado
 - Anchos tirantes ajustables y cómodos
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mantén tu piscina o spa en buenas condiciones para evitar problemas en la bomba
 - Las tiras tienen una vida útil de 18 meses
-- Mide el pH, cloro y cal de la piscina con estas tiras de fácil utilización
-- Debes introducir la tira entera en el agua y comprobar los colores que aparezcan
 - Con un fácil sistema por colores, sabrás de forma inmediata qué sustancias químicas se deben ajustar
+- Debes introducir la tira entera en el agua y comprobar los colores que aparezcan
+- Mide el pH, cloro y cal de la piscina con estas tiras de fácil utilización
+- Mantén tu piscina o spa en buenas condiciones para evitar problemas en la bomba
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FEFBXFC{{</world>}}

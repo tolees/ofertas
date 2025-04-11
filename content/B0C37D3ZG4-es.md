@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Capacidad: 38 cl.
-- Taza realizada en vidrio, transparente y con un mensaje muy femenino.
 - Cuidados: apta para microondas. Si bien es apta para lavavajillas, se recomienda lavarla a mano para que se mantenga perfecta durante más tiempo.
+- Taza realizada en vidrio, transparente y con un mensaje muy femenino.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C37D3ZG4{{</world>}}

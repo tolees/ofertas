@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fuente de vidrio borosilicatado resistente a la temperatura del horno convencional
-- 100% higiénica al no retener olores o sabores
 - Fuente de vidrio para horno
 - Se puede gratinar el contenido
 - Diseño sencillo
+- Fuente de vidrio borosilicatado resistente a la temperatura del horno convencional
+- 100% higiénica al no retener olores o sabores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000UOCXTW{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye: 10 discos Standard Inox: 115X1mm
 - Diámetro del orificio mm: 22.23
+- Un disco de óxido de aluminio diseñado específicamente para su uso en acero inoxidable
 - Diámetro mm: 115
+- Incluye: 10 discos Standard Inox: 115X1mm
 - Grosor mm: 1.0
 - El disco de corte Standard for Inox ofrece una elección fiable al trabajar en acero inoxidable
-- Un disco de óxido de aluminio diseñado específicamente para su uso en acero inoxidable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008HRERG6{{</world>}}

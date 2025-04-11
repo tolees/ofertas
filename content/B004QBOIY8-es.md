@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Equipamiento hidráulico y de elevación
-- Calidad extrema según procedimientos UNE-ISO-9000
 - REF: 70340
 - Calidad EGA Master
+- Calidad extrema según procedimientos UNE-ISO-9000
+- Equipamiento hidráulico y de elevación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B004QBOIY8{{</world>}}

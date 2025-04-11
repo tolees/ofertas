@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos laterales ribeteados
 - Cremallera frontal
+- Bolsillos laterales ribeteados
 - Cuello alto acolchado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

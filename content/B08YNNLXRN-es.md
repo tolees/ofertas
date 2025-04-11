@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones mínimas: 12,07 × 7,9 × 4,67 cm y peso: 0,13 kg
-- Disfruta de la libertad y la flexibilidad de conectar hasta 4 dispositivos para la creación de tus trabajos
 - 7 botones programables y rueda de desplazamiento rápida
-- Sistemas operativos compatibles: Windows 11; Windows 10; Windows 8; Windows 7; macOS 10.1 or higher; Chrome OS
+- Disfruta de la libertad y la flexibilidad de conectar hasta 4 dispositivos para la creación de tus trabajos
 - Simplemente pon la batería, conecta el receptor USB y estarás listo. No necesitas instalar nada
 - Con 1200 ppp, el sensor láser ofrece precisión y exactitud, prácticamente en cualquier superficie
+- Dimensiones mínimas: 12,07 × 7,9 × 4,67 cm y peso: 0,13 kg
+- Sistemas operativos compatibles: Windows 11; Windows 10; Windows 8; Windows 7; macOS 10.1 or higher; Chrome OS
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YNNLXRN{{</world>}}

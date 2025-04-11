@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lo mejor de Dragonball Z, creado por Funko, entregado por Amazon.
 - Ayuda a la celda semiperfecta a lograr su forma perfecta con este Pop. y Tee Combo celebrando Dragon Ball Z y la saga Perfect Cell.
-- Pop mide 3.75 pulgadas.
 - Este exclusivo juego Pop and Tee de GameStop. Se envía en una caja de coleccionista y el Pop. Cuenta con un llamativo acabado metálico.
+- Lo mejor de Dragonball Z, creado por Funko, entregado por Amazon.
+- Pop mide 3.75 pulgadas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082T37RYN{{</world>}}

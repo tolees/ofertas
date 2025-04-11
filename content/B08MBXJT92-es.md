@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acuarios de calidad
 - Acuariofilia a su alcance
+- Acuarios de calidad
 - Acuarios económicos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

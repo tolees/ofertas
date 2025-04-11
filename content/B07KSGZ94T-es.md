@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Contenido: 1x Columbia Camisa de manga corta de hombre, Utilizer II Solid Short Sleeve Shirt, Material: Omni-Wick Ripstop 100% Poliéster, Color: Azul (Collegiate Navy), Talla: S, 1577762
+- Camisa de manga corta de hombre para excursionismo y otras actividades al aire libre, Ajuste activo
 - Transpirable y de secado rápido gracias a la combinación de la tecnología Omni-Wick y las aberturas de ventilación en puntos estratégicos
 - Mayor protección para la piel en los días más soleados
-- Camisa de manga corta de hombre para excursionismo y otras actividades al aire libre, Ajuste activo
-- Contenido: 1x Columbia Camisa de manga corta de hombre, Utilizer II Solid Short Sleeve Shirt, Material: Omni-Wick Ripstop 100% Poliéster, Color: Azul (Collegiate Navy), Talla: S, 1577762
 - 2 bolsillos delanteros para acceso rápido, Tecnología de secado rápido, Tratamiento antimicrobiano para evitar el desarrollo de bacterias
 
 [🛒 Comprar!!!]({{< param buyurl >}})

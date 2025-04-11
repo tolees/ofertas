@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Impermeable y térmica
 - Tejido impermeable
 - Capucha fija con pelo sinténtico desmontable
+- Impermeable y térmica
 - Chaqueta tipo canguro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

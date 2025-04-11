@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lubricante para máquinas
-- En formato lata
 - Requiere colocación
+- En formato lata
+- Lubricante para máquinas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000RW5FVA{{</world>}}

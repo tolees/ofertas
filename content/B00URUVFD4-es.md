@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Servicio de Atención al cliente en Español e Ingles para poder ayudarte de forma rápida y sencilla en caso de problemas con la instalación. (Ver información de contacto en el interior de la caja)
-- Garantía 2 años
 - Enchufe digital programable que cuenta con protección infantil
-- La potencia del temporizador digital Garza es de 3680W/ 16a/ 230V/ 50Hz, cuenta con funciones de reset/ Random, para programar en los formatos de 12H o 24H
-- El temporizador programador digital de Garza cuenta con memoria para 8 programas diarios siendo ideal y de gran utilidad para el control de electrodomésticos en el hogar, calefactores y lámparas domésticas, entre otros muchos usos
-- Peso: 140 gramos
+- Conecta cualquier producto y controla su programación
 - Medidas: 6 x 10 x 17 centímetros
+- Servicio de Atención al cliente en Español e Ingles para poder ayudarte de forma rápida y sencilla en caso de problemas con la instalación. (Ver información de contacto en el interior de la caja)
+- El temporizador programador digital de Garza cuenta con memoria para 8 programas diarios siendo ideal y de gran utilidad para el control de electrodomésticos en el hogar, calefactores y lámparas domésticas, entre otros muchos usos
+- La potencia del temporizador digital Garza es de 3680W/ 16a/ 230V/ 50Hz, cuenta con funciones de reset/ Random, para programar en los formatos de 12H o 24H
 - Diseño compacto
 - Con un diseño explanado y sencillo
-- Conecta cualquier producto y controla su programación
+- Garantía 2 años
+- Peso: 140 gramos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00URUVFD4{{</world>}}

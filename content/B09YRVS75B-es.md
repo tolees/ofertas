@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La edición de coleccionista incluye: una caja coleccionable de SteelBook, una caja coleccionable Mega Pizzaplex, un exclusivo peluche reversible de 1 pie de Youtooz, una copia física de Five Nights at Freddys: Security Breach, juego de pines de peluche coleccionables, Mr. Hippo Magnet, y una exclusiva figura Vanny de Youtooz.
-- Adáptese para sobrevivir: acceda a las cámaras de seguridad del edificio para examinar el entorno y planificar su ruta a través del peligro.
-- Explora y descubre - Mega Pizzaplex de Freddy Fazbear ofrece una variedad de atracciones para que los huéspedes disfruten: Monty Golf, Roxy Raceway, Bonnie Bowl, las alcantarillas y… ¿Alcantarillas? El Pizzaplex es vasto y no tiene escasez de golosinas por descubrir.
 - ¡El próximo capítulo con miedo! Five Nights at Freddys: Security Breach es la última entrega de los juegos de terror familiares amados por millones de jugadores de todo el mundo.
 - Los cazadores y los cazados - Una vez que se inician los protocolos nocturnos, los animatrónicos en Mega Pizzaplex de Freddy Fazbear perseguirán implacablemente a todos los intrusos.
+- Adáptese para sobrevivir: acceda a las cámaras de seguridad del edificio para examinar el entorno y planificar su ruta a través del peligro.
+- La edición de coleccionista incluye: una caja coleccionable de SteelBook, una caja coleccionable Mega Pizzaplex, un exclusivo peluche reversible de 1 pie de Youtooz, una copia física de Five Nights at Freddys: Security Breach, juego de pines de peluche coleccionables, Mr. Hippo Magnet, y una exclusiva figura Vanny de Youtooz.
+- Explora y descubre - Mega Pizzaplex de Freddy Fazbear ofrece una variedad de atracciones para que los huéspedes disfruten: Monty Golf, Roxy Raceway, Bonnie Bowl, las alcantarillas y… ¿Alcantarillas? El Pizzaplex es vasto y no tiene escasez de golosinas por descubrir.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09YRVS75B{{</world>}}

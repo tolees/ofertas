@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Cierre de cordones
+- Horma clásica
 - Plantilla Cloudfoam Comfort para mayor comodidad
-- Confort y estilo deportivo
 - Parte superior de piel sintética con detalles de ante
+- Confort y estilo deportivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZRW5R59{{</world>}}

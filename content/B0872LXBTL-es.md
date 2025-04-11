@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- características: Puño elástico - Cinturilla elástica - Logotipo impreso - Estampado de gran tamaño - con capucha integrada - Escote redondo - Cordones de apriete exteriores
 - 80% Algodón - 20% Poliéster
 - Hombres - Sudadera con capucha
+- características: Puño elástico - Cinturilla elástica - Logotipo impreso - Estampado de gran tamaño - con capucha integrada - Escote redondo - Cordones de apriete exteriores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0872LXBTL{{</world>}}

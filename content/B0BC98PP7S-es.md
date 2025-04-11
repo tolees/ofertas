@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- materiales de muy alta calidad
 - creado con atención al detalle
-- El nuevo GSB 18V-45 Professional con motor Brushless sin escobillas ofrece un excelente desempeño con un máximo par (duro) de 45 Nm y una velocidad de giro de 1900 rpm
 - Explora nuestros productos
+- materiales de muy alta calidad
+- El nuevo GSB 18V-45 Professional con motor Brushless sin escobillas ofrece un excelente desempeño con un máximo par (duro) de 45 Nm y una velocidad de giro de 1900 rpm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BC98PP7S{{</world>}}

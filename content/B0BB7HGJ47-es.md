@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición tejido: exterior y forro interior de poliéster. Medidas: 20,5 x 4,5 x 5 cm.
-- Una combinación de colores degradados inspirados en el atardecer, acompañados de detalles en blanco y negro.
-- Tejido exterior ripstop: ligero y resistente a la rotura y rasgaduras. Utiliza una técnica especial que teje hilos gruesos de refuerzo a intervalos regulares en un patrón entrecruzado.
 - Tiradores de las cremalleras con cuerda.
+- Una combinación de colores degradados inspirados en el atardecer, acompañados de detalles en blanco y negro.
+- Composición tejido: exterior y forro interior de poliéster. Medidas: 20,5 x 4,5 x 5 cm.
+- Tejido exterior ripstop: ligero y resistente a la rotura y rasgaduras. Utiliza una técnica especial que teje hilos gruesos de refuerzo a intervalos regulares en un patrón entrecruzado.
 - Estuche portatodo mini. Serie Sunset, color verde.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de botones y cremallera
 - Prenda ajustada de arriba abajo
-- Talle alto
+- Cierre de botones y cremallera
 - Bolsillos de parche con solapa y cierre a presión en los muslos
+- Talle alto
 - Bolsillo con cremallera en la parte trasera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

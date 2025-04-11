@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Redécouvrez aussi le grand classique Flashback, maintes fois classé dans les tops des meilleurs jeux de tous les temps ! Il fut l’un des premiers jeux à bénéficier de la technologie de motion capture pour des animations plus réalistes, des décors entièrem
-- Choisissez l’expérience originale avec les graphismes et les sons d’époque et faites face à une difficulté ne pardont aucun faux pas.
-- Une Remasterisation de qualité : Another World est de retour avec des graphismes HD fidèles au design d’origine, ainsi qu’une expérience sonore plus immersive, redécouvrez cette aventure culte accompagnée de sons et FX remasterisés.
-- Ou optez pour le mode Moderne. Vous pourrez aussi personnaliser votre expérience en activant ou désactivant les options du mode Moderne une à une à tout moment.
 - 3 modes de difficulté : Normal, Difficile (équivalent au challenge d’origine) et Hardcore.
+- Choisissez l’expérience originale avec les graphismes et les sons d’époque et faites face à une difficulté ne pardont aucun faux pas.
+- Ou optez pour le mode Moderne. Vous pourrez aussi personnaliser votre expérience en activant ou désactivant les options du mode Moderne une à une à tout moment.
+- Une Remasterisation de qualité : Another World est de retour avec des graphismes HD fidèles au design d’origine, ainsi qu’une expérience sonore plus immersive, redécouvrez cette aventure culte accompagnée de sons et FX remasterisés.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SZ6WF6W{{</world>}}

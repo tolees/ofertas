@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los casi 250 años de tradición de destilación de la ginebra clásica inglesa y algunos de los sabores típicos de Japón en una bebida, para invitarnos a disfrutar de un viaje sensorial de oeste a este
-- Jinzu se destila en un alambique de cobre tradicional y se completa con un toque de sake destilado
-- Las familiares hierbas aromáticas, el enebro y el cilantro, se entremezclan con el toque agrio del yuzu, las notas delicadas de las flores de cerezo y el golpe seco del sake del distrito de Kobe
-- Óptima en un gin tonic, decorado con una rodaja de manzana verde
 - Creada por la barman Dee Davies, la ginebra Jinzu se inspira en el viaje de Dee a Japón y su pasión por experimentar con los sabores
+- Las familiares hierbas aromáticas, el enebro y el cilantro, se entremezclan con el toque agrio del yuzu, las notas delicadas de las flores de cerezo y el golpe seco del sake del distrito de Kobe
+- Jinzu se destila en un alambique de cobre tradicional y se completa con un toque de sake destilado
+- Los casi 250 años de tradición de destilación de la ginebra clásica inglesa y algunos de los sabores típicos de Japón en una bebida, para invitarnos a disfrutar de un viaje sensorial de oeste a este
+- Óptima en un gin tonic, decorado con una rodaja de manzana verde
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00PA8YFL2{{</world>}}

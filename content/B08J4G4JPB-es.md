@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Encaje elástico de punto sin cordones, MF refrigerado por aire, ajuste clásico, arco de alfombrilla GOGA
 - Encaje elástico de punto sin cordones
+- Encaje elástico de punto sin cordones, MF refrigerado por aire, ajuste clásico, arco de alfombrilla GOGA
 - Número de modelo: 210238
 - MF refrigerado por aire
 

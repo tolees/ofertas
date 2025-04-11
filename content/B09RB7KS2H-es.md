@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Media cremallera
 - Corte estándar
 - Bolsillo frontal
-- Media cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RB7KS2H{{</world>}}

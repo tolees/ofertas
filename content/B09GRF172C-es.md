@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: ZAPATOS
 - Tamaño: 29/30 UE
-- Crocs Classic Cutie Clog K Clog Mujer, Rosa Caramelo, 29/30 EU
 - Marca: Crocs
+- Tipo de producto: ZAPATOS
+- Crocs Classic Cutie Clog K Clog Mujer, Rosa Caramelo, 29/30 EU
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09GRF172C{{</world>}}

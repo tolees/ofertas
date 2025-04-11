@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 23 Alto x 33 Ancho x 12 Fondo cm
-- Hidrófugo
-- Bolso Bandolera Mediano
 - 0.32 kg
+- 23 Alto x 33 Ancho x 12 Fondo cm
+- Bolso Bandolera Mediano
+- Hidrófugo
 - 100% Poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})

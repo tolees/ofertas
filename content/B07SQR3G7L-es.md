@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Soporte de arco: anatómicamente correcto
 - Con un cuero nobuck sintético impermeable
+- Soporte de arco: anatómicamente correcto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SQR3G7L{{</world>}}

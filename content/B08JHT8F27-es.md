@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Coloración directa con tratamiento nutritivo para cabellos teñidos
-- Una mezcla que combina ingredientes cosméticos con un sistema acondicionador, provitamina b5, aceite de semilla de uva y una selección de pigmentos iónicos
 - Ofrece una combinación óptima de color, cuidado y brillo
+- Una mezcla que combina ingredientes cosméticos con un sistema acondicionador, provitamina b5, aceite de semilla de uva y una selección de pigmentos iónicos
+- Coloración directa con tratamiento nutritivo para cabellos teñidos
 - Brand: REVLON PROFESSIONAL
 
 [🛒 Visítala!!!]({{< param buyurl >}})

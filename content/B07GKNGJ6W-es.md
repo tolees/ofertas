@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dobladillo fluido
-- Fresca y cómoda
 - Para la seguridad de los niños, estas prendas son resistentes al fuego
-- Calidad de confianza Carter, sin complicaciones, embalaje
+- Fresca y cómoda
 - Mangas acanaladas
+- Calidad de confianza Carter, sin complicaciones, embalaje
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GKNGJ6W{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🌼 "Flower Vela en Cubo Metálico con Citronela": Una vela decorativa y funcional, perfecta para jardín o terraza. Su agradable aroma a citronela no sólo embellece el ambiente sino que también ayuda a ahuyentar mosquitos y moscas
+- 📏 Con unas dimensiones de 8x8x9 cm, esta vela es lo suficientemente compacta para colocarla en cualquier lugar, pero también lo suficientemente grande para ofrecer una iluminación eficaz y un aroma que cubre un amplio rango
 - 🍋 Su aroma a citronela, fresco y limpio, crea un ambiente acogedor y relajante. Además, su cubo metálico añade un toque de elegancia a cualquier espacio, lo que la hace perfecta para cenas al aire libre, fiestas en el jardín o simplemente para relajarse en la terraza
 - 🕯️ Fabricada con parafinas de alta calidad, esta vela ofrece una combustión lenta y segura, proporcionando horas de iluminación y protección contra los insectos. Ideal para disfrutar de noches al aire libre sin molestias
+- 🌼 "Flower Vela en Cubo Metálico con Citronela": Una vela decorativa y funcional, perfecta para jardín o terraza. Su agradable aroma a citronela no sólo embellece el ambiente sino que también ayuda a ahuyentar mosquitos y moscas
 - 🏡 No sólo es una vela, es un elemento decorativo y funcional que añade un toque de estilo a cualquier espacio exterior. Además, es un regalo perfecto para los amantes de la jardinería, los que disfrutan de las cenas al aire libre o los que simplemente quieren mantener a los mosquitos a raya de forma natural y agradable
-- 📏 Con unas dimensiones de 8x8x9 cm, esta vela es lo suficientemente compacta para colocarla en cualquier lugar, pero también lo suficientemente grande para ofrecer una iluminación eficaz y un aroma que cubre un amplio rango
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00WV029AQ{{</world>}}

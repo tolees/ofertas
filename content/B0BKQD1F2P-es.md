@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello abotonado
-- Detalles de cinta femenina en el canesú
 - Camisa de ajuste relajado
+- Detalles de cinta femenina en el canesú
+- Cuello abotonado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKQD1F2P{{</world>}}

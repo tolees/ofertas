@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tiene una punta de pelo redonda gruesa de nylon
-- Adecuado también para las manos de los niños
-- Dispone de una tanque de llenado de 10 ml
 - El suministro de agua puede ser controlado individualmente por la presión sobre el tanque durante la pintura
+- Dispone de una tanque de llenado de 10 ml
+- Adecuado también para las manos de los niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B004Q8IWTI{{</world>}}

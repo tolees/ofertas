@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Material: porcelana decorada a mano
 - Dimensiones cueva: altura 13.5, ancho 13 cm, longitud 16 cm, dimensiones figuras: diámetro 3 cm, altura 4.8 cm
 - Óptimo para quienes desean innovar la tradición y darle a la cuna un toque original
-- Contenido del paquete: reproducción de la cueva, estatuas de la sagrada familia, buey, burro, tres reyes magos y dos ángeles
 - Designer: LPWK, Massimo Giacon
+- Contenido del paquete: reproducción de la cueva, estatuas de la sagrada familia, buey, burro, tres reyes magos y dos ángeles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01LZA9GA9{{</world>}}

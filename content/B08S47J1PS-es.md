@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla de EVA para confort
 - Parte encima de tela y material sintético
+- Plantilla de EVA para confort
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08S47J1PS{{</world>}}

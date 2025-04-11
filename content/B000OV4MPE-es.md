@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pigmentos de máxima calidad y luminosidad
-- Estuche de metal
-- Mina gruesa de 3,8 mm de diámetro
+- 60 ecolápices acuarelables ordenados por gama cromática
 - Trazo suave de colorido intenso
 - Resistente a la acción de la luz
-- 60 ecolápices acuarelables ordenados por gama cromática
+- Estuche de metal
+- Mina gruesa de 3,8 mm de diámetro
+- Pigmentos de máxima calidad y luminosidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000OV4MPE{{</world>}}

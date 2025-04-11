@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte normal
-- Vestido corto de fiesta para mujer
 - Cinturón en la cintura
+- Vestido corto de fiesta para mujer
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZFFBQMP{{</world>}}

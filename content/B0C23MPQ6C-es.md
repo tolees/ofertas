@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa de manga larga
 - Custom fit
 - Consiguiendo que la prenda sea cómoda
+- Camisa de manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C23MPQ6C{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente al agua
-- Material principal: napa impermeable, material de revestimiento: suela de piel sintética Material de la suela: TPU Interior de la suela extraíble: No
-- Altura del tacón: 6,50 cm
-- Panama Jack Botas clásicas negras para mujer, color negro
 - Fabricado en España
+- Material principal: napa impermeable, material de revestimiento: suela de piel sintética Material de la suela: TPU Interior de la suela extraíble: No
+- Resistente al agua
+- Panama Jack Botas clásicas negras para mujer, color negro
+- Altura del tacón: 6,50 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08H4PV1KM{{</world>}}

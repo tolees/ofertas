@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fabricado con 100% algodón sostenible
 - Ajuste regular
 - Logotipo bordado en el pecho
-- Fabricado con 100% algodón sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS5VDRF3{{</world>}}

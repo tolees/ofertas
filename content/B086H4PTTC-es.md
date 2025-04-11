@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cremallera frontal
-- Composición: 50% poliuretano, 50% poliéster
 - Con cuello alto
+- Composición: 50% poliuretano, 50% poliéster
 - Chaqueta con aspecto de piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

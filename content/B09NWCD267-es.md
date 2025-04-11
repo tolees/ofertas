@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ligereza
-- Zapatos deportivos
 - Almohadón
+- Zapatos deportivos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09NWCD267{{</world>}}

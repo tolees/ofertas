@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ofrece horas de entretenimiento
-- A partir de 3 años
 - Muñeca evi de 12 cm en moto scooter
 - Con su casco
+- A partir de 3 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07L1F5KWG{{</world>}}

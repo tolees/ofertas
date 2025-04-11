@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CREMA ANTIMANCHAS FACIAL: Despigmenta, aclara manchas y unifica el tono de la piel, aportando luminosidad. Previene la aparición de nuevas manchas. Hidrata la piel en profundidad, tiene acción calmante y protectora contra las agresiones externas.
-- MODO DE USO: Aplicar mañana y noche, una pequeña cantidad sobre rostro, cuello y escote con la piel limpia o después del serum, realizando un suave masaje hasta su completa absorción. Crema facial de uso diario.
-- CREMA ANTIEDAD: Actúa sobre los signos de envejecimiento reduciendo arrugas y líneas de expresión, favoreciendo la regeneración celular. Disminuye la producción de grasa y reduce el tamaño del poro consiguiendo una piel mate y sin brillos.
 - TEXTURA: La crema antimanchas Bella Aurora tiene un tono blanco algodón, con una textura rica y envolvente con acabado aterciopelado. Su fragancia es de nota muy fresca de flores blancas con matiz herbáceo y acuoso de fondo dulce.
+- MODO DE USO: Aplicar mañana y noche, una pequeña cantidad sobre rostro, cuello y escote con la piel limpia o después del serum, realizando un suave masaje hasta su completa absorción. Crema facial de uso diario.
+- CREMA ANTIMANCHAS FACIAL: Despigmenta, aclara manchas y unifica el tono de la piel, aportando luminosidad. Previene la aparición de nuevas manchas. Hidrata la piel en profundidad, tiene acción calmante y protectora contra las agresiones externas.
+- CREMA ANTIEDAD: Actúa sobre los signos de envejecimiento reduciendo arrugas y líneas de expresión, favoreciendo la regeneración celular. Disminuye la producción de grasa y reduce el tamaño del poro consiguiendo una piel mate y sin brillos.
 - PARA PIELES NORMALES-SECAS: Tratamiento antimanchas ideal para pieles normales o secas preocupadas por mantener un cutis joven, luminoso y sin manchas, que desean seguir con un tratamiento, o que quieren prevenir y unificar las manchas cutáneas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

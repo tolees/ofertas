@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Horma clásica
 - Parte combinada con tela
 - Cordones elásticos y cierre autoadherente
-- Horma clásica
 - Forro textil
 - Mediasuela Cloudfoam
 

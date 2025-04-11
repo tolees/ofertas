@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Horma clásica
 - Cierre de cordones
 - Forro sintético
 - Mediasuela con amortiguación para una pisada cómoda
-- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BPF1Z3YC{{</world>}}

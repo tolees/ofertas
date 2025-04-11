@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfuma tu hogar y contrarresta los olores
-- De larga duracin, hasta 2 meses de fragancia, cada recambio contiene 2400 sprayadas
 - Formato: 250 ml
+- De larga duracin, hasta 2 meses de fragancia, cada recambio contiene 2400 sprayadas
+- Perfuma tu hogar y contrarresta los olores
 - Recambio para ambientador automtico
 - Delicada y suave fragancia floral
 

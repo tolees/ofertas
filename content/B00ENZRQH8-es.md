@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ERGONOMÍA PROFESIONAL: La estabilización de imagen SteadyShot óptica integrada compensa el movimiento de la cámara causante de imágenes borrosas al realizar fotografías sin trípode.
 - MAGNÍFICO BOKEH DE FONDO: Apertura circular de 7 láminas para un atractivo efecto de desenfoque.
-- CAPTURA TODOS LOS DETALLES: El rango de zoom y la calidad de esta fina lente G serán suficientes para la mayoría de situaciones de disparo, además tendrás la ventaja adicional de un zoom potente y suave.
-- RÁPIDO Y PRECISO: El enfoque se beneficia del mismo tipo de tecnología de nivel profesional, que proporciona un funcionamiento suave y silencioso. La longitud de la lente permanece constante al hacer zoom o enfocar.
 - OBJETIVO NÍTIDO: Un diseño óptico avanzado que incorpora dos elementos de vidrio ED (dispersión extrabaja) y tres elementos asféricos ofrece una calidad de imagen de lente G en todo el rango del zoom.
+- RÁPIDO Y PRECISO: El enfoque se beneficia del mismo tipo de tecnología de nivel profesional, que proporciona un funcionamiento suave y silencioso. La longitud de la lente permanece constante al hacer zoom o enfocar.
+- ERGONOMÍA PROFESIONAL: La estabilización de imagen SteadyShot óptica integrada compensa el movimiento de la cámara causante de imágenes borrosas al realizar fotografías sin trípode.
+- CAPTURA TODOS LOS DETALLES: El rango de zoom y la calidad de esta fina lente G serán suficientes para la mayoría de situaciones de disparo, además tendrás la ventaja adicional de un zoom potente y suave.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00ENZRQH8{{</world>}}

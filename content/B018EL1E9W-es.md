@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - [Ámbito de uso] Indicada para carretillas, ya sean de obra o jardinería, que admiten ejes de 2 cm de ancho, ya sea para el uso profesional como el doméstico; muy fácil de montar y sustituir por las viejas ruedas neumáticas
-- [Propiedades] Su llanta de ABS de 12,5 cm de diámetro, le confiere estabilidad a la rueda, soportando las cargas pesadas
 - [Medidas y pesos] Ancho total 240 mm. Ancho rueda 80 mm. Diámetro 350 mm. Carga 120 kg
-- [Características principales] Gracias a su cuerpo macizo fabricado en material resistente no se puede pinchar ni reventar,
 - [Alta calidad] Rueda de gran resistencia para carretillas de obra o jardinería, hechas para aguantar el día a día, incluso en las peores condiciones, sin desgastes, roturas o pinchazos
+- [Propiedades] Su llanta de ABS de 12,5 cm de diámetro, le confiere estabilidad a la rueda, soportando las cargas pesadas
+- [Características principales] Gracias a su cuerpo macizo fabricado en material resistente no se puede pinchar ni reventar,
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B018EL1E9W{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuero: Gamuza
-- Cierre: goma
 - 12,3622047118 pulgadas
+- Cierre: goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B096NSDHN5{{</world>}}

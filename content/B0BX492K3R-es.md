@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte entallado
+- Logotipo dryCELL en el dobladillo izquierdo
 - PUMA Logotipo de gato en el pecho derecho
 - Estampado gráfico en los hombros
 - Cierre de cremallera de un cuarto
-- Corte entallado
-- Logotipo dryCELL en el dobladillo izquierdo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BX492K3R{{</world>}}

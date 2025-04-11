@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El portabrocas de sujeción rápida vale para todos los tamaños de taladro comunes de 1 a 16 milímetros. Además, la taladradora de columna está provista de un adaptador mk2 para taladros cónicos morse.
 - La taladradora de columna tiene un tope de profundidad fácilmente ajustable para realizar perforaciones con total precisión.
-- El generador eléctrico transforma una potencia continua de 2.600 vatios, de 2.800 vatios hasta en 5 minutos y de 3.100 hasta en 2 minutos. Su práctico voltímetro indica la tensión real en todo momento.
 - Para lograr unas condiciones de trabajo óptimas, la mesa de perforación del taladro de columna es giratoria, con altura e inclinación ajustables y provista de extensión para trabajar con piezas de gran tamaño; una luz led garantiza una iluminación óptima
 - El taladro de columna te-bd 750 e se propulsa mediante un motor de inducción suave y silencioso. El husillo afilado con rodamiento de bolas garantiza una larga vida útil.
+- El generador eléctrico transforma una potencia continua de 2.600 vatios, de 2.800 vatios hasta en 5 minutos y de 3.100 hasta en 2 minutos. Su práctico voltímetro indica la tensión real en todo momento.
+- El portabrocas de sujeción rápida vale para todos los tamaños de taladro comunes de 1 a 16 milímetros. Además, la taladradora de columna está provista de un adaptador mk2 para taladros cónicos morse.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BQ6R19K{{</world>}}

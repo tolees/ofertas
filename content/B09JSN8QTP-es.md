@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nuevo diseño con una sensación nostálgica
 - Suela exterior detallada con caña
+- Nuevo diseño con una sensación nostálgica
 - Recubrimientos de poliuretano, capas inferiores de malla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

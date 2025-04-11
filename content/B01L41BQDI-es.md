@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calzado havaianas
 - Alpargatas acampada y senderismo unisex adulto
+- Calzado havaianas
 - Hav origine iii tangerine (4137014)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Clic coat
 - 2 closed side pockets
+- Clic coat
 - brand: Bestseller A/S
 
 [🛒 Comprar!!!]({{< param buyurl >}})

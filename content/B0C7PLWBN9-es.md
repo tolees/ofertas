@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Starfield es el primer universo nuevo en más de 25 años de Bethesda Game Studios, los galardonados creadores de The Elder Scrolls V: Skyrim y Fallout 4. En este juego de rol de próxima generación ambientado entre las estrellas, podrás hacerte el personaje que desees y explorar con una libertad sin precedentes mientras te embarcas en un viaje épico para desentrañar el mayor misterio de la humanidad.
 - La Premium Upgrade Edition incluye: Steelbook Parche de Constelación Contenido digital: Hasta 5 días de acceso anticipado Shattered Space – Primera expansión de la historia Diseños de Constelación Banda sonora y libro de arte digitales
+- Starfield es el primer universo nuevo en más de 25 años de Bethesda Game Studios, los galardonados creadores de The Elder Scrolls V: Skyrim y Fallout 4. En este juego de rol de próxima generación ambientado entre las estrellas, podrás hacerte el personaje que desees y explorar con una libertad sin precedentes mientras te embarcas en un viaje épico para desentrañar el mayor misterio de la humanidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C7PLWBN9{{</world>}}

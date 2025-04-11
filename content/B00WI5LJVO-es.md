@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado como utilización en forma de enmienda sobre suelos que requieren materia orgánica
 - Sustrato de cultivo formado por restos vegetales compostados
-- Ayuda la estructura del suelo, aportando drenaje
 - Proporciona las condiciones óptimas de cultivo para las plantas
+- Adecuado como utilización en forma de enmienda sobre suelos que requieren materia orgánica
+- Ayuda la estructura del suelo, aportando drenaje
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WI5LJVO{{</world>}}

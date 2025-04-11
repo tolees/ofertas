@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica con cordón de ajuste
-- Bañador con cordón, secado rápido
-- Con poliéster reciclado
 - Pantalones cortos de natación de playa bien confeccionados con hilo reciclado.
+- Cintura elástica con cordón de ajuste
+- Con poliéster reciclado
+- Bañador con cordón, secado rápido
 - Tejido sencillo para un aspecto limpio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición: Shell: 85% Poliéster, 15% Algodón, Forro: 100% Poliéster
 - Abrigo con capucha drapeada
+- Composición: Shell: 85% Poliéster, 15% Algodón, Forro: 100% Poliéster
 - 2 bolsillos frontales ribeteados
 - Cierre frontal oculto
 

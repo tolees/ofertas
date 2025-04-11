@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste: cintura alta
 - Con dos bolsillos traseros, dos bolsillos delanteros y un bolsillo adiciol para cambio
 - Longitud: por encima de la rodilla
-- Ajuste: cintura alta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09XVJ3J8Q{{</world>}}

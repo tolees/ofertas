@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ideal para cualquier plato y ocasión
-- Frutas ácidas y los herbales
 - Amarillo pálido brillante en color con irisaciones que evocan al oro blanco
+- Frutas ácidas y los herbales
 - Sensaciones afrutadas muy equilibrado con una excelente acidez y frescura
 
 [🛒 Aquí!!!]({{< param buyurl >}})

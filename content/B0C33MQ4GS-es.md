@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peso ligero
-- Cierre de cordones
 - Parte superior de malla diseñada
+- Cierre de cordones
+- Peso ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C33MQ4GS{{</world>}}

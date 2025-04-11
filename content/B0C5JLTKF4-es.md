@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Libertad de movimiento
 - Dobladillo con cordón
 - Corte ajustado
-- Libertad de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5JLTKF4{{</world>}}

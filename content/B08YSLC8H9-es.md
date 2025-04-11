@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disfruta de los mejores partidos con Oliver y Benji
 - Captain Tsubasa: Rise of New Champions ofrece una original visión del mundo del fútbol
+- Disfruta de los mejores partidos con Oliver y Benji
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08YSLC8H9{{</world>}}

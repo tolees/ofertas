@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Aspira y limpia en un solo paso Gracias al accesorio especial con depósito de agua, es posible humedecer automáticamente el paño de microfibra suministrado y realizar así una triple acción de aspiración, limpieza y detersión
 - Pantalla inteligente: la pantalla inteligente permite un control inmediato de los parámetros de limpieza. Puedes comprobar la potencia, el porcentaje de batería restante y las alertas de carga.
 - Potente motor digital brushless. El corazón de AirB600 pulsa a través de un potente motor digital de inducción sin escobillas de 600 Watt, situado en la parte más baja del cuerpo principal para un manejo extremadamente sencillo
-- Sistema multiciclón con doble separador La suciedad recogida se filtra primero en el módulo inferior, donde se recogen las partes más grandes, y después en el módulo superior, donde se transporta el polvo más fino
-- Aspira y limpia en un solo paso Gracias al accesorio especial con depósito de agua, es posible humedecer automáticamente el paño de microfibra suministrado y realizar así una triple acción de aspiración, limpieza y detersión
 - Higieniza colchones y sofás. Gracias al cepillo equipado con una lámpara UV-C esterilizadora, podrás realizar un tratamiento de limpieza en profundidad de colchones, sofás, sillones, etc.Amigo de las mascotas! La combinación de la potencia de aspiración de 22kpa y el cepillo especial suministrado permite una aspiración rápida pero eficaz del pelo (largo y corto) de nuestras queridas mascotas
+- Sistema multiciclón con doble separador La suciedad recogida se filtra primero en el módulo inferior, donde se recogen las partes más grandes, y después en el módulo superior, donde se transporta el polvo más fino
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CG9YJQTH{{</world>}}

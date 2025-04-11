@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de uso diario
-- Aplicación fácil, práctica y cómoda
 - Aporta a la piel los niveles de hidratación óptimos
 - Ayuda a calmar y acondicionar la piel seca
+- Aplicación fácil, práctica y cómoda
+- Producto de uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01GJO2VAM{{</world>}}

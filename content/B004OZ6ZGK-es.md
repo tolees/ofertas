@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso:
-- Dimensiones:
 - Tamaño del paquete:
+- Peso:
 - 25,5 x 39 x 11 cm.
+- Dimensiones:
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004OZ6ZGK{{</world>}}

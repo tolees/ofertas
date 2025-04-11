@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo PUMA en el costado y la lengüeta
 - Franja PUMA en el medio y los costados
 - Logotipo PUMA Cat en el talón
+- Logotipo PUMA en el costado y la lengüeta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JWQ73XF{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bordes abiertos en la parte inferior
 - Dos bolsillos delanteros y un bolsillo para monedas
+- Bordes abiertos en la parte inferior
 - Dos bolsillos traseros
 - Cinco trabillas para cinturón
 

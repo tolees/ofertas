@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - 🪅 TARRO: Nuestro tarro plástico es el envase perfecto para compartir nuestras golosinas sin necesidad de bandejas adicionales, además que ayuda a conservar los caramelos con la mayor frescura, se pueden reutilizar
 - 💯 FINI: Marca líder en golosinas de España con las más altas puntuaciones en certificaciones y seguridad alimentaria del sector. La calidad, innovación y diversión están entre sus principales pilares para crear productos únicos
 - 🎉 PARTY MIX: Tarro de caramelos de goma y geles dulces de 450 gr. Gominolas en formas surtidas de plátano, sandía, regaliz, ladrillo, entre otras
-- 🎊 CARAMELOS BLANDOS: Nuestros chuches son la opción perfecta para fiestas de cumpleaños, navidad, halloween u otras ocasiones especiales. Chucherias y gominolas ideales para un regalo original
 - ⚠️ EXTRA: Nuestro paquete de golosinas ha sido fabricada sin Organismo Modificados Geneticamente. Contiene GLUTEN y es fabricado en una fabrica que maneja derivados LÁCTEOS
+- 🎊 CARAMELOS BLANDOS: Nuestros chuches son la opción perfecta para fiestas de cumpleaños, navidad, halloween u otras ocasiones especiales. Chucherias y gominolas ideales para un regalo original
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08VC4FZ9T{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Reciclable , Apilable , Ecológico , Vidrio templado extra resistente , Material 100% saludable , 100% higiénico , Extra resistente , No poroso , Larga duración
-- 6 platos llanos 25cm, 6 platos hondos 20 cm y 6 platos postres 19 cm de opal color
 - Fabricado en Francia
 - Apto Microondas , Apto Frigorífico
 - Apto lavavajillas
+- Reciclable , Apilable , Ecológico , Vidrio templado extra resistente , Material 100% saludable , 100% higiénico , Extra resistente , No poroso , Larga duración
+- 6 platos llanos 25cm, 6 platos hondos 20 cm y 6 platos postres 19 cm de opal color
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6GFL9VD{{</world>}}

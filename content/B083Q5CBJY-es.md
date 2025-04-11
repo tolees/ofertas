@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Leewadee – Nuestro nombre es sinónimo de alta calidad y diseño sofisticado. Todos nuestros productos están hechos de acuerdo con la artesanía tradicional tailandesa
-- Material – Las almohadas triangulares están rellenas de kapok, una fibra natural. Ademas es un material transpirable y hace que la almohada sea firme y cómodo
 - Características – Las fundas de las almohadas para pilates pequeñas están hechas de algodón. La doble costura mejora su durabilidad para convertirlas en las acompañantes de yoga ideales
+- Leewadee – Nuestro nombre es sinónimo de alta calidad y diseño sofisticado. Todos nuestros productos están hechos de acuerdo con la artesanía tradicional tailandesa
 - Uso y aplicación – Los ladrillos de yoga gruesos son aptos, sobre todo, para meditar. También se pueden utilizar como asientos para el suelo y como accesorios para hacer ejercicios de estiramiento
+- Material – Las almohadas triangulares están rellenas de kapok, una fibra natural. Ademas es un material transpirable y hace que la almohada sea firme y cómodo
 - Contenido – Las almohadas para meditar miden 35 x 18 x 12 cm (LxAxAlt.) y son compactas y ligeras. Gracias a sus formas y medidas son fáciles de transportar y de guardar después de utilizarlas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

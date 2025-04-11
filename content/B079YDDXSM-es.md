@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego de estrategia dónde comercias y enriqueces tus ganancias
-- Objetivo conseguir puntos de victoria
+- RODAS
 - Juego de mesa
+- Objetivo conseguir puntos de victoria
 - RODAS
-- RODAS
+- Juego de estrategia dónde comercias y enriqueces tus ganancias
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079YDDXSM{{</world>}}

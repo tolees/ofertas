@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalones de chándal con puños acanalados
 - Cierre: cordón
 - Colección: corredor (NOS)
-- Tejido de algodón para una comodidad suave y cómoda
 - Modelo: JJIGORDON JJSHARK SWEAT PANTS VIY NOOS
+- Pantalones de chándal con puños acanalados
+- Tejido de algodón para una comodidad suave y cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07ZJM4V4N{{</world>}}

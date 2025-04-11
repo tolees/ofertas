@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disney Pixar Lightyear Nave espacial XL de Zurg Serie Hipervelocidad para figuras de acción, juguete +4 años (Mattel HJW47)
 - Descubre el universo de Buzz Lightyear de Disney y PIxar con estos juguetes, naves espaciales y figuras de acción que te llevarán hasta el infinito y más allá.
+- Disney Pixar Lightyear Nave espacial XL de Zurg Serie Hipervelocidad para figuras de acción, juguete +4 años (Mattel HJW47)
 - 4Y+
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% algodón
-- Cuello redondo de canalé
 - Corte clásico
-- Compra una talla más pequeña
+- Cuello redondo de canalé
 - Puños y dobladillo de canalé
+- 100% algodón
+- Compra una talla más pequeña
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BJ9KSZD2{{</world>}}

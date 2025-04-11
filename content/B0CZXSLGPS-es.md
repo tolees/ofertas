@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✅ Conectividad: 2x HDMI, USB, entrada de vídeo compuesto AV, salida de audio digital óptica, puerto de interfaz común CI.
-- ✅ Televisor Led 32 Pulgadas (80 cm) Resolución 1366 x 768 píxeles (HD).
-- ✅ Sonido Dolby Digital Plus, Eficiencia energética E.
 - ✅ Sintonizador digital de televisión para canales HD de segunda generación DVB-T2/C/S2.
 - ✅ Grabador y reproductor multimedia USB.
+- ✅ Sonido Dolby Digital Plus, Eficiencia energética E.
+- ✅ Conectividad: 2x HDMI, USB, entrada de vídeo compuesto AV, salida de audio digital óptica, puerto de interfaz común CI.
+- ✅ Televisor Led 32 Pulgadas (80 cm) Resolución 1366 x 768 píxeles (HD).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXSLGPS{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ajustada clásica
 - 100% algodón
 - Jersey Crew Tee con gráfico en la parte delantera
-- Ajustada clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8TDK7VH{{</world>}}

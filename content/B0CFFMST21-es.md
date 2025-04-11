@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ponte en la piel de Yasna, una astrobióloga sobradamente cualificada y perspicaz.
-- Un juego en primera persona basado en el mundo de The Invincible, de Stanisław Lem.
-- Toma decisiones de peso y comprueba los diferentes finales que puede tener tu aventura.
 - Sumérgete en la atmósfera atompunk usando diferentes herramientas, como un telémetro o un rastreador.
 - Vive una aventura filosófica en un planeta inexplorado.
+- Un juego en primera persona basado en el mundo de The Invincible, de Stanisław Lem.
+- Toma decisiones de peso y comprueba los diferentes finales que puede tener tu aventura.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFFMST21{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Goma de mascar con sabor dulce
-- Adecuado también para una fiesta retro para adultos
-- Para cualquier fiesta infantil
 - Se tira la moneda de dos coronas en la ranura y se gira la manija
+- Para cualquier fiesta infantil
+- Adecuado también para una fiesta retro para adultos
+- Goma de mascar con sabor dulce
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B003SCG9W0{{</world>}}

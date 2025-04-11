@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un halo blanco nacarado y resplandeciente difunde su Aura desde el centro hacia los bordes
-- Una vainilla láctea y empolvada componen el fondo de Aura prolongando la sensación de una piel acariciada por el sol
-- En el corazón destaca la flor de jazmín envuelta en un ramo de flores blancas entrelazado con un acorde limpio y radiante aportando luz y resplandor
 - Esta fragancia entra con un acorde salado combinado con rosas consiguiendo una faceta fresca y chispeante
+- Una vainilla láctea y empolvada componen el fondo de Aura prolongando la sensación de una piel acariciada por el sol
+- Un halo blanco nacarado y resplandeciente difunde su Aura desde el centro hacia los bordes
+- En el corazón destaca la flor de jazmín envuelta en un ramo de flores blancas entrelazado con un acorde limpio y radiante aportando luz y resplandor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BFFB369{{</world>}}

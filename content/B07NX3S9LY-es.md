@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- POTENCIA:12W Lumen: 960Lm
-- Voltaje: 220-240v 50/60Hz ,Indice IP: IP20 , CRI:80
-- Medidas producto: 170mm ,Grosor producto: H 32mm
-- MATERIAL: ALUMINIO/PC
 - Anulo apertura d la luz :120º Factor Potencia:0.9
+- POTENCIA:12W Lumen: 960Lm
+- MATERIAL: ALUMINIO/PC
+- Medidas producto: 170mm ,Grosor producto: H 32mm
+- Voltaje: 220-240v 50/60Hz ,Indice IP: IP20 , CRI:80
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NX3S9LY{{</world>}}

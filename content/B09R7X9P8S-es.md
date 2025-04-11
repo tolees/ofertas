@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Slim fit
+- 91% Acetate 9% Elastane
+- Estampado tribal
 - Cuello redondo
 - Fibras sostenibles: Naia
-- Estampado tribal
-- 91% Acetate 9% Elastane
-- Slim fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09R7X9P8S{{</world>}}

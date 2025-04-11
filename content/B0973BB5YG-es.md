@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Plantilla Goga Mat refrigerada por aire
+- Deslizamiento
 - Ortholite
 - Zapatos cómodos para correr
-- Deslizamiento
 - Mstrike
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

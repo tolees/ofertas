@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Multifunción: iluminación, convección natural, grill, estático y ventilador y, grill y ventilador. Todas configurables desde los 3 mandos mecánicos superiores.
-- Fácil limpieza: el horno con puerta de doble cristal desmontable y el exterior sin tornillos. Además, la cuba inferior está preparada para la limpieza con agua.
-- Uso sencillo: horno eléctrico que encaja a la perfección con cualquier tipo de cocina, con puerta de cristal, mandos y tirador de acero inoxidable y 65L de capacidad.
 - Medidas horno eléctrico empotrable | Medidas encastre (alto x ancho x prof): 59,5 x 59,5 x 56,8cm | 59 x 56 x 56cm.
+- Multifunción: iluminación, convección natural, grill, estático y ventilador y, grill y ventilador. Todas configurables desde los 3 mandos mecánicos superiores.
+- Uso sencillo: horno eléctrico que encaja a la perfección con cualquier tipo de cocina, con puerta de cristal, mandos y tirador de acero inoxidable y 65L de capacidad.
+- Fácil limpieza: el horno con puerta de doble cristal desmontable y el exterior sin tornillos. Además, la cuba inferior está preparada para la limpieza con agua.
 - Accesorios incorporados con el horno: 2 rejillas antivuelco y 1 bandeja para hornear.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

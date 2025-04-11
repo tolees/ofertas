@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - GYLT - Edición Nintendo Switch incluye: Carátula Reversible y Hoja de Pegatinas Exclusiva.
-- Explora el mundo a tu alrededor y descubre el misterio detrás de la desaparición de Emily.
-- Vive la historia de Sally, una niña de Bethelwood. Su vida no es sencilla, y se ha vuelto aún más difícil desde la desaparición de su prima Emily. Tras ser perseguida por un grupo de abusones, Sally se ve arrastrada hacia una versión retorcida de su ciudad donde sus miedos y sus más oscuros recuerdos se le presentan de un modo retorcido y muy real.
 - Escoge entre enfrentarte a las criaturas o esconderte de ellas, del mismo modo en que te enfrentas a tus miedos o huyes de ellos.
+- Vive la historia de Sally, una niña de Bethelwood. Su vida no es sencilla, y se ha vuelto aún más difícil desde la desaparición de su prima Emily. Tras ser perseguida por un grupo de abusones, Sally se ve arrastrada hacia una versión retorcida de su ciudad donde sus miedos y sus más oscuros recuerdos se le presentan de un modo retorcido y muy real.
 - GYLT es juego de aventura narrativa con puzles, sigilo y acción, ambientado en una ciudad minera ficticia del estado de Maine.
+- Explora el mundo a tu alrededor y descubre el misterio detrás de la desaparición de Emily.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CVRYP7LV{{</world>}}

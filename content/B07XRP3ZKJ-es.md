@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavable a máquina
-- Espuma viscoelástica refrigerada por aire
 - Ajuste relajado
+- Espuma viscoelástica refrigerada por aire
+- Lavable a máquina
 - Malla diseñada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

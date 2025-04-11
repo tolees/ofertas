@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Horma clásica
 - Drop: 9 mm (talón: 25 mm / antepié: 16 mm)
 - Parte textil
 - Cierre de cordones
 - Forro textil
-- Horma clásica
 - Mediasuela Cloudfoam
 
 [🛒 Comprar!!!]({{< param buyurl >}})

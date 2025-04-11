@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se presentan en una colorida caja de metal, perfecta para coleccionar
-- Sin gluten; sin colorantes ni conservantes; sin Aceite de Palma
-- Minihuevos de pistacho y chocolate extra negro 70 % encerrados en una bonita caja de metal en forma de conejo
 - Elaborado en Italia según la regla del «Buono Buonissimo» (ingredientes seleccionados, con menos azúcares y sin aditivos artificiales)
+- Minihuevos de pistacho y chocolate extra negro 70 % encerrados en una bonita caja de metal en forma de conejo
+- Sin gluten; sin colorantes ni conservantes; sin Aceite de Palma
+- Se presentan en una colorida caja de metal, perfecta para coleccionar
 - ¡La verdadera sorpresa es el chocolate Venchi!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

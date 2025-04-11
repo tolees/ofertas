@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alta calidad
 - ASIENTO R100 MY2022 NEGRO
 - Brand: Sparco
+- Alta calidad
 - Estilo: ajuste universal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de tracción flexible
 - Plantilla acolchada de espuma viscoelástica refrigerada por aire
 - Parte superior de malla de jersey con cordones elásticos
+- Suela de tracción flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3ML2TC4{{</world>}}

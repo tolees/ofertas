@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DENIM STRETCH
 - Transparente.
 - Skinny.
+- DENIM STRETCH
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CXXWB1R{{</world>}}

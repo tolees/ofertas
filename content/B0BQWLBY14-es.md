@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Número de modelo: L31TQDTO
 - Composición: 84% algodón reciclado pre-consumidor de residuos industriales - 14% poliéster reciclado - 2% elastano
+- Número de modelo: L31TQDTO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQWLBY14{{</world>}}

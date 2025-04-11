@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Caja con ventana fácil de coleccionar
-- La figura mide 3 3/4 pulgadas de alto
-- Exclusivo de vistas previas
-- Basado en los trajes clásicos de armadura de Iron Man de los cómics
 - Bolsillos apilables para cada traje de armadura
+- La figura mide 3 3/4 pulgadas de alto
+- Basado en los trajes clásicos de armadura de Iron Man de los cómics
+- Exclusivo de vistas previas
+- Caja con ventana fácil de coleccionar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09DS2JQWR{{</world>}}

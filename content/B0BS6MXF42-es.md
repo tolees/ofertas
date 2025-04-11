@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dermatológicamente testado
-- 2 minutos: crema depilatoria diseñada para vellos resistentes, es efectiva a partir de 2 minutos
 - Con manteca de karité: crema depilatoria formulada con manteca de karité y enriquecida con un hidratante natural encontrado en la piel
+- 2 minutos: crema depilatoria diseñada para vellos resistentes, es efectiva a partir de 2 minutos
+- Dermatológicamente testado
 - Hidratación 48 horas: mantiene la piel hidratada hasta 48 horas
 - Piel suave en simples pasos, puede usarse en la zona íntima icluyendo los labios exteriores; evite el contacto con los labios internos y membranas mucosas
 

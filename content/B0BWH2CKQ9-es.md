@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Función Snap and Wash: realiza una foto de la colada y la App hOn te aconsejará que programa rápido utilizar en función de las prendas y tus necesidades.
-- Medidas Lavadora (alto x ancho x profundidad): 85 x 60 x 53 cm
 - Tecnología Quick&Clean: se trata de un innovador sistema de premezcla, el cual activa el detergente antes de entrar en contacto con los tejidos, consiguiendo lavados mucho más eficientes, rápidos y a baja temperatura, ahorrando energía y tiempo.
+- Medidas Lavadora (alto x ancho x profundidad): 85 x 60 x 53 cm
+- Función Snap and Wash: realiza una foto de la colada y la App hOn te aconsejará que programa rápido utilizar en función de las prendas y tus necesidades.
 - Ahorra tiempo con los 9 ciclos rápidos de menos de 59: escoge entre sus 9 programas rápidos y eficientes de menos de una hora y consigue los mejores resultados gracias al Motor Inverter Speed Drive.
 - Easy Iron: higieniza, relaja las fibras y facilita el planchado gracias a la función vapor.
 

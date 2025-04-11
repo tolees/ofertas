@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Din 3113-a
+- En bolsa enrollable de vinilo
+- Forjado en caliente
 - Extremo del anillo en ángulo de 15°
 - Llave combinadas 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 17 - 19 - 22 mm
-- Salida del anillo: 12 caras
-- En bolsa enrollable de vinilo
-- Cromado, cabezas pulidas
-- Forjado en caliente
 - Hecho de acero al cromo vanadio
-- Din 3113-a
+- Cromado, cabezas pulidas
+- Salida del anillo: 12 caras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B001ILG2J8{{</world>}}

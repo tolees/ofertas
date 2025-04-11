@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TIRO DEL PANTALÓN: La talla M mide 74,9 cm.
-- FORRO POLAR CEPILLADO: Suave forro polar cepillado por el interior con mezcla de algodón y poliéster de gramaje medio, que te mantendrá cómodo y abrigado.
-- AJUSTE HOLGADO: Nuestros pantalones más amplios, holgados en la cadera, el muslo y la pierna. Queda por la cintura.
-- DETALLES: Cintura elástica con cordón de ajuste, bolsillos en la cadera y puños de canalé para conseguir el clásico look jogger.
 - ESTILO INFORMAL PARA EL DÍA A DÍA: Pantalón de chándal jogger de corte clásico con pierna ajustada y puño de canalé para mayor confort y comodidad en el día a día.
+- AJUSTE HOLGADO: Nuestros pantalones más amplios, holgados en la cadera, el muslo y la pierna. Queda por la cintura.
+- TIRO DEL PANTALÓN: La talla M mide 74,9 cm.
+- DETALLES: Cintura elástica con cordón de ajuste, bolsillos en la cadera y puños de canalé para conseguir el clásico look jogger.
+- FORRO POLAR CEPILLADO: Suave forro polar cepillado por el interior con mezcla de algodón y poliéster de gramaje medio, que te mantendrá cómodo y abrigado.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B085YVKBRK{{</world>}}

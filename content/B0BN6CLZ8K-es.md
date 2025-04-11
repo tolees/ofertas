@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Talla del zapato: Medium
 - Forma del tacón: plano
 - Grado de resistencia al agua: resistente al agua
-- Talla del zapato: Medium
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN6CLZ8K{{</world>}}

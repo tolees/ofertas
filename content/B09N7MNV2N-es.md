@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Material exterior: Sintético
 - Revestimiento: Sintético
-- Fácil de llevar para un confort optimo
 - Transpirable
+- Fácil de llevar para un confort optimo
 - Flexibilidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

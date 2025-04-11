@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DETALLES: Presenta bragueta con cremallera y cierre de botón, bolsillos delanteros oblicuos, pequeño bolsillo en la cintura y bolsillos traseros clásicos de ojal con botón.
-- ABERTURA DE LA PIERNA: La talla 42 mide 19 cm.
-- AJUSTE CEÑIDO: Entallado en la cadera y el muslo, con pierna ajustada. Queda por debajo de la cintura.
 - PANTALÓN CHINO DE COLOR CAQUI: Estos clásicos pantalones chinos de color caqui están confeccionados en un ligero tejido lavado y se convertirán en un básico de tu armario. Una prenda muy versátil, que puedes ponerte a diario o para conseguir un outfit arreglado pero informal para ir a trabajar.
+- DETALLES: Presenta bragueta con cremallera y cierre de botón, bolsillos delanteros oblicuos, pequeño bolsillo en la cintura y bolsillos traseros clásicos de ojal con botón.
+- AJUSTE CEÑIDO: Entallado en la cadera y el muslo, con pierna ajustada. Queda por debajo de la cintura.
+- ABERTURA DE LA PIERNA: La talla 42 mide 19 cm.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BJKW55P{{</world>}}

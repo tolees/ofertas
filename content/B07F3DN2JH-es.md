@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CALMA Y APORTA CONFORT; el Bisabolol, conocido por sus propiedades calmantes y antiinflamatorias, ayuda a aliviar la irritación de la piel y reducir la inflamación, proporcionando confort a la piel sensible del bebé
 - SEGURO Y CONFIABLE DESDE EL NACIMIENTO; sin gluten, Sin parabenes, Sin proteínas de huevo ni leche; testado bajo control dermatológico y pediátrico Hipoalergénico, Piel sensible/Tendencia atópica, 99% Ingredientes naturales
 - REFUERZA LA FUNCIÓN BARRERA; los insaponificables del aceite de oliva, fortalecen la barrera lipídica de la piel, proporcionando una capa protectora que ayuda a prevenir la pérdida de humedad y a proteger la piel contra agresiones externas
 - HIDRATA, NUTRE Y SUAVIZA LA PIEL; la manteca de cupuaçu, rica en ácidos grasos esenciales y antioxidantes, ayudar a nutrir, suaviza y alisa la piel del bebé, proporcionando una textura agradable y reduciendo la sequedad
+- CALMA Y APORTA CONFORT; el Bisabolol, conocido por sus propiedades calmantes y antiinflamatorias, ayuda a aliviar la irritación de la piel y reducir la inflamación, proporcionando confort a la piel sensible del bebé
 - REDUCE ROJECES Y TIRANTEZ; la crema facial reparadora calmante de Baby Care está formulada con Extracto de margarita azul, que ayuda a aliviar la irritación y la inflamación de la piel sensible, proporcionando confort a la piel del bebé
 
 [🛒 Visítala!!!]({{< param buyurl >}})

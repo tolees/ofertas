@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una óptima alternativa a los jeans ajustados
 - Cierre de cremallera
+- Una óptima alternativa a los jeans ajustados
 - Cintura ajustable
 - Ajuste regular
 

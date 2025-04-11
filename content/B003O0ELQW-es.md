@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre: Sin cordones
+- Material de la suela: Goma
 - Tipo de tacón: Plano
 - Material exterior: Caucho
 - Revestimiento: Sin forro
-- Material de la suela: Goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B003O0ELQW{{</world>}}

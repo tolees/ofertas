@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lector de tarjetas multimedia para leer y escribir hasta 43 formatos diferentes de tarjetas de memoria / Plug & Play y Hot Swappable
 - Copia directa entre las tarjetas que se inserten en las ranuras de la unidad.
 - Soporta DNIe y tarjetas inteligentes “Smart Cards”. Incluye todos los protocolos demandados por la Administración.
-- Lector de tarjetas multimedia para leer y escribir hasta 43 formatos diferentes de tarjetas de memoria / Plug & Play y Hot Swappable
 - Conexión USB 2.0 (compatible USB 1.1) / Indicadores luminosos que muestran el estado de la unidad y el acceso a las tarjetas de memoria.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

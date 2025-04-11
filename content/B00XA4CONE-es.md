@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Graduación: 13,5% vol.
+- Origen: DO Ribera del Duero
 - Puede disfrutarlo desde ahora, bien conservado aguantará 3-5 años.
 - Color cereza oscuro y bien cubierto. Intenso aroma de frutos negros (cerezas), con un fino matiz ahumado.
-- Origen: DO Ribera del Duero
-- Graduación: 13,5% vol.
 - Para recetas con carnes, cordero asado, todo tipo de aves, estofados y guisos. Servir entre 14-16ºC.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

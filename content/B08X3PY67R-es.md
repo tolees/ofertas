@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vaqueros para hombre en estándar de la marca danesa JACK & JONES
 - Este viene en un hermoso color azul lavado a la piedra de tamaño medio, por lo que es ideal para la sesión de primavera y verano.
+- Vaqueros para hombre en estándar de la marca danesa JACK & JONES
 - Perfecto para los hombres a los que les gusta sencillo y especialmente cómodo: los pantalones cuentan con una pierna recta con muslos y rodillas anchos.
 - El corte también es muy moderno y se puede combinar perfectamente con diferentes estilos.
 

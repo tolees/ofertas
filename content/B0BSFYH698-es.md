@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Adéntrate en el Sueño Aumentado, el sueño colectivo que salvaguarda el bienestar de los habitantes de Astrum Close.
 - Hay pistas escondidas por toda la ciudad para que las encuentres, pero cuanto más profundices, más misterios desenterrarás.
 - Usa tu habilidad especial para rebobinar el tiempo y alterar el pasado.
-- Adéntrate en el Sueño Aumentado, el sueño colectivo que salvaguarda el bienestar de los habitantes de Astrum Close.
-- Resuelve un crimen teóricamente imposible en este emocionante misterio de ciencia ficción.
 - La IA integrada en la ciudad, Justicius, es la encargada de preservar la tasa de criminalidad del 0,001% en esta idílica metrópolis
+- Resuelve un crimen teóricamente imposible en este emocionante misterio de ciencia ficción.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSFYH698{{</world>}}

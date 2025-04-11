@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pantalla LCD de alta luminosidad de 1,23", que permite visualizar la medición corriente y el historial, la unidad de medición, la batería restante y el estado de conexión Bluetooth
 - Peso de solo 60 g
 - Batería de litio de 370 mAh que permite medir hasta 3000 veces con una sola carga. Recargable rápido en 100 minutos
 - Unidad de medida m/ft, unidad mínima mostrada 0,001 m, rango de medición 0,05-40 m, láser de 630-680 nm
-- Pantalla LCD de alta luminosidad de 1,23", que permite visualizar la medición corriente y el historial, la unidad de medición, la batería restante y el estado de conexión Bluetooth
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09Z21T7WL{{</world>}}

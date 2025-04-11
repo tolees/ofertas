@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado gráfico en el pecho
 - Cuello redondo
+- Estampado gráfico en el pecho
 - Bajo recto
 - Manga corta
 

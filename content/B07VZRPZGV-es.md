@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Lavable a máquina
+- Vestido de gasa ligero
 - Totalmente forrada
 - Para todo el año
-- Vestido de gasa ligero
-- Lavable a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VZRPZGV{{</world>}}

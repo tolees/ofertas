@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tres bolsillos con cremallera
-- Cremalleras de perfil bajo
 - Capucha ajustable con cremallera
-- Chaqueta acolchada
+- Cremalleras de perfil bajo
+- Tres bolsillos con cremallera
 - Dobladillo con cordón y puños elásticos
+- Chaqueta acolchada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01KHUIILA{{</world>}}

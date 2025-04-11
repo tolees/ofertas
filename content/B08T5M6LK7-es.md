@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Doble puño
-- Tira de botones
-- Tela Oxford
 - Corte ajustado
+- Tira de botones
+- Doble puño
+- Tela Oxford
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08T5M6LK7{{</world>}}

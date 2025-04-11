@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: poliéster
-- Cierre: cordones
-- Forma del tacón: plano
 - No resistente al agua
+- Cierre: cordones
+- Material exterior: poliéster
+- Forma del tacón: plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09W6WCFGC{{</world>}}

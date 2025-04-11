@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 3 paneles modulares que incluyen una puerta peatonal conveniente
-- Altura 74 cm
 - Indicador EZY-Check
 - Adecuada para aberturas de 85.5cm a 210cm
+- Altura 74 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B075KNRNX2{{</world>}}

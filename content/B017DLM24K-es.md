@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Monoblock de una pieza
 - Tamaño Hoja: 85 mm
-- Hoja: Acero Inoxidable y espesor 2,5 mm
 - Cuchillo Lunch
+- Hoja: Acero Inoxidable y espesor 2,5 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B017DLM24K{{</world>}}

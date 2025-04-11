@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Parte superior de piel
 - Compra una talla más grande
+- Parte superior de piel
+- Horma clásica
+- Cierre de cordones
 - Mediasuela con amortiguación
 - Forro textil
-- Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C53YJW96{{</world>}}

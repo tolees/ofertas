@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cocina
 - Decorada en colores muy vivos
 - Con estantes
 - Con utensilios de cocina
+- Cocina
 - De fácil montaje
 
 [🛒 Aquí!!!]({{< param buyurl >}})

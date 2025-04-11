@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Eficiencia máxima, 15 metros cuadrados.
 - Ionizador, modo noche, cuatro velocidades, temporizador de apagado, indicador luminoso de calidad de aire, luz de compañía.
-- Filtro Hepa, prefiltro, carbón activo, luz ultra violeta.
-- CADR 100 metros cúbicos la hora.
 - Indicador de cambio de filtro.
+- Filtro Hepa, prefiltro, carbón activo, luz ultra violeta.
+- Eficiencia máxima, 15 metros cuadrados.
+- CADR 100 metros cúbicos la hora.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08ZJW328M{{</world>}}

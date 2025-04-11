@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Experimento científico: Aprende la ciencia que hay detrás de la formación de los cristales y realiza un experimento científico real
-- Coloca tu cristal en el escáner de luz para realizar una investigación exhaustiva y aprender más sobre sus características óptimas
 - Recomendado a partir de 8 años
 - Contenido: 10 accesorios y 2 kits para crear 2 cristales; completa la misión: mezcla los polvos, el cristal crece en pocos días 5-7 días, examínalo con la base Led y llévalo de vuelta a la Tierra
+- Experimento científico: Aprende la ciencia que hay detrás de la formación de los cristales y realiza un experimento científico real
+- Coloca tu cristal en el escáner de luz para realizar una investigación exhaustiva y aprender más sobre sus características óptimas
 - Experimenta la emoción de la ciencia con la Misión Cristal Con productos químicos especiales y polvo de cristal, podrás cultivar tu propio cristal de colores y explorar las fascinantes propiedades de los cristales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta individual
-- Ajuste regular
 - Ropa interior para mujer
+- Ajuste regular
+- Camiseta individual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6BKWXG8{{</world>}}

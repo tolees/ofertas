@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - REPARA Y REVITALIZA: La mascarilla Aussie ayuda a reparar y revitalizar el pelo estresado, al mismo tiempo que lo protege contra daños futuros
-- PARA UN RESCATE COMPLETO DEL PELO: completa la rutina con el champú y acondicionador Aussie SOS Repair & Revive
-- ¿PELO EXTREMADAMENTE SECO Y DAÑADO que necesita cuidados extra? ¡Estás en buenas manos! Los productos Aussie dejarán tu pelo increíblemente hidratado
 - FÓRMULA VEGANA ENRIQUECIDA CON SUPERALIMENTOS AUSTRALIANOS: Sin ingredientes o subproductos derivados de animales
+- ¿PELO EXTREMADAMENTE SECO Y DAÑADO que necesita cuidados extra? ¡Estás en buenas manos! Los productos Aussie dejarán tu pelo increíblemente hidratado
+- PARA UN RESCATE COMPLETO DEL PELO: completa la rutina con el champú y acondicionador Aussie SOS Repair & Revive
 - DI HOLA A UN PELO INCREÍBLEMENTE HIDRATADO. Tu pelo estará suave, liso e increíblemente hidratado durante 100 horas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

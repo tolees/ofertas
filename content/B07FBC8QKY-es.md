@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Fabricada en material reistente de tres capas en PVC-poliéster
 - Todas las piscinas desmontables incorporan una conexión para depuradora aunque no esté incluida, este modelo dispone de conexión de 32 mm
-- La pared interior simula gresite, la pared exterior es de color gris
 - Piscina redonda Prisma Frame INTEX, medidas: 366 x 76 cm y capacidad: 6.503 litros
 - Estructura metálica de acero y tapón de vaciado con conexión a manguera de jardín
+- La pared interior simula gresite, la pared exterior es de color gris
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FBC8QKY{{</world>}}

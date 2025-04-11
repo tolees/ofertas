@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Botas de fútbol
 - Parte superior de malla con superposiciones sintéticas
 - Suave y transpirable
-- Botas de fútbol
 - Comodidad y ligereza óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})

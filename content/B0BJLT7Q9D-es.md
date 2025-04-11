@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte de nobuk sintético
 - Horma clásica
+- Parte de nobuk sintético
 - Mediasuela de aspecto vulcanizado
 - Forro textil
 

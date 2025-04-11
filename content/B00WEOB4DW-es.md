@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Períodos de convalecencia (tras gripe, resfriados, vacunaciones en personas mayores…)
-- Períodos de cansancio y fatiga (cambios de estación, durante el invierno, tercera edad…)
-- Períodos de sobreesfuerzo (estrés, exceso de trabajo, dietas desequilibradas…)
-- Equilibra tu microbiota intestinal y ayuda a cuidar tu sistema inmunitario con Lactoflora protector inmunitario adultos
-- Se recomienda su uso durante 3 meses para obtener un máximo beneficio sobre el organismo
-- No mezclar con líquidos calientes. En caso de estar tomando antibióticos simultáneamente, separar la toma del probiótico por lo menos 2h
-- Lactoflora protector inmunitario adultos está formulado con probióticos, vitaminas (B9, B6, B12, D3 y C) y minerales (Zinc, Se) que contribuyen al buen funcionamiento de nuestro sistema inmunitario. Contiene como mínimo 10.000 millones de UFC de fermentos lácticos vivos por cápsula en el origen, concretamente las cepas Lactiplantibacillus plantarum CECT 7315 y CECT 7316
-- Apto para diabéticos. Sin gluten. Apto para intolerantes a la lactosa
-- Tomar 1 cápsula al día después de una comida principal, mínimo durante 1 mes
 - Recomendado en aquellas situaciones donde las defensas del organismo están comprometidas:
+- Tomar 1 cápsula al día después de una comida principal, mínimo durante 1 mes
+- Equilibra tu microbiota intestinal y ayuda a cuidar tu sistema inmunitario con Lactoflora protector inmunitario adultos
+- Lactoflora protector inmunitario adultos está formulado con probióticos, vitaminas (B9, B6, B12, D3 y C) y minerales (Zinc, Se) que contribuyen al buen funcionamiento de nuestro sistema inmunitario. Contiene como mínimo 10.000 millones de UFC de fermentos lácticos vivos por cápsula en el origen, concretamente las cepas Lactiplantibacillus plantarum CECT 7315 y CECT 7316
+- Períodos de convalecencia (tras gripe, resfriados, vacunaciones en personas mayores…)
+- Períodos de sobreesfuerzo (estrés, exceso de trabajo, dietas desequilibradas…)
+- No mezclar con líquidos calientes. En caso de estar tomando antibióticos simultáneamente, separar la toma del probiótico por lo menos 2h
+- Períodos de cansancio y fatiga (cambios de estación, durante el invierno, tercera edad…)
+- Apto para diabéticos. Sin gluten. Apto para intolerantes a la lactosa
+- Se recomienda su uso durante 3 meses para obtener un máximo beneficio sobre el organismo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00WEOB4DW{{</world>}}

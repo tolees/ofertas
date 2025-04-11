@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- cintura/elevación: talle bajo
-- Tipo de detalles: jeans ajustados
 - Los productos internacionales tienen términos separados, se venden desde el extranjero y pueden diferir de los productos locales, incluyendo ajuste, calificaciones de edad e idioma del producto, etiquetado o instrucciones.
+- Tipo de detalles: jeans ajustados
+- cintura/elevación: talle bajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09Y8T2Z6G{{</world>}}

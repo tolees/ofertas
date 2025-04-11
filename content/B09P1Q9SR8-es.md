@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ajuste regular
-- Logotipo de adidas
 - Amplia libertad de movimiento
 - Tela suave
+- Logotipo de adidas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09P1Q9SR8{{</world>}}

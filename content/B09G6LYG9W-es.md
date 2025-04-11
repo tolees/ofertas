@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Placeholder for BP #1
 - Placeholder for BP #4
-- Placeholder for BP #2
 - Placeholder for BP #5
 - Placeholder for BP #3
+- Placeholder for BP #1
+- Placeholder for BP #2
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09G6LYG9W{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adidas insignia del deporte bordado sobre el dobladillo
-- Cierre: cintura elástica
-- Con bolsillos frontales
-- Con cordón interior
 - Corte clásico que se ajusta al cuerpo
-- 100% Interlock
 - Costura lateral colocado hacia adelante para el movimiento cómodo durante el entrenamiento
+- Adidas insignia del deporte bordado sobre el dobladillo
+- Con cordón interior
+- Con bolsillos frontales
+- Cierre: cintura elástica
+- 100% Interlock
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076HQXMTF{{</world>}}

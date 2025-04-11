@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Luz trasera: Visibilidad en cualquier condición de luz. Hasta 1,6 km de distancia.
+- Conectividad Bluetooth y ANT+, compatible con la aplicación Varia y otras apps de terceros.
 - Compatible con ciclocomputadores Edge para una experiencia completa, así como con otros accesorios Garmin.
 - Radar trasero: Advierte de vehículos que se aproximan por detrás hasta 140 metros.
 - Autonomía de hasta 16 horas en modo parpadeo y 6 horas en modo fijo.
-- Conectividad Bluetooth y ANT+, compatible con la aplicación Varia y otras apps de terceros.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08923YLTD{{</world>}}

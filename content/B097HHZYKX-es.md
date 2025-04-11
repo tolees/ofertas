@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🐾 CLIP 360º: clip de acero inoxidable, con giro de 360º para evitar tirones y favorecer una mayor estabilidad y control.
-- 🐾 POLIVALENTE: ideal para caminar, correr o entrenar. Aporta un equilibrio perfecto entre libertad y control, da suficiente libertad a tu perro siempre con un control total de la situación. Perfecta para todos los tamaños: cachorros, perros pequeños, medianos y grandes.
-- 🐾 GARANTÍA: No se preocupe, los productos EDIPETS disponen de garantía europea, asegurando a los clientes que su compra es totalmente fiable y protegida. La garantía de fábrica sólo está disponible a través de vendedores autorizados.
 - 🐾 REFLECTANTE: presenta material reflectante para mayor seguridad durante los paseos nocturnos con tu mascota.
+- 🐾 CLIP 360º: clip de acero inoxidable, con giro de 360º para evitar tirones y favorecer una mayor estabilidad y control.
+- 🐾 GARANTÍA: No se preocupe, los productos EDIPETS disponen de garantía europea, asegurando a los clientes que su compra es totalmente fiable y protegida. La garantía de fábrica sólo está disponible a través de vendedores autorizados.
+- 🐾 POLIVALENTE: ideal para caminar, correr o entrenar. Aporta un equilibrio perfecto entre libertad y control, da suficiente libertad a tu perro siempre con un control total de la situación. Perfecta para todos los tamaños: cachorros, perros pequeños, medianos y grandes.
 - 🐾 MATERIALES DE ALTA CALIDAD: fabricado con nailon como una cuerda de escalada de roca 1/2 pulgadas de diámetro, el doble de grosor que una correa convencional, el gancho de metal es de acero inoxidable con rotación de 360º, el mango acolchado esta compuesto por goma EVA para un mejor agarre y un tacto suave.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

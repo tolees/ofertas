@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carcasa de aluminio de diseño delgado y compacto
 - Convierte un solo puerto USB-C en 4 puertos
+- Carcasa de aluminio de diseño delgado y compacto
 - Compatible con Apple Smart Folio y Smart Keyboard Folio
 - Hyperdrive 4-in-1 usb c hub for ipad pro (space gray)
 

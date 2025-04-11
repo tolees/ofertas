@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Etra Durable INGREDIENTS
+- Recycled
 - Ligera
 - Reducción de la huella de carbono
-- Recycled
-- Etra Durable INGREDIENTS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098P1QLSK{{</world>}}

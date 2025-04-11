@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Homologación ECE 2205; 7 tallas (XS-XXL); 1.305 g en la primera talla de calota
-- Número de pieza:0011a4i0 003 XL
-- Estilo: ajuste universal
 - Visera antiarañazos; sistema de microaberturas
+- Estilo: ajuste universal
+- Fibra de vidrio; EPS desarrollado en 3 tallas; 1 abertura de ventilación delantera
 - Interior extraíble y lavable; sistema de retención Double D
 - Bolsillo interior para la tapa de la abertura de ventilación delantera; tejido de gamuza; logo bordado
-- Fibra de vidrio; EPS desarrollado en 3 tallas; 1 abertura de ventilación delantera
+- Homologación ECE 2205; 7 tallas (XS-XXL); 1.305 g en la primera talla de calota
+- Número de pieza:0011a4i0 003 XL
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079MFYTQR{{</world>}}

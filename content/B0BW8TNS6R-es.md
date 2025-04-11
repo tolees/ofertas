@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Teléfono celular
 - Tecnología 5G y 128 GB de capacidad
 - En color gris
+- Teléfono celular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BW8TNS6R{{</world>}}

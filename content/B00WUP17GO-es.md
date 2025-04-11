@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen. Este producto contiene una fuente luminosa de rating F.
 - 20000 h de vida útil cri80
-- 1700 lúmenes
-- Iluminación led
-- Con el distintivo eye comfort, lo cual asegura que es una luz led de calidad, no molesta para los ojos
 - Material: sintético
+- Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen. Este producto contiene una fuente luminosa de rating F.
+- Con el distintivo eye comfort, lo cual asegura que es una luz led de calidad, no molesta para los ojos
+- Iluminación led
+- 1700 lúmenes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00WUP17GO{{</world>}}

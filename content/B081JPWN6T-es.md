@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñado para el marinero clásico con una mentalidad de crucero
-- Chaqueta de navegación costera totalmente impermeable
-- Tejido Helly Tech Performance e impermeable, resistente al viento y transpirable
 - Designed for the Classic Marine sailor with a Cruising mindset
+- Chaqueta de navegación costera totalmente impermeable
 - Sellos de doble puño ajustables, bolsillos calientamanos con forro polar
+- Diseñado para el marinero clásico con una mentalidad de crucero
+- Tejido Helly Tech Performance e impermeable, resistente al viento y transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081JPWN6T{{</world>}}

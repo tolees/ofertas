@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Esta modelo funciona con un movimiento de Cuarzo preciso
 - 2 años de garantía Invicta
+- Este modelo es parte de la colección Invicta Specialty
 - El Invicta 14879 tiene una caja de acero inoxidable de 45 millimetros con una esfera gris
 - Resistencia a la presión de aqua de 5 bares
-- Este modelo es parte de la colección Invicta Specialty
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00EJISE6Q{{</world>}}

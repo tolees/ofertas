@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🎁 REGALO IDEAL | ¿Estás buscando regalos originales, regalos para cumpleaños, regalos divertidos? GLOP es la sorpresa que todo el mundo quiere recibir! Juegos para despedida de soltero y soltera.
 - 🥳 JUEGOS DE MESA MUY DIVERTIDO | ¡Posiblemente el mejor juego para beber para pasarlo en grande con tus amigos! El juego de mesa adulto definitivo del que nunca te cansas de jugar.
+- 🎁 REGALO IDEAL | ¿Estás buscando regalos originales, regalos para cumpleaños, regalos divertidos? GLOP es la sorpresa que todo el mundo quiere recibir! Juegos para despedida de soltero y soltera.
 - 😂 DIVERSIÓN GARANTIZADA | Partidas de horas y horas sin parar de reír. El clásico juego de cartas para beber, el original, muchas veces copiado pero nunca igualado. No aceptes imitaciones.
 - ⚡ MUY FÁCIL, REGLAS SENCILLAS | Coge una carta y baila, canta, cuenta un chiste, imita, responde.... y mucho más, de lo contrario te tocará beber 🍻! Cada Carta te dice lo que tienes que hacer.
 - 🤪 PERFECTO PARA TODAS LAS OCASIONES | Risas y más risas en todas tus fiestas, reuniones, despedidas de soltero o soltera, cumpleaños con amig@s con el original juego de mesa para adultos.

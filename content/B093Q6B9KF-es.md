@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Brand: UNITED COLORS OF BENETTON.
 - ALBORNOZ DE NIÑOS 10-12 AÑOS 380GSM 100% ALGODÓN VERDE KIDS
 - Diseno funcional
-- Brand: UNITED COLORS OF BENETTON.
 - Alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

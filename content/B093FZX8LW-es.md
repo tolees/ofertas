@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tablet TCL 9296X TAB MAX WIFI OCTACORE
 - Wifi
+- Tablet TCL 9296X TAB MAX WIFI OCTACORE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093FZX8LW{{</world>}}

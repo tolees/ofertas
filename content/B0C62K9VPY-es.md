@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mensaje “Let’s do it better!” impreso en él
 - Sacapuntas con depósito
 - Optimo para la vuelta al col
 - Goma de borrar
+- Mensaje “Let’s do it better!” impreso en él
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C62K9VPY{{</world>}}

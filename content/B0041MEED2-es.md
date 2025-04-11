@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AVET CAT RENAL FAILURE 1,5 KG
 - Fácil de usar
+- AVET CAT RENAL FAILURE 1,5 KG
 - Muy conveniente
 - Producto de calidad
 

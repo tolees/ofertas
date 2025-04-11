@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cubierta translúcida verde y parte inferior de color blanco
-- Material resistente y duradero
 - Pieza de circuito individual para reemplazar o alargar los circuitos Catit Senses 2.0
 - Fácil de instalar
+- Material resistente y duradero
+- Cubierta translúcida verde y parte inferior de color blanco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B015J4IDA0{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Batidos Puleva Cacao con 90% leche
-- Disfruta todo el sabor de la receta original
 - Con una cuidada selección de los mejores cacaos
+- Disfruta todo el sabor de la receta original
+- Batidos Puleva Cacao con 90% leche
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01M7U3RY9{{</world>}}

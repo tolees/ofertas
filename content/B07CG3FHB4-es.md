@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% algodón
-- Knit Slim Fit
-- Hecho de algodón cómodo
 - Lavar a máquina, media carga, ciclo de giro corto a 40 ° C
 - Pequeña etiqueta de mirada de mezclilla en el lado
+- 100% algodón
+- Hecho de algodón cómodo
+- Knit Slim Fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07CG3FHB4{{</world>}}

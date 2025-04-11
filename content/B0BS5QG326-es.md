@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños abotonados
 - Cuello abotonado
 - Logotipo de la marca
+- Puños abotonados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS5QG326{{</world>}}

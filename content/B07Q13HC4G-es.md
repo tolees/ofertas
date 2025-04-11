@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aroma fresco y tropical
 - Fragancia de sandía e ylang ylang
+- Aroma fresco y tropical
 - Asegura hasta 24 horas de protección
 - Desodorante con 48h de protección contra la transpiración
 

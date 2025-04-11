@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polo Club Zapatilla Casual Blanca y Verde de Piel con Logo engomado Hombre
-- Tamaño: 44 EU
 - Marca: Polo Club
+- Tamaño: 44 EU
 - Tipo de producto: SHOES
+- Polo Club Zapatilla Casual Blanca y Verde de Piel con Logo engomado Hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMGR1PHF{{</world>}}

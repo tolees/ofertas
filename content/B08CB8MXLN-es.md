@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Brand: CLAUDIO REIG
-- Con banqueta
-- Alta calidad
 - Baby shark
+- Brand: CLAUDIO REIG
+- Alta calidad
+- Con banqueta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CB8MXLN{{</world>}}

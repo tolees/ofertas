@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos con solapa en la parte delantera
 - Fabricado con tela 100% reciclada
+- Bolsillos con solapa en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS5WYM3X{{</world>}}

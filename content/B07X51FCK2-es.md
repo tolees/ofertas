@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Compartimento principal con cremallera frontal y bolsillos internos
-- Altura: 30 cm, Ancho: 62 cm, Fondo: 29 cm
-- En nuestro color Black Denim
 - Elaborada 60% en nailon 60 % y 40 % en poliéster
+- Altura: 30 cm, Ancho: 62 cm, Fondo: 29 cm
 - Correa de hombros acolchada, ajustable y extraíble
+- En nuestro color Black Denim
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07X51FCK2{{</world>}}

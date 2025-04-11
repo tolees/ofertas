@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuerpo repelente a líquidos que soporta manchas leves y lluvias moderadas
-- Puerto USB para cargar el móvil mediante power bank (no incluida)
-- Forro interior con bolsillo acolchado para dispositivos electrónicos
 - Dimensiones: 45 x 30 x 18 cm
 - Mochila urbana con trasera acolchada y transpirable, adaptable a carro
+- Puerto USB para cargar el móvil mediante power bank (no incluida)
+- Cuerpo repelente a líquidos que soporta manchas leves y lluvias moderadas
+- Forro interior con bolsillo acolchado para dispositivos electrónicos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MFNPMTF{{</world>}}

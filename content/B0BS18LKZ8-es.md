@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello redondo acanalado
+- Estampado de RAW en el pecho
 - Etiqueta de G-Star RAW tejida en el lateral inferior
 - Bajo curvado
 - Manga corta recta insertada
-- Estampado de RAW en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS18LKZ8{{</world>}}

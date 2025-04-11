@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: algodón
-- Ajuste: normal
 - algodón
+- Ajuste: normal
+- Material exterior: algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B089T5BNWZ{{</world>}}

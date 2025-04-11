@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- TPR Outsole
 - PU upper
 - Transpirable
-- TPR Outsole
 - Malla textil lining
 
 [🛒 Comprar!!!]({{< param buyurl >}})

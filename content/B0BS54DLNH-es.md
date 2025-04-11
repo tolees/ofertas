@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pestañas en los puños
 - Abrigo grueso de sarga de lana
 - Cierre de 6 botones de doble botonadura
+- Pestañas en los puños
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS54DLNH{{</world>}}

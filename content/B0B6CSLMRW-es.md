@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Bajo recto
-- Manga corta
 - Cuello redondo acanalado
+- Manga corta
 - Etiqueta de G-Star RAW tejida en la costura lateral inferior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

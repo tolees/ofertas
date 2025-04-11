@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 50 unidades en una unidad de venta
 - sobres con autoadhesivo recubierto de silicona
 - Peso: 90 g/m²
-- 50 unidades en una unidad de venta
-- formato: C5
 - Color: blanco
+- formato: C5
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B093HB4RPS{{</world>}}

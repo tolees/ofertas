@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de detalle: camiseta
-- Mangas: manga corta
 - Composición: 100% algodón
+- Mangas: manga corta
 - Escote: cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

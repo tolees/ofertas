@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GUESS MOD. GF0323 5472U de la marca Guess
 - Gafas de sol modelo GUESS MOD. GF0323 5472U
+- GUESS MOD. GF0323 5472U de la marca Guess
 - Guess. Los productos de esta marca están fabricados con los materiales de la mejor calidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

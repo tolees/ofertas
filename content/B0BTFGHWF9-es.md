@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este estilo fue producido de forma sostenible
 - Este es un producto auténtico y original de Calvin Klein Jeans
+- Este estilo fue producido de forma sostenible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTFGHWF9{{</world>}}

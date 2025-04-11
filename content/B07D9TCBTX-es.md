@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Producto infantil 100% ecológico
-- Hecho con zumo de fruta
 - Sin ningún tipo de añadido, sal ni azúcar
+- Hecho con zumo de fruta
 - fácil de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

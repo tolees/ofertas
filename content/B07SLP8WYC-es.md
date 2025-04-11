@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
-- Cuello redondo
 - Material: 90 % algodón peruano orgánico y 10 % poliéster
+- Cuello redondo
 - Logo estampado en el pecho
+- Ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SLP8WYC{{</world>}}

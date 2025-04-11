@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior textil transpirable
 - Diseño sencillo
+- Parte superior textil transpirable
 - Cómoda entresuela de espuma amortiguadora
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

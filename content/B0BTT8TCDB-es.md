@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla extraíble
-- Forro de microfibra 80% piel 20%
-- Altura del tacón 5 cm
-- Construcción: Cosido 360º
 - Cierre elástico
+- Forro de microfibra 80% piel 20%
+- Construcción: Cosido 360º
+- Altura del tacón 5 cm
+- Plantilla extraíble
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTT8TCDB{{</world>}}

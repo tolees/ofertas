@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Fluye con estilo
 - Punto 70% poliéster reciclado / 30% viscosa
-- Corte holgado
 - Cuello redondo
 - AEROREADY
+- Corte holgado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQW82KT3{{</world>}}

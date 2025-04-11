@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punta
 - Zapato de mujer
+- Punta
 - Suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

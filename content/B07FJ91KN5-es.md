@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apta para lavavajillas, congelador y microondas. Los platos soportan temperaturas de hasta 300 ºC
 - Vajilla de 18 piezas, 6 servicios, incluye 6 piezas de cada: plato llano de 24,4 cm, plato de postre de 19 cm y cuenco de 17 cm
+- Apta para lavavajillas, congelador y microondas. Los platos soportan temperaturas de hasta 300 ºC
 - Porcelana de grado AB para uso diario, que es ligera a la vez que resistente
 - Diseño elegante y moderno para que combine fácilmente con tu mantelería y decoración
 

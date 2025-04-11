@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 1 hermético rectangular 37cl, 11,6x11,6x6,3CM, 1 hermético rectangular 64cl, 18x13x6CM, 1 hermético rectangular 104cl, 21x16x7CM, 1 hermetico cuadrado 52cl, 13,6x13,6x7CM, 1 hermetico cuadrado 80cl, 15,7x15,7x7,4CM
-- Apto lavavajillas
 - Tapa 4 cierres herméticos 100% con válvula
-- Reciclable , Doble pared , Ecológico , Resistente a rayaduras , Biodegradable , Mango remachado , Sin costuras , No poroso
+- 1 hermético rectangular 37cl, 11,6x11,6x6,3CM, 1 hermético rectangular 64cl, 18x13x6CM, 1 hermético rectangular 104cl, 21x16x7CM, 1 hermetico cuadrado 52cl, 13,6x13,6x7CM, 1 hermetico cuadrado 80cl, 15,7x15,7x7,4CM
 - Apto Microondas , Apto Congelador , Apto Frigorífico , Resistente Al Choque Térmico
+- Apto lavavajillas
+- Reciclable , Doble pared , Ecológico , Resistente a rayaduras , Biodegradable , Mango remachado , Sin costuras , No poroso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TTCKKFN{{</world>}}

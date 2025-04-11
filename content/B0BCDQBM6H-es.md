@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gran escala: este juego a gran escala mide 36 cm de alto cuando se transforma en forma de robot
-- JETT TO THE RUNWAY: Pon Mini Flyer Jett (incluido) en la sala de control y abre la pasarela. Mira Jett deslizarse hacia abajo para quitar. Es hora de volar
-- Componentes incluidos: transformación de aviones en robot
-- Incluye 1 robot World Aircraft y 1 mini Flyer Jett
 - Transformación 3 en 1: este icónico juego de la serie de televisión se transforma de World Aircraft en un potente robot mundial en solo 18 pasos. También hay un avión de vigilancia desmontable y separado para ayudar en las misiones más difíciles.
-- Luces y sonidos: incluye luces y sonidos de la serie de televisión.
+- Componentes incluidos: transformación de aviones en robot
+- JETT TO THE RUNWAY: Pon Mini Flyer Jett (incluido) en la sala de control y abre la pasarela. Mira Jett deslizarse hacia abajo para quitar. Es hora de volar
 - Almacenamiento: dentro de las patas del robot mundial, hay cuatro compartimentos de almacenamiento donde Mini Flyer Jett se puede almacenar entre tiempos de juego. Compatible con todos los productos de escala Mini Flyer (cuando se venden).
+- Luces y sonidos: incluye luces y sonidos de la serie de televisión.
+- Incluye 1 robot World Aircraft y 1 mini Flyer Jett
+- Gran escala: este juego a gran escala mide 36 cm de alto cuando se transforma en forma de robot
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCDQBM6H{{</world>}}

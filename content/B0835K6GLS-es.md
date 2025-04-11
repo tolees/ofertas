@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte retráctil para smartphone
-- Iluminación rgb con efectos y zonas de color
-- Switches híbridos
 - Anti-ghosting y gaming mode
 - Teclas multimedia dedicadas
+- Switches híbridos
+- Iluminación rgb con efectos y zonas de color
+- Soporte retráctil para smartphone
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0835K6GLS{{</world>}}

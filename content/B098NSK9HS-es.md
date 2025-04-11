@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud: Largo
 - Ajuste: Delgado
 - Cintura media
+- Longitud: Largo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B098NSK9HS{{</world>}}

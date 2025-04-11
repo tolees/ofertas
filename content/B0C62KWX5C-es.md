@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Optimo para la vuelta al col
-- Una margarita Wonder decorando la tapa
 - Botecito de plástico transparente
+- Optimo para la vuelta al col
 - 150 clips de papel metálicos
+- Una margarita Wonder decorando la tapa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C62KWX5C{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con cremallera
 - Dobladillo ajustable con ceñidor
 - Bolsillos para manos con cremallera
-- Con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008CDT6E8{{</world>}}

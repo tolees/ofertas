@@ -31,9 +31,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Tipo de tacón: Plano
 - Cierre: Cordones
 - Material exterior: Cuero
-- Material de la suela: Sintético
 - Composición: Empeine de malla/ante
 - Revestimiento: Tela
+- Material de la suela: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DJ2LJJ3{{</world>}}

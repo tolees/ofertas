@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Calvin Klein Logotipo en el lateral, lengüeta y talón
 - Cómoda plantilla de espuma
-- Suela TPR
 - Forro de sarga de algodón mezclado
+- Suela TPR
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BJ47KYDR{{</world>}}

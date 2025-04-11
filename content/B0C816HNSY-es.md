@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lubricante de motores de gasolina y diesel de automóvil cuando el fabricante recomienda un lubricante com especificación Renault RN17.
 - Aceites base de primera calidad y aditivos antidesgaste para ayudar a prolongar la vida útil de su motor.
 - Protección avanzada contra la descomposición de la viscosidad y térmica.
-- Lubricante de motores de gasolina y diesel de automóvil cuando el fabricante recomienda un lubricante com especificación Renault RN17.
 - Especificaciones ACEA C3 y Renault RN17.
 - Una protección superior contra los lodos del motor. (* vs los límites ACEA C3.)
 

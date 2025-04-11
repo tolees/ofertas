@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Recipiente con práctica asa
 - 8 programas preconfigurados: patatas fritas, aros de cebolla, pollo, crustáceos, carne, dulces, cupcakes, pescado
+- Pies antideslizantes
+- Alimentación: AC 220-240 V ~ 50/60 Hz
+- Pantalla digital
+- Potencia: 1500 W
+- Temporizador de 60 minutos
+- Recipiente y cestillo antiadherentes
 - Temperatura ajustable (82° - 200° C)
 - Capacidad del cestillo 3,5 litros
-- Recipiente y cestillo antiadherentes
-- Temporizador de 60 minutos
-- Recipiente con práctica asa
-- Potencia: 1500 W
-- Pies antideslizantes
-- Pantalla digital
-- Alimentación: AC 220-240 V ~ 50/60 Hz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082T3W1GT{{</world>}}

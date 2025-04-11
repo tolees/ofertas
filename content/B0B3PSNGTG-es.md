@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Infinity Ward sumergirá a los fans en una emocionante experiencia puntera de nueva generación. Lucha con amigos en esta nueva experiencia inmersiva que cuenta con un audio, una iluminación y unos gráficos tan realistas que harán de este juego el Call of Duty más avanzado de la historia.
 - Modern Warfare II tendrá un aluvión de contenido desde el primer día: lucha codo con codo con la Fuerza Operativa 141 en la campaña de un jugador que te llevará alrededor del mundo, juega solo o con amigos en el inmersivo combate multijugador.
 - Desde tácticas de infiltración a pequeña escala hasta misiones altamente secretas, los jugadores tendrán que dominar nuevas armas, vehículos y equipamiento de vanguardia para plantar cara a los enemigos. Equípate y lleva el combate a alta mar para emboscar a enemigos bajo el agua, irrumpe en una base enemiga extremadamente fortificada, infíltrate por los canales y rescata a aliados indispensables de una ubicación encubierta en las montañas.
 - Modern Warfare II cuenta con un sistema de IA avanzado que ha sido completamente rediseñado, una tecnología de renderizado y fotogrametría mejorada, un nuevo sistema de armero que permitirá personalizar más que nunca y una retahíla de innovaciones gráficas y de jugabilidad que elevarán la franquicia a otro nivel.
+- Infinity Ward sumergirá a los fans en una emocionante experiencia puntera de nueva generación. Lucha con amigos en esta nueva experiencia inmersiva que cuenta con un audio, una iluminación y unos gráficos tan realistas que harán de este juego el Call of Duty más avanzado de la historia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3PSNGTG{{</world>}}

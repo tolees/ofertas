@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Repele el agua
-- Bolsa de almuerzo mediana aislada con funda para carrito
-- 62 % poliéster, 38 % poliéster reciclado
 - 0,26 kg de peso y 8 L de volumen
 - 20 cm de alto x 25 cm de ancho x 13,5 cm de profundidad
+- Bolsa de almuerzo mediana aislada con funda para carrito
+- 62 % poliéster, 38 % poliéster reciclado
+- Repele el agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07D15X8BD{{</world>}}

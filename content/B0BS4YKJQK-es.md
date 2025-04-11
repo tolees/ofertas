@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado en el pecho
 - Cuello redondo
+- Estampado en el pecho
 - Fabricado con 100% algodón sostenible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

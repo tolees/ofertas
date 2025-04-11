@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido polar de peso medio
-- Puños y cintura de canalé elástico reforzado con elastano
-- Logotipo de Carhartt estampado en el pecho
-- Capucha de tres piezas con cordón ajustable
-- Manga larga
-- Loose Fit
 - Dos bolsillos calientamanos en la parte baja del frente
+- Tejido polar de peso medio
+- Manga larga
+- Logotipo de Carhartt estampado en el pecho
+- Puños y cintura de canalé elástico reforzado con elastano
+- Capucha de tres piezas con cordón ajustable
+- Loose Fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B008C8CXR0{{</world>}}

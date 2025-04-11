@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado mate de alta cobertura idóneo para camuflar las imperfecciones, iluminar el rostro y esculpir tus rasgos
-- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
-- Textura cremosa y ligera resistente al agua que no deja marcas y se funde con la piel, No comedogénico y apto para pieles grasas, Fórmula vegana
 - Aplica unos toques de corrector en las imperfecciones o zonas que quieras iluminar y extiéndelo con una esponja o las yemas de los dedos, Amplio rango de tonos disponibles, Combínalo con la base de maquillaje Can’t Stop Won’t Stop
 - Contiene: 1 x NYX Professional Makeup Cant Stop Wont Stop Contour Concealer
+- Textura cremosa y ligera resistente al agua que no deja marcas y se funde con la piel, No comedogénico y apto para pieles grasas, Fórmula vegana
 - Corrector vegano mate de cobertura total, waterproof y de larga duración hasta 24 h
+- Acabado mate de alta cobertura idóneo para camuflar las imperfecciones, iluminar el rostro y esculpir tus rasgos
+- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KBJ5VLL{{</world>}}

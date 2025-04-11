@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fuerza de choque está regulada por la tensión constante de resorte de modo que marca la parte de la punta tiene la misma profundidad y el tamaño de cada ajuste.
+- Mecanismo interno desencadena automáticamente apuntando hacia abajo la presión de un puñetazo.
+- 17 mm de diámetro
 - Algunos tamaños difieren sólo por su fuerza de ataque.
 - Porción de punta se puede quitar fácilmente para la molienda o el reemplazo.
-- 17 mm de diámetro
-- Mecanismo interno desencadena automáticamente apuntando hacia abajo la presión de un puñetazo.
+- Fuerza de choque está regulada por la tensión constante de resorte de modo que marca la parte de la punta tiene la misma profundidad y el tamaño de cada ajuste.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000VDVR6W{{</world>}}

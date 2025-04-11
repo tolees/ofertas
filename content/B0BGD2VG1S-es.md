@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Paneles de cuero y gamuza
+- Logotipo impreso en el panel del talón y ventana
 - Pestaña con logotipo impreso en la lengüeta
 - Cuello y lengüeta acolchados en el tobillo
 - Plantilla moldeada
-- Logotipo impreso en el panel del talón y ventana
-- Paneles de cuero y gamuza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGD2VG1S{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fondo 100% inducción. Válidas para cocinas de gas, eléctrica, vitrocerámicas, especial inducción.
 - Fabricado en España. Material de acero esmaltado vitrificado a 820 grados.
+- Fondo 100% inducción. Válidas para cocinas de gas, eléctrica, vitrocerámicas, especial inducción.
 - Doble capa de recubrimiento antiadherente reforzado libre de PFOA.
 - Doble capa de esmalte exterior color naranja. Mangos ergonómicos de baquelita termoaislante.
 - Hasta 50% de ahorro energético gracias a las propiedades naturales del acero esmaltado.

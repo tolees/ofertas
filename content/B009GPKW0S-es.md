@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Uso diario: Después de lavar el cabello con la rutina Curvaceous, aplicar una cantidad moderada y dejar secar al aire libre o maximizar el resultado con un difusor. Apretar los rizos para mayor definición y no aclarar.
 - Domina los rizos más rebeldes con la loción perfeccionadora de Curvaceous: aporta fijación suave con un acabado ligeramente brillante y dejando unos rizos definidos y naturales.
 - Con cristal de azúcar para reactivar la forma natural curl, con aceite de Moringa para un shot instantáneo de hidratación y movimiento; y con Filtros UV como barrera protectora de agresiones externas y protección del color.
+- Uso diario: Después de lavar el cabello con la rutina Curvaceous, aplicar una cantidad moderada y dejar secar al aire libre o maximizar el resultado con un difusor. Apretar los rizos para mayor definición y no aclarar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B009GPKW0S{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Merchandising
-- Licencia Oficial
 - The Vintage Collection
+- Licencia Oficial
 - Artículo coleccionable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

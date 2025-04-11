@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma Skinny
 - Model number: L34DTWII
+- Forma Skinny
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08T9XM85V{{</world>}}

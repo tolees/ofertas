@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gráficos óptimos
 - Producto de calidad óptima
+- Gráficos óptimos
 - Juego de entretenimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})

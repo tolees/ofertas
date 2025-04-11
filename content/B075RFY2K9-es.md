@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Bóxer de hombre para cualquier condición meteorológica
 - Tejidos GORE Selected Fabrics: Altamente transpirables con rápida evacuación del sudor
-- GORE M Base Layer Bóxer, Talla: L, Color: Blanco, 100052
 - Talle recto
+- GORE M Base Layer Bóxer, Talla: L, Color: Blanco, 100052
 - Cintura elástica, Material elástico fino y suave, Corte alto en el dorso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

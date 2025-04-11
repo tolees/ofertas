@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- SAN IGNACIO: Durante más de 70 años, hemos unido innovación y tradición para que puedas disfrutar de la cocina tanto como la comida. Disfruta de una vida saludable, feliz y divertida.
 - MATERIALES DE ALTÍSIMA CALIDAD: Elaborado en aluminio forjado resistente y duradero sera tu aliado.
 - PRODCUCTO DE CALIDAD Wok de 28 cm Fabricado en Aluminio Forjado y Apto para Inducción de la Colección COMPACT
-- SAN IGNACIO: Durante más de 70 años, hemos unido innovación y tradición para que puedas disfrutar de la cocina tanto como la comida. Disfruta de una vida saludable, feliz y divertida.
 - DISEÑO DE VANGUARDIA PARA TODA LA VIDA: Este novedoso diseño ha permitido incoporar un disco de inducción mucho más Buenade, aumentando la base de coccion y favoreciendo un menor gasto de energía notablemenete alto.
 - PRÁCTICO Y DURADERO: Su tamaño dota a la pieza de Buena versatilidad, ya que se puede utilizar tanto para cocinar pequeños platos como para servir de una manera especial.
 

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello de canalé con escote redondo
-- Estampado Wishbone
 - Mezcla técnica de poliéster y algodón para una óptima absorción de la humedad
+- Estampado Wishbone
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NYKNZ41{{</world>}}

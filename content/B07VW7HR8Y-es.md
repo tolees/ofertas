@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema Thermoblock que permite un calentamiento muy rápido
+- 15 bares de presión automática regulable
 - Recoge gotas ajustables con tapa de acero inoxidable para cualquier tipo de taza o vaso
 - Sistema de seguridad: sin el porta-cápsulas no cae agua
-- 15 bares de presión automática regulable
+- Sistema Thermoblock que permite un calentamiento muy rápido
 - Amplio depósito de agua extraíble (0.8 litros)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

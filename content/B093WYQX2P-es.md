@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MODO NOCHE Y MUCHO MÁS: El modo Noche reduce la velocidad del ventilador y atenúa las luces LED para un sueño ininterrumpido. La función de bienvenida a casa ahorra tiempo y energía a la vez que garantiza un aire limpio al entrar en tu hogar.
-- CAPTURA EL 99% DEL POLVO: La doble entrada del filtrador de aire y el flujo de aire en vórtice mantienen en movimiento las partículas de polvo suspendidas y una carga electrostática las agrupa. Después, se adhieren a los prefiltros de acero cargados.
-- AIRE LIMPIO EN MINUTOS: La doble filtración HEPASilent de BLUEAIR limpia y absorbe olores hasta un 45% más rápido y con un 67% menos de ruido que un filtro HEPA tradicional por sí solo. Limpia 79 m2 en unos 30 min o hasta 158 m2 en 60 min.
 - EL MÁS SILENCIOSO: El filtro purificador está reconocido por Quiet Mark como más silencioso que un susurro (30 dB). Clasificación ENERGY STAR: consume menos (7 W) que una bombilla LED en modo bajo. Al filtrar aire cuidarás el planeta y tu bolsillo.
+- CAPTURA EL 99% DEL POLVO: La doble entrada del filtrador de aire y el flujo de aire en vórtice mantienen en movimiento las partículas de polvo suspendidas y una carga electrostática las agrupa. Después, se adhieren a los prefiltros de acero cargados.
+- MODO NOCHE Y MUCHO MÁS: El modo Noche reduce la velocidad del ventilador y atenúa las luces LED para un sueño ininterrumpido. La función de bienvenida a casa ahorra tiempo y energía a la vez que garantiza un aire limpio al entrar en tu hogar.
+- AIRE LIMPIO EN MINUTOS: La doble filtración HEPASilent de BLUEAIR limpia y absorbe olores hasta un 45% más rápido y con un 67% menos de ruido que un filtro HEPA tradicional por sí solo. Limpia 79 m2 en unos 30 min o hasta 158 m2 en 60 min.
 - SEGUIMIENTO EN TIEMPO REAL: El neutralizador de olores se ajusta automáticamente para mantener unas condiciones de aire óptimas. El LED de 5 colores y el seguimiento a través de la app te informan de la calidad del aire.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

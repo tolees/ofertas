@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Estampado de ilustración multicolor efecto pintada a mano por Javier Mariscal
-- Cuello redondo
 - Fit: Regular
 - Manga corta
+- Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B84CWCKB{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de Calvin Klein en la manga
-- Este estilo ha sido producido de forma sostenible
 - Este es un producto auténtico y original de Calvin Klein Jeans
 - Cuello redondo acanalado
+- Logotipo de Calvin Klein en la manga
+- Este estilo ha sido producido de forma sostenible
 - Puños de punto acanalado
-- Tejido estampado
 - Manga larga con logotipo de la marca
+- Tejido estampado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8Q7NF1B{{</world>}}

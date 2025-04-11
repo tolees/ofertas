@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo de PUMA Cat en el lateral de la puntera y el talón.
 - Franja característica de PUMA en los lados medial y lateral
 - Logotipo BMW Propeller en el lateral del talón
+- Logotipo de PUMA Cat en el lateral de la puntera y el talón.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BLCSW7LF{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- POTENTE: olvídate de los humos y olores porque el extractor profesional de Cata puede extraer hasta 450 m³/h. El ruido de funcionamiento de este extractor de cocina es muy bajo: menos de 65 dB y el consumo máximo de energía del aparato es de 125W.
 - CLASE DE EFICIENCIA ENERGÉTICA: D
 - EQUIPAMIENTO: El extractor para cocinas de Cata está equipado de un filtro metálico apto para lavavajillas y una bandeja recoge grasas, muy fácil de limpiar. Además, cuenta con un sistema de fácil instalación para ayudar al montaje del aparato.
+- POTENTE: olvídate de los humos y olores porque el extractor profesional de Cata puede extraer hasta 450 m³/h. El ruido de funcionamiento de este extractor de cocina es muy bajo: menos de 65 dB y el consumo máximo de energía del aparato es de 125W.
 - DISEÑO: el extractor Professional de Cata es práctico y discreto, con sus pequeñas dimensiones podrás instalarlo en cualquier superficie, tiene una anchura de 26 cm.
 - ELEGANTE Y PRÁCTICO: El extractor de humos Professional de Cata se encarga de mantener a raya el humo y vapores al cocinar y cuenta con una estructura elegante de acero inoxidable.
 

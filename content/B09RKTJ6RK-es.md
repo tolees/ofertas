@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Coleccionable de Star Wars: Celebra el Lado Oscuro con una elegante lámpara de holograma que representa al sith más oscuro de todos, Darth Vader. Esta lámpara coleccionable de Star Wars presenta a Vader en cristal tallado iluminado, lo que le da un aspecto futurista, de ciencia ficción, de holograma.
-- Lámpara Darth Vader: El amenazante Lord Sith se muestra en cristal grabado con láser y se ilumina desde abajo con un ominoso LED rojo. La lámpara mide 13 cm (5") de altura aproximadamente, ideal para una estantería, un escritorio o una mesa de juego. Funciona con 2 pilas AAA (no incluidas)
 - Regalos divertidos para personas divertidas: para aquellos que buscan cosas geniales y todo lo geek, loco y único, estamos orgullosos de crear los juguetes, tazas, luces, decoración y regalos más vendidos que hacen sonreír a la gente.
-- Merchandising de La Guerra de las Galaxias: Esta épica historia intergaláctica ha cautivado a generaciones de fans de todo el mundo durante décadas con historias y personajes inolvidables. Mantén viva la saga añadiendo esto a tu colección
 - Mercancía con licencia oficial: descubra una nueva pieza de merchandising para su colección con nuestra variedad de coleccionables para hombres, mujeres, fanáticos, niños, niños y niñas que aman la diversión de la cultura pop.
+- Coleccionable de Star Wars: Celebra el Lado Oscuro con una elegante lámpara de holograma que representa al sith más oscuro de todos, Darth Vader. Esta lámpara coleccionable de Star Wars presenta a Vader en cristal tallado iluminado, lo que le da un aspecto futurista, de ciencia ficción, de holograma.
+- Merchandising de La Guerra de las Galaxias: Esta épica historia intergaláctica ha cautivado a generaciones de fans de todo el mundo durante décadas con historias y personajes inolvidables. Mantén viva la saga añadiendo esto a tu colección
+- Lámpara Darth Vader: El amenazante Lord Sith se muestra en cristal grabado con láser y se ilumina desde abajo con un ominoso LED rojo. La lámpara mide 13 cm (5") de altura aproximadamente, ideal para una estantería, un escritorio o una mesa de juego. Funciona con 2 pilas AAA (no incluidas)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RKTJ6RK{{</world>}}

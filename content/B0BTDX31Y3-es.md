@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Jersey de algodón
 - Marca Calvin Klein en el pecho
+- Jersey de algodón
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

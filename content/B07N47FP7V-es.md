@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lining: cotton
-- Closure: cremallera
 - Material composition: Compuesto
-- Instrucciones de cuidado: Se limpia con un paño
+- Lining: cotton
 - Outer material: polyester
+- Instrucciones de cuidado: Se limpia con un paño
+- Closure: cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07N47FP7V{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Horma clásica
+- Amortiguación Lightmotion
 - Forro textil
 - Parte de malla de dos materiales
-- Amortiguación Lightmotion
-- Horma clásica
 - Cierre de cordones
 - Refuerzo de TPU moldeado en el talón
 

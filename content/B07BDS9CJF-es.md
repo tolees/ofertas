@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ¡una buena distracción!
+- ¡A partir de 8 años!
 - ¿ Parece fá cil? Cuando robes una carta distraction, debes responder a una pregunta inesperada antes de decir la secuencia de nùmeros en orden
 - Los jugadores por turnos tienen que intentar recordar una secuencia creciente de nùmeros.
-- ¡A partir de 8 años!
-- ¡una buena distracción!
 - En desternillante juego de memoria y de preguntas inoportunas!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

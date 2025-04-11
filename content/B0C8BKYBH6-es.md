@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello polo
-- Solapa de dos botones
 - Logotipo de la marca
+- Solapa de dos botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8BKYBH6{{</world>}}

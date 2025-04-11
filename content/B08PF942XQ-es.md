@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto es original Levis
 - Con Levis Sculpt Hyperstretch: el tejido definitivo para sujetar y realzar la figura que no se estira, así que no te preocupes de acabar con un ajuste holgado al final del día
+- Este producto es original Levis
 - Elegante pierna superceñida
 - Con Levis Sculpt Hyperstretch: el tejido definitivo para sujetar y realzar la figura que no se estira, así que no te preocupes de acabar con un ajuste holgado al final del día
 - Silueta que abraza la figura

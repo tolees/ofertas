@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para: clima cálido
 - Diseño elástico y ligero para facilitar el movimiento y una mejor comodidad
+- Adecuado para: clima cálido
 - Camisa hecha por Tommy Hilfiger
 
 [🛒 Aquí!!!]({{< param buyurl >}})

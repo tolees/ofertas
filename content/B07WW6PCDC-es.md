@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GAFAS DE SOL LACOSTE L916S HAVANA PARA UNISEX ADULTO TALLA 50/21/145
-- Distribuidor Autorizado
-- Color: marrón
 - Paquete Completo Al Por Menor Con Todos Los Accesorios.
+- Color: marrón
+- Distribuidor Autorizado
+- GAFAS DE SOL LACOSTE L916S HAVANA PARA UNISEX ADULTO TALLA 50/21/145
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07WW6PCDC{{</world>}}

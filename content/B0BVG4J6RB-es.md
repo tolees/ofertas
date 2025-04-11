@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Chipset Amlogic S905X4
-- Soporte Bluetooth, H,265 HEVC
-- Advertencia: Para un correcto uso, por favor usar los accesorios originales del embalaje
 - WiFi integrada 2,4g+5g
+- Advertencia: Para un correcto uso, por favor usar los accesorios originales del embalaje
+- Soporte Bluetooth, H,265 HEVC
 - TV Box 8K Android 11.0 4GB+32GB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

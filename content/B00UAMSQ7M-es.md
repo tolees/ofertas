@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de calidad
 - Nuevo producto
 - Contacto avisador de desgaste: excl. Contacto de avisador de desgaste
+- Producto de calidad
 - Altura 1 [mm]: 61.2
 
 [🛒 Visítala!!!]({{< param buyurl >}})

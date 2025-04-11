@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incluye depuradora de cartucho A con capacidad de filtración de 5.678 l/h (conexión de 38 mm), escalera de seguridad, tapiz y cobertor
-- Se recomienda el uso de la piscina a partir de los 6 años de edad
-- Lona resistente de triple capa, la pared interior es de color azul y simula el gresite, la pared exterior es de color gris claro
 - Piscina elevada de formato ovalado INTEX gama Prism Frame, medidas piscina: 503x274x122 cm, capacidad 13.365 litros de agua
 - Estructura metálica: piezas tubulares de acero resistente con acabado epoxi y tapón de vaciado con conexión a manguera de jardín
+- Lona resistente de triple capa, la pared interior es de color azul y simula el gresite, la pared exterior es de color gris claro
+- Se recomienda el uso de la piscina a partir de los 6 años de edad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FBH7Z57{{</world>}}

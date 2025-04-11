@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sandalias deportivas aptas para el agua
-- Cómodas y ligeras
-- Cierre ajustable para asegurar una mejor sujección
 - Estilo californiana
+- Cierre ajustable para asegurar una mejor sujección
+- Cómodas y ligeras
 - Cómodas y ligeras
 
 [🛒 Comprar!!!]({{< param buyurl >}})

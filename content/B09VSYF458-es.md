@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Los productos deportivos de la marca CARRERA DUCATI están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 - Gafas de sol CARDUC 003/S
 - GAFAS SOL CARDUC 003/S PARA HOMBRE NO POLARIZADO TALLA 57/17/135
-- fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 - de la marca CARRERA DUCATI
+- fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09VSYF458{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El uso con el cepillo Vaporflexi califica el producto como un Dispositivo de Desinfección a Vapor DDV de acuerdo con el estándar AFNOR NF T72-110, marzo de 2019 en los campos civil y médico
-- Limpiador a vapor con caldera de alta presión hasta 5 bar y autonomía ilimitada para una limpieza profunda, diaria y extraordinaria
-- Función turbo vapor y 14 accesorios en dotación para limpiar diferentes superficies; el cepillo Vaporflexi es práctico y fácil de manejar para todo tipo de suelos, incluidas alfombras y moquetas
-- El vapor de Polti Vaporetto mata y elimina el 99,99% de virus, gérmenes y bacterias
 - Ha demostrado efecto desinfectante, bactericida, esporicida, fungicida, levuricida y virucida
+- Limpiador a vapor con caldera de alta presión hasta 5 bar y autonomía ilimitada para una limpieza profunda, diaria y extraordinaria
+- El vapor de Polti Vaporetto mata y elimina el 99,99% de virus, gérmenes y bacterias
+- El uso con el cepillo Vaporflexi califica el producto como un Dispositivo de Desinfección a Vapor DDV de acuerdo con el estándar AFNOR NF T72-110, marzo de 2019 en los campos civil y médico
+- Función turbo vapor y 14 accesorios en dotación para limpiar diferentes superficies; el cepillo Vaporflexi es práctico y fácil de manejar para todo tipo de suelos, incluidas alfombras y moquetas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XPWG5ZK{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Canvas normal
 - Normal Twill Lining
 - Normal Twill Insole
+- Canvas normal
 - Rubber Outsole
 
 [🛒 Comprar!!!]({{< param buyurl >}})

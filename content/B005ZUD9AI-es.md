@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Material de calidad
 - Fácil de usar
-- Hecho de plástico resistente
 - Capacidad: 5 L
+- Hecho de plástico resistente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B005ZUD9AI{{</world>}}

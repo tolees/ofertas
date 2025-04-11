@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Publicidad excepcional: desarrollo, técnica de lectura y concentración.
 - 6-9 años
-- Leer palabras, escribir y escribir
+- Publicidad excepcional: desarrollo, técnica de lectura y concentración.
 - De 1 a 4 jugadores.
+- Leer palabras, escribir y escribir
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B077Y84ZJK{{</world>}}

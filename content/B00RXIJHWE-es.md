@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material saludable e higiénico para la cocina de todos los días
 - Apta para horno, frigorífico, congelador, microondas y lavavajillas. Soporta hasta 300 grados Celsius
+- Material saludable e higiénico para la cocina de todos los días
 - Dimensiones: 35x23x6.5 cm
 - Fuente rectangular de vidrio templado blanco transparente, modelo OPTIMUM
 

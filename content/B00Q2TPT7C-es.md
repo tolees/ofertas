@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diseño moderno
-- Talla: 42
 - Facil de usar
+- Talla: 42
 - Color: verde
 
 [🛒 Visítala!!!]({{< param buyurl >}})

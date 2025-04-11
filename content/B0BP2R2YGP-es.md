@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Calcetines elásticos
-- Fabricados en material cómodo
 - Diseño flexible
+- Fabricados en material cómodo
 - Paquete de dos pares
 
 [🛒 Visítala!!!]({{< param buyurl >}})

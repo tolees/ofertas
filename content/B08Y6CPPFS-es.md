@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skechers Detalle del logotipo
 - Skechers Plantilla acolchada de espuma viscoelástica
-- Diseño de sendero con cordones
 - Parte superior de cuero y malla sintética
+- Skechers Detalle del logotipo
+- Diseño de sendero con cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Y6CPPFS{{</world>}}

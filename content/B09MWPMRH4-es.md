@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Denim
-- Botón fly
 - Estilo de 5 bolsillos
+- Botón fly
 - Este producto es original Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- PUMA Logotipo de gato en el muslo izquierdo
+- Cremalleras en las piernas
 - Contraste de malla
 - PUMA Formstrip en leg
 - Bolsillo con cremallera
-- Cremalleras en las piernas
-- PUMA Logotipo de gato en el muslo izquierdo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B4KJ1RKW{{</world>}}

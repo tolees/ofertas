@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Suela de goma
 - Parte sintética
 - Forro textil
-- Suela de goma
 - Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

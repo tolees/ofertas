@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
-- Mediasuela Bounce
 - Forro textil
-- Parte textil
-- Drop: 9 mm (talón: 25 mm / antepié: 16 mm)
+- Cierre de cordones
 - Horma clásica
+- Parte textil
+- Mediasuela Bounce
+- Drop: 9 mm (talón: 25 mm / antepié: 16 mm)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN6H4DG6{{</world>}}

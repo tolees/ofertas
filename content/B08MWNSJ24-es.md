@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Marca: New Balance
-- Talla: 15 Reino Unido
-- zapatillas new balance
 - Color: Rojo Equipo
+- zapatillas new balance
+- Talla: 15 Reino Unido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08MWNSJ24{{</world>}}

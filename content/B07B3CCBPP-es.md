@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tiempo y espacio para crear: la experiencia definitiva de wacom cintiq pro; dibuja en una gran pantalla de 23,6" para tener una visión de conjunto, sin alternar entre pantallas o ampliar y reducir
-- Requisitos del sistema: windows 7 o mac os x 10.10 o superior / puerto usb-c (dp alt) para un rendimiento ideal y la mejor resolución posible, o displayport y usb-a, o puerto hdmi y usb-a / internet
-- Hasta el último detalle: pantalla de 3840 x 2160 con resolución 4k y ángulo de visión de 176°, 1070 millones de colores y gama de color del 99 % de adobe rgb, para dar realismo a tus obras
 - Contenido de la caja: monitor interactivo wacom cintiq pro de 23,6" para diestros/zurdos / lápiz wacom pro pen 2 con accesorios / portalápices / mando expresskey / cables necesarios (usb, hdmi 2.0.)
 - Precisión total: captura cada trazo con wacom pro pen 2; la pantalla de wacom cintiq pro tiene 8192 niveles de presión; gracias al paralaje reducido, el cursor refleja la posición exacta del lápiz
+- Hasta el último detalle: pantalla de 3840 x 2160 con resolución 4k y ángulo de visión de 176°, 1070 millones de colores y gama de color del 99 % de adobe rgb, para dar realismo a tus obras
+- Requisitos del sistema: windows 7 o mac os x 10.10 o superior / puerto usb-c (dp alt) para un rendimiento ideal y la mejor resolución posible, o displayport y usb-a, o puerto hdmi y usb-a / internet
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07B3CCBPP{{</world>}}

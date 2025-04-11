@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tipo de batería: AA
 - Tecnología de conectividad: inalámbrico
 - Tipo: afeitadora eléctrica
 - Con tapa protectora
-- Tipo de batería: AA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B004JQOJ08{{</world>}}

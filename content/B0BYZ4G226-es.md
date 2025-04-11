@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - producto 2: Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
-- producto 1: Legumbres de cultivo local, cuidadosamente seleccionadas y acompañadas de su sofrito
-- producto 2: Receta bajo en grasa
 - producto 1: Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
-- producto 2: Legumbres de cultivo local, cuidadosamente seleccionadas y acompañadas de su sofrito
-- producto 2: Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
 - producto 1: Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
+- producto 2: Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
+- producto 2: Legumbres de cultivo local, cuidadosamente seleccionadas y acompañadas de su sofrito
 - producto 1: Receta bajo en grasa
+- producto 2: Receta bajo en grasa
+- producto 1: Legumbres de cultivo local, cuidadosamente seleccionadas y acompañadas de su sofrito
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYZ4G226{{</world>}}

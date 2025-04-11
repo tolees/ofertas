@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Plantilla de espuma Ortholite Comfort
 - Transpirabilidad
 - Peso ligero
-- Plantilla de espuma Ortholite Comfort
 - Entresuela acolchada ULTRA GO
 
 [🛒 Aquí!!!]({{< param buyurl >}})

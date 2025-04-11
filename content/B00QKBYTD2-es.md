@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Construido en tejido de una sola capa. Patrón holgado.
 - Aberturas de ventilación.
-- Ajuste mediante ribete elástico en puños y cintura.
+- Construido en tejido de una sola capa. Patrón holgado.
 - Tejido paraviento ligero.
+- Ajuste mediante ribete elástico en puños y cintura.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00QKBYTD2{{</world>}}

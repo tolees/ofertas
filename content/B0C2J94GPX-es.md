@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Powerflex Denim
 - Corte entallado
 - Fabricado con tecnología Wiser Wash
+- Powerflex Denim
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2J94GPX{{</world>}}

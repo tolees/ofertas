@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colores cálidos y naturales
-- Cubo de cueva con alfombra en las plataformas
-- Amplias plataformas con cojines
 - Con pilares que ofrecen superficies de escalada
+- Cubo de cueva con alfombra en las plataformas
+- Colores cálidos y naturales
+- Amplias plataformas con cojines
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00SOTG05S{{</world>}}

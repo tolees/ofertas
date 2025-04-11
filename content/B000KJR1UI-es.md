@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Marca : pentel
-- Tipo : de capuchón
-- Tinta : aceite
 - Trazo : 0,27 mm
 - Color : rojo
+- Tipo : de capuchón
+- Tinta : aceite
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000KJR1UI{{</world>}}

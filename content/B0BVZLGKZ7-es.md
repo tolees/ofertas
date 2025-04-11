@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gráfica NVIDIA GeForce RTX 4060 8GB VRAM
-- Memoria RAM DDR5-5200 MHz 16 GB (2 x 8 GB)
 - Procesador Intel Core i7-13620H (hasta 4,9 GHz con tecnología Intel Turbo Boost, 24 MB de caché L3, 10 núcleos, 16 subprocesos)
 - Sin sistema operativo
+- Memoria RAM DDR5-5200 MHz 16 GB (2 x 8 GB)
 - Almacenamiento de datos SSD SSD M.2 1 TB PCIe Gen4 NVMe TLC
+- Gráfica NVIDIA GeForce RTX 4060 8GB VRAM
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVZLGKZ7{{</world>}}

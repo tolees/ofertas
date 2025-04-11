@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Marca: Stanley
+- Puede rasgar el plástico duro
 - Disponibles en 300mm (18, 24 y 32 tpi)
 - Hojas de metal ultraflexibles y resistentes
-- Puede rasgar el plástico duro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AK8ES1E{{</world>}}

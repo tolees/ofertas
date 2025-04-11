@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pespuntes con efecto tachado en la entrada de los bolsillos delanteros
-- Talle medio
-- Trabillas en la cinturilla combinadas con trabillas en horizontal
 - Bragueta de cremallera
 - Bolsillo con forma insertado, bolsillos cuadrados traseros con botón
+- Trabillas en la cinturilla combinadas con trabillas en horizontal
+- Talle medio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHTMVMWV{{</world>}}

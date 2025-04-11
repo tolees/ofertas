@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vaporizador de 75ml
 - Para aquellos que se atreven con todo y reinventan el concepto de sofisticación con su visión muy personal del estilo
-- Las notas de salida son pomelo, cardamomo, violeta e incienso; las de corazón iris, papyrus, geranio y lavanda; las de fondo almizcle, vainilla, sándalo y madera de “cashmere”
-- Colonia El Ganso con fragancia aromática amaderada para hombres
 - Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
+- Las notas de salida son pomelo, cardamomo, violeta e incienso; las de corazón iris, papyrus, geranio y lavanda; las de fondo almizcle, vainilla, sándalo y madera de “cashmere”
+- Vaporizador de 75ml
+- Colonia El Ganso con fragancia aromática amaderada para hombres
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YBFDDQJ{{</world>}}

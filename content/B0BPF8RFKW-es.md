@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Parte de malla
-- Mediasuela Bounce
 - Cierre de cordones
 - Horma clásica
+- Mediasuela Bounce
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BPF8RFKW{{</world>}}

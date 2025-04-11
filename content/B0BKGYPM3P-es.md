@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Etiqueta distintiva en el bolsillo trasero
 - Chino clásico de corte regular
+- Etiqueta distintiva en el bolsillo trasero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BKGYPM3P{{</world>}}

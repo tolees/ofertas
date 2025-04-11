@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: de encajar
-- Lavar a máquina
-- Pantalones cortos híbridos
-- Bolsillos con cremallera
-- Punto doble robusto
 - 80% Poliéster, 15% viscosa, 5% elastano
+- Punto doble robusto
+- Bolsillos con cremallera
 - Longitud media
+- Pantalones cortos híbridos
+- Cierre: de encajar
 - Cordón en la cintura
+- Lavar a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083XYWSRB{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior de cuero
 - Cordones de zapatos
 - Zapatilla clásica de cuero
+- Parte superior de cuero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08D9JM82D{{</world>}}

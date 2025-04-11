@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Programación del tiempo de cocción: apaga la zona de cocción seleccionada una vez transcurrido el tiempo establecido.
-- Control directselect: selecciona con un solo toque la zona de cocción, su potencia y otras funciones
-- Función sprint: reduce el tiempo de calentamiento de grandes cantidades de agua y otros líquidos hasta en un 50%
-- Dimensiones del producto: 51 mm (alto) x 592 mm (ancho) x 530 mm (profundo)
 - Control de temperatura del aceite: selecciona el nivel deseado y la sartén se calentará a la temperatura perfecta para introducir el alimento; la placa te avisará en el momento justo
+- Control directselect: selecciona con un solo toque la zona de cocción, su potencia y otras funciones
+- Programación del tiempo de cocción: apaga la zona de cocción seleccionada una vez transcurrido el tiempo establecido.
 - Terminación biselada: diseño limpio con cristal biselado en la parte delantera y los laterales
+- Dimensiones del producto: 51 mm (alto) x 592 mm (ancho) x 530 mm (profundo)
+- Función sprint: reduce el tiempo de calentamiento de grandes cantidades de agua y otros líquidos hasta en un 50%
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01E1GUKLW{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido vaquero elástico
-- Tiro alto
 - Tiro alto y ceñido en la pantorrilla
+- Tiro alto
 - 5 bolsillos
+- Tejido vaquero elástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09KH4W23C{{</world>}}

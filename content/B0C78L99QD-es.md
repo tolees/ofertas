@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sube la intensidad
-- Parte superior de punto transpirable
-- Diseño concebido para una mayor estabilidad
-- Sistema de lazada ajustable
 - Horma clásica
+- Diseño concebido para una mayor estabilidad
+- Parte superior de punto transpirable
+- Sube la intensidad
+- Sistema de lazada ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C78L99QD{{</world>}}

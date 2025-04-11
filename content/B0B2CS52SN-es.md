@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Superposiciones de cuero sintético
 - Los fondos en la red están diseñados con materiales reciclados
+- Superposiciones de cuero sintético
 - Inspiración retro corredor
 
 [🛒 Visítala!!!]({{< param buyurl >}})

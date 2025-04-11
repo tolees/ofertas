@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Recycled FABRICS
-- Slim Fit MVP
 - Tejido vaquero elástico
+- Slim Fit MVP
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CXWPJ3F{{</world>}}

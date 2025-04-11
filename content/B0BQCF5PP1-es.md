@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
-- Marca: Quiksilver
-- Ajuste regular
 - Tela suave
+- Marca: Quiksilver
+- Manga corta
+- Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQCF5PP1{{</world>}}

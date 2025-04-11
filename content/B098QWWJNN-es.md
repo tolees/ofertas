@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Punto de canalé suave
 - Este producto es original Levis
+- Punto de canalé suave
 - Logotipo de Levis bordado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto Brembo
 - Kit de accesorios pinza de freno de marca Brembo
 - Para artículo nr.: a 02 202
+- Producto Brembo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0117DHXQM{{</world>}}

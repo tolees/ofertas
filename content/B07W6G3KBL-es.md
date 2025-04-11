@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- LIGHTSPEED inalámbrico: con un rendimiento inalámbrico USB de nivel profesional, LIGHTSPEED proporciona una conexión sólida y rápida con una velocidad de transmisión de 1 ms y sin cables
 - Hecho por y para jugadores profesionales: diseñado con los principales profesionales de deportes electrónicos. Diseñado para ganar; la búsqueda del mayor nivel de rendimiento es nuestro objetivo
 - Deslizamiento suave: los grandes pies de PTFE sin aditivos de este ratón para videojuegos Logitech G ofrecen un deslizamiento suave para una conexión pura y fluida durante el juego
-- LIGHTSPEED inalámbrico: con un rendimiento inalámbrico USB de nivel profesional, LIGHTSPEED proporciona una conexión sólida y rápida con una velocidad de transmisión de 1 ms y sin cables
-- Sensor HERO 25K: este ratón para gaming Pro cuenta con el sensor HERO para mayor precisión, rendimiento y eficiencia durante el juego. Supera los 400 IPS y ofrece un seguimiento de 25600 DPI
 - Ingeniería ultraligera: con menos de 63 gramos, con un rediseño minismalista que logra una reducción de peso de casi un 25% en comparación con el ratón inalámbrico PRO estándar
+- Sensor HERO 25K: este ratón para gaming Pro cuenta con el sensor HERO para mayor precisión, rendimiento y eficiencia durante el juego. Supera los 400 IPS y ofrece un seguimiento de 25600 DPI
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07W6G3KBL{{</world>}}

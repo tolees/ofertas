@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera cerrada de algodón con capucha, bolsillo delantero, puños y fondo de costilla, estampado de agua monocolor, punto corazón, ajuste regular
 - Exterior: 100 % algodón, insertos 96 % algodón, 4 % elastano
+- Sudadera cerrada de algodón con capucha, bolsillo delantero, puños y fondo de costilla, estampado de agua monocolor, punto corazón, ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BMVT2ZQZ{{</world>}}

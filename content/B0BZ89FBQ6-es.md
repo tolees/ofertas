@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
 - Amortiguación LIGHTMOTION
-- Forro textil
 - Horma clásica
+- Forro textil
+- Cierre de cordones
 - Parte de malla acolchada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

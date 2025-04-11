@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PROGRAMA AUTODOSE: Usa sensores inteligentes para calcular la dosis precisa de detergente y suavizante en cada lavado ayudándote a ahorrar un 60% de detergente
-- PROGRAMA HIGIENE: Funciona a más de 60°C, higienizando durante el proceso de secado y eliminando el 99,9 % de agentes externos, perfecto para edredones, almohadas y prendas delicadas
 - FUNCIÓN PROSENSE: Ajusta el tiempo, el agua y energía en un 40% dependiendo de la carga, protegiendo la ropa y colores, hasta 9 kg de lavado
+- PROGRAMA HIGIENE: Funciona a más de 60°C, higienizando durante el proceso de secado y eliminando el 99,9 % de agentes externos, perfecto para edredones, almohadas y prendas delicadas
+- PROGRAMA AUTODOSE: Usa sensores inteligentes para calcular la dosis precisa de detergente y suavizante en cada lavado ayudándote a ahorrar un 60% de detergente
 - CONECTIVIDAD: Configura tu secadora de forma remota con la APP My AEG Care, fácil conexión y control de lavado; Fabricado en UE
 - FUNCIÓN TIMESAVE: Es un programa rápido que reduce el ciclo principal al 50% para lavar las prendas en mucho menos tiempo, tanto las de algodón como las sintéticas
 

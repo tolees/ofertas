@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Diseño deportivo de moda con cordones
 - Skechers Espuma viscoelástica refrigerada por aire
-- Skechers Detalles del logotipo
 - Entresuela ligera que absorbe los golpes
+- Skechers Detalles del logotipo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096KQ3LHQ{{</world>}}

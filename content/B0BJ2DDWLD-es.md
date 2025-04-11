@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Iconic FILA Flag
-- Zapatillas clásicas FILA con suela media de EVA
 - Aspectos sostenibles: el material superior es poliuretano con base de agua. El forro es PET reciclado. La suela es de corcho natural. La suela exterior contiene contenido reciclado.
+- Zapatillas clásicas FILA con suela media de EVA
+- Iconic FILA Flag
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BJ2DDWLD{{</world>}}

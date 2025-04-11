@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Movimiento de cuarzo con tres agujas.
-- 2 años de garantía de Michael Kors
-- Resistencia al agua: 5 ATM / 50 m
 - Botón de despliegue del botón
+- Resistencia al agua: 5 ATM / 50 m
+- 2 años de garantía de Michael Kors
 - Material de la caja: acero inoxidable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

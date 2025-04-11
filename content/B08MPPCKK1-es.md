@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo 5 bolsillos
 - Vaqueros para hombre
+- Estilo 5 bolsillos
 - Tienen un parche en la parte trasera con la marca Lee
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

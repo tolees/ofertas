@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera
 - Con capucha
+- Sudadera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098THRGBS{{</world>}}

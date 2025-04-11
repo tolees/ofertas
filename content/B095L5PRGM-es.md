@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gráfico de HH Nord en el pecho
-- Tejido de mezcla de algodón y poliéster
-- Bolsillo tipo canguro
 - Capucha ajustable con cordón
+- Bolsillo tipo canguro
+- Tejido de mezcla de algodón y poliéster
 - Items delivered: 1x Helly Hansen Womens - W Nord Graphic PUllover Hoodie Apparel Faded Yellow Melange XL
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Mediasuela Cloudfoam
-- Parte superior textil sin costuras
 - El deporte inspira la moda
+- Horma clásica
 - Cierre de cordones
+- Parte superior textil sin costuras
+- Mediasuela Cloudfoam
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZ8C24PK{{</world>}}

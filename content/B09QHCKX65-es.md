@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tommy Hilfiger Marca
 - Logotipo elástico
 - Jersey de algodón elástico
+- Tommy Hilfiger Marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QHCKX65{{</world>}}

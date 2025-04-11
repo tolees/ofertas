@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vans Protección: materiales resistentes al agua
 - Entresuela de EVA para máxima comodidad
 - Suela de gofre inversa para una mayor tracción
+- Vans Protección: materiales resistentes al agua
 - Plantilla OrthoLite
 
 [🛒 Comprar!!!]({{< param buyurl >}})

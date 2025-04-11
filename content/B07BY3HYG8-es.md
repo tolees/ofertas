@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin recubrimiento
 - Conservar en lugar fresco y seco
+- Sin recubrimiento
 - Caramelos de goma
 - Deliciosas y suaves piezas en forma de huevo
 

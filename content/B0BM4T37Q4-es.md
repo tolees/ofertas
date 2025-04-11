@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - El sistema de vacío permite tratamientos sencillos y limpios
 - Dos velocidades y pantalla LCD
-- Con carga completa, hasta 150 minutos de funcionamiento
-- Elimina callos y durezas de forma segura, fácil e indolora
 - 100% impermeable, adecuado para su uso en condiciones húmedas y secas
+- Elimina callos y durezas de forma segura, fácil e indolora
+- Con carga completa, hasta 150 minutos de funcionamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BM4T37Q4{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dynamic Controls: solo requiere presionar el botón Auto-Attack para ejecutar ataques de forma sencilla haciéndolo muy accesible de cara a jugar con familiares de forma más casual
 - Dos sistemas de control: Modern Controls - Simples combinaciones de botones para ejecutar ataques especiales sin grandes alardes de memoria para combinar los botones
-- Tres recientes modos fundamentales: Fighting Ground, World Tour y Battle Hub; Fighting Ground: une los modos de lucha principales de títulos anteriores, incluido el modo Arcade, las partidas en línea, el modo de entrenamiento, las batallas locales y más; World Tour: es un modo historia inmersiva para un jugador que empuja los límites de lo que es un juego de lucha y permite a los jugadores dejar su propio legado con su avatar de jugador; Battle Hub: ofrece a los jugadores formas recientes y inimitables de participar, comunicarse e interactuar con luchadores de todo el mundo
-- Experiencia clásica creada para una era moderna: con todos los modos de juego principales presentes, además de dos modos recientes y gráficos mejorados; distintos estilos de lucha para dominar: 18 personajes diversos, incluidos legendarios guerreros mundiales y emocionantes personajes nuevos, agregan su propio estilo al juego en el lanzamiento, y se agregarán más después del lanzamiento
 - Comentarios en el juego; con subtítulos en 13 idiomas, incorpora las voces de los populares comentaristas de Fighting Game Community (FGC) como Vicious y Aru directamente en el juego para narrar lo que está sucediendo en pantalla como un torneo real
+- Tres recientes modos fundamentales: Fighting Ground, World Tour y Battle Hub; Fighting Ground: une los modos de lucha principales de títulos anteriores, incluido el modo Arcade, las partidas en línea, el modo de entrenamiento, las batallas locales y más; World Tour: es un modo historia inmersiva para un jugador que empuja los límites de lo que es un juego de lucha y permite a los jugadores dejar su propio legado con su avatar de jugador; Battle Hub: ofrece a los jugadores formas recientes y inimitables de participar, comunicarse e interactuar con luchadores de todo el mundo
+- Dynamic Controls: solo requiere presionar el botón Auto-Attack para ejecutar ataques de forma sencilla haciéndolo muy accesible de cara a jugar con familiares de forma más casual
+- Experiencia clásica creada para una era moderna: con todos los modos de juego principales presentes, además de dos modos recientes y gráficos mejorados; distintos estilos de lucha para dominar: 18 personajes diversos, incluidos legendarios guerreros mundiales y emocionantes personajes nuevos, agregan su propio estilo al juego en el lanzamiento, y se agregarán más después del lanzamiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQSD1XCN{{</world>}}

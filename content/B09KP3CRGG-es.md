@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Composición: Exterior: 88% Poliéster, 12% Viscosa; Forro: 100% Poliéster; Relleno: 100% Poliéster
-- Dobladillo ajustable en la espalda
 - Detalles clásicos de motoristas
+- Dobladillo ajustable en la espalda
 - Chaqueta motera para hombre en estándar de la marca danesa JACK & JONES
 
 [🛒 Aquí!!!]({{< param buyurl >}})

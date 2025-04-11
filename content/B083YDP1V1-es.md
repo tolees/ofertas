@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre con cordón
 - Compartimento con cierre magnético
-- Logotipo de Kipling
 - Llaveros 2D de mono y conejito
+- Logotipo de Kipling
+- Cierre con cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B083YDP1V1{{</world>}}

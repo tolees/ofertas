@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de Carhartt estampado en el pecho
-- Capucha de tres piezas con cordón ajustable
 - Dos bolsillos calientamanos en la parte baja del frente
 - Puños y cintura de canalé elástico reforzado con elastano
-- Loose Fit
 - Manga larga
+- Loose Fit
 - Tejido polar de peso medio
+- Capucha de tres piezas con cordón ajustable
+- Logotipo de Carhartt estampado en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0085TFJAO{{</world>}}

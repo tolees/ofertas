@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Interfaz Gen4 PCIe ×4 NVMe 1.4 M.2 de alta velocidad: Al utilizar la tecnología PCIe Gen4 para obtener el mayor ancho de banda, la MP600 CORE MINI ofrece un impresionante rendimiento de almacenamiento.
-- Impresionante rendimiento de almacenamiento Gen4: El controlador PCIe Gen4 x4 ofrece velocidades de lectura y escritura secuenciales de hasta 5.000 y 3.800 MB/s respectivamente, para lograr unos tiempos de lectura, escritura y respuesta verdaderamente excepcionales.
 - 3D QLC NAND de alta densidad: Ofrece la combinación perfecta de rendimiento y capacidad para obtener el máximo de su unidad durante mucho tiempo.
+- Interfaz Gen4 PCIe ×4 NVMe 1.4 M.2 de alta velocidad: Al utilizar la tecnología PCIe Gen4 para obtener el mayor ancho de banda, la MP600 CORE MINI ofrece un impresionante rendimiento de almacenamiento.
 - Su PC a velocidad de vértigo: Cargue juegos, arranque Windows, abra y transfiera archivos más rápido que nunca.
+- Impresionante rendimiento de almacenamiento Gen4: El controlador PCIe Gen4 x4 ofrece velocidades de lectura y escritura secuenciales de hasta 5.000 y 3.800 MB/s respectivamente, para lograr unos tiempos de lectura, escritura y respuesta verdaderamente excepcionales.
 - Formato compacto M.2 2230: Totalmente compatible con la Steam Deck de Valve, la ROG Ally de ASUS, Microsoft Surface Pro y otros dispositivos ultrafinos, lo que supone una gran actualización para las máquinas compatibles.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

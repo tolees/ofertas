@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo aconsejado para un perro de talla medio-grande, dimensiones totales: 111 x 84 x h 79 cm, dimensiones internas: 95 x 66 x 68 cm, dimensiones de la puerta: 30 x 46 cm, abertura lateral: 52 x 53 cm
-- Fondo con sistema de drenaje interno de líquidos; la caseta está dotada de rejilla para la ventilación interna que asegura la correcta ventilación y un ambiente siempre seco para el perro
-- Caseta de exterior realizada en robusta resina termoplástica, material resistente a los golpes y a los rayos UV; dotada de una pared lateral abatible que se convierte en una plataforma y asegura más espacio al animal
 - Fácil mantenimiento gracias al techo desmontable; accesorios aconsejados que se puede adquirir por separado: cojín Jolly, puerta de plástico atóxico, kit de paneles aislantes
 - Entrada revestida con un perfil de aluminio resistente a las mordeduras; gracias a su diseño constructivo, Dogvilla se monta rápidamente sin tener que usar herramientas especiales
+- Caseta de exterior realizada en robusta resina termoplástica, material resistente a los golpes y a los rayos UV; dotada de una pared lateral abatible que se convierte en una plataforma y asegura más espacio al animal
+- Fondo con sistema de drenaje interno de líquidos; la caseta está dotada de rejilla para la ventilación interna que asegura la correcta ventilación y un ambiente siempre seco para el perro
+- Modelo aconsejado para un perro de talla medio-grande, dimensiones totales: 111 x 84 x h 79 cm, dimensiones internas: 95 x 66 x 68 cm, dimensiones de la puerta: 30 x 46 cm, abertura lateral: 52 x 53 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008JYGRX8{{</world>}}

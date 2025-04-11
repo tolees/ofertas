@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Repelente al agua
-- 1.16 kg peso x 15 l volumen
 - Poliamida
 - 33 cm de altura x 41 cm de ancho x 17.5 cm de profundidad
+- 1.16 kg peso x 15 l volumen
 - Mochila escolar mediana (incluye funda para lluvia)
+- Repelente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CDBP7R54{{</world>}}

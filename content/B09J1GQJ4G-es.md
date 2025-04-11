@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color blanco
-- Termostato ajustable
-- 220V
 - 2 velocidades
-- Programable
-- 1350W de potencia. 220V directo a la luz. NO funciona a pilas.
-- Mando a distancia. Pantalla LED
 - Portatil
+- 1350W de potencia. 220V directo a la luz. NO funciona a pilas.
+- Termostato ajustable
+- Programable
+- Mando a distancia. Pantalla LED
+- 220V
+- Color blanco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09J1GQJ4G{{</world>}}

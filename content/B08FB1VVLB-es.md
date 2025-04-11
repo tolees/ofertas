@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sensor óptico para mayor rapidez de respuesta y alta precisión (1200 ppp)
-- Ratón óptico con 3 botones y rueda de desplazamiento
 - Indicado tanto para usuarios diestros como para zurdos
+- Ratón óptico con 3 botones y rueda de desplazamiento
+- Sensor óptico para mayor rapidez de respuesta y alta precisión (1200 ppp)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08FB1VVLB{{</world>}}

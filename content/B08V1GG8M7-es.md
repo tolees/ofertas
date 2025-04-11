@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Batería para un día entero en 15 minutos - Batería de 4500 mAh, Warp Charge 65T; una carga completa, partiendo de un 1% de batería, en tan solo 29 minutos.
 - Pantalla Fluid AMOLED de 6,55" con 120 Hz - ofrecer una precisión y un detalle de color mejorados
 - El mundo del 8K Video - HyperLapse para video en ultra gran angular
 - La plataforma móvil Qualcomm Snapdragon 888 5G - Logra resultados un 25% superiores a los del Snapdragon 865. OxygenOS 11.
 - Cámara principal de 48MP, ultra gran angular de 50MP y cámara monocromática - La cámara Ultra gran angular de 50 MP integrada ofrece una claridad excepcional gracias a su vanguardista lente Free-form.
+- Batería para un día entero en 15 minutos - Batería de 4500 mAh, Warp Charge 65T; una carga completa, partiendo de un 1% de batería, en tan solo 29 minutos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08V1GG8M7{{</world>}}

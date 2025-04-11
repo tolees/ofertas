@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La integración de Alexa en nuestros teléfonos te permiten hacer llamadas telefónicas, abrir aplicaciones, controlar dispositivos domésticos inteligentes, acceder a la biblioteca de habilidades de Alexa y más usando solo tu voz mientras estás en movimiento. Descarga la aplicación Alexa y completa la configuración de manos libres para comenzar. Solo pregunta, y Alexa responderá al instante.
 - La perfección en movimiento - Grabación de video a 8K + cámara lenta a 4K 120fps.
-- Cámara principal de 48MP, ultra gran angular de 50MP, teleobjetivo y cámara monocromática - Desarrollada de la mano de Hasselblad, la exclusiva cámara Hasselblad para smartphone ofrece numerosos avances, como la función Calibración Natural de Color.
-- Plataforma móvil Qualcomm Snapdragon 5G. OxygenOS 11.
+- La integración de Alexa en nuestros teléfonos te permiten hacer llamadas telefónicas, abrir aplicaciones, controlar dispositivos domésticos inteligentes, acceder a la biblioteca de habilidades de Alexa y más usando solo tu voz mientras estás en movimiento. Descarga la aplicación Alexa y completa la configuración de manos libres para comenzar. Solo pregunta, y Alexa responderá al instante.
 - Fluid Display 2.0 - Pantalla AMOLED Smart 120 Hz de 6,7" con tecnología LTPO, el consumo energético desciende en un 50% incluso cuando disfrutas de la experiencia totalmente fluida de los 120Hz de refresco.
+- Cámara principal de 48MP, ultra gran angular de 50MP, teleobjetivo y cámara monocromática - Desarrollada de la mano de Hasselblad, la exclusiva cámara Hasselblad para smartphone ofrece numerosos avances, como la función Calibración Natural de Color.
 - Batería para un día entero en 15 minutos - Batería de 4500 mAh, Warp Charge 65T y Warp Charge Wireless 50; nuestra tecnología de carga inalámbrica más rápida hasta la fecha - pasa del 1 al 70% en solo 30 minutos
+- Plataforma móvil Qualcomm Snapdragon 5G. OxygenOS 11.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08V1N3RKH{{</world>}}

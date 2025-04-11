@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mejorado para PlayStation VR2
 - ¡Coge tu pico y dirígete a New Frontier!
+- Mejorado para PlayStation VR2
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSFXVHTD{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
 - Tejido ligero Powerblend-terry no afelpado (260 gr)
 - Logotipo bordado
+- Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6KWP1PM{{</world>}}

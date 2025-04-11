@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Peso: 340 G
+- El ZEPHYR ULTRALIGHT es ligero y versátil, para jugadores intermedios y casuales que quieren llevar su juego al siguiente nivel
 - Tamaño de Cabeza: 490 cm²
 - Tecnología: Innegra
-- El ZEPHYR ULTRALIGHT es ligero y versátil, para jugadores intermedios y casuales que quieren llevar su juego al siguiente nivel
-- Peso: 340 G
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09M5FNP3X{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Accesible para todos
 - Una experiencia única
+- Accesible para todos
 - Obtendras mucha diversión
 - Personajes variados con una historia interesante
 - Excelentes gráficos

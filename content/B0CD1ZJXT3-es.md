@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo con cordones para un ajuste regulable.
-- Zapatillas altas de lona con plataforma
 - Suela de plataforma elevada para mayor altura.
+- Zapatillas altas de lona con plataforma
+- Modelo con cordones para un ajuste regulable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CD1ZJXT3{{</world>}}

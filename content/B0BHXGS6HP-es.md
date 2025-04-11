@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga larga
-- Jersey de punto con cuello redondo
 - Composición del material: 100% algodón
+- Jersey de punto con cuello redondo
 - Corte regular
+- Manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHXGS6HP{{</world>}}

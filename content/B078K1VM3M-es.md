@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las soluciones de electrolitos e hidratos de carbono aumentan la absorción de agua durante el ejercicio físico
 - 1320 g por frasco
 - Sin aromas artificiales ni conservantes (según normativa vigente) y apto para vegetarianos
 - Aporta a usted cuerpo los 5 electrolitos —sodio, cloruro, potasio, calcio y magnesio— que más se pierden al sudar
 - C2MAX Dual Source Carb Mix
+- Las soluciones de electrolitos e hidratos de carbono aumentan la absorción de agua durante el ejercicio físico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B078K1VM3M{{</world>}}

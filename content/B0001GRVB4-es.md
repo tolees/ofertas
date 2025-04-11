@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sierra con mango ergonómico bimateria antideslizante Dynagrip
-- Cuerpo de acero especial
-- Sistema de tensión de la hoja permanente hasta 80 kg
 - Hoja orientable a 45° y 90°
+- Sierra con mango ergonómico bimateria antideslizante Dynagrip
+- Sistema de tensión de la hoja permanente hasta 80 kg
+- Cuerpo de acero especial
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0001GRVB4{{</world>}}

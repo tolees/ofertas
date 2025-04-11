@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La versión con memoria se presenta en una práctica caja metálica de alta calidad, ideal para guardarla, cuando se viaja, de viaje, como regalo. El juego cabe en el bolsillo y siempre está contigo.
-- Número de jugadores: 2-5. Duración del juego: aprox. 15 minutos. Edad recomendada: a partir de 6 años.
 - Las 69 cartas redondas con bonitas ilustraciones son un verdadero atractivo.
+- Número de jugadores: 2-5. Duración del juego: aprox. 15 minutos. Edad recomendada: a partir de 6 años.
 - ¡Encuentra las pepitas! ¿Consigues sacar la mayor parte de oro de la mina? Para superar a los molestos rivales, se necesita una mano afortunada, buena memoria y sentido táctico.
 - Juego inteligente de búsqueda de memorias con tarjetas redondas y un alto factor de diversión.
 

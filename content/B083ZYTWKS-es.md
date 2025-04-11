@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Eternals
-- Marvel
 - Build A Figure
 - Licencia Oficial
+- Marvel
+- Eternals
 - Completa el surtido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

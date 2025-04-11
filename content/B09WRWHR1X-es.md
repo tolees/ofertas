@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - FIRMADO APRILIA: Diseño original de Aprilia con inserciones de carreras.
 - AMPLIA AUTONOMÍA: Duración de la batería de 6 Ah. Llega hasta 25 km según el peso y las condiciones de la carretera, se recarga en solo 4 horas.
-- NEUMÁTICOS: Neumáticos antideslizantes con cámara de aire de 8,5".
 - MAXIMA SEGURIDAD: con freno de disco trasero y e-brake, reflectores laterales, delanteros y traseros.
+- NEUMÁTICOS: Neumáticos antideslizantes con cámara de aire de 8,5".
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09WRWHR1X{{</world>}}

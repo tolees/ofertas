@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Forro textil
-- Cordones elásticos y cierre autoadherente
-- Parte combinada con tela
+- Horma clásica
 - Mediasuela Cloudfoam
+- Parte combinada con tela
+- Cordones elásticos y cierre autoadherente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGGSQCM9{{</world>}}

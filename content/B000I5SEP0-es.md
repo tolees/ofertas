@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recargable
 - Bolígrafo retráctil
-- Punta de bola
 - Nivel de tinta visible
+- Punta de bola
+- Recargable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000I5SEP0{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Front zipper closure
 - Easy to pack jacket
+- Front zipper closure
 - Drawcords at the hem
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

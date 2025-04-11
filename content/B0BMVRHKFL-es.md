@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta de algodón Tricot con pointelle en el borde y puños
 - 86% algodón, 14% poliamida
+- Chaqueta de algodón Tricot con pointelle en el borde y puños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMVRHKFL{{</world>}}

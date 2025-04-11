@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tejido vaquero elástico
-- Chaqueta vaquera con botones de cobre
-- Lavado profundo en azul marino
 - Corte regular
+- Lavado profundo en azul marino
+- Chaqueta vaquera con botones de cobre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09KHD7GHV{{</world>}}

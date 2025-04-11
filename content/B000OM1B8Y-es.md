@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Estimulante
 - Partes de plantas molidas de Nepeta cataria
 - Con una fragancia duradera
-- Estimulante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000OM1B8Y{{</world>}}

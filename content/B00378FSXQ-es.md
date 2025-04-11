@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin perfume y adecuada para piel sensible
 - Sistema a prueba de roce, no se correrá o manchará tu ropa
-- Fórmula de larga duración garantizada durante ocho horas
-- No comedogénico, por lo que no va a tapar los poros de tu piel
+- Sin perfume y adecuada para piel sensible
 - Adecuado para: mujeres
+- No comedogénico, por lo que no va a tapar los poros de tu piel
+- Fórmula de larga duración garantizada durante ocho horas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00378FSXQ{{</world>}}

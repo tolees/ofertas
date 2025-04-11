@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalones térmicos
 - Tiene detalles distintivos de la marca
-- Tejido transpirable
 - Ofrece comodidad y libertad de movimiento
+- Tejido transpirable
+- Pantalones térmicos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C4P1LFK{{</world>}}

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Cartas colecionables
 - Banda sonora
-- Una pegatina
 - Incluye:
+- Una pegatina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09SQ1N8JB{{</world>}}

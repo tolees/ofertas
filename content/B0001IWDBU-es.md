@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El suministro incluye dos hojas (Stanley 11-221)
 - Cuerpo metálico
-- Accesorio original de Stanley
 - Equipado con mecanismo de bloqueo
+- Accesorio original de Stanley
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0001IWDBU{{</world>}}

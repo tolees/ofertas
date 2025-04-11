@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto en color negro
 - Interruptor
 - Enchufes
-- Producto en color negro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B002N6ZEFA{{</world>}}

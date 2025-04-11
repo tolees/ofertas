@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto procedente de agricultura ecológica controlada
-- Beneficiar el sistema respiratorio
-- Específicamente formulado para optimizar el proceso digestivo
 - 1 x Artemis Bio Poleo Menta Infusion Eco - 20 Bolsitas
+- Producto procedente de agricultura ecológica controlada
+- Específicamente formulado para optimizar el proceso digestivo
+- Beneficiar el sistema respiratorio
 - Un suplemento nutricional refrescante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

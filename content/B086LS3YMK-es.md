@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Linterna de taller, lámpara portátil a batería recargable (3,7V /2,2Ah) con un cargador USB, carcasa resistente a golpes y roturas para zonas de trabajo de bricolaje (IP54)
+- Incluye un imán que permite un uso flexible en zonas de trabajo con metal como automóvil, camión o máquina, manejo flexible con una excelente emisión de luz y con interruptor de apagado/encendido
+- Volumen de suministro: 1x linterna de taller WL 500 A con batería recargable, incl. cable de carga USB, para el uso versátil con imán y giratorio extensible - en la máxima calidad de brennenstuhl
 - Luz de trabajo luminoso mediante 12 LED SMD Seoul luminosos, iluminación hasta 24 horas y conmutable en 3 etapas de luz: 100 % - 40 % - 10 %una larga duración del tiempo de iluminación
 - Lámpara para utilizar en talleres y en trabajos de bricolaje, con posibilidad de fijación mediante el gancho e base magnética de imán, versátil para el uso en bricolaje, construcción e inspección
-- Linterna de taller, lámpara portátil a batería recargable (3,7V /2,2Ah) con un cargador USB, carcasa resistente a golpes y roturas para zonas de trabajo de bricolaje (IP54)
-- Volumen de suministro: 1x linterna de taller WL 500 A con batería recargable, incl. cable de carga USB, para el uso versátil con imán y giratorio extensible - en la máxima calidad de brennenstuhl
-- Incluye un imán que permite un uso flexible en zonas de trabajo con metal como automóvil, camión o máquina, manejo flexible con una excelente emisión de luz y con interruptor de apagado/encendido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B086LS3YMK{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinta de contraste dentro del cuello
 - Cinta distintiva dentro del cuello
 - Solapa de dos botones
-- Algodón elástico
+- Cinta de contraste dentro del cuello
 - Bandera bordada de Tommy Hilfiger en el pecho
+- Algodón elástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2HSPTX6{{</world>}}

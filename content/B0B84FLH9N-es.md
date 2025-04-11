@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Estampado tropical de hojas efecto pintado con rotulador
 - Copas extraíbles
+- Con tirantes al cuello
 - Estampado tropical de hojas efecto pintado con rotulador
 - Escote corazón
-- Estampado tropical de hojas efecto pintado con rotulador
-- Con tirantes al cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B84FLH9N{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CAMBIA DE EXPRESIÓN – Las muñecas KookyLoos son súper expresivas. Con un solo clic les puedes cambiar la expresión. Cada muñeca tiene 3 diferentes y divertidas expresiones.
-- CONOCE A LA MUÑECA EXCLUSIVA LUNA – Luna es la KookyLoos exclusiva de Luna’s Dream Villa, ¡solo puedes encontrarla aquí! Luna es decoradora de interiores ¡y le encanta!
-- ¡DEJA VOLAR TU CREATIVIDAD! – Deja volar tu vena más creativa ayudando a Luna, la muñeca KookyLoos exclusiva, a decorar y amueblar su casa.
 - PERSONALIZA LA CASA – Amuebla la cocina, el salón, la habitación y el baño con accesorios súper “cool”. ¡En la terraza puedes dar una fiesta con las otras KookyLoos, sus amigas siempre son bienvenidas!
+- CAMBIA DE EXPRESIÓN – Las muñecas KookyLoos son súper expresivas. Con un solo clic les puedes cambiar la expresión. Cada muñeca tiene 3 diferentes y divertidas expresiones.
 - DECORA LAS HABITACIONES – Hay 4 habitaciones súper modernas y estilosas para decorar y redecorar las veces que quieras: dales la vuelta a los suelos reversibles y utiliza los stickers que se quitan y se ponen para cambiar de estilo.
+- ¡DEJA VOLAR TU CREATIVIDAD! – Deja volar tu vena más creativa ayudando a Luna, la muñeca KookyLoos exclusiva, a decorar y amueblar su casa.
+- CONOCE A LA MUÑECA EXCLUSIVA LUNA – Luna es la KookyLoos exclusiva de Luna’s Dream Villa, ¡solo puedes encontrarla aquí! Luna es decoradora de interiores ¡y le encanta!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09TQ1MYL8{{</world>}}

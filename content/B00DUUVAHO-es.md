@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cabezal de cepillo de rápida oscilación, (bidirecional) para una eliminación suave y efectiva de la placa y las manchas
-- Cepillo con filamentos de calidad redondeados Tynex DuPont, para un cepillado suave de los dientes y las encías
-- Protegido contra agua salpicante
 - Ideal para viajar
+- Cepillo con filamentos de calidad redondeados Tynex DuPont, para un cepillado suave de los dientes y las encías
+- Cabezal de cepillo de rápida oscilación, (bidirecional) para una eliminación suave y efectiva de la placa y las manchas
+- Protegido contra agua salpicante
 - 2 baterías de 1,5 V AA (baterías no forman parte del suministro)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

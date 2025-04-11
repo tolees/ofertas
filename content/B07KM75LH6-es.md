@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Super elástico 50%. 1,5 de elasticidad.
+- Aspecto clásico de vaquero azul gracias a las costuras Tobacco.
 - Pantalones vaqueros Slim Fit: no demasiado estrechos, no demasiado holgados.
 - Composición del material: 85 % algodón, 13 % poliéster, 2 % elastano.
-- Aspecto clásico de vaquero azul gracias a las costuras Tobacco.
+- Super elástico 50%. 1,5 de elasticidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KM75LH6{{</world>}}

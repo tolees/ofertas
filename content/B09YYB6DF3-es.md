@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre con cordón
-- Bolsillos
 - Cintura elástica
+- Bolsillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09YYB6DF3{{</world>}}

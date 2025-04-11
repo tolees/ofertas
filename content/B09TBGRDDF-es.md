@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño ergonómico y compacto. El mango ergonómico proporciona un agarre fácil y cómodo, muy agradable al tacto y cómodo de utilizar.
-- Incluye portabrocas: 1/4" (6.35mm) Hex y cable USB.
-- Con un torque máximo de 4 Nm y 6+1 posiciones y una velocidad máxima de 200 rpm.
 - Alto rendimiento on-the-go. Destornillador sin cables con una batería de iones de litio de 4 V, 1.500 mAh recargable por USB y una autonomía de hasta 60 minutos.
-- Cabezal giratorio de dos posiciones de trabajo, en 90º y en horizontal, para realizar trabajos cerca de rincones o en lugares de difícil acceso.
 - Linterna y luz de trabajo integradas. Para usarlo en zonas con poca iluminación o iluminar de cerca el área de trabajo y conseguir resultados de gran precisión.
+- Cabezal giratorio de dos posiciones de trabajo, en 90º y en horizontal, para realizar trabajos cerca de rincones o en lugares de difícil acceso.
+- Diseño ergonómico y compacto. El mango ergonómico proporciona un agarre fácil y cómodo, muy agradable al tacto y cómodo de utilizar.
+- Con un torque máximo de 4 Nm y 6+1 posiciones y una velocidad máxima de 200 rpm.
+- Incluye portabrocas: 1/4" (6.35mm) Hex y cable USB.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TBGRDDF{{</world>}}

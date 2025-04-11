@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Muchos modelos para coleccionar.
 - Las figuras de personajes populares de la serie animada La Tribu de los Monchhichi.
 - Set de 2 figuras articuladas: la cabeza, los brazos y las piernas son móviles.
+- Muchos modelos para coleccionar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0772FB2ZL{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pala de pádel para jugadores de nivel medio con una excelente sensación en el golpeo, control y potencia en los remates.
-- Superficie rugosa en el plano para dar mayor efecto a la bola en el golpeo.
 - Construcción en Graphite 100%. TRIPLE LAYER FACE, para un toque excepcional y la máxima precisión.
 - Pala de pádel Dunlop Impact X-treme Pro LTD con una excelente sensación en el golpeo, control y potencia en los remates. Superficie rugosa tipo arenilla para dar mayor efecto en el golpeo de la bola. Excelente relación calidad / precio.
+- Pala de pádel para jugadores de nivel medio con una excelente sensación en el golpeo, control y potencia en los remates.
+- Superficie rugosa en el plano para dar mayor efecto a la bola en el golpeo.
 - Forma híbrida oversize con perfil plano de 38mm y núcleo de EVA Super Flex.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

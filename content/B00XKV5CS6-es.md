@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Carga máxima: 12kg.
 - Para montaje sobre los tableros laterales del mueble/armario.
 - Anchura telescópica 450-600mm adaptable a las dimensiones del hueco interno del armario.
-- Carga máxima: 12kg.
 - Acabado cromado.
 - En caso de instalación sobre un armario de puertas abisagradas se recomienda el montaje junto con el suplemento lateral (no incluido).
 

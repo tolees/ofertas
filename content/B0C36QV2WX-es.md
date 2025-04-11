@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bolsillos: bolsillo tipo canguro
 - Ajuste: corte holgado
 - Forro: forro de capucha del mismo material
-- Bolsillos: bolsillo tipo canguro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C36QV2WX{{</world>}}

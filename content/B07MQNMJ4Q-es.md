@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: Sin cordones
 - Zapatillas
+- Cierre: Sin cordones
 - Loneta Baja
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disponible en varios colores
 - Serie de boxeo
 - Material: Algodón
+- Disponible en varios colores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B87WV3HD{{</world>}}

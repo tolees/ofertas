@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 77% Rayón, 20% Nylon, 3% Elastano
-- ONLY Royal Regular Fit Skinny Coated Biker Jeans
 - Regular
+- ONLY Royal Regular Fit Skinny Coated Biker Jeans
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01J3WL83S{{</world>}}

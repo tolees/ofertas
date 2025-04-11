@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Armani Exchange Marca
 - Cuello polo
+- Armani Exchange Marca
 - Solapa de dos botones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

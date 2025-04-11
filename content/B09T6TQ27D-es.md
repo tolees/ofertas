@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte entallado
 - Tecnología transpirable AEROREADY
+- Corte entallado
 - Punto doble 100% poliéster reciclado
 - Cierre de cremallera y cuello alzado
 

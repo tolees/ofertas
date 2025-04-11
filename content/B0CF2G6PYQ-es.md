@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja
-- Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes. Almohadillas de silicona antideslizantes y anti-alérgicas. Bisagra de 3 barras para un mayor agarre y durabilidad.
 - Modelo Unisex. Medidas: Frontal 142 mm; Patillas 145 mm ; Puente 17 mm ; Alto 49 mm
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja
 - Este diseño de gafas de sol brow bar es una actualización del clásico estilo aviador cuadrado con un toque luxe que lo convierte en el uptrend de la temporada. Una silueta completamente negra que destaca por su frontal metálico mate con un único puente al aire conectado a las lentes polarizadas y varillas de acetato.
+- Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes. Almohadillas de silicona antideslizantes y anti-alérgicas. Bisagra de 3 barras para un mayor agarre y durabilidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CF2G6PYQ{{</world>}}

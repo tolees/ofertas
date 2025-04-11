@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño original creado por el departamento de I+D de MILAN. Gomas de recambio disponibles.
 - Combinación de goma y sacapuntas. Diseño STICK Edición +, color rosa.
-- El cuerpo del afilaborra tiene incorporado un biocida. Tratado con vidrio de fosfato de plata (CAS 308069-39-8) con efecto antibacteriano.
 - Ideal para mejorar la higiene en la escuela, oficina, ambientes en contacto con alimentos y entornos sanitarios.
+- El cuerpo del afilaborra tiene incorporado un biocida. Tratado con vidrio de fosfato de plata (CAS 308069-39-8) con efecto antibacteriano.
+- Diseño original creado por el departamento de I+D de MILAN. Gomas de recambio disponibles.
 - Goma rectangular de gran longitud de caucho sintético miga de pan flexible. El sacapuntas tiene una cuchilla de acero al carbono afilada y resistente, ideal para todo tipo de lápices. Artículo con cuchilla de seguridad: este sistema evita que se pueda separar la hoja del cuerpo del sacapuntas, siendo óptimo para uso escolar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

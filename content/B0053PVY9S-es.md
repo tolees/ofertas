@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuchilla de sierra de diamante
 - Disco de corte para cerámica
+- Cuchilla de sierra de diamante
 - Marca del producto: Bosch Professional
 - Diámetro: 180 mm
 

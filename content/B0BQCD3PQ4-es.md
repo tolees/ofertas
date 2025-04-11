@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela suave
 - Tiene detalles distintivos de la marca
+- Tela suave
 - Ofrece comodidad y libertad de movimiento
 - Ajuste regular
 

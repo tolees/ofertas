@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 10 personajes, incluyendo 4 nuevos, cada uno con sus propias características.
-- ¡Compite contra tus amigos de forma local y desafía a jugadores de todo el mundo con el modo online y su netcode rollback!
-- Animaciones y gráficos totalmente hechos a mano.
 - ¡Un impresionante modo Arcade! Juega como las superestrellas de Windjammers para ganar títulos en solitario. Trofeos y tablas de clasificación.
-- Jugabilidad mejorada: domina el slapshot, el dropshot, el salto, el smash y el poderoso EX MOVE.
-- Acepta los retos de los minijuegos.
 - Sumérgete en los años 90 con una banda sonora increíble.
+- Acepta los retos de los minijuegos.
+- Jugabilidad mejorada: domina el slapshot, el dropshot, el salto, el smash y el poderoso EX MOVE.
+- 10 personajes, incluyendo 4 nuevos, cada uno con sus propias características.
+- Animaciones y gráficos totalmente hechos a mano.
+- ¡Compite contra tus amigos de forma local y desafía a jugadores de todo el mundo con el modo online y su netcode rollback!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09TSVVJQ8{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- EMBALAJE ESTILO KENNER ORIGINAL: Las figuras a escala de 9,5 cm de la Colección Retro de Star Wars vienen en embalajes Kenner clásicos con apariencia de uso prolongado
-- STAR WARS: EL LIBRO DE BOBA FETT: Esta figura de Boba Fett (Mar de Dunas) mide 9,5 cm y está inspirada en la serie de acción Star Wars: El libro de Boba Fett, que transmite Disney+. Es el regalo perfecto para cualquier fan o coleccionista de Star Wars a partir de 4 años
 - ARTICULACIÓN Y DETALLES ESTILO KENNER: Esta figura de Boba Fett cuenta con cinco puntos de articulación y es ideal para ser exhibida en colecciones de figuras de acción y vehículos
 - BOBA FETT (MAR DE DUNAS): Boba Fett, uno de los más grandes cazarrecompensas de la galaxia, deambula por las arenas de Tatooine a la espera de la oportunidad perfecta para recuperar su nave y su armadura y saldar viejas cuentas...
 - ACCESORIOS INSPIRADOS EN EL PERSONAJE: Esta figura de acción de Star Wars: El libro de Boba Fett incluye un bláster y un bastón gaffi
+- EMBALAJE ESTILO KENNER ORIGINAL: Las figuras a escala de 9,5 cm de la Colección Retro de Star Wars vienen en embalajes Kenner clásicos con apariencia de uso prolongado
+- STAR WARS: EL LIBRO DE BOBA FETT: Esta figura de Boba Fett (Mar de Dunas) mide 9,5 cm y está inspirada en la serie de acción Star Wars: El libro de Boba Fett, que transmite Disney+. Es el regalo perfecto para cualquier fan o coleccionista de Star Wars a partir de 4 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BDJN2BPR{{</world>}}

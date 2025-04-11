@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cordones
-- Puntera cerrada
 - No es resistente al agua
+- Puntera cerrada
+- Con cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3456LQK{{</world>}}

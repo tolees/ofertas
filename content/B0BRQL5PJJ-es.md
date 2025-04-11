@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Kit de vino para regalar a parejas o a cualquier persona especial.
 - Medidas 21,2 x 16,6 x 36 cm
-- El kit contiene: - Sacacorchos - Cortador de aluminio - Vertedor - Collar - Tapón
-- Un kit ideal para descorchar esos momentos tan especiales.
 - Materiales: acero inoxidable + plástico + cartón
+- Un kit ideal para descorchar esos momentos tan especiales.
+- El kit contiene: - Sacacorchos - Cortador de aluminio - Vertedor - Collar - Tapón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRQL5PJJ{{</world>}}

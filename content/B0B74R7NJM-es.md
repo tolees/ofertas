@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material interior: poliéster
-- Material exterior: lona
 - Grut: Personalizable
+- Material exterior: lona
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B74R7NJM{{</world>}}

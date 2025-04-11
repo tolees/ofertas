@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintura elástica con cordón
 - Bolsillos laterales
+- Cintura elástica con cordón
 - Corte
 
 [🛒 Aquí!!!]({{< param buyurl >}})

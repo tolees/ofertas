@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de modelo: L76FMWGW3
 - Composición: 79% algodón Bci – 20% algodón post consumidor – 1% elastano
+- Número de modelo: L76FMWGW3
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQWKJ7J1{{</world>}}

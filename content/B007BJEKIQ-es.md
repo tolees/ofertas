@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diámetro de 32 mm
-- Fuente de alimentación: Red
-- Cable giratorio
-- Punta fría de agarre
 - Soporte de apoyo
+- Punta fría de agarre
+- Cable giratorio
+- Diámetro de 32 mm
 - 10 temperaturas de 110° C a 180° C
+- Fuente de alimentación: Red
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B007BJEKIQ{{</world>}}

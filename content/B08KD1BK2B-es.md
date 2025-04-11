@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Vestido cruzado
 - Faldón
 - Patrón
-- Vestido cruzado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KD1BK2B{{</world>}}

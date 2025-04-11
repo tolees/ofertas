@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello abotonado: estilo y calidez óptimos
-- Sarga: un acabado ligero y agradable de llevar
-- Cocodrilo bordado en el pecho: el logo atemporal de Lacoste
-- Dos bolsillos exteriores y dos interiores: discreción y practicidad a partes iguales
 - Forro con estampado de cuadros: el motivo distintivo que marca la diferencia
+- Dos bolsillos exteriores y dos interiores: discreción y practicidad a partes iguales
+- Sarga: un acabado ligero y agradable de llevar
+- Cuello abotonado: estilo y calidez óptimos
+- Cocodrilo bordado en el pecho: el logo atemporal de Lacoste
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09N9X84FT{{</world>}}

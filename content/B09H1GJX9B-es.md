@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COLECCIONA OTRAS FIGURAS DE UNA GALAXIA MUY, MUY LEJANA: Colecciona figuras de Star Wars The Black Series inspiradas en el entretenimiento, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
-- STAR WARS: OBI-WAN KENOBI: Los fans y coleccionistas pueden imaginar escenas de la galaxia de Star Wars con el juguete premium Obi-Wan Kenobi (Wandering Jedi), inspirado en la serie Star Wars: Obi-Wan Kenobi
-- ARTICULACIÓN Y DETALLES PREMIUM: Los fans y coleccionistas de Star Wars pueden exhibir esta figura altamente articulada (cabeza, brazos y piernas articuladas) con diseño premium en su colección
-- ACCESORIOS INSPIRADOS EN EL PERSONAJE: Esta figura de acción Star Wars The Black Series incluye 3 accesorios inspirado en el personaje que hacen de la figura una adición extraordinaria a toda colección de Star Wars
 - OBI-WAN KENOBI (JEDI ERRANTE): Obi-Wan Kenobi tiene lugar varios años tras los dramáticos sucesos de Star Wars: La venganza de los Sith, en donde Kenobi enfrentó la corrupción de su amigo y aprendiz Jedi Anakin Skywalker, quien se convertiría en el Lord Sith Darth Vader
+- ACCESORIOS INSPIRADOS EN EL PERSONAJE: Esta figura de acción Star Wars The Black Series incluye 3 accesorios inspirado en el personaje que hacen de la figura una adición extraordinaria a toda colección de Star Wars
+- STAR WARS: OBI-WAN KENOBI: Los fans y coleccionistas pueden imaginar escenas de la galaxia de Star Wars con el juguete premium Obi-Wan Kenobi (Wandering Jedi), inspirado en la serie Star Wars: Obi-Wan Kenobi
+- COLECCIONA OTRAS FIGURAS DE UNA GALAXIA MUY, MUY LEJANA: Colecciona figuras de Star Wars The Black Series inspiradas en el entretenimiento, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
+- ARTICULACIÓN Y DETALLES PREMIUM: Los fans y coleccionistas de Star Wars pueden exhibir esta figura altamente articulada (cabeza, brazos y piernas articuladas) con diseño premium en su colección
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09H1GJX9B{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatillas deportivas
-- Estilo de running de los años 90
 - Parte superior de malla transpirable
+- Estilo de running de los años 90
+- Zapatillas deportivas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HHP681R{{</world>}}

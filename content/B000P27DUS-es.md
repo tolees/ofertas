@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jaguar Jaguar For Men Edt Vapo 100 Ml - 100 Mililitros
 - (3562700361005)
+- Jaguar Jaguar For Men Edt Vapo 100 Ml - 100 Mililitros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000P27DUS{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escala 1:14 y 2.4GHZ; supera cualquier obstáculo, nada se interpondrá en tu camino
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
-- lcanza una velocidad máxima de 12km/h (168km/h escala) con un radio de acción de 25 metros
-- Contrólalo mediante el mando profesional
 - Producto distribuido oficialmente en España por BIZAK.
-- Utiliza una tecnología de vapor de agua para generar el efecto humo
+- Contrólalo mediante el mando profesional
+- lcanza una velocidad máxima de 12km/h (168km/h escala) con un radio de acción de 25 metros
 - Conduce con estilo Exost Furious RC (62000628) es un vehículo con diseño aerodinámico y urbano
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Utiliza una tecnología de vapor de agua para generar el efecto humo
+- Escala 1:14 y 2.4GHZ; supera cualquier obstáculo, nada se interpondrá en tu camino
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096XKWT36{{</world>}}

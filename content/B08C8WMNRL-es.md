@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La mezcla perfecta entre hombros retro y hombreras suaves en una silueta femenina, con mangas largas y puños anchos de canalé. Como mejor queda este jersey de punto fino fabricado en rayón sostenible es por dentro de un vaquero de talle alto para un look informal pero con mucho estilo.
 - Ajuste regular: acompaña al movimiento, ni muy suelto ni muy ajustado
-- Este jersey por la cadera mide 56 cm
+- La mezcla perfecta entre hombros retro y hombreras suaves en una silueta femenina, con mangas largas y puños anchos de canalé. Como mejor queda este jersey de punto fino fabricado en rayón sostenible es por dentro de un vaquero de talle alto para un look informal pero con mucho estilo.
 - Las modelos miden 1,80 m y llevan una talla S y XXL.
+- Este jersey por la cadera mide 56 cm
 - Esenciales by The Drop
 
 [🛒 Aquí!!!]({{< param buyurl >}})

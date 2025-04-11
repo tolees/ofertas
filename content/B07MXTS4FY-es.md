@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula vegana, sin ingredientes o subproductos de origen animal; testado dermatológicamente y en pieles sensibles
-- Certificado Ecológico Cosmos de Ecocert Greenlife; más del 95% del total de ingredientes de nuestra crema hidratante son de origen natural
+- Formulada con aceite de argán ecológico, aloe vera ecológico y ácido hialurónico, activos conocidos por sus propiedades hidratantes, calmantes, nutritivas y reparadoras
 - Crema hidratante para rostro, especialmente indicada para pieles secas y sensibles
 - Nutre, suaviza e hidrata la piel al instante, aportando hasta 48 horas de hidratación (Test instrumental en 24 voluntarias)
-- Formulada con aceite de argán ecológico, aloe vera ecológico y ácido hialurónico, activos conocidos por sus propiedades hidratantes, calmantes, nutritivas y reparadoras
+- Certificado Ecológico Cosmos de Ecocert Greenlife; más del 95% del total de ingredientes de nuestra crema hidratante son de origen natural
+- Fórmula vegana, sin ingredientes o subproductos de origen animal; testado dermatológicamente y en pieles sensibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07MXTS4FY{{</world>}}

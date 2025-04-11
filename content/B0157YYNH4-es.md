@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No consumir ni aplicar sin diluir sobre la piel.
 - Paquete de inicio de aceites esenciales - Repelente de insectos 5 x 10ml - 100% puro
-- Contiene: madera de cedro, citronela java, brote de clavo, limón prensado en frío, piperita mentha
 - Todos los aceites son 100% puros.
+- Contiene: madera de cedro, citronela java, brote de clavo, limón prensado en frío, piperita mentha
+- No consumir ni aplicar sin diluir sobre la piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0157YYNH4{{</world>}}

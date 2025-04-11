@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Optimo para la vuelta al col
+- Set de 4 subrayadores en tonos pastel
 - Tapón en forma margarita Mr Wonderful en el extremo
 - Colores de los subrayadores: azul, naranja, lila y mint
-- Set de 4 subrayadores en tonos pastel
+- Optimo para la vuelta al col
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C62KJ6XX{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordones DTM
-- Tejido fleece cepillado de 260 g
-- Gráficos serigrafiados
 - 60 % algodón / 40 % poliéster
+- Cordones DTM
+- Gráficos serigrafiados
+- Tejido fleece cepillado de 260 g
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B28ZB34F{{</world>}}

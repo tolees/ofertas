@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye el juego base, el pase del Año 1 y el pack Skate Plus
-- Necesitas instalar la aplicación Ubisoft Connect para PC para ejecutar este contenido.
 - ¡Con la Edición Completa podrás arrasar sin restricciones como si no hubiera un mañana!
+- Necesitas instalar la aplicación Ubisoft Connect para PC para ejecutar este contenido.
+- Incluye el juego base, el pase del Año 1 y el pack Skate Plus
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CGZMC88W{{</world>}}

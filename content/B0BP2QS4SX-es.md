@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Paquete de tres pares
 - Diseño flexible
+- Paquete de tres pares
 - Estructura suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

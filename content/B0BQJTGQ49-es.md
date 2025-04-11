@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuida de los digimon
 - Sistemas de combate de IA evolucionado
-- Construye una ciudad próspera
+- Cuida de los digimon
 - Diversión sin fin
+- Construye una ciudad próspera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQJTGQ49{{</world>}}

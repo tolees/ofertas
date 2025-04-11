@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Chaqueta Softshell resistente al viento para hombre, Puede usarse como chaqueta de entretiempo o como capa media para el invierno, de ajuste activo
 - Combina con otros productos Columbia para conseguir el nivel perfecto de calidez y repelencia al agua
 - Práctica cremallera completa, Dos bolsillos con cremallera para manos calientes y seguras, Bolsillo en el pecho con cremallera, Capucha amovible, Dobladillo ajustable con cordón
 - Repelente al agua y la suciedad gracias a la tecnología Omni-Shield para mayor movilidad y comodidad en todos los deportes
-- Chaqueta Softshell resistente al viento para hombre, Puede usarse como chaqueta de entretiempo o como capa media para el invierno, de ajuste activo
 - Contenido: 1x Columbia Cascade Ridge II Chaqueta Softshell para hombre, 100 percent Poliéster, Color: Negro, Talla: L, Art.No. 1516251
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

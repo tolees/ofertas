@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DEWALT DT5923-QZ - Juego de 19 brocas para metal HSS-G DIN 338 en cassette metálica Ø 1 - 10mm
 - Juego de brocas para metal hss-g - din 338
-- Fabricadas de acero de corte rápido de alto rendimiento (hss)
+- DEWALT DT5923-QZ - Juego de 19 brocas para metal HSS-G DIN 338 en cassette metálica Ø 1 - 10mm
 - 19 piezas
+- Fabricadas de acero de corte rápido de alto rendimiento (hss)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000Y8VTXU{{</world>}}

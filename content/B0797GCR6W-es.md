@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye diferentes colores
 - Marca del producto: Play Doh
 - Los niños pueden mezclar, dar forma y compartir mientras les animas a que exploren y pongan a prueba sus capacidades multisensoriales
 - Incluye 24 botes
+- Incluye diferentes colores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0797GCR6W{{</world>}}

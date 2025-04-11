@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
+- Horma clásica
 - Inspiración deportiva y sostenibilidad
+- Cierre de cordones
 - Forro textil
 - Parte superior textil con refuerzos de ante sintético
-- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BZ7ZJJ28{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Stretch
 - Slim
-- Cierre con botón
 - Medium treated
+- Stretch
+- Cierre con botón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B2KM12LY{{</world>}}

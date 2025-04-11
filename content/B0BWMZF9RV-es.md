@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La edición Coleccionista incluye Manual de Usuario, Libro de Arte, Postal Exclusiva + Elemento Sorpresa, Banda Sonora, Cadena con Chapas de Identificación, Parche Termoadhesivo, Caja de Coleccionista
-- Mecánica de juego moderna que rinde homenaje a un gran clásico
 - Gana experiencia y habilidades utilizando el sigilo para acabar con tus enemigos
 - Engaña, adáptate y haz lo que sea necesario para escapar... incluso hazte pasar por un gato, si es necesario
 - Destapa un complot clandestino a la vez que escapas de una base enemiga en la que fuiste encarcelado por un crimen que no cometiste
+- Mecánica de juego moderna que rinde homenaje a un gran clásico
+- La edición Coleccionista incluye Manual de Usuario, Libro de Arte, Postal Exclusiva + Elemento Sorpresa, Banda Sonora, Cadena con Chapas de Identificación, Parche Termoadhesivo, Caja de Coleccionista
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BWMZF9RV{{</world>}}

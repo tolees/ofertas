@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha con cordón y bolsillo tipo canguro
 - Logotipo de la marca en el pecho
 - Mezcla de algodón de alta calidad
+- Capucha con cordón y bolsillo tipo canguro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09QH9XT8X{{</world>}}

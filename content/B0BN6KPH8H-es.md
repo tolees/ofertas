@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La talla XL es adecuada para niñas de 13 a 14 años
-- Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
-- Logotipo bordado
 - Tela de licra de algodón (220 gr)
+- Logotipo bordado
+- Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
+- La talla XL es adecuada para niñas de 13 a 14 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN6KPH8H{{</world>}}

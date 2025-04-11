@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Proyecto RECONSIDER
-- Chaleco acolchado Con relleno térmico de poliéster reciclado en tejido de nylon repelente al agua libre de PFCs
 - Con cierre y bolsillos Con cremallera, bajo elástico, bolsillos interiores, forro a contraste, y detalle de etiqueta decorativa
+- Chaleco acolchado Con relleno térmico de poliéster reciclado en tejido de nylon repelente al agua libre de PFCs
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9HM1BDW{{</world>}}

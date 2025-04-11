@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte ajustado
-- Rinde al máximo en el campo de entrenamiento
 - AEROREADY
-- Cintura elástica de talle medio con cordón
 - Punto doble 100% poliéster reciclado
+- Cintura elástica de talle medio con cordón
+- Rinde al máximo en el campo de entrenamiento
+- Corte ajustado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4FL1GMS{{</world>}}

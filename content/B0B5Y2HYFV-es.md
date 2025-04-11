@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Iluminación Potente y Uniforme: Cada panel LED de 60x60 cm ofrece 44W de potencia y 3800 lúmenes, proporcionando una luz brillante y uniforme en tres tonalidades de blanco (3000K, 4000K, 6000K), ideal para oficinas, salas de conferencia, escuelas y hospitales.
-- Confort Visual Óptimo: Equipados con difusores prismáticos y un índice de deslumbramiento bajo (UGR≤19), estos paneles aseguran un ambiente visual cómodo y sin deslumbramientos, mejorando el rendimiento laboral y el bienestar general en espacios de trabajo y estudio.
 - Alta Calidad y Ahorro Energético: Con un driver PHILIPS de alta calidad, los paneles garantizan un encendido inmediato y sin parpadeos, además de un consumo energético eficiente. Su diseño ultra-delgado y moderno se adapta a cualquier entorno, ofreciendo una solución de iluminación elegante y duradera.
+- Confort Visual Óptimo: Equipados con difusores prismáticos y un índice de deslumbramiento bajo (UGR≤19), estos paneles aseguran un ambiente visual cómodo y sin deslumbramientos, mejorando el rendimiento laboral y el bienestar general en espacios de trabajo y estudio.
+- Iluminación Potente y Uniforme: Cada panel LED de 60x60 cm ofrece 44W de potencia y 3800 lúmenes, proporcionando una luz brillante y uniforme en tres tonalidades de blanco (3000K, 4000K, 6000K), ideal para oficinas, salas de conferencia, escuelas y hospitales.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B5Y2HYFV{{</world>}}

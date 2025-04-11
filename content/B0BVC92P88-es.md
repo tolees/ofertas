@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elevada precisión de las mediciones: dos decimales
 - Aumenta las probabilidades de embarazo al determinar los días fértiles
 - Perfecto para medir la temperatura basal
+- Elevada precisión de las mediciones: dos decimales
 - punta flexible
 - desconexión automática
 

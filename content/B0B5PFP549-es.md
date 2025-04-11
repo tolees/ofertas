@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aventuras
-- Serie de animación japonesa
-- Shonen
 - Dragon Ball Z
 - Acción
+- Serie de animación japonesa
+- Shonen
+- Aventuras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B5PFP549{{</world>}}

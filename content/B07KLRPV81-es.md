@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Más rápido y dinámico que otros juegos de cartas
-- Richard Garfield: Un nombre, una garantía
 - Con una compra mínima puedes jugar competitivamente.
-- Apto tanto para nuevos jugadores como para jugadores veteranos
 - Cada mazo es único, no existen dos copias iguales en el mundo
+- Richard Garfield: Un nombre, una garantía
+- Más rápido y dinámico que otros juegos de cartas
+- Apto tanto para nuevos jugadores como para jugadores veteranos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KLRPV81{{</world>}}

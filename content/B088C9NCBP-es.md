@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Visera redondeada pespunteada
+- Etiqueta de G-Star RAW Originals tejida en el centro delantero
 - Ojales de ventilación
 - Cintas reforzadas en las costuras interiores
 - Tira ajustable por detrás
-- Visera redondeada pespunteada
-- Etiqueta de G-Star RAW Originals tejida en el centro delantero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B088C9NCBP{{</world>}}

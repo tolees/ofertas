@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conjunto de pijama de tres piezas a juego con dos camisetas de manga larga y pantalones con puños acanalados
-- Por seguridad, la ropa de dormir debe ser resistente al fuego o ajustada, nuestra ropa de dormir de poliéster/forro polar es resistente al fuego y libre de tratamientos químicos
 - Bolsillos funcionales y cordones
 - Calidad de Carter, diarios y embalaje sin complicaciones
+- Por seguridad, la ropa de dormir debe ser resistente al fuego o ajustada, nuestra ropa de dormir de poliéster/forro polar es resistente al fuego y libre de tratamientos químicos
 - Sin mangas
+- Conjunto de pijama de tres piezas a juego con dos camisetas de manga larga y pantalones con puños acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MFFW1IG{{</world>}}

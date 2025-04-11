@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuenta con cabeza y manos intercambiables y varios accesorios
-- Figura articulada del famoso icono popular del cine de terror Frankenstein
 - De la marca Jada
+- Cuenta con cabeza y manos intercambiables y varios accesorios
 - Mide 15 cm
+- Figura articulada del famoso icono popular del cine de terror Frankenstein
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B096ZKTFB7{{</world>}}

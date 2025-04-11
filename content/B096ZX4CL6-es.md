@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% Arábica
-- Intensidad: 5/5
-- Rico y Fuerte
+- CERTIFICADO RAINFOREST ALLIANCE: El café que obtenemos para este producto está certificado por Rainforest Alliance, lo que significa que no solo sabe bien, también es bueno. Con cada compra, está ayudando a cientos de agricultores y sus familias en todo el mundo, además, también está aportando su granito de arena a la selva tropical: beba mejor, hágalo mejor
 - 144 Almohadillas: 4 Paquetes x 36
 - Café arábica en cápsulas compatibles con Senseo* (*Senseo no está vinculado a Amazon). Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera.
-- CERTIFICADO RAINFOREST ALLIANCE: El café que obtenemos para este producto está certificado por Rainforest Alliance, lo que significa que no solo sabe bien, también es bueno. Con cada compra, está ayudando a cientos de agricultores y sus familias en todo el mundo, además, también está aportando su granito de arena a la selva tropical: beba mejor, hágalo mejor
 - Tostado y envasado en Bélgica
+- Intensidad: 5/5
+- Rico y Fuerte
+- 100% Arábica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096ZX4CL6{{</world>}}

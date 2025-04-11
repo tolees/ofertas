@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Mediasuela de EVA
-- Forro textil
-- Cierre de cordones
 - Horma clásica
+- Cierre de cordones
+- Forro textil
 - Parte textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De la marca Ferrari.
-- Las notas olfativas principales de este producto son fresco acuático, cítrico y oriental.
 - Contiene 125 ml.
+- Las notas olfativas principales de este producto son fresco acuático, cítrico y oriental.
+- De la marca Ferrari.
 - Este producto está indicado para hSombras.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un ajuste relajado y desenfadado
 - Una camiseta de tirantes clásica de algodón supersuave
 - Este producto es original Levis
 - Con el logotipo de Levis en el pecho
+- Un ajuste relajado y desenfadado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MXBFDF9{{</world>}}

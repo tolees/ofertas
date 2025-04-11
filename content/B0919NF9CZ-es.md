@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordones
 - Ajuste regular
 - Parte superior de cuero sintético
+- Cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0919NF9CZ{{</world>}}

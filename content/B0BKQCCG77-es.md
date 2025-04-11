@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello redondo
-- Comodidad
 - Pepe Jeans logotipo
+- Comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKQCCG77{{</world>}}

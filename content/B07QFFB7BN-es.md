@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PITT ARTIST PEN MANGA STARTER SET
-- 1 goma blanca y maniquí
-- manual de instrucciones e ideas creativas
-- 3 pitt artist pen
 - 1 lápiz grip
+- 3 pitt artist pen
+- 1 goma blanca y maniquí
+- PITT ARTIST PEN MANGA STARTER SET
+- manual de instrucciones e ideas creativas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07QFFB7BN{{</world>}}

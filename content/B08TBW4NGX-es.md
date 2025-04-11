@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sneakers de piel sintética con grabado floral con detalle Nueva colección Zapatos OI21 Desigual.
 - Do Not Wash
 - PU
 - Grabado floral
-- Sneakers de piel sintética con grabado floral con detalle Nueva colección Zapatos OI21 Desigual.
 - Desigual Zapatos - Sneakers de mujer de piel sintética negra con grabado floral.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

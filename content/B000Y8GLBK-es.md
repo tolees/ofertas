@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alicates: universal, boca larga y corte diagonal
-- Mango Protouch
 - De la marca Irwin
 - Juego de alicates
+- Mango Protouch
+- Alicates: universal, boca larga y corte diagonal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000Y8GLBK{{</world>}}

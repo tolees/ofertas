@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tacto seco
 - Cuello redondo
-- Interlock 1% poliéster reciclado
+- AEROREADY
 - Corte clásico
 - Tejido transpirable
-- AEROREADY
+- Tacto seco
+- Interlock 1% poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BP7NDCDJ{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Anchura del zapato: Normal
+- Revestimiento: Tela
 - Cierre: Cremallera
 - Material exterior: Cuero
-- Revestimiento: Tela
 - Material de la suela: Sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

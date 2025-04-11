@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - X-Cool
 - Bolsillos
-- Artículos entregados: 1x Helly Hansen Womens W Thalia Pant - Pant NAVY XS
 - Cintura elástica
+- Artículos entregados: 1x Helly Hansen Womens W Thalia Pant - Pant NAVY XS
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SD938KV{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Se pueden consumir en ensaladas, crudos o cocinados
-- Semillas para 3 dosis de cultivo de brotes
 - Brotes altamente energéticos con vitaminas A, B1, B2, E, K, y minerales como fósforo, calcio y hierro y muchas proteínas
+- Semillas para 3 dosis de cultivo de brotes
 - Son utilizados como remedio y preventivo de anemia, hemorragias y osteoporosis
 
 [🛒 Aquí!!!]({{< param buyurl >}})

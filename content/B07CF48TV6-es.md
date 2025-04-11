@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- En Garnier ayudamos a la conservación del medio ambiente apostando por un envase 100% reciclable
 - Consigue, gracias a sus activos libres de silicona, que el pelo se vea mucho más limpio y saludable, di adiós a las impurezas y consigue una sensación de frescor
 - Champú muy hidratante elaborado con extractos naturales, que limpia y nutre en profunidad sin apelmazar todo tipo de cabellos
-- En Garnier ayudamos a la conservación del medio ambiente apostando por un envase 100% reciclable
 - Formulado a base de Agua de Coco, rico en minerales, vitaminas y electrolitos ultra-hidratantes, y Aloe Vera, reconocido por sus propiedades hidratantes y refrescantes
 - Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado
 

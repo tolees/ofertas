@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela:Caucho
 - Material exterior:Sintético
+- Material de la suela:Caucho
 - Cierre:Sin Cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

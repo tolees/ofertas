@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reducción de residuos de envases: En OtterBox hemos tomado medidas concretas para reducir nuestro impacto medioambiental, y por eso fabricamos nuestros envases para la venta al por menor con materiales sostenibles que son totalmente reciclables y casi no utilizan plástico
+- Protege tu smartphone con la gama Symmetry delgada, la funda para iPhone 14 Pro Max que es fácil de instalar y resiste a las caídas 3 veces más que el estándar militar (MIL-STD-810G 516.6). La funda Symmetry de OtterBox cuenta con bordes elevados que protegen la cámara y la pantalla de tu smartphone de caídas importantes y arañazos
 - Fabricada con un 50 % de plástico reciclado, la gama Symmetry de OtterBox ofrece una protección óptima, elegante y con estilo contra arañazos y golpes
 - Tecnología antimicrobiana duradera que protege el exterior de la funda de las bacterias más comunes
 - Combina tu funda con un protector de pantalla OtterBox resistente a los arañazos y duradero para una protección total de 360 grados
-- Protege tu smartphone con la gama Symmetry delgada, la funda para iPhone 14 Pro Max que es fácil de instalar y resiste a las caídas 3 veces más que el estándar militar (MIL-STD-810G 516.6). La funda Symmetry de OtterBox cuenta con bordes elevados que protegen la cámara y la pantalla de tu smartphone de caídas importantes y arañazos
 - Compatible con iPhone 14 Pro Max
+- Reducción de residuos de envases: En OtterBox hemos tomado medidas concretas para reducir nuestro impacto medioambiental, y por eso fabricamos nuestros envases para la venta al por menor con materiales sostenibles que son totalmente reciclables y casi no utilizan plástico
 - La gama Symmetry delgada, la funda para iPhone 14 Pro Max que supera miles de horas de pruebas de caídas y garantiza la máxima protección para tu smartphone
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

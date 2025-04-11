@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado
-- Consigue, gracias a sus extractos naturales y sus activos libres de silicona, que el pelo quebradizo y sin vida se vea mucho más sano, nutrido y más vital
-- En Garnier ayudamos a la conservación del medio ambiente apostando por un envase 100% reciclable
 - Champú reconstituyente y reparador con los tesoros de miel, que nutre y refuerza en profundidad los cabellos más secos, dañados y quebradizos
+- Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado
+- En Garnier ayudamos a la conservación del medio ambiente apostando por un envase 100% reciclable
 - Formulado con Miel, Jalea Real y Propóleo, consigue un cabello más fuerte y reparado, gracias a su poder altamente nutritivo, sellador y fortificante para un pelo protegido de la raíz a las puntas
+- Consigue, gracias a sus extractos naturales y sus activos libres de silicona, que el pelo quebradizo y sin vida se vea mucho más sano, nutrido y más vital
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BYR799T{{</world>}}

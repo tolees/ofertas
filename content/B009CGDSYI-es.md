@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - El set de 25 brocas para metal HSS-Cobalt ProBox de Bosch Professional - rendimiento duradero para perforar acero inoxidable.
 - Adecuado para perforar agujeros en acero inoxidable
+- La aleación de cobalto y el HSS totalmente rectificado proporcionan resistencia al desgaste y protección térmica. Dos cutters y dos acanaladuras eliminan las virutas rápidamente para que las brocas duren todavía más
 - Suministro: 19 brocas helicoidales Bosch Professional HSS-Co para acero inoxidable - Ø 1/1,5/2/2,5/3/3,5/4/4,5/5/5,5/6/6,5/7/7,5/8/8,5/9/9,5/10 mm
 - Vástago de inserción cilíndrico compatible con portabrocas de tres mordazas
-- La aleación de cobalto y el HSS totalmente rectificado proporcionan resistencia al desgaste y protección térmica. Dos cutters y dos acanaladuras eliminan las virutas rápidamente para que las brocas duren todavía más
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009CGDSYI{{</world>}}

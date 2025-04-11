@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura regular
 - Estampado tropical de hojas efecto pintado con rotulador
+- Cintura regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B84BZNBT{{</world>}}

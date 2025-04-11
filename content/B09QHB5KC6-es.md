@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Este es un producto auténtico y original de Calvin Klein
-- Talle medio
 - Cintura metálica con logotipo Calvin Klein
+- Talle medio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QHB5KC6{{</world>}}

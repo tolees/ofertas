@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye disfraz de niño fuerte de lujo, multicolor, con mono corto y bigote
 - Edad 7-9, cintura 23.5-24.5 pulgadas, pecho 27-28.5 pulgadas, altura 52-57 pulgadas
 - Ten en cuenta que todos nuestros productos Smiffys siempre vienen en embalaje completo de la marca Smiffy.
 - Smiffys es un proveedor líder de disfraces y empresa familiar con una herencia de 125 años en disfraces, pelucas, maquillaje y accesorios.
+- Incluye disfraz de niño fuerte de lujo, multicolor, con mono corto y bigote
 - Todos nuestros disfraces infantiles están probados según las normas EN71 y ropa de dormir (seguridad). Esto es para proporcionar la total seguridad de que todos nuestros disfraces infantiles son seguros y adecuados para su propósito.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - DISPONIBLE EN 30 TONOS: F4 es para tonos de piel claros con un matiz rosa
+- 16 HORAS DE DESGASTE: Enriquecida con niacinamida, esta base es a prueba de pliegues, a prueba de vida y a prueba de manchas, al tiempo que proporciona 16 horas de desgaste duradero del día a la noche.
 - ACABADO MATE: Formulado para ser libre de aceite y brillo, dejando la piel con un acabado mate
 - VEGANO Y LIBRE DE CRUELDAD: No contiene ningún ingrediente derivado de animales. Aprobado por PETA como Animal Test Free
 - COBERTURA DE MEDIO A COMPLETO: Esta base de medio a completo es transpirable y construible, con un 20% más de pigmento que facilita la construcción y la mezcla dependiendo de la cobertura que desee.
-- 16 HORAS DE DESGASTE: Enriquecida con niacinamida, esta base es a prueba de pliegues, a prueba de vida y a prueba de manchas, al tiempo que proporciona 16 horas de desgaste duradero del día a la noche.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09XHX2PRC{{</world>}}

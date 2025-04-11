@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polo en roca de piqué de tinte para prendas con logotipo bordado en el pecho.
-- Fabricado con 100% algodón sostenible
 - PIQUE DE 210 GR
+- Fabricado con 100% algodón sostenible
+- Polo en roca de piqué de tinte para prendas con logotipo bordado en el pecho.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B649Z6YB{{</world>}}

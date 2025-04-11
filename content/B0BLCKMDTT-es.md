@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suela de goma
+- Entresuela de EVA-TPU
 - Silueta de bota baja
 - Plantilla SoftFoam+
-- Entresuela de EVA-TPU
-- Suela de goma
 - Parte superior de material mixto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

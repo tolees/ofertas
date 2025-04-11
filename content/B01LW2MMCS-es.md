@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Partículas de limpieza activa que actúan como imanes
-- Captura el exceso de maquillaje, impurezas y sebo en la piel
 - No enjuaga la cara, los ojos y los labios
+- Captura el exceso de maquillaje, impurezas y sebo en la piel
 - Purifica, limpia y elimina en un solo gesto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

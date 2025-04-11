@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Puerto gigabit ethernet
+- Tres antenas externas
 - Fácil configuración
 - Color Blanco
-- Tres antenas externas
 - WiFi Dual banda - 2,4 GHz y 1300 Mbps a 5 GHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})

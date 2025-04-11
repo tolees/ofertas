@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forma del tacón: plano
 - Cierre: cordones
+- Forma del tacón: plano
 - Suela: goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

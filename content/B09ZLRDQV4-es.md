@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La estética dieselpunk basada en el motor virtual 4
 - Mapas impecables llenos de desafíos para explorar
+- La estética dieselpunk basada en el motor virtual 4
 - Un sistema de combate arcade con cambio continuo entre tres armas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

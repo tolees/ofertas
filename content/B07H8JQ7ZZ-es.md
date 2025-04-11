@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ALTA PIGMENTACIÓN Y CREMOSIDAD: Alta pigmentación en una sola pasada, además, los colores y acabados son intensos. Gracias a la vitamina E tendrás unos labios hidratados y suaves, con textura cremosa y aterciopelada.
 - CONTENIDO: El producto viene contenido en un envase ligero para que lo puedas llevar donde quieras. El envase es plateado con un acabado de calidad, contiene 200 gr.
-- BEAUTY TIPS: Antes de comenzar a pintar los labios, tienes que colocar un bastoncillo en la boca, de tal modo que cada extremo se quede en las comisuras. Así, el algodón ejercerá de tope y evitará que apliques demasiado labial en la zona. Cuando se termina de maquillar el labio, se retira el bastoncillo y listo ya puedes disfrutar del maravilloso pintalabios de Viva la Diva.
 - CRUELTY FREE Y VEGANO: Estos labiales no están testados en animales (creemos firmemente en los derechos de los animales) y son veganos, ideales para cualquier ocasión con un acabado aterciopelado que se adaptará a todos tus looks.
+- BEAUTY TIPS: Antes de comenzar a pintar los labios, tienes que colocar un bastoncillo en la boca, de tal modo que cada extremo se quede en las comisuras. Así, el algodón ejercerá de tope y evitará que apliques demasiado labial en la zona. Cuando se termina de maquillar el labio, se retira el bastoncillo y listo ya puedes disfrutar del maravilloso pintalabios de Viva la Diva.
+- ALTA PIGMENTACIÓN Y CREMOSIDAD: Alta pigmentación en una sola pasada, además, los colores y acabados son intensos. Gracias a la vitamina E tendrás unos labios hidratados y suaves, con textura cremosa y aterciopelada.
 - VITAMINA E: Contiene vitamina E que aporta un efecto suavizante a tus labios. Estas barras de labios con consistencia cremosa y suave proporcionan un fantástico resultado. Gracias a la vitamina E tendrás unos labios muy suaves.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - De color negro y amarillo
-- Se apunta con el láser al sitio donde queremos hacer una medición, y esta aparecerá en la pantalla digitalizada
 - Marca: Stanley
+- Se apunta con el láser al sitio donde queremos hacer una medición, y esta aparecerá en la pantalla digitalizada
 - Emite una señal de láser a un objetivo y se calcula el tiempo que tarda dicha señal en ir y volver al medidor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

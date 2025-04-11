@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sport Zapatillas unisex de corte bajo
 - Parte superior de material sintético y suela de goma
+- Sport Zapatillas unisex de corte bajo
 - Logotipo de Omini Kappa en la cadera y en la parte posterior, etiqueta logotipo de Omini Kappa en la lengüeta, letras Kappa en la plantilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

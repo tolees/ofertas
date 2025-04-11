@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - After Shave, gel para después del afeitado, con tres efectos sobre la piel: refrescante, hidratante y calmante
-- Contiene Aloe Vera 100% puro, cuya combinación con emolientes empleados proporcionan un acabado suave y agradable tras el afeitado
-- La textura es ligera de fácil extensibilidad y rápida absorción. El resultado inmediato es una sensación de frescor en el rostro
 - Utilizar tras el afeitado. Aplicar mediante un suave masaje sobre rostro y cuello con la piel limpia. Evitar el contacto con los ojos
 - Este After Shave suaviza y revitaliza la piel. También ayuda a las pieles normales a retener su hidratación
+- La textura es ligera de fácil extensibilidad y rápida absorción. El resultado inmediato es una sensación de frescor en el rostro
+- Contiene Aloe Vera 100% puro, cuya combinación con emolientes empleados proporcionan un acabado suave y agradable tras el afeitado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00ICMT7A2{{</world>}}

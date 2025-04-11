@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Orificios de ventilación: 26. Túnel de viento
 - Certificado CE EN1078. Peso: aprox. 295 gramos en talla M.
-- Construcción de policarbonato In-Mold.
 - SL Roll Cage, MIPS
+- Orificios de ventilación: 26. Túnel de viento
 - Sistema de ajuste Roc Loc 5.
+- Construcción de policarbonato In-Mold.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MAUG7W4{{</world>}}

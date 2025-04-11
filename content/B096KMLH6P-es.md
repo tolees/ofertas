@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Malla insole
 - Eco sintético ante
+- Malla insole
 - PU reciclado
-- Rubber outsole
 - PU – Synthetic SUEDE
+- Rubber outsole
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096KMLH6P{{</world>}}

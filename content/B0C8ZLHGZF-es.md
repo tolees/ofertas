@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rayas horizontales
 - Poliéster elástico
 - Hebilla cuadrada
+- Rayas horizontales
 - Acabado texturizado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

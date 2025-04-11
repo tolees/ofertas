@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para picar bombos.
 - Trípode corto para micrófono
-- Base extra pesada con patas cortas.
 - Brazo telescópico con longitud máxima de 88 cm.
+- Base extra pesada con patas cortas.
+- Ideal para picar bombos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MAVP89Y{{</world>}}

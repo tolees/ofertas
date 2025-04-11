@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cerrado por siete botones en la parte delantera
 - Volantes en falda y cuello
 - Con cintura de panel ahumado
-- Cerrado por siete botones en la parte delantera
 - Mangas largas transparentes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

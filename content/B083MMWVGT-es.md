@@ -30,11 +30,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - TIPO DE SUELA: Antideslizante y Cómoda
 - TALLAS: Con las chanclas Havaianas siempre hay que tener en cuenta que talla BR talla EU, independientemente de lo que muestre la suela del producto
-- HECHAS EN BRASIL: Las chanclas Havaianas están fabricadas 100% en Brasil, lo que garantiza su calidad y autenticidad
 - MATERIAL EXTERIOR: Sintético | Material de la Suela: Caucho
-- TALLA y COLOR DE LA SANDALIA: Negro/Negro | 45/46 EU
 - GÉNERO: Chanclas para Hombre y Mujer
 - TIPO DE TACÓN: Plano | ALTURA DEL TACON: 1,5CM
+- HECHAS EN BRASIL: Las chanclas Havaianas están fabricadas 100% en Brasil, lo que garantiza su calidad y autenticidad
+- TALLA y COLOR DE LA SANDALIA: Negro/Negro | 45/46 EU
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083MMWVGT{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Distancia axial de 180 y 230 mm
+- Conexión del codo: DN100 (110 mm), DN90 (90 mm)
+- A completar con una placa de accionamiento Roca compatible (no incluida).
 - Profundidad mínima de 107mm, altura 1.190mm
 - Recomendado para la instalación de In-Wash Inspira suspendido
-- Distancia axial de 180 y 230 mm
-- A completar con una placa de accionamiento Roca compatible (no incluida).
-- Conexión del codo: DN100 (110 mm), DN90 (90 mm)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B97XY3MH{{</world>}}

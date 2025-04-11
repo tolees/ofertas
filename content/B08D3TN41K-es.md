@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Algodón ecológico respetuoso con la piel
-- Un clic en el nombre de la marca lleva a la tienda urban classics y a la moda de la calle
+- Inserciones en los hombros en color de contrast
 - Puños a rayas en el cuello, el dobladillo y los puños
 - Chaqueta deportiva para mujer de estilo universitario con tira de botones a juego
-- Inserciones en los hombros en color de contrast
+- Un clic en el nombre de la marca lleva a la tienda urban classics y a la moda de la calle
+- Algodón ecológico respetuoso con la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08D3TN41K{{</world>}}

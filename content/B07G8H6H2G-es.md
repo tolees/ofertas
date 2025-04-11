@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ahorre ahora: ahorre hasta un 90% en comparación con el original - tinta de alta calidad, colores brillantes garantizados e impresiones sin rayas en calidad original
-- Compatible con: Pixma TR7500 Series / TR7520 / TR7550 / TR8500 Series / TR8520 / TR8550 / TR8600 Series / TR8620 / TR8650 / TS6100 Series / TS6150 / TS615151 TS62. Serie 00 / TS6220 / TS6220 blanco / TS6240 / TS6241 / TS6250 / TS6251
-- TS6300 Series / TS6320 / TS6350 / TS6350 a / TS6350 Series / TS6351 / TS6351 a / TS705 / TS705 A / TS9500 Series / TS9520 / TS9521 C / TS9540 / TS954 1 C / TS9550 / TS9551 C
 - Contenido: 1 x negro PGBK (26 ml), 1 x negro BK (12 ml), 1 x cian (12 ml), 1 x magenta (12 ml), 1 x amarillo (12 ml)
+- TS6300 Series / TS6320 / TS6350 / TS6350 a / TS6350 Series / TS6351 / TS6351 a / TS705 / TS705 A / TS9500 Series / TS9520 / TS9521 C / TS9540 / TS954 1 C / TS9550 / TS9551 C
+- Compatible con: Pixma TR7500 Series / TR7520 / TR7550 / TR8500 Series / TR8520 / TR8550 / TR8600 Series / TR8620 / TR8650 / TS6100 Series / TS6150 / TS615151 TS62. Serie 00 / TS6220 / TS6220 blanco / TS6240 / TS6241 / TS6250 / TS6251
+- Ahorre ahora: ahorre hasta un 90% en comparación con el original - tinta de alta calidad, colores brillantes garantizados e impresiones sin rayas en calidad original
 - Gran alcance: sustituye al cartucho de tinta original PGI-580 / CLI-581 con chip actual e indicador de nivel de llenado. Alcance de páginas: PGBK hasta 600 páginas (DIN A4 con una cobertura del 5%)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

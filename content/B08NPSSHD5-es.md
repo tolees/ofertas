@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela vaquera súper suave
 - Cadera: ajustada Piernas: X-slim fit
-- Cintura ajustable
 - Composición del material: 72% algodón, 26% poliéster, 2% elastano
+- Tela vaquera súper suave
+- Cintura ajustable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08NPSSHD5{{</world>}}

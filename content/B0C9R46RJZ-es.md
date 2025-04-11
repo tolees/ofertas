@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 94% algodón, 6% elastano
 - Leggings largos con logo bordado en la parte inferior izquierda. Ajuste delgado.
+- 94% algodón, 6% elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9R46RJZ{{</world>}}

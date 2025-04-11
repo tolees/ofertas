@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fáciles de usar y de guardar.
 - Ideales para decoración del hogar.
 - Ideales para decoración del hogar.
 - Adecuada para proyectos artísticos y manualidades.
+- Fáciles de usar y de guardar.
 - Ideales para decoración del hogar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

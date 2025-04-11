@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mezcla de algodón orgánico elástico
 - Cuello en V
+- Mezcla de algodón orgánico elástico
 - Parche de bandera Tommy Jeans en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

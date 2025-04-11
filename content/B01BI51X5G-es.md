@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sentirse bien con uno mismo nunca había sido tan fácil.
 - Los mejores productos para el cuidado y la salud personal.
+- Sentirse bien con uno mismo nunca había sido tan fácil.
 - Liquid Camouflage High Coverage Concealer #020-Light Beige
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

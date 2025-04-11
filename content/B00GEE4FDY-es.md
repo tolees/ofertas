@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protección solar Omni-Shade UPF 30
 - Refrigeración activada por la transpiración Omni-Freeze Zero
+- Protección solar Omni-Shade UPF 30
 - Tejido Omni-Wick
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La gama Solaz se compone de vinos afrutados y modernos, perfectos trasmisores del carácter de nuestro viñedo familiar
+- Uvas vendimiadas aprovechando las bajas temperaturas de la noche; fermentando a temperatura controlada de 14ºC
 - Los viñedos de Solaz están ubicados en el municipio de Malpica del Tajo (Toledo), dentro de la indicación Geográfica Protegida (IGP) Vinos de la Tierra de Castilla
 - En nariz, intenso con aromas herbáceos frescos con buen equilibrio de fruta y notas tropicales; en boca es sabroso con viva acidez; final persistente y afrutado
-- La gama Solaz se compone de vinos afrutados y modernos, perfectos trasmisores del carácter de nuestro viñedo familiar
 - Apariencia: De color amarillo pajizo, con reflejos verdosos, brillante
-- Uvas vendimiadas aprovechando las bajas temperaturas de la noche; fermentando a temperatura controlada de 14ºC
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B093M26KRG{{</world>}}

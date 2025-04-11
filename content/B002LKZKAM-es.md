@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Color: Beige
+- Cantidad por paquete: 1 pieza
 - Dimensiones del embalaje (L x W x H): 13,97 zm x 32,766 zm x 4,318 zm
 - Peso del paquete: 1,45 libras
-- Cantidad por paquete: 1 pieza
-- Color: Beige
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002LKZKAM{{</world>}}

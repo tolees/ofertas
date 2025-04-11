@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las diferentes partes del dinosaurio estarán escondidas dentro de los locos compuestos… ya puedes construirlo e iniciar las aventuras.
 - Los nuevos Smashers vienen con increíbles efectos de luz. Lánzalos y descrubre las diferentes sorpresas en su interior.
 - Construye tu dinosaurio y mira como brilla en la oscuridad.
-- Hay 3 dinosaurios diferentes.
 - Producto distribuido oficialmente por Bizak. Servicio atención al cliente disponible todo el año (sat@bizak.es)
+- Las diferentes partes del dinosaurio estarán escondidas dentro de los locos compuestos… ya puedes construirlo e iniciar las aventuras.
+- Hay 3 dinosaurios diferentes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5CP2H7H{{</world>}}

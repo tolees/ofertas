@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con vitamina C, que protege el organismo contribuyendo al funcionamiento normal del sistema inmunitario
-- Por 3 comprimidos: Vitamina C 45mg 56 %VRN Por 4 comprimidos: Vitamina C 60mg 75 %VRN
 - Comprimidos de la tos de Termatuss para chupar con sabor a frambuesa, indicados para adultos y niños a partir de 5 años
-- Termatuss comprimidos tiene fórmula con vitamina c, camomila, salvia, tomillo, malvavisco y menta
 - Suaviza el tracto respiratorio, aliviando la tos, el picor y la irritación de garganta, además de estimular la secreción de moco, facilitando la expectoración por su contenido en camomila y salvia
-- Comprimidos de Termatuss tiene propiedades calmantes en caso de cosquilleo o irritación en la garganta y faringe por su contenido en malvavisco y menta
+- Con vitamina C, que protege el organismo contribuyendo al funcionamiento normal del sistema inmunitario
+- Termatuss comprimidos tiene fórmula con vitamina c, camomila, salvia, tomillo, malvavisco y menta
 - Distribuido por: GlaxoSmithKline Consumer Healtncare, S.A. C/Severo Ochoa 2 28760 - Tres Cantos, Madrid
+- Comprimidos de Termatuss tiene propiedades calmantes en caso de cosquilleo o irritación en la garganta y faringe por su contenido en malvavisco y menta
+- Por 3 comprimidos: Vitamina C 45mg 56 %VRN Por 4 comprimidos: Vitamina C 60mg 75 %VRN
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08P5V9BGZ{{</world>}}

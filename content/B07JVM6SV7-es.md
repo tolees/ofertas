@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SLIM
-- Casual. Cómodo. Hecho para durar
 - Better Cotton Initiative (BCI). Fabricado con técnicas menos agua
+- Casual. Cómodo. Hecho para durar
+- SLIM
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JVM6SV7{{</world>}}

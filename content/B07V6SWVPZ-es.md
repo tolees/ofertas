@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estuche mediano con cremallera
-- 0.08kg peso x 1L volumen
 - 6.5 altura x 22 ancho x 6.5 profundidad cm
+- 0.08kg peso x 1L volumen
+- Estuche mediano con cremallera
 - 100% Poliéster
 - Hidrófugo
 

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Secado rápido, baja intensidad de olor, tinta resistente a la luz
 - Marcador de tinta permanente, base alcohol, no tóxico
 - Punta de fibra acrílica: 4,9 mm; trazo: 1,7 mm
 - Larga duración: no se seca aunque se quede destapado durante un mes
+- Secado rápido, baja intensidad de olor, tinta resistente a la luz
 - Punta resistente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuenta con trabillas para cinturón en la cintura
 - Cuenta con un diseño ligero
+- Cuenta con trabillas para cinturón en la cintura
 - Tiene detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

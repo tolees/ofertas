@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Sintético
-- Tipo de tacón: Plano
-- Suela AHAR para tracción y durabilidad
-- Plantilla OrthoLite X-30
-- La parte superior de malla jacquard ligera proporciona una transpirabilidad ideal
 - Cierre: Cordones
+- Suela AHAR para tracción y durabilidad
+- Tipo de tacón: Plano
+- La parte superior de malla jacquard ligera proporciona una transpirabilidad ideal
+- Plantilla OrthoLite X-30
+- Material exterior: Sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5Y5RDT6{{</world>}}

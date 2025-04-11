@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Nuevo chipset que admite una tasa de refresco de 60Hz.
 - Múltiples accesorios para usar tu band de una nueva manera: clip en zapatillas para correr, colgante, correas…
 - Seguimiento del nivel de SpO2 durante todo el día, monitoreo continuo del sueño, monitoreo de la frecuencia cardíaca las 24 horas, monitoreo de la respiración del sueño…
-- +150 modos de entrenamiento para registrar su ritmo cardíaco y calorías quemadas.
 - Hasta 16 días de duración de la batería para uso diario normal y carga en 1 hora.
+- +150 modos de entrenamiento para registrar su ritmo cardíaco y calorías quemadas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CD2MP728{{</world>}}

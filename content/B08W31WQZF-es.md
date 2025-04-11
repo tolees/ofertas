@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este artículo sólo se vende por revendedor
 - Hay un modelo más nuevo de este artículo disponible
+- Este artículo sólo se vende por revendedor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08W31WQZF{{</world>}}

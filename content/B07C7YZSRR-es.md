@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fríe de forma más saludable y sin olores
-- Cajón para freír con una capacidad de 2 l, cómodo y fácil de extraer
-- Freidora saludable sin aceite
 - Potencía : 1000 w
+- Fríe de forma más saludable y sin olores
+- Freidora saludable sin aceite
 - Cestillo con asa - temporizador de 30 min; con desconexión automática
+- Cajón para freír con una capacidad de 2 l, cómodo y fácil de extraer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07C7YZSRR{{</world>}}

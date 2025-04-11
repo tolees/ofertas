@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cada juego de construcción puede combinarse con el resto de la línea Mechanics Gravity. El sistema "Easy Combo" permite construir varios modelos y conectarlos con 3 movimientos
-- El cañón magnético utiliza la fuerza de atracción para acelerar y empujar las esferas. El movimiento se genera sin necesidad de motores eléctricos ni baterías
-- Aprende los fundamentos del magnetismo y utilízalos para crear reacciones magnéticas controladas. Estimula la creatividad, la imaginación y el intelecto
-- Adecuado para niños a partir de 7 años. Consta de 96 piezas que pueden combinarse entre sí
 - La caja incluye esferas metálicas, varillas magnéticas y elementos mecánicos de plástico para construir un cañón magnético. Lanza las esferas, marca gol y desafía a tus amigos
+- El cañón magnético utiliza la fuerza de atracción para acelerar y empujar las esferas. El movimiento se genera sin necesidad de motores eléctricos ni baterías
 - La serie Geomag, ganadora de numerosos premios, ayuda a los niños de todas las edades a desarrollar la imaginación y la curiosidad a través de la ciencia de las construcciones magnéticas
+- Cada juego de construcción puede combinarse con el resto de la línea Mechanics Gravity. El sistema "Easy Combo" permite construir varios modelos y conectarlos con 3 movimientos
+- Adecuado para niños a partir de 7 años. Consta de 96 piezas que pueden combinarse entre sí
+- Aprende los fundamentos del magnetismo y utilízalos para crear reacciones magnéticas controladas. Estimula la creatividad, la imaginación y el intelecto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B094N8VTLZ{{</world>}}

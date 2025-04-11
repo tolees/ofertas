@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La fórmula de este Exfoliante Facial contiene partículas exfoliantes de celulosa natural que desobstruyen los poros, eliminan la suciedad y el sebo atascado limpiando la piel
-- Este Exfoliante Facial puede utilizarse en pieles con puntos negros, ya que limpia la piel y ayuda a reducir la apariencia de los poros
 - Está clínicamente probado que este exfoliante puede utilizarse en la cara para ayudar a combatir los puntos negros al contener ácido salicílico
+- Este Exfoliante Facial puede utilizarse en pieles con puntos negros, ya que limpia la piel y ayuda a reducir la apariencia de los poros
 - El Exfoliante Facial Blackhead Eliminating de uso diario ayuda a eliminar los puntos negros y a prevenir su aparición desde la primera aplicación
 - En la cara existen zonas con tendencia a los puntos negros, por lo que se debe insistir en ellas aplicando el exfoliante en el rostro húmedo cada día
+- La fórmula de este Exfoliante Facial contiene partículas exfoliantes de celulosa natural que desobstruyen los poros, eliminan la suciedad y el sebo atascado limpiando la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01JY27KYS{{</world>}}

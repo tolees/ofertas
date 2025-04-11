@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bajo recto
-- Cuello de pico acanalado
-- Estampado de G-Star RAW en el pecho
 - Manga corta
 - Etiqueta de G-Star RAW tejida en la costura lateral inferior
+- Bajo recto
+- Estampado de G-Star RAW en el pecho
+- Cuello de pico acanalado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09J97CZHW{{</world>}}

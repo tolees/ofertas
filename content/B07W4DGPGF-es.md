@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- El sensor óptico más avanzado para gaming: HERO 2 ofrece un seguimiento de más de 500 IPS, hasta 32 000 ppp y una calibración precisa del sensor sin suavizado, aceleración o filtrado
 - Mejor rendimiento: Nuestro ratón inalámbrico ganador de campeonatos mejorado; ahora con sondeo 4K, USB-C, (3) pilas con duración de 95 horas y compatible con POWERPLAY, todo ello son 60 g de peso
 - Pies de ratón de PTFE sin aditivos: disfruta de un deslizamiento suave y una conexión adecuada con el juego gracias a los pies de ratón de PTFE sin aditivos
-- Ratón Inalámbrico Gaming rápido, preciso: ícono de juegos profesionales, ahora más rápido y preciso; ideado en conjunto con los mejores profesionales en deportes electrónicos y creado para ganar
 - Precisión profesional: los interruptores híbridos óptico-mecánicos LIGHTFORCE dan precisión y fiabilidad a nivel profesional y accionamiento óptico de latencia ultrabaja con un clic nítido, táctil
-- El sensor óptico más avanzado para gaming: HERO 2 ofrece un seguimiento de más de 500 IPS, hasta 32 000 ppp y una calibración precisa del sensor sin suavizado, aceleración o filtrado
+- Ratón Inalámbrico Gaming rápido, preciso: ícono de juegos profesionales, ahora más rápido y preciso; ideado en conjunto con los mejores profesionales en deportes electrónicos y creado para ganar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W4DGPGF{{</world>}}

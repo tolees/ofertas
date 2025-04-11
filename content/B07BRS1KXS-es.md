@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El diseño robusto garantiza una larga vida útil de la amoladora angular
-- Incluye: GWS 880, en caja de cartón
 - Control óptimo de la herramienta gracias al perímetro reducido de la empuñadura y al diseño ergonómico
+- Incluye: GWS 880, en caja de cartón
+- El diseño robusto garantiza una larga vida útil de la amoladora angular
 - Fácil de usar en espacios reducidos gracias a la carcasa compacta del engranaje
 - Amoladora angular GWS 880 de Bosch Professional con 880 W de potencia y un diámetro de disco de 125 mm
 

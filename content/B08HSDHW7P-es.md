@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tamaño del disco: 115 mm
 - Plataforma powershare: batería extraíble e intercambiable con todas las herramientas eléctricas y de jardín de la gama 20v de worx
 - No incluye batería ni cargador
 - Tecnología Brushless (sin escobillas): 50% más de autonomía, 25% más de potencia, 10 veces mayor vida del motor
 - Muy compacta para un manejo óptimo
+- Tamaño del disco: 115 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08HSDHW7P{{</world>}}

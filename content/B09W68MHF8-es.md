@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Antideslizante
-- Forma del talón: plano
 - Ancho del zapato: estrecho
+- Forma del talón: plano
+- Antideslizante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09W68MHF8{{</world>}}

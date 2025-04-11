@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pantalones de mezclilla de talle alto con entrepierna extra larga
 - Fabricado con prácticas sostenibles y un mínimo del 20% de materiales reciclados
-- Nuevos ajustes de esta temporada
 - Mezclilla cruda suave
+- Nuevos ajustes de esta temporada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS57XM6B{{</world>}}

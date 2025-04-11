@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RIVERBOAT
-- Juego de tablero
-- Juego de mesa
-- RIVERBOAT
 - Demuestra tus habilidades para gestionar tus cosechas y trabajadores
+- RIVERBOAT
+- Juego de mesa
+- Juego de tablero
+- RIVERBOAT
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0788XQ5QW{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SPORT; Zapatillas técnicas de entrenamiento KOMBAT unisex de corte bajo
-- Logotipo de Omini en la parte trasera y etiqueta KOMBAT System Pro en la pestaña
 - Parte superior de malla de poliéster y materiales termosellados, suela de goma y entresuela de material sintético Phylon
+- Logotipo de Omini en la parte trasera y etiqueta KOMBAT System Pro en la pestaña
+- SPORT; Zapatillas técnicas de entrenamiento KOMBAT unisex de corte bajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5RNC8PW{{</world>}}

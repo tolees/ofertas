@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juega solo o con tus amigos
-- Vence los comandos de voz y pasa de nivel
 - 7 modoes + 4 niveles
+- Vence los comandos de voz y pasa de nivel
+- Juega solo o con tus amigos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01GEC4FZS{{</world>}}

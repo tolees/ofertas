@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- TPR Outsole
 - PU Superior
 - Malla textil lining
 - Insole reciclado y transpirable
+- TPR Outsole
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN95P97V{{</world>}}

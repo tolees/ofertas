@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las dimensiones y especificaciones de todos los oculares se pueden encontrar en el pdf debajo de la pestaña "manuales"
-- Campo muy grande y afilado de 82°
-- Impermeable, purgado de argón y sellado contra el polvo
-- Todos los oculares de esta serie son parfocales
 - EMD totalmente multicapa con bordes de lente ennegrecidos
+- Las dimensiones y especificaciones de todos los oculares se pueden encontrar en el pdf debajo de la pestaña "manuales"
+- Todos los oculares de esta serie son parfocales
+- Impermeable, purgado de argón y sellado contra el polvo
+- Campo muy grande y afilado de 82°
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004QIFCDW{{</world>}}

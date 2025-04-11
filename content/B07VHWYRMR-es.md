@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cordones
-- Suela de plataforma
+- Vans branding to the tongue
 - Suela de goma, parte superior de lona
 - Vans Logotipo en el talón
-- Vans branding to the tongue
+- Suela de plataforma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VHWYRMR{{</world>}}

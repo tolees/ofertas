@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Logotipo de Aston Martin impreso en el pecho
+- Cuello redondo
 - Camiseta de ajuste clásico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

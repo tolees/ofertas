@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Amortiguación FLYTEFOAM
 - Parte superior de malla técnica
+- Amortiguación FLYTEFOAM
 - Tecnología LITETRUSS
 
 [🛒 Visítala!!!]({{< param buyurl >}})

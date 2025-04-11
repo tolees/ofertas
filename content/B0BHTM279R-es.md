@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sin mangas
+- Cuello redondo
 - Bajo recto
 - Estampado de G-Star RAW en la parte inferior delantera
-- Cuello redondo
-- Sin mangas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BHTM279R{{</world>}}

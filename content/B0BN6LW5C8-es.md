@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ancho del zapato: Mediano
 - Forma del tacón: plano
 - No resistente al agua
-- Ancho del zapato: Mediano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN6LW5C8{{</world>}}

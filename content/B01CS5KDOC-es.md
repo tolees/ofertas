@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuida tu cabello ofreciendo una extraordinaria hidratación
 - Producto para tu cuidado personal, marca: Instituto Español
 - Sensación suave y textura cremosa
+- Cuida tu cabello ofreciendo una extraordinaria hidratación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CS5KDOC{{</world>}}

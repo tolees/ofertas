@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Care Label:
 - materialFabricComposition: 85% Polyester, 15% Cotton
-- Coatigan
 - Slim Fit
+- Care Label:
 - Spread Collar
+- Coatigan
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0769NVV3F{{</world>}}

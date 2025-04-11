@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puntera perforada
 - Suela de goma
-- Puntera reforzada
 - Parte superior de cuero
+- Puntera reforzada
+- Puntera perforada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGD1LKGK{{</world>}}

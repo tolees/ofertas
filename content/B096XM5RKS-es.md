@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto distribuido oficialmente en España por BIZAK.
 - 4 modelos para coleccionar
-- 4 modelos para coleccionar
-- Figuras inspiradas en el juego de plataforma de moda: Among US; es un regalo ideal para los fanáticos del juego
-- Incluye 2 figuras, 7 accesorios incluyendo las manos
 - Figuras fabricadas en material PVC de óptima calidad; decora tu habitación con ellas
+- 4 modelos para coleccionar
+- Incluye 2 figuras, 7 accesorios incluyendo las manos
+- Producto distribuido oficialmente en España por BIZAK.
+- Figuras inspiradas en el juego de plataforma de moda: Among US; es un regalo ideal para los fanáticos del juego
 - Servicio atención al cliente disponible todo el año (sat@bizak.es).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

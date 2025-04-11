@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con todas las radios Motorola Talkabout Programable por PC Dimensiones 116 x 59 x 41 mm
 - LCD retroiluminado Bloqueo de teclado Alerta de nivel de bateria Potencia 500 mw
-- MOTOROLA XT-460 Walkie Talkie uso libre PMR446 con display 8 canales
+- Compatible con todas las radios Motorola Talkabout Programable por PC Dimensiones 116 x 59 x 41 mm
 - 8 canales / 38 subtonos Alcance: 10 km optimas condiciones Autonomía: 20 horas en recepcion. Estandar Militares MIL810 Funcion VOX
 - Roger Beep": tonalidad y confirmación Carcasa antigolpes. Toma de Auricular 2 pins Encriptacion por voz
+- MOTOROLA XT-460 Walkie Talkie uso libre PMR446 con display 8 canales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00EDLEGYS{{</world>}}

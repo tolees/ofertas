@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Camisa clásica ajustada de mezclilla
 - Fabricado con tecnología de lavado más sabia para un uso responsable del agua
 - Fabricado con 100% algodón sostenible
-- Camisa clásica ajustada de mezclilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS5H3BHK{{</world>}}

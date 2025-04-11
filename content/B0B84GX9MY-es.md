@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fit: Evasé
-- Bordado suizo efecto flores
-- Escote redondo con botón en la espalda
 - Cut-out amplio en la espalda con lazada
+- Escote redondo con botón en la espalda
+- Bordado suizo efecto flores
 - Manga corta abullonada con elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

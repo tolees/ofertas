@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ☑ Homologado según ormativa UNE-EN 14619:2015
 - ☑ Estructura PLEGABLE para fácil transporte. Composición: 50% aluminio y 50% acero para máxima resistencia y durabilidad.
+- ☑ Homologado según ormativa UNE-EN 14619:2015
+- ☑ Ruedas de 145mm 85a con núcleo de PP endurecido. ABEC 5. Dirección premium THREADSET giro 360º
 - ☑ Manillar regulable en altura de 33cm de ancho con puños de foam para mejorar el agarre. Altura máxima del manillar: 87cm
 - ☑ Tabla fabricada 100% en aluminio reforzado, soportando un peso máximo de 85kg (peso del patinete: 2,6kg!!). Medidas base:100x480x2.8mm
-- ☑ Ruedas de 145mm 85a con núcleo de PP endurecido. ABEC 5. Dirección premium THREADSET giro 360º
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08MWK1VJG{{</world>}}

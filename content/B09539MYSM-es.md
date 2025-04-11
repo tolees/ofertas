@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Grosor de la caja de 10,1 mm/Diámetro de la caja: 36 mm
-- Correa de silicona blanca con diseño petit piqué
 - 5 ATM de resistencia al agua se puede utilizar en la ducha o para nadar, pero no para bucear en aguas profundas
+- Correa de silicona blanca con diseño petit piqué
 - Movimiento de cuarzo de tres manecillas
 - Esfera Blanca
 

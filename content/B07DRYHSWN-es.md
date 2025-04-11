@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juega como el detective Pierce; investiga la muerte de la familia Hawkins en la isla de Darkwater
+- Te veras envuelto en un mundo de conspiraciones, sectas y horrores cósmicos
 - Las habilidades y relaciones de Pierce que desarrolles con otros personajes tendrán impacto en la investigación
 - Cuestiónate la realidad de todo lo que hay a tu alrededor
+- Juega como el detective Pierce; investiga la muerte de la familia Hawkins en la isla de Darkwater
 - Adaptación oficial del emblemático juego de mesa de Chaosium
-- Te veras envuelto en un mundo de conspiraciones, sectas y horrores cósmicos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DRYHSWN{{</world>}}

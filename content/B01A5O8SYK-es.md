@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Temperatura máxima 30º. Lavado y aclarado con acción mecánica y centrifugado corto.
-- 100% Algodón
 - Todas Las Temporadas 2019
+- 100% Algodón
+- Temperatura máxima 30º. Lavado y aclarado con acción mecánica y centrifugado corto.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01A5O8SYK{{</world>}}

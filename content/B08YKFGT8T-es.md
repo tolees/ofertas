@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La figura mide 9 cm y viene en una caja de exhibición de ventana
+- POP! vinilo de Funko
+- Mira las otras figuras de Funko dedicadas a esta colección
 - Funko POP! es el juguete del año 2018 Peoples Choice
 - Colecciónalos todos
-- POP! vinilo de Funko
-- La figura mide 9 cm y viene en una caja de exhibición de ventana
-- Mira las otras figuras de Funko dedicadas a esta colección
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YKFGT8T{{</world>}}

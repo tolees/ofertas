@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Parte de piel sintética
 - Forro textil
+- Horma clásica
 - Suela de goma que no deja marcas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

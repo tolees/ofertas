@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Universal: se adapta a una gran variedad de lavavajillas; tamaño estándar que se adapta a la mayoría de las marcas principales de lavavajillas.
-- Cesta de cubiertos para lavavajillas duradera de alta calidad, asegura un largo tiempo de uso.
-- Ancho (135 mm) x Largo (238 mm) x Alto (123 mm).
 - -
+- Universal: se adapta a una gran variedad de lavavajillas; tamaño estándar que se adapta a la mayoría de las marcas principales de lavavajillas.
+- Ancho (135 mm) x Largo (238 mm) x Alto (123 mm).
+- Cesta de cubiertos para lavavajillas duradera de alta calidad, asegura un largo tiempo de uso.
 - Con 7 compartimientos integrados: 1 compartimiento grande de 108 mm x 67 mm, 4 compartimientos más pequeños de 65 mm x 65 mm, 2 compartimientos más pequeños de 54 mm x 65 mm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

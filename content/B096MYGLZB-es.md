@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Estilo: zapatillas
+- Cuero : Suede
 - Patrón: liso
 - Estilo de vida: moda casual
-- Cuero : Suede
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096MYGLZB{{</world>}}

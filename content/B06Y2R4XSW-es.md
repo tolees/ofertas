@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ENCAP midsole technology for a supportive and soft cushioning
 - Premium look and materials
+- ENCAP midsole technology for a supportive and soft cushioning
 - Flexible, comfortable & lightweight shoe
 - Bold colour blocking and large signature N logo
 - Brand new & genuine

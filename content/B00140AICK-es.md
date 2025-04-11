@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2,0 mm 4YOU-Gomas
-- Ergo Grip
 - Peso: 158 g
+- Ergo Grip
+- 2,0 mm 4YOU-Gomas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00140AICK{{</world>}}

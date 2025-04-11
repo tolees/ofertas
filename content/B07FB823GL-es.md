@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Piscina redonda PrismFrame INTEX, medidas piscina: 366x76 cm y capacidad: 6.503 litros
-- Estructura resistente de piezas tubulares con acabado epoxi anticorrosión y tapón de vaciado con conexión a manguera de jardín
-- Se recomienda el uso de la piscina a partir de los 6 años de edad, por sus medidas, tiene capacidad para 4 personas
 - Lona resistente triple capa, grosor liner: 0.55 mm (pared) y 0.35 mm (base), el interior simula gresite y exterior en gris
 - Incluye depuradora de cartucho A con capacidad de filtración de 2.006 litros/hora (conexión de 32 mm)
+- Piscina redonda PrismFrame INTEX, medidas piscina: 366x76 cm y capacidad: 6.503 litros
+- Se recomienda el uso de la piscina a partir de los 6 años de edad, por sus medidas, tiene capacidad para 4 personas
+- Estructura resistente de piezas tubulares con acabado epoxi anticorrosión y tapón de vaciado con conexión a manguera de jardín
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FB823GL{{</world>}}

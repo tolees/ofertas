@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con cómoda cueva para que el gato se esconda, juegue o duerma
-- Ideal para hogares con varios gatos
 - Para montaje en pared
-- Troncos de sisal para el cuidado de las garras
+- Ideal para hogares con varios gatos
 - Cojín de felpa extraíble
+- Troncos de sisal para el cuidado de las garras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01GTTCRA6{{</world>}}

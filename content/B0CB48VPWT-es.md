@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cremallera
-- Estilo de cinco bolsillos
 - Trabillas para cinturón
+- Estilo de cinco bolsillos
+- Cierre de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB48VPWT{{</world>}}

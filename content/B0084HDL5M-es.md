@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Atención: las bailarinas Lico Flora se entregan hasta la talla 35 con dos velcro
 - Material interior: textil
+- Atención: las bailarinas Lico Flora se entregan hasta la talla 35 con dos velcro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0084HDL5M{{</world>}}

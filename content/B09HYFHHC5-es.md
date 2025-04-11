@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Deberás tener en cuenta su colocación
+- Puedes adquirir este cable adaptador para evitar cortar la instalación original
+- Consultar compatibilidad con su motocicleta en el apartado Descripción del producto
 - Si el cableado de serie no tiene la medida necesaria
 - Antes de montar los intermitentes Puig
-- Puedes adquirir este cable adaptador para evitar cortar la instalación original
-- Deberás tener en cuenta su colocación
-- Consultar compatibilidad con su motocicleta en el apartado Descripción del producto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HYFHHC5{{</world>}}

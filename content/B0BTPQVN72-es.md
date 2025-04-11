@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- pantalones cortos deportivos
-- Cintura elástica con cordón
 - logotipo de adidas
+- Cintura elástica con cordón
+- pantalones cortos deportivos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BTPQVN72{{</world>}}

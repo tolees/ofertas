@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Informal
-- Ropa casual
 - Ajuste regular
+- Ropa casual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00B27IA5M{{</world>}}

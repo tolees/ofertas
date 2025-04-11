@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se conecta a la luz mediante un puerto USB (no incluye el adaptador a la corriente ni la tornillería para su anclaje o sujeción a la pared).
-- Fabricada en metacrilato y luces LED
 - Lámpara de neón para colgar, con un mensaje wonder en inglés. Válida para colgar tanto en paredes como en puertas.
 - Longitud del cable: 2 metros
+- Fabricada en metacrilato y luces LED
+- Se conecta a la luz mediante un puerto USB (no incluye el adaptador a la corriente ni la tornillería para su anclaje o sujeción a la pared).
 - Indicaciones: para un correcto mantenimiento, desconectar y limpiar con plumero o gamuza suave.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

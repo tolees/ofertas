@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SÉ EXTRAORDINARIO: Usa habilidades únicas, recoge gemas, descubre secretos, desbloquea máscaras ocultas y mucho más.
 - CONDUCE Y EXPLORA: Ya sea por mar, tierra o aire, el Explorider llevará a los Power Heroes a su destino.
 - DIVERSIÓN PARA TODOS LOS HÉROES: Funciones accesibles: controles sencillos e interacciones fáciles.
-- FORMA UN EQUIPO: Únete a Catboy, Owlette, Gekko, An Yu, Newton Star, Ice Cub, Lilyfay y Bastet.
+- SÉ EXTRAORDINARIO: Usa habilidades únicas, recoge gemas, descubre secretos, desbloquea máscaras ocultas y mucho más.
 - Después de un gran accidente en el cuartel general de los PJ, se esparcen valiosas piezas de tecnología y gemas por todo el planeta, y estos héroes extraordinarios deben reconstruir todo.
+- FORMA UN EQUIPO: Únete a Catboy, Owlette, Gekko, An Yu, Newton Star, Ice Cub, Lilyfay y Bastet.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQM9363X{{</world>}}

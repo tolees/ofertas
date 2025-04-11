@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro y cuello Borg
+- Chaqueta de tela no elástica
 - Dos bolsillos en el pecho con solapa y botón
 - Dobladillo ajustable con botones
+- Forro y cuello Borg
 - Cierre frontal abotonado
-- Chaqueta de tela no elástica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS532ZQ2{{</world>}}

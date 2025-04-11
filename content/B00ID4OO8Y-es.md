@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Siembra en primavera y otoño
-- Cultivo de macetas, macizos, borduras y para flor cortada
 - Cubriendo apenas la semilla con una capa fina de mantillo y trasplantar a 25 cm de separación
 - Floración en primavera y verano para la siembra de otoño, y floración en otoño para la siembra de primavera
+- Cultivo de macetas, macizos, borduras y para flor cortada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00ID4OO8Y{{</world>}}

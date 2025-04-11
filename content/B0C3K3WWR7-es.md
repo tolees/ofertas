@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro textil
-- Horma clásica
 - Cierre de cordones
 - Parte de material sintético texturizado
+- Horma clásica
 - Suela de goma para campos de moqueta
+- Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C3K3WWR7{{</world>}}

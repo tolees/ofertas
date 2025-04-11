@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- VAJILLA 18PZAS MIAMI EMBALAJE REFORZADO
-- Apto lavavajillas
 - Apto Microondas
+- Apto lavavajillas
+- VAJILLA 18PZAS MIAMI EMBALAJE REFORZADO
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HTWQLNF{{</world>}}

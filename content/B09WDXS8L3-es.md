@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Derailleur: SHIMANO Tourney RD-TZ50 7 speeds
 - Brake: F Disc / R V-brake; Range: up to 65 km with PAS; Tyres: 26"x1.75"
-- Lights : F/R LED light
-- PAS assistance: 1:1, 1:2, 1:3
-- LED display 3 speeds
 - Max. speed: 25 km/h
+- PAS assistance: 1:1, 1:2, 1:3
+- Charging time: 5 h
+- Derailleur: SHIMANO Tourney RD-TZ50 7 speeds
+- LED display 3 speeds
+- Motor: 36 V 250 W BAFANG brushless high speed – 35 Nm
 - Battery : 36 V 9.6 Ah LG Lithium removable - 346 Wh
 - Frame: Steel with suspension fork
-- Charging time: 5 h
-- Motor: 36 V 250 W BAFANG brushless high speed – 35 Nm
+- Lights : F/R LED light
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09WDXS8L3{{</world>}}

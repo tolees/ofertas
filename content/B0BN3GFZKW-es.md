@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Espuma EVA altamente acolchada
 - Zapatillas orientadas a ritmos medios-bajos
+- Espuma EVA altamente acolchada
 - Comodidad, estética y versatilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

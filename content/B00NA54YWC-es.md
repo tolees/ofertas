@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Reduce las ojeras; hidrata, tonifica y tensa ligeramente la epidermis
+- Adecuado para usuarios de lentes de contacto; testado dermatológica y oftalmológicamente; sin perfumes
 - Contorno de ojos antiojeras con aciano; recomendado para el cuidado diario, apto para todas las edades
 - Ingredientes activos: extracto de aciano, vitamina A, vitamina E, provitamina B5 (D-panthenol)
-- Adecuado para usuarios de lentes de contacto; testado dermatológica y oftalmológicamente; sin perfumes
 - Nutre y reafirma la piel; alisa pequeñas arrugas
-- Reduce las ojeras; hidrata, tonifica y tensa ligeramente la epidermis
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00NA54YWC{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Levis Blue Batwing Trifold Wallet
 - Cartera
 - Logotipo bordado en la parte delantera
+- Levis Blue Batwing Trifold Wallet
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08BLVQ9L2{{</world>}}

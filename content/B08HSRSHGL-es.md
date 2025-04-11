@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con ranura para las piernas
-- encantador vestido de manga larga de la marca ONLY
-- Ajuste holgado
 - Cuello cálido
+- Ajuste holgado
 - Corte largo
+- encantador vestido de manga larga de la marca ONLY
+- Con ranura para las piernas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HSRSHGL{{</world>}}

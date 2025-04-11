@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- United Estates
-- Mantener en un lugar fresco y seco
-- Para todo tipo de razas
-- Alimento húmedo libre de cereales con pato, codorniz, pollo, pavo y pescado
 - Ingredientes: Pato, caldo de pato, caldo de pollo, hígado de pollo, ovoproductos deshidratados, pollo, fécula de patata, pato asado, codornices asadas, pavo ahumado, guisantes, pescado de mar, goma guar, sabor natural, fosfato de sodio, sal, aceite de linaza (preservado con mezcla de tocoferoles), cloruro potásico, inulina, tomates, batatas, arándanos, frambuesas, cloruro de colina, extracto de Yucca, quelato aminoácido de zinc, quelato aminoácido de hierro, mononitrato de tiamina, suplemento de vitamina E, quelato aminoácido de cobre, quelato aminoácido de manganeso, selenito de sodio, quelato aminoácido de cobalto, suplemento de niacina, D-pantotenato cálcico, suplemento de vitamina A, suplemento de riboflavina, biotina, suplemento de vitamina B12, yoduro de potasio, clorhidrato de piridoxina, suplemento de vitamina D3, ácido fólico, extracto de romero.
+- United Estates
+- Para todo tipo de razas
+- Mantener en un lugar fresco y seco
+- Alimento húmedo libre de cereales con pato, codorniz, pollo, pavo y pescado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B078H4DMHX{{</world>}}

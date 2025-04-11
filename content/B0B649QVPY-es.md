@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta de algodón de manga corta con estampado de bandera en el pecho.
 - Fabricado con 100% algodón sostenible
+- Camiseta de algodón de manga corta con estampado de bandera en el pecho.
 - Camiseta individual de Londres
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura elástica
+- Bolsillos frontales: bolsillos laterales
 - Cordón de ajuste
 - Largo corto
-- Bolsillos frontales: bolsillos laterales
+- Cintura elástica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4BKP4NR{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Práctico interruptor general para apagar simultáneamente todos los dispositivos conectados
-- Enchufes situados en ángulo de 45 grados para un mejor acceso
-- Interruptor iluminado con indicación de modo activado o desactivado
-- 6 enchufes protegidos contra sobretensiones para conectar y alimentar dispositivos de forma segura
 - Orificios de sujeción para montaje fácil en pared
+- Enchufes situados en ángulo de 45 grados para un mejor acceso
+- 6 enchufes protegidos contra sobretensiones para conectar y alimentar dispositivos de forma segura
+- Práctico interruptor general para apagar simultáneamente todos los dispositivos conectados
 - Enchufes dotados con protección infantil para evitar que los niños accedan a los contactos de los enchufes
+- Interruptor iluminado con indicación de modo activado o desactivado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01KAFGMIS{{</world>}}

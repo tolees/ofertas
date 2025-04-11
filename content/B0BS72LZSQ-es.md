@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hackett - Camiseta de algodón para hombre
 - Hackett - Camiseta blanca para hombre
+- Hackett - Camiseta de algodón para hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS72LZSQ{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte de malla
 - Cierre de cordones
+- Horma clásica
 - Amortiguación Lightstrike
 - Drop: 6,5 mm (talón: 29 mm / antepié: 22,5 mm)
-- Horma clásica
-- Parte de malla
 - Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

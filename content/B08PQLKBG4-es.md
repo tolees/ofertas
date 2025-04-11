@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordones de zapatos
 - La parte superior de Primeknit de adidas
 - En forma normal.
+- Cordones de zapatos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08PQLKBG4{{</world>}}

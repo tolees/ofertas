@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Mediasuela Cloudfoam
 - Horma clásica
-- Parte textil
 - Forro textil
+- Parte textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2QR1TMK{{</world>}}

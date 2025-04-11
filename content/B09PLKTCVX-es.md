@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Legendario: la figura articulada de Fortnite de 4 pulgadas se basa en el estilo legendario del juego.
-- Grado maestro: Oro cuenta con 28 puntos de articulación para una postura dinámica.
 - Totalmente equipado: también incluye Back Bling, herramienta de cosecha y armas.
 - Listo: aborda el autobús de batalla y entra con Oro.
+- Grado maestro: Oro cuenta con 28 puntos de articulación para una postura dinámica.
+- Legendario: la figura articulada de Fortnite de 4 pulgadas se basa en el estilo legendario del juego.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09PLKTCVX{{</world>}}

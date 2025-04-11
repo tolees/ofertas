@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte regular
+- Mangas cortas. Bordado frontal
+- Desigual
 - Impresión de Mickey Mouse pintada a mano con mensaje
 - Cuello redondo
-- Desigual
-- Mangas cortas. Bordado frontal
-- Corte regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTPR6MTQ{{</world>}}

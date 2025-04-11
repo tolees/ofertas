@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Máxima calidad
-- Compatible con los mangos combisystem: unión estable y sin tambaleos
 - Para la terraza y el balcón: la ancha escoba con el estable cepillo garantiza unos óptimos resultados de limpieza
+- Compatible con los mangos combisystem: unión estable y sin tambaleos
+- Máxima calidad
 - Unión estable: introducir y atornillar; unión sin tambaleos
 - El paquete incluye: 1 escoba combisystem de Gardena para la terraza (el mango combisystem se vende por separado)
 

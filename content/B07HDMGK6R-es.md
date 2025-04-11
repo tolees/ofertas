@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- materialFabricComposition: 98% Cotton, 2% Elastane
 - Care Label:
-- Long Sleeves
-- Denim jacket
 - Spread Collar
+- Denim jacket
+- Long Sleeves
+- materialFabricComposition: 98% Cotton, 2% Elastane
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07HDMGK6R{{</world>}}

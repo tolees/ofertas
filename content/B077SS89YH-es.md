@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma.
-- Cómodo forro textil.
 - 3 bandas cosidas.
+- Cómodo forro textil.
+- Suela de goma.
 - Cómodo forro textil.
 - Etiqueta de adidas cosida en la lengüeta.
 

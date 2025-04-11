@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Papel Optik Paper: un papel exclusivo de Oxford único por su opacidad, lisura y satinado. La tinta no traspasa de un lado a otro ni se dispersa, resistente a la presión del lápiz y al borrado.
 - Ideal para dibujo/ocio infantil
+- Papel de gran resistencia con excelente borrabilidad
 - Producto con certificación FSC, que acredita que la madera con la que está hecho proviene de bosques gestionados según los criterios del Consejo de Administración Forestal (en inglés: Forest Stewardship Council (FSC)), que incluye medidas de gestión sostenible del bosque en los aspectos ecológicos, sociales y económicos, entre otras.
 - Superfície lisa, ideal para técnicas secas, lápices y ceras
-- Papel de gran resistencia con excelente borrabilidad
-- Papel Optik Paper: un papel exclusivo de Oxford único por su opacidad, lisura y satinado. La tinta no traspasa de un lado a otro ni se dispersa, resistente a la presión del lápiz y al borrado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WLXZXSJ{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafas de Sol
 - Tarifa Black / Black
+- Gafas de Sol
 - Gafas de Sol Tarifa Negro Hanukeii para hombre y mujer
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

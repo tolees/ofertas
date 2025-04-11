@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAMISETA BÁSICA
-- Fabricado con 100% algodón sostenible
 - Camiseta de cuello redondo sin mangas. Con logotipo en el pecho.
+- Fabricado con 100% algodón sostenible
+- CAMISETA BÁSICA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B64CDM1Y{{</world>}}

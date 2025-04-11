@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Vestido acanalado de cuello redondo con mangas largas y ajuste regular
-- Placa de metal en la parte inferior
 - Fabricado con al menos un 50% de algodón sostenible
+- Placa de metal en la parte inferior
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS5HWR57{{</world>}}

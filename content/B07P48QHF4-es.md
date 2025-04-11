@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela exterior de goma resistente.
 - Forro de tela suave.
+- Suela exterior de goma resistente.
 - Logotipo de Skechers en el lateral exterior.
 - Skechers Delson Antigo.
 - Empeine de cuero suave.

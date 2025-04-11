@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talle medio
-- Bolsillo con solapa y cierre de botón en la parte delantera
-- Bolsillos insertados
-- Cordón ajustable dentro de la cinturilla
 - Bolsillos traseros con ribete sencillo y uno con botón
+- Bolsillos insertados
+- Bolsillo con solapa y cierre de botón en la parte delantera
+- Talle medio
+- Cordón ajustable dentro de la cinturilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6W2VR1R{{</world>}}

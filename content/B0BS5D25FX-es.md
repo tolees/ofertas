@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte regular
 - Ropa interior para hombre
+- Corte regular
 - CAMISETA INDIVIDUAL
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

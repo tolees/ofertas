@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A estrenar y genuina. Somos un vendedor autorizado de GANT.
 - Ver descripción del producto para obtener más información.
+- A estrenar y genuina. Somos un vendedor autorizado de GANT.
 - GANT Negro Escudo sudadera con capucha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pierna corta
 - Corte acampanado
 - Cintura alta
-- Pierna corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKQGGFV6{{</world>}}

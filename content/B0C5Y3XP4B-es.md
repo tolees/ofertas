@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela AHAR
 - Empeine de malla jacquard para mayor transpirabilidad
+- Suela AHAR
 - Amortiguación FF BLAST PLUS
 
 [🛒 Comprar!!!]({{< param buyurl >}})

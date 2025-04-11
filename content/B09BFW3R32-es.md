@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🏃‍♀️ON THE GO - Pop these HALO sticks in your bag to hydrate your busy lifestyle - This electrolyte powder is the perfect for on-the-go hydration. One sachet is equal to drinking 4 liters of Mineral water
-- 💪LOW IN CALORIES - With only 15 calories and 1g of natural sugar per sachet, our pink lemonade delivers guilt-free hydration. HALO hydration - delicious as we are good for you
-- ⛰️ Blend of natural electrolytes & ionic trace minerals from the Great Salt Lake of Utah. One HALO powder sachet contains as much electrolytes and trace mineral than 8 bottles of mineral water of 500ML
 - ✨ PINK LEMONADE - A subtle, light pink lemonade flavour, HALO electrolyte supplement is both delicious and refreshing. Optimum hydration - Hydrates faster than water alone with a delicious taste
 - 🏋️ RICH IN VITAMINS - One rehydration HALO Powder sachet contains the recommended intake of Vitamin C per day and Zinc to boost your immune system. Also contains vitamins B1, B3, B6, B9, and B21
+- ⛰️ Blend of natural electrolytes & ionic trace minerals from the Great Salt Lake of Utah. One HALO powder sachet contains as much electrolytes and trace mineral than 8 bottles of mineral water of 500ML
+- 🏃‍♀️ON THE GO - Pop these HALO sticks in your bag to hydrate your busy lifestyle - This electrolyte powder is the perfect for on-the-go hydration. One sachet is equal to drinking 4 liters of Mineral water
+- 💪LOW IN CALORIES - With only 15 calories and 1g of natural sugar per sachet, our pink lemonade delivers guilt-free hydration. HALO hydration - delicious as we are good for you
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09BFW3R32{{</world>}}

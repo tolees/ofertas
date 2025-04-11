@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sudadera con capucha de ajuste clásico
 - Cuello redondo
 - Tonos oscuros
-- Sudadera con capucha de ajuste clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKH1WH24{{</world>}}

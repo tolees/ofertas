@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Infinitamente reciclable
 - Fragancia Premium Pachulí y Cedro
-- Axe Desodorante Aerosol 72h Green Geranium para Hombre Fragancia Pachulí y Cedro 150ml
-- No testado en animales (PETA Approved)
-- Libre de aluminio
+- Infinitamente reciclable
 - Aerosol hasta 72h para que te sientas fresco durante todo el día
+- Libre de aluminio
+- No testado en animales (PETA Approved)
+- Axe Desodorante Aerosol 72h Green Geranium para Hombre Fragancia Pachulí y Cedro 150ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BP82NQ45{{</world>}}

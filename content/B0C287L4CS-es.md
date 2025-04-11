@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fuerte
 - Elegante
+- Fuerte
 - Estilizado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Térmica
-- Mezcla de algodón elástico
 - Tommy Hilfiger Bordado de bandera en el pecho
-- Tommy Hilfiger Marca
 - Cuello redondo
+- Mezcla de algodón elástico
+- Térmica
+- Tommy Hilfiger Marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS9M3DN4{{</world>}}

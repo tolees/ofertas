@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Horma clásica
-- Forro textil
-- Parte de malla con refuerzos sintéticos para una adecuado resistencia al desgaste
 - Cierre de cordones
+- Parte de malla con refuerzos sintéticos para una adecuado resistencia al desgaste
+- Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJL78Y4R{{</world>}}

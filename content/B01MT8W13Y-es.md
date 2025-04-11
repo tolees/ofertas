@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla antiarañazos: Sí.
 - Cierre: Doble D.
-- Pantalla antivaho: Sí (Pinlock)
-- Material: Fibra de vidrio, carbono y aramida.
 - Gafas solares integradas: Sí.
+- Material: Fibra de vidrio, carbono y aramida.
+- Pantalla antivaho: Sí (Pinlock)
+- Pantalla antiarañazos: Sí.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01MT8W13Y{{</world>}}

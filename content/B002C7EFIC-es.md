@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Caballete
 - Desarmado en piezas en el cartón de presentación
+- Caballete
 - Plegable y ahorrador de espacio
 
 [🛒 Visítala!!!]({{< param buyurl >}})

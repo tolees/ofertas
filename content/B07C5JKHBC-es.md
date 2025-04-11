@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones: (Bag) 30 x 18 x h30 cm; (Container) 19,6 x 19,6 x h7 cm - 1400 cc
-- Recipiente apto para nevera y congelador
 - Colección: On The Go
+- Recipiente apto para nevera y congelador
 - Official Guzzini Product – Fabricado en Italia desde 1912
+- Dimensiones: (Bag) 30 x 18 x h30 cm; (Container) 19,6 x 19,6 x h7 cm - 1400 cc
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C5JKHBC{{</world>}}

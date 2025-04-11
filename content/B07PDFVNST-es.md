@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🎨 PRODUCTO - Estuche de barritas de pintura facial testada dermatológicamente, por lo que es un producto cosmético que no irrita la piel.
 - 🎨 MODO DE USO - Pinturas para la cara listas para usar, no necesitan base de maquillaje ni crema hidratante. Se lava con agua.
 - 🎨 CONTENIDO - Caja con 6 barritas de pintura facial de 5 gramos cada una, de diferentes colores: Incluye 6 colores brillantes y de textura suave, para una fácil aplicación. Tatuajes brillantes en calcomanía, lápiz perfilador cosmético, pincel, 2 bolsitas de purpurina y folleto paso a paso
-- 🎨 DISTINTAS GAMAS - Alpino Fiesta es la gama de maquillaje para niños y adultos, pensada para disfrazarse o caracterizar a personajes. Perfecta para todo tipo de fiestas, disfraces, carnaval o halloween.
 - 🎨 SOBRE ALPINO - Alpino es marca referente en el sector de la Papelería desde 1943. Tenemos una amplia variedad de material escolar y productos para manualidades: lápices de colores, rotuladores, ceras, plastilinas, maquillaje, actividades artísticas... ¡Descubre Nuestro Mundo de Color y Creatividad!
+- 🎨 DISTINTAS GAMAS - Alpino Fiesta es la gama de maquillaje para niños y adultos, pensada para disfrazarse o caracterizar a personajes. Perfecta para todo tipo de fiestas, disfraces, carnaval o halloween.
+- 🎨 PRODUCTO - Estuche de barritas de pintura facial testada dermatológicamente, por lo que es un producto cosmético que no irrita la piel.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PDFVNST{{</world>}}

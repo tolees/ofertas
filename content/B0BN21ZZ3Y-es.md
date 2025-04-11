@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Intersuola con ff blast amortiguación
-- Tecnología GEL
 - Contrafuerte externo con perfil bajo
+- Tecnología GEL
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN21ZZ3Y{{</world>}}

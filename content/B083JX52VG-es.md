@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Placa trasera totalmente metálica preinstalada
-- Trazado de rayos en tiempo real
 - Microsoft DirectX 12 API Vulkan API OpenGL 4/5. Experiencia NVIDIA GeForce. HDMI 2.0b, DisplayPort 1.4 y Dual-Link DVI. NVIDIA G-SYNC compatible. NVIDIA Ansel.NVIDIA GPU Boost
-- Game Ready Drivers
 - Construido para EVGA Precision x1
+- Game Ready Drivers
+- Trazado de rayos en tiempo real
+- Placa trasera totalmente metálica preinstalada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B083JX52VG{{</world>}}

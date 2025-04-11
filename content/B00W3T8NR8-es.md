@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Composición textil 100 percent poliéster
 - Tecnología Dry MX
-- Se adapta perfectamente a tus movimientos, otorgándote un plus de comodidad
 - Permite una circulación completa del aire, secando el sudor de forma rápida y evitando enfriamientos
+- Composición textil 100 percent poliéster
+- Se adapta perfectamente a tus movimientos, otorgándote un plus de comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00W3T8NR8{{</world>}}

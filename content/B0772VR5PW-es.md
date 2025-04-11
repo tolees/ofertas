@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Velocidades de escritura de hasta 480 MB/s
-- Contenido: Intenso M.2 SSD High - Unidad de estado sólido de 240 GB
 - Interfaz: SATA III (6 gbps), Smart command support, trim command support
-- Bajo consumo de energía; resistente a los golpes, funcionamiento silencioso (0db)
 - Velocidades de lectura 520 MB/s
+- Contenido: Intenso M.2 SSD High - Unidad de estado sólido de 240 GB
+- Bajo consumo de energía; resistente a los golpes, funcionamiento silencioso (0db)
+- Velocidades de escritura de hasta 480 MB/s
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0772VR5PW{{</world>}}

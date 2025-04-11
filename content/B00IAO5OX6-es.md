@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Patrón - Liso
-- Tipo de arco - Bajo
 - Corrección de pronación - Neutral
+- Tipo de arco - Bajo
+- Patrón - Liso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IAO5OX6{{</world>}}

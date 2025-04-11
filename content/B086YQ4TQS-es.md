@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PRODUCTOS MADE IN ITALY: Los cables se producen íntegramente en la provincia de Milán con materiales de primera calidad.
 - PRODUCTOS SEGUROS: Disponer de cables estándar como los de Amarcords desde el punto de vista eléctrico es una garantía a la que no se debe renunciar. ¡Muy fácil de montar!
-- HILOS NATURALES. El cable eléctrico tiene un color intenso. Es ideal para crear proyectos de iluminación elegantes, minimalistas o vintage. Hay disponibles varias longitudes: 1, 3, 5, 10, 20 y 50 metros.
 - SUAVE Y FLEXIBLE: Nuestros cables eléctricos fabricados con materiales de calidad que los hacen suaves y flexibles para evitar la formación de nudos y pliegues antiestéticos. Los cables eléctricos Amarcords son de colores, ideales para la fabricación de lámparas de colores, candelabros y extensiones, están disponibles en versiones trenzadas o redondas con una sección de 0,75 mm con 2 conductores o 3 conductores (con tierra) en el interior.
+- PRODUCTOS MADE IN ITALY: Los cables se producen íntegramente en la provincia de Milán con materiales de primera calidad.
 - CARACTERÍSTICAS ELÉCTRICAS: H03VV-F 300 / 300V 2x0,75 trenzado. Apto para uso en interiores. Certificación IMQ-HAR. Aislamiento doble. CEI 20-20 CEI20-35 Cumple con RoHS. Diámetro aprox: 5 mm 2x0,75. Producto que cumple con todas las normativas de seguridad italianas y europeas.
+- HILOS NATURALES. El cable eléctrico tiene un color intenso. Es ideal para crear proyectos de iluminación elegantes, minimalistas o vintage. Hay disponibles varias longitudes: 1, 3, 5, 10, 20 y 50 metros.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B086YQ4TQS{{</world>}}

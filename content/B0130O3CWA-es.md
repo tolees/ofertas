@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Útil para modelar e aumentar rasgos faciales
-- Con una textura suave e un brillo de larga duración
-- Paleta de contouring que viene con seis tonos de polvos y dos iluminadores
 - Cuenta con un gran espejo
+- Útil para modelar e aumentar rasgos faciales
+- Paleta de contouring que viene con seis tonos de polvos y dos iluminadores
+- Con una textura suave e un brillo de larga duración
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0130O3CWA{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Brand: KAS
-- La bebida perfecta para divertirse con amigos, en casa o on-the-go
 - La clásica bebida de KAS
+- La bebida perfecta para divertirse con amigos, en casa o on-the-go
 - Apto para veganos y vegetarianos
+- Brand: KAS
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XKYWZD8{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calvin Klein Cintura elástica tonal
 - Encaje elástico semitransparente
 - Cintura media elevada
+- Calvin Klein Cintura elástica tonal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS9ZNM7Y{{</world>}}

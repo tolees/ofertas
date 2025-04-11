@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla cómoda
-- Herramientas de suela de copa con altura de perfil elevada
 - Pieza de talón de TPU
 - Puma No. 1 etiqueta con logotipo en la lengüeta
+- Plantilla cómoda
+- Herramientas de suela de copa con altura de perfil elevada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C33MYP8T{{</world>}}

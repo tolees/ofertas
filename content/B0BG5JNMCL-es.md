@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Altura normal de la cintura
-- Cintura jacquard de punto
 - Pierna corta
+- Cintura jacquard de punto
 - Corte entallado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- producto 1: Mascarilla capilar para pelo dañado y frágil
-- producto 2: La fórmula Pro-V ayuda a restaurar la fuerza del pelo (frente a los daños causados por el peinado) y combate al instante los signos del daño
-- producto 2: Las Ampollas Rescate Pantene Pro-V Repara & Protege ayudan a reparar en profundidad el pelo dañado
 - producto 1: Cura intensiva que ayuda a combatir los signos del daño con 1 solo uso
+- producto 2: La fórmula Pro-V ayuda a restaurar la fuerza del pelo (frente a los daños causados por el peinado) y combate al instante los signos del daño
 - producto 1: Mascarilla capilar que ayuda a reparar el daño con 1 solo uso
-- producto 1: Testada por el Swiss Vitamin Institute
-- producto 2: Los antioxidantes protegen el pelo de los radicales libres para ayudar a evitar la rotura
 - producto 2: Tratamiento capilar intensivo reparador 1 Minute Miracle, con complejo Pro-V, antioxidantes y lípidos * frente a champú sin acondicionador
+- producto 1: Mascarilla capilar para pelo dañado y frágil
+- producto 2: Las Ampollas Rescate Pantene Pro-V Repara & Protege ayudan a reparar en profundidad el pelo dañado
+- producto 2: Los antioxidantes protegen el pelo de los radicales libres para ayudar a evitar la rotura
+- producto 1: Testada por el Swiss Vitamin Institute
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C1Y9LQVV{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño deslizante
 - Parte superior textil
+- Diseño deslizante
 - Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

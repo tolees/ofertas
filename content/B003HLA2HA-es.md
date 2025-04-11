@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste cómodo.
 - Letras de Alpha Industries en la camisa.
+- Ajuste cómodo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B003HLA2HA{{</world>}}

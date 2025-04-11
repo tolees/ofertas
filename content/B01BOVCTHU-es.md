@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Excelente purificante beneficioso tanto parar las pieles secas como para las pieles grasas
-- Sin productos químicos que lo convierten en un activo maravilloso para los productos cosméticos
 - Nombre botánico: Orbignya Oleifera
+- Excelente purificante beneficioso tanto parar las pieles secas como para las pieles grasas
 - El aceite portador virgen babasu tiene un alto contenido de ácidos láurico y mirístico que tienen puntos de fusión relativamente próximos a la temperatura corporal
+- Sin productos químicos que lo convierten en un activo maravilloso para los productos cosméticos
 - Aceite portador virgen babasu 125ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

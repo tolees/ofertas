@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fabricado con 100% algodón sostenible
-- Camiseta de manga corta con cuello redondo. Ajuste regular con logotipo impreso en la parte delantera.
 - CAMISETA BÁSICA
+- Camiseta de manga corta con cuello redondo. Ajuste regular con logotipo impreso en la parte delantera.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B64T6C7P{{</world>}}

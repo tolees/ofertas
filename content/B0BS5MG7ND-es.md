@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado con 100% algodón sostenible
 - Camiseta de manga larga con cuello redondo y logotipo en el pecho.
+- Fabricado con 100% algodón sostenible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS5MG7ND{{</world>}}

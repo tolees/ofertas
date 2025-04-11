@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 5 jefes diseñados por los desarrolladores más sádicos y alimentados con la desesperación de los jugadores de prueba
 - Cada uno de los 17 niveles cuenta con su propia atmósfera, enemigos y secretos que descubrir
 - Forma equipo con Richter Belmont y Alucard para luchar por los vetustos pasillos del castillo de Drácula. Blande las emblemáticas armas de la saga Castlevania contra hordas de monstruos para alcanzar la sala del trono del mismísimo señor de la oscuridad...
-- Desbloquea los cuatro DLC originales de Dead Cells, que te ofrecen contenido para el final del juego y una nueva ruta de juego con un final alternativo y montones de enemigos, armas y atuendos nuevos
 - Alrededor de 150 armas y habilidades: lanzas, espadas, arcos, conjuros de magia, escudos, mascotas, sartenes, etc. Tú pide por esa boquita, que seguro que lo tenemos
-- 5 jefes diseñados por los desarrolladores más sádicos y alimentados con la desesperación de los jugadores de prueba
+- Desbloquea los cuatro DLC originales de Dead Cells, que te ofrecen contenido para el final del juego y una nueva ruta de juego con un final alternativo y montones de enemigos, armas y atuendos nuevos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C62CXM4G{{</world>}}

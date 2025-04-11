@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Transductores: 6 "-lf-/2 x 1" HF
-- sous-catégorie: sistema de refuerzo de sonido completa
 - Potencia amplificador: 150 W
-- Particularidad (S): funciona con pila, Bluetooth, control APP
+- sous-catégorie: sistema de refuerzo de sonido completa
+- Transductores: 6 "-lf-/2 x 1" HF
 - Tipo de construcción: Caja rectangular
+- Particularidad (S): funciona con pila, Bluetooth, control APP
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07FPL9QPK{{</world>}}

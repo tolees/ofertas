@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Personaliza tu conducción asistida para ajustar el viraje, los frenos y el acelerador; y tus habilidades de conductor con el árbol de habilidades.
-- Gracias a los consejos de Jeremy McGrath y a las lecciones de la Academia Supercross, aprender lo básico será pan comido para los principiantes, mientras que los más veteranos podrán desatar su verdadero potencial.
 - Compite con Tomac, Anderson, Stewart y todos los demás corredores icónicos del campeonato oficial de 2022.
+- Gracias a los consejos de Jeremy McGrath y a las lecciones de la Academia Supercross, aprender lo básico será pan comido para los principiantes, mientras que los más veteranos podrán desatar su verdadero potencial.
+- Personaliza tu conducción asistida para ajustar el viraje, los frenos y el acelerador; y tus habilidades de conductor con el árbol de habilidades.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQC1ZSY4{{</world>}}

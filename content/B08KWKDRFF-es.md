@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MARAVILLOSO RGB - Maravilloso RGB de 3 zonas PrismSync RGB brilla en 16,8 millones de colores configurables
-- INTERRUPTORES ÚLTIMA GENERACIÓN - Los interruptores IP54 Golden Micro duran más que la vida con sus clics crujientes con resistencia al polvo y al agua
 - UN RENDIMIENTO QUE DURARÁ MÁS QUE TÚ - 200 horas de batería proporcionada por la tecnología inalámbrica Quantum 2.0 con 2,4 GHz para gaming y conexión Bluetooth 5.0
+- INTERRUPTORES ÚLTIMA GENERACIÓN - Los interruptores IP54 Golden Micro duran más que la vida con sus clics crujientes con resistencia al polvo y al agua
 - ULTRALIGERO - Diseñado a propósito con una carcasa perforada para reducir su peso a 68g y jugar sin esfuerzo a gran velocidad
+- MARAVILLOSO RGB - Maravilloso RGB de 3 zonas PrismSync RGB brilla en 16,8 millones de colores configurables
 - AQUABARRIER - El interior de los ratones está protegido contra agua, polvo, suciedad; tecnología clase IP54
 
 [🛒 Aquí!!!]({{< param buyurl >}})

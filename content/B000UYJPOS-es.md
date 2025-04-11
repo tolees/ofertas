@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad
 - Brand: HITACHI
 - Diseño funcional
+- Producto de calidad
 - Alta calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- con estampado gráfico posicional de dibujo y texto en el delantero con relieve
 - con cierre de botón y cremallera
+- con estampado gráfico posicional de dibujo y texto en el delantero con relieve
 - Short con bolsillos en la parte delantera y trasera, con cierre de botón y cremallera, con detalle de flores bordadas en los bolsillos, con pernera con bajo deshilachado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soft fabric
 - Regular fit
+- Soft fabric
 - Elastic waistband with lanyard
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

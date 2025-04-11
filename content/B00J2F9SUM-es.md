@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego ligero e ideal para acampadas o visitas a la playa
 - El juego son cuatro platos de 25 cm, cuatro platos hondos de 22 cm, cuatro platos de postre de 20 cm y cuatro tazas de 35 ml
 - Set sencillo pero actual.
+- Juego ligero e ideal para acampadas o visitas a la playa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00J2F9SUM{{</world>}}

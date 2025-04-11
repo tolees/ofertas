@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: Caucho
-- Revestimiento: Sintético
 - Altura del tacón: 2.5 centímetros
-- Tipo de tacón: Plano
+- Revestimiento: Sintético
 - Cierre: Cordones
 - Material exterior: Cuero
+- Tipo de tacón: Plano
+- Material de la suela: Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009RJURXU{{</world>}}

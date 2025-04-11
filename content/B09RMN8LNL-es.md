@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello redondo
-- Camiseta algodón manga larga
 - Corte Slim
+- Camiseta algodón manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RMN8LNL{{</world>}}

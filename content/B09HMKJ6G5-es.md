@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Interlock 100% poliéster reciclado
 - Corte clásico
-- Cuello de polo con cierre de botones
 - Tejido transpirable AEROREADY
+- Interlock 100% poliéster reciclado
+- Cuello de polo con cierre de botones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HMKJ6G5{{</world>}}

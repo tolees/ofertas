@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Mediasuela Bounce
 - Horma clásica
 - Parte textil
-- Forro textil
 - Cierre de cordones
+- Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZ88MCD7{{</world>}}

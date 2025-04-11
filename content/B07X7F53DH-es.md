@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones y capacidad: alto 20 cm, largo 21 cm, ancho 16 cm, capacidad 100 cl
 - Material: resina termoplástica
-- Colores disponibles: negro, rojo, gris y blanco
 - Designer: Michele de Lucchi
 - Hervidor elétrico con enchufe europeo
+- Colores disponibles: negro, rojo, gris y blanco
+- Dimensiones y capacidad: alto 20 cm, largo 21 cm, ancho 16 cm, capacidad 100 cl
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07X7F53DH{{</world>}}

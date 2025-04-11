@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo cuadrado
 - Cinturón grande
+- Logotipo cuadrado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08964DGCF{{</world>}}

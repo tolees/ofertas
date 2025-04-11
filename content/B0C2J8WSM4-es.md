@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte regular
-- Marca centrada en el pecho
 - Cuello redondo
+- Marca centrada en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2J8WSM4{{</world>}}

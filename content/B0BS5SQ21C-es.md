@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calzoncillos de talle bajo en algodón
-- Pepe Jeans Cintura con logotipo de la marca
 - Paquete de dos calzoncillos de talle bajo en algodón con logotipo de Pepe en la cintura
+- Pepe Jeans Cintura con logotipo de la marca
+- Calzoncillos de talle bajo en algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS5SQ21C{{</world>}}

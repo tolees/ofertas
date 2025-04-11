@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte de rendimiento
-- Resistente al aceite y a la crema
-- Protección UV 50+
-- La base adecuado para look
 - Resistente al cloro para una larga duración y resistencia
+- La base adecuado para look
+- Resistente al aceite y a la crema
+- Corte de rendimiento
+- Protección UV 50+
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084R29XRS{{</world>}}

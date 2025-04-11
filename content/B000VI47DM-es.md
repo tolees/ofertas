@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Zapato ortopédico
 - Funda con asa
 - Excelente impulso
-- Zapato ortopédico
 - Estructura fuerte y resistente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

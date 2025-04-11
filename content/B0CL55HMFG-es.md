@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Base incluida
-- A partir de 12 años
 - Recoge todas las figuras DC Multiverse de McFarlane Toys
 - Tarjeta de colección con ilustración y biografía del personaje
 - Figura increíblemente detallada a escala 12 (30cm)
+- A partir de 12 años
+- Base incluida
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL55HMFG{{</world>}}

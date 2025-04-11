@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Parte de monomalla
-- Forro textil
-- Drop: 9,5 mm (talón: 33 mm / forefoot: 23,5 mm)
 - Amortiguación LIGHTMOTION
+- Parte de monomalla
+- Drop: 9,5 mm (talón: 33 mm / forefoot: 23,5 mm)
 - Cierre de cordones
+- Forro textil
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BZZM7ZC3{{</world>}}

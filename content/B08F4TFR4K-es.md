@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñado y desarrollado en Europa - Fabricado en China
-- Proyección en tu techo en 3 colores diferentes para crear un ambiente increíble por la noche! Con temporizador automático integrado de 5, 15, 30 minutos
-- Garantía: 2 años
-- Reloj despertador con proyección para los niños Peppa Pig con pantalla LCD retroiluminada en azul
-- Muy intuitivo con botones grandes y seguro para que los niños lo usen en cualquier momento
 - Alimentación: 3 pilas LR03/AAA (no incluidas)
+- Reloj despertador con proyección para los niños Peppa Pig con pantalla LCD retroiluminada en azul
+- Proyección en tu techo en 3 colores diferentes para crear un ambiente increíble por la noche! Con temporizador automático integrado de 5, 15, 30 minutos
+- Diseñado y desarrollado en Europa - Fabricado en China
+- Garantía: 2 años
+- Muy intuitivo con botones grandes y seguro para que los niños lo usen en cualquier momento
 - Alarma con función de repetición, para despertar suavemente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

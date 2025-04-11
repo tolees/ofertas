@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- MUNICH
 - MUNICH modelo DYNAMO 067 T. 40
 - AZUL
-- MUNICH
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZKBWH95{{</world>}}

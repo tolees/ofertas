@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Connectivity technology, 2,4 g Hz
 - Pies de PTFE, Los grandes pies de PTFE sin aditivos ofrecen un deslizamiento fluido para una conexión pura y fluida con el juego
 - Meticulosamente diseñado en colaboración con muchos de los principales profesionales de deportes
+- Con tecnología LIGHTSPEED, Ratón PRO rápido y fiable
+- Connectivity technology, 2,4 g Hz
 - Sensor HERO, Control preciso, rápido y consistente con el sensor HERO, diseñado desde cero por los ingenieros de Logitech G para obtener optimo rendimiento posible en gaming
 - Menos de 63 g, Ultraligero, con un rediseño hiperminimalista que logra casi un 25 por ciento de reducción de peso en comparación con el ratón estándar inalámbrico PRO
-- Con tecnología LIGHTSPEED, Ratón PRO rápido y fiable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07W5JJ1WM{{</world>}}

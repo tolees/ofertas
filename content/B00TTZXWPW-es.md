@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- IXO: el atornillador con batería de litio más práctico y cómodo para tus proyectos en casa
-- No tiene efecto memoria ni se autodescarga: siempre lista para la acción gracias a la tecnología de litio
 - Adaptador angular: flexibilidad óptima para trabajos de atornillado en lugares de difícil acceso
-- Incluye: atornillador de impacto a batería PDR 18 LI, 1 batería 18V 1,5Ah, cargador, maletín
+- IXO: el atornillador con batería de litio más práctico y cómodo para tus proyectos en casa
 - Diseño ergonómico mejorado que permite varias posiciones de agarre
-- Concepto de luz Power LED: se puede utilizar como luz enfocada o como luz difuminada
 - Adaptador excéntrico: flexibilidad para trabajos de atornillado cerca de los bordes
+- Incluye: atornillador de impacto a batería PDR 18 LI, 1 batería 18V 1,5Ah, cargador, maletín
+- No tiene efecto memoria ni se autodescarga: siempre lista para la acción gracias a la tecnología de litio
+- Concepto de luz Power LED: se puede utilizar como luz enfocada o como luz difuminada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TTZXWPW{{</world>}}

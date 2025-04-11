@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Calzado moderno
 - Material exterior: Sintético
+- Calzado moderno
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07DK1S9WX{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Recortadora de barba diseñada para ayudarle a conseguir un look perfecto que te haga sentir y mostrar la mejor versión de ti mismo cada día
-- Incluye un cabezal y peines lavables y se suministra con escobilla de limpieza y cargador
-- Hojas afiladas de larga duración para obtener excelentes resultados sea cual sea tu estilo
 - Batería recargable con 50 minutos de autonomía por carga
 - La cúspide de más de un siglo de innovación y experiencia
+- Incluye un cabezal y peines lavables y se suministra con escobilla de limpieza y cargador
+- Recortadora de barba diseñada para ayudarle a conseguir un look perfecto que te haga sentir y mostrar la mejor versión de ti mismo cada día
+- Hojas afiladas de larga duración para obtener excelentes resultados sea cual sea tu estilo
 - Completa tu cuidado diario de barba con King. C. Gillette Aceite para Barba y King. C. Bálsamo Suave para Barba
 - 3 peines para todos los estilos de barba: barba de tres días (1 mm), corta (3-11 mm) y larga (13-21 mm)
 

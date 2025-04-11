@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- El contenido adicional incluido es el mismo que el contenido del pase de temporada
+- Esta versión del juego contiene el mismo contenido que la edición deluxe
+- Se requiere playstation vr y playstation camera para experimentar la funcionalidad vr
 - Los jugadores que ya poseen season pass/deluxe edition deben asegurarse de evitar compras duplicadas
 - Este artículo incluye algún contenido de realidad virtual
-- Se requiere playstation vr y playstation camera para experimentar la funcionalidad vr
-- Esta versión del juego contiene el mismo contenido que la edición deluxe
-- El contenido adicional incluido es el mismo que el contenido del pase de temporada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B077HPVPXV{{</world>}}

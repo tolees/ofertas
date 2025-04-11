@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- T-shirt manica lunga, scollo a V in costina long fiber compatta, ricamo al fondo in tono
 - 100% algodón
+- T-shirt manica lunga, scollo a V in costina long fiber compatta, ricamo al fondo in tono
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BTPPHSK{{</world>}}

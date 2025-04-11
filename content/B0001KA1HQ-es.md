@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carcasa de polietileno de alta densidad.
-- Orejeras
 - Incluye instrucciones en inglés (idioma español no garantizado).
-- Visera transparente de policarbonato.
 - Embalaje de cartón.
+- Carcasa de polietileno de alta densidad.
+- Visera transparente de policarbonato.
 - Totalmente ajustable.
+- Orejeras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0001KA1HQ{{</world>}}

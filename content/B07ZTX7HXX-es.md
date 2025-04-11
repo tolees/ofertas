@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Monedero.
 - Con cierre de cremallera.
 - Plegable.
-- Monedero.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZTX7HXX{{</world>}}

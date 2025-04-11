@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste: relajado
-- Casual
-- Material superior: algodón
 - Novio
+- Ajuste: relajado
+- Material superior: algodón
+- Casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QXXG5K2{{</world>}}

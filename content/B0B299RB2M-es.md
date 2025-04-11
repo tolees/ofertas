@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: correa trasera, sin cierre
-- Forma del talón: plano
-- Parte superior: cuero,100% sintético coagulado
-- Suela: caucho, 100% etileno acetato de vinilo
 - Material interior: 100% textilr, poliéster no tejido
+- Cierre: correa trasera, sin cierre
+- Suela: caucho, 100% etileno acetato de vinilo
+- Parte superior: cuero,100% sintético coagulado
+- Forma del talón: plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B299RB2M{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punto doble 100% poliéster reciclado
-- Cierre de cremallera y cuello alzado
-- Distínguete con el estilo del fútbol
 - AEROREADY
 - Corte entallado
+- Distínguete con el estilo del fútbol
+- Cierre de cremallera y cuello alzado
+- Punto doble 100% poliéster reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4BF676J{{</world>}}

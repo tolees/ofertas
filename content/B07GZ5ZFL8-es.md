@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin azúcares añadidos
 - No contiene gluten
-- Con aceite de oliva extra
-- Es un producto ecologico
 - De textura crujiente
+- Sin azúcares añadidos
+- Es un producto ecologico
+- Con aceite de oliva extra
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07GZ5ZFL8{{</world>}}

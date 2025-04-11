@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Marca: Ibili
 - Apto para diferentes usos
 - Producto de calidad
-- Marca: Ibili
 - Plato de hierro fundido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

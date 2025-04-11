@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido ligero
-- Ofrecen comodidad y libertad de movimiento
 - Ajuste regular
+- Ofrecen comodidad y libertad de movimiento
 - Tienen detalles distintivos de la marca
+- Tejido ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTDWR76Y{{</world>}}

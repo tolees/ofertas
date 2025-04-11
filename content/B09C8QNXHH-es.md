@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología Dri-FIT
-- Pantalones cortos cómodos
-- Réplica de diseño que retoma el que usan los profesionales en el campo
 - Pantalones cortos de fútbol
+- Pantalones cortos cómodos
+- Tecnología Dri-FIT
+- Réplica de diseño que retoma el que usan los profesionales en el campo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09C8QNXHH{{</world>}}

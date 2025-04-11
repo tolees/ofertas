@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta deportiva
 - deportes casuales
 - logotipo de Nike
+- Camiseta deportiva
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9TRCM4Q{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Libre de BFA
-- Botella rellenable
 - Medida: 550 ml
+- Botella rellenable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08X8QXJNK{{</world>}}

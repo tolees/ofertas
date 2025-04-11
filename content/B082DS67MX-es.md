@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- APRENDA Y JUEGA: Jugar es la forma de aprendizaje favorita de nuestro cerebro. Las pegatinas no solo son una gran herramienta educativa, sino también una forma divertida de decorar su habitación.
-- tamaño: 30x45cm
 - Pele y pegue fácilmente: aplique y vuelva a colocar las pegatinas fácilmente. Si está aburrido, quitar las calcomanías no deja daños ni residuos en la superficie.
+- tamaño: 30x45cm
+- APRENDA Y JUEGA: Jugar es la forma de aprendizaje favorita de nuestro cerebro. Las pegatinas no solo son una gran herramienta educativa, sino también una forma divertida de decorar su habitación.
 - Amplia aplicación: funciona en casi cualquier superficie lisa, incluidas puertas, paredes, refrigeradores, armarios, ventanas de dormitorios, sala de estar, cocina e incluso baño.
 - Material: etiqueta de vinilo
 

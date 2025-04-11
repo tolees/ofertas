@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste: delgado
-- Casual
 - No resistente al agua
 - Material exterior: vaquero
+- Ajuste: delgado
+- Casual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B7SHZQ1K{{</world>}}

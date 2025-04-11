@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con cuello redondo
 - JerseY de manga larga caída Con volumen
+- Con cuello redondo
 - Con estructura estilo canalé
 
 [🛒 Visítala!!!]({{< param buyurl >}})

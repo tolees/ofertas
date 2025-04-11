@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera realizada en algodón 100%
-- Sudadera con un divertido diseño.
 - Contiene un mensaje muy molón.
 - Tallas disponibles: S-M y L-XL.
+- Sudadera realizada en algodón 100%
+- Sudadera con un divertido diseño.
 - ¡El estilazo más molón con la nueva sudadera de Mr. Wonderful!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

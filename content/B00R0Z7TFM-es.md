@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MÚLTIPLES FUNCIONES: medición intuitiva de longitudes, medición indirecta de alturas, medición de superficies y cálculo de volúmenes con memoria de las últimas diez mediciones
-- USO PROFESIONAL: exactitud de medición optimizada y certificación ISO
-- INCLUYE: medidor de distancia GLM 40 de Bosch Professional, 2 pilas de 1,5 V LR03 (AAA), estuche de protección
 - COMPACTO Y ROBUSTO: Diseño compacto y carcasa robusta y resistente a los impactos para el trabajo diario
+- MÚLTIPLES FUNCIONES: medición intuitiva de longitudes, medición indirecta de alturas, medición de superficies y cálculo de volúmenes con memoria de las últimas diez mediciones
+- INCLUYE: medidor de distancia GLM 40 de Bosch Professional, 2 pilas de 1,5 V LR03 (AAA), estuche de protección
+- USO PROFESIONAL: exactitud de medición optimizada y certificación ISO
 - DATOS TÉCNICOS: IP 54, resistencia a los impactos 1 m, margen de medición de hasta 40 m, clase de láser 2, exactitud de la medición ± 1,5 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})

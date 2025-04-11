@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ajuste regular
-- Logotipo de contraste centrado en el pecho
 - Fabricado con 100% algodón sostenible
+- Logotipo de contraste centrado en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS53FPQ7{{</world>}}

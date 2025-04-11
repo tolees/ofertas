@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Categoría de Calzado para Correr: A4 - Estable
-- Altura del Talón: 22 mm
-- Diferencial Talón-Punta: 22-12 mm
-- Material Interno: Sintético
 - Material: Sintético
+- Altura del Talón: 22 mm
+- Material Interno: Sintético
+- Categoría de Calzado para Correr: A4 - Estable
+- Diferencial Talón-Punta: 22-12 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MJWYW9B{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jeans de ajuste regular
 - Lavado clásico de enjuague
 - Remaches y vástagos de marca
+- Jeans de ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKGXZL74{{</world>}}

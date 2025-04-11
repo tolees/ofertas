@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3 tiras en la parte superior
-- Suela de goma
 - Una versión de bajo costo de una silueta inspirada en zapatos de baloncesto.
+- Suela de goma
+- 3 tiras en la parte superior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPFBRSLL{{</world>}}

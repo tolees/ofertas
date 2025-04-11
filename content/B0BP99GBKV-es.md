@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pocket de tirolesa en la parte superior para almacenar objetos pequeños como llaves o tejer y celebrar el vellón tecnológico Nike.
 - Zapatillas
+- Pocket de tirolesa en la parte superior para almacenar objetos pequeños como llaves o tejer y celebrar el vellón tecnológico Nike.
 - El motivo de tracción en la suela ayuda a enfrentar una amplia gama de superficies y agrega un ADN de Nike
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavar a máquina, media carga, ciclo de giro corto a 40 ° C
-- Pequeña etiqueta de mirada de mezclilla en el lado
 - 100% algodón
 - Hecho de algodón cómodo
+- Pequeña etiqueta de mirada de mezclilla en el lado
+- Lavar a máquina, media carga, ciclo de giro corto a 40 ° C
 - Knit Slim Fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

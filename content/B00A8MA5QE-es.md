@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Luz blanca cálida
+- Bajo consumo
 - Soluciones de iluminación sostenible
+- Luz blanca cálida
 - Cabezal de foco ajustable
 - Vida útil prolongada
-- Bajo consumo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00A8MA5QE{{</world>}}

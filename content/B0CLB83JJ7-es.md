@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NOTA Espere a que la plancha se caliente antes de planchar con vapor para evitar fugas en la suela.
 - Espere hasta que la luz indicadora deje de parpadear para asegurarse de que la suela esté lo suficientemente caliente.
+- NOTA Espere a que la plancha se caliente antes de planchar con vapor para evitar fugas en la suela.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLB83JJ7{{</world>}}

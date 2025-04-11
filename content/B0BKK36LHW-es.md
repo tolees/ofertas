@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Producto original Hawkers, la caja incluye funda en microfibra y caja
-- Gafas de sol fabricadas en TR90 con el sello de EMS, bisagra de doble acción para un cierre de patillas seguro y durabilidad
 - One LS (LifeStyle) fue un sutil rediseño de One, nuestro diseño de gafas de sol, ahora se fabrica en nuestra primera fábrica en España
 - Lentes categoría 3 y protección UV400 que ofrecen una protección antideslumbrante superior, lentes de TR18 con el sello de Eastman
 - Modelo unisex, medidas: frontal 139 mm, alto 42.3 mm, patillas 145 mm, puente 16 mm, diámetro de lente 54 mm
+- Gafas de sol fabricadas en TR90 con el sello de EMS, bisagra de doble acción para un cierre de patillas seguro y durabilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKK36LHW{{</world>}}

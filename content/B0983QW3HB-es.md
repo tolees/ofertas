@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela gruesa de estética moderna
 - Forro de tela
-- Empeine de piel y material sintético
-- Hebilla de TPU con cocodrilo en el talón
+- Suela gruesa de estética moderna
 - Suela de goma y material sintético
+- Hebilla de TPU con cocodrilo en el talón
+- Empeine de piel y material sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0983QW3HB{{</world>}}

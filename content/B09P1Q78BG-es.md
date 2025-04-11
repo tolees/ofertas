@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología transpirable AEROREADY
 - Puños elásticos
 - Corte entallado
 - Cremallera hasta el pecho y cuello alzado
+- Tecnología transpirable AEROREADY
 - 100% poliéster (reciclado)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

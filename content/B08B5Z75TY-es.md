@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cocodrilo verde bordado
-- Dimensiones 15,2 x 20,3 x 2,5 cm
 - Bolsillo de cremallera exterior; bolsillo de cremallera y bolsillo plano de malla en el interior
-- Cierre de cremallera y correa de hombro ajustable
+- Dimensiones 15,2 x 20,3 x 2,5 cm
+- Cocodrilo verde bordado
 - PVC
+- Cierre de cremallera y correa de hombro ajustable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08B5Z75TY{{</world>}}

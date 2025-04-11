@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta cortavientos con capucha y material que absorbe el agua, adecuado para llevar de día y de noche, adecuado para el excursionismo, las actividades al aire libre y el uso cotidiano, ajuste activo
-- 1x Columbia Flash Forward Chaqueta cortavientos para mujer, Fibra sintética, Blanco/Negro, S, Art. 1585911
-- Dobladillo con cordón para una comodidad adecuada, Poliéster ligero y duradero
 - Práctica cremallera completa, 2 bolsillos con cremallera para calentar y guardar los objetos de valor
+- Chaqueta cortavientos con capucha y material que absorbe el agua, adecuado para llevar de día y de noche, adecuado para el excursionismo, las actividades al aire libre y el uso cotidiano, ajuste activo
+- Dobladillo con cordón para una comodidad adecuada, Poliéster ligero y duradero
+- 1x Columbia Flash Forward Chaqueta cortavientos para mujer, Fibra sintética, Blanco/Negro, S, Art. 1585911
 - Chaqueta para usar todo el año: Tejido impermeable, Capucha ajustable y puños elásticos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

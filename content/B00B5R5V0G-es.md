@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La válvula es de auto-sellado gracias a una junta tórica
 - Instalación para el suministro de agua desde el suelo o en la pared
 - ROB.RAD.SR EQ.NICK. STANDARD 1/2
+- La válvula es de auto-sellado gracias a una junta tórica
 - Adecuado para todos los radiadores 15/21
 - Se instala en el radiador de un sistema de calefacción
 

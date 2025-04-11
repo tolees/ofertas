@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La edición incluye:
 - Una postal metalizada
+- La edición incluye:
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C28B5QVM{{</world>}}

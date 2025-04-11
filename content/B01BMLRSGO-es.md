@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye una lendrera metálica
 - Es fácil de usar
 - Fórmula sin pesticidas
-- Tiene un efecto rápido
+- Incluye una lendrera metálica
 - No daña el cuero cabelludo
+- Tiene un efecto rápido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BMLRSGO{{</world>}}

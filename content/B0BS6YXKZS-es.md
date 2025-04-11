@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste clásico
 - Cuello redondo
-- Detalle acanalado en cuello, puños y dobladillo
 - Logotipo HACKETT bordado en el pecho
+- Detalle acanalado en cuello, puños y dobladillo
+- Ajuste clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS6YXKZS{{</world>}}

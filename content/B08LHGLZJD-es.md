@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DISEÑO: Esta mini nevera portatil vintage es ideal para colocar en cualquier lugar gracias a su diseño retro y compacto. Es portatil y fácil de llevar gracias al asa superior. También dispone de una puerta magnética y una balda removible.
-- FUNCIONES: Este mini frigo retro cosméticos tiene las funciones de enfriar y también de calentar. Alcanza una temperatura interior que puede variar entre 20ºC por debajo de la temperatura ambiente en frío (alcanzando un mínimo de 0ºC) y 50ºC en caliente.
 - SILENCIOSA: El frigorifico pequeño para habitación es silencioso no alcanza más de 28dB de ruido. Podrás ubicarlo en la habitación de la casa que mejor te venga e incluso dejarla en el baño y mantener tus cremas, cosméticos y bebidas frías.
 - CAPACIDAD y DIMENSIONES: El frigorifico pequeño tiene una capacidad de hasta 4L que permite almacenar pequeños productos de cosmética, alimentos y bebidas (en total 6 latas de 33cl cada una). Tiene unas medidas de 25x19x27.5cm
 - CONECTIVIDAD: La mini nevera portatil pequeña se puede conectar tanto a la corriente eléctrica a 220V como a la toma de electricidad de un coche a 12V. La nevera tiene enchufe europeo para conectarlo a la corriente, no necesita pilas. El consumo energético conectado con enchufe 220V es de 40W en frío y 35W en caliente. Conectado a 12V el consumo energético será de 35W en frío y 32W en caliente.
+- DISEÑO: Esta mini nevera portatil vintage es ideal para colocar en cualquier lugar gracias a su diseño retro y compacto. Es portatil y fácil de llevar gracias al asa superior. También dispone de una puerta magnética y una balda removible.
+- FUNCIONES: Este mini frigo retro cosméticos tiene las funciones de enfriar y también de calentar. Alcanza una temperatura interior que puede variar entre 20ºC por debajo de la temperatura ambiente en frío (alcanzando un mínimo de 0ºC) y 50ºC en caliente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LHGLZJD{{</world>}}

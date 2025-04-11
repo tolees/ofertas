@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dispone de termostato para regular la temperatura desde 80ºC hasta 200 ºC. Tiempo ajustable de 0 a 30 minutos.
-- Cubeta de 2,5 L de capacidad para poder cocinar grandes cantidades de alimentos. 1200 W de potencia para cocinar de manera rápida todos los platos. Resultados excepcionales en todas las recetas gracias a la tecnología PerfectCook de aire caliente que circula por el interior y sale por los orificios traseros.
 - Freidora de diseño elegante y compacto con selector para controlar el funcionamiento.
-- Con protección contra sobrecaliento. Luz indicadora de funcionamiento. Base antideslizante para favorecer su apoyo durante el funcionamiento. Carcasa y asa de tacto frío.
+- Cubeta de 2,5 L de capacidad para poder cocinar grandes cantidades de alimentos. 1200 W de potencia para cocinar de manera rápida todos los platos. Resultados excepcionales en todas las recetas gracias a la tecnología PerfectCook de aire caliente que circula por el interior y sale por los orificios traseros.
+- Dispone de termostato para regular la temperatura desde 80ºC hasta 200 ºC. Tiempo ajustable de 0 a 30 minutos.
 - Freidora dietética que permite cocinar con una sola cucharada de aceite, consiguiendo unos resultados más sanos.
+- Con protección contra sobrecaliento. Luz indicadora de funcionamiento. Base antideslizante para favorecer su apoyo durante el funcionamiento. Carcasa y asa de tacto frío.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B943HVB1{{</world>}}

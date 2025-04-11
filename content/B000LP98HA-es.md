@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintas elásticas para las patas traseras
 - Con forro suave de felpa
+- Cintas elásticas para las patas traseras
 - Bandas tubulares reflectantes y estampado de huellas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- la mascarilla con leche de coco ayuda a hidratar el cabello
 - pH equilibrado y seguro para cabellos teñidos
-- Esta mascarilla tiene un 0.% de colorantes y parafinas
+- la mascarilla con leche de coco ayuda a hidratar el cabello
 - 90.% de ingredientes de origen natural (.agua purificada y materiales con ingredientes de origen natural poco procesados)
 - En asociación con El Real Jardín Botánico de Kew, una autoridad mundial líder en botánica que avala los productos realmente vegetales
+- Esta mascarilla tiene un 0.% de colorantes y parafinas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07RMJ7W63{{</world>}}

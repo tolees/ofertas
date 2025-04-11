@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Caña baja
 - Plantilla de tejido
 - Empeine hecho completamente de piel
-- Caña baja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08MT9NRSS{{</world>}}

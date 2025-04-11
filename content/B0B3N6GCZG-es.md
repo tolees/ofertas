@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Rubber Outsole
 - Normal Twill Lining
 - Canvas normal
 - Normal Twill Insole
-- Rubber Outsole
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3N6GCZG{{</world>}}

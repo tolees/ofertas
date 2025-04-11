@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Inspirado en clásicos del género como Spyro the Dragon y Jak & Daxter
-- Clive N Wrench tiene a su dúo de conejo y mono titulado saltando, rodando, flotando y girando a través de una gran cantidad de mundos extravagantes
 - Tu aventura te llevará a través del tiempo y el espacio en una nevera mágica de los años 50 en una búsqueda para deshacer el error de la prima de Clive, Nancy, y finalmente frustrar al tiránico Dr. Daucus
 - Clive N Wrench es un juego de plataformas en 3D centrado en Clive el conejo y Wrench, el mono en su espalda
+- Inspirado en clásicos del género como Spyro the Dragon y Jak & Daxter
+- Clive N Wrench tiene a su dúo de conejo y mono titulado saltando, rodando, flotando y girando a través de una gran cantidad de mundos extravagantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJL4KCR9{{</world>}}

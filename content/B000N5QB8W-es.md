@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Vida media nominal 10000 horas
 - Tenga en cuenta el flujo luminoso nominal 1750 lm, el flujo luminoso a 25 °C 1800 lm, el flujo luminoso 1750 lm, el tono de luz (designación) LUMILUX blanco frío
-- 26 vatios 2 pines g24d-3
 - Biax d dulux d y lince d
+- 26 vatios 2 pines g24d-3
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000N5QB8W{{</world>}}

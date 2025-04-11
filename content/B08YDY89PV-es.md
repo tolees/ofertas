@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Multicolor
-- Perfect gift
-- Pool pile-up
 - Comic puzzle 2000
+- Pool pile-up
+- Perfect gift
+- Multicolor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08YDY89PV{{</world>}}

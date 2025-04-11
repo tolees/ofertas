@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modalidad manos libres
 - Contestador automático
 - Unidad adicional interior para ampliación del kit Videoportero Legrand de la gama Legrand
+- Modalidad manos libres
 - Pantalla táctil a color de 7" (17,78 cm), acabado plata
 
 [🛒 Aquí!!!]({{< param buyurl >}})

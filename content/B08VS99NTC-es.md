@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela transpirable
 - Logotipo de Adidas
+- Tela transpirable
 - Material que absorbe la humedad
 - Cuello redondo
 

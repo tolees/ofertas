@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [Cilindro con CO2] Cilindro adicional de CO2 en color azul y con sistema rosca, para que tu máquina gasificadora nunca se quede sin gas
 - [Triple Control de Calidad] Solo nosotros recargamos nuestros cilindros, y no contienen nada más que CO2 de grado alimenticio. Cada cilindro vacío pasa por un Triple Control de Calidad
-- [Compatibilidad] El cilindro SodaStream de 60L es compatible con las máquinas Spirit, One Touch, Crysta Jet, Source, Play, Cool Genesis y Power
-- [Rellena y Refréscate] Cambia tu cilindro vacío por uno lleno y continúa preparando tus bebidas refrescantes favoritas en casa y ayuda a salvar el planeta
 - [Recargables] ¿Te estás quedando sin gas? Recarga tus cilindros vacíos y solo pagarás el precio del gas. Encuentra toda la información en la web de Sodastream
 - [Gran Capacidad] Cada uno de estos cilindros te permitirá crear hasta 60L de agua con gas, dependiendo del nivel de gas y el tipo de máquina gasificadora de agua
+- [Cilindro con CO2] Cilindro adicional de CO2 en color azul y con sistema rosca, para que tu máquina gasificadora nunca se quede sin gas
+- [Compatibilidad] El cilindro SodaStream de 60L es compatible con las máquinas Spirit, One Touch, Crysta Jet, Source, Play, Cool Genesis y Power
+- [Rellena y Refréscate] Cambia tu cilindro vacío por uno lleno y continúa preparando tus bebidas refrescantes favoritas en casa y ayuda a salvar el planeta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000UL0SYC{{</world>}}

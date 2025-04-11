@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Gracias a esta expansión de Jamaica, las carreras alrededor de la isla serán todavía más desafiantes y divertidas.
 - Requiere una copia del juego base Jamaica.
+- ¡Piratas, pasad por la taberna, reclutad a nuevos tripulantes y animad vuestras partidas descubriendo nuevos tesoros!
 - De 2 a 6 jugadores.
 - A partir de 8 años de edad.
-- ¡Piratas, pasad por la taberna, reclutad a nuevos tripulantes y animad vuestras partidas descubriendo nuevos tesoros!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B2RZ1FRN{{</world>}}

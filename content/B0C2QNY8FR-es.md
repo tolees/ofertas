@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte de monomalla
-- Forro textil
-- Cierre de cordones
 - Drop: 9,5 mm (talón: 33 mm / antepié: 23,5 mm)
+- Forro textil
 - Horma clásica
+- Cierre de cordones
 - Amortiguación LIGHTMOTION
+- Parte de monomalla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2QNY8FR{{</world>}}

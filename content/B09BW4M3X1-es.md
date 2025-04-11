@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para fans de 3 a 8 años
-- Aprieta el gatillo para activar las luces, los sonidos de acción y lanzar un proyectil (incluye 2 proyectiles)
-- Los sonidos activados por el movimiento hacen que los niños disfruten más del juego de imitación al hacer volar la nave de un lado para otro
 - Pulsa el botón para poner en marcha los motores y que se iluminen en el modo de vuelo de hipervelocidad
+- Para fans de 3 a 8 años
+- Los sonidos activados por el movimiento hacen que los niños disfruten más del juego de imitación al hacer volar la nave de un lado para otro
+- Aprieta el gatillo para activar las luces, los sonidos de acción y lanzar un proyectil (incluye 2 proyectiles)
 - Conjunto de nave espacial de juguete de 38cm de largo y figura del personaje Buzz Lightyear de la película Lightyear, de Disney y Pixar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

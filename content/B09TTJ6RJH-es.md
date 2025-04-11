@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RGB LED effects: Luces LED RGB con diferentes efectos de iluminación y sofware para configurarlos; cable de 1,5 m con protección para interferencias electromagnéticas
-- 6400 DPI: Ratón ergonómico con sensor óptico de hasta 6400 DPI para una alta precisión de movimientos de los jugadores más exigentes
-- 8 Customisable buttons: Botoneras configurables a través de software y controles de los DPI para aumentar o disminuir durante tu partida y obtener una respuesta rápida y precisa
 - Tipo de conectividad: Alámbrico
 - Sube de nivel con Sonic: ratón gaming con licencia Sonic, incluye una alfombrilla troquelada para que completes tu setup gamer
+- 6400 DPI: Ratón ergonómico con sensor óptico de hasta 6400 DPI para una alta precisión de movimientos de los jugadores más exigentes
+- 8 Customisable buttons: Botoneras configurables a través de software y controles de los DPI para aumentar o disminuir durante tu partida y obtener una respuesta rápida y precisa
+- RGB LED effects: Luces LED RGB con diferentes efectos de iluminación y sofware para configurarlos; cable de 1,5 m con protección para interferencias electromagnéticas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TTJ6RJH{{</world>}}

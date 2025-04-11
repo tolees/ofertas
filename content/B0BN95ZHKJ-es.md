@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Normal Insole
+- Rubber outsole
 - Malla textil lining
 - PU Superior
-- Rubber outsole
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN95ZHKJ{{</world>}}

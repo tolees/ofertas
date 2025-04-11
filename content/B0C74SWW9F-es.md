@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adornado con la icónica pestaña roja de la marca
 - Acolchado de espuma de capa
+- Adornado con la icónica pestaña roja de la marca
 - Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})

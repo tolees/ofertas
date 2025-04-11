@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Absorción inmediata
+- Absorción inmediata
 - Nutre e hidrata intensamente las manos
-- Absorción inmediata
 - Sensación de alivio, confort y bienestar sobre la piel
-- Absorción inmediata
 - Crema de manos con aceite de cannabis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

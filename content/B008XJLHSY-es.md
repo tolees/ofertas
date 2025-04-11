@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Contenido: 1 unidad
 - Voltaje: 230 V
-- Interruptor diferencial Ic60n, 1p, 10a, B
 - Fuente de energía: Manual
+- Interruptor diferencial Ic60n, 1p, 10a, B
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008XJLHSY{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo acanalado
 - PUMA Logotipo No1 plateado metálico estampado
+- Cuello redondo acanalado
 - Número de modelo: 846956
 
 [🛒 Visítala!!!]({{< param buyurl >}})

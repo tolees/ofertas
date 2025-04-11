@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MANGO DE CINTA: fácil de colgar y secar en el gancho de succión provisto
-- EXFOLIANTE: deja tu piel con una sensación súper suave y exfoliada.
 - BURBUJAS BURBUJAS BURBUJAS: ¡muchas burbujas de lujo garantizadas!
+- EXFOLIANTE: deja tu piel con una sensación súper suave y exfoliada.
 - RAMO DE DUCHA ECO: hecho de capas densas de material de malla totalmente reciclado para una rica espuma. Se puede reciclar de nuevo, por lo que no hay necesidad de vertedero.
+- MANGO DE CINTA: fácil de colgar y secar en el gancho de succión provisto
 - PAQUETE MÚLTIPLE: incluye 3 pufs de 60 g con un elegante empaque ecológico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

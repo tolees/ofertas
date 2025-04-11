@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos delanteros
 - Cómodo de llevar
+- Bolsillos delanteros
 - Con trabillas para cinturón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

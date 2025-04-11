@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protección perfecta para la cabeza
 - Alta calidad
+- Protección perfecta para la cabeza
 - Productor: HJC
 
 [🛒 Aquí!!!]({{< param buyurl >}})

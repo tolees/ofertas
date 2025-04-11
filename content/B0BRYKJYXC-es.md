@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Etiqueta de G-Star RAW de piel de vacuno en la parte posterior de la cintura
 - Talle alto
-- Prenda ajustada de arriba abajo
 - Cinco bolsillos
+- Prenda ajustada de arriba abajo
 - Bragueta de cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

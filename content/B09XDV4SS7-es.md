@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye hojas de notas, dos cintas de registro, planificador mensual en cada mes y pegatinas.
 - Cantos pintados en color negro
 - 224 páginas en Interior Semana Vista. Disposición de los días en horizontal con trama de puntos. De lunes a miércoles en página impar y de jueves a domingo en página par.
-- Tapa blanda en cuero regenerado y encuadernación flexible. Apertura de 360º.
 - Agenda Académica 2022-2023 Volcano. Abarca desde Septiembre 2022 hasta Agosto 2023. ¡Únete al universo KUNNUI!
+- Tapa blanda en cuero regenerado y encuadernación flexible. Apertura de 360º.
 - Tamaño A5: 15 x 21 cm. Sus medidas son ideales para organizarte cómodamente. Su papel es de alta calidad (100 gr)
+- Incluye hojas de notas, dos cintas de registro, planificador mensual en cada mes y pegatinas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09XDV4SS7{{</world>}}

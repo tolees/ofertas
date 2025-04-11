@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desigual
-- Tejido acolchado liso
-- Cuello alto con interior de aspecto de piel. Capucha extraíble con borde extraíble en imitación de piel
 - Largo
+- Tejido acolchado liso
 - Corte regular
+- Cuello alto con interior de aspecto de piel. Capucha extraíble con borde extraíble en imitación de piel
+- Desigual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT89SVNZ{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bank Attack incluye varios niveles de juego que deberás superar para pasar al siguiente, cada uno más difícil que el anterior
-- Recomendado a partir de 7 años
-- Contiene: caja fuerte electrónica, 8 herramientas de plástico, 12 barras de oro de plástico, 20 billetes de papel moneda e instrucciones; Requiere 3 pilas AAA (no incluidas)
-- Juego de mesa que fomenta el trabajo colaborativo y en equipo, sin una buena coordinación, sonarán las alarmas y no conseguiréis el objetivo
 - Bank Attack es un juego de estrategia y habilidad dónde los jugadores deberán formar equipo, elegir qué personaje quieren ser: hacker, experto en explosivos, tesorero o vigilante; y seguir muy bien las instrucciones del jefe para conseguir el objetivo de obtener el botín de 50 millones de dólares
+- Bank Attack incluye varios niveles de juego que deberás superar para pasar al siguiente, cada uno más difícil que el anterior
+- Contiene: caja fuerte electrónica, 8 herramientas de plástico, 12 barras de oro de plástico, 20 billetes de papel moneda e instrucciones; Requiere 3 pilas AAA (no incluidas)
+- Recomendado a partir de 7 años
+- Juego de mesa que fomenta el trabajo colaborativo y en equipo, sin una buena coordinación, sonarán las alarmas y no conseguiréis el objetivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07TJJVL9V{{</world>}}

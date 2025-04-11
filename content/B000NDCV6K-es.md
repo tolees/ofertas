@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diámetro: 6 mm
 - Producto adecuado para numerosas tareas de bricolaje y en el campo profesional
 - Longitud total (L2): 265 mm
 - Longitud de trabajo (L1): 200 mm
-- Diámetro: 6 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000NDCV6K{{</world>}}

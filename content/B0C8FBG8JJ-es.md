@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Longitud media
+- Cintura elástica con cordón
 - Tacto suave, fabricación de secado rápido
 - Bolsillos con abertura, bolsillo trasero
-- Cintura elástica con cordón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8FBG8JJ{{</world>}}

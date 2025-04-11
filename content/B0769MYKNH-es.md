@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 2 bolsillos delanteros con cremallera.
-- Chaqueta de motorista con aspecto de piel.
 - Cremallera asimétrica en la parte frontal.
 - Composición del material: 50 % viscosa y 50 % poliéster. Forro: 100 % poliéster.
+- Chaqueta de motorista con aspecto de piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0769MYKNH{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Mezcla técnica de poliéster y algodón para una óptima absorción de la humedad
 - Cuello de canalé con escote redondo
 - Estampado Wishbone
-- Mezcla técnica de poliéster y algodón para una óptima absorción de la humedad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07N4MJSR3{{</world>}}

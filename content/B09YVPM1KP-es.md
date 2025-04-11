@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reloj electrónico con programación de inicio y paro de cocción
 - Control mecánico: práctico e intuitivo para tu comodidad
+- Reloj electrónico con programación de inicio y paro de cocción
 - Control Comfort: dos mandos y un display táctil para lograr un funcionamiento realmente sencillo
 - Asistente de limpieza Aqualisis, limpia tu horno de forma rápida, ecológica y, sobre todo, cómoda
 

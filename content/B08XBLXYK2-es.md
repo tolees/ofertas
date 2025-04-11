@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello
-- Estampado
-- Tira de botones
 - Cinturón
 - Vestido largo sostenible
+- Cuello
+- Tira de botones
+- Estampado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08XBLXYK2{{</world>}}

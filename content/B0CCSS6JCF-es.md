@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cuello redondo
 - Con combinación de Tejido en el Bajo
+- Con cuello redondo
 - Sudadera De manga larga caída
 - Con estampado gráfico posicional de dibujo Y texto en el delantero
 

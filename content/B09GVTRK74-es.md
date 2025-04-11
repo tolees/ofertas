@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Batería de 5000 mAh
+- Pantalla Amoled 6.67 pulgadas
 - Smartphone Xiaomi K11R 11T 8+128 Meteorite Gray
 - Tipo de conector: mini USB
-- Pantalla Amoled 6.67 pulgadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GVTRK74{{</world>}}

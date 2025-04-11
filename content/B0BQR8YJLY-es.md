@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Mediasuela de EVA
+- Parte textil con refuerzos de ante sintético
 - Horma clásica
 - Suela de goma
 - Cierre de cordones
-- Parte textil con refuerzos de ante sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQR8YJLY{{</world>}}

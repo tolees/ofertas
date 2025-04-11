@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Planta de piel transpirable acolchada
-- Bota piso track
 - Forro de poliéster transpirable
+- Bota piso track
+- Planta de piel transpirable acolchada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09R7XFW9N{{</world>}}

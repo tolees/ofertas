@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Transpirabilidad
-- Fácil de limpiar y de secado rápido
-- Peso ligero
 - Flexible y flexible
+- Peso ligero
+- Fácil de limpiar y de secado rápido
+- Transpirabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQRT5G83{{</world>}}

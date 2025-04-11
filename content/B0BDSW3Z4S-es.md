@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compromiso de reparabilidad 15 años al precio justo con nuestra red de 6200 reparadores en todo el mundo, para contribuir a la protección del medio ambiente y la reducción de residuos
-- 4 tamaños de taza, que van desde espresso hasta taza para adaptarse a todas tus necesidades
-- La tecnología de extracción de Centrifusion garantiza una calidad de café superior
 - Un solo botón que permite hacer fácilmente un café perfecto de la longitud que elijas
 - El reconocimiento automático de la cápsula permite una adaptación óptima de los parámetros de extracción para una experiencia de café personalizada e inolvidable
 - Un surtido de 12 cápsulas ofrecido
+- Compromiso de reparabilidad 15 años al precio justo con nuestra red de 6200 reparadores en todo el mundo, para contribuir a la protección del medio ambiente y la reducción de residuos
+- 4 tamaños de taza, que van desde espresso hasta taza para adaptarse a todas tus necesidades
+- La tecnología de extracción de Centrifusion garantiza una calidad de café superior
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BDSW3Z4S{{</world>}}

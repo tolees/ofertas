@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diám. int. 1 [mm]: 63
 - Diám. int. 2[mm]: 72
 - Altura [mm]: 94
-- Diám. int. 1 [mm]: 63
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B005NFZ9UI{{</world>}}

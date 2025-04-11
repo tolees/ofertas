@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiro regular
+- Bragueta de botones
 - Cinturilla regular
 - Las perneras se estrechan en la rodilla
-- Bragueta de botones
+- Tiro regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B076VNQ2ML{{</world>}}

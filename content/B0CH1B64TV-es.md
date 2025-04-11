@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- mangueras de conexión longitud 450 mm, tuerca 3/8"
 - rango de movimiento de la palanca del mezclador: 0/90
-- caño metálico extraíble
-- caudal de agua 7,7 l/min (3 bar)
 - cabeza de ceramica
+- caño metálico extraíble
+- mangueras de conexión longitud 450 mm, tuerca 3/8"
+- caudal de agua 7,7 l/min (3 bar)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CH1B64TV{{</world>}}

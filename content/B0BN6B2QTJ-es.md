@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nivel de resistencia al agua: impermeable
 - Ancho del zapato: medio
+- Nivel de resistencia al agua: impermeable
 - Forma del tacón: plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

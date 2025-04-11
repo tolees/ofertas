@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Panorama del puente de Brooklyn en Nueva York
 - Elegante línea de puzles hecha en Italia
+- Panorama del puente de Brooklyn en Nueva York
 - Marca: Clementoni
 - Hecho con materiales reciclables
 

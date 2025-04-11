@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapatillas de running
-- Amortiguación resistente
 - Ajuste para el talón
+- Amortiguación resistente
+- Zapatillas de running
 - Explora nuestra gama de productos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

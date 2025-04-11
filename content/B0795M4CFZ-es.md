@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Rollo de 5 cm x 5 m de cinta kinesiológica, color rosa.
-- Cinta kinesiológica.
-- Cinta kinesiológica de 5 cm, sin látex, para deportes, transpirable y elástica.
 - Cinta kinesiológica elástica original para terapia.
+- Cinta kinesiológica de 5 cm, sin látex, para deportes, transpirable y elástica.
+- Cinta kinesiológica.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0795M4CFZ{{</world>}}

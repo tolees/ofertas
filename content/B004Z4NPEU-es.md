@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre trasero con botón a presión
-- Cuello volante de batista bordada
-- Composición 100% algodón
 - Manga larga
+- Composición 100% algodón
+- Cuello volante de batista bordada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004Z4NPEU{{</world>}}

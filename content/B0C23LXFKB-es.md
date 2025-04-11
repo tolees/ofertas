@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con detalle de volante en los puños Con botones
 - Con Bajo Con combinación de Tejido
+- Con detalle de volante en los puños Con botones
 - Con cuello redondo
 - Camiseta De manga larga
 

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cinturilla elástica con cordones ajustables ocultos
-- Cocodrilo bordado a tono
 - Mezcla de piqué de algodón de doble capa
+- Cocodrilo bordado a tono
 - Bolsillos laterales y tobillos elásticos
 - Regular fit
 

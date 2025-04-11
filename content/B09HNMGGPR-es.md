@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Infusionada con ingredientes que cuidan la piel, como el hongo tremella, la cica y el té verde, Fórmula vegana* *Sin ingredientes de origen animal.
 - Aplicar dos dosis en las zonas problemáticas (ojeras, acné/manchas, rojeces/irritaciones, zonas secas) para una cobertura media
-- Contenido: 1x NYX Professional Makeup Bare With Me Serum Corrector, Natural, Cobertura Media, Tono: Light, 9.6ml
-- Consigue una máxima hidratación de hasta 24 horas mientras corriges los problemas de tu piel, Apta para el rostro y el cuerpo
 - Sérum corrector de cobertura modulable, Corrige e hidrata tu piel, Para todo tipo de pieles
+- Consigue una máxima hidratación de hasta 24 horas mientras corriges los problemas de tu piel, Apta para el rostro y el cuerpo
+- Infusionada con ingredientes que cuidan la piel, como el hongo tremella, la cica y el té verde, Fórmula vegana* *Sin ingredientes de origen animal.
+- Contenido: 1x NYX Professional Makeup Bare With Me Serum Corrector, Natural, Cobertura Media, Tono: Light, 9.6ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HNMGGPR{{</world>}}

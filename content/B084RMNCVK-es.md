@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Incluye un micrófono vocal con cable de conexión Jack de 6,3mm, ideal para karaoke, que ofrece una calidad de sonido profesional.
-- Equipado con una batería integrada de 1200 mAh (recargable vía Micro USB), proporcionando hasta 7 horas (50 % volumen y luces apagadas) de reproducción.
 - Reproduce tu música a través del puerto USB, entrada MicroSD, entrada Auxiliar o mediante la tecnología Bluetooth 5.0 y multiplica el sonido conectando dos altavoces gracias a su tecnología True Wireless Stereo.
-- Altavoz portátil compatible con tecnología Bluetooth 5.0, 20W de potencia de salida de pico y luces LED multicolor incorporadas con una excelente calidad de sonido.
+- Equipado con una batería integrada de 1200 mAh (recargable vía Micro USB), proporcionando hasta 7 horas (50 % volumen y luces apagadas) de reproducción.
 - Transporta el altavoz con total comodidad gracias a su asa y ligereza (1,70 kg micro incluido).
+- Altavoz portátil compatible con tecnología Bluetooth 5.0, 20W de potencia de salida de pico y luces LED multicolor incorporadas con una excelente calidad de sonido.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084RMNCVK{{</world>}}

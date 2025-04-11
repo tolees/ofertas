@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cierre: goma
+- Talla del zapato: Medium
 - Material interior: sintético
 - Material exterior: sintético
-- Talla del zapato: Medium
-- Cierre: goma
 - Forma del talón: plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

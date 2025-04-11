@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles en el exterior: 1 visor para dni
-- Detalles en el interior: 1 clip para billetes, 2 bolsillos para documentos, 3 ranuras para tarjetas
 - Material interior: 100 % algodón
+- Detalles en el interior: 1 clip para billetes, 2 bolsillos para documentos, 3 ranuras para tarjetas
 - Clip para billetes de piel
 - 10,2 נ1,3 נ7 cm (largo נancho נalto)
+- Detalles en el exterior: 1 visor para dni
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01FM40NJQ{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camisa de muselina completa. Corte regular
 - 100% algodón
+- Camisa de muselina completa. Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNC9DK38{{</world>}}

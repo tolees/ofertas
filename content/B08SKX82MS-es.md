@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte olímpico en la espalda
-- Escote alto en el frente
 - Corte
+- Escote alto en el frente
+- Corte olímpico en la espalda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08SKX82MS{{</world>}}

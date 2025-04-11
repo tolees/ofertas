@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Forma de cultivo: Se siembra de Febrero a Mayo de asiento, a golpes y al marco de 150 x 100 cm. Los hoyos se rellenan con mantillo, depositando en cada uno de ellos de 5 a 6 semillas
 - Variedad del tipo Piel de Sapo. Produce frutos de 3 Kg. aprox. De piel verde oscura con manchas oscuras. La carne es dulce, crujiente y consistente
 - Previamente se habrán puesto en remojo unas 10 horas, para activar y facilitar su germinación. Bien enraizadas las plantitas se aclaran dejando solamente en cada golpe las 2 más vigorosas
-- Forma de cultivo: Se siembra de Febrero a Mayo de asiento, a golpes y al marco de 150 x 100 cm. Los hoyos se rellenan con mantillo, depositando en cada uno de ellos de 5 a 6 semillas
 - Siembra: de Febrero a JunioCosecha: a partir de 3 meses
 
 [🛒 Comprar!!!]({{< param buyurl >}})

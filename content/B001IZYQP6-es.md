@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con el nivel óptimo de viscosidad, no deja grumos ni mancha.
-- Máscara que aporta efecto pestañas postizas
 - Fórmula patentada que da volumen desde la ráiz hasta las puntas.
-- Olfatomológicamente testada: ideal para gente que usa lentillas
 - El cepillo especial de Max Factor cuenta con un 50% más de cerdas para separar eficazmente las pestañas
+- Con el nivel óptimo de viscosidad, no deja grumos ni mancha.
+- Olfatomológicamente testada: ideal para gente que usa lentillas
+- Máscara que aporta efecto pestañas postizas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001IZYQP6{{</world>}}

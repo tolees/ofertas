@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Asa extragrande reforzada
 - Plástico reciclado
+- Asa extragrande reforzada
 - 42 litros
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

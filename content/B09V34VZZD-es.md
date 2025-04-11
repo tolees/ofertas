@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Especialmente indicado para usar en vacaciones o actividades al aire libre en climas templados como camping, playa, montaña.
+- Fácil y directa aplicación: extender sobre la piel de manera suave y uniforme. Precisa sólo una aplicación, sin necesidad de reaplicar frecuentemente.
 - Fórmula suave, destinada a evitar el contacto con ojos, mucosas y piel dañada. No se recomienda para niños menores de 12 años y no es necesaria más de dos aplicaciones diarias.
 - Relec Fuerte Familiar Barra/stick antimosquitos ofrece hasta 7 horas de protección contra mosquitos, de una sola aplicación.
-- Fácil y directa aplicación: extender sobre la piel de manera suave y uniforme. Precisa sólo una aplicación, sin necesidad de reaplicar frecuentemente.
-- Especialmente indicado para usar en vacaciones o actividades al aire libre en climas templados como camping, playa, montaña.
 - Relec es una marca confiable que ofrece alta eficacia y seguridad. Protege a tu familia de las picaduras de insectos en cualquier situación.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

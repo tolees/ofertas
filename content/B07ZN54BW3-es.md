@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bombillas no incluidas
 - Sin bombilla
 - Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen. Este producto contiene una fuente luminosa de rating E
-- Bombillas no incluidas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07ZN54BW3{{</world>}}

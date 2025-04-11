@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Para clima invernal
-- Gorro de abrigo
 - Contiene material reciclado
+- Gorro de abrigo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKQ8VD4P{{</world>}}

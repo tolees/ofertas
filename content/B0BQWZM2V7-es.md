@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica
 - corte normal
+- Cintura elástica
 - pantalones cortos deportivos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

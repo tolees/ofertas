@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Original Mr. Wonderful.
-- Con laminado antirrayaduras y certificado FSC.
 - Ideal para la vuelta al cole.
+- Con laminado antirrayaduras y certificado FSC.
 - Carpeta sin separadores interiores, con tres solapas que evitarán que caigan los papeles guardados en su interior.
 - Cierre con goma elástica.
+- Original Mr. Wonderful.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B43YMJJQ{{</world>}}

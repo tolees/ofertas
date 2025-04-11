@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lubricación y protección contra el óxido para largos periodos de tiempo gracias a su textura en gel.
 - Ideal para aplicaciones en superficies verticales
-- Compatible con superficies metálicas, resistente a la oxidación
 - Contiene en su fórmula WD-40 Producto Multi-Uso
+- Compatible con superficies metálicas, resistente a la oxidación
+- Lubricación y protección contra el óxido para largos periodos de tiempo gracias a su textura en gel.
 - Excelentes propiedades de adherencia y sellado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

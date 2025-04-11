@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Piel: 68% textil, 32% sintético
 - 12.7952755775 pulgadas
 - Cierre: goma
-- Piel: 68% textil, 32% sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096YCPWNM{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: 50% poliéster reciclado, 21% ilon, 17% viscosa, 10% elastano, 2% poliéster
-- Tipo de producto: pantalones chinos
-- Cintura: altura normal de la cintura
 - Cierre: bragueta con cremallera
+- Tipo de producto: pantalones chinos
+- Composición del material: 50% poliéster reciclado, 21% ilon, 17% viscosa, 10% elastano, 2% poliéster
+- Cintura: altura normal de la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBNGG11M{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lámpara de pie
-- Articulo decorativo imprescindible en tu casa
-- Dimensiones: 38x38x140
 - Color Gris
+- Articulo decorativo imprescindible en tu casa
 - Fabricado con 100% MDF
+- Lámpara de pie
+- Dimensiones: 38x38x140
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSFLL5S5{{</world>}}

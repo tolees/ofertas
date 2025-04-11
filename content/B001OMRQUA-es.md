@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para una larga vida de los peces con salud
+- Fomenta la salud y la vitalidad y realza los colores
 - Mediante su filtración mecánica, biológica y química intensa, el filtro procura agua cristalina y saludable
 - Con la fórmula Clean & Clear Water; mejora la conversión de alimentos y reduce la excreción de los peces para obtener un agua de acuario limpia y clara
-- Fomenta la salud y la vitalidad y realza los colores
-- Para una larga vida de los peces con salud
 - Contiene todos los nutrientes y constituyentes importantes así como elementos traza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

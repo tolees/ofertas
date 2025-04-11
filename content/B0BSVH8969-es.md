@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
+- Almacenamiento de 512GB SSD M.2 2242 PCIe 3.0x4 NVMe
 - Pantalla de 15.6" FHD (1920x1080), IPS, 250nits, 120Hz, antirreflejos
 - Procesador Intel Core i5-11400H (6C / 12T, 2.7 / 4.5GHz, 12MB)
+- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
 - Tarjeta gráfica NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1425 / 1702MHz, TGP 130W
-- Almacenamiento de 512GB SSD M.2 2242 PCIe 3.0x4 NVMe
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BSVH8969{{</world>}}

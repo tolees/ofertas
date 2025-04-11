@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nueca de 9 x 9 mm.
 - Picaporte de acero sinterizado: soporta temperaturas superiores a los 900º.
-- Entre ejes de 72 mm.
 - Entrada de 65 mm.
+- Nueca de 9 x 9 mm.
+- Entre ejes de 72 mm.
 - Reversibles.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

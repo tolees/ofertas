@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tipo de cuello: Kent/inglés
-- Largo de manga: larga
-- Lavar en ciclo de lavado normal a 40°, No usar lejía, Secar en la secadora a temperatura baja, Planchar a un máx. 200° (Nivel 3), Limpieza en seco con percloroetileno
 - Corte: Regular Fit, corte clásico
-- Cierre: con botones
+- Largo de manga: larga
 - Cazadora vaquera de denim de tacto agradable con efectos deslavados, bolsillos con botón y tapeta en la pechera y bolsillos a los lados. Puños con un botón y trabillas ajustables en el bajo.
+- Cierre: con botones
+- Lavar en ciclo de lavado normal a 40°, No usar lejía, Secar en la secadora a temperatura baja, Planchar a un máx. 200° (Nivel 3), Limpieza en seco con percloroetileno
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJF9LSV8{{</world>}}

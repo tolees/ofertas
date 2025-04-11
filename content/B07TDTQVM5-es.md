@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre: sintético
-- 9.3700787306 Pulgadas
 - Cuero: ninguno
+- 9.3700787306 Pulgadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TDTQVM5{{</world>}}

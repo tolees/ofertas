@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Resina no tóxica: Esmalte en gel de alta calidad con leve olor y buena tenacidad. Colores resistentes y flexibles, se adhiere a la uña de manera rápida y fuerte, con un brillo permanente y espectacular.
-- Lámpara requerida: hay que secar el pintauñas semipermanentes bajo lámpara uv o led.
-- Esmaltes semipermanentes para uñas: Elite99 6 colores de esmalte semipermanente en gel de 10ml. Se puede aplicar en el salón de belleza o en la casa.
 - Uso amplio: Esmaltes en gel que mantienen las uñas impecables y flexibles, no se parten ni se escaman. Apto para uñas naturales, artificiales y acrílicas.
 - Esmales semipermanentes durables: Ofrece una larga duración de 21+ días. ¡La capa superior y la capa base son los puntos más importantes para el efecto a largo plazo! Úsalos y mantén los colores del esmalte semipermanente perfectos.
+- Lámpara requerida: hay que secar el pintauñas semipermanentes bajo lámpara uv o led.
+- Esmaltes semipermanentes para uñas: Elite99 6 colores de esmalte semipermanente en gel de 10ml. Se puede aplicar en el salón de belleza o en la casa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NPLTJSN{{</world>}}

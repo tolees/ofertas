@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajustado
 - Cintura alta
+- Ajustado
 - Vaqueros revesti
 
 [🛒 Comprar!!!]({{< param buyurl >}})

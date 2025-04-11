@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Direct Select Premium: selección directa y fácil de la zona de cocción, potencia y funciones deseadas
-- PerfectFry, control de temperatura del aceite: selecciona el nivel deseado y la sartén se calentará a la temperatura adecuada para introducir el alimento; La placa te avisará en el momento justo
 - Función Move: la preselección automática de los niveles de temperatura permite hervir de forma rápida en la zona delantera y, después, cocinar a fuego lento en la zona trasera
-- FlexInducción: máxima libertad a la hora de cocinar; Podrás colocar cualquier recipiente, sin importar su forma, tamaño o posición
+- PerfectFry, control de temperatura del aceite: selecciona el nivel deseado y la sartén se calentará a la temperatura adecuada para introducir el alimento; La placa te avisará en el momento justo
+- Direct Select Premium: selección directa y fácil de la zona de cocción, potencia y funciones deseadas
 - Función Sprint: reduce el tiempo de calentamiento de grandes cantidades de agua y otros líquidos hasta en un 50%
+- FlexInducción: máxima libertad a la hora de cocinar; Podrás colocar cualquier recipiente, sin importar su forma, tamaño o posición
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01E1GTV1C{{</world>}}

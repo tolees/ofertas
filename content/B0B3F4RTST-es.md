@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye dos figuras MARVEL: para que puedas llenar de vida inmediatamente tu escenario de superhéroes, se incluyen dos nanofiguras de metal: Spider-Man y el redactor jefe del Daily Bugle, J. Jonah Jameson.
-- Licencia 100% oficial Marvel
-- Licencia oficial de MARVEL: los detalles fieles al original garantizan que tu colección de Spider-Man se exhiba de forma ideal. Perfecto como accesorio y regalo para fans de MARVEL y niños
 - Increíblemente detallado: escalera de incendios, farola, quiosco de prensa e incluso un metro sobre raíles: El diorama de lujo tiene cinco niveles e infinitas opciones para colocar a tus héroes y villanos.
-- Adecuado a partir de 5 años
 - Da a tus personajes de Spider-Man el escenario que se merecen: Pon a Jonah Jameson bajo la gran valla publicitaria y deja que Spider-Man proteja la ciudad desde el tejado del Daily Bugle.
+- Incluye dos figuras MARVEL: para que puedas llenar de vida inmediatamente tu escenario de superhéroes, se incluyen dos nanofiguras de metal: Spider-Man y el redactor jefe del Daily Bugle, J. Jonah Jameson.
+- Licencia oficial de MARVEL: los detalles fieles al original garantizan que tu colección de Spider-Man se exhiba de forma ideal. Perfecto como accesorio y regalo para fans de MARVEL y niños
+- Adecuado a partir de 5 años
+- Licencia 100% oficial Marvel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3F4RTST{{</world>}}

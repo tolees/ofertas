@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto creado tanto para aficionados como para profesionales
 - Producto de calidad
 - Material duradero
+- Producto creado tanto para aficionados como para profesionales
 - Fácil de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

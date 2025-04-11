@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tienen un parche en la parte trasera con la marca Lee
 - Vaqueros con estilo de 5 bolsillos
+- Tienen un parche en la parte trasera con la marca Lee
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CXYCKBG{{</world>}}

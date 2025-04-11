@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hidrata y acondiciona el cabello para conseguir rizos brillantes
 - Proporciona una fijación y una forma duraderas para obtener unos rizos de aspecto natural
 - Crema para cabellos rizados que contribuye a definir y mejorar los rizos y las ondas hasta cuando hace mucha humedad
+- Hidrata y acondiciona el cabello para conseguir rizos brillantes
 - Para pelos rizados y ondulados
 - Nueva crema voluminizadora curls rock de bed head con una potente fórmula definidora de rizos; con nuevo diseño por fuera e igual de increíble por dentro (antes estaba en la gama catwalk by tigi)
 

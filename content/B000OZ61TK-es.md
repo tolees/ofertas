@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para niños y niñas a partir de 3 años
-- Incluye numerosos accesorios y juguetes
-- Steffi puede cuidar dos bebés al mismo tiempo
 - Ella lleva uno en el maxi-cosi y el otro en el porta-bebés
-- Muñeca de 28 cm
 - Incluye múltiples accesorios para jugar con los bebés y alimentarlos
+- Steffi puede cuidar dos bebés al mismo tiempo
+- Muñeca de 28 cm
+- Incluye numerosos accesorios y juguetes
+- Apto para niños y niñas a partir de 3 años
 - Se encarga de cuidar a dos bebés
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

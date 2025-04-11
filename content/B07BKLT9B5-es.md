@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Youve Got Crabs es el juego de cartas perfecto para adultos, adolescentes y niños (mayores de 7 años) a los que les apasionen los crustáceos y los secretos que esconde el mar en el profundo y oscuro océano
 - Incluye 78 cartas (63 x 88 mm), instrucciones (idioma español no garantizado), indicador de turno de espuma, 28 puntos cangrejo
+- Youve Got Crabs es el juego de cartas perfecto para adultos, adolescentes y niños (mayores de 7 años) a los que les apasionen los crustáceos y los secretos que esconde el mar en el profundo y oscuro océano
 - Un juego de Exploding Kittens: creadores de juegos premiados muy entretenidos y graciosísimos que harán las delicias de adultos, adolescentes y niños por igual.
-- ¿Quieres más cangrejos? Prueba la expansión Imitation Crab. Contiene 2 pinzas de cangrejo que te puedes poner y 1 carta adicional superpotente. ¡Quien tenga la carta tendrá que ponerse las pinzas!
 - Un juego de mucha estrategia para 4-10 jugadores
+- ¿Quieres más cangrejos? Prueba la expansión Imitation Crab. Contiene 2 pinzas de cangrejo que te puedes poner y 1 carta adicional superpotente. ¡Quien tenga la carta tendrá que ponerse las pinzas!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BKLT9B5{{</world>}}

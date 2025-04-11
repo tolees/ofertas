@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La mayor velocidad de perforación genera menos calor y desgaste
-- El Set de brocas para metal HSS PointTeQ ProBox de Bosch: perforación rápida en metal con diseño de la punta PointTeQ
-- Vástago de inserción cilíndrico compatible con portabrocas de tres mordazas
-- Adecuado para taladrar agujeros en acero aleado y sin alear, metales no ferrosos, plásticos y madera
 - Suministro: 25 brocas helicoidales Bosch Professional HSS PointTeQ para acero - Ø 1/1,5/2/2,5/3/3,5/4/4,5/5/5,5/6/6,5/7/7,5/8/8,5/9/9,5/10/10,5/11/11,5/12/12,5/13 mm
+- Adecuado para taladrar agujeros en acero aleado y sin alear, metales no ferrosos, plásticos y madera
+- Vástago de inserción cilíndrico compatible con portabrocas de tres mordazas
+- El Set de brocas para metal HSS PointTeQ ProBox de Bosch: perforación rápida en metal con diseño de la punta PointTeQ
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0761K1KCY{{</world>}}

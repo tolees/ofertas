@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Punto 100% algodón
 - Corte entallado
-- Manga corta
-- Cuello redondo
+- Punto 100% algodón
 - Un clásico que no debe faltar en tu armario
+- Cuello redondo
+- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08SKWJV8K{{</world>}}

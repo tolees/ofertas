@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de tracción flexible
-- Detalle del logotipo de Bobs de Skechers
 - Parte superior de lona con cordones decorativos
+- Detalle del logotipo de Bobs de Skechers
+- Suela de tracción flexible
 - Skechers Plantilla acolchada de espuma viscoelástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

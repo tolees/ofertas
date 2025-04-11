@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuenta con un escote cuadrado y tirantes anchos para los hombros
 - Tiene detalles distintivos de la marca
 - Tiene dobladillo con volantes
+- Cuenta con un escote cuadrado y tirantes anchos para los hombros
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YCNNG5Z{{</world>}}

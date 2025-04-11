@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Asas/Mango Acero
 - Extra resistente
 - piedra asar, 2 quemadores
-- Asas/Mango Acero
 - Recomendado lavar a mano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

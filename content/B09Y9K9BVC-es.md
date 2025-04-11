@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga corta
 - Cuello redondo acanalado
-- Gráfico bordado con detalles estampados en la parte delantera de la cintura
 - Bajo recto
+- Gráfico bordado con detalles estampados en la parte delantera de la cintura
+- Manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09Y9K9BVC{{</world>}}

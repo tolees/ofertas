@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Plantas cultivadas utilizando métodos naturales. Los caramelos solo contienen colorantes y saborizantes naturales, además no tienen gluten ni lactosa
+- Contiene 13 hierbas suizas: marrubio, pimpinela, verónica, malvavisco, pie de león, flor de saúco, malva, menta, salvia, milenrama, prímula, llantén y tomillo
 - Además de sus 13 hierbas, incluye extracto de regaliz, aceite esencial de anís estrellado, mentol y aceites esenciales de menta
 - Es ideal para consumir en cualquier momento y experimentar la sensación duradera y deliciosa. No contiene azúcar y es apto para vegetarianos. Contiene edulcorantes. Un consumo excesivo puede tener un efecto laxante
-- Contiene 13 hierbas suizas: marrubio, pimpinela, verónica, malvavisco, pie de león, flor de saúco, malva, menta, salvia, milenrama, prímula, llantén y tomillo
 - Ricola Regaliz es un caramelo sabor a regaliz y una pizca de anís, que alivia la garganta y las vías respiratorias, además de proporcionar un aliento fresco
-- Plantas cultivadas utilizando métodos naturales. Los caramelos solo contienen colorantes y saborizantes naturales, además no tienen gluten ni lactosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00TTX2IDQ{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Empeine de PU reciclada al 25 %
 - Suela de EVA reciclada al 30 %
-- Plantilla de ante, entresuela de corcho
 - Peso 170 g (38)
+- Plantilla de ante, entresuela de corcho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0844Y5QVD{{</world>}}

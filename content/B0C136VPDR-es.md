@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Estructura estructurada
-- Gorra ajustada
 - Visera curvada
+- Gorra ajustada
 - Logotipo de UA bordado en la parte delantera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

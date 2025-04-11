@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MANTENIMIENTO: Lavar a máquina con programa delicado y temperatura máxima de 40º. Secado a máquina, ciclo normal. No usar lejía. Planchar a temperatura media. No limpiar en seco
 - PRODUCTO: Juego de sábanas con un estampado geometrico de rayas orizontales hechas a mano alzada , fondo nude, rayas en blanco. Encimera con pespunte en embozo nude y ribete estampado en blanco. Almohada con el mismo diseño, con aplicación en nude. Bajera confección ajustable en color nude.
 - MEDIDAS DEL CONJUNTO: Una encimera de 240x270 cm.Dos fundas de almohada de 50x85 cm.Una sábana bajera ajustable de 150/160x190/200 cm Disponible en más medidas.
 - CARACTERÍSTICAS: Tacto suave. Tejido 100% Algodón.Larga duración.Alto colchón 32cm..Estampación a una sola cara
+- MANTENIMIENTO: Lavar a máquina con programa delicado y temperatura máxima de 40º. Secado a máquina, ciclo normal. No usar lejía. Planchar a temperatura media. No limpiar en seco
 - MATERIAL: El tejido sobre el que está confeccionada esta sábana es de 100 %algodón con 144 hilos. Un producto de calidad, avalado por Burrito Blanco. Se recomienda un lavadito suave inicial para que adquiera sus características de tacto y suavidad definitivas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

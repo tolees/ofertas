@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suede sintética
-- PU Superior
-- Rubber outsole
-- Malla textil lining
 - Normal Insole
+- Rubber outsole
+- PU Superior
+- Malla textil lining
+- Suede sintética
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN94DW75{{</world>}}

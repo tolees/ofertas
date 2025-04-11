@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- En el pecho hay un parche con logotipo tonal.
 - Polo BOSS de corte ajustado
 - El polo suave está hecho de piqué de algodón elástico
+- En el pecho hay un parche con logotipo tonal.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BJ7QTFSG{{</world>}}

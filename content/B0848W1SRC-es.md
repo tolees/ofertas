@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Grosor de la caja de 11 mm / diámetro de la caja: 46 mm
-- 5 atm de resistencia al agua se puede utilizar en la ducha o para nadar, pero no para bucear en aguas profundas
-- Movimiento multifunción de cuarzo
-- Esfera azul marina con efecto de rayo de sol
 - Correa de silicona azul marino
+- 5 atm de resistencia al agua se puede utilizar en la ducha o para nadar, pero no para bucear en aguas profundas
+- Esfera azul marina con efecto de rayo de sol
+- Grosor de la caja de 11 mm / diámetro de la caja: 46 mm
+- Movimiento multifunción de cuarzo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0848W1SRC{{</world>}}

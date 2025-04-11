@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material principal Piel
+- Tipo de tacón Plano
 - Altura Tacón Medio (de 3 A 5 cm)
 - Material de la suela Sintética
 - Tipo de cierre Cordones
-- Tipo de tacón Plano
+- Material principal Piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTPVXFNT{{</world>}}

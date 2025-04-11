@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Detalles de 5 bolsillos
-- Pierna recta
 - Disponible en colores de esta temporada
+- Pierna recta
 - Cintura alta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

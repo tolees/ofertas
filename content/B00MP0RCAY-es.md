@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseñada para capturar 360° de video en HD sin la necesidad de múltiples cámaras
-- Control inalámbrico con dispositivos iOS y Android y conectividad Wi-Fi/NFC
 - Tiene un sensor de 16 MB, captura fotos de 10 MP con disparo continuo, 10 FPS
 - Resistente al agua, al polvo y los golpes
+- Control inalámbrico con dispositivos iOS y Android y conectividad Wi-Fi/NFC
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MP0RCAY{{</world>}}

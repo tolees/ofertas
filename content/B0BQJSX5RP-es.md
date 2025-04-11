@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escudete de doble capa
-- Confeccionados con algodón orgánico
 - Cinturilla elástica cómoda
 - Algodón elástico suave
+- Confeccionados con algodón orgánico
+- Escudete de doble capa
 - Los bordes de las perneras se mantienen en su sitio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

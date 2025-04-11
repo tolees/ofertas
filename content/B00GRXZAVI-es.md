@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido de alcohol: 37.5 porcentaje por volumen
-- Capacidad: 1L
 - Graduación: 37,5º
+- Capacidad: 1L
 - Ron Blanco Espontaneo Y Dinámico, Ideal Para Cocteles Y Combinados
+- Contenido de alcohol: 37.5 porcentaje por volumen
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GRXZAVI{{</world>}}

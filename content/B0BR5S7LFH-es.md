@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- __corte:__ corte normal
+- __Tejido:__ algodón orgánico (160 g/m2)
 - Serigrafía en el pecho
 - __Cuello:__ Cuello redondo
-- __Tejido:__ algodón orgánico (160 g/m2)
-- __corte:__ corte normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BR5S7LFH{{</world>}}

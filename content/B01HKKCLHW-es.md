@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca
 - Producto adecuado para múltiples ocasiones
 - Ofrece comodidad y libertad de movimiento
+- Tiene detalles distintivos de la marca
 - Pantalón largo deportivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

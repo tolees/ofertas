@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alta consistencia de color gracias al bajo binning
-- Alternativa LED profesional a las lámparas convencionales de alto voltaje
-- Poco consumo de energía
 - Fácil reemplazo de lámparas halógenas debido a su diseño de vidrio compacto y de una sola óptica
+- Alta consistencia de color gracias al bajo binning
+- Poco consumo de energía
+- Alternativa LED profesional a las lámparas convencionales de alto voltaje
 - Ideal para iluminación económica con foco Características del producto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

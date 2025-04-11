@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular
 - Cuello redondo
+- Ajuste regular
 - Logotipo frontal impreso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

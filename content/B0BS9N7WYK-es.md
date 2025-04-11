@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cremallera
-- Cintura con cinturón
-- Cuello de embudo
 - Acolchado
+- Cuello de embudo
+- Cintura con cinturón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS9N7WYK{{</world>}}

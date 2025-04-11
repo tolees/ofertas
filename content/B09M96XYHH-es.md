@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Swimsuit para Mujer
+- Swim Performance
 - Talla S
 - ROXY Mujer Top Suelto Rendimiento Natación Talla S Negro
-- Swim Performance
-- Swimsuit para Mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09M96XYHH{{</world>}}

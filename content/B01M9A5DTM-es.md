@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material de la suela: goma
+- Estilo: zapatillas de running
 - Cierre: cordones
 - Material interior: tela
-- Estilo: zapatillas de running
 - Material exterior: material sintético
-- Material de la suela: goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M9A5DTM{{</world>}}

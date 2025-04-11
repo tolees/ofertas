@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Disparos a diestro y siniestro: Controla libremente las acciones y las armas del personaje, y desata un torrente de destrucción. Ejecuta giros en el aire mientras disparas con ambas manos para eliminar amenazas, o haz rebotar los proyectiles para sorprender a un enemigo por la espalda
 - A cámara lenta: Cuando las cosas se pongan feas, ralentiza la acción para concentrarte y apuntar con mayor precisión. Usa el generador automático de GIFs del juego para compartir vídeos de tus secuencias más espectaculares en las redes sociales
 - En la variedad está el gusto: Tómate un respiro de tanto disparo y disfruta de secuencias repletas de acción, como, por ejemplo, una persecución en moto. También puedes optar por algo más relajante y poner a prueba tu intelecto con una serie de puzles basados en la física, aunque ¡ojo!: pueden resultar mortíferos si te despistas
-- Disparos a diestro y siniestro: Controla libremente las acciones y las armas del personaje, y desata un torrente de destrucción. Ejecuta giros en el aire mientras disparas con ambas manos para eliminar amenazas, o haz rebotar los proyectiles para sorprender a un enemigo por la espalda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BPFBHGT7{{</world>}}

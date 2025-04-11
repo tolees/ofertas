@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Classic Watch Collection, clásico, purista y, sin embargo, emocionante: inspirado en el diseño danés, Quartz
+- Caja: acero inoxidable de grado médico 316l / oro / 34 mm de diámetro / 6 mm de espesor
+- Correa: acero inoxidable de grado médico 316l / oro / 185 mm de largo / 16 mm de ancho
 - El cristal de zafiro es resistente a golpes y rayaduras
 - El reloj incluye la caja original de BERING
 - Resistente al agua hasta 3 ATM / 30 metros / 98 pies, resistencia general a la lluvia, salpicaduras, inmersión accidental y ducha, no apto para nadar o bañarse
-- Correa: acero inoxidable de grado médico 316l / oro / 185 mm de largo / 16 mm de ancho
-- Caja: acero inoxidable de grado médico 316l / oro / 34 mm de diámetro / 6 mm de espesor
+- Classic Watch Collection, clásico, purista y, sin embargo, emocionante: inspirado en el diseño danés, Quartz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01BFCME8C{{</world>}}

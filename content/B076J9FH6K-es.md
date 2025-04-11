@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Viene con un logotipo de trébol en contraste como una impresión en el pecho
 - El tejido de algodón elástico y suave lo hace cómodo
-- Tiene el corte regular y el cuello redondo acanalado
 - La composición del material es 95% algodón y 5% elastano
+- Viene con un logotipo de trébol en contraste como una impresión en el pecho
 - Camiseta deportiva de manga corta que es adecuada a pasar el tiempo libre
+- Tiene el corte regular y el cuello redondo acanalado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076J9FH6K{{</world>}}

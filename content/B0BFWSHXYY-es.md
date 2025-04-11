@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiempo de respuesta de 5 milisegundos con OverDrive; elimina el movimiento borroso, parpadeo y desenfoque en vídeos y juegos
-- Pantalla Full HD (1080p) de 68,6 cm (27 pulgadas) y una frecuencia de actualización de 75Hz pantalla con tecnologia IPS que te permite ver claramente desde varios ángulos
+- Puertos de conexión 1 VGA, 1 HDMI 1.4 y 1 DisplayPort 1.2; está equipado con un soporte de pared VESA de 100 x 101 mm
 - Contenido de la caja: Monitor, Cable HDMI, Tarjeta de garantia, Poster de configuración rápida, Kit de documentos, Cable de alimentacion CA
 - Configurá fácilmente tu monitor personalizando los ajustes con el intuitivo botón Joypad OSD o hazlo directamente desde la pantalla con HP Display Center
+- Pantalla Full HD (1080p) de 68,6 cm (27 pulgadas) y una frecuencia de actualización de 75Hz pantalla con tecnologia IPS que te permite ver claramente desde varios ángulos
+- Tiempo de respuesta de 5 milisegundos con OverDrive; elimina el movimiento borroso, parpadeo y desenfoque en vídeos y juegos
 - Inclinación ajustable de -5° a +20°; además de ángulos de visión ultraamplios de 178°
-- Puertos de conexión 1 VGA, 1 HDMI 1.4 y 1 DisplayPort 1.2; está equipado con un soporte de pared VESA de 100 x 101 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BFWSHXYY{{</world>}}

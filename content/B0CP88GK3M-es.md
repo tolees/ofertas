@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Impreso en tablero de alta calidad, esta mini tarjeta se despliega fácilmente en una exhibición de SNOOPY y Woodstock rodeado de corazones, cuenta con un diseño troquelado, detalles de lámina roja y viene completa con un sobre rojo de la marca Hallmark
-- Mensaje en la parte trasera dice: And so do I!
-- Medidas de la tarjeta plana: 9,5 x 13,1 x 0,2 cm. Medidas de la tarjeta construida: 9,5 x 8,6 x 7,6 cm. Tamaño de envío dentro de los límites de tamaño de carta grande del Reino Unido
 - Esta tarjeta es totalmente reciclable y está hecha de material procedente de bosques bien gestionados y certificados FSC y otras fuentes controladas
 - Llena su corazón lleno de amor y alegría, junto con la amistad de Woodstock y SNOOPY con esta dulce tarjeta 3D y emergente del día de San Valentín de cacahuetes, de Hallmark
+- Mensaje en la parte trasera dice: And so do I!
+- Medidas de la tarjeta plana: 9,5 x 13,1 x 0,2 cm. Medidas de la tarjeta construida: 9,5 x 8,6 x 7,6 cm. Tamaño de envío dentro de los límites de tamaño de carta grande del Reino Unido
+- Impreso en tablero de alta calidad, esta mini tarjeta se despliega fácilmente en una exhibición de SNOOPY y Woodstock rodeado de corazones, cuenta con un diseño troquelado, detalles de lámina roja y viene completa con un sobre rojo de la marca Hallmark
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP88GK3M{{</world>}}

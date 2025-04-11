@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No es resistente al agua
 - Zapatillas de baloncesto unisex UA Lockdown 6
-- 3025616-101-10/11.5
+- No es resistente al agua
 - Unisex
+- 3025616-101-10/11.5
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09PPK28XW{{</world>}}

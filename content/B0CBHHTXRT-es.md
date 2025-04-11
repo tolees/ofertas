@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5000 mAh; mayor capacidad, menos preocupaciones; con la batería de 5000 mAh de gran capacidad y la carga rápida de 10 W, podrás disfrutar de una mayor duración de la batería durante todo el día; se acabó el preocuparse por la batería
-- Cámara dual de 8 MP; la cámara dual trasera de 8 MP incluye algoritmos de procesamiento de imágenes inteligentes que te permiten grabar todas tus historias
 - Pantalla completa de 6,52" para una visión amplia; la pantalla HD+ de 6,52" con gran tamaño y nitidez te proporcionará al instante una experiencia visual más asombrosa mientras ves películas y juegas
-- Diseño elegante y moderno; el Redmi A2 cuenta con un moderno diseño de marco plano disponible en tonos suaves de negro, verde y azul; el panel posterior texturizado tiene un aspecto de alta gama que previene las manchas de huellas dactilares y hace que sea cómodo de sujetar durante un largo periodo de tiempo
+- Cámara dual de 8 MP; la cámara dual trasera de 8 MP incluye algoritmos de procesamiento de imágenes inteligentes que te permiten grabar todas tus historias
+- 5000 mAh; mayor capacidad, menos preocupaciones; con la batería de 5000 mAh de gran capacidad y la carga rápida de 10 W, podrás disfrutar de una mayor duración de la batería durante todo el día; se acabó el preocuparse por la batería
 - MediaTek Helio G36; el Redmi A2 cuenta con un procesador de ocho núcleos que te ofrece toda la potencia que necesitas para disfrutar mientras navegas y consumes contenido multimedia
+- Diseño elegante y moderno; el Redmi A2 cuenta con un moderno diseño de marco plano disponible en tonos suaves de negro, verde y azul; el panel posterior texturizado tiene un aspecto de alta gama que previene las manchas de huellas dactilares y hace que sea cómodo de sujetar durante un largo periodo de tiempo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBHHTXRT{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para cortar hierro fundido, barras de refuerzo, acero y acero inoxidable; recomendado para cortar perfiles y láminas; también corta metales no ferrosos como cobre, latón, etc y fibra de vidrio; no diseñado para cortar aluminio y hormigón/piedra
 - Haz clic con X-LOCK, el sistema de cambio de accesorios rápido; también se adapta a amoladoras con tuercas y roscas
-- Dura hasta 100 veces más que un disco de corte abrasivo
 - Suministro: Bosch Disco de corte Expert Diamond Metal Wheel X-LOCK de 125 x 22.23 mm
+- Adecuado para cortar hierro fundido, barras de refuerzo, acero y acero inoxidable; recomendado para cortar perfiles y láminas; también corta metales no ferrosos como cobre, latón, etc y fibra de vidrio; no diseñado para cortar aluminio y hormigón/piedra
 - Arista de corte duradera con la tecnología Bosch Diamond Technology
+- Dura hasta 100 veces más que un disco de corte abrasivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B088LJXC1D{{</world>}}

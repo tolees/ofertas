@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con cápsula de impacto y hexágono para llave y poder transmitir mayores pares de giro
-- La punta Wera Black Point ofrece un alojamiento preciso y una mayor protección anticorrosiva
-- Con indicación de la medida en el mango para encontrar y ordenar la herramienta más fácilmente
-- El destorcincel para atornillar, cincelar y escoplear
 - Con varilla hexagonal pasante
+- Con cápsula de impacto y hexágono para llave y poder transmitir mayores pares de giro
+- El destorcincel para atornillar, cincelar y escoplear
+- Con indicación de la medida en el mango para encontrar y ordenar la herramienta más fácilmente
+- La punta Wera Black Point ofrece un alojamiento preciso y una mayor protección anticorrosiva
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00MUJ39AM{{</world>}}

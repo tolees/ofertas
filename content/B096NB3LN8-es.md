@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre de cordones
-- Forro textil
-- Zapatilla Lite Racer 3
-- Hay días es los que no paras Esta zapatilla adidas inspirada en el calzado de running te ayuda a seguir el ritmo Completa tu lista de tareas pendientes gracias a su cómoda mediasuela con amortiguación Cloudfoam, y luego sal a cenar con el estilo impecable de las 3 bandas
-- Mediasuela Cloudfoam
 - Parte textil
+- Forro textil
+- Hay días es los que no paras Esta zapatilla adidas inspirada en el calzado de running te ayuda a seguir el ritmo Completa tu lista de tareas pendientes gracias a su cómoda mediasuela con amortiguación Cloudfoam, y luego sal a cenar con el estilo impecable de las 3 bandas
+- Zapatilla Lite Racer 3
+- Mediasuela Cloudfoam
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096NB3LN8{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bolsillos frontales para guardar tus pertenencias
-- Algodón, poliéster y elastano
-- Manga larga
-- Logotipo del felino PUMA en la parte derecha del pecho
 - 0
+- Algodón, poliéster y elastano
+- Logotipo del felino PUMA en la parte derecha del pecho
+- Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XGVSGKZ{{</world>}}

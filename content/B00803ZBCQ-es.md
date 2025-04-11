@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 940 League Basic New York Yankees
 - Ajuste clásico con elevada logotipo del equipo bordado y bandera nueva era en el lado izquierdo
+- 940 League Basic New York Yankees
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00803ZBCQ{{</world>}}

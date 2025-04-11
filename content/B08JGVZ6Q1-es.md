@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✔️ 【 Maße 】105 mm / 162 mm / 36 mm
-- ✔️ 【Clásico de dos tonos】 El timbre mecánico de dos tonos tiene un volumen de 80dB
 - ✔️ 【Instalación en superficie】 Diseñado para instalación en superficie en interiores.
 - ✔️ 【Para instalaciones cableadas】 Fácil instalación en su sistema de timbre existente (230VAC). No se requiere equipo adicional para la conexión.
+- ✔️ 【Clásico de dos tonos】 El timbre mecánico de dos tonos tiene un volumen de 80dB
 - ✔️ 【Funciones de seguridad】 El timbre está protegido contra un uso inadecuado: un interruptor térmico apaga el dispositivo durante un tiempo determinado si el timbre se activa continuamente.
+- ✔️ 【 Maße 】105 mm / 162 mm / 36 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08JGVZ6Q1{{</world>}}

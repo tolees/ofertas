@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Sintético
-- Material de la suela: Caucho
 - Cierre: Cordones
+- Material de la suela: Caucho
+- Material exterior: Sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZK7F4L6{{</world>}}

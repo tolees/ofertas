@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tienen un parche con el logo de la marca en la parte trasera de la cintura
 - Vaqueros con diseño de 5 bolsillos
+- Tienen un parche con el logo de la marca en la parte trasera de la cintura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07MR9DXHC{{</world>}}

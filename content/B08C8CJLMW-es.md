@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cilindro para llave de 5 pitones. Diámetro: 23 mm. Longitud: 50 mm
+- Palanca de acero cromado de 110 mm. y 2 vueltas
 - Incluye 5 llaves de puntos de seguridad y plantilla de instalación
 - Cerrojo con sistema de apertura pomo/llave. Cuerpo y cerradero de acero
-- Cilindro para llave de 5 pitones. Diámetro: 23 mm. Longitud: 50 mm
 - Válido para puertas de apertura izquierda o derecha
-- Palanca de acero cromado de 110 mm. y 2 vueltas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08C8CJLMW{{</world>}}

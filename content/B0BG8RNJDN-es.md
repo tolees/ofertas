@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de malla de poliéster y materiales termosellados, suela de goma y entresuela de material sintético Phylon
-- Zapato técnico de entrenamiento KOMBAT unisex de corte bajo
 - DEPORTE
 - Logotipo de Omini en la parte trasera y etiqueta KOMBAT System Pro en la pestaña
+- Parte superior de malla de poliéster y materiales termosellados, suela de goma y entresuela de material sintético Phylon
+- Zapato técnico de entrenamiento KOMBAT unisex de corte bajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BG8RNJDN{{</world>}}

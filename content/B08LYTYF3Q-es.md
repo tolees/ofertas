@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillo en el pecho con cremallera YKK
-- Logo de Helly Hansen (HH) bordado
 - Artículos entregados: 1x Helly Hansen Kids Unisex K Champ Pile Jacket - Fleece NAVY 7
 - CREMALLERA YKK
+- Logo de Helly Hansen (HH) bordado
 - Protector de mentón
+- Bolsillo en el pecho con cremallera YKK
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LYTYF3Q{{</world>}}

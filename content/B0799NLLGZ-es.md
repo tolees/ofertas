@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crema corporal Cuidado de la piel Unisex Adulto
-- BODY BUTTER VANILLA CREME BRULEE 100ML (5901878685168)
 - Cuerpo NACOMI
+- BODY BUTTER VANILLA CREME BRULEE 100ML (5901878685168)
+- Crema corporal Cuidado de la piel Unisex Adulto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0799NLLGZ{{</world>}}

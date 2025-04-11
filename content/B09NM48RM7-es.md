@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 11,5 oz Hyperflex Bright Blue STR. Denim
-- Producción sostenible
 - Colección Forever Blue
+- Producción sostenible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09NM48RM7{{</world>}}

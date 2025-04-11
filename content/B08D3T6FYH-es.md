@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Reproduce la canción “The Doctor Checkup song ” al presionar la tirita azul
 - Contiene 3 accesorios de médico: jeringuilla, termómetro y estetoscopio
+- Para niños a partir de los 2 años, con supervisiòn adulta
 - Deja que tu niño imagine, como ser doctor en un dìa. El Maletin Musical del doctor es ncreible playrol donde podràs imaginar un dìa en una consulta mèdica
 - Dispone de asa para llevar fácilmente el set de medicina
-- Para niños a partir de los 2 años, con supervisiòn adulta
-- Reproduce la canción “The Doctor Checkup song ” al presionar la tirita azul
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08D3T6FYH{{</world>}}

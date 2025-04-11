@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una camiseta de tirantes clásica de algodón supersuave
 - Con el logotipo de Levis en el pecho
+- Una camiseta de tirantes clásica de algodón supersuave
 - Este producto es original Levis
 - Un ajuste relajado y desenfadado
 

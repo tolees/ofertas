@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Jersey de algodón puro
-- Estampado de monograma Calvin Klein en el pecho
 - Cuello redondo
+- Estampado de monograma Calvin Klein en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTFH5VN6{{</world>}}

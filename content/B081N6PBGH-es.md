@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ✔ Ajuste: gracias al ajuste Comfort Fit y al punto índigo los vaqueros son tan cómodos como el jersey de punto.
+- ✔ Material: 91% algodón, 8% poliéster, 1% elastano. Sólida alta calidad gracias a su alto rendimiento.
 - ✔ We Love Basics: atemporal y sencillo, simplemente sin cambios. Los vaqueros Mike Original Jos en los que siempre puedes confiar
 - ✔ Tu estilo: gracias al diseño clásico, los vaqueros Mike Comfort Fit de JACK & JONES se pueden combinar perfectamente con tu estilo.
-- ✔ Material: 91% algodón, 8% poliéster, 1% elastano. Sólida alta calidad gracias a su alto rendimiento.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081N6PBGH{{</world>}}

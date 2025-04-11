@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Corte clásico
 - Perneras ajustadas
-- Bolsillos laterales con cremallera
 - 100% poliéster (reciclado)
 - Cintura elástica con cordón ajustable
 - AEROREADY
+- Bolsillos laterales con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BNM2Q9JB{{</world>}}

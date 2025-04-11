@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CERRADURA DE LLAVE MÁS PULSADOR: apertura y cierre mediante llave, muy fácil de usar. Se suministra con un juego de 2 llaves. Cuenta con un pulsador, que al pulsarlo levanta la tapa automáticamente.
-- RESISTENTE Y TRANSPORTABLE: fabricada en acero, con acabado esmaltado, resistente a los golpes. Dispone además de un asa superior, de acero niquelado, para facilitar su transporte.
 - CAJA DE CAUDALES para mantener a salvo y bajo llave dinero, tarjetas, llaves y cualquier objeto pequeño de valor. Ideal para hogares, oficinas, comercios, escuelas, eventos en los que haya que guardar dinero, etc.
 - 15 CM DE ANCHURA: medidas exteriores de 8 cm de alto, 15,2 cm de ancho y 11,5 cm de fondo. También disponible en otros tamaños, en total hay 4 modelos de anchura diferentes (15, 20, 25 o 30 cm de ancho).
 - CON BANDEJA EXTRAÍBLE: caja de caudales muy práctica, incluye una bandeja multifunción extraíble para compartimentar las monedas o los objetos que se guarden.
+- CERRADURA DE LLAVE MÁS PULSADOR: apertura y cierre mediante llave, muy fácil de usar. Se suministra con un juego de 2 llaves. Cuenta con un pulsador, que al pulsarlo levanta la tapa automáticamente.
+- RESISTENTE Y TRANSPORTABLE: fabricada en acero, con acabado esmaltado, resistente a los golpes. Dispone además de un asa superior, de acero niquelado, para facilitar su transporte.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00VVLN5IQ{{</world>}}

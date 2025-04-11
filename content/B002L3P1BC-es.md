@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Restituye de forma inmediata la hidratación y suavidad de la piel
-- Devuelve el estado de hidratación natural del cutis Ácido Hialurónico de alto peso molecular para una hidratación superficial y bajo peso molecular para una hidratación profunda).
 - Aporta luminosidad y suavidad a la piel del rostro (Aceite de Onagra con Omega 6)
 - Impide la pérdida de agua transepidérmica (SK Influx).
+- Devuelve el estado de hidratación natural del cutis Ácido Hialurónico de alto peso molecular para una hidratación superficial y bajo peso molecular para una hidratación profunda).
 - No comedogénico, dermatológicamente testado.
 - Mascarilla hidratante, reequilibrante y emoliente de textura fresca y cremosa
 - Su fórmula con ácido hialurónico, ceramidas y aceite de onagra rico en Omega 6 restaura la barrera cutánea y el equilibrio hidrolipídico de la piel, manteniendo la hidratación

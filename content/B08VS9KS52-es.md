@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tela transpirable
-- Material que absorbe la humedad
 - Logotipo de Adidas
+- Material que absorbe la humedad
+- Tela transpirable
 - Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

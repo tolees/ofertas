@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Producto original Mr. Wonderful
-- realizado en PVC y plástico PET.
-- Bolígrafo Con un aguacate Wonder en su extremo y luz.
 - Ideal para la vuelta al cole.
+- Bolígrafo Con un aguacate Wonder en su extremo y luz.
+- realizado en PVC y plástico PET.
 - Nueva colección Back to school Escritura.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

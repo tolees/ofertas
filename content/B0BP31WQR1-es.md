@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Reparación
-- Hidratación
-- Protección térmica
 - Suavidad
+- Protección térmica
+- Hidratación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BP31WQR1{{</world>}}

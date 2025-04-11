@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Indicaciones: consumir preferentemente antes de la fecha indicada en la caja. Mantener a temperatura ambiente y al abrigo de la luz solar. No contiene gluten.
-- Caja lata con mensaje para madres y bombones en su interior. Una vez se acaban los bombones, la lata se puede usar para guardar cualquier tipo de objetos pequeños.
 - Contiene xxx gr de bombones xxxxx.
+- Caja lata con mensaje para madres y bombones en su interior. Una vez se acaban los bombones, la lata se puede usar para guardar cualquier tipo de objetos pequeños.
+- Indicaciones: consumir preferentemente antes de la fecha indicada en la caja. Mantener a temperatura ambiente y al abrigo de la luz solar. No contiene gluten.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CY2Y3FNY{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido ligero
-- Material de calidad
 - Ofrece comodidad y libertad de movimiento
 - Detalles distintivos de la marca
+- Tejido ligero
+- Material de calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HMKQHSC{{</world>}}

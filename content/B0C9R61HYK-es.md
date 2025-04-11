@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Respirable
 - Tecnología Dri-Fit
+- Respirable
 - Detalles reflectantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

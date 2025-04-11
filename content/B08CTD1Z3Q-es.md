@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dispositivo tipo piscina
-- Diseño de múltiples lados
 - Requiere armado
+- Diseño de múltiples lados
+- Dispositivo tipo piscina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CTD1Z3Q{{</world>}}

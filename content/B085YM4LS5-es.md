@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dimensiones montado: aprox. 80 x 56 x 34 cm (ancho x alto x profundo)
 - Tiradores de borde en metal de color plateado, pies de metal en color cromo, cantos ABS de calidad, amortiguación en puertas y cajones con cierre automático
 - Mueble para lavabo con una puerta abatible arriba a la derecha, un cajón abajo y una puerta a la izquierda, dentro tiene una balda regulable en altura, balda, compartimento y cajón con capacidad de carga de hasta 10 kg cada uno, parte superior con recorte para el sifón
-- Dimensiones montado: aprox. 80 x 56 x 34 cm (ancho x alto x profundo)
-- Todos los muebles de la empresa Germania han sido desarrollados y fabricados en Alemania. Se entregan con el seguro antivuelco incluido (tan solo hay que comprar los tornillos y los tacos por separado en función del tipo de muro)
 - Cuerpo de madera aglomerada revestida de resina de melamina en color grafito, frontales en MDF de embutición profunda en imitación a roble Grandson
+- Todos los muebles de la empresa Germania han sido desarrollados y fabricados en Alemania. Se entregan con el seguro antivuelco incluido (tan solo hay que comprar los tornillos y los tacos por separado en función del tipo de muro)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B085YM4LS5{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela exterior con un patrón específico para el trail running
 - Tecnología GEL
+- Suela exterior con un patrón específico para el trail running
 - Parte superior de malla elástica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

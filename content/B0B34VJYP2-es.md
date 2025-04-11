@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Somos miembros del Leather Working Group Tallas: 40-46, 47,5, 49, 50 H, M
-- Suela de goma dentada
 - Entresuela de goma EVA moldeada por compresión
+- Somos miembros del Leather Working Group Tallas: 40-46, 47,5, 49, 50 H, M
+- Puntera de goma para escalada
+- Suela de goma dentada
 - Tejido ReBOTL
 - Modelo con cordones
-- Puntera de goma para escalada
 - Forro ReBOTL
 
 [🛒 Visítala!!!]({{< param buyurl >}})

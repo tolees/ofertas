@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Laptop compartment padded, secure laptop sleeve for 15 inch laptop
-- Simple, clean design
 - Padded back makes for more comfortable journeys
+- Simple, clean design
+- Laptop compartment padded, secure laptop sleeve for 15 inch laptop
 - Extra strong design for protection and durability
 - Main compartment with rope and buckle closure
 

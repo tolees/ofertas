@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Set de iniciación para jovenes artistas en técnicas húmedas de pintura
-- Contiene: Giotto Témpera en tubo, pinceles, accesorios, los lápices de colores acuarelables Giotto Stilnovo Acquarell y los lápices de colores Giotto Stilnovo Bicolor
 - Con videotutoriales del paso a paso
 - Todo lo que necesitas para acercarte al mundo del dibujo y la pintura
+- Set de iniciación para jovenes artistas en técnicas húmedas de pintura
+- Contiene: Giotto Témpera en tubo, pinceles, accesorios, los lápices de colores acuarelables Giotto Stilnovo Acquarell y los lápices de colores Giotto Stilnovo Bicolor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JLTPMPZ{{</world>}}

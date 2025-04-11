@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Better Cotton Initiative (BCI). Fabricado con técnicas sin agua
-- Delgado
 - Informal. Cómodo. Hecho para durar
+- Delgado
+- Better Cotton Initiative (BCI). Fabricado con técnicas sin agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01MU98QQQ{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene logotipo de adidas en las mangas
 - Camiseta adecuada para deporte
-- Ofrece comodidad y libertad de movimiento
+- Tiene logotipo de adidas en las mangas
 - Tecnología de tejido adidas AEROREADY
+- Ofrece comodidad y libertad de movimiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08R6GM5ZC{{</world>}}

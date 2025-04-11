@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Leather Working Group certificado
 - XL EXTRALIGHT para una mayor ligereza y amortiguación
+- Leather Working Group certificado
 - Sistema de cierre de Velcro para un fácil ajuste
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

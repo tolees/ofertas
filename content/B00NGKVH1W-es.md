@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Extracto de miel: miel es muy conocido por sus propiedades antibacterianas, hidratante, antioxidante y antiinflamatorio. salicilato de metilo: antiinflamatorio y rubifying acción
 - Chondroitin sulfato: el lubricante perfecto para nuestras articulaciones, tiene propiedades antiinflamatorio. Mentol: el componente principal de la menta. Tiene propiedades ligeramente anesthetic y refrescante. descongestivo y antiséptico. También estimula la sensación de frío (analgésico)
-- Bee Venom: también llamado apitoxina Like, de APIs (abeja) latina y griega toxikon (Poison). Extracto de garra del diablo hydroglycolic: contiene dos ingredientes activos: garra del diablo y beta-sitosterol (esterol de plantas) que poseen propiedades antiinflamatorioas
-- Apitox es un producto derivado de ingredientes naturales 100%
+- Extracto de miel: miel es muy conocido por sus propiedades antibacterianas, hidratante, antioxidante y antiinflamatorio. salicilato de metilo: antiinflamatorio y rubifying acción
 - MODO DE EMPLEO: aplicar realizando un masaje hasta su total absorción. Lavar las manos tras la aplicación del producto. Apta para masaje en zonas localizadas. Recomen- dado antes y después del ejercicio físico.
+- Apitox es un producto derivado de ingredientes naturales 100%
+- Bee Venom: también llamado apitoxina Like, de APIs (abeja) latina y griega toxikon (Poison). Extracto de garra del diablo hydroglycolic: contiene dos ingredientes activos: garra del diablo y beta-sitosterol (esterol de plantas) que poseen propiedades antiinflamatorioas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00NGKVH1W{{</world>}}

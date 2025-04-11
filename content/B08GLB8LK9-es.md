@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- facil de usar
+- Texturas: Líquido
 - Propiedades: Calmante /, Hidratante
 - 300 ml
-- Texturas: Líquido
-- facil de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08GLB8LK9{{</world>}}

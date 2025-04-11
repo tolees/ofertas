@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- logotipo de adidas
 - corte normal
+- logotipo de adidas
 - Pantalón deportivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

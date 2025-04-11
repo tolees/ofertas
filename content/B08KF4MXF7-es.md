@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estándar
 - Ajuste: normal
 - Modelo: W6010811A
+- Estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KF4MXF7{{</world>}}

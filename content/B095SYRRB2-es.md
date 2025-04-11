@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ✅ Función PVR, grabador y reproductor multimedia USB.
 - ✅ Accesorios: Mando a distancia con pilas incluidas. Textos en pantalla (OSD) en español, inglés, francés, alemán, italiano, y portugués. Manual de usuario en español, inglés.
 - ✅ Televisores Led 32 Pulgadas no Smart. Resolución 1366 x 768 píxeles (HD), eficiencia energética F, sonido Dolby Digital Plus.
-- ✅ Función PVR, grabador y reproductor multimedia USB.
 - ✅ Conexiones: 3x HDMI, 1x USB, entrada de vídeo compuesto, entrada por componentes, puerto de interfaz común CI+, salida de audio digital, salida de auriculares.
 - ✅ Sintonizador digital DVB-T2/C/S2, apto para todos los países de la Unión Europea. Sintonizador de segunda generación.
 

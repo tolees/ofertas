@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece hasta 8 horas de protección continua garantizando tu comodidad mientras disfrutas de tus actividades
-- Fórmula probada y eficaz contra mosquitos comunes, tigre, garrapatas y tábanos
-- Adecuado para uso diario y actividades como excursiones
-- Gracias a su fórmula que forma una barrera protectora sobre la piel, Autan te mantiene protegiendo de Mosquitos asociados a los virus Zika, Dengue, Fiebre Amarilla, Chikungunya, Nilo Occidental y Malaria
-- Modo de empleo: Aplicar el producto con moderación y cuidado; repartir el producto uniformemente sobre la piel, pulverizando alrededor de 1 segundo las zonas expuestas; pulverizar el producto a una distancia de 15-20 cm de la piel; no aplicar el producto directamente sobre la cara; para proteger la cara de las picaduras de insectos, primero aplicar una pequeña cantidad del producto en la palma de la mano y luego extender sobre la cara, evitando los ojos y la boca; aplicar una sola vez al día en adultos y niños mayores de 12 años
-- Su fórmula en aerosol con tecnología Smooth & Dry, permite una fácil aplicación mientras deja la piel con una sensación suave y seca
 - Autan Multi-insect Spray Seco es el repelente adecuado para una protección total contra las picaduras de insectos
+- Adecuado para uso diario y actividades como excursiones
+- Su fórmula en aerosol con tecnología Smooth & Dry, permite una fácil aplicación mientras deja la piel con una sensación suave y seca
+- Modo de empleo: Aplicar el producto con moderación y cuidado; repartir el producto uniformemente sobre la piel, pulverizando alrededor de 1 segundo las zonas expuestas; pulverizar el producto a una distancia de 15-20 cm de la piel; no aplicar el producto directamente sobre la cara; para proteger la cara de las picaduras de insectos, primero aplicar una pequeña cantidad del producto en la palma de la mano y luego extender sobre la cara, evitando los ojos y la boca; aplicar una sola vez al día en adultos y niños mayores de 12 años
+- Fórmula probada y eficaz contra mosquitos comunes, tigre, garrapatas y tábanos
+- Gracias a su fórmula que forma una barrera protectora sobre la piel, Autan te mantiene protegiendo de Mosquitos asociados a los virus Zika, Dengue, Fiebre Amarilla, Chikungunya, Nilo Occidental y Malaria
+- Ofrece hasta 8 horas de protección continua garantizando tu comodidad mientras disfrutas de tus actividades
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00UCDEOHA{{</world>}}

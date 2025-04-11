@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Antes de luchar, puedes desafiar a tu rival a un juego de dados cuyo ganador definirá las reglas del encuentro, normalmente en su favor
-- Con influencias tanto surrealistas como de fantasía punk, el mundo y las civilizaciones de Zenozoik están plagados de personajes, criaturas y paisajes fascinantes
 - Aprende diversas artes marciales durante tu aventura y alterna libremente entre todas ellas, dependiendo de la situación, los tipos de enemigos y tus preferencias
-- Tu búsqueda de los grandes artefactos para derrotar a Géminis te llevará mucho más allá de lo que nunca imaginaste
 - Ataca, esquiva, aturde, bloquea, contrarresta una parada para realizar un ataque especial, cambia a la vista en primera persona para realizar técnicas únicas
+- Tu búsqueda de los grandes artefactos para derrotar a Géminis te llevará mucho más allá de lo que nunca imaginaste
+- Con influencias tanto surrealistas como de fantasía punk, el mundo y las civilizaciones de Zenozoik están plagados de personajes, criaturas y paisajes fascinantes
+- Antes de luchar, puedes desafiar a tu rival a un juego de dados cuyo ganador definirá las reglas del encuentro, normalmente en su favor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSNPV1YN{{</world>}}

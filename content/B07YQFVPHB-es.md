@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para usuarios de lentes de contacto
 - Enriquecido con aceites naturales
-- Desmaquillador para limpieza de maquillaje resistente al agua y de larga duración
 - Elimina fácilmente los restos de maquillaje sin dejar una película grasa
+- Apto para usuarios de lentes de contacto
+- Desmaquillador para limpieza de maquillaje resistente al agua y de larga duración
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YQFVPHB{{</world>}}

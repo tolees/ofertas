@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ropa interior para mujer
 - CAMISETA INDIVIDUAL
+- Ropa interior para mujer
 - Logotipo atrevido
 - Cómoda cobertura media con logotipo audaz aspecto juvenil, algodón modal contemporáneo elastano
 

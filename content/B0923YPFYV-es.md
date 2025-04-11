@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 196930
 - Para Xbox One
 - Alta calidad
 - Tour de France 2021
-- 196930
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0923YPFYV{{</world>}}

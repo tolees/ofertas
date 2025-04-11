@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta de manga larga con logotipo serigrafiado en el pecho
 - 100% algodón
+- Camiseta de manga larga con logotipo serigrafiado en el pecho
 - Logo Vans a cuadros en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

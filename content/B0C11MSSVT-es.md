@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavar a máquina
-- Calidad de confianza de Carter, precios bajos todos los días y embalaje sin etiquetas sin complicaciones, exclusivamente para miembros de Amazon
 - Mangas con volantes
+- Lavar a máquina
 - Mangas cortas
+- Calidad de confianza de Carter, precios bajos todos los días y embalaje sin etiquetas sin complicaciones, exclusivamente para miembros de Amazon
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C11MSSVT{{</world>}}

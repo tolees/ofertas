@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FACILIDAD DE MANTENIMIENTO INTEGRADA: más fácil de implementar, gestionar y mantener cuando se utiliza con Webex Control Hub (parte de las suscripciones a Cisco Webex). La aplicación independiente Webex Desk Camera para Windows o MacOS permite la instalación y la configuración de las funciones por el usuario
 - COMPATIBILIDAD: Webex Desk Camera está diseñada para su uso con ordenadores Windows o MacOS con puertos USB-C/USB-A. Está optimizada para su uso con clientes de Cisco (por ejemplo, Webex App, Webex Meetings y Jabber) o puede utilizarse con las aplicaciones de vídeo y reuniones más populares de terceros
+- FUNCIONES Y GESTIÓN INTELIGENTES BASADAS EN IA: la única cámara web diseñada con inteligencia incorporada para aprovechar la potencia de la plataforma Cisco Webex y la capacidad de ser un recurso de TI totalmente administrado con gestión de dispositivos e información centralizada
+- FACILIDAD DE MANTENIMIENTO INTEGRADA: más fácil de implementar, gestionar y mantener cuando se utiliza con Webex Control Hub (parte de las suscripciones a Cisco Webex). La aplicación independiente Webex Desk Camera para Windows o MacOS permite la instalación y la configuración de las funciones por el usuario
 - TRANQUILIDAD: cubierta por una garantía de hardware de responsabilidad limitada de un año
 - CONFERENCIAS DE VÍDEO SIN RIESGOS: cámara web USB de primera calidad diseñada para ayudarle a causar la mejor impresión con vídeo ultra HD de hasta 4K y audio de doble micrófono de alta calidad para conferencias de vídeo, streaming de vídeo y grabaciones de vídeo
-- FUNCIONES Y GESTIÓN INTELIGENTES BASADAS EN IA: la única cámara web diseñada con inteligencia incorporada para aprovechar la potencia de la plataforma Cisco Webex y la capacidad de ser un recurso de TI totalmente administrado con gestión de dispositivos e información centralizada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091KRTDH6{{</world>}}

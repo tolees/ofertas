@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo : fluorescente
 - Marca : stabilo
+- Tipo : fluorescente
 - Color : verde
 - Trazo : 2/5 mm
 

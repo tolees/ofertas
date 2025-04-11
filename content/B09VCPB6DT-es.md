@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El Real Techniques El kit de brochas de maquillaje Wanderer incluye: brocha multitarea en ángulo RT 426, brocha multitarea RT 407, brocha correctora RT 246, brocha pulidora de base RT 249, brocha para difuminar sombras RT 358, brocha para sombras cónica RT 359, brocha delineadora en ángulo RT 356, brocha para difuminar RT 332 y bolsa
-- Nuestra brocha pulidora de base 249 es perfecta para aplicar bases líquidas o en polvo en grandes cantidades y con una cobertura total.
 - El kit incluye dos brochas multitarea: la brocha multitarea en ángulo RT 426 ayuda a detallar y contornear, mientras que la brocha multitarea RT 406 ayuda a aplicar bases en polvo y polvos minerales
+- Nuestra brocha pulidora de base 249 es perfecta para aplicar bases líquidas o en polvo en grandes cantidades y con una cobertura total.
 - ¡Los cepillos y la bolsa de tamaño mediano están listos para viajar!
 - Usa el pincel corrector RT 246 para retocar la zona debajo de los ojos o las imperfecciones con corrector
 

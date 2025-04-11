@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Asa lateral de dos posiciones
 - Freno electrónico que detiene rápidamente el disco
 - Motor sin escobillas de 18 voltios
-- Asa lateral de dos posiciones
 - Los protectores de malla no permiten que el motor succione el polvo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

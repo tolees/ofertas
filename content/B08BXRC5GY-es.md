@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cremallera YKK Vislon en la parte delantera
 - Confección en forro polar interior con la cara exterior lisa
 - Paneles en contraste de forro polar con estructura
+- Cremallera YKK Vislon en la parte delantera
 - Items delivered: 1x Helly Hansen Mens - Crew Fleece Jacket Apparel Navy M
 - Bolsillos con cremallera YKK
 

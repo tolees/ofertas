@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espuma suave debajo del pie
 - Malla ligera y transpirable
+- Espuma suave debajo del pie
 - Sole con ritmo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

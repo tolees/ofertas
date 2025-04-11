@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos en la suela exterior
 - Forro de poliéster reciclado
+- Detalles distintivos en la suela exterior
 - Puntera redonda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

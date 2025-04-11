@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ND puro
-- para evitar reflejos, el tratamiento incluye siete capas anti-reflectantes en cada lado del filtro
-- capa exterior con tratamiento basado en nanotecnología que repele el agua y suciedad
-- la absorción de la luz es muy equilibrada en toda el área visible, produciendo imágenes perfectas sin dominantes de color
-- Multitratado
-- Alta calidad
 - manufacturados con un vidrio especial pulido, con efecto ND mejorado gracias a la combinación de 3 tratamientos usando una tecnología de laminado fino específica
 - Recubrimiento nano
+- capa exterior con tratamiento basado en nanotecnología que repele el agua y suciedad
+- ND puro
+- para evitar reflejos, el tratamiento incluye siete capas anti-reflectantes en cada lado del filtro
+- Alta calidad
+- la absorción de la luz es muy equilibrada en toda el área visible, produciendo imágenes perfectas sin dominantes de color
+- Multitratado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MRU56X0{{</world>}}

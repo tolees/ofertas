@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Especialmente adecuado para aplicaciones en piedra pómez, bordillo, solera, piedra caliza, clinker, mortero, hormigón celular, arenisca y ladrillo cerámico
-- Disco de corte de diamante Standard for Universal: para lograr un corte fiable del material general de construcción
 - También adecuado para hormigón, teja, yeso de cal, mármol, ladrillo refractario, pizarra, ladrillo, piedra compuesta y tableros de fibra de cemento
+- Disco de corte de diamante Standard for Universal: para lograr un corte fiable del material general de construcción
 - Diámetro: 115 mm, diámetro del orificio: 22,23 mm, anchura de corte: 2 mm, altura de segmento de 10 mm
+- Especialmente adecuado para aplicaciones en piedra pómez, bordillo, solera, piedra caliza, clinker, mortero, hormigón celular, arenisca y ladrillo cerámico
 - Los accesorios X-LOCK son compatibles con amoladoras con enganche X-LOCK y amoladoras convencionales de todas las marcas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

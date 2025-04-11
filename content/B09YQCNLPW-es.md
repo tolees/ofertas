@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- corte ajustado
-- Diseño pensado para el movimiento.
 - Inserción de malla en la espalda
+- Diseño pensado para el movimiento.
+- corte ajustado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YQCNLPW{{</world>}}

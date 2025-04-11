@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Duración del juego: 15 minutos
 - Juego de mesa para niños ambientado en los animalitos de la selva; El juego tiene dos modos de juego distintos
-- Contenido: panel de gran tamaño (90 x 25cm), 6 discos de madera (4 balones y 2 banderas), 1 dado y 20 fichas
 - Número de jugadores: de 2 a 4
+- Contenido: panel de gran tamaño (90 x 25cm), 6 discos de madera (4 balones y 2 banderas), 1 dado y 20 fichas
 - Habilidades que desarrolla: promueve la destreza y la habilidad manual
+- Duración del juego: 15 minutos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08V5KVBJZ{{</world>}}

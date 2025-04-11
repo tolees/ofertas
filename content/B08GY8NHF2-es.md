@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuado para smartphones y tabletas Android, así como para cámaras compactas
-- Las velocidades de transferencia de hasta 120 MB/s te permiten transferir hasta 1000 fotos en un minuto
 - Se ha certificado que este producto cumple con los estándares de compatibilidad de Google. Chromebook y la insignia Works With Chromebook son marcas de Google LLC
 - Clase 10 para la grabación y reproducción de vídeo de adecuada definición
+- Las velocidades de transferencia de hasta 120 MB/s te permiten transferir hasta 1000 fotos en un minuto
+- Adecuado para smartphones y tabletas Android, así como para cámaras compactas
 - Hasta 1 tb de capacidad para guardar más horas de vídeo de adecuada definición
 
 [🛒 Visítala!!!]({{< param buyurl >}})

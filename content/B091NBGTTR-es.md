@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 65% poliéster, 35% algodón
 - Diseño danés
-- suelto
+- 65% poliéster, 35% algodón
 - Sudadera con capucha
+- suelto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091NBGTTR{{</world>}}

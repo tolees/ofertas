@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Superficie dura y resistente al desgaste que permite mover la silla sin dificultad
-- Evite rascadas en el suelo, daños en las alfombras o manchas por el vertido de bebidas
 - Flexibilidad de uso en alfombras y superficies de suelo duro
 - Tamaño: 99 x 120 cm (1,20 m2)
+- Superficie dura y resistente al desgaste que permite mover la silla sin dificultad
+- Evite rascadas en el suelo, daños en las alfombras o manchas por el vertido de bebidas
 - Material resistente y duradero. Para utilizar con cualquier silla para juegos o de oficina.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

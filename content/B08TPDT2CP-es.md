@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Control Mecánico
+- Encimera - Gas - 3 Zonas
 - 1 triple quemador
 - Rejillas de hierro fundido
 - Quemadores de gas sobre placa de vidrio
-- Encimera - Gas - 3 Zonas
-- Control Mecánico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08TPDT2CP{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Base de enchufe múltiple con 6 tomas de corriente 6 en una práctica disposición de 45°, cable de 1,5m (H05VV-F 3G1,5), regleta enchufes con protección de sobretensión
+- Base enchufe múltiple para uso en interiores con interruptor de seguridad iluminado para encendido y apagado (bipolar)
+- Regleta enchufes con protección contra sobretensiones: El protector sobretensión protege los aparatos valiosos de sobretensiones con una corriente de fuga máx. de hasta 13.500 A (protección ante tormentas eléctricas, picos de tensión, etc.)
 - Volumen de suministro: 1x regleta de corriente Eco-Line con protección contra sobretensión, con 6 tomas de corriente en color gris claro - en la máxima calidad de brennenstuhl
 - Regleta de enchufes con protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
-- Base de enchufe múltiple con 6 tomas de corriente 6 en una práctica disposición de 45°, cable de 1,5m (H05VV-F 3G1,5), regleta enchufes con protección de sobretensión
-- Regleta enchufes con protección contra sobretensiones: El protector sobretensión protege los aparatos valiosos de sobretensiones con una corriente de fuga máx. de hasta 13.500 A (protección ante tormentas eléctricas, picos de tensión, etc.)
-- Base enchufe múltiple para uso en interiores con interruptor de seguridad iluminado para encendido y apagado (bipolar)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B002Z7EEA8{{</world>}}

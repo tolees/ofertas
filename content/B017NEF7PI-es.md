@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cubierta de PVC
 - Color Azul
-- Cuaderno de tamaño de pantalla – 24 x 32 cm
 - Viene con soporte de etiqueta
+- Cuaderno de tamaño de pantalla – 24 x 32 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B017NEF7PI{{</world>}}

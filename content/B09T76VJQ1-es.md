@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MÚLTIPLES OPCIONES DE PLANCHADO. Permite el planchado tanto vertical como horizontal y con vapor o en seco
-- CARACTERÍSTICAS BÁSICAS. Capacidad del depósito de 330ml, sistema antigoteo y spray pulverizador
-- ACCESORIOS. Incluye un vaso de llenado, un cable largo de 1,9m y talón diseñado para guardar el cable facilmente
 - POTENCIA Y VAPOR. Plancha de vapor de 2800W de potencia y base cerámica para un deslizamiento fácil. Golpe de vapor máximo de 180gr y salida de vapor variable de 0-30gr /min
 - DOSIFICACIÓN DE VAPOR Y TRIPLE SISTEMA ANTICAL. Con dosificación de vapor constante tanto en horizontal como en vertical y triple sistema antical. 1: Autolimpieza; 2: Cartucho antical; 3: Función antical
+- ACCESORIOS. Incluye un vaso de llenado, un cable largo de 1,9m y talón diseñado para guardar el cable facilmente
+- CARACTERÍSTICAS BÁSICAS. Capacidad del depósito de 330ml, sistema antigoteo y spray pulverizador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T76VJQ1{{</world>}}

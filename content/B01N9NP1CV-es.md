@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de corriente diferencial: Tipo A
-- Apagado trenzado
 - Tensión nominal: 230 V
 - La protección efectiva contra accidentes con la corriente eléctrica
 - Corriente nominal: 16 A
+- Apagado trenzado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N9NP1CV{{</world>}}

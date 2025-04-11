@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ergonómico con soporte de extensión en uno de los laterales, que amplia la mesa hasta 113 cm.
-- Estetica 100% gaming
 - Dimensiones: 113 x 60 x 75 cm - 12,5 kg
-- Construida con un tablero de fibra de carbono (100 x 60 x 75 cm) / Incluye alfombrilla XL (80 x 30 cm) resistente y lavable.
 - Soporte para auriculares y portavasos/ Patas ajustables / montaje fácil
+- Estetica 100% gaming
+- Diseño ergonómico con soporte de extensión en uno de los laterales, que amplia la mesa hasta 113 cm.
+- Construida con un tablero de fibra de carbono (100 x 60 x 75 cm) / Incluye alfombrilla XL (80 x 30 cm) resistente y lavable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096Y16YFW{{</world>}}

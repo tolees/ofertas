@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuidarse y sentirse bien nunca había sido tan fácil.
-- AQUALIA THERMAL crème réhydratante légère 50 ml
-- 0
 - Los mejores productos de higiene para tu día a día.
+- 0
+- AQUALIA THERMAL crème réhydratante légère 50 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07CGRDJ9P{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PORTOBELLO CAMISETA INDIVIDUAL
 - Camiseta de algodón de manga corta con logotipo impreso en el pecho y etiqueta tejida en el lateral.
+- PORTOBELLO CAMISETA INDIVIDUAL
 - Fabricado con 100% algodón sostenible
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mezclador de control avanzado del audio
 - Balance del chat y del juego
+- Mezclador de control avanzado del audio
 - Sonido envolvente 7.1 de HyperX con ajuste personalizado
 - Controladores de doble cámara de hyperx
 - Controles deslizantes para ajustar los graves

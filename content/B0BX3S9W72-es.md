@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La historia siempre puede avanzar Decisiones reales y múltiples finales
-- Conversaciones y elecciones que no se repiten
-- Perfiles opcionales en todo lo interactivo
-- Controles de movimiento de plataformas (WASD / mando)
 - Misterios inmersivos y centrados en la historia
+- La historia siempre puede avanzar Decisiones reales y múltiples finales
+- Perfiles opcionales en todo lo interactivo
+- Conversaciones y elecciones que no se repiten
+- Controles de movimiento de plataformas (WASD / mando)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BX3S9W72{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: Stanley
-- Gancho final móvil, a prueba de golpes
 - Ancho 12,7 mm, fibra de vidrio
+- Gancho final móvil, a prueba de golpes
+- Marca: Stanley
 - Cinta métrica en caja abierta Power Winder 6 m
 
 [🛒 Aquí!!!]({{< param buyurl >}})

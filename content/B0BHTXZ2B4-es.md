@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuello redondo, borde acanalado
-- Bajo recto
 - Estampado de G-Star RAW en la parte superior trasera
+- Bajo recto
 - Sin mangas, sisas ribeteadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

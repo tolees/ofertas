@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tapón de vaciado apto para conexión a manguera de jardín, desaguado más seguro y rápido, edad recomendada para el uso de la piscina: +6 años
-- Lona fabricada en PVC, poliéster extra fuerte tricapa con tecnología Super-Tough, gran resistencia y durabilidad, tecnología Hydro Technology Intex
 - Incluye depuradora de cartucho para filtro tipo A (no incluido), capacidad de filtración: 3.785 L/hora, capacidad de la piscina: 16.805 litros/agua
-- Accesorios: tapiz, cobertor y escalera de seguridad con escalones desmontables, tiempo de montaje: 45 minutos, capacidad orientativa: 6 personas
+- Tapón de vaciado apto para conexión a manguera de jardín, desaguado más seguro y rápido, edad recomendada para el uso de la piscina: +6 años
 - Piscina desmontable Intex con forma circular, medidas: 457x122 cm, estructura tubular metálica de acero con acabado epoxy anti óxido
+- Accesorios: tapiz, cobertor y escalera de seguridad con escalones desmontables, tiempo de montaje: 45 minutos, capacidad orientativa: 6 personas
+- Lona fabricada en PVC, poliéster extra fuerte tricapa con tecnología Super-Tough, gran resistencia y durabilidad, tecnología Hydro Technology Intex
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FA5KUP0{{</world>}}

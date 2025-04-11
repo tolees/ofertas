@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con enganche para cadenilla
 - Enlaces de alimentación flexibles incluídos
+- Con enganche para cadenilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00B9J1OTC{{</world>}}

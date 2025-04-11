@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botones traseros programables
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
-- La precisión y comodidad del Pro Controller, en modo portátil
-- Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
 - Licencias oficiales de Nintendo y Pokémon
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 - Compatible con la base de Nintendo Switch: carga la consola sin necesidad de retirarlo
+- Botones traseros programables
+- Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
+- La precisión y comodidad del Pro Controller, en modo portátil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHKTNP65{{</world>}}

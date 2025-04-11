@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Conexión USB 3.0
+- Gramaje del papel 40 - 200g/m2
 - Compatibilidad con TWAIN (Win, macOS), WIA, ICA, Linux SANE
 - Alimentador automático de documentos (ADF) para 60 hojas
-- Gramaje del papel 40 - 200g/m2
 - 70 páginas por minuto a doble cara
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Máx. Viscosidad: 100 DIN-Sek
+- Peso: 1,3 kg
 - Contenido del depósito de pintura 800 ml/Tamaño de 2 boquillas: (1,8 mm y 2,6 mm)
 - Caudal máximo: 900 g/min
-- Peso: 1,3 kg
 - Potencia: 500 W, 230 V, 50 Hz
+- Máx. Viscosidad: 100 DIN-Sek
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01C8K9SPC{{</world>}}

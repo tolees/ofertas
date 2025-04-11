@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica visible
 - Cintura media
+- Cintura elástica visible
 - Embalaje: caja
 
 [🛒 Visítala!!!]({{< param buyurl >}})

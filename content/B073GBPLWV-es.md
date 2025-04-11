@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DETALLES: Totalmente forrado con bolsillos en las costuras. Cuello alto y cremallera completa con tirador que hace que sea fácil de poner. Ribete elástico en el puño de la manga.
-- IMPERMEABLE: Tejido exterior de nailon liso y forro de tejido de poliéster. Producto totalmente forrado, acolchado y aislado.
 - AJUSTE HOLGADO: Ajuste holgado y cómodo en todo el cuerpo
+- DETALLES: Totalmente forrado con bolsillos en las costuras. Cuello alto y cremallera completa con tirador que hace que sea fácil de poner. Ribete elástico en el puño de la manga.
 - CHAQUETA PLEGABLE TIPO PLUMÓN: Esta chaqueta impermeable con capucha tipo plumón es una capa ligera perfecta. Fácil de guardar en su bolsita con cierre de cordón para que te acompañe en tus aventuras más frías.
+- IMPERMEABLE: Tejido exterior de nailon liso y forro de tejido de poliéster. Producto totalmente forrado, acolchado y aislado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B073GBPLWV{{</world>}}

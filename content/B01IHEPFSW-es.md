@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con tapa
-- Con aloe vera
-- Unidad de medida: unidad
-- Unidades: 1.0
 - Número de items: 1
+- Unidades: 1.0
+- Unidad de medida: unidad
+- Con aloe vera
+- Con tapa
 - Producto de alta calidad
 - Resistentes
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INSPIRADO EN HAWKEYE DE DISNEY PLUS: Esta figura de Kate Bishop está inspirada en la apariencia del personaje de Hawkeye, de Marvel Studios en Disney Plus
 - ACCESORIOS Y ARTICULACIÓN PREMIUM: Esta figura de Kate Bishop, de Marvel Legends Series y Disney Plus, mide 15 cm y cuenta con decorado premium y accesorios inspirados en la apariencia del personaje en la serie
 - FIGURA COLECCIONABLE A ESCALA DE 15 CM: Tanto los fans, como los coleccionistas y los niños y niñas apreciarán esta figura a escala de 15 cm de Kate Bishop, de Marvel Legends, inspirada en el Universo Cinematográfico de Marvel en Disney Plus
-- UNIVERSO DE MARVEL A ESCALA DE 15 CM: ¡Colecciona otras figuras de Marvel Legends Series inspiradas en el Universo Cinematográfico de Marvel en Disney Plus! (Las figuras adicionales se venden por separado. Sujeto a disponibilidad.)
+- INSPIRADO EN HAWKEYE DE DISNEY PLUS: Esta figura de Kate Bishop está inspirada en la apariencia del personaje de Hawkeye, de Marvel Studios en Disney Plus
 - INCLUYE PIEZA(S) PARA CONSTRUIR UNA FIGURA (INFINITY ULTRON): Cada figura Marvel Legends Disney Plus incluye, al menos, una pieza de figura. Reúne todas las figuras para construir una figura adicional (Las figuras adicionales se venden por separado. Sujeto a disponibilidad.)
+- UNIVERSO DE MARVEL A ESCALA DE 15 CM: ¡Colecciona otras figuras de Marvel Legends Series inspiradas en el Universo Cinematográfico de Marvel en Disney Plus! (Las figuras adicionales se venden por separado. Sujeto a disponibilidad.)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TS1J55X{{</world>}}

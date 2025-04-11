@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El dispensador de cubo de aleación ligera (forjado en caliente) es fácil de usar, compacto y funcional y se puede utilizar con una cuerda individual, media cuerda y cuerdas.
-- Mosquetón hms de aleación ligera con abrazadera de tornillo, diseñado para la escalada tradicional, deporte y alpinismo en general
 - Kit compuesto por desviador doble + conector snappy sg
+- Mosquetón hms de aleación ligera con abrazadera de tornillo, diseñado para la escalada tradicional, deporte y alpinismo en general
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B008DS89JK{{</world>}}

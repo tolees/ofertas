@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FUNCIONES: Con 9 niveles de potencia, la placa puede satisfacer sus diversas necesidades de cocción, como cocinar al vapor, hervir, freír, saltear, freír, guisar lentamente. Simplemente controle la potencia con el control táctil. Bloquea el panel de control para evitar que se encienda accidentalmente mientras la placa de inducción está funcionando. Muy útil para las familias con niños. Además, dispone de un indicador de calor residual.
-- MANTENIMIENTO: Toda la superficie de trabajo está diseñada con materiales de calidad y fácil de limpiar y resistente a los impactos . Esto le ofrece seguridad y una cocción cómoda y rápida. La vitrocerámica tiene una garantía de 3 años. Cualquier problema, contáctanos. Le proporcionaremos soporte técnico y le aseguraremos la solución adecuada.
 - CONTROL TÁCTIL SENSIBLE: Ajuste el nivel de cocción deseado o la temperatura de cocción con un solo toque en el panel de control táctilcon aviador acústico.
 - POTENCIA: 2 zonas de cocción: Una de 19/12 cm y otro de 15,5 cm de diámetro. La placa Vitrocerámica de Edesa posee un diseño excelente, fácil de poner 2 sartenes para cocinar. La potencia total es de 3 KW, con 2 zonas de calentamiento y la más grande puede ser compatible con las ollas y cuencos de un diámetro máximo de 19 cm.
+- MANTENIMIENTO: Toda la superficie de trabajo está diseñada con materiales de calidad y fácil de limpiar y resistente a los impactos . Esto le ofrece seguridad y una cocción cómoda y rápida. La vitrocerámica tiene una garantía de 3 años. Cualquier problema, contáctanos. Le proporcionaremos soporte técnico y le aseguraremos la solución adecuada.
+- FUNCIONES: Con 9 niveles de potencia, la placa puede satisfacer sus diversas necesidades de cocción, como cocinar al vapor, hervir, freír, saltear, freír, guisar lentamente. Simplemente controle la potencia con el control táctil. Bloquea el panel de control para evitar que se encienda accidentalmente mientras la placa de inducción está funcionando. Muy útil para las familias con niños. Además, dispone de un indicador de calor residual.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C29DHFN6{{</world>}}

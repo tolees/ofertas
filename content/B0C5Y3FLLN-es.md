@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine tejido reforzado
 - Zapatos para correr
+- Empeine tejido reforzado
 - Amortiguación FLYTEFOAM
 
 [🛒 Aquí!!!]({{< param buyurl >}})

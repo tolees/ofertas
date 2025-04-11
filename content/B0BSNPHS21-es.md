@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño tradicional de 5 bolsillos
 - Ajuste regular
 - Cierre de cremallera
+- Diseño tradicional de 5 bolsillos
 - Cintura ajustable
 - Impregnado con elasticidad para libertad de movimiento y juego
 

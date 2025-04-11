@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello alto
-- Logotipo monotipo Hilfiger de goma en el pecho
-- Dos bolsillos laterales con cremallera
 - Correas de velcro en los puños
+- Dos bolsillos laterales con cremallera
+- Logotipo monotipo Hilfiger de goma en el pecho
+- Cuello alto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSFVN1ZW{{</world>}}

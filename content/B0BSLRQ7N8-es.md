@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Plantilla extraíble
 - Cordón para ajuste individual de la anchura
 - Suela acolchada touch-it
-- Plantilla extraíble
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSLRQ7N8{{</world>}}

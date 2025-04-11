@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido de algodón cómodo
-- Camiseta de manga corta con logotipo
 - PUMA Marca para el estilo
 - Ajuste regular para el uso diario
+- Tejido de algodón cómodo
+- Camiseta de manga corta con logotipo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL9KDQBZ{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 195/80-14, 205/70-14, 195/70-15, 205/65-15, 215/60-15, 225/55-15, 195/65-16, 195/60-16 Michelin Alpin 5, 205/55-16, 215/50-16, 195/55-17, 205/50-17, 215/45-17, 235/40-17, 225/35-18
-- Homologaciones, certificaciones y conformidad con: Ö-Norm 5117, UNI 11313, TÜV.
-- Protectores de nailon que protegen las llantas de aleación contra arañazos (opcionales).
 - La cadena de tensado manual.
 - 9 mm de espacio entre la cubierta y la carrocería.
+- Homologaciones, certificaciones y conformidad con: Ö-Norm 5117, UNI 11313, TÜV.
+- Protectores de nailon que protegen las llantas de aleación contra arañazos (opcionales).
+- 195/80-14, 205/70-14, 195/70-15, 205/65-15, 215/60-15, 225/55-15, 195/65-16, 195/60-16 Michelin Alpin 5, 205/55-16, 215/50-16, 195/55-17, 205/50-17, 215/45-17, 235/40-17, 225/35-18
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009NPLYOO{{</world>}}

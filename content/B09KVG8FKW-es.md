@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Algodón suave y cómodo.
-- Piping de contraste en collar y mangas.
 - 2 paquetes de polos
 - 100% algodón
+- Piping de contraste en collar y mangas.
 - Ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

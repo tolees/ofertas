@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 bolsillos con cremallera
-- Insertos laterales de malla para una mayor transpirabilidad
 - Protector de barbilla
+- Insertos laterales de malla para una mayor transpirabilidad
+- 2 bolsillos con cremallera
 - Cremallera de 1 vía delantera en el centro
 - Ribetes de color block
 

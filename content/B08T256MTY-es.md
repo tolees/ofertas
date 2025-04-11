@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema Operativo: Windows 11 Pro
-- Memoria RAM de 8GB SO-DIMM DDR4
-- Procesador Intel Core i5-1235U (10C/DecaCore 4.4GHz, 12MB)
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles TN 220 nits
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Procesador Intel Core i5-1235U (10C/DecaCore 4.4GHz, 12MB)
+- Sistema Operativo: Windows 11 Pro
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles TN 220 nits
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Memoria RAM de 8GB SO-DIMM DDR4
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08T256MTY{{</world>}}

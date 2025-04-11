@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillo de canguro
-- Logotipo clásico
-- Súper suave y cálido
 - 70% algodón, 30% poliéster.
 - Ajuste regular
+- Súper suave y cálido
+- Logotipo clásico
+- Bolsillo de canguro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07C2CLPTN{{</world>}}

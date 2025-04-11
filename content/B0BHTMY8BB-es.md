@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
 - Bajo recto
-- Estampado gráfico en el pecho
 - Cuello redondo
+- Manga corta
+- Estampado gráfico en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BHTMY8BB{{</world>}}

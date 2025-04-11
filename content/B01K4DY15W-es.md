@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para el lavavajillas
 - Fabricado en Francia
 - En vidrio templado, resistente a los golpes
+- Apto para el lavavajillas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01K4DY15W{{</world>}}

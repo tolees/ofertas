@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Funciona con batería AAA
 - Cuenta con cepillo de limpieza
+- Funciona con batería AAA
 - Dimensiones (altura x ancho): 17.5 x 8 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

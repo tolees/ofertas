@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Rápido y práctico: este gel de afeitar forma espuma rápidamente y se aclara con facilidad, sin dejar restos pegajosos
-- Fragancia ligera y refrescante: combina madera de cedro y cáscara de naranja para crear un sofisticado aroma masculino
 - Protección de la piel: este gel de afeitar favorece el deslizamiento fluido de la maquinilla de afeitar y protege la piel contra la irritación del afeitado
+- Fragancia ligera y refrescante: combina madera de cedro y cáscara de naranja para crear un sofisticado aroma masculino
 - Reciclable: envase fabricado con material reciclable infinitamente
 - Máxima comodidad para la piel: este gel refresca para calmar la piel; elaborado con algas marinas y sin alcohol ni colorantes
 

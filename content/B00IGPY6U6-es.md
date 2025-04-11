@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1 portapuntas magnético 60mm
 - Producto original de primera calidad
-- Contiene puntas de destornillador de 25 x 25 mm que incluyen: Hex, Phillips, Pozi Drive, Slot, Security Torx, Torx y Square Incluye
 - Incluye 11 brocas HSS con revestimiento de titanio duradero en una variedad de tamaños 3 brocas para mampostería en una variedad de tamaños
+- Contiene puntas de destornillador de 25 x 25 mm que incluyen: Hex, Phillips, Pozi Drive, Slot, Security Torx, Torx y Square Incluye
+- 1 portapuntas magnético 60mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IGPY6U6{{</world>}}

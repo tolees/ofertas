@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Este producto es original Levis
+- Cuello redondo
 - Tiene detalles distintivos de la marca
 - Ofrece comodidad y libertad de movimiento
-- Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0823BB2LF{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calvin Klein Camiseta Lounge negra con logotipo de Box
 - Nuevo y genuino. Somos un vendedor autorizado de Calvin Klein.
+- Calvin Klein Camiseta Lounge negra con logotipo de Box
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BX9NYN6X{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Rollo de Cocina respetuoso con el medio ambiente
-- 1 rollo = 2,5 rollos estándar
-- 1 rollo
 - Doble Capa
+- 1 rollo = 2,5 rollos estándar
+- Rollo de Cocina respetuoso con el medio ambiente
+- 1 rollo
 - Con Ecolabel y certificado FSC (papel procedente de bosques gestionados de forma responsable y sostenible)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Paqueteage Dimensiones: 20.0 L x 20.0 H x 20.0 W (centimeters)
-- DYNS AGUA OXIGENADA 250ML
 - Paqueteage Weight: 1.0 kilograms
+- DYNS AGUA OXIGENADA 250ML
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08L9FCYRQ{{</world>}}

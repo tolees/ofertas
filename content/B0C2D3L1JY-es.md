@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El producto es apto para regalar a cualquier persona
 - El mensaje es lo suficientemente amplio
 - Caja de golosinas con mensaje de cumpleaños en su parte frontal
 - Incluye aproximadamente 100 gr de golosinas variadas
+- El producto es apto para regalar a cualquier persona
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2D3L1JY{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sistema de torsión
-- Ajuste regular
 - Zapato de tenis
+- Ajuste regular
+- Sistema de torsión
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BPFBL7MN{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Model : L70WMW36
-- Vaqueros para hombre
-- Estilo cinco bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Estilo cinco bolsillos
+- Vaqueros para hombre
+- Model : L70WMW36
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09JXLNZ3V{{</world>}}

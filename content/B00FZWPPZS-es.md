@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disponer de un kit de emergencia en el vehículo supone una garantía de seguridad
 - Selección de las principales lámparas necesarias en un vehículo, disponibles en un kit
-- ECE aprobadas
-- Adecuado para trayectos largos
-- Su pequeño tamaño está optimizado para ser guardado en la guantera, en el maletero o debajo del asiento
 - Lámpara para faro (H1, H4 o H7) + P21W + PY21W + R5W + T4W + P21/5W + W5W + C5W, fusible 2x 10A + fusible 1x 15A + fusible 1x 20A
+- Disponer de un kit de emergencia en el vehículo supone una garantía de seguridad
+- Su pequeño tamaño está optimizado para ser guardado en la guantera, en el maletero o debajo del asiento
+- Adecuado para trayectos largos
+- ECE aprobadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FZWPPZS{{</world>}}

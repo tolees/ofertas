@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Blusa entallada de manga larga
 - Con cuello mao Con abertura en el escote
 - Con botones en el delantero y en los puños
-- Blusa entallada de manga larga
 - Con logo bordado en el lateral
 
 [🛒 Visítala!!!]({{< param buyurl >}})

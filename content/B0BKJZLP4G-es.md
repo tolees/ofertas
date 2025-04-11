@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Vaporizador de 100ml
-- Colonia infantil marca Scalpers con fragancia efervescente y refrescante para niños
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Es una fragancia para niños iguales a sus padres: divertidos, aventureros y con mucha personalidad. Le gusta vestirse y oler igual de bien que él, y jugar con sus amigos con una energía inagotable
+- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
+- Colonia infantil marca Scalpers con fragancia efervescente y refrescante para niños
 - Las notas de salida son aceite de mandarina, aceite de limón y granada, para seguir con las notas de kiwi, flor de naranja y fresia, y terminar con almenadra, aceite de madera de cedro y almizcles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

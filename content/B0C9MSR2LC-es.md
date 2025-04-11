@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de estiramiento: elasticidad media
-- Ajuste: ajustado
 - Jeans Pantalones Largos
-- Composición: 67% algodón 21% poliéster 10% viscosa 2% elastano
+- Ajuste: ajustado
 - Instrucciones de cuidado: lavable a máquina
+- Composición: 67% algodón 21% poliéster 10% viscosa 2% elastano
+- Tipo de estiramiento: elasticidad media
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C9MSR2LC{{</world>}}

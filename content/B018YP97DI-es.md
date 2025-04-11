@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ángulo de oscilación: 1,4° peso incl. batería: 1,6 kg
+- Con luz LED integrada para una visibilidad óptima
 - Incluye: GOP 18V-28, maletín L-BOXX 136 (batería y cargador no incluidos)
+- Ángulo de oscilación: 1,4° peso incl. batería: 1,6 kg
 - Portaherramientas 3D Starlock para la transmisión de potencia con pocas pérdidas desde el equipo hasta los accesorios
 - Professional 18V System. Máximo rendimiento. Máxima libertad. Todas las baterías son compatibles con herramientas Bosch Professional nuevas y ya existentes del mismo voltaje.
-- Con luz LED integrada para una visibilidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B018YP97DI{{</world>}}

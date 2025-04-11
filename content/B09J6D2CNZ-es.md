@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - MOTUL INJECTOR CLEANER es un aditivo de acción inmediata diseñado para su uso en todos los tipos de motores de gasolina con sistema de inyección o de carburador, atmosférico o turbo, con o sin catalizador, utilizando cualquier tipo de gasolina, con o sin plomo, GLP, etanol y biocarburantes
 - Fácil de usar
-- Marca: Motul
 - MOTUL INJECTOR CLEANER limpia eficazmente la suciedad y los bloqueos que se acumulan en el sistema de alimentación:
+- Marca: Motul
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09J6D2CNZ{{</world>}}

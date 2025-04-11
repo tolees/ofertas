@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alisadores con revestimiento cerámico de queratina
 - Cable giratorio
 - Cerradura de transporte
+- Alisadores con revestimiento cerámico de queratina
 - Material: Cerámica
 - Fácil de usar
 

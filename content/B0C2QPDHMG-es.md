@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Horma clásica
 - Zapatilla de skate para uso diario
 - Plantilla OrthoLite
-- Horma clásica
 - Parte de lona
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Asombroso
-- Zapatillas para correr corriendo
 - No ceñido
+- Zapatillas para correr corriendo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNJJSM1B{{</world>}}

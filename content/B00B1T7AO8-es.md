@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Clásica chaqueta Harrington para hombre
 - Cintura y puños acanalados
-- Forro en diseño de tartán
 - 65% poliéster, 35% algodón Forro: 100% poliacrílico Forro del brazo: 100% poliéster Puños: 69% poliacrílico, 31% poliéster
 - Manga larga
+- Forro en diseño de tartán
+- Clásica chaqueta Harrington para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00B1T7AO8{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rivoluzione del gioco fisico
-- Modalità: Il Viaggio, vivi la tua storia dentro e fuori dal campo vestendo i panni di Alex Hunter
 - Nuove tecniche di attacco
 - Sistema di intelligenza artificiale attivo
 - Calci piazzati rinnovati.Modalità Carriera
+- Rivoluzione del gioco fisico
+- Modalità: Il Viaggio, vivi la tua storia dentro e fuori dal campo vestendo i panni di Alex Hunter
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01GOI4GDS{{</world>}}

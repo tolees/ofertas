@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Gamuza
 - Suela de goma
 - Marca Calvin Klein en el lateral
 - Lengüeta y tobillo de la marca Calvin Klein
-- Gamuza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJ4P9GCZ{{</world>}}

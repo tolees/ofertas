@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Enseña a estos hippies quien manda usando armas clásicas y nueva tecnología como una lluvia de meteoritos
-- Defiéndete en un mundo abierto mas grande de los que quieren que fracases en tu misión
-- Invita a un amigo para disfrutar de toda la historia en el modo local de dos jugadores a pantalla dividida
-- Aspira a los humanos de diferentes países y crea con ellos cócteles de ADN para mejorar tus habilidades
 - Explora la Tierra en los años 60 y descarga tu platillo sobre todas las ciudades ficticias
+- Defiéndete en un mundo abierto mas grande de los que quieren que fracases en tu misión
+- Aspira a los humanos de diferentes países y crea con ellos cócteles de ADN para mejorar tus habilidades
+- Enseña a estos hippies quien manda usando armas clásicas y nueva tecnología como una lluvia de meteoritos
+- Invita a un amigo para disfrutar de toda la historia en el modo local de dos jugadores a pantalla dividida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09GGJD7D6{{</world>}}

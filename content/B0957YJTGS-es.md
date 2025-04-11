@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Historia original supervisada por Akihito Tsukushi.
 - El reparto del anime repite sus papeles en las escenas de eventos con voz.
-- Revive el mundo del Abismo en este RPG de acción en 3D.
 - ¡Juega al juego con texto y audio en japonés o en inglés!
+- Revive el mundo del Abismo en este RPG de acción en 3D.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0957YJTGS{{</world>}}

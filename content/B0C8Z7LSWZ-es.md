@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuenta con un estilo casual
 - Ofrece una comodidad óptima
+- Cuenta con un estilo casual
 - Detalles distintivos de Tommy Hilfiger
 
 [🛒 Visítala!!!]({{< param buyurl >}})

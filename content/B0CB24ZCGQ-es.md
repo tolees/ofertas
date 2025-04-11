@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Utilizado como casual
 - No es resistente al agua
 - Corte regular
-- Utilizado como casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB24ZCGQ{{</world>}}

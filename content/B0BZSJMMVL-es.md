@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta
-- Niño
 - Disney
+- Niño
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZSJMMVL{{</world>}}

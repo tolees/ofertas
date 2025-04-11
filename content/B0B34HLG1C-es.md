@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consigue las máximas cartas de personas de distinta nacionalidad, lugares visitados y gastronomía típica y llega a la Catedral con la Compostela completada con todos los sellos para ser el jugador con una mejor experiencia en el Camino de Santiago.
-- Contenido: 126 cartas, 4 peones, tablero, 4 Compostelas, 28 fichas de sellos, instrucciones.
 - Durante siglos, el Camino de Santiago ha reunido a peregrinos de todo el mundo que, por diferentes motivos, deciden emprender su travesía año tras año.
 - Recomendado a partir de 8 años.
+- Consigue las máximas cartas de personas de distinta nacionalidad, lugares visitados y gastronomía típica y llega a la Catedral con la Compostela completada con todos los sellos para ser el jugador con una mejor experiencia en el Camino de Santiago.
+- Contenido: 126 cartas, 4 peones, tablero, 4 Compostelas, 28 fichas de sellos, instrucciones.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B34HLG1C{{</world>}}

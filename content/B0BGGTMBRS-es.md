@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte combinada con tela
-- Mediasuela Cloudfoam
 - Horma clásica
 - Forro textil
+- Parte combinada con tela
+- Mediasuela Cloudfoam
 - Cierre autoadherente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

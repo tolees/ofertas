@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Personajes carismáticos. Conoce a un grupo de personajes entrañables que no olvidarás mientras recorres los mundos de los Kukoos, y observa cómo la historia cobra vida gracias al precioso renderizado de cinemáticas y personajes con doblaje de voz.
-- ¡La colaboración es fundamental en el juego! Juega con doce Kukoos diferentes y forma equipo con cinco mascotas únicas. Usa sus habilidades únicas para resolver rompecabezas y derrotar enemigos
-- La diversión continúa. ¡Desbloquea niveles adicionales al conseguir suficientes monedas en cada mundo y vuelve a jugar esta aventura con distintas mascotas para descubrir más secretos!
-- ¡Invita a amigos a tu viaje! ¡Juega con hasta 4 jugadores en multijugador cooperativo para cuadruplicar la diversión!
 - Escenarios vibrantes para explorar. Descubre extensos y coloridos mundos con sus propios biomas únicos, secretos ocultos, peligrosos habitantes y maravillas del entorno
+- ¡Invita a amigos a tu viaje! ¡Juega con hasta 4 jugadores en multijugador cooperativo para cuadruplicar la diversión!
+- Personajes carismáticos. Conoce a un grupo de personajes entrañables que no olvidarás mientras recorres los mundos de los Kukoos, y observa cómo la historia cobra vida gracias al precioso renderizado de cinemáticas y personajes con doblaje de voz.
+- La diversión continúa. ¡Desbloquea niveles adicionales al conseguir suficientes monedas en cada mundo y vuelve a jugar esta aventura con distintas mascotas para descubrir más secretos!
+- ¡La colaboración es fundamental en el juego! Juega con doce Kukoos diferentes y forma equipo con cinco mascotas únicas. Usa sus habilidades únicas para resolver rompecabezas y derrotar enemigos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BCQX44CV{{</world>}}

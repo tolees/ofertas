@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Máxima comodidad
-- Respirable
 - Zapatos para correr
+- Respirable
+- Máxima comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BPYD66L9{{</world>}}

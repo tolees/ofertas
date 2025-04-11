@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con logo árbol bordado en el pecho
-- Manga corta
 - Regular fit
 - Colección reconsider
+- Con logo árbol bordado en el pecho
 - Color block
+- Manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BRJD4STJ{{</world>}}

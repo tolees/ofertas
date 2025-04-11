@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de malla con superposiciones sintéticas
-- Suave y transpirable
 - Botas de fútbol
+- Suave y transpirable
+- Parte superior de malla con superposiciones sintéticas
 - Comodidad y ligereza óptima
 
 [🛒 Comprar!!!]({{< param buyurl >}})

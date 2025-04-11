@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: 92% algodón, 8% licra
-- Corte regular
-- Cuello redondo
 - Camiseta de manga corta
+- Corte regular
+- Composición: 92% algodón, 8% licra
+- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0085SFXAQ{{</world>}}

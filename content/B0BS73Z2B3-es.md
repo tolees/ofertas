@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Parte superior de poliuretano y viscosa de base biológica
+- Tommy Jeans Marca
 - Insignia Tommy en la lengüeta y el talón
 - Suela de goma vulcanizada y compuesto biológico
-- Tommy Jeans Marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS73Z2B3{{</world>}}

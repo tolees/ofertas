@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo PUMA en el costado y la lengüeta
 - Franja PUMA en el medio y los costados
 - Sistema de cierre con cordones para un ajuste óptimo
+- Logotipo PUMA en el costado y la lengüeta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081QNVX66{{</world>}}

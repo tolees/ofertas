@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta retrato obra de arte
-- Estampado de obras de arte
 - Manga corta
-- Slim fit
 - Cuello redondo
+- Estampado de obras de arte
+- Camiseta retrato obra de arte
+- Slim fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0999FWHW6{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo: Sandalia con correa de talón
 - Número del fabricante: 204105 BLK
+- Estilo: Sandalia con correa de talón
 - Color: negro
 - Material: Textil sintético
 

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sumergible hasta los 3 bars
-- Correa de resina en color negro
 - Reloj digital unisex de la marca Casio
 - Con cristal acrílico
+- Correa de resina en color negro
 - Esfera rectangular con movimiento digital
 
 [🛒 Visítala!!!]({{< param buyurl >}})

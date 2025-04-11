@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- T-shirt dress made of organic cotton
 - basic dress with hidden front pockets
+- T-shirt dress made of organic cotton
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B078GYFJJK{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bolsillos frontales para paspel
-- Cordón ajustable
 - Puños de punto acado
+- Cordón ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JSRJMKM{{</world>}}

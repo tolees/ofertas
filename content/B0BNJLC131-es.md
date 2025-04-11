@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalón chino de gabardina teñida capo
 - 97% algodón, 3% elastano
+- Pantalón chino de gabardina teñida capo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNJLC131{{</world>}}

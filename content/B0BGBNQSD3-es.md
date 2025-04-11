@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Clip de talón de TPU
-- Parte superior Ripstop
 - Cuello y lengüeta acolchados en el tobillo
+- Parte superior Ripstop
+- Clip de talón de TPU
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BGBNQSD3{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puedes usarla de muchas formas, desde marinar tus carnes antes de cocinarlas hasta pincelarlas durante el asado o añadirla directamente a los platos
-- Con la gama más amplia del mercado, Prima es Nº1 en salsas Cero sin azúcares añadidos.
 - Todo el sabor ahumado de nuestra salsa Barbacoa Prima ahora también sin azúcares añadidos y con un 70% menos de calorías. Sin gluten, sin lactosa y apta para veganos.
 - Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
 - Misma receta ahora envasada en botella 100% reciclada
+- Con la gama más amplia del mercado, Prima es Nº1 en salsas Cero sin azúcares añadidos.
+- Puedes usarla de muchas formas, desde marinar tus carnes antes de cocinarlas hasta pincelarlas durante el asado o añadirla directamente a los platos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMLNX7R1{{</world>}}

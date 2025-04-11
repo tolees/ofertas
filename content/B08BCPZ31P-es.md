@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte más largo en la parte posterior que en la parte delantera
-- Mangas largas con puños abotonados
 - Solapa frontal completa con botones
+- Mangas largas con puños abotonados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BCPZ31P{{</world>}}

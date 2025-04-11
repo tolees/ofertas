@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Estampado gráfico en la parte posterior
-- Bajo recto
 - Manga corta
+- Cuello redondo
+- Bajo recto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHTNL41K{{</world>}}

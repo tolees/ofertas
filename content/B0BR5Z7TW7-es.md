@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- __Confección:__ tejido de punto liso
-- __Tejido:__ tejido liso de acrílico
-- __Corte:__ alto perfil
-- Hombre y mujer [M-L]
 - Tallas: chicos [XS-S]
+- __Corte:__ alto perfil
+- __Confección:__ tejido de punto liso
+- Hombre y mujer [M-L]
+- __Tejido:__ tejido liso de acrílico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BR5Z7TW7{{</world>}}

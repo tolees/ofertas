@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha con cordón ajustable
+- Bolsillo canguro
 - Puños y dobladillo de canalé
 - Tela suave
-- Bolsillo canguro
+- Capucha con cordón ajustable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VRYXY3X{{</world>}}

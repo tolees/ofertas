@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de nailon, ante sintético y detalles de cuero.
 - Suela exterior de goma duradera y con agarre
 - Entresuela de etileno-acetato de vinilo
+- Parte superior de nailon, ante sintético y detalles de cuero.
 - Cuenta con un clip estabilizador en el talón.
 - Zapatillas
 

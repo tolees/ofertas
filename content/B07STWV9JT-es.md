@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- __Empeine:__ Parte superior de TPU con brillo inyectado y pin con logo ROXY
-- __Plantilla:__ Plantilla de goma con textura y estampado gráfico brillante
 - __suela exterior:__suela exterior de goma con estampado ROXY vintage
+- __Plantilla:__ Plantilla de goma con textura y estampado gráfico brillante
+- __Empeine:__ Parte superior de TPU con brillo inyectado y pin con logo ROXY
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07STWV9JT{{</world>}}

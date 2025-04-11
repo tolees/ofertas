@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Artes marciales y magia: Utiliza la amplia gama de habilidades para aumentar su potencia de fuego y su movilidad. El dominio de distintos tipos de magia será esencial para explorar las distintas fases del juego
-- Recupera los recuerdos de Clementine y descubre la verdad: Los recuerdos estarán ocultos a lo largo de las distintas fases del juego en forma de fragmentos de memoria. Encuéntralos para desentrañar los muchos misterios que rodean la situación actual de Clementine
-- Mejora las armas: Mejora las armas que encuentres por la Tumba para explotar los puntos débiles de tus enemigos y perfeccionar tus favoritas
 - Edición Limitada: Juego versión standard, manual del juego, libro de arte, banda Sonora Original en CD, placa de aventurero clase Adamantina, tarjeta con contenido digital
+- Mejora las armas: Mejora las armas que encuentres por la Tumba para explotar los puntos débiles de tus enemigos y perfeccionar tus favoritas
+- Recupera los recuerdos de Clementine y descubre la verdad: Los recuerdos estarán ocultos a lo largo de las distintas fases del juego en forma de fragmentos de memoria. Encuéntralos para desentrañar los muchos misterios que rodean la situación actual de Clementine
 - Parkour lleno de acción: La increíble agilidad de Clementine le permite realizar hazañas sobrehumanas que la ayudarán a desenvolverse en su entorno de diversas maneras
+- Artes marciales y magia: Utiliza la amplia gama de habilidades para aumentar su potencia de fuego y su movilidad. El dominio de distintos tipos de magia será esencial para explorar las distintas fases del juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CT3FMMCJ{{</world>}}

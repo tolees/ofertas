@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cierre de encaje
 - Punta redonda
 - Logotipo de la marca
-- Cierre de encaje
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB1VNSX9{{</world>}}

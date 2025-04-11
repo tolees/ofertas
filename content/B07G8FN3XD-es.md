@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pantalla de 6.3", resolución Full HD+ de 2340 x 1080 pixeles
-- 4 GB de memoria RAM y 64 GB de memoria interna ampliable hasta microSD de 256 GB
 - Huawei Mate 20 Lite cuenta con una batería de larga duración de 3750 mAh
+- 4 GB de memoria RAM y 64 GB de memoria interna ampliable hasta microSD de 256 GB
 - Cámara IA, cámara frontal de 24 MP + 2 MP y la doble cámara trasera de 20 MP + 2 MP
 - El chipset Kirin 710 de 12 nm garantiza un rendimiento de juego inmersivo y una excelente eficiencia energética
 

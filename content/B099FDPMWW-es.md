@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Deslizamiento
 - Vegano
 - Espuma viscoelástica de gel
-- Deslizamiento
 - Ultra Go
 - Zapato cómodo
 

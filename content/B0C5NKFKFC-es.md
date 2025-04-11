@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El estilo del running que va contigo
 - Mediasuela Bounce
 - Cierre de cordones
+- El estilo del running que va contigo
 - Forro textil
 - Parte superior de malla
 

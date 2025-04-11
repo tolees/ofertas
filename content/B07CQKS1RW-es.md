@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- PHYSISCHE VIDEOSPIEL-SOFTWARE
 - BANDAI NAMCO Entertainment Germany
 - My Hero Ones Justice - Nintendo Switch
-- PHYSISCHE VIDEOSPIEL-SOFTWARE
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CQKS1RW{{</world>}}

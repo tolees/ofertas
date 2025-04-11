@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste relajado
-- Vegano
 - MF refrigerado por aire
 - Tejido elástico
+- Vegano
+- Ajuste relajado
 - Lavable a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})

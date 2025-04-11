@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ajuste doble: elástico y cordón
+- Logotipo serigrafiado reflectante
+- Pantalón corto de trail
 - Multibolsillos en la cintura
 - Tejido: Microfibra 95% Poliéster; 5% Elastán
-- Pantalón corto de trail
-- Logotipo serigrafiado reflectante
-- Ajuste doble: elástico y cordón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NWXLHYF{{</world>}}

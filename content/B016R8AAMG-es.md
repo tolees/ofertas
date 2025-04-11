@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 2XL – Negro/Blanco – (negro/blanco).
 - Para hombre.
+- 2XL – Negro/Blanco – (negro/blanco).
 - Adidas – Parma 16 sho WB – aj5886.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

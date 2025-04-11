@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - An official and all new story for BLACKSAD, set in the comic book series unique world, perfectly recreated for gamers
 - An investigative narrative game with gameplay combining investigations, puzzles, quick time events (QTE) and multiple choice dialog
 - More than 30 characters, including new faces and old favourites, each with their own story and side quests
-- An immersive world with a jazz soundtrack to rival the very best of Hollywoods film noir
 - Investigations, searches for clues, fights, witness interviews: let your feline instinct guide you as you infiltrate the corrupt world of boxing.Fans of adventure games will love its gameplay and narration while fans of the comic book series will be thrilled to rediscover the characters and graphic style of this unique world
+- An immersive world with a jazz soundtrack to rival the very best of Hollywoods film noir
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07QZ4H1LM{{</world>}}

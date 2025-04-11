@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1369826-001-LG
 - Guantes de entrenamiento para hombre
 - Hombres
+- 1369826-001-LG
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09JNB1W3V{{</world>}}

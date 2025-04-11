@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Horma clásica
-- Forro textil
 - Cierre de cordones
+- Forro textil
 - Parte superior de piel sintética
 - El estilo clásico del tenis
 

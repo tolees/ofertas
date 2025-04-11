@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dar vueltas
 - Cartera
+- Dar vueltas
 - Billetera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

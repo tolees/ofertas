@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Mango extensible
 - Dura, fuerte y rígida
 - Dimensión externa :585 x 361 x 238 mm.
 - Protección IP67
-- Mango extensible
 - Dimensión interna: 520 x 290 x 200 mm.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

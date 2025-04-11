@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro de material sintético
 - Empeine de malla y nylon
 - Detalles de ante
+- Forro de material sintético
 - Suela de goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

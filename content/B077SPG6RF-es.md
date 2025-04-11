@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tejido de elastano para una elasticidad duradera
 - Material de compresión para mejorar el rendimiento
 - Logotipo del felino de PUMA en la pernera izquierda
-- Tejido de elastano para una elasticidad duradera
 - dryCELL: tecnología de PUMA con propiedades repelentes de la humedad que te ayudan a mantenerte seco y cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

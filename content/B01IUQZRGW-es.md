@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Heces compactas gracias a una digestión saludable
-- Ojos brillantes signo de un buen estado de alerta
 - Purina Friskies Vitafit ayuda a mantener tu perro saludable
-- Alimento completo para perros adultos de más de 25kg
-- Ayuda a mantener un pelaje brillante y piel saludable
 - Croquetas especiales más grandes Ayuda a promover unas articulaciones saludables
+- Ojos brillantes signo de un buen estado de alerta
+- Heces compactas gracias a una digestión saludable
+- Ayuda a mantener un pelaje brillante y piel saludable
+- Alimento completo para perros adultos de más de 25kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IUQZRGW{{</world>}}

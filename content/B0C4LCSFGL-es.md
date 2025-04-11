@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cintura alta
-- Ajuste Nike Dry
 - Leggings deportivos con cintura alta Nike
+- Ajuste Nike Dry
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4LCSFGL{{</world>}}

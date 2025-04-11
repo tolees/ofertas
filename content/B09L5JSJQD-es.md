@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Franja característica PUMA en los lados lateral y medial
+- Entresuela y suela de goma
 - Cuello escotado
 - Marca PUMA impresa en la lengüeta y el talón
-- Entresuela y suela de goma
 - Parte superior ricamente construida con materiales reciclados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dos bolsillos delanteros inclinados
-- Cintura con trabillas para cinturón, botón y cremallera
 - Dos bolsillos traseros ribeteados con cierre de botón
+- Cintura con trabillas para cinturón, botón y cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BK26LPTC{{</world>}}

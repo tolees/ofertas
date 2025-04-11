@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de cuero sintético
 - Cordones
+- Parte superior de cuero sintético
 - Ajuste regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es un bolso amplio confeccionado con tejido de polipiel en la base y tejido con un bonito estampado de estilo paisley en la solapa.
 - Bolso de bebé modelo Caramelo Azul.
+- Es un bolso amplio confeccionado con tejido de polipiel en la base y tejido con un bonito estampado de estilo paisley en la solapa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MFXNUCF{{</world>}}

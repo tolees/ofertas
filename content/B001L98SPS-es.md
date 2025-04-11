@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Está formulada con Aceite de Rosa Mosqueta y es rica en ácidos grasos esenciales como Omegas 3, 6 y 9
-- Aplicar en rostro, cuello y escote mediante un suave masaje hasta su completa absorción. Utilizar mañana y noche
 - Cuenta con un activo tensor que genera el efecto Lifting, aportando firmeza y elasticidad a la piel
+- Aplicar en rostro, cuello y escote mediante un suave masaje hasta su completa absorción. Utilizar mañana y noche
 - Crema facial antiarrugas vegana que hidrata, previene y corrige el envejecimiento de la piel
+- Está formulada con Aceite de Rosa Mosqueta y es rica en ácidos grasos esenciales como Omegas 3, 6 y 9
 - También es antioxidante y tiene vitaminas A, C y E, que promueven la síntesis de Colágeno y Elastina
 
 [🛒 Aquí!!!]({{< param buyurl >}})

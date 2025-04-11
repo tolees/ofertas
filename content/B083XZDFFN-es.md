@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 80% algodon, 20% poliéster
 - Puños y cintura acanalados
+- 80% algodon, 20% poliéster
 - Mangas raglán
 - Impresión frontal en relieve
 

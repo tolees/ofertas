@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste perfecto
 - Tecnología de ajuste en seco
+- Ajuste perfecto
 - Pantalones cortos deportivos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

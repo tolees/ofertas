@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillo monedero interior
 - Cintura elástica ajustable con cordón
+- Bolsillo monedero interior
 - Detalles en contraste de colores
 
 [🛒 Comprar!!!]({{< param buyurl >}})

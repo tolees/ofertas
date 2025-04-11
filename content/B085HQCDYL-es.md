@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Navegación inteligente iTech Laser 360, mapea todo tu hogar y planifica la mejor ruta de limpieza. Sistema ForceClean con una potente turbina que maximiza la gran potencia de succión hasta 2300 Pa
-- Aplicación para Smartphone. Cuenta con tres modos de fregado por control electrónico aptos para cualquier tipo de superficie. Diseñado con 10 modos de limpieza inteligentes. Cuenta con el exclusivo sistema de fregado Scrubbing, para realizar un movimiento en vaivén
 - Conecta el robot con Alexa y Google Assistant. La limpieza por áreas o puntual permite seleccionar el punto exacto que quieras que limpie. Además cuenta con la posibilidad de colocar áreas restringidas, para evitar que pase el robot
+- Aplicación para Smartphone. Cuenta con tres modos de fregado por control electrónico aptos para cualquier tipo de superficie. Diseñado con 10 modos de limpieza inteligentes. Cuenta con el exclusivo sistema de fregado Scrubbing, para realizar un movimiento en vaivén
 - Tecnología 4 in 1 con tanque mixto. El robot aspira, friega, barre y pasa la mopa. Además es capaz de aspirar, barrer y pasar la mopa o fregar a la vez. Cepillo Jalisco que aspira hasta el triple en una pasada. Gracias a su sistema Total Surface 2.0 el robot cubrirá toda la superficie
 - Memoriza diferentes mapas y lo muestra en la APP. Con Room Plan podrás editar y gestionar tus habitaciones y planes de limpieza personalizados. Sistema Turbo Clean Carpet que activa el modo Turbo en alfombras. Programable los 7 días de la semana, 24 horas al día
 

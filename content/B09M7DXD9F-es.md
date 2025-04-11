@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla Levis Comfort con diseño anatómico y absorción de impactos para una comodidad duradera
 - Fabricado con materiales reciclados
+- Plantilla Levis Comfort con diseño anatómico y absorción de impactos para una comodidad duradera
 - Adornadas con la emblemática Levis Red Tab
 
 [🛒 Comprar!!!]({{< param buyurl >}})

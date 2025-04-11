@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bordado e impresión en el pecho
 - Sudadera con capucha forrada de forro polar
+- Bordado e impresión en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS5KTXF7{{</world>}}

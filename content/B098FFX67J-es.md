@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capacidad de 6,5 litros - Tamaño reducido, pero con gran capacidad de 6,5 litros
 - Panel de Control Removible - Tecnología para cocinar, servir y limpiar: el panel de control puede removerse permitiendo que el usuario pueda llevar el recipiente directo a la mesa y del mismo modo colocarlo en el lavavajillas
+- Capacidad de 6,5 litros - Tamaño reducido, pero con gran capacidad de 6,5 litros
 - 8 Funciones Digitales: sellar, rustir, sous vide, cocción lenta, cocina al vapor, arroz, hervir y mantenimiento de calor
-- Potencia 750 W - La potencia de la Good To Go Multi Cooker es de 750 W y cuenta con programador digital y temporizador
 - Acero Inoxidable - Estructura de acero inoxidable, tapa de vidrio templado y asas frías
+- Potencia 750 W - La potencia de la Good To Go Multi Cooker es de 750 W y cuenta con programador digital y temporizador
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B098FFX67J{{</world>}}

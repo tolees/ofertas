@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nota: ¡Por favor, mejor use la imprimación primero!
-- De larga duración, acabado de espejo, hermoso y brillante.
 - También puede usarlos para decorar su hogar, la carcasa del teléfono celular, los anteojos, la tarjeta hecha, etc.
-- Adecuado para aplicar sobre uñas de gel UV, uñas acrílicas, uñas naturales, etc. para crear un acabado brillante
+- De larga duración, acabado de espejo, hermoso y brillante.
 - Es moderno, moderno y artístico. El arte de uñas agrega el placer de tu vida.
+- Nota: ¡Por favor, mejor use la imprimación primero!
+- Adecuado para aplicar sobre uñas de gel UV, uñas acrílicas, uñas naturales, etc. para crear un acabado brillante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BG4BCX99{{</world>}}

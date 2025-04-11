@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Logotipo de Skechers
 - Cómoda plantilla con amortiguación Skechers Air-Cooled Memory Foam
 - Media suela Flex Lite con absorción de impactos
-- Logotipo de Skechers
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL796D1P{{</world>}}

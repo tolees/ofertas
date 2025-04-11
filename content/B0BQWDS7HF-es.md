@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AEROREADY
-- Corte clásico
-- Tejido calado 100% poliéster reciclado
-- Cuello redondo
 - Presume de estilo adidas
+- Corte clásico
+- Cuello redondo
+- AEROREADY
+- Tejido calado 100% poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQWDS7HF{{</world>}}

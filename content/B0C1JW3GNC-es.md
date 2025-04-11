@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Ante
 - Material de la suela: Caucho
+- Material exterior: Ante
 - Cierre: Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

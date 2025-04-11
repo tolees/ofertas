@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un logotipo tonal en relieve de Aston Martin Wings en el pecho añade una marca icónica pero bajo declarada que se ve mejorada aún más por los extremos de cordón de plástico de la marca Hackett
 - Esta sudadera con capucha con logotipo viene en algodón cepillado suave con estilo y comodidad en mente
+- Un logotipo tonal en relieve de Aston Martin Wings en el pecho añade una marca icónica pero bajo declarada que se ve mejorada aún más por los extremos de cordón de plástico de la marca Hackett
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2HLX3ZT{{</world>}}

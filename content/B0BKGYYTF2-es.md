@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fabricado con tela sostenible y reciclada
-- Bolsillo externo para facilitar la movilidad y la comodidad
 - Chaleco ajustado
+- Bolsillo externo para facilitar la movilidad y la comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKGYYTF2{{</world>}}

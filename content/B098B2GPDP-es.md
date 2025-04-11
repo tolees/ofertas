@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Multi Battery foco LED Hybrid 6050 MH con cable desmontable de 5m (H07RN-F2X1,0) y tecnología híbrida: Funcionamiento con batería recargable o al cable, conmutación automática de la red eléctrica a la batería en caso de fallo de alimentación
 - El foco de trabajo 6200lm es compatible con baterías de 18V (diferentes clases de Ah) de los 11 fabricantes de herramientas eléctricas: Bosch Professional, Dewalt, Einhell, Fein, Festool, Flex, Hikoki, Makita, Metabo CAS, Milwaukee y Würth
+- Multi Battery foco LED Hybrid 6050 MH con cable desmontable de 5m (H07RN-F2X1,0) y tecnología híbrida: Funcionamiento con batería recargable o al cable, conmutación automática de la red eléctrica a la batería en caso de fallo de alimentación
 - Foco incl. 4 adaptadores para las 5 marcas Bosch Professional, Dewalt, Makita, Metabo CAS, Milwaukee y bolsa - adaptadores para otras marcas disponibles por separado - Brennenstuhl forma parte de AMPShare - Powered by Bosch Professional
 - Foco de construcción con 4 niveles de conmutación (100% - 75% - 50% - 25%) y sistema de protección para las baterías contra la descarga profunda, el sobrecalentamiento (causado por altas corrientes de carga) y los fallos de la batería
 - El foco ofrece una duración de iluminación de aprox. 2,7h/4Ah con una potencia lumínica del 50% (aprox. 1,3h/4Ah al 100%) - la duración de la iluminación depende de la batería utilizada (entrega sin batería)

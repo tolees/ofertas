@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga larga
 - Con cremallera
+- Manga larga
 - Bolsillos en la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

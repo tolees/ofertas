@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 32 ES
-- Tecnología Comemory Foamort Pilar
 - Plantilla Goga Mat refrigerada por aire
 - Ajuste de arco
+- 32 ES
+- Tecnología Comemory Foamort Pilar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B082N4HJM3{{</world>}}

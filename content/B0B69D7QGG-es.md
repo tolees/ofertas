@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Suela de goma
-- Modelo de carrera callejera.
 - Boost Intersuola
+- Modelo de carrera callejera.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B69D7QGG{{</world>}}

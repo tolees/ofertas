@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene factor de protección solar 20
-- Aplicador de optima presición que garantiza la cantidad exacta para una cobertura óptima.
 - No apelmaza, no se cuartea, a prueba de besos, a prueba de roces y resistente al agua
+- Aplicador de optima presición que garantiza la cantidad exacta para una cobertura óptima.
+- Contiene factor de protección solar 20
 - Labios a prueba de todo
 - Pigmentos flexibles que se adaptan a tus labios para un acabado mate optimo inalterable durante 16 horas
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estiramiento asegura un gran confort
 - Ajustado
 - Bolsillos de Paspel
+- Estiramiento asegura un gran confort
 - 98% algodón, 2% elastano
 - Lavar a máquina a máx. 40 ° C bajo un programa de lavado suave
 

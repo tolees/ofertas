@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- perfect body gel fango drenante 400ml
 - los productos que buscas para tu cuidado personal, para tu bienestar, y para la higiene personal.
 - Marca: Collistar
 - collistar perfect body gel fango drenante 400ml
+- perfect body gel fango drenante 400ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07D37SRYZ{{</world>}}

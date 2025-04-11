@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección IP21
 - Incluye asa para transporte
-- Prolongador Eléctrico Enrollacables de interior con 1 toma Schuko con asa para poder transportarlo con comodidad y con alargador eléctrico con cable de 25 metros de largo.
 - Servicio de Atención al cliente en Español e Ingles para poder ayudarte de forma rápida y sencilla en caso de problemas.
-- Protección de sobrecarga de rearme y protección infantil
-- Potencia máxima con cable enrollado: 1000W 4,3A / 230V
-- Garantía 2 años
 - Alargador prolongador eléctrico con cable de 25 metros de largo y 1,5 mm de grosor
+- Potencia máxima con cable enrollado: 1000W 4,3A / 230V
+- Protección de sobrecarga de rearme y protección infantil
+- Prolongador Eléctrico Enrollacables de interior con 1 toma Schuko con asa para poder transportarlo con comodidad y con alargador eléctrico con cable de 25 metros de largo.
+- Protección IP21
+- Garantía 2 años
 - Potencia máxima con cable alargado: 3500W 15,2A / 230V
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

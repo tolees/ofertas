@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Bordado étnico con espejitos y cuentas
 - Tejido jacquard en algodón blanco y negro
-- 27.2(l) x 5(an.) x 17.5(alt.)
 - target gender: female
+- 27.2(l) x 5(an.) x 17.5(alt.)
 - Bolsillo interior y exterior
 - Bandolera étnica bordada
 

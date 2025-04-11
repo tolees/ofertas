@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para el montaje y desmontaje de anillos de retención
-- Tratamiento superficial: niquelado
-- Alicates de punta ø 1,5 mm
 - Dimensión de apertura máx. 31 mm
+- Para el montaje y desmontaje de anillos de retención
+- Alicates de punta ø 1,5 mm
+- Tratamiento superficial: niquelado
 - Mangos aislados por inmersión con superficie antideslizante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

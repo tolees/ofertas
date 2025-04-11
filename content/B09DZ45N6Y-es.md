@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinturilla elástica con cordón ajustable en la cadera
 - Bolsillos deslizables
+- Cinturilla elástica con cordón ajustable en la cadera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09DZ45N6Y{{</world>}}

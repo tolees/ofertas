@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Más de 20 niveles
 - Un modo Chrono para batir récords
-- 3 mundos diferentes
-- Descubre y recoge bonificaciones para desbloquear niveles secretos
 - Gráficos refinados, un estilo artístico colorido y entornos envolventes
 - Dificultad ajustable para un mayor desafío
+- 3 mundos diferentes
+- Más de 20 niveles
+- Descubre y recoge bonificaciones para desbloquear niveles secretos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BH8WGBCY{{</world>}}

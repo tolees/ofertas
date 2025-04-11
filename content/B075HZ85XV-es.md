@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Fabricamos nuestras prendas en materiales que se adaptan a cualquier cuerpo, en cualquier momento y circunstancia.
 - Fundamos la esencia del diseño mediterráneo hecho en Valencia.
-- Manteniendo nuestras prendas contribuimos al medio ambiente y a la sostenibilidad de nuestro planeta.
 - ¡Prepárate para enfrentar el invierno con estilo y comodidad con la camiseta térmica cuello pico de Ysabel Mora! Diseñada especialmente para hombres, esta camiseta térmica de manga larga y cuello de pico es la aliada perfecta para retener el calor corporal en tu interior durante los días más fríos. Confeccionada con un interior afelpado, esta prenda se convierte en la opción ideal para lucir elegante y mantenerse abrigado en la temporada de invierno. Nuestra camiseta interior de cuello pico gara
+- Manteniendo nuestras prendas contribuimos al medio ambiente y a la sostenibilidad de nuestro planeta.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075HZ85XV{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tecnología PureGEL
 - Suela AHAR
 - Plantilla OrthoLite X-55
-- Tecnología PureGEL
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNJMSG2X{{</world>}}

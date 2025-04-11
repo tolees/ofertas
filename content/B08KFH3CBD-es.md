@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Teclado N-25 capacidad anti-ghosting / Ratón 6 niveles DPI intercambiables on-the-fly
-- Color: Negro
-- Devices compatibles; PC/servidor
-- Resistente y con diseño funcional
 - Combo teclado/ ratón krom kalyos gaming semimecánico USB negro LED-RGB
+- Resistente y con diseño funcional
+- Color: Negro
+- Teclado N-25 capacidad anti-ghosting / Ratón 6 niveles DPI intercambiables on-the-fly
+- Devices compatibles; PC/servidor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KFH3CBD{{</world>}}

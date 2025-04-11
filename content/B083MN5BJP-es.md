@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Calibre: 50 Millimeters
 - Brand: Polaroid
-- Colour: 003/EX MATT BLACK
 - Model: Polaroid Pld 2087/s 003/EX MATT BLACK 50
+- Colour: 003/EX MATT BLACK
 - Protective Case Included
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

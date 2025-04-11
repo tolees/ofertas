@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Jeans highwaist
 - Jeans in a light blue wash
+- Jeans highwaist
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07M8SFFSM{{</world>}}

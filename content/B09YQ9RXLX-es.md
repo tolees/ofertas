@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte
-- Bolsillos laterales
 - Cintura elástica con cordón
+- Bolsillos laterales
+- Corte
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YQ9RXLX{{</world>}}

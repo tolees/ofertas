@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material exterior: Cuero
-- Revestimiento: Tela
 - Material de la suela: Goma
+- Revestimiento: Tela
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KYMUHRK{{</world>}}

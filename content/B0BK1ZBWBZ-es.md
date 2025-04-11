@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo de cinco bolsillos
 - Mezclilla hecha de algodón parcialmente reciclado con comodidad elástica
+- Estilo de cinco bolsillos
 - Cintura con trabillas para cinturón, botón y cremallera frontal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

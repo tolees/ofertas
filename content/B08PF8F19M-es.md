@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte ceñido desde el trasero hasta el muslo
-- Este producto es original Levis
 - Diseño de cinco bolsillos
+- Este producto es original Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08PF8F19M{{</world>}}

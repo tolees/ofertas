@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- BRAAEROREADY
-- 89 % poliéster reciclado, 11 % elastano entrelazado
 - Sensación fresca, suave y transpirable
-- Cuello redondo
 - Ajuste ceñido
+- 89 % poliéster reciclado, 11 % elastano entrelazado
+- BRAAEROREADY
 - Espalda cruzada con tirantes
+- Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4YP8WSJ{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FACIL DE AJUSTAR: Ajuste de profundidad sin escalas, tope recto para taladrar en serie en una línea, ranura en V integrada para la fijación segura de materiales redondos.
 - AYUDA PERFECTA: La ayuda perfecta para taladrar con cuello europeo de 43 milímetros y ajuste de profundidad para taladrar en serie.
 - PREFERENCIA: Perfecto para usarlos en conjunto con los taladros de Einhell. NOTA: El mango no debe apretarse demasiado.
-- COMPATIBILIDAD : El portabrocas universal es apto para todas las brocas y atornilladores a batería con cuello europeo de 43 mm de diámetro, guía de 2 columnas para trabajos horizontales y verticales exactos y taladros en ángulo.
+- FACIL DE AJUSTAR: Ajuste de profundidad sin escalas, tope recto para taladrar en serie en una línea, ranura en V integrada para la fijación segura de materiales redondos.
 - CONFIABLE : La broca se sujeta en el soporte y se puede realizar un taladrado recto y preciso. Ningún aficionado al bricolaje debería prescindir de este accesorio.
+- COMPATIBILIDAD : El portabrocas universal es apto para todas las brocas y atornilladores a batería con cuello europeo de 43 mm de diámetro, guía de 2 columnas para trabajos horizontales y verticales exactos y taladros en ángulo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B001BAT2A2{{</world>}}

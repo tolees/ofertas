@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Siembra de diciembre a marzo
-- Cosecha a partir de 4-5 meses
 - Planta de ciclo medio, con frutos redondos de color rosado
+- Siembra de diciembre a marzo
 - En semillero, trasplantar cuando la planta tenga 3-4 hojas a un marco de 40 x 80 cm
+- Cosecha a partir de 4-5 meses
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00KM2CRY8{{</world>}}

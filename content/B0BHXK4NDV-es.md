@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillo tipo canguro
+- Manga larga
+- Mezcla de algodón
 - Material cepillado con interior suave
 - Mangas ajustadas
-- Mezcla de algodón
-- Manga larga
+- Bolsillo tipo canguro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BHXK4NDV{{</world>}}

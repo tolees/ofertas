@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lector De Tarjetas Sd Uhs-Ii (Ultra High-Speed-Ii): Transferencia De Datos De Hasta 312Mbps, Mediante Sd 4.0; Compatible Con Los Formatos Sd (Secure Digital), Sdhc (Sd High Capacity), Sdxc (Sd Extended Capacity) Y Mmc (Multimedia Card)
 - 3X Puertos Usb-A 10Gbps: Para Transferencias De Datos A Alta Velocidad Entre Dispositivos De Almacenamiento, Tarjetas Ssd Y Otros Dispositivos Usb, Como Adaptadores Audiovisuales, Memorias Usb, Teclados Y Ratones; Compatible Con Usb 3.2 Gen 1 , 2.0
+- Lector De Tarjetas Sd Uhs-Ii (Ultra High-Speed-Ii): Transferencia De Datos De Hasta 312Mbps, Mediante Sd 4.0; Compatible Con Los Formatos Sd (Secure Digital), Sdhc (Sd High Capacity), Sdxc (Sd Extended Capacity) Y Mmc (Multimedia Card)
 - Amplia Compatibilidad Con Sistemas Operativos: Concentrador Usb C, Con Lector De Tarjetas Sd, Configuración Que No Requiere Software Controlador; Concentrador Usb-C A Varios Usb, Compatible Con Windows, Macos, Linux, Ipados, Chrome Os Y Android
 
 [🛒 Comprar!!!]({{< param buyurl >}})

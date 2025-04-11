@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello barco
-- Ofrece una comodidad óptima
 - Detalles distintivos de Tommy Hilfiger
+- Ofrece una comodidad óptima
+- Cuello barco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8Z7QJ46{{</world>}}

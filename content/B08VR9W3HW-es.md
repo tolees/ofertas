@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello redondo
 - El material absorbe el calor y se seca rápidamente
 - El material ofrece una comodidad óptima
-- Cuello redondo
 - Marca del producto: Adidas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

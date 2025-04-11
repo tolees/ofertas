@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye un asa de transporte para llevarlo cómodamente; dimensiones: 270 x 280 x 635mm; peso: 7,5 Kg
-- Incorpora Bluetooth, FM, USB, lector de tarjetas MicroSD y Auxiliar; podrás reproducir música desde cualquier dispositivo
+- Micrófono incluido, óptimo para karaoke con modo MIC Priority, al hablar por el micrófono disminuye la música; pantalla digital y botones de control
 - Altavoz Trolley portátil con conectividad Bluetooth, 100W de potencia, altavoces 2 x 8" y luces LED multicolor; la diversión está garantizada
 - Batería integrada de 4500 mAh 12V, proporcionando hasta 5 horas de música ininterrumpida; con soporte para Tablet
-- Micrófono incluido, óptimo para karaoke con modo MIC Priority, al hablar por el micrófono disminuye la música; pantalla digital y botones de control
+- Incorpora Bluetooth, FM, USB, lector de tarjetas MicroSD y Auxiliar; podrás reproducir música desde cualquier dispositivo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXYBZDWL{{</world>}}

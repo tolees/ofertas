@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Mono corto de crepé de burbujas con cuello redondo y pierna ancha para un aspecto elegante y diario.
-- Crepé de burbujas
 - Fabricado con materiales reciclados
+- Crepé de burbujas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B64GWVRL{{</world>}}

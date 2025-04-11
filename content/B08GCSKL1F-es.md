@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cordones atléticos con suela SR
-- Ajuste holgado
-- EN ISO 20347:2012 - OB E SRC
 - Patrón de banda de rodadura antideslizante
 - Plantilla de espuma viscoelástica
+- Ajuste holgado
+- EN ISO 20347:2012 - OB E SRC
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GCSKL1F{{</world>}}

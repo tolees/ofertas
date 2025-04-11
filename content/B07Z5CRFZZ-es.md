@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de botones
-- Manga larga recta insertada con puño
-- Costuras con forma en el panel trasero
-- Cuello de camisa
 - Bajo ligeramente redondeado
+- Cuello de camisa
+- Cierre de botones
+- Costuras con forma en el panel trasero
+- Manga larga recta insertada con puño
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Z5CRFZZ{{</world>}}

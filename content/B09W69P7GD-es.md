@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Material interior: siguiente
 - Material superior: siguiente
 - Cierre: cordones
-- Material interior: siguiente
 - Suela: sigue
 
 [🛒 Visítala!!!]({{< param buyurl >}})

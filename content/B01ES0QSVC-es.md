@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Disponible en varios colores
-- Hecho de material de 94% poliéster y 6% algodón
-- Corte de estilo polo con cuello alto y 3 botones
-- Manga corta
 - Logotipo de Joma en la parte derecha
+- Manga corta
+- Corte de estilo polo con cuello alto y 3 botones
+- Hecho de material de 94% poliéster y 6% algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ES0QSVC{{</world>}}

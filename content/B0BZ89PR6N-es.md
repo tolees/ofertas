@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte textil
+- Horma clásica
 - Mediasuela Bounce
 - Cierre de cordones
-- Parte textil
 - Forro textil
-- Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZ89PR6N{{</world>}}

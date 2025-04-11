@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sandalia de cuero
-- Suela de caucho y corcho
 - Plantilla de caucho y corcho
-- Sandalia plana
 - Cierre ajustable
+- Suela de caucho y corcho
+- Sandalia plana
+- Sandalia de cuero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B77NMQFK{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Estilo versátil
-- Suela que no deja marcas
 - Suela flexible
+- Suela que no deja marcas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B077SFYKBD{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de acero inoxidable
 - Marca de Lacor
+- Hecho de acero inoxidable
 - Utensilio de cocina
 - Apto para lavado en lavavajillas
 

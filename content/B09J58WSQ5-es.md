@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este complemento requiere Forza Horizon 5 (el juego se vende por separado).
-- También incluye el paquete de bienvenida, el pase de coches, la suscripción VIP y dos expansiones del juego cuando estén disponibles.
-- El paquete de complementos Premium de Forza Horizon 5 te permite jugar cuatro días antes, desde el 5 de noviembre de 2021.
 - ¡SUSCRIPTORES A GAME PASS, obtenéis ACCESO ANTICIPADO y todo el CONTENIDO EXTRA incluido con la edición Premium a un precio bajo!
+- También incluye el paquete de bienvenida, el pase de coches, la suscripción VIP y dos expansiones del juego cuando estén disponibles.
+- Este complemento requiere Forza Horizon 5 (el juego se vende por separado).
+- El paquete de complementos Premium de Forza Horizon 5 te permite jugar cuatro días antes, desde el 5 de noviembre de 2021.
 - ¡Actualiza tu juego a Premium hoy!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A estrenar y genuina. Somos un vendedor autorizado de Jack & Jones.
 - Jack & Jones Azul Vaqueros Glenn Original 815
 - Ver descripción del producto para obtener más información.
+- A estrenar y genuina. Somos un vendedor autorizado de Jack & Jones.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NJ1TBFJ{{</world>}}

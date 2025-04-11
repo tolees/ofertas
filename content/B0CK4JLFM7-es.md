@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Correa de hombro ajustable
+- 2 bolsillos frontales con cremallera
 - 0.4 kg
 - Logotipo redondo de Kipling
-- 2 bolsillos frontales con cremallera
 - Bolsillo trasero con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

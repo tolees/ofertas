@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones para un ajuste cómodo
 - Superior de cuero
-- Logotipo de PUMA N° 1 en la lengüeta
-- Cuello acolchado y cosido
 - Diseño de ojal actualizado
+- Cuello acolchado y cosido
+- Logotipo de PUMA N° 1 en la lengüeta
+- Cierre de cordones para un ajuste cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YXSVSHZ{{</world>}}

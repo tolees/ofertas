@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de Dr. Martens con colchón de aire duradero
 - Ajuste optimo
+- Suela de Dr. Martens con colchón de aire duradero
 - Tobillo elástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

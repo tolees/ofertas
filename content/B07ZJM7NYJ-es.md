@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sensación suave y cómoda
 - Puños acanalados
 - Trazado de corte y cintura elástica.
-- Sensación suave y cómoda
 - Logotipo de impresión en el bolsillo lateral
 - 100% algodón
 

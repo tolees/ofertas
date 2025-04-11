@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para todos los marcas de agujas de planchar
 - Facilita el planchado
+- Apto para todos los marcas de agujas de planchar
 - Stick para la limpieza de la placa de planchado
 - Elimina los depósitos de cal y suciedad la placa del hierro de planchar
 

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello pequeño con tira de botones
-- Manga larga
-- lindo mini vestido de la marca Only
 - Mini – corte muy corto
+- Manga larga
+- Cuello pequeño con tira de botones
+- lindo mini vestido de la marca Only
 - Perfecto para muchas ocasiones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

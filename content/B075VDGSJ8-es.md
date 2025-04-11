@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Este producto ha sido diseñado como expansión del kit de 3 ventiladores LL120 RGB LED con Lighting Node PRO
 - Cuenta con 16 LEDs RGB independientes en cada ventilador, divididos en dos halos de luz
-- La funcionalidad RGB de este producto requiere un concentrador de iluminación RGB y Lighting Node PRO
 - El control PMW permite ajustar la velocidad de forma dinámica entre 600 y 1500 rpm, reduciendo el ruido o maximizando el flujo de aire
 - La hoja de ventilador de 120 mm esta diseñada para conseguir un funcionamiento poco ruidoso sin interferir con el rendimiento
-- Este producto ha sido diseñado como expansión del kit de 3 ventiladores LL120 RGB LED con Lighting Node PRO
+- La funcionalidad RGB de este producto requiere un concentrador de iluminación RGB y Lighting Node PRO
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B075VDGSJ8{{</world>}}

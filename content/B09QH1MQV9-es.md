@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🎁 Este es EL regalo ideal para cualquier pareja y ocasión: una boda, un aniversario, para los recién casados, para un San Valentín, Navidad… o, simple y llanamente, ¡para darse un capricho!
 - 🎲 Sencillo y eficaz: responde a las preguntas para descubrir si tu pareja y tú os conocéis mucho o si, en cambio, sois perfectos desconocidos. ¿Quién gana? Quien, en sus respuestas, demuestre que sabe más del otro. Puedes jugar solo con tu pareja o con varias parejas: ¿cuál será la más compenetrada?
 - 💌 ¿(Des)conocidos? es la compañía perfecta para vuestras fiestas, fines de semana, cenas de restaurante, con los amigos o para amenizar los viajes. Facilísimo de transportar, os lo podéis llevar a cualquier parte.
-- 🌶️ Salid de vuestra zona de confort: mantened viva la llama, subid la temperatura y compartid un momento de amor e intimidad… pero, sobre todo, ¡echaos unas buenas risas!
 - 💏 Afianzad vuestra complicidad: poneos a prueba, (re)descubríos y divertíos centrándoos en lo esencial: vuestra pareja.
+- 🌶️ Salid de vuestra zona de confort: mantened viva la llama, subid la temperatura y compartid un momento de amor e intimidad… pero, sobre todo, ¡echaos unas buenas risas!
+- 🎁 Este es EL regalo ideal para cualquier pareja y ocasión: una boda, un aniversario, para los recién casados, para un San Valentín, Navidad… o, simple y llanamente, ¡para darse un capricho!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QH1MQV9{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- relleno de gomaespuma
 - funda felpa suave (poliéster)
 - base antideslizante
-- relleno de gomaespuma
 - cojín reversible con dos opciones de diseño y relleno fibra de poliéster (en una sola pieza)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

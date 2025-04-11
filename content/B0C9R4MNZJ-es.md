@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura elástica ajustable
-- Corte normal
 - Bolsillos laterales
+- Corte normal
+- Cintura elástica ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9R4MNZJ{{</world>}}

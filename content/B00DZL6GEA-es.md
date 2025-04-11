@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad
-- Nuevo producto
 - Tipo de freno: discos
+- Producto de calidad
 - Cantidad indicadores de desgaste [por eje]: 1
+- Nuevo producto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DZL6GEA{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- INDIGOOD
 - TAPERED REGULAR
 - DENIM STRETCH
+- INDIGOOD
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CXYRSHS{{</world>}}

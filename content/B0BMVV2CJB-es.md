@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gran calidad
 - Hecho de material duradero
+- Gran calidad
 - Fácil de llevar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

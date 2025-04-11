@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste regular
-- Estampado Levis
-- 40% poliéster
 - Cuello redondo
 - Manga corta
+- 40% poliéster
+- Estampado Levis
+- Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08PDH7NZK{{</world>}}

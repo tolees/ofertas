@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Color: Ginebra Rosa elaborada con frutos rojos y exótios ingredientes botánicos
-- Maridaje: Servir en copa de balón, decorado con brocheta de amarena, dotandolo de un tono rosa suabe y natural
-- Sabor: Vibrante gusto a frutos rojos y suabe final
 - Disfrutaremos de una copa llamativa y sofisticada con un sabor dulce y un final amargo
 - Olor: Gran personalidad al infusionarla con frutos rojos tras cuatro destilaciones
+- Maridaje: Servir en copa de balón, decorado con brocheta de amarena, dotandolo de un tono rosa suabe y natural
+- Sabor: Vibrante gusto a frutos rojos y suabe final
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B019QPCR4Q{{</world>}}

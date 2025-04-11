@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Limpieza fácil: sistema InstaClean para una limpieza fácil y rápida de la barbacoa; el sistema permite extraer las partes aptas para el lavavajillas en menos de 60 segundos
+- Opciones infinitas: parrilla y plancha grandes de hierro fundido con un mate esmaltado (61 x 45 cm), rejilla para calentar esmaltada; base para Sistema Culinario Modular
 - Especificaciones: tapa de acero con termómetro (adecuado para un asado indirecto); superficie de cocción 2,800 cm²; altura de cocción: 90 cm; consumo de gas: 698 + 167 g/h; peso: 53 kg
 - Almacenamiento y transporte: 1 bandeja lateral plegable y ruedas de bloqueo para guardar la parrilla cuando no esté en uso; gran espacio de almacenamiento en el armario inferior
 - Alta calidad y potente: 3 quemadores de tubo de acero inoxidable de alto rendimiento (9.6kW) + 1 asador lateral (2.3kW); barbacoa con encendido piezo para un fácil encendido
-- Limpieza fácil: sistema InstaClean para una limpieza fácil y rápida de la barbacoa; el sistema permite extraer las partes aptas para el lavavajillas en menos de 60 segundos
-- Opciones infinitas: parrilla y plancha grandes de hierro fundido con un mate esmaltado (61 x 45 cm), rejilla para calentar esmaltada; base para Sistema Culinario Modular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IQ3Q6AQ{{</world>}}

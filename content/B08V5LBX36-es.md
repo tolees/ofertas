@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Célula seca
-- Reciclado
 - Absorbe la humedad
+- Célula seca
 - Leggings clásicos
+- Reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08V5LBX36{{</world>}}

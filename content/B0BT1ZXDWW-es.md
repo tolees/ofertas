@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aventura para un jugador marcada por la narración; un encantador elenco de personajes y un argumento conmovedor de descubrimiento personal.
-- La edición física incluye: una miniguía y un poster.
 - Más de dos horas de música original con un asombroso piano y pegadizos ritmos de sintetizador.
 - Brutales capítulos "cara B" que desbloquear para los más osados.
+- La edición física incluye: una miniguía y un poster.
 - Gran montaña con más de 700 pantallas de duros desafíos y retorcidos secretos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

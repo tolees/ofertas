@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Previsiones para el futuro Consulta las previsiones para los próximos 7 días y adapta tu ropa y actividades al clima que se avecina
-- Análisis de los valores de medición: tiene acceso a los valores de medición y, por lo tanto, puede comprender mejor los cambios climáticos mediante el análisis de gráficos.
-- Alertas en tiempo real Con nuestra estación meteorológica, puedes configurar alertas interiores y exteriores, que luego recibirás en tu smartphone
-- Medición de la temperatura ambiente interior y exterior en tiempo real: temperatura, humedad, calidad del aire interior y exterior, nivel de ruido interior, presión atmosférica
 - Consejo para la solución de problemas Desconecte y vuelva a conectar el módulo interior. Comprueba que el LED parpadea tres veces. Si no parpadea, prueba con otro cable micro USB y otro adaptador de corriente en el módulo interior. Oblígalo a salir e inicia el Netatmo Nueva aplicación Weather en tu smartphone. La estación puede tardar hasta 10 minutos en volver a conectarse
+- Medición de la temperatura ambiente interior y exterior en tiempo real: temperatura, humedad, calidad del aire interior y exterior, nivel de ruido interior, presión atmosférica
+- Análisis de los valores de medición: tiene acceso a los valores de medición y, por lo tanto, puede comprender mejor los cambios climáticos mediante el análisis de gráficos.
+- Previsiones para el futuro Consulta las previsiones para los próximos 7 días y adapta tu ropa y actividades al clima que se avecina
+- Alertas en tiempo real Con nuestra estación meteorológica, puedes configurar alertas interiores y exteriores, que luego recibirás en tu smartphone
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0098MGWA8{{</world>}}

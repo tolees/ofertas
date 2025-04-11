@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botonera de fácil pulsación
 - De fácil uso y funcionamiento
+- Botonera de fácil pulsación
 - Directamente preparado para usar con su televisor Samsung, sin necesidad de instalar o configurar el mando
 
 [🛒 Comprar!!!]({{< param buyurl >}})

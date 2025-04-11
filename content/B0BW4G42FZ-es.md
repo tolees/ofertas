@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Forro interior con bolsillo para dispositivos electrónicos
 - Mochila urbana ligera con un compartimento
-- Dimensiones: 41 x 30 x 18 cm
-- Bolsillo frontal y cinta trasera adaptable a trolley
 - Correas al hombro acolchadas y ajustables
+- Bolsillo frontal y cinta trasera adaptable a trolley
+- Dimensiones: 41 x 30 x 18 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BW4G42FZ{{</world>}}

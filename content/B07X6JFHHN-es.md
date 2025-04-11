@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Varillas intercambiables VDE probadas una por una en un 100 % con un diámetro de varilla reducido
-- Se ofrece en un estuche textil robusto
-- 2 mangos multicomponentes ergonómicos Kraftform VDE con el sistema anti-rodamiento
 - Con una tenaza multifuncional para instalaciones eléctricas: para cortar cables, aislar, agarrar, torcer, desbarbar, crimpear virolas de cable
+- Se ofrece en un estuche textil robusto
+- Varillas intercambiables VDE probadas una por una en un 100 % con un diámetro de varilla reducido
 - La tenaza incluye una cizalla para cables que lleva filos de precisión (endurecidos por inducción) para cables de cobre y aluminio hasta 5 x 2,5 mm² / Ø 15 mm
+- 2 mangos multicomponentes ergonómicos Kraftform VDE con el sistema anti-rodamiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07X6JFHHN{{</world>}}

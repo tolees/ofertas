@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Motor de cuatro polos
+- El producto no incluye batería / cargador
 - Broca de percusión compacta
+- Motor de cuatro polos
 - Broca que mide 198 mm de longitud
 - Para trabajar en espacios confinados
-- El producto no incluye batería / cargador
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00VWQA3TY{{</world>}}

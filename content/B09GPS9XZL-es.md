@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- El Raka knit collar de Minus es un elegante y sencillo top sin mangas con cuello alto
 - Minus Moda: Blusa en 82% Viscosa (Eco Vero), 18% Elastano
 - Blusa en 100 Negro talla L
-- El Raka knit collar de Minus es un elegante y sencillo top sin mangas con cuello alto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GPS9XZL{{</world>}}

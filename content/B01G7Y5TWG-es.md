@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con 2 prácticas ruedas
 - Tumbona de alta calidad resiste a rayos uv
+- Con 2 prácticas ruedas
 - Respaldo ajustable en 4 posiciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

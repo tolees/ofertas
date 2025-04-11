@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
+- PIRÁMIDE OLFATIVA: Notas de salida: ciruela, manzana, limón, geranio, bergamota y musgo; Notas de corazón: caoba, clavel y canela; Notas de fondo: sándalo, olivo, vainilla, cedro y vetiver
 - ESTUCHE DE REGALO: Nike Indigo es un un estuche masculino con un aroma chispeante y cálido, es una colonia suave que resaltará tu belleza. El pack incluye una colonia, un after shave y un gel de baño
+- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
 - TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia amaderado-frutal, que rinde homenaje a los colores vivos de Nike Colors. ¡Realza el corazón y la masculinidad que llevas dentro!
 - MASCULINO Y CAUTIVADOR: Un estuche para hombre, equilibrada y armónica que resalta la masculinidad y la personalidad. Para jóvenes y hombres urbanos, independientes y seguros de sí mismos.
-- PIRÁMIDE OLFATIVA: Notas de salida: ciruela, manzana, limón, geranio, bergamota y musgo; Notas de corazón: caoba, clavel y canela; Notas de fondo: sándalo, olivo, vainilla, cedro y vetiver
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DMCWSVR{{</world>}}

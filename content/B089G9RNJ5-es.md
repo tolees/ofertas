@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 201878-2M5-53
 - Color: Mt Orange
 - Tamaño: 53/14/135
-- 201878-2M5-53
 - Polarizado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Juego de acción, estrategia, sorpresa, competición y sobre todo diversión
+- Adivina el Pokémon correcto
 - Recomendado a partir de 4 años
 - Escoge el Pokémon correcto y muestra tus habilidades mientras dominas el juego
-- Adivina el Pokémon correcto
 - Demuestra tus habilidades como entrenador
-- Juego de acción, estrategia, sorpresa, competición y sobre todo diversión
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C7Q9NRL8{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- abierto para llevar
-- Cuello de solapa
-- Gran chaqueta para mujer para un look elegante
 - 3/4 brazos largos con efecto arrugado
+- Cuello de solapa
 - Perfecto en la oficina, en tu tiempo libre o para ocasiones festivas
+- abierto para llevar
+- Gran chaqueta para mujer para un look elegante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WV1B3FW{{</world>}}

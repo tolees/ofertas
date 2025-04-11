@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 27" WQHD, 170HZ VA - El panel VA de alta definición 2560 x 1440 (relación de aspecto 16:9) cuenta con una alta tasa de refresco de 170 Hz; un tiempo de respuesta muy bajo de 1ms es óptimo para eventos de esports
-- Amplia gama de colores: el G273CQ admite hasta 1.070M de colores (profundidad de 10 bits) con un 115% de sRGB para una precisión cromática asombrosa; el hardware Less Blue Light Pro reduce la fatiga ocular
-- Óptimo rango dinámico con HDR Ready; equipado con tecnología HDR que puede producir visuales con detalles en zonas oscuras con contraste dinámico realista puedes beneficiarte de lo que ve el ojo humano en el mundo real
 - CONECTIVIDAD VERSÁTIL: las opciones de interfaz para PC, Mac, consolas y portátiles incluyen puertos DisplayPort 1.4a (4K/60Hz) y HDMI 2.0 (4K/60Hz) y navegador de joystick de 5 direcciones en la parte trasera
+- Óptimo rango dinámico con HDR Ready; equipado con tecnología HDR que puede producir visuales con detalles en zonas oscuras con contraste dinámico realista puedes beneficiarte de lo que ve el ojo humano en el mundo real
 - INMERSIÓN EXTREMA, JUEGOS SIN MARCO - Los monitores curvos de MSI ofrecen una experiencia de juego envolvente con una curvatura de 1500R (radio de 1500 mm) y un diseño "sin marco", que reduce las líneas de bisel entre pantallas
+- Amplia gama de colores: el G273CQ admite hasta 1.070M de colores (profundidad de 10 bits) con un 115% de sRGB para una precisión cromática asombrosa; el hardware Less Blue Light Pro reduce la fatiga ocular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CGQ3HCHJ{{</world>}}

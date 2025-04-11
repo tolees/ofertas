@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello acolchado
-- Cordones en la parte delantera
 - Logotipo lateral S
+- Cordones en la parte delantera
+- Cuello acolchado
 - SKECHERS Logo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 años de garantía
 - Conecte dos manguera a un grifo de exterior de 1 - ¾ - ½
 - Válvulas ergonómicas de cuarto de vuelta
+- 2 años de garantía
 - Perfecto para utilizarse con sistemas de manguera y controladores de riego automático.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

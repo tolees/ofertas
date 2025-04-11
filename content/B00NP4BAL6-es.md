@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para agua, zumos, refrescos, batidos e incluso para la presentación de postres
-- Completamente libre de cadmio o plomo
-- Se puede lavar en el lavavajillas
 - Set de 6 Vaso de vidrio Azul 26 cl Flora de Bormioli Rocco
+- Para agua, zumos, refrescos, batidos e incluso para la presentación de postres
+- Se puede lavar en el lavavajillas
+- Completamente libre de cadmio o plomo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00NP4BAL6{{</world>}}

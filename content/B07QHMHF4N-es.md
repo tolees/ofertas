@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Juego arcade
+- Llavero con anilla
 - Máquina jugable
 - Miniaturas retro
 - Licencia oficial
-- Juego arcade
-- Llavero con anilla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07QHMHF4N{{</world>}}

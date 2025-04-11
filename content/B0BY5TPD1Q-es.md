@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 17,1 x 5,7 x 10,8 cm
-- Interior con 3 ranuras para tarjetas
 - Herrajes en bronce antiguo
 - Hombro: 57,8 cm
+- 17,1 x 5,7 x 10,8 cm
+- Interior con 3 ranuras para tarjetas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BY5TPD1Q{{</world>}}

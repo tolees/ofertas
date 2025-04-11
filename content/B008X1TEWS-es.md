@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 💕 Tejido transpirable con gran porcentaje de algodón.
 - 💕Sujetador deportivo de color negro.
-- 💕 Copa preformada sin aros.
 - 💕 Cierre de corchetes en la espalda.
 - 💕 Tirantes regulables.
+- 💕 Tejido transpirable con gran porcentaje de algodón.
+- 💕 Copa preformada sin aros.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008X1TEWS{{</world>}}

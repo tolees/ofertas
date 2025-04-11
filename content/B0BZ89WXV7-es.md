@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Forro textil
 - Horma clásica
-- Parte textil
 - Cierre de cordones
 - Mediasuela Bounce
-- Forro textil
+- Parte textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZ89WXV7{{</world>}}

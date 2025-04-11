@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material interior: textil
 - Tipo de tacón: Plano
-- Material exterior: sintético
-- Tipo de cierre: Cordón
 - Material único: sintético
+- Tipo de cierre: Cordón
+- Material exterior: sintético
+- Material interior: textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C33Y4JGK{{</world>}}

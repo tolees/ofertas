@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricada en material cómodo
 - Detalles distintivos de la marca
 - Sudadera de media cremallera
 - Sudadera deportiva para entrenamiento
+- Fabricada en material cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01ERU9PCC{{</world>}}

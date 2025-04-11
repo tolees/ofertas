@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DATOS ELECTRICOS: 2 polos + toma de tierra, 16A, 230V
 - CLAVIJA HEMBRA SCHUKO: Capacidad móvil para poder orientar la clavija
+- ENCHUFE SCHUKO: con abrazadera sujeta cables interna, dispone de protección infantil
+- DATOS ELECTRICOS: 2 polos + toma de tierra, 16A, 230V
 - BASE ENCHUFE: Dimensiones: 4, 7 x 4, 7 x 6, 2 cm, peso: 40, 8 gr
 - ENCHUFE LEGRAND: Toma Schuko, dispone de toma de tierra para una mayor seguridad, color Negro
-- ENCHUFE SCHUKO: con abrazadera sujeta cables interna, dispone de protección infantil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MYVBQH4{{</world>}}

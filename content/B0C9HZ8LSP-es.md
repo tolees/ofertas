@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color lavado
-- Un bolsillo en pecho
-- Cuello Con botonadura oculta
 - Proyecto RECONSIDER
+- Un bolsillo en pecho
+- Color lavado
+- Cuello Con botonadura oculta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9HZ8LSP{{</world>}}

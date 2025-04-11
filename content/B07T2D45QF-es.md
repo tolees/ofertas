@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Composición del material: 50 % viscosa, 27 % nailon, 23 % poliéster
-- Mezcla de viscosa
 - Suéter de punto ligero
 - Cuello redondo
 - Puños elásticos
+- Mezcla de viscosa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07T2D45QF{{</world>}}

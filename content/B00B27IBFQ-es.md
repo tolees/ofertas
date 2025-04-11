@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste regular
 - Ropa casual
+- Ajuste regular
 - Informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

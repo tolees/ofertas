@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nombre de la marca: Dell
 - País de origen: España
 - Color de producto: Gris
+- Nombre de la marca: Dell
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08YDRQ46G{{</world>}}

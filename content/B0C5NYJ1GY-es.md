@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Forro textil
+- Horma clásica
+- Parte superior textil con refuerzos de ante sintético
 - Inspiración deportiva y sostenibilidad
 - Cierre de cordones
-- Parte superior textil con refuerzos de ante sintético
-- Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5NYJ1GY{{</world>}}

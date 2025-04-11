@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hasta un 200% más de brillo (en comparación con los requisitos mínimos de ECE R112 / R37)
-- Haz de luz de hasta 150 m de largo
-- Disponible en H4 y H7
 - NIGHT BREAKER 200: La luz de OSRAM más brillante para faros halógenos
 - Hasta un 20% de luz más blanca
+- Haz de luz de hasta 150 m de largo
+- Hasta un 200% más de brillo (en comparación con los requisitos mínimos de ECE R112 / R37)
+- Disponible en H4 y H7
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B092JMZTDR{{</world>}}

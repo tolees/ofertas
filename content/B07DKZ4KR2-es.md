@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Repetidor/sistema mesh tenda mw3 wifi.ac/1200mbps wps (pack 3 und)
 - Tipo de conectividad: DC-in jack
+- Repetidor/sistema mesh tenda mw3 wifi.ac/1200mbps wps (pack 3 und)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DKZ4KR2{{</world>}}

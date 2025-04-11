@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Mezcla de algodón
 - Cuello con capucha
 - Bolsillo tipo canguro
-- Mezcla de algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSFZ68GV{{</world>}}

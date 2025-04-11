@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: goma
-- Cierre: cremallera
 - Material exterior: cuero
+- Cierre: cremallera
+- Suela: goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08R7WHW5G{{</world>}}

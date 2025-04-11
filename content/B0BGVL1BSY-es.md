@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- UA Rival - Sudadera con capucha de forro polar, color negro, talla M
 - Buen producto para su uso
+- UA Rival - Sudadera con capucha de forro polar, color negro, talla M
 - Productos de excelente calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

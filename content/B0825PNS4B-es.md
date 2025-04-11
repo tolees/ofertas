@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parche de cuero con logo y OSFM = 56 cm
-- Gorra de béisbol para mujer
-- Características incluyen: tejido: tejido liso en sarga de poliéster
 - Visera curvada
 - Construcción de 6 paneles con forma de J
+- Gorra de béisbol para mujer
+- Parche de cuero con logo y OSFM = 56 cm
+- Características incluyen: tejido: tejido liso en sarga de poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0825PNS4B{{</world>}}

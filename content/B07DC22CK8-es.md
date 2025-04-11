@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Antepié perforado, líneas largas y limpias.
-- zapatillas inspiradas en los años 8
 - entresuela texturizada
+- zapatillas inspiradas en los años 8
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DC22CK8{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Snack dental para perros pequeños que favorece la higiene oral y contribuye a mejorar el aliento del perro
-- Está demostrado científicamente que darle un stick dental Dentastix a tu perro contribuye a la limpieza diaria de sus dientes y ayuda a mantener su aliento fresco
-- Su textura hace que los sticks dentales se adapten perfectamente a la forma de los dientes al masticarlos, para una limpieza profunda, hasta la raíz
 - Los sticks dentales Dentastix son la mejor forma de darle un premio a tu perro, bajo en grasa, sin azúcar añadido, ni colorantes o saborizantes artificiales
+- Su textura hace que los sticks dentales se adapten perfectamente a la forma de los dientes al masticarlos, para una limpieza profunda, hasta la raíz
+- Está demostrado científicamente que darle un stick dental Dentastix a tu perro contribuye a la limpieza diaria de sus dientes y ayuda a mantener su aliento fresco
+- Snack dental para perros pequeños que favorece la higiene oral y contribuye a mejorar el aliento del perro
 - Los snacks de premio para perros de Pedigree tienen bajo contenido en grasa, no llevan azúcar añadido, ni tampoco colorantes ni saborizantes artificiales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

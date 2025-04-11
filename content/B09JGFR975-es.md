@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ventilación trasera
 - Dos bolsillos ribeteados con solapa
 - Corte holgado, cuello Fly-Away
+- Ventilación trasera
 - Blazer largo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

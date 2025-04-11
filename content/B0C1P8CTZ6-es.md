@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Recrea momentos emblemáticos de la película o cuenta historias fascinantes con el muñeco de Harry con el Sombrero Seleccionador!
-- ¡Descubre a qué casa pertenece Harry con el accesorio del Sombrero Seleccionador!
 - La cara del muñeco de Harry Potter presenta detalles realistas e incluye su varita característica.
+- ¡Descubre a qué casa pertenece Harry con el accesorio del Sombrero Seleccionador!
+- ¡Recrea momentos emblemáticos de la película o cuenta historias fascinantes con el muñeco de Harry con el Sombrero Seleccionador!
 - Los fans a partir de 6 años pueden coleccionar sus personajes favoritos de Harry Potter para jugar y construir su propio Wizarding World.
 - Con 11 puntos de articulación y su característica túnica de Gryffindor, el muñeco Harry Potter incluye otros 4 accesorios para recrear el mágico momento de la película.
 

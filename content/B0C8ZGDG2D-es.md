@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Americana de oficina de material tejido ligero y elástico. Hombreras, dos bolsillos con tapeta y raja por detrás. Forro liso por dentro.
+- Lavar en ciclo de lavado suave a 30°, No usar lejía, No secar en la secadora, Planchar a un máx. 110° (Nivel 1), Limpieza en seco con percloroetileno
 - Corte: Regular Fit, corte clásico
+- Cierre: con botones
+- Largo de manga: larga
 - Tipo de cuello: solapa
 - Nota: la prenda tiene un corte más holgado y queda un poco más grande.
-- Americana de oficina de material tejido ligero y elástico. Hombreras, dos bolsillos con tapeta y raja por detrás. Forro liso por dentro.
-- Largo de manga: larga
-- Lavar en ciclo de lavado suave a 30°, No usar lejía, No secar en la secadora, Planchar a un máx. 110° (Nivel 1), Limpieza en seco con percloroetileno
-- Cierre: con botones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8ZGDG2D{{</world>}}

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Mejora y sube de nivel
 - Arte y animación de lujo
-- Cuatro personajes jugables
 - Libertad y exploración
+- Cuatro personajes jugables
 - Una gran aventura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

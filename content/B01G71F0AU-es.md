@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Liner de punta de fieltro ultrafina para una mayor precisioón
 - Fácil de desmaquillar
+- Punta flexible que facilita la aplicación
 - Delineado preciso, intenso y duradero
 - Delineador de ojos con punta de fieltro ultrafina
-- Punta flexible que facilita la aplicación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01G71F0AU{{</world>}}

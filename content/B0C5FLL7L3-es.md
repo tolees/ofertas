@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste: Slim
 - Composición: 77 por ciento algodón - 21 por ciento poliéster - 2 por ciento elastano
 - Instrucciones de cuidado: apto para lavadora
+- Ajuste: Slim
 - Vaqueros Pantalones Largos
 - Cierre: cierre de cremallera y botón
 

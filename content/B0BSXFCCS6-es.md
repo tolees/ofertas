@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alrededor de 500 millones de vistas en YouTube
 - Suave felpa lavable
-- Gabbys Dollhouse Kitty Hada
+- Alrededor de 500 millones de vistas en YouTube
 - Serie animada de DreamWorks conocida en NETFLIX con 5 temporadas
+- Gabbys Dollhouse Kitty Hada
 - A partir de 0 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

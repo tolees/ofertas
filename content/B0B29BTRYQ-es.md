@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior: cuero
 - Material interior: 100% poliuretano sintético
 - Cierre: 100% poliuretano
+- Parte superior: cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B29BTRYQ{{</world>}}

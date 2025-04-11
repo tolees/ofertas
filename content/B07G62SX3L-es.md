@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello y cuello acolchados finos
-- Foam Lite 1 Insole
-- Slim, vulcanised shoe
 - Una pieza limpia del dedo del pie
+- Slim, vulcanised shoe
+- Foam Lite 1 Insole
 - Collar pesado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

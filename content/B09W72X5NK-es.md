@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma del tacón: plano
-- Material superior:
 - Ancho del zapato: estrecho
-- Material interior:
+- Forma del tacón: plano
 - Cierre: sigue
+- Material superior:
+- Material interior:
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09W72X5NK{{</world>}}

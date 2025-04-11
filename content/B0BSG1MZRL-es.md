@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Nuestros puzzles adultos desde las 1.000 piezas se recomiendan a partir de 14 años.
+- Número de piezas: 8000🧩. Medida aproximada una vez montado: 192 x 136 cm.
 - 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles). Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia.
 - Actividad perfecta para desarrollar la motricidad fina, la creatividad y la memoria visual. Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación.
-- Número de piezas: 8000🧩. Medida aproximada una vez montado: 192 x 136 cm.
-- Nuestros puzzles adultos desde las 1.000 piezas se recomiendan a partir de 14 años.
 - Incluye servicio de pieza perdida hasta agotar existencias.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

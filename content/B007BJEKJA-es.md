@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Gel para peinar, cera y otros productos - permanentes y texturizadores para el cabello
-- Productos de BABYLISS
 - productos de belleza
+- Productos de BABYLISS
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B007BJEKJA{{</world>}}

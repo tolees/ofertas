@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla de espuma viscolástica refrigerada por aire.
 - Lavable en lavadora.
+- Plantilla de espuma viscolástica refrigerada por aire.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LS835XB{{</world>}}

@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Se conecta a otros conjuntos y packs (se venden por separado) para construir circuitos originales
 - Track builder ofrece posibilidades ilimitadas para experimentar construyendo, haciendo acrobacias e impulsando, con 7 packs diferentes de componentes de lo más divertidos
 - El pack de propulsor de looping impulsa los coches de los niños al hacer una acrobacia con aceleración de looping, tanto si están compitiendo como preparándose para hacer una acrobacia aún más espectacular
-- Fácil de montar, con un sencillo sistema de plegado para guardarlo; incluye un coche hot wheels a escala 1:64
 - Dales el regalo de las grandes ideas. Ideal para niños a partir de 6 años
+- Fácil de montar, con un sencillo sistema de plegado para guardarlo; incluye un coche hot wheels a escala 1:64
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07XD6F53G{{</world>}}

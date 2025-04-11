@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Soporte ligero
 - tejido elástico
 - Amplia libertad de movimiento.
-- Soporte ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09P3QVJLL{{</world>}}

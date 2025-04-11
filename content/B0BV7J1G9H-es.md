@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo Unisex. Medidas: Frontal 142 mm; Patillas 135 mm ; Puente 15 mm ; Alto 49,3 mm
 - Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
+- Modelo Unisex. Medidas: Frontal 142 mm; Patillas 135 mm ; Puente 15 mm ; Alto 49,3 mm
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 de ECO TAC polarizado de 1,2 mm que proporcionan protección 100% UV400.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de doble acción para un cierre de patillas seguro y durabilidad. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort.
 - Diseño de gafas de sol deportivas para los nostálgicos y nostálgicas de los ‘90. Diseño unisex estilo athleisure de la colección Made in Spain con lentes polarizadas
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 de ECO TAC polarizado de 1,2 mm que proporcionan protección 100% UV400.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BV7J1G9H{{</world>}}

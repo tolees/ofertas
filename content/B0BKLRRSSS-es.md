@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Algodon organico
-- Dobladillo inferior y manga acanalada.
 - Suéter de cuello redondo
 - Algodón de rizo francés.
+- Algodon organico
+- Dobladillo inferior y manga acanalada.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKLRRSSS{{</world>}}

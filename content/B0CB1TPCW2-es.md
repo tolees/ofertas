@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tacón de 1 3/4 pulgadas
-- Lavable a máquina
 - Skechers Detalles del logotipo de Arch Fit
+- Tacón de 1 3/4 pulgadas
 - Suela de tracción flexible
+- Lavable a máquina
 - Parte superior de malla diseñada con cordones frontales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo tonal HACKETT bordado en el pecho
-- Confort
 - Cuello redondo
+- Confort
+- Logotipo tonal HACKETT bordado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS6Z29JK{{</world>}}

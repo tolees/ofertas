@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Logotipo grande estampado en el pecho
-- Camiseta manga corta cuello redondo
 - Ajuste regular
+- Camiseta manga corta cuello redondo
 - Hecho con algodón 100% sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

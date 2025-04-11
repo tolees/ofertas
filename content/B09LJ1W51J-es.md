@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera para hombre de la marca danesa Jack & Jones
 - Apoyo de la iniciativa Better Cotton: somos miembros orgullosos de la iniciativa «Better Cotton Initiative»; al comprar nuestros productos fabricados con algodón, contribuyen a un cultivo más sostenible del algodón; el algodón proviene de un sistema de balance en masa
+- Sudadera para hombre de la marca danesa Jack & Jones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09LJ1W51J{{</world>}}

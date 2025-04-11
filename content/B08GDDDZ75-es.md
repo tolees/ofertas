@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Compatible con todos los enrutadores y adaptadores de línea eléctrica HomePlug AV/AV2
 - Tasa de transferencia de alta velocidad de 1000 Mbps — transmisiones rápidas y estables con HomePlug AV2 avanzado
 - Conexión por cable súper rápida — un puerto gigabit proporciona Internet de alta velocidad a PC, IPTV y consolas de juegos
-- Compatible con todos los enrutadores y adaptadores de línea eléctrica HomePlug AV/AV2
 - Fácil expansión — amplíe la cobertura simplemente agregando más adaptadores Powerline
 - Plug & Play — no requiere cableado ni configuración, simplemente conéctelo
 

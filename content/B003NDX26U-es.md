@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La instalación/desmontaje es requerida por personal especializado
-- Marca: Hella
-- Tipo de montaje: conexión de tornillo
 - Ancho llave: 24
+- Marca: Hella
+- La instalación/desmontaje es requerida por personal especializado
+- Tipo de montaje: conexión de tornillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B003NDX26U{{</world>}}

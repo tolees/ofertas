@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta básica de manga corta con cuello redondeado
 - Bloque de color en el cuello
 - Fabricado con 100% algodón sostenible
+- Camiseta básica de manga corta con cuello redondeado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS4X5BG7{{</world>}}

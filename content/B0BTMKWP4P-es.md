@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuenta con un amplio bolsillo frontal
-- Sudadera con capucha ajustable mediante cordones
 - Tela suave
+- Sudadera con capucha ajustable mediante cordones
 - Detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

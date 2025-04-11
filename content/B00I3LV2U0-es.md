@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rango de frecuencia 8 Hz-22 kHz
 - Auriculares internos ligeros con diafragma de 9 mm, 8 Hz-22 kHz, tapones de silicona, diversos colores
-- Diafragmas de neodimio (9 mm)
+- Rango de frecuencia 8 Hz-22 kHz
 - Disponible en diversos colores
+- Diafragmas de neodimio (9 mm)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00I3LV2U0{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con 100 hojas de papel blanco
-- Libreta de tamaño A5 con la portada en 3D
 - Óptimo para regalar
+- Con 100 hojas de papel blanco
 - Con un brocoli Mr.Wonderful en ella
+- Libreta de tamaño A5 con la portada en 3D
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB1M7FTJ{{</world>}}

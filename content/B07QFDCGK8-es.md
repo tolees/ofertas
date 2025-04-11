@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- DETALLES: Presenta bragueta con cremallera frontal y cierre de botón sin ojal, y detalle de cintura ajustable interior con elástico y botón.
 - TIRO DEL PANTALÓN: La talla 38 mide 60,1 cm.
 - EL VAQUERO RECTO: Estos vaqueros elásticos de ajuste ceñido presentan el clásico estilo vaquero de cinco bolsillos y un clásico corte entallado, lo que los convierte en un básico diario para el armario de tu hijo.
-- DETALLES: Presenta bragueta con cremallera frontal y cierre de botón sin ojal, y detalle de cintura ajustable interior con elástico y botón.
 - AJUSTE NORMAL: Ajuste recto y cómodo en cadera, muslo y pierna
 
 [🛒 Aquí!!!]({{< param buyurl >}})

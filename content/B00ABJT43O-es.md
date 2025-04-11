@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricado de papel certificado FSC de bosques gestionados de manera responsable
 - Perfectas para identificar, marcar precios, señalizar, clasificar
 - Práctica confección en sobre, adhesivos extra resistentes
 - 10 etiquetas por hoja
+- Fabricado de papel certificado FSC de bosques gestionados de manera responsable
 - total 100 etiquetas por sobre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

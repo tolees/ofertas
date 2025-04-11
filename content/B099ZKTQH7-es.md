@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalones vaqueros con pierna acampanada
 - Cintura alta
 - Algodón elástico de calidad
+- Pantalones vaqueros con pierna acampanada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B099ZKTQH7{{</world>}}

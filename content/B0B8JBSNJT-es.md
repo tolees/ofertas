@@ -32,8 +32,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Interior Semana Vista. Disposición de los días en cuadrícula. De lunes a jueves en página impar y de viernes a domingo en página par junto con un espacio para notas. Está decorado con preciosos diseños de galaxias en diferentes colores pastel. Además, al inicio de cada mes incluye textos relacionados con cada horóscopo.
 - Agenda Anual 2023 Aura. ¡Organiza tu rutina al completo con tu Agenda 2023 Aura!
 - Dietario: Español e inglés
-- Encuadernación flexible con apertura de 360º, perfecta y práctica para llevarlo a todas partes
 - Tamaño A5: 15 x 21 cm. Sus medidas son ideales para organizarte cómodamente. Su papel es de alta calidad (100 gr)
+- Encuadernación flexible con apertura de 360º, perfecta y práctica para llevarlo a todas partes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B8JBSNJT{{</world>}}

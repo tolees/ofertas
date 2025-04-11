@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vasito de plástico con 30 gramos de un riquísimo y esponjoso algodón de azúcar de color rosa con sabor a fresa | Incluye una pegatina con dibujos de Unicornio
-- Este algodón de azúcar tiene una fecha de caducidad de 18 meses | Producto apto para celiacos
 - Su tapa permite abrir y cerrarlo herméticamente para conservar sus propiedades a la perfección | Guardar en un lugar fresco y seco, en su envase original y apartado de la luz
 - Este vasito con algodón de azúcar es ideal para cumpleaños, bodas, regalos, fiestas y muchas otras ocasiones que sorprenderán a tus invitados
+- Vasito de plástico con 30 gramos de un riquísimo y esponjoso algodón de azúcar de color rosa con sabor a fresa | Incluye una pegatina con dibujos de Unicornio
+- Este algodón de azúcar tiene una fecha de caducidad de 18 meses | Producto apto para celiacos
 - ¿Te gusta el algodón de azúcar? Nuestro riquísimo algodón de azúcar te hará viajar en cada bocado a la feria para la felicidad de los pequeños y los recuerdos de los mayores
 
 [🛒 Aquí!!!]({{< param buyurl >}})

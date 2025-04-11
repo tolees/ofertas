@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: Ante
 - Material de la suela: Caucho
 - Cierre: Cordones
+- Material exterior: Ante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B073BVR44C{{</world>}}

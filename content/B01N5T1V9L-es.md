@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LOréal Paris Infaillible Matte Resistance: Pintalabios líquido ultraligero de larga duración. Fórmula mate ultra ligera, no pesa en tus labios.
 - Color mate que dura hasta 16h: Alta pigmentación en una sola pasada, Aplicador ultra-preciso para un acabado mate
 - Contenido: 1x LOréal Paris Pintalabios Líquido, Color Intenso, Fórmula Mate de Larga Duración, Con Ácido Hialurónico, Sin Transferencia, Infaillible Matte Resistance, Tono: 400 Spill The Tea
 - Aplicación: 1. Exfoliar los labios, 2. Delinear el arco de cupido con la punta del aplicador, 3. Aplicar sobre los labios para un acabado mate infaillible de larga duración
 - Beneficios: Aplicador ultra- preciso para definir fácilmente el contorno de los labios, Fórmula resistente, no transfiere ni se emborrona, Enriquecido con Ácido Hialurónico que aporta hidratación a tus labios.
+- LOréal Paris Infaillible Matte Resistance: Pintalabios líquido ultraligero de larga duración. Fórmula mate ultra ligera, no pesa en tus labios.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01N5T1V9L{{</world>}}

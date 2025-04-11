@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
+- Sistema de lazada ajustable
 - Diseño concebido para una mayor estabilidad
 - Parte superior de punto transpirable
-- Sistema de lazada ajustable
+- Horma clásica
 - Sube la intensidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gris
-- Earthed toma de corriente doble húmedo
 - Series Nautic
+- Earthed toma de corriente doble húmedo
+- Gris
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000VDCJZK{{</world>}}

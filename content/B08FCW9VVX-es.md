@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatibilidad de carga y sincronización
 - Con licencia oficial de Nintendo
 - Cable USB tipo C de 2,4 m
-- Diseño de cable trenzado y duradero
+- Compatibilidad de carga y sincronización
 - Correa de sujeción del cable
+- Diseño de cable trenzado y duradero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08FCW9VVX{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento de goma en el talón
-- Amortiguación y comodidad
 - Zapatos inspirados en los modelos de baloncesto del pasado
+- Amortiguación y comodidad
+- Revestimiento de goma en el talón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BPDZJX3C{{</world>}}

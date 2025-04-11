@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Para todo el año
 - Baja
 - Femenino
 - 12615 CCGR
 - Graceful Get Connected
-- Para todo el año
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01LWSCK7Z{{</world>}}

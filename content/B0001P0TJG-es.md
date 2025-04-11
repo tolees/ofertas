@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfil rectangular de aluminio de 61 cm; con nervios de refuerzo, extremadamente resistente; con una burbuja horizontal y dos verticales y con asas de agarre
-- Precisión: +/-0,5 mm/m en posición normal e inversa
-- La tecnología de montaje Stabila asegura precisión a largo plazo
 - Topes plásticos en los extremos para absorber impactos y proteger el perfil y base de nivelación; extraíbles y antideslizantes
+- Precisión: +/-0,5 mm/m en posición normal e inversa
 - Dos superficies de nivelación con rectificado de precisión
+- La tecnología de montaje Stabila asegura precisión a largo plazo
+- Perfil rectangular de aluminio de 61 cm; con nervios de refuerzo, extremadamente resistente; con una burbuja horizontal y dos verticales y con asas de agarre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0001P0TJG{{</world>}}

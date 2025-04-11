@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 3 modos de cancelación de ruido digital
-- 5 hz - 50 khz
-- Controlador free edge de 40 mm
 - Bluetooth con aptx hd
+- 5 hz - 50 khz
+- 3 modos de cancelación de ruido digital
+- Controlador free edge de 40 mm
 - Hasta 25 horas de funcionamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

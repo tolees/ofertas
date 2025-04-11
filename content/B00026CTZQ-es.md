@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuenco medidor de briquetas
-- Plato recogedor de cenizas de aluminio (en el interior de la cuba)
-- Cuba y tapa en acero vitrificado
 - Parrilla de carbón de acero
-- Gancho soporte-tapa en el interior de la tapa
-- Ruedas de termoplástico endurecido resistentes a la intemperie
+- Cuenco medidor de briquetas
 - Parrilla de cocción de acero cromado de 47cm
-- Asa de nailón reforzado con fibra de vidrio
+- Cuba y tapa en acero vitrificado
+- Plato recogedor de cenizas de aluminio (en el interior de la cuba)
+- Gancho soporte-tapa en el interior de la tapa
 - 2 válvulas de ventilación de aluminio (1 en la tapa, 1 en la cuba)
+- Asa de nailón reforzado con fibra de vidrio
+- Ruedas de termoplástico endurecido resistentes a la intemperie
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00026CTZQ{{</world>}}

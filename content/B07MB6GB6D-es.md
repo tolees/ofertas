@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exterior de PVC
 - Bandolera ajustable 145 cm
 - 1 bolsillo plano exterior y 1 bolsillo interior con cremallera
 - Tamaño: 20 x 25,5 x 3,5 cm
+- Exterior de PVC
 - Bolso bandolera para hombre Lacoste de PVC
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

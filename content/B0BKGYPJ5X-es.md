@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polo de ajuste clásico
 - Logotipo de Aston Marting Racing en el pecho
 - Manga corta
+- Polo de ajuste clásico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKGYPJ5X{{</world>}}

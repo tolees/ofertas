@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Extintor en idiomas Italiano, Portugués y Español
-- Adecuado para usarlo tanto en casa como fuera
-- Uso apto en oficinas, hogar, barcos, caravanas o coches
-- El extintor de polvo seco tiene una fuerte capacidad de extinción e incluye materiales de montaje
-- El extintor tiene una capacidad de 6 kg con reistencia al fuego 43A, 233B, C; Resistencia al fuego ABC
-- Certificado BSI
 - Incluye soporte para pared. Anclajes para fácil instalación
+- Uso apto en oficinas, hogar, barcos, caravanas o coches
+- El extintor tiene una capacidad de 6 kg con reistencia al fuego 43A, 233B, C; Resistencia al fuego ABC
+- Extintor en idiomas Italiano, Portugués y Español
+- El extintor de polvo seco tiene una fuerte capacidad de extinción e incluye materiales de montaje
+- Certificado BSI
+- Adecuado para usarlo tanto en casa como fuera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079TJ9C4Y{{</world>}}

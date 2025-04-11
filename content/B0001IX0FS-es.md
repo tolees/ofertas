@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Master Class
-- Contenido del paquete: una unidad
-- Material: acero inoxidable
 - Color: plateado
+- Material: acero inoxidable
+- Contenido del paquete: una unidad
+- Marca: Master Class
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0001IX0FS{{</world>}}

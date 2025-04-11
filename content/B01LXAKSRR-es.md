@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Velocidad de escritura: 4 MB/s
-- Velocidad de lectura: 14 MB/s
 - Factor de forma: sin tapa
 - Interfaz del dispositivo: USB tipo A
+- Velocidad de lectura: 14 MB/s
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LXAKSRR{{</world>}}

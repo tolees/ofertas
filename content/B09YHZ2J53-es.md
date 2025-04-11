@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Brazalete Plateado Acero inoxidable
-- Diámetro caja: 36mm
 - Movimiento Cuarzo
-- Caja Acero inoxidable, esfera Plateado
 - Resistente al agua: 30m
+- Caja Acero inoxidable, esfera Plateado
+- Diámetro caja: 36mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09YHZ2J53{{</world>}}

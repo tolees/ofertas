@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño de punta: punta de bala
-- Para casi todas las superficies
 - Seguro en seco: se puede dejar abierto durante días sin secarse (prueba iso 554)
+- Diseño de punta: punta de bala
 - Tipo de tinta: tinta de bajo olor, sin xlol ni tolueno, resistente al agua, resistente a la decoloración
+- Para casi todas las superficies
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00PNQGNY8{{</world>}}

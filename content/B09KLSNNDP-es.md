@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: colector HDPE de alta calidad con cubierta PC (con patas de aluminio ajustables para controlar la altura)
 - Calentador solar apto para piscinas elevadas
+- Se debe instalar una unidad por cada 7 m3 (posibilidad de conectar varias unidades en línea)
 - Requiere un caudal mínimo de 2 m3/h para funcionar correctamente
 - Conexiones de 32/38 mm
-- Se debe instalar una unidad por cada 7 m3 (posibilidad de conectar varias unidades en línea)
+- Material: colector HDPE de alta calidad con cubierta PC (con patas de aluminio ajustables para controlar la altura)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KLSNNDP{{</world>}}

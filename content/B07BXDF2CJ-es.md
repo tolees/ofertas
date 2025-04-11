@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Uso exclusivo para Gas Butano
-- Entrada gas: parte trasera izquierda
-- Parrillas/Quemadores de hierro fundido
 - 3 quemadores de gas: - Izquierda: 1 triple corona de 3,5kW. - Derecha arriba: 1 semi-rápido de 1,75kW. - Derecha abajo: 1 auxiliar de 1kW
-- Ancho de 59cm
+- Parrillas/Quemadores de hierro fundido
+- Uso exclusivo para Gas Butano
 - Encendido electrónico integrado en el mando
+- Entrada gas: parte trasera izquierda
+- Ancho de 59cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07BXDF2CJ{{</world>}}

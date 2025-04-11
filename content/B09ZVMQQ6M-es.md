@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talla del zapato: Medium
 - Grado de resistencia al agua: no impermeable
 - Material exterior: piel
+- Talla del zapato: Medium
 - Forma del tacón: plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

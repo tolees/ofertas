@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se puede utilizar la higiene del ojo, nariz y oído
-- Práctico para llevar, viene en monodosis
 - Ayuda a retener agentes externos y gérmenes
-- Solución isotónica estéril
+- Se puede utilizar la higiene del ojo, nariz y oído
 - Con punta redonda
+- Práctico para llevar, viene en monodosis
+- Solución isotónica estéril
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01BHPM2IO{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte de monomalla técnica
 - Horma clásica
+- Parte de monomalla técnica
 - Mediasuela Dreamstrike
 - Forro textil
 

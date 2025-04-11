@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Revestimiento: Sin forro
 - Tipo de tacón: Plano
 - Material de la suela: Caucho
-- Revestimiento: Sin forro
 - Material exterior: Caucho
 - Cierre: Sin cierre
 - Altura del tacón: 1 centímetros

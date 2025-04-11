@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Detalle acado en el cuello
-- Ajuste clásico
 - Logotipo en relieve
+- Ajuste clásico
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

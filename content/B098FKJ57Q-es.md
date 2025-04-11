@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ANTICASPA HOMBRE Y MUJER: Sus activos naturales disuelven de manera progresiva las escamas y costras, promoviendo un cuero cabelludo limpio, saludable y con un efecto refrescante inmediato que ayuda a aliviar el picor del cuero cabelludo al instante.
 - LOCIÓN CAPILAR: La loción capilar de La Carmela combina activos naturales para convertirse en un producto capilar multifuncional que ayuda a prevenir la caída del cabello, la aparición de caspa en el cuero cabelludo y potencia el crecimiento del pelo.
+- ANTICASPA HOMBRE Y MUJER: Sus activos naturales disuelven de manera progresiva las escamas y costras, promoviendo un cuero cabelludo limpio, saludable y con un efecto refrescante inmediato que ayuda a aliviar el picor del cuero cabelludo al instante.
+- ANTICAÍDA PELO: Gracias a la acción antibacteriana del Alcohol y la antiinflamatoria del Aloe Vera, Menthol y Limonene, el tónico capilar limpia y tonifica el cuero cabelludo, frenando la caída del pelo producida por la obstrucción de los folículos.
 - CRECE PELO: Esta loción capilar es redensificante, lo que significa que actúa desde el interior favoreciendo la aparición y el nacimiento de pelo nuevo. Al aumentar el número de cabellos nuevos, la melena se verá con mucha más densidad y volumen.
 - MODO DE USO: Se puede usar a diario, incluso varias veces al día, unas horas antes de lavarse la cabeza o después del lavado. Agítalo antes de usar, pulveriza sobre el cuero cabelludo de manera uniforme y masajea suavemente para su correcta absorción.
-- ANTICAÍDA PELO: Gracias a la acción antibacteriana del Alcohol y la antiinflamatoria del Aloe Vera, Menthol y Limonene, el tónico capilar limpia y tonifica el cuero cabelludo, frenando la caída del pelo producida por la obstrucción de los folículos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B098FKJ57Q{{</world>}}

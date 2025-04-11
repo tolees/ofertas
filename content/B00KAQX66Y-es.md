@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de transportar gracias a su diseño ligero y compacto
 - Distancia mínima de enfoque de 0.22 m
 - Objetivo zoom ultra gran angular
-- AF fluido y silencioso durante la grabación de vídeo
+- Fácil de transportar gracias a su diseño ligero y compacto
 - Fotografías y vídeos estables gracias al estabilizador de la imagen de 4 pasos
+- AF fluido y silencioso durante la grabación de vídeo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KAQX66Y{{</world>}}

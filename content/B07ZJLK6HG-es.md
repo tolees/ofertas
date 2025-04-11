@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - algodón
 - Cómodo
-- Cintura elástica
 - Pantalones de chándal
+- Cintura elástica
 - Cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

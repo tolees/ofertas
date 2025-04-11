@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sudadera con un estilo inconfundible
 - Capucha con cordón externo para ajuste.
 - Bolsillo frontal con cremallera cubierto por solapa de velcro
-- Sudadera con un estilo inconfundible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09BD8VLTM{{</world>}}

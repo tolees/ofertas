@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un conjunto de nuevos contenidos
 - Vibraciones de la vieja escuela
 - Juega a tu manera
+- Un conjunto de nuevos contenidos
 - Música moderna
 
 [🛒 Aquí!!!]({{< param buyurl >}})

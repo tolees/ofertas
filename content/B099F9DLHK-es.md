@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - MF refrigerado por aire
 - Repelente al agua
-- Ajuste relajado
 - Lavable a máquina
 - Goma Goodyear
+- Ajuste relajado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099F9DLHK{{</world>}}

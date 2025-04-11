@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CAMISETA DE ALGODÓN LAVADO DE MANGA CORTA CON LOGO IMPRESO EN EL PECHO.
 - Fabricado con 100% algodón sostenible
+- CAMISETA DE ALGODÓN LAVADO DE MANGA CORTA CON LOGO IMPRESO EN EL PECHO.
 - PORTOBELLO ORGÁNICO
 
 [🛒 Comprar!!!]({{< param buyurl >}})

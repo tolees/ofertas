@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Skech-Knit
-- MF refrigerado por aire
 - Lavable a máquina
+- MF refrigerado por aire
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08QJNTMJX{{</world>}}

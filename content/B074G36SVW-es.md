@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cocodrilo de metal a tono
 - Correa de hombro ajustable
+- Dimensiones 15 x 205 x 4 cm
 - Un bolsillo exterior y dos bolsillos interiores, incluyendo un bolsillo con cremallera
 - Exterior en PVC petit piqué
-- Dimensiones 15 x 205 x 4 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B074G36SVW{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mediasuela de EVA y plantilla OrthoLite
 - Horma clásica
+- Mediasuela de EVA y plantilla OrthoLite
 - Parte de ripstop y puntera moldeada
 - Sistema de lazada rápida
 

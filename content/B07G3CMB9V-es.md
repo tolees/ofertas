@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- UNIVERSAL – El altavoz tiene cable AUX de 3,5 mm para cualquier portátil, PC, tableta o teléfono inteligente con la misma conexión. Incluso tu televisor experimentará una gran mejora.
 - MODO ECO – Cuando no se utiliza durante 60 minutos, el Tytan 2.1 RGB pasa automáticamente al modo de espera. Ahorrarás energía y, por lo tanto, dinero y, ¡también es bueno para el medio ambiente!
 - AUMENTA TU JUEGO – Con 120 W de potencia máxima (60 W RMS), el set de altavoces Trust Tytan 2.1 te ayudará a aumentar tu juego. Mejora el audio de tu dispositivo preferido con un sonido potente.
 - CONTROL – El altavoz gaming tiene un control remoto para ajustar el volumen y los graves. Ideal para elegir tus ajustes RGB favoritos y encender o apagar el altavoz con tan solo pulsar un botón.
-- UNIVERSAL – El altavoz tiene cable AUX de 3,5 mm para cualquier portátil, PC, tableta o teléfono inteligente con la misma conexión. Incluso tu televisor experimentará una gran mejora.
 - SONIDO REPLETO DE COLOR – El subwoofer incluido tiene mucha fuerza. Y no solo te sumerge en el juego con su sonido, sino también con los colores RGB. Ajústalo a tu gusto y juega como nunca.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

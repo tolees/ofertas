@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fragancia agradable
 - Producto de calidad óptima
+- Fragancia agradable
 - Producto óptimo para regalar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

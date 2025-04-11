@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sin colorantes, hipoalergénico
+- Para un uso adecuado se recomienda humedecer con agua la zona a lavar, aplicar el gel como un jabón normal y aclarar abundantemente con agua
+- Su fórmula contiene extracto de flor de loto y glicina con propiedades calmantes y suavizantes. Además posee ácido láctico que ayuda a mantener el pH fisiológico de la zona íntima (pH = 5,2)
 - Gel limpiador hidratante suave especialmente desarrollado para limpiar la delicada piel de la zona íntima femenina, cuidarla y protegerla respetando la flora vaginal y el equilibrio íntimo frente a las secreciones fisiológicas de la zona (sudorales y vaginales) y restos de suciedad
 - Gel con extracto de flor de loto y glicina formulado para la higiene y protección diaria de la zona íntima de las mujeres que creen que necesitan algún producto más especializado; ya sea para cada día o en ciertos momentos como la menstruación o después de tener relaciones sexuales
-- Su fórmula contiene extracto de flor de loto y glicina con propiedades calmantes y suavizantes. Además posee ácido láctico que ayuda a mantener el pH fisiológico de la zona íntima (pH = 5,2)
-- Para un uso adecuado se recomienda humedecer con agua la zona a lavar, aplicar el gel como un jabón normal y aclarar abundantemente con agua
-- Sin colorantes, hipoalergénico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00HR3AS6Y{{</world>}}

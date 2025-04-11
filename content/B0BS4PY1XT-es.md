@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiro regular y pierna ajustada
-- Fabricado con prácticas y materiales sostenibles
 - Estilo Jogger
+- Fabricado con prácticas y materiales sostenibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS4PY1XT{{</world>}}

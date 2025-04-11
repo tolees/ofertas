@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correa ajustable
-- Ojales transpirables
 - Tafetán: tejido suave y ligero con un acabado delicadamente brillante
 - Pespuntes decorativos
 - Cocodrilo verde termosellado en el lateral
+- Correa ajustable
+- Ojales transpirables
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083FHZDST{{</world>}}

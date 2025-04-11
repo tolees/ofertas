@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fundidor de cera a pilas con tapa protectora, incluye 2 pilas AA 1,5 V.
-- 11 barras de cera en diferentes tonos.
 - Corrige irregularidades en laminados, parqué, corcho, y superficies de madera mediante fundición térmica.
+- 11 barras de cera en diferentes tonos.
+- Fundidor de cera a pilas con tapa protectora, incluye 2 pilas AA 1,5 V.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01L13COHQ{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- The Hydra Power Station found in this pack is an ill omen for their adversaries as it pumps precious energy into even more malevolent designs.
-- Players can energize their Marvel: Crisis Protocol battlefields with this new Terrain Pack!
 - Whether invading bordering lands or defending their stolen territory, Hydra is always quick to raise a base and dig in.
 - Especially when it’s combined with CP179 Hydra Turret and CP78 Hydra Tank Terrain Pack & Ultimate Encounter to set the stage for an epic showdown with Hydra.
+- Players can energize their Marvel: Crisis Protocol battlefields with this new Terrain Pack!
+- The Hydra Power Station found in this pack is an ill omen for their adversaries as it pumps precious energy into even more malevolent designs.
 - With it, players can add even more thematic depth to their battlefields.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

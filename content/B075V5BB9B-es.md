@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BLANCO ANTIGUO
 - Aplicando el Barniz Chalk Paint Proa, se consigue una gran dureza y resistencia.
-- Chalk Paint para madera
 - Restauración de muebles
+- Chalk Paint para madera
+- BLANCO ANTIGUO
 - Pintura efecto Tiza
 
 [🛒 Comprar!!!]({{< param buyurl >}})

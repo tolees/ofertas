@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descubre lugares y objetos ocultos desbloqueando historias adicionales
-- Explora una inmensa ciudad ciberpunk vertical con tu coche volador y a pie
-- Conoce a una gran variedad de personajes y sumérgete en su vida cotidiana
 - Tus decisiones tendrán un impacto duradero en los habitantes de Nivalis
+- Descubre lugares y objetos ocultos desbloqueando historias adicionales
+- Conoce a una gran variedad de personajes y sumérgete en su vida cotidiana
+- Explora una inmensa ciudad ciberpunk vertical con tu coche volador y a pie
 - Descifra misterios en un mundo de conspiraciones corporativas, hackers e inteligenciaartificial
 
 [🛒 Visítala!!!]({{< param buyurl >}})

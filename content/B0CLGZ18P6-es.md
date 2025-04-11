@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esmalte 1 Seconde, resultado brillante en 1 segundo por uña
-- Paleta Volume Glamour, múltiples looks en una sola paleta
-- Look completo para las ocasiones más especiales
-- Velvet Ink, barra de labios líquida mate hasta 24 horas
 - Gracias a los Xmas crackers encontrarás lo que buscas
+- Paleta Volume Glamour, múltiples looks en una sola paleta
+- Velvet Ink, barra de labios líquida mate hasta 24 horas
+- Look completo para las ocasiones más especiales
+- Esmalte 1 Seconde, resultado brillante en 1 segundo por uña
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLGZ18P6{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Seguridad para niños: bloquea el panel de mandos para impedir cambios accidentales de configuración
-- Inducción: rápida, segura, limpia y muy eficiente
-- Función Sprint: reduce el tiempo de calentamiento de grandes cantidades de agua y otros líquidos hasta en un 50%
 - Programación del tiempo de cocción: apaga la zona de cocción seleccionada una vez transcurrido el tiempo establecido
+- Seguridad para niños: bloquea el panel de mandos para impedir cambios accidentales de configuración
+- Función Sprint: reduce el tiempo de calentamiento de grandes cantidades de agua y otros líquidos hasta en un 50%
+- Inducción: rápida, segura, limpia y muy eficiente
 - Control DirectSelect: selecciona fácilmente la zona de cocción, su potencia y otras funciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

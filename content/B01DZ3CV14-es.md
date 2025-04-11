@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sombra de ojos color melocotón
+- Sombra de ojos intensa para conseguir un efecto de ojos ahumados o smokey eyes indicada para todo tipo de pieles.
 - Colores intensos con diferentes acabados: Mate, satinado y metálico
 - Fórmulas enriquecidas con una mezcla de mantecas y aceites naturales
 - Textura fácil de aplicar y confortable; con propiedades nutritivas
-- Sombra de ojos intensa para conseguir un efecto de ojos ahumados o smokey eyes indicada para todo tipo de pieles.
-- Sombra de ojos color melocotón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01DZ3CV14{{</world>}}

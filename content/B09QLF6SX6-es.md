@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta básica de algodón con cuello redondo y etiqueta de goma. Detail at bottom.
 - Manga larga
+- Camiseta básica de algodón con cuello redondo y etiqueta de goma. Detail at bottom.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QLF6SX6{{</world>}}

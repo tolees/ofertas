@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Suela exterior de goma ASICSGRIP
-- Membrana GORE-TEX
 - Tecnología FF BLAST
+- Membrana GORE-TEX
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B1LGV797{{</world>}}

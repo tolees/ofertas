@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forro textil
+- Horma clásica
+- Plantilla de EVA
 - Parte de piel sintética
 - Cierre de cordones
-- Forro textil
-- Plantilla de EVA
-- Horma clásica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPF15VXM{{</world>}}

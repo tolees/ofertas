@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 32 paneles de construcción
-- cosido a máquina
 - Logotipo del felino de PUMA
+- cosido a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BYN8LPFC{{</world>}}

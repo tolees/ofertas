@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Para la escuela, la oficina y el diseño del hogar
-- Lomo de 75 mm para hasta 500 hojas
 - Diseño metálico decorativo
 - Compresor metálico
+- Lomo de 75 mm para hasta 500 hojas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BBS63GKZ{{</world>}}

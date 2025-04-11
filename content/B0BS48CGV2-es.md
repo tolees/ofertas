@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos interiores con ranura
 - Cierre superior con cremallera
+- Bolsillos interiores con ranura
 - Calvin Klein Delicada marca de metal en la parte delantera
 - Correa cruzada ajustable
 

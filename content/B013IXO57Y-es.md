@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Amortiguación de respuesta Dual-Lite
 - Suela exterior que no deja marcas
+- Amortiguación de respuesta Dual-Lite
 - Plantilla de espuma viscoelástica con infusión de gel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

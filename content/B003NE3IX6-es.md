@@ -32,9 +32,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Utilice la identificación del vehículo para confirmar la compatibilidad con su vehículo , Deben respetarse todas las restricciones
 - Tiempo de postcalentamiento de hasta 3 minutos: funciones adicionales como el caelentamiento intermedio y regeneración aseguran la fluidez de funcionamiento y el confort en todos los rangos de carga
 - Todos los trabajos deben ser realizados sólo por especialistas formados
+- Tensión: 11.0 V / Pareja de servicio (ISO): M 8 x 1,0 / Filtrado: 10 Nm / Dimensiones: 120 mm
 - Tubo incandescente de Bosch: proporciona una larga vida útil y protege contra la corrosión
 - Bosch desarrolló la tecnología Duraterm: alcanza la temperatura de precalentamiento de aproximadamente 850 °C en menos de 5 segundos
-- Tensión: 11.0 V / Pareja de servicio (ISO): M 8 x 1,0 / Filtrado: 10 Nm / Dimensiones: 120 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B003NE3IX6{{</world>}}

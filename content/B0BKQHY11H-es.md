@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura baja
 - Tonos cálidos de invierno
 - Chino ajustado
+- Cintura baja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKQHY11H{{</world>}}

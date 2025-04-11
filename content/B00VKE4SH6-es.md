@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SLIM
 - Casual. Cómodo. Hecho para durar
+- SLIM
 - Better Cotton Initiative (BCI). Fabricado con técnicas menos agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

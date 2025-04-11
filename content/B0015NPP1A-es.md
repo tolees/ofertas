@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuerpo de plástico duradero
 - Incluye pipeta de llenado
 - El bloque de resorte controla el flujo de lubricante
 - Rueda de corte de carburo de tungsteno
-- Cuerpo de plástico duradero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0015NPP1A{{</world>}}

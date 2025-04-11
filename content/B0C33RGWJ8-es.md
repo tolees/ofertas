@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Práctico y cómodo
 - Cierre de cordones
+- Práctico y cómodo
 - Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

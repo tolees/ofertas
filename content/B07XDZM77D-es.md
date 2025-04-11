@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Parte inferior abierta
-- Largo por encima de la rodilla
-- Cinturilla elástica
-- Tipo de fábrica: 68% Cotton, 32% Polyester
 - Bolsillos laterales
 - Logotipo del felino puma en la pernera izquierda
+- Tipo de fábrica: 68% Cotton, 32% Polyester
+- Cinturilla elástica
+- Largo por encima de la rodilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XDZM77D{{</world>}}

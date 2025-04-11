@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este set se compone de: 6 x platos hondos 23 cm, 6 x platos llanos de 25 cm
-- Be green: sello de calidad para una producción de porcelana ecológica
-- Fabricada en porcelana dura con bordes antiimpactos
-- Apto para lavavajillas, calentar, hornos, microondas
 - Fabricado en alemania
+- Este set se compone de: 6 x platos hondos 23 cm, 6 x platos llanos de 25 cm
+- Fabricada en porcelana dura con bordes antiimpactos
+- Be green: sello de calidad para una producción de porcelana ecológica
+- Apto para lavavajillas, calentar, hornos, microondas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075MP5PBV{{</world>}}

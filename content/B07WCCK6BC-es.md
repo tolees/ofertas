@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 2 cepillos de cerdas suaves para un cabello sedoso
-- Cepillo soplador giratorio de 650 W para un fácil secado del cabello
 - Tecnología iónica para un acabado brillante y sin encrespamiento
+- Cepillo soplador giratorio de 650 W para un fácil secado del cabello
 - Sin apagado automático
 - 2 temperaturas y un botón de aire fresco
 

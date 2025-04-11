@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Funda especial para la caja
-- Carátula reversible
-- Banda Sonora Digital
 - Arte desplegable que forma un mapa
+- Funda especial para la caja
+- Banda Sonora Digital
+- Carátula reversible
 - Imagen lenticular 3D
 
 [🛒 Visítala!!!]({{< param buyurl >}})

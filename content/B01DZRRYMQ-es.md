@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte URC en línea para encontrar los códigos de las diferentes marcas
 - compatible con hasta 800 marcas diferentes
-- Contenido en caja: Mando a distancia universal SRP5016, garantía, guía de uso breve
-- Botones grandes y elegantes
 - Perfecto para controlar los aparatos de stream (Apple TV, Roku, Netflix)
+- Botones grandes y elegantes
+- Contenido en caja: Mando a distancia universal SRP5016, garantía, guía de uso breve
+- Soporte URC en línea para encontrar los códigos de las diferentes marcas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DZRRYMQ{{</world>}}

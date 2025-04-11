@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta de manga larga
-- Con tacto suave y Con combinación de tejido en el bajo
 - Con cuello redondo
+- Con tacto suave y Con combinación de tejido en el bajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C23J1SZN{{</world>}}

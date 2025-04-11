@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavar a máquina
-- Manga cortaCuello redondo
 - Panel con inserción de malla cortada y cosida
+- 100% Poliéster
+- Lavar a máquina
 - Contiene material reciclado: Producto elaborado con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
 - Cierre: Pull on
 - Costura lateral orientada hacia delante para embellecer la silueta
 - Estilo del cuello: Cuello de una pieza
-- 100% Poliéster
 - Propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
+- Manga cortaCuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09168SJFP{{</world>}}

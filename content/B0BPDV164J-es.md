@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Zapatillas casuales
 - Imitación de cuero
 - Forma clásica
-- Zapatillas casuales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BPDV164J{{</world>}}

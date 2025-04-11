@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - FRESCO Y EFICIENTE - Frozr AI Cooling ajusta el ventilador en función de la temperatura del sistema; incluye almohadillas térmicas MOSFET 7W/mK y un disipador ampliado, M.2 Shield Frozr y PCB de 6 capas grado servidor fabricado con 2 oz de grosor de cobre
 - CONECTIVIDAD LAN 2.5G - El hardware de red incluye la LAN Intel I225V a 2,5 Gbps; los puertos posteriores incluyen USB 3.2 Gen 2x2 Tipo-C (20 Gbps), HDMI 2.1 y DisplayPort 1.4, y audio 7.1 HD con Audio Boost
-- MEMORIA DDR4, PCI-E 5.0 x16 SLOT - 4 ranuras DDR4 DIMM SMT para una memoria de alta velocidad y claridad de señal (1DPC 1R, 5200+ MHz); ranura PCIe 5.0 x16 SMT (128GB/s) para tarjetas gráficas de vanguardia (2 xPCIe 3.0 x16 ranuras, soporta AMD CrossFire)
 - CONECTORES M.2 GEN4 TRIPLE - Las opciones de almacenamiento de primera consisten en 3 ranuras M.2 Gen4 x4 64Gbps y 1 ranura M.2 Gen3 x4 32Gbps (compatible con Intel Optane ) con Shield Frozr (M2_1) para evitar el estrangulamiento térmico de las SSD
 - VRM CONFIABLE, 12TH GEN CORE READY - El PRO Z690-A DDR4 emplea una plataforma VRM 14+1+1 duet rail (55A) con DrMOS para el chipset Intel Z690 (LGA 1700, 12th Gen Core ready); arquitectura Core Boost soporta procesasores multinúcleo exigentes
+- MEMORIA DDR4, PCI-E 5.0 x16 SLOT - 4 ranuras DDR4 DIMM SMT para una memoria de alta velocidad y claridad de señal (1DPC 1R, 5200+ MHz); ranura PCIe 5.0 x16 SMT (128GB/s) para tarjetas gráficas de vanguardia (2 xPCIe 3.0 x16 ranuras, soporta AMD CrossFire)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HK6VKNX{{</world>}}

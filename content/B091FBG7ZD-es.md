@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta confeccionada en tejido ligero y transpirable para brindar comodidad durante la práctica deportiva
-- Logotipo serigrafiado
-- Diseño ligero y flexible
 - Material resistente y duradero
+- Diseño ligero y flexible
+- Logotipo serigrafiado
+- Camiseta confeccionada en tejido ligero y transpirable para brindar comodidad durante la práctica deportiva
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B091FBG7ZD{{</world>}}

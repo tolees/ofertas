@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pantalla LCD
+- Medición 5 Kg / 1 gr
+- Termómetro integrado
 - Temporizador
 - Superficie anti-huellas
 - Acero pulido inox.
-- Termómetro integrado
-- Medición 5 Kg / 1 gr
-- Pantalla LCD
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B007BNGUSK{{</world>}}

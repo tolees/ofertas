@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aumentos encantadores
 - Estrategia fascinante
 - Mejoras encantadas
+- Aumentos encantadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGPV8JT9{{</world>}}

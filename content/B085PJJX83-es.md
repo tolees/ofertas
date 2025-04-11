@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye camiseta, short Y medias
-- Paqueteage Dimensiones: 4.2 L x 23.3 H x 16.5 W (centimeters)
 - Escudo y estrella de campeones del mundo bordadas
+- Paqueteage Dimensiones: 4.2 L x 23.3 H x 16.5 W (centimeters)
 - Producto oficial Licenciado
+- Incluye camiseta, short Y medias
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B085PJJX83{{</world>}}

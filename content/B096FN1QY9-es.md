@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Excelente juego de cartas más vendido nominado a Juego del Año
+- Barajas de papel 100% certificadas por el FSC
 - Natureline Games para juegos sostenibles
 - Tipo especial de experiencia grupal sostenible
-- Barajas de papel 100% certificadas por el FSC
 - Embalaje 100% libre de plástico sin película de papel reciclado
-- Excelente juego de cartas más vendido nominado a Juego del Año
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B096FN1QY9{{</world>}}

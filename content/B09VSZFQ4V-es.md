@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla de EVA
+- Horma clásica
 - Forro textil
 - Cierre de cordones
-- Horma clásica
+- Plantilla de EVA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VSZFQ4V{{</world>}}

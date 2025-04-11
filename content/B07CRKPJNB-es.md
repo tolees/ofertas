@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fijación al techo mediante pinzas; bombilla no incluida
+- Material: aluminio; ip20
 - El producto no incluye bombilla por lo que la clasificación energética dependerá de la bombilla que se instale
+- Fijación al techo mediante pinzas; bombilla no incluida
 - Empotrable orientable con ángulo de basculación del ojo de buey 30º y orientable 351º, para poder enfocar la iluminación al punto deseado
 - Incluye portalámparas gu10 (directo a 220v) sin transformador
-- Material: aluminio; ip20
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CRKPJNB{{</world>}}

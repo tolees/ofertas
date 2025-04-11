@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene un color transparente
 - Puede ser usar con todos los preservativos
+- Tiene un color transparente
+- No es pegajoso o grasoso, solo es ligero y suave
 - Elaborado a base de agua
 - Se puede lavarse fácilmente
-- No es pegajoso o grasoso, solo es ligero y suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00PJZ3TIQ{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con materiales sostenibles
 - VISCOSA
+- Fabricado con materiales sostenibles
 - Minivestido patinador. Diseño de cuerpo cruzado con bolsillos en los lados. Cremallera oculta en la costura lateral.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

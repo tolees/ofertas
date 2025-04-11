@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiro regular
-- Se estrechan del muslo al dobladillo
 - Bragueta de cremallera
+- Tiro regular
 - Cinturilla regular
+- Se estrechan del muslo al dobladillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BRZYV54P{{</world>}}

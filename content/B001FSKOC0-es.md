@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% compatible con preservativos
-- Soluble en agua y libre de grasas
 - PH óptimo
 - Ingredientes: Agua, Glicerina, Hidroxietil Celu
+- Soluble en agua y libre de grasas
+- 100% compatible con preservativos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001FSKOC0{{</world>}}

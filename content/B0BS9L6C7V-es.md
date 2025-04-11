@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Algodón orgánico puro
-- Silueta de pierna recta
 - Cremallera con gancho oculto
+- Silueta de pierna recta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS9L6C7V{{</world>}}

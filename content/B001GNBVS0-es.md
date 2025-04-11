@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño funcional
 - Diseñado para ofrecer una excelente experiencia al cliente
 - Tipo de piel: Normal
-- Diseño funcional
 - Creado siguiendo los más altos estándares de la marca Max Factor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

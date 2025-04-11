@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% algodón (el color Negro-Gris jaspeado es 80% algodón, 20% poliéster)
-- Camiseta classica Vans de manga corta bicolor
 - Ajustada clásica
+- Camiseta classica Vans de manga corta bicolor
+- 100% algodón (el color Negro-Gris jaspeado es 80% algodón, 20% poliéster)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNL6X792{{</world>}}

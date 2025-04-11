@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste: ajuste regular
-- Ajuste: ajuste regular clásico desde la altura y hasta la abertura de la pierna.
-- Es el medio entre un pantalón corto formal y un estilo casual de 5 bolsillos.
-- Ocasión/estilo: los pantalones cortos chinos son un estilo esencial para esta categoría.
-- Cintura/elevación: tiro regular
-- Longitud/tamaño: medio muslo
 - Es un estilo liso, con bolsillos delanteros y traseros solamente
-- Es perfecto para el hombre que quiere algo de espacio extra
+- Ajuste: ajuste regular clásico desde la altura y hasta la abertura de la pierna.
+- Ajuste: ajuste regular
+- Cintura/elevación: tiro regular
+- Es el medio entre un pantalón corto formal y un estilo casual de 5 bolsillos.
+- Longitud/tamaño: medio muslo
 - Cierre/bragueta: cierre de cremallera
 - Tejido: hecho de tela elástica suave y de alto rendimiento para garantizar un ajuste perfecto y comodidad durante todo el día
+- Es perfecto para el hombre que quiere algo de espacio extra
+- Ocasión/estilo: los pantalones cortos chinos son un estilo esencial para esta categoría.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09TPKQS7T{{</world>}}

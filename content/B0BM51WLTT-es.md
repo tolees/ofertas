@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No resistente al agua
 - Parte superior: cuero
+- No resistente al agua
 - Forma del talón: plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

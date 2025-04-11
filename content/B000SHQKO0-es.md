@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con capuchón
-- Punta de bola
 - Recargable
 - Bolígrafo borrable por fricción
+- Con capuchón
 - Tinta termo sensible
+- Punta de bola
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000SHQKO0{{</world>}}

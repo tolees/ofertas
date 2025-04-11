@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Equipacion deportiva
-- Camisetas equip; m/c
 - Negro-Blanco
+- Camisetas equip; m/c
+- Equipacion deportiva
 - Tipo de fábrica: Poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

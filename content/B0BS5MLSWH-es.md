@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo impreso en contraste en el pecho
 - Corte regular
+- Logotipo impreso en contraste en el pecho
 - Fabricado con 100% algodón sostenible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

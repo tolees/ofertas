@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto premium: el cuaderno tracer light up es un producto oficial de overwatch
 - Divertido y único: asegúrate de que estás preparado para la batalla y anota cualquier plan que tengas en este cuaderno con luz tracer
-- Regalo perfecto: ideal como regalo para cumpleaños y navidad, este cuaderno es perfecto para los fans de overwatch y jugadores en general, y es ideal para usar en casa, en el trabajo o en la escuela
 - Listo para parpadear: la cubierta se ilumina cuando se presiona (3 pilas ag10 incluidas)
+- Producto premium: el cuaderno tracer light up es un producto oficial de overwatch
+- Regalo perfecto: ideal como regalo para cumpleaños y navidad, este cuaderno es perfecto para los fans de overwatch y jugadores en general, y es ideal para usar en casa, en el trabajo o en la escuela
 - Ventiladores de overwatch: un personaje popular del juego overwatch, tracer es un héroe que viaja en el tiempo con dos pistolas de pulso, bombas de tiempo de energía, y un ingenio rápido y afilado. Este cuaderno de tapa dura cuenta con el acelerador cronal de tracer desde el pecho de su atuendo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

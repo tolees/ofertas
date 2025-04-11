@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma relajada
 - Gran gorro de invierno para usar para correr, esquiar, hacer caminatas y generalmente cualquier cosa al aire libre
+- Forma relajada
 - Gorrita tejida holgada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

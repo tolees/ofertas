@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Juego icónico
+- Accesibilidad nueva
 - Dos juegos en uno
 - Remasterización de aniversario
-- Accesibilidad nueva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09SLX9Z6F{{</world>}}

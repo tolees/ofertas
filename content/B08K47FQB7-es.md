@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Resultados de manicura de salón sin salir de casa
-- Acabado gel 3D que dura hasta 14 días
-- Dos simples pasos: color y cobertura
-- Fórmula con aceites vegetales
 - Esmalte de uñas
+- Acabado gel 3D que dura hasta 14 días
+- Fórmula con aceites vegetales
+- Dos simples pasos: color y cobertura
+- Resultados de manicura de salón sin salir de casa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08K47FQB7{{</world>}}

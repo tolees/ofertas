@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior en piel/tela
-- Tecnología DMX
 - Amortiguación DMX
+- Tecnología DMX
+- Parte superior en piel/tela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082R7D6SW{{</world>}}

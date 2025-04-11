@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% Polyurethane
 - Detalle divertido en talón
 - Mickey Mouse flocado en un lateral
+- 100% Polyurethane
 - Cordones en color negro
 - Cierre con cordones
 

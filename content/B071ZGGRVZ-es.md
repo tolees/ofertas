@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Garantías de Calidad】 Si tiene alguna consulta sobre nuestros productos, siempre puede ponerse en contacto con nosotros y estaremos encantados de ayudarle.
-- 【3 Modos y Función Eco】Ahorra energía gracias a la exclusiva Modo ECO que regula la temperatura de funcionamiento del radiador de aceite bajo consumo en base a la temperatura ambiental para optimizar el consumo de energía. 1/ Modo de calentamiento rápido: el radiador se calienta a 35ªC. 2/ Modo ahorro de energía: la temperatura se ajusta automáticamente y calentará a 22ºC. 3/ Modo anti-congelamiento la temperatura se mantiene a un mínimo de 5ªC para evitar la congelación de tuberías.
-- 【Calor Seguro】Indicador con piloto de encendido para que pueda comprobar en todo momento cuando el radiador está trabajando, interruptor de seguridad, sistema de apagado automático si el radiador se cae y protección contra el sobrecalentamiento.
 - 【Elementos de Calor】13 Elementos de calor con tubos de doble U para un calentamiento más rápido y una mayor eficiencia energética. El temporizador programable de hasta 24 horas permite que pueda programarlo para que la estancia esté caliente previamente.
 - 【Pantalla de Control Led & Mando a distancia】Visualización clara y concisa de la temperatura seleccionada, potencia, modo y programación de tiempo en su pantalla LED. Botón de control táctil de uso intuitivo, seleccione potencia 1000 W, 1500 W o 2500 W. Todas estas funciones se pueden programar de forma sencilla mediante el mando a distancia incluído.
+- 【3 Modos y Función Eco】Ahorra energía gracias a la exclusiva Modo ECO que regula la temperatura de funcionamiento del radiador de aceite bajo consumo en base a la temperatura ambiental para optimizar el consumo de energía. 1/ Modo de calentamiento rápido: el radiador se calienta a 35ªC. 2/ Modo ahorro de energía: la temperatura se ajusta automáticamente y calentará a 22ºC. 3/ Modo anti-congelamiento la temperatura se mantiene a un mínimo de 5ªC para evitar la congelación de tuberías.
+- 【Calor Seguro】Indicador con piloto de encendido para que pueda comprobar en todo momento cuando el radiador está trabajando, interruptor de seguridad, sistema de apagado automático si el radiador se cae y protección contra el sobrecalentamiento.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071ZGGRVZ{{</world>}}

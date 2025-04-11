@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuenta con ácido hialurónico que proporciona un acabado con labios rellenos
-- Un labial con brillo de larga duración con efecto voluminizador
 - Contiene colágeno que da forma por 24 horas
+- Un labial con brillo de larga duración con efecto voluminizador
 - Producto de 7 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La altura del tobillo
-- logotipo de adidas
 - Puños acanalados
+- logotipo de adidas
+- La altura del tobillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQWQZ3VK{{</world>}}

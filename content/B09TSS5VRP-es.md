@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Juega como Jenn y Tristán en un beatem up/RPG de acción frenética.
+- Armas, equipo, recursos: mejora los atributos de tus personajes a tu gusto (velocidad, potencia, resistencia, agilidad...).
+- Explora un mundo paralelo y recorre decenas de mazmorras llenas de goblins y otros jefes con una fuerza tremenda.
+- Disfruta de una dirección artística distintiva con diálogos agudos.
 - Young Souls ofrece un rico e ingenioso sistema de combate basado en la estrategia y los combos: esquivar, combatir cuerpo a cuerpo, disparar a distancia, contraatacar...
 - Diseñado para los jugadores más duros, Young Souls ofrece una intensa experiencia de juego, solo o con un compañero en cooperativo.
-- Armas, equipo, recursos: mejora los atributos de tus personajes a tu gusto (velocidad, potencia, resistencia, agilidad...).
-- Disfruta de una dirección artística distintiva con diálogos agudos.
-- Explora un mundo paralelo y recorre decenas de mazmorras llenas de goblins y otros jefes con una fuerza tremenda.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TSS5VRP{{</world>}}

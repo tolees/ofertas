@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funda Cambric de algodón puro con sello de plumas de 92 hilos/cm²
 - Edredón cálido con relleno 90% plumón 10% plumón, certificado oeko-tex que garantiza la ausencia de sustancias nocivas para la salud humana
 - Dimensiones: 200 x 205 cm, para cama de una plaza y media. Peso: 220 g/m²
+- Funda Cambric de algodón puro con sello de plumas de 92 hilos/cm²
 - Suave, ligero, altamente transpirable, fabricado con plumas desempolvadas, lavadas y esterilizadas según la normativa italiana actual; asegura el calor natural adecuado durante la noche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Prueba toda la nueva gama Axe!
-- Fórmula sin aluminio
-- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
-- Con Tecnología Dual Action: Elimina el mal olor, fragancias irresistibles.
-- Fresca y vigorizante fragancia a menta y limon helado capaz de darte un toque fresco instantáneamente, rebajando 6 grados la temperatura de tu cuerpo.
 - Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
+- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
+- Fresca y vigorizante fragancia a menta y limon helado capaz de darte un toque fresco instantáneamente, rebajando 6 grados la temperatura de tu cuerpo.
+- Fórmula sin aluminio
+- Con Tecnología Dual Action: Elimina el mal olor, fragancias irresistibles.
+- ¡Prueba toda la nueva gama Axe!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WY48RFC{{</world>}}

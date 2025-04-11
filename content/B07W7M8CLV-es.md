@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - INTERRUPTORES MECÁNICOS: GX Brown es un interruptor mecánico tradicional que proporciona una respuesta de actuación perceptible para los jugadores que prefieren respuesta directa
 - PASO DE USB: Práctica facilidad de uso; El cable USB especial adicional conecta la conexión de paso de USB a su propia entrada, para dar el 100% de potencia y velocidad de datos; Puedes conectar un dispositivo para cargarlo o un ratón para cargar contra tu enemigo, sin perderte nada de la acción
 - SOFTWARE LOGITECH G HUB Personaliza la iluminación, el modo de juego y la programación de macros con el software Logitech G HUB
-- RGB LIGHTSYNC: Personaliza la iluminación de cada tecla individualmente y los efectos de iluminación, y disfruta de un espectro de aprox. 16,8 millones de colores integrado en el juego con Logitech G HUB
 - ALEACIÓN DE ALUMINIO DE AERONAVE: La cubierta superior de aluminio de aeronave 5052 está anodizada y bruñida para ofrecer un diseño premium y elegante, además de rigidez y durabilidad
+- RGB LIGHTSYNC: Personaliza la iluminación de cada tecla individualmente y los efectos de iluminación, y disfruta de un espectro de aprox. 16,8 millones de colores integrado en el juego con Logitech G HUB
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07W7M8CLV{{</world>}}

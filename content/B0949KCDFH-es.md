@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vans Marca Sidestripe
 - Vans Protección: ante resistente al agua
 - Cierre de cordones
+- Vans Marca Sidestripe
 - Suela de gofre inversa para una mayor tracción
 
 [🛒 Comprar!!!]({{< param buyurl >}})

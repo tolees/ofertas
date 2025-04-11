@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Corte estándar
+- Logotipo pequeño estampado en el pecho y banda con logo en las mangas
 - Tejido de algodón (150 g)
 - Tallas XXS a XXL
-- Logotipo pequeño estampado en el pecho y banda con logo en las mangas
-- Corte estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YPGCKVL{{</world>}}

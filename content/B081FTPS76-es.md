@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costuras decorativas en la parte delantera central
 - Construcción de cuello redondo
+- Costuras decorativas en la parte delantera central
 - Espalda de corredor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

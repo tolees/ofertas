@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfecta para diseños de folletos, tickets
 - ¡Da rienda suelta a la imaginación! Sólo para máquinas Cricut Maker
+- Perfecta para diseños de folletos, tickets
 - Hoja de perforación Cricut, crea diseños de cortes discontinuos, listos para arrancar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

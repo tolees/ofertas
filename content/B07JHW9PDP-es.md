@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: Tela
 - Cierre: Cordones
+- Material exterior: Tela
 - Material de la suela: Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

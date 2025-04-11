@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TEMPERATURA IDEAL: temperatura perfecta gracias al control electrónico de la temperatura del sistema ECT y funcion shower ready
-- Termo eléctrico diseñado y fabricado para ser instalado en España
-- INTERFAZ INTUITIVA: su intuitivo y elegante display LCD con botones soft touch fácilita la visualización y el control de todas las funciones del DUO7, entre las que se encuentran la programación de la temperatura y el número de duchas disponibles.
-- CAPACIDAD Y CONSUMO: la función REC Plus garantiza el máximo confort con la máxima eficiencia, ya que optimiza los recursos para mantener caliente el agua del depósito con el mínimo consumo, lo que supone un ahorro energético de hasta un 14%.
 - PROGRAMACIÓN: El DUO7 cuenta con función de programación, de modo que puedes adaptar el uso según tus consumos.
+- Termo eléctrico diseñado y fabricado para ser instalado en España
+- CAPACIDAD Y CONSUMO: la función REC Plus garantiza el máximo confort con la máxima eficiencia, ya que optimiza los recursos para mantener caliente el agua del depósito con el mínimo consumo, lo que supone un ahorro energético de hasta un 14%.
+- TEMPERATURA IDEAL: temperatura perfecta gracias al control electrónico de la temperatura del sistema ECT y funcion shower ready
+- INTERFAZ INTUITIVA: su intuitivo y elegante display LCD con botones soft touch fácilita la visualización y el control de todas las funciones del DUO7, entre las que se encuentran la programación de la temperatura y el número de duchas disponibles.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N0B6VIH{{</world>}}

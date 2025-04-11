@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material interior: poliuretano
 - Suela: goma
+- Material interior: poliuretano
 - Cierre: cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

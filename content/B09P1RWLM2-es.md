@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Amplia libertad de movimiento
-- Tela suave
 - Logotipo de adidas
 - Ajuste regular
+- Amplia libertad de movimiento
+- Tela suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09P1RWLM2{{</world>}}

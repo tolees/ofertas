@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dispone de las notas de fondo de vainilla y almizcle blanco
-- Comienza con una mezcla aromática de rosa búlgara y freesia rojo
 - Continúa con las notas medias de flor del mandarín y naranja
+- Comienza con una mezcla aromática de rosa búlgara y freesia rojo
+- Dispone de las notas de fondo de vainilla y almizcle blanco
 - La botella es contemporáneamente simple pero abstracta con estilo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

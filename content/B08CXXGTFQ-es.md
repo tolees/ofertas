@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tienen un parche de piel en la parte trasera con la marca Lee
-- Estilo cinco bolsillos
-- Model : L719PX36
 - Vaqueros para hombre
+- Model : L719PX36
+- Estilo cinco bolsillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CXXGTFQ{{</world>}}

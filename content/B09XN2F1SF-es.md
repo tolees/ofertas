@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Máscara de pestañas de Clean de Bourjois
-- Aporta longitud y definición para un acabado natural e impecable
 - Óptima fijación sin grumos y sin manchas mientras nutre tus pestañas
+- Máscara de pestañas de Clean de Bourjois
 - Máscara resistente al agua
+- Aporta longitud y definición para un acabado natural e impecable
 - Fórmula vegana, compuesta por un 99% de ingredientes de origen natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

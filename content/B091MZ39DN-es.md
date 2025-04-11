@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vino tinto afrutado y de gran calidad
-- Vino chileno elaborado con uva Cabernet Sauvignon procedente de zonas próximas a la cordillera Andina
 - Medalla de oro en Portugal Wine Trophy 2019
+- Vino chileno elaborado con uva Cabernet Sauvignon procedente de zonas próximas a la cordillera Andina
+- Vino tinto afrutado y de gran calidad
 - Óptimo con carnes a la brasa, guisos con salsas y quesos grasos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

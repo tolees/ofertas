@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ropa deportiva Rojo de la marca Le Coq Sportif
-- Los productos deportivos de la marca Le Coq Sportif están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Sudadera N°2 TRAINING FZ Sweat M pur rouge
 - N°2 TRAINING FZ Sweat M pur rougeLE COQ SPORTIF HOMBRE TALLA XXL
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Sudadera N°2 TRAINING FZ Sweat M pur rouge
+- Los productos deportivos de la marca Le Coq Sportif están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B61MNPM8{{</world>}}

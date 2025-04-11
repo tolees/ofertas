@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuatro personajes jugables que tienen cada uno una historia diferente que contar
+- Diálogos interactivos que darán forma a las relaciones entre los personajes
 - Una poderosa experiencia narrativa que rinde homenaje a las técnicas visuales y narrativas del género del thriller
 - Una historia original sobre la obsesión, la manipulación y la locura, inspirada en la obra maestra Vértigo de Alfred Hitchcock.
-- Diálogos interactivos que darán forma a las relaciones entre los personajes
-- Cuatro personajes jugables que tienen cada uno una historia diferente que contar
 - Varias líneas temporales para explorar que te permitirán solapar los acontecimientos y distinguir la realidad de los recuerdos engañosos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

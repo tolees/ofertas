@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sensor fotoeléctrico: este detector cuenta con un sensor fotoeléctrico de alta sensibilidad (también conocido como sensor óptico) para avisarle con antelación y reducir las falsas alarmas.
-- La seguridad ante todo: esté prevenido ante cualquier conato de incendio con este detector de humo Smartwares. Instala uno en cada planta, por ejemplo, o cada 40 m².
 - Certificaciones europeas: este detector de humo, certificado según las normas francesas, cumple todas las normas de seguridad europeas (EN14604).
+- Sensor fotoeléctrico: este detector cuenta con un sensor fotoeléctrico de alta sensibilidad (también conocido como sensor óptico) para avisarle con antelación y reducir las falsas alarmas.
 - Vida útil: el detector de humo funciona con una pila 6LR61, que debe sustituirse al cabo de 5 años. El sensor óptico queda obsoleto 10 años después de su activación y debe sustituirse. Utilice el botón de prueba para comprobarlo regularmente.
+- La seguridad ante todo: esté prevenido ante cualquier conato de incendio con este detector de humo Smartwares. Instala uno en cada planta, por ejemplo, o cada 40 m².
 - Alarmas: en caso de incendio, suena una sirena de 85 dB. El detector también le avisa cuando debe cambiar las pilas. El botón de prueba/silencio pone el detector en modo silencioso en caso de falsa alarma.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

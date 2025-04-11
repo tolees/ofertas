@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 22 awg - escudo espiral - conectores niquelados
 - Cable de instrumento - 15 pies - str / str
+- 22 awg - escudo espiral - conectores niquelados
 - Sonido puro sin pérdidas sin ruido ambiental
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

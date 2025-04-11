@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Set de 6 Vaso de vidrio Transparente 25 cl Kaleo de Bormioli Rocco
-- Completamente libre de cadmio o plomo
 - Se puede lavar en el lavavajillas
 - Para agua, zumos, refrescos, batidos e incluso para la presentación de postres
+- Completamente libre de cadmio o plomo
+- Set de 6 Vaso de vidrio Transparente 25 cl Kaleo de Bormioli Rocco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01AFRSO9Q{{</world>}}

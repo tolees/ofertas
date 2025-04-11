@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Acolchado adicional en el collar
 - Banda de rodadura de goma
+- Acolchado adicional en el collar
 - Sole con rockero de diseño exclusivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

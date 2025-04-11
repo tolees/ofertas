@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto adecuado para sus necesidades diarias
-- Fuente de alimentación: CA
-- Materia orgánica sobre Materia Seca: 58%; pH: 7; densidad aparente compactada en laboratorio: 0,33 Kg/l
 - Sustrato ideal para proporcionar las Condiciones de germinación óptimas para las semillas; contiene una exacta mezcla de perlita y vermiculita que proporcionan una ideal retención de agua y nutrientes
 - Materia Seca: 40%; conductividad Eléctrica CE: 25 mS/m; contenido en nutrientes: 1,1% Nitrógeno, 0,4% Fósforo, 0,8% Potasio
+- Materia orgánica sobre Materia Seca: 58%; pH: 7; densidad aparente compactada en laboratorio: 0,33 Kg/l
+- Fuente de alimentación: CA
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00KM2DQKW{{</world>}}

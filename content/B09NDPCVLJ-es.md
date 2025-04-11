@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Interlock 100% poliéster reciclado
+- Cintura elástica con cordón
 - Bolsillos en las costuras laterales
 - Tecnología transpirable AEROREADY
-- Cintura elástica con cordón
-- Interlock 100% poliéster reciclado
 - Corte clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

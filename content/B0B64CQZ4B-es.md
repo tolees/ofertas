@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PIQUÉ DE ROCA
 - COCHAS DE RAYAS
+- PIQUÉ DE ROCA
 - Polo de piqué con rayas de contraste en mangas y cuello.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

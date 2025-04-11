@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fabricado con lana merino 100% natural. Fibras naturales para crear productos cómodos, cálidos y con gran capacidad de regulación térmica. Producto Eco.
-- Dos capas de lana merino de 250 gr/m² cada una: protección, comodidad y calidez.
 - Actitud eco: descubre la gama más ecológica y sostenible de BUFF.
+- Dos capas de lana merino de 250 gr/m² cada una: protección, comodidad y calidez.
 - Dos capas de protección: 500 g/m².
 - Disfruta de la comodidad y el mejor estilo.
 

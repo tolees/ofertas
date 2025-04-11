@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punta redonda
 - Peso ligero
 - Confort
+- Punta redonda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGKFHLNY{{</world>}}

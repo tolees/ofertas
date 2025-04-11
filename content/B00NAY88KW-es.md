@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con espiral simple negra, para poder girar las páginas 360º
+- En formato 4º/fº
 - Tamaño de papel: 4º/155 x 215 mm
 - Papel Optik Paper: un papel exclusivo de Oxford único por su opacidad, lisura y satinado. La tinta no traspasa de un lado a otro ni se dispersa, resistente a la presión del lápiz y al borrado.
-- Acabado de papel: satin
+- Con espiral simple negra, para poder girar las páginas 360º
 - Tapa extradura, que le da resistencia para poder escribir sobre cualquier superfície
+- Acabado de papel: satin
 - 80 hojas con cuadrícula 4mm x 4mm con margen izquierdo
-- En formato 4º/fº
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00NAY88KW{{</world>}}

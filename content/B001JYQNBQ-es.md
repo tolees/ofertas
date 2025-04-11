@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tinta permanente resistente al agua y la luz
 - Punta con tecnología antisecado
 - Punta gruesa de 1-3mm
+- Tinta permanente resistente al agua y la luz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001JYQNBQ{{</world>}}

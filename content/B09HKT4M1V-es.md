@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica
-- Ajuste regular
 - Tejido transpirable
+- Ajuste regular
+- Cintura elástica
 - Puños acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

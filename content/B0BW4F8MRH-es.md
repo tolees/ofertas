@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro interior con bolsillo cerrado cremallera
-- Placas reflectantes de seguridad
 - Dimensiones: 30 x 38 x 12 cm
-- Cartera escolar con solapa y cierre de hebilla
+- Forro interior con bolsillo cerrado cremallera
 - Compartimento principal con separador
+- Placas reflectantes de seguridad
+- Cartera escolar con solapa y cierre de hebilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BW4F8MRH{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
 - Suela de goma
+- Forro textil
 - Cierre de velcro
 - Horma clásica
 

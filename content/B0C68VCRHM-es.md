@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apto para veganos
 - Modelo de suela rediseñado
+- Apto para veganos
 - Plantilla de EVA
 
 [🛒 Aquí!!!]({{< param buyurl >}})

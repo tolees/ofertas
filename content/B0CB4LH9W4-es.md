@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte regular
-- Traje de baño
-- Tiene detalles distintivos de la marca
 - Ofrece comodidad y libertad de movimiento
+- Corte regular
+- Tiene detalles distintivos de la marca
+- Traje de baño
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4LH9W4{{</world>}}

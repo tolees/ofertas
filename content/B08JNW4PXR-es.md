@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mascarilla capilar bear fruits para un tratamiento capilar de hasta 30 minutos
-- Ingredientes: Aqua, Cetearyl Alcohol, ButyrospermumParkii Butter, Stearamidopropyl Dimethylamine, Glycerin, Betaine, Citric Acid, BehentrimoniumChloride, Parfum, PalmitamidopropyltrimoniumChloride, Dicaprylyl Ether, Cetrimonium Chloride, Panthenol, Lauryl Alcohol, Propylene Glycol, Dipropylene Glycol, Sodium Benzoate, Guar HydroxypropyltrimoniumChloride, PEG-90M, Limonene, Linalool, Trisodium Ethylenediamine Disuccinate, Silica, Calcium Carbonate, Benzyl Benzoate, Ananas Sativus Fruit Extract, Sodium Chloride, SodiumSulfate, Tocopherol, CI 19140
-- Como una mascarilla facial pero para el pelo
 - El extracto de piña desintoxica y revitaliza el pelo
-- Tratamiento acondicionador intensivo
+- Como una mascarilla facial pero para el pelo
+- Ingredientes: Aqua, Cetearyl Alcohol, ButyrospermumParkii Butter, Stearamidopropyl Dimethylamine, Glycerin, Betaine, Citric Acid, BehentrimoniumChloride, Parfum, PalmitamidopropyltrimoniumChloride, Dicaprylyl Ether, Cetrimonium Chloride, Panthenol, Lauryl Alcohol, Propylene Glycol, Dipropylene Glycol, Sodium Benzoate, Guar HydroxypropyltrimoniumChloride, PEG-90M, Limonene, Linalool, Trisodium Ethylenediamine Disuccinate, Silica, Calcium Carbonate, Benzyl Benzoate, Ananas Sativus Fruit Extract, Sodium Chloride, SodiumSulfate, Tocopherol, CI 19140
 - Mascarillas capilares inspiradas en las rutinas de belleza coreanas
-- Aroma cítrico óptima y estimulante
 - Gorro de ducha ridículamente adorable
+- Tratamiento acondicionador intensivo
+- Mascarilla capilar bear fruits para un tratamiento capilar de hasta 30 minutos
+- Aroma cítrico óptima y estimulante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JNW4PXR{{</world>}}

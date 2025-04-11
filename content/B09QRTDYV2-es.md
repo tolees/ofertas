@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto con licencia oficial de Disney
 - Este producto se vendía como Spotted Zebra y ahora como Amazon Essentials.
 - Esta camisa estilosa y cómoda estará siempre a punto para las actividades del día a día y la diversión
 - Todo es posible con Spotted Zebra, ropa única para mezclar y combinar para niños y niñas cuya imaginación se vuelve loca.
 - Escote redondo sin etiquetas para mayor comodidad, porque nada debe interponerse en el camino del juego.
+- Producto con licencia oficial de Disney
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QRTDYV2{{</world>}}

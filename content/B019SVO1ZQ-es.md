@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MEZCLA Y DISFRUTA: Combina esta bebida con otras y crea cócteles deliciosos, sabrosos y más saludables. Déjate llevar por su primer sabor dulce, perfecto y con un toque exótico, ¡te encantará!
-- BEBIDA REFRESCANTE ECOLÓGICA: Nuestra bebida de arándanos bio está hecha con el azúcar propio de las frutas cultivadas orgánicamente y se ha endulzado con sirope de agave. Es el producto ideal para refrescarte en los calurosos días de verano.
 - MÚLTIPLES BENEFICIOS: El limón y los arándanos destacan por ser una rica fuente de vitamina C, flavonoides, ácido fólico y minerales. Como resultado, ayudan a prevenir el envejecimiento prematuro y a fortalecer el sistema inmunitario.
-- INGREDIENTES NATURALES: Elaboramos esta deliciosa bebida a base de agua con gas, sirope de agave, zumo de arándanos y limón a base de concentrado y aromas naturales. Este producto es 100% orgánico, libre de gluten y apto para veganos.
 - SOBRE NOSOTROS: En Whole Earth estamos especializados en la elaboración de bebidas y alimentos naturales. Somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
+- INGREDIENTES NATURALES: Elaboramos esta deliciosa bebida a base de agua con gas, sirope de agave, zumo de arándanos y limón a base de concentrado y aromas naturales. Este producto es 100% orgánico, libre de gluten y apto para veganos.
+- BEBIDA REFRESCANTE ECOLÓGICA: Nuestra bebida de arándanos bio está hecha con el azúcar propio de las frutas cultivadas orgánicamente y se ha endulzado con sirope de agave. Es el producto ideal para refrescarte en los calurosos días de verano.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B019SVO1ZQ{{</world>}}

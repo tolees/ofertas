@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Ojales reforzados
+- Horma clásica
 - Cierre de velcro
-- Suela de EVA de una sola pieza
 - Parte con paneles de malla
+- Suela de EVA de una sola pieza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HZF9P14{{</world>}}

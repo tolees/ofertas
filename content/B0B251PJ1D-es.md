@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para un acabado natural utiliza el truco del 3: dibuja con una brocha un 3 desde la frente hasta la mandíbula pasando por el pómulo y después difumina por todo el rostro; para Contouring: marca una línea bajo el pómulo y después dimufina
+- Green Edition: fórmulas de cuidado, fórmulas veganas con más de un 70% de ingredientes de origen natural y comprometido con el planeta gracias a sus envases con materiales reciclados
 - Su fórmula y tecnología ayudan a difuminar la piel y a minimizar la apariencia de los poros sin resecar la piel y aporta una sensación de comodidad
 - Polvos con cobertur alidacora para una piel difuminada y ligera
-- Green Edition: fórmulas de cuidado, fórmulas veganas con más de un 70% de ingredientes de origen natural y comprometido con el planeta gracias a sus envases con materiales reciclados
-- Para un acabado natural utiliza el truco del 3: dibuja con una brocha un 3 desde la frente hasta la mandíbula pasando por el pómulo y después difumina por todo el rostro; para Contouring: marca una línea bajo el pómulo y después dimufina
 - Fórmula vegana con manteca de semillas de Mango y Coco y tecnología ligera con almidón de maíz y magnesio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste: corte normal
 - Longitud/tamaño: normal
 - Tipo de producto: Snood
-- Ajuste: corte normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B1VRHFQ8{{</world>}}

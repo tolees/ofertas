@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Es unisex
 - Numero de modelo: 71659
 - Juego de baño cascada tropical ()
-- Es unisex
 - Desarrollo de actividades motoras centros de actividades bebés y primera infancia
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ajuste: Slim
-- Cierre: cierre de cremallera y botón
-- Vaqueros Pantalones Largos
-- Composición: 77 por ciento algodón - 21 por ciento poliéster - 2 por ciento elastano
 - Instrucciones de cuidado: apto para lavadora
+- Cierre: cierre de cremallera y botón
+- Composición: 77 por ciento algodón - 21 por ciento poliéster - 2 por ciento elastano
+- Vaqueros Pantalones Largos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5FNY2TD{{</world>}}

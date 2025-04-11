@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 【Totalmente portátil】 Mini secador de pelo plegable con doble voltaje, la opción perfecta para viajar a diferentes países. El mango es plegable reduciendo al máximo su tamaño, perfecto para maletas o baños con poco espacio.
 - 【Protección contra el sobrecalentamiento】Apagado automático cuando el termostato interno de temperatura indica una temperatura demasiado alta. Evita daños en el pelo
+- 【Especificaciones】: Medidas: largo 135 mm x ancho 74 mm x alto 225 mm. Largo del cable 1,75 m , voltaje 115/230 V y frecuencia 50/60 Hz
 - 【Gran potencia】Sus 1500 vatios de potencia con el motor de corriente continua de larga duración proporciona un caudal de aire de alta potencia para un secado rápido. Dispone de 2 velocidades y su temperatura óptima permiten crear el estilo que prefiera de forma rápida y eficaz.
 - 【Garantías de calidad】Si tiene alguna consulta sobre nuestros productos, siempre puede ponerse en contacto con nosotros y estaremos encantados de ayudarle.
-- 【Especificaciones】: Medidas: largo 135 mm x ancho 74 mm x alto 225 mm. Largo del cable 1,75 m , voltaje 115/230 V y frecuencia 50/60 Hz
-- 【Totalmente portátil】 Mini secador de pelo plegable con doble voltaje, la opción perfecta para viajar a diferentes países. El mango es plegable reduciendo al máximo su tamaño, perfecto para maletas o baños con poco espacio.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01GO7O3DC{{</world>}}

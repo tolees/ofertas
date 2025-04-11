@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Costuras totalmente selladas
 - Bolsillos con cremallera
+- Costuras totalmente selladas
 - Chaqueta versátil, impermeable y cortavientos
 - Dobladillo ajustable con cordón
 

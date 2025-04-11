@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 【Limpieza Profunda & Alta Potencia】Irrigador dental profesional cuenta con la alta potencia. Es suficiente para completar la limpieza bucal y las costuras dentales encima que está especialmente indicada para personas con implantes dentales,ortodoncia o brackets. Viene con 8 boquillas asi que puede usarlo con tu familiares.
-- 【Ocupa poco espacio】Es muy pequeño y fácil de transportar, así que lo puedes llevar al trabajo o de viaje y usarlo en cualquier momento.
 - 【300ml & Fácil de limpiar】300 ml de capacidad, boca más grande, facilita la limpieza de la suciedad y bacterias en el tanque. IPX7 a prueba de agua, se puede usar en el baño y llevar durante viaje.
+- 【Ocupa poco espacio】Es muy pequeño y fácil de transportar, así que lo puedes llevar al trabajo o de viaje y usarlo en cualquier momento.
+- 【Limpieza Profunda & Alta Potencia】Irrigador dental profesional cuenta con la alta potencia. Es suficiente para completar la limpieza bucal y las costuras dentales encima que está especialmente indicada para personas con implantes dentales,ortodoncia o brackets. Viene con 8 boquillas asi que puede usarlo con tu familiares.
 - 【3 presiones de agua ajustables Modo】Este irrigador bucal tiene 3 niveles de presión ajustables: Normal - alta presión para limpieza profunda, Suave - para limpieza suave de encías sensibles y para niños, Pulso - para masajear las encías. Fácil de usar y ahorra tu tiempo para ver dentista.
 - 【USB recargable】 Irrigador bucal con batería de litio, viene con un cable de carga USB, que se puede conectar a diferentes adaptadores con un cable de carga. Se tarda solo 4-5 horas en cargarse completamente.
 

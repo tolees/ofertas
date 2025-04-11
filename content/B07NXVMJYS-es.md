@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Skechers Logotipo en el lado exterior
-- Parte superior textil suave y transpirable
-- Skechers Dyna Air
 - Suela de goma duradera
+- Parte superior textil suave y transpirable
+- Skechers Logotipo en el lado exterior
+- Skechers Dyna Air
 - Forro de tela suave para zapatos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

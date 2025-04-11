@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro textil
-- Mediasuela Cloudfoam y plantilla de espuma con memoria
 - Cierre de cordones
+- Mediasuela Cloudfoam y plantilla de espuma con memoria
+- Forro textil
 - Parte textil
 - Horma clásica
 

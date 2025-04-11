@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- MÁXIMA CONECTIVIDAD: Función manos libres para contestar tus llamadas con total libertad. Además, puedes reproducir archivos MP3 desde tu tarjeta microSD, o desde una memoria USB con capacidad de hasta 64 GB
+- Unidades: 1.0
+- 36 MESES DE GARANTÍA: Disfruta del producto con una garantía especial de 36 meses. Y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo del tiempo
 - RGB LED LIGHTS: Un diseño único con distintas secuencias de luz LED RGB. Destacarás por tu música, la potencia del sonido y por el estilo urbano de tu altavoz portátil. Elige el color que más va contigo, y que nada pare tu ritmo
 - SPLASHPROOF: Altavoz bluetooth con un diseño de tela resistente a salpicaduras de líquidos. Batería con hasta 12 horas de autonomía. Vive la música al máximo sin preocuparte por nada más
-- Unidades: 1.0
-- MÁXIMA CONECTIVIDAD: Función manos libres para contestar tus llamadas con total libertad. Además, puedes reproducir archivos MP3 desde tu tarjeta microSD, o desde una memoria USB con capacidad de hasta 64 GB
-- 36 MESES DE GARANTÍA: Disfruta del producto con una garantía especial de 36 meses. Y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo del tiempo
 - BLUETOOTH 5.1 Y TWS: Altavoz Bluetooth 5.1 con tecnología True Wireless Stereo y reproductor MP3. la caliadad de sonido y la funcionalidad que buscas. Conecta dos altavoces y duplica los 16 W de potencia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

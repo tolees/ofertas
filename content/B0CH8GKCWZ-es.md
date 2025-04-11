@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
-- HAWKERS X TINI. Tini nos presenta sus gafas de sol CODE fabricadas en acetato de alta calidad. Una silueta total black de estilo cat eye exagerado que combina curvas acentuadas y angulosas para un look futurista show time.
-- Producto oficial Hawkers. Incluye: funda en microfibra y caja
-- Medidas: Ancho 56 mm, Puente 21 mm, Varillas 145 mm
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 5 barras para un mayor agarre y durabilidad.
+- Producto oficial Hawkers. Incluye: funda en microfibra y caja
+- HAWKERS X TINI. Tini nos presenta sus gafas de sol CODE fabricadas en acetato de alta calidad. Una silueta total black de estilo cat eye exagerado que combina curvas acentuadas y angulosas para un look futurista show time.
+- Medidas: Ancho 56 mm, Puente 21 mm, Varillas 145 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CH8GKCWZ{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 36 accesorios
 - Diseñado para embellecer los momentos del juego
+- 36 accesorios
 - Materiales de alta calidad
 - Tapa decorada
 

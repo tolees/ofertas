@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Percha
 - Sujetador de Triumph
 - Estándar
+- Percha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08DXXB8B9{{</world>}}

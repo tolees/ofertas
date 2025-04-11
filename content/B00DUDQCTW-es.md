@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 16 hojas
-- Modelo - 05006
 - A6
+- 16 hojas
 - facil de usar
+- Modelo - 05006
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DUDQCTW{{</world>}}

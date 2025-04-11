@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Por seguridad, la ropa de dormir debe ser resistente al fuego o ajustada, nuestra ropa de dormir de poliéster/forro polar es resistente al fuego y libre de tratamientos químicos
-- Bolsillos funcionales y cordones
 - Sin mangas
+- Por seguridad, la ropa de dormir debe ser resistente al fuego o ajustada, nuestra ropa de dormir de poliéster/forro polar es resistente al fuego y libre de tratamientos químicos
 - Conjunto de pijama de tres piezas a juego con dos camisetas de manga larga y pantalones con puños acanalados
 - Calidad de Carter, diarios y embalaje sin complicaciones
+- Bolsillos funcionales y cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0744PJFFT{{</world>}}

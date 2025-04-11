@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - IMPORTANTE, solo para cafeteras Oroley
-- Recambio de Filtro para Cafeteras de Aluminio
 - Para cafeteras de 6 tazas de café
+- Recambio de Filtro para Cafeteras de Aluminio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00KB8VATG{{</world>}}

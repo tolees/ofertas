@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se suministran sin vástago soporte
-- Profundidad de corte máxima 38 mm
 - Diámetro 63 mm; Pulgadas -; Soporte A2/A6/A7
 - Dientes corte HSS. Cuerpo de acero especial. Dentado variable. Corte a derecha
+- Se suministran sin vástago soporte
+- Profundidad de corte máxima 38 mm
 - Recomendada para acero no aleado (hasta 700N/mm2 de dureza), metales ligeros y no-férricos, plásticos, tableros ligeros y de fibra, contrachapados y madera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

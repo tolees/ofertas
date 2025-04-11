@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Tenga en cuenta que todos nuestros productos Smiffys siempre vienen en un empaque completo con la marca Smiffys
 - Nuestro equipo interno de seguridad asegura que todos nuestros productos son manufaturados y rigurosamente testados para cumplir con los estándares y regulamentos europeos y americanos de seguridad
+- Disponible en solo un tamaño
 - Incluye Peluca de sirena, blanca, larga, rizada con flequillo
 - Smiffys es un proveedor líder de disfraces y una empresa familiar con una herencia de 123 años en disfraces, pelucas, maquillaje y accesorios
-- Disponible en solo un tamaño
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00B9FRM3S{{</world>}}

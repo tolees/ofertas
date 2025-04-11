@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tallas XXS a XXL
-- Paquete de dos artículos
 - Logotipo "C" impreso en el pecho
+- Paquete de dos artículos
 - Tejido de algodón ligero (150 g)
+- Tallas XXS a XXL
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YPFCFRX{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de encaje para un ajuste ceñido
 - Logo PUMA Cat en la superposición del dedo del pie
 - PUMA Formstrip en los lados medial y latera
+- Cierre de encaje para un ajuste ceñido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DCM5T3Y{{</world>}}

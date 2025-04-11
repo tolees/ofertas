@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tonos oscuros
 - Cuello redondo
 - Sudadera de ajuste clásico
+- Tonos oscuros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKGXT24M{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fija el peinado
 - Fijación fuerte con brillo medio
-- Sin dañar el cabello
 - Para conseguir el look y definición deseado
+- Sin dañar el cabello
+- Fija el peinado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000R41QDY{{</world>}}

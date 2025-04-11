@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punta de 10 mm
-- De madera certificada PEFC
-- Pinta sobre diversas superficies: cartón, cristal, metal…
-- Lápiz multifunción 3 en 1: Lápiz de color, cera o acuarela
 - Gama de 18 colores
+- Punta de 10 mm
+- Lápiz multifunción 3 en 1: Lápiz de color, cera o acuarela
+- Pinta sobre diversas superficies: cartón, cristal, metal…
+- De madera certificada PEFC
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B005TQS2BY{{</world>}}

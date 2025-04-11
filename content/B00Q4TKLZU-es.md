@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La sábana bajera ajustable dispone de una goma en el contorno para ajustarse perfectamente al colchón.
-- Lavar en lavadora con colores similares (hasta 40 ⁰C).
-- Incluye 1 sábana bajera ajustable.
-- Fabricada en 100% microfibra de poliéster (85 g/m2).
 - Cama: Cama de 180, tamaño de la sábana: 180 x 200 x 30 cm
+- Fabricada en 100% microfibra de poliéster (85 g/m2).
 - Incluye 1 sábana bajera ajustable.
+- La sábana bajera ajustable dispone de una goma en el contorno para ajustarse perfectamente al colchón.
+- Incluye 1 sábana bajera ajustable.
+- Lavar en lavadora con colores similares (hasta 40 ⁰C).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00Q4TKLZU{{</world>}}

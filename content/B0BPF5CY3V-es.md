@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Forro textil
-- Parte textil
 - Drop: 9 mm (talón: 25 mm / antepié: 16 mm)
+- Forro textil
+- Horma clásica
 - Mediasuela Cloudfoam
+- Parte textil
 - Cierre de cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

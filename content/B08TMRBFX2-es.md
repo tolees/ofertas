@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Logotipo lateral S
-- SKECHERS Logo
 - Con cordones en la parte delantera
 - Cuello acolchado
+- SKECHERS Logo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08TMRBFX2{{</world>}}

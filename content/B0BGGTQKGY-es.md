@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela de EVA
 - Cierre de cordones
-- Forro textil
 - Horma clásica
+- Forro textil
 - Parte textil
+- Mediasuela de EVA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGGTQKGY{{</world>}}

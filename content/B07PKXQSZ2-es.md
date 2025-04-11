@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alto contenido en carbohidratos: el gel isotónico de SiS contiene 22 gr de carbohidratos por sobre, lo que supone un aporte rápido y fácil de absorber en el organismo para obtener energía durante el ejercicio
 - Aprobados para veganos: los geles energéticos son aptos para corredores o ciclistas veganos, los geles no contienen gluten y sus sabores son naturales, tienen sodio añadido, maltodextrina y 87 kcals por porción
 - Importante: Para ver la Fecha de Caducidad, por favor consultela impresa en el exterior del envase.
-- Geles energéticos SiS Science In Sport: incluye paquete de 15 geles energéticos isotónicos ideales como geles energéticos ciclismo o geles energéticos running, cada gel energético es de 60 ml y los geles tienen sabor a naranja
-- Pionera en nutrición deportiva: desde su creación en 1992, SiS Science In Sport es una empresa líder colaborando con institutos de investigación, atletas de élite, directores de rendimiento y científicos que avalan la marca para deportistas
 - Bajo en azúcar: los geles energéticos de ciclismo o running reponen la energía de forma rápida y eficaz durante las sesiones de entrenamiento intenso sin dejar sensación de hinchazón, ya que contienen menos de 1 gr de azúcar por sobre
+- Alto contenido en carbohidratos: el gel isotónico de SiS contiene 22 gr de carbohidratos por sobre, lo que supone un aporte rápido y fácil de absorber en el organismo para obtener energía durante el ejercicio
+- Pionera en nutrición deportiva: desde su creación en 1992, SiS Science In Sport es una empresa líder colaborando con institutos de investigación, atletas de élite, directores de rendimiento y científicos que avalan la marca para deportistas
+- Geles energéticos SiS Science In Sport: incluye paquete de 15 geles energéticos isotónicos ideales como geles energéticos ciclismo o geles energéticos running, cada gel energético es de 60 ml y los geles tienen sabor a naranja
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PKXQSZ2{{</world>}}

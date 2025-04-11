@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Por seguridad, la ropa de dormir debe ser resistente al fuego o ajustada, nuestra ropa de dormir de poliéster/forro polar es resistente al fuego y libre de tratamientos químicos
 - Sin mangas
+- Por seguridad, la ropa de dormir debe ser resistente al fuego o ajustada, nuestra ropa de dormir de poliéster/forro polar es resistente al fuego y libre de tratamientos químicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0797HP3VT{{</world>}}

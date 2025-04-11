@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los mecanismos universales Roca son totalmente compatibles con las cisternas Roca
+- Garantizando el óptimo funcionamiento del inodoro y proporcionando diferentes opciones de ahorro de agua
 - Número de pulsadores: 4 (cortos y largos, Ø27 y Ø40)
+- Mecanismo de descarga simple (6 litros interrumpible)
+- Los mecanismos universales Roca son totalmente compatibles con las cisternas Roca
 - Muy fáciles de instalar
 - ¡Atención! Antes de comprar el producto, comprueba la ficha de compatibilidad o visite el sitio del fabricante para verificar la compatibilidad
-- Garantizando el óptimo funcionamiento del inodoro y proporcionando diferentes opciones de ahorro de agua
-- Mecanismo de descarga simple (6 litros interrumpible)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00L2IE8ZC{{</world>}}

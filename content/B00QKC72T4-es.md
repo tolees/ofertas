@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho de material de malla transpirable y flexible
 - Cierre con correa de velcro
 - Protección con VPD
 - Cuando se expone al impacto, el material se endurece y tiene propiedades de absorción de impacto
+- Hecho de material de malla transpirable y flexible
 - Ofrece libertad de movimiento y protege las rodillas y piernas de los impactos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

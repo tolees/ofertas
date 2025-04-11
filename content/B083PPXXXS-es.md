@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CLT (tecnología de lente curva): visión periférica de 180° sin distorsión
-- Fogbuster ofrece un control adicional de la humedad para poder nadar sin estrés y ver con absoluta claridad
 - 3D Flexpoint permite que la montura se adapte a la cara gracias a su puente nasal flexible
+- Fogbuster ofrece un control adicional de la humedad para poder nadar sin estrés y ver con absoluta claridad
+- CLT (tecnología de lente curva): visión periférica de 180° sin distorsión
 - Protección frente a los rayos ultravioleta
 - Repele la luz azul para reducir el deslumbramiento y el reflejo del sol; ideal para entornos con mucha luminosidad y para la luz solardirecta
 

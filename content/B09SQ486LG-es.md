@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cartas colecionables
-- Banda sonora
 - Incluye:
+- Banda sonora
 - Una pegatina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

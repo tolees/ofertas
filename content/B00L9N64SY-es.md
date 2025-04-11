@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Guarda el perfume en un lugar fresco
 - Cuando apliques el perfume, no lo frotes
+- Guarda el perfume en un lugar fresco
 - Aplica perfume en aquellas zonas del cuerpo donde late el pulso: las muñecas, las clavículas, detrás de las orejas, o en la parte posterior del codo
 - No perfumar la ropa para evitar manchas irreparables en ésta
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cinco bolsillos
 - Jeans Kafey Ultra está diseñado en un ajuste delgado y ofrece una cintura ultra alta
 - Bolsillos traseros altos
-- Cinco bolsillos
 - La cintura ultra alta se ajusta a lo apretado para eliminar la brecha
 - Bragueta de cremallera
 

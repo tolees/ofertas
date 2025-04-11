@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- UNBOXING INCREÍBLE: Gira los cubos del cilindro y descubre tu personaje con su armario y todas sus sorpresas con acabados iridiscentes
-- MUÑECA FASHION: Bruny tiene 13 años y viste un conjunto de ropa de tela a la moda
 - JUGUETE REGALO: Perfecto para niños y niñas a partir de 5 años
-- BENEFICIOS DEL JUEGO: Podrán desarrollar de una forma divertida la imaginación, la compasión y la creatividad
 - DESCUBRE LA SERIE: ¡Sigue las aventuras de las amigas BFF de Bebés Llorones en nuestro canal de Kitoons, Youtube y Prime Video!
 - 6 A COLECCIONAR: Completa tu colección intercambiando tus muñecas y accesorios con tus amigos
+- UNBOXING INCREÍBLE: Gira los cubos del cilindro y descubre tu personaje con su armario y todas sus sorpresas con acabados iridiscentes
+- BENEFICIOS DEL JUEGO: Podrán desarrollar de una forma divertida la imaginación, la compasión y la creatividad
+- MUÑECA FASHION: Bruny tiene 13 años y viste un conjunto de ropa de tela a la moda
 - PELO LARGO Y SUAVE: El pelo de las muñecas mide 15cm y es muy suave al tacto y brillante ¡fácil de peinar!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

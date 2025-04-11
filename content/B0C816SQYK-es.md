@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Samsung
 - Fácil de usar
+- Marca: Samsung
 - Buen producto con excelente calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

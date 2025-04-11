@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Zapatillas de la marca Asics
 - Tejido transpirable
 - Estilo casual y deportivo
-- Zapatillas de la marca Asics
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN7DJFN7{{</world>}}

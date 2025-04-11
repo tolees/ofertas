@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste: corte normal
-- Longitud/tamaño: normal
 - Tipo de producto: Snood
+- Longitud/tamaño: normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1VTLXSD{{</world>}}

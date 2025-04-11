@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma y textura especiales
 - Golosinas para entre comidas
 - Ayuda a limpiar los dientes y los espacios interdentales
+- Forma y textura especiales
 - Calidad superior con ingredientes especialmente de alta calidad
 - Rico en vitaminas
 

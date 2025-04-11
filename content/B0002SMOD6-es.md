@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se adapta a todas las herramientas Dremel multiusos/rotativas u otras herramientas multiusos/rotativas con mandril de 3,2 mm
 - Para tronzar y cortar en metal, madera y plástico
 - El disco de corte reforzado con fibra de vidrio (426) y los discos para trabajos duros (420) demuestran su utilidad en las aplicaciones más duras
+- Se adapta a todas las herramientas Dremel multiusos/rotativas u otras herramientas multiusos/rotativas con mandril de 3,2 mm
 - El disco de corte facilita la tarea de cortar o ranurar pernos, tornillos, metales laminados, madera fina y plástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

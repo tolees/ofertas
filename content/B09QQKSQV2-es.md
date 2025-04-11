@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- bci cotton.
 - Corte oversize fit, manga larga, cuello de crew con logotipo varsity con impresión de papel y pigmento. bci cotton.
+- bci cotton.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QQKSQV2{{</world>}}

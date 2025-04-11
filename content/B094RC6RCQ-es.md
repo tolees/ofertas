@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suave tejido vaquero de punto
-- Cadera: Corte extra slim
 - Bolsillos practicos
 - Cintura regulable
+- Cadera: Corte extra slim
+- Suave tejido vaquero de punto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B094RC6RCQ{{</world>}}

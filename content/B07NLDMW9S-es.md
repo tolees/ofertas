@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Brand: Polaroid
+- Colour: KJ1/M9 DK RUTHENIUM
 - Model: Polaroid Pld 2074/s/x KJ1/M9 DK RUTHENIUM 60
 - Calibre: 60 Millimeters
-- Colour: KJ1/M9 DK RUTHENIUM
-- Brand: Polaroid
 - Protective Case Included
 
 [🛒 Comprar!!!]({{< param buyurl >}})

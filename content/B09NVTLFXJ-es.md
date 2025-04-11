@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Longitud 1/1
 - logotipo de adidas
 - Polainas deportivas
-- Longitud 1/1
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NVTLFXJ{{</world>}}

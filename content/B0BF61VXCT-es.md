@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Figurita
 - Colgante
-- Incluye:
 - Diario de los desarrolladores
+- Figurita
+- Incluye:
 - No incluye el juego, solo es un set de merchandising
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

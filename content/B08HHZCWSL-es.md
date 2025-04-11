@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Filamento PLA para impresora 3D. Adecuado para Bresser o muchas otras impresoras 3D que admiten filamentos de PLA, con 1,75 mm de diámetro.
-- Disponible en los colores: azul, verde, negro, rojo, blanco, neutro.
 - Peso: 1000 gramos.
+- Disponible en los colores: azul, verde, negro, rojo, blanco, neutro.
 - Longitud: 340 m. Diámetro: 1,75 mm.
+- Filamento PLA para impresora 3D. Adecuado para Bresser o muchas otras impresoras 3D que admiten filamentos de PLA, con 1,75 mm de diámetro.
 - Contenido del envío: 1 filamento PLA de 1 kg.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

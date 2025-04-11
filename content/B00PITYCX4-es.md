@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En esta hamaca de algodón pueden estar cómodamente hasta dos personas.
-- Con la bolsa de transporte y gracias al fácil montaje, el mundo es una zona para relajarse.
 - Tapas de goma le permiten montar con seguridad este soporte en el interior. Dijeron que no se podía hacer una hamaca INTERIOR
+- Con la bolsa de transporte y gracias al fácil montaje, el mundo es una zona para relajarse.
+- En esta hamaca de algodón pueden estar cómodamente hasta dos personas.
 - Gracias a la facilidad de colocación de gancho en la hamaca decides cómo alta o baja quieres estar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

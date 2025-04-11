@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CALIDAD: Acabao de calidad, robusto y duradero en acero inoxidable. Cuenta también con agarre de toque frío, pies anti deslizantes y de un cierre integrado en el aso para poder cerrar completamente el grill y almacenarlo de forma vertical.
-- SISTEMA STEP: Tapa basculante con sistema step de 6 posiciones. Permite ajustar la tapa a la altura deseada permitiendo así gratinar, fundir queso, calentar alimentos, etc sin tocarlos.
 - 2 EN 1: Grill y plancha de asar, tosta y sella todo tipo de bocadillos o cocina alimentos gracias a su apertura de 180º. Cada placa mide 29 x 23 cm. Permite cocinar sin aceite, tostar bocadillos o sellar sandwiches y wraps.
 - ANTIADHERENCIA: Placas grill con revestimiento antiadherente que permite una cocción limpia y rápida, evitando que se peguen los restos de alimentos y facilitando la limpieza de la placa, bastará con pasar un paño. Además, el grill también cuenta con una bandeja recoge grasas.
+- SISTEMA STEP: Tapa basculante con sistema step de 6 posiciones. Permite ajustar la tapa a la altura deseada permitiendo así gratinar, fundir queso, calentar alimentos, etc sin tocarlos.
 - ALTA POTENCIA: Máxima potencia de 2200W que permite un rápido calentamiento de la placa y una rápida cocción. Además cuenta con regulador de temperatura para ajustar en cada momento la potencia deseada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

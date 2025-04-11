@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dividir el cabello en 2 secciones y aplicar una presión por sección. Aplique más si es necesario. Desenredar para una distribución óptima. Dejar actuar. Secar con secador o al aire. *Test instrumental sobre la estructura macromolecular de la fibra tras la aplicación de champú + sérum con aclarado + mascarilla sin aclarado. **Test instrumental tras 15 aplicaciones de champú + sérum con aclarado + mascarilla sin aclarado. ***Test del consumidor tras 2 semanas de aplicación de champú + sérum con aclarado + mascarilla sin aclarado. ****Test instrumental.
-- Repara la estructura macromolecular del cabello***. La textura ligera de la fórmula penetra al instante y restaura la fuerza original del cabello**. El cabello queda 97% más fuerte**** suave, brillante, con un aspecto sano y protegido frente a las agresiones externas. Protección contra el calor hasta 230°C****.
 - Esta mascarilla sin aclarado patentada para pelo muy seco y dañado, formulada con un Reparador de enlaces + 5 Aminoácidos, repara 2 años de daños, en un solo uso*. El cabello queda más fuerte y con movimiento**.
+- Repara la estructura macromolecular del cabello***. La textura ligera de la fórmula penetra al instante y restaura la fuerza original del cabello**. El cabello queda 97% más fuerte**** suave, brillante, con un aspecto sano y protegido frente a las agresiones externas. Protección contra el calor hasta 230°C****.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBV9CX36{{</world>}}

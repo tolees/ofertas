@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Choisis ton personnage et personnalise son apparence
 - Prends soin de tes nombreux patients à travers différents mini-jeux !!
+- Choisis ton personnage et personnalise son apparence
 - Découvre la vie hospitalière en coopération
 
 [🛒 Comprar!!!]({{< param buyurl >}})

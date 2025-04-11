@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para cables con conductores finos, unitarios y múltiples de 0,2 a 6 mm² con aislamiento estándar
-- La configuración precisa permite el ajuste de la cuchilla a los requisitos especiales del material, p. ej., debido a grandes diferencias de temperatura
 - Herramienta compacta, práctica y ligera para secciones de cable comunes y materiales aislantes
+- La configuración precisa permite el ajuste de la cuchilla a los requisitos especiales del material, p. ej., debido a grandes diferencias de temperatura
+- Para cables con conductores finos, unitarios y múltiples de 0,2 a 6 mm² con aislamiento estándar
 - Forma de cabeza estrecha para usar en espacios reducidos
 - Pela los cables más habituales sin necesidad de realizar ajustes manuales
 

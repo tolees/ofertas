@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Procesador de alto rendimiento; disfruta de un juego fluido, vídeos de alta resolución y transferencias de archivos rápidas con el chipset MediaTek Dimensity 8020 y 8 GB de RAM LPDDR4X
+- Pantalla sin bordes + Dolby Atmos audio; da vida a tus películas, series y videollamadas en una pantalla de 6,55" con una frecuencia de actualización rápida de 144 Hz y un sonido multidimensional
+- Carga rápida TurboPower de 68 W; disfruta de autonomía para todo el día en menos de 10 minutos 2,3 de carga
 - 50 MP y f/1.4, la óptima apertura en un smartphone; captura fotos con cualquier luz y 32 veces más píxeles de enfoque4, OIS y la apertura más amplia disponible en un smartphone
 - Diseño de borde infinito y protección frente al agua; diseño y comodidad para ajustarse al contorno de tu mano y protección frente al agua IP68
-- Pantalla sin bordes + Dolby Atmos audio; da vida a tus películas, series y videollamadas en una pantalla de 6,55" con una frecuencia de actualización rápida de 144 Hz y un sonido multidimensional
-- Procesador de alto rendimiento; disfruta de un juego fluido, vídeos de alta resolución y transferencias de archivos rápidas con el chipset MediaTek Dimensity 8020 y 8 GB de RAM LPDDR4X
-- Carga rápida TurboPower de 68 W; disfruta de autonomía para todo el día en menos de 10 minutos 2,3 de carga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2QTMJF4{{</world>}}

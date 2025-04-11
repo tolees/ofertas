@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elija su vehículo en el selector para comprobar su compatibilidad con el producto.
 - VIGOR Pinza, conector de bujía
+- Elija su vehículo en el selector para comprobar su compatibilidad con el producto.
 - Esta pieza coincide con la pieza original en términos de rendimiento. La calidad de la pieza de recambio satisface plenamente los requisitos establecidos por los fabricantes de automóviles.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

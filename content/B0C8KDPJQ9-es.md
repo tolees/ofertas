@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Confort
 - Cintura elástica
 - Logotipo de la marca
-- Confort
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8KDPJQ9{{</world>}}

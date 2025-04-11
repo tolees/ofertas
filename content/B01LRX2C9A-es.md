@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Reproductor de MP3 - Soporta formatos de música MP3/WMA/WAV. Sólo tienes que conectar una tarjeta SD o una unidad USB para reproducir música utilizando el reproductor incorporado con muchas funciones. Además, la batería recargable de litio de 600mAh de 3,7V proporciona unas 8 horas de reproducción, por lo que es ideal para viajar.
-- Pantalla LCD - La pantalla iluminada de 12,8x6,4cm refleja toda la información común como la onda FM/DAB actual, la hora, la carga, la fecha, el tipo de programa, etc. La función de calendario, reloj y alarma también te servirá.
-- Radio DAB+ y FM: dispositivo todo en uno que le permite escuchar su música favorita en radio FM o digital. Antena externa para una mejor señal. Además, DAB es más robusto con respecto al ruido y al desvanecimiento multitrayectoria para la escucha móvil, por lo que podrá disfrutar de una mejor calidad de audio.
 - Reproduce desde cualquier lugar - La entrada AUX, la ranura para tarjetas micro-sd y también la ranura usb hacen que este altavoz sea realmente polivalente. No te quedarás sin sonido de calidad. En viaje de negocios, camping, senderismo, al aire libre, entrenamiento, etc.
+- Radio DAB+ y FM: dispositivo todo en uno que le permite escuchar su música favorita en radio FM o digital. Antena externa para una mejor señal. Además, DAB es más robusto con respecto al ruido y al desvanecimiento multitrayectoria para la escucha móvil, por lo que podrá disfrutar de una mejor calidad de audio.
+- Reproductor de MP3 - Soporta formatos de música MP3/WMA/WAV. Sólo tienes que conectar una tarjeta SD o una unidad USB para reproducir música utilizando el reproductor incorporado con muchas funciones. Además, la batería recargable de litio de 600mAh de 3,7V proporciona unas 8 horas de reproducción, por lo que es ideal para viajar.
 - Transferencia de música por Bluetooth: transmite tu propia música sin restricciones gracias al bluetooth v2.1. Libertad total de sonido y una conducción mucho más segura. Sólo tienes que conectar tu smartphone, tablet o portátil a la estación de sonido portátil y disfrutar de tu propia música.
+- Pantalla LCD - La pantalla iluminada de 12,8x6,4cm refleja toda la información común como la onda FM/DAB actual, la hora, la carga, la fecha, el tipo de programa, etc. La función de calendario, reloj y alarma también te servirá.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01LRX2C9A{{</world>}}

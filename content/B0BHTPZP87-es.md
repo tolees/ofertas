@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Sin mangas, sisas ribeteadas
 - Bajo recto
-- Estampado de G-Star RAW en la parte superior trasera
 - Cuello redondo, borde acanalado
+- Estampado de G-Star RAW en la parte superior trasera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BHTPZP87{{</world>}}

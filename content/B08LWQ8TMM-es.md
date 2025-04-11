@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Piel impecable mate durante todo el día, Cobertura media-alta sin efecto máscara, Resistente a roces, agua, calor o humedad
+- Fórmula no comedogénica, Apta para pieles todo tipo de pieles
 - Contenido: 1 x Polvos compactos mate de larga duración Infalible 24H LOréal Paris, Tono: 220 Sand, Cantidad: 50 g
 - Base de maquillaje en polvo para conseguir un acabado mate impecable resistente hasta 24H
-- Piel impecable mate durante todo el día, Cobertura media-alta sin efecto máscara, Resistente a roces, agua, calor o humedad
 - Aplicar con la esponja en seco como si fuese una base o con la esponja mojada para una cobertura aún mayor
-- Fórmula no comedogénica, Apta para pieles todo tipo de pieles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LWQ8TMM{{</world>}}

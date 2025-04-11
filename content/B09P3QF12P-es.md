@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- tejido elástico
 - Amplia libertad de movimiento.
+- tejido elástico
 - Soporte ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

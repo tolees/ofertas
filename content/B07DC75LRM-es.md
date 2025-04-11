@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles de las PUMA California originales
-- Marca PUMA en talón
 - Parte superior con perforaciones
+- Marca PUMA en talón
+- Detalles de las PUMA California originales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DC75LRM{{</world>}}

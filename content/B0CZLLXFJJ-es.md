@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para ser consumido con moderación como parte de una dieta variada y equilibrada y un estilo de vida saludable
-- Sin taurina, Sin sabores artificiales, Sin conservantes
-- Baja en calorías
 - Bebida energética a base de una potente mezcla de cafeína y vitaminas B, con un sabor natural a Lima-Limón; la vitamina B1 (Tiamina) contribuye al metabolismo energético normal; la vitamina B3 (Niacina) y la vitamina B6 contribuyen a la reducción del cansancio y la fatiga
 - Lata 25 cl
+- Sin taurina, Sin sabores artificiales, Sin conservantes
+- Para ser consumido con moderación como parte de una dieta variada y equilibrada y un estilo de vida saludable
+- Baja en calorías
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZLLXFJJ{{</world>}}

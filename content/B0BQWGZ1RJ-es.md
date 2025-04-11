@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte entallado
-- Rendimiento y estilo
 - Escote redondo
 - AEROREADY
+- Rendimiento y estilo
+- Corte entallado
 - Punto 88% poliéster reciclado / 12% elastán
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

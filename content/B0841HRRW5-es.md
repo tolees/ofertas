@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica
-- Bolsillos laterales
 - Cordón de ajuste
+- Bolsillos laterales
+- Cintura elástica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0841HRRW5{{</world>}}

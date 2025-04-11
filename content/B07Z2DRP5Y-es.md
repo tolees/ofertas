@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierta capacidad térmica
 - Rápido secado
 - Transpirable
+- Cierta capacidad térmica
 - Ligero y confortable
 - Tejido bi-élástico maximiza confort y libertad de movimiento
 

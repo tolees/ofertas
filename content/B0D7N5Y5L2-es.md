@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - NUTRITIVA: rica en calcio, vitamina D y proteína, no contiene azúcares añadidos
-- COMBINA COMO QUIERAS: Para tomarla con café, cereales, en una bechamel o sin nada. Para desayunar, merendar o cenar
 - MODO DE EMPLEO: Agítese antes de abrir. Una vez abierto conservar el envase cerrado en nevera y consumir antes de 3 días. Mantener en lugar fresco y seco.
 - MIMIK NO ES LECHE BEBIDA VEGETAL: inspirada en el sabor y en la textura de la leche tradicional, pero elaborada con soja y avena 100% cultivo local, sin sacrificar el sabor ni la comodidad.
+- COMBINA COMO QUIERAS: Para tomarla con café, cereales, en una bechamel o sin nada. Para desayunar, merendar o cenar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D7N5Y5L2{{</world>}}

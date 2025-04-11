@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Agente frigorífico: R 134 a
-- ID compresor: KC88
 - Restricción de fabricante: VALEO
 - Contenido [ml]: 120
-- Artículo complementario / información complementaria 2: con aceite de compresor PAG
 - poleas - Ø [mm]: 110
+- Artículo complementario / información complementaria 2: con aceite de compresor PAG
+- ID compresor: KC88
+- Agente frigorífico: R 134 a
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0068MBWFG{{</world>}}

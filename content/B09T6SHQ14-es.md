@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% poliéster (reciclado)
-- Corte entallado
-- Bolsillos frontales de ojal
 - Cierre de cremallera y cuello alzado
+- Corte entallado
+- 100% poliéster (reciclado)
+- Bolsillos frontales de ojal
 - Tecnología transpirable AEROREADY
 
 [🛒 Comprar!!!]({{< param buyurl >}})

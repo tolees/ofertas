@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Size: 56 Millimetres
 - Colour: 807/WJ BLACK
 - Model: Carrera 267/s
-- Protective case Included
 - GAFAS SOL CARRERA 267/S PARA HOMBRE POLARIZADO TALLA 56/18/150
+- Size: 56 Millimetres
+- Protective case Included
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09D3DBZ7B{{</world>}}

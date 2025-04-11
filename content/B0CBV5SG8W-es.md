@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: cuero
-- 9 pulgadas de largo x 8.5 pulgadas de alto x 1.75 pulgadas de profundidad
 - Cierre: cremallera
+- 9 pulgadas de largo x 8.5 pulgadas de alto x 1.75 pulgadas de profundidad
+- Material exterior: cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CBV5SG8W{{</world>}}

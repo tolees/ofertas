@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3+
-- Plataforma: PlayStation 4
 - Edición del juego: básica
+- 3+
 - PS4
+- Plataforma: PlayStation 4
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B092JHCFCK{{</world>}}

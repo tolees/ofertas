@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de la marca Real Madrid
-- Scent name: Citrus
 - De óptima calidad
+- Scent name: Citrus
+- Producto de la marca Real Madrid
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XWJ2M7Q{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Set de 3 libretas A4, con encuadernación en espiral
 - Incluye una hoja de pegatinas
+- Set de 3 libretas A4, con encuadernación en espiral
 - Con tapa dura y 80 hojas de papel de 80 gr.
 - Cada una de ellas lleva un mensaje en inglés en su portada
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cura a un acabado similar a la bisque.
-- Fácil de usar.
-- No se seca. Permanece suave hasta que se hornea.
 - Perfecto para figuras, proyectos escolares, decoración del hogar y artís de temporada.
+- Cura a un acabado similar a la bisque.
+- No se seca. Permanece suave hasta que se hornea.
+- Fácil de usar.
 - Se puede lijar, tallar y perforar después de hornear. Paletas de colores de artista para u mezcla precisa de colores. Pigmentos puros para colores densamente saturados. Mantiene detalles finos, mantiene líneas nítidas y no sangra
 
 [🛒 Aquí!!!]({{< param buyurl >}})

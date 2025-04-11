@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones del producto 31,5 x 23,8 x 22,8 cm
-- Freidora compacta que cuenta con una capacidad para 1 litro de aceite y de 600 gr de alimentos, de esta forma utilizas el aceite necesario
-- Fácil limpieza: la tapa y el cesto para freír puede ir al lavavajillas para una limpieza más profunda y cómoda
-- Cuba interior de revestimiento antiadherente para resultados óptimos y eficaces
 - Potencia de 1000W regulable a través de termostato con indicador de temperatura, desde 150ºC hasta 190ºC
-- Tapa con ventana y filtro metálico incluido no requiere de substitución, puedes utilizar la tapa mientras fríes
 - Estructura de acero inoxidable y asas de transporte termoplásticas de fácil manejo y almacenamiento
+- Freidora compacta que cuenta con una capacidad para 1 litro de aceite y de 600 gr de alimentos, de esta forma utilizas el aceite necesario
+- Tapa con ventana y filtro metálico incluido no requiere de substitución, puedes utilizar la tapa mientras fríes
+- Dimensiones del producto 31,5 x 23,8 x 22,8 cm
+- Cuba interior de revestimiento antiadherente para resultados óptimos y eficaces
+- Fácil limpieza: la tapa y el cesto para freír puede ir al lavavajillas para una limpieza más profunda y cómoda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B016DMWV50{{</world>}}

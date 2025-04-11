@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- PRENDA DYE GYMDIGO
 - Ajuste relajado con cintura elástica. Bolsillos de carga en el lateral. Logotipo fino bordado en los bolsillos traseros con refuerzos en el interior.
 - Fabricado con al menos 70% algodón sostenible
-- PRENDA DYE GYMDIGO
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B648KWYD{{</world>}}

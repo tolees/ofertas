@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento de 512 GB SSD, ampliables hasta 1TB
+- Memoria RAM de 16 GB (2x 8 GB SO-DI mm DDR4-3200)
+- Procesador AMD Ryzen 5 5600H
 - Pantalla de 15,6 pulgadas, FullHD, 1920 x 1080 píxeles, IPS, 250 nits, Anti-glare, 120 Hz, 45 por ciento NTSC, DC di mmer
 - Sin sistema operativo
-- Procesador AMD Ryzen 5 5600H
 - Tarjeta gráfica NVIDIA GeForce RTX 3060 6 GB GDDR6, Boost Clock 12821485MH, TGP 90W
-- Memoria RAM de 16 GB (2x 8 GB SO-DI mm DDR4-3200)
+- Almacenamiento de 512 GB SSD, ampliables hasta 1TB
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BG2KTF8K{{</world>}}

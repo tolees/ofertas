@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Interlock 100% poliéster reciclado
-- Tecnología transpirable AEROREADY
 - Corte clásico
 - Cintura elástica con cordón
+- Tecnología transpirable AEROREADY
+- Interlock 100% poliéster reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NDPVCBF{{</world>}}

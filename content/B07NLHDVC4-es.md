@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla: Ortholite para mayor y amortiguación y transpirabilidad
 - Suela/Características: Caucho para un buen agarre
-- Color: azul
 - Empeine: Piel vacuna / Tejido técnico
+- Color: azul
+- Plantilla: Ortholite para mayor y amortiguación y transpirabilidad
 - Sistema de cierre de Velcro para un fácil ajuste
 
 [🛒 Comprar!!!]({{< param buyurl >}})

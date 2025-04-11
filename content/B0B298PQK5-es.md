@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuero: charol
 - Material interior: piel de grano completo de cabra
 - Forma del talón: plano
-- Material exterior: sintético
-- Cuero: charol
 - Ancho del zapato: Medium
+- Material exterior: sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B298PQK5{{</world>}}

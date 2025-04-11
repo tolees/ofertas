@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material: metal
-- Con 2 brazos giratorios
 - Fijación oculta
 - Longitud de 449 mm
+- Material: metal
+- Con 2 brazos giratorios
 - Starlight acabado cromado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2,0 mm de diámetro
 - Longitud: 15 m
+- 2,0 mm de diámetro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09B1WPQX9{{</world>}}

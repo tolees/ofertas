@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- JerseY De manga larga caída
-- Contiene lana
 - Con cuello redondo
 - Con franjas color block Con detalles de lurex
+- Contiene lana
+- JerseY De manga larga caída
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C23M4R3W{{</world>}}

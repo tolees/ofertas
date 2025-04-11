@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuello redondo
 - Manga corta
 - Bajo recto
-- Cuello redondo
 - Estampado gráfico en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

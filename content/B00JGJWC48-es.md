@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseño óptico: prisma de techo, prismas hechos de vidrio BaK-4, multi-recubrimiento completo
-- Estos prismáticos a prueba de agua incluyen una correa flotante por lo que son los compañeros ideales para los amantes del agua
-- Volumen de suministro: prismáticos, estuche, correa flotante, manual
 - Dimensiones del prismático: 150x1310x55 mm, Peso: 710 g
+- Volumen de suministro: prismáticos, estuche, correa flotante, manual
+- Estos prismáticos a prueba de agua incluyen una correa flotante por lo que son los compañeros ideales para los amantes del agua
 - Campo de visión: 101 m, rosca de trípode, rueda de enfoque de fácil uso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

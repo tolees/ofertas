@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuenta con frases motivacionales en su interior.
 - Libreta Mr.Wonderful - Mister
 - Con 252 páginas.
 - Planificador semanal con portada en acabado textil y encuadernación cosida con apertura de 180º.
-- Cuenta con frases motivacionales en su interior.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BVM9RJJD{{</world>}}

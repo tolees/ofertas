@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- También tiene enzimas digestivas y minerales como cromo, magnesio, hierro y zinc
 - Un buen probiótico y tiene beneficios en el funcionamiento de nuestra microbiota intestinal
+- Reduce los niveles de glucosa, aumentando el colesterol bueno, disminuyendo el colesterol malo
 - Intervenir y contribuir a la formación de glóbulos rojos
 - Principalmente debe tenerse en cuenta que la levadura de cerveza tiene un alto contenido de vitaminas B
-- También tiene enzimas digestivas y minerales como cromo, magnesio, hierro y zinc
-- Reduce los niveles de glucosa, aumentando el colesterol bueno, disminuyendo el colesterol malo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DN9CA1W{{</world>}}

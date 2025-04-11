@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Parte superior de ante
-- Forro textil
-- Mediasuela con amortiguación
 - Cierre de cordones
+- Mediasuela con amortiguación
+- Forro textil
+- Parte superior de ante
+- Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C53WMTK1{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material resistente
-- Dragon ball
-- Licencia oficial
 - Estilo chibi
+- Licencia oficial
+- Dragon ball
 - Hucha
+- Material resistente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01FYPDE5I{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material interior: sintético
-- Material exterior: ante
-- Forma del tacón: plano
 - Grado de resistencia al agua: no impermeable
 - Talla del zapato: Medium
+- Forma del tacón: plano
+- Material exterior: ante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B005BC71KE{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de calidad
 - Tejido ligero
 - Ofrece comodidad y libertad de movimiento
 - La siguiente información se aplica a cada unidad del paquete
+- Material de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPFB8H6Z{{</world>}}

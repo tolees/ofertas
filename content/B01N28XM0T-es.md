@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Certificado según la norma EN-1303.
-- 6 pitones antibumping cargados a muelle.
-- Se sirve con 5 llaves de latón niquelado.
 - Solución básica adecuada para accesos comunes y de vivienda.
+- Certificado según la norma EN-1303.
 - Durabilidad (Grado 6): 100.000 ciclos del cilindro.
+- 6 pitones antibumping cargados a muelle.
 - Protecciones anti-taladro, anti-bump y anti-ganzúa.
+- Se sirve con 5 llaves de latón niquelado.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N28XM0T{{</world>}}

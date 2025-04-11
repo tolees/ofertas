@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mid waist
 - Ajuste normal
+- Mid waist
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098K5XT6V{{</world>}}

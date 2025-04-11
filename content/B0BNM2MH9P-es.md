@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - corte normal
-- Cintura elástica con cordón
 - pantalones cortos deportivos
+- Cintura elástica con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BNM2MH9P{{</world>}}

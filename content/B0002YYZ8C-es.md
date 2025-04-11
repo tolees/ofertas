@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Metal
-- Diseño moderno
-- Envergadura 1,5 13 mm
 - Impact
+- Envergadura 1,5 13 mm
+- Diseño moderno
+- Metal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0002YYZ8C{{</world>}}

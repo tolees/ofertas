@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mediasuela Cloudfoam
-- Parte de malla
-- Cierre de cordones
 - Horma clásica
 - Forro textil
+- Cierre de cordones
+- Mediasuela Cloudfoam
+- Parte de malla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2QP8WQM{{</world>}}

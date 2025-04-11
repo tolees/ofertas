@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5 bolígrafos de punta extra fina (0,3) en rosa, azul, naranja, violeta, verde lima
 - Ideal para invitaciones de eventos, decoraciones para fiestas de cumpleaños, o para añadir un mensaje "escrito a mano" a cualquier proyecto
-- Añade un toque especial a proyectos escritos o dibujados con una precisión increíblemente delicada
 - Para todas las máquinas de la familia Cricut Maker y Cricut Explore (Cricut Explore One requiere el adaptador de accesorios, se vende por separado)
+- 5 bolígrafos de punta extra fina (0,3) en rosa, azul, naranja, violeta, verde lima
+- Añade un toque especial a proyectos escritos o dibujados con una precisión increíblemente delicada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08KHR61GN{{</world>}}

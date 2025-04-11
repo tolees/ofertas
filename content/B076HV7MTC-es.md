@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Muy fácil de desmoldar, gracias a su diseño
 - Incluye 2 rodillos; rodillo para enrejados: sirve para dar a la masa un acabado en forma de rejilla; rodillo liso: sirve para cortar la masa encima del cortador
 - Prepara 19 aperitivos o pastelitos dulces de una sola vez
-- Muy fácil de desmoldar, gracias a su diseño
 - Funciona con distintos tipos de masa (hojaldre, masa brisa, masa para pizza, masa para empanadas)
 - 2 formas: redondos y hexágonos
 

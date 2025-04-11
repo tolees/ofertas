@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Parte superior: ante
 - Material interior: 70 % tela textil, poliéster, 30 % poliuretano sintético
 - Cierre: 100% IPEVA
-- Parte superior: ante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B28ZZK74{{</world>}}

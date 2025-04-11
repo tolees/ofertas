@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Placa antirocas
 - Parte superior de malla técnica
+- Placa antirocas
 - Espuma FF BLAST PLUS
 
 [🛒 Aquí!!!]({{< param buyurl >}})

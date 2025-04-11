@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cierre de cordones
 - Parte textil con varias capas
-- Forro textil
-- Suela para césped natural seco
 - Horma clásica
+- Suela para césped natural seco
+- Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3WHW26X{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fácil de usar
-- Punta 0.4 mm de fibra con refuerzo de metal
 - Gama de 40 colores
+- Punta 0.4 mm de fibra con refuerzo de metal
 - Calidad alemana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

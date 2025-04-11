@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AEROREADY
-- Comodidad y estilo deportivo
-- Corte holgado
-- Cuello redondo
 - Punto 70% poliéster reciclado / 30% algodón
+- Cuello redondo
+- AEROREADY
+- Corte holgado
+- Comodidad y estilo deportivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BP7JS91K{{</world>}}

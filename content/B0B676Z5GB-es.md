@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido Jersey
 - Tirantes ajustables
 - Banda elástica en el pecho
+- Tejido Jersey
 - Logotipo Hotel KARL en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

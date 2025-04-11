@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DEWALT, solidez garantizada: Desde hace más de 90 años, DEWALT diseña, fabrica y comercializa máquinas especialmente robustas, duraderas y potentes para profesionales y expertos en bricolaje: calidad, potencia, solidez y fiabilidad se encuentran en cada una de ellas
-- ROBUSTO: Juego de cinceles adecuados para trabajos pesados de cincelado, acanalado y demolición en hormigón/barras de refuerzo y piedra.
-- PRÁCTICO: Para cincelado intensivo, ranurado y demolición en hormigón / armadura y piedra
 - COMPATIBILIDAD: Cinceles compatibles con interfaces SDS-PLUS
+- ROBUSTO: Juego de cinceles adecuados para trabajos pesados de cincelado, acanalado y demolición en hormigón/barras de refuerzo y piedra.
+- DEWALT, solidez garantizada: Desde hace más de 90 años, DEWALT diseña, fabrica y comercializa máquinas especialmente robustas, duraderas y potentes para profesionales y expertos en bricolaje: calidad, potencia, solidez y fiabilidad se encuentran en cada una de ellas
+- PRÁCTICO: Para cincelado intensivo, ranurado y demolición en hormigón / armadura y piedra
 - COMPOSICIÓN: 3 cinceles de 25 cm, 2 planos y 1 puntiagudo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

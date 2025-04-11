@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 🌿 Transforma tu cabello con la magia vegana: La Mascarilla/Acondicionador/Crema de Peinado AMIDO de SKALA, enriquecida con Almidón de Maíz, ofrece una triple acción para fortalecer, dar brillo y reconstruir la fibra capilar. Ideal para quienes buscan cuidado y respeto por la naturaleza en su rutina de belleza
-- 🌱 Fortalecimiento desde la raíz hasta las puntas: Experimenta la reconstrucción de la fibra capilar con cada uso. Nuestra fórmula especial trabaja para revertir los daños y prevenir futuras roturas, dejando tu cabello fuerte, saludable y lleno de vida
-- 🐇 Compromiso con el bienestar animal: Elige un producto 100% vegano y amigo de los animales. La fórmula de AMIDO de SKALA no solo cuida tu cabello, sino que también asegura que ningún ser vivo fue afectado en su creación. Belleza consciente para el consumidor moderno
 - 🌀 Define y estiliza sin esfuerzo: Aplica nuestra crema de peinado sobre el cabello húmedo para conseguir definición y control sin sensación de pesadez. Ideal para todo tipo de cabello, este producto te permite peinar tus rizos o alisar tu melena manteniendo el cabello hidratado y brillante
+- 🐇 Compromiso con el bienestar animal: Elige un producto 100% vegano y amigo de los animales. La fórmula de AMIDO de SKALA no solo cuida tu cabello, sino que también asegura que ningún ser vivo fue afectado en su creación. Belleza consciente para el consumidor moderno
+- 🌱 Fortalecimiento desde la raíz hasta las puntas: Experimenta la reconstrucción de la fibra capilar con cada uso. Nuestra fórmula especial trabaja para revertir los daños y prevenir futuras roturas, dejando tu cabello fuerte, saludable y lleno de vida
 - 💧 Hidratación profunda y versatilidad en tu rutina capilar: Utiliza este producto como acondicionador para desenredar y suavizar, como mascarilla para una nutrición intensiva, o como crema de peinado para definir y proteger. Perfecto para mantener tu cabello manejable y radiante todos los días
 
 [🛒 Aquí!!!]({{< param buyurl >}})

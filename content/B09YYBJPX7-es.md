@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido suave
 - Bordes acanalados
 - Cuello de punto liso
+- Tejido suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09YYBJPX7{{</world>}}

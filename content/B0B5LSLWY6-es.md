@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Over 70 machines, vehicles, trucks, attachments
 - Challenge yourself with over 90 contracts
-- Each of the two maps comes with its own campaign
-- Two huge maps based on the USA and Germany
+- Over 70 machines, vehicles, trucks, attachments
 - Online multiplayer with up to four players
+- Two huge maps based on the USA and Germany
+- Each of the two maps comes with its own campaign
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5LSLWY6{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cushioned comfort insole
-- Skech-Air visible airbag midsole
-- Skechers logo detail
 - Lightweight sporty design with a mesh and synthetic upper
+- Cushioned comfort insole
+- Skechers logo detail
+- Skech-Air visible airbag midsole
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1SHW56V{{</world>}}

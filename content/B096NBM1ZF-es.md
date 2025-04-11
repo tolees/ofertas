@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño acolchado
-- Forro textil
 - Cierre de cordones
+- Forro textil
 - Horma clásica
+- Diseño acolchado
 - Parte superior de piel sintética
 - Plantilla de EVA
 

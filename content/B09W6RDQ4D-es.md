@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- No resistente al agua
 - Forma del talón: plano
 - Cierre: cordones
-- No resistente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09W6RDQ4D{{</world>}}

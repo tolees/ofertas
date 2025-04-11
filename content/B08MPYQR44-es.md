@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DENIM STRETCH
 - Ajuste regular
+- DENIM STRETCH
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08MPYQR44{{</world>}}

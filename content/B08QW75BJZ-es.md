@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
 - Piping de contraste en collar y mangas.
-- Ajuste regular
 - 2 paquetes de polos
+- Ajuste regular
 - Algodón suave y cómodo.
+- 100% algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QW75BJZ{{</world>}}

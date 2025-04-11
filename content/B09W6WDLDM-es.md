@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - FILA Logotipo embroidery en el panel lateral
-- Material exterior: Sintético
 - Cierre: cordones
+- Material exterior: Sintético
 - Revestimiento: Sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

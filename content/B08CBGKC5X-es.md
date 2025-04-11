@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro de tela
 - Cierre de cordones
+- Forro de tela
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CBGKC5X{{</world>}}

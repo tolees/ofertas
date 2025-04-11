@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cestillo con asa: temporizador de 60 min; con desconexión automática
 - Potencía: 1.300 w
+- Fríe con una cucharada de aceite de forma más saludable y sin olores
 - Cajón para freír antiadherente con una capacidad de 2,6l, cómodo y fácil de extraer
 - Temperatura variable hasta 200 c
-- Cestillo con asa: temporizador de 60 min; con desconexión automática
-- Fríe con una cucharada de aceite de forma más saludable y sin olores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07Q7LJX9X{{</world>}}

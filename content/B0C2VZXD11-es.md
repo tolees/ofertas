@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatillas casual para hombre
 - AZUL
+- Zapatillas casual para hombre
 - 73,48% PU 26,52% TEXTILE
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

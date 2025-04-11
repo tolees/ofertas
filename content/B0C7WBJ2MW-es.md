@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: Sin cordones
 - Tipo de tacón: Plano
 - Material de la suela: EVA
+- Cierre: Sin cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7WBJ2MW{{</world>}}

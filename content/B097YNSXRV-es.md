@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contra la infección en evolución: sobrevive a feroces encuentros con monstruos generados por el virus; la luz del sol los mantiene a raya dejando solo a otros supervivientes con los que debes tener cuidado, pero las noches pertenecen a los infectados
-- Únete a otros supervivientes en cooperativo: juega toda la campaña en modo cooperativo de hasta 4 jugadores; únete a las partidas de otras personas para ver cómo sus decisiones se han desarrollado y cómo han dado forma a un mundo diferente al tuyo
-- Conviértete en el óptimo nightrunner: muévete por el enorme mundo abierto con libertad usando parkour y domina el brutal combate en primera persona a medida que te conviertes en un Nightrunner de gran poder, influencia y respeto
 - Decide el destino de la ciudad: toma decisiones difíciles y enfrenta sus consecuencias mientras decides el destino de la humanidad al borde de la extinción; en cada paso del camino, tus acciones darán forma al mundo que te rodea a una gran escala
+- Conviértete en el óptimo nightrunner: muévete por el enorme mundo abierto con libertad usando parkour y domina el brutal combate en primera persona a medida que te conviertes en un Nightrunner de gran poder, influencia y respeto
+- Únete a otros supervivientes en cooperativo: juega toda la campaña en modo cooperativo de hasta 4 jugadores; únete a las partidas de otras personas para ver cómo sus decisiones se han desarrollado y cómo han dado forma a un mundo diferente al tuyo
+- Contra la infección en evolución: sobrevive a feroces encuentros con monstruos generados por el virus; la luz del sol los mantiene a raya dejando solo a otros supervivientes con los que debes tener cuidado, pero las noches pertenecen a los infectados
 - Aventura en una moderna edad oscura: adéntrate en una ciudad en decadencia, donde la humanidad ha vuelto a una edad oscura y las facciones luchan por poder y recursos; el nuevo orden mundial es violento y primordial, al igual que los supervivientes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

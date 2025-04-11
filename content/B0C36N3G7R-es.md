@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pantalones cortos de natación de playa bien confeccionados con hilo reciclado.
+- Tejido sencillo para un aspecto limpio
 - Con poliéster reciclado
 - Cintura elástica con cordón de ajuste
-- Tejido sencillo para un aspecto limpio
 - Bañador con cordón, secado rápido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

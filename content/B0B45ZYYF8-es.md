@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto original Mr. Wonderful.
 - No usar lejía. No planchar.
-- Monedero realizado en rPET, material 100% reciclable, obtenido a partir del reciclaje de botellas de plástico.
-- No lavar (las manchas pueden limpiarse frotando suavemente con un paño húmedo).
 - not_water_resistant
+- Monedero realizado en rPET, material 100% reciclable, obtenido a partir del reciclaje de botellas de plástico.
+- Producto original Mr. Wonderful.
+- No lavar (las manchas pueden limpiarse frotando suavemente con un paño húmedo).
 - Incluye un pin metálico.
 - Tipo de correa: De hombro
 

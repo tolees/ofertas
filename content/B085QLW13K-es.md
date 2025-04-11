@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CALIDAD Y SATISFACCIÓN GARANTIZADA – Desde Laboratorios Fersa Ibérica garantizamos la máxima calidad en nuestros productos, todos con certificación GMP, ISO 9001 e ISO 9002.
-- NUTRE Y FORTALECE TU CUERO CABELLUDO Y UÑAS – Cuida y nutre tu cuero cabelludo devolviéndole su luminosidad y volumen. además, fortalece tus uñas, nutriéndolas e impidiendo que se rompan.
 - ARTICULACIONES Y MÚSCULOS SANOS – Super Colágeno ofrece una acción analgésica y antiinflamatoria en articulaciones y músculos eliminando roces y contracturas evitando desgastes y dolores.
-- LUCE UNA PIEL SANA – Hidrata, reafirma y tonifica la piel devolviéndole su firmeza, elasticidad y luminosidad. además, protege la piel frente a elementos externos gracias a su acción antioxidante.
 - POTENTE Y EXLUSIVA DOSIS DE COLÁGENO - Super Colágeno aporta 3.8 gramos de colágeno marino hidrolizado peptan además de Bambú, Magnesio, Calcio, Vitamina c y Vitamina d3.
+- LUCE UNA PIEL SANA – Hidrata, reafirma y tonifica la piel devolviéndole su firmeza, elasticidad y luminosidad. además, protege la piel frente a elementos externos gracias a su acción antioxidante.
+- NUTRE Y FORTALECE TU CUERO CABELLUDO Y UÑAS – Cuida y nutre tu cuero cabelludo devolviéndole su luminosidad y volumen. además, fortalece tus uñas, nutriéndolas e impidiendo que se rompan.
+- CALIDAD Y SATISFACCIÓN GARANTIZADA – Desde Laboratorios Fersa Ibérica garantizamos la máxima calidad en nuestros productos, todos con certificación GMP, ISO 9001 e ISO 9002.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B085QLW13K{{</world>}}

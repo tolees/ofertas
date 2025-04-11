@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Logotipo de contraste centrado en el pecho
 - Ajuste regular
 - Fabricado con 100% algodón sostenible
-- Logotipo de contraste centrado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS57WMT4{{</world>}}

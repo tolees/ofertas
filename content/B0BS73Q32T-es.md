@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Forro de algodón orgánico
-- Lazo para tirar
 - Paneles laterales elásticos
+- Lazo para tirar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS73Q32T{{</world>}}

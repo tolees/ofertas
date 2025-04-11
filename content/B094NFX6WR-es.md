@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bragueta con botones
 - Super Skinny con Low Rise
+- Bragueta con botones
 - Con detalles clásicos de cinco bolsillos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con 1/4 cremallera
 - Diseño de ajuste regular
+- Con 1/4 cremallera
 - Detalles distintivos de la marca
 - Con rayas a lo largo de las mangas
 

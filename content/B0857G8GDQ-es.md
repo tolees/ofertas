@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
-- AROMA DE MUJER: Titto Bluni Assoluto Donna es un perfume femenino, simple y natural, que invita a perfumarte y a convertir la monotonía en seducción. Marca tu estilo más personal. Viene un frasco vaporizador de 150 mililitros.
 - FEMENINO Y PURO: Un agua de colonia sencilla y bien definida, con aromas cítricos y frutales es la fragancia perfecta para una mujer serena, madura, con carácter y segura de sí misma.
-- PIRÁMIDE OLFATIVA: Notas de salida: naranja amarga, melocotón y cereza; Notas de corazón: rosa, jazmín y notas marinas; Notas de fondo: vainilla, sándalo y praliné.
 - TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia oriental floral, que rinde homenaje a las mujeres que comparten sus sueños en el mundo frenético que estamos. ¡Apuesta por el buen gusto y la elegancia!
+- AROMA DE MUJER: Titto Bluni Assoluto Donna es un perfume femenino, simple y natural, que invita a perfumarte y a convertir la monotonía en seducción. Marca tu estilo más personal. Viene un frasco vaporizador de 150 mililitros.
+- ESENCIA DURADERA: Es una fragancia cuya esencia es persistente en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una vez y te durará todo el día!
+- PIRÁMIDE OLFATIVA: Notas de salida: naranja amarga, melocotón y cereza; Notas de corazón: rosa, jazmín y notas marinas; Notas de fondo: vainilla, sándalo y praliné.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0857G8GDQ{{</world>}}

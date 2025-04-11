@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Botadores para pasadores, longitud 150 mm, 3 - 4 - 5 - 6 - 7 - 8 mm
 - Hecho de acero al cromo vanadio
 - Endurecido, eje pintado
-- Botadores para pasadores, longitud 150 mm, 3 - 4 - 5 - 6 - 7 - 8 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B001IL8FZM{{</world>}}

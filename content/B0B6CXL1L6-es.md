@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Cinturón con hebilla deslizante
 - Manga larga
 - Cierre de botones a presión oculto
-- Bolsillos con solapa y cierre a presión en el pecho y en la cintura
 - Cuello plano, trabilla en el interior
+- Bolsillos con solapa y cierre a presión en el pecho y en la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6CXL1L6{{</world>}}

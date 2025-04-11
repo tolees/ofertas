@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Refrigeración activada por la transpiración Omni-Freeze Zero
 - Tejido Omni-Wick
+- Refrigeración activada por la transpiración Omni-Freeze Zero
 - Protección solar Omni-Shade UPF 30
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuidados del estuche: no lavar (las manchas pueden eliminarse frotando suavemente con un paño húmedo).
-- La funda con goma elástica está realizada en PU y cuenta con un mensaje en inglés.
 - Set de boli + funda portabolígrafo rosa con elástico, ideal para engancharlo a una libreta de tamaño A5.
 - El boli está realizado en metal, cuenta con un mensaje en inglés y su tinta es de color azul. Cuenta con puntero táctil para pantallas táctiles, como móviles o tablets.
+- Cuidados del estuche: no lavar (las manchas pueden eliminarse frotando suavemente con un paño húmedo).
+- La funda con goma elástica está realizada en PU y cuenta con un mensaje en inglés.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3CCDBND{{</world>}}

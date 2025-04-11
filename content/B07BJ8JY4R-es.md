@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DETALLES: Cintura de punto de canalé sin cierre, con cordón ajustable, prácticos bolsillos delanteros oblicuos y puños altos de canalé en la parte inferior para ceñir la pierna.
-- JOGGER CLÁSICO: Este pantalón de chándal se convertirá en tu básico diario, tanto para hacer recados, como para ir al gimnasio o vaguear en casa.
-- ACOGEDOR FORRO POLAR CEPILLADO: Suave y cómodo forro polar de mezcla de algodón de gramaje medio con interior cepillado.
 - TIRO DEL PANTALÓN: La talla S mide 21,6 cm.
+- JOGGER CLÁSICO: Este pantalón de chándal se convertirá en tu básico diario, tanto para hacer recados, como para ir al gimnasio o vaguear en casa.
 - INFORMACIÓN ADICIONAL: Los colores seleccionados tendrán un cordón del mismo color o un cordón blanco
+- DETALLES: Cintura de punto de canalé sin cierre, con cordón ajustable, prácticos bolsillos delanteros oblicuos y puños altos de canalé en la parte inferior para ceñir la pierna.
+- ACOGEDOR FORRO POLAR CEPILLADO: Suave y cómodo forro polar de mezcla de algodón de gramaje medio con interior cepillado.
 - AJUSTE NORMAL: Ajuste ceñido pero cómodo en muslo y cadera. Talle medio, queda por debajo de la cintura natural.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

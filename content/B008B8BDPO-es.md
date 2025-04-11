@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compartimento especial para destornilladores
-- Marca: Facom
 - Empuñadura de cuero
+- Compartimento especial para destornilladores
 - Tejido muy resistente 1200 x 1200 denieres
+- Marca: Facom
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008B8BDPO{{</world>}}

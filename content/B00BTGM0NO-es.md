@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Smiffys es un proveedor líder de disfraces y una empresa familiar con una herencia de 123 años en disfraces, pelucas, maquillaje y accesorios
-- Busto 40-42" / cintura 32-34" / cadera 425-445" / entrepiernas 33"
-- Incluye Disfraz hippy arco iris, vestido y cinta para la cabeza
 - Tenga en cuenta que todos nuestros productos Smiffys siempre vienen en un empaque completo con la marca Smiffys
+- Busto 40-42" / cintura 32-34" / cadera 425-445" / entrepiernas 33"
+- Smiffys es un proveedor líder de disfraces y una empresa familiar con una herencia de 123 años en disfraces, pelucas, maquillaje y accesorios
+- Incluye Disfraz hippy arco iris, vestido y cinta para la cabeza
 - Nuestro equipo interno de seguridad asegura que todos nuestros productos son manufaturados y rigurosamente testados para cumplir con los estándares y regulamentos europeos y americanos de seguridad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

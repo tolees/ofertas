@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Levis logo at chest
 - We partner with the Better Cotton Initiative to improve cotton farming globally
 - Two pack
-- Levis logo at chest
 - Soft jersey, short-sleeve tee
 
 [🛒 Visítala!!!]({{< param buyurl >}})

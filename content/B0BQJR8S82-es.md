@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cordón
 - Lona
 - Casual
-- Cordón
 - Plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La cintura ajustable con cordón
-- Corte
 - Tela Suave
+- Corte
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQJP9L9L{{</world>}}

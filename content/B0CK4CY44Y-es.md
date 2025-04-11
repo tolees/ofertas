@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De poliamida
 - 17 cm de alto x 11 cm de ancho x 2 cm de profundidad
 - Bolsa de teléfono
-- O bolsillo para teléfono móvil
 - Repelente al agua
+- O bolsillo para teléfono móvil
+- De poliamida
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CK4CY44Y{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tarjeta gráfica Integrada AMD Radeon Vega 8 Graphics
 - Memoria RAM 4GB Soldered DDR4-2400 + 4GB SO-DIMM DDR4-2400
 - Sistema operativo Windows 10 pro 64
-- Procesador AMD Ryzen 5 3500U (4C / 8T, 2.1 / 3.7GHz, 2MB L2 / 4MB L3)
 - Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
 - 15.6" FullHD (1920x1080) TN 220nits Anti-glare
+- Procesador AMD Ryzen 5 3500U (4C / 8T, 2.1 / 3.7GHz, 2MB L2 / 4MB L3)
+- Tarjeta gráfica Integrada AMD Radeon Vega 8 Graphics
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FZTGRXQ{{</world>}}

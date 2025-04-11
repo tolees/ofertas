@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Molde para horno
-- Tres hileras y cuatro filas
-- Para cocinar dulce y salado
 - Prepara hasta 12 piezas
+- Para cocinar dulce y salado
+- Tres hileras y cuatro filas
+- Molde para horno
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00B17BNRK{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Matt black polycarbonate temples
-- Matt black polycarbonate front
 - Gray lenses
+- Matt black polycarbonate front
 - Round sunglasses
+- Matt black polycarbonate temples
 - Triacetate polarized lenses
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

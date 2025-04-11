@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Muestra notificaciones de SMS, correos electrónicos, eventos del calendario y actividad en las redes sociales
-- Monitor de actividad deportiva con modo multideporte: caminar, correr, bicicleta, natación.
 - Pantalla IPS totalmente táctil de 1,4 pulgadas + un botón de retorno en el lateral para facilitar la navegación
 - Impermeable con certificado IP68 a prueba de agua y polvo
-- Sensor de temperatura corporal, saturación de oxígeno en sangre y frecuencia cardíaca. Control de horas de sueño.
 - Reloj inteligente totalmente compatible con iOS y Android. Utiliza la aplicación DENVER SMART HOME - compatible con Tuya
+- Muestra notificaciones de SMS, correos electrónicos, eventos del calendario y actividad en las redes sociales
+- Monitor de actividad deportiva con modo multideporte: caminar, correr, bicicleta, natación.
+- Sensor de temperatura corporal, saturación de oxígeno en sangre y frecuencia cardíaca. Control de horas de sueño.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YRZKRZC{{</world>}}

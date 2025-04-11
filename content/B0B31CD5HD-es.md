@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye a Pikachu, Squirtle, Bulbasaur, Charmander, Oddish, Froakie, Yamper, Gible, Growlithe y Cinderace
 - Increible set de Regalo con 10 figuras
-- Producto distribuido en España por Bizak. Servicio atención al cliente disponible todo el año
 - Coleccionalos todos
+- Producto distribuido en España por Bizak. Servicio atención al cliente disponible todo el año
+- Incluye a Pikachu, Squirtle, Bulbasaur, Charmander, Oddish, Froakie, Yamper, Gible, Growlithe y Cinderace
 - Incluye 9 figuras de 5cm y una figura Heroe totalmente articulada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

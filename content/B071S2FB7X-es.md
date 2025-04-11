@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - [Alarma SIN cuotas] - Las alarmas Chuango no tienen cuotas mensuales ni permanencias.
-- [Ampliable según tus necesidades] - G5 Plus permite mejorar tu sistema añadiendo nuevos sensores, sirenas o dectores de forma sencilla. El sistema permite hasta 10 mandos a distancia, 50 sensores y 50 tarjetas RFID
-- [Para toda la familia] - Los más pequeños pueden utilizar las tarjetas RDIF para activar y desactivar el sistema. Recibirás una alerta en la app cada vez que esto ocurra.
 - Frecuencias de funcionamiento: 850/900/1800/1900MHz
+- [Ampliable según tus necesidades] - G5 Plus permite mejorar tu sistema añadiendo nuevos sensores, sirenas o dectores de forma sencilla. El sistema permite hasta 10 mandos a distancia, 50 sensores y 50 tarjetas RFID
 - [Fácil de configurar] - Descarga la APP desde la App Store o Google Play Store y podrás controlar el sistema de forma remota.
+- [Para toda la familia] - Los más pequeños pueden utilizar las tarjetas RDIF para activar y desactivar el sistema. Recibirás una alerta en la app cada vez que esto ocurra.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B071S2FB7X{{</world>}}

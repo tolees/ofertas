@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla: EVA con marca ROXY
 - Parte superior: parte superior sintética con malla brillante
+- Plantilla: EVA con marca ROXY
 - Suela exterior: Rubberlon con diseño ROXY
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

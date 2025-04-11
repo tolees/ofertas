@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cientos de películas en la aplicación BRAVIA CORE, accede a la biblioteca de Sony Pictures Entertainment, con los últimos éxitos de taquilla y clásicos; disfruta de la mayor colección disponible de películas IMAX Enhanced y accede a las escenas de los estudios entre bastidores
-- Es óptimo para PS5, reconoce la consola y cambia automáticamente a modo de baja latencia en HDMI 2.1; el menú gaming optimiza el rendimiento de tus juegos; con Reducción del Desenfoque de Movimiento, Ecualizador de Negros, Crosshair y Pantalla Personalizada, y 4K/120 fps para disfrutar de la acción
-- Puedes ahorrar hasta un 32% más de energía con nuestro televisor; el Eco Dashboard pone todos tus ajustes ecológicos en un lugar intuitivo y fácil de usar, para que puedas ahorrar energía sin complicaciones
-- Nuestra tecnología Acoustic Multi Audio+ crea un sonido que parece provenir directamente del lugar donde está sucediendo en la pantalla; lleva tu configuración al siguiente nivel con la función Acoustic Center Sync y una barra de sonido Sony compatible
 - El procesador cognitivo XR entiende cómo ven y oyen los seres humanos en la vida real; así, se recrean escenas realistas en tu salón; este Mini LED y su tecnología XR Motion Clarity aumentan el realismo de todas las escenas, sin crear destellos o halos alrededor de las luces
+- Puedes ahorrar hasta un 32% más de energía con nuestro televisor; el Eco Dashboard pone todos tus ajustes ecológicos en un lugar intuitivo y fácil de usar, para que puedas ahorrar energía sin complicaciones
+- Cientos de películas en la aplicación BRAVIA CORE, accede a la biblioteca de Sony Pictures Entertainment, con los últimos éxitos de taquilla y clásicos; disfruta de la mayor colección disponible de películas IMAX Enhanced y accede a las escenas de los estudios entre bastidores
+- Nuestra tecnología Acoustic Multi Audio+ crea un sonido que parece provenir directamente del lugar donde está sucediendo en la pantalla; lleva tu configuración al siguiente nivel con la función Acoustic Center Sync y una barra de sonido Sony compatible
+- Es óptimo para PS5, reconoce la consola y cambia automáticamente a modo de baja latencia en HDMI 2.1; el menú gaming optimiza el rendimiento de tus juegos; con Reducción del Desenfoque de Movimiento, Ecualizador de Negros, Crosshair y Pantalla Personalizada, y 4K/120 fps para disfrutar de la acción
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BYPH684H{{</world>}}

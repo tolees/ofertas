@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Borde microfino en los puños
-- Detalle de banda interior del cuello
 - Polo ajustado
+- Detalle de banda interior del cuello
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKGY7PCM{{</world>}}

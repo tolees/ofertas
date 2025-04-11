@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disponible en una gran variedad de colores a la moda
-- Contenido: 1x Columbia Polo para hombre, Sun Ridge II, Color: Icy Morn, Talla: S, Art. No.: 1932011
-- Ajuste y comodidad óptimos gracias al material elástico de confort en 4 direcciones, Bolsillos de seguridad y para las manos con cremallera
 - Ideal para llevar a diario
 - Elegante polo para hombre, Un básico imprescindible para el verano
+- Ajuste y comodidad óptimos gracias al material elástico de confort en 4 direcciones, Bolsillos de seguridad y para las manos con cremallera
+- Disponible en una gran variedad de colores a la moda
+- Contenido: 1x Columbia Polo para hombre, Sun Ridge II, Color: Icy Morn, Talla: S, Art. No.: 1932011
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B099P1GVQ5{{</world>}}

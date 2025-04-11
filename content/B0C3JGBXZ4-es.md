@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre autoadherente
 - Suela y mediasuela de EVA
 - Forro textil
+- Cierre autoadherente
 - Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo deportivo y casual
 - Prenda de vestir
+- Estilo deportivo y casual
 - Para uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})

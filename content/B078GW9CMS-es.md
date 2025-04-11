@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caja rígida de embalaje
-- 100% Protección UV
-- Gafas de sol con cristales polarizados y ultraflexibles
 - Marco duradero y flexible
+- Gafas de sol con cristales polarizados y ultraflexibles
+- Caja rígida de embalaje
 - Cressi es una empresa familiar, que desde 1946 produce productos de alta calidad
+- 100% Protección UV
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B078GW9CMS{{</world>}}

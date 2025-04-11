@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
-- Bajo recto
 - Cuello redondo
 - Estampado gráfico en el pecho
+- Manga corta
+- Bajo recto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHTPCLJT{{</world>}}

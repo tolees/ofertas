@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Iron Man Figura
 - Special Edition pegatina en la caja
-- 25 x 25 x 25 milímetros
 - Funko Pop Exclusive Special Edition
+- Iron Man Figura
+- 25 x 25 x 25 milímetros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KQ964LH{{</world>}}

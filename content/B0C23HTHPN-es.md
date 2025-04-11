@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La camisa tiene un acabado lavado, para un look casual Y relajado
 - Camisa de manga larga
+- La camisa tiene un acabado lavado, para un look casual Y relajado
 - Regular fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})

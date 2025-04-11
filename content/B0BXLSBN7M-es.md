@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Guía tu globo aerostático a través de seis tierras fascinantes y colecciona sellos para tu Pasaporte.
-- El sol es el mejor tiempo para volar... ¡pero cuidado con el viento y las nubes!
 - Tira un dado para ver a dónde te moverás.
-- Embárcate en este maravilloso viaje a los cielos encantados de los mundos Disney.
 - Para ganar, primero hay que reunir cuatro sellos en cuatro Tierras diferentes.
+- El sol es el mejor tiempo para volar... ¡pero cuidado con el viento y las nubes!
+- Guía tu globo aerostático a través de seis tierras fascinantes y colecciona sellos para tu Pasaporte.
+- Embárcate en este maravilloso viaje a los cielos encantados de los mundos Disney.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BXLSBN7M{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Óptimo para llevar a diario
-- Disponible en una gran variedad de colores a la moda
 - Elegante polo para hombre, Un básico imprescindible para el verano
+- Disponible en una gran variedad de colores a la moda
 - Contenido: 1 x Columbia Sun Ridge II Polo para hombre, Tejido: 71% Tencel Lyocell, 29% Poliéster, Color: Negro, Talla: M, Art.No. 1932011
+- Óptimo para llevar a diario
 - Ajuste y comodidad óptimos gracias al material elástico de confort en 4 direcciones, Bolsillos de seguridad y para las manos con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

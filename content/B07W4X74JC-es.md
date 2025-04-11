@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Peso 409 g
-- Potencia de 2200W
-- Tecnología iónica: Neutraliza la electricidad estática
-- Flujo de aire 91 km/h
 - Tres ajustes de temperatura + Botón de aire frío
+- Flujo de aire 91 km/h
+- Tecnología iónica: Neutraliza la electricidad estática
+- Potencia de 2200W
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W4X74JC{{</world>}}

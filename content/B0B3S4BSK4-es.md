@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Larga vida útil de hasta 15000 horas y hasta 100000 ciclos de conmutación
 - Sustitución sencilla de lámparas incandescentes estándar, recambio genuino de una bombilla de 40 W (sólo en aplicaciones exteriores en luminarias adecuadas)
-- Luz completa inmediata, sin tiempo de calentamiento
 - Luz blanca cálida para el confort y la relajación en salones, dormitorios y habitaciones infantiles
 - Consumo de energía 6 kWh/1000h a 470 lm
+- Larga vida útil de hasta 15000 horas y hasta 100000 ciclos de conmutación
+- Luz completa inmediata, sin tiempo de calentamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3S4BSK4{{</world>}}

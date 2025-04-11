@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aroma y sabor: café con sabor equilibrado y cuerpo. Aroma intenso de un espresso italiano decidido
 - Mezcla de granos de café. La selección se realiza directamente en los países de origen, envasados en una atmósfera protectiva
-- Cada espresso contiene toda la experiencia de Pellini hecha de historia, tradición y experiencia en la creación de mezclas de calidad superior
 - Café arábica natural y lavado, café Robusta natural. Nivel de tostado: Medio
+- Aroma y sabor: café con sabor equilibrado y cuerpo. Aroma intenso de un espresso italiano decidido
+- Cada espresso contiene toda la experiencia de Pellini hecha de historia, tradición y experiencia en la creación de mezclas de calidad superior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5MSRN1K{{</world>}}

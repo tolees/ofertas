@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo lateral de malla
-- Dimensiones: 25 cm x 50 cm x 25 cm
-- Compartimento transpirable para el calzado
 - Capacidad: 24,75 l
+- Dimensiones: 25 cm x 50 cm x 25 cm
 - Tejido técnico 100% poliéster reciclado
+- Compartimento transpirable para el calzado
+- Bolsillo lateral de malla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B45T71GN{{</world>}}

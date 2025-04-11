@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Producto oficial Hawkers
-- Modelo para hombre y mujer: Unisex
 - Montura en acetato de celulosa super black Mazzucchelli de calidad que aporta una adecuada resistencia y durabilidad; almohadillas de acetato para una sujeción mucho más cómoda
+- Modelo para hombre y mujer: Unisex
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07STLRN3J{{</world>}}

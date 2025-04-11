@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reduce el humo negro de los tubos de escape y las emisiones nocivas en una hora: Reduce las emisiones y ahorra combustible.
 - STP Anti-Humos Diésel se ha diseñado especialmente para reducir el humo del tubo de escape al limpiar el sistema de combustible y los inyectores, de forma que se mantiene el sistema limpio.
-- Esta combinación concentrada de detergente y agentes de dispersión mantiene la eficacia y tiene unos reducidos costes operativos para los motores diésel.
-- STP Anti-Humos Diésel es apto para todos los motores diésel, incluidos los de inyección directa e inversa y conducto común, así como los catalizadores.
 - Instrucciones de uso: Añádalo al depósito de combustible cada 2000 km.
+- Reduce el humo negro de los tubos de escape y las emisiones nocivas en una hora: Reduce las emisiones y ahorra combustible.
+- STP Anti-Humos Diésel es apto para todos los motores diésel, incluidos los de inyección directa e inversa y conducto común, así como los catalizadores.
+- Esta combinación concentrada de detergente y agentes de dispersión mantiene la eficacia y tiene unos reducidos costes operativos para los motores diésel.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IA1MWJS{{</world>}}

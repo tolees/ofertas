@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chrome Free Interior
 - Sandalia plana de cuero para mujer
 - Suela de caucho con reciclado EVA
+- Chrome Free Interior
 - Horma Confort
 
 [🛒 Visítala!!!]({{< param buyurl >}})

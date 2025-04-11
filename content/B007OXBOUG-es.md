@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ruedas giratorias 31mm, 4 unidades
 - Rueda para muebles, cajoneras, armarios, camas. Con ellas estara seguro.
+- Ruedas giratorias 31mm, 4 unidades
 - Rueda giratoria. No marca las superficies.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

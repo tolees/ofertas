@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La mejor forma de disfrutar de The Busker es realmente la forma que a ti te guste: Solo, con hielo o mezclado. The Busker es facil de mezclar, muy refrescante con una combinación perfecta de sabores que se adaptan a cada ocasión.
-- Es un whisky de hermoso color amarillo dorado con un cuerpo rico e inconfundible. La nariz suele comenzar con notas de frutas tropicales y vainilla. El viaje continúa con notas de malta, dulzura y chocolate amargo, mientras que notas más sutiles de toffee fudge y canela agregan intensidad. El whisky concluye con un final suave, bien equilibrado y dulce.
 - La destilería Royal Oak es una destilería de clase mundial que produce whisky irlandés artesanal, ubicada en una finca del siglo XVIII en la región del ancestral Este de Irlanda. Esta destilería es el hogar del whisky irlandés The Busker, donde destilamos los tres estilos de whisky irlandés (alambique, malta y grano) bajo un mismo techo.
-- The Busker Triple Cask Triple Smooth es un extraordinario Blend elaborado con un Single Grain de alta calidad y un altísimo porcentaje de Single Malt y Single Pot Still.
 - The Busker es un whisky irlandés "nuevo en el mundo" que nace en una Irlanda moderna, donde lo contemporáneo y lo audaz se encuentran en la encrucijada de la tradición. Si bien The Busker honra su herencia irlandesa, lo alienta a ir más allá de las limitaciones y líneas de lo conocido y escribir una nueva historia.
+- Es un whisky de hermoso color amarillo dorado con un cuerpo rico e inconfundible. La nariz suele comenzar con notas de frutas tropicales y vainilla. El viaje continúa con notas de malta, dulzura y chocolate amargo, mientras que notas más sutiles de toffee fudge y canela agregan intensidad. El whisky concluye con un final suave, bien equilibrado y dulce.
+- La mejor forma de disfrutar de The Busker es realmente la forma que a ti te guste: Solo, con hielo o mezclado. The Busker es facil de mezclar, muy refrescante con una combinación perfecta de sabores que se adaptan a cada ocasión.
+- The Busker Triple Cask Triple Smooth es un extraordinario Blend elaborado con un Single Grain de alta calidad y un altísimo porcentaje de Single Malt y Single Pot Still.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08Z4CSSK4{{</world>}}

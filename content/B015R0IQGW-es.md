@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Perfecto para rigs de cámara compactos y vlogging, el VideoMicro es ligero y resistente, con un peso de solo 42 g (1,5 oz)
+- Mejora instantáneamente la calidad de audio de tus videos con una cápsula de condensador cardioide de calidad de transmisión y un soporte resistente
+- La salida TRS de 3.5 mm es adecuada para casi todas las cámaras y interfaces de audio, utilizando alimentación por conexión, por lo que no se requieren baterías.
+- El micrófono para cámara más vendido del mundo: mejora tu calidad de audio hoy mismo, no aceptes imitaciones
+- Garantía de dos años respaldada por la red de servicio internacional de RØDE
 - El VideoMicro es direccional, reduciendo los sonidos periféricos distractores y enfocándose en el audio frente a la cámara.
 - También se incluye el protector de viento sintético WS9 con interior de espuma, diseñado para su uso en escenarios al aire libre donde el viento y el ruido ambiental pueden afectar las grabaciones
-- Garantía de dos años respaldada por la red de servicio internacional de RØDE
-- Mejora instantáneamente la calidad de audio de tus videos con una cápsula de condensador cardioide de calidad de transmisión y un soporte resistente
-- El micrófono para cámara más vendido del mundo: mejora tu calidad de audio hoy mismo, no aceptes imitaciones
-- La salida TRS de 3.5 mm es adecuada para casi todas las cámaras y interfaces de audio, utilizando alimentación por conexión, por lo que no se requieren baterías.
-- Perfecto para rigs de cámara compactos y vlogging, el VideoMicro es ligero y resistente, con un peso de solo 42 g (1,5 oz)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B015R0IQGW{{</world>}}

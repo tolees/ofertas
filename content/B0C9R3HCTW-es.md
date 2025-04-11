@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ajuste cómodo
-- Diseño moderno
-- Material: 94% algodón, 6% elastano
 - Leggings largos con logotipo bordado en la parte inferior izquierda
+- Material: 94% algodón, 6% elastano
+- Diseño moderno
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9R3HCTW{{</world>}}

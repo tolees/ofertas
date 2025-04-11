@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con gancho para llevar como un llavero
 - Máxima velocidad de escritura: 6.50 MB/s (43x)
-- Mide" 64 x 11 x 18 mm y un peso de 16 gramos
 - Máxima velocidad de lectura: 28 MB/s (187x)
+- Cuenta con gancho para llevar como un llavero
+- Mide" 64 x 11 x 18 mm y un peso de 16 gramos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B016M98PTU{{</world>}}

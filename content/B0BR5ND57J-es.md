@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protección UPF 50 contra los rayos ultravioleta.
-- Cordón regulable para mejorar el ajuste.
 - Poco peso, diseño de alto de rendimiento.
 - Máxima protección solar para niños.
+- Protección UPF 50 contra los rayos ultravioleta.
+- Cordón regulable para mejorar el ajuste.
 - Tira interior para absorber el sudor.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

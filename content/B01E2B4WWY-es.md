@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Elástico
 - Cierre de botones
 - Blazer
-- Elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01E2B4WWY{{</world>}}

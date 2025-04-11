@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro textil
 - Cierre de cordones
+- Forro textil
 - Plantilla Cloudfoam Comfort para adecuado comodidad
 - Horma clásica
 

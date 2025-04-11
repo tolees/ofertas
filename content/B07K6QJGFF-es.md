@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paqueteage Dimensiones: 4.0 L x 19.0 H x 12.0 W (centimeters)
-- Number of players: 3
 - Producto de calidad
+- Number of players: 3
+- Paqueteage Dimensiones: 4.0 L x 19.0 H x 12.0 W (centimeters)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07K6QJGFF{{</world>}}

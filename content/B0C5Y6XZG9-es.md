@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine de malla
 - Suela robusta
+- Empeine de malla
 - Amortiguación EVA
 
 [🛒 Comprar!!!]({{< param buyurl >}})

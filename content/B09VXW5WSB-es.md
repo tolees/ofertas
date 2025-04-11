@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Horma clásica
-- Plantilla OrthoLite
-- Cierre de cordones
-- Mediasuela Cloudfoam
 - Parte de malla transpirable
+- Plantilla OrthoLite
+- Mediasuela Cloudfoam
+- Cierre de cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09VXW5WSB{{</world>}}

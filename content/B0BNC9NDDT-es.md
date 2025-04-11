@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta a rayas regular cuello redondo, manga larga.
 - 100% algodón
+- Camiseta a rayas regular cuello redondo, manga larga.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BNC9NDDT{{</world>}}

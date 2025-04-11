@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elástico
 - Colorfull Sock
 - Trek
 - sandalias
+- Elástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08G87WT1B{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Réplica exacta de la varita de hermione
-- Alta calidad
-- Número de jugadores: 1
-- Colección harry potter
 - Prodcuto con licencia oficial harry potter
+- Número de jugadores: 1
+- Réplica exacta de la varita de hermione
 - Caja ilustrada con ventana
+- Alta calidad
+- Colección harry potter
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NQM7RWT{{</world>}}

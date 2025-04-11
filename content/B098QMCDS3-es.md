@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Zapatos deportivos
-- Almohadón
 - Ligereza
+- Almohadón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098QMCDS3{{</world>}}

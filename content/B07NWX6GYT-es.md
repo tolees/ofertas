@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalón corto de trail
-- Multibolsillos en la cintura
-- Tejido: Microfibra 95% Poliéster; 5% Elastán
 - Ajuste doble: elástico y cordón
+- Tejido: Microfibra 95% Poliéster; 5% Elastán
+- Pantalón corto de trail
 - Logotipo serigrafiado reflectante
+- Multibolsillos en la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NWX6GYT{{</world>}}

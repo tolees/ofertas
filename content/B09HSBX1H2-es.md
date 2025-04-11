@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3M Scotchgard
-- Repelente al agua
-- MF refrigerado por aire
-- Ajuste relajado
 - Goma Goodyear
+- MF refrigerado por aire
+- Repelente al agua
+- Ajuste relajado
+- 3M Scotchgard
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09HSBX1H2{{</world>}}

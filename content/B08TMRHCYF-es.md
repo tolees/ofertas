@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SKECHERS Logo
+- Cuello acolchado
 - Logotipo lateral S
 - Cordones en la parte delantera
-- Cuello acolchado
+- SKECHERS Logo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08TMRHCYF{{</world>}}

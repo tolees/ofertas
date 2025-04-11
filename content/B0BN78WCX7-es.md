@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- protector de dedos,
 - Plantilla transpirable
 - Zapatos para correr
+- protector de dedos,
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN78WCX7{{</world>}}

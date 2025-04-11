@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - ♻【Reciclable】Este filamento PETG es reciclable, lo que lo hace una opción sostenible y respetuosa con el medio ambiente.
 - ▶【Brillo】El filamento PETG de Winkle en cristal verde tiene un brillo excepcional que resalta su color verde intenso. Viene en un carrete de 1kg y un diámetro de 1,75mm, ideal para una amplia variedad de proyectos de impresión.
-- ▶【Propiedades del Material】El PETG es un polímero termoplástico conocido por su resistencia mecánica, química, al agua y térmica. Esto lo convierte en un material ideal para aplicaciones donde se requiere resistencia y durabilidad.
 - ▶【Filamento PETG】El filamento PETG de Winkle es conocido por su alta calidad y durabilidad. Este material es perfecto para impresiones 3D que requieren resistencia y transparencia.
 - ▶【Recomendaciones de Impresión】Para obtener los mejores resultados al imprimir con este filamento PETG, se recomienda una temperatura del Nozzle entre 240-260 ºC y una temperatura de la cama entre 70-100 ºC. También se aconseja imprimir en una superficie de impresión caliente para una adherencia óptima.
+- ▶【Propiedades del Material】El PETG es un polímero termoplástico conocido por su resistencia mecánica, química, al agua y térmica. Esto lo convierte en un material ideal para aplicaciones donde se requiere resistencia y durabilidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09794FVHV{{</world>}}

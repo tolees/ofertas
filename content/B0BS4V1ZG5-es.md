@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con prácticas y materiales sostenibles
 - Una cintura media detallada con una pierna ajustada
+- Fabricado con prácticas y materiales sostenibles
 - Viene en un vaquero elástico azul y negro nocturno
 - Costuras dobles en los bolsillos delanteros y en el canesú trasero
 

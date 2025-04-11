@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- T2 Orig Chino Skiny Opp Silver Sage
 - Añade un poco de estilo extra
+- T2 Orig Chino Skiny Opp Silver Sage
 - Cargo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

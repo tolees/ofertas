@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- APLICACIÓN: ideal bolsa para cocer garbanzos, escaldar y escalfar en su interior legumbres y verduras para que éstas no se mezclen con el caldo — al sacarlas del recipiente no es necesario ponerlas en un colador o escurridor, ya que en la misma malla se escurren perfectamente.
-- INCLUYE: 1 x malla coccion para cocer verduras y legumbres.
+- MATERIAL: nylon elástico de alta resistencia, redecilla de garbanzos elástica, con capacidad para 2kg de comida, resistente hasta 180ºC y apta para lavavajillas. Si buscas mallas para cocer garbanzos que sean resistentes y reutilizables muchas veces, con este producto tienes para muchos usos.
 - PRÁCTICO: bolsa para cocinar excelente para escaldar y escalfar alimentos — esta bolsa para legumbres es perfecta para los guisos de toda la vida, como cocido madrileño, fabada asturiana o cualquier tipo de comida de puchero;
 - DIMENSIONES: 36,5x7,5cm — la red de cocinar apenas ocupa espacio cuando se almacena y tiene capacidad suficiente para cocer legumbres, ya que es elástica y se estira cuando la comida aumenta de volumen y peso en la olla.
-- MATERIAL: nylon elástico de alta resistencia, redecilla de garbanzos elástica, con capacidad para 2kg de comida, resistente hasta 180ºC y apta para lavavajillas. Si buscas mallas para cocer garbanzos que sean resistentes y reutilizables muchas veces, con este producto tienes para muchos usos.
+- INCLUYE: 1 x malla coccion para cocer verduras y legumbres.
+- APLICACIÓN: ideal bolsa para cocer garbanzos, escaldar y escalfar en su interior legumbres y verduras para que éstas no se mezclen con el caldo — al sacarlas del recipiente no es necesario ponerlas en un colador o escurridor, ya que en la misma malla se escurren perfectamente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0743BCN6F{{</world>}}

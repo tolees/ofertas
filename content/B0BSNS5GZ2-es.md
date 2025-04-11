@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Batería apta para todas las máquinas XR de 18 voltios
+- Capacidad de la batería: máximo 5,0 Ah
+- 2x Li-ion baterías deslizantes incluyendo cargador
 - Para tipo de batería 10.8 / 14.4 / 18 / 54 V
 - Corriente de carga: 4 A; tensión de la batería: 18 V
-- Capacidad de la batería: máximo 5,0 Ah
-- Batería apta para todas las máquinas XR de 18 voltios
-- 2x Li-ion baterías deslizantes incluyendo cargador
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BSNS5GZ2{{</world>}}

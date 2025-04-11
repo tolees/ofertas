@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Etiqueta de G-Star RAW tejida en la parte inferior delantera
-- Manga corta recta insertada con vuelta fija en el borde
 - Bajo curvado
+- Etiqueta de G-Star RAW tejida en la parte inferior delantera
 - Bordado de G-Star RAW en el pecho
+- Manga corta recta insertada con vuelta fija en el borde
 - Cuello redondo acanalado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

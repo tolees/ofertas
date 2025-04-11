@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- con juguete en cuerda
+- color: crema
 - con forro de felpa de pelo largo (poliéster)
 - postes forrados con cuerda de sisal natural
-- color: crema
+- con juguete en cuerda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0027IVL6K{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda
 - Medidas: Frontal 141,5 mm; Patillas 145 mm ; Alto 46 mm. Modelo Unisex
 - Las Idle son unas gafas de sol clásicas, pero con una lente de máscara completa sin aros. Este modelo de color púrpura oscuro degradado tiene patillas negras brillantes.
+- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RPWHV4W{{</world>}}

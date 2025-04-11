@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine de piel
 - Caña baja
+- Empeine de piel
 - Plantilla de PU moldeado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

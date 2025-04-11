@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuello redondo acanalado
-- Puños y dobladillo de punto acanalado
 - Cuello redondo
+- Puños y dobladillo de punto acanalado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BVGLS4NG{{</world>}}

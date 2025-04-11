@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sencillo de usar
 - Ofrece un resultado óptimo y adecuado
+- Sencillo de usar
 - Producto para tu cuidado personal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

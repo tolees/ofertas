@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma parte de la serie AccuStrike
-- Incluye 12 dardos
 - Los dardos han sido diseñados para mayor precisión
+- Forma parte de la serie AccuStrike
 - Compatibles con los lanzadores Nerf Elite
 - Se venden por separado
+- Incluye 12 dardos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MQIADPD{{</world>}}

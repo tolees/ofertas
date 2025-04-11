@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Estilo más adecuado para: female
+- Composición: LEDer
 - Cierre: cordones
 - Material de la suela: goma
-- Composición: LEDer
 - Revestimiento: sintético
-- Estilo más adecuado para: female
 - Tipo de tacón: plano
 - Material exterior: cuero
 

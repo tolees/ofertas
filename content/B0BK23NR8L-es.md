@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elige entre una gran variedad de simpáticos compañeros de equipo: ¡personajes únicos y personalizables con diferentes personalidades y habilidades!
+- Tienda en el juego para una divertida personalización: cuenta con varios trajes, armas, accesorios e incluso trajes mecánicos que puedes personalizar para darle un toque kawaii adicional.
+- Exclusivo sistema visual de progresión "Battle Hex": ¡un estético sistema de progresión "Battle Hex" para visualizar tu progreso y elaborar estrategias para lo que te espera!
 - Elementos de novela visual para disfrutar - ¡Sigue una historia original centrada en tu elenco de actrices, aprendiendo sobre sus vidas y motivaciones!
 - Enérgicas batallas de combate - ¡Lucha 1v1 o en equipo, construye tu equipo definitivo o equípate para luchar en solitario!
-- Exclusivo sistema visual de progresión "Battle Hex": ¡un estético sistema de progresión "Battle Hex" para visualizar tu progreso y elaborar estrategias para lo que te espera!
-- Tienda en el juego para una divertida personalización: cuenta con varios trajes, armas, accesorios e incluso trajes mecánicos que puedes personalizar para darle un toque kawaii adicional.
+- Elige entre una gran variedad de simpáticos compañeros de equipo: ¡personajes únicos y personalizables con diferentes personalidades y habilidades!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BK23NR8L{{</world>}}

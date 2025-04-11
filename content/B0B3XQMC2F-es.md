@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cinturilla y puños acanalados: no le falta ni un detalle
-- Cocodrilo verde en la manga: tu estilo, de la mano de Lacoste
-- Classic fit: favorece todo tipo de cuerpos
-- Cocodrilo estampado y marca en dégradé: el cocodrilo se renueva
 - Capucha con cordón ajustable con la marca: protección ajustable
+- Cocodrilo estampado y marca en dégradé: el cocodrilo se renueva
+- Cinturilla y puños acanalados: no le falta ni un detalle
+- Classic fit: favorece todo tipo de cuerpos
+- Cocodrilo verde en la manga: tu estilo, de la mano de Lacoste
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B3XQMC2F{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TIMER Y AUTO OFF: programable hasta 9 horas; Transcurrido el tiempo, el ventilador se apaga de forma automática, proporcionándote comodidad y ahorro de energía
-- PANTALLA DIGITAL TÁCTIL: de uso fácil e intuitivo con botones táctiles; También, muestra en todo momento la temperatura ambiente y permite ajustar la intensidad del brillo de la pantalla
-- POTENTE: consigue un hogar fresco con el ventilador de torre digital oscilante New Babel Digital de tan solo 50W de potencia; Dispone de control remoto para un cómodo uso
 - SISTEMA OSCILACIÓN: este sistema permitirá repartir el potente flujo de aire por toda la habitación; Además, para una mayor comodidad cuenta con asa y alojamiento para el control remoto
+- TIMER Y AUTO OFF: programable hasta 9 horas; Transcurrido el tiempo, el ventilador se apaga de forma automática, proporcionándote comodidad y ahorro de energía
+- POTENTE: consigue un hogar fresco con el ventilador de torre digital oscilante New Babel Digital de tan solo 50W de potencia; Dispone de control remoto para un cómodo uso
+- PANTALLA DIGITAL TÁCTIL: de uso fácil e intuitivo con botones táctiles; También, muestra en todo momento la temperatura ambiente y permite ajustar la intensidad del brillo de la pantalla
 - AJUSTABLE: Este ventilador tiene 3 modos de funcionamiento que se adaptan a cada necesidad: normal, brisa y noche; Además, su potencia se puede ajustar en 4 niveles, para que el flujo de aire salga con mayor o menor intensidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

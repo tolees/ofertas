@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Esfera con efecto arenado y estampado abstracto con detalles florales en oro rosado
 - Logotipo grabado con mimo en el reverso de la caja y en el cierre de la correa
-- Caja chapada en oro rosa y pulsera de malla
 - Movimiento de cuarzo japonés de tres manecillas
 - Diámetro de la caja: 38 mm
+- Caja chapada en oro rosa y pulsera de malla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07HQZ3FDY{{</world>}}

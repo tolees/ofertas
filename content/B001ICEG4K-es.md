@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Apto para veganos
-- Fragancias naturales
 - Aroma a menta y árbol de té
+- Fragancias naturales
 - 100% aceites esenciales
 - Embalado con cosas naturales
 

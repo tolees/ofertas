@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗟: Base apto para todos los fabricantes y marcas, así como para pantallas curvo - ¡si la posición y el tamaño de la norma VESA, así como el peso del monitor, son compatibles!
 - 𝗥𝗘𝗖𝗢𝗠𝗘𝗡𝗗𝗔𝗗𝗢 𝗣𝗔𝗥𝗔: Diagonales de Flat-screen de 33cm/13" 38cm/15" 43cm/17" 48cm/19" 53cm/21" 56cm/22" 61cm/24" 69cm/27" 74cm/29 pulgadas
-- 𝗡𝗢𝗥𝗠𝗔𝗦 𝗩𝗘𝗦𝗔 𝗖𝗢𝗠𝗣𝗔𝗧𝗜𝗕𝗟𝗘𝗦: Colgador articulado para monitor carga 25kg máximo. Wall-Mount apto para monitores de estándar VESA 50x50 75x75 100x100
 - 𝗙𝗨𝗡𝗖𝗜𝗢𝗡𝗘𝗦: Fijación para pantallas es orientable de 60°, dependiendo del ancho de la pantalla. Inclinación regulable de +/-15 grados. Anclaje con distancia a pared de 62mm
 - 𝗩𝗢𝗟𝗨𝗠𝗘𝗡 𝗗𝗘 𝗘𝗡𝗧𝗥?𝗚𝗔: Bracket monitor premontado, tacos sólo para montaje en paredes de hormigón, tornillos de pantalla, tornillos mural y accesorios
+- 𝗡𝗢𝗥𝗠𝗔𝗦 𝗩𝗘𝗦𝗔 𝗖𝗢𝗠𝗣𝗔𝗧𝗜𝗕𝗟𝗘𝗦: Colgador articulado para monitor carga 25kg máximo. Wall-Mount apto para monitores de estándar VESA 50x50 75x75 100x100
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00PC7G5KA{{</world>}}

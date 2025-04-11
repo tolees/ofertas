@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PH FISIOLÓGICO: tiene pH fisiológico, está dermatológicamente testado y no contiene fragancias artificiales ni colorantes.
-- APTO PARA SEXO VAGINAL, ANAL Y ORAL: lubricante apto para sexo vaginal, anal y oral
 - INGREDIENTES 100% NATURALES: lubricante extra sensitivo que alivia las molestias y está elaborado con ingredientes 100% naturales
-- FÁCIL DE USAR: abrir el tapón y apretar suavemente para aplicarlo
+- APTO PARA SEXO VAGINAL, ANAL Y ORAL: lubricante apto para sexo vaginal, anal y oral
 - COMPATIBLE CON PRESERVATIVOS DE LÁTEX: únicamente compatible con preservativos de látex de caucho natural y poliisopreno
+- PH FISIOLÓGICO: tiene pH fisiológico, está dermatológicamente testado y no contiene fragancias artificiales ni colorantes.
+- FÁCIL DE USAR: abrir el tapón y apretar suavemente para aplicarlo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B083FW8Q7P{{</world>}}

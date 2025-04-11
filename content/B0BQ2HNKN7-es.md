@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- logotipo de adidas
 - Pantalón deportivo
+- logotipo de adidas
 - corte normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DESCRIPCIÓN: ¿la ventaja de una encuadernación en espiral? Puede separar cada página sin dejar rastro. Para la escuela u oficina, elige el cuaderno de espiral grande a rayas, que te permite separar las páginas, guardarlas, compartirlas o marcharlas y hacer centro en la cesta. Y luego, directamente a la siguiente página!
 - LEGAMI es una marca italiana consciente de la innovación, la estética, los materiales y los procesos de producción. Siempre buscando nuevas tendencias para sorprender a las personas con propuestas originales, en su universo hay infinitos mundos por descubrir, gracias a productos de calidad diseñados para traer alegría a la vida de las personas. Vínculos explora los mundos Stationery, Agendas y Calendarios, Estilo de vida, Beauty, Hi-Tech, Bolsos, Accesorios y mucho más, y hace de cada producto una experiencia única. Pasión, ética, integridad y respeto son la base de la filosofía empresarial.
 - Características: 200 páginas desmontables. Papel blanco de 100 g/m² a prueba de transparencia. Bolsillo final. Cierre elástico.
+- DESCRIPCIÓN: ¿la ventaja de una encuadernación en espiral? Puede separar cada página sin dejar rastro. Para la escuela u oficina, elige el cuaderno de espiral grande a rayas, que te permite separar las páginas, guardarlas, compartirlas o marcharlas y hacer centro en la cesta. Y luego, directamente a la siguiente página!
 - MATERIALES Y TAMAÑOS: papel certificado FSC (FSC-C154586): proviene de fuentes forestales certificadas. Tamaño: longitud 15,5 cm, altura: 21 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

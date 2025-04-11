@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ingredientes: Jalea Real 500 mg, vitaminas, minerales, aminoácidos y ginseng, que aportan una acción energizante
-- 30 cápsulas
-- Perrigo España S.A. Plaza Xavier Cugat, 2 08174 Sant Cugat del Vallès Barcelona - España
+- Con ingredientes de origen natural; sin gluten; sin lactosa. 0% azúcares añadidos
 - Indicada en adultos y niños mayores de 14 años
 - Tomar 1 cápsula al día
+- 30 cápsulas
 - Aporta energía extra y favorece el rendimiento físico e intelectual
-- Con ingredientes de origen natural; sin gluten; sin lactosa. 0% azúcares añadidos
+- Perrigo España S.A. Plaza Xavier Cugat, 2 08174 Sant Cugat del Vallès Barcelona - España
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KXBSQ96{{</world>}}

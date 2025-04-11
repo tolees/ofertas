@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Define tu propia leyenda: Personaliza por completo el aspecto de tu personaje con una amplia variedad de opciones visuales antes de elegir una de las nueve clases de personaje. Elijas el camino que elijas, desarrolla tu personaje según tu estilo de juego mejorando sus estadísticas, armas, armadura y hechizos. Busca formas exclusivas de sobrevivir en un mundo persistente, descubre atajos, crea zonas seguras y pon en marcha los rastreadores de movimiento para estar un paso por delante de esas criaturas.
-- La Deluxe incluye: el juego, la clase inicial cruzado de la oscuridad, conjunto de armadura y armas de cruzado de la oscuridad, libro de arte digital de 100 págs. y galería de modelos 3D.
 - Explora extensos mundos interconectados: Viaja entre dos mundos paralelos con la épica misión de derrocar a Adyr. Mientras el reino de los hombres presenta desafíos brutales por sí solo, horrores inimaginables acechan en el catastrófico reino de los muertos.
 - Blande un artefacto de poder impío: Tu farol posee un poder impío que permite atravesar los reinos. Usa esta magia negra para alcanzar lugares olvidados, desenterrar tesoros legendarios e incluso manipular las almas de tus enemigos.
 - Resucita de entre los muertos: Muere en el reino de los humanos y resucita en el de los muertos. Tienes una última oportunidad de volver a la vida mientras te enfrentas a criaturas diabólicas de todo tipo.
+- La Deluxe incluye: el juego, la clase inicial cruzado de la oscuridad, conjunto de armadura y armas de cruzado de la oscuridad, libro de arte digital de 100 págs. y galería de modelos 3D.
+- Define tu propia leyenda: Personaliza por completo el aspecto de tu personaje con una amplia variedad de opciones visuales antes de elegir una de las nueve clases de personaje. Elijas el camino que elijas, desarrolla tu personaje según tu estilo de juego mejorando sus estadísticas, armas, armadura y hechizos. Busca formas exclusivas de sobrevivir en un mundo persistente, descubre atajos, crea zonas seguras y pon en marcha los rastreadores de movimiento para estar un paso por delante de esas criaturas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5NCZ217{{</world>}}

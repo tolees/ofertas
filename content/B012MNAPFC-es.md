@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta De Los Mejores Zapatos De La Marca: Victoria
-- Temporada: verano
 - Composición exterior:
 - Si no conoce su talla, le recomendamos: Seleccione su talla habitual
+- Temporada: verano
+- Disfruta De Los Mejores Zapatos De La Marca: Victoria
 - Composición interior: Material textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapata panorámica 360° e inclinación de 90° para control de posición
 - Patas flexibles y rótula para montar un equipo de cámara compacta
 - Mini rótula extraíble para usar con GorillaPod o un trípode estándar
-- Tipo de lente: Fisheye
+- Zapata panorámica 360° e inclinación de 90° para control de posición
 - Resistente: para dispositivos con un peso de hasta 1 kg (2.2 lbs)
 - Anillo y pies de goma para un mejor agarre
+- Tipo de lente: Fisheye
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074WFNNKY{{</world>}}

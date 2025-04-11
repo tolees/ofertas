@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuello Redondo
+- Ajuste Regular
 - Manga corta
 - Logo en el pecho
-- Ajuste Regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08G24RZTX{{</world>}}

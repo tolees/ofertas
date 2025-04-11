@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuidados: lavar a máquina en agua fría. No usar lejía. No lavar enseco. No meter en la secadora. No planchar.
 - Manta realizada en poliéster de 220 gr., de tipo polar, con tacto muy suave.
-- Cuenta con un mensaje estampado en la manta.
 - La manta se dobla en su propio bolsillo, quedando como un cojín.
+- Cuidados: lavar a máquina en agua fría. No usar lejía. No lavar enseco. No meter en la secadora. No planchar.
+- Cuenta con un mensaje estampado en la manta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTZ5N3S8{{</world>}}

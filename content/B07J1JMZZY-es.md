@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tipo de tacón: Tacón de bloque, Altura del tacón: 3.00 cm, Tipo de vástago: semi-vástago, Altura del vástago: 25
+- Fabricado en España
+- Material superior: nobuck (nobuck), Material interior: sintético, suela: caucho natural, suela: poliuretano
 - Cierre: cremallera
 - Tipo de producto: Botas,Botines,Botines clásicos,Singapur,Botas,Botines,Botines,Plano
-- Material superior: nobuck (nobuck), Material interior: sintético, suela: caucho natural, suela: poliuretano
-- Fabricado en España
-- Tipo de tacón: Tacón de bloque, Altura del tacón: 3.00 cm, Tipo de vástago: semi-vástago, Altura del vástago: 25
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07J1JMZZY{{</world>}}

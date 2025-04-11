@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CONTROLES MULTIFUNCIÓN: A través del área TÁCTIL multifunción podrás controlar tu lista de reproducción y contestar LLAMADAS con un solo toque. Activando el CONTROL POR VOZ es posible hablar con tu asistente personal favorito.
-- GRAN COMPATIBILIDAD: La conexión por Wireless 5.0 les otorga gran compatibilidad por lo que podrás conectarlos a tus dispositivos Android o iOS y a tus asistentes de voz y consolas favoritas. Gracias a una conexión inquebrantable entres los casos y tu dispositivo, tienen una distancia de funcionamiento de hasta 10 metros.
-- DISEÑO PREMIUM: Los cascos Wireless Leaf combinan un diseño minimalista optimizado con una calidad de sonido de alta gama. Su estuche de carga fino y metálico permite llevarlos mucho más cómodamente a cualquier sitio.
 - ULTRA LIGEROS: Ligeros como una hoja, con todas las funcionalidades que los convierten en unos auriculares Premium.
 - BATERÍA DE LARGA DURACIÓN: La batería de los auriculares inalámbricos Leaf dura más de 4 horas y, cargándolos con el estuche, se pueden obtener hasta 18 horas de reproducción. Música sin límites vayas donde vayas.
+- GRAN COMPATIBILIDAD: La conexión por Wireless 5.0 les otorga gran compatibilidad por lo que podrás conectarlos a tus dispositivos Android o iOS y a tus asistentes de voz y consolas favoritas. Gracias a una conexión inquebrantable entres los casos y tu dispositivo, tienen una distancia de funcionamiento de hasta 10 metros.
+- DISEÑO PREMIUM: Los cascos Wireless Leaf combinan un diseño minimalista optimizado con una calidad de sonido de alta gama. Su estuche de carga fino y metálico permite llevarlos mucho más cómodamente a cualquier sitio.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0948SPKW6{{</world>}}

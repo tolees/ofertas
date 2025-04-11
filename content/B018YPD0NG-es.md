@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para aplicaciones en acero inoxidable o material inoxidable y acero
 - Diámetro de disco: 76 mm, diámetro del orificio: 10,00 mm, grosor de disco: 1,0 mm
-- Para velocidad periférica máx; hasta 80 m/s
+- Apto para aplicaciones en acero inoxidable o material inoxidable y acero
 - Compatible con radiales con conexión de 10 mm, por ejemplo GWS 12V-76
+- Para velocidad periférica máx; hasta 80 m/s
 - Disco de corte Expert for Inox de Bosch Professional (A 60 R Inox BF)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

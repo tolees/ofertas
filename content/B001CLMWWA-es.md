@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tienen un material transpirable y elástico
-- Adecuados para deportes o para uso diario
 - Cómodos de llevar
+- Adecuados para deportes o para uso diario
+- Tienen un material transpirable y elástico
 - Tienen logotipo en la parte inferior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

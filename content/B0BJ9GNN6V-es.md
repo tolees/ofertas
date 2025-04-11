@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AEROREADY
-- Punto 70% poliéster reciclado / 30% algodón
-- Comodidad para entrenar
 - Cuello redondo
+- AEROREADY
+- Comodidad para entrenar
+- Punto 70% poliéster reciclado / 30% algodón
 - Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

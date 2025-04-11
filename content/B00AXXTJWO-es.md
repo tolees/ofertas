@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vástago de inserción cilíndrico compatible con portabrocas de tres mordazas
-- La broca de HSS rectificada con precisión permite obtener resultados rápidos
 - Suministro: 25 brocas helicoidales Bosch Professional HSS-G para acero - Ø 1/1,5/2/2,5/3/3,5/4/4,5/5/5,5/6/6,5/7/7,5/8/8,5/9/9,5/10/10,5/11/11,5/12/12,5/13 mm
 - El Set de brocas para metal HSS-G ProBox de Bosch: máxima precisión para uso estándar con metal
+- La broca de HSS rectificada con precisión permite obtener resultados rápidos
+- Vástago de inserción cilíndrico compatible con portabrocas de tres mordazas
 - Adecuado para taladrar agujeros en acero aleado y sin alear, metales no ferrosos, hierro fundido, plásticos y madera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Etiqueta de G-Star RAW tejida en el lateral inferior
-- Cuello redondo acanalado
-- Manga corta recta insertada
 - Estampado de RAW en el pecho
 - Bajo curvado
+- Etiqueta de G-Star RAW tejida en el lateral inferior
+- Manga corta recta insertada
+- Cuello redondo acanalado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS1B1VTT{{</world>}}

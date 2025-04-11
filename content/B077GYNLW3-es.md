@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Dos bolsillos traseros
+- Dos bolsillos delanteros y un bolsillo para monedas
 - Bordes abiertos en la parte inferior
 - Cinco trabillas para cinturón
-- Dos bolsillos delanteros y un bolsillo para monedas
-- Dos bolsillos traseros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B077GYNLW3{{</world>}}

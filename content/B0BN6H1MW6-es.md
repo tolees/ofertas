@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente al agua
 - Forma del tacón: plano
+- Resistente al agua
 - Ancho del zapato: Mediano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

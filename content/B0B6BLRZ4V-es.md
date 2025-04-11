@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cómoda cobertura media con logotipo audaz aspecto juvenil, algodón modal contemporáneo elastano
 - Logotipo atrevido
-- Ropa interior para mujer
 - CAMISETA INDIVIDUAL
+- Ropa interior para mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6BLRZ4V{{</world>}}

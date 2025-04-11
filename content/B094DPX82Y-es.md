@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tejido Eco Power: nuestro tejido Endurance+, 100% resistente al cloro, se seca rápidamente y está hecho para un uso duradero y, al ser reciclado al 50%, uno de los hilos incluso está hecho con un 100% de residuos posconsumo, como botellas de plástico recicladas
+- Calidad y comodidad: nuestro clásico traje de medallista juvenil, ahora con mejores credenciales ecológicas; hemos actualizado este popular traje de baño con el nuevo tejido Eco Endurance+ y, al mismo tiempo, incluye la comodidad y la libertad que se esperan
+- Haciendo olas: desde nuestra fundación en Australia en 1928, nos apasiona la vida en el agua y sus alrededores. Nuestra misión es inspirar a las personas a nadar, ya sea para entrenar, competir, hacer ejercicio o divertirse, y hacer que cada momento en el agua sea mejor.
 - Árboles para mares limpios: nos preocupamos por las aguas silvestres del mundo, por eso plantaremos dos millones de manglares para finales de 2022; los manglares crean hábitats esenciales para la vida marina y son excelentes para absorber CO2, lo que hace que el aire sea más limpio para nosotros y nuestros océanos
 - Siéntete bien, nada bien: conserva el mismo corte y ajuste que les encanta a los jóvenes nadadores y ofrece un gran movimiento y flexibilidad en los hombros, ahora está fabricado con un 50% de materiales reciclados e incluye una costura de correa para reducir el desperdicio de tela.
-- Haciendo olas: desde nuestra fundación en Australia en 1928, nos apasiona la vida en el agua y sus alrededores. Nuestra misión es inspirar a las personas a nadar, ya sea para entrenar, competir, hacer ejercicio o divertirse, y hacer que cada momento en el agua sea mejor.
-- Calidad y comodidad: nuestro clásico traje de medallista juvenil, ahora con mejores credenciales ecológicas; hemos actualizado este popular traje de baño con el nuevo tejido Eco Endurance+ y, al mismo tiempo, incluye la comodidad y la libertad que se esperan
-- Tejido Eco Power: nuestro tejido Endurance+, 100% resistente al cloro, se seca rápidamente y está hecho para un uso duradero y, al ser reciclado al 50%, uno de los hilos incluso está hecho con un 100% de residuos posconsumo, como botellas de plástico recicladas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B094DPX82Y{{</world>}}

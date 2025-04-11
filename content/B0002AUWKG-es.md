@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuando Hagrid le dio a Harry Potter su carta de aceptación a Hogwarts, se sorprendió por la realidad de que su tía y su tío le habían mentido sobre lo que les sucedió a sus padres
 - Recoge el pop! Harry para su colección Harry Potter
 - Estallido! Harry Potter está vestido con su túnica de la escuela, listo para descubrir más sobre sus padres y él mismo, en su primer esfuerzo lejos de la familia Dursley
+- Cuando Hagrid le dio a Harry Potter su carta de aceptación a Hogwarts, se sorprendió por la realidad de que su tía y su tío le habían mentido sobre lo que les sucedió a sus padres
 - La figura de vinilo mide aproximadamente 3.75 pulgadas de alto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

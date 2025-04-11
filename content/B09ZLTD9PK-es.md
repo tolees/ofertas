@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un sistema de combate arcade con cambio continuo entre tres armas
 - La estética dieselpunk basada en el motor virtual 4
+- Un sistema de combate arcade con cambio continuo entre tres armas
 - Mapas impecables llenos de desafíos para explorar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

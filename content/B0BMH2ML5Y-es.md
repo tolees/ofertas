@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TEJIDO MAXFIT ECO: Resiste el cloro, la sal, y es elástico en 4 direcciones. Protección UV UPF 50+ integrada. Secado rápido. Equilibrio justo entre ajuste y comodidad. De poliamida reciclada
 - BAÑADOR DEPORTIVO: El bañador deportivo de una pieza para mujer Dynamo R es un bañador deportivo cómodo y duradero fabricado con tejido MaxFit Eco, lo que garantiza un gran confort y ajuste
-- COMPOSICIÓN: Bañador para mujer fabricado en 80% de poliamida y 20% de elastano (tejido ecológico: poliamida reciclada). Tejido que no irrita la piel con certificación STANDARD 100 de OEKO-TEX
 - BAÑADOR PARA PISCINA Y PLAYA: Forma parte de la gama Feel de arena. Bañador para mujer apto para piscina y el mar. Diseñado para nadadoras ocasionales que quieran entrenar con total comodidad
+- TEJIDO MAXFIT ECO: Resiste el cloro, la sal, y es elástico en 4 direcciones. Protección UV UPF 50+ integrada. Secado rápido. Equilibrio justo entre ajuste y comodidad. De poliamida reciclada
+- COMPOSICIÓN: Bañador para mujer fabricado en 80% de poliamida y 20% de elastano (tejido ecológico: poliamida reciclada). Tejido que no irrita la piel con certificación STANDARD 100 de OEKO-TEX
 - CÓMODO: Su suave tejido es fácil de poner y garantiza un gran confort. Sus tirantes anchos y su corte ergonómico en la espalda brindan una sujeción y un ajuste óptimos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Almohadón
 - Zapatos para correr
 - Malla superior
-- Almohadón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09N3MY5NQ{{</world>}}

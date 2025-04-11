@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carátula especial reversible
 - Caja Steelbook
+- Carátula especial reversible
 - 2 figuritas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

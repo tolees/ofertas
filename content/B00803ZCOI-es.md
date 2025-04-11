@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gorra new era new era gorra 9forty navy/white
 - 9FORTY Varios colores MISC
-- Tiempo libre y sportwear, Perfil HOMBRE UNISEX, Material , Color NAVY/WHITE
 - NEW ERA es un nombre de marca reconocido
+- Gorra new era new era gorra 9forty navy/white
+- Tiempo libre y sportwear, Perfil HOMBRE UNISEX, Material , Color NAVY/WHITE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00803ZCOI{{</world>}}

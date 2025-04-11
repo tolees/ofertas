@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Género: Unisex Adulto
 - Marca: Lancaster
 - Tipo de producto: Desodorante
-- Género: Unisex Adulto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00K7ZD4Q0{{</world>}}

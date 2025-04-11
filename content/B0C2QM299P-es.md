@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Forro textil
 - Horma clásica
 - Parte de malla
-- Forro textil
 - Amortiguación Lightstrike
 
 [🛒 Comprar!!!]({{< param buyurl >}})

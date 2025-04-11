@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JerseY De manga larga caída
 - Con canalé en el cuello en los puños Y en el Bajo
-- Con franjas color block en tono neutro
+- JerseY De manga larga caída
 - Con cuello redondo
+- Con franjas color block en tono neutro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C23MFT1Z{{</world>}}

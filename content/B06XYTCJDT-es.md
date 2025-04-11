@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estándar
 - Ajuste fácil
+- Estándar
 - Ajuste regular
 - Cuello con muesca y mangas cortas
 

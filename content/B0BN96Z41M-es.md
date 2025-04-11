@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil de malla
 - Suela exterior de goma
-- PU Upper
 - Suela normal
+- Forro textil de malla
+- PU Upper
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN96Z41M{{</world>}}

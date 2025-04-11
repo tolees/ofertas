@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad de 1,7 Litros - Hervidor en plástico negro de alto brillo con capacidad para 1,7 litros, interruptor luminoso de encendido y apagado
-- Zona de Ebullición Rápida - Con indicador de 1/2/3 tazas
-- Ducha de pulverización de tecnología avanzada combinada con una temperatura óptima para extraer todos los aromas del café
-- Potencia de 2000-2400 W - Hierve una taza de agua en 50 segundos y ahorra hasta un 70% de electricidad. 220-240 V | 50/60Hz |
-- Gran capacidad de 1,25 litros, 10 tazas grandes
-- Centrado automático del pan
-- Seis niveles de dorado ajustables
 - Pinzas tostadas integradas
+- Gran capacidad de 1,25 litros, 10 tazas grandes
+- Zona de Ebullición Rápida - Con indicador de 1/2/3 tazas
+- Centrado automático del pan
+- Potencia de 2000-2400 W - Hierve una taza de agua en 50 segundos y ahorra hasta un 70% de electricidad. 220-240 V | 50/60Hz |
+- Seis niveles de dorado ajustables
+- Ducha de pulverización de tecnología avanzada combinada con una temperatura óptima para extraer todos los aromas del café
+- Capacidad de 1,7 Litros - Hervidor en plástico negro de alto brillo con capacidad para 1,7 litros, interruptor luminoso de encendido y apagado
 - Acabado de alta gama que combina dos texturas de negro: esmerilado y brillante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

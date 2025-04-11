@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Termatuss jarabe cumple una acción antioxidante que contrarresta la irritación provocada por los radicales libres
 - Contrarresta la irritación mediante la creación de una capa protectora que limita el contacto de la mucosa con los agentes externos, favoreciendo la hidratación de la mucosidad, para su eliminación
 - Termatuss con fórmula con miel y complejo de Polifractin M.A, que está compuesto por una fracción de polisacárido de llantén menor y malvavisco, combinado con una fracción de polifenol de agrimonia
-- Jarabe para la tos seca o productiva de Termatuss indicado en adultos y niños a partir de un año
 - Jarabe de Termatuss para la tos es sin gluten y 100% natural y biodegradable, elaborado sin ayuda de procesos o sustancias sintéticas o hemisintéticas, ni de sustancias modificadas genéticamente
+- Jarabe para la tos seca o productiva de Termatuss indicado en adultos y niños a partir de un año
+- Termatuss jarabe cumple una acción antioxidante que contrarresta la irritación provocada por los radicales libres
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08P5V4N3C{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Base giratoria: 360 grados
 - Ancho de la mandíbula: 12 cm
-- El tornillo de banco multiusos tiene un mango de acero fundido y mordazas giratorias para tubos
+- Base giratoria: 360 grados
 - Tiene base giratoria y yunque incorporado
+- El tornillo de banco multiusos tiene un mango de acero fundido y mordazas giratorias para tubos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009TOCZEC{{</world>}}

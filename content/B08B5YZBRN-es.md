@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre de cremallera y correa de hombro ajustable con la inscripción de la marca
-- Bolsillo exterior con cremallera, bolsillo interior con cremallera y bolsillos de malla
-- PVC piqué
-- Dimensiones: 20 נ25,5 × 3,5 cm
 - Cocodrilo verde bordado
+- PVC piqué
+- Bolsillo exterior con cremallera, bolsillo interior con cremallera y bolsillos de malla
+- Dimensiones: 20 נ25,5 × 3,5 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08B5YZBRN{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tipo de tacón: sin tacón
+- Altura del tacón: 2 cm
 - Plantilla: sintético
 - Grupo de edad: adulto
-- Altura del tacón: 2 cm
-- Tipo de tacón: sin tacón
 - Material interior: textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

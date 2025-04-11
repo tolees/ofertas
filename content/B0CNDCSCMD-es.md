@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ALIVIO DE LA GARGANTA: El Jarabe para la Tos Herbion es una fuente de energía de extractos de hierbas, como el Malvavisco y el Regaliz que actúa eficazmente.
-- REFUERZA LA INMUNIDAD: Más vale prevenir que curar. El regaliz del jarabe también ayuda a reforzar el sistema inmunitario, para que tú y tus pequeños estéis sanos y salvos.
 - FAVORECE LA FUNCIÓN SANA DE LOS PULMONES: Endulzado naturalmente con miel, este Jarabe contiene Hisopo que favorece la secreción de esputo por las vías respiratorias y favorece la salud de los bronquios.
+- REFUERZA LA INMUNIDAD: Más vale prevenir que curar. El regaliz del jarabe también ayuda a reforzar el sistema inmunitario, para que tú y tus pequeños estéis sanos y salvos.
 - FÓRMULA PARA NIÑOS: Este jarabe, suave para el estómago, es adecuado para adultos y niños a partir de 13 meses. Su fórmula totalmente natural no es sedante, no contiene alcohol, frutos secos ni gluten.
 - ALIVIO NATURAL DE LA TOS: Este sabroso jarabe contiene una potente combinación de regaliz, nuez de Malabar, pimienta larga y una combinación de diferentes hierbas que alivian la tos.
+- ALIVIO DE LA GARGANTA: El Jarabe para la Tos Herbion es una fuente de energía de extractos de hierbas, como el Malvavisco y el Regaliz que actúa eficazmente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNDCSCMD{{</world>}}

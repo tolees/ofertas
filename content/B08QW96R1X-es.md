@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica con cordón
-- Tecnología Dri-Fit
-- Corte cónico
 - Material resistente y duradero
+- Cintura elástica con cordón
+- Corte cónico
+- Tecnología Dri-Fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QW96R1X{{</world>}}

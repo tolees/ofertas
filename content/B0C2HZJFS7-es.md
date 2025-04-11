@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Peso ligero
 - Cierre de cordones
+- Peso ligero
 - Tommy Hilfiger Marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

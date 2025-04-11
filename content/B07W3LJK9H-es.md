@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles: caballete mesa de madera con vetas naturales; aproximativo 37 x 17, 5 x 16, 5 cm
 - Elegante: caballete mesa para exhibir fotos, postales y menús de manera elegante
-- Ligero: el caballete para mesa se puede plegar y guardar sin apenas ocupar espacio
-- Ajustable: tornillos de mariposa para regular la inclinación; sistema de fijación ajustable
 - Mesa: caballete pintura para dibujar y pintar en lienzos de madera, papel de dibujo, etc
+- Ajustable: tornillos de mariposa para regular la inclinación; sistema de fijación ajustable
+- Detalles: caballete mesa de madera con vetas naturales; aproximativo 37 x 17, 5 x 16, 5 cm
+- Ligero: el caballete para mesa se puede plegar y guardar sin apenas ocupar espacio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W3LJK9H{{</world>}}

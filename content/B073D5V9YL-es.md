@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Comodidad para el día a día
 - La base adecuada para cualquier look
 - Costura de los dedos plana para evitar la irritación
 - Calcetines versátiles
-- Comodidad para el día a día
 - Algodón suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nostalgia Mejorada: Remake que rinde homenaje al clásico con gráficos impresionantes. Experimenta el terror renovado de la saga mientras luchas por sobrevivir en el House of the Dead Remake.
-- Mansión Infestada: Navega por la mansión infestada de Curien. Cada puerta es una entrada al horror, cada pasillo es un enfrentamiento mortal.
-- SOS desde el Laboratorio: Sophie Richards pide ayuda contra hordas. Thomas Rogan y Agente G responden. La misión: detener la resurrección de los muertos y rescatar al personal.
-- Disparos y Supervivencia: Combate incesante mientras esquivas hordas. La munición es escasa, la supervivencia es clave. ¡Apunta y dispara para salvar el día!
 - Locura Científica Desatada: Dr. Curien desciende a la locura, desatando zombis. Dos agentes del FBI enfrentan el horror en su búsqueda para detener la pesadilla.
+- Disparos y Supervivencia: Combate incesante mientras esquivas hordas. La munición es escasa, la supervivencia es clave. ¡Apunta y dispara para salvar el día!
+- SOS desde el Laboratorio: Sophie Richards pide ayuda contra hordas. Thomas Rogan y Agente G responden. La misión: detener la resurrección de los muertos y rescatar al personal.
+- Mansión Infestada: Navega por la mansión infestada de Curien. Cada puerta es una entrada al horror, cada pasillo es un enfrentamiento mortal.
+- Nostalgia Mejorada: Remake que rinde homenaje al clásico con gráficos impresionantes. Experimenta el terror renovado de la saga mientras luchas por sobrevivir en el House of the Dead Remake.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B4YDH3FP{{</world>}}

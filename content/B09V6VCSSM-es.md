@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseñado con Ultra Articulación con hasta 22 partes móviles para una gama completa de poses y juegos
-- Inncluye base y complementos
-- Incluye una tarjeta de arte coleccionable con la fotografía de la figura en el anverso y la biografía del personaje en el reverso
-- Colecciona todas las figuras del Multiverso DC de McFarlane Toys
 - Figura a escala de 18 centímetros detallada basada en el Multiverso DC
+- Colecciona todas las figuras del Multiverso DC de McFarlane Toys
+- Incluye una tarjeta de arte coleccionable con la fotografía de la figura en el anverso y la biografía del personaje en el reverso
+- Inncluye base y complementos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09V6VCSSM{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- SENSOR VENTANA ABIERTA. Función con inteligente sensor que detecta si hay una ventana abierta y se apaga automáticamente para un ahorro de energía.
 - 2000W. Calefactor de pared potente con 2000W de máxima potencia y 2 intensidades de calor más función ventilador. Alcanza la temperatura deseada rápidamente. Indicador para áreas de hasta 20m2. Cuenta con lamas oscilantes.
 - CALEFACTOR DE PARED. Calefactor de posición mural de 530 x 180 mm, incluye todo el kit necesario de instalación. Instalación fácil. Cuenta con lamas oscilantes para un mejor repartimiento del calor, con opción de ser activadas o no.
-- SENSOR VENTANA ABIERTA. Función con inteligente sensor que detecta si hay una ventana abierta y se apaga automáticamente para un ahorro de energía.
-- PROGRAMABLE. Con control remoto, indicador de temperatura ambiente y termostato ajustable hasta 49ºC para elegir la temperatura deseada. Se conecta y desconecta para mantener una temperatura estable. También se puede programar el funcionamiento del calefactor de forma diaria y semanal. Con temporizador 24h.
 - CALEFACTOR APTO PARA BAÑOS. Protección IP22 para su uso en espacios húmedos. RCMB27 es ideal para climatizar tu baño.
+- PROGRAMABLE. Con control remoto, indicador de temperatura ambiente y termostato ajustable hasta 49ºC para elegir la temperatura deseada. Se conecta y desconecta para mantener una temperatura estable. También se puede programar el funcionamiento del calefactor de forma diaria y semanal. Con temporizador 24h.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GP5RQHV{{</world>}}

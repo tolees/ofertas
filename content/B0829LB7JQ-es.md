@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Tacto suave
 - Cuello redondo
+- Ligera
 - Corte normal
 - Ventilación Climacool
-- Ligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0829LB7JQ{{</world>}}

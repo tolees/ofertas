@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Banda inferior de sujeción elástica
 - Sin relleno
+- Mezcla de algodón modal
 - Diseño​ con espalda de nadador
 - Sin copas, sin forro
-- Banda inferior de sujeción elástica
-- Mezcla de algodón modal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00LA138DO{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuenta con el cepillo multifunción, diseñado con cerdas y silicona de goma, para desincrustar todo tipo de suciedad que pueda haber en tu hogar. 4 niveles de potencia (Off, Eco, Normal y Turbo) y de fregado (Off, Bajo, Medio y Alto)
-- Cuenta con una autonomía de hasta 120 minutos y con la tecnología Total Surface que lleva al robot a su base cuando no le queda batería para recargarse y retomar la limpieza en el punto donde se quedó.
 - Potencia de succión de 3000 Pa, modo turbo automático para la limpieza de alfombras y fregado inteligente con 3 niveles de caudal de agua. Medido en el motor de succión con aspiración máxima de 2600 Pa.
 - Robot aspirador láser con base de autovaciado que barre, aspira, pasa la mopa y friega la totalidad de la superficie recorrida de forma inteligente. 6 modos de limpieza que se adaptan a todas tus necesidades de limpieza: auto, aleatorio, fregado, espiral, bordes y manual.
+- Cuenta con una autonomía de hasta 120 minutos y con la tecnología Total Surface que lleva al robot a su base cuando no le queda batería para recargarse y retomar la limpieza en el punto donde se quedó.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BPZTDNL8{{</world>}}

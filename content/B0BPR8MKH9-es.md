@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La entresuela y plantilla de espuma CX.
 - Plataforma alta con parte superior de lona.
+- La entresuela y plantilla de espuma CX.
 - Los refuerzos de tiras de goma distorsionadas garantizan estilo y comodidad cuando te quitas el zapato.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

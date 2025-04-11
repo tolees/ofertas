@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Panel de control compacto con 4 botones LED, botón de encendido, función de programación de 12 horas y tapa de seguridad
-- Sistema de saneamiento diseñado para evitar el uso de productos químicos, más económico, más ecológico y saludable para los bañistas y el medio ambiente
-- Potencia del motor 125 W, funciona con conexión a la corriente eléctrica 220-240 V, tecnología de 2 etapas: producción de cloro y electrólisis por oxidación
 - Adecuado para el mantenimiento del agua de piscinas desmontables INTEX de hasta 56 800 litros
+- Sistema de saneamiento diseñado para evitar el uso de productos químicos, más económico, más ecológico y saludable para los bañistas y el medio ambiente
 - Sistema de cloración salina ECO, produce 12 g/h de cloro natural, compatible con depuradoras INTEX de capacidad de filtración entre 2650 y 11 355 litros/hora
+- Panel de control compacto con 4 botones LED, botón de encendido, función de programación de 12 horas y tapa de seguridad
+- Potencia del motor 125 W, funciona con conexión a la corriente eléctrica 220-240 V, tecnología de 2 etapas: producción de cloro y electrólisis por oxidación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C9JL6RZ{{</world>}}

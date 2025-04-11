@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos laterales inclinados
 - Cordón ajustable
+- Bolsillos laterales inclinados
 - Cintura elástica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

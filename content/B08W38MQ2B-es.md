@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No recomendado para menores de 18 años
 - Aventura
+- No recomendado para menores de 18 años
 - Play Station 4
 
 [🛒 Visítala!!!]({{< param buyurl >}})

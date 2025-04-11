@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicación: su uso está indicado para el acristalamiento, el sellado de superficies no porosas, como vidrio, aluminio anodizado, metales o cerámica, y además contiene protección anti-moho.
-- Principales ventajas: excelente silicona acética para superficies no porosas, secado rápido, con fungicida, buena resistencia a productos de limpieza, excelente comportamiento ante agentes atmosféricos.
-- Modo de empleo: aplicar con pistola de silicona, para asegurar el pegado debe alisarse el producto con una espátula antes de la formación de una piel superficial, las zonas manchadas se limpian con un paño seco o con disolvente.
-- Tecnología: el elastómero mono-componente reticula al contactar con la humedad, transformándose en una masa elástica de muy buenas propiedades mecánicas y excelente comportamiento ante agentes externos.
 - Contenido: 1 x Silicona Universal Gris en tubo de 300 ml, sellador de juntas de dilatación, silicona líquida de uso universal en materiales no porosos, resistente al agua, color gris, de fischer.
+- Principales ventajas: excelente silicona acética para superficies no porosas, secado rápido, con fungicida, buena resistencia a productos de limpieza, excelente comportamiento ante agentes atmosféricos.
+- Aplicación: su uso está indicado para el acristalamiento, el sellado de superficies no porosas, como vidrio, aluminio anodizado, metales o cerámica, y además contiene protección anti-moho.
+- Tecnología: el elastómero mono-componente reticula al contactar con la humedad, transformándose en una masa elástica de muy buenas propiedades mecánicas y excelente comportamiento ante agentes externos.
+- Modo de empleo: aplicar con pistola de silicona, para asegurar el pegado debe alisarse el producto con una espátula antes de la formación de una piel superficial, las zonas manchadas se limpian con un paño seco o con disolvente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MTXS5YF{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Team Up! Experience the thrill of teamwork as you battle villains and de-evilize akumas together in local co-op.
-- Discovery! Explore the streets of Paris as Marinette and Adrien and uncover the story behind their alter-ego’s Ladybug and Cat Noir.
 - Super Gadgets! Use Ladybug’s fast flinging yo-yo and Cat Noir’s magical versatile staff to swing or vault into battle! Upgrade the gadgets to unlock powerful new moves!
-- More Villains! Come face to face with familiar villains Hawk Moth, Gamer, Weredad, and Mr. Pigeon, and some new enemies too!
+- Discovery! Explore the streets of Paris as Marinette and Adrien and uncover the story behind their alter-ego’s Ladybug and Cat Noir.
 - Epic Adventure! Immerse yourself in an original story as you take control of everyone’s favorite heroes, Ladybug and Cat Noir.
+- Team Up! Experience the thrill of teamwork as you battle villains and de-evilize akumas together in local co-op.
+- More Villains! Come face to face with familiar villains Hawk Moth, Gamer, Weredad, and Mr. Pigeon, and some new enemies too!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCQYWLQ1{{</world>}}

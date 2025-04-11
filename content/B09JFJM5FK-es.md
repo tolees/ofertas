@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de base: con base / enchufe T5, apto para cuña T5 tipo 3528 17 18 27 37 58 70 73 74 79 85 86206207286306307308406407 2721 etc.
 - Consejo cálido: algunos modelos de automóviles vienen con una pantalla de color que hará que el color de la iluminación sea muy diferente, lo cual es un fenómeno físico, es muy normal.
-- Súper brillante: flujo luminoso: 100 lm/bombilla. Color: Blanco/Amarillo/Rojo/Azul/Verde. Voltaje de trabajo: 12V. Potencia: 0,5 W/bombilla. 1 Uds. Chips LED 5050-SMD, mucho más brillantes que las bombillas halógenas.
 - Fácil instalación: simplemente conéctelo y juegue en pocos minutos, no necesita cableado, sin herramientas. Reemplazo de bombillas halógenas, verifique la base / enchufe de la bombilla halógena original en su automóvil antes de comprar.
 - Uso multifuncional: las bombillas LED T5 se pueden utilizar como velocímetro, luz de tacómetro, luces del tablero, indicador de grupo de medidores, indicador de cambio, luz lateral, luz indicadora, luz de instrumento; Lámpara indicadora de aire acondicionado, luz de consola central, luz interior, luces de lectura, luz de espejo de vanidad, luz de guantera y más.
+- Súper brillante: flujo luminoso: 100 lm/bombilla. Color: Blanco/Amarillo/Rojo/Azul/Verde. Voltaje de trabajo: 12V. Potencia: 0,5 W/bombilla. 1 Uds. Chips LED 5050-SMD, mucho más brillantes que las bombillas halógenas.
+- Tipo de base: con base / enchufe T5, apto para cuña T5 tipo 3528 17 18 27 37 58 70 73 74 79 85 86206207286306307308406407 2721 etc.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09JFJM5FK{{</world>}}

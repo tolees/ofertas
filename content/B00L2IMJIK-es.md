@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NORMATIVAS: UNE 23033:1981 Seguridad contra incendios sobre colores, formas y significado de las señales, apoyada en la norma ISO 7010:2012., UNE 23034:1988, Señales contra incendios, vías de evacuación., UNE 23035/4:2003 Seguridad contra incendios., Real decreto 314/2006 Código técnico de la edificación. / LAS SEÑALES NORMALUZ SE FABRICAN CON SISTEMA DE GESTIÓN DE CALIDAD CERTIFICADA UNE-EN ISO 9001.
 - SEÑALES NORMALUZ CLASE B: Resto de instalaciones (locales comerciales, naves, oficinas, edificios, etc)
-- FABRICACIÓN EN DIFERENTES MATERIALES: Aluminio de 0,5 mm termolacado, recomendado para exteriores, Acero inoxidable autoadhesivo, PVC glasspack de primera calidad, recomendado para interior, 0,4 mm, extinción, selección 05 Clase B, 0,7 mm, extinción, evacuación y riesgos laborales, 1 mm, extinción y evacuación Clase A, Vinilo adhesivo, recomendado para interior, Declarado conforme a la normativa RoSH. / La duración de la luminiscencia es superior a lo establecido por la norma
 - LAS IMÁGENES SON MERAMENTE ILUSTRATIVAS Y PUEDEN NO CORRESPONDER NECESARIAMENTE CON LA CLASE O MATERIAL DE LA SEÑAL SELECCIONADA
+- FABRICACIÓN EN DIFERENTES MATERIALES: Aluminio de 0,5 mm termolacado, recomendado para exteriores, Acero inoxidable autoadhesivo, PVC glasspack de primera calidad, recomendado para interior, 0,4 mm, extinción, selección 05 Clase B, 0,7 mm, extinción, evacuación y riesgos laborales, 1 mm, extinción y evacuación Clase A, Vinilo adhesivo, recomendado para interior, Declarado conforme a la normativa RoSH. / La duración de la luminiscencia es superior a lo establecido por la norma
 - SEÑALES NORMALUZ CLASE A: Se instalarán en edificios con ausencia de luz natural o de concentración pública (estaciones, centros comerciales, aparcamientos, subterráneos, estadios, etc)
+- NORMATIVAS: UNE 23033:1981 Seguridad contra incendios sobre colores, formas y significado de las señales, apoyada en la norma ISO 7010:2012., UNE 23034:1988, Señales contra incendios, vías de evacuación., UNE 23035/4:2003 Seguridad contra incendios., Real decreto 314/2006 Código técnico de la edificación. / LAS SEÑALES NORMALUZ SE FABRICAN CON SISTEMA DE GESTIÓN DE CALIDAD CERTIFICADA UNE-EN ISO 9001.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00L2IMJIK{{</world>}}

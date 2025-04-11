@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Automático
 - Verde y metálico
-- Deportivo
 - Analógico en acero inoxidable para hombre
+- Deportivo
+- Automático
 - Wr 200mt
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalón elástico para mayor comodidad
 - Amplios bolsillos para las pelotas
 - Pantalón corto de poliéster
 - El diseño otorga libertad a los movimientos
+- Pantalón elástico para mayor comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01ERS6XH4{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela de tracción flexible
-- 1 1/4 pulgadas de altura
 - Estilo atlético con cordones con un tejido diseñado y parte superior sintética
+- 1 1/4 pulgadas de altura
 - Skechers y detalles del logotipo Arch Fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})

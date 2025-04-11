@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 5 POCKET Fit
 - DENIM STRETCH
+- 5 POCKET Fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08CVNFS7C{{</world>}}

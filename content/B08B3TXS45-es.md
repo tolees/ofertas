@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ojales transpirables
+- Cocodrilo a tono bordado en el lateral
 - Piqué de algodón orgánico
 - Pespuntes decorativos
-- Cocodrilo a tono bordado en el lateral
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08B3TXS45{{</world>}}

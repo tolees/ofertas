@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Marca: Facom
+- Mecanismo con mango rotativo: trabaje el doble de rápido incluso en las zonas de acceso difícil
 - Recuperación 6° para apriete final
 - Sistema "palma de mano", permite apoyarse sobre la cabeza del trinquete durante el (des)apriete sin riesgo de inversión accidental del sentido de rotación
-- Mecanismo con mango rotativo: trabaje el doble de rápido incluso en las zonas de acceso difícil
-- Marca: Facom
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0051ABEZY{{</world>}}

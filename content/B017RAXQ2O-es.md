@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Antiadherente
-- Apto Horno
 - Apto lavavajillas
+- Apto Horno
+- Antiadherente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B017RAXQ2O{{</world>}}

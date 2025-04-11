@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuello redondo
+- No te pongas límites
+- Tejido ligero muy transpirable
 - Corte clásico
 - Punto doble 100% poliéster reciclado
-- Cuello redondo
-- Tejido ligero muy transpirable
-- No te pongas límites
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQWGZ34C{{</world>}}

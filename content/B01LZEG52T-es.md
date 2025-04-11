@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3 perfiles en la aplicación; bebé, persona con asma, general
+- Consejos sobre cómo crear un ambiente saludable
 - Nivel de calidad del aire, humedad y temperatura, ruido
 - Notificaciones en tiempo real, ios 9 o superior para iphone, ipad, ipod, android 2 o superior
 - Conecta múltiples home coach a tu smartphone; para controlar varias habitaciones
-- Consejos sobre cómo crear un ambiente saludable
+- 3 perfiles en la aplicación; bebé, persona con asma, general
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01LZEG52T{{</world>}}

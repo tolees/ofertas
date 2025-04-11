@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalones vaqueros de 5 bolsillos con aspecto masculino.
 - Materiales: 98% algodón, 2% elastano
+- Pantalones vaqueros de 5 bolsillos con aspecto masculino.
 - Color plateado.
 - Aspecto natural gracias a su fabricación artesanal.
 

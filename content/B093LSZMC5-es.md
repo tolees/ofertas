@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligero
 - Cómodo
+- Ligero
 - Casual
 - Lavable a máquina
 - Estilo de moda

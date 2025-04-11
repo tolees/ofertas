@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema de bloqueo de la hoja
-- Falsa escuadra H1225
 - Hoja de acero niquelado deslizante
 - Talón de material sintético moldeado para un óptima sujeción
+- Sistema de bloqueo de la hoja
+- Falsa escuadra H1225
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B002V53UKE{{</world>}}

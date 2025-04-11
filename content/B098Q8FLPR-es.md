@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hackett Essential
 - Estilo casual
+- Hackett Essential
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098Q8FLPR{{</world>}}

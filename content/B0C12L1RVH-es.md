@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Secar en secadora a baja temperatura
-- Cuello acanalado
 - Tejido súper suave de mezcla de algodón que proporciona comodidad durante todo el día
+- Cuello acanalado
+- Secar en secadora a baja temperatura
 - Corte más completo para una comodidad completa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

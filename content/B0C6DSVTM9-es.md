@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suela exterior: __ suela de goma con impresión ROXY
 - Material exterior: suave TPU impreso en la parte superior con pin de logotipo de metal
 - Plantilla de goma con gráficos
-- Suela exterior: __ suela de goma con impresión ROXY
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C6DSVTM9{{</world>}}

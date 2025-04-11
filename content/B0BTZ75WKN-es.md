@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1 bote de cardamomo
-- 1 bote de canela y 1 bote de enebro.
 - bote de pimienta rosa,
-- Capacidad de la copa: 70 cl.
 - Kit para gin tonic, compuesto de una copa de balón y 4 botes de especias y botánicos para usarlos como aderezos:
+- Capacidad de la copa: 70 cl.
+- 1 bote de canela y 1 bote de enebro.
+- 1 bote de cardamomo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTZ75WKN{{</world>}}

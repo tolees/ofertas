@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vuelve a encontrarte con tus personajes favoritos
 - Fiel a la obra original
+- Vuelve a encontrarte con tus personajes favoritos
 - La flor
 
 [🛒 Comprar!!!]({{< param buyurl >}})

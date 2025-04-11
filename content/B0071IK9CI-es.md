@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disposición perfecta en el práctico depósito de clasificación
-- Buena sujeción del tornillo mediante el imán integrado en el adaptador
 - Puntas de atornillar codificadas por colores para una buena y sencilla elección
 - Puntas de atornillar duraderas para 5 tipos de cabeza de tornillo en 20 tamaños convencionales
+- Buena sujeción del tornillo mediante el imán integrado en el adaptador
 - Buena sujeción y cambio rápido de las puntas de atornillar
+- Disposición perfecta en el práctico depósito de clasificación
 - Apropiadas para todas las marcas de herramientas eléctricas y destornilladores manuales
 - Incluye: 19 puntas de atornillar con codificación por colores; 5 llaves de vaso; 1 trinquete (giro reversible); 1 soporte universal de cambio rápido, magnético 1 adaptador para llave de vaso
 

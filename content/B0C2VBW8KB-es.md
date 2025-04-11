@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lengüeta plegable
 - Contraste PUMA Formstrip en el lateral
 - Suela de goma multitachonada de perfil bajo
+- Lengüeta plegable
 - PUMA Logo de gato en el talón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de malla técnica
-- Escapa de la rutina
-- Diseño concebido para ofrecer mayor amortiguación y respuesta
-- Cierre de cordones
 - Horma clásica
+- Cierre de cordones
+- Parte superior de malla técnica
+- Diseño concebido para ofrecer mayor amortiguación y respuesta
+- Escapa de la rutina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2QR939R{{</world>}}

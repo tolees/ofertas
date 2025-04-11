@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Diseño compacto.
 - Compartimento conservador interior. Enfría en mucho menos tiempo bebidas que necesites rápido, o congela alimentos para mantenerlos mejor, de 0ºC a -6ºC.
 - Temperatura regulable en 5 niveles, tanto en el congelador como en la nevera. Se adapta a tus necesidades y preferencias en tus bebidas o alimentos.
-- Gran capacidad de 90 litros. Gran espacio interior. No te preocupes por falta de espacio. Puerta reversible, se adapta a cualquier estancia.
 - Cinco estantes de almacenaje, tres en la puerta y dos interiores. Aprovechamiento óptimo del espacio.
+- Gran capacidad de 90 litros. Gran espacio interior. No te preocupes por falta de espacio. Puerta reversible, se adapta a cualquier estancia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B61MW24G{{</world>}}

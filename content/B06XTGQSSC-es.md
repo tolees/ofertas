@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Potente y de alta calidad: 2 quemadores en acero aluminizado de alto rendimiento (7,1 kW); parrilla barbacoa con piezo para un fácil encendido
 - Almacenamiento y transporte: 2 prácticas mesas laterales plegables y ruedas con bloqueo para almacenarla la barbacoa cuando no se use
-- Barbacoa con carro de acero: con frontal en textil; tapa de acero con asa grande que permite una fácil apertura
 - Especificaciones: superficie de cocción de 1.500 cm²; altura de cocina: 85 cm; consumo de gas 515g/h; peso 17 kg
 - Infinitas de opciones de cocinado: Superficie de cocción con parrilla esmaltada (45 x 35 cm); asador de pollos con tapa abierta opcional (necesita accesorio no incluido)
-- Potente y de alta calidad: 2 quemadores en acero aluminizado de alto rendimiento (7,1 kW); parrilla barbacoa con piezo para un fácil encendido
+- Barbacoa con carro de acero: con frontal en textil; tapa de acero con asa grande que permite una fácil apertura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XTGQSSC{{</world>}}

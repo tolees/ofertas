@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Largo: normal
-- Pernera: Regular, corte cómodo y atemporal con la pernera recta
+- Pantalón cargo de tejido elástico con dos bolsillos al bies, dos bolsillos superpuestos con solapa y dos por detrás.
 - Lavar en ciclo de lavado suave a 30°, No usar lejía, No secar en la secadora, Planchar a un máx. 150° (Nivel 2), No limpiar en seco
 - Nota: la prenda tiene un corte más holgado y queda un poco más grande.
-- Corte: Regular Fit, corte clásico
-- Pantalón cargo de tejido elástico con dos bolsillos al bies, dos bolsillos superpuestos con solapa y dos por detrás.
 - Cierre: con botones y cremallera
+- Largo: normal
+- Pernera: Regular, corte cómodo y atemporal con la pernera recta
+- Corte: Regular Fit, corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BLLK2GFG{{</world>}}

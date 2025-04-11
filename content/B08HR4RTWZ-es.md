@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Protección】La funda protectora moldeada Adidas Originals cuenta con una incrustación similar a la piel para garantizar que tu teléfono esté protegido de golpes, caídas y arañazos.
 - 【Fácil acceso】 Nuestras fundas para teléfono adidas para iPhone 12 Mini 5.4 son compatibles con la base de carga. Tendrás fácil acceso a todas las funciones y puertos del teléfono. Utiliza tu cargador de iPhone sin la necesidad de quitar la funda.
-- 【 Ajuste de la muñeca】 La funda protectora para iPhone 12 Mini 5.4 Adidas cuenta con una ranura en el borde que permite una fijación de pulsera.
 - 【ICONICO】 La funda protectora para iPhone 12 Mini 5.4 Adidas cuenta con nuestro icónico logotipo de trébol impreso en la parte delantera en diseño de contraste.
+- 【Protección】La funda protectora moldeada Adidas Originals cuenta con una incrustación similar a la piel para garantizar que tu teléfono esté protegido de golpes, caídas y arañazos.
+- 【 Ajuste de la muñeca】 La funda protectora para iPhone 12 Mini 5.4 Adidas cuenta con una ranura en el borde que permite una fijación de pulsera.
 - Diseño: la funda protectora para iPhone 12 Mini 5.4 Adidas cuenta con nuestras icónicas 3 rayas con costuras de alta calidad en la parte posterior.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

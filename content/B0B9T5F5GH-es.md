@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reduces breakage
 - 1 Detangling Hairbrush, 1 Massaging Shampoo Brush & 1 Luxury Hair Towel Wrap
-- Kind to the hair
-- PETA Approved - cruelty-free & vegan friendly
 - Shower hair care essentials
+- PETA Approved - cruelty-free & vegan friendly
+- Reduces breakage
+- Kind to the hair
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B9T5F5GH{{</world>}}

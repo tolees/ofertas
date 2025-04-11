@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Clase de protección: IP20
-- Base enchufable G24d de 2 pines de un solo lado
 - Sustitución de LED para lámparas fluorescentes compactas convencionales en lámparas KVG o con tensión de red
 - Base giratoria alrededor de su eje longitudinal (± 90°)
 - Vida útil: hasta 30 000 h
+- Clase de protección: IP20
+- Base enchufable G24d de 2 pines de un solo lado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B097NCX8QW{{</world>}}

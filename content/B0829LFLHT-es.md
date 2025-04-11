@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
 - Tacto suave
-- Punto 65% poliéster reciclado / 35% algodón
 - Camiseta ligera
+- Punto 65% poliéster reciclado / 35% algodón
+- Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0829LFLHT{{</world>}}

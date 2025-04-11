@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apta para el microondas y el lavavajillas.
-- Capacidad: 37cl.
-- Material: Cerámica
-- Taza con mensaje para familiar "Esta prima mola un montón y la quiero mogollón"
 - Sorprende a una de las personas mas importantes de tu vida con esta genial taza.
+- Capacidad: 37cl.
+- Apta para el microondas y el lavavajillas.
+- Taza con mensaje para familiar "Esta prima mola un montón y la quiero mogollón"
+- Material: Cerámica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BJFBTBY3{{</world>}}

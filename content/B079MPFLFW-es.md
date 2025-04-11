@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Producto original. Somos un vendedor autorizado de Emporio Armani.
 - Emporio Armani - Pijama con cremallera y logotipo en el pecho, color azul
 - Para más información, consulta la descripción del producto.
-- Producto original. Somos un vendedor autorizado de Emporio Armani.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079MPFLFW{{</world>}}

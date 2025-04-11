@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 38 mm
-- Tejido de cuero sintético de tacto suave
 - Hebilla de dientes con logo grabado
+- Tejido de cuero sintético de tacto suave
 - Cinturón
 - Trabillas de cinturón con el logo grabado
+- 38 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08RK3F28Z{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela original de waffle
-- Patrón sin cordones
 - Construcción vulcanizada
+- Patrón sin cordones
+- Suela original de waffle
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08M441QCS{{</world>}}

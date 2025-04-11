@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre delantero
 - Pantalones clásicos
 - Color liso
 - Composición: 64% viscosa; 31% poliéster; 5% elastano
+- Cierre delantero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BCR2SLYD{{</world>}}

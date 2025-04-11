@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo licencia de la franquicia Dragon Ball
 - Artículo de librería
 - Cuaderno de tapa dura
+- Bajo licencia de la franquicia Dragon Ball
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XF1TXKS{{</world>}}

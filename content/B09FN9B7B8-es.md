@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- BÁSICOS PARA EL DÍA A DÍA: Camisetas de manga larga con cuello redondo para el día a día. La prenda interior perfecta para el armario de los más pequeños.
-- AJUSTE HOLGADO: Ajuste holgado y cómodo en todo el cuerpo
-- ALGODÓN JERSEY: Producto confeccionado en ligero algodón jersey 100 % con elasticidad y transpirabilidad naturales. Es un básico de armario cómodo y suave.
 - PRODUCTO CON LICENCIA OFICIAL: Amazon Essentials ofrece productos únicos con tus personajes favoritos para que añadas maravillas a tu armario. Todos los productos tienen licencia oficial y son de diseño propio.
+- BÁSICOS PARA EL DÍA A DÍA: Camisetas de manga larga con cuello redondo para el día a día. La prenda interior perfecta para el armario de los más pequeños.
+- ALGODÓN JERSEY: Producto confeccionado en ligero algodón jersey 100 % con elasticidad y transpirabilidad naturales. Es un básico de armario cómodo y suave.
+- AJUSTE HOLGADO: Ajuste holgado y cómodo en todo el cuerpo
 - DETALLES: Mangas largas y cuello redondo sin etiqueta; los paquetes incluyen una mezcla de estampados y diseños.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

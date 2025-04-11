@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido elástico de punto acado
-- Manga corta
-- Ribete de lechuga en Puños y dobladillo
 - Cuello redondo con pequeño detalle de lazo en la parte delantera
+- Manga corta
+- Tejido elástico de punto acado
+- Ribete de lechuga en Puños y dobladillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B081K9RHK4{{</world>}}

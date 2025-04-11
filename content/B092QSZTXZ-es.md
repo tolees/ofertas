@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gran rejugabilidad con ramificaciones en cada fase
-- 4 modos de juego y escenarios completamente nuevos y exclusivos
+- El Cañón Burst Versátil añade profundidad estratégica a la serie
 - Cooperativo local con hasta 4 jugadores
 - Gráficos modernos en HD y una gran banda sonora atmosférica
-- El Cañón Burst Versátil añade profundidad estratégica a la serie
+- 4 modos de juego y escenarios completamente nuevos y exclusivos
+- Gran rejugabilidad con ramificaciones en cada fase
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B092QSZTXZ{{</world>}}

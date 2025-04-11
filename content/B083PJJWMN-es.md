@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Colecciona otras figuras de avengers bend and flex, incluidos iron man, captain america y black panther para una diversión "flextástica"; las figuras adicionales se venden por separado; sujetas a disponibilidad
 - Diviértete exhibiendo y retorciendo estas figuras de iron patriot y thanos en poses de acción creativas y nuevas; las figuras bend and flex indudablemente rompen el molde cuando se trata de poses de acción flexibles
-- Diversión épica con giros y vueltas; estas figuras de 15.cm bend and flex de iron patriot y thanos tienen brazos y piernas flexibles que pueden retorcerse y doblarse en muchas poses creativas
 - Mantén esa poderosa postura; además cada figura flexible incluye un accesorio blast para mejorar la figura en la postura perfecta
+- Diversión épica con giros y vueltas; estas figuras de 15.cm bend and flex de iron patriot y thanos tienen brazos y piernas flexibles que pueden retorcerse y doblarse en muchas poses creativas
 - Imagina unirte a batallas épicas con estas figuras, de iron patriot y thanos con diseño clásico inspirado en el universo marvel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

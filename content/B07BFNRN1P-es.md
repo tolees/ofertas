@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Familia de mascotas: perro.
-- Talla de la mascota: mediana y grande.
 - Edad de la mascota: adulto, niño, anciano.
+- Talla de la mascota: mediana y grande.
+- Familia de mascotas: perro.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BFNRN1P{{</world>}}

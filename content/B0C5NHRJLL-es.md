@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mediasuela Bounce
-- Forro textil
 - El estilo del running que va contigo
 - Cierre de cordones
+- Forro textil
 - Parte superior de malla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

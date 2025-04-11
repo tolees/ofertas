@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Lavar en ciclo de lavado suave a 30°, No usar lejía, No secar en la secadora, Planchar a un máx. 110° (Nivel 1), No limpiar en seco
-- Nota: la prenda posee un corte más entallado y queda un poco más ajustada.
 - Camiseta de rayas en punto suave.
+- Nota: la prenda posee un corte más entallado y queda un poco más ajustada.
 - Largo de manga: corta
 - Escote: redondo
 

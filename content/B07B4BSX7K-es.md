@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El regalo perfecto
-- Brain activator es el sello de carácter educativo de science4you
-- Poner en marcha circuitos e interruptores
 - 11 experimentos
-- Aprender cómo recrear fantásticos experimentos de científicos famosos
+- Poner en marcha circuitos e interruptores
 - Libro educativo con 36 páginas
 - Crees que tienes un pequeño científico en casa
-- 👁 Mira cómo se divierte a aprender con science4you
+- El regalo perfecto
 - Hacer divertidas carreras de latas y poner a levitar una serpiente
+- Aprender cómo recrear fantásticos experimentos de científicos famosos
+- 👁 Mira cómo se divierte a aprender con science4you
+- Brain activator es el sello de carácter educativo de science4you
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07B4BSX7K{{</world>}}

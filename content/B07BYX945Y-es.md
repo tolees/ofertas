@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El producto aplicado se seca creando una película impermeable al agua que protege contra infecciones de hongos y bacterias
-- Pasta cicatrizante que actúa como protector en el tratamiento de heridas y cortes de poda y en la protección de injertos de vid, frutales y ornamentales
-- Modo de empleo: sanear la herida eliminando partes secas o infectadas, aplicar el producto directamente mediante el pincel hasta cubrir la superficie con una capa gruesa, No aplicar en tiempo lluvioso o con temperaturas inferiores a 5°C
-- Contenido: 1 x COMPO Pasta cicatrizante, Para heridas de poda y protección de injertos, Con pincel aplicador, 250 g
 - Eficaz en todo tipo de plantas, Composición: elastómero acrílico en suspensión acuosa, Lavar los utensilios con agua antes de que se seque el producto o con disolvente universal
+- Contenido: 1 x COMPO Pasta cicatrizante, Para heridas de poda y protección de injertos, Con pincel aplicador, 250 g
+- El producto aplicado se seca creando una película impermeable al agua que protege contra infecciones de hongos y bacterias
+- Modo de empleo: sanear la herida eliminando partes secas o infectadas, aplicar el producto directamente mediante el pincel hasta cubrir la superficie con una capa gruesa, No aplicar en tiempo lluvioso o con temperaturas inferiores a 5°C
+- Pasta cicatrizante que actúa como protector en el tratamiento de heridas y cortes de poda y en la protección de injertos de vid, frutales y ornamentales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BYX945Y{{</world>}}

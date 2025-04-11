@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: placa multifunción para montañismo
 - Producto de calidad
-- Número de producto: 856B00200KK
 - Color: turquesa
+- Número de producto: 856B00200KK
+- Tipo de producto: placa multifunción para montañismo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B016VL87HO{{</world>}}

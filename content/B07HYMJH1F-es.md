@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Antepié perforado, líneas largas y limpias.
-- zapatillas inspiradas en los años 8
 - entresuela texturizada
+- zapatillas inspiradas en los años 8
+- Antepié perforado, líneas largas y limpias.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07HYMJH1F{{</world>}}

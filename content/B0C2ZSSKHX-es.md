@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos traseros con ribetes simples
 - Bolsillos insertados, costuras decorativas
-- Cintura mediana
-- Bragueta con cremallera
 - Bolsillo para monedas en la costura lateral
+- Bragueta con cremallera
+- Bolsillos traseros con ribetes simples
+- Cintura mediana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2ZSSKHX{{</world>}}

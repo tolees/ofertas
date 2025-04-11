@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Control del polvo durante el trabajo: La protección de ajuste rápido fácilmente regulable controla la dirección del polvo y de las chispas para una mayor comodidad al trabajar desde cualquier ángulo
-- Cambio del disco de la amoladora angular de forma rápida y fácil: solo hay que presionar el botón de bloqueo, sin necesidad de ningún equipamiento adicional. El husillo permanece bloqueado cuando la herramienta no está en uso
-- Uso versátil en distintos materiales: La herramienta está concebida para amolar, cortar y cepillar en metal, piedra, bloques de hormigón y azulejos
 - Seguridad mejorada: La protección contra rearranque es una medida de seguridad que impide que la herramienta vuelva a ponerse en marcha automáticamente después de un corte de suministro o una pérdida de potencia accidental
+- Uso versátil en distintos materiales: La herramienta está concebida para amolar, cortar y cepillar en metal, piedra, bloques de hormigón y azulejos
+- Cambio del disco de la amoladora angular de forma rápida y fácil: solo hay que presionar el botón de bloqueo, sin necesidad de ningún equipamiento adicional. El husillo permanece bloqueado cuando la herramienta no está en uso
 - incluye: PWS 750-115, en caja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

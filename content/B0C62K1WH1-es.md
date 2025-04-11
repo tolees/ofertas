@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Optimo para la vuelta al col
-- Sacapuntas con depósito
 - Panda rojo de caucho
+- Sacapuntas con depósito
+- Optimo para la vuelta al col
 - Una margarita Mr; wonderful
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

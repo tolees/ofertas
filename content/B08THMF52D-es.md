@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Machine Wash Cold Inside Out, Very Mild
+- Legging slim gris con parches de mariposas y un corazón de tinta plateada en el tobillo. Nueva colección Kids OI21 Desigual.
 - Desigual Kids - Legging slim con parches de mariposas
 - Parches de mariposas en un tobillo
 - Corazón estampado en tinta plateada en un tobillo
-- Legging slim gris con parches de mariposas y un corazón de tinta plateada en el tobillo. Nueva colección Kids OI21 Desigual.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08THMF52D{{</world>}}

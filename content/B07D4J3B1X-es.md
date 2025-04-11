@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Llave de impacto a batería Litio-ion de 18V con potente motor BL sin escobillas que proporciona 180Nm de par de apriete .
+- Tamaño reducido comparable a un 10,8V, ligera y sencilla de trabajar.
+- Parte delantera protegida con elastómero.
+- Doble LED de iluminación, se enciende automáticamente al pulsar el gatillo. Se puede desactivar pulsando el botón selector.
+- Velocidad variable en el gatillo
+- Inserción de 3/8”, perfecta para vasos hasta M16.
 - Muy ergonómica, con elastómero antideslizante.
 - Par máx. de apriete: 180 Nm
-- Llave de impacto a batería Litio-ion de 18V con potente motor BL sin escobillas que proporciona 180Nm de par de apriete .
-- Doble LED de iluminación, se enciende automáticamente al pulsar el gatillo. Se puede desactivar pulsando el botón selector.
-- Parte delantera protegida con elastómero.
-- Tamaño reducido comparable a un 10,8V, ligera y sencilla de trabajar.
-- Inserción de 3/8”, perfecta para vasos hasta M16.
-- Velocidad variable en el gatillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07D4J3B1X{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regular
+- Patrón de rayas
 - Corte recto
+- Regular
 - Bordes acanalados
 - Cuello redondo
-- Patrón de rayas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RKJB1Y5{{</world>}}

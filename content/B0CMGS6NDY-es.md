@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INSTRUCCIONES DE LAVADO: No limpiar la espuma. Funda lavable a máquina en agua fría con un detergente apto para mascotas.
 - CONSTRUCCION INDIVIDUAL: EHEYCIGA cama perro está hecha de esponjas trocitas, que consiste en espuma viscoelástica de gel frío y esponja certificado de oeko tex y certipur. EHEYCIGA cama para perros proporciona un apoyo superior para las mascotas.
 - MÚLTIPLES TAMAÑOS Y APLICACIONES VERSÁTILES: Hay 6 opciones de tamaño diferentes disponibles, adecuadas para varios tipos de mascotas. Además, EHEYCIGA colchon perro se puede utilizar en varios lugares, como interiores, exteriores, coches, jaulas para perros y más.
+- INSTRUCCIONES DE LAVADO: No limpiar la espuma. Funda lavable a máquina en agua fría con un detergente apto para mascotas.
 - CUIDADO: EHEYCIGA cama perros está comprimido para enviar. Déjelo reposar durante 24-48 horas después de abrir el paquete para que recupere su forma. Se recomienda agitarlo o darle palmaditas antes de usarlo para ayudar a que el relleno se recupere de manera uniforme. Además, seca en secadora a baja temperatura durante 5-10 minutos ayudará a que la esponja se recupere rápidamente.
 - FUNDA IMPERMEABLE: La funda está formada por tres capas, la capa superficial está hecha de tela de lino sintético, la capa intermedia está recubierta con TPU y la capa posterior está hecha de tela impermeable.
 

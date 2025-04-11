@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Compatible con tecnología Apple HomeKit
-- Mide la temperatura ambiente y la intensidad de la luz
-- Fácil de instalar en pared o superficie
 - Alimentación: 1x batería (CR123A)
+- Fácil de instalar en pared o superficie
 - Detecta movimiento un sensor pasivo de infrarrojos, así como manipulación gracias a su acelerómetro
+- Mide la temperatura ambiente y la intensidad de la luz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N0SG36A{{</world>}}

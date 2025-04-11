@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ideal para su uso en el taller o en el hogar
-- Con agujeros ranurados en el gabinete para facilitar el montaje en la pared
 - Tiene unas dimensiones de 260 x 160 x 230 mm
+- Con agujeros ranurados en el gabinete para facilitar el montaje en la pared
 - Fabricado en plástico resistente a los impactos
 - Con 12 cajones
 

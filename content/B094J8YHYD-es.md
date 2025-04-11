@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Explore nuestra gama de productos
-- Las réplicas más exactas que puedas encontrar de estos personajes
-- Figura de 15 centímetros articulada
 - Figura del distribuidor oficial
+- Explore nuestra gama de productos
+- Figura de 15 centímetros articulada
+- Las réplicas más exactas que puedas encontrar de estos personajes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B094J8YHYD{{</world>}}

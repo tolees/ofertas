@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte entallado
-- Diseño estándar de cinco bolsillos
 - Bragueta de botón
+- Diseño estándar de cinco bolsillos
 - Lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

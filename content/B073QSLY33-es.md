@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Menor desarrollo de calor (en comparación con el producto de referencia estándar)
-- Consumo de energía 5 kWh / 1000h a 350 lm
 - Larga vida útil: hasta 15000 horas y hasta 100000 ciclos de conmutación
-- Inmediatamente a plena luz, sin tiempo de calentamiento Reemplazo simple de lámparas halógenas, reemplazo real para una lámpara puntual convencional de 50 W (uso en exteriores solo en luminarias adecuadas)
 - Luz blanca cálida para el bienestar y la relajación en salas de estar, dormitorios y habitaciones infantiles.
+- Inmediatamente a plena luz, sin tiempo de calentamiento Reemplazo simple de lámparas halógenas, reemplazo real para una lámpara puntual convencional de 50 W (uso en exteriores solo en luminarias adecuadas)
+- Consumo de energía 5 kWh / 1000h a 350 lm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B073QSLY33{{</world>}}

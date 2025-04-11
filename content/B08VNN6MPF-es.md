@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Felpa 70% algodón / 30% poliéster reciclado
 - Bolsillo canguro
-- Corte clásico
 - Capucha con cordón ajustable
+- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08VNN6MPF{{</world>}}

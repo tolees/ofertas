@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fijación: XLC Carry More.
-- Tipo: portaequipajes para sistema portaequipajes.
 - Categoría: bolsas para bicicleta.
+- Tipo: portaequipajes para sistema portaequipajes.
+- Fijación: XLC Carry More.
 - Uso: ciudad/trekking.
 - Resistente al agua y a prueba de salpicaduras: sí.
 

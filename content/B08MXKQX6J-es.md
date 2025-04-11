@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Imágenes mejoradas
-- Multijugador con plataforma cruzada y autolog
 - Coches exóticos con armas
 - Incluido el DLC principal y más actualizaciones
+- Multijugador con plataforma cruzada y autolog
 - Persigue y escapa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

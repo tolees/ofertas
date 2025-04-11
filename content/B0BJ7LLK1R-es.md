@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Polo BOSS de corte ajustado
 - El polo suave está hecho de piqué de algodón elástico
 - En el pecho hay un parche con logotipo tonal.
-- Polo BOSS de corte ajustado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJ7LLK1R{{</world>}}

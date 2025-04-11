@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logotipo del equipo New York Yankees bordado en la parte delantera
-- 39thirty de algodón elástico con logo del equipo mlb bordado en relieve / 97% cotton 3% spandex woven
 - El interior incluye una cinta adhesiva, así como un absorbente de humedad
+- 39thirty de algodón elástico con logo del equipo mlb bordado en relieve / 97% cotton 3% spandex woven
 - New York Yankees
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

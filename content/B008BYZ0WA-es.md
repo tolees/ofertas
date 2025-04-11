@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Completamente plegable, está realizado en madera maciza de haya con varillas de material plástico
-- Tendedero plegable, extensible en altura con sistema de tipo pantógrafo
-- Dimensiones abierto: H 131/87,5 P 51 A63 cm. Dimensiones cerrado: H12 P51 L66 cm
 - Extensible a dos alturas
+- Dimensiones abierto: H 131/87,5 P 51 A63 cm. Dimensiones cerrado: H12 P51 L66 cm
+- Tendedero plegable, extensible en altura con sistema de tipo pantógrafo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B008BYZ0WA{{</world>}}

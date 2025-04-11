@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Corte regular y cónico
 - Cintura elástica con cordón
 - Bolsillos laterales
-- Corte regular y cónico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJ9HZWYP{{</world>}}

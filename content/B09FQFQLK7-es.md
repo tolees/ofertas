@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Calidad de voz superior: hazte oír alto y claro gracias a los micrófonos duales integrados que eliminan la necesidad de un brazo de micrófono y reducen el ruido de fondo
 - Ligeros: con una construcción ligera, estos auriculares inalámbricos para gaming solo pesan 165 g (5,8 oz), por lo que son cómodos de llevar durante todo el día
-- LIGHTSYNC RGB: Gracias a sus 16,8 millones de colores, tendrás el arco iris al alcance de la mano. Combina patrones y juega con efectos ópticos que se adaptan a todos tus estados de ánimo
 - DISEÑO PARA GAMERS: Su sencillo diseño de 6 botones ofrece una experiencia de juego única. Cómodo y resistente, facilita un control total. Además, permite programar tareas con botones configurables
+- LIGHTSYNC RGB: Gracias a sus 16,8 millones de colores, tendrás el arco iris al alcance de la mano. Combina patrones y juega con efectos ópticos que se adaptan a todos tus estados de ánimo
 - SENSOR PARA GAMERS: Seguimiento ultrapreciso gracias al sensor de 8000 DPI. Alterna entre los 5 perfiles de configuración, así como el mapeo de pantalla con el G HUB, para un rendimiento más estable
 - Versátil: Logitech G435, auriculares con conectividad inalámbrica LIGHTSPEED y Bluetooth de baja latencia que ofrecen más libertad de juego en PC, smartphones y dispositivos gaming para Playstation
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca: FILA
 - FILA
+- Marca: FILA
 - Fabricante: FILA
 
 [🛒 Visítala!!!]({{< param buyurl >}})

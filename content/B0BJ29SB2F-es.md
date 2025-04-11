@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BATERÍA DE LARGA DURACIÓN - Gracias a su reducido consumo solo tendrás que recargarlas dos veces al año (Dependiendo del uso)
-- GRABACIÓN DE VÍDEO 1080P - Videos y fotos con todos los detalles a una resolución de 1080p
+- INSTALACIÓN SIN CABLES -Gracias a la batería incorporada podrás colocar las cámaras en cualquier lugar sin depender de las tomas suministro eléctrico. Solamente tienes que conectar el Hub a la corriente eléctrica para que se guarde las grabaciones y avisos en la App
 - DETECCIÓN AI DE MOVIMIENTO CON NOTIFICACIONES - La cámara manda una notificación al móvil al detectar un movimiento sospechoso
 - VISIÓN NOCTURNA A TODO COLOR - Graba videos con alta calidad de imagen y colores nítidos incluso de noche
-- SONIDO BIDERECCIONAL - Permite la comunicación a través del micrófono y altavoz integrados en las cámaras
-- INSTALACIÓN SIN CABLES -Gracias a la batería incorporada podrás colocar las cámaras en cualquier lugar sin depender de las tomas suministro eléctrico. Solamente tienes que conectar el Hub a la corriente eléctrica para que se guarde las grabaciones y avisos en la App
+- GRABACIÓN DE VÍDEO 1080P - Videos y fotos con todos los detalles a una resolución de 1080p
 - ALARMA CON LUZ Y SONIDO - Si la cámara detecta un comportamiento sospechosos activa la alarma de luz y sonido para disuadir la amenaza
+- BATERÍA DE LARGA DURACIÓN - Gracias a su reducido consumo solo tendrás que recargarlas dos veces al año (Dependiendo del uso)
+- SONIDO BIDERECCIONAL - Permite la comunicación a través del micrófono y altavoz integrados en las cámaras
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BJ29SB2F{{</world>}}

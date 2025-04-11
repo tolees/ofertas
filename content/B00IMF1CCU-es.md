@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Un cómodo cambio del sentido de giro gracias a la palanca de conmutación
 - Carraca extremamente delgada con palanca larga
 - Con sistema de búsqueda de herramienta "Take it easy": marca los tamaños con ayuda de colores
-- Un cómodo cambio del sentido de giro gracias a la palanca de conmutación
 - Ángulo de retorno de tan sólo 5°
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

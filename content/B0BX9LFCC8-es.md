@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calvin Klein Camiseta blanca de salón con logotipo de la caja
 - Nuevo y auténtico. Somos un vendedor autorizado de Calvin Klein.
+- Calvin Klein Camiseta blanca de salón con logotipo de la caja
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BX9LFCC8{{</world>}}

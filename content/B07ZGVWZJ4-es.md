@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 17 x 13.4 x 1.2 cm
 - Fácil de usar
 - 80 gramos
 - Muy conveniente
-- 17 x 13.4 x 1.2 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07ZGVWZJ4{{</world>}}

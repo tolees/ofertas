@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La parte superior de termplasticos perforada es transpirable
-- Es por lo tanto idónea para todo tipo de actividad náutica, playa, uso urbano y puede usarse como calzado ligero
-- Cressi es una empresa familiar, que desde 1946 produce productos de alta calidad
 - Zapatos para todos los deportes acuáticos, que le permiten usar en el agua
+- Cressi es una empresa familiar, que desde 1946 produce productos de alta calidad
+- Es por lo tanto idónea para todo tipo de actividad náutica, playa, uso urbano y puede usarse como calzado ligero
+- La parte superior de termplasticos perforada es transpirable
 - La suela está hecha de EVA duradera y flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

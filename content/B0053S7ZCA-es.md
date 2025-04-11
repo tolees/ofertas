@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Caja de herramientas de metal para almacenar y organizar herramientas
-- Hecho de chapa de acero, versión pintada
 - Con 5 compartimientos desmontables
+- Hecho de chapa de acero, versión pintada
 - Bloqueable con un candad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

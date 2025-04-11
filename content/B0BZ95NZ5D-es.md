@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello y lengüeta acolchados
 - Detalles de costura
 - Forro de tela suave para zapatos
+- Cuello y lengüeta acolchados
 - Logotipo lateral S
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

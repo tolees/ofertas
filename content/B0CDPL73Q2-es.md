@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Limpieza en seco con percloroetileno
 - Pernera: Skinny, corte ceñido con la pernera estrecha
+- Limpieza en seco con percloroetileno
 - Leggings térmicos de punto elástico con bolsillos falsos al bies e interior suave.
 - Largo: normal
 - Lavar en ciclo de lavado normal a 40°, No usar lejía, No secar en la secadora, Planchar a un máx. 150° (Nivel 2), No limpiar en seco

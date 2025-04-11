@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diario de los desarrolladores
+- Figurita
 - Incluye:
-- Banda sonora digital
-- Llavero
+- Diario de los desarrolladores
 - 3 litografías
 - Juego Switch
 - Steelbook
-- Figurita
+- Llavero
+- Banda sonora digital
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BF61W18X{{</world>}}

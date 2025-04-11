@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Parte superior de piel sintética
-- Horma clásica
-- Forro textil
 - Cierre de velcro
+- Horma clásica
 - Suela de goma
+- Forro textil
 - Mediasuela con amortiguación para una pisada más cómoda
 
 [🛒 Visítala!!!]({{< param buyurl >}})

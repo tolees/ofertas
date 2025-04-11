@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pierna recta
+- Cintura media
 - Cierre con cremallera, estilo de cinco bolsillos
 - Herrajes de la marca Calvin Klein e insignia de cuero
-- Cintura media
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVGMPDL1{{</world>}}

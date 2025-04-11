@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Officially licensed by The Pokémon Company International
-- Conjunto de construcción de 527piezas con bloque de movimiento: gira la palanca para activar el movimiento de Lapras
-- Las piezas pueden combinarse con todos los conjuntos de construcción de Pokémon de MEGA y son compatibles con las principales marcas
 - La cabeza de Lapras se mueve de izquierda a derecha al girar la palanca
 - Figura de Lapras mecanizada y construible que presenta todo lujo de detalles y mide 17cm de alto
+- Conjunto de construcción de 527piezas con bloque de movimiento: gira la palanca para activar el movimiento de Lapras
+- Las piezas pueden combinarse con todos los conjuntos de construcción de Pokémon de MEGA y son compatibles con las principales marcas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BBSW1XG9{{</world>}}

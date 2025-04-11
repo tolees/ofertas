@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha con cordón no extraíble
-- Repelente al agua
 - Marca Tommy Hilfiger Sport
 - Forro acolchado
+- Repelente al agua
+- Capucha con cordón no extraíble
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2HRM8WS{{</world>}}

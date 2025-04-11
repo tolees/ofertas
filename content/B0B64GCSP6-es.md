@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura alta, ajuste regular con dobladillos enrollados en un jean elástico medio fabricado con materiales sostenibles.
 - Fabricado con al menos 70% algodón sostenible
+- Cintura alta, ajuste regular con dobladillos enrollados en un jean elástico medio fabricado con materiales sostenibles.
 - MEDIO USADO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

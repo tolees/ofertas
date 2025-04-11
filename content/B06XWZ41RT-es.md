@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puntero fosforescente
-- Potencia de salida de 770 mW
-- Gran escala de marcación con diseño universal - Para poder utilizarlo fácilmente
-- Altavoz de amplio rango 10 cm
-- Con iluminación LED
-- Sintonizador LED / Digital
-- Sintonizador digital con control de auto frecuencia (AFC)
 - Amplio DIAL con indicador
+- Con iluminación LED
+- Sintonizador digital con control de auto frecuencia (AFC)
+- Sintonizador LED / Digital
+- Gran escala de marcación con diseño universal - Para poder utilizarlo fácilmente
+- Potencia de salida de 770 mW
+- Altavoz de amplio rango 10 cm
 - Asa para transportarlo - Para podértelo llevar donde quieras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

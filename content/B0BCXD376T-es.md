@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: elastómeros termoplásticos
 - Cierre: cordones
+- Material de la suela: elastómeros termoplásticos
 - Material exterior: piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

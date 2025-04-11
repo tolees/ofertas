@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de producto: crema de afeitar
-- Marca : Collistar
 - Género : hombre
+- Marca : Collistar
+- Tipo de producto: crema de afeitar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B002UZZW74{{</world>}}

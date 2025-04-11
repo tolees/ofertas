@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Parte superior reciclada
+- Entresuela de goma
 - Logotipo de PUMA Cat en el talón
 - Franja característica de PUMA en los lados lateral y medial.
-- Entresuela de goma
 - Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

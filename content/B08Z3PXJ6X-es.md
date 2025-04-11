@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protective Case Included
-- Colour: 807/M9 BLACK
 - Model: Polaroid Pld 2109/s 807/M9 BLACK 55
-- Calibre: 55 Millimeters
 - Brand: Polaroid
+- Calibre: 55 Millimeters
+- Colour: 807/M9 BLACK
+- Protective Case Included
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Z3PXJ6X{{</world>}}

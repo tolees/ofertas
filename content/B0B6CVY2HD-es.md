@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Manga corta
-- Cuello de polo y bordes de las mangas acanalados a rayas
-- Tapeta de dos botones
 - Bajo recto con aberturas laterales
 - Logotipo de G-Star RAW bordado en el pecho
+- Cuello de polo y bordes de las mangas acanalados a rayas
+- Tapeta de dos botones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B6CVY2HD{{</world>}}

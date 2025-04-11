@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafas de Motocross y MTB Enduro Stone Negro y Blanco para hombre y mujer
 - Gafas de Motocross
+- Gafas de Motocross y MTB Enduro Stone Negro y Blanco para hombre y mujer
 - Stone Black / White
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Piernas: Skinny Fit
 - Caderas: Skinny Fit
+- Piernas: Skinny Fit
 - Cintura ajustable RPA2023Composición del material: 76% algodón, 22% poliéster reciclado, 2% elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suministro uniforme de agua a las plantas
+- Tamaño: 1 unidad (largo x ancho): 14,9 x 3 cm
 - Apto para todas las botellas de agua o cola
 - Fácil de usar
-- Tamaño: 1 unidad (largo x ancho): 14,9 x 3 cm
-- Suministro uniforme de agua a las plantas
 - Práctico juego de 6 unidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})

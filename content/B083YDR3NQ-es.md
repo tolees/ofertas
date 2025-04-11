@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 0.25kg peso x 3L volumen
 - 100% Poliamida
-- Bolsa de aseo
+- 0.25kg peso x 3L volumen
 - 14 altura x 26 ancho x 14.5 profundidad cm
 - Hidrófugo
+- Bolsa de aseo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083YDR3NQ{{</world>}}

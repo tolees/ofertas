@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Térmica, mantiene las bebidas calientes o frías durante 10h.
 - Apta para el lavavajillas, pero no para el microondas.
-- Capacidad: 370 ml
-- Tapa de plástico apta para alimentos, sin BPA ni ftalatos.
 - Taza de acero inoxidable con mensaje motivador.
+- Tapa de plástico apta para alimentos, sin BPA ni ftalatos.
+- Capacidad: 370 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09CLNBH8R{{</world>}}

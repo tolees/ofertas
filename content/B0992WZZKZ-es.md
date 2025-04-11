@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alfombrilla Goga refrigerada por aire
-- Refrigerado por aire MF
-- Lavable a máquina
 - Peso ligero
+- Refrigerado por aire MF
+- Alfombrilla Goga refrigerada por aire
+- Lavable a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0992WZZKZ{{</world>}}

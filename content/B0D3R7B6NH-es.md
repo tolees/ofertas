@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libreta en tamaño A5 con encuadernación en espiral
-- Incluye una hoja de pegatinas
 - Con tapa dura y 80 hojas de papel cuadriculado
+- Incluye una hoja de pegatinas
+- Libreta en tamaño A5 con encuadernación en espiral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D3R7B6NH{{</world>}}

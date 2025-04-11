@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material interior: Sintético
 - Material exterior: Sintético
-- Material de la suela: Caucho
 - Cierre: Cordones
 - Tipo de tacón: Plano
+- Material de la suela: Caucho
+- Material interior: Sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B095KXB6QD{{</world>}}

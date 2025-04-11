@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud: longitud estándar
 - Patrón: monocolor
+- Longitud: longitud estándar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09LMMD765{{</world>}}

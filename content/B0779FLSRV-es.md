@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego cruzado entre PC & PS4: Los jugadores actuales de Street Fighter V y los futuros poseedores de Street Fighter V Arcade Edition compartirán el mismo pool de jugadores, continuando con el afán de CAPCOM por integrar a los fans en una base de jugadores unificada
 - Nuevos modos y características serán incluidos en Street Fighter V: Arcade Edition, y estarán disponibles para actualización gratuita para los actuales poseedores de Street Fighter V a partir del 19 de Enero de 2018
-- Street Fighter V: Arcade Edition incluye todo lo que incluía el original más todo el contenido de los Season Character Pass 1 y 2, esto es, 12 personajes jugables y 12 atuendos Premium
 - Nuevos Contrincantes
+- Juego cruzado entre PC & PS4: Los jugadores actuales de Street Fighter V y los futuros poseedores de Street Fighter V Arcade Edition compartirán el mismo pool de jugadores, continuando con el afán de CAPCOM por integrar a los fans en una base de jugadores unificada
+- Street Fighter V: Arcade Edition incluye todo lo que incluía el original más todo el contenido de los Season Character Pass 1 y 2, esto es, 12 personajes jugables y 12 atuendos Premium
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0779FLSRV{{</world>}}

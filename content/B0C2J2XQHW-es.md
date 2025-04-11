@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseñado por EA7
-- Escudo Napul3
-- Producto oficial del SSC Napoli
 - 100% Algodón
+- Escudo Napul3
+- Diseñado por EA7
 - Producto Celebrativo Napoli Campeón de Italia 22/23
+- Producto oficial del SSC Napoli
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2J2XQHW{{</world>}}

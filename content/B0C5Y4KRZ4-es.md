@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Amortiguación FLYTEFOAM
 - Zapatos para correr
 - Empeine tejido reforzado
+- Amortiguación FLYTEFOAM
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5Y4KRZ4{{</world>}}

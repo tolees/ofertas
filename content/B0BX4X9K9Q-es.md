@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Realizadas en vidrio.
-- Capacidad: 17 cl.
-- Este mensaje se encuentra dividido entre ambas copas y es lo suficientemente amplio como para que sirva tanto para bodas de todo tipo de parejas como para parejas en sí, sin necesidad de que para ello se casen.
 - Set de dos copas para cava o champán, con un mensaje de amor para brindar en ellas.
+- Capacidad: 17 cl.
 - Cuidados: aptas para lavavajillas.
+- Realizadas en vidrio.
+- Este mensaje se encuentra dividido entre ambas copas y es lo suficientemente amplio como para que sirva tanto para bodas de todo tipo de parejas como para parejas en sí, sin necesidad de que para ello se casen.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BX4X9K9Q{{</world>}}

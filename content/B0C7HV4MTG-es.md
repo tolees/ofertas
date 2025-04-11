@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Conjunto de vestido de 3 piezas
+- Importado
+- Lavable a máquina
 - La calidad de Carter que conoces y amas, exclusivamente en Amazon.
 - Incluye: un vestido y una funda para pañales y un cárdigan
-- Conjunto de vestido de 3 piezas
-- Lavable a máquina
-- Importado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C7HV4MTG{{</world>}}

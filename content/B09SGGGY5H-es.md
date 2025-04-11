@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empieza un viaje en busca del árbol de Mana místico visto en un sueño, antes de descubrir que el mapamundi está vacio
-- El juego viene dentro de la caja en forma de código (Code in a Box) y no en cartucho físico
 - Toda la magia del Legend of Mana, ahora remasterizado en HD
+- El juego viene dentro de la caja en forma de código (Code in a Box) y no en cartucho físico
+- Empieza un viaje en busca del árbol de Mana místico visto en un sueño, antes de descubrir que el mapamundi está vacio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09SGGGY5H{{</world>}}

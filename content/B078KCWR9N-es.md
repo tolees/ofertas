@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento: Sintético
 - Material exterior: Sintético
-- Material de la suela: Goma
+- Revestimiento: Sintético
 - Cierre: Cordones
+- Material de la suela: Goma
 - Composición: Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

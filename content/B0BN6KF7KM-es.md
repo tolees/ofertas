@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Comfort Fit: Più rilassato, vestibilità generosa per un completo gamma di movimento
-- Tallas de la XS a la 3XL
 - Tejido Powerblend fleece afelpado (280 g)
+- Tallas de la XS a la 3XL
 - Logotipo bordado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

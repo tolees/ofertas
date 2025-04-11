@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 28 JUEGOS CON 271 VARIANTES: Con 28 emocionantes juegos, el ordenador integrado de la diana ofrece una gran variedad de 271 variantes de juego para hacer que su velada con amigos o familia sea perfecta
+- FICHA TÉCNICA: Mide 45 x 6 x 51,5 cm y está fabricado en plástico reutilizable respetuoso con el medio ambiente. Además, tiene una opción CYBERMATCH que permite jugar en solitario contra el ordenador en cinco niveles de habilidad
 - POTENTE PANTALLA LED: Además de tener una pantalla que muestra tu puntuación, la diana Classic también tiene efectos de sonido interactivos y salida de voz. La diana también puede reproducir sonidos como en una partida de dardos real
 - VOLUMEN DE SUMINISTRO: Como parte de la entrega, recibirá diana, 12 dardos blandos, 100 puntas blandas de recambio, adaptador de corriente, adhesivo de línea de lanzamiento, 2 tornillos, 2 tacos e instrucciones de uso
-- FICHA TÉCNICA: Mide 45 x 6 x 51,5 cm y está fabricado en plástico reutilizable respetuoso con el medio ambiente. Además, tiene una opción CYBERMATCH que permite jugar en solitario contra el ordenador en cinco niveles de habilidad
 - JUEGO PERFECTO PARA DIVERTIRSE: La diana electrónica es apta para hasta 8 jugadores. Este divertido juego se puede jugar en cualquier lugar, como en casa, en bares, pubs o clubes con sus seres queridos
 - ANILLO DE RETENCIÓN ANCHO PARA PROTEGER LAS PAREDES: Está diseñado con un amplio anillo de captura para proporcionar una protección superior a las paredes contra los dardos que rebotan
 

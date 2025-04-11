@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantener alejado de fuentes de calor extremo y de objetos punzantes.
-- Cuidados: no exponer largo tiempo al sol para evitar que los colores pierdan intensidad
 - Mini portatodo redondo realizado en silicona
 - mensaje y cierre de cremallera.
+- Mantener alejado de fuentes de calor extremo y de objetos punzantes.
+- Cuidados: no exponer largo tiempo al sol para evitar que los colores pierdan intensidad
 - Limpiar frotando suavemente con un paño húmedo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

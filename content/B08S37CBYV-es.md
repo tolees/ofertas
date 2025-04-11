@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Explore nuestra gama de productos
 - Muy buena oferta
-- Departamento: Hombre
 - Parka Hombre Boomerang ROJO M
+- Departamento: Hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08S37CBYV{{</world>}}

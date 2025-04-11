@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte textil
 - Cierre de cordones
+- Parte textil
 - Horma clásica
 - Mediasuela Bounce
 - Forro textil

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fabricamos nuestras prendas en materiales que se adaptan a cualquier cuerpo, en cualquier momento y circunstancia.
 - Braga de microfibra. La comodidad de la braguita y la invisibilidad del tanga gracias al tejido invisible elástico y de gran adaptabilidad de su parte posterior. Un clásico confortable actualizado con diseño más sensual y femenino.79% Poliamida, 21% Elastano
 - Manteniendo nuestras prendas contribuimos al medio ambiente y a la sostenibilidad de nuestro planeta.
-- Fabricamos nuestras prendas en materiales que se adaptan a cualquier cuerpo, en cualquier momento y circunstancia.
 - Fundamos la esencia del diseño mediterráneo hecho en Valencia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Luz suave y uniforme gracias a su pantalla que proporciona suficiente iluminación al tiempo que protege los ojos.
-- Decore la habitación de su hijo con sus héroes favoritos para que estén junto a él cuando juega, estudia y duerme
 - la lámpara perfecta para la habitación de su hijo
 - Alimentación: 3 pilas LR6/AA de 1.5V (no incluidas).
 - Interruptor de encendido/apagado
+- Luz suave y uniforme gracias a su pantalla que proporciona suficiente iluminación al tiempo que protege los ojos.
+- Decore la habitación de su hijo con sus héroes favoritos para que estén junto a él cuando juega, estudia y duerme
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09ST7SSLW{{</world>}}

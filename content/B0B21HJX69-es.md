@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Los productos deportivos de la marca Reebok están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Ropa deportiva Negro de la marca Reebok
 - Polo RI Left Chest Logo Polo NEGRO
+- Ropa deportiva Negro de la marca Reebok
+- Los productos deportivos de la marca Reebok están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 - Polo para practicar Tiempo libre y sportwear de Hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})

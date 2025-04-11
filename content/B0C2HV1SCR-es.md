@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos bolsillos laterales en ángulo
-- Pantalones chinos de corte entallado, pierna recta y estilo clásico teñido en prenda
-- Tommy Hilfiger Marca:
 - Cremallera con cierre de botón
+- Pantalones chinos de corte entallado, pierna recta y estilo clásico teñido en prenda
+- Dos bolsillos laterales en ángulo
+- Tommy Hilfiger Marca:
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2HV1SCR{{</world>}}

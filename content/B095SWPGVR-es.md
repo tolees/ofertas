@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Núcleos RT: el hardware de trazado de rayos dedicado permite un trazado de rayos rápido en tiempo real con sombras, reflejos, refracciones e iluminación global físicamente precisos
-- Experimente la potencia de procesamiento de IA que acelera el rendimiento de los juegos con NVIDIA DLSS 2.0.
 - Gigabyte GV-N2060D6-6GD tarjeta gráfica NVIDIA GeForce RTX 2060 6 GB GDDR6
+- Experimente la potencia de procesamiento de IA que acelera el rendimiento de los juegos con NVIDIA DLSS 2.0.
 - Tensor Cores: la inteligencia artificial está impulsando el mayor avance tecnológico de la historia, y Turing lo está llevando a los gráficos por computadora.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

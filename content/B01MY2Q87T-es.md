@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Galletas dobles rellenas de deliciosa crema de cacao
-- Para la merienda
 - Sin gluten, sin trigo
+- Para la merienda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01MY2Q87T{{</world>}}

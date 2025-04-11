@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento: Caucho
-- Tipo de tacón: Plano
-- Material exterior: Caucho
-- Composición: Goma
-- Material de la suela: Goma
 - Cierre: Sin cordones
+- Tipo de tacón: Plano
+- Revestimiento: Caucho
+- Material de la suela: Goma
+- Composición: Goma
+- Material exterior: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B005X83PNS{{</world>}}

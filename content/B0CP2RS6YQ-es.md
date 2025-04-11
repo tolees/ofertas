@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pijama corto de tirantes y Pantalón corto Confeccionado en tejido de satén de color nude Con detalles de encaje en color negro y aberturas laterales adecuado para dormir o estar en casa cómoda y Con estilo
 - Pantalón Con Cinturilla elástica ajustable
+- Pijama corto de tirantes y Pantalón corto Confeccionado en tejido de satén de color nude Con detalles de encaje en color negro y aberturas laterales adecuado para dormir o estar en casa cómoda y Con estilo
 - Top Con tirantes regulables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

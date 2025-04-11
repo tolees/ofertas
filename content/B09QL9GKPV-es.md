@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalle de volantes en el dobladillo y anudado en la parte delantera y trasera
-- Cuello en pico y mangas transparentes
 - Vestido con estampado boho
+- Detalle de volantes en el dobladillo y anudado en la parte delantera y trasera
 - Panel fruncido en la cintura y los puños
+- Cuello en pico y mangas transparentes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QL9GKPV{{</world>}}

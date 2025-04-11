@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Doble costura en dobladillo y mangas
 - Manga corta
 - Cuello redondeado
 - Logotipo impreso de alta densidad con marca frontal
-- Doble costura en dobladillo y mangas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKQCMJNR{{</world>}}

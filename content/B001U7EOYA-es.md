@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las grasas y aceites contenidos en el café están ligados
-- Papel de filtro insípido
-- Los sabores del café se transmiten sin obstáculos
 - El embalaje puede variar
+- Las grasas y aceites contenidos en el café están ligados
+- Los sabores del café se transmiten sin obstáculos
+- Papel de filtro insípido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B001U7EOYA{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LIFA MERINO
+- Artículos entregados: 1x Helly Hansen Mens Lifa Merino Midweight Crew - LS Baselayer NAVY M
+- Exterior de lana merina 100 %
 - Costuras planas para mayor comodidad y durabilidad
 - Confección en 2 capas
-- Exterior de lana merina 100 %
-- Artículos entregados: 1x Helly Hansen Mens Lifa Merino Midweight Crew - LS Baselayer NAVY M
+- LIFA MERINO
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B4YCPG68{{</world>}}

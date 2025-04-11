@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para salas grandes de hasta 84m2. Caudal de aire limpio (CADR): 204 m3/hora para tener un aire más limpio en interior.
 - El prefiltro ayuda a reducir los olores desagradables del hogar y los COV/gases
-- Sensor de calidad del aire con indicador codificado por colores de la calidad del aire, y modo Auto que ajusta la intensidad de la limpieza del aire al instante.
 - Filtro True HEPA recomendado para la fiebre del heno y las alergias. 5 niveles de filtración del aire (super silencioso, gérmenes, general, alérgenos, turbo)
-- El filtrado de 4 etapas captura el 99,97% de partículas y alérgenos como moho, esporas, polen, polvo, humo, pelo de mascotas y gérmenes.
 - Dimensiones del aparato: Largo 34,1cm, Ancho 20cm, Alto 50,8cm, Peso 3,5kg
+- Sensor de calidad del aire con indicador codificado por colores de la calidad del aire, y modo Auto que ajusta la intensidad de la limpieza del aire al instante.
+- Ideal para salas grandes de hasta 84m2. Caudal de aire limpio (CADR): 204 m3/hora para tener un aire más limpio en interior.
+- El filtrado de 4 etapas captura el 99,97% de partículas y alérgenos como moho, esporas, polen, polvo, humo, pelo de mascotas y gérmenes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01NCP1FBQ{{</world>}}

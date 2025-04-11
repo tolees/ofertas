@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Inscripción Lacoste en relieve
-- Ocho ranuras para tarjetas, un monedero y varios bolsillos
 - Dimensiones: 10,5 x 10,5 x 0,5 cm
-- Cocodrilo metálico a tono
 - Exterior de piel italiana
+- Ocho ranuras para tarjetas, un monedero y varios bolsillos
+- Cocodrilo metálico a tono
+- Inscripción Lacoste en relieve
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JG7MYN3{{</world>}}

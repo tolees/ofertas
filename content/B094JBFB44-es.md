@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: plata esterlina, cristales
-- Color primario: plata
 - Silueta: pulsera
+- Material: plata esterlina, cristales
 - Cierre: cierre magnético
+- Color primario: plata
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B094JBFB44{{</world>}}

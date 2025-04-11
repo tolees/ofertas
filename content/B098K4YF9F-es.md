@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalones vaqueros sostenibles
 - Con algodón BCI
+- Pantalones vaqueros sostenibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B098K4YF9F{{</world>}}

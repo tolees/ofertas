@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dobladillo redondeado
 - Tejido texturizado
+- Dobladillo redondeado
 - Corte regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

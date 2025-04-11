@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COMPATIBLE CON ZÓCALOS AMD E INTEL - el soporte de montaje se adapta a los zócalos de CPU AMD (AM5, AM4, TR4) e Intel (LGA 1150, 1151, 1155, 1156, 1700,1200, 2011, 2011-3, 2066); pasta térmica incluida
 - TUBOS A PRUEBA DE EVAPORACIÓN - Tubos de refrigeración por agua de 400 mm formados por una red de plástico de triple capa oculta bajo un revestimiento de malla reforzada.
-- LGA 1700 READY - El refrigerador líquido MAG CORELIQUID M Series ofrece compatibilidad inmediata con LGA 1700.
-- Cable PWM de 1 a 2 ventiladores incluido.
 - TRIPLE VENTILADOR ARGB - 3 ventiladores ARGB PWM de 120 mm proporcionan una excelente presión y flujo de aire a la vez que generan muy poco ruido.
+- COMPATIBLE CON ZÓCALOS AMD E INTEL - el soporte de montaje se adapta a los zócalos de CPU AMD (AM5, AM4, TR4) e Intel (LGA 1150, 1151, 1155, 1156, 1700,1200, 2011, 2011-3, 2066); pasta térmica incluida
+- Cable PWM de 1 a 2 ventiladores incluido.
+- LGA 1700 READY - El refrigerador líquido MAG CORELIQUID M Series ofrece compatibilidad inmediata con LGA 1700.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4WJ8C9X{{</world>}}

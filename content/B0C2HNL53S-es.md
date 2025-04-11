@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este bloqueo dinámico de color continúa en el cuello con el complemento si se inclina el color de doble resalte
 - Otro icónico AM de Hackett Polo ha recibido una actualización de temporada con bloqueo dinámico de color de hombro y manga que se enrolla en el cuerpo sólido de la espalda
+- Este bloqueo dinámico de color continúa en el cuello con el complemento si se inclina el color de doble resalte
 - Viene en la calidad habitual de piqué elástico altamente comercial con logotipo bordado de AM Wings, este estilo está listo para el consumidor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

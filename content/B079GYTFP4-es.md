@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Resistente al agua
+- Altura del tacón: 3,00 cm
 - Material principal: napa, material del forro: cuero Material de la suela: goma natural interior de la suela extraíble Inserto: sí
 - Fabricado en España
 - Panama Jack Botas para mujer, color negro y negro
-- Altura del tacón: 3,00 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079GYTFP4{{</world>}}

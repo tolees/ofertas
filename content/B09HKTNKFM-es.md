@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 💡【3 Modos de Brillo y 7 de Intensidades】Tres modos de brillo, luz blanca, luz cálida y mixta. Hasta siete intensidades de brillo regulables con sus botones táctiles. Botón de encendido y apagado táctil.
 - 🪞【Cabezal ajustable y espejo con giro 360º】Cabezal ajustable entre 75º y 115º. Espejo oculto situado en la parte posterior del producto con un giro de 360º.
 - ⭐【Soporte para Móvil】Stand para móvil plegable y ligero incluido. Total compatibilidad con todos los dispositivos Samsung, Huawei, Xiaomi, Google y muchos más.
+- 💡【3 Modos de Brillo y 7 de Intensidades】Tres modos de brillo, luz blanca, luz cálida y mixta. Hasta siete intensidades de brillo regulables con sus botones táctiles. Botón de encendido y apagado táctil.
 - ✅【Recarga USB y Robusto】Formado por plástico a prueba de choques y muy ligero, tan solo 35 gramos de peso. Incluye cargador USB.
 - 📱【Universal y Portátil】Válido para todos los smartphones, tablets y ordenadores portátiles. Pinza adaptable con 24 luces LED.
 

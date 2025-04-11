@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pierna recta
 - Ajuste entallado
+- Pierna recta
 - Tiro medio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

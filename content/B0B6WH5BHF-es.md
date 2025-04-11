@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bermuda modelo chino de algodón con bolsillos delanteros. Cierre con botón y cremallera.
 - 96% algodón, 4% elastano
+- Bermuda modelo chino de algodón con bolsillos delanteros. Cierre con botón y cremallera.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6WH5BHF{{</world>}}

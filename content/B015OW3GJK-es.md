@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con resoluciones de vídeo de hasta 1920 x 1200 y 1080p (Full HD) y canales de audio digital sin comprimir (7.1, 5.1 o 2).
 - Conectores chapados en oro, conductores de cobre desnudos y apantallamiento trenzado con aluminio para una mejor calidad de imagen y un sonido puro.
 - Reproduce películas en un televisor HD de gran pantalla, presenta trabajos desde un proyector o crea/configura un segundo monitor o pantallas duplicadas.
+- Compatible con resoluciones de vídeo de hasta 1920 x 1200 y 1080p (Full HD) y canales de audio digital sin comprimir (7.1, 5.1 o 2).
 - Conexión de DisplayPort a HDMI únicamente (no es bidireccional); no es compatible con puertos USB; mide 0,9 m; .
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre: Cordones
+- Material de la suela: Goma
+- Composición: Sintético
 - Revestimiento: Sintético
 - Material exterior: Sintético
-- Composición: Sintético
-- Material de la suela: Goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DCHK93S{{</world>}}

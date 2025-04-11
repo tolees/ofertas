@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Mango en doble "t" aportandole robustez, resistencia y ergonomía.
 - Perfecto rectificado, ajuste suave y sin holguras.
 - Longitud: 200 mm.
-- Mango en doble "t" aportandole robustez, resistencia y ergonomía.
 - Apertura máxima: 40 mm.
 - Realizadas en acero al cromo-vanadio, aportandole mayor resistencia y duración.
 

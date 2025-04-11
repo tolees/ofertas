@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estabilidad y agarre
 - Entresuela acolchada
 - Zapatos de senderismo
+- Estabilidad y agarre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6BPLP3R{{</world>}}

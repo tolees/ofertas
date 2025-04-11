@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos lados reversibles con diferentes estampados
 - Capucha acogedora para cubrirte de la lluvia y el viento
 - Ajuste regular
+- Dos lados reversibles con diferentes estampados
 - Cuello alto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

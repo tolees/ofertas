@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento: Sintético
 - Cierre: Cordones
+- Revestimiento: Sintético
 - Material exterior: Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

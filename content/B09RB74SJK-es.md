@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte estándar
-- Bolsillo frontal
 - Media cremallera
+- Bolsillo frontal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RB74SJK{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caja pasiva PR:O 15 de HK-Audio.
-- Respuesta de frecuencia: 53 Hz - 19 kHz.
 - Presión acústica: 128 dB (máx.).
+- Respuesta de frecuencia: 53 Hz - 19 kHz.
+- Caja pasiva PR:O 15 de HK-Audio.
 - Instalación: 15 pulgadas + 60 ° x 40 ° 1 pulgada.
 - Potencia: 400 W rms a 8 ohmios.
 

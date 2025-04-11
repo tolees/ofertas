@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Teclado con 12 teclas FN + multimedia que hacen más fácil y rápido el acceso a las distintas aplicaciones del ordenador y sus habituales funciones, así como indicadores LED para Mayúsculas, Bloqueo Numérico y nivel de batería baja.
 - La pulsación de las teclas de perfil bajo es muy suave, cómoda y el ruido que emiten al ser pulsadas es prácticamente imperceptible.
+- Teclado con 12 teclas FN + multimedia que hacen más fácil y rápido el acceso a las distintas aplicaciones del ordenador y sus habituales funciones, así como indicadores LED para Mayúsculas, Bloqueo Numérico y nivel de batería baja.
 - Función “Plug & Play”: la conexión a cualquier equipo se realizará de forma inmediata sin necesidad de software a través de su conexión sin cables USB de 2.4GHz con cobertura inalámbrica de hasta 10 m.
 - Conjunto de teclado QWERTY español y ratón inalámbricos de 2.4 GHz con teclas multimedia y diseño elegante slim que facilitarán a los usuarios sus tareas informáticas cotidianas.
 - Ratón óptico de 1200 dpi, dotado de una gran precisión en sus movimientos, incluye scroll y 2 botones y es apto tanto para usuarios diestros como zurdos.

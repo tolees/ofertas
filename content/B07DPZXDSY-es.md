@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Autor: Pura Knizia
-- Duración del juego: aprox. 30 minutos
 - Para 2-4 jugadores a partir de 10 años.
 - El emocionante juego de aventuras – quien ofrece inteligente tendrá éxito
+- Duración del juego: aprox. 30 minutos
+- Autor: Pura Knizia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DPZXDSY{{</world>}}

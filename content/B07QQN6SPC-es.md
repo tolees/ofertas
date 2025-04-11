@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Preparada para gas natural
 - Autoencendido integrado en el mando
 - Dimensiones del aparato: 45 mm (alto) x 582 mm (ancho) x 520 mm (profundo)
+- Mandos ergonómicos para un manejo sencillo y preciso
 - Parrillas continuas de hierro fundido: diseño Profesional
 - Inyectores opcionales para gas butano incluidos
-- Preparada para gas natural
-- Mandos ergonómicos para un manejo sencillo y preciso
 - Sistema de seguridad Gas Stop
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

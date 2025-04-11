@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suave de secado rápido
 - Marca wella professionals
-- Eimi mistify me light
 - Tamaño: 75ml
+- Suave de secado rápido
+- Eimi mistify me light
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07JNFPQ5Q{{</world>}}

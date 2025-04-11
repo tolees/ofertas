@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuello alto
-- Dos bolsillos laterales con cremallera
 - Diseño de bloques de color
+- Dos bolsillos laterales con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BSFSJ4D9{{</world>}}

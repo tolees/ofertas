@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte textil con refuerzos de ante sintético
-- Mediasuela de EVA
 - Suela de goma
 - Horma clásica
 - Cierre de cordones
+- Parte textil con refuerzos de ante sintético
+- Mediasuela de EVA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQRDQ5X6{{</world>}}

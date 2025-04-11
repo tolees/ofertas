@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste de pierna ajustada
-- Diseño tradicional de 5 bolsillos
 - Este es el básico del armario y los jeans ajustados
+- Diseño tradicional de 5 bolsillos
+- Ajuste de pierna ajustada
 - Ajuste regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

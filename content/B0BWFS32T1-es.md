@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Este producto es original Levis
 - Ofrecen una comodidad óptima
 - Un básico veraniego
-- Este producto es original Levis
 - Pierna recta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
 - Compra una talla más grande
+- Forro textil
 - Parte de piel con puntera de ante
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador de Gran Potencia que maximiza la calidad de imagen y sonido a través de IA (Procesador 4K a7 Gen6).
-- Sumérgete en cada escena con la calidad de imagen HDR10 Pro y sonido Dolby Digital Plus.
-- Colores más vivos y brillantes para disfrutar de escenas más nítidas con la suma de las mejores tecnologías LED (QuantumDot + Nanocell Plus y 6 Bloques de Retroiluminación)
 - Ecosistema abierto e inteligente: Smart TV webOS23, compatible con Apple Home Kit/Airplay/Google/Alexa/ThinQ, y control por voz.
 - Tecnología que cuida de ti y del planeta: consumo inferior al límite del Índice de Eficiencia Energética Europeo y ahorra en la factura de la luz.
+- Colores más vivos y brillantes para disfrutar de escenas más nítidas con la suma de las mejores tecnologías LED (QuantumDot + Nanocell Plus y 6 Bloques de Retroiluminación)
+- Sumérgete en cada escena con la calidad de imagen HDR10 Pro y sonido Dolby Digital Plus.
+- Procesador de Gran Potencia que maximiza la calidad de imagen y sonido a través de IA (Procesador 4K a7 Gen6).
 - Perfecto para gaming e ideal para cualquier contenido: máxima fluidez VRR (120 Hz), AMD Freesync*. y Cloud Gaming; modo Filmmaker; alertas deportivas.
 - Diseño Ultraslim (2.9cm) y con nueva peana ajustable a 2 alturas para colocar Barras de Sonido LG
 

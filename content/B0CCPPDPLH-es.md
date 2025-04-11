@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cordones al tono
 - Sudadera Con capucha Regular fit
+- Con cordones al tono
 - Y estampado Con relieve a Contraste en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

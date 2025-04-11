@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Más de 25 personajes a los que conocer y ayudar
 - Ciclo día y noche que tiene afecto en el mundo con eventos climáticos
 - Personaliza tu isla con edificios, campos de cultivo y animales de granja.
-- Más de 25 personajes a los que conocer y ayudar
-- Más de 300 misiones para hacer de Mara un lugar mejor
 - Un océano abierto con más de 20 islas que explorar.
+- Más de 300 misiones para hacer de Mara un lugar mejor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09R4YKBNZ{{</world>}}

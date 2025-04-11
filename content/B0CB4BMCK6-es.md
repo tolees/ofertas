@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de la temporada
 - Redondo
+- Logotipo de la temporada
 - Corte normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

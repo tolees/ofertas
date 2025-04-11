@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% poliéster
-- elastómero termoplástico
 - Revestimiento de malla reciclado
+- elastómero termoplástico
+- 100% poliéster
 - PU reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

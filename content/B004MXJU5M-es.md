@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAPACIDAD DE AGUA: La capacidad de agua de 1,5 litros es ideal para gatos y perros pequeños
 - FÁCIL DE LIMPIAR: La fuente no contiene BPA y se puede lavar en la rejilla superior del lavavajillas
 - CHORRO AJUSTABLE: El flujo ajustable con bombas permite personalizar el chorro de agua para su mascota
 - FOMENTA LA HIDRATACIÓN: La cascada de agua incita a las mascotas a beber más agua
 - La fuente original para mascotas Drinkwell está respaldada por una GARANTÍA de cumplimiento de 2 años
 - DIMENSIONES DEL PRODUCTO (largo x ancho x alto): 28.39 cm x 22.5 cm x 17.5 cm
+- CAPACIDAD DE AGUA: La capacidad de agua de 1,5 litros es ideal para gatos y perros pequeños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B004MXJU5M{{</world>}}

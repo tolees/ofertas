@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La comunicación es la clave. En la escuela, elige entre nueve emociones para interactuar con tus compañeros. Dependiendo de tus elecciones, tus relaciones con estos personajes se desarrollarán, y algunos podrán acompañarte en tu aventura.
 - Exploración de mazmorras. Por la noche, explora las ruinas que hay bajo la escuela en un combate RPG por turnos. Resuelve puzles, evita trampas y lucha contra duros enemigos con tus compañeros para buscar tesoros y resolver los misterios de las ruinas.
+- La comunicación es la clave. En la escuela, elige entre nueve emociones para interactuar con tus compañeros. Dependiendo de tus elecciones, tus relaciones con estos personajes se desarrollarán, y algunos podrán acompañarte en tu aventura.
 - Descubre el clásico. Kowloon High-School Chronicle ha sido remasterizado con gráficos en alta definición y actuación de voz para la historia principal. ¡No te pierdas este juego legendario!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

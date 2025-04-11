@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CARGA ULTRARÁPIDA: Batería de iones de litio extraíble, que puede cargarse directamente en la aspiradora o por separado. 100% de carga en 2,5 horas. Comprueba el % de carga en el indicador LED
-- MÁXIMO RENDIMIENTO: Diseñada para una limpieza completa de tu hogar: 45 min de autonomía en Modo Automático con una potencia de succión de 75AW, con resultados impresionantes en todo tipo de suelos
-- PANEL DE CONTROL INTUITIVO: Las dos luces LED de colores que se encuentran en el aspirador de mano indican el estado exacto de la carga de la batería y el estado de mantenimiento
-- CEPILLO ANTI-ENREDOS: Con nuestro exclusivo cepillo ANTI-ENREDOS, evita que el cabello se enrede alrededor del cepillo durante la limpieza. Elimina las molestias del mantenimiento
-- ALMACENAMIENTO COMPACTO: ¿Espacios pequeños? No hay problema. Cuando está en modo almacenamiento, solo tiene 69cm de alto, práctico para guardar donde quieras
 - ACCESORIOS INCLUIDOS: Accesorio 2en1 para quitar el polvo y para muebles, ideal para superficies duras y tejidos, además de un accesorio a para llegar a zonas difíciles, grietas o espacios estrechos
+- MÁXIMO RENDIMIENTO: Diseñada para una limpieza completa de tu hogar: 45 min de autonomía en Modo Automático con una potencia de succión de 75AW, con resultados impresionantes en todo tipo de suelos
+- ALMACENAMIENTO COMPACTO: ¿Espacios pequeños? No hay problema. Cuando está en modo almacenamiento, solo tiene 69cm de alto, práctico para guardar donde quieras
+- CARGA ULTRARÁPIDA: Batería de iones de litio extraíble, que puede cargarse directamente en la aspiradora o por separado. 100% de carga en 2,5 horas. Comprueba el % de carga en el indicador LED
+- CEPILLO ANTI-ENREDOS: Con nuestro exclusivo cepillo ANTI-ENREDOS, evita que el cabello se enrede alrededor del cepillo durante la limpieza. Elimina las molestias del mantenimiento
+- PANEL DE CONTROL INTUITIVO: Las dos luces LED de colores que se encuentran en el aspirador de mano indican el estado exacto de la carga de la batería y el estado de mantenimiento
 - QUICK PARK&GO: Aparca temporalmente en posición vertical sobre suelos duros. Si el aspirador sin cable se deja sin vigilancia, debe guardarse en su soporte de pared
 
 [🛒 Comprar!!!]({{< param buyurl >}})

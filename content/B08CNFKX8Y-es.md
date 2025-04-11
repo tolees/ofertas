@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Auto Focus Rápido: Un enfoque exceptional con sistema Dual Pixel Auto Focus II y procesador DIGIC X que utiliza IA para el reconocimiento y seguimiento avanzado del sujeto. Reconoce casi instantáneamente ojos, caras, cabezas, además de animales como aves o perros y gatos, para captar el máximo detalle en fotografía doméstica y de naturaleza
-- Conectividad: Wi-Fi y Bluetooth para transferencia de imágenes y disparo remoto desde tu smartphone o tablet.
-- Fotografía: La cámara híbrida full frame definitiva para la creación de contenidos. Alcanza la excelencia fotográfica con disparo silencioso a 20 fps, ISO 102400, 20 MP y toda la calidad de color Canon
-- Objetivos: Capture todo tipo de imágenes urbanas, de naturaleza y deporte con el versatil objetivo incluido RF 24-105 mm F4-7.1 IS STM
-- Vídeo: Especificaciones perfectas para vídeo profesional. Con hasta 4K a 60 fps y Dual Pixel CMOS AF. Opciones Canon Log y HDR PQ para capturar un mayor rango dinámico, grabación en 4:2:2 de 10 bits y doble ranura para tarjetas de memoria
 - Canon: Innovación constante en cámaras de vídeo y fotografía desde 1934
+- Fotografía: La cámara híbrida full frame definitiva para la creación de contenidos. Alcanza la excelencia fotográfica con disparo silencioso a 20 fps, ISO 102400, 20 MP y toda la calidad de color Canon
 - Estabilización de hasta 8 Pasos: Consigue la mejor estabilización del mundo equipando tu EOS R6 con los objetivos RF de Canon. Su estabilizaror de 8 ejes incorporado ofrece hasta 5 pasos de protección frente a la trepidación para capturar imágenes y vídeos áltamente estabilizados incluso cámara en mano
+- Vídeo: Especificaciones perfectas para vídeo profesional. Con hasta 4K a 60 fps y Dual Pixel CMOS AF. Opciones Canon Log y HDR PQ para capturar un mayor rango dinámico, grabación en 4:2:2 de 10 bits y doble ranura para tarjetas de memoria
+- Conectividad: Wi-Fi y Bluetooth para transferencia de imágenes y disparo remoto desde tu smartphone o tablet.
+- Objetivos: Capture todo tipo de imágenes urbanas, de naturaleza y deporte con el versatil objetivo incluido RF 24-105 mm F4-7.1 IS STM
+- Auto Focus Rápido: Un enfoque exceptional con sistema Dual Pixel Auto Focus II y procesador DIGIC X que utiliza IA para el reconocimiento y seguimiento avanzado del sujeto. Reconoce casi instantáneamente ojos, caras, cabezas, además de animales como aves o perros y gatos, para captar el máximo detalle en fotografía doméstica y de naturaleza
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CNFKX8Y{{</world>}}

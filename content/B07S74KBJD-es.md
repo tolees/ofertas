@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo acanalado con cinta del mismo tejido
 - Calibre de punto fino para una mayor capacidad de impresión
+- Cuello redondo acanalado con cinta del mismo tejido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07S74KBJD{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desires Moda: Vestido en 62% Viscosa, 38% Poliéster; Forro: 100% Poliéster
 - El vestido Joyla está confeccionado con una mezcla de viscosa, lo que le da una calidad suave y ligera
 - Vestido en 4215 Rosa Oscuro talla L
+- Desires Moda: Vestido en 62% Viscosa, 38% Poliéster; Forro: 100% Poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09JP8C6SC{{</world>}}

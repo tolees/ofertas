@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dispone de un compartimento trasero independiente al que se accede desde la parte de atrás perfecto para llevar el portátil.
 - Dos compartimento principales perfectos para llevar libros, ropa y enseres variados, y uno con espacio acolchado perfecto para llevar la tablet o documentos.
+- Dispone de un compartimento trasero independiente al que se accede desde la parte de atrás perfecto para llevar el portátil.
 - Mochila de 29 cm x 48cm x 18 cm fabricada en Poliéster.
 - Dos bolsillos laterales perfectos para llevar botellas de agua o artículos pequeños .
 

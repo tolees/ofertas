@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Elementos de metal de oro pálido
 - Impresión de logotipo 4G
 - Bolsa de hombro
-- Elementos de metal de oro pálido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BP2W3C75{{</world>}}

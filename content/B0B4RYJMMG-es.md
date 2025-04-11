@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Malla diseñada con cordones con Mf refrigerado por aire
 - Skech-Air, lavable a máquina, malla de ingeniería, vegano, refrigerado por aire MF
+- Malla diseñada con cordones con Mf refrigerado por aire
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4RYJMMG{{</world>}}

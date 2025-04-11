@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Con cuello vuelto
 - Con combinación de Tejido en los puños
-- Y en el Bajo
 - Camiseta De manga larga
+- Y en el Bajo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C23P4SRK{{</world>}}

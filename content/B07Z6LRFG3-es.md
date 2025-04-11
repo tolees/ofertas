@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye parabrisas, 2 placas metálicas Incluye iRig Recorder 3 (Android), iRig Recorder LE (iOS) MAC (OS 10.6 o superior) y PC (XP, Vista, Windows 7, 8, 10)
-- Salida DSLR ajustable Incluye cable de conexión de audio DSLR de 3, 5 mm Incluye soporte para cámara (adaptador de zapata) Incluye cable Lightning, USB-C y micro USB.
-- Micrófono de condensador electret USB ultracompacto Para iPhone, iPad, Android, MAC y PC Interfaz de audio A/D de 24 bits y 96 kHz de alta calidad integrada
 - Presión sonora máxima: 125 dB Sensibilidad: -40 dB, 10 mV/Pa LED multicolor para control de nivel Salida de auriculares (jack de 3, 5 mm)
+- Salida DSLR ajustable Incluye cable de conexión de audio DSLR de 3, 5 mm Incluye soporte para cámara (adaptador de zapata) Incluye cable Lightning, USB-C y micro USB.
+- Incluye parabrisas, 2 placas metálicas Incluye iRig Recorder 3 (Android), iRig Recorder LE (iOS) MAC (OS 10.6 o superior) y PC (XP, Vista, Windows 7, 8, 10)
+- Micrófono de condensador electret USB ultracompacto Para iPhone, iPad, Android, MAC y PC Interfaz de audio A/D de 24 bits y 96 kHz de alta calidad integrada
 - Cápsula de condensador electret chapada en oro Patrón polar supercardioide Respuesta en frecuencia: 20 Hz - 20 kHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})

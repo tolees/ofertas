@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Silueta de pierna alta
-- Microfibra Jersey
 - Clásica cintura elástica Calvin Klein en Slim
+- Microfibra Jersey
+- Silueta de pierna alta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8FCMPNK{{</world>}}

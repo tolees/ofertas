@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Secuela del juego fanhunter: urban warfare
-- Espectaculares miniaturas de macutes, el macute degenerado y el papa alejo
-- Un juego ideal para introducirse en los juegos de miniaturas
 - Incluye el reglamento revisado y actualizado
+- Espectaculares miniaturas de macutes, el macute degenerado y el papa alejo
+- Secuela del juego fanhunter: urban warfare
+- Un juego ideal para introducirse en los juegos de miniaturas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0822WJNG2{{</world>}}

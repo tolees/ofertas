@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con hidratos de carbono de rápida utilización como energía: aporte de 88 g de hidratos de carbono/100 g (35 g/500 ml), el 80% de los cuales son azúcares de absorción y utilización rápida (sacarosa y jarabe de glucosa) y un 20% de maltodextrina (de absorción y utilización más progresiva)
 - Con calcio y magnesio que intervienen en el metabolismo energético normal, contribuyen al mantenimiento de los huesos en condiciones normales y al funcionamiento normal de los músculos; el magnesio ayuda a disminuir el cansancio y la fatiga y al equilibrio electrolítico
 - Con vitaminas B1 y C: la vitamina B1 (tiamina) ayuda al metabolismo energético normal; la vitamina C por su parte, contribuye con su efecto anitos a la protección de las células frente al daño oxidativo a la vez que ayuda a disminuir el cansancio y la fatiga
+- Con hidratos de carbono de rápida utilización como energía: aporte de 88 g de hidratos de carbono/100 g (35 g/500 ml), el 80% de los cuales son azúcares de absorción y utilización rápida (sacarosa y jarabe de glucosa) y un 20% de maltodextrina (de absorción y utilización más progresiva)
 - Isostar Hydrate & Perform es una bebida isotónica diseñada para optimizar la hidratación, mejorar la resistencia y favorecer la recuperación tras el ejercicio. Su fórmula energética y recuperadora repone los electrolitos perdidos y proporciona los carbohidratos necesarios para mantener el rendimiento deportivo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

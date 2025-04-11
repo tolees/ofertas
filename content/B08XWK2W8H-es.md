@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gorilla wear
-- Adaptación de gran tamaño
-- Cadenas detalladas
 - Logotipo de GW Signature
 - Rayas de manga
+- Adaptación de gran tamaño
+- Gorilla wear
+- Cadenas detalladas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XWK2W8H{{</world>}}

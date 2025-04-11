@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de tacón: Plano
 - Parte superior: goma
-- Cierre: Enhebrar
 - Forro: Caucho
+- Cierre: Enhebrar
+- Tipo de tacón: Plano
 - Material de la suela: Caucho
 - Plantilla: sin
 

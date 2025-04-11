@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Capucha con cordón
+- Bolsillo tipo canguro
 - Estampado y bordado de Calvin Klein en el pecho
 - Puños y dobladillo de punto acanalado
-- Bolsillo tipo canguro
 - Forro polar de algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

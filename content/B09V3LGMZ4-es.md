@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Esta funda de silicona, diseñada especialmente por Apple para el iPhone SE, se adapta como un guante a los botones de volumen, el botón lateral y las curvas del teléfono sin abultar nada
-- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
 - Es ideal para que protejas tu iPhone de arañazos y caídas sin renunciar al estilo.
+- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09V3LGMZ4{{</world>}}

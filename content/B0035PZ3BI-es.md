@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con los accesorios Dremel EZ SpeedClic
-- Velocidad máxima recomendada: 35.000 RPM
 - El mandril EZ SpeedClic de Dremel (SC402) es Adecuada para montar fácilmente diferentes accesorios; desde discos de fieltro para pulir hasta discos de corte y desde bandas de lijado hasta piedras de amolar
-- Diámetro de la espiga: 3,2 mm
 - Se adapta a todas las herramientas Dremel multiusos/rotativas u otras herramientas multiusos/rotativas con mandril de 3,2 mm
+- Velocidad máxima recomendada: 35.000 RPM
+- Diámetro de la espiga: 3,2 mm
+- Compatible con los accesorios Dremel EZ SpeedClic
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0035PZ3BI{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Luz COB superbrillante】:800 lúmenes de luces con gran ángulo de luz brillante.Puede seleccionar diferentes modos de acuerdo a sus necesidades: COB luz alta, COB luz baja, COB luz de flash.
 - 【Compacto y práctico】: El llavero COB ligero son la luz pesa, con un diseño de mosquetón, un imán fuerte y un agujero trípode en la parte inferior, lo que le permite mantener las manos libres mientras se trabaja, Super conveniente para ponerlo en su bolso o kaychain y utilizarlo en cualquier momento y en cualquier lugar.
+- 【Recargable por USB】:4 Llavero linterna viene con 4 cable USB y tiene un indicador de potencia de 4 bares,Mini linternas recargables se cargan a través de USB.Alimentado por una gran capacidad incorporada de 500mAh batería recargable para facilitar la carga con ordenadores, portátiles, cargadores de pared y cargadores de coche.
 - 【Miniluz de trabajo multifunción】:Mini linterna tiene un diseño de mosquetón, que se puede conectar fácilmente a llavero o bolsillos, este super brillante mini luz LED también se puede utilizar como un abridor de botellas, Mini llavero linterna de emergencia.
 - 【Amplia aplicación】:Llavero de luz se puede utilizar en diversos escenarios, tales como camping, senderismo, reparación, caminar, taller, reparación de automóviles, la caza, la pesca, la sala de emergencia.también se puede dar como regalo a su familia y amigos.
-- 【Recargable por USB】:4 Llavero linterna viene con 4 cable USB y tiene un indicador de potencia de 4 bares,Mini linternas recargables se cargan a través de USB.Alimentado por una gran capacidad incorporada de 500mAh batería recargable para facilitar la carga con ordenadores, portátiles, cargadores de pared y cargadores de coche.
+- 【Luz COB superbrillante】:800 lúmenes de luces con gran ángulo de luz brillante.Puede seleccionar diferentes modos de acuerdo a sus necesidades: COB luz alta, COB luz baja, COB luz de flash.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BY1Z6YDD{{</world>}}

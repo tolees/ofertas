@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logo de Tommy Hilfiger bordado en el bajo
 - Logo de Tommy Hilfiger en el pecho
 - Cinta distintiva en el interior del cuello
+- Logo de Tommy Hilfiger bordado en el bajo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07N8ZKJ9Q{{</world>}}

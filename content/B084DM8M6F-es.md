@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MULTIUSOS: Las formas son sinuosas y cautivadoras, la funcionalidad está garantizada
-- El aperitivo se divide en tres recipientes en los que caben desde cacahuetes hasta aceitunas, desde verduras frescas en juliana hasta deliciosos trozos de queso
-- MATERIAL: El plato aperitivo TIERRA está elaborado con plástico procedente de botellas o frascos
-- DIMENSIONES: 29,5 x 21,4 x h5,2cm
 - FÁCIL DE LIMPIAR: Apto para lavavajillas con lavado ECO-Cycle o con lavado MAX 55°C - rejilla superior
+- MATERIAL: El plato aperitivo TIERRA está elaborado con plástico procedente de botellas o frascos
+- El aperitivo se divide en tres recipientes en los que caben desde cacahuetes hasta aceitunas, desde verduras frescas en juliana hasta deliciosos trozos de queso
+- MULTIUSOS: Las formas son sinuosas y cautivadoras, la funcionalidad está garantizada
+- DIMENSIONES: 29,5 x 21,4 x h5,2cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B084DM8M6F{{</world>}}

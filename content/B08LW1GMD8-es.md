@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- OB FO SRC, espuma viscoelástica, antideslizante, EN ISO 20347:2017
 - Bungee Athletic sin cordones con parte inferior antideslizante
+- OB FO SRC, espuma viscoelástica, antideslizante, EN ISO 20347:2017
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LW1GMD8{{</world>}}
