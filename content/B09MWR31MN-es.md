@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Un ajuste versátil con un talle alto favorecedor
 - Llega al tobillo
 - Este producto es original Levis
-- Un ajuste versátil con un talle alto favorecedor
 - Acabado con una pierna recta clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

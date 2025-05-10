@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Vileda Super fregona Azul  Diseño Rincones  1 fregona'
-date: 2024-03-10 09:29:07
-image: 'https://m.media-amazon.com/images/I/41KGbIRYePL._SL500_._SL400_.jpg'
+title: 'Vileda - Superfregona con Zona 100% microfibras'
+date: 2025-05-10 14:04:09
+image: 'https://m.media-amazon.com/images/I/410A4OMmVYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00EVRDJY2-es Vileda Super fregona Azul Diseño Rincones 1 fregona'
+slug: 'B00EVRDJY2-es Vileda - Superfregona con Zona 100% microfibras'
 sku: 'B00EVRDJY2-es'
-tags: [ '🇪🇸', ]
-actualPrice: 1.39 EUR
+tags: [ '3a1037cb-1d61-4d38-b3ed-b84d59d4ff46_0','3a1037cb-1d61-4d38-b3ed-b84d59d4ff46_5601','9523d978-59fe-477f-8c56-f69a4f1f65a6_0','9523d978-59fe-477f-8c56-f69a4f1f65a6_1601','9523d978-59fe-477f-8c56-f69a4f1f65a6_201','9523d978-59fe-477f-8c56-f69a4f1f65a6_3301','9523d978-59fe-477f-8c56-f69a4f1f65a6_6201','Ahorra en tendido, planchado y limpieza Vileda','Arborist Merchandising Root','Básicos de limpieza','Custom Stores','Fregonas de cuerdas para el hogar','Hogar y cocina','Limpieza del hogar','Los favoritos de nuestros clientes Social: Hogar y cocina','Los favoritos de nuestros clientes Social: Hogar y cocina líneas duras','Mopas húmedas y secas para el hogar','Productos y utensilios de limpieza','Self Service','Special Features Stores','Top Brands Kitchen Cleaning','Top Brands Kitchen Selection','Vuelta a casa','vileda','🇪🇸', ]
+actualPrice: 3.49 EUR
 currency: EUR
-price: 1.39
-comparePrice: 2.99 EUR
-prodname: 'Vileda Super fregona Azul  Diseño Rincones  1 fregona'
+price: 3.49
+comparePrice: 5.99 EUR
+prodname: 'Vileda - Superfregona con Zona 100% microfibras'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Vileda'
 buyurl: 'https://www.amazon.es/dp/B00EVRDJY2/?tag=tolees-21'
-descuento: '53.51'
-average: '2.16413793103447'
+descuento: '41.74'
+average: '2.32484848484847'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Anclaje universal apto para cualquier palo
-- Contenido del envío: 1 x recambio de fregona Super, cabezal Universal, lavable hasta 60°, peso 0.13 Kg, medidas: 8 x 28 x 8 cm, color azul
-- Cabezal limpia-rincones, exclusivo de Vileda, para acceder y limpiar fácilmente esquinas y rincones
-- Las tiras con 30% de microfibras aportan una gran capacidad de limpieza y absorción; ideal para la limpieza diaria
-- La zona 100% Microfibras, ubicada en la zona de más fricción, asegura la máxima resistencia y limpieza de la suciedad más difícil
+- Máxima limpieza y resistencia incluso con lejía
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00EVRDJY2{{</world>}}

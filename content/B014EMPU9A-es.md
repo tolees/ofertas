@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Entresuela estilo jogger que absorbe los golpes
-- Skechers Espuma viscoelástica refrigerada por aire
 - Suela de tracción de goma flexible
+- Skechers Espuma viscoelástica refrigerada por aire
 - Detalles del logotipo de Skechers
 
 [🛒 Comprar!!!]({{< param buyurl >}})

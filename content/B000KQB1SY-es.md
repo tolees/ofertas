@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cobertura alta, acabado luminoso y natural
-- Libre de aceites, adecuado para todo tipo de pieles
-- No comedogénico. No obstruye los poros
-- Cobertura líquida de larga duración
 - Fórmula a prueba de roces, no mancha ni se transfiere
+- No comedogénico. No obstruye los poros
+- Cobertura alta, acabado luminoso y natural
+- Cobertura líquida de larga duración
+- Libre de aceites, adecuado para todo tipo de pieles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000KQB1SY{{</world>}}

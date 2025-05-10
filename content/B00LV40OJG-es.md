@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricada de 100% poliéster
+- Capucha y cuello alto para detener el viento
 - Chubasquero abierto con cremallera que incluye bolsillos y tiene puños ajustables con elástico
 - El interior incorpora la tecnología Micro-Mesh para buena transpiración y ventilación
-- Capucha y cuello alto para detener el viento
+- Fabricada de 100% poliéster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00LV40OJG{{</world>}}

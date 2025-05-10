@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Bluetooth 5.3 de Última Generación – Disfruta de una conexión más rápida, estable y eficiente con menor interferencia y menor consumo de energía
-- Conectividad Estable y de Bajo Consumo – Optimiza la eficiencia energética y minimiza interferencias para una transmisión fluida de datos y audio
+- Compatibilidad Amplia – Compatible con Windows 11/10/8.1/7 (requiere controlador en Windows 7/8.1); No compatible con macOS, Linux ni sistemas de automóviles
 - Tamaño Nano y Diseño Compacto – Adaptador ultracompacto que se puede dejar conectado al portátil sin obstrucciones; Óptimo para usuarios en movimiento
 - Óptimo para actualizar PC y portátiles sin Bluetooth; Mejora tu conectividad inalámbrica con el Mercusys MA530
-- Compatibilidad Amplia – Compatible con Windows 11/10/8.1/7 (requiere controlador en Windows 7/8.1); No compatible con macOS, Linux ni sistemas de automóviles
+- Conectividad Estable y de Bajo Consumo – Optimiza la eficiencia energética y minimiza interferencias para una transmisión fluida de datos y audio
 - Fácil Instalación, Plug & Play – Instalación automática en Windows 10 y 11 sin necesidad de controladores adicionales; Conéctalo y úsalo al instante con auriculares, altavoces, ratones, teclados y más
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

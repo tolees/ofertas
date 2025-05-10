@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- IP44 - apto para exteriores
-- Bombilla no incluida
-- Peso: 0.633 Kg
 - Materiales de calidad: aluminio fundido de alta calidad y materiales sintéticos superiores
-- Dura hasta 10 años
+- IP44 - apto para exteriores
+- Peso: 0.633 Kg
 - Dimensiones del producto: 24 x 17.5 x 20 cm
+- Dura hasta 10 años
+- Bombilla no incluida
 - Estilo tradicional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

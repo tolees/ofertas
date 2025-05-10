@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tamaño compacto (28 cm de diámetro) y diseño ligero para una sensación mejorada de Force Feedback
-- Compatible con el ecosistema de Thrustmaster: T500 RS, T300 RS Servo Base, T300 RS, T300 GT Edition, T300 Ferrari GTE, T300 Ferrari Integral Racing Wheel Alcantara Edition, TX Racing Wheel Servo Base, TX Racing Wheel, TX Racing Wheel Leather Edition, TS-XW RACER, TS-PC RACER, T-GT (se venden por separado)
 - 2 sensibles levas secuenciales de cambio de marchas, montadas en el volante (100% metálicas, 7,5 cm de altura)
 - Placa frontal robusta realizada en aluminio cepillado negro
+- Compatible con el ecosistema de Thrustmaster: T500 RS, T300 RS Servo Base, T300 RS, T300 GT Edition, T300 Ferrari GTE, T300 Ferrari Integral Racing Wheel Alcantara Edition, TX Racing Wheel Servo Base, TX Racing Wheel, TX Racing Wheel Leather Edition, TS-XW RACER, TS-PC RACER, T-GT (se venden por separado)
 - 6 botones de acción + 1 D-pad + 1 interruptor selector giratorio (3 posiciones con botón pulsador)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

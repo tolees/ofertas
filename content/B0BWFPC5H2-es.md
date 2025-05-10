@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de calidad
 - Pantalla 15, 6"
+- Material de calidad
 - Resolución: 1920 x 1080 píxeles
 
 [🛒 Visítala!!!]({{< param buyurl >}})
