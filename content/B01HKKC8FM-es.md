@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tiene detalles distintivos de la marca
-- Pantalon largo deportivo
 - Ofrece comodidad y libertad de movimiento
+- Pantalon largo deportivo
 - Tejido transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

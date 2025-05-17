@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Chaqueta de amortiguador corta y fuertemente acolchada para hombre
-- Cuello alto, bolsillos laterales
 - De poliéster con forro de tafetán
+- Cuello alto, bolsillos laterales
 - Dobladillo con cordón y topes
 - Ein Klick auf den Markennamen führt zum URBAN CLASSICS Brand Store und noch mehr angesagter Streetwear!
 

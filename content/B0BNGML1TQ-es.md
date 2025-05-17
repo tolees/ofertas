@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI G27CQ4 E2 - Monitor Gaming Curvo 27"  WQHD  170 Hz  2560x1440  VA  Curvatura 1500R  16:9  1 ms  AMD Freesync Premium  Frameless  HDR Ready  Compatible con consolas FHD a 120Hz '
-date: 2025-05-16 14:12:41
+date: 2025-05-17 14:51:40
 image: 'https://m.media-amazon.com/images/I/41-gKo+NY+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MSI'
 buyurl: 'https://www.amazon.es/dp/B0BNGML1TQ/?tag=tolees-21'
 descuento: '43.48'
-average: '225.184375000001'
+average: '218.941666666668'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Amplia gama cromática: los colores y detalles de los juegos tendrán un aspecto más realista y refinado
 - Tasa de refresco de 165 Hz y tiempo de respuesta de 1ms: juegos realmente fluidos
-- Diseño sin marcos: disfruta de la experiencia de juego definitiva con unos biseles superestrechos
 - Alta resolución WQHD - Los títulos de juegos se verán incluso óptimo, mostrando más detalles gracias a la resolución WQHD
 - Anti-Flicker y reducción de la luz azul - Juega incluso más tiempo evitando el cansancio y la fatiga ocular
+- Diseño sin marcos: disfruta de la experiencia de juego definitiva con unos biseles superestrechos
 - Pantalla Gaming curva (1500R): la óptima inmersión en el juego
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

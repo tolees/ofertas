@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Batería de litio recargable
 - Mide la concentración de CO2 y formaldehido en el aire.
-- Pantalla retroiluminada.
 - Alarma por niveles altos.
+- Batería de litio recargable
+- Pantalla retroiluminada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09LVMK6X7{{</world>}}

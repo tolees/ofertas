@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sierra de calar Makita modelo JV101DZ de 12V.'
-date: 2025-05-16 13:57:25
+date: 2025-05-17 14:47:03
 image: 'https://m.media-amazon.com/images/I/41Oe3nps49L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MAKITA'
 buyurl: 'https://www.amazon.es/dp/B01E8D9IQQ/?tag=tolees-21'
 descuento: '35.15'
-average: '62.7544117647059'
+average: '62.7491666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad en madera 65 mm
 - Biseles de 0 a 45 grados a la izquierda y a la derecha
-- Voltaje: 10,8 V (mín.) - 12 V (máx.)
-- Capacidad en acero de 2 mm
-- Vástago tipo bayoneta
 - 1 año de garantía del fabricante con 2 años adicionales si se registra dentro de los 30 días de la compra. (Esta garantía no se aplica cuando se montan piezas o accesorios no originales o recomendados en las herramientas)
+- Capacidad en madera 65 mm
+- Vástago tipo bayoneta
+- Capacidad en acero de 2 mm
 - Freno eléctrico
+- Voltaje: 10,8 V (mín.) - 12 V (máx.)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01E8D9IQQ{{</world>}}

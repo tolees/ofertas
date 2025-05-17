@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% poliéster (reciclado)
-- Cierre de cremallera y cuello alzado
-- Tecnología transpirable AEROREADY
 - Corte entallado
+- Tecnología transpirable AEROREADY
+- Cierre de cremallera y cuello alzado
 - Bolsillos frontales de ojal
+- 100% poliéster (reciclado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09SLKY9WT{{</world>}}

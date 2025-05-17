@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Horma clásica
-- Suela de goma; forro textil
 - Plantilla ligera de EVA Adibouncy
-- Parte superior de piel lisa
 - Cierre de cordones
+- Suela de goma; forro textil
+- Parte superior de piel lisa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07S8SY4MX{{</world>}}

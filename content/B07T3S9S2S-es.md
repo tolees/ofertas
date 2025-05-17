@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Regina Blitz es el papel para el hogar que, gracias a sus maxi-hojas y textura única, no deja pelusas y permite limpiar todas las superficies de forma rápida y eficaz sin dejar marcas
 - La certificación Forestal FSC garantiza que los rollos Regina Blitz son producidos con materias primas de bosques gestionados en modo responsable; eligiendo Regina estás respetando el medio ambiente
+- Regina Blitz es el papel para el hogar que, gracias a sus maxi-hojas y textura única, no deja pelusas y permite limpiar todas las superficies de forma rápida y eficaz sin dejar marcas
 - Sus tres capas y textura especial le otorgan mayor resistencia y poder de absorción, haciendo que cada hoja sea mucho más eficaz para limpiar y eliminar la suciedad, para un hogar impecable
 - Regina Blitz es un producto de Sofidel, una empresa italiana que, mediante el uso de tecnologías notables, impulsa proyectos de higiene, salud y bienestar para reducir la huella medioambiental
 - El embalaje de papel reciclable contiene 5 rollos, cada uno con 100 hojas de tres capas, y gracias al diseño de fácil apertura, el paquete se puede abrir con un simple gesto

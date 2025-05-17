@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acondicionar Restaurador e Iluminador para todo tipo de cabello rubio y/o con mechas con polifenoles de Açai. Ayuda a potenciar la multidimensionalidad y luminosidad del cabello rubio a la vez que protege, cuida e ilumina.
 - Para mechas o cabellos rubios fortalecidos e iluminados. Enfatiza el brillo natural del cabello rubio.
 - Aplicar sobre cabello lavado y húmedo, repartiendo de forma uniforme. Emulsionar y aclarar. Se recomienda utilizar despuésdel champú de la misma gama.
+- Acondicionar Restaurador e Iluminador para todo tipo de cabello rubio y/o con mechas con polifenoles de Açai. Ayuda a potenciar la multidimensionalidad y luminosidad del cabello rubio a la vez que protege, cuida e ilumina.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0918FHT1L{{</world>}}

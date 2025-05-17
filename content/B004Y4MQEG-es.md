@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Transparente con iluminación azul
-- Bass Reflex Tipo-G
 - 400 W Máximo, 120 W RMS
+- Bass Reflex Tipo-G
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004Y4MQEG{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nota: El embalaje puede variar
-- GRANOS DE CAFÉ 100% ARÁBICA illys El sabor distintivo, suave, rico y con mucho cuerpo se crea a partir de la hábil mezcla de granos de arábica cultivados al 100% de forma sostenible, seleccionados de diferentes regiones productoras de todo el mundo
-- CRECIMIENTO SOSTENIBLE Durante más de 30 años, illy se ha comprometido con el cultivo sostenible del café y las relaciones directas con los productores de café, ayudándolos a desarrollar habilidades y técnicas y a mantenerse al día sobre las innovaciones en materia de sostenibilidad, sin costo alguno para ellos.
-- AUTÉNTICA CALIDAD ITALIANA illy el café se envasa en una lata presurizada sin aire que realza y sella los aromas y aceites, para obtener un café perfecto. Impecablemente consistente, suave, equilibrado y nunca amargo.
 - CAFÉ MOLIDO illys el café molido se muele finamente para proporcionar una extracción óptima con máquinas de café que aceptan café molido y apisonado.
+- GRANOS DE CAFÉ 100% ARÁBICA illys El sabor distintivo, suave, rico y con mucho cuerpo se crea a partir de la hábil mezcla de granos de arábica cultivados al 100% de forma sostenible, seleccionados de diferentes regiones productoras de todo el mundo
+- Nota: El embalaje puede variar
+- AUTÉNTICA CALIDAD ITALIANA illy el café se envasa en una lata presurizada sin aire que realza y sella los aromas y aceites, para obtener un café perfecto. Impecablemente consistente, suave, equilibrado y nunca amargo.
+- CRECIMIENTO SOSTENIBLE Durante más de 30 años, illy se ha comprometido con el cultivo sostenible del café y las relaciones directas con los productores de café, ayudándolos a desarrollar habilidades y técnicas y a mantenerse al día sobre las innovaciones en materia de sostenibilidad, sin costo alguno para ellos.
 - CLASSICO MEDIUM TOAST Nuestro delicioso café espresso Classico tiene un tostado medio y tiene una dulzura persistente y delicadas notas de caramelo, azahar y jazmín.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

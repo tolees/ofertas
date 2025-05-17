@@ -29,14 +29,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Las brocas para metal con recubrimiento de nitruro de titanio se caracterizan por una larga vida útil y una elevada resistencia
-- Brocas para piedra duraderas y reforzadas con metal duro
-- Aviso de seguridad: utilizar la protección necesaria según la aplicación: perforar metal: gafas protectoras; perforar madera: gafas protectoras y máscara contra el polvo; perforar piedra: gafas protectoras, máscara contra el polvo, orejeras y guantes
-- Apropiado para todas las marcas de herramientas eléctricas
-- Puntas de atornillar para todos los tipos convencionales de cabezas de tornillo y llaves de vaso
-- Maletín robusto de plástico con buena disposición del contenido, se puede reequipar cuando sea necesario
 - Brocas estándar para madera y brocas fresadoras planas con recubrimiento de nitruro de titanio, para una elevada velocidad de corte y orificios limpios y precisos en madera
-- Al perforar metal se recomienda la utilización de líquido de refrigeración como, por ejemplo, aceite para corte universal Bosch 2 607 001 409
+- Puntas de atornillar para todos los tipos convencionales de cabezas de tornillo y llaves de vaso
+- Apropiado para todas las marcas de herramientas eléctricas
 - Permiten perforar de forma rápida y limpia en los metales más diversos, plexiglás y plásticos duros (no son adecuadas para aluminio)
+- Al perforar metal se recomienda la utilización de líquido de refrigeración como, por ejemplo, aceite para corte universal Bosch 2 607 001 409
+- Aviso de seguridad: utilizar la protección necesaria según la aplicación: perforar metal: gafas protectoras; perforar madera: gafas protectoras y máscara contra el polvo; perforar piedra: gafas protectoras, máscara contra el polvo, orejeras y guantes
+- Maletín robusto de plástico con buena disposición del contenido, se puede reequipar cuando sea necesario
+- Brocas para piedra duraderas y reforzadas con metal duro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000P4IQN4{{</world>}}
