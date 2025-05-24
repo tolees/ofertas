@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Memoria RAM de 16GB
-- Almacenamiento de 512GB SSD
 - Pantalla de 15.6", Full HD LED 1920 x 1080 píxeles, Antirreflectante
-- Sistema operativo Windows 11 Home
-- Procesador Intel Core i5-1335U, 1.8 / 5.4 GHz, 12 MB Smart Cache
 - Tarjeta gráfica Intel Iris Xe Graphics
+- Almacenamiento de 512GB SSD
+- Procesador Intel Core i5-1335U, 1.8 / 5.4 GHz, 12 MB Smart Cache
+- Sistema operativo Windows 11 Home
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6ZKJVSB{{</world>}}

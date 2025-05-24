@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'APLI 11711 - Clips niquelados nº2 32 mm 100 u.'
-date: 2025-05-23 13:38:21
+date: 2025-05-24 17:50:46
 image: 'https://m.media-amazon.com/images/I/51Toh3v3MiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'APLI'
 buyurl: 'https://www.amazon.es/dp/B008OEEVKO/?tag=tolees-21'
 descuento: '81.07'
-average: '2.02636029411766'
+average: '2.01777372262776'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Paquete de 100 piezas
-- Los clips están niquelados
 - Tienen 32 mm
 - Adecuadas para documentos
+- Los clips están niquelados
+- Paquete de 100 piezas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008OEEVKO{{</world>}}

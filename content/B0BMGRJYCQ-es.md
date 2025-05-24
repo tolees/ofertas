@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Acompaña cualquier plato como hamburguesas, tortillas, albóndigas o patatas fritas
 - Sin azúcares añadidos, con un sabor increíblemente bueno y con la mitad de calorías que el Ketchup Original. Sin gluten, sin lactosa y apto para veganos.
 - Con la gama más amplia del mercado, Prima es Nº1 en salsas Cero sin azúcares añadidos.
-- Acompaña cualquier plato como hamburguesas, tortillas, albóndigas o patatas fritas
 - Misma receta ahora envasada en botella 100% reciclada
 - Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
 

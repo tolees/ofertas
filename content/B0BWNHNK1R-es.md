@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 0
 - Raspberry camara para raspberry pi module v2 (9132664)
+- 0
 - 0
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

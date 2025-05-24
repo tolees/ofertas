@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Resistente al agua hasta 5 ATM/50 metros/168 pies | Resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
 - El cristal de zafiro es resistente a golpes y rayaduras
 - Classic Watch Collection; Clásico, purista y, sin embargo, emocionante: inspirado en el diseño danés; Quartz
-- Correa: acero inoxidable de grado médico (316l)/azul/185 mm de largo/14 mm de ancho
-- Caja: acero inoxidable de grado médico (316l)/plata/26 mm de diámetro/6 mm de espesor
-- Resistente al agua hasta 5 ATM/50 metros/168 pies | Resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
 - El reloj incluye la caja original de BERING
+- Caja: acero inoxidable de grado médico (316l)/plata/26 mm de diámetro/6 mm de espesor
+- Correa: acero inoxidable de grado médico (316l)/azul/185 mm de largo/14 mm de ancho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01BM0BKM8{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Su cepillo flexible que se adapta a cualquier tipo de pestaña logra un volumen redefinido y longitud sin límites
-- Úsalo solo para un acabado natural mientras cuidas tus pestañas o con la máscara Sky High para una longitud y volumen amplificados
-- Fórmula con Ceramidas y Pro-Vitamina B5 para unas pestañas más cuidadas en 4 semanas
 - Nutre tus pestañas y añade longitud y volumen
 - Primer de pestañas con color negro Lash Sensational Sky High Primer de Maybelline New York
+- Fórmula con Ceramidas y Pro-Vitamina B5 para unas pestañas más cuidadas en 4 semanas
+- Úsalo solo para un acabado natural mientras cuidas tus pestañas o con la máscara Sky High para una longitud y volumen amplificados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNQVMGZV{{</world>}}

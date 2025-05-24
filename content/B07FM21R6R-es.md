@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Plain
-- Recycled Polyester
-- materialFabricComposition: 50% Acrylic, 50% Recycled Polyester
-- Care Label:
 - Scarf
+- Recycled Polyester
+- Care Label:
+- materialFabricComposition: 50% Acrylic, 50% Recycled Polyester
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FM21R6R{{</world>}}

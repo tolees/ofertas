@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PEPE JEANS - Pepe-jeans'
-date: 2025-05-16 20:01:44
+date: 2025-05-24 16:26:17
 image: 'https://m.media-amazon.com/images/I/413m10aCoYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PEPE JEANS'
 buyurl: 'https://www.amazon.es/dp/B09QLGBNLP/?tag=tolees-21'
 descuento: '42.79'
-average: '39.7666666666667'
+average: '39.856'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

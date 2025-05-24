@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perforar de forma rápida y limpia en los metales más diversos, plexiglás y plásticos duros (no utilizar para aluminio)
-- Utilizar la protección necesaria según la aplicación: gafas protectoras y máscara contra el polvo
-- Brocas para metal HSS-TiN,madera y brocas fresadoras planas con recubrimiento de nitruro de titanio
 - Maletín robusto de plástico con buena disposición del contenido, se puede reequipar cuando sea necesario
+- Brocas para metal HSS-TiN,madera y brocas fresadoras planas con recubrimiento de nitruro de titanio
 - Para perforar metal se recomienda la utilización de líquido de refrigeración
 - Sierras de corona para orificios en techos
 - Cuarenta puntas de atornillar con cabeza Phillips, Prozidriv, Torx, hexagonal y de ranura longitudinal
+- Perforar de forma rápida y limpia en los metales más diversos, plexiglás y plásticos duros (no utilizar para aluminio)
+- Utilizar la protección necesaria según la aplicación: gafas protectoras y máscara contra el polvo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000P4KRTU{{</world>}}

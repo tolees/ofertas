@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
 - Horma clásica
-- Suela de goma; forro textil
 - Plantilla ligera de EVA Adibouncy
+- Suela de goma; forro textil
+- Cierre de cordones
 - Parte superior de piel lisa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sudadera deportiva
 - Con cremallera en la parte delantera
-- Detalles distintivos de la marca
 - Fabricada en material cómodo
+- Detalles distintivos de la marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FJL75RJ{{</world>}}

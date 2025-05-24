@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tenga en cuenta que el artículo no viene sellado por el fabricante
 - Ultrasuave y suave para los ojos; fácil de aplicar de una sola pasada
-- El lápiz suave es lo suficientemente firme como para crear una forma que defina los ojos
-- Manchas para un efecto de sombra en los párpados o debajo de las pestañas inferiores
-- El ideal para ojos ahumados seductores
+- Tenga en cuenta que el artículo no viene sellado por el fabricante
 - Fácil de aplicar
+- El lápiz suave es lo suficientemente firme como para crear una forma que defina los ojos
+- El ideal para ojos ahumados seductores
+- Manchas para un efecto de sombra en los párpados o debajo de las pestañas inferiores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001IZYQQU{{</world>}}

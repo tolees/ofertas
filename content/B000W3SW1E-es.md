@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A prueba de roces, a prueba del día a día
-- Sin aceite, sin fragancia
 - No obstruye los poros
+- Sin aceite, sin fragancia
+- A prueba de roces, a prueba del día a día
 - Sensación ligera
 - Base de maquillaje líquida
 

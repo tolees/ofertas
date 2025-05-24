@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pulverizador de aceite con spray que dosifica de manera uniforme el aceite sobre los alimentos. Es el complemento perfecto para cocinar en la freidora de aire con el mínimo aceite posible, de forma muy sana. Pero también lo puedes utilizar para echar en la sartén, en ensaladas, tostadas, ...
 - Lo puedes utilizar también con otros líquidos como vinagres o esencias.
+- MEDIDAS: 16,8 x 6,3 cm
+- Pulverizador de aceite con spray que dosifica de manera uniforme el aceite sobre los alimentos. Es el complemento perfecto para cocinar en la freidora de aire con el mínimo aceite posible, de forma muy sana. Pero también lo puedes utilizar para echar en la sartén, en ensaladas, tostadas, ...
 - Está hecho de vidrio y polipropileno. No contiene BPA y es apto para estar en contacto con alimentos.
 - Tiene una capacidad de 150 mililitros. Es un tamaño compacto y cuenta con un diseño práctico, moderno y resistente.
-- MEDIDAS: 16,8 x 6,3 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN1JPX5F{{</world>}}
