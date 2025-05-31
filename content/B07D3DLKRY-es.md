@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 16 colores básicos + 4 colores neón
-- Rotulador de fibra para escritura, bocetos y diseños sobre papel de color claro
-- La tinta a base de agua no traspasa el papel
 - El grosor de trazo de la punta redonda es de 1 mm
+- Rotulador de fibra para escritura, bocetos y diseños sobre papel de color claro
+- 16 colores básicos + 4 colores neón
 - Forma de la punta: redondo
+- La tinta a base de agua no traspasa el papel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07D3DLKRY{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Conservar en lugar fresco y seco
+- País de Origen: España
+- Santal Avena es una bebida vegetal sin azúcar
 - Bebidas deliciosas, con envase Sostenible bio-based, 100% vegetales y saludables sin azúcar
 - Una vez abierto el envase debe conservarse en frío, siendo aconsejable su consumo en los 2 ó 3 días siguientes
-- País de Origen: España
-- Conservar en lugar fresco y seco
-- Santal Avena es una bebida vegetal sin azúcar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088PJQL3M{{</world>}}

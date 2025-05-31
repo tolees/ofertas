@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuidarse y sentirse bien nunca había sido tan fácil.
 - Rinse off foaming cleanser ii 150 ml
+- Cuidarse y sentirse bien nunca había sido tan fácil.
 - Los mejores productos de higiene para tu día a día.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

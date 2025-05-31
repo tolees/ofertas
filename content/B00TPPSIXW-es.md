@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligera y con textura no grasa, este aceite Hawaiian Tropic refresca tu piel con una ligera fragancia tropical
-- Disfruta de una protección resistente al agua hasta 80 minutos, tanto si estás jugando a volley en la playa o en la piscina
-- Hawaiian Tropic Protective Oil proporciona protección UVA y UVB y es de rápida absorción
 - Con aceite de Argán, esta lujosa fórmula mima e hidrata tu piel, dándole un brillo saludable
+- Disfruta de una protección resistente al agua hasta 80 minutos, tanto si estás jugando a volley en la playa o en la piscina
+- Ligera y con textura no grasa, este aceite Hawaiian Tropic refresca tu piel con una ligera fragancia tropical
 - Libre de Alcohol
+- Hawaiian Tropic Protective Oil proporciona protección UVA y UVB y es de rápida absorción
 - Fragancia tropical con aroma a coco y mango
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin colorantes artificiales
 - Caramelos de goma con forma de dedos
+- Sin colorantes artificiales
 - Apto para celacos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

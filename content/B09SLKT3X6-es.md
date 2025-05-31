@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología transpirable AEROREADY
-- Bolsillos frontales de ojal
 - 100% poliéster (reciclado)
-- Puños y dobladillo elásticos
+- Tecnología transpirable AEROREADY
 - Corte entallado
+- Bolsillos frontales de ojal
+- Puños y dobladillo elásticos
 - Puños y dobladillo elásticos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

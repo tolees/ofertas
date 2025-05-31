@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla de 15.6" FHD 1920x1080 pixeles, TN, 220nits, antirreflejos
 - Procesador AMD Ryzen 7 5700U (4.3 GHz)
-- Almacenamiento de 512GB SSD
-- Memoria RAM de 8GB
 - Sistema Operativo: Windows 11 Home
+- Pantalla de 15.6" FHD 1920x1080 pixeles, TN, 220nits, antirreflejos
+- Memoria RAM de 8GB
+- Almacenamiento de 512GB SSD
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQRMSPY4{{</world>}}

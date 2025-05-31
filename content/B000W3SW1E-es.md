@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No obstruye los poros
 - Base de maquillaje líquida
-- Sin aceite, sin fragancia
 - Sensación ligera
 - A prueba de roces, a prueba del día a día
+- Sin aceite, sin fragancia
+- No obstruye los poros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000W3SW1E{{</world>}}

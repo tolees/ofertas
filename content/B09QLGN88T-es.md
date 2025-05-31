@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: sintético
 - Forma del talón: plano
-- Cuero: Cuero
+- Material exterior: sintético
 - Material interior: piel
-- Cierre: goma
 - Talla del zapato: Medium
+- Cierre: goma
+- Cuero: Cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09QLGN88T{{</world>}}

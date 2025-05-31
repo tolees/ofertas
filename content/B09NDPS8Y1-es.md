@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica con cordón
-- Bolsillos en las costuras laterales
 - Tecnología transpirable AEROREADY
 - Corte clásico
 - Interlock 100% poliéster reciclado
+- Bolsillos en las costuras laterales
+- Cintura elástica con cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NDPS8Y1{{</world>}}

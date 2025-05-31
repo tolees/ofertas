@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Incluye bandeja y parrilla
 - Luz interior
-- Horno de 1500W con 30 l de capacidad
 - Puerta de doble cristal de alta resistencia
+- Horno de 1500W con 30 l de capacidad
 - 6 niveles de potencia con 3 posiciones de grill
 - Temporizador hasta 60 min y temperatura regulable hasta 220ºC
 

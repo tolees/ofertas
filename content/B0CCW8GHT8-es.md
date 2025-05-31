@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Wired/Wireless Networking-Connect your camera to the network through WiFi or Ethernet for more flexible installation.
 - Detección gratuita de personas/mascotas/vehículos: la inteligencia artificial inteligente identifica personas, mascotas y vehículos y notifica a los usuarios según sea necesario.
 - Cobertura visual de 360°: proporciona un rango de visualización horizontal de 360° y vertical de 130°, lo que le permite concentrarse en áreas más vitales y eliminar los puntos ciegos.
 - 2K QHD Live View: con una resolución de 2560 × 1440, Tapo C520WS proporciona 1,7 × más píxeles y ofrece imágenes más nítidas que 1080p.
+- Resistente a la intemperie IP66: ofrece un excelente rendimiento a prueba de agua y polvo para escenarios al aire libre.
 - Alarma de luz y sonido personalizable: grabe su propio audio como una alarma para ampliar sus usos. La luz ultrabrillante y ajustable también es compatible para ahuyentar a los visitantes no deseados.
 - Almacenamiento seguro local y en la nube: guarde los videos grabados en una tarjeta microSD o mediante los servicios en la nube de Tapo Care**.
-- Wired/Wireless Networking-Connect your camera to the network through WiFi or Ethernet for more flexible installation.
 - Visión nocturna en color Starlight: adoptando una lente de gran apertura F1.6 y un sensor de luz estelar, Tapo C520WS captura más luz y tiene una mayor fotosensibilidad, por lo que brinda colores más brillantes en condiciones de poca luz que las cámaras de visión nocturna a todo color con una lente F2.2 y sensor ordinario.
-- Resistente a la intemperie IP66: ofrece un excelente rendimiento a prueba de agua y polvo para escenarios al aire libre.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCW8GHT8{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Freno eléctrico
-- Capacidad en acero de 2 mm
-- 1 año de garantía del fabricante con 2 años adicionales si se registra dentro de los 30 días de la compra. (Esta garantía no se aplica cuando se montan piezas o accesorios no originales o recomendados en las herramientas)
-- Biseles de 0 a 45 grados a la izquierda y a la derecha
 - Vástago tipo bayoneta
+- Biseles de 0 a 45 grados a la izquierda y a la derecha
+- Freno eléctrico
+- 1 año de garantía del fabricante con 2 años adicionales si se registra dentro de los 30 días de la compra. (Esta garantía no se aplica cuando se montan piezas o accesorios no originales o recomendados en las herramientas)
+- Capacidad en acero de 2 mm
 - Capacidad en madera 65 mm
 - Voltaje: 10,8 V (mín.) - 12 V (máx.)
 

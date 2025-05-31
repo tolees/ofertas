@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- materialFabricComposition: 98% Cotton, 2% Elastane
 - Chino trousers
 - Care Label:
-- Slim Fit
-- materialFabricComposition: 98% Cotton, 2% Elastane
 - Normal rise
+- Slim Fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07JP5ZP9H{{</world>}}

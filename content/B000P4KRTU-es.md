@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perforar de forma rápida y limpia en los metales más diversos, plexiglás y plásticos duros (no utilizar para aluminio)
-- Sierras de corona para orificios en techos
-- Cuarenta puntas de atornillar con cabeza Phillips, Prozidriv, Torx, hexagonal y de ranura longitudinal
-- Utilizar la protección necesaria según la aplicación: gafas protectoras y máscara contra el polvo
 - Para perforar metal se recomienda la utilización de líquido de refrigeración
-- Maletín robusto de plástico con buena disposición del contenido, se puede reequipar cuando sea necesario
+- Utilizar la protección necesaria según la aplicación: gafas protectoras y máscara contra el polvo
+- Perforar de forma rápida y limpia en los metales más diversos, plexiglás y plásticos duros (no utilizar para aluminio)
+- Cuarenta puntas de atornillar con cabeza Phillips, Prozidriv, Torx, hexagonal y de ranura longitudinal
 - Brocas para metal HSS-TiN,madera y brocas fresadoras planas con recubrimiento de nitruro de titanio
+- Maletín robusto de plástico con buena disposición del contenido, se puede reequipar cuando sea necesario
+- Sierras de corona para orificios en techos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000P4KRTU{{</world>}}

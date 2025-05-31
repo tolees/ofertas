@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Con la JEFR1221 podrás freír de forma saludable ya que sólo tendrás que utilizar una cucharada de aceite. Pero los resultados serán sabrosos y crujientes habiéndolos cocinado de una forma sana.
 - El cestillo se puede lavar de forma fácil ya que es totalmente compatible con cualquier lavavajillas y, además, es completamente antiadherente.
-- Gracias a su control de temperatura ajustable (de 80 a 200º) podrás elegir la que más se adapte a cada tipo de alimento. Esto, junto con la circulación rápida de aire, te garantiza unos resultados perfectos para cada plato.
-- Su cestillo tiene una capacidad de 1,5 litros lo que te permite freír raciones para 2-3 personas de forma rápida y eficaz.
 - Cuenta con un temporizador de hasta 30 minutos para que lo ajustes manualmente según el alimento que estés preparando.
+- Su cestillo tiene una capacidad de 1,5 litros lo que te permite freír raciones para 2-3 personas de forma rápida y eficaz.
+- Gracias a su control de temperatura ajustable (de 80 a 200º) podrás elegir la que más se adapte a cada tipo de alimento. Esto, junto con la circulación rápida de aire, te garantiza unos resultados perfectos para cada plato.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09J124PRS{{</world>}}

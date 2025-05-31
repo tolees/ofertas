@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hombros relajados y un ajuste cuadrado
 - Hecho de Jersey con material suave para comodidad diaria durante todo el día
 - Cuello sin etiqueta para un uso sin complicaciones
+- Hombros relajados y un ajuste cuadrado
 - Cuello redondo acanalado y mangas cortas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

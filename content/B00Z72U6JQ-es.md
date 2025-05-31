@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- TOLERANCIA ÓPTIMA: Textura ligera que no deja residuo; para todo tipo de pieles, inlcuida piel atópica
+- NO IRRITA EN LOS OJOS: Evaluado bajo control oftalmológico
 - Hidratación intensa y absorción inmediata; oil-free
 - WET SKIN: Puede aplicarse sobre la piel húmeda; sea friendly: Fórmula con la mayoría de ingredientes biodegradables y, o inorgánicos
 - ALTA PROTECCIÓN UV: Evaluada clínicamente en laboratorio y en condiciones reales de alta radiación solar
-- TOLERANCIA ÓPTIMA: Textura ligera que no deja residuo; para todo tipo de pieles, inlcuida piel atópica
-- NO IRRITA EN LOS OJOS: Evaluado bajo control oftalmológico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00Z72U6JQ{{</world>}}
