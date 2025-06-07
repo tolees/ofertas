@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mango de plástico negro
 - 5 años de garantía
-- Ergonómicas para diestros
 - Tijeras de oficina WESTCOTT
+- Mango de plástico negro
+- Ergonómicas para diestros
 - Corte preciso gracias a las cuchillas de acero inoxidable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

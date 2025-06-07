@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene Ginseng, un adaptógeno que posee actividad antifatiga, tanto física como intelectual, mejoran el rendimiento físico, producen sensación de bienestar y mejoran capacidad de memorización
-- Complemento alimenticio a base de Jalea real y otros ingredientes que proporcionan energía y favorecen una acción estimulante general
 - El eleuterococo es un adaptógeno. Asimismo facilita el esfuerzo físico y la rapidez de la recuperación, es estimulante inmunitario y vitalizante. También contiene Taurina, que ejerce importantes funciones fisiológicas en el organismo
-- Se aconseja tomar 1 vial de jalea al día, en ayunas, preferiblemente diluida en agua, leche o zumo de fruta
+- Complemento alimenticio a base de Jalea real y otros ingredientes que proporcionan energía y favorecen una acción estimulante general
 - No se debe superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta equilibrada. Es importante seguir una dieta variada y equilibrada y un estilo de vida saludable. Mantener fuera del alcance de los niños más pequeños Se recomienda beber 2 L de agua al día
+- Se aconseja tomar 1 vial de jalea al día, en ayunas, preferiblemente diluida en agua, leche o zumo de fruta
+- Contiene Ginseng, un adaptógeno que posee actividad antifatiga, tanto física como intelectual, mejoran el rendimiento físico, producen sensación de bienestar y mejoran capacidad de memorización
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01CUEB8GI{{</world>}}

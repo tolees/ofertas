@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3 quemadores de gas: -Izquierda: 1 triple corona de 3,5kW. -Derecha arriba: 1 semi-rápido de 1,75. -Derecha abajo: 1 auxiliar de 1kW
 - Parrillas/Quemadores de hierro fundido
-- Encendido electrónico integrado en el mando
+- 3 quemadores de gas: -Izquierda: 1 triple corona de 3,5kW. -Derecha arriba: 1 semi-rápido de 1,75. -Derecha abajo: 1 auxiliar de 1kW
 - Encimera de gas natural con inyectores para gas butano incluidos en la caja.
+- Encendido electrónico integrado en el mando
 - Entrada gas: parte trasera izquierda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

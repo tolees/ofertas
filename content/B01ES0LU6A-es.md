@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Viene con cuello alto y con tres botones personalizados
-- El logotipo de la marca es impreso en el hombro derecho
 - Polo diseñado con cuello tipo camisa de manga corta
 - Es confeccionada en 94% poliéster y 6% algodón
+- El logotipo de la marca es impreso en el hombro derecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ES0LU6A{{</world>}}

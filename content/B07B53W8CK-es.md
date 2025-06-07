@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- un juego fantástico para los más peques de casa en un nuevo formato de lata. Más transportable, más compacto, más económico…
 - De 2 a 4 jugadores
-- Ideal para llevar en la maleta en cualquier escapada de fin de semana. ¿Seréis capaces de liberar a la princesa de la torre del malvado hechicero?
 - Idioma español, catalán y portugués
+- Ideal para llevar en la maleta en cualquier escapada de fin de semana. ¿Seréis capaces de liberar a la princesa de la torre del malvado hechicero?
+- un juego fantástico para los más peques de casa en un nuevo formato de lata. Más transportable, más compacto, más económico…
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07B53W8CK{{</world>}}

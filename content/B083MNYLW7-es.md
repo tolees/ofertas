@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Varillas finas
 - Diseño atractivo
+- Varillas finas
 - Con estuche y una tela para limpiar los cristales
 - Marca del producto: Tommy Hilfiger
 

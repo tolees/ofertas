@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compacto y plegable
 - Sin necesidad de tabla de planchar
 - 1000 W, hasta 20 g/m
+- Compacto y plegable
 - Listo para usar en 30 segundos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

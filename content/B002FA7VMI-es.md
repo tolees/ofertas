@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color turquesa
-- Punta biselada. Ancho de trazo: 1 - 5 mm
 - Puede usarse para resaltar impresiones inkjet sin emborronar
+- Color turquesa
 - Tinta de secado rápido
+- Punta biselada. Ancho de trazo: 1 - 5 mm
 - Marcador fluorescente con tinta universal brillante, para resaltar sobre cualquier soporte
 
 [🛒 Visítala!!!]({{< param buyurl >}})

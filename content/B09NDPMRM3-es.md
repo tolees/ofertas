@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% poliéster (reciclado)
 - Corte clásico
 - Tecnología transpirable AEROREADY
+- 100% poliéster (reciclado)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09NDPMRM3{{</world>}}

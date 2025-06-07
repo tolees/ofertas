@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pantalla completa AMOLED superior de 16,3cm (6,4"): Escáner para huella dactilar ultrarrápido en pantalla
 - Procesador de juegos MediaTek Helio G95: Juego más fluido
-- Carga Dart de 30 W: 00 % de batería en 65 minutos
-- Batería masiva de 5000 mAh: 40 días en espera
 - Cámara cuádruple con IA de 64MP: Modo inclinación/desplazamiento y modo constelación
+- Batería masiva de 5000 mAh: 40 días en espera
+- Carga Dart de 30 W: 00 % de batería en 65 minutos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08XVFF1RF{{</world>}}

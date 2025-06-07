@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma de mesa: redonda
-- Dimensiones del producto: 62 x 51 x 46 cm
 - Se puede ensamblar fácil y rápidamente
+- Dimensiones del producto: 62 x 51 x 46 cm
 - Producto de vidrio y acero
+- Forma de mesa: redonda
 - Diseño moderno y funcional
 
 [🛒 Aquí!!!]({{< param buyurl >}})

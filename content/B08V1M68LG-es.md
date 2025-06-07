@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ACETATE
-- CARRERA SUN SUNGLASSES FRAMES HOT65 BLACK 63/11/135 UNISEX
-- HOT65
 - BLACK
+- HOT65
+- ACETATE
 - SQUARE
+- CARRERA SUN SUNGLASSES FRAMES HOT65 BLACK 63/11/135 UNISEX
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08V1M68LG{{</world>}}

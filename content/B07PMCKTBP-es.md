@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Solaire Haute Protection Spray Spf50+ 200 Ml
-- Productos de belleza e higiene para mujer y hombre
-- Productos de cuidado personal para tu día a día
 - De la marca Avene
+- Productos de cuidado personal para tu día a día
+- Productos de belleza e higiene para mujer y hombre
+- Solaire Haute Protection Spray Spf50+ 200 Ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PMCKTBP{{</world>}}

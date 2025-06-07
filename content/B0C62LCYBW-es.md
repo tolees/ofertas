@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Optimo para la vuelta al col
 - Con un panda rojo Wonder en su extremo que le aporta originalidad
+- Optimo para la vuelta al col
 - Bolígrafo multicolor, con cuatro colores para poder ir cambiando en el mismo bolígrafo
 - La calidad del mecanismo interior permite cambiar muy fácilmente de color
 

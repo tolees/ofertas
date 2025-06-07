@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - INTELIGENCIA ARTIFICIAL: Smart TV fácil, intuitivo y con Inteligencia Artificial
+- EXPERIENCIA AUDIOVISUAL: compatible con formatos HDR10 Pro, HDR HLG, HDR HGiG
 - FUNCIONES GAMING: Cloud Gaming (Stadia y GeForce Now). Menú exclusivo Gaming, HGiG
 - PROCESADOR DE GRAN POTENCIA: Procesador a5 Gen 5, gran precisión de tonos y colores, Direct LED. Identifica el movimiento de objetos para escalar y simular un Sonido Surround de 5.1 canales
 - THINQ: Ecosistema abierto e inteligente, Smart TV webOS22. Compatible con Apple Home Kit, Google, Alexa. Requiere Magic Remote OPCIONAL
-- EXPERIENCIA AUDIOVISUAL: compatible con formatos HDR10 Pro, HDR HLG, HDR HGiG
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RQ4C4KX{{</world>}}

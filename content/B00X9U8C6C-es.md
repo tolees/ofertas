@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El paquete puede variar.
-- Previene los daños cutáneos a largo plazo, es resistente al agua y no mancha la ropa;
 - Protección muy alta contra los rayos UVB y UVA incluso largos, los rayos UV más numerosos y penetrantes, y algunos efectos de los infrarrojos, causantes de daños celulares en la piel;
+- El paquete puede variar.
 - Textura seca no pegajosa y muy ligera que deja una sensación de piel desnuda y evita que la arena se pegue a tu piel;
+- Previene los daños cutáneos a largo plazo, es resistente al agua y no mancha la ropa;
 - Bruma de protección solar con SPF 50+, especialmente indicada para pieles claras, sensibles e intolerantes al sol;
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

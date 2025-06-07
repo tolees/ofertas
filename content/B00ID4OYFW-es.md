@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para ramos macizos bajos, jardineras y balcones
-- Siembra directa de abril a junio
 - Floración escalonada durante finales de primavera y verano
+- Siembra directa de abril a junio
+- Para ramos macizos bajos, jardineras y balcones
 - Mezcla de flores variadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

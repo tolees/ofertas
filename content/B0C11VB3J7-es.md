@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Detalle de bolsillo
-- Cuello acanalado
 - El producto recibido puede ser fabricado en Vietnam.
+- Cuello acanalado
 - Mezcla y combina fácilmente estilos
 - Paquete de 3 camisetas para niños
 
