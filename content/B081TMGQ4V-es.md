@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empaque de 18 unidades
 - Elemento para rotular
+- Empaque de 18 unidades
 - Punta fina de 0,4 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

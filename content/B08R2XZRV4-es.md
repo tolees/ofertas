@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Temporizador hasta 60 min y temperatura regulable hasta 220ºC
+- Incluye bandeja y parrilla
+- 6 niveles de potencia con 3 posiciones de grill
 - Luz interior
 - Horno de 1500W con 30 l de capacidad
-- Incluye bandeja y parrilla
+- Temporizador hasta 60 min y temperatura regulable hasta 220ºC
 - Puerta de doble cristal de alta resistencia
-- 6 niveles de potencia con 3 posiciones de grill
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08R2XZRV4{{</world>}}

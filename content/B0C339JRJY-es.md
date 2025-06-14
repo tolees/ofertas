@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: Cordones
 - Revestimiento: Tela
+- Cierre: Cordones
 - Tipo de tacón: Plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

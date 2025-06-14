@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 1 Gen 7 - Ordenador Portátil 15.6" FullHD  AMD Ryzen 7 5700U  8GB RAM  512GB SSD  AMD Radeon Graphics  WiFi 6  Windows 11 Home  Azul - Teclado QWERTY Español'
-date: 2025-05-30 19:37:52
+date: 2025-06-14 17:24:45
 image: 'https://m.media-amazon.com/images/I/41ddRLUL4hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.es/dp/B0BQRMSPY4/?tag=tolees-21'
 descuento: '38.63'
-average: '528.328085106381'
+average: '524.273877551018'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria RAM de 8GB
-- Procesador AMD Ryzen 7 5700U (4.3 GHz)
-- Sistema Operativo: Windows 11 Home
-- Almacenamiento de 512GB SSD
 - Pantalla de 15.6" FHD 1920x1080 pixeles, TN, 220nits, antirreflejos
+- Almacenamiento de 512GB SSD
+- Sistema Operativo: Windows 11 Home
+- Procesador AMD Ryzen 7 5700U (4.3 GHz)
+- Memoria RAM de 8GB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQRMSPY4{{</world>}}

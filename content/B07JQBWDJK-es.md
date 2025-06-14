@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Utilízalo en la Zona T grasa para desobstruir poros y eliminar todas las impurezas
-- Especialmente indicado para la piel mixta y piel grasa con tendencia acneica
 - Testado dermatológicamente
 - Cada caja contiene 50 ml de mascarilla negra anti puntos negros
+- Utilízalo en la Zona T grasa para desobstruir poros y eliminar todas las impurezas
+- Especialmente indicado para la piel mixta y piel grasa con tendencia acneica
 - La Mascarilla Negra Peel Off con Carbón y Ácido Salicílico elimina puntos negros, brillos, espinillas y otras impurezas para unos poros visiblemente purificados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

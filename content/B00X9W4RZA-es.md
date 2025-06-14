@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nuestros envases están producidos con plástico 100% reciclado y son 100% reciclables
 - Pelo frágil, Enredado, Deshidratado, Se te rompe, Puntas abiertas: 5 PROBLEMAS, 1 SOLUCIÓN
+- Nuestros envases están producidos con plástico 100% reciclado y son 100% reciclables
 - Nuestra Mascarilla Reparadora intensiva potenciada con un 10% de concentrado reparador con Keratina XS, repara y refuerza el cabello para combatir los 5 signos del pelo muy dañado
 - Consigue un pelo hasta 100% reparado en sólo 5 días; RETO5DÍAS
 

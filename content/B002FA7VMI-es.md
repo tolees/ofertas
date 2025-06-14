@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tinta de secado rápido
-- Marcador fluorescente con tinta universal brillante, para resaltar sobre cualquier soporte
 - Puede usarse para resaltar impresiones inkjet sin emborronar
-- Color turquesa
 - Punta biselada. Ancho de trazo: 1 - 5 mm
+- Marcador fluorescente con tinta universal brillante, para resaltar sobre cualquier soporte
+- Color turquesa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002FA7VMI{{</world>}}

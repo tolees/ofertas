@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Textura seca no pegajosa y muy ligera que deja una sensación de piel desnuda y evita que la arena se pegue a tu piel;
-- Bruma de protección solar con SPF 50+, especialmente indicada para pieles claras, sensibles e intolerantes al sol;
 - Previene los daños cutáneos a largo plazo, es resistente al agua y no mancha la ropa;
-- Protección muy alta contra los rayos UVB y UVA incluso largos, los rayos UV más numerosos y penetrantes, y algunos efectos de los infrarrojos, causantes de daños celulares en la piel;
+- Textura seca no pegajosa y muy ligera que deja una sensación de piel desnuda y evita que la arena se pegue a tu piel;
 - El paquete puede variar.
+- Bruma de protección solar con SPF 50+, especialmente indicada para pieles claras, sensibles e intolerantes al sol;
+- Protección muy alta contra los rayos UVB y UVA incluso largos, los rayos UV más numerosos y penetrantes, y algunos efectos de los infrarrojos, causantes de daños celulares en la piel;
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00X9U8C6C{{</world>}}

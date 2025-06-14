@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro sintético
 - Horma clásica
+- Forro sintético
 - Cierre de cordones
 - Mediasuela con amortiguación para una pisada cómoda
 

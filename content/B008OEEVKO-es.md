@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tienen 32 mm
-- Los clips están niquelados
-- Paquete de 100 piezas
 - Adecuadas para documentos
+- Paquete de 100 piezas
+- Los clips están niquelados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008OEEVKO{{</world>}}

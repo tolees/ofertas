@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla Goga Mat refrigerada por aire
 - Ajuste de arco
+- Plantilla Goga Mat refrigerada por aire
 - Tecnología Comemory Foamort Pillar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Personalice su juego: Presuma de estilo con retroiluminación RGB dinámica en cada tecla, así como una barra espaciadora radiante y una tecla con el logotipo de CORSAIR incluidas como opción.
-- Duraderas teclas de policarbonato: Las duraderas teclas de policarbonato ofrecen una experiencia de juego y escritura estable y segura.
 - Tamaño compacto, grandes características: El K65 RGB MINI ofrece grandes características comprimidas en un factor de forma del 60 % para encajar fácilmente incluso en los espacios más reducidos.
-- Interruptores de teclas mecánicos 100% CHERRY MX SPEED RGB: Tiempos de respuesta ultrarrápidos con una distancia de pulsación de 1,2 mm, un registro de las pulsaciones hasta cuatro veces más rápido.
 - Con la tecnología de hiperprocesamiento CORSAIR AXON: Ofrece entradas ocho veces más rápidas al PC que los teclados para juegos convencionales con un sondeo de 8.000 Hz.
+- Duraderas teclas de policarbonato: Las duraderas teclas de policarbonato ofrecen una experiencia de juego y escritura estable y segura.
+- Personalice su juego: Presuma de estilo con retroiluminación RGB dinámica en cada tecla, así como una barra espaciadora radiante y una tecla con el logotipo de CORSAIR incluidas como opción.
+- Interruptores de teclas mecánicos 100% CHERRY MX SPEED RGB: Tiempos de respuesta ultrarrápidos con una distancia de pulsación de 1,2 mm, un registro de las pulsaciones hasta cuatro veces más rápido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09VCLZ8HK{{</world>}}

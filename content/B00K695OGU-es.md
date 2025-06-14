@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Philips
 - Tipo/Base: PY21W 12V21W BAU15s B2
+- Marca: Philips
 - Gran Calidad y Resistente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

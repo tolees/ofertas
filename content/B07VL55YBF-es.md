@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Materiales utilizados para la producción de la cuna libres de sustancias químicas, con certificación del reconocido laboratorio Intertek
-- Para niños desde el 1er día hasta 3 años (hasta 15 kg)
-- Sistema innovador de plegado y desplegado rápidos en tan sólo 5 segundos
 - Tamaño compacto (plegado: 97x63x14 cm) y peso bajo (8, 7 kg)
+- Materiales utilizados para la producción de la cuna libres de sustancias químicas, con certificación del reconocido laboratorio Intertek
+- Sistema innovador de plegado y desplegado rápidos en tan sólo 5 segundos
+- Para niños desde el 1er día hasta 3 años (hasta 15 kg)
 - Cuna 4en1: cuna clásica, moisés, parque infantil, cuna de viaje
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

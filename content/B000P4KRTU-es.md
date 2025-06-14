@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Maletín robusto de plástico con buena disposición del contenido, se puede reequipar cuando sea necesario
 - Para perforar metal se recomienda la utilización de líquido de refrigeración
-- Brocas para metal HSS-TiN,madera y brocas fresadoras planas con recubrimiento de nitruro de titanio
-- Sierras de corona para orificios en techos
+- Maletín robusto de plástico con buena disposición del contenido, se puede reequipar cuando sea necesario
 - Perforar de forma rápida y limpia en los metales más diversos, plexiglás y plásticos duros (no utilizar para aluminio)
+- Brocas para metal HSS-TiN,madera y brocas fresadoras planas con recubrimiento de nitruro de titanio
 - Utilizar la protección necesaria según la aplicación: gafas protectoras y máscara contra el polvo
 - Cuarenta puntas de atornillar con cabeza Phillips, Prozidriv, Torx, hexagonal y de ranura longitudinal
+- Sierras de corona para orificios en techos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000P4KRTU{{</world>}}

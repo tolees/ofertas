@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parafarmacia
-- Alta calidad
-- Cosmética Facial
 - hidratante para noche
+- Cosmética Facial
+- Alta calidad
+- Parafarmacia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BHQ53SXY{{</world>}}

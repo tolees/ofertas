@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Configuración necesaria para su uso
 - Requiere instalación
+- Configuración necesaria para su uso
 - Tableta electrónica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

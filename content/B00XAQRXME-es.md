@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deliciosas piezas en forma de corazón con intenso sabor a melocotón
-- Caramelos de goma
 - Conservar en lugar fresco y seco
+- Caramelos de goma
 - Con recubrimiento de azúcar
+- Deliciosas piezas en forma de corazón con intenso sabor a melocotón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAQRXME{{</world>}}
