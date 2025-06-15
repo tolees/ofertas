@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecho de material duradero y ligero
 - Tejido cómodo
-- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
-- Forma de pierna cónica
-- Pantalones chinos de la marca JACK & JONES
 - Corte delgado en el muslo sin que quede demasiado apretado
+- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
+- Pantalones chinos de la marca JACK & JONES
+- Hecho de material duradero y ligero
+- Forma de pierna cónica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JQBXWTC{{</world>}}

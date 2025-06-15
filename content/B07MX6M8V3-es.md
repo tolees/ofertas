@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Aplicaciones: con estos tacos podemos fijar desde cuadros, lámparas, estanterías, espejos, armarios, buzones, hasta instalar aires acondicionados, splits, muebles flotantes, tuberías de agua, cableados eléctricos, etc. en materiales como hormigón, hormigón celular, piedra natural, aglomerado, ladrillo macizo, ladrillo macizo sílico-calcáreo, ladrillo hueco, ladrillo perforado, ladrillo perforado sílico-calcáreo, panel de yeso, yeso y cartón yeso.
-- Tecnología 2K: el componente gris de nylon de gran calidad, dependiendo del material de construcción, se expande, se plega y/o se anuda para una mejor sujeción. El ala de expansión dle componente rojo refuerza la expansión segura y ofrecen una seguridad adicional en la fijación.
-- Principales ventajas: el taco DuoPower ofrece una gran adaptabilidad al material sobre el que se fija, ya que se expande, anuda y/o bloquea, según el tipo de material, permitiendo además grandes cargas.
 - Modo de empleo: para utilizar el taco fischer, previamente hay que hacer un agujero con un taladro en la superficie que vayamos a poner el DuoPower, con una broca del mismo diámetro que el taco. Introducimos el taco universal en el agujero e introducimos un tornillo con un destornillador junto al objeto que queramos fijar.
 - Contenido: el pack contiene 80 tacos DuoPower, tacos para la pared, de 5x25 mm.
+- Tecnología 2K: el componente gris de nylon de gran calidad, dependiendo del material de construcción, se expande, se plega y/o se anuda para una mejor sujeción. El ala de expansión dle componente rojo refuerza la expansión segura y ofrecen una seguridad adicional en la fijación.
+- Principales ventajas: el taco DuoPower ofrece una gran adaptabilidad al material sobre el que se fija, ya que se expande, anuda y/o bloquea, según el tipo de material, permitiendo además grandes cargas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07MX6M8V3{{</world>}}

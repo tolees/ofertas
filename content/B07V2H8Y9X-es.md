@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Mochila grande con ruedas para niños con compartimento para el portátil
-- 48 altura x 32.5 ancho x 25 profundidad cm
 - 100% Poliéster
 - Hidrófugo
+- 48 altura x 32.5 ancho x 25 profundidad cm
 - 2.31kg peso x 27L volumen
 
 [🛒 Comprar!!!]({{< param buyurl >}})

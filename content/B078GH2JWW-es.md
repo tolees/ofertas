@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Su fórmula bálsamo con aceite de jojoba y ceramida e infusionada con aceites naturales pontencia los efectos volumen y longitud de tu máscara
-- Prebase 2 en 1, fortalece las pestañas y potencia el volumen
 - Retiene más formula para potenciar el volumen en tus pestañas
 - Con su cepillo sensorial suave, su aplicación se hace fácil
 - Aplica el pre base y posteriormente la máscara de pestañas Paradise
+- Su fórmula bálsamo con aceite de jojoba y ceramida e infusionada con aceites naturales pontencia los efectos volumen y longitud de tu máscara
+- Prebase 2 en 1, fortalece las pestañas y potencia el volumen
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B078GH2JWW{{</world>}}

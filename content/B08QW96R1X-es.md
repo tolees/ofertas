@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte cónico
 - Tecnología Dri-Fit
 - Material resistente y duradero
-- Corte cónico
 - Cintura elástica con cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

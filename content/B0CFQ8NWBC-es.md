@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Diseño portátil: tiene un tamaño pequeño, ligero y portátil y cuenta con botón on/off para su funcionamiento
 - Fuente de alimentación: funciona por cable USB Tipo A a Tipo C (5V DC/2A o superior)
-- Incluye: 2 boquillas de interconexión adaptables a casi todas las válvulas y una bolsita de almacenaje de tela
-- Mini bomba de aire eléctrica Quick-Fill de INTEX con capacidad para 400 litros/minuto, optimo para inflar y desinflar hinchables pequeños en pocos minutos
 - Uso: zonas de interior y exterior
+- Mini bomba de aire eléctrica Quick-Fill de INTEX con capacidad para 400 litros/minuto, optimo para inflar y desinflar hinchables pequeños en pocos minutos
+- Incluye: 2 boquillas de interconexión adaptables a casi todas las válvulas y una bolsita de almacenaje de tela
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CFQ8NWBC{{</world>}}

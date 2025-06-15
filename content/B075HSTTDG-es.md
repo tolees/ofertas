@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parrillas/Quemadores de hierro fundido
 - Entrada gas: parte trasera izquierda
 - Encendido electrónico integrado en el mando
+- Parrillas/Quemadores de hierro fundido
 - Encimera de gas natural con inyectores para gas butano incluidos en la caja.
 - 3 quemadores de gas: -Izquierda: 1 triple corona de 3,5kW. -Derecha arriba: 1 semi-rápido de 1,75. -Derecha abajo: 1 auxiliar de 1kW
 

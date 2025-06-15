@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Compatible con DNI 3.0 y 4.0
-- Velocidad de lectura: Máx. 115,200 bps
 - Interfaz: USB2.0 y USB1.1 / Compatible con DNI 3.0 y 4.0
+- Velocidad de lectura: Máx. 115,200 bps
 - IC Card(Smart Card): SLE4418/4428, SLE4432/4442, SLE4436/5536, 12C
 
 [🛒 Visítala!!!]({{< param buyurl >}})

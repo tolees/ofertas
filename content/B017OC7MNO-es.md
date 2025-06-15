@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Capacidad: 500 ml.
-- Jarra térmica de acero inoxidable que mantiene el café caliente hasta una hora
-- Ideal para espumar leche para capuchino, latte macchiato.
-- Acero inoxidable 18/10 de alta calidad.
 - Fabricado en Italia.
+- Jarra térmica de acero inoxidable que mantiene el café caliente hasta una hora
+- Acero inoxidable 18/10 de alta calidad.
+- Ideal para espumar leche para capuchino, latte macchiato.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B017OC7MNO{{</world>}}

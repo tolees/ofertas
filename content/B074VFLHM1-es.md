@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado de logotipo integral
 - Cremallera completa
+- Estampado de logotipo integral
 - Chaqueta acolchada de corte cuadrado
 - Ajuste regular
 

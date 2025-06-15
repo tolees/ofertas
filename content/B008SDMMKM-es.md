@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño de helados
 - juego de 1 cucharón grande de helados y 5 cucuruchos
+- Diseño de helados
 - El set es fabricado de plástico
 - Juguetes para el agua y la arena
 

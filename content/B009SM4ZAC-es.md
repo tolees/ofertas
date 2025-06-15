@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Champú de baño Sebamed Baby de 200ml, ideal para la delicada piel del bebé, sin jabón.
 - pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
-- Sebamed Baby Champú Suave, perfecto para cuero cabelludo sensible de bebés y niños.
 - Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
+- Sebamed Baby Champú Suave, perfecto para cuero cabelludo sensible de bebés y niños.
+- Champú de baño Sebamed Baby de 200ml, ideal para la delicada piel del bebé, sin jabón.
 - Di adiós a la costra láctea con el pH equilibrado de 5 del champú Sebamed Baby.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavable a máquina
-- Espuma viscoelástica
 - BIO-DRI
+- Lavable a máquina
 - Refrigerado por aire MF
 - Ajuste de forma de memoria
+- Espuma viscoelástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08L3PYXNJ{{</world>}}

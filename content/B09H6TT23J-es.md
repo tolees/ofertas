@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Ortega liberdad de movimentos
 - Tiene detalles distintivos de la marca
-- Ajuste regular
 - Detalles distintivos de la marca
+- Ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09H6TT23J{{</world>}}

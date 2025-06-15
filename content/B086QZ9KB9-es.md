@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Hoy en día es el nombre genérico que se emplea en Tailandia para denominar a una salsa picante. Como condimento para dar un toque picante a cualquier plato, realizar salsas o dip.
-- Ingredientes: Chile rojo 54 percent, azúcar, ajo, sal, agua, acidulantes (ácido acético, ácido cítrico), potenciador de sabor (glutamato monosódico), conservante (benzoato de sodio).
 - Alérgenos: Apto para Veganos y Vegetarianos
-- Envase: 215ml
 - Salsa muy popular debido a su sabor picante y aroma característico.
+- Envase: 215ml
+- Ingredientes: Chile rojo 54 percent, azúcar, ajo, sal, agua, acidulantes (ácido acético, ácido cítrico), potenciador de sabor (glutamato monosódico), conservante (benzoato de sodio).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B086QZ9KB9{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - ✔ AHORRO Y SALUD: Pulveriza o vierte solo lo necesario, ahorra aceite sin renunciar al sabor y disfruta de una cocina más ligera, saludable y económica. ¡Nuestro dosificador aceite es perfecto para tu air fryer!
 - ✔ MATERIAL SEGURO PARA TU FAMILIA: Compra con tranquilidad, ofrecemos un dispensador de aceite seguro, aprobado por la UE para uso alimentario. Libre de plomo, BPA, BPS y BPF.
-- ✔ GARANTÍA Y SOPORTE: ¿Dudas o problemas con tu aceitera spray? Escríbenos por Amazon o a info@duexso.co y lo solucionamos. Tu satisfacción es nuestra prioridad.
 - ✔ TRES MODOS DE USO: Pulveriza en abanico (acciona rápidamente), chorro lineal (acciona lentamente) o vierte en modo aceitera (abre la compuerta). Precisión y versatilidad en cada uso, sin goteo, con nuestro pulverizador de aceite de vidrio.
+- ✔ GARANTÍA Y SOPORTE: ¿Dudas o problemas con tu aceitera spray? Escríbenos por Amazon o a info@duexso.co y lo solucionamos. Tu satisfacción es nuestra prioridad.
 - ✔ ERGONÓMICO Y GRAN CAPACIDAD: El dispensador aceite spray cuenta con una capacidad de 470 ml, diseño ergonómico y fácil de limpiar y mantener. Olvídate de recargas constantes y disfruta además de su filtro anti obstrucción para un uso sin interrupciones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

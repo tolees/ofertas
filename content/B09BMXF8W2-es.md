@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño delicado
 - Sonido nítido
+- Diseño delicado
 - Conjunto de altavoces
 
 [🛒 Visítala!!!]({{< param buyurl >}})

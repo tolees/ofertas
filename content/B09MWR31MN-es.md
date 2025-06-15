@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Llega al tobillo
 - Acabado con una pierna recta clásica
-- Este producto es original Levis
 - Un ajuste versátil con un talle alto favorecedor
+- Este producto es original Levis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MWR31MN{{</world>}}

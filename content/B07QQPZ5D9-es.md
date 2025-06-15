@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Punta fina para líneas finas y punta gruesa para pintar en superficie.
+- Grosor de trazo 0, 5 y 1,5 mm.
+- Rotuladores dobles en estuche de 10 unidades.
 - Con punta asegurada.
 - 8 colores neón y 2 lápices negros.
-- Grosor de trazo 0, 5 y 1,5 mm.
-- Punta fina para líneas finas y punta gruesa para pintar en superficie.
-- Rotuladores dobles en estuche de 10 unidades.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07QQPZ5D9{{</world>}}

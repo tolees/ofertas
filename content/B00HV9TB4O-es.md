@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Montura tipo E, formato APS-C
-- Distancia focal equivalente a 35 mm: 82.5 - 315 mm
 - Estabilización SteadyShot óptica
 - Teleobjetivo zoom con rango de ampliación de 3.8x
+- Distancia focal equivalente a 35 mm: 82.5 - 315 mm
 - Lente de zoom telescópico
+- Montura tipo E, formato APS-C
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00HV9TB4O{{</world>}}

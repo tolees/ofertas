@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Hecho de 100% poliéster
-- Tiene dos bolsillos laterales
 - Ideal para llevar durante sesiones de entrenamiento de tenis y partidos
-- Malla para asegurar una buena transpirabilidad
+- Tiene dos bolsillos laterales
 - Cintura elástica con ajuste de cordón
+- Malla para asegurar una buena transpirabilidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HVKDNJX{{</world>}}
