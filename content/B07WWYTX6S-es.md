@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidrata profundamente la piel
-- Dove Crema de Manos Ritual Restaurador 75 ml
-- Apta para todo tipo de pieles
-- La Crema de Manos Coco Ritual Restaurador deja tu piel hidratada y cuidada
-- Dermatológicamente testado
 - Globalmente Dove no testa en animales
+- La Crema de Manos Coco Ritual Restaurador deja tu piel hidratada y cuidada
+- Dove Crema de Manos Ritual Restaurador 75 ml
+- Dermatológicamente testado
+- Hidrata profundamente la piel
+- Apta para todo tipo de pieles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07WWYTX6S{{</world>}}

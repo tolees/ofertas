@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fila
 - Fabricante: FILA
+- Fila
 - Marca: FILA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

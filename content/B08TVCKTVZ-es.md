@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - bandejas de cristal
-- Termostato con ajuste de temperatura
-- patas ajustables
 - Clasificación Energética A++
 - Electrodomésticos
+- Termostato con ajuste de temperatura
+- patas ajustables
 - Puerta reversible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

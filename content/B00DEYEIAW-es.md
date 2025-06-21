@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tequila artesanal elaborado con esfuerzo, usando tradicionales hornos de ladrillo, ruedas de tahona de piedra volcánica y fermentadores de madera de pino, sin atajos, solo con ingredientes prémium
 - Con su color transparente y aromas de frutas y cítricos, PATRÓN Silver es suave y dulce en boca, con un ligero final de pimienta. Su sabor es la referencia para el resto de tequilas del mercado.
+- PATRÓN Silver es un tequila ultrasuave de calidad prémium, elaborado en México, artesanalmente y en pequeños lotes, 100 % con el mejor agave azul Weber y presentado en botellas numeradas a mano
 - Además de ser una fantástica elección para degustar con amigos y preparar sabrosas bebidas, el tequila PATRÓN Silver constituye también un regalo perfecto para cualquier ocasión especial
 - Este tequila brilla con luz propia en la creación de cócteles, como el PATRÓN Classic Margarita, el chispeante Silver & Soda o el Silver Jalisco Mule, con notas de cítricos y jengibre, entre otros.
-- Tequila artesanal elaborado con esfuerzo, usando tradicionales hornos de ladrillo, ruedas de tahona de piedra volcánica y fermentadores de madera de pino, sin atajos, solo con ingredientes prémium
-- PATRÓN Silver es un tequila ultrasuave de calidad prémium, elaborado en México, artesanalmente y en pequeños lotes, 100 % con el mejor agave azul Weber y presentado en botellas numeradas a mano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DEYEIAW{{</world>}}

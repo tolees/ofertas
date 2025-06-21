@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido transpirable
-- Tiene detalles distintivos de la marca
 - Ofrece comodidad y libertad de movimiento
 - Ajuste regular
+- Tejido transpirable
+- Tiene detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08R3V6SXS{{</world>}}

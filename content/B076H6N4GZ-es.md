@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 0.3kg peso x 1.5L volumen
 - Hidrófugo
-- Un estuche grande con capacidad para 100 bolis
-- 100% Poliamida
 - 15 altura x 21 ancho x 5 profundidad cm
+- 100% Poliamida
+- Un estuche grande con capacidad para 100 bolis
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B076H6N4GZ{{</world>}}

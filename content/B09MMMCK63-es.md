@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - DUREX NATURALS LUBRICANTE A BASE DE AGUA: 100% Natural, diseñado con pH equilibrado y prebióticos. Ayuda a mantener el balance de la flora vaginal
-- DE BASE ACUOSA, LIBRE DE FRAGANCIAS Y COLORANTES: abre el tapón, extrae unas gotas y aplícalas donde tú quieras; luego disfruta
 - APTO PARA EL SEXO VAGINAL, ANAL Y ORAL: adecuado para el uso con preservativos de látex y preservativos de poliisopreno
-- DUREX NATURALS EXTRA SENSITIVO LUBRICANTE: diseñado con aloe vera natural
+- DE BASE ACUOSA, LIBRE DE FRAGANCIAS Y COLORANTES: abre el tapón, extrae unas gotas y aplícalas donde tú quieras; luego disfruta
 - ENTREGA DE FORMA DISCRETA: caja exterior de entrega con un diseño discreto sin ninguna indicación del contenido del interior
+- DUREX NATURALS EXTRA SENSITIVO LUBRICANTE: diseñado con aloe vera natural
 - DUREX NATURALS EXTRA SENSITIVO LUBRICANTE: alivia la sequedad vaginal y las molestias durante el sexo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

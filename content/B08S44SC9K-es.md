@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Para uso diario
-- Prenda de vestir
 - Diseño cómodo y aspecto deportivo
+- Prenda de vestir
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08S44SC9K{{</world>}}

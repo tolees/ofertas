@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela: PU
 - Cierre: Cordones
 - Material exterior: Cuero
+- Material de la suela: PU
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00123WBGA{{</world>}}

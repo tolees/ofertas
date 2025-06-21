@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Corte clásico con pernera más ajustada en el puño
 - Bolsillos frontales con cremallera
+- Inserciones de canalé en la parte inferior de las perneras; puños con cremallera
 - Cintura elástica con cordón
 - Felpa 70% algodón / 30% poliéster reciclado
-- Inserciones de canalé en la parte inferior de las perneras; puños con cremallera
-- Corte clásico con pernera más ajustada en el puño
 - Compra una talla más grande
 
 [🛒 Visítala!!!]({{< param buyurl >}})

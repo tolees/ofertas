@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color rojo rubí brillante con matices violáceos. Aromas a moras y arándanos con sutiles notas a tostados y especias fruto del uso elegante del roble de la barrica. En boca abundantes taninos suaves y redondeados, acidez bien integrada y complejo
-- 409 días de crianza en barrica de roble francés
-- Servir entre 16-17ºC
 - Maridaje perfecto con asados, quesos y tapas
 - Vino Tinto Autor DO Ribera del Duero
+- 409 días de crianza en barrica de roble francés
+- Servir entre 16-17ºC
+- Color rojo rubí brillante con matices violáceos. Aromas a moras y arándanos con sutiles notas a tostados y especias fruto del uso elegante del roble de la barrica. En boca abundantes taninos suaves y redondeados, acidez bien integrada y complejo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N40QAUH{{</world>}}

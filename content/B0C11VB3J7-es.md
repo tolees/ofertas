@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Paquete de 3 camisetas para niños
 - El producto recibido puede ser fabricado en Vietnam.
 - Detalle de bolsillo
 - Cuello acanalado
-- Paquete de 3 camisetas para niños
 - Mezcla y combina fácilmente estilos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

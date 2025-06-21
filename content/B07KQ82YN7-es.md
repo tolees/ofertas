@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'hummel Core Sports Bag L Black'
-date: 2025-06-19 12:52:32
+date: 2025-06-21 15:08:02
 image: 'https://m.media-amazon.com/images/I/31nna8a0ySL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07KQ82YN7-es hummel Core Sports Bag L Black'
 sku: 'B07KQ82YN7-es'
-tags: [ 'Accesorios para deportes y ocio al aire libre','Arborist Merchandising Root','Bolsas de deporte','Bolsas de gimnasia','Deportes y aire libre','Maletas, Equipaje y Billeteras: Visualización en 3D','Moda','Self Service','Special Features Stores','Visualización en 3D: Maletas y Equipaje','Visualización en 3D: Maletas y Equipaje de Viaje','c8538d25-3af9-48d3-aeff-5f3ce5572a36_0','c8538d25-3af9-48d3-aeff-5f3ce5572a36_375802','c8538d25-3af9-48d3-aeff-5f3ce5572a36_5801','c8538d25-3af9-48d3-aeff-5f3ce5572a36_8401','c8538d25-3af9-48d3-aeff-5f3ce5572a36_8501','hummel','🇪🇸', ]
-actualPrice: 12.71 EUR
+tags: [ 'Accesorios para deportes y ocio al aire libre','Arborist Merchandising Root','Bolsas de deporte','Bolsas de gimnasia','Deportes y aire libre','Moda','Selecciones de moda que son tendencia esta semana','Self Service','Special Features Stores','Visualización en 3D: Maletas y Equipaje','Visualización en 3D: Maletas y Equipaje de Viaje','c8538d25-3af9-48d3-aeff-5f3ce5572a36_0','c8538d25-3af9-48d3-aeff-5f3ce5572a36_3301','c8538d25-3af9-48d3-aeff-5f3ce5572a36_375802','c8538d25-3af9-48d3-aeff-5f3ce5572a36_5801','c8538d25-3af9-48d3-aeff-5f3ce5572a36_8401','hummel','🇪🇸', ]
+actualPrice: 11.44 EUR
 currency: EUR
-price: 12.71
+price: 11.44
 comparePrice: 44.95 EUR
 prodname: 'hummel Core Sports Bag L Black'
 country: 'es'
 flag: '🇪🇸'
 brand: 'hummel'
 buyurl: 'https://www.amazon.es/dp/B07KQ82YN7/?tag=tolees-21'
-descuento: '71.72'
-average: '16.3486666666666'
+descuento: '74.55'
+average: '15.7711764705881'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

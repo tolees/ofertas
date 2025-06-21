@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es confeccionada en 94% poliéster y 6% algodón
 - El logotipo de la marca es impreso en el hombro derecho
 - Polo diseñado con cuello tipo camisa de manga corta
+- Es confeccionada en 94% poliéster y 6% algodón
 - Viene con cuello alto y con tres botones personalizados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

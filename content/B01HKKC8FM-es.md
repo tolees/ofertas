@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido transpirable
-- Ofrece comodidad y libertad de movimiento
 - Pantalon largo deportivo
+- Ofrece comodidad y libertad de movimiento
+- Tejido transpirable
 - Tiene detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

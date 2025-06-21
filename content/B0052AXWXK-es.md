@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bolsillos laterales con cremallera
 - Cintura ajustable con ceñidor
 - Bolsillos con cremallera en el pecho
-- Bolsillos laterales con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0052AXWXK{{</world>}}

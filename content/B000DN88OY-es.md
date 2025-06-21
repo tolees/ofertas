@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tamaño: 24
 - Tipo de punta: grueso
+- Tamaño: 24
 - Tipo de producto: Goma de borrar
 - Color de la tinta: blanco
 

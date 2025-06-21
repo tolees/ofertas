@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Desodorante en Stick con fragancia fresca
-- Tiene tecnología motionsense que se activa con el movimiento
 - Desodorante para hombre de secado rápido
 - 48 horas de protección antitranspirante
-- Rexona Men Desodorante Antitranspirante Stick Cobalt Dry 50ml
 - Rexona te impulsa para que disfrutes del movimiento y que nada te detenga
+- Rexona Men Desodorante Antitranspirante Stick Cobalt Dry 50ml
+- Tiene tecnología motionsense que se activa con el movimiento
+- Desodorante en Stick con fragancia fresca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00FONFFQ2{{</world>}}
