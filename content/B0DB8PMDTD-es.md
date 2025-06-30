@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Anillo D
 - Mono robot de metal
 - Compartimento principal con cremallera
 - Compartimento para portátil 15 inch
-- Anillo D
 - 4 compartimentos funcionales (1 portátil, 1 cartera y 2 bolígrafos)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

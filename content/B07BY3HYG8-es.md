@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Deliciosas y suaves piezas en forma de huevo
-- Sin recubrimiento
-- Conservar en lugar fresco y seco
 - Caramelos de goma
+- Deliciosas y suaves piezas en forma de huevo
+- Conservar en lugar fresco y seco
+- Sin recubrimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07BY3HYG8{{</world>}}

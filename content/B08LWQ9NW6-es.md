@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Base de maquillaje en polvo para conseguir un acabado mate impecable resistente hasta 24H
 - Piel impecable mate durante todo el día, Cobertura media-alta sin efecto máscara, Resistente a roces, agua, calor o humedad
-- Aplicar con la esponja en seco como si fuese una base o con la esponja mojada para una cobertura aún mayor
 - Contenido: 1 x Polvos compactos mate de larga duración Infalible 24H LOréal Paris, Tono: 245 Golden Honey, Cantidad: 50 g
 - Fórmula no comedogénica, Apta para pieles todo tipo de pieles
+- Base de maquillaje en polvo para conseguir un acabado mate impecable resistente hasta 24H
+- Aplicar con la esponja en seco como si fuese una base o con la esponja mojada para una cobertura aún mayor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LWQ9NW6{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un mango triangular
-- Material: acero al cromo vanadio
 - Diseñado para almacenamiento compacto y la aplicación de la fuerza
+- Material: acero al cromo vanadio
+- Con un mango triangular
 - Marca: Black and Decker
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Controla los brillos sin secar la piel
-- A prueba de sudor y resistente al agua
 - Cobertura media y ligera pero que dura todo el día
-- Apto para pieles sensibles y no obstruye poros. Dermatológicamente testado
+- A prueba de sudor y resistente al agua
 - Fórmula Vegana
+- Apto para pieles sensibles y no obstruye poros. Dermatológicamente testado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09N2ZQXZP{{</world>}}

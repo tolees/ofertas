@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Care Label:
 - Denim jacket
-- Long Sleeves
 - materialFabricComposition: 79% Cotton, 20% Polyester, 1% Elastane
+- Care Label:
 - Spread Collar
+- Long Sleeves
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09F9BTNP5{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Puerto USB y ranura para tarjeta TF / Micro SD.
+- Gran pantalla de LCD (6.1") para increíbles animaciones de píxeles.
+- Función True Wireless Stereo (TWS): ¡Empareje 2 unidades para disfrutar del sonido en estéreo!
 - Puede responder a llamadas con el micrófono incorporado.
+- Dimensiones: 12,5 x 6,5 x 12,5 cm
 - Un altavoz Bluetooth potente y portátil.
 - Funciona de modo inalámbrico con dispositivos equipados con Bluetooth.
-- Dimensiones: 12,5 x 6,5 x 12,5 cm
-- Gran pantalla de LCD (6.1") para increíbles animaciones de píxeles.
-- Puerto USB y ranura para tarjeta TF / Micro SD.
-- Función True Wireless Stereo (TWS): ¡Empareje 2 unidades para disfrutar del sonido en estéreo!
 - Puede responder a llamadas con el micrófono incorporado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

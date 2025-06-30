@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puntera+protectores
-- Planta inTech antibacterias
 - Horma Fisiológica
+- Planta inTech antibacterias
 - Cierre adherente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

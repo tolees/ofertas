@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El acondicionador Absolut Repair reconstructor instantáneo, nutre y repara instantáneamente el cabello dañado, fortaleciéndolo visiblemente, aportando suavidad y brillo, pero con un acabado ligero, sin peso.
-- Para un cabello fortalecido y reparado al instante. Nutre y repara instantáneamente el cabello dañado.
 - Aplicar sobre cabello lavado y húmedo, repartiendo de forma uniforme. Emulsionar y aclarar. Se recomienda utilizar despuésdel champú de la misma gama.
+- Para un cabello fortalecido y reparado al instante. Nutre y repara instantáneamente el cabello dañado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0918G7MMH{{</world>}}

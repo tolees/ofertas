@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Punto doble 100% poliéster reciclado
-- Bolsillos tipo canguro
 - Corte clásico
 - Capucha con cordón ajustable
+- Bolsillos tipo canguro
 - Puños y dobladillo de canalé
 
 [🛒 Visítala!!!]({{< param buyurl >}})

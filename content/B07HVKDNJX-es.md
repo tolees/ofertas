@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica con ajuste de cordón
 - Hecho de 100% poliéster
 - Malla para asegurar una buena transpirabilidad
+- Cintura elástica con ajuste de cordón
 - Tiene dos bolsillos laterales
 - Ideal para llevar durante sesiones de entrenamiento de tenis y partidos
 

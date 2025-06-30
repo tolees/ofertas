@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Permite 3 configuraciones de flujo de agua diferentes para gatos quisquillosos
-- Con filtro de triple función y bomba pequeña de bajo consumo
-- Anime a su gato a beber más, evitando así problemas del tracto urinario
-- Depósito compacto de 3 litros
-- A diferencia de los cuencos, el bebedero de flores siempre ofrece agua fresca.
-- Nota: El pozo debe limpiarse con regularidad para evitar que la bomba se obstruya.
 - Hecho de material sin BPA
+- Nota: El pozo debe limpiarse con regularidad para evitar que la bomba se obstruya.
+- Con filtro de triple función y bomba pequeña de bajo consumo
+- Depósito compacto de 3 litros
+- Anime a su gato a beber más, evitando así problemas del tracto urinario
+- Permite 3 configuraciones de flujo de agua diferentes para gatos quisquillosos
+- A diferencia de los cuencos, el bebedero de flores siempre ofrece agua fresca.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0146QXOB0{{</world>}}

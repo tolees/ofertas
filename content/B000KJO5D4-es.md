@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack con 100 hojas (6.500 etiquetas)
-- Perfectas para identificar envíos de correspondencia, objetos, paquetería o para clasificar
 - Etiquetas blancas cantos rectos tamaño 38,0 x 21,2 mm con adhesivo permanente para múltiples usos
+- Perfectas para identificar envíos de correspondencia, objetos, paquetería o para clasificar
+- Pack con 100 hojas (6.500 etiquetas)
 - Excelente calidad de impresión en impresoras inkjet, láser o fotocopiadoras
 
 [🛒 Comprar!!!]({{< param buyurl >}})

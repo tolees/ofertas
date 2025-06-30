@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Configuración necesaria para su uso
-- Requiere instalación
 - Tableta electrónica
+- Requiere instalación
+- Configuración necesaria para su uso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CP839PQ2{{</world>}}

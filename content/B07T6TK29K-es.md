@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Trunks
+- materialFabricComposition: 95% Cotton, 5% Elastane
 - Cotton
 - Detail
 - Care Label:
-- Trunks
-- materialFabricComposition: 95% Cotton, 5% Elastane
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07T6TK29K{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño acolchado
-- Parte superior de piel sintética
-- Suela de goma
 - Forro textil
+- Suela de goma
+- Diseño acolchado
 - Plantilla de EVA
+- Parte superior de piel sintética
 - Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

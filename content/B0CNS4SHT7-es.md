@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El sistema iónico doble emite hasta 80 millones de iones por sesión de secado para ayudar a obtener un resultado suave y sin encrespamiento
-- Barril diseñado con una forma corta y equilibrada, ligero y cómodo de usar; el motor de 2000 W de alto rendimiento genera aire a velocidades de hasta 120 km/h y consigue un secado rápido
 - Ráfaga de aire frío que produce un golpe frío para dar el acabado a tu peinado y fijarlo; gancho para colgar con recogecable integrado; neceser
+- Barril diseñado con una forma corta y equilibrada, ligero y cómodo de usar; el motor de 2000 W de alto rendimiento genera aire a velocidades de hasta 120 km/h y consigue un secado rápido
 - 8 ajustes de temperatura y velocidad para un control preciso y personalizado; accesorios: concentrador de boquilla estrecha, reductor de encrespamiento, difusor delicado, difusor definidor de rizos, potenciador de raíces
 - El sensor Thermacare regula constantemente la temperatura del aire para protegerlo del calor excesivo
 

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: 100% algodón orgánico
 - Camiseta
 - Corte normal
 - manga corta
+- Composición: 100% algodón orgánico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QW87Y5B{{</world>}}

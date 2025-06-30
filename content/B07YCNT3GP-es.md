@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene 2 bolsillos laterales inclinados y 2 bolsillos traseros
 - Ajuste regular
+- Tiene 2 bolsillos laterales inclinados y 2 bolsillos traseros
 - Tiene detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

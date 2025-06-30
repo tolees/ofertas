@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: Cordones
-- Material de la suela: EVA
 - Material exterior: Cuero
+- Material de la suela: EVA
+- Cierre: Cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07VBVW4WF{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material de la suela: EVA
 - Material exterior: Cuero
 - Cierre: Cordones
-- Material de la suela: EVA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07VJC3BVB{{</world>}}

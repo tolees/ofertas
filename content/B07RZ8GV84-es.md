@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tiene un diseño casual
-- Este producto es original Levis
 - Ofrece una comodidad óptima
+- Este producto es original Levis
 - Adecuada para días calurosos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ventilación trasera
-- Dos bolsillos ribeteados con solapa
 - Blazer largo
 - Corte holgado, cuello Fly-Away
+- Dos bolsillos ribeteados con solapa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09JGDWF2N{{</world>}}

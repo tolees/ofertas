@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- a prueba de sudor y resistente al agua
-- Controla los brillos sin secar la piel
 - Estilo más adecuado para: female
-- Cobertura media y ligera pero que dura todo el día
 - Apto para pieles sensibles y no obstruye poros. Dermatológicamente testado
+- Controla los brillos sin secar la piel
+- a prueba de sudor y resistente al agua
+- Cobertura media y ligera pero que dura todo el día
 - Fórmula Vegana
 
 [🛒 Visítala!!!]({{< param buyurl >}})

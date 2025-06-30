@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos: bolsillos laterales
-- Bolsillos traseros
-- tejido reciclado: tejido reciclado Super Suede
 - Slip interior de malla
+- Bolsillos traseros
+- Bolsillos: bolsillos laterales
+- tejido reciclado: tejido reciclado Super Suede
 - longitud: longitud 38 cm - más corto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

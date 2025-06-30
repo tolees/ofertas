@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto para tu cuidado personal
 - Sencillo de usar
+- Producto para tu cuidado personal
 - Ofrece un resultado óptimo y adecuado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

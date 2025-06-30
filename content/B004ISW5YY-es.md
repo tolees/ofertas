@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Delicioso aroma – Disfruta de una experiencia sensorial bajo la ducha con el aroma irresistible de este champú hidratante alisador para cabello grueso, rizado y ondulado
 - Fórmula mejorada – La fórmula de este champú OGX con tecnología Lipi Pro Shield hidrata y limpia en profundidad y respeta la barrera de lípidos y proteínas del pelo
 - Detalles del envío – OGX Ever Straightening + Brazilian Keratin Smooth Shampoo, champú reparador para un alisado impecable y pelo más suave desde el primer uso*, para cabello grueso
-- Champú alisador – Este champú enriquecido con proteínas de queratina brasileña alisa las cutículas capilares y fortalece cada cabello, dejando tu pelo sano y brillante
 - Sin ingredientes nocivos – Formulado con tensioactivos sin sulfatos, este champú alisador con lípidos nutritivos hidrata el cabello y lo deja suave desde el primer uso*
+- Champú alisador – Este champú enriquecido con proteínas de queratina brasileña alisa las cutículas capilares y fortalece cada cabello, dejando tu pelo sano y brillante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B004ISW5YY{{</world>}}
