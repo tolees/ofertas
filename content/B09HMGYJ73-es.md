@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte clásico
 - Tejido transpirable AEROREADY
+- Corte clásico
 - Interlock 100% poliéster reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

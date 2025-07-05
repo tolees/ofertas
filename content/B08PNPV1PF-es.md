@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca
 - Tela suave
-- Cintura elástica con cordón
 - Corte cónico
+- Tiene detalles distintivos de la marca
+- Cintura elástica con cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PNPV1PF{{</world>}}

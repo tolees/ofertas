@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color de lente: Gris oscuro Degradado
 - Talla: 52
 - Material: acetato
+- Color de lente: Gris oscuro Degradado
 - Forma: CUADRADO
 - De color negro
 

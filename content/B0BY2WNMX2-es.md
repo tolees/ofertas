@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro de malla
 - Tejido técnico 100% poliéster reciclado
-- Cierre de cremallera y cuello alzado
 - Corte clásico
 - Chaqueta: bolsillos frontales
+- Forro de malla
+- Cierre de cremallera y cuello alzado
 - Chaqueta: puños y dobladillo elásticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La respuesta universal para cada tipo de piel y de tez
+- Dermatológicamente testado
 - Su fórmula especial está enriquecida con una mezcla de ingredientes con acción hidratante, emoliente y antioxidante
 - Base de maquillaje hidratante y uniformadora con efecto segunda piel, que perfecciona la tez
-- Dermatológicamente testado
 - Su textura hidratante de cobertura media fácilmente modulable garantiza un acabado satinado y natural de larga duración, para una piel impecable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puntera de ante
-- Forro textil
 - Horma clásica
 - Forro textil
-- Cordones elásticos y cierre autoadherente
+- Puntera de ante
+- Forro textil
 - Empeine de piel
+- Cordones elásticos y cierre autoadherente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYNB5V69{{</world>}}

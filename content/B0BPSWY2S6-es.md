@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puños de canalé
+- Calcetines tobilleros
 - Refuerzo en el arco plantar
 - Tres pares por paquete
 - Costuras anatómicas en la puntera
-- Puños de canalé
-- Calcetines tobilleros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPSWY2S6{{</world>}}

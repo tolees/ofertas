@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Procesador: Intel Core Ultra 7 155H
 - Conectividad: Intel Killer Wi-Fi 7 BE1750 + Bluetooth 5.4
 - Memoria RAM: 16GB LPDDR5 integrada, doble canal, almacenamiento 512GB SSD M.2 2230 NVMe PCIe Gen 4 x4
 - Pantalla: FHD de 7" (1920 x 1080), frecuencia de actualización de 120 Hz, pantalla táctil, 100% sRGB (típico), 500 nits (típico), panel de nivel IPS
-- Procesador: Intel Core Ultra 7 155H
 - Sistema operativo: Windows 11 Home
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

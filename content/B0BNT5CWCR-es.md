@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fragancia agradable
 - Adecuado para regalar
 - Producto de calidad óptima
-- Fragancia agradable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNT5CWCR{{</world>}}

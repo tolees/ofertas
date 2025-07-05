@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas del producto sin peana (ancho x fondo x alto): 96 x 55.6 x 6.2 cm; con peana (ancho x fondo x alto): 96 x 61.8 x 23.1 cm
-- Dolby Atmos y Dolby Vision: equipada con la tecnología Dolby Atmos y Dolby Audio para una óptima calidad de la imagen y un sonido envolvente, disfrutarás de una experiencia cinematográfica en casa; además, el televisor incluye el certificado dbx-tv con encima de 40 años de experiencia calibrando el sonido de tu televisor
-- 4K HDR: una resolución con más de 8 millones de píxeles que garantizan una optima definición de imagen y gracias a la pantalla sin marcos harán que disfrutes de una experiencia visual inimitable y completa
-- Google TV: todo tu contenido favorito en un lugar; accede a más de 10.000 aplicaciones, como Disney+, YouTube o Netflix, disponibles en Google Store, además, a través de Chromecast, podrás transmitir el contenido desde tu teléfono móvil a la televisión con facilidad; Google Assistant: con el micrófono integrado en el mando Smart Remote Control podrás interactuar y acceder a las aplicaciones y funciones principales de forma sencilla y ágil
 - Panel Direct LED: la retroiluminación trasera ajusta la potencia e intensidad de los LED con precisión según cada escena; así, se consigue un contraste, un brillo y una homogeneidad optima en la pantalla con unos negros muy puros haciendo que disfrutes una experiencia visual inimitable
+- Google TV: todo tu contenido favorito en un lugar; accede a más de 10.000 aplicaciones, como Disney+, YouTube o Netflix, disponibles en Google Store, además, a través de Chromecast, podrás transmitir el contenido desde tu teléfono móvil a la televisión con facilidad; Google Assistant: con el micrófono integrado en el mando Smart Remote Control podrás interactuar y acceder a las aplicaciones y funciones principales de forma sencilla y ágil
+- Dolby Atmos y Dolby Vision: equipada con la tecnología Dolby Atmos y Dolby Audio para una óptima calidad de la imagen y un sonido envolvente, disfrutarás de una experiencia cinematográfica en casa; además, el televisor incluye el certificado dbx-tv con encima de 40 años de experiencia calibrando el sonido de tu televisor
+- Medidas del producto sin peana (ancho x fondo x alto): 96 x 55.6 x 6.2 cm; con peana (ancho x fondo x alto): 96 x 61.8 x 23.1 cm
+- 4K HDR: una resolución con más de 8 millones de píxeles que garantizan una optima definición de imagen y gracias a la pantalla sin marcos harán que disfrutes de una experiencia visual inimitable y completa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1GLTZZY{{</world>}}

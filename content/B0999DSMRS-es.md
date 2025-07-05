@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - En negro liso
 - Mangas de encaje
-- Body efecto arrugado
 - Escote redondo en la espalda
+- Body efecto arrugado
 - Slim fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})

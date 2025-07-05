@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - potencía máxima de 40 vatios (GU10): bombillas incluidas
-- El foco es giratorio por lo que le permite controlar la luz como desee y, gracias a su elegante diseño, puede usarlo de varias maneras, como lámpara de salón o lámpara de dormitorio
-- Esta sencilla luz de techo tiene protección ip20 y está diseñada exclusivamente para su uso en interiores
 - Dimensiones del producto: 450x80x123 mm (largo x ancho x alto)
 - Moderno foco de techo de 3 luces, de metal
+- El foco es giratorio por lo que le permite controlar la luz como desee y, gracias a su elegante diseño, puede usarlo de varias maneras, como lámpara de salón o lámpara de dormitorio
+- Esta sencilla luz de techo tiene protección ip20 y está diseñada exclusivamente para su uso en interiores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VV2KVSS{{</world>}}

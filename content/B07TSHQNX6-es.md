@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido ligero
 - Detalles distintivos de la marca
+- Tejido ligero
 - Ofrece comodidad y libertad de movimiento
 - Material de calidad
 

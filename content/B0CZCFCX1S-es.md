@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Talla única
 - Contiene al menos un 50% de material reciclado y renovable
 - Visera curvada de tamaño medio
-- Talla única
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZCFCX1S{{</world>}}

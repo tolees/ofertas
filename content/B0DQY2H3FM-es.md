@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dos resistencias, una superior de 1200W y otra inferior de 600W
-- Piedra para hornear (Ø31cm)
 - Termostato regulable hasta 420°C
-- La piedra se puede extraer para limpiarla
 - Temporizador de 30 minutos con señal acústica
+- Piedra para hornear (Ø31cm)
+- Dos resistencias, una superior de 1200W y otra inferior de 600W
+- La piedra se puede extraer para limpiarla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQY2H3FM{{</world>}}

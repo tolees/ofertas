@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Máquina mecánica de brazo libre con 10 puntadas utilitarias y decorativas
-- Ajuste de presión del prénsatelas automática y 2 posiciones de aguja
 - Sistema de bobina vertical con anchos de hasta 5 mm
+- Ajuste de presión del prénsatelas automática y 2 posiciones de aguja
 - Con devanador automático y selector de largo de puntada
 - Dispone de selector de ancho de zig zag y regulador de tensión de hilo manual
 

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Algodón es un material suave
 - Talla y puntera reforzados para durabilidad
 - Detalle del logo Batwing de Levis
+- Algodón es un material suave
 - Caña 3/4
 - Diseño atemporal para disfrutar todo el año
 

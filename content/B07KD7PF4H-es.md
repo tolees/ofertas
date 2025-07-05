@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regular fit
 - Soft fabric
+- Regular fit
 - Kangaroo pocket
 
 [🛒 Comprar!!!]({{< param buyurl >}})

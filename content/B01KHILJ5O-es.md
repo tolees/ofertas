@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LUZ BLANCA CÁLIDA INCANDESCENTE REAL: esta bombilla tiene una temperatura de color de 2700 K, lo que le brinda un ambiente cálido y tranquilo, perfecto para relajarse. Esta luz de 2700 K es ideal para el diseño de iluminación del hogar
 - Nunca cambies la bombilla, dura hasta 15 000 horas La alta reproducción cromática (IRC > 80) garantiza colores vivos y un efecto de iluminación particularmente cálido
+- LUZ BLANCA CÁLIDA INCANDESCENTE REAL: esta bombilla tiene una temperatura de color de 2700 K, lo que le brinda un ambiente cálido y tranquilo, perfecto para relajarse. Esta luz de 2700 K es ideal para el diseño de iluminación del hogar
 - Bombilla de larga duración - Hasta 15 años - Con una vida útil de hasta 15 000 horas, puede reducir la molestia de reemplazar las bombillas con frecuencia y durar más de 15 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

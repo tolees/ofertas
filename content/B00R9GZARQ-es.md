@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud de cable: 1,8m Ancho: 17,8 cm. Profundidad: 8,6 cm. Altura: 24,2 cm. Peso: 510g.
-- Potencia: 1800W. Función de disparo frío: Si.
 - Boquilla concentradora: Si. Difusor de la boquilla: No.
+- Potencia: 1800W. Función de disparo frío: Si.
 - Número de velocidades: 2. Ajuste de calefacción: 2. Bucle colgante: Si.
+- Longitud de cable: 1,8m Ancho: 17,8 cm. Profundidad: 8,6 cm. Altura: 24,2 cm. Peso: 510g.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00R9GZARQ{{</world>}}

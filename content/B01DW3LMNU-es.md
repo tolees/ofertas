@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pulsador de vapor continuo
 - Indicador de vapor listo
+- Pulsador de vapor continuo
 - Alfombrilla de descanso para plancha de silicona antideslizante
 
 [🛒 Aquí!!!]({{< param buyurl >}})

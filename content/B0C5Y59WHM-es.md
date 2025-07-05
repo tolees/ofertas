@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuados para el verano
 - Con trabillas para el cinturón
+- Adecuados para el verano
 - Detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

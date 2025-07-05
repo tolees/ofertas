@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela flexible ligera que absorbe los golpes
 - Plantilla acolchada de espuma viscoelástica
+- Suela flexible ligera que absorbe los golpes
 - Suela de tracción flexible
 - Forro de tela suave para zapatos
 

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botella reciclable
-- [PH seguro en superficies delicadas
-- Con ingrediente vegetal (12 % del surfactante total, el cual está sujeto a procesamiento)
-- No contiene conservantes añadidos, lejía ni amoníaco]
-- El mejor brillo de Don Limpio, sin residuos
 - Aroma fresco y delicado
+- Con ingrediente vegetal (12 % del surfactante total, el cual está sujeto a procesamiento)
+- [PH seguro en superficies delicadas
+- El mejor brillo de Don Limpio, sin residuos
+- No contiene conservantes añadidos, lejía ni amoníaco]
+- Botella reciclable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00UCB9GYS{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Llega al tobillo
 - Acabado con una pierna recta clásica
 - Este producto es original Levis
+- Llega al tobillo
 - Un ajuste versátil con un talle alto favorecedor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cintura elástica con ajuste de cordón
-- Tiene dos bolsillos laterales
 - Ideal para llevar durante sesiones de entrenamiento de tenis y partidos
+- Tiene dos bolsillos laterales
 - Malla para asegurar una buena transpirabilidad
 - Hecho de 100% poliéster
 

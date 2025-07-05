@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica con cordón
 - Felpa 70% algodón / 30% poliéster reciclado
-- Inserciones de canalé en la parte inferior de las perneras; puños con cremallera
 - Compra una talla más grande
 - Corte clásico con pernera más ajustada en el puño
 - Bolsillos frontales con cremallera
+- Inserciones de canalé en la parte inferior de las perneras; puños con cremallera
+- Cintura elástica con cordón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08V6HS2TD{{</world>}}

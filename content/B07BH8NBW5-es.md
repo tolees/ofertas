@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ⭐ESTRELLA DEL SUR - Desde su nacimiento en Sevilla en 1959, Estrella del Sur ha estado presente en el paladar y el corazón de los andaluces.
+- ❄️FORMATO Y CONSUMO - Pack de 24 Botellas 25cl. Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
 - 🍺DAMM CERVEZA ESTRELLA DEL SUR - Una cerveza de tono ámbar claro y brillante que se distingue por su espuma persistente y pálida, creando una presentación visual atractiva.
 - 🍃 PERFIL DE SABOR - Esta cerveza ofrece notas pronunciadas a levadura y lúpulo, lo que la hace una elección ideal para aquellos que disfrutan de sabores característicos y auténticos.
-- ❄️FORMATO Y CONSUMO - Pack de 24 Botellas 25cl. Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
 - 🌞 REFRESCANTE EN EL SUR - Especialmente concebida para las altas temperaturas del sur, convirtiéndola en la compañera perfecta para refrescarse y disfrutar en climas cálidos.
+- ⭐ESTRELLA DEL SUR - Desde su nacimiento en Sevilla en 1959, Estrella del Sur ha estado presente en el paladar y el corazón de los andaluces.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BH8NBW5{{</world>}}

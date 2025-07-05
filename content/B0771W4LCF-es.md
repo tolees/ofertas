@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste activo, pensado para la movilidad, diseñado para un look elegante
-- 1x Columbia Nelson Point, Polo, Hombre, Fibra sintética, Negro (Shark), XL, Art. 1772721
-- Una solapa con tres botones complementa al cuello, que puede ser abierto en caso de que el sol apriete
 - Cómodo para viajar gracias a la mezcla de tejido ligero de poliéster y modal, con un corte adecuado para las capas
+- Una solapa con tres botones complementa al cuello, que puede ser abierto en caso de que el sol apriete
+- Ajuste activo, pensado para la movilidad, diseñado para un look elegante
 - Polo lo suficientemente bien diseñado para diversas aventuras, desde el golf hasta el senderismo o una noche en el pub con amigos
+- 1x Columbia Nelson Point, Polo, Hombre, Fibra sintética, Negro (Shark), XL, Art. 1772721
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0771W4LCF{{</world>}}

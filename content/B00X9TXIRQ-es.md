@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicar Sensitive Advanced justo antes de la exposición solar y reaplica con frecuencia sobre todo después del baño, transpirar o secarte con una toalla
-- Leche solar de muy alta protección contra los efectos dañinos de los rayos UVA y UVB
-- La fórmula de la Delial Sensitive Advanced es suave y sin perfume, adecuada para todo tipo de pieles, incluso las más sensibles
 - Gracias a su textura ligera, su aplicación no resulta pegajosa
+- Leche solar de muy alta protección contra los efectos dañinos de los rayos UVA y UVB
+- Aplicar Sensitive Advanced justo antes de la exposición solar y reaplica con frecuencia sobre todo después del baño, transpirar o secarte con una toalla
+- La fórmula de la Delial Sensitive Advanced es suave y sin perfume, adecuada para todo tipo de pieles, incluso las más sensibles
 - Resistente al agua, no deja manchas blancas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
