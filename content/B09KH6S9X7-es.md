@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Pepe Jeans Kingston Zip  Jeans Hombre  Azul  Denim-MN0   31W / 34L'
+date: 2024-05-20 12:06:09
+image: 'https://m.media-amazon.com/images/I/41H2CGo49TL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09KH6S9X7-es Pepe Jeans Kingston Zip Jeans Hombre Azul Denim-MN0 31W / 34L'
+sku: 'B09KH6S9X7-es'
+tags: [ '🇪🇸', ]
+actualPrice: 32.94 EUR
+currency: EUR
+price: 32.94
+comparePrice: 95.0 EUR
+prodname: 'Pepe Jeans Kingston Zip  Jeans Hombre  Azul  Denim-MN0   31W / 34L'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B09KH6S9X7/?tag=tolees-21'
+descuento: '65.33'
+average: '32.94'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Dispone de 5 bolsillos
+- Cuenta con un diseño ligero
+- Ofrece comodidad y libertad de movimiento
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B09KH6S9X7{{</world>}}
