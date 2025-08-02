@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tecnología: el cemento preparado se oscurece tras el secado, es resistente al agua, no necesita preparación previa, por lo que su aplicación es fácil y rápida y gracias a su punta de aplicación el proceso es limpio y práctico.
+- Contenido: 1 x Cemento para juntas Express en tubo de 310 ml, pintable, color gris, para paredes, escaleras y barbacoas de hormigón, práctico y rápido, de fischer.
+- Modo de empleo: sobre superficies limpias, secas, saneadas; 5 minutos después de la aplicación, presionar y trabajar el cemento rápido con una espátula; evitar superficies directamente expuestas al sol; tras 5 minutos eliminar el exceso.
 - Aplicación: ideal para reparaciones de juntas y desconchados en construcciones y paredes de hormigón, mampostería, piedra natural y cemento; no recomendado en inmersiones prolongadas o permanentes.
 - Principales ventajas: óptimo espectro de adherencia para juntas en aplicaciones en espacios interiores y exteriores, prácticamente libre de olores, listo para usar, fácil aplicación con pistola de silicona.
-- Contenido: 1 x Cemento para juntas Express en tubo de 310 ml, pintable, color gris, para paredes, escaleras y barbacoas de hormigón, práctico y rápido, de fischer.
-- Tecnología: el cemento preparado se oscurece tras el secado, es resistente al agua, no necesita preparación previa, por lo que su aplicación es fácil y rápida y gracias a su punta de aplicación el proceso es limpio y práctico.
-- Modo de empleo: sobre superficies limpias, secas, saneadas; 5 minutos después de la aplicación, presionar y trabajar el cemento rápido con una espátula; evitar superficies directamente expuestas al sol; tras 5 minutos eliminar el exceso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00WUZ8HNA{{</world>}}

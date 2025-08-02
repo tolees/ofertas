@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte textil y de ante
 - Horma clásica
-- Suela de goma
-- Forro textil
 - Cierre de cordones
+- Suela de goma
+- Parte textil y de ante
+- Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HZ9SSYN{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con aberturas en el dobladillo
-- Presenta un estilo casual
 - Detalles distintivos de la marca
+- Presenta un estilo casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5YGV42C{{</world>}}

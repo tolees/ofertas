@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Corona dorada
 - Entrenador cómodo
 - Espuma viscoelástica refrigerada por aire
-- Corona dorada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B094CP9KTH{{</world>}}

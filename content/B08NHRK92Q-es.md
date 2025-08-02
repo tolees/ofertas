@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pantalones deportivos esenciales
-- Algodón orgánico puro
-- Puños de punto acanalado
 - Cintura elástica con cordón
+- Puños de punto acanalado
+- Algodón orgánico puro
 - Tommy Hilfiger Logotipo en la pierna
 
 [🛒 Visítala!!!]({{< param buyurl >}})

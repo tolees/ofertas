@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Rayas impresas en tela texturizada acanalada
-- Traje de baño con cuello recto
 - Correas ajustables con anillo y deslizador
+- Traje de baño con cuello recto
 - Detalle de cuentas de madera en las correas delanteras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

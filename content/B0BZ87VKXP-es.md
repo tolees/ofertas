@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior de piel sintética
 - El estilo clásico del tenis
-- Horma clásica
+- Parte superior de piel sintética
 - Cierre de cordones
 - Forro textil
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZ87VKXP{{</world>}}

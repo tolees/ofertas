@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolígrafo amarillo individual
-- Panda de caucho
 - Optimo para la vuelta al col
 - Color de la tinta: azul
+- Bolígrafo amarillo individual
+- Panda de caucho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C62LFFFM{{</world>}}

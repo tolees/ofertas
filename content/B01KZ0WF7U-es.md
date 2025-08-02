@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Accesorio de DeWalt
 - Duraderos y robustos
+- Accesorio de DeWalt
 - Diseñados para los profesionales y las altas demandas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

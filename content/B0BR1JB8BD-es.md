@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El Jeep Gladiator tiene una escala 1:32 (15cm) y está fabricado en metal fundido (Die-Cast)
-- Jada presenta el coche que aparece en la película de 2022 Jurassic World Dominion
 - Adecuado a partir de 8 años
+- Jada presenta el coche que aparece en la película de 2022 Jurassic World Dominion
+- El Jeep Gladiator tiene una escala 1:32 (15cm) y está fabricado en metal fundido (Die-Cast)
 - Licencia 100% oficial
 - Gran detalle en la forma y la pintura, con partes móviles y ruedas que giran en todas las direcciones
 

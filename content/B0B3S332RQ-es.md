@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Suela de gofre inversa para una mayor tracción
+- Vans Marca Sidestripe
 - Cierre de cordones
 - Vans Protección: materiales resistentes al agua
-- Vans Marca Sidestripe
 - Construcción vulcanizada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones: 185 x 145 x 55 cm / peso: 680 g
-- Pantalla grande, visión cómoda
-- Alcance la iluminación infrarroja: 100 m
 - Ampliación: 3X (6 aumentos con zoom digital)
+- Alcance la iluminación infrarroja: 100 m
+- Pantalla grande, visión cómoda
+- Dimensiones: 185 x 145 x 55 cm / peso: 680 g
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01KVY3CNG{{</world>}}

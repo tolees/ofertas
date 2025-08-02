@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Especificación de la memoria del sistema: Up to 3200 MT/s
-- Solución térmica (PIB): no incluida; Tipo de memoria del sistema: DDR4
-- L2 Cache: 4 MB
 - Tecnología de procesador para núcleos de CPU: TSMC 7nm FinFET
-- RYZEN 7 5800X 4.70GHZ 8 CORE CHIP SKT AM4 36MB 105W WOF, OS Support Windows 11 - 64-Bit Edition , Windows 10 - 64-Bit Edition , RHEL x86 64-Bit, Ubuntu x86 64-BitL
 - L3 Cache: 32 MB
+- L2 Cache: 4 MB
+- RYZEN 7 5800X 4.70GHZ 8 CORE CHIP SKT AM4 36MB 105W WOF, OS Support Windows 11 - 64-Bit Edition , Windows 10 - 64-Bit Edition , RHEL x86 64-Bit, Ubuntu x86 64-BitL
+- Solución térmica (PIB): no incluida; Tipo de memoria del sistema: DDR4
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0815XFSGK{{</world>}}

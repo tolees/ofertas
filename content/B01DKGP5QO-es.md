@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DURACIÓN DE la BATERÍA DE 10 HORAS: El Altavoz Inalámbrico Get Together Mini funciona con una batería interna de iones de litio de 10 horas; se recarga totalmente en 3 horas
 - EMPAREJAMIENTO DE ALTAVOCES DOBLES WIRELESS: El altavoz Get Together Mini puede parearse/ asociarse de forma inalámbrica a otro altavoz para mejorar tu experiencia auditiva y que puedas disfrutar de tu música gracias al Bluetooth
 - SONIDO SUPERIOR: El altavoz contiene 2 X 2.5 bafles woofers, 2x1 Tweeters, 1 Radiador Pasivo de bajos que te asegura conseguir los sonidos claros que todos estamos buscando; entrada auxiliar y Puerto USB para utilizar otros dispositivos
+- DURACIÓN DE la BATERÍA DE 10 HORAS: El Altavoz Inalámbrico Get Together Mini funciona con una batería interna de iones de litio de 10 horas; se recarga totalmente en 3 horas
 - BLUETOOTH, ALTAVOZ AUX-IN: Conéctate de forma inalámbrica con Bluetooth (rango de 15m); contiene micrófono incorporado que permite su uso para llamadas a través del altavoz y entrada auxiliar que permite su uso con dispositivos que no tengan Bluetooth
 - MATERIALES ECOLÓGICOS RESPONSABLES: la placa frontal es de bambú y el aluminio reciclable, el altoparlante Get Together pequeño ofrece un rendimiento completo sin sacrificar su atractivo diseño siendo eco-friendly; trabajando con materiales ecológicos
 

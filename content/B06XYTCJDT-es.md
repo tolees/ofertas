@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ajuste fácil
 - Ajuste regular
 - Cuello con muesca y mangas cortas
 - Estándar
-- Ajuste fácil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XYTCJDT{{</world>}}

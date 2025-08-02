@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tejido súper suave de mezcla de algodón que proporciona comodidad durante todo el día
-- Lavar la prenda del revés
-- Eso significa que si estableces un objetivo, ayudaremos a aplastarlo
 - Cuello acanalado
+- Eso significa que si estableces un objetivo, ayudaremos a aplastarlo
+- Lavar la prenda del revés
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGVPCY2K{{</world>}}

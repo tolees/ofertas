@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuatro personajes jugables
-- Arte y animación de lujo
 - Libertad y exploración
-- Mejora y sube de nivel
+- Arte y animación de lujo
 - Una gran aventura
+- Mejora y sube de nivel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B094HP1X6P{{</world>}}

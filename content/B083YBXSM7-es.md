@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 0.33 kg
 - Bolso Bandolera con Compartimento para Móvil
+- 0.33 kg
 - 100% Poliamida
-- Hidrófugo
 - 22 Alto x 29 Ancho x 16.5 Fondo cm
+- Hidrófugo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B083YBXSM7{{</world>}}

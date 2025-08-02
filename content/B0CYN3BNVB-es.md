@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones con correa superior autoadherente
 - Horma clásica
+- Cierre de cordones con correa superior autoadherente
 - Forro textil
 - Empeine de malla
 - Forro textil

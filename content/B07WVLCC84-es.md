@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Trabaje o presente en cualquier lugar con un mouse y presentador láser de un solo giro
-- Lenovo ratón yoga con presentador láser (gris)
-- Desplazamiento táctil con un ajuste de dpi sencillo en movimiento (1600, 1200, 800)
 - Empareje con varios dispositivos que usan la conexión inalámbrica de 2,4 g de modalidad doble o bluetooth 5
+- Desplazamiento táctil con un ajuste de dpi sencillo en movimiento (1600, 1200, 800)
+- Lenovo ratón yoga con presentador láser (gris)
 - Empareje fácilmente con un equipo con bluetooth con microsoft swift pair
 
 [🛒 Comprar!!!]({{< param buyurl >}})

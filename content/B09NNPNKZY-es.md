@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- INCLUYE: medidor láser GLM 50-22, 2 pilas AA, correa de sujeción y funda
-- FUNCIONES: permite medir con facilidad longitudes, áreas o volúmenes, y realizar mediciones indirectas de altura, así como guardar las 10 últimas mediciones.
-- MUY RESISTENTE: El medidor láser, pensado para la obra y con protección IP65, es muy duradero y apto para condiciones duras. Su robusta carcasa resiste caídas de 1,5 m hasta en hormigón duro.
 - APLICACIONES: ideal para colocar y montar elementos en construcción en general. También les facilita a los pintores, soladores, alicatadores y carpinteros calcular los materiales necesarios.
 - INTERFAZ INTELIGENTE: herramienta con pantalla a color y botón para personalizar las funciones de medición preferidas. Incluye una función de ayuda con sencillas animaciones que explican cada modo.
+- FUNCIONES: permite medir con facilidad longitudes, áreas o volúmenes, y realizar mediciones indirectas de altura, así como guardar las 10 últimas mediciones.
+- INCLUYE: medidor láser GLM 50-22, 2 pilas AA, correa de sujeción y funda
+- MUY RESISTENTE: El medidor láser, pensado para la obra y con protección IP65, es muy duradero y apto para condiciones duras. Su robusta carcasa resiste caídas de 1,5 m hasta en hormigón duro.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NNPNKZY{{</world>}}

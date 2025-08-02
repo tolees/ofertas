@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con 125 hojas de papel de 90 gr., con pautado a rayas.
-- Cuenta con certificado FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de forma responsable.
-- Cuenta con una goma elástica en su esquina inferior derecha que funciona como cierre de la libreta.
-- Libreta rosa de tamaño A5, con tapa dura y encuadernación en espiral.
 - Con página inicial para apuntar los datos de contacto.
+- Cuenta con una goma elástica en su esquina inferior derecha que funciona como cierre de la libreta.
+- Cuenta con certificado FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de forma responsable.
+- Con 125 hojas de papel de 90 gr., con pautado a rayas.
+- Libreta rosa de tamaño A5, con tapa dura y encuadernación en espiral.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C37B74VP{{</world>}}

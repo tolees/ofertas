@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hecho en Alemania - Forjado en acero inoxidable especial, Mango de plástico robusto diseñado con tres remaches, Duradero, Resistente a la corrosión, Se recomienda lavarlo a mano
+- Contenido: 1 x ZWILLING Santoku Cuchillo Twin Pollux, Longitud de la hoja: 18 cm, Material: acero inoxidable especial/mango de plástico, 30748-181-0
 - Cuchillo Santoku (longitud de la hoja: 18 cm) con punta afilada pulida con RAZOR-EDGE para procesar verduras, carne y pescado a la manera tradicional japonesa
 - Manejo cómodo y seguro: Mango ergonómico y antideslizante, distribución equilibrada del peso de la hoja y del mango para un corte sin preocupaciones
-- Contenido: 1 x ZWILLING Santoku Cuchillo Twin Pollux, Longitud de la hoja: 18 cm, Material: acero inoxidable especial/mango de plástico, 30748-181-0
 - Cuchillos de alta calidad: afilado duradero, estabilidad y flexibilidad gracias a la hoja de FRIODUR endurecida al hielo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

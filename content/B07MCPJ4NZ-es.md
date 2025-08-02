@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de belleza
 - Sencillo de aplicar
+- Producto de belleza
 - Adecuado para el cuidado de tu piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

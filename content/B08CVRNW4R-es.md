@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con detalles distintivos de Tommy Hilfiger
 - Modelo de corte slim
+- Con detalles distintivos de Tommy Hilfiger
 - Logo de Tommy Hilfiger bordado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Estilo cinco bolsillos
 - Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
-- Estilo cinco bolsillos
 - Model : L70WMW36
 
 [🛒 Aquí!!!]({{< param buyurl >}})

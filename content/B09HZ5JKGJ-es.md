@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela de goma
-- Horma clásica
-- Cierre de cordones
 - Parte textil y de ante
 - Forro textil
+- Horma clásica
+- Cierre de cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HZ5JKGJ{{</world>}}

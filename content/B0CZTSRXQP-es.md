@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - [Totalmente fluido y duradero] NFC 360° | Altavoces duales | Matriz de antenas | Resistencia al agua IP54 | Protección frente a caídas
-- [Conjunto de chips Dimensity 7050 5G] Proceso de alta eficiencia de 6 nm. CPU de ocho núcleos de hasta 2,6 GHz.
-- Una combinación ganadora. Gran batería de 5000 mAh. Carga SUPERVOOC de 67 W
 - [Experiencia de visualización mejorada. Pantalla AMOLED ultrafluida de 120 Hz] Pantalla grande de 6,7" | Pantalla E4 | Relación pantalla-cuerpo de 93 % | Resolución de 2400 x 1800｜Alta frecuencia de actualización de 120 Hz｜Gama de colores P3 a 100 % | Certificación HDR 10+
+- Una combinación ganadora. Gran batería de 5000 mAh. Carga SUPERVOOC de 67 W
+- [Conjunto de chips Dimensity 7050 5G] Proceso de alta eficiencia de 6 nm. CPU de ocho núcleos de hasta 2,6 GHz.
 - [Cámara principal Sony LYT-600 OIS de 50 MP] Cámara con ultragran angular de 112°. Cámara microscopio de 5 cm. Cámara frontal de 16 MP.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

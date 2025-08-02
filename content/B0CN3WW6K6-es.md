@@ -30,12 +30,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - La repelencia avanzada Omni-Shield sella salpicaduras y manchas de repelencia avanzada
 - Bolsillos con cremallera
-- Dobladillo ajustable con cordón
-- Puños elásticos
-- Peso promedio*: 400 g (14.1 oz)
-- Plegable en el bolsillo de la mano
 - Aislamiento Thermarator 100% poliéster reciclado
+- Puños elásticos
 - *Peso basado en la talla M, el peso real puede variar.
+- Peso promedio*: 400 g (14.1 oz)
+- Dobladillo ajustable con cordón
+- Plegable en el bolsillo de la mano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN3WW6K6{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta de fútbol para hombres
 - Tiene el logotipo de Adidas impreso en el pecho
-- Cuenta con mangas cortas
 - Ofrece una buena gestión de humedad y calor
+- Camiseta de fútbol para hombres
+- Cuenta con mangas cortas
 - Con tecnología Slim Fit para un ajuste cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 36 accesorios
-- Diseñado para embellecer los momentos del juego
 - Materiales de alta calidad
+- Diseñado para embellecer los momentos del juego
+- 36 accesorios
 - Tapa decorada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

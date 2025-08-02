@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 60% algodón
+- Manga corta
 - Logotipo Levis Boxtab en el pecho
+- 40% poliéster
+- 60% algodón
 - Cuello redondo
 - Tejido de punto y con material suave
-- Manga corta
-- 40% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JQG39DB{{</world>}}

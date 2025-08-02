@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hamaca con soporte Java
 - Un producto de calidad
 - Fácil de usar
+- Hamaca con soporte Java
 - De acero y PVC 600D
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

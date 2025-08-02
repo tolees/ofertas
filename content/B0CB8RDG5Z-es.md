@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior en materiales prémium para soportar las sesiones más duras
 - Recomendadas para: Entrenamiento
+- Parte superior en materiales prémium para soportar las sesiones más duras
 - Características: Zapatillas de entrenamiento inspiradas en las leyendas del crossfit
 - Construcción en forma de bota para un ajuste o
 

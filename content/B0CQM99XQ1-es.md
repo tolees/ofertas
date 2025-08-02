@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La taza ha sido realizada en cerámica y tiene una capacidad de 300 ml. Es apta para microondas.
-- Indicaciones: ambos productos son aptos para lavavajillas, aunque se recomienda su lavado a mano para que permanezcan con sus diseños intactos durante más tiempo.
 - En la parte trasera del pack encontramos una serie de casillas ante unas frases divertidas y cariñosas dirigidas a padres, para que la persona que regala el producto pueda señalar con una x las que se adaptan a su relación padre-hijo/a, aumentando así la experiencia regalo.
-- El vaso ha sido realizado en vidrio y tiene una capacidad de 500 ml.
 - Set de vaso de cerveza + taza, ambos con mensajes en español dirigidos a padres.
+- El vaso ha sido realizado en vidrio y tiene una capacidad de 500 ml.
+- Indicaciones: ambos productos son aptos para lavavajillas, aunque se recomienda su lavado a mano para que permanezcan con sus diseños intactos durante más tiempo.
+- La taza ha sido realizada en cerámica y tiene una capacidad de 300 ml. Es apta para microondas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQM99XQ1{{</world>}}

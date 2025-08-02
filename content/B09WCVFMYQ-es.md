@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Hombres
-- 1376700-390-L/XL
 - Relámpago para hombre
+- 1376700-390-L/XL
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09WCVFMYQ{{</world>}}

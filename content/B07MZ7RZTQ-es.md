@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Logotipo de cabeza bordado en la parte delantera
 - Gran gorra para cualquier ocasión
+- Hecho de material de algodón
 - Cierre ajustable en la parte trasera
 - Agujeros en el tejido para una máxima transpirabilidad
-- Hecho de material de algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MZ7RZTQ{{</world>}}

@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cierre: 100% poliuretano termoplástico
-- Material interior: 100% piel de cabra
 - Forma del talón: plano
+- Material interior: 100% piel de cabra
 - Cuero: piel de becerro
-- Talla del zapato: Medium
 - Parte superior: piel de becerro
+- Talla del zapato: Medium
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09LHY78N7{{</world>}}

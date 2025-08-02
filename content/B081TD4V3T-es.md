@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puños abotonados
-- 98% algodón
 - Corte holgado
-- Chaqueta Trucker oversize
 - 2% elastano
+- 98% algodón
+- Chaqueta Trucker oversize
+- Puños abotonados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B081TD4V3T{{</world>}}

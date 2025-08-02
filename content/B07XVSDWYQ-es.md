@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capacidad: 512 GB
-- Compatible con USB 3.1
 - Cable USB-C a USB-A incluido
 - Interfaz USB-C 3.1 Gen 1 (5 Gbps)
 - Disfruta de la velocidad, fiabilidad y eficiencia de la última generación de flash 3D NAND-B/seg.
+- Compatible con USB 3.1
+- Capacidad: 512 GB
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XVSDWYQ{{</world>}}

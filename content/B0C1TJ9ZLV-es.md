@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Otros materiales
-- 2024
 - Primavera - Verano
+- 2024
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C1TJ9ZLV{{</world>}}

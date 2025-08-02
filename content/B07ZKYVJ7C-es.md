@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dos nuevas casas
+- Contiene 1 mazo de arconte único de 37 cartas
 - Material de calidad
 - 284 cartas nuevas que generan una nueva gama de mazos únicos
-- Contiene 1 mazo de arconte único de 37 cartas
+- Dos nuevas casas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZKYVJ7C{{</world>}}

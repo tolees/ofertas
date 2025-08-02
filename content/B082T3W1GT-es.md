@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Temperatura ajustable (82° - 200° C)
+- Pantalla digital
+- Pies antideslizantes
 - Recipiente y cestillo antiadherentes
 - Recipiente con práctica asa
-- Alimentación: AC 220-240 V ~ 50/60 Hz
+- Potencia: 1500 W
 - 8 programas preconfigurados: patatas fritas, aros de cebolla, pollo, crustáceos, carne, dulces, cupcakes, pescado
 - Temporizador de 60 minutos
-- Pies antideslizantes
-- Pantalla digital
+- Alimentación: AC 220-240 V ~ 50/60 Hz
 - Capacidad del cestillo 3,5 litros
-- Temperatura ajustable (82° - 200° C)
-- Potencia: 1500 W
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082T3W1GT{{</world>}}

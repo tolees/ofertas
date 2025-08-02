@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ajuste cómodo
 - Detalles distintivos de Tommy Jeans
 - Estilo de 5 bolsillos
-- Ajuste cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D3J59ZKT{{</world>}}

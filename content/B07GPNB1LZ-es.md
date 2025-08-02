@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skechers Goga Mat soporte acolchado en el arco
-- Tenis casuales de lona lavada vintage con cordones
 - Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
+- Tenis casuales de lona lavada vintage con cordones
+- Skechers Goga Mat soporte acolchado en el arco
 - Panel de talón con textura de gamuza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

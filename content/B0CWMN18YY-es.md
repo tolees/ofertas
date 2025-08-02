@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mochila de 21 cm x 25 cm x 10 cm fabricada en Poliéster.
 - Asa superior para colgarla de la percha cuando llegue a clase.
 - Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda.
-- Con etiqueta de identificación para escribir el nombre en la parte trasera.
+- Mochila de 21 cm x 25 cm x 10 cm fabricada en Poliéster.
 - Dos bolsillos laterales de red para guardar una botellita de agua, el paraguas, o cualquier otro pequeño accesorio.
+- Con etiqueta de identificación para escribir el nombre en la parte trasera.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CWMN18YY{{</world>}}

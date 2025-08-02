@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado 100% en España | Cumplimos la normativa STANDARD 100 by OEKO-TEX sistema de pruebas y verificación para productos textiles brutos, intermedios y finales en todas las fases de fabricación
-- Medidas de 135x190 cm
 - Acoplamiento perfecto a las formas de nuestro cuerpo gracias al acolchado de viscoelástica en la cara de invierno y del tejido mallado en 3D que aporta frescor y transpiración en la cara de verano
 - Reversible verano/invierno; el colchón se envía enrollado y envasado al vacío
+- Fabricado 100% en España | Cumplimos la normativa STANDARD 100 by OEKO-TEX sistema de pruebas y verificación para productos textiles brutos, intermedios y finales en todas las fases de fabricación
 - Acolchado con visco INNOGEL | Altura 26cm | Gracias a la estructura de las partículas de gel, es un material termo-regulador y transpirable que evita la concentración de calor en los principales puntos de presión
+- Medidas de 135x190 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074F4KSQS{{</world>}}

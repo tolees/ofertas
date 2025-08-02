@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Zapatos de salón color bronce de piel con trenzado artesanal
-- Plantilla muy acolchada y piso flexible
-- Altura tacón 3cm
 - Plantilla de piel curtida de forma sostenible e hilatura de los tejidos del forro reciclados
+- Altura tacón 3cm
+- Plantilla muy acolchada y piso flexible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CT91TMTX{{</world>}}

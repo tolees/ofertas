@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de tracción flexible
 - Capa de malla sintética y parte superior de tela degradada
+- Suela de tracción flexible
 - Parte delantera de encaje elástico con correa de velcro en el empeine
 - Altura del tacón: 1 pulgada
 

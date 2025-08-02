@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Paqueteage Dimensiones: 2.0 L x 14.0 H x 8.0 W (centimeters)
 - Bimateria acetato caucho carton colgador
+- Paqueteage Dimensiones: 2.0 L x 14.0 H x 8.0 W (centimeters)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00VVLB2C2{{</world>}}

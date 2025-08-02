@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Suela de EVA de una sola pieza
 - Ojales reforzados
-- Parte con paneles de malla
 - Cierre de velcro
+- Parte con paneles de malla
 - Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

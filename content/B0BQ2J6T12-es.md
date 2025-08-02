@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos laterales con cremallera
-- AEROREADY
-- Corte clásico
 - 100% poliéster (reciclado)
+- Corte clásico
 - Cintura elástica con cordón ajustable
+- AEROREADY
+- Bolsillos laterales con cremallera
 - Perneras ajustadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

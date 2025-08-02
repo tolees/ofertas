@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso / Volumen: 200 ml
 - Productos de belleza y cuidado personal
+- Peso / Volumen: 200 ml
 - Tipo de producto: Aftersun -Genero: Unisex
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

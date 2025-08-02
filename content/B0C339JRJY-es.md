@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Revestimiento: Tela
 - Tipo de tacón: Plano
 - Cierre: Cordones
-- Revestimiento: Tela
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C339JRJY{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perspectivas - Ten la oportunidad de ver las ideas y emociones de otros personajes.
-- Momentos de elección - muchas opciones para elegir, ¡pero ten cuidado con los malos finales!
 - Una novela visual postapocalíptica que se enfrenta a misteriosos acontecimientos en un mundo virtual.
 - Flashbacks- Mira el pasado como fue una vez y cómo los recuerdos controlan el futuro de un personaje.
-- Novela visual rica en historia: ¡horas de historia, con 8 capítulos enteros!
-- Arte dinámico - Escenas emocionantes con arte audaz que captura momentos vitales.
+- Perspectivas - Ten la oportunidad de ver las ideas y emociones de otros personajes.
 - Hitos clave- Jefes y momentos vívidos que hacen avanzar la historia.
+- Arte dinámico - Escenas emocionantes con arte audaz que captura momentos vitales.
+- Momentos de elección - muchas opciones para elegir, ¡pero ten cuidado con los malos finales!
+- Novela visual rica en historia: ¡horas de historia, con 8 capítulos enteros!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9DYMHYM{{</world>}}

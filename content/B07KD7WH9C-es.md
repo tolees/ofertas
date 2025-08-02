@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido suave
 - Cintura elástica
+- Tejido suave
 - Material resistente y duradero
 - Ajuste regular
 

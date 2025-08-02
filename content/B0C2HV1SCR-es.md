@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cremallera con cierre de botón
-- Tommy Hilfiger Marca:
 - Dos bolsillos laterales en ángulo
+- Tommy Hilfiger Marca:
+- Cremallera con cierre de botón
 - Pantalones chinos de corte entallado, pierna recta y estilo clásico teñido en prenda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

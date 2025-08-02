@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Construcción híbrida para mayor durabilidad y menor absorción de agua
 - 32 paneles de igual superficie
+- Construcción híbrida para mayor durabilidad y menor absorción de agua
 - Exterior texturizado de PU de 0,8 mm para mejorar la aerodinámica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Parte superior sintética
-- Forro de malla en el cuello
 - Suela de goma
+- Forro de malla en el cuello
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2KT2PD7{{</world>}}

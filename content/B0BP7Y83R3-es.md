@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Paquete de dos pares
 - Logotipo de adidas
 - Calcetines elásticos
+- Paquete de dos pares
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BP7Y83R3{{</world>}}

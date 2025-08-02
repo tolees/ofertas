@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye un paquete de 10 hojas de papel para impresión zink con adhesivo posterior, de 5 x 7.6 cm ( 2x 3 pulgadas)
 - Con un espejo reflectante y un flash anular montados en su parte frontal aseguran que los selfies se captan de forma espectacular, además la app canon mini print permite activar la función de disparador a distancia, para hacer más fácil las fotos de grupos mediante el autodisparador
-- Utiliza bluetooth y la app canon mini print para imprimir las imágenes desde tu dispositivo inteligente, con opciones de filtros y collages
 - Compañera de viaje por su tamaño compacto y ligero
+- Utiliza bluetooth y la app canon mini print para imprimir las imágenes desde tu dispositivo inteligente, con opciones de filtros y collages
 - Cámara de 8 mp con ranura para tarjetas micro sd para captar, imprimir y compartir las imágenes
+- Incluye un paquete de 10 hojas de papel para impresión zink con adhesivo posterior, de 5 x 7.6 cm ( 2x 3 pulgadas)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NTV5Y9Z{{</world>}}

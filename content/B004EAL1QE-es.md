@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El tequila Don Julio Blanco es la base de la cual se derivan todas las otras variantes
 - Para elaborar el tequila Don Julio Blanco, se utiliza agave crudo y un proceso de destilación con el que se produce un tequila en su forma más pura
-- Uno de los tequilas respetados de su clase
 - Don Julio nace del amor por la familia, la tierra y los agaves de su fundador, Don Julio González, quien trajo valor al mundo del tequila dedicando 45 años a optimizar su oficio y técnicas pioneras; fruto de la pasión y la lealtad, Don Julio es un tequila muy apreciado por los expertos
 - Graduación alcohólica: 38 percent
+- Uno de los tequilas respetados de su clase
 - Para disfrutarlo en un margarita lujoso con néctar de agave, lima y hielo
 - Aroma nítido de agave combinado con cítricos y sabores dulces; notas de pimienta negra y matices herbáceos que ofrecen un final seco
+- El tequila Don Julio Blanco es la base de la cual se derivan todas las otras variantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004EAL1QE{{</world>}}

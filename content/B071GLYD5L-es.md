@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para uso profesional y doméstico
-- Sin cargador o batería
 - Sierra circular con cuchilla de acero
+- Sin cargador o batería
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B071GLYD5L{{</world>}}

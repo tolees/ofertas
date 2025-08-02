@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
-- Horma clásica
-- Suela versátil
 - Cierre de cordones
+- Forro textil
+- Suela versátil
 - Parte textil revestida
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3WHPLXN{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Material interior: textil
+- Suela: goma
 - Cierre: cordones
 - Material exterior: piel
-- Suela: goma
-- Material interior: textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VHWZHGN{{</world>}}

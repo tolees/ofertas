@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrecen comodidad y amortiguación
 - Con detalles perforados en el empeine
+- Ofrecen comodidad y amortiguación
 - Detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

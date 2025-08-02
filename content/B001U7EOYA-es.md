@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los sabores del café se transmiten sin obstáculos
 - Las grasas y aceites contenidos en el café están ligados
 - El embalaje puede variar
+- Los sabores del café se transmiten sin obstáculos
 - Papel de filtro insípido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

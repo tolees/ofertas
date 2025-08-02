@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- bolsillos laterales y bolsillo trasero con cremallera
 - apretado con cordón
 - tejido ligero y transpirable
-- bolsillos laterales y bolsillo trasero con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09N3X92JD{{</world>}}

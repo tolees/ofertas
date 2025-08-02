@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Brillante pantalla LCD IPS Ya sea tu GIF favorito, un meme divertido o el logotipo de un equipo, muestra el contenido que elijas en la pantalla LCD IPS de 2,1 pulgadas con resolución de 480 × 480 y retroiluminación ultrabrillante (600 cd/m²)
-- Su propio tablero LCD personalizado Supere los límites de su CORSAIR ¡Los refrigeradores de CPU ELITE están completamente apagados! Subraye la estética de su sistema con gráficos personalizados y controle el estado del sistema en tiempo real
-- Nota: Asegúrese de haber actualizado el firmware de su Elite Capellix ANTES de la instalación. Debido a que el firmware está desactualizado, puede. El Commander CORE no reconoce el kit LCD. La pantalla LCD muestra entonces un error general (!) atrás
 - Diversos motivos de pantalla Seleccione motivos gráficos de una amplia biblioteca para mostrar información importante del sistema que sea perfecta para su sistema y configuración
 - Profundidad de color de 24 bits Profundidad de color de 24 bits (color verdadero) con más de 16,7 millones de colores para pantallas de estado y animaciones gráficamente brillantes
+- Brillante pantalla LCD IPS Ya sea tu GIF favorito, un meme divertido o el logotipo de un equipo, muestra el contenido que elijas en la pantalla LCD IPS de 2,1 pulgadas con resolución de 480 × 480 y retroiluminación ultrabrillante (600 cd/m²)
 - Fácil instalación en CORSAIR ELITE CAPELLIX Compatible con todos CORSAIR Enfriador de líquido para CPU iCUE ELITE CAPELLIX, montaje fácil y rápido con cuatro imanes
+- Nota: Asegúrese de haber actualizado el firmware de su Elite Capellix ANTES de la instalación. Debido a que el firmware está desactualizado, puede. El Commander CORE no reconoce el kit LCD. La pantalla LCD muestra entonces un error general (!) atrás
+- Su propio tablero LCD personalizado Supere los límites de su CORSAIR ¡Los refrigeradores de CPU ELITE están completamente apagados! Subraye la estética de su sistema con gráficos personalizados y controle el estado del sistema en tiempo real
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09J8WVSGD{{</world>}}

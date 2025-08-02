@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capacidad: 38 cl
-- El asa de la taza es de distinto color a la taza en sí
+- Cuenta con un diseño en su parte interior
 - Cuidados: apta para microondas y lavavajillas
 - Taza de cerámica con mensaje de familia
-- Cuenta con un diseño en su parte interior
+- El asa de la taza es de distinto color a la taza en sí
+- Capacidad: 38 cl
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB1JGJM3{{</world>}}

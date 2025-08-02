@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Silueta de tenis delgada
 - Zapatillas versátiles e informales
+- Silueta de tenis delgada
 - Un par perfecto de zapatillas blancas informales, no demasiado "loud" pero silenciosamente muy atractivas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

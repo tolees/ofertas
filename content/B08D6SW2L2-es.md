@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Motor Digital Pro - Mayor potencia, vida útil y optmización de la energía.
 - 5 accesorios. All in One - Soporte de pared y cargador. Tubo flexible. Cepillo para muebles. Boquilla plana 2 en 1. Cepillo para mascotas.
-- Aspirador sin cable 2 en 1. Sistema EasyClick.
-- 45 minutos de autonomía. Eternal Battery.
 - Potencia 22.2V Lithium Technonlogy.
+- 45 minutos de autonomía. Eternal Battery.
+- Aspirador sin cable 2 en 1. Sistema EasyClick.
 - Filtro HEPA. Elimina gérmenes y ácaros del ambiente y las superficies.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

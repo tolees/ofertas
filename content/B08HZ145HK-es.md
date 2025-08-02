@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fm radio & usb/microsd mp3 player: cuenta con radio fm integrada, reproduce archivos mp3 desde tarjetas microsd y memorias usb con capacidad de hasta 64 gb y tiene entrada de audio de 3,5 mm
-- Tipo de conectividad: Auxiliar
-- Splashproof: altavoz portátil recubierto de tela resistente a salpicaduras, cinta para colgar y bolsa de transporte incluida para su protección
 - Bateria: batería de litio recargable con 12 horas de autonomía y conector de carga usb tipo c
+- Splashproof: altavoz portátil recubierto de tela resistente a salpicaduras, cinta para colgar y bolsa de transporte incluida para su protección
+- Tipo de conectividad: Auxiliar
+- Fm radio & usb/microsd mp3 player: cuenta con radio fm integrada, reproduce archivos mp3 desde tarjetas microsd y memorias usb con capacidad de hasta 64 gb y tiene entrada de audio de 3,5 mm
 - Bluetooth & hands-free: conexión bluetooth 5.0 para reproducir música desde el smartphone, tablet o dispositivo inalámbrico; función manos libres para recibir llamadas
 - True wireless stereo: 20 w de potencia y tecnología true wireless para conectar simultáneamente dos dispositivos y duplicar el sonido; integra doble membrana para el realce de graves
 

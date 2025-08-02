@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Estilo atemporal para hombres
+- Longitud midi versátil
 - Ajuste regular cómodo
 - Cintura media para ajuste perfecto
-- Longitud midi versátil
-- Estilo atemporal para hombres
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08S44VJMC{{</world>}}

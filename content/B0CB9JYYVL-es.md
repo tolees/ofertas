@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo clásico de Crosswise en la correa lateral
 - Suela de espuma EVA bicolor y goma
 - Zapatillas de running fabricadas en una combinación de colores y materiales
+- Logotipo clásico de Crosswise en la correa lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB9JYYVL{{</world>}}

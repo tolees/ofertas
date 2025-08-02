@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1 hoja extra de pegatinas con relieve.
 - 5 hojas de pegatinas.
+- 1 hoja extra de pegatinas con relieve.
 - Libreta con pegatinas y notas adhesivas en su interior.
 - 5 blocs de notas adhesivas, con 50 hojas cada uno.
 

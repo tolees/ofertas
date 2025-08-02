@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Gold/Blue Shaded
 - Talla 63/12/145
 - Sin Polarizar
-- Gold/Blue Shaded
 - Garantía internacional de 2 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})

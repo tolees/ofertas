@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de tracción de goma flexible
 - Puntera lisa redondeada en la parte delantera
+- Suela de tracción de goma flexible
 - Plantilla acolchada y cómoda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

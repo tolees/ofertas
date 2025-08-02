@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo en la lengüeta y en un lateral
-- Artículo de marca Reebok
-- Entresuela ligera Suela exterior de EVA
 - Parte superior en tejido y material sintético
+- Logotipo en la lengüeta y en un lateral
+- Entresuela ligera Suela exterior de EVA
+- Artículo de marca Reebok
 - Plantilla OrthoLite
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SUN SYSTEM STICK SPF 50+: Es un fotoprotector solar en stick transparente con una elevada protección contra los rayos UVB y UVA. Se puede usar en zonas sensibles y localizadas y es respetuoso con el medioambiente
-- MODO DE EMPLEO: Aplicar generosamente sobre la zona localizada de manera uniforme al menos 30 minutos antes de la exposición solar; repita con frecuencia.
 - FORMULACIÓN: Está formulado con Pro-DNA Complex, que tiene propiedades calmantes, antioxidantes y antiaging; extracto de Schisandra Chinensis, que aporta elasticidad a la piel
+- SUN SYSTEM STICK SPF 50+: Es un fotoprotector solar en stick transparente con una elevada protección contra los rayos UVB y UVA. Se puede usar en zonas sensibles y localizadas y es respetuoso con el medioambiente
 - FORMATO: Este protector solar de práctico formato es resistente al agua e hipoalergénico, siendo testado en 5 metales como lo son el níquel, cobalto, cromo, paladio y mercurio
 - ALTA PROTECCIÓN: Tiene filtros de muy alta protección, que protegen de las radiaciones UVB, UVA, infrarrojos y luz azul. Es ideal para zonas sensibles como nariz, labios, orejas, manchas y cicatrices
+- MODO DE EMPLEO: Aplicar generosamente sobre la zona localizada de manera uniforme al menos 30 minutos antes de la exposición solar; repita con frecuencia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XMRVJSD{{</world>}}

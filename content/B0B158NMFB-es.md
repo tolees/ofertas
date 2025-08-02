@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 4 hojas de pegatinas con relieve
+- Kit para decorar la agenda, los apuntes o cualquier otra cosa
 - 3 minimarcapáginas magnéticos
 - estuche transparente
-- Kit para decorar la agenda, los apuntes o cualquier otra cosa
+- 4 hojas de pegatinas con relieve
 - 1 stencil o plantilla con formas para dibujar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

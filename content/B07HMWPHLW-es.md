@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Ropa deportiva Nike
 - Muy conveniente
-- respirable
 - Camiseta Tiempo libre y sportwear Hombre
+- respirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HMWPHLW{{</world>}}

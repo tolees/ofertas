@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cordones
-- Parte de malla y material sintético
-- Mediasuela de EVA
 - Horma clásica
+- Mediasuela de EVA
+- Parte de malla y material sintético
+- Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2QMPX7S{{</world>}}

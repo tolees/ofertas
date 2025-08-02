@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- MARIDAJE | Particularmente ecléctico, combina bien con risottos, carnes asadas o a la parrilla y quesos semicurados.
+- DIRADÀ | Elegante y agradablemente suave, es la vid en su equilibrio más armonioso, aligerada del exceso de racimos para potenciar los de mejor calidad.
+- NOTAS DE CATA | Elegante y agradablemente suave, con ricas notas de cereza madura y vainilla, taninos aterciopelados y estructura combinada con una acidez sostenida.
 - VARIEDADES DE UVA | Viñedo «Strà del Milione» en Castions di Strada, Friuli. Diferentes tipos de suelo, principalmente sedimentos calcáreos sobre suelos basálticos y arcillosos limosos. Corvina, Merlot y Refosco.
 - TÉCNICA | El símbolo Masi Expertise Appaxximento certifica en la etiqueta la especialización de Masi en las técnicas de secado, el proceso de deshidratación parcial natural de la uva para obtener una mayor concentración de colores, aromas y sabores en el vino.
-- MARIDAJE | Particularmente ecléctico, combina bien con risottos, carnes asadas o a la parrilla y quesos semicurados.
-- NOTAS DE CATA | Elegante y agradablemente suave, con ricas notas de cereza madura y vainilla, taninos aterciopelados y estructura combinada con una acidez sostenida.
-- DIRADÀ | Elegante y agradablemente suave, es la vid en su equilibrio más armonioso, aligerada del exceso de racimos para potenciar los de mejor calidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCYSLSX8{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Talle alto
 - Ofrecen comodidad y libertad de movimiento
+- Talle alto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08MPRKX9F{{</world>}}

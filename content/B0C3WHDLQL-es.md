@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte regular
 - Construcción sin cordones
+- Corte regular
 - Suela firme
 - Parte superior textil recubierta
 

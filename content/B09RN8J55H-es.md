@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 4 De los personajes de la pelicula de Tim burton fabricados en metal fundido a presión
+- Adecuado a partir de 8 años
 - Figuras coleccionables con caja expositora ideal para coleccionistas o jugadores
 - Licencia 100% oficial Disney
-- Adecuado a partir de 8 años
 - Personajes incluidos: Sally, Jack Skellington, Zerino y Pumpkin King
-- 4 De los personajes de la pelicula de Tim burton fabricados en metal fundido a presión
 - Sumérgete en el universo de Disney con este estuche con 4 personajes de 4cm. con algunas de las poses caracteristicas de las películas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

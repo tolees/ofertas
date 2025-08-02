@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsa de barril AT ESS
 - Polvo de rosa
+- Bolsa de barril AT ESS
 - Número de modelo: 079629
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye: Pack de 3 cuchillas para sierra KEO
-- 3 hojas de sierra intercambiables
 - Precio anterior: 23,57
+- 3 hojas de sierra intercambiables
+- Incluye: Pack de 3 cuchillas para sierra KEO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01JMGWXLQ{{</world>}}

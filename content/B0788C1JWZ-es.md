@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Resistente al agua
+- Se puede limpiar sin desmontarlo directamente bajo el agua
+- Potencia: 3.7 V
 - Sin cables
 - Rodillo de rejilla
-- Potencia: 3.7 V
-- Resistente al agua
 - Rallador de quesos, pan seco, almendras, chocolate, frutos secos
-- Se puede limpiar sin desmontarlo directamente bajo el agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0788C1JWZ{{</world>}}

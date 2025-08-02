@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte ancho
 - Sin mangas
+- Corte ancho
 - Camiseta deportiva
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puntera reforzada
-- Horma clásica
 - Forro textil
+- Horma clásica
 - Cierre de cordones
+- Puntera reforzada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C3JH8G2C{{</world>}}

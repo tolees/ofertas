@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Rubber outsole
+- Regular fit
 - Synthetic lining
 - Lace closure
-- Regular fit
 - Synthetic upper
 
 [🛒 Comprar!!!]({{< param buyurl >}})

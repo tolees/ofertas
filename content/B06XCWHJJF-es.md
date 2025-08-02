@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalón pitillo con bolsillos y aberturas laterales en el bajo con cremalleras
-- Cintura elástica ajustable con cordón
 - Logos serigrafiados en laterales
+- Cintura elástica ajustable con cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XCWHJJF{{</world>}}

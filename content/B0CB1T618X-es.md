@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela: EVA
 - Cierre: Cordones
 - Tipo de tacón: Plano
+- Material de la suela: EVA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB1T618X{{</world>}}

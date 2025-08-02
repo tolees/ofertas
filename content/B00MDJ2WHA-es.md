@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cilindro por ambos lados
-- Cilindro exterior forjado
 - Sistema antipalanca y sin picaporte
 - Palanca de 4 bulones de acero; dos vueltas de cierre
+- Cilindro exterior forjado
 - Hierro niquelado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño: 25 pulgadas
 - Este globo sería el complemento ideal para cualquier fiesta temática de Star Wars
+- Tamaño: 25 pulgadas
 - Hecho de papel de aluminio duradero
 - Adecuado solo para inflar con helio
 

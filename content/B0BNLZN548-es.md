@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte clásico
-- Exterior: 100% poliéster (reciclado)
-- Cintura elástica con cordón ajustable
-- Calzoncillo integrado: 100% poliéster (reciclado)
 - Bolsillos laterales
 - AEROREADY
+- Exterior: 100% poliéster (reciclado)
+- Calzoncillo integrado: 100% poliéster (reciclado)
+- Cintura elástica con cordón ajustable
+- Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNLZN548{{</world>}}

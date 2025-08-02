@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estructura dobby refinada
-- Cuello en V con cuello alto
-- Algodón puro
 - Dobladillo de camisa
+- Algodón puro
 - La blusa en tejido dobby irradia elegancia clásica.
+- Cuello en V con cuello alto
+- Estructura dobby refinada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B759ZY7R{{</world>}}

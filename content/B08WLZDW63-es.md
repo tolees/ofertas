@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cordón en la cintura para un ajuste ajustable.
 - Disponible en tallas XS, S, M, L, XL y 2XL.
-- Ajuste regular para un gran ajuste para ropa activa.
-- Puños en la parte inferior para un ajuste firme.
 - Pantalones deportivos con puños para hombre de Jack and Jones
+- Puños en la parte inferior para un ajuste firme.
+- Ajuste regular para un gran ajuste para ropa activa.
+- Cordón en la cintura para un ajuste ajustable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WLZDW63{{</world>}}

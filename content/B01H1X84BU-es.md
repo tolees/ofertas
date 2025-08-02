@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado en España
-- Altura del tacón: 2,00 cm
-- Material principal: napa, material de revestimiento: piel natural / real de la salmuera de piel Material: TR Interior de la solera extraíble: No
-- Panama Jack Botas de desierto negro para hombre
 - Resistente al agua
+- Material principal: napa, material de revestimiento: piel natural / real de la salmuera de piel Material: TR Interior de la solera extraíble: No
+- Altura del tacón: 2,00 cm
+- Fabricado en España
+- Panama Jack Botas de desierto negro para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01H1X84BU{{</world>}}

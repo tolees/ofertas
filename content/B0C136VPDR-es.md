@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de UA bordado en la parte delantera
-- Estructura estructurada
-- Visera curvada
 - Gorra ajustada
+- Visera curvada
+- Estructura estructurada
+- Logotipo de UA bordado en la parte delantera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C136VPDR{{</world>}}

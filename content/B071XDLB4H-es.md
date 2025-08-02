@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sus agujeros alargados consiguen un rápido escurrido de los líquidos
 - Fabricado en polipropileno, muy resistente
-- Su asa facilita el uso y proporciona estabilidad al dejarlo sobre la superficie
 - Apto lavavajillas
+- Su asa facilita el uso y proporciona estabilidad al dejarlo sobre la superficie
+- Sus agujeros alargados consiguen un rápido escurrido de los líquidos
 - Dos tamaños de colador integrados ocupan poco espacio en la cocina
 
 [🛒 Comprar!!!]({{< param buyurl >}})

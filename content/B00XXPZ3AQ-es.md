@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Con certificación VESA y DisplayPort
 - Maximice su productividad, gracias a la conexión de cuatro pantallas independientes a su ordenador con el concentrador MST
-- Conecte a casi cualquier televisor, monitor o proyector gracias a su compatibilidad con adaptadores de bajo costo
 - Novedoso diseño de chipset para mayor compatibilidad con Microsoft Surface Pro 3
+- Conecte a casi cualquier televisor, monitor o proyector gracias a su compatibilidad con adaptadores de bajo costo
 - Obtenga un mejor rendimiento de vídeos externos gracias a la compatibilidad con resoluciones de hasta 4K
 
 [🛒 Aquí!!!]({{< param buyurl >}})

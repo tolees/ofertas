@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Esta edición contiene la versión original del juego y tres nuevas expansiones.
-- A partir de 8 años
-- ¡Tendréis que ayudaros mutuamente para ofrecer un espectáculo inolvidable!
-- De 2 a 5 jugadores
 - En este juego cooperativo único, los jugadores trabajan codo con codo para crear un magnífico espectáculo pirotécnico
+- De 2 a 5 jugadores
+- ¡Tendréis que ayudaros mutuamente para ofrecer un espectáculo inolvidable!
+- A partir de 8 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08NPZSQ81{{</world>}}

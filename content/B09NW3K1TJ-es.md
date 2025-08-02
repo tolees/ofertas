@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatillas deportivas
-- Amortiguación Nike Air
 - Ligereza
+- Amortiguación Nike Air
+- Zapatillas deportivas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NW3K1TJ{{</world>}}

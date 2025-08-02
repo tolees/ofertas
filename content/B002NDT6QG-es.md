@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fuentes naturales de omega 6 y 3 para una piel y un pelo sanos; proteínas animales para ayudar a fomentar una musculatura compacta
 - Glucosamina y condroitina para ayudar a mantener las articulaciones sanas y una movilidad activa
 - L-carnitina y taurina natural para favorecer un corazón sano; prebióticos y pulpa de remolacha para favorecer una digestión sana
+- Fuentes naturales de omega 6 y 3 para una piel y un pelo sanos; proteínas animales para ayudar a fomentar una musculatura compacta
 - L-carnitina para ayudar a quemar grasa y mantener una musculatura compacta
 - Una forma de croqueta especial con DentaDefense para mantener los dientes limpios y sanos
 

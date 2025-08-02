@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Termostato ajustable a la habitación
 - Con 2 ajustes de potencia (900 y 1800 w), para optimizar el consumo
 - Ventilación para el verano
-- Diseño moderno y compacto, con base plegable y mango ergonómico
 - Apto para estancias de hasta 55 m²
+- Termostato ajustable a la habitación
+- Diseño moderno y compacto, con base plegable y mango ergonómico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0742JBJMV{{</world>}}

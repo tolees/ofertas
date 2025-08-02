@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de nobuk sintético
-- Tirador de tela en el talón
-- Cierre de cordones
 - Horma clásica
+- Cierre de cordones
+- Tirador de tela en el talón
 - Suela de goma de aspecto vulcanizado
+- Parte superior de nobuk sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQT3MB3D{{</world>}}

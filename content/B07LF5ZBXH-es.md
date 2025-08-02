@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sudadera con capucha
 - Ajuste regular
 - 40% poliéster
-- Sudadera con capucha
 - Cuello con cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

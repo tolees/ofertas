@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calibre extra liviano para facilitar su uso
 - Fabricado en ee; uu; para ofrecer la máxima calidad y rendimiento
-- Calibres de las cuerdas: acero liso .010, .014, entorchado en bronce .023, .030, .039, .047
 - Tono extra billante combinado con graves profundos y con proyección
 - Paquete ecológico y resistente a la corrosión para conservar la frescura de las cuerdas
+- Calibres de las cuerdas: acero liso .010, .014, entorchado en bronce .023, .030, .039, .047
+- Calibre extra liviano para facilitar su uso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0002H0FMO{{</world>}}

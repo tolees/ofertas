@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vino Tinto Reserva DOCa Rioja
-- Servir entre 16-18ºC
-- Elaborado a partir de uvas tintas Tempranillo, 18 meses en barrica nueva de roble americano y posterior crianza en botella
 - Se recomienda maridar con carnes y guisos castellanos
+- Servir entre 16-18ºC
+- Vino Tinto Reserva DOCa Rioja
+- Elaborado a partir de uvas tintas Tempranillo, 18 meses en barrica nueva de roble americano y posterior crianza en botella
 - Vino de color cereza de capa alta. En nariz afloran aromas a fruta confitada, cacao y notas sutiles a madera noble. En boca es sabroso, redondo y equilibrado. Es elegante, complejo y de postgusto largo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

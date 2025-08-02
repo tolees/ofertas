@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles distintivos de la marca
-- Resistente al viento
-- Libertad de movimiento
 - Pantalones para mujer
+- Resistente al viento
+- Detalles distintivos de la marca
+- Libertad de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B073S7GW4G{{</world>}}

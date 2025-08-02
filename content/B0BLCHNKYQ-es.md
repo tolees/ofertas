@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de malla diseñada
-- Cierre de cordones
 - Ligeras
+- Cierre de cordones
+- Parte superior de malla diseñada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLCHNKYQ{{</world>}}

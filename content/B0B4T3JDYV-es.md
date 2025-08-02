@@ -33,8 +33,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Correa: tanga
 - Forro: poliéster
 - Material interior: sintético
-- Piel: Cuero liso
 - Ancho del zapato: estrecho
+- Piel: Cuero liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B4T3JDYV{{</world>}}

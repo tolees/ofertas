@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricante: FILA
-- Fila
 - Marca: FILA
+- Fila
+- Fabricante: FILA
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09W6BF7TM{{</world>}}

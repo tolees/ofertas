@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las luces indicadoras te muestran cuando la freidora está conectada o si ha acabado de cocinar. Gracias a la tecnología de convección de aire caliente, no es necesario agregar aceite para preparar la comida, aunque añadir una cucharada a las patatas fritas les dará un resultado crujiente. Menos grasa también significa menos suciedad y menos olores
 - Cuenta con un panel de control analógico que la hace súper fácil de utilizar. Configura tu propio tiempo y temperatura para cocinar. Puedes elegir una temperatura de entre 80⁰C y 200⁰C y un tiempo de hasta 30 minutos
-- Prepara todo tipo de platos; Podrás preparar en poco tiempo y fácilmente patatas fritas, platos de carne o pescado, verduras, tostar panecillos, magdalenas, pasteles o empanadillas
-- Cocina de forma saludable: la tecnología de aire caliente circulante permite una cocción uniforme y una reducción de las grasas, lo que da como resultado: alimentos saludables
 - Seguridad gracias a la protección contra sobrecalentamiento, mango de tacto frío y base antideslizante. Incorpora un revestimiento antiadherente fácil de mantener y de limpiar. Como retirar la cesta de la freidora es muy sencillo, limpiarla no te ocupará nada de tiempo
-- Ahorra hasta un 77,8% de energía en tu hogar cuando usas esta freidora de aire Tristar; el cálculo está basado en la comparación de un horno convencional de 3300W versus nuestra freidora de aire; no solo el uso de energía será menor, sino que tus alimentos se cocinarán en menos tiempo
 - Con 1000 W de potencia y con una capacidad de 2 litros, podrás utilizar esta freidora sin aceite para preparar comida para 1 o 2 personas
+- Prepara todo tipo de platos; Podrás preparar en poco tiempo y fácilmente patatas fritas, platos de carne o pescado, verduras, tostar panecillos, magdalenas, pasteles o empanadillas
 - Atención: Dimensiones del producto: 25 x 25 x 30 cm, volumen 2 L
+- Ahorra hasta un 77,8% de energía en tu hogar cuando usas esta freidora de aire Tristar; el cálculo está basado en la comparación de un horno convencional de 3300W versus nuestra freidora de aire; no solo el uso de energía será menor, sino que tus alimentos se cocinarán en menos tiempo
+- Las luces indicadoras te muestran cuando la freidora está conectada o si ha acabado de cocinar. Gracias a la tecnología de convección de aire caliente, no es necesario agregar aceite para preparar la comida, aunque añadir una cucharada a las patatas fritas les dará un resultado crujiente. Menos grasa también significa menos suciedad y menos olores
+- Cocina de forma saludable: la tecnología de aire caliente circulante permite una cocción uniforme y una reducción de las grasas, lo que da como resultado: alimentos saludables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B077ZF6NMJ{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material interior: textil
-- Material exterior: tela
 - Cierre: etilvinilacetato
+- Material exterior: tela
+- Material interior: textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZVLPQFC{{</world>}}

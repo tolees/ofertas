@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Riser included
-- Light-up marquee
-- Dual speaker
 - 17" monitor
+- Dual speaker
+- Riser included
 - Flight cloche with 4 firing triggers
+- Light-up marquee
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BV3CPH43{{</world>}}

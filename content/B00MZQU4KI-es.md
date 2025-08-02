@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nota: Operador/ frecuencia de recepción: Canal 1 – 863.5 MHz y Canal 2 – 864.5 MHz
 - Transmisión de FM. Hasta 14 horas de reproducción
+- Nota: Operador/ frecuencia de recepción: Canal 1 – 863.5 MHz y Canal 2 – 864.5 MHz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00MZQU4KI{{</world>}}

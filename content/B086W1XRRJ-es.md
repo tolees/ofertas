@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Microsoft
 - Color: negro
+- Marca: Microsoft
 - Compatibilidad del cargador: Notebook, Tablet
 - Carga tu Surface Book 3 con esta versátil fuente de alimentación de 127 W, que incluye un puerto USB adicional para cargar otro dispositivo al mismo tiempo
 

@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Largo de puntada variable (0 - 4 mm), ancho variable en puntada zig-zag (0 - 5 mm) y posibilidad de coser con aguja doble (no incluida)
-- ¿Buscas enhebrador automático? Consulta nuestra gama ALFA Practik.
-- Incluye accesorios:, prensatelas universal, prensatelas para cremalleras, prensatelas para ojales, prensatelas para botones, abre-ojales/pincel, guía para bordados/acolchados, agujas, 3 canillas, destornillador en forma de L, aceitera, placa para zurcir y bordar, fieltro para portacarretes
 - Todas las comodidades: Cortador de hilo incorporado, Devanador de canilla automático, Indicador de puntada analógico, luz blanca LED
-- Fácil de utilizar: Curso de Costura Online gratuito y más de 100 tutoriales de costura en la web de ALFA.
 - ALFA te regala un año extra de garantía si registras la máquina en su web.
-- Opcional: Funda para proteger la máquina y transportarla. Funda Next to U o Style to U.
-- Cose vaqueros y tejidos gruesos: podrás coser el bajo de un vaquero, camisetas, neceser, bolsos con cremallera, fieltro, botones, etc.
-- 21 tipos de puntadas con las que coser de todo: Ojal automático en 4 pasos, Básicas, Decorativas, Festones, Zig-zag, lycra, lencería, etc.
 - Máquina robusta y duradera: estructura metálica de gran rigidez, luz blanca led, portacarretes metálico, enmangue de prénsatelas metálico
+- Opcional: Funda para proteger la máquina y transportarla. Funda Next to U o Style to U.
+- Largo de puntada variable (0 - 4 mm), ancho variable en puntada zig-zag (0 - 5 mm) y posibilidad de coser con aguja doble (no incluida)
+- Incluye accesorios:, prensatelas universal, prensatelas para cremalleras, prensatelas para ojales, prensatelas para botones, abre-ojales/pincel, guía para bordados/acolchados, agujas, 3 canillas, destornillador en forma de L, aceitera, placa para zurcir y bordar, fieltro para portacarretes
+- Cose vaqueros y tejidos gruesos: podrás coser el bajo de un vaquero, camisetas, neceser, bolsos con cremallera, fieltro, botones, etc.
+- Fácil de utilizar: Curso de Costura Online gratuito y más de 100 tutoriales de costura en la web de ALFA.
+- ¿Buscas enhebrador automático? Consulta nuestra gama ALFA Practik.
+- 21 tipos de puntadas con las que coser de todo: Ojal automático en 4 pasos, Básicas, Decorativas, Festones, Zig-zag, lycra, lencería, etc.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IZBWY96{{</world>}}

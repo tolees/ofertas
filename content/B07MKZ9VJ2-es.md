@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Exterior de piel italiana
-- Dimensiones: 24 x 27 x 2 cm
-- Cocodrilo metálico a tono
-- Exterior: un bolsillo Interior: tres bolsillos, uno de ellos con cremallera
 - Correa de hombro ajustable
+- Exterior de piel italiana
+- Cocodrilo metálico a tono
+- Dimensiones: 24 x 27 x 2 cm
+- Exterior: un bolsillo Interior: tres bolsillos, uno de ellos con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MKZ9VJ2{{</world>}}

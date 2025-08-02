@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene tecnología HD con fórmula base gel ultra hidratante
-- Punta de precisión para una aplicación precisa en los labios
-- Sensación sedosa y ligera
 - Acabado brillante
+- Sensación sedosa y ligera
+- Punta de precisión para una aplicación precisa en los labios
+- Tiene tecnología HD con fórmula base gel ultra hidratante
 - Cantidad por paquete: 1 pieza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

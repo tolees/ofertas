@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Secado rápido
+- Fácil de desmaquillar con agua y jabón
 - Máscara que aporta pestañas más espesas y voluminosas
 - Fórmula con pigmentos hiper-negros para unas pestañas de alto impacto.
-- Fácil de desmaquillar con agua y jabón
 - Oftalmológicamente testado, apto para usuarios de lentillas.
-- Secado rápido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001GNBW0W{{</world>}}

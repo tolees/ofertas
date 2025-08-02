@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La cintura ajustable con cordón
 - Corte
+- La cintura ajustable con cordón
 - Tela Suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

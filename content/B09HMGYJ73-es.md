@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Interlock 100% poliéster reciclado
 - Tejido transpirable AEROREADY
 - Corte clásico
+- Interlock 100% poliéster reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09HMGYJ73{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La Leffe Blonde está fermentada a altas temperaturas y empleando más cantidad de malta y lúpulo, para obtener una cerveza más densa y de espuma cremosa. Elaborada con agua de manantial, maltas variadas de cebada y maíz, maltas aromáticas y levadura tipo ale, para obtener como resultado una cerveza de color dorado intenso con un burbujeo denso y una espuma de breve duración.
-- Aspecto: en apariencia la Cerveza Leffe Blonde tiene un reluciente color dorado y una espuma cremosa, blanca y suave al impregnarse con tu paladar
 - Aroma: de notable intensidad aromática, Leffe Blonde destaca por sus toques especiados a clavo y sus afrutados con matices de plátano y frutas maduras, todo ello con un fondo ligero de notas de malta
 - Sabor: en boca la cerveza Leffe Blonde resulta equilibrada de amargor moderado, con un punto dulce, cuerpo ligero y final seco
+- Aspecto: en apariencia la Cerveza Leffe Blonde tiene un reluciente color dorado y una espuma cremosa, blanca y suave al impregnarse con tu paladar
 - Pack de 4x6 botellines de cerveza (24 botellas en total) de 33 cl cada uno. Para un mayor disfrute, se recomienda consumir a 8º C
+- La Leffe Blonde está fermentada a altas temperaturas y empleando más cantidad de malta y lúpulo, para obtener una cerveza más densa y de espuma cremosa. Elaborada con agua de manantial, maltas variadas de cebada y maíz, maltas aromáticas y levadura tipo ale, para obtener como resultado una cerveza de color dorado intenso con un burbujeo denso y una espuma de breve duración.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B019FRDFU0{{</world>}}

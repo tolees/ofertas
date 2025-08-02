@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Insignia de G-Star Originals en el pecho
 - Visera redondeada pespunteada
-- Tira ajustable por detrás
 - Paneles delanteros con estructura cerrada, paneles traseros con estructura abierta
+- Tira ajustable por detrás
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098QQZL6S{{</world>}}

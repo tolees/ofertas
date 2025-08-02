@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pulverizar sobre el cabello lavado y secado con toalla. Peinar y no aclarar.
 - El aceite Absolut Repair 10 en 1 sin aclarado, aporta un cuidado multibeneficio para cabellos normales o sensibilizados. Gracias a su fórmula con proteínas y quinoa el cabello luce más suave y brillante, sin sensación de peso y reparado.
+- Pulverizar sobre el cabello lavado y secado con toalla. Peinar y no aclarar.
 - Para un cabello fortalecido y reparado al instante. Protege el cabello dañado aportando nutrición, reparación, reducción de las puntas abiertas, tacto ligero y suavidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fácil de desmaquillar.
 - Liner de punta de flitro preciso y modulable.
+- Punta flexible que facilita la aplicación.
 - Delineador de ojos con punta de fieltro.
 - Delineado intenso y duradero.
-- Punta flexible que facilita la aplicación.
-- Fácil de desmaquillar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008JYH6FQ{{</world>}}

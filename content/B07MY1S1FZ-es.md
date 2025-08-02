@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Cordones
 - Tipo de tacón: Plano
-- Material exterior: Lona
+- Cierre: Cordones
 - Material de la suela: Goma
+- Material exterior: Lona
 - Revestimiento: Tela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Artículo anual 2021
-- Colección Coleccionable 2021 "Regalos de Navidad"
 - Diseño: Renáta
-- El regalo perfecto
+- Colección Coleccionable 2021 "Regalos de Navidad"
 - Porcelana de calidad de la marca Hutschenreuther
+- El regalo perfecto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093YH8GHJ{{</world>}}

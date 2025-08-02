@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cálido maillot de hombre, Ideal para condiciones climáticas frías
 - GORE C3 Maillot térmico, Talla: L, Color: Negro, 100647
+- Cálido maillot de hombre, Ideal para condiciones climáticas frías
 - GORE Selected Fabrics: Transporte rápido de la humedad y extremadamente transpirable
 - Talle cómodo para mayor libertad de movimiento/Corte específico para ciclismo
 - Bolsillo posterior de 3 compartimentos, Material funcional Thermo-Stretch, Banda elástica en la cintura para un ajuste seguro

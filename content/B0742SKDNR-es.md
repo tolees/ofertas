@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Indicador Cambio de Cartucho - Dispone del indicador electrónico de cambio de cartucho Brita Memo
-- Capacidad de 1 Litro - Hervidor de cristal y detalles en acero inoxidable y color negro con capacidad para 1 litro y filtro con capacidad de 0,5 litros
 - Filtro Brita - Incluye un cartucho de filtro de agua de Brita Maxtra, para una óptima calidad de agua, filtro de cal extraíble
+- Indicador Cambio de Cartucho - Dispone del indicador electrónico de cambio de cartucho Brita Memo
 - Base de 360° - El hervidor cuenta con base de 360°, permite la posibilidad de parada automático, apertura automática de la tapa mediante un botón y resistencia oculta
 - Potencia de 2200 W - Ahorra hasta un de 66 % de electricidad y función especial para hervir 1 taza
+- Capacidad de 1 Litro - Hervidor de cristal y detalles en acero inoxidable y color negro con capacidad para 1 litro y filtro con capacidad de 0,5 litros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0742SKDNR{{</world>}}

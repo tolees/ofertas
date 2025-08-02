@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ¿CÓMO USARLO?: abrir el tapón y apretar suavemente para aplicarlo
-- COMPATIBLE CON PRESERVATIVOS DE LÁTEX: únicamente compatible con preservativos de látex de caucho natural y poliisopreno
-- La siguiente información se aplica a cada unidad del paquete
 - ALIVIAR LA SEQUEDAD VAGINAL: Destinado para aliviar la sequedad vaginal y las molestias íntimas
+- La siguiente información se aplica a cada unidad del paquete
+- COMPATIBLE CON PRESERVATIVOS DE LÁTEX: únicamente compatible con preservativos de látex de caucho natural y poliisopreno
 - DULCE Y PLACENTERO: Durex lubricante Fresa, dulce y placentero
 - APTO PARA SEXO VAGINAL, ANAL Y ORAL: lubricante apto para sexo vaginal, anal y oral
 

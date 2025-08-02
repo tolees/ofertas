@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseño flexible
 - Paquete de dos pares
 - Calcetines elásticos
-- Diseño flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BP2T3YTN{{</world>}}

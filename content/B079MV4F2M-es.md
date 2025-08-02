@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fabricadas en acero cincado.
+- Carga máxima por juego de hasta 35Kg.
+- Cada lote incluye 5 juegos de guías.
 - Gatillo para el desmontaje de la guía.
 - Guías con rodamientos de bolas y extracción total del cajón de largo 600mm.
-- Cada lote incluye 5 juegos de guías.
-- Carga máxima por juego de hasta 35Kg.
-- Fabricadas en acero cincado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B079MV4F2M{{</world>}}

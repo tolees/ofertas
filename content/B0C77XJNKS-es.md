@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sensación: sensual, adictiva, inolvidable
-- Esencia de brotes de grosella y guayaba
 - Aromas: acorde de Orquídea flambé
+- Esencia de brotes de grosella y guayaba
+- Sensación: sensual, adictiva, inolvidable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C77XJNKS{{</world>}}

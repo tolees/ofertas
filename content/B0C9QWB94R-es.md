@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Prenda cómoda
 - Cuello redondo y estampado floral en la parte delantera
+- Prenda cómoda
 - Camiseta de manga corta de algodón puro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

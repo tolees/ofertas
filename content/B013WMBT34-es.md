@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 6 tenedores de fondue incluidos
-- Potencia de 1200 vatios
 - Temperatura ajustable con función de mantenimiento del calor
+- 6 tenedores de fondue incluidos
 - Cuenco de acero inoxidable, capacidad del cuenco de 1,7 litros, apto para el lavavajillas
 - Base de acero inoxidable cepillado
+- Potencia de 1200 vatios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B013WMBT34{{</world>}}

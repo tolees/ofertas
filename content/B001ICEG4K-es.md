@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Embalado con cosas naturales
 - Fragancias naturales
+- Embalado con cosas naturales
 - Aroma a menta y árbol de té
 - Apto para veganos
 - 100% aceites esenciales

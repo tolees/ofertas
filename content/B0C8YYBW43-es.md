@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece comodidad y libertad de movimiento
 - Camiseta deportiva
+- Ofrece comodidad y libertad de movimiento
 - Tela suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Este producto fue creado con atención al detalle
-- Gris
 - BATIDORA INOX VASO DE CRISTAL
+- Gris
 - Alta calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

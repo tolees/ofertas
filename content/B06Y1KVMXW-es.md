@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Bluetooth 4.1: bajo consumo con distancia de conexión de hasta 10 metros.
 - Diseño ergonómico y ligero: utilízalos sentado, corriendo, como quieras pero sin enredos.
-- Mando de control integrado en el auricular: Controla tu música favorita.
-- Auriculares bt con gran batería: 60mah que logran hasta 2,5 horas de autonomía.
 - Manos libres: descuelga y habla con un solo toque.
+- Auriculares bt con gran batería: 60mah que logran hasta 2,5 horas de autonomía.
+- Mando de control integrado en el auricular: Controla tu música favorita.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06Y1KVMXW{{</world>}}

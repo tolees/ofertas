@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuenta con un enchufe de 3.5 mm y dos conectores de audio de 3.5 mm
+- Marca: StarTech
 - Conectores moldeados con alivio de tensión
 - Conector delgado moldeado por inyección para usar con dispositivos portátiles
-- Marca: StarTech
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0081ZBNI4{{</world>}}

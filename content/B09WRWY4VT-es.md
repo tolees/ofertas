@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte clásico
-- Cremallera completa
-- Puños y dobladillo acanalados
 - Cordón con logo de Hackett
+- Puños y dobladillo acanalados
+- Cremallera completa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09WRWY4VT{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Comodidad y durabilidad óptimas de HyperX
+- Batería de larga duración
 - TWS dual inalámbrico: 2,4 GHz | Bluetooth
 - Sonido característico de HyperX + DTS Headphone:X
-- Batería de larga duración
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1SFSMJ6{{</world>}}

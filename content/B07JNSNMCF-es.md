@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 98% algodón, 2% elastano
+- Lavar a máquina a máx. 40 ° C bajo un programa de lavado suave
 - Bolsillos de Paspel
 - Estiramiento asegura un gran confort
-- Lavar a máquina a máx. 40 ° C bajo un programa de lavado suave
-- 98% algodón, 2% elastano
 - Ajustado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

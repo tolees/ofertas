@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Horma clásica
-- Parte con paneles de malla
 - Suela de EVA de una sola pieza
 - Ojales reforzados
+- Parte con paneles de malla
 - Cierre de velcro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye 3 bolsillos traseros de fácil acceso
 - Construido con tejido bielástico SensodryWarm y cardado interior
 - Maillot apto para 3 estaciones. Patrón ceñido de manga larga. Ideal también como capa intermedia
+- Incluye 3 bolsillos traseros de fácil acceso
 - Cremallera frontal de apertura completa con tirador inyectado antideslizante
 - Incluye detalles flúor y elementos reflectantes para una visibilidad de 360º
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Viscosa dobby todo en uno
 - Ojo trasero abotonado
+- Viscosa dobby todo en uno
 - Panel fruncido en la cintura
 - Mangas con costuras elásticas
 - Bolsillos inclinados en los laterales

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior: parte superior sintética con malla brillante
 - Suela exterior: Rubberlon con diseño ROXY
 - Plantilla: EVA con marca ROXY
+- Parte superior: parte superior sintética con malla brillante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B078WTPC46{{</world>}}

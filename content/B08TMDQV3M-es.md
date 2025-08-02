@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pantalones Cortos Vaqueros
+- ONSPLY REG GR JOG SHO PK 8583 DNM NOOS
 - Cómodo
 - Elástico
-- ONSPLY REG GR JOG SHO PK 8583 DNM NOOS
-- Pantalones Cortos Vaqueros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08TMDQV3M{{</world>}}

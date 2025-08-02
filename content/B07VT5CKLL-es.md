@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - cordones zapatillas deporte
 - zapatillas running mujer
-- zapatillas deportivas de muje
 - zapatillas mujer deporte
+- zapatillas deportivas de muje
 - zapatillas mujer casual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

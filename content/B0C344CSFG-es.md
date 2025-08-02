@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peso ligero
 - Confort
+- Peso ligero
 - Suela moldeada de CMEVA
 
 [🛒 Comprar!!!]({{< param buyurl >}})

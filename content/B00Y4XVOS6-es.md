@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello acanalado
-- Tapeta 2 botones
 - Slim fit
+- Cuello acanalado
 - Petit piqué de dos capas
+- Tapeta 2 botones
 - Cocodrilo verde bordado en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material muy suave
 - Con grandes ojos preciosos
+- Material muy suave
 - Diseño original y divertido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

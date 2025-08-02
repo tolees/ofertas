@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte con paneles de malla
 - Horma clásica
-- Suela de EVA de una sola pieza
 - Ojales reforzados
+- Parte con paneles de malla
+- Suela de EVA de una sola pieza
 - Cierre de velcro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

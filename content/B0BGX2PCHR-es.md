@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Puntera sin costuras
-- Refuerzo en el arco plantar
 - Largo hasta el tobillo
+- Refuerzo en el arco plantar
 - Tres pares por paquete
 
 [🛒 Visítala!!!]({{< param buyurl >}})

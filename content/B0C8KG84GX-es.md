@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tommy Hilfiger Detalles de la marca
-- Ligeras
 - No es resistente al agua
+- Ligeras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8KG84GX{{</world>}}

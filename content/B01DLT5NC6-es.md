@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Estuche pequeño
+- 6.5 altura x 22 ancho x 8 profundidad cm
 - 100% Poliamida
 - Hidrófugo
 - 0.06kg peso x 1L volumen
-- Estuche pequeño
-- 6.5 altura x 22 ancho x 8 profundidad cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DLT5NC6{{</world>}}

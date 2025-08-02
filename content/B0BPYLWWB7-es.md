@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logo a contraste en la cinturilla
-- Cocodrilo tejido en la parte delantera
 - No se aceptan cambios; devoluciones ni reembolsos en la ropa interior
 - Tejido reciclado confeccionado con recortes de fábrica
+- Cocodrilo tejido en la parte delantera
+- Logo a contraste en la cinturilla
 - Fácil de ajustar a la cintura y la cadera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

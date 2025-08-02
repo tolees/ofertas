@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Clínicamente probado
 - La vitamina C activa reduce la hiperpigmentación como manchas marrones, manchas solares o manchas de la edad y regula la producción de melanina, que es responsable de la aparición de estas manchas
 - Reduce visiblemente las manchas marrones, protege la apariencia juvenil de la piel, con SPF50
-- Clínicamente probado
 - Una textura fluida ligera, que penetra rápidamente y no deja residuos blancos
 - Protege la piel de los efectos negativos del sol gracias a los filtros anti-UVA y anti-UVB
 

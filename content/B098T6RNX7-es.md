@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pantalón vaquero, largo
+- Instrucciones de cuidado: Lavado a máquina
+- Silueta: Straight Fit
+- Cierre: Cremallera y botón
 - Composición: 95% Bci Algodón - 3% Elastimuliester - 2% Elastáne
 - Tela Estrecho: Tiro medio
-- Instrucciones de cuidado: Lavado a máquina
-- Cierre: Cremallera y botón
-- Silueta: Straight Fit
-- Pantalón vaquero, largo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B098T6RNX7{{</world>}}

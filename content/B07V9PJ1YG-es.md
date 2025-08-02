@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La ligera suela aporta amortiguación y flexibilidad gracias a la innovadora tecnología ECCO FLUIDFORM Direct Comfort
-- Modelo confeccionado con piel de plena flor, elaborada en nuestras propias curtidurías, o con suave ante de becerro, con detalles de tela
-- Cordones de tela para un ajuste fácil y seguro
-- Los detalles perforados dan un toque de textura al look informal
 - Plantilla extraíble y forro de tela para un confort adicional y un ajuste personalizado
+- La ligera suela aporta amortiguación y flexibilidad gracias a la innovadora tecnología ECCO FLUIDFORM Direct Comfort
+- Los detalles perforados dan un toque de textura al look informal
+- Cordones de tela para un ajuste fácil y seguro
+- Modelo confeccionado con piel de plena flor, elaborada en nuestras propias curtidurías, o con suave ante de becerro, con detalles de tela
 - Forro de tela que garantiza la ductilidad y la transpirabilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

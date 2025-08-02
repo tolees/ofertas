@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - DISEÑO MINIMALISTA: Encaja con todo tipo de decoraciones gracias a su estilo minimalista
-- MEDIDAS: 18,7 x 27,8 x 0,7 cm
 - FABRICADO EN ESPAÑA: Por la prestigiosa marca TATAY
 - LIBRE DE BPA: Hecho de Propileno adecuada
+- MEDIDAS: 18,7 x 27,8 x 0,7 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JPYVTTZ{{</world>}}

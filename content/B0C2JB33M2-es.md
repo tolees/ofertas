@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura ultra alta
 - Ajuste holgado
+- Cintura ultra alta
 - Estilo vintage
 
 [🛒 Visítala!!!]({{< param buyurl >}})

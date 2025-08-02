@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Equipaje grande con ruedas
+- Repele el agua
 - 77 cm de alto x 39 cm de ancho x 37,5 cm de profundidad
 - 60% poliamida, 40% poliamida reciclada
-- Repele el agua
 - 3,44 kg de peso y 91 L de volumen
 
 [🛒 Visítala!!!]({{< param buyurl >}})

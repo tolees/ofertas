@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseñado en España
-- Botas con materiales reciclados
 - Planta fabricada con fibras naturales
+- Botas con materiales reciclados
 - Forro y planta de piel curtidos de forma sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

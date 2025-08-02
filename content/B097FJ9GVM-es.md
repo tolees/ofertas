@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Materiales: barbacoa de metal esmaltado y parrillas de acero
+- Funcionalidad: doble parrilla con altura regulable para cocinar más o menos cerca de las brasas y rejilla auxiliar inferior para colocar utensilios
 - Medidas: 97 cm de ancho, 42 cm de largo y 96 cm de alto
 - Incluye: asa de transporte con protección, dos ruedas para mover con facilidad hasta el lugar deseado y dos parrillas
 - Barbacoa de carbón portátil color negro con capacidad para 10 comensales o más Aktive Barbecue
-- Funcionalidad: doble parrilla con altura regulable para cocinar más o menos cerca de las brasas y rejilla auxiliar inferior para colocar utensilios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B097FJ9GVM{{</world>}}

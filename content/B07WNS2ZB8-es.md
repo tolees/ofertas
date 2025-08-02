@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Accesorio para cámara GoPro.
 - Resistente y de buena calidad.
+- Accesorio para cámara GoPro.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WNS2ZB8{{</world>}}

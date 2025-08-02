@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Atajo
 - línea adherente
+- Atajo
 - Camisetas deportivas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

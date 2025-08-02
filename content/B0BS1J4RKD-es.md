@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cada píxel OLED se ilumina individualmente, por lo que verá la más pequeña chispa en el vacío más oscuro con absoluta precisión y claridad; el HDR, con un brillo de hasta 1.000 nits, combina los tonos claros más luminosos con los negros más profundos para obtener una amplia gama de brillo con un 99 % de gama cromática DCI-P3
 - La tecnología OLED flexible, desarrollada por los expertos en OLED de LG Display, le permite ajustar la curva de la pantalla desde completamente plana hasta 800R
-- Aumente el brillo en un 33% y hasta 200nit a pantalla completa con la actualización del controlador del firmware v107 que se encuentra en la pestaña de descargas de la página web de Corsair; las actualizaciones son archivos zip que incluyen instrucciones de instalación
-- La pantalla de 45 pulgadas de 3440 × 1440 (84 PPI) ofrece una relación de aspecto cinematográfica de 21:9 con un microbisel fino
+- Cada píxel OLED se ilumina individualmente, por lo que verá la más pequeña chispa en el vacío más oscuro con absoluta precisión y claridad; el HDR, con un brillo de hasta 1.000 nits, combina los tonos claros más luminosos con los negros más profundos para obtener una amplia gama de brillo con un 99 % de gama cromática DCI-P3
 - La tecnología OLED elimina de forma eficaz el desenfoque de movimiento para lograr otro nivel de realismo durante las escenas de movimiento rápido y el juego, mientras que la compatibilidad con NVIDIA G-SYNC y la certificación AMD FreeSync Premium facilita imágenes fluidas, menos cortes en la pantalla y una baja latencia de entrada
+- Aumente el brillo en un 33% y hasta 200nit a pantalla completa con la actualización del controlador del firmware v107 que se encuentra en la pestaña de descargas de la página web de Corsair; las actualizaciones son archivos zip que incluyen instrucciones de instalación
 - Disfrute el clase de rendimiento con una frecuencia de actualización de 240 Hz y un tiempo de respuesta GtG de 0,03 ms que se hace posible gracias a la tecnología OLED de LG
+- La pantalla de 45 pulgadas de 3440 × 1440 (84 PPI) ofrece una relación de aspecto cinematográfica de 21:9 con un microbisel fino
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS1J4RKD{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Berocca Performance es un complemento alimenticio para mayores de 18 años, que ayuda al rendimiento físico e intelectual, a reducir la sensación de fatiga
-- No se recomienda su uso en niños menores de 18 años o durante el embarazo o periodo de lactancia
-- Multivitamínico ideal para estudiantes o jóvenes profesionales, que necesitan ayudar a su rendimiento intelectual de forma continuada o en situaciones de actividad intelectual intensa
 - Fórmula clínicamente testada de vitaminas y minerales sin cafeína con vitaminas B y C, Magnesio, Calcio y Zinc
+- Multivitamínico ideal para estudiantes o jóvenes profesionales, que necesitan ayudar a su rendimiento intelectual de forma continuada o en situaciones de actividad intelectual intensa
+- No se recomienda su uso en niños menores de 18 años o durante el embarazo o periodo de lactancia
 - 1 comprimido al día disuelto en un vaso de agua y consigue aquello que te propongas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

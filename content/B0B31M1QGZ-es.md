@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cordones elásticos y cierre autoadherente
-- Suela de goma cosida
 - Horma clásica
+- Suela de goma cosida
 - Forro sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

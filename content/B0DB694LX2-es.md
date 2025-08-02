@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Planta extraible inTech
 - Puntera+protectores
+- Planta extraible inTech
 - Horma Fisiológica
 - Cierre adherente
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dura hasta 10 horas
-- Color y comodidad
-- Se desliza suavemente y su aplicación es precisa
-- Brinda un color de alto impacto
 - Textura cremosa y ligera
+- Color y comodidad
+- Brinda un color de alto impacto
+- Se desliza suavemente y su aplicación es precisa
+- Dura hasta 10 horas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RF1ZX6T{{</world>}}

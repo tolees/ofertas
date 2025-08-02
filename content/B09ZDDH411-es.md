@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Detalles: dobladillo redondeado
-- Ajuste: corte largo
 - Lavado: aspecto lavado
+- Ajuste: corte largo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09ZDDH411{{</world>}}

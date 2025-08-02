@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte clásico con pernera más ajustada en el puño
 - Felpa 70% algodón / 30% poliéster reciclado
 - Cintura elástica con cordón
-- Corte clásico con pernera más ajustada en el puño
 - Bolsillos frontales con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

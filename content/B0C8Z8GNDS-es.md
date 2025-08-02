@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de la marca
 - Corte regular
+- Logotipo de la marca
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

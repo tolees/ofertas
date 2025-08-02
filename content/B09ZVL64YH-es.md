@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Plantilla Ortholite para amortiguación y transpirabilidad
-- Certificado del grupo de trabajo de cuero
 - Suela XL Extralight Organix para ligereza y absorción de impactos
+- Certificado del grupo de trabajo de cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZVL64YH{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Botas de estilo deportivo
 - Diseño ligero y flexible que ofrece comodidad
+- Botas de estilo deportivo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08MQLFTH7{{</world>}}

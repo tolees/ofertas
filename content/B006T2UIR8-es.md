@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Longitud: 15 m.
-- Diámetro: 8 mm.
 - Desatascador para desatascar las tuberías grandes de desagüe.
+- Diámetro: 8 mm.
+- Longitud: 15 m.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B006T2UIR8{{</world>}}

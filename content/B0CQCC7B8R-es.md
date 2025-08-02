@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de 2 Polo, Cuello de Manga Corta
 - Camiseta polo para hombre, con botones, detalles bordados, corte entallado
+- Pack de 2 Polo, Cuello de Manga Corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQCC7B8R{{</world>}}

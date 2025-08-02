@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: Tejido
 - Material de la suela: EVA
+- Material exterior: Tejido
 - Cierre: Cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

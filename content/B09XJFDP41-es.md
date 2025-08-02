@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñado y construido con tela de gamuza de carreras transpirable
 - Deslizadores de asiento con doble bloqueo para máxima resistencia y ajuste fino
-- Compatible con la gama de cabinas Next Level Racing Elite y la cabina GTtrack
 - Asiento reclinable con doble bloqueo para máxima rigidez y ajuste del ángulo
+- Diseñado y construido con tela de gamuza de carreras transpirable
+- Compatible con la gama de cabinas Next Level Racing Elite y la cabina GTtrack
 - Adecuado para carreras de confort y resistencia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

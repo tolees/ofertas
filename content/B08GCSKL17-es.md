@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Media suela flexible y ligera con absorción de impactos
 - Modelo con parte superior de malla Skech Knit y cordones elásticos
 - Altura del talón de 3,2 cm
+- Media suela flexible y ligera con absorción de impactos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08GCSKL17{{</world>}}

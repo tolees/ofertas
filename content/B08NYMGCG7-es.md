@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido transpirable
 - Tela suave
+- Tejido transpirable
 - Tienen detalles distintivos de la marca
 - Ofrecen comodidad y libertad de movimiento
 

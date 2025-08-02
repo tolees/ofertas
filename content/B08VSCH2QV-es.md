@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Interlock 100% poliéster reciclado
 - Corte clásico
 - Cuello de polo con cierre de botones
-- Interlock 100% poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08VSCH2QV{{</world>}}

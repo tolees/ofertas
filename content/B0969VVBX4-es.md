@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se puede servir con hielo y una tira larga de piel de naranja
-- Está elaborado con extractos de raíces, hojas y flores de plantas aromáticas y especias
-- Con notas amargas características del vermut
 - Tiene un color oscuro con notas rojizas
 - Vermut ideal como aperitivo
+- Está elaborado con extractos de raíces, hojas y flores de plantas aromáticas y especias
+- Con notas amargas características del vermut
+- Se puede servir con hielo y una tira larga de piel de naranja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0969VVBX4{{</world>}}

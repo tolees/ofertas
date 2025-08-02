@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mini Hucha Dragon Ball Son Goku
-- Mini Hucha Dragon Ball Son Goku
-- Mini Hucha Dragon Ball Son Goku
-- Mini Hucha Dragon Ball Son Goku
 - HUCHA CHIBI ALBUS DUMBLEDORE 16CM
+- Mini Hucha Dragon Ball Son Goku
+- Mini Hucha Dragon Ball Son Goku
+- Mini Hucha Dragon Ball Son Goku
+- Mini Hucha Dragon Ball Son Goku
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LQL55BA{{</world>}}

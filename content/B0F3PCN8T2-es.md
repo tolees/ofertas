@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ELIMINACIÓN DE MANCHAS Y OLORES EN 1 LAVADO: Ariel PODs Todo en 1 en cápsulas elimina las manchas y los malos olores en 1 lavado
-- RÁPIDA DISOLUCIÓN INCLUSO EN FRÍO: Ariel PODs Todo en 1 se disuelve rápidamente incluso en agua fría
 - ARIEL PODS ES PERFECTO PARA LAVADOS EN FRÍO: ofrecen una eliminación excepcional de manchas y olores en 1 lavado, proporcionan un olor a limpio fresco que perdura, y ayudan a preservar tus tejidos por más tiempo (vs. ciclos en agua caliente)
+- RÁPIDA DISOLUCIÓN INCLUSO EN FRÍO: Ariel PODs Todo en 1 se disuelve rápidamente incluso en agua fría
+- ELIMINACIÓN DE MANCHAS Y OLORES EN 1 LAVADO: Ariel PODs Todo en 1 en cápsulas elimina las manchas y los malos olores en 1 lavado
 - DESCUBRE LA CIENCIA DETRÁS DE NUESTROS PRODUCTOS: Para obtener más información sobre Ariel, lo que hay detrás de nuestros productos y nuestro camino hacia el lavado en frío, visita sostenibilidadariel.es
 - CÓMO USAR TUS ARIEL PODS: primero el POD, coloca luego la ropa encima para eliminar las manchas difíciles incluso en frío
 

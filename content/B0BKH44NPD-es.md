@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos traseros ribeteados
-- Ajuste clásico
 - Ligeramente elástico para mayor comodidad
+- Ajuste clásico
+- Bolsillos traseros ribeteados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKH44NPD{{</world>}}

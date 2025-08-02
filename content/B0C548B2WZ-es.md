@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AEROREADY
-- Bolsillos frontales con cremallera
-- Tejido técnico 87% poliéster reciclado / 13% elastán
 - Corte clásico
 - Cintura elástica con cordón
+- AEROREADY
+- Tejido técnico 87% poliéster reciclado / 13% elastán
+- Bolsillos frontales con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C548B2WZ{{</world>}}

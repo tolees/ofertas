@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Unique Disruptor square lace loops
 - Estilo clásico mini-me contemporáneo
+- Unique Disruptor square lace loops
 - Zapatillas Bulky
 
 [🛒 Visítala!!!]({{< param buyurl >}})

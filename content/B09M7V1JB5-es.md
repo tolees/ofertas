@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos practicos
 - Cintura regulable
+- Bolsillos practicos
 - Suave tejido vaquero de punto
 - Cadera: Corte slim
 

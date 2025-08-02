@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Royal Salute es un whisky escocés creado en 1953 para celebrar la coronación de la Reina Isabel II de Inglaterra
+- Es un whisky premium que combina aromas de vainilla dulce y roble seco, que se realzan con sutiles notas de jerez y humo
 - Es un whiskey de sabor suave y fresco, con delicadas notas de mermelada de naranjas dulces y peras frescas, que se unen con toques de avellana y nueces, y un sutil ahumado
 - Royal Salute 21 años es adecuado para consumir solo o con hielo y disfrutar del dulce aroma de vainilla mezclado con roble tostado y notas afrutadas
 - Las botellas son de porcelana y se fabrican de manera artesanal, y tiene una crianza de 21 años en barricas de roble
-- Es un whisky premium que combina aromas de vainilla dulce y roble seco, que se realzan con sutiles notas de jerez y humo
 - Su nombre hace referencia a la tradición de disparar 21 salvas desde la Torre de Londres como señal de respeto a la Reina
+- Royal Salute es un whisky escocés creado en 1953 para celebrar la coronación de la Reina Isabel II de Inglaterra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001TZAO6U{{</world>}}

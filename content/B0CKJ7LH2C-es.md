@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior de cuero, plantilla acolchada
 - Cordones asimétricos para un control
+- Parte superior de cuero, plantilla acolchada
 - Suela que no deja marcas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

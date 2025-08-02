@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento: Sintético
 - Cierre: Cremallera
+- Revestimiento: Sintético
 - Material exterior: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

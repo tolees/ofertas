@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tomates cultivados y madurados al sol de forma sostenible
 - Hellmann’s Kétchup 100% Ingredientes Naturales 430ml​
-- Producto vegano y sin gluten
 - Con 28% más tomate y con 38% menos azúcar
 - Botella 100% reciclable
+- Producto vegano y sin gluten
+- Tomates cultivados y madurados al sol de forma sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N0E6NVY{{</world>}}

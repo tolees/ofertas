@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No incluye el juego, solo es un set de merchandising
 - Colgante
 - Diario de los desarrolladores
+- No incluye el juego, solo es un set de merchandising
 - Figurita
 - Incluye:
 

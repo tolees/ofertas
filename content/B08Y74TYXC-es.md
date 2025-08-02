@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cómodo
 - Camiseta
 - Estampado
-- Cómodo
 - algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

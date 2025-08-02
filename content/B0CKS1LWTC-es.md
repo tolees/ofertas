@@ -34,8 +34,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Drop: 10 mm (talón: 33 mm / antepié: 23 mm)
 - Empeine de malla
 - Suela Adiwear
-- Compra 1 talla más grande
 - Mediasuela Cloudfoam
+- Compra 1 talla más grande
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKS1LWTC{{</world>}}

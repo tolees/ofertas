@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cremallera
-- Logotipo de la marca
 - Sin mangas
+- Logotipo de la marca
+- Cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CM568CRP{{</world>}}

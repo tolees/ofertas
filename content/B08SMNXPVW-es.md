@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Audio inalámbrico en toda la casa – agrupa altavoces Denon Home, barras de sonido, sistemas de música o receptor AV con HEOS Built-in para llenar la casa con la misma canción, a través de tu red doméstica
-- Radio internet y reproducción de música: escucha música de Spotify, Amazon Music HD, TIDAL, TuneIn, Deezer y otros servicios cómodamente a través de WiFi, AirPlay 2 o Bluetooth
-- Amazon Alexa: la barra de sonido Denon Home Sound Bar 550 puede funcionar gracias a los micrófonos integrados como un controlador Alexa, similar a un Echo o Echo Dot, para tener funciones de Alexa directamente en tu salón (via firmware Uppate, previsto la primavera de 2021)
 - Sistema de sonido Heimkino: Desde hace décadas, Denon es el especialista en sistemas de sonido de cine en casa. Gracias a Dolby Atmos y DTS:X obtendrás fácilmente un sonido mejor con la barra de sonido compacta de TV que con el altavoz de TV integrado
-- Recuperación de sonido desde Smart TV – Gracias al soporte eARC (canal de retorno de audio mejorado), la conexión con tu sistema de TV es un juego de niños y podrás disfrutar en un instante del gran sonido de cine en casa de Denon
+- Amazon Alexa: la barra de sonido Denon Home Sound Bar 550 puede funcionar gracias a los micrófonos integrados como un controlador Alexa, similar a un Echo o Echo Dot, para tener funciones de Alexa directamente en tu salón (via firmware Uppate, previsto la primavera de 2021)
+- Radio internet y reproducción de música: escucha música de Spotify, Amazon Music HD, TIDAL, TuneIn, Deezer y otros servicios cómodamente a través de WiFi, AirPlay 2 o Bluetooth
 - Calefacción sorprendente: gracias al soporte de televisores 4K, Dolby Vision y HDR10, experimenta cine en casa con un contraste impresionante y rico en matices, representación detallada y colores brillantes y profundos
 - 5.1 Sistema HEIMKINOSYSTEM - Agregue el subwoofer inalámbrico Denon DSW-1H y un par de altavoces envolventes Denon Home para crear un sistema de sonido inalámbrico 5.1 en casa
+- Recuperación de sonido desde Smart TV – Gracias al soporte eARC (canal de retorno de audio mejorado), la conexión con tu sistema de TV es un juego de niños y podrás disfrutar en un instante del gran sonido de cine en casa de Denon
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08SMNXPVW{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de calidad.
-- -
 - Espejo exterior/interior: calefactable; esférico.
+- -
+- Producto de calidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B017MY3VF2{{</world>}}

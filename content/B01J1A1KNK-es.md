@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Goupillon fabricado con fibras BIO
 - Volumen extremo para unas pestañas de alto impacto hasta 24 hs
 - A prueba de grumos y manchas
+- Goupillon fabricado con fibras BIO
 - Oftalmologicamente testeada, apta para ojos sensibles y libre de fragancias
 - Fórmula 100% vegana fabricada con ceras naturales de bayas, candelila y carnaúba
 

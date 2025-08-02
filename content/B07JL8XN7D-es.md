@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zapatillas de trail running óptimas para Acampada y senderismo de Niño
 - Calzado deportivo de la marca Columbia
+- Zapatillas de trail running óptimas para Acampada y senderismo de Niño
 - Zapatillas de trail running CHILDRENS REDMOND WATERPROOF
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fabricado con materiales sostenibles
 - Corte entallado
 - Estilo de tiro medio
-- Fabricado con materiales sostenibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSP9WN69{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ideal para marcos de ventanas, puertas y alféizares, juntas entre paredes y techo y agujeros y grietas en paredes
-- Fácil de aplicar y se puede pintar con la mayoría de pinturas al agua
-- Usado para rellenar grietas en paredes interiores
-- Buena adherencia a muchos materiales de construcción como hormigón, ladrillos, superficies enlucidas y placas de yeso
 - Muy bajas emisiones de COV
+- Buena adherencia a muchos materiales de construcción como hormigón, ladrillos, superficies enlucidas y placas de yeso
+- Usado para rellenar grietas en paredes interiores
+- Fácil de aplicar y se puede pintar con la mayoría de pinturas al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CV5367BV{{</world>}}

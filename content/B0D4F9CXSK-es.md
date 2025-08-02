@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material elástico y cómodo, 100% Algodón, Apto para lavadora
 - Corte regular: Ajuste universal y cómodo
 - Columbia Camiseta de manga corta para hombre, Para el día a día y actividades al aire libre, Ajuste activo
+- Material elástico y cómodo, 100% Algodón, Apto para lavadora
 - Estampado del logo de Columbia en el pecho y la espalda
 - Contenido: 1x Columbia Hombre Camiseta de manga corta North Cascades, Color: Azul (Collegiate Navy, Pasteled Framed), Talla: XXL, Art.: 1834041
 

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Respaldo automático en la nube personal
-- Características de seguridad adicionales
 - Cifrado XTS-AES con protección contra ataques de fuerza bruta y BadUSB
+- Características de seguridad adicionales
 - Nuevo modo de frase de contraseña
 - Opción de implementar varias contraseñas (administrador y usuario) con los modos complejo o de frase de contraseña
 

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Costuras selladas
-- Tejido de poliéster Hydrafort impermeable
 - Capucha de una pieza
 - Puños elásticos
+- Tejido de poliéster Hydrafort impermeable
 - Acabado hidrófugo duradero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

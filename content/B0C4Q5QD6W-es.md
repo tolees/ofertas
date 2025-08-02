@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Resistente hasta 1.5 metros: resistente a la inmersión (durante 30 minutos), pero no a los deportes acuáticos (natación, natación deportiva) ni al submarinismo
 - Enviado con instrucciones e caja de presentación
-- Colleccion ICE smart
 - Caja de aleación de aluminio de 1.4 pulgadas (35 mm) con correa de silicona
+- Colleccion ICE smart
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4Q5QD6W{{</world>}}

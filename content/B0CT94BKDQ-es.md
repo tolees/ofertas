@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rápido rendimiento: Potente procesador de cuatro núcleos para un procesamiento de imágenes de alto rendimiento durante el streaming.
-- Googlecast built-in: Descarga películas, música y vídeos de dispositivos compatibles directamente en tu TV.
 - Control inteligente mediante voz: Google reproduce tus películas favoritas, abre aplicaciones y ofrece recomendaciones.
+- Googlecast built-in: Descarga películas, música y vídeos de dispositivos compatibles directamente en tu TV.
+- Rápido rendimiento: Potente procesador de cuatro núcleos para un procesamiento de imágenes de alto rendimiento durante el streaming.
 - Google TV: Recomendaciones personalizadas y múltiples perfiles de usuario para una experiencia Smart TV personalizada. Accede a contenidos de varios servicios de streaming como Netflix, Prime Video, YouTube, Disney+, Canal+, Spotify, DAZN y más
 - 4K UHD: Imágenes cristalinas con una resolución 4 veces mayor que la FHD.
 

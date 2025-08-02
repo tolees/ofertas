@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta peligrosa misión conduce a una reunión inesperada con Leon S. Kennedy, presentando otra perspectiva de la narrativa del juego que responde a las preguntas persistentes de la campaña principal.
-- Resident Evil 4 Gold Edition incluye Resident Evil 4 y dos elementos adicionales de contenido: Separate Ways, donde vivirás la historia a través de la perspectiva de Ada Wong, y el Extra DLC Pack, que contiene atuendos de personajes adicionales, así como armas y artículos útiles.
 - Separate Ways se reinventa y se basa en el contenido adicional del juego original para ofrecer una nueva aventura ampliada. La historia muestra a la enigmática Ada Wong infiltrándose en el pueblo europeo controlado por Los Iluminados bajo las órdenes de Albert Wesker para apoderarse del secreto más oscuro del grupo: una poderosa sustancia conocida como "el ámbar".
-- Resident Evil 4 pone a Leon S. Kennedy 6 años después del desastre biológico en Raccoon City. Leon S. Kennedy rastrea a la hija desaparecida del presidente hasta un pueblo europeo aislado, donde hay algo terriblemente mal con los aldeanos. Con una jugabilidad modernizada, una historia reimaginada y gráficos vívidamente detallados, Resident Evil 4 marca el renacimiento de un gigante de la industria. Revive la pesadilla que revolucionó el survival horror.
 - El paquete DLC adicional trae consigo una gran cantidad de disfraces y filtros de pantalla para personalizar tu juego, así como un mapa del tesoro ampliado que revela elementos adicionales para encontrar e intercambiar en la misión de Leon, y las poderosas armas Sentinel Nine y Skull Shaker.
+- Resident Evil 4 pone a Leon S. Kennedy 6 años después del desastre biológico en Raccoon City. Leon S. Kennedy rastrea a la hija desaparecida del presidente hasta un pueblo europeo aislado, donde hay algo terriblemente mal con los aldeanos. Con una jugabilidad modernizada, una historia reimaginada y gráficos vívidamente detallados, Resident Evil 4 marca el renacimiento de un gigante de la industria. Revive la pesadilla que revolucionó el survival horror.
+- Resident Evil 4 Gold Edition incluye Resident Evil 4 y dos elementos adicionales de contenido: Separate Ways, donde vivirás la historia a través de la perspectiva de Ada Wong, y el Extra DLC Pack, que contiene atuendos de personajes adicionales, así como armas y artículos útiles.
+- Esta peligrosa misión conduce a una reunión inesperada con Leon S. Kennedy, presentando otra perspectiva de la narrativa del juego que responde a las preguntas persistentes de la campaña principal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CV82ZG6Z{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado en Italia
-- Haga clic en "Metaltex" en la parte superior para ver nuestra tienda
-- Práctica alfombrilla de microfibra drenante incluida en el paquete
 - Dimensiones: 21 x 17 x 14 cm
+- Práctica alfombrilla de microfibra drenante incluida en el paquete
+- Haga clic en "Metaltex" en la parte superior para ver nuestra tienda
+- Fabricado en Italia
 - Escurridor universal para 2 botellas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

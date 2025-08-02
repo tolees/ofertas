@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- GORE-TEX INFINIUM con tecnología WINDSTOPPER: cortaviento, altamente resistente al agua y extremadamente transpirable
 - Talle ajustado para un corte muy ceñido y óptimo rendimiento/Corte específico para running
 - Laminado GORE WINDSTOPPER para la protección contra el viento en zonas expuestas al frío (por ejemplo, en el asiento y en la zona de las rodillas), Bolsillo multimedia en el muslo izquierdo
 - GORE R5 Mallas GORE-TEX INFINIUM, Talla: M, Color: Negro/Amarillo neón, 100659
+- GORE-TEX INFINIUM con tecnología WINDSTOPPER: cortaviento, altamente resistente al agua y extremadamente transpirable
 - Mallas de running para hombre para proteger del viento y de la lluvia ligera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

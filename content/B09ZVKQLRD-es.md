@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: EVA
-- Material exterior: Ante
 - Cierre: Cordones
+- Material exterior: Ante
+- Material de la suela: EVA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZVKQLRD{{</world>}}

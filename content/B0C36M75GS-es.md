@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalones cortos de natación de hilo bien cortados
-- Costuras decorativas en la parte delantera
 - Con cintura media
+- Costuras decorativas en la parte delantera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C36M75GS{{</world>}}

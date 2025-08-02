@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cocodrilo bordado y cosido en la parte delantera: distintivo Lacoste
 - Slim fit; corte entallado: cómodo; ligero
 - Felpa de algodón ecológico cepillado: respeta el planeta y su libertad de movimiento
+- Cocodrilo bordado y cosido en la parte delantera: distintivo Lacoste
 - Cordones ajustables y tobillos acanalados: cinturilla ajustable para una comodidad personalizada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

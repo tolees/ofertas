@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Hebilla de metal fundido
-- Una única trabilla
 - Marca estampada
+- Una única trabilla
 - Gruesa correa de piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

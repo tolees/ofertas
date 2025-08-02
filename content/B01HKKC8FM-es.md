@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece comodidad y libertad de movimiento
-- Tiene detalles distintivos de la marca
 - Pantalon largo deportivo
 - Tejido transpirable
+- Tiene detalles distintivos de la marca
+- Ofrece comodidad y libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01HKKC8FM{{</world>}}

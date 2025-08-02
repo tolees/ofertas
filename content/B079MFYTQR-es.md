@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Homologación ECE 2205; 7 tallas (XS-XXL); 1.305 g en la primera talla de calota
-- Interior extraíble y lavable; sistema de retención Double D
-- Visera antiarañazos; sistema de microaberturas
-- Fibra de vidrio; EPS desarrollado en 3 tallas; 1 abertura de ventilación delantera
-- Bolsillo interior para la tapa de la abertura de ventilación delantera; tejido de gamuza; logo bordado
-- Estilo: ajuste universal
 - Número de pieza:0011a4i0 003 XL
+- Fibra de vidrio; EPS desarrollado en 3 tallas; 1 abertura de ventilación delantera
+- Visera antiarañazos; sistema de microaberturas
+- Bolsillo interior para la tapa de la abertura de ventilación delantera; tejido de gamuza; logo bordado
+- Interior extraíble y lavable; sistema de retención Double D
+- Estilo: ajuste universal
+- Homologación ECE 2205; 7 tallas (XS-XXL); 1.305 g en la primera talla de calota
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079MFYTQR{{</world>}}

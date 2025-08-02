@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalón con cordones
 - Rib en puños y bajo
 - Chándal de dos piezas formado por chaqueta con cuello alto y pantalón largo con bolsillos y cintura elástica ajustable. Logotipo estampado.
 - Tipo de fábrica: 100 % Poliéster
 - Chaqueta con cremallera
+- Pantalón con cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Y3G5GQ3{{</world>}}

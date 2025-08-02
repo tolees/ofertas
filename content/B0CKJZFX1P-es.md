@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Puma Formstrip en el lateral
 - Entresuela de goma apilada
-- Suela de goma
 - Detalles de la marca Puma en la parte superior, el talón y la etiqueta de la lengüeta
+- Suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKJZFX1P{{</world>}}

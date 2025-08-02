@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diámetro exterior: 26,9 mm o 21,3 mm.
-- Con base para la estructura.
-- Embalaje de plástico.
 - Envergadura a elegir.
+- Con base para la estructura.
 - Apta para tubos de acero DN 20/R3/4 o DN 15/R1/2 pulgadas.
+- Diámetro exterior: 26,9 mm o 21,3 mm.
+- Embalaje de plástico.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0012YNJRO{{</world>}}

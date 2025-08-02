@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómoda y ligera
+- Omini Kappa
 - Sudadera con capucha
 - Ideal para todos los estilos
-- Omini Kappa
+- Cómoda y ligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07P7N3H7P{{</world>}}

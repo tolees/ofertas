@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 5 bares.
-- Carcasa de acero inoxidable.
 - Ventana con fecha.
+- Carcasa de acero inoxidable.
+- 5 bares.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09YTH7DHX{{</world>}}

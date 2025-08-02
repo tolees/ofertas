@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica
 - Corte
+- Cintura elástica
 - Tela Suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

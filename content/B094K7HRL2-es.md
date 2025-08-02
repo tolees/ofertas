@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Aperitivo hecho a base de patata
-- El aperitivo optimo para disfrutar solo o acompañado
 - Conservar en lugar fresco, seco y oscuro
 - Con sabor a crema agria
+- El aperitivo optimo para disfrutar solo o acompañado
 - Disfrútalas ahora o más tarde, gracias a la práctica lata que se puede volver a cerrar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

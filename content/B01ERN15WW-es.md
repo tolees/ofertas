@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Chubasquero con capucha integrada, protección para la cremallera en el cuello
-- Ideal para la practica de cualquier modalidad bajo la lluvia
 - Bolsillos laterales sin cremallera
+- Ideal para la practica de cualquier modalidad bajo la lluvia
 - Adecuado para la práctica de deporte a nivel profesional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

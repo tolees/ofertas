@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Entresuela Flex Lite que absorbe los golpes
 - Diseño deportivo con cordones
 - Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
-- Entresuela Flex Lite que absorbe los golpes
 - Suela de tracción de goma súper flexible
 - Parte superior de malla atlética suave
 

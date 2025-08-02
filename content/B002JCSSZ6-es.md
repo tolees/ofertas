@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material exterior: Espuma
+- Cierre: Sin cordones
 - Tipo de talla: talla estándar
 - Material de la suela: Goma
-- Composición: Sintético
-- Cierre: Sin cordones
 - Altura del tacón: 1 centímetro
 - Revestimiento: Sintético
-- Material exterior: Espuma
+- Composición: Sintético
 - Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

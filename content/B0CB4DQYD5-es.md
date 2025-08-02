@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pequeño destruye
+- Cintura alta
 - Detalles de 5 bolsillos
 - Pierna recta
-- Cintura alta
+- Pequeño destruye
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB4DQYD5{{</world>}}

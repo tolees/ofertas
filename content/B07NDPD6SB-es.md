@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modo de empleo: para utilizar el taco fischer, previamente hay que hacer un agujero con un taladro en la superficie que vayamos a poner el DuoPower, con una broca del mismo diámetro que el taco. Introducimos el taco universal en el agujero e introducimos un tornillo con un destornillador junto al objeto que queramos fijar.
 - Tecnología 2K: el componente gris de nylon de gran calidad, dependiendo del material de construcción, se expande, se plega y/o se anuda para una mejor sujeción. El ala de expansión dle componente rojo refuerza la expansión segura y ofrecen una seguridad adicional en la fijación.
-- Principales ventajas: el taco DuoPower ofrece una gran adaptabilidad al material sobre el que se fija, ya que se expande, anuda y/o bloquea, según el tipo de material, permitiendo además grandes cargas.
 - Aplicaciones: con estos tacos podemos fijar desde cuadros, lámparas, estanterías, espejos, armarios, buzones, hasta instalar aires acondicionados, splits, muebles flotantes, tuberías de agua, cableados eléctricos, etc. en materiales como hormigón, hormigón celular, piedra natural, aglomerado, ladrillo macizo, ladrillo macizo sílico-calcáreo, ladrillo hueco, ladrillo perforado, ladrillo perforado sílico-calcáreo, panel de yeso, yeso y cartón yeso.
 - Contenido: el pack contiene 35 tacos DuoPower de 5x25 mm con tornillos.
+- Modo de empleo: para utilizar el taco fischer, previamente hay que hacer un agujero con un taladro en la superficie que vayamos a poner el DuoPower, con una broca del mismo diámetro que el taco. Introducimos el taco universal en el agujero e introducimos un tornillo con un destornillador junto al objeto que queramos fijar.
+- Principales ventajas: el taco DuoPower ofrece una gran adaptabilidad al material sobre el que se fija, ya que se expande, anuda y/o bloquea, según el tipo de material, permitiendo además grandes cargas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NDPD6SB{{</world>}}

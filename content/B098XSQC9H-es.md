@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 2 configuraciones de calor y 2 de velocidad + Ajuste de aire frío bloqueable
-- Secador iónico antiencrespamiento
-- Boquillas concentradoras ultraestrechas de 6x75 mm y 6x90mm + Difusor profesional
 - Potencia (W): 2200.0 watts
+- Secador iónico antiencrespamiento
 - Secador con Motor AC Hecho en Italia y 2200W de potencia
+- Boquillas concentradoras ultraestrechas de 6x75 mm y 6x90mm + Difusor profesional
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B098XSQC9H{{</world>}}

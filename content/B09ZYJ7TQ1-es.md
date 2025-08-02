@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fully removable top panel and a top fan bracket that opens to provide excellent interior access and easy cable routing
-- Iconic angular mesh front provides filtered airflow with a bold, stealth-inspired aesthetic
-- Seamlessly integrated TG panel with steel frame support and bolt-free top-latching mechanism
-- Open interior layout creates a smooth airflow path from front intake to rear exhaust
 - Room for GPUs up to 306 mm long including front fans with 331 mm total space
+- Seamlessly integrated TG panel with steel frame support and bolt-free top-latching mechanism
+- Iconic angular mesh front provides filtered airflow with a bold, stealth-inspired aesthetic
 - Compact yet roomy interior makes the most of mATX with high space efficiency and robust component support
+- Open interior layout creates a smooth airflow path from front intake to rear exhaust
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09ZYJ7TQ1{{</world>}}

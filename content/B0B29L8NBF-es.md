@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fit de inspiración vintage ochentera
 - Este producto es original Levis
 - Abertura de pierna evasé diseñada para estilizar las piernas
-- Fit de inspiración vintage ochentera
 - Confeccionado de forma sostenible con algodón reciclado
 - Tiro alto de 25 cm
 

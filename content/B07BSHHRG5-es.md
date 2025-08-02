@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Caja ilustrada
-- Luigi
-- Super Mario
-- Mario
 - Licencia Oficial
+- Super Mario
+- Luigi
+- Mario
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BSHHRG5{{</world>}}

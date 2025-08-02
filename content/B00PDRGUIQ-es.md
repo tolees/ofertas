@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Color negro
-- No se endurece al aire y se pueden mezclar colores
 - Muy moldeable
+- No se endurece al aire y se pueden mezclar colores
 - Pasta de modelar, masa que no se endurece y es de carga vegetal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

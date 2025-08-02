@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manténgase seco y protegido del sol
 - Ajuste regular y más cómodo
 - Aperturas laterales y pantalón interior de forma permanente
 - Cintura alta con elástico en el interior
+- Manténgase seco y protegido del sol
 - Hecho de una mezcla de material de poliéster y elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

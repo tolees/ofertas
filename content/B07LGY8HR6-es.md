@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1 de Dremel 2.615.S72.3JA Kit de 100 accesorios variados
 - 1 de Dremel Workstation - Centro de trabajo para Dremel (TM) (220)
+- 1 de Dremel 2.615.S72.3JA Kit de 100 accesorios variados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07LGY8HR6{{</world>}}

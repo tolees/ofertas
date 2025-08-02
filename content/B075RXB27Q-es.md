@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Talle ajustado/Corte específico para ciclismo
-- Badana transpirable para ciclismo de carretera, Parte delantera cortaviento preformada, Estructura de soporte con material de malla
 - Tejidos GORE Selected Fabrics: Altamente transpirables con rápida evacuación del sudor
 - Peto de hombre (longitud interior de la pernera: 25 cm) para ciclistas en condiciones climáticas calurosas
+- Badana transpirable para ciclismo de carretera, Parte delantera cortaviento preformada, Estructura de soporte con material de malla
+- Talle ajustado/Corte específico para ciclismo
 - GORE C5 Optiline Peto, Talla: XXL, Color: negro/rojo, 100162
 
 [🛒 Visítala!!!]({{< param buyurl >}})

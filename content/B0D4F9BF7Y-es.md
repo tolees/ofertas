@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contenido: 1x Columbia Gorra Unisex Tech Shade II, Color: Ancient Fossil (Marrón), Talla: Talla única
-- Omni-Sombra: UPF 50: protege contra los daños cutáneos gracias a la construcción ajustada del tejido y a las fibras modificadas para bloquear los rayos UVA/UVB, para que permanezcas protegido bajo el sol.
-- Talla única, fabricada con nailon 100%.
-- La gorra Tech Shade II es una gorra ligera y transpirable para exteriores diseñada para ofrecer protección solar y comodidad
 - Cierre trasero ajustable, logotipo de Columbia, ventilación para mayor transpirabilidad y un diseño ligero para mayor comodidad y estilo.
+- Talla única, fabricada con nailon 100%.
+- Omni-Sombra: UPF 50: protege contra los daños cutáneos gracias a la construcción ajustada del tejido y a las fibras modificadas para bloquear los rayos UVA/UVB, para que permanezcas protegido bajo el sol.
+- La gorra Tech Shade II es una gorra ligera y transpirable para exteriores diseñada para ofrecer protección solar y comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D4F9BF7Y{{</world>}}

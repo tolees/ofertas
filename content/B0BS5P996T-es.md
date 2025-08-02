@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fabricado con tela 100% reciclada
-- Ribete y puños y dobladillo en contraste
 - Chaqueta acolchada con capucha en nailon suave reciclado con parche de goma en la manga
+- Ribete y puños y dobladillo en contraste
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS5P996T{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mantiene tu bebida fría o caliente hasta 2,5 horas
 - Capacidad: 550 ml. Bolsa aislada
-- Nueva y mejorada botella de agua aislada Arctica
 - Peso: 100 g
+- Mantiene tu bebida fría o caliente hasta 2,5 horas
+- Nueva y mejorada botella de agua aislada Arctica
 - Fabricado con tres capas para mantener el calor o el frío
 
 [🛒 Visítala!!!]({{< param buyurl >}})

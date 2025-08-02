@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Si un jugador causa una sobrecarga, la pantalla LED en el centro determinará el número de cartas que debe robar
-- El juego se desarrolla como el UNO clásico y los jugadores aún deben gritar "UNO!" cuando solo les quede una carta en la mano; prueba el modo con temporizador para que el juego vaya todavía más rápido
 - Acción, suspense y sorpresa en este juego con sonidos y luces que señalan la pila de descarte que los jugadores deben usar; mira cómo cambia la luz de color; desde verde a amarillo, rojo a sobrecarga
+- El juego se desarrolla como el UNO clásico y los jugadores aún deben gritar "UNO!" cuando solo les quede una carta en la mano; prueba el modo con temporizador para que el juego vaya todavía más rápido
 - Para una noche de juego y un regalo divertido para cualquier amante de los juegos de cartas a partir de 7 años
 - El conocido juego de cartas UNO multiplica por 3 la diversión con el juego UNO Triple Play
 

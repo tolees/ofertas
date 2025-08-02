@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Regleta enchufes con interruptor de seguridad iluminado para encendido/apagado (bipolar), luz de control para la protección de sobretensión activa y las enchufes Follow
 - Si se enciende el aparato conectado al enchufe Main, se encienden también las tomas Follow - si no circula corriente por el enchufe Main, se apagan los enchufes Follow
-- Regleta enchufes Main-Follow con sistema de conmutación automática: 5x tomas Follow se cambian dependiendo de 1x toma Main
 - Protege los dispositivos eléctricos contra sobretensiones con una corriente de fuga máx. de hasta 19.500A (protección ante tormentas eléctricas, rayos, etc.)
 - La tecnología Master-Slave o Main-Follow es el sistema de conmutación automática de regletas de enchufes (1 Main + 5 Follow)
+- Regleta enchufes Main-Follow con sistema de conmutación automática: 5x tomas Follow se cambian dependiendo de 1x toma Main
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00C255EQG{{</world>}}

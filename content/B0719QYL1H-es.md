@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en un lugar fresco y seco
-- Ideal para todo tipo de carnes a la brasa
 - Color cereza oscuro
 - Con uvas de la variedad Tempranillo
 - En boca es aterciopelado y elegante
+- Conservar en un lugar fresco y seco
+- Ideal para todo tipo de carnes a la brasa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0719QYL1H{{</world>}}

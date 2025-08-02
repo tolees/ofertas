@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Mediasuela Bounce
 - Cierre de cordones
 - Forro textil
+- Mediasuela Bounce
+- Horma clásica
 - Parte textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

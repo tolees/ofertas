@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Regleta de enchufes con una mayor protección contra el contacto accidental - proporciona más seguridad en interiores
 - Regleta enchufes de 6 tomas con protección de contactos y 1,8m de longitud de cable (H05VV-F 3G1,5) - regleta con protección contra sobretensiones
-- Protección contra subidas de tensión: Protege los equipos valiosos de las sobretensiones con una corriente de fuga máxima de hasta 26.000A
+- Regleta de enchufes con una mayor protección contra el contacto accidental - proporciona más seguridad en interiores
 - Las regletas enchufes con protección contra sobretensiones pueden reducir los picos de tensión para que los aparatos conectados no sufran daños
+- Protección contra subidas de tensión: Protege los equipos valiosos de las sobretensiones con una corriente de fuga máxima de hasta 26.000A
 - Enchufe múltiple con protección contra sobretensiones y interruptor de seguridad iluminado para encendido/apagado (bipolar)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

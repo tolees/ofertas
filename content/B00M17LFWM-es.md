@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: Caucho
-- Tipo de tacón: Plano
-- Revestimiento: Sin forro
 - Cierre: Sin cordones
+- Revestimiento: Sin forro
 - Material de la suela: Goma
+- Tipo de tacón: Plano
+- Material exterior: Caucho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00M17LFWM{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuatro tonos para elegir: Esta base de maquillaje viene en cuatro tonos diferentes para adaptarse a una variedad de tonos de piel, desde fair hasta medium. Su acabado mate le da un aspecto natural y sin brillo.
-- Adecuado para todo tipo de piel: La base de maquillaje FV es adecuada para todo tipo de piel, incluyendo la piel grasa y normal. Su fórmula no comedogénica no obstruye los poros y ayuda a controlar el exceso de aceite.
-- 5.Sin crueldad animal: La base de maquillaje FV no se prueba en animales, lo que la hace una opción ética y sostenible para aquellos que buscan productos de belleza sin crueldad.
 - Larga duración: Esta base de maquillaje es resistente al agua y puede durar hasta 15 horas, lo que la hace ideal para aquellos que buscan un maquillaje duradero y de larga duración.
+- Adecuado para todo tipo de piel: La base de maquillaje FV es adecuada para todo tipo de piel, incluyendo la piel grasa y normal. Su fórmula no comedogénica no obstruye los poros y ayuda a controlar el exceso de aceite.
+- Cuatro tonos para elegir: Esta base de maquillaje viene en cuatro tonos diferentes para adaptarse a una variedad de tonos de piel, desde fair hasta medium. Su acabado mate le da un aspecto natural y sin brillo.
+- 5.Sin crueldad animal: La base de maquillaje FV no se prueba en animales, lo que la hace una opción ética y sostenible para aquellos que buscan productos de belleza sin crueldad.
 - Cobertura media y ligera: La base de maquillaje FV es perfecta para aquellos que buscan una cobertura media y ligera. Su fórmula ligera y suave se desliza fácilmente sobre la piel, creando un acabado impecable y sin imperfecciones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

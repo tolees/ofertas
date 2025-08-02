@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- JUEGO DE 2 SARTENES: El set incluye 3 piezas de color negro, dos sartenes de 22 y 26 cm y un mango extraíble que podrás apilar fácilmente para guardarlas sin que ocupen demasiado espacio. Gracias a nuestro juego de cocina, ¡no habrá plato que se resista!
 - VÁLIDOS PARA TODO TIPO DE COCINAS: Sabemos que la versatilidad y la practicidad son imprescindibles para ti mientras cocinas, por eso nuestras sartenes son compatibles con todo tipo de cocinas de inducción, de gas, halógenas, vitrocerámicas y eléctricas.
 - MANGO ERGONÓMICO EXTRAÍBLE: Diseñamos nuestras sartenes con un mango ergonómico para ofrecerte una experiencia de uso fácil y llena de comodidades. Además, ¡Podrás usar las sartenes en el horno retirando el mango con tan solo un click!
-- BERGNER: Nacimos en 1999 con la idea de ofrecer un menaje resistente, duradero y de calidad para todos. Combinamos la innovación con los mejores materiales y diseños para mejorar tu experiencia en casa.
+- JUEGO DE 2 SARTENES: El set incluye 3 piezas de color negro, dos sartenes de 22 y 26 cm y un mango extraíble que podrás apilar fácilmente para guardarlas sin que ocupen demasiado espacio. Gracias a nuestro juego de cocina, ¡no habrá plato que se resista!
 - FABRICADOS EN ALUMINIO PRENSADO: Este material hace que el calor fluya rápida y uniformemente a través de la superficie de la sartén. Además, gracias a su recubrimiento antiadherente, evita que los alimentos puedan quedarse pegados en la superficie.
+- BERGNER: Nacimos en 1999 con la idea de ofrecer un menaje resistente, duradero y de calidad para todos. Combinamos la innovación con los mejores materiales y diseños para mejorar tu experiencia en casa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQ79KMTH{{</world>}}

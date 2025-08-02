@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cordones
-- PUMA Logotipo de gato en el talón
 - Empeine de gamuza
 - Suela de goma que no deja marcas
+- PUMA Logotipo de gato en el talón
+- Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BLCHGSS2{{</world>}}

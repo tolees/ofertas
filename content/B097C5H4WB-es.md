@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CMEVA: material de EVA moldeado por compresión de PUMA para ofrecer un rendimiento máximo y ligero
 - Tira acolchada de piel sintética prémium
+- CMEVA: material de EVA moldeado por compresión de PUMA para ofrecer un rendimiento máximo y ligero
 - Suela de CMEVA moldeada que proporciona agarre y durabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

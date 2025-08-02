@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Agarre firme incluso con guantes gracias al mango robusto con cubierta antideslizante y antivibración, Parachoques de caucho entre el mango y la cabeza para una amortiguación de los impactos en caso de golpes, Equilibrio perfecto entre la cabeza y el mango para un movimiento eficiente y menos fatigoso
-- Cuchilla afilada de acero templado con cubierta alta calidad para tronchar la madera sin esfuerzo, Gancho en el extremo de la cuchilla para levantar la madera, Corte amplio, Reducción del riesgo de astillas gracias a las esquinas redondeadas de la maza y al parachoques de caucho en el mango
+- Contenido: 1x Fiskars Hacha X46, Longitud: 90,5 cm, Peso total: 4,6 kg, Peso de la cabeza: 3,7 kg, Material: acero templado/Plástico reforzado con fibra de vidrio, Color: Negro/Naranja, 1001705
 - Hacha para tallar troncos difíciles de más de 30 cm de diámetro para la chimenea, estufa, barbacoa o fogata y para cortas ramas laterales, Maza para hundir las cuñas en la madera
 - Larga vida útil gracias a la cuchilla de acero templado y al mango de plástico reforzado con fibra de vidrio, Cuchilla fácilmente afilable con un afilador (disponible mediante la referencia: 1000601), Fabricado en Francia
-- Contenido: 1x Fiskars Hacha X46, Longitud: 90,5 cm, Peso total: 4,6 kg, Peso de la cabeza: 3,7 kg, Material: acero templado/Plástico reforzado con fibra de vidrio, Color: Negro/Naranja, 1001705
+- Cuchilla afilada de acero templado con cubierta alta calidad para tronchar la madera sin esfuerzo, Gancho en el extremo de la cuchilla para levantar la madera, Corte amplio, Reducción del riesgo de astillas gracias a las esquinas redondeadas de la maza y al parachoques de caucho en el mango
+- Agarre firme incluso con guantes gracias al mango robusto con cubierta antideslizante y antivibración, Parachoques de caucho entre el mango y la cabeza para una amortiguación de los impactos en caso de golpes, Equilibrio perfecto entre la cabeza y el mango para un movimiento eficiente y menos fatigoso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004BTZKJM{{</world>}}

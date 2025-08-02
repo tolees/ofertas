@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Acoplamiento a fricción de par contra el paso de rosca de tornillos
-- Motor de gran potencia y engranaje metálico para par de giro elevado
-- Unidad electrónica de precisión para regular el número de revoluciones para trabajos delicados
-- Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo
-- Forma constructiva esbelta con superficies ergonómicas de la empuñadura antideslizante
 - Incluye práctico soporte magnético de tornillos en el aparato
 - Mandril portabrocas de sujeción rápida + parada rápida para cambio de herramientas sencillo
+- Forma constructiva esbelta con superficies ergonómicas de la empuñadura antideslizante
+- Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo
+- Motor de gran potencia y engranaje metálico para par de giro elevado
+- Unidad electrónica de precisión para regular el número de revoluciones para trabajos delicados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00LHX6LS4{{</world>}}

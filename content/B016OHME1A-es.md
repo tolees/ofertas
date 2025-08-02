@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Netatmo asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
+- Colócalo en exteriores, a una distancia máxima de 100 metros del módulo interior de la Estación Meteorológica Inteligente
 - Recibe una alerta en tu smartphone cuando aumente la intensidad del viento
 - Mejora tu vida diaria adaptándola al estado del viento
-- Colócalo en exteriores, a una distancia máxima de 100 metros del módulo interior de la Estación Meteorológica Inteligente
-- Netatmo asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
-- Accesorio de la Estación Meteorológica Netatmo (no incluida)
-- Consulta tu historial para conocer la evolución del viento
 - Consulta la velocidad y la dirección del viento en tiempo real en tu smartphone
+- Consulta tu historial para conocer la evolución del viento
+- Accesorio de la Estación Meteorológica Netatmo (no incluida)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B016OHME1A{{</world>}}

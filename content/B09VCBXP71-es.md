@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control Finissimo Ultrafeel es el preservativo más fino de la gama, de 0.04 mm de grosor, ofrece una adaptabilidad óptima y una óptima sensibilidad durante las relaciones
 - Con forma cilindrica para una óptima adaptabilidad y comodidad
 - Los condones Ultrafeel de Control tiene una anchura nominal de 52 mm, una longitud de 185 mm y un grosor de 0.04 mm
+- Control Finissimo Ultrafeel es el preservativo más fino de la gama, de 0.04 mm de grosor, ofrece una adaptabilidad óptima y una óptima sensibilidad durante las relaciones
 - Preservativo de caucho natural, material de calidad, anatómico, con depósito y lubricado
 - El preservativo Control Finissimo Ultrafeel te permite vivir intensamente cada momento de placer
 

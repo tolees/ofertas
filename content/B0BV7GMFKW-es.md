@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 5 acciones de limpieza brillante en frío: 1. Quita manchas 2. Iluminador 3. Fragancia intensa 4. 80 % de ingredientes biodegradables, excluyendo el agua, las sales inorgánicas y los minerales 5. Excelente para un lavado con agua más fría
 - Mayor frescura en cada lavado
+- 5 acciones de limpieza brillante en frío: 1. Quita manchas 2. Iluminador 3. Fragancia intensa 4. 80 % de ingredientes biodegradables, excluyendo el agua, las sales inorgánicas y los minerales 5. Excelente para un lavado con agua más fría
 - Potenciador de fragancia para la colada que hace estallar notas frescas aldehídicas de color verde para una limpieza tradicional aromática y profunda
 - Eficaz en frío: El detergente en cápsulas Ariel Todo En Uno PODS incluye la exclusiva tecnología Cold Cleaning
 

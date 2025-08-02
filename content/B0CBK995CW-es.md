@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 1 recortadora, 2 peines, 1 cepillo para el estilo que tú quieras
 - Fácil de limpiar con agua corriente, totalmente lavable
-- 80 minutos de recorte con 1 carga completa
 - Con hojas afiladas de larga duración
 - Recortadora de barba PRO King C. Gillette con dial de precisión con 40 ajustes de longitud
-- 1 recortadora, 2 peines, 1 cepillo para el estilo que tú quieras
+- 80 minutos de recorte con 1 carga completa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBK995CW{{</world>}}

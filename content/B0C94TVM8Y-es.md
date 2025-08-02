@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - SONRISAS DULCES: Desde 1973, Lip Smacker endulza sonrisas por todo el mundo. Nuestros sabores auténticos, aromas y productos llenos de vida te harán brillar
+- COLECCIÓN PRINCESAS DE DISNEY: Explora la magia de las Princesas de Disney con esta colección. Estos irresistibles sabores se deslizan sobre los labios y proporcionan una hidratación duradera
+- APLICACIÓN: Celebra ocasiones especiales con este bálsamo labial. Haz que tus invitados se sientan especiales con una sonrisa resplandeciente
 - CEREZA: Huele a beso de cereza, ¡y ofrece un acabado natural sin color! Tus labios quedarán perfumados e hidratados
 - DULCE COMO BLANCANIEVES: El bálsamo labial Lip Smacker Blancanieves se inspira en las Princesas de Disney. Hidrata tus labios y los suaviza. Tus labios lucirán luminosos y suaves
-- APLICACIÓN: Celebra ocasiones especiales con este bálsamo labial. Haz que tus invitados se sientan especiales con una sonrisa resplandeciente
-- COLECCIÓN PRINCESAS DE DISNEY: Explora la magia de las Princesas de Disney con esta colección. Estos irresistibles sabores se deslizan sobre los labios y proporcionan una hidratación duradera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C94TVM8Y{{</world>}}

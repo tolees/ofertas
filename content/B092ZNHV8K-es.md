@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compacto, ligero y ergonómico para un manejo cómodo y para taladrar sin esfuerzo en mampostería de hasta 12 mm y madera de hasta 25 mm
+- Las herramientas Easy de Bosch – una ayuda para pequeños proyectos
 - Incluye: EasyImpact 600, maletín de transporte
 - Control electrónico de velocidad de Bosch para regular la velocidad al taladrar con tan solo accionar un gatillo
 - Portabrocas de sujeción rápida de dos piezas para cambiar la herramienta de manera rápida y sencilla
-- Las herramientas Easy de Bosch – una ayuda para pequeños proyectos
+- Compacto, ligero y ergonómico para un manejo cómodo y para taladrar sin esfuerzo en mampostería de hasta 12 mm y madera de hasta 25 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B092ZNHV8K{{</world>}}

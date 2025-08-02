@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Gel espumoso 3-en-1, 300 ml: este gel de ducha limpia la piel y el cabello de los niños y también sirve como baño de espuma para el máximo disfrute de los más pequeños. Emite un agradable aroma a frutas. Evita los enredos, no irrita los ojos
+- Eau de toilette 50 ml: esta eau de toilette, inspirada en la Reina de las Nieves de Disney, perfumará delicadamente la piel de tu pequeña con su deliciosa fragancia de fresa. Es perfectamente adecuada para niños a partir de 3 años
 - Cofre la Reina de las Nieves: sumérgete en el mundo de Frozen con este maravilloso conjunto completo para niña. Sorprende a tu hija con este producto en los colores de Elsa y Anna. Una idea cosmética que sin duda hará feliz
 - Caja de merienda 100% PP: tu hijo estará especialmente orgulloso de llevar a la escuela esta caja de merienda con la imagen de la Reina de las Nieves. Esta caja conservará su refrigerio hasta la hora del recreo
 - Compromisos que nos guían a diario: en Corine de Farme, todos nuestros productos son fabricados en Francia. Contienen aproximadamente un 95% de ingredientes naturales. También luchamos para limitar nuestro impacto en el planeta
-- Eau de toilette 50 ml: esta eau de toilette, inspirada en la Reina de las Nieves de Disney, perfumará delicadamente la piel de tu pequeña con su deliciosa fragancia de fresa. Es perfectamente adecuada para niños a partir de 3 años
-- Gel espumoso 3-en-1, 300 ml: este gel de ducha limpia la piel y el cabello de los niños y también sirve como baño de espuma para el máximo disfrute de los más pequeños. Emite un agradable aroma a frutas. Evita los enredos, no irrita los ojos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CFFY53ZV{{</world>}}

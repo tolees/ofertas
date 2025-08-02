@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Función Sprint: reduce el tiempo de calentamiento de grandes cantidades de agua y otros líquidos hasta en un 50%
 - Direct Select Premium: selección directa y fácil de la zona de cocción, potencia y funciones deseadas
-- PerfectFry, control de temperatura del aceite: selecciona el nivel deseado y la sartén se calentará a la temperatura adecuada para introducir el alimento; La placa te avisará en el momento justo
 - Programación del tiempo de cocción: apaga la zona de cocción seleccionada una vez transcurrido el tiempo establecido
+- PerfectFry, control de temperatura del aceite: selecciona el nivel deseado y la sartén se calentará a la temperatura adecuada para introducir el alimento; La placa te avisará en el momento justo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01E1GTWZW{{</world>}}

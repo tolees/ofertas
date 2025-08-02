@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: 18% spandex y 82% poliamida
-- Logotipo Joma en la pierna Izquierda
 - Con costuras planas en los lados y la pierna para evitar irritaciones
+- Logotipo Joma en la pierna Izquierda
 - Pantalones de fieltro con banda de goma en la cintura
+- Composición: 18% spandex y 82% poliamida
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00LV40GYO{{</world>}}

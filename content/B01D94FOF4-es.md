@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste regular
-- Ropa casual
 - Informal
+- Ropa casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01D94FOF4{{</world>}}

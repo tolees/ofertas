@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Funcionalidad Plug N Play
-- Diseño de disipador de calor de perfil bajo
 - Actualización de DDR4 rentable y de alto rendimiento
+- Diseño de disipador de calor de perfil bajo
+- Funcionalidad Plug N Play
 - Compatible con XMP de Intel
 - Compatible con AMD Ryzen
 

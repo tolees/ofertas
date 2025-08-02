@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Oftalmologicamente testeada, apta para ojos sensibles y libre de fragancias
-- Goupillon fabricado con fibras BIO
-- Fórmula 100% vegana fabricada con ceras naturales de bayas, candelila y carnaúba.
 - A prueba de grumos y manchas
+- Fórmula 100% vegana fabricada con ceras naturales de bayas, candelila y carnaúba.
+- Goupillon fabricado con fibras BIO
 - Volumen modulable, capa tras capa; Tus pestañas, ¡a tu manera!
+- Oftalmologicamente testeada, apta para ojos sensibles y libre de fragancias
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08159FKYW{{</world>}}

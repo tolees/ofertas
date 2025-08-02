@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Diámetro máximo de perforación en madera 20 mm y en metal 10 mm.
 - Taladro atornillador con batería de litio 10.8V (2.0Ah), porta brocas de 10 mm y par máximo de 24 Nm.
-- 15 posiciones de par para un atornillado constante y freno electrónico del motor para mayor control.
 - 2 velocidades variables y reversibles para obtener el máximo rendimiento.
+- 15 posiciones de par para un atornillado constante y freno electrónico del motor para mayor control.
 - Incluye: 2 baterías de litio 10.8V (2.0Ah), cargador multi-voltaje XR y maletín.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

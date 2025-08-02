@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómoda plantilla termoformada y extraíble
 - Estabilizador de marca
+- Cómoda plantilla termoformada y extraíble
 - Cómoda suela de espuma EVA bicolor y suela de goma
 - Tenis para correr con combinaciones de materiales en la parte superior
 

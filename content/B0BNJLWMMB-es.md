@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rampa
 - Costuras decorativas
+- Rampa
 - Tela superior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

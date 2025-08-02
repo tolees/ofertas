@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- logotipo de adidas
 - Longitud 1/2
 - Pantalones cortos deportivos
+- logotipo de adidas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQWYRWRH{{</world>}}

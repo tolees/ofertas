@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento: Tela
 - Cierre: Velcro
+- Revestimiento: Tela
 - Material exterior: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

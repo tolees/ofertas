@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Adecuado para ojos sensibles
 - Bolígrafo de gel altamente pigmentado
 - Producto de calidad óptima
-- Adecuado para ojos sensibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLM6QSXR{{</world>}}

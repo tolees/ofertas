@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema Operativo: Windows 11 Pro
-- Memoria RAM de 8GB SO-DIMM DDR4
-- Almacenamiento de 256GB SSD M.2 NVMe PCIe
-- Procesador Intel Core i3-1215U (6C/HexaCore 4.4GHz, 10MB)
-- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 220 nits
 - Tarjeta gráfica integrada Intel UHD Graphics
+- Memoria RAM de 8GB SO-DIMM DDR4
+- Pantalla de 15.6" Full HD 1920 x 1080 pixeles 220 nits
+- Almacenamiento de 256GB SSD M.2 NVMe PCIe
+- Sistema Operativo: Windows 11 Pro
+- Procesador Intel Core i3-1215U (6C/HexaCore 4.4GHz, 10MB)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C7L9CGSS{{</world>}}

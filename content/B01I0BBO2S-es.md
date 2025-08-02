@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Empeine: Piel (Piel vacuna)
 - Suela/Características: EVA para mayor ligereza
 - EXTRALIGHT XL para una mayor ligereza y amortiguación
-- Tiras elásticas para un fácil ajuste
 - Color: Marrón
+- Tiras elásticas para un fácil ajuste
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01I0BBO2S{{</world>}}

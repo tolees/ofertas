@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Parte superior de malla técnica
 - Horma clásica
 - Diseño concebido para ofrecer mayor amortiguación y respuesta
-- Parte superior de malla técnica
 - Cierre de cordones
 - Escapa de la rutina
 

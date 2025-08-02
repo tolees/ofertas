@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Universal Music
 - Musica
+- Universal Music
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B075HB41FD{{</world>}}

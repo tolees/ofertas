@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Presentado en caja metálica y adornado con un lazo, un regalo único para sorprender a los amantes de cacao. Contiene una recopilación de los bombones más populares Flors y nuestras exquisitas napolitanas.
-- Fabricado íntegramente en España. En Chocolates Amatller utilizamos ingredientes de calidad. Elaborados principalmente con Azúcar, Manteca de cacao, Almendras, Mermelada de Frutas, Leche en polvo, Café y Leticina de Soja.
-- Nuestros chocolates, en sus diferentes formatos, son la idea perfecta para regalar. Un regalo original y sofisiticado para parejas y amigos, en cualquier ocasión o época del año.
 - Consigue momentos únicos en familia alrededor de la mesa estas Navidades con los mejores dulces navideños, somos maestros chocolateros. Gran selección elaborada para los paladares más sofisticados.
 - Caja Regalo de Bombones Surtidos Amatller y Chocolatinas de 244 gr. Con 8 tipos de productos, nuestra Gran Selección de combinaciones y texturas irresistibles, una variedad que se ajusta a todo tipo de paladares.
+- Fabricado íntegramente en España. En Chocolates Amatller utilizamos ingredientes de calidad. Elaborados principalmente con Azúcar, Manteca de cacao, Almendras, Mermelada de Frutas, Leche en polvo, Café y Leticina de Soja.
+- Nuestros chocolates, en sus diferentes formatos, son la idea perfecta para regalar. Un regalo original y sofisiticado para parejas y amigos, en cualquier ocasión o época del año.
+- Presentado en caja metálica y adornado con un lazo, un regalo único para sorprender a los amantes de cacao. Contiene una recopilación de los bombones más populares Flors y nuestras exquisitas napolitanas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08LP1F4V9{{</world>}}

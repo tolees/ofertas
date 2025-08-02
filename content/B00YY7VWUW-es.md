@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El embalaje puede variar.
 - Coloretes diseñados para mezclarse y fundirse con tu piel.
+- El embalaje puede variar.
 - Fórmula con micro pigmentos minerales que le dan a las mejillas un aspecto saludable.
-- Crea un acabado sutil o un contorno llamativo.
 - Los deslumbrantes tonos Creme Puff Blush están diseñados para mezclarse y fundirse sin esfuerzo, para que puedas lograr el color óptimo.
+- Crea un acabado sutil o un contorno llamativo.
 - Dermatológicamente testado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

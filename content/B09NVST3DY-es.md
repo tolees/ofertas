@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Longitud 1/1
 - Polainas deportivas
 - logotipo de adidas
-- Longitud 1/1
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09NVST3DY{{</world>}}

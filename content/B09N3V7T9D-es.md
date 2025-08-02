@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - INCLUYE: Olla eléctrica multifunción Ninja Foodi 11 en 1 (enchufe UE), recipiente de cocción extraíble de 6 l, antiadherente y apto para lavavajillas, cesta para freír con aire de 3,7 l, rejilla reversible y guía de recetas. En acero inoxidable
 - GRAN CAPACIDAD DE 6 L: Cocina hasta para 4 personas. TODO EN UNO: Simplemente mueve el deslizador SmartLid para alternar entre los modos Pressure Cook, Combi-Steam y Air Fry
+- 11 VERSÁTILES FUNCIONES DE COCCIÓN CON UNA TAPA: Olla a presión, Freír con aire, Parrilla, Hornear, Deshidratar, Sellar/Saltear, Cocción a vapor, Cocción lenta, Yogurtera, Freír con aire y vapor, Hornear y vapor
 - FREÍR CON AIRE: Hasta un 75% menos de grasa que los métodos de fritura tradicionales* (* Probado con patatas cortadas a mano y fritas en abundante aceite). MODO COMBI-STEAM: Combina el vapor con la convección para obtener resultados rápidos, jugosos y crujientes
 - DIMENSIONES: 36 cm x 35 cm x 33 cm. Peso: 10,7 kg
 - Olla a presión: Hasta un 70% más rápido que métodos de cocción tradicionales* (* Comparado con la cocción a fuego lento como en estofados)
-- 11 VERSÁTILES FUNCIONES DE COCCIÓN CON UNA TAPA: Olla a presión, Freír con aire, Parrilla, Hornear, Deshidratar, Sellar/Saltear, Cocción a vapor, Cocción lenta, Yogurtera, Freír con aire y vapor, Hornear y vapor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09N3V7T9D{{</world>}}

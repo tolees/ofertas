@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impermeabilizante – Gracias a su tecnología exclusiva Silicotec, esta silicona profesional permite conseguir revestimientos elásticos y 100% estancos.
 - Gran resistencia – Esta silicona universal es resistente a los rayos UV, a la intemperie, al envejecimiento y a las temperaturas extremas (-20 ºC a 80 ºC).
+- Impermeabilizante – Gracias a su tecnología exclusiva Silicotec, esta silicona profesional permite conseguir revestimientos elásticos y 100% estancos.
+- Fácil de aplicar – Este líquido impermeabilizante se aplica fácilmente con una brocha, un rodillo o incluso con pistola air-less. Las herramientas se limpian con agua.
 - Envío y detalles – Rubson Silicona Líquida SL3000, revestimiento elástico y 100% impermeable para reparar o impermeabilizar cubiertas planas e inclinadas, color teja, 1 x 5 kg, cubo
 - Multimaterial – La silicona multiusos puede aplicarse en todo tipo de soportes, como hormigón, cemento, fibrocemento, metales, plástico, aislamientos térmicos, etc.
-- Fácil de aplicar – Este líquido impermeabilizante se aplica fácilmente con una brocha, un rodillo o incluso con pistola air-less. Las herramientas se limpian con agua.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00H9CSLN0{{</world>}}

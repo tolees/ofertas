@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Más precisión: Para un mejor control y más precisión, utilícela con el accesorio de agarre para detallistas de Dremel (577)
 - Diámetro de trabajo 0,8 mm; diámetro del mango 3,2 mm; velocidad máxima recomendada 35.000 RPM
 - Se adapta a todas las herramientas Dremel multiusos/rotativas u otras herramientas multiusos/rotativas con mandril de 3,2 mm
-- Más precisión: Para un mejor control y más precisión, utilícela con el accesorio de agarre para detallistas de Dremel (577)
 - Fresas de grabado: Las fresas de grabado están especialmente diseñadas para tallar, fresar y grabar en detalle con una multiherramienta rotativa
 - Versátil: Estos cortadores funcionan bien en varios materiales como madera, fibra de vidrio, cuero, plástico y metales blandos
 

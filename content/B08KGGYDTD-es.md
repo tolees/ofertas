@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Se corta y se pela muy fácilmente con las máquinas Cricut
 - Sportflex de Cricut, es un vinilo textil que aguanta más de 50 lavados, diseñado específicamente para ropa deportiva de poliéster y nylon
 - Vinilo flexible, perfecto para ropa de yoga u otro deporte con el que tengas que estar en constante movimiento más
-- Puedes utilizar desde un color hasta 3 capas de distintos colores, pudiendo aplicarlo también en madera
 - Compatible con todas las máquinas de Cricut
+- Puedes utilizar desde un color hasta 3 capas de distintos colores, pudiendo aplicarlo también en madera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KGGYDTD{{</world>}}

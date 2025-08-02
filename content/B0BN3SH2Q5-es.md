@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 74% algodón, 24% poliéster, 2% elastano
 - Pantalón de Denim Stretch con 5 bolsillos, bordado con logotipo en el bolsillo trasero, skinny fit
+- 74% algodón, 24% poliéster, 2% elastano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN3SH2Q5{{</world>}}

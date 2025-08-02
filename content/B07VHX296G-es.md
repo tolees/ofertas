@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - APLICACIÓN- UHU stic es idóneo para pegar papel, cartón, fotos, poliestireno expandido, etiquetas, textiles,... Se aplica ejerciendo una ligera presión sobre los materiales. Las partes se unirán de forma inmediata. Puede lavarse fácilmente con agua fría.
-- ¿NO ENCUENTRAS EL TAMAÑO QUE BUSCAS? Disponible en 2 formatos: 21g, 40g
 - PARA TODAS LAS EDADES Y PROFESIONES- A menudo se usa como pegamento barra escolar, pegamento barra infantil y cola manualidades niños, pero también para el trabajo.
 - UHU STIC PARA TODA LA FAMILIA- Compuesto en un 98% de ingredientes naturales (incluido el agua) y sin solventes. Pegado resistente, rápido y duradero, de fácil aplicación, altamente eficiente y, por supuesto, lavable en frío.
+- ¿NO ENCUENTRAS EL TAMAÑO QUE BUSCAS? Disponible en 2 formatos: 21g, 40g
 - CARACTERÍSTICAS- UHU stic es seguro desde el punto de vista fisiológico. Pegamento de barra sin disolventes. Pega de forma rápida y fuerte. Tapón con rosca único que impide que el pegamento se seque. Envase fabricado con un 50% de plástico reciclado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

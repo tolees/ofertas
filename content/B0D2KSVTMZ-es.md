@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de la marca
 - Con detalles perforados en el empeine
+- Detalles distintivos de la marca
 - Ofrecen comodidad y amortiguación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

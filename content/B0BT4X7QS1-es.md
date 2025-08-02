@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de talón: recubierto
-- Breve
 - Suela de goma
+- Breve
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT4X7QS1{{</world>}}

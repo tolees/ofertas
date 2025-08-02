@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las barras magnéticas están fabricadas con plásticos 100 % reciclados para que la construcción sea sostenible y respetuosa con el planeta
+- Geomag Classic es un juego de construcción basado en la fuerza mágica del magnetismo para crear modelos 3D sin límites, incentivando la creatividad y la imaginación. Apto para mayores de 3 años
 - El paquete contiene 20 barras magnéticas, 20 bolas metálicas, 2 plataformas cuadradas y pentagonales y un práctico y resistente estuche de bolsillo para ordenar y llevarlas encima
 - El magnetismo es la clave de la filosofía de Geomagworld: fomenta el aprendizaje, el pensamiento lógico y la creatividad, jugando con plataformas de construcción divertidas y estimulantes
-- Geomag Classic es un juego de construcción basado en la fuerza mágica del magnetismo para crear modelos 3D sin límites, incentivando la creatividad y la imaginación. Apto para mayores de 3 años
+- Las barras magnéticas están fabricadas con plásticos 100 % reciclados para que la construcción sea sostenible y respetuosa con el planeta
 - La gama Glow está fabricada con materiales naturales que captan y reproducen la luz del sol, iluminándose por la noche
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Estructura de aluminio para una durabilidad óptima
-- Memoria integrada y preajustes de iluminación
 - Diseño compacto 60% para una experiencia de juego portátil y sencilla
+- Memoria integrada y preajustes de iluminación
 - Teclas de PBT de doble inyección con funciones secundarias impresas en el lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica
-- Corte ajustado
-- Contienen al menos un 70% de material reciclado y renovable
-- Talle medio
 - 93% algodón / 7% elastano
+- Cintura elástica
+- Contienen al menos un 70% de material reciclado y renovable
+- Corte ajustado
+- Talle medio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZPMCL12{{</world>}}

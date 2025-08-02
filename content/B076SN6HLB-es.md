@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- MAPA DE PONIENTE COJIN GAME OF THRONES
 - Para los fans de Game Of Thrones
+- MAPA DE PONIENTE COJIN GAME OF THRONES
 - Cojín decoración Mapa de Poniente
-- MAPA DE PONIENTE COJIN GAME OF THRONES
-- MAPA DE PONIENTE COJIN GAME OF THRONES
 - Cojín Rectangular y con un tacto muy suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

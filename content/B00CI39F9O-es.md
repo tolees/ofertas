@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cable audio estér+F10235:I10256eo con conector tipo Jack 3.5" macho en ambos extremos
-- negro
 - facil de instalar
+- Cable audio estér+F10235:I10256eo con conector tipo Jack 3.5" macho en ambos extremos
 - facil de usar
+- negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00CI39F9O{{</world>}}

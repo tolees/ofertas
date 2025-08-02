@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera deportiva
 - Puños y dobladillo de canalé
-- Bolsillo canguro
 - Capucha con cordón
+- Bolsillo canguro
+- Sudadera deportiva
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQWNM5KZ{{</world>}}

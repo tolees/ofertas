@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De alta calidad
 - La tapa de goma del dedo del pie
 - Producto de la marca Converse
+- De alta calidad
 - Detalles modernos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

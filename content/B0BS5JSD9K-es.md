@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parka larga de sarga de algodón
-- Fabricado con tela 100% reciclada
-- Forro de contraste en la parte superior del cuerpo
 - Solapas inclinadas en el dobladillo
+- Forro de contraste en la parte superior del cuerpo
+- Fabricado con tela 100% reciclada
+- Parka larga de sarga de algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS5JSD9K{{</world>}}

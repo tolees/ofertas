@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera con cremallera, pantalón con cremallera en el bajo
-- Tuta visa fluo
 - Compuesto, compuesto
-- Tipo de deporte: calcio
+- Tuta visa fluo
 - 100% poliéster triacetato, logotipos bordado
-- Pantalón con elástico en el bajo
+- Tipo de deporte: calcio
 - Bolsillos laterales, puños en tejido acanalado
+- Sudadera con cremallera, pantalón con cremallera en el bajo
+- Pantalón con elástico en el bajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01CYKC7V8{{</world>}}

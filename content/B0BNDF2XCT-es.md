@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pierna recta
 - Ofrecen una comodidad óptima
 - Este producto es original Levis
 - Un básico veraniego
+- Pierna recta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNDF2XCT{{</world>}}

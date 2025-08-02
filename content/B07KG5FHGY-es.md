@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bragueta con cremallera
-- Fit recto
-- Ultimate Chino Straight
 - Cintura elástica Flex Comfort Waistband para una mayor elasticidad
+- Ultimate Chino Straight
+- Bragueta con cremallera
 - Bolsillo de seguridad invisible con cierre de cremallera oculto y pequeño bolsillo monedero
+- Fit recto
 - Tejido de algodón ultraelástico para una máxima flexibilidad y comodidad
 - Pantalón chino informal con tecnología Smart 360 Flex
 

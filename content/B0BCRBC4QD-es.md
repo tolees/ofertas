@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ¡Maestro Fu! Visita a tu amigo y mentor, el Maestro Fu, cuyas palabras de sabiduría te ayudarán a aprender nuevos poderes.
-- ¡Haz equipo! Experimenta la emoción del trabajo en equipo mientras luchas contra los villanos y eliminas a los akumas juntos en el modo cooperativo local.
 - ¡Descubrimiento! Explora las calles de París como Marinette y Adrien y descubre la historia que hay detrás de sus alter-egos Ladybug y Cat Noir.
-- Búsqueda de la amistad: Como Marinette y Adrian, tendrás que ponerte al día con tus amigos para obtener pistas que te permitan avanzar en la historia y desbloquear momentos especiales de amistad.
 - ¡Súper artilugios! Utiliza el veloz yo-yo de Ladybug y el versátil bastón mágico de Cat Noir para balancearte o saltar en la batalla. Mejora los artilugios para desbloquear nuevos y poderosos movimientos.
+- ¡Haz equipo! Experimenta la emoción del trabajo en equipo mientras luchas contra los villanos y eliminas a los akumas juntos en el modo cooperativo local.
+- Búsqueda de la amistad: Como Marinette y Adrian, tendrás que ponerte al día con tus amigos para obtener pistas que te permitan avanzar en la historia y desbloquear momentos especiales de amistad.
 - ¡Más villanos! Enfréntate a villanos conocidos como Hawk Moth, Gamer, Weredad y Mr. Pigeon, ¡y también a nuevos enemigos!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

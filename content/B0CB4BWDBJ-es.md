@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura elástica y cordones
-- Marca en la pierna
 - Pantalones cortos holgados para correr
+- Marca en la pierna
+- Cintura elástica y cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4BWDBJ{{</world>}}

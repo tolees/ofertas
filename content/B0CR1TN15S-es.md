@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- con cierre de botón y cremallera
 - Short con bolsillos en la parte delantera y trasera, con cierre de botón y cremallera, con detalle de flores bordadas en los bolsillos, con pernera con bajo deshilachado
 - con estampado gráfico posicional de dibujo y texto en el delantero con relieve
+- con cierre de botón y cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CR1TN15S{{</world>}}

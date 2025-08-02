@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tobillo y lengüeta acolchados
 - Con detalles distintivos de la marca
-- Parte superior en ante y nailon
 - Cierre con cordones
 - Parche con logotipo en la lengüeta
+- Parte superior en ante y nailon
 - Puntera reforzada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

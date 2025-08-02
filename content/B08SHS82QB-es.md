@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nuestro modelo mide 184 cm y lleva una talla L
-- Composición del material: 100% algodón
 - Camisa vaquera para hombre
 - Muy cómoda de llevar
+- Composición del material: 100% algodón
+- Nuestro modelo mide 184 cm y lleva una talla L
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08SHS82QB{{</world>}}

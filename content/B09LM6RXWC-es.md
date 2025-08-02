@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Uso versátil: la bomba se puede utilizar con aspersores o sistemas de riego gracias a su función de temporizador con tres ajustes de duración
 - Incluye: GardenPump 18V-2000, unidad de control de la batería, bomba de agua de lluvia, manguera de conexión de 2.5 m, guía de manguera, accesorio de fijación al depósito, accesorio de fijación a la pared, batería de 18V 2.5 Ah, cargador AL 1810 CV, caja
 - La bomba se puede montar en una pared o en el depósito gracias a los accesorios de pared y de depósito incluidos, lo que permite que el depósito esté situado en cualquier lugar del jardín
-- Uso versátil: la bomba se puede utilizar con aspersores o sistemas de riego gracias a su función de temporizador con tres ajustes de duración
-- Gran variedad de aplicaciones: funcionamiento potente, hasta 25 m con caudal fuerte y proyección de pulverización para plantas de difícil acceso y tareas de limpieza sencillas
 - Uso con diferentes depósitos de agua: idónea para depósitos de agua de lluvia descubiertos y para aquellos cubiertos con tapas de seguridad
+- Gran variedad de aplicaciones: funcionamiento potente, hasta 25 m con caudal fuerte y proyección de pulverización para plantas de difícil acceso y tareas de limpieza sencillas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09LM6RXWC{{</world>}}

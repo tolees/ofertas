@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla moldeada para confort
 - Parte encima de piel suave
+- Plantilla moldeada para confort
 - Logo de archivo y logotipo enmarcado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

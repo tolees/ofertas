@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 96% PU 4% FABRIC
 - BLANCO
 - Zapatillas casual para hombre
-- 96% PU 4% FABRIC
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZKHPV2S{{</world>}}

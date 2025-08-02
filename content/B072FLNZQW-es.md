@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material: 100% acrílico
-- Cuello: cuello redondo
 - Longitud de la manga: manga larga
+- Cuello: cuello redondo
+- Material: 100% acrílico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B072FLNZQW{{</world>}}

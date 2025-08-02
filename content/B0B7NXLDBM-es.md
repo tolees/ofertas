@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Almacenamiento de 512GB SSD
-- Tarjeta gráfica NVIDIA GeForce GTX 1660 SUPER 6GB GDDR6
-- Sin sistema operativo
 - Procesador Intel Core i5-12400F, 6C (6P + 0E) / 12T, P-core 2.5 / 4.4GHz, 18MB
+- Sin sistema operativo
+- Tarjeta gráfica NVIDIA GeForce GTX 1660 SUPER 6GB GDDR6
 - Memoria RAM de 16GB (2x 8GB UDIMM DDR4-3200) ampliables hasta 32GB
 
 [🛒 Visítala!!!]({{< param buyurl >}})

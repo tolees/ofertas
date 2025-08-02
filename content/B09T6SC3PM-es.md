@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Punto doble 100% poliéster reciclado
 - Cierre de cremallera y cuello alzado
-- Corte entallado
 - Tejido transpirable AEROREADY
+- Corte entallado
+- Punto doble 100% poliéster reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09T6SC3PM{{</world>}}

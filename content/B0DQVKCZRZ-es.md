@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bata midi, de mangas largas, confeccionado en tejido de viscosa ECOVERO súper suave
 - Ideal para llevar a juego con un camisón: es el conjunto perfecto
+- Bata midi, de mangas largas, confeccionado en tejido de viscosa ECOVERO súper suave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQVKCZRZ{{</world>}}

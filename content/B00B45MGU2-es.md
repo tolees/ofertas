@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Vataje (W): 3.0 watts
+- Está fabricado con aluminio de alta calidad y proyecta una luz blanca cálida de bajo consumo
+- Todo lo que tienes que hacer es disfrutar de tu jardín
+- Crea un encantador punto destacado en tu entrada con este aplique My Garden de Philips negro
 - Voltaje: 240.0 volts
 - Fuente de alimentación: eléctrica con cable
-- Crea un encantador punto destacado en tu entrada con este aplique My Garden de Philips negro
-- Está fabricado con aluminio de alta calidad y proyecta una luz blanca cálida de bajo consumo
-- Vataje (W): 3.0 watts
-- Todo lo que tienes que hacer es disfrutar de tu jardín
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00B45MGU2{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- contiene: pasta dientes con menta (100 g), 1 cepillo dientes de dedo y 1 cepillo masajeador, así como 1 cepillo doble cara con 2 cabezales
 - para el completo cuidado dental del perro
+- contiene: pasta dientes con menta (100 g), 1 cepillo dientes de dedo y 1 cepillo masajeador, así como 1 cepillo doble cara con 2 cabezales
 - para perros
 
 [🛒 Comprar!!!]({{< param buyurl >}})

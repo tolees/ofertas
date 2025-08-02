@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tiene detalles distintivos de la marca
-- Tejido transpirable
 - Tela suave
+- Tejido transpirable
 - Ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño clásico
 - Cinturilla elástica distintiva de Calvin Klein
+- Diseño clásico
 - Elige la comodidad y los tejidos transpirables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

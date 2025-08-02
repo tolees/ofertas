@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Processor Cores 16 (8P-cores + 8E-cores)
 - 2,5 E-core Base Frequency (GHz)
-- 24 Processor Threads
 - 3,4 P-core Base Frequency (GHz)
+- Processor Cores 16 (8P-cores + 8E-cores)
+- 24 Processor Threads
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BG65D6Z2{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma del talón: plano
 - Suela: Caucho
+- Forma del talón: plano
 - Parte superior: cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

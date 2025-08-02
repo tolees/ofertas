@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo PUMA Cat en el pecho
 - Nailon y poliéster
 - Con capucha
 - Manga larga
+- Logotipo PUMA Cat en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XDZKBGY{{</world>}}

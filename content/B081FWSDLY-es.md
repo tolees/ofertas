@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Prácticos bolsillos laterales para las manos
-- Cierre elástico
-- Construcción de punto ligero que ofrece una comodidad y transpirabilidad superiores
 - Material suave
+- Cierre elástico
+- Prácticos bolsillos laterales para las manos
+- Construcción de punto ligero que ofrece una comodidad y transpirabilidad superiores
 - Dobladillo con costuras laterales cruzadas para un aspecto más aerodinámico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

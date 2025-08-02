@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puma Detalles de la marca
 - Cierre de cordones
+- Puma Detalles de la marca
 - Ancho normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

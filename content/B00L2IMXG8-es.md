@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color azul
 - Capacidad 8 l
 - Material de plastico
+- Color azul
 - Producto de limpieza para el hogar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

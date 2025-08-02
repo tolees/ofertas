@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Frentes de acero zincado en blanco; picaporte, palanca y cilindro niquelados
+- Cerradura ideal para perfiles de hierro, entrada 13, 5 mm; solo requiere 27 mm de profundidad en perfil
 - Palanca deslizante 11 mm de ancho; picaporte reversible accionado por manilla
 - Caja y cubierta de acero galvanizado
-- Cerradura ideal para perfiles de hierro, entrada 13, 5 mm; solo requiere 27 mm de profundidad en perfil
 - No incluye cerradero ni escudo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

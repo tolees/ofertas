@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Previene las arrugas y el fotoenvejecimiento cutáneo.
 - Uso diario durante todo el año para una piel protegida y libre de imperfecciones.
-- Textura atercipelada que se funde con la piel.
 - Con un ligero toque de color natural.
+- Textura atercipelada que se funde con la piel.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00UHROTMG{{</world>}}

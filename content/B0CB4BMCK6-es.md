@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Redondo
-- Logotipo de la temporada
 - Corte normal
+- Logotipo de la temporada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB4BMCK6{{</world>}}

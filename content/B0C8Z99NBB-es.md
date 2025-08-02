@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tapeta con botones en el cuello
 - Detalles distintivos de Tommy Hilfiger
+- Tapeta con botones en el cuello
 - Ofrece una comodidad óptima
 
 [🛒 Comprar!!!]({{< param buyurl >}})

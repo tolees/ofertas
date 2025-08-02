@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Botón de encendido/apagado
 - Luces
+- Botón de encendido/apagado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0992VX8GJ{{</world>}}

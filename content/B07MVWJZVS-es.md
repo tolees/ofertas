@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La memoria de bolsillo lleva un cable integrado para una cómoda portabilidad
-- Compatible con ordenadores personales y mac, con software de copia de seguridad automática incluido para windows y compatible con time machine (se requiere reformateado)
-- 2,5 veces más rápida que la mayoría de los discos duros portátiles y rendimiento de hasta 400.mb/s
-- Memoria de estado sólido sin piezas móviles, diseñada y fabricada expresamente por wd para ofrecer gran seguridad y fiabilidad
 - Resistente a caídas de hasta 2 metros, con un paragolpes de protección de caucho para soportar impactos y sacudidas incluso cuando está conectada
+- Memoria de estado sólido sin piezas móviles, diseñada y fabricada expresamente por wd para ofrecer gran seguridad y fiabilidad
+- Compatible con ordenadores personales y mac, con software de copia de seguridad automática incluido para windows y compatible con time machine (se requiere reformateado)
+- La memoria de bolsillo lleva un cable integrado para una cómoda portabilidad
+- 2,5 veces más rápida que la mayoría de los discos duros portátiles y rendimiento de hasta 400.mb/s
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MVWJZVS{{</world>}}

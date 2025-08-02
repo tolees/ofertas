@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro textil y sintético
-- Cierre de cordones
-- Suela de goma y TPU para todo tipo de superficies
-- Horma clásica
-- Amortiguación Lightstrike
 - Empeine textil y sintético
+- Forro textil y sintético
+- Suela de goma y TPU para todo tipo de superficies
+- Amortiguación Lightstrike
+- Horma clásica
+- Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYQ59HGM{{</world>}}

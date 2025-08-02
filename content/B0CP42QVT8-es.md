@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Velocidad secuencial de lectura de hasta 5.000 MB/s. Interfaz PCIe 4x4/5x2
 - Factor de forma: M.2 (2280)
 - Rendimiento para las tareas diarias como gaming, trabajo y creación de contenido
-- Velocidad secuencial de lectura de hasta 5.000 MB/s. Interfaz PCIe 4x4/5x2
 - Disponible en 1TB y 2TB
 
 [🛒 Aquí!!!]({{< param buyurl >}})

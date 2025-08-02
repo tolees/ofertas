@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello alzado y cremallera hasta el pecho
 - Punto doble 100% poliéster reciclado
 - Corte entallado
-- Cuello alzado y cremallera hasta el pecho
 - Bolsillos frontales con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Instalación Fácil: Un rollo de tira de luces LED de 30m hace tu instalación rápida y fácil evitando complicados pasos de instalación. Adecuado para dormitorios, sala de estar, cocinas, escaleras, comedores y grandes áreas de fiesta. No está diseñado para iluminar. Sólo se utiliza para crear ambiente.
-- Control APP Multi-Funcional: Controla las luces LED con la APP Govee Home o la caja de control. Con una conexión Bluetooth estable, puedes cambiar los colores, encender y apagar las luces o ajustar el brillo.(No es Compatible con WiFi Alexa o Google Home)
 - Control APP Multi-Funcional: Controla las luces LED con la APP Govee Home o la caja de control. Con una conexión Bluetooth estable, puedes cambiar los colores, encender y apagar las luces o ajustar el brillo.(No es Compatible con WiFi Alexa y Google Home)
+- Control APP Multi-Funcional: Controla las luces LED con la APP Govee Home o la caja de control. Con una conexión Bluetooth estable, puedes cambiar los colores, encender y apagar las luces o ajustar el brillo.(No es Compatible con WiFi Alexa o Google Home)
 - Ilumina tu Fiesta de Música: El micrófono integrado de alta sensibilidad te permite sincronizar las tiras LED con tu música favorita para decoracion Navidad. Elije entre el modo dinámico para ritmos fuertes y fiestas animadas o el modo calma para reuniones más relajadas.
 - Múltiples Opciones de Escena: Con 64 modos de escena en la aplicación, la tira LED puede transformar tu espacio para que coincida con tu estado de ánimo o actividad. Te permite elegir establecer fondos impresionantes según tu emoción o propósito.
 

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo canguro
-- Contiene al menos un 70% de material reciclado y renovable
-- Corte holgado
-- Interior cepillado
 - Felpa 70% algodón / 30% poliéster reciclado
+- Bolsillo canguro
+- Corte holgado
+- Contiene al menos un 70% de material reciclado y renovable
 - Puños y dobladillo de canalé
+- Interior cepillado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYY6NGPX{{</world>}}

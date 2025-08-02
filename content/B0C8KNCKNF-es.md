@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fáciles de llevar
 - No es resistente al agua
+- Fáciles de llevar
 - Tommy Hilfiger Detalles de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

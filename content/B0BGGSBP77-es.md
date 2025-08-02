@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Mediasuela con amortiguación para una pisada cómoda
 - Cierre de cordones
 - Forro sintético
-- Mediasuela con amortiguación para una pisada cómoda
 - Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

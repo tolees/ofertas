@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con empuñadura de goma y ventana de monitoreo de tinta
-- Punta de bola rodante
 - Capuchón con clip de metal
-- Con regulador de caudal
 - Tinta de color azul, a prueba de agua, con resistencia a la luz UV, agentes químicos y disolventes y de secado rápido
+- Punta de bola rodante
 - Con un plumín solido de 0.7 mm y un ancho de línea de 0.5 mm
+- Con regulador de caudal
+- Cuenta con empuñadura de goma y ventana de monitoreo de tinta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003CRXODS{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- POLO DE PUNTO PIQUE: Luce este polo de manga corta durante todo el año. Este polo es ligero y transpirable, y combina a la perfección con chinos, pantalones cortos y vaqueros. Puedes ponértelo solo en verano o combinarlo con una sudadera esos días en los que empieza a refrescar.
-- DETALLES: Ribete de punto plano en el cuello y en la abertura de las mangas. Tapeta de dos botones y dobladillo inferior recto con aberturas laterales para que puedas moverte cómodamente.
-- PIQUÉ DE ALGODÓN: El piqué de algodón 100 % proporciona un tacto suave con una elasticidad y transpirabilidad naturales. Estrechamente entretejido para mayor durabilidad y comodidad.
 - AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
+- PIQUÉ DE ALGODÓN: El piqué de algodón 100 % proporciona un tacto suave con una elasticidad y transpirabilidad naturales. Estrechamente entretejido para mayor durabilidad y comodidad.
+- DETALLES: Ribete de punto plano en el cuello y en la abertura de las mangas. Tapeta de dos botones y dobladillo inferior recto con aberturas laterales para que puedas moverte cómodamente.
+- POLO DE PUNTO PIQUE: Luce este polo de manga corta durante todo el año. Este polo es ligero y transpirable, y combina a la perfección con chinos, pantalones cortos y vaqueros. Puedes ponértelo solo en verano o combinarlo con una sudadera esos días en los que empieza a refrescar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07N4N4RGW{{</world>}}

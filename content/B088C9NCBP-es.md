@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Ojales de ventilación
 - Etiqueta de G-Star RAW Originals tejida en el centro delantero
-- Tira ajustable por detrás
 - Visera redondeada pespunteada
+- Tira ajustable por detrás
 - Cintas reforzadas en las costuras interiores
 
 [🛒 Comprar!!!]({{< param buyurl >}})

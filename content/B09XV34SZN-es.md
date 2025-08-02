@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 📦 Funda de compresión con infografía: Ø17 x 31 cm.
 - 🎨 Color exterior GRIS OSCURO y color interior AZUL TURQUESA
+- 🌡Temperaturas - 3 ºC | - 9 ºC | - 28ºC
 - 🔗 Cremallera izquierda o derecha con posibilidad de unir 2 sacos
-- 🧵 PES PA15D/380T
+- 📦 Funda de compresión con infografía: Ø17 x 31 cm.
 - ⚙Bolsillo interior | Collarín térmico interno | Solapa térmica interior | Señales de emergencia en el interior del saco | Tensor reflectante.
 - 🧗‍♂️ ACTIVIDADES: El saco de dormir ANDES 900 D H30 es perfecto para expediciones y trekking durante todo el año
-- 🌡Temperaturas - 3 ºC | - 9 ºC | - 28ºC
+- 🧵 PES PA15D/380T
 - 🧶 Pluma (duvet 90/10) de 700 cuins con 600 g de relleno
 
 [🛒 Comprar!!!]({{< param buyurl >}})

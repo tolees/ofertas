@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Puños elásticos
 - Corte entallado
-- Tecnología transpirable AEROREADY
 - Cremallera hasta el pecho y cuello alzado
 - 100% poliéster (reciclado)
+- Tecnología transpirable AEROREADY
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09P1NGZVN{{</world>}}

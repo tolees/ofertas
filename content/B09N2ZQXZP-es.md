@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London. Base de maquillaje compacta. Tono 03 Sesame. 10gr.'
-date: 2025-06-25 23:30:11
+date: 2025-08-02 08:03:19
 image: 'https://m.media-amazon.com/images/I/3190hJqJQKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09N2ZQXZP-es Rimmel London. Base de maquillaje compacta. Tono 03...'
 sku: 'B09N2ZQXZP-es'
 tags: [ '9ed22afa-2efb-4171-8c99-31b8476ebf6d_0','9ed22afa-2efb-4171-8c99-31b8476ebf6d_2701','Arborist Merchandising Root','Bases de maquillaje','Belleza','Maquillaje','Maquillaje facial','Outlet Belleza','Self Service','Special Features Stores','rimmel london','🇪🇸', ]
-actualPrice: 3.69 EUR
+actualPrice: 3.67 EUR
 currency: EUR
-price: 3.69
+price: 3.67
 comparePrice: 13.79 EUR
 prodname: 'Rimmel London. Base de maquillaje compacta. Tono 03 Sesame. 10gr.'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Rimmel London'
 buyurl: 'https://www.amazon.es/dp/B09N2ZQXZP/?tag=tolees-21'
-descuento: '73.24'
-average: '4.77666666666667'
+descuento: '73.39'
+average: '4.334'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cobertura media y ligera pero que dura todo el día
-- Apto para pieles sensibles y no obstruye poros. Dermatológicamente testado
-- Controla los brillos sin secar la piel
 - Fórmula Vegana
 - A prueba de sudor y resistente al agua
+- Apto para pieles sensibles y no obstruye poros. Dermatológicamente testado
+- Controla los brillos sin secar la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09N2ZQXZP{{</world>}}

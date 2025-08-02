@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fácil de peinar
+- Para estilos inmediatos y duraderos que necesitan un agarre fuerte
 - Distribución equitativa
 - No deja residuos
-- Para estilos inmediatos y duraderos que necesitan un agarre fuerte
-- Fácil de peinar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07D5K1L4C{{</world>}}

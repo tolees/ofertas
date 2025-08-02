@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 70% poliéster (reciclado) / 30% algodón
 - Corte ajustado
+- 70% poliéster (reciclado) / 30% algodón
 - AEROREADY
 
 [🛒 Comprar!!!]({{< param buyurl >}})

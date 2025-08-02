@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bandas elásticas: ajuste cómodo
 - Suela de EVA para un peso ligero
+- Bandas elásticas: ajuste cómodo
 - Plantilla XL Extralight para mayor ligereza y absorción de impactos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

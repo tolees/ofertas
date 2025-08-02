@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela de tracción flexible
-- Skechers Detalle del logotipo
 - Plantilla acolchada y cómoda
+- Skechers Detalle del logotipo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1S616D{{</world>}}

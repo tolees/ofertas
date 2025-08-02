@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- soft fabric
 - De la marca: NIKE
+- soft fabric
 - elastic waistband with lanyard
 - regular fit
 

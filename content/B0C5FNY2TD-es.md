@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Instrucciones de cuidado: apto para lavadora
 - Vaqueros Pantalones Largos
 - Composición: 77 por ciento algodón - 21 por ciento poliéster - 2 por ciento elastano
-- Ajuste: Slim
+- Instrucciones de cuidado: apto para lavadora
 - Cierre: cierre de cremallera y botón
+- Ajuste: Slim
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5FNY2TD{{</world>}}

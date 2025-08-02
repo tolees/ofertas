@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro de tela suave para zapatos
 - Plantilla acolchada de espuma viscoelástica
 - Suela flexible ligera que absorbe los golpes
+- Forro de tela suave para zapatos
 - Suela de tracción flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

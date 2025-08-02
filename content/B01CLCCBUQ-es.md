@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cintura elástica con la inscripción de Tommy Hilfiger
 - Ajuste cómodo y adecuado
 - Detalles distintivos de Tommy Hilfiger
-- Cintura elástica con la inscripción de Tommy Hilfiger
 - Estos calzoncillos están disponibles en tres colores distintos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

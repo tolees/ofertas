@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- COLOR INTENSO: ¡Colores vivos y brillantes que inspirarán la imagen y la creatividad de todos los niños!
 - MÁS INFORMACIÓN: Sección redonda, diámetro 7mm y largo 9cm; apto para niños a partir de 3 años
-- ALTA CALIDAD: estos colores de cera se deslizan fácilmente por la página, ideales para una variedad de técnicas de coloración, proyectos creativos y obras de arte de precisión
 - CRAYONES CRAYOLA: 24 crayones de cera de colores surtidos
+- COLOR INTENSO: ¡Colores vivos y brillantes que inspirarán la imagen y la creatividad de todos los niños!
+- ALTA CALIDAD: estos colores de cera se deslizan fácilmente por la página, ideales para una variedad de técnicas de coloración, proyectos creativos y obras de arte de precisión
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000ET7F8C{{</world>}}

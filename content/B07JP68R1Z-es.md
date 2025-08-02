@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- cotton quality with proportion of elastane
 - chino pants with slim leg
+- cotton quality with proportion of elastane
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07JP68R1Z{{</world>}}

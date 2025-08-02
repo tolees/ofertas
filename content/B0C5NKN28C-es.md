@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - El estilo del running que va contigo
 - Parte superior de malla
-- Forro textil
 - Cierre de cordones
+- Forro textil
 - Mediasuela Bounce
 
 [🛒 Aquí!!!]({{< param buyurl >}})

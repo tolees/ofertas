@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Parte superior sintética
+- Suela de goma para mayor agarre.
 - Entresuela acolchada para mayor comodidad.
 - Construcción de botín
-- Suela de goma para mayor agarre.
-- Parte superior sintética
 - Cierre de velcro para poner y quitar fácilmente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
